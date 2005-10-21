@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2005-07-01"
+last_updated: "2005-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,135 +21,33 @@ state: "VER"
 ---
 # LEY NUMERO 58 ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY PATRIMONIAL DEL ESTADO DE AGUASCALIENTES
+LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE OCTUBRE DE 2005.
 
-Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de septiembre de 2000.
+Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
-FELIPE GONZALEZ GONZALEZ, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes, sabed:
+Al margen un sello que dice: Estados Unidos Mexicanos.- Gobernador del Estado de Veracruz-Llave.
 
-Que por el H. Congreso del Estado, se me ha comunicado lo siguiente:
+Miguel Alemán Velazco, Gobernador del Estado Libre y Soberano de Veracruz-Llave, a sus habitantes sabed:
 
-El H. Congreso del Estado en sesión ordinaria celebrada hoy, tuvo a bien expedir el siguiente Decreto:
+Que la Honorable Legislatura del Estado se ha servido dirigirme la siguiente Ley para su promulgación y publicación:
 
-"NUMERO 113
+Al margen un sello que dice: Estados Unidos Mexicanos.- Poder Legislativo.- Estado Libre y Soberano de Veracruz-Llave.
 
-La H. LVII Legislatura del Estado Libre y Soberano de Aguascalientes, en uso de las facultades que le conceden los Artículos 27, fracción I, 32 y 35 de la Constitución Política Local, en nombre del Pueblo, Decreta:
+La Honorable Quincuagésima Octava Legislatura del Congreso del Estado Libre y Soberano de Veracruz-Llave, en uso de la facultad que le confieren los artículos 33 fracción I de la Constitución Política del Estado: 44 de la Ley Orgánica del Poder Legislativo; 103 del Reglamento para el Gobierno Interior del Poder Legislativo y en nombre del pueblo, expide la siguiente:
 
-LEY PATRIMONIAL DEL ESTADO DE AGUASCALIENTES
+> <small>(REFORMADA SU DENOMINACIÓN POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
-## TITULO PRIMERO. DISPOSICIONES GENERALES
+LEY NÚMERO 58
 
-### CAPITULO UNICO
+ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-###### ARTICULO 1o.
+## TÍTULO PRIMERO
 
-La presente Ley es de orden público e interés social, tiene por objeto regular las acciones relativas a la adquisición de bienes muebles e inmuebles, planeación, programación, presupuestación, gasto, ejecución, conservación, mantenimiento, control, arrendamiento, registro, enajenación del patrimonio, así como la contratación de servicios de cualquier naturaleza que realicen:
+### CAPÍTULO ÚNICO. Disposiciones generales
 
-I.- Las dependencias de Gobierno del Estado, así como sus organismos públicos desconcentrados, el Consejo Estatal Electoral, la Procuraduría de Protección Ciudadana y órganos autónomos que ejerzan presupuesto del Estado.
-
-II.- Las entidades paraestatales, que incluyen los organismos públicos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos estatales.
-
-III.- Los Municipios del Estado, así como sus organismos descentralizados, que no cuenten con disposiciones legales en estas materias; y
-
-IV.- (DEROGADA, P.O. 8 DE AGOSTO DE 2005)
-
-> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2005)</small>
-
-Los Poderes Judicial y Legislativo, cuando realicen acciones relativas a la adquisición, arrendamiento y prestación de servicios deberán sujetarse, con base a su normatividad interna, a los procedimientos que establece el artículo 53 de esta Ley, apegándose a los montos que la misma prevé para cada uno de ellos.
-
-###### ARTICULO 2o.
-
-El patrimonio estatal y municipal respectivamente es la parte de la hacienda pública compuesta por el conjunto de bienes, derechos e inversiones que de forma directa o indirecta son utilizados para la realización de sus objetivos y finalidades.
-
-###### ARTICULO 3o.
-
-Corresponde al titular del Poder Ejecutivo del Estado y a los Ayuntamientos de los Municipios, la administración del patrimonio del Estado y de los Municipios en el ámbito de su competencia, así como elaborar y mantener un programa de aprovechamiento de los bienes que tengan a su cargo.
-
-Para ello se auxiliarán de las dependencias y unidades administrativas que sean necesarias, a quienes podrán delegar sus facultades con excepción de las siguientes:
-
-I.- Declarar que un bien mueble o inmueble forma parte del dominio público; y
-
-II.- Desincorporar del dominio público algún bien que hubiere dejado de prestar su fin de uso público, y pasarlo al dominio privado.
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
-
-###### ARTICULO 4o.
-
-La aplicación de esta Ley queda a cargo del Titular del Poder Ejecutivo del Estado a través de la Secretaría de Gestión e Innovación, y de los Ayuntamientos a través de su Secretaría de Administración, Dirección Administrativa o su similar, sin perjuicio de la intervención que corresponda a otras dependencias o entidades del Ejecutivo Estatal o de las Administraciones Públicas Municipales, conforme a sus atribuciones enmarcadas en la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, y en los Bandos y Reglamentos Municipales o cualquiera otra disposición legal.
-
-###### ARTICULO 5o.
-
-Para los fines de esta Ley se entiende por:
-
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
-
-I. Ley: La Ley Patrimonial del Estado de Aguascalientes.
-
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
-
-II. Dependencias: Las unidades administrativas que integran el Poder Ejecutivo Estatal, así como las que integran la Administración Pública centralizada de los Municipios del Estado.
-
-III. Entidades: Las entidades paraestatales que incluyen los organismos públicos descentralizados del Estado, las empresas de participación estatal mayoritaria y los fideicomisos públicos estatales, así como los organismos públicos descentralizados municipales, las empresas de participación municipal y los fideicomisos públicos municipales.
-
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
-
-IV. Secretaría: la Secretaría de Gestión e Innovación en lo relativo a los bienes del Estado, así como las Secretarías de Administración o Direcciones de Administración Municipales, Direcciones Administrativas de las Dependencias y Entidades, o sus similares, según sea el caso.
-
-V. Contraloría: la Contraloría General del Estado y las Contralorías Municipales, o los órganos de control según sea el caso.
-
-VI. Secretaría de Finanzas: la Secretaría de Finanzas del Gobierno del Estado, la de los Municipios, las Tesorerías o sus equivalentes.
-
-VII. Comité: El Comité de Adquisiciones y Enajenaciones del Gobierno del Estado, Comités Municipales o Comités de las Dependencias y Entidades, según sea el caso.
-
-VIII. Bienes: Todo aquello que es susceptible de apropiación, ya sea en beneficio de la colectividad o para el logro de las finalidades del Estado y de los Municipios, ya sean muebles o inmuebles.
-
-IX. Proveedor, Concursante o Licitante: La persona que celebre contratos de adquisiciones, arrendamiento o prestación de servicio; y
-
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
-
-X. Sujetos de la Ley o Convocante: Los que se indican en las Fracciones I al III del Artículo 1º de esta Ley.
-
-###### ARTICULO 6o.
-
-La Secretaría tendrá las atribuciones siguientes:
-
-I.- Intervenir en representación de los Gobiernos Estatal o Municipales en su caso, en las operaciones de adquisición, administración, enajenación, inspección y vigilancia de bienes muebles e inmuebles y, en su caso, celebrar los contratos relativos para su uso, aprovechamiento y explotación.
-
-II.- Integrar el Comité de Adquisiciones y Enajenaciones en el ámbito de sus respectivas competencias.
-
-III.- Formular conjuntamente con el Comité las normas, políticas y lineamientos en materia de adquisiciones y enajenaciones para todos los tipos de procedimientos que regula esta Ley;
-
-IV.- Establecer los lineamientos para el arrendamiento de bienes muebles e inmuebles y la prestación de servicios que se requieran;
-
-V.- Celebrar todos los contratos de las adquisiciones de bienes, arrendamientos y servicios en general con cargo al presupuesto correspondiente, excepto en aquellas Entidades que por su naturaleza jurídica y presupuestal estén facultadas para adquirir en forma directa ó aquellas que por el monto, puedan conforme a esta ley, efectuarlas directamente las dependencias;
-
-VI.- Controlar y operar el padrón único de proveedores del Gobierno del Estado;
-
-VII.- Aprobar los formatos conforme a los cuales se documentarán los pedidos y contratos de adquisición;
-
-VIII.- Elaborar el Manual Unico de Adquisiciones y Enajenaciones, así como mantenerlo actualizado;
-
-IX.- Atender y ejecutar las determinaciones que emita el Comité;
-
-X.- Solicitar a las dependencias y entidades la presentación de sus proyectos de programas de adquisiciones, enajenaciones y arrendamientos de bienes muebles e inmuebles y de la contratación de servicios;
-
-XI.- Establecer los procedimientos para la comprobación de la calidad, especificaciones y cantidades en las adquisiciones;
-
-XII.- Vigilar la adecuada y oportuna distribución de las mercancías, y su correcto manejo dentro de los almacenes del Estado y de los Municipios;
-
-XIII.- Establecer normas generales para que las dependencias y entidades presten permanentemente mantenimiento, cuidado y uso debido a los bienes muebles e inmuebles propiedad del Estado y de los Municipios;
-
-XIV.- Autorizar la adquisición de bienes usados cuando ésto se justifique, previo avalúo correspondiente;
-
-XV.- Coadyuvar con la Secretaría de Finanzas para determinar y ejecutar las sanciones a que se hagan acreedores los participantes en los procedimientos a los que se refiere esta Ley; y
-
-XVI.- Las demás que le otorguen otras disposiciones legales.
-
-###### ARTICULO 7o.
-
-Para todo lo no previsto por esta Ley, tendrán aplicación supletoria el Código Civil del Estado y el Código de Procedimientos Civiles del Estado, según corresponda.
+> <small>(REFORMADO POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
 ###### Artículo 1.
 
@@ -199,29 +97,9 @@ IV. No tener antecedentes penales por la comisión de delitos realizados con dol
 
 Para ser titular de la Procuraduría General de Justicia se estará a lo dispuesto por los artículos 50 y 53 de la Constitución Política del Estado.
 
-## TITULO SEGUNDO. DE LOS CONTRATOS DE QUE SEAN OBJETO LOS BIENES MUEBLES E INMUEBLES DE DOMINIO PRIVADO
+## TÍTULO SEGUNDO
 
-### CAPITULO I. De la Adquisición y Arrendamiento de Bienes Inmuebles
-
-###### ARTICULO 8o.
-
-Para satisfacer los requerimientos de inmuebles que planteen las dependencias, la Contraloría deberá:
-
-I. Calificar los requerimientos, atendiendo a las características de los inmuebles solicitados y a su localización;
-
-II. Revisar el inventario y catálogo de la propiedad patrimonial estatal o municipal, para determinar la existencia de inmuebles disponibles o, en su defecto, la necesidad de adquirir otros;
-
-III. Asignar en su caso a las dependencias y entidades interesadas, los inmuebles disponibles; y
-
-IV. De no ser posible lo anterior, solicitar al Comité la adquisición del inmueble con cargo a la partida presupuestal autorizada de la dependencia o entidad interesada y realizar las gestiones necesarias para la firma, registro y archivo de la escritura de propiedad correspondiente.
-
-La autorización de adquisición de inmuebles, se hará siempre y cuando exista autorización del Titular del Poder Ejecutivo del Estado o del Ayuntamiento respectivo, corresponda a los programas anuales aprobados, exista autorización de inversión en su caso, y no se disponga de inmuebles estatales o municipales adecuados para satisfacer los requerimientos específicos.
-
-No se aplicarán las disposiciones de esta ley a las adquisiciones de inmuebles para la ejecución de obra pública.
-
-###### ARTICULO 9o.
-
-Cuando el Gobierno Estatal o los Ayuntamientos de los Municipios adquieran en los términos del derecho privado un inmueble para cumplir con finalidades de orden público, éstos podrán convenir con los poseedores derivados o detentadores precarios, la forma y términos conforme a los cuales se darán por terminados los contratos de arrendamiento, comodato o cualquier otro tipo de relación jurídica o de hecho que les otorgue la posesión o la detentación del bien, pudiendo cubrirse en cada caso la compensación que se considere procedente. El término para la desocupación y entrega del inmueble no deberá exceder de seis meses.
+### CAPÍTULO I. Del Ejecutivo del Estado
 
 ###### Artículo 8.
 
@@ -255,7 +133,7 @@ XIII. Delegar en servidores públicos subalternos, sin perjuicio de ejercerlas d
 
 XIV. Las demás que expresamente le confieran esta ley y las diversas leyes del Estado.
 
-### CAPITULO II. Del Aprovechamiento y Enajenación de Bienes Inmuebles
+### CAPÍTULO II. De la Administración Pública Centralizada
 
 ###### Artículo 9.
 
@@ -331,83 +209,257 @@ XIII. Coordinación General de Comunicación Social
 
 Las dependencias tendrán igual rango y entre ellas no habrá preeminencia alguna, con excepción de lo que establece la Constitución Política del Estado acerca de la Secretaría de Gobierno.
 
-###### ARTICULO 10.
+###### Artículo 10.
 
-Cuando se trate de adquisiciones por la vía de expropiación, la Secretaría General de Gobierno del Estado realizará los trámites relativos de conformidad con las disposiciones aplicables en la materia.
+Al frente de cada dependencia habrá un titular que, para el despacho de los asuntos que le competan, se auxiliará con subsecretarios o sus equivalentes, directores generales, directores, subdirectores, jefes y subjefes de departamento, oficina, sección y mesa, y demás prestadores de servicios de apoyo técnico o asesoría, en términos de lo dispuesto por esta ley, cuando así lo señalen sus respectivos reglamentos interiores y lo determinen sus presupuestos.
 
-###### ARTICULO 11.
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2002)</small>
 
-La Secretaría sólo podrá determinar el arrendamiento de bienes inmuebles para el servicio de la Administración Pública Estatal o Municipal respectivamente, cuando no sea posible o conveniente su adquisición. La propia Secretaría, deberá resolver tal conveniencia, considerando para ello lo que las dependencias destinatarias argumenten y acrediten para tales supuestos, previa intervención de la Secretaría de Finanzas.
+Cada dependencia contará, además con una unidad administrativa subordinada directamente al titular de la misma y que será responsable de la presupuestación, programación y ejercicio del presupuesto a su cargo, en los términos de las disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2004)</small>
 
-Tanto la adquisición como el arrendamiento de inmuebles para oficinas públicas, requerirán de estudios, proyectos o programas previos, en los que participen las Secretarías de Gestión e Innovación y Finanzas, independientemente de la competencia o intervención que les corresponda a otras dependencias.
+En el caso de la Secretaría de Finanzas y Planeación, las funciones que corresponden a la unidad administrativa se desarrollarán conforme a la distribución de competencias que establezca su reglamento interior.
 
-Las dependencias y entidades, previamente al arrendamiento de bienes muebles, deberán realizar los estudios de costo beneficio, considerando, la posible adquisición mediante arrendamiento con opción a compra.
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2004)</small>
 
-Para determinar el monto total por concepto de contratación de servicios, deberán considerarse las erogaciones en forma anualizada.
+Los titulares de las unidades administrativas a que se refiere este artículo deberán contar con título profesional en las licenciaturas en Derecho, Contaduría Pública, Administración o Economía, expedido por autoridad o institución legalmente facultada para ello, cumpliendo los demás requisitos que establezca la legislación aplicable.
 
-###### ARTICULO 12.
+###### Artículo 11.
 
-En las operaciones inmobiliarias en las que el Estado o algún Municipio adquiera o arriende un inmueble, corresponderá a la Secretaría lo siguiente:
+Corresponde originalmente a los titulares de las dependencias, el trámite y resolución de los asuntos de su competencia, pero para la mejor organización del trabajo podrán delegar en los servidores públicos subalternos cualquiera de sus atribuciones, excepto aquellas que por disposición de ley o del reglamento interior respectivo deban ser ejercidas exclusivamente por dichos titulares. Para su validez, los actos de delegación deberán constar por escrito y publicarse en la Gaceta Oficial del Estado.
 
-I.- Dictaminar el monto de las rentas que deba pagar el Estado o el Municipio en su carácter de arrendatarios;
+###### Artículo 12.
 
-II.- Dictaminar con apoyo en peritos en la materia, el valor de los inmuebles objeto de la operación de adquisición; y
+Los titulares de las dependencias centralizadas tendrán las atribuciones comunes siguientes:
 
-III.- Establecer las políticas y lineamientos en materia de adquisiciones, enajenaciones y arrendamientos de inmuebles, a través de la expedición del Manual correspondiente.
+I. Coordinar, en la esfera de su competencia y por acuerdo del titular del Poder Ejecutivo, la política gubernamental, y ejercer sus atribuciones en términos de lo dispuesto por esta ley, demás legislación aplicable y el reglamento interior respectivo;
 
-El monto de rentas o el precio de los inmuebles que se deseen adquirir, no podrá ser superior al señalado en el dictamen.
+II. Representar legalmente a la dependencia a su cargo y, en los asuntos que así se determine, al Gobierno del Estado por acuerdo expreso del titular del Poder Ejecutivo;
 
-###### ARTICULO 13.
+III. Formular, en el ámbito de su competencia, proyectos de ley, decreto, reglamentos, acuerdos y convenios, los que remitirán para su autorización al Gobernador del Estado, a través de la Secretaría de Gobierno, para los efectos, según el caso, de lo dispuesto por los artículos 34 fracción III, 49 fracción III y 50 primer y segundo párrafos, de la Constitución Política del Estado, así como 8 fracción II de esta ley;
 
-Los actos jurídicos relacionados con inmuebles en los que sea parte el Gobierno Estatal o Municipal y que requieran la intervención de Notario Público, al ser una función de orden público y de interés general se celebrarán ante aquellos que el Titular del Poder Ejecutivo requiera para tal efecto.
+IV. Comparecer ante el Congreso del Estado, a convocatoria expresa de éste y por conducto del Gobernador, para dar cuenta del estado que guarda la dependencia a su cargo; o por instrucción del Gobernador cuando se discuta una ley o se estudie un negocio concerniente a su respectivo ramo;
 
-#### SECCION PRIMERA. Disposiciones Generales
+V. Realizar, en los casos que así proceda, acciones de coordinación con autoridades federales, de otras entidades federativas o de los Ayuntamientos del Estado;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+VI. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que les sean señalados por delegación o les correspondan por suplencia;
 
-###### ARTICULO 14.
+VII. Celebrar, conforme a lo dispuesto por el artículo 8 fracción VII de esta ley, acuerdos y convenios en el ámbito de su competencia, previa autorización escrita del Gobernador del Estado;
 
-Los bienes inmuebles de dominio privado del Estado pueden ser objeto de todos los contratos que regula el derecho común, con el requisito para su validez, de que cuando se trate de actos de dominio, éstos sean autorizados por el Congreso del Estado y se haga la publicación de las condiciones de la enajenación en el Periódico Oficial del Estado y en uno de circulación Estatal.
+VIII. Celebrar, en la esfera de su competencia, contratos en los términos señalados por esta ley y demás leyes del Estado;
 
-#### SECCION SEGUNDA. De la Planeación, Programación y Presupuestación
+IX. Certificar y, en su caso, expedir copias de los documentos que se encuentren en los archivos de su dependencia;
 
-###### ARTICULO 15.
+X. Nombrar y remover libremente a los servidores públicos de la dependencia a su cargo, cuyo nombramiento o remoción no estén determinados de otra forma por la Constitución o leyes del Estado;
 
-Los inmuebles que estuvieron destinados al uso común por disposición de la Ley, o a un servicio público y que dejaron de ser utilizados con ese fin, solo podrán ser enajenados después de transcurridos tres meses desde la fecha de la publicación del decreto o acuerdo que declare la desincorporación o el cambio de destino, conforme a lo dispuesto por el Código Civil.
+XI. Nombrar al titular de la unidad administrativa responsable de la presupuestación, programación y ejercicio del presupuesto de la dependencia que corresponda, en los términos que establezca el reglamento interior respectivo;
 
-###### ARTICULO 16.
+XII. Elaborar la estadística de la dependencia a su cargo, para la integración de la Estadística General del Gobierno del Estado;
 
-Toda venta de bienes inmuebles que dependa del Estado o de los Municipios cuando así lo determinen, se hará en pública subasta, sobre la base del avalúo comercial practicado por la autoridad catastral o su similar en el caso de los Municipios, conforme a las condiciones aprobadas por esta dependencia en coordinación con la Secretaría General de Gobierno en el caso del Estado y con el Ayuntamiento en caso de los Municipios.
+XIII. Establecer, en términos de lo dispuesto por el artículo 8 fracción V de esta ley, y conforme a las prioridades señaladas en el Plan Veracruzano de Desarrollo, las políticas de desarrollo de las entidades paraestatales del sector correspondiente, así como planear, coordinar, vigilar y evaluar su operación y resultados, de conformidad con las asignaciones sectoriales de gasto y financiamiento previamente establecidas y autorizadas;
 
-#### SECCION TERCERA. Del Comité de Adquisiciones y Enajenaciones
+XIV. Tener bajo su adscripción directa, para la atención y despacho de los asuntos de su competencia, los órganos administrativos desconcentrados creados por Decreto del titular del Poder Ejecutivo del Estado, que les estarán jerárquicamente subordinados y tendrán facultades específicas para resolver sobre la materia o dentro del ámbito territorial que se determine en cada caso;
 
-###### ARTICULO 17.
+XV. Designar a los prestadores de servicios de apoyo técnico o asesoría que requieran para el mejor desempeño de sus funciones y de conformidad con el presupuesto respectivo;
 
-Al solicitar la autorización del Congreso del Estado para la enajenación de un inmueble, se deberán expresar los razonamientos por los que se considere que el bien no es necesario para el Estado y de que, por el contrario, resulta benéfica dicha operación.
+XVI. Expedir los Manuales de Organización, Procedimientos y Servicios al Público necesarios para el funcionamiento de la dependencia a su cargo, los que deberán contener información sobre su estructura, organización y forma de realizar las actividades que están bajo su responsabilidad, así como sobre sus sistemas de comunicación y coordinación. Los manuales y demás instrumentos de apoyo administrativo interno deberán mantenerse permanentemente actualizados;
 
-Cuando se proceda a disponer de un bien inmueble, que no es necesario para el servicio público, deberá procurarse que el objetivo del contrato a celebrar sea alguno de los siguientes:
+XVII. Atender las incidencias de carácter laboral y aplicar las sanciones que correspondan;
 
-I. La transmisión de dominio a título oneroso o gratuito, según el caso, de conformidad con los criterios que determinen la Secretaría General de Gobierno, a favor de instituciones públicas que tengan a su cargo resolver problemas de habitación popular para atender necesidades colectivas;
+XVIII. Asesorar a los Municipios del Estado, cuando así lo soliciten, en la esfera de su competencia; y
 
-II. La enajenación a título oneroso o permuta para la adquisición de otros inmuebles que se requieran para la atención de los servicios a cargo de las dependencias y entidades;
+XIX. Las demás que expresamente se señalen en esta Ley y las leyes del Estado.
 
-III. La donación, arrendamiento o comodato a favor de los Municipios, tratándose de inmueble propiedad del Estado, para fines educativos o de asistencia social;
+###### Artículo 13.
 
-IV. El arrendamiento, donación o comodato a favor de asociaciones o instituciones privadas que realicen actividades de interés social y que no persigan fines de lucro;
+Cada uno de los órganos de las dependencias se regirán por las normas legales aplicables a su funcionamiento, por las disposiciones del Reglamento Interior correspondiente y por sus Manuales de Organización, Procedimientos y Servicios al Público.
 
-V. La enajenación a título oneroso, a favor de personas de derecho privado, que requieran disponer de dichos inmuebles para la creación, fomento o conservación de una empresa que beneficie a la colectividad; o
+#### SECCIÓN PRIMERA. De los subsecretarios
 
-VI. La permuta con la Federación y los Municipios de inmuebles que por su ubicación, características y aptitudes satisfagan las necesidades de las partes.
+###### Artículo 14.
 
-###### ARTICULO 18.
+Los titulares de las Subsecretarías, o sus equivalentes, tendrán las atribuciones comunes siguientes:
 
-Los bienes inmuebles que formen parte del patrimonio de las entidades paraestatales y paramunicipales que se destinen al servicio público, podrán ser objeto de enajenación, a título oneroso, después de haberse autorizado la desincorporación por parte de la Secretaría General de Gobierno o del Municipio, según corresponda.
+I. Ejecutar, dirigir y controlar, en la esfera de su competencia y por acuerdo de la superioridad, la política gubernamental, en términos de lo dispuesto por esta ley y demás legislación aplicable;
+
+II. Representar legalmente a la Subsecretaría a su cargo, así como a la Secretaría del Despacho de su adscripción en los casos que así se determine por acuerdo expreso de la superioridad;
+
+III. Someter a la aprobación de la superioridad los estudios, proyectos, asuntos, ejecución y evaluación de los programas sectoriales que les corresponda, con la periodicidad y forma que se acuerde;
+
+IV. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que les sean señalados por delegación o les correspondan por suplencia;
+
+V. Expedir, en su caso, copias certificadas de los documentos que se encuentren en sus archivos;
+
+VI. Proponer a la superioridad el nombramiento o remoción de los servidores públicos del órgano a su cargo, cuando no se determine de otra forma por la Constitución y leyes del Estado;
+
+VII. Proponer al titular de la Secretaría los proyectos de ley, decreto, reglamentos, acuerdos y convenios relativos al ámbito de su competencia, así como los manuales de organización, procedimientos y de servicios al público de los órganos a cargo de la Subsecretaría;
+
+VIII. Formular el programa operativo anual y el presupuesto de la Subsecretaría; así como planear, dirigir y controlar las actividades administrativas relativas a los recursos financieros, humanos y materiales de sus órganos;
+
+IX. Cumplir las acciones que les encomiende el titular de la Secretaría y, por acuerdo de éste, proporcionar la información o cooperación que requieran otras dependencias del Ejecutivo;
+
+X. Rendir a su superior, por escrito, los informes mensual y anual de las actividades realizadas por el órgano a su cargo; y
+
+XI. Las demás que expresamente señalen esta ley y las leyes del Estado.
+
+#### SECCIÓN SEGUNDA. De los directores generales
+
+###### Artículo 15.
+
+Los titulares de las Direcciones Generales tendrán las atribuciones comunes siguientes:
+
+I. Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de las funciones correspondientes al órgano administrativo a su cargo, de acuerdo con los lineamientos que le indiquen sus superiores, en términos de la legislación aplicable;
+
+II. Acordar con el Subsecretario de su adscripción la resolución de los asuntos de su competencia y proponer las medidas de desarrollo administrativo necesarias para el mejor funcionamiento del órgano a su cargo;
+
+III. Formular los dictámenes, opiniones e informes que les sean solicitados; así como los anteproyectos de programas y del presupuesto del órgano a su cargo, y gestionar los recursos que sean necesarios para el eficaz cumplimiento de las funciones que tengan encomendadas;
+
+IV. Proponer a la superioridad el nombramiento o remoción de los servidores públicos del órgano a su cargo, cuando no se determine de otra forma por la Constitución y leyes del Estado;
+
+V. Coordinar sus actividades con los titulares de los demás órganos administrativos de la Subsecretaría para el mejor funcionamiento de la misma;
+
+VI. Tramitar y, en su caso, resolver los recursos que se le presenten, cuando legalmente proceda;
+
+VII. Acordar con los servidores públicos subalternos los asuntos que tengan asignados;
+
+VIII. Proporcionar, por acuerdo de la superioridad, la información, los datos o la cooperación que les sean requeridos por otras dependencias o entidades de la Administración Pública del Estado;
+
+IX. Rendir a su superior, por escrito, los informes mensual y anual de las actividades realizadas por la Dirección General a su cargo; y
+
+X. Las demás que expresamente le confieran esta ley y las demás leyes del Estado.
+
+###### Artículo 16.
+
+Los demás órganos de las Subsecretarías o sus equivalentes y de las Direcciones Generales se organizarán y funcionarán en los términos que señale el reglamento interior respectivo, de conformidad con las atribuciones que para cada dependencia establezcan expresamente esta ley y las demás leyes del Estado.
+
+#### SECCIÓN TERCERA. De la competencia de las dependencias
+
+De la Secretaría de Gobierno
+
+###### Artículo 17.
+
+La Secretaría de Gobierno es la dependencia responsable de coordinar la política interna de la Entidad y tendrá la competencia que expresamente le confiere la Constitución Política del Estado, esta ley y demás legislación aplicable.
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN LA G.O. DE 29 DE ENERO DE 2001, PÁGINAS DE LA 12 A LA 13.]</small>
+
+###### Artículo 18.
+
+Son atribuciones del Secretario de Gobierno, conforme a la distribución de competencias que establezca su reglamento interior, las siguientes:
+
+I. Sustituir al Gobernador del Estado en sus ausencias temporales que no excedan de treinta días, para efectos de lo dispuesto por el artículo 48, fracciones I y II, de la Constitución Política del Estado;
+
+II. Establecer, dirigir y controlar la política de la Secretaría, así como programar, coordinar y evaluar, en términos de los ordenamientos aplicables, las actividades del sector correspondiente. Al efecto, aprobará los programas respectivos de conformidad con los objetivos, metas y políticas que determine el Gobernador del Estado;
+
+III. Someter al acuerdo del Gobernador del Estado los asuntos encomendados a la Secretaría y los del sector correspondiente;
+
+IV. Desempeñar las comisiones y funciones especiales que el Gobernador le confiera y mantenerlo informado sobre su desarrollo y ejecución;
+
+V. Proponer al Gobernador del Estado los proyectos de leyes, decretos, reglamentos, acuerdos, convenios y órdenes sobre asuntos de la competencia de la Secretaría y los del sector correspondiente;
+
+VI. Presentar ante el Congreso del Estado las iniciativas de leyes o decretos que formule el Ejecutivo;
+
+VII. Publicar las leyes y decretos que expida el Congreso del Estado, así como las leyes federales;
+
+VIII. Vigilar, en el orden administrativo, la exacta observancia de las leyes, decretos y reglamentos;
+
+IX. Tramitar los recursos administrativos que compete resolver al Gobernador del Estado;
+
+X. Designar y remover a los representantes de la Secretaría en las comisiones u organismos en que participe;
+
+XI. Autorizar el proyecto del presupuesto anual de egresos de la Secretaría y de las comisiones que presida, así como autorizar y supervisar la aplicación eficiente de los recursos financieros, humanos y materiales de la Secretaría;
+
+XII. Efectuar el compendio de datos para la elaboración del Informe Anual de Gobierno;
+
+XIII. Someter a la consideración del Gobernador del Estado, las propuestas para regular el aprovechamiento del tiempo que corresponda a la Entidad, en los canales concesionados de radio y televisión, conforme a la legislación aplicable;
+
+XIV. Tramitar lo relativo al ejercicio de las atribuciones que la Constitución Política del Estado le confiere al titular del Poder Ejecutivo, en materia de nombramientos y remociones, así como aquellos que resulten de las leyes federales. Quedan exceptuados los nombramientos y remociones que la ley atribuye expresamente a otra dependencia del Ejecutivo del Estado;
+
+XV. Administrar la Editora de Gobierno del Estado y vigilar todo lo relacionado con la Gaceta Oficial;
+
+XVI. Proporcionar a los Poderes de la Federación la cooperación y el auxilio que requieran para el debido cumplimiento de lo dispuesto por ordenamientos del ámbito federal;
+
+XVII. Coordinar las relaciones del Poder Ejecutivo con la Federación y las Entidades Federativas, los Poderes Legislativo y Judicial del Estado, así como con los Municipios;
+
+XVIII. Coordinar las relaciones del Gobierno del Estado con los diversos grupos sociopolíticos de la Entidad;
+
+XIX. Intervenir, en el ámbito de su competencia y conforme a las leyes federales y estatales aplicables, en la observancia de las disposiciones relativas a población, pirotecnia, detonantes, armas de fuego y explosivos, uso de símbolos patrios y culto religioso, juegos y sorteos y asuntos agrarios de la Entidad;
+
+XX. Llevar el registro de autógrafos y legalizar las firmas de los servidores públicos estatales, inclusive los de la Universidad Veracruzana; de los Presidentes Municipales y Secretarios de los Ayuntamientos, así como de los demás funcionarios a quienes esté encomendada la fe pública para autentificar los documentos en que intervengan o que los mismos expidan;
+
+XXI. Vigilar las funciones de los Notarios Públicos del Estado, así como autorizar sus libros de protocolo y controlar el Archivo de Notarías;
+
+XXII. Organizar y vigilar el ejercicio de las funciones del Registro Civil;
+
+XXIII. Coordinar, dirigir y vigilar las actividades de las Juntas de Mejoramiento Moral, Cívico y Material;
+
+XXIV. Organizar y mantener actualizado el Archivo General del Gobierno del Estado, así como del Registro Público de la Propiedad y del Comercio;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+XXV. (DEROGADA, G.O. 7 DE SEPTIEMBRE DE 2001)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+XXVI. (DEROGADA, G.O. 7 DE SEPTIEMBRE DE 2001)
+
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
+
+XXVII. Administrar y resguardar los centros de observación y adaptación social para menores infractores;
+
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
+
+XXVIII. Vigilar y controlar, en términos de la legislación aplicable, lo relativo a la demarcación y límites del Estado;
+
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
+
+XXIX. Brindar asesoría jurídica al Gobierno del Estado;
+
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
+
+XXX. Coordinar la formulación de las iniciativas de leyes o decretos, reglamentos, acuerdos, convenios y órdenes sobre los asuntos competencia del Poder Ejecutivo y, en su caso, tramitar su promulgación y publicación en la Gaceta Oficial del estado;
+
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
+
+XXXI. Difundir y mantener actualizada la compilación de las legislaciones estatal y federal vigentes;
+
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
+
+XXXII. Intervenir en la realización de los actos jurídicos necesarios para reivindicar la propiedad del Estado;
+
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
+
+XXXIII. Fomentar el desarrollo de la cultura política en la Entidad;
+
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
+
+XXXIV. Coordinar las acciones de las dependencias y entidades de la administración pública con las autoridades federales, en materia de protección al consumidor;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+XXXV. (DEROGADA, G.O. 7 DE SEPTIEMBRE DE 2001)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+XXXVI. (DEROGADA, G.O. 7 DE SEPTIEMBRE DE 2001)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+XXXVII. (DEROGADA, G.O. 20 DE MAYO DE 2002)
+
+> <small>(ADICIONADA, G.O. 21 DE OCTUBRE DE 2005)</small>
+
+XXXVIII. Coordinar, dirigir y vigilar la política estatal en materia de tránsito y transporte.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 29 DE ENERO DE 2001)</small>
+
+De la Secretaría de Seguridad Pública
+
+> <small>(REFORMADO, G.O. 21 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 18 Bis.
 
-La Secretaría de Seguridad Pública es la dependencia encargada de coordinar, dirigir y vigilar la política estatal en materia de seguridad pública y privada, prevención y readaptación social, tránsito, transporte, protección civil y de auxilio en caso de desastre, de conformidad con las leyes de la materia.
+La Secretaría de Seguridad Pública es la dependencia encargada de coordinar, dirigir y vigilar la política estatal en materia de seguridad pública y privada, prevención y readaptación social, protección civil y auxilio en caso de desastre, de conformidad con las leyes de la materia.
 
 > <small>(ADICIONADO, G.O. 29 DE ENERO DE 2001)</small>
 
@@ -435,7 +487,7 @@ IX. Establecer un sistema destinado a obtener, analizar, estudiar y procesar inf
 
 X. Disponer, por acuerdo del Gobernador del Estado, del mando de la policía municipal en los casos que éste juzgue como de fuerza mayor o alteración grave del orden público;
 
-XI. Otorgar, rescatar, revertir o revocar, en su caso, concesiones, permisos, autorizaciones o licencias, a personas físicas o morales, para la prestación de servicios públicos de transporte de personas y carga, así como controlar su adecuado funcionamiento;
+XI. (DEROGADA, G.O. 1 DE JULIO DE 2005)
 
 XII. Autorizar, en el ámbito de su competencia y en términos de la licencia colectiva concedida por la autoridad federal, el uso de armas a los elementos de las fuerzas policiales en el ámbito de su competencia;
 
@@ -481,55 +533,217 @@ De la Secretaría de Finanzas y Planeación
 
 > <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2002)</small>
 
-###### ARTICULO 19.
+###### Artículo 19.
 
-Las adquisiciones de bienes inmuebles a que se refiere este Capítulo, no podrán realizarse en favor de los servidores públicos, que en cualquier forma intervengan en los actos relativos, ni de sus cónyuges o parientes consanguíneos y por afinidad hasta el cuarto grado o civiles, o de terceros con los que dichos servidores tengan vínculos privados o de negocios. Las enajenaciones que se realicen en contravención a ello serán causa de responsabilidad y nulas de pleno derecho.
+La Secretaría de Finanzas y Planeación es la dependencia responsable de coordinar la administración financiera y tributaria de la Hacienda Pública y de proyectar con la participación de las dependencias y entidades de la administración pública, la planeación, programación y presupuestación del Estado, en el marco del sistema de planeación democrática, así como de llevar el control administrativo de los recursos humanos y materiales, y el control del ejercicio de los recursos financieros de conformidad con lo dispuesto por esta Ley y demás disposiciones aplicables.
 
-###### ARTICULO 20.
+###### Artículo 20.
 
-Los titulares de los organismos públicos mencionados en las fracciones I a III del Artículo 1º de esta Ley, realizarán sus adquisiciones, arrendamientos y contratación de servicios en la forma y términos que determine esta Ley, el decreto de Presupuesto de Egresos del Estado y de los Municipios, así como las disposiciones relativas aplicables de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado y criterios de operación emitidos por la Secretaría.
+Son atribuciones del Secretario de Finanzas y Planeación, conforme a la distribución de competencias que establezca su Reglamento Interior, las siguientes:
 
-Las adquisiciones de bienes y servicios que no formen parte de un programa de obra pública deberán sujetarse a los lineamientos establecidos por la Secretaría. El equipamiento de bienes inmuebles construidos dentro de un programa de obra pública no formará parte del programa de obra a efecto de la adquisición de bienes y servicios
+I. Establecer la política de la Hacienda Pública, conforme a lo establecido en el Plan Veracruzano de Desarrollo y los programas, política económica y objetivos del Gobierno del Estado;
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+II. Coordinar la política económica para el desarrollo del Estado;
 
-Los titulares de los organismos públicos referidos en las fracciones I a III del Artículo 1º de la presente Ley, deberán sujetarse para cada tipo de procedimiento de adquisición, a las políticas y lineamientos establecidos por la Secretaría.
+III. Coordinar las actividades del Comité de Planeación para el Desarrollo del Estado de Veracruz;
 
-Las entidades referidas, podrán adaptar los lineamientos de adquisición, considerando la naturaleza, fines y metas de los propios organismos, siempre y cuando obtengan la anuencia formal por parte de la Secretaría.
+IV. Diseñar, implementar y actualizar un sistema de programación del gasto público, acorde con los objetivos y necesidades de la Administración Pública, asesorando y apoyando a las dependencias y entidades en la integración de sus programas específicos;
 
-Los sujetos de la Ley se abstendrán de crear fideicomisos, otorgar mandatos o celebrar actos o cualquier tipo de contratos, cuya finalidad sea evadir lo previsto en este ordenamiento.
+V. (DEROGADA, G.O. 2 DE JULIO DE 2004)
 
-No estarán dentro del ámbito de esta Ley, los actos que celebren las dependencias con las entidades o entre entidades.
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2002)</small>
 
-###### ARTICULO 21.
+VI. Vigilar el cumplimiento de las leyes, reglamentos y demás disposiciones de carácter financiero aplicables en el Estado;
 
-Para efectos de esta Ley, entre las adquisiciones, arrendamientos y contratación de servicios que efectúen los sujetos de la Ley quedan comprendidos:
+VII. Practicar revisiones y auditorías a los contribuyentes;
 
-I. Las adquisiciones de bienes muebles que deban incorporarse, adherirse o destinarse a un inmueble propiedad del Gobierno del Estado, sus Municipios o sus organismos descentralizados;
+VIII. Presupuestar anualmente el gasto público del Gobierno del Estado, tomando en consideración los anteproyectos de presupuestos de las dependencias y entidades del gobierno estatal, quienes deberán elaborar y presentarlos con la anticipación necesaria en términos de las disposiciones legales aplicables;
 
-II. La adquisición y arrendamiento de bienes inmuebles;
+IX. Programar y calcular los ingresos del estado y formular el proyecto de presupuesto de ingresos y egresos anualmente, para someterlo a la consideración del Gobernador del Estado;
 
-III. Las adquisiciones de bienes muebles que incluyan la instalación por parte del proveedor en inmuebles propiedad de los sujetos de la Ley;
+X. Determinar, recaudar, custodiar y administrar los impuestos, derechos, productos, aprovechamientos, participaciones, multas y otros conceptos señalados en las leyes impositivas relacionadas con la Hacienda Pública del Estado;
 
-IV. La contratación de los servicios relacionados con bienes muebles que se encuentren incorporados o adheridos a inmuebles referidos en la fracción anterior, cuya conservación, mantenimiento o reparación no impliquen modificación alguna al propio inmueble;
+XI. Llevar las estadísticas de ingresos y egresos del Gobierno del Estado; así como integrar y mantener actualizada la informática de la entidad y lo relativo a la situación geográfica del Estado;
 
-V. La reconstrucción, reparación y mantenimiento de bienes muebles, maquila, seguros, transportación de bienes muebles de propiedad pública, contratación anual de servicios de limpieza, vigilancia, gastos de propaganda y publicidad, así como los estudios técnicos que se vinculen con la adquisición o uso de bienes muebles;
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2002)</small>
 
-VI. Los contratos de arrendamiento financiero de bienes muebles que contraten los sujetos de la Ley, destinando para ello presupuesto público;
+XII. Autorizar la suficiencia presupuestal a las dependencias centralizadas y entidades paraestatales para el ejercicio del gasto público asignado a sus programas, conforme a la calendarización respectiva y las leyes aplicables;
 
-VII. Las adquisiciones y arrendamientos de equipos de transporte y maquinaria agrícola o industrial necesarios para la prestación de los servicios públicos que contraten los sujetos de la Ley, destinando para ello presupuesto público;
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2002)</small>
 
-VIII. La prestación de servicios profesionales, excepto la contratación de servicios personales bajo el régimen de honorarios, así como la contratación de consultorías, asesorías, estudios e investigaciones; y
+XIII. Autorizar, previo acuerdo del Gobernador del Estado, las ampliaciones, transferencias o reducciones de los recursos asignados a las dependencias centralizadas y las entidades paraestatales comprendidas en el presupuesto de egresos;
 
-IX.- Los servicios de cualquier naturaleza cuya prestación genere una obligación de pago para los sujetos de la Ley, que no se encuentren regulados en forma específica por otras disposiciones legales.
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2002)</small>
 
-###### ARTICULO 22.
+XIV. Distribuir a través del Sistema Integral de Administración Financiera del Estado de Veracruz, a su cargo, los recursos financieros a las dependencias centralizadas y entidades paraestatales, de conformidad con el presupuesto autorizado y para los efectos de las acciones de control y evaluación del gasto público que establece esta Ley, el Código Financiero para el Estado y demás disposiciones aplicables;
 
-La Secretaría mediante disposiciones de carácter general determinará, en su caso, los bienes y servicios de uso generalizado que, en forma consolidada, podrán adquirir o contratar los sujetos de la Ley, ya sea de manera conjunta o separada, con objeto de obtener las mejores condiciones en cuanto a precio y oportunidad.
+> <small>(REFORMADA, G.O. 2 DE JULIO DE 2004)</small>
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+XV. Coordinar los programas de inversión pública de las dependencias y entidades de la administración pública;
 
-Cuando algún sujeto de la Ley requiera la asistencia de la Secretaría de Administración para adquirir bienes y servicios por no tener la capacidad ni estructura para llevarlas a cabo por sí misma, podrá solicitarla por escrito y la propia Secretaría tendrá el compromiso de adquirir los bienes y servicios en nombre de la solicitante.
+XVI. Presentar denuncias y formular querellas, ratificar las mismas, recibir el pago por concepto de reparación de daños y, en su caso, sin perjuicio del erario estatal, otorgar el perdón al acusado e imponer las sanciones que correspondan por infracciones a la Ley de Hacienda y demás leyes fiscales cuya aplicación le esté encomendada directamente;
+
+XVII. Intervenir en los juicios de carácter fiscal que se ventilen ante los tribunales competentes, cuando tenga interés la Hacienda Pública del Estado;
+
+XVIII. Ejercitar las acciones y oponer las excepciones que procedan, para la defensa administrativa y judicial de los derechos de la Hacienda del Estado;
+
+XIX. Llevar el control de la deuda pública del Estado y efectuar los pagos correspondientes;
+
+XX. Ejercer la facultad económico-coactiva para hacer efectivos los créditos fiscales a favor de la Hacienda Pública del Estado;
+
+XXI. Ejercer las atribuciones derivadas de los convenios fiscales que celebre el Gobierno del Estado con la Secretaría de Hacienda y Crédito Público del Gobierno Federal;
+
+XXII. Proponer al Ejecutivo Estatal los proyectos de leyes, reglamentos, decretos, acuerdos, y órdenes sobre asuntos financieros, tributarios; y en las materias de planeación, programación, presupuestación y evaluación de la actividad económica del Estado;
+
+XXIII. Proporcionar, en coordinación con la Secretaría de Gobierno, la asesoría que en materia de interpretación y aplicación de leyes tributarias del Estado, le sea solicitada por los Ayuntamientos; así como realizar una labor permanente de difusión y orientación fiscal;
+
+XXIV. Resolver las consultas que en materia de interpretación y aplicación de leyes tributarias del Estado, le planteen los contribuyentes, sobre casos particulares concretos;
+
+XXV. Intervenir como fideicomitente único, en los fideicomisos del Gobierno del Estado;
+
+XXVI. Formular mensualmente los estados financieros consolidados de la Hacienda Pública y ponerlos en conocimiento del Gobernador del Estado;
+
+XXVII. Hacer la glosa preventiva de los ingresos y egresos del Gobierno Estatal; así como elaborar la cuenta pública;
+
+XXVIII. Autorizar la cancelación de cuentas incobrables;
+
+XXIX. Otorgar, previo acuerdo del Ejecutivo Estatal, estímulos fiscales en los casos que procedan;
+
+XXX. Tramitar y resolver los recursos administrativos en la esfera de su competencia;
+
+XXXI. Administrar el catastro de la Entidad, de conformidad a lo establecido en las disposiciones legales respectivas;
+
+XXXII. Elaborar y mantener actualizado el Padrón de Contribuyentes;
+
+XXXIII. Vigilar, en coordinación con la Contraloría General, que los empleados que administren fondos y valores del Estado caucionen debidamente su manejo;
+
+XXXIV. Custodiar los documentos que constituyan valores del Estado;
+
+XXXV. Controlar las actividades de las oficinas recaudadoras de la Entidad;
+
+XXXVI. Participar en el establecimiento de los criterios y montos de estímulos fiscales, en coordinación con las dependencias a las que corresponda el fomento de las actividades productivas;
+
+XXXVII. Atender las observaciones del Órgano de Fiscalización Superior;
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2002)</small>
+
+XXXVIII. Establecer los lineamientos sobre la forma y términos en que las dependencias centralizadas y entidades paraestatales deberán llevar su contabilidad, solicitarles informes y cuentas para consolidar la contabilidad gubernamental, llevar la estadística general del Gobierno del Estado y examinar periódicamente los flujos de información de cada dependencia centralizada y entidad paraestatal, instruyendo en su caso, las modificaciones necesarias;
+
+XXXIX. Informar a la Contraloría General sobre las responsabilidades que afecten la Hacienda Pública del Estado en el ejercicio del gasto;
+
+XL. Vigilar financiera y administrativamente la operación de entidades que no estén expresamente encomendadas a otra dependencia;
+
+XLI. Verificar que los subsidios y transferencias de fondos, realizados por el Ejecutivo del Estado con cargo a su propio presupuesto, a favor de los Municipios o de instituciones de los sectores social y privado, se apliquen conforme a los términos establecidos en los programas aprobados al efecto;
+
+XLII. Asesorar al Gobernador del Estado en la elaboración de los convenios que celebre con los Gobiernos Federal y Municipales, o de otras entidades federativas, en materia de planeación, programación, supervisión y evaluación del desarrollo del Estado;
+
+XLIII. Formular las bases y normas de planeación, programación, presupuestación, ejecución y evaluación, que deberán observar las dependencias de la Administración Pública Estatal en materia de adquisiciones;
+
+XLIV. (DEROGADA, G.O. 2 DE JULIO DE 2004)
+
+XLV. Verificar y comprobar el cumplimiento de las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación de servicios, obra pública, resguardos, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles; concesiones, almacenes y demás activos y recursos materiales de la Administración Pública Estatal;
+
+XLVI. Establecer normas, lineamientos y políticas en materia de administración, remuneraciones y desarrollo de personal de las dependencias y entidades del Ejecutivo;
+
+XLVII. Coadyuvar en la promoción de la capacitación del personal del Gobierno del Estado, para el mejor desempeño de sus labores;
+
+XLVIII. Participar en la elaboración de las condiciones generales de trabajo; vigilar su cumplimiento y difundirlas entre el personal del Gobierno del Estado;
+
+XLIX. Emitir, en coordinación con la Contraloría General, criterios y lineamientos para el ejercicio de los recursos presupuestales relativos a servicios personales, adquisiciones, obras públicas, arrendamientos y servicios generales de las dependencias y entidades;
+
+L. Elaborar el programa anual de adquisiciones y servicios consolidados de la Administración Pública Estatal y licitar públicamente su adjudicación;
+
+LI. Emitir, en coordinación con la Contraloría General, criterios y lineamientos relacionados con la conservación, mantenimiento, control de inventarios, manejo de almacenes y resguardo de los bienes muebles de propiedad estatal;
+
+LII. Emitir los lineamientos para establecer sistemas uniformes de control del ejercicio del presupuesto aplicables a las dependencias y entidades; y
+
+LIII. Dictaminar sobre solicitudes de ampliación presupuestal por modificaciones a la estructura orgánica y de recursos humanos que presenten las dependencias y entidades.
+
+De la Secretaría de Educación y Cultura
+
+###### Artículo 21.
+
+La Secretaría de Educación y Cultura es la dependencia responsable de coordinar la política educativa del Estado y organizar el Sistema Educativo Estatal en todos sus niveles y modalidades, en los términos que establece la Constitución Política del Estado y las leyes aplicables; así como de desarrollar, supervisar y coordinar los programas educativos, culturales, recreativos y deportivos, a fin de promover, fomentar y procurar el progreso y bienestar de la población de la Entidad.
+
+###### Artículo 22.
+
+Son atribuciones del Secretario de Educación y Cultura, conforme a la distribución de competencias que establezca su Reglamento Interior, las siguientes:
+
+I. Planear, fomentar, dirigir y vigilar la educación que impartan las instituciones educativas en todos los tipos, niveles y modalidades, conforme a las bases que establece la Constitución Política del Estado, esta ley y demás leyes del Estado;
+
+II. Formular las políticas y programas generales, relativos a la difusión de la cultura, la conservación e incremento del patrimonio artístico y la promoción de las actividades recreativas y deportivas;
+
+III. Fomentar el conocimiento de la lengua nacional y la investigación de la geografía, historia y cultura de Veracruz, así como su papel en el desarrollo de la nación mexicana y en el contexto internacional;
+
+IV. Desarrollar y promover el enriquecimiento, conservación y difusión de los bienes que integran el patrimonio artístico, histórico, científico y cultural de la Entidad;
+
+V. Cuidar que la educación que se imparta a los pueblos indígenas se haga en forma bilingüe, con respeto a sus tradiciones, usos y costumbres, e incorpore contenidos acerca de su etnohistoria y cosmovisión;
+
+VI. Establecer y desarrollar programas especiales para una mejor integración a la sociedad de los miembros de la tercera edad y de los discapacitados;
+
+VII. Gestionar, elaborar y, en su caso ejecutar, los acuerdos de coordinación que en materia educativa celebre el Estado con el Gobierno Federal o con los Ayuntamientos;
+
+VIII. Organizar y fomentar la educación artística que se imparta en las instituciones educativas, para la difusión de las bellas artes y de las artes populares;
+
+IX. Otorgar becas a los estudiantes de escasos recursos económicos en los términos de las disposiciones legales relativas;
+
+X. Otorgar equivalencias y revalidar en términos de la ley los estudios que sean equivalentes a los que se impartan en el Estado;
+
+XI. Autorizar o reconocer los estudios que impartan las instituciones educativas particulares, incorporándolas al Sistema Educativo Estatal;
+
+XII. Coordinar con las universidades e instituciones de educación superior, el servicio social de pasantes, la orientación vocacional y otros aspectos educativos que se acuerden con dichas instituciones;
+
+XIII. Coordinar, organizar, dirigir y fomentar con los Ayuntamientos e instituciones públicas o particulares el establecimiento de bibliotecas, hemerotecas, casas de cultura y museos, así como promover la creación de instituciones culturales;
+
+XIV. Promover la edición y distribución de obras científicas, históricas y literarias para el conocimiento y desarrollo cultural del Estado;
+
+XV. Mantener por sí o en coordinación con los gobiernos federal o municipales, programas permanentes de educación para adultos, de alfabetización, de enseñanza abierta y de acreditación de estudios;
+
+XVI. Fomentar y vigilar el desarrollo de la investigación científica y tecnológica en la Entidad;
+
+XVII. Promover, en coordinación con la Secretaría de Salud y Asistencia y la de Desarrollo Regional, los programas de educación para la salud y mejoramiento del ambiente;
+
+XVIII. Coordinar con las autoridades competentes, la realización de campañas para prevenir, combatir y erradicar la drogadicción, el alcoholismo, y el tabaquismo;
+
+XIX. Promover y organizar actividades de recreación y aprovechamiento del tiempo libre, tendientes a estimular la formación integral de la niñez y la juventud veracruzanas;
+
+XX. Coordinar, organizar y fomentar la enseñanza y la práctica de los deportes en los planteles educativos del Estado, así como impulsar la participación de los veracruzanos en torneos y justas deportivas nacionales e internacionales;
+
+XXI. Vigilar, en coordinación con las autoridades competentes, la realización de los actos cívicos escolares, de acuerdo con el calendario oficial;
+
+XXII. Fomentar en los educandos el amor y el respeto a los símbolos patrios, y cuidar que se cumpla con el espíritu de la ley de la materia;
+
+XXIII. Promover, en coordinación con las autoridades competentes, los valores familiares y sociales que tiendan a la solidaridad humana, la preservación de la naturaleza y los centros urbanos y el respeto a la ley;
+
+XXIV. Patrocinar la realización de congresos, asambleas, reuniones, eventos, competencias y concursos de carácter científico, técnico, cultural, educativo y artístico;
+
+XXV. Planear, organizar y supervisar el desarrollo de programas de educación tecnológica, con el fin de crear, conservar y transmitir la cultura y la ciencia, con respeto a la libertad de cátedra y de investigación, de libre examen y de discusión de las ideas, y procurar su vinculación con el sector productivo;
+
+XXVI. Estudiar, analizar e incorporar las experiencias e innovaciones de otros sistemas educativos, a fin de actualizar los planes y programas de estudio de la educación tecnológica en la Entidad;
+
+XXVII. Participar, en coordinación con la autoridad competente, en los programas de educación agropecuaria, forestal y pesquera;
+
+XXVIII. Administrar y supervisar las instalaciones deportivas que se encuentren a su cargo;
+
+XXIX. Coordinar acciones en materia deportiva con autoridades municipales, estatales, federales o de otras Entidades Federativas, de conformidad con las disposiciones legales aplicables;
+
+XXX. Autorizar y llevar el registro de academias, gimnasios, clubes y escuelas en el Estado, que realicen actividades de instrucción deportiva, recreativa o de capacitación física;
+
+XXXI. Cooperar, en su caso, con las tareas que desarrollen las diferentes organizaciones deportivas;
+
+XXXII. Evaluar el Sistema Educativo Estatal;
+
+XXXIII. Ajustar el calendario escolar respecto al establecido por la autoridad educativa federal, cuando ello resulte necesario en atención a requerimientos específicos en la Entidad, en términos de la legislación aplicable;
+
+XXXIV. Promover la participación social para el fortalecimiento y desarrollo del Sistema Educativo Estatal; y
+
+XXXV. Promover los servicios de formación, actualización, capacitación y superación profesional para los maestros del Sistema Educativo Estatal.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 29 DE JUNIO DE 2005)</small>
+
+De la Secretaría de Trabajo, Previsión Social y Productividad.
+
+> <small>(REFORMADO, G.O. 29 DE JUNIO DE 2005)</small>
 
 ###### Artículo 22 Bis.
 
@@ -669,1081 +883,617 @@ XXI. Impulsar y apoyar el desarrollo social, cultural y recreativo de los trabaj
 
 De la Secretaría de Desarrollo Económico
 
-###### ARTICULO 23.
+###### Artículo 23.
 
-El arrendamiento de bienes muebles sólo podrá celebrarse cuando se demuestre que no es posible o conveniente su adquisición y siempre que la renta no exceda de los importes máximos que para ello se autorice en los Presupuestos anuales de Egresos del Estado y de los Municipios.
+La Secretaría de Desarrollo Económico es la dependencia responsable de coordinar la política de desarrollo industrial, comercial y turístico de la Entidad, así como de vigilar la aplicación y observancia de las disposiciones legales aplicables en estas materias.
 
-###### ARTICULO 24.
+###### Artículo 24.
 
-El titular del Poder Ejecutivo del Estado aplicará estas disposiciones por conducto de la Secretaría, respecto a las adquisiciones, arrendamientos y contratación de servicios de la Administración Pública Estatal centralizada y supervisará las de su sector paraestatal.
+Son atribuciones del Secretario de Desarrollo Económico, conforme a la distribución de competencias que establezca su Reglamento Interior, las siguientes:
 
-Los Ayuntamientos las aplicarán por conducto de sus Secretarías, Direcciones Administrativas o la Unidad Administrativa correspondiente, respecto a sus adquisiciones, arrendamientos y contratación de servicios y supervisarán las de su sector paramunicipal.
+I. Formular, dirigir, coordinar y controlar, en los términos de las leyes de la materia y del Plan Veracruzano de Desarrollo, la ejecución de las políticas y programas del Estado de Veracruz relativos al fomento de las actividades industriales y mineras;
 
-Los titulares de las Dependencias y Entidades serán los responsables que en la adopción e instrumentación de las acciones que deban llevar a cabo en cumplimiento de esta Ley, se observen criterios que promuevan la calidad, la modernización y la simplificación administrativa.
+II. Apoyar los programas de investigación tecnológica industrial y fomentar su divulgación;
 
-###### ARTICULO 25.
+III. Promover, fomentar y, en su caso, participar en la creación de parques, corredores y ciudades industriales en el Estado;
 
-Los sujetos de esta Ley se abstendrán de convocar o formalizar la adquisición de bienes y servicios si no hubiese saldo disponible en las partidas correspondientes del presupuesto.
+> <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO QUINTO DEL DECRETO NÚMERO 269, PUBLICADO EN LA G.O. 12 DE FEBRERO DE 2002, EN TODOS AQUELLOS ORDENAMIENTOS EN QUE APAREZCA EL NOMBRE DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO, FORESTAL Y PESQUERO, SE DEBERÁ ENTENDER COMO SECRETARÍA DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL, PESCA Y ALIMENTACIÓN.]</small>
 
-###### ARTICULO 26.
+IV. En coordinación con la Secretaría de Desarrollo Agropecuario, Forestal y Pesquero, participar en los programas de desarrollo de la industria piscícola en el Estado;
 
-Los bienes y servicios materia de adquisición, arrendamiento o contratación de procedencia extranjera, para ser utilizados en el Estado, se regirán por esta Ley, sin perjuicio de las disposiciones legales que resulten aplicables.
+V. Promover y fomentar en los términos de las leyes de la materia, la inversión, las coinversiones y la instalación de empresas convenientes al Estado de Veracruz, que generen fuentes de empleo;
 
-Las adquisiciones que sean solventadas en forma parcial o total con recursos federales, deberán sujetarse a lo establecido en la Ley que Regula las Adquisiciones en Materia Federal.
+VI. Participar en coordinación con las autoridades competentes, en la planeación y programación de las obras e inversiones tendientes a promover la racional explotación de los recursos minerales del Estado;
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+VII. Servir de órgano de consulta y asesoría en materia de desarrollo económico, tanto a los organismos públicos y privados como a las dependencias del Ejecutivo;
 
-###### ARTICULO 27.
+VIII. Asesorar técnicamente a los Ayuntamientos y a los sectores social y privado que lo soliciten, en el establecimiento de nuevas industrias o en la ejecución de proyectos productivos;
 
-En las adquisiciones y contrataciones que regula esta ley se preferirá como proveedores, en igualdad de condiciones, a aquéllos que tengan su domicilio fiscal en Aguascalientes y oferten bienes que hayan sido producido o adquiridos en el Estado. En el caso de los bienes de importación o que no se produzcan en el Estado se preferirá a empresas comercializadoras domiciliadas fiscalmente en el Estado.
+IX. Promover, en coordinación con la Secretaría de Finanzas y Planeación, el otorgamiento de estímulos de orden tributario con objeto de fomentar la participación de la iniciativa privada en la inversión productiva en la Entidad;
 
-Las bases de licitación establecerán porcentajes diferenciales, de precio hasta de un cinco por ciento en favor de los proveedores que cumplan con los requisitos previstos en el párrafo anterior.
+X. Diseñar y establecer mecanismos administrativos tendientes a reducir y agilizar trámites en los procesos de establecimiento de nuevas empresas;
 
-###### ARTICULO 28.
+XI. Proponer las políticas y ejecutar los programas relativos al fomento del comercio, de acuerdo con el Plan Veracruzano de Desarrollo;
 
-La Secretaría podrá eximir de la obligación de estar inscritos en el padrón de proveedores de la Administración Pública Estatal a las personas físicas y morales que provean artículos perecederos, en los casos a que se refiere la Fracción III del Artículo 57 del presente ordenamiento.
+XII. Asesorar técnicamente, en materia de desarrollo comercial y de abastos, a las dependencias y entidades de la Administración Pública y a los sectores social y privado que así lo soliciten;
 
-###### ARTICULO 29.
+XIII. Fomentar y organizar la producción económica del artesanado y de las industrias familiares, así como su comercialización;
 
-La Secretaría exigirá la restitución de los pagos en exceso, la reposición de mercancías, el ajuste de precios, la oportunidad del cumplimiento en la entrega o correcciones necesarias, cuando por las circunstancias que se determinen así se requiera, y turnará en su caso a la Contraloría los asuntos que considere necesarios para la intervención de la misma.
+XIV. Formular y promover el establecimiento de medidas para el fomento y protección del comercio de primera mano en el Estado;
 
-###### ARTICULO 30.
+XV. Fomentar el desarrollo del pequeño comercio;
 
-La Secretaría tendrá la responsabilidad de supervisar que las dependencias y entidades mantengan de manera adecuada y satisfactoriamente asegurados los bienes muebles que tengan a su disposición, cuando por su naturaleza y cuantía se justifique asegurarlos.
+XVI. Promover y coordinar la distribución y comercialización de productos, así como el establecimiento de los consumos básicos de la población;
 
-Para los efectos del párrafo anterior, la Secretaría pactará en los contratos respectivos el suministro oportuno por parte del proveedor de las piezas, repuestos, refacciones y elementos necesarios para mantener en operación permanente los bienes adquiridos o arrendados.
+XVII. Auxiliar a las autoridades federales en la vigilancia del estricto cumplimiento de la política de precios, particularmente en lo que se refiere a artículos de consumo generalizado y de uso popular;
 
-###### ARTICULO 31.
+XVIII. Promover y apoyar el desarrollo del comercio exterior;
 
-El titular del Poder Ejecutivo a través de su Secretaría instalará el Comité de Adquisiciones y Enajenaciones del Gobierno del Estado, con el objeto de determinar las acciones tendientes a la optimización de recursos que se destinen a dichas operaciones.
+XIX. Proponer las políticas y ejecutar los programas relativos al fomento del turismo estatal, en un marco de sustentabilidad;
 
-Los Ayuntamientos mediante sus Secretarías, Direcciones de Administración o similares, podrán formar los Comités respectivos, estableciendo en su Bando y Reglamentos o por acuerdo del Cabildo, la instalación, los integrantes y el funcionamiento del mismo, siguiendo los lineamientos establecidos en esta ley.
+XX. Proveer técnica y económicamente el establecimiento de polos de desarrollo turístico en el territorio del Estado, de acuerdo con el Plan Veracruzano de Desarrollo;
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+XXI. Procurar la conservación y protección del entorno natural y cultural de las zonas de desarrollo turístico en el Estado, coordinadamente con las autoridades competentes en estas materias, así como la promoción de la cultura turística;
 
-De igual forma, las dependencias y entidades referidas en las fracciones I a III del Artículo 1° del presente ordenamiento.
+XXII. Promover la formación y capacitación de recursos humanos que deban incorporarse al sector turístico, con el objeto de elevar la calidad de los servicios;
 
-###### ARTICULO 32.
+XXIII. Fomentar, apoyar y promover el turismo social, en coordinación con los sectores público y privado, así como propiciar la formación de asociaciones, patronatos, comités y demás organismos que lo auspicien y prestarles la asesoría correspondiente;
 
-Los sujetos de la Ley que requieran contratar servicios de consultorías, asesorías, estudios e investigaciones, previamente verificarán si en sus archivos o en los de la Secretaría existen trabajos sobre la materia de que se trate. En el supuesto de que se advierta su existencia y se compruebe que los mismos satisfacen los requerimientos de la entidad o dependencia, no procederá la contratación, con excepción de aquellos trabajos que sean necesarios para su adecuación o complemento. Para tal efecto, las entidades deberán presentar una descripción sucinta del objeto de los contratos que en estas materias celebren, así como de sus productos.
+XXIV. Formular y difundir la información turística del Estado de Veracruz y coordinar la publicidad que en esta materia realicen las dependencias y entidades estatales, de conformidad con los lineamientos establecidos al respecto, así como divulgar la que efectúen los sectores social y privado;
 
-La erogación para la contratación de servicios de consultorías, asesorías, estudios e investigaciones, requerirán de la autorización escrita del titular de la dependencia, así como del dictamen del área respectiva, de que no se cuenta con personal capacitado o disponible para su realización, sujetándose al presupuesto de egresos en el objeto de gasto correspondiente.
+XXV. Promover y apoyar el desarrollo de la infraestructura turística y estimular la participación de los sectores de la población interesados en la inversión en esta actividad;
 
-###### ARTICULO 33.
+XXVI. Coadyuvar con las dependencias y entidades del sector público, así como con los sectores privado y social, en la conservación del señalamiento turístico en las vías públicas estatales y municipales y en los lugares de interés turístico del Estado;
 
-Los sujetos de la Ley deberán:
+XXVII. Vigilar que el crédito destinado a las actividades turísticas se oriente hacia los renglones prioritarios enunciados en el Plan Veracruzano de Desarrollo;
 
-I. Programar anualmente sus adquisiciones, arrendamientos y contratación de servicios en razón de sus necesidades reales, y con sujeción al presupuesto de egresos vigente en cada ejercicio fiscal, debiéndolo remitir a la Secretaría de Finanzas, dentro del primer mes de cada ejercicio fiscal;
+XXVIII. Promover, organizar y participar en conferencias, ferias, exposiciones, encuentros, congresos, eventos tradicionales y folklóricos y actividades culturales relacionadas con la actividad turística, que permitan una mayor afluencia de turismo hacia el Estado;
 
-II. Tomar las medidas necesarias para el aseguramiento, protección y custodia de los bienes existentes, tanto en términos físicos como jurídicos y mantener actualizado el control de sus inventarios, según los lineamientos emitidos por la Contraloría;
+XXIX. Establecer, operar y optimizar un sistema de información y orientación al público, así como la recepción de quejas y sugerencias, en relación con los servicios turísticos que se prestan en el Estado;
 
-III. Facilitar al personal de la Secretaría y de la Contraloría el acceso a sus almacenes, oficinas, plantas, talleres, instalaciones y lugares de trabajo, así como a sus registros y a toda la información necesaria para el ejercicio de sus atribuciones; y
+XXX. Promover en coordinación con las autoridades federales competentes, las zonas de desarrollo turístico del Estado, así como la formulación de las declaratorias respectivas;
 
-IV. En general, cumplir con las normas y resoluciones que emitan la Secretaria y la Contraloría, conforme a esta ley.
+XXXI. Colaborar con las autoridades federales competentes en la vigilancia de la correcta aplicación de los precios autorizados o registrados, así como de la prestación de los servicios turísticos, conforme a las disposiciones legales aplicables;
 
-###### ARTICULO 34.
+XXXII. Coordinarse con las autoridades competentes en materia de protección al consumidor para establecer lineamientos y políticas de protección al turista;
 
-En la planeación de las adquisiciones, arrendamientos y contratación de servicios los sujetos de la Ley deberán ajustarse a:
+XXXIII. Vigilar que los créditos destinados a la industria, minería, comercio y turismo, señalados en los programas de desarrollo, se orienten hacia los renglones prioritarios aprobados;
 
-I. Los objetivos y prioridades del Plan Estatal de Desarrollo y de los programas institucionales y especiales que correspondan, así como a las previsiones contenidas en sus programas anuales; y
+XXXIV. Fomentar la organización y constitución de toda clase de sociedades cooperativas, así como otorgar la asistencia técnica y administrativa correspondiente; y
 
-II. Los objetivos, metas y previsiones de recursos establecidos en el Presupuesto de Egresos de cada dependencia.
+XXXV. Difundir las actividades industriales, comerciales, artesanales y turísticas, a través de misiones comerciales, ferias, exposiciones, convenciones y demás eventos de promoción.
 
-###### ARTICULO 35.
+De la Secretaría de Comunicaciones
 
-Los sujetos de la Ley presentarán sus programas anuales de adquisiciones, arrendamientos y servicios, así como sus respectivos presupuestos, considerando además lo previsto en la Ley de Presupuesto, Contabilidad y Gasto Público:
+###### Artículo 25.
 
-I. Las acciones previas, durante y posteriores a la realización de dichas operaciones; los objetivos y metas a corto y mediano plazos;
+La Secretaría de Comunicaciones, es la dependencia responsable de coordinar la política del desarrollo de las vías de comunicación de jurisdicción estatal.
 
-II. La calendarización física y financiera de los recursos necesarios, considerando los montos autorizados para ello dentro del Presupuesto de Egresos que corresponda o sus posteriores modificaciones;
+###### Artículo 26.
 
-III. Las unidades responsables de su instrumentación;
+Son atribuciones del Secretario de Comunicaciones, conforme a la distribución de competencias que establezca su Reglamento Interior, las siguientes:
 
-IV. Sus programas sustantivos, de apoyo administrativo y de inversiones, así como, en su caso, aquellos relativos a la adquisición de bienes para su posterior comercialización incluyendo los que habrán de sujetarse a procesos productivos;
+I. Dirigir, proyectar y controlar la presupuestación y ejecución de los programas relativos a la construcción, conservación y rehabilitación de las vías de comunicación estatales;
 
-V. La existencia en cantidad suficiente de los bienes, así como la calidad y la especificación técnica de los mismos;
+II. Formular el programa anual de construcción, conservación y rehabilitación de autopistas, carreteras, caminos, puentes, aeropuertos, estaciones y centrales de telecomunicaciones o de autotransporte de jurisdicción estatal, de acuerdo con el Plan Veracruzano de Desarrollo y con la participación, en su caso, de los Ayuntamientos de la Entidad, las autoridades estatales y federales o los particulares vinculados con estas autoridades;
 
-VI. En su caso, los proyectos, especificaciones y programas de ejecución;
+III. Proyectar, construir, conservar y rehabilitar las autopistas, carreteras, puentes, aeropuertos, estaciones y centrales de telecomunicaciones o de autotransporte de jurisdicción estatal, en cooperación con los Gobiernos Federal o Municipal, así como con los particulares;
 
-VII. Los requerimientos de conservación y mantenimiento preventivo y correctivo de los bienes muebles e inmuebles a su cargo; y
+IV. Proyectar, ejecutar y, en su caso, supervisar por administración directa o a través de terceros por licitación, las obras para la construcción, mantenimiento y rehabilitación de autopistas, carreteras, puentes, estaciones y centrales de telecomunicaciones o de autotransporte y aeropuertos de jurisdicción estatal;
 
-VIII. Las demás previsiones que deban tomarse en cuenta según la naturaleza y características de las adquisiciones.
+V. Establecer las bases técnicas a que deben sujetarse las licitaciones para la adjudicación de contratos en materia de obra pública, vigilar su cumplimiento y, en su caso, rescindirlos administrativamente de conformidad con la ley;
 
-IX. (sic) ARTICULO 36.- La programación de las adquisiciones, no deberá rebasar un ejercicio presupuestal, salvo que se cuente con autorización de la Secretaría de Finanzas del Estado, la de los Municipios o su equivalente, según sea el caso, y con la del Congreso del Estado en los términos de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado.
+VI. Formular lineamientos y especificaciones técnicas para el uso de las vías de comunicación estatal;
+
+VII. Coordinarse con la Secretaría de Desarrollo Regional para que, en los derechos de vía de las vías estatales de comunicación, se respeten las prescripciones en materia de equilibrio ecológico y la protección al ambiente;
+
+VIII. Participar en el otorgamiento de concesión de autopistas, carreteras, puentes o aeropuertos de jurisdicción estatal; supervisar su cumplimiento y, en su caso, llevar a cabo el procedimiento para su rescate, reversión o aplicación de sanciones;
+
+IX. Asesorar a los particulares en la realización de obras públicas en materia de vías de comunicación estatal, cuando así lo soliciten;
+
+X. Cuidar que en la construcción, conservación y rehabilitación de vías de comunicación estatal se respeten las disposiciones aplicables en materia de equilibrio ecológico y la protección al ambiente;
+
+XI. Vigilar y conservar los servicios de telefonía y radiotelefonía del Estado y los demás medios que no estén considerados como Vías Generales de Comunicación;
+
+XII. Fomentar la telecomunicación que tenga fines oficiales y culturales;
+
+XIII. Trabajar coordinadamente con los Ayuntamientos de la Entidad, así como con dependencias y entidades estatales o federales y personas físicas o morales del sector privado, vinculadas con el desarrollo de las vías de comunicación estatal;
+
+XIV. Suscribir, previa autorización del titular del Poder Ejecutivo, convenios para la proyección, construcción, rehabilitación, conservación o administración de vías de comunicación estatal y, en su caso, federal; y
+
+XV. Promover y, en su caso, organizar la capacitación, investigación y el desarrollo tecnológico en materia de vías de comunicación estatal.
+
+De la Secretaría de Desarrollo Regional
+
+###### Artículo 27.
+
+La Secretaría de Desarrollo Regional es la dependencia responsable de coordinar la política de planeación regional en la Entidad y, cuando así se requiera, con los Gobiernos Federal y Municipales, con el propósito de regular el desarrollo urbano, ordenar los asentamientos humanos, y ejecutar obras públicas; así como de preservar y restaurar el equilibrio ecológico, y proteger el ambiente.
+
+###### Artículo 28.
+
+Son atribuciones del secretario de Desarrollo Regional, conforme a la distribución de competencias que establezca su Reglamento Interior, las si-guientes (sic):
+
+I. Apoyar el desarrollo y ejecución de los programas nacionales, regionales y municipales para el desarrollo urbano y la vivienda, así como para el señalamiento y cuidado de los destinos, usos y reservas de las tierras para este propósito;
+
+II. Formular, ejecutar y evaluar los programas estatales y regionales en materia de asentamientos humanos y vivienda, con base en el Plan Nacional en esta materia;
+
+III. Promover el desarrollo de programas de vivienda en coordinación con las autoridades federales y los Ayuntamientos en cuya jurisdicción habrán de efectuarse las obras respectivas;
+
+IV. Promover la coordinación con dependencias y entidades, federales o municipales, a fin de atender los problemas relativos a los asentamientos humanos irregulares;
+
+V. Coadyuvar con los Ayuntamientos que así lo soliciten, en el señalamiento de las reservas territoriales destinadas a casas habitación, viviendas de interés social, parques, mercados, corredores industriales, zonas ecológicas, escuelas y otros espacios de naturaleza similar;
+
+VI. Gestionar, ante las autoridades que correspondan, la transferencia al Gobierno del Estado, de los terrenos de propiedad federal ubicados en la Entidad y en los que existan asentamientos humanos;
+
+VII. Fomentar la organización de sociedades cooperativas de vivienda y materiales de construcción;
+
+VIII. Promover a nivel estatal la adquisición de suelo urbano para vivienda o para el desarrollo urbano;
+
+IX. Vigilar y administrar los inmuebles de propiedad estatal destinados o no a un servicio público o a fines de interés social, cuando no estén afectos a otras dependencias; los que se utilicen para dicho fin y los equiparados con éstos, conforme a la ley; así como las plazas, paseos y parques públicos, cuya construcción o conservación esté a cargo del Gobierno del Estado;
+
+X. Tramitar, previo acuerdo con el Gobernador del Estado, la adquisición, enajenación, destino o afectación de los bienes inmuebles de la Administración Pública Estatal. Tratándose de enajenaciones a título oneroso o gratuito, o para conceder el uso y disfrute de bienes inmuebles de propiedad estatal, deberá obtenerse previamente la autorización del Congreso del Estado;
+
+XI. Tramitar y ejecutar los acuerdos del Gobernador relativos a la expropiación, ocupación temporal y limitación de dominio, en los casos de utilidad pública, de conformidad con la legislación aplicable;
+
+XII. Mantener actualizado el avalúo de los bienes inmuebles estatales;
+
+XIII. Promover y apoyar, conforme al Plan Veracruzano de Desarrollo, la realización de los Programas Regionales y Municipales de Desarrollo Urbano, para la integración de un Sistema Estatal de Suelo;
+
+XIV. Promover, en coordinación con las autoridades federales y estatales, la realización de las obras e instalaciones para dotar de servicio eléctrico a los núcleos de población;
+
+XV. Asesorar, a solicitud de los propios Ayuntamientos, en la elaboración de proyectos y ejecución de obras municipales de agua potable y alcantarillado, en la administración y operación de estos servicios y, en su caso, ejecutar y supervisar dichas obras;
+
+XVI. Proponer las políticas y programas relativos a la construcción y mantenimiento de las obras públicas, de acuerdo con el Plan Veracruzano de Desarrollo, así como dirigir, coordinar y controlar la ejecución de los mismos;
+
+XVII. Elaborar y, en su caso, sancionar los proyectos y presupuestos de las obras públicas, en coordinación con las dependencias que correspondan;
+
+XVIII. Proyectar, ejecutar y, en su caso, supervisar por administración directa o a través de terceros por licitación, las obras públicas y establecer las bases técnicas a que deben sujetarse las licitaciones para la adjudicación de los respectivos contratos y vigilar el cumplimiento de los mismos;
+
+XIX. Asesorar técnicamente a los Ayuntamientos en la realización de obras públicas, cuando así lo soliciten;
+
+XX. Construir, reconstruir y conservar los edificios públicos, los monumentos históricos y las obras de ornato realizadas por el Estado, exceptuando las encomendadas oficialmente a otra dependencia;
+
+XXI. Coadyuvar, a petición de los Ayuntamientos, en la elaboración de proyectos y en la ejecución de la obra pública municipal;
+
+XXII. Proyectar y supervisar, en su caso, en coordinación con los Municipios, las obras públicas a cargo del Gobierno del Estado que hayan sido asignadas directamente o por adjudicación en concurso a particulares;
+
+XXIII. Desarrollar los planes y programas destinados a la preservación, aprovechamiento racional y mejoramiento de los recursos naturales, de la flora y la fauna existentes en el territorio del Estado, así como para la prevención y combate a la contaminación ambiental;
+
+XXIV. Estudiar el funcionamiento de las comunidades bióticas y los medios abióticos para promover los programas ecológicos adecuados;
+
+XXV. Promover acciones prioritarias para la preservación y restauración del equilibrio ecológico y protección al ambiente;
+
+XXVI. Promover programas y actividades para orientar, informar y lograr la participación de las personas para la preservación y mejoramiento de los ecosistemas;
+
+XXVII. Organizar y fomentar la investigación relacionada con la ecología;
+
+XXVIII. Conocer del ejercicio de acción popular, del procedimiento administrativo que en esta materia se incoe con motivo de la inobservancia de la ley, así como de la aplicación de las sanciones correspondientes; y
+
+XXIX. Proponer y apoyar la ejecución de los planes y programas relativos a la reforestación en el Estado, procurando la conservación de las áreas verdes, bosques, parques estatales y zonas recreativas en coordinación con los gobiernos federal y municipales.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 12 DE FEBRERO DE 2002)</small>
+
+De la Secretaría de Desarrollo Agropecuario, Rural, Forestal, Pesca y Alimentación
+
+> <small>(REFORMADO, G.O. 12 DE FEBRERO DE 2002)</small>
+
+###### Artículo 29.
+
+La Secretaría de Desarrollo Agropecuario, Rural, Forestal, Pesca y Alimentación es la dependencia responsable de coordinar la política de Desarrollo Agropecuario, Rural, Forestal, Pesca y Alimentación en la entidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE FEBRERO DE 2002)</small>
+
+###### Artículo 30.
+
+Son atribuciones del Secretario de Desarrollo Agropecuario, Rural Forestal, Pesca y Alimentación conforme a la distribución de competencias que establezca su Reglamento Interior, las siguientes:
+
+I. Fomentar la producción agrícola, frutícola, forestal y obras de infraestructura hidráulica, así como apoyar, vigilar y, en su caso, ejecutar los programas que en esta materia deriven del Plan Veracruzano de Desarrollo;
+
+II. Fomentar, conforme a los programas en la materia, la organización, capacitación y asistencia técnica a los productores agrícolas, frutícolas y forestales;
+
+III. Promover que el crédito y seguro agrícola, frutícola y forestal, se orienten hacia los renglones prioritarios que señale el Plan Veracruzano de Desarrollo;
+
+IV. Efectuar las acciones de coordinación con autoridades federales, estatales o municipales, con el objeto de que los productores cuenten, con suficiencia, calidad y oportunidad, con los insumos para la producción;
+
+V. Estimular el establecimiento de empresas proveedoras de insumos, equipo e implementos agrícolas, acordes a las necesidades del Estado;
+
+VI. Propiciar la concertación de acciones entre productores y dependencias oficiales, que permitan el fomento de patronatos de productores de semillas y material vegetativo mejorado, para cubrir las necesidades del Estado;
+
+VII. Formular el inventario de los recursos e infraestructura agrícola, frutícola, forestal e hidráulica existentes en el Estado, promoviendo su explotación racional y eficiente;
+
+VIII. Proponer, apoyar y, en su caso, ejecutar las obras de infraestructura agrícola e hidráulica en cooperación con el Gobierno Federal, los Municipios y las organizaciones de productores;
+
+IX. Participar, de conformidad con las disposiciones aplicables, en el aprovechamiento de los recursos hidráulicos de la Entidad;
+
+X. Fomentar la realización de Proyectos de Ingeniería Agrícola e Hidráulica, como obras de pequeña irrigación y abrevadero, drenaje, terraceros, nivelaciones, al igual que de construcciones rurales, como bodegas, cobertizos, galeras, zahúrdas, baños, silos y otros similares, en coordinación con la Secretaría de Desarrollo Regional;
+
+XI. Promover, apoyar y realizar en su caso, campañas para prevenir y combatir las plagas y enfermedades que atacan a las especies vegetales del Estado;
+
+XII. Asesorar a los Municipios y organismos productores que lo soliciten, en materia agrícola, frutícola, forestal e hidráulica;
+
+XIII. Promover la creación de organismos y mecanismos que permitan el control de la comercialización por parte de los productores, de los insumos y productos agrícolas y forestales, así como fomentar la comercialización y producción de cultivos y especies con demanda internacional;
+
+XIV. Gestionar lo necesario para que los precios de garantía y de mercado de los productos agrícolas, frutícolas y forestales se fijen con equidad;
+
+XV. Fomentar la creación, la organización y el desarrollo de industrias relacionadas con la producción agrícola, frutícola y forestal que se genera en la Entidad, en coordinación con la Secretaría de Desarrollo Económico;
+
+XVI. Promover y apoyar la investigación básica y aplicada ligada a la problemática agrícola, frutícola, forestal e hidráulica estatal, así como fomentar la divulgación y adopción de las tecnologías y sistemas generados, que aumenten la producción y productividad del campo;
+
+XVII. Fomentar la enseñanza agrícola, frutícola, forestal e hidráulica, mediante la creación de campos experimentales, escuelas y centros de capacitación y demostración, así como coordinar acciones con los centros educativos sobre esta materia establecidos en el Estado;
+
+XVIII. Vigilar la preservación de los recursos agrícolas, frutícolas y forestales, así como la de los recursos naturales renovables factibles de utilizarse y desarrollar su potencial productivo;
+
+XIX. Fomentar y apoyar la conservación y preservación de suelos agrícolas y áreas forestales, a través del manejo integral de cuencas hidrográficas;
+
+XX. Fomentar programas de reforestación, en coordinación con la Secretaría de Desarrollo Regional;
+
+XXI. Fomentar y controlar los servicios agrícolas que establezca el Estado, tales como: distribución de semillas mejoradas, fertilizantes, árboles frutales y centrales de maquinaria entre otros;
+
+XXII. Fomentar la producción pecuaria, así como la vigilancia, apoyo y, en su caso, ejecución de las obras y servicios pecuarios en cooperación con los Gobiernos Federal y Municipales, en coordinación con los productores y con base en el Plan Veracruzano de Desarrollo;
+
+XXIII. Fomentar la organización de los productores pecuarios conforme al Plan Veracruzano de Desarrollo;
+
+XXIV. Ayudar al mejor funcionamiento de las organizaciones ganaderas regionales y locales;
+
+XXV. Asesorar y capacitar a las organizaciones de productores e impulsar programas de desarrollo ganadero;
+
+XXVI. Promover el otorgamiento de créditos y orientarlos hacia los renglones prioritarios señalados en el Plan Veracruzano de Desarrollo, así como promover el seguro ganadero;
+
+XXVII. Promover el aprovechamiento de esquilmos agrícolas y subproductos agroindustriales en alimentación animal;
+
+XXVIII. Efectuar las acciones de coordinación con autoridades federales, estatales o municipales, con el objeto de que los productores cuenten, con suficiencia, calidad y oportunidad, con los insumos para elevar la producción y productividad ganaderas;
+
+XXIX. Estimular el establecimiento, en forma preferente, de empresas productoras de insumos, equipo e implementos pecuarios, de acuerdo a las necesidades de la ganadería;
+
+XXX. Coordinar campañas sanitarias en forma intensiva y permanente, para prevenir y combatir enfermedades epizoóticas que afecten a la ganadería;
+
+XXXI. Fomentar el uso de la inseminación artificial y los programas reproductivos para elevar la calidad genética de los hatos;
+
+XXXII. Preservar y fomentar la infraestructura pecuaria, así como formular el inventario ganadero del Estado;
+
+XXXIII. Fomentar y organizar exposiciones ganaderas municipales y estatales de grandes y pequeñas especies, conforme al calendario que se acuerde;
+
+XXXIV. Participar, en coordinación con las autoridades que correspondan y con los productores, en la aplicación de campañas y programas para combatir los efectos negativos de plagas que afecten la apicultura en el Estado;
+
+XXXV. Promover la industrialización de productos y subproductos de origen animal;
+
+XXXVI. Apoyar programas de investigación pecuaria y fomentar la transferencia de tecnología que mejoren la producción ganadera;
+
+XXXVII. Promover la introducción de nuevas variedades de forrajes;
+
+XXXVIII. Controlar y vigilar la movilización del ganado, productos y subproductos, para reducir el abigeato y evitar la propagación de plagas y enfermedades, de conformidad con la legislación aplicable;
+
+XXXIX. Ejecutar la política pesquera del Estado, de acuerdo al Plan Veracruzano de Desarrollo y en coordinación con las autoridades federales y, en su caso, las municipales;
+
+XL. Difundir la aplicación de los métodos y procedimientos técnicos y científicos destinados a obtener mejores rendimientos en la actividad pesquera;
+
+XLI. Organizar al sector pesquero del Estado, conforme a los programas nacionales y municipales establecidos en convenios de coordinación;
+
+XLII. Promover el desarrollo de comunidades pesqueras y acuacultoras;
+
+XLIII. Promover y coadyuvar en la conservación de la flora y fauna marítima, pluvial y lacustre, y fomentar su desarrollo;
+
+XLIV. Asesorar técnicamente a pescadores y acuacultores;
+
+XLV. Fomentar la constitución de sociedades de producción pesquera, asociaciones, cooperativas, uniones de pescadores y acuacultores, y proporcionarles apoyo técnico; así como fomentar el establecimiento de sociedades de consumo de productos pesqueros, y procurar su financiamiento;
+
+XLVI. Promover la industrialización de los productos pesqueros y el establecimiento de empacadoras y frigoríficos, proporcionando asesoría técnica y de gestoría;
+
+XLVII. Participar, en la esfera de su competencia, en la preservación de los recursos pesqueros;
+
+XLVIII. Coadyuvar con el Gobierno Federal en la integración y revisión del Registro Nacional de Pesca;
+
+XLIX. Contribuir con las autoridades federales y locales competentes, al fomento de la producción pesquera;
+
+L. Promover y apoyar el desarrollo de la infraestructura pesquera, así como la racional explotación y consumo de los recursos pesqueros;
+
+LI. Fomentar la capacitación y la asistencia técnica de los productores agropecuarios, forestales y pesqueros del Estado, a fin de que éstos incursionen en el avance tecnológico en sistemas de organización propicios para su desarrollo; y
+
+LII. Promover programas tendientes a la integración de actividades económicas para el desarrollo rural del Estado, que permitan la generación de empleos eventuales y permanentes.
+
+> <small>(ADICIONADA, G.O. 12 DE FEBRERO DE 2002)</small>
+
+LIII. Promover programas tendientes a la integración de actividades económicas para el Desarrollo Rural Sustentable del Estado, que permitan la generación de empleos eventuales y permanentes.
+
+De la Secretaría de Salud y Asistencia
+
+###### Artículo 31.
+
+La Secretaría de Salud y Asistencia es la dependencia responsable de coordinar la política y programas de salud pública, seguridad y asistencia social en la Entidad.
+
+###### Artículo 32.
+
+Son atribuciones del Secretario de Salud y Asistencia, conforme a la distribución de competencias que establezca su Reglamento Interior, las siguientes:
+
+I. Proponer las políticas, conducir y evaluar los programas de salud de acuerdo con el Plan Veracruzano de Desarrollo;
+
+II. Planear, normar, establecer, coordinar y evaluar el sistema integral de servicios de salud y asistencia para el Estado, en coordinación con instituciones de salud de los gobiernos federal, estatal, y municipales, y con instituciones sociales y privadas;
+
+III. Planear y ejecutar las campañas sobre servicios médicos, salud pública y asistencia social, y, en su caso, en coordinación con las autoridades federales y municipales, e instituciones sociales y privadas;
+
+IV. Establecer las normas para orientar los servicios de asistencia social que prestan los sectores público, social y privado y proveer su cumplimiento;
+
+V. Participar con las autoridades federales y locales en la formulación, conducción y evaluación de las políticas de saneamiento ambiental;
+
+VI. Dictar normas técnicas en materia de salubridad local y verificar su cumplimiento;
+
+VII. Planear y coordinar las acciones de docencia, investigación y capacitación que en el campo de la salud pública se realicen en el Estado;
+
+VIII. Vigilar y controlar la asistencia pública en la Entidad;
+
+IX. Administrar los bienes y fondos que el Gobierno Estatal destine a los servicios de salud;
+
+X. Coadyuvar con la autoridad federal en la vigilancia del cumplimiento de las leyes federales en materia de salud, así como de sus reglamentos;
+
+XI. Proponer las bases para que los Gobiernos federal y estatales participen en la realización de programas destinados a promover la salud y educar a la población en esta materia;
+
+XII. Apoyar a los Municipios de la Entidad que lo soliciten, en la instrumentación de medidas y acciones en materia de atención médica, salud pública y asistencia social; y
+
+XIII. Promover, organizar y participar en conferencias, convenciones, encuentros y congresos relacionados con el derecho a la salud.
+
+De la Contraloría General
+
+###### Artículo 33.
+
+La Contraloría General es la dependencia responsable de la función de control y evaluación gubernamental y desarrollo administrativo, así como de la inspección y vigilancia de los ingresos, gastos, recursos y obligaciones de las dependencias y entidades de la Administración Pública Estatal, durante el ejercicio presupuestal correspondiente.
+
+###### Artículo 34.
+
+Son atribuciones del Contralor General, conforme a la distribución de competencias que establezca su Reglamento Interior, las siguientes:
+
+I. Planear, organizar y coordinar el sistema de control y evaluación gubernamental;
+
+II. Participar en la evaluación periódica de la relación que guardan los programas y presupuestos de las dependencias y entidades de la Administración Pública, con los objetivos y prioridades del Plan Veracruzano de Desarrollo, así como los resultados de su ejecución, a fin de recomendar la adopción de las medidas necesarias para corregir las desviaciones detectadas y proponer la adecuación, en su caso, del plan y los programas respectivos;
+
+> <small>(REFORMADA, G.O. 2 DE JULIO DE 2004)</small>
+
+III. Controlar y evaluar los programas de inversión de las dependencias y entidades de la administración pública, conforme a los objetivos del Plan Veracruzano de Desarrollo;
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2002)</small>
+
+IV. Proponer las normas y lineamientos que regulen los procedimientos de control, supervisión y evaluación de la Administración Pública Estatal, así como realizar el control y evaluación del gasto público, conforme al registro de las operaciones financieras, presupuestales y contables que se realicen a través del Sistema Integral de Administración Financiera del Estado de Veracruz;
+
+V. Revisar, en los términos de los instrumentos de coordinación que se suscriban, que los recursos financieros ministrados por la Federación al Gobierno del Estado, sean canalizados hacia los objetivos propuestos en los programas respectivos y se apliquen con honestidad y transparencia;
+
+VI. Vigilar, en coordinación con la Secretaría de Finanzas y Planeación, que los empleados que administren fondos y valores del Estado caucionen debidamente su manejo;
+
+VII. Establecer los criterios y procedimientos para la realización de auditorías y revisiones en las dependencias y entidades;
+
+VIII. Emitir, en coordinación con la Secretaría de Finanzas y Planeación, criterios y lineamientos en materia de adquisiciones, obras públicas, arrendamientos, contratación de servicios, desincorporación de activos, control de inventarios, manejo de almacenes, conservación, mantenimiento, resguardo y enajenación de los bienes de propiedad estatal;
+
+IX. Verificar y comprobar, en coordinación con la Secretaría de Finanzas y Planeación, el cumplimiento de las normas y disposiciones internas en materia de: sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios, obra pública, control, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles; concesiones, almacenes y demás activos y recursos materiales de la Administración Pública Estatal;
+
+X. Opinar sobre los proyectos de normas de contabilidad y control en materia de programación, presupuestación, administración de recursos humanos, materiales y financieros, así como los de contratación de deuda y manejo de fondos y valores que formule la Secretaría de Finanzas y Planeación;
+
+XI. Emitir criterios y lineamientos en materia de simplificación y desarrollo administrativo;
+
+XII. Emitir los lineamientos para la entrega y recepción de oficinas públicas, por cambio de sus titulares o responsables y verificar su cumplimiento;
+
+XIII. Designar, previo acuerdo del Gobernador del Estado, a los titulares de los órganos internos de control en las dependencias y entidades, así como vigilar, controlar y evaluar su gestión;
+
+XIV. Llevar el registro de la normatividad interna de las entidades paraestatales;
+
+XV. Proponer al Gobernador del Estado la designación de comisarios, o sus equivalentes, en los órganos de vigilancia de los consejos o juntas de gobierno y administración de las entidades paraestatales;
+
+XVI. Designar a los auditores externos de las dependencias y entidades y coordinar, supervisar y evaluar sus actividades;
+
+XVII. Informar al Gobernador del Estado y a los titulares de las dependencias y entidades que correspondan, los resultados de la verificación y evaluación de las mismas;
+
+XVIII. Auxiliar, a solicitud del Poder Legislativo, del Poder Judicial o de los Ayuntamientos de la entidad, a sus órganos internos de control o sus equivalentes;
+
+XIX. Verificar el avance y ejecución de los programas a cargo de las dependencias y entidades de la Administración Pública Estatal;
+
+XX. Inspeccionar el ejercicio del gasto público estatal y verificar su congruencia con el Presupuesto de Egresos aprobado;
+
+XXI. Vigilar el cumplimiento de las normas de control y evaluación; así como asesorar, apoyar y coordinar la operación de los órganos internos de control en las dependencias y entidades;
+
+XXII. Verificar que las dependencias y entidades cumplan las disposiciones legales en materia de planeación, programación, presupuestación, ejercicio, ingresos, financiamiento, inversión, deuda, patrimonio, fondos y valores;
+
+XXIII. Realizar auditorías, revisiones y evaluaciones a las dependencias y entidades;
+
+XXIV. Inspeccionar y vigilar que las dependencias y entidades cumplan con las disposiciones legales y normativas en materia de sistemas de registro y contabilidad, contratación y pago de personal, inversiones, concesiones, contratación de servicios, obra pública, gasto corriente, adquisiciones, arrendamientos, conservación, enajenación y baja de bienes muebles e inmuebles, almacenes, control de inventarios y, en general, sobre los activos y recursos de la Administración Pública Estatal;
+
+XXV. Supervisar que los recursos, las estructuras administrativas y procedimientos de la Administración Pública Estatal sean empleados de manera eficiente y racional;
+
+XXVI. Promover la capacitación del personal del Gobierno del Estado para el mejor desempeño de sus labores y, conjuntamente con la Secretaría de Finanzas y Planeación, establecer normas, lineamientos y políticas en materia de administración y desarrollo del personal de las dependencias y entidades de la Administración Pública Estatal;
+
+XXVII. Revisar el desempeño de los servicios administrativos que proporciona el Gobierno Estatal, en apoyo a los programas del mismo, y proponer medidas para su mejoramiento;
+
+XXVIII. Supervisar que los recursos financieros otorgados por la Federación dentro de los convenios y programas que se establezcan con el Estado, sean canalizados hacia los objetivos propuestos en los mismos y se apliquen con honestidad y transparencia;
+
+XXIX. Llevar el registro y control de las propiedades inmuebles de la Administración Pública Estatal, así como elaborar y conservar actualizado su inventario general;
+
+XXX. Verificar que los arrendamientos inmobiliarios que celebre la Administración Pública Estatal estén sustentados en dictamen de justipreciación de rentas emitido por autoridad catastral;
+
+XXXI. Atender las quejas e inconformidades que presenten los particulares con motivo de licitaciones, concursos, convenios o contratos que celebren con las dependencias y entidades; y
+
+XXXII. Conocer de la responsabilidad administrativa de los servidores públicos en términos de la ley de la materia.
+
+De la Procuraduría General de Justicia
+
+###### Artículo 35.
+
+La Procuraduría General de Justicia es la dependencia encargada del Ministerio Público, responsable de procurar y vigilar el cumplimiento de las leyes y ejercer las acciones correspondientes en contra de los infractores de la ley, así como las que tengan por objeto la efectiva reparación del daño causado y la protección de los derechos de la víctima del acto ilícito, en términos de lo dispuesto por la Constitución Federal, la Constitución Política del Estado, la Ley Orgánica del Ministerio Público y demás disposiciones aplicables.
+
+De la Coordinación General de Comunicación Social
 
 ###### Artículo 36.
 
 La Coordinación General de Comunicación Social es la dependencia responsable de coordinar la difusión informativa, publicitaria y promocional de las actividades, obras y servicios de la Administración Pública del Estado, a través de los distintos medios de comunicación o de manera directa.
 
-###### ARTICULO 37.
+###### Artículo 37.
 
-Los sujetos de la Ley, deberán integrar su propio Comité de Adquisiciones y Enajenaciones como órgano colegiado de consulta, asesoría, análisis, orientación, en materia de adquisiciones y enajenaciones, cuyo objetivo es intervenir como instancia administrativa en los procedimientos de las adquisiciones, arrendamientos, contratación de servicios y enajenaciones de bienes muebles e inmuebles requeridos por sus dependencias de la administración pública estatal, cuando el valor de las adquisiciones o enajenaciones corresponda al procedimiento de licitación pública o invitación restringida.
+Son atribuciones del Coordinador General de Comunicación Social, conforme a la distribución de competencias que establezca su Reglamento Interior, las siguientes:
 
-El domicilio del Comité será el mismo en el que se encuentre ubicada la oficina sede de la Secretaría.
+I. Dirigir y ejecutar la política de comunicación social y de relaciones públicas de la Administración Pública Estatal;
 
-### CAPITULO III. De la Adquisición, Arrendamiento y Contratación de Servicios Respecto de Bienes Muebles
+II. Planear, normar, coordinar y orientar las actividades de difusión informativa, comunicación y publicidad social de la Administración Pública Estatal y evaluar la opinión pública sobre los programas y servicios gubernamentales;
 
-#### SECCION CUARTA. Del Padrón de Proveedores de Gobierno del Estado
+III. Registrar, analizar y sistematizar la información remitida en los medios de comunicación referente a los acontecimientos de interés del Estado de Veracruz y de la Federación;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+IV. Establecer, coordinar y promover las relaciones públicas de la Administración Pública del Estado;
 
-###### ARTICULO 38.
+V. Analizar la información de los distintos medios de comunicación y proporcionar a las distintas dependencias y entidades, aquella relacionada con su ámbito de competencia;
 
-El Comité contará con los siguientes integrantes:
+VI. Mantener actualizado el banco hemerográfico, la fototeca, la videoteca, las grabaciones radiofónicas y producciones sobre la obra y actividades del Gobierno Estatal;
 
-I. Un presidente, que será el titular de la Secretaría;
+VII. Diseñar y operar el Programa General de Comunicación Social de la Administración Pública Estatal estableciendo, con el apoyo de los titulares de las dependencias, el funcionamiento y operación de las oficinas de comunicación social de las mismas; las que dependerán jerárquicamente de la Coordinación General de Comunicación Social y se reportarán funcionalmente con los titulares de cada dependencia;
 
-II. Un Secretario Ejecutivo, que será la entidad responsable de llevar a cabo las adquisiciones a favor de los sujetos de la Ley;
+VIII. Coordinar la planeación, diseño, producción y evaluación de las campañas de publicidad social que realiza la Administración Pública del Estado a través de sus distintas dependencias e intervenir en la contratación, supervisión y trámite para la asignación de los recursos que se requiera para su realización;
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
+IX. Proveer a los medios de comunicación, la información oficial que emita el Gobierno del Estado y generar los instrumentos, tiempos y espacios pertinentes a la difusión y promoción gubernamental;
 
-III. Tres vocales con voz y voto que serán:
+X. Planear y operar la política de promoción, fomento y relaciones públicas del Gobierno del Estado a favor del desarrollo de Veracruz, particularmente en el ámbito de la cultura, del arte y la cinematografía;
 
-Un representante de la Secretaría de Planeación y Desarrollo Regional del Estado; un representante de la Secretaría de Finanzas o su similar en sus Municipios; y un representante de la cámara o asociación del ramo correspondiente;
+XI. Establecer los vínculos y la colaboración con las instituciones académicas, los medios y los comunicadores en términos de convenios, acuerdos o programas de promoción y desarrollo comunicacional; y
 
-IV. Dos vocales con voz pero sin voto que serán:
+XII. Coordinar con las dependencias de la Administración Pública Estatal los procedimientos para la difusión informativa, la publicidad y la promoción de la Administración Pública mediante el establecimiento del Consejo Operativo para la Comunicación Gubernamental, que estará integrado por los responsables de la comunicación social en las dependencias, encabezadas por el titular de la Coordinación General de Comunicación Social.
 
-Un representante de la Contraloría General del Estado o el órgano de control interno según sea el caso en los Municipios; y
+### CAPÍTULO III. DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL
 
-V. Un representante del área requisitante.
+#### SECCIÓN PRIMERA. Disposiciones Generales
 
-Los integrantes del Comité contarán con un suplente, el cual, en ausencia del titular, tendrá las mismas facultades y atribuciones de éste último.
+###### Artículo 38.
 
-En el caso de los Municipios se invitará como vocales al Síndico y al Regidor de Hacienda, con voz y voto.
+El presente capítulo tiene por objeto establecer las bases de organización, funcionamiento y control de las entidades paraestatales a que hace referencia el artículo 3 de esta ley. Las relaciones del Ejecutivo del Estado, o de sus dependencias, con las entidades paraestatales, en cuanto unidades auxiliares de la Administración Pública, se sujetarán, en primer término, a lo establecido en esta ley y sus disposiciones reglamentarias y, sólo en lo no previsto, a otras disposiciones según la materia que corresponda.
 
-###### ARTICULO 39.
+###### Artículo 39.
 
-El Comité se reunirá mensualmente y cuando el Presidente del Comité o la mayoría de sus integrantes lo consideren necesario.
+La Universidad Veracruzana y demás instituciones de educación superior a las que la ley otorgue autonomía, se regirán por sus leyes específicas.
 
-A las reuniones podrán ser invitados los servidores públicos cuyas funciones o actividades estén relacionadas con los asuntos que se encuentren en trámite ante el Comité y cuya presencia se estime conveniente, así como a quien represente a la dependencia o entidad que hubiere solicitado los bienes de los que pueda estar pendiente la resolución de su adquisición.
+El Instituto Electoral Veracruzano, la Comisión Estatal de Derechos Humanos y el Órgano de Fiscalización Superior, en cuanto organismos autónomos del Estado, atendiendo a sus objetivos y a la naturaleza de sus funciones, quedan excluidos de la observancia de las disposiciones del presente capítulo.
 
-El Comité se regirá en apego al Manual de Integración y Funcionamiento, propuesto por el Presidente y aprobado por el Comité durante los primeros treinta días de cada año mismo que deberá publicarse en el Periódico Oficial del Estado.
+###### Artículo 40.
 
-###### ARTICULO 40.
+Las entidades paraestatales gozarán de autonomía de gestión para el debido cumplimiento de su objeto, y de los objetivos y metas señaladas en sus programas. Al efecto, los órganos de gobierno, o sus equivalentes, de las entidades paraestatales, según sea el caso, expedirán su correspondiente normatividad interior, que deberá establecer las bases específicas de organización, funcionamiento y las atribuciones de sus respectivos directores generales, o similares, y de las distintas áreas que integren la entidad de que se trate. Dicha normatividad deberá publicarse en la Gaceta Oficial del Estado y registrarse ante la Contraloría General.
 
-Las reuniones serán dirigidas por el Presidente o el Secretario Ejecutivo, además se requerirá que estén presentes la mayoría de sus miembros. Las decisiones se tomarán por el cincuenta por ciento más uno de votos; en casos de empate, el Presidente del Comité tendrá voto de calidad; en ausencia del Presidente, el Secretario Ejecutivo gozará de dicha facultad.
+> <small>(ADICIONADO, G.O. 28 DE NOVIEMBRE DE 2002)</small>
 
-Tratándose de resoluciones de una licitación, cuando no se reúna la mayoría de los integrantes del Comité, a fin de no obstaculizar y retardar los procedimientos, el Presidente del Comité resolverá y decidirá la adjudicación, atendiendo a la facultad que le confiere la Ley Orgánica respectiva.
+Cada entidad paraestatal contará, además con una unidad administrativa responsable de la presupuestación, programación y ejercicio del presupuesto a su cargo en términos de las disposiciones aplicables.
 
-###### ARTICULO 41.
+> <small>(ADICIONADO, G.O. 28 DE NOVIEMBRE DE 2002)</small>
 
-Los planteamientos de los casos que se sometan a la autorización del Comité se harán por escrito, conteniendo un resumen de la información que se presente; la documentación correspondiente deberá conservarse por un mínimo de tres años.
+Los titulares de las unidades administrativas de las entidades paraestatales deberán cumplir los requisitos que establece el artículo 10 de esta Ley y tendrán en lo conducente, las mismas atribuciones que sus similares de las dependencias.
 
-###### ARTICULO 42.
+###### Artículo 41.
 
-El Comité tendrá las siguientes atribuciones:
+Los Presidentes y miembros de los órganos de gobierno, consejos de administración, comités técnicos, o sus equivalentes, de las entidades paraestatales, serán designados por el Gobernador del Estado. Asimismo, los Directores Generales, o sus similares, de dichas entidades serán designados por el Gobernador del Estado o, con autorización de éste, por el titular de la dependencia coordinadora de sector; o por el órgano de gobierno, consejo de administración, comité técnico, o sus equivalentes, cuando así lo señale expresamente la ley o decreto de su creación.
 
-I. Llevar a cabo las licitaciones públicas, adjudicando, en los términos de esta Ley, los contratos y pedidos respectivos;
+Además de los requisitos exigidos en el artículo 7, fracciones I a IV, de esta ley, el nombramiento de Director General, o su similar, de la entidad paraestatal de que se trate, deberá recaer en persona que cumpla con los siguientes:
 
-II. Proponer modificaciones de mejora a los sistemas, procedimientos y manuales de operación que establezca la Secretaría; y vigilar que la información se procese de preferencia en sistemas computarizados;
+I. Haber desempeñado cargos cuyo ejercicio requiera conocimientos y experiencia en materia administrativa, y
 
-III. Aprobar los casos de cancelación de pedidos, rescisión de contratos por caso fortuito o fuerza mayor; el pago de indemnizaciones a los proveedores que en su caso se consideren procedentes, previo dictamen emitido por este órgano, y aprobar las sanciones que correspondan a los proveedores que hayan incurrido en incumplimiento parcial o total de pedidos o contratos;
+II. No encontrarse en algunos de los impedimentos que para ser miembro del Órgano de Gobierno señalan las fracciones II, III y IV del artículo 47 de esta ley.
 
-IV. Determinar cuáles y cuantos serán los bienes y servicios a adquirir;
+###### Artículo 42.
 
-V. Solicitar a las dependencias y entidades su programa anual de adquisiciones;
+Las entidades paraestatales deberán informar a la Secretaría de Finanzas y Planeación de los ingresos que perciban y someterán a su consideración, por conducto y con la aprobación de la dependencia coordinadora de sector, los presupuestos respectivos. Dichas entidades, sin perjuicio de lo establecido por su normatividad interior y las leyes aplicables, para su vigilancia, control y evaluación, incorporarán los órganos de control interno y contarán con los comisarios públicos que designe la Contraloría General.
 
-VI. Resolver sobre los casos de excepción a licitar públicamente bienes y servicios, en casos de fuerza mayor;
+Al efecto, La Secretaría de Finanzas y Planeación tendrá miembros en los Órganos de Gobierno, Consejos de Administración, Comités Técnicos, o sus equivalentes, de las entidades paraestatales. También participarán otras dependencias y entidades, en la medida que tengan relación con el objeto de la entidad paraestatal de que se trate, conforme a su esfera de competencia y a las disposiciones relativas en la materia.
 
-VII. Nombrar a los servidores públicos encargados de recibir ofertas, garantías, poderes, y demás análogas, esto es, las personas encargadas de organizar y coordinar todas las actividades y actos de una licitación e invitación restringida;
+###### Artículo 43.
 
-VIII. Rechazar de manera fundada y motivada las requisiciones de compra que a su juicio no se justifiquen;
+Para los efectos de esta ley, se consideran áreas estratégicas o prioritarias aquellas que señala la Constitución Federal, la Constitución Política del Estado y las leyes que de ellas deriven, así como las actividades que con ese carácter establezca el Plan Veracruzano de Desarrollo para la satisfacción del interés público.
 
-IX. Emitir su resolución respecto de las mejores condiciones de calidad, servicio, precio, pago y tiempo de entrega, ofertadas por los proveedores para la adquisición, enajenación o arrendamiento de bienes y servicios;
+#### SECCIÓN SEGUNDA. De los Organismos Descentralizados
 
-X. Fomentar la homologación y compatibilidad de los bienes y servicios a fin de simplificar las tareas de mantenimiento y servicio;
+###### Artículo 44.
 
-XI. Fomentar la incorporación de más personas al Padrón de Proveedores del Gobierno del Estado, que reúnan los requisitos para su registro;
+Son organismos descentralizados las personas jurídicas creadas por ley o decreto del Congreso del Estado, o por decreto del titular del Ejecutivo, con personalidad jurídica y patrimonio propios, cualquiera que sea la estructura legal que adopten y cuyo objeto sea:
 
-XII. Proponer a la Secretaría la exclusión del Padrón de Proveedores del Gobierno del Estado a los proveedores que hubiesen incurrido en incumplimiento de adjudicación o contrato, aún en un solo pedido;
+I. La realización de actividades correspondientes a las áreas estratégicas o prioritarias;
 
-XIII. Proponer a la Secretaría, los criterios para la elaboración de los Manuales de Adquisiciones y el de Enajenaciones, así como su permanente actualización;
+II. La prestación de un servicio público o social; o
 
-XIV. Analizar y aprobar mediante dictamen la factibilidad para la instauración de Subcomités en Dependencias adscritas al Ejecutivo;
+III. La obtención o aplicación de recursos para fines de asistencia o seguridad social.
 
-XV. Establecer políticas y lineamientos para los Subcomités;
+###### Artículo 45.
 
-XVI. Intervenir en representación del Gobierno del Estado en las operaciones de enajenación de los bienes muebles e inmuebles propiedad del Estado;
+En las leyes o decretos que se expidan para la creación de un organismo descentralizado se establecerán, entre otros elementos:
 
-XVII. Formular las normas, políticas y lineamientos en materia de enajenaciones de los bienes muebles e inmuebles;
+I. Su denominación;
 
-XVIII. Hacer públicas, en uno de los diarios de mayor circulación, las convocatorias de cada licitación para la enajenación de bienes; y
+II. El domicilio legal;
 
-XIX. Las demás que le sean conferidas en esta Ley.
+III. Su objeto, conforme lo señalado en el artículo anterior;
 
-###### ARTICULO 43.
+IV. Las aportaciones y fuentes de recursos para integrar su patrimonio, así como aquellas que se determinen para su incremento;
 
-El Presidente del Comité tendrá las siguientes atribuciones:
+V. La manera de integrar el órgano de gobierno y de designar al Director General, así como a los servidores públicos en las dos jerarquías inferiores a éste;
 
-I. Convocar las juntas ordinarias y extraordinarias del Comité;
+VI. Las facultades y obligaciones del órgano de gobierno, señalando cuáles de dichas facultades son indelegables;
 
-II. Autorizar el orden del día y analizar previamente los expedientes correspondientes a los asuntos que se tratarán en cada junta, y en su caso, ordenar las correcciones que juzgue necesarias;
+VII. Las atribuciones del Director General, quien tendrá la representación legal del organismo; y
 
-III. Coordinar y dirigir las reuniones del Comité;
+VIII. Sus órganos de vigilancia, así como sus facultades.
 
-IV. Requerir a los miembros del Comité, el cumplimiento de los lineamientos establecidos en el Manual de Integración y Funcionamiento del mismo;
+Cuando algún organismo descentralizado deje de cumplir sus fines u objeto, o su funcionamiento no resulte ya conveniente desde el punto de vista económico o del interés público, éste se podrá disolver, fusionar, liquidar o extinguir, según sea el caso, siempre que se observen las mismas formalidades establecidas para su creación y se fijen los términos de su disolución, fusión, liquidación o extinción.
 
-V.- En casos de empate, emitir su voto de calidad, tomando las decisiones que juzgue adecuadas; y
+###### Artículo 46.
 
-VI.- En general, llevar a cabo todas aquellas otras funciones que se relacionen con las anteriormente señaladas.
+Los organismos descentralizados serán administrados por un Órgano de Gobierno y un Director General.
 
-#### SECCION QUINTA. De los Procedimientos para la Adquisición y Prestación de Servicios
+El Órgano de Gobierno estará integrado por no menos de tres ni más de diez miembros propietarios y de sus respectivos suplentes. El cargo de miembro del Órgano de Gobierno será estrictamente personal y no podrá desempeñarse por medio de representantes.
 
-###### ARTICULO 44.
+###### Artículo 47.
 
-El Secretario Ejecutivo tendrá las siguientes atribuciones:
+No pueden ser miembros del Órgano de Gobierno:
 
-I. Requisitar y formalizar los pedidos y contratos adjudicados por el Comité;
+I. El Director General del organismo de que se trate, con excepción de aquellos casos en que así lo determinen expresamente las leyes o decretos del Congreso del Estado;
 
-II. Elaborar el orden del día correspondiente a cada reunión, las actas de sesión, los documentos que contengan la información resumida de los casos que se dictaminarán y los demás documentos que integren los expedientes que se someterán a la aprobación del Comité;
+II. Los cónyuges y las personas que tengan parentesco por consanguinidad o afinidad hasta el cuarto grado o quienes tengan relaciones profesionales, laborales o de negocios con cualquiera de los miembros del Órgano de Gobierno o con el Director General;
 
-III. Citar a las reuniones por acuerdo del Presidente;
+III. Las personas que tengan litigios pendientes con el organismo de que se trata; y
 
-IV. Someter los expedientes respectivos a la aprobación del Presidente del Comité;
+IV. Las personas sentenciadas por delitos patrimoniales, las inhabilitadas para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público.
 
-V. Hacer llegar a cada uno de los miembros del Comité el expediente correspondiente a cada reunión que se cite;
+#### SECCIÓN TERCERA. De las Empresas de Participación Estatal
 
-VI. Llevar a cada una de las reuniones del Comité la documentación adicional que pueda requerirse;
+###### Artículo 48.
 
-VII. Ejecutar y vigilar que se realicen a través de las distintas áreas los acuerdos que se tomen y los compromisos que se adquieran;
+Son empresas de participación estatal aquellas que, además de lo dispuesto por esta ley y leyes del Estado, satisfagan algunos de los siguientes requisitos:
 
-VIII. Vigilar el oportuno cumplimiento de las metas que se haya propuesto el Comité, informando mensualmente los avances o retrasos que al respecto hubiese;
+I. Que el Gobierno Estatal, o uno o más organismos descentralizados, u otras empresas de participación estatal, considerados conjunta o separadamente, aporten o sean propietarios del 51% o más del capital social;
 
-IX.- Ejercer las facultades de decisión del Presidente del Comité en ausencia de éste;
+II. Que en la constitución de su capital, se hagan figurar acciones de serie especial, que sólo puedan ser suscritas por el Gobierno del Estado; y
 
-X. Desarrollar las actas de dictamen; y
+III. Que al Gobierno del Estado corresponda la facultad de nombrar a la mayoría de los miembros del Consejo de Administración, Junta Directiva u Órgano de Gobierno, así como designar al Presidente, al Director, al Gerente o cuando tenga facultades para vetar los acuerdos de la Asamblea General de Accionistas del Consejo de Administración o de la Junta Directiva u Órgano de Gobierno equivalente.
 
-XI. Elaborar y presentar semestralmente ante el titular del Poder Ejecutivo el informe de actividades realizadas por el Comité.
+###### Artículo 49.
 
-###### ARTICULO 45.
+Las empresas de participación estatal deberán tener por objeto áreas prioritarias, en los términos del artículo 43 de esta ley.
 
-Los vocales tendrán las siguientes funciones:
+###### Artículo 50.
 
-I. Analizar los casos y asuntos que se sometan a su consideración y se consignen en el orden del día, apoyando su análisis sobre los informes y documentos que lo sustenten o fundamenten;
+Cuando alguna empresa de participación estatal no cumpla con el objeto a que se contrae el artículo anterior, o ya no resulte conveniente conservarla como entidad paraestatal desde el punto de vista económico o del interés público, la Secretaría de Finanzas y Planeación, atendiendo la opinión de la dependencia coordinadora del sector que corresponda, propondrá al Gobernador del Estado la enajenación de la participación estatal o en su caso su disolución o liquidación, en términos de la legislación aplicable. La enajenación de los títulos representativos del capital de la Administración Pública Estatal, deberá realizarse a través de las operaciones que garanticen las mejores condiciones de venta para el Gobierno del Estado, de acuerdo con las normas que emita la Secretaría de Finanzas y Planeación. La Contraloría General vigilará el debido cumplimiento de lo anterior.
 
-II. Manifestar con objetividad, veracidad y seriedad sus puntos de vista, sus propuestas y alternativas de solución, su voto o inconformidad con los asuntos tratados, a fin de que se pueda llegar a una solución y resolución; y
+###### Artículo 51.
 
-III. Firmar las actas que se levanten en cada reunión, siempre y cuando conste su comprobada asistencia.
+El Gobernador del Estado, por conducto de la dependencia coordinadora de sector, determinará los servidores públicos que deban ejercer las facultades que impliquen la titularidad de las acciones o partes sociales que integren el capital social de las empresas de participación estatal mayoritaria.
 
-###### ARTICULO 46.
+###### Artículo 52.
 
-El representante de la Contraloría General del Estado o el órgano de control correspondiente, asesorará al Comité en la interpretación y aplicación de las normas, sistemas y procedimientos para la mejor administración y operación de las áreas de adquisiciones, enajenaciones, arrendamiento y contratación de bienes.
+Los Consejos de Administración, o sus equivalentes, de las empresas de participación estatal, se integrarán de acuerdo a su normatividad interna y en lo que no se oponga a lo dispuesto por esta ley.
 
-###### ARTICULO 47.
+Los integrantes de dichos consejos, o sus equivalentes, que representen la participación del Gobierno del Estado, además de aquellos a que se refiere el artículo 42 de este ordenamiento, serán designados por el titular del Ejecutivo del Estado, directamente o a través de la dependencia coordinadora de sector. Asimismo, éstos deberán constituir en todo tiempo más de la mitad de los miembros del Consejo, y serán servidores públicos de la Administración Pública Estatal o personas de reconocida calidad moral o prestigio, con experiencia respecto a las actividades propias de la empresa de que se trate.
 
-La Secretaría de Gestión e Innovación del Estado integrará y operará el Padrón de Proveedores que tendrá por objeto el registro de las personas físicas o morales que deseen enajenar mercancías, materias primas, bienes o prestar servicios a los sujetos de la Ley, quienes podrán solicitar a la misma la incorporación al padrón de determinado proveedor que satisfaga los requisitos necesarios.
+###### Artículo 53.
 
-El padrón proporcionará a los sujetos de la Ley, la información completa, confiable y oportuna sobre las personas con capacidad de proporcionar bienes o prestar servicios en las mejores condiciones y con la mejor calidad.
+La fusión o disolución de las empresas de participación estatal se efectuará conforme a los lineamientos o disposiciones establecidos en la normatividad interna de la empresa y legislación correspondiente.
 
-#### SECCION SEXTA. De la Convocatoria y las Bases
+La dependencia coordinadora del sector al que corresponda la empresa, en lo que no se oponga a su regulación específica y de conformidad a las normas establecidas al respecto por la Secretaría de Finanzas y Planeación, intervendrá a fin de señalar la forma y términos en que deba efectuarse la fusión o la disolución, debiendo cuidar en todo tiempo la adecuada protección de los intereses del público, de los accionistas o titulares de las acciones o partes sociales, y los derechos laborales de los servidores públicos de la empresa.
 
-###### ARTICULO 61.
+#### SECCIÓN CUARTA. De los Fideicomisos Públicos
 
-Las convocatorias se publicarán en un diario de circulación local, y sólo si fuese necesario, en uno de circulación nacional.
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2004)</small>
 
-La Secretaría procurará informar oportunamente a los proveedores del padrón sobre todos los concursos y licitaciones que se realicen; la información de las convocatorias se incluirá en los medios electrónicos de comunicación de la Secretaría.
+###### Artículo 54.
 
-En caso de que una determinada licitación solo se publique en el Estado porque los bienes vayan a ser solventados con recursos estatales y dentro del mismo no existan proveedores que pudieran participar, será obligación de la Secretaría invitar formalmente con la debida oportunidad, a participar, cuando menos a tres proveedores dedicados a la venta de los bienes solicitados, de preferencia a los inscritos en el padrón; esto no implicará que si no se inscriben tres proveedores invitados no pueda llevarse a cabo la licitación, pues ésta podrá llevarse a cabo aunque sólo un proveedor participe, siempre y cuando su oferta económica sea igual o menor a los precios de mercado estudiados por la Secretaría.
+Son fideicomisos públicos las entidades creadas por ley o decreto del Congreso o por decreto del Titular del Ejecutivo, que se constituyan con recursos que conforman la Hacienda Pública del Estado y se organicen, de acuerdo a su normatividad interior, con el propósito de auxiliar al Ejecutivo en la realización de actividades prioritarias de interés público.
 
-La convocatoria de una licitación deberá incluir por lo menos la siguiente información:
+Los fideicomisos contarán con un Comité Técnico que será presidido por la persona que al efecto se designe en su Decreto Constitutivo o en el Contrato de Fideicomiso; la Secretaría de Finanzas y Planeación designará, al menos, un representante en cada Comité Técnico, quien tendrá voz y voto. Asimismo, los que lo requieran, se auxiliarán de una estructura administrativa para el cumplimiento de sus objetivos, sujeta a las disposiciones legales aplicables y a los lineamientos que al efecto expidan la Secretaría de Finanzas y Planeación y la Contraloría General.
 
-I. El nombre, denominación o razón social de la convocante;
-
-II. La indicación de los lugares, fechas y horarios en que los interesados podrán obtener las bases y especificaciones de la licitación y, en su caso, el costo y forma de pago de las mismas. Cuando el documento que tenga las bases implique un costo, éste será fijado sólo en razón de la recuperación de las erogaciones por publicación de la convocatoria y de los documentos que se entreguen. Los interesados podrán revisar tales documentos previamente al pago de dicho costo, el cual será requisito para participar en la licitación;
-
-III. La fecha, hora y lugar de celebración del acto de presentación y apertura de propuestas;
-
-IV. La indicación del carácter nacional o internacional de la licitación;
-
-V. La descripción general, cantidad y unidad de medida y marca de los bienes o servicios que sean objeto de la licitación, así como la correspondiente a por lo menos cinco de las partidas o conceptos de mayor monto;
-
-No se podrá solicitar una sola marca en particular a excepción que se incluya la leyenda "o similar";
-
-VI. Lugar, plazo de entrega y condiciones, así como la información sobre los porcentajes a otorgar por concepto de anticipos;
-
-VII. En el caso de arrendamiento, la indicación de si éste es con o sin opción a compra; y
-
-VIII. La indicación de si la adjudicación será única o compartida, ya sea en forma total o parcial por cada partida.
-
-###### ARTICULO 62.
-
-Las bases que emita la Secretaría para las licitaciones públicas se pondrán a disposición de los interesados a partir de la fecha de publicación de la convocatoria y por lo menos dos días naturales previos al acto de inscripción y apertura de propuestas, y deberán contener lo siguiente:
-
-I. Nombre, denominación o razón social de la dependencia destinataria de los bienes o servicios;
-
-II. Poderes que deberán acreditarse;
-
-III. Fecha, hora y lugar de la junta de aclaraciones de las bases de la licitación;
-
-IV. Fecha, hora y lugar para la presentación y apertura de las propuestas, comunicación del fallo y firma del contrato;
-
-V. Señalamiento de que será causa de descalificación, el incumplimiento de algunos de los requisitos establecidos en las bases de la licitación;
-
-VI. El idioma o idiomas en que podrán presentarse las propuestas;
-
-VII. Las personas físicas o morales impedidas para participar;
-
-VIII. El costo de las Bases;
-
-IX. Los lugares en los que se llevarán a cabo todos los actos de la licitación;
-
-X. Pormenores de la junta de aclaraciones;
-
-XI. Forma de realizarse el concurso;
-
-XII. Derechos del Comité;
-
-XIII. Tipos de garantías y sus implicaciones;
-
-XIV. Tratándose de licitaciones de carácter internacional, se exigirá a los participantes extranjeros que cuenten con un establecimiento o centro de servicio en el país que respondan solidariamente con el contrato celebrado;
-
-XV.- La formalización del contrato y la indicación de que el licitante que no firme el contrato conforme a lo establecido, será sancionado en los términos del artículo 110 de ésta Ley;
-
-XVI. Cantidades adicionales;
-
-XVII. La indicación de que ninguna de las condiciones contenidas en las bases de la licitación, así como las propuestas presentadas por los proveedores podrán ser negociadas, después de haber sido aceptadas por el Comité;
-
-XVIII. Criterios y formas para la evaluación de las propuestas y la adjudicación del contrato;
-
-XIX. Descripción completa de los bienes o servicios; información específica sobre el mantenimiento, asistencia técnica y capacitación; relación de refacciones que deberán cotizarse cuando sean parte del contrato; especificaciones y normas que en su caso sean aplicables; dibujos; cantidades; muestras; pruebas que se realizarán y, de ser posible, método para ejecutarlas; período de garantía y, en su caso, otras opciones adicionales de cotización;
-
-XX. Plazo, lugar y condiciones de entrega;
-
-XXI. Requisitos que deberán cumplir quienes deseen participar;
-
-XXII. Condiciones de precio y pago de conformidad a las disposiciones de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado, así como la indicación de si se otorgará anticipo, en cuyo caso deberá señalarse el porcentaje respectivo, el que no podrá exceder del cincuenta por ciento del monto total del contrato;
-
-XXIII. La indicación de si la totalidad de los bienes o servicios objeto de la licitación serán adjudicados a un sólo proveedor, o si la adjudicación se hará por cada partida o concepto contratado con diversos proveedores;
-
-XXIV. En el caso de los contratos abiertos, la información que corresponda al Artículo 75 de la presente Ley;
-
-XXV. Señalamiento de que será causa de descalificación la comprobación de que algún proveedor haya acordado con otro u otros elevar los precios de los bienes y servicios;
-
-XXVI. Penas convencionales por atraso en las entregas;
-
-XXVII. Instrucciones para elaborar y entregar las propuestas y garantías;
-
-XXVIII. La indicación de la moneda en que deberá cotizar la propuesta económica y la forma de pago;
-
-XXIX.- Indemnizaciones por no sostenimiento de ofertas adjudicadas; y
-
-XXX.- Términos y condiciones a que deberá ajustarse la participación de los licitantes cuando las proposiciones sean enviadas a través del servicio postal o de mensajería, o por medios remotos de comunicación electrónica. El que los licitantes opten por utilizar alguno de estos medios para enviar sus proposiciones no limita, en ningún caso, que asistan a los diferentes actos derivados de una licitación o que utilicen alternativamente y a su elección los distintos métodos de participación disponibles.
-
-###### ARTICULO 63.
-
-En las licitaciones, los requisitos y condiciones que contengan las bases de la licitación deberán ser los mismos para todos los participantes.
-
-En el ejercicio de sus atribuciones, la Contraloría podrá intervenir en cualquier acto que contravenga las disposiciones que rigen las materias objeto de esta Ley. Si la Contraloría determina la cancelación del proceso de adjudicación, la dependencia o entidad reembolsará a los participantes los gastos no recuperables en que hayan incurrido, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con la operación correspondiente.
-
-###### ARTICULO 64.
-
-Todo interesado que satisfaga los requisitos de la convocatoria y las bases de la licitación, tendrá derecho a presentar sus propuestas.
-
-La Secretaría no podrán (sic) exigir requisitos adicionales a los previstos por la Ley y las bases del concurso, invitación restringida o licitación pública, debiendo proporcionar a todos los interesados igual acceso a la información relacionada con la licitación, a fin de evitar favorecer a algún participante.
-
-El plazo mínimo que se deberá observar entre la fecha de la publicación de la convocatoria y el día de la inscripción y apertura de propuestas será de seis días naturales de entre los cuales la venta de bases no podrá ser inferior a dos días hábiles.
-
-No podrán participar aquellos proveedores que hubiesen comprado bases en forma extemporánea.
-
-###### ARTICULO 65.
-
-La junta de aclaraciones sobre las bases respecto a los bienes requeridos, se llevará a cabo en el tiempo y forma señalados.
-
-###### ARTICULO 66.
-
-El Comité, siempre que ello no tenga por objeto limitar el número de participantes, podrá modificar los plazos u otros aspectos establecidos en la convocatoria o en las bases de la licitación, cuando menos con dos días naturales de anticipación a la fecha señalada en la convocatoria para la celebración del acto de inscripción y nunca posterior a la junta de aclaraciones, siempre que:
-
-I. Tratándose de la convocatoria, las modificaciones se hagan del conocimiento de todos aquellos que hubiesen comprado bases a través de los medios electrónicos de comunicación de la Secretaría; y
-
-II. No sea necesario hacer la notificación por escrito a que se refiere esta fracción cuando las modificaciones se deriven de las juntas de aclaraciones, siempre que, a más tardar en el plazo señalado en este artículo, se entregue copia del acta respectiva a través de los medios electrónicos de la Secretaría a cada uno de los participantes que hayan adquirido las bases de la licitación en un plazo máximo de ocho horas posteriores a la celebración de la Junta de Aclaraciones.
-
-Cualquier modificación derivada de la junta de aclaraciones, será considerada como parte integrante de las propias bases de licitación.
-
-Las modificaciones de que trata este artículo no podrán consistir en la sustitución o variación substancial de los bienes o servicios convocados originalmente, ni en la adición de otros distintos.
-
-Se considerará una variación substancial de los bienes cuando representen cambios mayores al treinta por ciento de la descripción original de los bienes en el mismo porcentaje de partidas; rebasando este límite, la convocante cancelará el procedimiento de adquisición correspondiente.
-
-###### ARTICULO 67.
-
-En las licitaciones públicas, la entrega de propuestas se hará por escrito, mediante dos sobres cerrados que contendrán por separado, la propuesta técnica y la propuesta económica, incluyendo en el primero la garantía de seriedad de las propuestas.
-
-El sobre a que hace referencia este artículo podrá entregarse, a elección del licitante, en el lugar de celebración del acto de presentación y apertura de proposiciones; o bien, si así lo establece la convocante en las bases, enviarlo a través del servicio postal o de mensajería, o por medios remotos de comunicación electrónica, conforme a las disposiciones que establezca la Secretaría en las bases.
-
-Las proposiciones presentadas deberán ser firmadas autógrafamente por los licitantes o sus apoderados; en el caso de que éstas sean enviadas a través de medios remotos de comunicación electrónica, se emplearán medios de identificación electrónica, los cuales producirán los mismo efectos que las leyes otorgan a los documentos correspondientes y en consecuencia, tendrán el mismo valor probatorio.
-
-La Secretaría se encargará de la certificación de los medios de identificación electrónica que utilicen los licitantes y será responsable de ejercer el control de estos medios, salvaguardando la confidencialidad de la información que se remita por esta vía.
-
-Diversas empresas podrán presentar conjuntamente proposiciones en las licitaciones sin necesidad de fusión de las mismas, siempre que, para tales efectos, en la propuesta y en el contrato se establezcan con precisión y a satisfacción de la dependencia o entidad, las partes a que cada empresa se obligará, así como la manera en que, en su caso, se exigirá el cumplimiento de las obligaciones. En este supuesto la propuesta deberá ser firmada por el representante común que para ese acto haya sido designado por el grupo de empresas.
-
-###### ARTICULO 68.
-
-Quienes participen en las licitaciones, concursos o celebren los contratos a que se refiere esta Ley, deberán garantizar:
-
-I. La seriedad de las propuestas;
-
-II. La totalidad de los anticipos que en su caso reciban; y
-
-III. El cumplimiento del contrato y la calidad de los bienes solicitados.
-
-Para cualquier procedimiento de adquisición, los porcentajes de las garantías, la forma de presentarlas, el tiempo para presentarlas y los casos en que se harán efectivas éstas, serán establecidas por la Secretaría en las bases del procedimiento de adquisición correspondiente.
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
-
-Las garantías referidas en las fracciones II y III de este artículo deberán constituirse en un plazo máximo de diez días naturales a partir de la fecha en que el licitante reciba copia del fallo de adjudicación y entrega del pedido correspondiente.
-
-La Secretaría conservará en custodia las garantías hasta la fecha del fallo, en que serán devueltas a los licitantes salvo la de aquél a quien se hubiere adjudicado el contrato, la que se retendrá hasta el momento en el que el proveedor constituya la garantía de cumplimiento del contrato correspondiente.
-
-No se entregará cantidad alguna por concepto de anticipo en tanto no se entregue a la Secretaría la referida fianza.
-
-La Secretaría determinará los casos de los proveedores que incurran en incumplimiento y por ende se hagan acreedores a la sanción correspondiente establecida en bases.
-
-La Secretaría de Finanzas será la responsable de la ejecución de sanciones económicas que se le (sic) impongan a los proveedores.
-
-###### ARTICULO 69.
-
-Las garantías que deban otorgarse conforme a esta Ley se constituirán a favor de los sujetos según la información contenida en su Registro Federal de Contribuyentes.
-
-###### ARTICULO 70.
-
-Los sujetos de la Ley se abstendrán de recibir propuestas o celebrar contrato alguno en las materias a que se refiere esta Ley, con las personas físicas o morales siguientes:
-
-I. Aquéllas en que el servidor público que intervenga en cualquier forma en la adjudicación del contrato tenga interés personal, familiar o de negocios, incluyendo aquéllas de las que pueda resultar algún beneficio para él, su cónyuge o sus parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte;
-
-II. Las que desempeñen un empleo, cargo o comisión en el servicio público, o bien, las sociedades de las que dichas personas formen parte, sin la autorización previa y específica de la Contraloría conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado, así como las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público;
-
-III. Aquellos proveedores que hubiesen incurrido en incumplimiento de contrato en más de una ocasión. Asimismo, no recibirá propuestas de aquellos proveedores que se encuentren en mora de entrega, parcial o total respecto a cualesquiera de las partidas adjudicadas de un pedido, cualquiera que hubiese sido el procedimiento de adquisición y la causa que dé origen a la mora;
-
-IV. Aquellas que hubieren proporcionado información que resulte falsa, o que hayan actuado con dolo o mala fe en algún proceso para la adjudicación de un contrato, en su celebración, durante su vigencia o bien en la presentación o desahogo de una inconformidad;
-
-V. Las que, en virtud de la información con la que cuente la Contraloría, hayan celebrado contratos en contravención a lo dispuesto por esta Ley;
-
-VI. Aquéllas a las que se declare en estado de quiebra o, en su caso, sujetas a concurso de acreedores;
-
-VII. Las que por sí o a través de empresas que formen parte del mismo grupo empresarial, elaboren dictámenes, peritajes y avalúos, cuando se requiera dirimir controversias entre tales personas y la dependencia o entidad correspondiente, y
-
-VIII. Las demás que por cualquier causa se encuentren impedidas para ello por disposición de la Ley.
-
-###### ARTICULO 71.
-
-El acto de inscripción y apertura de propuestas, en el que podrán participar los licitantes que hayan cubierto el costo de las bases de la licitación, se llevará a cabo en dos etapas; conforme a lo siguiente:
-
-A) Primera etapa:
-
-I. Los licitantes entregarán su propuesta técnica y económica dentro de sobres cerrados en forma inviolable; se procederá a la inscripción de los licitantes, la cual quedará asentada en actas. Posteriormente, se procederá a la apertura, análisis y evaluación de las propuestas técnicas exclusivamente. Por lo menos un licitante y dos servidores públicos de la entidad presentes, rubricarán los documentos que integren las propuestas técnicas presentadas.
-
-Se revisarán los documentos presentados por los concursantes y se desecharán las propuestas que hubieren omitido alguno de los requisitos exigidos, lo cual deberá quedar asentado en actas y suscrito por los licitantes, quienes recibirán copia, debiendo devolver el Comité las propuestas desechadas en un término no mayor de quince días a partir de esa misma fecha;
-
-II. Posteriormente, el Comité escudriñará el contenido de la propuesta técnica para estar en condiciones de emitir los fallos técnicos, según calendarización.
-
-En caso de que algún licitante sea descalificado, el acta correspondiente deberá contener la justificación en función de las bases de la licitación; y
-
-III. En caso de que la apertura de las propuestas económicas no se realice en la misma fecha, los sobres que las contengan serán firmados por los licitantes y los servidores públicos presentes, y quedarán en custodia del Comité, quien informará la fecha, lugar y hora en que se llevará a cabo la segunda etapa.
-
-B) Segunda etapa:
-
-I. Se procederá a la apertura de las propuestas económicas de los licitantes cuyas propuestas técnicas no hubieren sido desechadas en la etapa previa y se dará lectura en voz alta a la apertura de las propuestas económicas. En caso de que algún licitante no presente su propuesta económica según lo establecido en bases, será descalificado.
-
-Por lo menos la mitad de los proveedores participantes, el Secretario Técnico y algún otro representante del Comité, firmarán las propuestas económicas. El Comité señalará fecha, lugar y hora en que se dará a conocer el fallo de la licitación, el que deberá quedar comprendido dentro de los diez días naturales contados a partir del plazo establecido originalmente.
-
-El Comité levantará actas del acto de inscripción y apertura de propuestas, en la que se hará constar las propuestas aceptadas, sus importes, así como las que hubieren sido desechadas y las causas que lo motivaron; las actas serán firmadas por los integrantes del Comité y los participantes presentes;
-
-II. El Comité se reunirá para analizar y evaluar la información contenida en las propuestas, para finalmente seleccionar al proveedor que habrá de suministrar los bienes o servicios; y
-
-III. En junta pública se dará a conocer el fallo de la licitación, a la que libremente podrán asistir los licitantes que hubieren participado en las etapas de presentación y apertura de propuestas. En sustitución de esta junta, el Comité podrá optar por comunicar por escrito el fallo de la licitación, poniéndose a partir de esa fecha a disposición de los que no hayan asistido, para efectos de su notificación.
-
-###### ARTICULO 72.
-
-No serán objeto de evaluación, las condiciones establecidas por la convocante que tengan como propósito facilitar la presentación de las proposiciones y agilizar la conducción de los actos de la licitación; así como cualquier otro requisito cuyo incumplimiento, por sí mismo, no afecte la solvencia de las propuestas. La inobservancia por parte de los licitantes respecto a dichas condiciones o requisitos no será motivo para desechar sus propuestas.
-
-###### ARTICULO 73.
-
-El Comité levantará una acta-dictamen que servirá como fundamento para el fallo económico, en el que hará constar una reseña cronológica de los acontecimientos y análisis de las propuestas.
-
-El contrato se adjudicará a aquel licitante que obtenga fallo técnico positivo y presente la mejor oferta económica en función de los criterios de adjudicación establecidos en las bases del procedimiento de adquisición. El fallo del Comité será inapelable.
-
-En las adquisiciones de bienes y servicios, se preferirá como proveedor en igualdad de circunstancias a los organismos paraestatales de los tres niveles de gobierno y proveedores instalados en el Estado. Asimismo, se dará preferencia a la inclusión de insumos, materiales, equipos, sistemas y servicios que tengan incorporada tecnología nacional.
-
-En el caso de la posible adquisición de bienes y servicios a proveedores no radicados en el Estado, y que por la naturaleza de éstos represente la pérdida de ingresos económicos al mismo, el Comité deberá analizar y evaluar el costo beneficio implicado.
-
-###### ARTICULO 74.
-
-El Comité o la Secretaría procederán a declarar desierto un procedimiento de adquisición cuando entre otras situaciones previstas en las bases no se cuente con el mínimo de proveedores con derecho a participar durante el acto de apertura de la propuesta económica.
-
-Tratándose de licitaciones en las que una o varias partidas se declaren desiertas por no haberse recibido posturas satisfactorias, la dependencia o entidad podrá proceder, sólo por esa partida de acuerdo al procedimiento de compra directa.
-
-###### ARTICULO 75.
-
-Los sujetos de la Ley que requieran de un mismo bien o servicio de manera reiterada, podrán celebrar contratos abiertos conforme a lo siguiente:
-
-I. Se establecerá la cantidad mínima y máxima de bienes por adquirir o arrendar, o bien, el presupuesto mínimo y máximo que podrá ejercerse en la adquisición o el arrendamiento. En el caso de servicios, se establecerá el plazo mínimo y máximo para la prestación así como el presupuesto mínimo y máximo que podrá ejercerse;
-
-II. Se hará una descripción completa de los bienes o servicios relacionada con sus correspondientes precios unitarios;
-
-III. En la solicitud y entrega de los bienes se hará referencia al contrato celebrado;
-
-IV. Su vigencia no excederá del ejercicio fiscal correspondiente a aquel en que se suscriba, salvo que se apegue al Artículo 36 de esta Ley;
-
-V. Como máximo cada treinta días naturales se hará el pago de los bienes entregados o de los servicios prestados en tal periodo; y
-
-VI. En el caso de la prestación de los servicios adjudicados por periodo de un año a través de un concurso o licitación, que su naturaleza y la experiencia acumulada del proveedor sea conveniente renovar el contrato, la propuesta económica de renovación no podrá ser superior al índice inflacionario establecido por el Banco de México correspondiente al periodo de vigencia fenecido.
-
-###### ARTICULO 76.
-
-La Secretaría, previa justificación de la conveniencia de distribuir la adjudicación de los requerimientos de un mismo bien a dos o más proveedores, podrá hacerlo siempre que así se haya establecido en las bases de la licitación.
-
-En este caso, el porcentaje diferencial en precio que se considerará para determinar los proveedores susceptibles de adjudicación, no podrá ser superior al cinco por ciento respecto de la proposición solvente más baja.
-
-###### ARTICULO 77.
-
-Los contratos que deban formalizarse como resultado de su adjudicación, deberán suscribirse en un término no mayor de cinco días naturales contados a partir de la fecha en que se hubiere notificado al proveedor el fallo de adjudicación correspondiente.
-
-Es requisito indispensable, que previamente a la firma del contrato, el licitante adjudicado haya entregado a la Secretaría las garantías referidas en el Artículo 68 de la presente Ley.
-
-El proveedor a quien se hubiere adjudicado el contrato como resultado de una licitación, perderá en favor del erario público la garantía por concepto de seriedad de la propuesta que hubiere otorgado si, por causas imputables a él, la operación no se formaliza dentro del plazo a que se refiere este artículo, pudiendo el Comité adjudicar el contrato al participante que haya presentado la segunda proposición solvente más baja, de conformidad con lo asentado en el dictamen a que se refiere el Artículo 73 de esta ley, y así sucesivamente en caso de que este último no acepte la adjudicación, siempre que la diferencia en precio con respecto a la postura que inicialmente hubiere resultado ganadora, en todo caso, no sea superior al diez por ciento.
-
-###### ARTICULO 78.
-
-El proveedor a quien se hubiere adjudicado el contrato no estará obligado a suministrar los bienes o prestar el servicio, si el Comité, por causas no imputables al mismo proveedor, no suscribe el contrato dentro del plazo establecido en el artículo anterior, en cuyo caso sólo le serán reembolsados los gastos por concepto de compra de bases de la licitación de que se trate.
-
-Los proveedores no adjudicados inicialmente y que reciban una opción de adjudicación posterior según se establece en este artículo, no podrán ser sancionados si rehusan a la misma.
-
-El atraso de la Secretaría en la formalización de los contratos respectivos, prorrogará en igual plazo la fecha de cumplimiento de las obligaciones asumidas por ambas partes.
-
-###### ARTICULO 79.
-
-Los derechos y obligaciones que se deriven de los contratos de adquisiciones, arrendamientos o servicios no podrán cederse en forma parcial ni total en favor de cualquier otra persona física o moral, con excepción de los derechos de cobro, en cuyo caso se deberá contar con la autorización previa de la Secretaría.
-
-###### ARTICULO 80.
-
-En las adquisiciones, arrendamientos y servicios, deberá pactarse preferentemente la condición de precio fijo.
-
-Tratándose de bienes o servicios sujetos a precios oficiales, se reconocerán los incrementos autorizados, en caso de haberse pactado en el procedimiento de adquisición correspondiente.
-
-No obstante, en casos justificados se podrán pactar en el contrato decrementos o incrementos a los precios, de acuerdo con la fórmula o mecanismo de ajuste que determine la convocante previamente a la presentación de las propuestas.
-
-Cuando con posterioridad a la adjudicación de un contrato se presenten circunstancias económicas de tipo general, como resultado de situaciones supervenientes ajenas a la responsabilidad de las partes, que provoquen directamente un aumento o reducción en los precios de los bienes o servicios aún no entregados o prestados o aún no pagados, y que por tal razón no pudieron haber sido objeto de consideración en la propuesta que sirvió de base para la adjudicación del contrato correspondiente, los sujetos de la Ley deberán reconocer incrementos o requerir reducciones, conforme a los lineamientos que expida la Secretaría.
-
-###### ARTICULO 81.
-
-Los contratos de adquisiciones, arrendamientos y servicios contendrán, como mínimo lo siguiente:
-
-I. La autorización del presupuesto para cubrir el compromiso derivado del contrato;
-
-II. La indicación del procedimiento conforme al cual se llevó a cabo la adjudicación del contrato;
-
-III. El precio unitario y el importe total a pagar por los bienes o servicios;
-
-IV. La fecha, lugar y condiciones de entrega;
-
-V. Porcentaje, número y fecha de las exhibiciones y amortizaciones de los anticipos que se otorguen;
-
-VI. Forma y términos para garantizar los anticipos y el cumplimiento del contrato;
-
-VII. Plazo y condiciones de pago;
-
-VIII. Precisión de si el precio es fijo o sujeto a ajustes y, en su último caso, la fórmula o condición en que se harán y calculará el ajuste;
-
-IX. Penas convencionales por atraso en la entrega de los bienes o servicios;
-
-X. La descripción pormenorizada de los bienes o servicios objeto del contrato, incluyendo en su caso la marca y modelo de los bienes; y
-
-XI. Salvo que exista impedimento, la estipulación de que los derechos de autor u otros derechos exclusivos que se deriven de los servicios de consultorías, asesorías, estudios e investigaciones contratados, invariablemente se constituirán a favor de los sujetos de Ley según corresponda.
-
-###### ARTICULO 82.
-
-La convocante deberá pagar al proveedor el precio estipulado en el contrato, de acuerdo a los plazos establecidos en el mismo
-
-En caso de incumplimiento en los pagos a que se refiere el párrafo anterior y sin perjuicio de la responsabilidad del servidor público que corresponda, la convocante deberá pagar gastos financieros conforme a una tasa que será igual a la establecida por la Ley de Ingresos del Estado en los casos de prórroga para el pago de créditos fiscales. Dichos gastos se calcularán sobre las cantidades no pagadas y se computarán por días calendario desde que se venció el plazo pactado, hasta la fecha en que se pongan efectivamente las cantidades a disposición del proveedor.
-
-Los proveedores no podrán ser financiados por la Secretaría salvo de manera excepcional y en proyectos de infraestructura donde se obtenga la autorización previa y específica de la Secretaría y la Contraloría. Los anticipos no se consideran financiamiento y no podrán exceder del cincuenta por ciento del monto total del contrato.
-
-La entrega de anticipos no deberá de exceder de un plazo de diez días naturales posteriores al fallo económico.
-
-Tratándose de bienes cuyo proceso de fabricación sea superior a noventa días, la dependencia o entidad deberá otorgar por lo menos el treinta por ciento de anticipo, salvo la existencia de causas que impidan a la convocante hacerlo.
-
-###### ARTICULO 83.
-
-La Secretaría, previa justificación por escrito, podrá acordar el incremento en la cantidad de bienes solicitados mediante modificaciones a sus contratos vigentes dentro de los seis meses posteriores a su firma, siempre que el monto total de las modificaciones no rebase en conjunto, el cincuenta por ciento de los volúmenes establecidos originalmente en los mismos y el precio de los bienes sea igual al pactado originalmente.
-
-Tratándose de contratos en los que se incluyan bienes o servicios de diferentes características, el porcentaje se aplicará para cada partida o concepto de los bienes o servicios de que se trate.
-
-Cualquier modificación a los contratos deberá formalizarse por escrito por la Secretaría. Los instrumentos legales respectivos serán suscritos por los mismos servidores públicos que lo hayan hecho en el contrato o quienes los sustituyan.
-
-El Comité se abstendrá de hacer modificaciones no contempladas en las bases y que se refieran a precios, anticipos, pagos progresivos, especificaciones y, en general, cualquier cambio que implique otorgar condiciones más ventajosas a un proveedor comparadas con las establecidas originalmente.
-
-###### ARTICULO 84.
-
-Los sujetos de la Ley a través de la Secretaría podrán rescindir administrativamente los contratos en caso de incumplimiento de las obligaciones a cargo del proveedor, en cuyo caso el procedimiento deberá iniciarse dentro de los veinte días naturales siguientes a aquel en que se hubiere agotado el monto límite de aplicación de las penas convencionales. Si previamente a la determinación de dar por rescindido el contrato, se hiciere entrega de los bienes o se prestaren los servicios, el procedimiento iniciado quedará sin efecto.
-
-El procedimiento de rescisión se llevará a cabo conforme a lo siguiente:
-
-I. Se iniciará a partir de que al proveedor le sea comunicado por escrito el incumplimiento en que haya incurrido, para que en un término de diez días hábiles exponga lo que a su derecho convenga y aporte, en su caso, las pruebas que estime pertinentes.
-
-II. Transcurrido el término a que se refiere la fracción anterior, se resolverá considerando los argumentos y pruebas que hubiere hecho valer.
-
-La determinación de dar o no por rescindido el contrato deberá ser debidamente fundado y motivado, y se comunicará al proveedor.
-
-III. Se podrán dar por terminado anticipadamente los contratos, cuando concurran causas que afecten el interés general, o bien, cuando por causas justificadas se extinga la necesidad de los bienes o servicios originalmente contratados, y se demuestre que de continuar con el cumplimiento de las obligaciones pactadas, se ocasionaría algún daño o perjuicio al Gobierno del Estado. En estos supuestos, la dependencia o entidad reembolsará al proveedor los gastos no recuperables en que haya incurrido, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con el contrato correspondiente.
-
-###### ARTICULO 85.
-
-La Secretaría podrá pactar penas convencionales a cargo del proveedor por atraso en el cumplimiento de los contratos. En las operaciones en las que se pactare ajuste de precios, la penalización se calculará sobre el precio ajustado. Estas penas convencionales serán pecuniarias y se constituirán como créditos fiscales a favor del Gobierno del Estado.
-
-Tratándose de incumplimiento del proveedor por la no entrega de los bienes o de la prestación del servicio, éste deberá reintegrar los anticipos más los intereses correspondientes, conforme a una tasa que será igual a la establecida por la Ley de Ingresos del Estado en los casos de prórroga para el pago de créditos fiscales. Los cargos se calcularán sobre el monto de las cantidades entregadas, incluyendo el anticipo y se computarán por días calendario desde la fecha de su entrega hasta la fecha en que se pongan efectivamente las cantidades a disposición de la Secretaría.
-
-Los proveedores quedarán obligados ante los sujetos de la Ley a responder de los defectos y vicios ocultos de los bienes y de la calidad de los servicios, así como de cualquier otra responsabilidad en que hubieren incurrido, en los términos señalados en las bases, en el contrato respectivo y en el Código Civil del Estado.
-
-Los proveedores cubrirán las cuotas compensatorias a que, conforme a la Ley en la materia, pudiere estar sujeta la importación de bienes objeto de un contrato, y en estos casos no procederán incrementos a los precios pactados, ni cualquier otra modificación al contrato.
-
-###### ARTICULO 86.
-
-Los sujetos de la Ley estarán obligados a mantener los bienes adquiridos o arrendados en condiciones apropiadas de operación, mantenimiento y conservación, así como hacer que los mismos se destinen al cumplimiento de los programas y acciones previamente determinados.
-
-Para los efectos del párrafo anterior, la Secretaría, en los actos y contratos de adquisiciones, arrendamientos y servicios, deberá estipular las condiciones que garanticen su correcta operación y funcionamiento, el aseguramiento del bien o bienes de que se trate para garantizar su integridad hasta el momento de su entrega y, en caso de ser necesario, la capacitación del personal que operará los equipos.
-
-La adquisición de bienes que requiera invariablemente la utilización de equipo propiedad del proveedor, podrá realizarse siempre y cuando en las bases de la licitación, invitación o concurso se establezca que a quien se le adjudique el contrato deberá proporcionar el citado equipo sin costo alguno para la convocante.
-
-###### ARTICULO 87.
-
-Los contratos que celebre el Comité fuera del Estado, se regirán en lo conducente por esta Ley, sin perjuicio de lo dispuesto por la legislación del lugar donde se formalice el acto.
-
-###### ARTICULO 48.
-
-Para ser inscrito en el padrón, los interesados deberán satisfacer los siguientes requisitos:
-
-I. Presentar solicitud en el formato que apruebe la Secretaría;
-
-II. Las personas morales deberán acompañar copia certificada de su acta constitutiva, debidamente inscrita en el Registro Público de la Propiedad y de Comercio, así como acreditar la personalidad de su representante legal;
-
-III. Manifestar mediante la exhibición de los documentos públicos, que es productor, prestador de servicios o comerciante legalmente establecido;
-
-IV. Demostrar su solvencia económica y capacidad para la producción o suministro de mercancías, materias primas o bienes muebles y en su caso para el arrendamiento de éstos o la prestación de servicios; y
-
-V. Proporcionar la información complementaria que solicite la Secretaría, en términos de la normatividad vigente.
-
-###### ARTICULO 49.
-
-La Secretaría, dentro de un término que no excederá de diez días hábiles contados a partir de la fecha de recepción de la solicitud, resolverá sobre la inscripción o modificación en el padrón.
-
-En caso de negativa, ésta se comunicará por escrito fundando y motivando las razones de la misma.
-
-Si la solicitud fuese confusa o incompleta, la Secretaría requerirá al solicitante para que en un término de cinco días hábiles posteriores a su recepción, la aclare o complete, caso contrario se le tendrá por no presentada la solicitud.
-
-Si transcurrido el término que se señala en el párrafo primero de este artículo, la Secretaría no resuelve sobre la aceptación o negativa del registro, sin más trámite deberá otorgarse dicho registro o modificación.
-
-###### ARTICULO 50.
-
-El registro en el padrón de proveedores tendrá vigencia desde su fecha de expedición hasta que concluya el año fiscal en el que se efectúe; los proveedores que deseen continuar inscritos, deberán solicitar su refrendo durante el mes de enero y febrero de cada año, debiendo actualizar la información de su registro.
-
-La falta de presentación de solicitud para obtener el refrendo o la negativa de éste, traerá como consecuencia la cancelación del registro a su vencimiento, sin necesidad de resolución expresa en tal sentido y sin perjuicio del derecho del interesado de formular nueva solicitud para obtenerlo.
-
-El registro y el refrendo del mismo, se solicitarán en los formatos que expida la Secretaría de Finanzas y causará los derechos que establezca la ley de ingresos.
-
-###### ARTICULO 51.
-
-Procederá la suspensión del registro hasta por el término de veinticuatro meses por parte de la Secretaría, cuando el proveedor:
-
-I. Se niegue a dar las facilidades necesarias para que la Secretaría ejerza sus facultades de comprobación, inspección y vigilancia;
-
-II. No entregue los bienes materia del pedido o contrato en las condiciones pactadas; o
-
-III. No sostenga su propuesta económica en determinada partida de un concurso, invitación restringida o licitación, a menos que indemnice al Estado o Secretaría según lo establecido en bases.
-
-###### ARTICULO 52.
-
-La Secretaría podrá cancelar el registro de un proveedor o negar el refrendo del mismo cuando:
-
-I.- Se compruebe que hubiere actuado con dolo o mala fe y la información proporcionada sea incompleta o inconsistente;
-
-II.- Se niegue a reponer las mercancías que no reúnan los requisitos de calidad estipulada;
-
-III.- Incumpla un pedido o contrato de adquisición, arrendamiento o prestación de servicios; o
-
-IV.- Reincida en la comisión de los actos a que se refiere el artículo anterior.
-
-###### ARTICULO 53.
-
-Las adquisiciones, arrendamientos y prestación de servicios se podrán contratar mediante los procedimientos que a continuación se señalan:
-
-I. Por licitación pública;
-
-II. Por invitación restringida;
-
-III. Por concurso; y
-
-IV. Por compra directa.
-
-#### SECCION PRIMERA. Generalidades
-
-###### ARTICULO 88.
-
-Los bienes muebles propiedad de los sujetos de la Ley que les resulten inútiles u obsoletos, deberán ser dados de baja a través de su órgano de control según corresponda y podrán ser enajenados con autorización de la Secretaría.
-
-###### ARTICULO 89.
-
-Los bienes muebles por regla general, se enajenarán a través de licitaciones o subastas públicas en los términos de las bases y convocatoria.
-
-###### ARTICULO 90.
-
-Los sujetos de la ley supervisarán la exacta aplicación de estas disposiciones por conducto de la Contraloría, por lo que respecta a las enajenaciones de bienes muebles de la Administración Pública Estatal y supervisará las de su sector paraestatal.
-
-Los Ayuntamientos de los Municipios del Estado, las aplicarán por conducto de su órgano de control interno correspondiente, por lo que respecta a sus enajenaciones de bienes muebles y las de su sector paramunicipal.
-
-#### SECCION SEGUNDA. Procedimiento Para la Enajenación de Muebles
-
-###### ARTICULO 91.
-
-Corresponde a la Contraloría la facultad de determinar el destino final de los bienes muebles puestos a disposición por los sujetos de la Ley que no sean ya adecuados para el servicio o resulte incosteable seguirlos utilizando en el mismo.
-
-###### ARTICULO 92.
-
-En los casos que de acuerdo al dictamen respectivo no sea recomendable la rehabilitación de un bien mueble y sea más costeable su enajenación en el estado en que se encuentra, se determinará como destino su venta a través de licitación o subasta pública, a excepción de los siguientes supuestos:
-
-I. Cuando ocurran condiciones o circunstancias extraordinarias, imprevisibles o situaciones de emergencia;
-
-II. Cuando no existan por lo menos tres postores idóneos o capacitados legalmente para presentar ofertas;
-
-III. Cuando sea más costosa la realización del procedimiento de enajenación que el monto de los bienes muebles; y
-
-IV. Cuando se hubiere rescindido el contrato respectivo. En estos casos el Comité conforme al criterio de adjudicación y si existiere otra proposición que resulte aceptable, el contrato se celebrará con el postor respectivo.
-
-###### ARTICULO 93.
-
-Las enajenaciones de bienes muebles, por regla general, deberán ser subastadas en apego al Manual de Políticas y Lineamientos de Enajenación establecidos.
-
-Para los bienes con valor superior a las mil quinientas veces el salario mínimo general vigente en el Estado, se deberá publicar la convocatoria en un diario de circulación Estatal.
-
-La convocatoria deberá contener la siguiente información:
-
-I. Dependencia convocante;
-
-II. Descripción general de las cinco partidas más representativas a subastar;
-
-III. Calendarización de la subasta pública;
-
-IV. Postura legal en función de la forma de adjudicación;
-
-V. Forma de adjudicación;
-
-VI. Forma de pago;
-
-VII. Tiempo de entrega; y
-
-VIII. Fecha, lugar y horas para disposición y venta de bases.
-
-En caso de que ningún interesado compre bases para la subasta, o ningún subastante obtenga el derecho a participar en ofrecimiento económico según se establezca en las bases, la Secretaría podrá adjudicar directamente los bienes, siempre y cuando el interesado pague por éstos un mínimo del veinte por ciento adicional sobre el valor de postura legal.
-
-Las enajenaciones de bienes con valor inferior a las mil quinientas veces el salario mínimo general vigente en el Estado, podrá llevarse a cabo por concurso con un mínimo de petición de dos subastantes.
-
-La enajenación de bienes sólo podrá ser solventada en su totalidad en efectivo o cheque certificado en un plazo no mayor a siete días naturales posteriores al fallo de adjudicación.
-
-La entrega de los bienes no podrá ser mayor a tres días hábiles y estará condicionada al pago total de los mismos.
-
-###### ARTICULO 94.
-
-El monto de la enajenación no podrá ser inferior a las dos terceras partes del valor de avalúo de los bienes muebles que para cualquier procedimiento, determinará la Contraloría, el cual se basará en el estudio de los precios de mercado o avalúo bancario cuando se justifique.
-
-###### ARTICULO 95.
-
-Los recursos que se generen por la enajenación de bienes muebles, no incrementarán la disponibilidad presupuestal de las dependencias o entidades que los tenían asignados.
-
-Los recursos que provengan de la enajenación deberán enterarse al erario de los sujetos de la Ley a través de su Secretaría de Finanzas o equivalente, según sea el caso.
-
-###### ARTICULO 96.
-
-Efectuada la enajenación, la Contraloría, procederá a la cancelación de registros e inventarios del bien mueble de que se trate.
-
-###### ARTICULO 97.
-
-Las enajenaciones de bienes muebles a que se refiere este capítulo, no podrán realizarse en favor de los servidores públicos, ni de sus cónyuges o parientes consanguíneos y por afinidad hasta el cuarto grado o civiles, o de terceros con los que dichos servidores tengan vínculos privados o de negocios. Las enajenaciones que se realicen en contravención a ello serán causa de responsabilidad y nulas de pleno derecho.
-
-###### ARTICULO 98.
-
-La Contraloría, podrá autorizar la destrucción o disposición final de los bienes cuando:
-
-I. Por su naturaleza o estado físico en que se encuentren, peligre o se altere la salubridad, la seguridad o el ambiente;
-
-II. Agotadas las instancias de enajenación previstas en esta Ley, no existiere persona interesada en adquirirlos o institución de asistencia social pública o privada que acepte su donación; o
-
-III. Se trate de bienes respecto de los cuales exista disposición legal que ordene su destrucción o confinamiento.
-
-Para autorizar la destrucción de bienes propiedad del Gobierno del Estado o de los órganos de la administración pública estatal así como los de los Municipios, deberá existir dictamen fundado y motivado que lo justifique; y levantarse acta debidamente circunstanciada de su ejecución.
-
-## TITULO TERCERO. DEL CONTROL Y CUIDADO DE LOS BIENES
-
-### CAPITULO I. Del Cuidado de los Bienes
-
-###### ARTICULO 99.
-
-Todas las adquisiciones de bienes muebles deberán concentrarse en los lugares autorizados por la Secretaría, las dependencias y entidades, según corresponda, una vez que se les han entregados (sic), para su control.
-
-###### ARTICULO 100.
-
-La Secretaría en coordinación con la Contraloría establecerá los lineamientos para la administración de los bienes muebles con excepción de las facultades de determinación del destino final de los bienes muebles en desuso en cuyo caso corresponderá al órgano de control competente.
-
-###### ARTICULO 101.
-
-Los bienes que se adquieran, quedarán bajo el control de los sujetos a la Ley a partir del momento en que se reciban.
-
-Cuando los bienes muebles adquiridos por los sujetos de la Ley queden bajo su control, éstos tendrán las siguientes obligaciones:
-
-I. Recibir los bienes conforme a las especificaciones establecidas en los contratos;
-
-II. Registrar la entrada y salida de los bienes conforme a los lineamientos establecidos por la Contraloría; y
-
-III. Custodiar, conservar y evitar el deterioro de los bienes.
-
-### CAPITULO II. Del Inventario y Registro de los Bienes
-
-###### ARTICULO 102.
-
-Los sujetos de la Ley deberán mantener actualizados los inventarios de bienes muebles de su propiedad con el fin de evitar inversiones ociosas y la obsolescencia de los artículos.
-
-###### ARTICULO 103.
-
-La Contraloría formulará las normas a que se sujetará la clasificación y actualización de los inventarios de bienes muebles propiedad de los sujetos de la Ley.
-
-###### ARTICULO 104.
-
-Corresponde a la Contraloría formular las normas relativas al registro, bajas, destino final y desincorporación de los bienes muebles que figuren en los respectivos inventarios de las secretarías, dependencias y entidades, que por su uso, aprovechamiento, estado físico o cualidades técnicas no sean ya adecuados, útiles o funcionales para el servicio, resulte inconveniente seguirlos utilizando, o bien cuando se hubieren extraviado, accidentado o destruido.
-
-###### ARTICULO 105.
-
-El destino final de los bienes muebles será, según las circunstancias que concurran en cada caso, la enajenación, donación, transferencia, permuta o destrucción.
-
-###### ARTICULO 106.
-
-Los sujetos de la Ley conservarán en forma ordenada y sistemática toda la documentación comprobatoria de todos los actos y contratos celebrados conforme a esta Ley, cuando menos por un lapso de siete años, contados a partir de la fecha de su recepción.
-
-## TITULO CUARTO. DE LA VIGILANCIA Y SANCIONES
-
-### CAPITULO UNICO
-
-###### ARTICULO 107.
-
-La Contraloría, en el ejercicio de sus facultades, podrá verificar en cualquier momento, que los procedimientos de adquisición y enajenación se realicen conforme a lo establecido en esta Ley o en otras disposiciones aplicables y a los programas y presupuestos autorizados.
-
-La Contraloría, en el ejercicio de sus facultades, podrá realizar las visitas e inspecciones que estime pertinentes a la Secretaría, a las dependencias y a las entidades, e igualmente podrá previa fundamentación y motivación solicitar de los servidores públicos y de los proveedores que participen en las adquisiciones y enajenaciones, todos los datos e informes relacionados con los actos de que se trate.
-
-###### ARTICULO 108.
-
-Las inspecciones se practicarán en días y horas hábiles por personal autorizado por la Contraloría mediante el oficio de comisión fundado y motivado que señalará el periodo, el objeto de la comisión y las personas que la practicarán, mismas que se identificarán al momento de la diligencia.
-
-El resultado de la inspección se hará constar en acta que será firmada por la persona que la practicó, aquélla con quien se atendió la diligencia y dos testigos propuestos por ésta o en caso de no hacerlo, por los que designe quien la realizó.
-
-Del acta se dejará copia a la persona con quien se entendió la diligencia aún cuando se hubiese negado a firmarla, lo que no afectará su validez.
-
-###### ARTICULO 109.
-
-En relación a la comprobación de la calidad de las especificaciones de las mercancías, materias primas o bienes muebles, en caso de requerirse, se efectuará en los lugares o laboratorios que determine la Contraloría y que podrán ser aquellos con los que cuente la dependencia o entidad adquiriente o cualquier tercero con la capacidad necesaria para practicar la comprobación a que se refiere este artículo.
-
-Dicha comprobación podrá hacerse a petición de la parte interesada o de oficio por la Contraloría para lo cual recabará muestras de los bienes suministrados por el proveedor.
-
-El resultado de las comprobaciones se hará constar en un dictamen que desarrollará la Contraloría el cual será firmado por quien haya hecho la comprobación.
-
-###### ARTICULO 110.
-
-Quienes infrinjan las disposiciones contenidas en esta Ley, serán sancionados por la Contraloría, con multa equivalente a la cantidad de cincuenta a trescientas veces el salario mínimo general vigente en el Estado elevado al mes, en la fecha de infracción, independientemente a las indemnizaciones a las que pudiera hacerse acreedor con motivo de la aplicación del contrato y lo establecido en los Códigos Civil y Penal del Estado.
-
-###### ARTICULO 111.
-
-Los proveedores que se encuentren en cualquiera de los supuestos de las Fracciones IV y V del Artículo 70 de esta Ley, no podrán presentar propuestas ni celebrar contratos durante el plazo que establezca la Contraloría, el cual no será mayor de dos años contados a partir de la fecha del incumplimiento o la falta incurrida.
-
-Los incumplimientos de contratos serán acumulativos a través del tiempo, independientemente de la determinación de la Contraloría, la Secretaría podrá decidir la suspensión o cancelación del registro del Padrón de Proveedores del Estado.
-
-El Comité informará y, en su caso, remitirá la documentación comprobatoria a la Contraloría, sobre el nombre del proveedor o contratista que se encuentre en el supuesto previsto en la Fracción III del Articulo 70 de este ordenamiento jurídico, a más tardar dentro de los treinta días naturales siguientes a la fecha en que le notifiquen al proveedor el incumplimiento en el que hubiese incurrido.
-
-###### ARTICULO 112.
-
-La Contraloría impondrá las sanciones o multas conforme a los siguientes criterios:
-
-I. Se tomará en cuenta la importancia de la infracción, las condiciones del infractor y la conveniencia de eliminar prácticas tendientes a infringir, en cualquier forma, las disposiciones de esta Ley o las que se dicten con base en ella;
-
-II. El dolo o mala fe de la acción u omisión constitutiva de la infracción;
-
-III. Cuando sean varios los responsables, cada uno será sancionado con el total de la sanción o multa que se imponga; y
-
-IV. Tratándose de reincidencia, se impondrá otra sanción o multa mayor dentro de los límites señalados en el Artículo 110 de esta Ley.
-
-###### ARTICULO 113.
-
-En el procedimiento para la aplicación de las sanciones o multas a que se refiere este Capítulo, se observarán las siguientes reglas:
-
-I. Se comunicarán por escrito al presunto infractor los hechos constitutivos de la infracción, para que dentro del término que para tal efecto se señale y que no podrá ser mayor de diez días hábiles exponga lo que a su derecho convenga y aporte las pruebas que estime pertinentes;
-
-II. Transcurrido el término a que se refiere la fracción anterior, se resolverá considerando los argumentos y pruebas que se hubieren hecho valer, y
-
-III. La resolución será debidamente fundada y motivada debiendo comunicarse por escrito al afectado.
-
-###### ARTICULO 114.
-
-Los servidores públicos adscritos a los sujetos de la Ley, que en el ejercicio de sus funciones tengan conocimiento de infracciones a esta Ley o a las disposiciones que de ella deriven, deberán comunicarlo a las autoridades que resulten competentes conforme a la Ley.
-
-La omisión a lo dispuesto en el párrafo anterior será sancionado (sic) administrativamente.
-
-###### ARTICULO 115.
-
-Las responsabilidades a que se refiere la presente Ley son independientes de las de orden civil o penal, que puedan derivar de la comisión de los mismos hechos.
-
-###### ARTICULO 116.
-
-Los sujetos de la Ley y proveedores, tendrán la obligación de proporcionar a la Contraloría los informes, datos y documentos que les requiera, dentro de un plazo de tres días hábiles contados a partir del día siguiente a la notificación; la Contraloría podrá ampliar el plazo referido, a petición de la dependencia, para cumplir el requerimiento cuando se justifique.
-
-###### ARTICULO 117.
-
-En las adquisiciones de bienes y servicios, la Contraloría, además de las sanciones referidas en éste artículo, inhabilitará a los proveedores a participar en todos los tipos de procedimiento, con cualquier sujeto de la Ley cuando se encuentren en alguno de los supuestos siguientes:
-
-I. Los licitantes que injustificadamente y por causas imputables a ellos mismos no formalicen el contrato adjudicado por la convocante en los tiempos establecidos;
-
-II. Los proveedores que se encuentren en estado de incumplimiento por más de una ocasión con cualesquiera de los sujetos de esta Ley;
-
-III. Los proveedores que no cumplan con sus obligaciones contractuales por causas imputables a ellos, y que, como consecuencia, causen daños o perjuicios graves a la dependencia o entidad de que se trate; así como, aquellos que entreguen bienes con especificaciones distintas de las convenidas;
-
-IV. Cuando una inconformidad se resuelva como no favorable al promovente por resultar improcedente y se advierta que se hizo con el único propósito de retrasar y entorpecer la continuación del procedimiento de contratación, se impondrá al promovente, a sus representantes, al abogado, o a quien corresponda, según sea el caso, una multa de doscientos a quinientos días de salario diario mínimo general vigente en el Estado; y
-
-V. Cuando un proveedor reciba de la Contraloría dos fallos desfavorables del acto impugnado, denuncia o inconformidad.
-
-La inhabilitación que se imponga a determinado proveedor no podrá ser menor a seis meses ni mayor a treinta y seis meses, independientemente de las sanciones a las que se pudiere hacer acreedor, plazo que comenzará a contarse a partir del día siguiente a la fecha en que la Contraloría la haga del conocimiento de las dependencias y entidades, mediante la publicación de la circular respectiva en el Periódico Oficial del Gobierno del Estado.
-
-## TITULO QUINTO. DE LAS DENUNCIAS ANTE LA CONTRALORIA Y DEL RECURSO DE REVOCACION
-
-### CAPITULO I. De las Denuncias
-
-###### ARTICULO 118.
-
-Las personas interesadas podrán denunciar por escrito ante la Contraloría los actos que contravengan las disposiciones que rigen las materias objeto de esta Ley, a fin de que se determine la posible responsabilidad de algún o algunos servidores públicos.
-
-En el caso de adquisiciones de bienes y servicios, independientemente del monto de adquisición, la inconformidad de un proveedor deberá ser presentada por éste ante la Contraloría, por escrito, dentro de los tres días hábiles siguientes a aquel en que ocurra el acto o se realice el fallo económico. La falta de acreditamiento de la personalidad del promovente será causa de desechamiento.
-
-Transcurrido el plazo establecido en este artículo, precluye para los interesados el derecho de inconformarse, sin perjuicio de que la Contraloría pueda actuar en cualquier tiempo en términos de ley.
-
-En la inconformidad que se presente en los términos a que se refiere este capítulo, el promovente deberá manifestar, bajo protesta de decir verdad, que los hechos que le consten relativos al acto o actos que aduce son irregulares y deberá acompañar la documentación que sustente su petición. La falta de protesta y documentación indicada será causa de desechamiento de la inconformidad.
-
-La manifestación de hechos falsos se sancionará conforme a las disposiciones de esta Ley y las demás que resulten aplicables.
-
-###### ARTICULO 119.
-
-La Contraloría podrá de oficio o en atención a las inconformidades a que se refiere el artículo anterior, realizar las investigaciones que resulten pertinentes, a fin de verificar que los actos de cualquier procedimiento de contratación se ajusten a las disposiciones de esta Ley.
-
-En el caso particular de las adquisiciones, el plazo máximo de estudio desde la fecha en que se presente una inconformidad hasta que ésta sea dictaminada por la Contraloría, no podrá ser superior a dieciocho días hábiles sin considerar la posible etapa de la aclaración, conforme al siguiente proceso cronológico; tres días para la presentación de la inconformidad por parte del interesado, tres días para que la Contraloría solicite a la Secretaría la aportación de la documentación respectiva, tres días para que la Secretaría proporcione a la Contraloría la documentación necesaria para la investigación, tres días para que la Contraloría analice y dictamine el caso, dos días para que la Secretaría manifieste lo que a su interés convenga, un día para que la Contraloría modifique o ratifique su dictamen y tres días para que el proveedor decida si hace efectivo o no el recurso de revocación. En caso de no ejercitar las acciones o excepciones en los términos y plazos señalados, las mismas precluirán.
-
-Durante la investigación de los hechos a que se refiere este artículo, la Contraloría podrá suspender el procedimiento de contratación, cuando:
-
-I. Se advierta que existan o pudieren existir actos contrarios a las disposiciones de esta Ley o a las que de ella deriven, o bien, que de continuarse con el procedimiento de contratación pudiera producirse daños o perjuicios a la dependencia o entidad de que se trate;
-
-II. Con la suspensión no se cause perjuicio al interés social y no se contravengan las disposiciones de orden público. La dependencia o entidad deberá informar dentro de los tres días hábiles siguientes a la notificación de la suspensión, aportando la justificación del caso, si con la misma no se causa perjuicio al interés social o bien, se contravienen disposiciones de orden público, para que la Contraloría resuelva lo que proceda; y
-
-III. Cuando sea el inconforme quien solicite la suspensión, éste deberá garantizar los daños y perjuicios que pudiera ocasionar, mediante fianza por el monto que fije la Contraloría, el cual nunca será inferior al equivalente al veinte por ciento ni superior al cincuenta por ciento del valor del objeto del acto impugnado, de conformidad con los lineamientos que al efecto expida; sin embargo, el tercero perjudicado podrá dar contrafianza equivalente a la que corresponda a la fianza, en cuyo caso quedará sin efecto la suspensión.
-
-Si algún proveedor participante en alguna licitación pública, concurso o invitación restringida presenta ante la Contraloría un recurso de inconformidad, éste no podrá participar en ningún evento estatal con carácter de adquisiciones en tanto su caso no haya sido dictaminado por la Contraloría.
-
-###### ARTICULO 120.
-
-La resolución que emita la Contraloría, sin perjuicio de la responsabilidad que proceda respecto de los servidores públicos que hayan intervenido, tendrá, por consecuencia:
-
-(sic) La nulidad del procedimiento a partir del acto o actos irregulares, estableciendo las directrices necesarias para que el mismo se realice conforme a la Ley;
-
-II. La nulidad total del procedimiento; o
-
-III. La declaración de improcedencia de la inconformidad.
-
-### CAPITULO II. Del Recurso de Revisión
-
-###### ARTICULO 121.
-
-En contra de las resoluciones que dicten la Secretaría, la Contraloría y los Comités, se podrá interponer recurso de revisión en los términos y con los requisitos que establece la Ley de Procedimiento Administrativo del Estado de Aguascalientes, mismo que se tramitará y resolverá por la propia autoridad de la que se reclame el acto, conforme a lo dispuesto en la citada Ley.
-
-###### ARTICULO 122.
-
-Los proveedores podrán presentar quejas ante la Contraloría, con motivo del incumplimiento de los términos y condiciones pactados en los contratos que tengan celebrados con los sujetos de la Ley.
-
-Una vez recibida la queja respectiva, la Contraloría señalará día y hora para que tenga verificativo la audiencia de conciliación y citará a las partes. Dicha audiencia se deberá celebrar dentro de los diez días hábiles siguientes a la fecha de recepción de la queja.
-
-La asistencia a la audiencia de conciliación será obligatoria para ambas partes, por lo que la inasistencia por parte del proveedor traerá como consecuencia el tenerlo por desistido de la acción intentada en su queja.
-
-###### ARTICULO 123.
-
-En la audiencia de conciliación, la Contraloría tomando en cuenta los hechos manifestados en la queja y los argumentos que hiciere valer los sujetos de la Ley, determinará los elementos comunes y los puntos de controversia y exhortará a las partes para conciliar sus intereses, conforme a las disposiciones de esta Ley, sin prejuzgar sobre el conflicto planteado.
-
-En caso de que sea necesario, la audiencia se podrá realizar en varias sesiones.
-
-Para ello, la Contraloría señalará los días y horas para que tengan verificativo. En todo caso, el procedimiento de conciliación deberá agotarse en un plazo no mayor de treinta días hábiles contados a partir de la fecha en que se haya celebrado la primera sesión.
-
-De toda diligencia deberá levantarse acta circunstanciada, en la que consten los resultados de las actuaciones.
-
-###### ARTICULO 124.
-
-En el supuesto de que las partes lleguen a una conciliación, el convenio respectivo obligará a las mismas, y su cumplimiento podrá ser demandado por la vía judicial correspondiente.
-
-ARTICULOS TRANSITORIOS:
-
-PRIMERO.- La presente Ley entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO.- Se abroga la Ley que Regula la Adquisición de Bienes y Servicios publicada en el Periódico Oficial del Gobierno del Estado el día 21 de Febrero de 1988 y se derogan todas las disposiciones que se opongan a la presente Ley.
-
-TERCERO.- Las disposiciones de esta Ley, sólo serán aplicables en los Municipios que en sus Bandos o Reglamentos respectivos no prevean las materias objeto de la presente Ley.
-
-CUARTO.- Los asuntos y contratos que se encuentren pendientes de resolución, se tramitarán hasta su total conclusión de conformidad con los ordenamientos jurídicos vigentes al momento de su realización.
-
-QUINTO.- Los proveedores actualmente inscritos por la Secretaría en el Padrón de Proveedores de la administración pública estatal, se considerarán registrados para el año 2000.
-
-SEXTO.- Las entidades paraestatales y paramunicipales que tengan a su disposición bienes estatales o municipales cuyo uso o aprovechamiento no se tenga previsto para el cumplimiento de las funciones o la realización de programas autorizados, deberán hacerlo del conocimiento de la Contraloría u órgano de control correspondiente, a fin de que se comunique a las dependencias y entidades la disponibilidad de los mismos, para su utilización en otros servicios públicos o para otros programas de beneficio e interés social.
-
-SÉPTIMO.- Dentro de los veinte días siguientes al de la publicación de esta Ley, deberán instalarse los Comités de Adquisiciones y Enajenaciones de los sujetos de la Ley.
-
-OCTAVO.- Dentro de los sesenta días siguientes a los de la publicación de esta Ley deberán emitirse los Manuales y Reglamentos a los que hace referencia, debiéndose publicar en el Periódico Oficial del Estado.
-
-Al Ejecutivo para su sanción.
-
-Dado en el salón de sesiones del H. Congreso del Estado, a los trece días del mes de julio del año dos mil.- D.P., Alberto Olguín Erickson.- D.S., Salvador Delgado Esquivel.- D.S., Jesús Adrián Castillo Serna.- Rúbricas".
-
-Y tenemos el honor de comunicarlo a usted para su conocimiento y efectos legales consiguientes, reiterándole las seguridades de nuestra consideración distinguida.
-
-SUFRAGIO EFECTIVO. NO REELECCION.
-
-DIPUTADO PRESIDENTE,
-
-Alberto Olguín Erickson.
-
-DIPUTADO SECRETARIO,
-
-Salvador Delgado Esquivel.
-
-DIPUTADO SECRETARIO,
-
-Jesús Adrián Castillo Serna.
-
-Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
-
-Aguascalientes, Ags., 22 de septiembre de 2000.
-
-Felipe González González.
-
-EL SECRETARIO GENERAL DE GOBIERNO,
-
-Lic. Abelardo Reyes Sahagún.
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
-
-P.O. 26 DE NOVIEMBRE DE 2001.
-
-UNICO.- El presente decreto entrará en vigor a partir del 1o. de enero del año 2002.
-
-P.O. 8 DE AGOSTO DE 2005.
-
-###### ARTICULO PRIMERO.
-
-El presente Decreto entrará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-Los asuntos y contratos que se encuentren pendientes de resolución, se tramitarán hasta su total conclusión de conformidad con las disposiciones jurídicas vigentes al momento de su realización.
-
-###### ARTICULO 54.
-
-Las adquisiciones, arrendamientos y prestación de servicios de bienes muebles con valor superior a los quince mil veces el salario mínimo general vigente en el Estado se adjudicarán por regla general a través de licitaciones, mediante convocatoria pública, para que libremente se presenten propuestas solventes a fin de asegurar al Estado y a los Municipios las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, de acuerdo a lo que establece la presente Ley.
-
-A todos los montos de adquisición establecidos para los distintos tipos de procedimientos, se les deberá agregar el Impuesto al Valor Agregado que corresponda.
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2004)</small>
 
 ###### Artículo 54 Bis.
 
@@ -1751,47 +1501,47 @@ Los Fideicomisos públicos se ajustarán, en cuanto a su organización, funciona
 
 El cargo de miembro del Comité Técnico será estrictamente personal y sólo podrá desempeñarse por medio de representantes, de conformidad con las disposiciones reglamentarias aplicables a la dependencia o entidad que representen.
 
-###### ARTICULO 55.
+###### Artículo 55.
 
-Una vez iniciado un procedimiento de adquisición a través de licitación pública, éste no podrá ser suspendido, a menos de que existan circunstancias que provoquen la extinción de la necesidad para adquirir, arrendar los bienes o contratar la prestación de los servicios, y que de continuarse con el procedimiento de contratación se pudiera ocasionar un daño o perjuicio a los propios sujetos de la Ley.
+El Ejecutivo del Estado a través de la Secretaría de Finanzas y Planeación, quien será el fideicomitente único del Gobierno del Estado, cuidará que los contratos mediante los cuales se constituyan los fideicomisos públicos contengan:
 
-La Contraloría es la única dependencia facultada para determinar la procedencia o improcedencia de la cancelación de alguno de los procedimientos a los que se refiere el Artículo 53 de esta Ley.
+I. Disposiciones que precisen los derechos y acciones que corresponda ejercer al fiduciario sobre los bienes fideicometidos;
 
-En la aplicación de este precepto, cada operación deberá considerarse individualmente, a fin de determinar si queda comprendida dentro de los montos máximos.
+II. Las instituciones que establezca o que se deriven de derechos de fideicomisarios;
 
-###### ARTICULO 56.
+III. Los derechos que el fideicomitente se reserve y las atribuciones que fije en su caso al Comité Técnico, el cual deberá existir obligadamente en los fideicomisos a que se refiere el artículo anterior;
 
-Se podrá optar por la no realización de licitación pública en la adjudicación de pedidos o contratos y seguir el procedimiento de invitación restringida cuando se presenten algunos de los siguientes supuestos:
+IV. La facultad expresa del Gobierno del Estado de revocarlos, en su caso, sin perjuicio de los derechos que correspondan a los fideicomisarios, salvo que se trate de fideicomisos constituidos por mandato de la ley o que la naturaleza de sus fines no lo permita;
 
-I. Existan razones técnicas, científicas o legales justificadas para la adquisición y arrendamiento de bienes de marca determinada;
+V. Las facultades especiales que en su caso se otorguen al Comité Técnico, indicando cuales asuntos requieren de la aprobación del mismo para el ejercicio de acciones y derechos que correspondan al fiduciario, entendiéndose que las facultades del citado cuerpo colegiado constituyen limitaciones para la institución fiduciaria;
 
-II. Se trate de adquisiciones de bienes perecederos, granos y productos alimenticios básicos o semiprocesados y, bienes usados. Tratándose de éstos últimos, el precio de adquisición no podrá ser mayor al que se determine mediante avalúo que practiquen las instituciones de banca y crédito u otros terceros legitimados para ello conforme a las disposiciones aplicables; y
+VI. Disposiciones para la realización de actos urgentes, cuya omisión pueda causar notoriamente perjuicio al fideicomiso, si no es posible reunir al Comité Técnico, previa consulta y autorización de la dependencia coordinadora de sector;
 
-III. Se realice una licitación pública sin que se hubiese recibido propuestas solventes. La Secretaría deberá volver a invitar formalmente a los mismos proveedores y tratar de incorporar a otros con el fin de evitar la insuficiencia de proveedores.
+VII. Las estipulaciones que se deriven de la naturaleza específica del fideicomiso de que se trate y que sean necesarias para garantizar los recursos de la Administración Pública Estatal, de conformidad con lo señalado por esta ley y demás disposiciones aplicables; y
 
-En caso de que dos licitaciones, invitaciones restringidas a cuando menos tres proveedores o concursos sean declarados desiertos consecutivamente, la adquisición se adjudicará con los lineamientos del procedimiento para compra directa.
+VIII. La determinación de su estructura administrativa.
 
-Las adquisiciones por invitación restringida serán limitadas y se harán cuando resulte inconveniente llevar a cabo las licitaciones públicas a que se refiere el Artículo 54, por lo que se deberán cumplir con la invitación y participación de por lo menos tres proveedores; el Comité adjudicará conforme a la mejor propuesta, con los criterios de adjudicación establecidos en las bases.
+###### Artículo 56.
 
-###### ARTICULO 57.
+Las instituciones fiduciarias, a través del delegado fiduciario general, dentro de los seis meses siguientes a la constitución o modificación de los fideicomisos, deberán someter a la consideración de la dependencia encargada de la coordinación del sector al que pertenezcan, los proyectos de estructura administrativa o las modificaciones que se requieran.
 
-Se podrán contratar adquisiciones, arrendamientos o servicios por adjudicación directa, esto es, sin sujetarse a ningún tipo de procedimiento de adquisición, cuando no se rebase el monto máximo establecido para el objeto de gasto correspondiente al centro de costos requisitante en el Presupuesto de Egresos del Estado o del Municipio correspondiente y se esté en alguno de los siguientes casos:
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2004)</small>
 
-I. Cuando el contrato sólo pueda celebrarse con una determinada persona por tratarse de obras de arte, titularidad de patentes, derechos de autor u otros derechos exclusivos;
+La estructura administrativa de aquellos Fideicomisos que la requieran, deberá ser aprobada conjuntamente por la Secretaría de Finanzas y Planeación y la Contraloría General del Estado, a propuesta de la coordinadora de sector.
 
-II. Cuando se hubiere rescindido el contrato respectivo por causas imputables al proveedor. En estos casos el Comité podrá adjudicar el contrato al licitante que haya presentado la siguiente proposición solvente más baja, siempre que la diferencia en precio con respecto a la postura que inicialmente hubiese resultado ganadora no sea superior al diez por ciento;
+###### Artículo 57.
 
-III. Cuando peligre o se altere el orden social, la economía, los servicios públicos, la salubridad, la seguridad o el ambiente de alguna zona del Estado, como consecuencia de siniestros o cuando existan circunstancias que puedan provocar trastornos graves, pérdidas o costos adicionales importantes;
+La institución fiduciaria tendrá las obligaciones siguientes:
 
-IV. Se trate de servicios de consultoría cuya difusión pudiera afectar el interés público o comprometer información de naturaleza confidencial para los sujetos de la Ley según corresponda;
+I. Realizar y celebrar, por instrucción del Comité Técnico, los actos, contratos y convenios de los que resulten derechos y obligaciones para el fideicomiso;
 
-V. Se trate de adquisiciones, arrendamientos o servicios cuya contratación se realice con campesinos o grupos urbanos marginados y que la dependencia o entidad contrate directamente con los mismos o con las personas morales constituidas por ellos;
+II. Informar al fideicomitente y al Comité Técnico acerca de la ejecución de los acuerdos;
 
-VI. Se trate de adquisiciones de bienes que las destinatarias utilicen para su comercialización o para someterlos a procesos productivos en cumplimiento de su objeto o fines propios;
+III. Presentar al fideicomitente y al Comité Técnico la información contable requerida para precisar la situación financiera del fideicomiso; y
 
-VII. Se trate de servicios de mantenimiento, conservación, restauración y reparación de bienes en los que no sea posible precisar su alcance, establecer el catálogo de conceptos y cantidades de trabajo o determinar las especificaciones correspondientes; o
+IV. Cumplir con los demás requerimientos que, de común acuerdo con el fideicomitente y el Comité Técnico, se fijen.
 
-VIII. Cuando la importación directa de bienes por parte de los sujetos de la Ley represente un beneficio económico comprobable superior al quince por ciento con relación a que dichos bienes importados sean adquiridos en el país.
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2004)</small>
 
 ###### Artículo 57 Bis.
 
@@ -1799,33 +1549,27 @@ Los fideicomisos deberán proporcionar a la Secretaría de Finanzas y Planeació
 
 Para el cumplimiento de lo anteriormente establecido, la Secretaría de Finanzas y Planeación conjuntamente con la coordinadora de sector, y la Contraloría, harán compatibles los requerimientos de información que se demanden a los fideicomisos, racionalizando los flujos de información.
 
-### CAPITULO IV. De la Enajenación de Bienes Muebles
+### CAPÍTULO IV. DE LA TRANSMISIÓN Y CONTINUIDAD DE LOS ASUNTOS DE LA ADMINISTRACIÓN PÚBLICA
 
-###### ARTICULO 58.
+###### Artículo 58.
 
-En todos los procedimientos de adquisición se invitará a participar a los mejores proveedores inscritos en el Padrón Estatal que por su experiencia y capacidad garanticen un excelente precio, calidad y condiciones de venta en los bienes o servicios a contratar y cuyas actividades comerciales estén relacionadas con los bienes o servicios objeto del contrato a celebrarse.
+A partir del día 1 de noviembre del año de la transmisión del Poder Ejecutivo, en términos del artículo 44 de la Constitución Política del Estado, el Gobernador y los Titulares de las dependencias y entidades del Ejecutivo dispondrán lo necesario para iniciar la entrega de los asuntos de la Administración Pública encomendados a su cuidado. Para este efecto:
 
-Los procedimientos de compra directa y concurso deberán ser normados por la Secretaría a través del Manual de Adquisiciones.
+I. Agilizarán los programas cuyo plazo de terminación no exceda de treinta días, para su oportuno cumplimiento;
 
-Los montos por concepto de compra directa se efectuarán hasta por un límite de tres mil veces el salario mínimo general vigente en el Estado y se adjudicarán de entre los proveedores que ofrezcan las mejores condiciones económicas para el Estado.
+II. Vigilarán la continuación de los programas de plazo de terminación mayor a treinta días y ordenarán se prepare un documento de entrega, en el que consten: los antecedentes, el estado actual, los procedimientos a seguir, la fecha probable de terminación. En caso de haber retraso, las razones que lo hayan originado. El estado financiero y los anexos que correspondan;
 
-Las adquisiciones por concurso quedarán comprendidas entre los tres mil y quince mil veces el salario mínimo general vigente en el Estado en los cuales se deberán invitar con la debida oportunidad un mínimo de cinco distintos proveedores; la adjudicación se podrá decidir con un mínimo de dos propuestas, siempre y cuando la mejor oferta económica sea igual o menor a los precios de mercado estudiados por la Secretaría.
+III. Ordenarán y supervisarán la actualización del inventario de los bienes a su cuidado;
 
-###### ARTICULO 59.
+IV. Informarán al Gobernador electo, o a quienes éste designe, sobre el estado de los asuntos que tengan encomendados, realizando con ellos las juntas de trabajo que se requieran, de preferencia fuera del horario de labores;
 
-Las adquisiciones de bienes y servicios no podrán fraccionarse para simular y evadir los topes establecidos en esta Ley y en el Presupuesto de Egresos del Estado.
+V. Se abstendrán de iniciar la ejecución de programas con terminación a largo plazo, con excepción de aquellos que por su naturaleza deban de iniciarse;
 
-###### ARTICULO 60.
+VI. Vigilarán que los trámites normales de las dependencias a su cargo, se continúen ejecutando;
 
-Las licitaciones públicas podrán ser:
+VII. Formularán las actas de entrega correspondientes, que deberán suscribirse hasta la fecha de entrega;
 
-I. Nacionales, cuando únicamente puedan participar personas de nacionalidad mexicana con establecimiento legal permanente en el país, cuyas propuestas sean presentadas en idioma español y en moneda nacional.
-
-II. Internacionales, cuando puedan participar tanto personas de nacionalidad mexicana como extranjeras y la cotización pueda presentarse en moneda extranjera con su equivalente en moneda nacional al tipo de cambio vigente al día del acto de inscripción.
-
-Solamente se realizarán licitaciones de carácter internacional, cuando ello resulte obligatorio conforme a lo establecido en Tratados comerciales y similares celebrados por México; cuando previo sondeo de mercado que realice la convocante, no exista oferta en cantidad o calidad de proveedores nacionales; cuando sea conveniente en términos de precio; o por otra causa debidamente justificada.
-
-En los procedimientos de carácter internacional, los sujetos de esta Ley optarán, en igualdad de condiciones, por el empleo de los recursos humanos del país y por la adquisición y arrendamientos de bienes producidos en mismo.
+VIII. Los servidores públicos de la administración pública centralizada y paraestatal, que no sean ratificados en sus puestos, deberán permanecer en disponibilidad de quienes los sustituyan, hasta el día dieciséis del mes de diciembre del mismo año, con respecto a sus derechos laborales.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -1994,3 +1738,19 @@ G.O. 29 DE JUNIO DE 2005.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 1 DE JULIO DE 2005.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 247 QUE DEROGA LA FRACCIÓN XI DEL ARTÍCULO 18 TER DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 21 DE OCTUBRE DE 2005.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 286 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ Y DE LA LEY (SIC) TRÁNSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
