@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-municipal-del-estado-de-queretaro-antes-ley-23560"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-05-25"
-last_updated: "2005-04-01"
+last_updated: "2005-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # LEY ORGANICA MUNICIPAL DEL ESTADO DE QUERETARO -ANTES LEY PARA LA ORGANIZACION POLITICA Y ADMINISTRATIVA DEL MUNICIPIO LIBRE DEL ESTADO DE QUERETARO-
 
-LEY ORGANICA MUNICIPAL DEL ESTADO DE QUERETARO
+LEY PARA LA ORGANIZACION POLITICA Y ADMINISTRATIVA DEL MUNICIPAL LIBRE DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 25 de mayo del 2001.
 
@@ -37,9 +37,13 @@ LA QUINCUAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO
 
 Que por lo anterior, el Pleno de la Legislatura ha tenido a bien expide la siguiente:
 
-LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO
+> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE OCTUBRE DE 2005)</small>
 
-## TÍTULO I. DE LOS MUNICIPIOS
+LEY PARA LA ORGANIZACIÓN POLÍTICA Y ADMINISTRATIVA DEL MUNICIPAL LIBRE DEL ESTADO DE QUERÉTARO
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE OCTUBRE DE 2005)</small>
+
+## TÍTULO I. DEL MUNICIPIO LIBRE
 
 ### CAPÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
@@ -2078,3 +2082,11 @@ Se derogan todas las disposiciones legales que se opongan a la presente Ley.
 ###### ARTÍCULO TERCERO.
 
 Los Ayuntamientos deberán presentar, dentro de los siguientes treinta días contados a partir de la entrada en vigor de la presente Ley, a la Legislatura del Estado para su aprobación, la iniciativa para crear los Institutos Municipales.
+
+P.O. 21 DE OCTUBRE DE 2005.
+
+PRIMERO.- La presente Ley entrará en vigor a partir de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a la presente ley.
+
+TERCERO.- Las disposiciones legales que se refieran a la Ley Orgánica Municipal del Estado de Querétaro, se entenderán que se refieren a la Ley para la Organización Política y Administrativa del Municipio Libre del Estado de Querétaro.
