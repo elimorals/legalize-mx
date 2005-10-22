@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-secretaria-de-educacion-del-45060"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-31"
-last_updated: "2005-05-31"
+last_updated: "2005-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45060&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2005.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 31 de mayo de 2005.
 
@@ -62,9 +62,17 @@ a) Secretaría Particular;
 
 b) Coordinación de Asesores;
 
-c) Dirección de Relaciones Internacionales; y
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2005)</small>
 
-d) Dirección de Comunicación Social, Ediciones y Publicaciones.
+c) Dirección de Relaciones Internacionales;
+
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+d) Dirección de Comunicación Social, Ediciones y Publicaciones, y
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+e) Dirección General de Atención a la Comunidad Educativa.
 
 II. Coordinación General.
 
@@ -288,17 +296,21 @@ VI. Elaborar fichas informativas y documentos técnicos que sirvan de apoyo al S
 
 VII. Gestionar entrevistas con particulares y autoridades con el objeto de establecer compromisos orientados a elevar la calidad de la educación en el Estado;
 
-VIII. Verificar el cumplimiento de las políticas y lineamientos establecidos para la comunicación oficial;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
 
-IX. Proporcionar espacios de atención a la comunidad para que manifiesten sus inquietudes y aportaciones al sistema educativo;
+VIII. Verificar el cumplimiento de las políticas y lineamientos establecidos para la comunicación oficial, y (sic)
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+IX. Las demás que le encomiende el Secretario de Educación;
 
 X. Coordinar los programas de la Secretaría para atender necesidades y requerimientos de la sociedad en materia educativa, así como dar seguimiento a las solicitudes derivadas de los programas de gobierno establecidos para ese fin;
 
-XI. Promover la realización de eventos y el otorgamiento de estímulos que motiven y apoyen el desempeño del personal de la Secretaría, impulsando además su colaboración en campañas y programas de interés social;
+XI. (DEROGADA, P.O. 22 DE OCTUBRE DE 2005)
 
-XII. Verificar que la información solicitada al Secretario, se proporcione de acuerdo a la Ley de Transparencia e Información Pública del Estado de Jalisco; y
+XII. (DEROGADA, P.O. 22 DE OCTUBRE DE 2005)
 
-XIII. Las demás que le encomiende el Secretario de Educación.
+XIII. (DEROGADA, P.O. 22 DE OCTUBRE DE 2005)
 
 ###### ARTÍCULO 11.
 
@@ -364,6 +376,24 @@ VI. Asesorar y supervisar las ediciones y publicaciones que se realicen en las u
 
 VII. Las demás que le otorguen otras disposiciones legales o el Secretario.
 
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+ARTÍCULO 13 BIS.- Son facultades de la Dirección General de Atención a la Comunidad Educativa:
+
+l. Proporcionar espacios de atención a la comunidad para que manifiesten sus inquietudes y aportaciones al sistema educativo;
+
+II. Coordinar los programas de la Secretaría para atender necesidades y requerimientos de la sociedad en materia educativa, así como dar seguimiento a las solicitudes derivadas de los programas de gobierno establecidos para ese fin;
+
+III. Promover la realización de eventos y el otorgamiento de estímulos que motiven y apoyen el desempeño del personal de la Secretaría, impulsando además su colaboración en campañas y programas de interés social;
+
+IV. Verificar que la información solicitada al Secretario, se proporcione de acuerdo a la Ley de Transparencia e Información Pública del Estado de Jalisco;
+
+V. Fungir como Unidad de Transparencia de la Secretaria, tramitar y resolver los procedimientos administrativos en materia de información pública que sean competencia de esta Secretaría, de conformidad de la legislación aplicable;
+
+VI. Participar, a través de su titular, como miembro del Comité de Clasificación de Información Pública de la Secretaria, y
+
+V. Las demás que le encomiende el Secretaria de Educación.
+
 ### CAPÍTULO III. De la Coordinación General
 
 ###### ARTÍCULO 14.
@@ -387,6 +417,10 @@ VII. Coordinar a los representantes de la Secretaría ante las comisiones, órga
 VIII. Atender, orientar y buscar las soluciones de los conflictos que se presenten derivados de la función educativa, y
 
 IX. Las demás que le otorguen otras disposiciones legales o el Secretario.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+ARTÍCULO 14 BIS.- El titular de la Coordinación General representara al Secretario en el Comité de Clasificación de Información Pública de la Secretaría, y lo presidirá.
 
 ### CAPÍTULO IV. De los Titulares de las Unidades Administrativas
 
@@ -1104,9 +1138,17 @@ XVI. Procurar el desarrollo tecnológico, atendiendo el buen manejo de los siste
 
 XVII. Otorgar a través de la unidad médico odontológica, atención médica menor al personal que labora en la Secretaría;
 
-XVIII. Coordinar la elaboración y actualización de los reglamentos y manuales administrativos que mejoren la estructura y distribución de funciones de los órganos de la Secretaría, y
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
 
-XIX. Las demás que le otorguen otras disposiciones legales o el Secretario.
+XVIII. Coordinar la elaboración y actualización de los reglamentos y manuales administrativos que mejoren la estructura y distribución de funciones de los órganos de la Secretaría,
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+XIX. Participar a través de su titular, como Secretario Técnico del Comité de Clasificación de Información Pública de la Secretaría, y
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+XX. Las demás que le otorguen otras disposiciones legales o el Secretario.
 
 ###### ARTÍCULO 41.
 
@@ -1302,9 +1344,17 @@ VIII. Promover que los servidores públicos de la Secretaría obligados, present
 
 IX. Intervenir en los actos de entrega y recepción de las diferentes unidades administrativas de la Secretaría, llevando el control y registro de los mismos;
 
-X. Conocer e intervenir en todo proceso susceptible de fiscalización que realicen las unidades administrativas, planteles educativos y órganos desconcentrados de la Secretaría, y
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
 
-XI. Las demás que le otorguen otras disposiciones legales o el Secretario.
+X. Conocer e intervenir en todo proceso susceptible de fiscalización que realicen las unidades administrativas, planteles educativos y órganos desconcentrados de la Secretaría;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+XI. Participar a través de su titular, como miembro del Comité de Clasificación de Información Pública de la Secretaría, y
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+XII. Las demás que le otorguen otras disposiciones legales o el Secretario.
 
 Los resultados o resoluciones que pronuncie la Contraloría en el ejercicio de sus atribuciones, en ningún caso liberan de responsabilidad.
 
@@ -1389,3 +1439,17 @@ C.P. LUIS GUILLERMO MARTÍNEZ MORA
 Secretario de Educación
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE OCTUBRE DE 2005.
+
+PRIMERO.- Publíquese en el Periódico Oficial "El Estado de Jalisco" el presente Acuerdo, que iniciará su vigencia a partir del día que entre en vigor el Decreto 20,867, relativo a la Ley de Transparencia e Información Pública del Estado de Jalisco.
+
+SEGUNDO.- Se deroga el acuerdo administrativo que emite la Secretaría de Promoción Económica el 01 de septiembre de 2002, relativo al procedimiento que habrá de seguirse en dicha Secretaría para la atención de solicitudes de acceso de información pública y la entrega de la misma, en los casos que conforme a la Ley de Transparencia e Información Pública del Estado proceda; publicado en el Periódico Oficial "El Estado de Jalisco" el día 23 de enero de 2003, sección III.
+
+TERCERO:- Se deroga el acuerdo DlGELAG ACU/3212003, mediante el cual se delega en la Dirección General Jurídica de la Secretaría General de Gobierno, la facultad de tramitar y resolver los procedimientos administrativos en materia de información pública que sea competencia de la misma; publicado en el Periódico Oficial "El Estado de Jalisco" el día 20 de mayo de 2003, sección II.
+
+CUARTO. Se deroga el acuerdo ACU/SEMADES/01/2003, mediante el cual se delega en el Director de Asuntos Jurídicos de la Secretaría de Medio Ambiente para el Desarrollo Sustentable, la facultad de tramitar y resolver los procedimientos administrativos en materia de información pública que sean competencia de esta Secretaría; publicado en el Periódico Oficial "El Estado de Jalisco" el día 19 de julio de 2003, sección II.
+
+QUINTO. Se derogan todas las disposiciones reglamentarias que se opongan al presente Acuerdo.
