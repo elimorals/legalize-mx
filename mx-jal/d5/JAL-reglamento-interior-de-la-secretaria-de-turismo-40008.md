@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-secretaria-de-turismo-40008"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-17"
-last_updated: "2004-06-17"
+last_updated: "2005-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,19 +23,17 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE TURISMO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2005.
 
-Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 17 de junio de 2004.
+Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Jalisco, el jueves 17 de junio de 2004.
 
 Al margen un sello que dice: Gobierno de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno. Estados Unidos Mexicanos.
 
-En ejercicio de las facultades que me confieren los artículos 36, 46, y 50 fracciones VIII y XXIII de la Constitución Política; 1, 2, 3, 5, 6, 12, 19 fracción II, 21, 22 fracción I y XXII, 24, 25, y 34 de la Ley Orgánica del Poder Ejecutivo, ambos ordenamientos del Estado de Jalisco y con base en las(sic) siguientes:
+En ejercicio de las facultades que me confieren los artículos 36, 46, y 50 fracciones VIII y XXIII de la Constitución Política; 1, 2, 3, 5, 6, 12, 19 fracción II, 21, 22 fracción I y XXII, 24, 25, y 34 de la Ley Orgánica del Poder Ejecutivo, ambos ordenamientos del Estado de Jalisco y con base en las (sic) siguientes:
 
-C O N S I D E R A N D O S:.
+C O N S I D E R A N D O S: .
 
 En mérito de lo antes considerado y fundamentado, tengo a bien expedir el siguiente:
-
-ACUERDO:
 
 UNICO.- Se expide el Reglamento Interior de la Secretaría de Turismo, para quedar como sigue:
 
@@ -97,7 +95,7 @@ II. Acordar con el Gobernador el despacho de los asuntos a su cargo;
 
 III. Elaborar el anteproyecto de presupuesto anual de egresos, para posteriormente remitirlo al Gobernador;
 
-IV. Dar cuenta al Congreso local, del estado que guardan los asuntos encomendados a la Secretaría y al sector a su cargo; y (sic)
+IV. Dar cuenta al Congreso local, del estado que guardan los asuntos encomendados a la Secretaría y al sector a su cargo; y
 
 V. Proponer al Gobernador los anteproyectos de iniciativa de ley, reglamentos, acuerdos, decretos sobre asuntos de competencia de la Secretaría;
 
@@ -145,9 +143,13 @@ La Dirección General Administrativa tiene a su cargo la dirección y coordinaci
 
 Para su adecuado funcionamiento, esta conformada con las siguientes direcciones:
 
-I. La Dirección de Recursos Financieros y Materiales;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
 
-II. La Dirección de Trámites y Verificación Jurídica; y
+I. La Dirección de Recursos Financieros y Materiales, que participará a través de su titular en la integración del Comité de Clasificación de Información Pública de la Secretaría, como Secretario Técnico;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+II. La Dirección de Trámites y Verificación Jurídica, que fungirá como Unidad de Transparencia de la Secretaría, y tendrá competencia para tramitar y resolver los procedimientos administrativos en materia de información pública que sean competencia de esta Secretaría, de conformidad de la legislación aplicable, y
 
 III. La Dirección Informática y Estadística.
 
@@ -183,7 +185,11 @@ XIII. Llevar el control de los inventarios de material publicitario y verificar 
 
 XIV. Certificar los documentos internos de la Secretaría;
 
-XV. Proporcionar la información que se requiere a la Secretaría de conformidad con lo dispuesto en la Ley de Transparencia e Información Pública; y
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+XV. Representar, a través de su Titular, al Secretario en el Comité de Clasificación de Información Pública de la Secretaría y presidirlo, y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE OCTUBRE DE 2005)</small>
 
 XVI. Las demás que establezcan otras disposiciones legales aplicables y que le confiera el Secretario.
 
@@ -350,3 +356,17 @@ SR. HORACIO GONZÁLEZ PARDO
 Secretario de Turismo
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE OCTUBRE DE 2005.
+
+PRIMERO.- Publíquese en el Periódico Oficial "El Estado de Jalisco" el presente Acuerdo, que iniciará su vigencia a partir del día que entre en vigor el Decreto 20,867, relativo a la Ley de Transparencia e Información Pública del Estado de Jalisco.
+
+SEGUNDO.- Se deroga el acuerdo administrativo que emite la Secretaría de Promoción Económica el 01 de septiembre de 2002, relativo al procedimiento que habrá de seguirse en dicha Secretaría para la atención de solicitudes de acceso de información pública y la entrega de la misma, en los casos que conforme a la Ley de Transparencia e Información Pública del Estado proceda; publicado en el Periódico Oficial "El Estado de Jalisco" el día 23 de enero de 2003, sección III.
+
+TERCERO.- Se deroga el acuerdo DIGELAG ACU/32/2003, mediante el cual se delega en la Dirección General Jurídica de la Secretaría General de Gobierno, la facultad de tramitar y resolver los procedimientos administrativos en materia de información pública que sea competencia de la misma; publicado en el Periódico Oficial "El Estado de Jalisco" el día 20 de mayo de 2003, sección II.
+
+CUARTO.- Se deroga el acuerdo ACU/SEMADES/01/2003, mediante el cual se delega en el Director de Asuntos Jurídicos de la Secretaría de Medio Ambiente para el Desarrollo Sustentable, la facultad de tramitar y resolver los procedimientos administrativos en materia de información pública que sean competencia de esta Secretaría; publicado en el Periódico Oficial "El Estado de Jalisco" el día 19 de julio de 2003, sección II.
+
+QUINTO.- Se derogan todas las disposiciones reglamentarias que se opongan al presente Acuerdo.
