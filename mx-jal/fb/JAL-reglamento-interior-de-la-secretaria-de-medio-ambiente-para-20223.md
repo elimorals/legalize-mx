@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-secretaria-de-medio-ambiente-para-202
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-03-01"
-last_updated: "2001-03-01"
+last_updated: "2005-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20223&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE MEDIO AMBIENTE PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2005.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el jueves 1 de marzo de 2001.
 
@@ -37,7 +37,7 @@ En ejercicio de la facultad que me confieren los artículos 36, 46 y 50 fraccion
 
 C O N S I D E R A N D O S:.
 
-En mérito de los razonamientos y fundamentos expuestos con anterioridad, tengo a bien expedir el siguiente
+En merito de los razonamientos y fundamentos expuestos con anterioridad, tengo a bien expedir el siguiente
 
 A C U E R D O
 
@@ -109,9 +109,17 @@ XV. Resolver los recursos administrativos que le correspondan, de conformidad co
 
 XVI. Expedir las recomendaciones a las autoridades competentes para asegurar la debida aplicación de la normatividad relacionada con el medio ambiente;
 
-XVIII. Resolver las dudas que se susciten sobre la interpretación o aplicación de éste Reglamento y sobre los casos no previstos en él; y
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
 
-XIX. Las demás que le señalen otras disposiciones legales y las inherentes al cargo, así como las que le encomiende el Titular del Ejecutivo del Estado.
+XVIII. Resolver las dudas que se susciten sobre la interpretación o aplicación de éste Reglamento y sobre los casos no previstos en él;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+XIX. Presidir el Comité de Clasificación de Información Pública de la Secretaría, y
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+XX. Las demás que le señalen otras disposiciones legales y las inherentes al cargo, así como las que le encomiende el Titular del Ejecutivo del Estado.
 
 ### CAPÍTULO II. De la Estructura
 
@@ -287,9 +295,17 @@ IV. Promover la participación social en las acciones y medidas de protección a
 
 V. Promover, en coordinación con las demás unidades administrativas de la Secretaría, el cumplimiento de la legislación vigente en materia del otorgamiento de estímulos e incentivos fiscales a favor de los particulares;
 
-VI. Alentar e integrar la participación de los diferentes sectores de la población en la elaboración, aplicación y cumplimiento de las diferentes acciones y actividades derivadas de las estrategias que dicte la política ambiental del Estado; y
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
 
-VII. Gestionar, convenir, acordar y participar, en su caso con el sector privado, en la búsqueda de soluciones reales e inmediatas a los problemas ambientales que se generan por causa de la actividad productiva; (sic)
+VI. Alentar e integrar la participación de los diferentes sectores de la población en la elaboración, aplicación y cumplimiento de las diferentes acciones y actividades derivadas de las estrategias que dicte la política ambiental del Estado;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+VII. Gestionar, convenir, acordar y participar, en su caso, con el sector privado, en la búsqueda de soluciones reales e inmediatas a los problemas ambientales que se generen por causa de la actividad productiva, y
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+VIII. Participar, a través de su titular, como Secretario Técnico del Comité de Clasificación de Información Pública de la Secretaría.
 
 ###### Artículo 14.
 
@@ -519,9 +535,25 @@ III. Recibir y atender las quejas y denuncias administrativas de la ciudadanía 
 
 IV. Representar a la Secretaría y a sus unidades administrativas, en los procedimientos judiciales y administrativos en que se requiera su intervención;
 
-V. Elaborar y proponer al Secretario del ramo, en coordinación con las Unidades Administrativas de la Secretaría, los reglamentos, normas y criterios en materia ambiental que establece la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente y procurar su actualización; y
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
 
-VI. Coadyuvar con los gobiernos municipales en la elaboración de los reglamentos de ecología que habrán de establecerse en los mismos o, en su defecto, las modificaciones y adecuaciones a los bandos de policía y buen gobierno.
+V. Elaborar y proponer a la Secretaría del ramo, en coordinación con las Unidades Administrativas de la Secretaría, los reglamentos, normas y criterios en materia ambiental que establece la Ley. Estatal de Equilibrio Ecológico y la Protección al Ambiente y procurar su actualización;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+VI. Coadyuvar con los gobiernos municipales en la elaboración de los reglamentos de ecología que habrá de establecerse en los mismos o, en su defecto, las modificaciones y adecuaciones a los bandos de policía y buen gobierno;
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+VII. Fungir como Unidad de Transparencia de la Secretaría, tramitar y resolver los procedimientos administrativos en materia de información pública que sean competencia de esta Secretaria, de conformidad de la legislación aplicable;
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+VIII. Participar, a través de su titular, como miembro del Comité de Clasificación de Información Pública de la Secretaría, y
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+IX. Las demás que le señalen otras disposiciones legales aplicables y las que le confiera el superior jerárquico.
 
 ###### Artículo 27.
 
@@ -874,3 +906,17 @@ DR. MAURICIO LIMÓN AGUIRRE
 EL C. SECRETARIO DE MEDIO AMBIENTE PARA EL DESARROLLO SUSTENTABLE
 
 ING. RAMÓN GONZÁLEZ NÚÑEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE OCTUBRE DE 2005.
+
+PRIMERO.- Publíquese en el Periódico Oficial "El Estado de Jalisco" el presente Acuerdo, que iniciará su vigencia a partir del día que entre en vigor el Decreto 20,867, relativo a la Ley de Transparencia e Información Pública del Estado de Jalisco.
+
+SEGUNDO.- Se deroga el acuerdo administrativo que emite la Secretaría de Promoción Económica el 01 de septiembre de 2002, relativo al procedimiento que habrá de seguirse en dicha Secretaría para la atención, de solicitudes de acceso de información pública y la entrega de la misma, en los casos que conforme a la Ley de Transparencia e Información Pública del Estado proceda; publicado en el Periódico Oficial "El Estado de Jalisco" el día 23 de enero de 2003, sección III.
+
+TERCERO.- Se deroga el acuerdo DIGELAG ACU/32/2003, mediante el cual se delega en la Dirección General Jurídica de la Secretaría General de Gobierno, la facultad de tramitar y resolver los procedimientos administrativos en materia de información pública que sea competencia de la misma; publicado en el Periódico Oficial "El Estado de Jalisco" el día 20 de mayo de 2003, sección II.
+
+CUARTO.- Se deroga el acuerdo ACU/SE MADES/01/2003, mediante el cual se delega en el Director de Asuntos Jurídicos de la Secretaría de Medio Ambiente para el Desarrollo Sustentable, la facultad de tramitar y resolver los procedimientos administrativos en materia de información pública que sean competencia de esta Secretaría; publicado en el Periódico Oficial "El Estado de Jalisco" el día 19 de julio de 2003, sección II.
+
+QUINTO.- Se derogan todas las disposiciones reglamentarias que se opongan al presente Acuerdo.
