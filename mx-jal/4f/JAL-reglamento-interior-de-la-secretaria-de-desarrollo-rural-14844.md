@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-secretaria-de-desarrollo-rural-14844"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-07-22"
-last_updated: "1999-07-22"
+last_updated: "2005-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14844&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO RURAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2005.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 22 de julio de 1999.
 
@@ -91,7 +91,7 @@ XVII.- Proponer al Ejecutivo Estatal, la política en materia de fomento a la pr
 
 XVIII.- Las demás que expresamente le atribuyan las Leyes y Reglamentos.
 
-### CAPITULO SEGUNDO. DE LA ORGANIZACION
+### CAPITULO SEGUNDO. DE LA ORGANIZACIÓN
 
 ###### Art. 3o.
 
@@ -163,7 +163,7 @@ A cargo de cada una de las Direcciones Generales, habrá un titular quien asumir
 
 I.- Acordar con el C. Secretario los asuntos y programas que se les encomienden;
 
-II.- Dirigir, coordinar y evaluar el funcionamiento de las unidades administrativas que se le hubiesen adscrito, vinculándose con las Direcciones Generales para obtener una visión programática institucional;
+II. Dirigir, coordinar y evaluar el funcionamiento de las unidades administrativas que se le hubiesen adscrito, vinculándose con las Direcciones Generales para obtener una visión programática institucional;
 
 III.- Establecer e implementar las políticas, normas, criterios, sistemas y procedimientos de carácter técnico, que deban regir en las unidades administrativas que tengan adscritas;
 
@@ -379,7 +379,19 @@ XV.- Llevar registro y control de los diversos financiamientos y fondos que obte
 
 XVI.- Llevar registro y control de los presupuestos de obra pública autorizados a esta Secretaría, así como hacer los trámites de pago ante la Secretaría de Finanzas del Gobierno del Estado;
 
-XVII.- Ejercer las demás facultades que le señalen otras disposiciones legales y las inherentes al cargo.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+XVII.- Representar al Secretario en el Comité de Clasificación de Información Pública de la Secretaría, y lo presidirá, y
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+XVIII.- Ejercer las demás facultades que le señalen otras disposiciones legales y las inherentes al cargo.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+###### Art. 13o.
+
+bis.- La Dirección de Informática dependiente de la Dirección General Jurídica participará en la integración del Comité de Clasificación de Información Pública de la Secretaría, ejerciendo la función de Secretario Técnico.
 
 ## TITULO TERCERO
 
@@ -427,7 +439,7 @@ I.- Atender, dirigir, coordinar y supervisar los asuntos jurídicos de la Secret
 
 II.- Cuando proceda, elaborar los documentos jurídicos que, en relación con las atribuciones de la Secretaría, deban ser publicados en el Periódico Oficial “El Estado de Jalisco”;
 
-III.- Asesorar a los titulares de las diversas unidades administrativas de la Secretaría y resolver las consultas que estos formulen, procurando la unificación de criterios en la aplicación de normas;
+III.- Asesora a los titulares de las diversas unidades administrativas de la Secretaría y resolver las consultas que estos formulen, procurando la unificación de criterios en la aplicación de normas;
 
 IV.- Recopilar para consulta, la legislación y jurisprudencia sobre asuntos relacionados con las atribuciones y funciones de la Secretaría;
 
@@ -439,9 +451,15 @@ VII.- Elaborar los proyectos de informes en los juicios de amparo y los recursos
 
 VIII.- En los Términos de la Ley de los Servidores Públicos del Estado de Jalisco y sus Municipios, representar a las autoridades de la Secretaría que tengan carácter de demandadas ante el Tribunal de Arbitraje y Escalafón;
 
-IX.- En coordinación con la Unidad Administrativa que corresponda, colaborar con la Contraloría Interna y en su caso con la Procuraduría General de Justicia del Estado, en las averiguaciones previas y en el trámite de los procesos que afecten a la Secretaría o en los que tenga interés jurídico;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
 
-X.- Tramitar los recursos administrativos que se interpongan, formulando los proyectos de resolución para el conocimiento y firma del C. Secretario;
+IX.- Fungir como Unidad de Transparencia de la Secretaría, tramitar y resolver los procedimientos administrativos en materia de información pública que sean competencia de esta Secretaría, de conformidad de (sic) la legislación aplicable;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE OCTUBRE DE 2005)</small>
+
+X.- Participar a través de su titular, como miembro del Comité de Clasificación de Información Pública de la Secretaría, y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 22 DE OCTUBRE DE 2005)</small>
 
 XI.- Ejercer las demás facultades que le señalen otras disposiciones legales y las inherentes al cargo.
 
@@ -496,3 +514,17 @@ LIC. FERNANDO A. GUZMÁN PÉREZ PELÁEZ
 EL C. SECRETARIO DE DESARROLLO RURAL
 
 LIC. FRANCISCO J. MAYORGA CASTAÑEDA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE OCTUBRE DE 2005.
+
+PRIMERO.- Publíquese en el Periódico Oficial "El Estado de Jalisco" el presente Acuerdo, que iniciará su vigencia a partir del día que entre en vigor el Decreto 20,867, relativo a la Ley de Transparencia e Información Pública del Estado de Jalisco.
+
+SEGUNDO.- Se deroga el acuerdo administrativo que emite la Secretaría de Promoción Económica el 01 de septiembre .de 2002, relativo al procedimiento que habrá de seguirse en dicha Secretaría para la atención de solicitudes de acceso de información pública y la entrega de la misma, en los casos que conforme a la Ley de Transparencia e Información Pública del Estado proceda; publicado en el Periódico Oficial "El Estado de Jalisco" el día 23 de enero de 2003, sección III.
+
+TERCERO.- Se deroga el acuerdo DIGELAG ACU/32/2003, mediante el cual se delega en la Dirección General Jurídica de la Secretaría General de Gobierno, la facultad de tramitar y resolver los procedimientos administrativos en materia de información pública que sea competencia de la misma; publicado en el Periódico Oficial "El Estado de Jalisco" el día 20 de mayo de 2003, sección II.
+
+CUARTO.- Se deroga el acuerdo ACU/ SEMADES/01/2003, mediante el cual se delega en el Director de Asuntos Jurídicos de la Secretaría de Medio Ambiente para el Desarrollo Sustentable, la facultad de tramitar y resolver los procedimientos administrativos en materia de información pública que sean competencia de esta Secretaría; publicado en el Periódico Oficial "El Estado de Jalisco" el día 19 de julio de 2003, sección II.
+
+QUINTO.- Se derogan todas las disposiciones reglamentarias que se opongan al presente Acuerdo.
