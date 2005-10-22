@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-124
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-08-13"
-last_updated: "2003-04-05"
+last_updated: "2005-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2005.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 13 de agosto de 1998.
 
@@ -359,9 +359,21 @@ XI. Verificar y supervisar que se cumplan los procedimientos que establece la no
 
 XII. Coordinarse con la Dirección Consultiva y Legislativa en la formulación de los informes previos y justificados en los juicios de amparo promovidos contra actos de los servidores públicos adscritos a la Contraloría Interna, así como en la presentación de las promociones y los recursos que deban interponerse;
 
-XIII. Integrar y rendir los informes y estadísticas que establezca la normatividad interna de la Procuraduría y aquéllos que le sean solicitados por el Procurador; y
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
 
-XIV. Las demás que le señalen las disposiciones jurídicas aplicables, las que le confiera el Procurador y las que correspondan a las unidades administrativas que se le adscriban.
+XIII. Integrar y rendir los informes y estadísticas que establezca la normatividad interna de la Procuraduría y aquéllos que le sean solicitados por el Procurador;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+XIII. Integrar y rendir los informes y estadísticas que establezca la normatividad interna de la Procuraduría y aquéllos que le sean solicitados por el Procurador; (sic)
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+XIV. Participar como miembro del Comité de Clasificación de Información Pública de la Procuraduría, y
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+XV. Las demás que le señalen las disposiciones jurídicas aplicables, las que le confiera el Procurador y las que correspondan a las unidades administrativas que se le adscriban.
 
 ### CAPITULO V. De las Coordinaciones Generales
 
@@ -617,7 +629,17 @@ XXIII. Acordar con los servidores públicos de las unidades administrativas a su
 
 XXIV. Dirimir los conflictos de competencia que se presenten entre las unidades administrativas que le estén adscritas;
 
-XXV. Las demás que les señalen las disposiciones aplicables, las que les confiera el Procurador y las que correspondan a las unidades administrativas que se les adscriban.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+XXV. Fungir como Unidad de Transparencia de la Procuraduría, tramitar y resolver los procedimientos administrativos en materia de información pública que sean competencia de la Procuraduría, de conformidad con la legislación aplicable;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2005)</small>
+
+XXVI. Participar como miembro del Comité de Clasificación de Información Pública de la Procuraduría, y
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+XXVII. Las demás que les señalen las disposiciones aplicables, las que les confiera el Procurador y las que correspondan a las unidades administrativas que se les adscriban.
 
 ### CAPITULO XI. De la Visitaduría
 
@@ -859,9 +881,17 @@ IX. Dictaminar sobre la procedencia de la terminación de los efectos del nombra
 
 X. En coordinación con las unidades administrativas competentes, formular los pedimentos de cumplimiento de mandamientos judiciales en el extranjero con la intervención que corresponda de la Procuraduría General de la República y a la Secretaría de Relaciones Exteriores, en los términos de las disposiciones aplicables.
 
-XI. Realizar conjuntamente con las unidades administrativas competentes, estudios y proyectos en torno a posibles modificaciones a leyes penales y de procedimientos penales del Estado, para propiciar el mejoramiento de la procuración e impartición de justicia; y
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
 
-XII. Las demás que señalen las disposiciones aplicables, las que les confiera el Procurador y las que correspondan a las unidades administrativas que se les adscriban.
+XI. Realizar conjuntamente con las unidades administrativas competentes, estudios y proyectos en torno a posibles modificaciones a leyes penales y de procedimientos penales del Estado, para propiciar el mejoramiento de la procuración e impartición de justicia.
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+XII. Participar, a través de su titular, como Secretario Técnico del Comité de Clasificación de Información Pública de la Procuraduría, y
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+XIII. Las demás que señalen las disposiciones aplicables, las que les confiera el Procurador y las que correspondan a las unidades administrativas que se les adscriban.
 
 ### CAPITULO XVII. De la Dirección de Estadística sobre Actuación del Ministerio Público y Procedimiento Penal
 
@@ -1109,6 +1139,12 @@ XI. Desarrollar mecanismos y estrategias que permitan obtener y coordinar la inf
 
 XII. Las demás que les señalen las disposiciones aplicables, las que les confiera el Procurador y las que correspondan a las unidades administrativas que se les adscriban.
 
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 31 Bis.
+
+El titular de la Dirección de Comunicación Social representará al Procurador en el Comité de Clasificación de Información Pública de la Procuraduría, y lo presidirá.
+
 ### CAPITULO XXVI. De los Órganos Desconcentrados
 
 ###### Artículo 32.
@@ -1274,3 +1310,15 @@ Primero. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 Segundo. Se faculta al Director General de la Policía Investigadora para que, durante el presente ejercicio fiscal, desempeñe el cargo de Coordinador General de la Policía Investigadora con el sueldo que actualmente le corresponde en el nivel 26, asignado en el Presupuesto de Egresos 2003, hasta en tanto se determine el que deba percibir durante el ejercicio fiscal 2004, conforme a lo que se apruebe por el Poder Legislativo en el Presupuesto de Egresos del Gobierno del Estado para dicho ejercicio.
 
 Tercero. Se derogan todas las disposiciones legales que se opongan o contravengan al presente Reglamento.
+
+P.O. 22 DE OCTUBRE DE 2005.
+
+PRIMERO.- Publíquese en el Periódico Oficial "El Estado de Jalisco" el presente Acuerdo, que iniciará su vigencia a partir del día que entre en vigor el Decreto 20,867, relativo a la Ley de Transparencia e Información Pública del Estado de Jalisco.
+
+SEGUNDO.- Se deroga el acuerdo administrativo que emite la Secretaría de Promoción Económica el 01 de septiembre de 2002, relativo al procedimiento que habrá de seguirse en dicha Secretaría para la atención de solicitudes de acceso de información pública y la entrega de la misma, en los casos que conforme a la Ley de Transparencia e Información Pública del Estado proceda; publicado en el Periódico Oficial "El Estado de Jalisco" el día 23 de enero de 2003, sección III.
+
+TERCERO.- Se deroga el acuerdo DIGELAG ACU/32/2003, mediante el cual se delega en la Dirección General Jurídica de la Secretaría General de Gobierno, la facultad de tramitar y resolver los procedimientos administrativos en materia de información pública que sea competencia de la misma; publicado en el Periódico Oficial "El Estado de Jalisco" el día 20 de mayo de 2003, sección II.
+
+CUARTO.- Se deroga el acuerdo ACU/SEMADES/01/2003, mediante el cual se delega en el Director de Asuntos Jurídicos de la Secretaría de Medio Ambiente para el Desarrollo Sustentable, la facultad de tramitar y resolver los procedimientos administrativos en materia de información pública que sean competencia de esta Secretaría; publicado en el Periódico Oficial "El Estado de Jalisco" el día 19 de julio de 2003, sección II.
+
+QUINTO. Se derogan todas las disposiciones reglamentarias que se opongan al presente Acuerdo.
