@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-secretaria-de-desarrollo-humano-26308
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-10-03"
-last_updated: "2002-10-03"
+last_updated: "2005-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26308&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO HUMANO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2005.
 
 Reglamento Publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 3 de octubre de 2002.
 
@@ -208,9 +208,21 @@ IX. Intervenir en los asuntos de carácter legal que sean competencia de la Secr
 
 X. Representar a la Secretaría en los procedimientos y en los juicios laborales que se promuevan ante los tribunales competentes;
 
-XI. Representar a la Secretaría en los juicios, diligencias de jurisdicción voluntaria, procedimientos judiciales y administrativos o en aquéllos que le encomiende el Secretario; y
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
 
-XII. Las demás que le señalen otras disposiciones legales aplicables y las que le confiera el superior jerárquico.
+XI. Representar a la Secretaría en los juicios, diligencias de jurisdicción voluntaria, procedimientos judiciales y administrativos o en aquéllos que le encomiende el Secretario;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+XII. Fungir como Unidad de Transparencia de la Secretaría, tramitar y resolver los procedimientos administrativos en materia de información pública que sean competencia de esta Secretaría, de conformidad de (sic) la legislación aplicable;
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+XIII. Participar, a través de su titular, como miembro del Comité de Clasificación de Información Pública de la Secretaría; y
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+XIV. Las demás que le señalen otras disposiciones legales aplicables y las que le confiera el superior jerárquico.
 
 ###### Artículo 15.
 
@@ -249,6 +261,10 @@ XV. Dirigir y dictaminar los estudios de viabilidad para la adquisición e insta
 XVI. Establecer los controles y lineamientos para la adquisición, contratación o arrendamiento de bienes y servicios que se requieran, de conformidad con la normatividad aplicable; y
 
 XVII. Las demás que le señalen otras disposiciones legales aplicables y las que le confiera el superior jerárquico.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+Artículo 15 bis.- El titular de la Dirección Administrativa representará al Secretario en el Comité de Clasificación de Información Pública de la Secretaría, y lo presidirá.
 
 ### CAPÍTULO II. De la Dirección General de Desarrollo Social
 
@@ -488,7 +504,13 @@ IX. Diseñar y proponer las etapas para la formulación del Plan Estatal de Desa
 
 X. Proponer las etapas del proceso de participación de los sectores social y privado del Estado en la formulación de planes y programas de desarrollo humano;
 
-XI. Las demás que le señalen otras disposiciones legales aplicables y las que le confiera el superior jerárquico.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+XI. Participar, a través de su titular, como Secretario Técnico del Comité de Clasificación de Información Pública de la Secretaría, y
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+XII. Las demás que le señalen otras disposiciones legales aplicables y las que le confiera el superior jerárquico.
 
 ###### Artículo 28.
 
@@ -557,3 +579,17 @@ C.P. Rafael Ríos Martínez
 Secretario de Desarrollo Humano
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE OCTUBRE DE 2005.
+
+PRIMERO.- Publíquese en el Periódico Oficial "El Estado de Jalisco" el presente Acuerdo, que iniciará su vigencia a partir del día que entre en vigor el Decreto 20,867, relativo a la Ley de Transparencia e Información Pública del Estado de Jalisco.
+
+SEGUNDO.- Se deroga el acuerdo administrativo que emite la Secretaría de Promoción Económica el 01 de septiembre de 2002, relativo al procedimiento que habrá de seguirse en dicha Secretaría para la atención de solicitudes de acceso de información pública y la entrega de la misma, en los casos que conforme a la Ley de Transparencia e Información Pública del Estado proceda; publicado en el Periódico Oficial "El Estado de Jalisco" el día 23 de enero de 2003, sección III.
+
+TERCERO.- Se deroga el acuerdo DIGELAG ACU/32/2003, mediante el cual se delega en la Dirección General Jurídica de la Secretaría General de Gobierno, la facultad de tramitar y resolver los procedimientos administrativos en materia de información pública que sea competencia de la misma; publicado en el Periódico Oficial "El Estado de Jalisco" el día 20 de mayo de 2003, sección II.
+
+CUARTO.- Se deroga el acuerdo ACU/SEMADES/01/2003, mediante el cual se delega en el Director de Asuntos Jurídicos de la Secretaría. De Medio Ambiente para el Desarrollo Sustentable, la facultad de tramitar y resolver los procedimientos administrativos en materia de información pública que sean competencia de esta Secretaría; publicado en el Periódico Oficial "El Estado de Jalisco" el día 19 de julio de 2003, sección II.
+
+QUINTO.- Se derogan todas las disposiciones reglamentarias que se opongan al presente Acuerdo.
