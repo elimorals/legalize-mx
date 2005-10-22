@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-secretaria-del-trabajo-y-24988"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-28"
-last_updated: "2002-05-28"
+last_updated: "2005-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DEL TRABAJO Y PREVISION SOCIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2005.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el martes 28 de mayo de 2002.
 
@@ -450,9 +450,17 @@ VII. Vigilar el cumplimiento de las normas relativas a la industria familiar;
 
 VIII. Practicar las diligencias de notificación derivadas de las inspecciones y de aplicación de sanciones por violaciones a la legislación laboral, así como las relacionadas con los trámites correspondientes al registro de las asociaciones de trabajadores y patrones;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE OCTUBRE DE 2005)</small>
+
 IX. Verificar los estallamientos y subsistencias de huelga en los centros de trabajo;
 
-X. Las demás que le confiera su superior jerárquico y las que le señalen otros ordenamientos jurídicos aplicables.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+X. Fungir como Unidad de Transparencia de la Secretaría, tramitar y resolver los procedimientos administrativos en materia de información pública que sean competencia de esta Secretaría, de conformidad de (sic) la legislación aplicable, y
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+XI. Las demás que le confiera su superior jerárquico y las que le señalen otros ordenamientos jurídicos aplicables.
 
 ###### Artículo 30.
 
@@ -470,7 +478,9 @@ I. Coordinador General Administrativo;
 
 II. La Dirección del Servicio Estatal de Empleo; y
 
-III. La Dirección Administrativa.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+III. La Dirección Administrativa, que participará a través de su titular en la integración del Comité de Clasificación de Información Pública de la Secretaría, como Secretario Técnico.
 
 ###### Artículo 32.
 
@@ -495,6 +505,10 @@ IV. Supervisar que se proporcionen a todas las Áreas que conforman la Secretar�
 V. Mantener relaciones de trabajo con las Secretarías de Finanzas y Administración para lograr un mejor y oportuno desahogo de los pendientes que se vayan presentando en la Secretaría, relacionados con el ámbito administrativo; y
 
 VI. Las demás que le confiera su superior jerárquico y las que le señalen otros ordenamientos jurídicos aplicables.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+Artículo 33 bis.- El titular de la Coordinación General Administrativa representará al Secretario en el Comité de Clasificación de Información Pública de la Secretaría, y lo presidirá.
 
 ###### Artículo 34.
 
@@ -530,7 +544,7 @@ II. Promover y evaluar el servicio público del empleo en la Entidad;
 
 III. Vigilar el funcionamiento de las agencias de colocación en el Estado, en los términos de la Ley Federal del Trabajo;
 
-IV. Acordar con el Coordinador General Administrativo, los planes de trabajo y las acciones a desarrollar, así como el seguimiento de los mismos;
+IV. Acordar con el Coordinador General Administrativo, los planes de trabajo y las acciones a desarrollar, así como el seguimiento de los mismos; y
 
 V. Las demás que le confiera su superior jerárquico y las que le señalen otros ordenamientos jurídicos aplicables.
 
@@ -595,3 +609,15 @@ SECRETARIO GENERAL DE GOBIERNO
 LIC. LUIS VICENTE CORTÉS BAEZA
 
 SECRETARIO DEL TRABAJO Y PREVISIÓN SOCIAL
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE OCTUBRE DE 2005.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL ACUERDO DE REFORMAS QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+PRIMERO.- Publíquese en el Periódico Oficial "El Estado de Jalisco" el presente Acuerdo, que iniciará su vigencia a partir del día que entre en vigor el Decreto 20,867, relativo a la Ley de Transparencia e Información Pública del Estado de Jalisco.
+
+...
+
+QUINTO. Se derogan todas las disposiciones reglamentarias que se opongan al presente Acuerdo.
