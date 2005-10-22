@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-secretaria-general-de-gobierno-17569"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-09-12"
-last_updated: "2000-09-12"
+last_updated: "2005-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17569&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2005.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el martes 12 de septiembre de 2000.
 
@@ -199,6 +199,10 @@ VI. Dirección de Profesiones del Estado; y
 
 VII. Dirección del Archivo de Instrumentos Públicos.
 
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+Artículo 12 bis.- El titular de la Subsecretaría de Asuntos Jurídicos representará al Secretario en el Comité de Clasificación de Información Pública de la Secretaría, y lo presidirá.
+
 ###### Artículo 13.
 
 Serán atribuciones de la Dirección General de Estudios Legislativos y Acuerdos Gubernamentales, las siguientes:
@@ -245,9 +249,21 @@ II. Elaborar acuerdos administrativos emitidos por la Secretaría o por el titul
 
 III. Efectuar los acuerdos de expropiación de bienes inmuebles;
 
-IV. Dar contestación a las demandas y atender los juicios planteados en contra y por las dependencias y entidades del Poder Ejecutivo, en sus diversas materias; y
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
 
-V. Las demás que le señalen otras disposiciones legales aplicables y las que le confiera el superior jerárquico.
+IV. Dar contestación a las demandas y atender los juicios planteados en contra y por las dependencias y entidades del Poder Ejecutivo, en sus diversas materias;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+V. Fungir como Unidad de Transparencia de la Secretaria, tramitar y resolver los procedimientos administrativos en materia de información pública que sean competencia de esta Secretaría, de conformidad de la legislación aplicable;
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+VI. Participar, a través de su titular, como miembro del Comité de Clasificación de Información Pública de la Secretaría, y
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+VII. Las demás que le señalen otras disposiciones legales aplicables y las que le confiera el superior jerárquico.
 
 ###### Artículo 15.
 
@@ -259,9 +275,17 @@ II. Promover la difusión del archivo en los ámbitos culturales nacionales e in
 
 III. Crear políticas en general al interior y exterior del Archivo Histórico de Jalisco;
 
-IV. Editar los documentos más representativos de la historia de Jalisco; y
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
 
-V. Las demás que le señalen otras disposiciones legales aplicables y las que le confiera el superior jerárquico.
+IV. Editar los documentos más representativos de la historia de Jalisco;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+V. Participar, a través de su titular, como Secretario Técnico del Comité de Clasificación de Información Pública de la Secretaría, y
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+VI. Las demás que le señalen otras disposiciones legales aplicables y las que le confiera directamente el Secretario.
 
 ###### Artículo 16.
 
@@ -584,3 +608,17 @@ ING. ALBERTO CÁRDENAS JIMÉNEZ
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FERNANDO A. GUZMÁN PÉREZ PELÁEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE OCTUBRE DE 2005.
+
+PRIMERO.- Publíquese en el Periódico Oficial "El Estado de Jalisco" el presente Acuerdo, que iniciará su vigencia a partir del día que entre en vigor el Decreto 20,867, relativo a la Ley de Transparencia e Información Pública del Estado de Jalisco.
+
+SEGUNDO.- Se deroga el acuerdo administrativo que emite la Secretaría de Promoción Económica el 01 de septiembre de 2002, relativo al procedimiento que habrá de seguirse en dicha Secretaría para la atención de solicitudes de acceso de información pública y la entrega de la misma, en los casos que conforme a la Ley de Transparencia e Información Pública del Estado proceda; publicado en el Periódico Oficial "El Estado de Jalisco" el día 23 de enero de 2003, sección III.
+
+TERCERO - Se deroga el acuerdo DIGELAG ACU/32/2003, mediante el cual se delega en la Dirección General Jurídica de la Secretaría General de Gobierno, la facultad de tramitar y resolver los procedimientos administrativos en materia de información pública que sea competencia de la misma; publicado en el Periódico Oficial "El Estado de Jalisco" el día 20 de mayo de 2003, sección II.
+
+CUARTO. Se deroga el acuerdo ACU/SEMADES/01/2003, mediante el cual se delega en el Director de Asuntos Jurídicos de la Secretaría de Medio Ambiente para el Desarrollo Sustentable, la facultad de tramitar y resolver los procedimientos administrativos en materia de información pública que sean competencia de esta Secretaría; publicado en el Periódico Oficial "El Estado de Jalisco" el día 19 de julio de 2003, sección II.
+
+QUINTO. Se derogan todas las disposiciones reglamentarias que se opongan al presente Acuerdo.
