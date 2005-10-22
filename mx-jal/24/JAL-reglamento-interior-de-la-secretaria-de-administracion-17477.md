@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-secretaria-de-administracion-17477"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-07-20"
-last_updated: "2000-07-20"
+last_updated: "2005-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17477&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE ADMINISTRACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2005.
 
 Reglamento publicado en la Sección II del Periódico del Estado de Jalisco, el jueves 20 de julio de 2000.
 
@@ -155,9 +155,19 @@ XXVI. Celebrar convenios de finiquitos e indemnizaciones procedentes con el obje
 
 XXVII. Emitir las políticas y lineamientos administrativos que regulen las decisiones y acciones correspondientes de las Secretarías, Dependencias y Organismos Auxiliares, de acuerdo con los criterios dictados por el Titular del Poder Ejecutivo del Estado;
 
-XXVIII. Desconcentrar funciones y atribuciones que le correspondan a la Secretaría, a las demás Secretarías, Dependencias y Organismos Auxiliares, para un mejor servicio y simplificación administrativa; y
+XXVIII. Desconcentrar funciones y atribuciones que le correspondan a la Secretaría, a las demás Secretarías, Dependencias y Organismos Auxiliares, para un mejor servicio y simplificación administrativa; y (sic)
 
-XXIX. Las demás que le sean conferidas por el Titular del Poder Ejecutivo del Estado y por las disposiciones legales aplicables en la materia y que por su importancia requieran de su ejercicio directo.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+XXIX. Desconcentrar funciones y atribuciones que le correspondan a la Secretaría, a las demás Secretarías, Dependencias y organismos Auxiliares, para un mejor servicio y simplificación administrativa;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2005)</small>
+
+XXX. Presidir el Comité de Clasificación de Información Pública de la Secretaria, y
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+XXXI. Las demás que le sean conferidas por el Titular del Poder Ejecutivo del Estado y por las disposiciones legales aplicables en la materia y que por su importancia requieran de su ejercicio directo.
 
 ### CAPÍTULO III. De las Direcciones Generales
 
@@ -333,9 +343,19 @@ XIV. Promover la capacitación y el desarrollo de los servidores públicos que l
 
 XV. Administrar y operar el Servicio Civil de Carrera;
 
-XVI. Fincar las órdenes de adquisición de bienes y servicios, que sean autorizadas por la Comisión de Adquisiciones o por el Secretario; y
+XVI. Fincar las órdenes de adquisición de bienes y servicios, que sean autorizadas por la Comisión de Adquisiciones o por el Secretario; y (sic)
 
-XVII. Las demás que le confieran las disposiciones legales aplicables en la materia y las que le delegue el Secretario.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+XVII. Fincar las órdenes de adquisición de bienes y servicios, que sean autorizadas por la Comisión de Adquisiciones o por el Secretario;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2005)</small>
+
+XVIII. Fungir como Unidad de Transparencia del Organismo, tramitar y resolver los procedimientos administrativos en materia de información pública que sean competencia del Organismo, de conformidad de la legislación aplicable, y
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+XIX. Las demás que le confieran las disposiciones legales aplicables en la materia y las que le delegue el Secretario.
 
 ### CAPÍTULO VII. De la Dirección General de Abastecimientos
 
@@ -411,9 +431,17 @@ VIII. Propiciar la simplificación y desconcentración de la organización, los 
 
 IX. Proponer al Secretario las medidas técnicas y administrativas convenientes para la mejor organización y funcionamiento de la Secretaría;
 
-X. Fincar las órdenes de adquisición de bienes y servicios, que sean autorizadas por la Comisión de Adquisiciones o por el Secretario; y
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
 
-XI. Las demás que le confieran las disposiciones legales aplicables en la materia y las que le delegue el Secretario.
+X. Fincar las órdenes de adquisición de bienes y servicios, que sean autorizadas por la Comisión de Adquisiciones o por el Secretario;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+XI. Participar, a través de su titular, como Secretario Técnico del Comité de Clasificación de Información Pública de la Secretaría, y
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+XII. Las demás que le confieran las disposiciones legales aplicables en la materia y las que le delegue el Secretario.
 
 ### CAPÍTULO X. De la Dirección General de la Coordinación de Organismos Públicos
 
@@ -439,7 +467,7 @@ VIII. Apoyar a los organismos paraestatales en la elaboración de iniciativas y 
 
 IX. Representar a la Secretaría en las juntas de gobierno de los organismos paraestatales;
 
-X. Fincar las órdenes de adquisición de bienes y servicios, que sean autorizadas por la Comisión de Adquisiciones o por el Secretario; y,
+X. Fincar las órdenes de adquisición de bienes y servicios, que sean autorizadas por la Comisión de Adquisiciones o por el Secretario; y
 
 XI. Las demás que le confieran las disposiciones legales aplicables en la materia y las que le delegue el Secretario.
 
@@ -526,3 +554,17 @@ LIC. FERNANDO A. GUZMAN PEREZ PELAEZ
 EL C. SECRETARIO DE ADMINISTRACION
 
 C. CESAR L. COLL CARABIAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE OCTUBRE DE 2005.
+
+PRIMERO.- Publíquese en el Periódico Oficial "El Estado de Jalisco" el presente Acuerdo, que iniciará su vigencia a partir del día que entre en vigor el Decreto 20,867, relativo a la Ley de Transparencia e Información Pública del Estado de Jalisco.
+
+SEGUNDO.- Se deroga el acuerdo administrativo que emite la Secretaría de Promoción Económica el 01 de septiembre de 2002, relativo al procedimiento que habrá de seguirse en dicha Secretaría para la atención de solicitudes de acceso de información pública y la entrega de la misma, en los casos que conforme a la Ley de Transparencia e Información Pública del Estado proceda; publicado en el Periódico Oficial "El Estado de Jalisco" el día 23 de enero de 2003, sección III.
+
+TERCERO.- Se deroga el acuerdo DIGELAG ACU/32/2003, mediante el cual se delega en la Dirección General Jurídica de la Secretaría General de Gobierno, la facultad de tramitar y resolver los procedimientos administrativos en materia de información pública que sea competencia de la misma; publicado en el Periódico Oficial "El Estado de Jalisco" el día 20 de mayo de 2003, sección II.
+
+CUARTO.- Se deroga el acuerdo ACU/SEMADES/01/2003, mediante el cual se delega en el Director de Asuntos Jurídicos de la Secretaría de Medio Ambiente para el Desarrollo Sustentable, la facultad de tramitar y resolver los procedimientos administrativos en materia de información pública que sean competencia de esta Secretaría; publicado en el Periódico Oficial "El Estado de Jalisco" el día 19 de julio de 2003, sección II.
+
+QUINTO.- Se derogan todas las disposiciones reglamentarias que se opongan al presente Acuerdo.
