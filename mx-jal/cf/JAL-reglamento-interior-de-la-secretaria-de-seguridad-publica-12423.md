@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-secretaria-de-seguridad-publica-12423
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-08-13"
-last_updated: "1998-08-13"
+last_updated: "2005-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12423&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA, PREVENCION Y READAPTACION SOCIAL DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2005.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 13 de agosto de 1998.
 
@@ -107,7 +107,7 @@ El Secretario tendrá las siguientes facultades:
 
 I.- Emitir las disposiciones, reglas y bases de carácter general, normas, lineamientos y políticas en el ejercicio de las atribuciones que conforme a las Leyes competen a la dependencia, así como fijar, dirigir y controlar la política de la Secretaría, coordinar la planeación, vigilancia y evaluación de la operación de las unidades administrativas que la integran, de conformidad con las políticas estatales, objetivos y metas que determinen el C. Gobernador del Estado y la Secretaría de Administración;
 
-II.- Someter al Acuerdo del Gobernador los asuntos encomendados a la Secretaría que así lo ameriten, desempeñar las comisiones y funciones que éste le confiera y mantenerlo informado sobre el desarrollo de las mismas;
+II.- Someter al Acuerdo del Gobernador los asuntos encomendados a la Secretaría que así lo ameriten, desempeñar las comisiones y funciones que éste le confiere y mantenerlo informado sobre el desarrollo de las mismas;
 
 III.- Proponer al Gobernador, en el ámbito de la competencia de la Secretaría, los proyectos de Leyes, Reglamentos, Decretos, Acuerdos, Ordenes y demás normas jurídicas;
 
@@ -165,9 +165,21 @@ XXIX.- Fomentar la cultura preventiva y la participación de la población en lo
 
 XXX.- Promover y asesorar, en el ámbito de su competencia, a los comités y organizaciones de la población, respecto de programas y acciones en materia de prevención y combate al delito;
 
-XXXI.- Establecer programas y acciones en coordinación con organismos públicos, privados y sociales tendientes a la prevención del delito, así como la reincidencia de liberados, preliberados o que deban ejecutar algún substitutivo penal; y
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
 
-XXXII.- Las demás que le confieran las disposiciones aplicables y las que le confiera el Gobernador del Estado.
+XXXI.- Establecer programas y acciones en coordinación con organismos públicos, privados y sociales tendientes a la prevención del delito, así como la reincidencia de liberados, preliberados o que deban ejecutar algún substitutivo penal;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+XXXII.- Designar como titular e integrantes de la Unidad de Transparencia de la Secretaría, a servidores públicos actualmente adscritos a aquélla;
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+XXXIII.- Presidir el Comité de Clasificación de Información Pública de la Secretaría, y
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+XXXIV.- Las demás que le confieran las disposiciones aplicables y las que le confiera el Gobernador del Estado.
 
 ###### Artículo 7.
 
@@ -179,9 +191,17 @@ II. Inspección General de Policía;
 
 III. Coordinación General de Asesores;
 
-IV. Dirección de Prensa y Relaciones Públicas y
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
 
-V. Dirección de Proyectos Especiales.
+IV. Dirección de Prensa y Relaciones Pública (sic);
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+V. Dirección de Proyectos Especiales, y
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+VI. Unidad de Transparencia, que tramitará y resolverá los procedimientos administrativos en materia de información pública que sean competencia de esta Secretaría, de conformidad con la legislación aplicable.
 
 ### CAPÍTULO III. De los Directores Generales y Directores
 
@@ -320,6 +340,10 @@ XIX.- Autorizar la emisión de información y validación de reportes, boletines
 XX.- Identificar y evaluar las características delictivas de las regiones geográficas de su competencia; y
 
 XXI.- Las demás que señalen otras disposiciones legales o le confiera el Titular de la Secretaría, así como las que competan a las unidades que se le adscriban.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+Artículo 11 bis.- El titular de la Dirección General de Estadística y Política Criminal, suplirá en sus ausencias al Secretario en el Comité de Clasificación de Información Pública de la Secretaría y lo presidirá.
 
 ### CAPÍTULO VII. De la Dirección General de Prevención y Readaptación Social
 
@@ -569,6 +593,10 @@ XIII.- Participar en la elaboración de acuerdos, contratos y convenios con enti
 
 XIV.- Las demás funciones que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera el Titular del Ramo.
 
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+Artículo 17 bis.- La Dirección (sic) Área de lo Legislativo dependiente de la Dirección General Jurídica participará en la integración del Comité de Clasificación de Información Pública de la Secretaría, ejerciendo la función de Secretario Técnico.
+
 ### CAPÍTULO XIII. De la Inspección General de Policía
 
 ###### Artículo 18.
@@ -607,9 +635,17 @@ XIII.- Mantener comunicación permanente con otras Instituciones para el desarro
 
 XIV.- Desarrollar los sistemas de premios, estímulos y recompensas, en coordinación con las unidades administrativas responsables;
 
-XV.- Vigilar que durante el desarrollo de sus actuaciones, la policía se apegue a los principios de ética, legalidad, eficiencia, profesionalismo, honradez y de actuación que establece la Ley de Seguridad Pública del Estado y las demás disposiciones aplicables; y
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
 
-XVI.- Las demás que le señalen las disposiciones aplicables, las que le confiera el Secretario y las que correspondan a las unidades administrativas que se le adscriban.
+XVI (SIC).- Vigilar que durante el desarrollo de sus actuaciones, la policía se apegue a los principios de ética, legalidad, eficiencia, profesionalismo, honradez y de actuación que establece la Ley de Seguridad Pública del Estado y las demás disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+XVII.- Participar, a través de su titular, como miembro del Comité de Clasificación de Información Pública de la Secretaría, y
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+XVIII.- Las demás que le señalen las disposiciones aplicables, las que le confiera el Secretario y las que correspondan a las unidades administrativas que se le adscriban.
 
 ### CAPÍTULO XIV. De la Dirección General del Centro Integral de Comunicaciones
 
@@ -732,3 +768,15 @@ EL SECRETARIO GENERAL DE GOBIERNO EL SECRETARIO DE SEGURIDAD PÚBLICA, PREVENCI�
 LIC. FERNANDO A. GUZMÁN PÉREZ PELÁEZ
 
 C. DANIEL GUILLERMO ITUARTE REYNAUD
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE OCTUBRE DE 2005.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL ACUERDO DE REFORMAS QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+PRIMERO.- Publíquese en el Periódico Oficial "El Estado de Jalisco" el presente Acuerdo, que iniciará su vigencia a partir del día que entre en vigor el Decreto 20,867, relativo a la Ley de Transparencia e Información Pública del Estado de Jalisco.
+
+...
+
+QUINTO.- Se derogan todas las disposiciones reglamentarias que se opongan al presente Acuerdo.
