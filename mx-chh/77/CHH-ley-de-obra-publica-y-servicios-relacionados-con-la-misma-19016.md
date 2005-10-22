@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-19016
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-23"
-last_updated: "2005-05-18"
+last_updated: "2005-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19016&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE OBRA PUBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2005.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de diciembre del 2000.
 
@@ -308,6 +308,10 @@ XV. Las demás previsiones que deban tomarse en cuenta según la naturaleza, ubi
 Todo Ente Público estará obligado a prever los efectos sobre el medio ambiente que pueda causar la ejecución de la obra pública, con sustento en los estudios de impacto ambiental previstos por la Ley Ecológica para el Estado de Chihuahua.
 
 Los proyectos deberán incluir las obras necesarias para que se preserven o restauren las condiciones ambientales cuando estas puedan deteriorarse, y se dará la intervención que corresponda a las dependencias federales, estatales y municipales que tengan atribuciones en la materia.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2005)</small>
+
+Atendiendo y aplicando, en los casos de edificaciones no residenciales, lo estipulado por la Norma Oficial Mexicana NOM-008-ENER-2001 de “Eficiencia Energética en Edificaciones Envolvente de Edificios no Residenciales”, sin perjuicio de otras aplicables para los proyectos de esta naturaleza.
 
 ###### ARTICULO 20.
 
@@ -983,7 +987,7 @@ Los Municipios, sus Organismos Públicos Descentralizados, las Empresas de Parti
 
 > <small>(ADICIONADO, P.O. 18 DE MAYO DE 2005)</small>
 
-Los municipios garantizarán que el contrato se adjudique preferentemente con personas físicas o morales debidamente constituidas, residentes en la localidad o lugar donde deba ejecutarse la obra y que se encuentren al corriente de sus obligaciones fiscales, siempre y cuando cuenten con capacidad de respuesta inmediata y ofrezcan las mejores condiciones en cuanto a precio, pago, financiamiento y oportunidad en el cumplimiento y no se encuentren en lo supuestos del artículo 42; así como asegurar que la obra no se fraccionará para quedar en los supuestos del artículo 43 de la misma Ley.
+Los municipios garantizarán que el contrato se adjudique preferentemente con personas físicas o morales debidamente constituidas, residentes en la localidad o lugar donde deba ejecutarse la obra y que se encuentren al corriente de sus obligaciones fiscales, siempre y cuando cuenten con capacidad de respuesta inmediata y ofrezcan las mejores condiciones en cuanto a precio, pago, financiamiento y oportunidad en el cumplimiento y no se encuentre en los supuestos del artículo 42; así como asegurar que la obra no se fraccionará para quedar en los supuestos del artículo 43 de la misma Ley.
 
 > <small>(ADICIONADO, P.O. 18 DE MAYO DE 2005)</small>
 
@@ -1412,3 +1416,7 @@ P.O. 18 DE MAYO DE 2005.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE OCTUBRE DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
