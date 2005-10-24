@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-la-ley-del-equilibrio-ecologico-y-proteccion-3957
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-05-17"
-last_updated: "2004-05-17"
+last_updated: "2005-10-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39572&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 REGLAMENTO DE LA LEY DEL EQUILIBRIO ECOLOGICO Y PROTECCION AL AMBIENTE DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2005.
 
 Reglamento publicado en el Periódico Oficial del Estado de Michoacán, el lunes 17 de mayo de 2004.
 
@@ -42,6 +42,10 @@ REGLAMENTO DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL EST
 ###### Artículo 1°.
 
 El presente ordenamiento es de orden público e interés social y tiene por objeto reglamentar las disposiciones que en materia de impacto ambiental, aprovechamiento de bancos pétreos, manejo y disposición de residuos sólidos, actividades que no se consideran altamente riesgosas, declaración de áreas naturales protegidas, aprovechamiento, prevención y control de la contaminación atmosférica y de aguas, establece la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Michoacán de Ocampo.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2005)</small>
+
+A falta de disposición expresa en este ordenamiento, serán aplicables de manera supletoria, las disposiciones contenidas en el Código de Procedimientos Civiles vigente en el Estado.
 
 ###### Artículo 2°.
 
@@ -1401,7 +1405,9 @@ II. Establecer en coordinación con las autoridades competentes, programas de ve
 
 III. Establecer y operar o, en su caso, otorgar permisos para el establecimiento, equipamiento y operación de centros de verificación vehicular, de acuerdo a las Normas Oficiales Mexicanas aplicables;
 
-IV. Integrar el Padrón de Centros de Verificación Vehicular concesionados para operar en el Estado;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2005)</small>
+
+IV. Integrar el padrón de Centros de Verificación autorizados para operar en el Estado;
 
 V. Determinar, las tarifas por los servicios de verificación vehicular;
 
@@ -1431,15 +1437,21 @@ El Programa de Verificación Vehicular es obligatorio para los vehículos automo
 
 Los vehículos nuevos contarán con un plazo máximo de dos años, para ser incorporados a la verificación vehicular, en los términos que establezca el Programa.
 
-Quedan exceptuados de la verificación vehicular los vehículos accidentados que lo acrediten con los documentos expedidos por la autoridad competente y aquellos determinados en el Programa.
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2005)</small>
+
+Quedan exceptuados de la verificación vehicular los vehículos determinados en el Programa.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 109.
 
-Los propietarios o legales poseedores de vehículos automotores, registrados en el Estado, están obligados a realizar dos verificaciones al año, las que se efectuarán en cualquiera de los centros de verificación vehicular instalados en el interior del Estado.
+Los propietarios o conductores de vehículos automotores, registrados en el Estado, están obligados a realizar dos verificaciones al año, las que se efectuarán en cualquiera de los Centros de Verificación Vehicular autorizados en el Estado.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 110.
 
-Los propietarios o legales poseedores de automotores registrados en otras entidades federativas y los vehículos extranjeros que se encuentren temporalmente circulando por el territorio del Estado y que carezcan de la verificación, podrán verificar voluntariamente en cualquier centro de verificación vehicular autorizado.
+Los propietarios y conductores de vehículos automotores registrados en otras entidades federativas y los vehículos extranjeros que se encuentren temporalmente circulando por el territorio del Estado, podrán verificar voluntariamente en cualquier Centro de Verificación Vehicular autorizado, previo pago del servicio.
 
 ###### Artículo 111.
 
@@ -1455,19 +1467,27 @@ La Secretaría, la Dirección de Seguridad Pública y Tránsito, la Comisión Co
 
 La verificación vehicular obligatoria se realizará de conformidad al calendario que para tal efecto se señale en el Programa y deberá publicarse en el Periódico Oficial del Estado.
 
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2005)</small>
+
+El calendario de verificación vehicular, podrá ser modificado, previo acuerdo del titular de la Secretaría. Las modificaciones al calendario deberán publicarse en el Periódico Oficial del Estado y en un diario de mayor circulación en el Estado.
+
 ###### Artículo 114.
 
-Los propietarios de vehículos automotores usados que se registren por primera vez en el Estado, deberán realizar la verificación vehicular obligatoria dentro de los treinta días siguientes a la fecha de registro de la unidad.
+(DEROGADO, P.O. 24 DE OCTUBRE DE 2005)
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 115.
 
-Los propietarios que efectúen cambios de placas de vehículos registrados en el Estado, se ajustarán a lo dispuesto en el presente Reglamento.
+Los propietarios de vehículos automotores que efectúen cambio de placas de vehículos registrados en el Estado se ajustarán a lo dispuesto por el Programa.
 
 #### SECCIÓN III. DE LOS CENTROS DE VERIFICACIÓN VEHICULAR
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2005)</small>
+
 ###### Artículo 116.
 
-Los interesados en obteVehicular (sic), deberán presentar solicitud por escrito que deberá contener el nombre o razón social y el domicilio del solicitante; al escrito de solicitud se adjuntará:
+Los permisos para instalar y operar centros de verificación vehicular se otorgarán mediante convocatoria pública, debiendo presentar propuestas técnicas que contengan el nombre o razón social y el domicilio del solicitante, número de fax, y en su caso, la dirección de correo electrónico; a las propuestas se adjuntarán los documentos siguientes:
 
 I. Copia certificada del Registro Federal de Contribuyentes;
 
@@ -1485,13 +1505,17 @@ VII. Carta compromiso señalando que en caso de ser permitida la instalación de
 
 VIII. Carta compromiso del depósito de fianza equivalente a tres mil veces el salario mínimo vigente en el Estado, en caso de ser autorizado el permiso.
 
-La Secretaría resolverá sobre el otorgamiento de permisos para establecer Centros de Verificación Vehicular, de entre aquellas solicitudes que cumplan con los requisitos que establecen el presente Reglamento, el Programa y la convocatoria que al efecto se expida.
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2005)</small>
+
+La Secretaría otorgará permisos para instalar y operar centros de verificación vehicular, a propuestas técnicas que cumplan los requisitos que se establecen en el Presente Reglamento, el Programa y la Convocatoria que al efecto se expida, de acuerdo al número de centros de verificación vehicular que se determinen en dicha convocatoria.
 
 Los interesados podrán interponer el recurso de inconformidad establecido por el artículo 190 y subsecuentes de la Ley, en contra de la resolución emitida por la Secretaría, en caso de considerarlo procedente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2005)</small>
+
 ###### Artículo 117.
 
-Quienes obtengan permiso para establecer Centros de Verificación Vehicular, deberán satisfacer los siguientes requisitos en un plazo de treinta días hábiles a partir de la fecha de notificación de dicho permiso:
+Quienes obtengan permiso para establecer centros de verificación vehicular deberán satisfacer, previo al inicio de operaciones, los siguientes requisitos:
 
 I. Entregar a la Secretaría la relación con nombre y firma del personal técnico adscrito al Centro de Verificación Vehicular autorizado;
 
@@ -1499,33 +1523,59 @@ II. Entregar a la Secretaría las autorizaciones de los trámites relativos a us
 
 III. Cubrir el importe de los derechos fiscales por concepto de otorgamiento de permisos para establecer el centro de verificación vehicular.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2005)</small>
+
 ###### Artículo 118.
 
-Los centros de verificación vehicular autorizados, deberán iniciar sus operaciones en un plazo que no rebase los treinta días hábiles a partir de la fecha de la expedición del permiso correspondiente.
+Los centros de verificación vehicular autorizados, deberán iniciar sus operaciones en la fecha que determine la Secretaría.
 
 ###### Artículo 119.
 
 El permiso de los Centros de Verificación Vehicular tendrá una vigencia de cinco años y podrá renovarse a solicitud del interesado, previo dictamen técnico de su desempeño que emita la Secretaría. El permiso para establecer un Centro de Verificación Vehicular, será personal y no podrá ser explotado por personas diferentes a su titular.
 
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2005)</small>
+
+Artículo 119 bis.- Son causas de terminación de los permisos para operar centros de verificación vehicular, las siguientes:
+
+I. Que lo solicite el permisionario;
+
+II. Que fallezca el permisionario;
+
+III. Que se disuelva la persona moral;
+
+IV. Que se cumpla el término por el que fue concedido; y,
+
+V. Por causas de fuerza mayor, entendidas éstas como los acontecimientos que están fuera del dominio de la voluntad del permisionario, que no hayan podido ser previstos o aún siéndolo no pudieron haberse evitado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2005)</small>
+
 ###### Artículo 120.
 
-Los Centros de Verificación Vehicular deberán cumplir con las especificaciones que dicte la Secretaría, en cuanto a zonificación y uso del suelo, para lo cual deberán contar con licencia de funcionamiento expedida por la autoridad competente y demás trámites que se requieran, y deberán establecerse en la superficie que establezca el Programa.
+Los permisionarios de los Centros de Verificación Vehicular, deberán cumplir con las especificaciones que dicte la Secretaría, en cuanto a zonificación y uso del suelo para lo cual deberán contar con licencia de funcionamiento expedida por la autoridad competente y demás trámites que se requieran, y deberán establecerse en la superficie que establezca el Programa.
 
 En las instalaciones de los Centros de Verificación Vehicular, deberá cumplirse con las especificaciones que sobre imagen y diseño determine el Programa, así como con los requerimientos sobre el equipamiento y espacios que establezca el Programa.
 
-En caso de que el Centro de Verificación Vehicular requiera cambiar de domicilio o de representante legal, deberá solicitar autorización a la Secretaría.
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2005)</small>
+
+En caso de que el permisionario requiera cambiar el domicilio del Centro de Verificación Vehicular, deberá solicitar autorización a la Secretaría.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 121.
 
-La fianza que están obligados a depositar los permisionarios de los Centros de Verificación Vehicular, deberá ser expedida por una institución autorizada, a favor de la Tesorería General del Estado y a disposición de la Secretaría, para garantizar el buen desempeño de los Centros de Verificación Vehicular, así como el uso adecuado de los certificados de baja emisión de contaminantes, hologramas y constancias de rechazo que le sean otorgados por la misma Secretaría.
+La fianza que están obligados a depositar los permisionarios de los Centros de Verificación Vehicular, equivalente a tres mil veces el salario mínimo vigente en el Estado, se tendrá que renovar anualmente por los permisionarios, mientras continúe vigente el permiso, y deberá ser expedida por una institución autorizada, a favor de la Tesorería General y a disposición de la Secretaría, para garantizar el buen desempeño del Centro de Verificación Vehicular, así como el uso adecuado de los certificados, hologramas y constancias que le sean otorgados por la misma Secretaría.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 122.
 
-Los Centros de Verificación Vehicular deberán contar con facturas que cumplan con los requisitos fiscales correspondientes, que serán proporcionadas al momento de recibir el pago por los servicios prestados.
+Los permisionarios de los centros de verificación vehicular deberán contar con facturas que cumplan con los requisitos fiscales correspondientes, que serán proporcionadas a los propietarios o conductores de vehículos, al momento de recibir el pago por los servicios prestados.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 123.
 
-Los Centros de Verificación Vehicular autorizados, deberán acreditar la propiedad o legal posesión de los equipos a utilizar, para realizar los trabajos de verificación, dichos equipos deberán ser los que señale la Secretaría en el Programa.
+Los permisionarios de los Centros de Verificación Vehicular, deberán acreditar la propiedad o legal posesión de los equipos a utilizar, para realizar los trabajos de verificación vehicular, dichos equipos deberán ser los que señale el Programa.
 
 ###### Artículo 124.
 
@@ -1539,9 +1589,11 @@ Los equipos de verificación con los que se realizará el servicio de verificaci
 
 Los Centros de Verificación Vehicular operarán en el horario comprendido de las 08:00 ocho a las 20:00 veinte horas de lunes a sábado; no obstante, dicho horario podrá modificarse según la demanda del servicio, previa autorización de la Secretaría.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2005)</small>
+
 ###### Artículo 126.
 
-Los Centros de Verificación Vehicular podrán efectuar los trabajos de verificación vehicular exclusivamente en sus instalaciones, solicitando al usuario el certificado de verificación anterior o el comprobante de la multa y la tarjeta de circulación correspondientes al vehículo que se verifica, para la captura de sus datos en el equipo de cómputo del analizador de gases, y se asegurarán que éstos coincidan y que el vehículo porte las placas señaladas en la misma tarjeta de circulación.
+El personal autorizado de los centros de verificación vehicular deberá efectuar los trabajos de verificación vehicular exclusivamente en sus instalaciones, solicitando al propietario o conductor del vehículo el certificado de verificación anterior o el comprobante de la multa en su caso, y la tarjeta de circulación correspondiente al vehículo que se verifica, para la captura de sus datos en el equipo de cómputo del analizador de gases, y se asegurará que éstos coincidan y que el vehículo porte las placas señaladas en la misma tarjeta de circulación.
 
 ###### Artículo 127.
 
@@ -1555,15 +1607,19 @@ Los trabajos de verificación vehicular deberán efectuarse exclusivamente por e
 
 El personal técnico del Centro de Verificación Vehicular está obligado sin excepción alguna, a colocar directamente en un lugar visible el holograma de baja emisión de contaminantes, al vehículo que haya cumplido satisfactoriamente con los límites permisibles.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2005)</small>
+
 ###### Artículo 130.
 
-En los casos de vehículos que no aprueben la verificación, el Centro de Verificación Vehicular notificará al usuario mediante una constancia de rechazo los puntos de incumplimiento detectados, contando éste con un plazo de quince días para corregir los desperfectos señalados y someter al vehículo a una segunda verificación en el mismo Centro de Verificación Vehicular, sin costo adicional.
+En los casos de vehículos que no aprueben la verificación vehicular, el personal técnico del Centro de Verificación Vehicular notificará al propietario o conductor del vehículo, mediante una constancia de rechazo, los puntos de incumplimiento detectados, contando éste con un plazo de quince días para corregir los desperfectos señalados y someter al vehículo a una segunda verificación en el mismo Centro de Verificación Vehicular, sin costo adicional.
 
 Si la segunda verificación nuevamente no es aprobada y el vehículo es presentado una tercera vez a verificar, ésta tendrá el costo de la tarifa establecida en el Programa, siendo aplicable el criterio señalado en el párrafo anterior, de tal manera que los intentos de verificación pares serán gratuitos, mientras que los intentos nones se realizarán previo pago del importe de la tarifa por el servicio de verificación vehicular.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2005)</small>
+
 ###### Artículo 131.
 
-Los responsables de los Centros de Verificación Vehicular, tienen la obligación de enviar para su capacitación al personal técnico que operará los equipos que se requieren. Además de la capacitación que ofrecen los fabricantes y los establecimientos autorizados para la venta de equipos del modelo requerido, la Secretaría podrá requerir la capacitación por parte de instituciones acreditadas en la materia.
+Los permisionarios de los Centros de Verificación Vehicular, tienen la obligación de enviar para su capacitación al personal técnico que operará los equipos que se requieren. Además de la capacitación que ofrecen los fabricantes y los establecimientos autorizados para la venta de equipos del modelo requerido, la Secretaría podrá requerir la capacitación por parte de instituciones acreditadas en la materia.
 
 ###### Artículo 132.
 
@@ -1597,29 +1653,45 @@ IX. Las demás que determine la Secretaría.
 
 Los datos asentados en los certificados de baja emisión de contaminantes, deberán ser llenados exclusivamente en el equipo de cómputo del analizador de gases con el que se opera. Los certificados no serán válidos si presentan tachaduras, enmendaduras o algún otro dato adicional.
 
-Una de las copias del certificado se entregará al usuario del vehículo, quien lo conservará hasta el siguiente periodo de verificación vehicular, para entregarlo al Centro de Verificación Vehicular con el fin de obtener el nuevo certificado.
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2005)</small>
+
+Una de las copias del certificado se entregará al propietario o conductor del vehículo, quien lo conservará hasta el siguiente periodo de verificación vehicular, para entregarlo al Centro de Verificación Vehicular con el fin de obtener el nuevo certificado con holograma.
 
 La segunda copia del certificado será remitida, mediante informe mensual a la Secretaría, o antes si el Centro de Verificación Vehicular requiere reabastecerse de certificados para seguir operando; a esta segunda copia deberá acompañarse el certificado correspondiente a la verificación vehicular anterior o el comprobante del pago de la multa, y copia de la tarjeta de circulación del vehículo que corresponda.
 
-La tercera copia del certificado se quedará en el Centro de Verificación Vehicular para resguardo y aclaraciones de toda índole, relacionadas con el servicio de verificación; así como para la emisión de fotocopias del mismo en caso de extravío del certificado del usuario del vehículo, haciendo constar que es copia fiel de los certificados que obran en sus archivos.
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2005)</small>
+
+La tercera copia del certificado se quedará en el Centro de Verificación Vehicular para resguardo y aclaraciones de toda índole, relacionadas con el servicio de verificación; así como para la emisión de copias simples del mismo en caso de extravío del certificado del propietario o conductor del vehículo, haciendo constar que es copia fiel de los certificados que obran en sus archivos.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2005)</small>
+
+En caso de pérdida o destrucción del holograma, el propietario podrá solicitar su reposición en el Centro de Verificación Vehicular donde realizó la verificación, previa autorización de la Secretaría y pago del costo del holograma, el personal autorizado del Centro de Verificación Vehicular comprobará documental y físicamente que se trata del mismo vehículo, y colocará el holograma.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 135.
 
-El Centro de Verificación Vehicular podrá adquirir nuevos hologramas, certificados de baja emisión de contaminantes y constancias de rechazo, exclusivamente ante la Secretaría, siempre y cuando compruebe haber expedido el ochenta por ciento de la papelería oficial en su poder. La solicitud deberá formularse en papel oficial del centro de verificación vehicular, con los requisitos de seguridad que determine la propia Secretaría.
+El permisionario del Centro de Verificación Vehicular deberá adquirir nuevos hologramas, certificados de baja emisión de contaminantes y constancias de rechazo, exclusivamente en la Secretaría, siempre y cuando compruebe haber expedido el ochenta por ciento de la papelería oficial en su poder. La solicitud deberá formularse en papel oficial del Centro de Verificación Vehicular, con los requisitos de seguridad que determine la propia Secretaría.
 
 Dicha solicitud se presentará por escrito anexando el informe sobre el estado de expedición de certificados y constancias de rechazo en su poder, así como el certificado vigente de calibración de los equipos de verificación, expedido por los laboratorios acreditados en términos de la Ley Federal sobre Metrología y Normalización.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2005)</small>
+
 ###### Artículo 136.
 
-Los certificados de baja emisión de contaminantes y sus hologramas, podrán ser adquiridos por parte de los Centros de Verificación Vehicular autorizados en un máximo de un mil formas y un mínimo de cien, al costo que establezca la Ley de la materia, cantidad que se pagará en las oficinas recaudadoras de ingresos, dependientes de la Tesorería General del Estado.
+Los certificados de baja emisión de contaminantes y sus hologramas, deberán ser adquiridos por los permisionarios de los Centros de Verificación Vehicular autorizados en un máximo de un mil formas y un mínimo de cien, al costo que establezca la Ley de la materia, cantidad que se pagará en las oficinas recaudadoras de ingresos de la Tesorería General.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 137.
 
-La adquisición de las constancias de rechazo por parte del Centro de Verificación Vehicular, será de un mínimo de cien formas al costo que establezca la Ley de la materia, cantidad que se pagará en las oficinas recaudadoras de ingresos, dependientes de la Tesorería General del Estado.
+La adquisición de las constancias de rechazo por los permisionarios de los Centros de Verificación Vehicular, será de un mínimo de cien formas al costo que establezca la Ley de la materia, cantidad que se pagará en las oficinas recaudadoras de ingresos de la Tesorería General.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 138.
 
-Los Centros de Verificación Vehicular rendirán a la Secretaría, un informe mensual dentro de los primeros cinco días hábiles del mes inmediato posterior, sobre el estado que guarda la expedición de certificados de verificación y constancias de rechazo, empleando el formato oficial establecido para tal fin, debiendo anexar lo siguiente:
+Los permisionarios de los Centros de Verificación Vehicular rendirán a la Secretaría, un informe mensual dentro de los primeros cinco días hábiles del mes inmediato posterior, sobre el estado que guarda la expedición de certificados de verificación y constancias de rechazo, empleando el formato oficial establecido para tal fin, debiendo anexar lo siguiente:
 
 I. La relación de los certificados de baja emisión de contaminantes vigentes y no utilizados, acompañados por la copia de los certificados emitidos y las copias de las tarjetas de circulación;
 
@@ -1627,13 +1699,17 @@ II. Tratándose de verificaciones realizadas fuera del plazo señalado, además 
 
 III. En el caso de certificados de baja emisión de contaminantes que requieran ser cancelados, se agregará el certificado por triplicado al informe, junto con su holograma correspondiente.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2005)</small>
+
 ###### Artículo 139.
 
-En caso de que la Secretaría detecte el manejo inadecuado de los hologramas y certificados de baja emisión de contaminantes por parte de los permisionarios, se cancelará el permiso otorgado y se hará efectiva la fianza.
+En caso de que la Secretaría, detecte el manejo inadecuado de los hologramas y certificados de baja emisión de contaminantes por parte de los permisionarios, se revocará el permiso otorgado y se hará efectiva la fianza.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 140.
 
-Queda prohibido que los Centros de Verificación Vehicular autorizados expidan certificados de verificación, hologramas y constancias de rechazo que pertenezcan a otros centros de verificación vehicular.
+Queda prohibido que los permisionarios y el personal de los Centros de Verificación Vehicular autorizados expidan certificados de verificación, hologramas y constancias de rechazo que pertenezcan a otros Centros de Verificación Vehicular.
 
 #### SECCIÓN VI. DE LAS OBLIGACIONES DE LOS PROPIETARIOS DE VEHÍCULOS SUJETOS A VERIFICACIÓN VEHICULAR
 
@@ -1651,21 +1727,29 @@ IV. El pago de la tarifa autorizada y en su caso el comprobante de pago de la mu
 
 ###### Artículo 142.
 
-Los vehículos que fueron dados de baja en otras entidades federativas, lo acreditarán con copia del documento de baja de placas y tarjeta de circulación por asignación nuevamente de éstas en la Entidad.
+(DEROGADO, P.O. 24 DE OCTUBRE DE 2005)
 
-#### SECCIÓN VII. DE LAS OBLIGACIONES DE LOS CENTROS DE VERIFICACIÓN VEHICULAR
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE OCTUBRE DE 2005)</small>
+
+#### SECCIÓN VII. DE LAS OBLIGACIONES DE LOS PERMISIONARIOS DE LOS CENTROS DE VERIFICACIÓN VEHICULAR
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 143.
 
-Los Centros de Verificación Vehicular autorizados para funcionar, tendrán las siguientes obligaciones:
+Los permisionarios de los Centros de Verificación Vehicular, tendrán las siguientes obligaciones:
 
 I. Realizar la prueba de verificación vehicular con apego a las Normas Oficiales Mexicanas aplicables y señaladas en el Programa;
 
 II. Exigir en su caso el comprobante del pago de multa por falta de verificación vehicular del o de los periodos anteriores;
 
-III. Proporcionar el certificado de baja emisión de contaminantes al propietario del vehículo que haya aprobado la verificación vehicular, y colocar el holograma en un lugar visible del vehículo verificado;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2005)</small>
 
-IV. Proporcionar la constancia de rechazo al propietario del vehículo que no haya aprobado la verificación vehicular, y otorgar el plazo único de quince días para efectuar una segunda verificación sin costo;
+III. Proporcionar el certificado de baja emisión de contaminantes al propietario o conductor del vehículo que haya aprobado la verificación vehicular y colocar el holograma en un lugar visible del vehículo verificado;
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2005)</small>
+
+IV. Proporcionar la constancia de rechazo al propietario o conductor del vehículo que no haya aprobado la verificación vehicular, e informar al propietario o conductor del plazo de quince días para efectuar una segunda verificación sin costo;
 
 V. Brindar el mantenimiento preventivo adecuado a los equipos analizadores, de manera que todo el equipo se encuentre siempre en óptimas condiciones de uso, además el equipo deberá encontrarse herméticamente sellado;
 
@@ -1679,11 +1763,15 @@ IX. Ser responsable del manejo de los certificados de baja emisión de contamina
 
 #### SECCIÓN VIII. DEL PAGO DE LOS SERVICIOS DE VERIFICACIÓN VEHICULAR
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2005)</small>
+
 ###### Artículo 144.
 
-La tarifa que pagará el propietario del vehículo por los servicios de la verificación vehicular en todos los municipios del Estado será la que establece el Programa.
+La tarifa que pagará el propietario o conductor del vehículo por los servicios de la verificación vehicular en el Estado, será la que establezca el Programa.
 
-Si la verificación es extemporánea además del costo señalado en el párrafo anterior, deberá pagar la multa establecida en el presente Reglamento.
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2005)</small>
+
+Si la verificación es extemporánea, además de la tarifa señalada en el párrafo anterior, el propietario o conductor del vehículo deberá pagar la multa establecida en el presente Reglamento.
 
 Toda verificación causará el pago de la tarifa respectiva, independientemente del resultado de medición de gases contaminantes o inspección visual, excepto las verificaciones pares contempladas en el presente Reglamento.
 
@@ -2353,21 +2441,45 @@ La Secretaría fomentará la vigilancia social participativa con grupos sociales
 
 ## TÍTULO DÉCIMO SEGUNDO. DE LAS SANCIONES
 
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2005)</small>
+
+### CAPÍTULO PRIMERO. DE LAS SANCIONES EN GENERAL
+
+(REUBICADO Y REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2005)
+
 ###### Artículo 224.
 
-Las infracciones de carácter administrativo cometidas a la Ley y al presente Reglamento, serán sancionadas por la Secretaría y las autoridades municipales en el ámbito de su competencia según corresponda, en los términos del Título Sexto de la Ley.
+Las infracciones cometidas a las disposiciones contenidas en la Ley y en el presente Reglamento, serán sancionadas por la Secretaría y las autoridades municipales en el ámbito de su competencia según corresponda, en los términos del Título cuarto de la Ley.
 
-Cuando haya vencido el plazo concedido por la autoridad para subsanar la o las infracciones que se hubieren cometido, resultare que dicha infracción o infracciones aún subsisten, podrán imponerse multas por cada día que transcurra sin obedecer el mandato de la Secretaría, sin que el total de las multas exceda del monto máximo permitido por la Ley.
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2005)</small>
+
+La Secretaría determinará el plazo en el cual los permisionarios deberán subsanar la o las infracciones que se hubieren cometido. En caso de que transcurrido dicho plazo la infracción o infracciones aún subsistan, podrán imponerse multas por cada día que transcurra.
 
 En caso de reincidencia, el monto de la multa podrá ser hasta por dos veces del monto originalmente impuesto, sin exceder del doble del máximo permitido.
 
+> <small>(REFORMADO Y REUBICADO, P.O. 24 DE OCTUBRE DE 2005)</small>
+
 ###### Artículo 225.
 
-Independientemente de las sanciones que procedan de conformidad con lo que dispone el artículo anterior, y cuando la gravedad de la infracción lo amerite, la autoridad, solicitará a quien los hubiere otorgado, la revocación de las autorizaciones concedidas en los términos del presente Reglamento, la revocación de los certificados concedidos en los mismos términos, la cancelación del registro para el establecimiento y operación de unidades de manejo para la conservación de la vida silvestre, y demás documentos concedidos en los términos de la Ley y el presente Reglamento.
+Independientemente de las sanciones que procedan de conformidad con lo que dispone el artículo anterior, y cuando la gravedad de la infracción lo amerite, la autoridad Estatal o Municipal, solicitará a quien lo hubiere otorgado, la revocación de las autorizaciones concedidas, la cancelación del registro para el establecimiento y operación de unidades de manejo para la conservación de la vida silvestre, y demás documentos concedidos en los términos de la Ley y el presente Reglamento.
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2005)</small>
+
+#### SECCIÓN I. DE LA VERIFICACIÓN VEHICULAR
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2005)</small>
+
+Artículo 225 bis.- La Secretaría, tendrá a su cargo la inspección y vigilancia para el cumplimiento de los Programas de Verificación Vehicular, y cualquier anomalía en la prestación del servicio deberá ser reportada ante la misma.
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2005)</small>
+
+#### SECCIÓN ll. DE LOS PROPIETARIOS O CONDUCTORES DE VEHÍCULOS
+
+(REUBICADO Y REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2005)
 
 ###### Artículo 226.
 
-Los propietarios de vehículos automotores que circulen en el Estado que infrinjan lo establecido en este Reglamento, serán sancionados en los siguientes términos:
+Los propietarios o conductores de vehículos automotores que circulen en el Estado que infrinjan lo establecido en las disposiciones contenidas en la Ley, este Reglamento o el Programa de Verificación Vehicular del Estado, serán sancionados por la Secretaría con excepción de lo establecido en la fracción IV del presente artículo, en los siguientes términos:
 
 I. Con multa por el equivalente a quince días de salario mínimo general vigente en el Estado, por conducir vehículos automotores que estando incluidos en el Programa de Verificación Vehicular no hayan dado cumplimiento oportuno a dicha obligación, por cada uno de los periodos que haya incumplido;
 
@@ -2375,43 +2487,117 @@ II. Con multa por el equivalente a diez días de salario mínimo general vigente
 
 III. Con multa por el equivalente a sesenta días de salario mínimo general vigente en el Estado, por infringir las medidas que dicten las autoridades competentes para prevenir y controlar contingencias ambientales o emergencias ecológicas, derivadas de emisiones contaminantes de los vehículos automotores y demás que se dicten conforme al presente Reglamento; y,
 
-IV. Con la sanción prevista en el Reglamento de la Ley de Tránsito y Vialidad vigente en el Estado, por conducir vehículos automotores sin llevar adherida la calcomanía de verificación vehicular vigente.
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2005)</small>
+
+IV. Con la sanción prevista en el Reglamento de la Ley de Tránsito y Vialidad vigente en el Estado, por conducir vehículos automotores sin llevar adherida la calcomanía de verificación vehicular vigente, misma que será impuesta por la Secretaría de Seguridad Pública del Estado, o en su caso por la autoridad municipal competente, de acuerdo a su reglamento de tránsito.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 24 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 227.
 
-Cuando los conductores de los vehículos que hayan sido sancionados conforme a lo dispuesto en el presente Reglamento, acudan a cubrir el importe de la multa dentro de los quince días hábiles siguientes, operará una reducción equivalente al cincuenta por ciento de la multa.
+Cuando los propietarios o conductores de los vehículos que hayan sido sancionados conforme a lo dispuesto en el presente Reglamento, acudan a cubrir el importe de la multa dentro de los quince días hábiles siguientes, operará una reducción equivalente al cincuenta por ciento de la multa.
+
+En el caso de la sanción por realizar la verificación vehicular de manera extemporánea, la reducción a la que se refiere el párrafo anterior, aplicará cuando la multa sea pagada dentro de los quince días posteriores al mes en que le correspondía verificar, de acuerdo al calendario que establece este Programa.
+
+(REUBICADO, P.O. 24 DE OCTUBRE DE 2005)
 
 ###### Artículo 228.
 
 Los conductores de vehículos que no acaten las medidas de contingencia ambiental o de emergencia ecológica, se harán acreedores a las sanciones administrativas a que se refiere el artículo 184 de la Ley, además de las sanciones que se encuentren tipificadas en cualquier otro ordenamiento aplicable.
 
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2005)</small>
+
+Artículo 228 bis.- La Secretaría, la Secretaría de Seguridad Pública, la Comisión Coordinadora del Transporte Público y demás autoridades de la Administración Pública Estatal y Municipal competentes, podrán organizar en forma coordinada operativos para detectar vehículos que contaminen ostensiblemente y que no hayan verificado. En tal caso se impondrán las sanciones correspondientes. En su caso, las autoridades señaladas se coordinarán con la Federación.
+
+En caso de que las autoridades de la Secretaría de Seguridad Pública, detecten circulando un vehículo cuyo propietario hubiere sido sancionado, conforme al supuesto establecido en la fracción II del artículo 226 de este Reglamento, el vehículo será retirado de la circulación como medida preventiva, hasta en tanto el propietario cubra el monto de la multa correspondiente.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 24 DE OCTUBRE DE 2005)</small>
+
 ###### Artículo 229.
 
-Las autoridades competentes, podrán suspender o revocar la concesión otorgadA (sic) para la prestación del servicio público de transporte, a quienes incumplan las medidas o restricciones de verificación vehicular, sin perjuicio de las sanciones que procedan de conformidad con las disposiciones normativas aplicables.
+El Ejecutivo del Estado a través de la Comisión Coordinadora del Transporte Público, podrá suspender o revocar la concesión o permiso para la prestación del servicio público de transporte, a quienes incumplan las medidas o restricciones de verificación vehicular, sin perjuicio de las sanciones que procedan, de conformidad con las disposiciones normativas aplicables.
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2005)</small>
+
+#### SECCIÓN III. DE LOS PERMISIONARIOS DE LOS CENTROS
+
+> <small>(REFORMADO Y REUBICADO, P.O. 24 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 230.
 
-A los permisionarios del servicio de verificación vehicular se les sancionará:
+A los permisionarios de los Centros de Verificación Vehicular la Secretaría los sancionará:
 
-I. Con multa equivalente a mil días de salario mínimo vigente en el Estado por utilizar en el procedimiento de verificación vehicular instrumentos ajenos al equipo analizador autorizado, homologado por la Secretaría;
+I. Con multa de cuatro mil días a cinco mil días de salario mínimo vigente en el Estado por utilizar en el procedimiento de verificación vehicular instrumentos ajenos al equipo analizador autorizado, homologado por la Secretaría;
 
-II. Con multa equivalente a quinientos días de salario mínimo vigente en el Estado, por utilizar un solo vehículo para otorgar dos o más certificados de baja emisión de contaminantes con holograma;
+II. Con multa de mil días a mil quinientos días de salario mínimo vigente en el Estado, por utilizar un solo vehículo para otorgar dos o más certificados de baja emisión de contaminantes con holograma;
 
-III. Con multa equivalente a quinientos días de salario mínimo vigente en el Estado, por realizar el servicio de verificación vehicular fuera del domicilio del que fue autorizado;
+III. Con multa de cuatro mil días a cinco mil días de salario mínimo vigente en el Estado, por alterar en forma dolosa la operación del equipo analizador autorizado, homologado por la Secretaría;
 
-IV. Con multa equivalente a cien días de salario mínimo vigente en el Estado, por no entregar en tiempo y forma los informes mensuales que establece el presente Reglamento;
+IV. Con multa de cuatro mil días a cinco mil días de salario mínimo vigente en el Estado, por comercializar u otorgar el certificado, la constancia de rechazo o el holograma de verificación vehicular, o bien constancias de estos documentos, sin que previamente se haya realizado la prueba de verificación vehicular;
 
-V. Con multa equivalente a quinientos días de salario mínimo vigente en el Estado, por cobrar un precio diferente al de la tarifa establecida en el presente Reglamento;
+V. Con multa de cuatro mil días a cinco mil días de salario mínimo vigente en el Estado, por impedir u obstaculizar las visitas de inspección a los Centros, que practique la Secretaría, con motivo de la vigilancia de los Programas de Verificación Vehicular, sin perjuicio de lo establecido en el artículo 218 del presente Reglamento;
 
-VI. Con multa equivalente a quinientos días de salario mínimo vigente en el Estado, por alterar los certificados de baja emisión de contaminantes con holograma; y,
+VI. Con multa de mil días a mil quinientos días de salario mínimo vigente en el Estado, por realizar el servicio de verificación vehicular fuera del domicilio del que fue autorizado;
 
-VII. Con multa equivalente a cien días de salario mínimo vigente en el Estado, por incurrir en cualquier acto que implique incumplimiento parcial o total del presente Reglamento, del Programa de Verificación Vehicular correspondiente o de la normativa aplicable.
+VII. Con multa de hasta cien días de salario mínimo vigente en el Estado, por no entregar en tiempo y forma los informes mensuales que establece el presente Reglamento;
 
-La reincidencia en las infracciones señaladas en este Reglamento, dará lugar a la cancelación del permiso y hacer efectiva la fianza depositada.
+VIII. Con multa de mil días a mil quinientos días de salarlo mínimo vigente en el Estado, por cobrar un precio diferente al de la tarifa establecida en el Programa;
 
-Cuando el permiso para operar un Centro de Verificación Vehicular sea aprovechado por persona distinta a su titular, se cancelará el mismo y se hará efectiva la fianza depositada.
+IX. Con multa de mil días a mil quinientos días de salario mínimo vigente en el Estado, por alterar los certificados de baja emisión de contaminantes, hologramas o constancias de rechazo; y,
 
-El mal uso de la papelería oficial del Programa, será de la estricta responsabilidad del centro de verificación, por lo que en su caso, se dará vista al Ministerio Público por el delito que proceda y de inmediato sin mayor trámite se cerrará el Centro de Verificación Vehicular, revocándose el permiso correspondiente y haciéndose efectiva la fianza.
+X. Con multa de hasta quinientos días de salario mínimo vigente en el Estado, por incurrir en cualquier acto determinado por la Secretaría, que implique incumplimiento parcial o total del presente Reglamento, del Programa de Verificación Vehicular correspondiente o de la normativa aplicable.
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2005)</small>
+
+#### SECCIÓN IV. DE LA SUSPENSIÓN Y REVOCACIÓN DE LOS PERMISOS DE LOS CENTROS DE VERIFICACIÓN VEHICULAR
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2005)</small>
+
+Artículo 230 bis.- Sin perjuicio de la imposición de otras sanciones previstas en este Reglamento, procederá la suspensión del permiso del Centro de Verificación Vehicular, a los permisionarios que:
+
+I. Alteren o modifiquen los términos o condiciones del permiso;
+
+II. No proporcionen el mantenimiento necesario para el adecuado funcionamiento del equipo e instalaciones de los Centros;
+
+III. No presten el servicio de verificación vehicular con la debida eficiencia y prontitud a los propietarios o conductores de vehículos;
+
+IV. No acrediten contar con personal capacitado para la prestación del servicio; y,
+
+V. Por sí o por terceras personas, obstaculicen las supervisiones que realicen las autoridades competentes.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2005)</small>
+
+Artículo 230 bis 1.- Sin perjuicio de las sanciones que se impongan a los permisionarios conforme a lo dispuesto en este Reglamento, procederá la revocación del permiso del Centro de Verificación Vehicular y se hará efectiva la fianza depositada cuando:
+
+I. Las verificaciones no se realicen conforme a las Normas Oficiales Mexicanas aplicables y al Programa;
+
+II. En forma dolosa o negligente se alteren los procedimientos o el equipo de verificación;
+
+III. Se alteren las tarifas establecidas en el Programa;
+
+IV. Se verifique un vehículo para otorgarle el certificado a otro;
+
+V. Transcurrido el plazo fijado por la Secretaría, no se hubieren subsanado las causas que dieron motivo a la suspensión del permiso;
+
+VI. Quien preste el servicio de verificación de tener la capacidad o las condiciones técnicas recesarías para la debida prestación de este servicio;
+
+VII. Por dos ocasiones se hubiera determinado la suspensión del permiso del Centro de Verificación Vehicular;
+
+VIII. Cuando el permiso para operar un Centro de Verificación Vehicular sea aprovechado por persona distinta a su titular;
+
+IX. Cuando un permisionario o el personal del Centro, expidan certificados de verificación, hologramas o constancias de rechazo que pertenezcan a otros Centros;
+
+X. Cuando, de acuerdo a la evaluación realizada por la Secretaría, el Centro de Verificación Vehicular no se encuentre acondicionado y listo para operar, en la fecha que lo determine el Programa o la Secretaría;
+
+XI. Cuando por causas imputables al permisionario, el Centro de Verificación Vehicular no inicie sus operaciones en los plazos señalados por la Secretaría; y,
+
+XII. Cuando se haga mal uso de la papelería oficial del Programa. Además de la revocación del permiso correspondiente y de hacer efectiva la fianza depositada, en su caso, se dará vista al Ministerio Público.
+
+Para la imposición de las sanciones previstas en el presente capítulo, deberán observarse los procedimientos y formalidades que establece la Ley y el presente Reglamento.
+
+Los pagos de las sanciones a que se refiere el presente Reglamento relativas a la verificación, se harán en las oficinas recaudadoras de la Tesorería General; y en caso de incumplimiento en el pago de las mismas, dentro de los treinta días posteriores a la sanción que corresponda, éstas se convertirán en créditos fiscales en los términos del Código Fiscal del Estado, por lo que las constancias que acrediten la sanción, así como el incumplimiento de su pago, serán remitidas por la Secretaría a la Tesorería General, para que esta última realice el procedimiento a que haya lugar.
+
+Las sanciones que se impongan con motivo de la aplicación de este Reglamento podrán ser recurridas por los interesados en los términos del Capítulo Tercero, del Título Cuarto de la Ley.
 
 ## TÍTULO DÉCIMO TERCERO. DE LA DENUNCIA POPULAR
 
@@ -2484,3 +2670,15 @@ ROSA HILDA ABASCAL RODRÍGUEZ
 Secretaria de Contraloría y Desarrollo Administrativo
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 24 DE OCTUBRE DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones administrativas en lo que se opongan al presente Decreto.
