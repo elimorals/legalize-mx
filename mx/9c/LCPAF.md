@@ -4,7 +4,7 @@ identifier: "LCPAF"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-22"
-last_updated: "1999-01-04"
+last_updated: "2005-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCPAF"
 
 LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE OCTUBRE DE 2005.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 22 de diciembre de 1993.
 
@@ -42,9 +42,11 @@ LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL
 
 ### CAPITULO I. DEL AMBITO DE APLICACION DE LA LEY
 
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 2005)</small>
+
 ###### ARTICULO 1o.
 
-La presente Ley tiene por objeto regular la construcción, operación, explotación, conservación y mantenimiento de los caminos y puentes a que se refieren las fracciones I y V del artículo siguiente, los cuales constituyen vías generales de comunicación, así como los servicios de autotransporte federal que en ellos operan y sus servicios auxiliares.
+La presente Ley tiene por objeto regular la construcción, operación, explotación, conservación y mantenimiento de los caminos y puentes a que se refieren las fracciones I y V del Artículo siguiente, los cuales constituyen vías generales de comunicación; así como los servicios de autotransporte federal que en ellos operan, sus servicios auxiliares y el tránsito en dichas vías.
 
 ###### ARTICULO 2o.
 
@@ -84,9 +86,13 @@ XI. Servicio de paquetería y mensajería: El porte de paquetes debidamente envu
 
 XII. Terminales: Las instalaciones auxiliares al servicio del autotransporte de pasajeros, en donde se efectúa la salida y llegada de autobuses para el ascenso y descenso de viajeros, y tratándose de autotransporte de carga, en las que se efectúa la recepción, almacenamiento y despacho de mercancías, el acceso, estacionamiento y salida de los vehículos destinados a este servicio;
 
-XIII. Transporte privado: Es el que efectúan las personas físicas o morales respecto de bienes propios o conexos de sus respectivas actividades, así como de personas vinculadas con los mismos fines, sin que por ello se genere un cobro; y
+> <small>(ADICIONADA, D.O.F. 25 DE OCTUBRE DE 2005)</small>
 
-XIV. Vías generales de comunicación: Los caminos y puentes tal como se definen en el presente artículo.
+XIII. Tránsito: La circulación que se realice en las vías generales de comunicación;
+
+XIV. Transporte privado: Es el que efectúan las personas físicas o morales respecto de bienes propios o conexos de sus respectivas actividades, así como de personas vinculadas con los mismos fines, sin que por ello se genere un cobro; y
+
+XV. Vías generales de comunicación: Los caminos y puentes tal como se definen en el presente artículo.
 
 ###### ARTICULO 3o.
 
@@ -102,9 +108,11 @@ II. Los códigos de Comercio, Civil para el Distrito Federal en materia Común, 
 
 ### CAPITULO II. JURISDICCION Y COMPETENCIA
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE OCTUBRE DE 2005)</small>
+
 ###### ARTICULO 5o.
 
-Es de jurisdicción federal todo lo relacionado con los caminos, puentes y los servicios de autotransporte que en ellos operan y sus servicios auxiliares.
+Es de jurisdicción federal todo lo relacionado con los caminos, puentes, así como el tránsito y los servicios de autotransporte federal que en ellos operan y sus servicios auxiliares.
 
 Corresponden a la Secretaría, sin perjuicio de las otorgadas a otras dependencias de la Administración Pública Federal las siguientes atribuciones:
 
@@ -418,15 +426,27 @@ Todos los vehículos de autotransporte de carga, pasaje y turismo que transiten 
 
 Las empresas que cuenten con los elementos técnicos conforme a la norma oficial mexicana respectiva, podrán ellas mismas realizar la verificación técnica de sus vehículos.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE OCTUBRE DE 2005)</small>
+
 ###### ARTICULO 36.
 
-Los conductores de vehículos de autotransporte federal deberán obtener y, en su caso, renovar, la licencia federal que expida la Secretaría, en los términos que establezcan los reglamentos respectivos. Quedan exceptuados de esta disposición los conductores de vehículos a los que se refieren los artículos 40 y 44.
+Los conductores de vehículos de autotransporte federal, deberán obtener y, en su caso, renovar, la licencia federal que expida la Secretaría, en los términos que establezca el reglamento respectivo. Quedan exceptuados de esta disposición los conductores de vehículos a los que se refieren los artículos 40 y 44.
 
-El interesado deberá aprobar los cursos de capacitación y actualización de conocimientos teóricos y prácticos con vehículos y simuladores que se establezcan en los reglamentos respectivos.
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 2005)</small>
+
+El interesado deberá aprobar los cursos de capacitación y actualización de conocimientos teóricos y prácticos con vehículos o simuladores que se establezcan en el reglamento respectivo.
 
 Los permisionarios están obligados a vigilar y constatar que los conductores de sus vehículos cuentan con la licencia federal vigente.
 
 La Secretaría llevará un registro de las licencias que otorgue.
+
+> <small>(ADICIONADO, D.O.F. 25 DE OCTUBRE DE 2005)</small>
+
+Los conductores de vehículos que transitan en los caminos y puentes, deberán portar la licencia vigente que exijan las disposiciones jurídicas aplicables. Asimismo se abstendrán de conducir en estado de ebriedad o bajo los efectos de drogas de abuso o rebasar los máximos de velocidad, establecidos por la Secretaría.
+
+> <small>(ADICIONADO, D.O.F. 25 DE OCTUBRE DE 2005)</small>
+
+El reglamento respectivo establecerá las causas de suspensión o cancelación de las licencias federales, así como las disposiciones relativas al tránsito.
 
 ###### ARTICULO 37.
 
@@ -644,23 +664,37 @@ El permisionario que participe en la operación de servicios de transporte multi
 
 ## TITULO SEPTIMO. INSPECCION, VERIFICACION Y VIGILANCIA
 
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 2005)</small>
+
 ###### ARTICULO 70.
 
-La Secretaría tendrá a su cargo la inspección y vigilancia para garantizar el cumplimiento de esta Ley, sus reglamentos y las normas oficiales mexicanas que expida de acuerdo con la misma. Para tal efecto podrá requerir en cualquier tiempo a los concesionarios y permisionarios, informes con los datos técnicos, administrativos, financieros y estadísticos, que permitan a la Secretaría conocer la forma de operar y explotar los caminos, puentes y los servicios de autotransporte y sus servicios auxiliares.
+La Secretaría tendrá a su cargo la inspección, verificación y vigilancia de los caminos y puentes, así como de los servicios de autotransporte federal, sus servicios auxiliares y transporte privado, en sus aspectos técnicos y normativos, para garantizar el cumplimiento de esta Ley, sus reglamentos y las normas oficiales mexicanas que expida de acuerdo con la misma. Para tal efecto, podrá requerir en cualquier tiempo a los concesionarios y permisionarios informes con los datos técnicos, administrativos, financieros y estadísticos, que permitan a la Secretaría conocer la forma de operar y explotar los caminos, puentes, los servicios de autotransporte federal y sus servicios auxiliares.
 
-Asimismo, la Secretaría podrá inspeccionar o verificar que tanto el autotransporte federal como particular cumplen con las disposiciones sobre pesos, dimensiones y de seguridad en las carreteras, de acuerdo con lo establecido en las normas oficiales mexicanas respectivas.
+La Secretaría inspeccionará o verificará en centros fijos de verificación de peso y dimensiones, que tanto el autotransporte federal, sus servicios auxiliares y transporte privado que operen en los caminos y puentes, cumplen con las disposiciones sobre pesos, dimensiones y capacidad de los vehículos, de acuerdo con lo establecido en las normas oficiales mexicanas respectivas. Lo anterior sin perjuicio de las atribuciones que tiene conferidas la Secretaría de Seguridad Pública en la materia, cuando los vehículos circulen en los caminos y puentes.
+
+Para los efectos del presente artículo, la Secretaría podrá comisionar a servidores públicos a su servicio, quienes, en su caso, impondrán las sanciones respectivas.
 
 La Secretaría podrá autorizar a terceros para que lleven a cabo verificaciones de acuerdo con lo establecido en la Ley Federal sobre Metrología y Normalización.
 
+> <small>(ADICIONADO, D.O.F. 25 DE OCTUBRE DE 2005)</small>
+
+###### ARTICULO 70 Bis.
+
+La Secretaría y la Secretaría de Seguridad Pública, en el ámbito de sus respectivas competencias, se coordinarán en la vigilancia, verificación e inspección de los servicios de autotransporte federal, sus servicios auxiliares y transporte privado.
+
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 2005)</small>
+
 ###### ARTICULO 71.
 
-Las visitas de inspección se practicarán en días y horas hábiles, por inspectores autorizados que exhiban identificación vigente y orden de visita, en la que se especifiquen las disposiciones cuyo cumplimiento habrá de inspeccionarse. Sin embargo, podrán practicarse inspecciones en días y horas inhábiles en aquellos casos en que el tipo y la naturaleza de los servicios así lo requieran, en cuyo caso se deberán habilitar en la orden de visita.
+La Secretaría podrá realizar visitas de inspección, a través de servidores públicos comisionados que exhiban identificación vigente y orden de visita, en la que se especifiquen las disposiciones cuyo cumplimiento habrá de inspeccionarse. Las visitas de inspección se practicarán en días y horas hábiles, sin embargo, podrán practicarse inspecciones en días y horas inhábiles en aquellos casos en que el tipo y la naturaleza de los servicios así lo requieran, en cuyo caso se deberán habilitar en la orden de visita.
 
-Los concesionarios de caminos y puentes y los permisionarios que presten servicios de autotransporte y sus servicios auxiliares, están obligados a proporcionar a los inspectores designados por la Secretaría, todos los datos o informes que les sean requeridos y permitir el acceso a sus instalaciones para cumplir su cometido conforme a la orden de visita emitida por la Secretaría. La información que proporcionen tendrá carácter confidencial.
+Los concesionarios y permisionarios, están obligados a proporcionar a los servidores públicos comisionados por la Secretaría todos los datos o informes que les sean requeridos y permitir el acceso a sus instalaciones para cumplir su cometido conforme a la orden de visita emitida por la Secretaría. La información que proporcionen tendrá carácter confidencial.
+
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 72.
 
-De toda visita de inspección se levantará acta debidamente circunstanciada, en presencia de dos testigos propuestos por la persona que haya atendido la visita o por el inspector si aquélla se hubiere negado a designarlo.
+De toda visita de inspección se levantará acta debidamente circunstanciada, en presencia de dos testigos propuestos por la persona que haya atendido la visita o por el servidor público comisionado si aquélla se hubiere negado a designarlos.
 
 ###### ARTICULO 73.
 
@@ -670,7 +704,9 @@ I. Hora, día, mes y año en que se practicó la visita;
 
 II. Ubicación de las instalaciones del concesionario o permisionario donde se practicó la visita;
 
-III. Nombre y firma del inspector;
+> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 2005)</small>
+
+III. Nombre y firma del servidor público que realiza la inspección;
 
 IV. Nombre, domicilio y firma de las personas designadas como testigos;
 
@@ -678,43 +714,71 @@ V. Nombre y carácter o personalidad jurídica de la persona que atendió la vis
 
 VI. Objeto de la visita;
 
-VII. Fecha de la orden de visita, así como los datos de identificación del inspector;
+> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 2005)</small>
+
+VII. Fecha de la orden de visita, así como los datos de identificación del servidor público que realiza la inspección;
 
 VIII. Declaración de la persona que atendió la visita o su negativa a permitirla; y
 
 IX. Síntesis descriptiva sobre la visita, asentando los hechos, datos y omisiones derivados del objeto de la misma.
 
-Una vez elaborada el acta, el inspector proporcionará una copia de la misma a la persona que atendió la visita, aun en el caso de que ésta se hubiera negado a firmarla, hecho que no afectará su validez.
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 2005)</small>
+
+Una vez elaborada el acta, el servidor público que realiza la inspección proporcionará una copia de la misma a la persona que atendió la visita, aún en el caso de que ésta se hubiera negado a firmarla, hecho que no afectará su validez.
 
 El visitado contará con un término de 10 días hábiles, a fin de que presente las pruebas y defensas que estime conducentes, en el caso de alguna infracción a las disposiciones de la presente Ley. Con vista en ellas o a falta de su presentación, la Secretaría dictará la resolución que corresponda.
 
 ## TITULO OCTAVO. DE LAS SANCIONES
 
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 2005)</small>
+
 ###### ARTICULO 74.
 
-Las infracciones a lo dispuesto en la presente Ley, serán sancionadas por la Secretaría de acuerdo con lo siguiente:
+Salvo lo dispuesto en el Artículo 74 Bis de la presente Ley, las infracciones a lo dispuesto en la misma, serán sancionadas por la Secretaría de acuerdo con lo siguiente:
 
-I. Prestar servicios de autotransporte federal sin el permiso respectivo, con multa de quinientos a dos mil salarios mínimos;
+I. Aplicar tarifas superiores a las que en su caso se autoricen, con multa de cien a quinientos salarios mínimos;
 
-II. Prestar servicios de autotransporte federal con vehículos cuyas condiciones no cumplan con los reglamentos correspondientes, con multa de cien a mil salarios mínimos;
+II. Destruir, inutilizar, apagar, quitar o cambiar una señal establecida para la seguridad de las vías generales de comunicación terrestres o medios de autotransporte que en ellas operan, con multa de cien a quinientos salarios mínimos;
 
-III. Aplicar tarifas superiores a las que en su caso se autoricen, con multa de cien a quinientos salarios mínimos;
+III. Colocar intencionalmente señales con ánimo de ocasionar daño a vehículos en circulación, con multa de cien a quinientos salarios mínimos;
 
-IV. Conducir en estado de ebriedad o bajo los efectos de drogas de abuso, con multa al conductor de cien a doscientos salarios y suspensión de la licencia por un año; por la segunda infracción, cancelación de la licencia;
+IV. Incumplir con cualquiera de las disposiciones en materia de autotransporte federal, sus servicios auxiliares y transporte privado, con multa de hasta quinientos días de salario mínimo, y
 
-V. Rebasar, el autotransporte, los máximos de velocidad establecidos por la Secretaría, con multa al conductor de cincuenta a cien salarios mínimos; suspensión de la licencia por seis meses por la segunda infracción, y cancelación de la misma por la tercera infracción;
+V. Cualquier otra infracción a lo previsto en la presente Ley o a los ordenamientos que de ella se deriven, con multa de hasta mil días de salario mínimo.
 
-VI. Conducir vehículos de autotransporte en caminos y puentes sin la licencia que exija la ley, con multa de cincuenta a cien salarios mínimos; en la misma infracción incurrirá el empresario o dueño de vehículo que autorice su manejo cuando el conductor no cuente con licencia;
+En caso de reincidencia, la Secretaría podrá imponer una multa equivalente hasta el doble de las cuantías señaladas, salvo las excepciones o casos específicos previstos en esta Ley.
 
-VII. Destruir, inutilizar, apagar, quitar o cambiar una señal establecida para la seguridad de las vías generales de comunicación terrestres o medios de autotransporte que en ellas operan, con multa de cien a quinientos salarios mínimos;
+Para los efectos del presente Capítulo, se entiende por salario mínimo, el salario mínimo general vigente en el Distrito Federal al momento de cometerse la infracción.
 
-VIII. Colocar intencionalmente señales con ánimo de ocasionar daño a vehículos en circulación, con multa de cien a quinientos salarios mínimos; y
+Los ingresos derivados por concepto de multas que se impongan en términos del presente Artículo, se destinarán a la Secretaría para cubrir gastos de operación e inversión en tecnología y programas vinculados al autotransporte.
 
-IX. Cualquier otra infracción a lo previsto en esta Ley o sus reglamentos, será sancionada con multa hasta de mil salarios mínimos.
+> <small>(ADICIONADO, D.O.F. 25 DE OCTUBRE DE 2005)</small>
 
-En caso de reincidencia. La Secretaría podrá imponer una multa equivalente hasta el doble de las cuantías señaladas, salvo las excepciones o casos específicos previstos en esta Ley.
+ARTICULO 74 BIS.- La Secretaría de Seguridad Pública a través de la Policía Federal Preventiva, de conformidad con las disposiciones legales y reglamentarias respectivas, impondrá las siguientes sanciones:
 
-Para los efectos del presente capítulo, se entiende por salario mínimo, el salario mínimo general vigente en el Distrito Federal al momento de cometerse la infracción.
+I. Por infracciones a la presente Ley y reglamentos que de ella se deriven en materia de tránsito, multa de hasta doscientos días de salario mínimo, y
+
+II. Cualquier otra infracción a las disposiciones de esta Ley y los ordenamientos que de ella se deriven para la operación de los servicios de autotransporte federal, sus servicios auxiliares y transporte privado cuando circulen en la zona terrestre de las vías generales de comunicación, con multa de hasta quinientos días de salario mínimo.
+
+En caso de reincidencia, la Secretaría de Seguridad Pública podrá imponer una multa equivalente hasta el doble de las cuantías señaladas, salvo las excepciones o casos específicos previstos en esta Ley.
+
+Los ingresos derivados por concepto de multas a que se refiere la fracción I del presente Artículo, se destinarán a la Secretaría de Seguridad Pública para cubrir gastos de operación e inversión en programas vinculados a la propia seguridad pública y de manera específica se destinará el 20% del total a prevención del delito, en tanto que los derivados de la fracción II se destinarán conforme a lo establecido en el último párrafo del Artículo 74 de esta Ley.
+
+La Secretaría y la Secretaría de Seguridad Pública establecerán mecanismos para el intercambio de información en materia de infracciones.
+
+> <small>(ADICIONADO, D.O.F. 25 DE OCTUBRE DE 2005)</small>
+
+ARTICULO 74 TER.- La Secretaría de Seguridad Pública a través de la Policía Federal Preventiva, podrá retirar de la circulación los vehículos en los siguientes casos:
+
+I. Cuando se encuentren prestando el servicio de autotransporte federal, sus servicios auxiliares y transporte privado en los caminos y puentes, sin contar con el permiso correspondiente;
+
+II. Cuando contando con concesiones o permisos estatales, municipales o del Distrito Federal, se encuentren prestando el servicio de autotransporte federal, sus servicios auxiliares y transporte privado en los caminos y puentes, fuera de los tramos autorizados por la Secretaría;
+
+III. Cuando excedan el tiempo autorizado para circular o transitar con motivo de su importación temporal y se encuentren prestando el servicio de autotransporte federal, sus servicios auxiliares y transporte privado en los caminos y puentes, debiendo dar vista a las autoridades correspondientes;
+
+IV. Cuando se encuentren en tránsito y no cumplan con las condiciones mínimas de seguridad, que se determinen en esta Ley y los ordenamientos que de ella se deriven, y
+
+V. Cuando se encuentren prestando servicio de autotransporte y esté vencido su plazo o límite máximo de operación para dar el servicio de autotransporte federal de pasajeros o turismo, de acuerdo a las disposiciones reglamentarias correspondientes.
 
 ###### ARTICULO 75.
 
@@ -722,11 +786,15 @@ El que sin haber previamente obtenido concesión o permiso de la Secretaría ope
 
 Una vez que la Secretaría tenga conocimiento de ello, procederá al aseguramiento de las obras ejecutadas y las instalaciones establecidas poniéndolas bajo la guarda de un interventor, previo inventario que al respecto se formule. Posteriormente al aseguramiento, se concederá un plazo de 10 días hábiles al presunto infractor para que presente las pruebas y defensas que estime pertinentes en su caso; pasado dicho término, la Secretaría dictará la resolución fundada y motivada que corresponda.
 
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 2005)</small>
+
 ###### ARTICULO 76.
 
-El monto de las sanciones administrativas que se impongan a los permisionarios con motivo del servicio, será garantizado con el valor de los propios vehículos o mediante el otorgamiento de garantía suficiente para responder de las mismas. En caso de que la garantía sea el vehículo, podrá entregarse en depósito a su conductor o a su legítimo propietario, quienes deberán presentarlo ante la autoridad competente cuando ésta lo solicite.
+El monto de las sanciones administrativas que se impongan por violaciones a la presente Ley y a los ordenamientos que de ella se deriven, por la operación del servicio de autotransporte federal, sus servicios auxiliares y transporte privado, así como por el tránsito de vehículos, podrá ser garantizado con el valor de los propios vehículos o mediante el otorgamiento de garantía suficiente para responder de las mismas. En caso de que la garantía sea el vehículo, podrá entregarse en depósito a su conductor o a su legítimo propietario, quienes deberán presentarlo ante la autoridad competente cuando ésta lo solicite.
 
-El propietario del vehículo dispondrá de un plazo de 30 días naturales, contado a partir de la fecha en que se fijó la multa para cubrirla así como los gastos a que hubiere lugar; en caso contrario, se formulará la liquidación y se turnará, junto con el vehículo, a la autoridad fiscal competente, para su cobro, sin perjuicio de lo previsto en el artículo 80 de esta Ley.
+El propietario del vehículo dispondrá de un plazo de 30 días hábiles, contado a partir de la fecha en que se fijó la multa para cubrirla así como los gastos a que hubiere lugar, en caso contrario, se formulará la liquidación y se turnará, junto con el vehículo, a la autoridad fiscal competente para su cobro.
+
+En el caso de vehículos particulares sólo procederá el otorgamiento de garantía cuando se trate de falta grave o reincidencia.
 
 ###### ARTICULO 77.
 
@@ -742,25 +810,29 @@ III. La reincidencia.
 
 Las sanciones que se señalan en este Título se aplicarán sin perjuicio de la responsabilidad penal que resulte, ni de que, cuando proceda, la Secretaría revoque la concesión o permiso.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE OCTUBRE DE 2005)</small>
+
 ###### ARTICULO 79.
 
-Para declarar la revocación de las concesiones y permisos, suspensión de servicios y la imposición de las sanciones previstas en esta Ley, se estará a lo siguiente:
+Salvo lo dispuesto en el Artículo 79 Bis, para declarar la revocación de las concesiones y permisos, suspensión de servicios y la imposición de las sanciones previstas en esta Ley, se estará a lo siguiente:
 
 I. La Secretaría hará saber al presunto infractor la causa o causas de la sanción, concediéndole un plazo de 15 días hábiles para que presente sus pruebas y defensas; y
 
 II. Presentadas las pruebas y defensas o vencido el plazo señalado en la fracción anterior sin que se hubieren presentado, la Secretaría dictará la resolución que corresponda en un plazo no mayor a 30 días naturales.
 
+> <small>(ADICIONADO, D.O.F. 25 DE OCTUBRE DE 2005)</small>
+
+ARTICULO 79 BIS.- Para la imposición de las sanciones a que se refiere el Artículo 74 Bis de esta Ley, se estará a lo siguiente:
+
+I. Las infracciones y las sanciones que se impongan, se harán constar en las boletas correspondientes, y
+
+II. El pago de las sanciones impuestas, deberá realizarse por los infractores en las instituciones bancarias u oficinas designadas, o bien a través de cualquiera de los medios establecidos para tal efecto.
+
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 2005)</small>
+
 ###### ARTICULO 80.
 
-Contra las resoluciones dictadas por la Secretaría con fundamento en esta Ley, se podrá interponer, ante la propia Secretaría, recurso de reconsideración, dentro del plazo de 15 días naturales siguientes a la fecha de la notificación de tales resoluciones.
-
-El recurso tiene por objeto revocar, modificar o confirmar la resolución reclamada y los fallos que se dicten contendrán la fijación del acto impugnado, los fundamentos legales en que se apoye y los puntos de resolución. Los reglamentos de la presente Ley establecerán los términos y demás requisitos para la tramitación y sustanciación del recurso.
-
-La interposición del recurso se hará mediante escrito dirigido a la autoridad emisora del acto, en el que se deberá expresar el nombre y domicilio del recurrente y los agravios, acompañándose los elementos de prueba que se consideren necesarios, así como, en su caso, las constancias que acrediten la personalidad del promovente.
-
-La interposición del recurso suspenderá la ejecución de la resolución impugnada.
-
-La Secretaría dictará resolución en un término que no excederá de 60 días naturales contados a partir de la fecha en que se haya interpuesto el recurso.
+Contra las resoluciones dictadas con fundamento en esta Ley y sus reglamentos, se podrá interponer recurso de revisión conforme a lo dispuesto en la Ley Federal de Procedimiento Administrativo.
 
 ## TRANSITORIOS
 
@@ -823,3 +895,21 @@ Las menciones a la Policía Fiscal Federal que aparezcan en cualquier ordenamien
 SEXTO.- El Ejecutivo Federal publicará en el Diario Oficial de la Federación el Reglamento Interior de la Policía Federal Preventiva, dentro del año siguiente a la entrada en vigor del presente Decreto.
 
 SÉPTIMO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+D.O.F. 25 DE OCTUBRE DE 2005.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La organización de la Secretaría de Seguridad Pública, para ejercer las atribuciones que le confiere este Decreto, durará un máximo de 180 días contados a partir de la entrada en vigor del presente Decreto, lapso en el que no ejercerá las atribuciones conferidas por este Decreto, las cuales corresponderán a las autoridades administrativas que han venido realizándolas con fundamento en disposiciones de la Ley Orgánica de la Administración Pública Federal y demás ordenamientos reformados por este Decreto.
+
+TERCERO. El Ejecutivo Federal, dentro de los 180 días siguientes, a partir de la entrada en vigor del presente Decreto, expedirá las reformas y adiciones correspondientes a los Reglamentos Interiores y demás disposiciones reglamentarias; así como, tabuladores de multas por tipo de infracción en lo específico a efecto de garantizar certeza jurídica y evitar discrecionalidad en su aplicación.
+
+CUARTO. Los Concesionarios y Permisionarios de los servicios de autotransporte de pasajeros, de turismo, de carga, de transporte privado y de los servicios auxiliares de arrastre y arrastre (sic) y salvamento a que se refiere la Ley de Caminos, Puentes y Autotransporte Federal contarán con un plazo de 180 días, a partir de la entrada en vigor del presente Decreto, para regularizar cualquier omisión o irregularidad respecto del cumplimiento de la normatividad respectiva, excepto en lo que se refiere a materiales y residuos peligrosos, pesos, dimensiones, capacidad, seguros y licencias relacionadas con el Autotransporte Federal.
+
+QUINTO. Las disposiciones reglamentarias en vigor se continuarán aplicando, mientras se expiden los nuevos reglamentos.
+
+SEXTO. La Secretaría de Hacienda y Crédito Público en coordinación con las dependencias competentes y de conformidad con el programa establecido, instrumentará lo necesario para el otorgamiento de estímulos fiscales para la sustitución de unidades del autotransporte federal en mal estado.
+
+SÉPTIMO. Los procedimientos y recursos administrativos iniciados antes de la entrada en vigor de las presentes reformas, se seguirán hasta su conclusión definitiva por y ante la autoridad que se presentaron de acuerdo con los ordenamientos vigentes al momento que iniciaron.
+
+OCTAVO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
