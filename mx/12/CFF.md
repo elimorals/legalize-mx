@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "2004-12-31"
+last_updated: "2005-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CFF"
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE DICIEMBRE DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE OCTUBRE DE 2005.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 9 DE FEBRERO DE 2004.
 
@@ -93,6 +93,10 @@ Son aprovechamientos los ingresos que percibe el Estado por funciones de derecho
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 Los recargos, las sanciones, los gastos de ejecución y la indemnización a que se refiere el séptimo párrafo del artículo 21 de este Código, que se apliquen en relación con aprovechamientos, son accesorios de éstos y participan de su naturaleza.
+
+> <small>(ADICIONADO, D.O.F. 25 DE OCTUBRE DE 2005)</small>
+
+Los aprovechamientos por concepto de multas impuestas por infracciones a las disposiciones legales o reglamentarias que no sean de carácter fiscal, podrán ser destinados a cubrir los gastos de operación e inversión de las dependencias encargadas de aplicar o vigilar el cumplimiento de las disposiciones cuya infracción dio lugar a la imposición de la multa, cuando dicho destino específico así lo establezcan las disposiciones jurídicas aplicables.
 
 Son productos las contraprestaciones por los servicios que preste el Estado en sus funciones de derecho privado, así como por el uso, aprovechamiento o enajenación de bienes del dominio privado.
 
@@ -1491,6 +1495,8 @@ Si en la declaración complementaria se determina que el pago efectuado fue meno
 Las personas físicas con actividades empresariales y las personas morales que se encuentran en alguno de los supuestos de las siguientes fracciones, están obligadas a dictaminar, en los términos del artículo 52 del Código Fiscal de la Federación, sus estados financieros por contador público autorizado.
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA QUINTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2003, D.O.F. DEL 21 DE NOVIEMBRE DE 2003.</small>
+
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 I. Las que en el ejercicio inmediato anterior hayan obtenido ingresos acumulables superiores a $27,466,183.00, que el valor de su activo determinado en los términos de la Ley del Impuesto al Activo sea superior a $54,932,367.00 o que por lo menos 300 de sus trabajadores les hayan prestado servicios en cada uno de los meses del ejercicio inmediato anterior. Las cantidades a que se refiere este párrafo se actualizarán anualmente, en los términos del artículo 17-A de este ordenamiento.
 
@@ -2962,9 +2968,7 @@ b) De $492.00 a $1,148.00, en los demás documentos.
 
 IV. De $9,661.00 a $19,321.00, para la establecida en la fracción V.
 
-(MODIFICADO EN LAS N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA QUINTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2003, D.O.F. DEL 21 DE NOVIEMBRE DE 2003.
-
-POR MISCELANEA FISCAL, D.O.F. 21 DE NOVIEMBRE DE 2003)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA QUINTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2003, D.O.F. DEL 21 DE NOVIEMBRE DE 2003.</small>
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -4448,13 +4452,13 @@ Si la resolución dictada en el recurso de revocación se combate ante el Tribun
 
 Los procedimientos de resolución de controversias previstos en los tratados para evitar la doble tributación de los que México es parte, son optativos y podrán ser solicitados por el interesado con anterioridad o posterioridad a la resolución de los medios de defensa previstos por este Código. Los procedimientos de resolución de controversias son improcedentes contra las resoluciones que ponen fin al recurso de revocación o al juicio ante el Tribunal Federal de Justicia Fiscal y Administrativa.
 
-(REUBICADA Y REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)
+(REUBICADO Y REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)
 
 ###### Artículo 126.
 
 El recurso de revocación no procederá contra actos que tengan por objeto hacer efectivas fianzas otorgadas en garantía de obligaciones fiscales a cargo de terceros.
 
-(REUBICADA Y REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)
+(REUBICADO Y REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)
 
 ###### Artículo 127.
 
@@ -4462,7 +4466,7 @@ Cuando el recurso de revocación se interponga porque el procedimiento administr
 
 Si las violaciones tuvieren lugar con posterioridad a la mencionada convocatoria o se tratare de venta de bienes fuera de subasta, el recurso se hará valer contra la resolución que finque el remate o la que autorice la venta fuera de subasta.
 
-(REUBICADA Y REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)
+(REUBICADO Y REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)
 
 ###### Artículo 128.
 
@@ -6800,11 +6804,17 @@ La presente Ley entrará en vigor en toda la República el día 1o. de enero de 
 
 ARTICULO DECIMOCUARTO.- En tanto se expide el Reglamento del Código Fiscal de la Federación para determinar los gastos de ejecución a que se refiere el artículo 150 de dicho Código, se estará a lo establecido en el Reglamento para el Cobro y Aplicación de Gastos de Ejecución y Pago de Honorarios por Notificación de Créditos.
 
-....
+...
 
 ARTICULO CUADRAGESIMO.- A partir del año de 1983 la Secretaría de Hacienda y Crédito Público iniciará un programa de comprobación permanente del cumplimiento de las obligaciones fiscales de los contribuyentes más importantes del país, incluyendo tanto a las empresas públicas como a las privadas. Para este efecto la Secretaría de Hacienda realizará visitas domiciliarias continuas o periódicas, según amerite la situación fiscal del contribuyente y su importancia en relación con la recaudación.
 
 D.O.F. 28 DE DICIEMBRE DE 1983.
+
+UNICO.- El presente decreto entrará en vigor a los sesenta días de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE DICIEMBRE DE 1983.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
 
 ###### ARTICULO PRIMERO.
 
@@ -6832,13 +6842,9 @@ I. Para los efectos del primer párrafo de la fracción I del artículo 41 del C
 
 II. Para los efectos del segundo párrafo del artículo 70 del Código Fiscal de la Federación, se establece el factor de 1.25 que se aplicará a partir del 1o. de julio de 1985.
 
-## ARTICULO TRANSITORIO
+## TRANSITORIO
 
-UNICO.- El presente decreto entrará en vigor a los sesenta días de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 30 DE DICIEMBRE DE 1983.
-
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON EL CODIGO.
 
 ###### ARTICULO UNICO.
 
@@ -6864,8 +6870,6 @@ II.- Para los efectos del segundo párrafo del artículo 70 del Código Fiscal d
 
 ## TRANSITORIO
 
-SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON EL CODIGO.
-
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor el día 1o. de enero de 1986.
@@ -6882,7 +6886,9 @@ I.- Cuando con anterioridad al 1o. de mayo de 1986, se hubieran causado recargos
 
 II.- Tratándose de solicitudes de devolución que se hubieran presentado antes del 1o. de junio de 1986, la devolución se podrá hacer en el plazo de cuatro meses sin causar intereses.
 
-## TRANSITORIO
+## TRANSITORIOS
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
 
 ###### ARTICULO PRIMERO.
 
@@ -6938,9 +6944,7 @@ b).- 10% para la prevista en el inciso b) de la citada fracción II.
 
 E.- En los casos señalados en el artículo 78 la multa será el 6% de las contribuciones omitidas.
 
-## TRANSITORIOS
-
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+## TRANSITORIO
 
 ###### ARTICULO UNICO.
 
@@ -7010,6 +7014,8 @@ OCTAVA.- La jurisprudencia que haya establecido la Sala Superior del Tribunal Fe
 
 ## TRANSITORIO
 
+> <small>(F. DE E., D.O.F. 19 DE FEBRERO DE 1988)</small>
+
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el 15 de enero de 1988, excepto las adiciones de un segundo párrafo al artículo 126 y de un párrafo final y los incisos a) y b) al artículo 143 del Código Fiscal de la Federación, establecidas por el ARTICULO PRIMERO, así como lo dispuesto por el ARTICULO TERCERO de este Decreto, que entrarán en vigor el 30 de junio de 1988.
@@ -7037,8 +7043,6 @@ I.- La cantidad que conforme al primer párrafo de la fracción I del artículo 
 II.- Para los efectos del segundo párrafo del artículo 70 del Código Fiscal de la Federación, durante el año de 1989, se establece el factor de 1.3 que se aplicará a partir del 1o. de marzo del mismo año sobre las cantidades en vigor.
 
 ## TRANSITORIO
-
-> <small>(F. DE E., D.O.F. 19 DE FEBRERO DE 1988)</small>
 
 ###### ARTICULO UNICO.
 
@@ -7072,7 +7076,9 @@ II.- A partir del 1o. de enero de 1990 quedan sin efecto las resoluciones admini
 
 Lo dispuesto en el párrafo anterior no será aplicable en materia de aportaciones de seguridad social, contribuciones de mejoras y derechos, así como tratándose de las autorizaciones relativas a prórrogas para el pago en parcialidades, aceptación de garantías del interés fiscal, las que obliga la ley para la deducción en inversiones en activo fijo, y la de inicio de consolidación en el impuesto sobre la renta.
 
-## TRANSITORIO
+## TRANSITORIOS
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
 
 ###### ARTICULO PRIMERO.
 
@@ -7132,7 +7138,11 @@ III.- Los contribuyentes que tengan saldos a favor pendientes de compensar, dete
 
 ## TRANSITORIOS
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO, QUE SE RELACIONAN CON EL CODIGO.
+
+PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1991, excepción hecha de lo dispuesto por el Artículo Vigésimo Quinto que iniciará su vigencia al día siguiente de la publicación de esta Ley en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE MARZO DE 1991.
 
 ###### ARTICULO UNICO.
 
@@ -7190,13 +7200,11 @@ Los contribuyentes podrán sujetarse a lo dispuesto por dicho artículo en el ca
 
 VI.- Para los efectos del tercer párrafo del artículo 30 y del segundo párrafo del artículo 67 del Código Fiscal de la Federación, la obligación de mantener la contabilidad por 10 años y el plazo por el cual se extinguirán las facultades de determinación en relación al término por el cual se encuentran obligados a mantener su contabilidad, respectivamente, será en ambos casos de seis años en 1992; de siete años en 1993; de ocho años en 1994 y de nueve años en 1995.
 
-## TRANSITORIOS
+## TRANSITORIO
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO, QUE SE RELACIONAN CON EL CODIGO.
+UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1992.
 
-PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1991, excepción hecha de lo dispuesto por el Artículo Vigésimo Quinto que iniciará su vigencia al día siguiente de la publicación de esta Ley en el Diario Oficial de la Federación.
-
-D.O.F. 15 DE MARZO DE 1991.
+D.O.F. 20 DE MAYO DE 1992.
 
 ###### ARTICULO UNICO.
 
@@ -7221,10 +7229,6 @@ DISPOSICION DE VIGENCIA ANUAL
 Durante el año de 1993, el texto del penúltimo párrafo del artículo 20 del Código Fiscal de la Federación, será el siguiente:
 
 ## TRANSITORIO
-
-UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1992.
-
-D.O.F. 20 DE MAYO DE 1992.
 
 ###### ARTICULO UNICO.
 
@@ -7282,6 +7286,10 @@ BIS.- Lo dispuesto en el artículo 14-A podrá aplicarse desde el 1o. de enero d
 
 ## TRANSITORIO
 
+UNICO.- El presente Decreto entrará en vigor el día 1o. de enero de 1994.
+
+D.O.F. 11 DE FEBRERO DE 1994.
+
 ###### ARTICULO UNICO.
 
 La presente Resolución entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -7309,12 +7317,6 @@ Para los efectos de lo dispuesto en el Código Fiscal de la Federación se estar
 I.- Las cantidades establecidas en los artículos 82, fracción I, incisos a) y b), III, IV y VIII, 84, fracciones VI, IX, X y XI, 84-B, fracciones IV y V, 84-F y 86, fracción III, de este Código, se entienden actualizadas por el mes de enero de 1995, debiéndose efectuar las posteriores actualizaciones en los términos que establece el artículo 70 de este Código a partir de la actualización prevista para el mes de julio de 1995.
 
 II.- Para los efectos de lo dispuesto en el artículo 46-A del Código Fiscal de la Federación, el plazo para la conclusión de las visitas o revisiones a que dicho artículo se refiere que se encuentren en trámite, se computará a partir del 1o. de enero de 1995.
-
-## TRANSITORIO
-
-UNICO.- El presente Decreto entrará en vigor el día 1o. de enero de 1994.
-
-D.O.F. 11 DE FEBRERO DE 1994.
 
 ## TRANSITORIO
 
@@ -7751,6 +7753,146 @@ c) Los créditos por los que se hubiera obtenido la condonación total o parcial
 La condonación prevista en esta fracción no será aplicable a los créditos fiscales derivados del impuesto sobre tenencia o uso de vehículos, del impuesto sobre automóviles nuevos ni a los del impuesto general de importación.
 
 La Secretaría de Hacienda y Crédito Público, mediante disposiciones de carácter general, podrá establecer las reglas que faciliten la aplicación de lo dispuesto en esta fracción.
+
+## Transitorios
+
+Primero. El presente Decreto entrará en vigor el 1o. de enero de 2001.
+
+Segundo. Las menciones hechas en el presente Decreto a las Secretarías cuyas denominaciones se modificaron por efectos del Decreto publicado en el Diario Oficial de la Federación el jueves 30 de noviembre de 2000, mediante el cual se reformó la Ley Orgánica de la Administración Pública Federal se entenderán conforme a la denominación que para cada una se estableció en este último.
+
+D.O.F. 2 DE MARZO DE 2001.
+
+Unico.- La presente Resolución entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE JULIO DE 2001.
+
+LA ACTUALIZACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
+
+D.O.F. 12 DE FEBRERO DE 2002.
+
+Unico. La presente Resolución entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 5 DE JULIO DE 2002.
+
+Primero. La presente Resolución entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE AGOSTO DE 2002.
+
+LA ACTUALIZACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
+
+D.O.F. 20 DE ENERO DE 2003.
+
+LA ACTUALIZACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
+
+D.O.F. 21 DE NOVIEMBRE DE 2003.
+
+Primero. La presente Resolución entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las organizaciones civiles y fideicomisos que a la fecha en que se publique en el Diario Oficial de la Federación el Anexo 14, aún tengan pendiente el trámite de su solicitud de renovación de la autorización para recibir donativos deducibles por el ejercicio fiscal de 2003, continuarán con el carácter de donataria autorizada hasta en tanto la autoridad correspondiente no emita la resolución definitiva a su solicitud.
+
+Tercero. Para los efectos de la regla 3.12.10. de esta Resolución, los contribuyentes podrán ejercer la opción prevista en la misma, siempre que a más tardar en la fecha que realicen el primer pedido de productos a partir de la entrada en vigor de la presente Resolución, entreguen a la persona moral que les calcule el ISR a su cargo, la aceptación a que se refiere la fracción IV de la citada regla y además hubieran efectuado el entero del ISR correspondiente a los ingresos obtenidos por la enajenación de los productos de la persona moral de que se trate, en el periodo comprendido del 1 de enero de 2003 a la entrada en vigor de esta Resolución.
+
+Cuarto. Para los efectos de lo dispuesto en la regla 5.1.14. de esta Resolución, los contribuyentes que durante el año de 2003 hayan obtenido la devolución de saldos a favor del IVA, deberán presentar la forma oficial 75 "Aviso del destino de los saldos a favor del IVA" que se da a conocer en el Anexo 1 de esta Resolución, por cada una de las devoluciones obtenidas, conjuntamente con la primera devolución que se solicite a partir de la entrada en vigor de la citada regla.
+
+Los contribuyentes mencionados en el párrafo anterior que a partir de la vigencia de la regla 5.1.14. de esta Resolución y hasta el mes de enero de 2004 no soliciten la devolución de saldos a favor del IVA, deberán presentar en dicho mes por cada devolución solicitada, la forma oficial 75 "Aviso del destino de los saldos a favor del IVA", ante la Administración Local de Asistencia al Contribuyente que corresponda a su domicilio fiscal, en la que se informará el destino de las devoluciones obtenidas o, en su caso, las razones por las que no se ha realizado la inversión en infraestructura hidráulica ni el pago de los derechos establecidos en los artículos 222 y 276 de la LFD.
+
+Quinto. Las reglas 5.6.6., 5.6.7. y 5.6.8. de esta Resolución, entrarán en vigor a partir del 1 de enero de 2004.No obstante lo anterior, los contribuyentes podrán solicitar la inscripción en los registros a que se refieren las reglas 5.6.7., fracción I y 5.6.8. fracción I de esta Resolución, a partir del 15 de noviembre de 2003.
+
+D.O.F. 5 DE ENERO DE 2004.
+
+Disposiciones Transitorias del Código Fiscal de la Federación
+
+Artículo Segundo. En relación con las modificaciones a que se refiere el Artículo Primero de este Decreto, se estará a lo siguiente:
+
+I. El presente Decreto entrará en vigor el 1o. de enero de 2004.
+
+II. Lo dispuesto en el artículo 18 del Código Fiscal de la Federación, entrará en vigor hasta que el Servicio de Administración Tributaria establezca las promociones que se deberán presentar por medios electrónicos y en documento impreso.
+
+III. A partir de la entrada en vigor del presente Decreto las cantidades a que se refieren los artículos 32-A, fracción I; 80, fracciones I, III a VI; 82, fracciones I a IV, VI, VIII a XIX, XXI y XXIII; 84, fracciones I a III, V y VII a XII; 84-B, fracciones I, III a VI; 84-D; 84-F; 86, fracciones I a V; 86-B, fracciones I a III; 86-D; 86-F; 88; 90; 91; 150, segundo y tercer párrafos, del Código Fiscal de la Federación, mismas que se encuentran actualizadas de conformidad con lo dispuesto en el artículo 17-B de dicho ordenamiento vigente hasta antes de la entrada en vigor del presente Decreto, y dadas a conocer en el Anexo 5 de la Resolución Miscelánea Fiscal para 2003, publicado en el Diario Oficial de la Federación el 21 de noviembre de 2003, son las cantidades que estarán vigentes a partir de la entrada en vigor del presente Decreto.
+
+IV. En las solicitudes de devolución presentadas con anterioridad a la entrada en vigor del presente Decreto, en las que el contribuyente no hubiese manifestado su número de cuenta bancaria para transferencias electrónicas del contribuyente en la institución financiera de que se trate debidamente integrado de conformidad con las disposiciones del Banco de México y, por ende, las autoridades fiscales no puedan realizar la devolución de que se trate mediante abono en cuenta del contribuyente, dicha devolución podrá efectuarse mediante cheque nominativo. Cuando el monto de la devolución no exceda de $10,000.00 las autoridades fiscales podrán realizarla en efectivo. En estos casos, se considerará que la devolución está a disposición del contribuyente cuando se le notifique la autorización de la devolución respectiva.
+
+V. Lo dispuesto en el primer párrafo del artículo 23 del Código Fiscal de la Federación entrará en vigor el 1o. de julio de 2004.
+
+A partir de la entrada en vigor del presente Decreto y hasta el 30 de junio de 2004, se estará a lo siguiente:
+
+Los contribuyentes obligados a pagar mediante declaración podrán optar por compensar las cantidades que tengan a su favor contra las que estén obligados a pagar por adeudo propio o por retención a terceros, siempre que ambas deriven de una misma contribución, incluyendo sus accesorios. Al efecto, bastará que efectúen la compensación de dichas cantidades actualizadas, conforme a lo previsto en el artículo 17-A del Código Fiscal de la Federación, desde el mes en que se realizó el pago de lo indebido o se presentó la declaración que contenga el saldo a favor, hasta aquel en que la compensación se realice, y presenten el aviso de compensación correspondiente, dentro de los cinco días siguientes a aquél en el que la misma se haya efectuado, acompañado de la documentación que al efecto se solicite en la forma oficial correspondiente.
+
+Lo dispuesto en el párrafo anterior no procederá respecto de las contribuciones que se deban pagar con motivo de la importación.
+
+Se entenderá que es una misma contribución si se trata del mismo impuesto, aportación de seguridad social, contribución de mejoras o derecho.
+
+VI. El asociante de las asociaciones en participación, que hasta antes de la entrada en vigor del presente Decreto hayan obtenido el registro correspondiente ante el Registro Federal de Contribuyentes en los términos del cuarto párrafo del artículo 27 del Código Fiscal de la Federación vigente hasta antes de la entrada en vigor del presente Decreto, deberán solicitar al citado registro, en un plazo de 2 meses, contados a partir de la entrada en vigor del citado Decreto, la modificación de dicho registro, de conformidad con las disposiciones aplicables.
+
+VII. Para los efectos del artículo 28, fracción V del Código Fiscal de la Federación, los contribuyentes contarán con un plazo de seis meses contados a partir de la entrada en vigor del presente Decreto para incorporar los equipos de control volumétrico a que se refiere el precepto citado.
+
+VIII. Para los efectos del artículo 29 de la Ley del Servicio de Tesorería de la Federación, el plazo a que se refiere dicho artículo será de 24 meses contados a partir de que se considere formalizada la aceptación en pago de conformidad con dicho ordenamiento. Las disposiciones a que se refiere el artículo 191 del Código Fiscal de la Federación relativas a los fondos de administración, mantenimiento y enajenación y de contingencia para reclamaciones, serán aplicables a la dación en pago a que hace mención la Ley del Servicio de Tesorería de la Federación.
+
+IX. Lo dispuesto en el último párrafo del artículo 32-A del Código Fiscal de la Federación entrará en vigor el 1o. de enero de 2005.
+
+X. Las dependencias y entidades a que hace referencia el artículo 32-D del Código Fiscal de la Federación, también podrán contratar adquisiciones, arrendamientos, servicios u obra pública con los contribuyentes que antes de la entrada en vigor del presente Decreto hubiesen celebrado con las autoridades fiscales convenio para cubrir a plazos, ya sea con pago diferido o en parcialidades, los adeudos fiscales que tengan a su cargo, siempre que dichos contribuyentes estén al corriente en el cumplimiento de sus obligaciones fiscales.
+
+XI. Para los efectos de lo dispuesto por los apartados A y B del artículo 46-A del Código Fiscal de la Federación, los plazos con que cuenta la autoridad fiscal, incluidas las prórrogas correspondientes, para concluir las visitas que se desarrollen en el domicilio fiscal de los contribuyentes o las revisiones de la contabilidad de los mismos que se efectúen en las oficinas de las propias autoridades, iniciadas con anterioridad al 1o. de enero de 2004, comenzarán a contar a partir de la entrada en vigor del presente Decreto.
+
+XII. Para los efectos de lo dispuesto por el artículo 50 del Código Fiscal de la Federación, el plazo con que cuenta la autoridad fiscal para emitir la resolución que corresponda respecto de las visitas domiciliarias concluidas con anterioridad al 1o. de enero de 2004 y sobre las cuales la autoridad fiscal, conforme al precepto citado vigente hasta antes de la entrada en vigor del presente Decreto, no contaba con un plazo determinado para emitirla, comenzará a contar a partir de la entrada en vigor del presente Decreto.
+
+XIII. Para los efectos del segundo párrafo del inciso a) de la fracción I del artículo 52 del Código Fiscal de la Federación, los contadores públicos registrados ante las autoridades fiscales, así como aquellos que soliciten su registro, contarán con un plazo de 2 años contados a partir de la entrada en vigor del presente Decreto para obtener y presentar, ante las autoridades fiscales, la certificación expedida por la agrupación profesional autorizada para ello a que se refiere el citado artículo; de no hacerlo, se les tendrá por cancelado el registro correspondiente.
+
+XIV. Las personas físicas y morales, que tengan créditos fiscales por impuestos trasladados, retenidos o recaudados, generados con anterioridad a la entrada en vigor del presente Decreto, podrán solicitar autorización para pagar a plazos dichas contribuciones, siempre y cuando:
+
+a) Garanticen el interés fiscal mediante billete de depósito, prenda o hipoteca, obligación solidaria asumida por tercero que compruebe su idoneidad y solvencia o mediante embargo en la vía administrativa de inmuebles libres de gravámenes o de afectaciones agrarias y urbanísticas.
+
+b) Efectúen el pago de una cantidad equivalente al 20% de la totalidad del adeudo que corresponda a la primera parcialidad, considerando las contribuciones omitidas actualizadas, los recargos generados, hasta la fecha de pago y, en su caso, las sanciones que se le hubieren determinado.
+
+La autorización a que se refiere esta fracción, en ningún caso excederá de 24 parcialidades.
+
+XV. Para los efectos del artículo 67 del Código Fiscal de la Federación, los plazos contenidos en dicho precepto, respecto de los impuestos con cálculo mensual definitivo correspondientes a años anteriores a la entrada en vigor del presente Decreto, se computarán a partir del día siguiente a aquél en que se presentó o debió haberse presentado la última declaración mensual del año de calendario inmediato anterior a la entrada en vigor del presente Decreto.
+
+En los casos a que se refiere el párrafo anterior, las facultades se extinguirán por años de calendario completos, incluyendo aquellas facultades relacionadas con la exigibilidad de obligaciones distintas de la de presentar la declaración del ejercicio. No obstante lo anterior, cuando se presenten declaraciones complementarias el plazo empezará a computarse a partir del día siguiente a aquél en el que se presenten, por lo que hace a los conceptos modificados en relación a la última declaración de esa misma contribución en el ejercicio.
+
+XVI. Lo dispuesto en el segundo párrafo de la fracción III del artículo 141 del Código Fiscal de la Federación, entrará en vigor el 1o. de mayo de 2005.
+
+XVII. Durante el año de 2004, las autoridades fiscales podrán efectuar los remates previstos en la Sección IV del Capítulo III del Título V del Código Fiscal de la Federación, de conformidad con las disposiciones vigentes hasta antes de la entrada en vigor del presente Decreto.
+
+XVIII. Los ingresos que se obtengan desde la entrada en vigor del presente Decreto y hasta el 31 de diciembre de 2004, por la enajenación de bienes que hayan sido adjudicados al fisco federal por concepto de dación en pago, se destinarán primordialmente para la constitución de los fondos de administración, mantenimiento y enajenación y de contingencia para reclamaciones, a que hace referencia el artículo 191 del Código Fiscal de la Federación.
+
+XIX. Los bienes que hayan sido aceptados en pago o adjudicados, con anterioridad a la entrada en vigor del presente Decreto, que aún estén bajo custodia de las autoridades fiscales, podrán ser enajenados fuera de remate como si nunca hubiesen sido aceptados en pago o adjudicados, donados o destruidos, directamente por el Servicio de Administración Tributaria o por las terceras personas que dicho Servicio designe de conformidad con lo dispuesto en el artículo 191 del Código Fiscal de la Federación. Lo anterior, en ningún momento afectará los derechos de los contribuyentes.
+
+XX. Lo dispuesto en la fracción I del artículo 109 del Código Fiscal de la Federación vigente hasta antes de la entrada en vigor de este Decreto, seguirá aplicándose por los hechos, actos u omisiones y en general por todas aquellas conductas cometidas durante su vigencia, asimismo, dicho precepto seguirá aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por tal disposición legal.
+
+XXI. Durante el ejercicio de 2004 el uso de la firma electrónica avanzada será optativo para los contribuyentes. En tanto los contribuyentes obtienen el certificado de firma electrónica avanzada, en el ejercicio fiscal de 2004 deberán continuar utilizando ante el Servicio de Administración Tributaria las firmas electrónicas que ante el mismo Servicio han venido utilizando, o las que generen conforme a las reglas de carácter general que dicho órgano emita para la presentación de declaraciones y dictámenes, según sea el caso.
+
+XXII. Se faculta al Servicio de Administración Tributaria para establecer con el Banco de México los sistemas de coordinación necesarios para el aprovechamiento de la infraestructura de clave pública regulada por dicha institución, para el control de los certificados a que se refiere el segundo párrafo del artículo 17-D del Código Fiscal de la Federación.
+
+Para los efectos mencionados en el párrafo anterior, se entiende que el Servicio de Administración Tributaria se encuentra autorizado para actuar como agencia registradora y certificadora.
+
+XXIII. Para los efectos de la actualización de las cantidades que se establecen en el Código Fiscal de la Federación, prevista en el penúltimo párrafo del artículo 17-A del ordenamiento citado, se considera que la actualización de las cantidades a que se refiere dicho párrafo se ha realizado por última vez en el mes de julio de 2003, salvo las cantidades a que se refiere el Capítulo II del Título IV de dicho ordenamiento, mismas que deberán ser actualizadas en el mes de enero de 2004, a partir de la última actualización que hayan sufrido.
+
+D.O.F. 9 DE FEBRERO DE 2004.
+
+Unico. La presente Resolución entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 31 DE DICIEMBRE DE 2004.
+
+Único.- El presente Decreto entrará en vigor el 1o. de enero del 2005.
+
+D.O.F. 25 DE OCTUBRE DE 2005.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La organización de la Secretaría de Seguridad Pública, para ejercer las atribuciones que le confiere este Decreto, durará un máximo de 180 días contados a partir de la entrada en vigor del presente Decreto, lapso en el que no ejercerá las atribuciones conferidas por este Decreto, las cuales corresponderán a las autoridades administrativas que han venido realizándolas con fundamento en disposiciones de la Ley Orgánica de la Administración Pública Federal y demás ordenamientos reformados por este Decreto.
+
+TERCERO. El Ejecutivo Federal, dentro de los 180 días siguientes, a partir de la entrada en vigor del presente Decreto, expedirá las reformas y adiciones correspondientes a los Reglamentos Interiores y demás disposiciones reglamentarias; así como, tabuladores de multas por tipo de infracción en lo específico a efecto de garantizar certeza jurídica y evitar discrecionalidad en su aplicación.
+
+CUARTO. Los Concesionarios y Permisionarios de los servicios de autotransporte de pasajeros, de turismo, de carga, de transporte privado y de los servicios auxiliares de arrastre y arrastre (sic) y salvamento a que se refiere la Ley de Caminos, Puentes y Autotransporte Federal contarán con un plazo de 180 días, a partir de la entrada en vigor del presente Decreto, para regularizar cualquier omisión o irregularidad respecto del cumplimiento de la normatividad respectiva, excepto en lo que se refiere a materiales y residuos peligrosos, pesos, dimensiones, capacidad, seguros y licencias relacionadas con el Autotransporte Federal.
+
+QUINTO. Las disposiciones reglamentarias en vigor se continuarán aplicando, mientras se expiden los nuevos reglamentos.
+
+SEXTO. La Secretaría de Hacienda y Crédito Público en coordinación con las dependencias competentes y de conformidad con el programa establecido, instrumentará lo necesario para el otorgamiento de estímulos fiscales para la sustitución de unidades del autotransporte federal en mal estado.
+
+SÉPTIMO. Los procedimientos y recursos administrativos iniciados antes de la entrada en vigor de las presentes reformas, se seguirán hasta su conclusión definitiva por y ante la autoridad que se presentaron de acuerdo con los ordenamientos vigentes al momento que iniciaron.
+
+OCTAVO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
 
 ## Transitorios
 
