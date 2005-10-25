@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-acuerdo-de-44488"
 country: "mx"
 rank: "otro"
 publication_date: "2003-04-02"
-last_updated: "2005-07-15"
+last_updated: "2005-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44488&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,13 +19,13 @@ issue_date: "2003-03-27"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL ACUERDO DE COMPLEMENTACION ECONOMICA NO. 53 (BRASIL, 2002)
 
-ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA INTERNAR A LA REPUBLICA FEDERATIVA DEL BRASIL, PRODUCTOS, ORIGINARIOS Y PROVENIENTES DE LOS ESTADOS UNIDOS MEXICANOS EN EL PERIODO MAYO DE 2005 AL 30 DE ABRIL DE 2006, CON LA PREFERENCIA ARANCELARIA ESTABLECIDA EN EL ACUERDO DE COMPLEMENTACION ECONOMICA NO. 53, CELEBRADO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA REPUBLICA FEDERATIVA DEL BRASIL
+ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA IMPORTAR EN EL PERIODO MAYO DE 2005 AL 30 DE ABRIL DE 2006, LOS PRODUCTOS, ORIGINARIOS Y PROVENIENTES DE LA REPUBLICA FEDERATIVA DEL BRASIL, CON LA PREFERENCIA ARANCELARIA ESTABLECIDA, Y DE CONFORMIDAD CON EL ACUERDO DE COMPLEMENTACION ECONOMICA No. 53, CELEBRADO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA REPUBLICA FEDERATIVA DEL BRASIL
 
-Acuerdo publicado en el Diario Oficial de la Federación, el viernes 15 de julio de 2005.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 25 de octubre de 2005.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-FERNANDO DE JESUS CANALES CLARIOND, Secretario de Economía, con fundamento en los artículos II-2 del Acuerdo de Complementación Económica No. 53, 34 fracción I de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracción V, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción V y 26 al 36 del Reglamento de la Ley de Comercio Exterior; 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía, con fundamento en los artículos II-1 del Acuerdo de Complementación Económica No. 53; 34 fracción I de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracción V; 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción V, y 26 al 36 del Reglamento de la Ley de Comercio Exterior; 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
@@ -37,15 +37,83 @@ Que el Acuerdo de Complementación Económica No. 53 fue publicado en el Diario 
 
 Que el 31 de marzo de 2003, los Estados Unidos Mexicanos y la República Federativa del Brasil suscribieron el Segundo Protocolo Adicional al Acuerdo de Complementación Económica No. 53;
 
-Que el Acuerdo por el que se da a conocer el Segundo Protocolo Adicional al Acuerdo de Complementación Económica No. 53, suscrito entre los Estados Unidos Mexicanos y la República Federativa del Brasil, fue publicado en el Diario Oficial de la Federación el 2 de mayo de 2003;
+Que el Acuerdo por el que se da a conocer el Segundo Protocolo Adicional al Acuerdo de Complementación Económica No. 53, sucrito entre los Estados Unidos Mexicanos y la República Federativa del Brasil, fue publicado en el Diario Oficial de la Federación el 2 de mayo de 2003;
 
 Que es una estrategia prioritaria del gobierno federal fortalecer los mecanismos regionales de diálogo político y de integración económica, así como establecer los mecanismos adecuados para la administración de los acuerdos comerciales internacionales suscritos por los Estados Unidos Mexicanos, y
 
 Que la Comisión de Comercio Exterior dio opinión favorable sobre esta medida, he tenido a bien expedir el siguiente:
 
-ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA INTERNAR
+ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA IMPORTAR EN EL PERIODO MAYO DE 2005 AL 30 DE ABRIL DE 2006, LOS PRODUCTOS, ORIGINARIOS Y PROVENIENTES DE LA REPUBLICA FEDERATIVA DEL BRASIL, CON LA PREFERENCIA ARANCELARIA ESTABLECIDA, Y DE CONFORMIDAD CON EL ACUERDO DE COMPLEMENTACION ECONOMICA No. 53, CELEBRADO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA REPUBLICA FEDERATIVA DEL BRASIL
 
-A LA REPUBLICA FEDERATIVA DEL BRASIL, PRODUCTOS, ORIGINARIOS Y PROVENIENTES DE LOS ESTADOS UNIDOS MEXICANOS EN EL PERIODO MAYO DE 2005 AL 30 DE ABRIL DE 2006, CON LA PREFERENCIA ARANCELARIA ESTABLECIDA EN EL ACUERDO DE COMPLEMENTACION ECONOMICA No. 53, CELEBRADO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA REPUBLICA FEDERATIVA DEL BRASIL
+###### ARTICULO 1o.
+
+Los cupos para importar sulfuros de sodio, tereftalato de dimetilo, pigmentos y preparaciones a base de dióxido de titanio, poliestireno de uso general, poli(tereftalato) de etileno y otras placas, láminas, hojas, películas, bandas y tiras de polipropileno, originarios y provenientes de la República Federativa del Brasil, con la preferencia arancelaria establecida en el Anexo I del Acuerdo de Complementación Económica No. 53, celebrado entre los Estados Unidos Mexicanos y la República Federativa del Brasil, se ejercen en el periodo mayo de 2005 al 30 de abril de 2006 y son los que se enlistan en el cuadro siguiente:
+
+Descripción del producto/fracción Cupo
+
+arancelaria (Toneladas)
+
+Sulfuros de sodio.
+
+2830.10.01 6,000
+
+Tereftalato de dimetilo.
+
+2917.37.01 35,000
+
+Pigmentos y preparaciones a base de
+
+dióxido de titanio con un contenido de
+
+dióxido de titanio superior o igual al
+
+80% en peso, calculado sobre
+
+materia seca.
+
+3206.11.01 35,000 divididos en: 20,000,
+
+con tamaño medio de
+
+partícula superior o igual a 6
+
+micras, con adición de
+
+modificadores.
+
+15,000, de los demás pigmentos
+
+y preparaciones a base de
+
+dióxido de titanio
+
+Poliestireno de uso general (GPPS)
+
+3903.19.02 y 3903.19.99 4,000
+
+Politereftalato de etileno
+
+3907.60.01 y 3907.60.99 6,000
+
+Otras placas, láminas, hojas, películas,
+
+bandas y tiras de polipropileno
+
+3920.20.01, 3920.20.02, 3920.20.03,
+
+3920.20.04 y 3920.20.99 2,000
+
+###### ARTICULO 2o.
+
+De conformidad con lo dispuesto en los artículos 24 segundo párrafo de la Ley de Comercio Exterior y 31 de su Reglamento, y con objeto de promover las corrientes comerciales entre los Estados Unidos Mexicanos y la República Federativa del Brasil, y cumplir con lo pactado en el Acuerdo de Complementación Económica No. 53, se aplica el mecanismo de asignación directa, a los cupos descritos en el cuadro anterior en beneficio de las personas que se citan en el artículo 3o. del presente Acuerdo.
+
+###### ARTICULO 3o.
+
+Podrán solicitar asignación de los cupos de importación a que se refiere el presente Acuerdo, las personas físicas o morales establecidas en los Estados Unidos Mexicanos que cuenten con el certificado de origen de la Asociación Latinoamericana de Integración, expedido por la autoridad competente de la República Federativa del Brasil, que en el campo de OBSERVACIONES contenga la leyenda “La fracción arancelaria… cuenta con una preferencia arancelaria de …% para un monto de… según el cupo asignado en el ACE 53”, a nombre del proveedor brasileño. La asignación será otorgada por la Dirección General de Comercio Exterior de esta Secretaría dentro de los siete días hábiles siguientes a la fecha de recepción de la solicitud, hasta agotar los cupos.
+
+###### ARTICULO 4o.
+
+Las solicitudes de asignación de cupo se deben presentar en el formato “Solicitud de Cupo Anual ALADI” SE-03-016-1, anexando los documentos que indica y el certificado de origen expedido por la autoridad competente de la República Federativa del Brasil, el cual fue acordado en el Acuerdo comercial correspondiente para la administración de estos cupos en particular, en la ventanilla de atención al público de la representación federal de esta Secretaría que le corresponda, en horario de 9:00 a 14:00 horas. No existe hoja de requisitos específicos para este Acuerdo.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -167,10 +235,18 @@ Las solicitudes de asignación de los cupos a que se refiere este instrumento, d
 
 ###### ARTICULO 5.
 
-Los formatos a que se hace referencia en este Acuerdo estarán a disposición de los interesados en la Dirección General de Comercio Exterior, en las representaciones federales de la Secretaría y en la página de Internet de la Comisión Federal de Mejora Regulatoria en la dirección electrónica: www.cofemer.gob.mx.
+Una vez asignado el monto para importar dentro de los cupos, la Secretaría, a través de la representación federal correspondiente, expedirá los certificados de cupo que correspondan, previa presentación de solicitud del interesado en el formato “Solicitud de Importación Específica ALADI” SE-03-016-2, en la ventanilla de atención al público de la representación federal de esta Secretaría que le corresponda, en horario de 9:00 a 14:00 horas. La expedición de los certificados de cupo se realizará dentro de los siete días hábiles siguientes a la fecha de recepción de las solicitudes.
+
+###### ARTICULO 6.
+
+Los formatos a que se hace referencia en este Acuerdo estarán a disposición de los interesados en la Dirección General de Comercio Exterior, en las representaciones federales de la Secretaría y en la página de Internet de la Comisión Federal de Mejora Regulatoria en la dirección electrónica www.cofemer.gob.mx.
+
+###### ARTICULO 7.
+
+La asignación de los presentes cupos no exime del cumplimiento de requisitos no arancelarios y normas a la importación definitiva.
 
 ## TRANSITORIO
 
-UNICO.- El presente Acuerdo iniciará su vigencia el día de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 30 de abril de 2006, o en el momento en que entre en vigor un acuerdo entre el MERCOSUR y los Estados Unidos Mexicanos, o cuando medie denuncia de algunos de los países signatarios del Acuerdo de Complementación Económica No. 53.
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 30 de abril de 2006, o en el momento en que entre en vigor un Acuerdo entre el MERCOSUR y los Estados Unidos Mexicanos, o cuando medie denuncia de algunos de los países signatarios del Acuerdo de Complementación Económica No. 53.
 
-México, D.F., a 8 de julio de 2005.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
+México, D.F., a 17 de octubre de 2005.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
