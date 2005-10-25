@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-turismo-para-el-estado-de-tamaulipas-8223"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-30"
-last_updated: "1993-06-30"
+last_updated: "2005-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8223&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TURISMO PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 2005.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el miércoles 30 de junio de 1993.
 
@@ -43,9 +43,11 @@ LEY DE TURISMO PARA EL ESTADO DE TAMAULIPAS
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2005)</small>
+
 ###### ARTICULO 1o.
 
-La presente Ley es de interés público y observancia general en el Estado de Tamaulipas, correspondiendo su aplicación e interpretación al Ejecutivo Estatal, a través de la unidad administrativa competente de la Secretaría de Desarrollo Industrial, Comercial y Turístico.
+La presente Ley es de interés público y observancia general en el Estado de Tamaulipas, correspondiendo su aplicación e interpretación al Ejecutivo Estatal, a través de la unidad administrativa competente de la Secretaría de Turismo.
 
 ###### ARTICULO 2o.
 
@@ -71,11 +73,15 @@ IX.- Concertar programas que mejoren la calidad de los servicios turísticos e i
 
 X.- Desarrollar acciones que favorezcan la oferta turística y fomenten la afluencia del turismo nacional y extranjero hacia el Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE OCTUBRE DE 2005)</small>
+
 ###### ARTICULO 3o.
 
-Para los efectos de esta Ley se entenderá por:
+Para los efectos de esta ley se entenderá por:
 
-I.- SECRETARIA.- La Unidad Administrativa de Turismo de la Secretaría de Desarrollo Industrial, Comercial y Turístico.
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2005)</small>
+
+I.- SECRETARIA.- La Secretaría de Turismo del Estado;
 
 II.- PRESTADOR DE SERVICIOS TURISTICOS.- La persona física o moral que habitualmente proporcione, intermedie o contrate con el turista la prestación de los servicios a que se refiere esta Ley.
 
@@ -117,7 +123,9 @@ El Consejo Consultivo Estatal se integrará por:
 
 I.- El Titular del Ejecutivo Estatal, quien lo presidirá.
 
-II.- El Titular de la Secretaría, quien fungirá como Secretario Técnico.
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2005)</small>
+
+II.- El Titular de la Secretaría de Turismo del Estado;
 
 III.- El Subsecretario de Desarrollo Turístico, que será el Secretario Operativo.
 
@@ -484,3 +492,15 @@ A T E N T A M E N T E .
 SUFRAGIO EFECTIVO. NO REELECCIÓN.
 
 El Gobernador Constitucional del Estado, MANUEL CAVAZOS LERMA.- El Secretario General de Gobierno, JAIME RODRIGUEZ INURRIGARRO.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 25 DE OCTUBRE DE 2005.
+
+###### ARTICULO PRIMERO.
+
+Las presentes reformas a los artículos 1°, 3° fracción I y 8° fracción II de la Ley de Turismo para el Estado de Tamaulipas, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Por considerar que no afectan a la actividad turística del Estado sino sólo al nombramiento del titular, se seguirán efectuando todas las actividades ya planeadas.
