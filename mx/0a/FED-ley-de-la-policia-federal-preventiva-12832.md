@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-policia-federal-preventiva-12832"
 country: "mx"
 rank: "ley"
 publication_date: "1999-01-04"
-last_updated: "2000-11-30"
+last_updated: "2005-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12832&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-12-31"
 
 LEY DE LA POLICIA FEDERAL PREVENTIVA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE NOVIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE OCTUBRE DE 2005.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 4 de enero de 1999.
 
@@ -99,7 +99,9 @@ IX. Obtener, analizar, estudiar y procesar información, así como poner en prá
 
 X. Vigilar e inspeccionar, para fines de seguridad pública, la zona terrestre de las vías generales de comunicación y los medios de transporte que operen en ellas;
 
-XI. Levantar las infracciones, en los formatos proporcionados por la autoridad competente, por violaciones a las disposiciones legales y reglamentarias relativas al uso de la zona terrestre de las vías generales de comunicación y remitirlas a la dependencia competente para su trámite correspondiente;
+> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 2005)</small>
+
+XI. Levantar las infracciones e imponer las sanciones por violaciones a las disposiciones legales y reglamentarias relativas al tránsito en los caminos y puentes federales, así como a la operación de los servicios de autotransporte federal, sus servicios auxiliares y transporte privado cuando circulen en la zona terrestre de las vías generales de comunicación;
 
 XII. Ejercer, para fines de seguridad pública, la vigilancia e inspección sobre la entrada y salida de mercancías y personas en los aeropuertos, puertos marítimos autorizados para el tráfico internacional, en las aduanas, recintos fiscales, secciones aduaneras, garitas y puntos de revisión aduaneros; así como para los mismos fines sobre el manejo, transporte o tenencia de dichas mercancías en cualquier parte del territorio nacional;
 
@@ -280,3 +282,21 @@ El Presidente de la República deberá expedir el Reglamento Interior de la Secr
 ###### ARTÍCULO DÉCIMO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 25 DE OCTUBRE DE 2005.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La organización de la Secretaría de Seguridad Pública, para ejercer las atribuciones que le confiere este Decreto, durará un máximo de 180 días contados a partir de la entrada en vigor del presente Decreto, lapso en el que no ejercerá las atribuciones conferidas por este Decreto, las cuales corresponderán a las autoridades administrativas que han venido realizándolas con fundamento en disposiciones de la Ley Orgánica de la Administración Pública Federal y demás ordenamientos reformados por este Decreto.
+
+TERCERO. El Ejecutivo Federal, dentro de los 180 días siguientes, a partir de la entrada en vigor del presente Decreto, expedirá las reformas y adiciones correspondientes a los Reglamentos Interiores y demás disposiciones reglamentarias; así como, tabuladores de multas por tipo de infracción en lo específico a efecto de garantizar certeza jurídica y evitar discrecionalidad en su aplicación.
+
+CUARTO. Los Concesionarios y Permisionarios de los servicios de autotransporte de pasajeros, de turismo, de carga, de transporte privado y de los servicios auxiliares de arrastre y arrastre (sic) y salvamento a que se refiere la Ley de Caminos, Puentes y Autotransporte Federal contarán con un plazo de 180 días, a partir de la entrada en vigor del presente Decreto, para regularizar cualquier omisión o irregularidad respecto del cumplimiento de la normatividad respectiva, excepto en lo que se refiere a materiales y residuos peligrosos, pesos, dimensiones, capacidad, seguros y licencias relacionadas con el Autotransporte Federal.
+
+QUINTO. Las disposiciones reglamentarias en vigor se continuarán aplicando, mientras se expiden los nuevos reglamentos.
+
+SEXTO. La Secretaría de Hacienda y Crédito Público en coordinación con las dependencias competentes y de conformidad con el programa establecido, instrumentará lo necesario para el otorgamiento de estímulos fiscales para la sustitución de unidades del autotransporte federal en mal estado.
+
+SÉPTIMO. Los procedimientos y recursos administrativos iniciados antes de la entrada en vigor de las presentes reformas, se seguirán hasta su conclusión definitiva por y ante la autoridad que se presentaron de acuerdo con los ordenamientos vigentes al momento que iniciaron.
+
+OCTAVO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
