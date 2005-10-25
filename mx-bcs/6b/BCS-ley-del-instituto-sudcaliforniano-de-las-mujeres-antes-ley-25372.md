@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-instituto-sudcaliforniano-de-las-mujeres-antes-ley-2537
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-31"
-last_updated: "1999-07-31"
+last_updated: "2005-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DEL INSTITUTO SUDCALIFORNIANO DE LA MUJER
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 25 DE OCTUBRE DE 2005.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 31 de julio de 1999.
 
@@ -135,15 +135,19 @@ El Instituto gozará respecto de su patrimonio, de las franquicias y prerrogativ
 
 ### CAPITULO TERCERO. DE LOS ORGANOS DEL INSTITUTO
 
+> <small>(REFORMADO, B.O. 25 DE OCTUBRE DE 2005)</small>
+
 ###### ARTICULO 7º.
 
-El Instituto Sudcaliforniano de la Mujer, contará con los siguientes órganos:
+El Instituto de la Mujer, contará con los siguientes órganos:
 
-I.- Un Consejo Directivo, y
+I.- EL CONSEJO DIRECTIVO;
 
-II.- Una Dirección General.
+II.- LA DIRECCION GENERAL;
 
-Además, el Instituto contará con un Consejo Consultivo como órgano asesor y de apoyo al Consejo Directivo y a la Dirección General.
+III.- EL CONSEJO CONSULTIVO Y;
+
+IV.- LA CONTRALORÍA SOCIAL.
 
 ###### ARTICULO 8º.
 
@@ -249,15 +253,15 @@ XII.- Las demás que le otorguen el Consejo Directivo y las disposiciones legale
 
 ### CAPITULO CUARTO. DEL CONSEJO CONSULTIVO
 
+> <small>(REFORMADO, B.O. 25 DE OCTUBRE DE 2005)</small>
+
 ###### ARTICULO 14º.
 
-El Instituto contará con un Consejo Consultivo como órgano asesor y de apoyo que estará integrado por un grupo plural de mujeres representantes de Partidos Políticos, Instituciones de Educación Superior y Organizaciones no-gubernamentales.
+El Instituto contará con un Consejo Consultivo como órgano asesor y de apoyo que estará integrado por un grupo plural de mujeres representantes de partidos políticos, instituciones de educación superior, organizaciones no gubernamentales y aquellas personas, hombres o mujeres profesionistas y/o destacadas de la comunidad que por sus conocimientos, experiencia y trayectoria pueden aportar su trabajo como consejeros o consejeras consultivos.
 
-Los representantes a que se refiere el párrafo anterior, serán una por cada institución u organización.
+En ningún caso el número de integrantes profesionistas destacados rebasará el número del resto de los integrantes.
 
-Cada sesión será presidida por quien elijan sus integrantes cuando sean convocadas a tratar asuntos de su competencia.
-
-Los integrantes del Consejo Consultivo serán designadas (sic) por el Consejo Directivo del Instituto.
+Serán Los (sic) mismos requisitos que señala el artículo 18 para los integrantes del Consejo Consultivo.
 
 ###### ARTICULO 15º.
 
@@ -265,13 +269,97 @@ Las funciones del Consejo Consultivo serán las de asesorar y apoyar al Consejo 
 
 ### CAPITULO QUINTO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, B.O. 25 DE OCTUBRE DE 2005)</small>
+
 ###### ARTICULO 16º.
 
-Las relaciones laborales entre el Instituto y sus Trabajadores, se regirán por la Ley para los Trabajadores de los Poderes del estado y Municipios de Baja California Sur y de las Condiciones Generales de Trabajo. Se consideran trabajadores de confianza: la directora general, directores, subdirectores, jefes de departamento, administradores y demás personal que efectúe actividades de inspección y vigilancia.
+La Contraloria Social será el órgano ciudadano de vigilancia interna del Instituto Sudcaliforniano de la Mujer, estará integrado por cinco ciudadanos o ciudadanas, insaculados de una lista de 15 personas propuestas por el Consejo Consultivo, seleccionados por el Consejo Directivo, de la respuesta a la convocatoria abierta a la ciudadanía del Estado, que deberá emitir el mismo Consejo Consultivo cada seis años.
+
+> <small>(REFORMADO, B.O. 25 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 17º.
 
-El órgano de vigilancia del Instituto será la Contraloría General del Gobierno del Estado de Baja California Sur, quien determinará los instrumentos de control en los términos de las leyes aplicables.
+Serán facultades de la Contraloría Social:
+
+I.- Vigilar que los planes y proyectos del Instituto Sudcaliforniano de la Mujer, sean acordes con las necesidades de la población femenina;
+
+II.- Recibir opiniones y demandas de la ciudadanía, para mejora procesos administrativos y de atención a las necesidades sociales para evaluar su gestión; e
+
+III.- Vigilar el funcionamiento de los Consejos de Prevención y Atención Integral de la Violencia Intrafamiliar.
+
+> <small>(ADICIONADO, B.O. 25 DE OCTUBRE DE 2005)</small>
+
+###### ARTÍCULO 18º.
+
+Los requisitos para ser integrante de la Contraloría Social son los siguientes:
+
+I.- Ser ciudadano/o mexicano/o o tener residencia permanente y legal en la entidad;
+
+II.- Ser de reconocida probidad;
+
+III.- Tener prestigio en alguna de las siguientes áreas: profesional, académico, científico, artístico, empresarial, y/o haber destacado en actividades comunitarias, clubes sociales y organizaciones civiles o no gubernamentales;
+
+IV.- Poseer interés y compromiso explícito con los derechos humanos, laborales, ciudadanos, políticos, sexuales y reproductivos de la mujer y la equidad de género;
+
+V.- No ser dirigente de algún partido u organización política;
+
+VI.- No ocupar cargo de elección popular ni ser funcionario de la administración pública;
+
+VII.- No tener antecedentes en procesos penales, civiles o administrativos, que representen conflicto de intereses con las funciones de la Contraloría Social; y (sic)
+
+> <small>(ADICIONADO, B.O. 25 DE OCTUBRE DE 2005)</small>
+
+###### ARTÍCULO 19º.
+
+La Contraloría Social tendrá las siguientes atribuciones, en relación con la atención a la prevención y atención de la violencia intrafamiliar:
+
+I.- Verificar que se hayan constituido los Consejos Estatal y Municipales para la Prevención y Atención Integral de las Víctimas de la Violencia Intrafamiliar y que éstos sesionen en los términos de ley:
+
+II.- Ejercer la vigilancia y control de la gestión pública y de las y los funcionarios responsables de dar cumplimiento a los programas y ejercicio de recursos financieros para combatir la violencia intrafamiliar;
+
+III.- Solicitar a las y los funcionarios responsables de los CPAVV estatal y municipales, la información, documentos, programas y presupuestos, cronogramas, metas que se estimen necesarios para el cumplimiento de su actividad;
+
+IV.- Informar oportunamente a las autoridades e instancias competentes, de las actuaciones, hechos y omisiones de los servidores estatales o municipales que configuren posibles delitos, contravenciones o faltas graves que ameriten en materia de violencia de tipo administrativo;
+
+V.- Asistir con voz pero sin voto a las reuniones de los Consejos de Prevención y Atención a las Víctimas de la Violencia Intrafamiliar;
+
+VI.- Solicitar un informe anual a los Consejos de Prevención y Atención Integral de las Víctimas de la Violencia Intrafamiliar, que contemple los recursos financieros ejercidos y su impacto social;
+
+VII.- Proponer la situación de los integrantes de los Consejos Estatal y Municipal cuando los titulares dejen de asistir por tres veces consecutivas;
+
+VIII.- Vigilar el debido funcionamiento de los Centros de Atención para las Víctimas y generadores de violencia intrafamiliar;
+
+IX.- Solicitar la aplicación de medidas correctivas y sanciones por parte de las autoridades competentes, cuando el manejo de recursos públicos no se realice en términos de transparencia, eficacia, legalidad y con apego a los programas.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+### CAPITULO SEXTO. DISPOSICIONES GENERALES (SIC)
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+###### ARTICULO 20º.
+
+Las relaciones laborales entre el Instituto y sus Trabajadores, se regirán por la Ley para los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California Sur y de las Condiciones Generales de Trabajo. Se consideran trabajadores de confianza: la Directora General, Directores, Subdirectores, Jefes de Departamento, Administradores y demás personal que efectúe actividades de Inspección y Vigilancia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+###### ARTICULO 21º.
+
+El Órgano de Vigilancia del Instituto, será la Contraloría de Gobierno del Estado de Baja California Sur, quien determinará los instrumentos de control en los términos de las leyes aplicables.
+
+> <small>(ADICIONADO, B.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+###### ARTÍCULO 22º.
+
+Serán principios rectores del Instituto Sudcaliforniano de la Mujer:
+
+I.- EL RESPETO Y LIBERTAD DE ORGANIZACIÓN DE LA POBLACIÓN, sin distinción de clases sociales, políticas, religiosas o de cualquier otro orden.
+
+II.- LA PARTICIPACIÓN ORGANIZADA DE LA COMUNIDAD, en la aplicación de los recursos que se destinen para alcanzar los objetivos y metas previstos en condiciones de economía, eficacia y eficiencia.
+
+III.- LA CORRESPONSABILIDAD ENTRE GOBIERNO Y SOCIEDAD CIVIL, en la solución a los problemas de las mayorías.
+
+IV.- LA TRANSPARENCIA, HONESTIDAD, EFICIENCIA Y RENDICIÓN DE CUENTAS A LA CIUDADANIA, sobre recursos humanos, financieros, materiales y tecnológicos destinados a los objetivos de los programas.
 
 T R A N S I T O R I O S :
 
@@ -302,3 +390,15 @@ LIC. LEONEL EFRAÍN COTA MONTAÑO
 SECRETARIO GENERAL DE GOBIERNO
 
 LIC. RODIMIRO AMAYA TELLEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 25 DE NOVIEMBRE DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación, en el Boletín Oficial de Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
