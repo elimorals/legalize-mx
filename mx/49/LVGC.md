@@ -4,7 +4,7 @@ identifier: "LVGC"
 country: "mx"
 rank: "ley"
 publication_date: "1940-02-19"
-last_updated: "1999-01-04"
+last_updated: "2005-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=305&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LVGC"
 
 LEY DE VIAS GENERALES DE COMUNICACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE OCTUBRE DE 2005.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 19 de febrero de 1940.
 
@@ -2958,6 +2958,8 @@ Ojetos (sic) prohibidos
 
 ### CAPITULO UNICO
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 ###### ARTICULO 523.
 
 El que sin concesión o permiso de la Secretaría de Comunicaciones y Obras Públicas construya o explote vías federales de comunicación, perderá en beneficio de la Nación, las obras ejecutadas, las instalaciones establecidas y todos los bienes muebles e inmuebles dedicados a la explotación y pagará una multa de cincuenta a cinco mil pesos, a juicio de la misma Secretaría. Igual sanción tendrá el que ocupe la zona federal y la playa de las vías flotables o navegables sin la autorización de la Secretaría de Comunicaciones.
@@ -2968,21 +2970,31 @@ Para la aplicación de las sanciones a que se refiere el artículo anterior, se 
 
 Tan luego como la Secretaría de Comunicaciones tenga conocimiento de la infracción, procederá al aseguramiento de las obras ejecutadas, las instalaciones establecidas y todos los bienes muebles e inmuebles dedicados a la explotación de la vía de comunicación, ocupación de la zona federal o playas, de las vías flotables o navegables, poniéndolos bajo la guarda de un interventor especial, previo inventario que se formule. Posteriormente al aseguramiento se concederá un plazo de diez días al presunto infractor para que presente las pruebas y defensas que estime pertinentes en su caso; y pasado dicho término la Secretaría de Comunicaciones dictará la resolución que corresponda.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 ###### ARTICULO 525.
 
 El que indebidamente ejecute obras que invadan o perjudiquen una vía federal de comunicación, pagará una multa de cincuenta a dos mil pesos a juicio de la Secretaría de Comunicaciones, más los daños y perjuicios que se hubieren ocasionado.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 526.
 
 La infracción del artículo 48 de esta ley se sancionará con multa de doscientos a mil pesos, sin perjuicio de que la Secretaría acuerde la suspensión de los servicios en los casos en que lo estime conveniente.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 ###### ARTICULO 527.
 
 La expedición o aplicación de horarios, tarifas y demás documentos relacionados con el público que no hayan sido previamente aprobados por la Secretaría de Comunicaciones, se castigará con multa de cien a mil pesos, por cada infracción.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 ###### ARTICULO 528.
 
 El que indebidamente autorice o contrate servicios conforme a tarifas distintas de las aplicables al caso, será castigado con multa de cien a quinientos pesos por cada infracción. Si con el fin de ocultar la infracción se asentaren partidas falsas en los libros o se expidiere carta de portes u otro documento igualmente falso, la pena será de dos meses a dos años de prisión y multa de cien a mil pesos.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 529.
 
@@ -2992,15 +3004,21 @@ I.- A las empresas que no cumplan con la obligación de publicar sus tarifas com
 
 II.- A las empresas que se nieguen a establecer tarifas unidas y en virtud de esa negativa, continúen aplicando tarifas locales.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 ###### ARTICULO 530.
 
 Los errores en la aplicación de las tarifas no están comprendidos en las disposiciones penales de esta ley; pero las empresas estarán obligadas a devolver lo que hayan cobrado indebidamente y si se rehusaren a hacerlo, se les impondrá multa de cincuenta a dos mil pesos, a juicio de la Secretaría de Comunicaciones.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 531.
 
 El que sin la debida autorización de la empresa vendiere o enajenare por cualquier título un boleto personal, incurrirá en multa de veinte a cincuenta pesos por cada boleto enajenado.
 
 Si además, se alterase el nombre de la persona a quien originariamente se hubiere expedido el boleto, se aplicará la pena de un mes a un año de prisión o multa de cincuenta a doscientos pesos.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 532.
 
@@ -3016,15 +3034,21 @@ Los que dañen, perjudiquen o destruyan las vías generales de comunicación, o 
 
 Si el delito fuere cometido por imprudencia con motivo del tránsito de vehículos por carretera, aquél sólo se perseguirá por querella, la cual únicamente podrá formularse cuando no se repare el daño en un plazo de treinta días naturales. En este caso, el delito se sancionará con multa hasta por el valor del daño causado más la reparación de éste.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 ###### ARTICULO 534.
 
 El que indebidamente y sin el propósito de interrumpir o perjudicar las vías generales de comunicación arroje en ellas cualquier obstáculo, impida sus desagües, descargue aguas, tale, pode o maltrate los árboles del derecho de vía, incurrirá en multa de veinticinco a doscientos pesos.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 535.
 
 A los conductores de toda clase de vehículos que manejen o tripulen estos en vías generales de comunicación sin haber obtenido los certificados de capacidad física y aptitud o sin las licencias exigidas por la ley, se les aplicará por la primera infracción multa hasta de mil pesos. En casos de reincidencia incurrirán en la pena de quince días a un año de prisión.
 
 En las mismas penas incurrirá el empresario o dueño del vehículo que autorice o consienta su manejo o tripulación sin que el conductor posea los certificados y licencias mencionados en dicho artículo.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1976)</small>
 
@@ -3059,6 +3083,8 @@ Si se ocasionaren los accidentes mencionados, se aplicarán las reglas de acumul
 ###### ARTICULO 540.
 
 (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 541.
 
@@ -3132,17 +3158,23 @@ La infracción a los artículos 64 y 132 se sancionará con multa hasta por la c
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 > <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 559.
 
 Se impondrá multa de doscientos cincuenta a veinticinco mil pesos o prisión de seis meses a cinco años, a todo aquel que obstruya u obstaculice en cualquier forma o lo permita, las pistas, andenes y demás lugares de tránsito de los aeródromos.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 > <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 560.
 
 Se impondrá multa de doscientos cincuenta a veinticinco mil pesos y prisión de seis meses a cinco años, a todo aquel que inunde o por negligencia permita que se inunde un aeródromo en todo o en parte.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 > <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
@@ -3174,6 +3206,8 @@ II.- Al piloto, comandante o miembro de la tripulación en los casos de las frac
 
 III.- Al piloto o comandante, en los casos de las fracciones XI y XIV, con suspensión hasta por seis meses de la licencia respectiva.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 > <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 566.
@@ -3202,6 +3236,8 @@ Se impondrá multa de cincuenta a cinco mil pesos y prisión hasta por seis mese
 
 Los concesionarios o permisionarios que intervengan o permitan la intervención de comunicaciones sin que exista mandato de autoridad judicial competente, o que no cumplan con la orden judicial de intervención, serán sancionados con multa de diez mil a cincuenta mil días de salario mínimo general vigente en el Distrito Federal al momento de cometerse la infracción y deberán pagar la reparación del daño que resulte. En caso de reincidencia se duplicará la multa señalada.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 Los concesionarios o permisionarios de comunicaciones eléctricas que infrinjan lo dispuesto en el artículo 384 serán castigados con prisión de quince días a un año y multa de diez a mil pesos.
 
 ###### ARTICULO 572.
@@ -3210,21 +3246,31 @@ Las personas que hagan uso de los servicios telegráficos y radiotelegráficos p
 
 Las Oficinas de Comunicaciones Eléctricas sólo trasmitirán ese género de comunicaciones cuando provengan de agencias de noticias que acrediten ante la Dirección General de Correos y Telégrafos, tener contratada la adquisición de noticias internacionales.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 ###### ARTICULO 573.
 
 Se impondrá multa de veinticinco a cien pesos o prisión de ocho días a un mes, al que indebidamente y no de manera habitual, realice el servicio de transporte o distribución de correspondencia reservado al Gobierno Federal.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 574.
 
 Al que indebidamente y con el carácter de empresario establezca o desempeñe el transporte o distribución a que se refiere el artículo anterior, se le impondrán de uno a tres años de prisión y multa de cincuenta a cinco mil pesos. En la misma pena incurrirá quien indebidamente explote servicios públicos de correspondencia por los sistemas de comunicación eléctrica que están reservados exclusivamente al Gobierno Federal.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 ###### ARTICULO 575.
 
 Al que emplee los servicios de correspondencia indebidamente desempeñados por las empresas o personas citadas en los dos artículos anteriores, se le impondrá multa de veinticinco a cien pesos o prisión de ocho días a un mes.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 ###### ARTICULO 576.
 
 Se aplicará de un mes a un año de prisión o multa de cincuenta a mil pesos al que indebidamente abra, destruya o substraiga alguna pieza de correspondencia cerrada, confiada al Correo.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 577.
 
@@ -3278,6 +3324,8 @@ En el caso de que los delitos a que se refieren los artículos 580, 581 y 582, f
 
 Se impondrán de quince días a dos años de prisión al que indebidamente dificulte, retarde o detenga el curso de las correspondencias en una vía de comunicación, o de cualquiera manera impida el libre y preferente transporte de las mismas.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 ###### ARTICULO 587.
 
 El que utilice en asuntos extraños al servicio postal, los pases y demás útiles destinados al uso exclusivo del Correo, será castigado con multa de cinco a cien pesos.
@@ -3290,11 +3338,17 @@ Los funcionarios o empleados de Correos y Telégrafos que utilicen en asuntos ex
 
 Las órdenes de prisión dictadas contra empleados del Correo y del Telégrafo que manejen fondos públicos, no podrán ser ejecutadas antes de que los empleados hagan entrega formal de los fondos y valores que estuvieren a su cuidado, así como de los comprobantes relativos a su cuenta, sin perjuicio de asegurar convenientemente al responsable.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 > <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 590.
 
 Cualquiera otra infracción a esta Ley o a sus reglamentos que no esté expresamente prevista en este capítulo, será sancionada por la Secretaría de Comunicaciones, con multa hasta de cincuenta mil pesos.
+
+> <small>(ADICIONADO, D.O.F. 25 DE OCTUBRE DE 2005)</small>
+
+ARTICULO 590 BIS.- Los ingresos derivados por concepto de multas impuestas por infringir disposiciones legales o reglamentarias en materia de tránsito en caminos y puentes federales, se destinarán a la Secretaría de Seguridad Pública para cubrir gastos de operación e inversión en programas vinculados a la propia seguridad pública y de manera específica se destinará el 20% del total a prevención del delito.
 
 ###### ARTICULO 591.
 
@@ -3743,3 +3797,21 @@ D.O.F. 4 DE ENERO DE 1999.
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los siguientes transitorios.
+
+D.O.F. 25 DE OCTUBRE DE 2005.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La organización de la Secretaría de Seguridad Pública, para ejercer las atribuciones que le confiere este Decreto, durará un máximo de 180 días contados a partir de la entrada en vigor del presente Decreto, lapso en el que no ejercerá las atribuciones conferidas por este Decreto, las cuales corresponderán a las autoridades administrativas que han venido realizándolas con fundamento en disposiciones de la Ley Orgánica de la Administración Pública Federal y demás ordenamientos reformados por este Decreto.
+
+TERCERO. El Ejecutivo Federal, dentro de los 180 días siguientes, a partir de la entrada en vigor del presente Decreto, expedirá las reformas y adiciones correspondientes a los Reglamentos Interiores y demás disposiciones reglamentarias; así como, tabuladores de multas por tipo de infracción en lo específico a efecto de garantizar certeza jurídica y evitar discrecionalidad en su aplicación.
+
+CUARTO. Los Concesionarios y Permisionarios de los servicios de autotransporte de pasajeros, de turismo, de carga, de transporte privado y de los servicios auxiliares de arrastre y arrastre (sic) y salvamento a que se refiere la Ley de Caminos, Puentes y Autotransporte Federal contarán con un plazo de 180 días, a partir de la entrada en vigor del presente Decreto, para regularizar cualquier omisión o irregularidad respecto del cumplimiento de la normatividad respectiva, excepto en lo que se refiere a materiales y residuos peligrosos, pesos, dimensiones, capacidad, seguros y licencias relacionadas con el Autotransporte Federal.
+
+QUINTO. Las disposiciones reglamentarias en vigor se continuarán aplicando, mientras se expiden los nuevos reglamentos.
+
+SEXTO. La Secretaría de Hacienda y Crédito Público en coordinación con las dependencias competentes y de conformidad con el programa establecido, instrumentará lo necesario para el otorgamiento de estímulos fiscales para la sustitución de unidades del autotransporte federal en mal estado.
+
+SÉPTIMO. Los procedimientos y recursos administrativos iniciados antes de la entrada en vigor de las presentes reformas, se seguirán hasta su conclusión definitiva por y ante la autoridad que se presentaron de acuerdo con los ordenamientos vigentes al momento que iniciaron.
+
+OCTAVO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
