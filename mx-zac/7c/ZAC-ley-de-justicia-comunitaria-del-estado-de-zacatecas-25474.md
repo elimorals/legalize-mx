@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-justicia-comunitaria-del-estado-de-zacatecas-25474"
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-10"
-last_updated: "2002-07-10"
+last_updated: "2005-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE JUSTICIA COMUNITARIA DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE OCTUBRE DE 2005.
 
 Ley publicada en el Suplemento a Periódico Oficial del Estado de Zacatecas, el miércoles 10 de julio de 2002.
 
@@ -267,7 +267,9 @@ III. Inmuebles u oficinas públicas;
 
 IV. Vehículos destinados al servicio público de transporte;
 
-V. Inmuebles de propiedad particular, que sufran daños o alteraciones en su imagen con materiales como graffiti, pintura u otros materiales análogos, sin consentimiento de sus propietarios o poseedores; y
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2005)</small>
+
+V. Inmuebles de propiedad particular, las que pertenecen al patrimonio cultural, que sufran daños o alteraciones en su imagen con pintas urbanas, dibujos, gráficos, manchas, escrituras u otros, que impliquen daños materiales, sin consentimiento de sus propietarios o poseedores;
 
 VI. Areas de propiedad en condominio de uso común, tales como plazas, áreas verdes, jardines, escaleras, pasillos, corredores, áreas deportivas, de recreo o esparcimiento que formen parte de los inmuebles sujetos a tal régimen de copropiedad conforme a lo dispuesto por la ley de la materia.
 
@@ -293,31 +295,37 @@ VIII. Detonar o encender cohetes, juegos pirotécnicos o fogatas sin permiso de 
 
 IX. Ofrecer o propiciar la venta de boletos de espectáculos públicos, con precios superiores a los autorizados;
 
-X. Alterar el tránsito vehicular y peatonal;
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2005)</small>
 
-XI. Orinar o defecar en lugares no autorizados;
+X. Vender pintura en aerosoles a menores de dieciocho años;
 
-XII. Dañar, maltratar, ensuciar o hacer uso indebido de las fachadas de inmuebles públicos o privados, estatuas, monumentos, postes, arbotantes, semáforos, buzones, tomas de agua, señalizaciones viales o de obras, plazas, parques, jardines u otros bienes semejantes. Para condenar a la reparación de los daños a que se refiere esta fracción el juez comunitario será competente hasta el valor de quinientas cuotas;
+XI. Alterar el tránsito vehicular y peatonal;
 
-XIII. Cubrir, borrar, alterar o desprender los letreros o señales que identifiquen los lugares públicos, las señales oficiales o los números y letras que identifiquen los inmuebles o vías públicas;
+XII. Orinar o defecar en lugares no autorizados;
 
-XIV. Fomentar la prostitución de cualquier manera o su ejercicio en la vía pública;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2005)</small>
 
-XV. Ingerir bebidas alcohólicas en lugares públicos no autorizados;
+XIII. Dañar, maltratar, ensuciar o hacer uso indebido de las fachadas mediante pintas urbanas, gráficos, manchas a paredes con pinturas y escrituras que implican daños y alteraciones al patrimonio cultural, o propiedad particular, postes, arbotantes, semáforos, buzones, tomas de agua, señalizaciones viales o de obras, plazas, parques, jardines u otros bienes semejantes. Para condenar a la reparación de los daños a que se refiere esta fracción el juez comunitario será competente hasta el valor de quinientas cuotas;
 
-XVI. Consumir, injerir, inhalar, aspirar estupefacientes o psicotrópicos o enervantes o sustancias tóxicas en lugares público (sic);
+XIV. Cubrir, borrar, alterar o desprender los letreros o señales que identifiquen los lugares públicos, las señales oficiales o los números y letras que identifiquen los inmuebles o vías públicas;
 
-XVII. Portar, transportar o usar, sin precaución, objetos o sustancias que por su naturaleza sean peligrosos;
+XV. Fomentar la prostitución de cualquier manera o su ejercicio en la vía pública;
 
-XVIII. Solicitar con falsas alarmas los servicios de emergencia, policía, bomberos o de establecimientos médicos o asistenciales, públicos o privados. Asimismo, proferir voces, realizar actos o adoptar actitudes que constituyan falsas alarmas de siniestros o que puedan producir o produzcan el temor o pánico colectivos;
+XVI. Ingerir bebidas alcohólicas en lugares públicos no autorizados;
 
-XIX. Desperdiciar el agua o impedir su uso a quienes deban tener acceso a ella en tuberías, tanques o tinacos almacenadores, así como utilizar indebidamente los hidrantes públicos, obstruirlos o impedir su uso;
+XVII. Consumir, injerir, inhalar, aspirar estupefacientes o psicotrópicos o enervantes o sustancias tóxicas en lugares público (sic);
 
-XX. Alterar o dañar los sistemas de alumbrado público o de telefonía;
+XVIII. Portar, transportar o usar, sin precaución, objetos o sustancias que por su naturaleza sean peligrosos;
 
-XXI. Operar tabernas, bares, cantinas o lugares de recreo en donde se expidan bebidas alcohólicas, fuera de los horarios permitidos o sin contar con la licencia respectiva;
+XIX. Solicitar con falsas alarmas los servicios de emergencia, policía, bomberos o de establecimientos médicos o asistenciales, públicos o privados. Asimismo, proferir voces, realizar actos o adoptar actitudes que constituyan falsas alarmas de siniestros o que puedan producir o produzcan el temor o pánico colectivos;
 
-XXII. Las demás acciones u omisiones análogas contempladas en otros ordenamientos.
+XX. Desperdiciar el agua o impedir su uso a quienes deban tener acceso a ella en tuberías, tanques o tinacos almacenadores, así como utilizar indebidamente los hidrantes públicos, obstruirlos o impedir su uso;
+
+XXI. Alterar o dañar los sistemas de alumbrado público o de telefonía;
+
+XXII. Operar tabernas, bares, cantinas o lugares de recreo en donde se expidan bebidas alcohólicas, fuera de los horarios permitidos o sin contar con la licencia respectiva;
+
+XXIII. Las demás acciones u omisiones análogas contempladas en otros ordenamientos.
 
 ### CAPITULO IV. DE LAS SANCIONES
 
@@ -331,21 +339,19 @@ II. Multa;
 
 III. Arresto hasta por treinta y seis horas;
 
-IV. Reparación del daño;
+IV. (DEROGADA, P.O. 26 DE OCTUBRE DE 2005)
 
 V. Trabajo a favor de la comunidad con la autorización del ayuntamiento.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2005)</small>
+
 ###### Artículo 22.
 
-Las infracciones establecidas en el artículo 20 se sancionarán:
+Las infracciones establecidas en el artículo 20 se sancionarán como lo señala el artículo 21 de esta ley, de acuerdo a la gravedad y en concordancia a la infracción.
 
-I. De la fracción I a la IV con multa de una a diez cuotas y arresto hasta por doce horas;
+Para el caso de las multas pecuniarias éstas serán como mínimo 10 cuotas y como máximo treinta y cuatro cuotas.
 
-II. De la fracción V a la X, con multa de once a veinte cuotas o arresto de doce a veinticuatro horas; y
-
-III. De las fracciones XI a la XXII, con multa de veintiuna a treinta cuotas o arresto de veinticinco a treinta y seis horas.
-
-Si el infractor fuese jornalero, obrero, trabajador, o no asalariado, la multa máxima siempre será el equivalente a una cuota.
+En la reparación del daño el Juez deberá observar las condiciones económicas del infractor a fin de determinar el monto.
 
 ###### Artículo 23.
 
@@ -369,7 +375,9 @@ Cuando con diversas conductas se cometan varias infracciones, el juez comunitari
 
 Por la prescripción se extinguen el derecho a formular la denuncia o la queja, así como la facultad de imposición y ejecución de sanciones.
 
-El derecho a formular la denuncia o la queja prescribe en cinco días naturales, contados a partir de la comisión o el cese de la presunta infracción.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2005)</small>
+
+El derecho a formular la denuncia o la queja prescribe en diez días naturales, contados a partir de la comisión o el cese de la presunta infracción.
 
 La facultad para la imposición de las sanciones por infracciones cometidas prescribe en cinco días naturales, contados a partir de la presentación que se haga del presunto infractor o de su primera comparecencia.
 
@@ -690,3 +698,11 @@ DR. RICARDO MONREAL AVILA.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. ARTURO NAHLE GARCIA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE OCTUBRE DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+SEGUNDO.- En el término de treinta días siguientes a la entrada en vigor el presente decreto, deberán hacerse las adecuaciones que fueren necesarias al Reglamento Interior del Consejo Tutelar para Menores.
