@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2005-06-08"
+last_updated: "2005-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE OCTUBRE DE 2005.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -435,6 +435,10 @@ Respecto al gobierno de las secciones y demás poblaciones de un municipio, se e
 
 Por cada Presidente, Síndico, Regidor o Comisario, habrá un suplente para sustituirlo en sus impedimentos o faltas.
 
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2005)</small>
+
+En aquellos municipios con población indígena, las autoridades de sus pueblos y comunidades elegirán un representante ante el ayuntamiento respectivo, con derecho a voz, lo que harán de conformidad con sus tradiciones y normas internas.
+
 ###### ARTICULO 18.
 
 Cada Ayuntamiento, se instalará el día 10 de octubre de los años correspondientes a su renovación. Las Juntas Municipales y Comisarías de Policía, al respecto, se regirán por el procedimiento establecido en el artículo 38 de este Código y tomarán posesión en la fecha que señale el Ayuntamiento, una vez calificada la elección. El Presidente Municipal, otorgará protesta en los siguientes términos:
@@ -659,7 +663,7 @@ XXXIX.- Celebrar convenios para la administración y custodia de zonas federales
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
 
-XL.- Aprobar el anteproyecto de tablas de valores unitarios de suelo y construcciones que expida la autoridad catastral municipal, mismas que servirán de base para el cálculo de los impuestos que gravan la propiedad inmobiliaria y someterlo a la consideración del Congreso del Estado, antes del día treinta y uno de octubre del año anterior al ejercicio, para su aprobación y posterior publicación en el Periódico Oficial del Estado;
+XL.- Aprobar el anteproyecto de tablas de valores unitarios de suelo y construcciones que expida la autoridad catastral municipal, mismas que servirán de base para el cálculo de los impuestos que gravan la propiedad inmobiliaria y someterlo a la consideración del Congreso del Estado, antes del día treinta y uno de octubre del año anterior al ejercicio, para su aprobación y posterior publicación en el Periódico Oficial del Estado,
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2004)</small>
 
@@ -917,7 +921,7 @@ XI.- Revisar la situación de los rezagos fiscales para que éstos sean liquidad
 
 XII.- Asociarse a cualquier comisión encomendada a los Regidores cuando la importancia de la misma y los intereses del Municipio, así lo ameriten;
 
-XIII.- Conocer de las condonaciones o reducciones de créditos fiscales que realicen el tesorero o el presidente municipal; y
+XIII.- Conocer de las condonaciones o reducciones de créditos fiscales que realicen el tesorero o el presidente municipal; y (sic)
 
 > <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 1998)</small>
 
@@ -929,7 +933,7 @@ XV.- Solicitar datos, informes y documentación en general a fin de hacer las co
 
 > <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 1998)</small>
 
-XVI.- Elaborar y remitir con oportunidad al Ayuntamiento, el proyecto de presupuesto de la Sindicatura, para la discusión, modificación en su caso, y aprobación por el Cabildo de la partida presupuestal correspondiente.
+XVI.- Elaborar y remitir con oportunidad al Ayuntamiento, el proyecto de presupuesto de la Sindicatura, para la discusión, modificación en su caso, y aprobación por el Cabildo de la partida presupuestal correspondiente;
 
 XVII.- Las demás que establezcan las leyes y reglamentos.
 
@@ -3673,4 +3677,14 @@ P.O. 8 DE JUNIO DE 2005.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-## TRANSITORIOS
+P.O. 26 DE OCTUBRE DE 2005.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LA ADICION AL PRESENTE CODIGO.</small>
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los Ayuntamientos del Estado, con base a esta nueva adición, expedirán el Reglamento correspondiente.
+
+## TRANSITORIO
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
