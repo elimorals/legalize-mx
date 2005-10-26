@@ -4,7 +4,7 @@ identifier: "MOR-acuerdo-mediante-el-cual-se-establece-la-unidad-de-50996"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-06-08"
-last_updated: "2005-06-08"
+last_updated: "2005-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 ACUERDO MEDIANTE EL CUAL SE ESTABLECE LA UNIDAD DE INFORMACION PUBLICA Y SE CREA EL CONSEJO DE INFORMACION CLASIFICADA DE LA REPRESENTACION DEL PODER EJECUTIVO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE ACUERDO POR EL CUAL SE CREAN LA UNIDAD DE INFORMACION PUBLICA Y EL CONSEJO DE INFORMACION CLASIFICADA DE LA REPRESENTACION DEL PODER EJECUTIVO DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 26 DE OCTUBRE DE 2005, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Acuerdo publicado en el Periódico Oficial del Estado de Morelos, el miércoles 8 de junio de 2005.
 
@@ -43,7 +45,7 @@ Por lo antes expuesto, el presente acuerdo tiene por objeto establecer la integr
 
 Por lo anteriormente expuesto y fundado, tengo a bien expedir el siguiente:
 
-ACUERDO MEDIANTE EL CUAL SE ESTABLECE LA UNIDAD DE INFORMACIÓN PÚBLICA Y SE CREA EL CONSEJO DE INFORMACIÓN CLASIFICADA DE LA REPRESENTACIÓN DEL PODER EJECUTIVO DEL ESTADO DE MORELOS.
+ACUERDO MEDIANTE EL CUAL SE ESTABLECE LA UNIDAD DE INFORMACIÓN PÚBLICA y SE CREA EL CONSEJO DE INFORMACIÓN CLASIFICADA DE LA REPRESENTACIÓN DEL PODER EJECUTIVO DEL ESTADO DE MORELOS.
 
 ###### Artículo 1.
 
@@ -80,3 +82,11 @@ EL SECRETARIO DE GOBIERNO
 LIC. JESÚS GILES SÁNCHEZ.
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+P.O. DE 26 DE OCTUBRE DE 2005.
+
+PRIMERO. El presente acuerdo entrara en vigor el mismo día de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
+
+SEGUNDO. El presente acuerdo abroga el acuerdo mediante el cual se establecen las unidad de información Pública y se crea el Consejo de Información Clasificada de la Representación del Poder Ejecutivo del Estado de Morelos, publicado con fecha ocho de junio del año dos mil cinco, en el Periódico Oficial "Tierra y Libertad" número cuatro mil trescientos noventa y seis.
