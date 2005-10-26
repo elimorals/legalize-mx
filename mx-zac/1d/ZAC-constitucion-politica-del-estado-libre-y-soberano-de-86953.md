@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2005-06-15"
+last_updated: "2005-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2004.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 15 DE JUNIO DE 2005 NO APLICA AL ARTICULADO DEL DECRETO 20 PUBLICADO EN EL P.O. DE 17 DE NOVIEMBRE DE 2004.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2005.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -429,9 +427,15 @@ c) El descanso y la recreación; y
 
 d) Los pensionados y jubilados tendrán consideraciones especiales en el pago de obligaciones fiscales estatales y municipales, en la forma y los términos que señalen las leyes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2005)</small>
+
 ###### Artículo 26.
 
-Todo individuo tiene derecho a la alimentación, la salud, la asistencia social, la vivienda, el descanso y la recreación; la protección de sus bienes, la paz y la seguridad pública.
+Todo individuo tiene derecho a la alimentación, la salud, la asistencia social, la vivienda, el descanso y la recreación, la protección de sus bienes, la paz y la seguridad pública.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2005)</small>
+
+La prevención social del delito es una obligación a cargo del Estado y sus municipios; de igual manera, es un derecho de los zacatecanos participar en ella.
 
 > <small>(ADICIONADO, P.O. 15 DE MARZO DE 2000)</small>
 
@@ -2632,3 +2636,7 @@ DÉCIMO.- En un plazo que no excederá de 180 días contados a partir del inicio
 > <small>(F. DE E., P.O. 4 DE DICIEMBRE DE 2004)</small>
 
 DÉCIMO PRIMERO.- En el mismo plazo que no excederá de 180 días contados a partir del inicio de vigencia del presente Decreto, el Concejo Municipal de Santa María de la Paz elaborará el padrón de contribuyentes del Municipio.
+
+P.O. 26 DE OCTUBRE DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
