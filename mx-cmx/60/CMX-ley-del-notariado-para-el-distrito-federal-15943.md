@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-notariado-para-el-distrito-federal-15943"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-28"
-last_updated: "2004-01-29"
+last_updated: "2005-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15943&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-02-14"
 
 LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE OCTUBRE DE 2005.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 28 de marzo de 2000.
 
@@ -194,23 +194,19 @@ Las autoridades podrán requerir de los notarios la prestación de sus servicios
 
 Los notarios participarán también, con tarifas reducidas y convenidas por el Colegio con las autoridades correspondientes, en programas de fomento a la vivienda y regularización de la tenencia de la propiedad inmueble.
 
-> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 26 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 18.
 
-Únicamente los Notarios del Distrito Federal otorgarán las escrituras en las que intervengan las autoridades y organismos de vivienda del Distrito Federal, y de la Federación, cuando éstos actúen respecto de algún inmueble ubicado en esta entidad. En todo caso, recibidas las instrucciones correspondientes por el Colegio, éste turnará a sus miembros dichos asuntos por estricto orden y con apego a la equidad.
+Las Dependencias y Entidades de la Administración Pública del Distrito Federal que realicen actividades relacionadas con la regularización de la propiedad de inmuebles, regularización territorial y el fomento a la vivienda, requerirán los servicios únicamente de los notarios de esta entidad federativa, para el otorgamiento de las escrituras relativas.
 
-Los instrumentos que se autoricen por Notario no designado en cumplimiento al orden estricto a que se refiere el párrafo anterior, serán nulos, en los términos de la fracción II del artículo 162 de esta ley.
+Cada una de las Dependencias y Entidades a las que se refiere el párrafo anterior, convendrá con el Colegio el procedimiento para asignar el otorgamiento de las escrituras relativas, mismo que atenderá a los principios de transparencia, equidad y eficacia, el cual deberá ser validado por la Dirección General Jurídica y de Estudios Legislativos y la Dirección General de Legalidad y Responsabilidades.
 
-Para los efectos de este artículo, los Notarios participantes, el Consejo del Colegio y las dependencias señaladas en el primer párrafo, respetarán un estricto orden de prelación en el procedimiento siguiente:
-
-El titular de la Dirección General Jurídica y de Estudios Legislativos, el titular de la Dirección General de Legalidad y Responsabilidades y el Presidente del Consejo del Colegio llevarán a cabo un procedimiento de insaculación, para lo cual el Colegio elaborará la relación de los Notarios que hayan manifestado su voluntad de participar en los programas de vivienda a que se refiere este artículo, depositando en una urna el nombre y número de cada uno de ellos, elaborando en una lista el riguroso orden en que se vayan sorteado. De este procedimiento de insaculación se levantará un acta pormenorizada que será firmada por las personas que intervengan, debiendo el Consejo hacerla del conocimiento de todos los miembros del Colegio, en un plazo que no exceda de cinco días hábiles siguientes a la fecha de su firma, asimismo deberá proporcionarse copia a cada una de las autoridades que participan en el proceso, y a las dependencias que se refiere el primer párrafo de este artículo.
-
-Cada Notario integrante del Colegio que manifieste a la Dirección General Jurídica y de Estudios Legislativos y al propio Colegio su voluntad de participar en la formalización de escrituras relativas a los programas de vivienda a que se refiere este artículo, se incorporará intercalado en el orden establecido por insaculación, ocupando el turno inmediato siguiente que tenga lugar en el momento de su solicitud de incorporación.
+A partir de la entrada en vigor de esta disposición, cada Notario manifestará por escrito a las Dependencias y Entidades señaladas, su voluntad de participar en la formalización de escrituras relativas a que se refiere este artículo, haciéndolo también del conocimiento de la Dirección General Jurídica y de Estudios Legislativos y del Colegio. Sin el cumplimiento de dicho requisito ningún notario podrá ser considerado en el mecanismo de designación al efecto convenido.
 
 El Colegio informará mensualmente a las autoridades competentes, dentro de los primeros cinco días hábiles de cada mes, los turnos que hubieren hecho durante el mes anterior.
 
-Los Notarios dejarán constancia en el texto de cada instrumento, de las instrucciones recibidas.
+Los notarios dejarán constancia en el texto de cada instrumento, de las instrucciones recibidas.
 
 ###### Artículo 19.
 
@@ -1818,7 +1814,7 @@ IV. Estudiar y proponer métodos de conservación y respaldo, de la documentaci�
 
 V. Expedir y reproducir a solicitud de parte interesada los documentos públicos y privados que obren en los acervos en custodia del Archivo, e;
 
-VI. Certificar la documentación solicitada por autoridades judiciales, administrativas y legislativas, así como por los particulares que acrediten su interés legitimo, y que esté en custodia del Archivo;
+VI. Certificar la documentación solicitada por autoridades judiciales, administrativas y legislativas, así como por los particulares que acrediten su interés legítimo, y que esté en custodia del Archivo;
 
 VII. Revisar que los libros cumplan con todos y cada uno de los requisitos previstos en esta ley, para su recepción y custodia definitiva;
 
@@ -2201,3 +2197,11 @@ PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Fede
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 TERCERO.- En tanto se expidan las disposiciones administrativas que deriven de las presentes adiciones y modificaciones seguirán en vigor aquellas que no las contravengan.
+
+G.O. 26 DE OCTUBRE DE 2005.
+
+PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal para su promulgación y publicación, en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Para los efectos de lo dispuesto en el tercer párrafo de este artículo, los notarios contarán con un término de 30 días a partir de su entrada en vigor.
