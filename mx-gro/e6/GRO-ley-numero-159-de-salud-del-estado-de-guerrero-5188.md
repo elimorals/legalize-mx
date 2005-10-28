@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-159-de-salud-del-estado-de-guerrero-5188"
 country: "mx"
 rank: "ley"
 publication_date: "1995-04-25"
-last_updated: "1999-10-15"
+last_updated: "2005-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5188&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUM. 159, DE SALUD DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 25 de abril de 1995.
 
@@ -235,17 +235,27 @@ XXI.- Coadyuvar con las dependencias federales competentes en la regulación y c
 
 XXII.- Difundir a las autoridades correspondientes y a la población en general, a través de publicaciones y actos académicos, los resultados de los trabajos de investigación, estudio, análisis y de recopilación de información, documentación e intercambio que realice;
 
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2005)</small>
+
+XXIII.- Atender y reducir los índices de mal nutrición, sobrepeso y obesidad en la población y en particular a los menores de edad y adolescentes en el Estado de Guerrero;
+
 > <small>(ADICIONADA, P.O. 21 DE ENERO DE 1997)</small>
 
-XXIII.- Promover e impulsar la participación de la comunidad del Estado en el cuidado de su salud; y
+XXIV.- Promover e impulsar la participación de la comunidad del Estado en el cuidado de su salud; y
 
 > <small>(ADICIONADA, P.O. 21 DE ENERO DE 1997)</small>
 
-XXIV.- Las demás atribuciones que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
+XXV.- Las demás atribuciones que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
 
 ###### ARTICULO 5°.
 
 (DEROGADO, P.O. 15 DE OCTUBRE DE 1999)
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2005)</small>
+
+###### ARTICULO 5° Bis.
+
+El Poder Ejecutivo, a través de la Secretaría de Salud, la Secretaría de Educación y el Sistema para el Desarrollo Integral de la Familia de la Administración Pública, Estatal y Municipal a través de los Ayuntamientos, realizarán acciones de concientización y promoción de las medidas preventivas a fin de evitar la mal nutrición, el sobrepeso y la obesidad de las personas y en particular de los menores de edad y adolescentes que acuden a diversas instituciones educativas públicas o privadas localizadas en la Entidad.
 
 > <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
 
@@ -413,6 +423,14 @@ XVI.- Prevención y control de la rabia en animales y seres humanos, y
 
 XVII.- Las demás materias que determinen esta Ley y las disposiciones legales aplicables.
 
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2005)</small>
+
+C).- En materia de nutrición y reducción de sobrepeso y obesidad de menores de edad y adolescentes, promover y vigilar que los alimentos que se expidan cumplan con alto contenido nutricional evitando comida chatarra en las:
+
+I.- Cooperativas Escolares; y
+
+II.- Cafeterías o Comedores Escolares.
+
 ## TITULO TERCERO. SISTEMA ESTATAL DE SALUD
 
 ### CAPITULO I. DISPOSICIONES COMUNES
@@ -437,9 +455,13 @@ IV.- Dar impulso al desarrollo de la familia y de la comunidad, así como la int
 
 V.- Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente del Estado que propicien el desarrollo satisfactorio de la vida;
 
-VI.- Impulsar, en el ámbito estatal un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud, y
+VI.- Impulsar, en el ámbito estatal un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud, y (sic)
 
-VII.- Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección.
+VII.- Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección;
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2005)</small>
+
+VIII.- Promover dentro de su respectivo ámbito de competencia, la realización de programas específicos, menús de alimentos con alto contenido nutricional, y campañas contra la mal nutrición, el sobrepeso y la obesidad, utilizando todos los medios de comunicación que estén a su alcance en programas de concientización y divulgación.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 1999)</small>
 
@@ -563,11 +585,15 @@ II.- Asumir la administración de los establecimientos de salud que descentralic
 
 III.- Certificar la calidad del agua para uso y consumo humano en los términos de los convenios que celebre con el Ejecutivo del Estado y de conformidad con la normativa que emita la Secretaría de Salud del Gobierno Federal;
 
-IV.- Expedir bandos de policía y buen gobierno, reglamentos, circulares y disposiciones administrativas relacionadas con los servicios de salud que estén a su cargo.
+IV.- Expedir bandos de policía y buen gobierno, reglamentos, circulares y disposiciones administrativas relacionadas con los servicios de salud que estén a su cargo;
 
-V.- Formular y desarrollar programas municipales de salud en el marco del sistema nacional y estatal de salud, y
+V.- Formular y desarrollar programas municipales de salud en el marco del sistema nacional y estatal de salud, y (sic)
 
-VI.- Vigilar y hacer cumplir en la esfera de su competencia los ordenamientos legales correspondientes.
+VI.- Vigilar y hacer cumplir en la esfera de su competencia los ordenamientos legales correspondientes;
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2005)</small>
+
+VII.- Promover la educación nutrimental adecuada en sus ámbitos de competencia a efecto de evitar la obesidad y el sobrepeso en su población y especialmente en menores de edad y adolescentes.
 
 ###### ARTICULO 26.
 
@@ -657,7 +683,9 @@ VII.- La prevención y el control de las enfermedades bucodentales;
 
 VIII.- La disponibilidad de medicamentos y otros insumos esenciales para la salud;
 
-IX.- La promoción del mejoramiento de la nutrición;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2005)</small>
+
+IX.- La promoción del mejoramiento de la nutrición y la reducción de sobrepeso y obesidad en la población, particularmente en los menores de edad y adolescentes;
 
 X.- La asistencia social a los grupos más vulnerables, y (sic)
 
@@ -750,6 +778,10 @@ El Gobierno del Estado, la Secretaría de Salud del Gobierno Federal, en el ámb
 ###### ARTICULO 51.
 
 La Secretaría de Salud, coadyuvará con las autoridades educativas competentes, para la promoción y fomento de la constitución de colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud, asimismo estimularán su participación en el sistema estatal de salud, como instancias éticas del ejercicio de las profesiones, promotoras de la superación permanente de sus miembros, así como consultoras de las autoridades sanitarias, cuando éstas lo requieran.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2005)</small>
+
+Así mismo, promoverá la cultura nutricional en las Escuelas y Sociedades de Padres de Familia, a efecto de evitar enfermedades inherentes al sobrepeso y la obesidad entre los menores en edad escolar.
 
 > <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 1999)</small>
 
@@ -851,7 +883,9 @@ La atención materno-infantil tiene carácter prioritario y comprende las siguie
 
 I.- La atención de la mujer durante el embarazo, el parto y el puerperio;
 
-II.- La atención del niño y la vigilancia de su crecimiento, nutrición y desarrollo, incluyendo la promoción de la vacunación oportuna, y
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2005)</small>
+
+II.- La atención del niño y la vigilancia de su crecimiento, nutrición adecuada y desarrollo integral, incluyendo la promoción de la vacunación oportuna y las medidas necesarias para evitar el sobrepeso y obesidad; y
 
 III.- La promoción de la integración y del bienestar familiar.
 
@@ -1167,7 +1201,9 @@ La promoción de la salud comprende:
 
 I.- Educación para la salud;
 
-II.- Nutrición;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2007)</small>
+
+II.- Cultura nutricional que evite el consumo de alimentos que perjudiquen la salud y desarrollo apropiado; y (sic)
 
 III.- Control de los efectos nocivos del ambiente en la salud;
 
@@ -1183,9 +1219,13 @@ La educación para la salud tiene por objeto:
 
 I.- Fomentar en la población el desarrollo de actitudes y conductas que le permitan participar en la prevención de enfermedades individuales, colectivas y de accidentes, protegiéndola de los riesgos que pongan en peligro su salud;
 
-II.- Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud, y
+II.- Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud, y (sic)
 
-III.- Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, riesgos de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de la invalidez y detección así como prevención oportuna de enfermedades.
+III.- Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, riesgos de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de la invalidez y detección así como prevención oportuna de enfermedades;
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2005)</small>
+
+IV.- Elaborar, distribuir y aplicar listados de productos alimenticios de alto valor nutricional como alternativas de consumo en las cooperativas, cafeterías y comedores escolares a fin de evitar alimentos que perjudiquen la salud.
 
 ###### ARTICULO 106.
 
@@ -1193,13 +1233,17 @@ Las autoridades sanitarias estatales en coordinación con las autoridades federa
 
 ### CAPITULO III. NUTRICION
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2005)</small>
+
 ###### ARTICULO 107.
 
-El Gobierno del Estado formulará y desarrollará programas de nutrición estatales, promoviendo la participación en los mismos de las unidades estatales del sector salud, cuyas actividades se relacionen con la nutrición y la disponibilidad de alimentos así como de los sectores social y privado.
+El Gobierno del Estado formulará, desarrollará y vigilará los programas de nutrición que se implementen, promoviendo la participación en los mismos de las unidades regionales y municipales del sector salud, así como las dependencias al área educativa para evitar la mala nutrición, el sobrepeso y la obesidad en las personas, y en especial de la población en edad escolar.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 108.
 
-En los programas a que se refiere el artículo anterior, se incorporarán acciones que promuevan el consumo de alimentos de producción regional, y procurarán, al efecto, la participación de las organizaciones campesinas, ganaderas, cooperativas y otras organizaciones sociales cuyas actividades se relacionen con la producción de alimentos.
+En los programas a que se refiere el artículo anterior, se incorporarán acciones que promuevan el consumo de alimentos de alto contenido nutricional, de producción regional, y procurarán, al efecto, la participación de las organizaciones campesinas, ganaderas, cooperativas y otras organizaciones sociales cuyas actividades se relacionen con la producción de alimentos.
 
 ### CAPITULO IV. EFECTOS DEL AMBIENTE EN LA SALUD
 
@@ -2862,3 +2906,9 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se extingue el Organismo Público Descentralizado "Servicios Estatales de Salud" creado en el Título Segundo de la Ley de Salud del Estado de Guerrero núm. 159.
 
 TERCERO.- Se creará una Comisión Liquidadora del patrimonio del Organismo Público Descentralizado "Servicios Estatales de Salud", que se integrará por un representante de las Secretarías de Finanzas y Administración y de Salud y de la Contraloría General del Estado, misma que integrará el inventario con el que se constituye la Secretaría de Salud, la cual una vez cumpliendo su objetivo desaparecerá.
+
+P.O. 28 DE OCTUBRE DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Comuníquese el presente Decreto al Titular del Ejecutivo del Estado, para su efectos constitucionales procedentes.
