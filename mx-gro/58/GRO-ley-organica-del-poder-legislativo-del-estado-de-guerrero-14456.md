@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-poder-legislativo-del-estado-de-guerrero-14456
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-06-11"
-last_updated: "2004-02-13"
+last_updated: "2005-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NUMERO 286
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 11 de junio de 1999.
 
@@ -685,43 +685,51 @@ IX. De Participación Ciudadana;
 
 X. De Derechos Humanos;
 
-XI. De Desarrollo Urbano y Obras Públicas;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE OCTUBRE DE 2005)</small>
 
-XII. De Transporte;
+XI. De atención a Migrantes;
 
-XIII. De Desarrollo Social;
+XII. De Desarrollo Urbano y Obras Públicas;
 
-XIV. De Salud;
+XIII. De Transporte;
 
-XV. De Educación;
+XIV. De Desarrollo Social;
 
-XVI. De Desarrollo Económico y Trabajo;
+XV. De Salud;
 
-XVII. De Artesanías;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2005)</small>
 
-XVIII. De Turismo;
+XVI. De Educación, Ciencia y Tecnología;
 
-XIX. De Desarrollo Agropecuario y Pesquero;
+XVII. De Desarrollo Económico y Trabajo;
 
-XX. De Asuntos Indígenas;
+XVIII. De Artesanías;
 
-XXI. De Asuntos de la Mujer;
+XIX. De Turismo;
 
-XXII. De Asuntos de la Juventud;
+XX. De Desarrollo Agropecuario y Pesquero;
 
-XXIII. De Recursos Naturales y Desarrollo Sustentable;
+XXI. De Asuntos Indígenas;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2005)</small>
+
+XXII. De equidad y Género;
+
+XXIII. De Asuntos de la Juventud;
+
+XXIV. De Recursos Naturales y Desarrollo Sustentable;
 
 > <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
-XXIV. De Examen Previo;
+XXV. De Examen Previo;
 
 > <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
-XXV. Instructora; y
+XXVI. Instructora; y
 
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE OCTUBRE DE 2005)</small>
 
-XXVI. De Vigilancia y Evaluación de la Auditoria General del Estado.
+XXVII. De Vigilancia y Evaluación de la Auditoria General del Estado.
 
 Las Comisiones anteriormente enunciadas, podrán ser incrementadas a juicio del Congreso, y tendrán a su cargo el trámite y la resolución de los asuntos relacionados con su competencia, así como las que expresamente les delegue el Pleno.
 
@@ -915,6 +923,20 @@ V. Emitir opinión en relación al informe anual que presente, en términos del 
 
 VI. Los demás que a juicio del Presidente del Congreso o de la Comisión Permanente, en su caso, le sean turnados.
 
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2005)</small>
+
+###### Artículo 61 Bis.
+
+A la Comisión de Atención a Migrantes le corresponde conocer de los asuntos siguientes:
+
+I:- Los relativos en materia de Migración;
+
+II.- Aquellos relacionados con los movimientos migratorios y la procuración de beneficios para el Estado, derivados de los Tratados Internacionales suscritos por el Ejecutivo Federal con aprobación del Senado;
+
+III.- Coadyuvar en la defensa de los derechos humanos de los migrantes Guerrerenses; y
+
+IV.- Los demás análogos que a juicio del Presidente del Congreso o de la Comisión Permanente, en su caso, le sean turnados.
+
 ###### Artículo 62.
 
 A la Comisión de Desarrollo Urbano y Obras Públicas le corresponde conocer de los asuntos siguientes:
@@ -975,17 +997,31 @@ III. Las iniciativas de Ley o Decreto en materia de salud, y
 
 IV. Los demás análogos que, a juicio del Presidente del Congreso o de la Comisión Permanente, en su caso, le sean turnados.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 2005)</small>
+
 ###### Artículo 66.
 
-A la Comisión de Educación le corresponde conocer de los siguientes asuntos:
+A la Comisión de Educación, Ciencia y Tecnología le corresponde conocer de los siguientes asuntos:
 
 I. De las iniciativas en materia de educación pública en el Estado;
 
 II. Los relativos a los programas y acciones en materia de la educación que se imparte en el Estado, en todos sus niveles y modalidades;
 
-III. Las iniciativas de Ley o Decreto relativas a las instituciones de enseñanza media superior y superior, y
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2005)</small>
 
-IV. Los demás análogos que, a juicio del Presidente del Congreso o de la Comisión Permanente, en su caso, le sean turnados.
+III. Las iniciativas de Ley o Decreto relativas a las instituciones de enseñanza media superior y superior;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE OCTUBRE DE 2005)</small>
+
+IV. Las iniciativas en materia de ciencia y Tecnología del Estado;
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2005)</small>
+
+V. Los relativos al desarrollo y fomento de la investigación científica y tecnológica en el Estado de Guerrero; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA, P.O. 28 DE OCTUBRE DE 2005)</small>
+
+VI. Los demás análogos que, a juicio del Presidente del Congreso o de la Comisión Permanente, en su caso le sean turnados.
 
 ###### Artículo 67.
 
@@ -1045,9 +1081,11 @@ IV. Los relativos a la procuración, administración de justicia y respeto a los
 
 V. Los demás análogos que, a juicio del Presidente del Congreso o de la Comisión Permanente, en su caso, le sean turnados.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 2005)</small>
+
 ###### Artículo 72.
 
-A la Comisión de Asuntos de la Mujer le corresponde conocer de los asuntos siguientes:
+A la Comisión de Equidad y Género le corresponde conocer de los asuntos siguientes:
 
 I. De las iniciativas que tengan por objeto, propiciar la integración de la mujer en la vida social, política y económica del Estado, sobre la base de igualdad de derechos y obligaciones entre ambos sexos;
 
@@ -2324,3 +2362,17 @@ P.O. 13 DE FEBRERO DE 2004.
 PRIMERO.- El presente Decreto entrará en vigor el día de su expedición.
 
 SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE OCTUBRE DE 2005.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir de la fecha de su expedición.
+
+###### ARTICULO SEGUNDO.
+
+Una vez aprobado el presente Decreto, hágase la integración de la Comisión de Atención a Migrantes en el término de quince días.
+
+###### ARTICULO TERCERO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado.
