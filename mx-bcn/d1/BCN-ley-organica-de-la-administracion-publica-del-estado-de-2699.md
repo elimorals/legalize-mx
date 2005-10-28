@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "2003-02-14"
+last_updated: "2005-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE FEBRERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 2005.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -173,23 +173,31 @@ XI.- Secretaría de Seguridad Pública;
 
 XII.- Secretaría del Trabajo y Previsión Social;
 
-> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2005)</small>
 
-XIII.- Dirección General de Informática;
+XIII.- Secretaría de Protección al Ambiente;
 
-XIV.- Dirección del Registro Público de la Propiedad y del Comercio;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2005)</small>
 
-XV.- Dirección de Relaciones Públicas;
+XIV.- Dirección General de Informática;
 
-XVI.- Dirección de Comunicación Social;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2005)</small>
 
-XVII.- Dirección General de Ecología;
+XV.- Dirección del Registro Público de la Propiedad y del Comercio;
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2005)</small>
+
+XVI.- Dirección de Relaciones Públicas;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2005)</small>
+
+XVII.- Dirección de Comunicación Social;
+
+(REFORMADA, P.O. 29 DE JUNIO DE 2001) (REPUBLICADA, P.O. 28 DE OCTUBRE DE 2005)
 
 XVIII.- Dirección de Control y Evaluación Gubernamental, y
 
-XIX.- (DEROGADA, P.O. 14 DE FEBRERO DE 2003)
+XIX.- (DEROGADA, P.O. 14 DE FEBRERO DE 2003) (REPUBLICADA, P.O. 28 DE OCTUBRE DE 2005)
 
 ## TITULO SEGUNDO. DE LA ADMINISTRACION PUBLICA CENTRALIZADA
 
@@ -1097,69 +1105,133 @@ VII.- Las demás que señalen las Leyes y reglamentos correspondientes.
 
 Para ser Subsecretario de Seguridad Pública, deberá cumplir los requisitos señalados en las fracciones I a la VII del presente artículo.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA] SU DENOMINACION, P.O. 29 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE OCTUBRE DE 2005)</small>
 
 ### CAPITULO XX
 
-DE LA COMPETENCIA DE LA DIRECCION GENERAL DE ECOLOGIA.
+DE LA COMPETENCIA DE LA SECRETARIA DE PROTECCION AL AMBIENTE.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 39.
 
-Corresponde a la Dirección General de Ecología la atención y trámite de los siguientes asuntos:
+Corresponde a la Secretaría de Protección al Ambiente, la atención y trámite de los siguientes asuntos:
 
-I.- Ejecutar la política y los criterios ecológicos en congruencia con los que, en su caso, hubiere formulado la Federación.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2005)</small>
 
-II.- Elaborar el Plan de Ordenamiento Ecológico del Estado y los planes y programas que de éste se deriven.
+I.- Proponer, conducir, evaluar y ejecutar los criterios ecológicos en congruencia con los que, en su caso, hubiere formulado la Federación.
 
-III.- Ejecutar los Planes fundamentales de la política ecológica del Estado, y los programas anuales que de éstos emanen, así como regular las acciones que se lleven a cabo con esos propósitos.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2005)</small>
 
-IV.- Prevenir y controlar las emergencias ecológicas y contingencias ambientales cuando se afecten áreas de dos o más municipios y no se rebase el territorio de la entidad.
+II.- Formular, actualizar, ejecutar y hacer valer el Programa de Ordenamiento Ecológico del Estado, programas regionales, y aquellos que de estos se deriven.
 
-V.- Evaluar y autorizar la manifestación del impacto ambiental de los proyectos, obras y actividades comerciales, industriales y de servicios.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2005)</small>
+
+III.- Ejecutar los programas e instrumentos fundamentales de la Política ecológica del Estado, y los programas anuales que de éstos emanen, así como regular las acciones que se lleven a cabo con esos propósitos.
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2005)</small>
+
+IV.- Prevenir y controlar las emergencias ecológicas y contingencias ambientales cuando se afecten áreas de dos o más municipios, o bien cuando la magnitud o repercusiones así lo requieran.
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2005)</small>
+
+V.- Evaluar y autorizar o en su caso negar la manifestación del impacto ambiental de los proyectos, planes, programas, obras y actividades de competencia estatal, así como proceder a su suspensión temporal cuando se realicen sin contar con la autorización respectiva.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE FEBRERO DE 1992)</small>
 
 VI.- Regular las actividades que no sean consideradas por la Ley General del Equilibrio Ecológico y Protección al Ambiente como altamente riesgosas, cuando por los efectos que puedan generar, se afecten ecosistemas de la entidad o sus municipios.
 
-VII.- Coordinar la participación de las dependencias de la Administración Pública Estatal, en las acciones de preservación y restauración del equilibrio ecológico y protección al ambiente.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2005)</small>
 
-VIII.- Regular y en su caso administrar las áreas naturales protegidas de competencia estatal, a fin de lograr la conservación y el aprovechamiento racional de los recursos naturales presentes en dichas áreas, con la participación de los municipios que corresponda.
+VII.- Coordinar la participación de las dependencias y entidades de la Administración Pública Estatal, en las acciones de preservación y restauración del equilibrio ecológico y protección al ambiente.
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2005)</small>
+
+VIII.- Promover la creación de áreas naturales protegidas de competencia estatal, regular, administrar y vigilar las mismas, así como aquellas transferidas por la Federación.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE FEBRERO DE 1992)</small>
 
 IX.- Administrar los recursos destinados a la investigación sobre ecología y el medio ambiente que para dicho efecto destine el Gobierno del Estado con el propósito de ampliar el conocimiento científico sobre los problemas ambientales o alternativas de solución de éstos que tengan aplicación en el Estado.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE FEBRERO DE 1992)</small>
+
 X.- Promover el establecimiento o, en su caso, administrar museos, zonas de demostración, zoológicos, jardines botánicos y otras instalaciones o exhibiciones similares destinadas a promover el conocimiento y efectivo cumplimiento de los principios, criterios y preceptos ecológicos contenidos en la presente Ley, salvo aquellas que se encuentren bajo la administración de otra institución.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE FEBRERO DE 1992)</small>
 
 XI.- Realizar proyectos específicos de información y educación ecológica, de alcance general en la entidad o de interés del Estado, a fin de desarrollar en la población una mayor conciencia ambiental y promover el mejor conocimiento de esta Ley.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE FEBRERO DE 1992)</small>
+
 XII.- Prevenir, regular y controlar las emisiones de contaminantes a la atmósfera, incluidas las originadas por ruido, vibraciones, olores perjudiciales, energía térmica y luminosa, cuando éstas provengan de fuentes emisoras de competencia estatal.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE FEBRERO DE 1992)</small>
 
 XIII.- Regular el aprovechamiento racional y prevenir la contaminación de las aguas de competencia estatal.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE FEBRERO DE 1992)</small>
+
 XIV.- Prevenir, regular y controlar la contaminación de aguas federales asignadas o concesionadas al Gobierno del Estado para la prestación de los servicios públicos en materia de tratamiento, descarga, infiltración y reuso de aguas residuales.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE FEBRERO DE 1992)</small>
 
 XV.- Regular con fines ecológicos el aprovechamiento de sustancias o materiales no reservados a la Federación ni a los Municipios, que constituyen depósitos de naturaleza semejante a los componentes de los terrenos, tales como arenas, grava, rocas o productos de su fragmentación, que son utilizados para la fabricación de materiales para construcción u ornamento.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE FEBRERO DE 1992)</small>
+
 XVI.- Regular la adecuada conservación y aprovechamiento racional de los recursos naturales, en el ámbito de su competencia, desde su extracción hasta su transformación en materias primas.
 
-XVII.- Regular las obras, instalaciones, equipos y acciones para el alojamiento, recuperación, tratamiento, y disposición final de los residuos sólidos que no sean peligrosos, conforme a la Ley y sus disposiciones reglamentarias.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2005)</small>
+
+XVII.- Regular las obras, instalaciones, equipos y acciones para el almacenamiento, reuso, recuperación, reciclaje, incineración, tratamiento, confinamiento y disposición final de los residuos de competencia estatal, conforme a la legislación aplicable y sus disposiciones reglamentarias.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE FEBRERO DE 1992)</small>
 
 XVIII.- Proponer la celebración de convenios con instituciones de educación superior, centros de investigación, instituciones privadas o públicas, investigadores y especialistas en la materia para promover y realizar programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la deterioración ambiental, propiciar el aprovechamiento racional de los recursos y la conservación de los ecosistemas.
 
-XIX.- Autorizar a las personas físicas o morales que lo soliciten su carácter de prestador de los servicios públicos especializados en la preservación y restauración ecológica, así como en la conservación y mejoramiento ambiental, siempre que cumplan con las disposiciones y requisitos que al efecto establezcan la Ley y sus reglamentos.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2005)</small>
 
-XX.- Autorizar a los Auditores Ambientales Externos como peritos en la materia de ecología y prevención y control de la contaminación, siempre que cumplan con las disposiciones y requisitos que al efecto establezcan esta Ley y sus reglamentos.
+XIX.- Autorizar a las personas físicas o morales que lo soliciten su carácter de prestador de los servicios públicos especializados en materia de impacto y riesgo ambiental, así como los Laboratorios Ambientales y Peritos en Monitoreo, siempre que cumplan con las disposiciones y requisitos que al efecto establezcan la Ley y sus reglamentos.
 
-XXI.- Otorgar y revocar los permisos y las autorizaciones necesarias derivadas de la Ley.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2005)</small>
 
-XXII.- Hacer efectivas las obligaciones derivadas de la Ley y sus reglamentos, y velar porque se observen las normas técnicas ecológicas que se expidan.
+XX.- Autorizar a los Auditores Ambientales especializados en apoyar al sector productivo en el cumplimiento de la normatividad ambiental estatal, siempre que cumplan con las disposiciones y requisitos que al efecto establezcan esta Ley y sus reglamentos.
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2005)</small>
+
+XXI.- Otorgar y revocar los permisos, las licencias y las autorizaciones derivadas de la Ley de Protección al Ambiente para el Estado de Baja California.
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2005)</small>
+
+XXII.- Hacer efectivas las obligaciones derivadas de la Ley de Protección al Ambiente para el Estado de Baja California, sus reglamentos, normas ambientales estatales y demás disposiciones legales aplicables.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE FEBRERO DE 1992)</small>
 
 XXIII.- Aplicar las sanciones administrativas correspondientes por infracciones a la Ley y sus reglamentos.
 
-XXIV.- Ordenar el decomiso de materiales o sustancias contaminantes, la clausura temporal, definitiva, parcial o total de las fuentes contaminantes de competencia estatal.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2005)</small>
 
-XXV.- Resolver los recursos de revocación y de inconformidad que se interpongan con motivo de la aplicación de la Ley y sus reglamentos.
+XXIV.- Ordenar las medidas de seguridad previstas en la Ley de Protección al Ambiente para el Estado de Baja California.
 
-XXVI.- Las demás que conforme a la Ley le correspondan.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2005)</small>
+
+XXV.- Resolver los recursos que se interpongan con motivo de la aplicación de la Ley de Protección al Ambiente para el Estado de Baja California y sus reglamentos.
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2005)</small>
+
+XXVI.- Promover la creación de normas ambientales estatales que tendrán por objeto la preservación del equilibrio ecológico, la prevención de la contaminación, contingencias ambientales y emergencias ecológicas.
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2005)</small>
+
+XXVII.- Formular y ejecutar programas de saneamiento ambiental en el Estado, en coordinación con las entidades federales y municipales que correspondan.
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2005)</small>
+
+XXVIII.- Instrumentar, ejecutar y evaluar programas, servicios y acciones relativos a la vida silvestre, de conformidad con la legislación en la materia.
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2005)</small>
+
+XXIX.- Las demás que se prevengan en la Ley de la materia y demás disposiciones aplicables.
 
 ### CAPITULO XXI
 
@@ -1582,3 +1654,15 @@ CUARTO.- Las referencias que se hacen o se hagan y las atribuciones que se otorg
 QUINTO.- La vigilancia del cumplimiento de las leyes y reglamentos en materia de Transporte Público, el otorgamiento de permisos y concesiones de servicio público para el arrastre, almacenamiento y guarda de vehículos, el control de vehículos accidentados o retenidos por violación de las leyes o reglamentos aplicables, el transporte de pasajeros y de carga, y demás para la prestación de servicios de transporte público, a que se refería el artículo 33 que se reforma, se entiende que corresponden a los ayuntamientos en sus respectivos ámbitos de competencia. Asimismo, las referencias hechas o que se hagan y las atribuciones otorgadas o que se otorguen en la Ley de Tránsito y Transportes del Estado de Baja California, otras leyes, reglamentos y demás disposiciones aplicables, a la Dirección de Tránsito y Transportes del Estado, o a cualquiera de sus unidades administrativas en materia de expedición, canje o revalidación de licencias para conducir vehículos, tarjetas de circulación, Placas o calcomanías del servicio particular y público, así como todos los trámites relacionados con dichos servicios, se entenderán referidos a la Secretaría de Planeación y Finanzas.
 
 SEXTO.- El Titular del Poder Ejecutivo, dentro de los noventa días siguientes a partir de la vigencia de este Decreto, expedirá el Reglamento Interno de la Dirección General de Informática.
+
+P.O. 28 DE OCTUBRE DE 2005.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los derechos laborales de los servidores públicos y empleados de la actual Dirección General de Ecología serán plenamente respetados, adecuando los puestos y nombramientos a las necesidades de la nueva Secretaría de Protección al Ambiente, de conformidad con los reglamentos internos, manuales operativos y convenios laborales celebrados, para los objetivos que la nueva estructura administrativa requiera de acuerdo a esta reforma.
+
+TERCERO.- Los recursos financieros, materiales y humanos, así como los archivos y asuntos en trámite de la Dirección General de Ecología serán transferidos a la Secretaría de Protección al Ambiente observando los trámites administrativos y jurídicos que para el efecto disponga la Dirección de Control y Evaluación Gubernamental del Estado.
+
+CUARTO.- El Poder Ejecutivo, dentro de los noventa días siguientes contados a partir de la entrada de las presentes reformas, realizará las adecuaciones necesarias a los reglamentos correspondientes para la operatividad de los órganos de la Secretaría de Protección al Ambiente.
+
+QUINTO.- Durante el ejercicio fiscal del año 2005, la Secretaría de Protección al Ambiente funcionará con la misma estructura con la que ha venido funcionando la dirección General de Ecología, hasta que se realicen las adecuaciones presupuestales correspondientes.
