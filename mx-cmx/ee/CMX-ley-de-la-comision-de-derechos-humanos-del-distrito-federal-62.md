@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-la-comision-de-derechos-humanos-del-distrito-federal-62"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-22"
-last_updated: "2005-06-01"
+last_updated: "2005-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1993-06-21"
 
 LEY DE LA COMISION DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE OCTUBRE DE 2005.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes el 22 de junio de 1993.
 
@@ -70,7 +70,17 @@ Serán sujetos de las responsabilidades establecidas en las leyes correspondient
 
 Todas las actuaciones y procedimientos que se sigan ante la Comisión de Derechos Humanos del Distrito Federal deberán ser ágiles gratuitos y expeditos y estarán sujetos sólo a las formalidades esenciales que requiera la documentación de los expedientes respectivos. Se seguirán además de acuerdo con los principios de buena fe, concentración y rapidez, procurando en medida de lo posible el contacto directo y personal con los quejosos, denunciantes, las autoridades o servidores públicos, para evitar la dilación de las sanciones.
 
-El personal de la Comisión de Derechos Humanos del Distrito Federal deberá dar trato confidencial a la información o documentación relativa a los asuntos de su competencia.
+> <small>(REFORMADO, G.O. 28 DE OCTUBRE DE 2005)</small>
+
+El personal de la Comisión de Derechos Humanos del Distrito Federal deberá dar trato confidencial a la información o documentación relativa a los asuntos de su competencia, mientras se efectúan las investigaciones relativas a las quejas o denuncias de que conozca.
+
+> <small>(ADICIONADO, G.O. 28 DE OCTUBRE DE 2005)</small>
+
+No obstante lo anterior, las resoluciones, conclusiones o recomendaciones serán públicas, en términos de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal, debiendo requerir a los denunciantes y quejosos su consentimiento por escrito, en el primer acuerdo o resolución que se emita, únicamente para publicar sus datos personales, en el entendido de que la omisión a desahogar dicho requerimiento constituirá su negativa.
+
+> <small>(ADICIONADO, G.O. 28 DE OCTUBRE DE 2005)</small>
+
+No se considerará como negativa, cuando el quejoso haya cambiado de domicilio sin hacerlo del conocimiento de la Comisión de Derechos Humanos del Distrito Federal, y se desconozca su paradero.
 
 > <small>(REFORMADO, G.O. 14 DE ENERO DE 2003)</small>
 
@@ -160,7 +170,7 @@ Esta sustitución se realizará independientemente de las extraordinarias que de
 
 > <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2003)</small>
 
-Los consejeros no podrán durar en el cargo más de cinco años, a menos que sean reelectos sólo para un segundo periodo inmediato. Bajo ninguna circunstancia cualquier consejero que haya renunciado a su cargo podrá ser electo nuevamente como miembros del Consejo.
+Los consejeros no podrán durar en el cargo más de cinco años, a menos que sean reelectos sólo para un segundo periodo inmediato. Bajo ninguna circunstancia cualquier consejero que haya renunciado a su cargo podrá ser electo nuevamente como miembro del Consejo.
 
 > <small>(REFORMADO, G.O. 18 DE MAYO DE 2005)</small>
 
@@ -172,7 +182,7 @@ De ocurrir una sustitución extraordinaria de algún Consejero, el que resultase
 
 > <small>(REFORMADO, G.O. 16 DE MAYO DE 2002)</small>
 
-En el supuesto de que la Asamblea Legislativa del Distrito Federal nombre a dos o más integrantes del Consejo al mismo tiempo, la Comisión de Derechos Humanos de la Asamblea Legislativa del Distrito Federal realizará una insaculación para conocer el orden en el que serán sustituidos.
+En el supuesto de que la Asamblea Legislativa del Distrito Federal nombre a dos o más integrantes del Consejo al mismo tiempo, la Comisión de Derechos Humanos de la Asamblea Legislativa del Distrito Federal realizará un (sic) insaculación para conocer el orden en el que serán sustituidos.
 
 > <small>(REFORMADO, G.O. 14 DE ENERO DE 2003)</small>
 
@@ -590,11 +600,13 @@ La autoridad o servidor público que haya aceptado la recomendación emitida por
 
 Cuando de las recomendaciones emitidas por la Comisión de Derechos Humanos del Distrito Federal que hayan sido aceptadas por autoridades o servidores públicos resulte evidente la frecuencia de ciertas violaciones de derechos humanos, la Comisión estará facultada para investigar de oficio el área de actuación con que se relacionen dichas recomendaciones, para efectos de formular pronunciamientos generales dirigidos a prevenir su recurrencia e instrumentar las medidas idóneas en términos de la fracción VI del artículo 17 de esta Ley.
 
-> <small>(REFORMADO, G.O. 14 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, G.O. 28 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 51.
 
-La Comisión de Derechos Humanos del Distrito Federal, garantizará la confidencialidad de las investigaciones, de las quejas o denuncias, así como de la información, datos y pruebas que obren en su poder, por lo cual y sólo de manera excepcional y justificada, decidirá si proporciona o no dichos testimonios o evidencias que le sean solicitados.
+La Comisión de Derechos Humanos del Distrito Federal, garantizará la confidencialidad de las investigaciones, de las quejas o denuncias, así como de la información, datos y pruebas que obren en su poder, mientras dichas investigaciones se efectúan, por lo cual y sólo de manera excepcional y justificada, decidirá si proporciona o no a autoridades o personas distintas a los denunciantes o quejosos dichos testimonios o evidencias que le sean solicitados.
+
+Los denunciantes o quejosos, para la mejor defensa de sus intereses, tienen derecho a que la Comisión les proporcione la información que obre en el expediente de la queja o denuncia en el momento en que lo deseen.
 
 ###### ARTICULO 52.
 
@@ -657,6 +669,10 @@ Todas las autoridades y servidores públicos en los términos del artículo 3o. 
 ###### ARTICULO 60.
 
 Cuando las autoridades o servidores públicos a los que se les solicite información o documentos afirmen que tienen carácter confidencial comunicarán a la Comisión de Derechos Humanos del Distrito Federal las razones para considerarlos así. En este supuesto, la Comisión tendrá la facultad de hacer la calificación definitiva sobre la reserva y solicitar que se le proporcionen la información o documentos, la que manejará en la más estricta confidencialidad.
+
+> <small>(ADICIONADO, G.O. 28 DE OCTUBRE DE 2005)</small>
+
+La confidencialidad de la información que reciba la Comisión deberá sujetarse a lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal.
 
 ###### ARTICULO 61.
 
@@ -842,9 +858,9 @@ Artículo Primero. El presente decreto entrará en vigor al día siguiente de su
 
 Artículo Segundo. Publíquese en el Diario Oficial de la Federación para su mayor difusión.
 
-Artículo Tercero. Con el objeto de no vulnerar los derechos adquiridos de los actuales integrantes del Consejo de la Comisión de Derechos Humanos del Distrito Federal, las dos sustituciones ordinarias anuales, así como la duración del encargo hasta por un periodo de cinco años, se aplicarán a partir de las sustituciones o reelecciones posteriores a la entrada en vigor del presente decreto.
+Artículo Tercero. Con objeto de no vulnerar los derechos adquiridos de los actuales integrantes del Consejo de la Comisión de Derechos Humanos del Distrito Federal, las dos sustituciones ordinarias anuales, así como la duración del encargo hasta por un periodo de cinco años, se aplicarán a partir de las sustituciones o reelecciones posteriores a la entrada en vigor del presente decreto.
 
-Artículo Cuarto. En caso de que la Asamblea Legislativa del Distrito Federal elija a más de un integrante del Consejo de la Comisión de Derechos Humanos del Distrito Federal, y en tanto se regulariza la sustitución o reelección de dos consejeros en los términos de la presente reforma, la Comisión de Derechos Humanos de dicha Asamblea realizará una insaculación para determinar el orden en que deberán ser sustituidos, de tal manera que un consejero sea sustituido o reelecto dentro de cinco años, el siguiente dentro de cuatro y así sucesivamente.
+Artículo Cuarto. En caso de que la Asamblea Legislativa del Distrito Federal elija a más de un integrante del Consejo de la Comisión de Derechos Humanos del Distrito Federal y en tanto se regulariza la sustitución o reelección de dos consejeros en los términos de la presente reforma, la Comisión de Derechos Humanos de dicha Asamblea realizará una insaculación para determinar el orden en que deberán ser sustituidos, de tal manera que un consejero sea sustituido o reelecto dentro de cinco años, el siguiente dentro de cuatro y así sucesivamente.
 
 G.O. 18 DE MAYO DE 2005.
 
@@ -859,3 +875,11 @@ PRIMERO.- Túrnese al Jefe de Gobierno del Distrito Federal para su promulgació
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese también en el Diario Oficial de la Federación.
 
 TERCERO.- Se derogan todas las disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+G.O. 28 DE OCTUBRE DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
