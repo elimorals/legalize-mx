@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2004-10-20"
+last_updated: "2005-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2005.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -188,6 +188,14 @@ La Procuraduría de los Derechos Humanos y Protección Ciudadana no ejercerá un
 > <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
 
 Toda persona tiene el derecho a la práctica del deporte, a la cultura física y a gozar de un medio ambiente adecuado para su desarrollo y bienestar. Las autoridades públicas del Estado, harán lo conducente a fin de que se asegure el disfrute de estos derechos.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2005)</small>
+
+Toda persona tiene derecho a acceder a la información que la ley atribuye el carácter de pública. La ley de la materia deberá observar entre otros los principios de máxima publicidad y gratuidad, asimismo, deberá establecer los procedimientos para acceder a la información pública y señalar aquella que tenga el carácter de reservada o confidencial.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2005)</small>
+
+La Ley establecerá un organismo ciudadano con atribuciones de consulta, propuesta, promoción y difusión del acceso a la información pública. Sus titulares tendrán carácter honorífico.
 
 ### CAPITULO V.. DE LOS HABITANTES DEL ESTADO Y DE SUS DERECHOS Y OBLIGACIONES
 
@@ -1663,11 +1671,11 @@ El Congreso del Estado, dentro de los ámbitos de su competencia, expedirá la L
 
 I.- Se impondrán, mediante juicio político, las sanciones indicadas en el Artículo 93 a los servidores públicos señalados en el mismo precepto, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
 
-No procede el juicio político por la mera expresión de ideas.
+No procede el juicio político por la mera expresión de ideas;
 
-II.- La comisión de delitos por parte de cualquier servidor público será perseguida y sancionada en los términos de la (sic) penal; y
+II.- La comisión de delitos por parte de cualquier servidor público será perseguida y sancionada en los términos de la penal;
 
-III.- Se aplicarán las sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones.
+III.- Se aplicarán las sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones;
 
 Los procedimientos para la aplicación de las sanciones mencionadas se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
 
@@ -2604,3 +2612,7 @@ P.O. 20 DE OCTUBRE DE 2004.
 PRIMERO.- Túrnese a los Ayuntamientos del Estado para el trámite previsto por el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
 
 SEGUNDO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 28 DE OCTUBRE DE 2005.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
