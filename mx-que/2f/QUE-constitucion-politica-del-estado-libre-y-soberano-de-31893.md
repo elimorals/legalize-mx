@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "2000-09-15"
+last_updated: "2005-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2000.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2005.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -387,7 +387,7 @@ X.- Normar la integración y funcionamiento del sistema de planeación democrát
 
 > <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2000)</small>
 
-XI.- Legislar en materia de seguridad pública, policía preventiva, tránsito y transporte.
+XI.- Legislar en materia de seguridad pública, policía preventiva, tránsito y transporte;
 
 XII.- Convocar a elecciones en los términos de esta Constitución y demás normas aplicables;
 
@@ -437,7 +437,7 @@ XXII.- Crear nuevos Municipios dentro de los limites de las ya existentes, siemp
 
 > <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
 
-XXIII.- Decretar la traslación provisional de los Poderes de la Entidad fuera de la ciudad de Santiago de Querétaro, en los casos y condiciones previstas en esta Constitución.
+XXIII.- Decretar la traslación provisional de los Poderes de la Entidad fuera de la ciudad de Santiago de Querétaro, en los casos y condiciones previstas en esta Constitución;
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
@@ -891,7 +891,7 @@ IV.- Rendir anualmente un informe ante la Legislatura sobre el Estado que guarde
 
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
 
-V. Excitar a la Comisión Permanente a que convoque a la Legislatura a sesiones, señalando el asunto o asuntos que habrán de tratarse, de acuerdo a la Ley.
+V. Excitar a la Comisión Permanente a que convoque a la Legislatura a sesiones, señalando el asunto o asuntos que habrán de tratarse, de acuerdo a la Ley;
 
 > <small>(REFORMADA, P. O. 3 DE ENERO DE 1991)</small>
 
@@ -927,7 +927,7 @@ XIII.- Ejercer, con la participación corresponsable de partidos políticos y ci
 
 > <small>(REFORMADA, P. O. 3 DE ENERO DE 1991)</small>
 
-XIV.- Designar a los fedatarios públicos en los términos de la ley de la materia.
+XIV.- Designar a los fedatarios públicos en los términos de la ley de la materia;
 
 > <small>(REFORMADA, P. O. 3 DE ENERO DE 1991)</small>
 
@@ -1015,7 +1015,7 @@ III.- Al Tribunal Superior de Justicia en materia judicial; y
 
 > <small>(REFORMADA, P. O. 3 DE ENERO DE 1991)</small>
 
-IV.- A los Ayuntamientos en asuntos del ramo municipal.
+IV.- A los Ayuntamientos en asuntos del ramo municipal;
 
 > <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
 
@@ -1063,153 +1063,135 @@ IX. Si una iniciativa de ley es rechazada en todo o en parte, no podrá presenta
 
 #### SECCIÓN PRIMERA. DISPOSICIONES PRELIMINARES
 
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 63°.
 
-Se deposita el ejercicio de la función judicial en un Tribunal Superior de Justicia y en los jueces y demás órganos que establezca la Ley Orgánica que al efecto expida la Legislatura.
+Se deposita el ejercicio de la función judicial en un Tribunal Superior de Justicia, en los juzgados y demás órganos que establezcan su ley orgánica.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
+La administración, vigilancia y disciplina del Poder Judicial, salvo aquellas facultades que la ley confiera expresamente al Tribunal Superior de Justicia, recaerán en un Consejo de la Judicatura, que será el encargado también del desarrollo de la carrera judicial de los funcionarios que no pertenezcan a dicho tribunal. El Consejo de la Judicatura contará con independencia técnica, de gestión y para emitir resoluciones.
 
-###### ARTICULO 64º.
+Entre sus facultades estará la fijación de criterios para la formación de los servicios públicos del poder judicial, supervisar la elaboración y aplicación de exámenes de ingreso y promoción a la carrera judicial, ejercer la potestad disciplinaria, decidir y expedir nombramientos y elaborar el presupuesto de las áreas a su cargo, llevar las estadísticas necesarias que permitan la evaluación del desempeño de los funcionarios del poder judicial, así como expedir los reglamentos necesarios para las funciones del mismo Consejo, de sus dependencias administrativas y órganos jurisdiccionales, con excepción del reglamento del Tribunal Superior de Justicia.
 
-Corresponde al Poder Judicial, la facultad de aplicar las leyes en asuntos judiciales del orden civil, penal y electoral del fuera común; así como en materia federal cuando las leyes lo faculten.
+Dicho Consejo se integrará por el Magistrado Presidente del Tribunal Superior, que también lo presidirá y dos magistrados electos por el Pleno del Tribunal. Durarán en su encargo tres años, con excepción de su Presidente, que permanecerá en su encargo mientras ostente también el de Presidente del Tribunal Superior de Justicia.
 
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+El Poder Judicial contará con un centro encargado de la mediación como medio alterno de solución de conflictos, cuyas funciones, competencias y estructura serán determinados en ley.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 64°.
 
-Corresponde a los Tribunales del Estado la facultad de aplicar las leyes en asuntos judiciales del orden civil y penal del fuero común, así como en materia federal cuando las leyes los faculten.
+Compete al Poder Judicial la facultad de resolver controversias a través de la aplicación de los principios y las leyes, en asuntos judiciales del fuero común en materia civil, familiar, penal y electoral. De igual forma lo harán en materia federal cuando así lo faculten las leyes. Los juzgadores privilegiarán la mediación en todo momento cuando las características del juicio lo permita.
 
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 65°.
 
-Las leyes establecerán los medios necesarios para que se garantice la independencia de los tribunales y la plena ejecución de sus resoluciones.
+Las leyes establecerán los medios necesarios que garanticen la independencia de los órganos encargados de la función jurisdiccional y la plena ejecución de sus resoluciones.
+
+Los juzgadores gozarán de absoluta independencia para la conducción de los procesos a su cargo así como para el dictado de las resoluciones respectivas. Esta prohibido a toda autoridad judicial, administrativa o legislativa, asociación, grupo o persona en lo particular, que no sean parte dentro de juicio, intentar influir en las decisiones de los juzgadores.
+
+La Ley Orgánica del Poder Judicial establecerá las bases para la carrera judicial, misma que tendrá como principios la excelencia, objetividad, imparcialidad, profesionalismo, actualización e independencia.
+
+El monto que asigne anualmente la Legislatura del Estado al Poder Judicial como presupuesto no podrá ser menor al aprobado en el Decreto de Presupuesto de Egresos del año inmediato anterior.
 
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
 #### SECCIÓN SEGUNDA. DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2000)</small>
-
-###### ARTICULO 66º.
-
-El Tribunal Superior de Justicia se compondrá cuando menos de diez magistrados propietarios y ocho supernumerarios, que serán electos por la Legislatura del Estado.
-
-El Tribunal funcionará en pleno o en salas, con los magistrados propietarios o supernumerarios, en su caso.
-
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 66°.
 
-El Tribunal Superior de Justicia se compondrá por lo menos de cinco magistrados propietarios y cinco supernumerarios, que serán elegidos cada tres años por la Legislatura del Estado, dentro de los ocho días siguientes a la instalación de ésta.
+El Tribunal Superior de Justicia se compondrá cuando menos de doce magistrados propietarios y ocho supernumerarios, electos por la Legislatura del Estado.
 
-El Tribunal funcionará en pleno o en salas con los magistrados propietarios o con los supernumerarios, en su caso.
+El Tribunal Superior de Justicia tendrá un Presidente, que lo será también del Poder Judicial, mismo que será electo de entre los magistrados propietarios por mayoría absoluta y que durará tres años en su encargo, sin posibilidad de reelección inmediata.
 
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+El Tribunal funcionará en pleno o en salas, ya sea colegiadas o unitarias, con magistrados propietarios o supernumerarios, en su caso.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 67°.
 
-Los magistrados durarán en el ejercicio de su cargo tres años, podrán ser reelectos u, si lo fueren, sólo pueden ser removidos de sus funciones en los términos que prescribe el Título Séptimo de esta Constitución.
+Los magistrados serán electos para un periodo de tres años, siendo electos por el voto de las dos terceras partes de los integrantes de la Legislatura del Estado. Podrán ser electos por la Legislatura para un periodo inmediato de nueve años más, escuchando la opinión que sobre el desempeño del magistrado manifieste el Consejo de la Judicatura y el Pleno del Tribunal Superior de Justicia. Los Magistrados solo podrán ser removidos de sus funciones en los términos que prescribe el Título Séptimo de esta Constitución o por falta grave establecida en la ley y determinada por el Consejo de la Judicatura. Ninguna persona podrá ocupar el cardo de magistrado, en forma consecutiva ni discontinua por más de 12 años.
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
+Al vencimiento de dicho plazo o antes si el magistrado llega a la edad de setenta años, cesará en sus funciones y tendrá derecho a un haber por retiro.
 
-###### ARTICULO 68º.
+Los magistrados supernumerarios serán nombrados cada tres años por la Legislatura, para lo que se requerirá el mismo número de votos requeridos para la designación de los magistrados propietarios. El ejercicio como magistrado supernumerario no contabilizará para efectos de los tiempos establecidos en la fracción primera del presente artículo, en caso de que fuese electo como magistrado propietario.
 
-Los Magistrados elegidos sea como propietarios o como supernumerarios, al entrar a ejercer su cargo, deberán otorgar la protesta de ley ante la Legislatura o ante la Comisión Permanente cuando aquella no se encuentre en período ordinario de sesiones. Durante su ejercicio percibirán una remuneración adecuada a sus funciones que será irrenunciable y no podrá ser disminuida.
+Tanto para el primer periodo y, en su caso, para una segunda elección como magistrado propietario o para elegir magistrados supernumerarios, la Legislatura tomará en cuenta, además, las propuestas de instituciones idóneas de los sectores público, privado o social que ésta considere.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
+Al inicio de sus funciones, los magistrados propietarios y supernumerarios otorgarán protesta de ley ante el Pleno de la Legislatura del Estado o la Comisión Permanente, fuera de los periodos ordinarios.
 
-###### ARTICULO 69º.
-
-Para ser Magistrado se requiere:
-
-I. Cumplir con los requisitos señalados por las fracciones I a IV del artículo 95 de la Constitución General de la República.
-
-II. Haber residido en el Estado durante los dos años anteriores al día de su elección; y,
-
-III. No haber ocupado el cargo de Secretario de Estado o su equivalente, Procurador General de Justicia o Diputado local, durante el año previo al día de su elección.
-
-Los nombramientos de los Magistrados y jueces integrantes del Poder Judicial del Estado de Querétaro, serán hechos preferentemente, entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
-
-> <small>(REFORMADO PRIMER PARRAFO, P. O. 15 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 68°.
 
-Los Magistrados elegidos sea como propietarios o como supernumerarios, al entrar a ejercer su cargo, deberán otorgar la protesta de ley ante la Legislatura o ante la Diputación Permanente en los recesos de aquella. Durante su ejercicio percibirán una remuneración adecuada a sus funciones que será irrenunciable y no podrá ser disminuida.
+Para ser magistrado se requiere:
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
+I.- Cumplir con los requisitos fijados en las fracciones I a IV del artículo 95 de la Constitución Política de los Estados Unidos Mexicanos;
+
+II.- Haber residido en el estado los dos años anteriores inmediatos al día de su designación;
+
+III.- No haber ocupado cargo de elección popular, ni haber sido Secretario del gobierno local o su equivalente, o Procurador General de Justicia del Estado, durante el año previo a su nombramiento; y
+
+IV.- No ser mayor de 70 años cumplidos al día de la elección.
+
+Los nombramientos de los magistrados y jueces integrantes del Poder Judicial del Estado de Querétaro serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 69°.
 
-Para ser magistrado se requiere:
+La remuneración que perciban los magistrados por la prestación de sus servicios será adecuada e irrenunciable y no podrá disminuirse, ni retrasarse o condicionarse de forma alguna su pago durante el ejercicio de su cargo.
 
-I.- Ser ciudadano mexicano por nacimiento y en pleno ejercicio de sus derechos;
-
-II.- No tener mas de 65 años de edad ni menos de 35 el día de la designación;
-
-III.- Tener título de Licenciado en Derecho y 5 años cuando menos de práctica profesional; y
-
-IV.- Ser de reconocida honradez y rectitud y no haber sido condenado por delito intencional.
-
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 70°.
 
-Son atribuciones del pleno del Tribunal Superior de Justicia:
+Es competencia del Pleno del Tribunal Superior de Justicia:
 
-> <small>(REFORMADA, P. O. 3 DE ENERO DE 1991)</small>
+I.- Ejercer el derecho de iniciativa ante la Legislatura del Estado en materia judicial;
 
-I.- Iniciar ante la Legislatura del Estado las leyes y decretos que tengan por objeto mejorar la impartición de justicia;
+II.- Aprobar sus reglamentos;
 
-> <small>(REFORMADA, P. O. 3 DE ENERO DE 1991)</small>
+III.- Procesar y sentenciar los litigios que no sean competencia de la Suprema Corte de Justicia de la Nación o el Senado de la República y que surjan entre:
 
-II.- Aprobar su reglamento interior;
+a) Poder Ejecutivo y Legislatura del Estado;
 
-> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2000)</small>
+b) Poder Ejecutivo o Legislatura del Estado con algún organismo constitucional autónomo;
 
-III.- Dirimir los conflictos que no sean competencia de la Suprema Corte de Justicia de la Nación y que surjan entre:
+c) Municipios del Estado con organismos constitucionales autónomos, el Poder Ejecutivo o Legislatura del Estado; y
 
-a) El Poder Ejecutivo y Legislativo del Estado;
+d) Los Municipios del Estado.
 
-b) El Poder Ejecutivo o Legislativo del Estado con algún organismo constitucionalmente autónomo;
+IV.- Conocer como jurado de sentencia en las causas de responsabilidad a que se refiere el título séptimo de esta Constitución;
 
-c) Los Municipios del Estado con organismos constitucionalmente autónomos, el Poder Ejecutivo o Legislativo del Estado; y
+V.- Presentar a la Legislatura un informe por escrito sobre el estado que guarde la impartición de justicia en la entidad, en el mes de septiembre de cada año;
 
-d) Los Municipios del Estado;
+VI.- Elegir al Presidente del Tribunal Superior de Justicia; y
 
-> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2000)</small>
+VII.- Las demás que establezcan leyes.
 
-IV.- Conocer del recurso de revisión interpuesto en contra de las resoluciones del Tribunal de lo Contencioso Administrativo del Estado, que decreten o nieguen sobreseimientos, así como en contra de sus sentencias definitivas;
-
-> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2000)</small>
-
-V.- Conocer como jurado de sentencia en las causas de responsabilidad a que se refiere el Título Séptimo de esta Constitución;
-
-> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2000)</small>
-
-VI.- Presentar a la Legislatura en el mes de septiembre de cada año un informe por escrito sobre el estado que guarde la administración de justicia en la Entidad; y
-
-> <small>(ADICIONADA, P.O. 15 DE SEPTIEMBRE DE 2000)</small>
-
-VII.- Las demás que establezca la Ley.
-
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
-
-###### ARTICULO 71º.
-
-Los jueces del Estado serán nombrados por el Pleno del Tribunal Superior de Justicia. Durarán en su cargo todo el tiempo que dure su honrado y eficiente cumplimiento. Sólo serán removidos por el propio Pleno cuando incurran en responsabilidad.
-
-La Ley Orgánica del Poder Judicial establecerá las bases para el ingreso, formación, actualización y permanencia de los servidores judiciales, así como el programa y desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
-
-> <small>(REFORMADA SU DENOMINACION, P. O. 28 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 71°.
 
-Los jueces del Estado serán nombrados por el Pleno del Tribunal Superior de Justicia y durará en su encargo todo el tiempo que dure su honrado y eficiente cumplimiento. Sólo serán removidos por el propio pleno cuando incurran en responsabilidad.
+Los jueces de la entidad serán designados por el Tribunal Superior de Justicia a Propuesta del Consejo de la Judicatura con base en criterios objetivos y de acuerdo a los requisitos y procedimientos que establezca la ley. Durarán en su encargo seis años pudiendo ser ratificados en los términos que señale la Ley Orgánica del Poder Judicial y desempeñaran su función mientras no fueren declarados legalmente incapaces o sean removidos ya sea en términos del Título Séptimo de esta Constitución o por falta grave establecida en la ley y determinada por el Consejo de la Judicatura.
 
-Los requisitos para ser Juez, así como las normas que regulen su formación y permanencia, sus atribuciones, competencias y obligaciones, serán los que señalen la Ley Orgánica del Poder Judicial.
+La remoción por falta grave, tanto en el caso de magistrados como jueces, deberá determinarse previo procedimiento establecido en ley en el que se respeten la garantía de audiencia y mediante determinación fundada y motivada.
+
+Para ser designado juez deberán cubrirse los siguientes requisitos:
+
+I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles;
+
+II.- Contar al menos con 30 años de edad al momento del nombramiento;
+
+III.- Contar, el día de la designación, con antigüedad mínima de cinco años, título profesional de licenciado en derecho, expedido por autoridad o institución legalmente facultada para ello; y
+
+IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena de más de un año de prisión, pero si se trata de robo, fraude, falsificación, abuso de confianza u otro que afecte seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
+
+Cuando un juez advierta que una norma legal puede resultar injusta, podrá presentar por escrito ante el Pleno del Tribunal Superior las consideraciones que estime pertinentes, a efecto que dicho órgano proceda al análisis de las mismas y, en su caso, a elaborar y presentar el proyecto de la iniciativa de ley correspondiente.
 
 > <small>(REFORMADA SU DENOMINACION, P. O. 28 DE DICIEMBRE DE 1993)</small>
 
@@ -2228,3 +2210,7 @@ QUINTO. Las funciones y servicios que conforme a esta Ley sean competencia de lo
 Tratándose de los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, el Gobierno del Estado podrá solicitar a la Legislatura conservar en su ámbito de competencia dichos servicios, cuando la trasferencia a los Municipio (sic) afecte, en perjuicio de la población, su prestación.
 
 SEXTO. Se deja en suspenso la vigencia de la fracción IV del artículo 70 de la presente Ley, hasta en tanto se realicen las adecuaciones correspondientes a la Ley Orgánica del Poder Judicial del Estado, Ley del Tribunal de lo Contencioso Administrativo del Estado de Querétaro, Ley Orgánica de la Administración Pública del Estado y demás leyes aplicables.
+
+P.O. 28 DE OCTUBRE DE 2005
+
+ÚNICO: Las disposiciones relativas a la duración del cargo de magistrados y jueces serán aplicables a los nombramientos hechos posteriormente a la entrada en vigor de las presentes reformas, por lo que aquellos que actualmente ocupen los cargos lo harán en los términos establecidos al momento de su designación o ratificación.
