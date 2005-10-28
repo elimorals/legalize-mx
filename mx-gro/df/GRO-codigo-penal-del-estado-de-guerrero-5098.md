@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-del-estado-de-guerrero-5098"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-14"
-last_updated: "2005-10-14"
+last_updated: "2005-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO PENAL DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 2005.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 14 de noviembre de 1986.
 
@@ -1961,6 +1961,10 @@ II.- Exista una pérdida de la función de un órgano o parte de la economía co
 
 III.- Cause pérdida de la vida del enfermo, se impondrá prisión de ocho a veinte años.
 
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2005)</small>
+
+202 BIS.- Si en la ejecución de los hechos referidos en los Artículos 201 y 202 de este Código, se utiliza a un menor o incapaz como salvaguardia para evitar la aplicación o eludir la acción de la justicia, las penas se aumentarán hasta en una mitad más.
+
 203.- Si la ejecución de los hechos a que se refieren las disposiciones anteriores, se realiza por medio de explosivos o materias incendiarias, las penas se aumentarán hasta en una mitad más.
 
 204.- Al que indebidamente retenga cualquier vehículo destinado al servicio público o dificulte sus servicios, se le aplicará prisión de seis meses a cuatro años y hasta doscientos días multa.
@@ -2137,13 +2141,21 @@ Cuando el pasivo sea menor de dieciocho años de edad o incapaz, se aplicará de
 
 Si el ofendido fuere menor de dieciocho años de edad o incapaz, se aplicará de siete a doce años de prisión y de mil a dos mil días multa.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE MAYO DE 2002)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO CON EL ARTICULO QUE LO INTEGRA], P.O. 28 DE OCTUBRE DE 2005)</small>
 
 ## TITULO IV. DELITOS CONTRA LA MORAL Y LA INTEGRIDAD DE LOS MENORES E INCAPACES
 
 > <small>(REFORMADO, P.O. 14 DE MAYO DE 2002)</small>
 
-### CAPITULO IV. DISPOSICIONES COMUNES
+### CAPITULO IV. DELITO CONTRA LA INTEGRIDAD DE LOS MENORES E INCAPACES
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2005)</small>
+
+218 BIS 1.- Al que utilice a un menor de doce años o a quien no tenga capacidad para comprender el significado del hecho como medio para protegerse de la acción de la justicia, exponiendo la integridad física o psicoemocional del menor o incapaz, se le aplicarán de tres a cinco años de prisión y de ochocientos a mil ochocientos días multa.
+
+> <small>(ADICIONADO [N. DE E. REFORMADA SU NUMERACION], P.O. 28 DE OCTUBRE DE 2005)</small>
+
+### CAPITULO V. DISPOSICIONES COMUNES
 
 > <small>(REFORMADO, P.O. 14 DE MAYO DE 2002)</small>
 
@@ -2153,13 +2165,13 @@ Si el ofendido fuere menor de dieciocho años de edad o incapaz, se aplicará de
 
 219 BIS.- Tratándose de los delitos a que se refieren los Artículos 216 Bis, 217 con excepción de su segundo párrafo y 217 Bis, cuando el sujeto pasivo sea un menor de dieciséis años de edad, las penas se aumentarán en una tercera parte más de las sanciones previstas para cada uno. Cuando los delitos a que se refieren los Artículos 216 Bis, 217 y 217 Bis fueren cometidos con un menor de doce años de edad, las penas se aumentarán en una mitad de las previstas para cada caso.
 
-> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2002)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2005)</small>
 
-219 BIS 1.- Las penas previstas para los delitos comprendidos en este Título se duplicarán cuando el sujeto activo sea ascendiente, padrastro, madrastra, tenga parentesco por consanguinidad, afinidad o civil hasta un cuarto grado o habite en el mismo domicilio que la víctima aunque no existiere parentesco alguno, así como por el tutor o curador; asimismo perderá la patria potestad respecto de todos sus descendientes, el derecho a alimentos que le correspondieran por su relación con la víctima y el derecho que pudiera tener respecto a los bienes de ésta e inhabilitación para desempeñar tutela, curatela o cualquier otro cargo similar.
+219 BIS 1.- Las penas previstas para los delitos comprendidos en este título, con excepción del Artículo 218 Bis 1, se duplicarán cuando el sujeto activo sea ascendiente, padrastro, madrastra, tenga parentesco por consanguinidad, afinidad o civil hasta en cuarto grado o habite en el mismo domicilio que la víctima aunque no existiere parentesco alguno, así como por el tutor o curador; asimismo se dará vista a la Procuraduría de la Defensa de los Menores, para que represente legalmente a la víctima ante el Juez competente en los juicios relativos a la pérdida de la patria potestad del sentenciado respecto de todos sus descendientes, del derecho a alimentos que le correspondieran por su relación con la víctima y del derecho que pudiera tener respecto a los bienes de ésta e inhabilitación para desempeñar tutela, curatela o cualquier otro cargo similar.
 
-> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2002)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2005)</small>
 
-219 BIS 2.- Cuando cualquiera de los delitos establecidos por este Título sea cometido por dos o más personas, se aumentará en una mitad la pena prevista para cada uno de ellos.
+219 BIS 2.- Cuando cualquiera de los delitos establecidos por este título, con excepción del Artículo 218 Bis 1, sea cometido por dos o más personas se aumentarán (sic) en una mitad la pena prevista para cada uno de ellos.
 
 > <small>(ADICIONADO, P.O. 14 DE MAYO DE 2002)</small>
 
@@ -2221,11 +2233,13 @@ III.- Retarden o nieguen por cualquier motivo la entrega de un cadáver, excepto
 
 A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros para cometer el delito de sedición, se les sancionará con prisión de dos a doce años.
 
+## TITULO V. DELITOS CONTRA EL RESPETO A LOS MUERTOS Y CONTRA LAS NORMAS DE INHUMACION Y EXHUMACION
+
 ### CAPITULO II. MOTIN
 
 228.- A quienes para hacer uso de un derecho o pretextando su ejercicio o para evitar el cumplimiento de una ley, se reúnan tumultuariamente y perturben el orden público con el empleo de violencia en las personas o sobre las cosas, o amenacen a la autoridad para intimidarla u obligarla a tomar alguna determinación, se les aplicará de seis meses a cuatro años de prisión.
 
-## TITULO V. DELITOS CONTRA EL RESPETO A LOS MUERTOS Y CONTRA LAS NORMAS DE INHUMACION Y EXHUMACION
+## TITULO VI. DELITOS COMETIDOS EN EL EJERCICIO DE LA PROFESION
 
 ### CAPITULO III. REBELION
 
@@ -2259,17 +2273,15 @@ III.- Voluntariamente sirva un empleo, cargo o comisión en lugar ocupado por lo
 
 No se aplicará pena alguna por el delito de rebelión a los que depongan las armas antes de ser tomados prisioneros, salvo que hubieren cometido otros delitos durante la rebelión o los que se mencionan en el artículo anterior.
 
-## TITULO VI. DELITOS COMETIDOS EN EL EJERCICIO DE LA PROFESION
+#### SECCION CUARTA. DELITOS CONTRA EL ESTADO
+
+## TITULO I. DELITOS CONTRA LA SEGURIDAD INTERIOR DEL ESTADO
 
 ### CAPITULO IV. TERRORISMO
 
 234.- Se impondrá prisión de tres a treinta años, sin perjuicio de las penas que correspondan por los delitos que resulten, al que utilizando explosivos, sustancias tóxicas, armas de fuego o por incendio, inundación o por cualquier otro medio violento, realice actos en contra de las personas, las cosas o servicios al público, que produzcan alarma, temor, terror, en la población o a un grupo o sector de ella, para perturbar la paz pública o tratar de menoscabar la autoridad del Estado o presionar a la autoridad para que tome una determinación.
 
 Se aplicará prisión de uno a nueve años, al que teniendo conocimiento de las actividades de un terrorista y de su identidad, no lo haga saber a las autoridades.
-
-#### SECCION CUARTA. DELITOS CONTRA EL ESTADO
-
-## TITULO I. DELITOS CONTRA LA SEGURIDAD INTERIOR DEL ESTADO
 
 ### CAPITULO V. SABOTAJE
 
@@ -2359,6 +2371,8 @@ X.- Ejerza algún otro empleo, cargo o comisión oficial o particular, teniendo 
 
 Cuando el monto del producto del delito o de los daños o perjuicios causados, exceda de mil veces el salario, la sanción será de cuatro a diez años de prisión y de cuatrocientos a ochocientos días multa.
 
+## TITULO II. DELITOS CONTRA EL SERVICIO PUBLICO COMETIDOS POR LOS SERVIDORES PUBLICOS
+
 ### CAPITULO IV. ABUSO DE AUTORIDAD
 
 244.- Comete el delito de abuso de autoridad, el servidor público que:
@@ -2378,8 +2392,6 @@ VI.- Haga que se le entreguen fondos, valores u otra cosa que no se le haya conf
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
 
 Al que cometa el delito de abuso de autoridad se le aplicará prisión de tres a ocho años y de cien a quinientos días multa, penas que se aumentarán hasta en una mitad más para el caso previsto en la fracción IV de este artículo.
-
-## TITULO II. DELITOS CONTRA EL SERVICIO PUBLICO COMETIDOS POR LOS SERVIDORES PUBLICOS
 
 ### CAPITULO V. INTIMIDACION
 
@@ -2473,6 +2485,8 @@ II.- Indebidamente solicite o promueva alguna resolución o la realización de c
 
 256.- Al que a sabiendas adquiera indebidamente o haga figurar como suyos, bienes que un servidor público haya adquirido en contravención a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos, se le aplicará prisión de seis meses a seis años y de treinta a trescientos días de multa.
 
+## TITULO III. DELITOS CONTRA EL SERVICIO PUBLICO COMETIDOS POR PARTICULARES
+
 ### CAPITULO IV. FALSEDAD ANTE AUTORIDAD
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE FEBRERO DE 1993)</small>
@@ -2486,8 +2500,6 @@ Si el agente se retractare de sus declaraciones falsas antes de que se pronuncie
 258.- Al que presente testigos falsos conociendo estas circunstancias o logre que un testigo, perito, intérprete o traductor falte a la verdad o la oculte al ser examinado por la autoridad pública en el ejercicio de sus funciones, se le impondrá prisión de 6 meses a 3 años o multa de 30 a 180 días de salario.
 
 Además de las penas a que se refiere el artículo anterior, el perito, intérprete o traductor sufrirá inhabilitación para desempeñar sus funciones hasta por dos años.
-
-## TITULO III. DELITOS CONTRA EL SERVICIO PUBLICO COMETIDOS POR PARTICULARES
 
 ### CAPITULO V. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
 
@@ -2639,6 +2651,8 @@ Son aplicables por este delito, en lo conducente, los artículos 159, 160, 161 y
 
 276.- Al evadido no se le aplicará sanción, salvo que obre en concierto con otro u otros presos y se fugue con alguno de ellos o ejerza violencia o cause daños, en cuyo caso la prisión será de tres meses a tres años.
 
+## TITULO IV. DELITOS CONTRA LA ADMINISTRACION DE JUSTICIA
+
 ### CAPITULO V. QUEBRANTAMIENTO DE PENAS NO PRIVATIVAS DE LIBERTAD Y MEDIDAS DE SEGURIDAD
 
 277.- A quien quebrante la prohibición de residir en una circunscripción territorial determinada, se le impondrán de tres meses a tres años de prisión y de diez a ciento veinte días multa.
@@ -2656,8 +2670,6 @@ Son aplicables por este delito, en lo conducente, los artículos 159, 160, 161 y
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
 
 283.- A quien de cualquier modo favorezca el quebrantamiento de alguna de las sanciones a que se refiere este capítulo se le aplicará prisión de dos a seis años.
-
-## TITULO IV. DELITOS CONTRA LA ADMINISTRACION DE JUSTICIA
 
 ### CAPITULO VI. ENCUBRIMIENTO POR FAVORECIMIENTO
 
@@ -3040,3 +3052,9 @@ P.O. 14 DE OCTUBRE DE 2005.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Comuníquese el presente Decreto al Titular del Ejecutivo del Estado para sus efectos constitucionales procedentes.
+
+P.O. 28 DE OCTUBRE DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Comuníquese el presente Decreto al Titular del Ejecutivo del Estado, para sus efectos constitucionales procedentes.
