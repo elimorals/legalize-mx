@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-deuda-publica-para-el-estado-de-chihuahua-y-sus-10345"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-31"
-last_updated: "2004-02-18"
+last_updated: "2005-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10345&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DEUDA PUBLICA PARA EL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2005.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 31 de diciembre de 1994.
 
@@ -64,6 +64,10 @@ V.- Los fideicomisos, en los que alguna de las entidades señaladas anteriorment
 ###### ARTICULO 3o.
 
 En cualquier caso, los empréstitos y créditos que contraigan y las obligaciones que emitan las entidades a que se refiere el artículo anterior, sólo podrán destinarse a inversiones públicas productivas, debiendo considerarse como tales tanto las de carácter económico como social, siempre que produzcan, de manera directa o indirecta, un incremento en sus ingresos, quedando comprendidas con este carácter, las relativas a la ejecución de obras públicas, adquisición o manufactura de bienes y prestación de servicios públicos.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2005)</small>
+
+Para los efectos de esta Ley y lo previsto en el Artículo 117 fracción VIII de la Constitución Política de los Estados Unidos Mexicanos, también se consideran como inversión pública productiva las operaciones financieras o bursátiles que busquen directa o indirectamente, entre otros fines, el saneamiento financiero, el mejoramiento del perfil de la deuda o el incremento de la capacidad financiera, de las entidades públicas mencionadas en el artículo 2 de este ordenamiento. En dichas operaciones se encuentran comprendidas las que se lleven a cabo mediante reestructuración, conversión, consolidación, renovación y/o subrogación, directamente por la (sic) entidades públicas referidas o a través de los instrumentos jurídicos que la Ley permita.
 
 ###### ARTICULO 4o.
 
@@ -175,9 +179,13 @@ II.- Examinar y en su caso aprobar las solicitudes de endeudamiento de las Entid
 
 III.- Solicitar a las entidades a que se refiere el artículo 2o. de esta Ley, la documentación e información que requiera para el estudio y análisis de las solicitudes de autorización para celebrar operaciones de deuda pública directa o contingente;
 
-IV.- Autorizar, en su caso, al Estado y a los municipios para afectar en garantía de pago de los créditos que contraten como deudores directos o indirectos, las participaciones que les correspondan en ingresos federales;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2005)</small>
 
-V.- En su caso, autorizar al Estado y a los municipios la ampliación o prórroga de la fecha de pago de los créditos contratados conforme a las fracciones anteriores;
+IV.- Autorizar al Estado y a los municipios para afectar participaciones que les correspondan en ingresos federales, en garantía o como fuente de pago de los financiamientos y demás obligaciones, que contraten como deudores u obligados directos o bien, para garantizar o cumplir financiamientos u obligaciones contraídos por cualesquiera de las demás entidades públicas referidas en el artículo 2 de esta Ley;
+
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2005)</small>
+
+V.- En su caso, autorizar a las entidades públicas referidas en el artículo 2 de esta Ley, la ampliación o prórroga de la fecha de pago de los financiamientos y obligaciones contratados conforme a las fracciones anteriores;
 
 VI.- Verificar que las operaciones de deuda pública de las entidades a que se refiere el artículo 2o. de esta Ley, se realicen conforme a la autorización otorgada por el Congreso del Estado y a las disposiciones de esta Ley;
 
@@ -197,7 +205,9 @@ b). Los servicios, bienes u obras públicas productivas a que se destinó el fin
 
 c). El saldo de la deuda, que comprenderá la forma y plazos de amortización del capital y el pago de intereses y demás conceptos que correspondan.
 
-II.- Solicitar al Congreso del Estado autorización para contratar créditos o empréstitos directos o contingentes y, en su caso, para afectar en garantía de pago las participaciones del Estado en ingresos federales.
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2005)</small>
+
+II.- Solicitar al Congreso del Estado autorización para contratar créditos o empréstitos directos o contingentes, o a través de fideicomisos, así como otras operaciones financieras o bursátiles que impliquen compromisos crediticios y, en su caso, para afectar en garantía o como fuente de pago las participaciones del Estado en ingresos federales.
 
 III.- Las demás facultades que le confiera la Constitución Política del Estado y leyes aplicables.
 
@@ -211,9 +221,13 @@ II.- Elaborar los proyectos de decreto que serán presentados por el Ejecutivo a
 
 III.- Celebrar los contratos y convenios para la obtención de créditos y demás operaciones financieras de deuda pública que contrate como deudor directo o como aval o responsable solidario en las operaciones de endeudamiento que contraigan las Entidades enumeradas en las fracciones II a V del Artículo 2o. de esta Ley en los límites autorizados por el Congreso, suscribiendo los documentos y títulos de crédito requeridos para tal efecto. Tratándose de municipios, sus participaciones en ingresos federales y estatales deberán ser suficientes para garantizar las obligaciones contraídas dentro del plazo convenido;
 
-IV.- Celebrar los contratos y convenios así como suscribir los documentos y títulos de crédito necesarios para las operaciones de reestructuración de los créditos contraídos por el Gobierno del Estado como deudor directo, aval o responsable solidario, sujetándose a los montos y plazos fijados por el Congreso en el decreto respectivo;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2005)</small>
 
-V.- Con la autorización del Congreso del Estado, afectar en garantía de pago de los empréstitos y obligaciones que se contraigan por el Estado, las participaciones que le correspondan en ingresos federales, siempre que sean suficientes para garantizar su pago total dentro del plazo estipulado.
+IV.- Celebrar los contratos y convenios, así como suscribir los documentos y títulos de crédito necesarios, para las operaciones de reestructuración, conversión, consolidación, renovación y/o subrogación de los créditos contraídos por el Gobierno del Estado como deudor directo, aval o responsable solidario, sujetándose a los montos y plazos fijados por el Congreso en el decreto respectivo; así mismo, celebrar los contratos relativos a coberturas de tasas de interés, a través de cualquier instrumento que permita proteger al Estado y sus demás entidades públicas ante cambios repentinos y considerables en el mercado financiero incluyendo en dichos instrumentos los contratos de intercambio de tasas y los de tasas límites de pago;
+
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2005)</small>
+
+V.- Con la autorización del Congreso del Estado, afectar en garantía o como fuente de pago de los empréstitos y obligaciones que se contraigan por las entidades públicas a que se refiere el artículo 2 de esta Ley, las participaciones que correspondan al Estado en ingresos federales, siempre que sean suficientes para garantizar o cumplir con su pago total dentro del plazo estipulado;
 
 VI.- Autorizar a los organismos descentralizados del Estado, empresas de participación estatal mayoritaria y fideicomisos, para gestionar y contratar financiamientos ajustándose a sus presupuestos, a las disposiciones de esta Ley y a las leyes que los regulen, en cuyo caso la iniciativa de decreto correspondiente se tramitará a través de la Dirección General de Finanzas y Administración.
 
@@ -223,7 +237,9 @@ VIII.- Vigilar que se realicen oportunamente los pagos de amortizaciones de capi
 
 IX.- Vigilar que los recursos obtenidos en la contratación de los créditos por las entidades públicas a que se refiere el artículo 2o. de esta Ley, sean destinados precisamente a los fines para los cuales fueron otorgados. Se exeptúa (sic) de lo anterior a las entidades municipales;
 
-X.- Emitir bonos y demás obligaciones de deuda pública, así como contratar y administrar la deuda pública del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2005)</small>
+
+X.- Emitir bonos, certificados y demás títulos de crédito y obligaciones representativas de deuda pública, directamente o por medio de fideicomisos u otros mecanismos permitidos por la Ley, así como contratar y administrar la deuda pública del Gobierno del Estado;
 
 XI.- Reglamentar los procedimientos de emisión, colocación y rescate de títulos de deuda y su amortización;
 
@@ -232,6 +248,22 @@ XII.- Informar al Congreso del Estado, cuando éste lo solicite, de las operacio
 XIII.- Llevar el registro de los créditos directos o contingentes contraídos por el Estado, estableciendo el monto, plazos de pago, destino de los recursos, entidad acreditada, garantías otorgadas y las demás características que las identifiquen y,
 
 XIV.- Todas aquellas facultades que sean necesarias y conducentes para formalizar, administrar y controlar la deuda pública del Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2005)</small>
+
+Tratándose de operaciones de deuda a cargo de las entidades públicas mencionadas en las fracciones III, IV y V del artículo 2 de esta Ley, les será aplicable en lo conducente, lo dispuesto en las fracciones III, IV y X del presente artículo, ciñéndose a las autorizaciones conferidas por el Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2005)</small>
+
+ARTICULO 17 BIS.- A fin de afectar las participaciones que sobre ingresos federales corresponden al Estado, en garantía o como fuente de pago de obligaciones contraídas directa o indirectamente, el Ejecutivo o el acreedor, o ambos, notificarán de la afectación de los derechos sobre participaciones a la Secretaría de Hacienda y Crédito Público por conducto de los órganos competentes de ésta, cumpliendo con los requisitos y los procedimientos establecidos al efecto. Una vez notificada la afectación, no podrá ser revocada o modificada unilateralmente por el Ejecutivo, sin la autorización expresa del o los acreedores, salvo en los siguientes casos:
+
+I.- Cuando así se hubiese pactado expresamente en los documentos en que conste el financiamiento o la obligación;
+
+II.- Cuando el financiamiento o la obligación que sean garantizadas o deban ser pagadas con las participaciones, hayan sido completamente liquidadas.
+
+En los actos que documenten el financiamiento o la obligación a cuya garantía o pago se afecten los derechos sobre participaciones, se hará referencia de los requisitos y procedimientos para dejar sin efectos la afectación, total o parcialmente, de las participaciones.
+
+Esta disposición deberá ser citada en los instrumentos en que conste el financiamiento o la obligación y transcribirse en la notificación que de la afectación de participaciones se haga a la Secretaría de Hacienda y Crédito Público.
 
 ###### ARTICULO 18.
 
@@ -273,25 +305,33 @@ Los integrantes de los Ayuntamientos correspondientes, serán responsables perso
 
 El crédito público que contraten las entidades mencionadas en el artículo 2o., así como las garantías que otorguen, deberán ceñirse a las autorizaciones de deuda pública efectuadas por el Congreso del Estado, y aplicarse precisamente al fin establecido en el decreto expedido para tal efecto. Cualquier modificación al destino o monto del crédito autorizado así como a las demás especificaciones fijadas por el Congreso del Estado, requerirán la autorización de éste.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2005)</small>
+
 ###### ARTICULO 25.
 
-El Estado y los Municipios, por conducto de las dependencias encargadas de sus finanzas, podrán colocar directamente en los mercados nacionales de capitales los títulos de deuda pública que emitan; o en forma indirecta, por medio de consorcios o agentes financieros, conforme a las leyes respectivas.
+El Estado y los municipios, por conducto de las dependencias encargadas de sus finanzas, podrán colocar directamente en los mercados nacionales de capitales los títulos de deuda pública que emitan; o en forma indirecta, por medio de fideicomisos u otros mecanismos permitidos por las leyes respectivas.
 
 ###### ARTICULO 26.
 
 Los títulos a que se refiere el artículo anterior podrán ser rescatados directamente por medio de las dependencias señaladas o, en forma indirecta, por conducto de las instituciones citadas. Todo ello conforme a la Ley que rija la materia.
 
-Tanto para la colocación como el rescate al que se refieren los dos artículos anteriores, podrá establecerse el pago de una comisión.
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2005)</small>
+
+Tanto para la estructuración, para la colocación, como para el rescate al que se refieren los dos artículos anteriores, así como para los demás servicios financieros que se requieran, podrá establecerse el pago de una comisión, sin perjuicio de los gastos inherentes a las operaciones financieras o bursátiles que se realicen.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 27.
 
-El precio del rescate de un título se obtendrá de sumar al capital los reajustes e intereses devengados, por lo que su valor podrá ser igual, inferior o superior, según las condiciones que predominen en el mercado financiero.
+El precio del rescate de un título se obtendrá conforme a los procedimientos financieros que rijan en el mercado, por lo que su valor podrá ser igual, inferior o superior al valor nominal del título respectivo, según las condiciones que predominen en el mercado financiero.
 
 ###### ARTICULO 28.
 
 El Estado y los municipios, en cumplimiento de lo previsto por la fracción VIII del artículo 117 de la Constitución Política de los Estados Unidos Mexicanos, solo podrán emitir bonos u otros títulos de deuda pagaderos en moneda nacional y dentro del territorio de la República, previa autorización del Congreso.
 
-Tanto en el acta de emisión como en los títulos, deberán citarse los datos fundamentales de la autorización, así como la prohibición de su venta a extranjeros, sean éstos gobiernos, particulares, u organismos internacionales. Los documentos no tendrán validez si no se consignan estos datos.
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2005)</small>
+
+Tanto en el acta de emisión y en los prospectos y suplementos, según corresponda, como en los títulos, deberán citarse los datos fundamentales de la autorización, así como la prohibición de su venta a extranjeros, sean estos gobiernos, particulares, u organismos internacionales.
 
 ###### ARTICULO 29.
 
@@ -396,3 +436,13 @@ El presente decreto será remitido al Ejecutivo Estatal para su publicación sim
 ###### ARTICULO SEGUNDO.
 
 El presente decreto entrará en vigor en un plazo de 180 días, contados a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE OCTUBRE DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las operaciones y transacciones financieras celebradas con anterioridad a la entrada en vigor del presente Decreto y que sean materia de las disposiciones que por el mismo se modifican, continuarán rigiéndose por las normas vigentes entonces, hasta su legal finiquito.
