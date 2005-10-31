@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interno-del-comite-de-planeacion-para-el-45902"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-07-10"
-last_updated: "2005-07-10"
+last_updated: "2005-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45902&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 REGLAMENTO INTERNO DEL COMITE DE PLANEACION PARA EL DESARROLLO MUNICIPAL DEL MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE OCTUBRE DE 2005.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el domingo 10 de julio de 2005.
 
@@ -33,7 +33,9 @@ C e r t i f i c o
 
 QUE EL H. IX AYUNTAMIENTO DE LOS CABOS, EN PLENO, TOMÓ EL SIGUIENTE ACUERDO DE CABILDO, EL CUAL FUERA SANCIONADO EN SESION ORDINARIA, CELEBRADA EL DÍA VIERNES VEINTICUATRO (24) DEL MES DE JUNIO DE DOS MIL CINCO (2005) COMO SEGÚN CONSTA EN ACTA REGISTRADA COMO LA NÚMERO SEIS (6) EMITIÓ LA RESOLUCIÓN OFICIAL QUE A LA LETRA DICE:
 
-EN BASE A LA PROPUESTA PRESENTADA BAJO DICTAMEN POR LA COMISIÓN EDILICIA DE REGLAMENTOS, LEGISLACIÓN Y NOMENCLATURAS OFICIALES, Y AL RESULTADO DE LA CONSULTA AL PLENO; QUEDA APROBADO POR UNANIMIDAD EL REGLAMENTO DEL CONSEJO MUNICIPAL CONSULTIVO PARA EL FOMENTO DE LA CULTURA EN EL MUNICIPIO DE LOS CABOS, Y SE EMITE DE LA SIGUIENTE MANERA:
+EN BASE A LA PROPUESTA PRESENTADA BAJO DICTAMEN POR LA COMISIÓN EDILICIA DE REGLAMENTOS, LEGISLACIÓN Y NOMENCLATURAS OFICIALES, Y AL RESULTADO DE LA CONSULTA AL PLENO; QUEDA APROBADO POR UNANIMIDAD EL REGLAMENTO INTERNO DEL COMITE DE PLANEACION PARA EL DESARROLLO MUNICIPAL DEL MUNICIPIO DE LOS CABOS, Y SE EMITE DE LA SIGUIENTE MANERA:
+
+> <small>N. DE E. EL TEXTO PUBLICADO EL 31 DE OCTUBRE DE 2005 ES MODIFICADO EN CUANTO A SU ESTRUCTURA QUEDANDO INTEGRADO DE LA SIGUIENTE FORMA.</small>
 
 REGLAMENTO INTERNO DEL COMITE DE PLANEACION PARA EL DESARROLLO MUNICIPAL DEL MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR.
 
@@ -335,7 +337,7 @@ c) Se asegura que el Tesorero periódicamente haga un corte de caja y que inform
 
 d) Confirmar que haya comprobantes de todos los gastos.
 
-e) Si encuentra alguna irregularidad en los comprobantes, lo informa al Presidente de la Comisión y a (sic) Sindicatura para que se regularice la situación.
+e) Si encuentra alguna irregularidad en los comprobantes, lo informa al Presidente de la Comisión y a Sindicatura (sic) para que se regularice la situación.
 
 10.- Verifica el uso adecuado de los materiales utilizados.
 
@@ -415,7 +417,7 @@ Existen la cantidad de Subcomités como áreas sean necesarias y se estructuran 
 
 Existirán los subcomités que señala el Acuerdo de Creación de COPLADEM así como los demás que acuerde la Asamblea General, en función de las necesidades del municipio y que, producto de la organización social, demanden la atención del Secretario de Actas.
 
-Artículo 20 (SIC).- Funciones de los integrantes
+Artículo 20 (sic).- Funciones de los integrantes
 
 a) El Coordinador: en acuerdo con el Secretario Técnico, convoca a las reuniones del Subcomité Sectorial, y elaboran la agenda a tratar en la sesión y Preside la misma.
 
@@ -523,9 +525,57 @@ C) Funciones de los integrantes
 
 4. Los representantes de las áreas sociales y el Tesorero Municipal fungen como equipo asesor del Consejo y no tienen derecho a voto.
 
-5. El vocal de control y vigilancia es designado por los miembros del Consejo y funge como Desarrollo Sectorial.
+5. El vocal de control y vigilancia es designado por los miembros del Consejo y funge como supervisor del fondo Municipal.
 
-Artículo 24 (sic).- Reglas para la elección de los dos Consejeros
+6. Los Coordinadores Subdelegacionales son Regidores asignados a las diferentes divisiones territoriales del Municipio y trabajan en coordinación con los Secretarios Técnicos y los 2 Ciudadanos electos por los Subcomités Delegacionales, para llevar a cabo las diferentes atribuciones del Consejo de Desarrollo Social.
+
+7. Los Secretarios Técnicos Subdelegacionales son Subdelegados asignados en las diferentes divisiones territoriales del Municipio, y trabajan en coordinación con los Coordinadores y Los 2 Ciudadanos, para llevar a cabo las diferentes atribuciones del Consejo.
+
+8. Los dos Ciudadanos por cada Subcomité son representantes electos democráticamente por los vocales de cada Subcomité y trabajan en coordinación con los Coordinadores y Secretarios Técnicos para llevar a cabo las atribuciones del Consejo de Desarrollo Territorial.
+
+### CAPITULO VI. DEL FUNCIONAMIENTO DE CONSEJO DE DESARROLLO SECTORIAL
+
+###### Artículo 23.
+
+El Consejo de Desarrollo Sectorial es un organismo vinculado al COPLADEM que tiene la función de participar en la formulación, seguimiento y evaluación del Plan Municipal de Desarrollo, opera como un consejo consultivo y participa en las consultas ciudadanas.
+
+A) Integrantes
+
+Esta Integrado por el Presidente del Consejo, los Coordinadores, Secretarios Técnicos, dos ciudadanos electos de cada Subcomité Sectorial, y los representantes estatales y federales que tengan relación con la planeación municipal.
+
+B) Atribuciones
+
+1. Participa en el seguimiento y la evaluación del Plan Municipal de Desarrollo
+
+2. Elabora el Plan de trabajo anual del Consejo
+
+3. Organiza las comisiones necesarias para establecer una división del trabajo por ámbitos que faciliten sus funciones
+
+4. Elabora un programa de reuniones de consulta a las organizaciones sociales y comunidades
+
+5. Elabora y aprueba el reglamento interno del consejo
+
+6. Participa en las consultas ciudadanas
+
+7. Opera como un consejo consultivo
+
+C) Funciones de los integrantes
+
+1. Del Presidente del Consejo de Desarrollo Sectorial, es el Presidente Municipal y su función es la de presidir la reunión.
+
+2. Del Secretario de Actas y Acuerdos, es un funcionario del COPLADEM y su función es levantar el acta de cada reunión, entregar copia de la misma a los miembros del Consejo, tiene voz pero carece de voto.
+
+3. De los representantes de Dependencias Federales y Estatales, fungen como equipo asesor del Consejo de Desarrollo Sectorial y no tienen derecho a voto.
+
+4. De los Coordinadores de cada subcomité, son Regidores asignados a los Subcomités Sectoriales según la comisión que presiden y trabajan en coordinación con los Secretarios Técnicos y los dos ciudadanos electos por los subcomités sectoriales, para llevar a cabo las diferentes atribuciones del Consejo de Desarrollo Sectorial.
+
+5. De los Secretarios Técnicos por Subcomité Sectorial, son Directores nombrados en las diferentes dependencias municipales y trabajan en coordinación con los Coordinadores y los dos ciudadanos, para llevar a cabo las diferentes atribuciones del Consejo de Desarrollo Municipal.
+
+6. De los dos ciudadanos por cada Subcomité Sectorial, son representantes electos democráticamente por los vocales de cada subcomité y trabajan en coordinación con los Coordinadores y Secretarios Técnicos para llevar a cabo las atribuciones del Consejo de Desarrollo Sectorial.
+
+###### Artículo 24.
+
+Reglas para la elección de los dos Consejeros
 
 1. La elección tendrá lugar en la primera sesión que realice cada Subcomité Sectorial.
 
@@ -543,9 +593,7 @@ Artículo 24 (sic).- Reglas para la elección de los dos Consejeros
 
 8. Obtenidos los resultados se firma el acta por el Coordinador, El Secretario Técnico y el Secretario de Actas y Acuerdos.
 
-### CAPITULO VII (SIC). DE LA ELABORACION DE ACTAS
-
-### CAPITULO VIII. DE LOS FOROS DE PLANEACION Y CONSULTA
+### CAPITULO VII. DE LA ELABORACION DE ACTAS
 
 ###### Artículo 25.
 
@@ -572,6 +620,8 @@ Para que tenga validez legal, un Acta de sesión debe contar, al menos, con los 
 Certificación de Actas.
 
 Cuando sea solicitada un acta de sesión de Consejo o Subcomité, toda copia del acta deberá ser certificada por el Secretario de Actas. Los datos para certificar el acta son: el nombre completo del secretario de Actas, la certificación y constancia que es copia fiel del documento que se encuentra en el archivo del COPLADEM y la firma original del secretario de actas.
+
+### CAPITULO VIII. DE LOS FOROS DE PLANEACION Y CONSULTA
 
 ###### Artículo 28.
 
@@ -729,7 +779,7 @@ Para los fines legales correspondientes, se extiende los Veinticuatro (24) días
 
 Doy Fe.
 
-Sufragio Efectivo. No Reelección.
+Sufragio Efectivo. No-Reelección.
 
 El C. Secretario General
 
@@ -752,3 +802,9 @@ LIC. JOSÉ LUIS CELAYA CUEVAS, DIRECTOR MUNICIPAL DE OPERACIÓN DE PROGRAMAS E I
 LIC. SERGIO DANIEL IZQUIERDO Y VIAMONTE, DIRECTOR MUNICIPAL DE ASUNTOS JURÍDICOS, LEG. Y REGLAMENTARIOS.
 
 ARCHIVO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+B.O. 31 DE OCTUBRE DE 2005.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA SUR.
