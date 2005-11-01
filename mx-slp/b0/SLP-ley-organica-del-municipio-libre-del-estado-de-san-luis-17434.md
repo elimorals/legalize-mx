@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2004-12-04"
+last_updated: "2005-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE NOVIEMBRE DE 2005.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -311,11 +311,11 @@ La Ley Electoral del Estado normará el proceso de preparación, desarrollo y ve
 
 ### CAPITULO II. De la Instalación de los Ayuntamientos
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 17.
 
-Los ayuntamientos serán electos para un período de tres años; se instalarán solemne y públicamente el día uno de enero del año posterior a su elección; sus miembros protestarán ante el Ayuntamiento saliente, representado por su Presidente o en su caso, por quien designe el Congreso del Estado.
+Los ayuntamientos serán electos para un período de tres años; se instalarán solemne y públicamente el día uno de octubre del año de su elección; sus miembros protestarán ante el ayuntamiento saliente, representado por su Presidente, o en su caso, por quien designe el Honorable Congreso del Estado.
 
 ###### ARTICULO 18.
 
@@ -879,9 +879,9 @@ XV. Ejercer en materia de lo dispuesto por el artículo 130 de la Constitución 
 
 XVI. Solicitar licencia por escrito y por causa justificada al Ayuntamiento, para ausentarse del Municipio por más de diez días; debiendo formular aviso para ausentarse por un término menor;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2005)</small>
 
-XVII. Rendir ante el Pleno del Ayuntamiento en sesión solemne, durante la primera quincena del mes de diciembre de cada año, un informe por escrito en el que manifieste el estado que guarda la administración pública municipal; y comparecer posteriormente cuando así lo acuerde con el propio Cabildo, a fin de responder a las observaciones que el cuerpo edilicio le formule;
+XVII. Rendir ante el Pleno del Ayuntamiento en sesión solemne, durante la segunda quincena del mes de septiembre de cada año, un informe por escrito en el que manifieste el estado que guarda la administración pública municipal; y comparecer posteriormente cuando así lo acuerde con el propio Cabildo, a fin de responder a las observaciones que el edilicio le formule;
 
 XVIII. Vigilar la conducta oficial de los empleados del Municipio, corrigiendo oportunamente las faltas que observe y haciendo del conocimiento de la autoridad competente aquellas que pudieran ser tipificadas como delito;
 
@@ -1545,7 +1545,9 @@ Los ayuntamientos planearán sus actividades en un Plan Municipal de Desarrollo,
 
 La vigencia del Plan no excederá del período constitucional que le corresponde; este programa debe ser congruente con el Plan Estatal de Desarrollo.
 
-En los meses de febrero y marzo del año en que tomen posesión, los ayuntamientos convocarán a foros de consulta popular y, tomando en consideración sus resultados, propondrán a través del Comité de Planeación del Desarrollo Estatal, los objetivos y prioridades municipales que deban incorporarse al Plan Estatal de Desarrollo. En lo aplicable, los ayuntamientos deberán sujetarse a lo dispuesto por la Ley de Planeación del Estado de San Luis Potosí.
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2005)</small>
+
+Dentro de los dos meses siguientes a su toma de posesión, los ayuntamientos convocarán a foros de consulta popular y, tomando en consideración sus resultados, propondrán a través del Comité de Planeación del Desarrollo Estatal, los objetivos y prioridades municipales que deban incorporarse al Plan Estatal de Desarrollo. En lo aplicable, los ayuntamientos deberán sujetarse a lo dispuesto por la Ley de Planeación del Estado y Municipios de San Luis Potosí.
 
 > <small>(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
@@ -2038,3 +2040,15 @@ CUARTO. Con la entrada en vigor de esta Ley, se modifica la denominación del T�
 Asimismo, se derogan todas las disposiciones que se opongan a lo dispuesto en este Ordenamiento.
 
 QUINTO. Las disposiciones administrativas en uso a la fecha de entrada en vigor de la presente Ley, seguirán teniendo aplicación en lo que no se le opongan.
+
+P.O. 1 DE NOVIEMBRE DE 2005.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los ayuntamientos que se elijan para el periodo 2007-2009, se instalarán el día uno de enero de 2007 y concluirán su encargo el 30 de septiembre de 2009.
+
+TERCERO. Por única vez, en relación con lo dispuesto por el artículo 31 Apartado B) fracción VI de la Ley Orgánica del Municipio Libre del Estado de San Luis Potosí, la formulación de los proyectos de Ley de Ingresos para el Ejercicio Fiscal 2007, deberá realizarse por los ayuntamientos en ejercicio, oyendo la opinión de los ayuntamientos electos para el periodo que comienza el uno de enero de 2007.
+
+Del mismo modo, respecto del presupuesto de egresos de cada uno de los ayuntamientos para el ejercicio fiscal 2007, éste deberá ser elaborado por el ayuntamiento en funciones con la opinión del electo, y será aprobado por el primero de los mencionados, en términos del artículo 129 de la Ley Orgánica del Municipio Libre del Estado de San Luis Potosí; sin perjuicio de que el ayuntamiento que inicie el uno de enero de 2007, lo modifique, si así lo estima necesario, durante los primeros quince días de ese mismo año.
+
+CUARTO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
