@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-judicial-del-estado-de-baja-12599"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-04"
-last_updated: "2003-11-14"
+last_updated: "2005-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE NOVIEMBRE DE 2005.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 4 de octubre de 1995.
 
@@ -1495,11 +1495,31 @@ El Consejo de la Judicatura del Estado velará, en todo momento, por la autonom�
 
 El Consejo de la Judicatura del Estado, se integrará por siete Consejeros, en los términos del artículo 65 de la Constitución Política del Estado y funcionará en Pleno o a través de Comisiones, además contará con un Secretario General.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE NOVIEMBRE DE 2005)</small>
+
+En los términos del segundo y tercer párrafo del artículo 65 de la Constitución Política del Estado, el Consejo de la Judicatura entrará en funciones el día 1 de diciembre del año en que corresponda realizar las designaciones de nuevos consejeros.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE NOVIEMBRE DE 2005)</small>
+
+Para efecto de lo anterior, el Congreso y el Pleno del Tribunal Superior de Justicia, efectuarán las designaciones, a más tardar el 30 de noviembre del año que corresponda.
+
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 157.
 
 El Consejo de la Judicatura del Estado, se integrará por siete Consejeros, en los términos del artículo 65 de la Constitución Política del Estado, y funcionará en Pleno o a través de Comisiones en forma permanente, en los términos de su calendario anual de actividades colegiadas que en Pleno aprobará a propuesta del Presidente o de sus Consejeros.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE NOVIEMBRE DE 2005)</small>
+
+Para insacular al Magistrado del Tribunal Superior de Justicia y al Juez a que hace mención el segundo párrafo del artículo 65 de la Constitución Política del Estado, se deberá agotar el siguiente procedimiento:
+
+I.- El Pleno del Tribunal Superior de Justicia, deberá emitir convocatoria en la cual, se invite a los Magistrados y Jueces que tengan interés en participar como Consejeros de la Judicatura. Esta convocatoria deberá ser publicada en el Boletín Judicial, órgano de difusión del Poder Judicial del Estado;
+
+II.- En la citada convocatoria se establecerán cinco días naturales, para que los Magistrados y Jueces, manifiesten su interés de formar parte del Consejo, mediante carta de intención;
+
+III.- Una vez agotada la etapa contenida en la fracción anterior, los Magistrados y Jueces, tendrán diez días naturales para presentar al Pleno del Tribunal Superior de Justicia, la documentación que acredite que se cumplen con los requisitos, que para ser Consejero se señalan en los artículos 60 y 65 párrafo segundo de la Constitución Política del Estado; y
+
+IV.- El Pleno del Tribunal Superior de Justicia, dentro de los cinco días naturales siguientes a la conclusión de la etapa prevista en la fracción anterior, procederá a analizar la documentación de los aspirantes a Consejeros, notificando en su caso, la falta de algún requisito a los interesados. Una vez agotado lo anterior, procederá a efectuar en sesión pública, la insaculación de los nombres de entre aquellos que hubiesen reunido los requisitos.
 
 ###### ARTICULO 158.
 
@@ -1519,11 +1539,11 @@ El Consejo de la Judicatura del Estado, sesionará de acuerdo al calendario anua
 
 Se podrá sesionar fuera de calendario, para tratar y resolver únicamente aquellos asuntos de carácter urgente, previa convocatoria del Presidente por iniciativa propia o de los Consejeros.
 
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2005)</small>
 
-###### ARTICULO 161.
+###### ARTÍCULO 161.
 
-El Pleno se integrará con los siete Consejeros; pero bastará la presencia de seis de ellos para sesionar.
+El Pleno se integrará con siete Consejeros; bastará la presencia de la mayoría de sus integrantes para sesionar.
 
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
 
@@ -1577,7 +1597,7 @@ V.- Determinar el número y, en su caso, especialización por materia de las Sal
 
 VI.- Determinar el número y, límites territoriales y, en su caso, especialización por materia, de los juzgados de primera instancia y de paz.
 
-VII.- Hacer el nombramiento de los magistrados y jueces, consejeros provenientes del Poder Judicial, y resolver sobre la ratificación, adscripción y remoción.
+VII.- (DEROGADA, P.O. 1 DE NOVIEMBRE DE 2005)
 
 VIII.- Acordar las renuncias que presenten los magistrados, jueces, secretarios, actuarios y demás personal del Poder Judicial del Estado.
 
@@ -3176,3 +3196,11 @@ Las presentes reformas y adiciones entrarán en vigor el día de su publicación
 ###### ARTÍCULO SEGUNDO.
 
 El Tribunal de Justicia Electoral del Poder Judicial del Estado, tendrá un plazo de 15 días, contados a partir de la entrada en vigor de la presente reforma, a efecto de que realice las adecuaciones correspondientes, a su reglamento interior.
+
+P.O. 1 DE NOVIEMBRE DE 2005.
+
+PRIMERO.- La presente reforma entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Hasta en tanto, se realicen las designaciones de los Consejeros de la Judicatura que deban efectuar el Congreso del Estado y el Pleno del Tribunal Superior de Justicia, bastará con la presencia de dos Consejeros para sesionar.
+
+TERCERO.- El Pleno del Tribunal Superior de Justicia deberá publicar la convocatoria a que se refiere la fracción I del artículo 157 objeto de las presentes reformas, dentro de los tres días siguientes a la entrada en vigor del presente decreto.
