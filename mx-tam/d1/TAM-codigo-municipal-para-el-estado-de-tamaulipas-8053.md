@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2005-10-19"
+last_updated: "2005-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE NOVIEMBRE DE 2005.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -769,7 +769,11 @@ IV.- De Asentamientos Humanos y Obras Públicas.
 
 V.- De Servicios Públicos Municipales.
 
-VI.- Las demás que determine el Ayuntamiento de acuerdo con las necesidades del Municipio.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE NOVIEMBRE DE 2005)</small>
+
+VI.- De Equidad de Género; y,
+
+VII.- Las demás que determine el Ayuntamiento de acuerdo con las necesidades del Municipio.
 
 Para tal efecto, podrán encomendarse dos o más comisiones a cada munícipe.
 
@@ -3391,7 +3395,7 @@ Artículo Segundo.- Los Ayuntamientos que hubieren realizado disposiciones en ma
 
 P.O. 2 DE DICIEMBRE DE 2002.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NO. 99, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 55, FRACCIÓN XIX, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 99, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 55, FRACCIÓN XIX, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -3452,3 +3456,9 @@ P.O. 19 DE OCTUBRE DE 2005.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE NOVIEMBRE DE 2005.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
