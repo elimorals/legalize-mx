@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-procuraduria-general-de-justicia-del-40264"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-07-30"
-last_updated: "2004-07-30"
+last_updated: "2005-11-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de julio de 2004.
 
@@ -1403,6 +1403,10 @@ El Visitador General, los Directores Generales, los Directores y los Secretarios
 
 Para ser nombrado Visitador General, Director de Agentes del Ministerio Público Auxiliares del Procurador, Director General de Averiguaciones Previas, Director de Agentes del Ministerio Público en Delitos Patrimoniales, Director de Agentes del Ministerio Público de Protección a la Familia y Delitos en General, Director de Agentes del Ministerio Público en Asuntos Viales, Director General de Control de Procesos y Amparos, Director de Amparos, Director de Agentes del Ministerio Público Adscritos a Juzgados, Secretario Particular y Secretario Técnico deberán reunirse los mismos requisitos que para ser Agente del Ministerio Público.
 
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2005)</small>
+
+Para ser nombrado Director de Criminalística y Servicios Periciales se deberá contar con la Licenciatura en Criminología, o profesión afín, o bien tener amplia experiencia en el ramo.
+
 ###### Artículo 60.
 
 El personal restante de la Procuraduría será nombrado y removido por el Procurador o por quien éste designe, de acuerdo con las normas legalmente aplicables y de manera coordinada con las instancias competentes del Gobierno del Estado.
@@ -1870,3 +1874,9 @@ NAPOLEÓN CANTÚ CERNA
 EL C. PROCURADOR GENERAL DE JUSTICIA
 
 LUIS CARLOS TREVIÑO BERCHELMANN
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 2 DE NOVIEMBRE DE 2005.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
