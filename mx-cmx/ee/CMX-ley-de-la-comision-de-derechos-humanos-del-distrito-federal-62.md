@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-la-comision-de-derechos-humanos-del-distrito-federal-62"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-22"
-last_updated: "2005-10-28"
+last_updated: "2005-11-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1993-06-21"
 
 LEY DE LA COMISION DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE NOVIEMBRE DE 2005.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes el 22 de junio de 1993.
 
@@ -130,7 +130,7 @@ IV.- Gozar de buena reputación, probidad, capacidad y reconocido prestigio púb
 
 > <small>(ADICIONADA, G.O. 14 DE ENERO DE 2003)</small>
 
-V.- No haber desempeñado cargo alguno en los órganos de impartición de justicia o en la administración pública local o federal durante los últimos dos años anteriores al día de su designación;
+V.- No haber desempeñado cargo alguno en los órganos de impartición de justicia o en la administración pública local o federal durante los últimos dos años anteriores al día de su designación; (sic)
 
 (REFORMADO, G.O. 14 DE ENERO DE 2003) (F. DE E., G.O. 10 DE JUNIO DE 2003)
 
@@ -602,7 +602,7 @@ Cuando de las recomendaciones emitidas por la Comisión de Derechos Humanos del 
 
 > <small>(REFORMADO, G.O. 28 DE OCTUBRE DE 2005)</small>
 
-###### ARTICULO 51.
+###### Artículo 51.
 
 La Comisión de Derechos Humanos del Distrito Federal, garantizará la confidencialidad de las investigaciones, de las quejas o denuncias, así como de la información, datos y pruebas que obren en su poder, mientras dichas investigaciones se efectúan, por lo cual y sólo de manera excepcional y justificada, decidirá si proporciona o no a autoridades o personas distintas a los denunciantes o quejosos dichos testimonios o evidencias que le sean solicitados.
 
@@ -711,6 +711,18 @@ ARTICULO 65 BIS.- La Asamblea Legislativa del Distrito Federal a través de su C
 I. La autoridad responsable no acepte total o parcialmente una Recomendación o si es omisa después de haber transcurrido el término que señala este ordenamiento para informar si acepta o no dicha Recomendación;
 
 II. La autoridad responsable no cumpla total o parcialmente con la Recomendación previamente aceptada en el plazo que señala la presente Ley.
+
+> <small>(ADICIONADO, G.O. 2 DE NOVIEMBRE DE 2005)</small>
+
+La Comisión de Derechos Humanos del Distrito Federal, por conducto de la o el Presidente, estará presente en la reunión de trabajo de la Comisión de Derechos Humanos de la Asamblea Legislativa del Distrito Federal en la que se desahogue la comparecencia del servidor público, y podrá intervenir en ella únicamente para argumentar por una sola vez y sin réplica sobre la no aceptación o incumplimiento de la Recomendación. Su intervención será en los términos dispuestos por la normatividad que rige a la Asamblea Legislativa del Distrito Federal en cuanto a la agenda, las reglas y el formato de la reunión de trabajo que formule la Comisión de Derechos Humanos de la Asamblea Legislativa del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 2 DE NOVIEMBRE DE 2005)</small>
+
+Las o los peticionarios o agraviados que hayan dado origen a la investigación de oficio o sean parte en la queja que haya motivado la Recomendación podrán observar sin derecho a voz el desarrollo de la reunión de trabajo para la comparecencia del servidor público.
+
+> <small>(ADICIONADO, G.O. 2 DE NOVIEMBRE DE 2005)</small>
+
+La Comisión de Derechos Humanos del Distrito Federal deberá enterar de la reunión de trabajo para la comparecencia a las o los peticionarios o agraviados, a efecto de que si ellos lo estiman oportuno puedan estar presentes en la misma.
 
 ### CAPITULO IX. DE LA PROMOCION Y DIFUSION DE LOS DERECHOS HUMANOS
 
@@ -883,3 +895,9 @@ PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicac
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 
 TERCERO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 2 DE NOVIEMBRE DE 2005.
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
