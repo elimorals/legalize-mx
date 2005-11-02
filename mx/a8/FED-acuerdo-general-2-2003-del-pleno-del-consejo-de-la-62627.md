@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-2-2003-del-pleno-del-consejo-de-la-62627"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-02-04"
-last_updated: "2003-02-04"
+last_updated: "2005-11-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62627&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2003-01-29"
 
 ACUERDO GENERAL 2/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL ARTICULO 69 DEL DIVERSO ACUERDO GENERAL 48/1998, QUE REGULA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CUERPO COLEGIADO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL ACUERDO GENERAL 44/2005, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 2 DE NOVIEMBRE DE 2005, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 4 de febrero de 2003.
 
@@ -60,3 +62,13 @@ PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMENEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 2/2003, del Pleno del Consejo de la Judicatura Federal, Que Reforma el Artículo 69 del Diverso Acuerdo General 48/1998, Que Regula la Organización y Funcionamiento del Propio Cuerpo Colegiado fue aprobado por el Pleno, en sesión de veintinueve de enero de dos mil tres, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Jaime Manuel Marroquín Zaleta, Miguel A. Quirós Pérez y Sergio Armando Valls Hernández.- México, Distrito Federal, a veintinueve de enero de dos mil tres.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 2 DE NOVIEMBRE DE 2005.
+
+PRIMERO.- Se abroga el Acuerdo General 2/2003, del Pleno del Consejo de la Judicatura Federal, que Reforma el Artículo 69 del diverso Acuerdo General 48/1998, que Regula la Organización y Funcionamiento del propio Cuerpo Colegiado.
+
+SEGUNDO.- El presente acuerdo entrará en vigor el día de su aprobación.
+
+TERCERO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
