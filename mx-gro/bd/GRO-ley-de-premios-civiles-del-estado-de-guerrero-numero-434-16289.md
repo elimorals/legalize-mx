@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-premios-civiles-del-estado-de-guerrero-numero-434-16289"
 country: "mx"
 rank: "ley"
 publication_date: "1999-10-12"
-last_updated: "1999-10-12"
+last_updated: "2005-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16289&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE PREMIOS CIVILES DEL ESTADO DE GUERRERO NUMERO 434
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE NOVIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 12 de octubre 1999.
 
@@ -121,9 +121,17 @@ XI.- Premio Estatal al Mérito en Economía Política "Plácido García Reynoso"
 
 XII.- Premio Estatal al Mérito Deportivo "Apolonio Castillo";
 
-XIII.- Premio Estatal al Mérito Juvenil "José Azueta"; y
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2005)</small>
 
-XIV.- Premio Estatal al Mérito de la Mujer "Antonia Nava de Catalán".
+XIII.- Premio Estatal al Mérito Juvenil "José Azueta";
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2005)</small>
+
+XIV.- Premio Estatal al Mérito de la Mujer "Antonia Nava de Catalán"; y
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2005)</small>
+
+XV.- Premio Estatal al Mérito Ecológico “Wilfredo Alvarez Sotelo”.
 
 La misma persona puede ser beneficiaria de dos o más premios distintos; pero solo una vez del premio correspondiente a uno de los campos de los conceptos instituidos, o a un solo concepto si este no se divide en campos.
 
@@ -407,6 +415,16 @@ Las propuestas de candidatos para dicho premio deberán provenir preferentemente
 
 Este premio serán entregado a mujeres ejemplares, cuya conducta, dedicación a la familia, al estudio, al trabajo a la comunidad cause el reconocimiento y respeto entre la sociedad guerrerense.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 4 DE NOVIEMBRE DE 2005)</small>
+
+### CAPITULO XX. PREMIO ESTATAL AL MERITO ECOLOGICO "WILFRIDO ALVAREZ SOTELO"
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2005)</small>
+
+###### ARTICULO 53.
+
+Este premio se otorgará a quienes con su destacado trabajo, empeño y dedicación realicen o hayan realizado acciones notables a favor de la defensa, conservación, protección y restauración del medio ambiente, así como el uso sustentable de los recursos naturales del Estado.
+
 T R A N S I T O R I O S
 
 ###### ARTICULO PRIMERO.
@@ -450,3 +468,11 @@ El Secretario General de Gobierno.
 C. FLORENCIO SALAZAR ADAME.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE NOVIEMBRE DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Comuníquese el presente Decreto al Gobernador del Estado para los efectos legales conducentes.
