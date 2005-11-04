@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-coordinacion-del-programa-para-41377"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-12"
-last_updated: "2004-10-12"
+last_updated: "2005-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41377&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,17 @@ state: "NLE"
 ---
 # REGLAMENTO INTERIOR DE LA COORDINACION DEL PROGRAMA PARA INTEGRACION DEL DESARROLLO REGIONAL DEL NORESTE Y SU VINCULACION CON TEXAS
 
-REGLAMENTO INTERIOR DE LA COORDINACION DEL PROGRAMA PARA INTEGRACION DEL DESARROLLO REGIONAL DEL NORESTE Y SU VINCULACION CON TEXAS
+REGLAMENTO INTERIOR DE LA COORDINACIÓN DEL PROGRAMA PARA INTEGRACIÓN DEL DESARROLLO REGIONAL DEL NORESTE Y SU VINCULACIÓN CON TEXAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2005.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el martes 12 de octubre de 2004.
 
 JOSÉ NATIVIDAD GONZÁLEZ PARÁS Gobernador Constitucional del Estado de Nuevo León, en ejercicio de las facultades que al Ejecutivo a mi cargo le confieren los artículos 81, 85 fracción X de la Constitución Política del Estado de Nuevo León; 2, 3, 4, 5, 8, 9, 17, 18 fracción I y demás relativos de la Ley Orgánica de la Administración Pública para el Estado de Nuevo León, así como artículo séptimo del Acuerdo del Ejecutivo Estatal publicado en el Periódico Oficial del Estado con fecha de 5 de Marzo de 2004, a todos los habitantes hago saber:
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 TERCERO.- Que para el ejercicio de sus atribuciones, el Coordinador Ejecutivo debe contar con la estructura orgánica que determine el Titular del Poder Ejecutivo del Estado en un reglamento interior, mismo que por este acto se expide.
 
@@ -91,6 +93,10 @@ II. Dirección de Negociaciones Interinstitucionales e Intergubernamentales, y
 
 III. Dirección de Proyectos Estratégicos y Proyectos Especiales.
 
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2005)</small>
+
+IV. Dirección General de la Casa de Nuevo León.
+
 ###### ARTÍCULO 8.
 
 Las unidades administrativas de la Coordinación ejercerán sus atribuciones de acuerdo con las políticas, estrategias y prioridades que para el logro de sus objetivos y metas establezca el Gobernador del Estado, por conducto del Coordinador Ejecutivo.
@@ -149,6 +155,18 @@ II. Asistir en la promoción de programas y proyectos para el desarrollo de infr
 
 III. Participar en el análisis y viabilidad de los proyectos de la Coordinación.
 
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2005)</small>
+
+ARTÍCULO 13 BIS.- Además de las atribuciones previstas en el artículo 10, al Director General de la Casa de Nuevo León le corresponde:
+
+I. Formular y proponer al Coordinador Ejecutivo los planes y acciones que se requieran para la representación promocional del Estado de Nuevo León en los Estados Unidos de América, en materia económica, turística, cultural, de ciencia y tecnología, infraestructura y cualquier otro tema relacionado con el desarrollo regional, orientados al cumplimiento del Programa.
+
+II. Coordinar, presidir, auxiliar y conducir directa o en conjunto con las dependencias del Gobierno central, dependencias auxiliares y paraestatales del Estado de Nuevo León, y con organismos e instituciones privadas del Estado, misiones, eventos y cualquier tipo de actividad tendiente al cumplimiento de los objetivos del Programa.
+
+III. Promover, dirigir, administrar, operar y supervisar la participación de las personas morales privadas o públicas que operen en el Estado de Texas de los Estados Unidos de América, que cuenten con el reconocimiento del citado Programa a través de su Coordinador Ejecutivo, con el fin específico de dar cumplimiento a los objetivos del Programa y promocionar al Estado de Nuevo León.
+
+Las atribuciones antes descritas se ejercerán con respeto irrestricto a la competencia que la ley confiere a otras dependencias y entidades de la Administración Pública del Estado de Nuevo León, y conforme a la legislación aplicable en aquel país.
+
 ### CAPÍTULO IV. DE LA SUPLENCIA DE LOS TITULARES
 
 ###### ARTÍCULO 14.
@@ -180,3 +198,13 @@ NAPOLEÓN CANTÚ CERNA
 EL C. COORDINADOR EJECUTIVO DE LA COORDINACIÓN DEL PROGRAMA PARA INTEGRACIÓN DEL DESARROLLO REGIONAL DEL NORESTE Y SU VINCULACIÓN CON TEXAS
 
 ROMEO FLORES CABALLERO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE NOVIEMBRE DE 2005.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL PUNTO DE LAS “REFORMAS AL REGLAMENTO INTERIOR DE LA COORDINACIÓN DEL PROGRAMA PARA INTEGRACIÓN DEL DESARROLLO REGIONAL DEL NORESTE Y SU VINCULACIÓN CON TEXAS”, QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+###### ARTÍCULO TERCERO.
+
+Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
