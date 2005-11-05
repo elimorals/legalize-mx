@@ -4,7 +4,7 @@ identifier: "ZAC-ley-estatal-para-la-integracion-al-desarrollo-social-de-las-133
 country: "mx"
 rank: "ley"
 publication_date: "1996-06-22"
-last_updated: "1999-07-10"
+last_updated: "2005-11-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13309&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "ZAC"
 
 LEY ESTATAL PARA LA INTEGRACION AL DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 1999.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL PARA LA INTEGRACION AL DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE ZACATECAS, PUBLICADA EN EL SUPLEMENTO DEL P.O. DE 5 DE NOVIEMBRE DE 2005, EL PRESENTE ORDENAMIENTO FUE ABROGADO.</small>
 
-Ley publicada en el Periódico Oficial el Sábado 22 de Junio de 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 LICENCIADO ARTURO ROMO GUTIERREZ, Gobernador Constitucional del Estado Libre y Soberano de Zacatecas, a sus habitantes hago saber:
 
@@ -684,3 +684,15 @@ ESAU HERNANDEZ HERRERA
 P.O. 10 DE JULIO DE 1999.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 5 DE NOVIEMBRE DE 2005.
+
+Primero.- La presente Ley, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se abroga la Ley Estatal para la Integración al Desarrollo Social de las Personas con Discapacidad para el Estado de Zacatecas, expedida mediante decreto número 59, publicada en el Periódico Oficial del Gobierno del Estado de Zacatecas, el 29 de Mayo de 1996; y, se derogan todas las disposiciones que se opongan a la presente Ley.
+
+Se derogan además, todas aquellas disposiciones que contravengan el presente instrumento.
+
+Tercero.- El Ejecutivo del Estado deberá expedir el Estatuto Orgánico de la Comisión Estatal para la Integración Social de las Personas con Discapacidad, dentro de los 90 días siguientes a la entrada en vigor de esta Ley.
+
+Cuarto.- Las instalaciones, edificios públicos, calles, parques y jardines existentes y cuya vida útil sea aún considerable, serán adaptados de manera paulatina, de conformidad con los programas operativos de obra pública.
