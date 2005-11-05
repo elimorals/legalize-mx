@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-del-instituto-de-estudios-del-17519"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-08-10"
-last_updated: "2000-08-10"
+last_updated: "2005-11-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2005.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado Jalisco, el jueves 10 de agosto de 2000.
 
@@ -65,13 +65,19 @@ Son atribuciones del Instituto:
 
 I. Efectuar investigaciones integrales sobre los ámbitos políticos, jurídicos, geográficos, culturales y económicos correspondientes a los municipios, las entidades federativas y la federación;
 
-II. Estudiar los principios, derechos y obligaciones que conforme el orden constitucional corresponde a las tres funciones de gobierno;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2005)</small>
 
-III. Proponer soluciones a los problemas que inciden en la relación armónica de los niveles de la administración pública;
+II. Estudiar los fundamentos, principios y obligaciones correspondientes a los tres niveles de gobierno;
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2005)</small>
+
+III. Elaborar propuestas que incidan en la relación armónica de los niveles de la Administración Pública;
 
 IV. Proporcionar asesoría a las entidades públicas sobre las áreas que comprende el Instituto;
 
-V. Organizar foros y actos diversos con el fin de propiciar se delibere sobre los problemas y formulen soluciones acerca del Federalismo y la Democracia;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2005)</small>
+
+V. Organizar foros y actos diversos con el fin de promover el estudio del federalismo y la democracia;
 
 VI. Promover la capacitación para coadyuvar en todo lo concerniente al desarrollo municipal;
 
@@ -85,6 +91,8 @@ X. Establecer relaciones con organismos e instituciones similares;
 
 XI. Proponer a los ayuntamientos, al gobierno del estado y demás organismos de la administración pública, las políticas y acciones que promuevan en el ámbito federal el desarrollo de Jalisco, considerando tanto el nivel estatal como el nivel municipal;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 5 DE NOVIEMBRE DE 2005)</small>
+
 XII. Establecer y administrar una librería especializada en las funciones del Instituto, así como destinar las áreas necesarias para la biblioteca y consulta del público en general, conforme las posibilidades presupuestarias;
 
 XIII. Administrar los recursos que, como organismo público descentralizado, le sean asignados, así como las aportaciones que reciba de otras personas físicas o morales;
@@ -93,9 +101,11 @@ XIV. Difundir, divulgar e informar a través de cualquier medio a su alcance tod
 
 XV. Las demás que otras disposiciones le confieran y las que, conforme a la ley, le señale el Consejo General en sus acuerdos o a través de la modificación de este reglamento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2005)</small>
+
 ###### Artículo 3.
 
-El Instituto contará con la siguiente organización administrativa y servidores públicos:
+El Instituto contará con la siguiente organización tanto de dirección, como administrativa y de servidores públicos:
 
 I. El Consejo General;
 
@@ -145,29 +155,45 @@ VI. Los anexos que exijan los asuntos a tratar.
 
 Ordinariamente se mandará citar a los Consejeros Generales con siete días hábiles de anticipación, como mínimo, pero en los casos no ordinarios el que cite debe prever el tiempo requerido para lograr el Quórum reglamentario.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2005)</small>
+
 ###### Artículo 8.
 
-Los consejeros generales serán representantes directos de las Instituciones que integran el Consejo, y su participación en los trabajos del Instituto no se considerarán como producto de relaciones laborales, por lo que no percibirán remuneración alguna de acuerdo a su carácter honorífico.
+Los consejeros generales serán representantes directos de las instituciones que integran el Consejo, y su participación en los trabajos del Instituto no se considerarán como producto de relaciones laborales, por lo que no percibirán remuneración alguna.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2005)</small>
 
 ###### Artículo 9.
 
-Los organismos sociales y las instituciones que formen parte del Consejo General, acreditarán ante éste, preferentemente a quienes muestren afinidad con los objetivos del Instituto.
+Los ciudadanos distinguidos, los organismos sociales, y las instituciones que formen parte del Consejo General, se acreditarán ante la Dirección General para entrar en funciones, salvo cuando directamente el Consejo General los haya aprobado.
 
 ###### Artículo 10.
 
 Los Consejeros Generales serán reconocidos cuando se les acredite con ese fin por la Institución u organismo correspondiente ante la Dirección General del Instituto, lo que deberá comunicarse a los interesados.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2005)</small>
+
 ###### Artículo 11.
 
-Los Consejeros Honorarios serán invitados como tales de entre aquellos ciudadanos que se distingan en la promoción del desarrollo del Estado, de los municipios, y del equilibrio entre los tres niveles de gobierno y sus respectivos poderes; tendrán voz y derecho a participar en los trabajos del Consejo General y de las comisiones que se instituyan, pero sin voto.
+Los Consejeros honoríficos serán invitados como tales, de entre aquellos ciudadanos que se distingan en la promoción del desarrollo del Estado, de los municipios y del equilibrio entre los tres niveles de gobierno. Tendrán voz y derecho a participar en los trabajos del Consejo General y de las comisiones que se instituyan, pero sin voto.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2005)</small>
 
 ###### Artículo 12.
 
-La duración del carácter de Consejero General terminará cuando la institución u organismo miembro sustituya a su representante mediante comunicado oficial. Los Consejeros Honoríficos dejarán de ser considerados con tal carácter cuando renuncien o el Consejo General les revoque el nombramiento por causa justificada.
+La duración del carácter del Consejero General terminará por muerte, incapacidad, renuncia o cuando la institución u organismo miembro, sustituya a su representante mediante comunicado oficial.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2005)</small>
+
+###### Artículo 12 Bis.
+
+Los consejeros honoríficos dejarán de serlo cuando fallezcan, renuncien, o el Consejo General les revoque el nombramiento por causa justificada.
 
 ###### Artículo 13.
 
 Las facultades del Presidente del Consejo General son:
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 5 DE NOVIEMBRE DE 2005)</small>
 
 l. Respetar y ejecutar a través del Director General los acuerdos y criterios emanados del Consejo General;
 
@@ -179,15 +205,23 @@ IV. Vigilar el correcto funcionamiento del Consejo General de conformidad con lo
 
 V. La representación oficial del Consejo General.
 
-En el caso de ausencia del Presidente del Consejo General lo sustituirá el Director General del Instituto.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2005)</small>
+
+En caso de ausencia del Presidente del Consejo General en las sesiones, lo sustituirá el Director General del Instituto, con las facultades que establece el presente artículo; (sic)
 
 ###### Artículo 14.
 
 De cada una de las sesiones ordinarias o extraordinarias se levantará una acta en la que se asiente un resumen de las deliberaciones y donde se transcriban los acuerdos que hayan sido aprobados.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2005)</small>
+
 ###### Artículo 15.
 
-El quórum reglamentario exigirá la presencia de la mitad más uno de los consejeros generales, por lo menos, excepto en el caso de sesión cuando se trate de la reelección o remoción del Director General o del Secretario General, en la cual se requieren las dos terceras partes del total de consejeros acreditados.
+El quórum reglamentario exigirá la presencia de más de la mitad de los Consejeros Generales por lo menos, excepto en el caso de sesión cuando se trate del nombramiento, de la reelección o remoción del Director General o del Secretario General, en la cual se requerirán las dos terceras partes del total de Consejeros acreditados. Si no se integra el quórum requerido, se tendrá una espera de treinta minutos y entonces la sesión se llevará a cabo con los Consejeros Generales presentes, siempre que así se haya previsto en la convocatoria.
+
+Cuando por ausencia del Presidente Honorario del Consejo General, lo sustituya el Director General del Instituto, a éste a su vez lo sustituirá el Secretario General con voz y voto en la asamblea y por consiguiente el Director Administrativo tomará el lugar del Secretario General, para fines de la realización de dicha asamblea.
+
+Para computar el quórum, no se considerará a las instituciones que hayan renunciado, o no hayan acreditado su representación, o a los Consejeros que estén en igual circunstancia.
 
 ###### Artículo 16.
 
@@ -251,9 +285,13 @@ VII. Las demás que le asigne el Consejo General, y le pida el Director General 
 
 El Director General del Instituto deberá reunir los siguientes requisitos:
 
-I. Ser ciudadano Mexicano en goce de sus derechos marcados por la ley;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2005)</small>
 
-II. Ser mayor de 30 y menor de sesenta y cinco años de edad;
+I. Ser ciudadano Mexicano en goce de sus derechos;
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2005)</small>
+
+II. Ser mayor de 30 años;
 
 III. Tener residencia en la entidad no menor de seis años anteriores a su elección;
 
@@ -261,15 +299,19 @@ IV. Poseer el grado académico mínimo de licenciatura;
 
 V. A criterio del Consejo Consultivo del Instituto haberse distinguido en la promoción del Federalismo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2005)</small>
+
 ###### Artículo 21.
 
-El Director General tendrá, además de las funciones señaladas en el artículo 13 de la Ley que crea el Instituto, las siguientes atribuciones:
+El Director General tendrá, además de las funciones señaladas en el artículo 13 de la ley que crea el Instituto, las siguientes atribuciones:
 
 I. Moderar los trabajos del Consejo General y en ausencia del Presidente del mismo, sustituirlo;
 
 II. De acuerdo al decreto de creación del Instituto suscribir convenios de colaboración con dependencias y entidades de la administración pública Federal, Estatal y Municipal, así como con instituciones sociales y privadas en relación con las funciones del Instituto;
 
-III. Hacer que se observe la Ley de Responsabilidades para los Servidores Públicos del Estado de Jalisco y la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2005)</small>
+
+III. Hacer que se observe dentro del Instituto, la Ley de Responsabilidades para los Servidores Públicos del Estado de Jalisco y la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios;
 
 IV. Proponer, previa aprobación del Consejo Consultivo, a los gobiernos municipales y del estado las políticas en materia económica, cultural, social y jurídica que fortalezcan el sistema federal y el equilibrio de poderes; producto de las investigaciones y estudios que realice el Instituto;
 
@@ -277,9 +319,13 @@ V. Coordinando a los Directores de Área, se abocará a establecer relaciones co
 
 VI. Apoyándose en el Consejo Consultivo, dirigirá la integración y elaboración del programa editorial del Instituto;
 
-VII. Apoyándose en los Directores de Área, promoverá la cultura del Federalismo y el Municipio Libre a través de los medios de comunicación social;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2005)</small>
 
-VIII. Apoyándose en los Directores de Área, difundirá a través de toda clase de publicaciones los productos de las investigaciones que realice el Instituto;
+VII. Con el apoyo de los directores de área se promoverá la cultura del Federalismo y el Municipio Libre, a través de los medios de comunicación;
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2005)</small>
+
+VIII. Difundirá a través de toda clase de publicaciones los productos de las investigaciones que realice el Instituto, auxiliado por los directores de área;
 
 IX. Coordinar y promover los actos especiales, conmemorativos, oficiales, y de cualquier índole que organice el Instituto;
 
@@ -289,7 +335,9 @@ XI. Tomar las medidas y dictar las disposiciones derivadas o conexas a las anter
 
 XII. Autorizar las licencias del Secretario General del Instituto, así como la de todo el personal cuando procedan;
 
-XIII. Ejercer el presupuesto, pudiendo previamente hacerle modificaciones que considere necesarias para la mejor conducción del Instituto
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2005)</small>
+
+XIII. Ejercer el presupuesto, pudiendo previamente hacerle modificaciones que considere necesarias, para la mejor conducción del Instituto, mediante transferencias entre los distintos capítulos de gastos, previa autorización del Consejo Consultivo.
 
 ### Capítulo Quinto. Del Secretario General
 
@@ -329,17 +377,23 @@ I. Atender las necesidades administrativas de las distintas áreas del Instituto
 
 II. Supervisar la adecuada recepción, registro y envío de la correspondencia;
 
-III. Formular y mantener actualizado el inventario de los bienes muebles e inmuebles propiedad del Instituto;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2005)</small>
+
+III. Formular y mantener actualizado el inventario de los bienes muebles e inmuebles propiedad del Instituto, así como sus respectivos resguardos;
 
 IV. controlar los bienes del Instituto por los medios que se juzguen pertinentes y vigilar su buen uso;
 
-V. Denunciar oportunamente ante las autoridades competentes los casos de accidentes, daños, robo, o cualquier otro ilícito cometido en perjuicio del patrimonio a su cargo;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2005)</small>
+
+V. Denunciar oportunamente ante las autoridades competentes los casos de accidentes, daños, robos, o cualquier otro ilícito cometido en perjuicio del patrimonio del Instituto;
 
 VI. Llevar el control administrativo del personal que preste sus servicios en el Instituto y procurar el pago oportuno de sus remuneraciones;
 
 VII. Coordinándose con los Directores de Áreas se abocará a la creación, administración y control de la biblioteca del Instituto;
 
-VIII. Revisar y autorizar las facturas correspondientes de los bienes y servicios proporcionados mediante órdenes de compra y servicio respectivos;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2005)</small>
+
+VIII. Revisar y autorizar las facturas correspondientes de los bienes y servicios proporcionados, mediante órdenes de compra y servicio respectivos, apegándose a la normatividad vigente del Gobierno del Estado de Jalisco;
 
 IX. Organizar los servicios Generales de aprovisionamiento de consumibles, mantenimiento de muebles e inmuebles, intendencia y seguridad del Instituto;
 
@@ -377,7 +431,9 @@ IX. Cada Director de Área habrá de captar, analizar y procesar la información
 
 X. En el Área que le corresponda, cada Director se orientará a realizar estudios que analicen las experiencias gubernamentales que obstaculicen o promuevan el federalismo, con casos prácticos de la administración pública de los tres niveles de gobierno;
 
-XI. Coordinados por el Director General, cada Director de Área, se abocará a coparticipar en la creación y organización de un acervo especializado, sobre temas relacionados con los rubros que estudia el Instituto;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2005)</small>
+
+XI. Coordinados por el Director General, cada Director de Área, se abocará a coparticipar en la creación de un acervo bibliográfico especializado, sobre temas relacionados con los rubros que estudia el Instituto;
 
 XII. Coordinándose con el Director Administrativo, cada Director de Área llevará a cabo la organización y acopio del sistema computarizado de información especializada; en cuanto a su área de investigación respectiva;
 
@@ -552,3 +608,11 @@ Tercero. Este Reglamento, una vez aprobado, se publicará en el periódico ofici
 EL LIC. JUAN SOLORZANO ANGUIANO, SECRETARIO GENERAL DEL INSTITUTO DE ESTUDIOS DEL FEDERALISMO "Prisciliano Sánchez", CERTIFICA QUE LAS 24 FOTOCOPIAS FUERON COTEJADAS Y CONCUERDAN FIELMENTE CON EL ORIGINAL DEL REGLAMENTO INTERIOR DE ESTE INSTITUTO.
 
 LIC. JUAN SOLORZANO ANGUIANO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 5 DE NOVIEMBRE DE 2005.
+
+Primero. Hasta en tanto se nombran los investigadores del Instituto, el Director General podrá designar a los Directores de Área.
+
+Segundo. El presente reglamento entrará en vigor al siguiente día de su publicación en el periódico oficial "El Estado de Jalisco".
