@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2004-12-23"
+last_updated: "2005-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 2005.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -687,10 +687,6 @@ A efecto de garantizar la libre expresión de las corrientes ideológicas, repre
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-SECCION E.- DE LA COMISION PERMANENTE
-
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1993)</small>
-
 ## TITULO TERCERO
 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
@@ -757,11 +753,11 @@ SECCION A.- DE LA ORGANIZACION DEL CONGRESO
 
 Ninguna iniciativa que sea desechada por el Congreso podrá ser presentada de nuevo en el mismo período de sesiones.
 
-> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-SECCION F.- DE LA ENTIDAD DE AUDITORIA SUPERIOR DEL ESTADO
+SECCION D.- DE LAS FACULTADES DEL CONGRESO
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 55.
 
@@ -947,6 +943,10 @@ XXXIX.- Las demás que le confiera expresamente esta Constitución.
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
+SECCION E.- DE LA COMISION PERMANENTE
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1993)</small>
+
 ###### ARTICULO 56.
 
 Durante los recesos del Congreso, habrá una Comisión Permanente que se compondrá de cinco Diputados Propietarios y cinco Suplentes. En la víspera de la clausura de cualquiera de los períodos de sesiones, será nombrada por la Legislatura, instalándose al día siguiente.
@@ -981,11 +981,11 @@ VI.- Recibir las iniciativas de ley y turnarlas para su estudio y dictamen, a la
 
 VII.- Las demás que le confiere esta Constitución.
 
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
-SECCION D.- DE LAS FACULTADES DEL CONGRESO
+SECCION F.- DE LA ENTIDAD DE AUDITORIA SUPERIOR DEL ESTADO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 58.
 
@@ -1215,9 +1215,9 @@ XII.- Enviar al Congreso el día 12 de Septiembre de cada año, un Informe por e
 
 XIII.- Disponer lo necesario para la seguridad de las personas, bienes y derechos de los individuos y, al efecto, mantener la paz, tranquilidad y orden público en todo el Estado;
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2005)</small>
 
-XIV.- Presentar al Congreso dentro del período ordinario de sesiones pero a más tardar el día 12 de Diciembre de cada año, los proyectos de Ley de Ingresos y de Ley de Egresos para el ejercicio fiscal siguiente, incluyendo éste último el presupuesto respectivo; en el segundo período ordinario de sesiones deberá presentar la Cuenta Pública de gastos erogados por el Estado durante el año anterior;
+XIV.- Presentar al Congreso del Estado, dentro del primer periodo ordinario de sesiones a más tardar el día 30 de Noviembre de cada año, los proyectos de Ley de Ingresos y de Ley de Egresos para el ejercicio fiscal siguiente y en el segundo periodo ordinario de sesiones deberá presentar la Cuenta Pública de gastos erogados por el Estado durante el año anterior;
 
 XV.- Hacer transferencias de las partidas del Presupuesto de Egresos, dando aviso oportuno al Congreso;
 
@@ -2670,3 +2670,9 @@ SEGUNDO: Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 23 DE DICIEMBRE DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 6 DE NOVIEMBRE DE 2005.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente
