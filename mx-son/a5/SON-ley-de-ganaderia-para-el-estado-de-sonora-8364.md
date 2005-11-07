@@ -4,7 +4,7 @@ identifier: "SON-ley-de-ganaderia-para-el-estado-de-sonora-8364"
 country: "mx"
 rank: "ley"
 publication_date: "1983-08-04"
-last_updated: "2002-07-08"
+last_updated: "2005-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8364&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SON"
 
 LEY DE GANADERIA PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 8 DE JULIO DE 2002.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE GANADERIA PARA EL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 7 DE NOVIEMBRE DE 2005, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 4 de agosto de 1983.
 
@@ -1650,3 +1652,23 @@ Las disposiciones de la presente Ley entrarán en vigor al día siguiente de su 
 Las sanciones previstas por los artículos 231 al 237 y el 239 de la Ley de Tránsito para el Estado de Sonora vigentes hasta la entrada en vigor de la presente reforma, continuarán aplicándose hasta que las mismas sean incorporadas en las leyes de Ingresos de los Ayuntamientos.
 
 Para tal efecto, los Ayuntamientos deberán presentar la iniciativa correspondiente ante el Congreso del Estado en un término no mayor de 90 días naturales.
+
+B.O. 7 DE NOVIEMBRE DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado, con excepción del artículo 14 y, en general, todas las obligaciones cuyo cumplimiento implique la aplicación del arete y la tarjeta SINIIGA como condición para vender o movilizar ganado, que iniciarán su vigencia el día 20 de abril de 2007.
+
+El ganado que haya nacido antes del inicio de vigencia del referido artículo 14 y obligaciones concomitantes, deberá quedar identificado con el arete SINIIGA y su correspondiente tarjeta, dentro de los siguientes diez meses a partir de dicha vigencia, o antes si los animales se movilizan con anticipación a dicho plazo.
+
+###### ARTÍCULO SEGUNDO.
+
+Durante el plazo que concluye el día 19 de abril de 2007, la Secretaría implementará un programa especial para el efecto de dar a conocer las finalidades y beneficios del Sistema Nacional de Identificación Individual de Ganado y promover su aplicación voluntaria por los ganaderos del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley de Ganadería para el Estado de Sonora, publicada en el Boletín Oficial del Gobierno del Estado Número 10, Sección I, el 4 de agosto de 1983, así como todas sus reformas.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan a la presente ley.
