@@ -4,7 +4,7 @@ identifier: "SON-ley-de-educacion-para-el-estado-de-sonora-8518"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2004-07-19"
+last_updated: "2005-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE EDUCACION PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 19 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE NOVIEMBRE DE 2005.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 30 de diciembre de 1994.
 
@@ -184,6 +184,10 @@ I.- Prestar los servicios de educación inicial, básica -incluyendo la indígen
 II.- Proponer a la Secretaria de Educación Pública los contenidos regionales que hayan de incluirse en los planes y programas de estudio para la educación primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, así como formular y determinar planes y programas de estudio para servicios educativos distintos a los expresados con antelación.
 
 Lo anterior considerando la opinión de los diversos sectores involucrados en la educación, en correlación con la fracción I del artículo 12 y artículos 48 y 72 de la Ley General;
+
+> <small>(ADICIONADA, B.O. 7 DE NOVIEMBRE DE 2005)</small>
+
+II Bis.- Coordinarse con la Secretaría de Salud para implementar programas que fomenten en los educandos el consumo de alimentos con alto valor nutricional, así como establecer lineamientos para evitar la venta o consumo de alimentos con bajo o nulo valor nutricional en las tiendas escolares y, en general, en los espacios donde se expende o consumen alimentos en las instituciones de nivel básico;
 
 III.- Ajustar, en su caso, el calendario escolar para cada ciclo lectivo de la educación primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, con respecto al calendario fijado por la Secretaría de Educación Pública;
 
@@ -928,3 +932,9 @@ Las pruebas a que se refiere el artículo 40, fracción I de esta Ley se iniciar
 ###### ARTICULO CUARTO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+B.O. 7 NOVIEMBRE DE 2005.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
