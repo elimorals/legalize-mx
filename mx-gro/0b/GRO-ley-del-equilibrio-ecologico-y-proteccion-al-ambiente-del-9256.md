@@ -4,7 +4,7 @@ identifier: "GRO-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-del-9256"
 country: "mx"
 rank: "ley"
 publication_date: "1991-03-19"
-last_updated: "1992-05-22"
+last_updated: "2005-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9256&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DEL EQUILIBRIO ECOLOGICO Y PROTECCION AL AMBIENTE DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2005.
 
 Ley publicada en el Alcance Número 24 del Periódico Oficial del Estado de Guerrero, el martes 19 de marzo de 1991.
 
@@ -1579,33 +1579,33 @@ V.- Se garantice el interés fiscal.
 
 Transcurrido el término para el desahogo de las pruebas, si la hubiere, se dictará resolución en la que se confirme, modifique o revoque la resolución recurrida o el acto combatido. Dicha resolución se notificará al interesado; personalmente o por correo certificado.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE NOVIEMBRE DE 2005)</small>
+
 ### CAPITULO VI. DELITOS DEL ORDEN COMUN
 
 ###### ARTICULO 159.
 
-Para proceder penalmente por los delitos previstos en este Capítulo, será necesario que previamente se formule la denuncia correspondiente por parte del Gobierno del Estado, salvo que se trate de casos de flagrante delito.
+(DEROGADO, P.O. 8 DE NOVIEMBRE DE 2005)
 
 ###### ARTICULO 160.
 
-Se impondrá pena de tres meses a seis años de prisión y multa por el equivalente de cien a diez mil días de salario mínimo general vigente en la entidad, al que en violación a lo dispuesto por el artículo 120 de esta Ley, realice, autorice u ordene la realización de actividades que conforme a este mismo ordenamiento se consideren riesgosas y que ocasionen graves daños a la salud pública, la flora, la fauna a los ecosistemas. Cuando las actividades consideradas como riesgosas, a que se refiere el párrafo anterior, se lleven a cabo en un centro de población, se podrá elevar la pena hasta tres años más de prisión y la multa hasta veinte mil días de salario mínimo vigente en la entidad.
+(DEROGADO, P.O. 8 DE NOVIEMBRE DE 2005)
 
 ###### ARTICULO 161.
 
-Se impondrá pena de tres meses a seis años de prisión y multa por el equivalente de mil a veinte mil días de salario mínimo general vigente en la entidad, al que con violación en lo dispuesto en las disposiciones legales, reglamentarias y normas técnicas aplicables, despida, descargue en la atmósfera, o lo autorice o lo ordene, gases, humos y polvos que ocasionen o puedan ocasionar daños graves a la salud pública, la flora o la fauna o los ecosistemas o sus elementos.
+(DEROGADO, P.O. 8 DE NOVIEMBRE DE 2005)
 
 ###### ARTICULO 162.
 
-Se impondrá la pena de un mes a cinco años de prisión y multa por el equivalente de cien a diez mil días de salario mínimo general vigente en la entidad, al que sin autorización de la dependencia competente del Estado y en contravención de las disposiciones legales, reglamentarias y normas técnicas aplicables, descargue, deposite o infiltre o lo autorice u ordene, aguas residuales, desechos o contaminantes, en los suelos, aguas marinas, ríos, cuencas, vasos y demás depósitos o corrientes de agua de jurisdicción estatal que ocasionen o puedan ocasionar graves daños a los ecosistemas.
-
-Cuando se trate de aguas para ser entregadas en bloque a centros de población, la pena se podrá elevar hasta tres años más.
+(DEROGADO, P.O. 8 DE NOVIEMBRE DE 2005)
 
 ###### ARTICULO 163.
 
-Se impondrá pena de un mes a cinco años de prisión y multa por el equivalente de cien a diez mil días de salario mínimo general vigente en la entidad, a quien en contravención a las disposiciones legales aplicables y rebasando los límites fijados en las normas técnicas, genere emisiones de ruido, vibraciones, energía térmica o lumínica, en zonas de jurisdicción federal, que ocasionen graves daños a la salud pública, la flora, la fauna o a los ecosistemas.
+(DEROGADO, P.O. 8 DE NOVIEMBRE DE 2005)
 
 ###### ARTICULO 164.
 
-Las disposiciones reglamentarias que se expidan de acuerdo con la distribución de competencias entre el Estado y los Municipios prevista en este ordenamiento, señalarán las sanciones por violaciones a las mismas. Los Ayuntamientos regularán las sanciones administrativas por violaciones a los bandos y reglamentos de policía y buen gobierno, que a su vez expidan en la esfera de su respectiva competencia.
+(DEROGADO, P.O. 8 DE NOVIEMBRE DE 2005)
 
 ### CAPITULO VII. DENUNCIA POPULAR
 
@@ -1696,3 +1696,11 @@ La Procuraduría de Protección Ecológica del Estado de Guerrero a que se refie
 ###### ARTICULO TERCERO.
 
 Las Secretarías de Planeación, Presupuesto y Desarrollo Urbano, Finanzas y Administración, de Coordinación y la Contraloría General del Estado, proporcionarán los recursos humanos, materiales y financieros que sean indispensables para el funcionamiento de la Procuraduría.
+
+P.O. 8 DE NOVIEMBRE DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del gobierno del Estado.
+
+SEGUNDO.- Se deroga el Capítulo VI del Título VI que contiene los Artículos 159, 160, 161, 162, 163 y 164 de la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado de Guerrero, publicada en el Periódico Oficial del Gobierno del Estado de fecha 19 de Marzo de 1991.
+
+SEGUNDO.- Se derogan los Artículos 74 y 75 contenidos en el Capítulo II del Título Quinto de la Ley de Protección a los Animales, publicada en el Periódico Oficial del Gobierno del Estado de fecha 8 de Marzo de 1991.
