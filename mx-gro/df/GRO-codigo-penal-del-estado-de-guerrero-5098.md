@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-del-estado-de-guerrero-5098"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-14"
-last_updated: "2005-10-28"
+last_updated: "2005-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO PENAL DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2005.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 14 de noviembre de 1986.
 
@@ -1319,7 +1319,7 @@ I.- Produzca un ser deforme;
 
 II.- Se realice por persona que no cuente con un título médico, y
 
-III.- Se lleve a cabo por dos o mas personas.
+III.- Se lleve a cabo por dos o más personas.
 
 > <small>(ADICIONADO, P.O. DE 20 DE ABRIL DE 1999)</small>
 
@@ -2901,19 +2901,103 @@ III.- Siendo servidor público ya sea estatal o municipal, realice proselitismo 
 
 Igual pena se aplicará a quien sin mediar resolución de autoridad competente, impida por cualquier medio, que la persona electa popularmente inicie el desempeño de su cargo.
 
-> <small>(ADICIONADA CON EL CAPITULO Y ARTICULO QUE LA INTEGRAN, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE NOVIEMBRE DE 2005)</small>
 
 ### CAPITULO UNICO. DELITOS AMBIENTALES
 
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2005)</small>
 
-300.- Se impondrá pena de uno a seis años de prisión y multa de cuarenta a doscientos días de salario, al que ponga en peligro la salud pública, la riqueza ecológica, provoque grave contaminación, degradación, esterilización o envenenamiento de tierras y aguas de jurisdicción local, dañe o contamine la atmósfera o difunda una enfermedad en las plantas o en los animales, con peligro de la economía rural o forestal o de la riqueza zoológica del Estado y de los ecosistemas, sin perjuicio de la imposición de las sanciones previstas por la Ley especial para estos ilícitos.
+300.- A quien sin contar con la autorización respectiva o violando las normas de seguridad y operación aplicables realice, autorice u ordene la realización de actividades consideradas en términos de la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado de Guerrero como riesgosas y que ocasionen daños a la flora, la fauna, a los ecosistemas o la salud pública, se le impondrá de uno a seis años de prisión y multa de sesenta a trescientos sesenta días de salario mínimo.
+
+Se aumentará hasta en una tercera parte la pena prevista en el párrafo anterior cuando las actividades consideradas como riesgosas, se lleven a cabo en:
+
+I.- Áreas establecidas en el Sistema Estatal de Áreas Protegidas y
+
+II.- Centros de población.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2005)</small>
+
+301.- Al que con violación en lo dispuesto en las disposiciones legales, reglamentarias y normas técnicas aplicables, despida, emita o descargue en la atmósfera o lo autorice u ordene, gases, humo, polvo o vapores que ocasionen o puedan ocasionar daños a los ecosistemas, se le impondrá de uno a seis años de prisión y multa de sesenta a trescientos sesenta días de salario mínimo.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2005)</small>
+
+302.- Al que sin autorización de la dependencia competente del Estado y en contravención de las disposiciones legales reglamentarias y normas técnicas aplicables, descargue, deposite o infiltre; autorice u ordene aguas residuales, desechos o contaminantes, en los suelos, aguas marinas, ríos, cuencas, vasos y demás depósitos o corrientes de agua jurisdicción estatal que ocasionen o puedan ocasionar daños a los ecosistemas, se le impondrá de uno a seis años de prisión y multa de sesenta a trescientos sesenta días de salario mínimo
+
+Se aumentará hasta en una tercera parte la pena prevista en el párrafo anterior cuando se trate de aguas para ser entregadas en bloque a centros de población o áreas establecidas en el Sistema Estatal de Áreas Protegidas.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2005)</small>
+
+303.- A quien en contravención a las disposiciones legales aplicables y rebasando los límites fijados en las normas técnicas, genere emisiones de ruido, vibraciones, energía térmico (sic) o lumínica, en zonas de jurisdicción estatal que ocasionen daños a la flora, la fauna, a los ecosistemas o a la salud pública, se le impondrá de dos a siete años de prisión y multa de ciento veinte a cuatrocientos veinte días de salario mínimo.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2005)</small>
+
+304.- A quien provoque u ocasione incendios en bosques, parques, áreas forestales, áreas naturales protegidas o áreas verdes en suelo urbano, se le impondrá de dos a siete años de prisión y multa de ciento veinte a cuatrocientos veinte días de salario mínimo.
+
+Se aumentará en una tercera parte de la pena prevista en el párrafo anterior cuando se lleven a cabo en áreas establecidas en el Sistema Estatal de Areas Protegidas.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2005)</small>
+
+305.- Se impondrá de tres a siete años de prisión y multa de ciento ochenta a cuatrocientos veinte días de salario mínimo a quien sin la autorización correspondiente:
+
+I.- Desmonte o destruya vegetación natural,
+
+II.- Corte, arranque, derribe o tale árboles,
+
+III.- Haga cambios de uso de suelo de conservación, áreas naturales protegidas o áreas verdes en suelo urbano, o
+
+Se aumentará en una tercera parte la pena prevista en el presente artículo cuando las actividades se lleven a cabo en áreas establecidas en el Sistema Estatal de Areas Protegidas.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2005)</small>
+
+306.- Además de las penas previstas para los delitos contenidos en el presente Capítulo, se impondrá alguna o algunas de las penas o medidas de seguridad siguientes:
+
+I.- La realización de acciones necesarias para restablecer las condiciones de los elementos naturales que constituyen los ecosistemas afectados en el estado en que se encontraban antes de realizarse el delito.
+
+II.- La suspensión, modificación o demolición de las construcciones, obras o actividades, según corresponda, que hubiera dado lugar al delito ambiental respectivo.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2005)</small>
+
+307.- Tratándose de los delitos contemplados en el presente Capítulo, el trabajo a favor de la comunidad consistirá en actividades relacionadas con la protección al ambiente o la restauración de los recursos naturales, mediante programas de medidas compensatorias, tendientes a la restauración del daño.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2005)</small>
+
+308.- Se impondrá de uno a seis años de prisión y multa de sesenta a trescientos sesenta días de salario mínimo, a quien siendo propietario o poseedor por cualquier título o encargado de su guarda y custodia, realice en perjuicio de un animal vertebrado, cualquiera de los siguientes actos:
+
+I.- La muerte producida utilizando un medio que prolongue la agonía al animal, causándole sufrimientos innecesarios.
+
+II.- La mutilación orgánicamente grave, que no se efectúe bajo el cuidado de un médico veterinario.
+
+III.- El atropellamiento deliberado.
+
+IV.- El tiro al blanco en cualquier forma utilizando como objetivo a los animales vivos.
+
+V.- Toda privación de aire, luz, alimento, bebida, espacio suficiente o de abrigo contra la intemperie, y
+
+V.- La privación de atención médica y sanitaria que cause o pueda causar daño a un animal.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2005)</small>
+
+309.- Se impondrá de dos a siete años de prisión y multa de ciento veinte a cuatrocientos veinte días de salario mínimo a quien:
+
+I.- Difunda sin sustento una enfermedad de los animales que pongan en peligro la riqueza zoológica del Estado.
+
+II.- Viole las disposiciones relativas a los cotos de caza o las correspondientes a las vedas declaradas por la autoridad competente, así como la comercialización de sus productos y derivados que no estén autorizados y
+
+III.- Destruya en predio ajeno los nidos, huevos y crías de aves de cualquier especie.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2005)</small>
+
+310.- Cuando en la comisión de alguno de los delitos previstos en el anterior artículo, intervenga un médico veterinario o médico zootecnista con motivo de sus funciones o aprovechándose de su calidad de servidor, ameritará amonestación, multa y hasta la suspensión del ejercicio profesional en los términos de las disposiciones relativas al ejercicio profesional en el Estado de Guerrero.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2005)</small>
+
+311.- Cuando en la comisión de alguno de los delitos previstos en este Capítulo, intervenga un servidor público en ejercicio, con motivo de sus funciones o aprovechándose de su calidad de servidor, la pena prevista se aumentará hasta en una mitad y se le inhabilitará para ocupar cargo, empleo o comisión por un tiempo igual al que se le hubiera fijado como pena privativa de libertad, sanción que deberá contabilizarse a partir del día en que el sentenciado haya cumplido con la prisión o ésta se hubiere tenido por cumplida.
 
 ## TITULO V. DELITOS ELECTORALES
 
 > <small>(REFORMADA [N. DE E. DEROGADA] SU DENOMINACION, P.O. 13 FEBRERO DE 2004)</small>
 
-#### SECCION QUINTA
+#### SECCION QUINTA. DELITOS CONTRA EL AMBIENTE, LOS RECURSOS NATURALES, LA GESTION AMBIENTAL Y LA PROTECCION A LA FAUNA
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 20 DE ABRIL DE 1999)</small>
 
@@ -3058,3 +3142,11 @@ P.O. 28 DE OCTUBRE DE 2005.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Comuníquese el presente Decreto al Titular del Ejecutivo del Estado, para sus efectos constitucionales procedentes.
+
+P.O. 8 DE NOVIEMBRE DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del gobierno del Estado.
+
+SEGUNDO.- Se deroga el Capítulo VI del Título VI que contiene los Artículos 159, 160, 161, 162, 163 y 164 de la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado de Guerrero, publicada en el Periódico Oficial del Gobierno del Estado de fecha 19 de Marzo de 1991.
+
+SEGUNDO.- Se derogan los Artículos 74 y 75 contenidos en el Capítulo II del Título Quinto de la Ley de Protección a los Animales, publicada en el Periódico Oficial del Gobierno del Estado de fecha 8 de Marzo de 1991.
