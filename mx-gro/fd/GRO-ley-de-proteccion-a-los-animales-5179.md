@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-proteccion-a-los-animales-5179"
 country: "mx"
 rank: "ley"
 publication_date: "1991-03-09"
-last_updated: "1991-03-09"
+last_updated: "2005-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5179&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE PROTECCION A LOS ANIMALES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el sábado 8 de marzo de 1991.
 
@@ -445,21 +445,11 @@ La violación de las disposiciones de esta Ley por parte de quien ejerza la prof
 
 ###### ARTICULO 74.
 
-Se consideran delitos de caza:
-
-I. El ejercicio de caza y de especies en veda permanentes;
-
-II. El uso de armas prohibidas para el ejercicio de la caza;
-
-III. La caza de hembras y crías de mamíferos no considerados dañinos, cuando no sea posible distinguir con claridad el sexo de los animales;
-
-IV. La apropiación o destrucción de nidos y huevos de aves silvestres, y
-
-V. Por el sistema de uso de armas u otros medios no autorizados.
+(DEROGADO, P.O. 8 DE NOVIEMBRE DE 2005)
 
 ###### ARTICULO 75.
 
-A los responsables de los delitos tipificados en el capítulo anterior se les impondrán, además de las sanciones que establecen las leyes federales de tres a seis años de prisión y multa de 250 a 500 veces el salario mínimo general de la región, independientemente de la inhabilitación para obtener permisos de caza por un término de cinco años.
+(DEROGADO, P.O. 8 DE NOVIEMBRE DE 2005)
 
 ###### ARTICULO 76.
 
@@ -538,3 +528,13 @@ Rúbrica.
 El Secretario General de Gobierno.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 8 DE NOVIEMBRE DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del gobierno del Estado.
+
+SEGUNDO.- Se deroga el Capítulo VI del Título VI que contiene los Artículos 159, 160, 161, 162, 163 y 164 de la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado de Guerrero, publicada en el Periódico Oficial del Gobierno del Estado de fecha 19 de Marzo de 1991.
+
+SEGUNDO.- Se derogan los Artículos 74 y 75 contenidos en el Capítulo II del Título Quinto de la Ley de Protección a los Animales, publicada en el Periódico Oficial del Gobierno del Estado de fecha 8 de Marzo de 1991.
