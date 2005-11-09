@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-453
 country: "mx"
 rank: "otro"
 publication_date: "2004-07-19"
-last_updated: "2005-07-18"
+last_updated: "2005-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45385&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,65 +18,105 @@ issue_date: "2004-04-14"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO (REPUBLICA ORIENTAL DEL URUGUAY, 2003)
 
-ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA IMPORTAR MIEL DE ABEJA, PREPARACION USADA EN PANADERIA, HARINA Y POLVO DE CARNE O DESPOJOS Y ACIDO ESTEARICO DE VACUNO, ORIGINARIOS DE LA REPUBLICA ORIENTAL DEL URUGUAY, CONFORME AL TRATADO DE LIBRE COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA REPUBLICA ORIENTAL DEL URUGUAY
+ACUERDO QUE ESTABLECE LA CLASIFICACION Y CODIFICACION DE MERCANCIAS CUYA IMPORTACION Y EXPORTACION ESTA SUJETA AL REQUISITO DE PERMISO PREVIO POR PARTE DE LA SECRETARIA DE ECONOMIA
 
-Acuerdo publicado en el Diario Oficial de la Federación, el lunes 18 de julio de 2005.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 9 de noviembre de 2005.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-FERNANDO DE JESUS CANALES CLARIOND, Secretario de Economía, con fundamento en el artículo 3-03 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay; 4o. fracción III, 5o. fracción V, 6o., 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26, 31, 32, 33 y 35 del Reglamento de la Ley de Comercio Exterior; 34 de la Ley Orgánica de la Administración Pública Federal, y 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía, con fundamento en los artículos 34 de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracciones III y X, 15, 16, 17, 20 y 21 de la Ley de Comercio Exterior; 36 fracciones I inciso c), y II inciso b), y 104 fracción II de la Ley Aduanera; 1, 2 y 5 del Acuerdo sobre Procedimientos para el Trámite de Licencias de Importación de la Organización Mundial del Comercio; 21 del Reglamento de la Ley de Comercio Exterior; 1, 4, 5 fracción XVI, 45 y 46 del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que para fortalecer y ampliar las relaciones comerciales con la República Oriental del Uruguay, con fecha 15 de noviembre de 2003 se suscribió el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay, mismo que aprobó el Senado de la República el 28 de abril de 2004 y promulgado mediante Decreto publicado en el Diario Oficial de la Federación el 14 de julio de 2004;
+Que uno de los objetivos del Plan Nacional de Desarrollo 2001-2006 consiste en promover el desarrollo regional equilibrado, elevar y extender la competitividad del país como condición necesaria para alcanzar un crecimiento más dinámico y convertir a las cadenas productivas de distintos giros como el agroindustrial, industrial, comercial y de servicios en componentes estratégicos para garantizar un desarrollo incluyente a través del fomento de la cultura de la asociación, la formación de proveedores permanentes y la mejora regulatoria que simplifique la carga administrativa de las empresas;
 
-Que el Anexo 3-03 (4) del artículo 3-03 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay establece que México permitirá la importación de ciertas mercancías originarias de Uruguay con una preferencia arancelaria porcentual dentro de una cuota determinada;
+Que como parte de las Metas Presidenciales de Buen Gobierno y las Acciones Concretas para Incrementar la Competitividad, se estableció el compromiso de revisar los instrumentos de regulación comercial, toda vez que la efectividad de éstos puede resultar erosionada cuando se presenta una proliferación de los mismos;
 
-Que los procedimientos de asignación de los cupos que se tratan en el presente Acuerdo, son un instrumento de la política sectorial para promover condiciones equitativas de competencia e incrementar las corrientes comerciales con los países con los que México tiene suscritos acuerdos comerciales, y
+Que la facilitación comercial es una estrategia global que es discutida en diversos foros internacionales y tiene como finalidad lograr la simplificación y armonización de procedimientos de comercio internacional, y que los procedimientos relacionados con la misma facilitación comercial comprenden las actividades, prácticas y formalidades involucradas en recopilar, presentar, comunicar y procesar la información requerida para realizar operaciones de comercio exterior, entre las cuales se incluye a las regulaciones no arancelarias;
 
-Que la medida a que se refiere el presente instrumento, cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
+Que las políticas sobre facilitación comercial se basan en los principios de transparencia, certidumbre jurídica, imparcialidad y uniformidad en la administración del marco normativo vigente, mejora regulatoria y simplificación operativa;
 
-ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA IMPORTAR MIEL DE ABEJA, PREPARACION USADA EN PANADERIA, HARINA Y POLVO DE CARNE O DESPOJOS Y ACIDO ESTEARICO DE VACUNO, ORIGINARIOS DE LA REPUBLICA ORIENTAL DEL URUGUAY CONFORME AL TRATADO DE LIBRE COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA REPUBLICA ORIENTAL DEL URUGUAY
+Que la revisión de las regulaciones no arancelarias es una de las principales acciones de la facilitación comercial, ya que con ello se simplifica la regulación de las actividades comerciales, se reducen los costos en los que incurren los particulares para poder cumplir con la normatividad, se modernizan y agilizan los trámites, y se imprime certidumbre, transparencia y continuidad a las operaciones de comercio exterior;
 
-###### ARTICULO PRIMERO.
+Que la dinámica del intercambio comercial exige a los países intensificar y acelerar sus procesos de actualización en materia de regulación comercial, en especial la identificación de mercancías sujetas al cumplimiento de regulaciones no arancelarias, evitando interpretaciones equívocas en los operadores del comercio internacional;
 
-Los cupos para importar durante un periodo de doce meses contados a partir del 15 de julio de cada año, con el arancel-cupo establecido en el Anexo 3-03 (4) del artículo 3-03 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay, miel de abeja; preparaciones usadas en panadería, pastelería y galletería, chocolatería y similares, cuando contenga 15% a 40% de proteínas, 0.9% a 5% de grasas, 45% a 70% de carbohidratos, 3% a 4% de minerales y 3% a 8% de humedad; harina y polvo de carne o despojos y ácido esteárico de vacuno para ser utilizada como materia prima para la fabricación de estearina refinada, originarios de la República Oriental del Uruguay, son los que se determinan en el cuadro siguiente:
+Que conforme a los artículos 20 de la Ley de Comercio Exterior, y 36 fracciones I inciso c) y II inciso b) de la Ley Aduanera, sólo podrán hacerse cumplir en el punto de entrada o salida al país las regulaciones no arancelarias, cuyas mercancías hayan sido identificadas en términos de sus fracciones arancelarias y nomenclatura que les corresponda conforme a la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación;
+
+Que a efecto de cumplir con lo dispuesto en la Ley de Comercio Exterior, el 26 de marzo de 2002 se publicó en el Diario Oficial de la Federación el Acuerdo que establece la clasificación y codificación de mercancías cuya importación y exportación están sujetas al requisito de permiso previo por parte de la Secretaría de Economía, el cual ha sido modificado en nueve ocasiones, mediante diversos dados a conocer en el mismo medio informativo, y que la dispersión generada por las modificaciones realizadas hace conveniente publicar de nuevo el documento íntegro, a fin de facilitar su aplicación;
+
+Que en el transcurso del tiempo los instrumentos de regulación comercial han evolucionado al grado que actualmente diversas dependencias del Ejecutivo Federal han establecido y operan directamente instrumentos que, en algunos casos, duplican la regulación de otra u otras dependencias;
+
+Que en el mencionado Acuerdo están comprendidos ciertos productos vegetales destinados a la salud, como son las semillas de amapola, hojas de coca, y los extractos de opio o de coca, lo que implica una sobrerregulación toda vez que tales mercancías están sujetas a control por parte de la Secretaría de Salud, que es la dependencia competente para autorizar las importaciones de dichas sustancias;
+
+Que entre las mercancías sujetas actualmente al requisito de permiso previo de importación se encuentran algunas del sector automotriz, tales como los tractores nuevos para remolcar vehículos en vías férreas, los llamados “vehículos de colección”, con peso menor a 8,864 kgs y antigüedad mayor a 30 años, los vehículos recreativos de estructura tubular denominados “Go-Karts”, los vehículos para transporte especializado denominados “coches fúnebres” o “carrozas fúnebres”, así como los neumáticos recubiertos y los rines usados que se presenten con sus llantas, cuya regulación ya no se justifica puesto que las importaciones se autorizan de manera automática a todos los solicitantes toda vez que no impactan a la industria nacional fabricante;
+
+Que entre las mercancías sujetas al mencionado requisito previo también se encuentran las armas de fuego, municiones, material de guerra, y sus partes y accesorios, no obstante que las importaciones de estos bienes están sujetas al control de la Secretaría de la Defensa Nacional, por lo que el requisito de permiso previo por parte de la Secretaría de Economía constituye una sobrerregulación;
+
+Que diversas mercancías de los sectores de derivados lácteos, café, caramelos y chicles, principalmente, están actualmente sujetas al requisito de permiso previo de importación cuando se importan al amparo de los Decretos en los que se establece un esquema arancelario para la franja fronteriza norte y la región fronteriza, no obstante que dicho requisito implica un costo administrativo que incide negativamente en las empresas de la frontera, y que ha cumplido ya con el objetivo de complementar la oferta de bienes de consumo necesario, apoyar un desarrollo regional equilibrado entre dichas zonas y las demás regiones del país así como la competitividad económica y el bienestar de los habitantes de tales regiones, por lo que el requisito carece ya de sentido;
+
+Que el 27 de julio de 1998 se publicó en el Diario Oficial de la Federación un Acuerdo secretarial para establecer la figura del aviso automático de importación, con objeto de reforzar el sistema informático de monitoreo de importaciones y supervisar los precios de las mercancías cuya importación en condiciones de subfacturación podría afectar negativamente a la producción nacional;
+
+Que el requisito ha cumplido suficientemente con el objetivo de reducir la subfacturación en la importación de mercancías, toda vez que el número de solicitudes para las fracciones arancelarias controladas se ha reducido sustancialmente, por lo que el Ejecutivo Federal inició la preparación de otros esquemas de monitoreo electrónico de mercancías, y
+
+Que la Comisión de Comercio Exterior, conforme al procedimiento previsto en la Ley de la materia, opinó favorablemente el establecimiento de regulaciones no arancelarias aplicables a la importación y exportación de las mercancías sujetas al requisito de permiso previo por parte de la Secretaría de Economía, he tenido a bien expedir el siguiente:
+
+ACUERDO QUE ESTABLECE LA CLASIFICACION Y CODIFICACION DE MERCANCIAS CUYA IMPORTACION Y EXPORTACION ESTA SUJETA AL REQUISITO DE PERMISO PREVIO POR PARTE DE LA SECRETARIA DE ECONOMIA
+
+###### ARTICULO 1o.
+
+Se sujetan al requisito de permiso previo de importación por parte de la Secretaría de Economía las mercancías comprendidas en las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación que a continuación se indican, únicamente cuando se destinen al régimen aduanero de importación definitiva:
 
 (VEASE ARCHIVO ANEXO)
 
-###### ARTICULO SEGUNDO.
+###### ARTICULO 2o.
 
-De conformidad con el artículo 24 de la Ley de Comercio Exterior y con objeto de propiciar esquemas de promoción accesibles a las empresas importadoras de productos originarios e incrementar la utilización de los aranceles-cuota establecidos al amparo del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay, se aplicará a los cupos a que se refiere el presente Acuerdo, el procedimiento de asignación directa mediante la modalidad de “primero en tiempo, primero en derecho”.
+Se sujetan al requisito de permiso previo de importación por parte de la Secretaría de Economía las mercancías comprendidas en las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación que a continuación se indican, únicamente cuando se destinen a los regímenes aduaneros de importación definitiva o temporal:
 
-###### ARTICULO TERCERO.
+(VEASE ARCHIVO ANEXO)
 
-Podrán solicitar asignación de estos cupos, las personas físicas y morales establecidas en los Estados Unidos Mexicanos. La asignación será otorgada por la Secretaría de Economía, hasta agotar el cupo.
+###### ARTICULO 3o.
 
-El monto a asignar será el que resulte menor entre la cantidad solicitada, el monto indicado en la factura comercial, el conocimiento de embarque; carta de porte o guía aérea, según sea el caso; en caso de que exista saldo del cupo, el monto de la asignación será el menor entre la cantidad solicitada y el saldo.
+Se sujetan al requisito de permiso previo de importación por parte de la Secretaría de Economía las mercancías comprendidas en las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación que a continuación se indican, únicamente cuando se destinen al régimen aduanero de importación definitiva y sean originarias y procedentes de Argentina, Brasil, Cuba, Ecuador, Perú, Panamá o Paraguay, importadas al amparo de un Acuerdo de Alcance Parcial o Regional negociado conforme al Tratado de Montevideo 1980:
 
-###### ARTICULO CUARTO.
+(VEASE ARCHIVO ANEXO)
 
-Para cada año, la primera solicitud de asignación de cada uno de los cupos a que se refiere este Acuerdo, deberá presentarse en el formato SE-03-011-1 “Solicitud de asignación de cupo”, en la ventanilla de atención al público de la Representación Federal de esta Secretaría que corresponda. La Dirección General de Comercio Exterior emitirá, en su caso, constancia de asignación dentro de los siete días hábiles siguientes a la fecha de presentación de la solicitud.
+###### ARTICULO 4o.
 
-###### ARTICULO QUINTO.
+Se sujetan al requisito de permiso previo de importación por parte de la Secretaría de Economía las mercancías comprendidas en las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación que a continuación se indican, únicamente cuando se destinen a los regímenes aduaneros de importación definitiva o temporal y se trate de bienes originarios de los Estados Unidos de América, de conformidad con el Tratado de Libre Comercio de América del Norte:
 
-Una vez obtenida la constancia de asignación, el beneficiario deberá solicitar la expedición del certificado de cupo por embarque mediante la presentación del formato "Solicitud de certificados de cupo (obtenido por asignación directa)" SE-03-013-5, adjuntando copia de la factura comercial y conocimiento de embarque, guía aérea o carta de porte, según sea el caso, así como los requisitos señalados en la “hoja de Requisitos” anexa al presente instrumento, en la ventanilla de atención al público de la misma Representación Federal que corresponda, la cual emitirá el certificado de cupo dentro de los siete días hábiles siguientes a la presentación de la solicitud.
+(VEASE ARCHIVO ANEXO)
 
-Cuando el solicitante haya sido beneficiario de cuatro expediciones de certificado de cupo, a efecto de poder autorizarle certificados subsecuentes, deberá demostrar el ejercicio de por lo menos una de las expediciones otorgadas, para lo cual deberá adjuntar a la solicitud de certificado de cupo, copia del pedimento de importación, de forma tal que, durante el periodo de vigencia del cupo, los beneficiarios no cuenten con más de cuatro certificados sin comprobar.
+###### ARTICULO 5o.
 
-La vigencia máxima de los certificados de cupo a que se refiere este Acuerdo, será al 14 de julio de cada año.
+Se sujetan al requisito de permiso previo de importación por parte de la Secretaría de Economía las mercancías comprendidas en las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación que a continuación se indican, únicamente cuando se destinen al régimen aduanero de importación definitiva y que cumplan con alguno de los dos supuestos siguientes:
 
-###### ARTICULO SEXTO.
+I. Cuando sean importadas al amparo del Tratado de Libre Comercio entre la República de Chile y los Estados Unidos Mexicanos:
 
-Los formatos citados en el presente Acuerdo, estarán a disposición de los interesados en las representaciones federales de la Secretaría de Economía, y en la página de Internet de la Comisión Federal de Mejora Regulatoria, www.cofemer.gob.mx., o en las siguientes direcciones electrónicas:
+(VEASE ARCHIVO ANEXO)
 
-Para el formato de solicitud de asignación de cupo (SE-03-011-1):
+II. Cuando sean importadas al amparo del Tratado de Libre Comercio entre la República Oriental del Uruguay y los Estados Unidos Mexicanos:
 
-<http://www.cofemertramites.gob.mx/intranet/co_dialog_PublishedTramite.asp?coNodes=905721&num_> modalidad=1.
+(VEASE ARCHIVO ANEXO)
 
-Para el formato de expedición del certificado de cupo (SE-03-013-5):
+###### ARTICULO 6o.
 
-<http://www.cofemertramites.gob.mx/intranet/co_dialog_PublishedTramite.asp?coNodes=905724&num> modalidad=0.
+Se sujetan al requisito de permiso previo de importación por parte de la Secretaría de Economía las mercancías usadas comprendidas en las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación que a continuación se indican, únicamente cuando se destinen al régimen aduanero de importación definitiva:
+
+(VEASE ARCHIVO ANEXO)
+
+Para efectos de este apartado, se considerará como vehículo usado aquél que se encuentre en cualquiera de los supuestos siguientes:
+
+a) que no haya sido adquirido de primera mano. Se considerará que el vehículo no fue adquirido de primera mano cuando no se cuente con la factura expedida por el fabricante o un distribuidor autorizado por el fabricante;
+
+b) que el año-modelo del vehículo que se observe en el número de identificación vehicular, no corresponda al año en que se efectúe la importación del vehículo o a un año posterior, y
+
+c) que al momento de efectuar el despacho aduanero, la lectura del odómetro indique que el vehículo ha recorrido más de 1,000 kilómetros, o su equivalente en millas, en el caso de vehículos con peso bruto vehicular inferior a 5,000 kilogramos; o que ha recorrido más de 5,000 kilómetros, o su equivalente en millas, en el caso de vehículos con peso bruto vehicular igual o superior a 5,000 kilogramos pero inferior a 8,864 kilogramos.
+
+###### ARTICULO 7o.
+
+Se sujetan al requisito de permiso previo de exportación por parte de la Secretaría de Economía las mercancías comprendidas en las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación que a continuación se indican, únicamente cuando se destinen a los regímenes aduaneros de exportación definitiva o temporal:
+
+(VEASE ARCHIVO ANEXO)
 
 ###### ARTÍCULO 1.
 
@@ -140,11 +180,15 @@ Fracción Preferencia Arancelaria
 
 0406.90.04 100
 
-###### ARTÍCULO 8.
+###### ARTICULO 8.
 
-La importación de las mercancías originarias de la región conformada por México y Uruguay comprendidas en las fracciones arancelarias que se señalan en este artículo, estará sujeta a la preferencia arancelaria indicada a continuación, ya sea para la totalidad de las mercancías incluidas en cada fracción o únicamente para la modalidad indicada, siempre que el importador adjunte al pedimento de importación un certificado de cupo expedido por la Secretaría de Economía. De no cumplirse con los requisitos señalados, se aplicará la preferencia arancelaria que le corresponda en el artículo 10.
+Se sujetan a la presentación de un aviso automático de exportación ante la Secretaría de Economía, conforme a lo dispuesto en el artículo 10 del presente Acuerdo, la exportación definitiva y temporal de las mercancías comprendidas en las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación que se mencionan a continuación para efectos de monitoreo estadístico comercial:
 
 (VEASE ARCHIVO ANEXO)
+
+###### ARTICULO 9o.
+
+El aviso automático de exportación a que se refiere el artículo 8 del presente ordenamiento se presentará ante la ventanilla de atención al público de la Delegación o Subdelegación Federal de la Secretaría de Economía que le corresponda. Para efectos de este Acuerdo se entenderá por aviso automático de exportación el permiso automático a que se refiere el artículo 21 del Reglamento de la Ley de Comercio Exterior.
 
 ###### ARTÍCULO 9.
 
@@ -152,124 +196,56 @@ La importación de mercancías originarias de la región conformada por México 
 
 (VEASE ARCHIVO ANEXO)
 
-###### ARTÍCULO 10.
+###### ARTICULO 10.
 
-La importación de mercancías originarias de la región conformada por México y Uruguay, comprendidas en las fracciones arancelarias que se señalan en este artículo, estará sujeta a la preferencia arancelaria que se señala a continuación:
+Los avisos automáticos de exportación se entenderán autorizados al día hábil siguiente al de la presentación de la solicitud debidamente integrada. No obstante, la Secretaría de Economía podrá requerir al solicitante las aclaraciones que estime pertinentes. Al día siguiente de la presentación de la solicitud, la Secretaría pondrá a disposición de las autoridades aduaneras competentes las claves de autorización asignadas a los avisos automáticos de exportación para que el exportador proceda al despacho aduanero de las mercancías amparadas en los mismos.
 
-(VEASE ARCHIVO ANEXO)
+Los avisos automáticos de exportación tendrán una vigencia de cuatro meses a partir de que surta efecto la autorización de la Secretaría de Economía.
 
-###### ARTÍCULO 11.
+El aviso automático de exportación autorizado es la solicitud debidamente sellada y foliada por la oficina receptora de la Secretaría de Economía, mencionada en el artículo 9 del presente Acuerdo.
 
-La importación de las mercancías originarias de la región conformada por México y Uruguay comprendidas en las fracciones arancelarias que se señalan en este artículo, estarán sujetas a la preferencia arancelaria indicada siempre que el importador adjunte al pedimento de importación un permiso previo de importación expedido por la Secretaría de Economía. De no cumplirse la condición descrita se aplicará la tasa prevista en el artículo 1 de la LIGIE, sin reducción alguna:
+Una vez autorizado el aviso, el exportador podrá presentar el pedimento de exportación respectivo en los términos de la fracción II del artículo 36 de la Ley Aduanera, debiendo anotar en el campo relativo al número de permiso la clave de autorización asignada por la Secretaría de Economía y adjuntar una copia del aviso automático de exportación debidamente sellado por dicha Secretaría.
 
-Fracción Preferencia arancelaria
+###### ARTICULO 11.
 
-0207.13.01 100
+Se exceptúan del requisito de permiso previo de importación por parte de la Secretaría de Economía, cuando sean provenientes de:
 
-0207.13.02 100
+I.- Canadá o Estados Unidos de América, que califiquen para ser marcadas como mercancías de esos países, conforme al Acuerdo por el que se establecen reglas de marcado de país de origen para determinar cuando una mercancía importada a territorio nacional se puede considerar una mercancía estadounidense o canadiense de conformidad con el Tratado de Libre Comercio de América del Norte, publicado en el Diario Oficial de la Federación el 7 de enero de 1994.
 
-0207.13.03 100
+II.- La República de Chile, que califiquen como originarias conforme al Tratado de Libre Comercio entre la República de Chile y los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 28 de julio de 1999, o
 
-0207.13.99 100
-
-0207.26.01 100
-
-0207.26.99 100
-
-0207.35.99 100
-
-0402.10.01 100
-
-0402.21.01 100
-
-0402.91.01 100
-
-0406.10.01 100
-
-0406.30.01 100
-
-0406.30.99 100
-
-0407.00.01 100
-
-0407.00.03 100
-
-0713.33.02 100
-
-0713.33.03 100
-
-0713.33.99 100
-
-1516.10.01 100
-
-1701.11.02 100
-
-1701.11.03 100
-
-1701.12.02 100
-
-1701.12.03 100
-
-1806.10.01 100
-
-2106.90.05* 100
-
-* La fracción 2106.90.05 “jarabes aromatizados o con adición de colorantes” estará sujeta a permiso previo de importación excepto en lo que se refiere a preparaciones del tipo de las utilizadas para elaboración de bebidas, a base de extractos de cola y ácido cítrico, coloreado con azúcar caramelizado, ácido cítrico y aceites esenciales de frutas u otros frutos (por ejemplo limón o naranja).
-
-###### ARTÍCULO 12.
-
-La importación de las mercancías originarias de la región conformada por México y Uruguay comprendidas en las fracciones arancelarias que se señalan en este artículo, estarán sujetas a la preferencia arancelaria indicada siempre que el importador adjunte al pedimento de importación un certificado de cupo y un permiso previo de importación expedidos por la Secretaría de Economía. De no cumplirse con las condiciones descritas, se aplicará el arancel establecido en el artículo 3 de este Decreto:
-
-Fracción Preferencia Arancelaria
-
-0406.90.03 100
-
-0406.90.05 100
-
-0406.90.06 100
-
-0406.90.99 100
-
-###### ARTÍCULO 13.
-
-Lo dispuesto en el presente Decreto no libera del cumplimiento de las restricciones y regulaciones no arancelarias en los términos de la Ley de Comercio Exterior, la Ley Aduanera y demás disposiciones jurídicas aplicables.
-
-###### ARTÍCULO 14.
-
-Para el caso en el que existan modificaciones o adecuaciones a la Tarifa de la LIGIE publicada en el Diario Oficial de la Federación el 18 de enero de 2002, los aranceles preferenciales originalmente negociados en el Tratado de Libre Comercio referido en este Decreto, seguirán aplicándose sobre dichas modificaciones o adecuaciones según corresponda. Para tal fin y únicamente con propósitos indicativos la Secretaría de Economía publicará en su página de Internet la correlación de fracciones arancelarias correspondientes, para el caso de las importaciones de mercancías originarias de Uruguay, prevaleciendo para éstas los aranceles preferenciales establecidos en el presente Decreto.
-
-## TRANSITORIO
-
-UNICO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
-
-México, D.F., a 8 de julio de 2005.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
-
-ANEXO
-
-SECRETARIA DE ECONOMIA DIRECCION GENERAL DE COMERCIO EXTERIOR
-
-Para cada periodo de doce meses contados a partir del 15 de julio de cada año.
-
-REQUISITOS PARA LA ASIGNACION DEL CUPO DE IMPORTACION DE LOS SIGUIENTES PRODUCTOS:
-
-MIEL DE ABEJA
-
-Fracción arancelaria: 0409.00.01
-
-PREPARACION USADA EN PANADERIA, PASTELERIA Y GALLETERIA, CHOCOLATERIA Y SIMILARES, CUANDO CONTENGA 15% A 40% DE PROTEINAS, 0.9% A 5% DE GRASAS, 45% A 70% DE CARBOHIDRATOS, 3% A 4% DE MINERALES Y 3% A 8% DE HUMEDAD
-
-Fracción arancelaria: 2106.90.02
-
-HARINA Y POLVO DE CARNE O DESPOJOS
-
-Fracciones arancelarias: 2301.10.01 y 2301.10.99
-
-ACIDO ESTEARICO DE VACUNO PARA SER UTILIZADO COMO MATERIA PRIMA PARA LA FABRICACION DE ESTEARINA REFINADA
-
-Fracción arancelaria: 3823.11.01
-
-Asignación directa mediante la modalidad de
-
-"Primero en tiempo, primero en derecho"
+III.- La Comunidad Europea, que califiquen como originarias conforme a la Decisión 2/2000 del Consejo Conjunto del Acuerdo Interino sobre comercio y cuestiones relacionadas con el comercio entre la Comunidad Europea y los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 26 de junio de 2000, las mercancías comprendidas en las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación que a continuación se indican:
 
 (VEASE ARCHIVO ANEXO)
+
+###### ARTICULO 12.
+
+Se exceptúan del requisito de permiso previo de importación por parte de la Secretaría de Economía establecido en los artículos 1o. y 6o., del presente Acuerdo:
+
+I. Las mercancías que habiendo sido exportadas definitivamente retornen al país en los términos del artículo 103 de la Ley Aduanera;
+
+II. Las de vehículos en franquicia, realizadas conforme a lo dispuesto por los artículos 61 fracción I y 62 de la Ley Aduanera, siempre que sean efectuadas por misiones diplomáticas y consulares, y su personal extranjero, acreditados ante el Gobierno de los Estados Unidos Mexicanos, o por las oficinas de los organismos internacionales representados, o con sede en el territorio nacional, y su personal extranjero acreditado ante la Secretaría de Relaciones Exteriores, y
+
+III. Las importaciones de vehículos cuyo número de serie o año-modelo tenga una antigüedad igual o mayor a 30 años anterior al vigente, y siempre que tengan un peso bruto vehicular inferior o igual a 8,864 kilogramos.
+
+###### ARTICULO 13.
+
+Las mercancías identificadas en los artículos 1o., 3o. y 6o. del presente Acuerdo, que habiendo sido exportadas temporalmente para elaboración, transformación o reparación en los términos del artículo 117 de la Ley Aduanera retornen al país, estarán obligadas a cumplir con el permiso a que se refieren dichos artículos.
+
+###### ARTICULO 14.
+
+La Secretaría de Economía, en coordinación con la Comisión de Comercio Exterior, revisará anualmente las listas de mercancías sujetas a las regulaciones no arancelarias del presente Acuerdo, a fin de excluir de éste las mercancías cuya regulación se considere innecesaria, o integrar las que se consideren convenientes, en base a los criterios técnicos aplicables.
+
+###### ARTICULO 15.
+
+El cumplimiento de lo dispuesto en el presente Acuerdo no exime del cumplimiento de cualquier otro requisito o regulación a los que esté sujeta la importación o exportación de mercancías, según corresponda, conforme a las disposiciones legales aplicables.
+
+## TRANSITORIOS
+
+PRIMERO.- El presente Acuerdo entrará en vigor a los cinco días hábiles de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abrogan el Acuerdo que establece la clasificación y codificación de mercancías cuya importación y exportación está sujeta al requisito de permiso previo por parte de la Secretaría de Economía, publicado en el Diario Oficial de la Federación el 26 de marzo de 2002, y sus reformas publicadas en el mismo medio informativo el 3 de julio, 3 de diciembre y 31 de diciembre de 2002, 24 de febrero, 30 de junio, 18 de noviembre y 15 de diciembre de 2003, 4 de marzo y 6 de abril de 2005.
+
+TERCERO.- Los permisos previos de importación o de exportación que hayan sido expedidos al amparo del Acuerdo citado en el artículo Transitorio anterior, continuarán vigentes hasta la fecha que se indique en el documento correspondiente y podrán continuar siendo utilizados para los efectos para los que fueron emitidos.
+
+México, D.F., a 31 de octubre de 2005.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
