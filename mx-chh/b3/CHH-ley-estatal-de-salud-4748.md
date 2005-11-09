@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-4748"
 country: "mx"
 rank: "ley"
 publication_date: "1987-03-11"
-last_updated: "2004-08-07"
+last_updated: "2005-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2005.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 11 de marzo de 1987.
 
@@ -87,7 +87,9 @@ IV.- La salud mental;
 
 V.- La organización, coordinación y vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud;
 
-VI.- La promoción de la formación de recursos humanos para la salud;
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2005)</small>
+
+VI.- La promoción de la formación de recursos humanos para la salud; así como su capacitación y actualización permanente;
 
 VII.- La coordinación de la investigación para la salud y el control de ésta en seres humanos;
 
@@ -257,9 +259,11 @@ El Ejecutivo del Estado, con la participación que corresponda al Comité de Pla
 
 ### CAPITULO II. DISTRIBUCION DE COMPETENCIAS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 12.
 
-Corresponde al Ejecutivo del Estado por conducto de la Dirección General de Desarrollo Social:
+Corresponde al Ejecutivo del Estado por conducto de la Secretaría de Fomento Social:
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1994)</small>
 
@@ -275,13 +279,19 @@ III.- Formular y desarrollar programas locales de salud en el marco del Sistema 
 
 IV.- Promover, orientar, fomentar y apoyar las acciones en materia de salud local a cargo de los municipios, con sujeción a las políticas nacional y estatal de salud y a los convenios que al efecto se celebren;
 
-V.- Vigilar y hacer cumplir, en la esfera de su competencia, la Ley General de Salud, esta Ley y demás disposiciones legales aplicables;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE NOVIEMBRE DE 2005)</small>
+
+V.- Educar, capacitar y actualizar permanentemente a los profesionales de la salud;
+
+VI.- Vigilar y hacer cumplir, en la esfera de su competencia, la Ley General de Salud, esta Ley y demás disposiciones legales aplicables;
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1994)</small>
 
-VI.- Celebrar con la federación los acuerdos de coordinación en materia de salud general concurrente y los convenios en los que, en los términos de la fracción X del artículo 115 de la Constitución General de la República, asuma el ejercicio de sus funciones, la ejecución y operación de obras y la prestación de servicios sanitarios, cuando el desarrollo económico y social lo haga necesario, así como los convenios con los municipios para la prestación de servicios sanitarios locales; y
+VII.- Celebrar con la federación los acuerdos de coordinación en materia de salud general concurrente y los convenios en los que, en los términos de la fracción X del artículo 115 de la Constitución General de la República, asuma el ejercicio de sus funciones, la ejecución y operación de obras y la prestación de servicios sanitarios, cuando el desarrollo económico y social lo haga necesario, así como los convenios con los municipios para la prestación de servicios sanitarios locales; y
 
-VII.- Las demás que sean necesarias para hacer efectivas las facultades anteriores y las que se deriven de la Ley General de Salud, de esta Ley y de otras disposiciones legales aplicables.
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE NOVIEMBRE DE 2005)</small>
+
+VIII.- Las demás que sean necesarias para hacer efectivas las facultades anteriores y las que se deriven de la Ley General de Salud, de esta Ley y de otras disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1994)</small>
 
@@ -389,7 +399,9 @@ IV.- La atención materno-infantil;
 
 V.- La planificación familiar;
 
-VI.- La salud mental;
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2005)</small>
+
+VI.- La salud mental; incluyendo la intervención inmediata en casos de crisis emocional;
 
 VII.- La prevención y el control de las enfermedades bucodentales;
 
@@ -641,15 +653,23 @@ El Ejecutivo del Estado coadyuvará con la Secretaría de Salud en las acciones 
 
 La prevención de las enfermedades mentales se basará en el conocimiento de los factores que afecten la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control de las enfermedades mentales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 67.
 
-Para la promoción de la salud mental, la Dirección General de Desarrollo Social y las instituciones de salud en coordinación con las autoridades competentes en cada materia, fomentarán y apoyarán:
+Para la promoción de la salud mental, la Secretaría de Fomento Social y las instituciones de salud, en coordinación con las autoridades competentes en cada materia, fomentarán y apoyarán:
 
 I.- El desarrollo de actividades educativas, socio-culturales y recreativas que contribuyan a la salud mental, preferentemente de la infancia y de la juventud;
 
 II.- La difusión de las orientaciones para la promoción de la salud mental;
 
-III.- La realización de programas para la prevención del uso de substancias sicotrópicas, estupefacientes, inhalantes y otras substancias que puedan causar alteraciones mentales o dependencia; y
+III.- La realización de programas para la prevención del uso de substancias sicotrópicas, estupefacientes, inhalantes y otras substancias que puedan causar alteraciones mentales o dependencia; y (sic)
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE NOVIEMBRE DE 2005)</small>
+
+IV.- La capacitación y actualización permanente de los profesionales en la materia;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE NOVIEMBRE DE 2005)</small>
 
 IV.- Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
 
@@ -657,9 +677,17 @@ IV.- Las demás acciones que directa o indirectamente contribuyan al fomento de 
 
 La atención de las enfermedades mentales comprende:
 
-I.- El cuidado de personas con padecimientos mentales, la rehabilitación siquiátrica de enfermos mentales crónicos, deficientes mentales, alcohólicos y personas que usen habitualmente estupefacientes o substancias sicotrópicas; y
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2005)</small>
 
-II.- La organización, operación y supervisión de instituciones dedicadas al estudio, tratamiento y rehabilitación de enfermos mentales.
+I.- El cuidado de personas con padecimientos mentales, la rehabilitación siquiátrica de enfermos mentales crónicos, deficientes mentales, alcohólicos y personas que usen habitualmente estupefacientes o substancias sicotrópicas, así como de aquellas que han caído en crisis emocional y que han tenido intento de suicidio;
+
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2005)</small>
+
+II.- La organización, operación y supervisión de instituciones dedicadas al estudio, tratamiento y rehabilitación de enfermos mentales;
+
+> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2005)</small>
+
+III.- El internamiento de personas con padecimientos mentales en establecimientos destinados a su tratamiento, control y/o curación. El internamiento deberá ser necesariamente, a referencia de un profesional de salud mental, se ajustará a las disposiciones legales aplicables, a los principios éticos y sociales, y a los requisitos que determinen la Secretaría de Salud del Gobierno Federal y, en su caso, la Secretaría de Fomento Social, respetando la dignidad del usuario y propiciando su reintegración a la vida social.
 
 ###### ARTICULO 69.
 
@@ -735,9 +763,11 @@ Las autoridades sanitarias del Estado, con la participación de las institucione
 
 ### CAPITULO III. FORMACION, CAPACITACION Y ACTUALIZACION DEL PERSONAL
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 80.
 
-Las autoridades educativas, en coordinación con las autoridades sanitarias estatales y con la participación de las instituciones de educación superior, recomendarán normas y criterios para la formación de recursos humanos para la salud.
+Las autoridades educativas, en coordinación con las autoridades sanitarias estatales y con la participación de las instituciones de educación superior, recomendarán normas y criterios para la formación, capacitación y actualización permanente de recursos humanos para la salud.
 
 Las autoridades sanitarias, sin perjuicio de la competencia que sobre la materia corresponda a las autoridades educativas y en coordinación con ellas, así como con la participación de las instituciones de salud, establecerán las normas y criterios para la capacitación y actualización de los recursos humanos para la salud.
 
@@ -745,7 +775,9 @@ Las autoridades sanitarias, sin perjuicio de la competencia que sobre la materia
 
 Corresponde al Ejecutivo del Estado, sin perjuicio de las atribuciones de las autoridades educativas en la materia y en coordinación con éstas:
 
-I.- Promover actividades tendientes a la formación, capacitación y actualización de los recursos humanos que se requieran para la satisfacción de las necesidades del País en materia de salud;
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2005)</small>
+
+I.- Promover actividades tendientes a la formación, capacitación y actualización de los recursos humanos que se requieran para la satisfacción de las necesidades del Estado en materia de salud;
 
 II.- Apoyar la creación de centros de capacitación y actualización de los recursos humanos para la salud;
 
@@ -878,6 +910,10 @@ III.- Orientar y capacitar a la población en materia de nutrición, salud menta
 Las autoridades sanitarias estatales, en coordinación con las autoridades federales competentes, propondrán y desarrollarán programas de educación para la salud, procurando optimizar los recursos y alcanzar una cobertura total de la población.
 
 El Ejecutivo del Estado, en coordinación con las autoridades federales competentes, promoverán programas de educación para la salud que puedan ser difundidos en los medios masivos de comunicación social.
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2005)</small>
+
+La divulgación o emisión de publicaciones, imágenes o escenas vinculadas directamente con el suicidio o pérdida de la vida por cualquier otra causa, deberá realizarse de manera seria, responsable y sin propósitos sensacionalistas.
 
 ### CAPITULO III. NUTRICION
 
@@ -2284,3 +2320,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE NOVIEMBRE DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
