@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2005-10-17"
+last_updated: "2005-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO NUMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE NOVIEMBRE DE 2005.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -2211,13 +2211,15 @@ b) Para ocupar zonas para estacionamiento exclusivo en las vías públicas, cuan
 
 Por revalidación anual 3 salarios mínimos
 
-> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO, G.O. 9 DE NOVIEMBRE DE 2005)</small>
 
 c) Para establecer el servicio al público de estacionamiento de vehículos en inmuebles particulares, de conformidad con la Ley de Tránsito y Transporte y su Reglamento:
 
-400 salarios mínimos
+100 salarios mínimos
 
-Por revalidación anual 150 salarios mínimos
+Por revalidación anual
+
+50 salarios mínimos
 
 > <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
 
@@ -8294,3 +8296,9 @@ Primero. El presente Decreto iniciará su vigencia al día siguiente de su publi
 Segundo. Las reformas a las Leyes complementarias iniciarán su vigencia en la misma fecha que las reformas a la Constitución.
 
 Tercero. Publíquese en la Gaceta Oficial, órgano del gobierno del estado.
+
+G.O. 9 DE NOVIEMBRE DE 2005.
+
+Artículo primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo segundo. Se derogan las disposiciones que se opongan al presente decreto.
