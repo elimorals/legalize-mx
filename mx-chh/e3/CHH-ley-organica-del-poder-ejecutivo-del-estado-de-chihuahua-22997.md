@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2005-05-25"
+last_updated: "2005-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2005.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -461,11 +461,19 @@ XI.- Desarrollar programas de salud tendientes a erradicar el consumo de sustanc
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-XII.- Desarrollar programas para garantizar a la mujer la igualdad de oportunidades, respaldando su papel fundamental en la integración social y familiar; y
+XII.- Desarrollar programas para garantizar a la mujer la igualdad de oportunidades, respaldando su papel fundamental en la integración social y familiar; y (sic)
 
-> <small>(ADICIONADA, P.O. 29 DE ENERO DE 1994)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE NOVIEMBRE DE 2005)</small>
 
-XIII.- Las demás que le atribuyan expresamente las leyes y sus reglamentos.
+XIII.- Organizar y promover talleres, seminarios, diplomados, conferencias y demás instrumentos académicos que tiendan a la formación, capacitación y actualización de los recursos humanos para la salud;
+
+> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2005)</small>
+
+XIV.- Promover, coordinar y realizar la evaluación permanente de programas y servicios de salud que le sean solicitados por el Ejecutivo Estatal; así como el Programa de Salud Mental; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE NOVIEMBRE DE 2005)</small>
+
+XV.- Las demás que le atribuyan expresamente las leyes y sus reglamentos.
 
 > <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
 
@@ -1384,3 +1392,7 @@ Los agentes de la policía al mando del Ministerio Público que se encuentren en
 ###### ARTÍCULO CUARTO.
 
 Los elementos de la Agencia Estatal de Investigación que hubiesen egresado de la Academia Estatal de Policía, deberán cumplir con los programas de profesionalización que precise el Centro de Estudios Penales y Forenses.
+
+P.O. 9 DE NOVIEMBRE DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
