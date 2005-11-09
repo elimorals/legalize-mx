@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-secretaria-de-comunicaciones-y-41097"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-08-23"
-last_updated: "2004-08-23"
+last_updated: "2005-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41097&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE COMUNICACIONES Y TRANSPORTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2005.
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Puebla, el lunes 23 de agosto de 2004.
 
@@ -86,6 +86,10 @@ Para el estudio, planeación y ejercicio de las funciones y despacho de los asun
 - Dirección de Operación del Transporte.
 
 - Dirección de Dictaminación y Trámite.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE NOVIEMBRE DE 2005)</small>
+
+- Dirección de Innovación y Desarrollo Normativo del Transporte.
 
 - Dirección de Asuntos Jurídicos.
 
@@ -831,9 +835,39 @@ VI.- Recibir y resolver las quejas y sugerencias de la ciudadanía, con respecto
 
 VII.- Las que le otorguen el presente Reglamento y demás disposiciones legales en la materia, así como las que le encomienden expresamente sus superiores dentro de sus atribuciones; (sic)
 
-### CAPÍTULO XVIII. DE LA DIRECCIÓN DE ASUNTOS JURÍDICOS
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 9 DE NOVIEMBRE DE 2005)</small>
 
-### CAPÍTULO XIX. DE LA DIRECCIÓN DE LA UNIDAD DE DESARROLLO ADMINISTRATIVO, PLANEACIÓN E INFORMÁTICA
+### CAPÍTULO XVII BIS. DE LA DIRECCIÓN DE INNOVACIÓN Y DESARROLLO NORMATIVO DEL TRANSPORTE
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2005)</small>
+
+ARTÍCULO 24 BIS.- La Dirección de Innovación y Desarrollo Normativo del Transporte dependerá directamente de la Coordinación General del Transporte y tendrá además de las atribuciones previstas en el artículo 16 del presente Reglamento, las siguientes:
+
+I.- Realizar las acciones tendientes para manejar, administrar, recuperar y destinar los créditos otorgados a los concesionarios, por motivo de la modernización del transporte, en el ámbito de su competencia;
+
+II.- Llevar a cabo en coordinación con la unidad administrativa competente de la Secretaría, los procedimientos respectivos para garantizar el cumplimiento de las obligaciones adquiridas por los transportistas acreditados en términos de los ordenamientos legales y reglamentarios aplicables y de conformidad con los actos jurídicos que al efecto se hayan suscrito;
+
+III.- Coadyuvar con la Dirección de Ingeniería del Transporte en el análisis y diagnóstico de las tarifas aplicables al servicio de transporte;
+
+IV.- Efectuar los estudios técnicos correspondientes y realizar el proyecto que contendrá los lineamientos a los que deberá sujetarse la instalación de publicidad en los medios de transporte;
+
+V.- Elaborar y proponer al superior jerárquico el programa anual sectorial del transporte que aplicará, integrará y coordinará en su ejecución la Dirección de la Unidad de Desarrollo Administrativo, Planeación e Informática;
+
+VI.- Colaborar en la práctica de revistas e inspecciones técnicas y operativas de carácter periódico, que se realicen a los vehículos destinados al servicio público de transporte y al servicio mercantil, en términos de lo dispuesto por las disposiciones legales y reglamentarias aplicables;
+
+VII.- Coadyuvar y supervisar con las autoridades correspondientes el establecimiento de paraderos, sitios y bases para la prestación del servicio público de transporte o transporte mercantil de personas en vehículo de alquiler o taxi, de acuerdo a los estudios técnicos realizados por la Secretaría, con la finalidad de obtener las autorizaciones respectivas;
+
+VIII.- Coadyuvar con el Coordinar (sic) General del Transporte para fomentar la constitución legal de organizaciones de concesionarios o permisionarios en sociedades, para poder acceder a los beneficios en materia del transporte, previo acuerdo de aquél con el Subsecretario de Transportes;
+
+IX.- Difundir y supervisar, en su caso, los lineamientos técnicos que deberán observar las autoridades municipales y grupos sociales organizados, en la elaboración de sus proyectos para la prestación del servicio en materia del transporte, previo acuerdo con su superior jerárquico;
+
+X.- Realizar y desarrollar foros de opinión y análisis en materia de transporte Estatal, Regional y Municipal, previo acuerdo de su superior jerárquico;
+
+XI.- Fomentar e inducir con apoyo de las autoridades municipales y organismos legalmente constituidos la renovación del parque vehicular del servicio público de transporte y transporte mercantil de personas, en términos de la ley aplicable, y
+
+XII.- Las que le otorgue el presente Reglamento y demás ordenamientos legales vigentes, así como las que le confiera su superior jerárquico.
+
+### CAPÍTULO XVIII. DE LA DIRECCIÓN DE ASUNTOS JURÍDICOS
 
 ###### ARTÍCULO 25.
 
@@ -881,7 +915,7 @@ XX.- Intervenir en el ámbito de su competencia, en los procesos de expropiació
 
 XXI.- Las que le otorgue el presente Reglamento y demás ordenamientos legales vigentes, así como las que le confiera el Secretario.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO XIX. DE LA DIRECCIÓN DE LA UNIDAD DE DESARROLLO ADMINISTRATIVO, PLANEACIÓN E INFORMÁTICA
 
 ###### ARTÍCULO 26.
 
@@ -951,6 +985,8 @@ XXXI.- Las que le otorgue el presente Reglamento y demás ordenamientos legales 
 
 ## TÍTULO TERCERO. DE LA SUPLENCIA DE LOS FUNCIONARIOS DE LA SECRETARÍA
 
+### CAPÍTULO ÚNICO
+
 ###### ARTÍCULO 27.
 
 El Secretario será suplido en sus ausencias, por los Subsecretarios conforme al ámbito de su competencia o en su caso, por el servidor público que al efecto designe el Gobernador del Estado.
@@ -970,3 +1006,15 @@ TERCERO.- Cuando las funciones de una unidad administrativa establecida con ante
 CUARTO.- En cuanto se expidan los manuales que este Reglamento menciona, el Titular de la Secretaría ventilará las cuestiones que conforme a dichos manuales se deban regular.
 
 Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los once días del mes de agosto del año dos mil cuatro.- "Sufragio Efectivo. No Reelección".- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- MAESTRO EN DERECHO CARLOS ARREDONDO CONTRERAS.- Rúbrica.- El Secretario de Comunicaciones y Transportes.- LICENCIADO MARCO ANTONIO ROJAS FLORES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 9 DE NOVIEMBRE DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
