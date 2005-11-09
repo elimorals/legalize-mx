@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-regular-el-uso-de-la-via-publica-en-el-19679"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-09-06"
-last_updated: "2001-02-09"
+last_updated: "2005-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA REGULAR EL USO DE LA VIA PUBLICA EN EL EJERCICIO DE LA ACTIVIDAD COMERCIAL DE LA CIUDAD DE MONTERREY, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2005.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 6 de septiembre de 2000.
 
@@ -533,9 +533,39 @@ V.- Es obligación de los comerciantes del Mercado Rodante tener un contrato con
 
 VI.- Es obligación de los comerciantes del Mercado Rodante contar con baños sanitarios portátiles para el uso propio de los oferentes y de los compradores, los cuales deberán de retirarse una vez que terminen las labores de trabajo.
 
-### Capítulo XIII. De la retención de bienes o mercancías
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE NOVIEMBRE DE 2005)</small>
 
-### Capítulo XIV. Retiro o Reubicación
+### Capítulo XII BIS. Comercio de Tortillas de Nixtamal de Maíz, de Harina, de Trigo, y sus Derivados
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2005)</small>
+
+Art. 49 BIS.- Todos (sic) las personas físicas o morales que comercialicen este producto en el municipio de Monterrey, en la vía pública estarán sujetas al presente Reglamento, y deberán obtener el permiso de la Autoridad municipal correspondiente, en este caso la Dirección de Comercio.
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2005)</small>
+
+Art. 49 BIS 1.- Para obtener el permiso deberá de cumplir con los siguientes requisitos:
+
+I.- El interesado deberá anexar el croquis del área en la que va ha (sic) comercializar su producto, elaborando las rutas determinadas, trayectos y colonias;
+
+II.- En el caso de vehículos de motor, triciclo o cualquier otro que se utilice como transporte, deberá de contar con la razón social a la que pertenece, ya sea persona física o moral, donde se indique el nombre de la tortillería, el domicilio donde se elabora el producto, teléfono del negocio y teléfono de la Dirección de Comercio; obligándose el solicitante a, que en caso de otorgarse la autorización colocará en el o los vehículos que utilice como transporte, el número de permiso correspondiente;
+
+III.- Los vehículos de motor que se utilicen para la distribución de las tortillas deberá contar con seguro de responsabilidad civil, así como también el conductor de la unidad deberá de contar con la licencia de chofer vigente, a fin de salvaguardar los intereses de terceros en caso de accidente;
+
+IV.- Los vehículos de motor o triciclo que se utilicen para dicha actividad deberán de respetar los negocios y establecimientos que se dediquen a la venta de tortillas en un área de 300 metros radiales para no lastimar los intereses a terceros;
+
+V.- Los vehículos que sean utilizados para la comercialización de la tortilla de nixtamal, deberán de contar con las adecuaciones necesarias para que el traslado y manejo de los productos se lleve a cabo higiénicamente;
+
+VI.- En el proceso de elaboración de las tortillas de maíz deberá ser etiquetado y empaquetado como establece la Secretaría de Salud del Estado con la razón social y sello del negocio;
+
+VII.- En caso de que tenga necesidad de publicitarse por medio de perifoneo deberá solicitar el permiso ante la Autoridad correspondiente, respetando los decibeles para no causar molestias a la población;
+
+VIII.- Toda persona física o moral que se dedique a esta actividad de distribuir las tortillas de maíz deberá de cumplir con un horario de las 7:00 a las 13:00 horas;
+
+IX.- Queda estrictamente prohibido comercializar la venta de tortilla si no se cumplen los lineamientos que se mencionan en el presente artículo; y
+
+X.- Las demás que obligue este Reglamento.
+
+### Capítulo XIII. De la retención de bienes o mercancías
 
 ###### Art. 50.
 
@@ -565,7 +595,7 @@ Se declara de interés público el retiro de puestos y la revocación del permis
 
 Tratándose de locales o puestos abandonados o que se encuentren sin operar por más de 15 días naturales sin causa justificada, el Director de Comercio, previa acta circunstanciada que se levante ante dos testigos, procederá a clausurar el puesto o local, fijando en el mismo acto cédula citatoria para que el interesado comparezca a alegar lo que a su derecho convenga, dentro de un plazo perentorio de 3 días hábiles. Si no ocurre se procederá a cancelar el permiso respectivo y a retirar las instalaciones.
 
-### Capítulo XV. De las Visitas de Inspección
+### Capítulo XIV. Retiro o Reubicación
 
 ###### Art. 57.
 
@@ -579,7 +609,7 @@ III.- Cuando por las reiteradas quejas de las juntas de colonos o la mayoría de
 
 IV.- Los comerciantes que por su giro utilicen energía eléctrica, deberán contar con el contrato correspondiente ante la Comisión Federal de Electricidad.
 
-### Capítulo XVI. De las Sanciones
+### Capítulo XV. De las Visitas de Inspección
 
 ###### Art. 58.
 
@@ -619,7 +649,7 @@ VI.- Descripción de los hechos ocurridos durante la visita y las observaciones 
 
 VII.- Cierre del acta, firmarán todos los que en ella intervinieron. Se deberá entregar copia de ésta, al comerciante visitado.
 
-### Capítulo XVII. Clausuras y Revocaciones
+### Capítulo XVI. De las Sanciones
 
 ###### Art. 64.
 
@@ -663,7 +693,7 @@ Para determinar las sanciones, la Dirección de Comercio tomará en cuenta la na
 
 A los comerciantes que realicen cualquier actividad regulada en este Reglamento, sin contar con el permiso correspondiente, les serán retiradas de la vía pública sus mercancías, así como sus instalaciones e implementos de trabajo y se les aplicará la sanción correspondiente.
 
-### Capítulo XVIII. Del Recurso de Inconformidad
+### Capítulo XVII. Clausuras y Revocaciones
 
 ###### Art. 71.
 
@@ -741,6 +771,8 @@ Se iniciará el trámite de revocación del permiso por el C. Director de Comerc
 
 De acordarse la revocación, se enviará copia de la resolución al Tesorero Municipal, para la baja del número de cuenta y el cobro de los créditos fiscales que se hayan generado.
 
+### Capítulo XVIII. Del Recurso de Inconformidad
+
 ###### Art. 78.
 
 Contra los actos y resoluciones emitidas por las Autoridades Municipales, procederá el Recurso de Inconformidad contemplado en el Capítulo XV del Reglamento de la Administración Pública Municipal del Municipio de Monterrey en vigor.
@@ -793,13 +825,13 @@ Dado en la Sala de Sesiones del R. Ayuntamiento de Monterrey, N. L., a los trein
 
 El C. Presidente Municipal
 
-C.P. Jesús María Elizondo González.
+C.P. Jesús María Elizondo González
 
 El C. Secretario del R. Ayuntamiento
 
 Lic. Arnulfo Flores Rodríguez.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 23 DE OCTUBRE DE 2000.
 
@@ -808,3 +840,11 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 9 DE FEBRERO DE 2001.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
+
+P.O. 9 DE NOVIEMBRE DE 2005.
+
+PRIMERO.- Una vez aprobado lo anterior, la Secretaría del R. Ayuntamiento deberá turnar para su publicación la presente reforma, tanto en el Periódico Oficial del Estado como en la Gaceta Municipal. Lo anterior con fundamento en lo establecido por los artículos 27, fracción IV y 167 de la Ley Orgánica de la Administración Pública Municipal y, 76, fracción VI del Reglamento Interior del R. Ayuntamiento de la Ciudad de Monterrey.
+
+SEGUNDA.- La presente reforma al Reglamento para Regular el Uso de la Vía Pública en el Ejercicio de la Actividad Comercial de la Ciudad de Monterrey, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad con el artículo 161 de la Ley Orgánica de la Administración Pública Municipal del Estado.
+
+TERCERA.- Las personas físicas y morales que actualmente estén llevando a cabo la comercialización de tortillas de nixtamal y de harina de maíz y sus derivados en la vía pública del territorio del Municipio de Monterrey, Nuevo León, tendrá un plazo de 60 días naturales para llevar a cabo el trámite para obtener su permiso correspondiente.
