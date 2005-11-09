@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-de-baja-california-sur-44518"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-03-20"
-last_updated: "2005-09-19"
+last_updated: "2005-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 19 DE SEPTIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 9 DE NOVIEMBRE DE 2005.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 20 de marzo de 2005.
 
@@ -1165,9 +1165,13 @@ II.- Continúe ejerciendo sus funciones, empleo, cargo o comisión, después de 
 
 III.- Ejerza funciones públicas distintas de las que le corresponden; y
 
-IV.- Haga uso indebido de documentos o información a los que tenga acceso o sustraiga, destruya o utilice ilícitamente informes o documentación que se encuentre bajo su custodia, en virtud de su empleo, cargo o comisión.
+> <small>(REFORMADA, B.O. 9 DE NOVIEMBRE DE 2005)</small>
 
-Al que cometa alguno de los delitos previstos en este artículo se le impondrán de seis meses a tres años de prisión.
+IV.- Por si o por interpósita persona, sustraiga, destruya, oculte, utilice o inutilice ilícitamente información o documentación que se encuentre bajo su custodia o a la cual tenga acceso, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 9 DE NOVIEMBRE DE 2005)</small>
+
+Al que cometa alguno de los delitos a que se refieren las fracciones I y II de este artículo, se le impondrán de seis meses a tres años de prisión y hasta doscientos días de multa, o destitución, en su caso, e inhabilitación de seis meses a tres años para desempeñar otro empleo, cargo o comisión públicos. Al infractor de las fracciones III, y IV, se le impondrán de tres a ocho años de prisión y hasta doscientos días de multa, destitución e inhabilitación de tres a ocho años para desempeñar otro empleo, cargo o comisión públicos.
 
 ###### ARTÍCULO 146.
 
@@ -1241,9 +1245,11 @@ Será castigado con prisión de uno a nueve años, el servidor público que, dir
 
 ### CAPÍTULO IX. PECULADO
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 9 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 154.
 
-Al servidor público que, en provecho propio o ajeno, disponga de dinero, valores o cualquier otro bien que hubiese recibido en razón de su función, se impondrán las siguientes sanciones:
+Todo servidor público que para usos propios o ajenos distraiga de su objeto dinero, valores, fincas, o cualquier otra cosa perteneciente al Estado, Municipios, organismos descentralizados, o a un particular, si por razón de su cargo los hubiera recibido en administración, en depósito o por otra causa, se impondrán las siguientes sanciones:
 
 I.- Cuando el monto de lo dispuesto no exceda de mil veces el salario o no sea valuable, prisión de dos a seis años, multa de ochenta a doscientas veces el salario, inhabilitación de seis meses a tres años para desempeñar otro empleo, cargo o función pública y destitución en su caso.
 
@@ -1267,9 +1273,15 @@ Al responsable de traficar con sus influencias, será castigado con pena de uno 
 
 ### CAPÍTULO XII. EJERCICIO ABUSIVO DE FUNCIONES
 
+> <small>(REFORMADO, B.O. 9 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 157.
 
-Ejerce indebidamente sus funciones y será castigado con la misma pena del tráfico de influencias, el servidor público que en el desempeño de su empleo, cargo o comisión, otorgue indebidamente, por sí o por interpósita persona, contratos, concesiones, licencias, autorizaciones, franquicias, exenciones o cualquier acto jurídico o que, valiéndose de la información oficial que posea, haga directamente o a través de otra persona, inversiones, enajenaciones, adquisiciones o cualquier negocio jurídico que produzca beneficios económicos para sí o para su cónyuge, concubino, concubina, o para cualquiera de sus parientes en los grados previstos por el código civil o, en su caso, para personas con las que tenga vínculos afectivos, económicos o de dependencia directa.
+Ejerce abusivamente sus funciones y será castigado con la misma pena que se castiga el delito de tráfico de influencias:
+
+I. El Servidor Público que en el desempeño de su empleo, cargo o comisión, indebidamente otorgue, por sí o por interpósita persona, contratos, concesiones, permisos, licencias, autorizaciones, franquicias, exenciones, efectúe compras o ventas o realice cualquier acto jurídico, que produzca algún beneficio económico al propio servidor público, a su cónyuge, concubino o concubina, o para cualquiera de sus parientes en los grados previstos por el Código Civil para el Estado ó para cualquier tercero con el que tenga vínculos afectivos, económicos o de dependencia administrativa directa, socios o sociedades de las que el servidor público o las personas antes referidas formen parte.
+
+II. El Servidor Público que, valiéndose de la información que posea por razón de su empleo, cargo o comisión, sea o no materia de sus funciones, y que no sea del conocimiento público, haga por sí, o por interpósita persona, inversiones ó enajenaciones ó adquisiciones, o cualquier otro acto jurídico, que le produzca algún beneficio económico indebido al propio servidor público, o a alguna de las personas mencionadas en la fracción anterior.
 
 ###### ARTÍCULO 158.
 
@@ -2864,3 +2876,7 @@ C. LIC. VÍCTOR DANIEL MADRIGAL BARBOSA
 B.O. 19 DE SEPTIEMBRE DE 2005.
 
 UNICO.- El presente decreto entrará en vigor previa publicación en el Boletín Oficial del Gobierno del Estado, el día en que entre en vigor los decretos 1525 y 1526, que contienen los Códigos Penal y de Procedimientos Penales para el Estado de Baja California Sur, publicados en el Boletín Oficial del Gobierno del Estado en fecha 20 de marzo del año en curso.
+
+B.O. 9 DE NOVIEMBRE DE 2005.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el boletín oficial de Gobierno del Estado de Baja California Sur.
