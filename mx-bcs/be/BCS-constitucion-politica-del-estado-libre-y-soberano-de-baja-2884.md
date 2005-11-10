@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2005-07-05"
+last_updated: "2005-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 5 DE JULIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE NOVIEMBRE DE 2005.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -489,7 +489,9 @@ III.- Los Ayuntamientos
 
 IV.- El Tribunal Superior de Justicia
 
-V.- Los ciudadanos del Estado registrados en la lista nominal de electores, cuyo número represente cuando menos el 0.5% del total de dicho registro, mediante escrito presentado en los términos y con las formalidades que exijan las leyes respectivas, así como por conducto del Diputado de su distrito.
+> <small>(REFORMADA, B.O. 10 DE NOVIEMBRE DE 2005)</small>
+
+V.- Los ciudadanos del Estado registrados en la lista nominal de electores, cuyo número represente cuando menos el 0.1% del total de dicho registro, mediante escrito presentado en los términos y con las formalidades que exijan las leyes respectivas, así como por conducto del Diputado de su distrito.
 
 > <small>(REFORMADO, B.O. 10 DE MAYO DE 2003)</small>
 
@@ -1515,7 +1517,7 @@ Cuando la desaparición de poderes se dé en el último año del período de gob
 
 146.- Si en el acto de instalación no estuviere presente el Presidente Municipal, el ayuntamiento se instalará con el Primer Regidor, quien rendirá la protesta y a continuación la tomará a los demás miembros que estén presentes.
 
-147.- Concluída la sesión de instalación, el Presidente, o quien haga sus veces, notificará de inmediato a los miembros propietarios ausentes para que asuman su cargo en un plazo no mayor de quince días.
+147.- Concluida la sesión de instalación, el Presidente, o quien haga sus veces, notificará de inmediato a los miembros propietarios ausentes para que asuman su cargo en un plazo no mayor de quince días.
 
 Si no se presentan transcurrido este plazo, los suplentes entrarán en ejercicio definitivo.
 
@@ -2452,3 +2454,9 @@ B.O. 5 DE JULIO DE 2005.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE NOVIEMBRE DE 2005.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
