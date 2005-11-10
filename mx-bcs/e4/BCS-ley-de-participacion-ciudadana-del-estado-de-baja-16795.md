@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-participacion-ciudadana-del-estado-de-baja-16795"
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-10"
-last_updated: "2000-07-10"
+last_updated: "2005-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE PARTICIPACION CIUDADANA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE NOVIEMBRE DE 2005.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de julio de 2000.
 
@@ -413,7 +413,9 @@ El Congreso del Estado desechará de plano toda Iniciativa Ciudadana que no se r
 
 La Iniciativa Ciudadana deberá dirigirse (sic) el H. Congreso del Estado y se presentará en la Oficialía Mayor del Poder Legislativo, debiendo contener como requisitos indispensables:
 
-I.- El nombre, firma, número de folio de la credencial de elector y sección de los electores solicitantes, debiendo ser estos al menos el 0.5% del total de los ciudadanos inscritos en la Lista Nominal de Electores correspondiente al Estado de Baja California Sur;
+> <small>(REFORMADA, B.O. 10 DE NOVIEMBRE DE 2005)</small>
+
+I.- El nombre, firma, número de folio de la credencial de elector y sección de los electores solicitantes, debiendo ser estos al menos el 0.1% del total de los ciudadanos inscritos en la lista nominal de Electores correspondiente al Estado de Baja California Sur;
 
 II.- Domicilio en la capital del Estado y nombrar un representante común para recibir notificaciones y participar en las discusiones en la Comisión respectiva, sin derecho a voto;
 
@@ -486,3 +488,9 @@ C. LIC. LEONEL EFRAÍN COTA MONTAÑO.
 SECRETARIO GENERAL DE GOBIERNO.
 
 C. LIC. VÍCTOR MANUEL GULUARTE CASTRO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 10 DE NOVIEMBRE DE 2005.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
