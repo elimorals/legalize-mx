@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-procedimientos-civiles-para-el-estado-de-sonora-8454"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "2005-06-30"
+last_updated: "2005-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE NOVIEMBRE DE 2005.
 
 Código publicado en la Sección Tercera del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -6969,6 +6969,10 @@ II.- Extrajudicialmente, ante Notario Público, pero sólo en los casos en que l
 
 El juez competente o el notario público que inicie un procedimiento sucesorio deberá solicitar al Registro Público de la Propiedad, a la Dirección General de Notarías y al Registro Nacional de Avisos de Testamento, un informe sobre la existencia o inexistencia de alguna disposición testamentaria otorgada por el autor de la sucesión.
 
+> <small>(ADICIONADO, B.O. 10 DE NOVIEMBRE DE 2005)</small>
+
+Cuando exista algún convenio o acuerdo entre las autoridades ejecutivas federales y locales que haga razonablemente factible que éstas puedan tener almacenada la información sobre testamentos de que dispongan aquellas, los jueces o notarios que conozcan de un procedimiento sucesorio podrán solicitar directamente a la Dirección General de Notarías tanto el informe estatal como el nacional sobre la existencia o inexistencia de disposición testamentaria otorgada por el autor de la sucesión, sin necesidad de dirigirse directamente al Registro Nacional de Avisos de Testamento.
+
 ###### Art. 755.
 
 El juicio sucesorio testamentario o intestado, se inicia mediante denuncia hecha por parte legítima. Una vez admitida la denuncia, el juez tendrá por radicada la sucesión.
@@ -8556,3 +8560,9 @@ Dentro de los 180 días naturales siguientes a la entrada en vigor de este Decre
 ###### ARTICULO TERCERO.
 
 Se derogan las disposiciones que se opongan a las del presente Decreto.
+
+B.O. 10 DE NOVIEMBRE DE 2005.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
