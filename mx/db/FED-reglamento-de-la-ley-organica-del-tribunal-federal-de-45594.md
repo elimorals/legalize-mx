@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-organica-del-tribunal-federal-de-45594"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-08-09"
-last_updated: "2005-08-09"
+last_updated: "2005-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45594&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-08-08"
 
 REGLAMENTO DE LA LEY ORGANICA DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA EN MATERIA DE NOMBRAMIENTOS Y RATIFICACIONES DE MAGISTRADOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE NOVIEMBRE DE 2005.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 9 de agosto de 2005.
 
@@ -57,7 +57,7 @@ El nombramiento y la ratificación de Magistrados estarán orientados a satisfac
 
 La Consejería Jurídica integrará los expedientes que contengan la documentación y demás información necesaria de conformidad con la Ley y el presente Reglamento, para el nombramiento o la ratificación de Magistrados del Tribunal, a efecto de que sean sometidos a la consideración del Presidente de la República.
 
-Para los efectos anteriores, las dependencias y entidades de la Administración Pública Federal deberán proporcionar a la Consejería Jurídica la información que ésta les solicite.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 10 DE NOVIEMBRE DE 2005)</small>
 
 ### Capítulo II. Del nombramiento de Magistrados
 
@@ -83,9 +83,11 @@ VI. Currículum profesional que incluya las constancias idóneas para acreditar 
 
 VII. Constancia de no inhabilitación en el caso de que el candidato sea o haya sido servidor público.
 
+> <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 2005)</small>
+
 ###### Artículo 7.
 
-La Consejería Jurídica podrá solicitar la opinión del Tribunal cuando los candidatos a Magistrados sean servidores públicos del propio Tribunal, sin que dicha opinión sea vinculante para el Presidente de la República.
+La Consejería Jurídica podrá solicitar la opinión del Tribunal cuando los candidatos a Magistrados sean servidores públicos del propio Tribunal.
 
 ###### Artículo 8.
 
@@ -107,7 +109,7 @@ La Secretaría dará seguimiento al proceso de aprobación de nombramientos de M
 
 Una vez que se reciba la comunicación del Tribunal sobre los casos de Magistrados que se encuentren próximos a concluir el periodo de su encargo, la Consejería Jurídica procederá a integrar el expediente correspondiente al Magistrado de que se trate.
 
-Las propuestas del Tribunal sobre ratificación o no ratificación, únicamente se referirán al nombre del Magistrado próximo a concluir su encargo, sin acompañar mayor información.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 10 DE NOVIEMBRE DE 2005)</small>
 
 ###### Artículo 12.
 
@@ -133,17 +135,19 @@ f) Un informe del Contralor del Tribunal que refleje, en su caso, el número de 
 
 g) La demás información que el Consejero Jurídico considere oportuna para la evaluación del Magistrado.
 
-La información a que se refieren los incisos a) a d) anteriores deberá presentarse segmentada por año, desde la fecha en que el Magistrado haya iniciado el periodo de su encargo y hasta la fecha en que sea entregada.
+> <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 2005)</small>
+
+La información a que se refieren los incisos a) a d) anteriores se solicitará segmentada por año, desde la fecha en que el Magistrado haya iniciado el periodo de su encargo y hasta la fecha en que sea entregada.
 
 ###### Artículo 13.
 
 La Consejería Jurídica podrá sostener entrevistas con el Magistrado, así como solicitarle la documentación que estime conveniente, con el fin de corroborar la información contenida en el expediente y los demás datos que permitan realizar una adecuada evaluación por parte del Presidente de la República.
 
+> <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 2005)</small>
+
 ###### Artículo 14.
 
-La Consejería Jurídica practicará al Magistrado de que se trate, por sí o a través de instituciones académicas públicas o privadas, exámenes relacionados con los conocimientos técnicos referidos a las materias competencia del Tribunal. De lo anterior se levantará el acta correspondiente.
-
-Asimismo, la Consejería Jurídica podrá solicitar a otras dependencias de la Administración Pública Federal y demás instituciones públicas o privadas, información adicional sobre el desempeño del Magistrado en el ejercicio de su encargo.
+El Presidente de la República, a través de la Consejería Jurídica, podrá allegarse de la información que estime pertinente para conocer y valorar el desempeño del Magistrado de que se trate.
 
 ###### Artículo 15.
 
@@ -157,16 +161,22 @@ La Secretaría dará seguimiento al proceso de aprobación de ratificaciones de 
 
 En caso de que el Presidente de la República resuelva no ratificar al Magistrado de que se trate, lo notificará al interesado expresando los motivos en que sustente su determinación.
 
+> <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 2005)</small>
+
 ###### Artículo 17.
 
-Los Magistrados del Tribunal que concluyan el periodo legal para el que hayan sido designados entregarán la magistratura y se abstendrán de ejercer las funciones del cargo, en los términos de las disposiciones jurídicas aplicables.
-
 Los Magistrados de Sala Superior que concluyan el periodo legal del cargo para el que fueron nombrados y que previamente hubieran adquirido el carácter de Magistrados de Sala Regional inamovibles, conservarán los derechos que se deriven de su calidad de Magistrados inamovibles para todos los efectos legales.
-
-En estos casos, el Pleno del Tribunal podrá adscribirlos a la Sala Regional que corresponda, de conformidad con las normas que rigen la organización y funcionamiento del propio Tribunal.
 
 ## TRANSITORIO
 
 ÚNICO. El presente ordenamiento entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
 Dado en la Residencia del Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los ocho días del mes de agosto de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 10 DE NOVIEMBRE DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los procesos de ratificación de Magistrados del Tribunal Federal de Justicia Fiscal y Administrativa que se hayan iniciado durante la vigencia de las disposiciones que se reforman o derogan por virtud de este Decreto, continuarán en su trámite hasta la conclusión de los mismos, en lo que no se oponga a los textos de los artículos que resultan modificados.
