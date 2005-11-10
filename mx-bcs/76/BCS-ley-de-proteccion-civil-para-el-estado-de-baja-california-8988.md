@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-proteccion-civil-para-el-estado-de-baja-california-8988"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-15"
-last_updated: "2000-12-31"
+last_updated: "2005-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE PROTECCION CIVIL PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DEL 2000.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE NOVIEMBRE DEL 2005.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el miércoles 15 de mayo de 1996.
 
@@ -189,7 +189,9 @@ II.- El Secretario General de Gobierno, quien será el Secretario Ejecutivo del 
 
 III.- El Director General de Gobierno, quien tendrá a su cargo la Secretaría Técnica del Consejo, así como la coordinación de la Unidad Estatal de protección civil.
 
-IV.- Los Consejeros, que serán los representantes de las dependencias, organismos y entidades del Gobierno Estatal, autoridades municipales, representantes de los sectores social y privado, instituciones educativas y de salud, así como la participación que corresponda a las dependencias del Gobierno Federal y a las instituciones militares con asiento en el Estado de Baja California Sur.
+> <small>(REFORMADA, B.O. 10 DE NOVIEMBRE DE 2005)</small>
+
+IV.- Los consejeros, que serán los representantes de las dependencias y organismos del Poder Ejecutivo del Gobierno del Estado, autoridades municipales, un representantes del Poder Legislativo, representantes de los sectores social y privado, instituciones educativas y de salud, así como la participación que corresponda a las dependencias del Gobierno Federal y a las instituciones militares con asiento en el Estado de Baja California Sur.
 
 Cuando el Presidente del Consejo lo estime conveniente, podrán participar dentro de ese órgano con voz pero sin voto: autoridades federales, estatales y municipales; representantes de grupos voluntarios y personas que estén en condiciones de coadyuvar con los objetivos del Sistema Estatal.
 
@@ -788,3 +790,7 @@ B.O. 31 DE DICIEMBRE DEL 2000.
 PRIMERO: El presente decreto entrará en vigor al día siguiente de su Publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO: Se derogan todas las disposiciones que se opongan al presente decreto.
+
+B.O. 10 DE NOVIEMBRE DE 2005.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
