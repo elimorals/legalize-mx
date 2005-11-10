@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "2005-06-14"
+last_updated: "2005-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE NOVIEMBRE DE 2005.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -713,11 +713,17 @@ a).- Los convenios de coordinación que celebre el Gobierno del Estado con la Fe
 
 b).- Los asuntos legislativos relacionados con la organización y coordinación de la política criminológica-penitenciaria en el Estado;
 
-c).- Los asuntos legislativos relacionados con el mantenimiento del orden, la tranquilidad pública y la protección jurídica de las personas, de sus propiedades y derechos, en el ámbito estatal; y
+c).- Los asuntos legislativos relacionados con el mantenimiento del orden, la tranquilidad pública y la protección jurídica de las personas, de sus propiedades y derechos, en el ámbito estatal; y (sic)
 
-d).- En coordinación con la Comisión de Puntos Constitucionales y de Justicia, dictaminar sobre las leyes que establezcan y regulen los sistemas integrales de tratamiento penal, así como el funcionamiento de los cuerpos de seguridad pública existentes, y de los que en el futuro sean creados.
+d).- En coordinación con la Comisión de Puntos Constitucionales y de Justicia, dictaminar sobre las leyes que establezcan y regulen los sistemas integrales de tratamiento penal, así como el funcionamiento de los cuerpos de seguridad pública existentes, y de los que en el futuro sean creados;
 
-e).- En general, toda legislación relacionada con la Seguridad Pública.
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 10 DE NOVIEMBRE DE 2005)</small>
+
+e) Lo relativo a la normatividad y demás aspectos relacionados con la protección civil;
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], B.O. 10 DE NOVIEMBRE DE 2005)</small>
+
+f).- En general, toda la legislación relacionada con la Seguridad Pública.
 
 ###### ARTICULO 56.
 
@@ -1153,11 +1159,11 @@ III.- A los Ayuntamientos;
 
 IV.- Al Tribunal Superior de Justicia en su ramo; y
 
-> <small>(REFORMADA, B.O. 20 DE JUNIO DE 2000)</small>
+> <small>(REFORMADA, B.O. 10 DE NOVIEMBRE DE 2005)</small>
 
-V.- A los Ciudadanos inscritos en la Lista Nominal de Electores, cuyo número represente cuando menos el 0.5% del total de dicho registro, mediante escrito presentado en los términos y con las formalidades que exija la Ley de la materia y la presente Ley determine. Así como por conducto del Diputado de su Distrito.
+V.- A los Ciudadanos inscritos en la lista nominal de Electores, cuyo número represente cuando menos el 0.1% del total de dicho registro, mediante escrito presentado en los términos y con las formalidades que exija la ley de la materia y la presente Ley determine. Así como por conducto del Diputado de su distrito.
 
-Las iniciativas presentadas conforme a esta fracción deberán ser dictaminadas dentro del término de dos meses, contados a partir del día en que hubieren sido turnados por el pleno a la Comisión correspondiente.
+Las iniciativas presentadas conforme a esta fracción deberán ser dictaminadas dentro del término de 30 días hábiles siguientes, contados a partir del día en que hubieren sido turnados por el pleno a la Comisión correspondiente.
 
 ###### ARTICULO 102.
 
@@ -1193,7 +1199,7 @@ ARTICULO 106 BIS.- Las comunicaciones oficiales que envían a este Congreso del 
 
 I.- Las comunicaciones oficiales provenientes de otras Legislaturas locales, de la Cámara de Senadores o de la Cámara de Diputados del Honorable Congreso de la Unión, con anexos de dictámenes que contengan puntos resolutivos, mediante los cuales exhorten a este Congreso a realizar una acción determinada, soliciten su adhesión para ciertos efectos, o planteen cualquier tipo de solicitud, serán leídos dichos dictámenes y se pondrán a consideración de la Asamblea en la misma sesión ordinaria en que se dieron cuenta al Pleno, para que este resuelva lo que corresponda respecto a lo planteado en sus puntos resolutivos y tomando en cuenta los considerandos que llevaron a los mismos;
 
-II.- Cualquier Diputada o Diputado, en caso de considerar que por su complejidad el asunto amerita un análisis acucioso, podrá solicitar al Presidente de la Mesa Directiva del Congreso del Estado poner a consideración del Pleno que se turne a la Comisión Permanente que corresponda, pudiéndose registrar una participación en tribuna a favor y otra en contra, y sometiendo a votación económica tal solicitud. En caso de ser rechazada esta, se procederá a la discusión del fondo del asunto o a la votación respectiva, según el momento en que se haga la mencionada solicitud;
+II.-Cualquier Diputada o Diputado, en caso de considerar que por su complejidad el asunto amerita un análisis acucioso, podrá solicitar al Presidente de la Mesa Directiva del Congreso del Estado poner a consideración del Pleno que se turne a la Comisión Permanente que corresponda, pudiéndose registrar una participación en tribuna a favor y otra en contra, y sometiendo a votación económica tal solicitud. En caso de ser rechazada esta, se procederá a la discusión del fondo del asunto o a la votación respectiva, según el momento en que se haga la mencionada solicitud;
 
 III.- Para el supuesto de que el asunto se discuta y resuelva en la misma sesión en la que se dio cuenta al Pleno, el trámite consistirá en el registro de las participaciones de las Diputadas y Diputados que así lo solicitaren, pudiendo hacer una propuesta concreta de modificación o adición de los puntos resolutivos que contenga el dictamen en cuestión. Una vez discutido, el asunto se votará en forma nominal, y resuelto el mismo, el Presidente de la Mesa Directiva ordenará al Oficial Mayor que envíe el oficio respectivo para comunicar a la Legislatura de origen el acuerdo tomado por el Congreso del Estado de Baja California Sur, recaído a su solicitud de adhesión, a su exhorto o petición concreta que haya formulado;
 
@@ -1361,7 +1367,7 @@ Si en el curso de las discusiones, el orador, con el propósito de allegar más 
 
 ###### ARTICULO 133.
 
-Los integrantes de la Comisión Dictaminadora y el o los Diputados autores de la iniciativa, podrán hacer uso de la palabra en la discusión de un negocio, aún sin haberse inscrito y cuantas veces la soliciten.
+Los integrantes de la Comisión Dictaminadora y él o los Diputados autores de la iniciativa, podrán hacer uso de la palabra en la discusión de un negocio, aún sin haberse inscrito y cuantas veces la soliciten.
 
 ###### ARTICULO 134.
 
@@ -2022,3 +2028,15 @@ B.O. 14 DE JUNIO DE 2005.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Los asuntos que actualmente se encuentran turnados a las diferentes Comisiones Permanentes y que encuadren en los supuestos que prevén las fracciones IV, V, VI y VII del artículo 106 Bis que contiene el presente decreto, se relacionarán de manera detallada por cada una de dichas Comisiones, en un informe que será presentado ante el Pleno del Congreso del Estado para su conocimiento y aprobación.
+
+B.O. 10 DE NOVIEMBRE DE 2005.
+
+DECRETO NUMERO 1567.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE NOVIEMBRE DE 2005.
+
+DECRETO NUMERO 1569.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
