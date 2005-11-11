@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-255-del-presupuesto-de-egresos-y-la-contabilidad-147
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-28"
-last_updated: "1988-12-28"
+last_updated: "2005-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUMERO 255 DEL PRESUPUESTO DE EGRESOS, CONTABILIDAD GUBERNAMENTAL Y DEUDA PUBLICA DEL GOBIERNO DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el miércoles 28 de diciembre de 1988.
 
@@ -267,171 +267,95 @@ Las dependencias y entidades suministrarán a la Secretaría de Finanzas, con la
 
 Los estados financieros y demás información que emane de las contabilidades de las dependencias y entidades comprendidas en el presupuesto de egresos, serán consolidados por la Secretaría de finanzas, la que será responsable de formular la cuenta anual de la Hacienda Pública Estatal y someterá a la consideración del Gobernador del Estado, para su presentación ante el H. Congreso del Estado, a más tardar el 31 de mayo de cada año, fecha en la que debe rendirse la Cuenta Pública.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY NUMERO 616 DE DEUDA PUBLICA PARA EL ESTADO DE GUERRERO, P.O. 11 DE NOVIEMBRE DE 2005)</small>
+
 ### CAPITULO SEXTO. DE LA DEUDA PUBLICA
 
 ###### ARTICULO 48.
 
-La deuda pública está constituída por las obligaciones directas y contingentes derivadas de empréstidos (sic) o créditos a cargo de las siguientes entidades:
-
-I.- El Ejecutivo Estatal y sus dependencias;
-
-II.- Los Municipios;
-
-III.- Los Organismos Descentralizados Estatales o Municipales;
-
-IV.- Las Empresas de Participación Estatal o Municipal Mayoritaria;
-
-V.- Los Fideicomisos en los que el fideicomitente sea el Gobierno Estatal o alguna de las entidades mencionadas en las fracciones II a IV.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY NUMERO 616 DE DEUDA PUBLICA PARA EL ESTADO DE GUERRERO, P.O. 11 DE NOVIEMBRE DE 2005)
 
 ###### ARTICULO 49.
 
-La deuda pública municipal se forma por los empréstitos que contraten los municipios y los créditos a cargo de los Organismos Descentralizados Municipales, Empresas de Participación Mayoritaria y sus respectivos fideicomisos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY NUMERO 616 DE DEUDA PUBLICA PARA EL ESTADO DE GUERRERO, P.O. 11 DE NOVIEMBRE DE 2005)
 
 ###### ARTICULO 50.
 
-Se entiende por financiamiento la contratación de créditos o empréstitos derivados de:
-
-I.- La suscripción o emisión de títulos de crédito o cualquier otro documento pagadero a plazo;
-
-II.- La adquisición de bienes o contratación de obras o servicios cuyo pago se pacte a plazos;
-
-III.- Los pasivos contingentes relacionados con los actos mencionados, y
-
-IV.- La celebración de actos jurídicos análogos a los anteriores.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY NUMERO 616 DE DEUDA PUBLICA PARA EL ESTADO DE GUERRERO, P.O. 11 DE NOVIEMBRE DE 2005)
 
 ###### ARTICULO 51.
 
-La Secretaría de Finanzas, de conformidad con lo dispuesto por el artículo 23 de la Ley Orgánica de la Administración Pública del Estado de Guerrero, es la dependencia del Ejecutivo Estatal facultada para aplicar e interpretar, para efectos administrativos, las disposiciones en materia de deuda pública que establece la presente Ley y expedir las disposiciones necesarias para su debido cumplimiento.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY NUMERO 616 DE DEUDA PUBLICA PARA EL ESTADO DE GUERRERO, P.O. 11 DE NOVIEMBRE DE 2005)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY NUMERO 616 DE DEUDA PUBLICA PARA EL ESTADO DE GUERRERO, P.O. 11 DE NOVIEMBRE DE 2005)</small>
 
 ### CAPITULO SEPTIMO. DE LAS FACULTADES Y OBLIGACIONES DE LOS ORGANOS EN MATERIA DE DEUDA PUBLICA
 
 ###### ARTICULO 52.
 
-Son órganos en materia de deuda pública, dentro de sus respectivas competencias:
-
-I.- El Congreso del Estado;
-
-II.- El Ejecutivo del Estado;
-
-III.- Los Ayuntamientos;
-
-IV.- La Secretaría de Finanzas, y
-
-V.- El Comité Técnico de Financiamiento.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY NUMERO 616 DE DEUDA PUBLICA PARA EL ESTADO DE GUERRERO, P.O. 11 DE NOVIEMBRE DE 2005)
 
 ###### ARTICULO 53.
 
-Corresponde al Congreso del Estado:
-
-I.- Analizar y aprobar en su caso los programas financieros estatales y municipales;
-
-II.- Autorizar los montos de endeudamiento que sean necesarios para el financiamiento del Estado, de los Municipios y de las Entidades Paraestatales y paramunicipales de conformidad con lo dispuesto en esta Ley;
-
-III.- Autorizar al Ejecutivo Estatal para intervenir a nombre del Estado como avalista o deudor solidario de los empréstitos o créditos que contraten los municipios o las entidades paraestatales y paramunicipales;
-
-IV.- Autorizar, previa solicitud del Ejecutivo del Estado, la contratación de financiamientos adicionales a los previstos en la Ley de Ingresos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY NUMERO 616 DE DEUDA PUBLICA PARA EL ESTADO DE GUERRERO, P.O. 11 DE NOVIEMBRE DE 2005)
 
 ###### ARTICULO 54.
 
-Es competencia del Ejecutivo del Estado:
-
-I.- Remitir anualmente al Congreso del Estado, el programa financiero estatal que incluya los montos de endeudamiento necesario para cubrir los requerimientos del ejercicio fiscal correspondiente. En las respectivas iniciativas de Ley de Ingresos y Presupuesto de Egresos, se harán las previsiones de las partidas correspondientes;
-
-II.- Remitir al Congreso del Estado los programas financieros de los municipios;
-
-III.- Informar al Congreso del Estado la situación de la deuda pública; y
-
-IV.- Otorgar, en su caso, el aval para los financiamientos a favor de las entidades a que se refieren las fracciones II a V del artículo 48 de esta Ley.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY NUMERO 616 DE DEUDA PUBLICA PARA EL ESTADO DE GUERRERO, P.O. 11 DE NOVIEMBRE DE 2005)
 
 ###### ARTICULO 55.
 
-Corresponde al Ejecutivo del Estado, en la materia de deuda pública, por conducto de la Secretaría de Finanzas:
-
-I.- Elaborar el programa financiero estatal, incluyendo las obligaciones derivadas del otorgamiento de avales a las entidades señaladas en las fracciones II a V del artículo 48 de esta Ley;
-
-II.- Celebrar los contratos y convenios para la obtención de empréstitos, créditos y demás operaciones financieras de deuda pública, suscribiendo los documentos y títulos de créditos requeridos para tales efectos;
-
-III.- Reestructurar los créditos adquiridos como deudor directo, aval o responsable solidario, modificando tasas de interés, plazos y formas de pago y suscribir los documentos y títulos de crédito que requiera;
-
-IV.- Afectar en garantía de pago de las obligaciones contraídas directamente o como avalista, las participaciones que en ingresos federales correspondan al Estado;
-
-V.- Consignar en el presupuesto de egresos, las amortizaciones por concepto de capital e intereses a que den lugar los empréstitos a cargo del Estado;
-
-VI.- Afectar como garantías de pago de las obligaciones inscritas en el registro a que se refiere esta Ley, y contraídas directamente por los Municipios, las participaciones que les correspondan, sobre ingresos federales y estatales;
-
-VII.- Asesorar a los Municipios en la formulación de sus programas financieros y en todo lo relativo a la obtención de empréstitos y créditos para sus organismos descentralizados, empresas de participación y fideicomisos;
-
-VIII.- Formalizar y administrar la deuda pública del Gobierno del Estado, conforme a los programas aprobados;
-
-IX.- Coadyuvar con la Secretaría de Desarrollo Administrativo y Control Gubernamental, para que los recursos obtenidos por empréstitos o créditos, sean aplicados a los fines previstos en los programas financieros correspondientes;
-
-X.- Vigilar que se efectúen oportunamente las amortizaciones y los intereses derivados de empréstitos y créditos contratados y debidamente formalizados; y
-
-XI.- Llevar el registro de las obligaciones financieras derivadas de la contratación de empréstitos y créditos, anotando el monto, características y destino de los recursos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY NUMERO 616 DE DEUDA PUBLICA PARA EL ESTADO DE GUERRERO, P.O. 11 DE NOVIEMBRE DE 2005)
 
 ###### ARTICULO 56.
 
-La Secretaría de Finanzas solo podrá concertar, formalizar y aplicar empréstitos o créditos, y, en su caso, otorgar garantía del Estado, cuando los mismos estén contenidos en el programa financiero, salvo las excepciones previstas por la Ley.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY NUMERO 616 DE DEUDA PUBLICA PARA EL ESTADO DE GUERRERO, P.O. 11 DE NOVIEMBRE DE 2005)
 
 ###### ARTICULO 57.
 
-La Secretaría de Finanzas, presentará anualmente para autorización del Ejecutivo del Estado el programa financiero a que se refiere la fracción I del artículo 55 de esta Ley, que incluirá las garantías que se pretenden otorgar en la contratación de empréstitos y créditos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY NUMERO 616 DE DEUDA PUBLICA PARA EL ESTADO DE GUERRERO, P.O. 11 DE NOVIEMBRE DE 2005)
 
 ###### ARTICULO 58.
 
-El programa financiero anual del Estado, será normativo y establecerá los límites de endeudamiento así como sus plazos y tasas de interés.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY NUMERO 616 DE DEUDA PUBLICA PARA EL ESTADO DE GUERRERO, P.O. 11 DE NOVIEMBRE DE 2005)
 
 ###### ARTICULO 59.
 
-Existirá un Comité Técnico de Financiamiento que será órgano auxiliar de consulta del Ejecutivo del Estado, en materia de deuda pública y estará constituído por los siguientes miembros permanentes:
-
-I.- Secretaría de Finanzas;
-
-II.- Secretaría de Planeación y Presupuesto;
-
-III.- Secretaría de Desarrollo Administrativo y Control Gubernamental, y
-
-IV.- Secretaría de Desarrollo Urbano y Obras Públicas.
-
-El Secretario de Finanzas fungirá como Presidente del Comité y sus actividades serán coordinadas por un Secretario Técnico nombrado por el Ejecutivo del Estado.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY NUMERO 616 DE DEUDA PUBLICA PARA EL ESTADO DE GUERRERO, P.O. 11 DE NOVIEMBRE DE 2005)
 
 ###### ARTICULO 60.
 
-El Comité Técnico tendrá las siguientes funciones:
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY NUMERO 616 DE DEUDA PUBLICA PARA EL ESTADO DE GUERRERO, P.O. 11 DE NOVIEMBRE DE 2005)
 
-I.- Evaluar las necesidades y capacidad de endeudamiento del Estado y Municipios;
-
-II.- Emitir opinión sobre los programas de endeudamiento que presenten las entidades señaladas en el artículo 48 de esta Ley;
-
-III.- Evaluar y emitir opinión sobre los empréstitos o créditos que solicite el Estado o de aquéllos que requieren su garantía, y
-
-IV.- Dar asesoría a las entidades señaladas en el artículo 48 de esta Ley, en materia de deuda pública.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY NUMERO 616 DE DEUDA PUBLICA PARA EL ESTADO DE GUERRERO, P.O. 11 DE NOVIEMBRE DE 2005)</small>
 
 ### CAPITULO OCTAVO. DE LA CONTRATACION DE EMPRESTITOS Y CREDITOS
 
 ###### ARTICULO 61.
 
-El Ejecutivo Estatal concertará y formalizará empréstitos, créditos y todas las operaciones financieras que constituyan la deuda pública, por conducto de la Secretaría de Finanzas. Los Organismos Descentralizados Estatales, las Empresas de Participación Estatal Mayoritaria y sus respectivos fideicomisos, solo podrán obtener créditos con la autorización previa de la Secretaría de Finanzas.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY NUMERO 616 DE DEUDA PUBLICA PARA EL ESTADO DE GUERRERO, P.O. 11 DE NOVIEMBRE DE 2005)
 
 ###### ARTICULO 62.
 
-Los empréstitos y créditos que contrate el Ejecutivo del Estado y las demás entidades señaladas en el artículo 48 de esta Ley, así como las garantías que el Estado otorgue, deberán estar incluídas en el programa financiero, excepto el caso previsto en la fracción IV del artículo 53 de esta Ley.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY NUMERO 616 DE DEUDA PUBLICA PARA EL ESTADO DE GUERRERO, P.O. 11 DE NOVIEMBRE DE 2005)
 
 ###### ARTICULO 63.
 
-La contratación de empréstito y créditos, se sujetará a los montos de endeudamiento aprobados por el H. Congreso del Estado.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY NUMERO 616 DE DEUDA PUBLICA PARA EL ESTADO DE GUERRERO, P.O. 11 DE NOVIEMBRE DE 2005)
 
 ###### ARTICULO 64.
 
-El Estado y los Municipios en cumplimiento de lo previsto por la fracción VIII del artículo 117 de la Constitución Política de los Estados Unidos Mexicanos, solo podrán suscribir contratos de créditos y títulos de deuda pagaderos en moneda nacional y dentro del territorio de los Estados Unidos Mexicanos, previa autorización del H. Congreso del Estado. Tanto en los contratos, como en los títulos, deberán citarse los datos fundamentales de la autorización, así como la prohibición de su venta a extranjeros, sean éstos gobiernos, entidades gubernamentales, sociedades particulares u organismos internacionales. Los documentos no tendrán validez si no se consignan dichos datos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY NUMERO 616 DE DEUDA PUBLICA PARA EL ESTADO DE GUERRERO, P.O. 11 DE NOVIEMBRE DE 2005)
 
 ###### ARTICULO 65.
 
-Cuando los municipios, sus organismos descentralizados, empresas de participación mayoritaria y sus fideicomisos requieran la garantía del Estado, la contratación de empréstitos o créditos se realizará con la autorización del H. Congreso del Estado, previa aprobación del Ejecutivo del Estado, a través de la Secretaría de Finanzas.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY NUMERO 616 DE DEUDA PUBLICA PARA EL ESTADO DE GUERRERO, P.O. 11 DE NOVIEMBRE DE 2005)
 
 ###### ARTICULO 66.
 
-Las entidades señaladas en las fracciones II a V del artículo 48 de esta Ley, cuando requieran contar con recursos de financiamiento, deberán formular solicitud a la Secretaría de Finanzas, acompañando la información que se les requiera.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY NUMERO 616 DE DEUDA PUBLICA PARA EL ESTADO DE GUERRERO, P.O. 11 DE NOVIEMBRE DE 2005)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY NUMERO 616 DE DEUDA PUBLICA PARA EL ESTADO DE GUERRERO, P.O. 11 DE NOVIEMBRE DE 2005)</small>
 
 ### CAPITULO NOVENO
 
@@ -439,23 +363,15 @@ DE LAS OBLIGACIONES DERIVADAS DE LAS OPERACIONES DE ENDEUDAMIENTO.
 
 ###### ARTICULO 67.
 
-Las entidades a que se refiere esta Ley, tendrán las siguientes obligaciones:
-
-I.- Registrar en la Secretaría de Finanzas las obligaciones financieras que adquieren derivadas de la contratación de créditos con aval del Gobierno del Estado;
-
-II.- Llevar registro de los empréstitos y créditos que contraten conforme lo que disponga la Secretaría de Finanzas;
-
-III.- Entregar mensualmente a la Secretaría de Finanzas los informes relativos al ejercicio de todos los empréstitos o créditos contratados, así como de las amortizaciones de capital y pago de intereses realizados, y
-
-IV.- Proporcionar a la Secretaría de Finanzas, toda la información necesaria para llevar a cabo la verificación a que se refiere la fracción X del artículo 55 de esta Ley.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY NUMERO 616 DE DEUDA PUBLICA PARA EL ESTADO DE GUERRERO, P.O. 11 DE NOVIEMBRE DE 2005)
 
 ###### ARTICULO 68.
 
-Las operaciones de endeudamiento autorizadas, así como su inscripción en el registro a que se refiere esta Ley, solo podrán modificarse con los mismos requisitos y formalidades relativas a su autorización.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY NUMERO 616 DE DEUDA PUBLICA PARA EL ESTADO DE GUERRERO, P.O. 11 DE NOVIEMBRE DE 2005)
 
 ###### ARTICULO 69.
 
-Las entidades deberán indicar claramente los recursos que se utilizarán para el pago de las garantías y financiamientos que obtengan, que serán preferentemente los que se deriven de las obras que se realicen.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY NUMERO 616 DE DEUDA PUBLICA PARA EL ESTADO DE GUERRERO, P.O. 11 DE NOVIEMBRE DE 2005)
 
 T R A N S I T O R I O S
 
@@ -500,3 +416,17 @@ Rúbrica.
 El Secretario de Gobierno.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 11 DE NOVIEMBRE DE 2005.
+
+LEY NUMERO 616 DE DEUDA PUBLICA PARA EL ESTADO DE GUERRERO.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Comuníquese la presente Ley al Gobernador del Estado para los efectos constitucionales procedentes.
+
+TERCERO.- Se derogan los Capítulos Sexto, Séptimo, Octavo y Noveno con sus respectivos artículos de la Ley Número 255 de Presupuesto, Contabilidad Gubernamental y Deuda Pública del Gobierno del Estado de Guerrero, publicada en el Periódico Oficial del Gobierno del Estado Número 108 el 28 de Diciembre de 1988.
+
+CUARTO.- La Secretaría de Finanzas y Administración del Gobierno del Estado, deberá ajustar su Reglamento Interior en un Plazo no mayor a 45 días hábiles a la publicación de la presente Ley, con la finalidad de cumplir fielmente este ordenamiento.
