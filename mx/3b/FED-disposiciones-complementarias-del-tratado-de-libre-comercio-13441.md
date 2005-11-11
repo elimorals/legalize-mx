@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2005-11-09"
+last_updated: "2005-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,99 +18,29 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-ACUERDO QUE ESTABLECE LA CLASIFICACION Y CODIFICACION DE MERCANCIAS CUYA IMPORTACION Y EXPORTACION ESTA SUJETA AL REQUISITO DE PERMISO PREVIO POR PARTE DE LA SECRETARIA DE ECONOMIA
+ACUERDO QUE MODIFICA EL DIVERSO QUE ESTABLECE LOS CRITERIOS PARA OTORGAR PERMISOS PREVIOS POR PARTE DE LA SECRETARIA DE ECONOMIA, A LAS IMPORTACIONES DEFINITIVAS DE FRUCTOSA ORIGINARIAS DE LOS ESTADOS UNIDOS DE AMERICA.
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 9 de noviembre de 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR FRUCTOSA ORIGINARIA DE LOS ESTADOS UNIDOS DE AMERICA Y SUS CRITERIOS, PUBLICADO EN EL D.O.F. DE 5 DE OCTUBRE DE 2006, EL PRESENTE ACUERDO HA SIDO ABROGADO.</small>
+
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 11 de noviembre de 2005.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía, con fundamento en los artículos 34 de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracciones III y X, 15, 16, 17, 20 y 21 de la Ley de Comercio Exterior; 36 fracciones I inciso c), y II inciso b), y 104 fracción II de la Ley Aduanera; 1, 2 y 5 del Acuerdo sobre Procedimientos para el Trámite de Licencias de Importación de la Organización Mundial del Comercio; 21 del Reglamento de la Ley de Comercio Exterior; 1, 4, 5 fracción XVI, 45 y 46 del Reglamento Interior de la Secretaría de Economía, y
+SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía, con fundamento en los artículos 60 de la Convención de Viena sobre el Derecho de los Tratados; 34 de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracciones III y X, 15, 16, 17, 20 y 21 de la Ley de Comercio Exterior; 4 de la Ley Federal de Procedimiento Administrativo; 17 al 22 del Reglamento de la Ley de Comercio Exterior; 1, 2 y 5 del Acuerdo sobre Procedimientos para el Trámite de Licencias de Importación; 1, 4 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que uno de los objetivos del Plan Nacional de Desarrollo 2001-2006 consiste en promover el desarrollo regional equilibrado, elevar y extender la competitividad del país como condición necesaria para alcanzar un crecimiento más dinámico y convertir a las cadenas productivas de distintos giros como el agroindustrial, industrial, comercial y de servicios en componentes estratégicos para garantizar un desarrollo incluyente a través del fomento de la cultura de la asociación, la formación de proveedores permanentes y la mejora regulatoria que simplifique la carga administrativa de las empresas;
+Que el 25 de junio de 2001, se publicó en el Diario Oficial de la Federación el Acuerdo para la desregulación y simplificación de los trámites inscritos en el Registro Federal de Trámites y Servicios, y la simplificación de medidas de mejora regulatoria que beneficien a las empresas y los ciudadanos;
 
-Que como parte de las Metas Presidenciales de Buen Gobierno y las Acciones Concretas para Incrementar la Competitividad, se estableció el compromiso de revisar los instrumentos de regulación comercial, toda vez que la efectividad de éstos puede resultar erosionada cuando se presenta una proliferación de los mismos;
+Que es necesario implementar acciones regulatorias y propiciar esquemas que faciliten la actuación de las autoridades frente a los particulares;
 
-Que la facilitación comercial es una estrategia global que es discutida en diversos foros internacionales y tiene como finalidad lograr la simplificación y armonización de procedimientos de comercio internacional, y que los procedimientos relacionados con la misma facilitación comercial comprenden las actividades, prácticas y formalidades involucradas en recopilar, presentar, comunicar y procesar la información requerida para realizar operaciones de comercio exterior, entre las cuales se incluye a las regulaciones no arancelarias;
+Que es un compromiso del Gobierno Federal instrumentar medidas de mejora regulatoria y simplificación en la aplicación de los trámites que se gestionan ante aquél;
 
-Que las políticas sobre facilitación comercial se basan en los principios de transparencia, certidumbre jurídica, imparcialidad y uniformidad en la administración del marco normativo vigente, mejora regulatoria y simplificación operativa;
+Que el 30 de septiembre de 2005 se publicó en el Diario Oficial de la Federación el Acuerdo que modifica el diverso que establece los criterios para otorgar permisos previos por parte de la Secretaría de Economía, a las importaciones definitivas de fructosa originarias de los Estados Unidos de América, y
 
-Que la revisión de las regulaciones no arancelarias es una de las principales acciones de la facilitación comercial, ya que con ello se simplifica la regulación de las actividades comerciales, se reducen los costos en los que incurren los particulares para poder cumplir con la normatividad, se modernizan y agilizan los trámites, y se imprime certidumbre, transparencia y continuidad a las operaciones de comercio exterior;
+Que la Comisión de Comercio Exterior conforme al procedimiento previsto en la Ley de la materia, ha emitido opinión sobre esta medida, he tenido a bien expedir el siguiente:
 
-Que la dinámica del intercambio comercial exige a los países intensificar y acelerar sus procesos de actualización en materia de regulación comercial, en especial la identificación de mercancías sujetas al cumplimiento de regulaciones no arancelarias, evitando interpretaciones equívocas en los operadores del comercio internacional;
-
-Que conforme a los artículos 20 de la Ley de Comercio Exterior, y 36 fracciones I inciso c) y II inciso b) de la Ley Aduanera, sólo podrán hacerse cumplir en el punto de entrada o salida al país las regulaciones no arancelarias, cuyas mercancías hayan sido identificadas en términos de sus fracciones arancelarias y nomenclatura que les corresponda conforme a la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación;
-
-Que a efecto de cumplir con lo dispuesto en la Ley de Comercio Exterior, el 26 de marzo de 2002 se publicó en el Diario Oficial de la Federación el Acuerdo que establece la clasificación y codificación de mercancías cuya importación y exportación están sujetas al requisito de permiso previo por parte de la Secretaría de Economía, el cual ha sido modificado en nueve ocasiones, mediante diversos dados a conocer en el mismo medio informativo, y que la dispersión generada por las modificaciones realizadas hace conveniente publicar de nuevo el documento íntegro, a fin de facilitar su aplicación;
-
-Que en el transcurso del tiempo los instrumentos de regulación comercial han evolucionado al grado que actualmente diversas dependencias del Ejecutivo Federal han establecido y operan directamente instrumentos que, en algunos casos, duplican la regulación de otra u otras dependencias;
-
-Que en el mencionado Acuerdo están comprendidos ciertos productos vegetales destinados a la salud, como son las semillas de amapola, hojas de coca, y los extractos de opio o de coca, lo que implica una sobrerregulación toda vez que tales mercancías están sujetas a control por parte de la Secretaría de Salud, que es la dependencia competente para autorizar las importaciones de dichas sustancias;
-
-Que entre las mercancías sujetas actualmente al requisito de permiso previo de importación se encuentran algunas del sector automotriz, tales como los tractores nuevos para remolcar vehículos en vías férreas, los llamados “vehículos de colección”, con peso menor a 8,864 kgs y antigüedad mayor a 30 años, los vehículos recreativos de estructura tubular denominados “Go-Karts”, los vehículos para transporte especializado denominados “coches fúnebres” o “carrozas fúnebres”, así como los neumáticos recubiertos y los rines usados que se presenten con sus llantas, cuya regulación ya no se justifica puesto que las importaciones se autorizan de manera automática a todos los solicitantes toda vez que no impactan a la industria nacional fabricante;
-
-Que entre las mercancías sujetas al mencionado requisito previo también se encuentran las armas de fuego, municiones, material de guerra, y sus partes y accesorios, no obstante que las importaciones de estos bienes están sujetas al control de la Secretaría de la Defensa Nacional, por lo que el requisito de permiso previo por parte de la Secretaría de Economía constituye una sobrerregulación;
-
-Que diversas mercancías de los sectores de derivados lácteos, café, caramelos y chicles, principalmente, están actualmente sujetas al requisito de permiso previo de importación cuando se importan al amparo de los Decretos en los que se establece un esquema arancelario para la franja fronteriza norte y la región fronteriza, no obstante que dicho requisito implica un costo administrativo que incide negativamente en las empresas de la frontera, y que ha cumplido ya con el objetivo de complementar la oferta de bienes de consumo necesario, apoyar un desarrollo regional equilibrado entre dichas zonas y las demás regiones del país así como la competitividad económica y el bienestar de los habitantes de tales regiones, por lo que el requisito carece ya de sentido;
-
-Que el 27 de julio de 1998 se publicó en el Diario Oficial de la Federación un Acuerdo secretarial para establecer la figura del aviso automático de importación, con objeto de reforzar el sistema informático de monitoreo de importaciones y supervisar los precios de las mercancías cuya importación en condiciones de subfacturación podría afectar negativamente a la producción nacional;
-
-Que el requisito ha cumplido suficientemente con el objetivo de reducir la subfacturación en la importación de mercancías, toda vez que el número de solicitudes para las fracciones arancelarias controladas se ha reducido sustancialmente, por lo que el Ejecutivo Federal inició la preparación de otros esquemas de monitoreo electrónico de mercancías, y
-
-Que la Comisión de Comercio Exterior, conforme al procedimiento previsto en la Ley de la materia, opinó favorablemente el establecimiento de regulaciones no arancelarias aplicables a la importación y exportación de las mercancías sujetas al requisito de permiso previo por parte de la Secretaría de Economía, he tenido a bien expedir el siguiente:
-
-ACUERDO QUE ESTABLECE LA CLASIFICACION Y CODIFICACION DE MERCANCIAS CUYA IMPORTACION Y EXPORTACION ESTA SUJETA AL REQUISITO DE PERMISO PREVIO POR PARTE DE LA SECRETARIA DE ECONOMIA
-
-###### ARTICULO 1o.
-
-Se sujetan al requisito de permiso previo de importación por parte de la Secretaría de Economía las mercancías comprendidas en las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación que a continuación se indican, únicamente cuando se destinen al régimen aduanero de importación definitiva:
-
-(VEASE ARCHIVO ANEXO)
-
-###### ARTICULO 2o.
-
-Se sujetan al requisito de permiso previo de importación por parte de la Secretaría de Economía las mercancías comprendidas en las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación que a continuación se indican, únicamente cuando se destinen a los regímenes aduaneros de importación definitiva o temporal:
-
-(VEASE ARCHIVO ANEXO)
-
-###### ARTICULO 3o.
-
-Se sujetan al requisito de permiso previo de importación por parte de la Secretaría de Economía las mercancías comprendidas en las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación que a continuación se indican, únicamente cuando se destinen al régimen aduanero de importación definitiva y sean originarias y procedentes de Argentina, Brasil, Cuba, Ecuador, Perú, Panamá o Paraguay, importadas al amparo de un Acuerdo de Alcance Parcial o Regional negociado conforme al Tratado de Montevideo 1980:
-
-(VEASE ARCHIVO ANEXO)
-
-###### ARTICULO 4o.
-
-Se sujetan al requisito de permiso previo de importación por parte de la Secretaría de Economía las mercancías comprendidas en las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación que a continuación se indican, únicamente cuando se destinen a los regímenes aduaneros de importación definitiva o temporal y se trate de bienes originarios de los Estados Unidos de América, de conformidad con el Tratado de Libre Comercio de América del Norte:
-
-(VEASE ARCHIVO ANEXO)
-
-###### ARTICULO 5o.
-
-Se sujetan al requisito de permiso previo de importación por parte de la Secretaría de Economía las mercancías comprendidas en las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación que a continuación se indican, únicamente cuando se destinen al régimen aduanero de importación definitiva y que cumplan con alguno de los dos supuestos siguientes:
-
-(VEASE ARCHIVO ANEXO)
-
-###### ARTICULO 6o.
-
-Se sujetan al requisito de permiso previo de importación por parte de la Secretaría de Economía las mercancías usadas comprendidas en las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación que a continuación se indican, únicamente cuando se destinen al régimen aduanero de importación definitiva:
-
-(VEASE ARCHIVO ANEXO)
-
-Para efectos de este apartado, se considerará como vehículo usado aquél que se encuentre en cualquiera de los supuestos siguientes:
-
-a) que no haya sido adquirido de primera mano. Se considerará que el vehículo no fue adquirido de primera mano cuando no se cuente con la factura expedida por el fabricante o un distribuidor autorizado por el fabricante;
-
-b) que el año-modelo del vehículo que se observe en el número de identificación vehicular, no corresponda al año en que se efectúe la importación del vehículo o a un año posterior, y
-
-c) que al momento de efectuar el despacho aduanero, la lectura del odómetro indique que el vehículo ha recorrido más de 1,000 kilómetros, o su equivalente en millas, en el caso de vehículos con peso bruto vehicular inferior a 5,000 kilogramos; o que ha recorrido más de 5,000 kilómetros, o su equivalente en millas, en el caso de vehículos con peso bruto vehicular igual o superior a 5,000 kilogramos pero inferior a 8,864 kilogramos.
-
-###### ARTICULO 7o.
-
-Se sujetan al requisito de permiso previo de exportación por parte de la Secretaría de Economía las mercancías comprendidas en las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación que a continuación se indican, únicamente cuando se destinen a los regímenes aduaneros de exportación definitiva o temporal:
-
-(VEASE ARCHIVO ANEXO)
+ACUERDO QUE MODIFICA EL DIVERSO QUE ESTABLECE LOS CRITERIOS PARA OTORGAR PERMISOS PREVIOS POR PARTE DE LA SECRETARIA DE ECONOMIA, A LAS IMPORTACIONES DEFINITIVAS DE FRUCTOSA ORIGINARIAS DE LOS ESTADOS UNIDOS DE AMERICA
 
 ###### ARTICULO PRIMERO.
 
@@ -120,27 +50,37 @@ El incremento para 2005 al cupo mínimo determinado en el Acuerdo por el que se 
 
 ###### ARTICULO UNICO.
 
-Se da a conocer el anexo 2005 que establece las Reglas de Asignación del monto del remanente del cupo mínimo de importación TLCAN para 2005, del Acuerdo por el que se dan a conocer los cupos mínimos para importar en el periodo 2004-2007 dentro del arancel-cuota establecido en el Tratado de Libre Comercio de América del Norte, maíz excepto para siembra, originario de los Estados Unidos de América o de Canadá, como a continuación se indica:
+Se modifican los criterios segundo, quinto, sexto y séptimo del artículo 2o., y se adiciona un segundo párrafo al mismo artículo del Acuerdo que establece los criterios para otorgar permisos previos por parte de la Secretaría de Economía, a las importaciones definitivas de fructosa originarias de los Estados Unidos de América, publicado en Diario Oficial de la Federación el 20 de marzo de 2003 y modificado el 30 de septiembre de 2005, para quedar como sigue:
 
-Podrán solicitar la asignación del monto del remanente del cupo mínimo de importación TLCAN, las personas físicas o morales establecidas en los Estados Unidos Mexicanos que utilicen maíz, excepto para siembra, como insumo en sus procesos productivos y se encuentren en operación, conforme a lo siguiente:
+“ARTICULO 2o.- . . .
 
-I. Maíz blanco: Las personas físicas o morales de las industrias harinera y molinera de nixtamal, conforme a los siguientes criterios:
+PRIMERO: . . .
 
-Se asignará maíz blanco, tomando en cuenta el desabasto existente o previsible que conjuntamente la Dirección General de Industrias Básicas y la Dirección General de Desarrollos de Mercados de ASERCA/SAGARPA, determinen en los estados de: Baja California, Coahuila, Chihuahua, Chiapas, Nuevo León, Tamaulipas, Veracruz y Yucatán.
+SEGUNDO: Podrán solicitar la autorización de permisos previos, aquellos promoventes que cuenten con un certificado de contingentes arancelarios emitido por la Asociación de Refinadores de Maíz (Corn Refiners Association, Inc) de los Estados Unidos de América. El promovente deberá adjuntar a su(s) solicitud(es) de permiso previo de importación el (los) original(es) del (de los) certificado(s) de contingentes arancelarios que cubra(n) la cantidad total que solicita en dicho(s) permiso(s). La Dirección General de Comercio Exterior emitirá el (los) permiso(s) de importación por la cantidad de fructosa que el (los) certificado(s) de contingentes arancelarios presentado(s) por el promovente represente(n), en base comercial; utilizando, para la conversión de base seca a base comercial, los siguientes factores de conversión para cada fracción arancelaria:
 
-Para la asignación de maíz blanco se considerarán los consumos (1) auditados anuales de 2004 (enero-diciembre) de las plantas ubicadas en los estados antes señalados. La Dirección General de Industrias Básicas y la Dirección General de Desarrollo de Mercados de ASERCA/SAGARPA informarán a la Dirección General de Comercio Exterior el resultado del análisis de desabasto previsible o existente de maíz blanco.
+a) 1702.40.99, cantidad en base seca / 0.71;
 
-La respuesta de la Dirección General de Desarrollo de Mercados, deberá considerar lo establecido en el artículo sexto transitorio de la Ley de Ingresos de la Federación para el año Fiscal 2005.
+b) 1702.60.01, cantidad en base seca / 0.77;
 
-El periodo de recepción de solicitudes de asignación de maíz blanco será de diez días hábiles a partir de la entrada en vigor del presente instrumento. La hoja de requisitos específicos que deberán presentar los solicitantes, se establecen como anexos en el Acuerdo publicado el 31 de diciembre de 2003.
+c) 1702.60.02, cantidad en base seca / 0.77 y,
 
-La vigencia de los certificados será hasta el 31 de diciembre de 2005, salvo en el caso de Chiapas, cuya vigencia será del 1 de noviembre al 15 de diciembre de 2005.
+d) 1702.60.99, cantidad en base seca / 0.77.
 
-(1) (Los consumos anuales auditados a los que se refieren los criterios de asignación, son aquellos que presentaron las empresas solicitantes para la primera asignación de este año; excluye los consumos de maíz blanco, realizados bajo los programas de importación temporal, Regla octava, etc.)
+TERCERO: . . .
 
-La asignación será otorgada por la Dirección General de Comercio Exterior, previo dictamen favorable de la Dirección General de Industrias Básicas de esta Secretaría, quien lo emitirá conjuntamente con la opinión de la Dirección General de Desarrollo de Mercados, de Apoyos y Servicios a la Comercialización Agropecuaria ASERCA/SAGARPA de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, dentro de los siete días hábiles siguientes a la fecha en que la Dirección General de Industrias Básicas haya recibido de la Dirección General de Comercio Exterior para su dictamen, las solicitudes debidamente requisitadas.
+CUARTO: . . .
 
-En todos los casos se deberá señalar el monto y plazo para ejercer la asignación, así como las condiciones a que deben de sujetarse los beneficiarios.
+QUINTO: La autorización se realizará a través de la Dirección General de Comercio Exterior, considerando el criterio Segundo de este artículo.
+
+SEXTO: Los permisos previos de importación definitiva tendrán una vigencia al 30 de septiembre de 2006.
+
+SEPTIMO: Los promoventes a los que se les haya autorizado un permiso previo de importación podrán transferir la cantidad autorizada en dicho permiso de una fracción arancelaria a otra, siempre y cuando el titular del permiso previo presente a la Dirección General de Comercio Exterior una nueva solicitud de permiso y adjunte a dicha solicitud el permiso original vigente, en lugar del certificado de contingentes arancelarios. La Dirección General de Comercio Exterior emitirá un nuevo permiso en la fracción arancelaria solicitada por la cantidad correspondiente y el permiso previo de importación anterior será cancelado. Cualquier porción no utilizada de un permiso autorizado puede ser transferida a una solicitud de permiso de importación subsecuente, siempre que el promovente sea el titular del permiso de importación que contenga la porción no utilizada.
+
+OCTAVO: . . .
+
+NOVENO: . . .
+
+El volumen global a que se refiere este artículo son toneladas métricas en base seca.”
 
 ###### ARTICULO 15.
 
@@ -368,10 +308,6 @@ Se sujetan a la presentación de un aviso automático de exportación ante la Se
 
 (VEASE ARCHIVO ANEXO)
 
-###### ARTICULO 9o.
-
-El aviso automático de exportación a que se refiere el artículo 8 del presente ordenamiento se presentará ante la ventanilla de atención al público de la Delegación o Subdelegación Federal de la Secretaría de Economía que le corresponda. Para efectos de este Acuerdo se entenderá por aviso automático de exportación el permiso automático a que se refiere el artículo 21 del Reglamento de la Ley de Comercio Exterior.
-
 ###### ARTÍCULO 9.
 
 Para efectos de diferenciar las mercancías que califiquen para ser marcadas como mercancías de los Estados Unidos de América o mercancías de Canadá, tanto en lo referente a los certificados de cupo emitidos por la Secretaría de Economía, como para las importaciones de mercancías al amparo de los artículos 6 y 8 de este Decreto se estará a lo dispuesto en el “Acuerdo por el que se Establecen Reglas de Marcado de País de Origen para determinar cuándo una mercancía importada a territorio nacional se puede considerar una mercancía estadounidense o canadiense, de conformidad con el Tratado de Libre Comercio de América del Norte, publicado en el Diario Oficial de la Federación el 7 de enero de 1994 y sus respectivas modificaciones.
@@ -398,30 +334,8 @@ III.- La Comunidad Europea, que califiquen como originarias conforme a la Decisi
 
 (VEASE ARCHIVO ANEXO)
 
-###### ARTICULO 12.
+## TRANSITORIO
 
-Se exceptúan del requisito de permiso previo de importación por parte de la Secretaría de Economía establecido en los artículos 1o. y 6o., del presente Acuerdo:
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 30 de septiembre de 2006.
 
-I. Las mercancías que habiendo sido exportadas definitivamente retornen al país en los términos del artículo 103 de la Ley Aduanera;
-
-II. Las de vehículos en franquicia, realizadas conforme a lo dispuesto por los artículos 61 fracción I y 62 de la Ley Aduanera, siempre que sean efectuadas por misiones diplomáticas y consulares, y su personal extranjero, acreditados ante el Gobierno de los Estados Unidos Mexicanos, o por las oficinas de los organismos internacionales representados, o con sede en el territorio nacional, y su personal extranjero acreditado ante la Secretaría de Relaciones Exteriores, y
-
-III. Las importaciones de vehículos cuyo número de serie o año-modelo tenga una antigüedad igual o mayor a 30 años anterior al vigente, y siempre que tengan un peso bruto vehicular inferior o igual a 8,864 kilogramos.
-
-###### ARTICULO 13.
-
-Las mercancías identificadas en los artículos 1o., 3o. y 6o. del presente Acuerdo, que habiendo sido exportadas temporalmente para elaboración, transformación o reparación en los términos del artículo 117 de la Ley Aduanera retornen al país, estarán obligadas a cumplir con el permiso a que se refieren dichos artículos.
-
-###### ARTICULO 14.
-
-La Secretaría de Economía, en coordinación con la Comisión de Comercio Exterior, revisará anualmente las listas de mercancías sujetas a las regulaciones no arancelarias del presente Acuerdo, a fin de excluir de éste las mercancías cuya regulación se considere innecesaria, o integrar las que se consideren convenientes, en base a los criterios técnicos aplicables.
-
-## TRANSITORIOS
-
-PRIMERO.- El presente Acuerdo entrará en vigor a los cinco días hábiles de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- Se abrogan el Acuerdo que establece la clasificación y codificación de mercancías cuya importación y exportación está sujeta al requisito de permiso previo por parte de la Secretaría de Economía, publicado en el Diario Oficial de la Federación el 26 de marzo de 2002, y sus reformas publicadas en el mismo medio informativo el 3 de julio, 3 de diciembre y 31 de diciembre de 2002, 24 de febrero, 30 de junio, 18 de noviembre y 15 de diciembre de 2003, 4 de marzo y 6 de abril de 2005.
-
-TERCERO.- Los permisos previos de importación o de exportación que hayan sido expedidos al amparo del Acuerdo citado en el artículo Transitorio anterior, continuarán vigentes hasta la fecha que se indique en el documento correspondiente y podrán continuar siendo utilizados para los efectos para los que fueron emitidos.
-
-México, D.F., a 31 de octubre de 2005.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
+México, D.F., a 9 de noviembre de 2005.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
