@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-secretaria-de-obras-publicas-41366"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-13"
-last_updated: "2004-10-13"
+last_updated: "2005-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,13 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE OBRAS PUBLICAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 2005.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 13 de octubre de 2004.
 
 JOSÉ NATIVIDAD GONZÁLEZ PARÁS, Gobernador Constitucional del Estado de Nuevo León, en el ejercicio de la facultad que me confiere el artículo 85, fracción X de la Constitución Política del Estado de Nuevo León y con fundamento en lo dispuesto por los artículos 2, 3, 4, 5, 8, 9, 15, 16, 17, 18 fracciones I y VIII, 28 y demás relativos de la Ley Orgánica de la Administración Pública para el Estado de Nuevo León, y
 
-C O N S I D E R A N D O...
+C O N S I D E R A N D O
 
 Por lo anteriormente expuesto y fundado, he tenido a bien expedir el siguiente:
 
@@ -65,39 +65,33 @@ La Secretaría de Obras Públicas realizará sus actividades en forma programada
 
 ### CAPITULO SEGUNDO. DE LA ORGANIZACION Y FUNCIONAMIENTO DE LA SECRETARIA
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 5.
 
 Para el estudio, planeación, ejercicio y despacho de los asuntos de su competencia, la Secretaría contará con las siguientes Unidades Administrativas:
 
 I. Subsecretaría de Obras Públicas:
 
-a) Dirección de Proyectos e Ingenierías, y
+a) Dirección de Proyectos e Ingenierías;
 
-b) Dirección de Ejecución de Obras.
+b) Dirección de Ejecución de Obras, y
 
-II. Subsecretaría de Administración:
+c) Dirección de Costos y Contratos.
+
+II. Subsecretaría de Promoción y Planeación:
 
 a) Dirección Jurídica;
 
-b) Dirección de Costos y Contratos;
+b) Dirección de Concertación de Obras;
 
-c) Dirección de Concertación de Obras, y
+c) Dirección de Administración, y
 
-d) Dirección de Administración.
+d) Dirección de Promoción.
 
-> <small>(F. DE E., P.O. 19 DE NOVIEMBRE DE 2004)</small>
+III. Dirección General Intersectorial.
 
-III. Subsecretaría de Planeación y Proyectos Especiales:
-
-a) Dirección de Promoción;
-
-b) Dirección de Planeación, y
-
-c) Dirección de Desarrollo de la Infraestructura.
-
-IV. Dirección General Intersectorial.
-
-V. Dirección de Seguimiento y Gestión.
+IV. Dirección de Seguimiento y Gestión.
 
 ###### ARTICULO 6.
 
@@ -209,7 +203,9 @@ VIII. Previo acuerdo con el Secretario, emitir opinión sobre las bases normativ
 
 IX. Promover la celebración de convenios de coordinación y asistencia técnica que apoyen los planes para la ejecución de obras públicas;
 
-X. Diseñar mecanismos para administrar las etapas que comprende la obra pública estatal en su proceso de planeación, programación, presupuestación, ejecución total o parcial de cada una de estas etapas, así como de los servicios relacionados con las mismas, en cualquiera de las modalidades de contratación, coordinándose con las instancias que sean necesarias;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2005)</small>
+
+X. Diseñar mecanismos para llevar a cabo las etapas que comprende la obra pública estatal en su proceso de planeación, programación, presupuestación, ejecución total o parcial de cada una de estas etapas, así como de los servicios relacionados con las mismas, en cualquiera de las modalidades de contratación, coordinándose con las instancias que sean necesarias;
 
 XI. Programar la supervisión de obras públicas a cargo de personas físicas o morales que se realicen conforme a lo establecido en los ordenamientos legales aplicables;
 
@@ -219,9 +215,25 @@ XIII. Analizar y en su caso elaborar las propuestas de inversión de obras o de 
 
 XIV. Autorizar el traslado de maquinaria en apoyo a los Municipios que los soliciten;
 
-XV. Llevar el control técnico y el correspondiente resguardo documental técnico de las obras públicas que realice la Secretaría, y
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2005)</small>
 
-XVI. Las demás atribuciones que le confieran las disposiciones jurídicas aplicables y el Secretario.
+XV. Llevar el control técnico y el correspondiente resguardo documental técnico de las obras públicas que realice la Secretaría;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2005)</small>
+
+XVI. Supervisar la celebración de los contratos y convenios de obra pública y de los servicios relacionados con las mismas que corresponda ejecutar a la Secretaría, en los términos de lo establecido por la ley de la materia, previo acuerdo con el Secretario;
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2005)</small>
+
+XVII. Proponer al Secretario las bases a que deban ajustarse los concursos para la adjudicación de contratos de obra pública, así como vigilar su cumplimiento de acuerdo a los requisitos establecidos por la ley de la materia;
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2005)</small>
+
+XVIII. Proponer al Secretario criterios para desahogar los procedimientos de licitación de obra pública, en todas sus etapas, conforme a la normatividad aplicable, y
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2005)</small>
+
+XIX. Las demás atribuciones que le confieran las disposiciones jurídicas aplicables y el Secretario.
 
 ###### ARTICULO 12.
 
@@ -257,39 +269,77 @@ VI. Coordinarse con las diferentes instancias del ámbito federal, estatal y mun
 
 VII. Las demás atribuciones que le confieran las disposiciones jurídicas aplicables y el Secretario.
 
-### CAPITULO SEXTO. DE LA SUBSECRETARIA DE ADMINISTRACION
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2005)</small>
+
+ARTICULO 13 BIS. El Titular de la Dirección de Costos y Contratos tendrá las siguientes atribuciones:
+
+I. Auxiliar al Subsecretario de su adscripción en el desempeño de las actividades que se deriven de su participación en el Comité de Apoyo para la Adjudicación y Fallo de los Concursos de Obra Pública, en los términos establecidos por la ley de la materia;
+
+II. Formular los proyectos relativos a la expedición de bases para la contratación de obra pública de las dependencias y, en su caso, de las entidades que integran la Administración Pública Estatal;
+
+III. Formular y proponer las bases a que deberán ajustarse las licitaciones de la obra pública estatal;
+
+IV. Controlar y dar seguimiento a los contratos de obras públicas y servicios relacionados con las mismas, de conformidad a lo establecido en la normatividad aplicable;
+
+V. Formular las estimaciones financieras relativas a los avances de obras, así como gestionar lo conducente para su pago ante la Tesorería;
+
+VI. Llevar el control y seguimiento a las actas de entrega-recepción de los contratos de obras públicas, hasta su conclusión;
+
+VII. Coordinar las etapas de los concursos de obra pública, desde la publicación de la convocatoria, invitación, adjudicación, hasta la contratación de la misma;
+
+VIII. Formular los presupuestos que servirán de referencia para determinar, por su cuantía, el tipo de concurso de obra pública a realizar;
+
+IX. Controlar financieramente los avances de obras públicas estatales, llevando un control del ejercicio de las partidas presupuestales autorizadas;
+
+X. Elaborar las propuestas de inversión del Programa Estatal de Inversión y de los convenios celebrados con la Federación;
+
+XI. Previo acuerdo con el Subsecretario de su adscripción, tramitar la documentación y, en su caso, erogaciones correspondientes para el gasto de los recursos autorizados en obras públicas;
+
+XII. Informar al Subsecretario de su adscripción de la autorización de recursos, para el inicio del proceso de ejecución de la obra pública;
+
+XIII. Mantener actualizados los expedientes técnicos y financieros de las obras públicas ejecutadas con recursos estatales, federales y otros;
+
+XIV. Otorgar facilidades a las autoridades fiscalizadoras competentes para que realicen sus facultades de revisión;
+
+XV. Formular proyectos de respuesta a observaciones o irregularidades derivadas de las revisiones de autoridades de fiscalización, tratándose de asuntos financieros, contables y técnicos inherentes a procesos de contratación de obras y servicios relacionados con las mismas, y
+
+XVI. Las demás atribuciones que le confieran las disposiciones jurídicas aplicables y el Secretario.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE NOVIEMBRE DE 2005)</small>
+
+### CAPITULO SEXTO. DE LA SUBSECRETARIA DE PROMOCION Y PLANEACION
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 14.
 
-El Titular de la Subsecretaría de Administración tendrá las siguientes atribuciones:
+El Titular de la Subsecretaría de Promoción y Planeación tendrá las siguientes atribuciones:
 
-I. Proponer al Secretario las políticas, lineamientos estrategias y prioridades que desde el punto de vista administrativo, deberán observarse en los planes, programas o proyectos en materia de obras públicas;
+I. Proponer al Secretario políticas, estrategias y acciones que deberán observarse en los planes, programas y proyectos en materia de obras públicas;
 
-II. Proponer al Secretario las medidas de modernización y simplificación administrativa susceptibles de ser establecidas en las unidades administrativas de la Secretaría;
+II. Previo acuerdo con el Secretario, asesorar y representar legalmente a la Secretaría en los asuntos que sean de su competencia;
 
-III. Vigilar los lineamientos en materia de administración de los recursos financieros, materiales y humanos asignados al cumplimiento de las funciones encomendadas;
+III. Proponer al Secretario proyectos conceptuales de obras públicas en los que se consideren estratégicamente las políticas y los lineamientos previstos en los planes y programas de desarrollo y de desarrollo urbano vigentes, coordinándose en su caso, con la Agencia para la Planeación del Desarrollo Urbano de Nuevo León;
 
-IV. Coordinar la elaboración del anteproyecto anual de presupuesto de egresos de las unidades administrativas de la Secretaría;
+IV. Previo acuerdo con el Secretario, supervisar y en su caso, realizar las acciones de concertación y negociaciones que se requieran para la realización de las obras públicas;
 
-V. Proponer al Secretario el presupuesto anual de aplicación de recursos estatales, federales y otros para la realización del programa anual de obras públicas y de servicios relacionados con las mismas;
+V. Apoyar a la Secretaría en la difusión y aplicación de sistemas y procedimientos administrativos, para la planeación, programación y presupuestación del Programa Estatal de Inversión y de los recursos derivados de convenios celebrados con la Federación autorizados para la realización de obras públicas;
 
-VI. Proponer al Secretario las bases a que deban ajustarse los concursos para la adjudicación de contratos de obra pública, así como vigilar su cumplimiento de acuerdo a los requisitos establecidos por la Ley de la materia;
+VI. Analizar y proponer al Secretario mecanismos e instrumentos de financiamiento para la ejecución de obras públicas y mantener coordinación con la Secretaría de Finanzas y Tesorería General del Estado y el responsable del área de Planeación del Estado, a efecto de participar en las negociaciones para la obtención de fuentes alternas de financiamiento;
 
-VII. Proponer al Secretario criterios para desahogar los procedimientos de licitación de obra pública, en todas sus etapas, conforme a la normatividad aplicable;
+VII. Proponer al Secretario las medidas de modernización y simplificación administrativa susceptibles de ser establecidas en las unidades administrativas de la Secretaría;
 
-VIII. Supervisar la celebración de los contratos y convenios de obra pública y de los servicios relacionados con las mismas que corresponda ejecutar a la Secretaría, en los términos de lo establecido por la ley de la materia, previo acuerdo con el Secretario;
+VIII. Vigilar los lineamientos en materia de administración de los recursos financieros, materiales y humanos asignados al cumplimiento de las funciones encomendadas;
 
-IX. Mantener actualizadas a las unidades administrativas en los avances, proyectos, programas y acciones científicos y tecnológicos relacionados con su función;
+IX. Coordinar la elaboración del anteproyecto anual de presupuesto de egresos de las unidades administrativas de la Secretaría;
 
-X. Vigilar en lo que sea competencia de la Secretaría, la calidad y suministro en equipos de cómputo, desarrollo de sistemas, capacitación, contratación de bienes y servicios en materia de informática;
+X. Proponer al Secretario el presupuesto anual de aplicación de recursos estatales, federales y otros para la realización del programa anual de obras públicas y de servicios relacionados con las mismas;
 
-XI. Asesorar a las unidades administrativas de la Secretaría en el diseño, desarrollo, aplicación, mantenimiento y mejora continua de sus sistemas y aplicaciones en informática;
+XI. Administrar los servicios de informática y de estadística de la Secretaría;
 
-XII. Proponer al Secretario los procedimientos de coordinación e información entre la Secretaría y las dependencias y entidades de la Administración Pública del Estado que intervienen en la realización de obra pública en todas sus etapas;
+XII. Proponer al Secretario los procedimientos de coordinación e información entre la Secretaría y las dependencias y entidades de la Administración Pública del Estado que intervienen en la realización de obra pública en todas sus etapas, y
 
-XIII. Organizar y coordinar el área de informática y estadística de la Secretaría, y
-
-XIV. Las demás atribuciones que le confieran las disposiciones jurídicas aplicables y el Secretario.
+XIII. Las demás atribuciones que le confieran las disposiciones jurídicas aplicables y el Secretario.
 
 ###### ARTICULO 15.
 
@@ -337,45 +387,7 @@ XX. Las demás atribuciones que le confieran las disposiciones jurídicas aplica
 
 ###### ARTICULO 16.
 
-El titular de la Dirección de Costos y Contratos tendrá las siguientes atribuciones:
-
-I. Apoyar a la Subsecretaría de su adscripción en la difusión y aplicación de sistemas y procedimientos administrativos, para la planeación, programación y presupuestación del Programa Estatal de Inversión y de los recursos derivados de convenios celebrados con la Federación autorizados para la realización de obras públicas;
-
-II. Elaborar las propuestas de inversión de obras y de servicios que ejecutará la Secretaría mediante el Programa Estatal de Inversión y a través de convenios celebrados con la Federación;
-
-III. Auxiliar al Subsecretario de su adscripción en el desempeño de las actividades que se deriven de su participación en el Comité de Apoyo para la Adjudicación y Fallo de los Concursos de Obra Pública, en los términos establecidos por la ley de la materia;
-
-IV. Formular los proyectos relativos a la expedición de bases para la contratación de obra pública de las dependencias y entidades que integran la Administración Pública Estatal;
-
-V. Formular y proponer las bases a que deberán ajustarse las licitaciones de la obra pública estatal;
-
-VI. Controlar y dar seguimiento a los contratos de obras públicas y servicios relacionados con las mismas, de conformidad a lo establecido en la normatividad aplicable;
-
-VII. Formular las estimaciones financieras relativas a los avances de obras, así como gestionar lo conducente para su pago ante la Tesorería;
-
-VIII. Llevar el control y seguimiento a las actas de entrega-recepción de los contratos de obras públicas, hasta su conclusión;
-
-IX. Coordinar las etapas de los concursos de obra pública, desde la publicación de la convocatoria, invitación, adjudicación, hasta la contratación de la misma;
-
-X. Formular los presupuestos que servirán de referencia para determinar, por su cuantía, el tipo de concurso de obra pública a realizar;
-
-XI. Controlar financieramente los avances de obras públicas estatales, llevando un control del ejercicio de las partidas presupuestales autorizadas;
-
-XII. Revisar y analizar las propuestas de inversión del Programa Estatal de Inversión y de los convenios celebrados con la Federación;
-
-XIII. Previo acuerdo con el Subsecretario de su adscripción, tramitar la documentación correspondiente para el gasto de los recursos autorizados en obras públicas;
-
-XIV. Tramitar ante la Tesorería los pagos por anticipos de contratos de obras públicas y de servicios relacionados con las mismas;
-
-XV. Informar al Subsecretario de su adscripción de la autorización de recursos, para el inicio del proceso de ejecución de la obra pública;
-
-XVI. Mantener actualizados los expedientes técnicos y financieros de las obras públicas ejecutadas con recursos estatales, federales y otros;
-
-XVII. Otorgar facilidades a las autoridades fiscalizadoras competentes para que realicen sus facultades de revisión, dando acceso a los expedientes técnicos y financieros de las obras, previa la exhibición del oficio solicitud correspondiente;
-
-XVIII. Formular proyectos de respuesta a observaciones o irregularidades derivadas de las revisiones de autoridades de fiscalización, tratándose de asuntos financieros, contables y técnicos inherentes a procesos de contratación de obras y servicios relacionados con las mismas, y
-
-XIX. Las demás atribuciones que le confieran las disposiciones jurídicas aplicables y el Secretario.
+(DEROGADO, P.O. 11 DE NOVIEMBRE DE 2005)
 
 ###### ARTICULO 17.
 
@@ -431,71 +443,49 @@ XVII. Gestionar ante la autoridad estatal competente la formalización de los co
 
 XVIII. Las demás atribuciones que le confieran las disposiciones jurídicas aplicables y el Secretario.
 
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2005)</small>
+
+ARTICULO 18 BIS. El Titular de la Dirección de Promoción tendrá las siguientes atribuciones:
+
+I. Promover los programas y proyectos competencia de la Secretaría, así como participar en la integración de los mismos, procurando su congruencia y precisa vinculación;
+
+II. Proponer al Subsecretario de su adscripción, la instrumentación de estrategias de financiamiento que permitan el desarrollo de proyectos de obras públicas;
+
+III. Promover, previo acuerdo, la participación pública, privada o social, en el financiamiento de proyectos de obras públicas;
+
+IV. Realizar los estudios y análisis de prefactibilidad que correspondan, para determinar la viabilidad de proyectos conceptuales de obras públicas, considerando al efecto criterios viales y ambientales;
+
+V. Realizar los proyectos conceptuales de obras públicas que al efecto le instruya el Subsecretario de su adscripción;
+
+VI. Realizar estudios e investigaciones que permitan evaluar necesidades de infraestructura en el Estado a nivel de proyecto conceptual;
+
+VII. Proponer el orden programático para la realización de proyectos conceptuales de obras de infraestructura que corresponda realizar a la Secretaría;
+
+VIII. Proponer en coordinación con la Dirección General Intersectorial, otras dependencias y entidades de la Administración Pública Estatal o con la Federación, los Estados y los Municipios, la realización de proyectos conceptuales de obras de infraestructura que en su caso correspondan, y
+
+IX. Las demás atribuciones que le confieran las disposiciones jurídicas aplicables y el Secretario.
+
 ### CAPITULO SEPTIMO
 
 > <small>(F. DE E., P.O. 19 DE NOVIEMBRE DE 2004)</small>
 
 DE LA SUBSECRETARIA DE PLANEACION Y PROYECTOS ESPECIALES
 
-> <small>(F. DE E., P.O. 19 DE NOVIEMBRE DE 2004)</small>
-
 ###### ARTICULO 19.
 
-El Titular de la Subsecretaría de Planeación y Proyectos Especiales tendrá las siguientes atribuciones:
-
-I. Proponer al Secretario proyectos conceptuales de obras públicas en los que se consideren estratégicamente las políticas y los lineamientos previstos en los planes y programas de desarrollo y de desarrollo urbano vigentes, coordinándose en su caso, con la Agencia para la Planeación del Desarrollo Urbano de Nuevo León;
-
-II. Elaborar en coordinación con las dependencias y entidades de la Administración Pública Estatal, el catalogo de proyectos de obras públicas que deban realizar anualmente con participación de la Secretaría;
-
-III. Proponer al Secretario el orden programático estratégico de proyectos conceptuales de obras públicas;
-
-IV. Poner a consideración del Secretario proyectos conceptuales de obras públicas realizados en coordinación con las dependencias y entidades de la Administración Pública Estatal, en los que se atiendan las necesidades y requerimientos de éstas ultimas;
-
-V. Participar en la definición de los proyectos conceptuales de las obras públicas que deban realizarse por conducto de la Secretaría, en coordinación con la Federación, los Estados y Municipios, de conformidad a los convenios que al efecto se celebren;
-
-VI. Proponer al Secretario proyectos conceptuales de obras públicas estratégicas que deban realizarse fuera de la programación ordinaria, para atender requerimientos sociales o hacer frente a situaciones extraordinarias;
-
-VII. Ordenar dictámenes de prefactibilidad técnica de proyectos conceptuales de obras públicas, considerando al efecto su factibilidad vial, socioeconómica y ambiental, según corresponda;
-
-VIII. Llevar a cabo la memoria de proyectos conceptuales de obras públicas que al efecto realice por sí o en coordinación con otras dependencias y entidades de la Administración Pública Estatal o con la Federación, los Estados y los Municipios, y
-
-IX. Las demás atribuciones que le confieran las disposiciones jurídicas aplicables y el Secretario.
+(DEROGADO, P.O. 11 DE NOVIEMBRE DE 2005)
 
 ###### ARTICULO 20.
 
-El Titular de la Dirección de Promoción tendrá las siguientes atribuciones:
-
-I. Dictaminar los proyectos conceptuales de obras públicas que le indique el Subsecretario, a fin de determinar su viabilidad social y económica;
-
-II. Proponer esquemas y mecanismos financieros para la realización de proyectos de obras públicas;
-
-III. Promover la participación pública, privada o social, en el financiamiento de proyectos de obras públicas, y
-
-IV. Las demás atribuciones que le confieran las disposiciones jurídicas aplicables y el Secretario.
+(DEROGADO, P.O. 11 DE NOVIEMBRE DE 2005)
 
 ###### ARTICULO 21.
 
-El Titular de la Dirección de Planeación tendrá las siguientes atribuciones:
-
-I. Realizar los estudios y análisis de prefactibilidad que correspondan, para determinar la viabilidad de proyectos conceptuales de obras públicas, considerando al efecto criterios viales y ambientales;
-
-II. Realizar los estudios técnicos arquitectónicos y de ingeniería que se requieran a efecto de preparar proyectos conceptuales de obras públicas;
-
-III. Realizar los proyectos conceptuales de obras públicas que al efecto le instruya el Subsecretario, y
-
-IV. Las demás atribuciones que le confieran las disposiciones jurídicas aplicables y el Secretario.
+(DEROGADO, P.O. 11 DE NOVIEMBRE DE 2005)
 
 ###### ARTICULO 22.
 
-El Titular de la Dirección de Desarrollo de la Infraestructura tendrá las siguientes atribuciones:
-
-I. Realizar estudios e investigaciones que permitan evaluar necesidades de infraestructura en el Estado a nivel de proyecto conceptual;
-
-II. Proponer el orden programático para la realización de proyectos conceptuales de obras de infraestructura que corresponda realizar a la Secretaría;
-
-III. Proponer en coordinación con la Dirección General Intersectorial, otras dependencias y entidades de la Administración Pública Estatal o con la Federación, los Estados y los Municipios, la realización de proyectos conceptuales de obras de infraestructura que en su caso correspondan, y
-
-IV. Las demás atribuciones que le confieran las disposiciones jurídicas aplicables y el Secretario.
+(DEROGADO, P.O. 11 DE NOVIEMBRE DE 2005)
 
 ### CAPITULO OCTAVO. DE LA DIRECCION GENERAL INTERSECTORIAL
 
@@ -531,9 +521,17 @@ XIII. Brindar a las unidades administrativas de la Secretaría los servicios de 
 
 XIV. Establecer y operar los servicios de hemeroteca, filmoteca, biblioteca, archivo histórico de la Secretaría y en general cualquier otro servicio de recopilación, manejo y consulta de información derivada de comunicación y prensa;
 
-XV. Elaborar instrumentos de difusión institucionales y promocionales de las obras públicas y proyectos que realice la Secretaría, y
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2005)</small>
 
-XVI. Las demás atribuciones que le confieran las disposiciones jurídicas aplicables y el Secretario.
+XV. Elaborar instrumentos de difusión institucionales y promocionales de las obras públicas y proyectos que realice la Secretaría;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2005)</small>
+
+XVI. Ordenar los estudios económicos, de planeación, de preinversión, factibilidad técnico económica, ecológica o social, de evaluación, adaptación, tenencia de la tierra, financieros, de desarrollo y restitución de eficiencia de las instalaciones, y
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2005)</small>
+
+XVII. Las demás atribuciones que le confieran las disposiciones jurídicas aplicables y el Secretario.
 
 ### CAPITULO NOVENO. DIRECCION DE SEGUIMIENTO Y GESTION
 
@@ -614,3 +612,9 @@ NAPOLEÓN CANTÚ CERNA
 EL C. SECRETARIO DE OBRAS PÚBLICAS
 
 ABEL GUERRA GARZA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 11 DE NOVIEMBRE DE 2005.
+
+Artículo Único: Las presentes modificaciones al Reglamento Interior de la Secretaría de Obras Públicas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
