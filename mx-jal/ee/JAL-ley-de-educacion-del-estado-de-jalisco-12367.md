@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2005-08-30"
+last_updated: "2005-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACION DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 2005.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -53,9 +53,11 @@ El objeto de esta ley es regular los servicios educativos que se presten en la e
 
 La función social educativa de las universidades y demás instituciones de educación superior a que se refiere la fracción VII del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, se regulará por las leyes que rigen a dichas instituciones.
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 2o.
 
-Todos los habitantes del Estado tienen derecho a recibir educación con las mismas oportunidades de acceso, calidad, permanencia y pertinencia, con sólo satisfacer los requisitos que establezcan las disposiciones generales aplicables. La educación es medio fundamental para adquirir, trasmitir y acrecentar la cultura; es proceso permanente que contribuye al desarrollo del individuo y a la transformación de la sociedad y es factor determinante para la adquisición de conocimientos y para formar al hombre de manera que tenga sentido de solidaridad social.
+Todos los habitantes del Estado tienen derecho a recibir educación con las mismas oportunidades de acceso, calidad, permanencia y pertinencia, con sólo satisfacer los requisitos que establezcan las disposiciones generales aplicables. La educación es medio fundamental para adquirir, transmitir y acrecentar la cultura; es proceso permanente que contribuye al desarrollo del individuo y a la transformación de la sociedad y es factor determinante para la adquisición de conocimiento y para formar personas con sentido de solidaridad social.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2004)</small>
 
@@ -85,9 +87,11 @@ La educación preescolar, primaria y secundaria podrá cursarse tanto en las esc
 
 El Gobierno del Estado está obligado a prestar y promover servicios educativos con el fin de que la población pueda cursar la educación preescolar, primaria, secundaria y media superior, además procurará en lo posible capacitar para el trabajo. Asimismo, promoverá y atenderá todos los tipos y modalidades educativas, incluyendo la educación superior.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 7o.
 
-La educación que imparta el Estado de Jalisco, sus Municipios, y sus organismos descentralizados; así como los particulares con autorización o reconocimiento de validez oficial de estudios, tendrá además de los fines señalados en el artículo 3º de la Constitución Federal y en la Ley General de Educación, los siguientes:
+La educación que imparta el Estado de Jalisco, sus municipios y sus organismos descentralizados; así como los particulares con autorización o reconocimiento de validez oficial de estudios, tendrá además de los fines señalados en el artículo 3º de la Constitución Federal y en la Ley General de Educación, los siguientes:
 
 I.- Contribuir al desarrollo integral del ser humano, promoviendo los valores éticos-sociales, para que ejerza plenamente sus capacidades dentro del marco de una convivencia social armónica, todo ello con la participación activa del educando, estimulando su iniciativa y un alto sentido de responsabilidad social;
 
@@ -99,7 +103,9 @@ IV.- Enseñar el español como lengua nacional común de los mexicanos, sin meno
 
 V.- Infundir el conocimiento y la práctica de la democracia como forma de gobierno y como sistema de vida que permita la participación de todos en el desarrollo político, económico y social del Estado, y en general, en la toma de decisiones para el mejoramiento de la sociedad;
 
-VI.- Promover el valor de la justicia, de la observancia de la ley y de la igualdad de derechos entre todos los hombres;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2005)</small>
+
+VI.- Promover el valor de la justicia, de la observancia de la ley y de la igualdad de derechos entres (sic) las personas;
 
 VII.- Impulsar el estudio, conservación y protección del medio físico y el aprovechamiento racional de los recursos naturales, para la solución de los problemas económicos, sociales y culturales del Estado;
 
@@ -145,7 +151,9 @@ I.- Será democrático, considerando a la democracia no solamente como una estru
 
 II.- Será nacional, en cuanto que sin hostilidades ni exclusivismos, atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de la independencia económica y a la continuidad y crecimiento de nuestra cultura, y
 
-III.- Será humanitaria, en tanto que contribuirá a la mejor convivencia humana; tanto por los elementos que aporte a fin de robustecer en el educando el aprecio por la dignidad de la persona, la integridad de la familia y la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios de raza, religión, grupos, sexo o de individuos.
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2005)</small>
+
+III.- Será humanitaria, en tanto que contribuirá a la mejor convivencia humana; tanto por los elementos que aporte a fin de robustecer en el educando el aprecio por la dignidad de la persona, la integridad de la familia y la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos, evitando los privilegios de raza, religión, grupos, sexo o condición social.
 
 ###### ARTICULO 9o.
 
@@ -1748,3 +1756,7 @@ P.O. 23 DE AGOSTO DE 2005.
 P.O. 30 DE AGOSTO DE 2005.
 
 ÚNICO.- Este decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 12 DE NOVIEMBRE DE 2005.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
