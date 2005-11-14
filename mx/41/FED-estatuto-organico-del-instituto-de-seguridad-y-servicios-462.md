@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-y-servicios-462"
 country: "mx"
 rank: "estatuto"
 publication_date: "1988-06-06"
-last_updated: "2005-01-19"
+last_updated: "2005-11-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=462&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2008-12-31"
 
 ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE NOVIEMBRE DE 2005.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 6 de junio de 1988.
 
@@ -472,6 +472,10 @@ El Director General podrá delegar cualquiera de sus facultades en otros servido
 
 Para los efectos anteriores, el Director General podrá otorgar poderes generales y especiales con las facultades que le competan, entre ellas las que requieran autorización o cláusula especial, así como sustituirlos y revocarlos.
 
+> <small>(ADICIONADO, D.O.F. 14 DE NOVIEMBRE DE 2005)</small>
+
+Asimismo, podrá conferir poderes generales y especiales a terceros, para llevar la representación y defensa jurídica de los intereses del Instituto.
+
 ### CAPITULO CUARTO. DE LA COMISION EJECUTIVA
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1994)</small>
@@ -836,7 +840,7 @@ XII.- Coordinar, en los términos de lo que establezca este Estatuto, la operaci
 
 > <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2002)</small>
 
-a) Centro Médico Nacional "20 de Noviembre";
+a) Centro Médico Nacional "20 de Noviembre".
 
 > <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2002)</small>
 
@@ -2135,3 +2139,7 @@ D.O.F. 19 DE ENERO DE 2005.
 ###### ARTICULO UNICO.
 
 Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE NOVIEMBRE DE 2005.
+
+Unico.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
