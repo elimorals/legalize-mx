@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-deporte-para-el-distrito-federal-835"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-06"
-last_updated: "2003-08-14"
+last_updated: "2005-11-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=835&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,9 @@ issue_date: "1995-10-31"
 
 LEY DEL DEPORTE PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE AGOSTO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE NOVIEMBRE DE 2005.
 
-Ley publicada en el Diario Oficial de la Federación el Lunes 13 de noviembre de 1995.
+Ley publicada en el Diario Oficial de la Federación, el lunes 13 de noviembre de 1995.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -297,6 +297,12 @@ VII.- Las contenidas en el texto de esta Ley y demás disposiciones aplicables.
 ###### ARTICULO 19.
 
 La participación en el Sistema del Deporte del Distrito Federal, es obligatoria para la Administración Pública del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 14 DE NOVIEMBRE DE 2005)</small>
+
+###### ARTICULO 19 Bis.
+
+Las autoridades de los órganos político administrativos del Distrito Federal deberán permitir que los recursos que se generen por las actividades realizadas en los deportivos, ya sean por las tarifas vigentes para el uso y la operación de las instalaciones, o los generados a partir de convenios con el sector privado sean utilizados preferentemente para el aprovechamiento y mejoría de los programas de desarrollo social de la demarcación.
 
 > <small>(REFORMADO, G.O. 13 DE MAYO DE 1999)</small>
 
@@ -708,6 +714,12 @@ El incumplimiento de esta obligación dará lugar a las sanciones que esta Ley p
 
 En el caso de existir contingencia ambiental declarada por las autoridades competentes deberán suspenderse las actividades deportivas al aire libre en las instalaciones deportivas propiedad del Gobierno del Distrito Federal.
 
+> <small>(ADICIONADO, G.O. 14 DE NOVIEMBRE DE 2005)</small>
+
+###### ARTICULO 51 Bis.
+
+Las instalaciones deportivas integrantes del Sistema del Deporte del Distrito Federal deberán ofrecer un servicio de atención médica profesional, tanto para los usuarios como para aquellos deportistas que entrenen en sus instalaciones. Este servicio deberá estar disponible de manera permanente en todos los horarios mientras se realicen en dichas instalaciones actividades deportivas. Por otro lado, ha de procurarse que el personal médico cuente con conocimientos en materia de medicina deportiva.
+
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 13 DE MAYO DE 1999)</small>
 
 ## TITULO DECIMO SEGUNDO. DE LAS LIGAS DEPORTIVAS
@@ -746,17 +758,29 @@ IV.- Difundir la cultura y conocimiento de sus disciplinas deportivas.
 
 El funcionamiento de las ligas deportivas será de conformidad con esta Ley, los Lineamientos para el Uso de las Instalaciones Deportivas, su Reglamento y su normatividad interna.
 
-> <small>(ADICIONADO, G.O. 13 DE MAYO DE 1999)</small>
+> <small>(REFORMADO, G.O. 14 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 56.
 
-Corresponde al administrador de las instalaciones deportivas supervisar el cumplimiento de la normatividad para el mejor funcionamiento de las ligas deportivas.
+Corresponde a la administración de las instalaciones deportivas supervisar el cumplimiento de la normatividad para el mejor funcionamiento de las ligas deportivas. Así como evitar que se violen las disposiciones que se estipulen en el presente ordenamiento. Los administradores deberán presentar a los Jefes Delegacionales y al Instituto del Deporte, un informe anual pormenorizado sobre la situación de las ligas deportivas.
 
 > <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 56 Bis.
 
 Las ligas deportivas deberán presentar su calendario de actividades a las autoridades encargadas de administrar la instalación deportiva, así como al Instituto del Deporte del Distrito Federal. La autoridad encargada de administrar las instalaciones deportivas autorizará el uso de éstas, de conformidad con los lineamientos que para el efecto expida el Instituto del Deporte del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 14 DE NOVIEMBRE DE 2005)</small>
+
+###### ARTICULO 56 Ter.
+
+Las ligas deportivas deberán responsabilizarse del uso de las instalaciones durante los horarios que les son concedidos. Junto con la administración del deportivo asumirán las tareas de mantenimiento y conservación de las mismas en los horarios acordados. Para lo anterior, deberán tomar en cuenta los lineamientos propuestos por la administración del deportivo y el Instituto.
+
+> <small>(ADICIONADO, G.O. 14 DE NOVIEMBRE DE 2005)</small>
+
+###### ARTICULO 56 Quáter.
+
+La administración de las instalaciones deportivas será responsable de que las ligas deportivas que utilicen las instalaciones y los servicios que ofrece el deportivo lo hagan, de acuerdo a las disposiciones de esta ley y acorde con la cultura deportiva, a la que se refiere el Título Séptimo del presente ordenamiento.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 13 DE MAYO DE 1999)</small>
 
@@ -879,3 +903,7 @@ Artículo Segundo.- La Secretaría de Desarrollo Social del Distrito Federal, po
 Artículo Tercero.- El Jefe de Gobierno del Distrito Federal deberá tomar las medidas necesarias para dar cumplimiento a las presentes reformas y adiciones en el ámbito de su competencia y reformar las disposiciones administrativas necesarias para cumplir con el texto de estas reformas y adiciones. Asimismo deberá expedirse la actualización del Reglamento de la Ley del Deporte del Distrito Federal una vez que haya entrado en vigor este Decreto de ley.
 
 Artículo Cuarto.- Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto de Ley.
+
+G.O. 14 DE NOVIEMBRE DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal.
