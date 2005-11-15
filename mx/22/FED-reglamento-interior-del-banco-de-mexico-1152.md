@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2005-10-14"
+last_updated: "2005-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE NOVIEMBRE DE 2005.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -65,7 +65,7 @@ La Junta de Gobierno y sus miembros, contarán con los asesores que la propia Ju
 
 Las actas de las sesiones de la Junta de Gobierno se conservarán en volúmenes anuales y serán firmadas por quien haya presidido la Junta y por el Secretario, así como por los miembros de la Junta de Gobierno asistentes que quieran hacerlo, debiéndose conservar en un apéndice un ejemplar de los documentos que hubieran sido relacionados en la sesión de que se trate.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 4o.
 
@@ -79,15 +79,15 @@ Dirección General de Análisis del Sistema Financiero.
 
 Dirección General Jurídica.
 
-Dirección General de Intermediarios Financieros de Fomento.
-
 Dirección General de Administración.
 
 Dirección General de Emisión.
 
+Dirección General de Planeación Estratégica.
+
 Dirección de Relaciones Externas.
 
-Dirección de Coordinación de la Información.
+Dirección de Intermediarios Financieros de Fomento.
 
 Dirección de Sistemas.
 
@@ -119,8 +119,6 @@ Dirección de Disposiciones de Banca Central.
 
 Dirección Jurídica.
 
-Dirección de Intermediarios Financieros de Fomento.
-
 Dirección de Recursos Humanos.
 
 Dirección de Contabilidad.
@@ -131,9 +129,13 @@ Dirección de Seguridad.
 
 Dirección de Programación y Distribución de Efectivos.
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2004)</small>
+Dirección de Estrategia.
 
-Las Direcciones Generales tendrán adscritas las Direcciones que señala el presente Reglamento. Las Direcciones de Relaciones Externas, Coordinación de la Información y Sistemas, dependerán del Gobernador. El Banco contará con un Contralor, que dependerá de la Junta de Gobierno y con un Director de Auditoría, cuya unidad administrativa estará adscrita al Contralor.
+Dirección de Coordinación de la Información.
+
+> <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2005)</small>
+
+Las Direcciones Generales tendrán adscritas las Direcciones que señala el presente Reglamento. Las Direcciones de Relaciones Externas, Intermediarios Financieros de Fomento y Sistemas, dependerán del Gobernador. El Banco contará con un Contralor, que dependerá de la Junta de Gobierno y con un Director de Auditoría, cuya unidad administrativa estará adscrita al Contralor.
 
 > <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 1999)</small>
 
@@ -295,11 +297,7 @@ ARTICULO 14 BIS.- La Dirección General Jurídica tendrá las atribuciones que s
 
 A esta Dirección General estarán adscritas las Direcciones de Disposiciones de Banca Central y Jurídica.
 
-> <small>(REFORMADO, D.O.F. 30 DE JULIO DE 1999)</small>
-
-ARTICULO 14 BIS 1.- La Dirección General de Intermediarios Financieros de Fomento tendrá las atribuciones señaladas en el artículo 25 Bis 1.
-
-A esta Dirección General estará adscrita la Dirección de Intermediarios Financieros de Fomento.
+ARTICULO 14 BIS 1.- (DEROGADO, D.O.F. 15 DE NOVIEMBRE DE 2005)
 
 > <small>(REFORMADO, D.O.F. 14 DE OCTUBRE DE 2005)</small>
 
@@ -315,7 +313,15 @@ A esta Dirección General estará adscrita la Dirección de Intermediarios Finan
 
 La Dirección General de Administración tendrá las atribuciones señaladas en los artículos 26, 27, 27 Bis y 28 Bis de este Reglamento.
 
-A esta Dirección General estarán adscritas las Direcciones de Recursos Humanos, Contabilidad, Recursos Materiales y Seguridad, así como la Gerencia de Informática. La Gerencia de Informática operará y desarrollará los sistemas de informática de esta Dirección General y de las unidades administrativas adscritas a ésta, pudiendo realizar todos los actos necesarios para ese fin.
+> <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2005)</small>
+
+A esta Dirección General estarán adscritas las Direcciones de Recursos Humanos, Contabilidad, Recursos Materiales y Seguridad.
+
+> <small>(ADICIONADO, D.O.F. 15 DE NOVIEMBRE DE 2005)</small>
+
+ARTICULO 15 BIS.- La Dirección General de Planeación Estratégica tendrá las atribuciones señaladas en los artículos 18 Bis y 29 Bis de este Reglamento.
+
+A esta Dirección General estarán adscritas las Direcciones de Estrategia y de Coordinación de la Información, así como las Gerencias de Proyectos A, B y C.
 
 > <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 2004)</small>
 
@@ -891,6 +897,20 @@ IV. Proporcionar, en el ámbito de cómputo y telecomunicaciones, los bienes y s
 
 V. (DEROGADA, D.O.F. 8 DE FEBRERO DE 2002)
 
+> <small>(ADICIONADO, D.O.F. 15 DE NOVIEMBRE DE 2005)</small>
+
+ARTICULO 29 BIS.- La Dirección de Estrategia tendrá las atribuciones siguientes:
+
+I. Coordinar el proceso de planeación estratégica institucional;
+
+II. Coordinar el seguimiento y la evaluación del cumplimiento del programa de trabajo institucional;
+
+III. Difundir entre el personal las metas y objetivos de la estrategia y el programa de trabajo institucionales y los resultados de su cumplimiento;
+
+IV. Promover programas de modernización de los procesos a través de los cuales se realizan las funciones institucionales, buscando su congruencia con los objetivos y prioridades estratégicas del Banco, y
+
+V. Mantener relaciones con organismos e instituciones nacionales e internacionales, en el ámbito de su competencia.
+
 > <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 30.
@@ -931,9 +951,9 @@ VII. Llevar el registro de los servidores públicos del Banco, en términos de l
 
 VIII. Proponer a la Junta de Gobierno las normas a que se refiere el artículo 46 fracción XII de la Ley del Banco, y aquéllas que resulten aplicables a éste, sin perjuicio de las que a otras unidades corresponda proponer a dicha Junta;
 
-(REUBICADA, D.O.F. 14 DE OCTUBRE DE 2005)
+> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2005)</small>
 
-IX. Promover en forma permanente los programas de modernización y desarrollo administrativo, que permitan eficientar la operación de las unidades administrativas del Banco;
+IX. Promover la adecuada actualización y suficiencia normativa y del control interno de la institución; así como, instrumentar y mantener una matriz de riesgos institucional;
 
 (REUBICADA, D.O.F. 14 DE OCTUBRE DE 2005)
 
@@ -1446,3 +1466,7 @@ En consecuencia, los Directores Generales, Directores y Contralor, que requieran
 Asimismo, las reformas a los artículos 16 Bis, fracción VI, 26, fracción VI, así como la adición del artículo 27 Bis, en lo relativo a las fracciones III y X, y la derogación de la fracción X del artículo 28, entrarán en vigor a partir del 1o. de enero de 2006.
 
 CUARTO. En tanto no se modifiquen los acuerdos o actos de creación, integración y funcionamiento de los órganos a que se refiere la fracción II del artículo 30, derogado en los términos del artículo Tercero, el Contralor del Banco continuará llevando el secretariado de los mismos.
+
+D.O.F. 15 DE NOVIEMBRE DE 2005.
+
+PRIMERO. Las presentes reformas, adiciones y derogación entrarán en vigor a partir del 16 de noviembre de 2005.
