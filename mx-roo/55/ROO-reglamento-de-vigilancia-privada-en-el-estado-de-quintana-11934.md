@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-vigilancia-privada-en-el-estado-de-quintana-11934
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-07-26"
-last_updated: "1995-07-26"
+last_updated: "2005-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 REGLAMENTO DE VIGILANCIA PRIVADA EN EL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LOS SERVICIOS DE SEGURIDAD PRIVADA DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 15 DE NOVIEMBRE DE 2005, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 26 de julio de 1995.
 
@@ -356,3 +358,17 @@ ING. RAFAEL LARA Y LARA
 EL SECRETARIO DE PROTECCIÓN Y VIALIDAD
 
 C. EFRAÍN ORTIZ YELADAQUI
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 15 DE NOVIEMBRE DE 2005.
+
+PRIMERO.- El presente Reglamento, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+SEGUNDO.- Se abroga el acuerdo de fecha diez de abril de 1995, publicado en el Periódico Oficial del Gobierno del Estado de Quintana Roo, el día veintiséis de julio de 1995, que creó el Reglamento de Vigilancia Privada en el Estado de Quintana Roo.
+
+TERCERO.- Se concede un plazo de noventa días hábiles a partir de la entrada en vigor del presente Reglamento, a todos los prestadores de servicios de seguridad privada para que actualicen sus expedientes en los términos del presente Reglamento y soliciten su autorización y registro ante la Secretaría.
+
+CUARTO.- Se concede un plazo de sesenta días hábiles a partir de la entrada en vigor del presente Reglamento, a las personas físicas o morales prestadoras de los Servicios de Seguridad Privada que cuenten con Licencia Federal, para que se apeguen a las disposiciones que para la prestación del servicio contiene el presente Reglamento.
+
+QUINTO.- Se concede a los prestadores, un plazo de sesenta días naturales a partir de la entrada en vigor del presente Reglamento, para que celebren convenio con el Instituto de Profesionalización de la Seguridad Pública, a fin de que sus elementos realicen los cursos básicos de capacitación.
