@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-tribunal-electoral-del-estado-de-18099"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-11-08"
-last_updated: "2005-10-12"
+last_updated: "2005-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18099&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2005.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 8 de noviembre de 2000.
 
@@ -1357,6 +1357,90 @@ h) Supervisar dentro de la entidad pública correspondiente, la aplicación de l
 
 i) Elaborar el informe anual que cada entidad pública deberá enviar al Instituto, en el que se de cuenta de la aplicación de la ley reglamentaria.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE NOVIEMBRE DE 2005)</small>
+
+### CAPÍTULO VIII
+
+DEL INSTITUTO ACADÉMICO DE INVESTIGACIONES Y CAPACITACIÓN ELECTORAL.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2005)</small>
+
+###### ARTÍCULO 118.
+
+El Instituto Académico de Investigaciones y Capacitación Electoral, creado por disposición de ley y formalizada su constitución por Acta de Sesión de Pleno, siendo su objeto el estudio, divulgación y fomento de la cultura democrática, el cual se pronuncia en forma enunciativa y no limitativa; de la que se deriva la capacitación en todos los niveles, de cuadros susceptibles de ocupar cargos dentro de la estructura electoral del estado, en especial tratándose de la administración de justicia electoral. Y derivado del objeto señalado en la ley, la divulgación de la cultura político-electoral que contribuyan a la formación ciudadana para garantizar la efectividad del sufragio; la planeación y desarrollo de proyectos académicos específicos que contribuyan a la formación de personal altamente especializado en la materia de derecho electoral, su rama procesal y disciplinas afines, que a su vez, contribuyan al fortalecimiento de la cultura cívico-política nacional.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2005)</small>
+
+###### ARTÍCULO 119.
+
+El Instituto Académico de Investigaciones y Capacitación Electoral estará integrado por:
+
+I. Un Director General del Instituto;
+
+II. Un Director de Investigación: Recopilación y Elaboración de Acervo Informático;
+
+III. Un Director de Capacitación: a Municipios y Partidos Políticos, Difusión y Recopilación del Acervo Bibliohemerográfico;
+
+IV. Investigadores;
+
+V. Capacitadores; y
+
+VI. Personal administrativo.
+
+El Pleno, de entre los Magistrados Electorales elegirá a los Directores del Instituto.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2005)</small>
+
+###### ARTÍCULO 120.
+
+Los investigadores, capacitadores y el personal administrativo, se designarán de la estructura del Tribunal Electoral; pudiendo realizarse la contratación de más personal, para el cumplimiento de los objetivos del Instituto, según lo permita el presupuesto respectivo.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2005)</small>
+
+###### ARTÍCULO 121.
+
+Los titulares de las direcciones que integran el Instituto, durarán en su encargo dos años y podrán reeligirse (sic) las veces que así lo apruebe el Pleno del Tribunal Estatal Electoral, mientras se tenga la calidad de Magistrado.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2005)</small>
+
+###### ARTÍCULO 122.
+
+El Director General del Instituto Académico de Investigaciones y Capacitación Electoral, tendrá las siguientes atribuciones:
+
+I. Coordinar las actividades del Instituto para cumplir con su objetivo de creación; y,
+
+II. Las demás que le confiera este Reglamento y el Código de la materia.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2005)</small>
+
+###### ARTÍCULO 123.
+
+Los Directores del Instituto, en cada una de sus áreas, deberán cumplir con lo establecido en el artículo 292 del Código de la materia y las demás que le confiera el Pleno de este Tribunal Electoral y el presente Reglamento.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2005)</small>
+
+###### ARTÍCULO 124.
+
+Que por disposición de la ley, el Programa Anual de Investigación y Capacitación Electoral, deberá ser sometido para su aprobación por el Pleno del Tribunal Electoral a más tardar el día 28 de febrero de cada año y tomando en consideración que en los años electorales esta circunstancia debe contemplarse en el Programa Anual.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2005)</small>
+
+###### ARTÍCULO 125.
+
+Los Directores del Instituto deberán presentar un informe anual de las actividades realizadas ante el Pleno del Tribunal Electoral, el cual deberá ser aprobado por sus integrantes en la misma fecha que se presente el Programa Anual del siguiente año; es decir, a más tardar el 28 de febrero de cada año.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2005)</small>
+
+###### ARTÍCULO 126.
+
+En los años en que se esté en proceso electoral, el Instituto sólo realizará, en su caso, alguna actividad académica esporádica o la tramitación de algún curso, diplomado, especialidad o grado, ante las autoridades educativas competentes; toda vez que el Tribunal Electoral debe avocarse plenamente a la resolución de las controversias que se susciten con motivo de dichas elecciones, para el efecto de garantizar la transparencia y legalidad del citado proceso electoral.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2005)</small>
+
+###### ARTÍCULO 127.
+
+Para el cumplimiento de las atribuciones a que se refiere el artículo 118 del presente reglamento se aplicará en forma supletoria la Ley de Educación del Estado de Morelos. Lo no previsto en el Código Electoral para el Estado de Morelos, en el presente Reglamento, y para la interpretación de los mismos, siempre que no sean atribuciones del Director General o de los Directores de las áreas del Instituto, será resuelto por el Pleno del Tribunal Estatal Electoral.
+
 T R A N S I T O R I O S (SIC)
 
 ###### ARTÍCULO ÚNICO.
@@ -1406,3 +1490,13 @@ LAS REFORMAS CON ANTELACION CITADAS, NO SEÑALAN DISPOSICIONES TRANSITORIAS EN R
 P.O. 12 DE OCTUBRE DE 2005.
 
 LAS REFORMAS CON ANTELACION CITADAS, NO SEÑALAN DISPOSICIONES TRANSITORIAS EN RELACION CON LA ENTRADA EN VIGOR DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 7 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE MORELOS.
+
+P.O. 16 DE NOVIEMBRE DE 2005.
+
+PRIMERO.- Con independencia de lo ordenado en el artículo 121 del presente reglamento y con motivo de la vigencia de las reformas electorales, relativas a la creación del Instituto, para efectos del primer período en el encargo de las Direcciones del citado Instituto, el mismo, por única ocasión, se ejercerá a partir de la constitución formal del mismo y hasta el 31 de diciembre del año 2007.
+
+SEGUNDO.- Toda vez que el Instituto interrumpe sus actividades normales temporalmente, en los años en que se desarrolle el proceso electoral y con motivo de la vigencia de las reformas electorales, relativas a la creación del Instituto, para efectos del siguiente Programa Anual de Investigación y Capacitación Electoral, éste deberá ser sometido para su aprobación por el Pleno del Tribunal Electoral, a más tardar el 28 de febrero del año 2007.
+
+TERCERO.- Por la Constitución reciente del Instituto, el primer informe anual de actividades se deberá rendir a más tardar el 28 de febrero del año 2008.
+
+CUARTO.- La presente adición al Reglamento Interno del Tribunal Electoral del Poder Judicial del Estado, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
