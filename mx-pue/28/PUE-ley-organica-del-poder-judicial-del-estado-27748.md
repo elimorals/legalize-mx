@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-judicial-del-estado-27748"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-30"
-last_updated: "2003-12-12"
+last_updated: "2005-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 2005.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 30 de diciembre de 2002.
 
@@ -829,9 +829,11 @@ Los Jueces Municipales podrán imponer, como correcciones disciplinarias, las pr
 
 Los Jueces Municipales serán nombrados por el Pleno del Tribunal Superior de Justicia, durarán tres años en el ejercicio de su cargo, y serán elegidos a propuesta en terna del Cabildo Municipal del lugar en que van a ejercer jurisdicción, pudiendo ser propuestos en terna para un periodo igual.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 52.
 
-En los Municipios del interior del Estado, los Jueces Municipales conocerán:
+Los Jueces Municipales conocerán:
 
 I.- De todas las diligencias que deban practicarse en vía de jurisdicción voluntaria;
 
@@ -847,11 +849,15 @@ VI.- De los recursos que procedan contra las resoluciones de los Jueces de Paz d
 
 VII.- De las diligencias de apeo y deslinde;
 
-VIII.- De las acciones interdictales;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2005)</small>
+
+VIII.- De la Rectificación de las Actas del Estado Civil de la (sic) Personas;
 
 IX.- De los actos preparatorios de juicio, cuando la cuantía del negocio principal que haya de promoverse, no exceda los límites de su competencia;
 
-X.- De los delitos cuya suma de sanción de prisión mínima y máxima, no exceda de cinco años y multa, o que sólo les corresponda ésta, excepto los comprendidos en el Libro Segundo, Capítulo Primero, Sección Segunda, y en el Libro Segundo, Capítulo Decimonoveno, Secciones Primera y Tercera, del Código de Defensa Social; y
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2005)</small>
+
+X.- De los delitos que sólo estén sancionados con multa; y de aquéllos cuya sanción máxima de prisión no exceda de cinco años; excepto los comprendidos en el Libro Segundo, Capítulo Primero, Sección Segunda, y en el Libro Segundo, Capítulo Decimonoveno, Secciones Primera y Tercera, del Código de Defensa Social para el Estado Libre y Soberano de Puebla; y
 
 XI.- De los demás asuntos que les encomienden las leyes.
 
@@ -2013,9 +2019,11 @@ Los Servidores Públicos del Poder Judicial del Estado, una vez nombrados, tomar
 
 Los Servidores Públicos del Poder Judicial del Estado, nombrados por falta absoluta de los propietarios, también tomarán posesión, previa protesta legal, ante la Autoridad que expidió su nombramiento.
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 183.
 
-En la Capital del Estado, el Gobernador dará posesión de sus cargos al Presidente del Tribunal Superior de Justicia, a los Magistrados, y a todos los Jueces Civiles, Familiares y Penales del Estado.
+El Gobernador del Estado dará posesión de sus cargos al Presidente del Tribunal Superior de Justicia y a los Magistrados. Por lo que hace a los Jueces Civiles, Familiares y Penales y a los Directores Administrativos, corresponderá al Presidente del Tribunal Superior de Justicia o al Coordinador General de la Junta de Administración del Poder Judicial, darles posesión.
 
 > <small>(F. DE E., P.O. 3 DE FEBRERO DE 2003)</small>
 
@@ -2436,6 +2444,12 @@ Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el P
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 12 DE DICIEMBRE DE 2003.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE NOVIEMBRE DE 2005.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
