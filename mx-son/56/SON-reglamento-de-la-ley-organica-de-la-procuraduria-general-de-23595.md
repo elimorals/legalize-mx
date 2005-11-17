@@ -4,7 +4,7 @@ identifier: "SON-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-235
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-11-26"
-last_updated: "2001-11-26"
+last_updated: "2005-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23595&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 17 DE NOVIEMBRE DE 2005.
 
 Reglamento publicado en la Sección III del Boletín Oficial del Estado Sonora, el lunes 26 de noviembre de 2001.
 
@@ -45,35 +45,61 @@ La Procuraduría General de Justicia del Estado de Sonora, como dependencia del 
 
 La Procuraduría General de Justicia del Estado de Sonora, cuyo titular será el Procurador General de Justicia del Estado, para el ejercicio de sus atribuciones y el despacho de los asuntos de su competencia, se integrará con:
 
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
 - Procuraduría.
+
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
 - Subprocuraduría de Averiguaciones Previas.
 
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
 - Subprocuraduría de Control de Procesos.
 
-- Subprocuraduría de Asistencia Técnica y Programas Sociales.
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
 - Dirección General de Averiguaciones Previas.
 
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
 - Dirección General de Servicios Periciales.
+
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+- Dirección General de Procesos.
+
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
 - Dirección General de Sistemas de Información y Política Criminal.
 
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
 - Dirección General de Asuntos Jurídicos.
 
-- Dirección General de Programas Sociales y Servicios a la Comunidad.
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
 - Dirección General de Policía Judicial.
 
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
 - Visitaduría General.
+
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
 - Dirección General de Programación, Organización y Presupuesto.
 
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
 - Unidad Central de Agentes Especiales del Ministerio Público.
 
-Órganos Desconcentrados:
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+Órganos Desconcentrados.
 
 - Delegaciones Regionales de la Procuraduría General de Justicia del Estado.
+
+Se anexa organigrama estructural. (sic)
 
 Además, para la mejor atención y el eficiente despacho de sus asuntos, la Procuraduría General de Justicia del Estado, contará con las comisiones y con las unidades administrativas subalternas que fueren necesarias. La creación y funciones de estas comisiones y unidades, cuando no se precisen en este ordenamiento, se señalarán en los acuerdos respectivos o se incorporarán en el manual de organización de la dependencia.
 
@@ -121,21 +147,29 @@ XI.- Proponer al Gobernador del Estado, la creación o supresión de plaza dentr
 
 XII.- Aprobar los programas institucionales de las entidades agrupadas en el sector que le corresponda coordinar;
 
-XIII.- Aprobar los anteproyectos de programas operativos anuales y de presupuestos de egresos por programas de la dependencia y someterlos a la consideración de la Secretaría de Planeación del Desarrollo y Gasto Público, para su trámite posterior;
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+XIII.- Aprobar los anteproyectos de programas operativos anuales y de presupuestos de egresos por programas de la dependencia y someterlos a la consideración de la Secretaría de Hacienda, para su trámite posterior;
 
 XIV.- Autorizar con su firma los convenios, bases y otros instrumentos de coordinación, que la Procuraduría celebre con otras dependencias o entidades de la Administración Pública Estatal, así como suscribir los documentos relativos al ejercicio de sus atribuciones;
 
 XV.- Establecer los lineamientos, normas y políticas conforme a los cuales la Procuraduría proporcionará los informes, los datos y la cooperación técnica que le sean requeridos por otras dependencias de la Administración Pública Federal, Estatal y Municipal;
 
-XVI.- Dispensar los requisitos de ingreso para Agentes del Ministerio Público, Agentes de la Policía Judicial o Peritos, a personas de amplia experiencia profesional, en los términos que establece el presente ordenamiento;
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
-XVII.- Proponer al Ejecutivo Estatal el nombramiento y remoción del personal de la Institución del Ministerio Público, y sus órganos auxiliares, así como el demás personal de la Procuraduría, de conformidad con este ordenamiento y demás disposiciones legales aplicables;
+XVI.- Dispensar los requisitos de ingreso para Agentes del Ministerio Público y Peritos, personas de amplia experiencia profesional, en los términos que establece la Ley Orgánica de la Procuraduría General de Justicia del Estado de Sonora y el presente ordenamiento;
+
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+XVII.- Proponer al Ejecutivo Estatal el nombramiento del personal de la Institución del Ministerio Público, así como el demás personal de la Procuraduría de conformidad con este ordenamiento y demás disposiciones legales aplicables. Asimismo, resolver sobre la remoción de los Agentes del Ministerio Público, Agentes o Jefes de Grupo de la Policía Estatal Investigadora y Peritos;
 
 XVIII.- Resolver las dudas que se susciten con motivo de la interpretación o aplicación de este Reglamento, así como los casos no previstos en el mismo. Asimismo, emitir las instrucciones para dirimir los conflictos de competencia que se presenten entre las unidades administrativas de la Procuraduría;
 
 XIX.- Establecer los lineamientos de participación de la Procuraduría en las instancias de coordinación del Sistema Estatal de Seguridad Pública, de acuerdo con la ley de la materia y demás normas que regulen la integración, organización y funcionamiento de dicho Sistema;
 
-XX.- Emitir y desarrollar normas de control y evaluación técnico-jurídicas en las Agencias del Ministerio Público y sus órganos auxiliares, mediante la práctica de visitas de inspección y vigilancia;
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+XX.- Emitir y desarrollar las normas de control y evaluación técnico-jurídicas en las Agencias del Ministerio Público y sus órganos auxiliares, mediante la práctica de visitas de inspección y vigilancia;
 
 XXI.- Establecer los lineamientos para definir, coordinar y evaluar los programas de comunicación social, difusión de programas sociales y de relaciones públicas de la dependencia;
 
@@ -143,9 +177,21 @@ XXII.- Proponer al Gobernador del Estado, por conducto de la Secretaría de la C
 
 XXIII.- Expedir, previa autorización del titular del Poder Ejecutivo, emitida por conducto de la Secretaría de la Contraloría General del Estado, el Manual de Organización de la dependencia, así como sus modificaciones, y solicitar la publicación respectiva en el Boletín del Gobierno del Estado;
 
-XXIV.- Expedir, previa autorización del Gobernador del Estado, los manuales de procedimientos y de servicios al público de la Procuraduría, necesarios para el funcionamiento de ésta y, en su caso, mantener permanentemente actualizados los mismos; y
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
-XXV.- Las demás que con este carácter le confieran este ordenamiento y otras disposiciones legales, así como aquellas otras que le encomiende el Gobernador del Estado.
+XXIV.- Expedir, previa autorización del Gobernador del Estado, los Manuales de Procedimientos, de organización y de Servicios al Público de la Procuraduría, necesarios para el funcionamiento de ésta y, en su caso, mantener permanentemente actualizados los mismos;
+
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+XXV.- Someter al acuerdo del Gobernador del Estado la concesión de licencias a Agentes de la Policía Judicial, en los términos del artículo 29 de la Ley Orgánica de la Procuraduría General de Justicia del Estado;
+
+> <small>(ADICIONADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+XXVI.- Coordinar la implementación de mecanismos que contribuyan a garantizar el acceso de los ciudadanos a la información de carácter público de la Procuraduría General de Justicia, dentro del marco de la Ley de Acceso a la Información Pública del Estado de Sonora; y
+
+> <small>(ADICIONADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+XXVII.- Las demás que con este carácter le confieran este ordenamiento y otras disposiciones legales, así como aquellas otras que le encomiende el Gobernador del Estado.
 
 ###### ARTICULO 7o.
 
@@ -157,21 +203,33 @@ II.- Participar, en el marco del Sistema Estatal de Planeación Democrática, en
 
 III.- Aprobar las bases particulares para el desarrollo de los subsistemas y procedimientos de programación, presupuestación, información, control y evaluación aplicables en la dependencia;
 
-IV.- Autorizar, específicamente, a las unidades administrativas de la Procuraduría, el ejercicio del presupuesto de egresos de la dependencia, conforme a las disposiciones aplicables, a las autorizaciones globales y al calendario que haya emitido la Secretaría de Planeación del Desarrollo y Gasto Público;
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+IV.- Autorizar, específicamente, a las unidades administrativas de la Procuraduría, el ejercicio del presupuesto de egresos de la dependencia, conforme a las disposiciones aplicables, a las autorizaciones globales y al calendario que haya emitido la Secretaría de Hacienda;
 
 V.- Intervenir en la elaboración de los convenios, acuerdos y anexos de ejecución que, en materia de su competencia, celebre el Gobernador del Estado;
 
 VI.- Recibir en acuerdo a los funcionarios y empleados de la Procuraduría y conceder audiencias a los particulares, de conformidad con las políticas establecidas al respecto;
 
-VII.- Proporcionar a la Secretaría de Planeación del Desarrollo y Gasto Público, los datos de las actividades realizadas por la Procuraduría y por las entidades agrupadas a su sector, para la elaboración del informe a que se refiere el artículo 46 de la Constitución Política Local;
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+VII.- Proporcionar a la Secretaría de Hacienda, los datos de las actividades realizadas por la Procuraduría y por las entidades agrupadas a su sector, para la elaboración del informe a que se refiere el artículo 46 de la Constitución Política Local;
 
 VIII.- Resolver sobre los casos en que proceda legalmente pedir la libertad del detenido y sobre la determinación del no ejercicio de la acción penal a que se refiere el artículo 134 del Código de Procedimientos Penales para el Estado de Sonora;
 
 IX.- Confirmar o modificar las conclusiones no acusatorias; asimismo, resolver lo que corresponda en los casos en que las conclusiones formuladas no comprendieran algún delito que resultare probado en la instrucción, o si fueren contrarias a las constancias procesales o si en ellas no se cumpliere con lo dispuesto en el artículo 279 del Código de Procedimientos Penales para el Estado de Sonora;
 
-X.- Resolver lo conducente respecto de los actos cuya consecuencia sea el sobreseimiento del proceso o la libertad absoluta del inculpado, antes de que se pronuncie sentencia; y
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
-XI.- Las demás que le confieran las disposiciones legales y no se encuentren en los supuestos señalados en el artículo anterior.
+X.- Resolver lo conducente respecto de los actos cuya consecuencia sea el sobreseimiento del proceso o la libertad absoluta del inculpado, antes de que se pronuncie sentencia;
+
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+XI.- Definir e implementar políticas de control tendientes a vigilar que la actuación del Ministerio Público, sus órganos auxiliares y demás unidades administrativas de la Procuraduría sea apegada a derecho, con absoluto respeto a los derechos humanos; y
+
+> <small>(ADICIONADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+XII.- Las demás que le confieran las disposiciones legales y no se encuentren en los supuestos señalados en el artículo anterior.
 
 ### CAPITULO III. DE LAS ATRIBUCIONES DE LOS SUBPROCURADORES
 
@@ -203,41 +261,37 @@ XI.- Coordinarse con los demás Subprocuradores, cuando resulte necesario para a
 
 XII.- Participar, en la esfera de su competencia, en la elaboración e integración de los programas que, derivados del Plan Estatal de Desarrollo, queden a cargo de la dependencia;
 
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
 XIII.- Evaluar y verificar periódicamente los resultados de las actividades de la Subprocuraduría a su cargo, en función de los objetivos y prioridades definidos en los programas que se encuentren bajo su responsabilidad, y adoptar en su caso, las medidas necesarias para corregir las desviaciones que se hubieren detectado;
 
-XIV.- Las demás que le confieran otras disposiciones legales o el Procurador.
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+XIV.- Vigilar el debido ejercicio de las atribuciones de los Agentes del Ministerio Público adscritos a su Subprocuraduría;
+
+> <small>(ADICIONADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+XV.- Practicar visitas de inspección, supervisión, control y evaluación técnica-jurídica a las Agencias del Ministerio Público adscritas a su Subprocuraduría;
+
+> <small>(ADICIONADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+XVI.- Promover, organizar e impartir cursos de capacitación, actualización y especialización para el personal de las Agencias del Ministerio Público;
+
+> <small>(ADICIONADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+XVII.- Unificar criterios legales;
+
+> <small>(ADICIONADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+XVIII.- Aplicar, previa delegación del titular de la dependencia, a los Agentes del Ministerio Público y Peritos oficiales las sanciones y correctivos disciplinarios previstos en la Ley Orgánica de la Procuraduría General de Justicia del Estado de Sonora, con excepción de la remoción por destitución; y
+
+> <small>(ADICIONADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+XIX.- Las demás que le confieran otras disposiciones legales o el Procurador.
 
 ###### ARTICULO 9o.
 
-Las atribuciones específicas de la Subprocuraduría de Control de Procesos, que serán ejercidas por los Agentes del Ministerio Público, serán las siguientes:
-
-I.- Intervenir en su calidad de parte, de acuerdo con las normas aplicables, en los procesos que se sigan ante las autoridades judiciales respectivas;
-
-II.- Remitir al órgano jurisdiccional correspondiente, a las personas detenidas en cumplimiento de una orden de comparecencia, aprehensión o reaprehensión dictada por éste;
-
-III.- Aportar las pruebas pertinentes y promover en el proceso las diligencias conducentes al esclarecimiento de los hechos, a la comprobación del cuerpo del delito, de la responsabilidad de quienes hayan intervenido en el mismo, de la existencia de los daños y perjuicios y de la fijación del monto de su reparación;
-
-IV.- Promover lo necesario, a efecto de que se garantice durante el proceso el pago de la reparación de los daños y perjuicios;
-
-V.- Vigilar que se respeten las normas, términos y plazos procesales;
-
-VI.- Interponer y hacer valer durante el proceso los recursos pertinentes;
-
-VII.- Formular conclusiones en los términos fijados por la ley, solicitando la imposición de las penas y medidas de seguridad que correspondan, y el pago de la reparación de daños y perjuicios o, en su caso, plantear, conforme legalmente corresponda, las circunstancias excluyentes de responsabilidad o las causas que extingan la acción penal;
-
-VlII.- Concurrir e intervenir en las diligencias y audiencias que se practiquen en los juzgados de su adscripción y desahogar las vistas que se le den;
-
-IX.- Remitir a la Policía Judicial, para su ejecución, las órdenes de aprehensión, reaprehensión, comparecencia, arresto y planeación;
-
-X.- Practicar visitas a los establecimientos destinados a la prisión preventiva, o a la ejecución de sanciones privativas de libertad, o de instituciones de custodia o rehabilitación de menores, o de cualquier otro centro de detención legalmente establecido para escuchar las quejas que reciba de los internos, haciendo del conocimiento de su superior jerárquico los resultados de las mismas. Asimismo, practicar diligencias a fin de verificar que las sentencias impuestas por los órganos jurisdiccionales sean estrictamente cumplidas;
-
-XI.- Turnar a la Dirección General de Averiguaciones Previas, constancias de autos para que se integre la averiguación previa respectiva y se ejercite la acción penal que corresponda, cuando en la causa penal en que intervenga surjan elementos suficientes para ello en contra de personas distintas de los procesados, tratándose de los mismos hechos o de que éstos se encuentren íntimamente vinculados;
-
-XlI.- Someter a la aprobación de su superior jerárquico los criterios que deben observarse en la formulación de conclusiones y proponer todas aquellas medidas que resulten pertinentes, a fin de que las averiguaciones previas sean integradas y consignadas de manera adecuada y oportuna;
-
-XlII.- Concurrir e intervenir en las diligencias y audiencias que se practiquen en los tribunales de alzada, con motivo de la interposición de los recursos relativos; estudiar los expedientes en los que se les dé vista y expresar los agravios que correspondan a la Institución; y
-
-XlV.- Las demás que le señalen otras disposiciones legales o el Procurador.
+(DEROGADO, B.O. 17 DE NOVIEMBRE DE 2005)
 
 ### CAPITULO IV. DE LAS ATRIBUCIONES GENERICAS DE LAS DIRECCIONES GENERALES Y DE LA VISITADURIA GENERAL
 
@@ -281,7 +335,9 @@ XVII.- Coordinarse con los titulares de otras unidades administrativas de la Pro
 
 XVIII.- Intervenir en la selección, evaluación, promoción y capacitación del personal de su unidad administrativa, de acuerdo con las políticas vigentes en materia de administración y desarrollo de recursos humanos;
 
-XIX.- Levantar el acta administrativa correspondiente, en caso de que un integrante del personal a su cargo incurra en responsabilidad o viole las disposiciones contenidas en este Reglamento y demás ordenamientos aplicables. Asimismo, integrar el expediente respectivo y remitirlo en su caso, a la Visitaduría General de la Procuraduría para los efectos correspondientes;
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+XIX.- Levantar el acta administrativa correspondiente, en caso de que un integrante del personal a su cargo incurra en responsabilidad o viole las disposiciones contenidas en la Ley Orgánica de la Procuraduría General de Justicia, este Reglamento y demás ordenamientos aplicables. Asimismo, integrar el expediente respectivo y remitirlo en su caso, a la Visitaduría General de la Procuraduría para los efectos correspondientes;
 
 XX.- Desempeñar las representaciones que por acuerdo expreso se le encomienden e informar de los resultados al superior jerárquico;
 
@@ -295,7 +351,9 @@ XXIV.- Vigilar que se haga buen uso del mobiliario, equipo y vehículos que asig
 
 XXV.- Las demás que le señale el titular de la Procuraduría o le confieran otras disposiciones legales.
 
-Los titulares de las Direcciones Generales de Averiguaciones Previas y Asuntos Jurídicos serán Agentes del Ministerio Público, para todos los efectos legales que correspondan.
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+Los titulares de las Direcciones Generales de Averiguaciones Previas, de Procesos, de Asuntos Jurídicos y de la Visitaduría General, serán Agentes del Ministerio Público, para todos los efectos legales que correspondan.
 
 ### CAPITULO V. DE LAS ATRIBUCIONES ESPECIFICAS DE LAS DIRECCIONES GENERALES Y DE LA VISITADURIA GENERAL
 
@@ -305,7 +363,9 @@ La Dirección General de Averiguaciones Previas estará adscrita a la Subprocura
 
 I.- Recibir denuncias o querellas, sobre actos u omisiones que puedan constituir delito, informando al denunciante o querellante acerca de la trascendencia jurídica del acto que realizan, sobre las penas en que incurre quien se conduce falsamente ante las autoridades y sobre las modalidades del procedimiento;
 
-II.- Investigar los delitos del orden común, con el auxilio de la Policía Judicial, de los servicios periciales y de las Policías Preventivas Municipales, en su caso, practicando las diligencias necesarias para la integración de la averiguación previa relativa y allegándose las pruebas que considere pertinentes, para demostrar el cuerpo del delito y hacer probable la responsabilidad de quienes en él hubieren intervenido, con el fin de ejercitar la acción penal;
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+II.- Investigar los delitos del orden común, con el auxilio de la Policía Judicial, de los servicios periciales, de la Policía Estatal de Seguridad Pública y de las Policías Preventivas Municipales, en su caso, practicando las diligencias necesarias para la integración de la averiguación previa relativa y allegándose las pruebas que considere pertinentes, para demostrar el cuerpo del delito y hacer probable la responsabilidad de quienes en él hubieren intervenido, con el fin de ejercitar la acción penal;
 
 III.- Recabar las pruebas pertinentes respecto a los daños y perjuicios causados en la comisión del delito y a la fijación del monto de su reparación;
 
@@ -335,17 +395,33 @@ XV.- Dictar las órdenes necesarias para la práctica de autopsias, inhumación 
 
 XVI.- Ejercitar la acción penal ante los tribunales competentes, poniendo a su disposición a las personas detenidas o, en su caso, solicitando las órdenes de aprehensión de los probables responsables, cuando se reúnan los requisitos que señala el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, o de comparecencia cuando así corresponda y solicitar, cuando legalmente proceda, el aseguramiento precautorio de bienes, para los efectos del pago de la reparación de daños y perjuicios;
 
-XVII.- Obtener de la Subprocuraduría de Control de Procesos, la información correspondiente al resultado del ejercicio de la acción penal y de los procesos que se instruyan con motivo de ella;
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
-XVIII.- Remitir a la Dirección General de Asuntos Jurídicos, copia autorizada de las averiguaciones previas que se relacionen con menores o incapaces en situación de daño, peligro o conflicto, así como las que tengan relación con los intereses familiares jurídicamente tutelados;
+XVII.- Obtener de la Dirección General de Procesos, la información correspondiente al resultado del ejercicio de la acción penal y de los procesos que se instruyan con motivo de ella;
+
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+XVIII.- Remitir a la Dirección General de Procesos, copia autorizada de las averiguaciones previas que se relacionen con menores o incapaces en situación de daño, peligro o conflicto, así como las que tengan relación con los intereses familiares jurídicamente tutelados;
 
 XIX.- Auxiliar, en los términos de la Ley Orgánica de la Procuraduría General de la República y de conformidad con los convenios de colaboración que al efecto se celebren en los términos del artículo 119, párrafo segundo, de la Constitución Política de los Estados Unidos Mexicanos, a los Agentes del Ministerio Público Federal y, conforme corresponda, a los Agentes del Ministerio Público del fuero común de otras Entidades de la República;
 
 XX.- Ordenar la libertad del detenido, cuando el delito merezca pena alternativa y no privativa de libertad;
 
-XXI.- Solicitar, en los casos respectivos, las órdenes de protección de conformidad con las disposiciones contenidas en la Ley de Prevención y Atención de la Violencia Intrafamiliar para el Estado de Sonora y su Reglamento; y
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
-XXII.- Las demás que le señalen otras disposiciones legales o reglamentarias o le confieran sus superiores jerárquicos.
+XXI.- Solicitar, en los casos respectivos, las órdenes de protección de conformidad con las disposiciones contenidas en la Ley de Prevención y Atención de la Violencia Intrafamiliar para el Estado de Sonora y su Reglamento;
+
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+XXII.- Mantener comunicación estrecha con las Agencias del Ministerio Público adscritas a los juzgados penales del fuero común, con el fin de señalarles aquellas diligencias que no se practicaron en alguna averiguación o que por la premura del tiempo su práctica resultó endeble; y
+
+> <small>(ADICIONADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+XXIII.- Las demás que le señalen otras disposiciones legales o reglamentarias o le confieran sus superiores jerárquicos.
+
+> <small>(ADICIONADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+Las anteriores atribuciones las podrá ejercer directamente el Subprocurador de Averiguaciones Previas.
 
 ###### ARTICULO 12.
 
@@ -361,13 +437,75 @@ IV.- Ejercer las funciones relativas a la identificación criminal;
 
 V.- Identificar a los procesados en los términos señalados en las disposiciones legales aplicables;
 
-VI.- Expedir los certificados que informen sobre antecedentes penales;
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
-VII.- Las demás que le señalen otras disposiciones legales o reglamentarias o le confieran sus superiores jerárquicos.
+VI.- Expedir los certificados que informen sobre .antecedentes penales;
+
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+VII.- Brindar la atención médica y psicológica de urgencia a las víctimas de delitos, así como gestionar aquella que no estén en condiciones de proporcionar;
+
+> <small>(ADICIONADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+VIII.- Otorgar asesoría jurídica gratuita a las víctimas y ofendidos de delitos;
+
+> <small>(ADICIONADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+IX.- Elaborar y ejecutar programas para brindar protección y auxilio a víctimas de delitos en materia psicológica, jurídica, social y médica;
+
+> <small>(ADICIONADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+X.- Brindar a las personas que lo soliciten la orientación jurídica, tutelar, asistencial, preventiva y educativa que requieran, y canalizarlas a las dependencias y entidades competentes; y
+
+> <small>(ADICIONADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+XI.- Las demás que le señalen otras disposiciones legales o reglamentarias o le confieran sus superiores jerárquicos.
+
+> <small>(ADICIONADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+ARTICULO 12 BIS.- La Dirección General de Procesos estará adscrita a la Subprocuraduría de Control de Procesos, y ejercerá, a través de los Agentes del Ministerio Público las atribuciones siguientes:
+
+I.- Intervenir en su calidad de parte, de acuerdo con las normas aplicables, en los procesos que se sigan ante las autoridades judiciales respectivas;
+
+II.- Remitir al órgano jurisdiccional correspondiente, a las personas detenidas en cumplimiento de una orden de comparecencia, aprehensión o reaprehensión dictada por éste;
+
+III.- Aportar las pruebas pertinentes y promover en el proceso las diligencias conducentes al esclarecimiento de los hechos, a la comprobación del cuerpo del delito, de la responsabilidad de quienes hayan intervenido en el mismo, de la existencia de los daños y perjuicios y de la fijación del monto de su reparación;
+
+IV.- Promover lo necesario, a efecto de que se garantice durante el proceso el pago de la reparación de los daños y perjuicios;
+
+V.- Vigilar que se respeten las normas, términos y plazos procesales;
+
+VI.- Interponer y hacer valer durante el proceso los recursos pertinentes;
+
+VII.- Formular conclusiones en los términos fijados por la ley, solicitando la imposición de las penas y medidas de seguridad que correspondan y el pago de la reparación de daños y perjuicios o, en su caso, plantear, conforme legalmente corresponda, las circunstancias excluyentes de responsabilidad o las causas que extingan la acción penal;
+
+VIII.- Concurrir e intervenir en las diligencias y audiencias que se practiquen en los juzgados de su adscripción y desahogar las vistas que se le den;
+
+IX.- Remitir a la Policía Judicial, para su ejecución, las órdenes de aprehensión, reaprehensión, comparecencia, arresto y presentación;
+
+X.- Practicar visitas a los establecimientos destinados a la prisión preventiva, o a la ejecución de sanciones privativas de libertad, o de instituciones de custodia o rehabilitación de menores, o de cualquier otro centro de detención legalmente establecido para escuchar las quejas que reciba de los internos, haciendo del conocimiento de su superior jerárquico los resultados de las mismas;
+
+XI.- Practicar diligencias a fin de verificar que las sentencias impuestas por los órganos jurisdiccionales sean, estrictamente cumplidas;
+
+XII.- Turnar a la Dirección General de Averiguaciones Previas las constancias de los autos de la causa penal en que intervenga, cuando surjan elementos suficientes para que se integre una averiguación previa y se ejercite acción penal en contra de personas distintas de los procesados, tratándose de los mismos hechos o de que éstos se encuentren íntimamente vinculados;
+
+XIII.- Someter a la aprobación de su superior jerárquico los criterios que deben observarse en la formulación de conclusiones y proponer todas aquellas medidas que resulten pertinentes, a fin de que las averiguaciones previas sean integradas y consignadas de manera adecuada y oportuna;
+
+XIV.- Concurrir e intervenir, previo acuerdo de su superior jerárquico, en las diligencias y audiencias que se practiquen en los tribunales de alzada, con motivo de la interposición de los recursos relativos; estudiar, con auxilio de los agentes especiales, los expedientes en los que se les dé vista; y expresar los agravios que correspondan a la Institución a través del Subprocurador de Control de Procesos;
+
+XV.- Revisar, valorar y hacer las observaciones respectivas a los Agentes del Ministerio Público investigadores sobre las deficiencias de las diligencias practicadas en la averiguación previa. Asimismo hacer la manifestación respectiva de aquellas diligencias que debieran de haberse practicado;
+
+XVI.- Llevar un control de los procesos penales en trámite, radicados en los juzgados de primera instancia en el Estado; y
+
+XVIl.- Las demás que le señalen otras disposiciones legales o reglamentarias o le confieran sus superiores jerárquicos.
+
+Las anteriores atribuciones las podrá ejercer directamente el Subprocurador de Control de Procesos.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 13.
 
-La Dirección General de Sistemas de Información y Política Criminal estará adscrita Subprocuraduría de Asistencia Técnica y Programas Sociales y le corresponden las atribuciones siguientes:
+La Dirección General de Sistemas de Información y Política Criminal estará adscrita directamente al Titular de la Procuraduría General de Justicia del Estado y le corresponden las atribuciones siguientes:
 
 I.- Recabar de las distintas unidades administrativas de la dependencia la información necesaria, a efecto de elaborar proyectos de política criminal tendientes a abatir la impunidad delictiva y el rezago en la solución de los asuntos de la competencia de la Procuraduría;
 
@@ -377,7 +515,9 @@ III.- Planear, ordenar y vigilar las operaciones destinadas a la obtención de l
 
 IV.- Analizar y valorar la información disponible sobre la comisión de delitos, recomendando su empleo y canalizándola a las áreas correspondientes;
 
-V.- Proponer estrategias específicas para el combate a las diferentes manifestaciones y técnicas delictivas;
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+V.- Proponer estrategias específicas basadas en la operación de modelos estadísticos y la utilización de las tecnologías de información, para el combate de las diferentes manifestaciones y técnicas delictivas;
 
 VI.- Investigar, desarrollar y promover la aplicación de nuevos métodos, técnicas, procedimientos y equipos para coadyuvar a la efectiva prevención e investigación de los delitos;
 
@@ -387,9 +527,11 @@ VIII.- Proporcionar la asesoría, el apoyo y los dictámenes técnicos que los s
 
 IX.- Las demás que le señalen las disposiciones legales o reglamentarias o le confieran sus superiores jerárquicos.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 14.
 
-La Dirección General de Asuntos Jurídicos estará adscrita a la Subprocuraduría de Asistencia Técnica y Programas Sociales y le corresponden las atribuciones siguientes:
+La Dirección General de Asuntos Jurídicos estará adscrita directamente al Titular de la Procuraduría General de Justicia del Estado y le corresponden las atribuciones siguientes:
 
 I.- Realizar los estudios y emitir las opiniones y dictámenes derivados de las consultas de carácter jurídico que le sean formuladas por el Procurador, o por los titulares de las diferentes unidades administrativas de la Institución;
 
@@ -405,7 +547,7 @@ VI.- Efectuar estudios de tipo jurídico respecto a la ejecución de programas y
 
 VII.- Expedir, conforme legalmente proceda, certificaciones de documentos que obren en los archivos de la dependencia;
 
-VIII.- Supervisar el debido cumplimiento de las atribuciones ejercidas por los Agentes del Ministerio Público, en asuntos de lo familiar y civil que por disposición de la ley deban intervenir;
+VIII.- (DEROGADA, B.O. 17 DE NOVIEMBRE DE 2005)
 
 IX.- Coordinar y promover la atención oportuna de los requerimientos de información, propuestas de conciliación y recomendaciones emitidas por las Comisiones Nacional y Estatal de Derechos Humanos a la Procuraduría General de Justicia del Estado;
 
@@ -421,31 +563,7 @@ XIV.- Las demás que le señalen las disposiciones legales o reglamentarias o le
 
 ###### ARTICULO 15.
 
-La Dirección General de Programas Sociales y Servicios a la Comunidad estará adscrita a la Subprocuraduría de Asistencia Técnica y Programas Sociales y le corresponden las atribuciones siguientes:
-
-I.- Promover la participación y concertación social, en torno a las tareas de procuración e impartición de justicia;
-
-II.- Propiciar la coordinación de la Procuraduría con otras dependencias y entidades del sector público, tendientes a ampliar y facilitar el acceso de la comunidad a los servicios de procuración e impartición de justicia;
-
-III.- Brindar, en general, a todas las personas que lo soliciten la orientación tutelar, asistencial, preventiva y educativa que requieran, y canalizarlas a las dependencias y entidades competentes;
-
-IV.- Atender, orientar y remitir a la autoridad competente para su auxilio, a las víctimas del delito y sus familiares, así como a las víctimas de violencia intrafamiliar cuando requieran de otros servicios que en materia de atención y protección les otorguen los ordenamientos legales;
-
-V.- Diseñar y ejecutar, en su caso, programas tendientes a prevenir la comisión de delitos, así como de violencia intrafamiliar, propiciando la participación de la sociedad;
-
-VI.- Otorgar asesoría jurídica gratuita a las víctimas y ofendidos de delitos, así como a las víctimas de violencia intrafamiliar;
-
-VII.- Brindar la atención médica y psicológica de urgencia a las víctimas de delitos, así como gestionar aquellas que no estén en condiciones de proporcionar;
-
-VIII.- Elaborar y ejecutar programas para brindar protección y auxilio a víctimas de delitos en materia psicológica, jurídica, social y médica;
-
-IX.- Establecer, dirigir, ejecutar y vigilar programas de orientación a la comunidad, en el ámbito de las actividades de procuración e impartición de Justicia y, fundamentalmente, de atención a las víctimas del delito;
-
-X.- Analizar y evaluar la opinión de la ciudadanía respecto a la prestación del servicio de procuración de justicia y proponer, en el ámbito de sus atribuciones, la ejecución de las acciones que correspondan;
-
-XI.- Mantener permanentemente informada a la población sobre el desarrollo de los programas de la dependencia y contribuir a la difusión homogénea de las actividades de procuración de justicia; y
-
-XII.- Las demás que le señalen otras disposiciones legales o reglamentarias o le confieran sus superiores jerárquicos.
+(DEROGADO, B.O. 17 DE NOVIEMBRE DE 2005)
 
 ###### ARTICULO 16.
 
@@ -481,17 +599,21 @@ Las atribuciones que se especifican en el artículo anterior, deberán ser ejerc
 
 La investigación y persecución policial se sujetará en todo momento al principio de respeto a los derechos humanos y se ejercerá con estricto apego a la legalidad. El Ministerio Público en cada caso concreto instruirá a la Policía Judicial sobre elementos o indicios que deban ser investigados o recabados para la comprobación del cuerpo del delito y la probable responsabilidad.
 
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 18.
 
-La Policía Judicial del Estado, en el desempeño de sus funciones y conforme a los lineamientos que al efecto expida el Procurador General de Justicia del Estado, se podrá coordinar con otros cuerpos de seguridad, en los términos que para tal efecto señala la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, la Ley de Seguridad Pública para el Estado de Sonora y este Reglamento.
+La Policía Judicial del Estado, en el desempeño de sus funciones y conforme a los lineamientos que al efecto expida el Procurador General de Justicia del Estado, se podrá coordinar con otros cuerpos de seguridad, en los términos que para tal efecto señala la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, la Ley de la Policía Federal Preventiva, la Ley de Seguridad Pública para el Estado de Sonora y este Reglamento.
 
 ###### ARTICULO 19.
 
 La Visitaduría General, cuyo Director General se denominará Visitador General, estará adscrita directamente al titular de la Procuraduría General de Justicia del Estado, y le corresponden las atribuciones siguientes:
 
-I.- Elaborar el programa anual de trabajo y los programas específicos que se deriven del mismo, para el desarrollo de visitas de control, inspecciones y evaluación de acuerdo a las normas y lineamientos aplicables y someterlos a la aprobación del Procurador General de Justicia;
+I.- (DEROGADA, B.O. 17 DE NOVIEMBRE DE 2005)
 
-II.- Practicar a las Agencias del Ministerio Público, a la Dirección General de Policía Judicial y bases operativas de la misma, a las unidades administrativas de la Procuraduría y a las Delegaciones Regionales, visitas de inspección, supervisión, control y evaluación técnico-jurídicas, para comprobar que su actuación se inscribe en el marco jurídico sustantivo, adjetivo, orgánico y reglamentario que rige a la Institución y proponer al Procurador las medidas preventivas o correctivas necesarias;
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+II.- Practicar a las Agencias del Ministerio Público, a la Dirección General de Policía Judicial y bases operativas de la misma, a las unidades administrativas de la Procuraduría y a las Delegaciones Regionales, previo acuerdo del titular de la dependencia, visitas de inspección, supervisión, control y evaluación técnico-jurídicas, para comprobar que su actuación se inscribe en el marco jurídico sustantivo, adjetivo, orgánico y reglamentario que rige a la Institución y proponer al Procurador las medidas preventivas o correctivas necesarias;
 
 III.- Ejercer e instrumentar las normas que, en materia de control y evaluación técnico-jurídica, fije el Procurador General de Justicia;
 
@@ -507,7 +629,9 @@ VIII.- Informar al titular de la Procuraduría sobre los resultados de sus activ
 
 IX.- Conocer y recibir quejas y denuncias contra servidores públicos de la Procuraduría, encausándolos cuando así proceda e informando de ello al Procurador;
 
-X.- Atender y resolver, en su caso, de conformidad con las normas aplicables las denuncias de cualquier interesado o de los titulares de las unidades administrativas de la Procuraduría, respecto de la actuación de los Servidores públicos de la misma; y
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+X.- Atender y llevar a cabo el procedimiento que corresponda, de acuerdo con los artículo 31, 34 y demás relativos de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Sonora, de las denuncias de cualquier interesado o de los titulares de las unidades administrativas de la Procuraduría, respecto de la actuación de los Agentes del Ministerio Público, los Agentes y Jefes de Grupo de la Policía Judicial y de los Peritos oficiales; y
 
 XI.- Las demás que le señalen otras disposiciones o le confiera el Procurador General de Justicia.
 
@@ -533,7 +657,9 @@ VII.- Integrar el Manual de Organización de la Procuraduría; formular y difund
 
 VIII.- Proponer e instrumentar el programa de desconcentración de la Procuraduría, en sus aspectos administrativos, así como las normas y políticas que deban aplicar las Delegaciones Regionales de la Procuraduría, para su organización y funcionamiento;
 
-IX.- Establecer, de conformidad con los lineamientos emitidos por la Secretaría de Planeación del Desarrollo y Gasto Público, las normas, sistemas y procedimientos para la realización de pagos y recuperaciones de los fondos revolventes para gasto corriente autorizados a la Procuraduría;
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+IX.- Establecer, de conformidad con los lineamientos emitidos por la Secretaría de Hacienda, las normas, sistemas y procedimientos para la realización de pagos y recuperaciones de los fondos revolventes para gasto corriente autorizados a la Procuraduría;
 
 X.- Establecer los lineamientos y políticas generales para la administración de los recursos humanos, materiales y servicios generales de la Procuraduría;
 
@@ -551,9 +677,17 @@ XVI.- Administrar los bienes inmuebles al servicio de la Procuraduría y atender
 
 XVII.- Ejercer las atribuciones que le confiere la Ley que Crea el Fondo para la Procuración de Justicia del Estado de Sonora;
 
-XVIII.- Integrar y mantener constantemente actualizado el Registro de Antecedentes de Elementos Activos y Ex-elementos del Ministerio Público y sus Órganos Auxiliares; y
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
-XIX.- Las demás que le señalen otras disposiciones o le confiera el Procurador General de Justicia.
+XVIII.- Integrar y mantener constantemente actualizado el Registro de Antecedentes de Elementos Activos y Ex-elementos del Ministerio Público y sus Órganos Auxiliares;
+
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+XIX.- Recibir, registrar, custodiar, conservar y supervisar los bienes asegurados por el Ministerio Público; y
+
+> <small>(ADICIONADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+XX.- Las demás que le señalen otras disposiciones o le confiera el Procurador General de Justicia.
 
 ### CAPITULO VI. DE LA UNIDAD CENTRAL DE AGENTES ESPECIALES DEL MINISTERIO PÚBLICO
 
@@ -657,9 +791,11 @@ El Servicio Civil de Carrera se establece para dar cumplimiento a lo dispuesto e
 
 ### CAPITULO X. DEL PROCEDIMIENTO DE RECLUTAMIENTO, SELECCION E INGRESO
 
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 31.
 
-De conformidad con los requerimientos que solicite el Procurador General de Justicia del Estado, el Centro de Ciencias Penales o el Instituto de Seguridad Pública del Estado de Sonora establecerá programas de reclutamiento y selección para ingresar al Servicio Civil de Carrera de la Procuraduría General de Justicia del Estado.
+De conformidad con los requerimientos que solicite el Procurador General de Justicia del Estado o el Instituto Superior de Seguridad Pública del Estado se establecerán programas de reclutamiento y selección para ingresar al Servicio Civil de Carrera de la Procuraduría General de Justicia del Estado.
 
 ###### ARTICULO 32.
 
@@ -669,7 +805,9 @@ I.- Emisión de la Convocatoria que deberá publicarse por una sola vez, en uno 
 
 La Convocatoria contendrá la categoría y número de vacantes sujetas a concurso, requisitos y documentación que deberán cubrir, así como fecha, lugar y hora para la recepción de la documentación;
 
-II.- Recepción de la documentación, a cargo del Centro de Ciencias Penales o del Instituto de Seguridad Pública del Estado de Sonora; y
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+II.- Recepción de la documentación, a cargo del Instituto Superior de Seguridad Pública del Estado de Sonora; y
 
 III.- Aplicación de exámenes:
 
@@ -697,23 +835,31 @@ VI.- Área de compromiso social e institucional.
 
 El curso inicial de formación básica tendrá como objetivo fundamental lograr que los aspirantes a ingresar al Servicio Civil de Carrera de la Procuraduría obtengan los conocimientos básicos relacionados con la procuración de justicia y adquieran conciencia de la importancia social que tiene el cargo al que aspiran y la necesidad de que su actuación sea profesional, digna y humana.
 
-El desarrollo de los cursos mencionados en el párrafo anterior estará a cargo del Centro de Ciencias Penales o del Instituto de Seguridad Pública del Estado de Sonora o de alguna otra Institución que la propia Procuraduría reconozca para tales efectos.
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+El desarrollo de los cursos mencionados en el párrafo anterior estará a cargo del Instituto Superior de Seguridad Pública del Estado de Sonora o de alguna otra Institución que la propia Procuraduría reconozca para tales efectos.
+
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 34.
 
-Al concluir el curso inicial de formación básica, el aspirante presentará un examen de oposición, que será evaluado por el Centro de Ciencias Penales o el Instituto de Seguridad Pública; dicha evaluación se integrará al expediente individual, el cual será remitido al Procurador General de Justicia del Estado, para la selección correspondiente.
+Al concluir el curso inicial de formación básica, el aspirante presentará un examen de oposición, que será evaluado por el Instituto Superior de Seguridad Pública; dicha evaluación se integrará al expediente individual, el cual será remitido al Procurador General de Justicia del Estado, para la selección correspondiente. En el caso de aspirantes a Agentes de la Policía Judicial la evaluación se remitirá a la Junta de Honor, Selección y Promoción de la Policía Judicial, quien decidirá dicha selección.
+
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 35.
 
-Los expedientes de los aspirantes que hayan sido aprobados y seleccionados para ingresar al Servicio Civil de Carrera de la Procuraduría, serán remitidos a la Dirección General de Programación, Organización y Presupuesto, para iniciar los trámites de contratación de personal.
+Los expedientes de los aspirantes que hayan sido aprobados y seleccionados para ingresar al Servicio Civil de Carrera de la Procuraduría, conforme al artículo anterior, serán remitidos a la Dirección General de Programación, Organización y Presupuesto, para iniciar los trámites de contratación de personal.
 
-Previo al inicio de los trámites de contratación, dicha Dirección General procederá a verificar los datos que se contengan en la documentación que les sea remitida por el Centro de Ciencias Penales o por el Instituto de Seguridad Pública del Estado, e investigará lo concerniente a la conducta del aspirante y antecedentes delictivos y laborales. Asimismo, deberá verificar los datos del aspirante que en su caso obren en los Registros Nacional y Estatal de Seguridad Pública.
+Previo al inicio de los trámites de contratación, dicha Dirección General procederá a verificar los datos que se contengan en la documentación que les sea remitida por el Instituto Superior de Seguridad Pública del Estado, e investigará lo concerniente a la conducta del aspirante y antecedentes delictivos y laborales. Asimismo, deberá verificar los datos del aspirante que en su caso obren en los Registros Nacional y Estatal de Seguridad Pública.
 
 ###### ARTICULO 36.
 
 El personal de carrera será el que obtenga el nombramiento respectivo, en los términos de este Reglamento, previo el cumplimiento de los requisitos correspondientes a su ingreso o permanencia, y únicamente podrán ser separados de su cargo conforme a lo dispuesto por los ordenamientos legales aplicables.
 
-Los ascensos del personal de carrera serán asignados por el Procurador General de Justicia del Estado, previo dictamen que para tal efecto emita el Comité de Estímulos y Ascensos y de acuerdo con la legislación aplicable.
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+Los ascensos del personal de carrera serán asignados por el Procurador General de Justicia del Estado, con excepción de los Agentes de la Policía Judicial que serán otorgados por la Junta de Honor, Selección y Promoción, previo dictamen que para tal efecto emita el Comité de Estímulos y Ascensos y de acuerdo con la legislación aplicable.
 
 ###### ARTICULO 37.
 
@@ -737,13 +883,17 @@ En el reingreso se podrá otorgar el nivel que el servidor público tenía al mo
 
 La Dirección General de Programación, Organización y Presupuesto de la Procuraduría, al recibir una solicitud de reingreso, ordenará practicar una investigación respecto de los antecedentes del aspirante, en los que desde luego se apreciarán aspectos como la experiencia del candidato, los estímulos, reconocimientos y capacitación que, en su caso, haya recibido, las sanciones que le hayan sido impuestas y el número de años que haya estado fuera de servicio. Asimismo, será obligatorio consultar los Registros Nacional y Estatal del Personal de Seguridad Pública.
 
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 41.
 
-El Gobernador del Estado, el Procurador General de Justicia, según corresponda, resolverán sobre la propuesta de reingreso, así como determinar su categoría y nivel, en base a los datos obtenidos a que se refiere el artículo anterior.
+El Gobernador del Estado, el Procurador General de Justicia o la Junta de Honor, Selección y Promoción, según corresponda, resolverán sobre la propuesta de reingreso, así como determinar su categoría y nivel, en base a los datos obtenidos a que se refiere el artículo anterior.
+
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 42.
 
-En los casos de reingreso, el Procurador General de Justicia determinará si es necesario la realización de los cursos de capacitación o actualización.
+En los casos de reingreso, el Procurador General de Justicia o la Junta de Honor, Selección y Promoción, según corresponda, determinarán si es necesaria la realización de los cursos de capacitación o actualización.
 
 ###### ARTICULO 43.
 
@@ -753,15 +903,21 @@ Ninguna plaza vacante ni de nueva creación del Servicio Civil de Carrera de la 
 
 Los requisitos para ser Agente del Ministerio Público, son los siguientes:
 
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
 I.- Poseer título de Licenciado en Derecho con una antigüedad mínima de dos años en la fecha de solicitud de ingreso, expedido por la autoridad facultada para ello y debidamente registrado;
 
-II.- Aprobar los cursos de formación básica impartidos por el Centro de Ciencias Penales o el Instituto de Seguridad Pública del Estado de Sonora, o por alguna otra Institución que la Procuraduría reconozca para tal propósito;
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+II.- Aprobar los cursos de formación básica impartidos por el Instituto Superior de Seguridad Pública del Estado de Sonora, o por alguna otra Institución que la Procuraduría reconozca para tal propósito;
 
 III.- No ser farmacodependiente, ni consumir estupefacientes o psicotrópicos, ni padecer alcoholismo. Se garantizará lo anterior, mediante examen que se practique por la Dirección General de Servicios Periciales;
 
 IV.- Gozar de buena salud, acreditándolo con certificado de salud expedido por Institución de carácter oficial;
 
-V.- Acreditar que ha observado buena conducta y no haber sido condenado por sentencia ejecutoriada como responsable de delitos intencionales;
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+V.- Acreditar que ha observado buena conducta y no haber sido condenado por sentencia ejecutoriada como responsable de delitos intencionales o culposos graves, ni estar sujeto a proceso por delitos de la misma naturaleza;
 
 VI.- Ser ciudadano mexicano y estar en pleno goce de sus derechos civiles y políticos;
 
@@ -771,17 +927,23 @@ VIII.- Haber residido en el país durante los últimos cinco años, salvo el cas
 
 IX.- Acreditar, en su caso, haber cumplido con el Servicio Militar Nacional;
 
-X.- No estar suspendido ni haber sido destituido por resolución firme como servidor público, en los términos de las normas aplicables; y
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+X.- No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público, en los términos de las normas aplicables; y
 
 XI.- Los demás que señalen las leyes, reglamentos y la convocatoria, que en su caso se expida, para aspirantes a ingresar como Agente del Ministerio Público.
 
 Sólo cuando se trate de personas de reconocida experiencia profesional, el Procurador General de Justicia podrá eximir de los requisitos a que se refiere la fracción II de este artículo.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 45.
 
-Para ser Secretario Auxiliar de Acuerdos, además de lo señalado en el artículo anterior, con excepción de las fracciones I y VII, se requiere lo siguiente:
+Para ser Secretario Auxiliar de Acuerdos, además de lo señalado en el artículo anterior, con excepción de la fracción VII, se requiere lo siguiente:
 
-I.- Ser pasante de la carrera de Licenciado en Derecho, acreditándolo con la documentación oficial correspondiente;
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+I.- Poseer título de Licenciado en Derecho expedido por autoridad facultada para ello;
 
 II.- No ser menor de veintitrés años de edad el día de la solicitud; y
 
@@ -791,11 +953,17 @@ III.- Los demás que señalen las leyes, reglamentos y la convocatoria que en su
 
 Para ser miembro de la Policía Judicial se requiere:
 
-I.- Ser ciudadano mexicano, mayor de 19 años y menor de 40 años de edad, en pleno goce y ejercicio de sus derechos;
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
-II.- Acreditar que ha observado buena conducta y no haber sido condenado por sentencia ejecutoriada como responsable de delitos intencionales;
+I.- Ser ciudadano mexicano, mayor de 19 años, en pleno goce y ejercicio de sus derechos;
 
-III.- Poseer el grado de escolaridad media básica o su equivalente cuando menos y, en su caso, el que corresponda a los diversos niveles o modalidades de preparación;
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+II.- Acreditar que ha observado buena conducta y no haber sido condenado por sentencia ejecutoriada como responsable de delitos intencionales o culposos graves, ni estar sujeto a proceso penal por delito de la misma naturaleza;
+
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+III.- Poseer el grado de escolaridad media superior o su equivalente cuando menos y, en su caso, el que corresponda a los diversos niveles o modalidades de preparación;
 
 IV.- Contar con el perfil físico, médico, ético y de personalidad necesarios para realizar las actividades policiales;
 
@@ -803,15 +971,23 @@ V.- En su caso, acreditar haber cumplido el servicio militar nacional;
 
 VI.- No ser farmacodependiente, ni consumir estupefacientes o psicotrópicos, ni padecer alcoholismo. Se garantizará lo anterior, mediante examen que se practique por la Dirección General de Servicios Periciales;
 
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
 VII.- No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público, en los términos de las normas aplicables;
 
-VIII.- Aprobar los cursos de formación básica impartido por el Centro de Ciencias Penales o el Instituto de Seguridad Pública del Estado de Sonora, o en alguna otra Institución que la Procuraduría General de Justicia reconozca para esos efectos; y
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+VIII.- Aprobar los cursos de formación básica impartido por el Instituto Superior de Seguridad Pública del Estado de Sonora, o en alguna otra Institución que la Junta de Honor, Selección y Promoción reconozca para esos efectos; y
 
 IX.- Los demás que señalen las leyes y reglamentos y la convocatoria, que en su caso se expida, para aspirantes a ingresar como Agentes de la Policía Judicial.
 
-Para ingresar como Agente de la Policía Judicial, se dará preferencia a los egresados del Instituto de Seguridad Pública del Estado de Sonora.
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
-Sólo cuando se trate de personas con reconocida experiencia en las labores policiales, el Procurador General de Justicia podrá eximir del requisito a que se refiere la fracción VIII de este artículo.
+Para ingresar como Agente de la Policía Judicial, deberán ser egresados del Instituto Superior de Seguridad Pública del Estado, o de alguna otra Institución equivalente que la Junta de Honor, Selección y Promoción reconozca para tales efectos.
+
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+Sólo cuando se trate de personas con reconocida experiencia en las labores policiales, el Procurador General de Justicia cuando así lo estime conveniente propondrá a la Junta de Honor, Selección y Promoción se le exima del requisito a que se refiere la fracción VIII de este artículo.
 
 ###### ARTICULO 47.
 
@@ -819,11 +995,17 @@ Para ser Perito Oficial de la Procuraduría, se requiere lo siguiente:
 
 I.- Ser ciudadano mexicano y estar en pleno goce de sus derechos civiles y políticos;
 
-II.- Acreditar que ha observado buena conducta y no haber sido condenado por sentencia ejecutoriada como responsable de delitos intencionales;
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
-III.- Contar con título profesional en la disciplina en la que se pretende desempeñar como Perito o, en caso de no existir el grado de licenciatura en la correspondiente especialidad, contar con los conocimientos técnicos, científicos o artísticos en el arte u oficio de que se trate;
+II.- Acreditar que ha observado buena conducta y no haber sido condenado por sentencia ejecutoriada como responsable de delitos intencionales o culposos graves, ni estar sujeto a proceso penal por delito de la misma naturaleza;
 
-IV.- Aprobar los cursos de formación básica impartido por el Centro de Ciencias Penales o el Instituto de Seguridad Pública del Estado de Sonora, o por alguna otra Institución que la Procuraduría reconozca para tal efecto;
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+III.- Contar con título profesional en la disciplina en la que se pretende desempeñar como Perito o, en caso de no existir el grado de licenciatura en la correspondiente especialidad, contar con los conocimientos técnicos, científicos o artísticos en el arte u oficio de que se trate, con una experiencia activa mínima de diez años;
+
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+IV.- Aprobar los cursos de formación básica impartido por el Instituto Superior de Seguridad Pública del Estado de Sonora, o por alguna otra Institución que la Procuraduría reconozca para tal efecto;
 
 V.- No ser farmacodependiente, ni consumir estupefacientes o psicotrópicos, ni padecer alcoholismo. Se garantizará lo anterior, mediante examen que se practique por la Dirección General de Servicios Periciales:
 
@@ -831,7 +1013,9 @@ VI.- Gozar de buena salud, acreditándolo con certificado de salud expedido por 
 
 VII.- Acreditar, en su caso, haber cumplido con el servicio militar nacional;
 
-VIII.- No estar suspendido ni haber sido destituido por resolución firme como servidor público, en los términos de las normas aplicables; y
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+VIII.- No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público, en los términos de las normas aplicables; y
 
 IX.- Los demás que señalen las leyes, reglamentos y la convocatoria, que en su caso se expida, para aspirantes a ingresar como Perito Oficial.
 
@@ -861,31 +1045,43 @@ Cuando así lo señale la Procuraduría, los servidores públicos tendrán la ob
 
 La Dirección General de Programación, Organización y Presupuesto, llevará un registro de los servidores públicos del Servicio Civil de Carrera de la Procuraduría que participen en las actividades mencionadas en el párrafo anterior.
 
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 51.
 
-El Procurador General de Justicia, en forma directa o a través del Centro de Ciencias Penales o del Instituto de Seguridad Pública del Estado, dará a conocer la realización de los programas de formación profesional, mediante convocatoria dirigida al personal de la Procuraduría.
+El Procurador General de Justicia, en forma directa o a través del Instituto Superior de Seguridad Pública del Estado, dará a conocer la realización de los programas de formación profesional, mediante convocatoria dirigida al personal de la Procuraduría.
 
 ###### ARTICULO 52.
 
 Es obligación de todos los servidores públicos de la Procuraduría someterse a los exámenes médicos y clínicos generales que se les indique por parte de las autoridades de la dependencia.
 
-### CAPITULO XII. DE LOS ASCENSOS, ESTIMULOS, PREMIOS Y RECOMPENSAS
+> <small>(REFORMADA SU DENOMINACION, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
-#### SECCION PRIMERA. DEL COMITÉ DE ESTIMULOS Y ASCENSOS
+### CAPITULO XII. DE LOS ASCENSOS, ESTIMULOS, PREMIOS, RECOMPENSAS, RECONOCIMIENTOS Y CONDECORACIONES
+
+> <small>(REFORMADA SU DENOMINACION, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+#### SECCION PRIMERA. DEL COMITÉ DE ESTIMULOS Y ASCENSOS Y DE LA JUNTA DE HONOR, SELECCIÓN Y PROMOCIÓN
+
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 53.
 
-El Comité de Estímulos y Ascensos será el órgano colegiado de la Procuraduría encargado del desarrollo del procedimiento de ascensos, estímulos, premios y recompensas del Servicio Civil de Carrera de la Institución.
+El Comité de Estímulos y Ascensos será el órgano colegiado de la Procuraduría encargado del desarrollo del procedimiento de ascensos, estímulos, premios y recompensas del Servicio Civil de Carrera de la Institución, con excepción de los Agentes de la Policía Judicial, cuya atribución estará a cargo de la Junta de Honor, Selección y Promoción.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 54.
 
-El Comité de Estímulos y Ascensos del personal de carrera de la Procuraduría, estará integrado por un Presidente que será el Procurador General de Justicia, tres Vocales Permanentes que serán los Subprocuradores de Averiguaciones Previas, de Control de Procesos y de Asistencia Técnica y Programas Sociales, así como dos Vocales Eventuales que serán el Director General de Servicios Periciales cuando en el seno del Comité se analicen asuntos relacionados con Agentes de la Policía Judicial o Peritos, respectivamente. Asimismo, el Comité contará con un Secretario Técnico que será el Director General de la Visitaduría General de la Procuraduría General de Justicia del Estado.
+El Comité de Estímulos y Ascensos del personal de carrera de la Procuraduría, estará integrado por un Presidente que será el Procurador General de Justicia, tres Vocales que serán los Subprocuradores de Averiguaciones Previas y de Control de Procesos y el Director General de Servicios Periciales. Asimismo, el Comité contará con un Secretario Técnico que será el Director General de la Visitaduría General de la Procuraduría General de Justicia del Estado.
 
 El Presidente podrá designar como su suplente a las reuniones del Comité a cualquier Subprocurador. Los Vocales podrán designar a sus respectivos suplentes.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 55.
 
-El Comité de Estímulos y Ascensos del personal de carrera de la Procuraduría, sesionará periódicamente y podrá hacerlo cuando se reúnan su Presidente, el Secretario Técnico y cuando menos tres Vocales.
+El Comité de Estímulos y Ascensos del personal de carrera de la Procuraduría, sesionará periódicamente y podrá hacerlo cuando se reúnan su Presidente, el Secretario Técnico y cuando menos dos Vocales.
 
 Las votaciones serán secretas y los acuerdos se adoptarán por mayoría.
 
@@ -893,17 +1089,35 @@ El Presidente tendrá voto de calidad, para el caso de empate en las determinaci
 
 De los acuerdos tomados en cada sesión, el Secretario Técnico será responsable de asentarlos en el libro de actas del Comité de Estímulos y Ascensos del personal de carrera de la Procuraduría, mismo que estará dividido en dos secciones: la de ascensos y la de estímulos, premios y recompensas.
 
+> <small>(ADICIONADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+ARTICULO 55 BIS.- La Junta de Honor, Selección y Promoción de la Policía Judicial será el órgano colegiado de la Procuraduría encargado del desarrollo de] procedimiento de ascensos por promoción de los agentes y jefes de grupo de la Policía Judicial, así como del otorgamiento de reconocimientos, premios y condecoraciones.
+
+> <small>(ADICIONADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+ARTICULO 55 BIS A.- La Junta de Honor, Selección y Promoción, estará integrada por un Presidente que será el Procurador General de Justicia, tres Vocales que serán el Secretario de la Contraloría General, el Director General de Recursos Humanos del Gobierno del Estado, dependiente de la Secretaría de Hacienda y el Representante del Consejo Estatal de Participación Ciudadana en Materia de Procuración de Justicia y el Director General de Programación, Organización y Presupuesto de la Procuraduría General de Justicia quien fungirá como Secretario de la Junta.
+
+La Junta de Honor, Selección y Promoción tomará sus Acuerdos por mayoría de votos y se considerará legalmente reunida cuando estén presentes por lo menos tres de sus miembros, debiendo estar presente entre ellos el Procurador General de Justicia y se reunirá cuántas veces sea convocada.
+
+Los integrantes de la Junta de Honor, Selección y Promoción nombrarán a sus respectivos suplentes, con excepción del Secretario.
+
+De los acuerdos tomados en cada sesión, el Secretario será el responsable de asentarlos en el libro de actas de la Junta de Honor, Selección y Promoción, el cual estará dividido en dos secciones: la de ascensos y la de reconocimientos, premios y condecoraciones.
+
 #### SECCION SEGUNDA. DE LOS ASCENSOS
+
+REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)
 
 ###### ARTICULO 56.
 
-Los servidores públicos integrados al Servicio Civil de Carrera de la Procuraduría, sólo podrán ascender a las plazas vacantes de las jerarquías inmediatas superiores mediante evaluación curricular y concurso de oposición, con base en los cursos de actualización y especialización que determine la Procuraduría.
+Los servidores públicos integrados al Servicio Civil de Carrera de la Procuraduría, sólo podrán ascender a las plazas vacantes de las jerarquías inmediatas superiores mediante evaluación curricular y concurso de oposición, con base en los cursos de actualización y especialización que determine la Procuraduría, o la Junta de Honor, Selección y Promoción, según sea el caso.
+
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 57.
 
-El Comité de Estímulos y Ascensos, al existir una vacante, emitirá una convocatoria en los términos del segundo párrafo de la fracción I del artículo 32 del presente ordenamiento, misma que se fijará en lugar visible en las oficinas de la Institución.
+El Comité de Estímulos y Ascensos o la Junta de Honor, Selección y Promoción, en su caso, al existir una vacante, emitirá una convocatoria en los términos del segundo párrafo de la fracción I del artículo 32 del presente ordenamiento, misma que se fijará en lugar visible en las oficinas de la Institución.
 
-El Comité dictará las medidas necesarias con el fin de que todos los servidores públicos de la categoría inmediata inferior de la que se concursa, conozcan oportunamente la convocatoria. El Comité formará un expediente individual por cada aspirante que haya presentado completa la documentación requerida y la solicitud de ascenso.
+Dichos órganos colegiados dictarán las medidas necesarias con el fin de que todos los servidores públicos de la categoría inmediata inferior de la que se concursa, conozcan oportunamente la convocatoria, formando un expediente individual por cada aspirante que haya presentado completa la documentación requerida y la solicitud de ascenso.
 
 ###### ARTICULO 58.
 
@@ -923,25 +1137,31 @@ b) Agente.
 
 III.- Personal de Servicios Periciales:
 
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
 a) Perito:
 
-- Nivel 8.
+- Nivel A.
 
-- Nivel 6.
+- Nivel B.
 
-- Nivel 3.
+- Nivel D.
 
 b) Técnico.
 
 A cada categoría corresponderán las percepciones que determine el presupuesto relativo.
 
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 59.
 
-El Comité de Estímulos y Ascensos del personal de carrera de la Procuraduría, tiene por objeto analizar, dictaminar y proponer con base en los criterios establecidos en el presente Reglamento a los miembros del Servicio Civil de Carrera de la Procuraduría que se hayan hecho acreedores a ascensos de categoría.
+El Comité de Estímulos y Ascensos del personal de carrera de la Procuraduría, tiene por objeto analizar, dictaminar y proponer con base en los criterios establecidos en el presente Reglamento a los miembros del Servicio Civil de Carrera de la Procuraduría que se hayan hecho acreedores a ascensos de categoría. Asimismo la Junta de Honor, Selección y Promoción deberá analizar y resolver, con base en los criterios que se señalan en este Reglamento, a los Agentes de la Policía Judicial que se hayan hecho acreedores a ascenso de categoría.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 60.
 
-El Comité de Estímulos y Ascensos del personal de carrera de la Procuraduría, para el otorgamiento de ascensos, deberá tomar en cuenta los siguientes aspectos:
+El Comité de Estímulos y Ascensos del personal de carrera de la Procuraduría o la Junta de Honor, Selección y Promoción de la Policía Judicial, según sea el caso, para el otorgamiento de ascensos deberá tomar en cuenta los siguientes aspectos:
 
 I.- Acreditación de los requisitos de la categoría en concurso;
 
@@ -957,17 +1177,25 @@ VI.- Antigüedad en la categoría; y
 
 VII.- En su caso, condición psicofísica apta.
 
-El Comité de Estímulos y Ascensos solicitará una evaluación a los superiores inmediatos de cada aspirante, la cual consistirá en un cuestionario tendiente a conocer los actos desarrollados por cada aspirante, la eficacia de su servicio, el comportamiento ético-profesional, el grado de dedicación y empeño en sus funciones; así también, dicho Comité solicitará a la Dirección General de Programación, Organización y Presupuesto un informe sobre los cursos, estímulos, reconocimientos o sanciones impuestas a los aspirantes durante el tiempo que han prestado sus servicios a la Institución.
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
-El Comité de Estímulos deberá considerar la información antes señalada para dictaminar sobre los ascensos del personal.
+El Comité de Estímulos y Ascensos o la Junta de Honor, Selección y Promoción, en su caso, solicitará una evaluación a los superiores inmediatos de cada aspirante, la cual consistirá en un cuestionario tendiente a conocer los actos desarrollados por cada aspirante, la eficacia de su servicio, el comportamiento ético-profesional, el grado de dedicación y empeño en sus funciones; así también, los órganos colegiados antes mencionados solicitarán a la Dirección General de Programación, Organización y Presupuesto un informe sobre los cursos, estímulos, reconocimientos o sanciones impuestas a los aspirantes durante el tiempo que han prestado sus servicios a la Institución.
+
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+El Comité de Estímulos y Ascensos o la Junta de Honor, Selección y Promoción, en su caso deberán considerar la información antes señalada para dictaminar sobre los ascensos del personal.
+
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 61.
 
-Para acreditar la buena conducta y la capacidad profesional del personal de carrera de la Procuraduría, bastará con el informe que rinda el Director General de Programación, Organización y Presupuesto, el cual contendrá los antecedentes del servidor público que obren en su expediente y las constancias que le haya otorgado la Procuraduría respecto de los cursos que haya impartido el Centro de Ciencias Penales, o el Instituto de Seguridad Pública o a Institución educativa que reconozca la Procuraduría, y que hubiere aprobado el aspirante.
+Para acreditar la buena conducta y la capacidad profesional del personal de carrera de la Procuraduría, bastará con el informe que rinda el Director General de Programación, Organización y Presupuesto, el cual contendrá los antecedentes del servidor público que obren en su expediente y las constancias que le haya otorgado la Procuraduría respecto de los cursos que haya impartido el Instituto Superior de Seguridad Pública del Estado o una Institución educativa que la Procuraduría reconozca para tales efectos, y que hubiere aprobado el aspirante.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 62.
 
-Para realizar el dictamen de ascensos correspondientes al personal de la Policía Judicial, el Comité de Estímulos y Ascensos deberá tomar en cuenta que el aspirante a la categoría de Jefe de Grupo reúna los requisitos siguientes:
+Para realizar el dictamen de ascensos correspondientes al personal de la Policía Judicial, la Junta de Honor, Selección y Promoción deberá tomar en cuenta que el aspirante a la categoría de Jefe de Grupo reúna los requisitos siguientes:
 
 I.- Contar con antigüedad mínima de cinco años como Agente;
 
@@ -989,37 +1217,59 @@ El personal de Servicios Periciales podrá ascender a la categoría inmediata su
 
 I.- Peritos:
 
-a) Para ascender al nivel seis, el aspirante deberá tener dos años en la Institución como Perito nivel tres; y
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
-b) Para ser promovido al nivel ocho, el Perito deberá contar con una antigüedad de cuatro años en la Institución y dos años cuando menos como Perito nivel seis.
+a) Para ascender al nivel D, el aspirante deberá tener un año como perito técnico.
 
-II.- Técnico.- Para ingresar al sistema de promociones, deberá tener una antigüedad en la Procuraduría de un año como Técnico nivel dos, y las subsecuentes promociones se harán a los niveles inmediatos superiores.
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+b) Para ser promovido al nivel B, el Perito deberá contar con una antigüedad de dos años cuando menos como Perito nivel D.
+
+> <small>(ADICIONADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+c) Para ser promovido a nivel A, el Perito deberá contar con una antigüedad de cuatro años cuando menos como Perito nivel B.
+
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+II.- Técnico.- Para ingresar al sistema de promociones, deberá tener una antigüedad de un año en la Procuraduría.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 65.
 
-El Comité de Estímulos y Ascensos del personal de carrera de la Procuraduría, llevará un puntaje de los aspectos señalados en el artículo 60, y que deben cubrir los aspirantes para hacerse acreedores a los ascensos respectivos. En caso de empate se decidirá mediante concurso de oposición.
+El Comité de Estímulos y Ascensos o la Junta de Honor, Selección y Promoción, en su caso, llevarán un puntaje de los aspectos señalados en el artículo 60, y que deben cubrir los aspirantes para hacerse acreedores a los ascensos respectivos. En caso de empate se decidirá mediante concurso de oposición.
 
 El concurso de oposición consistirá en examen escrito que versará sobre las principales áreas y los conocimientos básicos de la categoría que se concursa. El concurso de oposición tendrá un valor del cincuenta por ciento de la calificación total, y el cincuenta por ciento restante lo integrarán los factores curriculares así como los informes señalados en el presente Capítulo.
 
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 66.
 
-En el caso del artículo anterior el Secretario Técnico del Comité de Estímulos y Ascensos del personal de carrera de la Procuraduría, presentará al Procurador General de Justicia los resultados obtenidos, para que éste otorgue los respectivos ascensos a quienes se hayan hecho acreedores a los mismos.
+En el caso del artículo anterior, el Secretario Técnico del Comité de Estímulos y Ascensos del personal de carrera de la Procuraduría presentará al Procurador General de Justicia los resultados obtenidos, para que éste otorgue los respectivos ascensos a quienes se hayan hecho acreedores a los mismos. Igualmente la Junta de Honor, Selección y Promoción de los resultados obtenidos otorgará los ascensos a los elementos de la Policía Judicial que se hayan hecho acreedores a los mismos.
+
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 67.
 
-El personal de carrera de la Procuraduría podrá ascender de categoría por méritos extraordinarios, sin que se cubran los aspectos señalados en las fracciones II, V y VI del artículo 60 a propuesta del Procurador General de Justicia del Estado.
+El personal de carrera de la Procuraduría podrá ascender de categoría por méritos extraordinarios, sin que se cubran los aspectos señalados en las fracciones II, V y VI del artículo 60 a propuesta del Procurador General de Justicia del Estado o de la Junta de Honor, Selección y Promoción, en el caso de los Agentes de la Policía Judicial.
 
-#### SECCION TERCERA. DE LOS ESTIMULOS, PREMIOS, Y RECOMPENSAS
+> <small>(REFORMADA SU DENOMINACION, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+#### SECCION TERCERA. DE LOS ESTIMULOS, PREMIOS, RECOMPENSAS, RECONOCIMIENTOS Y CONDECORACIONES
+
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 68.
 
-Se establece el Programa de Estímulos, Premios y Recompensas con la finalidad de promover la participación, productividad, eficiencia, calidad e iniciativa, así como reconocer la lealtad y honestidad de los servidores públicos de la Institución para propiciar la satisfacción del empleo y el fortalecimiento del Servicio Civil de Carrera.
+Se establece el Programa de Estímulos, Premios y Recompensas a cargo del Comité de Estímulos y Ascensos, y el de Reconocimientos, Premios y Condecoraciones a cargo de la Junta de Honor, Selección y Promoción de la Policía Judicial, ambos con la finalidad de promover la participación, productividad, eficiencia, calidad e iniciativa, así como reconocer la lealtad y honestidad de los servidores públicos de la Institución para propiciar la satisfacción del empleo y el fortalecimiento del Servicio Civil de Carrera.
 
-El Comité de Estímulos y Ascensos será el encargado de desarrollar las actividades tendientes a incentivar los esfuerzos del personal del Servicio Civil de Carrera de la Procuraduría, mediante el establecimiento de mecanismos de calificación objetiva para el otorgamiento de estímulos, premios y recompensas anuales.
+Los órganos colegiados antes mencionados serán los encargados de desarrollar las actividades tendientes a incentivar los esfuerzos del personal del Servicio Civil de Carrera de la Procuraduría, mediante el establecimiento de mecanismos de calificación objetiva para el otorgamiento de estímulos, premios, recompensas, reconocimientos y condecoraciones.
+
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 69.
 
-Los estímulos consistirán en un diploma o condecoración que se otorgará a todas aquellas personas que se hagan merecedoras a tal reconocimiento, por destacarse en el desempeño de sus responsabilidades.
+Los estímulos, reconocimientos y condecoraciones se otorgarán a todas aquellas personas que se hagan merecedoras por destacarse en el desempeño de sus responsabilidades y consistirán en mención honorífica, en diploma o en la entrega de insignias de honor y distinción.
 
 ###### ARTICULO 70.
 
@@ -1029,25 +1279,37 @@ Los premios consistirán en regalos simbólicos, que se otorgarán como un recon
 
 Las recompensas consistirán en la entrega de una cantidad en numerario al servidor público que en ejercicio de sus funciones realice una conducta de relevante importancia y trascendencia en beneficio de la procuración de justicia y de la sociedad en general.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 72.
 
-El Comité de Estímulos y Ascensos de la Procuraduría tendrá las siguientes atribuciones, en materia de estímulos, premios y recompensas:
+El Comité de Estímulos y Ascensos de la Procuraduría en materia de estímulos, premios y recompensas y la Junta de Honor, Selección y Promoción, por lo que respecta a los reconocimientos, premios y condecoraciones, tendrán las siguientes atribuciones:
 
-I.- Coordinar la aplicación de la metodología para el otorgamiento de estímulos, premios y recompensas;
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+I.- Coordinar la aplicación de la metodología para el otorgamiento de estímulos, premios y recompensas, reconocimientos y condecoraciones;
 
 II.- Determinar e instrumentar los sistemas técnicos y administrativos para el manejo, registro y control de la información relativa a la evaluación de los integrantes del Servicio Civil de Carrera de la Procuraduría;
 
 III.- Recibir, registrar, analizar y seleccionar los informes y evaluaciones de los aspectos señalados en el artículo 73 del presente Reglamento;
 
-IV.- Llevar a cabo las acciones complementarias que sean necesarias para seleccionar a los servidores públicos que sean merecedores de estímulos, premios o recompensas y emitir los dictámenes respectivos;
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
-V.- Coordinar la elaboración de diplomas, constancias y reconocimientos; y
+IV.- Llevar a cabo las acciones complementarias que sean necesarias para seleccionar a los servidores públicos que sean merecedores de estímulos, premios, recompensas, reconocimientos y condecoraciones y emitir los dictámenes respectivos;
 
-VI.- Organizar la ceremonia de entrega de estímulos, premios y recompensas.
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+V.- Coordinar la elaboración de diplomas, constancias, reconocimientos e insignias; y
+
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+VI.- Organizar la ceremonia de entrega de estímulos, premios, recompensas, reconocimientos y condecoraciones.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 73.
 
-El Comité de Estímulos y Ascensos de la Procuraduría, realizará sus actividades de análisis y comprobación de merecimiento de los candidatos propuestos a estímulos, premios y recompensas, tomando en cuenta los siguientes aspectos:
+El Comité de Estímulos y Ascensos de la Procuraduría o la Junta de Honor, Selección y Promoción, en su caso, realizarán sus actividades de análisis y comprobación de merecimiento de los candidatos propuestos a estímulos, premios, recompensas, reconocimientos y condecoraciones, tomando en cuenta los siguientes aspectos:
 
 I.- Puntualidad y asistencia;
 
@@ -1069,47 +1331,67 @@ IX.- Conocimiento y comprensión de las funciones del área a la que se encuentr
 
 X.- Otros aspectos que, a su juicio, deban tomarse en consideración.
 
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 74.
 
-El Comité de Estímulos y Ascensos elegirá al servidor público del año, de cada una de las categorías que integran el Servicio Civil de Carrera de la Procuraduría, señaladas en el artículo 58 de este ordenamiento.
+El Órgano Colegiado correspondiente elegirá al servidor público del año, de cada una de las categorías que integran el Servicio Civil de Carrera de la Procuraduría, señaladas en el artículo 58 de este Ordenamiento.
+
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 75.
 
-Los servidores públicos seleccionados a que se refiere el artículo anterior, se harán merecedores a los estímulos, premios o recompensas que en cada caso se determinen.
+Los servidores públicos seleccionados a que se refiere el artículo anterior, se harán merecedores a los estímulos, premios, recompensas, reconocimientos y condecoraciones que en cada caso se determinen.
 
 ###### ARTICULO 76.
 
 El procedimiento para la selección del Agente del Ministerio Público, de la Policía Judicial y Perito del año, será el siguiente:
 
-I.- Los superiores inmediatos de los Agentes del Ministerio Público, Agentes de la Policía Judicial y Peritos que consideren que uno de sus subalternos haya desempeñado una acción o conducta de gran beneficio para la Procuraduría o para la sociedad en general, podrán proponer al Comité de Estímulos y Ascensos, dentro de los quince días hábiles posteriores al acontecimiento, la candidatura del trabajador, la que irá acompañada de un informe y una evaluación de un máximo de tres cuartillas;
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
-II.- Recibidas las candidaturas el Comité solicitará a la Dirección General de Programación, Organización y Presupuesto, un informe pormenorizado de los servidores públicos propuestos; y
+I.- Los superiores inmediatos de los Agentes del Ministerio Público, Agentes de la Policía Judicial y Peritos que consideren que uno de sus subalternos haya desempeñado una acción o conducta de gran beneficio para la Procuraduría o para la sociedad en general, podrán proponer al Comité de Estímulos y Ascensos o a la Junta de Honor, Selección y Promoción, en su caso, dentro de los quince días hábiles posteriores al acontecimiento, la candidatura del trabajador, la que irá acompañada de un informe y una evaluación de un máximo de tres cuartillas;
 
-III.- El Comité de Estímulos y Ascensos, previa evaluación de los datos señalados en las dos fracciones anteriores y de los puntos a que se refiere el artículo 73, resolverá quienes serán los servidores públicos merecedores de estímulos, premios, recompensas anuales.
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+II.- Recibidas las candidaturas el Comité de Estímulos y Ascensos o la Junta de Honor, Selección y Promoción, en su caso, solicitarán a la Dirección General de Programación, Organización y Presupuesto un informe pormenorizado de los servidores públicos propuestos; y
+
+> <small>(REFORMADA, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+III.- El Órgano Colegiado correspondiente, previa evaluación de los datos señalados en las dos fracciones anteriores y de los puntos a que se refiere el artículo 73, resolverá quienes serán los servidores públicos merecedores de estímulos, premios, recompensas, reconocimientos y condecoraciones.
+
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 77.
 
-Para aspirar a la obtención de estímulos, premios y recompensas, los aspirantes deberán tener nombramiento de su categoría.
+Para aspirar a la obtención de estímulos, premios, recompensas, reconocimientos y condecoraciones, los aspirantes deberán tener nombramiento de su categoría.
+
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 78.
 
-La Procuraduría General de Justicia del Estado, asentará en un Libro de Honor, que se establecerá para esos efectos, los nombres y cargos de los servidores públicos que se hayan hecho merecedores a estímulos, premios, recompensas.
+La Procuraduría General de Justicia del Estado asentará en un Libro de Honor, que se establecerá para esos efectos, los nombres y cargos de los servidores públicos que se hayan hecho merecedores a estímulos, premios, recompensas, reconocimientos y condecoraciones.
+
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 79.
 
-En caso de incapacidad o fallecimiento del servidor público seleccionado, la entrega del estímulo, premio o recompensa, se hará a los beneficiarios designados o a quienes expresamente se hubiere señalado para ello.
+En caso de incapacidad o fallecimiento del servidor público seleccionado, la entrega del estímulo, premio, recompensa, reconocimiento y condecoración se hará a los beneficiarios designados o a quienes expresamente se hubiere señalado para ello.
+
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 80.
 
-La ceremonia en que se entregarán los estímulos, premios y recompensas se llevará a cabo una vez al año, en los términos que para el efecto determine el Procurador General de Justicia del Estado.
+La ceremonia en que se entregarán los estímulos, premios, recompensas, reconocimientos y condecoraciones se llevará a cabo una vez al año, en los términos que para el efecto determine el Procurador General de Justicia del Estado o la Junta de Honor, Selección y Promoción, en su caso.
 
 ### CAPITULO XIII. DE LOS REQUISITOS DE PERMANENCIA
 
 #### SECCION PRIMERA. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 81.
 
-La permanencia en el cargo del personal del Servicio Civil de Carrera y el personal de designación de la Procuraduría General de Justicia del Estado, dependerá de su desempeño laboral, preparación profesional, buena conducta, del cumplimiento y observancia de las disposiciones jurídicas y administrativas establecidas en materia de procuración de justicia, de su asistencia a los cursos de especialización y actualización que imparta la dependencia u otras instituciones, así como del cumplimiento de las normas de actuación, de ética y de disciplina establecidas en este Capítulo.
+La permanencia en el cargo del personal del Servicio Civil de Carrera y el personal de designación de la Procuraduría General de Justicia del Estado, dependerá de su desempeño laboral, preparación profesional, buena conducta, del cumplimiento y observancia de las disposiciones jurídicas y administrativas establecidas en materia de procuración de justicia, de su asistencia a los cursos de especialización y actualización que imparta la dependencia u otras instituciones, así como del cumplimiento de las normas de actuación, de ética y de disciplina establecidas en la Ley Orgánica de la Procuraduría General de Justicia del Estado de Sonora, este Reglamento o en otras disposiciones legales.
 
 #### SECCION SEGUNDA. DE LAS NORMAS DE ACTUACIÓN
 
@@ -1261,37 +1543,57 @@ XVI.- Las demás que le señalen otras disposiciones o le confiera el Procurador
 
 #### SECCION QUINTA. DE LA VIGILANCIA DE LOS REQUISITOS DE PERMANENCIA
 
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 93.
 
-La Visitaduría General de la Procuraduría General de Justicia del Estado, velará por el cumplimiento de los requisitos de permanencia y por que la actuación de los miembros de la Institución se apegue a los principios de honorabilidad y reputación.
+La Visitaduría General de la Procuraduría General de Justicia del Estado, velará por el cumplimiento de los requisitos de permanencia, y porque la actuación de los miembros de la Institución se apegue a los principios de legalidad, imparcialidad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
 
 ###### ARTICULO 94.
 
 La Visitaduría General actuará con estricto apego a derecho y muy especialmente con absoluto respeto de los principios de constitucionalidad, legalidad y audiencia, por lo que todas las resoluciones que emita deberán constar por escrito, debidamente fundadas y motivadas.
 
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 95.
 
-En la vigilancia de los requisitos de permanencia la Visitaduría General se sujetará a lo siguiente:
+En la vigilancia de los requisitos de permanencia y de los principios señalados en el artículo 93, la Visitaduría General se sujetará a lo siguiente:
 
-I.- Recibir las quejas y denuncias de los ciudadanos y los expedientes que los titulares de las unidades administrativas correspondientes, inicien respecto de los servidores públicos involucrados en los hechos que se denuncien registrándolos en un Libro de Gobierno que se llevará para tal afecto, anotando la fecha de recepción, los datos del involucrado, el hecho o hechos imputados y el acta administrativa iniciada; y
+I.- Recibir quejas y denuncias en contra de servidores públicos de la dependencia, por conductas que pudieran constituir responsabilidad administrativa, verificando que éstas cumplan, con los requisitos que al efecto establece la Ley Orgánica de la Procuraduría General de Justicia del Estado de Sonora y las demás disposiciones aplicables; dichas quejas deberán ser registradas en el libro de gobierno correspondiente, anotando la fecha de recepción, los datos de los servidores públicos involucrados, así como el hecho o hechos imputados;
 
-II.- Realizar las diligencias tendientes a comprobar las conductas indebidas atribuidas a un servidor público. La conducta de un servidor público de la Procuraduría se considerará indebida cuando por acción u omisión incumple con las disposiciones jurídicas que le son aplicables.
+II.- Llevar a cabo el procedimiento de investigación practicando de oficio las diligencias y actuaciones necesarias cuando se tenga conocimiento por cualquier medio de conductas irregulares de servidores públicos de la Dependencia, así como de las quejas y denuncias que se presenten y no se acompañen con elementos probatorios suficientes para presumir la violación o el incumplimiento de las obligaciones que establecen la Ley Orgánica de la Procuraduría General de Justicia del Estado de Sonora y este Reglamento.
+
+La Visitaduría General podrá ordenar y practicar el desahogo de cualquier tipo de prueba para el esclarecimiento de los hechos denunciados o investigados, con la única limitante de que no se altere el orden público, ni se contravenga la moral de las buenas costumbres; y
+
+III.- Una vez reunidos los elementos probatorios suficientes se radicará el expediente, iniciando el procedimiento administrativo de sanción, se ordenará darle conocimiento al encausado sobre los hechos que se le imputan para que, si le conviene, presente su defensa y ofrezca pruebas dentro de un término de cinco días, contados a partir de la notificación respectiva y, desahogadas que fueren dichas pruebas y las que de oficio se manden practicar por la Visitaduría General, se pondrá el expediente para alegatos durante el plazo de tres días, de tal modo que, transcurrido este último término con o sin alegatos, se cerrará el expediente para el efecto de que, se dicte resolución definitiva.
+
+En ningún caso el procedimiento de referencia podrá extenderse por un plazo mayor a treinta días naturales a partir de la radicación de la denuncia.
+
+Serán aplicables en materia de notificaciones y ofrecimiento, admisión, desahogo y valoración de pruebas, las reglas del Código de Procedimientos Penales para el Estado de Sonora, en lo que no contravenga lo que al respecto establece la Ley Orgánica de la Procuraduría General de Justicia del Estado de Sonora y este Reglamento.
+
+El titular de la Visitaduría General en cualquier momento del procedimiento y según las circunstancias de cada caso, podrá suspender provisionalmente al encausado, hasta que se dicte resolución definitiva. Asimismo, se exceptúan los casos que a juicio del Procurador son considerados graves o de trascendencia social especial, en la que la suspensión deberá ser decretada invariablemente.
+
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 96.
 
-Una vez concluido el procedimiento de investigación la Visitaduría General emitirá opinión técnico-jurídica o, en su caso recomendación, y de dictaminarse la existencia de alguna infracción administrativa por conducta indebida o de elementos que hagan probable que el servidor público haya incurrido en una irregularidad administrativa, se remitirá el expediente respectivo a la Secretaría de la Contraloría General del Estado para que inicie el procedimiento previsto en la Ley de Responsabilidades da los Servidores Públicos del Estado y de los Municipios.
+Concluido el procedimiento de referencia y al advertirse de los medios probatorios la existencia de conductas generadoras de Responsabilidad Administrativa a cargo de los servidores públicos encausados, se turnará el expediente al Procurador General de Justicia, para que éste emita la resolución correspondiente, o bien por quien éste determine, según sea el caso. En contra de dicha resolución no procede medio de impugnación o juicio ordinario alguno.
+
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 97.
 
-En caso de que la conducta indebida constituya un delito, se remitirá al Agente del Ministerio Público competente, para que inicie la averiguación previa correspondiente.
+En caso de que la conducta indebida sea realizada por un servidor público diverso a los que integran el Servicio Civil de Carrera de la Procuraduría General de Justicia, la Visitaduría General elaborará opinión técnico-jurídica y la remitirá a la Secretaría de la Contraloría General, para que ésta resuelva lo procedente.
 
-De las determinaciones que se tomen conforme al artículo anterior y del presente se informará al Procurador General de Justicia.
+De las determinaciones que se tomen conforme al artículo anterior y del presente se informará al Procurador General de Justicia. Asimismo, cuando de dichas conductas se advierta la comisión de un delito se dará vista al Agente del Ministerio Público para que inicie la averiguación previa correspondiente.
 
 ### CAPITULO XIV. DE LAS SUPLENCIAS
 
+> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 98.
 
-Durante las ausencias del Procurador, el despacho y resolución de los asuntos de la dependencia estarán a cargo del Subprocurador de Control de Procesos y, a falta de éste, del Subprocurador de Averiguaciones Previas, y a falta de ambos, del Subprocurador de Asistencia Técnica y Programas Sociales.
+Durante las ausencias del Procurador, el despacho y resolución de los asuntos de la dependencia estarán a cargo del Subprocurador de Control de Procesos y, a falta de éste, del Subprocurador de Averiguaciones Previas.
 
 ###### ARTICULO 99.
 
@@ -1318,3 +1620,15 @@ Se abroga el Acuerdo que Crea la Unidad Central de Agentes Especiales del Minist
 Dado en la residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los quince días del mes de noviembre del año dos mil uno.
 
 EL GOBERNADOR DEL ESTADO.- ARMANDO LOPEZ NOGALES.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- OSCAR LOPEZ VUCOVICH.- RUBRICA.-
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+B.O. 17 DE NOVIEMBRE DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
