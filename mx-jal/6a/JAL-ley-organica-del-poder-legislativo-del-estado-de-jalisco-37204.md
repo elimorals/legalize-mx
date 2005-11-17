@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2005-10-11"
+last_updated: "2005-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2005.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -1369,9 +1369,13 @@ IV. La legislación, control y vigilancia del órgano técnico de responsabilida
 
 V. La propuesta ante la Junta de Coordinación Política de la terna para el nombramiento del titular del órgano técnico de Responsabilidades;
 
-VI. La supervisión y coordinación del órgano técnico de Responsabilidades; y
+VI. La supervisión y coordinación del órgano técnico de Responsabilidades; y (sic)
 
-VII. La propuesta a la Asamblea para el nombramiento y la remoción de los servidores públicos del órgano técnico de Responsabilidades.
+VII. La propuesta a la Asamblea para el nombramiento y la remoción de los servidores públicos del órgano técnico de Responsabilidades;
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2005)</small>
+
+VIII. La legislación en materia de responsabilidades de los servidores públicos.
 
 ###### Artículo 100.
 
@@ -2612,3 +2616,7 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 11 DE OCTUBRE DE 2005.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE JALISCO.
+
+P.O. 17 DE NOVIEMBRE DE 2005.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
