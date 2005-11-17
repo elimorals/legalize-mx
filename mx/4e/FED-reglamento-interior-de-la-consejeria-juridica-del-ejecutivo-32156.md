@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-consejeria-juridica-del-ejecutivo-321
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-07-03"
-last_updated: "2003-07-03"
+last_updated: "2005-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32156&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2003-06-27"
 
 REGLAMENTO INTERIOR DE LA CONSEJERIA JURIDICA DEL EJECUTIVO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA CONSEJERIA JURIDICA DEL EJECUTIVO FEDERAL, PUBLICADO EN EL D.O.F. DE 17 DE NOVIEMBRE DE 2005, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 3 de julio de 2003.
 
@@ -456,3 +458,13 @@ SEGUNDO.- Se abroga el Reglamento Interior de la Consejería Jurídica del Ejecu
 TERCERO.- Los asuntos pendientes a la entrada en vigor de este Reglamento, continuarán siendo tramitados hasta su total conclusión por las unidades administrativas a las que hayan sido turnados.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de junio de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.- El Secretario de la Función Pública, Eduardo Romero Ramos.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 17 DE NOVIEMBRE DE 2005.
+
+PRIMERO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Consejería Jurídica del Ejecutivo Federal, publicado el 3 de julio de 2003 en el Diario Oficial de la Federación.
+
+TERCERO.- Los expedientes o asuntos pendientes de resolución a la entrada en vigor de este Reglamento, continuarán siendo tramitados hasta su total conclusión por las unidades administrativas a las que hayan sido turnados o, en su defecto, a aquéllas a las cuales se les haya conferido la atribución correspondiente.
