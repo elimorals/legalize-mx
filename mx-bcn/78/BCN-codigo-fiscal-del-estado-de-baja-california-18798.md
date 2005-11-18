@@ -4,7 +4,7 @@ identifier: "BCN-codigo-fiscal-del-estado-de-baja-california-18798"
 country: "mx"
 rank: "codigo"
 publication_date: "1988-12-31"
-last_updated: "2004-04-02"
+last_updated: "2005-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO FISCAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 2005.
 
 Código publicado en la Sección Decimosegunda del Periódico Oficial del Estado de Baja California, el sábado 31 de diciembre de 1988.
 
@@ -231,7 +231,9 @@ IV.- Los representantes legales y los mandatarios, respecto de los créditos fis
 
 V.- Los Síndicos de quiebras o concursos, los liquidadores de las quiebras, los representantes de las Sociedades en liquiedación (sic) y los administradores de las sucesiones, hasta por el monto de los bienes de las Sociedades o de las sucesiones.
 
-VI.- Los tutores, los curadores y los padres de los incapaces.
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+VI.- Los tutores, los curadores y los padres de las personas menores de dieciocho años de edad o de quienes no tengan capacidad para comprender el significado del hecho.
 
 VII.- Las empresas porteadoras que transporten productos gravados con algún Impuesto por Producción o de Venta de Primera Mano, si no cumplen los requisitos que señalen los Ordenamientos respectivos.
 
@@ -1321,7 +1323,9 @@ La Secretaría de Planeación y Finanzas podrá dar a conocer a las diversas Dep
 
 Toda persona física o moral en el ejercicio de sus derechos, puede comparecer ante las Autoridades Fiscales del Estado, por sí o por medio de representante legal.
 
-Los incapaces, los sujetos a concurso o quiebra, los ausentes y las sucesiones comparecerán por medio de sus representantes legítimos.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+Las personas menores de dieciocho años de edad o quienes no tengan capacidad para comprender el significado del hecho, los sujetos a concurso o quiebra, los ausentes y las sucesiones comparecerán por medio de sus representantes legítimos.
 
 ###### ARTICULO 86.
 
@@ -1849,7 +1853,7 @@ El conjunto de normas que regulan el ejercicio de la facultad económica-coactiv
 
 Las autoridades fiscales encargadas de ejercer el Procedimiento Administrativo de Ejecución, serán responsables de la extinción de los créditos fiscales cuando éste no se inicie oportunamente.
 
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(REFORMADO, P.O 4 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 111.
 
@@ -2674,3 +2678,9 @@ Los procedimientos, trámites y recursos administrativos, que se hubieren inicia
 ###### ARTICULO TERCERO.
 
 Las infracciones cometidas antes de la entrada en vigor de este Decreto, se sancionarán en los términos preceptuados por las disposiciones vigentes en la época en que se cometieron. En caso de que las disposiciones vigentes prevean una multa distinta, se sancionará con la que resulte más benéfica para el contribuyente.
+
+P.O. 18 DE NOVIEMBRE DE 2005.
+
+PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presentes reformas.
