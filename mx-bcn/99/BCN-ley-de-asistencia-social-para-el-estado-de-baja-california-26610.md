@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-asistencia-social-para-el-estado-de-baja-california-2661
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-25"
-last_updated: "2002-10-25"
+last_updated: "2005-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 2005.
 
-Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 25 de octubre de 2002.
+Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 18 de noviembre de 2005.
 
 EUGENIO ELORDUY WALTHER GOBERNADOR DEL ESTADO DE BAJA CALIFORNIA, ANUNCIO QUE EL CONGRESO DEL ESTADO HA DIRIGIDO AL SUSCRITO PARA SU PUBLICACION, LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA, CUYO TEXTO ES EL SIGUIENTE:
 
@@ -77,15 +77,25 @@ El Poder Ejecutivo del Estado en forma prioritaria proporcionará servicios de a
 
 Para los efectos de esta Ley, se entienden como servicios básicos en materia de asistencia social, además de los previstos por la Ley General de Salud, los siguientes:
 
-I.- La atención a personas que por sus problemas de discapacidad o indigencia, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-II.- La atención en establecimientos especializados a menores y adultos mayores en estado de abandono o maltrato;
+I.- La atención a personas que por tener capacidades diferentes o indigencia, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
 
-III.- La promoción del bienestar del adulto mayor y el desarrollo de acciones de preparación para la senectud, a personas carentes de recursos;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-IV.- El ejercicio de la tutela de los menores e incapaces, en los términos de las disposiciones legales aplicables;
+II.- La atención en establecimientos especializados a personas menores dieciocho años de edad, personas que no tengan la capacidad para comprender el significado del hecho y adultos mayores de sesenta años de edad en estado de abandono o maltrato;
 
-V.- La prestación de servicios de asistencia jurídica y de orientación social a menores, adultos mayores, personas con algún tipo de discapacidad, y víctimas de violencia intrafamiliar;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+III.- La promoción del bienestar del adulto mayor de sesenta años de edad y el desarrollo de acciones de preparación para la senectud, a personas carentes de recursos;
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+IV.- El ejercicio de la tutela de personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho, en los términos de las disposiciones legales aplicables;
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+V.- La prestación de servicios de asistencia jurídica y de orientación social a personas menores de dieciocho años de edad, adultos mayores de sesenta años de edad, personas con capacidades diferentes, y víctimas de violencia familiar;
 
 VI.- La realización de investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social;
 
@@ -93,7 +103,9 @@ VII.- El apoyo a la educación y capacitación para el trabajo de personas con c
 
 VIII.- La prestación de servicios funerarios, a personas carentes de recursos;
 
-IX.- La prevención de cualquier tipo de discapacidad y su rehabilitación en centros especializados;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+IX.- La prevención de cualquier tipo de capacidad diferente y su rehabilitación en centros especializados;
 
 X.- La orientación nutricional y la alimentación subsidiaria, a personas de escasos recursos y a la población de zonas marginadas;
 
@@ -105,7 +117,9 @@ XIII.- El establecimiento y manejo del Sistema Estatal de Información Básica e
 
 XIV.- La colaboración y auxilio a las autoridades laborales competentes, en la vigilancia y aplicación de la legislación laboral aplicable a los menores;
 
-XV.- El fomento de acciones de paternidad responsable, que propicien la preservación de los derechos de los menores a la satisfacción de sus necesidades y a la salud física y mental;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+XV.- El fomento de acciones de paternidad responsable, que propicien la preservación de los derechos de las personas menores de dieciocho años de edad a la satisfacción de sus necesidades y a la salud física y mental;
 
 XVI.- Los análogos a los anteriores que tiendan a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral de la familia.
 
@@ -113,11 +127,17 @@ XVI.- Los análogos a los anteriores que tiendan a modificar y mejorar las circu
 
 Son sujetos a la recepción de los servicios de asistencia social previstos por esta Ley preferentemente los siguientes:
 
-I.- Menores en estado de abandono, desamparo, desnutrición, sujetos a maltrato o expuestos a ser víctimas de explotación o corrupción;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-II.- Menores de y en la Calle;
+I.- Personas menores de dieciocho años de edad en estado de abandono, desamparo, desnutrición, sujetos a maltrato o expuestos a ser víctimas de explotación o corrupción;
 
-III.- Menores infractores en lo referente a su atención integral y reintegración a la familia y a la sociedad, sin menoscabo de lo que establezca la legislación penal o los reglamentos aplicables;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+II.- Personas menores de dieciocho años de edad vulnerables por su exposición continua a la calle;
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+III.- Personas menores de dieciocho años de edad infractores en lo referente a su atención integral y reintegración a la familia y a la sociedad, sin menoscabo de lo que establezca la legislación penal o los reglamentos aplicables;
 
 IV.- Alcohólicos o farmacodependientes, en estado de abandono o indigencia;
 
@@ -125,19 +145,29 @@ V.- Mujeres en períodos de gestación o lactancia, carentes de recursos económ
 
 VI.- Madres solteras en condiciones de pobreza extrema;
 
-VII.- Adultos mayores que se encuentren en desamparo, marginación, sujetos a maltrato;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-VIII.- Personas con discapacidad o capacidades diferentes que les limiten realizar por sí mismas actividades necesarias para su desempeño físico, mental, social ocupacional y económico;
+VII.- Adultos mayores de sesenta años de edad que se encuentren en desamparo, marginación, sujetos a maltrato;
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+VIII.- Personas con capacidades diferentes que les limiten realizar por sí mismas actividades necesarias para su desempeño físico, mental, social ocupacional y económico;
 
 IX.- Personas que por su extrema pobreza o ignorancia requieran de servicios asistenciales;
 
-X.- Víctimas de la comisión de delitos en estado de abandono, con especial atención a víctimas de violencia intrafamiliar;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+X.- Víctimas de la comisión de delitos en estado de abandono, con especial atención a víctimas de violencia familiar;
 
 XI.- Familiares que dependen económicamente de quienes se encuentren privados de su libertad por causas penales y que por ello queden en estado de abandono;
 
 XII.- Habitantes marginados del medio rural o urbano que carezcan de lo indispensable para su subsistencia;
 
-XIII.- Personas afectadas por desastres en estado de abandono o indigencia.
+XIII.- Personas afectadas por desastres en estado de abandono o indigencia;
+
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+XVI (SIC).- Personas que no tengan la capacidad para comprender el significado del hecho.
 
 ###### ARTÍCULO 6.
 
@@ -277,29 +307,39 @@ VI.- Fomentar y apoyar las actividades que realicen las Instituciones de asisten
 
 VII.- Emitir opinión sobre el otorgamiento de subsidios a Instituciones públicas o privadas que actúen en el campo de la asistencia social en los términos previstos por la Ley de Fomento a las Actividades de Bienestar y Desarrollo Social para el Estado;
 
-VIII.- Operar establecimientos de asistencia social en beneficio de menores en estado de abandono, adultos mayores desamparados y de personas con algún tipo de discapacidad sin recursos;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+VIII.- Operar establecimientos de asistencia social en beneficio de personas menores de dieciocho años de edad en estado de abandono, personas que no tengan la capacidad para comprender el significado del hecho, adultos mayores de sesenta años de edad desamparados y de personas con capacidades diferentes sin recursos;
 
 IX.- Realizar estudios e investigaciones sobre asistencia social, con la participación en su caso de las autoridades asistenciales del Poder Ejecutivo del Estado y de los municipios;
 
 X.- Realizar y promover la capacitación de recursos humanos para la asistencia social;
 
-XI.- Prestar servicios de asistencia jurídica y de orientación social a menores, personas de la tercera edad, personas con cualquier tipo de discapacidad o que por sus condiciones de necesidad lo requieran;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+XI.- Prestar servicios de asistencia jurídica y de orientación social a personas menores de dieciocho años de edad, personas que no tengan la capacidad para comprender el significado del hecho, adultos mayores de sesenta años de edad, personas con capacidades diferentes que por sus condiciones de necesidad lo requieran;
 
 XII.- Apoyar el ejercicio de la tutela de los incapaces, que corresponda al Estado, en los términos de la Ley respectiva;
 
-XIII.- Poner a disposición del Ministerio Público los elementos a su alcance en la protección de incapaces y en los procedimientos civiles y familiares que les afecten, de acuerdo con las disposiciones legales correspondientes;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+XIII.- Poner a disposición del Ministerio Público los elementos a su alcance en la protección de personas menores de dieciocho años de edad o de personas que no tengan la capacidad para comprender el significado del hecho y en los procedimientos civiles y familiares que les afecten, de acuerdo con las disposiciones legales correspondientes;
 
 XIV.- Participar en programas de rehabilitación y educación especial, en coordinación con la Secretaria de Salud del Estado;
 
-XV.- Proponer a las autoridades correspondientes la adaptación o readaptación del espacio urbano que fuere necesario para satisfacer los requerimientos de autonomía de las personas con cualquier tipo de discapacidad;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+XV.- Proponer a las autoridades correspondientes la adaptación o readaptación del espacio urbano que fuere necesario para satisfacer los requerimientos de autonomía de las personas con capacidades diferentes;
 
 XVI.- Elaborar y proponer a la Junta de Gobierno los reglamentos que se requieran en la materia observando su estricto cumplimiento;
 
 XVII.- Las demás que establezcan las disposiciones aplicables en la materia.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 18.
 
-El DIF Estatal contará con la Procuraduría para la Defensa del Menor y la Familia, como órgano especializado dotado de autonomía técnica y operativa para brindar protección jurídica a la integridad familiar, a los menores, a los adultos mayores y personas con cualquier tipo de discapacidad sin recursos económicos, la cual tendrá las atribuciones que le otorga esta Ley, y las que le confieran otras leyes dentro de los objetivos del Sistema para el Desarrollo Integral de la Familia de Baja California.
+El DIF Estatal contará con la Procuraduría para la Defensa las (sic) personas menores de dieciocho años de edad y la Familia, como órgano especializado dotado de autonomía técnica y operativa para brindar protección jurídica a la integridad familiar, a las personas menores de dieciocho años de edad, personas que no tengan la capacidad para comprender el significado del hecho, a los adultos mayores de sesenta años de edad y personas con capacidades diferentes sin recursos económicos, la cual tendrá las atribuciones que le otorga esta Ley, y las que le confieran otras leyes dentro de los objetivos del Sistema para el Desarrollo Integral de la Familia de Baja California.
 
 ###### ARTÍCULO 19.
 
@@ -543,7 +583,9 @@ A propuesta de la Secretaría, el Ejecutivo del Estado dictaminará el otorgamie
 
 El Ejecutivo del Estado, a través de la Secretaría en coordinación con el DIF Estatal, promoverá la organización y participación activa de la comunidad en la atención de aquellos casos, que por sus características requieran de acciones de asistencia social basadas en el apoyo y solidaridad social, así como el concurso coordinado de las dependencias y entidades públicas, específicamente en el caso de comunidades afectadas de marginación.
 
-El Ejecutivo del Estado y el DIF Estatal pondrán especial atención en la promoción de acciones de la comunidad en beneficio de menores en estado de abandono, adultos mayores, o con cualquier tipo de discapacidad.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+El Ejecutivo del Estado y el DIF Estatal pondrán especial atención en la promoción de acciones de la comunidad en beneficio de personas menores de dieciocho años de edad en estado de abandono, personas que no tienen la capacidad para comprender el significado del hecho, adultos mayores de sesenta años de edad, o con personas con capacidades diferentes.
 
 ###### ARTÍCULO 45.
 
@@ -1276,3 +1318,11 @@ EUGENIO ELORDUY WALTHER.
 SECRETARIO GENERAL DE GOBIERNO.
 
 BERNARDO BORBON VILCHES.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE NOVIEMBRE DE 2005.
+
+PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presentes reformas.
