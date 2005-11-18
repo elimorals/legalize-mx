@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-atencion-y-prevencion-de-la-violencia-familiar-para-3296
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-04"
-last_updated: "2003-07-04"
+last_updated: "2005-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ATENCION Y PREVENCION DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 2005.
 
 Ley publicada en la Sección I, del Periódico Oficial de Baja California, el viernes 4 de julio de 2003.
 
@@ -77,7 +77,9 @@ i) El Instituto de la Juventud;
 
 j) El Sistema Estatal para el Desarrollo Integral de la Familia;
 
-k) La Procuraduría para la Defensa del Menor y la Familia, y
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+k) La Procuraduría para la Defensa de las personas menores de dieciocho años de edad y la Familia, y
 
 II. Los ayuntamientos.
 
@@ -101,15 +103,19 @@ VII. Miembros de la Familia: Aquellas personas que conforman o conformaron una f
 
 VIII. Ley: A la Ley de Atención y Prevención de la Violencia Familiar para el Estado de Baja California;
 
-IX. Procuraduría del Menor: A la Procuraduría para la Defensa del Menor y la Familia;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+IX. Procuraduría: La Procuraduría para la Defensa de las personas menores de dieciocho años de edad y la Familia en el Estado;
 
 X. Programa: Al Programa para la Atención y Prevención de la Violencia Familiar, y
 
 XI. Consejo: Al Consejo para la Atención y Prevención de la Violencia Familiar en el Estado de Baja California.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 5.
 
-La presente Ley reconoce como derechos de la víctima de la violencia familiar la atención y prevención; y del generador de la misma la atención integral que deban recibir, conforme a esta Ley, sin menoscabo de los derechos establecidos por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano del Estado de Baja California, la legislación civil y penal de la entidad y demás ordenamientos que tengan por objeto proteger los derechos de la mujer, del menor, de los adultos mayores y discapacitados, así como la organización, desarrollo y armonía del orden familiar.
+La presente Ley reconoce como derechos de la víctima de la violencia familiar la atención y prevención; y del generador de la misma la atención integral que deban recibir, conforme a esta Ley, sin menoscabo de los derechos establecidos por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano del Estado de Baja California, la legislación civil y penal de la entidad y demás ordenamientos que tengan por objeto proteger los derechos de la mujer, de personas menores de dieciocho años de edad, de personas que no tienen la capacidad para comprender el significado del hecho, de los adultos mayores de sesenta años de edad y personas con capacidades diferentes, así como la organización, desarrollo y armonía del orden familiar.
 
 ###### ARTÍCULO 6.
 
@@ -125,7 +131,9 @@ Se crea el Consejo como órgano de apoyo, evaluación, coordinación y concertac
 
 El Consejo se integrará por:
 
-I. Un Presidente, que será el titular de la Procuraduría del Menor;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+I. Un Presidente, que será el titular de la Procuraduría;
 
 II. Un Secretario, que será el titular de la Procuraduría General de Justicia;
 
@@ -237,17 +245,21 @@ La atención se podrá hacer extensiva en instituciones públicas a quienes cuen
 
 La atención será proporcionada por personal especializado y en la medida de lo posible de forma multidisciplinaria.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 22.
 
-Los órganos jurisdiccionales a través de sus titulares, y una vez que conozcan de juicios o procesos, en donde se desprenda que existe violencia familiar, podrán solicitar a las instituciones debidamente registradas en la Procuraduría del Menor la realización de estudios o investigaciones, o bien que emitan informes o dictámenes respecto de procesos psicoterapéuticos de generadores y víctimas de la violencia familiar, cuando sea necesario para allegarse elementos al emitir sentencia o en general le sean de utilidad, conforme a los Códigos de Procedimientos Civiles y Penales para el Estado de Baja California.
+Los órganos jurisdiccionales a través de sus titulares, y una vez que conozcan de juicios o procesos, en donde se desprenda que existe violencia familiar, podrán solicitar a las instituciones debidamente registradas en la Procuraduría para la Defensa de las personas menores de dieciocho años de edad y la Familia la realización de estudios o investigaciones, o bien que emitan informes o dictámenes respecto de procesos psicoterapéuticos de generadores y víctimas de la violencia familiar, cuando sea necesario para allegarse elementos al emitir sentencia o en general le sean de utilidad, conforme a los Códigos de Procedimientos Civiles y Penales para el Estado de Baja California.
 
 ###### ARTÍCULO 23.
 
 La atención en materia de violencia familiar se proporcionará a través de las autoridades enunciadas en el Artículo 3, fracción I, incisos b) y k).
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 24.
 
-Corresponde a la Procuraduría del Menor, en su ámbito de atención lo siguiente:
+Corresponde a la Procuraduría, en su ámbito de atención lo siguiente:
 
 I. Prestar en forma gratuita los servicios de atención psicológica, legal, educativa y social a la víctima de la violencia familiar, así como a los miembros de la familia involucrados, pudiendo gestionar aquella que no este en posibilidades de proporcionar;
 
@@ -321,15 +333,19 @@ Los organismos sociales, las autoridades, dependencias e instituciones señalada
 
 ### CAPÍTULO SEXTO. PROCEDIMIENTO CONCILIATORIO Y SU SEGUIMIENTO
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 31.
 
-La Procuraduría del Menor, a instancia de las partes en conflicto de violencia familiar, podrá resolver sus diferencias a través del procedimiento conciliatorio previsto por el Capítulo VII, de la Ley de Protección y Defensa de los Derechos del Menor y la Familia en el Estado de Baja California.
+La Procuraduría, a instancia de las partes en conflicto de violencia familiar, podrá resolver sus diferencias a través del procedimiento conciliatorio previsto por el CAPITULO VII, de la Ley de Protección y Defensa de los Derechos de las personas menores de dieciocho años de edad y la familia en el Estado de Baja California.
 
 ###### ARTÍCULO 32.
 
 El seguimiento del procedimiento conciliatorio tiene por finalidad:
 
-I. Verificar el cumplimiento de los compromisos establecidos en los convenios de conciliación, en caso de incumplimiento se impondrá la sanción prevista en el Capítulo VIII, de la Ley de Protección y Defensa de los Derechos del Menor y la Familia en el Estado de Baja California;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+I. Verificar el cumplimiento de los compromisos establecidos en los convenios de conciliación, en caso de incumplimiento se impondrá la sanción prevista en el CAPITULO VIII, de la Ley de Protección y Defensa de los Derechos de las personas menores de dieciocho años de edad y la Familia en el Estado de Baja California;
 
 II. Vigilar que el generador de la violencia familiar se someta a la atención especializada psicoterapéutica reeducativa integral convenida, y
 
@@ -337,11 +353,13 @@ III. Gestionar ante la autoridad jurisdiccional competente la ejecución forzosa
 
 ### CAPÍTULO SÉPTIMO. PROCEDIMIENTO PARA APLICAR SANCIONES
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 33.
 
-La Procuraduría del Menor impondrá las sanciones previstas en el Capítulo VIII, de la Ley de Protección y Defensa de los Derechos del Menor y la Familia en el Estado de Baja California, cuando se cometa alguna de las infracciones previstas en dicho ordenamiento.
+La Procuraduría impondrá las sanciones previstas en el Capítulo VIII de la Ley de Protección y Defensa de los Derechos de las personas menores de dieciocho años de edad y la Familia en el Estado de Baja California, cuando se cometa alguna de las infracciones previstas en dicho ordenamiento.
 
-Las sanciones impuestas por la Procuraduría del Menor serán independientes de las previstas en el convenio respectivo.
+Las sanciones impuestas por la Procuraduría serán independientes de las previstas en el convenio respectivo.
 
 ###### ARTÍCULO 34.
 
@@ -357,13 +375,17 @@ IV. Las condiciones personales y socioeconómicas del generador de la violencia 
 
 V. El carácter o condición de reincidente del generador de la violencia familiar.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 35.
 
-La Procuraduría del Menor para la imposición de las sanciones deberá citar al infractor a una audiencia para que manifieste lo que a su derecho convenga y, en la misma el conciliador determinará la sanción.
+La Procuraduría, para la imposición de las sanciones deberá citar al infractor a una audiencia para que manifieste lo que a su derecho convenga y, en la misma el conciliador determinará la sanción.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 36.
 
-La Procuraduría del Menor sin perjuicio de la sanción, apercibirá al infractor para que no reincida en la comisión de las infracciones que prevé en el Capítulo VIII, de la Ley de Protección y Defensa de los Derechos del Menor y la Familia en el Estado de Baja California, haciéndole saber las consecuencias legales de su conducta.
+La Procuraduría, sin perjuicio de la sanción, apercibirá al infractor para que no reincida en la comisión de las infracciones que prevé en el Capítulo VIII, de la Ley de Protección y Defensa de los Derechos de las personas menores de dieciocho años de edad y la familia en el Estado de Baja California, haciéndole saber las consecuencias legales de su conducta.
 
 ###### ARTÍCULO 37.
 
@@ -434,3 +456,11 @@ EUGENIO ELORDUY WALTHER
 SECRETARIO GENERAL DE GOBIERNO
 
 BERNARDO H. MARTINEZ AGUIRRE
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE NOVIEMBRE DE 2005.
+
+PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presentes reformas.
