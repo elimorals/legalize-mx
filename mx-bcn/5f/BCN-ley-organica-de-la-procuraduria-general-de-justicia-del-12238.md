@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-procuraduria-general-de-justicia-del-12238"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-04-17"
-last_updated: "2005-07-01"
+last_updated: "2005-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JULIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 2005.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes17 de abril de 1998.
 
@@ -51,7 +51,9 @@ I.- Investigar y perseguir los delitos del orden común cometidos en el Estado d
 
 II.- Velar por la legalidad y el respeto a los derechos humanos en la esfera de su competencia, así como promover la pronta, completa y debida procuración de justicia;
 
-III.- Proteger los derechos e intereses de los menores, incapaces, ausentes y ancianos, así como también los de carácter individual o social en general, en los términos que determinen las leyes y reglamentos aplicables;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+III.- Proteger los derechos e intereses de las personas menores de dieciocho años de edad, personas que no tengan la capacidad para comprender el significado del hecho, ausentes y adultos mayores de sesenta años de edad, así como también los de carácter individual o social en general, en los términos que determinen las leyes y reglamentos aplicables;
 
 IV.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
 
@@ -72,6 +74,8 @@ X.- Las demás que le confieran las disposiciones legales y reglamentarias aplic
 ###### ARTÍCULO 3.
 
 Las atribuciones concedidas a la institución del Ministerio Público se definen de la siguiente manera:
+
+> <small>(REFORMADO PRIMER AMPARO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 A) En la averiguación previa:
 
@@ -115,6 +119,8 @@ XIX.- Dictar las medidas pertinentes para proporcionar auxilio y seguridad a las
 
 XX.- Notificar a solicitud del inculpado, la resolución de archivo definitivo que se derive de la averiguación previa, conforme a las reglas de notificación previstas en el artículo 43 de esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 B) En la consignación y durante el proceso penal:
 
 I.- Iniciar el proceso penal;
@@ -123,7 +129,9 @@ II.- Ejercitar la acción penal ante los Juzgados competentes por los delitos de
 
 III.- Solicitar en los términos del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos y del Código de Procedimientos Penales para el Estado, las órdenes de cateo y de arraigo que sean necesarias;
 
-IV.- Vigilar que tratándose de menores o incapaces, se de cumplimiento a lo establecido en el artículo 247 del Código de Procedimientos Penales para el Estado de Baja California;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+IV.- Vigilar que tratándose de personas menores de dieciocho años de edad o de personas que no tengan la capacidad para comprender el significado del hecho, se dé cumplimiento a lo establecido en el artículo 247 del Código de Procedimientos Penales para el Estado de Baja California;
 
 V.- Poner a disposición del Juez que corresponda, a las personas detenidas en cumplimiento a lo señalado por los párrafos tercero y séptimo del artículo 16 de la Constitución General de la República;
 
@@ -143,6 +151,8 @@ XII.- Concurrir diariamente a los tribunales para oír y recibir las notificacio
 
 XIII.- Desistirse de la acción penal en los términos establecidos en el Código de Procedimientos Penales para el Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 C) En materia de Derechos Humanos:
 
 I.- Promover y fomentar entre los servidores públicos de la Procuraduría, una cultura de respeto a los derechos humanos;
@@ -151,11 +161,15 @@ II.- Atender las visitas, quejas, propuestas y recomendaciones de la Procuradur�
 
 III.- Recibir las observaciones que formulen directamente los particulares en materia de derechos humanos, y darles debida atención.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 D) En los asuntos del orden civil, familiar y mercantil:
 
 I.- Intervenir en los casos en que legalmente proceda, en su carácter de representante social, ante los órganos jurisdiccionales para la protección de los intereses individuales y sociales en general, y
 
-II.- Coordinarse con instituciones públicas y privadas que tengan por objeto la asistencia social de menores e incapaces, para brindarles la atención debida e intervenir en los procedimientos judiciales conforme a las disposiciones legales aplicables, o cuando se encuentren en situaciones de daño o peligro.
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+II.- Coordinarse con instituciones públicas y privadas que tengan por objeto la asistencia social de personas menores de dieciocho años de edad y de personas que no tengan la capacidad para comprender el significado del hecho, para brindarles la atención debida e intervenir en los procedimientos judiciales conforme a las disposiciones legales aplicables, o cuando se encuentren en situaciones de daño o peligro.
 
 E).- (DEROGADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2001)
 
@@ -175,6 +189,8 @@ VII.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
 
 VIII.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 F) En materia de atención a víctimas u ofendidos por el delito:
 
 I.- Proporcionar orientación y asesoría legal, así como propiciar su eficaz coadyuvancia en los procesos penales;
@@ -186,6 +202,8 @@ III.- Concertar acciones con instituciones de asistencia médica y social, públ
 IV.- Promover en instituciones públicas o privadas, atención psicológica a sujetos pasivos del delito, y
 
 V.- Dictar las medidas y providencias pertinentes para proporcionar ayuda y auxilio a las víctimas de los delitos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 G) En materia de servicios a la comunidad:
 
@@ -685,7 +703,7 @@ XXV.- Las demás inherentes al cargo, aquellas que le sean encomendadas por la S
 
 La Dirección de Control de Procesos, tendrá como función esencial cumplir con las atribuciones que las leyes le confieren al Ministerio Público en los procesos instaurados en el Tribunal Superior de Justicia, los Juzgados Penales, Civiles, Familiares, de Paz Penal, de Paz Civil, de Paz y Mixtos de Paz en el Estado, por conducto de los Agentes del Ministerio Público adscritos a Juzgados. La Dirección de Control de Procesos, está subordinada de manera directa a la Subprocuraduría de Zona de su adscripción.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 Son atribuciones de la Dirección de Control de Procesos en el ámbito de su adscripción, las siguientes:
 
@@ -713,7 +731,9 @@ X.- Estudiar los expedientes en los que se dé vista al Ministerio Público por 
 
 XI.- Turnar a la Dirección de Averiguaciones Previas, los informes y documentos relativos cuando estime que deba iniciarse la indagatoria correspondiente;
 
-XII.- Intervenir en los juicios en que sean parte los menores o incapaces, y los relativos a la familia, al estado civil de las personas, sucesorios, y todos aquellos en que por disposición legal sea parte o deba darse vista al Ministerio Público; participando en las diligencias, desahogando las vistas y promoviendo lo que proceda conforme a derecho;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+XII.- Intervenir en los juicios en que sean parte las personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho, y los relativos a la familia, al estado civil de las personas, sucesorios, y todos aquellos en que por disposición legal sea parte o deba darse vista al Ministerio Público; participando en las diligencias, desahogando las vistas y promoviendo lo que proceda conforme a derecho;
 
 XIII.- Formular conclusiones no acusatorias después de consultar al Procurador General de Justicia, por cualquiera de las causas establecidas en el Código de Procedimientos Penales para el Estado de Baja California;
 
@@ -1271,7 +1291,11 @@ XXV.- Penetrar en el horario en que se encuentren en servicios o comisión, en c
 
 XXVI.- Realizar, en el caso de los Agentes de la Policía Ministerial, indagaciones o investigaciones por su cuenta y arbitrio, ya que éstas deben emanar de mandamiento escrito de autoridad competente, y
 
-XXVII.- Las demás que contravengan las disposiciones legales y reglamentarias aplicables.
+XXVII.- Las demás que contravengan las disposiciones legales y reglamentarias aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+XXVIII.- Omitir dictar de manera inmediata a solicitud de la víctima o el ofendido las medias de auxilio y seguridad a las que se refiere el artículo 242-BIS del Código Penal para el Estado.
 
 ###### ARTÍCULO 39.
 
@@ -1474,3 +1498,9 @@ P.O. 1 DE JULIO DE 2005.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente al de su publicación, en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- El Ejecutivo del Estado tendrá un plazo de 180 días naturales contados a partir de la entrada en vigor de la presente reforma, para realizar las previsiones necesarias a efecto de implementar la organización y funcionamiento de las Subprocuradurías de Zonas ubicadas en los Municipios de Tecate y Playas de Rosarito, Baja California.
+
+P.O. 18 DE NOVIEMBRE DE 2005.
+
+PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presente reformas.
