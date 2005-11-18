@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2005-09-20"
+last_updated: "2005-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE SEPTIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE NOVIEMBRE DE 2005.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -1077,7 +1077,7 @@ XXXI. Asumir la representación política y jurídica del Municipio para tratar 
 
 > <small>(REFORMADA, P.O. 16 DE MAYO DE 2001)</small>
 
-XXXII. Proponer a la Legislatura del Estado las ternas correspondientes para la designación de ayuntamientos provisonales (sic), concejos concejos municipales y miembros de los cuerpos edilicios en los casos previstos por ésta Constitución y en la ley orgánica respectiva;
+XXXII. Proponer a la Legislatura del Estado las ternas correspondientes para la designación de ayuntamientos provisonales (sic), concejos municipales y miembros de los cuerpos edilicios en los casos previstos por ésta Constitución y en la ley orgánica respectiva;
 
 XXXIII. Ser el conducto para cubrir a los Municipios las Participaciones Federales que les correspondan conforme a las bases, montos y plazos que fije la Legislatura;
 
@@ -1381,15 +1381,19 @@ Los jueces de primera instancia, durarán en su encargo seis años y podrán ser
 
 Los jueces de primera instancia deberán reunir los mismos requisitos que los magistrados, menos el referente a la edad, que bastará que sea de 28 años y cinco años de poseer título profesional de licenciado en derecho y de ejercicio profesional.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 102.
 
 En cada distrito judicial habrá un juez o los jueces necesarios de primera instancia, quienes conocerán de los asuntos para los que la ley les otorgue competencia.
 
-> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2005)</small>
+> <small>(REFORMADO, G.G. 18 DE NOVIEMBRE DE 2005)</small>
 
-En cada centro de readaptación social, se establecerá un juez ejecutor de sentencias, quien tendrá como atribuciones la ejecución de las penas privativas y restrictivas de la libertad personal.
+Se establecerán los jueces ejecutores de sentencias que se estimen necesarios en razón del servicio, quienes tendrán como atribuciones la ejecución de las penas privativas y restrictivas de la libertad personal.
+
+> <small>(ADICIONADO, G.G. 18 DE NOVIEMBRE DE 2005)</small>
+
+Se establecerán los juicios orales para delitos no graves, en los términos propuestos y condiciones que establezcan las leyes, con base en las modalidades de audiencia pública en presencia del Juez, mediante los principios de contradicción, concentración, inmediatez, inmediación, oralidad del proceso y transparencia, conforme a las leyes respectivas.
 
 > <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2005)</small>
 
@@ -1405,9 +1409,13 @@ Los jueces de cuantía menor deberán cumplir los requisitos establecidos en las
 
 > <small>(ADICIONADO, P.O. 30 DE MAYO DE 2005)</small>
 
-Artículo 104 BIS.- Los jueces ejecutores de sentencias durarán en su encargo seis años y únicamente podrán ser suspendidos y destituidos en sus funciones conforme a la ley, en la que se determinarán asimismo los mecanismos de ratificación.
+###### Artículo 104
 
-Los Jueces de ejecución de sentencias deberán reunir los mismos requisitos que los que por ley se establecen para los jueces de primera instancia.
+Bis.- Los jueces ejecutores de sentencias durarán en su encargo seis años y únicamente podrán ser suspendidos y destituidos en sus funciones conforme a la ley, en la que se determinarán asimismo los mecanismos de ratificación.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+Los Jueces de ejecución de sentencias deberán reunir los mismos requisitos que los que por ley se establecen para los jueces de cuantía menor.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
@@ -2619,7 +2627,9 @@ P.O. 30 DE MAYO DE 2005.
 
 PRIMERO.- Publíquese este decreto en el periódico oficial "Gaceta del Gobierno".
 
-SEGUNDO.- El presente decreto entrará en vigor ciento veinte días después de su publicación en el periódico oficial "Gaceta del Gobierno".
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+SEGUNDO.- El presente decreto entrará en vigor el día primero de marzo del año dos mil seis.
 
 P.O. 20 DE SEPTIEMBRE DE 2005.
 
@@ -2636,3 +2646,21 @@ DECRETO No. 164, POR EL QUE SE REFORMAN LOS ARTICULOS 100 Y 103 DE LA CONSTITUCI
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 18 DE NOVIEMBRE DE 2005.
+
+DECRETO No. 184 POR EL QUE SE REFORMAN LOS ARTICULOS 102 EN SU SEGUNDO PARRAFO; 104 BIS EN SU SEGUNDO PARRAFO Y SEGUNDO TRANSITORIO CONTENIDOS EN EL DECRETO NUMERO 133 DE FECHA 17 DE FEBRERO DEL AÑO 2005, PUBLICADO EN LA GACETA DEL GOBIERNO EL 30 DE MAYO DEL AÑO INDICADO, RELATIVO A REFORMAS Y ADICIONES A LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 18 DE NOVIEMBRE DE 2005.
+
+DECRETO NUMERO 185 POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 102 DE LA CONSTITUCION POLÍTICA DEL ESTADO LIBRE Y SOBERNO DE MEXICO.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Se derogan las disposiciones que se opongan al presente decreto.
