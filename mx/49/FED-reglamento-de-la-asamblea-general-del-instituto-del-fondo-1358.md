@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-asamblea-general-del-instituto-del-fondo-1358"
 country: "mx"
 rank: "reglamento"
 publication_date: "1973-01-08"
-last_updated: "1998-12-22"
+last_updated: "2005-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1358&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,9 @@ scjn_last_update: "2005-11-18"
 
 REGLAMENTO DE LA ASAMBLEA GENERAL DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 1998.
+> <small>N. DE E. DE CONFORMIDAD CON LA REGLA SEGUNDA TRANSITORIA DE LAS REGLAS DE OPERACION DE LA ASAMBLEA GENERAL DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES, PUBLICADAS EN EL D.O.F. DE 18 DE NOVIEMBRE DE 2005, EL PRESENTE REGLAMENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación el lunes 8 de enero de 1973.
 
@@ -221,3 +223,11 @@ D.O.F. 22 DE DICIEMBRE DE 1998.
 ###### ARTICULO UNICO.
 
 El presente Acuerdo entrará en vigor a partir de la fecha de su aprobación por la Asamblea General del Instituto.
+
+D.O.F. 18 DE NOVIEMBRE DE 2005.
+
+PRIMERA.- Las presentes Reglas de Operación entrarán en vigor a partir del día siguiente a su aprobación por la Asamblea General.
+
+SEGUNDA.- Las presentes Reglas de Operación abrogan el "Reglamento de la Asamblea General del Instituto del Fondo Nacional de la Vivienda para los Trabajadores", publicado en el Diario Oficial de la Federación el 8 de enero de 1973.
+
+TERCERA.- Las presentes Reglas de Operación serán publicadas de acuerdo a las instrucciones de la Asamblea General.
