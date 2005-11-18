@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-atencion-y-proteccion-a-la-victima-o-el-ofendido-del-338
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-22"
-last_updated: "2003-08-22"
+last_updated: "2005-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33852&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ATENCION Y PROTECCION A LA VICTIMA O EL OFENDIDO DEL DELITO PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 22 de agosto de 2003.
 
@@ -89,7 +89,9 @@ II.- Proponer al Procurador la celebración de convenios con instituciones públ
 
 III.- Proponer al Procurador programas tendientes a mejorar la calidad y eficiencia para la atención de la víctima o el ofendido;
 
-IV.- Establecer mecanismos para ampliar la cobertura de atención y protección a la víctima o el ofendido, a las personas que sin tener tal carácter sufran una afectación por la comisión de una conducta punitiva, preferentemente cuando se trate de menores de edad, incapaces, adultos mayores o miembros de grupos vulnerables de la sociedad;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+IV.- Establecer mecanismos para ampliar la cobertura de atención y protección a la víctima o el ofendido, a las personas que sin tener tal carácter sufran una afectación por la comisión de una conducta punitiva, preferentemente cuando se trate de personas menores de dieciocho años de edad o de personas que no tengan la capacidad para comprender el significado del hecho, adultos mayores de sesenta años de edad o miembros de grupos vulnerables de la sociedad;
 
 V.- Concertar acciones con instituciones públicas o privadas para prestar las medidas de atención y protección que no este en posibilidades de proporcionar directamente; y,
 
@@ -185,9 +187,11 @@ Las instituciones privadas o particulares de salud tienen la obligación de pres
 
 Las instituciones de salud públicas o privadas según sea el caso, podrán reclamar como terceros con derecho a la reparación del daño de acuerdo a las leyes penales del Estado, los gastos ocasionados por la prestación de las medidas de atención médica, psicológica o psiquiátrica de urgencia a favor de la víctima o el ofendido.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 17.
 
-El sistema para el Desarrollo Integral de la Familia sin perjuicio de las facultades y obligaciones impuestas por otros ordenamientos, prestará a la víctima o el ofendido asesoría jurídica cuando estos sean menores de edad, así como servicios básicos de salud en materia de asistencia social cuando estos sean personas de escasos recursos económicos.
+El sistema para el Desarrollo Integral de la Familia sin perjuicio de las facultades y obligaciones impuestas por otros ordenamientos, prestará a la víctima o el ofendido asesoría jurídica cuando estos sean de personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho, así como servicios básicos de salud en materia de asistencia social cuando estos sean personas de escasos recursos económicos.
 
 ### CAPÍTULO SEXTO. DEL PROCEDIMIENTO PARA EL OTORGAMIENTO DE BENEFICIOS A LA VÍCTIMA O EL OFENDIDO
 
@@ -258,3 +262,11 @@ EUGENIO ELORDUY WALTHER
 SECRETARIO GENERAL DE GOBIERNO
 
 BERNARDO H. MARTINEZ AGUIRRE
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE NOVIEMBRE DE 2005.
+
+PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presentes reformas.
