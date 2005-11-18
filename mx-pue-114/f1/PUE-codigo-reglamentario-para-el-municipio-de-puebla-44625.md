@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2005-10-14"
+last_updated: "2005-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CODIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 2005.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -93,9 +93,11 @@ X. Trabajo Municipal.
 
 Es facultad del Presidente Municipal de Puebla, resolver cualquier duda respecto a la interpretación del presente Código Reglamentario, la aplicación del mismo y las sanciones que establece, así como delegar estas facultades en el funcionario que éste designe.
 
+> <small>(REFORMADO P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### Artículo 7.
 
-Para la actualización, modificación, reforma y/o adición del presente ordenamiento jurídico, se requerirá seguir el procedimiento señalado en los artículos 84, 85, 86, 87, 88 y 89 de la Ley Orgánica Municipal del Estado de Puebla, independientemente de la obligación del Honorable Ayuntamiento de Puebla, de emitir un acuerdo el segundo miércoles del mes de agosto de cada dos años, contados a partir del año de entrada en vigencia de este Código, por el que se determine, previa evaluación, la necesidad de realizar adecuaciones al contenido del mismo. En caso de no resultar necesario, el Cabildo emitirá un acuerdo en los términos que correspondan, a efecto de ratificar el contenido de todos y cada uno de los términos el Código Reglamentario.
+Para la actualización, modificación, reforma y/o adición, del presente ordenamiento jurídico, se requerirá seguir el procedimiento señalado en los artículos 84, 85, 86, 87, 88 y 89 de la Ley Orgánica Municipal del Estado de Puebla.
 
 ### CAPÍTULO 2. DE LA EXTENSIÓN TERRITORIAL MUNICIPAL
 
@@ -10089,7 +10091,7 @@ II. Reducción de las fuerzas cortantes.- Podrán adoptarse fuerzas cortantes me
 
 1. El periodo natural de vibraciones se tomará igual a
 
-T = 2 ñ g (¡W¡ 2) 1/2
+T = 2 ñ g (¡W¡2) 1/2
 
 g (P¡ X¡)
 
@@ -10139,7 +10141,7 @@ IV. Apéndices
 
 Para valuar las fuerzas sísmicas obran en apéndices, tanques y demás elementos difiera radicalmente de el resto de la estructura principal, se pondrá actuando sobre el elemento en cuestión la fuerza sísmica que le correspondiera si se apoyará directamente el terreno, multiplicada por el factor 1 + c/ ao en que c es el coeficiente por el que se multiplica el peso del nivel de desplante del elemento en cuestión cuando se evalúan las fuerzas laterales sobre todo la construcción. Este requisito junto con la condición que establece la fracción I de este artículo para el cortante basal conducen a
 
-a(¡W¡h¡+a°Wa°Wa(1+ah°/a°)=W¡+wa)c/Q;c/Q>a°
+a(¡W¡h¡+a°Wa°Wa(1+ah°/a°)=W¡+wa)c/Q;c/Q>a
 
 Donde:
 
@@ -10311,7 +10313,7 @@ X¡ = V/V(x¡ + (h¡ + D)Mo/Kr)
 
 Donde:
 
-Mo = Momento de volteo en la base de la cimentación para la estructura supuesta con base indeformable.
+M o = Momento de volteo en la base de la cimentación para la estructura supuesta con base indeformable.
 
 Xi = Desplazamiento lateral del nivel i de la estructura con base rígida.
 
@@ -10659,7 +10661,7 @@ Zapatas aisladas.
 
 Zapatas corridas.
 
-Lozas de cimentacion.
+Lozas de cimentación.
 
 Las cimentaciones profundas comprenden:
 
@@ -21572,3 +21574,11 @@ TERCERO.- El Presidente Municipal girará instrucciones a la dependencia corresp
 P.O. 14 DE OCTUBRE DE 2005.
 
 ÚNICO.- Hasta en tanto no se publique la reforma al párrafo tercero del artículo 113 del Código Reglamentario para el Municipio de Puebla, las atribuciones serán ejercidas directamente por el Secretario de Gobernación Municipal.
+
+P.O. 18 DE NOVIEMBRE DE 2005.
+
+PRIMERO.- Las presentes modificaciones entrarán en vigor a partir de su aprobación por el Honorable Ayuntamiento del Municipio de Puebla.
+
+SEGUNDO.- Se derogan las demás disposiciones que sean incompatibles con el presente Acuerdo.
+
+TERCERO.- Se incluye al Presidente y al Secretario General del Honorable Ayuntamiento del Municipio de Puebla, para que realicen las gestiones necesarias tendientes a que el presente documento se aplique en el Periódico Oficial del Estado.
