@@ -4,7 +4,7 @@ identifier: "BCN-ley-contra-la-delincuencia-organizada-para-el-estado-de-36589"
 country: "mx"
 rank: "ley"
 publication_date: "2004-01-02"
-last_updated: "2004-01-02"
+last_updated: "2005-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36589&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY CONTRA LA DELINCUENCIA ORGANIZADA PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 2 de enero de 2004.
 
@@ -55,9 +55,9 @@ V. Ley Orgánica: La Ley Orgánica de la Procuraduría General de Justicia del E
 
 VI. Miembros de la Delincuencia Organizada: Aquellas personas que, siendo autores o partícipes, desempeñen actividades comprendidas dentro de las funciones de administración, dirección, supervisión o cualquier otra, que tengan como objetivo o resultado la comisión del delito de delincuencia organizada, así como de acciones delictivas derivadas de ésta;
 
-VII. Ministerio Público: El que pertenece a la subprocuraduría encargada de la investigación y persecución de los delitos cometidos por Miembros de la Delincuencia Organizada;
+VIl. Ministerio Público: El que pertenece a la subprocuraduría encargada de la investigación y persecución de los delitos cometidos por Miembros de la Delincuencia Organizada;
 
-VIII. Subprocuraduría contra la Delincuencia Organizada: La unidad de la Procuraduría General de Justicia del Estado encargada de la investigación y persecución de delitos cometidos por Miembros de la Delincuencia Organizada, y
+VII. Subprocuraduría contra la Delincuencia Organizada: La unidad de la Procuraduría General de Justicia del Estado encargada de la investigación y persecución de delitos cometidos por Miembros de la Delincuencia Organizada, y
 
 IX. Subprocurador: El titular de la Subprocuraduría Contra la Delincuencia Organizada.
 
@@ -85,13 +85,29 @@ VI. Robo de Vehículo, previsto por el artículo 208 Bis del Código Penal;
 
 VII. Asalto, previsto en los artículos 172 y 173 del Código Penal;
 
-VIII. Tráfico de menores, previsto en el artículo 238 en sus párrafos primero y quinto del Código Penal;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-IX. Lenocinio, previsto por los artículos 265, 266 y 267 del Código Penal;
+VIII. Tráfico de personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho, descrito por el artículo 238 del Código Penal;
 
-X. Falsificación de documentos, previsto por el artículo 259 del Código Penal, y
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-XI. Abigeato, previsto por los artículos 209 y 212 del Código Penal.
+IX. Lenocinio previsto en los artículos 265, 265-BIS, 265-TER y 265-QUATER del Código Penal;
+
+X. Falsificación de documentos, previsto por el artículo 259 del Código Penal, y (sic)
+
+XI. Abigeato, previsto por los artículos 209 y 212 del Código Penal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+XII. Pornografía de personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho, establecido en el artículo 261 TER del Código Penal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+XIII. Turismo Sexual con personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho, previsto en el artículo 261 QUATER del Código Penal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+XIV. Trata de personas, y trata de personas menores de dieciocho años de edad o de personas que no tengan la capacidad para comprender el significado del hecho, tipificado en los artículos 266 y 266-BOS del Código Penal; (sic)
 
 ###### ARTÍCULO 5.
 
@@ -107,7 +123,9 @@ Las penas a que se refiere el artículo anterior se aumentarán hasta una mitad 
 
 I. Cuando se trate de servidor público. Además, se le impondrá a dicho servidor público la destitución, así como la inhabilitación definitiva para desempeñar cualquier empleo, cargo o comisión públicos, o
 
-II. Cuando en la comisión del delito o de los delitos a que se refiere esta Ley, se utilicen uno o varios menores de edad o incapaces.
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+II. Cuando en la comisión del delito o de los delitos a que se refiere esta Ley, se utilicen uno (sic) o varias personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho.
 
 ###### ARTÍCULO 7.
 
@@ -288,3 +306,11 @@ EUGENIO ELORDUY WALTHER.
 SECRETARIO GENERAL DE GOBIERNO.
 
 BERNARDO H. MARTINEZ AGUIRRE.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE NOVIEMBRE DE 2005.
+
+PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presentes reformas.
