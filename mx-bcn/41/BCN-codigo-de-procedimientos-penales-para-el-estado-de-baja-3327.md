@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-3327"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2004-12-24"
+last_updated: "2005-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 2005.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1029,13 +1029,13 @@ No se considera como antecedentes para negar la libertad caucional, los delitos 
 
 Cuando se solicite la libertad caucional, el juzgador o el ministerio público en su caso, deberá resolver de plano lo conducente. Si se negare la libertad caucional, podrá solicitarse de nuevo y concederse por causas supervinientes.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### Artículo 123.
 
-Delitos Graves.- Para todos los efectos legales, se califican como delitos graves los previstos en los siguientes Artículos del Código Penal, quedando comprendidos los realizados en grado de tentativa.
+Delitos Graves.- Para todos los efectos legales, se califican como delitos graves los previstos en los siguientes artículos del Código Penal, quedando comprendidos los realizados en grado de tentativa.
 
-Homicidio por culpa; previsto en el Artículo 75 tercera parte del primer párrafo, cuando el conductor se encuentre en estado de ebriedad u otras substancias que perturben su adecuada conducción; homicidio previsto en el Artículo 123, en su forma simple contemplado en el Artículo 124; en su forma atenuada a que se refiere el Artículo 125; las formas calificadas previstas en los artículos 126 en relación con el 147, y sus formas agravadas previstas en los artículos 127 y 128; infanticidio descrito en el Artículo 129; la instigación o ayuda al suicidio a que se refiere el segundo párrafo del Artículo 131; Lesiones contra menores o incapaces descrito en el Artículo 143-BIS párrafo segundo; secuestro previsto en los Artículos 164 y 165; secuestro equiparado, en las modalidades de secuestro exprés y auto secuestro, previstas en el Artículo 164 BIS fracciones I y II; asalto agravado tipificado en el Artículo 173; violación contemplada en el Artículo 176, violación equiparada en el Artículo 177, violación impropia en el Artículo 178, así como las formas agravadas, a que se refiere el Artículo 179; robo calificado en las hipótesis previstas por los Artículos 203 y 208 fracciones I, II; robo de vehículo en las hipótesis contempladas en los Artículos 208-BIS y 208-TER fracciones de la I a la V; abigeato descrito en el Artículo 209, pero sólo cuando se trate de ganado de las especies bovina o equina, o de tres o más cabezas de ganado ovino, caprino o porcino; despojo agravado a que se refiere el párrafo cuarto del Artículo 226 por lo que toca a los instigadores y autores mediatos; daños agravados contenidos en las fracciones I y II del Artículo 229; tráfico de menores descrito por el Artículo 238 primero y segundo párrafos; corrupción de menores e incapaces tipificado en el Artículo 261 párrafo segundo; pornografía infantil tipificado en el Artículo 261-BIS, Lenocinio descrito en la fracción IV del Artículo 266; Lenocinio agravado del Artículo 267; terrorismo descrito en el Artículo 279 excepto su encubrimiento; peculado en su modalidad contemplada en el Artículo 299 fracción III; tortura previsto en el Artículo 307-BIS primer párrafo y 307-TER segundo párrafo; evasión de presos, en la forma agravada del Artículo 328 y los delitos electorales previstos en los Artículos 348 fracción IV y 355.
+Homicidio por culpa; previsto en el artículo 75 tercera parte del primer párrafo, cuando el conductor se encuentre en estado de ebriedad u otras substancias que perturben su adecuada conducción; homicidio previsto en el artículo 123, en su forma simple contemplado en el artículo 124; en su forma atenuada a que se refiere el artículo 125; las formas calificadas previstas en los artículos 126 en relación con el 147, y sus formas agravadas previstas en los artículos 127 y 128; la instigación o ayuda al suicidio a que se refiere el segundo párrafo del artículo 131; Lesiones contra personas menores de dieciocho años de edad o personas que no tienen la capacidad para comprender el significado del hecho, descrito en el artículo 143-BIS; secuestro previsto en los artículos 164 y 165; secuestro equiparado, en las modalidades de secuestro exprés y auto secuestro, previstas en el artículo 164 BIS fracciones I y II; asalto agravado tipificado en el artículo 173; violación contemplada en el artículo 176, violación equiparada en el artículo 177, violación impropia en el artículo 178, así como las formas agravadas, a que se refieren los artículos 178-BIS y 179; el abuso sexual a personas menores de dieciocho años de edad o personas que no tengan (sic) capacidad de comprender el significado hecho, previsto en el artículo 180 Bis; robo calificado en las hipótesis previstas por los artículos 203 y 208 fracciones I, II; robo de vehículo en las hipótesis contempladas en los artículos 208-BIS y 208-TER fracciones de la I a la V; abigeato descrito en el artículo 209, pero sólo cuando se trate de ganado de las especies bovina o equina, o de tres o más cabezas de ganado ovino, caprino o porcino; despojo agravado a que se refiere el párrafo cuarto del artículo 226 por lo que toca a los instigadores y autores mediatos; daños agravados contenidos en las fracciones I y II del artículo 229; tráfico de personas menores de dieciocho años de edad o personas que no tiene (sic) la capacidad para comprender el significado del hecho, tipificado en el artículo 261-QUATER; lenocinio previsto en los artículo 265, 265-BIS y 265-TER; trata de personas previsto en los artículos 266 y 266-BIS; terrorismo descrito en el artículo 279 excepto su encubrimiento; peculado en su modalidad contemplada en el artículo 299 fracción III; tortura previsto en el artículo 307-BIS primer párrafo y 307-TER segundo párrafo; evasión de presos, en la forma agravada del artículo 328 y los delitos electorales previstos en los artículos 348 fracción IV y 355.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1998)</small>
 
@@ -1509,7 +1509,13 @@ Si a pesar de haber sido apremiado el perito no cumple con las obligaciones señ
 
 Médicos en Hospitales Públicos.- Cuando se trate de una lesión proveniente del delito y el lesionado se encuentre en algún hospital público, los médicos de éste se tendrán por nombrados como peritos, sin perjuicio de que el funcionario que practique las diligencias nombre, además, otros, si lo creyere conveniente, para que dictaminen y hagan la clasificación legal.
 
-La exploración médica que se realice a un menor víctima de algún delito contra la libertad y seguridad sexual, se practicará por un médico pediatra o especializado en abuso sexual infantil.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+La exploración médica que se realice a una persona menor de dieciocho años de edad o quien no tenga la capacidad para comprender el significado del hecho víctima de algún delito contra la libertad, seguridad sexual, dignidad y el normal desarrollo psicosexual se practicará por un médico pediatra o especializado en abuso sexual infantil y deberá ser preferentemente del mismo sexo de la víctima.
+
+> <small>(REFORMADO [N. DE E. ADICONADO], P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+De igual forma la exploración médica que se realice a una persona del sexo femenino víctima de algún delito contra la libertad, seguridad sexual, dignidad y el normal desarrollo psicosexual, deberá practicarse por personal médico especializado y preferentemente del mismo sexo de la víctima, si ella así lo solicita.
 
 ###### Artículo 177.
 
@@ -1703,13 +1709,13 @@ Careos procesales.- Siempre que exista contradicción substancial entre dos pers
 
 El careo se practicará dando lectura a las declaraciones que se reputen contradictorias, señalando la autoridad los puntos específicos sobre los que deberá versar la discusión, a fin de que se aclaren las contradicciones, pudiendo intervenir cualquiera de las partes para hacer notar al juzgador otros puntos o solicitar que se asienten correctamente las respuestas y actitudes de los careantes.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### Artículo 208.
 
-Imposibilidad de practicar el careo.- Cuando agotados los medios de apremio no pudiere obtenerse la comparecencia de alguna de las personas que deba ser careada, el Juzgador ordenará al secretario que levante una certificación de este hecho, y practicará careo supletorio, leyéndose al presente la declaración del otro haciéndole notar las contradicciones que hubiere entre aquella y lo declarado por él.
+Imposibilidad de practicar el careo.- Cuando agotados los medios de apremio no pudiere obtenerse la comparecencia de alguna de las personas que deba ser careada, el Juzgador ordenará al secretario que levante una certificación de este hecho, y practicará careo supletorio, leyéndose al presente la declaración del otro haciéndole notar las contradicciones que hubiere entre lo declarado por él.
 
-> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 1992)</small>
-
-Tratándose de menores víctimas de delitos contra la libertad y seguridad sexual, no será permitido practicar careo entre el ofendido y el ofensor.
+Tratándose de personas menores de dieciocho años de edad o quien no tiene la capacidad para comprender el significado del hecho, no será permitido practicar careo entre la víctima y el ofensor en ningún caso; tratándose de delitos contra la libertad, seguridad sexual, dignidad y el normal desarrollo psicosexual y secuestro no será permitido practicar careo por ninguna circunstancia entre la víctima y el ofensor.
 
 ### CAPITULO VIII. DOCUMENTOS
 
@@ -1867,13 +1873,13 @@ Iniciación por querella.- Es necesaria la querella del ofendido solamente en lo
 
 La querella también puede formularse verbalmente o por escrito, observándose para ello lo dispuesto en el artículo anterior.
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### Artículo 229.
 
-Querella de Menores, Incapaces, o personas con una incapacidad física o mental derivada de delitos culposos.- Cuando el ofendido sea menor de edad puede querellarse por sí mismo, siempre que haya cumplido 14 años o a través de quienes ejerzan la patria potestad o la tutela. Tratándose de incapaces, la querella se presentará por los representantes legales o por cualquier persona cuando carezcan de representación, pero en este caso el Ministerio Público le designará un tutor dativo de entre los funcionarios públicos que actúan en el área de la protección del menor y la familia, quien decidirá la subsistencia o retiro de la acusación y representará al ofendido en todos los actos del procedimiento penal.
+Querella de personas menores de dieciocho años de edad o personas que no tienen la capacidad para comprender el significado del hecho; derivada de delitos culposos.- Cuando la víctima o el ofendido sea persona menores de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho; puede querellarse por sí mismo, siempre que haya cumplido doce años o a través de quienes ejerzan la patria potestad o la tutela, o por cualquier otra persona cuando la querella sea contra quienes ejerzan la patria potestad o la tutela o carezcan de representación; pero en este caso el Ministerio Público le dará aviso a la Procuraduría de la defensa de las personas menores de dieciocho años de edad y la familia, quien fungirá como tutor legal, debiendo ésta realizar todas las acciones necesarias respecto al procedimiento penal así como para la protección o cuidados de la persona víctima u ofendida; tratándose de personas que no tengan la capacidad para comprender el significado del hecho, la querella se presentará por los representantes legales o por cualquier persona cuando carezcan de representación, debiendo el agente del Ministerio Público seguir el procedimiento antes descrito.
 
-Cuando con motivo del tránsito de vehículos de motor, culposamente se cause lesión, y el ofendido quede en estado de inconsciencia o imposibilitado para formular su querella y no tuviere quien lo represente legal o convencionalmente se entenderá que su deseo es querellarse.
+Cuando con motivo del tránsito de vehículos de motor, culposamente se cause lesión, y la víctima o el ofendido quede en estado de inconsciencia o imposibilitado para formular su querella y no tuviere quien lo represente legal o convencionalmente se entenderá que su deseo es querellarse.
 
 ###### Artículo 230.
 
@@ -1943,7 +1949,9 @@ Cuando por cualquier causa no fuere posible recabar el certificado de sanidad, e
 
 Forma de suplir la autopsia.- Cuando por cualquier otro motivo no pueda practicarse la autopsia, bastará que los peritos, en vista de los datos que obren en el expediente, declaren que la muerte fue resultado de las lesiones inferidas.
 
-### CAPITULO II. ATENCION MEDICA A LESIONADOS Y ASISTENCIA A MENORES E INCAPACES
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+### CAPITULO II. ATENCION MEDICA A LESIONADOS Y ASISTENCIA
 
 ###### Artículo 242.
 
@@ -3472,3 +3480,17 @@ P.O. 16 DE ENERO DE 2004.
 P.O. 24 DE DICIEMBRE DE 2004.
 
 UNICO.- La presente reforma al Código de Procedimientos Penales para el Estado de Baja California, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE NOVIEMBRE DE 2005.
+
+DECRETO NUMERO 121
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE NOVIEMBRE DE 2005.
+
+DECRETO NUMERO 125
+
+PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presentes reformas.
