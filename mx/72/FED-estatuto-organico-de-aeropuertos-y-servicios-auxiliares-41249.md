@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-aeropuertos-y-servicios-auxiliares-41249"
 country: "mx"
 rank: "estatuto"
 publication_date: "2004-10-20"
-last_updated: "2004-10-20"
+last_updated: "2005-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41249&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-09-25"
 
 ESTATUTO ORGANICO DE AEROPUERTOS Y SERVICIOS AUXILIARES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE NOVIEMBRE DE 2005.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 20 de octubre de 2004.
 
@@ -2221,6 +2221,14 @@ Durante las ausencias temporales del Director General, el despacho y resolución
 
 Las ausencias temporales de los Coordinadores, los Directores, Subdirectores y Gerentes serán suplidas, para el despacho de los asuntos de su competencia, por los servidores públicos de jerarquía inmediata inferior del área de su responsabilidad y que por las circunstancias y naturaleza del suceso le corresponda conocer.
 
+> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2005)</small>
+
+###### Artículo 93 Bis.
+
+El Gerente de lo Contencioso y Administrativo actuará como representante de este Organismo y suplirá las ausencias del Director General y del Director de Asuntos Jurídicos en los juicios de amparo, en los que aquéllos sean señalados como autoridades responsables o terceros perjudicados, para lo cual rendirá los informes previos y justificados, así como realizar todas las gestiones relativas a la sustanciación de dichos juicios.
+
+Lo anterior, con fundamento en los artículos 15 y 58 fracción VIII de la Ley Federal de las Entidades Paraestatales.
+
 ###### Artículo 94.
 
 La ausencia temporal del Titular del Organo Interno de Control, así como la de los Titulares de las Areas de Responsabilidades, Auditoría y Quejas serán suplidas conforme a lo previsto en el segundo y tercer párrafos del artículo 54 del Reglamento Interior de la Secretaría de la Función Pública.
@@ -2236,3 +2244,9 @@ TERCERO.- Los asuntos pendientes a la entrada en vigor de este Estatuto Orgánic
 CUARTO.- El presente Estatuto Orgánico, así como las reformas y adiciones al mismo, deberán inscribirse, en su oportunidad, en el Registro Público de Organismos Descentralizados.
 
 México, D.F., a 6 de septiembre de 2004.- Este estatuto fue expedido por el Consejo de Administración de Aeropuertos y Servicios Auxiliares, en sesión celebrada el día veinticinco de septiembre de dos mil tres, por acuerdo número CA-(SEP-03)17, firmando al calce el Director General, Ernesto Velasco León.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 18 DE NOVIEMBRE DE 2005.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL FEDERAL VIGENTE.
