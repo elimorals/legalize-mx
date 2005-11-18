@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2004-04-02"
+last_updated: "2005-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACION DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 2005.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -341,9 +341,11 @@ IV.- El tipo superior comprende la educación normal, la tecnológica y la unive
 
 La educación inicial tendrá la finalidad de familiarizar al niño a partir de los 45 días de nacido o antes de los 4 años de edad, con su correcto desenvolvimiento social en núcleos distintos al familiar.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 24.
 
-La educación preescolar tendrá como propósito fundamental la sociabilización del menor a partir de los cuatro años de edad, atendiendo, mediante personal especializado con título académico del nivel o acreditación como licenciado en educación preescolar; aspectos psicológicos, pedagógicos, cognoscitivos, afectivos y psicomotrices que le permitan crecer en un ambiente de libertad, cooperación y progreso, procurando que adquieran los conocimientos básicos sobre la naturaleza, la vida y la sociedad y se oriente su desarrollo hacia la creatividad.
+La educación preescolar tendrá como propósito fundamental la sociabilización de la persona a partir de los cuatro años de edad, atendiendo, mediante personal especializado con TITULO académico del nivel o acreditación como licenciado en educación preescolar; aspectos psicológicos, pedagógicos, cognoscitivos, afectivos y psicomotrices que le permitan crecer en un ambiente de libertad, cooperación y progreso, procurando que adquieran los conocimientos básicos sobre la naturaleza, la vida y la sociedad y se oriente su desarrollo hacia la creatividad.
 
 ###### ARTICULO 25.
 
@@ -441,9 +443,11 @@ III.- Brindar mayores oportunidades de desarrollo educativo y laboral a niños, 
 
 IV.- Propiciar un marco de equidad, y calidad educativa que permita a los alumnos con necesidades educativas especiales, desarrollar al máximo sus capacidades.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 35.
 
-En la impartición de la educación para menores de edad se tomarán medidas que aseguren al educando la protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad, y que la aplicación de la disciplina escolar sea compatible con su edad.
+En la impartición de la educación para personas menores de dieciocho años de edad se tomarán medidas que aseguren al educando la protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad, y que la aplicación de la disciplina escolar sea compatible con su edad.
 
 ###### ARTICULO 36.
 
@@ -615,7 +619,9 @@ Son derechos de quienes ejercen la patria potestad o tutela:
 
 I.- Como agente natural o primario de la educación, elegir para sus hijos o pupilos la institución educativa pública o particular que les convenga.
 
-II.- Obtener la inscripción en escuelas públicas o particulares para que sus hijos o pupilos menores de edad, que satisfagan los requisitos aplicables, reciban la educación en los niveles, tipos y modalidades que se impartan en el estado.
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+II.- Obtener la inscripción en escuelas públicas o particulares para que sus hijos o pupilos menores de dieciocho años de edad, que satisfagan los requisitos aplicables, reciban la educación en los niveles, tipos y modalidades que se impartan en el Estado.
 
 III.- Participar a las autoridades de la escuela en la que estén inscritos sus hijos o pupilos, cualquier problema relacionado con la educación de éstos, a fin de que aquellas se avoquen a su solución.
 
@@ -631,9 +637,9 @@ VII.- Opinar ante las autoridades educativas en relación a las tarifas y demás
 
 Son obligaciones de quienes ejercen la patria potestad o tutela:
 
-> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-I.- Hacer que sus hijos o pupilos, menores de edad, reciban la educación preescolar, la primaria y la secundaria.
+I.- Hacer que sus hijos o pupilos, menores de dieciocho años de edad, reciban la educación preescolar, la primaria y la secundaria.
 
 II.- Apoyar el proceso educativo de sus hijos o pupilos de conformidad con lo señalado por el Proyecto Educativo del Estado, y
 
@@ -992,3 +998,9 @@ P.O. 17 DE ENERO DE 2003.
 P.O. 2 DE ABRIL DE 2004.
 
 UNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 18 DE NOVIEMBRE DE 2005.
+
+PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presentes reformas.
