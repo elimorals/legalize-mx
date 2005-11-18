@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2004-09-17"
+last_updated: "2005-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 2005.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -187,9 +187,13 @@ El domicilio legal de una persona es el lugar donde la Ley le fija su residencia
 
 Se reputa domicilio legal:
 
-I.- Del menor de edad no emancipado, el de la persona a cuya patria potestad está sujeto;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-II.- Del menor que no esté bajo la patria potestad y del mayor incapacitado, el de su tutor;
+I.- De la persona menor de dieciocho años de edad no emancipada, el de la persona a cuya patria potestad está sujeto;
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+II.- De la persona menor de dieciocho años de edad que no esté bajo la patria potestad y el de la persona que no tenga capacidad para comprender el significado del hecho, el de su tutor;
 
 III.- De los militares en servicio activo, el lugar en que están destinados;
 
@@ -353,7 +357,9 @@ Recibido el aviso, el Oficial del Registro Civil tomará las medidas que sean ne
 
 El aviso de nacimiento debe contener:
 
-I.- Nombre y huella digital del menor recién nacido;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+I.- Nombre y huella digital de la persona recién nacida;
 
 II.- Nombre, domicilio y firma del padre y la madre;
 
@@ -375,13 +381,15 @@ Tratándose de las instituciones hospitalarias que se nieguen a otorgar el aviso
 
 El incumplimiento a lo dispuesto por el Artículo anterior, sólo dará lugar a las sanciones administrativas indicadas, pero el registro del nacimiento será válido para todos los efectos de Ley.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
 
 ###### ARTICULO 57.
 
 En las poblaciones en que no haya Oficial del Registro, el niño será presentado ante el Delegado Municipal para que asiente el acta en los términos que correspondan de acuerdo con la Ley.
 
-En el registro de nacimiento a que se refiere el párrafo anterior, el Jefe del Departamento del Registro Civil tomando en consideración las necesidades de la población en cuestión y la seguridad jurídica de los menores a registro, otorgará las facilidades que sean necesarias al Delegado Municipal para el cumplimiento de esta función.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+En el registro de nacimiento a que se refiere el párrafo anterior, el Jefe del Departamento del Registro Civil tomando en consideración las necesidades de la población en cuestión y la seguridad jurídica de las personas menores de dieciocho años de edad a registrar, otorgará las facilidades que sean necesarias al Delegado Municipal para el cumplimiento de esta función.
 
 > <small>(REFORMADO, P.O. 10 DE MAYO DE 1983)</small>
 
@@ -597,11 +605,17 @@ La omisión de la anotación en el acta respectiva no impide al tutor entrar en 
 
 La anotación respectiva contendrá:
 
-I.- El nombre, apellido y edad del incapacitado;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-II.- La clase de incapacidad por la que se haya discernido la tutela;
+I.- El nombre, apellido y edad, de la persona menor de dieciocho años de edad o de la persona que no tenga capacidad para comprender el significado del hecho;
 
-III.- El nombre y demás generales de las personas que han tenido al incapacitado bajo su patria potestad antes del discernimiento de la tutela;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+II.- El motivo de discernimiento de la tutela;
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+III.- El nombre y demás generales de las personas que han tenido a la persona menor de dieciocho años de edad o de la persona que no tenga capacidad para comprender el significado del hecho bajo su patria potestad antes del discernimiento de la tutela;
 
 IV.- El nombre, apellido, edad, profesión y domicilio del tutor y del curador;
 
@@ -609,9 +623,11 @@ V.- La garantía dada por el tutor, expresando el nombre, apellido y demás gene
 
 VI.- El nombre del Juez que pronunció el auto de discernimiento y la fecha de éste.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 92.
 
-Extendida el acta de tutela, se anotará la del nacimiento del incapacitado, observándose para el caso de que no exista en la misma oficina del Registro, lo prevenido en el artículo 83.
+Extendida el acta de tutela, se anotará la del nacimiento de la persona menor de dieciocho años de edad o de la persona que no tenga capacidad para comprender el significado del hecho, observándose para el caso de que no exista en la misma oficina del Registro, lo prevenido en el artículo 83.
 
 > <small>(DEROGADO, P.O. 10 DE MAYO DE 1983)</small>
 
@@ -653,7 +669,9 @@ IV.- Un certificado subscrito por un médico titulado que asegure, bajo protesta
 
 Para los indigentes tienen obligación de expedir gratuitamente este certificado los médicos encargados de los servicios de sanidad de carácter oficial;
 
-V.- El convenio que los pretendientes deberán celebrar con relación a sus bienes presentes y a los que adquieran durante el matrimonio. En el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o bajo el de separación de bienes. Si los pretendientes son menores de edad, deberán aprobar el convenio las personas cuyo consentimiento previo es necesario para la celebración del matrimonio. No puede dejarse de presentar este convenio ni aún a pretexto de que los pretendientes carecen de bienes, pues en tal caso versará sobre los que adquieran durante el matrimonio. Al formarse el convenio se tendrá en cuenta lo que disponen los artículos 186 y 208, y el Oficial del Registro Civil deberá tener especial cuidado sobre este punto, explicando a los interesados todo lo que necesitan saber al efecto de que el convenio quede debidamente formulado.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+V.- En el convenio se expresara con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o bajo el de separación de bienes. Si los pretendientes son personas menores de dieciocho años de edad, deberán aprobar el convenio las personas cuyo consentimiento previo es necesario para la celebración del matrimonio. No puede dejarse de presentar este convenio ni aún a pretexto de que los pretendientes carecen de bienes, pues en tal caso versará sobre los que adquieran durante el matrimonio. Al formarse el convenio se tendrá en cuenta lo que disponen los artículos 186 y 208, y el Oficial del Registro Civil deberá tener especial cuidado sobre este punto, explicando a los interesados todo lo que necesitan saber al efecto de que el convenio quede debidamente formulado.
 
 Si de acuerdo con lo dispuesto en el artículo 182 fuere necesario que las capitulaciones matrimoniales consten en escritura pública, se acompañará un testimonio de esa escritura;
 
@@ -943,13 +961,15 @@ III.- Cuando se trate de omisión de un dato que deba constar en el acta respect
 
 IV.- Cuando se trate de errores mecanográficos o de impresión que se desprendan del contenido del acta o los documentos que integran el Apéndice.
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MAYO DE 1983)</small>
 
 ###### ARTICULO 133.
 
 Pueden pedir la rectificación de un acta del Registro Civil, las personas a quienes se refiere o afecte el acto de que se trate.
 
-Tratándose de menores o incapacitados, podrá pedir la rectificación quien ejerza la patria potestad o el tutor.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+Tratándose de personas menores de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho, podrá pedir la rectificación quien ejerza la patria potestad o el tutor.
 
 > <small>(REFORMADO, P.O. 10 DE MAYO DE 1983)</small>
 
@@ -1007,9 +1027,11 @@ La promesa de matrimonio que se hace por escrito y es aceptada, constituye los e
 
 Solo pueden celebrar esponsales el hombre que ha cumplido dieciséis años y la mujer que ha cumplido catorce.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 138.
 
-Cuando los prometidos son menores de edad, los esponsales no producen efectos jurídicos si no han consentido en ellos sus representantes legales.
+Cuando los prometidos son personas menores de dieciocho años de edad, los esponsales no producen efectos jurídicos si no han consentido en ellos sus representantes legales.
 
 ###### ARTICULO 139.
 
@@ -1055,11 +1077,11 @@ Para contraer matrimonio, el hombre necesita haber cumplido dieciséis años y l
 
 El hijo o la hija que no hayan cumplido dieciocho años, no pueden contraer matrimonio sin consentimiento de su padre o de su madre, si vivieren ambos o del que sobreviva. Este derecho lo tiene la madre, aunque haya contraído segundas nupcias, si el hijo vive con ella. A falta o por imposibilidad de los padres, se necesita el consentimiento de los abuelos paternos, si vivieren ambos, o del que sobreviva; a falta o por imposibilidad de los abuelos paternos, si los dos existieren, o del que sobreviva, se requiere el consentimiento de los abuelos maternos.
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 147.
 
-Faltando padres y abuelos, se necesita el consentimiento de los tutores; y faltando éstos, el Juez de Primera Instancia de lo Familiar de la residencia del menor suplirá el consentimiento.
+Faltando padres y abuelos, se necesita el consentimiento de los tutores; y faltando éstos, el Juez de Primera Instancia de lo Familiar de la residencia de la persona menor de dieciocho años de edad suplirá el consentimiento.
 
 ###### ARTICULO 148.
 
@@ -1077,9 +1099,11 @@ El ascendiente o tutor que ha prestado su consentimiento firmando la solicitud r
 
 Si el ascendiente o tutor que ha firmado o ratificado la solicitud de matrimonio falleciere antes de que se celebre, su consentimiento no puede ser revocado por la persona que, en su defecto, tendría el derecho de otorgarlo; pero siempre que el matrimonio se verifique dentro del término fijado en el artículo 98.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 152.
 
-El Juez que hubiere autorizado a un menor para contraer matrimonio no podrá revocar el consentimiento, una vez que lo haya otorgado, sino por justa causa superveniente.
+El Juez que hubiere autorizado a una persona menor de dieciocho años de edad para contraer matrimonio no podrá revocar el consentimiento, una vez que lo haya otorgado, sino por justa causa superveniente.
 
 ###### ARTICULO 153.
 
@@ -1103,7 +1127,9 @@ VII.- La fuerza o miedo graves. En caso de rapto, subsiste el impedimento entre 
 
 VIII.- La embriaguez habitual, la morfinomanía, la eteromanía y el uso indebido y persistente de las demás drogas enervantes. La impotencia incurable para la cópula; la sífilis, el síndrome de inmunodeficiencia adquirida (SIDA), la locura y las enfermedades crónicas e incurables, que sean, además contagiosas o hereditarias;
 
-IX.- El idiotismo y la imbecilidad;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+IX.- Las personas que no tengan la capacidad para comprender el significado del hecho no podrán contraer matrimonio;
 
 X.- El matrimonio subsistente con persona distinta de aquella con quien se pretenda contraer.
 
@@ -1197,9 +1223,11 @@ Los cónyuges podrán desempeñar cualquier actividad excepto las que dañen la 
 
 El marido y la mujer, mayores de edad tienen capacidad para administrar, contratar o disponer de sus bienes propios, y ejercitar las acciones u oponer las excepciones que a ellos corresponden, sin que para tal objeto necesite el esposo del consentimiento de la esposa, ni ésta la autorización de aquel; salvo lo que se estipule en las capitulaciones matrimoniales sobre administración de bienes.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 170.
 
-El marido y la mujer, menores de edad, tendrán la administración de sus bienes, en los términos del artículo que precede, pero necesitarán autorización judicial para enajenarlos, gravarlos o hipotecarlos y un tutor para sus negocios judiciales.
+El hombre y la mujer, que sean personas menores de dieciocho años de edad; tendrán la administración de sus bienes en los términos del artículo que precede, pero necesitaran autorización judicial para enajenarlos, gravarlos o hipotecarlos y un tutor para sus negocios judiciales.
 
 ###### ARTICULO 171.
 
@@ -1233,9 +1261,11 @@ Las capitulaciones matrimoniales son los pactos que los esposos celebran para co
 
 Las capitulaciones matrimoniales pueden otorgarse antes de la celebración del matrimonio o durante él, y pueden comprender no solamente los bienes de que sean dueños los esposos en el momento de hacer el pacto, sino también los que adquieran después.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 178.
 
-El menor que con arreglo a la Ley pueda contraer matrimonio, puede también otorgar capitulaciones, las cuales serán válidas si a su otorgamiento concurren las personas cuyo consentimiento previo es necesario para la celebración del matrimonio.
+Las personas menores de dieciocho años de edad, que con arreglo a la ley puedan contraer matrimonio, pueden también otorgar capitulaciones, las cuales serán válidas si a su otorgamiento concurren las personas cuyo consentimiento previo es necesario para la celebración del matrimonio.
 
 ###### ARTICULO 179.
 
@@ -1259,11 +1289,13 @@ Las capitulaciones matrimoniales en que se constituya la sociedad conyugal, cons
 
 En este caso, la alteración que se haga de las capitulaciones deberá también otorgarse en escritura pública, haciendo la respectiva anotación en el protocolo en que se otorgaron las primitivas capitulaciones, y en la inscripción del Registro Público de la Propiedad. Sin llenar estos requisitos, las alteraciones no producirán efecto contra tercero.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 184.
 
-La sociedad conyugal puede terminar antes de que se disuelva el matrimonio si así lo convienen los esposos; pero si éstos son menores de edad, deben intervenir en la disolución de la sociedad, prestando su consentimiento, las personas a que se refiere el artículo 178.
+La sociedad conyugal puede terminar antes de que se disuelva el matrimonio si así lo convienen los esposos; pero si estos son personas menores de dieciocho años de edad, deben intervenir en la disolución de la sociedad prestando su consentimiento, las personas a que se refiere el artículo 178.
 
-Esta misma regla se observará cuando la sociedad conyugal se modifique durante la menor edad de los consortes.
+Esta misma regla se observara cuando la sociedad conyugal se modifique mientras los consortes sean personas menores de dieciocho años de edad.
 
 ###### ARTICULO 185.
 
@@ -1373,11 +1405,13 @@ Puede haber separación de bienes en virtud de capitulaciones anteriores al matr
 
 La separación de bienes puede ser absoluta o parcial. En el segundo caso, los bienes que no estén comprendidos en las capitulaciones de separación, serán objetos de la sociedad conyugal que deben constituir los esposos.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 206.
 
-Durante el matrimonio la separación de bienes puede terminar para ser substituida por la sociedad conyugal; pero si los consortes son menores de edad, se observará lo dispuesto en el artículo 178.
+Durante el matrimonio la separación de bienes puede terminar para ser sustituida por la sociedad conyugal pero si los consortes son personas menores de dieciocho años de edad, se observara lo dispuesto en el artículo 178.
 
-Lo mismo se observará cuando las capitulaciones de separación se modifiquen durante la menor edad de los cónyuges.
+Lo mismo se observara cuando las capitulaciones de separación se modifiquen mientras los consortes sean personas menores de dieciocho años de edad.
 
 ###### ARTICULO 207.
 
@@ -1457,9 +1491,11 @@ Tampoco se revocarán por ingratitud, a no ser que el donante fuere un extraño,
 
 Las donaciones antenupciales son revocables y se entienden revocadas por el adulterio o el abandono injustificado del domicilio conyugal por parte del donatario, cuando el donante fuere el otro cónyuge.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 226.
 
-Los menores pueden hacer donaciones antenupciales, pero sólo con la intervención de sus padres o tutores, o con aprobación judicial.
+Las personas menores de dieciocho años de edad pueden hacer donaciones antenupciales, pero sólo con la intervención de sus padres o tutores, o con aprobación judicial.
 
 ###### ARTICULO 227.
 
@@ -1505,7 +1541,9 @@ La menor edad de dieciséis años en el hombre y de catorce en la mujer dejará 
 
 I.- Cuando haya habido hijos;
 
-II.- Cuando, aunque no los haya habido, el menor hubiere llegado a los dieciocho años; y ni él ni el otro cónyuge hubieren intentado la nulidad.
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+II.- Cuando, aunque no los haya habido, la persona hubiere llegado a los dieciocho años; y ni él ni el otro cónyuge hubieren intentado la nulidad.
 
 ###### ARTICULO 235.
 
@@ -1649,9 +1687,11 @@ I.- Cuando se ha contraído estando pendiente la decisión de un impedimento que
 
 II.- Cuando no se ha otorgado la previa dispensa que requiere el artículo 156, y cuando se celebre sin que hayan transcurrido los términos fijados en los artículos 155 y 286.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 262.
 
-Los que infrinjan el Artículo anterior, así como los que siendo mayores de edad contraigan matrimonio con un menor sin autorización de los padres de este, del tutor o del Juez, en sus respectivos casos, y los que autoricen esos matrimonios, incurrirán en las penas que señale el Código de la materia.
+Los que infrinjan el artículo anterior, así como los que siendo mayores de edad contraigan matrimonio con persona menor de dieciocho años de edad sin autorización de los padres de este, del tutor o del Juez, en sus respectivos casos, y los que autoricen esos matrimonios, incurrirán en las penas que señale el Código de la materia.
 
 ### CAPITULO X. DEL DIVORCIO
 
@@ -1731,7 +1771,9 @@ Cuando ambos consortes convengan en divorciarse y sean mayores de edad, no tenga
 
 El Oficial del Registro Civil, previa identificación de los consortes, levantará un acta en que hará constar la solicitud de divorcio y citará a los cónyuges para que se presenten a ratificarla a los quince días. Si los consortes hacen la ratificación, el Oficial del Registro Civil los declarará divorciados, levantando el acta respectiva y haciendo la anotación correspondiente en la de matrimonio anterior.
 
-El divorcio así obtenido no surtirá efectos legales si se comprueba que los cónyuges tienen hijos, son menores de edad o no han liquidado su sociedad conyugal, y entonces aquellos sufrirán las penas que establezca el Código de la materia.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+El divorcio así obtenido no surtirá efectos legales si se comprueba que los cónyuges tienen hijos, son personas menores de dieciocho años de edad o no han liquidado su sociedad conyugal, y entonces aquellos sufrirán las penas que establezca el código de la materia.
 
 Los consortes que no se encuentren en el caso previsto en los anteriores párrafos de este artículo, pueden divorciarse por mutuo consentimiento, ocurriendo al Juez competente en los términos que ordena el Código de Procedimientos Civiles.
 
@@ -1825,11 +1867,13 @@ TERCERA.- En el caso de las Fracciones VI y VII del artículo 264, los hijos que
 
 CUARTA.- En el caso de la fracción VIII, IX, XI, XII, XIII y XVII del Artículo 264, el Juez resolverá sobre la situación jurídica de los hijos y tomará en cuenta, en su caso, lo relativo a los derechos y obligaciones inherentes a la patria potestad, su pérdida, suspensión o limitación, según corresponda, y en especial a la custodia y al cuidado de los hijos de acuerdo a las disposiciones legales previstas en el presente Código.
 
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 1975)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 281.
 
-Antes de que se provea definitivamente sobre la patria potestad o tutela de los hijos, el Juez podrá acordar, a petición de los abuelos, tíos o hermanos mayores, cualquier medida que se considere benéfica para los menores.
+Antes de que se provea definitivamente sobre la patria potestad o tutela de los hijos, el Juez podrá acordar, a petición de los abuelos, tíos o hermanos mayores, cualquier medida que se considere benéfica para las personas menores de dieciocho años de edad.
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 1975)</small>
 
 El Juez podrá modificar esta decisión atento a lo dispuesto en los Artículos 419, 420 y 441, Fracción III.
 
@@ -1945,11 +1989,13 @@ A falta o por imposibilidad de los ascendientes o descendientes, la obligación 
 
 Faltando los parientes a que se refieren las disposiciones anteriores, tienen obligación de ministrar alimentos los parientes colaterales dentro del cuarto grado.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 303.
 
-Los hermanos y demás parientes colaterales a que se refiere el artículo anterior, tienen obligación de dar alimentos a los menores, mientras éstos llegan a la edad de dieciocho años.
+Los hermanos y demás parientes colaterales a que se refiere el artículo anterior, tienen obligación de dar alimentos a las personas menores de dieciocho años de edad, mientras éstos llegan a la mayoría de edad de dieciocho años.
 
-También deben alimentar a sus parientes dentro del grado mencionado, que fueren incapaces.
+También deben alimentar a sus parientes dentro del grado mencionado, que fueren personas que no tienen capacidad para comprender el significado del hecho.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
@@ -1959,11 +2005,11 @@ Tratándose de la adopción simple, el adoptante y el adoptado tienen la obligac
 
 Tratándose de adopción plena se aplicará lo dispuesto por las reglas relativas al parentesco por consanguinidad, entre las personas que concurran en los términos del artículo 290 de este ordenamiento.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 305.
 
-Los alimentos comprenden la comida, el vestido, la habitación y la asistencia en caso de enfermedad. Respecto de los menores los alimentos comprenden, además, los gastos necesarios para la educación básica obligatoria del alimentista, y para proporcionarle algún oficio, arte o profesión honestos y adecuados a su sexo y circunstancias personales.
+Los alimentos comprenden la comida, el vestido, la habitación y la asistencia en caso de enfermedad. Respecto de las personas menores de dieciocho años de edad, se comprende por alimentos, además, los gastos necesarios para la educación básica obligatoria del alimentista, para proporcionarle algún oficio, arte o profesión honestos y adecuados a su sexo y circunstancias personales.
 
 ###### ARTICULO 306.
 
@@ -2125,9 +2171,11 @@ III.- El hijo se presume nacido fuera de matrimonio si nace antes de ciento oche
 
 El desconocimiento de un hijo, de parte del marido o de sus herederos, se hará por demanda en forma ante el Juez competente. Todo desconocimiento practicado de otra manera es nulo.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 333.
 
-En el juicio de contradicción de la paternidad serán oídos la madre y el hijo, a quien, si fuere menor, se proveerá de un tutor interino.
+En el juicio de contradicción de la paternidad serán oídos la madre y el hijo, a quien, si fuere persona menor de dieciocho años de edad, se proveerá de un tutor interino.
 
 ###### ARTICULO 334.
 
@@ -2251,13 +2299,17 @@ La filiación de los hijos nacidos fuera de matrimonio resulta, con relación a 
 
 Pueden reconocer a sus hijos, los que tengan la edad exigida para contraer matrimonio, más la edad del hijo que va a ser reconocido.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 359.
 
-El menor de edad no puede reconocer a un hijo sin el consentimiento del que o de los que ejerzan sobre él la patria potestad, o de la persona bajo cuya tutela se encuentre, o a falta de ésta, sin la autorización judicial.
+La persona menor de dieciocho años de edad, no puede reconocer a un hijo sin el consentimiento del que o de los que ejerzan sobre el la patria potestad, o de la persona bajo cuya tutela se encuentre, o a falta de esta sin la autorización judicial.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 360.
 
-El reconocimiento hecho por un menor es anulable si prueba que sufrió error o engaño al hacerlo, pudiendo intentar la acción hasta cuatro años después de la mayor de edad.
+El reconocimiento hecho por una persona menor de dieciocho años de edad es anulable si prueba que sufrió error o engaño al hacerlo, pudiendo intentar la acción hasta cuatro años después de haber cumplido dieciocho años de edad.
 
 ###### ARTICULO 361.
 
@@ -2275,13 +2327,17 @@ El reconocimiento hecho por uno de los padres, produce efectos respecto de él y
 
 El reconocimiento no es revocable por el que lo hizo, y si se ha hecho en testamento, cuando éste se revoque, no se tiene por revocado el reconocimiento.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 365.
 
-El Ministerio Público o el Sistema Para el Desarrollo Integral de la Familia, tendrán acción contradictoria del reconocimiento de un menor de edad, cuando se hubiere efectuado en perjuicio de éste.
+El Ministerio Público o el Sistema para el Desarrollo Integral de la Familia tendrá acción contradictoria del reconocimiento de una persona menor de dieciocho años de edad, cuando se hubiere efectuado en perjuicio de esta.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1987)</small>
 
 La misma acción tendrá el progenitor que reclame para si tal carácter, con exclusión de quien hubiere hecho el reconocimiento indebidamente o para el sólo efecto de la exclusión.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1987)</small>
 
 El tercero afectado por obligaciones derivadas del reconocimiento legalmente efectuado, podrá contradecirlo en vía de excepción.
 
@@ -2319,13 +2375,17 @@ El marido podrá reconocer a un hijo habido antes de su matrimonio o durante és
 
 El hijo de una mujer casada no podrá ser reconocido como hijo por otro hombre distinto del marido, sino cuando éste lo haya desconocido, y por sentencia ejecutoria se haya declarado que no es hijo suyo.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 372.
 
-El hijo mayor de edad no puede ser reconocido sin su consentimiento, ni el menor sin el de su tutor si lo tiene, o el del tutor que el Juez le nombre especialmente para el caso.
+El hijo mayor de dieciocho años de edad, no puede ser reconocido sin su consentimiento, ni la persona menor de dieciocho años de edad, sin el de su tutor si lo tiene, o el del tutor que el Juez le nombre especialmente para el caso.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 373.
 
-Si el hijo reconocido es menor, puede reclamar contra del reconocimiento cuando llegue a la mayor edad.
+Si el hijo reconocido es persona menor de dieciocho años de edad, puede reclamar contra del reconocimiento cuando cumpla dieciocho años de edad.
 
 ###### ARTICULO 374.
 
@@ -2339,11 +2399,11 @@ La mujer que cuida o ha cuidado la lactancia de un niño, a quien le ha dado su 
 
 Cuando la madre contradiga el reconocimiento hecho sin su consentimiento, quedará aquel sin efecto, y la cuestión relativa a la paternidad se resolverá en el juicio contradictorio correspondiente.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 1987)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 377.
 
-Cuando el padre y la madre que no vivan juntos reconozcan al hijo en el mismo acto, convendrán cuál de los dos ejercerá la custodia; y en caso de que no lo hicieren, el Juez de Primera Instancia de lo Familiar del lugar, oyendo a los padres, y al Sistema Para el Desarrollo Integral de la Familia de Baja California, resolverá lo que creyere más conveniente a los intereses del menor.
+Cuando el padre y la madre que no vivan juntos reconozcan al hijo en el mismo acto, convendrán cuál de los dos ejercerá la custodia; y en caso de que no lo hicieren, el Juez de Primera Instancia de lo Familiar del lugar, oyendo a los padres, y al Sistema para el Desarrollo Integral de la Familia de Baja California, resolverá lo que creyere más conveniente a los intereses de la persona menor de dieciocho años de edad.
 
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 1987)</small>
 
@@ -2405,13 +2465,15 @@ III.- A percibir la porción hereditaria y los alimentos que fije la Ley.
 
 ### CAPITULO V. DE LA ADOPCION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE JULIO DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 387.
 
-El mayor de veinticinco años, libre de matrimonio, en pleno ejercicio de sus derechos, puede adoptar a uno o más menores o a un incapacitado, aún cuando éste sea mayor de edad, siempre que el adoptante tenga diecisiete años más que el adoptado y lo haga en forma personal y no por conducto de apoderado o representante legal alguno, acreditando además:
+El mayor de veinticinco años, libre de matrimonio, en pleno ejercicio de sus derechos, puede adoptar a una o más personas menores de dieciocho años de edad o a una o mas personas que no tengan capacidad de comprender el significado del hecho, aún cuando éstas sean mayores de edad, siempre que el adoptante tenga diecisiete años más que el adoptado y lo haga en forma personal y no por conducto de apoderado o representante legal alguno, acreditando además:
 
-I.- Que tiene medios bastantes para proveer a la subsistencia y educación del menor o al cuidado y subsistencia del incapacitado, como de hijo propio, según las circunstancias de la persona que trata de adoptar;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+I.- Que tiene medios bastantes para proveer a la subsistencia y educación de la persona menor de dieciocho años de edad o para el cuidado y subsistencia (sic) persona que no tenga la capacidad para comprender el significado del hecho, como de hijo propio, según las circunstancias de la persona que trata de adoptar;
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
@@ -2423,29 +2485,31 @@ III.- Que el adoptante es persona de buenas costumbres.
 
 IV.- Que goza de buena salud física, acreditada mediante certificado de salud expedido por una Institución Oficial facultada para ello;
 
-> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-V.- Que goza de salud mental, acreditada mediante estudio psicológico realizado por el Sistema Estatal para el Desarrollo Integral de la Familia, por conducto de la Procuraduría para la Defensa del Menor y la Familia;
+V.- Que goza de salud mental, acreditada mediante estudio psicológico realizado por el Sistema Estatal para el Desarrollo Integral de la Familia, por conducto de la Procuraduría para la Defensa de las personas menores de dieciocho años de edad y la Familia;
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
 VI.- Tratándose de extranjeros, deberán acreditar que pueden realizar dicho acto, con la respectiva autorización expedida por las autoridades competentes.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-Los requisitos, contemplados en las fracciones I, II y III, deberán acreditarse mediante estudio socioeconómico realizado por el Sistema Estatal para el Desarrollo Integral de la Familia, por conducto de la Procuraduría para la Defensa del Menor y la Familia, en el cual se señale la identidad del adoptante, sus antecedentes, historia familiar, entorno social y sus razones para adoptar.
+Los requisitos contemplados en las fracciones I, II y III, deberán acreditarse mediante estudio socioeconómico realizado por el Sistema Estatal para el Desarrollo Integral de la Familia, por conducto de la Procuraduría para la Defensa de las personas menores de dieciocho años de edad y la Familia, en el cual se señale la identidad del adoptante, sus antecedentes, historia familiar, entorno social y sus razones para adoptar.
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-No podrán adoptar mediante el régimen de adopción plena, las personas que tengan vínculo de parentesco consanguíneo con el menor o incapaz.
+No podrán adoptar mediante el régimen de adopción plena, las personas que tengan vínculo de parentesco consanguíneo con la persona menor de dieciocho años de edad o con persona que no tenga la capacidad para comprender el significado del hecho.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 388.
 
 Los cónyuges podrán adoptar, cuando estén de acuerdo en considerar al adoptado como hijo y acrediten los requisitos señalados en el artículo anterior, aunque sólo uno de ellos cumpla el requisito de la edad, pero siempre y cuando la diferencia de edad entre cualquiera de los adoptantes y el adoptado sea de diecisiete años.
 
-Cuando uno de los concubinos pretenda adoptar a un menor o incapaz en forma individual, deberá obtener el consentimiento del otro por escrito y ratificado ante el Juez de la causa.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+Cuando uno de los concubinos pretenda adoptar a una persona menor de dieciocho años de edad o persona que no tenga capacidad para comprender el significado del hecho, en forma individual, deberá obtener el consentimiento del otro por escrito y ratificado ante el Juez de la causa.
 
 ###### ARTICULO 389.
 
@@ -2455,11 +2519,13 @@ Nadie puede ser adoptado por más de una persona, salvo en el caso previsto en e
 
 El tutor no puede adoptar al pupilo, sino hasta después de que hayan sido definitivamente aprobadas las cuentas de tutela.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 391.
 
-La adopción simple podrá convertirse en plena siempre que se obtenga el consentimiento del adoptado, si éste ya hubiere cumplido catorce años. Si fuere menor de esa edad se requerirá el consentimiento de quien hubiere consentido en la adopción, siempre y cuando sea posible obtenerlo; de lo contrario el Juez deberá resolver atendiendo al interés superior del menor.
+La adopción simple podrá convertirse en plena siempre que se obtenga el consentimiento del adoptado, si este ya hubiere cumplido catorce años. Si fuere persona menor de dieciocho años de edad se requerirá el consentimiento de quien hubiere consentido en la adopción, siempre y cuando sea posible obtenerlo; de lo contrario el Juez deberá resolver atendiendo al interés superior de la persona menor de dieciocho años de edad.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
 Para que dicha conversión surta efectos con respecto a los parientes del adoptante con el adoptado y sus descendientes, se estará a lo previsto por el artículo 290 de este ordenamiento.
 
@@ -2479,31 +2545,35 @@ El adoptado tendrá para con la persona o personas que lo adopten los mismos der
 
 Para que la adopción simple o plena pueda tener lugar, deberán consentir en ella en sus respectivos casos:
 
-I.- El que ejerce la patria potestad sobre el menor que se trata de adoptar;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+I.- El que ejerce la patria potestad sobre la persona menor de dieciocho años de edad que se trata de adoptar;
 
 II.- El tutor del que se va a adoptar;
 
 III.- La persona que haya acogido durante seis meses al que se pretende adoptar y lo trate como a hijo, cuando no hubiere quien ejerza la patria potestad sobre él ni tenga tutor;
 
-> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-IV.- El Sistema Estatal para el Desarrollo Integral de la Familia, por conducto del titular de la Procuraduría para la Defensa del Menor y la Familia, tratándose de incapacitados o menores expósitos o abandonados sujetos por cualquier causa a su custodia o tutela;
+IV.- El Sistema Estatal para el Desarrollo Integral de la Familia, por conducto del titular de la Procuraduría para la Defensa de las personas menores de dieciocho años de edad y la Familia, tratándose de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho, expósitos o abandonados sujetos por cualquier causa a su custodia o tutela;
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
 V.- El Ministerio Público del lugar del domicilio del adoptado, cuando éste no se encuentre bajo la custodia o tutela del Sistema Estatal para el Desarrollo Integral de la Familia, ni tenga padres conocidos, ni tutor, ni persona que ostensiblemente le imparta su protección y lo haya acogido como hijo.
 
-Si el menor que se va a adoptar tiene más de catorce años, también se necesita su consentimiento para la (sic).
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+Si la persona que se va a adoptar tiene más de catorce años de edad, también se necesita su consentimiento para la adopción.
 
 > <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
 VI.- Cuando se trate de adopción plena los parientes del adoptante en los términos del artículo 290 de este ordenamiento.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 395.
 
-Si el tutor, el Ministerio Público o la Procuraduría para la Defensa del Menor y la Familia, no consienten en la adopción, el Juez resolverá lo conducente tomando en cuenta el interés superior del menor o incapacitado.
+Si el tutor, el Ministerio Público o la Procuraduría para la Defensa de las personas menores de dieciocho años de edad y la Familia, no consienten en la adopción, el Juez resolverá lo conducente tomando en cuenta el interés superior de la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho.
 
 ###### ARTICULO 396.
 
@@ -2513,13 +2583,13 @@ El procedimiento para hacer la adopción será fijado en el Código de Procedimi
 
 Tan luego como cause ejecutoria la resolución judicial que se dicte autorizando una adopción, quedará ésta consumada.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 398.
 
-El Juez que apruebe la adopción remitirá copias de las diligencias respectivas al Oficial del Registro Civil del lugar para que levante el acta correspondiente, y a la Procuraduría para la Defensa del Menor y la Familia para que verifique si la adopción del menor le ha sido benéfica.
+El Juez que apruebe la adopción remitirá copias de las diligencias respectivas al Oficial del Registro Civil del lugar para que levante el acta correspondiente, y a la Procuraduría para la Defensa de las personas menores de dieciocho años de edad y la Familia para que verifique si la adopción de la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho le ha sido benéfica.
 
-Cuando el Juez resuelva no autorizar la adopción y el menor se encuentre viviendo con quien pretende adoptarlo, decretará la separación del menor de aquél y ordenará su deposito en el Sistema Estatal para el Desarrollo Integral de la Familia, por conducto de la Procuraduría para la Defensa del Menor y la Familia.
+Cuando el Juez resuelva no autorizar la adopción y la persona menor de dieciocho años de edad se encuentre viviendo con quien pretende adoptarlo, decretará la separación de la persona menor de dieciocho años de edad de aquél y ordenará su deposito en el Sistema Estatal para el Desarrollo Integral de la Familia, por conducto de la Procuraduría para la Defensa de las personas menores de dieciocho años de edad y la Familia.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
@@ -2533,21 +2603,33 @@ El adoptado llevará el apellido del adoptante, quien tendrá el derecho de camb
 
 La adopción producirá sus efectos aunque sobrevengan hijos del adoptante.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 400.
 
-El menor o el incapacitado que hayan sido adoptados bajo el régimen de adopción simple, podrán impugnar la adopción dentro del año siguiente a la mayoría de edad o a la fecha en que haya desaparecido la incapacidad.
+La persona menor de dieciocho años de edad o la persona que no tenga capacidad para comprender el significado del hecho, que hayan sido adoptados bajo el régimen de adopción simple, podrán impugnar la adopción dentro del año siguiente de haber cumplido dieciocho años de edad o a la fecha en que haya obtenido la capacidad para comprender el significado del hecho.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 Esta clase de adopción sólo podrá revocarse en los siguientes casos:
 
-I.- Cuando las dos partes convengan en ello, siempre que el adoptado sea mayor de edad. Si no lo fuere, se oirá a las personas que prestaron su consentimiento conforme al artículo 394, cuando fueren de domicilio conocido, y a falta de ellas, al Ministerio Público y al Sistema Estatal para el Desarrollo Integral de la Familia por conducto de la Procuraduría para la Defensa del Menor y la Familia;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-II.- Por ingratitud del adoptado; oyendo al Sistema Estatal para el Desarrollo Integral de la Familia por conducto de la Procuraduría para la Defensa del Menor y la Familia;
+I.- Cuando las dos partes convengan en ello, siempre que el adoptado haya cumplido dieciocho años de edad. Si no lo fuere, se oirá a las personas que prestaron su consentimiento conforme al artículo 394, cuando fueren de domicilio conocido, y a falta de ellas, al Ministerio Público y el Sistema Estatal para el Desarrollo Integral de la Familia por conducto de la Procuraduría para la Defensa de las personas menores de dieciocho años de edad y la Familia;
 
-III.- Cuando dejaren de reunirse los requisitos a que se refiere el artículo 387 de este código, a juicio del Sistema Estatal para el Desarrollo Integral de la Familia por conducto de la Procuraduría para la Defensa del Menor y la Familia; y,
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-IV.- Cuando exista una causa grave que ponga en peligro los derechos fundamentales del adoptado a juicio del Sistema Estatal para el Desarrollo Integral de la Familia por conducto de la Procuraduría para la Defensa del Menor y la Familia;
+II.- Por ingratitud del adoptado; oyendo al Sistema Estatal para el Desarrollo Integral de la Familia por conducto de la Procuraduría para la Defensa de las personas menores de dieciocho años de edad y la Familia;
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+III.- Cuando dejaren de reunirse los requisitos a que se refiere el artículo 387 de este código, a juicio del Sistema Estatal para el Desarrollo Integral de la Familia por conducto de la Procuraduría para la Defensa de las personas menores de dieciocho años de edad y la Familia; y,
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+IV.- Cuando exista una causa grave que pongo en peligro los derechos fundamentales del adoptado a juicio del Sistema Estatal para el Desarrollo Integral de la Familia por conducto de la Procuraduría para la Defensa de las personas menores de dieciocho años de edad y la Familia.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
 En el Primer caso, el Juez decretará que la adopción queda revocada si convencido de la espontaneidad con que se solicitó la revocación, encuentra que ésta es conveniente para los intereses del adoptado.
 
@@ -2579,11 +2661,13 @@ I.- Para efectos de impedimento para contraer matrimonio;
 
 II.- En los demás casos previstos por la Ley.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 404.
 
-La adopción internacional es la promovida por ciudadanos de otro país, con residencia habitual fuera del territorio nacional; y tiene por objeto incorporar en un ambiente familiar a un menor.
+La adopción internacional es la promovida por ciudadanos de otro país, con residencia habitual fuera del territorio nacional; y tiene por objeto incorporar en un ambiente familiar a la persona menor de dieciocho años de edad.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
 La adopción internacional se regirá por los tratados internacionales suscritos por el Estado Mexicano, y en lo que corresponda, por las disposiciones de este Código.
 
@@ -2613,13 +2697,17 @@ En igualdad de circunstancias se dará preferencia en la adopción a mexicanos s
 
 Los hijos, cualesquiera que sean su estado, edad y condición, deben honrar y respetar a sus padres y demás ascendientes.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 409.
 
-Los hijos menores de edad no emancipados, están bajo la patria potestad mientras exista alguno de los ascendientes que deban ejercerla conforme a la Ley.
+Los hijos menores de dieciocho años de edad, no emancipados, están bajo la patria potestad mientras exista alguno de los ascendientes que deban ejercerla conforme a la ley.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 410.
 
-La patria potestad se ejerce sobre la persona y los bienes de los hijos. Su ejercicio queda sujeto en cuanto a la guarda y educación de los menores, a las modalidades que le impriman las resoluciones que se dicten, de acuerdo con Leyes y Reglamentos relativos a menores infractores.
+La patria potestad se ejerce sobre la persona y los bienes de los hijos. Su ejercicio queda sujeto en cuánto a la guarda y educación de las personas menores de dieciocho años de edad, a las modalidades que le impriman las resoluciones que se dicten, de acuerdo con Leyes y Reglamentos relativos a las personas menores de dieciocho años de edad infractores.
 
 ###### ARTICULO 411.
 
@@ -2747,9 +2835,11 @@ Los que ejercen la patria potestad no pueden enajenar ni gravar de ningún modo 
 
 Tampoco podrán celebrar contratos de arrendamiento, por más de cinco años, ni recibir la renta anticipada por más de dos años, vender valores comerciales, industriales, títulos de rentas, acciones, frutos y ganados, por menor valor del que se cotice en la plaza el día de la venta; hacer donación de los bienes de los hijos o remisión voluntaria de los derechos de éstos; ni dar fianza en representación de los hijos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 434.
 
-Siempre que el Juez conceda licencia a los que ejercen la patria potestad, para enajenar un bien inmueble o un mueble precioso perteneciente al menor, tomará las medidas necesarias para hacer que el producto de la venta se dedique al objeto que se destinó y para que el resto se invierta en la adquisición de un inmueble o se imponga con segura hipoteca en favor del menor.
+Siempre que el Juez conceda licencia a los que ejercen la patria potestad, para enajenar un bien inmueble o un mueble precioso perteneciente a la persona menor de dieciocho años de edad, tomará las medidas necesarias para hacer que el producto de la venta se dedique al objeto que se destinó y para que el resto se invierta en la adquisición de un inmueble o se imponga con segura hipoteca en favor de persona menor de dieciocho años de edad.
 
 Al efecto, el precio de la venta se depositará en una institución de crédito, y la persona que ejerce la patria potestad no podrá disponer de él, sin orden judicial.
 
@@ -2771,13 +2861,15 @@ Las personas que ejercen la patria potestad tienen obligación de dar cuenta de 
 
 En todos los casos en que las personas que ejercen la patria potestad tienen un interés opuesto al de los hijos, serán estos representados, en juicio y fuera él, por un tutor nombrado por el Juez para cada caso.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE JULIO DE 1987)</small>
 
 ###### ARTICULO 438.
 
 Los Jueces tienen facultad de tomar las medidas necesarias para impedir que, por la mala administración de quienes ejercen la patria potestad, los bienes del hijo se derrochen o se disminuyan.
 
-Estas medidas se tomarán a instancias de las personas interesadas, del menor cuando hubiere cumplido catorce años, del Ministerio Público o del Sistema para el Desarrollo Integral de la Familia de Baja California en todo caso.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+Estas medidas se tomarán a instancias de las personas interesadas, de la persona cuando hubiere cumplido catorce años de edad, del Ministerio Público o del Sistema para el Desarrollo Integral de la Familia de Baja California en todo caso.
 
 ###### ARTICULO 439.
 
@@ -2805,37 +2897,37 @@ I.- Cuando el que la ejerza es condenado expresamente a la pérdida de ese derec
 
 II.- En los casos de divorcio, teniendo en cuenta lo que dispone el artículo 280;
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-III.- Cuando por las costumbres o hábitos de quienes la ejercen, malos tratos o abandono de sus deberes, uso de algún tipo de enervante, alcoholismo, prostitución, que afecte o ponga en riesgo la seguridad, la salud, la moralidad, la tranquilidad, el bienestar o el desarrollo armónico de los menores o incapaces, aún cuando esos hechos o conductas no cayeren bajo la sanción de la Ley Penal;
+III.- Cuando por las costumbres o hábitos de quienes la ejercen, malos tratos o abandono de sus deberes, uso de algún tipo de enervante, alcoholismo, prostitución, que afecte o ponga en riesgo la seguridad, la salud, la moralidad, la tranquilidad, el bienestar o el desarrollo armónico de las personas menores de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho, aún cuando esos hechos o conductas no cayeren bajo la sanción de la Ley Penal;
 
-> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-IV.- Cuando quienes ejercen la patria potestad permitan o toleren que otras personas atenten contra la seguridad e integridad física, emocional y sexual de los menores o incapaces;
+IV.- Cuando quienes ejercen la patria potestad permitan o toleren que otras personas atenten contra la seguridad e integridad física, emocional y sexual de las personas menores de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho;
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-V.- Por el abandono sin causa justificada que el padre, la madre o quien ejerza la patria potestad hiciere de los menores o incapaces, por más de tres meses en alguna institución de asistencia pública o privada; y,
+V.- Por el abandono sin causa justificada que el padre, la madre o quien ejerza la patria potestad hiciere de las personas menores de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho, por más de tres meses en alguna institución de asistencia pública o privada; y
 
-> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-VI.- Cuando se exponga por más de un día al menor o incapaz, poniendo en riesgo su integridad personal.
+VI.- Cuando se exponga por más de un día a la persona menor de dieciocho años de edad o persona que no tenga capacidad para comprender el significado del hecho, poniendo en riesgo su integridad personal.
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-Para los efectos del párrafo anterior, se considera expósito al menor cuyo origen se desconoce y se coloca en situación de desamparo en un hospital, casa particular o algún paraje público o privado por quienes conforme a la Ley están obligados a protegerlos.
+Para los efectos del párrafo anterior, se considera expósito a la persona menor de dieciocho años de edad cuyo origen se desconoce y se coloca en situación de desamparo en un hospital, casa particular o algún paraje público o privado por quienes conforme a la Ley están obligados a protegerlos.
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-Se reputa abandonado al menor cuyo origen se conoce y respecto de quien, los que ejercen la patria potestad o tutela, dejaron de cumplir sus deberes; aceptando la posibilidad de que alguna institución pública o privada se haga cargo del mismo.
+Se reputa abandonada la persona menor de dieciocho años de edad cuyo origen se conoce y respecto de quien, los que ejercen la patria potestad o tutela, dejaron de cumplir sus deberes; aceptando la posibilidad de que alguna institución pública o privada se haga cargo del mismo.
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-El abandono no se interrumpe por el hecho de que el padre, la madre o quien ejerce la patria potestad o tutela, visitaren a los menores desamparados sin asumir de inmediato el ejercicio efectivo de los deberes que natural y legalmente se deriven de la relación paterno-filial.
+El abandono no se interrumpe por el hecho de que el padre, la madre o quien ejerce la patria potestad o tutela, visitaren a las personas menores de dieciocho años de edad desamparados sin asumir de inmediato el ejercicio de los deberes que natural y legalmente se deriven de la relación paterno-filial.
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-El Sistema Estatal para el Desarrollo Integral de la Familia, por conducto de la Procuraduría para la defensa del Menor y la Familia podrá promover la pérdida de patria potestad de los menores expósitos o abandonados y tendrá atribuciones para promover, en su carácter de tutor, la reintegración inmediata y oportuna de estos menores a un ambiente familiar a través de hogares adoptivos o substitutos.
+El Sistema Estatal para el Desarrollo Integral de la Familia, por conducto de la Procuraduría para la Defensa de las personas menores de dieciocho años de edad y la Familia, podrá promover la pérdida de patria potestad de las personas menores dieciocho años de edad expósitos o abandonados y tendrá atribuciones para promover en su carácter de tutor, la reintegración inmediata y oportuna de estos a un ambiente familiar a través de hogares adoptivos o substitutos.
 
 ###### ARTICULO 442.
 
@@ -2867,43 +2959,57 @@ II.- Cuando por su mal estado habitual de salud, no puedan atender debidamente a
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 446.
 
-El objeto de la tutela es la guarda de la persona y bienes de los que no estando sujetos a patria potestad tienen incapacidad natural y legal, o solamente la segunda, para gobernarse por sí mismos. La tutela puede también tener por objeto la representación interina del incapaz en los casos especiales que señale la Ley.
+El objeto de la tutela es la guarda de la persona y bienes de los que no estando sujetos a patria potestad son personas que no tienen capacidad para comprender el significado del hecho por causa natural y legal, o solamente la segunda, para gobernarse por si mismos. La tutela puede también tener por objeto la representación interina de la persona que no tenga la capacidad para comprender el significado del hecho en los casos especiales que señale la Ley.
 
-En la tutela se cuidará preferentemente de la persona de los incapacitados. Su ejercicio queda sujeto en cuanto a la guarda y educación de los menores a las modalidades de que habla la parte final del artículo 410.
+En la tutela se cuidará preferentemente de las persona menores de dieciocho años de edad y personas que no tengan capacidad para comprender el significado del hecho. Su ejercicio queda sujeto en cuanto a la guarda y educación de las personas menores de dieciocho años de edad, a las modalidades de que habla la parte final del artículo 410.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 447.
 
-Tienen incapacidad natural y legal:
+Las personas menores de dieciocho años de edad no tienen capacidad natural y legal para comprender el significado del hecho.
 
-I.- Los menores de edad;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-II.- Los mayores de edad privados de inteligencia por locura, idiotismo o imbecilidad, aun cuando tengan intervalos lúcidos;
+I. Las personas menores de dieciocho años de edad;
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+II.- Las personas mayores de dieciocho años de edad privados de inteligencia por enfermedad o trastorno mental, o cualquier causa que la provoque, aun cuando tengan intervalos lúcidos;
 
 III.- Los sordomudos que no saben leer ni escribir;
 
 IV.- Los ebrios consuetudinarios, y los que habitualmente hacen uso inmoderado de drogas enervantes.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 448.
 
-Los menores de edad emancipados por razón del matrimonio, tienen incapacidad legal para los actos que se mencionan en el Artículo relativo al Capítulo I del Título X de este Libro.
+Las personas menores de dieciocho años de edad, emancipadas por razón del matrimonio, no tienen capacidad para comprender los actos que se mencionan en el artículo relativo al Capítulo I, del Titulo X de este libro.
 
 ###### ARTICULO 449.
 
 La tutela es un cargo de interés público del que nadie puede eximirse, sino por causa legítima.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 450.
 
-El que se rehusare sin causa legal a desempeñar el cargo de tutor, es responsable de los daños y perjuicios que de su negativa resulten al incapacitado.
+El que se rehusare sin causa legal a desempeñar el cargo de tutor, es responsable de los daños y perjuicios que de su negativa resulten a la persona menor de dieciocho años de edad o a la persona que no tenga capacidad para comprender el significado del hecho.
 
 ###### ARTICULO 451.
 
 La tutela se desempeñará por el tutor con intervención del curador, en los términos establecidos en este Código.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 452.
 
-Ningún incapaz puede tener a un mismo tiempo más de un tutor y de un curador definitivos.
+Ninguna persona menor de dieciocho años de edad o persona que no tenga capacidad para comprender el significado del hecho puede tener a un mismo tiempo más de un tutor y de un curador definitivo.
 
 ###### ARTICULO 453.
 
@@ -2913,9 +3019,11 @@ El tutor y el curador pueden desempeñar respectivamente la tutela o la curatela
 
 Cuando los intereses de alguno o algunos de los incapaces, sujetos a la misma tutela, fueren opuestos, el tutor lo pondrá en conocimiento del Juez, quien nombrará un tutor especial que defienda los intereses de los incapaces, que él mismo designe, mientras se decide el punto de oposición.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 455.
 
-Los cargos de tutor y de curador de un incapaz no pueden ser desempeñados al mismo tiempo por una sola persona. Tampoco pueden desempeñarse por personas que tengan entre sí parentesco en cualquier grado de la línea recta, o dentro del cuarto grado de la colateral.
+Los cargos de tutor y de curador de una persona menor de dieciocho años de edad o persona que no tenga capacidad para comprender el significado del hecho no pueden ser desempeñados al mismo tiempo por una sol persona. Tampoco pueden desempeñarse por persona que tenga entre sí parentesco en cualquier grado de la línea recta, o dentro del cuarto grado de la colateral.
 
 > <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
 
@@ -2923,13 +3031,11 @@ Los cargos de tutor y de curador de un incapaz no pueden ser desempeñados al mi
 
 No pueden ser nombrados tutores o curadores las personas que desempeñen cargos en los Juzgados de Primera Instancia de lo Familiar; ni los que estén ligados con parentesco de consanguinidad con las mencionadas personas, en la línea recta, sin limitación de grados, y en la colateral dentro de cuarto grado inclusive.
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 457.
 
-Cuando fallezca una persona que ejerza la patria potestad sobre un incapacitado a quien deba nombrarse tutor, su ejecutor testamentario y en caso de intestado los parientes y personas con quienes haya vivido, están obligados a dar parte del fallecimiento al Juez de Primera Instancia de lo Familiar que conozca el caso, dentro de ocho días, a fin de que se provea a la tutela, bajo la pena de veinticinco a cien pesos de multa.
-
-Los Oficiales del Registro Civil, las autoridades administrativas y las judiciales tienen obligación de dar aviso al Juez de Primera Instancia de lo Familiar, de los casos en que sea necesario nombrar tutor y que lleguen a su conocimiento en el ejercicio de sus funciones.
+Cuando fallezca una persona que ejerza la patria potestad sobre una persona menor de dieciocho años de edad o persona que no tenga capacidad para comprender el significado del hecho, a quien deba nombrarse tutor, su ejecutor testamentario y en caso de intestado los parientes y personas con quienes haya vivido, están obligados a dar parte del fallecimiento al Juez de Primera Instancia de lo Familiar que conozca el caso, dentro de ocho días, a fin de que se provea a la tutela, bajo la pena de veinticinco a cien pesos de multa.
 
 ###### ARTICULO 458.
 
@@ -2943,27 +3049,35 @@ Ninguna tutela puede conferirse sin que previamente se declare en los términos 
 
 Los tutores y curadores no pueden ser removidos de su cargo sin que previamente hayan sido oídos y vencidos en juicio.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 461.
 
-El menor de edad que fuere demente, idiota, imbécil, sordomudo, ebrio consuetudinario o que habitualmente abuse de las drogas enervantes, estará sujeto a la tutela de menores, mientras no llega a la mayor edad. Si al cumplirse ésta continuare el impedimento, el incapaz se sujetará a nueva tutela, previo juicio de interdicción, en el cual serán oídos el tutor y el curador anteriores.
+La persona menor de dieciocho años de edad, que fuere persona que no tenga capacidad para comprender el significado del hecho, no solo por razón de la edad sino por las demas causas previstas en el artículo 447 de esta Ley, estará sujeto a la tutela, mientras no cumple dieciocho años de edad, si al cumplirse ésta continuare alguna de las hipótesis por las que la persona no tenga capacidad para comprender el significado del hecho se sujetará a nueva tutela, previo juicio de interdicción, en el cual serán oídos el tutor y el curador anteriores.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 462.
 
-Los hijos menores de un incapacitado quedarán bajo la patria potestad del ascendiente que corresponda conforme a la Ley, y no habiéndolo, se le proveerá de tutor.
+Los hijos que sean personas menores de dieciocho años de edad de una persona que no tenga capacidad para comprender el significado del hecho quedarán bajo la patria potestad del ascendiente que corresponda conforme a la Ley, y no habiéndolo, se le proveerá de tutor.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 463.
 
-El cargo de tutor del demente, idiota, imbécil, sordomudo, ebrio consuetudinario y de los que habitualmente abusen de las drogas enervantes, durará el tiempo que subsista la interdicción, cuando sea ejercitado por los descendientes o por los ascendientes. El cónyuge tendrá obligación de desempeñar ese cargo mientras conserve su carácter de cónyuge. Los extraños que desempeñen la tutela de que se trata, tienen derecho de que se les releve de ella a los diez años de ejercerla.
+El cargo de tutor de la persona que no tenga capacidad para comprender el significado del hecho, durará el tiempo que subsista la interdicción, cuando sea ejercitado por los descendientes o por los ascendientes. El cónyuge tendrá obligación de desempeñar ese cargo mientras conserve su carácter de cónyuge. Los extraños que desempeñen la tutela de que se trata, tienen derecho de que se les releve de ella a los diez años de ejercerla.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 464.
 
-La interdicción de que habla el artículo anterior no cesará sino por la muerte del incapacitado o por sentencia definitiva, que se pronunciará en juicio seguido conforme a las mismas reglas establecidas para el de interdicción.
+La interdicción de que habla el artículo anterior no cesará sino por la muerte de la persona que no tenga capacidad para comprender el significado del hecho o por sentencia definitiva, que se pronunciará en juicio seguido conforme a las mismas reglas establecidas para el de interdicción.
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 465.
 
-El Juez de Primera Instancia de lo Familiar del domicilio del incapacitado, cuidará provisionalmente de la persona y bienes del incapacitado, hasta que se nombre tutor.
+El Juez de Primera Instancia de lo Familiar del domicilio de la persona que no tenga capacidad para comprender el significado del hecho, cuidará provisionalmente de la persona y sus bienes, hasta que se nombre tutor.
 
 ###### ARTICULO 466.
 
@@ -2971,9 +3085,11 @@ El Juez que no cumpla las prescripciones relativas a la tutela, además de las p
 
 ### CAPITULO II. DE LA TUTELA TESTAMENTARIA
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 467.
 
-El ascendiente que sobreviva, de los dos que en cada grado deben ejercer la patria potestad conforme a lo dispuesto en el artículo 411, tiene derecho, aunque fuere menor, de nombrar tutor en su testamento a aquellos sobre quienes la ejerza, con inclusión del hijo póstumo.
+El ascendiente que sobreviva, de los dos que en cada grado deben ejercer la patria potestad conforme a lo dispuesto en el artículo 411, tiene derecho, aunque fuere persona menor de dieciocho años de edad, de nombrar tutor en su testamento a aquellos sobre quienes la ejerza, con inclusión del hijo póstumo.
 
 ###### ARTICULO 468.
 
@@ -2983,13 +3099,17 @@ El nombramiento de tutor testamentario hecho en los términos del artículo ante
 
 Si los ascendientes excluídos estuvieren incapacitados o ausentes, la tutela cesará cuando cese el impedimento o se presenten los ascendientes, a no ser que el testador haya dispuesto expresamente que continúe la tutela.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 470.
 
-El que en su testamento, aunque sea un menor no emancipado, deje bienes, ya sea por legado o por herencia, a un incapaz que no esté bajo su patria potestad, ni bajo la de otro, puede nombrarle tutor solamente para la administración de los bienes que le deje.
+El que en su testamento, aunque sea una persona persona (sic) menor de dieciocho años de edad no emancipada, deje bienes, ya sea por legado o por herencia, a una persona que no tenga capacidad para comprender el significado del hecho que no este bajo su patria potestad, ni bajo la de otro, puede nombrarle tutor solamente para la administración de los bienes que le deje.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 471.
 
-Si fueren varios los menores podrá nombrárseles un tutor común, o conferirse a persona diferente la tutela de cada uno de ellos, observándose, en su caso, lo dispuesto en el artículo 454.
+Si fueren varias las personas menores de dieciocho años de edad podrá nombrárseles un tutor común, o conferirse a persona diferente la tutela de cada uno de ellos, observándose, en su caso, lo dispuesto en el artículo 454.
 
 ###### ARTICULO 472.
 
@@ -2997,9 +3117,11 @@ El padre que ejerza la tutela de un hijo sujeto a interdicción por incapacidad 
 
 La madre, en su caso, podrá hacer el nombramiento de que trata este artículo.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 473.
 
-En ningún otro caso hay lugar a la tutela testamentaria del incapacitado.
+En ningún otro caso hay lugar a la tutela testamentaria de personas menores de dieciocho años de edad y personas que no tengan capacidad para comprender el significado del hecho.
 
 ###### ARTICULO 474.
 
@@ -3009,19 +3131,29 @@ Siempre que se nombren varios tutores, desempeñará la tutela el primer nombrad
 
 Lo dispuesto en el artículo anterior no regirá cuando el testador haya establecido el orden en que los tutores deben sucederse en el desempeño de la tutela.
 
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 476.
 
-Deben observarse todas las reglas, limitaciones y condiciones puestas por el testador para la administración de la tutela, que no sean contrarias a las Leyes, a no ser que el Juez, oyendo al tutor y al curador, las estime dañosas a los menores, en cuyo caso podrá dispensarlas o modificarlas.
+Deben observarse todas las reglas, limitaciones y condiciones puestas por el testador para la administración de la tutela, que no sean contrarias a las leyes, a no ser que el Juez, oyendo al tutor y al curador, las estime dañosas para las personas menores de dieciocho años de edad, en cuyo caso podrá dispensarlas o modificarlas.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 477.
 
-Si por un nombramiento condicional del tutor, o por algún otro motivo, faltare temporalmente el tutor testamentario, el Juez proveerá de tutor interino al menor, conforme a las reglas generales sobre nombramiento de tutores.
+Si por un nombramiento condicional del tutor, o por algún otro motivo, faltare temporalmente el tutor testamentario, el Juez proveerá de tutor interino a la persona menor de dieciocho años de edad, conforme a las reglas generales sobre nombramiento de tutores.
 
 ###### ARTICULO 478.
 
 El adoptante que ejerza la patria potestad tiene derecho de nombrar tutor testamentario a su hijo adoptivo; aplicándose a esta tutela lo dispuesto en los artículos anteriores.
 
-### CAPITULO III. DE LA TUTELA LEGITIMA DE LOS MENORES
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+CAPTULO III
+
+DE LA TUTELA LEGITIMA DE LAS PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD
+
+### CAPITULO IV. DE LA TUTELA LEGITIMA DE PERSONAS QUE NO TENGAN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
 
 ###### ARTICULO 479.
 
@@ -3037,17 +3169,27 @@ La tutela legítima corresponde:
 
 I.- A los hermanos, prefiriéndose a los que sean por ambas líneas;
 
-II.- Por falta o incapacidad de los hermanos, a los demás colaterales dentro del cuarto grado inclusive.
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+II.- A los parientes colaterales dentro del cuarto grado inclusive, cuando los hermanos sean personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 481.
 
-Si hubiere varios parientes del mismo grado, el Juez eligirá (sic) entre ellos al que le parezca más apto para el cargo; pero si el menor hubiere cumplido dieciséis años, él hará la elección.
+Si hubiere varios parientes del mismo grado, el Juez elegirá entre ellos al que le parezca más apto para el cargo; pero si la persona hubiere cumplido dieciséis años, él hará la elección.
 
 ###### ARTICULO 482.
 
 La falta temporal del tutor legítimo, se suplirá en los términos establecidos en los dos artículos anteriores.
 
-### CAPITULO IV. DE LA TUTELA LEGITIMA DE LOS DEMENTES, IDIOTAS, IMBECILES, SORDOMUDOS, EBRIOS Y DE LOS QUE HABITUALMENTE ABUSAN DE LAS DROGAS ENERVANTES
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+### CAPITULO V
+
+DE LA TUTELA LEGITIMA DE LAS PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD ABANDONADOS Y DE LOS ACOGIDOS POR ALGUNA PERSONA, O DEPOSITADOS EN ESTABLECIMIENTOS DE BENEFICENCIA
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 483.
 
@@ -3065,29 +3207,31 @@ Cuando haya dos o más hijos, será preferido el que viva en compañía del padr
 
 Los padres son de derecho tutores de sus hijos, solteros o viudos, cuando éstos no tengan hijos que puedan desempeñar la tutela, debiéndose poner de acuerdo respecto a quien de los dos ejercerá el cargo.
 
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 487.
 
-A falta de tutor testamentario y de persona que con arreglo a los Artículos anteriores debe desempeñar la tutela, serán llamados a ella sucesivamente: los abuelos, los hermanos del incapacitado y los demás colaterales a que se refiere la Fracción II del Artículo 480; observándose en su caso lo que dispone el Artículo 481.
+A falta de tutor testamentario y de persona que con arreglo a los artículos anteriores debe desempeñar la tutela, serán llamados a ella sucesivamente: los abuelos, los hermanos de la persona que no tiene capacidad para comprender el significado del hecho y los demás colaterales a que se refiere la fracción II del artículo 480; observándose en su caso lo que dispone el artículo 481.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 488.
 
-El tutor del incapacitado que tenga hijos menores bajo su patria potestad, será también tutor de ellos, si no hay otro ascendiente a quien la Ley llame al ejercicio de aquel derecho.
+El tutor de la persona que no tiene capacidad para comprender el significado del hecho que tenga hijos menores de dieciocho años de edad, bajo su patria potestad, será también tutor de ellos, si no hay otro ascendiente a quien la ley llame al ejercicio de áquel derecho
 
-### CAPITULO V. DE LA TUTELA LEGITIMA DE LOS MENORES ABANDONADOS Y DE LOS ACOGIDOS POR ALGUNA PERSONA, O DEPOSITADOS EN ESTABLECIMIENTOS DE BENEFICIENCIA (SIC)
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+### CAPITULO VI. DE LA TUTELA DATIVA
 
 ###### ARTICULO 489.
 
-Los menores expósitos o abandonados quedan legalmente bajo la tutela del Sistema Estatal para el Desarrollo Integral de la Familia, por conducto de la Procuraduría para la Defensa del Menor y la Familia, con las obligaciones y facultades establecidas para los demás tutores.
+Las personas menores de dieciocho años de edad expósitos o abandonados quedan legalmente bajo la tutela del Sistema Estatal para el Desarrollo Integral de la Familia, por conducto de la Procuraduría para la Defensa de las personas menores de dieciocho años de edad y la Familia, con las obligaciones y facultades establecidas para los demás tutores.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 490.
 
-Los directores de las inclusas, hospicios y demás casas de asistencia social tendrán el carácter de custodios temporales de los expósitos, abandonados o personas con incapacidad que reciban en los establecimientos a su cargo; lugares en donde éstos permanecerán a disposición de la Procuraduría para la Defensa del Menor y la Familia del Estado, hasta que ésta resuelva sobre su reincorporación al seno familiar, autorice la iniciación de trámites para la adopción, asigne hogar substituto o con base en cualquier otra causa legítima disponga interrumpir o poner término a la estancia de éstos en tales establecimientos.
+Los directores de las inclusas, hospicios y demás casas de asistencia social tendrán el carácter de custodios temporales de los expósitos, abandonados o personas que no tengan la capacidad para comprender el significado del hecho, que reciban en los establecimientos a su cargo; lugares en los que estos permanecerán bajo la tutela de la Procuraduría para la defensa de las dieciocho años de edad dieciocho años de edad (sic) y la familia del Estado, hasta que esta resuelva sobre su reincorporación al seno familiar, autorice la iniciación para el trámite de adopción, asigne hogar sustituto o con base en cual otra causa legítima disponga interrumpir o poner termino a la estancia de estos en tales establecimientos.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
@@ -3095,7 +3239,7 @@ Los directores de las inclusas, hospicios y demás casas de asistencia social te
 
 En el caso del artículo 489, no es necesario el discernimiento del cargo.
 
-### CAPITULO VI. DE LA TUTELA DATIVA
+### CAPITULO VII. DE LAS PERSONAS INHABILES PARA EL DESEMPEÑO DE LA TUTELA Y DE LAS QUE DEBEN SER SEPARADAS DE ELLA
 
 ###### ARTICULO 492.
 
@@ -3105,31 +3249,35 @@ I.- Cuando no hay tutor testamentario ni persona a quien conforme a la Ley corre
 
 II.- Cuando el tutor testamentario esté impedido temporalmente de ejercer su cargo, y no hay ningún pariente de los designados en el artículo 480.
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 493.
 
-El tutor dativo será designado por el menor si ha cumplido dieciséis años. El Juez de Primera Instancia de lo Familiar confirmará la designación, si no tiene justa causa para reprobarla. Si no se aprueba el nombramiento hecho por el menor, el Juez nombrará tutor conforme a lo dispuesto en el artículo siguiente.
+El tutor dativo será designado por la persona si esta ya ha cumplido dieciséis años. El Juez de Primera Instancia de lo Familiar confirmará la designación, si no tiene justa causa para reprobarla. Si no se aprueba el nombramiento hecho por la persona, el Juez nombrará tutor conforme a lo dispuesto en el artículo siguiente.
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 494.
 
-Si el menor no ha cumplido dieciséis años, el nombramiento de tutor lo hará el Juez de Primera Instancia de lo Familiar, de entre las personas que figuren en la lista formada cada año por el Tribunal Superior de Justicia, oyendo al Ministerio Público, quien debe cuidar de que quede comprobada la honorabilidad de la persona elegida para tutor.
+Si la persona no ha cumplido dieciséis años de edad, el nombramiento de tutor lo hará el Juez de Primera Instancia de lo Familiar, de entre las personas que figuren en la lista formada cada año por el Tribunal Superior de Justicia, oyendo al Ministerio Público, quien debe cuidar de que quede comprobada la honorabilidad de la persona elegida para tutor.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 495.
 
-Si el Juez no hace oportunamente el nombramiento de tutor, es responsable de los daños y perjuicios que se sigan al menor por esa falta.
+Si el Juez no hace oportunamente el nombramiento de tutor, es responsable de los daños y perjuicios que se sigan a la persona menor de dieciocho años de edad por esa falta.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 496.
 
-Siempre será dativa la tutela para asuntos judiciales del menor de edad emancipado.
+Siempre será dativa la tutela para asuntos judiciales de la persona menor de dieciocho años de edad emancipada.
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 497.
 
-A los menores de edad que no estén sujetos a patria potestad, ni a tutela testamentaria o legítima, aunque no tengan bienes, se les nombrará tutor dativo. La tutela en ese caso tendrá por objeto el cuidado de la persona del menor, a efecto de que reciba la educación que corresponda a su posibilidad económica y a sus aptitudes. El tutor será nombrado a petición del Ministerio Público, del mismo menor, y aún de oficio por el Juez de Primera Instancia de lo Familiar.
+A las personas menores de dieciocho años de edad que no estén sujetos a patria potestad, ni a tutela testamentaria o legítima, aunque no tengan bienes, se les nombrará tutor dativo. La tutela en ese caso tendrá por objeto el cuidado de la persona menor de dieciocho años de edad, a efecto de que reciba la educación que corresponda a su posibilidad económica y a sus aptitudes. El tutor será nombrado a petición del Ministerio Público, de la misma persona menor de dieciocho años de edad, y aún de oficio por el Juez de Primera Instancia de lo Familiar.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
 
@@ -3137,13 +3285,17 @@ A los menores de edad que no estén sujetos a patria potestad, ni a tutela testa
 
 En el caso del artículo anterior, tienen obligación de desempeñar la tutela mientras duran en los cargos que a continuación se enumeran:
 
-I.- El Presidente Municipal del domicilio del menor;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+I.- El Presidente Municipal del domicilio de la persona menor de dieciocho años de edad;
 
 II.- Los demás regidores del ayuntamiento;
 
 III.- Las personas que desempeñen la autoridad administrativa en los lugares en donde no hubiere ayuntamiento;
 
-IV.- Los profesores oficiales de instrucción primaria, secundaria o profesional, del lugar donde vive el menor;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+IV.- Los profesores oficiales de instrucción primaria, secundaria, o profesional, del lugar donde vive la persona menor de dieciocho años de edad;
 
 V.- Los miembros de las juntas de beneficiencia (sic) pública o privada que disfruten sueldo del erario;
 
@@ -3153,21 +3305,29 @@ VI.- Los directores de establecimientos de beneficiencia (sic) pública.
 
 Los Jueces de Primera Instancia de lo Familiar nombrarán de entre las personas mencionadas las que en cada caso deban desempeñar la tutela, procurando que este cargo se reparta equitativamente, sin perjuicio de que también puedan ser nombrados tutores las personas que figuren en las listas que debe formar el Tribunal Superior de Justicia, cuando estén conformes en desempeñar gratuitamente la tutela de que se trate.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 499.
 
-Si el menor que se encuentre en el caso previsto por el artículo 497, adquiere bienes, se le nombrará tutor dativo de acuerdo con lo que disponen las reglas generales para hacer esos nombramientos.
+Si la persona menor de dieciocho años de edad que se encuentre en el caso previsto por el artículo 497, adquiere bienes, se le nombrará tutor dativo de acuerdo con lo que disponen las reglas generales para hacer esos nombramientos.
 
-### CAPITULO VII. DE LAS PERSONAS INHABILES PARA EL DESEMPEÑO DE LA TUTELA Y DE LAS QUE DEBEN SER SEPARADAS DE ELLA
+### CAPITULO VIII. DE LAS EXCUSAS PARA EL DESEMPEÑO DE LA TUTELA
 
 ###### ARTICULO 500.
 
 No pueden ser tutores, aunque estén anuentes en recibir el cargo:
 
-I.- Los menores de edad;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-II.- Los mayores de edad que se encuentren bajo tutela;
+I.- Las personas menores de dieciocho años de edad;
 
-III.- Los que hayan sido removidos de otra tutela por haberse conducido mal, ya respecto de la persona, ya respecto de la administración de los bienes del incapacitado;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+II.- Las personas mayores de dieciocho años de edad que se encuentren bajo tutela;
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+lll.- Los que hayan sido removidos de otra tutela por haberse conducido mal, ya respecto de la persona, ya respecto de la administración de los bienes de la persona menor de dieciocho años de edad o persona que no tenga capacidad para comprender el significado del hecho;
 
 IV.- Los que por sentencia que cause ejecutoria hayan sido condenados a la privación de este cargo o a la inhabilitación para obtenerlo;
 
@@ -3175,9 +3335,13 @@ V.- El que haya sido condenado por robo, abuso de confianza, estafa, fraude o po
 
 VI.- Los que no tengan oficio o modo de vivir conocido o sean notoriamente de mala conducta;
 
-VII.- Los que al deferirse la tutela, tengan pleito pendiente con el incapacitado;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-VIII.- Los deudores del incapacitado en cantidad considerable, a juicio del Juez, a no ser que el que nombre tutor testamentario lo haya hecho con conocimiento de la deuda, declarándolo así expresamente al hacer el nombramiento;
+VII.- Los que al deferirse la tutela tengan pleito pendiente con la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho;
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+VIII.- Los deudores de la persona menor de dieciocho años de edad o persona que no tenga capacidad para comprender el significado del hecho, en cantidad considerable, a juicio del Juez, a no ser que el que nombre tutor testamentario lo haya hecho con conocimiento de la deuda, declarándolo así expresamente al hacer el nombramiento;
 
 IX.- Los Jueces, Magistrados y demás funcionarios o empleados de la administración de justicia;
 
@@ -3195,7 +3359,9 @@ Serán separados de la tutela:
 
 I.- Los que sin haber caucionado su manejo conforme a la Ley, ejerzan la administración de la tutela;
 
-II.- Los que se conduzcan mal en el desempeño de la tutela, ya sea respecto de la persona, ya respecto de la administración de los bienes del incapacitado;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+II.- Los que se conduzcan mal en el desempeño de la tutela, ya sea respecto de la persona, ya respecto de la administración de los bienes de la persona menor de dieciocho años de edad o persona que no tenga capacidad para comprender el significado del hecho;
 
 III.- Los tutores que no rindan sus cuentas dentro del término fijado por el artículo 587;
 
@@ -3209,9 +3375,11 @@ VI.- El tutor que permanezca ausente por más de seis meses, del lugar en que de
 
 No pueden ser tutores ni curadores del demente los que hayan sido causa de la demencia, ni los que la hayan fomentado directa o indirectamente.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 503.
 
-Lo dispuesto en el artículo anterior se aplicará, en cuanto fuere posible, a la tutela de los idiotas, imbéciles, sordomudos, ebrios consuetudinarios y de los que abusan habitualmente de las drogas enervantes.
+Lo dispuesto en el artículo anterior se aplicará, en cuanto fuere posible, a la tutela de personas que no tengan capacidad para comprender el significado del hecho.
 
 ###### ARTICULO 504.
 
@@ -3229,7 +3397,7 @@ En el caso de que trata el artículo anterior, se proveerá a la tutela conforme
 
 Absuelto el tutor, volverá al ejercicio de su encargo. Si es condenado a una pena que no lleve consigo la inhabilitación para desempeñar la tutela, volverá a ésta al extinguir su condena, siempre que la pena impuesta no exceda de un año de prisión.
 
-### CAPITULO VIII. DE LAS EXCUSAS PARA EL DESEMPEÑO DE LA TUTELA
+### CAPITULO IX. DE LA GARANTIA QUE DEBEN PRESTAR LOS TUTORES PARA ASEGURAR SU MANEJO
 
 ###### ARTICULO 508.
 
@@ -3271,15 +3439,19 @@ Mientras que se califica el impedimento o la excusa, el Juez nombrará un tutor 
 
 El tutor testamentario que se excuse de ejercer la tutela, perderá todo derecho a lo que le hubiere dejado el testador por este concepto.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 514.
 
-El tutor que sin excusa o desechada la que hubiere propuesto, no desempeñe la tutela, pierde el derecho que tenga para heredar al incapacitado que muera intestado, y es responsable de los daños y perjuicios que por su renuncia hayan sobrevenido al mismo incapacitado. En igual pena incurre la persona a quien corresponda la tutela legítima, si habiendo sido legalmente citada, no se presenta al Juez manifestando su parentesco con el incapaz.
+El tutor que sin excusa o desechada la que hubiere propuesto, no desempeñe la tutela, pierde el derecho que tenga para heredar a la persona menor de dieciocho años de edad o a (sic) de la persona que no tenga capacidad para comprender el significado del hecho que muera intestado, y es responsable de los daños y perjuicios que por su renuncia hayan sobre venido al mismo incapacitado. En igual pena incurre la persona a quien corresponda la tutela legítima, si habiendo sido legalmente citada, no se presenta al Juez manifestando su parentesco con la persona menor de dieciocho años de edad o persona que no tenga capacidad para comprender el significado del hecho.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 515.
 
-Muerto el tutor que esté desempeñando la tutela, sus herederos o ejecutores testamentarios están obligados a dar aviso al Juez, quien proveerá inmediatamente al incapacitado del tutor que corresponda según la Ley.
+Muerto el tutor que esté desempeñando la tutela, sus herederos o ejecutores testamentarios están obligados a dar aviso al Juez, quien proveerá inmediatamente a la persona menor de dieciocho años de edad o persona que no tenga capacidad para comprender el significado del hecho, del tutor que corresponda según la Ley.
 
-### CAPITULO IX. DE LA GARANTIA QUE DEBEN PRESTAR LOS TUTORES PARA ASEGURAR SU MANEJO
+### CAPITULO X. DEL DESEMPEÑO DE LA TUTELA
 
 ###### ARTICULO 516.
 
@@ -3307,19 +3479,23 @@ IV.- Los que acojan a un expósito, lo alimenten y eduquen convenientemente por 
 
 Los comprendidos en la fracción I del artículo anterior, sólo estarán obligados a dar garantía cuando con posterioridad a su nombramiento haya sobrevenido causa obligada ignorada por el testador que, a juicio del Juez y previa audiencia del curador, haga necesaria aquella.
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 519.
 
-La garantía que presten los tutores no impedirá que el Juez de Primera Instancia de lo Familiar, a moción del Ministerio Público, de los parientes próximos del incapacitado o de éste si ha cumplido dieciséis años, dicte las providencias que se estimen útiles para la conservación de los bienes del pupilo.
+La garantía que presten los tutores no impedirá que el Juez de Primera Instancia de lo Familiar, a moción del Ministerio Público, de los parientes próximos de la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho, o de éste si ha cumplido dieciséis años, dicte las providencias que se estimen útiles para la conservación de los bienes del pupilo.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 520.
 
-Cuando la tutela del incapacitado recaiga en el cónyuge, en los ascendientes o en los hijos, no se dará garantía; salvo el caso de que el Juez, con audiencia del curador lo crea conveniente.
+Cuando la tutela de la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho recaiga en el cónyuge, en los ascendientes o en los hijos, no se dará garantía; salvo el caso de que el Juez, con audiencia del curador lo crea conveniente.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 521.
 
-Siempre que el tutor sea también coheredero del incapaz, y éste no tenga más bienes que los hereditarios, no se podrá exigir al tutor otra garantía que la de su misma porción hereditaria, a no ser que esta porción no iguale a la mitad de la porción del incapaz, pues en tal caso se integrará la garantía con bienes propios del tutor o con fianza.
+Siempre que el tutor sea también coheredero de la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho, y éste no tenga más bienes que los hereditarios, no se podrá exigir al tutor otra garantía que la de su misma porción hereditaria, a no ser que esta porción no iguale a la mitad de la porción de la persona menor de dieciocho años de edad o de la persona que no tenga la capacidad para comprender el significado del hecho, pues en tal caso se integrará la garantía con bienes propios del tutor o con fianza.
 
 ###### ARTICULO 522.
 
@@ -3345,13 +3521,17 @@ III.- Por el de los productos de las fincas rústicas en dos años, calculados p
 
 IV.- En las negociaciones mercantiles e industriales, por el veinte por ciento del importe de las mercancías y demás efectos muebles, calculado por los libros si están llevados en debida forma o a juicio de peritos.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 526.
 
-Si los bienes del incapacitado, enumerados en el artículo que precede, aumentan o disminuyen durante la tutela, podrá aumentarse o disminuirse proporcionalmente la hipoteca, prenda o la fianza, a pedimento del tutor, del curador o del Ministerio Público.
+Si los bienes de la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho, enumerados en el artículo que precede, aumentan o disminuyen durante la tutela podrá aumentarse o disminuirse proporcionalmente la hipoteca, prenda o la fianza, a pedimento del tutor, del curador o del Ministerio Público.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 527.
 
-El Juez responde subsidiariamente con el tutor, de los daños y perjuicios que sufra el incapacitado por no haber exigido que se caucione el manejo de la tutela.
+El Juez responde subsidiariamente con el tutor, de los daños y perjuicios que sufra la persona persona (sic) menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho, por no haber exigido que se caucione el manejo de la tutela.
 
 ###### ARTICULO 528.
 
@@ -3369,75 +3549,95 @@ Al presentar el tutor su cuenta anual, el curador debe promover información de 
 
 Es también obligación del curador, vigilar el estado de las fincas hipotecadas por el tutor o de los bienes entregados en prenda, dando aviso al Juez de los deterioros y menoscabo que en ellos hubiere, para que si es notable la disminución del precio, se exija al tutor que asegure con otros bienes los intereses que administra.
 
-### CAPITULO X. DEL DESEMPEÑO DE LA TUTELA
+### CAPITULO XI. DE LAS CUENTAS DE LA TUTELA
 
 ###### ARTICULO 532.
 
 Cuando el tutor tenga que administrar bienes, no podrá entrar a la administración sin que antes se nombre curador, excepto en el caso del artículo 489.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 533.
 
-El tutor que entre a la administración de los bienes sin que se haya nombrado curador, será responsable de los daños y perjuicios que cause al incapacitado y, además, separado de la tutela; más ningún extraño puede rehusarse a tratar con él judicial o extrajudicialmente alegando la falta del curador.
+El tutor que entre a la administración de los bienes sin que se haya nombrado curador, será responsable de los daños y perjuicios que cause a la persona menor de dieciocho años de edad o a la persona que no tenga la capacidad para comprender el significado del hecho y, además, separado de la tutela; más ningún extraño puede rehusarse a tratar con él judicial o extrajudicialmente alegando la falta del curador.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 534.
 
 El tutor está obligado:
 
-I.- A alimentar y educar al incapacitado;
+I.- A alimentar y educar a la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho;
 
-II.- A destinar de preferencia los recursos del incapacitado a la curación de sus enfermedades o a su regeneración, si es un ebrio consuetudinario o abusa habitualmente de las drogas enervantes;
+II.- A destinar de preferencia los recursos de la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho, a la curación de sus enfermedades o a su regeneración, si es un ebrio consuetudinario o abusa habitualmente de las drogas enervantes;
 
-III.- A formar inventario solemne y circunstanciado de cuanto constituye el patrimonio del incapacitado, dentro del término que el Juez designe, con intervención del curador y del mismo incapacitado si goza de discernimiento y ha cumplido dieciséis años de edad.
+III.- A formar inventario solemne y circunstanciado de cuanto constituye el patrimonio de la persona menor de dieciocho años de edad o persona que no tenga capacidad para comprender el significado del hecho, dentro del término que el Juez designe, con intervención del curador y de la misma persona si goza de discernimiento y ha cumplido dieciséis años de edad.
 
-El término para formar el inventario no podrá ser mayor de seis meses;
+El término para formar el inventario no podrá ser mayor de seis meses.
 
-IV.- A administrar el caudal de los incapacitados. El pupilo será consultado para los actos importantes de la administración cuando es capaz de discernimiento y mayor de dieciséis años.
+IV.- A administrar el caudal de la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho.
+
+El pupilo será consultado para los actos importantes de la administración cuando es capaz de discernimiento y mayor de dieciséis años.
 
 La administración de los bienes que el pupilo ha adquirido con su trabajo le corresponde a él y no al tutor;
 
-V.- A representar al incapacitado en juicio y fuera de él en todos los actos civiles, con excepción del matrimonio, del reconocimiento de hijos, del testamento y de otros estrictamente personales;
+V.- A representar a la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho, en juicio y fuera de él en todos los actos civiles, con excepción del matrimonio, del reconocimiento de hijos, del testamento y de otros estrictamente personales;
 
 VI.- A solicitar oportunamente la autorización judicial para todo lo que legalmente no pueda hacer sin ella.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 535.
 
-Los gastos de alimentación y educación del menor deben regularse de manera que nada necesario le falte, según su condición y posibilidad económica.
+Los gastos de alimentación y educación de la persona menor de dieciocho años de edad deben regularse de manera que nada necesario le falte, según su condición y posibilidad económica.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 536.
 
-Cuando el tutor entre en el ejercicio de su cargo, el Juez fijará, con audiencia de aquél, la cantidad que haya de invertirse en los alimentos y educación del menor, sin perjuicio de alterarla, según el aumento o disminución del patrimonio y otras circunstancias. Por las mismas razones podrá el Juez alterar la cantidad que el que nombró tutor hubiere señalado para dicho objeto.
+Cuando el tutor entre en el ejercicio de su cargo, el Juez fijará, con audiencia de aquél, la cantidad que haya de invertirse en los alimentos y educación de la persona menor de dieciocho años de edad, sin perjuicio de alterarla, según el aumento o disminución del patrimonio y otras circunstancias. Por las mismas razones podrá el Juez alterar la cantidad que el que nombró tutor hubiere señalado para dicho objeto.
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 537.
 
-El tutor destinará al menor a la carrera u oficio que éste elija, según sus circunstancias. Si el tutor infrinje (sic) esta disposición, puede el menor, por conducto del curador, o por sí mismo, ponerlo en conocimiento del Juez de Primera Instancia de lo Familiar, para que dicte las medidas convenientes.
+El tutor destinará a la persona menor de dieciocho años de edad a la carrera u oficio que éste elija, según sus circunstancias. Si el tutor infringe esta disposición, puede la persona menor de dieciocho años de edad, por conducto del curador, o por sí mismo, ponerlo en conocimiento del Juez de Primera Instancia de lo Familiar, para que dicte las medidas convenientes.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 538.
 
-Si el que tenía la patria potestad sobre el menor lo había dedicado a alguna carrera, el tutor no variará ésta, sin la aprobación del Juez, quien decidirá este punto prudentemente y oyendo en todo caso al mismo menor, y al curador.
+Si el que tenía la patria potestad sobre persona menor de dieciocho años de edad lo había dedicado a alguna carrera, el tutor no variará ésta, sin la aprobación del Juez, quien decidirá este punto prudentemente y oyendo en todo caso a la persona menor de dieciocho años de edad, y al curador.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 539.
 
-Si las rentas del menor no alcanzan a cubrir los gastos de su alimentación y educación, el Juez decidirá si ha de ponérsele a aprender un oficio o adoptarse otro medio para evitar la enajenación de los bienes y, si fuere posible, sujetará a las rentas de éstos, los gastos de alimentación.
+Si las rentas de la persona menor de dieciocho años de edad no alcanzan a cubrir los gastos de su alimentación y educación, el Juez decidirá si ha de ponérsele a aprender un oficio o adoptarse otro medio para evitar la enajenación de los bienes y, si fuere posible, sujetará a las rentas de éstos, los gastos de alimentación.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 540.
 
-Si los pupilos fuesen indigentes, o careciesen de suficientes medios para los gastos que demanden su alimentación y educación, el tutor exigirá judicialmente la prestación de esos gastos a los parientes que tienen obligación legal de alimentar a los incapacitados. Las expensas que esto origine, serán cubiertas por el deudor alimentario.
+Si los pupilos fuesen indigentes, o careciesen de suficientes medios para los gastos que demanden su alimentación y educación, el tutor exigirá judicialmente la prestación de esos gastos a los parientes que tienen obligación legal de alimentar a las personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho. Las expensas que esto origine, serán cubiertas por el deudor alimentario.
 
 Cuando el mismo tutor sea el obligado a dar alimentos por razón de su parentesco con el pupilo, el curador ejercitará la acción a que este artículo se refiere.
 
 ###### ARTICULO 541.
 
-Si los pupilos indigentes no tienen personas que estén obligadas a alimentarlos, o si teniéndolas no pudieren hacerlo, el tutor, con autorización del Juez, quien oirá el parecer del curador, pondrá al pupilo en un establecimiento de beneficiencia (sic) pública o privada en donde pueda educarse. Si ni eso fuere posible, el tutor procurará que los particulares suministren trabajo al incapacitado, compatible con su edad y circunstancias personales, con la obligación de alimentarlo y educarlo. No por ésto el tutor queda eximido de su cargo, pues continuará vigilando al menor, a fin de que no sufra daño por lo excesivo del trabajo, lo insuficiente de la alimentación o lo defectuoso de la educación que se le imparta.
+(DEROGADO, P.O. 18 DE NOVIEMBRE DE 2005)
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 542.
 
-Los incapacitados indigentes que no puedan ser alimentados y educados por los medios previstos en los dos artículos anteriores, lo serán a costa de las rentas públicas del Estado de Baja California; pero si se llega a tener conocimiento de que existen parientes del incapacitado que estén legalmente obligados a proporcionarle alimentos, el Ministerio Público deducirá la acción correspondiente para que se reembolse al Gobierno de los gastos que hubiere hecho en el cumplimiento de lo dispuesto por este artículo.
+Las personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho indigentes que no puedan ser alimentados y educados por los medios previstos en los dos artículos anteriores, lo serán a costa de las rentas públicas del Estado de Baja California; pero si se llega a tener conocimiento de que existen parientes de estos, que estén legalmente obligados a proporcionarle alimentos, el Ministerio Público deducirá la acción correspondiente para que se reembolse al gobierno de los gastos que hubiere hecho en el cumplimiento de lo dispuesto por este artículo.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 543.
 
-El tutor de los incapacitados a que se refiere la fracción II del artículo 534, está obligado a presentar al Juez en el mes de enero de cada año, un certificado de los facultativos que declaren acerca del estado del individuo sujeto a interdicción, a quien para ese efecto reconocerán en presencia del curador. El Juez se cerciorará del estado que guarda el incapacitado y tomará todas las medidas que estime convenientes para mejorar su condición.
+El tutor de las personas menores de dieciocho años de edad o personas que no tenga capacidad para comprender el significado del hecho, a que se refiere la fracción II del artículo 534, está obligado a presentar al Juez en el mes de enero de cada año, un certificado de los facultativos que declaren acerca del estado del individuo sujeto a interdicción, a quien para ese efecto reconocerán en presencia del curador. El Juez se cerciorará del estado que guarda la persona menor de dieciocho años de edad o persona que no tenga capacidad para comprender el significado del hecho, y tomará todas las medidas que estime convenientes para mejorar su condición.
 
 ###### ARTICULO 544.
 
@@ -3451,23 +3651,31 @@ La obligación de hacer inventarios no puede ser dispensada ni aún por los que 
 
 Mientras que el inventario no estuviere formado, la tutela debe limitarse a los actos de mera protección a la persona y conservación de los bienes del incapacitado.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 547.
 
-El tutor está obligado a inscribir en el inventario el crédito que tenga contra el incapacitado; si no lo hace, pierde el derecho de cobrarlo.
+El tutor está obligado a inscribir en el inventario el crédito que tenga contra la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho; si no lo hace, pierde el derecho de cobrarlo.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 548.
 
-Los bienes que el incapacitado adquiera después de la formación del inventario, se incluirán inmediatamente en él, con las mismas formalidades prescritas en la fracción III del artículo 534.
+Los bienes que la persona menor de dieciocho años de edad o persona que no tenga capacidad para comprender el significado del hecho, adquiera después de la formación del inventario, se incluirán inmediatamente en él, con las mismas formalidades prescritas en la fracción III del artículo 534.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 549.
 
-Hecho el inventario no se admite al tutor rendir prueba contra de él en perjuicio del incapacitado, ni antes ni después de la mayor edad de éste, ya sea que litigue en nombre propio o con la representación del incapacitado.
+Hecho el inventario no se admite al tutor rendir prueba contra de él en perjuicio de la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho, ni antes ni después de la mayor edad de éste, ya sea que litigue en nombre propio o con la representación de quien no tiene la capacidad de comprender el significado del hecho.
 
 Se exceptúa de lo dispuesto en el párrafo anterior los casos en que el error del inventario sea evidente o cuando se trate de un derecho claramente establecido.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 550.
 
-Si se hubiere omitido listar algunos bienes en el inventario, el menor mismo, antes o después de la mayor edad, y el curador o cualquier pariente, pueden ocurrir al Juez, pidiendo que los bienes omitidos se listen; y el Juez, oído el parecer del tutor, determinará en justicia.
+Si se hubiere omitido listar algunos bienes en el inventario, la persona menor de dieciocho años de o persona que no tenga la capacidad para comprender el significado del hecho, antes o después de la mayor edad, y el curador o cualquier pariente, pueden ocurrir al Juez, pidiendo que los bienes omitidos se listen; y el Juez, oído el parecer del tutor, determinará en justicia.
 
 ###### ARTICULO 551.
 
@@ -3477,9 +3685,11 @@ El tutor, dentro del primer mes de ejercer su cargo fijará, con aprobación del
 
 Lo dispuesto en el artículo anterior no liberta al tutor de justificar, al rendir sus cuentas que efectivamente han sido gastadas dichas sumas en sus respectivos objetos.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 553.
 
-Si el padre o la madre del menor ejercían algún comercio o industria, el Juez, con informe de dos peritos, decidirá si ha de continuar o no la negociación; a no ser que los padres hubieren dispuesto algo sobre este punto, en cuyo caso se respetará su voluntad, en cuánto no ofrezca grave inconveniente a juicio del Juez.
+Si el padre o la madre de la persona menor de dieciocho años de edad ejercían algún comercio o industria, el Juez, con informe de dos peritos, decidirá si ha de continuar o no la negociación; a no ser que los padres hubieren dispuesto algo sobre este punto, en cuyo caso se respetará su voluntad, en cuánto no ofrezca grave inconveniente a juicio del Juez.
 
 ###### ARTICULO 554.
 
@@ -3497,31 +3707,39 @@ El tutor que no haga las imposiciones dentro de los plazos señalados en los dos
 
 Mientras que se hacen las imposiciones a que se refieren los artículos 554 y 555, el tutor depositará las cantidades que perciba, en el establecimiento público destinado al efecto.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 558.
 
-Los bienes inmuebles, los derechos anexos a ellos, y los muebles preciosos, no pueden ser enajenados ni gravados por el tutor, sino por causa de absoluta necesidad o evidente utilidad del menor, debidamente justificada y previas (sic) la conformidad del curador y la autorización judicial.
+Los bienes inmuebles, los derechos anexos a ellos, y los muebles preciosos, no pueden ser enajenados ni gravados por el tutor, sino por causa de absoluta necesidad o evidente utilidad de la persona menor de dieciocho años de edad, debidamente justificada y previas la conformidad del curador y la autorización judicial.
 
 ###### ARTICULO 559.
 
 Cuando la enajenación se haya permitido para cubrir con su producto algún objeto determinado, el Juez señalará al tutor un plazo dentro del cual deberá acreditar que el producto de la enajenación se ha invertido en su objeto. Mientras que no se haga la inversión se observará lo dispuesto en la parte final del artículo 434.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 560.
 
-La venta de bienes raíces del menor es nula si no se hace judicialmente en subasta pública. En la enajenación de alhajas y muebles preciosos, el Juez decidirá si conviene o no la almoneda, pudiendo dispensarla, acreditada la utilidad que resulte al menor.
+La venta de bienes raíces de la persona menor de dieciocho años de edad es nula si no se hace judicialmente en subasta pública. En la enajenación de alhajas y muebles preciosos, el Juez decidirá si conviene o no la almoneda, pudiendo dispensarla, acreditada la utilidad que resulte a la persona menor de dieciocho años de edad.
 
-Los tutores no podrán vender valores comerciales, industriales, títulos de rentas, acciones, frutos y ganados pertenecientes al incapacitado, por menor valor del que se cotice en la plaza el día de la venta; ni dar fianza a nombre de su pupilo.
+Los tutores no podrán vender valores comerciales, industriales, títulos de rentas, acciones, frutos y ganados pertenecientes a la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho, por menor valor del que se cotice en la plaza el día de la venta; ni dar fianza a nombre de su pupilo.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 561.
 
-Cuando se trate de enajenar, gravar o hipotecar a título oneroso, bienes que pertenezcan al incapacitado como copropietario, se comenzará por mandar justipreciar dichos bienes para fijar con toda precisión su valor y la parte que en ellos represente el incapacitado, a fin de que el Juez resuelva si conviene o no que se dividan materialmente dichos bienes para que aquél reciba en plena propiedad su porción; o si por el contrario, es convenientemente la enajenación, gravamen o hipoteca, fijando en este caso las condiciones y seguridades con que deben hacerse, pudiendo, si lo estimare conveniente, dispensar la almoneda, siempre que consientan en ello el tutor y el curador.
+Cuando se trate de enajenar, gravar o hipotecar a TITULO oneroso, bienes que pertenezcan a la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho como copropietario, se comenzará por mandar justipreciar dichos bienes para fijar con toda precisión su valor y la parte que en ellos represente a la persona menor de dieciocho años de edad o persona que no tenga capacidad para comprender el significado del hecho, a fin de que el Juez resuelva si conviene o no que se dividan materialmente dichos bienes para que aquél reciba en plena propiedad su porción; o si por el contrario, es convenientemente la enajenación, gravamen o hipoteca, fijando en este caso las condiciones y seguridades con que deben hacerse, pudiendo, si lo estimare conveniente, dispensar la almoneda, siempre que consientan en ello el tutor y el curador.
 
 ###### ARTICULO 562.
 
 Para todos los gastos extraordinarios que no sean de conservación ni de reparación, necesita el tutor ser autorizado por el Juez.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 563.
 
-Se requiere licencia judicial para que el tutor pueda transigir o comprometer en árbitros los negocios del incapacitado.
+Se requiere licencia judicial para que el tutor pueda transigir o comprometer en árbitros los negocios de la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho.
 
 ###### ARTICULO 564.
 
@@ -3531,23 +3749,27 @@ El nombramiento de árbitros hecho por el tutor deberá sujetarse a la aprobaci�
 
 Para que el tutor transija, cuando el objeto de la reclamación consista en bienes inmuebles, muebles preciosos o bien en valores mercantiles o industriales cuya cuantía exceda de mil pesos, necesita el consentimiento del curador y de la aprobación judicial otorgada con audiencia de éste.
 
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 566.
 
-Ni con licencia judicial, ni en almoneda o fuera de ella puede el tutor comprar o arrendar los bienes del incapacitado, ni hacer contrato alguno respecto de ellos, para sí, sus ascendientes, su cónyuge, hijos o hermanos por consanguinidad o afinidad. Si lo hiciere, además de la nulidad del contrato, el acto será suficiente para que se le remueva.
+Ni con licencia judicial, ni en almoneda o fuera de ella puede el tutor comprar o arrendar los bienes de la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho, ni hacer contrato alguno respecto de ellos, para si, sus ascendientes, su cónyuge, hijos o hermanos por consanguinidad o afinidad. Si lo hiciere, además de la nulidad del contrato, el acto será suficiente para que se le remueva.
 
 ###### ARTICULO 567.
 
 Cesa la prohibición del artículo anterior, respecto de la venta de bienes, en el caso de que el tutor o sus parientes allí mencionados sean coherederos partícipes o socios del incapacitado.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 568.
 
-El tutor no podrá hacerse pago de sus créditos contra el incapacitado sin la conformidad del curador y la aprobación judicial.
+El tutor no podrá hacerse pago de sus créditos contra la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho, sin la conformidad del curador y la aprobación judicial.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 569.
 
-El tutor no puede aceptar para sí a título gratuito u oneroso, la cesión de algún derecho o crédito contra el incapacitado. Sólo puede adquirir esos derechos por herencia.
+El tutor no puede aceptar para sí a título gratuito u oneroso, la cesión de algún derecho o crédito contra la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho. Sólo puede adquirir esos derechos por herencia.
 
 ###### ARTICULO 570.
 
@@ -3557,31 +3779,43 @@ El tutor no puede dar en arrendamiento los bienes del incapacitado, por más de 
 
 El arrendamiento hecho de conformidad con el artículo anterior, subsistirá por el tiempo convenido, aún cuando se acabe la tutela; pero será nula toda anticipación de renta o alquileres por más de dos años.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 572.
 
-Sin autorización judicial no puede el tutor recibir dinero prestado en nombre del incapacitado, ya sea que se constituya o no hipoteca en el contrato.
+Sin autorización judicial no puede el tutor recibir dinero prestado en nombre de la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho, ya sea que se constituya o no hipoteca en el contrato.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 573.
 
-El tutor no puede hacer donaciones a nombre del incapacitado.
+El tutor no puede hacer donaciones a nombre de la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 574.
 
-El tutor tiene, respecto del menor, las mismas facultades que a los ascendientes concede el artículo 420.
+El tutor tiene, respecto de la persona menor de dieciocho años de edad, las mismas facultades que a los ascendientes concede el artículo 420.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 575.
 
-Durante la tutela no corre la prescripción entre el tutor y el incapacitado.
+Durante la tutela no corre la prescripción entre el tutor y la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 576.
 
-El tutor tiene obligación de admitir las donaciones simples, legados y herencias que se dejen al incapacitado.
+El tutor tiene obligación de admitir las donaciones simples, legados y herencias que se dejen a la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 577.
 
-La expropiación por causa de utilidad pública de bienes de incapacitados, no se sujetará a las reglas antes establecidas, sino a lo que dispongan las Leyes de la materia.
+La expropiación por causa de utilidad pública de bienes de personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho, no se sujetará a las reglas antes establecidas, sino a lo que dispongan las leyes de la materia.
 
-A(REFORMADO, P.O. 20 DE JUNIO DE 1975)
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 1975)</small>
 
 ###### ARTICULO 578.
 
@@ -3597,25 +3831,37 @@ II.- En los casos en que el cónyuge incapacitado pueda querellarse del otro, de
 
 Cuando la tutela del incapacitado recaiga en su cónyuge, éste solo podrá gravar o enajenar los bienes mencionados en el Artículo 565, previa audiencia del curador y autorización judicial, que se concederá de acuerdo con lo dispuesto en el Artículo 558.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 580.
 
-Cuando la tutela recaiga en cualquiera otra persona, se ejercerá conforme a las reglas establecidas para la tutela de los menores.
+Cuando la tutela recaiga en cualquiera otra persona, se ejercerá conforme a las reglas establecidas para la tutela de las personas menores de dieciocho años de edad.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 581.
 
-En caso de maltratamiento, de negligencia en los cuidados debidos al incapacitado, o de mala administración de sus bienes, podrá el tutor ser removido de la tutela a petición del curador, o de los parientes del incapacitado.
+En caso de maltrato, de negligencia en los cuidados debidos a la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho, o de mala administración de sus bienes, podrá el tutor ser removido de la tutela a petición del curador, o de los parientes de la persona menor de dieciocho años de edad o persona que no tenga capacidad para comprender el significado del hecho.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 582.
 
-El tutor tiene derecho a una retribución sobre los bienes del incapacitado, que podrá fijar el ascendiente o extraño que conforme a derecho lo nombre en su testamento, y para los tutores legítimos y dativos la fijará el Juez.
+El tutor tiene derecho a una retribución sobre los bienes de la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho, que podrá fijar el ascendiente o extraño que conforme a derecho lo nombre en su testamento, y para los tutores legítimos y dativos la fijará el Juez.
 
 ###### ARTICULO 583.
 
 En ningún caso bajará la retribución del cinco ni excederá del diez por ciento de las rentas líquidas de dichos bienes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 584.
 
-Si los bienes del incapacitado tuvieren un aumento en sus productos, debido exclusivamente a la industria y diligencia del tutor, tendrá derecho a que se le aumente, la remuneración hasta un veinte por ciento de los productos líquidos. La calificación del aumento se hará por el Juez, con audiencia del curador.
+Si los bienes de la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho tuvieren un aumento en sus productos, debido exclusivamente a la industria y diligencia del tutor, tendrá derecho a que se le aumente, la remuneración hasta un veinte por ciento de los productos líquidos.
+
+> <small>N. DE E. ANTES PARTE FINAL DEL PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2005.</small>
+
+La calificación del aumento se hará por el Juez, con audiencia del curador.
 
 ###### ARTICULO 585.
 
@@ -3625,15 +3871,19 @@ Para que pueda hacerse en la retribución de los tutores el aumento extraordinar
 
 El tutor no tendrá derecho a remuneración alguna, y restituirá lo que por este título hubiese recibido, si contraviniese lo dispuesto en el artículo 156.
 
-### CAPITULO XI. DE LAS CUENTAS DE LA TUTELA
+### CAPITULO XII. DE LA EXTINCION DE LA TUTELA
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 587.
 
 El tutor está obligado a rendir al Juez cuenta detallada de su administración, en el mes de enero de cada año, sea cual fuere la fecha en que se le hubiere discernido el cargo. La falta de presentación de la cuenta en los tres meses siguientes al de enero motivará la remoción del tutor.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 588.
 
-También tiene obligación de rendir cuenta, cuando por causas graves que calificará el Juez, la exijan el curador, o el mismo menor que haya cumplido dieciséis años de edad.
+También tiene obligación de rendir cuenta, cuando por causas graves que calificará el Juez, la exijan el curador, o la misma persona que haya cumplido dieciséis años de edad.
 
 ###### ARTICULO 589.
 
@@ -3643,9 +3893,11 @@ La cuenta de administración comprenderá no sólo las cantidades en numerario q
 
 El tutor es responsable del valor de los créditos activos si dentro de sesenta días, contados desde el vencimiento de su plazo, no ha obtenido su pago o garantía que asegure éste, o no ha pedido judicialmente el uno o la otra.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 591.
 
-Si el incapacitado no está en posesión de algunos bienes a que tiene derecho, será responsable el tutor de la pérdida de ellos, si dentro de dos meses contados desde que tuvo noticia del derecho del incapacitado, no entabla a nombre de éste judicialmente, las acciones conducentes para recobrarlos.
+Si la persona menor de dieciocho años de edad o la persona que no tenga la capacidad para comprender el significado del hecho no está en posesión de algunos bienes a que tiene derecho, será responsable el tutor de la pérdida de ellos, si dentro de dos meses contados desde que tuvo noticia del derecho de la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho, no entabla a nombre de éste judicialmente, las acciones conducentes para recobrarlos.
 
 ###### ARTICULO 592.
 
@@ -3655,25 +3907,33 @@ Lo dispuesto en el artículo anterior se entiende sin perjuicio de la responsabi
 
 Las cuentas deben rendirse en el lugar en que se desempeña la tutela.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 594.
 
-Deben abonarse al tutor todos los gastos hechos debida y legalmente, aunque los haya anticipado de su propio caudal, y aunque de ello no haya resultado utilidad al menor, si ésto ha sido sin culpa del primero.
+Deben abonarse al tutor todos los gastos hechos debida y legalmente, aunque los haya anticipado de su propio caudal, y aunque de ello no haya resultado utilidad a la persona menor de dieciocho años de edad, si esto ha sido sin culpa del primero.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 595.
 
-Ninguna anticipación ni crédito contra el incapacitado se abonará al tutor, si excede de la mitad de la renta anual de los bienes de aquél, a menos que al efecto haya sido autorizado por el Juez con audiencia del curador.
+Ninguna anticipación ni crédito contra la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho se abonará al tutor, si excede de la mitad de la renta anual de los bienes de aquél, a menos que al efecto haya sido autorizado por el Juez con audiencia del curador.
 
 ###### ARTICULO 596.
 
 El tutor será igualmente indemnizado, según el prudente arbitrio del Juez, del daño que haya sufrido por causa de la tutela y en desempeño necesario de ella, cuando no haya intervenido de su parte culpa o negligencia.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 597.
 
-La obligación de dar cuenta no puede ser dispensada en contrato o última voluntad, ni aún por el mismo menor; y si esa dispensa se pusiere como condición, en cualquier acto se tendrá por no puesta.
+Cuando la tutela de la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho recaiga en su cónyuge, éste sólo podrá gravar o enajenar los bienes mencionados en el artículo 565, previa audiencia del curador y autorización judicial, que se concederá de acuerdo con lo dispuesto en el artículo 558.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 598.
 
-El tutor que sea reemplazado por otro, estará obligado, y lo mismo sus herederos, a rendir cuenta general de la tutela al que le reemplaza. El nuevo tutor responderá al incapacitado por los daños y perjuicios si no pidiere y tomare las cuentas de su antecesor.
+El tutor que sea reemplazado por otro, estará obligado, y lo mismo sus herederos, a rendir cuenta general de la tutela al que le reemplazan. El nuevo tutor responderá a la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho por los daños y perjuicios si no pidiere y tomare las cuentas de su antecesor.
 
 ###### ARTICULO 599.
 
@@ -3691,33 +3951,39 @@ La garantía dada por el tutor no se cancelará, sino cuando las cuentas hayan s
 
 Hasta pasado un mes de la rendición de cuentas, es nulo todo convenio entre el tutor y el pupilo, ya mayor o emancipado, relativo a la administración de la tutela o a las cuentas mismas.
 
-### CAPITULO XII. DE LA EXTINCION DE LA TUTELA
+### CAPITULO XIII. DE LA ENTREGA DE LOS BIENES
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 603.
 
 La tutela se extingue:
 
-I.- Por la muerte del pupilo o porque desaparezca su incapacidad;
+I.- Por la muerte del pupilo o porque desaparezcan en la persona las hipótesis previstas en esta ley que causan que las personas no tengan la capacidad de comprender el significado del hecho;
 
-II.- Cuando el incapacitado, sujeto a tutela, entre a la patria potestad por reconocimiento o por adopción.
+II.- Cuando la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho sujeto a tutela, entre a la patria potestad por reconocimiento o por adopción.
 
-### CAPITULO XIII. DE LA ENTREGA DE LOS BIENES
+### CAPITULO XIV. DEL CURADOR
 
 ###### ARTICULO 604.
 
-El tutor, concluída la tutela, está obligado a entregar todos los bienes del incapacitado y todos los documentos que le pertenezcan, conforme al balance que se hubiere presentado en la última cuenta aprobada.
+El tutor, concluida la tutela, está obligado a entregar todos los bienes de la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho y todos los documentos que le pertenezcan, conforme al balance que se hubiere presentado en la última cuenta aprobada.
 
 ###### ARTICULO 605.
 
 La obligación de entregar los bienes no se suspende por estar pendiente la rendición de cuentas. La entrega debe ser hecha durante el mes siguiente a la terminación de la tutela; cuando los bienes sean muy cuantiosos o estuvieren ubicados en diversos lugares, el Juez puede fijar un término prudente para su conclusión, pero, en todo caso, deberá comenzarse en el plazo antes señalado.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 606.
 
-El tutor que entre al cargo sucediendo a otro, está obligado a exigir la entrega de bienes y cuentas al que le ha precedido. Si no la exige, es responsable de todos los daños y perjuicios que por su omisión se siguieren al incapacitado.
+El tutor que entre al cargo sucediendo a otro, está obligado a exigir la entrega de bienes y cuentas al que le ha precedido. Si no la exige, es responsable de todos los daños y perjuicios que por su omisión se siguieren a la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 607.
 
-La entrega de los bienes y la cuenta de la tutela se efectuarán a expensas del incapacitado. Si para realizarse no hubiere fondos disponibles, el Juez podrá autorizar al tutor a fin de que se proporcionen los necesarios para la primera, y éste adelantará los relativos a la segunda, los cuales le serán reembolsados con los primeros fondos de que se pueda disponer.
+La entrega de los bienes y la cuenta de la tutela se efectuarán a expensas de la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho. Si para realizarse no hubiere fondos disponibles, el Juez podrá autorizar al tutor a fin de que se proporcionen los necesarios para la primera, y éste adelantará los relativos a la segunda, los cuales le serán reembolsados con los primeros fondos de que se pueda disponer.
 
 ###### ARTICULO 608.
 
@@ -3727,9 +3993,11 @@ Cuando intervenga dolo o culpa de parte del tutor, serán de su cuenta todos los
 
 El saldo que resulte en pro o en contra del tutor, producirá interés legal. En el primer caso correrá desde que previa entrega de los bienes se haga el requerimiento legal para el pago; y en el segundo, desde la rendición de cuentas, si hubiesen sido dadas dentro del término designado por la ley; y si no, desde que expire el mismo término.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 610.
 
-Cuando en la cuenta resulte alcance contra el tutor, aunque por un arreglo con el menor o sus representantes se otorguen plazos al responsable o a sus herederos para satisfacerlo, quedarán vivas las hipotecas u otras garantías dadas para la administración, hasta que se verifique el pago, a menos que se haya pactado expresamente lo contrario en el arreglo.
+Cuando en la cuenta resulte alcance contra el tutor, aunque por un arreglo con la persona menor de dieciocho años de edad o sus representantes se otorguen plazos al responsable o a sus herederos para satisfacerlo, quedarán vivas las hipotecas u otras garantías dadas para la administración, hasta que se verifique el pago, a menos que se haya pactado expresamente lo contrario en el arreglo.
 
 ###### ARTICULO 611.
 
@@ -3739,23 +4007,31 @@ Si la caución fuere de fianza, el convenio que conceda nuevos plazos al tutor, 
 
 Si no se hiciere saber el convenio al fiador, éste no permanecerá obligado.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 613.
 
-Todas las acciones por hechos relativos a la administración de la tutela, que el incapacitado pueda ejercitar contra su tutor, o contra los fiadores y garantes de éste, quedan extinguidas por el lapso de cuatro años, contados desde el día en que se cumpla la mayor edad, o desde el momento en que se hayan recibido los bienes y la cuenta de tutela, o desde que haya cesado la incapacidad en los demás casos previstos por la Ley.
+Todas las acciones por hechos relativos a la administración de la tutela, que la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho, pueda ejercitar contra su tutor, o contra los fiadores y garantes de éste, quedan extinguidas por el lapso de cuatro años, contados desde el día en que se cumpla la mayor edad, o desde el momento en que se hayan recibido los bienes y la cuenta de tutela, o desde que haya cesado la incapacidad en los demás casos previstos por la Ley.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 614.
 
-Si la tutela hubiera fenecido durante la minoridad, el menor podrá ejercitar las acciones correspondientes contra el primer tutor y los que le hubieren sucedido en el cargo, computándose entonces los términos desde el día en que llegue a la mayor edad. Tratándose de los demás incapacitados, los términos se computarán desde que cese la incapacidad.
+Si la tutela hubiera fenecido durante la minoridad, la persona menor de dieciocho años de edad podrá ejercitar las acciones correspondientes contra el primer tutor y los que le hubieren sucedido en el cargo, computándose entonces los términos desde el día en que llegue a la mayor edad. Tratándose de las demás personas que no tengan la capacidad para comprender el significado del hecho, los términos se computarán desde que cese la incapacidad.
 
-### CAPITULO XIV. DEL CURADOR
+### CAPITULO XV. DEL ESTADO DE INTERDICCION
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 615.
 
 Todos los individuos sujetos a tutela, ya sea testamentaria, legítima o dativa, además del tutor tendrán un curador, excepto en los casos de tutela a que se refieren los artículos 489 y 497.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 616.
 
-En todo caso en que se nombre al menor un tutor interino, se le nombrará curador con el mismo carácter, si no lo tuviere definitivo, o si teniéndolo se halla impedido.
+En todo caso en que se nombre a la persona menor de dieciocho años de edad un tutor interino, se le nombrará curador con el mismo carácter, si no lo tuviere definitivo, o si teniéndolo se halla impedido.
 
 ###### ARTICULO 617.
 
@@ -3779,7 +4055,9 @@ Designarán por si mismos al curador, con aprobación judicial:
 
 I.- Los comprendidos en el Artículo 493, observándose lo que allí se dispone respecto de esos nombramiento;
 
-II.- Los menores de edad emancipados por razón del matrimonio, en el caso previsto en la fracción II del artículo 637.
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+II.- Las personas menores de dieciocho años de edad emancipados por razón de matrimonio; en el caso previsto en la fracción II del artículo 637.
 
 ###### ARTICULO 622.
 
@@ -3789,21 +4067,29 @@ El curador de todos los demás individuos sujetos a tutela será nombrado por el
 
 El curador está obligado:
 
-I.- A defender los derechos del incapacitado en juicio o fuera de él, exclusivamente en el caso de que estén en oposición con los del tutor;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-II.- A vigilar la conducta del tutor y a poner en conocimiento del Juez todo aquello que considere que puede ser dañoso al incapacitado;
+I.- A defender los derechos de la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho en juicio o fuera de él, exclusivamente en el caso de que estén en oposición con los del tutor;
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+II.- A vigilar la conducta del tutor y a poner en conocimiento del Juez todo aquello que considere que puede ser dañoso a la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho;
 
 III.- A dar aviso al Juez para que se haga el nombramiento de tutor, cuando éste faltare o abandonare la tutela;
 
 IV.- A cumplir las demás obligaciones que la Ley le señale.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 624.
 
-El curador que no llene los deberes prescritos en el artículo precedente, será responsable de los daños y perjuicios que resultaren al incapacitado.
+El curador que no llene los deberes prescritos en el artículo precedente, será responsable de los daños y perjuicios que resultaren a la persona persona (sic) menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 625.
 
-Las funciones del curador cesarán cuando el incapacitado salga de la tutela; pero si sólo variaren las personas de los tutores, el curador continuará en la curaduría.
+Las funciones del curador cesarán cuando la persona persona (sic) menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho salga de la tutela; pero si sólo variaren las personas de los tutores, el curador continuará en la curaduría.
 
 ###### ARTICULO 626.
 
@@ -3819,45 +4105,57 @@ En los casos en que conforme a este Código tenga que intervenir el curador, cob
 
 Los Jueces de Primera Instancia de lo Familiar son las autoridades encargadas exclusivamente de intervenir en los asuntos relativos a la tutela. Ejercerán una sobrevigilancia sobre el conjunto de los actos del tutor, para impedir, por medio de disposiciones apropiadas, la transgresión de sus deberes.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 629.
 
-Mientras que se nombra tutor, el Juez debe dictar las medidas necesarias para que el incapacitado no sufra perjuicios en su persona o en sus intereses.
+Mientras que se nombra tutor, el Juez debe dictar las medidas necesarias para que la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho no sufra perjuicios en su persona o en sus intereses.
 
-### CAPITULO XV. DEL ESTADO DE INTERDICCION
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 630.
 
-Son nulos todos los actos de administración ejecutados y los contratos celebrados por los incapacitados, sin la autorización del tutor, salvo lo dispuesto en la Fracción IV del artículo 534.
+Son nulos todos los actos de administración ejecutados y los contratos celebrados por las personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho, sin la autorización del tutor, salvo lo dispuesto en la fracción IV del artículo 534.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 631.
 
-Son también nulos los actos de administración y los contratos celebrados por los menores emancipados, si son contrarios a las restricciones establecidas por el artículo 637.
+Son también nulos los actos de administración y los contratos celebrados por las personas menores de dieciocho años de edad emancipados, si son contrarios a las restricciones establecidas por el artículo 637.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 632.
 
-La nulidad a que se refieren los artículos anteriores, sólo puede ser alegada, sea como acción, sea como excepción, por el mismo incapacitado o por sus legítimos representantes; pero no por las personas con quienes contrató, ni por los fiadores que se hayan dado al constituirse la obligación, ni por los mancomunados en ellas.
+La nulidad a que se refieren los artículos anteriores, sólo puede ser alegada, sea como acción, sea como excepción, por la misma persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho o por sus legítimos representantes; pero no por las personas con quienes contrató, ni por los fiadores que se hayan dado al constituirse la obligación, ni por los mancomunados en ellas.
 
 ###### ARTICULO 633.
 
 La acción para pedir la nulidad prescribe en los términos en que prescriben las acciones personales o reales, según la naturaleza del acto cuya nulidad se pretende.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 634.
 
-Los menores de edad no pueden alegar la nulidad de que hablan los artículos 630 y 631, en las obligaciones que hubieren contraído sobre materias propias de la profesión, o arte en que sean peritos.
+Las personas menores de dieciocho años de edad no pueden alegar la nulidad de que hablan los artículos 630 y 631, en las obligaciones que hubieren contraído sobre materias propias de la profesión, o arte en que sean peritos.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 635.
 
-Tampoco pueden alegarla los menores, si han presentado certificados falsos del Registro Civil, para hacerse pasar como mayores o han manifestado dolosamente que lo eran.
+Tampoco pueden alegarla las personas menores de dieciocho años de edad, si han presentado certificados falsos del Registro Civil, para hacerse pasar como mayores o han manifestado dolosamente que lo eran.
 
 ## TITULO DECIMO. DE LA EMANCIPACION Y DE LA MAYOR EDAD
 
-### CAPITULO UNICO
+### CAPITULO I
+
+DE LAS MEDIDAS PROVISIONALES EN CASOS DE AUSENCIA.
 
 ###### ARTICULO 636.
 
-El matrimonio del menor de dieciocho años produce de derecho la emancipación.
-
-Aunque el matrimonio se disuelva, el cónyuge emancipado, que sea menor, no recaerá en la patria potestad.
+El matrimonio de las personas menores de dieciocho años de edad produce de derecho la emancipación. Aunque el matrimonio se disuelva, el cónyuge emancipado, que sea persona menor de dieciocho años de edad, no recaerá en la patria potestad.
 
 ###### ARTICULO 637.
 
@@ -3877,9 +4175,7 @@ El mayor de edad dispone libremente de su persona y de sus bienes.
 
 ## TITULO UNDECIMO. DE LOS AUSENTES E IGNORADOS
 
-### CAPITULO I
-
-DE LAS MEDIDAS PROVISIONALES EN CASOS DE AUSENCIA.
+### CAPITULO II. DE LA DECLARACION DE AUSENCIA
 
 ###### ARTICULO 640.
 
@@ -3893,9 +4189,11 @@ Cuando una persona haya desaparecido y se ignore el lugar donde se halle y quien
 
 Al publicarse los edictos remitirá copia a los cónsules mexicanos de aquellos lugares del extranjero en que se puede presumir que se encuentra el ausente o que se tengan noticias de él.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 643.
 
-Si el ausente tiene hijos menores, que estén bajo su patria potestad, y no hay ascendiente que deba ejercerla conforme a la Ley, ni tutor testamentario, ni legítimo, el Ministerio Público pedirá que se nombre tutor, en los términos prevenidos en los artículos 493, y 494.
+Si el ausente tiene hijos que sean personas menores de dieciocho años de edad, que estén bajo su patria potestad, y no hay ascendiente que deba ejercerla conforme a la Ley, ni tutor testamentario, ni legítimo, el Ministerio Público pedirá que se nombre tutor, en los términos prevenidos en los artículos 493 y 494.
 
 ###### ARTICULO 644.
 
@@ -3983,7 +4281,7 @@ Los edictos se publicarán por dos meses, con intervalo de quince días, en los 
 
 El representante está obligado a promover la publicación de los edictos. La falta de cumplimiento de esa obligación hace responsable al representante, de los daños y perjuicios que se sigan al ausente, y es causa legítima de remoción.
 
-### CAPITULO II. DE LA DECLARACION DE AUSENCIA
+### CAPITULO III. DE LOS EFECTOS DE LA DECLARACION DE AUSENCIA
 
 ###### ARTICULO 661.
 
@@ -4035,7 +4333,7 @@ Ambas publicaciones se repetirán cada dos años, hasta que se declare la presun
 
 El fallo que se pronuncie en el juicio de declaración de ausencia, tendrá los recursos que el Código de Procedimientos asigne para los negocios de mayor interés.
 
-### CAPITULO III. DE LOS EFECTOS DE LA DECLARACION DE AUSENCIA
+### CAPITULO IV. DE LA ADMINISTRACION DE LOS BIENES DEL AUSENTE CASADO
 
 ###### ARTICULO 671.
 
@@ -4119,7 +4417,7 @@ Muerto el que haya obtenido la posesión provisional, le sucederán sus heredero
 
 Si el ausente se presenta o se prueba su existencia antes de que sea declarada la presunción de muerte, recobrará sus bienes. Los que han tenido la posesión provisional, hacen suyos todos los frutos industriales que hayan hecho producir a esos bienes y la mitad de los frutos naturales y civiles.
 
-### CAPITULO IV. DE LA ADMINISTRACION DE LOS BIENES DEL AUSENTE CASADO
+### CAPITULO V. DE LA PRESUNCION DE MUERTE DEL AUSENTE
 
 ###### ARTICULO 690.
 
@@ -4149,7 +4447,7 @@ Si el cónyuge presente no fuere heredero, ni tuviere bienes propios, tendrá de
 
 Si el cónyuge ausente regresa o se probare su existencia, quedará restaurada la sociedad conyugal.
 
-### CAPITULO V. DE LA PRESUNCION DE MUERTE DEL AUSENTE
+### CAPITULO VI. DE LOS EFECTOS DE LA AUSENCIA RESPECTO DE LOS DERECHOS EVENTUALES DEL AUSENTE
 
 ###### ARTICULO 697.
 
@@ -4201,7 +4499,7 @@ La sentencia que declare la presunción de muerte de un ausente casado, pone té
 
 En el caso previsto por el artículo 695, el cónyuge sólo tendrá derecho a los alimentos.
 
-### CAPITULO VI. DE LOS EFECTOS DE LA AUSENCIA RESPECTO DE LOS DERECHOS EVENTUALES DEL AUSENTE
+### CAPITULO VII. DISPOSICIONES GENERALES
 
 ###### ARTICULO 707.
 
@@ -4223,7 +4521,9 @@ Lo dispuesto en los dos artículos anteriores debe entenderse sin perjuicio de l
 
 Los que hayan entrado en la herencia harán suyos los frutos percibidos de buena fe, mientras el ausente no comparezca sus acciones no sean ejercitadas por sus representantes, o por los que por contrato o cualquiera otra causa tengan con él relaciones jurídicas.
 
-### CAPITULO VII. DISPOSICIONES GENERALES
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
 
 ###### ARTICULO 712.
 
@@ -4239,9 +4539,7 @@ El Ministerio Público velará por los intereses del ausente, será oído en tod
 
 ## TITULO DUODECIMO. DEL PATRIMONIO DE LA FAMILIA
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
+### CAPITULO I. DE LOS BIENES INMUEBLES
 
 ###### ARTICULO 715.
 
@@ -4429,7 +4727,7 @@ Están fuera del comercio por su naturaleza las que no pueden ser poseídas por 
 
 ## TITULO SEGUNDO. CLASIFICACION DE LOS BIENES
 
-### CAPITULO I. DE LOS BIENES INMUEBLES
+### CAPITULO II. DE LOS BIENES MUEBLES
 
 ###### ARTICULO 742.
 
@@ -4465,7 +4763,7 @@ XIII.- El material rodante de los ferrocarriles, las líneas telefónicas y tele
 
 Los bienes muebles, por su naturaleza, que se hayan considerado como inmuebles conforme a lo dispuesto en varias fracciones del artículo anterior, recobrarán su calidad de muebles cuando el mismo dueño los separe del edificio; salvo el caso de que en el valor de éste se haya computado el de aquellos, para constituir algún derecho real a favor de un tercero.
 
-### CAPITULO II. DE LOS BIENES MUEBLES
+### CAPITULO III. DE LOS BIENES CONSIDERADOS SEGUN LAS PERSONAS A QUIENES PERTENECEN
 
 ###### ARTICULO 744.
 
@@ -4517,7 +4815,7 @@ Los bienes muebles son fungibles o no fungibles. Pertenecen a la primera clase l
 
 Los no fungibles son los que no pueden ser sustituidos por otros de la misma especie, calidad y cantidad.
 
-### CAPITULO III. DE LOS BIENES CONSIDERADOS SEGUN LAS PERSONAS A QUIENES PERTENECEN
+### CAPITULO IV. DE LOS BIENES MOSTRENCOS
 
 ###### ARTICULO 756.
 
@@ -4559,7 +4857,7 @@ Son bienes de propiedad de los particulares todas las cosas cuyo dominio les per
 
 Los extranjeros y las personas morales para adquirir la propiedad de bienes inmuebles, observarán lo dispuesto en el artículo 27 de la Constitución de los Estados Unidos Mexicanos y sus Leyes reglamentarias.
 
-### CAPITULO IV. DE LOS BIENES MOSTRENCOS
+### CAPITULO V. DE LOS BIENES VACANTES
 
 ###### ARTICULO 766.
 
@@ -4601,7 +4899,7 @@ Cuando por alguna circunstancia especial fuere necesario, a juicio de autoridad,
 
 La venta se hará siempre en almoneda pública.
 
-### CAPITULO V. DE LOS BIENES VACANTES
+### CAPITULO UNICO
 
 ###### ARTICULO 776.
 
@@ -4625,7 +4923,7 @@ El que se apodere de un bien vacante sin cumplir lo prevenido en este Capítulo,
 
 ## TITULO TERCERO. DE LA POSESION
 
-### CAPITULO UNICO
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 781.
 
@@ -4833,7 +5131,7 @@ Se pierde la posesión de los derechos cuando es imposible ejercitarlos o cuando
 
 ## TITULO CUARTO. DE LA PROPIEDAD
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO II. DE LA APROPIACION DE LOS ANIMALES
 
 ###### ARTICULO 821.
 
@@ -4921,7 +5219,7 @@ La distancia de que habla el artículo anterior se mide desde la línea de separ
 
 El propietario de un edificio está obligado a construir sus tejados y azoteas de tal manera que las aguas pluviales no caigan sobre el suelo o edificio vecino.
 
-### CAPITULO II. DE LA APROPIACION DE LOS ANIMALES
+### CAPITULO III. DE LOS TESOROS
 
 ###### ARTICULO 842.
 
@@ -5009,7 +5307,7 @@ Pero los dueños pueden recuperarlos si indemnizan los daños y perjuicios que h
 
 La apropiación de los animales domésticos se rige por las disposiciones contenidas en el Título de los bienes mostrencos.
 
-### CAPITULO III. DE LOS TESOROS
+### CAPITULO IV. DEL DERECHO DE ACCESION
 
 ###### ARTICULO 863.
 
@@ -5057,7 +5355,7 @@ Cuando uno tuviere la propiedad y otro el usufructo de una finca en que se haya 
 
 Si el propietario encuentra el tesoro en la finca o terreno cuyo usufructo pertenece a otra persona, ésta no tendrá parte alguna en el tesoro, pero sí derecho de exigir del propietario una indemnización por los daños y perjuicios que origine la interrupción del usufructo, en la parte ocupada o demolida para buscar el tesoro; la indemnización se pagará aún cuando no se encuentre el tesoro.
 
-### CAPITULO IV. DEL DERECHO DE ACCESION
+### CAPITULO V. DEL DOMINIO DE LAS AGUAS
 
 ###### ARTICULO 874.
 
@@ -5257,7 +5555,7 @@ Si la especificación se hizo de mala fe, el dueño de la materia empleada tiene
 
 La mala fe en los casos de mezcla o confusión se calificará conforme a lo dispuesto en los artículos 892 y 893.
 
-### CAPITULO V. DEL DOMINIO DE LAS AGUAS
+### CAPITULO VI. DE LA COPROPIEDAD
 
 ###### ARTICULO 921.
 
@@ -5281,7 +5579,7 @@ El uso y aprovechamiento de las aguas de dominio público se regirá por la Ley 
 
 El propietario de un predio que sólo con muy costosos trabajos pueda proveerse del agua que necesite para utilizar convenientemente ese predio, tiene derecho de exigir de los dueños de los predios vecinos que tengan aguas sobrantes, que le proporcionen la necesaria, mediante el pago de una indemnización fijada por peritos.
 
-### CAPITULO VI. DE LA COPROPIEDAD
+### CAPITULO I. DEL USUFRUCTO EN GENERAL
 
 ###### ARTICULO 926.
 
@@ -5475,7 +5773,7 @@ Son aplicables a la división entre partícipes las reglas concernientes a la di
 
 ## TITULO QUINTO. DEL USUFRUCTO, DEL USO Y DE LA HABITACION
 
-### CAPITULO I. DEL USUFRUCTO EN GENERAL
+### CAPITULO II. DE LOS DERECHOS DEL USUFRUCTUARIO
 
 ###### ARTICULO 967.
 
@@ -5513,7 +5811,7 @@ Los derechos y obligaciones del usufructuario y del propietario se arreglan, en 
 
 Las corporaciones que no pueden adquirir, poseer o administrar bienes raíces, tampoco pueden tener usufructo constituído sobre bienes de esta clase.
 
-### CAPITULO II. DE LOS DERECHOS DEL USUFRUCTUARIO
+### CAPITULO III. DE LAS OBLIGACIONES DEL USUFRUCTUARIO
 
 ###### ARTICULO 976.
 
@@ -5583,7 +5881,7 @@ El propietario de bienes en que otro tenga el usufructo, puede enajenarlos, con 
 
 El usufructuario goza del derecho del tanto. Es aplicable lo dispuesto en el artículo 960, en lo que se refiere a la forma para dar el aviso de enajenación y al tiempo para hacer uso del derecho del tanto.
 
-### CAPITULO III. DE LAS OBLIGACIONES DEL USUFRUCTUARIO
+### CAPITULO IV. DE LOS MODOS DE EXTINGUIRSE EL USUFRUCTO
 
 ###### ARTICULO 993.
 
@@ -5719,7 +6017,7 @@ Si el pleito interesa al mismo tiempo al dueño y al usufructuario, contribuirá
 
 Si el usufructuario, sin citación del propietario, o éste sin la de aquél, ha seguido un pleito, la sentencia favorable aprovecha al no citado, y la adversa no le perjudica.
 
-### CAPITULO IV. DE LOS MODOS DE EXTINGUIRSE EL USUFRUCTO
+### CAPITULO V. DEL USO Y DE LA HABITACION
 
 ###### ARTICULO 1025.
 
@@ -5783,7 +6081,7 @@ El usufructo no se extingue por el mal uso que haga el usufructuario de la cosa 
 
 Terminado el usufructo, los contratos que respecto de él haya celebrado el usufructuario, no obligan al propietario, y éste entrará en posesión de la cosa, sin que contra él tengan derecho los que contrataron con el usufructuario, para pedirle indemnización por la disolución de sus contratos, ni por las estipulaciones de éstos, que sólo pueden hacer valer contra del usufructuario y sus herederos, salvo lo dispuesto en el artículo 978.
 
-### CAPITULO V. DEL USO Y DE LA HABITACION
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 1036.
 
@@ -5819,7 +6117,7 @@ Si los frutos que quedan al propietario no alcanzan a cubrir los gastos y cargas
 
 ## TITULO SEXTO. DE LAS SERVIDUMBRES
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO II. DE LAS SERVIDUMBRES LEGALES
 
 ###### ARTICULO 1044.
 
@@ -5867,7 +6165,7 @@ Las servidumbres son indivisibles. Si el predio sirviente se divide entre muchos
 
 Las servidumbres traen su origen de la voluntad del hombre o de la Ley; las primeras se llaman voluntarias y las segundas legales.
 
-### CAPITULO II. DE LAS SERVIDUMBRES LEGALES
+### CAPITULO III. DE LA SERVIDUMBRE LEGAL DE DESAGÜE
 
 ###### ARTICULO 1055.
 
@@ -5881,7 +6179,7 @@ Son aplicables a las servidumbres legales lo dispuesto en los artículos 1106 al
 
 Todo lo concerniente a las servidumbres establecidas para la utilidad pública o comunal, se regirá por las Leyes y Reglamentos especiales y, en su defecto, por las disposiciones de este Título.
 
-### CAPITULO III. DE LA SERVIDUMBRE LEGAL DE DESAGÜE
+### CAPITULO IV. DE LA SERVIDUMBRE LEGAL DEL ACUEDUCTO
 
 ###### ARTICULO 1058.
 
@@ -5911,7 +6209,7 @@ Todos los propietarios que participen del beneficio proveniente de las obras de 
 
 Si las aguas que pasan al predio sirviente se han vuelto insalubres por los usos domésticos o industriales que de ellas se haya hecho, deberán volverse inofensivas a costa del dueño del predio dominante.
 
-### CAPITULO IV. DE LA SERVIDUMBRE LEGAL DEL ACUEDUCTO
+### CAPITULO V. DE LA SERVIDUMBRE LEGAL DE PASO
 
 ###### ARTICULO 1065.
 
@@ -5999,7 +6297,7 @@ La servidumbre de acueducto no obsta para que el dueño del predio sirviente pue
 
 Cuando para el mejor aprovechamiento del agua de que se tiene derecho de disponer, fuere necesario construir una presa y el que haya de hacerlo no sea dueño del terreno en que se necesite apoyarla, puede pedir que se establezca la servidumbre de un estribo de presa, previa la indemnización correspondiente.
 
-### CAPITULO V. DE LA SERVIDUMBRE LEGAL DE PASO
+### CAPITULO VI. DE LAS SERVIDUMBRES VOLUNTARIAS
 
 ###### ARTICULO 1084.
 
@@ -6049,7 +6347,7 @@ Si fuere indispensable para construir o reparar algún edificio pasar materiales
 
 Cuando para establecer comunicaciones telefónicas particulares entre dos o más fincas, o para conducir energía eléctrica a una finca, sea necesario colocar postes y tender alambres en terrenos de una finca ajena, el dueño de ésta tiene obligación de permitirlo, mediante la indemnización correspondiente. Esta servidumbre trae consigo el derecho de tránsito de las personas y el de conducción de los materiales necesarios para la construcción y vigilancia de la línea.
 
-### CAPITULO VI. DE LAS SERVIDUMBRES VOLUNTARIAS
+### CAPITULO VII. COMO SE ADQUIEREN LAS SERVIDUMBRES VOLUNTARIAS
 
 ###### ARTICULO 1096.
 
@@ -6067,7 +6365,7 @@ Si fueren varios los propietarios de un predio, no se podrán imponer servidumbr
 
 Si siendo varios los propietarios, uno sólo de ellos adquiere una servidumbre sobre otro predio, a favor del común, de ella podrán aprovecharse todos los propietarios, quedando obligados a los gravámenes naturales que traiga consigo y a los pactos con que se haya adquirido.
 
-### CAPITULO VII. COMO SE ADQUIEREN LAS SERVIDUMBRES VOLUNTARIAS
+### CAPITULO VIII. DERECHOS Y OBLIGACIONES DE LOS PROPIETARIOS DE LOS PREDIOS ENTRE LOS QUE ESTA CONSTITUIDA ALGUNA SERVIDUMBRE VOLUNTARIA
 
 ###### ARTICULO 1100.
 
@@ -6089,7 +6387,7 @@ La existencia de un signo aparente de servidumbre entre dos fincas, establecido 
 
 Al constituirse una servidumbre se entienden concedidos todos los medios necesarios para su uso; y extinguida aquella cesan también estos derechos accesorios.
 
-### CAPITULO VIII. DERECHOS Y OBLIGACIONES DE LOS PROPIETARIOS DE LOS PREDIOS ENTRE LOS QUE ESTA CONSTITUIDA ALGUNA SERVIDUMBRE VOLUNTARIA
+### CAPITULO IX. DE LA EXTINCION DE LAS SERVIDUMBRES
 
 ###### ARTICULO 1105.
 
@@ -6131,7 +6429,7 @@ Si el dueño del predio dominante se opone a las obras de que trata el artículo
 
 Cualquiera duda sobre el uso y extensión de la servidumbre, se decidirá en el sentido menos gravoso para el predio sirviente, sin imposibilitar o hacer difícil el uso de la servidumbre.
 
-### CAPITULO IX. DE LA EXTINCION DE LAS SERVIDUMBRES
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 1115.
 
@@ -6185,7 +6483,7 @@ El modo de usar la servidumbre puede prescribirse en el tiempo y de la manera qu
 
 ## TITULO SEPTIMO. DE LA PRESCRIPCION
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO II. DE LA PRESCRIPCION POSITIVA
 
 ###### ARTICULO 1122.
 
@@ -6199,9 +6497,11 @@ La adquisición de bienes en virtud de la posesión, se llama prescripción posi
 
 Solo pueden prescribirse los bienes y obligaciones que están en el comercio, salvo las excepciones establecidas por la Ley.
 
-###### ARTICULO 1125.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-Pueden adquirir por prescripción positiva todos los que son capaces de adquirir por cualquier otro título; los menores y demás incapacitados pueden hacerlo por medio de sus legítimos representantes.
+###### ARTÍCULO 1125.
+
+Pueden adquirir por prescripción positiva todos los que son capaces de adquirir por cualquier otro Título; las personas menores de dieciocho años de edad y personas que no tengan la capacidad para comprender el significado del hecho pueden hacerlo por medio de sus legítimos representantes.
 
 ###### ARTICULO 1126.
 
@@ -6251,7 +6551,7 @@ El que prescriba puede completar el término necesario para su prescripción reu
 
 Las disposiciones de este Título, relativas al tiempo y demás requisitos necesarios para la prescripción, sólo dejarán de observarse en los casos en que la Ley prevenga expresamente otra cosa.
 
-### CAPITULO II. DE LA PRESCRIPCION POSITIVA
+### CAPITULO III. DE LA PRESCRIPCION NEGATIVA
 
 ###### ARTICULO 1138.
 
@@ -6297,7 +6597,7 @@ El que hubiere poseído bienes inmuebles por el tiempo y las condiciones exigida
 
 La sentencia ejecutoria que declare procedente la acción de prescripción, se inscribirá en el Registro Público y servirá de título de propiedad al poseedor.
 
-### CAPITULO III. DE LA PRESCRIPCION NEGATIVA
+### CAPITULO IV. DE LA SUSPENSION DE LA PRESCRIPCION
 
 ###### ARTICULO 1145.
 
@@ -6345,15 +6645,17 @@ Respecto a las obligaciones con pensión o renta, el tiempo de la prescripción 
 
 Prescribe en cinco años la obligación de dar cuentas. En igual término se prescriben las obligaciones líquidas que resulten de la rendición de cuentas. En el primer caso la prescripción comienza a correr desde el día en que el obligado termina su administración; en el segundo caso, desde el día en que la liquidación es aprobada por los interesados o por sentencia que cause ejecutoria.
 
-### CAPITULO IV. DE LA SUSPENSION DE LA PRESCRIPCION
+### CAPITULO V. DE LA INTERRUPCION DE LA PRESCRIPCION
 
 ###### ARTICULO 1152.
 
 La prescripción puede comenzar y correr contra cualquiera persona, salvas las siguientes restricciones.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 1153.
 
-La prescripción no puede comenzar ni correr contra los incapacitados, sino cuando se haya discernido su tutela conforme a las Leyes. Los incapacitados tendrán derecho de exigir responsabilidad a sus tutores cuando por culpa de éstos no se hubiere interrumpido la prescripción.
+La prescripción no puede comenzar ni correr contra las personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho, sino cuando se haya discernido su tutela conforme a las leyes. Las personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho tendrán derecho de exigir responsabilidad a sus tutores cuando por culpa de éstos no se hubiere interrumpido la prescripción.
 
 ###### ARTICULO 1154.
 
@@ -6363,7 +6665,9 @@ I.- Entre ascendientes y descendientes, durante la patria potestad, respecto de 
 
 II.- Entre los consortes;
 
-III.- Entre los incapacitados y sus tutores o curadores, mientras dura la tutela;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+III.- Entre las personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho y sus tutores o curadores, mientras dura la tutela;
 
 IV.- Entre copropietarios o coposeedores, respecto del bien común;
 
@@ -6371,7 +6675,7 @@ V.- Contra los ausentes del Estado, que se encuentren en servicio público;
 
 VI.- Contra los militares en servicio activo en tiempo de guerra, tanto fuera como dentro del Estado de Baja California.
 
-### CAPITULO V. DE LA INTERRUPCION DE LA PRESCRIPCION
+### CAPITULO VI. DE LA MANERA DE CONTAR EL TIEMPO PARA LA PRESCRIPCION
 
 ###### ARTICULO 1155.
 
@@ -6415,7 +6719,7 @@ La interrupción de la prescripción a favor de alguno de los acreedores solidar
 
 El efecto de la interrupción es inutilizar para la prescripción, todo el tiempo corrido antes de ella.
 
-### CAPITULO VI. DE LA MANERA DE CONTAR EL TIEMPO PARA LA PRESCRIPCION
+### CAPITULO I. DE LOS TESTAMENTOS EN GENERAL
 
 ###### ARTICULO 1163.
 
@@ -6499,7 +6803,7 @@ El derecho concedido en el artículo 1179, cesa si la enajenación se hace a un 
 
 ## TITULO SEGUNDO. DE LA SUCESION POR TESTAMENTO
 
-### CAPITULO I. DE LOS TESTAMENTOS EN GENERAL
+### CAPITULO II. DE LA CAPACIDAD PARA TESTAR
 
 ###### ARTICULO 1182.
 
@@ -6543,17 +6847,19 @@ Si un testamento se pierde por un evento ignorado por el testador, o por haber s
 
 La expresión de una causa contraria a derecho, aunque sea verdadera, se tendrá por no escrita.
 
-### CAPITULO II. DE LA CAPACIDAD PARA TESTAR
+### CAPITULO III. DE LA CAPACIDAD PARA HEREDAR
 
 ###### ARTICULO 1192.
 
 Pueden testar todos aquellos a quienes la Ley no prohibe expresamente el ejercicio de ese derecho.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 1193.
 
-Están incapacitados para testar:
+No tienen capacidad para testar:
 
-I.- Los menores que no han cumplido dieciséis años de edad, ya sean hombres o mujeres;
+I.- Las personas que no han cumplido dieciséis años de edad, ya sean hombres o mujeres;
 
 II.- Los que habitual o accidentalmente no disfruten de su cabal juicio.
 
@@ -6581,7 +6887,7 @@ Firmarán el acta, además del notario y de los testigos, el Juez y los médicos
 
 Para juzgar de la capacidad del testador se atenderá especialmente al estado en que se halle al hacer el testamento.
 
-### CAPITULO III. DE LA CAPACIDAD PARA HEREDAR
+### CAPITULO IV. DE LAS CONDICIONES QUE PUEDEN PONERSE EN LOS TESTAMENTOS
 
 ###### ARTICULO 1200.
 
@@ -6649,13 +6955,17 @@ La capacidad para suceder por testamento, sólo se recobra si después de conoci
 
 En los casos de intestado, los descendientes del incapaz de heredar conforme al artículo 1203, heredarán al autor de la sucesión, no debiendo ser excluídos por falta de su padre; pero éste no puede, en ningún caso, tener en los bienes de la sucesión, el usufructo, ni la administración que la Ley acuerda a los padres sobre los bienes de sus hijos.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 1208.
 
-Por presunción de influjo contrario a la libertad del autor de la herencia, son incapaces de adquirir por testamento del menor, los tutores y curadores, a no ser que sean instituídos antes de ser nombrados para el cargo o después de la mayor edad de aquel, estando ya aprobadas las cuentas de la tutela.
+Por presunción de influjo contrario a la libertad del autor de la herencia, son incapaces de adquirir por testamento de las personas menores de dieciocho años de edad, los tutores y curadores, a no ser que sean instituidos antes de ser nombrados para el cargo o después de la mayor edad de aquel, estando ya aprobadas las cuentas de la tutela.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 1209.
 
-La incapacidad a que se refiere el artículo anterior no comprende a los ascendientes ni hermanos del menor, observándose en su caso lo dispuesto en la Fracción X del artículo 1203.
+La incapacidad a que se refiere el artículo anterior no comprende a los ascendientes ni hermanos de la persona menor de dieciocho años de edad, observándose en su caso lo dispuesto en la fracción X del artículo 1203.
 
 ###### ARTICULO 1210.
 
@@ -6741,7 +7051,9 @@ No puede deducirse acción para declarar la incapacidad, pasados tres años desd
 
 Si el que entró en posesión de la herencia y la pierde después por incapacidad, hubiere enajenado o gravado todo o parte de los bienes antes de ser emplazado en el juicio en que se discuta su incapacidad, y aquel con quien contrató hubiere tenido buena fe, el contrato subsistirá; más el heredero incapaz estará obligado a indemnizar al legítimo de todos los daños y perjuicios.
 
-### CAPITULO IV. DE LAS CONDICIONES QUE PUEDEN PONERSE EN LOS TESTAMENTOS
+### CAPITULO V. DE LOS BIENES DE QUE SE PUEDE DISPONER POR TESTAMENTO Y DE LOS TESTAMENTOS INOFICIOSOS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JUNIO DE 1975)</small>
 
 ###### ARTICULO 1231.
 
@@ -6843,17 +7155,15 @@ Cuando el legado debe concluir en un día que es seguro que ha de llegar, se ent
 
 Si el legado consistiere en prestación periódica, el legatario hará suyas todas las cantidades vencidas hasta el día señalado.
 
-### CAPITULO V. DE LOS BIENES DE QUE SE PUEDE DISPONER POR TESTAMENTO Y DE LOS TESTAMENTOS INOFICIOSOS
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JUNIO DE 1975)</small>
+### CAPITULO VI. DE LA INSTITUCION DE HEREDERO
 
 ###### ARTICULO 1255.
 
 El testador debe dejar alimentos a las personas que se mencionan en las fracciones siguientes:
 
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 1975)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-I.- A los descendientes menores de 18 años respecto de los cuales estaba obligado a proporcionar alimentos al momento de la muerte;
+I.- A los descendientes que sean personas menores de dieciocho años de edad respecto de los cuales estaba obligado a proporcionar alimentos al momento de la muerte;
 
 > <small>(REFORMADA, P.O. 20 DE JUNIO DE 1975)</small>
 
@@ -6869,7 +7179,9 @@ IV.- A los ascendientes;
 
 V.- A la persona con quien el testador vivió como si fuera su cónyuge durante los 5 años que precedieron inmediatamente a su muerte o con quien tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato y que el superviviente esté impedido de trabajar y no tenga bienes suficientes. Este derecho sólo subsistirá mientras la persona de que se trate no contraiga nupcias y observe buena conducta. Si fueren varias las personas con quien el testador vivió como si fuera su cónyuge, ninguna de ellas, tendrá derecho a alimentos;
 
-VI.- A los hermanos y demás parientes, colaterales dentro del cuarto grado, si están incapacitados o mientras que no cumplan dieciocho años, si no tienen bienes para subvenir a sus necesidades.
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+VI.- A los hermanos y demás parientes, colaterales dentro del cuarto grado, si son personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho, si no tienen bienes para subvenir a sus necesidades.
 
 ###### ARTICULO 1256.
 
@@ -6915,7 +7227,7 @@ La pensión alimenticia es carga de la masa hereditaria, excepto cuando el testa
 
 No obstante lo dispuesto en el artículo 1262, el hijo póstumo tendrá derecho a percibir íntegra la porción que le correspondería como heredero legítimo si no hubiere testamento, a menos que el testador hubiere dispuesto expresamente otra cosa.
 
-### CAPITULO VI. DE LA INSTITUCION DE HEREDERO
+### CAPITULO VII. DE LOS LEGADOS
 
 ###### ARTICULO 1265.
 
@@ -6969,7 +7281,7 @@ Si entre varios individuos del mismo nombre y circunstancias no pudiere saberse 
 
 Toda disposición en favor de persona incierta o sobre cosa que no pueda identificarse será nula, a menos que por algún evento puedan resultar ciertas.
 
-### CAPITULO VII. DE LOS LEGADOS
+### CAPITULO VIII. DE LAS SUBSTITUCIONES
 
 ###### ARTICULO 1278.
 
@@ -7309,7 +7621,7 @@ Sólo duran veinte años los legados de que trata el artículo anterior, si fuer
 
 Si la cosa legada estuviere sujeta a usufructo, uso o habitación, el legatario deberá prestarlos hasta que legalmente se extingan, sin que el heredero tenga obligación de ninguna clase.
 
-### CAPITULO VIII. DE LAS SUBSTITUCIONES
+### CAPITULO IX. DE LA NULIDAD, REVOCACION Y CADUCIDAD DE LOS TESTAMENTOS
 
 ###### ARTICULO 1359.
 
@@ -7365,7 +7677,7 @@ Si la carga fuere perpetua, el heredero podrá capitalizarla e imponer el capita
 
 La capitalización e imposición del capital se hará interviniendo la autoridad correspondiente, y con audiencia de los interesados y del Ministerio Público.
 
-### CAPITULO IX. DE LA NULIDAD, REVOCACION Y CADUCIDAD DE LOS TESTAMENTOS
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 1371.
 
@@ -7435,7 +7747,9 @@ La disposición testamentaria que contenga condición de suceso pasado o present
 
 ## TITULO TERCERO. DE LA FORMA DE LOS TESTAMENTOS
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO II. DEL TESTAMENTO PUBLICO ABIERTO
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2002)</small>
 
 ###### ARTICULO 1386.
 
@@ -7477,11 +7791,17 @@ No pueden ser testigos del testamento:
 
 I.- Los amanuenses del notario que lo autorice;
 
-II.- Los menores de dieciséis años;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-III.- Los que no estén en su sano juicio;
+II.- Las personas menores de dieciséis años de edad;
 
-IV.- Los ciegos, sordos o mudos;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+III.- Las personas que no tengan la capacidad para comprender el significado del hecho;
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+IV.- Los ciegos;
 
 V.- Los que no entiendan el idioma que habla el testador;
 
@@ -7521,9 +7841,7 @@ Lo dispuesto en el artículo que precede se observará también por cualquiera q
 
 Si los interesados están ausentes o son desconocidos, la noticia se dará al Juez.
 
-### CAPITULO II. DEL TESTAMENTO PUBLICO ABIERTO
-
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2002)</small>
+### CAPITULO III. TESTAMENTO PUBLICO CERRADO
 
 ###### ARTICULO 1398.
 
@@ -7575,7 +7893,7 @@ Las formalidades se practicarán acto continuo y el notario dará fe de haberse 
 
 Faltando alguna de las referidas solemnidades, quedará el testamento sin efecto, y el notario será responsable de los daños y perjuicios e incurrirá, además, en la pena de pérdida de oficio.
 
-### CAPITULO III. TESTAMENTO PUBLICO CERRADO
+### CAPITULO IV. DEL TESTAMENTO OLOGRAFO
 
 ###### ARTICULO 1408.
 
@@ -7693,7 +8011,23 @@ El testamento cerrado quedará sin efecto siempre que se encuentre roto el plieg
 
 Toda persona que tuviere en su poder un testamento cerrado y no lo presente, como está prevenido en los artículos 1395 y 1396, o lo sustraiga dolosamente de los bienes del finado, incurrirá en la pena, si fuere heredero por intestado, de pérdida del derecho que pudiera tener, sin perjuicio de la que le corresponda conforme al Código Penal.
 
-### CAPITULO IV. DEL TESTAMENTO OLOGRAFO
+### CAPITULO IV BIS. DEL TESTAMENTO PUBLICO SIMPLIFICADO
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2002)</small>
+
+ARTICULO 1451 BIS.- Testamento público simplificado es aquel que se otorga ante Notario respecto de un inmueble destinado o que vaya a destinarse a vivienda por el adquiriente en la misma escritura que consigne su adquisición o en la que se consigne la regularización de un inmueble que lleven a cabo las autoridades del Estado de Baja California, o cualquier dependencia o entidad de la administración pública federal, o en acto posterior, de conformidad con lo siguiente:
+
+I.- Que el precio del inmueble o su valor de avalúo no exceda del equivalente a 7,000 salarios mínimos general vigente en el Estado, al momento de la adquisición. En los casos de regularización de inmuebles que lleven a cabo las dependencias y entidades a que se refiere el párrafo anterior, no importará su monto;
+
+II.- El Testador instituirá uno o más legatarios con derecho de acrecer, salvo designación de sustitutos. Para el caso de que cuando se llevare a cabo la protocolización notarial de la adquisición en favor de los legatarios, éstos fueren incapaces y no estuvieren sujetos a patria potestad o tutela, el testador también podrá designarles un representante especial que firme el instrumento notarial correspondiente a cuenta de los incapaces;
+
+III.- Si hubiere pluralidad de adquirientes del inmueble cada copropietario podrá instituir uno o más legatarios respecto de su porción. Cuando el testador estuviere casado bajo el régimen de sociedad conyugal, su cónyuge podrá instituir uno o más legatarios en el mismo instrumento, por la porción que le corresponda. En los supuestos a que se refiere este artículo no se aplicará lo dispuesto por el artículo 1183 de este Código;
+
+IV.- Los legatarios recibirán el legado con la obligación de dar alimentos a los acreedores alimentarios, si los hubiere, en la proporción que el valor del legado represente en la totalidad del acervo hereditario de los bienes del autor de la sucesión;
+
+V.- Los legatarios podrán reclamar directamente la entrega del inmueble y no le serán aplicables las disposiciones de los artículos 1600, 1657 y demás relativos de este Código; y
+
+VI.- Fallecido el autor de la sucesión, la titulación notarial de la adquisición por los legatarios, se hará en los términos del artículo 214 de la Ley del Notariado para el Estado de Baja California.
 
 ###### ARTICULO 1437.
 
@@ -7761,25 +8095,9 @@ El encargado del Registro Público no proporcionará informes acerca del testame
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 28 DE JUNIO DE 2002)</small>
 
-### CAPITULO IV BIS. DEL TESTAMENTO PUBLICO SIMPLIFICADO
-
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2002)</small>
-
-ARTICULO 1451 BIS.- Testamento público simplificado es aquel que se otorga ante Notario respecto de un inmueble destinado o que vaya a destinarse a vivienda por el adquiriente en la misma escritura que consigne su adquisición o en la que se consigne la regularización de un inmueble que lleven a cabo las autoridades del Estado de Baja California, o cualquier dependencia o entidad de la administración pública federal, o en acto posterior, de conformidad con lo siguiente:
-
-I.- Que el precio del inmueble o su valor de avalúo no exceda del equivalente a 7,000 salarios mínimos general vigente en el Estado, al momento de la adquisición. En los casos de regularización de inmuebles que lleven a cabo las dependencias y entidades a que se refiere el párrafo anterior, no importará su monto;
-
-II.- El Testador instituirá uno o más legatarios con derecho de acrecer, salvo designación de sustitutos. Para el caso de que cuando se llevare a cabo la protocolización notarial de la adquisición en favor de los legatarios, éstos fueren incapaces y no estuvieren sujetos a patria potestad o tutela, el testador también podrá designarles un representante especial que firme el instrumento notarial correspondiente a cuenta de los incapaces;
-
-III.- Si hubiere pluralidad de adquirientes del inmueble cada copropietario podrá instituir uno o más legatarios respecto de su porción. Cuando el testador estuviere casado bajo el régimen de sociedad conyugal, su cónyuge podrá instituir uno o más legatarios en el mismo instrumento, por la porción que le corresponda. En los supuestos a que se refiere este artículo no se aplicará lo dispuesto por el artículo 1183 de este Código;
-
-IV.- Los legatarios recibirán el legado con la obligación de dar alimentos a los acreedores alimentarios, si los hubiere, en la proporción que el valor del legado represente en la totalidad del acervo hereditario de los bienes del autor de la sucesión;
-
-V.- Los legatarios podrán reclamar directamente la entrega del inmueble y no le serán aplicables las disposiciones de los artículos 1600, 1657 y demás relativos de este Código; y
-
-VI.- Fallecido el autor de la sucesión, la titulación notarial de la adquisición por los legatarios, se hará en los términos del artículo 214 de la Ley del Notariado para el Estado de Baja California.
-
 ### CAPITULO V. DEL TESTAMENTO PRIVADO
+
+### CAPITULO VI. DEL TESTAMENTO MILITAR
 
 ###### ARTICULO 1452.
 
@@ -7857,7 +8175,7 @@ Lo dispuesto en el artículo anterior se observará también en el caso de ausen
 
 Sabiéndose el lugar donde se hallan los testigos, serán examinados por exhorto.
 
-### CAPITULO VI. DEL TESTAMENTO MILITAR
+### CAPITULO VII. DEL TESTAMENTO MARITIMO
 
 ###### ARTICULO 1466.
 
@@ -7875,7 +8193,7 @@ Los testamentos otorgados por escrito, conforme a este Capítulo, deberán ser e
 
 Si el testamento hubiere sido otorgado de palabra, los testigos instruirán de él desde luego al jefe de la corporación, quien dará parte en el acto a la Secretaría de la Defensa Nacional, y ésta a la autoridad judicial competente, a fin de que proceda, teniendo en cuenta lo dispuesto en los artículos 1458 al 1465.
 
-### CAPITULO VII. DEL TESTAMENTO MARITIMO
+### CAPITULO VIII. DEL TESTAMENTO HECHO EN PAIS EXTRANJERO
 
 ###### ARTICULO 1470.
 
@@ -7917,7 +8235,7 @@ El testamento marítimo, solamente producirá efectos legales falleciendo el tes
 
 Si el testador desembarca en un lugar donde no haya agente diplomático o consular, y no se sabe si ha muerto, ni la fecha del fallecimiento, se procederá conforme a lo dispuesto en el Título XI del Libro Primero.
 
-### CAPITULO VIII. DEL TESTAMENTO HECHO EN PAIS EXTRANJERO
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 1480.
 
@@ -7945,7 +8263,7 @@ El papel en que se extiendan los testamentos otorgados ante los agentes diplomá
 
 ## TITULO CUARTO. DE LA SUCESION LEGITIMA
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO II. DE LA SUCESION DE LOS DESCENDIENTES
 
 ###### ARTICULO 1486.
 
@@ -7991,7 +8309,7 @@ Los parientes que se hallaren en el mismo grado, heredarán por partes iguales.
 
 Las líneas y grados de parentesco se arreglarán por las disposiciones contenidas en el Capítulo I, del Título VI, Libro Primero.
 
-### CAPITULO II. DE LA SUCESION DE LOS DESCENDIENTES
+### CAPITULO III. DE LA SUCESION DE LOS ASCENDIENTES
 
 ###### ARTICULO 1494.
 
@@ -8033,7 +8351,7 @@ En el régimen de adopción plena se seguirán las reglas aplicables al parentes
 
 Si el intestado no fuere absoluto se deducirá del total de la herencia la parte de que legalmente haya dispuesto el testador, y el resto se dividirá de la manera que disponen los artículos que preceden.
 
-### CAPITULO III. DE LA SUCESION DE LOS ASCENDIENTES
+### CAPITULO IV. DE LA SUCESION DEL CONYUGE
 
 ###### ARTICULO 1502.
 
@@ -8071,7 +8389,7 @@ Los ascendientes, aun cuando sean ilegítimos, tienen derecho de heredar a sus d
 
 Si el reconocimiento se hace después de que el descendiente haya adquirido bienes cuya cuantía, teniendo en cuenta las circunstancias personales del que reconoce, haga suponer fundadamente que motivó el reconocimiento, ni el que reconoce ni sus descendientes tiene derecho a la herencia del reconocido. El que reconoce tiene derecho a alimentos, en el caso de que el reconocimiento lo haya hecho cuando el reconocido tuvo también derecho a percibir alimentos.
 
-### CAPITULO IV. DE LA SUCESION DEL CONYUGE
+### CAPITULO V. DE LA SUCESION DE LOS COLATERALES
 
 ###### ARTICULO 1511.
 
@@ -8097,7 +8415,9 @@ El cónyuge recibirá las porciones que le correspondan conforme a los dos artí
 
 A falta de descendientes, ascendientes y hermanos, el cónyuge sucederá en todos los bienes.
 
-### CAPITULO V. DE LA SUCESION DE LOS COLATERALES
+### CAPITULO VI. DE LA SUCESION EN EL CONCUBINATO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JUNIO DE 1975)</small>
 
 ###### ARTICULO 1517.
 
@@ -8123,9 +8443,7 @@ Al aplicar las disposiciones anteriores se tendrá en cuenta lo que ordena el Ca
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 20 DE JUNIO DE 1975)</small>
 
-### CAPITULO VI. DE LA SUCESION EN EL CONCUBINATO
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JUNIO DE 1975)</small>
+### CAPITULO VII. DE LA SUCESION DE LA ASISTENCIA PUBLICA
 
 ###### ARTICULO 1522.
 
@@ -8159,7 +8477,7 @@ En los casos a que se refiere las Fracciones II, III y IV, debe observarse lo di
 
 Si al morir el autor de la herencia hubiera vivido con varias personas como si fueran su cónyuge ninguna de ellas heredará.
 
-### CAPITULO VII. DE LA SUCESION DE LA ASISTENCIA PUBLICA
+### CAPITULO I. DE LAS PRECAUCIONES QUE DEBEN ADOPTARSE CUANDO LA VIUDA QUEDE ENCINTA
 
 ###### ARTICULO 1523.
 
@@ -8171,7 +8489,7 @@ Cuando sea heredera la Asistencia Pública y entre lo que le corresponda existan
 
 ## TITULO QUINTO. DISPOSICIONES COMUNES A LAS SUCESIONES TESTAMENTARIA Y LEGITIMA
 
-### CAPITULO I. DE LAS PRECAUCIONES QUE DEBEN ADOPTARSE CUANDO LA VIUDA QUEDE ENCINTA
+### CAPITULO II. DE LA APERTURA Y TRANSMISION DE LA HERENCIA
 
 ###### ARTICULO 1525.
 
@@ -8219,7 +8537,7 @@ Para cualquiera de las diligencias que se practiquen conforme a lo dispuesto en 
 
 La división de la herencia se suspenderá hasta que se verifique el parto o hasta que transcurra el término máximo de la preñez; más los acreedores podrán ser pagados por mandato judicial.
 
-### CAPITULO II. DE LA APERTURA Y TRANSMISION DE LA HERENCIA
+### CAPITULO III. DE LA ACEPTACION Y DE LA REPUDIACION DE LA HERENCIA
 
 ###### ARTICULO 1536.
 
@@ -8237,15 +8555,17 @@ Habiendo albacea nombrado, él deberá promover la reclamación a que se refiere
 
 El derecho de reclamar la herencia prescribe en diez años y es transmisible a los herederos.
 
-### CAPITULO III. DE LA ACEPTACION Y DE LA REPUDIACION DE LA HERENCIA
+### CAPITULO IV. DE LOS ALBACEAS
 
 ###### ARTICULO 1540.
 
 Pueden aceptar o repudiar la herencia todos los que tienen la libre disposición de sus bienes.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 1541.
 
-La herencia dejada a los menores y demás incapacitados, será aceptada por sus tutores, quienes podrán repudiarla con autorización judicial, previa audiencia del Ministerio Público.
+La herencia dejada a las personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho, será aceptada por sus tutores, quienes podrán repudiarla con autorización judicial, previa audiencia del Ministerio Público.
 
 ###### ARTICULO 1542.
 
@@ -8345,7 +8665,7 @@ El que a instancias de un legatario o acreedor hereditario, haya sido declarado 
 
 La aceptación en ningún caso produce confusión de los bienes del autor de la herencia y de los herederos, porque toda herencia se entiende aceptada a beneficio de inventario, aunque no se exprese.
 
-### CAPITULO IV. DE LOS ALBACEAS
+### CAPITULO V. DEL INVENTARIO Y DE LA LIQUIDACION DE LA HERENCIA
 
 ###### ARTICULO 1566.
 
@@ -8369,9 +8689,11 @@ IV.- Los que no tengan un modo honesto de vivir.
 
 El testador puede nombrar uno o más albaceas.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 1569.
 
-Cuando el testador no hubiere designado albacea o el nombrado no desempeñare el cargo, los herederos elegirán albacea por mayoría de votos. Por los herederos menores votarán sus legítimos representantes.
+Cuando el testador no hubiere designado albacea o el nombrado no desempeñare el cargo, los herederos elegirán albacea por mayoría de votos. Por los herederos que sean personas menores de dieciocho años de edad votarán sus legítimos representantes.
 
 ###### ARTICULO 1570.
 
@@ -8387,9 +8709,11 @@ Si no hubiere mayoría, el albacea será nombrado por el Juez, de entre los prop
 
 Lo dispuesto en los dos artículos que preceden se observará también en los casos de intestado, y cuando el albacea nombrado falte, sea por la causa que fuere.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 1573.
 
-El heredero que fuere único, será albacea si no hubiere sido nombrado otro en el testamento. Si es incapaz, desempeñará el cargo su tutor.
+El heredero que fuere único, será albacea si no hubiere sido nombrado otro en el testamento. Si es persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho, desempeñará el cargo su tutor.
 
 ###### ARTICULO 1574.
 
@@ -8589,11 +8913,11 @@ Son nulas de pleno derecho las disposiciones por las que el testador dispensa al
 
 La cuenta de administración debe ser aprobada por todos los herederos; el que disienta, puede seguir a su costa el juicio respectivo, en los términos que establezca el Código de Procedimientos Civiles.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 1987)</small>
+REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)
 
 ###### ARTICULO 1613.
 
-Cuando fuere heredera la Asistencia Pública o los herederos fueren menores, intervendrá el Ministerio Público y el Sistema para el Desarrollo Integral de la Familia, en la aprobación de las cuentas.
+Cuando fuere heredera la Asistencia Pública o los herederos fueran personas menores de dieciocho años de edad, intervendrá el Ministerio Público y el Sistema para el Desarrollo Integral de la Familia, en la aprobación de las cuentas.
 
 ###### ARTICULO 1614.
 
@@ -8683,9 +9007,13 @@ I.- Por el término natural del encargo;
 
 II.- Por muerte;
 
-III.- Por la incapacidad legal, declarada en forma;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-IV.- Por excusa que el Juez califique de legítima, con audiencia de los interesados y del Ministerio Público, cuando se interesen menores o la Asistencia Pública;
+III.- Por la falta de capacidad legal, declarada en forma;
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+IV.- Por excusa que el Juez califique de legítima, con audiencia de los interesados y del Ministerio Público, cuando se interesen por personas menores de dieciocho años de edad o la Asistencia Pública;
 
 V.- Por terminar el plazo señalado por la Ley y las prórrogas concedidas para desempeñar el cargo;
 
@@ -8709,7 +9037,7 @@ Si la revocación se hace sin causa justificada, el albacea removido tiene derec
 
 La remoción no tendrá lugar sino por sentencia pronunciada en el incidente respectivo, promovido por parte legítima.
 
-### CAPITULO V. DEL INVENTARIO Y DE LA LIQUIDACION DE LA HERENCIA
+### CAPITULO VI. DE LA PARTICION
 
 ###### ARTICULO 1637.
 
@@ -8779,7 +9107,7 @@ La venta de bienes hereditarios para el pago de deudas y legados, se hará en p�
 
 La mayoría de los interesados, o la autorización judicial en su caso, determinará la aplicación que haya de darse al precio de las cosas vendidas.
 
-### CAPITULO VI. DE LA PARTICION
+### CAPITULO VII. DE LOS EFECTOS DE LA PARTICION
 
 ###### ARTICULO 1654.
 
@@ -8789,11 +9117,11 @@ Aprobados el inventario y la cuenta de administración, el albacea debe hacer en
 
 A ningún coheredero puede obligarse a permanecer en la indivisión de los bienes, ni aún por prevención expresa del testador.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 1656.
 
-Puede suspenderse la partición en virtud de convenio expreso de los interesados.
-
-Habiendo menores entre ellos, deberá oírse al tutor y al Ministerio Público, y el auto en que se apruebe el convenio, determinará el tiempo que debe durar la indivisión.
+Puede suspenderse la partición en virtud de convenio expreso de los interesados. Habiendo personas menores de dieciocho años de edad entre ellos, deberá oírse al tutor y al Ministerio Público, y el auto en que se apruebe el convenio, determinará el tiempo que debe durar la indivisión.
 
 ###### ARTICULO 1657.
 
@@ -8821,13 +9149,13 @@ Si el testador hubiere legado alguna pensión o renta vitalicia, sin gravar con 
 
 En el proyecto de partición se expresará la parte que del capital o fundo afecto a la pensión, corresponderá a cada uno de los herederos luego que aquella se extinga.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 1987)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 1663.
 
-Cuando todos los herederos sean mayores, y el interés del fisco, si lo hubiere, esté cubierto, podrán los interesados separarse de la prosecución del juicio y adoptar los acuerdos que estimen convenientes para el arreglo y terminación de la testamentaria o del intestado.
+Cuando todos los herederos sean mayores de edad, y el interés del fisco, si lo hubiere, esté cubierto, podrán los interesados separarse de la prosecución del juicio y adoptar los acuerdos que estimen convenientes para el arreglo y terminación de la testamentaria o del intestado.
 
-Cuando haya menores, podrán separarse, si están debidamente representados, y el Ministerio Público y el Sistema Para el Desarrollo Integral de la Familia de Baja California otorgan su conformidad. En este caso, los acuerdos que se tomen se denunciarán al Juez, y éste, oyendo al Ministerio Público y al Sistema Para el Desarrollo Integral de la Familia, dará su aprobación, si no se lesionan los derechos de los menores.
+Cuando haya personas menores de dieciocho años de edad, podrán separarse, si están debidamente representados, y el Ministerio Público y el Sistema para el Desarrollo Integral de la Familia de Baja California otorgan su conformidad. En este caso, los acuerdos que se tomen se denunciarán al Juez, y éste, oyendo al Ministerio Público y al Sistema para el Desarrollo Integral de la Familia, dará su aprobación, si no se lesionan los derechos de las personas menores de dieciocho años de edad.
 
 ###### ARTICULO 1664.
 
@@ -8837,7 +9165,7 @@ La partición constará en escritura pública, siempre que en la herencia haya b
 
 Los gastos de la partición, se rebajarán del fondo común; los que se hagan por el interés particular de alguno de los herederos o legatarios, se imputarán a su haber.
 
-### CAPITULO VII. DE LOS EFECTOS DE LA PARTICION
+### CAPITULO VIII. DE LA RESCISION Y NULIDAD DE LAS PARTICIONES
 
 ###### ARTICULO 1666.
 
@@ -8881,7 +9209,7 @@ Por los créditos incobrables no hay responsabilidad.
 
 El heredero cuyos bienes hereditarios fueren embargados, o contra quien se pronunciare sentencia en juicio por causa de ellos, tiene derecho de pedir que sus coherederos caucionen la responsabilidad que pueda resultarles y, en caso contrario, que se les prohiba enajenar los bienes que recibieron.
 
-### CAPITULO VIII. DE LA RESCISION Y NULIDAD DE LAS PARTICIONES
+### CAPITULO I. CONTRATOS
 
 ###### ARTICULO 1675.
 
@@ -8907,7 +9235,7 @@ DE LAS OBLIGACIONES EN GENERAL
 
 ## TITULO PRIMERO. FUENTES DE LAS OBLIGACIONES
 
-### CAPITULO I. CONTRATOS
+### CAPITULO II. DE LA DECLARACION UNILATERAL DE LA VOLUNTAD
 
 ###### ARTICULO 1679.
 
@@ -9243,7 +9571,7 @@ Los contratos que no estén especialmente reglamentados en este Código, se regi
 
 Las disposiciones legales sobre contratos serán aplicables a todos los convenios y a otros actos jurídicos, en lo que no se opongan a la naturaleza de éstos o a disposiciones especiales de la Ley sobre los mismos.
 
-### CAPITULO II. DE LA DECLARACION UNILATERAL DE LA VOLUNTAD
+### CAPITULO III. DEL ENRIQUECIMIENTO ILEGITIMO
 
 ###### ARTICULO 1747.
 
@@ -9307,7 +9635,7 @@ La estipulación puede ser revocada mientras que el tercero no haya manifestado 
 
 El promitente podrá, salvo pacto en contrario, oponer al tercero las excepciones derivadas del contrato.
 
-### CAPITULO III. DEL ENRIQUECIMIENTO ILEGITIMO
+### CAPITULO IV. DE LA GESTION DE NEGOCIOS
 
 ###### ARTICULO 1760.
 
@@ -9367,7 +9695,9 @@ El que ha pagado para cumplir una deuda prescrita o para cumplir un deber moral,
 
 Lo que se hubiere entregado para la realización de un fin que sea ilícito o contrario a las buenas costumbres, no quedará en poder del que lo recibió. El cincuenta por ciento se destinará a la Asistencia Pública y el otro cincuenta por ciento tiene derecho de recuperarlo el que lo entregó.
 
-### CAPITULO IV. DE LA GESTION DE NEGOCIOS
+### CAPITULO V. DE LAS OBLIGACIONES QUE NACEN DE LOS ACTOS ILICITOS
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2004)</small>
 
 ###### ARTICULO 1774.
 
@@ -9431,9 +9761,7 @@ Cuando sin consentimiento del obligado a prestar alimentos, los diese un extrañ
 
 Los gastos funerarios proporcionados a la condición de la persona y a los usos de la localidad, deberán ser satisfechos al que los haga, aunque el difunto no hubiese dejado bienes, por aquellos que hubieren tenido la obligación de alimentarlo en vida.
 
-### CAPITULO V. DE LAS OBLIGACIONES QUE NACEN DE LOS ACTOS ILICITOS
-
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2004)</small>
+### CAPITULO I. DE LAS OBLIGACIONES CONDICIONALES
 
 ###### ARTICULO 1788.
 
@@ -9441,9 +9769,11 @@ El que obrando ilícitamente o contra las buenas costumbres cause daño a otro, 
 
 La imprudencia concurrente del perjudicado no exime de responsabilidad, pero conlleva la reducción de la indemnización. En todo caso, la víctima de acto ilícito deberá tomar las medidas conducentes a atenuar su daño, de lo contrario su reclamo por indemnización se verá reducida en la proporción en que tales medidas, de haberse tomado, hubiesen reducido su daño.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 1789.
 
-El incapaz que cause daño debe repararlo, salvo que la responsabilidad recaiga en las personas de él encargadas, conforme lo dispuesto en los artículos 1797, 1798, 1799 y 1800.
+La persona persona (sic) menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho que cause daño debe repararlo, salvo que la responsabilidad recaiga en las personas de él encargadas, conforme lo dispuesto en los artículos 1797, 1798, 1799 y 1800.
 
 ###### ARTICULO 1790.
 
@@ -9485,7 +9815,7 @@ I. Cuando se vulnera o menoscaba de manera ilegítima la libertad o la integrida
 
 II. Cuando ocurre la pérdida o detrimento en la relación padre e hijo, o la intimidad entre cónyuges o de quienes cohabiten en unión libre;
 
-III. Cuando una persona sea víctima de la discriminación, humillación, acoso sexual o malos tratos por razón de su origen étnico, sexo o preferencia sexual, o por razón de algún impedimento físico;
+III. Cuando una persona sea víctima de la discriminación, humillación, acoso sexual y malos tratos por razón de su origen étnico, sexo o preferencia sexual, o por razón de algún impedimento físico;
 
 IV. Cuando una persona sea víctima del abuso de un derecho.
 
@@ -9507,21 +9837,31 @@ Las personas que han causado en común un daño, son responsables solidariamente
 
 Las personas morales son responsables de los daños y perjuicios que causen sus representantes legales en el ejercicio de sus funciones.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 1797.
 
-Los que ejerzan la patria potestad tienen obligación de responder de los daños y perjuicios causados por los actos de los menores que estén bajo su poder y que habiten con ellos.
+Los que ejerzan la patria potestad tienen obligación de responder de los daños y perjuicios causados por los actos de las personas menores de dieciocho años de edad que estén bajo su poder y que habiten con ellos.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 1798.
 
-Cesa la responsabilidad a que se refiere el artículo anterior, cuando los menores ejecuten los actos que dan origen a ella, encontrándose bajo la vigilancia y autoridad de otras personas, como directores de colegios, de talleres, etc., pues entonces esas personas asumirán la responsabilidad de que se trata.
+Cesa la responsabilidad a que se refiere el artículo anterior, cuando las personas menores de dieciocho años de edad ejecuten los actos que dan origen a ella, encontrándose bajo la vigilancia y autoridad de otras personas, como directores de colegios, de talleres, etc., pues entonces esas personas asumirán la responsabilidad de que se trata.
 
-###### ARTICULO 1799.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-Lo dispuesto en los dos artículos anteriores es aplicable a los tutores, respecto de los incapacitados que tienen bajo su cuidado.
+###### ARTÍCULO 1799.
+
+Lo dispuesto en los dos artículos anteriores es aplicable a los tutores, respecto de las personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho que tienen bajo su cuidado.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 1800.
 
-Ni los padres ni los tutores tienen obligación de responder de los daños y perjuicios que causen los incapacitados sujetos a su cuidado y vigilancia, si probaren que les ha sido imposible evitarlos. Esta imposibilidad no resulta de la mera circunstancia de haber sucedido el hecho fuera de su presencia, si aparece que ellos no han ejercido suficiente vigilancia sobre los incapacitados.
+Ni los padres ni los tutores tienen obligación de responder de los daños y perjuicios que causen las personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho sujetos a su cuidado y vigilancia, si probaren que les ha sido imposible evitarlos.
+
+Esta imposibilidad no resulta de la mera circunstancia de haber sucedido el hecho fuera de su presencia, si aparece que ellos no han ejercido suficiente vigilancia sobre las personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho.
 
 ###### ARTICULO 1801.
 
@@ -9597,7 +9937,7 @@ La acción de exigir la reparación de los daños causados en los términos del 
 
 ## TITULO SEGUNDO. MODALIDADES DE LAS OBLIGACIONES
 
-### CAPITULO I. DE LAS OBLIGACIONES CONDICIONALES
+### CAPITULO II. DE LAS OBLIGACIONES A PLAZO
 
 ###### ARTICULO 1813.
 
@@ -9681,7 +10021,7 @@ Respecto de bienes muebles no tendrá lugar la rescisión, salvo lo previsto par
 
 Si la rescisión del contrato dependiere de un tercero y éste fuere dolosamente inducido a rescindirlo, se tendrá por no rescindido.
 
-### CAPITULO II. DE LAS OBLIGACIONES A PLAZO
+### CAPITULO III. DE LAS OBLIGACIONES CONJUNTIVAS Y ALTERNATIVAS
 
 ###### ARTICULO 1828.
 
@@ -9723,7 +10063,7 @@ III.- Cuando por actos propios hubiesen disminuido aquellas garantías después 
 
 Si fueren varios los deudores solidarios, lo dispuesto en el artículo anterior sólo comprenderá al que se hallare en alguno de los casos que en él se designan.
 
-### CAPITULO III. DE LAS OBLIGACIONES CONJUNTIVAS Y ALTERNATIVAS
+### CAPITULO IV. DE LAS OBLIGACIONES MANCOMUNADAS
 
 ###### ARTICULO 1836.
 
@@ -9821,7 +10161,7 @@ Si la cosa se pierde o el hecho deja de prestarse por culpa del acreedor, se tie
 
 La falta de prestación del hecho se regirá por lo dispuesto en los artículos 1902 y 1903.
 
-### CAPITULO IV. DE LAS OBLIGACIONES MANCOMUNADAS
+### CAPITULO V. DE LAS OBLIGACIONES DE DAR
 
 ###### ARTICULO 1859.
 
@@ -9947,7 +10287,7 @@ I.- Si para que se produzca esa conversión hubo culpa de parte de todos los deu
 
 II.- Si sólo algunos fueron culpables, únicamente ellos responderán de los daños y perjuicios.
 
-### CAPITULO V. DE LAS OBLIGACIONES DE DAR
+### CAPITULO VI. DE LAS OBLIGACIONES DE HACER O DE NO HACER
 
 ###### ARTICULO 1886.
 
@@ -10049,7 +10389,7 @@ III.- Cuando la obligación sea indivisible;
 
 IV.- Cuando por el contrato se ha determinado otra cosa.
 
-### CAPITULO VI. DE LAS OBLIGACIONES DE HACER O DE NO HACER
+### CAPITULO I. DE LA CESION DE DERECHOS
 
 ###### ARTICULO 1902.
 
@@ -10063,7 +10403,7 @@ El que estuviere obligado a no hacer alguna cosa, quedará sujeto al pago de da�
 
 ## TITULO TERCERO. DE LA TRANSMISION DE LAS OBLIGACIONES
 
-### CAPITULO I. DE LA CESION DE DERECHOS
+### CAPITULO II. DE LA CESION DE DEUDAS
 
 ###### ARTICULO 1904.
 
@@ -10165,7 +10505,7 @@ El cesionario debe, por su parte, satisfacer al cedente todo lo que haya pagado 
 
 Si la cesión fuere gratuita, el cedente no será responsable para con el cesionario, ni por la existencia del crédito, ni por la solvencia del deudor.
 
-### CAPITULO II. DE LA CESION DE DEUDAS
+### CAPITULO III. DE LA SUBROGACION
 
 ###### ARTICULO 1926.
 
@@ -10195,7 +10535,7 @@ El deudor sustituto puede oponer al acreedor las excepciones que se originen de 
 
 Cuando se declara nula la sustitución de deudor, la antigua deuda renace con todos sus accesorios; pero con la reserva de derechos que pertenecen a tercero de buena fe.
 
-### CAPITULO III. DE LA SUBROGACION
+### CAPITULO I. DEL PAGO
 
 ###### ARTICULO 1933.
 
@@ -10227,7 +10567,7 @@ I.- EFECTOS DE LAS OBLIGACIONES ENTRE LAS PARTES
 
 CUMPLIMIENTO DE LAS OBLIGACIONES
 
-### CAPITULO I. DEL PAGO
+### CAPITULO II. DEL OFRECIMIENTO DEL PAGO Y DE LA CONSIGNACION
 
 ###### ARTICULO 1937.
 
@@ -10377,7 +10717,7 @@ La obligación queda extinguida cuando el acreedor recibe en pago una cosa disti
 
 Si el acreedor sufre la evicción de la cosa que recibe en pago, renacerá la obligación primitiva, quedando sin efecto la dación en pago.
 
-### CAPITULO II. DEL OFRECIMIENTO DEL PAGO Y DE LA CONSIGNACION
+### CAPITULO I. CONSECUENCIAS DEL INCUMPLIMIENTO DE LAS OBLIGACIONES
 
 ###### ARTICULO 1972.
 
@@ -10411,7 +10751,7 @@ Si el ofrecimiento y la consignación se han hecho legalmente, todos los gastos 
 
 INCUMPLIMIENTO DE LAS OBLIGACIONES
 
-### CAPITULO I. CONSECUENCIAS DEL INCUMPLIMIENTO DE LAS OBLIGACIONES
+### CAPITULO II. DE LA EVICCION Y SANEAMIENTO
 
 ###### ARTICULO 1979.
 
@@ -10485,7 +10825,7 @@ Si la prestación consistiere en el pago de cierta cantidad de dinero, los daño
 
 El pago de los gastos judiciales será a cargo del que faltare al cumplimiento de la obligación, y se hará en los términos que establezca el Código de Procedimientos Civiles.
 
-### CAPITULO II. DE LA EVICCION Y SANEAMIENTO
+### CAPITULO I. DE LOS ACTOS CELEBRADOS EN FRAUDE DE LOS ACREEDORES
 
 ###### ARTICULO 1994.
 
@@ -10693,7 +11033,7 @@ El enajenante no tiene obligación de responder de los vicios redhibitorios si e
 
 II.- EFECTOS DE LAS OBLIGACIONES CON RELACION A TERCERO
 
-### CAPITULO I. DE LOS ACTOS CELEBRADOS EN FRAUDE DE LOS ACREEDORES
+### CAPITULO II. DE LA SIMULACION DE LOS ACTOS JURIDICOS
 
 ###### ARTICULO 2038.
 
@@ -10763,7 +11103,7 @@ Si el acreedor que pide la nulidad, para acreditar la insolvencia del deudor, pr
 
 Se presumen fraudulentas las enajenaciones a título oneroso hechas por aquellas personas contra quienes se hubiese pronunciado antes sentencia condenatoria en cualquier instancia, o expedido mandamiento de embargo de bienes, cuando estas enajenaciones perjudican los derechos de sus acreedores.
 
-### CAPITULO II. DE LA SIMULACION DE LOS ACTOS JURIDICOS
+### CAPITULO I. DE LA COMPENSACION
 
 ###### ARTICULO 2055.
 
@@ -10789,7 +11129,7 @@ También subsistirán los gravámenes impuestos a favor de tercero de buena fe.
 
 ## TITULO QUINTO. EXTINCION DE LAS OBLIGACIONES
 
-### CAPITULO I. DE LA COMPENSACION
+### CAPITULO II. DE LA CONFUSION DE DERECHOS
 
 ###### ARTICULO 2060.
 
@@ -10887,7 +11227,7 @@ Las deudas pagaderas en diferente lugar, pueden compensarse, mediante indemnizac
 
 La compensación no puede tener lugar en perjuicio de los derechos de tercero legítimamente adquiridos.
 
-### CAPITULO II. DE LA CONFUSION DE DERECHOS
+### CAPITULO III. DE LA REMISION DE LA DEUDA
 
 ###### ARTICULO 2080.
 
@@ -10901,7 +11241,7 @@ La confusión que se verifica en la persona del acreedor o deudor solidario, só
 
 Mientras se hace la partición de una herencia, no hay confusión cuando el deudor hereda al acreedor o éste a aquél.
 
-### CAPITULO III. DE LA REMISION DE LA DEUDA
+### CAPITULO IV. DE LA NOVACION
 
 ###### ARTICULO 2083.
 
@@ -10919,7 +11259,7 @@ Habiendo varios fiadores solidarios, el perdón que fuere concedido solamente a 
 
 La devolución de la prenda es presunción de la remisión del derecho a la misma prenda, si el acreedor no prueba lo contrario.
 
-### CAPITULO IV. DE LA NOVACION
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 2087.
 
@@ -10991,9 +11331,11 @@ La falta de forma establecida por la Ley, si no se trata de actos solemnes, así
 
 La acción y la excepción de nulidad por falta de forma compete a todos los interesados.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 2104.
 
-La nulidad por causa de error, dolo, violencia, lesión o incapacidad, sólo puede invocarse por el que ha sufrido esos vicios de consentimiento, se ha perjudicado por la lesión o es el incapaz.
+La nulidad por causa de error, dolo, violencia, lesión o incapacidad, sólo puede invocarse por el que ha sufrido esos vicios de consentimiento, se ha perjudicado por la lesión o es una persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho.
 
 > <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 1993)</small>
 
@@ -11077,7 +11419,7 @@ Si el prominente rehusa firmar los documentos necesarios para dar forma legal al
 
 ## TITULO SEGUNDO. DE LA COMPRAVENTA
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO II. DE LA MATERIA DE LA COMPRAVENTA
 
 ###### ARTICULO 2122.
 
@@ -11165,7 +11507,7 @@ Son nulas las ventas que produzcan la concentración o acaparamiento, en una o e
 
 Las ventas al menudeo de bebidas embriagantes hechas al fiado en cantinas, no dan derecho para exigir su precio.
 
-### CAPITULO II. DE LA MATERIA DE LA COMPRAVENTA
+### CAPITULO III. DE LOS QUE PUEDEN VENDER Y COMPRAR
 
 ###### ARTICULO 2143.
 
@@ -11183,11 +11525,13 @@ El contrato quedará revalidado, si antes de que tenga lugar la evicción, adqui
 
 La venta de cosa o derechos litigiosos no está prohibida, pero el vendedor que no declare la circunstancia de hallarse la cosa en litigio, es responsable de los daños y perjuicios si el comprador sufre la evicción, quedando además, sujeto a las penas respectivas.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 2147.
 
-Tratándose de la venta de determinados bienes, como los pertenecientes a incapacitados, los de propiedad pública, los empeñados o hipotecados, etc., deben observarse los requisitos exigidos por la Ley para que la venta sea perfecta.
+Tratándose de la venta de determinados bienes, como los pertenecientes a las personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho, los de propiedad pública, los empeñados o hipotecados, etc., deben observarse los requisitos exigidos por la Ley para que la venta sea perfecta.
 
-### CAPITULO III. DE LOS QUE PUEDEN VENDER Y COMPRAR
+### CAPITULO IV. DE LAS OBLIGACIONES DEL VENDEDOR
 
 ###### ARTICULO 2148.
 
@@ -11237,7 +11581,7 @@ Los peritos y los corredores no pueden comprar los bienes en cuya venta han inte
 
 Las compras hechas en contravención a lo dispuesto en este Capítulo, serán nulas, ya se hayan hecho directamente o por interpósita persona.
 
-### CAPITULO IV. DE LAS OBLIGACIONES DEL VENDEDOR
+### CAPITULO V. DE LA ENTREGA DE LA COSA VENDIDA
 
 ###### ARTICULO 2157.
 
@@ -11249,7 +11593,7 @@ II.- A garantir las calidades de la cosa;
 
 III.- A prestar la evicción.
 
-### CAPITULO V. DE LA ENTREGA DE LA COSA VENDIDA
+### CAPITULO VI. DE LAS OBLIGACIONES DEL COMPRADOR
 
 ###### ARTICULO 2158.
 
@@ -11293,7 +11637,7 @@ La entrega de la cosa vendida debe hacerse en el lugar convenido, y si no hubier
 
 Si el comprador se constituyó en mora de recibir, abonará al vendedor el alquiler de las bodegas, graneros o vasijas en que se contenga lo vendido, y el vendedor quedará descargado del cuidado ordinario de conservar la cosa, y solamente será responsable del dolo o de la culpa grave.
 
-### CAPITULO VI. DE LAS OBLIGACIONES DEL COMPRADOR
+### CAPITULO VII. DE ALGUNAS MODALIDADES DEL CONTRATO DE COMPRAVENTA
 
 ###### ARTICULO 2167.
 
@@ -11333,7 +11677,7 @@ Cuando el comprador a plazo o con espera del precio fuere perturbado en su poses
 
 La falta de pago del precio da derecho para pedir la rescisión del contrato, aunque la venta se haya hecho a plazo; pero si la cosa ha sido enajenada a un tercero, se observará lo dispuesto en los artículos 1825 y 1826.
 
-### CAPITULO VII. DE ALGUNAS MODALIDADES DEL CONTRATO DE COMPRAVENTA
+### CAPITULO VIII. DE LA FORMA DEL CONTRATO DE COMPRA-VENTA
 
 ###### ARTICULO 2175.
 
@@ -11409,7 +11753,7 @@ Si el vendedor recoge la cosa vendida porque no le haya sido pagado su precio, s
 
 En la venta de que habla el artículo 2186 mientras que no pasa la propiedad de la cosa vendida al comprador, si éste recibe la cosa será considerado como arrendatario de la misma.
 
-### CAPITULO VIII. DE LA FORMA DEL CONTRATO DE COMPRA-VENTA
+### CAPITULO IX. DE LAS VENTAS JUDICIALES
 
 ###### ARTICULO 2190.
 
@@ -11451,15 +11795,17 @@ El endoso será ratificado ante el Registrador, quien tiene obligación de cerci
 
 La venta de bienes raíces no producirá efectos contra tercero sino después de registrada en los términos prescritos en este Código.
 
-### CAPITULO IX. DE LAS VENTAS JUDICIALES
+### CAPITULO I. DE LAS DONACIONES EN GENERAL
 
 ###### ARTICULO 2197.
 
 Las ventas judiciales en almoneda, subasta o remate públicos, se regirán por las disposiciones de este Título, en cuánto a la substancia del contrato y a las obligaciones y derechos del comprador y del vendedor, con las modificaciones que se expresan en este Capítulo. En cuánto a los términos y condiciones en que hayan de verificarse, se regirán por lo que disponga el Código de Procedimientos Civiles.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 2198.
 
-No pueden rematar por sí, ni por interpósita persona, el Juez, Secretario y demás empleados del Juzgado; el ejecutado, sus procuradores, abogados y fiadores; los albaceas y tutores, si se trata de bienes pertenecientes a la sucesión o a los incapacitados, respectivamente; ni los peritos que hayan valuado los bienes objeto del remate.
+No pueden rematar por sí, ni por interpósita persona, el Juez, Secretario y demás empleados del Juzgado; el ejecutado, sus procuradores, abogados y fiadores; los albaceas y tutores, si se trata de bienes pertenecientes a la sucesión o a personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho, respectivamente; ni los peritos que hayan valuado los bienes objeto del remate.
 
 ###### ARTICULO 2199.
 
@@ -11493,7 +11839,7 @@ Con excepción de lo relativo al precio, son aplicables a este contrato las regl
 
 ## TITULO CUARTO. DE LAS DONACIONES
 
-### CAPITULO I. DE LAS DONACIONES EN GENERAL
+### CAPITULO II. DE LAS PERSONAS QUE PUEDEN RECIBIR DONACIONES
 
 ###### ARTICULO 2206.
 
@@ -11597,7 +11943,7 @@ Si la donación fuere de todos los bienes, el donatario será responsable de tod
 
 Salvo que el donador dispusiere otra cosa, las donaciones que consistan en prestaciones periódicas se extinguen con la muerte del donante.
 
-### CAPITULO II. DE LAS PERSONAS QUE PUEDEN RECIBIR DONACIONES
+### CAPITULO III. DE LA REVOCACION Y REDUCCION DE LAS DONACIONES
 
 ###### ARTICULO 2231.
 
@@ -11607,7 +11953,7 @@ Los no nacidos pueden adquirir por donación, con tal que hayan estado concebido
 
 Las donaciones hechas simulando otro contrato a personas que conforme a la Ley no puedan recibirlas, son nulas, ya se hagan de un modo directo, ya por interpósita persona.
 
-### CAPITULO III. DE LA REVOCACION Y REDUCCION DE LAS DONACIONES
+### CAPITULO I. DEL MUTUO SIMPLE
 
 ###### ARTICULO 2233.
 
@@ -11727,7 +12073,7 @@ Revocada o reducida una donación por inoficiosa, el donatario sólo responderá
 
 ## TITULO QUINTO. DEL MUTUO
 
-### CAPITULO I. DEL MUTUO SIMPLE
+### CAPITULO II. DEL MUTUO CON INTERES
 
 ###### ARTICULO 2258.
 
@@ -11771,11 +12117,13 @@ El mutuante es responsable de los perjuicios que sufra el mutuario por la mala c
 
 En el caso de haberse pactado que la restitución se hará cuando pueda o tenga medios el deudor, se observará lo dispuesto en el artículo 1955.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 2266.
 
-No se declararán nulas las deudas contraídas por el menor para proporcionarse los alimentos que necesite, cuando su representante legítimo se encuentre ausente.
+No se declaran nulas las deudas contraídas por la persona menor años (sic) de edad para proporcionarse los alimentos que necesite, cuando su representante legítimo se encuentre ausente.
 
-### CAPITULO II. DEL MUTUO CON INTERES
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 2267.
 
@@ -11801,7 +12149,7 @@ Las partes no pueden, bajo pena de nulidad, convenir de antemano que los interes
 
 ## TITULO SEXTO. DEL ARRENDAMIENTO
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO II. DE LOS DERECHOS Y OBLIGACIONES DEL ARRENDADOR
 
 ###### ARTICULO 2272.
 
@@ -11869,7 +12217,7 @@ Si la transmisión de la propiedad se hiciere por causa de utilidad pública, el
 
 Los arrendamientos de bienes nacionales, municipales o de establecimientos públicos, estarán sujetos a las disposiciones del derecho administrativo, y en lo que no lo estuvieren, a las disposiciones de este Título.
 
-### CAPITULO II. DE LOS DERECHOS Y OBLIGACIONES DEL ARRENDADOR
+### CAPITULO III. DE LOS DERECHOS Y OBLIGACIONES DEL ARRENDATARIO
 
 ###### ARTICULO 2286.
 
@@ -11939,7 +12287,7 @@ III.- Cuando el contrato fuere por tiempo indeterminado, si el arrendador autori
 
 Las mejoras a que se refieren las fracciones II y III del artículo anterior, deberán ser pagadas por el arrendador, no obstante que en el contrato se hubiese estipulado que las mejoras quedasen a beneficio de la cosa arrendada.
 
-### CAPITULO III. DE LOS DERECHOS Y OBLIGACIONES DEL ARRENDATARIO
+### CAPITULO IV. DEL ARRENDAMIENTO DE FINCAS URBANAS
 
 ###### ARTICULO 2299.
 
@@ -12041,7 +12389,7 @@ Si el arrendamiento debe ser inscrito en el Registro, sólo vale el inscrito.
 
 En los arrendamientos que han durado más de cinco años y cuando el arrendatario ha hecho mejoras de importancia en la finca arrendada, tiene éste derecho si está al corriente en el pago de la renta, a que, en igualdad de condiciones, se le prefiera a otro interesado en el nuevo arrendamiento de la finca. También gozará del derecho del tanto si el propietario quiere vender la finca arrendada, aplicándose en lo conducente lo dispuesto en los artículos 2178 y 2179.
 
-### CAPITULO IV. DEL ARRENDAMIENTO DE FINCAS URBANAS
+### CAPITULO V. DEL ARRENDAMIENTO DE FINCAS RUSTICAS
 
 ###### ARTICULO 2322.
 
@@ -12065,7 +12413,7 @@ No puede renunciarse anticipadamente el derecho de cobrar la indemnización que 
 
 La renta debe pagarse en los plazos convenidos, y a falta de convenio, por meses vencidos si la renta excede de cien pesos; por quincenas vencidas, si la renta es de sesenta a cien pesos, y por semanas, también vencidas, cuando la renta no llegue a sesenta pesos.
 
-### CAPITULO V. DEL ARRENDAMIENTO DE FINCAS RUSTICAS
+### CAPITULO VI. DEL ARRENDAMIENTO DE BIENES MUEBLES
 
 ###### ARTICULO 2327.
 
@@ -12097,7 +12445,7 @@ El permiso a que se refiere el artículo que precede, no será obligatorio sino 
 
 Terminado el arrendamiento, tendrá a su vez el arrendatario saliente, derecho para usar de las tierras y edificios por el tiempo absolutamente indispensable para la recolección y aprovechamiento de los frutos pendientes al terminar el contrato.
 
-### CAPITULO VI. DEL ARRENDAMIENTO DE BIENES MUEBLES
+### CAPITULO VII. DISPOSICIONES ESPECIALES RESPECTO DE LOS ARRENDAMIENTOS POR TIEMPO INDETERMINADO
 
 ###### ARTICULO 2333.
 
@@ -12175,7 +12523,7 @@ Si en el arrendamiento de un predio rústico se incluyere el ganado de labranza 
 
 Lo dispuesto en el artículo 2339 es aplicable a los aperos de la finca arrendada.
 
-### CAPITULO VII. DISPOSICIONES ESPECIALES RESPECTO DE LOS ARRENDAMIENTOS POR TIEMPO INDETERMINADO
+### CAPITULO VIII. DEL SUBARRIENDO
 
 ###### ARTICULO 2352.
 
@@ -12185,7 +12533,7 @@ Todos los arrendamientos, sean de predios rústicos o urbanos, que no se hayan c
 
 Dado el aviso a que se refiere el artículo anterior, el arrendatario del predio urbano está obligado a poner cédulas y a mostrar el interior de la casa a los que pretendanverla (sic). Respecto de los predios rústicos, se observará lo dispuesto en los artículos 2330, 2331 y 2332.
 
-### CAPITULO VIII. DEL SUBARRIENDO
+### CAPITULO IX. DEL MODO DE TERMINAR EL ARRENDAMIENTO
 
 ###### ARTICULO 2354.
 
@@ -12199,7 +12547,7 @@ Si el subarriendo se hiciere en virtud de la autorización general concedida en 
 
 Si el arrendador aprueba expresamente el contrato especial de subarriendo, el subarrendatario queda subrogado en todos los derechos y obligaciones del arrendatario, a no ser que por convenio se acuerde otra cosa.
 
-### CAPITULO IX. DEL MODO DE TERMINAR EL ARRENDAMIENTO
+### CAPITULO I. DEL DEPOSITO
 
 ###### ARTICULO 2357.
 
@@ -12361,7 +12709,7 @@ El comodato termina por la muerte del comodatario.
 
 ## TITULO OCTAVO. DEL DEPOSITO Y DEL SECUESTRO
 
-### CAPITULO I. DEL DEPOSITO
+### CAPITULO II. DEL SECUESTRO
 
 ###### ARTICULO 2390.
 
@@ -12379,9 +12727,11 @@ Los depositarios de títulos, valores, efectos o documentos que devenguen intere
 
 La incapacidad de uno de los contratantes no exime al otro de las obligaciones a que están sujetos el que deposita y el depositario.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 2394.
 
-El incapaz que acepte el depósito, puede, si se le demanda por daños y perjuicios, oponer como excepción la nulidad del contrato; más no podrá eximirse de restituir la cosa depositada si se conserva aún en su poder, o el provecho que hubiere recibido de su enajenación.
+La persona menor de dieciocho años de edad o la persona que no tenga la capacidad para comprender el significado del hecho que acepte el depósito, puede, si se le demanda por daños y perjuicios, oponer como excepción la nulidad del contrato; más no podrá eximirse de restituir la cosa depositada si se conserva aún en su poder, o el provecho que hubiere recibido de su enajenación.
 
 ###### ARTICULO 2395.
 
@@ -12459,7 +12809,7 @@ El posadero no se exime de la responsabilidad que le imponen los dos artículos 
 
 Las fondas, cafés, casas de baño y otros establecimientos semejantes, no responden de los efectos que introduzcan los parroquianos, a menos que los pongan bajo el cuidado de los empleados del establecimiento.
 
-### CAPITULO II. DEL SECUESTRO
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 2413.
 
@@ -12491,7 +12841,9 @@ El secuestro judicial se rige por las disposiciones del Código de Procedimiento
 
 ## TITULO NOVENO. DEL MANDATO
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO II
+
+DE LAS OBLIGACIONES DEL MANDATARIO CON RESPECTO AL MANDANTE.
 
 ###### ARTICULO 2420.
 
@@ -12591,9 +12943,9 @@ Exceptúase el caso en que se trate de cosas propias del mandante.
 
 Lo dispuesto en este artículo se entiende sin perjuicio de las acciones entre mandante y mandatario.
 
-### CAPITULO II
+### CAPITULO III
 
-DE LAS OBLIGACIONES DEL MANDATARIO CON RESPECTO AL MANDANTE.
+DE LAS OBLIGACIONES DEL MANDANTE CON RELACION AL MANDATARIO.
 
 ###### ARTICULO 2436.
 
@@ -12655,9 +13007,7 @@ Si se le designó la persona del substituto, no podrá nombrar a otro; si no se 
 
 El substituto tiene para con el mandante los mismos derechos y obligaciones que el mandatario.
 
-### CAPITULO III
-
-DE LAS OBLIGACIONES DEL MANDANTE CON RELACION AL MANDATARIO.
+### CAPITULO IV. DE LAS OBLIGACIONES Y DERECHOS DEL MANDANTE Y DEL MANDATARIO CON RELACION A TERCERO
 
 ###### ARTICULO 2451.
 
@@ -12679,7 +13029,7 @@ El mandatario podrá retener en prenda las cosas que son objeto del mandato hast
 
 Si muchas personas hubiesen nombrado a un sólo mandatario para algún negocio común le quedan obligadas solidariamente para todos los efectos del mandato.
 
-### CAPITULO IV. DE LAS OBLIGACIONES Y DERECHOS DEL MANDANTE Y DEL MANDATARIO CON RELACION A TERCERO
+### CAPITULO V. DEL MANDATO JUDICIAL
 
 ###### ARTICULO 2455.
 
@@ -12697,13 +13047,17 @@ Los actos que el mandatario practique a nombre del mandante, pero traspasando lo
 
 El tercero que hubiere contratado con el mandatario que se excedió en sus facultades, no tendrá acción contra éste, si le hubiere dado a conocer cuáles fueron aquéllas y no se hubiere obligado personalmente por el mandante.
 
-### CAPITULO V. DEL MANDATO JUDICIAL
+### CAPITULO VI
+
+DE LOS DIVERSOS MODOS DE TERMINAR EL MANDATO.
 
 ###### ARTICULO 2459.
 
 No pueden ser procuradores en juicio:
 
-I.- Los incapacitados;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+I.- Las personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho;
 
 II.- Los Jueces, Magistrados y demás funcionarios y empleados de la administración de justicia, en ejercicio, dentro de los límites de su jurisdicción;
 
@@ -12781,9 +13135,7 @@ El procurador que ha substituído un poder, puede revocar la substitución si ti
 
 La parte puede ratificar antes de la sentencia que cause ejecutoria, lo que el procurador hubiere hecho excediéndose del poder.
 
-### CAPITULO VI
-
-DE LOS DIVERSOS MODOS DE TERMINAR EL MANDATO.
+### CAPITULO I. DE LA PRESTACION DE SERVICIOS PROFESIONALES
 
 ###### ARTICULO 2469.
 
@@ -12845,7 +13197,7 @@ Lo que el mandatario, sabiendo que ha cesado el mandato, hiciere con un tercero 
 
 ## TITULO DECIMO. DEL CONTRATO DE PRESTACIONES DE SERVICIOS
 
-### CAPITULO I. DE LA PRESTACION DE SERVICIOS PROFESIONALES
+### CAPITULO II. DEL CONTRATO DE OBRAS A PRECIO ALZADO
 
 ###### ARTICULO 2479.
 
@@ -12887,7 +13239,7 @@ Siempre que un profesor no pueda continuar prestando sus servicios, deberá avis
 
 El que preste servicios profesionales, solo es responsable, hacia las personas a quienes sirve, por negligencia, impericia o dolo, sin perjuicio de las penas que merezca en caso de delito.
 
-### CAPITULO II. DEL CONTRATO DE OBRAS A PRECIO ALZADO
+### CAPITULO III. DE LOS PORTEADORES Y ALQUILADORES
 
 ###### ARTICULO 2489.
 
@@ -13009,7 +13361,7 @@ El constructor de cualquiera obra mueble tiene derecho de retenerla mientras no 
 
 Los empresarios constructores son responsables, por la inobservancia de las disposiciones municipales o de policía y por todo daño que causen a los vecinos.
 
-### CAPITULO III. DE LOS PORTEADORES Y ALQUILADORES
+### CAPITULO IV. DEL CONTRATO DE HOSPEDAJE
 
 ###### ARTICULO 2519.
 
@@ -13109,7 +13461,7 @@ El contrato de transporte se rescindirá de hecho antes de emprenderse el viaje,
 
 En el caso previsto en el artículo anterior, cada uno de los interesados perderá los gastos que hubiere hecho si el viaje no se ha verificado; y si está en curso, el porteador tendrá derecho a que se le pague del porte la parte proporcional al camino recorrido, y la obligación de presentar los efectos, para su depósito, a la autoridad judicial del punto en que ya no le sea posible continuarlo, comprobando y recabando la constancia relativa de hallarse en el estado consignado en la carta de porte, de cuyo hecho dará conocimiento oportuno al cargador, a cuya disposición deban quedar.
 
-### CAPITULO IV. DEL CONTRATO DE HOSPEDAJE
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 2539.
 
@@ -13229,7 +13581,7 @@ Las asociaciones de beneficencia se regirán por las Leyes especiales correspond
 
 II.- DE LAS SOCIEDADES
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO II. DE LOS SOCIOS
 
 ###### ARTICULO 2561.
 
@@ -13301,7 +13653,7 @@ La capacidad para que las sociedades adquieran bienes raíces, se regirá por lo
 
 No quedan comprendidas en este Título las sociedades cooperativas, ni las mutualistas, que se regirán por las respectivas Leyes especiales.
 
-### CAPITULO II. DE LOS SOCIOS
+### CAPITULO III. DE LA ADMINISTRACION DE LA SOCIEDAD
 
 ###### ARTICULO 2575.
 
@@ -13331,7 +13683,7 @@ Ningún socio puede ser excluído de la sociedad sino por el acuerdo unánime de
 
 El socio excluído es responsable de la parte de pérdidas que le corresponda, y los otros socios pueden retener la parte del capital y utilidades de aquél, hasta concluir las operaciones pendientes al tiempo de la declaración, debiendo hacerse hasta entonces la liquidación correspondiente.
 
-### CAPITULO III. DE LA ADMINISTRACION DE LA SOCIEDAD
+### CAPITULO IV. DE LA DISOLUCION DE LAS SOCIEDADES
 
 ###### ARTICULO 2582.
 
@@ -13385,7 +13737,7 @@ El socio o socios administradores están obligados a rendir cuentas siempre que 
 
 Cuando la administración no se hubiere limitado a alguno de los socios, todos tendrán derecho de concurrir a la dirección y manejo de los negocios comunes. Las decisiones serán tomadas por mayoría, observándose respecto de ésta, lo dispuesto en el artículo 2586.
 
-### CAPITULO IV. DE LA DISOLUCION DE LAS SOCIEDADES
+### CAPITULO V. DE LA LIQUIDACION DE LA SOCIEDAD
 
 ###### ARTICULO 2593.
 
@@ -13427,7 +13779,7 @@ Se dice extemporánea la renuncia, si al hacerla, las cosas no se hallan en su e
 
 La disolución de la sociedad no modifica los compromisos contraídos con terceros.
 
-### CAPITULO V. DE LA LIQUIDACION DE LA SOCIEDAD
+### CAPITULO VI. DE LAS ASOCIACIONES Y DE LAS SOCIEDADES EXTRANJERAS
 
 ###### ARTICULO 2599.
 
@@ -13479,7 +13831,7 @@ Si al terminar la sociedad en que hubiere socios capitalistas e industriales, re
 
 Salvo pacto en contrario, los socios industriales no responderán de las pérdidas.
 
-### CAPITULO VI. DE LAS ASOCIACIONES Y DE LAS SOCIEDADES EXTRANJERAS
+### CAPITULO VII. DE LA APARCERIA RURAL
 
 ###### ARTICULO 2609.
 
@@ -13497,7 +13849,7 @@ II.- Que tienen representante domiciliado en el lugar donde van a operar, sufici
 
 Concedida la autorización por la Secretaría de Relaciones Exteriores, y el Ejecutivo del Estado, se inscribirán en el Registro los estatutos de las asociaciones y sociedades extranjeras.
 
-### CAPITULO VII. DE LA APARCERIA RURAL
+### CAPITULO I. DEL JUEGO Y DE LA APUESTA
 
 ###### ARTICULO 2612.
 
@@ -13609,7 +13961,7 @@ TITULO DECIMOSEGUNDO
 
 DE LOS CONTRATOS ALEATORIOS
 
-### CAPITULO I. DEL JUEGO Y DE LA APUESTA
+### CAPITULO II. DE LA RENTA VITALICIA
 
 ###### ARTICULO 2637.
 
@@ -13647,7 +13999,7 @@ Las loterías o rifas, cuando se permiten serán regidas, las primeras, por las 
 
 El contrato celebrado entre los compradores de billetes y las loterías autorizadas en país extranjero, no será válido en el Estado de Baja California, a menos que la venta de esos billetes haya sido permitida por la autoridad correspondiente.
 
-### CAPITULO II. DE LA RENTA VITALICIA
+### CAPITULO III. DE LA COMPRA DE ESPERANZA
 
 ###### ARTICULO 2646.
 
@@ -13721,7 +14073,7 @@ El pensionista sólo puede demandar las pensiones, justificando su supervivencia
 
 Si el que paga la renta vitalicia ha causado la muerte del acreedor o la de aquel sobre cuya vida había sido constituída, debe devolver el capital al que la constituyó o a sus herederos.
 
-### CAPITULO III. DE LA COMPRA DE ESPERANZA
+### CAPITULO I. DE LA FIANZA EN GENERAL
 
 ###### ARTICULO 2664.
 
@@ -13737,7 +14089,7 @@ TITULO DECIMOTERCERO
 
 DE LA FIANZA
 
-### CAPITULO I. DE LA FIANZA EN GENERAL
+### CAPITULO II. DE LOS EFECTOS DE LA FIANZA ENTRE EL FIADOR Y EL ACREEDOR
 
 ###### ARTICULO 2666.
 
@@ -13813,7 +14165,7 @@ No tendrá lugar la responsabilidad del artículo anterior, si el que dio la car
 
 Quedan sujetas a las disposiciones de este Título, las fianzas otorgadas por individuos o compañías accidentalmente en favor de determinadas personas, siempre que no las extiendan en forma de póliza; que no las anuncien públicamente por la prensa o por cualquiera otro medio, y que no empleen agentes que las ofrezcan.
 
-### CAPITULO II. DE LOS EFECTOS DE LA FIANZA ENTRE EL FIADOR Y EL ACREEDOR
+### CAPITULO III. DE LOS EFECTOS DE LA FIANZA ENTRE EL FIADOR Y EL DEUDOR
 
 ###### ARTICULO 2684.
 
@@ -13895,7 +14247,7 @@ La transacción entre el acreedor y el deudor principal, aprovecha al fiador, pe
 
 Si son varios los fiadores de un deudor por una sola deuda, responderá cada uno de ellos por la totalidad de aquélla, no habiendo convenio en contrario; pero si sólo uno de los fiadores es demandado, podrá hacer citar a los demás, para que se defiendan juntamente, y en la proporción debida estén a las resultas del juicio.
 
-### CAPITULO III. DE LOS EFECTOS DE LA FIANZA ENTRE EL FIADOR Y EL DEUDOR
+### CAPITULO IV. DE LOS EFECTOS DE LA FIANZA ENTRE LOS COFIADORES
 
 ###### ARTICULO 2700.
 
@@ -13951,7 +14303,7 @@ IV.- Si se obligó a relevarlo de la fianza en tiempo determinado y éste ha tra
 
 V.- Si la deuda se hace exigible por el vencimiento del plazo.
 
-### CAPITULO IV. DE LOS EFECTOS DE LA FIANZA ENTRE LOS COFIADORES
+### CAPITULO V. DE LA EXTINCION DE LA FIANZA
 
 ###### ARTICULO 2709.
 
@@ -13987,7 +14339,7 @@ El fiador que pide el beneficio de división, sólo responde por la parte del fi
 
 El que fía al fiador, en el caso de insolvencia de éste, es responsable para con los otros fiadores, en los mismos términos en que lo sería el fiador fiado.
 
-### CAPITULO V. DE LA EXTINCION DE LA FIANZA
+### CAPITULO VI. DE LA FIANZA LEGAL O JUDICIAL
 
 ###### ARTICULO 2714.
 
@@ -14021,7 +14373,7 @@ El fiador que se ha obligado por tiempo determinado, queda libre de su obligaci�
 
 Si la fianza se ha otorgado por tiempo indeterminado, tiene derecho el fiador, cuando la deuda principal se vuelva exigible, de pedir al acreedor que promueva judicialmente, dentro del plazo de un mes, el cumplimiento de la obligación. Si el acreedor no ejercita sus derechos dentro del plazo mencionado, o si en el juicio entablado deja de promover, sin causa justificada, por más de tres meses, el fiador quedará libre de su obligación.
 
-### CAPITULO VI. DE LA FIANZA LEGAL O JUDICIAL
+### CAPITULO I. DE LA HIPOTECA GENERAL
 
 ###### ARTICULO 2722.
 
@@ -14223,7 +14575,7 @@ TITULO DECIMOQUINTO
 
 DE LA HIPOTECA
 
-### CAPITULO I. DE LA HIPOTECA GENERAL
+### CAPITULO II. DE LA HIPOTECA VOLUNTARIA
 
 ###### ARTICULO 2760.
 
@@ -14359,7 +14711,7 @@ La acción hipotecaria prescribirá a los diez años, contados desde que pueda e
 
 La hipoteca nunca es tácita, ni general; para producir efectos contra tercero necesita siempre de registro, y se contrae por voluntad, en los convenios, y por necesidad, cuando la Ley sujeta a alguna persona a prestar esa garantía sobre bienes determinados. En el primer caso se llama voluntaria; en el segundo, necesaria.
 
-### CAPITULO II. DE LA HIPOTECA VOLUNTARIA
+### CAPITULO III. DE LA HIPOTECA NECESARIA
 
 ###### ARTICULO 2787.
 
@@ -14425,7 +14777,7 @@ La hipoteca prorrogada segunda o más veces sólo conservará la preferencia der
 
 Lo mismo se observará en el caso de que el acreedor conceda un nuevo plazo para que se le pague su crédito.
 
-### CAPITULO III. DE LA HIPOTECA NECESARIA
+### CAPITULO IV. DE LA EXTINCION DE LAS HIPOTECAS
 
 ###### ARTICULO 2798.
 
@@ -14453,29 +14805,37 @@ I.- El coheredero o partícipe, sobre los inmuebles repartidos, en cuanto import
 
 II.- Los descendientes de cuyos bienes fueren meros administradores los ascendientes, sobre los bienes de éstos, para garantizar la conservación y devolución de aquéllos; teniendo en cuenta lo que dispone la fracción III del artículo 517;
 
-III.- Los menores y demás incapacitados sobre los bienes de sus tutores, por los que éstos administren;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+III.- Las personas menores de dieciocho años de edad y las personas que no tengan la capacidad para comprender el significado del hecho, sobre los bienes de sus tutores, por los que éstos administren;
 
 IV.- Los legatarios, por el importe de sus legados, si no hubiere hipoteca especial designada por el mismo testador;
 
 V.- El Estado, los pueblos y los establecimientos públicos, sobre los bienes de sus administradores o recaudadores, para asegurar las rentas de sus respectivos cargos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE JULIO DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 2803.
 
-La constitución de la hipoteca en los casos a que se refieren las Fracciones II y III del Artículo anterior puede ser pedida:
+La constitución de la hipoteca en los casos a que se refieren las fracciones II y III del artículo anterior, puede ser pedida:
 
-I.- En el caso de bienes de que fueren meros administradores los padres, por los herederos legítimos del menor;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-II.- En el caso de bienes que administren los tutores, por los herederos legítimos y por el curador del incapacitado;
+I.- En el caso de bienes de que fueren meros administradores los padres, por los herederos legítimos del (sic) la persona menor de dieciocho años de edad;
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+II.- En el caso de bienes que administren los tutores, por los herederos legítimos y por el curador de la persona persona (sic) menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho;
 
 > <small>(REFORMADA, P.O. 31 DE JULIO DE 1987)</small>
 
 III.- Por el Ministerio Público o el Sistema Para el Desarrollo Integral de la Familia, indistintamente.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 2804.
 
-La constitución de la hipoteca por los bienes de hijos de familia, de los menores y de los demás incapacitados, se regirá por las disposiciones contenidas en el Título Octavo, Capítulo II; Título Noveno, Capítulo IX y Título Décimo Primero, Capítulos I y III Libro Primero.
+La constitución de la hipoteca por los bienes de hijos de familia, de personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho, se regirá por las disposiciones contenidas en el TITULO octavo, CAPITULO II; TITULO noveno, CAPITULO IX y TITULO DECIMO primero, CAPITULOs I y III Libro primero.
 
 ###### ARTICULO 2805.
 
@@ -14485,7 +14845,7 @@ Los que tienen derecho de exigir la constitución de hipoteca necesaria, tienen 
 
 Si el responsable de la hipoteca designada en las fracciones II, III y IV del artículo 2802 no tuviere inmuebles, no gozará el acreedor más que del privilegio mencionado en el artículo 2862, Fracción I, salvo lo dispuesto en el Capítulo IX, del Título Noveno, del Libro Primero.
 
-### CAPITULO IV. DE LA EXTINCION DE LAS HIPOTECAS
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 2807.
 
@@ -14529,9 +14889,11 @@ La transacción es un contrato por el cual las partes haciéndose recíprocas co
 
 La transacción que previene controversias futuras, debe constar por escrito si el interés pasa de doscientos pesos.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 2813.
 
-Los ascendientes y los tutores no pueden transigir en nombre de las personas que tienen bajo su potestad o bajo su guarda, a no ser que la transacción sea necesaria o útil para los intereses de los incapacitados y previa autorización judicial.
+Los ascendientes y los tutores no pueden transigir en nombre de las personas que tienen bajo su potestad o bajo su guarda, a no ser que la transacción sea necesaria o útil para los intereses de las personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho y previa autorización judicial.
 
 ###### ARTICULO 2814.
 
@@ -14617,7 +14979,7 @@ TERCERA PARTE
 
 ## TITULO PRIMERO. DE LA CONCURRENCIA Y PRELACION DE LOS CREDITOS
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO II. DE LOS CREDITOS HIPOTECARIOS Y PIGNORATICIOS Y DE ALGUNOS OTROS PRIVILEGIADOS
 
 ###### ARTICULO 2831.
 
@@ -14699,7 +15061,7 @@ Los gastos judiciales hechos por un acreedor, en lo particular, serán pagados e
 
 El crédito cuya preferencia provenga de convenio fraudulento entre el acreedor y el deudor, pierde toda preferencia, a no ser que el dolo provenga sólo del deudor, quien en este caso será responsable de los daños y perjuicios que se sigan a los demás acreedores, además de las penas que merezca por el fraude.
 
-### CAPITULO II. DE LOS CREDITOS HIPOTECARIOS Y PIGNORATICIOS Y DE ALGUNOS OTROS PRIVILEGIADOS
+### CAPITULO III. DE ALGUNOS ACREEDORES PREFERENTES SOBRE DETERMINADOS BIENES
 
 ###### ARTICULO 2847.
 
@@ -14765,7 +15127,7 @@ II.- Si los acreedores hubieren hecho novación de la deuda o de cualquier otro 
 
 Los acreedores que obtuvieren la separación de bienes, no podrán entrar al concurso del heredero, aunque aquellos no alcancen a cubrir sus créditos.
 
-### CAPITULO III. DE ALGUNOS ACREEDORES PREFERENTES SOBRE DETERMINADOS BIENES
+### CAPITULO IV. ACREEDORES DE PRIMERA CLASE
 
 ###### ARTICULO 2860.
 
@@ -14791,7 +15153,7 @@ Tratándose de bienes muebles, cesará la preferencia si hubieren sido inmoviliz
 
 IX.- Los créditos anotados en el Registro de la Propiedad, en virtud de mandamiento judicial, por embargos, secuestros o ejecución de sentencias, sobre los bienes anotados y solamente en cuánto a créditos posteriores.
 
-### CAPITULO IV. ACREEDORES DE PRIMERA CLASE
+### CAPITULO V. ACREEDORES DE SEGUNDA CLASE
 
 ###### ARTICULO 2861.
 
@@ -14809,7 +15171,7 @@ V.- El crédito por alimentos fiados al deudor para su subsistencia y la de su f
 
 VI.- La responsabilidad civil en la parte que comprende el pago de los gastos de curación o de los funerales del ofendido y las pensiones que por concepto de alimentos se deban a sus familiares. En lo que se refiere a la obligación de restituir, por tratarse de devoluciones de cosa ajena, no entra en concurso, y por lo que toca a las otras indemnizaciones que se deban por el delito, se pagarán como si se tratara de acreedores comunes de cuarta clase.
 
-### CAPITULO V. ACREEDORES DE SEGUNDA CLASE
+### CAPITULO VI. ACREEDORES DE TERCERA CLASE
 
 ###### ARTICULO 2862.
 
@@ -14821,13 +15183,13 @@ II.- Los créditos del erario que no estén comprendidos en el artículo 2847 y 
 
 III.- Los créditos de los establecimientos de beneficencia pública o privada.
 
-### CAPITULO VI. ACREEDORES DE TERCERA CLASE
+### CAPITULO VII. ACREEDORES DE CUARTA CLASE
 
 ###### ARTICULO 2863.
 
 Satisfechos los créditos de que se habla anteriormente, se pagarán los créditos que consten en escritura pública o en cualquier otro documento auténtico.
 
-### CAPITULO VII. ACREEDORES DE CUARTA CLASE
+### CAPITULO I. DE LAS OFICINAS DEL REGISTRO
 
 ###### ARTICULO 2864.
 
@@ -14839,7 +15201,7 @@ Con los bienes restantes serán pagados todos los demás créditos que no estén
 
 ## TITULO SEGUNDO. DEL REGISTRO PUBLICO
 
-### CAPITULO I. DE LAS OFICINAS DEL REGISTRO
+### CAPITULO II. DE LOS TITULOS SUJETOS A REGISTRO Y DE LOS EFECTOS LEGALES DEL REGISTRO
 
 ###### ARTICULO 2866.
 
@@ -14859,7 +15221,7 @@ El Registro será público, los encargados de la Oficina tienen la obligación d
 
 Tratándose de testamentos ológrafos depositados en el Registro se observará lo dispuesto en el Artículo 1451.
 
-### CAPITULO II. DE LOS TITULOS SUJETOS A REGISTRO Y DE LOS EFECTOS LEGALES DEL REGISTRO
+### CAPITULO III. DEL MODO DE HACER EL REGISTRO Y DE LAS PERSONAS QUE TIENEN DERECHO DE PEDIR LA INSCRIPCION
 
 ###### ARTICULO 2869.
 
@@ -14933,7 +15295,7 @@ En el caso de embargo precautorio, juicio ejecutivo o procedimiento de apremio c
 
 No pueden los bienes raíces o los derechos reales impuestos sobre los mismos, aparecer inscritos a la vez en favor de dos o más personas distintas, a menos que éstas seas copartícipes.
 
-### CAPITULO III. DEL MODO DE HACER EL REGISTRO Y DE LAS PERSONAS QUE TIENEN DERECHO DE PEDIR LA INSCRIPCION
+### CAPITULO IV. DEL REGISTRO DE LAS INFORMACIONES DE DOMINIO
 
 ###### ARTICULO 2877.
 
@@ -15025,7 +15387,7 @@ Hecho el registro, serán devueltos los documentos al que los presentó, con not
 
 La Ley Reglamentaria establecerá los derechos y obligaciones de los registradores, así como las fórmulas y demás requisitos que deben llenar las inscripciones.
 
-### CAPITULO IV. DEL REGISTRO DE LAS INFORMACIONES DE DOMINIO
+### CAPITULO V. DE LAS INSCRIPCIONES DE POSESION
 
 ###### ARTICULO 2890.
 
@@ -15039,7 +15401,7 @@ No se recibirá la información sin que previamente se haya dado una amplia publ
 
 Comprobada debidamente la posesión, el Juez declarará que el poseedor se ha convertido en propietario en virtud de la prescripción, y tal declaración se tendrá como título de propiedad y será inscrita en el Registro Público.
 
-### CAPITULO V. DE LAS INSCRIPCIONES DE POSESION
+### CAPITULO VI. DE LA EXTINCION DE LAS INSCRIPCIONES
 
 ###### ARTICULO 2891.
 
@@ -15127,9 +15489,11 @@ Cuando se registre la propiedad o cualquier otro derecho real sobre inmuebles, e
 
 Cuando se registre una sentencia que declare haber cesado los efectos de otra que esté registrada, se cancelará ésta.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 2905.
 
-Los padres, como administradores de los bienes de sus hijos; los tutores de menores o incapacitados, y cualesquiera otros administradores, aunque habilitados para recibir pagos y dar recibos, sólo pueden consentir en la cancelación del registro hecho en favor de sus representados, en el caso de pago o por sentencia judicial.
+Los padres, como administradores de los bienes de sus hijos; los tutores de personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho, y cualesquiera otros administradores, aunque habilitados para recibir pagos y dar recibos, sólo pueden consentir en la cancelación del registro hecho en favor de sus representados, en el caso de pago o por sentencia judicial.
 
 ###### ARTICULO 2906.
 
@@ -15428,3 +15792,9 @@ P.O. 17 DE SEPTIEMBRE DE 2004.
 ###### ARTÍCULO ÚNICO.
 
 Las presentes reformas entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 18 DE NOVIEMBRE DE 2005.
+
+PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presentes reformas.
