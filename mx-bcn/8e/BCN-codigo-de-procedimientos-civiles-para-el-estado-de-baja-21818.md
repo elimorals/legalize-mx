@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-civiles-para-el-estado-de-baja-21818"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2005-08-19"
+last_updated: "2005-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 2005.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -85,7 +85,7 @@ ART. 7o.- Pueden ser demandados en reivindicación, aunque no posean la cosa, el
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 8o.- No pueden reivindicarse las cosas que están fuera del comercio; los géneros no determinados al entablarse la demanda; las cosas unidas a otras por vía de accesión, según lo dispuesto por el Código Civil, ni las cosas muebles perdidas o robadas que un tercero haya adquirido de buena fe en almoneda, o de comerciante que en mercado público se dedica a la venta de objetos de la misma especie, sin previo reembolso del precio que se pagó. Se presume que no hay buena fe si de la pérdida o robo se dió aviso pública y oportunamente.
+ART. 8o.- No pueden reivindicarse las cosas que están fuera del comercio; los géneros no determinados al entablarse la demanda; las cosas unidas a otras por vía de accesión, según lo dispuesto por el Código Civil, ni las cosas muebles perdidas o robadas que un tercero haya adquirido de buena fe en almoneda, o de comerciante que en mercado público se dedica a la venta de objetos de la misma especie, sin previo reembolso del precio que se pagó. Se presume que no hay buena fe si de la pérdida o robo se dio aviso pública y oportunamente.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -377,17 +377,17 @@ III.- Las agrupaciones que no constituyan personas jurídicas reconocidas por la
 
 IV.- Las instituciones, servicios y dependencias de la Administración Pública, por medio de sus órganos autorizados;
 
-V.- El Sistema para el Desarrollo Integral de la Familia de Baja California, por medio de la Procuraduría para la Defensa del Menor y la Familia; y
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+V.- El Sistema para el desarrollo integral de la familia de Baja California, por medio de la Procuraduría para la Defensa de las personas menores de dieciocho años de edad y la Familia;
 
 VI.- El Ministerio Público.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-ART. 45.- Por los que no se hallen en el caso del artículo anterior, comparecerán sus representantes legítimos o los que deban suplir su incapacidad conforme a derecho. Los ausentes e ignorados serán representados como se previene en el título décimoprimero, libro primero del Código Civil.
+ART. 45.- Por los que no se hallen en el caso del artículo anterior, comparecerán sus representantes legítimos o los que deban suplir a las personas que no tengan capacidad para comprender el significado del hecho conforme a derecho. Los ausentes e ignorados serán representantes como se previene en el Título Décimo primero, Libro primero del Código Civil.
 
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1987)</small>
-
-En los casos de menores o incapacitados, a falta o por impedimento de los padres, el Juez, previa opinión del Sistema para el Desarrollo Integral de la Familia, proveerá el nombramiento de Tutor Especial para un juicio determinado.
+En los casos de las personas menores de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho, a falta o por impedimento de los padres, el Juez, previa opinión del Sistema para el Desarrollo Integral de la Familia, proveerá el nombramiento de Tutor Especial para un juicio determinado.
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -1169,7 +1169,9 @@ VII.- En los concursos de acreedores, el Juez del domicilio del deudor;
 
 VIII.- En los actos de jurisdicción voluntaria, el del domicilio del que promueve, pero si se tratare de bienes raíces, lo será el del lugar donde estén ubicados;
 
-IX.- En los negocios relativos a la tutela de los menores e incapacitados, el Juez de la residencia de éstos, para la designación del tutor, y en los demás casos, el del domicilio de éste;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+IX.- En los negocios relativos a la tutela de las personas menores de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho, el Juez de la residencia de éstos, para la designación del tutor, y en los demás casos, el del domicilio de éste;
 
 X.- En los negocios relativos a suplir el consentimiento de quien ejerce la patria potestad, o impedimentos para contraer matrimonio, el del lugar donde se hayan presentado los pretendientes;
 
@@ -1543,9 +1545,9 @@ ART. 206.- El que intente demandar o acusar a su cónyuge, puede solicitar su se
 
 ART. 207.- Sólo los Jueces de Primera Instancia pueden decretar la separación de que habla el Artículo anterior, a no ser que por circunstancias especiales no pueda ocurrirse al Juez competente, pues entonces el Juez del lugar podrá decretar la separación provisionalmente, remitiendo las diligencias al competente.
 
-(REFORMADO, P.O. 20 DE JUNIO DE 1975) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-ART. 208.- La solicitud puede ser escrita o verbal, en la que se señalarán las causas en que se funda, el domicilio para su habitación, la existencia de hijos menores y las demás circunstancias del caso.
+ART. 208.- La solicitud puede ser escrita o verbal, en la que se señalarán las causas en que se funda, el domicilio para su habitación, la existencia de hijos que sean personas menores de dieciocho años de edad y las demás circunstancias del caso.
 
 (REFORMADO, P.O. 20 DE JUNIO DE 1975) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -1569,9 +1571,9 @@ A juicio del Juez, podrá concederse por una sola vez una prórroga por igual t�
 
 ART. 213.- En la misma resolución ordenará la notificación al otro cónyuge, previniéndole que se abstenga de impedir la separación o causar molestias a su cónyuge, bajo apercibimiento de procederse en su contra en los términos a que hubiere lugar.
 
-(REFORMADO, P.O. 20 DE JUNIO DE 1975) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-ART. 214.- El Juez determinará la situación de los hijos menores atendiendo a las circunstancias del caso, tomando en cuenta las obligaciones señaladas en el Artículo 162 del Código Civil y las propuestas, si las hubiere, de los cónyuges.
+ART. 214.- El Juez determinará la situación de los hijos que sean personas menores de dieciocho años de edad atendiendo a las circunstancias del caso, tomando en cuenta las obligaciones señaladas en el artículo 162 del Código Civil y las propuestas, si las hubiere, de los cónyuges.
 
 (REFORMADO, P.O. 20 DE JUNIO DE 1975) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -2945,9 +2947,9 @@ XV.- La consignación en pago;
 
 XVI.- Las acciones relativas a servidumbres legales o que consten en títulos públicos y;
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-XVII.- Los asuntos relativos a la pérdida de la patria potestad, cuando en estos sea parte la Procuraduría para la Defensa del Menor y la Familia del Estado de Baja California, por las causas a que se refieren las fracciones III, IV, V y VI del Artículo 441 del Código Civil para el Estado de Baja California, y el menor de que se trate, se encuentre bajo la custodia del Sistema para el Desarrollo Integral de la Familia;
+XVII.- Los asuntos relativos a la pérdida de la patria potestad, cuando en estos sea parte la Procuraduría para la Defensa de las personas menores de dieciocho años de edad y la Familia de Baja California, por las causas a que se refieren las fracciones III, IV, V, VI del artículo 441 del Código Civil para el Estado de Baja California, y la persona menor de dieciocho años de edad de que se trate, se encuentre bajo la tutela del Sistema para el Desarrollo Integral de la Familia;
 
 XVIII.- En general, las cuestiones que por su naturaleza requieran celeridad o lo determine la ley.
 
@@ -4103,7 +4105,9 @@ ART. 597.- El compromiso puede celebrarse por escritura pública, por escritura 
 
 ART. 598.- Todo el que esté en el pleno ejercicio de sus derechos civiles puede comprometer en árbitros sus negocios.
 
-Los tutores no pueden comprometer los negocios de los incapacitados ni nombrar árbitros, sino con aprobación judicial, salvo el caso en que dichos incapacitados fueren herederos de quien celebró el compromiso o estableció cláusula compromisoria. Si no hubiere designación de árbitros, se hará siempre con intervención judicial, como se previno en los medios preparatorios a juicio arbitral.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+Los tutores no pueden comprometer los negocios de las personas menores de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho ni nombrar árbitros, sino con aprobación judicial, salvo el caso en que dichas personas menores de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho fueren herederos de quien celebró el compromiso o estableció cláusula compromisoria. Si no hubiere designación de árbitros, se hará siempre con intervención judicial, como se previno en los medios preparatorios a juicio arbitral.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -4433,21 +4437,23 @@ Divorcio por mutuo consentimiento
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-### CAPITULO UNICO. (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+### CAPITULO UNICO
 
-ART. 660.- Cuando ambos consortes convengan en divorciarse, en los términos del último párrafo del artículo 269 del Código Civil, deberán ocurrir al tribunal competente presentando el convenio que se exige en el artículo 270 del Código citado, así como una copia certificada del acta de matrimonio y de las de nacimiento de los hijos menores.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-(REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+ART. 660.- Cuando ambos consortes convengan en divorciarse, en los términos del último párrafo del artículo 269 del Código Civil, deberán ocurrir al Tribunal competente presentando el convenio que se exige en el artículo 270 del Código citado, así como una copia certificada del acta de matrimonio y de las de nacimiento de los hijos que sean personas menores de dieciocho años de edad.
 
-ART. 661.- Hecha la solicitud citará el Tribunal a los cónyuges, al Ministerio Público y al Sistema para el Desarrollo Integral de la Familia, a una junta en la que se identificarán plenamente, que se efectuará después de los ocho y antes de los quince días siguientes, y si asistieren los interesados los exhortará para procurar su reconciliación, si no logra avenirlos, aprobará provisionalmente, oyendo al Sistema para el Desarrollo Integral de la Familia, los puntos del convenio relativos a la situación de los hijos menores o incapacitados, a la separación de los cónyuges y a los alimentos de aquéllos y de los que un cónyuge deba dar a otro mientras dura el procedimiento, dictando las medidas necesarias de aseguramiento.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-(REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+ART. 661.- Hecha la solicitud citará el Tribunal a los cónyuges, al Ministerio Público y al Sistema para el Desarrollo Integral de la Familia, a una junta en la que se identificarán plenamente, que se efectuará después de los ocho y antes de los quince días siguientes, y si asistieren los interesados los exhortará para procurar su reconciliación, si no logra avenirlos, aprobará provisionalmente, oyendo al Sistema para el Desarrollo Integral de la Familia, los puntos del convenio relativos a la situación de los hijos que sean personas menores de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho, a la separación de los cónyuges y a los alimentos de aquéllos y de los que un cónyuges deba dar a otro mientras dura el procedimiento, dictando las medidas necesarias de aseguramiento.
 
-ART. 662.- Si insistieren los cónyuges en su propósito de divorciarse, citará el Tribunal a una segunda junta que se efectuará después de los ocho y antes de los quince días de solicitada, y en ella volverá a exhortar a aquéllos con el propio fin que en la anterior. Si tampoco se lograre la reconciliación, y en el convenio quedaren bien garantizados los derechos de los hijos menores o incapacitados, el Tribunal oyendo el parecer del representante del Ministerio Público y del Sistema para el Desarrollo Integral de la Familia sobre este punto, dictará sentencia en que quedará disuelto el vínculo matrimonial, y decidirá sobre el convenio presentado.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+ART. 662.- Si insistieren los cónyuges en su propósito de divorciarse, citará el Tribunal a una segunda junta que se efectuará después de los ocho y antes de los quince días de solicitada, y en ella volverá a exhortar a aquellos con el propio fin que en la anterior. Si tampoco se lograre la reconciliación, y en el convenio quedaren bien garantizados los derechos de los hijos que sean personas menores de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho, el Tribunal oyendo el parecer del representante del Ministerio Público y del Sistema para el Desarrollo Integral de la Familia sobre este punto, dictará sentencia en que quedará disuelto el vínculo matrimonial, y decidirá sobre el convenio presentado.
 
-ART. 663.- El cónyuge menor de edad necesita de un tutor especial para poder solicitar el divorcio por mutuo consentimiento.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+ART. 663.- El cónyuge persona menor de dieciocho años de edad necesita de un tutor especial para poder solicitar el divorcio por mutuo consentimiento.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -4969,9 +4975,9 @@ Juicios sucesorios
 
 ### CAPITULO I. Disposiciones generales
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-ART. 755.- Luego que el tribunal tenga conocimiento de la muerte de una persona dictará, con audiencia del Ministerio Público, mientras no se presenten los interesados, y sin perjuicio de lo dispuesto en el artículo 202 del Código Civil, las providencias necesarias para asegurar los bienes, y si el difunto no era conocido o estaba de transeúnte en el lugar, o si hay menores interesados, o peligro de que se oculten o dilapiden los bienes.
+ART. 755.- Luego que el tribunal tenga conocimiento de la muerte de una persona dictará, con audiencia del Ministerio Público, mientras no se presenten los interesados, y sin perjuicio de lo dispuesto en el artículo 202 del Código Civil, las providencias necesarias para asegurar los bienes, y si el difunto no era conocido o estaba de transeúnte en el lugar, o si hay personas menores de dieciocho años de edad interesados, o peligro de que se oculten o dilapiden los bienes.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -5017,9 +5023,9 @@ ART. 760.- Al promoverse el juicio sucesorio debe presentarse la partida de defu
 
 ART. 761.- Cuando, con fundamento en la declaración de ausencia o presunción de muerte de un ausente, se haya abierto sucesión, si durante la tramitación del juicio se hace constar la fecha de la muerte, desde ella se entenderá abierta la sucesión; y, cesando en sus funciones el representante, se procederá al nombramiento del interventor o albacea con arreglo a derecho.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-ART. 762.- En los juicios sucesorios en que haya herederos o legatarios menores que no tuvieren representante legítimo, dispondrá el tribunal que designen un tutor, si han cumplido dieciséis años. Si los menores no han cumplido dieciséis años, o los incapacitados no tienen tutor, será éste nombrado por el juez.
+ART. 762.- En los juicios sucesorios en que haya herederos o legatarios que sean personas menores de dieciocho años de edad que no tuvieren representante legítimo, dispondrá el tribunal que designe un tutor, si han cumplido dieciséis años. Si las personas no han cumplido dieciséis años, o las personas que no tengan capacidad para comprender el significado del hecho no tienen tutor, será éste nombrado por el Juez.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -5041,9 +5047,9 @@ V.- Los juicios que sigan los herederos deduciendo la acción de petición de he
 
 VI.- Las acciones de los legatarios reclamando sus legados, siempre que sean posteriores a la facción de inventarios, y antes de la adjudicación, excepto los legados de alimentos, de pensiones, de educación y de uso y habitación.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-ART. 765.- En los juicios sucesorios el Ministerio Público representará a los herederos ausentes mientras no se presenten o no acrediten su representante legítimo, a los menores o incapacitados que no tengan representantes legítimos, y a la Beneficencia Pública cuando no haya herederos legítimos dentro del grado de ley, y mientras no se haga reconocimiento o declaración de herederos.
+ART. 765.- En los juicios sucesorios el Ministerio Público presentará a los herederos ausentes mientras no se presenten o no acrediten su representante legítimo, a las personas menores de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho que no tengan representantes legítimos, y a la Beneficencia Pública cuando no haya herederos legítimos dentro del grado de la ley, y mientras no se haga reconocimiento o declaración de herederos.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -5141,11 +5147,11 @@ ART. 777.- Si no se conociere el domicilio de los herederos y éstos estuvieren 
 
 Estando ausentes los herederos y sabiéndose su residencia, se les citará por exhorto cuando estuvieren fuera del Estado.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-ART. 778.- Si hubiere herederos menores o incapacitados que tengan tutor, mandará citar a éste para la junta.
+ART. 778.- Si hubiere herederos que sean personas menores de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho que tengan tutor, mandará citar para la junta.
 
-Si los herederos menores no tuvieren tutor, dispondrá que le nombren con arreglo a derecho como se previene en el artículo 762.
+Si los herederos son personas menores de dieciocho años de edad no tuvieren tutor, dispondrá que le nombren con arreglo a derecho como se previene en el artículo 762.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -5157,9 +5163,11 @@ ART. 780.- Se citará también al Ministerio Público para que represente a los 
 
 Luego que se presenten los herederos ausentes cesará la representación del Ministerio Público.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-ART. 781.- Si el tutor o cualquier representante legítimo de algún heredero menor o incapacitado tiene interés en la herencia, le proveerá el juez, con arreglo a derecho, de un tutor especial para el juicio o hará que le nombre, si tuviere edad para ello. La intervención del tutor especial se limitará sólo a aquello en que el propietario o representante legítimo tenga incompatibilidad.
+###### ARTÍCULO 781.
+
+Si el tutor o cualquier representante legítimo de algún heredero que sea persona menor de dieciocho años de edad o persona que no tenga capacidad para comprender el significado del hecho tiene interés en la herencia, la proveerá el Juez con arreglo a derecho, de un tutor especial para el juicio o hará que le nombre, si tuviere edad para ello. La intervención del tutor especial se limitará sólo a aquello en que el propietario o representante legítimo tenga incompatibilidad.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -5269,9 +5277,9 @@ ART. 801.- Dentro de diez días de haber aceptado su cargo, el albacea debe proc
 
 El inventario y avalúo se practicarán simultáneamente, siempre que no fuere imposible por la naturaleza de los bienes.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-ART. 802.- El inventario se practicará por el actuario del juzgado o por un notario nombrado por la mayoría de los herederos, cuando ésta la constituyan menores de edad, o cuando los establecimientos de beneficencia tuvieren interés en la sucesión como herederos o legatarios.
+ART. 802.- El inventario se practicará por el actuario del Juzgado o por un notario nombrado por la mayoría de los hechos cuando esta la constituyan personas menores de dieciocho años de edad o cuando los establecimientos de personas menores de dieciocho años de edad o cuando los establecimientos de beneficencia tuvieren interés en la sucesión como herederos o legatarios.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
@@ -5585,7 +5593,9 @@ I.- Con la certificación de la defunción del autor de la herencia se acompaña
 
 II.- El inventario y avalúo se harán por el cónyuge que sobreviva o el albacea si estuviere designado y, en su defecto, por el heredero que sea de más edad; el avalúo deberá ser firmado por un perito oficial o, en su defecto, por cualquier comerciante de honorabilidad reconocida;
 
-III.- El juez convocará a junta a los interesados, nombrando en ella tutores especiales a los menores que tuvieren representante legítimo cuando el interés de éstos fuere opuesto al de aquéllos, y procurará ponerlos de acuerdo sobre la forma de hacer la partición. Si no logra ponerlos de acuerdo, nombrará un partidor entre los contadores oficiales a cargo del Erario, para que, en el término de cinco días, presente el proyecto de partición, que dará a conocer a los interesados en una nueva junta a que serán convocados por cédula o correo. En esa misma audiencia oirá y decidirá las oposiciones, mandando hacer la adjudicación;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+III.- El Juez convocará a junta a los interesados, nombrando en ella tutores especiales a las personas menores de dieciocho años de edad que tuvieren representante legítimo cuando el interés de éstos fuere opuesto al de aquellos, y procurará ponerlos de acuerdo sobre la forma de hacer la partición. Si no logra ponerlos de acuerdo, nombrará un partido entre los contadores oficiales a cargo del erario, para que, en el término de cinco días, presente el proyecto de partición, que dará a conocer a los interesados en una nueva junta a que serán convocados por cédula o correo. En esa misma audiencia oirá y decidirá las oposiciones, mandando hacer la adjudicación;
 
 IV.- Todas las resoluciones se harán constar en actas, y no se requieren peticiones escritas de parte interesada para la tramitación del juicio, con excepción de la denuncia del intestado, que se hará con copia para dar aviso al Fisco, en su caso;
 
@@ -5747,7 +5757,9 @@ ART. 880.- Se oirá precisamente al Ministerio Público:
 
 I.- Cuando la solicitud promovida afecte los intereses públicos;
 
-II.- Cuando se refiera a la persona, o bienes de menores o incapacitados;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+II.- Cuando se refiere a la persona, o bienes de personas menores de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho;
 
 III.- Cuando tenga relación con los derechos o bienes de un ausente;
 
@@ -5777,27 +5789,25 @@ ART. 884.- La substanciación de las apelaciones en jurisdicción voluntaria se 
 
 ART. 885.- Toda cuestión que surja en los negocios a que se refrieren los capítulos siguientes, y haya de resolverse en juicio contradictorio, se substanciará en la forma determinada para los incidentes, a no ser que la ley dispusiere otra cosa.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-ART. 886.- En los negocios de menores e incapacitados intervendrán los funcionarios que determina el Código Civil.
+ART. 886.- En los negocios de personas menores de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho intervendrán los funcionarios que determina el Código Civil.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
 ### CAPITULO II. Del nombramiento de tutores y curadores y discernimiento de estos cargos
 
-(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-ART. 887.- Ninguna tutela puede conferirse sin que previamente se declare el estado de minoridad o de incapacidad de la persona que va a quedar sujeta a ella.
+ART. 887.- Ninguna tutela puede conferirse sin que previamente se haga la declaración de persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho de la persona que va a quedar sujeta a ella.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1987)</small>
+La declaración de minoría de edad o de no tener capacidad para comprender el significado del hecho puede pedirse: 1o .- Por la misma persona, si ha cumplido dieciséis años; 2o.- Por su cónyuge; 3o.- Por sus presuntos herederos legítimos; 4o.- Por el albacea; 5o.- Por el Ministerio Público; 6o. Por el Sistema para el Desarrollo Integral de la Familia de Baja California.
 
-La declaración de estado de minoridad o demencia puede pedirse: 1o.- Por el mismo menor, si ha cumplido dieciséis años; 2o.- Por su cónyuge; 3o.- Por sus presuntos herederos legítimos; 4o.- Por el albacea; 5o.- Por el Ministerio Público; 6o.- Por el Sistema para el Desarrollo Integral de la Familia de Baja California.
+Pueden pedir la declaración de minoría de edad los funcionarios encargados de ello por el Código Civil.
 
-Pueden pedir la declaración de minoridad los funcionarios encargados de ello por el Código Civil.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
-
-ART. 888.- Si a la petición de declaración de minoridad se acompaña la certificación del Registro Civil, se hará la declaración de plano. En caso contrario, se citará inmediatamente a una audiencia dentro del tercer día, a la que concurrirán el menor si fuere posible, y el Ministerio Público. En ella, con o sin la asistencia de éste, y por las certificaciones del Registro Civil si hasta este momento se presentaron, por el aspecto del menor, y a falta de aquéllas o de la presencia de éste, por medio de información de testigos, se hará o denegará la declaración correspondiente.
+ART. 888.- Si a la petición de la declaración de minoría de edad se acompaña la certificación del Registro Civil, se hará la declaración de plano. En caso contrario, se citará inmediatamente a una audiencia dentro del tercer día, a la que concurrirán la persona menor (sic) dieciocho años de edad si fuere posible, y el Ministerio Público. En ella, con o sin la asistencia de éste, y por las certificaciones del Registro Civil si hasta este momento se presentaron, por el aspecto de la persona menor de dieciocho años de edad, y a falta de aquéllas o de la presencia de éste, por medio de información de testigos, se hará o denegará la declaración correspondiente.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
@@ -5855,9 +5865,9 @@ Cuando el impedimento o la causa legal de excusa ocurrieren después de la acept
 
 La aceptación o el transcurso de los términos, en su caso, importan renuncia de la excusa.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-ART. 892.- El menor podrá oponerse al nombramiento de tutor hecho por la persona que no siendo ascendiente le haya instituido heredero o legatario, cuando tuviere dieciséis años o más.
+ART. 892.- La persona podrá oponerse al nombramiento de tutor hecho por la persona que no siendo ascendiente le haya instituido heredero o legatario, cuando tuviere dieciséis años o más.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -5867,19 +5877,33 @@ ART. 893.- Siempre que el tutor nombrado no reúna los requisitos que la ley exi
 
 ART. 894.- En el Tribunal Superior de Justicia, bajo el cuidado y responsabilidad del Presidente, habrá un registro en que se inscribirá testimonio simple de todos los discernimientos que se hicieren de los cargos de tutor y curador.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-ART. 895.- Dentro de los ocho primeros días de cada año, en audiencia pública con citación del Ministerio Público, se procederá a examinar dicho registro y, ya en su vista, dictará las siguientes medidas:
+###### ARTÍCULO 895.
+
+Dentro de los ocho primeros días de cada año, en audiencia pública con citación del Ministerio Público, se procederá a examinar dicho registro y, ya en su vista, dictará las siguientes medidas.
+
+(REPUBLICADA, P.O. 26 DE MAYO DE 1995)
 
 I.- Si resultare haber fallecido algún tutor, harán que sea reemplazado, con arreglo a la ley;
 
+(REPUBLICADA, P.O. 26 DE MAYO DE 1995)
+
 II.- Si hubiere alguna cantidad de dinero depositada para darle destino determinado, harán que, desde luego tengan cumplido efecto las prescripciones del Código Civil;
+
+(REPUBLICADA, P.O. 26 DE MAYO DE 1995)
 
 III.- Exigirán también que rindan cuenta los tutores que deban darla y que por cualquier motivo no hayan cumplido con la prescripción expresa del artículo 587 del Código Civil;
 
-IV.- Obligarán a los tutores a que depositen, en el establecimiento público destinado al efecto, los sobrantes de las rentas o productos del caudal de los menores, después de cubiertas las sumas señaladas con arreglo a los artículos 535, 536 y 551 del Código Civil, y de pagado el tanto por ciento de administración;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+IV.- Obligarán a los tutores a que depositen, en el establecimiento público destinado al efecto, los sobrantes de las rentas o productos del caudal de las personas menores de dieciocho años de edad, después de cubiertas las sumas señaladas con arreglo a los artículos 535, 536 y 551 del Código Civil, y de pagado el tanto por ciento de administración;
+
+(REPUBLICADA, P.O. 26 DE MAYO DE 1995)
 
 V.- Si los jueces lo creyeren conveniente, decretarán el depósito, cuando se presenten dificultades insuperables para el inmediato cumplimiento de los artículos 554 y 555 del Código Civil;
+
+(REPUBLICADA, P.O. 26 DE MAYO DE 1995)
 
 VI.- Pedirán, al efecto, las noticias que estimen necesarias del estado en que se halle la gestión de la tutela, y adoptarán las medidas que juzguen convenientes para evitar los abusos y remediar los que puedan haberse cometido.
 
@@ -5887,9 +5911,9 @@ VI.- Pedirán, al efecto, las noticias que estimen necesarias del estado en que 
 
 ART. 896.- En todos los casos de impedimento, separación o excusa del curador propietario, se nombrará curador interino mientras se decide el punto. Resuelto, se nombrará, en su caso, nuevo curador conforme a derecho.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-ART. 897.- Sobre la rendición y aprobación de cuentas de los tutores, regirán las disposiciones contenidas en los artículos 505 y siguientes, con estas modificaciones: 1o.- No se requiere prevención judicial para que las rindan en el mes de enero de cada año, conforme lo dispone el artículo 587 del Código Civil; 2o.- Se requiere prevención judicial para que las rindan antes de llegar a ese término; 3o.- Las personas a quienes deban ser rendidas, son el mismo juez, el curador, el mismo menor que haya cumplido dieciséis años de edad, el tutor que le reciba, el pupilo que dejare de serlo, y las demás personas que fija el Código Civil; 4o.- La sentencia que desaprobare las cuentas indicará, si fuere posible, los alcances.
+ART. 897.- Sobre la rendición y aprobación de cuentas de los tutores, regirán las disposiciones contenidas en los artículos 505 y siguientes, con estas modificaciones: 1o.- No se requiere prevención judicial para que las rindan en el mes de enero de cada año, conforme los dispone el artículo 587 del Código Civil; 2o.- Se requiere prevención judicial para que las rindan antes de llegar a ese término; 3o.- Las personas a quienes deban ser rendidas, son el mismo Juez, el curador, la misma persona que haya cumplido dieciséis años de edad, el tutor que le reciba, el pupilo que dejaré de serlo, y las demás personas que fija el Código Civil; 4o.- La sentencia que desaprobare las cuentas indicará, si fuere posible, los alcances.
 
 Del auto de la aprobación pueden apelar el Ministerio Público, el Sistema para el Desarrollo Integral de la Familia de Baja California, los demás interesados y el curador si hizo observación. Del auto de desaprobación pueden apelar el tutor, el curador, el Ministerio Público y el Sistema para el Desarrollo Integral de la Familia de Baja California; 5o.- Si se objetaren de falsas algunas partidas, se substanciará el incidente por cuerda separada, entendiéndose la audiencia solo con los objetantes, el Ministerio Público, el Sistema para el Desarrollo Integral de la Familia de Baja California y el tutor.
 
@@ -5905,9 +5929,9 @@ ART. 899.- Los tutores y curadores no pueden ser removidos ni excusarse por acto
 
 ### CAPITULO III. De la enajenación de bienes de menores o incapacitados y transacción acerca de sus derechos
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-ART. 900.- Será necesaria licencia judicial para la venta de los bienes que pertenezcan exclusivamente a menores o incapacitados y corresponden a las clases siguientes: 1a.- Bienes raíces; 2a.- Derechos reales sobre inmuebles; 3a.- Alhajas y muebles preciosos; 4a.- Acciones de compañías industriales y mercantiles, cuyo valor exceda de cinco mil pesos.
+ART. 900.- Será necesaria licencia judicial para la venta de los bienes que pertenezcan exclusivamente a personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho y corresponden a las clases siguientes: 1a. Bienes raíces; 2a. Derechos reales sobre inmuebles; 3a. Alhajas y muebles preciosos; 4a. Acciones de compañías industriales y mercantiles, cuyo valor exceda de cinco mil pesos.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -5921,11 +5945,15 @@ La solicitud del tutor se sustanciará en forma de incidente con intervención d
 
 Los peritos que se designen para hacer el avalúo serán nombrados por el juez.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+ART. 902.- Respecto de las alhajas y muebles preciosos, el Juez determinará si conviene o no la subasta, atendiendo en todo a la utilidad que resulte a la persona menor de dieciocho años de edad; si se decreta, se procederá conforme al artículo 584.
+
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 902.- Respecto de las alhajas y muebles preciosos, el juez determinará si conviene o no la subasta, atendiendo en todo a la utilidad que resulte al menor; si se decreta, se procederá conforme al artículo 584.
-
 El remate de los inmuebles se hará conforme a los artículos 551 y siguientes y en él no podrá admitirse postura que baje de las dos tercias partes del avalúo pericial ni la que no se ajuste a los términos de la autorización judicial.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
 Si en la primera almoneda no hubiere postor, el juez convocará, a solicitud del tutor o del curador, a una junta dentro del tercer día, para ver si son de modificarse o no las bases del remate, señalándose nuevamente las almonedas que fueren necesarias.
 
@@ -5943,13 +5971,13 @@ El juez señalará un término prudente al tutor para que justifique la inversi�
 
 ART. 905.- Para la venta de los bienes inmuebles del hijo, o de los muebles preciosos, requerirán los que ejercen la patria potestad de la autorización judicial en los mismos términos que los señalados en el Artículo 901. El incidente se substanciará con el Ministerio Público, el Sistema para el Desarrollo Integral de la Familia y con un tutor especial que, para el efecto, nombre el Juez desde las primeras diligencias. La base de la primera almoneda, si es bien raíz, será el precio fijado por los peritos, y la postura legal no será menor de los dos tercios de este precio.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-ART. 906.- Para recibir dinero prestado en nombre del menor o incapacitado necesita el tutor la conformidad del curador y después de la autorización judicial.
+ART. 906.- Para recibir dinero prestado en nombre de la persona persona (sic) menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho necesita el tutor la conformidad del curador y después de la autorización judicial.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-ART. 907.- Lo dispuesto en los artículos que preceden se aplicará al gravamen y enajenación de los bienes de ausentes, así como a la transacción y arrendamiento por más de cinco años de bienes de ausentes menores o incapacitados.
+ART. 907.- Lo dispuesto en los artículos que preceden se aplicará al gravamen y enajenación de los bienes ausentes, así como a la transacción y arrendamiento por más de cinco años de bienes de personas ausentes menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -5959,15 +5987,23 @@ ART. 907.- Lo dispuesto en los artículos que preceden se aplicará al gravamen 
 
 ART. 908.- El que pretende adoptar, deberá manifestar y acompañar a la promoción inicial, en su caso, los documentos que acrediten lo siguiente:
 
-I.- Su nombre y edad del menor o incapaz que pretende adoptar, así como la clase de adopción que desea realizar;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+I.- Su nombre y edad de la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho que pretenda adoptar, así como la clase de adopción que sea realizar;
 
 II.- Nombre y domicilio de quienes ejerzan sobre él la Patria Potestad o la Tutela, o de las personas que lo hayan acogido;
 
-III.- El estudio médico, psicológico y socio-económico, tanto de los adoptantes como del menor que se pretenda adoptar, realizado por el Sistema Estatal para el Desarrollo Integral de la Familia, pudiéndose exhibir en forma posterior y a petición del Juez;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-IV.- La constancia de la exposición o del tiempo de abandono, para los efectos del artículo 441 del Código Civil, cuando el menor hubiere sido acogido por una institución de asistencia pública o privada; y,
+III.- El estudio médico, psicológico y socio-económico, tanto de los adoptantes como de la persona menor de dieciocho años de edad, o persona que no tenga la capacidad para comprender el significado del hecho que se pretenda adoptar, realizado por el Sistema Estatal para el Desarrollo Integral de la Familia, pudiéndose exhibir en forma posterior y a petición del Juez;
 
-V.- Tratándose de extranjeros, además de lo previsto con antelación, deberán acompañar los documentos que acrediten su legal estancia o residencia en México y autorización de la Secretaría de Gobernación para internarse y permanecer en la República con la finalidad de realizar la adopción; certificado la idoneidad para adoptar expedido por la autoridad competente de su país de origen y constancia de que el menor que se pretende adoptar ha sido autorizado para entrar y residir permanentemente en el.
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+IV.- La constancia de la exposición o del tiempo de abandono para los efectos del artículo 441 del Código Civil, cuando la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho, hubiere sido acogida por una institución de asistencia pública o privada; y,
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+V.- Tratándose de extranjeros, además de lo previsto con antelación, deberán acompañar los documentos que acrediten su legal estancia o residencia en México y autorización de la Secretaría de Gobernación para internarse y permanecer en la República con la finalidad de realizar la adopción; certificado la idoneidad para adoptar expedido por la autoridad competente de su país de origen y constancia de que la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho, que se pretende adoptar ha sido autorizado para entrar y rescindir permanentemente en el.
 
 La solicitud de adopción a que se refiere este artículo deberá ser suscrita en forma personal por el interesado, debiendo el Juez ordenar la ratificación de la misma, en su presencia, sin cuyo requisito no se le dará trámite. Tampoco se le deberá dar trámite a las solicitudes que vengan suscritas por apoderado.
 
@@ -6097,11 +6133,11 @@ III.- La calificación de la excusa de la patria potestad en los casos a que se 
 
 IV.- (DEROGADA, P.O. 10 DE MAYO DE 1983)
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-ART. 924.- Podrá decretarse el depósito: de menores o incapacitados que se hallen sujetos a la patria potestad o a tutela y que fueren maltratados por sus padres o tutores, o reciban de éstos ejemplos perniciosos, a juicio del juez, o sean obligados por ellos a cometer actos reprobados por las leyes; de huérfanos o incapacitados que queden en abandono por la muerte, ausencia o incapacidad física de la persona a cuyo cargo estuvieren.
+ART. 924.- Podrá decretarse el depósito: de las personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho, que se hallen sujetos a la patria potestad o a tutela y que fueren maltratados por sus padres o tutores, o reciban de éstos ejemplos perniciosos, a juicio del Juez o sea obligados por ellos a cometer actos reprobados por las leyes; de las personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho que queden en abandono por la muerte, ausencia o incapacidad física de la persona a cuyo cargo estuvieren.
 
-El menor de edad que deseando contraer matrimonio necesite acudir a la autoridad competente para suplir el consentimiento de sus padres, puede solicitar al Juez que determine sobre su custodia.
+La persona menor de dieciocho años de edad que deseando contraer matrimonio necesite acudir a la autoridad competente para suplir el consentimiento de sus padres, puede solicitar al Juez que determine sobre su custodia.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -6115,9 +6151,9 @@ TITULO DECIMOSEXTO
 
 ART. 925.- Todos los problemas inherentes a la familia se consideran de orden público, por constituir la base de la integración de la sociedad.
 
-(REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-ART. 926.- El Juez de lo Familiar estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de menores y de alimentos, decretando las medidas que tiendan a preservarla y a proteger a sus miembros.
+ART. 926.- El Juez de lo Familiar estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de personas menores de dieciocho años de edad y de alimentos, decretando las medidas que tiendan a preservarla y a proteger a sus miembros.
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -6181,9 +6217,9 @@ ART. 934.- La audiencia se llevará a cabo dentro de los quince días contados a
 
 ART. 935.- Si por cualquier circunstancia la audiencia no puede celebrarse, ésta se verificará dentro de los ocho días siguientes. Las partes deberán presentar a sus testigos y peritos. De manifestar bajo protesta de decir verdad el no estar en aptitud de hacerlo, se impondrá al Actuario del Juzgado la obligación de citar a los primeros y de hacer saber su cargo a los segundos, citándolos asimismo, para la audiencia respectiva, en la que deberán rendir dictamen. Dicha citación se hará con apercibimiento de arresto hasta por quince días, de no comparecer el testigo o el perito sin causa justificada y al promovente de la prueba, de imponerle una multa hasta de diez veces el salario mínimo en Baja California, en caso de que el señalamiento de domicilio resulte inexacto o de comprobarse que se solicitó la prueba con el propósito de retardar el procedimiento, sin perjuicio de que se denuncie la falsedad resultante. Las partes, en caso de que se ofrezca la prueba confesional, deberán ser citados con apercibimiento de ser declaradas confesas de las posiciones que se les articulen y sean calificadas de legales, a menos que acrediten justa causa para no asistir.
 
-(REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-ART. 936.- La sentencia se pronunciará de manera breve y concisa, en el mismo momento de la audiencia de ser así posible o dentro de los cinco días siguientes. En su decisión el juzgador tomará en consideración, preferentemente, el interés de los menores que formen parte de la familia, y si no los hubiere en ésta, se atenderá al interés de ella y por último al de los mayores que la formen.
+ART. 936.- La sentencia se pronunciará de manera breve y concisa, en el mismo momento de la audiencia de ser así posible o dentro de los cinco días siguientes. En su decisión el juzgador tomará en consideración, privilegiando, el interés superior de las personas menores de dieciocho años de edad que formen parte de la familia, y si no los hubiere en ésta, se atenderá al interés de ella y por último la de los mayores que la formen.
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -6193,9 +6229,9 @@ ART. 937.- La sentencia que se dicte, será apelable en el efecto devolutivo, de
 
 ART. 938.- Las resoluciones sobre alimentos que fueren apeladas, se ejecutarán sin fianza.
 
-(REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-ART. 939.- La recusación con causa o sin ella no podrá impedir que el Juez adopte las medidas provisionales sobre depósito de personas, alimentos y menores.
+ART. 939.- La recusación con causa o sin ella no podrá impedir que el Juez adopte las medidas provisionales sobre depósito de personas, alimentos y las personas menores de dieciocho años de edad.
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -6670,3 +6706,9 @@ UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su public
 P.O. 19 DE AGOSTO DE 2005.
 
 ÚNICO.- Las presentes reformas, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 18 DE NOVIEMBRE DE 2005.
+
+PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presentes reformas.
