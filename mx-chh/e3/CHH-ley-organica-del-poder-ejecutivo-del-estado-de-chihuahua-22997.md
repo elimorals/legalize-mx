@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2005-11-09"
+last_updated: "2005-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 2005.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -431,9 +431,7 @@ III.- Planear, y evaluar los servicios de salud y de asistencia social que corre
 
 IV.- Coordinar el Sistema Estatal de Salud;
 
-> <small>(ADICIONADA, P.O. 29 DE ENERO DE 1994)</small>
-
-V.- Organizar, coordinar y fomentar la enseñanza y la práctica extraescolar de los deportes;
+V.- (DEROGADA, P.O. 19 DE NOVIEMBRE DE 2005)
 
 > <small>(ADICIONADA, P.O. 29 DE ENERO DE 1994)</small>
 
@@ -451,9 +449,7 @@ VIII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en relac
 
 IX.- Participar en cualquier acto, convenio o contrato que obligue al Gobierno del Estado en las materias establecidas en este Artículo;
 
-> <small>(ADICIONADA, P.O. 29 DE ENERO DE 1994)</small>
-
-X.- Otorgar a instituciones y particulares becas y subsidios para el deporte, conforme a los montos y límites previstos en el Presupuesto de Egresos y
+X.- (DEROGADA, P.O. 19 DE NOVIEMBRE DE 2005)
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -1396,3 +1392,7 @@ Los elementos de la Agencia Estatal de Investigación que hubiesen egresado de l
 P.O. 9 DE NOVIEMBRE DE 2005.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE NOVIEMBRE DE 2005.
+
+ÚNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
