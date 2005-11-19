@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-obras-publicas-para-el-estado-de-zacatecas-22302"
 country: "mx"
 rank: "ley"
 publication_date: "1984-10-03"
-last_updated: "1986-05-14"
+last_updated: "2005-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22302&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 LEY DE OBRAS PUBLICAS PARA EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MAYO DE 1986.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE ZACATECAS, PUBLICADA EN EL SUPLEMENTO NUMERO 2 AL NUMERO 93 DEL P.O. DE 19 DE NOVIEMBRE DE 2005, EL PRESENTE ORDENAMIENTO FUE ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento al Núm. 79 del Periódico Oficial del Estado de Zacatecas, el miércoles 3 de octubre de 1984.
 
@@ -696,3 +698,17 @@ LIC. RAUL RODRIGUEZ SANTOYO
 P.O. 14 DE MAYO DE 1986.
 
 UNICO.- El presente decreto entrará en vigor diez días siguientes a la fecha de su publicación en le periódico oficial, órgano de gobierno del estado.
+
+P.O. 19 DE NOVIEMBRE DE 2005.
+
+PRIMERO.- La presente Ley entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Se abroga la Ley de Obras Públicas para el Estado de Zacatecas, publicada en el Periódico Oficial, Órgano del Gobierno del Estado el 3 de octubre de 1984.
+
+TERCERO.- Se derogan todas las disposiciones que contravengan la presente Ley.
+
+CUARTO.- El Ejecutivo Estatal deberá expedir las disposiciones reglamentarias correspondientes dentro de los sesenta días siguientes a la entrada en vigor de la presente ley.
+
+En tanto se expiden los reglamentos correspondientes deberán aplicarse las disposiciones reglamentarias vigentes en lo que sean procedentes.
+
+QUINTO.-Los registros de las personas físicas y jurídicas en el Padrón de Contratistas del Gobierno del Estado inscritas a la fecha de entrada en vigor de esta Ley, son válidos y deberán sujetarse, en lo sucesivo, a lo dispuesto en este ordenamiento.
