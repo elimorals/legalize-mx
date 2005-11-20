@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2005-11-06"
+last_updated: "2005-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE NOVIEMBRE DE 2005.
 
-Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
+Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
@@ -771,21 +771,25 @@ I.- Resolver sobre los convenios que el Ejecutivo celebre con los Estados vecino
 
 II.- Legislar en lo relativo a la administración interior del Estado;
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+(REFORMADO PRIMER PARRAFO, P.O. 20 DE NOVIEMBRE DE 2005) (F. DE E., P.O. 19 DE ENERO DE 2006)
 
-III.- Aprobar y modificar el presupuesto de egresos del Estado y decretar contribuciones suficientes para cubrirlo, tomando en consideración las participaciones y subsidios federales y estatales, en su caso;
+III.- Aprobar y modificar el presupuesto de egresos del Estado y decretar contribuciones suficientes para cubrirlo, tomando en consideración las participaciones y subsidios federales y estatales, en su caso.
 
-> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2005) (F. DE E., P.O. 19 DE ENERO DE 2006)
 
-Si el congreso dejare de aprobar para un ejercicio fiscal, la Ley de Ingresos del Estado y de los Municipios, así como la Ley de Egresos del Estado, continuarán rigiendo las leyes que estuvieren vigentes en esta materia, en el ejercicio inmediato anterior;
+En el presupuesto de egresos, el Congreso deberá aprobar las partidas necesarias para solventar obligaciones que constituyan deuda pública del Estado y las demás entidades paraestatales que cuenten con la garantía del Estado, cuando dichas obligaciones hayan sido incurridas en ejercicios fiscales anteriores y comprendan dos o mas ejercicios fiscales, conforme a lo autorizado por las leyes y decretos correspondientes, así como las que se deriven de los Proyectos de Inversión y Prestación de Servicios aprobados por el Congreso conforme a la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Durango y las demás leyes aplicables;
+
+(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2005) (F. DE E., P.O. 19 DE ENERO DE 2006)
+
+Si el Congreso, dejare de aprobar para un ejercicio fiscal, la Ley de Ingresos del Estado y de los Municipios, así como la Ley de Egresos del Estado, continuarán rigiendo las leyes que estuvieran vigentes en ésta materia en el ejercicio inmediato anterior.
 
 > <small>(REFORMADA, P.O. 12 DE AGOSTO DE 1984)</small>
 
 IV.- Decretar las contribuciones y otros ingresos suficientes para atender las necesidades de los Municipios, tomando en consideración las participaciones y subsidios federales y estatales, y en todo caso incluyendo las contribuciones y percepciones a que se refiere el Artículo 111 de esta Constitución;
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2005)</small>
 
-V.- Autorizar al Ejecutivo para concertar empréstitos a largo plazo destinados a la realización de obras públicas que los justifiquen;
+V.- Autorizar al Ejecutivo y a los Ayuntamientos a contratar deuda pública y a afectar como garantía, fuente de pago o de cualquier otra forma los ingresos que les correspondan, en los términos establecidos en las leyes correspondientes;
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -1225,7 +1229,9 @@ XV.- Hacer transferencias de las partidas del Presupuesto de Egresos, dando avis
 
 XVI.- Proponer a los Magistrados del Tribunal Superior de Justicia, debiendo hacerlo preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia, o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica, sometiendo tal propuesta a la aprobación del Congreso;
 
-XVII.- Concertar créditos, cuando así lo demanden las condiciones del erario estatal, para la satisfacción de las necesidades administrativas;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2005)</small>
+
+XVII.- Contratar deuda pública y ejercer las facultades en esta materia de conformidad con la Ley de Deuda Pública del Estado y las demás disposiciones aplicables;
 
 XVIII.- Concertar convenios sobre límites con los Estados vecinos, sometiéndolos a la aprobación del Congreso;
 
@@ -2675,4 +2681,10 @@ P.O. 6 DE NOVIEMBRE DE 2005.
 
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente.
+
+P.O. 20 DE NOVIEMBRE DE 2005.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones legales que se opongan al presente decreto.
