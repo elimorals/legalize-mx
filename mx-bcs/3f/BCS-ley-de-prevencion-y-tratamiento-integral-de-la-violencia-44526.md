@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-prevencion-y-tratamiento-integral-de-la-violencia-44526"
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-20"
-last_updated: "2005-03-20"
+last_updated: "2005-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44526&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE PREVENCION Y TRATAMIENTO INTEGRAL DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE NOVIEMBRE DE 2005.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 20 de marzo de 2005.
 
@@ -103,9 +103,11 @@ Los organismos y dependencias de la administración pública del Estado y Munici
 
 ### CAPÍTULO TERCERO. DEL CONSEJO PARA LA PREVENCION, ATENCION Y TRATAMIENTO DE LA VIOLENCIA INTRAFAMILIAR
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 6°.
 
-Se crea el Consejo de Prevención, Atención y Tratamiento de la Violencia Intrafamiliar en el Estado de Baja California Sur, como órgano de apoyo, seguimiento, coordinación y evaluación de la misma, el cual estará integrado por:
+Se crea el Consejo de Prevención, Atención y Tratamiento de la Violencia Intrafamiliar en el Estado de Baja California Sur, como órgano de apoyo, seguimiento, coordinación y evaluación de las acciones relativas objeto de esta ley, el cual estará integrado por
 
 I. Un Presidente que será el Gobernador del Estado;
 
@@ -141,7 +143,11 @@ XVI. Dos abogados de distinto sexo, de reconocido prestigio en la Entidad, desig
 
 XVII. Seis representantes de Organizaciones Civiles de reconocida trayectoria en el ámbito de los derechos humanos en lo general y en lo particular de los derechos de las mujeres, menores y equidad de género;
 
-XVIII. Las Presidentas de los Sistemas Municipales para el Desarrollo Integral de la Familia en La Paz, Los Cabos, Comondú, Loreto y Mulegé.
+XVIII. Las Presidentas de los Sistemas Municipales para el Desarrollo Integral de la Familia en La Paz, Los Cabos, Comondú, Loreto y Mulegé;
+
+> <small>(ADICIONADA, B.O. 20 DE NOVIEMBRE DE 2005)</small>
+
+XIX. El Director o Directora del Sistema Estatal paara el Desarrollo Integral de la Familia.
 
 Podrán participar como invitados en las sesiones del Consejo los titulares de las delegaciones federales en el Estado, así como las agrupaciones legalmente constituidas cuya actividad sea a fin al objeto de la presente Ley.
 
@@ -452,3 +458,11 @@ C. PROFR. VÍCTOR MANUEL LIZÁRRAGA PERAZA
 EL SUBSECRETARIO GENERAL DE GOBIERNO
 
 C. LIC. VÍCTOR DANIEL MADRIGAL BARBOSA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 20 DE NOVIEMBRE DE 2005.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
