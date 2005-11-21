@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-comunicaciones-y-1047"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-06-21"
-last_updated: "2001-12-07"
+last_updated: "2005-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1047&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1995-06-19"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE COMUNICACIONES Y TRANSPORTES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE NOVIEMBRE DE 2005.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 21 de junio de 1995.
 
@@ -37,79 +37,89 @@ REGLAMENTO INTERIOR DE LA SECRETARIA DE COMUNICACIONES Y TRANSPORTES
 
 La Secretaría de Comunicaciones y Transportes tiene a su cargo el desempeño de las atribuciones y facultades que le confieren la Ley Orgánica de la Administración Pública Federal y otras leyes, así como los reglamentos, decretos, acuerdos y órdenes del Presidente de la República.
 
-> <small>(REFORMADO, D.O.F. 29 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 2o.
 
-Para el despacho de los asuntos que le competen, la Secretaría contará con los siguientes servidores públicos y unidades administrativas:
+Para el despacho de los asuntos que le competen, la Secretaría contará con los siguientes servidores públicos, unidades administrativas, órganos desconcentrados y Centros SCT:
 
-- Secretario
+I. Secretario
 
-- Subsecretario de Infraestructura
+II. Subsecretario de Infraestructura
 
-- Subsecretario de Transporte
+III. Subsecretario de Transporte
 
-- Subsecretario de Comunicaciones
+IV. Subsecretario de Comunicaciones
 
-- Oficial Mayor
+V. Oficial Mayor
 
-- Coordinador General de Puertos y Marina Mercante
+VI. Coordinador General de Puertos y Marina Mercante
 
-- Coordinador General de Planeación y Centros SCT
+VII. Coordinador General de Planeación y Centros SCT
 
-> <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2001)</small>
+VIII. Coordinador del Sistema Nacional e-México
 
-- Coordinador General del Sistema Nacional e-México
+IX. Unidad de Asuntos Jurídicos
 
-- Contraloría Interna
+IX.1. Dirección General Adjunta de Procesos Contenciosos
 
-- Dirección General de Asuntos Jurídicos
+IX.2. Dirección General Adjunta Normativa
 
-- Dirección General de Comunicación Social
+IX.3. Dirección General Adjunta Operativa
 
-- Dirección General de Carreteras Federales
+X. Dirección General de Comunicación Social
 
-- Dirección General de Conservación de Carreteras
+XI. Dirección General de Carreteras
 
-- Dirección General de Servicios Técnicos
+XII. Dirección General de Conservación de Carreteras
 
-- Dirección General de Aeronáutica Civil
+XIII. Dirección General de Servicios Técnicos
 
-- Dirección General de Autotransporte Federal
+XIV. Dirección General de Desarrollo Carretero
 
-- Dirección General de Tarifas, Transporte Ferroviario y Multimodal
+XV. Dirección General de Aeronáutica Civil
 
-- Dirección General de Protección y Medicina Preventiva en el Transporte
+XV.1 Dirección General Adjunta de Transporte y Control Aeronáutico
 
-- Dirección General de Política de Telecomunicaciones
+XV.2 Dirección General Adjunta de Seguridad Aérea
 
-- Dirección General de Sistemas de Radio y Televisión
+XVI. Dirección General de Autotransporte Federal
 
-- Dirección General de Puertos
+XVI.1 Dirección General Adjunta de Planeación y Desarrollo
 
-- Dirección General de Marina Mercante
+XVII. Dirección General de Transporte Ferroviario y Multimodal
 
-- Dirección General de Capitanías
+XVIII. Dirección General de Protección y Medicina Preventiva en el Transporte
 
-- Dirección General de Programación, Organización y Presupuesto
+XIX. Dirección General de Política de Telecomunicaciones
 
-- Dirección General de Recursos Humanos
+XX. Dirección General de Sistemas de Radio y Televisión
 
-- Dirección General de Recursos Materiales
+XXI. Dirección General de Puertos
 
-- Dirección General de Planeación
+XXII. Dirección General de Marina Mercante
 
-- Dirección General de Evaluación
+XXIII. Dirección General de Fomento y Administración Portuaria
 
-- Unidad de Autopistas de Cuota
+XXIV. Dirección General de Programación, Organización y Presupuesto
 
-- Centros SCT
+XXV. Dirección General de Recursos Humanos
 
-- Comisión Federal de Telecomunicaciones
+XXVI. Dirección General de Recursos Materiales
 
-- Instituto Mexicano del Transporte
+XXVII. Dirección General de Planeación
 
-- Servicios a la Navegación en el Espacio Aéreo Mexicano
+XXVIII. Dirección General de Evaluación
+
+XXIX. Comisión Federal de Telecomunicaciones
+
+XXX. Instituto Mexicano del Transporte
+
+XXXI. Servicios a la Navegación en el Espacio Aéreo Mexicano
+
+XXXII. Centros SCT
+
+La Secretaría de Comunicaciones y Transportes contará con un órgano interno de control, que se regirá conforme al artículo 8o. de este Reglamento.
 
 ###### ARTICULO 3o.
 
@@ -169,9 +179,11 @@ XVIII. Las demás que con este carácter se establezcan por ley, por reglamento 
 
 ### CAPITULO III. De las facultades de los Subsecretarios y de los Coordinadores Generales
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 6o.
 
-Corresponde a los Subsecretarios y a los Coordinadores Generales:
+Corresponde a los Subsecretarios, a los Coordinadores Generales y al Coordinador del Sistema Nacional e-México:
 
 I. Conducir la planeación de las unidades administrativas que se les adscriban de conformidad con las políticas y lineamientos que al efecto establezca el Secretario, en términos de lo dispuesto por el Plan Nacional de Desarrollo y los programas correspondientes;
 
@@ -210,6 +222,30 @@ XV. Resolver los recursos administrativos que, conforme a las disposiciones lega
 XVI. Expedir y certificar las copias de documentos o constancias que existan en los archivos a su cargo, cuando proceda, y
 
 XVII. Las demás que les confieran las disposiciones legales y el Secretario, así como las que competen a las unidades administrativas que se les adscriban.
+
+> <small>(ADICIONADO, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+###### ARTICULO 6o.
+
+BIS. Al frente de la Coordinación del Sistema Nacional e-México, habrá un Coordinador, quien además de las atribuciones contenidas en el artículo 6 de este Reglamento, tendrá las siguientes:
+
+I. Proponer y conducir las políticas para el desarrollo, implementación y coordinación del Sistema Nacional e-México, de conformidad con las normas aplicables y los instrumentos programáticos en la materia;
+
+II. Formular y proponer las estrategias, programas y proyectos del Sistema Nacional e-México;
+
+III. Coordinar las actividades de las dependencias, las entidades y, en general, de todos los agentes participantes en el Sistema Nacional e-México, a fin de dar cumplimiento a las normas e instrumentos programáticos relativos a la sociedad de la información y del conocimiento, así como promover la inclusión de nuevos integrantes;
+
+IV. Proponer proyectos específicos para ser integrados al Sistema Nacional e-México, particularmente en materia de conectividad, sistemas y contenidos, así como vigilar su debida ejecución una vez aprobados;
+
+V. Promover sinergias en el desarrollo de proyectos que se propongan para ser integrados al Sistema Nacional e-México, conforme a los programas, las estrategias y las políticas aplicables;
+
+VI. Contribuir al mejoramiento del uso y aprovechamiento de las tecnologías de la sociedad de la información y del conocimiento entre las dependencias de la Administración Pública Federal, y entre ésta y los gobiernos de las entidades federativas y de los municipios, así como con el público en general, conforme a los programas, estrategias, políticas y convenios, dentro del marco del Sistema Nacional e-México;
+
+VII. Participar en foros nacionales e internacionales, así como en la negociación de instrumentos jurídicos, en coordinación con las autoridades competentes, particularmente en materia de las tecnologías de la sociedad de la información y del conocimiento, y
+
+VIII. Promover y coordinar estudios, investigaciones y acciones que coadyuven al desarrollo y adopción de las tecnologías de la sociedad de la información y del conocimiento.
+
+El Coordinador del Sistema Nacional e-México se auxiliará por los servidores públicos que se señalen en los manuales de organización respectivos y en las disposiciones aplicables, así como por aquéllos que la necesidad del servicio requiera y que figuren en el presupuesto autorizado.
 
 ### CAPITULO IV. De las facultades del Oficial Mayor
 
@@ -261,71 +297,85 @@ XX. Proponer los ajustes y recomendaciones que en materia de programación y pre
 
 XXI. Someter a la consideración del Secretario, las propuestas de organización de las unidades administrativas, de actualización del Reglamento Interior y los manuales correspondientes;
 
-XXII. Analizar y evaluar la estructura orgánica, sistemas y procedimientos de trabajo de las unidades administrativas de la Secretaría y elaborar y opinar sobre los proyectos de organización que se requieran;
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
 
-XXIII. Analizar, en coordinación con las unidades administrativas de la Secretaría, los manuales de organización, de procedimientos y de servicios al público necesarios para su funcionamiento, así como diseñar y difundir las guías técnicas para su elaboración, y (sic)
+XXII. Aprobar las modificaciones a las estructuras orgánico-ocupacionales y plantillas de personal operativo de las unidades administrativas centrales y Centros SCT;
 
-> <small>(ADICIONADA, D.O.F. 29 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
 
-XXIV. Establecer las políticas, normas y directrices para el desarrollo informático de las unidades administrativas centrales, Centros SCT y órganos desconcentrados; integrar el programa interno de desarrollo informático de la Secretaría, llevar a cabo la evaluación y cumplimiento del mismo por parte de las unidades administrativas y dictar, en su caso, las medidas correctivas;
+XXIII. Analizar y evaluar la estructura orgánica, sistemas y procedimientos de trabajo de las unidades administrativas de la Secretaría y elaborar y opinar sobre los proyectos de organización que se requieran;
 
-> <small>(ADICIONADA, D.O.F. 29 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
 
-XXV. Administrar la red de teleinformática de la Secretaría a nivel nacional, y
+XXIV. Analizar, en coordinación con las unidades administrativas de la Secretaría, los manuales de organización, de procedimientos y de servicios al público necesarios para su funcionamiento, así como diseñar y difundir las guías técnicas para su elaboración;
 
-XXVI. Las demás que le confieran las disposiciones legales y el Secretario, así como las que competan a las unidades administrativas que se le adscriban.
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+XXV. Dar seguimiento a las observaciones de auditoría que formule la Auditoría Superior de la Federación a las unidades administrativas centrales y Centros SCT, con motivo de la revisión de la Cuenta Pública y del Informe de Avance de Gestión Financiera de la Secretaría;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+XXVI. Establecer las políticas y normas para el desarrollo y administración de las tecnologías de la información de las unidades administrativas centrales y Centros SCT, así como integrar y evaluar el cumplimiento del programa interno de desarrollo de las tecnologías de la información y proporcionar el soporte técnico a la infraestructura a las unidades administrativas centrales y Centros SCT;
+
+> <small>(ADICIONADA, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+XXVII. Administrar la red digital multiservicios de la Secretaría;
+
+> <small>(ADICIONADA, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+XXVIII. Diseñar, aplicar, dar seguimiento y evaluar las políticas y procedimientos para la innovación gubernamental de la Secretaría, de sus órganos desconcentrados y entidades sectorizadas;
+
+> <small>(ADICIONADA, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+XXIX. Coordinar los programas de actividades para la transparencia y el combate a la corrupción en la Secretaría;
+
+> <small>(ADICIONADA, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+XXX. Instrumentar y coordinar las acciones que se deriven de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y demás ordenamientos aplicables en la materia, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+XXXI. Las demás que le confieran las disposiciones legales y el Secretario, así como las que competan a las unidades administrativas que se le adscriban.
 
 ### CAPITULO V. De las facultades del Contralor Interno
 
+> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 8o.
 
-Corresponde al Contralor Interno:
+En la Secretaría habrá un Órgano Interno de Control, que estará a cargo de un Titular designado en los términos del artículo 37 de la Ley Orgánica de la Administración Pública Federal, quien en el ejercicio de sus facultades se auxiliará por los titulares de las áreas de quejas, responsabilidades, auditoría interna y auditoría de control y evaluación designados en los mismos términos.
 
-I. Vigilar que las atribuciones de la Secretaría se lleven a cabo de conformidad con las características técnicas, especificaciones y normas aplicables;
+Cada uno de los órganos desconcentrados podrá contar, en su caso, con un órgano interno de control, en los términos del párrafo anterior. En el supuesto de que aquéllos no cuenten con dicho órgano las facultades a que se refiere este artículo se ejercerán por el de la Secretaría.
 
-> <small>(REFORMADA, D.O.F. 29 DE OCTUBRE DE 1996)</small>
-
-II. Apoyar la capacitación técnica del personal adscrito al área, así como opinar sobre los nombramientos de los delegados regionales de la Contraloría y, en su caso, solicitar su remoción;
-
-III. Vigilar y comprobar el cumplimiento de las disposiciones legales, normas y lineamientos que regulan el funcionamiento y desarrollo de los programas y administración de recursos por parte de las unidades administrativas de la Secretaría;
-
-IV. Apoyar el establecimiento de las normas de control, fiscalización y evaluación que emita la Secretaría de Contraloría y Desarrollo Administrativo, así como la instrumentación de normas complementarias en materia de control aplicables a la Secretaría y entidades del Sector;
-
-V. Realizar por sí o a iniciativa de la Secretaría de Contraloría y Desarrollo Administrativo, las auditorías y revisiones que se requieran a las áreas, programas, recursos y actividades que ejecute la Secretaría, así como apoyar a ésta y a la Contaduría Mayor de Hacienda en las que determinen conforme a su competencia y proponer y vigilar la aplicación de las recomendaciones y medidas correctivas producto del resultado de las mismas;
-
-VI. Recibir, atender y resolver, conforme a la ley de la materia, las quejas y denuncias que presenten los particulares respecto de la actuación de los servidores públicos de la Secretaría y de entidades del Sector, así como aquéllas derivadas de convenios, contratos y acuerdos que suscriban las unidades administrativas de la dependencia;
-
-VII. Imponer las sanciones y, en su caso, fincar las responsabilidades derivadas de las investigaciones sobre quejas y denuncias producto de los resultados de auditorías; así como remitir a la Secretaría de Contraloría y Desarrollo Administrativo los asuntos que por ley le correspondan para que imponga las sanciones a que haya lugar, verificando la aplicación de éstas;
-
-VIII. Resolver los recursos que interpongan los servidores públicos de la Secretaría y de las entidades coordinadas respecto de resoluciones que impongan sanciones administrativas, de conformidad con las disposiciones aplicables;
-
-IX. Dar vista a la Secretaría de Contraloría y Desarrollo Administrativo y denunciar ante la autoridad competente, por acuerdo del Secretario, los hechos de que tenga conocimiento e impliquen responsabilidad;
-
-X. Dar seguimiento al desarrollo y ejecución de proyectos de desconcentración, descentralización y desarrollo administrativo que formulen las unidades administrativas de la Secretaría;
-
-XI. Registrar internamente las estructuras organizacionales y ocupacionales que apruebe la Oficialía Mayor, y
-
-XII. Las demás que le confieran las disposiciones legales y el Secretario, así como las que competan a las unidades administrativas que se le adscriban.
+Los servidores públicos a que se refiere este artículo ejercerán, en el ámbito de sus respectivas competencias, las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables.
 
 ### CAPITULO VI. De las atribuciones de las unidades administrativas
 
+> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 9o.
 
-Al frente de cada dirección general habrá un director general, quien se auxiliará por los servidores públicos que se señalen en los manuales de organización respectivos y en las disposiciones jurídicas aplicables, así como por aquéllos que las necesidades del servicio requieran y que figuren en el presupuesto.
+Al frente de cada Unidad habrá un Titular y de cada Dirección General un Director General, quienes se auxiliarán por los servidores públicos que se señalen en los manuales de organización respectivos y en las disposiciones jurídicas aplicables, así como por aquéllos que las necesidades del servicio requieran y que figuren en el presupuesto.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 10.
 
-Corresponde a los Directores Generales:
+Corresponde a los Titulares de Unidad y a los Directores Generales:
 
 I. Programar, organizar, dirigir, controlar y evaluar el desarrollo de las actividades encomendadas a las unidades que integren la dirección general o unidad a su cargo;
 
 II. Formular los anteproyectos de programas, presupuestos y los demás que les corresponda, conforme a las normas establecidas;
 
-III. Formular los anteproyectos de iniciativa de leyes, reglamentos, decretos, acuerdos y órdenes en los asuntos de su competencia que deban remitirse a la Dirección General de Asuntos Jurídicos para su trámite correspondiente;
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+III. Formular los anteproyectos de iniciativas de leyes, reglamentos, decretos, acuerdos y órdenes en los asuntos de su competencia que deban remitirse a la Unidad de Asuntos Jurídicos para su trámite correspondiente;
 
 IV. Adoptar las medidas necesarias para la debida observancia de las leyes, reglamentos, decretos, acuerdos y demás disposiciones relacionadas con el funcionamiento y los servicios encomendados a la dirección general o unidad a su cargo; así como para prevenir incumplimientos y proponer la aplicación de las sanciones que procedan y, cuando resulte necesario recomendar se modifiquen las normas vigentes o se adopten nuevas, de conformidad con las disposiciones legales aplicables y, en su caso, con las Condiciones Generales de Trabajo;
 
-V. Preparar y emitir opinión respecto de los convenios y contratos que celebre y otorgue la Secretaría, cuando contengan aspectos de su competencia y suscribirlos de conformidad con los montos que señalen el Secretario o el Oficial Mayor;
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+V. Preparar y emitir opinión respecto de los convenios y contratos que celebre y otorgue la Secretaría cuando contengan aspectos de su competencia, así como suscribirlos con el acuerdo de su superior jerárquico o, tratándose de contratos y convenios relativos a arrendamientos, adquisiciones, obras públicas y servicios de cualquier naturaleza, suscribirlos de conformidad con los montos que señale el Secretario o el Oficial Mayor;
 
 VI. Autorizar la selección, contratación y promoción del personal de la dirección general o unidad a su cargo, así como en su caso, las licencias, tolerancias exenciones y remociones, de conformidad con las disposiciones aplicables;
 
@@ -335,7 +385,9 @@ VIII. Proporcionar en forma expedita la información, los datos y la cooperació
 
 IX. Proponer y participar en la organización de cursos de capacitación, seminarios y conferencias a su personal, cuando no estén específicamente confiados a otras unidades administrativas;
 
-X. Observar los criterios que emita la Dirección General de Asuntos Jurídicos y consultarla cuando los asuntos impliquen cuestiones de derecho; así como proporcionarle la información que requiera en los plazos y en los términos que la solicite;
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+X. Observar los criterios que emita la Unidad de Asuntos Jurídicos y consultarla cuando los asuntos impliquen cuestiones de derecho, así como proporcionarle la información que requiera en los plazos y en los términos en que la solicite;
 
 XI. Expedir y certificar, en su caso, las copias de documentos o constancias que existan en los archivos de la dirección general o unidad a su cargo, cuando proceda o a petición de autoridad competente;
 
@@ -351,21 +403,27 @@ XVI. Autorizar por escrito, conforme a las necesidades del servicio y de acuerdo
 
 XVII. Las demás facultades que les confieran las disposiciones legales y administrativas aplicables y sus superiores.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 11.
 
-La Dirección General de Asuntos Jurídicos estará adscrita al titular de la dependencia, acordará con éste el despacho de los asuntos de su competencia y tendrá las siguientes atribuciones:
+La Unidad de Asuntos Jurídicos estará adscrita al titular de la dependencia, acordará con éste el despacho de los asuntos de su competencia y tendrá las siguientes atribuciones:
 
 I. Asesorar en materia jurídica a la Secretaría; actuar como órgano de consulta, así como fijar y sistematizar los criterios jurídicos para la adecuada aplicación de las disposiciones legales y reglamentarias competencia de la Secretaría;
 
 II. Fijar y revisar las bases de los convenios, contratos, concesiones, permisos, autorizaciones, acuerdos, declaratorias y demás actos jurídicos que celebre, emita u otorgue la Secretaría y dictaminar sobre su interpretación, suspensión, rescisión, caducidad, revocación, terminación, nulidad, rescate, requisa y demás aspectos y efectos jurídicos;
 
-III. Revisar y dictaminar las escrituras constitutivas de contratistas y proveedores, sociedades concesionarias, permisionarias o autorizadas y los documentos que acrediten la personalidad de los solicitantes o de cualquier otro promovente en materia de contratos, convenios, concesiones, permisos o autorizaciones;
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+III. Asesorar a las unidades administrativas de la Secretaría en la revisión que lleven a cabo de las escrituras constitutivas de contratistas y proveedores, sociedades concesionarias, permisionarias o autorizadas y los documentos que acrediten la personalidad de los solicitantes o de cualquier otro promovente en materia de contratos, convenios, concesiones, permisos o autorizaciones;
 
 > <small>(REFORMADA, D.O.F. 29 DE OCTUBRE DE 1996)</small>
 
 IV. Representar a la Secretaría en los asuntos contenciosos en que sea parte; intervenir en toda clase de procedimientos judiciales, contenciosos administrativos y administrativos, en el ámbito de competencia de la misma, y ante cualquier autoridad jurisdiccional o administrativa; disponer lo conducente para que los servidores públicos y unidades administrativas de la Secretaría, cumplan con las resoluciones legales correspondientes, así como representar al Secretario en los juicios laborales en que fuere parte, y en representación de éste contestar las consultas, peticiones y excitativas de naturaleza jurídica que se presenten;
 
-V. Presentar denuncia o querella ante el Ministerio Público competente, respecto de hechos que lo ameriten y en los que la Secretaría haya resultado ofendida o tenga interés; asimismo cuando proceda, otorgar perdón o gestionar desistimientos y acordar conciliaciones en beneficio de la Secretaría;
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+V. Presentar denuncia o querella ante el Ministerio Público competente y designar al personal que podrá presentarla, respecto de hechos que lo ameriten y en los que la Secretaría haya resultado ofendida o tenga interés; asimismo, cuando proceda, otorgar perdón o gestionar desistimientos y acordar conciliaciones en beneficio de la Secretaría;
 
 > <small>(REFORMADA, D.O.F. 29 DE OCTUBRE DE 1996)</small>
 
@@ -381,7 +439,9 @@ X. Tramitar la publicación en el Diario Oficial de la Federación de los acuerd
 
 XI. Expedir copias certificadas de las constancias que obren en los archivos de la Secretaría cuando deban ser exhibidas en procedimientos judiciales o contenciosos administrativos y, en general, para cualquier proceso o averiguación;
 
-XII. Dictaminar desde el punto de vista jurídico, las garantías que constituyan los particulares para el cumplimiento de las obligaciones o trámites de concesiones, permisos, autorizaciones, contratos y convenios;
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+XII. Revisar desde el punto de vista jurídico las bases y el contenido de las garantías que deban constituirse para el cumplimiento de las obligaciones o trámites de concesiones, permisos, autorizaciones, contratos y convenios;
 
 > <small>(REFORMADA, D.O.F. 29 DE OCTUBRE DE 1996)</small>
 
@@ -394,6 +454,54 @@ XV. Asesorar en materia jurídica en los procedimientos de licitaciones pública
 XVI. Intervenir en los aspectos jurídicos de los convenios, tratados y acuerdos internacionales y participar a solicitud de las unidades administrativas de la Secretaría, cuando lo estime conveniente, en las reuniones que se efectúen, y
 
 XVII. Tramitar los recursos administrativos que establezcan las leyes y reglamentos que corresponde aplicar a la Secretaría, no reservados por ley al Secretario del ramo y que no sean de la competencia de otras unidades administrativas.
+
+> <small>(ADICIONADO, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+ARTICULO 11 BIS. La Dirección General Adjunta de Procesos Contenciosos tendrá las siguientes atribuciones:
+
+I. Atender y dar seguimiento a los procesos contenciosos en que la Secretaría sea parte;
+
+II. Auxiliar al Titular de la Unidad de Asuntos Jurídicos en el ejercicio de las facultades previstas en el artículo 11, fracciones VI y XVII de este Reglamento;
+
+III. Formular y presentar denuncia o querella ante el Ministerio Público competente, respecto de hechos que lo ameriten y en los que la Secretaría haya resultado ofendida o tenga interés y, cuando proceda, otorgar perdón o gestionar desistimientos y acordar conciliaciones en beneficio de la Secretaría;
+
+IV. Coadyuvar con el Ministerio Público en los procedimientos y juicios de amparo en materia penal, instruidos por hechos o conductas que afecten los intereses de la Federación cuya defensa sea materia de las atribuciones de la Secretaría;
+
+V. Emitir opinión respecto de la procedencia de demandar la terminación de los efectos del nombramiento de los trabajadores de la Secretaría, ante el Tribunal Federal de Conciliación y Arbitraje, y
+
+VI. Emitir opinión en relación con las formalidades que deben guardar los actos de autoridad de la Secretaría que pudieran ser materia de litigio antes de que sean emitidos, para una adecuada defensa de sus intereses.
+
+> <small>(ADICIONADO, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+ARTICULO 11 TER. La Dirección General Adjunta Normativa tendrá las siguientes atribuciones:
+
+I. Coadyuvar con la Unidad de Asuntos Jurídicos en la emisión de dictámenes y opiniones que se requieran, a fin de asesorar jurídicamente a las unidades administrativas de la Secretaría;
+
+II. Proponer al Titular de la Unidad de Asuntos Jurídicos los criterios jurídicos para la adecuada aplicación de las disposiciones legales y reglamentarias competencia de la Secretaría, así como sistematizar los mismos;
+
+III. Revisar desde el punto de vista jurídico las bases de las concesiones, permisos, autorizaciones, acuerdos y declaratorias en los que intervenga la Secretaría y dictaminar sobre su interpretación, suspensión, rescisión, caducidad, revocación, terminación, nulidad, rescate, requisa y demás aspectos y efectos jurídicos;
+
+IV. Asesorar a las unidades administrativas de la Secretaría en la revisión que lleven a cabo de las escrituras constitutivas de sociedades concesionarias, permisionarias o autorizadas y los documentos que acrediten la personalidad de los solicitantes en materia de concesiones, permisos o autorizaciones;
+
+V. Revisar desde el punto de vista jurídico las bases y contenido de las garantías que deban constituirse para el cumplimiento de las obligaciones o trámites de concesiones, permisos y autorizaciones;
+
+VI. Asesorar en materia jurídica en los procedimientos de licitaciones públicas que lleven a cabo las unidades administrativas de la Secretaría, para la adjudicación de concesiones, y
+
+VII. Auxiliar al Titular de la Unidad de Asuntos Jurídicos en el ejercicio de las facultades previstas en el artículo 11, fracciones IX, X y XIV de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+ARTICULO 11 QUÁTER. La Dirección General Adjunta Operativa tendrá las siguientes atribuciones:
+
+I. Revisar las bases de los convenios y contratos en que sea parte la Secretaría y dictaminar sobre su interpretación, suspensión, rescisión, terminación, nulidad y demás aspectos y efectos jurídicos;
+
+II. Asesorar a las unidades administrativas de la Secretaría en la revisión que lleven a cabo de las escrituras constitutivas de contratistas y proveedores, así como los documentos que acrediten la personalidad de éstos o de sus representantes en materia de contratos y convenios;
+
+III. Revisar desde el punto de vista jurídico las bases y contenido de las garantías que deban constituirse para el cumplimiento de las obligaciones o trámites de contratos y convenios;
+
+IV. Supervisar y coordinar el ejercicio y funciones del personal técnico de las áreas jurídicas adscritas a las unidades administrativas de la Secretaría, en materia de contratos y convenios, y
+
+V. Asesorar en materia jurídica en los procedimientos de licitaciones públicas que lleven a cabo las unidades administrativas de la Secretaría, para la adjudicación de contratos.
 
 ###### ARTICULO 12.
 
@@ -469,37 +577,37 @@ VIII. Organizar los sistemas y mecanismos operativos de enlace con las áreas in
 
 IX. Evaluar los resultados derivados de los programas y campañas de difusión e información de la Secretaría.
 
+> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 15.
 
-Corresponde a la Dirección General de Carreteras Federales:
+Corresponde a la Dirección General de Carreteras:
 
-I. Participar en la definición de la política y los programas de transporte carretero en el marco de su competencia;
+I. Participar en la planeación, coordinación y evaluación de los programas carreteros para la construcción y modernización de la red federal de carreteras, así como para la construcción, modernización, reconstrucción y conservación de los caminos rurales y alimentadores;
 
-II. Fijar las características, especificaciones y criterios técnicos conforme a los cuales deberán realizarse los programas y obras respectivos;
+II. Elaborar y difundir los lineamientos generales para la integración de los planes y programas en materia de construcción, modernización, reconstrucción y conservación de caminos rurales y alimentadores, a fin de que sean congruentes con el Programa Sectorial;
 
-III. Realizar los estudios y proyectos que se requieran para la ejecución de las obras a su cargo;
+III. Elaborar los estudios y proyectos para la ejecución de los programas de construcción y modernización de carreteras federales y participar en la revisión de los que realicen otras unidades administrativas, dependencias y entidades federativas;
 
-IV. Coordinar con los Centros SCT y, en su caso, con las Direcciones Generales de Planeación y Evaluación, los estudios, el proyecto, la construcción, modernización o ampliación de las carreteras y puentes federales, así como de obras auxiliares y accesorias;
+IV. Determinar, en coordinación con la Dirección General de Servicios Técnicos, las características y especificaciones técnicas que deberán observarse en la elaboración de los proyectos ejecutivos para la construcción y modernización de carreteras y puentes federales y para la construcción, modernización, reconstrucción y conservación de los caminos rurales y alimentadores; supervisar su cumplimiento, así como realizar los estudios de ingeniería experimental que se requieran para el proyecto y la ejecución de las obras;
 
-V. Supervisar que las obras se ejecuten conforme a las características, especificaciones, proyectos, precios unitarios y programas aprobados, de acuerdo con lo estipulado en los contratos de obra;
+V. Coordinar las acciones de carácter técnico tendientes a la liberación del derecho de vía en carreteras y puentes federales, así como en obras susceptibles de concesión, con la participación de los Centros SCT, la Dirección General de Desarrollo Carretero y, en su caso, de las autoridades competentes de las entidades federativas;
 
-VI. Participar en los estudios que requieran los proyectos de las obras a su cargo, cuando los mismos sean realizados por otras unidades administrativas;
+VI. Coadyuvar con los Centros SCT y las autoridades competentes de las entidades federativas para que los trámites relativos a la adquisición, ocupación y regularización del derecho de vía se lleven a cabo de acuerdo con las disposiciones aplicables;
 
-VII. Realizar los estudios de ingeniería experimental que se requieran para el proyecto y la construcción de obras a su cargo;
+VII. Elaborar y coordinar con los Centros SCT y, en su caso, con la Dirección General de Desarrollo Carretero, los estudios y los proyectos para la construcción y modernización de las carreteras y puentes federales, así como para la construcción, modernización, reconstrucción y conservación de los caminos rurales y de las obras auxiliares y accesorias;
 
-VIII. Intervenir dentro de la esfera de su competencia, en los estudios, proyectos y programas de construcción y reconstrucción de carreteras y puentes federales que realicen otras dependencias y entidades del gobierno federal;
+VIII. Elaborar y participar en la realización de los estudios, proyectos y programas para la construcción de obras susceptibles de concesión que determine la Dirección General de Desarrollo Carretero;
 
-IX. Determinar las características y especificaciones técnicas que deberán observarse en la elaboración del proyecto técnico y en la construcción de carreteras y puentes federales, y supervisar su cumplimiento;
+IX. Participar, en coordinación con los Centros SCT, en la planeación y programación de los procesos de licitación y en la revisión de las propuestas técnicas y económicas de las obras y servicios relacionados que se realicen conforme a los programas de construcción y modernización de carreteras federales, así como de construcción, modernización, reconstrucción y conservación de caminos rurales y alimentadores, en aquellos casos en que así lo determine;
 
-X. Aprobar los proyectos y programas de las obras de construcción de carreteras y puentes federales que se concesionen, así como supervisar, en coordinación con la Dirección General de Evaluación y con el apoyo del Centro SCT correspondiente, que los trabajos se efectúen conforme a las características, especificaciones y programas establecidos por la Secretaría;
+X. Supervisar, en coordinación con los Centros SCT, que las obras se ejecuten conforme a las características, normas, especificaciones, proyectos, costos y programas aprobados, con el fin de que se cumplan los objetivos y metas fijados;
 
-XI. Intervenir en el estudio de las características, especificaciones y lineamientos técnicos de los caminos y puentes que corresponda construir a la Secretaría y en el de los precios unitarios, y
+XI. Evaluar y dar seguimiento a los programas de construcción y modernización de carreteras federales y de construcción, modernización, reconstrucción y conservación de caminos rurales y alimentadores, e informar a las autoridades correspondientes sobre el avance en la ejecución de las obras conforme al calendario y presupuesto autorizados;
 
-XII. Llevar a cabo las acciones de carácter técnico tendientes a la liberación del derecho de vía en carreteras y puentes federales.
+XII. Realizar los estudios de impacto ambiental y tramitar ante la autoridad competente la autorización correspondiente para la elaboración de los proyectos de carreteras y puentes federales, así como de las obras susceptibles de concesión, y
 
-> <small>(ADICIONADA, D.O.F. 29 DE OCTUBRE DE 1996)</small>
-
-XIII. Supervisar que los trámites para la adquisición, ocupación y regularización del derecho de vía a través de los Centros SCT, se lleven a cabo de acuerdo a las disposiciones aplicables.
+XIII. Participar, junto con las autoridades competentes de las entidades federativas y de los municipios, en acciones de coordinación interinstitucional relacionadas con los programas de caminos rurales y alimentadores.
 
 ###### ARTICULO 16.
 
@@ -563,79 +671,107 @@ XXI. Analizar y opinar sobre las solicitudes para modificar y conservar carreter
 
 XXII. Aprobar el proyecto y el programa de las obras a las que se refiere la fracción anterior y supervisar su conservación con el apoyo del Centro SCT correspondiente.
 
+> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 17.
 
 Corresponde a la Dirección General de Servicios Técnicos:
 
 I. Participar en la definición de la política y los programas de infraestructura para el transporte en el marco de su competencia;
 
-> <small>(REFORMADA, D.O.F. 29 DE OCTUBRE DE 1996)</small>
+II. Participar en la planeación y programación del desarrollo de la infraestructura carretera federal en el ámbito de su competencia;
 
-II. Efectuar los estudios necesarios para la planeación del sistema de carreteras y puentes federales, y formular los programas para el desarrollo de infraestructura carretera en lo que compete a la construcción, modernización y ampliación de rutas federales;
+III. Estudiar y proponer características, especificaciones y lineamientos que deban contener los proyectos de las obras en el sector, así como los criterios, métodos de cálculo y pruebas de laboratorio que deban aplicarse;
 
-III. Establecer de conformidad con las políticas de la Secretaría, los criterios, estrategias y programas para la asignación de las inversiones anuales en construcción, modernización y conservación de carreteras federales, caminos rurales y alimentadores;
+IV. Proponer y participar en la formulación y actualización de las normas técnicas de la Secretaría para la infraestructura del transporte e interpretarlas para su debida aplicación;
 
-> <small>(REFORMADA, D.O.F. 29 DE OCTUBRE DE 1996)</small>
+V. Ejecutar estudios geológicos, hidráulicos, hidrológicos, geotécnicos, de cimentación, de pavimentos y demás que se requieran para proyectos de obras del sector;
 
-IV. Intervenir en la planeación integral del transporte aportando los elementos necesarios para la integración intermodal del sistema carretero nacional;
+VI. Realizar estudios y proyectos para puentes, estructuras, túneles y obras de tierra, necesarios para la construcción y conservación de obras viales y estructuras a cargo de la Secretaría;
 
-> <small>(REFORMADA, D.O.F. 29 DE OCTUBRE DE 1996)</small>
+VII. Emitir opinión sobre estudios y proyectos, así como sobre procedimientos de construcción, operación y conservación de la infraestructura carretera;
 
-V. Celebrar concursos para la operación y conservación de caminos y puentes federales, bajo el régimen de concesión;
+VIII. Realizar pruebas y ensayes de laboratorio que se requieran para determinar las características y comportamiento de los materiales que se utilizan en la construcción de obras viales y calibrar los equipos de prueba;
 
-VI. Estudiar y proponer características, especificaciones y lineamientos que deban contener los proyectos de las obras a cargo del Sector, así como los criterios, métodos de cálculo y pruebas de laboratorio que deban aplicarse;
+IX. Obtener y poner a disposición de los interesados la información de los materiales en las distintas regiones del país, susceptibles de ser utilizados para la construcción de carreteras;
 
-VII. Intervenir en la elaboración de las normas oficiales mexicanas de caminos y puentes;
+X. Proponer los procedimientos e intervenir en el control y verificación de la calidad en la construcción de las obras viales;
 
-VIII. Realizar, en los términos de las disposiciones legales aplicables, los estudios geológicos, hidráulicos, hidrológicos, geotécnicos, de cimentación, de pavimentos y demás que se requieran para la ejecución de las obras a cargo de la Secretaría o de aquéllas que soliciten las entidades del Sector;
+XI. Participar en la definición de las características, tipo y ubicación de las nuevas vialidades o modernización de las existentes, en coordinación con las unidades administrativas involucradas;
 
-IX. Realizar cuando se le solicite, estudios y proyectos especiales para puentes, estructuras, túneles, obras de tierra, pavimentos, entronques, cruzamientos, accesos y obras de vialidad que se requieran para la construcción o conservación de las obras;
+XII. Producir, obtener y difundir información sobre la demanda del transporte y la oferta de infraestructura vial;
 
-X. (DEROGADA, D.O.F. 29 DE OCTUBRE DE 1996)
+XIII. Asesorar a las entidades del sector en materia de estudios y proyectos viales;
 
-XI. Evaluar que los estudios y proyectos de obras a cargo de las entidades del Sector se realicen conforme a la normatividad y procedimientos establecidos;
+XIV. Administrar la biblioteca de la Dirección General de Servicios Técnicos en materia de vías terrestres;
 
-XII. (DEROGADA, D.O.F. 29 DE OCTUBRE DE 1996)
+XV. Asesorar y, en su caso, realizar el diseño de los elementos geométricos, de señalización, de seguridad, de iluminación y otros, relacionados con la operación de las obras viales;
 
-XIII. (DEROGADA, D.O.F. 29 DE OCTUBRE DE 1996)
+XVI. Intervenir en los estudios, análisis y determinación de precios unitarios, costos-horarios y rendimientos de las máquinas y equipos utilizados para la ejecución de las obras a cargo de la Secretaría;
 
-> <small>(REFORMADA, D.O.F. 29 DE OCTUBRE DE 1996)</small>
+XVII. Normar, coordinar y supervisar las funciones de las unidades generales de servicios técnicos adscritas a los Centros SCT;
 
-XIV. Realizar pruebas de resistencia, análisis químico en suelos, agregados pétreos, aceros, productos prefabricados, pinturas, concretos y asfaltos; estudios metalúrgicos, soldadura y estructuras, así como la calibración de los equipos de prueba, y proporcionar las asesorías que al respecto soliciten los laboratorios de la Secretaría y del Sector, y los gobiernos de los estados y municipios;
+XVIII. Interactuar con los organismos de investigación del sector, a efecto de proponer, desarrollar, evaluar e implantar desarrollos tecnológicos que resulten de interés para la Secretaría;
 
-XV. Formular y mantener actualizado el inventario nacional de bancos de materiales para obras de infraestructura;
+XIX. Coordinar la realización de investigaciones, estudios y proyectos determinados relacionados con la infraestructura del transporte y su operación;
 
-XVI. Proporcionar los servicios técnicos y efectuar las pruebas de laboratorio que se autoricen para entidades públicas y privadas, en coordinación con los Centros SCT de la entidad federativa que corresponda, cuando sea necesario;
+XX. Intervenir en la negociación de asuntos internacionales en materia de infraestructura carretera, en coordinación con las dependencias competentes;
 
-XVII. Participar en la supervisión de los aspectos técnicos de los programas de construcción, modernización, reconstrucción y conservación encomendados a las unidades administrativas de la Secretaría y vigilar que se realicen con la oportunidad, calidad y costos señalados en los mismos, así como recomendar medidas para mejorar el control de calidad;
+XXI. Participar en la obtención de dictámenes técnicos sobre daños en la infraestructura carretera;
 
-XVIII. Evaluar, en coordinación con las unidades administrativas de la Secretaría, el grado de cumplimiento de las empresas que ejecuten obras para ella, así como de las que prestan servicios relacionados con la obra pública, y emitir las recomendaciones procedentes;
+XXII. Establecer procedimientos y, en su caso, efectuar las evaluaciones para conocer el estado físico, la calidad de los servicios y los niveles de operación que ofrece la infraestructura carretera a los usuarios;
 
-XIX. Participar en los estudios para definir las características, tipo y ubicación de las vías generales de comunicación a construir o modernizar, en coordinación con las unidades administrativas involucradas;
+XXIII. Participar en el desarrollo de programas tendientes a mejorar las condiciones de seguridad en el sistema vial del país;
 
-XX. Obtener, procesar y difundir la información sobre estudios de origen y destino, pesos y dimensiones y volúmenes de tránsito en la Red Nacional de Carreteras;
+XXIV. Elaborar anualmente los tabuladores de precios unitarios a costo directo, para integrar el presupuesto base de las obras de infraestructura carretera, así como para el pago de obras por asignación directa;
 
-XXI. Integrar bancos de datos y herramientas analíticas auxiliares para el manejo del sistema nacional de carreteras;
+XXV. Proponer a la Subsecretaría de Infraestructura los porcentajes de variación en los precios unitarios resultantes de la actualización de costos de insumos, que se aplican para el pago de estimaciones de las obras de infraestructura carretera, así como de los trabajos de supervisión, y
 
-XXII. Administrar el Centro de Documentación Técnica de Obra Pública, el catálogo de estudios y proyectos de la Secretaría y su proyectoteca;
+XXVI. Participar en la atención de emergencias provocadas por fenómenos naturales que afecten la infraestructura vial, realizando estudios o proponiendo obras provisionales.
 
-XXIII. Proponer la instalación de dispositivos para el control de tránsito en el sistema carretero del país, así como mantener actualizado y difundir el manual correspondiente o la norma oficial mexicana;
+> <small>(ADICIONADO, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
 
-XXIV. Intervenir en los estudios, análisis y determinación de precios unitarios, costos-horarios y rendimientos de las máquinas y equipos utilizados para la ejecución de las obras a cargo de la Secretaría;
+ARTICULO 17 BIS. Corresponde a la Dirección General de Desarrollo Carretero:
 
-XXV. Coordinar en todas las funciones anteriores la participación de las unidades generales de proyectos, servicios técnicos y, conjuntamente con la Dirección General de Evaluación, las concesiones de los Centros SCT en las entidades federativas;
+I. Coadyuvar en la definición de la política y los programas de infraestructura para el transporte en el marco de su competencia;
 
-XXVI. Interactuar con los organismos de investigación del Sector, a efecto de proponer, desarrollar, implantar y evaluar sistemáticamente trabajos de investigación y desarrollo tecnológico que resulten prioritarios para la Secretaría;
+II. Planear el desarrollo estratégico de la red federal de carreteras, incluyendo su interconexión con otros modos de transporte y la coordinación con la planeación regional y estatal;
 
-XXVII. (DEROGADA, D.O.F. 29 DE OCTUBRE DE 1996)
+III. Elaborar evaluaciones económicas y financieras de proyectos carreteros, a efecto de determinar su rentabilidad y la viabilidad de llevarlos a cabo como inversión pública o a través de esquemas de participación público-privada, así como realizar las gestiones necesarias ante las autoridades competentes para obtener la autorización de las obras;
 
-XXVIII. (DEROGADA, D.O.F. 29 DE OCTUBRE DE 1996)
+IV. Elaborar, de conformidad con las políticas de la Secretaría, los criterios, estrategias y programas de inversión de corto, mediano y largo plazo en materia de construcción, modernización, ampliación y conservación de carreteras federales, caminos rurales y alimentadores;
 
-XXIX. (DEROGADA, D.O.F. 29 DE OCTUBRE DE 1996)
+V. Diseñar, obtener y difundir sistemas de indicadores para el desarrollo y gestión del Sistema Carretero Nacional, así como para la evaluación de resultados de los programas carreteros;
 
-> <small>(REFORMADA, D.O.F. 29 DE OCTUBRE DE 1996)</small>
+VI. Elaborar la documentación y preparar los elementos necesarios para la ejecución de obras susceptibles de desarrollarse mediante esquemas de coparticipación público-privada;
 
-XXX. Intervenir en las relaciones internacionales de la Secretaría en el área de carreteras y puentes, así como en las negociaciones de los tratados y convenios internacionales que México celebre en materia de infraestructura carretera.
+VII. Llevar a cabo los procesos de licitación, evaluación, fallo y adjudicación de concesiones de carreteras con apoyo de la Unidad de Asuntos Jurídicos y de la Dirección General de Carreteras;
+
+VIII Elaborar planes maestros para el ordenamiento del desarrollo de autopistas existentes, incluyendo mejoras físicas, operativas, de seguridad y de gestión del tránsito;
+
+IX. Conceptuar y coordinar el desarrollo de proyectos que maximicen el aprovechamiento de la red federal de carreteras, incluyendo los caminos y puentes concesionados, tales como paradores, accesos, entronques e introducción de nuevas tecnologías u obras complementarias;
+
+X. Supervisar el cumplimiento de las obligaciones que las leyes, reglamentos, títulos de concesión o permisos respectivos impongan a los concesionarios o permisionarios de caminos y puentes federales o sus obras auxiliares y tramitar, en su caso, los procedimientos para la modificación, revocación, rescate, requisa, terminación o suspensión;
+
+XI. Verificar el estado financiero de los concesionarios de caminos y puentes en los términos establecidos en los títulos de concesión;
+
+XII. Emitir disposiciones operativas para la adecuada utilización de los caminos y puentes concesionados, opinar sobre la interpretación de las leyes aplicables, sin perjuicio de las facultades que sobre el particular tiene la Unidad de Asuntos Jurídicos, e intervenir, en los términos señalados en aquéllas, en la elaboración de sus reglamentos;
+
+XIII. Tramitar el otorgamiento de permisos y autorizaciones para la construcción de accesos, cruzamientos e instalaciones marginales en el derecho de vía de los caminos y puentes concesionados, así como para la instalación de anuncios y señales publicitarias; la construcción, modificación o ampliación de las obras en el derecho de vía, y la instalación de líneas de transmisión eléctrica, postes, cercas, ductos de transmisión o cualquier otra obra subterránea, superficial o aérea, en caminos concesionados y, en su caso, tramitar la suspensión o retiro de las obras en el derecho de vía;
+
+XIV. Verificar el estado físico de los caminos y puentes concesionados, emitir disposiciones relativas a su conservación y mantenimiento, así como revisar propuestas de obra para ello;
+
+XV. Coordinar, conjuntamente con los Centros SCT y las Direcciones Generales de Carreteras, Conservación de Carreteras, Servicios Técnicos y de Evaluación, las acciones para el seguimiento y supervisión de los programas de conservación en los caminos y puentes concesionados, de acuerdo con los manuales establecidos;
+
+XVI. Llevar los registros del movimiento de vehículos y otros indicadores en los caminos y puentes concesionados y efectuar el análisis estadístico y la evaluación operacional;
+
+XVII. Integrar bancos de datos y herramientas analíticas auxiliares para el manejo de caminos y puentes concesionados;
+
+XVIII. Ejercer las atribuciones de la Secretaría respecto de las tarifas y precios en materia de caminos y puentes federales concesionados, de conformidad con las leyes, reglamentos, concesiones, permisos, autorizaciones, normas oficiales y demás disposiciones aplicables, excepto las que conforme a este Reglamento sean competencia de otras unidades administrativas;
+
+XIX. Interactuar, en el ámbito de sus atribuciones, con los organismos de investigación del sector, a efecto de proponer, desarrollar, implantar y evaluar sistemáticamente trabajos de investigación y desarrollo tecnológico que resulten prioritarios para la Secretaría, y
+
+XX. Intervenir en la negociación de instrumentos jurídicos internacionales en materia de infraestructura carretera, puentes y cruces fronterizos, en coordinación con las dependencias competentes.
 
 ###### ARTICULO 18.
 
@@ -699,7 +835,9 @@ XX. Elaborar los estudios tendientes a uniformar los sistemas de información es
 
 XXI. Inspeccionar y controlar el mantenimiento de las aeronaves y, en su caso, expedir o cancelar los certificados de aeronavegabilidad;
 
-XXII. Apercibir a los infractores, así como imponer, graduar y, en su caso, reducir y cancelar las sanciones aplicables por violaciones a las disposiciones que en materia de transporte aéreo establecen las leyes aplicables, cuando proceda dar aviso a las autoridades hacendarias y efectuar las notificaciones respectivas;
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+XXII. Apercibir a los infractores, así como imponer, graduar y, en su caso, reducir y cancelar las sanciones que procedan por infracciones a las leyes, reglamentos, concesiones, permisos, autorizaciones, normas oficiales y demás disposiciones aplicables, en las materias de aviación civil nacional e internacional, aeroportuaria y servicios relacionados con dichas actividades, así como por el incumplimiento de las disposiciones relativas a las tarifas en las materias a que se refiere la fracción XXXV siguiente y, cuando proceda, dar aviso a las autoridades competentes, así como efectuar las notificaciones respectivas;
 
 XXIII. Organizar y controlar los servicios de búsqueda y salvamento de aeronaves civiles extraviadas o accidentadas, así como investigar y dictaminar accidentes e incidentes de aviación;
 
@@ -727,13 +865,21 @@ XXXI. Vigilar que el servicio de transporte aéreo se efectúe en los términos 
 
 XXXII. Tramitar y dar seguimiento a los estudios y evaluaciones que se llevan a cabo para la construcción, ampliación y conservación de aeropuertos, así como coordinar lo necesario para efectuar la compraventa o, en su defecto, la expropiación de los terrenos y construcciones necesarias para realizar dichos actos;
 
-> <small>(ADICIONADA, D.O.F. 29 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
 
-XXXIII. Proponer la expedición y, en su caso, aplicar las medidas y normas de seguridad e higiene que deben observarse en los servicios de transporte aéreo, así como verificar su cumplimiento, y
+XXXIII. Proponer la expedición y, en su caso, aplicar las medidas y normas de seguridad e higiene que deban observarse en los servicios de transporte aéreo, así como verificar su cumplimiento;
 
-> <small>(ADICIONADA, D.O.F. 29 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
 
-XXXIV. Previo acuerdo superior, designar o, en su caso, remover a los comandantes de los aeródromos civiles, así como al personal técnico especializado que preste sus servicios en los mismos.
+XXXIV. Previo acuerdo superior, designar o, en su caso, remover a los comandantes de los aeródromos civiles, así como al personal técnico especializado que preste sus servicios en los mismos, de conformidad con las disposiciones aplicables, y
+
+> <small>(ADICIONADA, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+XXXV. Ejercer las atribuciones de la Secretaría respecto de las tarifas y precios en materias de aviación civil nacional e internacional, aeroportuaria y los servicios relacionados con dichas actividades, de conformidad con las leyes, reglamentos, concesiones, permisos, autorizaciones, normas oficiales y demás disposiciones aplicables, excepto las que conforme a este Reglamento sean competencia de otras unidades administrativas.
+
+> <small>(ADICIONADO, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+Las atribuciones señaladas en el presente artículo podrán ser ejercidas por el Director General y los siguientes servidores públicos de la Dirección General de Aeronáutica Civil: las establecidas en las fracciones IV, X, XIII, XIV y XVIII por el Director de Aviación; el trámite de los permisos y el otorgamiento de las autorizaciones a que se refiere la fracción VI, así como las establecidas en las fracciones VII, XV, XXIX y XXX por el Director General Adjunto de Transporte y Control Aeronáutico; el trámite de los permisos a que se refiere la fracción XI y las establecidas en la fracción XII por el Director de Aeropuertos, y la establecida en la fracción XXXI por el Director General Adjunto de Seguridad Aérea.
 
 ###### ARTICULO 19.
 
@@ -741,31 +887,43 @@ Corresponde a la Dirección General de Autotransporte Federal:
 
 I. Proponer a su superior jerárquico las políticas y programas de autotransporte federal, y ejercer la autoridad en el marco de su competencia;
 
-II. Regular los servicios del autotransporte público y privado, en los caminos de jurisdicción federal; así como proponer las modalidades que dicte el interés general y, en su caso, diseñar los sistemas de operación del servicio;
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+II. Regular los servicios del autotransporte federal y sus servicios auxiliares, así como del autotransporte internacional, el transporte privado, el arrendamiento de automotores, remolques y semirremolques, el arrendamiento de automóviles de uso privado y el traslado de vehículos, que operan en los caminos y puentes de jurisdicción federal; proponer las modalidades que dicte el interés general y, en su caso, diseñar los sistemas de operación del servicio;
 
 III. Promover la coordinación del autotransporte federal con otros modos de transporte para conformar un sistema integral;
 
-> <small>(REFORMADA, D.O.F. 29 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
 
-IV. Otorgar los permisos para la prestación del servicio público de autotransporte federal de pasaje, turismo, carga, mensajería y paquetería, terminales de pasajeros, paradores y otros servicios auxiliares, y los relativos al autotransporte privado, así como autorizar y regular la operación y explotación de las terminales interiores de carga en materia de autotransporte y que no realicen operaciones de carácter multimodal en coordinación con la Dirección General de Tarifas, Transporte Ferroviario y Multimodal;
+IV. Otorgar los permisos para la prestación del servicio público de autotransporte federal de pasaje, turismo, carga, paquetería y mensajería, terminales de pasajeros y de carga, paradores y otros servicios auxiliares y los relativos al autotransporte privado, así como autorizar y regular la operación y explotación de las terminales interiores de carga en materia de autotransporte, en coordinación con la Dirección General de Transporte Ferroviario y Multimodal;
 
-V. Registrar los horarios de los servicios públicos federales de autotransporte y los reglamentos de operación;
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+V. Registrar los horarios de los servicios públicos de autotransporte federal de pasajeros;
 
 VI. Registrar los convenios que los permisionarios celebren entre sí o con otras empresas de autotransporte, tanto nacionales como extranjeras, para la cobertura en la prestación de los servicios de autotransporte federal;
 
 VII. Participar ante organismos internacionales en las negociaciones que se lleven a cabo para la formalización de tratados y convenios relacionados con el autotransporte y proponer las acciones que faciliten la internacionalización del autotransporte;
 
-VIII. Tramitar y expedir las placas metálicas, calcomanías de identificación y tarjetas de circulación de los vehículos destinados al servicio federal de autotransporte, de traslado y de arrendamiento de automóviles para uso particular que circulen por las carreteras de jurisdicción federal;
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
 
-IX. Registrar las bases constitutivas de sociedades de autotransporte federal y sus servicios auxiliares, así como sus modificaciones, vigilar el funcionamiento de las mismas y fomentar su desarrollo;
+VIII. Tramitar y expedir las placas metálicas, calcomanías de identificación y tarjetas de circulación de los vehículos destinados al servicio de autotransporte federal, de arrendamiento de automotores, remolques y semirremolques, de arrendamiento de automóviles para uso particular y de traslado de vehículos, que circulen por las carreteras y puentes de jurisdicción federal;
 
-X. Elaborar los proyectos de normas oficiales mexicanas, y las que se requieran en caso de emergencia, en las que se establezcan las características y especificaciones, y los métodos de prueba para su comprobación, respecto de la fabricación y operación de los vehículos y equipos destinados al autotransporte federal, así como sus servicios principales y auxiliares, incluyendo el transporte de materiales y residuos peligrosos y las relativas a las placas metálicas, calcomanías de identificación y tarjetas de circulación de vehículos automotores y remolques, tanto matriculados en el país, como de procedencia extranjera; así como actualizar y vigilar su cumplimiento conforme a la ley en la materia;
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+IX. Registrar las bases constitutivas de sociedades de autotransporte federal y sus servicios auxiliares, de arrendadoras de automotores, remolques y semirremolques y de arrendadoras de automóviles para uso particular que operan en caminos y puentes de jurisdicción federal, así como sus modificaciones; vigilar la operación de las mismas y fomentar su desarrollo;
+
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+X. Elaborar las normas oficiales mexicanas y las que se requieran en caso de emergencia, en las que se establezcan las características, especificaciones y los métodos de prueba para su comprobación, respecto de la operación y seguridad de los vehículos y equipos destinados al autotransporte federal, así como sus servicios principales y auxiliares, incluyendo el transporte de materiales y residuos peligrosos y las relativas a las placas metálicas, calcomanías de identificación y tarjetas de circulación de vehículos automotores y remolques, tanto matriculados en el país como de procedencia extranjera, así como actualizar y vigilar su cumplimiento conforme a las disposiciones aplicables;
 
 XI. Evaluar y aprobar a las personas físicas o morales como organismos de certificación, laboratorios de prueba y unidades de verificación de las normas oficiales mexicanas, relacionadas con el autotransporte federal;
 
 XII. Formular, proponer e instrumentar, en el ámbito de su competencia, programas para el cumplimiento de las normas oficiales mexicanas en materia de contaminación ambiental, por parte de los vehículos de autotransporte federal;
 
-XIII. Realizar estudios de los avances tecnológicos en materia de autotransporte federal, así como analizar la factibilidad de su implantación en unidades de reciente producción y en las que se encuentren en circulación;
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+XIII. Realizar estudios sobre avances tecnológicos en materia de autotransporte federal y la factibilidad de su implantación;
 
 XIV. Participar en los estudios para el señalamiento de los caminos de jurisdicción federal y en los de ingeniería de tránsito para la prevención de accidentes, en coordinación con la Dirección General de Protección y Medicina Preventiva en el Transporte;
 
@@ -773,9 +931,13 @@ XV. Elaborar las normas oficiales mexicanas y determinar las características f�
 
 XVI. Vigilar el cumplimiento de las condiciones que se establezcan en los permisos que se expidan en materia de autotransporte y servicios auxiliares, y proponer al superior jerárquico, en su caso, su modificación, terminación, requisa o revocación;
 
-XVII. Expedir, controlar y, en su caso, renovar, suspender y cancelar, las licencias del personal que intervenga en la operación de las unidades del autotransporte federal en coordinación con la Dirección General de Protección y Medicina Preventiva en el Transporte;
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
 
-XVIII. Aprobar los programas de capacitación del personal que intervenga en la operación del autotransporte federal, supervisar su desarrollo y vigilar que ésta corresponda a los objetivos fijados;
+XVII. Expedir, controlar y en su caso, renovar, refrendar, suspender, cancelar y dar de baja las licencias del personal que intervenga en la operación de las unidades de autotransporte federal, en coordinación con la Dirección General de Protección y Medicina Preventiva en el Transporte;
+
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+XVIII. Otorgar el reconocimiento a los centros de capacitación e instructores de conductores del servicio de autotransporte federal, que cumplan con los requisitos correspondientes, así como aprobar los programas de capacitación del personal que intervenga en la operación del autotransporte federal, supervisar su desarrollo y vigilar que ésta corresponda a los objetivos fijados;
 
 XIX. Establecer los lineamientos y consolidar los sistemas homogéneos y automatizados de información estadística y contable en materia de autotransporte federal; formular y publicar anualmente las estadísticas básicas correspondientes que comprendan los principales indicadores de operación, así como el control y registro de los vehículos, instalaciones y demás aspectos relacionados con este tipo de servicios;
 
@@ -783,63 +945,117 @@ XX. Realizar los análisis económicos y financieros de las distintas variables 
 
 XXI. Concertar las acciones que permitan lograr un mejor entendimiento de los elementos que integran el sistema de autotransporte federal y atender sus requerimientos en el ámbito de su competencia;
 
-XXII. Vigilar que el servicio de autotransporte federal y sus servicios auxiliares, se efectúe en los términos y condiciones señalados en la ley y los reglamentos en la materia, en las normas oficiales mexicanas y en los permisos correspondientes, así como supervisar la conservación y mantenimiento de sus equipos e instalaciones, y coordinar con la Dirección General de la Policía Federal de Caminos las acciones que fueren necesarias para tal fin;
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+XXII. Realizar la inspección, verificación y vigilancia, a fin de comprobar que el servicio de autotransporte federal y sus servicios auxiliares, el transporte privado, así como el arrendamiento de automotores, remolques y semirremolques, el arrendamiento de automóviles para uso particular y el traslado de vehículos, que operan en los caminos y puentes de jurisdicción federal, se efectúen en los términos y condiciones señalados en la ley y los reglamentos en la materia, en las normas oficiales mexicanas y en los permisos, autorizaciones, registros y reconocimientos correspondientes, y designar a los servidores públicos que deban intervenir para ello; supervisar la conservación y mantenimiento de los equipos e instalaciones en términos de las disposiciones aplicables y coordinar, con las autoridades competentes, las acciones que fueren necesarias para tal fin;
 
 XXIII. Evaluar, en coordinación con la Dirección General de Evaluación y con los Centros SCT, la operación de los servicios de autotransporte federal por entidad federativa;
 
-XXIV. Apercibir a los infractores, así como imponer, graduar y, en su caso, reducir y cancelar, las sanciones aplicables por infracciones que se cometan con motivo del aprovechamiento, explotación y uso de las carreteras de jurisdicción federal y de sus servicios auxiliares y, cuando proceda, dar aviso a las autoridades hacendarias y efectuar las notificaciones respectivas;
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+XXIV. Apercibir a los infractores, así como imponer, graduar y, en su caso, reducir y cancelar las sanciones aplicables por infracciones que se cometan con motivo de las violaciones a los ordenamientos aplicables en materia de autotransporte federal, transporte privado y uso de las carreteras de jurisdicción federal, así como dar aviso a las autoridades competentes y efectuar las notificaciones respectivas;
 
 XXV. Autorizar el establecimiento de instalaciones auxiliares al autotransporte federal, así como supervisar que su funcionamiento se realice de acuerdo con la normatividad establecida;
 
 XXVI. Dictaminar a los permisionarios de los servicios de autotransporte federal y a los concesionarios de carreteras de cuota, el contrato de seguro para garantizar el cumplimiento de su responsabilidad derivada de los daños que sufran los usuarios en su persona o en sus pertenencias, o en su defecto la obligación de constituir un fondo de garantía, y
 
-XXVII. Participar, con la intervención de la Coordinación General de Planeación y Centros SCT, en la definición de los lineamientos y programas de las delegaciones de autotransporte.
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+XXVII. Participar, con intervención de la Coordinación General de Planeación y Centros SCT, en la definición de los lineamientos y programas de los Centros SCT en materia de autotransporte, y
+
+> <small>(ADICIONADA, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+XXVIII. Ejercer las atribuciones de la Secretaría respecto de las tarifas y precios en materia de autotransporte federal y sus servicios auxiliares, de conformidad con las leyes, reglamentos, concesiones, permisos, autorizaciones, normas oficiales y demás disposiciones aplicables, excepto las que conforme a este Reglamento sean competencia de otras unidades administrativas.
+
+> <small>(ADICIONADO, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+Las atribuciones señaladas en el presente artículo podrán ser ejercidas por el Director General y por los siguientes servidores públicos de la Dirección General de Autotransporte Federal: las establecidas en la fracción XVIII por el Director General Adjunto de Planeación y Desarrollo; las establecidas en las fracciones IV, V, VIII, IX y XVII por el Director del Centro Metropolitano del Autotransporte; las establecidas en la fracción XXII por el Director de Supervisión del Autotransporte Federal, y las establecidas en la fracción XXIV por el Director Jurídico.
 
 ###### ARTICULO 20.
 
 (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DE LA POLICIA FEDERAL DE CAMINOS, D.O.F. 13 DE OCTUBRE DE 1997)
 
-> <small>(REFORMADO, D.O.F. 29 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 21.
 
-Corresponde a la Dirección General de Tarifas, Transporte Ferroviario y Multimodal:
+Corresponde a la Dirección General de Transporte Ferroviario y Multimodal:
+
+> <small>(REFORMADA, D.O.F. 29 DE OCTUBRE DE 1996)</small>
 
 I. Proponer y promover las políticas y programas de desarrollo, promoción, regulación y supervisión del sistema ferroviario y del transporte multimodal, y fomentar la operación intermodal de los distintos modos de transporte para conformar un sistema integral;
 
+> <small>(REFORMADA, D.O.F. 29 DE OCTUBRE DE 1996)</small>
+
 II. Tramitar las peticiones relativas al otorgamiento de concesiones para la construcción, operación y explotación de vías generales de comunicación ferroviaria y la prestación del servicio público de transporte ferroviario, así como su prórroga, modificación o terminación y, en su caso, las licitaciones públicas correspondientes;
+
+> <small>(REFORMADA, D.O.F. 29 DE OCTUBRE DE 1996)</small>
 
 III. Definir las características, tipo y ubicación de las vías generales de comunicación ferroviaria a ser construidas o reconstruidas; fijar y modificar las dimensiones y características del derecho de vía de las vías generales de comunicación ferroviaria, así como aprobar los proyectos de construcción y, en su caso, reconstrucción de las mismas;
 
+> <small>(REFORMADA, D.O.F. 29 DE OCTUBRE DE 1996)</small>
+
 IV. Otorgar, modificar o revocar los permisos y autorizaciones en materia ferroviaria, entre otros, respecto a la prestación de los servicios auxiliares; la construcción de accesos, cruzamientos, puentes, instalación de anuncios, así como cualquier otra clase de obras e instalaciones subterráneas, superficiales o aéreas en el derecho de vía de las vías generales de comunicación ferroviaria en materia multimodal, así como para ejecutar maniobras en zonas federales terrestres, y aprobar, en su caso, los proyectos ejecutivos correspondientes;
+
+> <small>(REFORMADA, D.O.F. 29 DE OCTUBRE DE 1996)</small>
 
 V. Imponer modalidades en la operación y explotación de las vías férreas, así como en la prestación de los servicios ferroviarios;
 
-VI. Ejercer las atribuciones de la Secretaría respecto de las tarifas y precios en materias ferroviaria, de aviación civil nacional e internacional, aeroportuaria, de autotransporte, carretera, y los servicios relacionados con dichas actividades, de conformidad con las disposiciones legales y administrativas aplicables, excepto las que conforme a este Reglamento sean competencia de otras unidades administrativas;
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+VI. Ejercer las atribuciones de la Secretaría respecto de las tarifas y precios en el servicio público de transporte ferroviario, sus servicios auxiliares y demás actividades relacionadas con el servicio ferroviario, así como en el transporte multimodal, de conformidad con las leyes, reglamentos, concesiones, asignaciones, permisos, autorizaciones, normas oficiales y demás disposiciones aplicables;
+
+> <small>(REFORMADA, D.O.F. 29 DE OCTUBRE DE 1996)</small>
 
 VII. Proponer a las autoridades competentes los derechos, productos, aprovechamientos y contraprestaciones que se cubrirán al Gobierno Federal por el otorgamiento de las concesiones, permisos y autorizaciones en materia ferroviaria y de transporte multimodal, así como por el uso, aprovechamiento y explotación de los bienes del dominio público correspondientes a la infraestructura ferroviaria y por la prestación del servicio público de transporte ferroviario;
 
+> <small>(REFORMADA, D.O.F. 29 DE OCTUBRE DE 1996)</small>
+
 VIII. Establecer las condiciones y contraprestaciones conforme a las cuales se prestarán los servicios ferroviarios de interconexión y terminal, y se otorgarán derechos de paso y derechos de arrastre, cuando no exista acuerdo entre las partes;
+
+> <small>(REFORMADA, D.O.F. 29 DE OCTUBRE DE 1996)</small>
 
 IX. Aprobar los contratos de seguro que en materia de transporte ferroviario y multimodal deban contratar los concesionarios y permisionarios, y establecer los montos mínimos que deberán cubrir dichos contratos;
 
+> <small>(REFORMADA, D.O.F. 29 DE OCTUBRE DE 1996)</small>
+
 X. Asignar la inicial y número que deberá portar el equipo tractivo que transite por las vías generales de comunicación ferroviaria;
+
+> <small>(REFORMADA, D.O.F. 29 DE OCTUBRE DE 1996)</small>
 
 XI. Expedir, renovar, suspender y cancelar la licencia federal ferroviaria, así como determinar los lineamientos generales respecto de aquellos conocimientos, habilidades y destrezas que requieran de certificación para la prestación de los servicios a cargo del personal que opera o auxilia en la operación del servicio público de transporte ferroviario;
 
+> <small>(REFORMADA, D.O.F. 29 DE OCTUBRE DE 1996)</small>
+
 XII. Realizar la investigación y dictamen de los accidentes ferroviarios y determinar sus causas, así como coadyuvar en la materia con las autoridades competentes que lo soliciten;
+
+> <small>(REFORMADA, D.O.F. 29 DE OCTUBRE DE 1996)</small>
 
 XIII. Verificar el cumplimiento de las leyes, reglamentos, normas oficiales mexicanas, concesiones, permisos, autorizaciones y demás disposiciones administrativas, por parte de los concesionarios, permisionarios y autorizados en materia ferroviaria y de transporte multimodal;
 
+> <small>(REFORMADA, D.O.F. 29 DE OCTUBRE DE 1996)</small>
+
 XIV. Apercibir a los infractores, así como imponer, graduar y, en su caso, reducir y cancelar las sanciones que procedan por infracciones a las leyes, reglamentos y demás disposiciones administrativas en materia ferroviaria y de transporte multimodal, así como por el incumplimiento de las disposiciones relativas a las tarifas en las materias a que se refiere la fracción VI anterior y, cuando proceda, dar aviso a las autoridades hacendarias, así como efectuar las notificaciones respectivas;
+
+> <small>(REFORMADA, D.O.F. 29 DE OCTUBRE DE 1996)</small>
 
 XV. Llevar el Registro Ferroviario Mexicano;
 
+> <small>(REFORMADA, D.O.F. 29 DE OCTUBRE DE 1996)</small>
+
 XVI. Elaborar los proyectos de normas oficiales mexicanas que se requieran en materia ferroviaria y de transporte multimodal, incluyendo las relativas al transporte de materiales y residuos peligrosos que se realicen en estos modos de transporte, así como autorizar las unidades de verificación en materia ferroviaria;
+
+> <small>(REFORMADA, D.O.F. 29 DE OCTUBRE DE 1996)</small>
 
 XVII. Evaluar, en coordinación con los Centros SCT, la infraestructura ferroviaria, la prestación de los servicios ferroviarios y de transporte multimodal, así como formular y promover la realización de los estudios tendientes a uniformar los sistemas de información estadística en dichas materias, y
 
+> <small>(REFORMADA, D.O.F. 29 DE OCTUBRE DE 1996)</small>
+
 XVIII. Participar, en el ámbito de su competencia, en las negociaciones para la celebración o revisión de los tratados y convenios internacionales, así como en sus relaciones con otras dependencias y entidades, e intervenir en el proceso de homologación de normas técnicas en materia ferroviaria.
+
+> <small>(ADICIONADO, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+Las atribuciones señaladas en el presente artículo podrán ser ejercidas por el Director General y los siguientes servidores públicos de la Dirección General de Transporte Ferroviario y Multimodal: las establecidas en la fracción VI por el Director de Tarifas; las establecidas en las fracciones III, X, XI, XII, XV y XVIII, así como en materia ferroviaria las establecidas en las fracciones IV, IX, XIII, XIV, XVI y XVII, por el Director de Regulación Técnica Operativa de Transporte Ferroviario; las establecidas en las fracciones IV, IX, XIII, XIV, XVI y XVII en materia de transporte multimodal, por el Director de Coordinación y Transporte Multimodal; las establecidas en las fracciones II y VIII por el Director de Regulación Económica, y la establecida en la fracción VII por el Director de Administración.
 
 ###### ARTICULO 22.
 
@@ -981,149 +1197,167 @@ XXIII. Coadyuvar al mejoramiento de la calidad de los servicios de las estacione
 
 (DEROGADO, D.O.F. 29 DE OCTUBRE DE 1996)
 
+> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 27.
 
 Corresponde a la Dirección General de Puertos:
 
-I. Proponer e instrumentar las políticas y programas para el desarrollo del sistema portuario nacional y ejercer la autoridad portuaria, por sí o a través de las capitanías de puerto;
+I. Proponer e instrumentar las políticas y programas para la planeación estratégica del desarrollo del sistema portuario nacional y ejercer la autoridad portuaria, por sí o por conducto de las capitanías de puerto;
 
-II. Proponer la habilitación de puertos y de terminales de uso público fuera de los mismos; así como autorizar para navegación de altura terminales de uso particular y marinas que no formen parte de algún puerto;
+II. Proponer la habilitación de puertos y de terminales de uso público fuera de los mismos, así como autorizar terminales de uso particular y marinas que no formen parte de algún puerto, para navegación de altura;
 
-III. Proponer la delimitación y determinación de los recintos portuarios de los puertos, terminales y marinas, participar en la delimitación de las zonas de desarrollo portuario; así como llevar a cabo las acciones tendientes a la liberación y regularización de los terrenos que constituyan los recintos portuarios, y definir lo que proceda respecto de su ocupación;
+III. Proponer la delimitación y determinación de los recintos portuarios de los puertos, terminales y marinas; participar en la delimitación de las zonas de desarrollo portuario, así como llevar a cabo las acciones tendientes a la liberación y regularización de áreas portuarias y definir lo que proceda respecto de su ocupación;
 
-IV. Promover la coordinación entre los distintos modos de transporte que concurren en los puertos;
+IV. Tramitar concesiones y celebrar, en su caso, los concursos públicos correspondientes, para la administración portuaria integral, así como para el uso, aprovechamiento, construcción, operación y explotación de bienes de dominio público en los puertos, terminales y marinas, y tramitar su prórroga, modificación, renovación, ampliación, revocación, rescate o terminación anticipada;
 
-V. Fomentar la participación de los sectores social y privado en las actividades portuarias;
+V. Construir y supervisar obras en los puertos, terminales, marinas e instalaciones portuarias, que no hayan sido objeto de concesión o permiso, cuando así lo requiera el interés público;
 
-VI. Tramitar concesiones y celebrar, en su caso, los concursos públicos correspondientes, para la administración portuaria integral, el uso, aprovechamiento, construcción, operación y explotación de bienes del dominio público en los puertos, terminales y marinas, así como tramitar, en su caso, su prórroga, modificación, revocación, rescate o terminación anticipada;
+VI. Dar mantenimiento a la infraestructura a su cargo;
 
-VII. Construir, establecer, administrar, operar y explotar obras y bienes en los puertos, terminales, marinas e instalaciones portuarias, así como prestar los servicios portuarios que no hayan sido objeto de concesión o permiso, cuando así lo requiera el interés público;
+VII. Autorizar y, en su caso, construir obras portuarias, marítimas y de dragado, así como fijar las especificaciones de construcción en los puertos, terminales, marinas e instalaciones portuarias; proponer la expedición de normas oficiales mexicanas en el ámbito de su competencia y verificar su cumplimiento;
 
-VIII. Dar mantenimiento, en su caso, a la infraestructura a su cargo;
+VIII. Verificar que la construcción de obras que integran los puertos, terminales, marinas e instalaciones portuarias se lleven a cabo conforme a las condiciones y características técnicas aplicables, así como autorizar su funcionamiento;
 
-IX. Autorizar y, en su caso, construir obras marítimas y de dragado, así como fijar las especificaciones de construcción en los puertos, terminales, marinas e instalaciones portuarias; proponer la expedición de normas oficiales mexicanas en el ámbito de su competencia y verificar su cumplimiento;
+IX. Autorizar los programas maestros de desarrollo portuario y sus modificaciones sustanciales, para los puertos concesionados a las administraciones portuarias integrales; registrar las modificaciones menores a dichos programas y registrar los programas anuales operativos y de mantenimiento presentados por esas administraciones;
 
-X. Verificar que la construcción de obras que integren puertos, así como de terminales, marinas e instalaciones portuarias, se lleven a cabo conforme a las condiciones y características técnicas aplicables; así como autorizar su funcionamiento;
+X. Establecer las bases de regulación tarifaria y de precios y, en su caso, registrar las tarifas por el uso de infraestructura y prestación de servicios portuarios, así como proponer los derechos, productos, aprovechamientos y las contraprestaciones que se cubrirán al Gobierno Federal o a las administraciones portuarias integrales por el uso, aprovechamiento y explotación de los bienes de dominio público y los servicios concesionados o permisionados;
 
-XI. Autorizar los programas maestros de desarrollo portuario y sus modificaciones sustanciales, para los puertos concesionados a las administraciones portuarias integrales; registrar las modificaciones menores a dichos programas y dar seguimiento a los programas operativos anuales presentados por esas administraciones;
+XI. Proporcionar a las autoridades competentes la información necesaria para el cobro coactivo de créditos fiscales a cargo de los titulares de concesiones, permisos o autorizaciones en los puertos que no hayan sido concesionados;
 
-XII. Establecer las bases de regulación tarifaria y de precios y, en su caso, las tarifas por el uso de infraestructura y prestación de servicios portuarios, así como proponer los derechos, productos, aprovechamientos y las contraprestaciones que se cubrirán al Gobierno Federal por el uso, aprovechamiento y explotación de los bienes de dominio público y los servicios concesionados o permisionados;
+XII. Resolver las inconformidades que se formulen con motivo de la celebración de concursos públicos para el otorgamiento de concesiones, de la celebración de los contratos y las demás a que se refiere la Ley de Puertos y su Reglamento;
 
-XIII. Auxiliar a las autoridades fiscales en el cobro de derechos y demás contribuciones que se generen en los puertos que no hayan sido concesionados;
+XIII. Autorizar los reglamentos internos de los comités de operación y las reglas de operación de los puertos;
 
-XIV. Resolver las inconformidades que se formulen con motivo de la celebración de concursos públicos para el otorgamiento de concesiones o de la celebración de los contratos a que se refiere la Ley de Puertos;
+XIV. Registrar los contratos de cesión parcial de derechos y para la prestación de servicios que celebren las administraciones portuarias integrales y revocar su registro cuando así proceda;
 
-XV. Autorizar los reglamentos internos de los comités de operación y las reglas de operación de los puertos, y formular y expedir estas últimas en el caso de que no exista administración portuaria integral;
+XV. Expedir, renovar, suspender y revocar, en su caso y de conformidad con las disposiciones aplicables, los títulos y demás documentación que acredite la aptitud del personal portuario que interviene directamente en la operación de equipos de maniobras, previa acreditación de los exámenes correspondientes;
 
-XVI. Registrar los contratos de cesión parcial de derechos y los de prestación de servicios que celebren las administraciones portuarias integrales y revocar su registro cuando así proceda;
+XVI. Vigilar, por sí o por conducto de los capitanes de puerto correspondientes, que el atraque y permanencia de embarcaciones en los puertos se realicen en condiciones de seguridad;
 
-XVII. Expedir, renovar, suspender y revocar, en su caso y de conformidad con las disposiciones legales aplicables, los títulos y demás documentación que acredite la aptitud del personal portuario que interviene directamente en la operación de equipos de maniobras, previo los exámenes correspondientes;
+XVII. Supervisar, por sí o por conducto de los capitanes de puerto correspondientes, que las vías navegables reúnan las condiciones de seguridad y profundidad;
 
-XVIII. Vigilar, por sí o por los capitanes de puerto correspondientes, que el atraque y permanencia de embarcaciones en los puertos se realicen en condiciones de seguridad, así como asignar las posiciones de atraque en los puertos que no hayan sido concesionados;
+XVIII. Resolver las quejas que presenten los navieros en relación con las posiciones de atraque y fondeo y las demás que interpongan los usuarios;
 
-XIX. Supervisar, por sí o por los capitanes de puerto correspondientes, que las vías navegables reúnan las condiciones de seguridad y profundidad;
+XIX. Integrar la información estadística del movimiento y operación portuarios y llevar el catastro de las obras e instalaciones portuarias;
 
-XX. Operar los servicios de vigilancia en los puertos que no hayan sido concesionados, así como el control de los accesos y tránsito de personas, vehículos y bienes en el área terrestre del recinto portuario, de acuerdo con las reglas de operación del puerto y sin perjuicio de las facultades de la capitanía;
+XX. Verificar el cumplimiento de las obligaciones que señalen las concesiones, permisos, autorizaciones, programas maestros de desarrollo portuario y demás disposiciones legales y administrativas aplicables en el ámbito de su competencia;
 
-XXI. Resolver las quejas que presenten los navieros en relación con las posiciones de atraque y fondeo;
+XXI. Apercibir a los infractores, así como imponer, graduar, reducir y cancelar, en su caso, las sanciones establecidas en las disposiciones aplicables en el ámbito de su competencia y, cuando proceda, dar aviso a las autoridades hacendarias que corresponda y efectuar las notificaciones respectivas;
 
-XXII. Integrar la información estadística del movimiento y operación portuarios y llevar el catastro de las obras e instalaciones portuarias;
+XXII. Participar en organismos internacionales e intervenir en las negociaciones de convenios y tratados que celebre México con otros países en materia de puertos, en coordinación con las dependencias competentes;
 
-XXIII. Verificar el cumplimiento de las obligaciones que señalen las concesiones, permisos, programas maestros de desarrollo portuario y demás disposiciones legales y administrativas aplicables en el ámbito de su competencia;
+XXIII. Otorgar los permisos para construir y usar embarcaderos, atracaderos, botaderos y demás similares en las vías generales de comunicación por agua, fuera de puertos, terminales y marinas y para prestar servicios portuarios, así como tramitar, en su caso, su prórroga, renovación, modificación, ampliación, revocación o terminación por cualquiera de las causas previstas en la ley, y
 
-XXIV. Apercibir a los infractores, así como imponer, graduar, reducir y cancelar, en su caso, las sanciones establecidas en las disposiciones aplicables en el ámbito de su competencia, cuando proceda, dar aviso a las autoridades hacendarias que corresponda y efectuar las notificaciones respectivas;
+XXIV. Autorizar a las personas físicas y morales para llevar a cabo la función de certificación de laboratorios de prueba y unidades de verificación, de conformidad con las disposiciones aplicables.
 
-XXV. Participar en organismos internacionales e intervenir en las negociaciones de convenios y tratados que celebre México con otros países en materia de puertos;
-
-> <small>(REFORMADA, D.O.F. 29 DE OCTUBRE DE 1996)</small>
-
-XXVI. Otorgar los permisos para construir y usar embarcaderos, atracaderos, botaderos y demás similares en las vías generales de comunicación por agua, fuera de puertos, terminales y marinas y para prestar servicios portuarios, así como declarar su terminación por cualquiera de las causas previstas en la ley, y
-
-XXVII. Autorizar a las personas físicas y morales para llevar a cabo la función de certificación, laboratorios de prueba y unidades de verificación.
+> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 28.
 
 Corresponde a la Dirección General de Marina Mercante:
 
-I. Proponer e instrumentar las políticas y programas para el desarrollo del transporte por agua y de la marina mercante mexicana, así como ejercer la autoridad marítima, por sí o a través de las capitanías de puerto;
+I. Ejercer la autoridad marítima por sí o a través de las capitanías de puerto;
 
-II. Promover y regular la marina mercante mexicana, así como las comunicaciones y transporte por agua;
+II. Formular los anteproyectos de disposiciones que regulen las comunicaciones y el transporte por agua, el tráfico marítimo y la seguridad en materia de navegación y proponer e instrumentar las políticas y programas para su desarrollo;
 
-III. Abanderar y matricular las embarcaciones y artefactos navales mexicanos, otorgarles la señal distintiva de llamada y llevar el Registro Público Marítimo Nacional, el Programa de Abanderamiento y la sección especial del Registro para embarcaciones mexicanas dedicadas exclusivamente al transporte marítimo internacional;
+III. Abanderar y matricular las embarcaciones y artefactos navales mexicanos, otorgarles la señal distintiva de llamada y llevar el Registro Público Marítimo Nacional;
 
-IV. Promover la coordinación del transporte marítimo con otros modos de transporte para conformar un sistema integral;
+IV. Fungir como Secretario Técnico de la Comisión Intersecretarial de Seguridad y Vigilancia Marítima y Portuaria; proveer el eficaz cumplimiento de los acuerdos de la misma y desempeñar las demás funciones que establezca el Reglamento Interior de la Comisión;
 
-> <small>(REFORMADA, D.O.F. 29 DE OCTUBRE DE 1996)</small>
+V. Proponer la jurisdicción territorial de las capitanías de puerto y sus delegaciones;
 
-V. Otorgar los permisos y autorizaciones de navegación y para prestar servicios en vías generales de comunicación por agua, de acuerdo con la Ley de Navegación, así como vigilar su cumplimiento y revocarlos o suspenderlos, en su caso;
+VI. Proponer la expedición de normas oficiales mexicanas en el ámbito de su competencia y verificar su cumplimiento;
 
-VI. Autorizar los amarres temporales y desguaces; ordenar la remoción de derrelictos y tramitar las declaraciones de abandono, a favor de la nación, de embarcaciones y artefactos navales;
+VII. Organizar, promover y regular la formación y capacitación del personal de la marina mercante mexicana, así como expedir, controlar, renovar, suspender y revocar, en su caso y de conformidad con las disposiciones aplicables, los títulos, licencias y documentación que acredite su aptitud para prestar servicios a bordo de las embarcaciones;
 
-VII. Organizar, promover y regular la formación y capacitación del personal de la marina mercante mexicana, así como expedir, controlar, renovar, suspender y revocar, en su caso y de conformidad con las disposiciones legales aplicables, los títulos, licencias y documentación que acredite su aptitud para prestar servicios a bordo de las embarcaciones;
+VIII. Efectuar inspecciones, verificar y certificar por sí o a través de terceros autorizados, que las embarcaciones y los artefactos navales cumplan con las normas oficiales mexicanas, las que establezcan los tratados internacionales y las normas en materia de seguridad de la navegación y de prevención de la contaminación marina por embarcaciones;
 
-VIII. Programar, construir, operar y controlar el señalamiento marítimo a cargo de la Secretaría y determinar las disposiciones a las que deberán apegarse los concesionarios;
+IX. Autorizar a personas físicas o morales para que verifiquen y certifiquen el cumplimiento de las normas oficiales mexicanas, así como las que se establezcan en la legislación nacional y en los tratados internacionales;
 
-IX. Organizar, regular y, en su caso, prestar servicios de ayudas a la navegación, radiocomunicación marítima y control de tránsito marítimo; así como elaborar cuadros y portulanos y demás documentos para auxilio y seguridad de los navegantes;
+X. Coadyuvar con otras dependencias de la Administración Pública Federal en las actividades de protección al medio ambiente, sin perjuicio de las atribuciones de éstas;
 
-X. Supervisar, por sí o a través de los capitanes de puerto correspondientes, que las vías navegables reúnan las condiciones de señalamiento marítimo y de ayudas a la navegación;
+XI. Opinar respecto de las solicitudes de concesión para la construcción, operación y explotación de vías navegables;
 
-XI. Integrar la información estadística de la flota mercante, el transporte y los accidentes en aguas mexicanas;
+XII. Otorgar los permisos y autorizaciones de navegación y para prestar servicios en vías generales de comunicación por agua, de acuerdo con las disposiciones aplicables; vigilar su cumplimiento y, en su caso, revocarlos, cancelarlos o suspenderlos;
 
-XII. Proponer y tramitar, en coordinación con las áreas responsables, el establecimiento, modificación y actualización de las cuotas y tarifas de los derechos y aprovechamientos relacionados con la navegación fuera de las áreas concesionadas a las administraciones portuarias integrales y los correspondientes al Registro Público Marítimo Nacional;
+XIII. Ejercer las funciones de autoridad en materia de tarifas, fletes y recargos previstos en los instrumentos jurídicos internacionales aplicables;
 
-XIII. Registrar las bases tarifarias del servicio regular de transporte de altura de líneas conferenciadas y, en su caso, autorizar las bases tarifarias del servicio regular de transporte de cabotaje de pasajeros, así como aprobar, cuando proceda, los recargos que pretendan aplicar las líneas navieras;
+XIV. Proponer y tramitar el establecimiento, modificación y actualización de las cuotas y tarifas de los derechos y aprovechamientos relacionados con la navegación y los correspondientes al Registro Público Marítimo Nacional;
 
-XIV. Realizar las funciones de autoridad en materia de tarifas, fletes y recargos, previstos en la Convención sobre un Código de Conducta de las Conferencias Marítimas;
+XV. Registrar las bases tarifarias del servicio regular de transporte de altura de líneas conferenciadas y, en su caso, autorizar las del servicio regular de transporte de cabotaje de pasajeros;
 
-XV. Efectuar inspecciones, por sí o a través de terceros autorizados, y certificar que las embarcaciones y los artefactos navales cumplan con las normas oficiales mexicanas que expida la Secretaría y las que establezcan los tratados internacionales y las normas en materia de seguridad de la navegación y de prevención de la contaminación marina por embarcaciones;
+XVI. Realizar, por sí o a través de las capitanías de puerto, las investigaciones y actuaciones concernientes a los accidentes e incidentes marítimos, fluviales y lacustres, así como designar peritos facultados profesionalmente en la materia, y emitir dictámenes sobre aquéllos;
 
-XVI. Proponer la expedición de normas oficiales mexicanas en el ámbito de su competencia y verificar su cumplimiento, así como autorizar a personas físicas o morales para que realicen la verificación y certificación del cumplimiento de las normas oficiales mexicanas y de las que establezcan las normas y los tratados internacionales;
+XVII. Autorizar los desguaces, ordenar la remoción de derrelictos y tramitar las declaraciones de abandono de embarcaciones y artefactos navales a favor de la Nación;
 
-XVII. Vigilar, por sí o a través de las capitanías de puerto correspondientes, que la navegación y los servicios de pilotaje y remolque en los puertos, se realicen en condiciones de seguridad, economía y eficiencia;
+XVIII. Dirigir y regular las capitanías de puerto y sus delegaciones, así como supervisar que cumplan, en el ejercicio de sus funciones, con las leyes, tratados, reglamentos, normas y demás disposiciones aplicables;
 
-XVIII. Coordinar el auxilio y salvamento en aguas de jurisdicción mexicana;
+XIX. Proponer la designación de los titulares de las capitanías de puerto y sus delegaciones, de conformidad con las normas aplicables;
 
-XIX. Coadyuvar en las actividades de protección del medio ambiente con otras dependencias de la Administración Pública Federal, sin perjuicio de las atribuciones que aquéllas tengan establecidas;
+XX. Coordinar el auxilio y salvamento en aguas de jurisdicción mexicana;
 
-XX. Realizar, por sí o a través de las capitanías de puerto correspondientes, las investigaciones y actuaciones, así como designar peritos facultados profesionalmente en la materia, y emitir dictámenes de los accidentes e incidentes marítimos, fluviales y lacustres;
+XXI. Coordinar, a través de las capitanías de puerto, el cuerpo del Resguardo Marítimo Federal, para la vigilancia, seguridad y auxilio a la navegación interior;
 
-XXI. Apercibir a los infractores, así como imponer, graduar, reducir y cancelar, en su caso, las sanciones establecidas en las disposiciones aplicables en el ámbito de su competencia, cuando proceda, dar aviso a las autoridades hacendarias que corresponda y efectuar las notificaciones respectivas;
+XXII. Apercibir a los infractores, así como imponer, graduar, reducir y cancelar, en su caso, las sanciones establecidas en las disposiciones aplicables en el ámbito de su competencia y, cuando proceda, dar aviso a las autoridades competentes y efectuar las notificaciones respectivas;
 
-XXII. Participar en los organismos internacionales de transporte marítimo, en las negociaciones de convenios y tratados internacionales que en materia marítima celebre México y ser la autoridad ejecutora en el ámbito de su competencia; así como llevar el control de su aplicación y proponer, en su caso, los proyectos de resolución que correspondan;
+XXIII. Recibir e integrar la información relativa a los fenómenos meteorológicos y difundirla a la comunidad marítimo portuaria a través de derroteros meteorológicos;
 
-XXIII. Vigilar el cumplimiento de las disposiciones de seguridad e higiene para el trabajo marítimo, y
+XXIV. Organizar, regular y, en su caso, prestar servicios de ayudas a la navegación, radiocomunicación marítima y control de tráfico marítimo, así como elaborar cuadros, portulanos y demás documentos para auxilio y seguridad de los navegantes;
 
-XXIV. Organizar, promover y establecer las disposiciones sobre la organización del tráfico marítimo y seguridad en materia de navegación en los términos de los tratados internacionales.
+XXV. Determinar las áreas marítimas para los fondeaderos, canales de navegación y áreas de seguridad en las zonas adyacentes a los puertos y en las instalaciones y áreas de explotación y exploración de recursos naturales en aguas de jurisdicción federal;
+
+XXVI. Supervisar y coordinar, a través de las capitanías de puerto, que los Centros de Control de Tráfico Marítimo autorizados operen conforme a las reglas establecidas, así como que las vías navegables reúnan las condiciones de señalamiento marítimo y ayudas a la navegación previstas en la legislación nacional, en las convenciones internacionales y en las normas oficiales mexicanas;
+
+XXVII. Programar, establecer, operar y controlar el señalamiento marítimo a cargo de la Secretaría y determinar, de conformidad con las disposiciones aplicables, los términos y condiciones a que deberán apegarse los concesionarios de una administración portuaria integral, así como las terminales, marinas, instalaciones portuarias y vías navegables;
+
+XXVIII. Vigilar, a través de las capitanías de puerto, que la navegación y los servicios de pilotaje y remolque en los puertos se realicen en condiciones de seguridad;
+
+XXIX. Participar en los organismos internacionales de transporte marítimo, en las negociaciones de convenios y tratados internacionales que en materia marítima celebre México y ser la autoridad ejecutora en el ámbito de su competencia, así como llevar el control de su aplicación y proponer, en su caso, los proyectos de resolución que correspondan, en coordinación con las dependencias competentes;
+
+XXX. Recabar, analizar, integrar y evaluar los reportes periódicos que rindan las capitanías de puerto y sus delegaciones, así como consolidar la información y emitir, en su caso, recomendaciones y dar el seguimiento correspondiente, y
+
+XXXI. Integrar la información estadística de la flota mercante, el transporte y los accidentes en aguas mexicanas.
+
+> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 29.
 
-Corresponde a la Dirección General de Capitanías:
+Corresponde a la Dirección General de Fomento y Administración Portuaria:
 
-I. Dirigir y supervisar la actividad de las capitanías de puerto y sus delegaciones;
+I. Dirigir la planeación, programación y evaluación de las acciones para el fomento y desarrollo integral del sistema portuario nacional, de conformidad con las políticas y lineamientos establecidos en el Plan Nacional de Desarrollo y en los programas del sector;
 
-II. Proponer la jurisdicción territorial de las capitanías de puerto y sus delegaciones;
+II. Ejercer, de conformidad con las disposiciones aplicables y con las políticas que dicte la Secretaría, el control corporativo de las empresas de participación estatal mayoritaria coordinadas del subsector y, en su caso, los derechos corporativos que correspondan al Gobierno Federal en empresas de administración portuaria;
 
-> <small>(REFORMADA, D.O.F. 29 DE OCTUBRE DE 1996)</small>
+III. Promover y concertar mecanismos de apoyo y asistencia técnica para las entidades paraestatales coordinadas del subsector, por parte de las unidades administrativas de la Secretaría y de instituciones públicas o privadas;
 
-III. Proponer la designación de los titulares de las capitanías de puerto y sus delegaciones, así como del personal de mando medio de las mismas;
+IV. Establecer las políticas y estrategias administrativas, financieras, operativas y legales que permitan el funcionamiento integral y eficiente de las entidades paraestatales coordinadas del subsector;
 
-IV. Supervisar que las capitanías de puerto y sus delegaciones cumplan con las leyes, tratados, reglamentos, normas y demás disposiciones aplicables en el ejercicio de sus funciones;
+V. Intervenir, de conformidad con las disposiciones aplicables, en los consejos de administración de las empresas de administración portuaria en que participe el Gobierno Federal y dar seguimiento a los acuerdos tomados en éstos;
 
-V. Coordinar a través de las capitanías de puerto correspondientes, el cuerpo de Resguardo Marítimo Federal para la vigilancia, seguridad y auxilio a la navegación interior;
+VI. Coordinar los procesos de constitución, modificación o desincorporación de las entidades paraestatales coordinadas del subsector, de conformidad con las disposiciones legales y administrativas correspondientes, así como emitir los lineamientos necesarios respecto de los mecanismos financieros aplicables al efecto;
 
-VI. Establecer y mantener las relaciones de coordinación funcional e información entre las Direcciones Generales de Puertos y de Marina Mercante y las capitanías de puerto y sus delegaciones, así como entre estas últimas y las demás unidades administrativas centrales;
+VII. Coordinar la elaboración y evaluación de los programas maestros de desarrollo portuario de las entidades paraestatales coordinadas y de sus modificaciones, así como proponer soluciones alternas para el logro de sus objetivos;
 
-VII. Determinar y administrar, de conformidad con los lineamientos aplicables, los recursos presupuestales, humanos y materiales que requieran las capitanías de puerto y sus delegaciones, realizar los trámites correspondientes y vigilar su cumplimiento;
+VIII. Analizar y promover la armonización de los programas operativos anuales de las entidades paraestatales coordinadas del subsector, así como verificar su congruencia con los programas maestros y evaluar su cumplimiento;
 
-VIII. Diseñar, establecer, integrar y operar los sistemas de información de capitanías de puerto y sus delegaciones;
+IX. Participar en la elaboración de especificaciones técnicas de equipo relacionado con la infraestructura para la operación portuaria, que proyecten adquirir las entidades coordinadas del subsector;
 
-IX. Recabar, analizar, integrar y evaluar los reportes periódicos que rindan las capitanías de puerto y sus delegaciones, consolidar la información, emitir recomendaciones y dar el seguimiento correspondiente, y
+X. Fomentar la participación de los sectores social y privado, así como la de los gobiernos estatales y municipales, en el uso, aprovechamiento, explotación, construcción y operación de puertos, terminales, marinas, instalaciones y desarrollos costeros;
 
-X. Evaluar el desempeño de las capitanías de puerto y sus delegaciones, así como formular, con base en los resultados obtenidos, las propuestas correspondientes.
+XI. Proponer el establecimiento de administraciones portuarias que se requieran para el adecuado cumplimiento de los objetivos de la Secretaría;
 
-> <small>(ADICIONADA, D.O.F. 29 DE OCTUBRE DE 1996)</small>
+XII. Definir y conducir las políticas que habrán de observarse para la formulación de los reglamentos internos de los comités de operación y de las reglas de operación de los puertos bajo el régimen de administración portuaria integral, así como coordinar su formulación y expedición en el caso de los puertos sujetos al régimen de administración portuaria federal;
 
-XI. Recibir e integrar la información relativa a los fenómenos meteorológicos, y difundirla a la comunidad marítimo portuaria a través de derroteros meteorológicos.
+XIII. Intervenir, conforme a las disposiciones aplicables, en los concursos públicos correspondientes al otorgamiento de contratos de cesión parcial de derechos para el uso, aprovechamiento, explotación, construcción y operación de áreas, terminales, marinas e instalaciones, así como para la prestación de servicios en los puertos y terminales sujetos al régimen de administración portuaria integral;
+
+XIV. Promover la coordinación entre los distintos modos de transporte que concurren en los puertos;
+
+XV. Analizar y evaluar, en su caso, los programas anuales de mantenimiento de la infraestructura portuaria, de dragado, de señalamiento marítimo y de ayudas a la navegación dentro de los recintos portuarios concesionados;
+
+XVI. Administrar, operar y explotar puertos, terminales e instalaciones; prestar los servicios portuarios que no hayan sido objeto de concesión o permiso, cuando así lo requiera el interés público, así como operar los servicios de vigilancia y el control de los accesos y tránsito de personas, vehículos y bienes en los puertos, terminales e instalaciones bajo su administración y operación, y
+
+XVII. Asesorar a las entidades, sociedades, organizaciones de trabajadores y demás instituciones que brinden o utilicen servicios portuarios, de transporte, auxiliares o conexos con las vías de comunicación por agua que lo soliciten, de conformidad con las disposiciones aplicables.
 
 ###### ARTICULO 30.
 
@@ -1161,9 +1395,27 @@ XV. Glosar la contabilidad de las unidades administrativas de la Secretaría, el
 
 XVI. Colaborar con las autoridades competentes en el diseño del sistema integral de contabilidad gubernamental;
 
-XVII. Someter a la consideración del Oficial Mayor las propuestas de organización de las unidades administrativas, de actualización del Reglamento Interior y los manuales correspondientes, y
+XVII. Someter a la consideración del Oficial Mayor las propuestas de organización de las unidades administrativas, de actualización del Reglamento Interior y los manuales correspondientes, y (sic)
 
-XVIII. Por acuerdo del titular del ramo, diseñar, desarrollar, normar y evaluar la modernización institucional y sectorial.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+XVIII. Determinar la procedencia organizacional de las modificaciones a las estructuras orgánico-ocupacionales que formulen las unidades administrativas centrales y Centros SCT, de conformidad con la normatividad emitida por las dependencias globalizadoras y someterlas a consideración del Oficial Mayor para su aprobación;
+
+> <small>(ADICIONADA, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+XIX. Coordinar la programación y presupuestación del gasto en materia de servicios personales y efectuar los trámites correspondientes;
+
+> <small>(ADICIONADA, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+XX. Proporcionar la información solicitada por las dependencias globalizadoras en materia programática presupuestal;
+
+> <small>(ADICIONADA, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+XXI. Efectuar el seguimiento de las observaciones de auditoría que formule la Auditoría Superior de la Federación a las unidades administrativas centrales y Centros SCT, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+XXII. Por acuerdo del titular del ramo, diseñar, desarrollar, normar y evaluar la modernización institucional y sectorial.
 
 ###### ARTICULO 31.
 
@@ -1173,7 +1425,7 @@ I. Planear, programar y coordinar la administración de los recursos humanos de 
 
 II. Elaborar, establecer y aplicar las normas y procedimientos administrativos del personal; controlarlos, registrarlos y vigilar su observancia;
 
-III. Coordinar la programación y ejercicio del presupuesto de servicios personales, efectuar los trámites requeridos y vigilar el cumplimiento de las normas y disposiciones establecidas;
+III. (DEROGADA, D.O.F. 21 DE NOVIEMBRE DE 2005)
 
 IV. Participar en la elaboración, revisión, difusión y aplicación de las Condiciones Generales de Trabajo y vigilar su cumplimiento;
 
@@ -1195,13 +1447,23 @@ XII. Diseñar y supervisar los mecanismos administrativos del pago de sueldos en
 
 XIII. Atender, difundir y supervisar el cumplimiento de las disposiciones relativas al pago de sueldos al personal y al rendimiento de la información de la cuenta pública de servicios personales;
 
-XIV. Proporcionar a las diversas instituciones públicas la información referente a las retenciones que se apliquen en los sueldos del personal;
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+XIV. Ejercer el presupuesto de servicios personales y vigilar el cumplimiento de las normas y disposiciones en esta materia, así como proporcionar la información referente a las retenciones que se apliquen en los sueldos y prestaciones del personal, de conformidad con las disposiciones aplicables;
 
 XV. Programar, ejecutar, difundir y controlar las prestaciones y los servicios de carácter social, cultural y recreativo a que tienen derecho los trabajadores de la Secretaría y sus familiares derechohabientes;
 
-XVI. Celebrar convenios y acuerdos con las instituciones, organismos y entidades culturales para la ejecución de programas orientados al bienestar social y cultural de los trabajadores de la dependencia y sus familiares derechohabientes, y
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
 
-XVII. Administrar el Centro Deportivo y Recreativo SCT, el Círculo Cultural SCT y el gimnasio Licenciado Benito Juárez.
+XVI. Celebrar convenios y acuerdos con las instituciones, organismos y entidades culturales para la ejecución de programas orientados al bienestar social y cultural de los trabajadores de la dependencia y sus familiares derechohabientes;
+
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+XVII. Administrar el Centro Deportivo y Recreativo SCT, el Círculo Cultural SCT y el gimnasio Licenciado Benito Juárez, y
+
+> <small>(ADICIONADA, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+XVIII. Coordinar y promover la elaboración, instrumentación, seguimiento y evaluación de programas de innovación gubernamental de la Secretaría, conforme a los lineamientos que emitan las dependencias competentes.
 
 ###### ARTICULO 32.
 
@@ -1231,31 +1493,7 @@ XI. Proporcionar y normar los servicios de correspondencia, archivo y depuració
 
 XII. Administrar los talleres de impresión y reproducción de documentos, para el servicio de las unidades administrativas de la Secretaría.
 
-> <small>(ADICIONADO, D.O.F. 29 DE OCTUBRE DE 1996)</small>
-
-ARTICULO 32 BIS. Corresponde a la Unidad de Autopistas de Cuota:
-
-l. Tramitar el otorgamiento de permisos y autorizaciones para la construcción de accesos, cruzamientos e instalaciones marginales en el derecho de vía de las carreteras de cuota; para la instalación de anuncios y señales publicitarias; para la construcción, modificación o ampliación de las obras en el derecho de vía, así como para la instalación de líneas de transmisión eléctrica, postes, cercas, ductos de transmisión de productos del petróleo o cualquier otra obra subterránea, superficial o aérea, en los caminos de cuota que pudieran dificultar su operación;
-
-II. Supervisar el cumplimiento de las obligaciones que las leyes, reglamentos, títulos de concesión o permisos respectivos impongan a los concesionarios o permisionarios de caminos y puentes federales o sus obras auxiliares, y tramitar, en su caso, los procedimientos de revocación, rescate, requisa, terminación o suspensión;
-
-III. Verificar el estado financiero de las empresas concesionarias de caminos y puentes en los términos establecidos en el título de concesión;
-
-IV. Emitir disposiciones operativas para la adecuada utilización de los caminos y puentes concesionados; opinar sobre la interpretación de las leyes aplicables, sin perjuicio de las facultades que sobre el particular tiene la Dirección General de Asuntos Jurídicos, e intervenir, en los términos señalados en aquéllas, en la elaboración de sus reglamentos;
-
-V. Llevar los registros del movimiento de vehículos en los caminos y puentes de cuota y efectuar el análisis estadístico y la evaluación operacional;
-
-VI. Revisar que los estudios y proyectos de obras de conservación y ampliación en los caminos y puentes de cuota se realicen conforme a la normatividad y procedimientos establecidos;
-
-VII. Verificar el estado físico de los caminos y puentes de cuota, así como emitir disposiciones relativas a la conservación y mantenimiento de los mismos a fin de evitar su deterioro progresivo;
-
-VIII. Integrar bancos de datos y herramientas analíticas auxiliares para el manejo del sistema nacional de caminos y puentes de cuota;
-
-IX. Dar seguimiento a los estudios, análisis y determinación de precios unitarios, costos, horarios y rendimientos de la maquinaria y equipos utilizados para la ejecución de obras de conservación y ampliación del sistema nacional de caminos de cuota;
-
-X. Llevar el control, supervisión y seguimiento de la aplicación de las tarifas aprobadas para los caminos y puentes federales de cuota, en coordinación con las unidades administrativas competentes, y
-
-XI. Coordinar conjuntamente con los Centros SCT y las Direcciones Generales de Servicios Técnicos y de Evaluación, la intervención de las unidades generales de servicios técnicos de los Centros SCT en el apoyo para el seguimiento y supervisión de los programas de conservación en los caminos y puentes de cuota, de acuerdo a los manuales establecidos.
+ARTICULO 32 BIS. (DEROGADO, D.O.F. 21 DE NOVIEMBRE DE 2005)
 
 ### CAPITULO VII
 
@@ -1313,11 +1551,15 @@ XIV. Establecer controles de operación, para realizar el pago de remuneraciones
 
 XV. Participar en la elaboración de las Condiciones Generales de Trabajo.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 36.
 
-Corresponden a los Centros SCT las siguientes funciones:
+Al frente de cada uno de los Centros SCT habrá un Director General, quien, además de las atribuciones contenidas en el artículo 10 de este Reglamento, tendrá las siguientes:
 
-I. Ejercer en la entidad federativa de su adscripción, la representación de la Secretaría respecto de las atribuciones que conforme a la Ley Orgánica de la Administración Pública Federal le han sido conferidas a la misma; excepto las que son de la competencia exclusiva del Secretario;
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+I. Ejercer la representación de la Secretaría en la entidad federativa de su adscripción, inclusive en los procedimientos judiciales y contencioso (sic) administrativos en que ésta sea parte, excepto con relación a las atribuciones que sean competencia exclusiva del Secretario;
 
 II. Ejecutar los programas de descentralización, desconcentración, modernización y simplificación administrativa que establezcan las unidades centrales;
 
@@ -1350,6 +1592,10 @@ XIV. Informar a la Coordinación General de Planeación y Centros SCT, del cumpl
 > <small>(ADICIONADA, D.O.F. 29 DE OCTUBRE DE 1996)</small>
 
 XV. Recaudar, controlar y enterar a la unidad administrativa correspondiente el cobro de los derechos, productos y aprovechamientos de los servicios que proporcionen.
+
+> <small>(ADICIONADO, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+El Director General de cada Centro SCT, para el ejercicio de sus atribuciones, estará auxiliado por los Directores, Subdirectores y demás personal autorizado en el presupuesto y que las necesidades del servicio requiera.
 
 ###### ARTICULO 37.
 
@@ -1419,25 +1665,91 @@ XXIX. Expedir su reglamento interno, y
 
 XXX. Las demás que le confieran a la Secretaría las leyes, reglamentos, decretos y aquellas disposiciones que se refieran al ámbito de competencia de la Comisión, conforme a lo que establece este Reglamento.
 
-El Presidente, los Comisionados y demás servidores públicos de la Comisión ejercerán las funciones de resolución, regulación y supervisión, conforme a lo previsto en su reglamento interno.
+> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+El Pleno es la suprema autoridad de decisión en el ámbito de competencia de la Comisión y se integra por cuatro Comisionados, incluyendo al Presidente.
+
+> <small>(ADICIONADO, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+Al Pleno y al Presidente corresponden las facultades que les confieren el Decreto de creación de la Comisión y el presente Reglamento, las cuales se ejercerán directamente o a través de los servidores públicos y unidades administrativas de la propia Comisión, conforme a su Reglamento Interno y, en su caso, los acuerdos delegatorios que al efecto expidan, sin perder por ello el ejercicio directo de las facultades delegadas.
+
+> <small>(ADICIONADO, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+El Reglamento Interno y los acuerdos delegatorios a que se refiere el párrafo anterior se publicarán en el Diario Oficial de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+Para el despacho de los asuntos que le competen, la Comisión contará con los siguientes servidores públicos y unidades administrativas:
+
+- Unidad de Prospectiva y Regulación;
+
+- Unidad de Servicios a la Industria;
+
+- Unidad de Supervisión y Verificación;
+
+- Dirección General de Prospectiva Regulatoria;
+
+- Dirección General de Regulación “A”;
+
+- Dirección General de Regulación “B”;
+
+- Dirección General de Regulación “C”;
+
+- Dirección General de Redes, Espectro y Servicios “A”;
+
+- Dirección General de Redes, Espectro y Servicios “B”;
+
+- Dirección General de Supervisión;
+
+- Dirección General de Verificación “A”;
+
+- Dirección General de Verificación “B”;
+
+- Dirección General de Defensa Jurídica;
+
+- Coordinación General de Comunicación Social;
+
+- Coordinación General de Consultoría Jurídica;
+
+- Coordinación General de Organización y Tecnologías de la Información;
+
+- Coordinación General de Administración;
+
+- Dirección General Adjunta de Registro de Telecomunicaciones;
+
+- Dirección General Adjunta de Red Nacional de Radiomonitoreo;
+
+- Dirección General Adjunta de Administración;
+
+- Dirección General Adjunta de Tecnologías de la Información y Comunicaciones;
+
+- Dirección General Adjunta de Organización y Desarrollo de Procesos;
+
+- Secretaría Técnica del Pleno, y
+
+- Órgano Interno de Control.
+
+> <small>(ADICIONADO, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
+
+Asimismo, la Comisión contará con los demás directores generales, directores generales adjuntos, directores y subdirectores de área, jefes de departamento, supervisores, inspectores y demás personal operativo, técnico y de enlace que señale su Reglamento Interno, el Manual de Organización respectivo y las disposiciones aplicables y que figuren en el presupuesto autorizado.
 
 ### CAPITULO VIII. De la suplencia de los servidores públicos de la Secretaría
 
-> <small>(REFORMADO, D.O.F. 29 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 38.
 
-El Secretario será suplido en sus ausencias por los Subsecretarios de Infraestructura, de Transporte y de Comunicaciones o por el Oficial Mayor, en el orden indicado. En los juicios de amparo en que deba intervenir en representación del Presidente de la República o como titular de la Secretaría, así como en las controversias constitucionales o acciones de inconstitucionalidad, será suplido, indistintamente, por el Director General de Asuntos Jurídicos o por los servidores públicos antes señalados.
+El Secretario será suplido en sus ausencias por los Subsecretarios de Infraestructura, de Transporte, de Comunicaciones, por el Oficial Mayor o por el Titular de la Unidad de Asuntos Jurídicos, en el orden indicado.
 
-Las ausencias de los Subsecretarios, del Oficial Mayor y de los Coordinadores Generales, serán suplidas por los Directores Generales que de ellos dependan, en los asuntos de sus respectivas competencias, y tratándose de juicios de amparo, así como en las controversias constitucionales o acciones de inconstitucionalidad, serán suplidos, indistintamente, por el Director General de Asuntos Jurídicos o por los Directores Generales precitados.
+Las ausencias de los Subsecretarios, del Oficial Mayor y de los Coordinadores Generales, serán suplidas por los Directores Generales que de ellos dependan en los asuntos de sus respectivas competencias, o por el Titular de la Unidad de Asuntos Jurídicos.
+
+> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 39.
 
-Las ausencias de los titulares de las Direcciones Generales, órganos administrativos desconcentrados y de los Centros SCT, serán suplidas por los servidores públicos del nivel jerárquico inmediato inferior que de ellos dependan, en los asuntos de su respectiva competencia.
+Las ausencias de los titulares de las Coordinaciones, Unidades, Direcciones Generales, órganos administrativos desconcentrados y de los Centros SCT, serán suplidas por los servidores públicos del nivel jerárquico inmediato inferior que de ellos dependan, en los asuntos de sus respectivas competencias.
 
-(ADICIONADO, D.O.F. 29 DE OCTUBRE DE 1996) (F. DE E., D.O.F. 15 DE NOVIEMBRE DE 1996)
-
-Las ausencias del Director General de Asuntos Jurídicos en procedimientos judiciales y contenciosos administrativos serán suplidas por el Director de Procesos Contenciosos.
+Las ausencias del Titular de la Unidad de Asuntos Jurídicos en procedimientos judiciales y contenciosos administrativos serán suplidas por el Director General Adjunto de Procesos Contenciosos.
 
 ## TRANSITORIOS
 
@@ -1510,3 +1822,17 @@ QUINTO.- Se derogan todas las disposiciones previstas en reglamentos, acuerdos y
 D.O.F. 7 DE DICIEMBRE DE 2001.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE NOVIEMBRE DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo previsto en el artículo siguiente.
+
+SEGUNDO.- La reforma al párrafo segundo, así como la adición de los párrafos tercero, cuarto, quinto y sexto del artículo 37 Bis del Reglamento Interior de la Secretaría de Comunicaciones y Transportes, entrarán en vigor a los treinta días hábiles siguientes a aquél en que se publique este Decreto en el Diario Oficial de la Federación. Dentro del plazo antes citado la Comisión Federal de Telecomunicaciones deberá expedir y publicar su Reglamento Interno.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+CUARTO.- Los asuntos que se encuentren pendientes a la entrada en vigor de este Decreto y que conforme al mismo deban pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquélla o aquéllas a las que se les haya atribuido la competencia en el presente instrumento.
+
+QUINTO.- Cuando la competencia de alguna de las áreas o unidades administrativas establecidas con anterioridad a la vigencia de este Decreto deba ser ejercida por otra u otras unidades que el mismo establece, los recursos, humanos, materiales y financieros con que aquélla contaba, pasarán a la unidad o unidades administrativas competentes, distribuyéndose, en su caso, de conformidad con el ámbito de atribuciones que a cada una corresponda.
+
+SEXTO.- En tanto se emiten las modificaciones a los manuales que correspondan, el Secretario resolverá lo conducente en aquellas cuestiones no previstas en este Decreto y que deban regularse por dichos manuales.
