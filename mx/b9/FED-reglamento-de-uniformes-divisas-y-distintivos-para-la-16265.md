@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-uniformes-divisas-y-distintivos-para-la-16265"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-05-31"
-last_updated: "2000-05-31"
+last_updated: "2005-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16265&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2000-05-23"
 
 REGLAMENTO DE UNIFORMES, DIVISAS Y DISTINTIVOS PARA LA ARMADA DE MEXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE UNIFORMES, CONDECORACIONES, DIVISAS Y DISTINTIVOS DE LA ARMADA DE MEXICO, PUBLICADO EN EL D.O.F. DE 21 DE NOVIEMBRE DE 2005, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 31 de mayo de 2000.
 
@@ -1596,3 +1598,11 @@ Primero.- El presente Reglamento entrará en vigor el día siguiente de su publi
 Segundo.- El presente Reglamento abroga el Reglamento de Uniformes, Divisas y Distintivos para la Armada de México publicado en el Diario Oficial de la Federación el 25 de noviembre de 1994.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de mayo de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Marina, José Ramón Lorenzo Franco.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 21 DE NOVIEMBRE DE 2005.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento de Uniformes Divisas y Distintivos de la Armada de México publicado en el Diario Oficial de la Federación el 31 de mayo de 2000, y se abrogan todas las disposiciones que se opongan al presente Reglamento.
