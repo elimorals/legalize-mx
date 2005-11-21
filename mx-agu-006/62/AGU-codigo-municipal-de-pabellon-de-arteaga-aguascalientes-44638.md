@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-pabellon-de-arteaga-aguascalientes-44638"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-04-18"
-last_updated: "2005-10-17"
+last_updated: "2005-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE PABELLON DE ARTEAGA, AGS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2005.
 
 Código publicado en el Periódico Oficial del estado de Aguascalientes, el 18 de abril de 2005.
 
@@ -2371,6 +2371,8 @@ XXXVI.- Realizar el mantenimiento preventivo y correctivo en los cementerios y, 
 
 #### SECCION PRIMERA. De las faltas Contra la Seguridad Pública
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 219.
 
 Corresponde a la Dirección de Planeación, Obras y Servicios Públicos Municipales en materia de Obras Públicas:
@@ -2389,9 +2391,13 @@ VI.- Expedir las convocatorias y bases a que deben ajustarse los concursos de ob
 
 VII.- Lo demás que señalen la Ley, el presente Código o le encomiende el H: Ayuntamiento por conducto del Presidente Municipal.
 
-#### SECCION SEGUNDA. De las Faltas contra el Civismo
+#### SECCION SEGUNDA. De las Faltas contra la Tranquilidad Ciudadana
 
-#### SECCION TERCERA. De las Faltas Contra la Propiedad Pública
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2005)</small>
+
+#### SECCION TERCERA. De las Faltas Contra la Salubridad General
+
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 220.
 
@@ -2439,7 +2445,9 @@ XX.- Promover y difundir las actividades artesanales, maquilas de mano de obra, 
 
 XXI.- Lo demás que señalen las leyes, el presente Código o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
-#### SECCION CUARTA. De las Faltas Contra la Salubridad
+#### SECCION CUARTA. De las Faltas Contra la Moral y el Civismo
+
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 221.
 
@@ -2493,7 +2501,7 @@ XX.- Turnar a las diferentes unidades administrativas las denuncias de los parti
 
 XXI.- Lo demás que señale la Ley o el H. Ayuntamiento por conducto del Presidente Municipal.
 
-#### SECCION QUINTA. De las Faltas Contra el Bienestar Colectivo
+#### SECCION QUINTA
 
 ###### ARTICULO 222.
 
@@ -3191,7 +3199,7 @@ II.- Clave de adscripción;
 
 III.- Descripción del bien;
 
-IV.- Nombre del resguardante:
+IV.- Nombre del resguardante;
 
 V.- Nombre de Director del área correspondiente;
 
@@ -3513,9 +3521,9 @@ a).- Planoteca: Contiene planos y mapas, su consulta requiere de autorización p
 
 b).- Biblioteca: Se compone de obras dedicadas principalmente a historia regional; su consulta está a disposición del público en general y ésta solo se hará dentro del edificio;
 
-c).- Hemeroteca: Se compone de diarios, periódicos oficiales y de prensa comercial;su consulta está a disposición del público en general y está se hará solo dentro del edificio. La instrumentación para su consulta deberá ser sistemáticamente actualizada. Asimismo, deberá contar con una recopilación actualizada de leyes, decretos, reglamentos y bandos, que tengan relación con el Estado y el Municipio de Pabellón de Arteaga;
+c).- Hemeroteca: Se compone de diarios, periódicos oficiales y de prensa comercial; su consulta está a disposición del público en general y está se hará solo dentro del edificio. La instrumentación para su consulta deberá ser sistemáticamente actualizada. Asimismo, deberá contar con una recopilación actualizada de leyes, decretos, reglamentos y bandos, que tengan relación con el Estado y el Municipio de Pabellón de Arteaga;
 
-d).- Fototeca: Esta formada por fotografías de administraciones pasadas;su consulta es abierta al público; y
+d).- Fototeca: Esta formada por fotografías de administraciones pasadas; su consulta es abierta al público; y
 
 e).- Fondo Histórico: Esta integrado por la documentación que concluyó su vida para la administración municipal, su consulta queda abierta al público en general, no permitiendo la salida de ningún documento, salvo en casos especiales como exposiciones o intercambios culturales. Este fondo se enriquece con compras, donaciones y microfilms.
 
@@ -4271,7 +4279,7 @@ IV.- Los organismos públicos descentralizados de la administración pública fe
 
 ###### ARTICULO 476.
 
-Cualquier persona ubicada en la hipótesis del artículo anterior, podrá celebrar convenio con el H. Ayuntamiento para que éste se encargue de la prestación de los servicios de recolección, manejo y disposición final de residuos sólidos, previo pago de derechos que determine la Ley de Ingresos Municipal.
+Cualquier persona ubicada en la hipótesis del Artículo anterior, podrá celebrar convenio con el H. Ayuntamiento para que éste se encargue de la prestación de los servicios de recolección, manejo y disposición final de residuos sólidos, previo pago de derechos que determine la Ley de Ingresos Municipal.
 
 ###### ARTICULO 477.
 
@@ -7281,7 +7289,7 @@ I.- Coordinar los trabajos operativos que apoyen la realización, instrumentaci�
 
 II.- Organizar los eventos que apoyen la formulación de los programas elaborados por el Consejo Municipal de Protección Civil; y (sic)
 
-III.- Informar a los miembros del Consejo respecto del avance de los programas que integra el Sistema Municipal de Protección Civil.;
+III.- Informar a los miembros del Consejo respecto del avance de los programas que integra el Sistema Municipal de Protección Civil;
 
 IV.- Promover la Protección Civil en sus aspectos normativo, operativo, de coordinación y participación buscando la extensión de sus efectos a toda la población del Municipio;
 
@@ -7331,7 +7339,7 @@ II.- Emitir o lanzar voces de alarma en lugares públicos que por su naturaleza 
 
 III.- Llamar a los cuerpos o corporaciones prestadoras de servicios de emergencia de forma irresponsable que movilice a estas y se confirme en falsa alarma;
 
-IV.- Obstruir o invadir zonas de acceso y evacuación, tales como pasillos o escaleras de instalaciones o centros de espectáculos públicos,
+IV.- Obstruir o invadir zonas de acceso y evacuación, tales como pasillos o escaleras de instalaciones o centros de espectáculos públicos;
 
 V.- Hacer uso del fuego o materiales inflamables de cualquiera que no sean para procesar alimentos en vías y lugares públicos, de igual forma en los predios o edificaciones de los particulares, que estén previstas en las Normas Oficiales Mexicanas correspondientes; y
 
@@ -7383,7 +7391,7 @@ IV.- Las acciones que la Unidad Municipal de Protección Civil deberá ejecutar 
 
 V.- Los criterios para promover la participación social y la capacitación y aplicación de los recursos que aporten los sectores público, privado y social;
 
-VI.- El inventario de recursos disponible,
+VI.- El inventario de recursos disponible;
 
 VII.- Las previsiones para organizar albergues y viviendas emergentes;
 
@@ -8393,7 +8401,7 @@ La propia Dirección de Planeación, Obras y Servicios Públicos, tendrá facult
 
 I.- Para la construcción de obras con superficie hasta de trescientos metros cuadrados, la vigencia máxima será de doce meses; de trescientos un metros cuadrados hasta mil metros cuadrados de veinticuatro meses, y de más de mil un metros cuadrados de treinta y seis meses;
 
-II.- Si terminado el plazo autorizado para la construcción de una obra, ésta no se hubiese concluido, para continuarla, deberá obtenerse refrendo de la licencia y cubrir los derechos por la parte no ejecutada de la obra;a la solicitud se acompañará una descripción de los trabajos que se vayan a llevar a cabo y croquis o planos, cuando sea necesario; y
+II.- Si terminado el plazo autorizado para la construcción de una obra, ésta no se hubiese concluido, para continuarla, deberá obtenerse refrendo de la licencia y cubrir los derechos por la parte no ejecutada de la obra; a la solicitud se acompañará una descripción de los trabajos que se vayan a llevar a cabo y croquis o planos, cuando sea necesario; y
 
 III.- Se tendrá opción a solicitar a la Dirección de Planeación, Obras y Servicios Públicos Municipales, dentro del plazo de vigencia de la Licencia, a una suspensión temporal no mayor a seis meses, reactivándose el lapso disponible al término de ésta.
 
@@ -8547,7 +8555,7 @@ c) Alzados o fachadas de la finca indicando la altura de ésta con respecto al n
 
 d) Croquis de localización del predio indicando las medidas de éste, distancia hacia la esquina más próxima, las calles que circundan la manzana, y el norte magnético;
 
-e) Cuadro de datos indicando: tipo de obra, ubicación, propietario, contenido, nombre, número y firma en original del Perito Responsable de la Obra, escalas y acotaciones;
+e) Cuadro de datos indicando: tipo de obra, ubicación, propietario, contenido, nombre, número y firma en original del Perito ´Responsable de la Obra, escalas y acotaciones;
 
 f).- Dictamen de impacto ambiental y constancia de Alineamiento y Compatibilidad Urbanística;
 
@@ -9181,7 +9189,7 @@ IV.- En caso de que el nivel de salida de aguas negras o de lluvia de una constr
 
 V.- De no existir servicio público de drenaje sanitario, las aguas negras deberán conducirse a una fosa séptica de la capacidad adecuada;
 
-VI.- Las tuberías de ramaleo interior, de la instalación sanitaria de las edificaciones, deberán tener como mínimo un diámetro de cincuenta y un milímetros si conducen exclusivamente aguas jabonosas y de setenta y seis milímetros como mínimo si conducen aguas pluviales y/o aguas negras.
+VI.- Las tuberías de ramaleo interior, de la instalación sanitaria de las edificaciones, deberán tener como mínimo un diámetro de cincuenta y un milímetros si conducen exclusivamente aguas jabonosas y de setenta y seis milímetros como mínimo si conducen aguas pluviales y/o aguas negras;
 
 VII.- Cuando por el tipo de desechos se requiera la construcción de registros con arenero o cajas desgrasadoras, éstos se ejecutarán de acuerdo a las especificaciones que dicte la Dirección de Planeación, Obras y Servicios Públicos Municipales.
 
@@ -12525,7 +12533,7 @@ V.- Los matadores indicarán el orden en que quieran que se corran sus reses, pe
 
 VI.- Las reservas serán sorteadas igualmente a fin de que la suerte decida el orden de su salida a la plaza, el primer espada será el encargado de sacar el papel correspondiente, si la res es de la misma ganadería que se vaya a lidiar, ésta irá en primer lugar;
 
-VII.- En los casos en que se lidien reses de diversas procedencias, abrirá y cerrará plaza la perteneciente a la ganadería más antigua; y si solamente se lidia una perteneciente a la ganadería más antigua que el resto de la corrida, esa res abrirá plaza y el espada a quien corresponda, tendrá derecho a escoger el toro que complete su lote.
+VII.- En los casos en que se lidien reses de diversas procedencias, abrirá y cerrará plaza la perteneciente a la ganadería más antigua; y si solamente se lidia una perteneciente a la ganadería más antigua que el resto de la corrida, esa res abrirá plaza y el espada a quien corresponda, tendrá derecho a escoger el toro que complete su lote;
 
 VIII.- Cuando se lidien dos reses de ganadería más antigua que las restantes, el primero y el último espada sortearán entre ellos estas reses, e individualmente las de ganadería de menor antigüedad; en caso de lidia de seis u ocho reses de ganaderías diversas, se jugarán por orden de antigüedad. En los casos de excepción y no previstos, la autoridad respectiva resolverá lo conducente; y
 
@@ -12796,6 +12804,8 @@ El personal de cuadrilla no podrá abandonar la plaza, sino hasta que haya sido 
 La cuadrilla del matador en turno podrá permanecer en el callejón. Las demás deberán estar en los burladeros del callejón.
 
 ### CAPITULO SEGUNDO. De las Faltas Cívicas
+
+(REPUBLICADO, P.O. 21 DE NOVIEMBRE DE 2005)
 
 ###### ARTICULO 1556.
 
@@ -13489,139 +13499,153 @@ En caso de clausura provisional como medida de seguridad, ésta podrá prolongar
 
 Constituye una falta cívica la acción u omisión, individual o de grupo, realizada en un lugar público o cuyos efectos se manifiesten en él, que altere o ponga en peligro el orden público o la integridad de las personas, seguridad, salubridad y tranquilidad, y sus propiedades en los términos de este capítulo.
 
+(REPUBLICADO, P.O. 21 DE NOVIEMBRE DE 2005)
+
 ###### ARTICULO 1668.
 
 Son “Lugares Públicos”, todo espacio de uso común y de libre tránsito, incluyendo las plazas, los mercados y los jardines; los inmuebles de acceso general tales como establecimientos comerciales, centros de espectáculos, diversión o recreo, así como los transportes de servicio público.
 
 ###### ARTICULO 1669.
 
-Son faltas cívicas contra la seguridad pública las siguientes:
+Son faltas contra la Seguridad Pública las siguientes:
 
-I.- Causar falsa alarma, lanzar voces o tomar actitudes en los espectáculos y lugares públicos, que por su naturaleza puedan infundir pánico en los presentes;
+I.- Emitir gritos, realizar actos o adoptar actitudes que constituyan falsa alarma de siniestros, en centros de espectáculos y lugares públicos que produzcan temor o pánico en las personas;
 
-II.- Detonar cohetes, hacer fogatas o utilizar negligentemente combustibles o materiales inflamables en lugares públicos;
+II.- Detonar cohetes, encender juegos pirotécnicos, hacer fogatas o usar explosivos sin permiso de la autoridad correspondiente;
 
-III.- Formar parte de grupos que causen molestias a las personas en lugares públicos o en la proximidad de los domicilios de éstas;
+III.- Integrar o participar en grupos que causen molestia a las personas en vía y lugares públicos;
 
-IV.- Encender piezas pirotécnicas o elevar globos de fuego, sin permiso de las autoridades del Municipio;
+IV.- Integrar o invadir sin autorización lugares o zonas, que estén cerradas o con el acceso restringido;
 
-V.- Fumar dentro de salones de espectáculos o en cualquier lugar en donde expresamente se establezca la prohibición de hacerlo;
+V.- Organizar o participar en juegos o actividades de cualquier índole que ponga en riesgo la integridad física de él o de más personas, casen molestia a los habitantes del lugar, obstruyan la vía pública o afecten el libre tránsito de personas o de vehículos, sin la autorización correspondiente;
 
-VI.- Penetrar o invadir, sin autorización, zonas o lugares de acceso prohibido en los centros de espectáculos, diversiones o recreo;
+VI.- Solicitar con falsa alarma los servicios de la policía, bomberos o de establecimientos médicos o asistenciales de emergencia, públicos o privados; así como obstruir o activar en falso las líneas telefónicas destinadas a aquellos servicios;
 
-VII.- Organizar o tomar parte en juegos de cualquier índole, en lugar público, que pongan en peligro a las personas que en el transiten o que causen molestias a las familias que habitan en o cerca del lugar en que se desarrollen los juegos, a los peatones o a las personas que manejen cualquier clase de vehículos; y
+VII.- Hacer gesticulaciones o proferir insultos a cualquier servidor público o autoridad en el ejercicio de sus funciones;
 
-VIII.- Solicitar los servicios de la policía, de los bomberos o de establecimientos médicos o asistencias e emergencia, invocando hechos falsos.
+VIII.- Exhibir, exportar o utilizar en oficinas y sitios públicos, armas u objetos deportivos, de labor o labranza y que éstos impliquen un riesgo o para agredir a las personas;
+
+IX.- Disparar, exhibir o portar, armas de fuego o artefactos similares en cualquier lugar público, provocando escándalo o temor en las personas;
+
+X.- Revender u ofrecer a precio superior al marcado o al de taquilla, boletos para espectáculos públicos, dentro o fuera de los lugares autorizados;
+
+XI.- Impedir directa o indirectamente la acción de los agentes de seguridad pública o de cualquier autoridad en el cumplimiento de su deber;
+
+XII.- Almacenar, transportar o utilizar sustancias peligrosas en la vía pública sin las debidas precauciones de seguridad y que pongan en riesgo la integridad física de las personas, (gasolina, diesel, solventes, pegamentos, gas licuado);
+
+XIII.- Dañar, ensuciar, pintar o hacer uso indebido de los bienes muebles e inmuebles, públicos o privados sin perjuicio de lo previsto en otros ordenamientos legales;
+
+XIV.- Destruir, obstruir o hacer uso distinto para el cual fueron fijados los objetos de uso común como son casetas telefónicas, buzones, contenedores, u otros, sin perjuicio de lo previsto en otros ordenamientos legales;
+
+XV.- Cubrir, borrar, alterar o desprender señales o letreros que indiquen rutas o lugares públicos, así como números, letras y signos convencionales que identifiquen inmuebles públicos y privados;
+
+XVI.- Participar, promover o permitir cualquier tipo de juegos de azar con apuestas sin el permiso de la autoridad correspondiente;
+
+XVII.- Ingerir bebidas alcohólicas en lugares públicos que no cuenten con permiso de la autoridad correspondiente;
+
+XVIII. Consumir estupefacientes, psicotrópicos o inhalar sustancias tóxicas en vía y lugares públicos sin perjuicio de lo previsto en otros ordenamientos legales;
+
+XIX. Transitar con animales, dejarlos en libertad sin tomar las debidas precauciones y medidas de seguridad; invadir la carretera con ganado, y sin perjuicio de la aplicación de la ley de la materia, cuando estos ataquen o provoquen accidentes en las personas o en sus propiedades;
+
+XX. Provocar cualquier animal para que ataque a una persona;
+
+XXI. Deambular o conducir vehículos en notorio estado de intoxicación producido por sustancias estimulantes o depresoras del sistema nervioso central, alterando la tranquilidad de las personas o realizando actos que pongan en riesgo su integridad física o la de las demás personas; y
+
+XXII. Obstruir calles, calles, avenidas, calzadas, puentes u otros lugares públicos sin permiso de la autoridad correspondiente.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 1670.
 
-Son faltas cívicas contra el civismo las siguientes:
+Son faltas contra la Tranquilidad Ciudadana las siguientes:
 
-I.- Ocasionar disturbios en lugares cerrados o abiertos en donde se esté celebrando un acto oficial con Honores a la Bandera;
+I. Causar escándalo en lugar público;
 
-II.- Emitir gritos o cualquier otra acción que interrumpa un acto ya sea público o privado donde se estén rindiendo Honores a la Bandera;
+II. Producir ruido con aparatos de sonido que por su volumen provoque malestar en las personas;
 
-III.- Hacer burla, signos de desprecio o cualquier otro que implique falta de respeto hacia los Símbolos Patrios;
+III. Alterar la tranquilidad de las personas con gritos, música o ruidos, aún cuando éstos los provoquen animales domésticos de propiedad de quien debiendo impedirlo, no lo haga;
 
-IV.- No guardar el debido silencio o no hacer el saludo a la Bandera en actos públicos o privados en donde se celebre un acto de esta naturaleza.
+IV. Arrojar líquidos, polvos o cualquier sustancia a una persona que puedan mojarla, mancharla o causarle malestar;
+
+V. Ofender a las personas que asistan a un espectáculo por parte de los organizadores, empleados, artistas o deportistas;
+
+VI. Alterar el orden arrojando objetos o provocando altercados en espectáculos o en la entrada de ellos;
+
+VII. Impedir por cualquier medio la libertad de acción de las personas o el uso o disfrute de un bien mueble o inmueble al cual se tiene derecho;
+
+VIII. Participar en riña de obra o palabra, sin perjuicio de otros ordenamientos legales;
+
+IX. Obstruir lugares destinados para estacionamiento público con objetos, así como exigir gratificaciones por protección de vehículos en estos sitios; y
+
+X. Molestar a las personas mediante el mal uso del teléfono.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 1671.
 
-Son faltas cívicas contra la propiedad pública y (sic) las siguientes:
+Son faltas contra la Salubridad General las siguientes:
 
-I.- Deteriorar bienes destinados al uso común, o hacer uso indebido de los servicios públicos;
+I. Contaminar, desviar, retener o (sic) obstruir, las corrientes de agua de los manantiales, tanques, tinacos almacenadotes, fuentes públicas, acueductos, tuberías o hidrantes públicos;
 
-II.- Hacer uso indebido de las casetas telefónicas o maltratar los buzones, expendios de timbres, señales indicadoras u otros aparatos de uso común colocados en la Vía Pública;
+II. Cortar, talar o maltratar los árboles, plantas, césped y cualquier tipo de material de ornato que se encuentra en jardineras, camellones, plazas, jardines y lugares de uso común;
 
-III.- Utilizar indebidamente los hidrantes públicos, así como abrir las llaves de ellos sin necesidad;
+III. Arrojar o abandonar en lugares públicos o privados animales muertos, escombros, sustancias fétidas o cualquier objeto que pueda ocasionar daños al ecosistema y a la salud pública;
 
-IV.- Utilizar, remover o transportar césped, flores, tierra u otros materiales de las calles, plazas, mercados y demás lugares de uso común, sin autorización para ello;
+IV. Arrojar a las alcantarillas, arroyos, bordos, vasos de almacenamiento y drenajes, sustancias corrosivas, radiactivas, explosivas, tóxicas, flamables y biológicas, así como, basura, escombros o cualquier otro objeto que pueda contaminar, obstruir o dañar el funcionamiento de las mismas;
 
-V.- Maltratar o ensuciar las fachadas de los edificios o lugares públicos;
+V. Orinar o defecar en la vía pública o en cualquier lugar que no esté destinado para ello;
 
-VI.- Maltratar o hacer uso indebido de las estatuas, monumentos, postes, arbotantes, cobertizos, edificios, o cualquier otro bien de uso público, o causar deterioros en las calles, parques, paseos o lugares públicos;
+VI. Bañarse o asearse en ríos, presas, bordos, arroyos, acequias, fuentes u otros lugares similares, no permitidos por la autoridad;
 
-VII.- Cortar las ramas de los árboles de las calles y avenidas, sin autorización para ello, o maltratarlos de cualquier manera; y
+VII. Incinerar materiales de cualquier tipo, en vía y lugares públicos que puedan alterar la salud o dañar el ecosistema y sin la autorización por escrito correspondiente; y
 
-VIII.- Borrar, cubrir o alterar los números o letras con que están marcadas las casas o los letreros que designen las calles o plazas, u ocupar los lugares destinados para ello con propaganda de cualquier clase.
+VIII. Fumar en lugar público en donde expresamente se establezca la prohibición de hacerlo.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 1672.
 
-Son faltas cívicas contra la salubridad y el ornato público las siguientes:
+Son faltas contra la Moral y el Civismo las siguientes:
 
-I.- Ensuciar, desviar o retener las corrientes de agua de los manantiales, tanques o tinacos almacenadores, fuentes públicas, acueductos y tuberías de los servicios del Municipio;
+I. No comportarse con respeto y la consideración debida en ceremonias y festividades cívicas, en especial cuando se encuentre ante los símbolos patrios;
 
-II.- Arrojar en lugar público animales muertos, escombros o sustancias fétidas;
+II. Alterar o dar uso indebido a los símbolos patrios sin perjuicio de otros ordenamientos legales;
 
-III.- Arrojar a los drenajes basura, escombros o cualquier otro objeto que pueda obstruir su funcionamiento;
+III. Faltarle al respeto o abusar de cualquier manera a infantes, adultos en plenitud o personas con capacidades especiales en lugares públicos;
 
-IV.- Arrojar o abandonar en lugar público fuera de los depósitos especiales colocados en él basuras, deshechos o cualquier otro objeto similar;
+IV. Corregir con escándalo o violencia a los ascendientes, descendientes, cónyuge o pareja en lugares públicos;
 
-V.- Orinar o defecar en cualquier lugar público distinto del autorizado para ese efecto; y
+V. Dirigirse a una persona con frases o gesticulaciones groseras que afecten su pudor, asediarlo, o impedirle su libertad de acción en cualquier forma;
 
-VI.- Sacudir ropa, alfombras y otros objetos hacia la vía pública, o tirar deshechos o desperdicios, sobre la misma o en cualquier predio o lugar no autorizado.
+VI. Permitir o ejercer la prostitución en lugares públicos no permitidos y sin la autorización correspondiente;
+
+VII. Realizar en lugares públicos actos y conductas obscenas en contra de la moral y las buenas costumbres;
+
+VIII. Permitir o promover a los menores de edad el acceso a lugares en los que les esté expresamente prohibido por la Ley o las disposiciones reglamentarias aplicables;
+
+IX. Difundir, poner a la vista o vender cualquier tipo de material con sexo explícito o imágenes que vayan en contra de la moral y las buenas costumbres;
+
+X. Permitir, inducir u obligar a menores de edad para que cometan faltas al presente reglamento; y
+
+XI. Expender o proporcionar a menores de edad bebidas alcohólicas, tabaco, tóxicos o solventes en cualquier modalidad sin perjuicio de lo dispuesto en otras disposiciones jurídicas.
+
+> <small>(DEROGADA CON EL ARTICULO QUE LA INTEGRA, P.O. 21 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 1673.
 
-Son faltas cívicas contra el bienestar colectivo las siguientes:
+(DEROGADO, P.O. 21 DE NOVIEMBRE DE 2005)
 
-I.- Causar escándalo en lugar público;
-
-II.- Conducir en lugar público animales peligrosos sin permiso de la autoridad y sin tomar las máximas medidas de seguridad; o dejar el poseedor o el propietario del animal que éste transite libremente en lugar público sin tomar las medidas de seguridad necesarias para evitar daños a terceros;
-
-III.- Hacer manifestaciones ruidosas en forma tal que produzcan tumulto o grave alteración del orden de un espectáculo o acto público;
-
-IV.- Exigir gratificaciones por protección de automóviles estacionados en lugar público;
-
-V.- Alterar el orden, arrojar cojines, líquidos o cualquier objeto, prender fuego o provocar altercados en los espectáculos o en la entrada de ellos;
-
-VI.- Producir ruido que por su volumen provoque malestar público con aparatos de sonido;
-
-VII.- Ensayar las bandas de guerra o conjuntos musicales en lugares públicos, careciendo del permiso correspondiente, o en lugares privados cuando el ruido generado ocasione molestias a los vecinos;
-
-VIII.- Proferir palabras obscenas en lugar público; y
-
-IX.- Causar daños a vecinos, transeúntes o vehículos, por omitir las medidas necesarias de aseguramiento de tiestos, plantas u otros objetos.
+> <small>(DEROGADA CON EL ARTICULO QUE LA INTEGRA, P.O. 21 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 1674.
 
-Son faltas cívicas contra la integridad de las personas en su seguridad, tranquilidad y propiedades particulares las siguientes:
+(DEROGADO, P.O. 21 DE NOVIEMBRE DE 2005)
 
-I.- Provocar a un perro o a cualquier otro animal para que ataque a una persona;
-
-II.- Causar molestias por cualquier medio, que impida el legítimo uso o disfrute de un inmueble;
-
-III.- Dejar el encargado de la guarda o custodia de un enfermo mental que éste ambule libremente en lugar público;
-
-IV.- Arrojar contra una persona líquidos, polvos u otras sustancias, que puedan mojarla, ensuciarla, mancharla o causarle malestar;
-
-V.- Turbar la tranquilidad de las personas con gritos, música o ruidos aún cuando éstos los provoquen animales domésticos de la pertenencia o bajo el cuidado del que debiendo impedirlo, no lo haga;
-
-VI.- Hacer bromas indecorosas o mortificantes, o en cualquier otra forma molestar a una persona mediante el uso del teléfono;
-
-VII.- Dirigirse a una persona con frases o ademanes groseros que afecten su pudor; asediarlo o impedirle su libertad de acción en cualquier forma;
-
-VIII.- Maltratar o ensuciar las fachadas de los edificios o inmuebles de propiedad particular; y
-
-IX.- Maltratar o ensuciar los vehículos automotores o cualquier otro bien mueble propiedad privada.
+> <small>(DEROGADA CON EL ARTICULO QUE LO INTEGRA, P.O. 21 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 1675.
 
-Son faltas cívicas contra la integridad moral del individuo y de la familia las siguientes:
-
-I.- Usar drogas, sustancias, plantas o semillas enervantes o tomar bebidas embriagantes en la vía pública;
-
-II.- Ejercer la prostitución en lugares no permitidos y sin la autorización correspondiente;
-
-III.- Injuriar a las personas que asistan a un espectáculo o diversión con palabras, actitudes o gestos, por parte de los actores, jugadores, músicos o auxiliares del espectáculo o diversión;
-
-IV.- Faltar, en lugar público, al respeto o consideración que se debe a los ancianos, mujeres, niños o desvalidos;
-
-V.- Corregir con escándalo a los hijos o pupilos en lugar público, vejar o maltratar en la misma forma a los ascendientes, cónyuge o concubina;
-
-VI.- Asumir en lugares públicos actitudes obscenas, indignas o contra las buenas costumbres; y
-
-VII.- Asistir los menores de dieciocho años de edad a centros nocturnos, bares, pulquerías o cualquier otro lugar en que se prohíba su permanencia, esto con independencia de la sanción correspondiente a los establecimientos, de acuerdo con las disposiciones reglamentarias que las rijan.
+(DEROGADO, P.O. 21 DE NOVIEMBRE DE 2005)
 
 ###### ARTICULO 1676.
 
@@ -13735,11 +13759,13 @@ Las faltas cívicas contempladas en el capítulo segundo del título segundo del
 
 ###### ARTICULO 1701.
 
-Se sancionará con amonestación verbal o escrita por parte del juez calificador las infracciones previstas en los siguientes artículos: 1669, fracciones III y VII; 1670, fracciones II, III y IV; 1671, fracción III; 1672, fracciones IV y VI; 1673, fracciones VI, VII y VIII; 1674, fracciones III y V.
+(DEROGADO, P.O. 21 DE NOVIEMBRE DE 2005)
+
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 1702.
 
-Se sancionará con multa de cinco a diez días de salario mínimo general vigente (sic) el Estado las faltas cívicas previstas en los siguientes artículos: 1669, fracciones I, II, IV, V, VI, y VIII;1670, fracción I;1671, fracciones I, II, IV, V, VI, VII y VIII;1672, fracciones I, II, III y V;1673, fracciones I, II, III, IV y IX;1674, fracciones I, II, IV, VI, VII, VIII y IX;1675, fracciones III, IV, V VI, y VII; y por reincidencia en las faltas cívicas que ameritan sanción de amonestación.
+La comisión de faltas cívicas se sancionará con multa de cinco a diez días de salario mínimo general vigente en el Estado.
 
 ###### ARTICULO 1703.
 
@@ -14183,7 +14209,7 @@ Las sanciones administrativas que se aplican por violaciones al presente Código
 
 I.- Para la persona que ejerce la prostitución:
 
-a) Se apercibirá por escrito por faltas sobre lo dispuesto por los Artículos: 1429, fracciones I y II; 1432;y 1438, Fracciones I, VIII, X, XI y XIII; en caso de reincidencia se sancionará conforme al inciso “b” de este punto;
+a) Se apercibirá por escrito por faltas sobre lo dispuesto por los Artículos: 1429, fracciones I y II; 1432; y 1438, Fracciones I, VIII, X, XI y XIII; en caso de reincidencia se sancionará conforme al inciso “b” de este punto;
 
 b) Una vez que se haya apercibido a la infractora, se aplicará multa de diez veces el salario mínimo general diario vigente en el Municipio, por reincidencia de faltas sobre las disposiciones señaladas en el enciso anterior;
 
@@ -14518,6 +14544,16 @@ P.O. 17 DE OCTUBRE DE 2005.
 ###### ARTICULO PRIMERO.
 
 El presente acuerdo entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones reglamentarias municipales contrarias a la presente reforma.
+
+P.O. 21 DE NOVIEMBRE DE 2005.
+
+###### ARTICULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ###### ARTICULO SEGUNDO.
 
