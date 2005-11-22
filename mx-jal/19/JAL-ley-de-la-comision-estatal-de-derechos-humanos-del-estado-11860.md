@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-11860
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-20"
-last_updated: "2005-04-14"
+last_updated: "2005-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LA COMISION ESTATAL DE DERECHOS HUMANOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ABRIL DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 2005.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 20 de enero de 1998.
 
@@ -295,7 +295,9 @@ De su integración.
 
 El Consejo Ciudadano es un órgano de participación civil integrado por el Presidente y ocho consejeros ciudadanos propietarios e igual número de suplentes. Los consejeros ciudadanos, durarán cinco años en su cargo, el cual tendrá carácter honorífico.
 
-El Consejo Ciudadano de la Comisión deberá integrarse en forma diversificada de manera que se logre la mayor representatividad social.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2005)</small>
+
+El Consejo ciudadano de la Comisión deberá integrarse en forma diversificada de manera que se logre la mayor representatividad social, y se procurará que se conforme con el mismo número de varones y mujeres.
 
 (REUBICADA, P.O. 13 DE FEBRERO DE 2001)
 
@@ -678,6 +680,10 @@ De los Visitadores.
 ###### Artículo 34.
 
 Los visitadores generales así como los visitadores adjuntos "A" y "B" deberán reunir los mismos requisitos que se establecen para desempeñar el cargo de Secretario Ejecutivo, con excepción de la edad que será para los generales de 35 años, para los adjuntos "A" de 28 años, para los adjuntos "B" de veinticinco años y además les será obligatorio a éstos últimos acreditar un año de práctica profesional.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2005)</small>
+
+Para ser nombrado visitador, deberá previamente acreditar de manera suficiente, experiencia y conocimiento en los temas de derechos humanos, en los términos que establezca el reglamento interior.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 2001)</small>
 
@@ -1384,3 +1390,7 @@ P.O. 14 DE ABRIL DE 2005.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. Una vez publicado el presente decreto, notifíquese a los integrantes del Consejo Ciudadano de la Comisión Estatal de Derechos Humanos para su debido cumplimiento.
+
+P.O. 22 DE NOVIEMBRE DE 2005.
+
+ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
