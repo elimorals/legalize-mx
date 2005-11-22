@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40056"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2005-10-20"
+last_updated: "2005-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40056&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LEY ORGANICA DEL PODER LEGISLATIVO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 2005.
 
 Reglamento publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 19 de junio de 2004.
 
@@ -469,11 +469,15 @@ f) Procedimiento a seguir en caso de no realizarse la elección del consejero en
 
 a) El cargo vacante;
 
-b) Los requisitos de elegibilidad para el desempeño del cargo, conforme a las disposiciones constitucionales y legales aplicables al caso;
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2005)</small>
+
+b) Los requisitos de elegibilidad para el desempeño del cargo, conforme a las disposiciones constitucionales y legales aplicables al caso; incluyendo la obligación de acreditar experiencia y conocimientos en derechos humanos, mediante las evaluaciones que determine el Congreso del Estado;
 
 c) El lugar y la fecha en que puedan recibirse las propuestas y los documentos que acrediten que el candidato reúne los requisitos para ocupar el cargo. Los mencionados documentos no serán devueltos a los interesados;
 
-d) El mecanismo de elección;
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2005)</small>
+
+d) El mecanismo de elección; en el caso de elección de Consejeros Ciudadanos, deberá especificarse que los cargos vacantes serán designados con una perspectiva de género, y se procurará que se integre con el mismo número de varones y de mujeres;
 
 e) Fecha en que deba realizarse el nombramiento; y
 
@@ -709,85 +713,85 @@ II. A juicio del Presidente de la Comisión y con acuse expreso de aceptación d
 
 ### CAPÍTULO V. DE LOS FOROS DE CONSULTA PÚBLICA
 
-(ADICIONADO, P.O. 20 DE OCTUBRE DE 2005) (F. DE E., P.O. 27 DE DICIEMBRE DE 2005)
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2005)</small>
 
 Artículo 94 A.
 
-1. La celebración de foros por parte de las comisiones se sujetará a las disposiciones de este capítulo, así como al Plan de Trabajo Anual de cada comisión.
+La celebración de foros por parte de las comisiones se sujetará a las disposiciones de este capítulo, así como al Plan de Trabajo Anual de cada comisión.
 
-(ADICIONADO, P.O. 20 DE OCTUBRE DE 2005) (F. DE E., P.O. 27 DE DICIEMBRE DE 2005)
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2005)</small>
 
 Artículo 94 B.
 
-1. Se entiende por foro de consulta pública el mecanismo de participación ciudadana mediante el cual las personas, instituciones académicas o sociales, grupos organizados de la sociedad civil y servidores públicos o dependencias de cualquier orden de gobierno, aporten a los legisladores sus propuestas sobre la creación, adición, reforma o derogación del marco legal cuya competencia recae en el Congreso del Estado, a convocatoria de éste último.
+Se entiende por foro de consulta pública el mecanismo de participación ciudadana mediante el cual las personas, instituciones académicas o sociales, grupos organizados de la sociedad civil y servidores públicos o dependencias de cualquier orden de gobierno, aporten a los legisladores sus propuestas sobre la creación, adición, reforma o derogación del marco legal cuya competencia recae en el Congreso del Estado, a convocatoria de éste último.
 
-(ADICIONADO, P.O. 20 DE OCTUBRE DE 2005) (F. DE E., P.O. 27 DE DICIEMBRE DE 2005)
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2005)</small>
 
 Artículo 94 C.
 
-1. Los foros de consulta pública se regirán bajo los principios de institucionalidad, profesionalismo, regionalización, racionalidad de recursos y metodología del manejo de información.
+Los foros de consulta pública se regirán bajo los principios de institucionalidad, profesionalismo, regionalización, racionalidad de recursos y metodología del manejo de información.
 
-(ADICIONADO, P.O. 20 DE OCTUBRE DE 2005) (F. DE E., P.O. 27 DE DICIEMBRE DE 2005)
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2005)</small>
 
 Artículo 94 D.
 
-1. Las comisiones que pretendan llevar a cabo foros de consulta pública deberán dar aviso a la Secretaría General, del acuerdo interno donde aprueben la celebración de los mismos, preferentemente durante el mes de febrero o hasta el 30 de abril en caso de ser el primer año de ejercicio de la legislatura.
+Las comisiones que pretendan llevar a cabo foros de consulta pública deberán dar aviso a la Secretaría General, del acuerdo interno donde aprueben la celebración de los mismos, preferentemente durante el mes de febrero o hasta el 30 de abril en caso de ser el primer año de ejercicio de la legislatura.
 
-(ADICIONADO, P.O. 20 DE OCTUBRE DE 2005) (F. DE E., P.O. 27 DE DICIEMBRE DE 2005)
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2005)</small>
 
 Artículo 94 E.
 
-1. El acuerdo interno deberá señalar el tema legislativo específico que se pretende crear, adicionar, reformar o derogar; los destinatarios del foro; la mención de ser foro de consulta pública estatal, metropolitano o regional, así como la persona que representará a la comisión en todo lo relativo a la planeación y organización.
+El acuerdo interno deberá señalar el tema legislativo específico que se pretende crear, adicionar, reformar o derogar; los destinatarios del foro; la mención de ser foro de consulta pública estatal, metropolitano o regional, así como la persona que representará a la comisión en todo lo relativo a la planeación y organización.
 
-(ADICIONADO, P.O. 20 DE OCTUBRE DE 2005) (F. DE E., P.O. 27 DE DICIEMBRE DE 2005)
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2005)</small>
 
 Artículo 94 F.
 
-1. No procederá la justificación de la inasistencia de los diputados integrantes, de la comisión o Comisiones organizadoras durante la realización del foro. En caso de no existir quórum, el foro se realizará con los diputados presentes y la Secretaría General tendrá por recibidas las participaciones ciudadanas que se presenten.
+No procederá la justificación de la inasistencia de los diputados integrantes, de la comisión o Comisiones organizadoras durante la realización del foro. En caso de no existir quórum, el foro se realizará con los diputados presentes y la Secretaría General tendrá por recibidos (sic) las participaciones ciudadanas que se presenten.
 
-(ADICIONADO, P.O. 20 DE OCTUBRE DE 2005) (F. DE E., P.O. 27 DE DICIEMBRE DE 2005)
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2005)</small>
 
 Artículo 94 G.
 
-1. Concluido el periodo señalado en el artículo 98, el Secretario General, por sí mismo o a través de la persona que éste designe, será el encargado de coordinar a los representantes de las comisiones para acordar las bases de la convocatoria respectiva, la mecánica de trabajo, así como los lugares y fechas en que se llevarán a cabo los foros.
+Concluido el periodo señalado en el artículo 98, el Secretario General, por sí mismo o a través de la persona que éste designe, será el encargado de coordinar a los representantes de las comisiones para acordar las bases de la convocatoria respectiva, la mecánica de trabajo, así como los lugares y fechas en que se llevarán a cabo los foros.
 
-(ADICIONADO, P.O. 20 DE OCTUBRE DE 2005) (F. DE E., P.O. 27 DE DICIEMBRE DE 2005)
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2005)</small>
 
 Artículo 94 H.
 
-1. Los foros de consulta pública serán temáticos y en su caso se realizarán de manera conjunta por las comisiones involucradas que hayan remitido su acuerdo interno.
+Los foros de consulta pública serán temáticos y en su caso se realizarán de manera conjunta por las comisiones involucradas que hayan remitido su acuerdo interno.
 
 Si alguna de las .comisiones pretende llevar a cabo el foro de manera independiente, deberá expresar las razones que así lo justifiquen y ser aprobado en sesión ordinaria del Pleno, para lo cual se considerará lo anterior como situación de excepción y deberá prevalecer ante todo la institucionalidad de los foros de consulta pública como evento del Congreso del Estado.
 
-(ADICIONADO, P.O. 20 DE OCTUBRE DE 2005) (F. DE E., P.O. 27 DE DICIEMBRE DE 2005)
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2005)</small>
 
 Artículo 94 I.
 
-1. En los foros temáticos del Comité de Proceso Legislativo en coordinación con la Junta de Coordinación Política propondrán a los presidentes de las comisiones respectivas el número de foros, y el lugar de realización.
+E (sic) los foros temáticos del Comité de Proceso Legislativo en coordinación con la Junta de Coordinación Política propondrán a los presidentes de las comisiones respectivas el número de foros, y el lugar de realización.
 
-(ADICIONADO, P.O. 20 DE OCTUBRE DE 2005) (F. DE E., P.O. 27 DE DICIEMBRE DE 2005)
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2005)</small>
 
 Artículo 94 J.
 
-1. La difusión, implementación de la consulta y análisis de las propuestas recibidas en los foros deberá obedecer a estándares metodológicos profesionales para este tipo de mecanismo de participación ciudadana, para lo cual se podrá contratar la asesoría de personas físicas o jurídicas competentes en esta área, previo acuerdo mayoritario de los representantes de las comisiones, de conformidad con el Capítulo de Adquisiciones del presente reglamento.
+La difusión, implementación de la consulta y análisis de las propuestas recibidas en los foros deberá obedecer a estándares metodológicos profesionales para este tipo de mecanismo de participación ciudadana, para lo cual se podrá contratar la asesoría de personas físicas o jurídicas competentes en esta área, previo acuerdo mayoritario de los representantes de las comisiones, de conformidad con el Capítulo de Adquisiciones del presente reglamento.
 
-(ADICIONADO, P.O. 20 DE OCTUBRE DE 2005) (F. DE E., P.O. 27 DE DICIEMBRE DE 2005)
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2005)</small>
 
 Artículo 94 K.
 
-1. Al término de cada foro de consulta pública la Comisión organizadora deberá remitir al Comité de Biblioteca, Archivo y Editorial la información recabada a fin de que, preserve, organice y respalde la información obtenida.
+Al término de cada foro de consulta pública la Comisión organizadora deberá remitir al Comité de Biblioteca, Archivo y Editorial la información recabada a fin de que, preserve, organice y respalde la información obtenida.
 
-(ADICIONADO, P.O. 20 DE OCTUBRE DE 2005) (F. DE E., P.O. 27 DE DICIEMBRE DE 2005)
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2005)</small>
 
 Artículo 94 L.
 
-1. El análisis de las propuestas recibidas será responsabilidad de cada Comisión de acuerdo a su tema de consulta específico, considerando lo señalado en el numeral 103.
+El análisis de las propuestas recibidas será responsabilidad de cada Comisión de acuerdo a su tema de consulta específico, considerando lo señalado en el numeral 103.
 
-(ADICIONADO, P.O. 20 DE OCTUBRE DE 2005) (F. DE E., P.O. 27 DE DICIEMBRE DE 2005)
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2005)</small>
 
 Artículo 94 M.
 
-1. Los gastos originados para la realización de los foros de consulta pública correrán con cargo al presupuesto anual de las Comisiones participantes y se repartirá de manera proporcional entre las mismas. Las adquisiciones que se realicen, para este mismo fin, deberán ajustarse a las disposiciones del título decimotercero de este reglamento.
+Los gastos originados para la realización de los foros de consulta pública correrán con cargo al presupuesto anual de las Comisiones participantes y se repartirá de manera proporcional entre las mismas. Las adquisiciones que se realicen, para este mismo fin, deberán ajustarse a las disposiciones del título decimotercero de este reglamento.
 
 (REUBICADO [N. DE E. ANTES CAPITULO V], P.O. 20 DE OCTUBRE DE 2005)
 
@@ -2154,3 +2158,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 20 DE OCTUBRE DE 2005.
 
 UNICO.- El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 22 DE NOVIEMBRE DE 2005.
+
+ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco.
