@@ -4,7 +4,7 @@ identifier: "FED-reglas-de-caracter-general-de-la-ley-de-concursos-46861"
 country: "mx"
 rank: "reglas"
 publication_date: "2003-01-30"
-last_updated: "2004-04-07"
+last_updated: "2005-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46861&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-01-23"
 
 REGLAS DE CARACTER GENERAL DE LA LEY DE CONCURSOS MERCANTILES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE NOVIEMBRE DE 2005.
 
 Reglas publicadas en la Primera Sección del Diario Oficial de la Federación, el jueves 30 de enero de 2003.
 
@@ -325,7 +325,9 @@ b) El Conciliador: al momento de entregar su informe final en los términos del 
 
 c) El Síndico: al momento de realizar un bien calculará el importe de sus honorarios aplicando la tabla del artículo. En ventas sucesivas, el cálculo se hará sumando el valor de lo enajenado anteriormente con la nueva realización para aplicar el importe determinado conforme a la tabla del 51. El Síndico presentará al juez el resultado de estos cálculos al cierre de cada mes natural en el que haya habido ventas para los efectos del artículo 229 de la Ley.
 
-Regla 49.- En el caso del Conciliador, su remuneración estará vinculada a su desempeño, conforme a los siguientes criterios:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE NOVIEMBRE DE 2005)</small>
+
+Regla 49.- La remuneración del Conciliador estará vinculada a su desempeño, conforme a los siguientes criterios:
 
 I. Siendo el objetivo principal del Conciliador, lograr un acuerdo entre las partes del concurso mercantil, evitando llegar a la etapa de la quiebra, su remuneración deberá estar vinculada al logro del convenio.
 
@@ -333,9 +335,25 @@ II. La base del pago de honorarios del Conciliador será la indicada en la regla
 
 III. Si se logra la celebración del convenio, el Conciliador recibirá el 100% de los honorarios según la tarifa de la regla 51. Se reducirán sus honorarios a un 35% si no se logra el convenio y se llega a la quiebra.
 
-IV. El Comerciante y un grupo de Acreedores Reconocidos que representen al menos el 75% del monto total reconocido podrán pactar con el Conciliador, si así lo desean, un régimen distinto de honorarios. El convenio así alcanzado deberá contar con el visto bueno de la Junta Directiva del Instituto.
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2005)</small>
+
+IV. El Comerciante y un grupo de Acreedores Reconocidos que representen al menos el 75% del monto total reconocido podrán pactar con el conciliador, si hay circunstancias especiales que así lo justifiquen, un régimen distinto de honorarios. El convenio así alcanzado deberá contar con el visto bueno de la Junta Directiva del Instituto.
 
 V. El honorario pagado al Conciliador, conforme a lo aquí establecido, incluye lo que éste deba de pagar a sus auxiliares.
+
+> <small>(ADICIONADA, D.O.F. 23 DE NOVIEMBRE DE 2005)</small>
+
+VI. Se exceptúa de lo dispuesto en las fracciones I a III y V de la presente regla los casos de Conciliadores designados en procesos en los que su labor se circunscriba solamente al proceso de reconocimiento, graduación y prelación de créditos omitiéndose la etapa de conciliación por así disponerlo la Ley o la autoridad competente para ello, o porque así haya sido solicitado por el propio Comerciante. En estos casos el Conciliador deberá calcular sus honorarios conforme a las bases fijadas en las reglas 46 y 47 con las siguientes modalidades:
+
+a) El estimado de las horas a que se refiere la fracción II de la regla 47, con su correspondiente justificación, se presentará al Instituto para su aprobación dentro de los cinco días siguientes al de la segunda publicación de la sentencia de concurso en el Diario Oficial de la Federación.
+
+b) Cada quince días naturales el Conciliador presentará al Instituto un informe de tiempos empleados.
+
+c) En esa misma ocasión presentará para su aprobación un pronóstico de los tiempos a emplear en el siguiente mes si dichos tiempos exceden de un 10% del presupuesto acordado.
+
+d) En los tiempos que reporte el Conciliador no deberán incluirse los dedicados a las labores de capacitación y supervisión que realice con el Instituto.
+
+e) La labor del Conciliador concluirá una vez que quede firme la sentencia de reconocimiento, graduación y prelación de créditos. Los tiempos que emplee el Conciliador en la apelación de dicha sentencia actuando exclusivamente en su carácter de acreedor no se contarán para efectos de honorarios.
 
 Regla 50.- En el caso del Síndico, su remuneración deberá estar vinculada a su desempeño, conforme al siguiente criterio:
 
@@ -486,3 +504,11 @@ D.O.F. 7 DE ABRIL DE 2004.
 PRIMERO. Con independencia de lo dispuesto por la regla 2 de las Reglas de Carácter General de la Ley de Concursos Mercantiles, y sin perjuicio de ello, este acuerdo podrá ser publicado en el Diario Oficial de la Federación.
 
 SEGUNDO. El presente acuerdo entrará en vigor el día 5 de abril de 2004.
+
+D.O.F. 23 DE NOVIEMBRE DE 2005.
+
+PRIMERO. Con independencia de lo dispuesto por la regla 2 de las Reglas de Carácter General de la Ley de Concursos Mercantiles, y sin perjuicio de ello, este acuerdo podrá ser publicado en el Diario Oficial de la Federación.
+
+SEGUNDO. Los honorarios de los conciliadores que han iniciado labores antes de la entrada en vigencia de esta reforma y adición, se determinarán conforme al texto de la regla 49 de las Reglas de Carácter General de la Ley de Concursos Mercantiles vigente al momento de su designación.
+
+TERCERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
