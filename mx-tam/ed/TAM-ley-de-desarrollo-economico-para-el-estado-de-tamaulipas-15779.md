@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-desarrollo-economico-para-el-estado-de-tamaulipas-15779"
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-21"
-last_updated: "1999-03-24"
+last_updated: "2005-11-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15779&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 LEY DE DESARROLLO ECONOMICO PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MARZO DE 1999.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA EL DESARROLLO ECONOMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS, PUBLICADA EN EL P.O. DE 24 DE NOVIEMBRE DE 2005, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 21 de enero de 1998.
 
@@ -432,3 +434,25 @@ P.O. 24 DE MARZO DE 1999
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE NOVIEMBRE DE 2005.
+
+###### ARTICULO PRIMERO.
+
+La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley de Desarrollo Económico para el Estado de Tamaulipas, aprobada mediante Decreto Número 159 expedido por la Quincuagésima Sexta Legislatura del Estado, el 19 de noviembre de 1997 y publicado en el Periódico Oficial del Estado del 21 de enero de 1998; así como las reformas a sus artículos 7º y 8º aprobadas mediante Decreto Núm. 402 de la propia Quincuagésima Sexta Legislatura del Estado, del 9 de diciembre de 1998 y publicado en el Periódico Oficial del Estado de 24 de marzo de 1999.
+
+###### ARTICULO TERCERO.
+
+Las solicitudes y procedimientos administrativos en trámite con base en el ordenamiento que se abroga, se continuarán atendiendo hasta su desahogo y resolución con base en la Ley que les dio origen.
+
+###### ARTICULO CUARTO.
+
+La Secretaría de Desarrollo Económico y del Empleo establecerá un programa para la activa difusión de las normas del presente ordenamiento y sus beneficios para el desarrollo económico y la competitividad del Estado.
+
+###### ARTICULO QUINTO.
+
+Los Reglamentos correspondientes deberán ser expedidos por el Ejecutivo en un término no mayor de 180 días, a partir de la publicación de la presente ley.
