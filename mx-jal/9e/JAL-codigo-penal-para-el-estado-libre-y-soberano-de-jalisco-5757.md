@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2005-08-30"
+last_updated: "2005-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 2005.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -489,7 +489,7 @@ Dentro de los límites fijados por la Ley, los jueces y Tribunales aplicarán la
 
 ###### Art. 41.
 
-Para La aplicación de las sanciones penales se tendrá en cuenta:
+Para la aplicación de las sanciones penales se tendrá en cuenta:
 
 I. La naturaleza de la acción u omisión, los medios empleados para ejecutarla, la gravedad del daño causado y el peligro corrido;
 
@@ -4001,7 +4001,9 @@ Para los fines del artículo que antecede se tomará en cuenta el monto de lo de
 
 Para los efectos del presente Título, se estará a las definiciones establecidas en la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente para el Estado de Jalisco, así como las determinadas en los ordenamientos aplicables.
 
-Para proceder penalmente por los delitos contenidos en este Título, será a través de la querella presentada por la Secretaría de Medio Ambiente para el Desarrollo Sustentable, o del ayuntamiento en cuyo territorio se den los hechos presuntamente constitutivos de delito, salvo que se trate de un delito flagrante.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2005)</small>
+
+Inmediatamente que el Ministerio Público o el servidor público encargado de practicar diligencias de averiguación previa tenga conocimiento de la probable existencia de uno de los delitos establecidos en el presente título, iniciará sus actuaciones atendiendo las reglas establecidas en el Código de Procedimientos Penales, con el objeto de evitar que se agraven los daños cometidos, dando intervención a la Secretaría de Medio Ambiente para el Desarrollo Sustentable, o al ayuntamiento en cuyo territorio se den los hechos presuntamente constitutivos de delito, para que determinen la gravedad del daño ambiental y las acciones de su competencia.
 
 > <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
 
@@ -4057,7 +4059,7 @@ Se impondrá pena de tres meses a ocho años de prisión y multa por el equivale
 
 Se impondrá pena de uno a tres años de prisión y multa de cinco mil días de salario mínimo general a las personas que promuevan, ocasionen, subsidien o dirijan algunos de los hechos punibles lesivos al ambiente descritos en este ordenamiento, según la gravedad del daño ambiental causado y la inhabilitación para contratar con la administración pública hasta por el lapso de 6 años.
 
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2005)</small>
 
 ###### Art. 296.
 
@@ -4067,11 +4069,9 @@ I. Transporte o consienta, autorice u ordene que se transporte cualquier residuo
 
 II. Asiente datos falsos en los registros, bitácoras o cualquier otro documento utilizado con el propósito de simular el cumplimiento de las obligaciones derivadas de la normatividad ambiental local;
 
-III. Prestando sus servicios como auditor técnico, especialista o perito o especialista en materia ambiental, faltare a la verdad provocando que se cause un daño a los recursos naturales no reservados a la Federación; y
+III. Prestando sus servicios como auditor técnico, especialista o perito especialista en materia ambiental, faltare a la verdad provocando que se cause un daño a los recursos naturales no reservados a la Federación; y
 
-IV. No realice o cumpla las medidas técnicas, correctivas o de seguridad necesarias para evitar un daño o riesgo ambiental que la autoridad administrativa o judicial le ordene o imponga.
-
-Los delitos previstos en el presente Capítulo se perseguirán por querella de la Secretaría de Medio Ambiente para el Desarrollo Sustentable, o del ayuntamiento en cuyo territorio se hubiesen cometido los hechos presuntamente constitutivos de delito.
+IV. No realice o cumpla las medidas técnicas, correctivas o de seguridad, necesarias para evitar un daño o riesgo ambiental que la autoridad administrativa o judicial le ordene o imponga.
 
 ## TRANSITORIOS
 
@@ -4368,3 +4368,7 @@ P.O. 23 DE AGOSTO DE 2005.
 P.O. 30 DE AGOSTO DE 2005.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 24 DE NOVIEMBRE DE 2005.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
