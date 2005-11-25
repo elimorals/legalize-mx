@@ -4,7 +4,7 @@ identifier: "GUA-codigo-fiscal-para-el-estado-de-guanajuato-12559"
 country: "mx"
 rank: "codigo"
 publication_date: "1978-12-31"
-last_updated: "2001-12-21"
+last_updated: "2005-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12559&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 CODIGO FISCAL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2001.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 25 DE NOVIEMBRE DE 2005, EL PRESENTE ORDENAMIENTO FUE ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Código publicado en la Segunda Parte Anexo del Periódico Oficial del Estado de Guanajuato, el domingo 31 de diciembre de 1978.
 
@@ -2170,3 +2172,19 @@ Artículo Cuarto.- Se deroga el Título Séptimo del Código Fiscal para el Esta
 P.O. 21 DE DICIEMBRE DE 2001.
 
 Artículo Único.- El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 25 DE NOVIEMBRE DE 2005.
+
+Artículo Primero. El presente Código entrará en vigor el día 1º primero de enero del año 2006 dos mil seis, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Los procedimientos de auditoría fiscal, de ejecución, los recursos administrativos y en general, las instancias administrativas, solicitudes o trámites iniciados con anterioridad a la entrada en vigor del presente Código, se resolverán con arreglo a las disposiciones fiscales vigentes al iniciarse los procedimientos o trámites respectivos.
+
+Artículo Tercero. Se abroga el Código Fiscal para el Estado de Guanajuato, emitido por el Quincuagésimo Congreso Constitucional del Estado Libre y Soberano de Guanajuato a través del Decreto número 236, publicado en el Periódico Oficial del Gobierno del Estado número 105, Segunda Parte, de fecha 31 de Diciembre de 1978.
+
+Artículo Cuarto. Se derogan todas las disposiciones que se opongan al presente Código.
+
+Artículo Quinto. El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y Administración, realizará las gestiones necesarias a fin de convenir con la Federación, a través de la Secretaría de Hacienda y Crédito Público, que los impuestos cedulares sobre los ingresos de las personas físicas previstos en la Ley de Hacienda para el Estado de Guanajuato, se paguen en las mismas declaraciones del impuesto Sobre la Renta federal, en los términos del último párrafo del artículo 43 de la Ley del Impuesto al Valor Agregado.
+
+Artículo Sexto. El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y Administración, realizará las gestiones conducentes a efecto de que se autorice a los contribuyentes de los impuestos cedulares sobre los ingresos de las personas físicas, previstos en la Ley de Hacienda para el Estado de Guanajuato, la incorporación en los comprobantes que expidan por los ingresos que obtengan, cuando así corresponda, el apartado relativo a la retención del impuesto local, adicionalmente a los previstos por el artículo 29-A del Código Fiscal de la Federación.
+
+De igual forma, se procurará que la autorización respectiva reconozca la validez de los comprobantes que hubieren sido impresos o expedidos a partir del inicio de la vigencia de la Ley mencionada, respecto de los cuales se considerará apta para acreditar la retención, la inserción del rubro relativo en el propio comprobante o la que se haya hecho constar en documento por separado.
