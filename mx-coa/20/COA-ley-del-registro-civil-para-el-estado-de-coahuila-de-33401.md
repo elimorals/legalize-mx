@@ -4,7 +4,7 @@ identifier: "COA-ley-del-registro-civil-para-el-estado-de-coahuila-de-33401"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-25"
-last_updated: "2004-08-17"
+last_updated: "2005-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33401&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 25 de julio de 2003.
 
@@ -539,6 +539,10 @@ Para efectuar un registro de nacimiento, se deben cumplir con los requisitos sig
 
 I. Presentar, los interesados, el certificado de nacimiento del menor emitido por la institución de salud en la que el mismo hubiere nacido.
 
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+En caso de que el alumbramiento se hubiere presentado en un lugar diferente a una institución de salud, deberá procederse conforme a lo establecido por el artículo 163 del Código Civil de Coahuila.
+
 II. Tener domicilio dentro de la jurisdicción de la oficina del Registro Civil de que se trate, lo que demostrará a satisfacción del Oficial, conforme a los lineamientos establecidos en el Código Civil para el Estado de Coahuila.
 
 > <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2004)</small>
@@ -1006,3 +1010,9 @@ P.O. 17 DE AGOSTO DE 2004.
 PRIMERO. El presente decreto entrará en vigor sesenta días hábiles siguientes de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Los artículos del Código Civil y del Código Procesal Civil en los que se autorizan las pruebas periciales biológicas para la determinación de la paternidad y la maternidad, así como la presunción que se genera en perjuicio de quienes no otorgan su consentimiento para someterse a dichas pruebas, entrarán en vigor una vez que se expidan las leyes que regulen el funcionamiento seguro y eficiente de los laboratorios en los que se practiquen y que las Dependencias Oficiales competentes estén en condiciones de realizarlas, con el máximo grado de confiabilidad.
+
+P.O. 25 DE NOVIEMBRE DE 2005.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier otra disposición que se oponga al presente decreto.
