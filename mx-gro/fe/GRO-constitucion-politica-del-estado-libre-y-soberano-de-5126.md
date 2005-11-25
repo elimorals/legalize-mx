@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "2005-06-07"
+last_updated: "2005-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 2005.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -235,169 +235,173 @@ Los municipios integrantes del Estado de Guerrero son:
 
 39.- Igualapa
 
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+40.- Iliatenco
+
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-40.- Ixcateopan de Cuauhtémoc
+41.- Ixcateopan de Cuauhtémoc
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-41.- José Azueta
+42.- José Azueta
 
 > <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2003)</small>
 
-42.- José Joaquín de Herrera
+43.- José Joaquín de Herrera
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-43.- Juan R. Escudero
+44.- Juan R. Escudero
 
 > <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2005)</small>
 
-44.- Juchitán
+45.- Juchitán
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-45.- Leonardo Bravo
+46.- Leonardo Bravo
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-46.- Malinaltepec
+47.- Malinaltepec
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-47.- Mártir de Cuilapan
+48.- Mártir de Cuilapan
 
 > <small>(ADICIONADO, P.O. 24 DE MAYO DE 2002)</small>
 
-48.- Marquelia
+49.- Marquelia
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-49.- Metlatónoc
+50.- Metlatónoc
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-50.- Mochitlán
+51.- Mochitlán
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-51.- Olinalá
+52.- Olinalá
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-52.- Ometepec
+53.- Ometepec
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-53.- Pedro Ascencio Alquisiras
+54.- Pedro Ascencio Alquisiras
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-54.- Petatlán
+55.- Petatlán
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-55.- Pilcaya
+56.- Pilcaya
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-56.- Pungarabato
+57.- Pungarabato
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-57.- Quechultenango
+58.- Quechultenango
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-58.- San Luis Acatlán
+59.- San Luis Acatlán
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-59.- San Marcos
+60.- San Marcos
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-60.- San Miguel Totolapan
+61.- San Miguel Totolapan
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-61.- Taxco de Alarcón
+62.- Taxco de Alarcón
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-62.- Tecoanapa
+63.- Tecoanapa
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-63.- Tecpan de Galeana
+64.- Tecpan de Galeana
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-64.- Teloloapan
+65.- Teloloapan
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-65.- Tepecoacuilco de Trujano
+66.- Tepecoacuilco de Trujano
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-66.- Tetipac
+67.- Tetipac
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-67.- Tixtla de Guerrero
+68.- Tixtla de Guerrero
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-68.- Tlacoapa
+69.- Tlacoapa
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-69.- Tlacoachistlahuaca
+70.- Tlacoachistlahuaca
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-70.- Tlalchapa
+71.- Tlalchapa
 
 > <small>(REFORMADO, P.O. 15 DE ABRIL DE 1988)</small>
 
-71.- Tlalixtaquilla de Maldonado
+72.- Tlalixtaquilla de Maldonado
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-72.- Tlapa de Comonfort
+73.- Tlapa de Comonfort
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-73.- Tlapehuala
+74.- Tlapehuala
 
 > <small>(REFORMADO, P.O. 20 DE JULIO DE 1993)</small>
 
-74.- La Unión de Isidoro Montes de Oca
+75.- La Unión de Isidoro Montes de Oca
 
 > <small>(ADICIONADO, P.O. 24 DE MAYO DE 2002)</small>
 
-75.- Xalpatláhuac
+76.- Xalpatláhuac
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-76.- Xochistlahuaca
+77.- Xochistlahuaca
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-77.- Xochihuehuetlán
+78.- Xochihuehuetlán
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-78.- Zapotitlán Tablas
+79.- Zapotitlán Tablas
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-79.- Zirándaro
+80.- Zirándaro
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-80.- Zitlala
+81.- Zitlala
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -2571,7 +2575,7 @@ Esta Constitución será publicada con la solemnidad debida, en todas las poblac
 
 ###### Artículo 2°.
 
-El Período Constitucional deberá contarse: para los Diputados, desde el 1°. de marzo del presente año; para Gobernador, del 1°. de abril del mismo año, y para los Magistrados del Tribunal Superior, del 1°. de mayo último.
+El Período Constitucional deberá contarse: para los Diputados, desde el 1° de marzo del presente año; para Gobernador, del 1° de abril del mismo año, y para los Magistrados del Tribunal Superior, del 1° de mayo último.
 
 ###### Artículo 3°.
 
@@ -3128,3 +3132,11 @@ Remítase el presente Decreto a los Honorables Ayuntamientos de la Entidad, para
 ###### ARTICULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 25 DE NOVIEMBRE DE 2005.
+
+PRIMERO.- Para dar cumplimiento a lo establecido en la Fracción III del Artículo 125 de la Constitución Política del Estado Libre y Soberano de Guerrero, remítase el presente Decreto a los 80 Ayuntamientos que integran el Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+TERCERO.- En su oportunidad remítase el presente Decreto al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación en el Periódico Oficial del Gobierno del Estado.
