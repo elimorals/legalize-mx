@@ -4,7 +4,7 @@ identifier: "COA-codigo-de-procedimientos-penales-de-coahuila-15147"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-25"
-last_updated: "2004-06-22"
+last_updated: "2005-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES DE COAHUILA
 
-CODIGO DE PROCEDIMIENTOS PENALES DE COAHUILA
+CÓDIGO DE PROCEDIMIENTOS PENALES DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2005.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el martes 25 de mayo de 1999.
 
@@ -417,7 +417,11 @@ QUIÉNES SON OFENDIDOS O VÍCTIMAS. Son ofendidos o víctimas las personas que s
 
 DERECHOS DE OFENDIDOS Y VÍCTIMAS DURANTE LA AVERIGUACIÓN PREVIA. El ofendido o víctima, por sí o por conducto de abogado según el caso, durante la averiguación previa tendrán derecho:
 
-I. ASISTENCIA MÉDICA DE URGENCIA. A que se les preste atención médica de urgencia cuando la requieran.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+I. ASISTENCIA MÉDICA DE URGENCIA. A que se les preste atención médica de urgencia cuando la requieran. En caso de violación el ofendido tendrá derecho a que se le brinde tratamiento médico para prevenir enfermedades de transmisión sexual.
 
 II. ACCESO A LAS CONSTANCIAS. A tener acceso a las constancias de la averiguación previa, de las que se podrán enterar en presencia del agente del Ministerio Público que conozca de la investigación. El ofendido o víctima, o sus abogados podrán tomar las notas que deseen. Si lo piden, se les expedirá a su costa copia de las diligencias.
 
@@ -1683,7 +1687,11 @@ VI. Pandillerismo.
 
 VII. Incendio u otros estragos, que sean dolosos.
 
-VIII. Utilización de menores para pornografía infantil. Corrupción por depravar a menor de 12 años de edad; o incitar a menor a formar parte de una asociación delictuosa.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+VIII. La corrupción de menores e incapaces; pornografía infantil o de incapaces; distribución o exposición pública de pornografía infantil o incapaces;
 
 IX. Lenocinio y trata de personas cuando incida en menores de 16 años de edad.
 
@@ -3286,6 +3294,12 @@ VALOR DE LA PRUEBA INDICIARIA. El juzgador apreciará los indicios en conjunto; 
 Hay concurrencia de indicios cuando revelen el mismo hecho o conducta. Hay concordancia de indicios cuando se complementen entre sí para indicarlo. Hay convergencia de indicios cuando de los indicios concurrentes o concordantes se obtiene la misma conclusión sobre el hecho o conducta que se investiga.
 
 El valor probatorio de los indicios dependerá de su calidad y no de su número.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+ARTÍCULO 447 BIS. VALOR DE LA DECLARACIÓN DEL OFENDIDO TRATÁNDOSE DE LOS DELITOS DE VIOLACIÓN, ATENTADOS AL PUDOR, ESTUPRO, RAPTO Y ACOSO SEXUAL. Tratándose de los delitos de violación, atentados al pudor, estupro, rapto y hostigamiento sexual, todos éstos en cualquiera de sus modalidades y equiparables, el dicho del ofendido tendrá valor probatorio preponderante cuando se encuentre aunado a otros medios de convicción que hagan presumir la consumación de los ilícitos.
 
 ###### ARTÍCULO 448.
 
@@ -5423,17 +5437,17 @@ Obtenidas las pruebas se dará vista al Ministerio Público, al sentenciado y a 
 
 EFECTOS DE LA DECLARACIÓN DE PRESCRIPCIÓN. Si la resolución declara prescrita la pena, se comunicará a las autoridades que deban hacer cesar la ejecución o los trámites encaminados a ejecutarla.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 741.
 
-EXTINCIÓN DE SANCIONES POR MATRIMONIO. En los casos de estupro y rapto, el sentenciado y el Ministerio Público podrán solicitar al tribunal que pronunció la sentencia ejecutoria, que declare extinguidas las sanciones impuestas; si presentan copia certificada del acta de matrimonio o señalan la oficina que debió expedirla.
+(DEROGADO, P.O. 25 DE NOVIEMBRE DE 2005)
 
-El tribunal, teniendo a la vista la sentencia y la copia certificada del acta resolverá luego lo procedente. En caso de que declare extinguidas las sanciones, lo hará saber a la dependencia del Ejecutivo que le competa la ejecución de sanciones privativas y restrictivas de la libertad, para que ordene la libertad del sentenciado si estuviere detenido.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 742.
 
-EJECUCIÓN DE LAS SANCIONES SI SE DECLARA NULO EL MATRIMONIO. Cuando se declare nulo el matrimonio de quién lo contrajo por rapto y estupro, se ejecutarán las sanciones impuestas que se hubieren declarado extinguidas.
-
-En estos casos la autoridad judicial, a solicitud del Ministerio Público, dejará sin efecto el auto en que se declaró extinguidas las sanciones y ordenará que éstas se ejecuten.
+(DEROGADO, P.O. 25 DE NOVIEMBRE DE 2005)
 
 T R A N S I T O R I O S :
 
@@ -5596,3 +5610,7 @@ P.O. 22 DE JUNIO DE 2004.
 PRIMERO. Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este decreto.
+
+P.O. 25 DE NOVIEMBRE DE 2005.
+
+ÚNICO. El presente Decreto entrará en vigor a los treinta días hábiles siguientes a su publicación en el Periódico Oficial del Gobierno del Estado.
