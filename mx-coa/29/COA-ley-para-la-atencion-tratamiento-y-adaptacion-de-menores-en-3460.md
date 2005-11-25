@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-atencion-tratamiento-y-adaptacion-de-menores-en-346
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-14"
-last_updated: "2005-04-12"
+last_updated: "2005-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA ATENCION, TRATAMIENTO Y ADAPTACION DE MENORES EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 14 de junio de 1994.
 
@@ -413,27 +413,47 @@ VI.- Los demás servidores públicos, por quien determine el Presidente del Cons
 
 (DEROGADO, P.O. 23 DE ENERO DE 1998)
 
-## TITULO SEGUNDO. DE LA UNIDAD ENCARGADA DE LA PREVENCION Y TRATAMIENTO DE MENORES
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+## TITULO SEGUNDO. DE LA DIRECCION DE ATENCION Y TRATAMIENTO DE MENORES INFRACTORES
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 29.
 
-La Secretaría de Gobierno contará con una Unidad Administrativa cuyo objeto será llevar a cabo las funciones de prevención general y especial, así como las conducentes a alcanzar la adaptación de los menores infractores.
+La Dirección de Atención y Tratamiento de Menores Infractores, depende de la Secretaría de Seguridad Pública y Protección Ciudadana y realizará la representación social de las víctimas de los delitos cometidos por aquéllas personas mayores de 10 años y menores de 16. También le corresponde la ejecución de las medidas de internamiento en los Centros de Internación, Diagnóstico y Tratamiento de Menores a su cargo, ordenadas por el Consejo Unitario de Menores.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 30.
 
-Para los efectos de la presente ley se entiende como prevención general el conjunto de actividades dirigidas a evitar la realización de conductas constitutivas de infracciones a las leyes penales y, por prevención especial, el tratamiento individualizado que se proporciona a los menores que han infringido dichas disposiciones, para impedir su reiteración.
+La Dirección de Atención y Tratamiento de Menores Infractores, otorgará a tratamiento individualizado a los menores infractores dentro de los centros de adscripción, con, con el objeto de reforzar e inculcar en ellos los valores, principios y buenas costumbres necesarios para impedir la reiteración de sus conductas delictivas; asimismo coadyuvará en el ámbito de su competencia con todas las acciones dirigidas a la prevención de la comisión de los delitos.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+ARTICULO 30 BIS.- Para los efectos de la presente ley, el Ministerio Público es el único órgano que recibe denuncias y/o querellas. Las corporaciones policiales o particulares, en su caso que presenten a un detenido por la presunta comisión de un de un delito, serán puestos a disposición del Ministerio Público, hasta en tanto no se demuestre la minoría de edad de aquél, conforme a lo dispuesto en el artículo 119 de la presente ley. En su momento se turnará al menor y todo lo actuado, a la Comisión de Menores correspondiente, respetando en todo momento los términos que establezca la ley sobre la detención.
+
+La Dirección de Atención de Tratamiento de Menores Infractores y sus Comisionados estarán regulados por el Reglamento Interior de dicha Dirección.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+ARTICULO 30 TER.- Cuando el Ministerio Público tenga a su disposición a una persona que acredite su minoría de edad, de inmediato la pondrá a disposición del Comisionado de la Unidad de Menores, anexando el acuerdo de incompetencia legal, el parte informativo y demás actuaciones, debiendo ser este último quien continúe con las diligencias necesarias para la investigación correspondiente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 31.
 
-La Unidad Administrativa encargada de la Prevención y Tratamiento de Menores desempeñará las siguientes funciones:
+Por representación social se entenderá las funciones ejercidas por la Dirección o los comisionados para proteger los derechos y los intereses legítimos de las víctimas de los delitos cometidos por personas mayores de 10 años y menores de 16, así como los intereses de la sociedad en general, conforme a lo siguiente:
 
 I.- La de prevención, que tiene por objeto realizar las actividades normativas y operativas de prevención en materia de menores infractores;
 
 II.- La de procuración, que se ejercerá por medio de los comisionados y que tiene por objeto proteger los derechos y los intereses legítimos de las personas afectadas por las infracciones que se atribuyan a los menores, así como los intereses de la sociedad en general, conforme a lo siguiente:
 
-a).- Investigar las infracciones cometidas por los menores, que le sean turnadas por el Ministerio Público, conforme a lo previsto en las reglas de integración de la investigación de infracciones de esta ley;
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+a).- Iniciar o continuar las investigaciones de las infracciones cometidas por los menores, que le sean turnadas por el Ministerio Público, conforme a lo previsto en las reglas de integración de la investigación de infracciones de esta ley;
 
 b).- Requerir al Ministerio Público y a sus auxiliares, a fin de que los menores sujetos a investigación les sean remitidos de inmediato;
 
@@ -593,9 +613,11 @@ Todas las actuaciones que se lleven a cabo en el procedimiento deberán reunir l
 
 ### CAPITULO SEGUNDO. DE LA INTEGRACION DE LA INVESTIGACION DE LAS INFRACCIONES Y DE LA SUBSTANCIACION DEL PROCEDIMIENTO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 43.
 
-Cuando en una averiguación previa seguida ante el Ministerio Público se atribuya a un menor la comisión de la infracción que corresponda a un ilícito tipificado por las leyes penales al que se refiere el artículo 1o. de este ordenamiento, dicho representante social lo pondrá de inmediato, en las instalaciones de la Unidad Administrativa encargada de la Prevención y Tratamiento de Menores, a disposición del comisionado en turno, para que éste practique las diligencias para comprobar la participación del menor en la comisión de la infracción.
+Cuando en una averiguación previa seguida ante el Ministerio Público se atribuya a un menor la comisión de la infracción que corresponda a un ilícito tipificado por las leyes penales al que se refiere el artículo 1º. De este ordenamiento, dicho representante social lo pondrá de inmediato a disposición en las instalaciones del Comisionado en turno dependiente de la Dirección de Atención y Tratamiento de Menores Infractores, para que éste practique las diligencias tendientes a comprobar la participación del menor en la comisión de la infracción.
 
 Cuando se trate de conductas no intencionales o culposas, el Ministerio Público o el comisionado entregarán de inmediato al menor a sus representantes legales o encargados, fijando en el mismo acto la garantía correspondiente para el pago de la reparación de los daños y perjuicios ocasionados. Los representantes legales o encargados quedarán obligados a presentar al menor ante el comisionado cuando para ello sean requeridos.
 
@@ -729,11 +751,15 @@ V.- El nombre y la firma de los integrantes del Comité Técnico Interdisciplina
 
 La evaluación respecto de las medidas de orientación, de protección y de tratamiento se efectuarán de oficio por Consejeros Unitarios, con base en el dictamen que al efecto emita el Comité Técnico Interdisciplinario.
 
-Al efecto, se tomará en cuenta el desarrollo de la aplicación de las medidas, con base en los informes que deberá rendir previamente la unidad administrativa encargada de la Prevención y Tratamiento de Menores. El Consejero Unitario, con base en el dictamen técnico y en consideración al desarrollo de las medidas aplicadas, podrá liberar al menor de la medida impuesta, modificarla o mantenerla sin cambio según las circunstancias que se desprendan de la evaluación.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+Al efecto, se tomará en cuenta el desarrollo de la aplicación de las medidas, con base en los informes que deberá rendir previamente la Dirección de Atención y Tratamiento de Menores Infractores. El Consejo Unitario, con base en el dictamen técnico y en consideración al desarrollo de las medidas aplicadas, podrá liberar al menor de la medida impuesta, modificarla o mantenerla sin cambio según las circunstancias que se desprendan de la evaluación.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 59.
 
-El personal técnico de los Centros de Internación aplicará las medidas ordenadas por el Consejero Unitario y rendirá un informe detallado sobre el desarrollo y avance de las medidas dispuestas, para el efecto de que se practiquen la evaluación a que se refiere el artículo anterior. El primer informe se rendirá a los seis meses de iniciada la aplicación de las medidas y los subsecuentes, cada tres meses.
+El personal técnico de los Centros de Internación, Diagnóstico y Tratamiento de Menores Infractores aplicará las medidas ordenadas por el Consejo Unitario y rendirá un informe detallado sobre el desarrollo y avance de las medidas dispuestas, para el efecto de que se practiquen la evaluación a que se refiere el artículo anterior. El primer informe se rendirá a los seis meses de iniciada la aplicación de las medidas y los subsecuentes, cada tres meses.
 
 ### CAPITULO TERCERO. DEL RECURSO DE APELACION
 
@@ -743,13 +769,17 @@ Contra las resoluciones inicial, definitiva y la que modifique o dé por termina
 
 Las resoluciones que se dicten al evaluar el desarrollo del tratamiento, no serán recurribles. Las que ordenen la terminación del tratamiento interno o lo modifiquen serán recurribles a instancia del Comisionado o del defensor.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 61.
 
-El recurso previsto en esta ley tiene por objeto obtener la modificación o la revocación de las resoluciones dictadas por los Consejeros Unitarios conforme a lo previsto en esta (sic) capítulo.
+El recurso previsto en esta ley tiene por objeto obtener la modificación o la revocación de las resoluciones dictadas por los Consejeros Unitarios conforme a lo previsto en este capítulo.
 
 ###### ARTICULO 62.
 
 El recurso antes señalado será improcedente cuando quienes estén facultados para hacerlo valer si hubieren conformado expresamente con la resolución o no lo hubieren interpuesto dentro de los plazos previstos por esta ley, o cuando ocurriere el desistimiento ulterior. Tampoco procederán los recursos planteados por personas que no estén expresamente facultadas para ello.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 63.
 
@@ -849,7 +879,9 @@ Al quedar comprobada cualquiera de las causales enumeradas en el artículo prece
 
 Las órdenes de presentación de los menores a quienes se atribuya un hecho tipificado en la ley como delito, o de aquellas personas que aún siendo ya mayores hubieren cometido los mismos hechos durante su minoría de edad, deberán solicitarse al Ministerio Público, para que éste, a su vez, formule la petición correspondiente a la autoridad judicial, siempre que exista denuncia, apoyada por declaración bajo protesta de persona digna de fe o por otros datos que hagan probable la participación del menor, en los términos previstos por el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
 
-En todas las solicitudes que deban hacerse a la autoridad judicial para el libramiento de un exhorto que tenga por objeto la presentación de un menor infractor o presunto infractor, ante el comisionado o ante el Consejero Unitario, deberán proporcionarse los elementos previstos por el artículo 77 del Código de Procedimientos Penales para el Estado de Coahuila. Al efecto, el exhorto que expida la autoridad judicial deberá contener el pedimento del Ministerio Público, la resolución en la cual se haya ordenado la presentación y los datos necesarios para la identificación de la persona requerida y, en su caso, la resolución inicial o definitiva dictadas en el procedimiento que se siga ante el Consejo de Menores.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+En todas las solicitudes que deban hacerse a la autoridad judicial para el libramiento de un exhorto que tenga por objeto la presentación de un menor infractor o presunto infractor, ante el comisionado o ante el Consejero Unitario, deberán proporcionarse los elementos previstos por el Capítulo II del Título Quinto del Libro Primero del Código de Procedimientos Penales para el Estado de Coahuila. Al efecto, el exhorto que expida la autoridad judicial deberá contener el pedimento del Ministerio Público, la resolución en la cual se haya ordenado la presentación y los datos necesarios para la identificación de la persona requerida y, en su caso, la resolución inicial o definitiva dictadas en el procedimiento que se siga ante el Consejo de Menores.
 
 Si el infractor se hubiera trasladado al extranjero se estará a lo dispuesto por el Artículo 3o. y demás aplicables, en lo conducente, de la Ley de Extradición Internacional.
 
@@ -869,11 +901,11 @@ Para que opere la caducidad bastará el simple transcurso del tiempo que se señ
 
 Los plazos para la caducidad se duplicarán respecto de quienes se encuentren fuera del territorio nacional, si por esta circunstancia no es posible iniciar el procedimiento, continuarlo, concluirlo, o aplicar las medidas de tratamiento.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 78.
 
-La caducidad surtirá sus efectos aunque no la aleguen como excepción el defensor del menor.
-
-La Sala Superior del Consejo de Menores y los Consejeros Unitarios estarán obligados a sobreseer de oficio, tan luego como tengan conocimiento de la caducidad, sea cual fuere el estado del procedimiento.
+La caducidad surtirá sus efectos aunque no la alegue como excepción del defensor del menor.
 
 ###### ARTICULO 79.
 
@@ -941,13 +973,17 @@ El diagnóstico tiene por objeto conocer la etiología de la conducta infractora
 
 Los encargados de efectuar los estudios interdisciplinarios para emitir el diagnóstico, serán los profesionales adscritos a los Comités Técnicos Interdisciplinarios. Para este efecto, se practicarán los estudios médico, psicológico, pedagógico y social, sin perjuicio de los demás que, en su caso, se requieran.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 89.
 
-En aquellos casos en que los estudios de diagnóstico se practiquen estando el menor bajo la guarda o custodia de sus legítimos representantes o sus encargados, éstos en coordinación con el defensor, tendrán la obligación de presentarlo en el lugar, día y hora en que se les fijen por la Unidad Administrativa encargada de la Prevención y Tratamiento de Menores.
+En aquellos casos en que los estudios de diagnóstico se practiquen estando el menor bajo la guarda o custodia de sus legítimos representantes o sus encargados, éstos en coordinación con el defensor, tendrán la obligación de presentarlo en el lugar, día y hora en que se les fijen por la Dirección de Atención y Tratamiento de Menores Infractores.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 90.
 
-Aquellos menores a quienes hayan de practicarse en internamiento los estudios biopsicosociales, deberán permanecer en los centros de internación correspondiente con que para tal efecto cuente la Unidad Administrativa encargada de la Prevención y Tratamiento de Menores.
+Aquellos menores a quienes hayan de practicarse en internamiento los estudios biopsicosociales, deberán permanecer en los centros de internación correspondiente con que para tal efecto cuente la Dirección de Atención y Tratamiento de Menores Infractores.
 
 ###### ARTICULO 91.
 
@@ -1013,15 +1049,19 @@ IV.- La prohibición de asistir a determinados lugares y de conducir vehículos;
 
 V.- La aplicación de los instrumentos, objetos y productos de la infracción, en los términos que determine la legislación penal, para los casos de comisión de delitos.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 101.
 
-El arraigo familiar consiste en la entrega del menor que hacen los órganos de decisión del consejo a sus representantes legales o a sus encargados, responsabilizándolos de su protección, orientación y cuidado, así como de su presentación periódica en los centros de tratamiento que se determinen, con la prohibición de abandonar el lugar de su residencia, sin la previa autorización del Consejo.
+El arraigo familiar consiste en la entrega del menor que hacen los órganos de decisión del consejo a sus representantes legales o a sus encargados, responsabilizándolos de su protección, orientación y cuidado, así como de su presentación periódica en los Centros de Internación, Diagnóstico y Tratamiento de Menores Infractores que se determinen, con la prohibición de abandonar el lugar de su residencia, sin la previa autorización del Consejo.
 
 ###### ARTICULO 102.
 
 El traslado al lugar donde se encuentre el domicilio familiar consiste en la reintegración del menor a su hogar o a aquél en que haya recibido asistencia personal en forma permanente, por lo que se refiere a sus necesidades esenciales, culturales y sociales, siempre que ello no haya influido en su conducta infractora.
 
-Esta medida de protección se llevará a cabo con la supervisión de la unidad administrativa encargada de la prevención y tratamiento de menores.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+Esta medida de protección se llevará a cabo con la supervisión de la Dirección de Atención y Tratamiento de Menores Infractores.
 
 ###### ARTICULO 103.
 
@@ -1101,19 +1141,25 @@ El tratamiento en hogares sustitutos consistirá en proporcionar al menor el mod
 
 Cuando se decrete la aplicación de medidas de tratamiento externo, el menor será entregado a sus padres, tutores, encargados o jefes de familia del hogar sustituto.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 113.
 
-Los centros de tratamiento brindarán a los menores internos orientación ética y actividades educativas, laborales, pedagógicas, formativas, culturales, terapéuticas y asistenciales, así como la seguridad y protección propias de un positivo ambiente familiar.
+Los Centros de Internación, Diagnóstico y Tratamiento de Menores Infractores brindarán a los menores internos orientación ética y actividades educativas, laborales, pedagógicas, formativas, culturales, terapéuticas y asistenciales, así como la seguridad y protección propias de un positivo ambiente familiar.
 
 Los sistemas de tratamiento serán acordes a las características de los menores internos, atendiendo a su sexo, edad, grado de desadaptación social, naturaleza y gravedad de la infracción.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 114.
 
-La Unidad Administrativa encargada de la Prevención y Tratamiento de Menores, contará con los centros de tratamiento interno que sean necesarios para lograr la adecuada clasificación y tratamiento diferenciado de menores.
+La Dirección de Atención y Tratamiento de Menores Infractores, contará con los centros de tratamiento interno que sean necesarios para lograr la adecuada clasificación y tratamiento diferenciado de menores.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 115.
 
-La Unidad Administrativa encargada de la Prevención y Tratamiento de Menores deberá contar con establecimientos especiales para la aplicación de un tratamiento intensivo y prolongado respecto a los jóvenes que revelen alta inadaptación y pronóstico negativo.
+La Dirección de Atención y Tratamientos de Menores Infractores deberá contar con establecimientos especiales para la aplicación de un tratamiento intensivo y prolongado respecto a los jóvenes que revelen alta inadaptación y pronóstico negativo.
 
 Las características fundamentales a considerar en estos casos, serán:
 
@@ -1137,9 +1183,11 @@ Los tratamientos externo y mixto no podrán exceder de un año y el tratamiento 
 
 ### CAPITULO QUINTO. DEL SEGUIMIENTO
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 117.
 
-El seguimiento técnico del tratamiento se llevará a cabo por la Unidad Administrativa encargada de la Prevención y Tratamiento del Menor, una vez que éste concluya, con objeto de reforzar y consolidar la adaptación social del menor.
+El seguimiento técnico del tratamiento se llevará a cabo por la Dirección de Atención y Tratamiento de Menores Infractores, una vez que éste concluya, con objeto de reforzar y consolidar la adaptación social del menor.
 
 ###### ARTICULO 118.
 
@@ -1181,13 +1229,17 @@ En todo lo relativo al procedimiento así como a las notificaciones, impedimento
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 126.
 
-Cuando un menor entre los diez y los dieciséis años, incurra en alguna infracción a leyes o reglamentos administrativos, será presentado o citado ante los Consejeros Unitarios, en los lugares donde éstos existan, y en su defecto, ante los Comisionados de la Unidad de Prevención o ante las autoridades administrativas competentes, quienes dentro del término de tres horas harán comparecer a sus representantes legítimos o personas a cuyo cuidado se encuentren. Si por razón de la hora, no les puede poner a disposición inmediata de las autoridades mencionadas, se les enviará provisionalmente a su hogar y a falta de éste a alguna institución propia para el internamiento de menores a disposición de aquéllas.
+Cuando un menor entre los diez y los dieciséis años, incurra en alguna infracción a leyes o reglamentos administrativos, será presentado o citado ante los Consejeros Unitarios, en los lugares donde éstos existan, y en su defecto, ante los Comisionados de la Dirección de Atención y Tratamiento de Menores Infractores o ante las autoridades administrativas competentes, quienes dentro del término o tres horas harán comparecer a sus representantes legítimos o personas a cuyo cuidado se encuentren. Si por razón de la hora, no les puede poner a disposición inmediata de las autoridades mencionadas, se les enviará provisionalmente a su hogar y a falta de éste a alguna institución propia para el internamiento de menores a disposición de aquéllas.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 127.
 
-En todos los casos en que sea procedente, se le dará intervención a la Unidad de Prevención para que en un plano de colaboración, exprese su opinión sobre la conducta observada por el menor y sus padres o guardadores y sobre la medida que deba aplicárseles.
+En todos los casos en que sea procedente, se le dará intervención a la Dirección de Atención y Tratamiento de Menores Infractores para que en un plano de colaboración, exprese su opinión sobre la conducta observada por el menor y sus padres o guardadores y sobre la medida que deba aplicársele.
 
 ###### ARTICULO 128.
 
@@ -1376,3 +1428,13 @@ ARTÍCULO PRIMERO El presente Decreto entrará en vigor al día siguiente de su 
 ###### ARTÍCULO SEGUNDO.
 
 En un plazo de 120 días naturales deberán adecuarse los Reglamentos interiores correspondientes conforme a este Decreto.
+
+P.O. 25 DE NOVIEMBRE DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a este decreto.
