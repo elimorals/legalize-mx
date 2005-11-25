@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2005-11-18"
+last_updated: "2005-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 2005.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -3151,9 +3151,9 @@ El adoptante que ejerza la patria potestad tiene derecho de nombrar tutor testam
 
 CAPTULO III
 
-DE LA TUTELA LEGITIMA DE LAS PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD
+DE LA TUTELA LEGÍTIMA DE LAS PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD
 
-### CAPITULO IV. DE LA TUTELA LEGITIMA DE PERSONAS QUE NO TENGAN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
+### CAPITULO IV. DE LA TUTELA LEGÍTIMA DE PERSONAS QUE NO TENGAN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
 
 ###### ARTICULO 479.
 
@@ -9153,7 +9153,7 @@ En el proyecto de partición se expresará la parte que del capital o fundo afec
 
 ###### ARTICULO 1663.
 
-Cuando todos los herederos sean mayores de edad, y el interés del fisco, si lo hubiere, esté cubierto, podrán los interesados separarse de la prosecución del juicio y adoptar los acuerdos que estimen convenientes para el arreglo y terminación de la testamentaria o del intestado.
+Cuando todos los herederos sean mayores de edad, y el interés del fisco, si lo hubiere, esté cubierto, podrán los interesados separarse de la prosecución del juicio y adoptar los acuerdos que estimen convenientes para el arreglo y terminación de la testamentaría o del intestado.
 
 Cuando haya personas menores de dieciocho años de edad, podrán separarse, si están debidamente representados, y el Ministerio Público y el Sistema para el Desarrollo Integral de la Familia de Baja California otorgan su conformidad. En este caso, los acuerdos que se tomen se denunciarán al Juez, y éste, oyendo al Ministerio Público y al Sistema para el Desarrollo Integral de la Familia, dará su aprobación, si no se lesionan los derechos de las personas menores de dieciocho años de edad.
 
@@ -9217,7 +9217,7 @@ Las particiones pueden rescindirse o anularse por las mismas causas que las obli
 
 ###### ARTICULO 1676.
 
-El heredero preterido tiene derecho de pedir la nulidad de la partición. Decretada ésta, se hará una nueva partición para que, perciba la parte que le corresponda.
+El heredero preterido tiene derecho de pedir la nulidad de la partición. Decretada ésta, se hará una nueva partición para que perciba la parte que le corresponda.
 
 ###### ARTICULO 1677.
 
@@ -9301,17 +9301,21 @@ Si no se obtiene la ratificación, el otro contratante tendrá derecho de exigir
 
 DEL CONSENTIMIENTO
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 1690.
 
-El consentimiento puede ser expreso o tácito. Es expreso cuando se manifiesta verbalmente, por escrito o por signos inequívocos. El tácito resultará de hechos o de actos que lo presupongan o que autoricen a presumirlo, excepto en los casos en que por Ley o por convenio la voluntad deba manifestarse expresamente.
+El consentimiento puede ser expreso o tácito. Es expreso cuando se manifiesta verbalmente, por escrito, por medios electrónicos, ópticos o cualquier otra tecnología o por signos inequívocos. El tácito resultará de hechos o de actos que lo presupongan o que autoricen a presumirlo, excepto en los casos en que por Ley o por convenio la voluntad deba manifestarse expresamente.
 
 ###### ARTICULO 1691.
 
 Toda persona que propone a otra la celebración de un contrato fijándole un plazo para aceptar, queda ligada por su oferta hasta la expiración del plazo.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 1692.
 
-Cuando la oferta se haga a una persona presente, sin fijación de plazo para aceptarla, el autor de la oferta queda desligado si la aceptación no se hace inmediatamente. La misma regla se aplicará a la oferta hecha por teléfono.
+Cuando la oferta se haga a una persona presente, sin fijación de plazo para aceptarla, el autor de la oferta queda desligado si la aceptación no se hace inmediatamente. La misma regla se aplicará a la oferta hecha por teléfono, medios electrónicos, ópticos, o de cualquier otra tecnología que permita la expresión oferta y la aceptación de esta en forma inmediata.
 
 ###### ARTICULO 1693.
 
@@ -9333,9 +9337,11 @@ Si al tiempo de la aceptación hubiere fallecido el proponente, sin que el acept
 
 El proponente quedará libre de su oferta cuando la respuesta que reciba no sea una aceptación lisa y llana, sino que importe modificación de la primera. En este caso la respuesta se considerará como nueva proposición que se regirá por lo dispuesto en los artículos anteriores.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 1698.
 
-La propuesta y aceptación hechas por telégrafo producen efectos si los contratantes con anterioridad habían estipulado por escrito esta manera de contratar, y sí los originales de los respectivos telegramas contienen las firmas de los contratantes y los signos convencionales establecidos entre ellos.
+La propuesta y aceptación hechas por telégrafo medios electrónicos, ópticos o de cualquier otra tecnología, sí los originales de los respectivos telegramas, o documentos digitales contienen las firmas de los contratantes y los signos electrónicos o convencionales establecidos entre ellos.
 
 VICIOS DEL CONSENTIMIENTO
 
@@ -9454,6 +9460,14 @@ Cuando se exija la forma escrita para el contrato, los documentos relativos debe
 Si alguna de ellas no puede o no sabe firmar, lo hará otra a su ruego y en el documento se imprimirá la huella digital del interesado que no firmó.
 
 Los contratos, por mutuo, compraventa, hipoteca, préstamos, arrendamiento, de obra a precio alzado, construcción, ampliación, terminación y remodelación de inmuebles o cualquier otro, que celebre el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Gobierno y Municipios del Estado de Baja California, con sus propios asegurados o pensionistas podrán otorgarse en documento privado, sin los requisitos de testigos o ratificación de firma.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+Para los efectos de este artículo se tendrá por cumplida mediante la utilización de medios electrónicos, ópticos o de cualquier otra tecnología, siempre que la información generada o comunicada en forma íntegra, a través de dichos medios sea atribuible a las personas obligadas y resulten accesibles para su ulterior consulta.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+En los actos en que la ley establezca como requisito que un acto jurídico deba otorgarse en instrumento ante fedatario público, éste y las partes obligadas podrán generar, enviar, recibir, archivar o comunicar la información que contenga los términos exactos en que las partes han decidido obligarse, mediante la utilización de medios electrónicos, ópticos o de cualquier otra tecnología, en cuyo caso el fedatario público deberá hacer constar en el propio instrumento los elementos a través de los cuales se atribuya dicha información a las partes y conservar bajo su resguardo una versión íntegra de la misma para su ulterior consulta otorgando instrumento de conformidad con la legislación aplicable.
 
 DIVISION DE LOS CONTRATOS
 
@@ -9815,7 +9829,7 @@ I. Cuando se vulnera o menoscaba de manera ilegítima la libertad o la integrida
 
 II. Cuando ocurre la pérdida o detrimento en la relación padre e hijo, o la intimidad entre cónyuges o de quienes cohabiten en unión libre;
 
-III. Cuando una persona sea víctima de la discriminación, humillación, acoso sexual y malos tratos por razón de su origen étnico, sexo o preferencia sexual, o por razón de algún impedimento físico;
+III. Cuando una persona sea víctima de la discriminación, humillación, acoso sexual o malos tratos por razón de su origen étnico, sexo o preferencia sexual, o por razón de algún impedimento físico;
 
 IV. Cuando una persona sea víctima del abuso de un derecho.
 
@@ -15798,3 +15812,7 @@ P.O. 18 DE NOVIEMBRE DE 2005.
 PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presentes reformas.
+
+P.O. 25 DE NOVIEMBRE DE 2005.
+
+ÚNICO.- Las presentes reformas, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
