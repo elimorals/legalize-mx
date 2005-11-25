@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2004-12-03"
+last_updated: "2005-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO PENAL DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 2005.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -2237,9 +2237,11 @@ CONCEPTO DE DAÑO MORAL. Por daño moral se entiende: El sufrimiento que el deli
 
 AUTONOMÍA DEL DAÑO MORAL. Cuando un hecho u omisión ilícito produzca un daño moral, el responsable tendrá obligación de repararlo mediante una indemnización en dinero, con independencia de que se cause o no se cause daño material.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 120.
 
-PRESUNCIÓN JURIS TANTUM DE DAÑO MORAL. Salvo prueba en contrario, se considera que siempre existe daño moral en los delitos siguientes: Corrupción de menores si se depravó sexualmente a menor de 12 años de edad. Actos de corrupción de menores de 12 años de edad, realizados reiteradamente por los que adquieran cualquier hábito vicioso. Violencia Intrafamiliar. Violación con o sin circunstancias calificativas, consumada o en grado de tentativa. Violación equiparada con o sin circunstancias calificativas; Violación impropia mediante violencia, que recaiga sobre incapaz con o sin circunstancias calificativas. Cualquiera de los supuestos que se previenen en el artículo 313. Rapto mediante violencia. Atentado al pudor mediante violencia. Difamación. Calumnia. Privación de la libertad, secuestro, secuestro equiparado o simulado; ya sea consumados o en grado de tentativa. Asalto. Extorsión. Robo con violencia, consumado o en grado de tentativa. Homicidio, se consume o en grado de tentativa y cualquier otro delito contra la vida; salvo el que se comete bajo emoción violenta. Lesiones cualquiera que sea su gravedad, con o sin circunstancias calificativas.
+PRESUNCIÓN JURIS TANTUM DE DAÑO MORAL. Salvo prueba en contrario, se considera que siempre existe daño moral en los delitos siguientes: Corrupción de menores si se depravó sexualmente a menor de 16 años de edad. Actos de corrupción de menores de 16 años de edad. Violencia Intrafamiliar. Violación con o sin circunstancias calificativas, consumada o en grado de tentativa. Violación equiparada con o sin circunstancias calificativas; Violación impropia mediante violencia, que recaiga sobre incapaz con o sin circunstancias calificativas. Cualquiera de los supuestos que se previenen en el artículo 311. Rapto y equiparable al rapto. Atentados al pudor propio e impropio. Estupro. Difamación. Calumnia. Privación de la libertad, secuestro, secuestro equiparado o simulado; ya sea consumados o en grado de tentativa. Asalto. Extorsión. Robo con violencia, consumado o en grado de tentativa. Homicidio, se consume o en grado de tentativa y cualquier otro delito contra la vida; salvo el que se comete bajo emoción violenta. Lesiones cualquiera que sea su gravedad, con o sin circunstancias calificativas.
 
 ###### ARTÍCULO 271.
 
@@ -2287,7 +2289,7 @@ Lo que se previene en el párrafo anterior, no excluye la condena por el importe
 
 CONDENA POR DAÑO MORAL. Salvo los casos en que la ley presuma el daño moral, éste deberá probarse. El importe de la indemnización se fijará por el juzgador con base en el artículo 118 y las circunstancias personales del ofendido o víctima.
 
-Cuando el daño moral se presuma legalmente, pero se le omita acreditar: El juzgador se estará al mínimo sancionable que previene el artículo siguiente; a menos que de las circunstancias personales del ofendido o víctima y de las del caso concreto, se deduzca afectación moral superior a la mínima. En tal evento, el juzgador podrá aumentar el monto de la indemnización que imponga hasta la mitad del límite máximo.
+Cuando el daño moral se presuma legalmente, pero se le omita acreditar: El juzgador se estará al mínimo sancionable que previene el artículo siguiente; a menos que de las circunstancias personales del ofendido o víctima y de las del caso concreto, se deduzca afectación moral superior a la mínima. En tal evento, el juzgador podrá aumentar el monto de la indemnización que imponga hasta la mitad del limite máximo.
 
 ###### ARTÍCULO 125.
 
@@ -2579,7 +2581,9 @@ La clausura del establecimiento o la cancelación del permiso, licencia o patent
 
 ## TÍTULO CUARTO. DELITOS DE PELIGRO CONTRA LA SEGURIDAD COLECTIVA
 
-### CAPÍTULO SEGUNDO. CORRUPCIÓN DE MENORES
+### CAPÍTULO SEGUNDO. CORRUPCIÓN DE MENORES E INCAPACES Y PORNOGRAFÍA INFANTIL
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 282.
 
@@ -2662,6 +2666,8 @@ SANCIONES Y FIGURA TÍPICA DEL DELITO CONTRA LA ECOLOGÍA. Se aplicará prisión
 ### CAPÍTULO TERCERO. DELITOS CONTRA LA FILIACIÓN Y EL ESTADO CIVIL
 
 ### CAPÍTULO CUARTO. SUSTRACCIÓN Y TRÁFICO DE MENORES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 292.
 
@@ -2753,39 +2759,57 @@ SANCIONES Y FIGURA TÍPICA DE EXHIBICIONISMO OBSCENO. Se aplicará prisión de t
 
 Si a quien se le hace ejecutar los actos es un menor de dieciséis años de edad: Al sujeto activo se le aplicará prisión de cuatro a diez años y multa. Si el corruptor es ascendiente del menor; o al ejecutar los actos ejercía de cualquier forma autoridad sobre aquel: Las sanciones que señala este artículo serán de un tercio más del mínimo y máximo. Además, y en su caso, se le privará de la patria potestad, tutela o guarda que ejerza.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 300.
 
-SANCIONES Y FIGURAS TÍPICAS DE CORRUPCIÓN DE MENORES. Se aplicará prisión de cuatro a nueve años y multa, a quien: 1) Inicie en la vida sexual a un menor de hasta doce años de edad. 2) Facilite o procure la depravación sexual de un menor de dieciséis años de edad. 3) Induzca a un menor de dieciséis años de edad a la práctica de la mendicidad, con el ánimo de explotarlo. 4) Facilite en forma reiterada a un menor de dieciséis años de edad la ingesta de bebidas alcohólicas hasta que alcance estado de ebriedad. 5) Facilite a un menor de dieciséis años de edad el uso de estupefacientes o la prostitución. 6) Incite, instigue o induzca a un menor de dieciséis años de edad a formar parte de una asociación delictuosa o a cometer cualquier delito.
+SANCIONES Y FIGURAS TÍPICAS DE CORRUPCIÓN DE MENORES E INCAPACES. Se aplicará prisión de cuatro a nueve años y multa, a quien lleve acabo (sic) respecto de un menor de hasta 16 años de edad alguna de las siguientes conductas: 1) Lo inicie en la vida sexual. 2) Facilite o procure la depravación sexual. 3) Lo induzca a la práctica de la mendicidad, con el ánimo de explotarlo. 4) Facilite en forma reiterada a la ingesta de bebidas alcohólicas hasta que alcance estado de ebriedad. 5) Facilite el uso de estupefacientes o la prostitución. 6) Lo incite, instigue o induzca a formar parte de una asociación delictuosa o a cometer cualquier delito.
 
 Si el corruptor es ascendiente del menor; o al ejecutar los actos ejercía de cualquier forma autoridad sobre aquel: Las sanciones que señala este artículo serán de un tercio más del mínimo y máximo. Además, y en su caso, se le privará de la patria potestad, tutela o guarda que ejerza.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 301.
 
-SANCIONES Y FIGURA TÍPICA DE UTILIZACIÓN DE MENORES PARA PORNOGRAFÍA INFANTIL. Se aplicará prisión de siete a once años y multa: A quien utilice a un menor de dieciséis años de edad para fotografiarlo o filmarlo por cualquier medio; o publicar o difundir imágenes por cualquier medio; en uno o más actos pornográficos en los que el menor aparezca. La prisión máxima se aumentará a quince años, si se difunde o publica cualquiera de los actos.
+SANCIONES Y FIGURA TÍPICA DE PORNOGRAFÍA INFANTIL Y DE INCAPACES. Se aplicará prisión de siete a once años y multa: A quien procure, obligue, facilite, induzca por cualquier medio o utilice a un menor de dieciséis años de edad o a una persona sin capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión; o por cualquier circunstancia personal no pueda resistirlo, para realizar actos de exhibicionismo corporal o sexuales, con el propósito de videograbarlo, audio grabarlo, fotografiarlo, filmarlo por cualquier medio. La prisión máxima se aumentará a quince años, si se difunde o publica cualquiera de los actos.
 
-Las sanciones que señala este artículo serán de un tercio más del mínimo y máximo: Si el corruptor es ascendiente del menor; o al ejecutar los actos ejercía de cualquier forma autoridad sobre el menor. Además, y en su caso, se le privará de la patria potestad, tutela o guarda que ejerza.
+Las sanciones que señala este artículo serán de un tercio más del mínimo y máximo, si el corruptor es ascendiente del menor o incapaz o si al ejercitar los actos, ejercía de cualquier forma autoridad sobre el menor o incapaz. Además y, en su caso, se le privará de la patria potestad, tutela o guarda que ejerza.
+
+Para los efectos de este Código se considera acto de pornografía a toda representación realizada por cualquier medio, de actividades obscenas sexuales, explícitas, reales o simuladas.
+
+No constituyen pornografía infantil: las fotografías, videograbaciones, audiograbaciones o las imágenes fijas o en movimiento, impresas, plasmadas o que sean contenidas o reproducidas en medios magnéticos, electrónicos o de otro tipo y que constituyan recuerdos familiares, los programas preventivos, educativos o de cualquier índole que diseñen e impartan las instituciones públicas, privadas o sociales que tengan por objeto la educación sexual, educación sobre función reproductiva, la prevención de enfermedades de transmisión sexual o el embarazo de adolescentes.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 302.
 
-SANCIONES Y FIGURAS TÍPICAS DE CORRUPCIÓN DE MENORES CON RESULTADO. Se aplicará prisión de seis a catorce años y multa, cuando los actos de corrupción a que se refiere el artículo 300: Se realicen reiteradamente sobre el mismo menor de edad y por ello se vuelva alcohólico o adicto a estupefacientes o sustancias tóxicas; se dedique a la prostitución o a prácticas homosexuales o de depravación sexual; o forme parte de una asociación delictuosa.
+SANCIONES Y FIGURAS TÍPICAS DE CORRUPCIÓN DE MENORES E INCAPCES (SIC) CON RESULTADO. Se aplicará prisión de seis a catorce años y multa, cuando los actos de corrupción a que se refiere el artículo 300; se realicen reiteradamente sobre el mismo menor de edad o a una persona sin capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión; o por cualquier circunstancia personal, no pueda resistirlo y por ello se vuelva alcohólico o adicto a estupefacientes o sustancias tóxicas; se dedique a la prostitución.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 303.
 
-SANCIONES Y FIGURA TÍPICA DE MANTENER LA CORRUPCIÓN DE UN MENOR. Se aplicará prisión de seis a catorce años y multa: A quien mantenga a un menor de dieciséis años de edad en cualquiera de los estados de corrupción que señala el artículo anterior.
+SANCIONES Y FIGURA TÍPICA DE MANTENER LA CORRUPCIÓN DE UN MENOR INCAPAZ. Se aplicará de seis a catorce años de prisión y multa: A quien mantenga a un menor de dieciséis años o a una persona sin capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión o por cualquier circunstancia personal no pueda resistirlo en cualquiera de los estados de corrupción que señala en artículo anterior.
 
 Si el corruptor es ascendiente o ejerce autoridad sobre el menor, además de las sanciones que señala este artículo, se le privará de la patria potestad, tutela o guarda que ejerza.
 
-> <small>(F. DE E., P.O. 10 DE AGOSTO DE 1999)</small>
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 304.
 
-SANCIONES Y FIGURA TÍPICA DE EMPLEO DE MENORES EN CENTROS DE VICIO. Se aplicará prisión de seis meses a tres años, multa y, en su caso, suspensión del giro, si es el propietario; hasta por seis meses: A quien emplee a un menor de dieciocho años de edad en cantina, taberna, bar o centro de vicio.
+SANCIONES Y FIGURA TÍPICA DE EMPLEO DE MENORES E INCAPACES EN CENTROS DE VICIO Y LUGARES DE RIESGO. Se aplicará prisión de seis meses a tres años y multa: A quien emplee o subcontrate a un menor de dieciocho años de edad o a persona sin capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión; o por cualquier circunstancia personal no pueda resistirlo, en cantina, taberna, bar o centro de vicio. Si los actos delictivos mencionados son cometidos por el propietario o titular de los derechos de operación del establecimiento, se aplicará también la suspensión del giro hasta por seis meses.
+
+Igual sanción se impondrá a quien emplee o subcontrate a menores de dieciocho años o persona sin capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión o por cualquier circunstancia personal no pueda resistirlo, para la ejecución de trabajos que sean: contrarios a la moral o a las buenas costumbres, peligrosos, insalubres, subterráneos o submarinos, excesivos o riesgosos para su salud y sano desarrollo físico, así como los nocturnos que se ejecuten después de las veintidós horas en establecimientos no industriales.
+
+Para los efectos de este Código se considerará como empleado en la cantina, taberna, bar o centro de vicio, a la persona menor de dieciocho años de edad que por un salario, por la sola comida, por comisión de cualquier índole o por cualquier otro emolumento o gratuitamente, preste sus servicios en tal lugar.
 
 Si el sujeto pasivo es menor de dieciséis años de edad, la pena máxima de prisión será de seis años, además de la multa.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 305.
 
-SANCIÓN GENÉRICA PARA LOS DELITOS DE CORRUPCIÓN DE MENORES. Los delincuentes a que se refiere este capítulo, quedarán inhabilitados para ser tutores o curadores.
+SANCIÓN GENÉRICA PARA LOS DELITOS DE CORRUPCIÓN DE MENORES E INCAPACES. Los delincuentes a que se refiere este capítulo, quedarán inhabilitados para ser tutores o curadores.
 
 ###### ARTÍCULO 306.
 
@@ -2799,13 +2823,21 @@ III. MANTENIMIENTO DE LUGARES PARA LA PROSTITUCIÓN. A quien regentee, administr
 
 IV. COACCIÓN PARA LA PROSTITUCIÓN. A quien por cualquier medio retenga a una persona en la prostitución contra su voluntad.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 307.
 
-PENALIDAD Y FIGURA TÍPICA DE TRATA DE PERSONAS. Se aplicarán de cuatro a nueve años de prisión y multa: A quien facilite, consiga o entregue a una persona para que ejerza la prostitución sujeta a explotación, dentro o fuera del estado. La pena máxima se agravará un tercio más, si se emplea violencia o el inculpado se vale de una función pública que tenga; o el sujeto pasivo es menor de dieciocho años edad. Más si éste es menor de dieciséis años de edad, al sujeto activo se le aplicarán de siete a catorce años de prisión y multa.
+PENALIDAD Y FIGURA TÍPICA DE TRATA DE PERSONAS, MENORES E INCAPACES. Se aplicará de cuatro a nueve años de prisión y multa. A quien facilite, promueva, consiga o entregue a una persona para someterla a cualquier forma de explotación, ya sea sexual, trabajos o servicios impuestos de manera coercitiva, dentro o fuera del Estado.
+
+La pena máxima se agravará un tercio más: Si se emplea violencia o el sujeto pasivo es menor de dieciocho años de edad, persona sin capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión o por cualquier circunstancia personal no pueda resistirlo. Más si este es menor de dieciséis años de edad, al sujeto activo se le aplicarán de siete a catorce años de prisión y multa.
+
+Se aplicará de tres a seis años de prisión y multa: A quien a sabiendas de que se trata de una persona menor de dieciséis años de edad o persona sin capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión o por cualquier circunstancia personal no pueda resistirlo, haya solicitado y consumado actos a que se refiere el primer párrafo de este artículo.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 308.
 
-PENALIDAD Y FIGURA TÍPICA DE LENOCINIO CON MENORES. Se aplicará prisión de siete a catorce años y multa: A quien explote el cuerpo de un menor de dieciséis años de edad, por medio del comercio carnal.
+PENALIDAD Y FIGURA TÍPICA DE LENOCINIO CON MENORES O INCAPACES. Se aplicará prisión de siete a catorce años y multa: A quien explote por medio del comercio carnal a un menor de dieciséis años de edad o personal sin capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión o por cualquier circunstancia personal no pueda resistirlo.
 
 ## TÍTULO ÚNICO. DELITOS CONTRA EL ORDEN FAMILIAR
 
@@ -2889,7 +2921,7 @@ VI. USURPACIÓN DEL ESTADO CIVIL O LA FILIACIÓN DE OTRO. Usurpe el estado civil
 
 ###### ARTÍCULO 319.
 
-SANCIONES Y FIGURA TÍPICA DE SUSTRACCIÓN DE MENORES POR FAMILIARES. Se aplicará prisión de uno a cuatro años y multa: Al ascendiente o pariente consanguíneo hasta el cuarto grado de un menor de doce años, que lo sustraiga sin causa justificada; o sin orden de autoridad competente; de la custodia de quien legítimamente la posea; o bien lo retenga sin la voluntad de aquél. Lo anterior procederá aún cuando la custodia se comparta, si la sustracción es sin consentimiento de alguno de quienes la posean.
+SANCIONES Y FIGURA TÍPICA DE SUSTRACCIÓN DE MENORES POR FAMILIARES. Se aplicará prisión de uno a cuatro años y multa: Al ascendiente o pariente consanguíneo hasta el cuarto grado de un menor de dieciséis años, que lo sustraiga sin causa justificada; o sin orden de autoridad competente, de la custodia de quien legítimamente la posea; o bien lo retenga sin la voluntad de aquél. Lo anterior procederá aun cuando la custodia se comparta, si la sustracción es sin consentimiento de alguno de quienes la posean.
 
 Si se reintegra al menor antes de tres días sin causarle ningún daño, se aplicará prisión de seis meses a un año y multa.
 
@@ -3143,6 +3175,8 @@ Lo que se prevé en la fracción anterior se podrá apreciar desde que se ejerci
 
 ### CAPÍTULO TERCERO. ESTUPRO
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 357.
 
 FIGURA TÍPICA DE ABORTO. Comete aborto quien causa la muerte al producto de la concepción en cualquier momento del embarazo.
@@ -3183,6 +3217,8 @@ IV. ALTERACIONES GENÉTICAS O CONGÉNITAS GRAVES. Cuando se practique con el con
 
 ### CAPÍTULO CUARTO. ATENTADOS AL PUDOR
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 362.
 
 SANCIONES Y FIGURA TÍPICA DE ABANDONO DE INCAPAZ POR INCUMPLIMIENTO DEL DEBER JURÍDICO DE CUIDARLO. Se aplicará prisión de seis meses a cuatro años y multa: A quien abandone u omita asistir a una persona incapaz de valerse por sí misma, teniendo la obligación de cuidarla o de asistirla.
@@ -3199,9 +3235,11 @@ Se aplicarán iguales sanciones: A quien sin poder dar el auxilio, omita pedirlo
 
 SANCIONES Y FIGURA TÍPICA DE ABANDONO DE ATROPELLADOS. Se aplicará prisión de tres días y tres años y multa: A quien atropelle a una persona y la deje en estado de abandono, sin prestarle o procurarle asistencia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 365.
 
-SANCIONES Y FIGURA TÍPICA DE PELIGRO DE CONTAGIO. Se aplicará prisión de tres meses a tres años y multa: A quien con conocimiento de que padece algún mal grave y transmisible, ponga a otro en peligro de contagio.
+SANCIONES Y FIGURA TÍPICA DE PELIGRO DE CONTAGIO. Se aplicará prisión de tres meses a tres años y multa: A quien con conocimiento de que padece algún mal grave y transmisible, ponga a otro en peligro de contagio. Si el sujeto pasivo es menor de 16 años, la pena máxima de prisión se incrementará a 5 años además de la multa.
 
 Además de la pena de prisión, se le aplicarán las medidas de seguridad que garanticen evitar el contagio de dicho padecimiento por el sujeto activo, comunicándolo a la autoridad de salud correspondiente para que ejecute esas medidas.
 
@@ -3221,7 +3259,15 @@ SANCIONES Y FIGURA TÍPICA DE DISPARO DE ARMA DE FUEGO. Se aplicará prisión de
 
 ## TÍTULO TERCERO. DELITOS CONTRA LA LIBERTAD Y SEGURIDAD SEXUAL
 
-### CAPÍTULO PRIMERO. INJURIAS
+### CAPÍTULO QUINTO. ACOSO SEXUAL
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+ARTÍCULO 399 BIS. SANCIONES Y FIGURA TIPICA DE ACOSO SEXUAL. Se aplicará de uno a tres años de prisión y multa, a quien con fines lascivos asedie, acose o solicite favores de naturaleza sexual a cualquier persona, para sí o para un tercero.
+
+Será punible el acoso sexual cuando el sujeto activo pueda causar un daño personal, laboral, educativo, profesional o patrimonial.
+
+Las sanciones mínima y máxima se aumentarán en un tercio más si el sujeto activo fuere servidor público y utilizare los medios propios del cargo, y será destituido e inhabilitado para ocupar empleo, cargo o comisión en el sector público por un período de uno a tres años.
 
 ###### ARTÍCULO 368.
 
@@ -3245,7 +3291,7 @@ La pena máxima se reducirá a un tercio, cuando el autor o partícipe pongan es
 
 SANCIONES Y FIGURA TÍPICA EQUIPARADA A LA PRIVACIÓN DE LIBERTAD. Se aplicará prisión de seis meses a nueve años y multa, al particular que por cualquier medio constriña a una persona a prestarle trabajos o servicios personales sin la debida retribución; o celebre un contrato que ponga en condiciones de servidumbre a otro.
 
-### CAPÍTULO SEGUNDO. DIFAMACIÓN
+### CAPÍTULO PRIMERO. INJURIAS
 
 ###### ARTÍCULO 371.
 
@@ -3299,7 +3345,7 @@ SANCIONES Y FIGURA TÍPICA DE SECUESTRO SIMULADO. Se aplicará de cinco a diez a
 
 La misma pena se aplicará a cualquiera que participe en la comisión de este delito.
 
-### CAPÍTULO TERCERO. CALUMNIA
+### CAPÍTULO SEGUNDO. DIFAMACIÓN
 
 ###### ARTÍCULO 376.
 
@@ -3307,7 +3353,9 @@ SANCIONES Y FIGURA TÍPICA DE AMENAZAS. Se aplicará prisión de un mes a un añ
 
 Cuando el activo y el pasivo de amenazas habiten en el mismo domicilio: Se aumentará en un tercio el mínimo y el máximo de las sanciones del párrafo anterior. Y se aplicará también hasta por tres años, la prohibición de ir al lugar donde reside el ofendido.
 
-### CAPÍTULO CUARTO. DISPOSICIONES COMUNES PARA LOS DELITOS DE INJURIAS, DIFAMACIÓN Y CALUMNIA
+### CAPÍTULO TERCERO. CALUMNIA
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 377.
 
@@ -3315,7 +3363,7 @@ SANCIONES Y FIGURA TÍPICA DE ALLANAMIENTO DE MORADA. Se aplicará prisión de u
 
 Este delito se perseguirá por querella de parte.
 
-### CAPÍTULO PRIMERO. ROBO
+### CAPÍTULO CUARTO. DISPOSICIONES COMUNES PARA LOS DELITOS DE INJURIAS, DIFAMACIÓN Y CALUMNIA
 
 ###### ARTÍCULO 378.
 
@@ -3329,7 +3377,7 @@ SANCIONES Y FIGURA TÍPICA DE ASALTO TUMULTUARIO A UNA POBLACIÓN. Se aplicará 
 
 PENALIDAD AGRAVADA A LOS CABECILLAS O JEFES. Se aplicará prisión de diez a veinte años y multa: A los cabecillas o jefes de los salteadores.
 
-### CAPÍTULO SEGUNDO. ABIGEATO
+### CAPÍTULO PRIMERO. ROBO
 
 ###### ARTÍCULO 381.
 
@@ -3373,7 +3421,7 @@ Se aumentarán en una mitad más los mínimos y máximos de las sanciones: Si en
 
 ## TÍTULO CUARTO. DELITOS CONTRA EL HONOR
 
-### CAPÍTULO TERCERO. FIGURAS COMUNES AL ROBO Y ABIGEATO
+### CAPÍTULO SEGUNDO. ABIGEATO
 
 ###### ARTÍCULO 384.
 
@@ -3417,57 +3465,63 @@ Las mismas sanciones se aplicarán: A quien ilícitamente introduzca en forma to
 
 Se incrementará en un tercio el mínimo y el máximo de las sanciones de los párrafos anteriores, cuando concurra cualquiera de las circunstancias calificativas del artículo anterior.
 
-### CAPÍTULO CUARTO. ABUSO DE CONFIANZA
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+### CAPÍTULO TERCERO. FIGURAS COMUNES AL ROBO Y ABIGEATO
 
 ###### ARTÍCULO 389.
 
 SANCIONES Y FIGURAS TÍPICAS DE RAPTO. Se aplicará prisión de seis meses a seis años y multa: A quien por medio de violencia física o moral, o del engaño, sustraiga o retenga a una persona para satisfacer algún deseo erótico o para casarse.
 
-Las mismas penas se aplicarán: A quien con cualquiera de los fines del párrafo anterior, por medio de la seducción sustraiga o retenga a una mujer menor de dieciséis años de edad.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+Las mismas penas se aplicarán: A quien con cualquiera de los fines del párrafo anterior, por medio de la seducción o engaño sustraiga o retenga a un menor de dieciséis años o una persona sin capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión o por cualquier circunstancia personal no pueda resistirlo.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 390.
 
-PRESUNCIÓN LEGAL DE SEDUCCIÓN. Por el sólo hecho de ser menor de dieciséis años de edad, la mujer que voluntariamente siga a quién la sustrae o retiene, se presumirá que este empleó la seducción, salvo prueba en contrario.
+PRESUNCIÓN LEGAL DE SEDUCCIÓN. Por el sólo hecho de ser menor de dieciséis años de edad, el sujeto pasivo que voluntariamente siga a quien lo sustrae o retiene, se presumirá que el sujeto activo empleó la seducción salvo prueba en contrario.
 
 ###### ARTÍCULO 391.
 
-EXTINCIÓN DE ACCIÓN PENAL POR MATRIMONIO. Cuando el raptor se case con la ofendida, no se aplicará pena ni a éste ni a sus copartícipes; salvo que se declare nulo el matrimonio y el juicio se inicie dentro de un plazo de seis meses de que se contrajo matrimonio.
+(DEROGADO, P.O. 25 DE NOVIEMBRE DE 2005)
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 392.
 
-CONDICIÓN DE PROCEDIBILIDAD PARA LA PERSECUCIÓN DEL RAPTO. No se procederá contra el raptor sino por querella de la mujer ofendida; pero si es menor de dieciséis años de edad, el rapto se perseguirá por querella del representante legal del menor o, en su defecto, por la dependencia que se encargue de los asuntos del menor o de la familia.
+CONDICIÓN DE PROCEDIBILIDAD PARA LA PERSECUCIÓN DEL RAPTO. No se procederá contra el raptor sino por querella de la mujer ofendida; pero si es menor de dieciséis años de edad, el rapto se perseguirá de oficio.
 
 ###### ARTÍCULO 393.
 
 SANCIONES Y FIGURA TÍPICA EQUIPARADA AL RAPTO. Se aplicará prisión de dos a ocho años y multa: A quien para satisfacer un deseo erótico sustraiga o retenga por cualquier medio a una persona de hasta doce años de edad, sea cual fuere su sexo; o que por cualquier causa no pueda conducirse voluntariamente o resistir la conducta delictiva. Este delito se perseguirá de oficio.
 
-### CAPÍTULO QUINTO. FRAUDE
+### CAPÍTULO CUARTO. ABUSO DE CONFIANZA
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTÍCULO 394.
 
-SANCIONES Y FIGURA TÍPICA DE ESTUPRO. Se aplicará prisión de un mes a tres años y multa: A quien por medio de la seducción o el engaño tenga cópula por vía vaginal con una mujer casta y honesta, menor de dieciséis años de edad y mayor de doce.
+SANCIONES Y FIGURA TÍPICA DE ESTUPRO. Se aplicará prisión de un mes a tres años y multa: A quien por medio de la seducción o el engaño tenga cópula con un menor de dieciséis años de edad y mayor de doce.
 
-La castidad y la honestidad se presumen, salvo prueba en contrario.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 395.
 
-CONDICIÓN DE PROCEDIBILIDAD PARA PERSEGUIR EL DELITO DE ESTUPRO. Sólo se procederá contra el estuprador por querella de la mujer ofendida o de sus representantes legítimos y si no los tuviera, por la dependencia que se encargue legalmente de los asuntos del menor o de la familia.
-
-Cuando el delincuente se case con la ofendida se extinguirá la acción penal si el juicio no se inicia dentro de un plazo de seis meses de contraer matrimonio o éste no se declara nulo.
+CONDICIÓN DE PROCEDIBILIDAD PARA PERSEGUIR EL DELITO DE ESTUPRO. Sólo se procederá contra el estuprador por querella del ofendido o de sus representantes legítimos y si no los tuviera, por la dependencia que se encargue legalmente de los asuntos del menor o de la familia.
 
 ###### ARTÍCULO 396.
 
 AMPLIACIÓN DE LA REPARACIÓN DEL DAÑO POR CONSECUENCIAS ESPECÍFICAS DE VIOLACIÓN O ESTUPRO. Si como consecuencia de la violación o del estupro hay descendencia, la reparación del daño comprenderá, además de lo que señala este código, la ministración de alimentos al hijo en los términos de la ley civil.
 
-### CAPÍTULO SEXTO. ADMINISTRACIÓN FRAUDULENTA
+### CAPÍTULO QUINTO. FRAUDE
 
 ###### ARTÍCULO 397.
 
-SANCIONES Y FIGURAS TÍPICAS DE ATENTADOS AL PUDOR PROPIO. Se aplicará de tres meses a tres años de prisión y multa: A quien sin el propósito de llegar a la cópula y sin consentimiento de una persona de cualquier sexo, mayor de 12 años de edad, ejecute en ella o la haga ejecutar un acto erótico.
+SANCIONES Y FIGURAS TÍPICAS DE ATENTADOS AL PUDOR PROPIO. Se aplicará de cinco meses a cuatro años de prisión y multa: A quien sin el propósito de llegar a la cópula y sin consentimiento de una persona de cualquier sexo, mayor de 12 años de edad, ejecute en ella o la haga ejecutar un acto erótico.
 
-Si se hiciere uso de la violencia física o moral suficiente para intimidar al ofendido y cometer el delito, se incrementará en una mitad más las sanciones mínima y máxima que señala el párrafo anterior.
+Se aplicarán las mismas sanciones si el sujeto pasivo es una persona sin capacidad de comprender el significado del hecho de decidir conforme a esa comprensión o por cualquier circunstancia personal no pueda resistirlo.
+
+Si se hiciere uso de la violencia física o moral suficiente para intimidar al ofendido y cometer el delito, se incrementará en una mitad más las sanciones mínima y máxima.
 
 ###### ARTÍCULO 398.
 
@@ -3481,23 +3535,27 @@ Si se emplea violencia física o moral suficiente para intimidar a la víctima y
 
 CONDICIÓN DE PROCEDIBILIDAD PARA LA PERSECUCIÓN DE ALGUNOS DELITOS DE ATENTADOS AL PUDOR. Los delitos de atentados al pudor propio o impropio; con excepción de cuando se emplee la violencia; sólo se perseguirán por querella del ofendido o de sus representantes legítimos. Y si no los tuviere: Por la dependencia que se encargue legalmente de los asuntos del menor o de la familia, si así lo estima conveniente a los intereses del ofendido. Tratándose de atentados al pudor impropio, sólo los representantes legítimos o la dependencia que se encargue de los asuntos del menor o de la familia, podrá otorgar el perdón.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+### CAPÍTULO SEXTO. ADMINISTRACIÓN FRAUDULENTA
+
 ### CAPÍTULO SÉPTIMO. USURA
 
 > <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
 
-### CAPÍTULO OCTAVO. DESPOJO
-
 ## TÍTULO QUINTO. DELITOS CONTRA EL PATRIMONIO
 
-### CAPÍTULO NOVENO. DAÑOS
-
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2004)</small>
+### CAPÍTULO OCTAVO. DESPOJO
 
 ###### ARTÍCULO 400.
 
 FIGURA TÍPICA Y SANCIONES DE INJURIAS. Injuria es toda conducta que tiene como fin ofender o manifestar desprecio a otro.
 
 A quien cometa el delito de injurias: Se le aplicará prisión de tres días a un año y multa.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+ARTÍCULO 400 BIS. CONDICIÓN DE PROCEDIBILIDAD PARA LA PRESECUCIÓN DEL ACOSO SEXUAL. No se procederá contra el sujeto activo sino por querella de la persona ofendida.
 
 ###### ARTÍCULO 401.
 
@@ -3513,15 +3571,15 @@ CAUSAS DE EXCEPCIÓN AL DELITO DE DIFAMACIÓN. No se considera difamatoria la co
 
 ###### ARTÍCULO 404.
 
-SANCIONES Y FIGURA TÍPICA DE CALUMNIA. Se aplicará prisión de uno a cuatro años y multa: A quien impute a otro un hecho determinado o indeterminado que la ley califique como delito, si no le constó el hecho; o sabe que es falso o es inocente la persona a quien se imputa.
-
-Se exceptúa del primer supuesto del párrafo anterior, cuando la persona a quién no le constó el hecho, presente demanda, denuncia o querella del mismo ante autoridad competente. Tampoco se considera calumniosa la comunicación cuando se haga sólo con el fin de aconsejar o prevenir en privado; se informe por medio público de difusión autorizado la comunicación de otro y ésta no se refiera a la vida privada, y en los demás casos de excepción que la ley establezca.
+SANCIONES Y FIGURA TÍPICA DE CALUMNIA. Se aplicará prisión de uno a cuatro años y multa: A quien impute a otro un hecho determinado o indeterminado que la ley califique como delito, si no le constó el hecho; o sabe que es falso o es inocente la persona a quien se imputa. Esta sanción se agravará de dos a seis años de prisión y multa cuando el delito imputado sea el de acoso sexual.
 
 ###### ARTÍCULO 405.
 
 SUSPENSIÓN DE LA ACCIÓN POR CALUMNIAS POR RESOLUCIÓN PENDIENTE EN EL DELITO IMPUTADO. Cuando esté pendiente el proceso que se instruya por el delito imputado, se suspenderá el ejercicio de la acción por calumnia, hasta que se dicte resolución irrevocable que ponga fin al mismo.
 
-### CAPÍTULO DÉCIMO. EXTORSIÓN
+### CAPÍTULO NOVENO. DAÑOS
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 406.
 
@@ -3547,7 +3605,7 @@ La reparación del daño moral en los delitos de injurias, difamación o calumni
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
 
-### CAPÍTULO UNDÉCIMO. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
+### CAPÍTULO DÉCIMO. EXTORSIÓN
 
 ###### ARTÍCULO 410.
 
@@ -3641,7 +3699,7 @@ SANCIONES Y FIGURA TÍPICA EQUIPARADO AL ROBO. Se aplicarán las dos terceras pa
 
 SANCIONES Y FIGURA TÍPICA DE ROBO DE USO. Se aplicará una tercera parte de las sanciones mínima y máxima del robo simple: A quien se apodere de una cosa mueble ajena; sin consentimiento de la persona que legalmente pueda otorgarlo o del legítimo poseedor, con el sólo fin de usarla transitoriamente y no para disponer de ella como dueño.
 
-### CAPÍTULO DUODÉCIMO. ENCUBRIMIENTO POR RECEPTACIÓN
+### CAPÍTULO UNDÉCIMO. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
 
 ###### ARTÍCULO 418.
 
@@ -3650,6 +3708,8 @@ SANCIONES Y FIGURA TÍPICA DE ABIGEATO. Se aplicará prisión de dos a doce año
 Si las conductas se ejecutan sobre tres o más cabezas de ganado menor, la sanción será de uno a nueve años de prisión y multa.
 
 Se equipara al abigeato y se sancionará como tal, el alterar o borrar las marcas de identificación del ganado, con ánimo de apropiárselo en forma indebida.
+
+### CAPÍTULO DUODÉCIMO. ENCUBRIMIENTO POR RECEPTACIÓN
 
 ###### ARTÍCULO 419.
 
@@ -3992,3 +4052,7 @@ P.O. 14 DE SEPTIEMBRE DE 2004.
 P.O. 3 DE DICIEMBRE DE 2004.
 
 UNICO. El presente decreto entrará en vigor a los noventa días hábiles siguientes a su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 25 DE NOVIEMBRE DE 2005.
+
+ÚNICO. El presente Decreto entrará en vigor a los treinta días hábiles siguientes a su publicación en el Periódico Oficial del Gobierno del Estado.
