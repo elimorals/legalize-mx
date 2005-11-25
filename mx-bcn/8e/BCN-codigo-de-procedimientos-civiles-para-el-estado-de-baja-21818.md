@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-civiles-para-el-estado-de-baja-21818"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2005-11-18"
+last_updated: "2005-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 2005.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -85,7 +85,7 @@ ART. 7o.- Pueden ser demandados en reivindicación, aunque no posean la cosa, el
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 8o.- No pueden reivindicarse las cosas que están fuera del comercio; los géneros no determinados al entablarse la demanda; las cosas unidas a otras por vía de accesión, según lo dispuesto por el Código Civil, ni las cosas muebles perdidas o robadas que un tercero haya adquirido de buena fe en almoneda, o de comerciante que en mercado público se dedica a la venta de objetos de la misma especie, sin previo reembolso del precio que se pagó. Se presume que no hay buena fe si de la pérdida o robo se dio aviso pública y oportunamente.
+ART. 8o.- No pueden reivindicarse las cosas que están fuera del comercio; los géneros no determinados al entablarse la demanda; las cosas unidas a otras por vía de accesión, según lo dispuesto por el Código Civil, ni las cosas muebles perdidas o robadas que un tercero haya adquirido de buena fe en almoneda, o de comerciante que en mercado público se dedica a la venta de objetos de la misma especie, sin previo reembolso del precio que se pagó. Se presume que no hay buena fe si de la pérdida o robo se dió aviso pública y oportunamente.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -379,7 +379,7 @@ IV.- Las instituciones, servicios y dependencias de la Administración Pública,
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-V.- El Sistema para el desarrollo integral de la familia de Baja California, por medio de la Procuraduría para la Defensa de las personas menores de dieciocho años de edad y la Familia;
+V.- El Sistema para el desarrollo integral de la familia de Baja California, por medio de la Procuraduría para la Defensa de las personas menores de dieciocho años de edad y la Familia.
 
 VI.- El Ministerio Público.
 
@@ -2015,7 +2015,9 @@ VI.- Reconocimiento o Inspección Judicial;
 
 VII.- Testigos;
 
-VIII.- Fotografías, copias fotostáticas, registros dactiloscópicos y, en general todos aquellos elementos aportados por los descubrimientos de la ciencia;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+VIII.- Fotografías, copias fotostáticas, registros dactiloscópicos y, en general todos aquellos elementos aportados por los descubrimientos de la ciencia, así como los avances tecnológicos;
 
 IX.- Fama Pública;
 
@@ -2822,6 +2824,18 @@ ART. 413.- El dictamen de peritos y la prueba testimonial serán valorizados seg
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
 ART. 414.- Las fotografías, copias fotostáticas y demás pruebas científicas quedan a la prudente calificación del Juez. Las copias fotostáticas sólo harán fe cuando estén certificadas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+Se reconoce como prueba la información generada o comunicada que conste en medios electrónicos, ópticos o en cualquier otra tecnología. Para valorar la fuerza probatoria de dichos mensajes, se estimará primordialmente la fiabilidad del método en que haya sido generada, comunicada, recibida o archivada y en su caso, si es posible atribuir a las personas obligadas el contenido de la información relativa y ser accesibles para su ulterior consulta.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+Cuando la ley requiera que un documento sea conservado y presentado en su forma original, ese requisito quedará satisfecho si se acredita que la información generada, comunicada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología se ha mantenido íntegra e inalterada a partir del momento en que se generó por primera vez en su forma definitiva y ésta pueda ser accesible para su ulterior consulta.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+Para los efectos de este artículo, las partes que generen, envíen, reciban, archiven o comuniquen la información que contenga los términos exactos en que han decidido obligarse, mediante la utilización de medios electrónicos, ópticos o de cualquier otra tecnología, no será necesario la presencia de testigos para tener por cumplida esta formalidad.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -6712,3 +6726,7 @@ P.O. 18 DE NOVIEMBRE DE 2005.
 PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presentes reformas.
+
+P.O. 25 DE NOVIEMBRE DE 2005.
+
+ÚNICO.- Las presentes reformas, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
