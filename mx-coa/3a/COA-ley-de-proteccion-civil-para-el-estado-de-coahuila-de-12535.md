@@ -4,7 +4,7 @@ identifier: "COA-ley-de-proteccion-civil-para-el-estado-de-coahuila-de-12535"
 country: "mx"
 rank: "ley"
 publication_date: "1996-06-11"
-last_updated: "2001-03-20"
+last_updated: "2005-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12535&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PROTECCION CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 11 de junio de 1996.
 
@@ -43,9 +43,11 @@ LEY DE PROTECCION CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
 La presente Ley es de orden público e interés social y tiene por objeto establecer las bases para la prevención, auxilio y apoyo a la población ante la eventualidad de catástrofes, calamidades o desastres públicos en la entidad y sus municipios, estableciéndose para ello el Sistema Estatal de Protección Civil.
 
-###### ARTICULO 2°.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
-Corresponde al Ejecutivo del Estado y a los Ayuntamientos municipales, en el ámbito de su competencia, la aplicación de las disposiciones de la presente Ley.
+###### ARTICULO 2º.
+
+Corresponde al Ejecutivo del Estado y a los ayuntamientos, en el ámbito de su competencia, la aplicación de las disposiciones de la presente ley.
 
 ###### ARTICULO 3°.
 
@@ -79,37 +81,89 @@ I.- Area de Protección, las zonas del territorio de la entidad que han quedado 
 
 II.- Ayuda, la cooperación que se presta a una persona o grupos sociales, según sus necesidades por un periodo determinado o durante una emergencia;
 
-III.- Calamidad, el acontecimiento que puede impactar a un sistema afectable, población y entorno, y transformar su estado normal en un estado de daños que puede llegar al grado de desastre;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
-IV.- Catástrofe, los eventos compuestos por fenómenos destructivos ocasionados por procesos físico-naturales y aquellos provocados por el hombre;
+III.- Alto Riesgo. A la inminente o alta probabilidad de que ocurra una emergencia o desastre;
 
-V.- Contingencia, la situación de riesgo derivada de actividades humanas, tecnológicas o fenómenos naturales que ponga en peligro la vida o integridad de uno o varios grupos de personas o, en su caso, la población de determinado lugar;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
-VI.- Control, el conjunto de actividades tendientes a supervisar, vigilar e inspeccionar la adecuada aplicación de las medidas necesarias para el cumplimiento de las disposiciones establecidas en esta Ley;
+IV. Auxilio. Ayuda proporcionada a través de servicios y bienes materiales encaminados a satisfacer las necesidades de personas o comunidades, sin los cuales podrían sufrir carencias.
 
-VII.- Daño, el menoscabo o deterioro inferido a elementos físicos de la persona o del medio ambiente, como consecuencia del impacto de una calamidad, catástrofe o desastre sobre la población y entorno;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
-VIII.- Desastre, el evento concentrado en tiempo y espacio en el cual la sociedad o una parte de ella, sufre un severo daño y pérdidas para sus miembros, impidiendo con ello el cumplimiento de actividades esenciales para la propia sociedad. Los agentes perturbadores que dan origen a desastres provienen básicamente de fenómenos naturales o de origen humano;
+V.- Calamidad. El acontecimiento que puede impactar a un sistema afectable, población y entorno, y transformar su estado normal en un estado de daños que pueda llegar al grado de desastre;
 
-IX.- Educación para la protección civil, el proceso permanente y sistematizado de aprendizaje que tiene por objeto dar a conocer a la sociedad los conocimientos, métodos, técnicas, actitudes y hábitos para actuar en caso de una calamidad pública o para prestar a la comunidad los servicios que requieran, ante la inminencia o presencia de un desastre;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
-X.- Emergencia, la situación derivada de actividades humanas, tecnológicas, o fenómenos naturales, que por sus implicaciones y consecuencias pueda afectar la vida, los bienes, así como la integridad de uno o varios grupos sociales o, en su caso, de la sociedad en general;
+VI.- Catástrofe. Los efectos compuestos por fenómenos destructivos ocasionados por procesos físico-naturales y aquellos provocados por el hombre;
 
-XI.- Evacuación, la medida de seguridad por alejamiento de la zona de peligro, consistente en la movilización y desalojo de personas que se encuentran dentro de un perímetro que no ofrece márgenes adecuados de seguridad ante la presencia inminente de un agente destructivo;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
-XII.- Protección Civil, el conjunto de disposiciones y medidas tendientes a prevenir, auxiliar y proporcionar apoyo a la población ante la eventualidad de catástrofes, desastres o calamidades públicas;
+VII.- Contingencia. La situación de riesgo derivada de actividades humanas, tecnológicas o fenómenos naturales que pongan en peligro la vida o integridad de uno o varios grupos de personas o, en su caso, la población de determinado lugar;
 
-XIII.- Prevención, el conjunto de disposiciones y medidas anticipadas, que tienen por objeto evitar la realización o, en su caso, ejecución de alguna catástrofe, desastre o calamidad pública.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
-XIV.- Rescate, el operativo de emergencia en zonas afectadas por un desastre, consistente en el retiro y traslado de víctimas, bajo soporte vital básico, desde el foco de peligro hasta la unidad asistencial que ofrezca atenciones y cuidados de mayor alcance;
+VIII.- Control. El conjunto de actividades tendientes a supervisar, vigilar e inspeccionar la adecuada aplicación de las medidas necesarias para el cumplimiento de las disposiciones establecidas en esta ley;
 
-XV.- Riesgo, la posibilidad de perdida de vidas humanas, bienes y capacidad de producción, durante un periodo de tiempo en un determinado lugar o para un peligro en particular;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
-XVI.- Simulacro, la representación de las acciones previamente planeadas para enfrentar los efectos de una calamidad, desastre o contingencias públicas, mediante su simulación;
+IX.- Daño. El menoscabo o deterioro inferido a elementos físicos de la persona o del medio ambiente, como consecuencia del impacto de una calamidad, catástrofe o desastre sobre la población y entorno;
 
-XVII.- Zona de Riesgo, la zona de restricción total, en la que no se permite ningún tipo de actividad, incluyendo los asentamientos humanos y la agricultura, con excepción de actividades de forestación, cercamiento y señalamiento de la misma, así como el mantenimiento y vigilancia correspondiente; y
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
-XVIII.- Atlas Estatal de Riesgos, el catálogo que para tal efecto elabore la Dirección Estatal de Protección Civil, en el que se contenga la relación de personas físicas o morales, que de acuerdo a la naturaleza de los materiales que empleen en sus procesos productivos, representen un alto riesgo.
+X.- Desastre. El evento concentrado en tiempo y espacio en el cual la sociedad o una parte de ella, sufre un severo daño y pérdidas para sus miembros, impidiendo con ello el cumplimiento de actividades esenciales para la propia sociedad. Los agentes perturbadores que dan origen a desastres provienen básicamente de fenómenos naturales o de origen humano;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+XI.- Educación para la protección civil. El proceso permanente y sistematizado de aprendizaje que tiene por objeto dar a conocer a la sociedad los conocimientos, métodos, técnicas, actitudes y hábitos para actuar en caso de una calamidad pública o para prestar a la comunidad los servicios que requieran, ante la inminencia o presencia de un desastre;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+XII.- Emergencia. La situación derivada de actividades humanas, tecnológicas, o fenómenos naturales, que por sus implicaciones y consecuencias puedan afectar la vida, los bienes, así como la integridad de uno o varios grupos sociales o, en su caso, de la sociedad en general;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+XIII.- Establecimientos. A las escuelas, fábricas, oficinas, empresas, almacenes, hoteles, moteles, centros de estudios, circos, centros de salud públicos, centros de salud privados, comercios, oficinas públicas, oficinas privadas, teatros, estadios, plazas de toros, salones de fiestas, así como cualquier otro local público o privado y en general, a cualquier instalación, construcción, servicio u obra en los que debido a su propia naturaleza, al uso al que se determine o a la concurrencia masiva de personas, pueda existir riesgo;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+XIV.- Evacuación. La medida de seguridad por alejamiento de la zona de peligro, consistente en la movilización y desalojo de personas que se encuentran dentro de un perímetro que no ofrece márgenes adecuados de seguridad ante la presencia inminente de un agente destructivo;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+XV.- Grupos Voluntarios. A las organizaciones y asociaciones legalmente constituidos y que cuentan con el reconocimiento oficial, cuyo objeto social sea prestar sus servicios en acciones de protección civil en materia comprometida y altruista, sin recibir remuneración alguna, y que para tal efecto cuentan con los conocimientos, preparación y equipos necesarios e idóneos;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+XVI.- Protección Civil. El conjunto de disposiciones y medidas tendientes a prevenir, auxiliar y proporcionar apoyo a la población ante la eventualidad de catástrofes, desastres o calamidades públicas;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+XVII.- Prevención. El conjunto de disposiciones y medidas anticipadas, que tienen por objeto evitar la realización o, en su caso, ejecución de alguna catástrofe, desastre o calamidad pública;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+XVIII.- Rescate. El operativo de emergencia en zonas afectadas por un desastre, consistente en el retiro y traslado de víctimas, bajo soporte vital básico, desde el foco de peligro hasta la unidad asistencial que ofrezca atenciones y cuidados de mayor alcance;
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+XIX.- Riesgo. La posibilidad de pérdida de vidas humanas, bienes y capacidad de producción, durante un periodo de tiempo en un determinado lugar o para un peligro en particular;
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+XX.- Simulacro. La representación de las acciones previamente planeadas para enfrentar los efectos de una calamidad, desastre o contingencias públicas, mediante su simulación;
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+XXI.- Siniestro. El evento o concurrencia cotidiana en tiempo y espacio en el cual uno o varios miembros de la población sufren un daño violento en su integridad física o patrimonial de tal manera que se afecta su vida normal;
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+XXII.- Zona de Riesgo. La zona de restricción total, en la que no se permita ningún tipo de actividad, incluyendo los asentamientos humanos y la agricultura, con excepción de actividades de forestación, cercamiento y señalamiento de la misma, así como el mantenimiento y vigilancia correspondiente; y
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+XXIII.- Atlas Estatal de Riesgos. El catálogo que para tal efecto elabore la Dirección Estatal de Protección Civil, en el que se contenga la relación de personas físicas o morales, que de acuerdo a la naturaleza de los materiales que empleen en sus procesos productivos, representen un alto riesgo.
 
 ###### ARTICULO 5°.
 
@@ -145,9 +199,9 @@ II.- El Secretario de Gobierno;
 
 III.- El Secretario de Seguridad Pública y Protección Ciudadana;
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
-IV.- El Director de Protección Civil;
+IV.- Director Estatal de Protección Civil;
 
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -273,6 +327,10 @@ IX.- Expedir, en el ámbito de su competencia, los certificados de autorización
 
 X.- Las demás que les confiera esta Ley y otras disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+ARTICULO 12 BIS.- Las autoridades municipales, estatales y federales, en aquellos casos en los cuales se pueda causar daños a la población, instalaciones, construcciones así como bienes y servicios de interés general, podrán solicitar a la Dirección Estatal de Protección Civil la supervisión, inspección y verificación así como de las mismas se desprenda la necesidad de aplicar las medidas generales de Prevención y Protección Civil.
+
 ### CAPITULO TERCERO. DE LAS OBLIGACIONES DE LAS PERSONAS FISICAS Y MORALES EN MATERIA DE PROTECCION CIVIL
 
 ###### ARTICULO 13.
@@ -297,7 +355,9 @@ VI.- Atender las recomendaciones y medidas que establezcan las autoridades compe
 
 VII.- Proporcionar la información que les sea requerida por las autoridades competentes para la integración de planes y programas tendientes a la prevención de siniestros;
 
-VIII.- Prestar apoyo en caso de siniestro en cualquier parte de la entidad, cuando así se les requiera por parte de las autoridades de Protección Civil, con el personal y equipo especializado de que dispongan y que deberá estar registrado en el Atlas Estatal de Riesgos, a que se refiere la fracción XVIII, del artículo 4º. de esta ley; y
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+VIII.- Prestar apoyo en caso de siniestro en cualquier parte de la entidad, cuando así se les requiera por parte de las autoridades de Protección Civil, con el personal y equipo especializado de que dispongan y que deberán estar registrado en el Atlas Estatal de Riesgos, a que se refiere la fracción XXIII, del artículo 4º, de esta ley; y
 
 IX.- Las demás que determinen la presente Ley, las autoridades competentes y otras disposiciones aplicables.
 
@@ -395,6 +455,30 @@ El acta deberá ser firmada por quienes intervinieron y estuvieron presentes en 
 
 El visitador entregará al interesado copia del acta levantada, emplazándole para que dentro de los tres días siguientes comparezca ante la autoridad competente y, en su caso, ofrezca las pruebas que estime convenientes en relación con los hechos u omisiones que se deriven de la inspección.
 
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+ARTICULO 25 BIS.- El acta circunstanciada para su validez deberá contener por lo menos los siguientes requisitos:
+
+I.- La autoridad que la ordena;
+
+II.- El nombre o la razón de aquél a quien se practica la verificación;
+
+III.- El lugar y la fecha;
+
+IV.- El nombre del verificador y los datos del documento con el que se identifica;
+
+V.- El domicilio en el que se constituye;
+
+VI.- El número de oficio de comisión;
+
+VII.- El fundamento legal;
+
+VIII.- El nombre de la persona con quien se entiende la diligencia y los datos del documento con el que se identifica;
+
+IX.- La hora en la que inicia y concluye la diligencia;
+
+X.- El nombre y la firma de las personas que intervinieron en la diligencia.
+
 ###### ARTICULO 26.
 
 En el caso de obstaculización u oposición a la práctica de la diligencia, la autoridad competente podrá solicitar el auxilio de la fuerza pública para efectuar la visita, sin perjuicio de que se apliquen las sanciones que correspondan.
@@ -441,13 +525,89 @@ VI.- La restricción de actividades de cualquier tipo, que sea necesaria para la
 
 VII.- Las demás que determinen esta ley y otras disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+ARTICULO 31 BIS.- Cuando de la supervisión y verificación se desprenda la comisión de un ilícito la Dirección Estatal de Protección Civil informará dicha situación a la autoridad competente.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+### CAPITULO QUINTO BIS. DE LAS MEDIDAS DE PREVENCIÓN Y SEGURIDAD EN CASO DE DESASTRE
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+###### ARTICULO 31-A.
+
+La Dirección Estatal de Protección Civil desarrollará planes, programas y llevarán a cabo todas aquéllas medidas de seguridad que le competan, encaminados a proteger a las personas, sus bienes y el medio ambiente. Por lo que deberá observarse los principios de prevención, auxilio y restablecimiento.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+###### ARTICULO 31-B.
+
+El Gobierno del Estado, en caso de desastre, a través de la Dirección Estatal de Protección Civil, implementará todos aquellos planes, programas y medidas de seguridad de que habla el artículo anterior. Dichos planes, programas y medidas garantizarán a la población el buen funcionamiento de los servicios esenciales de la comunidad.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+###### ARTICULO 31-C.
+
+En caso de riesgo inminente y sin perjuicio de la emisión de la declaratoria de emergencia, las dependencias y entidades de la Administración Estatal y Municipal ejecutarán las medidas de seguridad aplicables al caso concreto.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+###### ARTICULO 31-D.
+
+La Dirección Estatal de protección Civil podrá elaborar programas especiales de protección civil, tratándose de grupos sociales específicos, tales como discapacitados, personas adultas mayores, jóvenes, menores de edad y grupos étnicos.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+###### ARTICULO 31-E.
+
+Para cumplir con la finalidad de la presente ley, la Dirección Estatal de Protección Civil podrá sustentar su actuar en la normatividad federal aplicable.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+###### ARTICULO 31-F.
+
+La Dirección Estatal de Protección Civil, así como los ayuntamientos podrán aplicar las siguientes medidas de seguridad:
+
+I.- Identificación y delimitación de lugares o zonas de riesgo;
+
+II.- Acciones preventivas para la movilización precautoria de la población, su instalación y atención de refugios temporales; y
+
+III.- Las demás que en materia de protección civil determinen las disposiciones reglamentarias y la legislación local correspondiente, tendientes a evitar que se generen o se sigan causando riesgos.
+
+De la misma forma se podrá promover ante las autoridades competentes, la ejecución de alguna o algunas de las medidas de seguridad que se establezcan en otros ordenamientos.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+###### ARTICULO 31-G.
+
+Cuando se apliquen alguna o algunas de las medidas de seguridad previstas el artículo anterior, se indicará su temporalidad y, en su caso, las acciones que se deben de llevar a cabo para ordenar el retiro de las mismas.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+###### ARTICULO 31-H.
+
+El titular del Ejecutivo del Estado y los ayuntamientos podrán, sin perjuicio de lo establecido en las legislación correspondiente aplicable, realizar las acciones de emergencia en caso de desastre para proporcionar y brindar atención a las necesidades prioritarias de la población, particularmente en materia de protección de la vida y la salud, la alimentación, la atención médica, el vestido, albergue temporal, el restablecimiento de las vías de comunicación incluyendo la limpieza inmediata y urgente de escombros y derrumbes de calles, caminos, carreteras y accesos, así como la reanudación del servicio electrónico y el abastecimiento de agua y todas aquéllas que sean necesarias para la reconstrucción del área afectada.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+### CAPITULO QUINTO TER. DE LA DECLARATORIA DE EMERGENCIA
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+###### ARTICULO 31-I.
+
+Ante la inminencia o la alta probabilidad de que ocurra un desastre que ponga en riesgo la vida humana y cuando la rapidez de la actuación del Sistema Nacional de Protección Civil sea esencial, el Ejecutivo del Estado lo comunicará a la Secretaría de Gobernación, con el fin de que ésta emita una declaratoria de emergencia, la cual se divulgará a través de los medios masivos de comunicación.
+
+Una vez hecha la declaratoria de emergencia, la Secretaría de Gobernación podrá asignar los montos necesarios para atenuar los efectos del posible desastre, así como para responder en forma inmediata a las necesidades urgentes generadas por un desastre.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+###### ARTICULO 31-J.
+
+LA declaratoria de desastre es el acto mediante el cual la Secretaría de Gobernación reconoce que uno o varios fenómenos perturbadores han causado daños severos, cuya atención rebasa las capacidades locales.
+
 ### CAPITULO SEXTO. DEL SISTEMA ESTATAL DE PROTECCION CIVIL
-
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
-
-### CAPITULO SEPTIMO. DEL CONSEJO ESTATAL DE PROTECCION CIVIL
-
-### CAPITULO OCTAVO. DE LAS UNIDADES MUNICIPALES Y DE LOS CONSEJOS MUNICIPALES DE PROTECCION CIVIL
 
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -469,41 +629,51 @@ III.- Las Unidades Municipales de Protección Civil y los Consejos Municipales d
 
 IV.- Los Grupos Voluntarios, integrados por representantes de los sectores público, social y privado.
 
-### CAPITULO NOVENO. DE LOS GRUPOS VOLUNTARIOS
+### CAPITULO SEPTIMO. DEL CONSEJO ESTATAL DE PROTECCION CIVIL
 
 ###### ARTICULO 34.
 
 El Consejo Estatal de Protección Civil es un órgano de consulta en materia de prevención, auxilio y apoyo a la población ante la eventualidad de catástrofes, desastres o calamidades públicas, que tiene por objeto emitir opiniones respecto a la planeación y coordinación de las tareas y acciones de los sectores público, social y privado en materia de protección civil.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 35.
 
-El Consejo Estatal de Protección Civil estará integrado por:
+El Consejo Estatal de Protección Civil está integrado por:
 
 I.- Un Presidente, que será designado por el Gobernador del Estado;
 
-II.- Un Secretario Ejecutivo, que será designado por el Presidente del Consejo;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
-III.- Un Secretario Técnico, que será designado por el Secretario Ejecutivo del Consejo;
+II.- Un Secretario Ejecutivo, que es el Secretario de Seguridad Pública y Protección Ciudadana;
 
-IV.- Vocales, que integrarán al Consejo previa invitación y aceptación correspondiente, en su caso, por:
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
-a).- Un representante del Poder Legislativo y uno del Poder Judicial del Estado;
+III.- Un Secretario Técnico, que es el Director Estatal de Protección Civil;
 
-b).- Los titulares de las dependencias y entidades de la Administración Pública Estatal, que por el ramo que atiendan les corresponda participar en los programas de prevención, auxilio y apoyo ante alguna posible calamidad, desastre o catástrofe pública;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
-c).- Los Presidentes Municipales de la entidad;
+IV.- Los delegados o representantes de las dependencias federales que se encuentren asentados en el Estado;
 
-d).- Los titulares de las delegaciones o representaciones en el Estado de las dependencias y entidades de la Federación que a juicio del Presidente del Consejo deban integrarse al mismo;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
-e).- Los representantes de las cámaras, organismos empresariales, organizaciones, asociaciones, coaliciones, sindicatos, clubes de servicio, asociaciones o sociedades de beneficencia, de asistencia pública o privada, y demás agrupaciones que a juicio del Presidente del Consejo deban integrarse al mismo; y
+V.- El Comandante de la Zona Militar;
 
-f).- Los representantes de las instituciones de educación superior en el Estado.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
-El Consejo podrá invitar a las personas físicas o morales interesadas en aportar su participación en las tareas que a él competen.
+VI.- Los titulares de las dependencias y entidades de la Administración Pública del Estado;
 
-Cada uno de los miembros propietarios nombrará a un suplente, quien deberá asistir a las sesiones cuando por causa plenamente justificada el titular esté impedido para ello.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
-Los cargos en el Consejo serán honoríficos, por lo que sus miembros no percibirán remuneración alguna.
+VII.- Los Presidentes Municipales de la entidad;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+VIII.- Los representantes de las organizaciones sociales, instituciones académicas, grupos voluntarios, organismos especializados y medios de comunicación.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
+Cada consejero propietario, designará un suplente que lo sustituya en sus faltas temporales. Los representantes titulares señalados en las fracciones I a VII de este artículo, participarán con voz y voto en las reuniones en las que se tomen las resoluciones del Consejo Estatal. Los señalados en la fracción VIII de este artículo, concurrirán a solicitud del Presidente del Consejo, teniendo voz en las sesiones pero no voto.
 
 ###### ARTICULO 36.
 
@@ -607,7 +777,9 @@ Los acuerdos y resoluciones del Consejo se tomarán por consenso, en caso contra
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 20 DE MARZO DE 2001)</small>
 
-### CAPITULO DECIMO. DE LA ACCION POPULAR
+### CAPITULO OCTAVO. DE LAS UNIDADES MUNICIPALES Y DE LOS CONSEJOS MUNICIPALES DE PROTECCION CIVIL
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 44.
 
@@ -667,9 +839,7 @@ XVII. Las demás que les señalen esta ley u otras disposiciones aplicables.
 
 Los Consejos Municipales de Protección Civil, en el ámbito de su competencia formularán planes y programas de manera coordinada con el Sistema Estatal de Protección Civil.
 
-### CAPITULO DECIMO PRIMERO. DE LAS INFRACCIONES Y SANCIONES
-
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+### CAPITULO NOVENO. DE LOS GRUPOS VOLUNTARIOS
 
 ###### ARTICULO 48.
 
@@ -705,7 +875,7 @@ V.- Participar en los programas de capacitación a la población implementados p
 
 VI.- Las demás que les asignen esta Ley y otras disposiciones aplicables.
 
-### CAPITULO DECIMO SEGUNDO. DEL RECURSO DE REVISION
+### CAPITULO DECIMO. DE LA ACCION POPULAR
 
 ###### ARTICULO 53.
 
@@ -722,6 +892,10 @@ Lo anterior sin perjuicio de que se tomen las medidas urgentes necesarias para e
 ###### ARTICULO 55.
 
 Cuando los hechos que motiven una denuncia hubieren ocasionado daños y perjuicios, los interesados podrán solicitar a las autoridades estatales o municipales la formulación de un dictamen técnico al respecto, el cual tendrá valor de prueba en caso de ser presentado en juicio.
+
+### CAPITULO DECIMO PRIMERO. DE LAS INFRACCIONES Y SANCIONES
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 56.
 
@@ -779,9 +953,11 @@ IV.- La reincidencia.
 
 La amonestación consistirá en la reprimenda que las autoridades competentes señalen a las personas físicas o morales por la inobservancia de medidas de seguridad no consideradas graves en materia de protección civil, exhortando a la no reincidencia del acto.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 62.
 
-La multa es una sanción pecuniaria, cuyo monto podrá fijar la autoridad competente desde veinte hasta trescientas veces el salario mínimo general vigente en la entidad, atendiendo a las consideraciones previstas en el Artículo 60 de esta Ley.
+La multa es una sanción pecuniaria, cuyo monto podrá fijar la autoridad competente desde veinte hasta cuatro mil ochocientas veces el salario mínimo general vigente en la entidad, atendiendo a las consideraciones previstas en el artículo 60 de esta ley.
 
 En caso de reincidencia la autoridad competente podrá duplicar la multa, sin perjuicio de la responsabilidad penal en que incurra el infractor por desobediencia a un mandato legítimo de autoridad.
 
@@ -800,6 +976,8 @@ El arresto administrativo podrá ser impuesto hasta por treinta y seis horas.
 ###### ARTICULO 65.
 
 Además de la aplicación de las sanciones que correspondan a los infractores, las autoridades competentes harán del conocimiento del Ministerio Público, los hechos que pudieren constituir un delito.
+
+### CAPITULO DECIMO SEGUNDO. DEL RECURSO DE REVISION
 
 ###### ARTICULO 66.
 
@@ -940,3 +1118,13 @@ Dentro del plazo de un año contado a partir de la entrada en vigor de este decr
 ###### ARTÍCULO SEXTO.
 
 Se derogan todas las disposiciones en contrario.
+
+P.O. 25 DE NOVIEMBRE DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a este decreto.
