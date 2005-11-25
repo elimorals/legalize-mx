@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-universidad-autonoma-del-estado-de-mexico-6162"
 country: "mx"
 rank: "ley"
 publication_date: "1992-03-03"
-last_updated: "1992-03-03"
+last_updated: "2005-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE LA UNIVERSIDAD AUTONOMA DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE NOVIEMBRE DE 2005.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 3 de marzo de 1992.
 
@@ -123,7 +123,9 @@ El ingreso a la Universidad, la calidad, promoción, permanencia y egreso de los
 
 El Estatuto Universitario y reglamentación derivada señalarán a la comunidad deberes, derechos y obligaciones, en los términos del artículo 3º de la presente Ley.
 
-Los miembros de la comunidad universitaria podrán reunirse y organizarse libre y democráticamente en la forma que ellos mismos determinen. Estas organizaciones observarán el orden jurídico interno y serán totalmente independientes de los órganos de gobierno y académicos universitarios.
+Los miembros de la comunidad universitaria podrán reunirse y organizarse libre y
+
+democráticamente en la forma que ellos mismos determinen. Estas organizaciones observarán el orden jurídico interno y serán totalmente independientes de los órganos de gobierno y académicos universitarios.
 
 ###### ARTICULO 11.
 
@@ -163,17 +165,27 @@ La investigación se sustentará en procedimientos rigurosos que le permitan alc
 
 La difusión cultural y extensión universitaria consistirá en la actividad de la Institución que relaciona Universidad y sociedad, y pone a disposición de ésta el resultado de su trabajo académico. Divulgará las manifestaciones del humanismo, la ciencia, la tecnología y de la cultura; impulsará las formas de expresión cultural y artística; establecerá mecanismos de vinculación con los diversos sectores de la sociedad; preservará y conservará los bienes que constituyen el acervo humanístico, científico, tecnológico, artístico y de todas las manifestaciones de la cultura.
 
-ARTICULO17. Para el cumplimiento de sus funciones académicas, la Universidad contará con planteles de la Escuela Preparatoria, organismos y dependencias académicos.
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 25 DE NOVIEMBRE DE 2005)</small>
+
+###### ARTICULO 17.
+
+Para el cumplimiento de sus funciones académicas, la Universidad contará con planteles de la Escuela Preparatoria, Organismos Académicos, Centros Universitarios y Dependencias Académicas.
 
 Son Organismos Académicos y planteles de la Escuela Preparatoria, los ámbitos de organización y funcionamiento establecidos para la atención particularizada, simultánea y concomitante de los tres fines asignados a la Universidad. Los Organismos Académicos adoptarán formas de Facultad, Escuela, Instituto y otras modalidades afines o similares.
+
+> <small>(ADICIONADO, G.G. 25 DE NOVIEMBRE DE 2005)</small>
+
+Los Centros Universitarios, son formas desconcentradas de la Universidad que ofrecerán estudios profesionales y avanzados, adoptarán las modalidades de multidisciplinarios o interdisciplinarios.
 
 Son Dependencias Académicas, los ámbitos de organización y funcionamiento establecidas por la Administración Universitaria para la atención, preponderante, de uno de los tres fines asignados a la Universidad, en una o más áreas del conocimiento afines o no; adoptarán la forma de Centro, Unidad, Departamento o figuras similares.
 
 El Estatuto Universitario, reglamentación derivada y demás disposiciones determinarán lo conducente en los aspectos inherentes a los mismos.
 
+> <small>(REFORMADO, G.G. 25 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 18.
 
-La Universidad, sus Organismos Académicos, planteles de la Escuela Preparatoria y demás formas de organización y funcionamiento que así lo requieran, contarán con los órganos académicos conducentes; los cuales adoptarán las modalidades y, formas de organización y funcionamiento que consigne el Estatuto Universitario y reglamentación derivada.
+La Universidad, sus Organismos Académicos, Centros Universitarios, planteles de la Escuela Preparatoria y demás formas de organización y funcionamiento que así lo requieran, contarán con los órganos académicos conducentes; los cuales adoptarán las modalidades y, formas de organización y funcionamiento que consigne el Estatuto Universitario y reglamentación derivada.
 
 ## TITULO CUARTO. DEL GOBIERNO UNIVERSITARIO
 
@@ -187,11 +199,13 @@ I. Consejo Universitario.
 
 II. Rector.
 
-> <small>(F. DE E., G.G. 13 DE MARZO DE 1992)</small>
+> <small>(REFORMADO, G.G. 25 DE NOVIEMBRE DE 2005)</small>
 
-III. Consejo de Gobierno de cada Organismo Académico y de cada plantel de la Escuela Preparatoria.
+III. Consejo de Gobierno de cada Organismo Académico, de cada Centro Universitario y de cada plantel de la Escuela Preparatoria.
 
-IV. Director de cada Organismo Académico y de cada plantel de la Escuela Preparatoria.
+> <small>(REFORMADO, G.G. 25 DE NOVIEMBRE DE 2005)</small>
+
+IV. Director de cada Organismo Académico, de cada Centro Universitario y de cada plantel de la Escuela Preparatoria.
 
 Estos órganos tendrán los ámbitos de competencia, facultades y obligaciones, integración, procesos de renovación de sus miembros, formas de organización y funcionamiento, establecidos en la presente Ley, el Estatuto Universitario y reglamentos derivados.
 
@@ -207,6 +221,14 @@ I. El Rector.
 
 II. El Director de cada Organismo Académico y el de cada plantel de la Escuela Preparatoria.
 
+> <small>(ADICIONADA, G.G. 25 DE NOVIEMBRE DE 2005)</small>
+
+III. El representante de la Asociación del Personal Académico titular del Contrato Colectivo de Trabajo.
+
+> <small>(ADICIONADA, G.G. 25 DE NOVIEMBRE DE 2005)</small>
+
+IV. El representante de la Asociación del Personal Administrativo titular del Contrato Colectivo de Trabajo.
+
 Son Consejeros Electos:
 
 I. Un representante del personal académico de cada Organismo Académico.
@@ -217,9 +239,11 @@ III. Un representante de los alumnos de cada plantel de la Escuela Preparatoria.
 
 IV. Dos representantes, uno del personal académico y otro de los alumnos, por todos los planteles de la Escuela Preparatoria.
 
-V. Un representante, miembro afiliado de la asociación del personal académico titular del contrato colectivo de trabajo.
+> <small>(REFORMADA, G.G. 25 DE NOVIEMBRE DE 2005)</small>
 
-VI. Un representante, miembro afiliado de la asociación del personal administrativo titular del contrato colectivo de trabajo.
+V. Un Director, un representante del personal académico y dos representantes de los alumnos de los Centros Universitarios, en términos de lo dispuesto por el Estatuto Universitario y reglamentación derivada.
+
+VI. (DEROGADA, G.G. 25 DE NOVIEMBRE DE 2005)
 
 ###### ARTICULO 21.
 
@@ -227,7 +251,9 @@ El Consejo Universitario tiene las siguientes facultades:
 
 I. Expedir y modificar el Estatuto Universitario, reglamentos, y demás disposiciones necesarias para la organización y funcionamiento de la Universidad, observando el procedimiento previsto en la reglamentación aplicable.
 
-II. Designar y remover al Rector y a los Directores de Organismos Académicos y de cada plantel de la Escuela Preparatoria, conforme a las disposiciones conducentes de la legislación de la Universidad.
+> <small>(REFORMADA, G.G. 25 DE NOVIEMBRE DE 2005)</small>
+
+II. Designar y remover al Rector, a los Directores de Organismos Académicos, Centros Universitarios y de plantel de la Escuela Preparatoria, conforme a las disposiciones conducentes de la legislación de la Universidad.
 
 > <small>(F. DE E., G.G. 13 DE MARZO DE 1992)</small>
 
@@ -235,7 +261,9 @@ III. Conocer, discutir y, en su caso, aprobar y expedir los instrumentos de plan
 
 IV. Conocer y, en su caso, aprobar, modificar o suprimir, políticas, estrategias, planes y programas académicos, observando las disposiciones y procedimientos de la legislación interna.
 
-V. Acordar el establecimiento, transformación, fusión o desaparición de Organismos Académicos, planteles de la Escuela Preparatoria, y ámbitos similares de organización académica, observando las disposiciones y procedimientos de la legislación de la Universidad.
+> <small>(REFORMADA, G.G. 25 DE NOVIEMBRE DE 2005)</small>
+
+V. Acordar el establecimiento, transformación, fusión o desaparición de Organismos Académicos, Centros Universitarios, planteles de la Escuela Preparatoria y ámbitos similares de organización académica, observando las disposiciones y procedimientos de la legislación de la Universidad.
 
 VI. Establecer los requisitos para el otorgamiento de títulos, grados, reconocimientos y otros documentos probatorios, que acrediten y den validez oficial a una condición académica de la educación que imparte.
 
@@ -267,7 +295,9 @@ El Rector es la Máxima Autoridad Ejecutiva de la Universidad, su representante 
 
 El Rector será electo para un período de cuatro años, entrando en ejercicio previa toma de protesta ante el Consejo Universitario.
 
-La persona que haya ocupado el cargo de Rector, bajo cualquiera de sus modalidades, no podrá volver a ejercerlo, en ningún caso. No podrá ser Consejero Electo ante el Consejo Universitario, Director de Organismo Académico, o de cada plantel de la Escuela Preparatoria.
+> <small>(REFORMADO, G.G. 25 DE NOVIEMBRE DE 2005)</small>
+
+La persona que haya ocupado el cargo de Rector, bajo cualquiera de sus modalidades, no podrá volver a ejercerlo, en ningún caso. No podrá ser Consejero Electo ante el Consejo Universitario, Director de Organismo Académico, Centro Universitario o de plantel de la Escuela Preparatoria.
 
 > <small>(F. DE E., G.G. 13 DE MARZO DE 1992)</small>
 
@@ -295,9 +325,9 @@ VII. Presentar a consideración y, en su caso, aprobación del Consejo Universit
 
 VIII. Presentar ante el Consejo Universitario, reunido en sesión solemne el tres de marzo de cada año, el Informe Anual de Actividades de la Universidad.
 
-> <small>(F. DE E., G.G. 13 DE MARZO DE 1992)</small>
+> <small>(REFORMADA, G.G. 25 DE NOVIEMBRE DE 2005)</small>
 
-IX. Proponer al Consejo Universitario el o los candidatos para ocupar el cargo de Director de Organismo académico o de cada plantel de la Escuela Preparatoria, observando el procedimiento previsto en las disposiciones aplicables.
+IX. Proponer al Consejo Universitario el o los candidatos para ocupar el cargo de Director de Organismo Académico, Centro Universitario y de plantel de la Escuela Preparatoria observando el procedimiento previsto en las disposiciones aplicables.
 
 X. Otorgar y revocar mandatos generales o especiales, cuando lo estime conveniente.
 
@@ -321,23 +351,37 @@ El Consejo de Gobierno de cada Organismo Académico y de cada plantel de la Escu
 
 Gozará de las facultades consignadas en el Estatuto Universitario y se integrará por: Consejeros Ex-oficio, que son el Director y los consejeros ante el Consejo Universitario; y Consejeros Electos, que son los representantes del personal académico, los representantes de los alumnos y el representante de los trabajadores administrativos, del Organismo Académico o plantel de la Escuela Preparatoria correspondiente.
 
-> <small>(F. DE E., G.G. 13 DE MARZO DE 1992)</small>
+> <small>(REFORMADO, G.G. 25 DE NOVIEMBRE DE 2005)</small>
 
-El Estatuto Universitario y reglamentación derivada, determinarán el número de consejeros electos que lo integran, requisitos que cumplirán para ocupar el cargo, reglas y procedimientos de su renovación, forma y modalidades de su régimen interior, y demás disposiciones que resulten conducentes a su naturaleza y objeto.
+El Consejo de Gobierno de cada Centro Universitario, es el órgano colegiado de mayor autoridad y jerarquía interior, siendo sus resoluciones de observancia obligatoria para éste y los integrantes de su comunidad; se integrará por un Consejero Ex -oficio que será el Director y por Consejeros Electos, que son los representantes del personal académico, de los alumnos y el de los trabajadores administrativos del Centro Universitario.
 
-> <small>(F. DE E., G.G.13 DE MARZO DE 1992)</small>
+> <small>(ADICIONADO, G.G. 25 DE NOVIEMBRE DE 2005)</small>
+
+El Estatuto Universitario y reglamentación derivada, determinarán el número de Consejeros Electos que integran los Consejos a que se refieren los párrafos anteriores, requisitos que cumplirán para ocupar el cargo, reglas y procedimientos de su renovación, forma y modalidades de su régimen interior, y demás disposiciones que resulten conducentes a su naturaleza y objeto.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 25 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 26.
 
-El Director de cada Organismo Académico, y de cada plantel de la Escuela Preparatoria, es la mayor autoridad ejecutiva interior, su representante ante otras instancias de la Universidad, Presidente de su Consejo de Gobierno y órganos académicos colegiados correspondientes. No podrá separarse o ser removido del mismo, sino en los términos previstos en la reglamentación aplicable.
+El Director de cada Organismo Académico, Centro Universitario y de plantel de la Escuela Preparatoria, es la mayor autoridad ejecutiva interior, su representante ante otras instancias de la Universidad, y Presidente de su Consejo de Gobierno y órganos académicos colegiados correspondientes. No podrá separarse o ser removido del mismo, sino en los términos previstos en la reglamentación aplicable.
 
 > <small>(F. DE E., G.G. 13 DE MARZO DE 1992)</small>
 
 Será electo para un período de cuatro años, entrando en ejercicio previa toma de protesta ante el Consejo Universitario. El acceso al cargo, requisitos para ocuparlo, facultades y obligaciones, y demás disposiciones correlativas, se consignarán en el Estatuto Universitario y reglamentación derivada.
 
-> <small>(F. DE E., G.G. 13 DE MARZO DE 1992)</small>
+> <small>(REFORMADO, G.G. 25 DE NOVIEMBRE DE 2005)</small>
 
-La persona que haya ocupado el cargo de Director de un Organismo Académico o de plantel de la Escuela Preparatoria, bajo cualquiera de sus modalidades, no podrá volver a ejercerlo en el mismo o en otro, en ningún caso. No podrá ser Consejero Electo ante los órganos de gobierno de la Universidad, hasta pasados cuatro años de su ejercicio.
+La persona que haya ocupado el cargo de Director de Organismo Académico, de Centro Universitario o de plantel de la Escuela Preparatoria, bajo cualquiera de sus modalidades, y desee participar en procesos de elección para ocupar un cargo de representación, deberá observar lo siguiente:
+
+a) No podrá volver a ocupar el cargo de Director en el mismo o diferente Organismo Académico, Centro Universitario o plantel de la Escuela Preparatoria.
+
+b) Podrá participar como candidato en los procesos para elegir representantes ante el Consejo Universitario o Consejo de Gobierno, siempre que hayan transcurrido al menos cuatro años de haber concluido su gestión como Director.
+
+c) Podrá participar como aspirante en el proceso para elegir Rector en cualquier momento.
+
+> <small>(ADICIONADO, G.G. 25 DE NOVIEMBRE DE 2005)</small>
+
+La persona que se encuentre en el cargo de Director de Organismo Académico, de Centro Universitario o plantel de la Escuela Preparatoria y desee participar como aspirante en el proceso para elegir Rector, deberá separarse del cargo que ejerce, conforme a los términos y plazos señalados en la legislación Universitaria.
 
 ### CAPITULO II. DE LOS PROCESOS DE RENOVACION EN EL GOBIERNO
 
@@ -363,7 +407,9 @@ III. Ser miembro del personal académico definitivo.
 
 IV. Tener título profesional de licenciatura expedido por Universidad Pública mexicana, igual o equivalente a los que expide la Institución.
 
-V. Tener estudios terminados, de especialidad, maestría o doctorado, realizados en institución de educación superior reconocida.
+> <small>(REFORMADA, G.G. 25 DE NOVIEMBRE DE 2005)</small>
+
+V. Tener grado académico de maestro o de doctor, otorgado por institución de educación superior reconocida por la Secretaría de Educación Pública.
 
 VI. Tener por lo menos cinco años ininterrumpidos de antigüedad como personal de la Universidad, prestando sus servicios a ésta de jornada completa al menos un año antes inmediato a la elección.
 
@@ -381,25 +427,29 @@ El Consejo Universitario, reunido en sesión extraordinaria especialmente convoc
 
 Para el caso de elección de Rector sustituto, el Consejo Universitario se reunirá en sesión extraordinaria citada con ese único objeto. La elección será por mayoría de votos, observando las disposiciones del Estatuto Universitario y demás ordenamientos aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 25 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 31.
 
-El Consejo Universitario elegirá por mayoría de votos al Director de cada Organismo Académico o de cada plantel de la Escuela Preparatoria, para un período ordinario de cuatro años, previa opinión de las partes componentes de la comunidad universitaria correspondiente, a través de procesos de auscultación cualitativa y cuantitativa, y observando lo dispuesto en el Estatuto Universitario y demás reglamentación aplicable.
+El Consejo Universitario elegirá por mayoría de votos al Director de Organismo Académico, de Centro Universitario y de plantel de la Escuela Preparatoria, para un período ordinario, previa opinión de las partes componentes de la comunidad universitaria correspondiente, a través de procesos de auscultación cualitativa y cuantitativa, y observando lo dispuesto en el Estatuto Universitario y demás reglamentación aplicable.
 
 El Director sustituto será electo por mayoría de votos de los miembros del Consejo Universitario, a propuesta del Rector, observando el Estatuto Universitario y demás disposiciones aplicables.
 
-> <small>(F. DE E. G.G. 13 DE MARZO DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 25 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 32.
 
-Los cargos de Rector, Director de Organismo Académico o de cada plantel de la Escuela Preparatoria, y Consejero Electo ante órgano colegiado de gobierno, son incompatibles, sin excepción alguna, con los cargos de elección popular, de servidor público con autoridad ejecutiva, o de carácter decisorio judicial, de los gobiernos Federal, Estatal o Municipal. También son incompatibles con el ministerio de algún culto religioso; con los cargos o nombramientos de responsabilidad directiva o similares, de partidos políticos, asociaciones sindicales, u organizaciones, asociaciones o agrupaciones que tengan una finalidad partidista, electoral o religiosa. El cargo de Consejero Electo es incompatible, además, con los de titular de dependencias de la Administración Universitaria o de autoridad administrativa de la Institución.
+Los cargos de Rector, Director de Organismo Académico, de Centro Universitario y de plantel de la Escuela Preparatoria, y Consejero Electo ante órgano colegiado de gobierno, son incompatibles, sin excepción alguna, con los cargos de elección popular, de servidor público con autoridad ejecutiva, o de carácter decisorio judicial, de los gobiernos Federal, Estatal o Municipal. También son incompatibles con el ministerio de algún culto religioso; con los cargos o nombramientos de responsabilidad directiva o similares, de partidos políticos, asociaciones sindicales, u organizaciones, asociaciones o agrupaciones que tengan una finalidad partidista, electoral o religiosa. El cargo de Consejero Electo es incompatible, además, con los de titular de dependencias de la Administración Universitaria o de autoridad administrativa de la Institución.
 
 Las previsiones del presente artículo son aplicables tanto en la elección como en el desempeño del cargo, a menos que se separen de manera definitiva del que ocupan o ejercen, con treinta días de anticipación al momento de la elección.
 
 El Consejo Universitario sancionará hasta con destitución a los infractores del presente artículo.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 25 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 33.
 
-El Rector y los Directores de Organismo Académico o de cada plantel de la Escuela Preparatoria podrán ausentarse de la Universidad hasta por quince días, previo acuerdo del Rector para los segundos. Para una ausencia mayor y hasta por cuarenta y cinco días, requieren permiso del Consejo Universitario, el cual tendrá la facultad de conferirlo o negarlo. Sólo por razones graves de salud, debidamente comprobables, podrán separarse de su cargo hasta por cuarenta y cinco días más, correspondiendo al Consejo Universitario la facultad de conferir o negar el permiso correspondiente.
+El Rector y los Directores de Organismo Académico, Centro Universitario y de plantel de la Escuela Preparatoria podrán ausentarse de la Universidad hasta por quince días, previo acuerdo del Rector para los segundos. Para una ausencia mayor y hasta por cuarenta y cinco días, requieren permiso del Consejo Universitario, el cual tendrá la facultad de conferirlo o negarlo. Sólo por razones graves de salud, debidamente comprobables, podrán separarse de su cargo hasta por cuarenta y cinco días más, correspondiendo al Consejo Universitario la facultad de conferir o negar el permiso correspondiente.
 
 En caso de ausencia definitiva del Rector o Director en funciones, se designará un Rector o Director sustituto que terminará el período del sustituido, observándose lo dispuesto en la presente Ley y disposiciones aplicables. En caso de ausencia temporal, permiso o licencia, fungirá como encargado del despacho el titular de la dependencia de la Administración Universitaria que señale el Estatuto Universitario.
 
@@ -407,9 +457,11 @@ Corresponde al Consejo Universitario valorar y calificar los motivos de ausencia
 
 ## TITULO QUINTO. DE LA ADMINISTRACION Y PATRIMONIO UNIVERSITARIOS
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 25 DE NOVIEMBRE DE 2005)</small>
+
 ###### ARTICULO 34.
 
-La Administración Universitaria es la instancia de apoyo con que cuenta la Institución para el cumplimiento de su objeto y fines. Se integra por una Administración Central y Administraciones de Organismos Académicos y de planteles de la Escuela Preparatoria.
+La Administración Universitaria es la instancia de apoyo con que cuenta la Institución para el cumplimiento de su objeto y fines. Se integra por una Administración Central y Administraciones de Organismos Académicos, de Centros Universitarios y de planteles de la Escuela Preparatoria.
 
 El Estatuto Universitario y la reglamentación aplicable determinarán y regularán las facultades, integración, funciones, organización y demás aspectos que resulten necesarios para el desarrollo y la actividad de la Administración Universitaria y sus dependencias académicas y administrativas.
 
@@ -516,3 +568,15 @@ EL SECRETARIO DE EDUCACION, CULTURA Y BIENESTAR SOCIAL.
 LIC. JAIME ALMAZAN DELGADO.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.G. 25 DE NOVIEMBRE DE 2005.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en e Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El Consejo Universitario procederá a la transformación de las Unidades Académicas Profesionales en Centros Universitarios en términos de la legislación de la Universidad y de los lineamientos aprobados para este efecto.
+
+CUARTO.- En tanto se expiden las reformas al Estatuto Universitario y demás reglamentación que se derive del presente decreto, se estará a las disposiciones actualmente aplicables a las Unidades Académicas Profesionales.
