@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-penales-para-el-estado-de-colima-12358
 country: "mx"
 rank: "codigo"
 publication_date: "1997-08-02"
-last_updated: "2002-06-22"
+last_updated: "2005-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2005.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 2 de agosto de 1997.
 
@@ -1155,9 +1155,9 @@ Si se trata de inmuebles, la medida se concretará a solicitar del Registro Púb
 
 La medida se dejará sin efectos si durante el lapso mencionado se paga o garantiza de otra forma legal, la reparación del daño.
 
-> <small>(F. DE E., P.O. 16 DE AGOSTO DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE NOVIEMBRE DE 2005)</small>
 
-### CAPITULO VI. RESTITUCION AL OFENDIDO EN SUS DERECHOS
+### CAPITULO VI. RESTITUCION AL OFENDIDO EN SUS DERECHOS Y PROTECCION DE SU INTEGRIDAD
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 2002)</small>
 
@@ -1166,6 +1166,10 @@ La medida se dejará sin efectos si durante el lapso mencionado se paga o garant
 Una vez que se acredite el cuerpo del delito, el ofendido podrá solicitar al Ministerio Público, durante el periodo de preparación de la acción procesal penal o al juzgador en el proceso, que dicte las providencias necesarias par asegurar sus derechos o restituirlo en el goce de estos, siempre que estén legalmente justificados.
 
 El Ministerio público, durante la averiguación previa y cuando se trate de bienes inmuebles sólo podrá asegurarlos por el tiempo indicado en el párrafo primero y en la forma prevista en el párrafo segundo del artículo 157.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2005)</small>
+
+En los delitos en que esté en peligro la integridad de las personas, el Ministerio Público durante la averiguación podrá ordenar al indiciado la restricción o acercamiento con el ofendido. En caso de determinarse esta medida, el Juez al dictar los autos que señalan los artículos 302 y 303 de éste Código, resolverá sobre la subsistencia de la medida.
 
 > <small>(F. DE E., P.O. 16 DE AGOSTO DE 1997)</small>
 
@@ -1486,6 +1490,18 @@ III.- Los que estén ligados al imputado por amor, respeto, gratitud o estrecha 
 IV.- Los que conforme a la Ley tengan la obligación de no revelar secretos.
 
 En los casos de las tres primeras fracciones, si las personas mencionadas, tienen voluntad de declarar, se hará constar esta circunstancia y se recibirá su testimonio. Para este efecto, se hará constar en el acta respectiva que se les hizo saber que podían abstenerse de rendir declaración. La omisión de este requisito hará nulo el testimonio.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2005)</small>
+
+ARTICULO 200 BIS.- No podrán ser obligados a declarar sobre la información que reciban o tengan en su poder:
+
+I.- Los abogados respecto de los asuntos en los cuales hubieran intervenido y tengan información que deban reservarse para el ejercicio de su profesión;
+
+II.- los ministros de cualquier culto con motivo de las confesiones que hubieran recibido en ejercicio del ministerio que presten; y
+
+III.- Los periodistas, respecto de los nombres o datos de identificación de las personas que con motivo del ejercicio de su actividad les proporcionen como información de carácter reservada, en la cual sustenten cualquier publicación o comunicado.
+
+Si las personas mencionadas tienen voluntad de declarar, se hará constar esta circunstancia y se recibirá su testimonio. Para este efecto se hará constar en el acta respectiva que se les hizo saber el derecho que tienen para abstenerse de rendir declaración. La omisión de este requisito hará nulo el testimonio.
 
 ###### ARTICULO 201.
 
@@ -3118,3 +3134,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 26 DE NOVIEMBRE DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
