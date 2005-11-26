@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-prevencion-y-atencion-a-la-violencia-familiar-12435
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-14"
-last_updated: "1998-02-14"
+last_updated: "2005-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12435&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA LA PREVENCION Y ATENCION A LA VIOLENCIA INTRAFAMILIAR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 14 de febrero de 1998.
 
@@ -483,31 +483,29 @@ Obtenida la conciliación, se celebrará convenio escrito y firmado en el que la
 
 Si a la audiencia no comparece la persona que solicitó el procedimiento conciliatorio, se le tendrá por desistido, archivándose el asunto correspondiente e informándose al Consejo.
 
+> <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 26 DE NOVIEMBRE DE 2005)</small>
+
 ## TITULO QUINTO
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE NOVIEMBRE DE 2005)</small>
 
 ### CAPITULO UNICO. DE LOS DELITOS DE VIOLENCIA INTRAFAMILIAR
 
 ###### ARTICULO 49.
 
-En los casos a que se refiere el inciso a) de la fracción I del artículo 25 de esta Ley, las sanciones podrán ser aumentadas con un tercio más.
-
-El aumento referido, no se aplicará cuando el responsable se haya sometido al tratamiento correspondiente.
-
-Tampoco procederá el aumento, cuando la relación de familia constituya presupuesto, elemento o calificativa del delito de que se trate.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2005)
 
 ###### ARTICULO 50.
 
-El supuesto a que se refiere el inciso b), de la fracción I del artículo 25, constituye por sí el delito de violencia intrafamiliar, que será sancionado con prisión de uno a cinco años y multa hasta por 60 unidades.
-
-Este delito coexistirá con cualesquiera otros que resulten cometidos.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2005)
 
 ###### ARTICULO 51.
 
-Las averiguaciones previas por delitos de violencia intrafamiliar que, en razón del convenio sobre atención y prevención, sean objetos de perdón, serán reservadas, surtiendo efectos el perdón una vez cumplido el convenio.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2005)
 
 ###### ARTICULO 52.
 
-Las resoluciones judiciales respecto de los delitos de violencia intrafamiliar, serán comunicadas al Juez que haya emitido una orden de protección, para el efecto de la ratificación, modificación o revocación de las determinaciones procedentes.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2005)
 
 ## TRANSITORIOS
 
@@ -530,3 +528,9 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, a los once días del mes de febrero de mil novecientos noventa y ocho.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. HECTOR MICHEL CAMARENA.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE NOVIEMBRE DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
