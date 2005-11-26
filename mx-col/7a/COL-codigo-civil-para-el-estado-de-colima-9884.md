@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2005-04-30"
+last_updated: "2005-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CODIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2005.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de Septiembre de 1954.
 
@@ -3315,11 +3315,25 @@ ART. 722.- El Ministerio Público velará por los intereses del ausente, será o
 
 ART. 723.- Son objeto del patrimonio de la familia:
 
-I.- La casa que el jefe de la familia destine para la habitación de ésta;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE NOVIEMBRE DE 2005)</small>
 
-II.- En su caso, la parcela que el jefe de la familia destine para huerto familiar; y
+I.- La casa que el jefe de la familia destine para la habitación de ésta, hasta por un valor de 15,000 unidades de salario mínimo vigente en el Estado de Colima;
 
-III.- En su caso, el vehículo que el jefe de la familia destine para uso y beneficio de ésta.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE NOVIEMBRE DE 2005)</small>
+
+II.- En su caso, la parcela que el jefe de la familia destine para manutención de la misma, hasta por un valor de 10,000 unidades de salario mínimo;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE NOVIEMBRE DE 2005)</small>
+
+III.- En su caso, el vehículo que el jefe de la familia destine para uso y beneficio de ésta, hasta por un valor de 2,500 unidades de salario mínimo;
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2005)</small>
+
+IV.- El menaje del hogar, hasta por un valor de 1,500 unidades de salario mínimo; y
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2005)</small>
+
+V.- En su caso, el equipo y herramienta de la micro o pequeña industria que sirva de sustento económico a la familia, hasta por un valor de 10,000 unidades de salario mínimo.
 
 ART. 724.- La constitución del patrimonio de la familia no hace pasar la propiedad de los bienes que a él quedan afectos, del que lo constituye a los miembros de la familia beneficiaria. Estos sólo tienen derecho de disfrutar de esos bienes, según lo dispuesto en el artículo siguiente.
 
@@ -3335,11 +3349,17 @@ ART. 728.- Sólo puede constituirse el patrimonio de la familia con bienes sitos
 
 ART. 729.- Cada familia sólo puede constituir un patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2005)</small>
 
-ART. 730.- El valor de los bienes afectos al patrimonio de la familiar será hasta de 75,000 unidades de salario mínimo vigente en el Estado de Colima.
+ART. 730.- El valor de los bienes afectados al patrimonio de la familia será hasta de 37,000 unidades de salario mínimo en el Estado de Colima.
 
-ART. 731.- El miembro de la familia que quiera constituir el patrimonio, lo manifestará por escrito al juez de su domicilio designando con toda precisión y de manera que puedan ser inscritos en el Registro Público los bienes que van a quedar afectados.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2005)</small>
+
+ART. 731.- El miembro de la familia que quiera constituir el patrimonio, lo manifestará por escrito al Registrador Público de la Propiedad de su domicilio, designando con toda precisión y de manera que puedan ser inscritos los bienes que van a quedar afectados.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE NOVIEMBRE DE 2005)</small>
+
+Los efectos de la protección surtirán a partir de la inscripción respectiva.
 
 Además comprobará lo siguiente:
 
@@ -3353,9 +3373,13 @@ IV.- Que son propiedad del constituyente los bienes destinados al patrimonio y q
 
 V.- Que el valor de los bienes que van a constituir el patrimonio no exceda del fijado en el artículo 730.
 
-ART. 732.- Si se llenan las condiciones exigidas en el artículo anterior, el juez, previos los trámites que fije el Código de la materia, aprobará la constitución del patrimonio de la familia y mandará que se hagan las inscripciones correspondientes en el Registro Público.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2005)</small>
 
-ART. 733.- Cuando el valor de los bienes afectos al patrimonio de la familia sea inferior al máximum fijado en el artículo 730 podrá ampliarse el patrimonio hasta llegar a este valor. La ampliación se sujetará al mismo procedimiento que para la constitución fije el Código de la materia.
+ART. 732.- Si se llenan las condiciones exigidas en el artículo anterior, el Registrador aprobará la constitución del patrimonio de la familia y hará la inscripción correspondiente en el Registro Público de la Propiedad.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2005)</small>
+
+ART. 733.- Cuando el valor de los bienes afectos al patrimonio de la familia sea inferior al máximo fijado en el artículo 730, podrá ampliarse el patrimonio hasta llegar a este valor. La ampliación se sujetará al mismo procedimiento que para la constitución fije el Registro Público de la Propiedad.
 
 ART. 734.- Cuando haya peligro de que quien tiene obligación de dar alimentos pierda sus bienes por mala administración o por que los esté dilapidando, los acreedores alimentistas, y, si éstos, son incapaces, sus tutores o el Ministerio Público, tienen derecho de exigir judicialmente que se constituya el patrimonio de la familia hasta por el valor fijado en el artículo 730. En la constitución de este patrimonio se observará en lo conducente, lo dispuesto en los artículos 731 y 732.
 
@@ -10234,3 +10258,13 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 30 DE ABRIL DE 2005.
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 26 DE NOVIEMBRE DE 2005.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- El Gobernador del Estado, dentro de los treinta días siguientes al inicio de vigencia del presente Decreto, deberá hacer las reformas necesarias al Reglamento del Registro Público de la Propiedad y del Comercio del Estado de Colima, manuales de procedimientos y demás disposiciones normativas internas con el fin de crear los formatos y regular en el ámbito de competencia de dicha dependencia del Ejecutivo del Estado el trámite a seguir para la constitución del patrimonio de la familia, de conformidad con los artículos 731, 732 y 733 reformados, del Código Civil para (sic) Estado de Colima.
+
+Artículo Cuarto.- Los juicios para la constitución del patrimonio familiar que se encuentren en trámite ante las autoridades judiciales del Estado al momento de entrar en vigor el presente Decreto, continuarán tramitándose ante las instancias en que se encuentren y conforme a las disposiciones anteriores a la reforma.
