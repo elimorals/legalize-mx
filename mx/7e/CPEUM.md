@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2005-06-20"
+last_updated: "2005-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE NOVIEMBRE DE 2005.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1438,6 +1438,10 @@ XXI.- Para establecer los delitos y faltas contra la Federación y fijar los cas
 
 Las autoridades federales podrán conocer también de los delitos del fuero común, cuando éstos tengan conexidad con delitos federales.
 
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2005)</small>
+
+En las materias concurrentes previstas en esta Constitución, las leyes federales establecerán los supuestos en que las autoridades del fuero común podrán conocer y resolver sobre delitos federales.
+
 XXII.- Para conceder amnistías por delitos cuyo conocimiento pertenezca a los tribunales de la Federación.
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
@@ -2550,7 +2554,7 @@ Para poder proceder penalmente por delitos federales contra los Gobernadores de 
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
-Las declaraciones y resoluciones de la (sic) Cámaras de Diputados (sic) Senadores son inatacables.
+Las declaraciones y resoluciones de la (sic)Cámaras de Diputados (sic) Senadores son inatacables.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
@@ -3088,7 +3092,7 @@ DEL TRABAJO Y DE LA PREVISION SOCIAL.
 
 Toda persona tiene derecho al trabajo digno y socialmente útil; al efecto, se promoverán la creación de empleos y la organización social para el trabajo, conforme a la Ley.
 
-> <small>(REFORMADO , D.O.F. 19 DE DICIEMBRE DE 1978)</small>
+> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 1978)</small>
 
 El Congreso de la Unión, sin contravenir a las bases siguientes, deberá expedir leyes sobre el trabajo, las cuales regirán:
 
@@ -5047,6 +5051,10 @@ UNICO. El presente decreto entrará en vigor al día siguiente al de su publicac
 D.O.F. 20 DE JUNIO DE 2005.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE NOVIEMBRE DE 2005.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 ###### ARTICULO PRIMERO.
 
