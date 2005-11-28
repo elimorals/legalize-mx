@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-34-2005-del-pleno-del-consejo-de-la-46223"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-09-19"
-last_updated: "2005-09-19"
+last_updated: "2005-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46223&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2005-09-07"
 
 ACUERDO GENERAL 34/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA EXCLUSION DEL TURNO DE NUEVOS ASUNTOS AL SEGUNDO Y TERCER TRIBUNALES COLEGIADOS EN MATERIA ADMINISTRATIVA DEL SEGUNDO CIRCUITO, CON RESIDENCIA EN NAUCALPAN DE JUAREZ, ASI COMO DE LA MODIFICACION TEMPORAL DE LA JURISDICCION TERRITORIAL DEL PRIMER TRIBUNAL COLEGIADO EN MATERIA ADMINISTRATIVA DEL SEGUNDO CIRCUITO CON RESIDENCIA EN TOLUCA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO CCNO/23/2005 DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 28 DE NOVIEMBRE DE 2005, SE PRORROGA EL PLAZO DE EXCLUSION DE TURNO DE NUEVOS ASUNTOS AL SEGUNDO Y TERCER TRIBUNALES COLEGIADOS EN MATERIA ADMINISTRATIVA DEL SEGUNDO CIRCUITO, QUE COMPRENDERA DEL 19 DE NOVIEMBRE DEL PRESENTE AÑO AL 15 DE ENERO DE 2006.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE NOVIEMBRE DE 2005.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 19 de septiembre de 2005.
 
@@ -68,3 +70,11 @@ PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL MAESTRO EN DERECHO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 34/2005, del Pleno del Consejo de la Judicatura Federal, Relativo a la Exclusión del Turno de Nuevos Asuntos al Segundo y Tercer Tribunales Colegiados en Materia Administrativa del Segundo Circuito, con Residencia en Naucalpan de Juárez, así como de la Modificación Temporal de la Jurisdicción Territorial del Primer Tribunal Colegiado en Materia Administrativa del Segundo Circuito con Residencia en Toluca, fue aprobado por el Pleno del Consejo, en sesión de siete de septiembre de dos mil cinco, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Luis María Aguilar Morales, Adolfo O. Aragón Mendía, Elvia Díaz de León D´Hers, María Teresa Herrera Tello y Miguel A. Quirós Pérez.- México, Distrito Federal, a siete de septiembre de dos mil cinco.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 28 DE NOVIEMBRE DE 2005.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
