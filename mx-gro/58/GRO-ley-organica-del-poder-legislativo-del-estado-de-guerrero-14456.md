@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-poder-legislativo-del-estado-de-guerrero-14456
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-06-11"
-last_updated: "2005-10-28"
+last_updated: "2005-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NUMERO 286
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE NOVIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 11 de junio de 1999.
 
@@ -207,15 +207,19 @@ XVI. Dictar las Leyes necesarias en el ramo de educación pública que no sean d
 
 XVII. Excitar a los Poderes de la Unión a que protejan al Estado en los casos a que hace referencia el artículo 119 de la Constitución General de la República;
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 29 DE NOVIEMBRE DE 2005)</small>
 
-XVIII. Examinar, discutir y aprobar, a más tardar en el mes de diciembre de cada año, el Presupuesto de Egresos del Estado y expedir su Ley relativa. El Congreso no podrá dejar de señalar la retribución que corresponda a un empleo que esté establecido por la Ley. En caso de que por cualquier circunstancia se omita fijar dicha remuneración, se tendrá por señalada la que hubiese sido fijada en el presupuesto del año anterior o al de la Ley que estableció el empleo.
+XVIII. Examinar, discutir y aprobar, en su caso, el Presupuesto Anual de Egresos del Estado y expedir el Decreto correspondiente. El Congreso no podrá dejar de señalar la retribución que corresponda a un empleo que esté establecido por la Ley. En caso de que por cualquier circunstancia se omita fijar dicha remuneración, se tendrá por señalada la que hubiese sido fijada en el presupuesto del año anterior o al de la Ley que estableció el empleo.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
 En el caso de que el Presupuesto de Egresos propuesto por el Ejecutivo no fuese aprobado, a más tardar el día 31 de diciembre de cada año, seguirá vigente el aprobado el año inmediato anterior;
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2005)</small>
 
-XIX. Revisar los ingresos y egresos públicos estatales del cuatrimestre correspondiente, otorgando constancia definitiva de aprobación, en su caso, o exigiendo las responsabilidades a que haya lugar;
+XIX. Revisar los Informes Financieros cuatrimestrales así como las Cuentas Públicas estatal y municipales del ejercicio fiscal correspondiente, con el objeto de conocer los resultados de la gestión financiera, comprobar si se han ajustado a los criterios señalados por las leyes de la materia y el Presupuesto de Egresos y, si se cumplieron los objetivos y metas contenidos en los programas.
+
+Si del examen que se realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas, o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley;
 
 XX. Convocar a elecciones extraordinarias para Diputados cuando no se hubieren realizado en el período respectivo o hubiesen sido declaradas nulas las efectuadas, y proveer lo conducente;
 
@@ -290,6 +294,10 @@ XLIV. Establecer en favor de los Municipios las contribuciones, rendimientos de 
 XLV. Autorizar, en su caso, lo previsto en el artículo 28 párrafo sexto de la Constitución Federal de la República;
 
 XLVI. Expedir la Ley de Planeación del Estado;
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2005)</small>
+
+XLVI Bis. Aprobar, con el voto de las dos terceras partes de los miembros del Congreso presentes en sesión, el Plan Estatal de Desarrollo, en un término que no exceda de treinta días contados a partir de la recepción del mismo, conforme a las disposiciones legales aplicables en la materia;
 
 > <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
@@ -827,17 +835,21 @@ III. Los demás análogos que a juicio del Presidente del Congreso o de la Comis
 
 A la Comisión de Presupuesto y Cuenta Pública le corresponde conocer de los asuntos siguientes:
 
-I. Los que se relacionen con la aprobación del Presupuesto de Egresos del Estado;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2005)</small>
 
-II. Lo referente a la aprobación de la Cuenta Pública del Gobierno del Estado correspondiente al año inmediato anterior, debiendo presentar el dictamen respectivo al Pleno del Congreso en los plazos que determinen las disposiciones aplicables;
+I. Los que se relacionen con la integración, aprobación y ejecución del Presupuesto de Egresos del Estado;
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2005)</small>
 
-III. Recibir de la Auditoria General del Estado, los informes sobre el ejercicio del gasto de la administración pública centralizada y paraestatal, así como los Informes de Resultados de la Revisión de las Cuentas Públicas Estatal y Municipales;
+II. Los referentes a la revisión de las Cuentas Públicas Anuales de la Hacienda Pública del Gobierno del Estado y Municipios, debiendo presentar el dictamen respectivo al Pleno del Congreso en los plazos que determinen las disposiciones aplicables;
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2005)</small>
 
-IV. Gestionar la autorización para requerir a la Secretaría de Finanzas y Administración del Poder Ejecutivo del Estado la retención temporal de recursos financieros que ingresen a la Hacienda Estatal y que corresponda a las dependencias y entidades de la administración pública estatal, cuando en el manejo de dichos recursos se hayan detectado desviaciones a los fines establecidos, con excepción de los recursos contemplados en la Ley de Coordinación Fiscal y los destinados al pago de sueldos y salarios; y
+III. Recibir de la Auditoria General del Estado, los Informes de Resultados Anuales relativos a la presentación y revisión de las Cuentas Públicas Estatal y Municipales, así como aquellos que se desprendan de la fiscalización de los Informes Financieros cuatrimestrales, a fin de dar seguimiento al pliego de observaciones o, en su caso, emitir el dictamen correspondiente;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2005)</small>
+
+IV. Turnar al Congreso del Estado para que el Presidente gestione la solicitud de autorización por parte de la Auditoría General del Estado, para requerir a la Secretaría de Finanzas y Administración del Poder Ejecutivo del Estado la retención temporal de recursos financieros que ingresen a la Hacienda Estatal y que corresponda a las Entidades Fiscalizadas de la Administración Pública Estatal, cuando en el manejo de dichos recursos se hayan detectado desviaciones a los fines establecidos, con excepción de los recursos que les corresponda, contemplados en la Ley de Coordinación Fiscal y, los destinados al pago de sueldos y salarios; y
 
 V. Los demás análogos que, a juicio del Presidente del Congreso o de la Comisión Permanente, en su caso, le sean turnados.
 
@@ -1157,7 +1169,9 @@ VI. Vigilar que los Ayuntamientos presenten en tiempo y forma sus cuentas públi
 
 VII. Ser el conducto de coordinación entre el Congreso y la Auditoria General del Estado;
 
-VIII. Recibir la comprobación del presupuesto ejercido por la Auditoria General del Estado;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2005)</small>
+
+VIII. Recibir y dictaminar la comprobación del presupuesto ejercido por la Auditoria General del Estado;
 
 IX. Recibir el proyecto de presupuesto anual de la Auditoria General del Estado para su inclusión en el proyecto de presupuesto de egresos del H. Congreso; y
 
@@ -1745,7 +1759,9 @@ Los empates en las votaciones se decidirán repitiéndolas, y en caso de que és
 
 Los Diputados deberán excusarse y podrán ser recusados para votar estando en la sesión, cuando tengan interés personal en el asunto y así lo justifiquen ante el Pleno.
 
-## TITULO SEPTIMO. De las comparecencias y ratificación de nombramientos
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE NOVIEMBRE DE 2005)</small>
+
+## TITULO SEPTIMO. De las comparecencias, ratificación de nombramientos y aprobación del Plan Estatal de Desarrollo
 
 ### Capítulo I. De las comparecencias
 
@@ -1819,11 +1835,37 @@ Tratándose del nombramiento del Fiscal Especializado para la Atención de Delit
 
 Durante los períodos de receso, la Comisión Permanente, ratificará los nombramientos y los someterá al Pleno en el siguiente período ordinario de sesiones, para su aprobación definitiva.
 
-### Capítulo I. De la substanciación de la responsabilidad de los servidores públicos
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE NOVIEMBRE DE 2005)</small>
+
+### Capítulo III. Del análisis y aprobación del Plan Estatal de Desarrollo
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2005)</small>
+
+###### Artículo 161 Bis 1.
+
+El análisis y la aprobación del Plan Estatal de Desarrollo se sujetará al siguiente procedimiento:
+
+I. Recibido el Plan Estatal de Desarrollo en el Congreso del Estado, se hará del conocimiento del Pleno y se turnará a la Comisión Especial que para el efecto se designe en la misma sesión, su vigencia será hasta por treinta días, plazo en el que deberá presentar el Dictamen para su aprobación al Congreso o, en su caso, a la Comisión Permanente.
+
+II. La Comisión Especial para el análisis y emisión del dictamen del Plan Estatal de Desarrollo, estará integrada por quince Diputados que serán designados por insaculación; el primer insaculado será el Presidente y el último, será el Secretario.
+
+III. Designada la Comisión Especial para el análisis y emisión del dictamen del Plan Estatal de Desarrollo, realizará los estudios que requiera y considere pertinentes, a fin de lograr un examen exhaustivo del Plan Estatal de Desarrollo, el cual deberá sujetarse a los lineamientos establecidos en la Ley de Planeación del Estado de Guerrero.
+
+Para el logro de este objetivo, la Comisión Especial para el análisis y emisión del dictamen del Plan Estatal de Desarrollo podrá solicitar, a través de su Presidente, la información que requiera a las dependencias de la administración pública estatal y, en su caso, invitar a reuniones de trabajo a los servidores públicos para que expongan los planes y programas de sus respectivas competencias que coadyuve a enriquecer el criterio de los Diputados y conduzca al consenso y fortalecimiento de las decisiones de modificación que, en su caso, se produzcan al Plan Estatal de Desarrollo.
+
+IV. Emitido y aprobado el Dictamen por los integrantes de la Comisión Especial para el análisis y emisión del dictamen del Plan Estatal de Desarrollo, se remitirá al Pleno del Congreso o a la Comisión Permanente, en su caso, para que se (sic) discusión y aprobación por el voto de los dos terceras partes de los Diputados presentes en sesión.
+
+Una vez aprobado el Plan Estatal de Desarrollo, se remitirá al Gobernador del Estado para que se le otorgue vigencia, publique y ejecute.
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2005)</small>
+
+###### Artículo 161 Bis 2.
+
+Para los Efectos de la revisión, adecuación y modificación del Plan Estatal de Desarrollo y de los Programas a mediano plazo, dispuesto en la Ley de Planeación para el Estado de Guerrero, se realizará el procedimiento señalado en el artículo anterior.
 
 ## TITULO OCTAVO. De la responsabilidad de los servidores públicos y de la suspensión de Ayuntamientos y de sus integrantes
 
-### Capítulo II. De la Substanciación del Trámite para suspender Ayuntamientos, declarar su Desaparición y suspender o revocar el Mandato de alguno de sus Miembros
+### Capítulo I. De la substanciación de la responsabilidad de los servidores públicos
 
 ###### Artículo 162.
 
@@ -1845,7 +1887,7 @@ Las conclusiones que sobre la denuncia emita la Comisión Instructora, deberán 
 
 Los dictámenes que la Comisión emita, se someterán a la consideración del Pleno.
 
-### Capítulo I. De los Derechos de los Diputados
+### Capítulo II. De la Substanciación del Trámite para suspender Ayuntamientos, declarar su Desaparición y suspender o revocar el Mandato de alguno de sus Miembros
 
 ###### Artículo 167.
 
@@ -1853,7 +1895,7 @@ Para los efectos de este Capítulo, se observarán estrictamente las reglas que 
 
 ## TITULO NOVENO. De los Diputados
 
-### Capítulo II. De las Obligaciones de los Diputados
+### Capítulo I. De los Derechos de los Diputados
 
 ###### Artículo 168.
 
@@ -1897,7 +1939,7 @@ De conformidad con el Presupuesto de Egresos del Poder Legislativo, los Diputado
 
 Las dietas serán personales y sólo podrán ser objeto de descuento por la Dirección de Administración, previa autorización o instrucción de la Comisión de Gobierno o por mandato judicial tendiente al cumplimiento coactivo de obligaciones personales en términos de Ley.
 
-### Capítulo III. De la Suspensión y Pérdida de la Condición de Diputado
+### Capítulo II. De las Obligaciones de los Diputados
 
 ###### Artículo 172.
 
@@ -1961,7 +2003,7 @@ Es obligación de los Diputados rendir anualmente un informe escrito del ejercic
 
 Los Diputados se abstendrán de intervenir en aquéllos asuntos de competencia del Congreso, en los que tengan algún interés personal; que interesen a su cónyuge, concubina o concubinario, según sea el caso, o a sus parientes consanguíneos en línea recta sin limitación de grados, a los colaterales y a los afines hasta el cuarto grado. El que contraviniese esta disposición, incurrirá en responsabilidad.
 
-### Capítulo IV. De la Etica Parlamentaria
+### Capítulo III. De la Suspensión y Pérdida de la Condición de Diputado
 
 ###### Artículo 183.
 
@@ -1979,7 +2021,7 @@ IV. Por sentencia judicial firme que declare el estado de interdicción.
 
 Se perderá la condición de Diputado por muerte, renuncia, destitución o extinción del mandato.
 
-### Capítulo V. De las Sanciones
+### Capítulo IV. De la Etica Parlamentaria
 
 ###### Artículo 185.
 
@@ -1997,7 +2039,7 @@ Los Diputados en el ejercicio de sus funciones, tanto en el recinto oficial como
 
 Los Diputados durante sus intervenciones en la tribuna o en cualquier acto oficial, se abstendrán de afectar o lesionar la dignidad de cualquier compañero, servidor público o ciudadano.
 
-### Capítulo I. Disposiciones Generales
+### Capítulo V. De las Sanciones
 
 ###### Artículo 189.
 
@@ -2079,7 +2121,7 @@ El Presidente informará inmediatamente a las autoridades competentes, de la com
 
 ## TITULO DECIMO. De los Organos Administrativos y Técnicos del Congreso
 
-### Capítulo II. Del Servicio Civil de Carrera
+### Capítulo I. Disposiciones Generales
 
 ###### Artículo 197.
 
@@ -2113,7 +2155,7 @@ IV. No ser ministro de culto religioso alguno, y
 
 V. No desempeñar ningún otro empleo, cargo o comisión pública por el que se disfrute salario, excepción hecha de las actividades docentes o de beneficencia pública.
 
-### Capítulo III. De la Oficialía Mayor
+### Capítulo II. Del Servicio Civil de Carrera
 
 ###### Artículo 200.
 
@@ -2143,9 +2185,7 @@ El personal técnico, administrativo y de apoyo de los órganos a que se refiere
 
 Las relaciones laborales del Congreso del Estado con sus servidores públicos, se regirán por la Ley de Trabajo de los Servidores Públicos del Estado de Guerrero.
 
-### Capítulo IV. De la Auditoria General del Estado
-
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+### Capítulo III. De la Oficialía Mayor
 
 ###### Artículo 203.
 
@@ -2175,7 +2215,9 @@ XI. Las demás que le encomiende esta Ley, el Pleno o la Comisión Permanente, s
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
-### Capítulo V. De la Dirección de Administración
+### Capítulo IV. De la Auditoria General del Estado
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
 ###### Artículo 204.
 
@@ -2183,7 +2225,7 @@ La Auditoria General del Estado es el órgano técnico auxiliar del Poder Legisl
 
 La Auditoria General del Estado tendrá una Ley que establezca su competencia, organización interna, funcionamiento y procedimientos. El desempeño de sus atribuciones lo realizará bajo el control y supervisión de la Comisión de Vigilancia y Evaluación de la Auditoria General del Estado.
 
-### Capítulo Unico
+### Capítulo V. De la Dirección de Administración
 
 ###### Artículo 205.
 
@@ -2225,7 +2267,7 @@ El Director de Administración, antes de asumir el cargo, depositará una fianza
 
 ## TITULO DECIMO PRIMERO. Del Instituto de Estudios Parlamentarios "Eduardo Neri" del Congreso del Estado de Guerrero
 
-### Capítulo Unico. De la Presea Sentimientos de la Nación
+### Capítulo Unico
 
 ###### Artículo 207.
 
@@ -2270,6 +2312,8 @@ El órgano superior de gobierno del Instituto será el Comité que se establece 
 El Pleno del Congreso del Estado, a propuesta de la Comisión de Gobierno, nombrará y removerá al Director del Instituto; quien deberá reunir los requisitos establecidos en el artículo 199 de esta Ley.
 
 ## TITULO DECIMO SEGUNDO
+
+### Capítulo Unico. De la Presea Sentimientos de la Nación
 
 ###### Artículo 214.
 
@@ -2376,3 +2420,11 @@ Una vez aprobado el presente Decreto, hágase la integración de la Comisión de
 ###### ARTICULO TERCERO.
 
 Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE NOVIEMBRE DE 2005.
+
+Artículo Primero.- El presente Decreto entrará en vigor a partir de la fecha de su expedición.
+
+Artículo Segundo.- Comuníquese el presente Decreto al Gobernador del Estado para su conocimiento y efectos conducentes.
+
+Artículo Tercero.- Publíquese en el Periódico Oficial del Gobierno del Estado para su conocimiento general.
