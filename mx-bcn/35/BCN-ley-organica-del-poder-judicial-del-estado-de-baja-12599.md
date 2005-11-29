@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-judicial-del-estado-de-baja-12599"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-04"
-last_updated: "2005-11-01"
+last_updated: "2005-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE NOVIEMBRE DE 2005.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 4 de octubre de 1995.
 
@@ -1502,6 +1502,10 @@ En los términos del segundo y tercer párrafo del artículo 65 de la Constituci
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE NOVIEMBRE DE 2005)</small>
 
 Para efecto de lo anterior, el Congreso y el Pleno del Tribunal Superior de Justicia, efectuarán las designaciones, a más tardar el 30 de noviembre del año que corresponda.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2005)</small>
+
+Los magistrados de los Tribunales Superior de Justicia y de Justicia Electoral, así como el Juez Consejero, no recibirán por desempeñar este cargo, compensación, estímulos o cualquier otra prestación en dinero o en especie adicional a la que reciban como titulares de sus respectivos órganos jurisdiccionales.
 
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
 
@@ -3204,3 +3208,9 @@ PRIMERO.- La presente reforma entrará en vigor el día de su publicación en el
 SEGUNDO.- Hasta en tanto, se realicen las designaciones de los Consejeros de la Judicatura que deban efectuar el Congreso del Estado y el Pleno del Tribunal Superior de Justicia, bastará con la presencia de dos Consejeros para sesionar.
 
 TERCERO.- El Pleno del Tribunal Superior de Justicia deberá publicar la convocatoria a que se refiere la fracción I del artículo 157 objeto de las presentes reformas, dentro de los tres días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 29 DE NOVIEMBRE DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La presente reforma será aplicable a los Consejeros de la Judicatura que sustituyan a los que actualmente se encuentren en funciones.
