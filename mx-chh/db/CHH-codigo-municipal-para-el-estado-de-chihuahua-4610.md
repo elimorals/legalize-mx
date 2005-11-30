@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2005-10-26"
+last_updated: "2005-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2005.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -663,7 +663,7 @@ XXXIX.- Celebrar convenios para la administración y custodia de zonas federales
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
 
-XL.- Aprobar el anteproyecto de tablas de valores unitarios de suelo y construcciones que expida la autoridad catastral municipal, mismas que servirán de base para el cálculo de los impuestos que gravan la propiedad inmobiliaria y someterlo a la consideración del Congreso del Estado, antes del día treinta y uno de octubre del año anterior al ejercicio, para su aprobación y posterior publicación en el Periódico Oficial del Estado,
+XL.- Aprobar el anteproyecto de tablas de valores unitarios de suelo y construcciones que expida la autoridad catastral municipal, mismas que servirán de base para el cálculo de los impuestos que gravan la propiedad inmobiliaria y someterlo a la consideración del Congreso del Estado, antes del día treinta y uno de octubre del año anterior al ejercicio, para su aprobación y posterior publicación en el Periódico Oficial del Estado;
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2004)</small>
 
@@ -843,7 +843,13 @@ VIII.- No podrán ser reconvenidos por las opiniones que manifiesten, en el dese
 
 IX.- Una vez que reciba de la Asamblea Municipal la constancia de mayoría y antes de tomar posesión del cargo, asistir a los cursos de Profesionalización, Capacitación y Formación que instrumente el Ayuntamiento respectivo, tendientes a proporcionar conocimiento y habilidades inherentes al cargo para el que fueron electos;
 
-X.- Las demás que les otorguen, otras disposiciones aplicables a la materia.
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2005)</small>
+
+X.- Asistir y acreditar los cursos de capacitación y formación que instrumente e imparta el Ejecutivo del Estado, por conducto de la dependencia del ramo correspondiente, una vez que el Instituto Estatal Electoral les haga entrega de las constancias que los acredite como tales y antes de tomar posesión de su cargo;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE NOVIEMBRE DE 2005)</small>
+
+XI.- Las demás que les otorguen, otras disposiciones aplicables a la materia.
 
 ###### ARTICULO 34.
 
@@ -935,7 +941,13 @@ XV.- Solicitar datos, informes y documentación en general a fin de hacer las co
 
 XVI.- Elaborar y remitir con oportunidad al Ayuntamiento, el proyecto de presupuesto de la Sindicatura, para la discusión, modificación en su caso, y aprobación por el Cabildo de la partida presupuestal correspondiente;
 
-XVII.- Las demás que establezcan las leyes y reglamentos.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2005)</small>
+
+XVII.- Asistir y acreditar los cursos de capacitación y formación que instrumente e imparta el Ejecutivo del Estado, por conducto de la dependencia del ramo correspondiente, una vez que el Instituto Estatal Electoral le haga entrega de la constancia que lo acredite como tal y antes de tomar posesión de su cargo;
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2005)</small>
+
+XVIII.- Las demás que establezcan las leyes y reglamentos.
 
 ### CAPITULO VI. DE LAS JUNTAS MUNICIPALES Y LAS COMISARIAS DE POLICIA
 
@@ -2523,7 +2535,7 @@ Tratándose de bienes inmuebles cuya adquisición se derive de procesos de regul
 
 En cuanto a operaciones que tengan como fin la regularización de la tenencia de la tierra, llevadas a cabo por la Comisión para la Regularización de la Tenencia de la Tierra, será optativo para el contribuyente acogerse al tratamiento anterior o al avalúo global practicado por la Comisión de Avalúos de Bienes Nacionales, e individualizado en su operación.
 
-> <small>N. DE E. ES DE OBSERVARSE QUE EN EL DECRETO DE REFORMAS PUBLICADO EN P.O. 9 DE JUNIO DE 1999, EL LEGISLADOR SEÑALA QUE SE REFORMA EL "PARRAFO SEGUNDO DE LA FRACCION TERCERA", SIN EMBARGO, DE SU LECTURA SE CONCLUYE QUE ES EL PRESENTE PARRAFO EL COINCIDENTE CON DICHA REFORMA.</small>
+> <small>N. DE E. ES DE OBSERVARSE QUE EN EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 9 DE JUNIO DE 1999, EL LEGISLADOR SEÑALA QUE SE REFORMA EL "PARRAFO SEGUNDO DE LA FRACCION TERCERA", SIN EMBARGO, DE SU LECTURA SE CONCLUYE QUE ES EL PRESENTE PARRAFO EL COINCIDENTE CON DICHA REFORMA.</small>
 
 > <small>(REFORMADO, P.O. 9 DE JUNIO DE 1999)</small>
 
@@ -3688,3 +3700,7 @@ SEGUNDO.- Los Ayuntamientos del Estado, con base a esta nueva adición, expedir�
 ## TRANSITORIO
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE NOVIEMBRE DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
