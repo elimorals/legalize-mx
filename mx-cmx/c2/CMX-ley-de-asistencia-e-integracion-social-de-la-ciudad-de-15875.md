@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-asistencia-e-integracion-social-de-la-ciudad-de-15875"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-16"
-last_updated: "2000-03-16"
+last_updated: "2005-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15875&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-12-02"
 
 LEY DE ASISTENCIA E INTEGRACION SOCIAL PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE NOVIEMBRE DE 2005.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 16 de marzo de 2000.
 
@@ -166,13 +166,17 @@ Se entiende como usuarios de los programas y servicios de asistencia social, a t
 
 El Gobierno promoverá la participación en el Sistema de Asistencia e Integración Social del Distrito Federal de los usuarios de los programas y servicios de asistencia social de los sectores público, social y privado.
 
+> <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 2005)</small>
+
 ###### Artículo 15.
 
-Los usuarios tienen derecho a la asistencia e integración social, independientemente de la condición cultural, orientación sexual, identidad étnica y género de los individuos.
+Los usuarios tienen derecho a los servicios y programas de asistencia e integración social, en circunstancias de igualdad y equidad, independientemente de su origen étnico, género, edad, capacidad física y mental, condición cultural, condición social, condiciones de salud, religión u orientación sexual.
+
+> <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 2005)</small>
 
 ###### Artículo 16.
 
-El usuario tendrá el respeto a la dignidad, a su vida privada, a su cultura y valores, en todo momento durante la asistencia social.
+A los usuarios en todo momento se les garantizará el respeto a sus derechos humanos, a su integridad física y mental, a su dignidad, a su vida privada, a su cultura y valores, durante su estancia en cualquier centro de asistencia social.
 
 ###### Artículo 17.
 
@@ -241,3 +245,11 @@ QUINTO.- Se derogan todas las disposiciones que se opongan a este ordenamiento.
 Salón de sesiones de la Asamblea Legislativa del Distrito Federal, a 16 de noviembre de mil novecientos noventa y nueve.- POR LA MESA DIRECTIVA.- DIP. FERNANDO DE GARAY Y ARENAS, PRESIDENTE.- DIP. FRANCISCO ORTIZ AYALA, SECRETARIO.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial de la Jefa de Gobierno del Distrito Federal, en la Ciudad de México, a los dos días del mes de diciembre de mil novecientos noventa y nueve.- LA JEFA DE GOBIERNO DEL DISTRITO FEDERAL, ROSARIO ROBLES BERLANGA.- FIRMA.- EL SECRETARIO DE GOBIERNO, LEÓNEL GODOY RANGEL.- FIRMA.- EL SECRETARIO DE SALUD, ARMANDO CORDERA PASTOR.- FIRMA.- LA SECRETARIA DE DESARROLLO SOCIAL, CLARA JUSIDMAN RAPOPORT.- FIRMA.- EL SECRETARIO DE FINANZAS, ARMANDO LÓPEZ FERNÁNDEZ.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 30 DE NOVIEMBRE DE 2005.
+
+PRIMERO.- Túrnese al Jefe de Gobierno del Distrito Federal, para su promulgación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
