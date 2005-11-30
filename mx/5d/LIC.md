@@ -4,7 +4,7 @@ identifier: "LIC"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "2004-11-05"
+last_updated: "2005-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIC"
 
 LEY DE INSTITUCIONES DE CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE NOVIEMBRE DE 2005.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -56,7 +56,13 @@ Para efectos de lo dispuesto en la presente Ley, se considera servicio de banca 
 
 No se consideran operaciones de banca y crédito aquellas que, en el ejercicio de las actividades que les sean propias, celebren intermediarios financieros distintos a instituciones de crédito que se encuentren debidamente autorizados conforme a los ordenamientos legales aplicables. Dichos intermediarios en ningún caso podrán recibir depósitos irregulares de dinero en cuenta de cheques.
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 30 DE ABRIL DE 1996)</small>
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2005)</small>
+
+Tampoco se considerarán operaciones de banca y crédito la captación de recursos del público mediante la emisión de instrumentos inscritos en el Registro Nacional de Valores, colocados mediante oferta pública incluso cuando dichos recursos se utilicen para el otorgamiento de financiamientos de cualquier naturaleza.
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2005)</small>
+
+Para efectos de este artículo y del artículo 103 se entenderá que existe captación de recursos del público cuando: a) se solicite, ofrezca o promueva la obtención de fondos o recursos de persona indeterminada o mediante medios masivos de comunicación, o b) se obtengan o soliciten fondos o recursos de forma habitual o profesional.
 
 ###### ARTICULO 3o.
 
@@ -1964,7 +1970,7 @@ Las instituciones de crédito estarán obligadas a recabar los datos de su clien
 
 ### CAPITULO I. De las Prohibiciones
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE JUNIO DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 99.
 
@@ -2020,19 +2026,25 @@ La Comisión Nacional Bancaria y de Valores fijará las reglas para la estimaci�
 
 ###### ARTICULO 103.
 
-Ninguna persona física o moral, podrá captar directa o indirectamente recursos del público en el territorio nacional, mediante actos causantes de pasivo directo o contingente, obligándose a cubrir el principal y, en su caso, los accesorios financieros de los recursos captados.
+Ninguna persona física o moral, podrá captar directa o indirectamente recursos del público en territorio nacional, mediante la celebración de operaciones de depósito, préstamo, crédito, mutuo o cualquier otro acto causante de pasivo directo o contingente, quedando obligado a cubrir el principal y, en su caso, los accesorios financieros de los recursos captados.
 
 Se exceptúa de lo dispuesto en el párrafo anterior a:
 
 I. Las instituciones de crédito reguladas en la presente Ley, así como a los demás intermediarios financieros debidamente autorizados conforme a los ordenamientos legales aplicables;
 
-II. Los emisores de instrumentos inscritos en el Registro Nacional de Valores e Intermediarios, respecto de los recursos provenientes de la colocación de dichos instrumentos, siempre y cuando estos recursos no se utilicen en el otorgamiento de créditos de cualquier naturaleza, y
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2005)</small>
+
+II. Los emisores de instrumentos inscritos en el Registro Nacional de Valores colocados mediante oferta pública, respecto de los recursos provenientes de dicha colocación, y
 
 III. (DEROGADA, D.O.F. 23 DE JULIO DE 1993)
 
 > <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
 IV. Las sociedades financieras de objeto limitado autorizadas por la Secretaría de Hacienda y Crédito Público que capten recursos provenientes de la colocación de instrumentos inscritos en el Registro Nacional de Valores e Intermediarios y otorguen créditos para determinada actividad o sector.
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2005)</small>
+
+Los emisores a que se refiere la fracción II, que utilicen los recursos provenientes de la colocación para otorgar crédito, deberán ajustarse a las disposiciones de carácter general que, en su caso, expida la Comisión Nacional Bancaria y de Valores en materia de información financiera, administrativa, económica, contable y legal, que deberán dar a conocer al público en los términos de la Ley del Mercado de Valores.
 
 > <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1993)</small>
 
@@ -3284,7 +3296,7 @@ Los procedimientos que hubieren iniciado con anterioridad a la entrada en vigor 
 
 D.O.F. 24 DE DICIEMBRE DE 2002.
 
-SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS DEL DECRETO QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
@@ -3337,3 +3349,7 @@ La Comisión Nacional Bancaria y de Valores contará con un plazo de 180 días n
 D.O.F. 5 DE NOVIEMBRE DE 2004.
 
 Unico.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE NOVIEMBRE DE 2005.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
