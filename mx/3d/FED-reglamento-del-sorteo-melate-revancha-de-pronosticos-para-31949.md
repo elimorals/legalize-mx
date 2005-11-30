@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sorteo-melate-revancha-de-pronosticos-para-31949
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-18"
-last_updated: "2005-09-22"
+last_updated: "2005-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31949&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2003-05-19"
 
 REGLAMENTO DEL SORTEO MELATE-REVANCHA DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE SEPTIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE NOVIEMBRE DE 2005.
 
-Reglamento publicado en el Diario Oficial de la Federación el miércoles 18 de junio de 2003.
+Reglamento publicado en el Diario Oficial de la Federación, el miércoles 18 de junio de 2003.
 
 PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
@@ -77,11 +77,13 @@ Con excepción de las causas señaladas en el presente reglamento, no será posi
 
 Sólo se podrá participar en el sorteo, utilizando los volantes oficiales emitidos por Pronósticos para ser leídos mediante las terminales (dispositivo electrónico) aprobadas por Pronósticos, por dictado del concursante al agente autorizado o a través de una selección automática y aleatoria efectuada por la terminal (Melático). Sus agentes autorizados los proporcionarán a todo posible participante.
 
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2005)</small>
+
 ###### Artículo 5o.
 
-En el volante que emita Pronósticos, el participante marcará de 6 (seis) a 10 (diez) números seleccionados entre los 47 (cuarenta y siete) impresos en el propio volante, que constituirán su pronóstico sobre el resultado del sorteo respectivo.
+En el volante que emita Pronósticos, el participante marcará de 6 (seis) a 10 (diez) números seleccionados entre los 51 (cincuenta y un) impresos en el propio volante, que constituirán su pronóstico sobre el resultado del sorteo respectivo.
 
-Combinación sencilla es la selección de 6 (seis) distintos números de los 47 (cuarenta y siete) determinados por Pronósticos.
+Combinación sencilla es la selección de 6 (seis) distintos números de los 51 (cincuenta y uno) determinados por Pronósticos.
 
 Combinación múltiple es la selección de 7 (siete) a 10 (diez) números y da lugar a varias combinaciones sencillas: 7 (siete) números a 7 (siete), 8 (ocho) números a 28 (veintiocho), 9 (nueve) números a 84 (ochenta y cuatro) y 10 (diez) números a 210 (doscientas diez).
 
@@ -173,9 +175,11 @@ Todos los sorteos se verificarán en lugar al cual tenga libre acceso el públic
 
 Pronósticos publicará en diarios de circulación importante, el siguiente día al que se hubiere verificado el sorteo, la combinación de números ganadora y el importe de la premiación por combinación sencilla correspondiente a cada una de las categorías establecidas.
 
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2005)</small>
+
 ###### Artículo 15o.
 
-El día y hora fijados para el sorteo ante la presencia del Inspector designado por la Secretaría de Gobernación, se procederá a introducir en una tómbola 47 esferas iguales en todas sus características, cada una identificada con un número diferente comprendido del 1 (uno) al 47 (cuarenta y siete), inclusive.
+El día y hora fijados para el sorteo ante la presencia del Inspector designado por la Secretaría de Gobernación, se procederá a introducir en una tómbola 51 esferas iguales en todas sus características, cada una identificada con un número diferente comprendido del 1 (uno) al 51 (cincuenta y uno), inclusive.
 
 Ante la presencia del mismo Inspector se procederá a extraer de la tómbola, una a una y al azar, 6 (seis) esferas y otra “adicional” cuyos números integrarán la combinación de números ganadora.
 
@@ -185,7 +189,7 @@ El orden o secuencia en que se extraigan las 6 (seis) primeras esferas numeradas
 
 Concluido el sorteo y determinada la combinación de números ganadora, también en presencia del Inspector de la Secretaría de Gobernación, se procederá a efectuar la identificación de las combinaciones que hayan acertado a los números sorteados y sean ganadoras en las distintas categorías de premiación.
 
-> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2005)</small>
 
 ###### Artículo 17o.
 
@@ -195,13 +199,15 @@ Dicho fondo se aplicará como sigue:
 
 Un 10% a los agentes como comisión por las ventas que realicen.
 
-El 40% destinado a premiación de los participantes ganadores.
+Un mínimo del 45% destinado a premiación de los participantes ganadores.
 
-De la cantidad restante, así como de las demás que se determinen al efecto de otros productos e ingresos de la entidad, se cubrirán las erogaciones e inversiones contenidas en el presupuesto anual autorizado por la Secretaría de Hacienda y Crédito Público, así como las cantidades que se destinen a formar la Reserva de Contingencia, y las demás que acuerde constituir su Consejo Directivo, y el saldo se entregará a la Tesorería de la Federación para que se destine a la asistencia pública, a través de las partidas del Presupuesto de Egresos de la Federación, que correspondan a programas de desarrollo social.
+De la cantidad restante, así como de las demás que se determinen al efecto de otros productos e ingresos de la entidad, se cubrirán las erogaciones e inversiones contenidas en el presupuesto anual autorizado por la Secretaría de Hacienda y Crédito Público, así como las cantidades que se destinen a formar la reserva de contingencia, y las demás que acuerde constituir su Consejo Directivo, y el saldo se entregará a la Tesorería de la Federación para que se destine a la asistencia pública, a través de las partidas del Presupuesto de Egresos de la Federación, que correspondan a programas de desarrollo social.
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2005)</small>
 
 ###### Artículo 18o.
 
-Se instituyen 7 categorías de premios en cada sorteo:
+Se instituyen 8 categorías de premios en cada sorteo:
 
 a) A primer lugar, a las combinaciones dentro de las cuales figuren los 6 (seis) primeros números extraídos al azar de la tómbola, a los que se designará números naturales.
 
@@ -213,17 +219,21 @@ d) A cuarto lugar, a las combinaciones dentro de las cuales figuren 4 (cuatro) d
 
 e) A quinto lugar, a las combinaciones dentro de las cuales figuren 4 (cuatro) de los 6 (seis) números naturales.
 
-f) A sexto lugar, a las combinaciones dentro de las cuales figuren 3 (tres) de los 6 (seis) números naturales y el adicional y,
+f) A sexto lugar, a las combinaciones dentro de las cuales figuren 3 (tres) de los 6 (seis) números naturales y el adicional.
 
-g) A séptimo lugar a las combinaciones dentro de las cuales figuren 3 (tres) de los 6 (seis) números naturales.
+g) A séptimo lugar, a las combinaciones dentro de las cuales figuren 3 (tres) de los 6 (seis) números naturales, y.
 
-Las combinaciones en las que figuren menos números de los mencionados en el inciso g) anterior, no serán acreedoras a premiación alguna.
+h) A octavo lugar, a las combinaciones dentro de las cuales figuren 2 (dos) de los 6 (seis) números naturales y el adicional.
+
+Las combinaciones en las que figuren menos números de los mencionados en el inciso h) anterior, no serán acreedoras a premiación alguna.
 
 ###### Artículo 19o.
 
 El Consejo Directivo de Pronósticos autorizará la asignación del fondo destinado a premiación de los participantes ganadores, a cada categoría de la estructura de premios señalada en el artículo 18o. de este reglamento y la dará a conocer previamente al público en los diarios de mayor circulación del país. Esta autorización tendrá vigencia hasta en tanto el propio Consejo Directivo no la modifique y le dé la publicidad señalada con antelación.
 
 El total para premiación asignado a cada una de las categorías se prorrateará entre todas las combinaciones de números ganadores a la misma categoría de premiación redondeando importes conforme a lo dispuesto en la Ley Monetaria de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2005)</small>
 
 ###### Artículo 20o.
 
@@ -236,6 +246,10 @@ De no haber combinación ganadora al tercer lugar lo asignado a esta categoría 
 De no haber combinación ganadora al cuarto lugar lo asignado a esta categoría acrecentará en su totalidad el premio asignado al quinto lugar.
 
 De no haber combinación ganadora a los lugares segundo, tercero, cuarto y quinto, el total de los premios vacantes correspondientes a dichas categorías acrecentará el premio asignado al primer lugar del siguiente sorteo.
+
+Las categorías de sexto, séptimo y octavo lugar no tienen premios acumulativos y, por lo tanto, sus importes asignados deberán repartirse en cada sorteo.
+
+Los montos asignados para la premiación de las cinco primeras categorías son variables y se establecen en función de las ventas del sorteo y los porcentajes de distribución establecidos para cada una de ellas. Los porcentajes de distribución se aplican al fondo de premiación una vez substraído el monto destinado a cubrir el pago de premios de la sexta a la octava categoría.
 
 > <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
 
@@ -339,9 +353,11 @@ Todos los sorteos se verificarán en lugar al cual tenga libre acceso el públic
 
 Pronósticos publicará en diarios de circulación importante, el siguiente día al que se hubiere verificado el sorteo, la combinación de números ganadora y el importe de la premiación por combinación sencilla correspondiente a cada una de las categorías establecidas.
 
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2005)</small>
+
 ###### Artículo 35o.
 
-El día y hora fijados para el sorteo ante la presencia del Inspector designado por la Secretaría de Gobernación, se procederá a introducir en una tómbola 47 esferas iguales en todas sus características, cada una identificada con un número diferente comprendido del 1 (uno) al 47 (cuarenta y siete), inclusive.
+El día y hora fijados para el sorteo ante la presencia del Inspector designado por la Secretaría de Gobernación, se procederá a introducir en una tómbola 51 esferas iguales en todas sus características, cada una identificada con un número diferente comprendido del 1 (uno) al 51 (cincuenta y uno), inclusive.
 
 Ante la presencia del mismo Inspector se procederá a extraer de la tómbola, una a una y al azar, 6 (seis) esferas cuyos números integrarán la combinación de números ganadora.
 
@@ -351,7 +367,7 @@ El orden o secuencia en que se extraigan las 6 (seis) primeras esferas numeradas
 
 Concluido el sorteo y determinada la combinación de números ganadora, también en presencia del Inspector de la Secretaría de Gobernación, se procederá a efectuar la identificación de las combinaciones que hayan acertado a los números sorteados y sean ganadoras en las distintas categorías de premiación.
 
-> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2005)</small>
 
 ###### Artículo 37o.
 
@@ -361,7 +377,7 @@ Dicho fondo se aplicará como sigue:
 
 Un 10% a los agentes como comisión por las ventas que realicen.
 
-El 40% destinado a premiación de los participantes ganadores.
+Un mínimo de 45% destinado a premiación de los participantes ganadores.
 
 De la cantidad restante, así como de las demás que se determinen al efecto de otros productos e ingresos de la entidad, se cubrirán las erogaciones e inversiones contenidas en el presupuesto anual autorizado por la Secretaría de Hacienda y Crédito Público, así como las cantidades que se destinen a formar la Reserva de Contingencia, y las demás que acuerde constituir su Consejo Directivo, y el saldo se entregará a la Tesorería de la Federación para que se destine a la asistencia pública, a través de las partidas del Presupuesto de Egresos de la Federación, que correspondan a programas de desarrollo social.
 
@@ -387,6 +403,8 @@ El Consejo Directivo de Pronósticos autorizará la asignación del fondo destin
 
 El total para premiación asignado a cada una de las categorías se prorrateará entre todas las combinaciones de números ganadores a la misma categoría de premiación redondeando importes conforme a lo dispuesto en la Ley Monetaria.
 
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2005)</small>
+
 ###### Artículo 40o.
 
 Cuando en un sorteo no hubiere combinación ganadora a primer lugar, el premio asignado a esta categoría incrementará en su totalidad el monto del premio al primer lugar del siguiente sorteo de Revancha, y si en éste tampoco la hubiere se seguirá el mismo procedimiento, y así sucesivamente, hasta que hubiere combinación ganadora en esta categoría de premiación.
@@ -394,6 +412,10 @@ Cuando en un sorteo no hubiere combinación ganadora a primer lugar, el premio a
 De no haber combinación ganadora al segundo lugar lo asignado a esta categoría acrecentará en su totalidad el premio al tercer lugar.
 
 De no haber combinación ganadora ni en segundo ni en tercer lugar, lo asignado a estas categorías acrecentará en su totalidad el premio asignado al primer lugar del siguiente sorteo.
+
+La categoría de cuarto lugar no tiene premio acumulativo y, por lo tanto, su importe asignado deberá repartirse en cada sorteo.
+
+Los montos asignados para la premiación de las tres primeras categorías son variables y se establecen en función de las ventas del sorteo y los porcentajes de distribución establecidos para cada una de ellas. Los porcentajes de distribución se aplican al fondo de premiación una vez substraído el monto destinado a cubrir el pago de premios de la cuarta categoría.
 
 > <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
 
@@ -494,3 +516,11 @@ Segundo.- Se abroga el Reglamento de Funcionamiento de los Concursos Súper de P
 Tercero.- Se reforman los artículos 3o., 10o. y 31o. del Reglamento del sorteo Melate-Revancha, artículos 3o. y 25o. del Reglamento del sorteo Chispazo, artículos 3o., 11o. y 28o. del Reglamento del sorteo Tris de números, todos de Pronósticos para la Asistencia Pública, cuando en ellos se haga referencia a la denominación "Concurso Súper" se entenderá como sorteos Instantáneos en Línea.
 
 Cuarto.- Los asuntos que se encuentren en trámite a la fecha de entrada en vigor de este Reglamento, serán resueltos conforme a lo dispuesto al Reglamento de los Concursos Súper de Pronósticos para la Asistencia Pública, abrogado.
+
+D.O.F. 30 DE NOVIEMBRE DE 2005.
+
+Primero.- Estas reformas entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
+
+Tercero.- Los asuntos que se encuentren en trámite a la fecha de entrada en vigor de las presentes reformas de este Reglamento, serán resueltos conforme a los anteriores.
