@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-comision-de-fiscalizacion-del-consejo-26561"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-11-13"
-last_updated: "2002-11-13"
+last_updated: "2005-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO DE LA COMISION DE FISCALIZACION DEL CONSEJO ESTATAL ELECTORAL DEL INSTITUTO ESTATAL ELECTORAL MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2005.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 13 de noviembre de 2002.
 
@@ -137,15 +137,37 @@ El Coordinador de la Comisión dará cuenta de la presentación de los informes 
 
 La Comisión iniciará el procedimiento de fiscalización, a que se refiere el artículo 72 del Código Electoral para el Estado, una vez que el Consejo Estatal Electoral determine la remisión a dicha Comisión, de los informes anuales o de campaña que presenten los partidos políticos.
 
-### CAPÍTULO QUINTO. DE LA RECEPCIÓN DE DOCUMENTOS Y ARCHIVO DE LA COMISIÓN
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2005)</small>
+
+### CAPÍTULO QUINTO. DEL PROCEDIMIENTO DE MONITOREO
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 30 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 23.
 
-La recepción, control y resguardo de los informes y la documentación de las finanzas y recursos de los partidos políticos así como toda la documentación que sea dirigida a la Comisión, estará a cargo del Director Ejecutivo de Administración y Financiamiento, misma que se remitirá al archivo del Instituto Estatal Electoral cuando haya causado estado el proceso de fiscalización; la documentación establecida en el artículo 72 del Código Electoral, se devolverá a los partidos políticos.
+Durante los procesos electorales la Comisión de Fiscalización, podrá llevar a cabo el monitoreo de spots y publicidad diversa que contraten los partidos, para el efecto de verificar lo reportado en los informes que sobre gastos de campaña presente los partidos políticos en radio y televisión, de acuerdo a lo establecido en el artículo 64 del Código Electoral para el Estado de Morelos y en el Reglamento de Fiscalización.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 30 DE NOVIEMBRE DE 2005)</small>
+
+###### ARTÍCULO 24.
+
+El monitoreo será realizado por una empresa especializada y con experiencia en el área a que se hace referencia en el párrafo anterior, la cual coadyuvara a la Comisión de fiscalización y la que será designada mediante el procedimiento de licitación reglamentado en el Instituto Estatal Electoral.
+
+(REUBICADO [N. DE E. ANTES CAPITULO QUINTO], P.O. 30 DE NOVIEMBRE DE 2005)
+
+### CAPÍTULO SEXTO. DE LA RECEPCIÓN DE DOCUMENTOS Y ARCHIVO DE LA COMISIÓN
+
+> <small>(ADICIONADO [N. DE E. ANTES ARTICULO 23], P.O. 30 DE NOVIEMBRE DE 2005)</small>
+
+###### ARTÍCULO 25.
+
+La recepción, control y resguardo de los informes y la documentación de las finanzas y recursos de los partidos políticos, así como toda la documentación que sea dirigida a la Comisión, estará a cargo del Director Ejecutivo de Administración y Financiamiento, misma que se remitirá al archivo del Instituto Estatal Electoral cuando haya causado estado el proceso de fiscalización; la documentación establecida en el artículo 72 del Código Electoral, se devolverá a los partidos políticos.
 
 La documentación deberá ser recibida con el sello correspondiente y firma de la persona responsable, anotándose la hora y fecha de presentación, describiéndose en la medida de lo posible los anexos; dicha documentación se registrará en un libro de control, asignándole un número de entrada, y a su vez, inmediatamente se hará formalmente del conocimiento de los miembros de la Comisión.
 
-###### ARTÍCULO 24.
+> <small>(ADICIONADO [N. DE E. ANTES ARTICULO 24], P.O. 30 DE NOVIEMBRE DE 2005)</small>
+
+###### ARTÍCULO 26.
 
 Se creará un archivo de seguimiento por partido político, al que solo tendrán acceso los miembros de la Comisión, con la obligación de guardar discreción de la información que consulten durante el proceso de fiscalización.
 
@@ -178,3 +200,13 @@ C. JOSÉ LUIS RODRÍGUEZ MARTÍNEZ
 C. HUMBERTO VALVERDE PRADO
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 30 DE NOVIEMBRE DE 2005.
+
+PRIMERO.- La adición de los artículos 23 y 24 del Capítulo Quinto del presente Reglamento, entrarán en vigor a partir del día siguiente a su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos, quedando a partir de esa fecha sin efecto legal alguno el texto anterior de los preceptos normativos de referencia.
+
+SEGUNDO.- Publíquense la reforma de los artículos antes citados, en el periódico oficial denominado "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
+
+TERCERO.- Infórmese al Congreso del Estado, las reformas efectuadas al presente Reglamento, en cumplimiento al decreto número 799 publicado en el Periódico Oficial "Tierra y Libertad" número 4416, de fecha 29 de septiembre del año en curso, por el que se reforman diversas disposiciones del Código Electoral para el Estado.
