@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-de-los-municipios-del-estado-de-quintana-roo-13
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-15"
-last_updated: "2005-04-28"
+last_updated: "2005-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de diciembre de 1997.
 
@@ -340,6 +340,10 @@ III.- El fundo legal.
 Cuando el impuesto causado sea cubierto en una sola emisión por anticipado y cubra todo el año y sea enterado en la Tesorería Municipal correspondiente, se faculta a los Ayuntamientos a conceder un descuento hasta del 25% del total del importe, siempre y cuando el pago se efectúe antes del 31 de enero y si el pago se realiza posteriormente y hasta el último día hábil del mes de febrero, un 15% de descuento del total del importe.
 
 Cuando el contribuyente sea una persona con capacidades diferentes, pensionado, jubilado o cuente con su credencial del INSEN, los Ayuntamientos que así lo consideren, podrán conceder un descuento hasta del 50% del total del importe señalado en el artículo 13 de esta Ley, cuando el importe anual causado sea cubierto en una sola exhibición por anticipado, durante los meses de diciembre, enero y febrero, o el pago se realice de manera bimestral. Este beneficio se aplicará a un solo inmueble del contribuyente, si dicho inmueble corresponde al domicilio de su propia casa habitación y el valor catastral de ésta, no exceda de diez mil quinientos S.M.G. al contribuyente que goce de este beneficio no le será aplicable lo dispuesto en el párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2005)</small>
+
+Se faculta a los Ayuntamientos que así lo consideren, para que en las situaciones de emergencia derivadas de desastres naturales, declaradas por el Titular del Ejecutivo del Estado, concedan estímulos fiscales a los contribuyentes hasta de un 50% del monto del impuesto predial, cuando éste sea cubierto en una sola emisión, por anticipado y cubra todo el año, y sea enterado en la Tesorería Municipal correspondiente antes del 31 de diciembre del año de la contingencia, y hasta un 25% del total del importe, si el pago se realiza en los meses de enero y febrero del año siguiente.
 
 DISPOSICIONES DIVERSAS
 
@@ -2629,6 +2633,8 @@ P.O. 28 DE ABRIL DE 2005.
 
 ÚNICO.- El presente Decreto entrará en vigor, el día de su publicación el Periódico Oficial del Gobierno del Estado de Quintana Roo.
 
+P.O. 30 DE NOVIEMBRE DE 2005.
+
 ###### ARTÍCULO PRIMERO.
 
 Este decreto entrará en vigor a partir del día 1 de enero de 1998, previa publicación en el Periódico Oficial del Estado.
@@ -2762,3 +2768,7 @@ TABLA PARA EL CALCULO ANUAL DEL IMPUESTO PREDIAL 2003
 (VEASE ARCHIVO ANEXO)
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE ABRIL DE 2003)</small>
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
