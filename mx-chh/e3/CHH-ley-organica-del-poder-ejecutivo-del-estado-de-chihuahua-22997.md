@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2005-11-19"
+last_updated: "2005-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2005.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -791,11 +791,29 @@ VII.- Integrar y mantener actualizado el catastro estatal, con los datos que pro
 
 > <small>(REFORMADA, P.O. 27 DE ABRIL DE 2005)</small>
 
-VIII.- Elaborar e impartir cursos de capacitación dirigidos a los Presidentes Municipales electos y sus suplentes, a fin de que una vez que reciban la constancia que los acredite como tales y antes de la toma de posesión de su encargo, cuenten con conocimientos y habilidades necesarios para cumplir con sus funciones, bajo criterios de eficiencia y legalidad;
+VIII.- Elaborar e impartir cursos de capacitación dirigidos a los Presidentes Municipales electos y sus suplentes, a fin de que una vez que reciban la constancia que los acredite como tales y antes de la toma de posesión de su encargo, cuenten con conocimientos y habilidades necesarios para cumplir con sus funciones, bajo criterios de eficiencia y legalidad.
 
-> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2005)</small>
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2005)</small>
 
-IX.- Las demás que le atribuyan expresamente las leyes y sus reglamentos.
+Así mismo dada la diversa naturaleza de la gestión de regidores y síndicos municipales, elaborar e impartir cursos de capacitación para éstos con los mismos requisitos y consecuencias que los citados en el párrafo anterior;
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2005)</small>
+
+IX.- Proporcionar asesoría y asistencia técnica a los municipios que así lo soliciten;
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2005)</small>
+
+X.- Brindar capacitación permanente a los miembros de los ayuntamientos y de la administración pública municipal, que así lo demande;
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2005)</small>
+
+XI.- Proporcionar asistencia técnica en materias administrativas de planeación y de hacienda, en las áreas en que éstas sean competencia de los municipios, cuando así lo soliciten;
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2005)</small>
+
+XII.- Colaborar con los gobiernos municipales en la elaboración de proyectos de desarrollo municipal, cuando lo soliciten;
+
+XIII.- Las demás que le atribuyan expresamente las leyes y sus reglamentos.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -1396,3 +1414,7 @@ P.O. 9 DE NOVIEMBRE DE 2005.
 P.O. 19 DE NOVIEMBRE DE 2005.
 
 ÚNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE NOVIEMBRE DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
