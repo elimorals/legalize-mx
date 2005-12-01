@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-contraloria-del-estado-de-jalisco-400
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-17"
-last_updated: "2004-06-17"
+last_updated: "2005-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40040&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # REGLAMENTO INTERIOR DE LA CONTRALORIA DEL ESTADO DE JALISCO
 
-REGLAMENTO INTERIOR DE LA CONTRALORIA DEL ESTADO DE JALISCO
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE ABRIL DE 2006 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DE LA CONTRALORÍA DEL ESTADO DE JALISCO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2005.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el jueves 17 de junio de 2004.
 
@@ -74,6 +76,12 @@ Las Direcciones Generales deberán coordinarse y proporcionarse la información 
 En los manuales administrativos se precisará la estructura orgánica y las funciones de las áreas no previstas en este Reglamento y que conforman las Direcciones Generales.
 
 La Contraloría por medio de sus Direcciones Generales, conducirá sus actividades en forma programada, ajustándose a las políticas, estrategias, prioridades y restricciones que para el logro de los objetivos fije y establezca directamente el titular del Poder Ejecutivo o el mismo Contralor.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2005)</small>
+
+Artículo 3º bis.- Las direcciones generales, designarán a una persona para que digitalice la información que tengan en su posesión, a fin de cumplir con los requerimientos de información que requiera la Unidad de Transparencia e Información Pública; por lo tanto la Dirección General Administrativa a través de su Dirección de Área de Informática establecerá los mecanismos que apoyen al cumplimiento de dicha función.
+
+Todo el personal de Contraloría tiene la obligación de atender con puntualidad los requerimientos de la Unidad de Transparencia e Información Pública de esta dependencia, para el cumplimiento de sus funciones.
 
 ### Capítulo II
 
@@ -151,7 +159,9 @@ IV. Coordinar las actividades del despacho de la Contraloría;
 
 V. Enviar la correspondencia que se genere en la Contraloría, a las secretarías, dependencias y organismos paraestatales del Poder Ejecutivo, así como a las demás entidades públicas y privadas;
 
-VI. Llevar el control y administración de la Oficialía de Partes de la Contraloría del Estado;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2005)</small>
+
+VI. Llevar el control y administración de la Oficialía de Partes de la Contraloría del Estado, y para los efectos de atender con la debida oportunidad las solicitudes escritas que en su caso, con relación a la Ley de Transparencia e Información Pública se presenten, tendrá la obligación de remitirlas a la Unidad de Transparencia e Información Pública de la Contraloría dentro del término de 3 horas hábiles siguientes a su recepción con todos sus anexos;
 
 VII. Acudir en representación del Contralor a las reuniones que éste de manera particular le asigne y que se celebren con personal de las secretarías, dependencias y organismos paraestatales del Poder Ejecutivo, incluyendo las que se lleven a cabo con los órganos de control de otros Estados; y
 
@@ -235,9 +245,13 @@ XII. Llevar el registro de procedimientos disciplinarios y sanciones, así como 
 
 XIII. Presentar las denuncias que deban hacerse ante el Ministerio Público, prestándole para tal efecto la colaboración que le fuere requerida;
 
-XIV. Proporcionar información a las personas que la soliciten, siempre y cuando sea competencia de la Contraloría y obre en sus archivos, para tal efecto se substanciará y resolverá el procedimiento previsto en el artículo 11 de la Ley de Transparencia e Información Pública del Estado de Jalisco y su reglamento;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2005)</small>
 
-XV. Clasificar la información generada en la Contraloría en los términos de los artículos 7 y 10 de la Ley de Transparencia e Información Pública del Estado de Jalisco y su reglamento;
+XIV. Mantener actualizada la información pública de su competencia a efecto de facilitar la labor de la Unidad de Transparencia e Información Pública y dar cumplimiento a lo previsto por: la Ley de Transparencia e Información Pública del Estado de Jalisco;
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2005)</small>
+
+XV. Representar, a través de su titular, al Contralor en el Comité de Clasificación de Información Pública de la Contraloría, y presidirlo;
 
 XVI. Requerir e informar a los servidores públicos, en los términos del artículo 82 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, en caso de omisión en la presentación de la declaración de situación patrimonial, pudiendo sancionar al servidor público, previo procedimiento de responsabilidad con la destitución o con inhabilitación hasta por un año;
 
@@ -353,9 +367,15 @@ VI. Instrumentar programas de capacitación institucional y gubernamental para b
 
 VII. Elaborar programas de trabajo derivados de la ejecución de los convenios y acuerdos que el Ejecutivo celebre con la federación o municipios, contemplados en el Plan Estatal de Desarrollo en materia de control y evaluación gubernamental, contraloría social y vinculación;
 
-VIII. Asegurar que la información referente a la Ley de Transparencia e Información Pública en el ámbito competencial de la Contraloría, sea constante y permanente así como coadyuvar con los esquemas de evaluación internos respecto del trabajo de difusión; y
+VIII. Asegurar que la información referente a la Ley de Transparencia e Información Pública en el ámbito competencial de la Contraloría, sea constante y permanente así como coadyuvar con los esquemas de evaluación internos respecto del trabajo de difusión; y (sic)
 
-IX. Las demás que le asigne el Contralor.
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2005)</small>
+
+IX. Mantener actualizada la información pública de su competencia a efecto de facilitar la labor de la Unidad de Transparencia e Información Pública y dar cumplimiento a lo previsto por: la Ley de Transparencia e Información Pública del Estado de Jalisco;
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2005)</small>
+
+X. Las demás que le asigne el Contralor.
 
 ###### Artículo 16.
 
@@ -453,7 +473,15 @@ XIII. Las demás que deriven de la ejecución de los convenios y acuerdos que el
 
 XIV. Realizar en forma conjunta con la Dirección General Jurídica los dictámenes técnico jurídicos que resulten de las auditorías realizadas a las secretarías, dependencias y organismos paraestatales del Poder Ejecutivo en materia de obra pública;
 
-XV. Solicitará a las cámaras, colegios y demás asociaciones de profesionales, propuestas de personas que puedan fungir como árbitros especializados y llevará el registro de la personas que puedan fungir como árbitros y difundir en el mes de enero de cada año la lista correspondiente.
+XV. Solicitará a las cámaras, colegios y demás asociaciones de profesionales, propuestas de personas que puedan fungir como árbitros especializados y llevará el registro de la personas que puedan fungir como árbitros y difundir en el mes de enero de cada año la lista correspondiente;
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2005)</small>
+
+XVI. Mantener actualizada la información pública de su competencia a efecto de facilitar la labor de la Unidad de Transparencia e Información Pública y dar cumplimiento a lo previsto por la Ley de Transparencia e Información Pública del Estado de Jalisco, y
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2005)</small>
+
+XVII. Las demás que le asigne el Director General.
 
 ###### Artículo 20.
 
@@ -507,9 +535,7 @@ VIII. Turnar al Contralor las actas relativas a las certificaciones practicadas;
 
 IX. Las demás que le asigne el Director General.
 
-### Capítulo VII
-
-De la Dirección General de Control y Evaluación a Organismos Paraestatales.
+### Capítulo VII. De la Dirección General de Control y Evaluación a Organismos Paraestatales
 
 ###### Artículo 23.
 
@@ -555,7 +581,13 @@ XV. Realizar en forma conjunta con la Dirección General jurídica los dictámen
 
 XVI. Intervenir en los actos de entrega recepción de las unidades administrativas que correspondan de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco;
 
-XVII. Las demás que le asigne el Contralor.
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2005)</small>
+
+XVII. Mantener actualizada la información pública de su competencia a efecto de facilitar la labor de la Unidad de Transparencia e Información Pública y dar cumplimiento a lo previsto por la Ley de Transparencia e Información Pública del Estado de Jalisco, y
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2005)</small>
+
+XVIII. Las demás que le asigne el Contralor.
 
 ###### Artículo 24.
 
@@ -603,9 +635,7 @@ VI. Informar al Director General sobre la instrumentación de acciones y medidas
 
 VII. Las demás que les asigne el Director General.
 
-### Capítulo VIII
-
-De la Dirección General de Control y Evaluación a Dependencias del Ejecutivo.
+### Capítulo VIII. De la Dirección General de Control y Evaluación a Dependencias del Ejecutivo
 
 ###### Artículo 27.
 
@@ -643,7 +673,13 @@ XI. Intervenir en los actos de entrega recepción de las unidades administrativa
 
 XII. Realizar en forma conjunta con la Dirección General Jurídica los dictámenes técnico jurídicos que resulten de las auditorías realizadas a las secretarías, dependencias y organismos paraestatales del Poder Ejecutivo;
 
-XIII. Las demás que le asigne el Contralor.
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2005)</small>
+
+XIII. Atenderlas peticiones de información a través de la Unidad de Transparencia e Información Pública, a fin de dar cumplimiento a lo establecido en la Ley de Transparencia e Información Pública del Estado de Jalisco y su Reglamento, como en lo previsto en este reglamento, y
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2005)</small>
+
+XIV. Las demás que le asigne el Contralor.
 
 ###### Artículo 28.
 
@@ -711,9 +747,7 @@ VII. Revisar la aplicación de los recursos asignados por la federación de conf
 
 VIII. Las demás que le asigne el Director General.
 
-### Capítulo IX
-
-De la Dirección General Administrativa.
+### Capítulo IX. De la Dirección General Administrativa
 
 ###### Artículo 31.
 
@@ -749,7 +783,7 @@ XIV. Brindar el apoyo necesario en materia de informática a las Direcciones Gen
 
 XV. Elaborar el Manual de Organización, de Procesos y de Servicios al Público de la Dependencia;
 
-XVI. Integrar el anteproyecto de Presupuesto de Egresos de la Contraloría;
+XVI. Integrar el anteproyecto de Presupuesto de Egresos de la Contraloría
 
 XVII. Acordar con el Contralor el despacho de los asuntos de su competencia;
 
@@ -761,9 +795,19 @@ XX. Llevar el control de los recursos estatales y los que se generan vía federa
 
 XXI. Administrar y suministrar los recursos necesarios para la ejecución de las actividades del personal de la Contraloría;
 
-XXII. Proponer y Coordinar eventos sociales, culturales y recreativos que propicien la integración entre el personal de la Contraloría; y
+XXII. Proponer y Coordinar eventos sociales, culturales y recreativos que propicien la integración entre el personal de la Contraloría; y (sic)
 
-XXIII. Las demás que le asigne el Contralor;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2005)</small>
+
+XXIII. Mantener actualizada la información publica de su competencia a efecto de facilitar la labor de la Unidad de Transparencia e Información Pública y dar cumplimiento a lo previsto por la Ley de Transparencia e Información Pública del Estado de Jalisco;
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2005)</small>
+
+XXIV. Dotar del espacio físico y de los recursos materiales necesarios para el funcionamiento adecuado de la Unidad de Transparencia e Información Pública para dar cumplimiento a lo establecido en la Ley de Transparencia e Información Publica del Estado de Jalisco, su reglamento y este reglamento, y
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2005)</small>
+
+XXV. Las demás que le asigne el Contralor.
 
 ###### Artículo 32.
 
@@ -853,6 +897,138 @@ Durante las ausencias del Contralor, los asuntos de su competencia estarán a ca
 
 Durante las ausencias de los Directores Generales, éstos serán suplidos por los subalternos de la jerarquía inmediata inferior que designen por escrito, o en caso necesario, por el Contralor.
 
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2005)</small>
+
+### Capítulo XII
+
+De la Unidad de Transparencia.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 40.
+
+La Unidad de Transparencia de la Contraloría se encontrará subordinada a la Dirección General Jurídica, misma que fungirá como unidad de enlace entre las Direcciones de la Contraloría.
+
+Su titular será designado por el Contralor del Estado.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 41.
+
+A la Unidad de Transparencia e Información Pública de la Contraloría, le corresponden las siguientes atribuciones y obligaciones:
+
+I. Recabar y difundir la información pública proporcionada y digitalizada por las direcciones generales así como coordinar a aquéllas en la actualización periódica de sus archivos;
+
+II. Requerir al personal de la Contraloría del Estado la información que sea solicitada para dar cumplimiento a la Ley de Transparencia e Información Pública del Estado de Jalisco;
+
+III. Concentrar y actualizar la información pública fundamental de la dependencia;
+
+IV. Atender los requerimientos del Instituto de Transparencia e Información Pública del Estado y representar al Contralor en los recursos de revisión que se interpongan ante el mismo;
+
+V. Coordinar y supervisar las acciones de la Contraloría tendientes a proporcionar la información prevista en la Ley;
+
+VI. Establecer y supervisar la aplicación de los criterios específicos para la conservación de los documentos administrativos, así como la organización de archivos, de conformidad con los lineamientos expedidos por el Instituto y el Archivo General del Estado, según corresponda;
+
+VII. Elaborar un programa para facilitar la obtención dé información competencia de la Contraloría, que deberá ser actualizado periódicamente y que incluya las medidas necesarias para la organización de los archivos;
+
+VIII. Las demás que la Ley de Transparencia e Información Pública del Estado de Jalisco, su reglamento para el Poder Ejecutivo, este reglamento y las demás que disponga el Contralor, así como las que resulten necesarias para el cumplimiento de su objeto.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 42.
+
+Cada Director General de Contraloría designará a un servidor público que realizará la función de enlace entre su Dirección y la Unidad de Transparencia, para la resolución y trámite de las solicitudes de acceso a la información.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2005)</small>
+
+### Capítulo XIII
+
+Del Comité de Clasificación de Información Pública.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 43.
+
+El Comité de Clasificación de Información Pública de la Contraloría, se integrará por los servidores públicos que señala el artículo 86 de la Ley de Transparencia e Información Pública y por los siguientes miembros, en su carácter de invitados permanentes:
+
+I. El Director General de Contraloría Social y Vinculación Institucional;
+
+II. El Director General de Verificación y Control de Obra;
+
+III. El Director General de Control y Evaluación a Organismos Paraestatales;
+
+IV. El Director General de Control y Evaluación a Dependencias del Ejecutivo; y
+
+V. El Director General Administrativo.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 44.
+
+Los miembros del Comité, con excepción a su Presidente, y los invitados permanentes, podrán en su caso nombrar suplentes que los representen en las sesiones de Comité.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 45.
+
+El Comité se reunirá las veces que sean necesarias conforme lo acuerden sus integrantes, debiendo hacerlo, al menos, una vez al mes.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 46.
+
+En las sesiones del Comité de Información, los integrantes tendrán derecho a voz y voto, y adoptarán sus decisiones por mayoría de votos. Los invitados permanentes contarán con derecho a voz exclusivamente.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 47.
+
+Corresponde al comité realizar las siguientes atribuciones:
+
+I. Establecer y supervisar la aplicación de los criterios específicos para la Contraloría, en materia de clasificación de los documentos administrativos, y
+
+II. Las demás que les impongan los ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 48.
+
+Corresponde al Presidente del Comité:
+
+I. Presidir las sesiones ordinarias y extraordinarias;
+
+II. Convocar a las sesiones del Comité;
+
+III. Aprobar las órdenes del día;
+
+IV. Mantener informado al titular de la dependencia respecto de los acuerdos tomados en las sesiones, así como de las acciones y procedimientos a seguir; y
+
+V. Las demás que se requieran para el ejercicio de sus funciones.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 49.
+
+Corresponde al Secretario Técnico del Comité:
+
+I. Elaborar acta circunstanciada de las sesiones ordinarias y extraordinarias;
+
+II. Realizar una relación de los acuerdos tomados por el Comité en las sesiones y darles seguimiento;
+
+III. Elaborar el proyecto del orden del día de las sesiones del Comité y someterlo a la consideración del Presidente;
+
+IV. Recibir, integrar y revisar los proyectos y propuestas que se presenten, así como preparar la documentación que será analizada en las sesiones del Comité, misma que deberá acompañarse a la convocatoria correspondiente;
+
+V. Convocar a los invitados temporales, y
+
+VI. Las demás que le sean encomendadas por el Presidente del Comité, las que se acuerden en sus sesiones, así como las que sean necesarias para el desempeño de sus funciones.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 50.
+
+Se levantará acta circunstanciada de las sesiones del Comité en la que se asentarán los acuerdos tomados, que tendrán el carácter de informe parcial y servirán para la elaboración del informe anual ante el Instituto de Acceso a la Información Pública.
+
 T r a n s i t o r i o s:
 
 Artículo Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
@@ -882,3 +1058,9 @@ El Contralor del Estado
 C.P.A. ARTURO CAÑEDO CASTAÑEDA
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 1 DE DICIEMBRE DE 2005.
+
+ÚNICO: Publíquese en el Periódico Oficial del Estado de Jalisco, el presente Acuerdo, que entrara en vigor al día siguiente de su publicación.
