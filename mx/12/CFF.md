@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "2005-10-25"
+last_updated: "2005-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CFF"
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE OCTUBRE DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE DICIEMBRE DE 2005.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 9 DE FEBRERO DE 2004.
 
@@ -4666,7 +4666,7 @@ Tratándose de actos relativos al procedimiento administrativo de ejecución, el
 
 Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán a cargo de quien incurrió en el incumplimiento los honorarios que establezca el reglamento de este Código.
 
-(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
 
 ###### Artículo 138.
 
@@ -4819,8 +4819,6 @@ Las autoridades fiscales continuarán con el procedimiento administrativo de eje
 En caso de negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán promover el incidente de suspensión de la ejecución ante la Sala del Tribunal Federal de Justicia Fiscal y Administrativa que conozca del juicio respectivo u ocurrir al superior jerárquico de la autoridad ejecutora, si se está tramitando recurso, acompañando los documentos en que conste el medio de defensa hecho valer y el ofrecimiento o, en su caso otorgamiento de la garantía del interés fiscal. El superior jerárquico aplicará en lo conducente las reglas establecidas por este Código para el citado incidente de suspensión de la ejecución.
 
 ### CAPITULO I. Disposiciones Generales
-
-> <small>(REFORMADO PRIMER PARRAFO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 #### Sección Segunda. Del embargo
 
@@ -5222,8 +5220,6 @@ Las autoridades fiscales podrán proceder a la enajenación de la negociación i
 
 #### Sección Primera. De la reclamación
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
 ###### Artículo 173.
 
 La enajenación de bienes embargados, procederá:
@@ -5552,953 +5548,247 @@ El recurso o la demanda sólo interrumpirán los plazos de que se trata, cuando 
 
 II. Por consulta entre autoridades, si de dicha consulta depende la entrega de los bienes a los interesados.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(DEROGADO CON LOS CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)</small>
 
 ## TITULO VI. Del Juicio Contencioso Administrativo
 
-### CAPITULO II. De la Improcedencia y del Sobreseimiento
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+### CAPITULO II. De la Improcedencia y del Sobreseimiento
 
 ###### Artículo 197.
 
-Los juicios que se promuevan ante el Tribunal Federal de Justicia Fiscal y Administrativa, se regirán por las disposiciones de este Título, sin perjuicio de lo dispuesto por los tratados internacionales de que México sea parte. A falta de disposición expresa se aplicará supletoriamente el Código Federal de Procedimientos Civiles siempre que la disposición de este último ordenamiento no contravenga al procedimiento contencioso que establece este Código.
-
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
-En los casos en que la resolución impugnada afecte los intereses jurídicos de dos o más personas, y éstas promuevan juicio, en el escrito inicial de la demanda deberán designar un representante común que elegirán de entre ellas mismas, y si no lo hicieren, el magistrado instructor designará con tal carácter a cualquiera de los interesados al admitir la demanda.
-
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-Cuando la resolución recaída a un recurso administrativo no satisfaga el interés jurídico del recurrente y éste la controvierta, se entenderá que simultáneamente impugna la resolución recurrida en la parte que continúe afectándolo, pudiendo hacer valer conceptos de impugnación no planteados en el recurso.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 198.
 
-Son partes en el juicio contencioso administrativo:
-
-I. El demandante.
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
-
-II. Los demandados. Tendrán ese carácter:
-
-a). La autoridad que dictó la resolución impugnada.
-
-b). El particular a quien favorezca la resolución cuya modificación o nulidad pida la autoridad administrativa.
-
-(REFORMADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-III. El titular de la dependencia o entidad de la Administración Pública Federal, Procuraduría General de la República o Procuraduría General de Justicia del Distrito Federal, de la que dependa la autoridad mencionada en la fracción anterior. En todo caso, la Secretaría de Hacienda y Crédito Público será parte en los juicios en que se controviertan actos de autoridades federativas coordinadas, emitidos con fundamento en convenios o acuerdos en materia de coordinación en ingresos federales.
-
-Dentro del mismo plazo que corresponda a la autoridad demandada, la Secretaría de Hacienda y Crédito Público podrá apersonarse como parte en los otros juicios en que se controvierta el interés fiscal de la Federación.
-
-IV. El tercero que tenga un derecho incompatible con la pretensión del demandante.
-
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
-En cada escrito de demanda sólo podrá aparecer un demandante, salvo en los casos que se trate de la impugnación de resoluciones conexas que afecten los intereses jurídicos de dos o más personas, mismas que podrán promover el juicio de nulidad contra dichas resoluciones en un solo escrito de demanda, siempre que en el escrito designen de entre ellas mismas un representante común, en caso de no hacer la designación, el magistrado instructor al admitir la demanda hará la designación.
-
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
-El escrito de demanda en que promuevan dos o más personas en contravención de lo dispuesto en el párrafo anterior, se tendrá por no interpuesto.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 199.
 
-Toda promoción deberá estar firmada por quien la formule y sin este requisito se tendrá por no presentada, a menos que el promovente no sepa o no pueda firmar, caso en el que imprimirá su huella digital y firmará otra persona a su ruego.
-
-> <small>(REFORMADO PRIMER PARRAFO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 200.
 
-Ante el Tribunal Federal de Justicia Fiscal y Administrativa no procederá la gestión de negocios. Quien promueva a nombre de otra deberá acreditar que la representación le fue otorgada a más tardar, en la fecha de la presentación de la demanda o de la contestación, en su caso.
-
-> <small>(REFORMADO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-La representación de los particulares se otorgará en escritura pública o carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante notario o ante los secretarios del Tribunal Federal de Justicia Fiscal y Administrativa, sin perjuicio de lo que disponga la legislación de profesiones.
-
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-La representación de las autoridades corresponderá a la unidad administrativa encargada de su defensa jurídica, según lo disponga el Ejecutivo Federal en el reglamento o decreto respectivo; o conforme lo establezcan las disposiciones locales, tratándose de las autoridades de las entidades federativas coordinadas.
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
-
-Los particulares o sus representantes podrán autorizar por escrito a licenciado en derecho que a su nombre reciba notificaciones. La persona así autorizada podrá hacer promociones de trámite, rendir pruebas, presentar alegatos e interponer recursos. Las autoridades podrán nombrar delegados para los mismos fines.
-
-> <small>(REFORMADO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 201.
 
-En los juicios que se tramiten ante el Tribunal Federal de Justicia Fiscal y Administrativa no habrá lugar a condenación en costas. Cada parte será responsable de sus propios gastos y los que originen las diligencias que promuevan.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 202.
 
-Es improcedente el juicio ante el Tribunal Federal de Justicia Fiscal y Administrativa en los casos, por las causales y contra los actos siguientes:
-
-I. Que no afecten los intereses jurídicos del demandante.
-
-II. Cuya impugnación no corresponda conocer a dicho Tribunal.
-
-> <small>(REFORMADA POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-III. Que hayan sido materia de sentencia pronunciada por el Tribunal Federal de Justicia Fiscal y Administrativa, siempre que hubiera identidad de partes y se trate del mismo acto impugnado, aunque las violaciones alegadas sean diversas.
-
-> <small>(REFORMADA POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-IV. Respecto de las cuales hubiere consentimiento, entendiéndose que hay consentimiento únicamente cuando no se promovió algún medio de defensa en los términos de las leyes respectivamente o juicio ante el Tribunal Federal de Justicia Fiscal y Administrativa en los plazos que señala este Código.
-
-V. Que sean materia de un recurso o juicio que se encuentre pendiente de resolución ante una autoridad administrativa o ante el propio Tribunal.
-
-VI. Que puedan impugnarse por medio de algún recurso o medio de defensa, con excepción de aquéllos cuya interposición sea optativa.
-
-VII. Conexos a otro que haya sido impugnado por medio de algún recurso o medio de defensa diferente.
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
-
-Para los efectos de esta fracción, se entiende que hay conexidad siempre que concurran las causas de acumulación previstas en el artículo 219 de este Código.
-
-VIII. Que hayan sido impugnados en un procedimiento judicial.
-
-IX. Contra ordenamientos que den normas o instrucciones de carácter general y abstracto, sin haber sido aplicados concretamente al promovente.
-
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-X. Cuando no se hagan valer conceptos de impugnación.
-
-XI. Cuando de las constancias de autos apareciere claramente que no existe el acto reclamado.
-
-> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
-
-XII. Que puedan impugnarse en los términos del Artículo 97 de la Ley de Comercio Exterior, cuando no haya transcurrido el plazo para el ejercicio de la opción o cuando la opción ya haya sido ejercida.
-
-> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
-
-XIII. Dictados por la autoridad administrativa para dar cumplimiento a la decisión que emane de los mecanismos alternativos de solución de controversias a que se refiere el Artículo 97 de la Ley de Comercio Exterior.
-
-> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
-
-XIV. En los demás casos en que la improcedencia resulte de alguna disposición de este Código o de las Leyes fiscales especiales.
-
-> <small>(REFORMADA POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-XV. Que hayan sido dictados por la autoridad administrativa en un procedimiento de resolución de controversias previsto en un tratado para evitar la doble tributación, si dicho procedimiento se inició con posterioridad a la resolución que recaiga a un recurso de revocación o después de la conclusión de un juicio ante el Tribunal Federal de Justicia Fiscal y Administrativa.
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
-
-XVI. Que sean resoluciones dictadas por autoridades extranjeras que determinen impuestos y sus accesorios cuyo cobro y recaudación hayan sido solicitados a las autoridades fiscales mexicanas, de conformidad con lo dispuesto en los tratados internacionales sobre asistencia mutua en el cobro de los que México sea parte.
-
-(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-La procedencia del juicio será examinada aun de oficio.
-
-(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ### CAPITULO III. De los Impedimentos y Excusas
 
-> <small>(REFORMADO PRIMER PARRAFO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
 ###### Artículo 203.
 
-Procede el sobreseimiento:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
-I. Por desistimiento del demandante.
-
-II. Cuando durante el juicio aparezca o sobrevenga alguna de las causas de improcedencia a que se refiere el artículo anterior.
-
-III. En el caso de que el demandante muera durante el juicio, si su pretensión es intransmisible o si su muerte deja sin materia el proceso.
-
-IV. Si la autoridad demandada deja sin efecto el acto impugnado.
-
-V. En los demás casos en que por disposición legal haya impedimento para emitir resolución en cuanto al fondo.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-El sobreseimiento del juicio podrá ser total o parcial.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO IV. De la Demanda
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE JULIO DE 1992)</small>
-
 ###### Artículo 204.
 
-Los magistrados del Tribunal Federal de Justicia Fiscal y Administrativa estarán impedidos para conocer, cuando:
-
-I. Tienen interés personal en el negocio.
-
-(REFORMADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-II. Sean parientes consanguíneos, afines o civiles de alguna de las partes o de sus patronos o representantes, en línea recta sin limitación de grado y en línea transversal dentro del cuarto grado por consanguinidad y segundo por afinidad.
-
-III. Han sido patronos o apoderados en el mismo negocio.
-
-IV. Tienen amistad estrecha o enemistad con alguna de las partes o con sus patronos o representantes.
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
-
-V. Han dictado el acto impugnado o han intervenido con cualquier carácter en la emisión del mismo o en su ejecución.
-
-VI. Figuran como parte en un juicio similar, pendiente de resolución.
-
-VII. Están en una situación que pueda afectar su imparcialidad en forma análoga o más grave que las mencionadas.
-
-(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-Los peritos del Tribunal estarán impedidos para dictaminar en los casos a que se refiere este artículo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 205.
 
-Los magistrados tienen el deber de excusarse del conocimiento de los negocios en que ocurra alguno de los impedimentos señalados en el artículo anterior, expresando concretamente en qué consiste el impedimento.
-
-> <small>(REFORMADO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 206.
 
-Manifestada por un magistrado la causa de impedimento, el Presidente de la Sección o de la Sala Regional turnará el asunto al Presidente del Tribunal Federal de Justicia Fiscal y Administrativa, a fin de que la califique y de resultar fundada, se procederá en los términos de la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO V. De la Contestación
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
 ###### Artículo 207.
 
-La demanda se presentará por escrito directamente ante la Sala Regional competente, dentro de los cuarenta y cinco días siguientes a aquél en que haya surtido efectos la notificación de la resolución impugnada.
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
-
-La demanda podrá enviarse por correo certificado con acuse de recibo si el demandante tiene su domicilio fuera de la población donde esté la sede de la sala o cuando ésta se encuentre en el Distrito Federal y el domicilio fuera de él, siempre que el envío se efectúe en el lugar en que resida el demandante.
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
-
-Las autoridades podrán presentar la demanda dentro de los cinco años siguientes a la fecha en que sea emitida la resolución, cuando se pida la modificación o nulidad de un acto favorable a un particular, salvo que haya producido efectos de tracto sucesivo, caso en el que se podrá demandar la modificación o nulidad en cualquier época sin exceder de los cinco años del último efecto, pero los efectos de la sentencia, en caso de ser total o parcialmente desfavorable para el particular, sólo se retrotraerán a los cinco años anteriores a la presentación de la demanda.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-Cuando el interesado fallezca durante el plazo para iniciar juicio, el plazo se suspenderá hasta un año si antes no se ha aceptado el cargo de representante de la sucesión. También se suspenderá el plazo para interponer la demanda si el particular solicita a las autoridades fiscales iniciar el procedimiento de resolución de controversias contenido en un tratado para evitar la doble tributación incluyendo, en su caso, el procedimiento arbitral. En estos casos cesará la suspensión cuando se notifique la resolución que da por terminado dicho procedimiento, inclusive en el caso de que se dé por terminado a petición del interesado.
-
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-En los casos de incapacidad o declaración de ausencia, decretadas por autoridad judicial, el plazo para interponer el juicio de nulidad se suspenderá hasta por un año. La suspensión cesará tan pronto como se acredite que se ha aceptado el cargo de tutor del incapaz o representante legal del ausente, siendo en perjuicio del particular si durante el plazo antes mencionado no se provee sobre su representación.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 208.
 
-La demanda deberá indicar:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-I. El nombre del demandante y su domicilio para recibir notificaciones en la sede de la Sala Regional competente.
-
-II. La resolución que se impugna.
-
-III. La autoridad o autoridades demandadas o el nombre y domicilio del particular demandado cuando el juicio sea promovido por la autoridad administrativa.
-
-IV. Los hechos que den motivo a la demanda.
-
-V. Las pruebas que ofrezca.
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-En caso de que se ofrezca prueba pericial o testimonial se precisarán los hechos sobre los que deban versar y señalarán los nombres y domicilios del perito o de los testigos.
-
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-VI. Los conceptos de impugnación.
-
-VII. El nombre y domicilio del tercero interesado, cuando lo haya.
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-VIII. Lo que se pida, señalando en caso de solicitar una sentencia de condena, las cantidades o actos cuyo cumplimiento se demanda.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-Cuando se omita el nombre del demandante o los datos precisados en las fracciones II y VI, el magistrado instructor desechará por improcedente la demanda interpuesta. Si se omiten los datos previstos en las fracciones III, IV, V, VII y VIII, el magistrado instructor requerirá al promovente para que los señale dentro del término de cinco días, apercibiéndolo que de no hacerlo en tiempo se tendrá por no presentada la demanda o por no ofrecidas las pruebas, según corresponda.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-En el supuesto de que no se señale domicilio para recibir notificaciones del demandante, en la jurisdicción de la Sala Regional que corresponda o se desconozca el domicilio del tercero, las notificaciones relativas se efectuarán por lista autorizada, que se fijará en el sitio visible de la propia sala.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-Artículo 208 BIS.- Los particulares o sus representantes legales, que soliciten la suspensión de la ejecución del acto impugnado deberán cumplir con los siguientes requisitos:
-
-I. Se podrá solicitar en el escrito de demanda.
-
-II. Por escrito presentado en cualquier tiempo, hasta que se dicte sentencia.
-
-Se presentará ante la Sala del conocimiento.
-
-III. En el auto que acuerde la solicitud de suspensión de la ejecución del acto impugnado, se podrá decretar la suspensión provisional de la ejecución.
-
-Contra el auto que decrete o niegue la suspensión provisional no procederá recurso alguno.
-
-IV. El magistrado instructor, dará cuenta a la Sala para que en el término máximo de cinco días, dicte sentencia interlocutoria que decrete o niegue la suspensión definitiva.
-
-V. Cuando la ejecución o inejecución del acto impugnado pueda ocasionar perjuicios al interés general, se denegará la suspensión solicitada.
-
-VI. Cuando sea procedente la suspensión o inejecución del acto impugnado, pero con ella se pueda ocasionar daños o perjuicios a la otra parte o a terceros, se concederá al particular si otorga garantía bastante para reparar el daño o indemnizar por los perjuicios que con ello pudieran causar si no se obtiene sentencia favorable en el juicio de nulidad.
-
-VII. Tratándose de la solicitud de suspensión de la ejecución contra el cobro de contribuciones, procederá la suspensión, previo depósito de la cantidad que se adeude ante la Tesorería de la Federación o de la Entidad Federativa que corresponda.
-
-El depósito no se exigirá cuando se trate del cobro de sumas que excedan de la posibilidad del actor según apreciación del magistrado, o cuando previamente se haya constituido la garantía del interés fiscal ante la autoridad exactora, o cuando se trate de persona distinta del causante obligado directamente al pago; en este último caso, se asegurará el interés fiscal por cualquiera de los medios de garantía permitidos por las leyes fiscales aplicables.
-
-Mientras no se dicte sentencia, la sala podrá modificar o revocar el auto que haya decretado o negado la suspensión, cuando ocurra un hecho superveniente que lo justifique.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+Artículo 208 BIS.- (DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 209.
 
-El demandante deberá adjuntar a su demanda:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-I. Una copia de la misma y de los documentos anexos, para cada una de las partes.
-
-> <small>(REFORMADA POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-II. El documento que acredite su personalidad o en el que conste que le fue reconocida por la autoridad demandada, o bien señalar los datos de registro del documento con el que la acredite ante el Tribunal Federal de Justicia Fiscal y Administrativa, cuando no gestione en nombre propio.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-III. El documento en que conste el acto impugnado.
-
-En el supuesto de que se impugne una resolución negativa ficta deberá acompañarse una copia, en la que obre el sello de recepción, de la instancia no resuelta expresamente por la autoridad.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-IV. La constancia de la notificación del acto impugnado.
-
-Cuando no se haya recibido constancia de notificación o la misma hubiere sido practicada por correo, así se hará constar en el escrito de demanda, señalando la fecha en que dicha notificación se practicó. Si la demandada al contestar la demanda hace valer su extemporaneidad, anexando las constancias de notificación en que la apoya, el magistrado instructor concederá a la actora el término de cinco días para que la desvirtúe. Si durante dicho término no se controvierte la legalidad de la notificación de la resolución impugnada, se presumirá legal la diligencia de la notificación de la referida resolución.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-V. El cuestionario que debe desahogar el perito, el cual deberá ir firmado por el demandante.
-
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-VI. El interrogatorio para el desahogo de la prueba testimonial, el que debe ir firmado por el demandante, en los casos señalados en el último párrafo del artículo 232.
-
-VII. Las pruebas documentales que ofrezca.
-
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-Los particulares demandantes deberán señalar, sin acompañar, los documentos que fueron considerados en el procedimiento administrativo como conteniendo información confidencial o comercial reservada. La Sala solicitará los documentos antes de cerrar la instrucción.
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-Cuando las pruebas documentales no obren en poder del demandante o cuando no hubiera podido obtenerlas a pesar de tratarse de documentos que legalmente se encuentren a su disposición, éste deberá señalar el archivo o lugar en que se encuentra para que a su costa se mande expedir copia de ellos o se requiera su remisión cuando ésta sea legalmente posible. Para este efecto deberá identificar con toda precisión los documentos y tratándose de los que pueda tener a su disposición bastará con que acompañe copia de la solicitud debidamente presentada por lo menos cinco días antes de la interposición de la demanda. Se entiende que el demandante tiene a su disposición los documentos, cuando legalmente pueda obtener copia autorizada de los originales o de las constancias. En ningún caso se requerirá el envío de un expediente administrativo.
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-Si no se adjuntan a la demanda los documentos a que se refiere este precepto, el magistrado instructor requerirá al promovente para que los presente dentro del plazo de cinco días. Cuando el promovente no los presente dentro de dicho plazo y se trate de los documentos a que se refieren las fracciones I a IV, se tendrá por no presentada la demanda. Si se trata de las pruebas a que se refieren las fracciones V, VI y VII, las mismas se tendrán por no ofrecidas.
-
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-Cuando en el documento en el que conste el acto impugnado a que se refiere la fracción III de este artículo, se haga referencia a información confidencial proporcionada por terceros independientes, obtenida en el ejercicio de las facultades a que se refieren los artículos 64-A y 65 de la Ley del Impuesto sobre la Renta, el demandante se abstendrá de revelar dicha información. La información confidencial a que se refieren los artículos citados no podrá ponerse a disposición de los autorizados en la demanda para oír y recibir notificaciones, salvo que se trate de los representantes a que se refieren los artículos 46, fracción IV y 48, fracción VII de este Código.
-
-(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-Artículo 209 BIS.- Cuando se alegue que el acto administrativo no fue notificado o que lo fue ilegalmente, siempre que se trate de los impugnables en el juicio contencioso administrativo, se estará a las reglas siguientes:
-
-I. Si el demandante afirma conocer el acto administrativo, la impugnación contra la notificación se hará valer en la demanda, en la que manifestará la fecha en que lo conoció.
-
-En caso de que tembién (sic) impugne el acto administrativo, los conceptos de nulidad se expresarán en la demanda, conjuntamente con los que se formulen contra la notificación.
-
-II. Si el actor manifiesta que no conoce el acto administrativo que pretende impugnar, así lo expresará en su demanda, señalando la autoridad a quien atribuye el acto, su notificación o su ejecución. En este caso, al contestar la demanda, la autoridad acompañará constancia del acto administrativo y de su notificación, mismos que el actor podrá combatir mediante ampliación de la demanda.
-
-III. El Tribunal estudiará los conceptos de nulidad expresados contra la notificación, previamente al examen de la impugnación del acto administrativo.
-
-Si resuelve que no hubo notificación o que fue ilegal, considerará que el actor fue sabedor del acto administrativo desde la fecha en que se le dio a conocer en los términos de la fracción II, quedando sin efectos todo lo actuado en base a aquélla, y procederá al estudio de la impugnación que, en su caso, se hubiese formulado contra dicho acto.
-
-Si resuelve que la notificación fue legalmente practicada, y como consecuencia de ello la demanda fue presentada extemporáneamente, sobreseerá el juicio en relación con el acto administrativo combatido.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+Artículo 209 BIS.- (DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 210.
 
-Se podrá ampliar la demanda, dentro de los veinte días siguientes a aquél en que surta efectos la notificación del acuerdo que admita su contestación, en los casos siguientes:
-
-(REFORMADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-I. Cuando se impugne una negativa ficta;
-
-(REFORMADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-II. Contra el acto principal del que derive el impugnado en la demanda, así como su notificación, cuando se den a conocer en la contestación;
-
-(REFORMADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-III. En los casos previstos por el artículo 209 BIS.
-
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-IV. Cuando con motivo de la contestación, se introduzcan cuestiones que sin violar el primer párrafo del artículo 215 no sean conocidas por el actor al presentar la demanda.
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-En el escrito de ampliación de demanda se deberá señalar el nombre del actor y el juicio en que se actúa, debiendo adjuntar, con las copias necesarias para el traslado, las pruebas y documentos que en su caso se presenten.
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-Cuando las pruebas documentales no obren en poder del demandante o cuando no hubiera podido obtenerlas a pesar de tratarse de documentos que legalmente se encuentren a su disposición, será aplicable en lo conducente lo dispuesto en el antepenúltimo párrafo del artículo 209 de este Código.
-
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-Si no se adjuntan las copias a que se refiere este artículo, el magistrado instructor requerirá al promovente para que las presente dentro del plazo de cinco días. Si el promovente no las presenta dentro de dicho plazo, se tendrá por no presentada la ampliación a la demanda. Si se trata de las pruebas documentales o de los cuestionarios dirigidos a peritos y testigos, a que se refieren las fracciones V, VI y VII del artículo 209 de este Código las mismas se tendrán por no ofrecidas.
-
-(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 211.
 
-El tercero, dentro de los cuarenta y cinco días siguientes a aquél en que se corra traslado de la demanda, podrá apersonarse en juicio, mediante escrito que contendrá los requisitos de la demanda o de la contestación, según sea el caso, así como la justificación de su derecho para intervenir en el asunto.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-Deberá adjuntar a su escrito, el documento en que se acredite su personalidad cuando no gestione en nombre propio, las pruebas documentales que ofrezca y el cuestionario para los peritos. Son aplicables en lo conducente los tres últimos párrafos del artículo 209.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO VI. De los Incidentes
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
 ###### Artículo 212.
 
-Admitida la demanda se correrá traslado de ella al demandado, emplazándolo para que la conteste dentro de los cuarenta y cinco días siguientes a aquél en que surta efectos el emplazamiento. El plazo para contestar la ampliación de la demanda será de veinte días siguientes a aquél en que surta efectos la notificación del acuerdo que admita la ampliación. Si no se produce la contestación a tiempo o ésta no se refiere a todos los hechos, se tendrán como ciertos los que el actor impute de manera precisa al demandado, salvo que por las pruebas rendidas o por hechos notorios resulten desvirtuados.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-Cuando alguna autoridad que deba ser parte en el juicio no fuese señalada por el actor como demandada, de oficio se le correrá traslado de la demanda para que la conteste en el plazo a que se refiere el párrafo anterior.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-Cuando los demandados fueren varios el término para contestar les correrá individualmente.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 213.
 
-El demandado en su contestación y en la contestación de la ampliación de la demanda, expresará:
-
-I. Los incidentes de previo y especial pronunciamiento a que haya lugar.
-
-II. Las consideraciones que a su juicio impidan se emita decisión en cuanto al fondo, o demuestren que no ha nacido o se ha extinguido el derecho en que el actor apoya su demanda.
-
-III. Se referirá concretamente a cada uno de los hechos que el demandante le impute de manera expresa, afirmándolos, negándolos, expresando que los ignora por no ser propios o exponiendo cómo ocurrieron, según sea el caso.
-
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-IV. Los argumentos por medio de los cuales se demuestra la ineficacia de los conceptos de impugnación.
-
-V. Las pruebas que ofrezca.
-
-(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985) (F. DE E., D.O.F. 24 DE ENERO DE 1986)
-
-En caso de que se ofrezca prueba pericial o testimonial, se precisarán los hechos sobre los que deban versar y se señalarán los nombres y domicilios del perito o de los testigos. Sin estos señalamientos se tendrán por no ofrecidas dichas pruebas.
-
-VI. (DEROGADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 214.
 
-El demandado deberá adjuntar a su contestación:
-
-(REFORMADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-I. Copias de la misma y de los documentos que acompañe para el demandante y para el tercero señalado en la demanda.
-
-II. El documento en que acredite su personalidad cuando el demandado sea un particular y no gestione en nombre propio.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-III. El cuestionario que debe desahogar el perito, el cual deberá ir firmado por el demandado.
-
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-IV. En su caso, la ampliación del cuestionario para el desahogo de la pericial ofrecida por el demandante.
-
-V. (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1985)
-
-VI. Las pruebas documentales que ofrezca.
-
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-Tratándose de la contestación a la ampliación de la demanda, se deberán adjuntar también los documentos previstos en este artículo, excepto aquéllos que ya se hubieran acompañado al escrito de contestación de la demanda.
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-Para los efectos de este artículo será aplicable, en lo conducente los tres últimos párrafos del artículo 209.
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-Las autoridades demandadas deberán señalar, sin acompañar, la información calificada por la Ley de Comercio Exterior como gubernamental confidencial o la información confidencial proporcionada por terceros independientes, obtenida en el ejercicio de las facultades a que se refieren los artículos 64-A y 65 de la Ley del Impuesto sobre la Renta. La Sala solicitará los documentos antes de cerrar la instrucción.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 215.
 
-En la contestación de la demanda no podrán cambiarse los fundamentos de derecho de la resolución impugnada.
-
-En caso de resolución negativa ficta, la autoridad expresará los hechos y el derecho en que se apoya la misma.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-En la contestación de la demanda o hasta antes del cierre de la instrucción la autoridad demandada podrá allanarse a las pretensiones del demandante o revocar la resolución impugnada.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 216.
 
-Cuando haya contradicciones entre los fundamentos de hecho y de derecho dados en la contestación de la autoridad que dictó la resolución impugnada y la formulada por la Secretaría de Estado, Departamento Administrativo u organismo descentralizado de que dependa aquélla, únicamente se tomará en cuenta, respecto a esas contradicciones, lo expuesto por éstos últimos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO VII. De las Pruebas
 
-> <small>(REFORMADO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
 ###### Artículo 217.
 
-En el juicio contencioso administrativo sólo serán de previo y especial pronunciamiento:
-
-I. La incompetencia en razón del territorio.
-
-II. El de acumulación de autos.
-
-III. El de nulidad de notificaciones.
-
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-IV. El de interrupción por causa de muerte, disolución, incapacidad o declaratoria de ausencia.
-
-(ADICIONADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-V. La recusación por causa de impedimento.
-
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-Cuando la promoción del incidente sea frívola e improcedente se impondrá a quien lo promueva una multa hasta de cincuenta veces el salario mínimo general diario vigente en el área geográfica correspondiente al Distrito Federal.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 218.
 
-Cuando ante una de las salas regionales se promueva juicio de la que otra deba conocer por razón de territorio, se declarará incompetente de plano y comunicará su resolución a la que en su concepto corresponderá ventilar el negocio, enviándole los autos.
-
-Recibido el expediente por la sala requerida, decidirá de plano dentro de las 48 horas siguientes, si acepta o no el conocimiento del asunto.
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-Si la sala regional requerida la acepta, comunicará su resolución a la requirente, a las partes y al Presidente del Tribunal. En caso de no aceptarlo, hará saber su resolución a la sala requirente y a las partes, y remitirá los autos al Presidente del Tribunal.
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-Recibidos los autos, el Presidente del Tribunal los someterá a consideración del Pleno para que éste determine a cual sala regional corresponde conocer el juicio, pudiendo señalar a alguna de las contendientes o a sala diversa, ordenando que el Presidente del Tribunal comunique la decisión adoptada, a las salas y a las partes, y remita los autos a la que sea declarada competente.
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-Cuando una sala esté conociendo de algún juicio que sea de la competencia de otra, cualquiera de las partes podrá acudir ante el Presidente del Tribunal, exhibiendo copia certificada de la demanda y de las constancias que estime pertinente, a fin de que se someta el asunto al conocimiento del Pleno del Tribunal. Si las constancias no fueran suficientes, el Presidente del Tribunal podrá pedir informe a la sala regional cuya competencia se denuncie, a fin de integrar debidamente las constancias que deba someterse al Pleno.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 219.
 
-Procede la acumulación de dos o más juicios pendientes de resolución en los casos en que:
-
-I. Las partes sean las mismas y se invoquen idénticos agravios.
-
-II. Siendo diferentes las partes e invocándose distintos agravios, el acto impugnado sea uno mismo o se impugnen varias partes del mismo acto.
-
-III. Independientemente de que las partes y los agravios sean o no diversos, se impugnen actos que sean unos antecedentes o consecuencia de los otros.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 220.
 
-(DEROGADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 221.
 
-La acumulación se tramitará ante el magistrado instructor que esté conociendo del juicio en el cual la demanda se presentó primero. Dicho magistrado, en el plazo de diez días, formulará proyecto de resolución que someterá a la sala, la cual dictará la determinación que proceda. La acumulación podrá tramitarse de oficio.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 222.
 
-Las solicitudes de acumulación notoriamente infundadas, se desecharán de plano.
-
-Una vez decretada la acumulación, la sala que conozca del juicio más reciente, deberá enviar los autos a la que conoce el primer juicio, en un plazo que no excederá de seis días. Cuando la acumulación se decrete en una misma sala, se turnarán los autos al magistrado que conoce el juicio más antiguo.
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
-
-Cuando no pueda decretarse la acumulación por que en alguno de los juicios se hubiese cerrado la instrucción o por encontrarse en diversas instancias, a petición de parte o de oficio, se decretará la suspensión del procedimiento en el juicio en trámite. La suspensión subsistirá hasta que se pronuncie la resolución definitiva en el otro negocio.
-
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-También se decretará la suspensión del procedimiento en el juicio, a petición de parte o aún de oficio, cuando se controvierta un acto contra el cual no proceda el recurso de revocación y que por su conexidad a otro impugnado con antelación en dicho recurso, sea necesaria hasta que se pronuncie resolución definitiva en este último. No será aplicable a este caso lo dispuesto por los artículos 124, fracción V y 202, fracción VII de este Código.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 223.
 
-Las notificaciones que no fueren hechas conforme a lo dispuesto en este Código serán nulas. En este caso el perjudicado podrá pedir que se declare la nulidad dentro de los cinco días siguientes a aquel en que conoció el hecho ofreciendo las pruebas pertinentes en el mismo escrito en que se promueva la nulidad.
-
-Las promociones de nulidad notoriamente infundadas se desecharán de plano.
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-Si se admite la promoción, se dará vista a las demás partes por el término de cinco días para que expongan lo que a su derecho convenga; transcurrido dicho plazo, se dictará resolución.
-
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-Si se declara la nulidad, la Sala ordenará reponer la notificación anulada y las actuaciones posteriores. Asimismo, se impondrá una multa al actuario, equivalente a diez veces el salario mínimo general diario del área geográfica correspondiente al Distrito Federal, sin que exceda del 30% de su sueldo mensual. El actuario podrá ser destituido de su cargo, sin responsabilidad para el Estado en caso de reincidencia.
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 224.
 
-La interrupción del juicio por causa de muerte, disolución, incapacidad o declaratoria de ausencia durará como máximo un año y se sujetará a lo siguiente:
-
-I. Se decretará por el instructor a partir de la fecha en que éste tenga conocimiento de la existencia de alguno de los supuestos a que se refiere este artículo.
-
-II. Si transcurrido el plazo máximo de interrupción, no comparece el albacea, el representante legal o el tutor, el magistrado instructor acordará la reanudación del juicio, ordenando que todas las notificaciones se efectúen por lista al representante de la sucesión o de la liquidación, según sea el caso.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 225.
 
-Las partes podrán recusar a los magistrados o a los peritos del Tribunal, cuando estén en alguno de los casos de impedimento a que se refiere el artículo 204 de este Código.
-
-> <small>(REFORMADO PRIMER PARRAFO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 226.
 
-La recusación de magistrados se promoverá mediante escrito que se presente en la Sala o Sección en la que se halle adscrito el magistrado de que se trate, acompañando las pruebas que se ofrezcan. El Presidente de la Sección o de la Sala, dentro de los cinco días siguientes, enviará al Presidente del Tribunal, el escrito de recusación junto con un informe que el magistrado recusado debe rendir, a fin de que se someta el asunto al conocimiento del Pleno. A falta de informe se presumirá cierto el impedimento. Si el Pleno del Tribunal considera fundada la recusación, el magistrado de la sala regional será sustituido en los términos de la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa. Si se trata de magistrados de Sala Superior, el mismo deberá abstenerse de conocer del asunto.
-
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-Los magistrados que conozcan de una recusación son irrecusables para ese solo efecto.
-
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-La recusación del perito del Tribunal se promoverá ante el magistrado instructor, dentro de los seis días siguientes a la fecha en que surta efectos la notificación del acuerdo por el que se le designe.
-
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-El instructor pedirá al perito recusado que rinda un informe dentro de los tres días siguientes. A falta de informe se presumirá cierto el impedimento. Si la Sala encuentra fundada la recusación substituirá al perito.
-
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 227.
 
-Los particulares podrán promover el incidente de suspensión de la ejecución, cuando la autoridad ejecutora niegue la suspensión, rechace la garantía ofrecida o reinicie la ejecución, ante el magistrado instructor de la Sala Regional que conozca del asunto o que haya conocido del mismo en la primera instancia, acompañando copia de los documentos en que se haga constar el ofrecimiento y, en su caso, otorgamiento de la garantía, así como de la solicitud de suspensión presentada ante la ejecutora y, si lo hubiere, la documentación en que conste la negativa de la suspensión, el rechazo de la garantía o el reinicio de la ejecución.
-
-Con los mismos trámites del incidente previsto en el párrafo anterior, las autoridades fiscales podrán impugnar el otorgamiento de la suspensión cuando no se ajuste a la ley.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-El incidente previsto en este artículo podrá promoverse hasta que se dicte sentencia de la Sala. Mientras no se dicte la misma, la Sala podrá modificar o revocar el auto que haya decretado o negado la suspensión, cuando ocurra un hecho superveniente que lo justifique.
-
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 228.
 
-En el auto que admita el incidente a que se refiere el artículo 227, el magistrado instructor ordenará correr traslado a la autoridad a quien se impute el acto, pidiéndole un informe que deberá rendir en un plazo de tres días. Asimismo, podrá decretar la suspensión provisional de la ejecución. Si la autoridad ejecutora no rinde el informe o si éste no se refiere específicamente a los hechos que le impute el promovente, se tendrán éstos por ciertos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
-Dentro del plazo de cinco días a partir de que haya recibido el informe, o de que haya vencido el término para presentarlo, la Sala dictará resolución en la que decrete o niegue la suspensión del procedimiento administrativo de ejecución o decida sobre la admisión de la garantía ofrecida.
-
-Si la autoridad no da cumplimiento a la orden de suspensión o de admisión de la garantía, la Sala Regional declarará la nulidad de las actuaciones realizadas con violación a la misma e impondrá a la autoridad renuente una multa de uno a tres tantos del salario mínimo general del área geográfica correspondiente al Distrito Federal, elevado al mes.
-
-> <small>(F. DE E., D.O.F. 19 DE FEBRERO DE 1988)</small>
-
-Si el incidente es promovido por la autoridad por haberse concedido indebidamente una suspensión, se tramitará lo conducente en los términos de este precepto.
-
-(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-Artículo 228 BIS.- Cuando se promueva alguno de los incidentes previstos en el artículo 217, se suspenderá el juicio en el principal hasta que se dicte la resolución correspondiente.
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-Los incidentes a que se refieren las fracciones I, II y IV de dicho artículo únicamente podrán promoverse hasta antes de que quede cerrada la instrucción, en los términos del artículo 235 de este Código.
-
-Cuando se promuevan incidentes que no sean de previo y especial pronunciamiento, continuará el trámite del proceso.
-
-Si no está previsto algún trámite especial, los incidentes se substanciarán corriendo traslado de la promoción a las partes por el término de tres días. Con el escrito por el que se promueva el incidente o se desahogue el traslado concedido, se ofrecerán las pruebas pertinentes y se presentarán los documentos, los cuestionarios e interrogatorios de testigos y peritos, siendo aplicables para las pruebas pericial y testimonial las reglas relativas del principal.
-
-> <small>(DEROGADO QUINTO PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+Artículo 228 BIS.- (DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 229.
 
-Cuando alguna de las partes sostenga la falsedad de un documento, incluyendo las promociones y actuaciones en juicio, el incidente se podrá hacer valer ante el magistrado instructor hasta antes que se cierre la instrucción del juicio. El incidente se substanciará conforme a lo dispuesto en el cuarto párrafo del artículo 228 bis, corriendo traslado de la promoción a las partes por el término de diez días.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
-Si alguna de las partes sostiene la falsedad de un documento firmado por otra, el magistrado instructor podrá citar a la parte respectiva para que estampe su firma en presencia del secretario.
-
-En los casos distintos de los señalados en el párrafo anterior, el incidentista deberá acompañar el documento que considere como indubitado o señalar el lugar donde se encuentre, o bien ofrecer la pericial correspondiente; si no lo hace, el magistrado instructor desechará el incidente.
-
-La Sala resolverá sobre la autenticidad del documento exclusivamente para los efectos del juicio en el que se presente el incidente.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO VIII. Del Cierre de la Instrucción
 
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
 ###### Artículo 230.
 
-En los juicios que se tramiten ante el Tribunal Federal de Justicia Fiscal y Administrativa, serán admisibles toda clase de pruebas, excepto la de confesión de las autoridades mediante absolución de posiciones y la petición de informes, salvo que los informes se limiten a hechos que consten en documentos que obren en poder de las autoridades.
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
-
-Las pruebas supervenientes podrán presentarse siempre que no se haya dictado sentencia. En este caso, el magistrado instructor ordenará dar vista a la contraparte para que en el plazo de cinco días exprese lo que a su derecho convenga.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-El magistrado instructor podrá acordar la exhibición de cualquier documento que tenga relación con los hechos controvertidos o para ordenar la práctica de cualquier diligencia.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 231.
 
-La prueba pericial se sujetará a lo siguiente:
-
-I. En el auto que recaiga a la contestación de la demanda o de su ampliación, se requerirá a las partes para que dentro del plazo de diez días presenten a sus peritos, a fin de que acrediten que reúnen los requisitos correspondientes, acepten el cargo y protesten su legal desempeño, apercibiéndolas de que si no lo hacen sin justa causa, o la persona propuesta no acepta el cargo o no reúne los requisitos de ley, sólo se considerará el peritaje de quien haya cumplimentado el requerimiento.
-
-> <small>(F. DE E., D.O.F. 24 DE ENERO DE 1986)</small>
-
-II. El magistrado instructor, cuando a su juicio deba presidir la diligencia y lo permita la naturaleza de ésta, señalará lugar, día y hora para el desahogo de la prueba pericial pudiendo pedir a los peritos todas las aclaraciones que estime conducentes y exigirles la práctica de nuevas diligencias.
-
-III. En los acuerdos por los que se discierna a cada perito, el magistrado instructor le concederá un plazo mínimo de quince días para que rinda su dictamen, con el apercibimiento a la parte que lo propuso de que únicamente se considerarán los dictámenes rendidos dentro del plazo concedido.
-
-IV. Por una sola vez y por causa que lo justifique, comunicada al instructor antes de vencer los plazos mencionados en este artículo, las partes podrán solicitar la sustitución de su perito, señalando el nombre y domicilio de la nueva persona propuesta. La parte que haya sustituido a su perito conforme a la fracción I, ya no podrá hacerlo en el caso previsto en la fracción III de este precepto.
-
-V. El perito tercero será designado por la Sala Regional de entre los que tenga adscritos. En el caso de que no hubiere perito adscrito en la ciencia o arte sobre el cual verse el peritaje, la Sala designará bajo su responsabilidad a la persona que debe rendir dicho dictamen y las partes cubrirán sus honorarios. Cuando haya lugar a designar perito tercero valuador, el nombramiento deberá recaer en una institución fiduciaria, debiendo cubrirse sus honorarios por las partes.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 232.
 
-Para desahogar la prueba testimonial se requerirá a la oferente para que presente a los testigos y cuando ésta manifieste no poder presentarlos, el magistrado instructor los citará para que comparezcan el día y hora que al efecto señale. De los testimonios se levantará acta pormenorizada y podrán serles formuladas por el magistrado o por las partes aquellas preguntas que estén en relación directa con los hechos controvertidos o persigan la aclaración de cualquier respuesta. Las autoridades rendirán testimonio por escrito.
-
-> <small>(REFORMADO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-Cuando los testigos tengan su domicilio fuera de la sede de la Sala, se podrá desahogar la prueba mediante exhorto, previa calificación hecha por el magistrado instructor del interrogatorio presentado, pudiendo repreguntar el magistrado o juez que desahogue el exhorto. Para diligenciar el exhorto el magistrado del Tribunal Federal de Justicia Fiscal y Administrativa podrá solicitar el auxilio de algún juez o magistrado del Poder Judicial de la Federación o de algún tribunal administrativo federal.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 233.
 
-A fin de que las partes puedan rendir sus pruebas, los funcionarios o autoridades tienen obligación de expedir con toda oportunidad, previo pago de los derechos correspondientes, las copias certificadas de los documentos que les soliciten; si no se cumpliera con esa obligación la parte interesada solicitará al magistrado instructor que requiera a los omisos.
-
-Cuando sin causa justificada la autoridad demandada no expida las copias de los documentos ofrecidos por el demandante para probar los hechos imputados a aquélla y siempre que los documentos solicitados hubieran sido identificados con toda precisión tanto en sus características como en su contenido, se presumirán ciertos los hechos que pretenda probar con esos documentos.
-
-En los casos en que la autoridad no sea parte, el magistrado instructor podrá hacer valer como medida de apremio la imposición de multas de hasta el monto del equivalente al salario mínimo general de la zona económica correspondiente al Distrito Federal, elevado al trimestre, a los funcionarios omisos.
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
-
-Cuando se soliciten copias de documentos que no puedan proporcionarse en la práctica administrativa normal, las autoridades podrán solicitar un plazo adicional para hacer las diligencias extraordinarias que el caso amerite y si al cabo de éstas no se localizan, el magistrado instructor podrá considerar que se está en presencia de omisión por causa justificada.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 234.
 
-La valoración de las pruebas se hará de acuerdo con las siguientes disposiciones:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
-I. Harán prueba plena la confesión expresa de las partes, las presunciones legales que no admitan prueba en contrario, así como los hechos legalmente afirmados por autoridad en documentos públicos; pero, si en estos últimos se contienen declaraciones de verdad o manifestaciones de hechos de particulares, los documentos sólo prueban plenamente que, ante la autoridad que los expidió, se hicieron tales declaraciones o manifestaciones, pero no prueban la verdad de lo declarado o manifestado.
-
-Tratándose de actos de comprobación de las autoridades administrativas, se entenderán como legalmente afirmados los hechos que constan en las actas respectivas.
-
-II. El valor de las pruebas pericial y testimonial, así como el de las demás pruebas quedará a la prudente apreciación de la sala.
-
-Cuando por el enlace de las pruebas rendidas y de las presunciones formadas, la sala adquiera convicción distinta acerca de los hechos materia del litigio, podrá valorar las pruebas sin sujetarse a lo dispuesto en las fracciones anteriores, debiendo fundar razonadamente esta parte de su sentencia.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO IX. De la Sentencia
 
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
 ###### Artículo 235.
 
-El magistrado instructor, diez días después de que haya concluído la sustanciación del juicio y no existiere ninguna cuestión pendiente que impida su resolución, notificará por lista a las partes que tienen un término de cinco días para formular alegatos por escrito. Los alegatos presentados en tiempo deberán ser considerados al dictar sentencia.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
-Al vencer el plazo de cinco días a que se refiere el párrafo anterior, con alegatos o sin ellos, quedará cerrada la instrucción, sin necesidad de declaratoria expresa.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO X. De los Recursos
 
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 236.
 
-La sentencia se pronunciará por unanimidad o mayoría de votos de los magistrados integrantes de la Sala, dentro de los sesenta días siguientes a aquél en que se cierre la instrucción en el juicio. Para este efecto el magistrado instructor formulará el proyecto respectivo dentro de los cuarenta y cinco días siguientes al cierre de la instrucción. Para dictar resolución en los casos de sobreseimiento por alguna de las causas previstas en el artículo 203 de este Código, no será necesario que se hubiese cerrado la instrucción.
-
-Cuando la mayoría de los magistrados estén de acuerdo con el proyecto, el magistrado disidente podrá limitarse a expresar que vota en contra del proyecto o formular voto particular razonado, el que deberá presentar en un plazo que no exceda de diez días.
-
-Si el proyecto no fue aceptado por los otros magistrados de la Sala, el magistrado instructor engrosará el fallo con los argumentos de la mayoría y el proyecto podrá quedar como voto particular.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 237.
 
-Las sentencias del Tribunal Federal de Justicia Fiscal y Administrativa se fundarán en derecho y resolverán sobre la pretensión del actor que se deduzca de su demanda, en relación con una resolución impugnada, teniendo la facultad de invocar hechos notorios.
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-Cuando se hagan valer diversas causales de ilegalidad, la sentencia o resolución de la sala deberá examinar primero aquéllos que puedan llevar a declarar la nulidad lisa y llana. En el caso de que la sentencia declare la nulidad de una resolución por la omisión de los requisitos formales exigidos por las leyes, o por vicios de procedimiento, la misma deberá señalar en que forma afectaron las defensas del particular y trascendieron al sentido de la resolución.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
-
-Las Salas podrán corregir los errores que adviertan en la cita de los preceptos que se consideren violados y examinar en su conjunto los agravios y causales de ilegalidad, así como los demás razonamientos de las partes, a fin de resolver la cuestión efectivamente planteada, pero sin cambiar los hechos expuestos en la demanda y en la contestación.
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-Tratándose de las sentencias que resuelvan sobre la legalidad de la resolución dictada en un recurso administrativo, si se cuenta con elementos suficientes para ello, el Tribunal se pronunciará sobre la legalidad de la resolución recurrida, en la parte que no satisfizo el interés jurídico del demandante. No se podrán anular o modificar los actos de las autoridades administrativas no impugnados de manera expresa en la demanda.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-En el caso de sentencias en que se condene a la autoridad a la restitución de un derecho subjetivo violado o a la devolución de una cantidad, el Tribunal deberá previamente constatar el derecho que tiene el particular, además de la ilegalidad de la resolución impugnada.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 238.
 
-Se declarará que una resolución administrativa es ilegal cuando se demuestre alguna de las siguientes causales:
-
-I. Incompetencia del funcionario que la haya dictado u ordenado o tramitado el procedimiento del que deriva dicha resolución.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-II. Omisión de los requisitos formales exigidos por las leyes, que afecte las defensas del particular y trascienda al sentido de la resolución impugnada, inclusive la ausencia de fundamentación o motivación, en su caso.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-III. Vicios del procedimiento que afecten las defensas del particular y trasciendan al sentido de la resolución impugnada.
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
-
-IV. Si los hechos que la motivaron no se realizaron, fueron distintos o se apreciaron en forma equivocada, o bien si se dictó en contravención de las disposiciones aplicadas o dejo de aplicar las debidas.
-
-V. Cuando la resolución administrativa dictada en ejercicio de facultades discrecionales no corresponda a los fines para los cuales la ley confiera dichas facultades.
-
-> <small>(REFORMADO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-El Tribunal Federal de Justicia Fiscal y Administrativa podrá hacer valer de oficio, por ser de orden público, la incompetencia de la autoridad para dictar la resolución impugnada y la ausencia total de fundamentación o motivación en dicha resolución.
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-Los órganos arbitrales o paneles binacionales, derivados de mecanismos alternativos de solución de controversias en materia de prácticas desleales, contenidos en tratados y convenios internacionales de los que México sea parte, no podrán revisar de oficio las causales a que se refiere este artículo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 239.
 
-La sentencia definitiva podrá:
-
-I. Reconocer la validez de la resolución impugnada.
-
-II. Declarar la nulidad de la resolución impugnada.
-
-III. Declarar la nulidad de la resolución impugnada para determinados efectos, debiendo precisar con claridad la forma y términos en que la autoridad debe cumplirla, salvo que se trate de facultades discrecionales.
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-IV. Declarar la existencia de un derecho subjetivo y condenar al cumplimiento de una obligación, así como declarar la nulidad de la resolución impugnada.
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-Si la sentencia obliga a la autoridad a realizar un determinado acto o iniciar un procedimiento, deberá cumplirse en un plazo de cuatro meses contados a partir de que la sentencia quede firme. Dentro del mismo término deberá emitir la resolución definitiva, aun cuando hayan transcurrido los plazos señalados en los artículos 46-A y 67 de este Código.
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-En el caso de que se interponga recurso, se suspenderá el efecto de la sentencia hasta que se dicte la resolución que ponga fin a la controversia.
-
-> <small>(REFORMADO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-Siempre que se esté en alguno de los supuestos previstos en las fracciones II y III, del artículo 238 de este Código, el Tribunal Federal de Justicia Fiscal y Administrativa declarará la nulidad para el efecto de que se reponga el procedimiento o se emita nueva resolución; en los demás casos, también podrá indicar los términos conforme a los cuales debe dictar su resolución la autoridad administrativa, salvo que se trate de facultades discrecionales.
-
-> <small>(REFORMADO PRIMER PARRAFO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 239-A.
 
-El Pleno o las Secciones del Tribunal Federal de Justicia Fiscal y Administrativa, de oficio o a petición fundada de la Sala Regional correspondiente o de las autoridades, podrán ejercer la facultad de atracción, para resolver los juicios con características especiales.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-I. Revisten características especiales los juicios en que:
-
-a). El valor del negocio exceda de tres mil quinientas veces el salario mínimo general diario del área geográfica correspondiente al Distrito Federal, vigente en el momento de la emisión de la resolución combatida, o
-
-b). Para su resolución sea necesario establecer, por primera vez, la interpretación directa de una ley o fijar el alcance de los elementos constitutivos de una contribución, hasta fijar jurisprudencia. En este caso el Presidente del Tribunal también podrá solicitar la atracción.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-II. Para el ejercicio de la facultad de atracción, se estará a las siguientes reglas:
-
-a). La petición que, en su caso, formulen las Salas Regionales o las autoridades deberá presentarse hasta antes del cierre de la instrucción.
-
-b). La Presidencia del Tribunal comunicará el ejercicio de la facultad de atracción a la Sala Regional antes del cierre de la instrucción.
-
-c). Los acuerdos de la Presidencia que admitan la petición o que de oficio decidan atraer el juicio, serán notificados personalmente a las partes por el magistrado instructor. Al efectuar la notificación se les requerirá que señalen domicilio para recibir notificaciones en el Distrito Federal, así como que designen persona autorizada para recibirlas o, en el caso de las autoridades, que señalen a su representante en el mismo. En caso de no hacerlo, la resolución y las actuaciones diversas que dicte la Sala Superior les serán notificadas en el domicilio que obre en autos.
-
-d). Una vez cerrada la instrucción del juicio, la Sala Regional remitirá el expediente original a la Secretaría General de Acuerdos de la Sala Superior, la que lo turnará al magistrado ponente que corresponda conforme a las reglas que determine el Pleno del propio Tribunal.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 239-B.
 
-En los casos de incumplimiento de sentencia firme o sentencia interlocutoria que hubiese otorgado la suspensión definitiva, la parte afectada podrá ocurrir en queja, por una sola vez, ante la Sala del Tribunal que dictó la sentencia, de acuerdo con las siguientes reglas:
-
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-I. Procederá en contra de los siguientes actos:
-
-a). La resolución que repita indebidamente la resolución anulada o que incurra en exceso o en defecto, cuando dicha resolución se dicte en cumplimiento de una sentencia.
-
-b). Cuando la autoridad omita dar cumplimiento a la sentencia, para lo cual deberá haber transcurrido el plazo previsto en ley.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-c) Si la autoridad no da cumplimiento a la orden de suspensión definitiva de la ejecución del acto impugnado en el juicio de nulidad.
-
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-II. Se interpondrá por escrito ante el magistrado instructor o ponente, dentro de los quince días siguientes al día en que surte efectos la notificación del acto o la resolución que la provoca. En el supuesto previsto en el inciso b) de la fracción anterior, el quejoso podrá interponer su queja en cualquier tiempo, salvo que haya prescrito su derecho.
-
-En dicho escrito se expresarán las razones por las que se considera que hubo exceso o defecto en el cumplimiento de la sentencia, repetición de la resolución anulada, o bien se expresará la omisión en el cumplimiento de la sentencia de que se trate.
-
-El magistrado pedirá un informe a la autoridad a quien se impute el incumplimiento de la sentencia, que deberá rendir dentro del plazo de cinco días, en el que, en su caso, se justificará el acto o la omisión que provocó la queja. Vencido dicho plazo, con informe o sin él, el magistrado dará cuenta a la Sala o Sección que corresponda, la que resolverá dentro de cinco días.
-
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-III. En caso de que haya repetición de la resolución anulada, la Sala hará la declaratoria correspondiente, dejando sin efectos la resolución repetida y la notificará al funcionario responsable de la repetición, ordenándole que se abstenga de incurrir en nuevas repeticiones.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-La resolución a que se refiere esta fracción se notificará también al superior del funcionario responsable, entendiéndose por éste al que ordene el acto o lo repita, para que proceda jerárquicamente y la Sala le impondrá una multa de treinta a noventa días de su salario normal, tomando en cuenta el nivel jerárquico, la reincidencia y la importancia del daño causado con el incumplimiento.
-
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-IV. Si la Sala resuelve que hubo exceso o defecto en el cumplimiento de la sentencia, dejará sin efectos la resolución que provocó la queja y concederá al funcionario responsable veinte días para que dé el cumplimiento debido al fallo, señalando la forma y términos precisados en la sentencia, conforme a los cuales deberá cumplir.
-
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-V. Si la Sala resuelve que hubo omisión total en el cumplimiento de la sentencia, concederá al funcionario responsable veinte días para que dé cumplimiento al fallo. En este caso, además se procederá en los términos del párrafo segundo de la fracción III de este artículo.
-
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-VI. Durante el trámite de la queja se suspenderá el procedimiento administrativo de ejecución, si se solicita ante la autoridad ejecutora y se garantiza el interés fiscal en los términos del artículo 144.
-
-A quien promueva una queja notoriamente improcedente, entendiendo por ésta la que se interponga contra actos que no constituyan resolución definitiva, se le impondrá una multa de veinte a ciento veinte días de salario mínimo general diario vigente en el área geográfica correspondiente al Distrito Federal. Existiendo resolución definitiva, si la Sala o Sección consideran que la queja es improcedente, se ordenará instruirla como juicio.
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-VII. Tratándose del incumplimiento a la orden de suspensión definitiva de la ejecución del acto impugnado, la queja se interpondrá por escrito ante el magistrado instructor, en cualquier momento.
-
-En dicho escrito se expresarán las razones por las que se considera que se ha dado el incumplimiento a la suspensión otorgada, y si los hay, los documentos en que consten las actuaciones de la autoridad en que pretenda la ejecución del acto.
-
-El magistrado pedirá un informe a la autoridad a quien se impute el incumplimiento de la sentencia interlocutoria que hubiese otorgado la suspensión definitiva, que deberá rendir dentro del plazo de cinco días, en el que, en su caso, se justificará el acto o la omisión que provocó la queja. Vencido dicho plazo, con informe o sin él, el magistrado dará cuenta a la Sala o Sección que corresponda, la que resolverá dentro de cinco días.
-
-Si la Sala resuelve que hubo incumplimiento de la suspensión otorgada, declarará la nulidad de las actuaciones realizadas en violación a la suspensión.
-
-La resolución a que se refiere esta fracción se notificará también al superior del funcionario responsable, entendiéndose por éste al que incumpla la suspensión decretada, para que proceda jerárquicamente y la Sala impondrá al funcionario responsable o autoridad renuente, una multa equivalente a un mínimo de quince días de su salario, sin exceder del equivalente a cuarenta y cinco días del mismo.
-
-> <small>(REFORMADO PRIMER PARRAFO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 239-C.
 
-La parte que estime contradictoria, ambigua u obscura una sentencia definitiva del Tribunal Federal de Justicia Fiscal y Administrativa, podrá promover por una sola vez su aclaración dentro de los diez días siguientes a aquél en que surta efectos su notificación.
-
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-La instancia deberá señalar la parte de la sentencia cuya aclaración se solicita e interponerse ante la Sala o Sección que dictó la sentencia, la que deberá resolver en un plazo de cinco días siguientes a la fecha en que fue interpuesto, sin que pueda variar la sustancia de la sentencia. La aclaración no admite recurso alguno y se reputará parte de la sentencia recurrida y su interposición interrumpe el término para su impugnación.
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 240.
 
-Las partes podrán formular excitativa de justicia ante el Presidente del Tribunal, si el magistrado responsable no formula el proyecto respectivo dentro del plazo señalado en este Código.
-
-> <small>(REFORMADO PRIMER PARRAFO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 241.
 
-Recibida la excitativa de justicia, el Presidente del Tribunal Federal de Justicia Fiscal y Administrativa, solicitará informe al magistrado responsable que corresponda, quien deberá rendirlo en el plazo de cinco días. El Presidente dará cuenta al Pleno y si éste encuentra fundada la excitativa, otorgará un plazo que no excederá de quince días para que el magistrado formule el proyecto respectivo. Si el mismo no cumpliere con dicha obligación, será sustituido en los términos de la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-En el supuesto de que la excitativa se promueva por no haberse dictado sentencia, a pesar de existir el proyecto del magistrado responsable, el informe a que se refiere el párrafo anterior, se pedirá al presidente de la sala o Sección respectiva, para que lo rinda en el plazo de tres días, y en el caso de que el Pleno considere fundada la excitativa, concederá un plazo de diez días a la sala o Sección para que dicte la sentencia y si ésta no lo hace, se podrá sustituir a los magistrados renuentes o cambiar de sección.
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-Cuando un magistrado, en dos ocasiones hubiere sido sustituido conforme a este precepto, el Presidente del Tribunal podrá poner el hecho en conocimiento del Presidente de la República.
+> <small>(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO XI. De las Notificaciones y del Cómputo de los Términos
 
@@ -6506,37 +5796,33 @@ Cuando un magistrado, en dos ocasiones hubiere sido sustituido conforme a este p
 
 ###### Artículo 242.
 
-El recurso de reclamación procederá en contra de las resoluciones del magistrado instructor que admitan, desechen o tengan por no presentada la demanda, la contestación, la ampliación de ambas o alguna prueba; las que decreten o nieguen el sobreseimiento del juicio o aquéllas que admitan o rechacen la intervención del tercero. La reclamación se interpondrá ante la Sala o Sección respectiva, dentro de los quince días siguientes a aquél en que surta efectos la notificación de que se trate.
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 243.
 
-Interpuesto el recurso a que se refiere el artículo anterior, se ordenará correr traslado a la contraparte por el término de quince días para que exprese lo que a su derecho convenga y sin más trámite dará cuenta a la sala para que resuelva en el término de cinco días. El Magistrado que haya dictado el acuerdo recurrido no podrá excusarse.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 244.
 
-Cuando la reclamación se interponga en contra del acuerdo que sobresea el juicio antes de que se hubiera cerrado la instrucción, en caso de desistimiento del demandante, no será necesario dar vista a la contraparte.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1996) (REPUBLICADA, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 #### Sección Tercera. De la revisión
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
 ###### Artículo 245.
 
-(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996) (REPUBLICADO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 246.
 
-(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996) (REPUBLICADO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 247.
 
-(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996) (REPUBLICADO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
-(REUBICADA [N. DE E. ANTES SECCION SEGUNDA], D.O.F. 15 DE DICIEMBRE DE 1995)
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)</small>
 
 #### Sección Segunda. De la Apelación
 
@@ -6544,195 +5830,77 @@ Cuando la reclamación se interponga en contra del acuerdo que sobresea el juici
 
 ###### Artículo 248.
 
-Las resoluciones de las Salas Regionales que decreten o nieguen sobreseimientos y las sentencias definitivas, podrán ser impugnadas por la autoridad a través de la unidad administrativa encargada de su defensa jurídica, interponiendo el recurso de revisión ante el Tribunal Colegiado de Circuito competente en la sede de la Sala Regional respectiva, mediante escrito que presente ante ésta dentro de los quince días siguientes al día en que surta efectos su notificación, siempre que se refiera a cualquiera de los siguientes supuestos:
-
-I. Sea de cuantía que exceda de tres mil quinientas veces el salario mínimo general diario del área geográfica correspondiente al Distrito Federal, vigente al momento de la emisión de la resolución o sentencia.
-
-En el caso de contribuciones que deban determinarse o cubrirse por períodos inferiores a doce meses, para determinar la cuantía del asunto se considerará el monto que resulte de dividir el importe de la contribución entre el número de meses comprendidos en el período que corresponda y multiplicar el cociente por doce.
-
-II. Sea de importancia y trascendencia cuando la cuantía sea inferior a la señalada en la fracción primera, o de cuantía indeterminada, debiendo el recurrente razonar esa circunstancia para efectos de la admisión del recurso.
-
-III. Sea una resolución dictada por la Secretaría de Hacienda y Crédito Público o por autoridades fiscales de las Entidades Federativas coordinadas en ingresos federales y siempre que el asunto se refiera a:
-
-a). Interpretación de leyes o reglamentos en forma tácita o expresa.
-
-b). La determinación del alcance de los elementos esenciales de las contribuciones.
-
-c). Competencia de la autoridad que haya dictado u ordenado la resolución impugnada o tramitado el procedimiento del que deriva o al ejercicio de las facultades de comprobación.
-
-d). Violaciones procesales durante el juicio que afecten las defensas del recurrente y trasciendan al sentido del fallo.
-
-e). Violaciones cometidas en las propias resoluciones o sentencias.
-
-f). Las que afecten el interés fiscal de la Federación.
-
-IV. Sea una resolución dictada en materia de la Ley Federal de Responsabilidades de los Servidores Públicos.
-
-V. Sea una resolución en materia de aportaciones de seguridad social, cuando el asunto verse sobre la determinación de sujetos obligados, de conceptos que integren la base de cotización o sobre el grado de riesgo de las empresas para los efectos del seguro de riesgos del trabajo.
-
-> <small>(REFORMADO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-El recurso de revisión también será procedente contra resoluciones o sentencias que dicte el Tribunal Federal de Justicia Fiscal y Administrativa, en los casos de atracción a que se refiere el artículo 239-A de este Código.
-
-En los juicios que versen sobre resoluciones de las autoridades fiscales de las Entidades Federativas coordinadas en ingresos federales, el recurso sólo podrá ser interpuesto por la Secretaría de Hacienda y Crédito Público.
-
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 249.
 
-Si el particular interpuso amparo directo contra la misma resolución o sentencia impugnada mediante el recurso de revisión, el Tribunal Colegiado de Circuito que conozca del amparo resolverá el citado recurso, lo cual tendrá lugar en la misma sesión en que decida el amparo.
-
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 250.
 
-(DEROGADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y 1 DE FEBRERO DE 1988)
+(DEROGADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988, 1 DE FEBRERO DE 1988 Y 1 DE DICIEMBRE DE 2005)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO XII. De la Jurisprudencia
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
 ###### Artículo 251.
 
-Toda resolución debe notificarse, a más tardar, el tercer día siguiente a aquel en que el expediente haya sido turnado al actuario para ese efecto y se asentará la razón respectiva a continuación de la misma resolución.
-
-Al actuario que sin causa justificada no cumpla con esta obligación se le impondrá una multa hasta de dos veces el equivalente al salario mínimo general de la zona económica correspondiente al Distrito Federal elevado al mes, sin que exceda del 30% de su salario y será destituido, sin responsabilidad para el Estado, en caso de reincidencia.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 252.
 
-En las notificaciones, el actuario deberá asentar razón del envío por correo o entrega de los oficios de notificación, así como de las notificaciones personales y por lista. Los acuses postales de recibo y las piezas certificadas devueltas se agregarán como constancia a dichas actuaciones.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 253.
 
-Las notificaciones que deban hacerse a los particulares, se harán en los locales de las salas si las personas a quienes deba notificarse se presentan dentro de las veinticuatro horas siguientes a aquella en que se haya dictado la resolución. Cuando el particular no se presente se harán por lista autorizada que se fijará en sitio visible de los locales de los tribunales.
-
-Cuando el particular no se presente se harán personalmente o por correo certificado con acuse de recibo, siempre que se conozca su domicilio o que éste o el de su representante se encuentre en territorio nacional, tratándose de los siguientes casos:
-
-I. La que corra traslado de la demanda, de la contestación y, en su caso, de la ampliación.
-
-II. La que mande citar a los testigos o a un tercero.
-
-III. El requerimiento a la parte que debe cumplirlo.
-
-(REFORMADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-IV. El auto de la Sala Regional que dé a conocer a las partes que el juicio será resuelto por la Sala Superior.
-
-V. La resolución de sobreseimiento.
-
-VI. La sentencia definitiva.
-
-VII. En todos aquellos casos en que el magistrado instructor así lo ordene.
-
-La lista a que se refiere este artículo contendrá nombre de la persona, expediente y tipo de acuerdo. En los autos se hará constar la fecha de la lista.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-Para que se puedan efectuar las notificaciones por transmisión facsimilar o electrónica, se requiere que la parte que así lo solicite, señale su número de telefacsímil o dirección de correo personal electrónico. Satisfecho lo anterior, el magistrado instructor ordenará que las notificaciones personales se le practiquen por el medio que aquélla autorice de entre los señalados por este párrafo, el actuario, a su vez, deberá dejar constancia en el expediente de la fecha y hora en que se realizaron, así como de la recepción de la notificación. En este caso, la notificación se considerará efectuada legalmente, aun cuando la misma hubiese sido recibida por una persona distinta al promovente o su representante legal.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 254.
 
-Las notificaciones que deban hacerse a las autoridades administrativas se harán siempre por oficio o por vía telegráfica en casos urgentes.
-
-> <small>(REFORMADO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-Tratándose de las autoridades, las resoluciones que se dicten en los juicios que se tramiten ante el Tribunal Federal de Justicia Fiscal y Administrativa se deberán notificar en todos los casos, únicamente a la unidad administrativa a la que corresponda la representación en juicio de la autoridad señalada en el artículo 198, fracción III de este Código.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 255.
 
-Las notificaciones surtirán sus efectos el día hábil siguiente a aquel en que fueren hechas. En los casos de notificaciones por lista se tendrá como fecha de notificación la del día en que se hubiese fijado.
-
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 256.
 
-La notificación personal o por correo certificado con acuse de recibo, también se entenderá legalmente efectuada cuando se lleve a cabo por cualquier medio por el que se pueda comprobar fehacientemente la recepción de los actos que se notifiquen.
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 257.
 
-Una notificación omitida o irregular se entenderá legalmente hecha a partir de la fecha en que el interesado se haga sabedor de su contenido.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 258.
 
-El cómputo de los plazos se sujetará a las reglas siguientes:
-
-I. Empezarán a correr a partir del día siguiente a aquel en que surta efectos la notificación.
-
-> <small>(REFORMADA POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-II. Si están fijados en días, se computarán sólo los hábiles entendiéndose por éstos aquellos en que se encuentren abiertas al público las oficinas de las salas del Tribunal Federal de Justicia Fiscal y Administrativa durante el horario normal de labores. La existencia de personal de guardia no habilita los días en que se suspendan las labores.
-
-> <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
-
-III. Si están señalados en períodos o tienen una fecha determinada para su extinción, se comprenderán los días inhábiles; no obstante, si el último día del plazo o la fecha determinada es inhábil, el término se prorrogará hasta el siguiente día hábil.
-
-IV. Cuando los plazos se fijen por mes o por año, sin especificar que sean de calendario se entenderá en el primer caso que el plazo vence el mismo día del mes de calendario posterior a aquel en que se inició y en el segundo caso, el término vencerá el mismo día del siguiente año de calendario a aquel en que se inició. Cuando no exista el mismo día en los plazos que se fijen por mes, éste se prorrogará hasta el primer día hábil del siguiente mes de calendario.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 258-A.
 
-Las diligencias de notificación o, en su caso, de desahogo de alguna prueba, que deban practicarse en región distinta de la correspondiente a la sede de la Sala Regional en que se instruya el juicio, deberán encomendarse a la ubicada en aquélla.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
-Los exhortos se despacharán al día siguiente hábil a aquél en que la actuaría reciba el acuerdo que los ordene. Los que se reciban se proveerán dentro de los tres días siguientes a su recepción y se diligenciarán dentro de los cinco días siguientes, a no ser que lo que haya de practicarse exija necesariamente mayor tiempo, caso en el cual, la Sala requerida fijará el plazo que crea conveniente.
-
-Una vez diligenciado el exhorto, la Sala requerida, sin más trámite, deberá remitirlo con las constancias que acrediten el debido cumplimiento de la diligencia practicada en auxilio de la Sala requirente.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 259.
 
-Las tesis sustentadas en las sentencias pronunciadas por la Sala Superior, aprobadas por lo menos por siete magistrados, constituirán precedente una vez publicados en la Revista del Tribunal Federal de Justicia Fiscal y Administrativa.
-
-> <small>(REFORMADO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-También constituirán precedente las tesis sustentadas en las sentencias de las Secciones de la Sala Superior, siempre que sean aprobadas cuando menos por cuatro de los magistrados integrantes de la Sección de que se trate y sean publicados en la Revista del Tribunal Federal de Justicia Fiscal y Administrativa.
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-Las Salas podrán apartarse de los precedentes establecidos por el Pleno o las Secciones, siempre que en la sentencia expresen las razones por las que se apartan del mismo, debiendo enviar al Presidente del Tribunal copia de la sentencia.
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 260.
 
-Para fijar jurisprudencia, el Pleno de la Sala Superior deberá aprobar tres precedentes en el mismo sentido, no interrumpidos por otro en contrario.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-Asimismo, constituyen jurisprudencia las resoluciones pronunciadas por la Sala Superior, aprobadas por lo menos por siete magistrados, que diluciden las contradicciones de tesis sustentadas en las sentencias emitidas por las Secciones o por las Salas Regionales del Tribunal.
-
-También se fijara jurisprudencia por alguna Sección de la Sala Superior, siempre que se aprueben cinco precedentes no interrumpidos por otro en contrario.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 261.
 
-En el caso de contradicción de sentencias, cualquiera de los Magistrados del Tribunal o las partes en los juicios en las que tales tesis se sustentaron, podrán denunciarla ante el Presidente del Tribunal para que éste la haga del conocimiento del Pleno, el cual con un quórum mínimo de diez Magistrados, decidirá por mayoría la que debe prevalecer, constituyendo jurisprudencia.
-
-La resolución que pronuncie el Pleno del Tribunal, en los casos a que este artículo se refiere, sólo tendrá efectos para fijar jurisprudencia y no afectará las resoluciones dictadas en los juicios correspondientes.
-
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 262.
 
-El Pleno podrá suspender una jurisprudencia, cuando en una sentencia o en una resolución de contradicción de sentencias, resuelva en sentido contrario a la tesis de la jurisprudencia. Dicha suspensión deberá publicarse en la revista del Tribunal.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-Las Secciones de la Sala Superior podrán apartarse de su jurisprudencia, siempre que la sentencia se apruebe por lo menos por cuatro Magistrados integrantes de la Sección, expresando en ella las razones por las que se apartan y enviando al Presidente del Tribunal copia de la misma, para que la haga del conocimiento del Pleno y éste determine si procede que se suspenda su aplicación, debiendo en este caso publicarse en la revista del Tribunal.
-
-Los magistrados de la Sala Superior podrán proponer al Pleno que suspenda su jurisprudencia, cuando haya razones fundadas que lo justifiquen. Las Salas Regionales también podrán proponer la suspensión expresando al Presidente del Tribunal los razonamientos que sustenten la propuesta, a fin de que la someta a la consideración del Pleno.
-
-La suspensión de una jurisprudencia termina cuando se reitere el criterio en tres precedentes de Pleno o cinco de sección, salvo que el origen de la suspensión sea jurisprudencia en contrario del Poder Judicial Federal y éste la cambie. En este caso, el Presidente del Tribunal lo informara al Pleno para que éste ordene su publicación.
-
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 263.
 
-Las Salas del Tribunal están obligadas a aplicar la jurisprudencia del Tribunal, salvo que ésta contravenga jurisprudencia del Poder Judicial Federal.
-
-Cuando se conozca que una Sala del Tribunal dictó una sentencia contraviniendo la jurisprudencia, el Presidente del Tribunal solicitará a los magistrados que hayan votado a favor de dicha sentencia un informe, para que éste lo haga del conocimiento del Pleno y, una vez confirmado el incumplimiento, el Pleno del Tribunal los apercibirá. En caso de reincidencia se les aplicará la sanción administrativa que corresponda en los términos de la ley de la materia.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ## TRANSITORIOS
 
@@ -7893,6 +7061,16 @@ SEXTO. La Secretaría de Hacienda y Crédito Público en coordinación con las d
 SÉPTIMO. Los procedimientos y recursos administrativos iniciados antes de la entrada en vigor de las presentes reformas, se seguirán hasta su conclusión definitiva por y ante la autoridad que se presentaron de acuerdo con los ordenamientos vigentes al momento que iniciaron.
 
 OCTAVO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+D.O.F. 1 DE DICIEMBRE DE 2005.
+
+Primero.- La presente Ley entrará en vigor en toda la República el día 1o. de enero del 2006.
+
+Segundo.- A partir de la entrada en vigor de esta Ley se derogan el Título VI del Código Fiscal de la Federación y los artículos que comprenden del 197 al 263 del citado ordenamiento legal, por lo que las leyes que remitan a esos preceptos se entenderán referidos a los correspondientes de esta Ley Federal de Procedimiento Contencioso Administrativo.
+
+Tercero.- Quedan sin efectos las disposiciones legales, que contravengan o se opongan a lo preceptuado en esta Ley.
+
+Cuarto.- Los juicios que se encuentren en trámite ante el Tribunal Federal de Justicia Fiscal y Administrativa, al momento de entrar en vigor la presente Ley, se tramitarán hasta su total resolución conforme a las disposiciones legales vigentes en el momento de presentación de la demanda.
 
 ## Transitorios
 
