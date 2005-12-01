@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-48-2005-del-pleno-del-consejo-de-la-46788"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-11-09"
-last_updated: "2005-11-09"
+last_updated: "2005-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46788&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2005-11-09"
 ---
 # ACUERDO GENERAL 48/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [BASES DEL PRIMER CONCURSO INTERNO DE OPOSICION PARA DESIGNACION DE JUECES DE DTO. ESPECIALIZADOS EN PENAL, ADMINISTRATIVA, Y COMPETENCIA MIXTA]
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 1 DE DICIEMBRE DE 2005 EN EL S.J.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ACUERDO GENERAL 48/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE FIJA LAS BASES DEL PRIMER CONCURSO INTERNO DE OPOSICIÓN PARA LA DESIGNACIÓN DE JUECES DE DISTRITO ESPECIALIZADOS EN MATERIA PENAL Y EN MATERIA ADMINISTRATIVA, ASÍ COMO PARA LA DESIGNACIÓN DE JUECES DE DISTRITO DE COMPETENCIA MIXTA, ES DECIR, QUE COMPRENDE TODAS LAS MATERIAS DEL CONOCIMIENTO DE LOS JUZGADOS DE DISTRITO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACIÓN DEL 1 DE DICIEMBRE DE 2005.</small>
 
 Acuerdo publicado en la Novena Época, Tomo XXII, en la Sección tercera del Semanario Judicial de la Federación y su Gaceta, el miércoles 9 de noviembre de 2005.
 
@@ -85,19 +85,23 @@ CUARTO.- En el Primer Concurso Interno de Oposición para la Designación de Jue
 
 En el concurso podrán participar los Secretarios Técnicos del Consejo de la Judicatura Federal que se encuentren en la hipótesis que prevé el Acuerdo General 28/2004 del Pleno del Consejo, siempre y cuando reúnan los requisitos anteriores.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE PUNTO DE ACUERDO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 1 DE DICIEMBRE DE 2005 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 QUINTO.- Durante los días hábiles comprendidos del veintinueve de noviembre al catorce de diciembre de dos mil cinco, de las nueve a las quince y de las dieciséis a las dieciocho horas, los interesados en participar en el Primer Concurso Interno de Oposición para la Designación de Jueces de Distrito Especializados en materia Penal y en materia Administrativa, así como para la Designación de Jueces de Distrito de competencia mixta, es decir, que comprende todas las materias del conocimiento de los Juzgados de Distrito, deberán presentar en la sede central del Instituto de la Judicatura Federal, ubicada en calle Sidar y Rovirosa 236, colonia Del Parque, delegación Venustiano Carranza, código postal 15960, México, Distrito Federal, los siguientes documentos:
 
 1) Formato de información curricular que estará a disposición de los interesados en la página de Internet del Instituto de la Judicatura Federal (http://www.ijf.cjf.gob.mx);
 
 2) Copia certificada del acta de nacimiento, del título y de la cédula profesionales, expedidos por las autoridades competentes;
 
-3) Constancia expedida por la Dirección General de Recursos Humanos del Consejo de la Judicatura Federal o por la correspondiente de la Suprema Corte de Justicia de la Nación en el ámbito de su respectiva competencia, que acredite la antigüedad del interesado en el Poder Judicial de la Federación, las categorías desempeñadas en él, así como el período en que se desempeñó en cada uno de ellos;
+> <small>(F. DE E., D.O.F. 1 DE DICIEMBRE DE 2005)</small>
 
-4) Escrito en el que, bajo protesta de decir verdad, manifiesten encontrarse en pleno ejercicio de sus derechos, no haber sido condenados por delito intencional con sanción privativa de libertad mayor de un año y que cuentan exclusivamente con la nacionalidad mexicana;
+3) Constancia expedida por la Dirección General de Recursos Humanos del Consejo de la Judicatura Federal o por la correspondiente de la Suprema Corte de Justicia de la Nación en el ámbito de su respectiva competencia, que acredite la antigüedad del interesado en el Poder Judicial de la Federación, las categorías desempeñadas en él, así como el período en que se desempeñó en cada una de ellas;
 
-5) Certificación expedida por la Secretaría Ejecutiva de Disciplina del Consejo o la correspondiente de la Suprema Corte de Justicia de la Nación, en la que se exprese que a la fecha de la segunda publicación de la convocatoria en el diario de mayor circulación que al efecto se elija, no existe queja administrativa o denuncia en las que se le haya sancionado por la comisión de una falta catalogada como grave;
+> <small>(F. DE E., S.J.F. 1 DE DICIEMBRE DE 2005)</small>
+
+4) Escrito en el que, bajo protesta de decir verdad, manifiesten encontrarse en pleno ejercicio de sus derechos, no haber sido condenados por delito intencional con sanción privativa de libertad mayor de un año y que cuentan exclusivamente con la nacionalidad mexicana; así como si se les ha seguido algún procedimiento administrativo de responsabilidad y cuál ha sido el resultado;
+
+> <small>(F. DE E., S.J.F. 1 DE DICIEMBRE DE 2005)</small>
+
+5) Certificación expedida por la Dirección General de Recursos Humanos del Consejo o la correspondiente de la Suprema Corte de Justicia de la Nación, en la que se exprese que a la fecha de la segunda publicación de la convocatoria en el diario de mayor circulación que al efecto se elija, no existe queja administrativa o denuncia en las que se le haya sancionado por la comisión de una falta catalogada como grave;
 
 6) Escrito en el que se autorice al Consejo de la Judicatura Federal para que, en caso necesario, lleve a cabo investigaciones para corroborar por los medios que juzgue conveniente la información a que se refieren los incisos anteriores.
 
