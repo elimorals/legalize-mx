@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-sistema-de-transporte-colectivo-44800"
 country: "mx"
 rank: "estatuto"
 publication_date: "2005-05-23"
-last_updated: "2005-05-23"
+last_updated: "2005-12-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44800&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2007-11-06"
 
 ESTATUTO ORGANICO DEL SISTEMA DE TRANSPORTE COLECTIVO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE DICIEMBRE DE 2005.
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el lunes 23 de mayo de 2005.
 
@@ -415,53 +415,21 @@ El Director General podrá delegar cualquiera de sus facultades en otros servido
 
 ### CAPÍTULO CUARTO. DEL COMITÉ DE CONTROL Y EVALUACIÓN
 
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 24.
 
 Con fundamento en el artículo 34 fracción I de la Ley, y de conformidad con lo señalado en las Normas y Lineamientos para el Funcionamiento de los Comités de Control y Evaluación que emite la Contraloría General del Distrito Federal, el Comité de Control y Evaluación del S.T.C. es un órgano colegiado constituido para proveer al Director General del S.T.C. y a la Contraloría General de información estratégica sobre el grado de cumplimiento del Programa Operativo Anual, así como de sus indicadores de gestión, con objeto de eficientar el análisis sistemático y permanente de los asuntos relativos a la gestión del Organismo, así como para promover, a través de un adecuado control interno la eficiencia, eficacia y congruencia en las operaciones del Sistema de Transporte Colectivo.
 
-El Comité estará integrado por: Un presidente, un vicepresidente, un secretario técnico, tres vocales, un responsable normativo e invitados permanentes y especiales.
-
-La presidencia del Comité corresponderá al Titular de la Secretaría de Transportes y Vialidad; el Director General del Sistema de Transporte Colectivo fungirá como Vicepresidente; el Secretario Técnico será designado por el Presidente del Comité; como vocales se desempeñarán un representante de la Secretaría de Finanzas del Distrito Federal, un representante de la Dirección General de Comisarios de la Contraloría General del Distrito Federal; un representante de la Oficialía Mayor del Distrito Federal; como Responsable Normativo del Comité, un representante de la Dirección General de Evaluación y Diagnóstico de la Contraloría General del Distrito Federal. Como invitados permanentes: un representante del auditor externo, el Subdirector General de Operaciones e Infraestructura, el Subdirector General Jurídico y de Seguridad Institucional, el Subdirector General de Administración y Finanzas, el Director de Transportación, el Director de Mantenimiento de Material Rodante, el Director de Ingeniería y Desarrollo Tecnológico, el Director de Administración, el Director de Finanzas y el Contralor Interno del Sistema de Transporte Colectivo, un representante de la Dirección General de Contralorías Internas; y los invitados especiales a consideración del Presidente del Comité y con injerencia en los asuntos a tratar.
-
-Los miembros del Comité tendrán voz y voto a excepción del secretario técnico, el responsable normativo e invitados permanentes y especiales, quienes asistirán a las sesiones facultados de voz pero sin voto.
-
-En caso de ausencia del titular el vicepresidente asumirá el cargo de Presidente con las facultades inherentes al mismo.
-
-El Comité sesionará en forma ordinaria cuatro veces al año y se podrá convocar a sesiones extraordinarias cuando la naturaleza e importancia de los asuntos a tratar así lo requiera. Las sesiones ordinarias se efectuarán dentro de los treinta días naturales siguientes al trimestre de que se trate.
-
-Las sesiones sólo podrán celebrarse cuando asistan a ellas la mitad de sus miembros con derecho a voto, y las resoluciones serán válidas cuando sean tomadas por la mitad más uno de los presentes.
-
 ###### ARTÍCULO 25.
 
-El Comité tendrá por objetivos específicos:
+(DEROGADO, G.O. 2 DE DICIEMBRE DE 2005)
 
-I.- Establecer y coordinar la práctica de evaluaciones y autoevaluaciones periódicas en las unidades administrativas del S.T.C., acordes con la finalidad y objetivos del Comité, con objeto de vigilar el desempeño de las mismas y contar con herramientas que faciliten la toma de decisiones para la mejora de la gestión administrativa;
-
-II.- Vigilar a través de la Contraloría Interna la instrumentación de las medidas preventivas y correctivas derivadas de las evaluaciones realizadas;
-
-III.- Proponer la programación de auditorías específicas utilizando la información obtenida en el Comité;
-
-IV.- Verificar a través de la Contraloría Interna, el cumplimiento de las recomendaciones o solicitudes efectuadas por los Órganos Fiscalizadores Internos o Externos, y evitar la recurrencia de las observaciones detectadas;
-
-V.- Asesorar y apoyar a la Contraloría Interna en materia de evaluación y seguimiento de la gestión del Organismo;
-
-VI.- Emitir un informe anual de la gestión pública de las unidades administrativas del S.T.C. ejecutoras del gasto;
-
-VII.- Constituir al Comité en una herramienta básica para la construcción del Sistema de Control y Evaluación de la gestión del Organismo;
-
-VIII.- Proponer mejoras a las normas generales y de control para la planeación, programación y ejercicio de la gestión del Organismo;
-
-IX.- Promover y vigilar que los Órganos Centrales de la Administración Pública del Distrito Federal participen, coadyuven, den atención y seguimiento, dentro del ámbito de su competencia, a los acuerdos establecidos en el Comité con el objeto de apoyar la gestión del Organismo;
-
-X.- Servir como fuente de información para la generación de proyectos de simplificación normativa y administrativa que coadyuven a la mejora de las operaciones del Organismo;
-
-XI.- Efectuar reuniones periódicas con el Director General del S.T.C. para informarle el resultado de las acciones en materia de control y evaluación; y
-
-XII.- Aportar elementos para la integración de los Programas Anuales de Control Interno y de Auditoría.
+> <small>(REFORMADO, G.O. 2 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 26.
 
-El Comité tendrá las atribuciones que le confieran las Normas y Lineamientos para el Funcionamiento de los Comités de Control y Evaluación, emitidas por la Contraloría General del Distrito Federal, y las que le señalen las leyes, reglamentos y demás disposiciones legales aplicables, así como aquéllas que expresamente le asigne el Consejo de Administración.
+El Comité tendrá las atribuciones que le confieran las Normas y Lineamientos para el Funcionamiento de los Comités de Control y Evaluación, emitidas por la Contraloría General del Distrito Federal, y las que le señalen las leyes, reglamentos y demás disposiciones legales aplicables.
 
 ###### ARTÍCULO 27.
 
@@ -469,199 +437,35 @@ Para el desempeño de sus atribuciones el Comité tendrá a su disposición la i
 
 ###### ARTÍCULO 28.
 
-El Comité dispondrá del apoyo de la Contraloría Interna del Organismo, para agilizar el despacho de los acuerdos prioritarios.
+(DEROGADO, G.O. 2 DE DICIEMBRE DE 2005)
 
 ###### ARTÍCULO 29.
 
-Cuando uno de los miembros del Comité detecte alguna irregularidad en el estudio y análisis de la documentación que para tal efecto le haya sido girada, deberá hacerla del conocimiento de éste de manera inmediata.
+(DEROGADO, G.O. 2 DE DICIEMBRE DE 2005)
 
 ###### ARTÍCULO 30.
 
-Corresponde al Presidente del Comité:
-
-I.- Presidir, coordinar y dirigir las distintas juntas del Comité;
-
-II.- Vigilar que se cumpla el Programa Anual de Trabajo aprobado;
-
-III.- Resolver con su voto de calidad en los casos de empate;
-
-IV.- Representar al Comité ante las dependencias o entidades de la Administración Pública Federal y del Distrito Federal, que las leyes o los reglamentos le señalen;
-
-V.- Dar lectura y aprobación del acta correspondiente a cada sesión;
-
-VI.- Presentar a los órganos centrales, los acuerdos de peticiones solicitados por el Organismo;
-
-VII.- Comunicar al Consejo de Administración en su siguiente reunión, los resultados de las sesiones del Comité, así como las recomendaciones e informes generados;
-
-VIII.- Firmar las actas correspondientes a las juntas a las que hubiese asistido;
-
-IX.- Informar en cada sesión sobre el cumplimiento de los acuerdos emitidos;
-
-X.- Presentar ante el Consejo de Administración el informe anual del Comité para su conocimiento; y
-
-XI.- En general, llevar a cabo todas aquellas funciones que sean afines con lo anteriormente señalado.
+(DEROGADO, G.O. 2 DE DICIEMBRE DE 2005)
 
 ###### ARTÍCULO 31.
 
-Corresponde al Vicepresidente del Comité:
-
-I.- Asumir el cargo de Presidente del Comité, en caso de ausencia de su titular;
-
-II.- Asistir a las sesiones del Comité con derecho a voz y voto;
-
-III.- Presentar en la sesión correspondiente al cierre, el informe Anual de Gestión del Organismo del ejercicio concluido;
-
-IV.- Validar con su firma los formatos de petición a las áreas centrales y de problemas o rezagos y en caso de que lo solicite el Secretario Técnico del Comité otorgar la ratificación del mismo por escrito; y
-
-V.- Vigilar la exacta observancia y difusión de las "Normas y Lineamientos para el Funcionamiento de los Comités de Control y Evaluación".
+(DEROGADO, G.O. 2 DE DICIEMBRE DE 2005)
 
 ###### ARTÍCULO 32.
 
-Corresponde al Secretario Técnico del Comité:
-
-I.- Informar a los integrantes del Comité, durante los primeros días del mes de enero, el calendario anual de sesiones emitido por la Dirección General de Comisarios de la Contraloría General del Distrito Federal;
-
-II.- Vigilar la correcta elaboración del orden del día correspondiente a cada sesión, la cual deberá contener: Lista de asistencia; ratificación y/o comentarios del acta de la sesión anterior; seguimiento de los acuerdos del Comité de la sesión anterior; informe de gestión; informe del auditor externo(en su caso); estándares de servicio; informe de la Contraloría Interna; asuntos generales; acta de la sesión anterior y los demás documentos que integran el expediente de los casos que se someterán a la consideración del Comité;
-
-III.- Someter a la autorización de los Vocales el orden del día correspondiente a cada sesión;
-
-IV.- Convocar a las sesiones ordinarias y extraordinarias, remitiendo a los integrantes del Comité, con 5 días hábiles de anticipación a la celebración de la sesión, el oficio de invitación, adjuntando orden del día, siendo este plazo improrrogable;
-
-V.- Integrar la carpeta de trabajo correspondiente a cada sesión conforme a las disposiciones técnicas establecidas en la normatividad aplicable, así como mantener en resguardo el original impreso de la misma;
-
-VI.- Corroborar que la información contenida en la carpeta de trabajo se encuentre debidamente validada por los titulares de las unidades administrativas del Organismo. Asimismo, verificará que tanto los formatos de petición a las áreas centrales y de problemas o rezagos se encuentren debidamente firmados por el Director General del Organismo, y en caso de que no cumplan con dicho requisito deberá solicitar la ratificación del Director General por escrito. Una vez cubiertos los requisitos señalados en la presente fracción, otorgará su visto bueno;
-
-VII.- Comprobar, previo al envió de la carpeta de trabajo del Comité, mediante las solicitudes correspondientes que las peticiones a las áreas centrales vertidas en el formato respectivo incluidas en la carpeta, hayan sido efectivamente gestionadas formal y sistemáticamente por el Organismo ante las áreas pertinentes y que éstas no hayan sido contestadas o que las respuestas no cumplan conforme a las disposiciones jurídicas aplicables. En tal caso será obligación del Organismo citar en forma expresa en el formato denominado "Peticiones a las Áreas Centrales" de la carpeta del Comité, los documentos en los que se haga constar las peticiones gestionadas, indicando el número de oficio y la fecha de envío de recepción;
-
-VIII.- Remitir la carpeta al titular de la Controlaría Interna del Organismo, con el propósito de solicitar su visto bueno;
-
-IX.- Enviar a los vocales participantes y al Responsable Normativo del Comité, una vez recabado el visto bueno de la Contraloría Interna del Organismo, la carpeta y archivo magnético con la información de los asuntos a tratar dentro de un periodo que no podrá ser menor a 10 días hábiles antes de la fecha de celebración de la sesión del Comité. En lo concerniente a las reuniones extraordinarias, el término será de 2 días con carácter improrrogable sujetándose al procedimiento descrito anteriormente;
-
-X.- Elaborar el acta de las reuniones ordinarias y extraordinarias del Comité, para que, junto con el informe de la Contraloría General, sean firmados y rubricados por los vocales como parte final de la sesión. El acta se adjuntará a la carpeta de la siguiente sesión;
-
-XI.- El acta de acuerdos de cada sesión deberá integrarse de la siguiente manera:
-
-a) Datos generales;
-
-b) Lista de asistencia;
-
-c) Acuerdos generales;
-
-d) Acuerdos de compromisos asumidos por las áreas centrales;
-
-e) Acuerdos de compromisos asumidos por el Organismo; y
-
-f) El informe de la Contraloría General del Distrito Federal.
-
-XII.- Llevar el registro de los acuerdos tomados por el Comité;
-
-XIII.- Asistir a las sesiones con derecho a voz;
-
-XIV.- Firmar las actas de las sesiones a las que hubiese asistido; y
-
-XV.- Realizar las demás funciones que le asigne el presidente o el Comité en pleno.
+(DEROGADO, G.O. 2 DE DICIEMBRE DE 2005)
 
 ###### ARTÍCULO 33.
 
-Son obligaciones de los Vocales del Comité:
-
-I.- Asistir puntualmente a las sesiones en el lugar, fecha y hora señaladas en la respectiva convocatoria, con derecho a voz y voto;
-
-II.- Autorizar previo a su envió el orden del día correspondiente a cada sesión, así como formular propuestas sobre los asuntos a tratar;
-
-III.- Contar con la información y documentación soporte necesaria para dar contestación en la sesión del Comité de Control y Evaluación correspondiente a los problemas y peticiones enviadas con oportunidad en la carpeta, relacionados con su ámbito de competencia;
-
-IV.- Exponer en las sesiones del Comité las problemáticas detectadas en el Organismo, así como proponer alternativas para la solución y atención sobre las materias de su competencia;
-
-V.- Emitir su opinión respecto al contenido del acta y sobre los acuerdos que se adopten en las sesiones del Comité;
-
-VI.- Informar a los integrantes del Comité sobre los resultados derivados de las mesas de trabajo que surjan por acuerdos asumidos en el Comité, cuando recaiga en dichos representantes la coordinación de las mismas;
-
-VII.- Emitir las recomendaciones y proponer los acuerdos que a su criterio estimen pertinentes que coadyuven a eficientar la gestión administrativa del Organismo;
-
-VIII.- Participar, coadyuvar, dar atención y seguimiento dentro del ámbito de su competencia a los acuerdos establecidos en el Comité, con objeto de apoyar la gestión del Organismo;
-
-IX.- Firmar las actas correspondientes a las juntas a las que hubiesen asistido;
-
-X.- Comunicar al Presidente por conducto del Secretario Técnico, con la oportuna anticipación, la imposibilidad para concurrir a las sesiones; y
-
-XI.- Las demás que les fijen las leyes, reglamentos y aquéllas que expresamente les asigne el Comité.
-
-En el caso del Representante de la Secretaría de Finanzas, además de las anteriores tendrá:
-
-XII.- Enviar con oficio al Responsable Normativo del Comité con cinco días hábiles de anticipación a la celebración de cada sesión, el estado del ejercicio presupuestal del Organismo actualizado al último corte.
+(DEROGADO, G.O. 2 DE DICIEMBRE DE 2005)
 
 ###### ARTÍCULO 34.
 
-Corresponde al Responsable Normativo del Comité:
-
-I.- Asistir a las sesiones del Comité con derecho a voz;
-
-II.- Conducir el desarrollo de las sesiones del Comité, teniendo dentro del ámbito de su competencia las atribuciones genéricas y específicas que señalan las disposiciones jurídicas aplicables las cuales podrán ser ejercidas de manera directa, o cuando así lo estime conveniente, indirectamente, a través de la Dirección General de Contralorías Internas o la Contraloría Interna del Organismo o del Comisario, según sea el caso;
-
-III.- Mejorar la metodología de evaluación, así como revisar y actualizar las normas y lineamientos para el funcionamiento del Comité;
-
-IV.- Elaborar el Informe de la Contraloría General, tomando como base la documentación presentada por el Organismo y demás información a la cual tenga acceso o solicite;
-
-V.- Coadyuvar y asesorar a los integrantes del Comité y conducir el desarrollo de sus sesiones;
-
-VI.- Dictar los acuerdos correspondientes en la sesión del Comité, siendo el responsable de compilar, sintetizar y precisar la propuesta de texto de los acuerdos asumidos en el Comité. Una vez aprobados dichos acuerdos por los integrantes del Órgano Colegiado tendrán el carácter de irrevocables;
-
-VII.- Establecer y coordinar las instancias colegiadas con las áreas centrales competentes para determinar y vigilar la instrumentación de los sistemas y medidas necesarias que permitan el cumplimiento de los acuerdos adoptados en el Comité;
-
-VIII.- Determinar la vocalía en quien deberá recaer la obligación de coordinar las mesas de trabajo que se instalen en cumplimiento a los acuerdos del Comité, tomando en consideración las atribuciones de los vocales y la complejidad de la problemática planteada;
-
-IX.- Proponer, a través de la Dirección General de Contralorías Internas o del Contralor Interno del Organismo, que los asuntos y problemáticas relevantes detectados en el Comité que así lo ameriten, se incluyan en el programa de implantación y seguimiento de control interno que se establezca en el Organismo;
-
-X.- Conocer, elaborar, tramitar y dar seguimiento a los oficios de incumplimiento remitidos por el Contralor Interno de los acuerdos de las sesiones, inasistencias y demás asuntos que se deriven del Comité;
-
-XI.- Comunicar a la Dirección General de Legalidad y Responsabilidades el incumplimiento a los acuerdos adoptados en el seno del Comité, conforme al procedimiento establecido en las "Normas y Lineamientos para el Funcionamiento de los Comités de Control y Evaluación", emitidas por la Contraloría General del Distrito Federal;
-
-XII.- Requerir información y toda clase de documentación relacionada con el Comité tanto al Contralor Interno, a través de la Dirección General de Contralorías Internas, como al Organismo por conducto del Secretario Técnico;
-
-XIII.- Requerir al titular de la Contraloría Interna del Organismo, la aclaración de cifras o datos contenidos en la carpeta, cuando a juicio del Responsable Normativo existan incongruencias o errores en la información proporcionada;
-
-XIV.- Diseñar y difundir los formatos para la integración de las carpetas del Comité;
-
-XV.- Promover en coordinación con las dependencias respectivas la publicación y difusión de aquellos actos administrativos de carácter general que se desprendan del Comité y mesas de trabajo que por su naturaleza impacten en situaciones generales aplicables a los demás Órganos de la Administración Pública del Distrito Federal;
-
-XVI.- Resolver las dudas que formule el S.T.C., con motivo de la interpretación y aplicación de las Normas y Lineamientos para el Funcionamiento de los Comités de Control y Evaluación que pudieran surgir, así como todo lo no previsto en las mismas; y
-
-XVII.- Las demás que le señalen las disposiciones jurídicas aplicables.
+(DEROGADO, G.O. 2 DE DICIEMBRE DE 2005)
 
 ###### ARTÍCULO 35.
 
-Serán responsabilidades de los Invitados Permanentes y Especiales del Comité:
-
-I.- Asistir a las sesiones del Comité con derecho a voz;
-
-II.- Informar al Comité sobre el avance de los asuntos bajo su responsabilidad.
-
-De los Invitados Internos
-
-III.- Atender los acuerdos y recomendaciones emitidas por el Comité, así como clarificar los planteamientos efectuados en el seno del mismo;
-
-IV.- Fijar, con anuencia del Presidente del Comité los programas y acciones encaminadas a atender los acuerdos y recomendaciones planteados;
-
-De los Invitados Externos
-
-V.- Atender dentro del ámbito de su competencia, los acuerdos y recomendaciones que acepten y que en forma expresa consten en el acta correspondiente, en el caso de no ser aceptados, éstos deberán señalar la causa o razón en que funden y motiven su negativa;
-
-VI.- Contribuir al enriquecimiento del desarrollo del Comité, así como en el análisis de soluciones a las problemáticas planteadas;
-
-Del Contralor Interno:
-
-VII.- Emitir su visto bueno a la carpeta con la información de los asuntos a tratar en el Comité, para lo cual deberá corroborar que la información contenida en la misma se encuentre debidamente requisitada y validada por los responsables;
-
-VIII.- Validar específicamente los formatos de reporte de problemas y/o rezagos detectados en materia de adquisiciones, obra pública y actividades institucionales antes que la carpeta sea enviada al Secretario Técnico a la Dirección de Evaluación y Diagnóstico y a los vocales participantes;
-
-IX.- Dar seguimiento al cumplimiento de los acuerdos de las sesiones del Comité, para lo cual deberá informar al Responsable Normativo a más tardar un día después de la fecha de cumplimiento, sobre los incumplimientos y solventación de los mismos, para los efectos jurídicos a que haya lugar;
-
-X.- Asistir y dar seguimiento a todas las mesas de trabajo que surjan de los acuerdos asumidos en el seno del Comité, que sean coordinadas por cualquiera de las vocalías o por el Responsable Normativo. Cuando la coordinación de las mesas de trabajo recaiga en el Contralor Interno éste deberá informar a los integrantes del Comité el resultado de las mismas hasta su conclusión;
-
-XI.- Someter al procedimiento señalado en la fracción IX los compromisos asumidos en las mesas de trabajo, que se efectúen por acuerdos tomados en el seno del Comité; y
-
-XII.- Dar respuesta a las solicitudes realizadas por el Responsable Normativo del Comité.
+(DEROGADO, G.O. 2 DE DICIEMBRE DE 2005)
 
 ### CAPÍTULO QUINTO. DE LAS FACULTADES Y OBLIGACIONES GENERALES DE LOS SUBDIRECTORES GENERALES
 
@@ -1882,3 +1686,11 @@ TERCERO.- Se derogan todas aquéllas disposiciones que contravengan las contenid
 DRA. FLORENCIA SERRANÍA SOTO
 
 DIRECTORA GENERAL DEL SISTEMA DE TRANSPORTE COLECTIVO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+G.O. 2 DE DICIEMBRE DE 2005.
+
+PRIMERO.- Las presentes reformas entrarán en vigor a partir de la fecha de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal.
