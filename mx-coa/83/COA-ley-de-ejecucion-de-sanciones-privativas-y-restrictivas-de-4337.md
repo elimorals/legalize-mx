@@ -4,7 +4,7 @@ identifier: "COA-ley-de-ejecucion-de-sanciones-privativas-y-restrictivas-de-4337
 country: "mx"
 rank: "ley"
 publication_date: "1977-03-25"
-last_updated: "1999-05-28"
+last_updated: "2005-12-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD PARA EL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MAYO DE 1999.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD PARA EL ESTADO DE COAHUILA, PUBLICADA EN EL P.O. DE 2 DE DICIEMBRE DE 2005, EL PRESENTE ORDENAMIENTO FUE ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 25 de marzo de 1977.
 
@@ -1218,3 +1220,15 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 PRIMERO. VIGENCIA. El presente código entrará en vigor en septiembre 1° de 1999.
 
 QUINTO. DEROGACIÓN DE CIERTAS NORMAS DE LA LEY DE EJECUCIÓN DE SANCIONES. Desde el día en que inicie su vigencia este código, se derogan todas las normas relativas al tratamiento semi-institucional de exclusión intermitente que prevé la Ley de Ejecución de Sanciones Privativas y Restrictivas de la Libertad.
+
+P.O. 2 DE DICIEMBRE DE 2005.
+
+PRIMERO. Esta ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley de Ejecución de Sanciones Privativas y Restrictivas de la Libertad para el Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial del Gobierno del Estado el día 25 de marzo de 1977.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan a lo establecido por esta ley.
+
+###### ARTÍCULO CUARTO.
+
+Todas las solicitudes de libertad preparatoria, remisión parcial de la sanción, modificación de sanción o cualquier otra que se encuentre pendiente de resolución al entrar en vigor esta ley, se resolverán en lo procedente, de acuerdo a ella.
