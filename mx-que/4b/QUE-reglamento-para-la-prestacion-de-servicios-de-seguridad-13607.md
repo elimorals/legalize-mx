@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-para-la-prestacion-de-servicios-de-seguridad-13607"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-02-12"
-last_updated: "1999-02-12"
+last_updated: "2005-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 REGLAMENTO PARA LA PRESTACION DE SERVICIOS DE SEGURIDAD PRIVADA EN EL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 2005.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 12 de febrero de 1999.
 
@@ -41,9 +41,13 @@ REGLAMENTO PARA LA PRESTACION DE SERVICIOS DE SEGURIDAD PRIVADA EN EL ESTADO DE 
 
 El presente Reglamento tiene por objeto reglamentar las disposiciones de la Ley de Seguridad Pública del Estado en materia de servicios de seguridad privada, que se presten dentro del Estado de Querétaro.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 2.
 
-De conformidad con lo previsto en los artículos 6 fracciones IX y XI y demás relativos de la Ley de Seguridad Pública del Estado, la autorización, regulación y vigilancia de la prestación de servicios de seguridad privada se harán a través del Secretario de Gobierno, quien podrá ejercer sus funciones y facultades directamente o por conducto del Director de Gobierno de la Secretaría de Gobierno, sin perjuicio de las facultades que le correspondan a la Dirección General de Seguridad Pública y Tránsito en el Estado y otros organismos y dependencias conforme a las disposiciones legales aplicables.
+Corresponde al titular del Poder Ejecutivo del Estado, a través del Secretario de Seguridad Ciudadana, otorgar, autorizar, refrendar y registrar los servicios de seguridad privada, previo trámite, cumplimiento de los requisitos, y pago de los derechos correspondientes; así como regular, vigilar y en su caso sancionar la prestación de los mismos en el estado.
+
+El Secretario de Seguridad Ciudadana ejercerá estas facultades directamente o por conducto del personal que él designe, sin perjuicio de las facultades que le correspondan en la materia a otros organismos y dependencias, conforme a las disposiciones legales aplicables.
 
 ###### ARTICULO 3.
 
@@ -57,283 +61,419 @@ Las personas que presten servicios de seguridad privada estarán impedidas en to
 
 Los servidores públicos no podrán prestar servicios de seguridad privada, por si o por interpósita persona, salvo los casos expresamente previstos por la ley; ni podrán tener participación o cargo alguno en la prestadora de esos servicios.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 6.
 
-Las personas que estén autorizadas por la Secretaría de Gobernación para prestar servicios de seguridad privada, sólo podrán prestarlos dentro del territorio del Estado de Querétaro, previo el registro que les otorgue el Secretario de Gobierno, cuando se acredite el cumplimiento de los requisitos y obligaciones previstos en la Ley de Seguridad Pública del Estado, el artículo 8 y demás aplicables de este Reglamento y otras disposiciones relativas en materia de servicios de seguridad privada, y exhiban copia certificada de la autorización que le hubiese expedido la Secretaría de Gobernación, cuando sus servicios comprendan varias entidades federativas, de conformidad con lo dispuesto por el artículo 52 de la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública.
+Las empresas de seguridad privada que presten sus servicios en el estado con autorización de las autoridades federales no estarán eximidas de la presentación de los documentos ni del cumplimiento de los requisitos establecidos en el presente reglamento y demás ordenamientos aplicables en materia de servicios de seguridad privada.
 
 ### CAPITULO SEGUNDO. DE LA AUTORIZACION
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 7.
 
-La autorización para la prestación de servicios de seguridad privada será otorgada por el Titular del Poder Ejecutivo del Estado, a través del Secretario de Gobierno, previo trámite que se efectúe ante la Dirección de Gobierno, y se haga el pago de derechos correspondiente.
+Para los efectos de este reglamento se entenderá por:
+
+I. Autorización: la constancia de empadronamiento otorgada por la Secretaría, en donde se especifican las condiciones para que la empresa de seguridad privada preste sus servicios en el estado de Querétaro;
+
+II. Cliente: la persona física o moral que contrata a una empresa;
+
+III. Empresa: la persona física o moral que presta servicios de seguridad privada;
+
+IV. Habilitación: la autorización expedida por la Secretaría, a las personas físicas que habiendo satisfecho los requisitos establecidos en el presente ordenamiento, presten sus servicios en las empresas;
+
+V. Personal de seguridad privada: la persona física habilitada por la Secretaría, para la prestación de los servicios de seguridad privada;
+
+VI. Registro de Empresas: el Registro Estatal de Empresas de Seguridad Privada a cargo de la Secretaría, el cual está constituido por el conjunto de documentos y elementos técnicos, tendientes a controlar administrativamente la información personalizada de quienes prestan servicios de seguridad privada en el estado de Querétaro;
+
+VII. Registro de personal: el Registro Estatal y Nacional de Personal de Seguridad Pública;
+
+VIII. Secretaría: la Secretaría de Seguridad Ciudadana; y
+
+IX. Servicio: la actividad realizada por la empresa de seguridad privada, tendiente a salvaguardar los bienes e intereses en el ámbito privado del cliente.
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 8.
 
-La persona interesada en obtener autorización para la prestación de servicios de seguridad privada deberá presentar ante la Dirección de Gobierno solicitud por escrito dirigida al Secretario de Gobierno, anexando la documentación siguiente:
+La persona interesada en obtener autorización para la prestación de servicios de seguridad privada deberá presentar ante la Secretaría, solicitud por escrito dirigida a su titular, en la que se deberá anexar la documentación siguiente:
 
-a) Constancia expedida por autoridad competente que acredite su domicilio dentro del Estado de Querétaro;
+I. Copia certificada del documento que acredite su inscripción en el Registro Federal de Contribuyentes;
 
-b) Copia certificada del documento que acredite su inscripción en el Registro Federal de Contribuyentes;
+II. Oficio expedido por autoridad municipal competente en donde tenga su domicilio el solicitante, que mencione que no existe inconveniente para que éste pueda prestar servicios de seguridad privada en su territorio, una vez que se hayan satisfecho los requisitos previstos por las disposiciones legales aplicables;
 
-c) Oficio expedido por el Ayuntamiento del Municipio del Estado de Querétaro en donde tenga su domicilio el solicitante, que mencione no existe inconveniente para que éste pueda prestar servicios de seguridad privada, una vez que se hayan satisfecho los requisitos previstos por las disposiciones legales aplicables; y
+III. Los diseños de logotipo, emblemas, lemas, siglas, colores, uniformes, distintivos y similares con los que se pretenda identificar el personal de seguridad privada y a la empresa;
 
-d) Escrito que cuente con la previa aprobación de la Dirección General de Seguridad Pública y Tránsito del Estado que especifique:
+Relación y fotografías de los establecimientos que utilizará para la prestación de sus servicios;
 
-1.- Sus programas de actividades, de capacitación y adiestramiento, estrategias, diagnósticos, objetivos, sistemas operativos y perfiles generales de sus usuarios;
+IV. En el caso de personas morales además:
 
-2.- Logotipo, emblemas, lemas, siglas, colores, uniformes, distintivos y similares con los que se identifiquen sus servicios, personal, armamento y equipo;
+a) Copia certificada de la escritura constitutiva y de los estatutos sociales en donde conste la nacionalidad mexicana y que el objeto social sea la prestación de servicios de seguridad privada. La Secretaría, a su juicio, podrá exceptuar del cumplimiento de este requisito cuando se trate de servicios de vigilancia intramuros;
 
-3.- Relación del personal con el que prestará sus servicios;
+b) Copia certificada de la escritura pública que acredite la personalidad jurídica de sus representantes para realizar trámites ante la Secretaría;
 
-4.- Relación del armamento y equipo, incluyendo los animales adiestrados, con los que prestará sus servicios, y en el caso de ya contar con ellos, de los permisos, licencias, autorizaciones y acreditamientos correspondientes expedidos por las autoridades competentes; y
+Tres fotografías recientes de frente de cada uno de sus socios, tamaño credencial;
 
-5.- Relación de establecimientos que utilizará para la prestación de sus servicios.
+c) Constancia de no antecedentes penales expedida por la autoridad competente de su lugar de residencia de cada uno de sus socios, funcionarios y representantes legales, solicitándola por todos los años anteriores, que acredite que no han sido sentenciados por delito doloso; y
 
-e) Además, en el caso de personas morales:
+d) Constancia expedida por la autoridad competente que acredite los respectivos domicilios de dichos socios, funcionarios y representantes legales;
 
-1.- Copia certificada de su escritura constitutiva y reformas de sus estatutos sociales en donde conste su nacionalidad mexicana y que su objeto es la prestación de servicios de seguridad privada, dato éste que podrá exceptuarse a juicio de la autoridad cuando se trate de servicios de vigilancia intramuros;
+En el caso de personas físicas:
 
-2.- Copia certificada de la escritura pública que acredite la personalidad de sus representantes;
+a) Copia certificada del acta de nacimiento;
 
-3.- Tres fotografías recientes de frente, de tamaño propio para credencial y constancia de no antecedentes penales de cada uno de sus socios, funcionarios y representantes legales; y
+b) Constancia expedida por autoridad competente que acredite su domicilio dentro del estado de Querétaro;
 
-4.- Constancia expedida por la autoridad competente que acredite los respectivos domicilios de dichos socios, funcionarios y representantes legales.
+c) Constancia de no antecedentes penales expedida por la autoridad competente de su lugar de residencia, solicitándola por todos los años anteriores, que acredite que no ha sido sentenciada por delito doloso; y
 
-f) Además, en el caso de personas físicas:
+d) Tres fotografías de frente de tamaño credencial.
 
-1.- Copia certificada de su acta de nacimiento que acredite que es mexicano por nacimiento y mayor de edad;
-
-2.- Constancia de no antecedentes penales expedida por la autoridad competente; y
-
-3.- Tres fotografías de frente de tamaño propio para credencial.
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 9.
 
-La Dirección de Gobierno, previa recepción, estudio y análisis de los documentos que acrediten el cumplimiento de los requisitos que establece este Reglamento y las demás disposiciones aplicables, emitirá dictamen que someterá a la consideración del Secretario de Gobierno, para que éste determine sobre el otorgamiento o negativa de la autorización solicitada para la prestación de servicios de seguridad privada, o de su refrendo.
+La Secretaría, previa recepción, estudio y análisis de los documentos enumerados en el artículo anterior, determinará sobre el otorgamiento o negativa de la autorización solicitada para la prestación de los servicios. Dicha autorización tendrá vigencia de un año, pudiendo refrendarse anualmente.
+
+Cuando se expida con relación a algún evento específico, éste, se precisará en la autorización, la cual no podrá exceder de treinta días naturales.
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 10.
 
-La autorización tendrá vigencia de un año, pudiendo refrendarse anualmente. Cuando se expida en relación con algún evento especifico éste se precisará en la autorización la cual no podrá exceder de treinta días naturales.
+No será procedente el refrendo de la autorización cuando la empresa se encuentre en los siguientes supuestos:
+
+I.- Estar clausurada en el momento que se pretenda refrendar la autorización; o
+
+II.- Tener como antecedente una infracción de las contempladas en el artículo 21 del presente ordenamiento y haya transcurrido un año sin regularizar la situación.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 11.
 
-El refrendo anual de la autorización se otorgará, en su caso, por el Secretario de Gobierno mediante solicitud del titular de aquélla, presentada ante la Dirección de Gobierno con treinta días naturales anteriores a la fecha en que concluya su vigencia, previo el pago de los derechos que correspondan, siempre y cuando:
+El refrendo anual de la autorización se otorgará, en su caso, por la Secretaría mediante solicitud del representante legal de la empresa, la cual deberá ser presentada con treinta días naturales de anticipación a la fecha en que concluya su vigencia, previo pago de los derechos que correspondan, cuando:
 
 I.- Subsista el acreditamiento del cumplimiento de los requisitos establecidos para el otorgamiento de la autorización y se encuentre actualizada la documentación respectiva;
 
 II.- Se acredite el cumplimiento de las obligaciones establecidas en la Ley Federal de Armas de Fuego y Explosivos, la Ley de Seguridad Pública del Estado, este Reglamento y demás disposiciones aplicables a los servicios de seguridad privada; y
 
-III.- Se acredite el cumplimiento de los demás requisitos que se hayan fijado por las disposiciones legales aplicables a partir de la fecha de la autorización cuyo refrendo se solicita, y los que en su oportunidad determine la Secretaría de Gobierno de acuerdo a lo previsto en el artículo 81 de la Ley de Seguridad Pública del Estado.
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2005)</small>
+
+III.- Se acredite el cumplimiento de los demás requisitos que se hayan fijado por las disposiciones legales aplicables a partir de la fecha de la autorización cuyo refrendo se solicita, y los que en su oportunidad determine la Secretaría.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2005)</small>
+
+ARTICULO 11 bis.- La empresa que pretenda ampliar o modificar el giro autorizado para la prestación de servicios, deberá presentar ante la Secretaría, solicitud por escrito firmada por su representante legal, para que dentro de los diez días hábiles siguientes se acuerde lo procedente; de autorizarse la ampliación o modificación se deberán pagar los derechos correspondientes.
+
+En caso de que faltara algún documento o trámite, la Secretaría prevendrá al titular de la autorización, para que éste en el plazo de tres días hábiles contados a partir de que haya surtido efecto la notificación, subsane la omisión; de no hacerlo, el trámite será desechado.
 
 ### CAPITULO TERCERO. DE LAS OBLIGACIONES DE QUIENES PRESTEN SERVICIOS DE SEGURIDAD PRIVADA
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 12.
 
-Quien preste servicios de seguridad privada, además de las obligaciones establecidas en otras disposiciones legales aplicables, y las demás previstas en este Reglamento, específicamente deberá cumplir las siguientes:
+Son obligaciones de las empresas, las siguientes:
 
-I.- Asignar a la prestación de sus servicios de seguridad privada únicamente a personas que previamente hayan comprobado ante la Dirección General de Seguridad Pública y Tránsito del Estado el cumplimiento de los siguientes requisitos:
+I. Contratar, previa consulta a la Secretaría, para la prestación de los servicios de seguridad privada únicamente a personas que cuenten con la credencial de habilitación vigente y referida en el artículo 30 de este ordenamiento;
 
-1.- Ser mexicano por nacimiento;
+II. Proporcionar a la Secretaría dentro de los tres días siguientes a la contratación o separación, toda la información necesaria para que el personal de seguridad privada sea dado de alta o baja en el registro de personal;
 
-2.- Tener una edad mínima de dieciocho años;
+III. Respecto del personal que asigne a la prestación de servicios de seguridad privada estará obligada a:
 
-3.- Contar con la Cartilla del Servicio Militar Nacional liberada, en el caso de los varones;
+a) Vigilar que porte únicamente las armas autorizadas; utilice y porte sólo el uniforme, colores, emblema, logotipo, siglas y credencial de habilitación que le hayan sido aprobados por la Secretaría;
 
-4.- Encontrarse física y mentalmente sano, con aptitud suficiente para proporcionar el servicio;
+b) Permitir que se someta a los exámenes que determine la Secretaría;
 
-5.- Haber aprobado el curso de formación técnica;
+IV. Abstenerse en la prestación del servicio de utilizar expresa o tácitamente los términos "policía", "seguridad pública" u otros similares, así como el escudo y colores nacionales y cualquier dato que lo relacione con las instituciones oficiales;
 
-6.- No tener antecedentes penales, según constancia expedida por la Procuraduría General de Justicia en el Estado;
+V. Respecto de los vehículos que asigne a la prestación de los servicios de seguridad privada, estará obligada a:
 
-7.- Contar con escolaridad mínima de educación secundaria terminada;
+a) Acreditar que son de su propiedad, y que se encuentran inscritos en el Padrón Vehicular Estatal;
 
-8.- Haber acreditado las actividades laborales desarrolladas en los tres últimos años;
+b) Rotularlos de acuerdo a las especificaciones que determine la Secretaría;
 
-9.- No haber causado baja por mala conducta o causa grave en alguna corporación policial o empresa de seguridad privada en el país;
+c) Abstenerse de colocar en ellos mecanismos generadores de sonidos intensos para señales acústicas;
 
-10.- Haber presentado dos cartas de recomendación que lo acrediten como persona de buena conducta; y
+d) En su caso, solicitar autorización a la Secretaría para portar torretas;
 
-11.- Haber acreditado, en su caso, causa justificada de separación del Ejército o de cualquier corporación policial, mediante constancia expedida por los mismos.
+VI. Informar a la Secretaría cualquier cambio en los estatutos de la sociedad o en las partes sociales de la misma, dentro de los cinco días hábiles posteriores a la protocolización correspondiente;
 
-II.- Respecto del personal que asigne a la prestación de sus servicios de seguridad privada, estará obligado a que el mismo:
+VII. Solicitar a la Secretaría su inclusión en el registro de empresas;
 
-1.- Se someta a los exámenes físicos, médicos, psicométricos, toxicológicos y similares que determine la Dirección General de Seguridad Pública y Transito del Estado; y
+VIII. Presentar a la Secretaría informe mensual de cambios o movimientos de la información proporcionada para el Registro de Empresas;
 
-2.- Durante la prestación de sus servicios, porte únicamente las armas autorizadas; utilice y porte sólo el uniforme, colores, emblemas, logotipos y siglas que le hayan sido aprobadas por la Dirección General de Seguridad Pública y Tránsito del Estado, absteniéndose de utilizar expresa y tácitamente los términos "policía", "seguridad pública" u otros similares, así como el escudo y colores nacionales y cualquier dato que lo relacione con las instituciones oficiales; y porte su identificación personal y la que lo acredite como empleado o dependiente del prestador de servicios.
+IX. Comunicar por escrito a la Secretaría, de cualquier suspensión de actividades así como los motivos de ésta, dentro del término de tres días hábiles siguientes a la suspensión;
 
-III.- Respecto de los vehículos que asigne a la prestación de sus servicios de seguridad privada, estará obligado a que los mismos cuenten con identificación visible que los relacione con el titular de la autorización, el número de ésta, la mención exclusiva de las palabras "seguridad privada", y abstenerse de colocar en ellos mecanismos generadores de sonidos intensos para señales acústicas así como de torretas de color distinto al amarillo.
+X. Mantener actualizada la información descrita en el presente artículo;
+
+XI. Denunciar ante el Ministerio Público, dentro de los tres días hábiles siguientes, el robo, pérdida o destrucción de documentación propia de la empresa y; notificar a la Secretaría, remitiendo copia de la denuncia; y
+
+XII. Las demás previstas en este reglamento y en otras disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 13.
 
-Con motivo del primer informe que el prestador de servicios de seguridad privada presente dentro del mes inmediato siguiente a la fecha de la expedición de su autorización, o registro en su caso, conforme a lo previsto en el artículo 90 de la Ley de Seguridad Pública del Estado, deberá anexar copia certificada de la documentación correspondiente a sus registros ante el Instituto Mexicano del Seguro Social y el Instituto Nacional del Fondo para la Vivienda de los Trabajadores, así como de las licencias, permisos o autorizaciones relativas al armamento y equipo con el que cuente para la prestación de sus servicios, y de la licencia de funcionamiento expedida por la autoridad municipal respecto de los establecimientos para el desarrollo de sus actividades.
+La inclusión de la empresa en el Registro de Empresas, se hará dentro de los treinta días siguientes a la fecha de su autorización; debiendo presentar el representante legal de la empresa, conforme a lo previsto en la Ley de Seguridad Pública del Estado, la siguiente documentación:
+
+I. Los programas de actividades, de capacitación y adiestramiento, así como las estrategias, diagnósticos, objetivos, sistemas operativos, reglamento interior de trabajo, y perfiles generales de sus usuarios;
+
+II. Relación de personal de seguridad privada con su correspondiente número de habilitación;
+
+III. Fotografías recientes de los vehículos y uniformes;
+
+IV. Relación del armamento y equipo, incluyendo los animales adiestrados, así como copia simple y original para cotejo de los permisos, licencias, autorizaciones y acreditaciones correspondientes expedidas por las autoridades competentes;
+
+V. Relación de personas físicas o. morales a quien o quienes presta sus servicios; y
+
+VI. Copia simple y original, para cotejo, de la documentación correspondiente a sus registros ante el Instituto Mexicano del Seguro Social, e Instituto Nacional del Fondo para la Vivienda ·de los Trabajadores y aquella que le haya sido expedida por las diversas instancias y organismos gubernamentales con motivo de la prestación de estos servicios.
 
 ### CAPITULO CUARTO. DE LA INSPECCION Y VIGILANCIA
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 14.
 
-La Dirección General de Seguridad Pública y Tránsito en el Estado, en coordinación con la Dirección de Gobierno, para verificar el cumplimiento de las disposiciones legales aplicables, cuando lo considere necesario realizará visitas de inspección al domicilio y establecimientos del prestador de servicios de seguridad privada, y podrá revisar sus instalaciones, equipo, armamento y documentación, y pasará revista de su personal, a cuyo efecto aquél deberá proporcionar las facilidades que se requieran.
+La Secretaría, para verificar el cumplimiento de las disposiciones legales aplicables, cuando lo considere necesario realizará visitas de inspección al domicilio y establecimientos de la empresa, y podrá revisar sus instalaciones, equipo, armamento y documentación, y pasar revista de su personal de seguridad privada, a cuyo efecto el titular de la autorización para prestar servicios de seguridad privada y/o su representante legal, deberá proporcionar las facilidades que se requieran.
+
+Las visitas de inspección o verificación y las notificaciones se efectuarán en los términos establecidos en la Ley de Procedimientos Administrativos para el Estado y Municipios.
 
 ###### ARTICULO 15.
 
-Las visitas de inspección se llevarán a cabo de conformidad con lo siguiente:
-
-I.- Sólo se practicarán por orden, de la Dirección General de Seguridad Pública y Tránsito del Estado, en la que se expresará:
-
-a) Fecha de la expedición de la orden;
-
-b) Nombre de la persona física, razón o denominación social de la persona moral, a la que se dirija la inspección y el lugar donde deberá llevarse a cabo;
-
-c) Nombre del personal comisionado que practicará la visita de inspección; y
-
-d) Motivo u objeto al que deberá limitarse la inspección. Esta podrá ser de carácter general, para verificar el cumplimiento de las disposiciones legales aplicables, o especifica, la que se concretará a los aspectos particulares enunciados en la orden de inspección.
-
-II.- El personal comisionado se identificará, procediendo a entregar la orden de visita de inspección al prestador de servicios o a su representante legal. Si no estuvieren presentes, dejará citatorio con la persona que se encuentre en dicho lugar, para que cualquiera de aquéllos lo esperen a hora determinada del día hábil siguiente para llevar a cabo la visita de inspección; si no lo hicieren, ésta se practicará con quien se encuentre;
-
-III.- El prestador de servicios o con quien se entienda la visita de inspección será requerido para que proponga dos testigos y en el caso de ausencia o negativa de aquél, serán designados por el personal que practique la visita de inspección, iniciando en ese acto la misma y el levantamiento del acta circunstanciada respectiva;
-
-IV.- El personal comisionado hará constar en acta circunstanciada los hechos u omisiones observados, así como las incidencias y circunstancias sobre el cumplimiento o incumplimiento de las disposiciones legales;
-
-V.- Al término de la visita de inspección, el acta circunstanciada será firmada por el personal comisionado que haya intervenido en la misma, por el prestador de servicios o su representante legal o la persona con quien se entienda la visita de inspección y por los testigos. La persona con quien se entendió la diligencia podrá expresar en el acta su conformidad o inconformidad con el contenido de la misma y en este último caso los motivos para ello;
-
-VI.- Si el prestador de servicios o los testigos se niegan a firmar el acta, así lo hará constar el personal comisionado, sin que esta circunstancia afecte la eficacia del documento. Un ejemplar del acta se entregará a la persona con la que se entienda la diligencia; y
-
-VII.- Los prestadores de servicios, su representante legal o la persona con quién se entienda la visita de inspección, están obligados a permitir al personal comisionado el acceso al lugar o lugares objeto de la misma, así como a mantener a disposición de éstos para su verificación, los recursos materiales, técnicos, equipo y documentos que acrediten el cumplimiento de las disposiciones legales aplicables. El personal comisionado podrá obtener copias de los documentos que estimen pertinentes para que previo cotejo con sus originales se corrobore su autenticidad y sean anexados al acta.
+(DEROGADO, P.O. 2 DE DICIEMBRE DE 2005)
 
 ### CAPITULO QUINTO. DE LAS NOTIFICACIONES
 
 ###### ARTICULO 16.
 
-Las notificaciones se efectuarán por escrito en el domicilio del prestador de servicios de seguridad privada o en el que haya manifestado en su solicitud de autorización, y contendrán lo siguiente:
-
-I.- El nombre, razón o denominación social, de la persona a la que se dirija;
-
-II.- La autoridad que la ordena y su firma autógrafa;
-
-III.- La fundamentación y motivación, expresando la resolución, objeto o propósito de la notificación; y
-
-IV.- Lugar y fecha.
+(DEROGADO, P.O. 2 DE DICIEMBRE DE 2005)
 
 ###### ARTICULO 17.
 
-Las notificaciones surtirán efectos legales a partir del día hábil siguiente al en que se realicen.
+(DEROGADO, P.O. 2 DE DICIEMBRE DE 2005)
 
 ###### ARTICULO 18.
 
-Las notificaciones se entenderán directamente con el prestador de servicios de seguridad privada o su representante legal. En caso de no encontrar a cualquiera de ellos al momento de la notificación, se procederá a dejar citatorio con quien se encuentre en el domicilio a efecto que esperen al notificador a una hora determinada el día hábil siguiente.
-
-En caso de que no se encontrara a nadie el día y hora señalados en el citatorio, se procederá a notificar a través de cédula, misma que se fijará en el inmueble en que se actúa, teniéndose en consecuencia por hecha la notificación al prestador de servicios de seguridad privada. De lo anterior se levantará la constancia respectiva, solicitando la firma de dos testigos de asistencia.
+(DEROGADO, P.O. 2 DE DICIEMBRE DE 2005)
 
 ###### ARTICULO 19.
 
-Las notificaciones deberán ser firmadas por quienes las hacen y las reciben. Si éstos no supieren o quisieren firmar, lo hará el notificador haciendo constar esa circunstancia.
+(DEROGADO, P.O. 2 DE DICIEMBRE DE 2005)
 
 ###### ARTICULO 20.
 
-En el caso de que el prestador de servicios de seguridad privada o su representante legal o la persona con quien se entienda la notificación se negare a recibirla, ésta se hará por medio de cédula de notificación que el notificador fijará en la puerta del domicilio y asentará razón de tal circunstancia.
+(DEROGADO, P.O. 2 DE DICIEMBRE DE 2005)
 
 ### CAPITULO SEXTO. DE LAS INFRACCIONES
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 21.
 
-Serán infracciones de los prestadores de servicios de seguridad privada las siguientes:
+Será considerada como infracción a este reglamento por parte de las empresas que prestan el servicio de seguridad privada lo siguiente:
 
-I.- Prestar sus servicios sin contar con la autorización vigente correspondiente, o su registro en su caso;
+I. Prestar servicios sin contar con la autorización o teniendo suspendida la misma;
 
-II.- Proporcionar información, documentación y/o datos falsos o alterados para obtener la autorización, el refrendo, o su registro en su caso, correspondientes;
+II. Prestar servicios sin tener vigente su autorización;
 
-III.- Prestar sus servicios en áreas o por conceptos distintos a los autorizados;
+III. Proporcionar información verbal o escrita que a criterio de la Secretaría se presuma falsa o alterada;
 
-IV.- Alterar la documentación que autoriza la prestación de sus servicios;
+IV. Prestar los servicios en áreas o por conceptos distintos a los autorizados;
 
-V.- Omitir rendir sus informes dentro de los plazos y a las autoridades señaladas para ello, en los términos que dispone el presente Reglamento y demás disposiciones aplicables;
+V. Alterar la documentación que autoriza la prestación de los servicios;
 
-VI.- Portar o poseer, ellos o su personal, armamento sin la autorización para ello expedida por la autoridad competente, u omitir manifestarlo en el informe correspondiente;
+VI. Omitir rendir los informes mensuales y de altas y bajas de personal, en los términos que dispone el presente reglamento y demás disposiciones aplicables;
 
-VII.- Utilizar, total o parcialmente, denominaciones, uniformes, colores, emblemas, logotipos, siglas, equipo u otros elementos distintos a los aprobados, o sin las licencias necesarias expedidas por las autoridades competentes;
+VII. Portar o poseer armamento sin la autorización expedida por la Secretaría de la Defensa Nacional;
 
-VIII.- Asignar a la prestación de sus servicios de seguridad privada a personas que no hayan comprobado ante la Dirección General de Seguridad Pública y Tránsito del Estado el cumplimiento de los requisitos señalados en la fracción I del artículo 12 del presente Reglamento;
+VIII. Utilizar, total o parcialmente, denominaciones, uniformes, emblemas, logotipos, siglas, equipo u otros elementos distintos a los aprobados, o utilizar, expresa o tácitamente, los términos, "policía", "seguridad pública" u otros similares, así como el escudo y colores nacionales o cualquier dato que lo relacione con instituciones oficiales;
 
-IX.- Permitir que su personal que asigne a la prestación de sus servicios de seguridad privada no porte su identificación personal y la que lo acredite como su empleado o dependiente;
+IX. Asignar a la prestación de servicios de seguridad privada a personas que no cuenten con la credencial de habilitación vigente;
 
-X.- Utilizar, expresa o tácitamente, los términos, "policía", "seguridad pública" u otros similares, así como el escudo y colores nacionales o cualquier dato que lo relacione con instituciones oficiales;
+X. Permitir que el personal que asigne a la prestación de los servicios de seguridad privada no porte su credencial de habilitación;
 
-XI.- Utilizar para la prestación de sus servicios de seguridad privada vehículos que no cuenten con identificación visible que los relacione con el prestador de esos servicios, o con el número de su autorización, o que en ellos se mencionen palabras o elementos que lo relacionen directa o indirectamente con servicios de seguridad pública;
+XI. Utilizar para la prestación de servicios de seguridad privada vehículos que no cuenten con identificación visible que los relacione con la empresa, o con el número de su autorización, o que en ellos se mencionen palabras o elementos que lo relacionen directa o indirectamente con servicios de seguridad pública;
 
-XII.- Impedir por cualquier medio que la autoridad realice las visitas de inspección;
+XII. Impedir por cualquier medio que la autoridad realice las visitas de inspección;
 
-XIII.- No someter al personal de seguridad a los exámenes físicos, médicos, psicométricos y toxicológicos que así determine la Dirección General de Seguridad Pública y Tránsito en el Estado;
+XIII. No permitir al personal de seguridad privada someterse a los exámenes físicos, médicos, psicométricos y toxicológicos que así determine la Secretaría;
 
-XIV.- No contar con los certificados de salud y adiestramiento de los animales que sean utilizados para la prestación de algún servicio de seguridad privada; y
+XIV. No contar con los certificados de salud y adiestramiento de los animales que sean utilizados para la prestación de algún servicio de seguridad privada;
 
-XV.- Las demás que señale la Ley de Seguridad Pública del Estado, el presente Reglamento, y demás disposiciones aplicables.
+XV. No cumplir con los requisitos para su inclusión en el Registro de Empresas; y
+
+XVI. Las demás que señale la Ley de Seguridad Pública del Estado, el presente Reglamento, y demás disposiciones aplicables.
 
 ### CAPITULO SEPTIMO. DE LAS SANCIONES
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 22.
 
-Al prestador de servicios de seguridad privada, con motivo de las infracciones en que incurra, sin perjuicio de las que correspondan de acuerdo con la Ley Federal de Armas de Fuego y Explosivos y su Reglamento y demás disposiciones legales relativas, le podrá ser aplicadas las siguientes sanciones:
+Las sanciones administrativas por infracción al presente ordenamiento, sin perjuicio de las que correspondan a lo que establece la Ley Federal de Armas de Fuego y Explosivos y su Reglamento y demás disposiciones relativas, consistirán en:
 
-I.- Amonestación por escrito;
+I. Amonestación con apercibimiento por escrito;
 
-II.- Suspensión temporal de su autorización, hasta por ciento ochenta días:
+II. Clausura temporal hasta por un año de los establecimientos con que cuente el prestador de los servicios de seguridad privada;
 
-III.- Revocación de su autorización; y
+III. Clausura permanente del o los establecimientos con que cuente para la prestación de sus servicios;
 
-IV.- Clausura del o los establecimientos con que cuente para la prestación de sus servicios.
+IV. Multa de 50 a 1,000 días de salario mínimo vigente en el estado; o
+
+V. Arresto hasta por 36 horas.
+
+En el caso de que los establecimientos sean clausurados, las empresas no podrán ejercer actividad alguna, relacionada con el giro autorizado.
+
+El procedimiento para imponer las sanciones, se hará en los términos de la Ley de Procedimientos Administrativos para el Estado y Municipios.
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 23.
 
-El Secretario de Gobierno podrá aplicar las sanciones previstas en este Reglamento atendiendo a la gravedad de la infracción cometida, su reincidencia o continuidad, en su caso, y a las circunstancias objetivas en que se haya dado el acto u omisión sancionable.
+La Secretaría impondrá las siguientes sanciones cuando se incurra en alguna de las infracciones establecidas en el artículo 21 del presente ordenamiento:
 
-Para los casos en que sea procedente la clausura de establecimientos a que se refiere la fracción IV del artículo anterior, el Secretario de Gobierno solicitará al Ayuntamiento del Municipio en donde se ubiquen, proceda, en términos de la legislación aplicable, a la clausura de los mismos.
+I. Amonestación con apercibimiento por escrito, cuando incurran en el supuesto de las fracciones IV, VI, VIII, IX, X, XI, XIV y XV;
+
+II. Clausura de 10 a 15 días, cuando se incurra por primera vez en el supuesto de las fracciones III, XII y XIII, o se acumulen tres amonestaciones en un lapso de 365 días naturales;
+
+III. Clausura de 25 a 40 días cuando incurran en el supuesto de la fracción V y VII; o se acumulen seis amonestaciones;
+
+IV. Clausura de seis a doce meses, cuando se acumulen 10 amonestaciones o se reincida en los supuestos que ameritan clausura por tiempo menor a seis meses;
+
+V. Multa de 150 a 200 días de salario mínimo, cuando se incurra en el supuesto de la fracción II; o
+
+VI. Multa de 500 a 1,000 días de salario mínimo y clausura hasta por un año, cuando se incurra en el supuesto de la fracción I o se reincida en el supuesto de la fracción II.
 
 ### CAPITULO OCTAVO. DEL PROCEDIMIENTO PARA LA APLICACION DE SANCIONES
 
 ###### ARTICULO 24.
 
-El procedimiento para aplicar las sanciones previstas en este Reglamento, se llevará a cabo por la Secretaría de Gobierno, de conformidad con lo siguiente:
-
-I.- Se hará saber al prestador de servicios de seguridad privada el motivo del procedimiento de que se trate, notificándole las causas que lo motivan;
-
-II.- Se le concederá un plazo de quince días hábiles a partir del día siguiente al en que se le haya notificado, para que en su defensa presente las pruebas y alegatos que estime pertinentes;
-
-III.- Una vez presentadas las pruebas y desahogadas las que así lo ameriten, o transcurrido el plazo fijado en la fracción anterior, sin que el prestador de los servicios las hubiese presentado, la Secretaria de Gobierno emitirá la resolución, la cual notificará a aquél; y
-
-IV.- Contra la resolución dictada por la Secretaria de Gobierno, no procederá recurso alguno.
+(DEROGADO, P.O. 2 DE DICIEMBRE DE 2005)
 
 ### CAPITULO NOVENO. DE OTRAS ACCIONES PARA LA DEBIDA PRESTACION DE LOS SERVICIOS DE SEGURIDAD PRIVADA
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 25.
 
-El Secretario de Gobierno, directamente o por conducto del Director de Gobierno, podrá publicar y difundir periódicamente en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga" y en medios de comunicación en el Estado, el nombre, razón o denominación social, de las personas que se encuentren autorizados para la prestación de servicios de seguridad privada, y de quienes los estén prestando sin autorización, así como la cancelación de cualquier autorización. También podrá informar a quien se lo solicite sobre la vigencia de cualquier autorización.
+La Secretaría, deberá publicar y difundir en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", y en su caso o a través de medios escritos y electrónicos de que disponga el nombre, razón o denominación social, de las empresas que se encuentren autorizadas y/o registradas para la prestación de servicios de seguridad privada.
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 26.
 
-La Secretaría de Gobierno levantará constancia en cada caso de incumplimiento de la normatividad aplicable a la prestación de servicios de seguridad privada por parte del prestador de los mismos o de su personal, de las recomendaciones que aquél hubiese recibido de las autoridades competentes, y dirigirá los reportes e informes que correspondan a la Secretaría de la Defensa Nacional, Secretaría de Comunicaciones y Transportes, Consejo Nacional de Seguridad Pública, Consejo Estatal de Seguridad Pública y demás autoridades competentes, con motivo de dicho incumplimiento. También levantará constancia y dirigirá esos reportes e informes respecto de cualquier persona que se encuentre prestando servicios de seguridad privada sin contar con la autorización para ello.
+La Secretaría levantará constancia en cada caso de incumplimiento de la normatividad aplicable a la prestación de servicios de seguridad privada por parte de la empresa o de su personal de seguridad privada, de las recomendaciones que aquél hubiese recibido de las autoridades competentes, y dirigirá los reportes e informes que correspondan a la Secretaría de la Defensa Nacional, Secretaría de Comunicaciones y Transportes, Consejo Nacional de Seguridad Pública, Consejo Estatal de Seguridad Pública y demás autoridades competentes, con motivo de dicho incumplimiento. También levantará constancia y dirigirá esos reportes e informes respecto de cualquier persona que se encuentre prestando servicios de seguridad privada sin contar con la autorización para ello.
 
-La Secretaría de Gobierno informará a la Secretaría de la Contraloría y a las autoridades competentes sobre cualquier servidor público que de cualquier modo se encuentre prestando servicios de seguridad privada.
+La Secretaría informará a la Secretaría de la Contraloría y a las autoridades competentes sobre cualquier servidor público que se encuentre prestando servicios de seguridad privada.
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 27.
 
-Para los efectos previstos en la ley de Seguridad Pública del Estado, y el debido registro y supervisión de quienes presten servicios de seguridad privada, la Secretaría de Gobierno, respecto de cada uno de ellos, mantendrá actualizada la documentación e información señalada en dicha ley, incluyendo lo siguiente:
+La Secretaría mantendrá actualizada la documentación e información que sea requerida en la Ley de Seguridad Pública del Estado y en este ordenamiento.
 
-a) De la autorización, sus refrendos y vigencia;
-
-b) Copia certificada de los permisos, licencias o autorizaciones expedidos de conformidad con la Ley Federal de Armas de Fuego y Explosivos y su Reglamento, en favor de la persona que preste servicios de seguridad privada, así como del título o documento que acredite su propiedad o tenencia legal respecto del armamento amparado por aquellos, con su respectivo inventario;
-
-c) Copia certificada del permiso expedido por la Secretaría de Comunicaciones y Transportes en favor de la persona que preste servicios de seguridad privada para el uso de equipo de radiocomunicación y similares, así como del título o documento que acredite su propiedad o tenencia legal respecto del mismo, con su respectivo inventario;
-
-d) Relación de los animales adiestrados que utilice la persona que preste servicios de seguridad privada y documentación que acredite el adiestramiento y buen estado de salud de aquéllos;
-
-e) Copia certificada de la documentación que le haya sido expedida a la persona que preste servicios de seguridad privada por las diversas instancias y organismos gubernamentales con motivo de su prestación de esos servicios;
-
-f) Copia de las constancias, informes y reportes a que se refiere el artículo 26 de este Reglamento, y del seguimiento de los mismos; y
-
-g) Relación y acreditamiento de los programas de actividades, de capacitación y adiestramiento, estrategias, diagnósticos, objetivos, sistemas operativos, logotipo, emblemas, lemas, siglas, colores, uniformes, distintivos y similares de la persona que presta servicios de seguridad privada, así como de los exámenes físicos, médicos, psicométricos y similares de su personal.
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 28.
 
-Para los fines previstos en la Ley General que Establece las Bases de Coordinación del Sistema de Seguridad Pública y los fines del Consejo Nacional de Seguridad Pública y el Consejo Estatal de Seguridad Pública, y sus respectivos registros, la Secretaría de Gobierno comunicará a éstos y les proporcionará cuando se lo soliciten, la información procedente en materia de servicios de seguridad privada dentro del Estado de Querétaro, de acuerdo con las disposiciones legales aplicables.
+La Secretaría comunicará al Consejo Nacional de Seguridad Pública y el (sic) Consejo Estatal de Seguridad Pública, así como a sus respectivos registros, la información procedente en materia de servicios de seguridad privada dentro del Estado de Querétaro, de acuerdo con lo dispuesto por la Ley General que Establece las Bases de Coordinación del Sistema de Seguridad Pública y las disposiciones legales aplicables.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE DICIEMBRE DE 2005)</small>
+
+### CAPITULO DECIMO. DE LA HABILITACION DE PERSONAL PARA LA PRESTACION DE SERVICIOS DE SEGURIDAD PRIVADA
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 29.
+
+La persona interesada en obtener habilitación para prestar servicios en alguna empresa, deberá comprobar ante la Secretaría, el cumplimiento de los siguientes requisitos:
+
+I. Ser mexicano;
+
+II. Tener una edad mínima de dieciocho años;
+
+III. Contar con la Cartilla del Servicio Militar Nacional en trámite o liberada, para el caso de varones;
+
+IV. No tener antecedentes penales por delito doloso, según constancia expedida por la Procuraduría General de Justicia del Estado o por la autoridad competente de su lugar de residencia, solicitándola por todos los años anteriores;
+
+V. En el caso de tener menos de seis meses de residir en el estado deberá notificar por escrito el domicilio anterior;
+
+VI. Acreditar las actividades laborales desarrolladas en los tres últimos años;
+
+VII. Presentar dos cartas de recomendación que lo acrediten como persona de buena conducta;
+
+VIII. Acreditar no haber causado baja por mala conducta o causa grave en alguna corporación policial o empresa en el país;
+
+IX. Acreditar, en su caso, causa justificada de separación del Ejército o de cualquier corporación policial, mediante constancia expedida por dichas autoridades;
+
+X. Acreditar que se cuenta con los conocimientos técnicos y se es apto física y mentalmente para prestar el servicio de seguridad privada a través de los exámenes que determine y publique la Secretaría para cada una de las categorías;
+
+XI. Presentar comprobante de domicilio;
+
+XII. Llenar la solicitud correspondiente; y
+
+XIII. Para la categoría de Guardia de Seguridad deberá presentar comprobante de escolaridad mínima de educación secundaria terminada.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 30.
+
+Al personal de seguridad privada que cumpla con los requisitos establecidos en el artículo 29 de este ordenamiento, previo pago de los derechos correspondientes, la Secretaría le emitirá credenciales de habilitación en dos categorías:
+
+I. De Vigilante, quien desempeñará exclusivamente la función de vigilar y proteger bienes muebles e inmuebles; y
+
+II. De Guardia de Seguridad, quien podrá desempeñar la función de vigilante además de todas aquellas que estén previstas en las modalidades autorizadas en la Ley de Seguridad Pública del Estado y el presente reglamento.
+
+El personal de seguridad privada habilitado por la Secretaría, podrá cambiar de categoría cuando cumpla con los requisitos establecidos.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 31.
+
+La credencial de habilitación tiene una vigencia indefinida, es propiedad de la Secretaría y no autoriza la portación de arma de fuego.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 32.
+
+El personal de seguridad privada habilitado por la Secretaría tendrá las siguientes obligaciones:
+
+I. Presentar y aprobar los cursos, exámenes o evaluaciones en los tiempos y formas que indique la Secretaría;
+
+II. Notificar en un plazo no mayor de 5 días de cualquier cambio respecto a la información proporcionada para su habilitación;
+
+III. Mostrar su credencial de habilitación cuando sea requerida por la autoridad; y
+
+IV. Denunciar ante el Ministerio Público, dentro de los tres días siguientes, la pérdida, robo o destrucción de la credencial de habilitación y, con copia de la denuncia correspondiente, solicitar ante la Secretaría la reposición.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 33.
+
+El Personal de seguridad privada no podrá prestar sus servicios en las empresas cuando:
+
+I. Repruebe cualquier examen, curso o capacitación que le sea practicado por la Secretaría, la suspensión durará hasta en tanto se apruebe el examen correspondiente, el que podrá ser presentado en una única segunda oportunidad;
+
+II. Omita actualizar la información requerida en la fracción II del artículo 32 de este ordenamiento, la suspensión en este supuesto podrá ser hasta por 30 días;
+
+III. No proporcione a la Secretaría, su credencial de habilitación para prestar servicios de seguridad privada, cuando le haya sido requerida, la suspensión en este supuesto podrá ser hasta por 30 días; y
+
+IV. No se presente a las evaluaciones, exámenes o cursos a los que fuere convocado, la suspensión en este supuesto podrá ser hasta por 30 días.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 34.
+
+La habilitación dejará de surtir sus efectos de manera permanente cuando el titular de la habilitación:
+
+I. Se presente en estado de ebriedad al desempeño de sus funciones;
+
+II. Sea sentenciado por delito doloso;
+
+III. El examen toxicológico aplicado por la autoridad dé resultado positivo; o
+
+IV. Altere la documentación solicitada.
 
 ## TRANSITORIOS
 
@@ -350,3 +490,15 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO
 LIC. MARIA GUADALUPE MURGUIA GUTIERREZ
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 2 DE DICIEMBRE DE 2005.
+
+Primero.- Las presentes disposiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Segundo.- Las empresas que no cuenten con autorización y/o registro en el estado o no cumplan con los requisitos establecidos en el presente decreto, tendrán un plazo no mayor de ciento ochenta días hábiles, a partir de la fecha de entrada en vigor del presente decreto, para cumplir con las disposiciones establecidas.
+
+Tercero.- Para los efectos de lo establecido en el Capítulo Décimo "De la Habilitación de Personal para la Prestación de Servicios de Seguridad Privada" se concederá al personal de seguridad privada un período de ciento ochenta días hábiles para cubrir los requisitos previstos.
+
+Cuarto.- Se derogan las disposiciones de igual o menor jerarquía que contravengan lo dispuesto por el presente Decreto.
