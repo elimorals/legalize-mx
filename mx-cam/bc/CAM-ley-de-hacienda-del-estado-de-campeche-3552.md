@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-del-estado-de-campeche-3552"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-11"
-last_updated: "2004-12-23"
+last_updated: "2005-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 11 de diciembre de 1992.
 
@@ -393,7 +393,7 @@ El traslado del impuesto a que se refiere este artículo no se considerará viol
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 18 DE JUNIO DE 1998)</small>
 
-#### SECCION QUINTA. DEL PAGO
+#### SECCION TERCERA. DE LA BASE
 
 > <small>(ADICIONADO, P.O. 18 DE JUNIO DE 1998)</small>
 
@@ -407,7 +407,7 @@ En dicha contraprestación quedan incluidos los depósitos, anticipos, gastos de
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 18 DE JUNIO DE 1998)</small>
 
-#### SECCION TERCERA. DE LA BASE
+#### SECCION CUARTA. DE LA TASA
 
 > <small>(ADICIONADO, P.O. 18 DE JUNIO DE 1998)</small>
 
@@ -417,7 +417,7 @@ El monto del impuesto se determinará aplicando a la base gravable a que alude e
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 18 DE JUNIO DE 1998)</small>
 
-#### SECCION CUARTA. DE LA TASA
+#### SECCION QUINTA. DEL PAGO
 
 > <small>(ADICIONADO, P.O. 18 DE JUNIO DE 1998)</small>
 
@@ -429,7 +429,7 @@ El pago de este impuesto deberá efectuarse en las oficinas recaudadoras que cor
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 18 DE JUNIO DE 1998)</small>
 
-#### SECCION SEPTIMA. DE LAS ESTIMACIONES
+#### SECCION SEXTA. DE LAS OBLIGACIONES
 
 > <small>(ADICIONADO, P.O. 18 DE JUNIO DE 1998)</small>
 
@@ -451,9 +451,9 @@ VI.- Conservar la documentación comprobatoria de las operaciones gravadas por e
 
 VII.- Las demás que señale esta Ley y los ordenamientos fiscales aplicables.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 18 DE JUNIO DE 1998)</small>
 
-#### SECCION SEXTA. DE LAS OBLIGACIONES
+#### SECCION SEPTIMA. DE LAS ESTIMACIONES
 
 > <small>(ADICIONADO, P.O. 18 DE JUNIO DE 1998)</small>
 
@@ -467,13 +467,13 @@ II.- No proporcione la información que la autoridad fiscal le solicite, su cont
 
 III.- Se imposibilite, por cualquier medio, el conocimiento de las operaciones de los servicios objeto de este impuesto.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 18 DE JUNIO DE 1998)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO VI. DEL IMPUESTO SOBRE LOTERIAS, RIFAS, SORTEOS Y CONCURSOS
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 24 DE DICIEMBRE DE 2003)</small>
 
-#### SECCION TERCERA. DE LA BASE
+#### SECCION PRIMERA. DEL OBJETO
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2003)</small>
 
@@ -483,7 +483,9 @@ Es objeto de este impuesto, la obtención de premios derivados de loterías, rif
 
 No se considerará como premio el reintegro correspondiente al billete o boleto que permitió participar en la lotería, rifa o sorteo.
 
-#### SECCION QUINTA. DEL PAGO
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 24 DE DICIEMBRE DE 2003)</small>
+
+#### SECCION SEGUNDA. DE LOS SUJETOS
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2003)</small>
 
@@ -493,7 +495,7 @@ Son sujetos de este impuesto, las personas físicas, morales o unidades económi
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 24 DE DICIEMBRE DE 2003)</small>
 
-#### SECCION SEGUNDA. DE LOS SUJETOS
+#### SECCION TERCERA. DE LA BASE
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2003)</small>
 
@@ -507,7 +509,7 @@ Cuando no se desglose y compruebe a satisfacción de la autoridad fiscal el valo
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 24 DE DICIEMBRE DE 2003)</small>
 
-#### SECCION SEXTA. DE LAS OBLIGACIONES
+#### SECCION CUARTA. DE LA TASA
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2003)</small>
 
@@ -517,7 +519,7 @@ Sobre la base gravable de este impuesto, se aplicará la tasa del 6%.
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 24 DE DICIEMBRE DE 2003)</small>
 
-#### SECCION CUARTA. DE LA TASA
+#### SECCION QUINTA. DEL PAGO
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2003)</small>
 
@@ -529,7 +531,7 @@ Las personas físicas o morales que retengan este impuesto, realizarán el enter
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 24 DE DICIEMBRE DE 2003)</small>
 
-#### SECCION PRIMERA. DEL OBJETO
+#### SECCION SEXTA. DE LAS OBLIGACIONES
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2003)</small>
 
@@ -542,8 +544,6 @@ I.- Presentar ante las autoridades fiscales competentes, los avisos y declaracio
 II.- Retener y enterar, en su caso, el impuesto que se cause conforme a estas disposiciones y proporcionar cuando así lo solicite el interesado, constancia de retención del impuesto a la persona que obtenga el premio.
 
 III.- Conservar a disposición de las autoridades fiscales y exhibir cuando se les solicite, la documentación comprobatoria del pago del impuesto que corresponda.
-
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 24 DE DICIEMBRE DE 2003)</small>
 
 ## TITULO TERCERO. DE LOS DERECHOS
 
@@ -773,6 +773,42 @@ a) Por la primera hoja 1.5
 
 b) Por las hojas subsiguientes, cada una .1
 
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2005)</small>
+
+ARTÍCULO 40 BIS.- Tratándose de los servicios a que se refiere la Ley de Transparencia y Acceso a la Información Pública del Estado de Campeche, se pagarán derechos conforme a las cuotas que para cada caso se señala, salvo en aquellos casos que expresamente se establezcan excepciones:
+
+Salarios Mínimos
+
+Generales
+
+Diarios Vigentes
+
+I.- Por expedición de copias certificadas, constancias y cualesquiera
+
+otra certificación de documentos que expidan los Entes Públicos
+
+a) Por la primera hoja 1.5
+
+b) Por las hojas subsecuentes, cada una .1
+
+II.- Por expedición de copias simples, cada hoja .07
+
+III.- Por reproducción de copias en medios electrónicos
+
+a) Disco magnético y CD, por cada uno .91
+
+b) DVD, por cada uno 1.82
+
+Si el interesado aporta el medio magnético en el que será almacenada la información, la reproducción será sin costo. Lo anterior queda sujeto a la compatibilidad del medio magnético que aporte el solicitante y el equipo de reproducción o grabación con que cuente el ente público.
+
+IV.- Por concepto de costos de envío
+
+a) Dentro del Estado 3
+
+b) Fuera del Estado, pero dentro del territorio nacional 7
+
+No se cobrarán costos de envío cuando el solicitante manifieste expresamente en su solicitud que se presentará personalmente a recoger la información solicitada.
+
 ###### ARTICULO 41.
 
 El pago de estos derechos deberá ser cubierto en las oficinas recaudadoras de la Secretaría de Finanzas, las que expedirán el comprobante correspondiente, mismo que deberá ser presentado ante la autoridad respectiva, previa a la obtención del servicio.
@@ -871,51 +907,25 @@ El pago de estos derechos deberá ser cubierto en las oficinas recaudadoras de l
 
 ### CAPITULO VI. POR EL USO O APROVECHAMIENTO DE BIENES DEL DOMINIO PUBLICO DEL ESTADO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2005)</small>
 
-###### ARTICULO 51.
+###### ARTÍCULO 51.
 
-En relación con el Artículo 4o. de la Ley que Reglamenta el Funcionamiento del Puente de la Unidad, ubicado entre Isla Aguada y Puerto Real, se cobrará por el uso un derecho conforme al tipo de servicio que a continuación se indica:
+Por derechos de peaje por el uso del Puente de la Unidad Ingeniero Eugenio Echeverría Castellot, ubicado sobre la carretera federal número 180, en el municipio de Carmen que comunica al extremo oriente de la Isla del Carmen (Puerto Real) con la parte continental (Isla Aguada), se cobrarán las cuotas o tarifas establecidas por el Gobierno Federal en las bases de regulación tarifaria contenidas en el título de concesión que éste otorgó a través de la Secretaría de Comunicaciones y Transportes al Gobierno del Estado de Campeche, el día 15 de marzo de 2005.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+Estos derechos se pagarán en la caseta de cobro de la Secretaría de Finanzas y Administración.
 
-Salarios Mínimos Generales Diarios Vigentes
+La Secretaría de Finanzas y Administración podrá exentar, en un cincuenta por ciento, del pago de los derechos anteriormente expresados, a los automóviles de servicio particular cuyos propietarios estén avecindados en cualquier localidad del Municipio de Carmen, siempre que se acredite debidamente, ante la Secretaría de Finanzas y Administración:
 
-I.- Automóviles, Turismo, Pick-Ups y Panel con o sin remolque o trailer 1
+a). Dicha vecindad, con la respectiva constancia que expida el funcionario correspondiente del H. Ayuntamiento del Municipio de Carmen;
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 1993)</small>
+b). Que el vehículo ostenta placas del Estado de Campeche, con la correspondiente tarjeta de circulación; y
 
-II.- Autobuses de pasajeros y camiones de carga de 2 ejes 2.5
+c). Que se está al corriente en el pago del Impuesto Sobre Tenencia o Uso de Vehículos y en el del refrendo anual de placas, con los correspondientes recibos de pago.
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 1993)</small>
+Asimismo, también podrá exentar del pago total de esa cuota a todos los vehículos automotores cuyos propietarios estén avecindados en la Villa de Isla Aguada, así como a los de servicio particular, cuyos propietarios sean docentes o personal de apoyo y asistencia de educación básica adscritos a Centros Educativos ubicados en cualquier localidad del mismo Municipio de Carmen, siempre y cuando se satisfagan los presupuestos señalados en los incisos a), b) y c), del párrafo que antecede. Los docentes, personal de apoyo y asistencia de educación básica, acreditarán su adscripción, con la constancia que expida la Secretaría de Educación, Cultura y Deporte del Estado, validada por la Sección 04 del Sindicato Nacional de Trabajadores de la Educación o por la Sección Primera de Trabajadores de la Educación al Servicio del Estado, según sea el caso.
 
-III.- Camiones de carga o tractores con semi-remolque de 3 o 4 ejes 3.5
-
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 1993)</small>
-
-IV.- Camiones de carga o tractores con remolque de 5 o más ejes 5
-
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 1993)</small>
-
-V.- Motocicletas con o sin Side-Car 0.3
-
-VI.- Motocicletas con o sin Sidecar 3
-
-Estos derechos se pagarán en la caseta de cobro de la Secretaría de Finanzas.
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2001)</small>
-
-Se exenta, en un cincuenta por ciento, del pago de los derechos anteriormente expresados, a los automóviles de servicio particular cuyos propietarios estén avecindados en cualquier localidad del Municipio de Carmen, siempre que se acredite debidamente, ante la Secretaría de Finanzas y Administración:
-
-a) Dicha vecindad, con la respectiva constancia que expida el Secretario del H. Ayuntamiento del Municipio de Carmen.
-
-b) Que el vehículo ostenta placas del Estado de Campeche, con la correspondiente tarjeta de circulación; y
-
-c) Que se está al corriente en el pago del Impuesto Sobre Tenencia o Uso de Vehículos y en el del refrendo anual de placas, con los correspondientes recibos de pago.
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2001)</small>
-
-Se exenta del pago total de esa cuota a todos los vehículos automotores cuyos propietarios estén avecindados en la Villa de Isla Aguada, así como a los de servicio particular, cuyos propietarios son docentes o personal de apoyo y asistencia de educación básica adscritos a Centros Educativos ubicados en cualquier localidad del mismo Municipio de Carmen, siempre y cuando se satisfagan los presupuestos señalados en los incisos a), b) y c), del párrafo que antecede. Los docentes, personal de apoyo y asistencia de educación básica, acreditarán su adscripción, con la constancia que expida la Secretaría de Educación, Cultura y Deporte del Estado, validada por la Sección 04 del Sindicato Nacional de Trabajadores de la Educación o por la Sección Primera de Trabajadores de la Educación al Servicio del Estado, según sea el caso.
+Los referidos descuentos y exenciones deberán siempre atender al interés público, en los términos del citado título de concesión federal.
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
@@ -1253,7 +1263,7 @@ II.- Por el ingreso que perciban por los servicios que prestan los organismos, d
 
 a) (DEROGADO, P.O. 9 DE JUNIO DE 1999)
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2005)</small>
 
 b) INSTITUTO CAMPECHANO
 
@@ -1335,51 +1345,41 @@ IV.- Lonchería, Cocktelería, Taquería 5
 
 V.- Centro Recreativo y Deportivo, Casino, Club Social, otros 3
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 52-D.
 
 Las licencias para el funcionamiento, distribución y comercialización de bebidas alcohólicas en sus diversos giros, deberán revalidarse anualmente, dentro de los tres primeros meses de cada año, se causarán y pagarán derechos de acuerdo con el número de veces el salario mínimo general diario vigente en el Estado, conforme a la siguiente:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
-
 T A R I F A
 
-Salarios Mínimos Generales
+Salarios Mínimos
+
+Generales
 
 Diarios Vigentes
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
-
-I.- Cabaret o Centro Nocturno, Bar, Cantina 58
-
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+I.- Cabaret o Centro Nocturno, Bar, Cantina 67
 
 II.- Discoteca, Salón Cerveza, Salón de Baile,
 
 Restaurant con venta de Bebidas alcohólicas,
 
-Distribuidora, Bodega, Almacén, Hotel,
+Distribuidora, Bodega, Almacén, Hotel, Motel,
 
-Motel, Salón de Billar, Boliche 49
-
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+Salón de Billar, Boliche 56
 
 III.- Vinaterías, Licorería, Supermercado, Minisuper,
 
-Tienda de Abarrotes, Agencia, Subagencia, Depósito,
+Tienda de Abarrotes, Agencia, Subagencia,
 
-Expendio, Botanero 41
+Depósito, Expendio, Botanero, 47
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
-
-IV.- Lonchería, Cocktelería, Taquería 34
-
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+IV.- Lonchería, Coctelería, Taquería 39
 
 V.- Centro Recreativo y Deportivo, Casino, Club Social,
 
-otros 26
+otros 30
 
 > <small>(REFORMADO, P.O. 11 DE JUNIO DE 1997)</small>
 
@@ -1828,3 +1828,9 @@ P.O. 23 DE DICIEMBRE DE 2004.
 PRIMERO.- El presente decreto, entrará en vigor el día uno de enero del año dos mil cinco, previa su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 6 DE DICIEMBRE DE 2005.
+
+PRIMERO.- El presente decreto, entrará en vigor el día uno de enero del año dos mil seis, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
