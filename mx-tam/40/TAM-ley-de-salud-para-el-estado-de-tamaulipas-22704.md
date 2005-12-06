@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2004-12-15"
+last_updated: "2005-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -415,7 +415,9 @@ I.- La educación para la salud, la promoción del saneamiento básico y el mejo
 
 II.- La prevención y el control de las enfermedades transmisibles, de las no transmisibles más frecuentes y de los accidentes;
 
-III.- La atención médica, que comprende actividades preventivas, curativas y de rehabilitación, incluyendo la atención de urgencias;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2005)</small>
+
+III.- La atención médica, que comprende actividades preventivas, curativas y de rehabilitación, incluyendo la atención de urgencias; así como la prevención y el control de las enfermedades bucodentales;
 
 IV.- La atención materno-infantil y del adolescente;
 
@@ -425,7 +427,9 @@ VI.- La planificación familiar;
 
 VII.- La salud mental y adicciones;
 
-VIII.- La prevención y el control de las enfermedades bucodentales;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2005)</small>
+
+VIII.- La atención del adulto mayor;
 
 IX.- La disponibilidad de medicamentos y otros insumos esenciales para la salud;
 
@@ -563,9 +567,19 @@ II.- Actividades recreativas, de esparcimiento y culturales destinadas a fortale
 
 III.- La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas;
 
-IV.- Acciones relacionadas con educación básica, alfabetización de adultos, acceso al agua potable y medios sanitarios de eliminación de excretas; y
+IV.- Acciones relacionadas con educación básica, alfabetización de adultos, acceso al agua potable y medios sanitarios de eliminación de excretas; y (sic)
 
-V.- Las demás que coadyuven a la protección de la salud materno-infantil y del adolescente.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2005)</small>
+
+V.- El establecimiento por parte del Ejecutivo de la normatividad técnica para proteger la salud del educando y de la comunidad escolar de los planteles educativos del estado; cuya aplicación será vigilada por las autoridades educativas y sanitarias estatales;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2005)</small>
+
+VI.- Convenios para la prestación de servicios de salud a los escolares, siguiendo las bases de coordinación que de conformidad establezcan las autoridades estatales competentes;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2005)</small>
+
+VII.- Las demás que coadyuven a la protección de la salud materno-infantil y del adolescente.
 
 ### CAPITULO VI. DE LOS SERVICIOS DE PLANIFICACION FAMILIAR
 
@@ -591,7 +605,11 @@ V.- La participación en el establecimiento de mecanismos idóneos para la deter
 
 VI.- La sistematización, recopilación y actualización de la información necesaria para el seguimiento de las actividades desarrolladas en la materia.
 
-### CAPITULO VII. DE LA ATENCION A LA SALUD DE LA MUJER
+> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE DICIEMBRE DE 2005)</small>
+
+### CAPITULO VII
+
+DE LA ATENCION A LA SALUD DE LA MUJER Y DEL ADULTO MAYOR.
 
 ### CAPITULO VIII. DE LA SALUD MENTAL
 
@@ -599,15 +617,31 @@ VI.- La sistematización, recopilación y actualización de la información nece
 
 La atención a la salud de la mujer comprende acciones de prevención y control en materia de:
 
-I.- Cáncer cérvico-uterino;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2005)</small>
 
-II.- Cáncer mamario; y
+I.- Cáncer cérvico-uterino; Cáncer de mama, Cáncer de ovario, Cáncer de vulva y vaginal, Displasias, además de Miomas uterinos, Mastopatía Fibroquística, Quistes de ovario;
 
-III.- Climaterio y menopausia.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2005)</small>
+
+II.- Embarazo de riesgo, Diabetes gestacional, Amenorrea, Aborto, Infertilidad, Endometriosis, Disfunción Hormonal, Síndrome Premenstrual, Metrorragia, Dismenorrea, Dispareunia, Multiparidad, Cistocele, Incontinencia, Galactorrea, Menopausia y Climaterio;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2005)</small>
+
+III.- Enfermedades infecto-contagiosas como el SIDA, Gonorrea, papiloma y otras de transmisión sexual; enfermedades del tipo de las vulvovaginitis, cistitis, metritis, salpingitis, ovaritis, enfermedad pélvica inflamatoria, absceso de mama y otras mastitis;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2005)</small>
+
+IV.- Enfermedades no exclusivas de la mujer, pero de mayor frecuencia en ellas, como la osteoporosis, obesidad, anorexia, abulimia, depresión, várices y todas aquéllas que en la mujer tenga alta incidencia.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 39.
 
-Las Secretaría, en coordinación con las instituciones del sector salud y demás involucradas, fomentarán y desarrollarán acciones de promoción, prevención, tratamiento y rehabilitación para atender la salud de la mujer, con una clara perspectiva de género.
+La atención a la salud del Adulto mayor incluirá el derecho a recibir servicios de salud preventivos, atención médico general y especializada, así como medicina física y de rehabilitación en las unidades de salud del estado.
+
+La Secretaría de Salud en el estado, coordinará sus esfuerzos con las instituciones del sector salud y en el ámbito de su competencia con el Sistema para el Desarrollo Integral de la Familia en Tamaulipas, para implementar acciones de salud que hagan énfasis en la prevención y combate de las enfermedades crónicas degenerativas y demás propias de la edad avanzada, así también acciones encaminadas a orientar y capacitar a los adultos mayores, sus familiares o auxiliares, en materia de salud, nutrición e higiene.
+
+La Secretaría proporcionará a las personas de 60 años o más la cartilla de salud del adulto mayor para su uso indistinto en instituciones de salud públicas o privadas; además cumplirá con el resto de las disposiciones a que le obliga la Ley que para los Adultos Mayores y sus derechos rige en nuestro estado.
 
 ### CAPITULO I. DE LOS PROFESIONALES, TECNICOS Y AUXILIARES
 
@@ -1766,3 +1800,7 @@ Artículo Segundo.- Se derogan las disposiciones legales y reglamentarias que se
 P.O. 15 DE DICIEMBRE DE 2004.
 
 Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE DICIEMBRE DE 2005.
+
+Artículo Unico.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
