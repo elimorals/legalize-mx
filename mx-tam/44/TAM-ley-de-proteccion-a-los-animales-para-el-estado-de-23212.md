@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-a-los-animales-para-el-estado-de-23212"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-25"
-last_updated: "2003-05-20"
+last_updated: "2005-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23212&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PROTECCION A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MAYO DE 2003
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DEL 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de diciembre del 2001.
 
@@ -57,9 +57,13 @@ III.- Propiciar las ideas de respeto y consideración a los animales y fomentar 
 
 IV.- Fomentar y apoyar la creación y funcionamiento de sociedades protectoras de animales.
 
-###### ARTICULO 3°.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2005)</small>
 
-El Gobernador del Estado, mediante el acuerdo respectivo, señalará qué autoridades administrativas serán las encargadas de vigilar la aplicación y el cumplimiento a las disposiciones establecidas en esta Ley.
+###### ARTICULO 3º.
+
+Corresponde la aplicación de esta Ley al Ejecutivo del Estado, a través de la Secretaría de Obras Públicas, Desarrollo Urbano y Ecología, o a las autoridades municipales que hayan concertado convenio de colaboración o coordinación con el Ejecutivo del Estado, en relación a la protección y preservación de los animales.
+
+Las dependencias y entidades de la Administración Pública Estatal que ejerzan atribuciones que les confieren otros ordenamientos cuyas disposiciones se relacionen con las finalidades de la presente Ley, ajustarán su ejercicio a los criterios para preservar el equilibrio ecológico y protección al ambiente, así como a las disposiciones de los reglamentos, normas oficiales mexicanas y demás normatividades que de la misma se derive.
 
 ###### ARTICULO 4°.
 
@@ -69,9 +73,33 @@ Son objeto de protección todos los animales domésticos y silvestres en cautive
 
 Para los efectos de esta Ley se entenderán por:
 
-I.- Trato humanitario: Conjunto de medidas para disminuir la tensión, sufrimiento de los animales durante su captura, aprovechamiento cinegético, traslado, exhibición, cuarentena, comercialización, entretenimiento y sacrificio.
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2005)</small>
 
-II.- Vivisección: Disección anatómica de un ser vivo con fines científicos.
+I.- Animales: Las especies que se crían bajo el cuidado del ser humano, así como la fauna silvestre que se adapta a la vida de éste sin constituir peligro;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2005)</small>
+
+II.- Animal Peligroso: Cualquier tipo de animal susceptible de causar un daño o perjuicio físico, psicológico o material en el ser humano;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2005)</small>
+
+III.- Autoridad Municipal: La dependencia de la administración municipal encargada de la preservación del equilibrio ecológico y la protección al ambiente;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2005)</small>
+
+IV.- Fauna Silvestre: Las especies animales que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo sus poblaciones menores que se encuentran bajo control del hombre, así como los animales domésticos que por abandono se tornen salvajes y por ello sean susceptibles de captura y aprobación;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2005)</small>
+
+V.- Insensibilización: Acción con la que se induce rápidamente a un animal a un estado en el que no sienta dolor;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2005)</small>
+
+VI.- Secretaría: La Secretaría de Obras Públicas, Desarrollo Urbano y Ecología, por conducto de la unidad administrativa con competencia en la vigilancia, preservación y restauración del equilibrio ecológico y la protección al ambiente;
+
+VII.- Trato humanitario: Conjunto de medidas realizadas por las personas para evitar dolor innecesario a los animales durante su traslado, exhibición, cuarentena, comercialización, aprovechamiento cinegético, entretenimiento o sacrificio; y,
+
+VIII.- Vivisección: Disección anatómica de un ser vivo con fines científicos.
 
 ### CAPITULO II. DE LA PROTECCION A LOS ANIMALES
 
@@ -101,9 +129,9 @@ Queda prohibido en el Estado de Tamaulipas el empleo de animales vivos para prá
 
 Queda prohibido azuzar animales o provocar que se acometan entre ellos, o hacer de las peleas así provocadas, un espectáculo público o privado.
 
-> <small>(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY QUE REGULA LA CELABRACIÓN DE ESPECTÁCULOS TAURINOS EN EL ESTADO DE TAMAULIPAS, P.O. 20 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DEL 2005)</small>
 
-Las corridas de toros, novillos o becerros, charreadas y rodeos; así como las peleas de gallos, carrera de caballos y perros, habrán de sujetarse a los reglamentos y disposiciones establecidas en la Legislación Federal.
+Las corridas de toros, novillos o becerros, charreadas y rodeos deberán sujetarse a las disposiciones estatales aplicables. Las carreras de animales, como caballos y perros, como las peleas de gallos en las que se autorice el cruce de apuestas, habrán de sujetarse a las disposiciones federales aplicables.
 
 ###### ARTICULO 11.
 
@@ -334,3 +362,9 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 ###### ARTICULO TERCERO.
 
 Queda sin efectos la parte relativa a corridas de toros, novillos o becerros, del párrafo segundo del artículo 10 de la Ley de Protección a los Animales para el Estado de Tamaulipas, ya que habrá de sujetarse a las disposiciones normativas del presente cuerpo legal a su entrada en vigor.
+
+P.O. 6 DE DICIEMBRE DEL 2005.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
