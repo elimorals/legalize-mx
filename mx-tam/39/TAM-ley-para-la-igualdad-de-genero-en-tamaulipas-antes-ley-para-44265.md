@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-igualdad-de-genero-en-tamaulipas-antes-ley-para-442
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-08"
-last_updated: "2005-03-08"
+last_updated: "2005-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA LA EQUIDAD DE GENERO EN TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 8 de marzo de 2005.
 
@@ -319,7 +319,9 @@ d) El Órgano de Vigilancia.
 
 a) Los titulares de cada una de las dependencias de la administración pública del Estado;
 
-b) Un Diputado representante del H. Congreso del Estado;
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2005)</small>
+
+b) Un Diputado representante del H. Congreso del Estado integrante de la Comisión de Equidad y Género;
 
 c) Un integrante del Supremo Tribunal de Justicia del Estado;
 
@@ -816,3 +818,11 @@ Por tanto mando se imprima, publique y se le dé el debido cumplimiento.
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del estado de Tamaulipas, a los veinticuatro días del mes de febrero del año dos mil cinco.
 
 ATENTAMENTE - SUFRAGIO EFECTIVO. NO REELECCIÓN. - EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTINEZ TORRES.- Rúbrica.-
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE DICIEMBRE DE 2005.
+
+###### ARTICULO UNICO.
+
+El Presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
