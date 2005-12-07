@@ -4,7 +4,7 @@ identifier: "FED-ley-de-los-impuestos-generales-de-importacion-y-de-22868"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-18"
-last_updated: "2005-09-14"
+last_updated: "2005-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22868&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIGIE_2022"
 
 LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE SEPTIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE DICIEMBRE DE 2005.
 
 Ley publicada de la Segunda a la Quinta Sección del Diario Oficial de la Federación, el viernes 18 de enero de 2002.
 
@@ -454,11 +454,7 @@ Notas.
 
 (VEASE ARCHIVO ANEXO)
 
-### Capítulo 19
-
-Preparaciones a base de cereales, harina, almidón, fécula o leche;
-
-productos de pastelería
+### Capítulo 19. Preparaciones a base de cereales, harina, almidón, fécula o leche; productos de pastelería
 
 Notas.
 
@@ -1054,11 +1050,7 @@ b) metales (incluso metal precioso) o pigmentos, depositados en una hoja de cual
 
 (VEASE ARCHIVO ANEXO)
 
-### Capítulo 33
-
-Aceites esenciales y resinoides;
-
-preparaciones de perfumería, de tocador o de cosmética
+### Capítulo 33. Aceites esenciales y resinoides; preparaciones de perfumería, de tocador o de cosmética
 
 Notas.
 
