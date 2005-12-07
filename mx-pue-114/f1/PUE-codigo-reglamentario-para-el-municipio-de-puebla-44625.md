@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2005-11-18"
+last_updated: "2005-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CODIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 2005.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -1525,7 +1525,7 @@ En cada año se efectuará como mínimo una sesión solemne del Consejo, la que 
 
 Las Sesiones del Consejo, deberán efectuarse en los términos señalados por este capítulo, la exposición de los trabajos a presentar tendrán una duración máxima de 15 minutos, los comentarios relativos se limitarán a 3 minutos por Consejero y el ponente dispondrá de 5 minutos para contestar los comentarios.
 
-DE LOS CONSEJOS CUIDADANOS
+DE LOS CONSEJOS CIUDADANOS
 
 ###### Artículo 189.
 
@@ -8639,7 +8639,7 @@ Todas las redes de drenaje y alcantarillado en el Municipio serán calculadas co
 
 ###### Artículo 880.
 
-El Organismo Operador de los Servicios de Agua Potable y Alcantarillado, es el encargado de normar todas las obras que se relacionen con el saneamiento de la Ciudad tales como el de las aguas pluviales, residuales, e industriales y que se ejecuten en el subsuelo de la vía pública, siendo el encargado de mantener, conservar, ampliar el sistema de drenaje y alcantarillado del Municipio en función de programas elaborados por el Ayuntamiento, organismos conexos y peticiones ciudadanas.
+El Organismo Operador de los Servicios de Agua Potable y Alcantarillado, es el encargado de normar todas las obras que se relacionen con el saneamiento de la Ciudad tales como el de las aguas pluviales, residuales, e industriales y que se ejecuten en el subsuelo de la vía publica, siendo el encargado de mantener, conservar, ampliar el sistema de drenaje y alcantarillado del Municipio en función de programas elaborados por el Ayuntamiento, organismos conexos y peticiones ciudadanas.
 
 ###### Artículo 881.
 
@@ -10091,7 +10091,7 @@ II. Reducción de las fuerzas cortantes.- Podrán adoptarse fuerzas cortantes me
 
 1. El periodo natural de vibraciones se tomará igual a
 
-T = 2 ñ g (¡W¡2) 1/2
+T = 2 ñ g (¡W¡ 2) 1/2
 
 g (P¡ X¡)
 
@@ -10127,7 +10127,7 @@ a2 = 1.5r(1-q) W¡
 
 W¡h¡2
 
-Donde q = (Tb/T) r siendo r el exponente que se consigna en la tabla I. En este caso, los coeficientes a1, a2 son tales que la relación V/W es igual a a/Q cuando T es igual a y tiende a 1.25, 1.33 y 1.5 veces a/Q para terreno tipo I, II, III, respectivamente, cuando T tiende a infinitivo.
+Donde q =( Tb / T ) r siendo r el exponente que se consigna en la tabla I. En este caso, los coeficientes a1, a2 son tales que la relación V/W es igual a a/Q cuando T es igual a y tiende a 1.25, 1.33 y 1.5 veces a/Q para terreno tipo I, II, III, respectivamente, cuando T tiende a infinitivo.
 
 III. Péndulos Invertidos.
 
@@ -10241,7 +10241,7 @@ Para calcular la participación de cada modo natural en las fuerzas laterales qu
 
 Las respuestas modales Ri, donde Ri puede ser fuerza cortante, desplazamiento lateral, momento de volteo, etc., se combinarán para calcular las respuestas totales R de acuerdo con la expresión.
 
-R = (¡R2¡)1/2
+R=(¡R2¡)1/2
 
 Siempre que los períodos de los modos naturales difieran al menos 10 por ciento entre sí. Para las respuestas en modos naturales que no cumplen esta condición se tendrá en cuenta el acoplamiento entre ellos. Los desplazamientos laterales así calculados habrán de multiplicarse por o para calcular efectos de segundo orden, así como para verificar que la estructura no alcanza ninguno de los estados límite de servicio a los que hace referencia el presente Capítulo.
 
@@ -10313,7 +10313,7 @@ X¡ = V/V(x¡ + (h¡ + D)Mo/Kr)
 
 Donde:
 
-M o = Momento de volteo en la base de la cimentación para la estructura supuesta con base indeformable.
+Mo = Momento de volteo en la base de la cimentación para la estructura supuesta con base indeformable.
 
 Xi = Desplazamiento lateral del nivel i de la estructura con base rígida.
 
@@ -16957,7 +16957,7 @@ II. Designación en la cláusula testamentaria, el orden de preferencia de los b
 
 III. Se adquirirá la obligación solidaria por todos los familiares relacionados, para cumplir con los gastos de mantenimiento; y
 
-IV. Suscripción del contrato por triplicado, depositándose en ejemplar en el panteón correspondiente y otro en la Dirección.
+IV. Suscripción del contrato por triplicado, depositándose en ejemplar en el panteón orrespondiente y otro en la Dirección.
 
 ###### Artículo 1609.
 
@@ -17379,7 +17379,7 @@ VIII. Alterar o mutilar documentos oficiales que amparen la propiedad o legal pr
 
 IX. Los introductores que infrinjan las disposiciones del presente Capítulo se harán acreedores a las sanciones que al efecto se señalen.
 
-DEL SERVICIO DE REFIGERACIÓN
+DEL SERVICIO DE REFRIGERACIÓN
 
 ###### Artículo 1660.
 
@@ -21582,3 +21582,11 @@ PRIMERO.- Las presentes modificaciones entrarán en vigor a partir de su aprobac
 SEGUNDO.- Se derogan las demás disposiciones que sean incompatibles con el presente Acuerdo.
 
 TERCERO.- Se incluye al Presidente y al Secretario General del Honorable Ayuntamiento del Municipio de Puebla, para que realicen las gestiones necesarias tendientes a que el presente documento se aplique en el Periódico Oficial del Estado.
+
+P.O. 7 DE DICIEMBRE DE 2005.
+
+...
+
+SEGUNDO.- Se instruye al Secretario del Honorable Ayuntamiento del Puebla, para que realice todos los trámites necesarios y sea publicado por una sola vez la presente reforma en el Periódico Oficial del Estado.
+
+TERCERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
