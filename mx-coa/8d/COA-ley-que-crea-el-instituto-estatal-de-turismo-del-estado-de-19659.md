@@ -4,7 +4,7 @@ identifier: "COA-ley-que-crea-el-instituto-estatal-de-turismo-del-estado-de-1965
 country: "mx"
 rank: "ley"
 publication_date: "2000-11-17"
-last_updated: "2000-11-17"
+last_updated: "2005-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY QUE CREA EL INSTITUTO ESTATAL DE TURISMO DEL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 7 DE DICIEMBRE DE 2005, EL PRESENTE ORDENAMIENTO FUE DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DEROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 17 de noviembre de 2000.
 
@@ -390,3 +392,37 @@ C.P. MARIA INES GARZA ORTA
 EL SECRETARIO DE PLANEACION Y DESARROLLO
 
 C.P. IGNACIO DIEGO MUÑOZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 7 DE DICIEMBRE DE 2005.
+
+PRIMERO. Esta ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza, expedida por el Congreso del Estado el 22 de febrero de 2000, publicada en el Periódico Oficial del Gobierno del Estado No. 17 del 29 de febrero de 2000.
+
+TERCERO. Se deroga la Ley de Entidades Paraestatales del Estado de Coahuila, expedida por el Congreso del Estado el 24 de mayo de 2005, publicada en el Periódico Oficial del Gobierno del Estado No. 48 del 17 de junio de 2005. En tanto no se expidan las disposiciones reglamentarias al Título IV de la presente Ley, seguirán aplicándose las contenidas en la Ley de Entidades Paraestatales en cuanto no se opongan a la presente Ley.
+
+CUARTO. Se derogan la Ley que crea el Instituto Estatal de Turismo del Estado de Coahuila y la Ley del Instituto Coahuilense de Ecología así como las demás disposiciones legales que se oponga a la presente ley.
+
+QUINTO. En los casos en que otras leyes atribuyan facultades a dependencias con distinta denominación a las previstas en este ordenamiento, deberán entenderse conferidas a estas últimas, en la forma y términos en que las propias leyes lo dispongan.
+
+En los casos en que esta Ley da una denominación nueva o distinta a alguna dependencia cuyas atribuciones estén establecidas en la ley anterior y en otras disposiciones relativas, dichas atribuciones se entenderán concedidas a la dependencia que la presente Ley determine.
+
+SEXTO. El personal de las dependencias que en aplicación de la presente ley pase a otra, en ninguna forma resultará afectado en los derechos que haya adquirido en virtud de su relación laboral con el Gobierno del Estado.
+
+SÉPTIMO. Cuando alguna unidad administrativa de las dependencias establecidas conforme a la ley que se abroga pase a otra dependencia, el traspaso se hará incluyendo al personal a su servicio, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo que la unidad administrativa haya utilizado para la atención de los asuntos a su cargo.
+
+OCTAVO. Los asuntos que por motivo de esta ley deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieran alcanzado hasta que las unidades administrativas que lo tramiten se incorporen a la dependencia que señale esta ley, a excepción de los trámites sujetos a plazos improrrogables.
+
+NOVENO. Las dependencias mencionadas en la presente ley deberán elaborar su reglamento interior en un plazo no mayor de 180 días naturales, sometiendo los respectivos proyectos a la aprobación del Gobernador del Estado, por conducto del Titular de la Secretaría de Gobierno.
+
+DÉCIMO. El Gobernador del Estado acordará la redistribución de unidades administrativas, recursos humanos y materiales, conforme a las disposiciones de esta ley, sin modificar el presupuesto de egresos en materia de sueldos y prestaciones.
+
+DECIMOPRIMERO. Las facultades y obligaciones inherentes al Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio de los Poderes del Estado y de los Municipios y del Tribunal de Conciliación y Arbitraje para los Trabajadores de la Educación formarán parte del Poder Judicial del Estado de Coahuila. Hasta en tanto no se lleve a cabo dicha transferencia, el Tribunal continuará operando en los mismos términos en que lo ha hecho hasta la fecha mientras se realiza su transferencia de sus funciones, obligaciones, recursos materiales, económicos y personales y presupuesto al Poder Judicial del Estado de Coahuila.
+
+DECIMOSEGUNDO. Las Juntas Locales de Conciliación y las Juntas de Conciliación y Arbitraje conservarán su organización actual hasta la aprobación e inicio de la vigencia de las disposiciones reglamentarias y administrativas mediante las cuales se establezca su nueva organización.
+
+DECIMOTERCERO. Las facultades en materia de Archivos Públicos serán ejercidas de conformidad a la legislación vigente hasta en tanto no se realicen los ajustes normativos correspondientes.
+
+Las disposiciones legales expedidas en materia, vigentes al momento de la publicación del presente ordenamiento, se seguirán aplicando en todo lo que no se oponga a la presente Ley, en tanto no se expiden las que deban sustituirlas.
