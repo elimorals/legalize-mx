@@ -4,7 +4,7 @@ identifier: "FED-decreto-por-el-que-se-establece-el-impuesto-general-de-35302"
 country: "mx"
 rank: "decreto"
 publication_date: "2002-12-31"
-last_updated: "2003-12-31"
+last_updated: "2005-12-07"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35302&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-12-27"
 
 DECRETO POR EL QUE SE ESTABLECE EL IMPUESTO GENERAL DE IMPORTACION PARA LA REGION FRONTERIZA Y LA FRANJA FRONTERIZA NORTE.
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE DICIEMBRE DE 2005.
 
 Decreto publicado en la Cuarta Sección del Diario Oficial de la Federación, el martes 31 de diciembre de 2002
 
@@ -142,3 +142,7 @@ D.O.F. 3 DE MARZO DE 2003.
 D.O.F. 31 DE DICIEMBRE DE 2003.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE DICIEMBRE DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
