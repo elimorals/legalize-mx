@@ -4,7 +4,7 @@ identifier: "LGEEPA"
 country: "mx"
 rank: "ley_general"
 publication_date: "1988-01-28"
-last_updated: "2005-02-23"
+last_updated: "2005-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=225&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGEEPA"
 
 LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE FEBRERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 28 de enero de 1988.
 
@@ -2772,6 +2772,52 @@ Recibida el acta de inspección por la autoridad ordenadora, requerirá al inter
 
 Admitidas y desahogadas las pruebas ofrecidas por el interesado, o habiendo transcurrido el plazo a que se refiere el párrafo anterior, sin que haya hecho uso de ese derecho, se pondrán a su disposición las actuaciones, para que en un plazo tres días hábiles, presente por escrito sus alegatos.
 
+> <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2005)</small>
+
+ARTICULO 167 BIS.- Las notificaciones de los actos administrativos dictados con motivo de la aplicación de esta Ley, se realizarán:
+
+I. Personalmente o por correo certificado con acuse de recibo, cuando se trate de emplazamientos y resoluciones administrativas definitivas, sin perjuicio de que la notificación de estos actos pueda efectuarse en las oficinas de las Unidades Administrativas competentes de la Secretaría, si las personas a quienes deba notificarse se presentan en las mismas. En este último caso, se asentará la razón correspondiente;
+
+II. Por rotulón, colocado en los estrados de la Unidad Administrativa competente, cuando la persona a quien deba notificarse no pueda ser ubicada después de iniciadas las facultades de inspección, vigilancia o verificación a las que se refiere el presente Título, o cuando no hubiera señalado domicilio en la población donde se encuentre ubicada la sede de la autoridad ordenadora;
+
+III. Por edicto, toda notificación cuando se desconozca el domicilio del interesado o en su caso cuando la persona a quien deba notificarse haya desaparecido, se ignore su domicilio o se encuentre en el extranjero sin haber dejado representante legal o autorizado para tales efectos.
+
+Tratándose de actos distintos a los señalados en la fracción I de este artículo, las notificaciones podrán realizarse por correo ordinario, mensajería, telegrama o, previa solicitud por escrito del interesado, a través de telefax, medios de comunicación electrónica u otro similar o en las oficinas de las Unidades Administrativas de la Secretaría, si se presentan las personas que han de recibirlas a más tardar dentro del término de cinco días hábiles siguientes contados a partir del día en que se dicten los actos que han de notificarse. Lo anterior, sin perjuicio de que la autoridad ordenadora lo haga por rotulón, dentro del término de diez días hábiles contados a partir del día en que se dicten los actos que han de notificarse, el cual se fijará en lugar visible de las oficinas de las Unidades Administrativas de la Secretaría.
+
+Si los interesados, sus representantes legales o las personas autorizadas por ellos, no ocurren a las oficinas de las Unidades Administrativas de la Secretaría, a notificarse dentro del término señalado en el párrafo anterior, las notificaciones se darán por hechas, y surtirán sus efectos el día hábil siguiente al de la fijación del rotulón.
+
+De toda notificación por rotulón se agregará, al expediente, un tanto de aquel, asentándose la razón correspondiente, y
+
+IV. Por instructivo, solamente en el caso señalado en el tercer párrafo del artículo 167 Bis 1 de la presente Ley.
+
+> <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2005)</small>
+
+ARTICULO 167 BIS 1.- Las notificaciones personales se harán en el domicilio del interesado o en el último domicilio que la persona a quien se deba notificar haya señalado en la población donde se encuentre la sede de las Unidades Administrativas de la Secretaría, o bien, personalmente en el recinto oficial de éstas, cuando comparezcan voluntariamente a recibirlas en los dos primeros casos, el notificador deberá cerciorarse que se trata del domicilio del interesado o del designado para esos efectos y deberá entregar el original del acto que se notifique y copia de la constancia de notificación respectiva, así como señalar la fecha y hora en que la notificación se efectúa, recabando el nombre y firma de la persona con quien se entienda la diligencia. Si ésta se niega, se hará constar en el acta de notificación, sin que ello afecte su validez.
+
+Las notificaciones personales, se entenderán con la persona que deba ser notificada o su representante legal; a falta de ambos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio, para que el interesado espere a una hora fija del día hábil siguiente. Si el domicilio se encontrare cerrado, el citatorio se dejará en un lugar visible del mismo, o con el vecino más inmediato.
+
+Si la persona a quien haya de notificarse no atendiere el citatorio, la notificación se entenderá con cualquier persona que se encuentre en el domicilio en que se realice la diligencia y, de negarse ésta a recibirla o en su caso de encontrarse cerrado el domicilio, se realizará por instructivo que se fijará en un lugar visible del domicilio, o con el vecino más cercano, lo que se hará constar en el acta de notificación, sin que ello afecte su validez.
+
+De las diligencias en que conste la notificación, el notificador tomará razón por escrito.
+
+> <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2005)</small>
+
+ARTICULO 167 BIS 2.- Las notificaciones por edictos se realizarán haciendo publicaciones que contendrán un resumen de los actos por notificar. Dichas publicaciones deberán efectuarse por dos días consecutivos en el Diario Oficial de la Federación o en la Gaceta o Periódico Oficial de la Entidad Federativa en la que tenga su sede la Unidad Administrativa que conozca del asunto y en uno de los periódicos diarios de mayor circulación en la Entidad Federativa correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2005)</small>
+
+ARTICULO 167 BIS 3.- Las notificaciones personales surtirán sus efectos el día en que hubieren sido realizadas. Los plazos empezarán a correr a partir del día hábil siguiente a aquel en que se haya surtido efectos la notificación.
+
+Se tendrá como fecha de notificación por correo certificado la que conste en el acuse de recibo.
+
+En las notificaciones por edictos se tendrá como fecha de notificación la de la última publicación en el Diario Oficial de la Federación o en la Gaceta o Periódico Oficial de la Entidad Federativa en la que se tenga su sede la Unidad Administrativa de la Secretaría que ordenó la publicación y en un (sic) de los periódicos diarios de mayor circulación en la Entidad Federativa correspondiente.
+
+Las notificaciones por rotulón surtirán sus efectos al día hábil siguiente al de la fijación del mismo.
+
+> <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2005)</small>
+
+ARTICULO 167 BIS 4.- Toda notificación deberá efectuarse en un plazo máximo de quince días hábiles, contados a partir de la emisión de la resolución o acto que se notifique, y deberá contener el texto íntegro del acto, así como el fundamento legal en que se apoye con la indicación de si es o no definitivo en la vía administrativa, y en su caso, la expresión del recurso administrativo que contra la misma proceda, órgano ante el cual hubiera de presentarse y plazo para su interposición.
+
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 168.
@@ -3299,3 +3345,7 @@ Primero: El presente Decreto entrará en vigor a los 180 días siguientes a su p
 Segundo: Con la entrada en vigor del presente Decreto, el Poder Ejecutivo Federal deberá revisar y modificar los reglamentos de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en materia de Áreas Naturales Protegidas, y en materia de Evaluación del Impacto Ambiental, en relación con los artículos que reglamenten las disposiciones legales modificadas, en un término que no exceda a 60 días una vez que entre en vigor la presente iniciativa.
 
 Tercero: Los parques nacionales y los monumentos naturales que se hayan establecido con anterioridad a la expedición del presente decreto, podrán utilizar zonas alternativas, además de las exigidas en el artículo 47 Bis 1 de la presente Ley, que permitan compatibilizar los objetivos de conservación del área natural protegida, con las actividades que se han venido desarrollando hasta ese momento.
+
+D.O.F. 7 DE DICIEMBRE DE 2005.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
