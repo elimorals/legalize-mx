@@ -4,7 +4,7 @@ identifier: "LEBHN"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-08"
-last_updated: "2005-01-03"
+last_updated: "2005-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2564&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LEBHN"
 
 LEY SOBRE EL ESCUDO, LA BANDERA Y EL HIMNO NACIONALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 8 de febrero de 1984.
 
@@ -444,6 +444,14 @@ El canto, ejecución, reproducción y circulación del Himno Nacional, se apegar
 
 Queda estrictamente prohibido alterar la letra o música del Himno Nacional y ejecutarlo total o parcialmente en composiciones o arreglos. Asimismo, se prohíbe cantar o ejecutar el Himno Nacional con fines de publicidad comercial o de índole semejante. Se prohibe cantar o ejecutar los himnos de otras naciones, salvo autorización expresa del representante diplomático respectivo y de la Secretaría de Gobernación.
 
+> <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 39 Bis.
+
+Los pueblos y las comunidades indígenas podrán ejecutar el Himno Nacional, traducido a la lengua que en cada caso corresponda. Para tales efectos, se faculta al Instituto Nacional de Lenguas Indígenas para realizar las traducciones correspondientes, las cuales deberán contar con la autorización de la Secretaría de Gobernación y de la Secretaría de Educación Pública.
+
+Los pueblos y comunidades indígenas podrán solicitar a las Secretarías de Gobernación y de Educación Pública la autorización de sus propias traducciones del Himno Nacional. La Secretaría de Gobernación llevará el registro de las traducciones autorizadas.
+
 ###### Artículo 40.
 
 Todas las ediciones o reproducciones del Himno Nacional requerirán autorización de las Secretarías de Gobernación y de Educación Pública. Los espectáculos de teatro, cine, radio y televisión, que versen sobre el Himno Nacional y sus autores, o que contengan motivos de aquél, necesitarán de la aprobación de las Secretarías de Gobernación y Educación Pública, según sus respectivas competencias. Las estaciones de radio y de televisión podrán transmitir el Himno Nacional íntegro o fragmentariamente, previa autorización de la Secretaría de Gobernación, salvo las transmisiones de ceremonias oficiales.
@@ -468,9 +476,11 @@ Durante solemnidades cívicas en que conjuntos corales entonen el Himno Nacional
 
 La demostración civil de respeto al Himno Nacional se hará en posición de firme. Los varones, con la cabeza descubierta.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 46.
 
-Es obligatoria la enseñanza del Himno Nacional en todos los planteles de educación primaria y secundaria.
+Es obligatoria la enseñanza del Himno Nacional en todos los planteles de educación preescolar, primaria y secundaria.
 
 Cada año las autoridades educativas convocarán a un concurso de coros infantiles sobre la interpretación del Himno Nacional, donde participen los alumnos de enseñanza elemental y secundaria del Sistema Educativo Nacional.
 
@@ -689,3 +699,15 @@ D.O.F. 3 DE ENERO DE 2005.
 DECRETO QUE ADICIONA LA FECHA DEL 2 DE MAYO.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE DICIEMBRE DE 2005.
+
+DECRETO POR EL QUE SE ADICIONA UN ARTICULO 39 BIS.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE DICIEMBRE DE 2005.
+
+DECRETO POR EL QUE SE REFORMA EL ARTICULO 46.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
