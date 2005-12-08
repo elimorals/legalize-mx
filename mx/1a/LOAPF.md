@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "2005-06-10"
+last_updated: "2005-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAPF"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 29 de diciembre de 1976.
 
@@ -538,7 +538,9 @@ VIII.- Ejercer las atribuciones que le señalen las leyes en materia de seguros,
 
 IX.- Determinar los criterios y montos globales de los estímulos fiscales, escuchando para ello a las dependencias responsables de los sectores correspondientes y administrar su aplicación en los casos en que no competa a otra Secretaría;
 
-X.- Establecer y revisar los precios y tarifas de los bienes y servicios de la administración pública federal, o bien, las bases para fijarlos, escuchando a la Secretaría de Comercio y Fomento Industrial y con la participación de las dependencias que corresponda;
+> <small>(REFORMADA, D.O.F. 8 DE DICIEMBRE DE 2005)</small>
+
+X.- Establecer y revisar los precios y tarifas de los bienes y servicios de la administración pública federal, o bien, las bases para fijarlos, escuchando a la Secretaría de Economía y con la participación de las dependencias que correspondan;
 
 XI.- Cobrar los impuestos, contribuciones de mejoras, derechos, productos y aprovechamientos federales en los términos de las leyes aplicables y vigilar y asegurar el cumplimiento de las disposiciones fiscales;
 
@@ -1008,9 +1010,9 @@ II.- Promover el empleo en el medio rural, así como establecer programas y acci
 
 III.- Integrar e impulsar proyectos de inversión que permitan canalizar, productivamente, recursos públicos y privados al gasto social en el sector rural; coordinar y ejecutar la política nacional para crear y apoyar empresas que asocien a grupos de productores rurales a través de las acciones de planeación, programación, concertación, coordinación; de aplicación, recuperación y revolvencia de recursos, para ser destinados a los mismos fines; así como de asistencia técnica y de otros medios que se requieran para ese propósito, con la intervención de las dependencias y entidades de la Administración Pública Federal correspondientes y de los gobiernos estatales y municipales, y con la participación de los sectores social y privado;
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 8 DE DICIEMBRE DE 2005)</small>
 
-IV.- Fomentar los programas y elaborar normas oficiales de sanidad animal y vegetal, así como atender, coordinar, supervisar y evaluar las campañas de sanidad;
+IV.- Vigilar el cumplimiento y aplicar la normatividad en materia de sanidad animal y vegetal; fomentar los programas y elaborar normas oficiales de sanidad animal y vegetal; atender, coordinar, supervisar y evaluar las campañas de sanidad, así como otorgar las certificaciones relativas al ámbito de su competencia;
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -1028,9 +1030,9 @@ VII.- Organizar y fomentar las investigaciones agrícolas, ganaderas, avícolas,
 
 VIII.- Formular, dirigir y supervisar los programas y actividades relacionados con la asistencia técnica y la capacitación de los productores rurales;
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 8 DE DICIEMBRE DE 2005)</small>
 
-IX.- Promover el desarrollo de la infraestructura industrial y comercial de la producción agropecuaria, en coordinación con la Secretaría de Comercio y Fomento Industrial;
+IX.- Promover el desarrollo de la infraestructura industrial y comercial de la producción agropecuaria, en coordinación con la Secretaría de Economía;
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -2073,3 +2075,7 @@ D.O.F. 21 DE MAYO DE 2003.
 D.O.F. 10 DE JUNIO DE 2005.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 8 DE DICIEMBRE DE 2005.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
