@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2005-11-28"
+last_updated: "2005-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE DICIEMBRE DE 2005.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1032,11 +1032,15 @@ La Ciudad de México es el Distrito Federal, sede de los Poderes de la Unión y 
 
 Los Estados de la Federación conservan la extensión y límites que hasta hoy han tenido, siempre que no haya dificultad en cuanto a éstos.
 
-> <small>(REFORMADO, D.O.F. 17 DE MARZO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2005)</small>
 
 ###### Art. 46.
 
-Los estados pueden arreglar entre sí, por convenios amistosos, sus respectivos límites; pero no se llevarán a efecto esos arreglos sin la aprobación del Congreso de la Unión.
+Las entidades federativas pueden arreglar entre sí, por convenios amistosos, sus respectivos límites; pero no se llevarán a efecto esos arreglos sin la aprobación de la Cámara de Senadores.
+
+A falta de acuerdo, cualquiera de las partes podrá acudir ante la Cámara de Senadores, quien actuará en términos del artículo 76, fracción XI, de esta Constitución.
+
+Las resoluciones del Senado en la materia serán definitivas e inatacables. La Suprema Corte de Justicia de la Nación podrá conocer a través de controversia constitucional, a instancia de parte interesada, de los conflictos derivados de la ejecución del correspondiente decreto de la Cámara de Senadores.
 
 ###### Art. 47.
 
@@ -1372,9 +1376,7 @@ III.- Para formar nuevos Estados dentro de los límites de los existentes, siend
 
 7o.- Si las Legislaturas de los Estados de cuyo territorio se trate, no hubieren dado su consentimiento, la ratificación de que habla la fracción anterior, deberá ser hecha por las dos terceras partes del total de Legislaturas de los demás Estados.
 
-> <small>(F. DE E., D.O.F. 6 DE FEBRERO DE 1917)</small>
-
-IV.- Para arreglar definitivamente los límites de los Estados, terminando las diferencias que entre ellos se susciten sobre las demarcaciones de sus respectivos territorios, menos cuando esas diferencias tengan un carácter contencioso.
+IV.- (DEROGADA, D.O.F. 8 DE DICIEMBRE DE 2005)
 
 V.- Para cambiar la residencia de los Supremos Poderes de la Federación.
 
@@ -1650,9 +1652,17 @@ VIII.- Designar a los Ministros de la Suprema Corte de Justicia de la Nación, d
 
 IX.- Nombrar y remover al Jefe del Distrito Federal en los supuestos previstos en esta Constitución.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 20 DE AGOSTO DE 1928)</small>
+> <small>(ADICIONADA, D.O.F. 8 DE DICIEMBRE DE 2005)</small>
 
-X.- Las demás que la misma Constitución le atribuye.
+X.- Autorizar mediante decreto aprobado por el voto de las dos terceras partes de los individuos presentes, los convenios amistosos que sobre sus respectivos límites celebren las entidades federativas.
+
+> <small>(ADICIONADA, D.O.F. 8 DE DICIEMBRE DE 2005)</small>
+
+XI.- Resolver de manera definitiva los conflictos sobre límites territoriales de las entidades federativas que así lo soliciten, mediante decreto aprobado por el voto de las dos terceras partes de los individuos presentes.
+
+(REUBICADA, D.O.F. 8 DE DICIEMBRE DE 2005)
+
+XII.- Las demás que la misma Constitución le atribuya.
 
 ###### Art. 77.
 
@@ -2246,7 +2256,9 @@ VI.- De los casos concernientes a miembros del Cuerpo Diplomático y Consular.
 
 La Suprema Corte de Justicia de la Nación conocerá, en los términos que señale la ley reglamentaria, de los asuntos siguientes:
 
-I.- De las controversias constitucionales que, con excepción de las que se refieran a la materia electoral, se susciten entre:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE DICIEMBRE DE 2005)</small>
+
+I.- De las controversias constitucionales que, con excepción de las que se refieran a la materia electoral y a lo establecido en el artículo 46 de esta Constitución, se susciten entre:
 
 a).- La Federación y un Estado o el Distrito Federal;
 
@@ -2476,9 +2488,7 @@ Para los efectos de las responsabilidades a que alude este Título se reputarán
 
 El Presidente de la República, durante el tiempo de su encargo, sólo podrá ser acusado por traición a la patria y delitos graves del orden común.
 
-(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994) (F. DE E., D.O.F. 3 DE ENERO DE 1995)
-
-Los Gobernadores de los Estados, los Diputados a las Legislaturas Locales, los Magistrados de los Tribunales Superiores de Justicia Locales y, en su caso, los miembros de los Consejos de las Judicaturas Locales, serán responsables por violaciones a esta Constitución y a las leyes federales, así como por el manejo indebido de fondos y recursos federales.
+(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994) (F. DE E., D.O.F. 3 DE ENERO DE 1995)Los Gobernadores de los Estados, los Diputados a las Legislaturas Locales, los Magistrados de los Tribunales Superiores de Justicia Locales y, en su caso, los miembros de los Consejos de las Judicaturas Locales, serán responsables por violaciones a esta Constitución y a las leyes federales, así como por el manejo indebido de fondos y recursos federales.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
@@ -2554,7 +2564,7 @@ Para poder proceder penalmente por delitos federales contra los Gobernadores de 
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
-Las declaraciones y resoluciones de la (sic)Cámaras de Diputados (sic) Senadores son inatacables.
+Las declaraciones y resoluciones de la (sic) Cámaras de Diputados (sic) Senadores son inatacables.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
@@ -5055,6 +5065,14 @@ D.O.F. 20 DE JUNIO DE 2005.
 D.O.F. 28 DE NOVIEMBRE DE 2005.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 8 DE DICIEMBRE DE 2005.
+
+PRIMERO.- La reforma entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Cámara de Senadores establecerá dentro del periodo ordinario de sesiones inmediato siguiente a la entrada en vigor del presente decreto, la Comisión de Límites de las Entidades Federativas, la cual se integrará y funcionará en los términos de la ley reglamentaria que al efecto se expida, así como por las disposiciones que para el caso dispongan la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos y el Reglamento para su Gobierno Interior.
+
+TERCERO.- Las controversias que a la entrada en vigor de este decreto se encuentren en trámite ante la Suprema Corte de Justicia de la Nación con motivo de conflictos limítrofes entre entidades federativas, serán remitidas de inmediato, con todos sus antecedentes, a la Cámara de Senadores, a fin de que ésta en términos de sus atribuciones constitucionales proceda a establecerlos de manera definitiva mediante decreto legislativo.
 
 ###### ARTICULO PRIMERO.
 
