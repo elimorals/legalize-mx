@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2005-12-06"
+last_updated: "2005-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -471,11 +471,13 @@ III.- Servicios sociales y privados, sea cual fuere la forma en que se contraten
 
 IV.- Otros que se presten de conformidad con lo que establezca la Secretaría.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 21.
 
-Las cuotas de recuperación por la prestación de servicios de salud, se ajustarán a los tabuladores autorizados y se fundarán en principios de solidaridad social y guardarán relación con los ingresos de los usuarios, debiéndose eximir el cobro cuando del estudio socioeconómico determine que el usuario carece de recursos para cubrirlos.
+Las cuotas de recuperación por la prestación de servicios de salud, se ajustarán a los tabuladores autorizados y se fundarán en principios de solidaridad social y guardarán relación con los ingresos de los usuarios. Se eximirá del cobro de las cuotas de recuperación por concepto de atención médica y medicamentos, a todo menor a partir de su nacimiento hasta cinco años cumplidos, que no sea beneficiario o derechohabiente de alguna institución del sector salud. Para el cumplimiento de esta disposición, será requisito indispensable que la familia solicitante se encuentre en un nivel de ingreso menor a tres deciles. Para los efectos de este artículo la institución de salud de forma obligatoria realizará el estudio socioeconómico.
 
-No se aplicarán cuotas de recuperación en los Centros de Salud Rurales y en las zonas urbanas de bajo desarrollo económico y social.
+Así mismo, se exime del cobro cuando del estudio socioeconómico determine que el usuario carece de recursos para cubrirlos o se trate de personas de escasos recursos dedicadas a las labores del campo. No se aplicarán cuotas de recuperación en los centros de salud rurales y en las zonas urbanas de bajo desarrollo económico y social.
 
 ###### ARTICULO 22.
 
@@ -1127,7 +1129,9 @@ I.- La prevención y el tratamiento del alcoholismo y, en su caso, la rehabilita
 
 II.- La educación y difusión sobre los efectos del alcohol en la salud, dirigida especialmente a niños, adolescentes, obreros y campesinos, a través de métodos individuales, sociales o de comunicación masiva; y
 
-III.- El fomento de estilos de vida saludables, a través de actividades de orientación, cívicas, deportivas y culturales que coadyuven en la lucha contra el alcoholismo, especialmente en zonas rurales y en los grupos de población considerados de alto riesgo.
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2005)</small>
+
+III.- El fomento de estilos de vida saludables, a través de actividades de orientación, cívicas, deportivas y culturales, que coadyuven en la lucha contra el alcoholismo especialmente en zonas rurales y entre los grupos de población considerados de alto riesgo, particularmente de los centros de readaptación social y de rehabilitación contra adicciones.
 
 ###### ARTICULO 97.
 
@@ -1140,6 +1144,10 @@ II.- Efectos de la publicidad en la incidencia del alcoholismo y en los problema
 > <small>(F. DE E., P.O. 2 DE ENERO DE 2002)</small>
 
 III.- Hábitos de consumo y abuso de bebidas alcohólicas en los ámbitos familiar, social, deportivo, laboral y educativo, en los diferentes grupos de población.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2005)</small>
+
+La información, resultados y conclusiones de las investigaciones, se utilizarán para establecer medidas y estrategias para evitar el abuso de bebidas alcohólicas. Los resultados de dicha información serán de acceso público, sin perjuicio de los derechos de propiedad intelectual, y estará sujeta a la normatividad en la materia.
 
 ### CAPITULO UNICO
 
@@ -1804,3 +1812,17 @@ Unico.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 6 DE DICIEMBRE DE 2005.
 
 Artículo Unico.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE DICIEMBRE DE 2005.
+
+DECRETO No. LIX-91
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE DICIEMBRE DE 2005.
+
+DECRETO No. LIX-92
+
+Artículo Unico.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
