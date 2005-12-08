@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-la-renta-22690"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-01"
-last_updated: "2004-12-01"
+last_updated: "2005-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22690&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISR"
 
 LEY DEL IMPUESTO SOBRE LA RENTA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE DICIEMBRE DE 2005.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 1 de enero de 2002.
 
@@ -2078,9 +2078,49 @@ El Servicio de Administración Tributaria, mediante reglas de carácter general,
 
 Cuando las personas morales a que se refiere este Capítulo cumplan por cuenta de sus integrantes con las obligaciones señaladas en el mismo y dictaminen sus estados financieros para efectos fiscales en los términos del artículo 32-A del Código Fiscal de la Federación, sus integrantes no estarán obligados a dictaminar sus estados financieros para efectos fiscales.
 
-### CAPÍTULO VIII. DE LAS OBLIGACIONES DE LAS PERSONAS MORALES
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 8 DE DICIEMBRE DE 2005)</small>
 
-### CAPÍTULO IX. DE LAS FACULTADES DE LAS AUTORIDADES
+### CAPÍTULO VII-A. DE LAS SOCIEDADES COOPERATIVAS DE PRODUCCIÓN
+
+> <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 85-A.
+
+Las sociedades cooperativas de producción que únicamente se encuentren constituidas por socios personas físicas, para calcular el impuesto sobre la renta que les corresponda por las actividades que realicen, en lugar de aplicar lo dispuesto en el Título II de esta Ley, podrán aplicar lo dispuesto en la Sección I del Capítulo II del Título IV de la misma, considerando lo siguiente:
+
+I. Calcularán el impuesto del ejercicio de cada uno de sus socios, determinando la parte de la utilidad gravable del ejercicio que le corresponda a cada socio por su participación en la sociedad cooperativa de que se trate, aplicando al efecto lo dispuesto en el artículo 130 de esta Ley.
+
+Las sociedades cooperativas de producción a que se refiere este Capítulo, podrán diferir la totalidad del impuesto a que se refiere esta fracción, hasta el ejercicio fiscal en el que distribuyan a sus socios la utilidad gravable que les corresponda.
+
+Cuando la sociedad cooperativa de que se trate distribuya a sus socios utilidades provenientes de la cuenta de utilidad gravable, pagará el impuesto diferido aplicando al monto de la utilidad distribuida al socio de que se trate la tarifa a que se refiere el artículo 177 de esta Ley.
+
+Para los efectos del párrafo anterior, se considerará que las primeras utilidades que se distribuyan son las primeras utilidades que se generaron.
+
+El impuesto que en los términos de esta fracción corresponda a cada uno de sus socios, se pagará mediante declaración que se presentará ante las oficinas autorizadas, a más tardar el 17 del mes inmediato siguiente a aquél en el que se pagaron las utilidades gravables, el socio de la cooperativa de que se trate podrá acreditar en su declaración anual del ejercicio que corresponda el impuesto que se pague en los términos de este párrafo.
+
+Para los efectos de este Capítulo, se considerará que la sociedad cooperativa de producción distribuye utilidades a sus socios, cuando la utilidad gravable a que se refiere esta fracción se invierta en activos financieros diferentes a las cuentas por cobrar a clientes o en recursos necesarios para la operación normal de la sociedad de que se trate.
+
+Para los efectos de este capítulo las sociedades cooperativas de producción que no distribuyan rendimientos a sus socios, solo podrán invertir dichos recursos en bienes que a su vez generan más empleos o socios cooperativistas;
+
+II. Las sociedades cooperativas de producción llevarán una cuenta de utilidad gravable. Esta cuenta se adicionará con la utilidad gravable del ejercicio y se disminuirá con el importe de la utilidad gravable pagada.
+
+El saldo de la cuenta prevista en esta fracción, que se tenga al último día de cada ejercicio, sin incluir la utilidad gravable del mismo, se actualizará por el periodo comprendido desde el mes en el que se efectuó la última actualización y hasta el último mes del ejercicio de que se trate. Cuando se distribuyan utilidades provenientes de esta cuenta con posterioridad a la actualización prevista en este párrafo, el saldo de la cuenta que se tenga a la fecha de la distribución, se actualizará por el periodo comprendido desde el mes en el que se efectuó la última actualización y hasta el mes en el que se distribuyan dichas utilidades.
+
+El saldo de la cuenta de utilidad gravable deberá transmitirse a otra u otras sociedades en los casos de fusión o escisión. En este último caso, dicho saldo se dividirá entre la sociedad escindente y las sociedades escindidas, en la proporción en la que se efectúe la partición del capital contable del estado de posición financiera aprobado por la asamblea general extraordinaria y que haya servido de base para realizar la escisión.
+
+La utilidad gravable a que se refiere esta fracción, será la que determine la sociedad cooperativa de que se trate, en los términos del artículo 130 de esta Ley, correspondiente a la totalidad de los socios que integran dicha sociedad;
+
+III. Por los ingresos que obtenga la sociedad cooperativa no se efectuarán pagos provisionales del impuesto sobre la renta, y
+
+IV. Los rendimientos y los anticipos que otorguen las sociedades cooperativas a sus socios, se considerarán como ingresos asimilados a los ingresos por la prestación de un servicio personal subordinado y se aplicará lo dispuesto en los artículos 110 y 113 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 85-B.
+
+Las sociedades cooperativas de producción que opten por aplicar lo dispuesto en el presente Capítulo, no podrán variar su opción en ejercicios posteriores, salvo cuando se cumplan con los requisitos que se establezcan en el Reglamento de esta Ley. Cuando los contribuyentes dejen de pagar el impuesto en los términos de este Capítulo, en ningún caso podrán volver a tributar en los términos del mismo.
+
+### CAPÍTULO VIII. DE LAS OBLIGACIONES DE LAS PERSONAS MORALES
 
 ###### Artículo 86.
 
@@ -2266,7 +2306,7 @@ Lo dispuesto en este artículo será aplicable, indistintamente, al reembolso, a
 
 También será aplicable lo dispuesto en este artículo, a las asociaciones en participación cuando éstas efectúen reembolsos o reducciones de capital en favor de sus integrantes.
 
-### CAPÍTULO I. DE LOS INGRESOS POR SALARIOS Y EN GENERAL POR LA PRESTACIÓN DE UN SERVICIO PERSONAL SUBORDINADO
+### CAPÍTULO IX. DE LAS FACULTADES DE LAS AUTORIDADES
 
 ###### Artículo 90.
 
@@ -2306,7 +2346,9 @@ Industriales: Azúcar, leches naturales; aceites vegetales; café para consumo n
 
 VI. Se aplicará 25% a los siguientes rubros:
 
-Industriales: Explotación y refinación de sal, extracción de maderas finas, metales y plantas minero-metalúrgicas.
+Industriales: Explotación y refinación de sal, extracción de maderas finas, metales y
+
+plantas minero-metalúrgicas.
 
 Comerciales: Restaurantes y agencias funerarias.
 
@@ -2862,7 +2904,7 @@ La exención aplicable a los ingresos obtenidos por concepto de prestaciones de 
 
 Lo dispuesto en el párrafo anterior, no será aplicable tratándose de jubilaciones, pensiones, haberes de retiro, pensiones vitalicias, indemnizaciones por riesgos de trabajo o enfermedades, que se concedan de acuerdo con las leyes, contratos colectivos de trabajo o contratos Ley, reembolsos de gastos médicos, dentales, hospitalarios y de funeral, concedidos de manera general de acuerdo con las leyes o contratos de trabajo, seguros de gastos médicos, seguros de vida y fondos de ahorro, siempre que se reúnan los requisitos establecidos en la fracción XII del artículo 31 de esta Ley, aun cuando quien otorgue dichas prestaciones de previsión social no sea contribuyente del impuesto establecido en esta Ley.
 
-### CAPÍTULO II. DE LOS INGRESOS POR ACTIVIDADES EMPRESARIALES Y PROFESIONALES
+### CAPÍTULO I. DE LOS INGRESOS POR SALARIOS Y EN GENERAL POR LA PRESTACIÓN DE UN SERVICIO PERSONAL SUBORDINADO
 
 ###### Artículo 110.
 
@@ -3076,7 +3118,7 @@ Las personas que hagan los pagos por los conceptos a que se refiere la fracción
 
 (DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
-### CAPÍTULO III. DE LOS INGRESOS POR ARRENDAMIENTO Y EN GENERAL POR OTORGAR EL USO O GOCE TEMPORAL DE BIENES INMUEBLES
+### CAPÍTULO II. DE LOS INGRESOS POR ACTIVIDADES EMPRESARIALES Y PROFESIONALES
 
 #### SECCIÓN I. DE LAS PERSONAS FÍSICAS CON ACTIVIDADES EMPRESARIALES Y PROFESIONALES
 
@@ -3528,7 +3570,7 @@ En el primer ejercicio que paguen el impuesto conforme a las Secciones I o II de
 
 Los contribuyentes que hubieran obtenido ingresos por operaciones en crédito por los que no se hubiese pagado el impuesto en los términos del penúltimo párrafo del artículo 138 de esta Ley, y que dejen de tributar conforme a esta Sección para hacerlo en los términos de las Secciones I o II de este Capítulo, acumularán dichos ingresos en el mes en que se cobren en efectivo, en bienes o en servicios.
 
-### CAPÍTULO IV. DE LOS INGRESOS POR ENAJENACIÓN DE BIENES
+### CAPÍTULO III. DE LOS INGRESOS POR ARRENDAMIENTO Y EN GENERAL POR OTORGAR EL USO O GOCE TEMPORAL DE BIENES INMUEBLES
 
 ###### Artículo 141.
 
@@ -3610,7 +3652,7 @@ IV. Presentar declaraciones provisionales y anual en los términos de esta Ley.
 
 Cuando los ingresos a que se refiere este Capítulo sean percibidos a través de operaciones de fideicomiso, será la institución fiduciaria quien lleve los libros, expida los recibos y efectúe los pagos provisionales. Las personas a las que correspondan los rendimientos deberán solicitar a la institución fiduciaria la constancia a que se refiere el último párrafo del artículo anterior, la que deberán acompañar a su declaración anual.
 
-### CAPÍTULO V. DE LOS INGRESOS POR ADQUISICIÓN DE BIENES
+### CAPÍTULO IV. DE LOS INGRESOS POR ENAJENACIÓN DE BIENES
 
 ###### Artículo 146.
 
@@ -3744,9 +3786,7 @@ Los contribuyentes que ejerzan la opción a que se refiere el último párrafo d
 
 El pago efectuado conforme a este artículo será acreditable contra el impuesto del ejercicio.
 
-### CAPÍTULO VI. DE LOS INGRESOS POR INTERESES
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+### CAPÍTULO V. DE LOS INGRESOS POR ADQUISICIÓN DE BIENES
 
 ###### Artículo 155.
 
@@ -3782,7 +3822,9 @@ Los contribuyentes que obtengan ingresos de los señalados en este Capítulo, cu
 
 En operaciones consignadas en escritura pública en las que el valor del bien de que se trate se determine mediante avalúo, el pago provisional se hará mediante declaración que se presentará dentro de los quince días siguientes a la fecha en que se firme la escritura o minuta. Los notarios, corredores, jueces y demás fedatarios, que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad y lo enterarán mediante la citada declaración en las oficinas autorizadas. Asimismo, dichos fedatarios, a más tardar el día 15 de febrero de cada año, deberán presentar ante las oficinas autorizadas, la información que al efecto establezca el Código Fiscal de la Federación respecto de las operaciones realizadas en el ejercicio inmediato anterior.
 
-### CAPÍTULO VII. DE LOS INGRESOS POR LA OBTENCIÓN DE PREMIOS
+### CAPÍTULO VI. DE LOS INGRESOS POR INTERESES
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 158.
 
@@ -3844,9 +3886,7 @@ Lo dispuesto en este artículo no será aplicable a los contribuyentes no obliga
 
 Quienes paguen los intereses a que se refiere este Capítulo deberán proporcionar al Servicio de Administración Tributaria la información a que se refiere el artículo 59 de esta Ley, aun cuando no sean instituciones de crédito.
 
-### CAPÍTULO VIII. DE LOS INGRESOS POR DIVIDENDOS Y EN GENERAL POR LAS GANANCIAS DISTRIBUIDAS POR PERSONAS MORALES
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+### CAPÍTULO VII. DE LOS INGRESOS POR LA OBTENCIÓN DE PREMIOS
 
 ###### Artículo 162.
 
@@ -3882,9 +3922,9 @@ III. Conservar, de conformidad con lo previsto en el Código Fiscal de la Federa
 
 IV. Presentar, a más tardar el 15 de febrero de cada año, declaración en la que proporcionen información sobre el monto de los premios pagados en el año de calendario anterior y de las retenciones efectuadas en dicho año.
 
-### CAPÍTULO IX. DE LOS DEMÁS INGRESOS QUE OBTENGAN LAS PERSONAS FÍSICAS
+### CAPÍTULO VIII. DE LOS INGRESOS POR DIVIDENDOS Y EN GENERAL POR LAS GANANCIAS DISTRIBUIDAS POR PERSONAS MORALES
 
-> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 165.
 
@@ -3914,7 +3954,9 @@ V. La utilidad fiscal determinada, inclusive presuntivamente, por las autoridade
 
 VI. La modificación a la utilidad fiscal derivada de la determinación de los ingresos acumulables y de las deducciones, autorizadas en operaciones celebradas entre partes relacionadas, hecha por dichas autoridades.
 
-### CAPÍTULO X. DE LOS REQUISITOS DE LAS DEDUCCIONES
+### CAPÍTULO IX. DE LOS DEMÁS INGRESOS QUE OBTENGAN LAS PERSONAS FÍSICAS
+
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 166.
 
@@ -4070,7 +4112,7 @@ Las instituciones de crédito, las casas de bolsa o las personas que intervengan
 
 Las ganancias que obtenga el contribuyente deberán acumularse en su declaración anual, pudiendo disminuirlas con las pérdidas generadas en dichas operaciones por el ejercicio que corresponda y hasta por el importe de las ganancias. Contra el impuesto que resulte a su cargo podrán acreditar el impuesto que se les hubiera retenido en el ejercicio. Lo dispuesto en este párrafo también será aplicable respecto de las operaciones financieras a que se refiere el artículo 23 de esta Ley.
 
-### CAPÍTULO XI. DE LA DECLARACIÓN ANUAL
+### CAPÍTULO X. DE LOS REQUISITOS DE LAS DEDUCCIONES
 
 ###### Artículo 172.
 
@@ -4214,9 +4256,7 @@ La deducción de las inversiones a que se refiere este artículo, se actualizar�
 
 Cuando no se pueda separar del costo del inmueble, la parte que corresponda a las construcciones, se considerará como costo del terreno el 20% del total.
 
-### CAPÍTULO I. DE LOS REGÍMENES FISCALES PREFERENTES
-
-> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+### CAPÍTULO XI. DE LA DECLARACIÓN ANUAL
 
 ###### Artículo 175.
 
@@ -4888,7 +4928,9 @@ Para los efectos de lo dispuesto en los artículos 180 y 184 de esta Ley, los co
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-### CAPÍTULO II. DE LAS EMPRESAS MULTINACIONALES
+### CAPÍTULO I. DE LOS REGÍMENES FISCALES PREFERENTES
+
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 212.
 
@@ -4997,6 +5039,8 @@ No obstante lo dispuesto por este Capítulo, los contribuyentes que generen ingr
 El titular y los cotitulares de los ingresos previstos en el primer párrafo de este artículo serán quienes deberán presentar la declaración antes señalada y las instituciones financieras sólo estarán relevadas de presentar la misma, siempre que conserven copia de la declaración presentada en tiempo y forma por el titular y cotitulares de los ingresos sujetos a un régimen fiscal preferente.
 
 Se considera que el contribuyente omitió la presentación de la declaración a que hace referencia este artículo, cuando no contenga la información relativa a la totalidad de los ingresos que el contribuyente haya generado o genere sujetos a regímenes fiscales preferentes que correspondan al ejercicio inmediato anterior.
+
+### CAPÍTULO II. DE LAS EMPRESAS MULTINACIONALES
 
 ###### Artículo 215.
 
@@ -6947,3 +6991,13 @@ El subsidio a que se refiere este artículo no será aplicable tratándose de la
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir del 1 de enero del 2005, con excepción de lo dispuesto en los Artículos Quinto y Sexto de este Decreto que entrarán en vigor a partir del 1 de enero de 2006.
+
+D.O.F. 8 DE DICIEMBRE DE 2005.
+
+Artículo Primero.- El presente Decreto entrará en vigor el 1o. de enero de 2006.
+
+Artículo Segundo.- Para los efectos del tercero y cuarto párrafos de la fracción I, del artículo 85-A de la Ley del Impuesto Sobre la Renta, se pagará el impuesto sobre la renta conforme a la tarifa del artículo 177 de la citada Ley vigente al momento en el que se generaron las utilidades que se distribuyan.
+
+Artículo Tercero.- Las sociedades cooperativas de producción que distribuyan anticipos o rendimientos a sus miembros en los términos de la fracción XI del artículo 29 de la Ley del Impuesto Sobre la Renta, para los efectos del artículo 9o. de la Ley del Impuesto al Activo, podrán considerar el impuesto sobre la renta que hubieren retenido por dichos conceptos conforme a lo dispuesto en el Capítulo I del Título IV de la Ley mencionada, como impuesto sobre la renta correspondiente a la sociedad cooperativa de que se trate.
+
+Asimismo, las sociedades cooperativas de producción, para los efectos del acreditamiento a que se refiere el artículo 9o. de la Ley del Impuesto al Activo, será el que se determine conforme a lo dispuesto en la fracción I, del artículo 85-A de la Ley del Impuesto Sobre la Renta.
