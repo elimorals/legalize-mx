@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2005-08-23"
+last_updated: "2005-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE DICIEMBRE DE 2005.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -143,33 +143,33 @@ Para el estudio, planeación y despacho de los asuntos, en los diversos ramos de
 
 I. Secretaría General de Gobierno;
 
-> <small>(REFORMADA, G.G. 31 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, G.G. 8 DE DICIEMBRE DE 2005)</small>
 
-II. Secretaría de Finanzas, Planeación y Administración;
+II. Secretaría de Finanzas;
 
 > <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2002)</small>
 
 III. Secretaría de Salud;
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.G. 8 DE DICIEMBRE DE 2005)</small>
 
-IV. Secretaría del Trabajo y de la Previsión Social;
+IV. Secretaría del Trabajo;
 
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADA, G.G. 8 DE DICIEMBRE DE 2005)</small>
 
-V. Secretaría de Educación, Cultura y Bienestar Social;
+V. Secretaría de Educación;
 
 > <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2002)</small>
 
 VI. Secretaría de Desarrollo Social;
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.G. 8 DE DICIEMBRE DE 2005)</small>
 
-VII.- Secretaría de Desarrollo Urbano y Vivienda;
+VII.- Secretaría de Desarrollo Urbano;
 
-(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)(F. DE E., P.O. 31 DE ENERO DE 2003)
+> <small>(REFORMADA, G.G. 8 DE DICIEMBRE DE 2005)</small>
 
-VIII.- Secretaría de Agua, Obra Pública e Infraestructura para el Desarrollo;
+VIII.- Secretaría del Agua y Obra Pública;
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
 
@@ -179,9 +179,9 @@ IX.- Secretaría de Desarrollo Agropecuario;
 
 X.- Secretaría de Desarrollo Económico;
 
-> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, G.G. 8 DE DICIEMBRE DE 2005)</small>
 
-XI. Secretaría de Turismo y Desarrollo Artesanal;
+XI. Secretaría de Turismo;
 
 > <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2004)</small>
 
@@ -343,17 +343,17 @@ XX. Promover que los recursos públicos destinados a los programas sociales, se 
 
 XXI. Las demás que señalen otros ordenamientos legales.
 
-> <small>(REFORMADO, G.G. 31 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 8 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 23.
 
-La Secretaría de Finanzas, Planeación y Administración es la encargada de la planeación, programación, presupuestación y evaluación de las actividades del Poder Ejecutivo, de la administración financiera y tributaria de la hacienda pública del Estado y de prestar el apoyo administrativo que requieran las dependencias del Poder Ejecutivo del Estado.
+La Secretaría de Finanzas, es la encargada de la planeación, programación, presupuestación y evaluación de las actividades del Poder Ejecutivo, de la administración financiera y tributaria de la hacienda pública del Estado y de prestar el apoyo administrativo que requieran las dependencias del Poder Ejecutivo del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 8 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 24.
 
-A la Secretaría de Finanzas, Planeación y Administración, corresponde el despacho de los siguientes asuntos.
+A la Secretaría de Finanzas, corresponde el despacho de los siguientes asuntos:
 
 > <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 1989)</small>
 
@@ -635,17 +635,17 @@ XXVIII. Participar en el establecimiento y expedición, en coordinación con las
 
 Las demás que señalen las leyes, reglamentos y disposiciones en la materia.
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1992)</small>
+> <small>(REFORMADO, G.G. 8 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 27.
 
-La Secretaría del Trabajo y de la Previsión Social, es el órgano encargado de ejercer las atribuciones que en materia de trabajo corresponden al Ejecutivo del Estado.
+La Secretaría del Trabajo, es el órgano encargado de ejercer las atribuciones que en materia de trabajo corresponden al Ejecutivo del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 8 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 28.
 
-A la Secretaría del Trabajo y de la Previsión Social, corresponde el despacho de los siguientes asuntos:
+A la Secretaría del Trabajo, corresponde el despacho de los siguientes asuntos:
 
 I. Ejercer las funciones que en materia de trabajo correspondan al ejecutivo del Estado.
 
@@ -697,71 +697,121 @@ XVIII. Impulsar y apoyar el desarrollo social, cultural y recreativo de los trab
 
 XIX. Las demás que señalen las leyes y reglamentos vigentes.
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1992)</small>
+> <small>(REFORMADO, G.G. 8 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 29.
 
-La Secretaría de Educación, Cultura y Bienestar Social, es el órgano encargado de fijar y ejecutar la política educativa, cultural y de bienestar social en la Entidad.
+La Secretaría de Educación, es el órgano encargado de fijar y ejecutar la política educativa, en la Entidad.
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 19 DE OCTUBRE DE 1992)</small>
 
 ###### Artículo 30.
 
-A la Secretaría de Educación, Cultura y Bienestar Social, corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Educación, corresponde el despacho de los siguientes asuntos:
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1992)</small>
 
 I. Formular, en el ámbito que compete al Estado, la política educativa, así como la de desarrollo cultural, bienestar social y deporte.
 
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1992)</small>
+
 II. Planear, organizar, desarrollar, vigilar y evaluar los servicios educativos que dependen del Gobierno del Estado o sus organismos descentralizados con apego a la legislación federal y estatal vigentes.
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1992)</small>
 
 III. Planear, desarrollar, dirigir y vigilar la educación a cargo del Gobierno Federal y de los particulares en todos los tipos, niveles y modalidades, en términos de la legislación correspondiente.
 
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1992)</small>
+
 IV. Vigilar el cumplimiento de las disposiciones jurídicas, políticas y planes del sector.
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1992)</small>
 
 V. Crear y mantener las escuelas oficiales que dependan directamente del Gobierno del Estado y autorizar la creación de las que forman parte de sus organismos descentralizados, con excepción de las instituciones de educación superior autónomas.
 
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1992)</small>
+
 VI. Formular los contenidos regionales de los planes y programas de estudio de educación básica
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1992)</small>
 
 VII. Elaborar y, en su caso, ejecutar los convenios de coordinación que en materia educativa, cultural, de bienestar social, o deportiva celebre el Estado con el Gobierno Federal y los Municipios.
 
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1992)</small>
+
 VIII. Representar al Gobierno del Estado ante todo tipo de organismos educativos.
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1992)</small>
 
 IX. Revalidar los estudios, diplomas, grados o títulos equivalentes a la enseñanza que se imparta en el Estado y organizar el servicio social.
 
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1992)</small>
+
 X. Mantener por sí, o en coordinación con los gobiernos Federal y Municipal, programas permanentes de educación para adultos, de alfabetización, y demás programas especiales.
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1992)</small>
 
 XI. Promover, coordinar y fomentar los programas de educación para la salud y mejoramiento del ambiente aprobados para el Estado.
 
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1992)</small>
+
 XII. Desarrollar por sí, o en coordinación con otras instancias competentes programas de atención a indígenas.
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1992)</small>
 
 XIII. Vigilar la realización de los actos cívicos escolares de acuerdo con el calendario oficial.
 
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1992)</small>
+
 XIV. Otorgar becas de conformidad con las disposiciones legales aplicables.
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1992)</small>
 
 XV. Coordinar, organizar, dirigir y fomentar el establecimiento de bibliotecas, hemerotecas, casas de cultura, museos y orientar sus actividades.
 
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1992)</small>
+
 XVI. Fomentar y vigilar el desarrollo de la investigación científica y tecnológica de la entidad y promover la creación de centros de investigación, laboratorios, observatorios y, en general, la infraestructura que requiera la educación formal, la investigación científica y el desarrollo tecnológico.
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1992)</small>
 
 XVII. Impulsar las actividades de difusión y fomento cultural y la educación artística.
 
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1992)</small>
+
 XVIII. Mantener al corriente el escalafón del magisterio y crear un sistema de estímulos y recompensas a la labor docente.
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1992)</small>
 
 XIX. Administrar los asilos e instituciones de beneficencia pública del Gobierno del Estado.
 
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1992)</small>
+
 XX. Coordinar con las autoridades competentes la realización de campañas para prevenir y atacar la farmacodependencia y el alcoholismo.
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1992)</small>
 
 XXI. Proteger, mantener y acrecentar el patrimonio artístico e histórico de la entidad.
 
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1992)</small>
+
 XXII. Establecer los criterios educativos y culturales en la producción radiofónica y televisiva del Gobierno del Estado.
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1992)</small>
 
 XXIII. Coordinar, organizar y fomentar la enseñanza y la práctica de los deportes en el Estado, así como la participación en torneos y justas deportivas nacionales y extranjeras.
 
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1992)</small>
+
 XXIV. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 8 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 31.
 
-La Secretaría de Desarrollo Urbano y Vivienda es la dependencia encargada del ordenamiento territorial de los asentamientos humanos y de regular el desarrollo urbano de los centros de población y la vivienda.
+La Secretaría de Desarrollo Urbano es la dependencia encargada del ordenamiento territorial de los asentamientos humanos y de regular el desarrollo urbano de los centros de población y la vivienda.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2002)</small>
 
 A esta Secretaría le corresponde el despacho de los siguientes asuntos:
 
@@ -1059,11 +1109,13 @@ XVIII. Coordinar las actividades operativas de las Coordinaciones Regionales de 
 
 XIX. Las demás que señalen las leyes, reglamentos y disposiciones relativas en el Estado.
 
-(REFORMADO, P.O. 10 DE DICIEMBRE DE 2002)(F. DE E., P.O. 31 DE ENERO DE 2003)
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 8 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 35.
 
-La Secretaría de Agua, Obra Pública e Infraestructura para el Desarrollo es la dependencia encargada de ejecutar las obras públicas a su cargo y de promover el desarrollo de la infraestructura hidráulica y eléctrica en la Entidad.
+La Secretaría de Agua y Obra Pública es la dependencia encargada de ejecutar las obras públicas a su cargo y de promover el desarrollo de la infraestructura hidráulica y eléctrica en la Entidad.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2002)</small>
 
 A esta Secretaría le corresponde el despacho de los siguientes asuntos:
 
@@ -1161,11 +1213,13 @@ XVI.- (DEROGADA, G.G. 16 DE DICIEMBRE DE 2004)
 
 XVII.- (DEROGADA, G.G. 16 DE DICIEMBRE DE 2004)
 
-> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 8 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 36 Bis.
 
-La Secretaría de Turismo y Desarrollo Artesanal es la dependencia encargada de regular, promover y fomentar el desarrollo turístico y artesanal del Estado.
+La Secretaría de Turismo es la dependencia encargada de regular, promover y fomentar el desarrollo turístico y artesanal del Estado.
+
+> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2004)</small>
 
 A esta Secretaría le corresponde el despacho de los siguientes asuntos:
 
@@ -1652,6 +1706,16 @@ G.G. 23 DE AGOSTO DE 2005.
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente decreto entrará en vigor a los quince días naturales siguientes al de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 8 DE DICIEMBRE DE 2005.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- En todos los ordenamientos legales en que se haga alusión a las Secretarías de Finanzas, Planeación y Administración; del Trabajo y de la Previsión Social; de Educación, Cultura y Bienestar Social; de Desarrollo Urbano y Vivienda; de Agua, Obra Pública e Infraestructura para el Desarrollo; y de Turismo y Desarrollo Artesanal, se entenderá que se refiere a las Secretarías de Finanzas; del Trabajo; de Educación; de Desarrollo Urbano; del Agua y Obra Pública; y de Turismo, respectivamente.
+
+CUARTO.- Se derogan todas las disposiciones legales que se opongan al presente ordenamiento.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 158 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA Y LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA”.]
 
