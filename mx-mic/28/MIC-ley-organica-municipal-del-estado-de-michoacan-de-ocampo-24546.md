@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-24546"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-12-31"
-last_updated: "2003-09-01"
+last_updated: "2005-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2005.
 
 Ley publicada en la Sección Décima del Periódico Oficial del Estado de Michoacán, el lunes 31 de diciembre de 2001.
 
@@ -1825,9 +1825,11 @@ El Congreso del Estado expedirá las disposiciones que determinen los procedimie
 
 Los Ayuntamientos fomentarán la participación ciudadana, con el propósito de fortalecer el régimen de democracia participativa, vincular permanentemente a gobernantes y gobernados y propiciar la colaboración directa y efectiva de los ciudadanos en el cumplimiento de sus fines, mediante el trabajo y la solidaridad en el desarrollo vecinal y cívico y para el beneficio colectivo del municipio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 118.
 
-El Ayuntamiento convocará y formará parte en la constitución, organización y funcionamiento de los organismos de participación ciudadana, cuyo objeto será contribuir a la elaboración, vigilancia y cumplimiento de los planes y programas del municipio, impulsar la colaboración y participación de sus habitantes y proponer al ayuntamiento alternativas de solución para los problemas de sus localidades o regiones.
+El Ayuntamiento, dentro de un período de noventa días naturales contados a partir de la fecha de instalación, convocará y participará en la constitución, organización y funcionamiento de los organismos de participación ciudadana, cuyo objeto será contribuir a la elaboración, vigilancia y cumplimiento de los planes y programas del Municipio, impulsar la colaboración y participación de sus habitantes y proponer al Ayuntamiento alternativas de solución para los problemas de sus localidades o regiones. Su ejercicio será por el período constitucional del ayuntamiento correspondiente.
 
 El procedimiento de integración, la designación de sus miembros y sus funciones, serán determinados por el ayuntamiento con la participación de las organizaciones sociales del municipio y se sujetará a la Ley de la materia.
 
@@ -2300,3 +2302,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las iniciativas de ley de ingresos municipales para el ejercicio fiscal 2004, deberán presentarse, por esta única vez, ante el Congreso del Estado, a más tardar el catorce de septiembre del presente año.
+
+P.O. 8 DE DICIEMBRE DE 2005.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Michoacán de Ocampo.
+
+Artículo Segundo.- Los ayuntamientos que a la fecha de entrada en vigor del presente Decreto no hayan constituido sus organismos de participación ciudadana, contarán con el término de novena (sic) días naturales para el efecto.
+
+Artículo Tercero.- Remítase el Decreto a los ayuntamientos del Estado, para su conocimiento.
