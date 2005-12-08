@@ -4,7 +4,7 @@ identifier: "LIVA"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-29"
-last_updated: "2005-06-28"
+last_updated: "2005-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=703&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIVA"
 
 LEY DEL IMPUESTO AL VALOR AGREGADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE DICIEMBRE DE 2005.
 
 ULTIMA MODIFICACION MISCELANEA FISCAL PUBLICADA EN DIARIO OFICIAL DE LA FEDERACION: 20 DE ENERO DE 2003.
 
@@ -402,7 +402,7 @@ El derecho al acreditamiento es personal para los contribuyentes del impuesto al
 
 (DEROGADO, D.O.F. 7 DE JUNIO DE 2005)
 
-###### Artículo 4o.-B.
+###### ARTICULO 4o.-B.
 
 (DEROGADO, D.O.F. 7 DE JUNIO DE 2005)
 
@@ -1126,9 +1126,23 @@ Tratándose de los supuestos previstos en los artículos 9o. y 15 de esta Ley, e
 
 La devolución en el caso de exportación de bienes tangibles procederá hasta que la exportación se consume, en los términos de la legislación aduanera. En los demás casos, procederá hasta que se cobre la contraprestación y en proporción a la misma.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 31.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1998)
+Los extranjeros con calidad de turistas de conformidad con la Ley General de Población que retornen al extranjero por vía aérea o marítima, podrán obtener la devolución del impuesto al valor agregado que les haya sido trasladado en la adquisición de mercancías, siempre que se reúnan los siguientes requisitos:
+
+I. Que el comprobante fiscal que expida el contribuyente reúna los requisitos que para tal efecto establezca el Servicio de Administración Tributaria mediante reglas de carácter general;
+
+II. Que las mercancías adquiridas salgan efectivamente del país, lo que se verificará en la aduana aeroportuaria o marítima, según sea el caso, por la que salga el turista, y
+
+III. Que el valor de las compras realizadas por establecimiento, asentado en el comprobante fiscal que presente el turista al momento de salir del territorio nacional, ampare un monto mínimo en moneda nacional de 1,200 pesos.
+
+El Servicio de Administración Tributaria establecerá las reglas de operación para efectuar las devoluciones a que se refiere el presente artículo y podrá otorgar concesión a los particulares para administrar dichas devoluciones, siempre que los servicios para efectuar la devolución no generen un costo para el órgano mencionado.
+
+En todo caso, la devolución que se haga a los extranjeros con calidad de turistas deberá disminuirse con el costo de administración que corresponda a las devoluciones efectuadas.
 
 ### CAPITULO VIII. DE LAS FACULTADES DE LAS AUTORIDADES
 
@@ -2029,3 +2043,7 @@ Tercero.- A partir de la entrada en vigor del presente Decreto, en el primer mes
 D.O.F. 28 DE JUNIO DE 2005.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 8 DE DICIEMBRE DE 2005.
+
+Único.- El presente Decreto entrará en vigor a partir del 1 de julio de 2006.
