@@ -4,7 +4,7 @@ identifier: "QUE-codigo-municipal-de-queretaro-11714"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-04"
-last_updated: "2005-07-01"
+last_updated: "2005-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CÓDIGO MUNICIPAL DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2005.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Querétaro, el jueves 9 de noviembre de 1995.
 
@@ -2431,9 +2431,7 @@ No se autorizará, en zonas habitacionales o colindantes a ellas, así como a ce
 
 ###### ARTICULO 230.
 
-Queda prohibida la colocación, pintado, pegado, etc., de anuncios comerciales, promocionales y de cualquier otro tipo, en la vía pública o en árboles dentro del territorio municipal.
-
-El Ayuntamiento designará los sitios para la colocación de anuncios, expedirá las autorizaciones correspondientes y establecerá los plazos de exhibición, así como los derechos a cubrir, a quienes soliciten esos espacios, todo anuncio que sea colocado fuera de los sitios autorizados, será removido de inmediato y el responsable se hará acreedor a la sanción correspondiente.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE ANUNCIOS PARA EL MUNICIPIO DE QUERETARO, P.O. 9 DE DICIEMBRE DE 2005)
 
 ###### ARTICULO 231.
 
@@ -3857,7 +3855,7 @@ II. Las prioridades de intervención que deberán respetarse en las edificacione
 
 III. Las restricciones para construcción, restauración, demolición, integración, excavación, ampliación, remodelación, tanto en edificios como en los espacios urbanos; y
 
-IV. En lo referente a anuncios, se observará lo dispuesto en el apartado respectivo de este Código.
+IV. (DEROGADA POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE ANUNCIOS PARA EL MUNICIPIO DE QUERETARO, P.O. 9 DE DICIEMBRE DE 2005)
 
 ###### ARTICULO 416.
 
@@ -6273,7 +6271,7 @@ El Ayuntamiento hará las gestiones ante las dependencias Federales y Estatales 
 
 ###### ARTICULO 728.
 
-Las características y especificaciones de los anuncios comerciales de los prestadores de servicios turísticos y de la ciudadanía en general, serán de acuerdo a las especificaciones que para tal efecto disponga el apartado décimo del libro tercero de este Código.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE ANUNCIOS PARA EL MUNICIPIO DE QUERETARO, P.O. 9 DE DICIEMBRE DE 2005)
 
 APARTADO DECIMO
 
@@ -8165,51 +8163,23 @@ Los usuarios que se consideren afectados por los actos administrativos dictados 
 
 ###### ARTICULO 988.
 
-Son infracciones a este apartado, las siguientes:
-
-I. Establecer o colocar, sin licencia, un anuncio;
-
-II. Omitir los avisos a que se refiere este apartado;
-
-III. Instalar, ampliar, modificar, reparar o retirar un anuncio de la categoría “C”, sin la participación de un Director Responsable de Obra;
-
-IV. Realizar actos referentes a anuncios, como Director Responsable de Obras, sin estar registrado ante la autoridad municipal;
-
-V. Establecer o colocar un anuncio cuyo contenido no se ajuste a los preceptos reglamentarios;
-
-VI. No cumplir con los requisitos que para cada categoría de anuncios o para cada anuncio particular, señala este apartado;
-
-VII. No observar las obligaciones que el presente apartado indica a los propietarios de un anuncio;
-
-VIII. Establecer o colocar un anuncio en un lugar prohibido;
-
-IX. Proporcionar en la solicitud de licencia: datos, información o documentos falsos; y
-
-X. Impedir u obstaculizar las visitas de inspección que realice la Autoridad Municipal o no suministrar los datos o informes que puedan exigir los inspectores.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE ANUNCIOS PARA EL MUNICIPIO DE QUERETARO, P.O. 9 DE DICIEMBRE DE 2005)
 
 ###### ARTICULO 989.
 
-Cuando los propietarios de anuncios, o los responsables solidarios, se opongan u obstaculicen el ejercicio de las facultades de la autoridad municipal, ésta podrá, indistintamente:
-
-I. Imponer multa de una a cincuenta veces el salario mínimo general vigente en el Municipio; y
-
-II. Solicitar el auxilio de la fuerza pública.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE ANUNCIOS PARA EL MUNICIPIO DE QUERETARO, P.O. 9 DE DICIEMBRE DE 2005)
 
 ###### ARTICULO 990.
 
-La autoridad municipal retirará, a costa del propietario de los solidarios responsables, una vez concedido y agotado el plazo mínimo de 24 horas para hacerlo, los anuncios que constituyan una ofensa a la moral o a las buenas costumbres y aquellos que por sus notorias condiciones de inseguridad, representen un peligro inminente.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE ANUNCIOS PARA EL MUNICIPIO DE QUERETARO, P.O. 9 DE DICIEMBRE DE 2005)
 
 ###### ARTICULO 991.
 
-En los casos de reincidencia, se duplicará la última multa impuesta, sin que su monto exceda del triple del máximo fijado como multa a la infracción.
-
-Se entiende como reincidencia, cada una se las subsecuentes infracciones de especie semejante, cometidas dentro de los dos años siguientes a la fecha del acta en que se hizo constar la infracción precedente.
-
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE ANUNCIOS PARA EL MUNICIPIO DE QUERETARO, P.O. 9 DE DICIEMBRE DE 2005)
 
 ###### ARTICULO 992.
 
-Los afectados por la imposición de alguna de las sanciones previstas en el presente capítulo, podrán interponer los medios de impugnación señalados en el título sexto de la Ley de Procedimientos Administrativos para el Estado y Municipios.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE ANUNCIOS PARA EL MUNICIPIO DE QUERETARO, P.O. 9 DE DICIEMBRE DE 2005)
 
 ### CAPITULO I. Disposiciones Generales
 
@@ -8596,3 +8566,23 @@ QUINTO. Se instruye a la Secretaría de Administración a que en coordinación c
 SEXTO. Se deroga el punto sexto de la fracción I del Artículo 76 del Código Municipal de Querétaro.
 
 SÉPTIMO. Notifíquese a la Secretaría de Servicios Públicos Municipales, Secretaría General de Gobierno Municipal, Secretaría de Desarrollo Sustentable, Secretaría de Administración, Secretaría de Economía y Finanzas y Tesorería Municipal y a la Auditoría Superior de Fiscalización del Municipio de Querétaro.
+
+P.O. 9 DE DICIEMBRE DE 2005.
+
+PRIMERO. Publíquese en la Gaceta Municipal y en el Periódico Oficial del Gobierno del Estado "LA Sombra de Arteaga".
+
+SEGUNDO. El presente Reglamento entrará en vigor el día siguiente al de su publicación en los medios de difusión precisados en el transitorio anterior.
+
+TERCERO. Se abroga el Reglamento de Anuncios para el Municipio de Querétaro, publicado en la "Gaceta Municipal", el veintitrés de septiembre del año dos mil.
+
+CUARTO. Se derogan los artículos 230, 415 fracción IV, 728, 988 al 992 del Código Municipal de Querétaro; 32 fracción XVI del Reglamento para el Almacenaje, Venta, Porte y Consumo de Bebidas Alcohólicas en el Municipio de Querétaro; 126 y la fracción XIII de la Sección 20 del Reglamento de Construcción para el Municipio de Querétaro, así como todos aquellos preceptos legales de igual o menor jerarquía que se opongan al presente Reglamento.
+
+QUINTO. Los propietarios de anuncios no autorizados, deberán iniciar los trámites para su regularización, en los términos del presente reglamento, en un plazo no mayor a veinte días hábiles, contados a partir de la entrada en vigencia del mismo.
+
+SEXTO. Se instruye a la Secretaría de Desarrollo Sustentable a que elabore un programa de actualización de datos y registro de anuncios que por sus características deban ser regulados por el presente reglamento.
+
+SÉPTIMO. Los procedimientos o recursos administrativos, que se hubieren iniciado con anterioridad a la entrada en vigencia del presente ordenamiento, se tramitarán y resolverán conforme a los preceptos que los originaron.
+
+OCTAVO. Las licencias y permisos para la colocación de anuncios expedidos con anterioridad al presente reglamento, se sujetarán a los términos y condiciones en que se hayan autorizado y hasta el término de su vigencia.
+
+NOVENO. Notifíquese a los titulares de la Secretaría de Desarrollo Sustentable del Municipio de Querétaro, Secretaría General de Gobierno, Secretaría de Economía y Finanzas y Tesorería Municipal, Secretaría de Gestión Delegacional y Delegaciones Municipales, Dirección de Desarrollo Urbano Municipal, Dirección de Desarrollo Urbano Municipal, Dirección General Jurídica y Dirección de Inspección.
