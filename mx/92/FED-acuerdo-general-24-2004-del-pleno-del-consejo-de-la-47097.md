@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-24-2004-del-pleno-del-consejo-de-la-47097"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2004-04-23"
-last_updated: "2004-04-23"
+last_updated: "2005-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47097&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-04-14"
 
 ACUERDO GENERAL 24/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE FIJA LAS BASES PARA LA DESINCORPORACION DE TODA CLASE DE BIENES MUEBLES EN EL CONSEJO DE LA JUDICATURA FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE DICIEMBRE DE 2005.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 23 de abril de 2004.
 
@@ -47,9 +47,11 @@ ACUERDO
 
 ### CAPITULO I. GENERALIDADES
 
+> <small>(REFORMADO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 50/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 1.
 
-OBJETO.- El presente acuerdo general tiene por objeto establecer las reglas de carácter general que deben observarse para la desincorporación de los bienes muebles propiedad del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral.
+OBJETO.- El presente acuerdo general tiene por objeto establecer las reglas de carácter general que deben observarse para la desincorporación de los bienes muebles al servicio del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral.
 
 ###### Artículo 2.
 
@@ -65,7 +67,9 @@ IV. Pleno: El Pleno del Consejo;
 
 V. Comisión: La Comisión de Administración del Consejo;
 
-VI. Secretaría Ejecutiva: La Secretaría Ejecutiva de Administración del Consejo;
+> <small>(REFORMADA POR EL ARTICULO UNICO DEL ACUERDO GENERAL 50/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
+
+VI. Secretaría Ejecutiva: La Secretaría Ejecutiva de Obra, Recursos Materiales y Servicios Generales del Consejo;
 
 VII. Finanzas: La Secretaría Ejecutiva de Finanzas del Consejo;
 
@@ -79,11 +83,13 @@ XI. Unidades Administrativas: Las áreas administrativas que integran al Consejo
 
 XII. Organos Jurisdiccionales: Los tribunales de Circuito y juzgados de Distrito del Poder Judicial de la Federación;
 
-XIII. Defensoría: Instituto Federal de Defensoría Pública;
+> <small>(REFORMADA POR EL ARTICULO UNICO DEL ACUERDO GENERAL 50/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
 
-XIV. Instituto: El Instituto de la Judicatura Federal;
+XIII. Organos Auxiliares: El Instituto Federal de Defensoría Pública; el Instituto de la Judicatura Federal, la Visitaduría Judicial y la Contraloría del Poder Judicial de la Federación;
 
-XV. Visitaduría: La Visitaduría Judicial;
+XIV. (DEROGADA POR EL ARTICULO UNICO DEL ACUERDO GENERAL 50/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE DICIEMBRE DE 2005)
+
+XV. (DEROGADA POR EL ARTICULO UNICO DEL ACUERDO GENERAL 50/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE DICIEMBRE DE 2005)
 
 XVI. Contratista: La persona física o moral con la que se celebren contratos;
 
@@ -109,9 +115,19 @@ XXV. Vida útil: Tiempo de uso según norma del fabricante, régimen fiscal, tec
 
 XXVI. Lista: Lista de precios mínimos para desechos de bienes muebles que generen las dependencias y entidades de la Administración Pública Federal;
 
-XXVII. Asesores: Persona o personas que prestarán asesoría al Comité; y,
+XXVII. Asesores: Persona o personas que prestarán asesoría al Comité; y (sic),
 
-XXVIII. Desechos: Desperdicio.
+> <small>(REFORMADA POR EL ARTICULO UNICO DEL ACUERDO GENERAL 50/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
+
+XXVIII. Desechos: Los bienes muebles que por sus condiciones físicas se consideran desperdicios;
+
+> <small>(ADICIONADA POR EL ARTICULO UNICO DEL ACUERDO GENERAL 50/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
+
+XXIX. Mantenimiento: Acción tendiente a proveer a un bien de lo necesario para lograr su conservación y alargar su vida útil;
+
+> <small>(ADICIONADA POR EL ARTICULO UNICO DEL ACUERDO GENERAL 50/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
+
+XXX. Rehabilitación costeable y conveniente: Aquélla reparación del bien que no exceda el cincuenta por ciento de su valor comercial.
 
 ###### Artículo 3.
 
@@ -123,15 +139,19 @@ II. Cuando los bienes muebles por su estado físico, derivado de accidentes, det
 
 III. También deberán desincorporarse aquellos bienes muebles que hayan sido robados, extraviados o dañados por siniestros, accidentes o deterioro acelerado.
 
+> <small>(REFORMADO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 50/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 4.
 
-REASIGNACION, REHABILITACION O REAPROVECHAMIENTO.- La reasignación, rehabilitación o reaprovechamiento de los bienes, en el Distrito Federal y zona metropolitana corresponderán a las Direcciones Generales de Inmuebles y Mantenimiento, Informática y Recursos Materiales y Servicios Generales en el ámbito de sus atribuciones; en las demás Entidades Federativas corresponderá a los Administradores Regionales y Delegados Administrativos, según se trate.
+REASIGNACION, REHABILITACION O REAPROVECHAMIENTO.- La reasignación, rehabilitación o reaprovechamiento de los bienes, en el Distrito Federal y zona metropolitana corresponderán a las Direcciones Generales de Inmuebles y Mantenimiento, Informática y Recursos Materiales y Servicios Generales en el ámbito de sus atribuciones; en las demás Entidades Federativas corresponderá a la Dirección General de Administración Regional, por conducto de los Administradores Regionales y Delegados Administrativos, según se trate.
 
-Cuando el bien no resulte funcional para el servicio al cual se le destinó, se determine que se trata de bienes de nulo movimiento, pero por su estado de conservación se encuentre en condiciones de uso o consumo, se verificará los requerimientos de otras áreas usuarias para su posible aprovechamiento.
+Las Direcciones Generales de Recursos Materiales y Servicios Generales, Inmuebles y Mantenimiento y de Informática del Consejo de la Judicatura Federal, auxiliaran a las demás áreas del Consejo en la emisión de los dictámenes técnicos que les soliciten y en su caso realizando las altas y bajas que éstas le indiquen en los inventarios que tengan a su cargo
 
-Asimismo, cuando el bien no resulte útil por encontrarse deteriorado o por ser obsoleto, deberá considerarse la posibilidad de su rehabilitación o modernización, de ser éstas posibles, costeables y convenientes.
+Cuando el bien no resulte funcional para el servicio al cual se le destinó, o se determine su nulo movimiento, pero por su estado de conservación se encuentre en condiciones de uso o consumo, se comunicará a la Dirección General de Recursos Materiales y Servicios Generales o a la Dirección General de Informática, tratándose de bienes informáticos, para que verifiquen los requerimientos de otras áreas usuarias para su posible aprovechamiento.
 
-La reasignación, rehabilitación o reaprovechamiento que realicen las Administraciones Regionales y Delegaciones Administrativas se deberán de informar en un plazo no mayor de quince días naturales al área operativa que corresponda.
+Asimismo, cuando el bien no resulte útil por encontrarse deteriorado o por ser obsoleto, deberá considerarse la posibilidad de su rehabilitación, de ser ésta costeable y conveniente. Las Direcciones Generales de Recursos Materiales y Servicios Generales y de Informática, según corresponda, emitirán las circulares donde señalen los criterios para que las áreas operativas puedan determinar si es costeable su rehabilitación, modernización o reaprovechamiento, las que en caso de cualquier duda podrán acudir por escrito a las primeras para que determinen su viabilidad.
+
+Antes de iniciar las áreas operativas algún procedimiento para la desincorporación de bienes muebles, deberán verificar que dichos bienes no sean susceptibles de reasignarse, rehabilitarse o reaprovecharse.
 
 ### CAPITULO II. DEL COMITE DE DESINCORPORACION DE BIENES
 
@@ -139,21 +159,27 @@ La reasignación, rehabilitación o reaprovechamiento que realicen las Administr
 
 DE SU CREACION.- A fin de contar con un cuerpo multidisciplinario dedicado específicamente a la enajenación de bienes que requiera realizar el Consejo, se establece con carácter de permanente el Comité, al que se le otorgan las atribuciones precisadas en el presente acuerdo general, sin perjuicio de que el Pleno o la Comisión las ejerzan de manera directa en cualquier momento.
 
+> <small>(REFORMADO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 50/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 6.
 
 DE SU INTEGRACION.- El Comité estará integrado en los siguientes términos:
 
-Presidente: El Secretario Ejecutivo de Administración.
+Presidente: El Secretario Ejecutivo de Obra, Recursos Materiales y Servicios Generales.
 
 Vocales: El Secretario Ejecutivo de Finanzas y el Director General de Asuntos Jurídicos.
 
-Secretario: Un secretario técnico de la Secretaría Ejecutiva de Administración, que auxiliará al Comité en lo administrativo.
+Los citados integrantes tendrán derecho a voz y voto durante las sesiones.
 
-Contralor: El Contralor del Poder Judicial de la Federación, con carácter permanente.
+Secretario: Al secretario técnico de la Secretaría Ejecutiva de Obra, Recursos Materiales y Servicios Generales, que auxiliará al Comité en lo administrativo;
 
-Asesores: Los servidores públicos que presten asesoría al Comité en al ámbito de su competencia o en la profesión u oficio que desempeñen, según sea el caso. Los asesores no deberán firmar ningún documento que contenga cualquier decisión inherente a las funciones de dicho Comité, por lo que únicamente suscribirán las actas de cada sesión como constancia de su participación.
+Contralor: El Contralor del Poder Judicial de la Federación con carácter permanente;
 
-Sólo el Presidente y los Vocales tendrán derecho a voz y voto durante las sesiones.
+Invitados: Podrán ser invitados los servidores públicos que en razón de su competencia, profesión u oficio que desempeñen, puedan aportar sus conocimientos, experiencias y consejo para la resolución de los asuntos de la responsabilidad del Comité.
+
+El Secretario Técnico de la Comisión de Administración tendrá el carácter de invitado permanente a las sesiones del Comité con derecho a voz.
+
+Los invitados solo tendrán voz, a petición expresa de alguno de los miembros del Comité, cuando se trate algún asunto específico para el cual fueren invitados.
 
 ###### Artículo 7.
 
@@ -167,7 +193,9 @@ III. Determinar a la persona física o moral a quien se le adjudicarán los bien
 
 IV. Establecer criterios para que el Consejo obtenga las mejores condiciones en los procedimientos de desincorporación que lleve a cabo;
 
-V. Dictaminar si procede o no la celebración de licitaciones públicas o invitaciones a cuando menos tres concursantes, y en caso de excepción, cuando sean urgentes y derivados de caso fortuito o fuerza mayor, determinando las medidas para su solución; y,
+> <small>(REFORMADA POR EL ARTICULO UNICO DEL ACUERDO GENERAL 50/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
+
+V. Dictaminar la improcedencia de celebrar licitaciones públicas o invitaciones a cuando menos tres concursantes, en casos de excepción, urgentes o derivados de caso fortuito o fuerza mayor, determinando las medidas para su solución; y,
 
 VI. Informar semestralmente sobre el ejercicio de sus funciones a la Comisión.
 
@@ -265,7 +293,7 @@ IV. La convocatoria a la sesión se notificará a sus miembros con tres días h�
 
 V. De cada sesión se levantará un acta con los acuerdos tomados, la cual será suscrita por los integrantes asistentes;
 
-VI. Los asuntos que se sometan a la consideración del Comité, se presentarán enlistados (sic) que contengan la información resumida de los casos que se dictaminen en cada sesión;
+VI. Los asuntos que se sometan a la consideración del Comité, se presentarán enlistados que contengan la información resumida de los casos que se dictaminen en cada sesión;
 
 VII. El Comité periódicamente presentará los informes requeridos de los asuntos tratados y de los que tenga conocimiento con motivo de su ámbito de competencia a la Comisión o al Pleno, con la periodicidad que éstos determinen; y,
 
@@ -321,9 +349,13 @@ según se trate.
 
 PROCEDIMIENTO.- El procedimiento de desincorporación se substanciará por las Areas Operativas en su ámbito de competencia:
 
-I. El órgano jurisdiccional o unidad administrativa que tiene asignado un bien, lo pone a disposición de las Areas Operativas;
+> <small>(REFORMADA POR EL ARTICULO UNICO DEL ACUERDO GENERAL 50/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
 
-II. Las Areas Operativas determinan la reasignación o desincorporación de los bienes;
+I. El órgano jurisdiccional, el órgano auxiliar y la unidad administrativa que tenga asignado un bien, lo ponen a disposición de las Areas Operativas;
+
+> <small>(REFORMADA POR EL ARTICULO UNICO DEL ACUERDO GENERAL 50/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
+
+II. Las Areas Operativas determinan la procedencia de la rehabilitación y en su caso reasignarán o desincorporarán los bienes objeto del presente acuerdo, mediante el formato de dictamen técnico que se autorice por el Comité;
 
 III. Abrirán un expediente y recabará la documentación correspondiente;
 
@@ -331,7 +363,9 @@ IV. Recabarán el valor del bien o lote de bienes, conforme a los criterios señ
 
 V. Someterán a la autorización del Comité los procedimientos que por su monto le corresponda analizar;
 
-VI. Con base al destino final señalado en la autorización y una vez efectuado el procedimiento de enajenación, efectuará los trámites conducentes para solicitar la baja administrativa del bien o bienes de los inventarios a cargo de las Direcciones Generales de Recursos Materiales y Servicios Generales y de Programación y Presupuesto, respectivamente; y,
+> <small>(REFORMADA POR EL ARTICULO UNICO DEL ACUERDO GENERAL 50/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
+
+VI. Con base al destino final señalado en la autorización y una vez efectuado el procedimiento de enajenación, realizará los trámites conducentes para solicitar la baja administrativa del bien o bienes de los inventarios a la Dirección General de Recursos Materiales y Servicios Generales, así como a la Dirección General de Informática, según sea el caso, y éstas a la de Programación y Presupuesto, y
 
 VII. Llevarán a cabo los trámites señalados en el presente acuerdo general para el destino final del bien o bienes.
 
@@ -359,13 +393,19 @@ I. Enajenación;
 
 II. Donación;
 
-III. Desechos; y,
+> <small>(REFORMADA POR EL ARTICULO UNICO DEL ACUERDO GENERAL 50/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
+
+III. Enajenación como desechos, y
 
 IV. Cualquier otro que determine el Comité.
 
-El destino final de los bienes tratándose de los señalados en las fracciones I y II se hará constar en un acta de entrega-recepción que elaborarán las Areas Operativas, además del instrumento jurídico que resulte aplicable.
+> <small>(REFORMADO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 50/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
 
-En los casos previstos en las fracciones anteriores, las Areas Operativas que realicen la desincorporación deberán dar aviso al área normativa que corresponda, de los bienes desincorporados para baja de sus registros.
+El destino final de los bienes tratándose de los señalados en las fracciones I, II y III se hará constar en un acta de entrega-recepción que elaborarán las Areas Operativas, además del instrumento jurídico que resulte aplicable, el cual deberá atender al correspondiente formato autorizado por la Dirección General de Asuntos Jurídicos.
+
+> <small>(REFORMADO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 50/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
+
+En los casos previstos en las fracciones anteriores, las áreas operativas que realicen la desincorporación deberán dar aviso a la Dirección General de Recursos Materiales y Servicios Generales, así como a la Dirección General de Informática, según sea el caso, respecto de los bienes desincorporados con la finalidad que tenga lugar la baja de sus registros y para los efectos a que haya lugar.
 
 ###### Artículo 17.
 
@@ -389,7 +429,9 @@ I. Licitación Pública: Excede del equivalente a seis mil días de salario mín
 
 II. Invitación a cuando menos tres personas: Superior al equivalente a quinientos días de salario mínimo y menor al equivalente a seis mil días de salario mínimo; y,
 
-III. Adjudicación Directa: El equivalente a quinientos días de salario mínimo.
+> <small>(REFORMADA POR EL ARTICULO UNICO DEL ACUERDO GENERAL 50/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
+
+III. Adjudicación Directa: Hasta el equivalente a quinientos días de salario mínimo.
 
 El Consejo podrá enajenar bienes sin sujetarse al procedimiento de licitación pública o invitación a cuando menos tres personas, cuando ocurran condiciones o circunstancias extraordinarias, imprevisibles, o situaciones de emergencia, a través del procedimiento de adjudicación directa.
 
@@ -429,7 +471,9 @@ II. Entre el último día de venta de bases y el acto de apertura de propuestas 
 
 III. En caso de que se requiera la visita al lugar donde se encuentran los bienes, será celebrada dentro de los cinco días hábiles siguientes al último día de venta de bases, mediando un plazo mínimo de cinco días hábiles entre su celebración y el acto de apertura de propuestas;
 
-IV. Para la emisión del informe ejecutivo deberá mediar un plazo máximo de veinte días hábiles contados a partir de la fecha en que tenga verificativo el acto de apertura de propuestas técnicas. En casos excepcionales y por la complejidad de la licitación, a juicio del Comité, el plazo podrá prorrogarse hasta por veinte días hábiles adicionales; y,
+> <small>(REFORMADA POR EL ARTICULO UNICO DEL ACUERDO GENERAL 50/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
+
+IV. Para la emisión del informe ejecutivo deberá mediar un plazo máximo de veinte días hábiles contados a partir de la fecha en que tenga verificativo el acto de apertura de propuestas económicas. En casos excepcionales y por la complejidad de la licitación, a juicio del Comité, el plazo podrá prorrogarse hasta por veinte días hábiles adicionales; y,
 
 V. Entre la presentación del informe ejecutivo al Comité y la emisión del fallo, mediará un plazo máximo de diez días hábiles.
 
@@ -463,15 +507,21 @@ XII. Indicación de que la garantía de seriedad de las ofertas se hará efectiv
 
 XIII. Incluir un señalamiento relativo a una declaración de integridad, de tal manera que los licitantes al presentar las bases firmadas acepten, bajo protesta de decir verdad, de que se abstendrán de adoptar conductas, por sí mismos o a través de interpósita persona para que los servidores públicos de la dependencia, induzcan o alteren la evaluación de las ofertas, el resultado del procedimiento, u otros aspectos que otorguen condiciones más ventajosas con relación a los demás participantes; y,
 
-XIV. La indicación de que no podrán participar las personas que se encuentren en alguno de los supuestos del artículo 8 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, salvo que se trate de invitaciones internas.
+> <small>(REFORMADA POR EL ARTICULO UNICO DEL ACUERDO GENERAL 50/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
+
+XIV. La indicación de que no podrán participar las personas que se encuentren en alguno de los supuestos del artículo 8 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+
+> <small>(REFORMADO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 50/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 22.
 
-INCUMPLIMIENTO DEL LICITANTE GANADOR.- En caso de que el licitante ganador incumpla con el pago de los bienes, el Consejo hará efectiva la garantía correspondiente y podrá adjudicar dichos bienes sin necesidad de un nuevo procedimiento al participante que haya presentado la siguiente mejor oferta, y así sucesivamente, hasta la tercer mejor oferta siempre que la diferencia de esta última no exceda al diez por ciento de la oferta inicialmente ganadora.
+INCUMPLIMIENTO DEL LICITANTE GANADOR.- En caso de que el licitante ganador incumpla con el pago de los bienes, el Consejo hará efectiva la garantía correspondiente y podrá adjudicar dichos bienes sin necesidad de un nuevo procedimiento al participante que haya presentado la siguiente mejor oferta, y así sucesivamente, hasta la tercer mejor oferta siempre que esta última no este por debajo de los precios mínimos señalados en las bases del concurso.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 23.
 
-GARANTIAS.- En los procedimientos de enajenación por licitación pública, el Consejo exigirá de los interesados en adquirir bienes, que garanticen la seriedad de sus ofertas mediante cheque certificado o de caja a favor de la Tesorería de la Federación.
+GARANTIAS.- En los procedimientos de enajenación por licitación pública, el Consejo exigirá de los interesados en adquirir bienes, que garanticen la seriedad de sus ofertas mediante cheque certificado o de caja a favor del Poder Judicial de la Federación.
 
 El monto de la garantía será por el diez por ciento del precio mínimo o de avalúo, la que será devuelta a los interesados al término del acto de fallo, salvo aquella que corresponda al licitante ganador, la cual se retendrá a título de garantía del cumplimiento del pago de los bienes adjudicados y su importe se podrá aplicar a la cantidad que se hubiere obligado a cubrir.
 
@@ -503,7 +553,9 @@ Una vez declarada desierta la licitación se efectuará la enajenación mediante
 
 En ambos casos, previo a la realización del procedimiento, se solicitará autorización al Comité mediante el informe ejecutivo antes referido.
 
-Tratándose de licitaciones en las que una o varias partidas se declaren desiertas en virtud de los supuestos antes enunciados, se procederá a su enajenación mediante adjudicación directa o bien, cuando proceda por su monto.
+> <small>(REFORMADO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 50/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
+
+Tratándose de licitaciones en las que una o varias partidas se declaren desiertas, en virtud de los supuestos antes enunciados, se procederá a su enajenación mediante adjudicación directa, o bien, invitación restringida, según proceda en razón del monto.
 
 El Comité podrá cancelar una licitación por caso fortuito o fuerza mayor, o cuando existan circunstancias debidamente justificadas que extingan la necesidad para enajenar bienes, y que de continuarse con el procedimiento pudiera ocasionar un daño o perjuicio al Consejo. En tal caso, se efectuará a los licitantes el reembolso de gastos debidamente justificados y comprobables.
 
@@ -529,7 +581,9 @@ I. En la invitación se señalará el lugar, horario y plazo en que deberán ser
 
 II. Las propuestas serán recibidas en sobres cerrados por el área que determinen las Areas Operativas, según corresponda; y,
 
-III. Para la apertura de las propuestas, invariablemente asistirá la Contraloría y, de considerarse necesario, la Dirección General de Asuntos Jurídicos.
+> <small>(REFORMADA POR EL ARTICULO UNICO DEL ACUERDO GENERAL 50/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
+
+III. Para la apertura de las propuestas, invariablemente asistirá un representante de la Contraloría y, de considerarse necesario, uno de la Dirección General de Asuntos Jurídicos.
 
 Los plazos para la presentación de las propuestas se fijarán en cada operación atendiendo a la complejidad para elaborar las ofertas.
 
@@ -561,9 +615,9 @@ II. Que ninguna de las propuestas presentadas reúna los requisitos establecidos
 
 III. Que las ofertas presentadas estén por debajo del precio mínimo señalados en las bases del concurso;
 
-IV. Que en el acto de apertura de propuestas técnicas no hayan presentado la totalidad de documentos solicitados cuando menos dos concursantes; y,
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCION V] POR EL ARTICULO UNICO DEL ACUERDO GENERAL 50/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
 
-V. Por razones de interés general.
+IV. Por razones de interés general.
 
 Una vez declarada desierta la invitación restringida, las Areas Operativas, según corresponda, indicarán en el informe ejecutivo el procedimiento mediante el cual se propone adjudicar a efecto de que el Comité lo autorice.
 
@@ -581,53 +635,63 @@ III. Que la contratación sea urgente debido a caso fortuito o fuerza mayor, ind
 
 ### CAPITULO VIII. VENTA A EMPLEADOS
 
+> <small>(REFORMADO PRIMER PARRAFO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 50/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 33.
 
-DE LAS VENTAS INTERNAS.- Las Areas Operativas podrán enajenar dichos bienes en favor de sus servidores públicos, mediante invitación o subasta, cumpliendo las condiciones siguientes:
+DE LAS VENTAS INTERNAS.- Las Areas Operativas antes de realizar cualquiera de los procedimientos de enajenación a que se refieren las fracciones I, II y III del artículo 17 de este Acuerdo, deberán, de conformidad a las características de los bienes, promover su enajenación en favor de los servidores públicos del Poder Judicial de la Federación, mediante invitación o subasta, cumpliendo las condiciones siguientes:
 
 a) Invitaciones:
 
-I. Aquellos bienes muebles que no puedan ser utilizados en otros órganos jurisdiccionales, unidades administrativas o auxiliares, se ofrecerán en venta al personal del Consejo de la Judicatura Federal, con la restricción de que sólo podrán adquirir hasta un máximo de cuatro bienes y no más de dos similares por comprador, deberán estar adscritos a la ciudad donde se efectúe la venta y, en caso de que puedan distinguirse los bienes, únicamente aquellos servidores públicos que pertenezcan al órgano jurisdiccional que lo tenía;
+> <small>(REFORMADA POR EL ARTICULO UNICO DEL ACUERDO GENERAL 50/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
+
+I. Los bienes muebles que no puedan ser reasignados o rehabilitados, se ofrecerán en venta al personal del Poder Judicial de la Federación, con la restricción de que sólo podrán adquirir hasta un máximo de cuatro bienes y no más de dos similares por comprador y deberán encontrarse adscritos a la ciudad donde se efectúe la venta; en caso de que puedan distinguirse los bienes, únicamente participarán aquellos servidores públicos que pertenezcan al órgano jurisdiccional o unidad administrativa a la cual estaba asignado.
+
+Los vehículos podrán ser enajenados directamente a los servidores públicos que los hayan tenido asignados, concediéndoles un plazo máximo de cinco días hábiles para que manifiesten si se encuentran interesados en adquirirlos, de acuerdo a la fórmula de valuación a que se refiere el artículo 34, fracción I de este Acuerdo General.
 
 II. En caso de que existan varios interesados en el mismo bien, se dará preferencia al primero que haya presentado su solicitud de compra;
 
 III. Los bienes tendrán que ser identificados previamente por un avalúo; y,
 
-IV. La convocatoria, las bases y la relación de los bienes objeto de la invitación deberán difundirse simultáneamente a través de la página Intranet y en un lugar visible de todas las áreas y centros de trabajo del Consejo ubicados en la ciudad donde se efectúe la venta.
+> <small>(REFORMADA POR EL ARTICULO UNICO DEL ACUERDO GENERAL 50/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
+
+IV. La convocatoria, las bases y la relación de los bienes objeto de la invitación, podrán difundirse, en su caso, a través de la página Intranet, pero siempre deberán fijarse en un lugar visible en los centros de trabajo del Poder Judicial de la Federación donde se efectúe la venta.
 
 b) Subasta
 
-I. En la subasta interna podrán participar todos los servidores públicos adscritos en el Consejo con excepción de aquellos que intervengan en los distintos actos de la subasta;
+> <small>(REFORMADA POR EL ARTICULO UNICO DEL ACUERDO GENERAL 50/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
+
+I. En la subasta interna podrán participar todos los servidores públicos del Poder Judicial de la Federación con excepción de aquellos que intervengan en la elaboración y realización de los distintos actos de la subasta;
 
 II. En el caso de que dos o más ofertas económicas coincida, el Consejo adjudicará los bienes al participante de mayor antigüedad en la institución; y,
 
-III. La convocatoria, las bases y la relación de los bienes objeto de la subasta deberán difundirse simultáneamente a través de la página en Intranet y en un lugar visible de todas las áreas y centros de trabajo del Consejo ubicados en la ciudad donde se efectúe la venta.
+> <small>(REFORMADA POR EL ARTICULO UNICO DEL ACUERDO GENERAL 50/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
+
+III. La convocatoria, las bases y la relación de los bienes objeto de la subasta podrá difundirse en su caso a través de la página en Intranet y deberá fijarse en un lugar visible de todas las áreas y centros de trabajo del Poder Judicial de la Federación ubicados en la ciudad donde se efectúe la venta.
+
+Una vez realizados los procedimientos antes señalados, si quedasen vehículos sin haberse enajenado, se podrá solicitar al Comité, la autorización de un nuevo procedimiento de enajenación, y en su caso, que el precio de venta se disminuya hasta en un tercio sobre el valor avalúo.
+
+> <small>(REFORMADO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 50/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 34.
 
-VENTA DE VEHICULOS.- Para el caso de vehículos, la determinación del precio mínimo correspondiente, será:
+VENTA DE VEHICULOS.- Para el caso de vehículos, la determinación del precio mínimo correspondiente, considerará lo siguiente:
 
-I. Vehículos en uso a través de la Guía EBC;
+I. Salvo la excepción que se establece en la fracción II, el valor se determinará tomando en cuenta el avalúo que se obtenga, el cual será promediado con el valor mínimo del libro EBC (libro azul). Solamente en los casos en que la venta se realice a favor de los servidores públicos que los hayan tenido asignados, se aplicará un 25% de descuento al precio así determinado, como prestación laboral, sujeta a las obligaciones fiscales correspondientes.
 
-II. Vehículos en mal estado mediante avalúo;
+II. Solamente cuando los vehículos no se encuentren en condiciones de operación o de funcionamiento y por su estado físico se consideren desecho ferroso vehicular, la determinación de su precio mínimo deberá obtenerse con base en la lista de precios mínimos para desechos de bienes muebles que generen las dependencias y entidades de la Administración Pública Federal, que publica en el Diario Oficial de la Federación la Secretaría de la Función Pública.
 
-III. Aplicar la Guía EBC (Libro Azul), edición mensual que corresponda, a fin de establecer el precio promedio de los vehículos, el cual se obtendrá de la suma del precio de venta y el precio de compra dividido entre dos;
-
-IV. Cuando se trate de vehículos cuyos precios de compra y venta no aparezcan en la Guía EBC (Libro Azul), o bien, los que debido al servicio al cual estaban destinados hayan sufrido modificaciones y sus características no estén plenamente identificadas en la mencionada guía su valor será determinado mediante avalúo;
-
-V. Cuando los vehículos no se encuentren en condiciones de operación o de funcionamiento y por su estado físico se consideren como desecho ferroso vehicular, la determinación de su precio mínimo deberá obtenerse con base en la lista de precios mínimos para desechos de bienes muebles que generen las dependencias y entidades de la Administración Pública Federal que emite la Secretaría de la Función Pública y que se publica bimestralmente en el Diario Oficial de la Federación; y,
-
-VI. En el supuesto de que los vehículos se encuentren con los motores desbielados, las transmisiones o tracciones dañadas o que para su uso se requiera efectuar reparaciones mayores, el valor correspondiente se determinará a través de la práctica de avalúo.
+> <small>(REFORMADO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 50/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 35.
 
-ENDOSO EN LA VENTA DE VEHICULOS.- Cuando se trate de la venta de vehículos, además se entregará la factura original endosada por el Secretario Ejecutivo de Administración u otro servidor público que cuente con las facultades para ello, a favor del participante ganador o del servidor público adjudicado, además de los comprobantes originales de pago de tenencias por los últimos cinco ejercicios fiscales, la tarjeta de circulación con el cambio de propietario a favor del participante ganador y el comprobante de la última verificación de contaminantes. Los gastos por concepto del traslado, retiro y cambio de propietario del vehículo adjudicado serán por cuenta del participante ganador.
+ENDOSO EN LA VENTA DE VEHICULOS.- Cuando se trate de la venta de vehículos, además se entregará la factura original endosada por el Secretario Ejecutivo de Obra, Recursos Materiales y Servicios Generales o por el Director General de Recursos Materiales y Servicios Generales, a favor del participante ganador o del servidor público adjudicado, además de los comprobantes originales de pago de tenencias, la tarjeta de circulación y el comprobante de la última verificación de contaminantes. Los gastos por concepto del traslado, retiro y cambio de propietario del vehículo adjudicado serán por cuenta del participante ganador.
+
+> <small>(REFORMADO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 50/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 36.
 
-DONACION.- La donación de bienes susceptibles de desincorporar a asociaciones o instituciones de asistencia, de beneficencia, educativas y culturales, a quienes atiendan la prestación de cualquier servicio de carácter social; o bien, a beneficiarios de algún servicio público asistencial, legalmente constituidas, procederá previa autorización, de conformidad con el artículo 13 del presente acuerdo general.
-
-Para designar al donatario en el Distrito Federal y zona metropolitana, se determinará previa opinión del Secretario Ejecutivo; en las demás Entidades Federativas, se considerará la opinión del Administrador Regional o el Delegado Administrativo del Estado que corresponda.
+DONACION.- La donación de bienes susceptibles de desincorporar a favor de asociaciones o instituciones de asistencia, de beneficencia, educativas y culturales, o de quienes atiendan la prestación de cualquier servicio de carácter social; o bien, a beneficiarias de algún servicio público asistencial, legalmente constituidas, procederá previa autorización de la Comisión de Administración.
 
 ###### Artículo 37.
 
@@ -643,6 +707,58 @@ DESECHOS PERIODICOS.- Tratándose de desechos generados periódicamente, el Cons
 
 En estos casos debe pactarse la obligación de ajustar los precios en forma proporcional a las variaciones que se presenten, considerando la disminución o aumento que contemple la “lista de precios mínimos para desechos de bienes muebles que generan las dependencias y entidades de la Administración Pública Federal” que emite la Secretaría de la Función Pública y que se publica bimestralmente en el Diario Oficial de la Federación o, en su caso, del avalúo vigente que corresponda. La falta de cumplimiento de las condiciones pactadas en el contrato será motivo de la rescisión del mismo y la aplicación de las penas convencionales correspondientes, señaladas en el propio contrato.
 
+> <small>(ADICIONADO CON LOS ARTICULO QUE LO INTEGRAN POR EL ARTICULO UNICO DEL ACUERDO GENERAL 50/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
+
+### CAPITULO IX. DE LAS INCONFORMIDADES
+
+> <small>(ADICIONADO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 50/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 39.
+
+DE LA INSTANCIA Y PLAZO PARA CONOCER DE LAS INCONFORMIDADES. Las personas que acrediten interés jurídico podrán inconformarse por escrito ante la Contraloría, en contra de los actos del procedimiento que consideren realizados en contravención de las disposiciones de este Acuerdo, siempre que lo hagan dentro de los cinco días hábiles siguientes al en que éstos se realicen; al escrito de referencia deberá acompañarse copia para la Secretaría Ejecutiva.
+
+Transcurrido el plazo indicado, precluye para los interesados el derecho de inconformarse, sin perjuicio de que la Contraloría pueda actuar en cualquier tiempo en términos de ley.
+
+Los fallos del Comité que se emitan en los procedimientos materia del presente Acuerdo, serán definitivos e inatacables.
+
+> <small>(ADICIONADO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 50/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 40.
+
+REQUISITOS DEL ESCRITO DE INCONFORMIDAD. En el escrito de inconformidad, el promovente deberá cumplir con lo siguiente:
+
+I. Acreditar, en su caso, la personalidad jurídica que ostente;
+
+II. Manifestar, bajo protesta de decir verdad, los hechos relativos al acto o actos impugnados que le consten; y,
+
+III. Acompañar, en su caso, las pruebas que considere pertinentes, debidamente integradas para su valoración.
+
+La falta de acreditamiento de la personalidad y de protesta serán causas de desechamiento de la inconformidad.
+
+La manifestación de hechos falsos dará origen al ejercicio de las acciones legales conducentes.
+
+> <small>(ADICIONADO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 50/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 41.
+
+DICTAMEN DE CONTRALORIA. En atención a la inconformidad presentada en los términos de los dos artículos precedentes, la Contraloría solicitará un informe al área operativa que corresponda respecto de los hechos a que se refiere la inconformidad y la documentación soporte, el cual le deberá ser remitido dentro de los dos días hábiles siguientes a la recepción de la solicitud correspondiente, con copia a la Dirección General de Asuntos Jurídicos.
+
+La Contraloría emitirá, dentro de un plazo que no excederá de los cinco días hábiles contados a partir de la fecha en que se rinda el informe por el área operativa, un dictamen que contenga su opinión respecto de los hechos a que se refiere el escrito de inconformidad, en el que deberá incluirse el análisis jurídico que realizará la Dirección General de Asuntos Jurídicos dentro de los dos días hábiles siguientes después de haber recibido la copia del informe del área operativa. Dicho dictamen se presentará a la Comisión a fin de que resuelva lo procedente.
+
+> <small>(ADICIONADO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 50/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 42.
+
+SUSPENSION POR ACTOS CONTRARIOS A LAS DISPOSICIONES DE ESTE ACUERDO. La Contraloría podrá suspender los procedimientos a los que se refiere este Acuerdo en caso de que existan o pudieren existir actos contrarios a las disposiciones del mismo y demás aplicables, o bien, si de continuarse el procedimiento pudieran producirse daños o perjuicios al Poder Judicial de la Federación o al promovente de una inconformidad, siempre y cuando con la suspensión no se cause perjuicio al interés público ni se contravengan disposiciones de ese orden, informando de ello oportunamente a la Comisión y al Comité.
+
+Cuando el inconforme sea quien solicite la suspensión, deberá garantizar mediante fianza por el monto que fije la Contraloría, los daños y perjuicios que pudiera causar al Consejo o al tercero perjudicado, quien a su vez podrá otorgar contrafianza por el mismo monto de la fianza, en cuyo caso quedará sin efectos la suspensión.
+
+> <small>(ADICIONADO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 50/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 43.
+
+DECLARACION DE PROCEDENCIA O IMPROCEDENCIA DE LA INCONFORMIDAD.- La resolución que emita la Comisión respecto de la inconformidad presentada, tendrá por objeto declarar la procedencia o improcedencia de la inconformidad y, en su caso, determinar las medidas conducentes para la regularización o reposición del procedimiento, sin perjuicio de la responsabilidad que proceda respecto de los servidores públicos que hayan intervenido.
+
 ## TRANSITORIOS
 
 PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -650,3 +766,13 @@ PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL MAESTRO EN DERECHO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 24/2004, del Pleno del Consejo de la Judicatura Federal, que Fija las Bases para la Desincorporación de Toda Clase de Bienes Muebles en el Consejo de la Judicatura Federal, fue aprobado por el Pleno del propio Consejo, en sesión de catorce de abril de dos mil cuatro, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Adolfo O. Aragón Mendía, Constancio Carrasco Daza, Elvia Díaz de León D´Hers, Jaime Manuel Marroquín Zaleta, Miguel A. Quirós Pérez y Sergio A. Valls Hernández.- México, Distrito Federal, a catorce de abril de dos mil cuatro.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 9 DE DICIEMBRE DE 2005.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- Se derogan las disposiciones que se opongan a lo establecido en el presente Acuerdo General.
