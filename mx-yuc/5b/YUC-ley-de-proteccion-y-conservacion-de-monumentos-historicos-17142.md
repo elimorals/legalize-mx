@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-proteccion-y-conservacion-de-monumentos-historicos-17142
 country: "mx"
 rank: "ley"
 publication_date: "1948-07-23"
-last_updated: "1965-07-23"
+last_updated: "2005-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17142&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "YUC"
 
 LEY DE PROTECCION Y CONSERVACION DE MONUMENTOS HISTORICOS EN EL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE JULIO DE 1965.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO DEL DECRETO NUMERO 624 POR EL QUE SE REFORMA LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE YUCATAN, Y SE ABROGA LA LEY DE PROTECCION Y CONSERVACION DE MONUMENTOS HISTORICOS EN EL ESTADO DE YUCATAN, PUBLICADO EN EL P.O. DE 9 DE DICIEMBRE DE 2005, EL PRESENTE ORDENAMIENTO FUE ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Diario Oficial el Viernes 23 de Julio de 1948.
 
@@ -122,3 +124,17 @@ Lic. Mauro Cetina Ferráez.
 D.O. 23 DE JULIO DE 1965.
 
 UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en le "Diario Oficial" del Gobierno del Estado.
+
+D.O. 9 DE DICIEMBRE DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor, el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan derogadas las demás disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo del Estado, en un plazo no mayor a ciento ochenta días naturales, contados a partir del día en que entre en vigor este Decreto, a efecto de que se revisen y en su caso realicen las adecuaciones pertinentes a los reglamentos aplicables.
