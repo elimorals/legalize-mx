@@ -4,7 +4,7 @@ identifier: "QUE-ley-estatal-de-proteccion-animal-25741"
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-12"
-last_updated: "2005-06-10"
+last_updated: "2005-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ESTATAL DE PROTECCION ANIMAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 12 de julio del año 2002.
 
@@ -111,7 +111,9 @@ III.- A los organismos de la administración pública paraestatal o paramunicipa
 
 Corresponde al Ejecutivo del Estado:
 
-I.- Formular y conducir la política estatal sobre conservación y aprovechamiento sustentable de la fauna silvestre y doméstica, en forma congruente con la política nacional en la materia, y participar en el diseño y aplicación de ésta.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2005)</small>
+
+I.- Formular, conducir e instrumentar el cumplimiento de la política estatal sobre conservación y aprovechamiento sustentable de la fauna silvestre y doméstica, en forma congruente con la política nacional en la materia, y participar en el diseño y aplicación de ésta;
 
 II.- Regular el manejo, control y remediación de los problemas asociados a ejemplares o poblaciones federales, así como la aplicación de las disposiciones en la materia, dentro de su ámbito territorial;
 
@@ -265,9 +267,11 @@ VI.- El Padrón Estatal de Mascotas, en los términos del Reglamento Respectivo;
 
 VII.- Los usos y formas de aprovechamiento de ejemplares, parte y derivados de la fauna silvestre con fines de subsistencia por parte de las comunidades rurales;
 
-VIII.- Las denuncias promovidas por infracciones a esta Ley; y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE DICIEMBRE DE 2005)</small>
 
-IX.- Los datos relevantes sobre la materia objeto de este ordenamiento.
+VIII.- Los datos relativos sobre la materia objeto de este ordenamiento.
+
+IX.- (DEROGADA, P.O. 9 DE DICIEMBRE DE 2005)
 
 ###### Artículo 21.
 
@@ -747,13 +751,17 @@ Si nadie reclamase el animal o la resolución de retenerlo causara estado, podr�
 
 ### CAPITULO I. DENUNCIA CIUDADANA
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 90.
 
-Cualquier persona física o colectiva podrá denunciar ante el Departamento las infracciones a esta Ley; pero si en la localidad no existiere representación de la Secretaría, la denuncia podrá formularse ante cualquier otra autoridad estatal o municipal, quien deberá remitirla sin demora a la Secretaría.
+Cualquier persona física o colectiva podrá denunciar ante la autoridad municipal las infracciones a esta Ley.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 91.
 
-La autoridad distinta al Departamento que reciba la denuncia, la turnará de inmediato a dicha dependencia, sin mayor pronunciamiento.
+La autoridad distinta a la municipal que reciba la denuncia, la turnará de inmediato a dicha dependencia, sin mayor pronunciamiento.
 
 > <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
 
@@ -763,9 +771,11 @@ La denuncia contendrá los datos de identificación del denunciante y del denunc
 
 La admisión de la denuncia no es condicionable al acreditamiento, afectación o interés personal y directo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 93.
 
-Recibida la denuncia, el Departamento procederá conforme a lo siguiente:
+Recibida la denuncia, la autoridad municipal procederá conforme a lo siguiente:
 
 I.- Registrará la denuncia, asignándole el número de expediente respectivo;
 
@@ -781,9 +791,11 @@ VI.- De resultar procedente, se iniciará procedimiento de responsabilidad contr
 
 VII.- Dentro de los treinta días hábiles siguientes a la presentación de la denuncia, el Departamento notificará al denunciante el resultado de la verificación de los hechos y medidas impuestas, y del inicio del procedimiento de responsabilidad o de su improcedencia, en su caso.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 94.
 
-Si el Departamento observare que la infracción denunciada corresponde al conocimiento de la autoridad municipal, turnará el expediente respectivo al Ayuntamiento que corresponda, continuándose el procedimiento conforme a las disposiciones de este Capítulo; pero en todo caso, podrá aplicar las medidas de seguridad a que se refiere el artículo 105, asentando la constancia respectiva en el expediente.
+Si el Departamento en el ejercicio de sus facultades observare alguna infracción a la Ley, lo hará del conocimiento de la autoridad municipal correspondiente; pero en todo caso, podrá aplicar la medida de seguridad a que se refiere el artículo 102 fracción I, turnando las constancias correspondientes a la autoridad competente.
 
 ###### Artículo 95.
 
@@ -799,15 +811,19 @@ III.- Por ausencia manifiesta y notoria de violaciones a la Ley.
 
 El Ejecutivo estatal instrumentará las acciones de coordinación necesarias para que los Municipios reciban a través de sus dependencias correspondientes, las denuncias sobre maltrato animal y en general, sobre cualquier infracción a la presente ley.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 97.
 
-La Secretaría llevará un historial de las denuncias que se presenten, información que se incorporará al Subsistema Estatal de información a que se refiere el artículo 20.
+La autoridad municipal llevará un historial de las denuncias que se presenten, información que será proporcionada a la Secretaría a efecto de que dicha información sea incorporada al Subsistema Estatal de información a que se refiere el artículo 20.
 
 ### CAPITULO II. INSPECCIÓN Y VIGILANCIA
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 98.
 
-La Secretaría, para verificar el cumplimiento de esta Ley en las materias de su competencia, podrá efectuar visitas de inspección conforme a las disposiciones de la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente, en forma oficiosa o como consecuencia de la interposición de una denuncia en los términos del Capítulo precedente.
+La autoridad municipal, para verificar el cumplimiento de esta Ley en las materias de su competencia, podrá efectuar visitas de inspección conforme a las disposiciones de la Ley de Procedimientos Administrativos para el Estado y sus Municipios, en forma oficiosa o como consecuencia de la interposición de una denuncia en los términos del Capítulo precedente.
 
 ###### Artículo 99.
 
@@ -931,6 +947,22 @@ Se abrogará la Ley Estatal de Protección Animal publicada en el Periódico Ofi
 
 Las autoridades estatales y municipales, en el ámbito de su competencia, emitirán los reglamentos necesarios para la debida aplicación a esta Ley.
 
+ARTICULO CUA
+
+## TRANSITORIOS
+
+###### ARTICULO PRIMERO.
+
+La presente Ley iniciará su vigencia a los 30 días naturales siguientes a su publicación en el periódico oficial del Estado "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Se abrogará la Ley Estatal de Protección Animal publicada en el Periódico Oficial "La Sombra de Arteaga", número 34 del mes de agosto de mil novecientos noventa y seis.
+
+###### ARTICULO TERCERO.
+
+Las autoridades estatales y municipales, en el ámbito de su competencia, emitirán los reglamentos necesarios para la debida aplicación a esta Ley.
+
 ###### ARTICULO CUARTO.
 
 Los procedimientos administrativos que se estuvieren tramitando con motivo de la aplicación de la Ley de Protección Animal del Estado de Querétaro que se abroga, podrán sujetarse a las disposiciones de esta Ley en lo que no perjudique al sujeto procesal pasivo. Los que se inicien con posterioridad a la entrada en vigor de la presente Ley se sujetarán a sus disposiciones.
@@ -998,3 +1030,11 @@ P.O. 10 DE JUNIO DE 2005.
 PRIMERO. La presente Ley iniciará su vigencia el día siguiente a su publicación en el Periódico Oficial del Estado de Querétaro "La Sombra de Arteaga".
 
 SEGUNDO.- Las autoridades estatales y municipales, en el ámbito de su competencia, emitirán los reglamentos necesarios para la debida aplicación de esta Ley.
+
+P.O. 9 DE DICIEMBRE DE 2005.
+
+PRIMERO. La presente Ley iniciará su vigencia el día siguiente a su publicación en el periódico oficial del Estado "La Sombra de Arteaga".
+
+SEGUNDO. Las autoridades estatales y municipales, en el ámbito de su competencia, emitirán los reglamentos necesarios para la debida aplicación de esta Ley.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a la presente Ley.
