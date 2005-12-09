@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-de-la-administracion-publica-del-estado-de-8129"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-03-10"
-last_updated: "2005-01-28"
+last_updated: "2005-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8129&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 10 de marzo de 1988.
 
@@ -525,47 +525,85 @@ XXIII.- Las demás que le señalen otras leyes y reglamentos.
 
 Corresponde a la Secretaría de Desarrollo Urbano, Obras Públicas y Vivienda, el despacho de los siguientes asuntos:
 
-I.- Realizar directamente o a través de terceros, y vigilar en su caso, las obras públicas que emprenda el Gobierno del Estado, formulando los estudios, proyectos y presupuestos de las mismas y en los casos que proceda mediante la coordinación con las dependencias Federales y Municipales;
+> <small>(REFORMADA D.O. 9 DE DICIEMBRE DE 2005)</small>
 
-II.- Construir, reconstruir y conservar los bienes inmuebles de la propiedad del Estado;
+I.- Coadyuvar en la formulación y vigilancia, de la planeación del desarrollo urbano en los centros de población del estado;
 
-III.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISION DE VIAS TERRESTRES DEL ESTADO DE YUCATAN, D.O. 16 DE AGOSTO DE 1999)
+> <small>(REFORMADA D.O. 9 DE DICIEMBRE DE 2005)</small>
 
-IV.- Promover y vigilar el desarrollo urbanístico de los centros de población del Estado;
+II.- Coordinar la elaboración, ejecución y revisión del Programa Estatal de Desarrollo Urbano, vigilar su implementación y evaluar sus resultados;
 
-V.- Coordinar la elaboración, revisión y ejecución del Plan Estatal de Desarrollo Urbano y los programas que de él emanen, así como participar en la evaluación de sus resultados de conformidad con lo que señale el Sistema Estatal de Control y Evaluación;
+> <small>(REFORMADA D.O. 9 DE DICIEMBRE DE 2005)</small>
 
-VI.- Autorizar y vigilar el cumplimiento de las disposiciones en materia de fraccionamientos;
+III.- Autorizar en su caso, el fraccionamiento de terrenos, y vigilar el cumplimiento de la ley de la materia;
 
-VII.- Programar las acciones e inversiones públicas que en materia de Desarrollo Urbano se ejecuten en la entidad acordes con los planes establecidos;
+> <small>(REFORMADA D.O. 9 DE DICIEMBRE DE 2005)</small>
 
-VIII.- Vigilar el cumplimiento y aplicación de las disposiciones legales en materia de desarrollo Urbano a que deba sujetarse el sector público, así como el privado y el social;
+IV.- Coordinarse con las demás autoridades competentes, para la programación de la inversión pública y la realización de acciones de desarrollo urbano que se ejecuten en la entidad; evaluar sus resultados y modificar los programas de desarrollo urbano, con base en la Ley Estatal de Planeación;
 
-> <small>(REFORMADA, D.O. 13 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADA D.O. 9 DE DICIEMBRE DE 2005)</small>
 
-IX.- Expedir, en coordinación con la Secretaría de Hacienda, las bases y normas a que deban sujetarse los concursos para la ejecución de obras que realice el Gobierno del Estado; señalar las adjudicaciones que procedan en cumplimiento con lo dispuesto por el Artículo 107 de la Constitución Política del Estado; intervenir en la celebración de contratos y vigilar el cumplimiento de éstos.
+V.- Vigilar el cumplimiento y la aplicación de las disposiciones legales, en materia de asentamientos humanos y de desarrollo urbano, a que deban sujetarse los sectores público, privado y social;
 
-X.- Coordinar y asesorar técnicamente a los Ayuntamientos, cuando éstos lo soliciten en la programación o realización de obras públicas en sus respectivas jurisdicciones, así como en la introducción, conservación, de servicios públicos y en general todo lo relacionado con el desarrollo Urbano;
+> <small>(REFORMADA D.O. 9 DE DICIEMBRE DE 2005)</small>
 
-XI.- Vigilar el cumplimiento y aplicación de las disposiciones legales en materia de construcción y asentamientos humanos;
+VI.- Coordinar y asesorar técnicamente a los ayuntamientos, cuando éstos lo soliciten; en la formulación programación y ejecución de sus planes de desarrollo urbano;
 
-XII.- Evaluar los resultados de la programación y actualizar los planes de desarrollo urbano con base en aquéllos, atendiendo las sugerencias que al respecto formule la Secretaría de la Contraloría General del Estado;
+> <small>(REFORMADA D.O. 9 DE DICIEMBRE DE 2005)</small>
 
-XIII.- Elaborar y actualizar los avalúos de los bienes inmuebles del Gobierno del Estado.
+VII.- Formular y proponer los lineamientos y políticas, en materia de asentamientos humanos;
 
-XIV.- Formular y proponer los lineamientos de la Políticas de asentamientos humanos y urbanísticos;
+> <small>(REFORMADA D.O. 9 DE DICIEMBRE DE 2005)</small>
 
-XV.- (DEROGADA, D.O. 19 DE JUNIO DE 1989)
+VIII.- Formular los lineamientos y políticas, en materia de conservación y preservación del patrimonio cultural arquitectónico, conforme a lo dispuesto en la Ley de Preservación y Promoción de la Cultura de Yucatán;
 
-XVI.- (DEROGADA, D.O. 19 DE JUNIO DE 1989)
+> <small>(REFORMADA D.O. 9 DE DICIEMBRE DE 2005)</small>
 
-XVII.- Formular y proponer los lineamientos de la Política General de Vivienda del Estado;
+IX.- Elaborar, ejecutar y evaluar el Programa Estatal de Preservación del Patrimonio Cultural Arquitectónico;
 
-XVIII.- Actualizar y evaluar el Programa de Vivienda Estatal;
+> <small>(REFORMADA D.O. 9 DE DICIEMBRE DE 2005)</small>
 
-XIX.- Integrar y regular por sí o mediante la entidad creada para tal efecto, el Sistema Estatal de Reservas Territoriales para el Desarrollo Urbano; y
+X.- Integrar y regular el Registro del Patrimonio Cultural Arquitectónico del Estado, en los términos de la Ley mencionada en la fracción VIII, de este artículo;
 
-XX.- Las demás que le señalen las leyes y reglamentos respectivos.
+> <small>(REFORMADA D.O. 9 DE DICIEMBRE DE 2005)</small>
+
+XI.- Realizar investigaciones y elaborar proyectos y estudios, relacionados con la preservación del patrimonio cultural arquitectónico;
+
+> <small>(REFORMADA D.O. 9 DE DICIEMBRE DE 2005)</small>
+
+XII.- Apoyar las acciones de rescate y preservación del patrimonio cultural arquitectónico, que presenten los particulares en función de las posibilidades presupuestales;
+
+> <small>(REFORMADA D.O. 9 DE DICIEMBRE DE 2005)</small>
+
+XIII.- Coordinarse en su caso, con las autoridades municipales y demás competentes, para formular y presentar, proyectos de rescate arquitectónico y urbano, en los distintos centros históricos y demás edificaciones de las diferentes localidades, con valor arquitectónico cultural relevante;
+
+> <small>(REFORMADA D.O. 9 DE DICIEMBRE DE 2005)</small>
+
+XIV.- Proponer al Ejecutivo del Estado, los sitios que por su trascendencia deban ser declarados patrimonio cultural;
+
+> <small>(REFORMADA D.O. 9 DE DICIEMBRE DE 2005)</small>
+
+XV.- Planear la obra pública que realice el Gobierno del Estado, y coordinar su programación y presupuestación. En los casos que proceda, coordinarse con las demás dependencias federales y municipales;
+
+> <small>(REFORMADA D.O. 9 DE DICIEMBRE DE 2005)</small>
+
+XVI.- Elaborar un banco de proyectos estatales y regionales, que involucren obras de infraestructura física de carácter público.
+
+> <small>(REFORMADA D.O. 9 DE DICIEMBRE DE 2005)</small>
+
+XVII.- Integrar y regular el Sistema Estatal de Inversión de Obra Pública para la Infraestructura Física;
+
+> <small>(REFORMADA D.O. 9 DE DICIEMBRE DE 2005)</small>
+
+XVIII.- Coordinarse con la Secretaría de Planeación y Presupuesto, para proponer la actualización de los montos mínimos y máximos, que deberán observarse en la adjudicación de los contratos de obra pública, cuando fuere necesario y en los términos de la ley reglamentaria;
+
+> <small>(REFORMADA D.O. 9 DE DICIEMBRE DE 2005)</small>
+
+XIX.- Aprobar la política general de vivienda del estado y
+
+> <small>(REFORMADA D.O. 9 DE DICIEMBRE DE 2005)</small>
+
+XX.- Las demás que le señalen otras disposiciones legales.
 
 > <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 1996)</small>
 
@@ -1196,3 +1234,17 @@ CUARTO.- El personal de base de la Dirección del Catastro del Estado, en atenci
 QUINTO.- En un plazo no mayor a ciento ochenta días naturales, contados a partir del día en que entre en vigor este Decreto, deberán ser reformados los reglamentos interiores de las dependencias a que se refiere el mismo.
 
 SEXTO.- A partir del inicio de vigencia del presente Decreto, cuando en la Ley de Catastro del Estado de Yucatán o su Reglamento se haga referencia a la Secretaría de Hacienda y Planeación o al Tesorero del Estado o Tesorero General del Estado, se entenderá que se refiere a la Secretaría General de Gobierno o al Secretario General de Gobierno, con excepción de lo relativo a asuntos hacendarios.
+
+D.O. 9 DE DICIEMBRE DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor, el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan derogadas las demás disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo del Estado, en un plazo no mayor a ciento ochenta días naturales, contados a partir del día en que entre en vigor este Decreto, a efecto de que se revisen y en su caso realicen las adecuaciones pertinentes a los reglamentos aplicables.
