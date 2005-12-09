@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2005-12-08"
+last_updated: "2005-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE DICIEMBRE DE 2005.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -264,7 +264,9 @@ Nadie puede ser juzgado por leyes privativas ni por tribunales especiales. Ningu
 
 A ninguna ley se dará efecto retroactivo en perjuicio de persona alguna.
 
-Nadie podrá ser privado de la vida, de la libertad o de sus propiedades, posesiones o derechos, sino mediante juicio seguido ante los tribunales previamente establecidos, en el que se cumplan las formalidades esenciales del procedimiento y conforme a las leyes expedidas con anterioridad al hecho.
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
+
+Nadie podrá ser privado de la libertad o de sus propiedades, posesiones o derechos, sino mediante juicio seguido ante los tribunales previamente establecidos, en el que se cumplan las formalidades esenciales del procedimiento y conforme a las Leyes expedidas con anterioridad al hecho.
 
 En los juicios del orden criminal queda prohibido imponer, por simple analogía, y aún por mayoría de razón, pena alguna que no esté decretada por una ley exactamente aplicable al delito de que se trata.
 
@@ -482,11 +484,11 @@ La seguridad pública es una función a cargo de la Federación, el Distrito Fed
 
 La Federación, el Distrito Federal, los Estados y los Municipios se coordinarán, en los términos que la ley señale, para establecer un sistema nacional de seguridad pública.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
 
 ###### Art. 22.
 
-Quedan prohibidas las penas de mutilación y de infamia, la marca, los azotes, los palos, el tormento de cualquier especie, la multa excesiva, la confiscación de bienes y cualesquiera otras penas inusitadas y trascendentales.
+Quedan prohibidas las penas de muerte, de mutilación, de infamia, la marca, los azotes, los palos, el tormento de cualquier especie, la multa excesiva, la confiscación de bienes y cualesquiera otras penas inusitadas y trascendentales.
 
 > <small>(REFORMADO, D.O.F. 3 DE JULIO DE 1996)</small>
 
@@ -496,7 +498,7 @@ No se considerará confiscación de bienes la aplicación total o parcial de los
 
 No se considerará confiscación la aplicación a favor del Estado de bienes asegurados que causen abandono en los términos de las disposiciones aplicables. La autoridad judicial resolverá que se apliquen en favor del Estado los bienes que hayan sido asegurados con motivo de una investigación o proceso que se sigan por delitos de delincuencia organizada, cuando se ponga fin a dicha investigación o proceso, sin que haya un pronunciamiento sobre los bienes asegurados. La resolución judicial se dictará previo procedimiento en el que se otorgue audiencia a terceros y se acredite plenamente el cuerpo del delito previsto por la ley como de delincuencia organizada, siempre y cuando se trate de bienes respecto de los cuales el inculpado en la investigación o proceso citados haya sido poseedor, propietario o se haya conducido como tales, independientemente de que hubieran sido transferidos a terceros, salvo que éstos acrediten que son poseedores o adquirentes de buena fe.
 
-Queda también prohibida la pena de muerte por delitos políticos, y en cuanto a los demás, sólo podrá imponerse al traidor a la Patria en guerra extranjera, al parricida, al homicida con alevosía, premeditación o ventaja, al incendiario, al plagiario, al salteador de caminos, al pirata y a los reos de delitos graves del orden militar.
+> <small>(DEROGADO CUARTO PARRAFO, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
 
 ###### Art. 23.
 
@@ -2488,7 +2490,9 @@ Para los efectos de las responsabilidades a que alude este Título se reputarán
 
 El Presidente de la República, durante el tiempo de su encargo, sólo podrá ser acusado por traición a la patria y delitos graves del orden común.
 
-(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994) (F. DE E., D.O.F. 3 DE ENERO DE 1995)Los Gobernadores de los Estados, los Diputados a las Legislaturas Locales, los Magistrados de los Tribunales Superiores de Justicia Locales y, en su caso, los miembros de los Consejos de las Judicaturas Locales, serán responsables por violaciones a esta Constitución y a las leyes federales, así como por el manejo indebido de fondos y recursos federales.
+(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994) (F. DE E., D.O.F. 3 DE ENERO DE 1995)
+
+Los Gobernadores de los Estados, los Diputados a las Legislaturas Locales, los Magistrados de los Tribunales Superiores de Justicia Locales y, en su caso, los miembros de los Consejos de las Judicaturas Locales, serán responsables por violaciones a esta Constitución y a las leyes federales, así como por el manejo indebido de fondos y recursos federales.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
@@ -5073,6 +5077,10 @@ PRIMERO.- La reforma entrará en vigor al día siguiente al de su publicación e
 SEGUNDO.- La Cámara de Senadores establecerá dentro del periodo ordinario de sesiones inmediato siguiente a la entrada en vigor del presente decreto, la Comisión de Límites de las Entidades Federativas, la cual se integrará y funcionará en los términos de la ley reglamentaria que al efecto se expida, así como por las disposiciones que para el caso dispongan la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos y el Reglamento para su Gobierno Interior.
 
 TERCERO.- Las controversias que a la entrada en vigor de este decreto se encuentren en trámite ante la Suprema Corte de Justicia de la Nación con motivo de conflictos limítrofes entre entidades federativas, serán remitidas de inmediato, con todos sus antecedentes, a la Cámara de Senadores, a fin de que ésta en términos de sus atribuciones constitucionales proceda a establecerlos de manera definitiva mediante decreto legislativo.
+
+D.O.F. 9 DE DICIEMBRE DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 ###### ARTICULO PRIMERO.
 
