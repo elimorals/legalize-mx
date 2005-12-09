@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2005-09-09"
+last_updated: "2005-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE SEPTIEMBRE DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE DICIEMBRE DE 2005.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -53,23 +53,21 @@ Todos los habitantes del Estado de Yucatán, gozarán de las garantias que otorg
 
 El Estado de Yucatán por medio de sus poderes públicos, garantizará a toda persona que se encuentre en su territorio, el respeto de las mencionadas garantías sin discriminación alguna.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO, D.O. 9 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 3.
 
-Todos los habitantes del Estado, están obligados:
+Todos los habitantes del Estado están obligados a:
 
-I.- a cumplir con las Leyes vigentes y a respetar y a obedecer a las autoridades legítimamente constituidas;
+I.- Cumplir con las Leyes vigentes y a respetar y obedecer a las autoridades legítimamente constituidas;
 
-II.- a contribuir para los gastos públicos de la manera que dispongan las Leyes;
+II.- Contribuir a los gastos públicos del Estado como del Municipio en que residan, de la manera proporcional y equitativa, que dispongan las leyes que establezcan contribuciones, que para tal efecto expida el Congreso del Estado;
 
-III.- a desempeñar los cargos concejiles, y a prestar los otros servicios públicos que las Leyes prescriban, considerándose como tales los servicios que las autoridades requieran, con arreglo a las Leyes, en casos de epidemia, guerra, siniestro o cualquiera otra calamidad pública; y
+III.- Desempeñar los cargos concejiles, y a prestar los otros servicios públicos que las Leyes prescriban, considerándose como tales los servicios que las autoridades requieran, con arreglo a las Leyes, en casos de epidemia, guerra, siniestro o cualquiera otra calamidad pública;
 
-IV.- a inscribirse en el padrón de su municipalidad manifestando la propiedad que tengan, o la industria, profesión o trabajo de que subsistan.
+IV.- Inscribirse en el padrón de su municipalidad manifestando la propiedad que tengan, o la industria, profesión o trabajo de que subsistan; y
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], D.O. 18 DE ABRIL DE 2005)</small>
-
-V.- A hacer que sus hijos concurran a las escuelas públicas o privadas para obtener la educación preescolar, primaria y secundaria.
+V.- Hacer que sus hijos concurran a las escuelas públicas o privadas para obtener la educación preescolar, primaria y secundaria.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -603,7 +601,7 @@ XXIX Bis.- Determinar el ámbito territorial de los distritos electorales del es
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
-XXX.- ombrar el día anterior al de la clausura de cada período de sesiones ordinarias, la Diputación permanente que ha de funcionar en el receso del Congreso;
+XXX.- nombrar el día anterior al de la clausura de cada período de sesiones ordinarias, la Diputación permanente que ha de funcionar en el receso del Congreso;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 9 DE SEPTIEMBRE DE 2005)</small>
 
@@ -2386,3 +2384,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación, en e
 ###### ARTÍCULO SEGUNDO.
 
 El Presidente de la Comisión de Derechos Humanos y los integrantes de su Consejo Consultivo, continuarán desempeñándose como tales, durante el período para el que fueron designados. Pudiendo ser ratificados, en su caso, en los términos de Ley.
+
+D.O. 9 DE DICIEMBRE DE 2005.
+
+Artículo Único.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
