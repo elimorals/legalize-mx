@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-que-crea-el-comite-de-informatica-y-47100"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-07-25"
-last_updated: "2003-07-25"
+last_updated: "2005-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47100&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-07-18"
 
 ACUERDO QUE CREA EL COMITE DE INFORMATICA Y TELECOMUNICACIONES DEL SECTOR MEDIO AMBIENTE Y RECURSOS NATURALES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE DICIEMBRE DE 2005.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 25 de julio de 2003.
 
@@ -69,41 +69,37 @@ TERCERO.- El objeto del Comité será promover el aprovechamiento de nuevas tecn
 
 CUARTO.- Para el logro de sus objetivos, el Comité estará presidido por la Secretaría de Medio Ambiente y Recursos Naturales y se integrará por:
 
-I. Un Presidente, que será el Subsecretario de Planeación y Política Ambiental;
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
 
-II. Un Secretario Ejecutivo, que será el Titular de la Dirección General de Informática y Telecomunicaciones;
+I. Un Presidente, que será el Director General de Informática y Telecomunicaciones;
 
-III. Un Secretario Técnico, que será designado por el Presidente del Comité a propuesta del Secretario Ejecutivo.
+II. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2005)
 
-IV. Catorce Vocales Ejecutivos que serán los siguientes:
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
 
-a) El Coordinador de Asesores del C. Secretario;
+III. Un Secretario Técnico, que será designado por el Comité a propuesta de su Presidente, y
 
-b) El Subsecretario de Fomento y Normatividad Ambiental;
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
 
-c) El Subsecretario de Gestión para la Protección Ambiental;
+IV. Ocho vocales ejecutivos que serán los siguientes:
 
-d) El Oficial Mayor;
+a) Los responsables del área de informática de los siguientes órganos y organismos:
 
-e) El Coordinador General de Delegaciones y Coordinaciones Regionales;
+1. Comisión Nacional del Agua;
 
-f) El Titular del Centro de Educación y Capacitación para el Desarrollo Sustentable;
+2. Instituto Nacional de Ecología;
 
-g) El Director General de Estadística e Información Ambiental;
+3. Procuraduría Federal de Protección al Ambiente;
 
-h) El Director General de Programación y Presupuesto;
+4. Comisión Nacional de Areas Naturales Protegidas;
 
-i) El Director General de Planeación y Evaluación;
+5. Instituto Mexicano de Tecnología del Agua, y
 
-j) El Director General de la Comisión Nacional del Agua;
+6. Comisión Nacional Forestal.
 
-k) El Presidente del Instituto Nacional de Ecología;
+b) El Director General de Planeación y Evaluación, y
 
-l) El Presidente de la Comisión de Areas Naturales Protegidas;
-
-m) El Director General del Instituto Mexicano de Tecnología del Agua, y
-
-n) El Director General de la Comisión Nacional Forestal.
+c) El Director General de Estadística e Información Ambiental.
 
 QUINTO.- En las sesiones del Comité, los integrantes tendrán derecho a voz y voto y los acuerdos buscarán el consenso de la mayoría.
 
@@ -117,31 +113,41 @@ SEPTIMO.- El Comité operará y sesionará de acuerdo a lo ordenado en el Reglam
 
 OCTAVO.- El Reglamento Interno establecerá, cuando menos, la integración, instalación, organización y funciones de los integrantes del Comité.
 
-NOVENO.- Los integrantes del Comité podrán designar un suplente que los represente en las sesiones, quien asumirá la responsabilidad de su representado, el cual deberá tener un cargo inmediato inferior, o ser Titular del área de Informática y Telecomunicaciones, previa autorización del Presidente del Comité.
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
+
+NOVENO.- Cada miembro del Comité nombrará a un suplente, quien lo cubrirá en sus ausencias, mediante oficio dirigido al Presidente.
 
 DECIMO.- En las sesiones del Comité, participarán como asesores e invitados permanentes, la Coordinación General Jurídica y el Organo Interno de Control, a través de un representante, quienes únicamente tendrán derecho a voz.
 
 DECIMO PRIMERO.- Con el propósito de dar cumplimiento a su objeto, el Comité tendrá, entre otras, las siguientes funciones:
 
-I. Coordinar, instrumentar y evaluar el Programa Sectorial de Desarrollo Informático de la Secretaría de Medio Ambiente y Recursos Naturales;
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
 
-II. Colaborar y coordinar con las dependencias y entidades de la Administración Pública Federal, acciones conjuntas en materia de informática y telecomunicaciones con el propósito de alcanzar los compromisos contraídos en el Plan Nacional de Desarrollo 2001-2006 del Sector Medio Ambiente y Recursos Naturales;
+I. Establecer y validar el cumplimiento de los criterios que garanticen la alineación de la función informática y de telecomunicaciones a los objetivos del Sector, mediante la Planeación Estratégica de Tecnologías de Información y su evaluación;
 
-III. Proponer de conformidad con la normatividad aplicable, el establecimiento de normas, procedimientos, criterios y lineamientos para el desarrollo de los servicios informáticos del Sector y darles difusión;
+II. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2005)
 
-IV. Examinar la problemática que se presente en las áreas de informática y telecomunicaciones del Sector y, en su caso, proponer las soluciones que conforme a las estrategias y prácticas del Sector hayan dado mejor resultado;
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
 
-V. Estudiar la viabilidad técnica y económica de los proyectos de inversión que en materia de informática y telecomunicaciones propongan las unidades administrativas, órganos desconcentrados de la Secretaría y descentralizados del Sector y, en su caso, sugerir las que en la práctica sectorial hayan dado mejor resultado;
+III. Establecer y difundir las políticas, normas y lineamientos para el uso de tecnologías de información del Sector y verificar su cumplimiento;
 
-VI. Promover que la Dirección General de Informática y Telecomunicaciones coordine y mantenga actualizado el inventario de bienes y servicios informáticos y de las telecomunicaciones del Sector;
+IV. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2005)
 
-VII. Propiciar el asesoramiento académico y la vinculación con centros de investigación en materia informática y de telecomunicaciones que permitan la implantación de nuevas y más eficientes tecnologías;
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
 
-VIII. Determinar los estándares del Sector en materia de informática, con el propósito de homogenizar el hardware y el software para optimizar su aprovechamiento, así como el de las telecomunicaciones;
+V. Evaluar y, en su caso, aprobar los proyectos estratégicos que en materia de tecnologías de información propongan las unidades administrativas, órganos desconcentrados y organismos descentralizados del Sector;
 
-IX. Proponer contenidos en materia de informática para programas de capacitación, que faciliten al personal la incorporación de estas tecnologías en el desempeño de sus funciones;
+VI. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2005)
 
-X. Vigilar que se cumpla con la normatividad en materia informática y de telecomunicaciones, emitida por las dependencias y entidades competentes de la Administración Pública Federal;
+VII. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2005)
+
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
+
+VIII. Determinar y difundir los estándares del Sector en materia de tecnologías de información;
+
+IX. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2005)
+
+X. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2005)
 
 XI. Integrar los grupos de trabajo que considere pertinentes, tanto de carácter permanente como transitorio para auxiliarse en la realización de estudios y proyectos;
 
@@ -164,3 +170,9 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se abroga el Acuerdo por el que se crea el Comité de Informática de la Secretaría de Medio Ambiente, Recursos Naturales y Pesca, publicado en el Diario Oficial de la Federación el 27 de octubre de 1997.
 
 Dado en la Ciudad de México, Distrito Federal, a los dieciocho días del mes de julio de dos mil tres.- El Secretario de Medio Ambiente y Recursos Naturales, Víctor Lichtinger Waisman.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 9 DE DICIEMBRE DE 2005.
+
+UNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
