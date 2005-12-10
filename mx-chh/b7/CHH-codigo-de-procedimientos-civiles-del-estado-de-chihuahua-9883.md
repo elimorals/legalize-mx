@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-civiles-del-estado-de-chihuahua-9883"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2004-10-06"
+last_updated: "2005-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2005.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -1161,9 +1161,9 @@ El dueño de la obra tiene derecho a pedir autorización para continuarla, mient
 
 El que haya obtenido la providencia de suspensión provisional de una obra nueva debe promover el juicio sobre suspensión definitiva o demolición de lo construido, en su caso, dentro del término de tres días, contados desde que se haya notificado la suspensión de la obra.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE FEBRERO DE 2001)</small>
-
 ## TITULO SEXTO. DEL JUICIO ORDINARIO
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE FEBRERO DE 2001)</small>
 
 ### CAPITULO I. De la demanda, de su contestación, de la rebeldía, de la fijación de la litis, y de la audiencia de conciliación y depuración procesal
 
@@ -1943,17 +1943,19 @@ El juez, de oficio o a petición de cualquiera de las partes, mandará recibir e
 
 419.- Toda sentencia que disuelva el vínculo matrimonial debe ser publicada, en su parte resolutiva, en el Periódico Oficial del Estado.
 
-420.- Al pedirse la citación para sentencia o al pedirse que se falle, según el caso, deberá presentarse necesariamente al juzgado el ocurso que llene los requisitos indispensables para que pueda hacerse en el Periódico Oficial del Estado la publicación del fallo que se pronuncie.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2005)</small>
 
-> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2002)</small>
+420.- Al pedirse la citación para sentencia o al pedirse que se falle, según el caso, deberá presentarse necesariamente al juzgado el ocurso, que llene los requisitos indispensables para que pueda hacerse en el Periódico Oficial del Estado la publicación del fallo que se pronuncie, así como para que se hagan las anotaciones correspondientes ante la Oficialía del Registro Civil, siempre que se trate de matrimonios contraídos en la Entidad.
 
-Tratándose del divorcio que se realice ante el Oficial del Registro Civil, al momento de ratificar la solicitud de divorcio, los consortes presentarán los requisitos para que una vez disuelto el vínculo matrimonial, sea publicada el acta que los declare divorciados.
+Tratándose del divorcio que se realice ante el Oficial del Registro Civil, al momento de ratificar la solicitud de divorcio, los consortes presentarán los requisitos para que una vez disuelto el vínculo matrimonial, sea elaborada y publicada el acta que los declare divorciados.
 
-> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2005)</small>
 
-421.- Ejecutoriada la sentencia, el juez remitirá directamente a la Oficina del Periódico Oficial la solicitud prevenida por el artículo anterior con la copia certificada de la parte resolutiva de aquélla para que se haga la publicación correspondiente.
+421.- Ejecutoriada la sentencia, el juez remitirá directamente a la Oficina del Periódico Oficial y del Registro Civil, la solicitud prevenida por el artículo anterior con la copia certificada de la parte resolutiva de aquella para que se haga la publicación y las anotaciones en el acta correspondiente, siempre que se trate de matrimonios contraídos en la Entidad.
 
-Efectuado lo anterior y, previa comprobación que se haga ante el Tribunal del cumplimiento de los requisitos necesarios para el levantamiento del acta correspondiente, se procederá en los términos del artículo 110 del Código Civil.
+Efectuado lo anterior, y previa comprobación que se haga ante el Tribunal del cumplimiento de los requisitos necesarios para el levantamiento del acta correspondiente, se procederá en los términos del artículo 110 del Código Civil.
+
+Hechas las anotaciones por la Oficialía del Registro Civil en el acta correspondiente, ésta remitirá al juzgado el oficio en el que se señalen los datos de identificación del acta respectiva, a efecto de que se agregue a los autos y el expediente sea enviado al archivo general como asunto totalmente concluido.
 
 ### CAPITULO III. Del juicio ejecutivo
 
@@ -4690,3 +4692,7 @@ P.O. 6 DE OCTUBRE DE 2004.
 DECRETO No. 1190/04 XVI P.E.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
+
+P.O. 10 DE DICIEMBRE DE 2005.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado.
