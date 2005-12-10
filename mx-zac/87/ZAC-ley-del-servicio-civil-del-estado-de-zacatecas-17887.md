@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-servicio-civil-del-estado-de-zacatecas-17887"
 country: "mx"
 rank: "ley"
 publication_date: "1996-09-11"
-last_updated: "2005-02-05"
+last_updated: "2005-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE FEBRERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el miércoles 11 de septiembre de 1996.
 
@@ -241,6 +241,12 @@ Han de considerarse de base las categorías que con esta clasificación consigne
 
 Son trabajadores temporales aquéllos a quienes se otorgue nombramiento de los señalados en las fracciones II, III, IV y V del artículo 18 de esta ley.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 10 Bis.
+
+En la clasificación relativa a los trabajadores que prevé la presente ley, se deberán incorporar a las personas con alguna discapacidad física.
+
 ###### Artículo 11.
 
 Las disposiciones de esta ley son de orden público, por lo que no producirá efecto legal, ni impedirá el ejercicio y goce de los derechos, sea escrita o verbal, la estipulación que establezca:
@@ -297,7 +303,9 @@ El nombramiento es el instrumento jurídico que formaliza la relación de trabaj
 
 Los trabajadores prestarán sus servicios en virtud de nombramiento expedido por el funcionario competente, excepto cuando se trate de trabajadores temporales, para obra o tiempo determinados, en cuyo caso el nombramiento podrá ser sustituido por la lista de raya correspondiente.
 
-Los mayores de dieciséis años pueden prestar libremente sus servicios. Los mayores de catorce y menores de dieciséis, necesitan de autorización de sus padres o tutores y a falta o negativa de ellos, por resolución del Tribunal.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2005)</small>
+
+Los mayores de dieciséis años y las personas con alguna discapacidad física pueden prestar libremente sus servicios, los mayores de catorce y menores de dieciséis años, necesitan de autorización de sus padres y tutores a falta de ellos, por resolución de Tribunal.
 
 ###### Artículo 18.
 
@@ -545,9 +553,11 @@ El trabajador podrá separarse de su trabajo dentro del mes siguiente a la fecha
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 36.
 
-Las condiciones de trabajo en ningún caso podrán ser inferiores a las fijadas en esta ley, sin que puedan establecerse diferencias por motivo de raza, nacionalidad, sexo, edad, credo religioso o doctrina política.
+Las condiciones de trabajo en ningún caso podrán ser inferiores a las fijadas en esta Ley, sin que puedan establecerse diferencias por motivo de raza, nacionalidad, sexo, edad, credo religioso, doctrina política o discapacidad alguna.
 
 ###### Artículo 37.
 
@@ -727,7 +737,9 @@ Además de otras obligaciones consignadas en esta ley, los titulares de las enti
 
 I.- Observar buenas costumbres en los lugares de trabajo y guardar debida consideración y respeto a los trabajadores, absteniéndose de darles malos tratos tanto de palabra como de obra;
 
-II.- Preferir en igualdad de condiciones, de conocimientos y de antigüedad, a los trabajadores sindicalizados respecto de quienes no lo estuvieren, a quienes representen la única fuente de ingreso familiar; a los que acrediten tener mejores derechos con el escalafón;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2005)</small>
+
+II.- Preferir en igualdad de condiciones, de conocimientos y de antigüedad, a los trabajadores sindicalizados respecto de quienes no lo tuvieren; a quienes representan la única fuente de ingresos (sic) familiar, aún cuando presente alguna discapacidad física, en cuyo caso deberá de reubicarlo en actividad compatible con sus aptitudes o habilidades, sin perjuicio de los derechos a que tiene el trabajador en seguridad social; y a los que acrediten tener mejores derechos con el escalafón;
 
 III.- Pagar puntualmente en los días previstos, los sueldos y demás prestaciones, de acuerdo a los tabuladores correspondientes a las categorías en que estén clasificados escalafonariamente los trabajadores;
 
@@ -988,6 +1000,10 @@ En igualdad de condiciones se preferirá al trabajador que tenga mayor tiempo de
 Las contrataciones de plazas de última categoría, de nueva creación o generadas por renuncia, jubilación, pensión, retiro voluntario, defunción, ascenso, licencias, comisión o sanción, disponibles en cada grupo o subsistema, así como las generadas durante los procesos de corrimiento escalafonario, se realizarán, por el titular de la entidad pública, procediendo a cubrir las vacantes de forma expedita atendiendo invariablemente las propuestas hechas en un cincuenta por ciento por el sindicato.
 
 Los aspirantes a ocupar las plazas vacantes deberán reunir los requisitos que para esos puestos señale cada entidad pública.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2005)</small>
+
+El sindicato y las entidades públicas preferirán las propuestas respecto de personas con alguna discapacidad física, para aquellas vacantes que se ajusten a sus aptitudes y habilidades, como mínimo el 5% de la plantilla del personal de cada dependencia.
 
 ###### Artículo 97.
 
@@ -2546,3 +2562,7 @@ ESAU HERNANDEZ HERRERA
 P.O. 5 DE FEBRERO DE 2005.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 10 DE DICIEMBRE DE 2005.
+
+ÚNICO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
