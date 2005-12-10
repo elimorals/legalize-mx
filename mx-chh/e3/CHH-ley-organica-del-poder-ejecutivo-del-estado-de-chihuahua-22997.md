@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2005-11-30"
+last_updated: "2005-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -433,17 +433,13 @@ IV.- Coordinar el Sistema Estatal de Salud;
 
 V.- (DEROGADA, P.O. 19 DE NOVIEMBRE DE 2005)
 
-> <small>(ADICIONADA, P.O. 29 DE ENERO DE 1994)</small>
-
-VI.- Organizar y promover acciones tendientes al pleno desarrollo de la juventud y a su incorporación en las tareas nacionales estableciendo para ello sistemas de servicios social, centros de estudio, programas de recreación y de atención a los problemas de la juventud;
+VI.- (DEROGADA, P.O. 10 DE DICIEMBRE DE 2005)
 
 > <small>(ADICIONADA, P.O. 29 DE ENERO DE 1994)</small>
 
 VII.- Coordinar, concertar y ejecutar programas especiales para la atención de los sectores sociales más desprotegidos, en especial de los indígenas, para elevar el nivel de vida de la población, con la intervención de las dependencias y entidades de las administraciones públicas federal, estatal, municipal, sectores social o privado, cuando así se requiera;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-VIII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en relación a las funciones de salud, de fomento deportivo, de atención a la juventud y a la mujer y de asistencia social, así como vigilar la organización y funcionamiento de los organismos que ejerzan las atribuciones anteriores;
+VIII.- (DEROGADA, P.O. 10 DE DICIEMBRE DE 2005)
 
 > <small>(ADICIONADA, P.O. 29 DE ENERO DE 1994)</small>
 
@@ -1418,3 +1414,21 @@ P.O. 19 DE NOVIEMBRE DE 2005.
 P.O. 30 DE NOVIEMBRE DE 2005.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE DICIEMBRE DE 2005
+
+Artículo Primero.- El presente Decreto entrará en vigor treinta días después a aquél en que se haya publicado en el Periódico Oficial del Estado.
+
+Artículo Segundo.- El Titular del Poder Ejecutivo Estatal deberá expedir el Reglamento de la presente Ley dentro de un término no mayor a ciento ochenta días, posteriores a aquél en que esta última entre en vigor.
+
+Artículo Tercero.- Los bienes muebles e inmuebles, así como los recursos financieros con los que opera actualmente el Departamento de Atención a la Juventud, con los trámites y las autorizaciones que se lleven a cabo ante las autoridades competentes, serán la aportación del Gobierno Estatal para la constitución del organismo público descentralizado denominado Instituto Chihuahuense de la Juventud.
+
+Los gastos que se generen, en su caso, con motivo de la transición del departamento a organismos públicos descentralizados, se cubrirán con cargo a los recursos de que disponga la Secretaría de Fomento Social; en su defecto, a los designados al Departamento de Atención a la Juventud.
+
+Artículo Cuarto.- El Departamento se subrogará en los derechos y obligaciones que haya contraído el Gobierno Estatal a través de la Secretaría de Fomento Social, con motivo del ejercicio de las funciones del Departamento de Atención a la Juventud.
+
+Las relaciones laborales entre el Instituto y sus trabajadores se regirán por lo dispuesto en el artículo 123, apartado A, de la Constitución política de los Estados Unidos Mexicanos y en la Ley Federal del Trabajo.
+
+En tanto, las relaciones laborales entre el Departamento de Atención a la Juventud y sus trabajadores, que subsistan al momento de la entrada en vigor del presente Decreto, cualquiera que sea su naturaleza, continuarán rigiéndose por las disposiciones que les dieron origen.
+
+Artículo Quinto.- La Junta Directiva del Instituto deberá sesionar, por primera vez, dentro de los sesenta días posteriores a la entrada en vigor de esta Ley, con la finalidad de aprobar el Estatuto Orgánico del mismo.
