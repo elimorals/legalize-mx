@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-de-la-administracion-publica-del-estado-de-19087"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-30"
-last_updated: "2004-08-25"
+last_updated: "2005-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el sábado 30 de diciembre de 2000.
 
@@ -765,41 +765,45 @@ IX. Programar, coordinar y evaluar el sistema de capacitación y desarrollo de p
 
 X. Dar trámite a los requerimientos de personal de las dependencias del Ejecutivo Estatal e intervenir, en su caso, en la selección, contratación, ubicación y reubicación del mismo, así como llevar su registro y control;
 
-XI. Tramitar los nombramientos, remociones, licencias y jubilaciones de los trabajadores y funcionarios de la administración pública estatal, así como elaborar la nómina, efectuar los pagos y otorgar las prestaciones que correspondan, de conformidad con las disposiciones legales aplicables;
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2005)</small>
 
-XII. Intervenir, ante las instituciones respectivas, en lo relativo a prestaciones médicas, seguros y servicios sociales que correspondan al personal del Gobierno del Estado;
+XI.- Dar trámite preferente a las solicitudes de trabajo presentadas por personas con alguna discapacidad física hasta alcanzar por lo menos el 5% del personal de la administración pública, realizando las fases de selección, capacitación y ubicación de acuerdo a sus habilidades;
 
-XIII. Organizar, controlar y mantener actualizado el Escalafón de los Trabajadores del Gobierno del Estado y vigilar la adecuada difusión de los movimientos y procesos escalafonarios de conformidad con la legislación aplicable;
+XII. Tramitar los nombramientos, remociones, licencias y jubilaciones de los trabajadores y funcionarios de la administración pública estatal, así como elaborar la nómina, efectuar los pagos y otorgar las prestaciones que correspondan, de conformidad con las disposiciones legales aplicables;
 
-XIV. Difundir y vigilar el cumplimiento de las Condiciones Generales del Servicio entre el personal de la administración pública estatal;
+XIII. Intervenir, ante las instituciones respectivas, en lo relativo a prestaciones médicas, seguros y servicios sociales que correspondan al personal del Gobierno del Estado;
 
-XV. Ejecutar los acuerdos de los titulares de las dependencias, relativos a la imposición, reducción y revocación de las sanciones administrativas a que se hagan acreedores los trabajadores de la administración pública estatal, de acuerdo a las disposiciones legales vigentes en el Estado, sin perjuicio de las que competa imponer a la Contraloría Interna;
+XIV. Organizar, controlar y mantener actualizado el Escalafón de los Trabajadores del Gobierno del Estado y vigilar la adecuada difusión de los movimientos y procesos escalafonarios de conformidad con la legislación aplicable;
 
-XVI. Proveer a las dependencias los recursos materiales y servicios necesarios para el desarrollo de sus funciones, con apego a las políticas que emita y las disposiciones legales vigentes;
+XV. Difundir y vigilar el cumplimiento de las Condiciones Generales del Servicio entre el personal de la administración pública estatal;
 
-XVII. Organizar, en coordinación con la Comisión Intersecretarial Gasto-Financiamiento, la adquisición y arrendamiento de los bienes y servicios que requiera el funcionamiento de la administración pública estatal y presidir los concursos respectivos;
+XVI. Ejecutar los acuerdos de los titulares de las dependencias, relativos a la imposición, reducción y revocación de las sanciones administrativas a que se hagan acreedores los trabajadores de la administración pública estatal, de acuerdo a las disposiciones legales vigentes en el Estado, sin perjuicio de las que competa imponer a la Contraloría Interna;
 
-XVIII. Inventariar y verificar periódicamente, el estado físico de los bienes resguardados por las dependencias de la administración pública estatal;
+XVII. Proveer a las dependencias los recursos materiales y servicios necesarios para el desarrollo de sus funciones, con apego a las políticas que emita y las disposiciones legales vigentes;
 
-XIX. Administrar los almacenes del Estado y mantener actualizados sus inventarios;
+XVIII. Organizar, en coordinación con la Comisión Intersecretarial Gasto-Financiamiento, la adquisición y arrendamiento de los bienes y servicios que requiera el funcionamiento de la administración pública estatal y presidir los concursos respectivos;
 
-XX. Administrar los bienes muebles e inmuebles propiedad del Gobierno del Estado, cuidando su mantenimiento y conservación;
+XIX. Inventariar y verificar periódicamente, el estado físico de los bienes resguardados por las dependencias de la administración pública estatal;
 
-XXI. Ejercer actos de dominio sobre los bienes muebles e inmuebles propiedad del Estado, previo acuerdo y con la representación del Gobernador del Estado, en los términos que determine la Constitución Política del Estado y sus leyes reglamentarias; así como ejercer el derecho de reversión con la intervención de la Coordinación General Jurídica;
+XX. Administrar los almacenes del Estado y mantener actualizados sus inventarios;
 
-XXII. Administrar y operar los Talleres Gráficos del Estado y coordinar, conjuntamente con las dependencias y entidades interesadas, la edición de publicaciones oficiales;
+XXI. Administrar los bienes muebles e inmuebles propiedad del Gobierno del Estado, cuidando su mantenimiento y conservación;
 
-XXIII. Editar, publicar y distribuir el Periódico Oficial, Órgano del Gobierno del Estado;
+XXII. Ejercer actos de dominio sobre los bienes muebles e inmuebles propiedad del Estado, previo acuerdo y con la representación del Gobernador del Estado, en los términos que determine la Constitución Política del Estado y sus leyes reglamentarias; así como ejercer el derecho de reversión con la intervención de la Coordinación General Jurídica;
 
-XXIV. Coadyuvar en la realización de los eventos oficiales y especiales del Gobierno del Estado;
+XXIII. Administrar y operar los Talleres Gráficos del Estado y coordinar, conjuntamente con las dependencias y entidades interesadas, la edición de publicaciones oficiales;
 
-XXV. Proporcionar a las dependencias de la administración pública estatal los servicios de transportación de personas y bienes;
+XXVI. Editar, publicar y distribuir el Periódico Oficial, Órgano del Gobierno del Estado;
 
-XXVI. Participar en la Comisión Intersecretarial Gasto-Financiamiento para determinar los lineamientos a que deben sujetarse las dependencias y entidades de la administración pública estatal, respecto de las disponibilidades financieras con que cuenten durante el ejercicio presupuestal;
+XXV. Coadyuvar en la realización de los eventos oficiales y especiales del Gobierno del Estado;
 
-XXVII. Dar autenticidad a los trámites y diligencias del Secretario General de Gobierno, en los casos en que éste se encargue del despacho en las ausencias temporales del Gobernador, menores de quince días; y
+XXVI. Proporcionar a las dependencias de la administración pública estatal los servicios de transportación de personas y bienes;
 
-XXVIII. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
+XXVII. Participar en la Comisión Intersecretarial Gasto-Financiamiento para determinar los lineamientos a que deben sujetarse las dependencias y entidades de la administración pública estatal, respecto de las disponibilidades financieras con que cuenten durante el ejercicio presupuestal;
+
+XXVIII. Dar autenticidad a los trámites y diligencias del Secretario General de Gobierno, en los casos en que éste se encargue del despacho en las ausencias temporales del Gobernador, menores de quince días; y
+
+XIX. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
 ###### Artículo 32.
 
@@ -1076,3 +1080,7 @@ Asimismo se derogan todas aquellas disposiciones que contravengan el presente De
 TERCERO.- Los recursos humanos, materiales y financieros con los que actualmente cuenta el Consejo Estatal de Turismo, pasarán a formar parte de la Secretaría de Turismo, debiéndose respetar los derechos laborales que los servidores públicos hubieren adquirido.
 
 CUARTO.- La Secretaría de Finanzas deberá incluir e4n Presupuesto de Egresos del Estado para el Ejercicio Fiscal de dos mil cinco, a la Secretaría de Turismo.
+
+P.O. 10 DE DICIEMBRE DE 2005.
+
+ÚNICO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
