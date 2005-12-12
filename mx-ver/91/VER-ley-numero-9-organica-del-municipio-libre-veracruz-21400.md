@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2005-08-15"
+last_updated: "2005-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE DICIEMBRE DE 2005.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -401,7 +401,9 @@ XXI. Establecer sus propios órganos de control interno autónomos, los cuales d
 
 XXII. Celebrar, previo acuerdo de sus respectivos Cabildos, convenios de coordinación y asociación con otros municipios para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan. En este caso y tratándose de la asociación de municipios del Estado con municipios de otras entidades federativas, deberán contar con la aprobación del Congreso. Asimismo, cuando a juicio del Ayuntamiento respectivo sea necesario, podrán celebrar convenios con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos servicios públicos o funciones, o bien se presten o ejerzan coordinadamente por el Estado y el propio municipio;
 
-XXIII. Otorgar concesiones a los particulares, previa autorización del Congreso del Estado en los términos que señale esta ley, para la prestación de servicios públicos municipales;
+> <small>(REFORMADA, G.O. 12 DE DICIEMBRE DE 2005)</small>
+
+XXIII. Otorgar concesiones a los particulares, previa autorización del Congreso del Estado en los términos que señale esta ley, para la prestación de servicios públicos municipales y para el uso, explotación y aprovechamiento de bienes de dominio público de los municipios;
 
 XXIV. Celebrar convenios, previa autorización del Congreso del Estado, con personas físicas o morales;
 
@@ -439,7 +441,7 @@ XXIX. Otorgar, en el ámbito de su competencia, licencias para construcciones;
 
 > <small>(REFORMADA, G.O. 30 DE JULIO DE 2004)</small>
 
-XXX. Desarrollar planes y programas destinados a la preservación, restauración, aprovechamiento racional y mejoramiento de los recursos naturales, de la flora y la fauna existentes en su territorio, así como para la prevención y combate a la contaminación ambiental, y convocar, coordinar y apoyar a los ejidatarios, propietarios y comuneros, para que establezcan cercas vivas en las zonas limítrofes de sus predios o terrenos y reforestar las franjas de tierra al lado de los ríos y cañadas.
+XXX. Desarrollar planes y programas destinados a la preservación, restauración, aprovechamiento racional y mejoramiento de los recursos naturales, de la flora y la fauna existentes en su territorio, así como para la prevención y combate a la contaminación ambiental, y convocar, coordinar y apoyar a los ejidatarios, propietarios y comuneros, para que establezcan cercas vivas en las zonas limítrofes de sus predios y terrenos o reforestar las franjas de tierra al lado de los ríos y cañadas.
 
 XXXI. Participar en la creación y administración de zonas de reservas ecológicas, en la elaboración y aplicación de programas de ordenamiento en esta materia y en la formulación de programas de desarrollo regional;
 
@@ -1197,6 +1199,8 @@ El Congreso del Estado informará a los Ayuntamientos el resultado de las accion
 
 ### CAPÍTULO II. DE LAS CONCESIONES
 
+> <small>(REFORMADO, G.O. 12 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 74.
 
 Los Ayuntamientos podrán crear, previa autorización del Congreso del Estado, las entidades paramunicipales necesarias para el correcto desempeño de sus atribuciones. Las entidades paramunicipales gozarán de autonomía de gestión para el debido cumplimiento de su objeto y de los objetivos y metas señalados en sus programas. Al efecto, los órganos de gobierno o equivalentes en las entidades paramunicipales, según sea el caso, expedirán su correspondiente normatividad interior la que deberá establecer las bases específicas de organización, funcionamiento y atribuciones de sus respectivos directores generales o similares, y de las distintas áreas que integren la entidad de que se trate. Dicha normatividad deberá publicarse en los términos que señale esta ley y registrarse ante el Congreso del Estado.
@@ -1385,15 +1389,17 @@ Por ningún motivo se extenderá este beneficio a más de un inmueble por person
 
 ###### Artículo 96.
 
-El Congreso del Estado o la Diputación Permanente podrá autorizar a los Ayuntamientos para que concesionen la prestación total o parcial de los servicios públicos municipales que por su naturaleza, características o especialidad lo permitan, sujetándose a las bases siguientes:
+El Congreso del Estado y la Diputación Permanente podrán autorizar a los Ayuntamientos para que concesionen la prestación total o parcial de los servicios públicos municipales que por su naturaleza, características o especialidad lo permitan, así como para que concesionen el uso, explotación y aprovechamiento de bienes de dominio público municipal.
+
+> <small>(ADICIONADO, G.O. 12 DE DICIEMBRE DE 2005)</small>
+
+Artículo 96 bis. Las concesiones para prestar servicios públicos municipales deberán sujetarse a las bases siguientes:
 
 I. La determinación del Ayuntamiento sobre la imposibilidad de prestar por sí mismo el servicio o la conveniencia de concesionarlo o la imposibilidad de que el Estado lo atienda, deberá hacerse del dominio público;
 
 II. Que el interesado en obtenerla formule la solicitud respectiva cubriendo los gastos que demanden los estudios correspondientes;
 
-III. Determinación del régimen a que deberán estar sometidas las concesiones, limitando el término de las mismas, que no excederá de quince años, así como las causas de extinción y la forma de vigilancia en la prestación del servicio.
-
-Se exceptúa de la disposición anterior la concesión del servicio público de panteones, así como cualquier otra que el Congreso del Estado o la Diputación Permanente, en su caso, considere pertinente bien por el interés social de la concesión o porque su otorgamiento por mayor tiempo beneficie al Ayuntamiento;
+III. Determinación del régimen a que deberán estar sometidas las concesiones, limitando el término de las mismas, que no excederá de quince años, así como las causas de extinción y la forma de vigilancia en la prestación del servicio. Se exceptúa de la disposición anterior la concesión del servicio público de panteones, así como cualquier otra que el Congreso del Estado o la Diputación Permanente, en su caso, considere pertinente bien por el interés social de la concesión o porque su otorgamiento por mayor tiempo beneficie al Ayuntamiento;
 
 IV. Fijar las condiciones bajo las cuales se garantice la generalidad, uniformidad, continuidad y regularidad del servicio;
 
@@ -1401,7 +1407,93 @@ V. Determinación de las condiciones y formas en que el concesionario deberá ot
 
 VI. Señalar el procedimiento que deberá tramitarse y los medios de impugnación que podrán interponerse, en aquellos casos en que resulten afectados los derechos de los usuarios del servicio concesionado; y
 
-VII. La aprobación del Ayuntamiento, escuchando la opinión de los Agentes y Subagentes Municipales, así como de los Jefes de Manzana.
+VII. La aprobación del Ayuntamiento, escuchando la opinión de los Agentes y Subagentes Municipales, así como de los jefes de manzana.
+
+> <small>(ADICIONADO, G.O. 12 DE DICIEMBRE DE 2005)</small>
+
+Artículo 96 ter. Las concesiones para usar, explotar y aprovechar bienes de dominio público municipal deberán sujetarse a las bases siguientes:
+
+I. No crearán derechos reales a favor de los particulares, a quienes únicamente les conferirán frente a la administración municipal, y sin perjuicio de terceros, el derecho de realizar los usos, aprovechamientos y explotaciones que se establezcan en el título de concesión;
+
+II. Sólo podrán ser otorgadas a favor de individuos mexicanos o de sociedades constituidas conforme a las leyes del país con cláusula de exclusión de extranjeros;
+
+III. Los interesados en obtener una concesión para usar, explotar y aprovechar bienes de dominio público municipal presentarán solicitud al Ayuntamiento respectivo, acompañándola de los estudios que soporten la viabilidad técnica y financiera del proyecto, así como los beneficios sociales o económicos que la concesión signifique para el municipio de que se trate y los elementos que acrediten su capacidad para explotar la concesión. Los Ayuntamientos podrán solicitar que tales estudios sean ampliados en la medida que consideren necesaria y a costa de los interesados, así como requerir a estos últimos cualquier documentación relacionada con su organización, funcionamiento, personalidad, experiencia y capacidad técnica o financiera;
+
+IV. Los Ayuntamientos tendrán plena discreción para negar u otorgar la concesión solicitada, en este último caso, previa obtención de las autorizaciones y cumplimiento de los requisitos aplicables, pero evitarán el acaparamiento o concentración de concesiones municipales en una sola persona;
+
+V. Antes de pedir al Congreso o a la Diputación Permanente del Estado su autorización para otorgar la concesión de que se trate, los Ayuntamientos deberán haber publicado por, cuando menos, quince días naturales consecutivos, en la tabla de avisos del municipio correspondiente, una copia de la solicitud a que se refiere la fracción III de este artículo. Durante ese plazo, los terceros que consideren que pudieran resultar afectados sus derechos podrán acudir al Ayuntamiento a manifestar lo que les convenga;
+
+VI. Las solicitudes de autorización que sean presentadas al Congreso o la Diputación Permanente del Estado por parte de los Ayuntamientos deberán señalar, cuando menos:
+
+a) Los bienes del dominio público del municipio que serán materia de la concesión;
+
+b) La forma en que el particular podrá usar, explotar y aprovechar los bienes concesionados;
+
+c) Los beneficios sociales o económicos que el municipio de que se trate pretenda obtener mediante la concesión;
+
+d) Las cargas que deberá cumplir el particular, en su caso, y el monto de las inversiones presupuestadas a cargo del mismo;
+
+e) El plazo de la concesión, mismo que será fijado estimando el tiempo requerido para que el particular amortice sus inversiones y obtenga una utilidad razonable, sin que el plazo original de la concesión pueda exceder de treinta años; y
+
+f) En su caso, los servicios inherentes, auxiliares o complementarios de la concesión que podrán ser prestados por el particular, y las cuotas o tarifas autorizadas;
+
+VII. Además de los puntos mencionados en la fracción V de este artículo, los Ayuntamientos podrán establecer en los títulos de concesión:
+
+a) Que el particular quede obligado a cubrirle al municipio contraprestaciones periódicas durante la vigencia de la concesión;
+
+b) Que el particular quede obligado a garantizarle al municipio el cumplimiento de las obligaciones a su cargo derivadas de la concesión;
+
+c) La forma, términos y condiciones en que el particular ejercerá los derechos y cumplirá las obligaciones derivadas de la concesión, así como, en su caso, los plazos de cura de que gozará el particular para subsanar incumplimientos;
+
+d) Las medidas que podrá adoptar el Ayuntamiento para vigilar el cumplimiento de las cargas del particular durante la vigencia de la concesión, así como los procedimientos aplicables, en caso de revocación, para que el concesionario presente las aclaraciones, defensas, pruebas y alegatos que estime convenientes; y
+
+e) Las fórmulas y procedimientos a seguir para fijar la indemnización que, en su caso, corresponda al particular si termina anticipadamente el plazo de vigencia de la concesión;
+
+VIII. Las concesiones sobre bienes de dominio público municipal podrán prorrogarse a petición del concesionario, siempre y cuando:
+
+a) El tiempo de la prórroga no sea mayor que el plazo original de la concesión, en el entendido que si se dan dos o más prórrogas, éstas, consideradas en su conjunto, no deberán sumar un plazo mayor que el plazo original de la concesión;
+
+b) El concesionario esté en cumplimiento de las obligaciones a su cargo derivadas de la concesión; y
+
+c) El Ayuntamiento permanezca obteniendo beneficios económicos o sociales para el municipio durante las prórrogas de la concesión.
+
+Para prorrogar el plazo de vigencia de la concesión se requerirá autorización previa del Congreso o la Diputación Permanente del Estado, a menos que su autorización haya previsto la posibilidad de extender el plazo de la concesión y establecido los requisitos aplicables al efecto;
+
+IX. Las concesiones terminarán su vigencia en los casos siguientes:
+
+a) Si vence el plazo por el cual fueron conferidas;
+
+b) Si el Ayuntamiento decreta su rescate por causa de utilidad pública y cubre la indemnización que proceda;
+
+c) Si el Ayuntamiento acuerda revocar la concesión en términos de la fracción IX de este artículo;
+
+d) Si desaparece el bien objeto de la concesión; y
+
+e) En los demás supuestos que, en su caso, se prevean en los títulos de concesión.
+
+Al término de la concesión los bienes materia de la misma, incluyendo sus mejoras y accesiones, revertirán de pleno derecho al control y administración del Ayuntamiento. En los casos que conforme al título de concesión proceda el pago de una indemnización al particular, la reversión surtirá sus efectos, y el particular tendrá obligación de entregar los bienes al Ayuntamiento, una vez que haya sido pagada la indemnización respectiva;
+
+X. Los Ayuntamientos podrán revocar las concesiones antes de su vencimiento en cualquiera de los casos siguientes:
+
+a) Si el concesionario cambia de nacionalidad o es declarado en quiebra;
+
+b) Si el concesionario incumple sin causa justificada las obligaciones a su cargo y no subsana el incumplimiento de que se trate dentro de los plazos de cura establecidos en el título de concesión;
+
+c) Si el concesionario abandona la explotación de la concesión y ésta se interrumpe, por causas imputables al propio concesionario, durante más tiempo del límite previsto en el título de concesión; y
+
+d) Si el concesionario cede o de cualquier forma transmite o grava a favor de terceros su concesión, o los derechos derivados de ella, sin autorización previa del Ayuntamiento, con excepción de los derechos al cobro de cualesquier cuotas, tarifas e indemnizaciones que correspondan al concesionario con base en la concesión, mismos que tendrá plena libertad de negociar, gravar, fideicomitir y transmitir a favor de terceros. Si, con autorización del Ayuntamiento, las inversiones del concesionario fueran financiadas o refinanciadas parcial o totalmente por terceros y los derechos de cobro a que este párrafo se refiere fueran fideicomitidos o de otra forma comprometidos como garantía o fuente de pago de los financiamientos respectivos, tales derechos de cobro y los flujos de efectivo derivados de los mismos deberán mantenerse afectos a favor de los terceros de que se trate, inclusive en caso de terminación anticipada de la concesión, hasta que sus financiamientos hayan sido totalmente liquidados.
+
+En cualquiera de los casos mencionados el Ayuntamiento podrá acordar la revocación de la concesión siempre y cuando previamente haya dado oportunidad suficiente al concesionario para presentar las aclaraciones, defensas, pruebas y alegatos que estime convenientes;
+
+XI. Las controversias que se susciten sobre interpretación y cumplimiento de las concesiones para usar, explotar y aprovechar bienes del dominio público del municipio, y toda clase de contratos relacionados con estas últimas, se decidirán con base en los ordenamientos siguientes, en el orden de prioridad que se indica:
+
+a) Por los términos de las autorizaciones dadas al Ayuntamiento por el Congreso o la Diputación Permanente del Estado para otorgar las concesiones;
+
+b) Por los términos mismos de las concesiones y contratos de que se trate;
+
+c) A falta de disposiciones aplicables en esta ley, por los preceptos del Código Civil del Estado; y
+
+d) En su defecto, por las disposiciones del Código de Procedimientos Administrativos del Estado de Veracruz de Ignacio de la Llave y las demás leyes municipales y estatales que resulten aplicables.
 
 ###### Artículo 97.
 
@@ -1425,9 +1517,11 @@ El Ayuntamiento, en los casos señalados en el artículo anterior, podrá declar
 
 La resolución que declare o decrete la extinción de las concesiones se sujetará a lo dispuesto por esta ley y demás legislación aplicable.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 12 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 99.
 
-Las concesiones se extinguen por:
+Las concesiones de servicios públicos se extinguen por:
 
 I. Conclusión de su vigencia,
 
@@ -1435,13 +1529,17 @@ II. Falta de realización de la condición o término suspensivo dentro del plaz
 
 III. Rescate, revocación o reversión, según sea el caso, por cuestiones supervenientes de oportunidad o interés público, en términos de las disposiciones aplicables.
 
+> <small>(REFORMADO, G.O. 12 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 100.
 
-A petición formulada por los concesionarios al Ayuntamiento, antes de la conclusión de su vigencia, podrá prorrogarse la concesión, previa autorización del Congreso del Estado o de la Diputación Permanente, por un término no mayor al que fue originalmente otorgada, siempre que subsista la necesidad del servicio; que las instalaciones y equipo hubieren sido renovados para satisfacerla durante el tiempo de la prórroga; que el servicio se haya prestado en forma eficiente y que el Ayuntamiento esté imposibilitado para prestarlo o lo considere conveniente.
+A petición formulada por los concesionarios de servicios públicos municipales al Ayuntamiento, antes de la conclusión de su vigencia, podrá prorrogarse la concesión, previa autorización del Congreso del Estado o de la Diputación Permanente, por un término no mayor al que fue originalmente otorgada, siempre que subsista la necesidad del servicio; que las instalaciones y equipo hubieren sido renovados para satisfacerla durante el tiempo de la prórroga; que el servicio se haya prestado en forma eficiente y que el Ayuntamiento esté imposibilitado para prestarlo o lo considere conveniente.
+
+> <small>(REFORMADO, G.O. 12 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 101.
 
-En caso de extinción de la concesión, los bienes con que se preste el servicio podrán revertirse en favor del Municipio. El Congreso del Estado o la Diputación Permanente, oyendo al interesado y al Ayuntamiento, podrán determinar el pago de la indemnización que proceda cuando, durante la vigencia de la concesión, no hubiera existido amortización de los bienes afectos al servicio, siempre y cuando así lo demuestre el concesionario.
+En caso de extinción de la concesión de servicios públicos municipales, los bienes con que se preste el servicio podrán revertirse en favor del municipio. El Congreso del Estado o la Diputación Permanente, oyendo al interesado y al Ayuntamiento, podrán determinar el pago de la indemnización que proceda cuando, durante la vigencia de la concesión, no hubiera existido amortización de los bienes afectos al servicio, siempre y cuando así lo demuestre el concesionario.
 
 ### CAPÍTULO I
 
@@ -2440,3 +2538,7 @@ G.O. 15 DE AGOSTO DE 2005.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación, en la Gaceta Oficial, órgano de gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 12 DE DICIEMBRE DE 2005.
+
+Primero. El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial.
