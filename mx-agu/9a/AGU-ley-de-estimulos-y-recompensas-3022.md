@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-estimulos-y-recompensas-3022"
 country: "mx"
 rank: "ley"
 publication_date: "1965-08-29"
-last_updated: "1965-08-29"
+last_updated: "2005-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3022&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE ESTIMULOS Y RECOMPENSAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el 29 de agosto de 1965.
 
@@ -45,7 +45,7 @@ b).- Diploma de Honor;
 
 c).- Premios; y
 
-d).- Reducción de pena a los reos sentenciados.
+d).- (DEROGADO, P.O. 12 DE DICIEMBRE DE 2005)
 
 ###### Artículo 2o.
 
@@ -73,11 +73,11 @@ Las becas otorgadas por el Ejecutivo del Estado, se distribuirán concediéndole
 
 ###### Artículo 8o.
 
-A los reos con sentencia ejecutoriada en la fecha en que entre en vigor la presente Ley, se les reducirá la sanción impuesta en un mes por cada recluso analfabeta que enseñe a leer y escribir.
+(DEROGADO, P.O. 12 DE DICIEMBRE DE 2005)
 
 ###### Artículo 9o.
 
-A los reclusos analfabetas sentenciados ejecutoriadamente a penas mayores de un año, que aprendan a leer y escribir, se les reducirá en seis meses la sanción impuesta. A los sentenciados ejecutoriadamente a una pena menor de un año, se les reducirá en tres meses la sanción impuesta.
+(DEROGADO, P.O. 12 DE DICIEMBRE DE 2005)
 
 ###### Artículo 10.
 
@@ -158,3 +158,9 @@ Enrique Olivares Santana.
 EL SECRETARIO GRAL. DE GOBIERNO,
 
 Lic. Felipe Reynoso Jiménez.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE DICIEMBRE DE 2005.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
