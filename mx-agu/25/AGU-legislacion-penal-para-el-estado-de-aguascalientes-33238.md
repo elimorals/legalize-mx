@@ -4,7 +4,7 @@ identifier: "AGU-legislacion-penal-para-el-estado-de-aguascalientes-33238"
 country: "mx"
 rank: "otro"
 publication_date: "2003-07-21"
-last_updated: "2004-02-27"
+last_updated: "2005-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2005.
 
 Legislación publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de julio de 2003.
 
@@ -133,9 +133,11 @@ Si las Lesiones Dolosas fueron por motivo de Riña, se aplicará a los responsab
 
 Por Riña se entiende la contienda de obra entre dos o más personas, o la agresión física de una parte y la disposición material para contender de la otra, con el propósito de dañarse recíprocamente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 13.
 
-El Homicidio Doloso y las Lesiones Dolosas serán considerados como Calificados, cuando se cometan con:
+El Homicidio Doloso y las Lesiones Dolosas serán considerados como calificados, cuando se cometan con:
 
 I. Premeditación;
 
@@ -149,13 +151,25 @@ V. Brutal ferocidad;
 
 VI. Tortura;
 
-VII. Cuando la víctima sea menor de 15 años de edad o se trate de un incapaz sujeto a patria potestad, tutela o custodia del responsable; o
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2005)</small>
 
-VIII. Cuando el responsable tenga relación de pareja o de carácter conyugal, sea pariente consanguíneo en línea recta, ascendiente o descendiente sin limitación de grado, pariente colateral consanguíneo o afín hasta el cuarto grado, con la víctima.
+VII. Cuando la víctima sea menor de 15 años de edad;
 
-Si el Homicidio Doloso es Calificado, se aplicarán al responsable de 15 a 40 años de prisión y de 150 a 500 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, privándose además al responsable de los derechos familiares que le correspondan, incluidos los de derecho sucesorio, en tratándose de los supuestos de las fracciones VII y VIII del presente artículo.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2005)</small>
 
-Si las Lesiones Dolosas son Calificadas, la punibilidad establecida en el artículo 10 se aumentará hasta en dos terceras partes en sus mínimos y máximos, privándose además al responsable de los derechos familiares que le correspondan, incluidos los de derecho sucesorio, en tratándose de los supuestos de las fracciones VII y VIII del presente artículo.
+VIII. Cuando el responsable tenga relación de pareja o de carácter conyugal, sea pariente consanguíneo en línea recta, ascendiente o descendiente sin limitación de grado, pariente colateral consanguíneo o afín hasta el cuarto grado, con la víctima; o
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2005)</small>
+
+IX.- Cuando la víctima se trate de un incapaz sujeto a patria potestad, tutela, curatela o custodia del responsable.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2005)</small>
+
+En el caso de Homicidio Doloso Calificado a que se refieren las fracciones I a VII, se aplicará al responsable de 15 a 40 años de prisión y de 150 a 500 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, en el caso de las fracciones VIII y IX se aplicará al responsable de 20 a 50 años de prisión y de 500 a 1000 días de multa; y al pago total de la reparación de los daños y perjuicios ocasionados, privándose además al responsable de los derechos familiares que le correspondan, incluidos los de derecho sucesorio.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2005)</small>
+
+Si las Lesiones Dolosas son Calificadas, la punibilidad establecida en el artículo 10 se aumentará hasta en dos terceras partes en sus mínimos y máximos, privándose además al responsable de los derechos familiares que le correspondan, incluidos los de derecho sucesorio, en tratándose de los supuestos de las Fracciones VIII y IX del presente artículo.
 
 ###### Artículo 14.
 
@@ -183,9 +197,15 @@ Existe Tortura cuando el inculpado servidor público provoca el resultado lesivo
 
 ### CAPITULO SEGUNDO. Tipos Penales Protectores de la Libertad Sexual, la Seguridad Sexual y el Normal Desarrollo Físico y Psicosexual
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 20.
 
-El Hostigamiento Sexual consiste en el asedio que se haga, con fines lascivos, sobre personas de cualquier sexo, por quien se aproveche de su posición jerárquica, derivada de relaciones laborales, docentes, domésticas o de cualquier otra clase, que impliquen subordinación de parte de la víctima.
+El Hostigamiento Sexual consiste en:
+
+I.- El asedio que se haga, con fines lascivos, sobre personas de cualquier sexo por quien se aproveche de su posición jerárquica, derivada de relaciones laborales, docentes, domésticas o de cualquier otra clase, que implique subordinación de parte de la víctima; o
+
+II.- El asedio con fines lascivos para sí o por tercera persona, a personas de cualquier sexo, aprovechándose de cualquier circunstancia de necesidad o de desventaja de la víctima.
 
 Al responsable de Hostigamiento Sexual se le aplicarán de 1 a 2 años de prisión y de 20 a 40 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
@@ -217,13 +237,17 @@ Al responsable de Corrupción de Menores se le aplicarán de 6 a 14 años de pri
 
 La punibilidad descrita se duplicará, cuando el inculpado sea ascendiente, padrastro o madrastra de la víctima.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 23.
 
-El Estupro consiste en realizar cópula con mujer casta, mayor de doce y menor de dieciséis años de edad, obteniendo su consentimiento por medio de seducción o engaño.
+El estupro consiste en realizar cópula con persona casta mayor de doce y menor de dieciséis años de edad, obteniendo su consentimiento por medio de seducción o engaño.
 
 Al responsable de Estupro se le aplicarán de 1 a 5 años de prisión y de 5 a 25 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
-La reparación del daño, en este caso, comprenderá además el pago de los alimentos a la mujer y también a los hijos, si los hubiere.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2005)</small>
+
+La reparación del daño, comprenderá además el pago de los alimentos a la víctima y también a los hijos si los hubiere.
 
 El pago de los alimentos se hará en la forma y términos que la ley civil fije para el efecto.
 
@@ -475,7 +499,11 @@ IX. El objeto material del apoderamiento sean instrumentos de labranza, objetos 
 
 X. El objeto material del apoderamiento sean postes, alambres u otros materiales de las cercas de los sembradíos o potreros, dejando éstos al descubierto en todo o en parte; o
 
-XI. Se lleve a cabo el apoderamiento mediante el uso de sistemas de informática, sistema de redes de computadoras, base de datos, soporte lógico o programas de cómputo.
+XI. Se lleve a cabo el apoderamiento mediante el uso de sistemas de informática, sistema de redes de computadoras, base de datos, soporte lógico o programas de cómputo;
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2005)</small>
+
+XII. El apoderamiento se realice respecto de vehículos de transporte público de pasajeros, sobre parte de ellos o sobre los bienes a cargo o disposición de su conductor o pasajeros.
 
 Al responsable de Robo Calificado se le aplicará hasta en una mitad más de los mínimos y máximos previstos para el tipo penal de Robo.
 
@@ -1085,59 +1113,63 @@ A los responsables de Motín se les aplicarán de 2 a 5 años de prisión y de 2
 
 ### CAPITULO DECIMO SEXTO. Tipos Penales Protectores del Sistema Electoral
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 87.
 
 Los Atentados al Sistema de Elección Popular consisten en:
 
-I. Votar o intentar votar quien esté impedido para ello por la legislación electoral vigente;
+I. Votar o intentar votar estando impedido para ello en términos de la legislación electoral vigente;
 
-II. Votar más de una vez en un mismo proceso electoral;
+II. Votar más de una vez, en un mismo proceso electoral, y respecto del mismo cargo motivo de elección;
 
-III. Votar o pretender votar con una credencial para votar de la que no sea titular;
+III. Votar o intentar votar, con una credencial de elector no expedida a su nombre, o credencial para votar con fotografía falsa;
 
-IV. Obstaculizar o interferir el desarrollo legal del proceso electoral;
+IV. Obstaculizar o interferir en el desarrollo legal del proceso electoral;
 
-V. Presentarse a votar portando armas;
+V. Votar o intentar votar, portando armas;
 
-VI. Negarse a desempeñar, sin causa justificada, las funciones electorales que se le encomienden;
+VI. Omitir el desempeñar, sin causa justificada, las funciones electorales que se le encomienden, y de las cuales haya sido notificado personalmente, por las autoridades competentes;
 
-VII. Negarse los fedatarios públicos a dar fe de los actos en que deban intervenir, según lo dispone la legislación electoral vigente;
+VII. Negarse los fedatarios públicos a dar fe de los actos o hechos respecto de los cuales legalmente se solicite su intervención, en términos de la legislación electoral vigente;
 
-VIII. Hacer proselitismo o propaganda política dentro de los tres días anteriores al de la elección o el día de la votación, a favor de algún partido político o candidato;
+VIII. Hacer proselitismo o propaganda política dentro de los tres días anteriores al de la elección o el día de la votación a favor de algún partido político, coalición o candidato;
 
-IX. Inducir al electorado a abstenerse de votar;
+IX. Inducir al electorado a abstenerse de votar, durante el desarrollo del proceso electoral correspondiente;
 
 X. Falsificar, alterar, apoderarse sin derecho o destruir documentos públicos destinados al desarrollo de procesos electorales;
 
 XI. Violar en cualquier forma el secreto del voto;
 
-XII. Recoger en cualquier tiempo, sin causa prevista por la ley, credenciales para votar de los ciudadanos;
+XII. Recoger o solicitar la entrega, sin causa prevista por la ley, credencial para votar con fotografía en poder de los ciudadanos;
 
-XIII. Siendo ministro de cualquier culto religioso, inducir al electorado a abstenerse de votar, o hacerlo a favor o en contra de cualquier partido político, coalición o candidato;
+XIII. Inducir al electorado a abstenerse de votar; o hacerlo a favor de cualquier partido político, coalición o candidato, cuando se tenga el carácter de Ministro de cualquier culto religioso;
 
-XIV. Siendo de nacionalidad extranjera, inmiscuirse en asuntos de orden político;
+XIV. Inmiscuirse en asuntos de orden político, siendo extranjero;
 
-XV. Siendo servidor público, realizar propaganda a favor de partido político alguno, utilizando tiempo de labores o recursos del erario público;
+XV. Realizar el servidor público propaganda o promoción a favor de partido político, coalición o candidato, utilizando tiempo de sus labores asignadas o los recursos del erario público; o
 
-XVI. Siendo funcionario electoral:
+XVI. Teniendo el carácter de funcionario electoral:
 
 a) Abstenerse de cumplir con sus obligaciones, sin causa justificada, y en perjuicio del proceso electoral;
 
 b) Obstaculizar o impedir el desarrollo legal del proceso electoral;
 
-c) Ejercer presión sobre los electores para inducirlos a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los electores se encuentren en espera de emitir su voto;
+c) Ejercer presión sobre los electores para inducirlos a votar por un partido, coalición o candidato, en el interior de la casilla o en el lugar donde los electores se encuentren en espera de emitir su voto;
 
-d) Instalar, abrir o cerrar dolosamente una casilla fuera de los tiempos y formas previstas por la legislación electoral vigente, o la instale en lugar distinto al legalmente señalado, o impida la instalación en el lugar que le corresponda;
+d) Instalar, abrir o cerrar dolosamente una casilla fuera de los tiempos y formas previstas por la legislación electoral vigente, o que aquella sea instalada en lugar distinto al legalmente señalado, o impida la instalación en el lugar que le corresponda;
 
-e) Expulsar de la casilla electoral, sin causa justificada, al o a los representantes de algún partido político o impida el ejercicio de los derechos que la legislación electoral vigente les concede;
+e) Expulsar de la casilla electoral, sin causa justificada, al o los representantes de algún partido político o les impida el ejercicio de los derechos que la legislación electoral vigente les concede;
 
-f) No tomar las medidas conducentes a evitar la existencia de condiciones o actividades que atenten contra la libertad y el secreto del voto; y
+f) No tomar las medidas legales adecuadas para evitar la existencia de condiciones o actividades que atenten contra la libertad y el secreto del voto;
 
-g) Difundir dolosamente información falsa, antes, durante o después del desarrollo de la jornada electoral o respecto de sus resultados, y confundir a la opinión pública.
+g) Dar a conocer dolosamente a cualquier medio masivo de comunicación o persona información falsa, antes durante o después del desarrollo de la jornada electoral o respecto de sus resultados; o
 
-h) Permita o tolere que un ciudadano emita su voto a sabiendas de que no cumple con los requisitos de ley o que se introduzcan en las urnas ilícitamente una o más boletas electorales;
+h) Permitir o tolerar que un ciudadano emita su voto sin que éste cumpla con los requisitos de ley o que se introduzcan en las urnas una o más boletas electorales, en forma ilícita.
 
-A los responsables de los hechos descritos en las fracciones I a XIII del presente artículo, se les aplicarán de 6 meses a 2 años de prisión, así como suspensión de sus derechos políticos por el término de 4 a 7 años. A los responsables de los hechos descritos en los diversos incisos de la fracción XIV del presente artículo, se les aplicará de 2 a 6 años de prisión, así como suspensión de sus derechos políticos por el término de 6 a 9 años.
+A los responsables de los hechos descritos en las fracciones I a XV del presente artículo, se les aplicarán de 6 meses a 2 años de prisión, así como suspensión de sus derechos políticos por el término de 4 a 7 años. A los responsables de los hechos descritos en los diversos incisos de la fracción XVI del presente artículo, se les aplicará de 2 a 6 años de prisión, así como suspensión de sus derechos políticos por el término de 6 a 9 años.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 88.
 
@@ -1145,13 +1177,13 @@ También serán considerados Atentados al Sistema de Elección Popular, las cond
 
 I. No prestar con la debida oportunidad la ayuda o auxilio solicitados por las autoridades electorales, en términos de ley;
 
-II. Obligar a sus subordinados a emitir votos a favor de un partido político, coalición o candidato;
+II. Obligar a los empleados del lugar donde desarrolla sus labores a emitir voto a favor de un partido político, coalición o candidato;
 
-III. Condicionar la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas, a la emisión del sufragio a favor de un partido político, coalición o candidato;
+III. Condicionar la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas, a la emisión del voto a favor de un partido político, coalición o candidato;
 
-IV. Destinar fondos, bienes, servicios, vehículos, inmuebles o equipos que tenga a su disposición en virtud de su cargo, al apoyo de uno o varios partidos políticos, coalición o candidatos, o proporcione tal apoyo a través de sus subordinados, utilizando el tiempo destinado a sus labores públicas; y
+IV. Destinar fondos, bienes, servicios, vehículos, inmuebles o equipos que tenga a su disposición o resguardo en virtud de su cargo, al apoyo de uno o varios partidos políticos, coaliciones o candidatos, o proporcione tal apoyo a través de sus subordinados; o
 
-V. Impedir ilegalmente reuniones, asambleas o manifestaciones pacíficas o la realización de cualquier otro acto de proselitismo electoral.
+V. Impedir la realización de reuniones, asambleas o manifestaciones pacíficas o la realización de cualquier otro acto de proselitismo electoral.
 
 Al responsable de los hechos descritos en el presente artículo, se le aplicarán de 2 a 5 años de prisión, así como suspensión de sus derechos políticos por el término de 4 a 7 años, sin perjuicio de aplicar las reglas del Concurso, por la comisión de algún otro hecho delictivo.
 
@@ -4053,19 +4085,23 @@ XI. Secuestro, prevista en el artículo 40;
 
 XII. Robo Calificado, previsto en el artículo 45, en relación con el artículo 44, cuando el valor de la afectación patrimonial exceda de trescientas veces el salario mínimo general vigente en el Estado;
 
-XIII. Extorsión, prevista en el artículo 49;
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2005)</small>
 
-XIV. Atentados a la Estética Urbana, prevista en el artículo 54;
+XIII. Robo calificado, previsto en la fracción XII del artículo 45, en relación con el artículo 44, cualquiera que sea el valor de la afectación patrimonial;
 
-XV. Atentados al Desarrollo Urbano Ordenado, prevista en el artículo 55;
+XIIV. Extorsión, prevista en el artículo 49;
 
-XVI. Rebelión, prevista en el artículo 83; y
+XV. Atentados a la Estética Urbana, prevista en el artículo 54;
 
-XVII. Homicidio Culposo, prevista en el artículo 92, párrafo tercero;
+XVI. Atentados al Desarrollo Urbano Ordenado, prevista en el artículo 55;
 
-XVIII. Aborto Culposo, prevista en el artículo 93, párrafo tercero; y
+XVII. Rebelión, prevista en el artículo 83; y
 
-XIX. Lesiones Culposas, previstas en el artículo 94, último párrafo, en relación al artículo 10, fracciones IV, V y VI.
+XVIII. Homicidio Culposo, prevista en el artículo 92, párrafo tercero;
+
+XIX. Aborto Culposo, prevista en el artículo 93, párrafo tercero; y
+
+XX. Lesiones Culposas, previstas en el artículo 94, último párrafo, en relación al artículo 10, fracciones IV, V y VI.
 
 En lo que se refiere a la figura típica de Atentados a la Estética Urbana, se podrá conceder el beneficio de la libertad provisional bajo caución, si el inculpado repara el daño causado, dentro de los diez días siguientes a la fecha en que haya sido puesto a disposición de la autoridad judicial.
 
@@ -4827,7 +4863,7 @@ La potestad de ejecutar las demás penas y las medidas de seguridad, prescribir�
 
 La extinción de la potestad para ejecutar penas y medidas de seguridad, podrá resolverse de oficio o a petición de la parte interesada.
 
-T R A N S I T O R I O S:
+T R A N S I T O R I O S :
 
 > <small>(REFORMADO, P.O. 13 DE ENERO DE 2004)</small>
 
@@ -4916,3 +4952,31 @@ P.O. 27 DE FEBRERO DE 2004.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE DICIEMBRE DE 2005.
+
+DECRETO NUMERO 78
+
+UNICO.- El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE DICIEMBRE DE 2005.
+
+DECRETO NUMERO 79
+
+UNICO.- El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE DICIEMBRE DE 2005.
+
+DECRETO NUMERO 82
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Los artículos 20 y 23 de la legislación Penal para el Estado de Aguascalientes, vigentes hasta la entrada en vigor del presente decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesales o sentenciadas por los delitos previstos y sancionados por dichos artículos.
+
+P.O. 12 DE DICIEMBRE DE 2005.
+
+DECRETO NUMERO 85
+
+PRIMERO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El artículo 13 de la Legislación Penal para el Estado de Aguascalientes, vigente hasta antes de la entrada en vigor del presente Decreto, seguirá aplicándose por los hechos realizados durante su vigencia y respecto a las personas procesadas o sentenciadas por la comisión del mismo.
