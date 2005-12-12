@@ -4,7 +4,7 @@ identifier: "HID-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-2549
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-15"
-last_updated: "2002-07-15"
+last_updated: "2005-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 15 de julio de 2002.
 
@@ -334,6 +334,12 @@ Ningún acto o contrato que genere un gasto con cargo al Presupuesto de Egresos,
 ###### ARTICULO 54.
 
 Para el pago de las remuneraciones al personal que presta sus servicios al Estado, por concepto de sueldos, salarios, honorarios y demás prestaciones inherentes, se estará a lo dispuesto por la Legislación aplicable, así como a la demás normatividad en la materia. Las nóminas se harán por cada período de pago y contendrán el nombre y firma del servidor público que lo recibe, no podrán ser modificados sin autorización en el Presupuesto de Egresos.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2005)</small>
+
+ARTICULO 54 BIS.- El Congreso del Estado, emitirá a más tardar el 15 de noviembre de cada año, los criterios y recomendaciones sobre los montos máximos de las dietas y remuneraciones de los integrantes de los Ayuntamientos y funcionarios de la Administración Pública Municipal; mismas que deberá Publicar en el Periódico Oficial del Estado y en su caso, darlas a conocer a través de los diversos medios de comunicación existentes en los Municipios de la Entidad.
+
+El Órgano Superior de Fiscalización, al inicio de cada Periodo Ordinario, presentará al Congreso, un informe sobre el cumplimiento mensual, de la atención otorgada por los Municipios del Estado, a los criterios y recomendaciones emitidas.
 
 ###### ARTICULO 55.
 
@@ -648,3 +654,11 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MANUEL ANGEL NUÑEZ SOTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE DICIEMBRE DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Por única ocasión, el Congreso del Estado, podrá emitir el documento respectivo, a más tardar el 20 de diciembre de 2005.
