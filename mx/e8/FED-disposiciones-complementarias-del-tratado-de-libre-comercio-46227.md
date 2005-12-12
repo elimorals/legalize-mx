@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-462
 country: "mx"
 rank: "otro"
 publication_date: "1995-03-13"
-last_updated: "2005-09-14"
+last_updated: "2005-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46227&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,29 +19,25 @@ issue_date: "1995-03-03"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO (MULTILATERAL, 1994)
 
-ACUERDO POR EL QUE SE INCREMENTA EL MONTO ESTABLECIDO EN EL DIVERSO POR EL QUE SE DA A CONOCER LA DECISION NO. 40 DE LA COMISION ADMINISTRADORA POR LA QUE SE OTORGA UNA DISPENSA TEMPORAL PARA LA UTILIZACION DE MATERIALES DE FUERA DE LA ZONA DE LIBRE COMERCIO PARA QUE DETERMINADOS BIENES TEXTILES Y DEL VESTIDO RECIBAN EL TRATO ARANCELARIO PREFERENCIAL ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO CELEBRADO ENTRE LOS ESTADOS UNIDOS MEXICANOS, LA REPUBLICA DE COLOMBIA Y LA REPUBLICA BOLIVARIANA DE VENEZUELA
+ACUERDO POR EL QUE SE DA A CONOCER LA DISPENSA TEMPORAL PARA LA UTILIZACION DE MATERIALES DE FUERA DE LA ZONA DE LIBRE COMERCIO PARA QUE DETERMINADOS BIENES TEXTILES Y DEL VESTIDO RECIBAN EL TRATO ARANCELARIO PREFERENCIAL ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO CELEBRADO ENTRE LOS ESTADOS UNIDOS MEXICANOS, LA REPUBLICA DE COLOMBIA Y LA REPUBLICA BOLIVARIANA DE VENEZUELA
 
-Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 14 de septiembre de 2005.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 12 de diciembre de 2005.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-Fernando de Jesús Canales Clariond, Secretario de Economía, con fundamento en los artículos 34 de la Ley Orgánica de la Administración Pública Federal; 5o. fracción X de la Ley de Comercio Exterior; 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía, con fundamento en los artículos 34 de la Ley Orgánica de la Administración Pública Federal; 5o. fracción X de la Ley de Comercio Exterior; 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que el 1 de enero de 1995 entró en vigor el Tratado de Libre Comercio celebrado entre los Estados Unidos Mexicanos, la República de Colombia y la República Bolivariana de Venezuela (el “Tratado”) que establece en el artículo 6-20 un Comité de Integración Regional de Insumos (CIRI);
+Que el 1 de enero de 1995 entró en vigor el Tratado de Libre Comercio entre los Estados Unidos Mexicanos, la República de Colombia y la República Bolivariana de Venezuela (el Tratado) en el cual las Partes establecieron de conformidad con el artículo 6-20 del propio Tratado, un Comité de Integración Regional de Insumos (CIRI);
 
 Que el artículo 6-23 del Tratado faculta al CIRI para dictaminar sobre los montos y términos de una dispensa para la utilización de materiales producidos u obtenidos fuera de la zona de libre comercio a fin de recibir trato arancelario preferencial;
 
-Que el 9 de agosto de 2004 el CIRI emitió un Dictamen en el que determinó otorgar una dispensa para permitir la utilización de ciertos materiales de fuera de la zona de libre comercio en la manufactura de ciertos bienes textiles y del vestido para que reciban el trato arancelario preferencial establecido en el Tratado;
+Que el 18 de octubre de 2005 el CIRI emitió un Dictamen en el que determinó otorgar una dispensa para la utilización de ciertos materiales producidos u obtenidos fuera de la zona de libre comercio en la manufactura de ciertos bienes textiles y del vestido a fin de que estos bienes puedan recibir el trato arancelario preferencial previsto en el Tratado, y
 
-Que el referido Dictamen fue adoptado el 20 de agosto del mismo año por la Comisión Administradora del Tratado (la “Comisión”) a través de la Decisión No. 40 y publicada en el Diario Oficial de la Federación el 15 de octubre de 2004, mediante el Acuerdo por el que se da a conocer la Decisión de la Comisión Administradora por la que se otorga una dispensa temporal para la utilización de materiales de fuera de la zona de libre comercio para que determinados bienes textiles y del vestido reciban el trato arancelario preferencial establecido en el Tratado de Libre Comercio celebrado entre los Estados Unidos Mexicanos, la República de Colombia y la República Bolivariana de Venezuela, el cual entró en vigor ese mismo día;
+Que los gobiernos de los Estados Unidos Mexicanos y de la República de Colombia de conformidad con lo establecido en los artículos 6-20, 6-21, 6-22, 6-23 y 6-24 del Tratado, tomando en consideración el dictamen emitido por el CIRI, que determina la posibilidad de otorgar una dispensa para la utilización de materiales producidos u obtenidos fuera de la zona de libre comercio en la manufactura de ciertos bienes textiles y del vestido y que estos bienes puedan recibir el trato arancelario preferencial, adoptaron el 24 de noviembre del presente año la referida dispensa, he tenido a bien expedir el siguiente
 
-Que de conformidad con el párrafo 7 de la Decisión mencionada en el considerando anterior, la Comisión estableció la posibilidad de solicitar una prórroga o aumento en los montos determinados para alguno de los materiales establecidos en la propia Decisión, y
-
-Que en virtud de que se ha agotado el monto previsto en la referida Decisión aplicable a ciertos bienes, el sector privado de la República de Colombia ha requerido a sus autoridades solicitar al gobierno de los Estados Unidos Mexicanos un incremento en el monto de la dispensa a fin de que puedan continuar beneficiándose de la misma hasta su conclusión el próximo 14 de octubre, y que las autoridades mexicanas, contando con la opinión favorable del sector privado correspondiente, decidieron aumentar el monto, se hace necesario dar a conocer lo anterior a las autoridades aduaneras y a los particulares, he tenido a bien expedir el siguiente:
-
-ACUERDO POR EL QUE SE INCREMENTA EL MONTO ESTABLECIDO EN EL DIVERSO POR EL QUE SE DA A CONOCER LA DECISION No. 40 DE LA COMISION ADMINISTRADORA POR LA QUE SE OTORGA UNA DISPENSA TEMPORAL PARA LA UTILIZACION DE MATERIALES DE FUERA DE LA ZONA DE LIBRE COMERCIO PARA QUE DETERMINADOS BIENES TEXTILES Y DEL VESTIDO RECIBAN EL TRATO ARANCELARIO PREFERENCIAL ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO CELEBRADO ENTRE LOS ESTADOS UNIDOS MEXICANOS, LA REPUBLICA DE COLOMBIA Y LA REPUBLICA BOLIVARIANA DE VENEZUELA
+ACUERDO POR EL QUE SE DA A CONOCER LA DISPENSA TEMPORAL PARA LA UTILIZACION DE MATERIALES DE FUERA DE LA ZONA DE LIBRE COMERCIO PARA QUE DETERMINADOS BIENES TEXTILES Y DEL VESTIDO RECIBAN EL TRATO ARANCELARIO PREFERENCIAL ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO CELEBRADO ENTRE LOS ESTADOS UNIDOS MEXICANOS, LA REPUBLICA DE COLOMBIA Y LA REPUBLICA BOLIVARIANA DE VENEZUELA
 
 ###### ARTÍCULO 1.
 
@@ -111,9 +107,35 @@ La importación de mercancías provenientes de Venezuela, comprendidas en los ca
 
 ###### ARTICULO UNICO.
 
-Se incrementa el monto establecido en el numeral 3 del Acuerdo por el que se da a conocer la Decisión No. 40 de la Comisión Administradora por la que se otorga una dispensa temporal para la utilización de materiales de fuera de la zona de libre comercio para que determinados bienes textiles y del vestido reciban el trato arancelario preferencial establecido en el Tratado de Libre Comercio celebrado entre los Estados Unidos Mexicanos, la República de Colombia y la República Bolivariana de Venezuela, publicado en el Diario Oficial de la Federación el 15 de octubre de 2004, para el filamento de rayón viscosa 330/60 Bright Centrifual clasificado en la fracción arancelaria 5403.41.00 a la que los Estados Unidos Mexicanos aplicarán el arancel correspondiente a bienes originarios previsto en su programa de desgravación establecido en el anexo 1 al artículo 3-04 del Tratado, en los siguientes términos:
+Se da a conocer la dispensa temporal adoptada el 24 de noviembre de 2005 por los gobiernos de los Estados Unidos Mexicanos y la República de Colombia:
+
+“Dispensa temporal para la utilización de materiales de fuera de la zona de libre comercio para que determinados bienes textiles y del vestido reciban el trato arancelario preferencial del Tratado de Libre Comercio celebrado entre los Estados Unidos Mexicanos, la República de Colombia y la República Bolivariana de Venezuela.
+
+Los gobiernos de los Estados Unidos Mexicanos y de la República de Colombia de conformidad con lo establecido en los artículos 6-20, 6-21, 6-22, 6-23 y 6-24 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos, la República de Colombia y la República Bolivariana de Venezuela (Tratado), tomando en consideración el dictamen emitido el 18 de octubre de 2005 por el Comité de Integración Regional de Insumos (CIRI), que determina la posibilidad de otorgar una dispensa para la utilización de materiales producidos u obtenidos fuera de la zona de libre comercio en la manufactura de ciertos bienes textiles y del vestido y que estos bienes puedan recibir el trato arancelario preferencial,
+
+Acuerdan:
+
+1. Otorgar por el periodo del 1 de enero al 31 de diciembre de 2006, una dispensa temporal mediante la que los Estados Unidos Mexicanos aplicarán el arancel correspondiente a bienes originarios previsto en su calendario del anexo 1 al artículo 3-04 del Tratado a los siguientes bienes textiles y del vestido:
+
+a) Los capítulos 56, 58, 60, 61, 62 y 63 del Sistema Armonizado elaborados totalmente en Colombia, a partir de los materiales producidos u obtenidos fuera de la zona de libre comercio cuya descripción y clasificación a nivel de fracción arancelaria, se mencionan en las columnas A y B del cuadro de este Acuerdo;
+
+y que cumplan con las demás condiciones aplicables para el trato arancelario preferencial de conformidad con el Tratado.
+
+2. Los bienes descritos en el punto 1 de este Acuerdo quedan sujetos a los mecanismos de verificación y certificación del capítulo VII del Tratado.
+
+3. Colombia podrá utilizar cada uno de los materiales producidos u obtenidos fuera de la zona de libre comercio en la cantidad máxima señalada en la columna C del cuadro de este Acuerdo.
+
+4. La autoridad competente de Colombia deberá asegurar que el certificado de origen, llenado y firmado por el exportador, indique en el campo de observaciones la siguiente frase: “el bien cumple con lo establecido en el Acuerdo entre los Estados Unidos Mexicanos y la República de Colombia del 24 de noviembre de 2005 y utilizó (monto(s)) kgs. De la dispensa otorgada a (nombre del (de los) material(es) utilizado(s)), clasificado(s) en la fracción (fracciones) arancelaria(s) _______.”
+
+5. Para los productos que utilicen la dispensa establecida en este Acuerdo, el certificado de origen deberá amparar sólo productos clasificados en una misma subpartida (a nivel de 6 dígitos). Por ello, si un exportador envía productos clasificados en diferentes subpartidas, éste deberá llenar un certificado para cada una de ellas.
+
+CUADRO
 
 (VEASE ARCHIVO ANEXO)
+
+6. Colombia notificará a los Estados Unidos Mexicanos un informe de utilización de la dispensa otorgada al amparo de este Acuerdo, conforme a los términos establecidos en el dictamen presentado por el CIRI a la Comisión.
+
+7. Cualquier solicitud de prórroga o aumento a los montos determinados para alguno de los materiales establecidos en el cuadro de este Acuerdo, se efectuará conforme a lo dispuesto en la sección de “Vigencia” del dictamen presentado por el CIRI a la Comisión. En su caso, cualquier prórroga o aumento se dará a conocer a través de las gacetas oficiales correspondientes de los Estados Unidos Mexicanos y la República de Colombia."
 
 ## TITULO I: DISPOSICIONES GENERALES
 
@@ -143,6 +165,6 @@ VIII.- "Trato arancelario preferencial" y "tasa arancelaria preferencial", el ar
 
 ## TRANSITORIO
 
-UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y estará vigente hasta el 14 de octubre de 2005.
+UNICO.- El presente Acuerdo estará en vigor del 1 de enero al 31 de diciembre de 2006.
 
-México, D.F., a 6 de septiembre de 2005.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
+México, D.F., a 2 (sic) diciembre de 2005.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
