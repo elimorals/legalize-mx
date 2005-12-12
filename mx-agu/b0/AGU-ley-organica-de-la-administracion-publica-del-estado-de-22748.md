@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-del-estado-de-22748"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-11-08"
-last_updated: "2005-03-21"
+last_updated: "2005-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el jueves 8 de noviembre de 2001.
 
@@ -128,6 +128,18 @@ Todos los Decretos y Reglamentos que el Gobernador promulgue, para que sean obli
 ###### ARTICULO 11.
 
 El Gobernador del Estado expedirá los reglamentos, acuerdos, circulares y demás disposiciones que tiendan a regular el funcionamiento de las dependencias del Ejecutivo y autorizará la expedición de los manuales administrativos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE DICIEMBRE DE 2005)</small>
+
+En el Reglamento Interior de cada una de las Secretarías se determinarán las atribuciones de sus unidades administrativas y la forma en que los titulares de cada una de éstas podrán ser suplidos en sus ausencias.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE DICIEMBRE DE 2005)</small>
+
+El Gobernador del Estado podrá constituir Comisiones Intersecretariales, para la resolución de asuntos en los que deban intervenir varias Secretarías. En ellas podrán intervenir las entidades de la Administración Pública Paraestatal, cuando se trate de asuntos relacionados con su objeto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE DICIEMBRE DE 2005)</small>
+
+Los instrumentos legales a que se refiere el presente artículo deberán publicarse en el Periódico Oficial del Estado de Aguascalientes.
 
 ###### ARTICULO 12.
 
@@ -1520,3 +1532,7 @@ DECIMO QUINTO.- Cada Secretaría reestructurada contará con ciento veinte días
 DECIMO SEXTO.- Cuando la competencia de alguna dependencia o entidad establecida con anterioridad a la entrada en vigor del presente Decreto deba ser ejercida por otra u otras de las que el mismo establece, pasarán los expedientes en trámite y el archivo a la dependencia o entidad competente que corresponda, y los asuntos que se encuentren en trámite competerá a cada una de las áreas reestructuradas para la conclusión, substanciación y emisión de las resoluciones respectivas.
 
 DECIMO SEPTIMO.- Las facultades y referencias del Código Urbano para el Estado de Aguascalientes que a continuación se mencionan y que actualmente están conferidas a la Secretaría de Desarrollo Social del Estado; en adelante se entenderán conferidas a la Secretaría de Planeación y Desarrollo Regional: artículo 14 fracción II, 20, 21, 22 fracciones IV, VII y IX; 23 fracciones VI y XXVI; 28 fracción II, 33 fracciones IV y VII; 34, 58, 64, 77, 78 fracción V; 81, 82, 89, 91 fracción II; 100 fracción II; 118, 168, 170, 196, 232, 264, 266, 271, 338, 343, 351, 357, 412, 413, 415, 421, 424, 425, 426, 427, 430, 431, 433, 437, 444, 445, 446, 448, 449, 450, 451, 458, 459, 460, 462, 464, 474 fracciones VI, VII, VIII, IX y X; 478, 490, 492, 570, 571, 582, 584, 585, 589, 590, 660, 672, 678, 680 y 681.
+
+P.O. 12 DE DICIEMBRE DE 2005.
+
+UNICO.- El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
