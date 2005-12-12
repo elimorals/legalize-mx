@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2004-09-13"
+last_updated: "2005-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2005.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -1153,7 +1153,7 @@ DE LOS REQUISITOS PARA CONTRAER MATRIMONIO.
 
 ###### Artículo 143.
 
-EI matrimonio debe celebrarse ante los funcionarios que establece la ley y con las formalidades que ella exige.
+El matrimonio debe celebrarse ante los funcionarios que establece la ley y con las formalidades que ella exige.
 
 (NOTA: EL 2 DE ABRIL DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 40/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 3 DE ABRIL DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -1185,7 +1185,7 @@ Si el juez, en el caso de los dos artículos anteriores, se niega a suplir el co
 
 ###### Artículo 150.
 
-EI ascendiente o tutor que ha prestado su consentimiento haciéndolo constar ante el Oficial del Registro Civil en forma auténtica, no puede revocarlo después, a menos que obre causa justa para ello.
+El ascendiente o tutor que ha prestado su consentimiento haciéndolo constar ante el Oficial del Registro Civil en forma auténtica, no puede revocarlo después, a menos que obre causa justa para ello.
 
 ###### Artículo 151.
 
@@ -1193,7 +1193,7 @@ Si al ascendiente o tutor que ha firmado o ratificado la solicitud de matrimonio
 
 ###### Artículo 152.
 
-EI Juez o Tribunal Superior, que hubiere autorizado a un menor para contraer matrimonio no podrá revocar el consentimiento, una vez que lo haya otorgado, si no por justa causa superveniente.
+El Juez o Tribunal Superior, que hubiere autorizado a un menor para contraer matrimonio no podrá revocar el consentimiento, una vez que lo haya otorgado, si no por justa causa superveniente.
 
 ###### Artículo 153.
 
@@ -1203,25 +1203,25 @@ I.- La falta de edad requerida por la ley, cuando no haya sido dispensada;
 
 II.- La falta de consentimiento del que, o los que ejerzan la patria potestad, del tutor o juez, en sus respectivos casos;
 
-III.- EI parentesco de consanguinidad legítima o natural, sin limitación de grado en la línea recta, ascendente o descendente. En la línea colateral igual, el impedimento se extiende a los hermanos y medios hermanos. En la colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos, siempre que estén en el tercer grado y no hayan obtenido dispensa;
+III.- El parentesco de consanguinidad legítima o natural, sin limitación de grado en la línea recta, ascendente o descendente. En la línea colateral igual, el impedimento se extiende a los hermanos y medios hermanos. En la colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos, siempre que estén en el tercer grado y no hayan obtenido dispensa;
 
-IV.- EI parentesco de afinidad en línea recta, sin limitación alguna;
+IV.- El parentesco de afinidad en línea recta, sin limitación alguna;
 
 V.- El adulterio habido entre las personas que pretendan contraer matrimonio, cuando ese adulterio haya sido judicialmente comprobado;
 
-VI.- EI atentado contra la vida de alguno de los casados para contraer matrimonio con el que quede libre;
+VI.- El atentado contra la vida de alguno de los casados para contraer matrimonio con el que quede libre;
 
 VII.- La embriaguez habitual, la morfinomanía, eteromanía y el uso indebido y persistente de las demás drogas enervantes. La impotencia incurable para la cópula, la sífilis, la locura, las enfermedades crónicas e incurables que sean, además, contagiosas o hereditarias; y cualesquiera otra enfermedad o conformación especial que sean contrarias a los fines del matrimonio, bien porque impidan las funciones relativas, o bien porque científicamente hagan prever algún perjuicio grave o degeneración para los descendientes de ese matrimonio. La impotencia no será impedimento cuando exista por la edad o por otra causa cualquiera, en ambos contrayentes y sea conocida de ellos;
 
-VIII.- EI idiotismo y la imbecilidad;
+VIII.- El idiotismo y la imbecilidad;
 
-IX.- EI matrimonio subsistente con persona distinta de aquella con quien se pretenda contraer.
+IX.- El matrimonio subsistente con persona distinta de aquella con quien se pretenda contraer.
 
 De estos impedimentos sólo son dispensables la falta de edad y el parentesco de consanguinidad en línea corateral (sic) desigual.
 
 ###### Artículo 154.
 
-EI adoptante no puede contraer matrimonio con el adoptado o sus descendientes, en tanto que dura el lazo jurídico resultante de la adopción.
+El adoptante no puede contraer matrimonio con el adoptado o sus descendientes, en tanto que dura el lazo jurídico resultante de la adopción.
 
 ###### Artículo 155.
 
@@ -1249,11 +1249,19 @@ Los cónyuges están obligados a guardarse fidelidad, a contribuir cada uno por 
 
 Los cónyuges tienen derecho a decidir de común acuerdo sobre el número y el espaciamiento de sus hijos.
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 159.
 
-La mujer debe vivir al lado de su marido. Los Tribunales, con conocimiento de causa, eximirán a la mujer de esta obligación cuando el marido traslade su domicilio a país extranjero, a no ser que lo haga en servicio de la patria, o cuando se establezca en un lugar insalubre o indecoroso.
+Los cónyuges vivirán juntos en el domicilio que establezcan de común acuerdo.
+
+Los tribunales, podrán eximir de aquella obligación a uno de los cónyuges, cuando concurra alguna de las circunstancias siguientes:
+
+I.- Que el domicilio conyugal se establezca en lugar que ponga en riesgo la salud o integridad de cualquiera de los cónyuges;
+
+II.- Que alguno de ellos traslade su domicilio a un país extranjero, a no ser que lo haga en servicio público; o
+
+III.- Que uno de los cónyuges realice actos de violencia familiar contra el otro o hacia los hijos de ambos o de alguno de ellos.
 
 En todo cambio de domicilio será necesario el consentimiento de ambos, si no existiere acuerdo, el Juez de lo Familiar correspondiente procurará avenirlos y si no lo lograse, resolverá lo que fuere más conveniente.
 
@@ -1301,11 +1309,11 @@ Los cónyuges podrán desempeñar cualquier actividad excepto las que dañen la 
 
 (DEROGADO, P.O. 23 DE AGOSTO DE 1998)
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 168.
 
-El marido y la mujer, mayores de edad, tienen capacidad para administrar, contratar o disponer de sus bienes propios y ejercitar las acciones u oponer las excepciones que a ellos corresponda, sin que para tal efecto necesite el esposo del conocimiento de la esposa, ni ésta de la autoridad de aquél; salvo lo que se estipule en las capitulaciones matrimoniales sobre administración de bienes o que éstos estén afectos al patrimonio familiar constituido conforme a las reglas de este mismo Código.
+Los cónyuges mayores de edad tienen capacidad para administrar, contratar o disponer de sus bienes propios, y ejercitar las acciones u oponer las excepciones que a ellos corresponda, salvo pacto en contrario que se estipule en las capitulaciones matrimoniales o que los bienes estén afectos al patrimonio familiar legalmente constituido.
 
 ###### Artículo 169.
 
@@ -1389,7 +1397,7 @@ Son nulos los pactos que los esposos hicieren contra las leyes o los naturales f
 
 ###### Artículo 186.
 
-EI dominio de los bienes comunes reside en ambos cónyuges mientras subsista la sociedad; pero las acciones en contra de ésta o sobre los bienes sociales serán dirigidas contra el administrador.
+El dominio de los bienes comunes reside en ambos cónyuges mientras subsista la sociedad; pero las acciones en contra de ésta o sobre los bienes sociales serán dirigidas contra el administrador.
 
 ###### Artículo 187.
 
@@ -1397,7 +1405,7 @@ La sentencia que declara la ausencia de alguno de los cónyuges, modifica o susp
 
 ###### Artículo 188.
 
-EI abandono injustificado por más de seis meses del domicilio conyugal por uno de los cónyuges, hace cesar para él, desde el día del abandono, los efectos de la sociedad conyugal en cuanto le favorezcan; éstos no podrán comenzar de nuevo sino por convenio expreso.
+El abandono injustificado por más de seis meses del domicilio conyugal por uno de los cónyuges, hace cesar para él, desde el día del abandono, los efectos de la sociedad conyugal en cuanto le favorezcan; éstos no podrán comenzar de nuevo sino por convenio expreso.
 
 ###### Artículo 189.
 
@@ -1563,7 +1571,7 @@ Será necesario el consentimiento de ambos cónyuges para la enajenación y grav
 
 ###### Artículo 217.
 
-EI marido no puede repudiar ni aceptar la herencia común sin consentimiento de la mujer; pero el juez puede suplir ese consentimiento previa audiencia de ésta.
+El marido no puede repudiar ni aceptar la herencia común sin consentimiento de la mujer; pero el juez puede suplir ese consentimiento previa audiencia de ésta.
 
 ###### Artículo 218.
 
@@ -1585,11 +1593,11 @@ Ninguna enajenación que de los bienes gananciales haga el marido en contravenci
 
 Puede la mujer pagar con los gananciales los gastos ordinarios de la familia según sus circunstancias, sin perjuicio de la obligación común de ambos cónyuges a que se refiere la fracción III del artículo 228.
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 223.
 
-Las deudas contraídas durante el matrimonio por ambos cónyuges o sólo por el marido o por la mujer con autorización de éste o en su ausencia o por su impedimento, son carga de la sociedad legal sin perjuicio de la responsabilidad del cónyuge directamente obligado que puede hacerse efectiva sobre los bienes propios. Al liquidarse la sociedad, el cónyuge que hubiera pagado con bienes propios deudas a cargo de la sociedad legal, será acreedor de ésta, por el importe de aquéllas. Quedan exceptuados los bienes afectos al patrimonio familiar legalmente constituido, para el pago de deudas contraídas por los cónyuges y que sean carga de la sociedad legal o sólo de cada uno de ellos.
+Las deudas contraídas durante el matrimonio por ambos o por uno de los cónyuges son carga de la sociedad legal sin perjuicio de la responsabilidad del cónyuge directamente obligado que puede hacerse efectiva sobre los bienes propios. Al liquidarse la sociedad, el cónyuge que hubiere pagado con bienes propios deudas a cargo de la sociedad legal, será acreedor de ésta, por el importe de aquéllas. Quedan exceptuados los bienes afectos al patrimonio familiar legalmente constituido, para el pago de deudas contraídas por los cónyuges y que sean carga de la sociedad legal o sólo de cada uno de ellos.
 
 ###### Artículo 224.
 
@@ -1599,9 +1607,13 @@ I.- Las deudas que provengan de delito de alguno de los cónyuges o de algún he
 
 II.- Las deudas que graven los bienes propios de los cónyuges, no siendo por censos o pensiones cuyo importe haya entrado al fondo social.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 225.
 
-Las deudas de cada cónyuge, anteriores al matrimonio, son carga de la sociedad legal a falta de bienes propios en qué hacerlas efectivas; pero tratándose de obligaciones contraídas con la mujer, para que puedan hacerse efectivas en bienes de la sociedad legal deberá constar en forma auténtica la fecha de las mismas, anterior al matrimonio sea por el carácter público del documento relativo o por registro, inventario público u otra circunstancia que acredite de manera cierta el tiempo en que se contrajo la obligación si ésta consta en documento privado. El importe de deudas de uno de los cónyuges, anteriores al matrimonio y pagadas por la sociedad legal, se cargarán al cónyuge deudor al liquidarse la sociedad, salvo el caso de que el otro cónyuge estuviere también personalmente obligado o que las deudas de que se trata hubieren sido contraídas en provecho común. Se comprenden entre las deudas a que se refiere el presente artículo, las que provengan de cualquiera hecho de los consortes, anterior al matrimonio, aun cuando la obligación se haga efectiva durante la sociedad.
+Las deudas de cada cónyuge, anteriores al matrimonio, son carga de la sociedad legal a falta de bienes propios en qué hacerlas efectivas.
+
+Para que puedan hacerse efectivas en bienes de la sociedad legal deberá constar en forma auténtica la fecha de las mismas, anterior al matrimonio sea por el carácter público del documento relativo o por registro, inventario público u otra circunstancia que acredite de manera cierta el tiempo en que se contrajo la obligación si ésta consta en documento privado. El importe de deudas de uno de los cónyuges, anteriores al matrimonio y pagadas por la sociedad legal, se cargarán al cónyuge deudor al liquidarse la sociedad, salvo el caso de que el otro cónyuge estuviere también personalmente obligado o que las deudas de que se trata hubieren sido contraídas en provecho común. Se comprenden entre las deudas a que se refiere el presente artículo, las que provengan de cualquiera hecho de los consortes, anterior al matrimonio, aun cuando la obligación se haga efectiva durante la sociedad.
 
 ###### Artículo 226.
 
@@ -1619,7 +1631,7 @@ I.- Las pensiones y réditos devengados, durante el matrimonio, de obligaciones 
 
 II.- Los impuestos y los gastos de conservación y reposición indispensables para la conservación de los bienes propios de cada cónyuge, o los que se hicieren en relación con los bienes del fondo social;
 
-III.- EI mantenimiento de la familia, educación de los hijos comunes, y de los entenados, hijos legítimos o menores de edad o impedidos;
+III.- El mantenimiento de la familia, educación de los hijos comunes, y de los entenados, hijos legítimos o menores de edad o impedidos;
 
 IV.- Los gastos de inventario y los demás que se causen en la liquidación y entrega de los bienes que formaron el fondo social.
 
@@ -1669,11 +1681,11 @@ Ni el marido podrá cobrar a la mujer, ni ésta a aquel, retribución u honorari
 
 ###### Artículo 239.
 
-EI marido y la mujer que ejerzan la patria potestad se dividirán entre sí, por partes iguales, la mitad del usufructo que la ley les conceda.
+El marido y la mujer que ejerzan la patria potestad se dividirán entre sí, por partes iguales, la mitad del usufructo que la ley les conceda.
 
 ###### Artículo 240.
 
-EI marido responde a la mujer y ésta a aquel, de los daños y perjuicios que le cause por dolo, culpa o negligencia.
+El marido responde a la mujer y ésta a aquel, de los daños y perjuicios que le cause por dolo, culpa o negligencia.
 
 ###### Artículo 241.
 
@@ -1809,7 +1821,7 @@ La acción de nulidad proveniente del atentado contra la vida de alguno de los c
 
 ###### Artículo 267.
 
-EI miedo y la violencia serán causa de nulidad del matrimonio si concurren las circunstancias siguientes:
+El miedo y la violencia serán causa de nulidad del matrimonio si concurren las circunstancias siguientes:
 
 I.- Que uno u otra importen peligro de perder la vida, la honra, la libertad, la salud o una parte considerable de los bienes;
 
@@ -1841,7 +1853,7 @@ No se admitirá demanda de nulidad por falta de solemnidades en el acta de matri
 
 ###### Artículo 273.
 
-EI derecho para demandar la nulidad del matrimonio corresponde a quienes la ley lo conceda expresamente, y no es trasmisible por herencia ni de cualquiera otra manera. Sin embargo, los herederos podrán continuar la demanda de nulidad entablada por aquel a quien heredan.
+El derecho para demandar la nulidad del matrimonio corresponde a quienes la ley lo conceda expresamente, y no es transmisible por herencia ni de cualquiera otra manera. Sin embargo, los herederos podrán continuar la demanda de nulidad entablada por aquel a quien heredan.
 
 ###### Artículo 274.
 
@@ -1857,7 +1869,7 @@ Los cónyuges no pueden celebrar transacción ni compromiso en árbitros, acerca
 
 ###### Artículo 277.
 
-EI matrimonio contraído de buena fe, aunque sea declarado nulo, produce todos sus efectos civiles en favor de los cónyuges mientras dure; y en todo tiempo, en favor de los hijos nacidos antes de la celebración del matrimonio, durante él y trescientos días después de la declaración de nulidad, si no se hubieren separado los consortes, o desde su separación en caso contrario.
+El matrimonio contraído de buena fe, aunque sea declarado nulo, produce todos sus efectos civiles en favor de los cónyuges mientras dure; y en todo tiempo, en favor de los hijos nacidos antes de la celebración del matrimonio, durante él y trescientos días después de la declaración de nulidad, si no se hubieren separado los consortes, o desde su separación en caso contrario.
 
 ###### Artículo 278.
 
@@ -2081,29 +2093,11 @@ VI.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieren d
 
 VII.- La prohibición de ir a un domicilio o lugar determinado para alguno de los cónyuges, así como las medidas necesarias para evitar actos de violencia familiar.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2005)</small>
 
-###### Artículo 305.
+###### ARTICULO 305.
 
-En la sentencia de divorcio se designará al o a los cónyuges, ascendientes o tutores que tendrán la patria potestad y la custodia de los hijos del matrimonio, conforme a las siguientes reglas:
-
-> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 1988)</small>
-
-I.- Si la causa del divorcio estuviere comprendida en cualquiera de las fracciones excepto la VI, VII y XVII del Artículo 289, los hijos quedarán bajo la patria potestad y custodia del cónyuge no culpable, pero a la muerte de éste, el cónyuge culpable los recuperará excepto si la causa del divorcio fue de las comprendidas en las fracciones III, IV, V y XV, en cuyo caso los menores quedarán bajo la patria potestad y custodia del ascendiente que corresponda o del tutor nombrado si no lo hubiere.
-
-Si los dos cónyuges fueren culpables, los hijos quedarán bajo la patria potestad y custodia del ascendiente que corresponda o del tutor nombrado si no lo hubiere;
-
-> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 1988)</small>
-
-II.- En el caso de que el divorcio tenga como causa las comprendidas en las fracciones VI y VII del Artículo 289, los hijos quedarán bajo la patria potestad y custodia del cónyuge sano y en caso de la muerte de éste, bajo la del ascendiente que corresponda o del tutor nombrado si no lo hubiere;
-
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 1998)</small>
-
-III.- Si el divorcio tuviere por causa la prevista en la fracción XVII del Artículo 289, los padres de común acuerdo designarán al que tendrá la custodia de los hijos del matrimonio;
-
-> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2001)</small>
-
-IV.- Si la causa del divorcio estuviere comprendida en las fracciones XVIII y XIX del Artículo 289, los hijos quedarán bajo la patria potestad y custodia del cónyuge no culpable, pero a la muerte de éste, el cónyuge culpable no podrá recuperar la patria potestad ni la custodia, debiendo quedar los menores bajo la patria potestad y la custodia del ascendiente del cónyuge no culpable o del tutor nombrado si no lo hubiere.
+En la sentencia de divorcio se designará al o los cónyuges, ascendentes o tutores que tendrán la patria potestad y la custodia de los hijos de matrimonio. Previamente el juzgador deberá escuchar a ambos progenitores y a los menores, así como allegados de oficio o a petición de parte interesada durante el procedimiento, de los elementos necesarios para resolver todo lo relativo a los derechos y obligaciones inherentes a la patria potestad, su pérdida, suspensión o limitación, atendiendo a lo previsto por el artículo 439 y el Capítulo III, del Título Octavo, del Libro Primero de este Código, según proceda. En todo caso, el juzgador protegerá y hará respetar el derecho de convivencia con los padres, salvo que exista peligro para el menor.
 
 > <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1988)</small>
 
@@ -2117,7 +2111,7 @@ El padre y la madre, aunque pierdan la patria potestad, quedan sujetos a todas l
 
 ###### Artículo 308.
 
-EI cónyuge que diere causa al divorcio perderá todo lo que se le hubiere dado o prometido por su consorte o por otra persona en consideración a éste; el cónyuge inocente conservará lo recibido y podrá reclamar lo pactado en su provecho.
+El cónyuge que diere causa al divorcio perderá todo lo que se le hubiere dado o prometido por su consorte o por otra persona en consideración a éste; el cónyuge inocente conservará lo recibido y podrá reclamar lo pactado en su provecho.
 
 > <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 1995)</small>
 
@@ -2243,11 +2237,11 @@ Los alimentos comprenden la comida, el vestido, la habitación y la asistencia e
 
 ###### Artículo 331.
 
-EI obligado a dar alimentos cumple la obligación asignando una pensión competente al acreedor alimentario, o incorporándolo a la familia. Si el acreedor se opone a ser incorporado, compete al juez, según las circunstancias, fijar la manera de ministrar los alimentos.
+El obligado a dar alimentos cumple la obligación asignando una pensión competente al acreedor alimentario, o incorporándolo a la familia. Si el acreedor se opone a ser incorporado, compete al juez, según las circunstancias, fijar la manera de ministrar los alimentos.
 
 ###### Artículo 332.
 
-EI deudor alimentista no podrá pedir que se incorpore a su familia el que debe recibir los alimentos, cuando se trate de un cónyuge divorciado que reciba alimentos del otro, y cuando haya inconveniente legal para hacer esa incorporación.
+El deudor alimentista no podrá pedir que se incorpore a su familia el que debe recibir los alimentos, cuando se trate de un cónyuge divorciado que reciba alimentos del otro, y cuando haya inconveniente legal para hacer esa incorporación.
 
 ###### Artículo 333.
 
@@ -2273,7 +2267,7 @@ I.- El acreedor alimentario;
 
 II.- El ascendiente que le tenga bajo su patria potestad;
 
-III.- EI tutor;
+III.- El tutor;
 
 IV.- Los hermanos y demás parientes colaterales dentro del cuarto grado;
 
@@ -2369,7 +2363,7 @@ Contra esta presunción no se admite otra prueba que la de haber sido físicamen
 
 ###### Artículo 350.
 
-EI marido no podrá desconocer a los hijos, alegando adulterio de la madre, aunque ésta declare que no son hijos de su esposo, a no ser que el nacimiento se le haya ocultado, o que demuestre que durante los diez meses que precedieron al nacimiento no tuvo acceso carnal con su esposa.
+El marido no podrá desconocer a los hijos, alegando adulterio de la madre, aunque ésta declare que no son hijos de su esposo, a no ser que el nacimiento se le haya ocultado, o que demuestre que durante los diez meses que precedieron al nacimiento no tuvo acceso carnal con su esposa.
 
 ###### Artículo 351.
 
@@ -2417,11 +2411,11 @@ II.- Se presume que el hijo es del segundo marido si nace después de ciento och
 
 El que negare las presunciones establecidas en las dos fracciones que preceden, deberá probar plenamente la imposibilidad física de que el hijo sea del marido a quien se atribuye;
 
-III.- EI hijo se presume nacido fuera de matrimonio si nace antes de ciento ochenta días de la celebración del segundo matrimonio y después de trescientos días de la disolución del primero.
+III.- El hijo se presume nacido fuera de matrimonio si nace antes de ciento ochenta días de la celebración del segundo matrimonio y después de trescientos días de la disolución del primero.
 
 ###### Artículo 359.
 
-EI desconocimiento de un hijo, de parte del marido o de sus herederos, se hará por demanda en forma ante el juez competente. Todo desconocimiento practicado de otra manera es nulo.
+El desconocimiento de un hijo, de parte del marido o de sus herederos, se hará por demanda en forma ante el juez competente. Todo desconocimiento practicado de otra manera es nulo.
 
 ###### Artículo 360.
 
@@ -2521,7 +2515,7 @@ DEL RECONOCIMIENTO DE LOS HIJOS NACIDOS FUERA DE MATRIMONIO.
 
 ###### Artículo 378.
 
-EI matrimonio subsecuente de los padres hace que se tengan como nacidos de matrimonio a los hijos habidos antes de su celebración.
+El matrimonio subsecuente de los padres hace que se tengan como nacidos de matrimonio a los hijos habidos antes de su celebración.
 
 ###### Artículo 379.
 
@@ -2559,7 +2553,7 @@ Pueden reconocer a sus hijos, los que tengan la edad exigida para contraer matri
 
 ###### Artículo 386.
 
-EI menor de edad podrá reconocer a sus hijos, sin el consentimiento de sus padres o tutores; pero tal reconocimiento no producirá efectos mientras no sea ratificado por el Ministerio Público, quien deberá emitir su dictamen dentro de los sesenta días siguientes.
+El menor de edad podrá reconocer a sus hijos, sin el consentimiento de sus padres o tutores; pero tal reconocimiento no producirá efectos mientras no sea ratificado por el Ministerio Público, quien deberá emitir su dictamen dentro de los sesenta días siguientes.
 
 El Oficial del Registro Civil ante quien se haga un reconocimiento por un menor de edad, deberá hacerlo saber al Ministerio Público dentro de los ocho días siguientes, bajo la pena de cinco a cincuenta pesos de multa; incurriendo en igual pena el Agente del Ministerio Público que, habiendo recibido el aviso o teniendo conocimiento del caso por cualquier otro medio no exprese su conformidad o inconformidad con conocimiento de causa, para lo cual podrá tomar los informes y datos necesarios por sí o por medio del Juez.
 
@@ -2583,15 +2577,15 @@ Los padres pueden reconocer a su hijo conjunta o separadamente.
 
 ###### Artículo 390.
 
-EI reconocimiento no produce efectos legales sino respecto del que lo hace.
+El reconocimiento no produce efectos legales sino respecto del que lo hace.
 
 ###### Artículo 391.
 
-EI reconocimiento no es revocable por el que lo hizo, y si se ha hecho en testamento, cuando éste se revoque, no se tiene por revocado el reconocimiento.
+El reconocimiento no es revocable por el que lo hizo, y si se ha hecho en testamento, cuando éste se revoque, no se tiene por revocado el reconocimiento.
 
 ###### Artículo 392.
 
-EI reconocimiento puede ser contradicho por un tercero interesado. El heredero que resulte perjudicado puede contradecir el reconocimiento dentro del año siguiente a la muerte del que lo hizo.
+El reconocimiento puede ser contradicho por un tercero interesado. El heredero que resulte perjudicado puede contradecir el reconocimiento dentro del año siguiente a la muerte del que lo hizo.
 
 ###### Artículo 393.
 
@@ -2613,7 +2607,7 @@ Cuando el padre o la madre reconozcan separadamente a un hijo, no podrán revela
 
 ###### Artículo 395.
 
-EI Oficial del Registro Civil, el juez de Primera Instancia en su caso, y el notario que consientan en la violación del artículo que precede, serán castigados con la pena de destitución de empleo e inhabilitación para desempeñar otro, por un término que no baje de dos ni exceda de cinco años.
+El Oficial del Registro Civil, el juez de Primera Instancia en su caso, y el notario que consientan en la violación del artículo que precede, serán castigados con la pena de destitución de empleo e inhabilitación para desempeñar otro, por un término que no baje de dos ni exceda de cinco años.
 
 ###### Artículo 396.
 
@@ -2621,11 +2615,11 @@ Cualquiera de los padres podrá reconocer al hijo natural nacido antes del matri
 
 ###### Artículo 397.
 
-EI hijo de una mujer casada no podrá ser reconocido como hijo por otro hombre distinto del marido, sino cuando éste lo haya desconocido, y por sentencia ejecutoria se haya declarado que no es hijo suyo.
+El hijo de una mujer casada no podrá ser reconocido como hijo por otro hombre distinto del marido, sino cuando éste lo haya desconocido, y por sentencia ejecutoria se haya declarado que no es hijo suyo.
 
 ###### Artículo 398.
 
-EI hijo mayor de edad no puede ser reconocido sin su consentimiento, ni el menor sin el de su tutor si lo tiene, o el del tutor que el juez le nombrará especialmente para el caso.
+El hijo mayor de edad no puede ser reconocido sin su consentimiento, ni el menor sin el de su tutor si lo tiene, o el del tutor que el juez le nombrará especialmente para el caso.
 
 ###### Artículo 399.
 
@@ -2689,7 +2683,7 @@ No obstante lo dispuesto en la parte final del artículo anterior, el hijo podr�
 
 ###### Artículo 410.
 
-EI hecho de dar alimentos no constituye por sí sólo prueba, ni aún presunción, de paternidad o maternidad. Tampoco puede alegarse como razón para investigar éstas.
+El hecho de dar alimentos no constituye por sí sólo prueba, ni aún presunción, de paternidad o maternidad. Tampoco puede alegarse como razón para investigar éstas.
 
 ###### Artículo 411.
 
@@ -3019,7 +3013,7 @@ La facultad de corregir ni implica infligir al menor actos de fuerza que atenten
 
 ###### Artículo 447.
 
-EI que está sujeto a la patria potestad no puede comparecer en juicio, ni contraer obligación alguna sin expreso consentimiento del que o de los que ejerzan aquel derecho. En caso de irracional disenso, resolverá el juez.
+El que está sujeto a la patria potestad no puede comparecer en juicio, ni contraer obligación alguna sin expreso consentimiento del que o de los que ejerzan aquel derecho. En caso de irracional disenso, resolverá el juez.
 
 ### CAPITULO III.
 
@@ -12273,7 +12267,7 @@ El contrato de arrendamiento no se rescinde por la muerte del arrendador ni del 
 
 Con exclusión de cualquier otra persona, el cónyuge, el o la concubina, los hijos, los ascendientes en línea consanguínea o por afinidad del arrendatario fallecido, se subrogarán en los derechos y obligaciones de éste, en los mismos términos del contrato, siempre y cuando hubieran habitado real y permanentemente el inmueble en vida del arrendatario.
 
-No es aplicable lo dispuesto en el párrafo anterior a las personas que ocupen el inmueble como subarrendatarias, cesionarias o por otro título semejante que no sea la situación prevista en este artículo.
+No es aplicable lo dispuesto en el párrafo anterior a las personas que ocupen el inmueble como subarrendatarias, cesionarias o por otro título semejante que no sea la situación prevista en esta artículo.
 
 ###### Artículo 2280.
 
@@ -13529,7 +13523,7 @@ Recibida y aprobada la obra por el que la encargó, el empresario es responsable
 
 ###### Artículo 2508.
 
-El dueño de una obra ajustada por un precio fijo, puede desistir de la empresa comenzada, con tal que indemnice al empresario de todos los gastos y trabajos de la utilidad que pudiera haber sacado de la obra.
+El dueño de una obra ajustada por un preCio fijo, puede desistir de la empresa comenzada, con tal que indemnice al empresario de todos los gastos y trabajos de la utilidad que pudiera haber sacado de la obra.
 
 ###### Artículo 2509.
 
@@ -15972,3 +15966,15 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 13 DE SEPTIEMBRE DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE DICIEMBRE DE 2005.
+
+DECRETO No. 82.
+
+ÚNICO.- El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE DICIEMBRE DE 2005.
+
+DECRETO No. 84.
+
+UNICO.- El Presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
