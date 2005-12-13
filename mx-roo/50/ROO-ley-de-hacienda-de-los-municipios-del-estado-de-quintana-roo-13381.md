@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-de-los-municipios-del-estado-de-quintana-roo-13
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-15"
-last_updated: "2005-11-30"
+last_updated: "2005-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de diciembre de 1997.
 
@@ -543,7 +543,9 @@ VII.- En todos los casos el pago de impuesto se hará en la Tesorería Municipal
 
 En las adquisiciones que se hagan constar en escritura pública, los Notarios, Jueces, Corredores y demás fedatarios que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad, lo harán constar en escritura pública y lo enterarán mediante declaración autorizada, en la Tesorería Municipal que corresponda a su domicilio, expresando:
 
-I.- Nombre y domicilio de los contratantes o del adquiriente, en su caso;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2005)</small>
+
+I.- Nombre y dominio de los contratantes y del adquiriente;
 
 II.- Nombre del notario o fedatario, así como el número de la notaría en que se otorgó la escritura;
 
@@ -1257,7 +1259,7 @@ Se entiende por este derecho la prestación de los servicios de vigilancia, admi
 
 ###### ARTICULO 80.
 
-Por los servicios de panteones que preste el Municipio, se cobrarán los derechos que señala la siguiente:
+Por los servicios de panteones que preste el municipio, se cobrarán los derechos que señala la siguiente:
 
 TARIFA
 
@@ -2255,15 +2257,35 @@ BIS.- Por la verificación, control y fiscalización que las leyes en la materia
 
 Las Tesorerías Municipales al hacer el pago de las estimaciones de obra que le corresponda, detendrán el derecho a que se refiere el párrafo anterior y registrara el 50 por ciento de todo lo recaudado por este concepto a favor de la partida presupuestal de la respectiva Contraloría Municipal para su aplicación a gastos inherentes a sus operaciones de verificación y control de la Obra Pública Municipal. El otro 50 por ciento de todo lo recaudado por este concepto será transferido por las Tesorerías Municipales al Órgano Superior de Fiscalización del Estado, el cual lo integrará al Fondo para el Fortalecimiento de la Fiscalización Superior.
 
-### CAPITULO I. VENTA O EXPLOTACIÓN DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 13 DE DICIEMBRE DE 2005)</small>
 
-(REUBICADO [N. DE E. ANTES ARTICULO 129], P.O. 15 DE DICIEMBRE DE 1998)
+### CAPITULO XXV. DE LOS SERVICIOS QUE PRESTA LA UNIDAD DE VINCULACION
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2005)</small>
+
+###### ARTÍCULO 129
+
+TER.- Por los materiales que se utilicen para reproducir la información que proporcionen los sujetos obligados de naturaleza municipal, previstos en la Ley de Transparencia y Acceso a la Información Pública, pagarán un derecho conforme a lo siguiente:
+
+I.- Por la expedición de documentos en copia simple:
+
+a).- De una a cinco fojas 0.046 S.M.G. por cada una.
+
+b).- De seis fojas en adelante 0.022 S.M.G. por cada una.
+
+II.- Por la expedición de videocintas 2.00 S.M.G. por cada una.
+
+III.- Por la expedición de audiocasettes 1.00 S.M.G. por cada uno
+
+IV.- Por la expedición de disco compacto 1.00 S.M.G. por cada uno.
+
+Tratándose de lo dispuesto en las fracciones II, III y IV, no se realizará cobro alguno, cuando el solicitante presente ante la Unidad de Vinculación que alguno corresponda, el material señalada (sic) en esas fracciones o cualquier otro que se requiera para la producción de la información solicitada.
 
 ## TITULO CUARTO. PRODUCTOS
 
-### CAPITULO II. BIENES MOSTRENCOS
+### CAPITULO I. VENTA O EXPLOTACIÓN DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO
 
-(REUBICADO [N. DE E. ANTES ARTICULO 134], P.O. 15 DE DICIEMBRE DE 1998)
+(REUBICADO [N. DE E. ANTES ARTICULO 129], P.O. 15 DE DICIEMBRE DE 1998)
 
 ###### ARTÍCULO 130.
 
@@ -2293,9 +2315,9 @@ En todos los casos en que se autorice la enajenación de bienes de los municipio
 
 Los bienes de uso común o destinados al servicio de los municipios no podrán ser enajenados mientras tengan ese carácter, el que solo podrá cambiarse mediante autorización de la Legislatura del Estado.
 
-### CAPITULO III. PAPEL PARA COPIAS DE ACTAS DEL REGISTRO CIVIL
+### CAPITULO II. BIENES MOSTRENCOS
 
-(REUBICADO [N. DE E. ANTES ARTICULO 136], P.O. 15 DE DICIEMBRE DE 1998)
+(REUBICADO [N. DE E. ANTES ARTICULO 134], P.O. 15 DE DICIEMBRE DE 1998)
 
 ###### ARTÍCULO 135.
 
@@ -2307,9 +2329,9 @@ Se entiende por bienes mostrencos los bienes inmuebles abandonados y los predios
 
 El producto líquido de los bienes mostrencos que sean rematados o vendidos conforme a las disposiciones del código civil, constituirá un ingreso para la Hacienda Municipal.
 
-### CAPITULO IV. MERCADOS
+### CAPITULO III. PAPEL PARA COPIAS DE ACTAS DEL REGISTRO CIVIL
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2001)</small>
+(REUBICADO [N. DE E. ANTES ARTICULO 136], P.O. 15 DE DICIEMBRE DE 1998)
 
 ###### ARTÍCULO 137.
 
@@ -2345,7 +2367,9 @@ Los oficiales del Registro Civil extenderán las certificaciones exclusivamente 
 
 (REUBICADO [N. DE E. ANTES CAPITULO V], P.O. 15 DE DICIEMBRE DE 1998)
 
-### CAPITULO V. ARRENDAMIENTO, EXPLOTACIÓN O ENAJENACIÓN DE EMPRESAS MUNICIPALES
+### CAPITULO IV. MERCADOS
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTÍCULO 142.
 
@@ -2355,7 +2379,7 @@ TARIFA
 
 (VEASE ARCHIVO ANEXO)
 
-### CAPITULO VI. CRÉDITOS A FAVOR DE LOS MUNICIPIOS
+### CAPITULO V. ARRENDAMIENTO, EXPLOTACIÓN O ENAJENACIÓN DE EMPRESAS MUNICIPALES
 
 ###### ARTÍCULO 143.
 
@@ -2365,19 +2389,19 @@ Se consideran productos los ingresos que se deriven del arrendamiento, explotaci
 
 La realización de las actividades a que se hace referencia en el Artículo anterior se hará previo acuerdo del Ayuntamiento, observándose además las disposiciones de carácter estatal que al respecto existan.
 
-### CAPITULO VII. VENTA DE OBJETOS RECOGIDOS POR EL DEPARTAMENTO DE LIMPIA Y TRANSPORTE
+### CAPITULO VI. CRÉDITOS A FAVOR DE LOS MUNICIPIOS
 
 ###### ARTÍCULO 145.
 
 Se consideran productos aquellos ingresos que obtiene el municipio mediante créditos de empresas, de personas físicas o morales para satisfacer sus necesidades económicas.
 
-### CAPÍTULO ÚNICO
+### CAPITULO VII. VENTA DE OBJETOS RECOGIDOS POR EL DEPARTAMENTO DE LIMPIA Y TRANSPORTE
 
 ###### ARTÍCULO 146.
 
 Los Ayuntamientos podrán obtener ingresos para su hacienda mediante la venta de los objetos recogidos en la prestación del servicio de limpia y transporte.
 
-### CAPITULO ÚNICO
+### CAPÍTULO ÚNICO
 
 ## TITULO QUINTO. APROVECHAMIENTOS
 
@@ -2404,6 +2428,8 @@ Las Tesorerías Municipales deberán ajustar sus procedimientos de cobro, liquid
 Como participaciones del estado se entienden aquellos ingresos que el estado entrega a los municipios deducibles de sus propios ingresos y que se regulan conforme a las disposiciones que al efecto establecen las leyes fiscales del estado o la Legislatura local.
 
 ## TITULO SÉPTIMO. APORTACIONES FEDERALES
+
+### CAPITULO ÚNICO
 
 ###### ARTÍCULO 150.
 
@@ -2772,3 +2798,91 @@ TABLA PARA EL CALCULO ANUAL DEL IMPUESTO PREDIAL 2003
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 13 DE DICIEMBRE DE 2005.
+
+PRIMERO.- En tanto el Estado y los Municipios permanezcan adheridos al Sistema Nacional de Coordinación Fiscal, quedan en suspenso los siguientes:
+
+I. DERECHOS:
+
+A.- Licencias, anuencias previas al otorgamiento de las mismas, en general concesiones, permisos o autorizaciones, o bien obligaciones y requisitos que condicionen el ejercicio de actividades comerciales o industriales y de prestación de servicios. Por lo anterior, quedan en suspenso los siguientes numerales:
+
+1.- Licencias y refrendos de funcionamiento comercial, industrial y de servicios.
+
+2.- Licencias de funcionamiento en horas extraordinarias.
+
+3.- Rastro e inspección sanitaria.
+
+4.- Registro y búsqueda de fierros y señales para ganado.
+
+5.- Servicios de inspección y vigilancia.
+
+6.- Servicios de promoción y publicidad turística.
+
+B. Asimismo, los que resulten a consecuencia de permitir las excepciones a una disposición administrativa, tales como la ampliación de horario, con excepción de los siguientes numerales:
+
+1.- Licencias de construcción.
+
+2.- Licencias o permisos para efectuar conexiones a las redes públicas de agua y alcantarillado.
+
+3.- Licencias para fraccionar o notificar terrenos.
+
+4.- Licencias para conducir vehículos.
+
+5.- Expedición y placas y tarjetas para la circulación de vehículos.
+
+6.- Licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales, cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, siempre que se efectúe total o parcialmente con el público en general.
+
+7.- Licencias, permisos o autorizaciones para la colocación de anuncios y carteles o la realización de publicidad, excepto los que se realicen por medio de televisión, radio, periódicos y revistas.
+
+C. Registro o cualquier acto relacionado con los mismos, a excepción del Registro Civil.
+
+D. Uso de las vías Públicas o la tenencia de bienes sobre las mismas.
+
+No se considerarán comprendidos dentro de lo dispuesto en este inciso los derechos de estacionamiento de vehículos, el uso de la vía pública por comerciantes ambulantes o con puestos fijos o semifijos en la vía pública, ni por el uso o tenencia de anuncios.
+
+E.- Actos de inspección y vigilancia.
+
+Los derechos no podrán ser diferenciales considerando el tipo de actividad a que se dedique el contribuyente, excepto tratándose de derechos diferenciales por los conceptos a los que se refieren los numerales 1) al 7) del segundo párrafo del inciso B y el inciso D.
+
+Los certificados de documentos así como la reposición de éstos por extravío o de destrucción parcial o total, no quedarán comprendidos dentro de lo dispuesto en los incisos B y C de este Artículo. Tampoco quedan comprendidas las concesiones por el uso o aprovechamiento de bienes pertenecientes a las entidades federativas o a los municipios.
+
+En ningún caso lo dispuesto en este artículo, limitará la facultad del Estado y Municipios para requerir licencias, registros, permisos o autorizaciones, otorgar concesiones y realizar actos de inspección y vigilancia. Para el ejercicio de estas facultades no se podrá exigir cobro alguno, con las salvedades expresamente señaladas en este artículo.
+
+Para los efectos de coordinación con las entidades, se considerarán derechos, aún cuando tengan una denominación distinta en la legislación local correspondiente, las contribuciones que tengan las características de derechos conforme al Código Fiscal de la Federación y a la Ley de Ingresos de la Federación.
+
+También se consideran como derechos para los efectos de este Artículo, las contribuciones u otros cobros, cualquiera que sea su denominación, que tengan las características de derechos de acuerdo con el Código Fiscal de la Federación, aun cuando se cobren por concepto de aportaciones, cooperaciones, donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
+
+SEGUNDO.- Para determinar del Impuesto Predial en el ejercicio fiscal 2006, en el Municipio de Solidaridad, se aplicarán las siguientes tasas para el cálculo anual del mencionado Impuesto:
+
+TASAS APLICABLES PARA DETERMINACION Y LIQUIDACION DEL IMPUESTO PREDIAL
+
+PREDIOS URBANOS 0.0022
+
+EDIFICADOS
+
+PLAYA DEL CARMEN 0.0047
+
+PREDIOS
+
+URBANOS TULUM PUERTO AVENTURAS 0.0100
+
+BALDIOS
+
+OTRAS ZONAS URBANAS 0.00742
+
+PREDIOS RUSTICOS 0.0063
+
+TERCERO.- Para la determinación del impuesto Predial en el ejercicio fiscal 2006, en el Municipio de Cozumel, se aplicará la tabla de cálculo anual del mencionado impuesto, contempla, en el artículo tercero transitorio del decreto número 102 expedido por la X Legislatura del Estado de Quintana Roo, y publicado en el Periódico Oficial del Gobierno del Estado de fecha 16 de diciembre del año 2003.
+
+CUARTO.- Para la determinación del impuesto Predial en el ejercicio fiscal 2006, en el Municipio de Othón P. Blanco se aplicará la tabla de cálculo anual del mencionado impuesto, contemplada en el artículo cuarto transitorio del decreto número 102 expedido por la X Legislatura del Estado de Quintana Roo, y publicado en el Periódico Oficial del Gobierno del Estado de fecha 16 de diciembre del año 2003.
+
+QUINTO.- Para la determinación del impuesto Predial en el ejercicio fiscal 2006, en el Municipio de Islas Mujeres, se aplicará la tabla de cálculo anual del mencionado impuesto, contemplada en el artículo quinto transitorio del decreto número 102 expedido por la X Legislatura del Estado de Quintana Roo y publicado en el Periódico Oficial del Gobierno del Estado de fecha 16 de diciembre del año 2003.
+
+SEXTO.- Para la determinación del impuesto Predial en el ejercicio fiscal 2006, en el Municipio de Benito Juárez, se aplicará la tabla de cálculo anual del mencionado impuesto, contemplada en el artículo sexto transitorio del decreto número 102 expedido por la X Legislatura del Estado de Quintana Roo, y publicado en el Periódico Oficial del Gobierno del Estado de fecha 16 de diciembre del año 2003.
+
+SÉPTIMO.- En el momento en el quede sin efecto lo dispuesto en los artículos segundo, tercero, cuarto, quinto y sexto transitorios de esta Ley, los Municipios de Solidaridad, Cozumel, Othón P. Blanco, Isla Mujeres y Benito Juárez deberán presentar un análisis del impuesto que implique la utilización de las tasas establecidas en el artículo 13 de la presente Ley.
+
+OCTAVO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+NOVENO.- Se dejan sin efecto todas las disposiciones legales que se opongan al presente decreto.
