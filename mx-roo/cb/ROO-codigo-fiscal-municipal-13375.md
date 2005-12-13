@@ -4,7 +4,7 @@ identifier: "ROO-codigo-fiscal-municipal-13375"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-12-15"
-last_updated: "2003-12-16"
+last_updated: "2005-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13375&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO FISCAL MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2005.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de diciembre 1997.
 
@@ -357,29 +357,29 @@ X.- Los contribuyentes que no presenten dentro de los términos legales sus avis
 
 XI.- Tramitar y obtener autorización de uso de suelo y en su caso autorización de uso de anuncios ante la Dirección de Obras Públicas y Desarrollo Urbano o la oficina facultada para ese acto.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 21.
 
 Toda promoción que se presente ante las autoridades fiscales, deberá estar firmada por el interesado o por quien esté legalmente autorizado para ello, a menos que el promovente no sepa o no pueda firmar, caso en que imprimirá su huella digital.
 
-Las presentación de avisos, declaraciones, manifestaciones o promociones deberá hacerse en los formularios que al efecto aprueben las Tesorerías Municipales, en el número de ejemplares que establezcan las formas oficiales, acompañado (sic) los anexos que en su caso estás requieran y consignando los mismos datos que los mismos formularios requieran.
+La presentación de avisos, declaraciones, manifestaciones o promociones deberá hacerse en los formularios que al efecto aprueben las Tesorerías Municipales, en el número de ejemplares que establezcan las formas oficiales, acompañando los anexos que en su caso estás requieran y consignando los mismos datos que los mismos formularios requieran.
 
 Cuando no existan formas aprobadas, el documento que se formule deberá presentarse en el número de ejemplares que señalen las autoridades fiscales, y tener por lo menos los siguientes requisitos:
 
 I.- Constar por escrito;
 
-II.- El nombre, la denominación o razón social, el domicilio fiscal y el registro al padrón municipal, en su caso:
-
-> <small>(REFORMADA, P.O 15 DE DICIEMBRE DE 1998)</small>
+II.- El nombre, la denominación o razón social, el domicilio fiscal y el registro al padrón municipal, en su caso;
 
 III.- Señalar la autoridad a la que se dirige. Su actividad o giro comercial, industrial, de servicios o de inversión de capitales;
 
-IV.- Señalar o especificar el propósito de la promoción o declaración y en su caso la determinación de los montos a cubrir, así como de la base graciable (sic) y,
+IV.- Señalar o especificar el propósito de la promoción o declaración y en su caso la determinación de los montos a cubrir, así como de la base graciable (sic).
 
-V.- En su caso, el domicilio para oír y recibir notificaciones y el nombre de la persona autorizada para recibirlas.
+V.- El domicilio para oír y recibir notificaciones y el nombre de la persona autorizada para recibirlas; y
 
-> <small>(REFORMADO, P.O 15 DE DICIEMBRE DE 1998)</small>
+VI.- La descripción de los anexos que se adjuntan al escrito.
 
-Cuando no se cumplan los requisitos a que se refiere este artículo, las autoridades fiscales requerirán al promovente a fin de que en un plazo de tres días a partir de que surta efectos la notificación cumplan con el requisito omitido. En caso de no subsanarse la omisión en dicho plazo, la promoción se tendrá por no presentada.
+Cuando no se cumplan los requisitos a que se refiere este artículo, las autoridades fiscales requerirán al promovente a fin de que en un plazo de tres días a partir de que surta efectos la notificación cumpla con el requisito omitido. En caso de no subsanarse la omisión en dicho plazo, la promoción se tendrá por no presentada.
 
 ###### ARTICULO 22.
 
@@ -387,9 +387,11 @@ Los contribuyentes que planteen consultas sobre la aplicación de las disposicio
 
 Las autoridades se abstendrán de resolver consultas relativas a la interpretación general, abstracta, hipotética o impersonal de las leyes fiscales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 23.
 
-En ningún trámite administrativo se admitirá la gestión de negocios; la representación de las personas físicas o morales ante las autoridades fiscales, se hará mediante escritura pública o en carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante las autoridades fiscales o Notario Público. Los particulares o sus representantes podrán autorizar por escrito a otras personas para que a su nombre reciban notificaciones. La persona autorizada podrá recibir notificaciones, ofrecer y rendir pruebas y presentar promociones relacionadas con estos propósitos.
+En ningún trámite administrativo se admitirá la gestión de negocios; la representación de las personas físicas o morales ante las autoridades fiscales, se hará mediante escritura pública o en carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante las autoridades fiscales o Notario Público. Los particulares o sus representantes podrán autorizar por escrito a otras personas para que a su nombre reciban notificaciones. La persona autorizada podrá recibir notificaciones, ofrecer y rendir pruebas y presentar promociones relacionadas con estos propósitos siempre y cuando así le sea expresamente autorizado.
 
 Quien promueva a nombre de otro, deberá acreditar que la representación le fue otorgada a más tardar en la fecha en que se presenta la promoción.
 
@@ -451,11 +453,11 @@ Si el pago de lo indebido se hubiera efectuado el cumplimiento de actos de autor
 
 La obligación de devolver prescribe en los mismos términos y condiciones que el crédito fiscal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O 15 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O 13 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 28.
 
-El monto de las contribuciones fiscales o de las devoluciones de contribuciones o créditos fiscales a cargo del fisco municipal, se actualizará por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor respectivo a las cantidades que se deban actualizar. Dicho factor se obtendrá dividiendo el Indice Nacional de Precios al Consumidor del mes anterior al más reciente del período entre el citado índice correspondiente al mes anterior al más antiguo de dicho período. Los créditos fiscales no se actualizarán por fracciones de mes.
+El monto de las contribuciones fiscales, aprovechamientos, devoluciones de contribuciones o créditos fiscales a cargo del fisco municipal se actualizará por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor respectivo a las cantidades que se deban actualizar. Dicho factor se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del período entre el citado índice correspondiente al mes anterior al más antiguo de dicho período. Los créditos fiscales no se actualizarán por fracciones de mes.
 
 Las cantidades actualizadas conservarán la naturaleza jurídica antes de la actualización.
 
@@ -503,7 +505,9 @@ A los Presidentes Municipales compete, por sí o a través de la Tesorería Muni
 
 I.- Ejecutar las Leyes, Decretos Fiscales de naturaleza municipal que expida el Congreso del Estado o El Ejecutivo Estatal, así como los Convenios de Colaboración Administrativa en Materia Fiscal y proveer en la esfera administrativa a su exacta observancia;
 
-II.- Nombrar y remover a los titulares de las Tesorerías Municipales, previa aprobación del Ayuntamiento correspondiente y en los términos de la Ley Orgánica de los Municipios del Estado de Quintana Roo;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2005)</small>
+
+II.- Nombrar y remover a los titulares de las Tesorerías Municipales, previa aprobación del Ayuntamiento correspondiente y en los términos de la Ley de los Municipios del Estado de Quintana Roo;
 
 III.- Celebrar con el estado los convenios de colaboración administrativa que se estimen convenientes para el control y cobro de contribuciones;
 
@@ -1697,7 +1701,9 @@ En todo momento, los opositores podrán ocurrir ante la autoridad, haciéndole s
 
 Cuando los bienes señalados para la traba de ejecución estuvieran ya embargados por otras autoridades no fiscales o sujetas a garantía hipotecaria, se practicará no obstante el embargo administrativo, y los bienes embargados se entregarán al depositario designado por la Tesorería Municipal o por el notificador-ejecutor, y se dará aviso a la autoridad correspondiente para que él o los interesados puedan hacer valer su derecho de preferencia.
 
-En caso de inconformidad, la controversia resultante será resuelta por el Supremo Tribunal de Justicia del Estado conforme a las reglas previstas por este Código para el trámite. En tanto se resuelve el procedimiento respectivo, no se hará aplicación del producto del remate, salvo que se garantice el interés fiscal a satisfacción de la Tesorería Municipal.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2005)</small>
+
+En caso de inconformidad, la controversia resultante será resuelta por la Sala Constitucional y Administrativa del Tribunal Superior de Justicia del Estado de Quintana Roo, conforme a las reglas previstas por este Código para el trámite. En tanto se resuelve el procedimiento respectivo, no se hará aplicación del producto del remate, salvo que garantice el interés fiscal a satisfacción de la Tesorería Municipal.
 
 ###### ARTICULO 134.
 
@@ -2040,3 +2046,9 @@ P.O. 16 DE DICIEMBRE DE 2003.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones aquí relacionadas con vigencia anteriores al presente decreto.
+
+P.O. 13 DE DICIEMBRE DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se dejan sin efecto todas las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
