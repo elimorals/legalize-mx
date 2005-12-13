@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-investigaciones-228
 country: "mx"
 rank: "estatuto"
 publication_date: "2002-01-15"
-last_updated: "2005-02-09"
+last_updated: "2005-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22830&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-12-13"
 
 ESTATUTO ORGANICO DEL INSTITUTO NACIONAL DE INVESTIGACIONES FORESTALES, AGRICOLAS Y PECUARIAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE FEBRERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE DICIEMBRE DE 2005.
 
 Estatuto publicado el la Primera Sección del Diario Oficial de la Federación, el martes 15 de enero de 2002.
 
@@ -51,33 +51,51 @@ En tal sentido, las atribuciones que se plantean en el estatuto pretenden manten
 
 Que en dicho contexto el Instituto ha tenido a bien expedir el siguiente Estatuto Orgánico del Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias.
 
+> <small>N. DE E. LAS REFORMAS APROBADAS EN LA 10a. REUNION EXTRAORDINARIA POR LA H. JUNTA DE GOBIERNO DEL INSTITUTO NACIONAL DE INVESTIGACIONES FORESTALES, AGRICOLAS Y PECUARIAS, MODIFICO DE MANERA SUSTANCIAL PRACTICAMENTE TODO EL TEXTO DEL ESTATUTO, DANDO COMO RESULTADO UN TEXTO DIFERENTE AL ORIGINAL, Y SI BIEN DIVERSOS ARTICULOS QUEDARON INTACTOS POR LA REFORMA, DEBIDO A LO ANTERIOR SE CONSERVA EL TEXTO APROBADO Y PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION DE 13 DE DICIEMBRE DE 2005.</small>
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
+
 ESTATUTO ORGANICO DEL INSTITUTO NACIONAL DE INVESTIGACIONES FORESTALES, AGRICOLAS Y PECUARIAS
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 1o.
 
-El Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias es un Organismo Público Descentralizado con personalidad jurídica y patrimonio propios que tiene por objeto realizar investigaciones científicas y tecnológicas en el campo agrícola, pecuario y forestal; la capacitación de recursos humanos, el desarrollo e innovación tecnológica en la referida materia, así como la prestación de servicios relacionados con su objeto.
+El Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias, es un Organismo Público Descentralizado con personalidad jurídica y patrimonio propios que tiene por objeto que a través de la generación de conocimientos científicos y de la innovación tecnológica agropecuaria y forestal como respuesta a las demandas y necesidades de las cadenas agroindustriales y de los diferentes tipos de productores, contribuir al desarrollo rural sustentable mejorando la competitividad y manteniendo la base de recursos naturales, mediante un trabajo participativo y corresponsable con otras instituciones y organizaciones públicas y privadas asociadas al campo mexicano.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 2o.
 
 Para los efectos de este ordenamiento se entiende por:
 
-I. Ley, la Ley Federal de las Entidades Paraestatales
+I. Ley, la Ley Federal de las Entidades Paraestatales;
 
-II. Reglamento, al Reglamento de la Ley Federal de las Entidades Paraestatales
+II. Ley de Ciencia y Tecnología;
 
-III. Coordinadora de sector, a la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
+III. Reglamento, al Reglamento de la Ley Federal de las Entidades Paraestatales;
 
-IV. Instituto, al Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias.
+IV. Coordinadora de sector, a la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
 
-V. Decreto, al decreto de creación del Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias.
+V. Instituto, al Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias;
+
+VI. Decreto, al decreto de creación del Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 3o.
 
-Este ordenamiento jurídico contiene las atribuciones y funciones de cada una de las unidades administrativas que conforman los primeros niveles de la estructura central y foránea del Instituto, así como las funciones previstas en la Ley, el Reglamento, el Decreto y demás disposiciones aplicables.
+Este ordenamiento jurídico contiene las atribuciones y funciones de cada una de las Unidades Administrativas que conforman los primeros niveles de la estructura central y foránea del Instituto, así como las funciones previstas en la Ley, el Reglamento, el Decreto y demás disposiciones aplicables.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO SEGUNDO. DE LAS ATRIBUCIONES DEL INSTITUTO
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 4o.
 
@@ -89,59 +107,61 @@ II. Generar conocimientos e innovaciones tecnológicas que contribuyan a la prod
 
 III. Desarrollar y promover investigación de vanguardia para contribuir a la solución de los problemas de productividad, competitividad, sustentabilidad y equidad del sector agrícola, pecuario y forestal del país;
 
-IV. Proponer a través de la Coordinadora Sectorial, la política de investigación agropecuaria del país y el Programa Nacional de la Investigación Agropecuaria y Forestal, así como coordinar el Sistema de Investigación Científica y Desarrollo Tecnológico del sector agrícola y pecuario;
+IV. Promover y apoyar la transferencia de conocimientos y tecnologías agrícolas, pecuarias y forestales de acuerdo a las necesidades y demandas prioritarias de la sociedad y de los productores;
 
-V. Promover y apoyar la transferencia de conocimientos y tecnologías agrícolas, pecuarias y forestales de acuerdo a las necesidades y demandas prioritarias de la sociedad y de los productores;
+V. Suscribir acuerdos, convenios, contratos y cualquier otro instrumento jurídico con el sector público federal, estatal o municipal y sector privado de carácter nacional e internacional;
 
-VI. Suscribir acuerdos, convenios, contratos y cualquier otro instrumento jurídico con el sector público federal, estatal o municipal y sector privado de carácter nacional e internacional;
+VI. Participar en programas y proyectos de desarrollo agropecuario y forestal, en especial en aquellos que se enfoquen a alcanzar metas sostenibles de suficiencia en la producción para el consumo interno, incremento y competitividad de productos de exportación, uso racional de los recursos naturales renovables y autodeterminación tecnológica;
 
-VII. Participar en programas y proyectos de desarrollo agropecuario y forestal, en especial en aquellos que se enfoquen a alcanzar metas sostenibles de suficiencia en la producción para el consumo interno, incremento y competitividad de productos de exportación, uso racional de los recursos naturales renovables y autodeterminación tecnológica;
+VII. Fijar los criterios y lineamientos que permitan dar unidad y congruencia a la investigación científica y desarrollo tecnológico, conforme a los programas y acciones del sector agrícola y pecuario;
 
-VIII. Fijar los criterios y lineamientos que permitan dar unidad y congruencia a la investigación científica y desarrollo tecnológico, conforme a los programas y acciones del sector agrícola y pecuario;
+VIII. Participar en la realización de los análisis sociales y económicos que permitan coadyuvar en la definición de las estrategias de investigación agrícola, pecuaria y forestal, a efecto de considerarlas en el marco de la política nacional de investigación agropecuaria y forestal del país;
 
-IX. Participar en las bases para la coordinación y concertación de acciones con instituciones públicas y privadas que realicen funciones relacionadas con la investigación agrícola, pecuaria y forestal;
+IX. Establecer la congruencia entre los programas del Instituto o en los que éste celebre convenios específicos, relacionados con la generación, validación, transferencia de tecnología y asignación de los recursos públicos y privados necesarios para su ejecución;
 
-X. Establecer la congruencia entre los programas del Instituto o en los que éste celebre convenios específicos, relacionados con la generación, validación, transferencia de tecnología y asignación de los recursos públicos y privados necesarios para su ejecución;
+X. Participar en la realización de los análisis sociales y económicos que permitan definir las estrategias de la investigación agrícola, pecuaria y forestal, a efecto de considerarlas en el marco de la política y del programa nacional de investigación agropecuaria y forestal del país, que refiere la fracción IV de este artículo;
 
-XI. Participar en la realización de los análisis sociales y económicos que permitan definir las estrategias de la investigación agrícola, pecuaria y forestal, a efecto de considerarlas en el marco de la política y del programa nacional de investigación agropecuaria y forestal del país, que refiere la fracción IV de este artículo;
+XI. Realizar y mejorar las tecnologías tradicionales y modernas existentes, para su aplicación en el entorno socioeconómico y ecológico de los productores;
 
-XII. Realizar y mejorar las tecnologías tradicionales y modernas existentes, para su aplicación en el entorno socioeconómico y ecológico de los productores;
+XII. Divulgar los resultados de las investigaciones científicas y trabajos que realice, sobre la materia agropecuaria y forestal;
 
-XIII. Divulgar los resultados de las investigaciones científicas y trabajos que realice, sobre la materia agropecuaria y forestal;
+XIII. Proporcionar capacitación y otorgar becas para estudios de especialización y postgrado a su personal en las áreas de competencia de la entidad, a través de los convenios que se suscriban al efecto con instituciones educativas nacionales o extranjeras y de conformidad con los lineamientos que al efecto expida;
 
-XIV. Proporcionar capacitación y otorgar becas para estudios de especialización y postgrado a su personal en las áreas de competencia de la entidad, a través de los convenios que se suscriban al efecto con instituciones educativas nacionales o extranjeras y de conformidad con los lineamientos que al efecto expida;
+XIV. Establecer la coordinación con las instituciones y organizaciones científicas, nacionales e internacionales, relacionadas con agricultura, ganadería, silvicultura y desarrollo rural;
 
-XV. Establecer la coordinación con las instituciones y organizaciones científicas, nacionales e internacionales, relacionadas con agricultura, ganadería, silvicultura y desarrollo rural;
+XV. Intercambiar información técnica, materiales de investigación y especialistas con organismos nacionales e internacionales, sobre la base de instrumentos jurídicos que al efecto se suscriban;
 
-XVI. Intercambiar información técnica, materiales de investigación y especialistas con organismos nacionales e internacionales, sobre la base de instrumentos jurídicos que al efecto se suscriban;
+XVI. Establecer la coordinación con los organismos responsables de la normalización y asistencia técnica en el ámbito federal y estatal, para la validación y transferencia oportuna de la tecnología generada a través de la investigación agrícola y pecuaria;
 
-XVII. Establecer la coordinación con los organismos responsables de la normalización y asistencia técnica en el ámbito federal y estatal, para la validación y transferencia oportuna de la tecnología generada a través de la investigación agrícola y pecuaria;
+XVII. Auxiliar a los productores, a solicitud de éstos, en el establecimiento de fundaciones o de otras modalidades de asociación, que les permitan tener acceso a nuevas tecnologías;
 
-XVIII. Auxiliar a los productores, a solicitud de éstos, en el establecimiento de fundaciones o de otras modalidades de asociación, que les permitan tener acceso a nuevas tecnologías;
+XVIII. Proteger en los términos previstos en la Ley Federal de Variedades Vegetales, Ley del Derecho de Autor y Ley de la Propiedad Industrial, los conocimientos, métodos, prototipos y la tecnología generada en el Instituto, así como aprovecharla, explotarla o transmitirla de conformidad con las disposiciones jurídicas señaladas;
 
-XIX. Proteger en los términos previstos en la Ley Federal de Variedades Vegetales, Ley del Derecho de Autor y Ley de la Propiedad Industrial, los conocimientos, métodos, prototipos y la tecnología generada en el Instituto, así como aprovecharla, explotarla o transmitirla de conformidad con las disposiciones jurídicas señaladas;
+XIX. Prestar servicios que tengan relación con sus atribuciones y a través de la suscripción de los instrumentos legales que corresponda, y
 
-XX. Prestar servicios que tengan relación con sus atribuciones y a través de la suscripción de los instrumentos legales que corresponda, y
-
-XXI. Las demás actividades relacionadas con la investigación básica o aplicada que le correspondan conforme al Decreto o demás disposiciones jurídicas relativas y las que sean necesarias o convenientes para la mejor realización de sus objetivos.
+XX. Las demás actividades relacionadas con la investigación básica o aplicada que le correspondan conforme al Decreto o demás disposiciones jurídicas relativas y las que sean necesarias o convenientes para la mejor realización de sus objetivos.
 
 Quedan exceptuadas de lo dispuesto por este artículo, salvo convenio expreso con la Secretaría de Medio Ambiente y Recursos Naturales, las atribuciones relacionadas con la investigación en materia de recursos forestales que constituyan especies y poblaciones en riesgo y prioritarias para la conservación, referidas en los artículos 1o., segundo párrafo, 56 y 58 de la Ley General de Vida Silvestre, así como aquellas cuya importación, exportación y tránsito por el territorio nacional estén regulados por la Ley General del Equilibrio Ecológico y la Protección al Ambiente y las convenciones internacionales de las que México sea parte.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 5o.
 
 Las atribuciones del artículo anterior son sin perjuicio de las que le confiere la Ley, el Reglamento, el Decreto y demás disposiciones aplicables.
 
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
+
 ### CAPITULO TERCERO. DE LOS ORGANOS Y ESTRUCTURA ADMINISTRATIVA
 
-> <small>(REFORMADO, D.O.F. 9 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 6o.
 
 Para el despacho de los asuntos de competencia del Instituto, éste contará con los siguientes órganos y unidades administrativas:
 
-I. Junta de Gobierno
+I. Junta de Gobierno;
 
-II. Dirección General
+II. Dirección General;
 
 III. Coordinaciones de:
 
@@ -151,43 +171,51 @@ b. Planeación y Desarrollo
 
 c. Administración y Sistemas
 
-IV. Direcciones Generales Adjuntas
+IV. Direcciones Generales Adjuntas:
 
 a. Unidad Jurídica
 
 b. Organo Interno de Control
 
-V. Direcciones de área Foráneas
+V. Direcciones de área Foráneas:
 
 a. Ocho Centros de Investigación Regional
 
-b. Seis Centros Nacionales de Investigación Disciplinaria
+b. Cinco Centros Nacionales de Investigación Disciplinaria
 
 c. Ocho de Investigación
 
-d. Ocho de Administración
+d. Ocho de Planeación y Desarrollo
 
-e. Treinta y dos de Coordinación y Vinculación Estatal
+e. Ocho de Administración
+
+f. Veinticuatro de Coordinación y Vinculación Estatal
 
 VI. Los titulares de los puestos señalados en los puntos del II al V, para el cabal cumplimiento de sus atribuciones, se podrán auxiliar de los directores, subdirectores, jefes de departamento y personal de apoyo autorizados de acuerdo a la estructura y plantilla de personal.
 
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 7o.
 
-Las relaciones laborales del Instituto con sus empleados se regirán por lo dispuesto en el Apartado "B" del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y su Ley Reglamentaria y estarán incorporados al régimen de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+Las relaciones laborales del Instituto con sus empleados se regirán por lo dispuesto en el Apartado "B" del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y su Ley Reglamentaria y estarán incorporados al régimen del la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO CUARTO. DE LA JUNTA DE GOBIERNO
 
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 8o.
 
-La Junta de Gobierno se integrará por un Presidente que será el Titular de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, por los Subsecretarios y el Oficial Mayor de la citada dependencia, así como por un representante de la Secretaría de Hacienda y Crédito Público, por un representante de la Secretaría de Medio Ambiente y Recursos Naturales, por el Director General del Consejo Nacional de Ciencia y Tecnología y por el Director General de la Comisión Nacional Forestal.
+La Junta de Gobierno se integrará en los términos previstos en su decreto de creación.
 
-Asimismo, a invitación de su Presidente, podrán formar parte integrante de la Junta de Gobierno el Presidente de la Coordinadora Nacional de Fundaciones Produce, Asociación Civil, el Presidente de la Asociación Mexicana de Secretarios de Desarrollo Agropecuario, Asociación Civil, un investigador del Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias que tenga reconocido el nivel 2 en el Sistema Nacional de Investigadores y dos representantes de instituciones o asociaciones de reconocida calidad moral, mérito, prestigio profesional y experiencia relacionada con las actividades sustantivas del organismo. Los últimos tres integrantes durarán en su cargo dos años, podrán ser ratificados por una sola ocasión.
-
-Los primeros once integrantes de la Junta de Gobierno designarán y acreditarán a su respectivo suplente, quienes fungirán como miembros en sus ausencias, los tres restantes no tendrán suplente.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 9o.
 
-La Junta de Gobierno del Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias, tendrá las facultades indelegables que le confiere el artículo 58 de la Ley Federal de las Entidades Paraestatales.
+La Junta de Gobierno del Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias, tendrá las facultades indelegables que le confiere los artículos 58 de la Ley Federal de las Entidades Paraestatales, 56 de la Ley de Ciencia y Tecnología y su decreto de creación.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 10o.
 
@@ -197,49 +225,53 @@ El Secretario Técnico y el Prosecretario tendrán a su cargo las siguientes fun
 
 I. Corresponde al Secretario Técnico:
 
-a) Elaborar el calendario de reuniones de la Junta de Gobierno y someterlo a su consideración;
+a) Elaborar el calendario de reuniones de la Junta de Gobierno y someterlo a su consideración.
 
-b) Formular con la debida anticipación, el orden del día de las reuniones de la Junta de Gobierno, tomando en cuenta los asuntos que a propuesta de sus miembros, del Director General y del Comisario Público, se deban incluir en la misma;
+b) Formular con la debida anticipación, el orden del día de las reuniones de la Junta de Gobierno, tomando en cuenta los asuntos que a propuesta de sus miembros, del Director General y del Comisario Público, se deban incluir en la misma.
 
-c) Por instrucciones del presidente de la Junta de Gobierno o del titular de la entidad, remitir a todos los miembros de la Junta de Gobierno, la convocatoria acompañada del orden del día y de la documentación correspondiente, asegurándose de que su recepción se efectúe cuando menos cinco días hábiles antes de la celebración de la reunión correspondiente;
+c) Por instrucciones del presidente de la Junta de Gobierno o del titular de la entidad, remitir a todos los miembros de la Junta de Gobierno, la convocatoria acompañada del orden del día y de la documentación correspondiente, asegurándose de que su recepción se efectúe cuando menos cinco días hábiles antes de la celebración de la reunión correspondiente.
 
-d) Llevar la lista de asistencia y verificar que exista quórum de las reuniones ordinarias y extraordinarias, así como el registro de todos los miembros con los datos necesarios para informar a la Junta de Gobierno;
+d) Llevar la lista de asistencia y verificar que exista quórum de las reuniones ordinarias y extraordinarias, así como el registro de todos los miembros con los datos necesarios para informar a la Junta de Gobierno.
 
-e) Dar lectura al acta de la reunión anterior y tomar nota de las observaciones de los miembros de la Junta de Gobierno, a fin de verificar que las mismas, cuando procedan, modifiquen el acta correspondiente y llevar su control y registro;
+e) Dar lectura al acta de la reunión anterior y tomar nota de las observaciones de los miembros de la Junta de Gobierno, a fin de verificar que las mismas, cuando procedan, modifiquen el acta correspondiente y llevar su control y registro.
 
-f) Firmar las actas y constancias necesarias que se deriven de las reuniones de la Junta de Gobierno;
+f) Firmar las actas y constancias necesarias que se deriven de las reuniones de la Junta de Gobierno.
 
-g) Expedir las certificaciones que sean necesarias, respecto de los acuerdos adoptados por la Junta de Gobierno;
+g) Expedir las certificaciones que sean necesarias, respecto de los acuerdos adoptados por la Junta de Gobierno.
 
-h) Recabar la información correspondiente al cumplimiento de los acuerdos adoptados por la Junta de Gobierno y hacerla del conocimiento a los integrantes de la misma;
+h) Recabar la información correspondiente al cumplimiento de los acuerdos adoptados por la Junta de Gobierno y hacerla del conocimiento a los integrantes de la misma.
 
-i) Concurrir con puntualidad a las reuniones y estar interiorizado y capacitado para informar de la marcha de los acuerdos de la Junta de Gobierno y dará cuenta de la correspondencia contestándola y suscribiéndola con la prontitud debida, y
+i) Concurrir con puntualidad a las reuniones y estar interiorizado y capacitado para informar de la marcha de los acuerdos de la Junta de Gobierno y dará cuenta de la correspondencia contestándola y suscribiéndola con la prontitud debida.
 
-j) Las demás que le asigne el presidente de la Junta de Gobierno o el Director General del INIFAP.
+j) Las demás que la (sic) asigne el presidente de la Junta de Gobierno o el Director General del INIFAP.
 
-II. Corresponde al prosecretario:
+II. Corresponde al Prosecretario:
 
-a) Levantar las actas de las reuniones que celebre la Junta de Gobierno y una vez aprobadas, obtener las firmas correspondientes, asimismo, llevar el registro de los acuerdos tomados;
+a) Levantar las actas de las reuniones que celebre la Junta de Gobierno y una vez aprobadas, obtener las firmas correspondientes, asimismo llevar el registro de los acuerdos tomados, y
 
-b) Recabar de las áreas administrativas del Instituto, con la anticipación necesaria, la información que deba proporcionarse a la Junta de Gobierno;
+b) Recabar de las áreas administrativas del Instituto, con la anticipación necesaria, la información que deba proporcionarse a la Junta de Gobierno.
 
-c) Sustituir al secretario técnico, en sus faltas, ausencias o renuncia, y
+c) Sustituir al secretario técnico, en sus faltas, ausencias o renuncia.
 
 d) Ayudar en lo que fuere menester al secretario técnico, pero los actos que realice estarán bajo la responsabilidad del secretario técnico.
 
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 11o.
 
-La Junta de Gobierno celebrará, cuando menos, cuatro reuniones ordinarias al año. Estas se celebrarán válidamente con la asistencia de por lo menos la mitad más uno de sus miembros, siempre que se encuentren presentes la mayoría de los representantes de la Administración Pública Federal. Los acuerdos se tomarán por mayoría de los miembros presentes y el Presidente tendrá voto de calidad en caso de empate.
+La Junta de Gobierno celebrará, cuando menos, dos reuniones ordinarias al año. Estas se celebrarán válidamente con la asistencia de por lo menos la mitad más uno de sus miembros, siempre que se encuentren presentes la mayoría de los representantes de la Administración Pública Federal. Los acuerdos se tomarán por mayoría de los miembros presentes y el Presidente tendrá voto de calidad en caso de empate.
 
 A las reuniones de la Junta de Gobierno podrán asistir, como invitados con voz pero sin voto, representantes de instituciones de investigación, docencia o de grupos interesados de los sectores productivos.
 
-El Secretario y el Prosecretario de la Junta de Gobierno asistirán a las reuniones con voz pero sin voto.
+El Director General del Organismo, el Secretario y el Prosecretario de la Junta de Gobierno asistirán a las reuniones con voz pero sin voto.
 
 Lo no previsto en el presente artículo, será resuelto de conformidad con lo dispuesto en la Ley, el Reglamento, el Decreto y los Lineamientos para su funcionamiento que autorice la misma Junta de Gobierno.
 
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
+
 ### CAPITULO QUINTO. DEL DIRECTOR GENERAL
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 9 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 12o.
 
@@ -279,17 +311,21 @@ XVI. Establecer políticas y lineamientos a que quedarán sujetos los programas 
 
 XVII. Instrumentar y supervisar el cumplimiento de programas de modernización, desconcentración y simplificación administrativa;
 
-XVIII. En concordancia con los lineamientos generales y específicos que en materia de gasto establezcan las autoridades normativas y fiscalizadoras, establecer los criterios de formulación del presupuesto del Instituto;
+XVIII. En concordancia con los lineamientos generales y específicos que en materia de gasto establezcan las autoridades c (sic)
 
 XIX. Las demás que se deriven de los acuerdos de la Junta de Gobierno, las que el Titular de la Coordinadora Sectorial le encomiende y todas aquellas necesarias para dar cabal cumplimiento a las anteriores.
 
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 13o.
 
-El Director General dispondrá de asesoría y del personal técnico y administrativo que requiera para la atención de los asuntos de su competencia, conforme a los presupuestos y tabuladores aprobados. Asimismo, designará un Secretario Particular, quien desempeñará las funciones que le encomiende.
+El Director General dispondrá de asesoría y del personal técnico y administrativo que requiera para la atención de los asuntos de su competencia, conforme a los presupuestos y tabuladores aprobados. Así mismo designará un Secretario Particular, quien desempeñará las funciones que le encomiende.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO SEXTO. DE LAS UNIDADES ADMINISTRATIVAS
 
-> <small>(REFORMADO, D.O.F. 9 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 14o.
 
@@ -323,7 +359,7 @@ XIII. Las demás que le asignen el Director General, las normas y disposiciones 
 
 Los titulares de las Coordinaciones de las Direcciones Generales Adjuntas, de los Centros de Investigación Regional y de los Centros Nacionales de Investigación Disciplinaria, acordarán con el Director General el despacho de los asuntos de su competencia.
 
-> <small>(REFORMADO, D.O.F. 9 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 15o.
 
@@ -355,33 +391,31 @@ XII. Divulgar los resultados de las investigaciones científicas y tecnológicas
 
 XIII. Diseñar y coordinar la estrategia de posicionamiento institucional;
 
-XIV. Coordinar la evaluación de impactos de los resultados de investigación y transferencia de tecnología;
+XIV. Coordinar la instrumentación de las políticas y procesos de seguimiento de las operaciones institucionales de las áreas sustantivas;
 
-XV. Coordinar la instrumentación de las políticas y procesos de seguimiento de las operaciones institucionales de las áreas sustantivas;
+XV. Promover la concurrencia de aportaciones de recursos públicos y privados, nacionales e internacionales para la ejecución de la investigación científica, la transferencia de tecnología y para la formación de sus recursos humanos especializados;
 
-XVI. Promover la concurrencia de aportaciones de recursos públicos y privados, nacionales e internacionales para la ejecución de la investigación científica, la transferencia de tecnología y para la formación de sus recursos humanos especializados;
+XVI. Coordinar y apoyar conforme a las estrategias institucionales la identificación de la demanda, de los diferentes estratos de la población, de productos y servicios que puedan ser generados por la Institución;
 
-XVII. Coordinar y apoyar conforme a las estrategias institucionales la identificación de la demanda, de los diferentes estratos de la población, de productos y servicios que puedan ser generados por la Institución;
+XVII. Coordinar las acciones de la cooperación científica y tecnológica con instituciones y organismos nacionales e internacionales, que pacte la institución;
 
-XVIII. Coordinar las acciones de la cooperación científica y tecnológica con instituciones y organismos nacionales e internacionales, que pacte la institución;
+XVIII. Proponer en el ámbito de competencia de la Coordinación a su cargo la suscripción de acuerdos, convenios, contratos y cualquier otro instrumento jurídico;
 
-XIX. Proponer en el ámbito de competencia de la Coordinación a su cargo la suscripción de acuerdos, convenios, contratos y cualquier otro instrumento jurídico;
+XIX. Proponer el intercambio de información técnica, materiales de investigación y especialistas con organismos nacionales e internacionales, de conformidad con la normatividad aplicable, sobre la base de instrumentos jurídicos que al efecto se suscriban con el Instituto;
 
-XX. Proponer el intercambio de información técnica, materiales de investigación y especialistas con organismos nacionales e internacionales, de conformidad con la normatividad aplicable, sobre la base de instrumentos jurídicos que al efecto se suscriban con el Instituto;
+XX. Participar de conformidad con la normatividad aplicable en las bases para la coordinación y concertación de acciones con instituciones públicas y privadas que realicen funciones relacionadas con la investigación y transferencia de tecnología que realiza el Instituto;
 
-XXI. Participar de conformidad con la normatividad aplicable en las bases para la coordinación y concertación de acciones con instituciones públicas y privadas que realicen funciones relacionadas con la investigación y transferencia de tecnología que realiza el Instituto;
+XXI. Promover investigación de vanguardia para contribuir a la solución de los problemas de productividad, competitividad, sustentabilidad y equidad del sector agrícola, pecuario y forestal del país;
 
-XXII. Promover investigación de vanguardia para contribuir a la solución de los problemas de productividad, competitividad, sustentabilidad y equidad del sector agrícola, pecuario y forestal del país;
+XXII. Establecer y coordinar grupos interdisciplinarios, por cadena productiva y/o por disciplina, para fortalecer la planeación, programación y evaluación de los proyectos que contribuyen al desarrollo sustentable de las mismas;
 
-XXIII. Establecer y coordinar grupos interdisciplinarios, por cadena productiva y/o por disciplina, para fortalecer la planeación, programación y evaluación de los proyectos que contribuyen al desarrollo sustentable de las mismas;
+XXIII. Establecer los mecanismos de interacción con las Unidades Administrativas del Instituto, para garantizar el adecuado desarrollo de los programas y proyectos de investigación, validación y apoyos a la transferencia de tecnología;
 
-XXIV. Establecer los mecanismos de interacción con las Unidades Administrativas del Instituto, para garantizar el adecuado desarrollo de los programas y proyectos de investigación, validación y apoyos a la transferencia de tecnología;
+XXIV. Asegurar que los productos y servicios del Instituto cumplan los estándares de calidad y satisfagan las necesidades de los consumidores;
 
-XXV. Asegurar que los productos y servicios del Instituto cumplan los estándares de calidad y satisfagan las necesidades de los consumidores;
+XXV. Las demás que le asignen el Director General, las normas y disposiciones aplicables.
 
-XXVI. Las demás que le asignen el Director General, las normas y disposiciones aplicables.
-
-> <small>(REFORMADO, D.O.F. 9 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 16o.
 
@@ -415,33 +449,31 @@ XIII. Diseñar el plan de evaluación de impactos de los resultados de investiga
 
 XIV. Diseñar los procesos para la divulgación de los resultados de las investigaciones científicas y tecnológicas que se realicen en el Instituto;
 
-XV. Evaluar la aplicación de las políticas, estrategias y procesos derivados de las decisiones y operaciones institucionales;
+XV. Diseñar los procedimientos para la vinculación del Instituto con las organizaciones de productores y el sector agroindustrial, buscando que la demanda de tecnología pueda ser atendida a través de la tecnología que genera el Instituto y permita incrementar la diversificación de su financiamiento;
 
-XVI. Diseñar los procedimientos para la vinculación del Instituto con las organizaciones de productores y el sector agroindustrial, buscando que la demanda de tecnología pueda ser atendida a través de la tecnología que genera el Instituto y permita incrementar la diversificación de su financiamiento;
+XVI. Diseñar los procesos para que los productos y servicios del Instituto cumplan los estándares de calidad y que satisfagan las necesidades de los usuarios y/o beneficiarios;
 
-XVII. Diseñar los procesos para que los productos y servicios del Instituto cumplan los estándares de calidad y que satisfagan las necesidades de los usuarios y/o beneficiarios;
+XVII. Plantear los grandes temas en que se vinculen los actores clave del sector y el Instituto;
 
-XVIII. Plantear los grandes temas en que se vinculen los actores clave del sector y el Instituto;
+XVIII. Proponer la suscripción de acuerdos, convenios, contratos y cualquier otro instrumento jurídico con los entes públicos y privados relacionados con el mandato y objeto institucional;
 
-XIX. Proponer la suscripción de acuerdos, convenios, contratos y cualquier otro instrumento jurídico con los entes públicos y privados relacionados con el mandato y objeto institucional;
+XIX. Planear la cooperación científica y tecnológica con instituciones y organismos nacionales e internacionales, mediante los instrumentos jurídicos que correspondan y de conformidad a la normatividad aplicable;
 
-XX. Planear la cooperación científica y tecnológica con instituciones y organismos nacionales e internacionales, mediante los instrumentos jurídicos que correspondan y de conformidad a la normatividad aplicable;
+XX. Establecer las políticas y criterios para la coordinación correspondiente con el Sistema Nacional de Investigación y Transferencia de Tecnología (SNITT) y diseñar los mecanismos que permitan su articulación y vinculación al interior del Instituto;
 
-XXI. Establecer las políticas y criterios para la coordinación correspondiente con el Sistema Nacional de Investigación y Transferencia de Tecnología (SNITT) y diseñar los mecanismos que permitan su articulación y vinculación al interior del Instituto;
+XXI. Revisar y proponer métodos para la evaluación de la generación de conocimientos y tecnología, así como su transferencia;
 
-XXII. Revisar y proponer métodos para la evaluación de la generación de conocimientos y tecnología, así como su transferencia;
+XXII. Diseñar los procesos y mecanismos de articulación entre las diferentes unidades administrativas del Instituto, para garantizar el adecuado desarrollo de los programas y proyectos de investigación, validación y apoyos a la transferencia de tecnología;
 
-XXIII. Diseñar los procesos y mecanismos de articulación entre las diferentes unidades administrativas del Instituto, para garantizar el adecuado desarrollo de los programas y proyectos de investigación, validación y apoyos a la transferencia de tecnología;
+XXIII. Las demás que le asignen el Director General, las normas y las disposiciones aplicables.
 
-XXIV. Las demás que le asignen el Director General, las normas y las disposiciones aplicables.
-
-> <small>(REFORMADO, D.O.F. 9 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 17o.
 
 La Coordinación de Administración y Sistemas, estará a cargo de un Coordinador que tendrá las atribuciones siguientes:
 
-I. Desarrollar, proponer e implantar políticas, procedimientos, planes y estrategias de modernización de la administración para que el Instituto cumpla con mayor oportunidad y eficiencia su misión y objetivos;
+I. Participar en el ámbito de su competencia en las políticas, procedimientos, planes y estrategias de modernización de la administración para que el Instituto cumpla con mayor oportunidad y eficiencia su misión y objetivos;
 
 II. Diseñar y proponer políticas, planes, sistemas y procedimientos administrativos para promover la simplificación administrativa, así como el uso racional de los recursos materiales y financieros;
 
@@ -475,9 +507,13 @@ XVI. Llevar el control del patrimonio inmobiliario conforme a la legislación vi
 
 XVII. Coordinar la ejecución de las políticas para garantizar la seguridad de las personas y de los bienes muebles e inmuebles del Instituto, así como para controlar el ingreso y salida de personas y de bienes de sus instalaciones;
 
-XVIII. Las demás que le asignen el Director General, las normas y las disposiciones aplicables.
+XVIII. Coordinar la instrumentación de las políticas y procesos de seguimiento de las operaciones institucionales de las áreas sustantivas;
 
-> <small>(REFORMADO, D.O.F. 9 DE FEBRERO DE 2005)</small>
+XIX. Evaluar la aplicación de las políticas, estrategias y procesos derivados de las decisiones y operaciones institucionales;
+
+XX. Las demás que le asignen el Director General, las normas y las disposiciones aplicables.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 18o.
 
@@ -493,7 +529,7 @@ IV. Asesorar jurídicamente a las diversas áreas que conforman el Instituto;
 
 V. Conformar un banco de datos de índole jurídico que contenga las leyes, decretos, acuerdos y los demás instrumentos jurídico-normativos aplicables;
 
-VI. Definir y establecer criterios generales de aplicación e interpretación jurídica de las leyes, decretos, reglamentos, acuerdos, circulares y demás disposiciones relativas al ámbito de actuación del Instituto y pronunciar opinión jurídica sobre las que propongan las otras unidades administrativas de la Secretaría o dependencias de la Administración Pública Federal;
+VI. Pronunciar opinión y criterios generales de aplicación e interpretación jurídica de las leyes, decretos, reglamentos, acuerdos, circulares y demás disposiciones relativas al ámbito de actuación del Instituto;
 
 VII. Dictaminar los aspectos jurídicos de los convenios, contratos, acuerdos y en general de todos y cada uno de los instrumentos jurídicos, incluidos los de licenciamiento de la propiedad intelectual, que el Instituto suscriba o celebre con organismos públicos, privados o sociales nacionales e internacionales, así como llevar el registro de los mismos;
 
@@ -509,9 +545,9 @@ XII. Formular opiniones y recomendaciones a los proyectos de normas oficiales me
 
 XIII. Establecer y ejecutar a petición de las unidades administrativas del Instituto, el procedimiento de rescisión de los contratos y convenios, tramitarlos y proponer la resolución correspondiente;
 
-XIV. Participar en los procedimientos de licitación pública, invitación y adjudicación directa en la adquisición de bienes muebles, arrendamientos y contratación de servicios que realice el Instituto;
+XIV. Participar en los procedimientos de licitación pública, invitación y adjudicación directa en la adquisición de bienes muebles, arrendamientos y contratación de servicios que realice el Instituto, en su carácter de asesor;
 
-XV. Llevar el control del patrimonio inmobiliario y de derechos adquiridos así como realizar los trámites legales para la adquisición, regularización, desincorporación y protección jurídica de los bienes inmuebles administrados por el Instituto o destinados a éste;
+XV. Llevar a cabo la protección jurídica que corresponda respecto de los bienes inmuebles que tenga el Instituto en propiedad, administración o destino, a petición del responsable de inmuebles del Instituto;
 
 XVI. Elaborar informes previos y con justificación que en materia de amparo deba rendir el Director General, así como los relativos a los demás servidores públicos que sean señalados como autoridades responsables e intervenir como tercero perjudicado cuando se requiera, además de formular y presentar todas las promociones que a dichos juicios se refieran;
 
@@ -531,13 +567,13 @@ XXIII. Llevar el control de los poderes que otorgue el Director General, en tér
 
 XXIV. Formular y someter a la Dirección General las propuestas de proyectos de Ley, reglamentos, reglas generales, instructivos, acuerdos y circulares, relativos a las actividades del Instituto;
 
-XXV. Coadyuvar con la Dirección de Desarrollo Humano y Profesionalización y la Dirección General de Administración en la atención de las relaciones jurídico-laborales del Instituto y su personal;
+XXV. Coadyuvar con la Dirección de Desarrollo Humano y Profesionalización y la Coordinación de Administración y Sistemas en la atención de las relaciones jurídico-laborales del Instituto y su personal, tomando en consideración las políticas de la Coordinación Sectorial;
 
-XXVI. Intervenir en los conflictos laborales que surjan entre el Instituto y sus trabajadores, sin perjuicio de las atribuciones que le correspondan a la Dirección General de Administración a la Dirección de Desarrollo Humano y Profesionalización;
+XXVI. Intervenir en los conflictos laborales que surjan entre el Instituto y sus trabajadores, sin perjuicio de las atribuciones que le correspondan a la Coordinación de Administración y Sistemas, así como a la Dirección de Desarrollo Humano y Profesionalización;
 
 XXVII. Interponer, con la representación de la Secretaría, los recursos que procedan en contra de las resoluciones que emita el Tribunal Federal de Justicia Fiscal y Administrativa;
 
-XXVIII. Formular y presentar denuncias o querellas ante el Ministerio Público competente, de los hechos delictuosos por los que se afecte al Instituto, así como la prestación de los servicios públicos a su cargo; otorgar el perdón legal cuando proceda, así como denunciar o querellarse ante el Ministerio Público de la Federación de los hechos que puedan constituir delitos de los servidores públicos del Instituto en el desempeño de sus funciones, allegándose los elementos probatorios del caso y dando la intervención que corresponda a la Secretaría de la Función Pública;
+XXVIII. Formular y presentar denuncias o querellas ante el Ministerio Público competente, de los hechos delictuosos por los que se afecte al Instituto; otorgar el perdón legal cuando proceda, así como denunciar o querellarse ante el Ministerio Público de la Federación de los hechos que puedan constituir delitos de los servidores públicos del Instituto en el desempeño de sus funciones, allegándose los elementos probatorios del caso y dando la intervención que corresponda a la Secretaría de la Función Pública;
 
 XXIX. Representar al Instituto ante comisiones, subcomisiones, comités, grupos de trabajo y todo tipo de eventos de índole jurídica en que éste participe;
 
@@ -545,11 +581,11 @@ XXX. Emitir opinión sobre las disposiciones que deban ser publicadas en el Diar
 
 XXXI. Las demás que señalen las disposiciones normativas institucionales y, en general, todas aquellas cuestiones relativas al cumplimiento de los objetivos del Instituto que sean afines con las fracciones anteriores y que le encomiende el Director General.
 
-> <small>(REFORMADO, D.O.F. 9 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 19o.
 
-El Organo Interno de Control estará a cargo de un titular con nivel de Director General Adjunto que tendrá además de las facultades prescritas en el artículo 63 del Reglamento Interno de la Secretaría de la Función Pública las atribuciones siguientes:
+El Organo Interno de Control estará a cargo de un titular con el nivel de Director General Adjunto que tendrá además de las facultades prescritas en el Reglamento Interno de la Secretaría de la Función Pública las atribuciones siguientes:
 
 I. Recibir quejas y denuncias;
 
@@ -569,131 +605,211 @@ VIII. Requerir a las unidades administrativas información;
 
 IX. Todas las demás que establecen la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y el Reglamento Interior de la Secretaría de la Función Pública.
 
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
+
 ### CAPITULO SEPTIMO. DE LAS UNIDADES ADMINISTRATIVAS FORANEAS
 
-> <small>(REFORMADO, D.O.F. 9 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 20o.
 
 La Dirección del Centro de Investigación Regional, estará a cargo de un Director Regional que tendrá las atribuciones siguientes:
 
-I. Coordinar y evaluar el programa de investigación y transferencia de la Región.
+I. Coordinar el proceso de planeación estratégica del Centro de Investigación Regional y asegurar su alineación con el Plan Estratégico Institucional;
 
-II. Coordinar y evaluar el programa operativo anual de los Campos Experimentales y Direcciones Estatales.
+II. Implementar y evaluar al programa de investigación y transferencia de tecnología del Centro de Investigación Regional así como dar seguimiento al mismo;
 
-III. Supervisar la pertinencia, impacto y calidad de los proyectos de investigación.
+III. Coordinar y evaluar el Programa Operativo Anual de Campos Experimentales y Direcciones Estatales así como dar seguimiento a los mismos;
 
-IV. Coordinar se fortalezca la capacidad interinstitucional y vinculación con las entidades del sector publico, privado y social.
+IV. Implementar los mecanismos que permitan obtener recursos públicos y privados de las fuentes de financiamiento relevantes para la ejecución de investigación científica, transferencia de tecnología y formación de recursos humanos;
 
-V. Promover y dar seguimiento a los convenios celebrados con los productores del sector agropecuario y forestal.
+V. Implementar estrategias de vinculación con los usuarios/beneficiarios del Centro de Investigación Regional para la captación de demanda de investigación, productos y servicios para la atención de los problemas del sector agropecuario y forestal;
 
-VI. Planear y administrar los recursos humanos, materiales y financieros de la Región.
+VI. Coordinar los procesos para identificar los grandes temas que orienten la elaboración de proyectos y programas estratégicos, inmersos en el Plan Operativo Institucional y en alineación con el Plan Estratégico del Centro de Investigación Regional;
 
-> <small>(REFORMADO, D.O.F. 9 DE FEBRERO DE 2005)</small>
+VII. Promover y dar seguimiento a los convenios celebrados con otras instituciones de investigación así como con productores del sector agropecuario y forestal;
+
+VIII. Implementar las estrategias para fortalecer la capacidad de vinculación interinstitucional del Centro de Investigación Regional con las entidades públicas, privadas y sociales del sector;
+
+IX. Establecer los compromisos que asumen de manera específica las Direcciones Estatales y/o Campos Experimentales del área de influencia del Centro de Investigación Regional en alineación con su Plan Estratégico;
+
+X. Implementar mecanismos que permitan analizar la pertinencia, impacto y calidad de los proyectos de investigación en el Centro de Investigación Regional;
+
+XI. Implementar los planes operativos que permitan que los Campos Experimentales establezcan la alineación de sus programas y proyectos con el Plan Estratégico y sus componentes, así como dar seguimiento y evaluar su desempeño;
+
+XII. Implementar los lineamientos a que se deben sujetar los procesos productivos, líneas de investigación, estándares de calidad, utilización de nuevas tecnologías y materiales, procesos de producción de bienes y servicios en el Centro de Investigación Regional, así como dar seguimiento y evaluar su cumplimiento;
+
+XIII. Planear, fomentar y facilitar la vinculación del Centro de Investigación Regional con los Centros Nacionales de Investigación Disciplinaria, Redes de Investigación y otros Centros de Investigación Regional del Instituto;
+
+XIV. Coordinar el establecimiento y operación de las redes nacionales y de investigación regional y su vinculación con las redes de investigación de otros Centros de Investigación Regional y/o Centro Nacional de Investigación Disciplinaria del Instituto;
+
+XV. Implementar las estrategias de promoción de productos y servicios y la estrategia de posicionamiento institucional para fortalecer la imagen del Instituto como un organismo de excelencia;
+
+XVI. Proponer proyectos para el desarrollo de habilidades y competencias del Capital Humano del Centro de Investigación Regional vinculado con la misión del mismo;
+
+XVII. Implementar los lineamientos, metodologías y criterios que en materia de administración deban observar las unidades administrativas del Centro de Investigación Regional, que aseguren su cumplimiento y congruencia con las disposiciones jurídicas aplicables, el Plan Estratégico y planes operativos;
+
+XVIII. Implementar mecanismos para dar seguimiento al cumplimiento de programas de modernización, desconcentración y simplificación administrativa;
+
+XIX. Determinar e implementar los criterios para la asignación de los recursos humanos, materiales y financieros del Centro de Investigación Regional, y
+
+XX. Las demás que el Director General le encomiende y todas aquellas necesarias para dar cabal cumplimiento a las anteriores.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 21o.
 
 La Dirección de Centro Nacional de Investigación Disciplinaria, estará a cargo de un Director que tendrá las atribuciones siguientes:
 
-I. Elaborar y operar el programa de investigación en las disciplinas que le competen.
+I. Dirigir y establecer el proceso de Planeación Estratégica del Centro Nacional de Investigación Disciplinaria en congruencia con el Plan Estratégico Institucional;
 
-II. Planear, proponer y ejecutar actividades de difusión de los resultados de investigación.
+II. Coordinar la elaboración del Programa Operativo Anual del Centro Nacional de Investigación Disciplinaria para dar cumplimiento a los compromisos institucionales y dar seguimiento al mismo;
 
-III. Establecer coordinación entre el Centro y demás unidades administrativas.
+III. Implementar los mecanismos que permitan obtener recursos públicos y privados de las fuentes de financiamiento relevantes para la ejecución de investigación científica, transferencia de tecnología y formación de recursos humanos;
 
-IV. Revisar y asegurar la pertinencia, relevancia y calidad de los proyectos de investigación del Centro.
+IV. Implementar estrategias de vinculación con los usuarios/beneficiarios del Centro Nacional de Investigación Disciplinaria para la captación de demanda de investigación, productos y servicios para la atención de los problemas del sector agropecuario y forestal;
 
-V. Promover la vinculación con otras instituciones y dependencias de los sectores públicos y privados.
+V. Proponer proyectos para el desarrollo de habilidades y competencias del Capital Humano del Centro Nacional de Investigación Disciplinaria vinculado con la misión del mismo;
 
-VI. Planear, programar, presupuestar y coordinar los recursos humanos, financieros y materiales con que opera el centro.
+VI. Planear estrategias de Investigación de vanguardia para la generación de conocimientos e innovaciones que atiendan los problemas de productividad, competitividad y sustentabilidad del sector agrícola, pecuario y forestal del país;
 
-> <small>(REFORMADO, D.O.F. 9 DE FEBRERO DE 2005)</small>
+VII. Integrar y operar los programas, subprogramas y proyectos nacionales de investigación básica y aplicada, estratégica y de gran visión a corto, mediano y largo plazo;
+
+VIII. Asegurar la vinculación a través de la suscripción de acuerdos, convenios u otro instrumento jurídico con los actores clave identificados en congruencia con el Plan Estratégico Institucional;
+
+IX. Dar seguimiento a las propuestas de intercambio de información técnica, materiales de investigación y especialistas con organismos nacionales e internacionales de conformidad con la normatividad aplicable sobre la base de instrumentos jurídicos que al efecto se suscriban para facilitar la vinculación del Instituto;
+
+X. Implementar los mecanismos para que los productos y servicios generados por el Centro Nacional de Investigación Disciplinaria cumplan con los estándares de calidad para la atención y satisfacción de necesidades y demandas de los usuarios/beneficiarios;
+
+XI. Implementar mecanismos de interacción y apoyo con los Centros de Investigación Regional, Campos experimentales y otros Centros Nacionales de Investigación Disciplinaria en la realización de investigación básica, aplicada, estratégica y de gran visión;
+
+XII. Establecer mecanismos, criterios e indicadores para asegurar el cumplimiento, pertinencia, relevancia y calidad de los Programas y Proyectos de Investigación;
+
+XIII. Establecer y operar los Comités Técnicos y Científicos de los Programas de Investigación y coordinar reuniones periódicas de los mismos para fortalecer la planeación, programación y evaluación de los proyectos;
+
+XIV. Asegurar que los resultados de investigación generen conocimientos, metodologías, procesos, tecnologías que puedan ser aplicados por otros Programas de Investigación o directamente por los usuarios/beneficiarios, dando respuesta a los grandes problemas nacionales que le competen;
+
+XV. Asegurar la participación del Centro Nacional de Investigación Disciplinaria en las Redes de Investigación y Transferencia de Tecnología;
+
+XVI. Implementar las estrategias de promoción de productos y servicios y la estrategia de posicionamiento institucional para fortalecer la imagen del Instituto como un organismo de excelencia;
+
+XVII. Identificar productos y servicios que por su competitividad y sustentabilidad presentan mayor factibilidad de adopción por el mercado regional o nacional;
+
+XVIII. Promover y asegurar la difusión de los resultados de las actividades de investigación básica, aplicada y desarrollo tecnológico del Centro Nacional de Investigación Disciplinaria para lograr su adopción por parte del sector agropecuario y forestal;
+
+XIX. Planear, programar, presupuestar y coordinar los recursos humanos, financieros y materiales con que opera el Centro Nacional de Investigación Disciplinaria;
+
+XX. Implementar políticas y criterios para el uso y manejo de los recursos del Centro Nacional de Investigación Disciplinaria relativos a mejorar la actividad sustantiva, así como establecer la coordinación que corresponda a su instrumentación;
+
+XXI. Proponer un programa de desarrollo de la infraestructura y los equipos científicos necesarios, y
+
+XXII. Las demás que el Director General le encomiende y todas aquellas necesarias para dar cabal cumplimiento a las anteriores.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 22o.
 
-La Dirección de Coordinación y Vinculación Estatal, estará a cargo de un Director de Area que tendrá las atribuciones siguientes:
+La Dirección de Coordinación y Vinculación Estatal, estará a cargo de un Director que tendrá las atribuciones siguientes:
 
-I. Detectar y atender demandas de tecnología del sector agropecuario y forestal del Estado.
+I. Establecer y coordinar los mecanismos de identificación y captación de demandas estatales actuales y futuras sobre requerimientos de investigación, transferencia de tecnología, validación, productos y servicios en las áreas agrícola, pecuaria y forestal para eficientar la atención de los problemas del sector;
 
-II. Comunicar y difundir el uso y adopción de nuevas tecnologías de mayor eficiencia en el sector productivo, agropecuario y forestal del Estado.
+II. Apoyar a la Dirección Regional en la coordinación y seguimiento para la elaboración de estudios de mercado, que se realicen en la Entidad Federativa correspondiente, de los sistemas producto estratégicos que permitan conocer áreas de oportunidad en la investigación, transferencia de tecnología, validación, productos y servicios;
 
-III. Supervisar y coordinar programas anuales de investigación y transferencia de tecnología agropecuaria y forestal en el Estado.
+III. Obtener, integrar y procesar información sobre los problemas agropecuarios y forestales del estado para los sistemas institucionales de captación de demanda;
 
-IV. Gestionar y asegurar recursos para el desarrollo de proyectos de investigación orientados a atender las demandas del sector agropecuario y forestal del Estado.
+IV. Implementar las estrategias de vinculación con los usuarios/beneficiarios del Instituto para la captación de: demanda de investigación, de productos y de servicios, en la Entidad Federativa correspondiente para la atención de los problemas del sector agropecuario y forestal;
 
-V. Recomendar tecnología de producción generada por la institución a las diferentes instancias y organizaciones del sector Estado.
+V. Determinar los actores clave a nivel estatal con los que el Instituto debe vincularse a través de la suscripción de acuerdos, convenios u otro instrumento jurídico para el fortalecimiento de las capacidades institucionales;
 
-VI. Establecer y consolidar relaciones interinstitucionales con dependencias del sector, instituciones de docencia investigación, sector privado y organizaciones de productores en el Estado.
+VI. Representar al Instituto en las reuniones de coordinación y concertación de acciones con instituciones que realicen funciones relacionadas con Investigación y Transferencia de Tecnología en la Entidad Federativa correspondiente para fortalecer la vinculación interinstitucional;
 
-VII. Establecer y dar seguimiento a las condiciones de los convenios celebrados con productores del sector agropecuario y forestal.
+VII. Apoyar a los investigadores en la gestión y presentación de los proyectos ante las distintas fuentes financiadoras;
+
+VIII. Participar en el seguimiento de la instrumentación transversal de los mecanismos de transferencia de conocimientos y tecnología para asegurar la atención a la demanda;
+
+IX. Establecer y dar seguimiento a la estrategia de promoción y difusión de los productos y servicios del Instituto para que el sector agropecuario y forestal de la Entidad Federativa correspondiente, conozca y adopte la tecnología desarrollada por el Instituto;
+
+X. Coadyuvar a que se apliquen los lineamientos de los procesos de promoción y venta de los productos y servicios del Instituto para facilitar su adopción y uso por parte de usuarios/beneficiarios;
+
+XI. Coordinar la participación institucional en eventos para promover y difundir los productos y servicios del Instituto en la Entidad Federativa correspondiente;
+
+XII. Coordinar la estrategia de posicionamiento institucional en el nivel estatal, para fortalecer la imagen del Instituto como un organismo de excelencia, y
+
+XIII. Las demás que le asigne el Director de Centro de Investigación Regional, las normas y las disposiciones aplicables.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO OCTAVO. DE LA ADSCRIPCION Y ORGANIZACION INTERNA DE LAS UNIDADES ADMINISTRATIVAS
 
-> <small>(REFORMADO, D.O.F. 9 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 23o.
 
-A la Dirección General, estarán directamente adscritas la Coordinación de Investigación, Innovación y Vinculación; Coordinación de Planeación y Desarrollo; Coordinación de Administración y Sistemas; Unidad Jurídica, Organo Interno de Control, Direcciones de Centros de Investigación Regional, y Direcciones de Centros Nacionales de Investigación Disciplinaria.
+A la Dirección General, estarán directamente adscritas en el nivel central la Coordinación de Investigación, Innovación y Vinculación, Coordinación de Planeación y Desarrollo, Coordinación de Administración y Sistemas, Unidad Jurídica, Organo Interno de Control, y Unidad de Apoyo Técnico, del nivel foráneo las Direcciones de Centro Nacional de Investigación Disciplinaria y Direcciones de Centro de Investigación Regional.
 
-> <small>(REFORMADO, D.O.F. 9 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 24o.
 
-A la Coordinación de Investigación, Innovación y Vinculación, estarán directamente adscritas la Dirección de Abasto Nacional; Dirección de Productos Industriales y Exportación; Dirección de Investigación en Producción Animal; Dirección de Innovación Tecnológica y Negocios Pecuarios, y Dirección de Silvicultura y Manejo de Ecosistemas Forestales.
+A la Coordinación de Investigación, Innovación y Vinculación, estarán directamente adscritas la Dirección de Promoción y Divulgación; Dirección de Vinculación de Investigación Institucional e Interinstitucional; Dirección de Vinculación con Unidades Operativas, y Dirección de Vinculación con la Demanda.
 
-> <small>(REFORMADO, D.O.F. 9 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 25o.
 
-A la Coordinación de Planeación y Desarrollo, estarán directamente adscritas la Dirección de Promoción y Ventas; Dirección de Aseguramiento de Calidad; Dirección de Cooperación Científica y Tecnológica; Dirección de Planeación y Coordinación y la Unidad de Planeación Estratégica.
+A la Coordinación de Planeación y Desarrollo, estarán directamente adscritas la Dirección de Planeación; Dirección de Programas y Proyectos Estratégicos; Dirección de Talento y Desarrollo; Dirección de Intercambio y Cooperación Científica; y la Subdirección de Desempeño Institucional.
 
-> <small>(REFORMADO, D.O.F. 9 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 26o.
 
-A la Coordinación de Administración y Sistemas, estarán directamente adscritas la Dirección de Desarrollo Humano y Profesionalización; la Dirección de Recursos Financieros; la Dirección de Recursos Materiales, y la Dirección de Sistemas e Informática.
+A la Coordinación de Administración y Sistemas, estarán directamente adscritas la Dirección de Desarrollo Humano y Profesionalización; Dirección de Eficiencia Financiera y Rendición de Cuentas; Dirección de Recursos Materiales y Servicios, y Dirección de Evaluación y Sistemas.
 
-> <small>(REFORMADO, D.O.F. 9 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 27o.
 
-A la Unidad Jurídica, estarán directamente adscritas la Subdirección de Coordinación Jurídica; el Departamento de Propiedad Intelectual y Departamento de Procedimientos Administrativos y Consulta.
+A la Unidad Jurídica, estarán directamente adscritas la Subdirección de Coordinación Jurídica y Subdirección de Propiedad Intelectual y Procedimientos Administrativos.
 
-> <small>(REFORMADO, D.O.F. 9 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 28o.
 
-Al Organo Interno de Control, estarán directamente adscritas las áreas de Auditoria Interna y de Responsabilidades y Quejas.
+Al Organo Interno de Control, estarán directamente adscritos los Titulares de Auditoría Interna; Area de Control y Evaluación y Apoyo al Buen Gobierno, y Area de Responsabilidades y Quejas.
 
-> <small>(REFORMADO, D.O.F. 9 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 29o.
 
-A las Direcciones de Centros de Investigación Regional, estarán directamente adscritas la Dirección de Investigación Regional, la Dirección de Administración Regional y por el número de Direcciones de Coordinación y Vinculación Estatal que correspondan al ámbito de influencia de la Región.
+A las Direcciones de Centros de Investigación Regional, estarán directamente adscritas la Dirección de Investigación; Dirección de Planeación y Desarrollo; Dirección de Administración, y por el número de Direcciones de Coordinación y Vinculación Estatal que correspondan al ámbito de influencia de la Región.
 
-> <small>(REFORMADO, D.O.F. 9 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 30o.
 
-A las Direcciones de Centros Nacionales de Investigación Disciplinaria, estarán directamente adscritas el Departamento de Operación y el Departamento de Administración.
+A las Direcciones de Centros Nacionales de Investigación Disciplinaria, estarán directamente adscritos el Departamento de Operación y el Departamento de Administración.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO NOVENO. DEL ORGANO INTERNO DE CONTROL
 
-> <small>(REFORMADO, D.O.F. 9 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 31o.
 
 El Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias contará con un Organo Interno de Control al frente del cual el titular designado en los términos del artículo 37 fracción XII de la Ley Orgánica de la Administración Pública Federal, en el ejercicio de sus facultades, se auxiliará por los titulares de las áreas de Auditoría Interna, Responsabilidades y Quejas designados en los mismos términos.
 
-> <small>(REFORMADO, D.O.F. 9 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 32o.
 
-Las ausencias del Contralor Interno, así como la de los titulares de las áreas de Auditoría Interna, Responsabilidades y Quejas, serán suplidas conforme a lo previsto en el artículo 74 del Reglamento Interior de la Secretaría de la Función Pública.
+Las ausencias del Contralor Interno, así como la de los demás titulares de las áreas de Auditoría Interna; de Control y Evaluación y Apoyo al Buen Gobierno, y de Responsabilidades y Quejas, serán suplidas conforme a lo previsto en el Reglamento Interno de la Secretaría de la Función Pública.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO DECIMO. DEL ORGANO DE VIGILANCIA
 
-> <small>(REFORMADO, D.O.F. 9 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 33o.
 
@@ -701,19 +817,21 @@ El Organo de Vigilancia del Instituto estará integrado por un Comisario Públic
 
 El Organo de Vigilancia tendrá a su cargo las atribuciones que le confieren los artículos 60 de la Ley Federal de las Entidades Paraestatales y 29, 30 y 33 de su Reglamento y demás disposiciones aplicables.
 
-### CAPITULO DECIMO PRIMERO. DEL COMITE ASESOR CIENTIFICO-TECNICO Y OTROS DE APOYO
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
-> <small>(REFORMADO, D.O.F. 9 DE FEBRERO DE 2005)</small>
+### CAPITULO DECIMO PRIMERO. DEL COMITE ASESOR CIENTIFICO-TECNICO Y OTROS
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 34o.
 
-El Instituto contará con un Comité Asesor Científico-Técnico, que se integrará por el Director General del Instituto, quien lo presidirá, un Coordinador General, y hasta por un máximo de cuatro servidores públicos del mismo Instituto.
+El Instituto contará con un Comité Asesor Científico-Técnico, que se integrará por el Director General del Instituto, quien lo presidirá, el Coordinador de Planeación y Desarrollo, y hasta por un máximo de cuatro servidores públicos del mismo Instituto.
 
 Se invitará a formar parte del mismo al Secretario Ejecutivo de la Coordinadora Nacional de Fundaciones Produce, Asociación Civil, al Director de la Fundación Mexicana para la Investigación Agropecuaria y Forestal, Asociación Civil y a un máximo de tres personas mexicanas o extranjeras de la actividad sustantiva del Instituto;
 
 Este Comité sesionará a convocatoria expresa del Director General del Instituto.
 
-> <small>(REFORMADO, D.O.F. 9 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 35o.
 
@@ -729,35 +847,39 @@ IV. Asesorar en la integración de los programas de investigación a corto, medi
 
 V. Las demás que el Director General o la Junta de Gobierno le encomienden.
 
-> <small>(REFORMADO, D.O.F. 9 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 36o.
 
 El Instituto podrá contar además con los comités o subcomités que autorice constituir la Junta de Gobierno, quienes tendrán las atribuciones genéricas y específicas a que se refiere el artículo 56 de la Ley Federal de las Entidades Paraestatales y 21 de su Reglamento.
 
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
+
 ### CAPITULO DECIMO SEGUNDO. DE LA SUPLENCIA DE LOS SERVIDORES PUBLICOS
 
-> <small>(REFORMADO, D.O.F. 9 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 37o.
 
-El Director General será suplido en sus ausencias por el Coordinador de Investigación, Innovación y Vinculación; Coordinador de Planeación y Desarrollo, o por Coordinador de Administración y Sistemas, en el orden indicado. En los juicios de amparo en que deba intervenir en representación del Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación o como Titular del Instituto, así como en las controversias constitucionales o acciones de inconstitucionalidad, será suplido, indistintamente, por el Titular de la Unidad Jurídica o por los servidores públicos antes señalados
+El Director General será suplido en sus ausencias por el Coordinador de Investigación, Innovación y Vinculación; Coordinador de Planeación y Desarrollo, o por Coordinador de Administración y Sistemas, en el orden indicado. En los juicios de amparo en que deba intervenir en representación del Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación o como Titular del Instituto, así como en las controversias constitucionales o acciones de inconstitucionalidad, será suplido, indistintamente, por el Titular de la Unidad Jurídica o por los servidores públicos antes señalados.
 
-> <small>(REFORMADO, D.O.F. 9 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 38o.
 
 Las ausencias de los titulares de las Coordinaciones, Direcciones Generales Adjuntas o Directores de área de nivel central, serán suplidas por los servidores públicos del nivel jerárquico inmediato inferior que de ellos dependan, en los asuntos de su respectiva competencia.
 
-> <small>(REFORMADO, D.O.F. 9 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 39o.
 
 Las ausencias de los Directores foráneos serán suplidas por los servidores públicos del nivel jerárquico inmediato inferior que de ellos dependan, en los asuntos de su respectiva competencia.
 
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
+
 ### CAPITULO DECIMO TERCERO. DE LAS MODIFICACIONES AL ESTATUTO
 
-> <small>(REFORMADO, D.O.F. 9 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 40o.
 
@@ -780,3 +902,7 @@ D.O.F. 9 DE FEBRERO DE 2005.
 PRIMERO. El presente Estatuto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Los artículos 1o. al 5o., 7o. al 11o. y 13o. del Estatuto Orgánico siguen vigentes en sus términos.
+
+D.O.F. 13 DE DICIEMBRE DE 2005
+
+PRIMERO. El presente Estatuto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
