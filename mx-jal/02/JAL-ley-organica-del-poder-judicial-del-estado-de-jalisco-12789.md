@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2004-09-18"
+last_updated: "2005-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2005.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -125,11 +125,21 @@ El personal no especificado como de confianza en este precepto será considerado
 
 El año judicial, se inicia el día primero de enero y termina el día treinta y uno de diciembre del mismo año.
 
-Para la elección del Presidente del Supremo Tribunal de Justicia, el día primero de enero de cada dos años, los magistrados en funciones, presididos por el de más edad, se reunirán en el Salón de Plenos del Supremo Tribunal de Justicia. Acto seguido, por mayoría de sufragios, en votación secreta, por cédula y con escrutinio público, se elegirá al Magistrado Numerario que funja como Presidente durante dicho período, en caso de empate, el Magistrado que presida la sesión tendrá voto de calidad.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2005)</small>
 
-La elección de los magistrados integrantes de cada una de las salas, se llevará a cabo por el Tribunal Pleno presidido por el Magistrado que haya sido electo Presidente, en votación secreta por cédula y con escrutinio público.
+Para la elección del Presidente del supremo Tribunal de Justicia, el último día hábil de diciembre de cada dos años, los magistrados de número en funciones, presididos por el de más antigüedad como magistrado, o el de más edad si hubiere varios con igual antigüedad, se reunirán en el Salón de Plenos de (sic) Supremo Tribunal de Justicia.
 
-La elección de Presidente de los Tribunales Electoral y de lo Administrativo, será en la forma y términos que señala esta ley.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2005)</small>
+
+Acto seguido, por mayoría de sufragios, en votación secreta, por cédula y con escrutinio público, se elegirá al Magistrado Numerario que funja como Presidente los dos años judiciales consecutivos siguiente a partir del día primero de enero, en caso de empate, el Magistrado que presida la sesión tendrá voto de calidad.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2005)</small>
+
+El primer día hábil en que entre en funciones el Presidente electo, en sesión extraordinaria, el Pleno determinará la integración de las Salas, en votación secreta por cédula y con escrutinio público.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2005)</small>
+
+La elección de Presidente de los Tribunales Electoral y de lo Administrativo, será en la forma y términos que señala esta Ley.
 
 ###### Artículo 12.
 
@@ -911,9 +921,9 @@ V. Decretar las medidas de apremio para hacer cumplir las determinaciones de la 
 
 VI. Emitir opinión, respecto a las solicitudes de licencia que presente el personal de la Sala; y
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 1997)</small>
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
 
-VIII. Las demás atribuciones que le confiera el Pleno del Tribunal de lo Administrativo.
+VII. Las demás atribuciones que le confiera el Pleno del Tribunal de lo Administrativo.
 
 ### CAPÍTULO II. DE LOS REQUISITOS PARA SER MAGISTRADO ELECTORAL, SECRETARIO GENERAL DE ACUERDOS Y SECRETARIOS RELATORES
 
@@ -3048,3 +3058,7 @@ P.O. 18 DE SEPTIEMBRE DE 2004.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. Publíquese el presente decreto en uno de los diarios de mayor circulación en el Estado, de conformidad a lo previsto en el artículo 15 de la Ley para la Divulgación de la Legislación del Estado de Jalisco.
+
+P.O. 13 DE DICIEMBRE DE 2005.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
