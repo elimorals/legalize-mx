@@ -4,7 +4,7 @@ identifier: "COL-ley-de-aguas-para-el-estado-de-colima-antes-ley-para-18298"
 country: "mx"
 rank: "ley"
 publication_date: "1995-07-22"
-last_updated: "2005-05-07"
+last_updated: "2005-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18298&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE AGUAS PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MAYO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Suplemento del Periódico Oficial "El Estado de Colima", el sábado 22 de julio de 1995.
 
@@ -73,7 +73,9 @@ III.- La prestación del servicio de agua para usos no domésticos;
 
 IV.- La prestación del servicio de saneamiento;
 
-V.- La organización, funcionamiento y atribuciones de la Comisión Estatal del Agua y de los Organismos Operadores Municipales e Intermunicipales;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
+V.- La organización, funcionamiento y atribuciones de la Comisión Estatal del Agua y de los organismos operadores municipales e intermunicipales que prestan los servicios públicos de agua potable, alcantarillado y saneamiento;
 
 VI.- La recuperación de los gastos y costos de inversión, operación, conservación y mantenimiento del sistema de agua potable, alcantarillado y saneamiento;
 
@@ -99,9 +101,11 @@ IV.- Organismos privados como concesionarios.
 
 Los organismos señalados en las fracciones I y III del presente artículo formarán, respectivamente, parte de la administración paramunicipal y de la administración paraestatal, a efecto de prestar los servicios objeto de esta ley.
 
-> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2005)</small>
 
-ARTICULO 3o BIS.- Los servicios públicos y de saneamiento serán prestados en condiciones que aseguren su continuidad, regularidad, calidad y cobertura, de manera que se logre la satisfacción de las necesidades de los usuarios y la protección del medio ambiente.
+ARTICULO 3o BIS.- Los servicios públicos objeto de esta Ley serán prestados en condiciones que aseguren su continuidad, regularidad, calidad y cobertura, de manera que se logre la satisfacción de las necesidades de los usuarios y la protección del medio ambiente.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
 
 Corresponde al organismo operador o a los prestadores de los servicios el tratamiento de las aguas residuales, previa a su descarga a cuerpos receptores de propiedad nacional, de conformidad con lo dispuesto con la legislación aplicable.
 
@@ -121,11 +125,13 @@ III.- Gobernador, al Titular del Poder Ejecutivo del Estado;
 
 IV.- Comisión Estatal, a la Comisión Estatal del Agua de Colima;
 
-V.- Organismo operador, al organismo operador municipal o intermunicipal que preste los servicios de agua potable, alcantarillado y saneamiento en determinada circunscripción territorial;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2005)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+V.- Organismo operador, al organismo operador municipal o intermunicipal que preste los servicios públicos de agua potable, alcantarillado y saneamiento en determinada circunscripción territorial;
 
-VI.- Servicios públicos, al servicio público de agua potable y alcantarillado; y
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
+VI. - Usuario, al propietario o poseedor de un predio que cuenta con los servicios de agua potable, alcantarillado y saneamiento, prestados por un organismo operador municipal o intermunicipal o por la Comisión Estatal del Agua, en su caso;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE SEPTIEMBRE DE 1997)</small>
 
@@ -297,9 +303,11 @@ Salvo el uso doméstico que siempre tendrá preferencia en relación a los demá
 
 Con el objeto de reducir la contaminación y atender la degradación de la calidad original de las aguas dentro del sistema, las autoridades estatales y municipales, la Comisión Estatal y los organismos operadores a que se refiere esta ley, en el ámbito de su competencia promoverán el establecimiento de sistemas de potabilización y de tratamiento de aguas residuales y manejo de lodos, así como el fomento de sistemas alternos que sustituyan al alcantarillado sanitario, cuando éste no pueda construirse; y la realización de acciones necesarias para conseguir y mantener un adecuado nivel de calidad de las aguas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 12.
 
-Para los efectos del artículo anterior, las autoridades y organismos a que el mismo se refiere, en coordinación con las autoridades federales competentes y atento a lo dispuesto por la Ley General del Equilibrio Ecológico y la Protección al Ambiente y la Ley de Preservación Ambiental del Estado, podrán:
+Para los efectos del artículo anterior, las autoridades y organismos a que el mismo se refiere, en coordinación con las autoridades federales competentes y atento a lo dispuesto por la Ley General del Equilibrio Ecológico y la Protección al Ambiente y la Ley Ambiental para el Desarrollo Sustentable del Estado de Colima, podrán:
 
 > <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
 
@@ -309,7 +317,9 @@ II.- Ordenar, cuando sea necesario, a los que utilicen y contaminen los recursos
 
 III.- Determinar qué usuarios están obligados a construir y operar plantas de tratamiento de aguas residuales y manejo de lodos y fomentar la construcción de plantas que puedan dar servicio a varios usuarios;
 
-IV.- Establecer las cuotas o tarifas que deberán cubrir las personas que realizan actividades productivas susceptibles de producir contaminación del agua o producir o generar aguas residuales, por el servicio de drenaje y alcantarillado que utilizan para hacer sus descargas y para el tratamiento de aguas residuales de origen urbano, que se deba efectuar conforme a la ley antes de su descarga en ríos, cuencas, vasos, aguas marinas y demás depósitos o corrientes de agua, incluyendo las aguas del subsuelo y en general en bienes nacionales;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
+IV.- Proponer al Ayuntamiento que corresponda o al Gobernador, según el caso, las cuotas o tarifas o la actualización de las mismas, que deberán cubrir las personas que desarrollan actividades productivas susceptibles de producir contaminación del agua o producir o generar aguas residuales, por el servicio de drenaje y alcantarillado que utilizan para hacer sus descargas y para el tratamiento de aguas residuales de origen urbano, que se deba efectuar conforme a la ley antes de su descarga en ríos, cuencas, vasos, aguas marinas y demás depósitos o corrientes de agua, incluyendo las aguas del subsuelo y en general en bienes nacionales, a fin de que éstos, de considerarlas pertinentes, envíen las iniciativas que correspondan al Congreso del Estado;
 
 > <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
 
@@ -353,9 +363,9 @@ III.- La regulación, captación, conducción, acondicionamiento para uso y cons
 
 IV.- La adquisición de los bienes muebles e inmuebles que sean necesarios para la construcción, rehabilitación, conservación, mantenimiento, operación y el desarrollo de los sistemas de agua y alcantarillado, incluyendo las instalaciones conexas como son los caminos de acceso y las obras de protección, y
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2005)</small>
 
-V.- La formación, modificación y manejo tanto de los padrones de usuarios, como de las tarifas conforme a las cuales se cobrará la prestación de los servicios públicos de agua, alcantarillado y saneamiento en los distintos sistemas urbanos y rurales del Estado.
+V.- La integración y actualización del padrón de usuarios de los servicios de agua potable, alcantarillado y saneamiento.
 
 Para los efectos del presente artículo, los ayuntamientos respectivos promoverán la expropiación de los bienes de propiedad privada; asimismo, el Gobernador, por sí o como consecuencia de la promoción del ayuntamiento correspondiente, podrá expedir el acuerdo de expropiación, sujetándose a las disposiciones de la ley de la materia.
 
@@ -377,9 +387,11 @@ II.- Constituir personas morales a las que se pudiera otorgar en concesión o co
 
 #### SECCION PRIMERA. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 15.
 
-Los servicios públicos de agua potable y alcantarillado y la construcción y operación de la infraestructura hidráulica correspondiente, a cargo de los municipios, se prestarán y se realizarán por los organismos operadores respectivos, o en su defecto, por la Comisión Estatal, en los términos de la presente Ley.
+Los servicios públicos de agua potable, alcantarillado y saneamiento, así como la construcción y operación de la infraestructura hidráulica correspondiente, a cargo de los municipios, se prestarán y se realizarán por los organismos operadores respectivos, o en su defecto, por la Comisión Estatal, en los términos de la presente Ley.
 
 ###### ARTICULO 16.
 
@@ -393,9 +405,11 @@ Los organismos operadores municipales realizarán las obras públicas hidráulic
 
 Los organismos operadores municipales se podrán convertir en organismos operadores intermunicipales, en el caso previsto en el capítulo II del presente título.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 18.
 
-En el caso previsto por el artículo 82 de la Ley Orgánica del Municipio Libre, éste adecuará su estructura y operación para llevar a cabo la normatividad, asistencia, supervisión, control, evaluación e intervención que en apoyo al municipio se requiera, a fin de que la construcción, administración, operación, mantenimiento y desarrollo del sistema de agua potable y alcantarillado, incluyendo el saneamiento, se realice adecuadamente, de conformidad con las disposiciones legales aplicables; asimismo, seguirá ejerciendo los actos de autoridad a que se refiere la presente ley.
+En el caso previsto por el artículo 97 de la Ley del Municipio Libre; éste adecuará su estructura y operación para llevar a cabo la normatividad, asistencia: supervisión, control, evaluación e intervención que en apoyo al municipio se requiera, a fin de que la construcción, administración, operación, mantenimiento y desarrollo del sistema de agua potable y alcantarillado, incluyendo el saneamiento, se realice adecuadamente, de conformidad con las disposiciones legales aplicables; asimismo, seguirá ejerciendo los actos de autoridad a que se refiere la presente ley.
 
 > <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
 
@@ -415,21 +429,23 @@ Corresponderá a los organismos operadores municipales;
 
 I.- Planear y programar en el ámbito de su jurisdicción, así como estudiar, proyectar, presupuestar, construir, rehabilitar, ampliar, operar, administrar, conservar y mejorar tanto los sistemas de captación, potabilización, conducción, almacenamiento y distribución de agua potable, como los sistemas de alcantarillado, tratamiento de aguas residuales, reuso de las mismas y manejo de lodos;
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2005)</small>
 
-II.- Proporcionar los servicios públicos de agua potable y saneamiento a los centros de población y asentamientos humanos de su jurisdicción, en los términos de los convenios y contratos que para ese efecto se celebren, y de conformidad con la normatividad municipal, atendiendo a la Ley de Aguas Nacionales y su Reglamento, a la legislación de equilibrio ecológico y protección al ambiente, y a las normas oficiales mexicanas que se emitan con relación a los mismos;
+II.- Proporcionar los servicios públicos de agua potable, alcantarillado y saneamiento a los centros de población y asentamientos humanos de su jurisdicción, en los términos de los convenios y contratos que para ese efecto se celebren, y de conformidad con la normatividad municipal, atendiendo a la Ley de Aguas Nacionales y su Reglamento, a la legislación de equilibrio ecológico y protección al ambiente, y a las normas oficiales mexicanas que se emitan con relación a los mismos;
 
 III.- Formular y mantener actualizado el padrón de usuarios de los servicios a su cargo;
 
-> <small>(REFORMADA, P.O. 22 DE ENERO DE 2000)</small>
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2005)</small>
 
-IV.- Aprobar las tarifas o cuotas por los servicios de agua potable y alcantarillado, infraestructura, tratamiento, saneamiento y manejo de lodos, de conformidad con el artículo 70 de la presente Ley; así como requerir, cobrar o gestionar sus cobros en los términos de ley;
+IV.- Proponer al Ayuntamiento que corresponda o al Gobernador, según el caso, las tarifas o cuotas para el pago de los derechos por la prestación de los servicios de agua potable, alcantarillado, infraestructura, tratamiento, saneamiento y manejo de Iodos, o su actualización, a fin de que estas autoridades, de considerarlo prudente, envíen las iniciativas correspondientes al Congreso del Estado para su análisis, discusión y en su caso, aprobación; así como requerir, cobrar o gestionar sus cobros en los términos de ley;
 
-V.- Ordenar y ejecutar la reducción y suspensión del servicio en los términos y condiciones señalados por el artículo 77 de este ordenamiento;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
+V. - Exigir el pago de los derechos por la prestación de los servicios a su cargo a través del Procedimiento Administrativo de Ejecución, así como ordenar y ejecutar, en su caso, la reducción o suspensión del servicio en los términos y condiciones señalados por el artículo 77 de este ordenamiento;
 
 VI.- Aplicar las demás sanciones previstas en esta Ley;
 
-VII.- Elaborar los estudios necesarios que fundamenten y permitan la fijación de cuotas y tarifas apropiadas, para el cobro de los servicios, tomando en cuenta la opinión y sugerencias del Consejo Consultivo del propio organismo operador;
+VII.- (DEROGADA, P.O. 14 DE DICIEMBRE DE 2005)
 
 > <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
 
@@ -459,7 +475,9 @@ XVIII.- Formular y mantener actualizado el inventario de bienes y recursos que i
 
 XIX.- Promover programas para el aprovechamiento del agua potable y su uso racional;
 
-XX.- Ejercer la facultad económico-coactiva, en los términos consignados en las leyes fiscales vigentes en el Estado, para hacer efectivos los créditos que existieren a su favor con motivo de la prestación de los servicios a su cargo;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
+XX.- Ejercer las facultades de determinación y cobro previstas en el Código Fiscal Municipal, para hacer efectivo el pago de los adeudos por concepto de derechos por la prestación de los servicios a su cargo;
 
 XXI.- Resolver los recursos y demás medios de impugnación interpuestos en contra de sus actos o resoluciones;
 
@@ -497,7 +515,9 @@ I.- Los activos que formen parte inicial del patrimonio;
 
 II.- Las aportaciones federales, estatales y municipales que en su caso se realicen;
 
-III.- Los ingresos propios;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
+III.- Los ingresos que recauden de conformidad con el artículo 74 de la presente Ley;
 
 IV.- Los créditos que se obtengan para el cumplimiento de sus fines;
 
@@ -557,7 +577,9 @@ El Consejo de Administración, para el cumplimiento de los objetivos del organis
 
 I.- Establecer, en el ámbito de su competencia, los lineamientos y políticas en la materia, así como determinar las normas y criterios aplicables, conforme a los cuales deberán prestarse los servicios de agua potable, alcantarillado, tratamiento de aguas residuales y manejo de lodos, y realizar las obras que para ese efecto se requieran;
 
-II.- Autorizar las tarifas o cuotas que se aplicarán para los cobros de los servicios de agua y alcantarillado, incluyendo saneamiento, de conformidad con lo previsto por los artículo (sic) del 72 al 74 del presente ordenamiento;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
+II.- Proponer al Ayuntamiento que corresponda o al Gobernador, según el caso, las tarifas o cuotas para el pago de los derechos por la prestación de los servicios de agua potable, alcantarillado, infraestructura, tratamiento, saneamiento y manejo de Iodos, o su actualización, a fin de que estas autoridades, de considerarlo prudente, envíen las iniciativas correspondientes al Congreso del Estado para su análisis, discusión y aprobación en su caso;
 
 > <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
 
@@ -621,27 +643,27 @@ Los miembros del Consejo Consultivo designarán de entre ellos a un Presidente, 
 
 Los miembros del Consejo Consultivo durarán en su encargo tres años, pudiendo ser removidos en todo momento por causa justificada por las instituciones, organismos y agrupaciones que los hayan designado, informando de la causa al Consejo.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 28.
 
 El Consejo Consultivo tendrá por objeto hacer partícipe a los usuarios en la vigilancia de la operación del organismo y podrá:
 
-a).- Hacer las observaciones y recomendaciones para su funcionamiento
+I.- Hacer las observaciones y recomendaciones para su funcionamiento eficiente, eficaz y económico;
 
-eficiente, eficaz y económico;
+II.- Opinar sobre las tarifas y cuotas de derechos por la prestación de los servicios de agua potable, alcantarillado y saneamiento;
 
-b).- Conocer las tarifas o cuotas y sus modificaciones haciendo las propuestas, observaciones y sugerencias del caso;
+III.- Conocer y opinar sobre los resultados operativos y financieros del organismo;
 
-c).- Opinar sobre los resultados operativos y financieros del organismo;
+IV.- Proponer mecanismos financieros o crediticios;
 
-d).- Proponer mecanismos financieros o crediticios;
+V.- Coadyuvar para mejorar la situación financiera del organismo;
 
-e).- Coadyuvar para mejorar la situación financiera del organismo;
+VI.- Sugerir políticas de dirección y organización al Consejo de Administración;
 
-f).- Sugerir políticas de dirección y organización al Consejo de Administración;
+VII.- Conocer y opinar sobre las hipótesis previstas por el artículo 97 de la Ley del Municipio Libre; y
 
-g).- Conocer y opinar sobre en las hipótesis previstas por el artículo 82 de la Ley Orgánica del Municipio Libre; y
-
-h).- Las demás que señale el reglamento.
+VIII.- Las demás que señale el reglamento.
 
 ###### ARTICULO 29.
 
@@ -653,7 +675,9 @@ II.- Coordinar las actividades técnicas, administrativas y financieras del orga
 
 III.- Celebrar los actos jurídicos, de dominio y administración que sean necesarios para el funcionamiento del organismo; pero invariablemente, para enajenar bienes, deberá contar previamente con la autorización del Consejo de Administración;
 
-IV.- Someter a la aprobación del Consejo de Administración las propuestas de tarifas y cuotas que deba cobrar el organismo con motivo de la prestación de los servicios y recuperación de costos e inversiones, en los casos en que preste directamente el servicio;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
+IV.- Suscribir y enviar la propuesta a que se refiere la fracción II del artículo 24 del presente ordenamiento;
 
 V.- Gestionar y obtener, en los términos de la ley respectiva, y previa autorización del Consejo de Administración, el financiamiento para obras, servicios y amortización de pasivos, así como suscribir créditos o títulos de crédito, contratos u obligaciones ante instituciones públicas y privadas;
 
@@ -809,7 +833,9 @@ VII.- Promover el tratamiento de aguas residuales y el reuso de las mismas, el m
 
 VIII.- Asesorar, auxiliar y dar asistencia técnica en los aspectos administrativos, operativos constructivos y financieros a los organismos operadores, así como prestarles los servicios de apoyo que le soliciten;
 
-IX.- Promover adecuaciones a las cuotas y tarifas de los organismos operadores, atendiendo a la necesidad de autosuficiencia financiera y mejorar su capacidad técnica y administrativa, así como la eficiencia del Sistema;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
+IX.- Promover ante los organismo (sic) operadores, la revisión de las cuotas y tarifas para los efectos previstos en la fracción IV del artículo 12 de la presente Ley;
 
 X.- Apoyar a los organismos operadores en las gestiones de financiamiento y en la planeación de obras para los sistemas de captación, potabilización, conducción, almacenamiento y distribución de agua potable y de alcantarillado, así como de tratamiento de aguas residuales y manejo de lodos;
 
@@ -831,13 +857,17 @@ XVIII.- Promover la capacitación y adiestramiento del personal de los organismo
 
 XIX.- Tramitar y resolver los recursos o medios de impugnación que le competan, de acuerdo a lo establecido en la presente Ley;
 
-XX.- Expedir su reglamento interior;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
+XX.- Expedir su reglamento interior y los demás inherentes al objeto de esta Ley;
 
 XXI.- Conocer de los asuntos que en forma general o específica interesen al buen funcionamiento de los sistemas de agua y alcantarillado;
 
 XXII.- Actuar con las atribuciones y competencia que la presente Ley otorga a los organismos operadores, cuando preste directamente y en forma transitoria los servicios públicos de agua potable, alcantarillado y saneamiento en alguno de los municipios de la entidad, debiendo entre otras actividades:
 
-a).- Percibir y administrar los ingresos por los servicios que opere directamente, conforme a las tarifas o cuotas que autorice;
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
+a) Percibir y administrar los ingresos por los servicios que opere directamente, conforme a las tarifas y cuotas aprobadas;
 
 b).- Elaborar y mantener actualizado el padrón de usuarios respectivo; y
 
@@ -883,7 +913,9 @@ XLI.- Emitir opinión sobre la procedencia de la revocación de concesiones o re
 
 XLII.- Las demás atribuciones que les confieran esta Ley u otros ordenamientos jurídicos. Así como las que en materia de agua le sean transferidas por la Federación al Gobierno del Estado en los términos de Ley y de los convenios que al efecto se celebren.
 
-En los casos en que la Comisión Estatal esté prestando los servicios a que se refiere la presente Ley, las facultades señaladas en las fracciones XXXVIII a XLI, serán ejercidas por la Secretaría de la Contraloría, la que conocerá y resolverá al respecto.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
+En los casos en que la Comisión Estatal esté prestando los servicios a que se refiere la presente Ley, las facultades señaladas en las fracciones XXXVIII a XLI, serán ejercidas por la Contraloría General del Estado, la que conocerá y resolverá al respecto.
 
 ###### ARTICULO 41.
 
@@ -957,7 +989,9 @@ El Consejo de Administración de la Comisión Estatal tendrá además las atribu
 
 El Consejo de Administración, a través de su Presidente, nombrará y removerá al Director General.
 
-El Comisario será designado por la Secretaría de la Contraloría del Gobierno del Estado y tendrá, en lo conducente, las atribuciones que se establecen en el artículo 30 de esta Ley.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
+El Comisario será designado por la Contraloría General del Estado y tendrá, en lo conducente, las atribuciones que se establecen en el artículo 30 de esta Ley.
 
 > <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
 
@@ -989,11 +1023,9 @@ V.- Por incurrir los organismos operadores en reiteradas violaciones a las norma
 
 VI.- Al detectarse irregularidades en el manejo de los recursos de los organismos operadores, previa resolución que al efecto se dicte por la autoridad facultada para realizar la revisión correspondiente.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
 
-ARTICULO 46 BIS 1.- La intervención podrá durar el tiempo que sea necesario para solucionar el problema que la originó y sus alcances se determinarán en el Acuerdo correspondiente, pudiendo consistir en la limitación, suspensión o prohibición de actividades, control de activos y pasivos o, en lo general, asumir la administración y control del organismo.
-
-Cuando la intervención asuma la administración y control del organismo, las cuotas y tarifas por los servicios que proporcione de agua, alcantarillado y saneamiento serán aprobados por la Comisión de Agua Potable y Alcantarillado del Estado de Colima.
+ARTICULO 46 BIS 1.- La intervención podrá durar el tiempo que sea necesario para solucionar el problema que la originó y sus alcances se determinarán en el acuerdo correspondiente, pudiendo consistir en la limitación, suspensión o prohibición de actividades, control de activos y pasivos o, en lo general, asumir la administración y control del organismo.
 
 ## TITULO TERCERO. PARTICIPACION DEL SECTOR PRIVADO Y SOCIAL EN EL SERVICIO PUBLICO DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL ESTADO
 
@@ -1013,7 +1045,9 @@ La participación de los sectores privados y social en el servicio público de a
 
 Están obligados a contratar los servicios de agua potable y alcantarillado y el de tratamiento de aguas residuales, en los lugares en que existan dichos servicios:
 
-I.- Los propietarios o poseedores por cualquier título, de predios edificados;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
+I.- Los propietarios o poseedores por cualquier título, de predios edificados o en proceso de edificación;
 
 II.- Los propietarios o poseedores por cualquier título de predios no edificados cuando frente a los mismos existan instalaciones adecuadas para que los servicios sean utilizados; y
 
@@ -1167,9 +1201,11 @@ Cuando la escasez de agua sea originada por negligencia o falta de previsión de
 
 ### CAPITULO III. CUOTAS Y TARIFAS
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 71.
 
-El Consejo de Administración de los organismos operadores o, en su defecto el de la Comisión Estatal, aprobarán las cuotas y tarifas de cada uno de los sistemas de agua potable y alcantarillado a su cargo.
+Los usuarios de los servicios de agua potable, alcantarillado y saneamiento en los municipios del Estado de Colima, están obligados a pagar a los organismos operadores o a la Comisión Estatal cuando sea ésta quien preste los servicios, los derechos conforme a las cuotas o tarifas establecidos en la Ley que para el efecto expida el Congreso del Estado.
 
 ###### ARTICULO 72.
 
@@ -1181,15 +1217,19 @@ La recuperación del valor actualizado de las inversiones de infraestructura hid
 
 Se exceptúa de lo dispuesto en el párrafo anterior, cuando la recuperación de la inversión se esté efectuando a través de leyes de contribuciones de mejoras por obras públicas hidráulicas en el Estado o municipio, o una legislación fiscal similar.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 73.
 
-Se deberán revisar y ajustar las cuotas o tarifas a fin de actualizarlas; para cualquier modificación de éstas se deberá elaborar un estudio que justifique las nuevas cuotas y tarifas y se tomarán en cuenta las observaciones y sugerencias que realicen los usuarios a través de los Consejos Consultivos de los organismos descentralizados a que se refiere la presente Ley. Una vez aprobadas, se publicarán en el Periódico Oficial y en un periódico de los de mayor circulación de la localidad.
+Los organismos operadores, con el apoyo de la Comisión Estatal, realizarán periódicamente estudios tendientes a determinar la necesidad de actualizar las tarifas y cuotas para el pago de los derechos por los servicios de agua potable, alcantarillado y saneamiento y en su caso formularán la solicitud debidamente justificada al Ayuntamiento respectivo, para que éste, de considerarlo pertinente, elabore y envíe la iniciativa al Congreso del Estado.
 
-Los organismos operadores, cuando lo consideren conveniente, podrán solicitar a la Comisión Estatal la elaboración de los estudios técnicos y financieros de apoyo para las adecuaciones de cuotas o tarifas. Igualmente, dicha Comisión podrá enviar a los organismos operadores los estudios que haya elaborado, que justifiquen o apoyen las adecuaciones de las cuotas o tarifas respectivas dentro del Sistema.
+En el caso de que los servicios de agua potable, alcantarillado y saneamiento se presten por parte de la Comisión Estatal o por un organismo operado por el Gobierno del Estado, la solicitud a que se refiere el párrafo anterior será turnada al Gobernador y será éste quien envíe la iniciativa correspondiente al Congreso del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 74.
 
-Los pagos que deberán cubrir los usuarios por la prestación de los servicios, se clasifican en:
+Los derechos que están obligados a pagar los usuarios por la prestación de los servicios de agua potable, alcantarillado y saneamiento, se clasifican en:
 
 I.- Cuotas:
 
@@ -1205,7 +1245,9 @@ e).- Por conexión al drenaje o alcantarillado y tratamiento de aguas residuales
 
 f).- Por conexión al drenaje o alcantarillado y tratamiento de aguas residuales provenientes de actividades productivas, cuando la descarga se realice por arriba de las concentraciones permisibles conforme a las normas técnicas ecológicas y las condiciones particulares de descargas vigentes, en los términos de la legislación de equilibrio ecológico y protección del ambiente;
 
-g).- Por instalación de medidores; y
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
+g) Por la instalación y derecho de uso de medidores; y
 
 h).- Por otros servicios.
 
@@ -1227,9 +1269,9 @@ g).- Por servicios de drenaje o alcantarillado y tratamiento de aguas residuales
 
 h).- Por servicio de drenaje o alcantarillado y tratamiento de aguas residuales provenientes de actividades productivas, cuando la descarga se realice por abajo de las concentraciones permisibles conforme a las normas técnicas ecológicas y condiciones particulares de descarga vigentes, en los términos de la legislación de equilibrio ecológico y protección del ambiente;
 
-> <small>(REFORMADO, P.O. 22 DE ENERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
 
-i).- Por servicios;
+i).- Por servicio de uso mixto;
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ENERO DE 2000)</small>
 
@@ -1237,37 +1279,43 @@ j).- Por mantenimiento de redes; y
 
 k).- Por otros servicios.
 
-Además de las clasificaciones anteriores, las tarifas serán aplicadas por rango de consumo y de acuerdo con lo que señale el reglamento respectivo.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
+Se entiende por servicios de uso mixto, la combinación de dos ó más usos de los señalados en los incisos b), c), d) y e) de esta fracción en un mismo predio.
 
 El pago de las cuotas y tarifas a que se refiere el presente artículo, es independiente del cumplimiento a lo dispuesto en la Ley de Preservación Ambiental y de la legislación respectiva.
 
 ###### ARTICULO 75.
 
-Queda prohibido a los organismos descentralizados a que se refiere la presente Ley, la fijación de cuotas o tarifas por el uso o aprovechamiento de aguas nacionales, superficiales o del subsuelo.
+(DEROGADO, P.O. 14 DE DICIEMBRE DE 2005)
 
 ###### ARTICULO 76.
 
-Las cuotas o tarifas que cobren los organismos operadores, serán independientes de los pagos que se establezcan en la legislación fiscal.
+(DEROGADO, P.O. 14 DE DICIEMBRE DE 2005)
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 77.
 
-El uso distinto al contratado y la falta oportuna de pago faculta al organismo operador o al concesionario, en su caso, para reducir o suspender el servicio hasta que se regularice el usuario de acuerdo con las siguientes bases:
+El uso distinto al contratado o la falta oportuna de pago faculta al organismo operador o al concesionario, en su caso, para reducir o suspender el servicio hasta que se regularice el usuario de acuerdo con las siguientes bases:
 
-I.- Tratándose del servicio domestico, la reducción podrá ejecutarse cuando el usuario haya incurrido en tres bimestres de adeudo. En este caso, se le notificará oportunamente del adeudo acumulado, otorgándosele quince días naturales para que alegue lo que a su derecho convenga. De no presentarse en dicho plazo o no llegar a un convenio de arreglo, operará la reducción.
+I.- Tratándose del servicio doméstico, la reducción podrá ejecutarse cuando el usuario haya dejado de pagar cinco bimestres los derechos por la prestación de los servicios. En este caso, se le notificará oportunamente del adeudo acumulado, otorgándole diez días naturales para que alegue lo que a su derecho convenga.
 
 La reducción del servicio deberá hacerse en el volumen necesario para que el usuario pueda utilizar el agua únicamente para efectos sanitarios.
 
-II.- En los usos distintos al contratado y los diferentes al doméstico, podrá suspenderse el servicio al primer bimestre de adeudo, cumpliendo previamente el mecanismo de defensa al usuario previsto en la fracción anterior.
+II.- En los usos distintos al doméstico, podrá suspenderse el servicio al segundo bimestre de adeudo, cumpliendo previamente el mecanismo de defensa del usuario previsto en la fracción anterior.
 
-En todo caso, una vez cubierto el adeudo y regularizada la situación que dio motivo a la reducción o suspensión del servicio, el organismo operador inmediatamente procederá a reanudarlo.
+En todo caso, una vez cubierto el adeudo o regularizada la situación que dio motivo a la reducción o suspensión del servicio, el organismo operador inmediatamente procederá a reanudarlo.
 
-Lo anterior, independientemente de las infracciones y aplicación de sanciones previstas por esta Ley, además de poner en conocimiento de tal situación a las autoridades sanitarias.
+Lo anterior, independientemente de la aplicación de las sanciones previstas por esta Ley, además de poner en conocimiento de tal situación a las autoridades sanitarias.
 
-El organismo operador, mediante el estudio socieconómico correspondiente, otorgará facilidades para el pago de adeudos a personas de probada insuficiencia económica, a pensionados o jubilados que vivan exclusivamente de la pensión que reciban, así como a discapacitados que demuestren una situación económica precaria. Para tal efecto, integrará un departamento de servicio social para dar cumplimiento a esta disposición.
+El organismo operador, mediante el estudio socioeconómico correspondiente, otorgará facilidades para el pago de adeudos a personas de probada insuficiencia económica, a pensionados o jubilados que vivan exclusivamente de la pensión que reciban, así como a discapacitados que demuestren una situación económica precaria.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 78.
 
-Los adeudos a cargo de los usuarios y a favor de los organismos operadores o de la Comisión Estatal, exclusivamente para efectos de cobro, conforme a esta Ley, tendrán el carácter de créditos fiscales, para cuya recuperación el organismo operador podrá ejercer el procedimiento administrativo de ejecución.
+Los adeudos a cargo de los usuarios y a favor de los organismos operadores o de la Comisión Estatal, exclusivamente para efectos de cobro, conforme a esta Ley, tendrán el carácter de créditos fiscales, para cuya recuperación el organismo operador deberá ejercer oportunamente el procedimiento administrativo de ejecución.
 
 ###### ARTICULO 79.
 
@@ -1381,9 +1429,11 @@ Con el dictamen emitido por el organismo operador o, en su defecto, por la Comis
 
 Si la descarga de albañal domiciliaria se destruye por causas imputables al usuario, propietario o poseedor de los predios, éstos deberán cubrir la obra necesaria para suplirla, de acuerdo a los costos vigentes en el momento de la sustitución.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 96.
 
-Cuando no se pueda determinar el volumen de agua, como consecuencia de la descompostura del medidor por causas no imputables al usuario, la tarifa de agua se pagará conforme al artículo 66 de esta Ley.
+Cuando no se pueda determinar el volumen de agua como consecuencia de la descompostura del medidor por causas no imputables al usuario, se determinará la cantidad a pagar en función del promedio de consumo de los tres bimestres anteriores.
 
 ###### ARTICULO 97.
 
@@ -1391,7 +1441,9 @@ Procederá la determinación presuntiva del volumen de consumo de agua, en los s
 
 I.- Cuando no se tenga instalado aparato de medición;
 
-II.- Cuando no funcione el medidor;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
+II.- Cuando no funcione el medidor, salvo lo dispuesto en el artículo anterior;
 
 III.- Cuando estén rotos los sellos del medidor o se hayan alterado sus funciones;
 
@@ -1421,9 +1473,17 @@ V.- Los medios indirectos de investigación económica o de cualquier otra clase
 
 El organismo operador o, en su defecto, la Comisión Estatal, determinarán y exigirán el pago con base en la determinación estimativa del volumen.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 99.
 
-Quedan facultados los organismos operadores o, en su defecto, la Comisión Estatal, a realizar las acciones necesarias para impedir, obstruir o cerrar la posibilidad de descargar aguas residuales a las redes de drenaje y alcantarillado, a aquellos usuarios que incumplan con el pago respectivo conforme a lo dispuesto en la presente Ley; o bien, en colaboración con las autoridades ecológicas competentes, cuando las descargas no cumplan con lo dispuesto en la legislación de equilibrio ecológico y protección al ambiente.
+Quedan facultados los organismos operadores o, en su defecto, la Comisión Estatal, para obstruir o cerrar la posibilidad de descargar aguas residuales a las redes de drenaje y alcantarillado mediante el cierre o clausura del registro que impida la descarga a la red de drenaje correspondiente, a aquellos usuarios que incumplan con el pago de los derechos por la prestación de los servicios públicos de agua potable, alcantarillado y saneamiento, causados durante seis bimestres.
+
+La obstrucción señalada en el párrafo anterior será determinada mediante resolución debidamente fundada y motivada, la cual será expedida por el titular del organismo operador o, en su defecto, de la Comisión Estatal y notificada al usuario incumplido, otorgándosele un plazo de diez días naturales para comprobar el pago, en su caso, o alegar lo que a su derecho convenga.
+
+Del mismo modo, la obstrucción señalada en el primer párrafo de este artículo podrá darse en colaboración con las autoridades ecológicas competentes, cuando las descargas no cumplan con lo dispuesto en la legislación de equilibrio ecológico y protección al ambiente, así como cuando exista un riesgo inminente de daño a la población o al medio ambiente por el tipo de descargas que se estén vertiendo.
+
+En este último supuesto se estará a lo dispuesto por la Ley de la materia.
 
 ## TITULO QUINTO. INFRACCIONES, SANCIONES Y RECURSOS ADMINISTRATIVOS
 
@@ -1433,13 +1493,17 @@ Quedan facultados los organismos operadores o, en su defecto, la Comisión Estat
 
 Para los efectos de esta Ley cometen infracción:
 
-I.- Las personas que no cumplan con la obligación de solicitar oportunamente el servicio de agua potable y la instalación de descargas correspondientes dentro de los plazos establecidos en esta Ley;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
+I.- Las personas a que se refieren las fracciones I y III del artículo 48 de esta Ley, cuando no cumplan con la obligación de solicitar oportunamente el servicio de agua potable y la instalación de descargas correspondientes dentro de los plazos establecidos en esta Ley;
 
 II.- Las personas que instalen en forma clandestina conexiones en cualquiera de las instalaciones del sistema, sin estar contratadas y sin apegarse a los requisitos que establece la presente Ley;
 
 III.- Los usuarios que en cualquier caso proporcionen servicios de agua en forma distinta a la que señale esta Ley, a personas que estén obligadas a surtirse directamente del servicio público;
 
-IV.- Los propietarios o poseedores de predios que impidan el examen de los aparatos medidores o la práctica de las visitas de inspección;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
+IV.- Los propietarios o poseedores de predios que impidan u obstaculicen la instalación o el examen de los aparatos medidores o la práctica de las visitas de inspección;
 
 V.- Los usuarios que en cualquier caso y sin autorización de los organismos operadores, ejecuten por sí o por interpósita persona derivaciones de agua y conexiones al sistema de alcantarillado;
 
@@ -1453,7 +1517,9 @@ IX.- El que deteriore cualquier instalación propiedad de los organismos operado
 
 X.- El que utilice el servicio de los hidrantes públicos para usos distintos a los de su objeto;
 
-XI.- Los propietarios o poseedores de los predios dentro de los cuales se localice alguna fuga que no haya sido atendida oportunamente;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
+XI.- Los propietarios o poseedores de los predios dentro de los cuales se localice una fuga;
 
 XII.- Los que desperdicien el agua;
 
@@ -1463,19 +1529,33 @@ XIV.- El que emplee mecanismos para succionar agua de las tuberías de distribuc
 
 XV.- El que descargue aguas residuales en las redes de drenaje y alcantarillado, sin contar con el permiso de descarga correspondiente;
 
-XVI.- El que descargue aguas residuales en las redes de drenaje y alcantarillado, sin haber cubierto las cuotas o tarifas respectivas; y
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
+XVI.- Los usuarios que omitan el pago de los derechos por la prestación de los servicios públicos de agua potable, alcantarillado y saneamiento, o lo hagan en forma extemporánea, salvo que el pago se realice espontáneamente;
 
 XVII.- El que en cualquier forma transgreda o incumpla lo dispuesto en esta Ley y su reglamento.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 101.
 
-Las infracciones a que se refiere el artículo anterior serán sancionadas administrativamente a juicio del director del organismo operador respectivo, con multas equivalentes, en el caso de usuarios domésticos, de uno a cien días de salario mínimo, y de usuarios comerciales e industriales de diez a quinientos días de salario mínimo general vigente en el área geográfica en que se cometa.
+A quienes cometan las infracciones a que se refiere el artículo anterior se les impondrán las siguientes sanciones expresadas en días de salarios mínimo general de la zona económica a que corresponde el Estado de Colima:
 
-Para sancionar las faltas anteriores, se calificarán las infracciones tomando en consideración la gravedad de la falta, las condiciones económicas del infractor, y la reincidencia.
+I.- Para las señaladas en las fracciones II, III, V, VII, VIII y X, de veinte a trescientos días de salario mínimo;
+
+II.- Para las señaladas en las fracciones VI y IX, de cincuenta a doscientos días de salario mínimo;
+
+III.- Para las señaladas en las fracciones I, IV, XIII, XIV, XV y XVII, de veinte a cien días de salario mínimo;
+
+IV.- Para las señaladas en las fracciones XI y XII, de cinco a cien días de salario mínimo; y
+
+V.- Para la señalada en la fracción XVI, del cinco al veinte por ciento del monto de los derechos no pagados o pagados en forma extemporánea.
+
+Al imponer las sanciones a que se refiera este artículo se tomarán en consideración la gravedad de la infracción, la reincidencia, el uso especifico del servicio de agua y las condiciones económicas del infractor.
 
 Se entiende por reincidencia, para los efectos de esta Ley, cada una de las subsecuentes infracciones a un mismo precepto, cometidas dentro de un año siguiente a la fecha del acta en que se hizo constar la infracción precedente siempre que ésta no hubiere sido desvirtuada.
 
-Cuando los hechos que contravengan las disposiciones de esta Ley y sus reglamentos constituyeren un delito, se formulará denuncia ante las autoridades competentes, sin perjuicio de aplicar las sanciones administrativas que procedan.
+Cuando los hechos que contravengan las disposiciones de esta ley constituyan un delito, se formulará denuncia ante las autoridades competentes, sin perjuicio de aplicar las sanciones administrativas que procedan.
 
 ###### ARTICULO 102.
 
@@ -1487,13 +1567,13 @@ Si una vez vencido el plazo concedido por los organismos operadores para subsana
 
 En caso de reincidencia el importe de la multa podrá ser hasta por dos veces del monto originalmente impuesto, sin exceder del doble del máximo permitido. En caso de segunda reincidencia se aplicará tres veces del monto originalmente impuesto, y así sucesivamente.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 104.
 
-En los casos de las fracciones II, III, V y XIV del artículo 100, así como en los casos de reincidencia en cualquiera de las infracciones del artículo citado, el organismo operador podrá imponer adicionalmente la sanción de clausura temporal o definitiva de la toma.
+En los casos de las fracciones II, V y XIV del artículo 100, el organismo operador procederá además a la clausura de la toma.
 
-En caso de clausura, el personal designado por el organismo operador para hacer constar dicha circunstancia, procederá a levantar acta circunstanciada de la diligencia, procediéndose de conformidad con lo previsto con el artículo 85 de esta Ley.
-
-Tratándose de giros mercantiles, industriales o de servicios, se podrá solicitar a la autoridad competente su clausura, por no efectuar la conexión al abastecimiento del servicio público de agua potable y alcantarillado.
+En caso de clausura, el personal designado por el organismo operador para hacer constar dicha circunstancia, levantará acta circunstanciada de la diligencia, procediéndose de conformidad con lo previsto con el artículo 85 de esta Ley.
 
 ###### ARTICULO 105.
 
@@ -1586,3 +1666,9 @@ UNICO.- El presente decreto entrará en vigor a partir del día siguiente al de 
 P.O. 7 DE MAYO DE 2005.
 
 Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 14 DE DICIEMBRE DE 2005.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
