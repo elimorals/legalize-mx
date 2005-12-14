@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-del-estado-8294"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-29"
-last_updated: "2003-12-16"
+last_updated: "2005-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE HACIENDA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 1976.
 
@@ -109,7 +109,7 @@ e).- Los núcleos de población, que de hecho o por derecho, posean predios.
 
 f).- El acreedor hipotecario.
 
-g).- Los propietarios de predios que hubiesen prometido en venta o hubieran vendido con reserva de dominio, mientras estos contratos esten en vigor y no se traslade el dominio del predio.
+g).- Los propietarios de predios que hubiesen prometido en venta o hubieran vendido con reserva de dominio, mientras estos contratos estén en vigor y no se traslade el dominio del predio.
 
 III.- Por responsabilidad objetiva:
 
@@ -143,7 +143,7 @@ II.- Cuando en el predio, directa o indirectamente, opere un cambio físico o de
 
 III.- Cuando parte o la totalidad del predio sea objeto de traslado de dominio y el avalúo bancario ó el valor de operación sea superior al valor catastral, en este caso quedará el valor más alto que resulte de los tres.
 
-IV.- Cuando se obtengan elementos de catastración técnica sobre el predio y el avaluó existente haya sido fijado unicamente con la información del manifiesto para propiedades urbanas, suburbanas y rústicas.
+IV.- Cuando se obtengan elementos de catastración técnica sobre el predio y el avaluó existente haya sido fijado únicamente con la información del manifiesto para propiedades urbanas, suburbanas y rústicas.
 
 V.- Cuando los predios se fusionen o se subdividan, o sean motivo de fraccionamiento.
 
@@ -647,7 +647,7 @@ I.- La Comisión Local Agraria del Estado, en su carácter de auxiliar, proporci
 
 II.- Las Autoridades de Tránsito del Estado auxiliarán a la Tesorería General proporcionándoles copia de los permisos que otorguen para los traslados de casas semifijas indicando la ubicación de éstas, antes y después del traslado.
 
-III.- Las Direcciones de Obras Públicas Municipales prestarán auxilio a las Autoridades Catastrales proprocionándoles copias de los planos de las construcciones que se inicien, así como la fecha de su terminación.
+III.- Las Direcciones de Obras Públicas Municipales prestarán auxilio a las Autoridades Catastrales proprocionándoles (sic) copias de los planos de las construcciones que se inicien, así como la fecha de su terminación.
 
 IV.- Las Autoridades Fiscales del Estado prestarán la cooperación que se les solicite proporcionando los datos necesarios, haciendo efectivas las sanciones impuestas a los infractores.
 
@@ -771,13 +771,13 @@ A la solicitud de registro o manifestación, deberá anexarse los siguientes doc
 
 I.- Copia del título o documentos que amparen la propiedad o posesión del predio.
 
-II.- Un cróquis con las siguientes características:
+II.- Un croquis con las siguientes características:
 
-a).- Si es urbano, las dimensiones del predio, su localización dentro de la manzana y la distancia a las esquinas de la misma, de los linderos del predio confrente a la calle.
+a).- Si es urbano, las dimensiones del predio, su localización dentro de la manzana y la distancia a las esquinas de la misma, de los linderos del predio con frente a la calle.
 
 b) Si es suburbano, las dimensiones del predio, y su localización con respecto a predios colindantes y la distancia a la vía de comunicación principal.
 
-c).- Si es rústico, el cróquis deberá contener como mínimo las dimensiones del predio, su localización con respeto a los colindantes, expresando orientación, medidas de los linderos y nombres de los propietarios o poseedores colindantes; y localización general del predio en relación a centros poblados, vías de comunicación corrientes permanentes y cualquier dato significativo que pudiera servir para la identificación del predio anotando las distancias respectivas.
+c).- Si es rústico, el croquis deberá contener como mínimo las dimensiones del predio, su localización con respeto a los colindantes, expresando orientación, medidas de los linderos y nombres de los propietarios o poseedores colindantes; y localización general del predio en relación a centros poblados, vías de comunicación corrientes permanentes y cualquier dato significativo que pudiera servir para la identificación del predio anotando las distancias respectivas.
 
 N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
@@ -1005,7 +1005,7 @@ N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE
 
 ###### ARTICULO 94o.
 
-La Junta Central de Catastro al resolver el recurso de revisión previsto, valorará los argumentos expuestos y las pruebas rendidas y conforme a su resultado dictará resolución que confirme, revoque o modifique el acto impugando. La resolución se emitirá dentro de los tres días siguientes contados a partir de la fecha en que se reciba el recurso. Si el acto impugnado por su propia naturaleza requiere el desahogo de la prueba de inspección ocular, el término para dictar resolución será de quince días. Si al promoverse el recurso resulta notorio que se interpuso con el sólo propósito de dilatar el pago, sin que el interesado aporte ninguna prueba en que funde su demanda o que el contenido de la misma sea temerario, la Junta Central desechará el recurso en forma definitiva.
+La Junta Central de Catastro al resolver el recurso de revisión previsto, valorará los argumentos expuestos y las pruebas rendidas y conforme a su resultado dictará resolución que confirme, revoque o modifique el acto impugnado. La resolución se emitirá dentro de los tres días siguientes contados a partir de la fecha en que se reciba el recurso. Si el acto impugnado por su propia naturaleza requiere el desahogo de la prueba de inspección ocular, el término para dictar resolución será de quince días. Si al promoverse el recurso resulta notorio que se interpuso con el sólo propósito de dilatar el pago, sin que el interesado aporte ninguna prueba en que funde su demanda o que el contenido de la misma sea temerario, la Junta Central desechará el recurso en forma definitiva.
 
 N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE FEBRERO DE 1984.
 
@@ -1183,7 +1183,7 @@ N. DE E., ESTE IMPUESTO SE ENCUENTRA CONTENIDO EN EL CODIGO MUNICIPAL, P.O. 4 DE
 
 ###### ARTICULO 105.
 
-Son sujetos de este impuesto los propietarios, copropietarios, condómines, poseedores, ocupantes, detentadores, fideicomitentes y los que por cualquier título o causa se beneficien con la obra respectiva.
+Son sujetos de este impuesto los propietarios, copropietarios, condómines (sic), poseedores, ocupantes, detentadores, fideicomitentes y los que por cualquier título o causa se beneficien con la obra respectiva.
 
 ###### ARTICULO 106o.
 
@@ -1279,7 +1279,7 @@ El pago del impuesto deberá ser efectuado a más tardar el día siguiente hábi
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1999)</small>
 
-En los casos en que los actos gravados se deriven de convenios o contratos, el impuesto se pagará a mas tardar el día siguiente hábil de su fecha, independientemente del momento en que surta sus efectos.
+En los casos en que los actos gravados se deriven de convenios o contratos, el impuesto se pagará a más tardar el día siguiente hábil de su fecha, independientemente del momento en que surta sus efectos.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
@@ -1493,7 +1493,7 @@ Al solicitar el causante la suspensión, deberá:
 
 I.- Comprobar, por medio de la copia de la demanda sellada por el Juzgado respectivo, haber promovido el juicio correspondiente;
 
-II.- Acreditar estar al corriente en el pago del Impuesto, hasta el bimestre en que se presenten las solicitudes de suspención y
+II.- Acreditar estar al corriente en el pago del Impuesto, hasta el bimestre en que se presenten las solicitudes de suspensión y
 
 III.- Garantizar el interés fiscal, cuyo monto fijará la Tesorería General entre tanto se obtiene el pago de los ingresos sobre los que se causa el impuesto y se cubra éste, o se cancele la cuenta respectiva, por acuerdo de las autoridades fiscales, y a petición del causante, por la imposibilidad debidamente comprobada de hacer efectivo el cobro.
 
@@ -1769,13 +1769,13 @@ I.- Tratándose de organizadores habituales:
 
 a).- Solicitar su inscripción en el Registro de Contribuyentes de la Secretaría de Hacienda del Estado, utilizando para el efecto las formas aprobadas; las personas morales estarán obligadas a entregar una copia del acta o documento constitutivo. La Secretaría de Hacienda del Estado podrá de oficio inscribir a los contribuyentes cuando tenga a su disposición informes o documentos que demuestren que realizan actividades gravadas con este impuesto.
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 b).- Retener el impuesto que corresponda a los premios pagados o entregados y enterarlo, en las oficina autorizadas mediante las formas aprobadas dentro de los primeros 15 días del mes inmediato posterior al de su causación.
 
 c).- Proporcionar al interesado, constancia de retención del impuesto cuando así lo solicite la persona que obtenga el premio.
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 d).- Presentar declaraciones mensualmente en las oficinas autorizadas mediante las formas aprobadas, en las que se incluirán el impuesto retenido y en su caso, el que corresponda por su propia actividad.
 
@@ -1789,7 +1789,7 @@ h) si los premios ofrecidos consisten en bienes distintos de dinero, señalarán
 
 II.- Tratándose de organizadores eventuales tendrán las obligaciones señaladas en los incisos c), f), g) y h) de la fracción anterior, además de las siguientes:
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 a).- Retener el impuesto que corresponda a los premios y enterarlo a las oficinas autorizadas mediante las formas aprobadas, el día siguiente hábil al de su causación.
 
@@ -1909,7 +1909,7 @@ Las personas que trasladen ganado, deberán cumplir con las disposiciones de ins
 
 ###### ARTICULO 158o.
 
-las personas o empresas que se dediquen a la explotación de ganado lechero, aves para postura o reproducción y colmenas, deberán empadronarse en la Oficina Fiscal del Estado de cada uno de sus centros de explotación, dentro de los quince días siguientes a la iniciación de operaciones, haciendo uso de las formas oficiales aprobadas y proporcionando todos los datos y documentos que las mismas exijan; darán aviso a la Tesorería General del Estado, dentro de los diez días siguientes, en los casos de traspaso, cambio de domicilio, de nombre o de razón social, suspensión, reanudación o terminación de actividades.
+Las personas o empresas que se dediquen a la explotación de ganado lechero, aves para postura o reproducción y colmenas, deberán empadronarse en la Oficina Fiscal del Estado de cada uno de sus centros de explotación, dentro de los quince días siguientes a la iniciación de operaciones, haciendo uso de las formas oficiales aprobadas y proporcionando todos los datos y documentos que las mismas exijan; darán aviso a la Tesorería General del Estado, dentro de los diez días siguientes, en los casos de traspaso, cambio de domicilio, de nombre o de razón social, suspensión, reanudación o terminación de actividades.
 
 (SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
 
@@ -2019,7 +2019,7 @@ DEL PAGO
 
 ###### ARTICULO 169o.
 
-El impuesto se causará al cosechar los frutos o productos agrícolas y deberá pagarse en la Oficina Fiscal en cuya jurisdicción se encuentre ubicado el predio productor, antes de que se extraigan del mismo o de sus bodegas, pudiendo efectuarse en las casetas fiscales en su caso de su traslado inmediato, o enterarón el importe del mismo a la persona física o moral a quien entregue su producto en calidad de venta, para su guarda o maquila, exigiendo el comprobante de retención en las formas oficiales que fije la Tesorería General del Estado.
+El impuesto se causará al cosechar los frutos o productos agrícolas y deberá pagarse en la Oficina Fiscal en cuya jurisdicción se encuentre ubicado el predio productor, antes de que se extraigan del mismo o de sus bodegas, pudiendo efectuarse en las casetas fiscales en su caso de su traslado inmediato, o enteraron el importe del mismo a la persona física o moral a quien entregue su producto en calidad de venta, para su guarda o maquila, exigiendo el comprobante de retención en las formas oficiales que fije la Tesorería General del Estado.
 
 Los frutos o producto agrícolas que se encuentren en el estado, sin acreditar que provienen de otra entidad mediante la documentación Fiscal expedida en el lugar de origen y sellada por la primera caseta o autoridad fiscal competente del estado que toque en su traslado, se presumirán producidos en Tamaulipas y estarán sujetos al pago de este Impuesto.
 
@@ -2163,7 +2163,7 @@ III.- $ 0.015 por cada kilogramo de mieles incristalizables y cristalizables y r
 
 Por lo que hace a esta fracción en ningún caso el impuesto pagado por el producto podrá ser por menor peso, al resultante en la liquidación practicada por la Junta Técnica Calificadora de Alcoholes de la Secretaría de Hacienda y Crédito Público, del que podrá deducirse únicamente por concepto de mermas en manejo, almacenamiento o rectificación de medición, hasta un 2.5% de las mieles obtenidas en la zafra de que se trate.
 
-Cuando se empleen las mieles como materia prima para la elaboración de productos que esten gravados en algún otro impuesto del Estado, se considerará incluído el impuesto a que se refiere esta ley, en lo que se cause por la elaboración de dichos productos, y consecuentemente, se deducirá el importe del impuesto.
+Cuando se empleen las mieles como materia prima para la elaboración de productos que estén gravados en algún otro impuesto del Estado, se considerará incluido el impuesto a que se refiere esta ley, en lo que se cause por la elaboración de dichos productos, y consecuentemente, se deducirá el importe del impuesto.
 
 DEL PAGO
 
@@ -2419,7 +2419,7 @@ Esta obligación subsistirá aún cuando no haya tenido ingresos gravables, debi
 
 ###### ARTICULO 208o.
 
-El impuesto se causará al efectuarse la operación de que provengan los ingresos gravados o al salir los productos de los lugares en que se encuentre el establecimiento, depósito o almacen del propio causante autorizados por la Secretaría de Hacienda del estado, en cuyo caso se causará el impuesto al salir los productos de cualesquiera de dichos lugares.
+El impuesto se causará al efectuarse la operación de que provengan los ingresos gravados o al salir los productos de los lugares en que se encuentre el establecimiento, depósito o almacén del propio causante autorizados por la Secretaría de Hacienda del estado, en cuyo caso se causará el impuesto al salir los productos de cualesquiera de dichos lugares.
 
 DE LAS OBLIGACIONES
 
@@ -2663,7 +2663,7 @@ Los sujetos de este impuesto tendrán las siguientes obligaciones:
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE DICIEMBRE DE 1999)</small>
 
-I. Solicitar su inscripción en el Registro de Contribuyentes de la Secretaria de Finanzas y Administración del Estado, utilizando, para tal efecto, las formas aprobadas. La SecretarÍa de Finanzas y Administración del Estado podrá, de oficio, inscribir a los contribuyentes cuando tenga a su disposición informes por este impuesto. Las sucursales u otras dependencias de la matriz deberán inscribirse por separado.
+I. Solicitar su inscripción en el Registro de Contribuyentes de la Secretaría de Finanzas y Administración del Estado, utilizando, para tal efecto, las formas aprobadas. La Secretaría de Finanzas y Administración del Estado podrá, de oficio, inscribir a los contribuyentes cuando tenga a su disposición informes por este impuesto. Las sucursales u otras dependencias de la matriz deberán inscribirse por separado.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE DICIEMBRE DE 1999)</small>
 
@@ -2699,7 +2699,7 @@ La Secretaría de Finanzas y Administración del Estado podrá determinar presun
 
 a) El monto total de las contraprestaciones recibidas a cambio del servicio de hospedaje, en el mismo mes del año anterior, actualizándolas con el factor a que se refiere el artículo 18-A del Código Fiscal del Estado, desde el mes del año anterior y hasta el mes a que se refiere la determinación presuntiva. En caso de haber aumentado la capacidad de servicio, se incrementará la base en la misma proporción.
 
-b) La que resulte del monto total de las contraprestaciones por el servicio de hospedaje que observen durante siete días incluyendo los inhábiles cuando menos, y el promedio diario resultante se multiplicará por el numero de días que comprende el período objeto de revisión.
+b) La que resulte del monto total de las contraprestaciones por el servicio de hospedaje que observen durante siete días incluyendo los inhábiles cuando menos, y el promedio diario resultante se multiplicará por el número de días que comprende el período objeto de revisión.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 1999)</small>
 
@@ -2777,7 +2777,7 @@ DEL OBJETO
 
 Es objeto de este impuesto, los pagos y erogaciones que representen ingresos en efectivo, en especie y en crédito por concepto de remuneraciones al trabajo personal, prestado bajo la subordinación a un patrón, siempre y cuando se generen dentro del territorio del Estado ó los perciban personas domiciliadas en el mismo.
 
-Para los efectos de este gravámen se consideran remuneraciones al trabajo personal, todas las contraprestaciones, cualquiera que sea el nombre con que se les designe, ya sean ordinarias o extraordinarias, incluyendo viáticos, gastos de representación, comisiones, permisos, gratificaciones y otros conceptos de naturaleza análogo.
+Para los efectos de este gravamen se consideran remuneraciones al trabajo personal, todas las contraprestaciones, cualquiera que sea el nombre con que se les designe, ya sean ordinarias o extraordinarias, incluyendo viáticos, gastos de representación, comisiones, permisos, gratificaciones y otros conceptos de naturaleza análogo.
 
 DE LOS SUJETOS
 
@@ -2821,15 +2821,13 @@ Este impuesto se causará con la tasa del 2% sobre la base a que se refiere el A
 
 DEL PAGO
 
-> <small>(REFORMADO. 18 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, 18 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 249.
 
 El impuesto deberá pagarse mensualmente, a más tardar el día quince del mes siguiente a aquel que corresponde el pago, presentándose al efecto declaración en las oficinas autorizadas, en las formas aprobadas.
 
 Los contribuyentes deberán presentar declaraciones siempre que haya cantidad a pagar, así como la primera declaración sin pago. Cuando se presente una declaración de pago sin impuesto a cargo, se presumirá que no existe impuesto a pagar en las declaraciones posteriores y no se presentarán las siguientes declaraciones, hasta que exista cantidad a pagar, siempre que en este supuesto, se cumplan con los requisitos que establezcan las disposiciones fiscales aplicables.
-
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
 DE LAS OBLIGACIONES DE LOS CAUSANTES
 
@@ -2867,9 +2865,9 @@ b).- Indemnizaciones por riesgos o enfermedades profesionales, que se conceden d
 
 c) Pensiones y jubilaciones en los casos de invalidez, vejez, cesantía y muerte;
 
-d).- Indemnizaciones por resición o terminación, que tengan su origen en la presentación de servicios personales subordinados;
+d).- Indemnizaciones por resición (sic) o terminación, que tengan su origen en la presentación de servicios personales subordinados;
 
-e).- Pagos por primas de antiguedad;
+e).- Pagos por primas de antigüedad;
 
 f).- Pagos por gastos funerarios;
 
@@ -3019,7 +3017,7 @@ TARIFA:
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2000)</small>
 
-I.- Búsqueda de expedientes y documentos, tres días de salario mínimo, certificación o expedición de copia certificada, un día de salario mínimo por hoja. Tratandose de certificación de expedientes de procedimientos judiciales o administrativos, se cobrará: hasta 15 hojas 1 día de salario mínimo, hasta 40 hojas 2, hasta 70 hojas 3, hasta 105 hojas 4 y de 106 hojas en adelante 5 días de salario mínimo.
+I.- Búsqueda de expedientes y documentos, tres días de salario mínimo, certificación o expedición de copia certificada, un día de salario mínimo por hoja. Tratándose de certificación de expedientes de procedimientos judiciales o administrativos, se cobrará: hasta 15 hojas 1 día de salario mínimo, hasta 40 hojas 2, hasta 70 hojas 3, hasta 105 hojas 4 y de 106 hojas en adelante 5 días de salario mínimo.
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2000)</small>
 
@@ -3041,7 +3039,7 @@ V.- Otorgamiento de constancia por el registro del título profesional ante el P
 
 ###### ARTICULO 259.
 
-Los derechos por concepto de adscripción de aspirante, examenes para obtener la patente de aspirante o el fiat de Notario Público, constancia de no inhabilitación para el servicio público y constancia de antecedentes no penales, se causarán conforme a lo siguiente:
+Los derechos por concepto de adscripción de aspirante, exámenes para obtener la patente de aspirante o el fiat de Notario Público, constancia de no inhabilitación para el servicio público y constancia de antecedentes no penales, se causarán conforme a lo siguiente:
 
 I.- Por el examen para obtener la patente de aspirante de Notario Público, trescientos días de salario mínimo.
 
@@ -3461,11 +3459,11 @@ AUTORIZACIONES Y PATENTES
 
 ###### ARTICULO 269o.
 
-Los servicios que prestan las aurtoridades educativas del Estado causarán derechos conforme a la siguiente tarifa:
+Los servicios que prestan las autoridades educativas del Estado causarán derechos conforme a la siguiente tarifa:
 
 I.- Certificación de estudios:
 
-1.- Certificación de estudios de nivel básico, 75 % de un día de salario minimo.
+1.- Certificación de estudios de nivel básico, 75 % de un día de salario mínimo.
 
 2.- Certificación de estudios de nivel medio superior, tres días de salario mínimo.
 
@@ -3514,6 +3512,10 @@ VI.- Diversos:
 4.- Comprobación de cumplimiento de requisitos en estudios de nivel secundaria, el 50 % de un día de salario mínimo.
 
 5.- Corrección de nombre en nivel de estudios básico, 25 % de un día de salario mínimo.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
+6.- Comprobación de cumplimiento de requisitos en estudios de nivel medio superior y superior, un día de salario mínimo por alumno.
 
 ### CAPITULO III. SERVICIOS DE INSPECCION
 
@@ -3779,7 +3781,7 @@ b).- Mudanzas, treinta y dos días de salario mínimo;
 
 c).- Grúas y plataformas, cien días de salario mínimo;
 
-d).- Mensajería y valores, cien dias de salario mínimo; y
+d).- Mensajería y valores, cien días de salario mínimo; y
 
 e).- Reparto de productos o servicios, treinta y dos días de salario mínimo.
 
@@ -3787,7 +3789,7 @@ Los derechos comprendidos en esta fracción y la anterior de este artículo debe
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
-III.- El cambio de características de vehiculos que prestan el servicio público de transporte causan los derechos previstos en la fracción II de este artículo y deberán pagarse en el momento de su autorización.
+III.- El cambio de características de vehículos que prestan el servicio público de transporte causan los derechos previstos en la fracción II de este artículo y deberán pagarse en el momento de su autorización.
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
@@ -3799,7 +3801,7 @@ V.- Por la revalidación de los derechos relativos a las fracciones I y II de es
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
-VI.- Por la expedición de la constancia de cumplimiento de requisitos para la obtensión de concesiones y permisos para la prestación del servicio público de transporte, así como para la prorroga de su vigencia, cien días de salario mínimo, por cada unidad.
+VI.- Por la expedición de la constancia de cumplimiento de requisitos para la obtención de concesiones y permisos para la prestación del servicio público de transporte, así como para la prorroga de su vigencia, cien días de salario mínimo, por cada unidad.
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
@@ -3841,7 +3843,7 @@ c).- Examen toxicológico, diez días de salario mínimo.
 
 > <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
-XV.- Por reposición de la tarjeta de circulación y por el trámite de la solicitud de baja, en el control vehicular, en cada caso seis días de salario mínimo; si la solicitud de baja en el control vehícular corresponde a un vehículo con placas de otra entidad federativa, se pagarán diez días de salario mínimo.
+XV.- Por reposición de la tarjeta de circulación y por el trámite de la solicitud de baja, en el control vehicular, en cada caso seis días de salario mínimo; si la solicitud de baja en el control vehicular corresponde a un vehículo con placas de otra entidad federativa, se pagarán diez días de salario mínimo.
 
 > <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
@@ -3857,7 +3859,7 @@ XVIII.- Envió de documentación oficial a domicilio ubicado en el Estado, un d�
 
 > <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
-XIX.- Búsqueda de registro vehícular en otras entidades federativas, dos días de salario mínimo, por cada búsqueda.
+XIX.- Búsqueda de registro vehicular en otras entidades federativas, dos días de salario mínimo, por cada búsqueda.
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -3873,17 +3875,49 @@ II. De un 50%, a los comprendidos en la fracción XVII; tratándose de adultos m
 
 Por los servicios de prevención y control de la contaminación del medio ambiente, se pagarán las siguientes cuotas:
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
 
-1.- Por el servicio de control de descargas de aguas residuales, conforme a la siguiente tarifa:
+1.- Por los servicios de registro de descarga de aguas residuales, conforme a la siguiente tarifa:
 
-a).- Microempresa con menos de 15 trabajadores, noventa y siete días de salario mínimo.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
 
-b).- Pequeña empresa de 16 a 100 trabajadores, ciento treinta días de salario mínimo.
+a) Microempresa con menos de 15 trabajadores, doce días de salario mínimo.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
+b) Pequeña empresa de 16 a 100 trabajadores, noventa y siete días de salario mínimo.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 c).- Mediana empresa de 101 a 200 trabajadores, ciento cincuenta y cinco días de salario mínimo.
 
-d).- Grande empresa más de 200 trabajadores, ciento ochenta días de salario mínimo.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
+d) Grande empresa con más de 200 trabajadores, ciento noventa y ocho días de salario mínimo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE DICIEMBRE DE 2005)</small>
+
+1.1. Por la aplicación de Características Particulares de Descarga, conforme a la siguiente tarifa:
+
+a) Microempresa con menos de 15 trabajadores, un día de salario mínimo por parámetro a exentar.
+
+b) Pequeña empresa de 16 a 100 trabajadores, dos días de salario mínimo por parámetro a exentar.
+
+c) Mediana empresa de 101 a 200 trabajadores, tres días de salario mínimo por parámetro a exentar.
+
+d) Grande empresa más de 200 trabajadores, cuatro días de salario mínimo por parámetro a exentar.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE DICIEMBRE DE 2005)</small>
+
+1.2. Por copia de registros de descarga de aguas residuales otorgado, un día de salario mínimo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE DICIEMBRE DE 2005)</small>
+
+1.3. Por cambio de razón social, tres días de salario mínimo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE DICIEMBRE DE 2005)</small>
+
+1.4. Por copia de otorgamiento de características particulares de descarga otorgados, un día de salario mínimo.
 
 2.- Por el análisis de las descargas de aguas residuales, hasta 96 días de salario mínimo.
 
@@ -3958,6 +3992,54 @@ b).- Estudiantes e investigadores, un día y medio de salario mínimo.
 8:- Por la concesión de servicios en áreas ecológicas protegidas, hasta 415 días de salario mínimo.
 
 9.- Por los estudios de flora y fauna silvestres, el 20% de un día de salario mínimo por hectárea.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
+10.- Evaluación de daños ambientales, setenta y cinco días de salario mínimo.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
+11.- Autorización para la recolección y transporte de residuos de manejo especial para empresas prestadoras de servicios, cincuenta y dos días de salario mínimo.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
+12.- Inscripción en el Registro Estatal Ambiental, se pagarán las siguientes cuotas:
+
+a) Microempresa con 1 a 15 trabajadores, veintidós días de salario mínimo.
+
+b) Pequeña empresa de 16 a 100 trabajadores, noventa y siete días de salario mínimo.
+
+c) Mediana Empresa de 101 a 200 trabajadores, ciento cincuenta y cinco días de salario mínimo.
+
+d) Grande empresa con más de 200 trabajadores, ciento ochenta días de salario mínimo.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
+13.- Cambio de Registro Estatal Ambiental, se pagarán las siguientes cuotas:
+
+a) Microempresa con 1 a 15 trabajadores, once días de salario mínimo.
+
+b) Pequeña empresa de 16 a 100 trabajadores, cuarenta y ocho días y medio de salario mínimo.
+
+c) Mediana empresa de 101 a 200 trabajadores, setenta y siete días y medio de salario mínimo.
+
+d) Grande empresa con más de 200 trabajadores, noventa días de salario mínimo.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
+14.- Por la entrega extemporánea de la Cédula de Operación Anual, se pagarán diez días de salario mínimo por cada 5 días hábiles de retraso.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
+ARTICULO 282o BIS.- Por los servicios otorgados para el aprovechamiento de la vida silvestre en Tamaulipas, se pagarán las siguientes cuotas:
+
+1. Registro de Unidad de Manejo para la Conservación de Vida Silvestre (UMA) y Planes de Manejo, once días de salario mínimo.
+
+2. Refrendo de registro de Unidad de Manejo para la Conservación de la Vida Silvestre (UMA), siete días y medio de salario mínimo.
+
+3. Aprovechamiento de especies (palomas) sujetas a un proyecto regional, seis y medio días de salario mínimo por cintillo expedido.
+
+4. Aprovechamiento de especies de interés cinegético en el Estado, seis y medio días de salario mínimo por cintillo vigente.
 
 (REUBICADO Y REFORMADA SU DENOMINACION, P.O. 21 DE DICIEMBRE DE 2000)
 
@@ -4035,7 +4117,7 @@ II.- Loncherías, fondas, coctelerías, taquerías, cenadurías, comedores y otr
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
-III.- Supermercados, con el importe de cuantrocientos cincuenta días de salario mínimo.
+III.- Supermercados, con el importe de cuatrocientos cincuenta días de salario mínimo.
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
@@ -4073,7 +4155,7 @@ II.- Zona Centro: el municipio de Victoria, quince días de salario mínimo, por
 
 III.- Zona Sur, los municipios de Tampico, Ciudad Madero y Altamira, cuarenta y cinco días de salario mínimo, por vértice.
 
-En los municipios no comprendidos en las fracciones anteriores se pagará, cuarenta y cinco días de salario mínimo, por vértice.
+En los municipios no comprendidos en las fracciones anteriores se pagará, cuarenta y cinco días de salario mínimo, por vértice
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -4159,7 +4241,7 @@ II.- PUBLICACIONES.
 
 III.- Los pagos de los derechos que se señalan en este artículo serán por adelantado y se efectuarán en las Oficinas Fiscales del Estado, remitiendo los comprobantes de pago a la Dirección del Periódico, adjuntándolos a los originales que van a publicarse.
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 295o.
 
@@ -4171,17 +4253,65 @@ Por la prestación del servicio de telefonía rural a través de la red de Telec
 
 Por la prestación del servicio de consulta de acuerdos a través del sistema electrónico de internet del Poder Judicial del Estado, se pagará el 0.026 de un día de salario mínimo, por acuerdo.
 
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 297o.
 
-(DEROGADO, P.O. 18 DE DICIEMBRE DE 1991)
+Por la expedición y la revalidación de permisos para la instalación y funcionamiento de una casa de empeño, se causarán derechos por el importe de cuatrocientos días de salario mínimo. El pago por concepto de la revalidación deberá efectuarse en el mes de enero de cada año.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 298o.
 
-(DEROGADO, P.O. 18 DE DICIEMBRE DE 1991)
+Por los servicios prestados por los entes públicos señalados en el artículo 5 párrafo 1 incisos a) al f) de la Ley de Información Pública del Estado de Tamaulipas, en el ejercicio de la libertad de información pública, se causarán conforme a lo siguiente:
 
-###### ARTICULO 299º.
+I.- Por la expedición de copia simple, se pagará 5% de un día de salario mínimo, por hoja.
 
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
+II.- Por expedición de copia certificada, se pagará conforme lo establecido en el artículo 258-F fracción I de esta ley.
+
+III.- Por expedición de copia a color, se pagará 40% de un día de salario mínimo por hoja.
+
+IV.- Por cada disco flexible de 3.5 pulgadas que contenga la información requerida, se pagará 15% de un día de salario mínimo.
+
+V.- Por cada disco compacto que contenga la información requerida, se pagará 25% de un día de salario mínimo.
+
+VI.- Por expedición de copia simple de planos o por la expedición de copia certificada de planos, se pagarán los derechos establecidos en el artículo 275 de esta ley.
+
+Las personas obligadas al pago de los derechos a que se refiere el presente artículo, deberán cubrir, en su caso, los gastos de envío que se generen.
+
+El envío de la información solicitada podrá realizarse por correo simple, correo certificado con acuse de recibo o servicio de paquetería y la determinación de su costo se hará por el ente público la correspondiente al momento de emitir la liquidación que se utilizará para efectuar el pago.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
+###### ARTICULO 299o.
+
+Por los servicios proporcionados en materia de protección contra riesgos sanitarios, se causarán derechos conforme a lo siguiente:
+
+I.- Por la expedición de certificado sobre pozo de agua para abastecimiento privado, se pagarán diez días de salario mínimo.
+
+II.- Por la revalidación de certificado privado, se pagarán cinco días de salario mínimo.
+
+III.- Por la autorización de libro de medicamento controlado, se pagarán cinco días de salario mínimo.
+
+IV.- Por la expedición de etiqueta de código de barra (sic), se pagarán cinco días de salario mínimo.
+
+V.- Por la aprobación de construcción de vivienda, se pagará 10% de un día de salario mínimo, por metro cuadrado.
+
+VI.- Por la aprobación de construcción de obra de impacto, se pagará 20% de un día de salario mínimo, por metro cuadrado.
+
+VII.- Por permiso sanitario de construcción de Unidad Médica, se pagará 20% de un día de salario mínimo, por metro cuadrado.
+
+VIII.- Por licencia sanitaria para médico, se pagará cinco días de salario mínimo.
+
+IX.- Por capacitación a petición de parte, se pagarán veinticinco días de salario mínimo.
+
+X.- Por visita de establecimientos a petición de parte, se pagarán cinco días de salario mínimo.
+
+XI.- Por muestra a petición de parte, se pagarán cinco días de salario mínimo.
+
+XII.- Por permiso sanitario para inhumación, traslado y cremación funeraria, se pagarán cinco días de salario mínimo.
+
+XIII.- Por aviso de funcionamiento para expendio de bebidas alcohólicas, se pagarán dieciocho días de salario mínimo.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
@@ -4458,3 +4588,9 @@ P.O. 16 DE DICIEMBRE DE 2003.
 ###### ARTICULO UNICO.
 
 El presente Decreto surtirá efectos a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE DICIEMBRE DE 2005.
+
+###### ARTICULO UNICO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el 1 de enero de 2006.
