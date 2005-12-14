@@ -4,7 +4,7 @@ identifier: "VER-reglamento-para-el-gobierno-interior-del-poder-legislativo-2899
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-17"
-last_updated: "2005-04-13"
+last_updated: "2005-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE ABRIL DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE DICIEMBRE DE 2005.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el lunes 17 de febrero de 2003.
 
@@ -1199,6 +1199,12 @@ La Secretaría General del Congreso, por conducto de la Coordinación de Comunic
 
 La Junta de Coordinación Política, por conducto de la Coordinación de Comunicación Social, registrará y aprobará las transmisiones directas y completas de las sesiones por radio o televisión, de los medios acreditados para tal fin, cuando esto no represente un gasto para el Congreso.
 
+> <small>(ADICIONADO, G.O. 14 DE DICIEMBRE DE 2005)</small>
+
+De igual forma se encargará de las transmisiones relativas al trabajo legislativo de acuerdo a su presupuesto, conforme al Convenio que establezcan con las televisoras y radiodifusoras propiedad del Estado.
+
+> <small>[N. DE E. REUBICADO, G.O. 14 DE DICIEMBRE DE 2005]</small>
+
 La difusión sistemática por cable u otros medios electrónicos de las sesiones deberá ser aprobada por los dos tercios de los diputados presentes, a propuesta debidamente fundada de la Junta de Coordinación Política.
 
 ###### Artículo 147.
@@ -1478,3 +1484,9 @@ G.O. 13 DE ABRIL DE 2005.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.O. 14 DE DICIEMBRE DE 2005.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
