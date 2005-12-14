@@ -4,7 +4,7 @@ identifier: "LSS"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2005-04-29"
+last_updated: "2005-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=853&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,9 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE ABRIL DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE DICIEMBRE DE 2005.
 
-Ley publicada en la primera sección del Diario Oficial de la Federación, el jueves 21 de diciembre de 1995.
+Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 21 de diciembre de 1995.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -3406,9 +3406,11 @@ La obligación de enterar las cuotas y los capitales constitutivos, prescribirá
 
 La prescripción se regirá en cuanto a su consumación e interrupción, por las disposiciones aplicables del Código Fiscal de la Federación.
 
+> <small>(REFORMADO, D.O.F. 14 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 299.
 
-Las cuotas enteradas sin justificación legal serán devueltas por el Instituto sin causar intereses en ningún caso, siempre y cuando sean reclamadas dentro de los cinco años siguientes a la fecha del entero correspondiente, excepto las provenientes del seguro de retiro, cesantía en edad avanzada y vejez; por lo que se refiere a estas últimas, se estará a lo previsto en las disposiciones legales y reglamentarias respectivas. Tratándose de las otras ramas de aseguramiento, el Instituto podrá descontar el costo de las prestaciones que hubiera otorgado.
+Las cuotas enteradas sin justificación legal serán devueltas por el Instituto, actualizadas conforme a lo previsto en el artículo 17-A, del Código Fiscal de la Federación, desde el mes en que se realizó el pago de lo indebido o se presentó la declaración que contenga el saldo a favor y hasta aquél en que la devolución esté a disposición del contribuyente, siempre y cuando sean reclamadas dentro de los cinco años siguientes a la fecha del entero correspondiente, excepto las provenientes del seguro de retiro, cesantía en edad avanzada y vejez; por lo que se refiere a estas últimas, se estará a lo previsto en las disposiciones legales y reglamentarias respectivas. Tratándose de las otras ramas de aseguramiento, el Instituto podrá descontar el costo de las prestaciones que hubiera otorgado.
 
 ###### Artículo 300.
 
@@ -3909,3 +3911,7 @@ Primero. El presente Decreto entrará en vigor a los treinta días siguientes al
 Segundo. Las reglas de carácter general a que se refieren los artículos 237-A y 237-C se expedirán dentro de los 60 días naturales siguientes a la entrada en vigor de este Decreto, por acuerdo del Consejo Técnico del Instituto Mexicano del Seguro Social, a propuesta del Director General del Instituto.
 
 Tercero. Dentro de los 30 días naturales siguientes a la entrada en vigor del presente Decreto, la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación proporcionará al Instituto el padrón de patrones del campo a que se refiere el artículo 237-D de la Ley.
+
+D.O.F. 14 DE DICIEMBRE DE 2005.
+
+Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
