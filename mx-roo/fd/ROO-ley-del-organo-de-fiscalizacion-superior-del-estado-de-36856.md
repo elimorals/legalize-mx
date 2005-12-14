@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-organo-de-fiscalizacion-superior-del-estado-de-36856"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-16"
-last_updated: "2003-12-16"
+last_updated: "2005-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DEL ORGANO SUPERIOR DE FISCALIZACION DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 2005.
 
 Ley Publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 16 de diciembre de 2003.
 
@@ -61,7 +61,7 @@ V. Auditoría Superior del Estado: El Órgano Superior de Fiscalización a que s
 
 VI. Comisión: La Comisión de Hacienda, Presupuesto y Cuenta de la Legislatura del Estado de Quintana Roo.
 
-VII. Entes públicos estatales: Los organismos públicos autónomos estatales, así como los órganos jurisdiccionales de carácter administrativo, que determinen las leyes.
+VII. Entes públicos estatales.- Los organismos públicos autónomos estatales, así como los órganos jurisdiccionales de carácter administrativo, que determinen las leyes.
 
 VIII. Entes públicos municipales: Los organismos públicos autónomos municipales, que determinen las leyes.
 
@@ -251,11 +251,15 @@ VII. Los procedimientos iniciados para el fincamiento de responsabilidades y la 
 
 VIII. En el supuesto de que conforme a la fracción II de este artículo, no se cumplan con los objetivos y metas establecidas en los programas aprobados, la Auditoría Superior del Estado hará las observaciones y recomendaciones que a su juicio sean procedentes.
 
-IX (sic) Artículo 24.- La Legislatura deberá examinar y aprobar, en su caso, la Cuenta Pública del Gobierno del Estado, correspondiente al año anterior, dentro del mismo período ordinario de sesiones de la entrega del Informe de Resultados.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
 
-X. Dentro del período señalado en el párrafo anterior, la Legislatura del Estado sancionará el Informe del Resultado de la revisión y fiscalización de las Cuentas Públicas de los Municipios.
+###### Artículo 24.
 
-XI. Lo establecido en este artículo es sin perjuicio de que la Auditoría Superior del Estado haya iniciado procedimientos para el fincamiento de responsabilidades y la imposición de sanciones, o la promoción de otro tipo de responsabilidades o denuncias de hechos presuntamente ilícitos, de conformidad con lo dispuesto en esta ley.
+La Legislatura deberá examinar y aprobar, en su caso, la Cuenta Pública del Gobierno del Estado, correspondiente al año anterior, a más tardar, en el Primer Período Ordinario de Sesiones del año siguiente al de la entrega del Informe de Resultados.
+
+Dentro del término señalado en el párrafo anterior, la Legislatura del Estado sancionará el Informe del Resultado de la revisión y fiscalización de las Cuentas Públicas de los Municipios.
+
+Lo establecido en este artículo es sin perjuicio de que la Auditoría Superior del Estado haya iniciado procedimientos para el fincamiento de responsabilidades y la imposición de sanciones, o la promoción de otro tipo de responsabilidades o denuncias de hechos presuntamente ilícitos, de conformidad con lo dispuesto en esta ley.
 
 ### CAPÍTULO CUARTO. DE LA REVISIÓN DE SITUACIONES EXCEPCIONALES
 
@@ -926,3 +930,9 @@ LIC. JOAQUÍN ERNESTO HENDRICKS DÍAZ
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO
 
 LIC. EFRAÍN VILLANUEVA ARCOS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE DICIEMBRE DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
