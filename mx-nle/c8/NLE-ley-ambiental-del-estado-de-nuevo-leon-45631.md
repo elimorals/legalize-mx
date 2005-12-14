@@ -4,7 +4,7 @@ identifier: "NLE-ley-ambiental-del-estado-de-nuevo-leon-45631"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-15"
-last_updated: "2005-07-15"
+last_updated: "2005-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY AMBIENTAL DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 15 de julio de 2005.
 
@@ -1999,6 +1999,20 @@ Toda persona física o moral que genere residuos sólidos urbanos tiene la respo
 
 Toda persona física o moral que genere residuos de manejo especial, tiene la responsabilidad de su manejo hasta su disposición final, pudiendo trasladar dicha responsabilidad a los prestadores del servicio de recolección, transporte o tratamiento de dichos residuos, que al efecto contraten.
 
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 172
+
+Bis.- Los prestadores del servicio de recolección, transporte o tratamiento de los residuos de manejo especial, deberán estar autorizados y registrados para tales efectos por la Agencia, debiéndose cerciorar los generadores de dichos residuos que las empresas que presten los servicios de manejo y disposición final de los mismos, cuenten con las autorizaciones respectivas y vigentes, en caso contrario serán responsables de los daños y perjuicios que se ocasionen por su manejo.
+
+En caso de que se contraten los servicios de manejo y disposición final de residuos de manejo especial por empresas autorizadas por la Agencia y los residuos sean entregados a estas, la responsabilidad por las operaciones le corresponderán a dicha empresa, independientemente de la responsabilidad que tiene el generador.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
+###### ARTÍCULO 172
+
+Bis 1.- Los residuos de manejo especial, podrán ser transferidos a industrias para su utilización como insumos dentro de sus procesos, haciéndolo previamente del conocimiento de la Agencia mediante un Plan de Manejo para dichos insumos, el cual estará basado en la minimización de sus riesgos.
+
 ###### Artículo 173.
 
 Las personas físicas o morales responsables de la producción, distribución o comercialización de bienes que, una vez terminada su vida útil, generen residuos sólidos urbanos y de manejo especial en alto volumen o que produzcan desequilibrios significativos al medio ambiente, cumplirán, además de las obligaciones que se establezcan en la presente Ley y otras disposiciones aplicables, con las siguientes:
@@ -2106,6 +2120,26 @@ Con motivo de la operación de sistemas destinados al manejo de materiales y res
 La vigilancia y aplicación de dichas medidas o restricciones corresponderá a la Agencia, en el ámbito de competencia determinado por la Ley General, y de conformidad con lo previsto en la presente Ley.
 
 En caso de que se detecten irregularidades o violaciones en el manejo de los residuos peligrosos competencia de la Federación, la Agencia levantará el acta respectiva, ordenará las medidas de seguridad y restauración e inmediatamente enviará el expediente a la instancia correspondiente, independientemente de atender la situación de contingencia.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
+###### ARTÍCULO 181
+
+Bis.- Tratándose de llantas o neumáticos nuevos o previamente utilizados por vehículos automotores o de otra índole se procurará su reutilización, de forma total o parcial, en los procesos productivos o industriales, así como en las aplicaciones que no impliquen un riesgo ambiental, evitándose su aprovechamiento mediante métodos de incineración, privilegiando su reutilización o reciclaje a través de los sistemas mecánicos de corte o análogos.
+
+En su caso deberán ser debidamente confinados en los sitios de disposición final autorizados.
+
+El Estado y Municipios, estimularán políticas de fomento que permitan el reuso o reciclaje de este tipo de residuos, con apego a las normas oficiales mexicanas, normas ambientales estatales u otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
+###### ARTÍCULO 181 Bis 1.
+
+Queda prohibida la acumulación a cielo abierto de llantas o neumáticos nuevos o previamente utilizados por vehículos automotores o de otra índole, así como su incineración bajo estas condiciones.
+
+Únicamente se podrá consentir la acumulación temporal de llantas o neumáticos nuevos o previamente utilizados a cielo abierto, a través de la autorización que en su caso emita la Agencia, la cual establecerá un plazo que en ningún caso excederá de seis meses, para su traslado a un sitio adecuado de disposición final o de almacenamiento.
+
+La contravención a lo dispuesto en este artículo, será objeto de sanción, para el depositante de llantas o neumáticos nuevos o previamente utilizados y para quienes a título legítimo o de hecho tenga la disposición del predio, indistintamente, de conformidad con lo dispuesto en la presente Ley.
 
 ### CAPÍTULO VII. PREVENCIÓN Y CONTROL DEL RUIDO, VIBRACIONES, OLORES PERJUDICIALES, ENERGÍA TÉRMICA Y LUMÍNICA Y LA CONTAMINACIÓN VISUAL
 
@@ -2866,3 +2900,9 @@ JOSÉ NATIVIDAD GONZÁLEZ PARÁS
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 NAPOLEÓN CANTÚ CERNA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE DICIEMBRE DE 2005.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
