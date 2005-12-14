@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2005-12-07"
+last_updated: "2005-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CODIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 2005.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -6347,9 +6347,13 @@ XXIV. Expedir y modificar, cuando lo considere necesario, los acuerdos, resoluci
 
 XXV. Las demás que le confieren este Capítulo y las disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 659.
 
-Para el estudio y propuesta de reformas y adiciones al presente Capítulo específicamente, se integrará una Comisión que estará compuesta por representantes de las Comisiones de Desarrollo Urbano y Obra Pública del Ayuntamiento, los Consejos Consultivos de Obra Pública del H. Ayuntamiento; los Consejos Consultivos de Obra Pública y Desarrollo Urbano del Municipio; el Colegio de Ingenieros Civiles, el Colegio de Arquitectos; Cámaras de la Construcción y de Empresas de Consultoría, Asociación Mexicana de Directores Responsables de Obra y Corresponsables, la Dirección de Desarrollo Urbano; la Secretaría General del H Ayuntamiento y de la Sindicatura Municipal, así como por otras dependencias o instituciones públicas o privadas de las que se considere necesaria su participación, siendo esta Comisión con carácter de consulta, sin que sus opiniones obliguen al C. Presidente Municipal.
+Para el estudio y propuesta de reformas y adiciones al presente Capítulo, específicamente; se tomarán en cuenta las opiniones de los representantes de las Comisiones de Desarrollo Urbano y Obra Pública del Ayuntamiento, los Consejos Ciudadanos de Obras y Servicios Públicos; los Consejos Ciudadanos de Desarrollo Urbano; los Colegios de Ingenieros Civiles, los Colegios de Arquitectos, Cámaras de la Construcción y de Empresas de Consultoría, la Secretaría de Administración Urbana, Obra Pública y Ecología; la Secretaría del H. Ayuntamiento y la Sindicatura Municipal, así como, por otras dependencias, instituciones públicas o privadas del ramo, que se considere necesaria su participación.
+
+Las opiniones que se emitan derivado de lo estipulado en el párrafo anterior, no obligan al C. Presidente Municipal.
 
 ###### Artículo 660.
 
@@ -6375,7 +6379,9 @@ II. Acreditar ante la Comisión de Asesoría y Admisión de Directores Responsab
 
 III. Acreditar como mínimo tres años en el ejercicio profesional en la construcción de obras a las que se refiere este Capítulo mediante Currículo Vitae debidamente sustentado;
 
-IV. Acreditar que es miembro con derechos vigentes, de uno o más colegios de profesionales o de la asociación mexicana de directores responsables de obra y corresponsables constituidos en el municipio; y
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
+IV. Acreditar que es miembro con derechos vigentes, de uno o más colegios de profesionales constituidos en el Municipio; y
 
 V. Presentar constancia vigente de haber acreditado el curso de directores responsables de obra y Corresponsables. Constancia que deberá tener como término, máximo de expedición de dos años, al día en que se inicien los trámites administrativos correspondientes ante la Dirección de Desarrollo Urbano.
 
@@ -6553,7 +6559,9 @@ II. Acreditar ante la Comisión que conoce este Capítulo y las Normas Técnicas
 
 III. Acreditar como mínimo 5 años en el ejercicio profesional de su especialidad;
 
-IV. Acreditar que es miembro del Colegio de Profesionales respectivo o de la localidad o AMDROC con derechos vigentes;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
+IV. Acreditar que es miembro con derechos vigentes del Colegio de Profesionales respectivo de la localidad;
 
 V. En el caso de refrendo del registro, acreditar ante la Comisión haber cumplido satisfactoriamente con las obligaciones a que se refiere el presente artículo durante el período previo al refrendo; y
 
@@ -6693,7 +6701,7 @@ c). Colegios de Ingenieros Municipales registrados ante la Dirección de Desarro
 
 d). Colegios de Ingenieros Mecánicos y Electricistas registrados ante la Dirección de Desarrollo Urbano en el municipio de Puebla.
 
-e). La Asociación Mexicana de Directores Responsables de Obra y Corresponsables, Delegación Estado de Puebla.
+e). (DEROGADO, P.O. 14 DE DICIEMBRE DE 2005)
 
 f). Colegios de Restauradores registrados ante la Dirección de Desarrollo Urbano en el municipio de Puebla.
 
@@ -6711,9 +6719,13 @@ d). De Obra y Servicios Públicos.
 
 Todos los miembros de la Comisión deberán tener registro de Director Responsable de Obra o Corresponsable, a excepción de los mencionados en la fracción III y IV de este artículo.
 
-En el mes de octubre de cada año, la Comisión de Asesoría y Admisión de los Directores Responsables de Obra y Corresponsables a través de la Dirección de Desarrollo Urbano, solicitará a cada uno de los organismos participantes, los nombres de sus representantes Propietario y Suplente, ambos debiendo cumplir con lo dispuesto en este artículo.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
 
-El período para la gestión de los Representantes de Colegios y Asociaciones será por un año y podrán ser ratificados por un máximo de dos años.
+En el mes de octubre de cada año, la Comisión de Asesoría y Admisión de los Directores Responsables de Obra y Corresponsables, a través de la Secretaría de Administración Urbana, Obra Pública y Ecología, solicitará a cada uno de los organismos participantes, los nombres de sus representantes Propietario y Suplente, quienes deberán cumplir con lo dispuesto en este artículo.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
+El Periodo para la gestión de los representantes de Colegios será por un año y podrán ser ratificados por un máximo de dos años.
 
 El Presidente de la Comisión será el C. Presidente Municipal.
 
@@ -6743,9 +6755,11 @@ VII. Proponer el manual de funcionamiento de la misma y de los comités que la f
 
 VIII. Emitir opinión sobre las licencias de construcción de todas aquellas obras que por sus características constructivas o de impacto publico puedan afectar la traza urbana, los usos, las costumbres o la seguridad de la ciudadanía.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 672.
 
-Para el cumplimiento de las atribuciones a que se refiere el artículo anterior, la Comisión contará con un comité técnico para cada una de las corresponsabilidades existentes, los cuales estarán integrados por profesionales de reconocida experiencia y capacidad técnica, designados por la Comisión, a propuesta de los Colegios de Profesionales o AMDROC.
+Para el cumplimiento de las atribuciones a que se refiere el artículo anterior, la Comisión contará con un Comité Técnico para cada una de las corresponsabilidades existentes, los cuales estarán integrados por profesionales de reconocida experiencia y capacidad técnica, designados por la Comisión, a propuesta de los Colegios Profesionales.
 
 El H. Ayuntamiento, a través del C. Presidente Municipal, tendrá derecho de veto en la designación de los miembros de los comités.
 
@@ -8639,7 +8653,7 @@ Todas las redes de drenaje y alcantarillado en el Municipio serán calculadas co
 
 ###### Artículo 880.
 
-El Organismo Operador de los Servicios de Agua Potable y Alcantarillado, es el encargado de normar todas las obras que se relacionen con el saneamiento de la Ciudad tales como el de las aguas pluviales, residuales, e industriales y que se ejecuten en el subsuelo de la vía publica, siendo el encargado de mantener, conservar, ampliar el sistema de drenaje y alcantarillado del Municipio en función de programas elaborados por el Ayuntamiento, organismos conexos y peticiones ciudadanas.
+El Organismo Operador de los Servicios de Agua Potable y Alcantarillado, es el encargado de normar todas las obras que se relacionen con el saneamiento de la Ciudad tales como el de las aguas pluviales, residuales, e industriales y que se ejecuten en el subsuelo de la vía pública, siendo el encargado de mantener, conservar, ampliar el sistema de drenaje y alcantarillado del Municipio en función de programas elaborados por el Ayuntamiento, organismos conexos y peticiones ciudadanas.
 
 ###### Artículo 881.
 
@@ -10091,7 +10105,7 @@ II. Reducción de las fuerzas cortantes.- Podrán adoptarse fuerzas cortantes me
 
 1. El periodo natural de vibraciones se tomará igual a
 
-T = 2 ñ g (¡W¡ 2) 1/2
+T = 2 ñ g (¡W¡2) 1/2
 
 g (P¡ X¡)
 
@@ -10127,13 +10141,13 @@ a2 = 1.5r(1-q) W¡
 
 W¡h¡2
 
-Donde q =( Tb / T ) r siendo r el exponente que se consigna en la tabla I. En este caso, los coeficientes a1, a2 son tales que la relación V/W es igual a a/Q cuando T es igual a y tiende a 1.25, 1.33 y 1.5 veces a/Q para terreno tipo I, II, III, respectivamente, cuando T tiende a infinitivo.
+Donde q = (Tb/T) r siendo r el exponente que se consigna en la tabla I. En este caso, los coeficientes a1, a2 son tales que la relación V/W es igual a a/Q cuando T es igual a y tiende a 1.25, 1.33 y 1.5 veces a/Q para terreno tipo I, II, III, respectivamente, cuando T tiende a infinitivo.
 
 III. Péndulos Invertidos.
 
 Los péndulos invertidos son estructuras en que 50 por ciento o más de su masa se halla en el extremo superior y tiene un solo elemento resistente en la dirección de análisis o una sola hilera de columnas perpendicular a esta. En el análisis estático de estas estructuras, además de la fuerza lateral estipulada se tendrá en cuenta la aceleración angular de la masa superior asociada al giro de dicha masa con respecto a un eje horizontal normal a la dirección de análisis y que pase por el punto de unión entre la masa y el elemento resistente. El efecto de dicha aceleración se tomará equivalente a un par aplicado en el extremo superior del elemento resistente, cuyo valor es igual a
 
-M = 1.5Pr2°Q/X
+M=1.5Pr2°Q/X
 
 donde r° es el radio de giro de la masa con respecto al eje en cuestión; x y f son el desplazamiento lateral y el giro, respectivamente, del extremo superior del elemento resistente bajo la acción de la fuerza lateral P que actúa sobre la masa de acuerdo con la fracción I de este artículo.
 
@@ -10241,7 +10255,7 @@ Para calcular la participación de cada modo natural en las fuerzas laterales qu
 
 Las respuestas modales Ri, donde Ri puede ser fuerza cortante, desplazamiento lateral, momento de volteo, etc., se combinarán para calcular las respuestas totales R de acuerdo con la expresión.
 
-R=(¡R2¡)1/2
+R = (¡R2¡)1/2
 
 Siempre que los períodos de los modos naturales difieran al menos 10 por ciento entre sí. Para las respuestas en modos naturales que no cumplen esta condición se tendrá en cuenta el acoplamiento entre ellos. Los desplazamientos laterales así calculados habrán de multiplicarse por o para calcular efectos de segundo orden, así como para verificar que la estructura no alcanza ninguno de los estados límite de servicio a los que hace referencia el presente Capítulo.
 
@@ -10465,7 +10479,7 @@ Siendo:
 
 P = Presión a succión del viento (kg/m²)
 
-c = Factor de empuje (sin dimensiones)
+c = Factor de empuje sin dimensiones)
 
 V = Velocidad de diseño (km/h)
 
@@ -16957,7 +16971,7 @@ II. Designación en la cláusula testamentaria, el orden de preferencia de los b
 
 III. Se adquirirá la obligación solidaria por todos los familiares relacionados, para cumplir con los gastos de mantenimiento; y
 
-IV. Suscripción del contrato por triplicado, depositándose en ejemplar en el panteón orrespondiente y otro en la Dirección.
+IV. Suscripción del contrato por triplicado, depositándose en ejemplar en el panteón correspondiente y otro en la Dirección.
 
 ###### Artículo 1609.
 
@@ -21590,3 +21604,11 @@ P.O. 7 DE DICIEMBRE DE 2005.
 SEGUNDO.- Se instruye al Secretario del Honorable Ayuntamiento del Puebla, para que realice todos los trámites necesarios y sea publicado por una sola vez la presente reforma en el Periódico Oficial del Estado.
 
 TERCERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE DICIEMBRE DE 2005.
+
+PRIMERO.- Las presentes modificaciones entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.}
+
+SEGUNDO.- Se derogan las demás disposiciones que sean incompatibles con el presente Acuerdo.
+
+TERCERO.- Los registros o refrendos pendientes de resolución, se tramitarán y resolverán de conformidad con las disposiciones jurídicas vigentes al momento de su solicitud.
