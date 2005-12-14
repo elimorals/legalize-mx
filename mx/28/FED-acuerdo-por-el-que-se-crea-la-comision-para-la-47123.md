@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-por-el-que-se-crea-la-comision-para-la-47123"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2000-12-04"
-last_updated: "2000-12-04"
+last_updated: "2005-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47123&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-12-01"
 
 ACUERDO POR EL QUE SE CREA LA COMISION PARA LA TRANSPARENCIA Y EL COMBATE A LA CORRUPCION DE LA ADMINISTRACION PUBLICA FEDERAL, COMO UNA COMISION INTERSECRETARIAL DE CARACTER PERMANENTE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE DICIEMBRE DE 2005.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 4 de diciembre de 2000.
 
@@ -71,7 +71,9 @@ La Comisión estará integrada de manera permanente por:
 
 I. Los titulares de las dependencias de la Administración Pública Federal. Éstos podrán nombrar suplentes que tengan nivel de subsecretario, en casos estrictamente necesarios por la ausencia del titular;
 
-II. El Subsecretario de Atención Ciudadana y Contraloría Social de la Secretaría de Contraloría y Desarrollo Administrativo;
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2005)</small>
+
+II. El Subsecretario de Atención Ciudadana y Normatividad de la Secretaría de la Función Pública;
 
 III. Hasta cinco funcionarios titulares de las unidades adscritas a la Presidencia de la República;
 
@@ -83,11 +85,13 @@ a. Autoridades de las entidades federativas y municipales, y
 
 b. Titulares de entidades paraestatales del Gobierno Federal.
 
+> <small>(REFORMADO, D.O.F. 14 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO CUARTO.
 
-La Comisión será presidida por el Secretario de Contraloría y Desarrollo Administrativo, quien designará a un Secretario Ejecutivo.
+La Comisión será presidida por el Secretario de la Función Pública, quien designará a un Secretario Ejecutivo.
 
-En casos de ausencia del Secretario de Contraloría y Desarrollo Administrativo, las sesiones de la Comisión serán presididas por el Subsecretario de Atención Ciudadana y Contraloría Social.
+En casos de ausencia del Secretario de la Función Pública, las sesiones de la Comisión serán presididas por el Subsecretario de Atención Ciudadana y Normatividad.
 
 ###### ARTÍCULO QUINTO.
 
@@ -111,15 +115,21 @@ VIII. Dar seguimiento y evaluar periódicamente los avances y resultados de las 
 
 IX. Las demás que le encomiende expresamente el titular del Ejecutivo Federal.
 
+> <small>(REFORMADO, D.O.F. 14 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO SEXTO.
 
-La Comisión podrá sesionar con la presencia de la mayoría de sus miembros permanentes. Las sesiones deberán realizarse cuando menos cada tres meses, sin perjuicio de las sesiones extraordinarias que convoque el Presidente de la misma.
+Para el cumplimiento de sus objetivos, la Comisión se reunirá con la periodicidad que los asuntos de su conocimiento lo requieran, debiendo sesionar cuando menos una vez al año, previa convocatoria que realice el Presidente de la Comisión, a través del Secretario Ejecutivo.
 
-Las decisiones se tomarán por mayoría de los miembros presentes en la sesión y el Presidente o, en la ausencia de éste, el Subsecretario de Atención Ciudadana y Contraloría Social, tendrá voto de calidad.
+La Comisión podrá sesionar con la presencia de a mayoría de sus miembros permanentes.
+
+Las decisiones se tomarán por mayoría de los miembros presentes en la sesión y el Presidente o, en la ausencia de éste, el Subsecretario de Atención Ciudadana y Normatividad, tendrá voto de calidad.
+
+> <small>(REFORMADO, D.O.F. 14 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO SÉPTIMO.
 
-El Presidente de la Comisión conducirá su funcionamiento e informará trimestralmente al Titular del Ejecutivo Federal o cuando éste así lo requiera, las actividades y resultados obtenidos por la Comisión. Tal informe será ampliamente difundido a la sociedad. Asimismo, convocará a sus reuniones ordinarias y extraordinarias.
+El Presidente de la Comisión conducirá su funcionamiento e informará anualmente al Titular del Ejecutivo Federal o cuando éste así lo requiera las actividades y resultados obtenidos por la Comisión. El informe será ampliamente difundido a la sociedad.
 
 ###### ARTÍCULO OCTAVO.
 
@@ -180,3 +190,9 @@ CUARTO. Para el cumplimiento de los objetivos del presente acuerdo, a más tarda
 Para los efectos de lo establecido en el párrafo anterior, la Secretaría de Contraloría y Desarrollo Administrativo enviará dentro del mes de Diciembre de 2000, a todas las dependencias de la Administración Pública Federal, los formatos y la metodología necesaria para dar cumplimiento al presente artículo.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a primero de diciembre del año dos mil.- El Presidente de los Estados Unidos Mexicanos, Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.- El Secretario de Relaciones Exteriores, Jorge Castañeda Gutman.- Rúbrica.- El Secretario de la Defensa Nacional, Gerardo Clemente Ricardo Vega García.- Rúbrica.- El Secretario de Marina, Marco Antonio Peyrot González.- Rúbrica.- El Secretario de Seguridad Pública, Alejandro Gertz Manero.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- La Secretaria de Desarrollo Social, Josefina Eugenia Vásquez Mota.- Rúbrica.- El Secretario de Medio Ambiente y Recursos Naturales, Víctor Lichtinger Waisman.- Rúbrica.- El Secretario de Energía, Tirso Ernesto Martens Rebolledo.- Rúbrica.- El Secretario de Economía, Luis Ernesto Derbez Bautista.- Rúbrica.- El Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, Javier Bernardo Usabiaga Arroyo.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Pedro Cerisola y Weber.- Rúbrica.- El Secretario de Contraloría y Desarrollo Administrativo, Francisco Javier Barrio Terrazas.- Rúbrica.- El Secretario de Educación Pública, Reyes Silvestre Tamez Guerra.- Rúbrica.- El Secretario de Salud, Julio José Frenk Mora.- Rúbrica.- El Secretario de Trabajo y Previsión Social, Carlos María Abascal Carranza.- Rúbrica.- La Secretaria de la Reforma Agraria, María Teresa Herrera Tello.- Rúbrica.- La Secretaria de Turismo, Bertha Leticia Navarro Ochoa.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 14 DE DICIEMBRE DE 2005.
+
+ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el diario Oficial de la Federación.
