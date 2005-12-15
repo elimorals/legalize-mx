@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-de-los-municipios-del-estado-de-durango-4912"
 country: "mx"
 rank: "ley"
 publication_date: "1988-03-06"
-last_updated: "2001-10-25"
+last_updated: "2005-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 6 de marzo de 1988.
 
@@ -1097,9 +1097,7 @@ VIII.- POR PROFUNDIZACION DE FOSA DE 1.333
 
 A 2.400
 
-IX.- POR EL PERMISO DE TRASLADO DE UN CADAVER FUERA DEL MUNICIPIO, PREVIO PERMISO DE LAS AUTORIDADES SANITARIAS Y MUNICIPALES DE
-
-2.000
+IX.- POR EL PERMISO DE TRASLADO DE UN CADAVER FUERA DEL MUNICIPIO, PREVIO PERMISO DE LAS AUTORIDADES SANITARIAS Y MUNICIPALES DE 2.000
 
 A 4.000
 
@@ -1117,7 +1115,9 @@ DIARIOS DE LA ZONA
 
 ECONOMICA.
 
-EXCAVACION DE FOSAS Y CONSTRUCCION
+EXCAVACION DE FOSAS
+
+Y CONSTRUCCION
 
 Para una gaveta 10.5
 
@@ -1201,11 +1201,11 @@ I.- Categoría "A" que comprende edificios destinados a hoteles, salas de reuni�
 
 Con estructura de concreto reforzado o de acero, muros de ladrillo o similar, lambrín de azulejos, muros con pintura o recubrimiento, pisos de granito o de mejor calidad, preparación para clima artificial por metro cuadrado a 0.015
 
-II.- Categoría "B" que comprende Construcciones comerciales, a casas habitación, con estructura de concreto reforzado; muros de mampostería; mosaico de pasta o granito; estucado interior así como construcciones industriales y bodegas con estructura de concreto por metro cuadrado a ………………………………………………….0.011
+II.- Categoría "B" que comprende Construcciones comerciales, a casas habitación, con estructura de concreto reforzado; muros de mampostería; mosaico de pasta o granito; estucado interior así como construcciones industriales y bodegas con estructura de concreto por metro cuadrado a 0.011
 
-III.- Categoría "C" que comprende: Casa habitación de tipo económico, así como los edificios industriales comerciales y bodegas con estructura de acero o madera y techos de lámina; igualmente las construcciones con cubierta de concreto tipo cascarón por metro cuadrado a …………………………………………………………..0.008
+III.- Categoría "C" que comprende: Casa habitación de tipo económico, así como los edificios industriales comerciales y bodegas con estructura de acero o madera y techos de lámina; igualmente las construcciones con cubierta de concreto tipo cascarón por metro cuadrado a 0.008
 
-IV.- Categoría "D" que comprende: Construcciones de vivienda y cobertizo de madera tipo provisional por metro cuadrado a ……………………………………………..….. 0.005
+IV.- Categoría "D" que comprende: Construcciones de vivienda y cobertizo de madera tipo provisional por metro cuadrado a 0.005
 
 REPARACIONES
 
@@ -1237,11 +1237,19 @@ En el Municipio de Gómez Palacio, Dgo., los derechos a que se refiere este art�
 
 AUTORIZACIÓN PARA
 
-CONSTRUCCIÓN: PORCENTAJE POR METRO
+CONSTRUCCIÓN: PORCENTAJE
 
-CUADRADO DEL SALARIO MÍNIMO GENERAL DIARIO
+POR METRO
 
-DE LA ZONA ECONÓMICA
+CUADRADO DEL
+
+SALARIO MÍNIMO
+
+GENERAL DIARIO
+
+DE LA ZONA
+
+ECONÓMICA
 
 A.- HABITACIÓN: TARIFAS:
 
@@ -1269,15 +1277,23 @@ D.- CONSTRUCCIÓN DE CERCAS Y BARDAS:
 
 2.- DE 51 A 100 METROS 0.05%
 
-3.- DE 101 METROS EN ADELANTE 0.08%
+3.- DE 101 METROS EN
 
-E.- MODIFICACIÓN, RECONSTRUCCIÓN, PORCENTAJE ORNAMENTACIÓN, SOBRE EL VALOR
+ADELANTE 0.08%
 
-O DECORACIÓN DE LA OBRA
+E.- MODIFICACIÓN, PORCENTAJE
+
+RECONSTRUCCIÓN, SOBRE EL VALOR
+
+ORNAMENTACIÓN, DE LA OBRA
+
+O DECORACIÓN
 
 1.- HABITACIÓN POPULAR 0.40%
 
-2.- HABITACIÓN DE INTERÉS SOCIAL 0.75%
+2.- HABITACIÓN DE INTERÉS
+
+SOCIAL 0.75%
 
 3.- HABITACIÓN MEDIO 1.20%
 
@@ -1295,35 +1311,57 @@ PAVIMENTOS CONDICIONADOS A
 
 REPARACIÓN:
 
-1.53% POR METRO CUADRADO DEL SALARIO MÍNIMO VIGENTE:
+1.53% POR METRO
 
-G.- DEMOLICIONES: PORCENTAJE POR METRO CUADRADO DEL SALARIO MÍNIMO VIGENTE.
+CUADRADO DEL
+
+SALARIO MÍNIMO
+
+VIGENTE:
+
+G.- DEMOLICIONES: PORCENTAJE POR
+
+METRO CUADRADO
+
+DEL SALARIO
+
+MÍNIMO VIGENTE.
 
 1.- ADOBÓN Y ESTRUCTURAS 0.05%
 
 2.- ADOBE Y MADERA 0.03%
 
-3.- CONSTRUCCIONES PROVISIONALES 0.02%
+3.- CONSTRUCCIONES
 
-H.- AUTORIZACIÓN DE PLANOS CANTIDAD DE SALARIOS
+PROVISIONALES 0.02%
 
-DE CONSTRUCCIÓN DE PRIMERA MÍNIMOS VIGENTES.
+H.- AUTORIZACIÓN DE CANTIDAD DE SALARIOS
 
-1.- QUE NO EXCEDA DE CINCO PLANTAS 22.07 VECES
+PLANOS DE MÍNIMOS VIGENTES.
+
+CONSTRUCCIÓN DE PRIMERA
+
+1.- QUE NO EXCEDA DE CINCO
+
+PLANTAS 22.07 VECES
 
 2.- DE SEIS A DIEZ PLANTAS 16.54 VECES
 
-3.- DE DIEZ PLANTAS EN ADELANTE 11.03 VECES
+3.- DE DIEZ PLANTAS EN
 
-I.- AUTORIZACIÓN DE PLANOS DE
+ADELANTE 11.03 VECES
 
-CONSTRUCCIÓN DE SUPERFICIES
+I.- AUTORIZACIÓN DE PORCENTAJE POR
 
-HORIZONTALES, AL DESCUBIERTO
+PLANOS DE CONSTRUCCIÓN METRO CUADRADO
 
-O PATIOS RECUBIERTOS:
+DE SUPERFICIES DEL SALARIO
 
-PORCENTAJE POR METRO CUADRADO DEL SALARIO MÍNIMO VIGENTE
+HORIZONTALES, AL MÍNIMO VIGENTE
+
+DESCUBIERTO O PATIOS
+
+RECUBIERTOS:
 
 1.- PAVIMENTO ASFÁLTICO, ADOQUINES
 
@@ -1331,13 +1369,21 @@ CONCRETO ARMADO 0.04%
 
 2.- CONCRETO SIMPLE 0.03%
 
-3.- GRAVAS Y TERRACERÍAS Y OTROS 0.02%
+3.- GRAVAS Y TERRACERÍAS
 
-J.- APROBACIÓN DE PLANOS PARA CONSTRUCCIÓN
+Y OTROS 0.02%
 
-ALBERCAS, CISTERNAS, SÓTANOS Y OTROS: 0.57% DEL SALARIO MÍNIMO
+J.- APROBACIÓN DE PLANOS
 
-VIGENTE POR METRO CÚBICO
+PARA CONSTRUCCIÓN
+
+ALBERCAS, CISTERNAS,
+
+SÓTANOS Y OTROS: 0.57% DEL SALARIO
+
+MÍNIMO VIGENTE
+
+POR METRO CÚBICO
 
 ###### ARTICULO 126.
 
@@ -1829,10 +1875,6 @@ Será obligatorio dotar de servicio público de Agua en los Municipios de Durang
 
 17.- Lavado de automóviles.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1995)</small>
-
-18.- Las demás que a juicio del Organismo Operador de Agua Potable y Alcantarillado deban surtirse de Agua Potable.
-
 ###### ARTICULO 148.
 
 Para cada predio, giro o establecimiento mercantil o industrial se requiere contrato individual.
@@ -1889,7 +1931,7 @@ CUOTAS PARA EL COBRO DEL SERVICIO DE AGUA POTABLE y ALCANTARILLADO.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 4 DE MARZO DE 1999)</small>
 
-CUOTAS PARA EL COBRO DEL SERVICIO DE AGUA POTABLE Y ALCANTARILLADO
+CUOTAS PARA EL COBRO DEL SERVICIO DE AGUA POTABLE Y ALCANTARILLADO.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MARZO DE 1999)</small>
 
@@ -2385,7 +2427,7 @@ LAS TARIFAS SE ACTUALIZARÁN ANUALMENTE EN EL MES DE ENERO EN BASE AL INDICE NAC
 
 C.- TARIFA DE CONEXIÓN DE AGUA POTABLE DOMÉSTICA, COMERCIAL E INDUSTRIAL, EN NUMERO DE SALARIOS MÍNIMOS GENERALES, DIARIOS DE LA ZONA ECONÓMICA.
 
-A G U A 12 mm.( 1/2") 19 mm. (3/4")
+A G U A 12 mm.(1/2") 19 mm. (3/4")
 
 POPULAR 2.63 4.75
 
@@ -3223,7 +3265,7 @@ Por cajón, la primera hora de 0.020
 
 Por cajón, la segunda hora de 0.015
 
-Las subsiguientes horas de … 0.010
+Las subsiguientes horas de 0.010
 
 Pensión nocturna, diarios 0.1000
 
@@ -3307,7 +3349,7 @@ El derecho por servicio público de iluminación será recaudado por conducto de
 
 ### CAPITULO XIX
 
-POR LA EXPLOTACIÓN COMERCIAL DE MATERIAL DE CONSTRUCCION.
+POR LA EXPLOTACION COMERCIAL DE MATERIAL DE CONSTRUCCION.
 
 > <small>N. DE E. SE SUSPENDE EN EL TERRITORIO DEL ESTADO DE DURANGO, LA APLICACION DEL DERECHO ESTABLECIDO EN EL PRESENTE ARTICULO, P.O. 23 DE DICIEMBRE DE 1993.</small>
 
@@ -3463,43 +3505,19 @@ LOS QUE SE OBTENGAN DE LA VENTA DE OBJETOS RECOGIDOS POR AUTORIDADES MUNICIPALES
 
 Tendrán carácter de productos los ingresos que se obtengan de la venta de objetos recogidos por Autoridades Municipales.
 
+> <small>(DEROGADO, P.O. 15 DE DICIEMBRE DE 2005)</small>
+
 ### CAPITULO VII
-
-POR ESTACIONAMIENTO DE VEHICULOS EN LA VIA PUBLICA EN AQUELLOS LUGARES DONDE EXISTEN APARATOS MARCADORES DE TIEMPO.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 230.
 
-En aquellos lugares donde existen aparatos medidores de tiempo (estacionómetros), por cada media hora o fracción menor de tiempo, se cobrará por servicio de estacionamiento público $0.50 (cincuenta centavos); en el Municipio de Gómez Palacio, Dgo., por este servicio se cobrará $1.00 (un peso) por cada media hora o fracción menor de tiempo; al infractor de esta obligación se le aplicará una sanción equivalente a un día de salario mínimo general vigente en el Estado, sujetándose a las siguientes reglas:
-
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 1993)</small>
-
-a).- Si cubre la sanción dentro de los 3 días hábiles siguientes a la infracción incurrida, se le descontará el 30% de la cantidad a pagar;
-
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 1993)</small>
-
-b).- Si cubre la infracción después del 3er. día que se menciona en el inciso anterior, pero hasta antes de 30 días transcurridos desde que se cometió la infracción, no tendrá derecho a descuento alguno; y
-
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 1993)</small>
-
-c).- Si paga después de 30 días de haber cometido la infracción, pero antes de 45 días, se duplicará la multa; si después de ese periodo no se hace efectivo tal adeudo, dará inicio el procedimiento de ejecución contra el deudor.
-
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 1993)</small>
-
-Se podrán emitir, por la Autoridad competente, engomados para su uso en zonas marcadas con estacionómetros por un valor equivalente a cuarenta días de salario mínimo vigente en el Estado, con vigencia para un periodo de 6 meses. Su adquisición durante los primeros 30 días de su puesta a la venta tendrá un descuento de un 25% del total de su costo.
-
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 1993)</small>
-
-Las personas que para maniobras de carga y descarga frente a sus domicilios, requieran de cajones de estacionamiento, deberán cubrir una cuota semestral equivalente a cincuenta días de salario mínimo general vigente en el Estado por cada espacio que corresponda a un aparato medidor de tiempo y tomando en cuenta las disposiciones de la Ley de Tránsito y Transportes y su Reglamento.
-
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 1993)</small>
-
-Se aplicará una multa equivalente a 15 días de salario mínimo general vigente en el Estado a quien insulte o agreda a las personas encargadas de la vigilancia de los aparatos estacionómetros, con motivo del ejercicio de sus funciones, sin perjuicio de su consignación a la autoridad competente por los delitos que le resultaren.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2005)
 
 ## TITULO QUINTO
 
-### CAPITULO UNICO
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2005)</small>
+
+### CAPITULO I
 
 APROVECHAMIENTOS.
 
@@ -3521,9 +3539,13 @@ Serán ingresos municipales de los denominados aprovechamientos:
 
 7.- Cooperaciones del Gobierno Federal, del Estado, Organismos descentralizados, Empresas de participación Estatal y de cualquiera otras personas;
 
-8.- Multas federales No Fiscales y;
+8.- Multas federales No Fiscales y; (sic)
 
 9.- No especificadas.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2005)</small>
+
+10.- Por estacionamiento de vehículos en la vía pública en aquellos lugares donde existen aparatos marcadores de tiempo.
 
 > <small>(REFORMADO, P.O. 4 DE ENERO DE 1990)</small>
 
@@ -3531,21 +3553,45 @@ Serán ingresos municipales de los denominados aprovechamientos:
 
 La falta oportuna del pago de impuestos, derechos, causará un recargo en concepto de indemnización al fisco municipal en los términos de la Ley de Ingresos.
 
-### CAPITULO UNICO
+(REUBICADO [N. DE.E. ANTES CAPITULO VII], P.O. 15 DE DICIEMBRE DE 2005)
 
-PARTICIPACIONES.
+### CAPITULO II
+
+POR ESTACIONAMIENTO DE VEHICULOS EN LA VIA PUBLICA EN AQUELLOS LUGARES DONDE EXISTEN APARATOS MARCADORES DE TIEMPO.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2005)</small>
+
+###### ARTICULO 232 Bis.
+
+En aquellos lugares donde existen aparatos medidores de tiempo (estacionómetros), por cada media hora o fracción menor de tiempo, se cobrará por servicio de estacionamiento público $0.50 (cincuenta centavos); en el Municipio de Gómez Palacio, Dgo., por este servicio se cobrará $1.00 (un peso) por cada media hora o fracción menor de tiempo, al infractor de esta obligación se le aplicará una sanción equivalente a un día de salario mínimo general vigente en el Estado, sujetándose a las siguiente reglas.
+
+a) Si cubre la sanción dentro de los 3 días hábiles siguientes a la infracción incurrida, se le descontará el 30% de la cantidad a pagar;
+
+b) Si cubre la infracción después del tercer día que se menciona en el inciso anterior, pero hasta antes de 30 días transcurridos desde que se cometió la infracción, no tendrá derecho a descuento alguno; y
+
+c) Si paga después de 30 días de haber cometido la infracción, pero antes de 45 días, se duplicará la multa; si después de ese periodo no se hace efectivo tal adeudo, dará inicio el procedimiento de ejecución contra el deudor.
+
+Se podrán emitir, por la Auditoria competente, engomados para su uso en zonas marcadas con estacionómetros por un valor equivalente a cuarenta días de salario mínimo vigente en el Estado, con vigencia para un periodo de 6 meses. Su adquisición durante los primeros 30 días de su puesta a la venta tendrá un descuento de un 25% del total de su costo.
+
+Las personas que para maniobras de carga y descarga frente a sus domicilios, requieran de cajones de estacionamientos, deberán cubrir una cuota semestral equivalente a cincuenta días de salario mínimo general vigente en el Estado por cada espacio que corresponda a un aparato medidor de tiempo y tomando en cuenta las disposiciones de la Ley de Tránsito y Transporte y su Reglamento.
+
+Se aplicará una multa equivalente a 15 días de salario mínimo general vigente en el Estado a quien insulte o agreda a las personas encargadas de la vigilancia de los aparatos estacionómetros, con motivo del ejercicio de sus funciones, sin perjuicio de su consignación a la autoridad competente por los delitos que le resultaren.
 
 ## TITULO SEXTO
 
 ### CAPITULO UNICO
 
-INGRESOS EXTRAORDINARIOS.
+PARTICIPACIONES.
 
 ###### ARTICULO 233.
 
 Los municipios particiaprán (sic) del rendimiento de los impuestos federales o del Estado, en los términos que fijen las Leyes que las establezcan.
 
 ## TITULO SEPTIMO
+
+### CAPITULO UNICO
+
+INGRESOS EXTRAORDINARIOS.
 
 ###### ARTICULO 234.
 
@@ -3800,3 +3846,23 @@ El presente decreto entrará en vigor al día siguiente al de su publicación en
 P.O. 25 DE OCTUBRE DE 2001.
 
 ÚNICO.- El presente Decreto surtirá sus efectos legales tres días después al de su publicación, en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 15 DE DICIEMBRE DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto, entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los ayuntamientos adecuarán sus respectivas Leyes de Ingresos para el ejercicio fiscal 2006, para reclasificar como Aprovechamientos los ingresos presupuestados y aprobados por el concepto de estacionamiento de vehículos en la vía pública en aquellos lugares donde existen aparatos marcadores de tiempo.
+
+###### ARTÍCULO CUARTO.
+
+Los ayuntamientos tomarán las medidas pertinentes para registrar contablemente como aprovechamientos los ingresos por concepto de estacionamientos de vehículos en la vía pública en aquellos lugares donde existen aparatos marcadores de tiempo.
+
+Corresponde a la Entidad de Auditoria Superior del Estado, verificar que en los informes preliminares correspondiente se cumpla con la presente disposición.
