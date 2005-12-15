@@ -4,7 +4,7 @@ identifier: "BCS-codigo-de-procedimientos-penales-para-el-estado-de-baja-44530"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-09-19"
-last_updated: "2005-09-19"
+last_updated: "2005-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 19 DE SEPTIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 15 DE DICIIEMBRE DE 2005.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 20 de marzo de 2005.
 
@@ -1047,7 +1047,9 @@ IV.- Aborto, previsto por el artículo 249, siempre y cuando se cometa conforme 
 
 V.- Privación ilegal de la libertad, previsto y sancionado por los artículos 276, 277 y 278 del código penal;
 
-VI.- Secuestro, previsto y sancionado en el artículo 280 y 281 del código penal, a excepción de la hipótesis atenuada del último párrafo del artículo 281;
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2005)</small>
+
+VI.- Secuestro previsto y sancionado por los Artículos 279, 280 y 281 del Código Penal;
 
 VII.- Violación en sus modalidades previstas y sancionadas en los artículos 284, 285 y 286 del Código Penal; así como en su grado de tentativa;
 
@@ -1063,7 +1065,9 @@ XII.- Daños intencionales, previsto en el artículo 325 del código penal;
 
 XIII.- Operaciones con recursos de procedencia ilícita, previsto como delito en el artículo 323 del código penal;
 
-XIV.- Tráfico de menores, de conformidad a lo establecido en el artículo 232 segundo párrafo del código penal;
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2005)</small>
+
+XIV.- Tráfico de menores, de conformidad a lo establecido en el artículo 233 segundo párrafo del código penal;
 
 XV.- Incesto, cometido por ascendiente consanguíneo conociendo el parentesco, de conformidad a lo establecido en el artículo 237 del código penal;
 
@@ -1081,7 +1085,9 @@ XXI.- Tortura, contemplado en los artículos 149 y 150 del código penal;
 
 XXII.- Asociación delictuosa que asuma el carácter de delincuencia organizada, de conformidad a lo establecido en el artículo 204 del código penal;
 
-XXIII.- Evasión de presos, cuando se de el auxilio de servidor público, de conformidad a lo establecido en el segundo párrafo del artículo 176 del código penal;
+> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2005)</small>
+
+XXIII.- Evasión de presos, cuando se dé el auxilio de servidor público, de conformidad a lo establecido en el segundo párrafo del artículo 177 del código penal;
 
 XXIV.- Falsedad en declaraciones realizadas ante el ministerio público o la autoridad judicial, de conformidad a lo establecido en el segundo párrafo del artículo 189 del código penal;
 
@@ -3468,3 +3474,9 @@ C. LIC. VÍCTOR DANIEL MADRIGAL BARBOSA
 B.O. 19 DE SEPTIEMBRE DE 2005.
 
 ÚNICO.- El presente decreto entrará en vigor previa publicación en el Boletín Oficial del Gobierno del Estado, el día en que entren en vigor los decretos 1525 y 1526, que contienen los Códigos Penal y de Procedimientos Penales para el Estado de Baja California Sur, publicados en el Boletín Oficial del Gobierno del Estado en fecha 20 de marzo del año en curso.
+
+B.O. 15 DE DICIEMBRE DE 2005.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
