@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2002-01-07"
+last_updated: "2005-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE ENERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 15 DE DICIEMBRE DE 2005.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -2833,7 +2833,9 @@ I.- Cuando tengan sesenta años cumplidos; y
 
 II.- Cuando por su mal estado habitual de salud, no puedan atender debidamente a su desempeño.
 
-### CAPÍTULO IV. De la tutela legítima de los dementes, idiotas imbéciles, sordomudos, ebrios y de los que habitualmente abusan de las drogas enervantes
+### CAPÍTULO IV
+
+De la tutela legítima de las personas con discapacidad mental, con discapacidad parlante-auditiva, ebrios y de los que habitualmente abusan de las drogas enervantes
 
 ###### Artículo 511.
 
@@ -2939,15 +2941,19 @@ Ninguna tutela puede conferirse sin que previamente se declare, en los términos
 
 Los tutores y curadores no pueden ser removidos de su cargo, sin que previamente hayan sido oídos y vencidos en juicio.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 15 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 534.
 
-El menor de edad que fuere demente, idiota, imbécil, sordomudo, ebrio consuetudinario o drogadicto, estará sujeto a la tutela de menores, mientras no llegue a la mayoría de edad.
+El menor de edad que fuere discapacitado mental, discapacitado parlante- auditivo, ebrio o que habitualmente abuse de las drogas enervantes, estará sujeto a la tutela de menores, mientras no llegue a la mayoría de edad.
 
 Si al cumplirse ésta continuare el impedimento, el incapaz quedará sujeto a una nueva tutela, previo juicio de interdicción en el cual serán oídos el tutor y el curador anteriores. Ninguno de ellos será removido, cuando se trate de la tutela legítima o testamentaria.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 15 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 535.
 
-El cargo de tutor del demente, idiota, imbécil, sordomudo, ebrio consuetudinario y de los que habitualmente abusen de las drogas enervantes, durará el tiempo que subsista la interdicción. Cuando sea ejercitado por los descendientes o por los ascendientes, el cónyuge tendrá obligación de desempeñar ese cargo mientras conserve su carácter de cónyuge. Los extraños que desempeñan la tutela de que se trata tienen derecho de que se les releve de ella a los diez años de ejercerla.
+El cargo de tutor del discapacitado mental, de quien padezca alguna discapacidad parlante- auditiva, ebrios y de los que habitualmente abusan de las drogas enervantes, durará el tiempo que subsista la interdicción. Cuando sea ejercitado por los descendientes o por los ascendientes, el cónyuge tendrá obligación de desempeñar ese cargo mientras conserve su carácter de cónyuge. Los extraños que desempeñan la tutela de que se trata tienen derecho de que se les releve de ella a los diez años de ejercerla.
 
 La interdicción a que refiere este artículo no cesará sino por la muerte del incapacitado o por sentencia definitiva, que se pronunciará en juicio seguido conforme a las mismas reglas establecidas para el de interdicción.
 
@@ -3028,6 +3034,8 @@ Si hubiere varios parientes del mismo grado, el Juez elegirá entre ellos al que
 ###### Artículo 550.
 
 La falta temporal del tutor legítimo se suplirá en los términos establecidos en los dos artículos anteriores.
+
+> <small>(REFORMADA SU DENOMINACION, B.O. 15 DE DICIEMBRE DE 2005)</small>
 
 ### CAPÍTULO VIII. De las excusas para desempeñar la tutela
 
@@ -13231,7 +13239,7 @@ La renuncia se considera maliciosa cuando el socio que la hace se propone aprove
 
 ###### Artículo 2638.
 
-Se dice extemporánea la renuncia, si al hacerla, las cosas no se hayan en su estado íntegro ó, si la sociedad puede ser perjudicada con la disolución que originaría la renuncia.
+Se dice extemporánea la renuncia, si al hacerla, las cosas no se hayan en su estado íntegro o, si la sociedad puede ser perjudicada con la disolución que originaría la renuncia.
 
 ###### Artículo 2639.
 
@@ -15246,3 +15254,7 @@ B.O. 7 DE ENERO DE 2002.
 ###### ARTICULO UNICO
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 15 DE DICIEMBRE DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
