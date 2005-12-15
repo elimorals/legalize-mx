@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-del-estado-de-durango-15851"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-23"
-last_updated: "2003-12-18"
+last_updated: "2005-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de diciembre de 1999.
 
@@ -65,17 +65,29 @@ LEY DE HACIENDA DEL ESTADO DE DURANGO
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 1.
 
-La Hacienda Pública del Estado de Durango, para atender los gastos y cumplir las obligaciones de su administración, organización y prestación de servicios públicos, percibirá en cada ejercicio fiscal los ingresos que por concepto de impuestos, derechos, productos, aprovechamientos, ingresos extraordinarios, participaciones en ingresos Federales y Fondos de Aportación que autorice la Ley de Ingresos que anualmente aprueba el Congreso del Estado.
+La Hacienda Pública del Estado de Durango, para atender los gastos y cumplir las obligaciones de su administración, organización y prestación de servicios públicos, percibirá en cada ejercicio fiscal los ingresos que por concepto de impuestos, derechos, productos, aprovechamientos, ingresos extraordinarios, participaciones en ingresos federales y Fondos de Aportación, se autoricen la Ley de Ingresos que anualmente aprueba el Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2005)</small>
+
+El Titular del Poder Ejecutivo del Estado podrá conceder exenciones de impuestos o derechos, conservando los elementos de la relación y del tributo fijados en esta Ley de Hacienda, como lo son el sujeto, objeto, cuota, tasa, base o tarifa, eliminando de la regla general de causación, ciertos hechos gravables o sujetos obligados por razón de equidad o política económica, de conformidad con lo establecido en la Ley de Desarrollo Económico, en su Reglamento, y en las disposiciones administrativas de carácter general que expidan las autoridades fiscales estatales.
 
 La Hacienda Pública del Estado de Durango se compone:
 
-I.- De los ingresos provenientes de los Impuestos Sobre Nóminas, para el Fomento de la Educación Pública en el Estado, por Servicio de Hospedaje, Sobre Honorarios por Servicios Médicos Profesionales, Sobre Juegos con Apuestas, Rifas, Loterías, Sorteos y Premios, Sobre la Enajenación de Vehículos Automotores Usados;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
-II.- De los ingresos provenientes de los derechos derivados de la prestación de servicios públicos;
+I.- De los ingresos provenientes de los Impuestos Sobre Nóminas, para el Fomento de la Educación Pública en el Estado, por Servicio de Hospedaje, Sobre Juegos con Apuestas, Rifas, Loterías, Sorteos y Premios, Sobre la Enajenación de Vehículos Automotores Usados;
 
-III.- De los ingresos provenientes de los productos derivados de la enajenación de bienes muebles e inmuebles propiedad del Estado; el importe de los arrendamientos de bienes muebles e inmuebles propiedad del Estado; por bienes mostrencos y vacantes; por instituciones de asistencia social; por rendimientos bancarios; por aquellos que deriven de los contratos o leyes que lo establezcan y por la explotación de los recursos naturales propiedad de la Federación que se encuentren en el territorio del Estado, conforme a los términos y proporciones que le asignen las leyes y convenios relativos;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2005)</small>
+
+II.- De los ingresos provenientes del pago de los derechos causados por la prestación de servicios públicos o por el uso y aprovechamiento de los bienes del dominio público del Estado, determinado en forma proporcional y equitativa en relación con el costo integral del servicio recibido y su beneficio o con relación directamente proporcional al uso y aprovechamiento de los bienes del dominio público;
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2005)</small>
+
+III.- De los ingresos provenientes de los productos derivados de la enajenación de bienes muebles e inmuebles propiedad del Estado; el importe de los arrendamientos de bienes muebles e inmuebles propiedad del Estado; por bienes mostrencos y vacantes; por instituciones de asistencia social; por rendimientos bancarios; por aquellos que deriven de los contratos o leyes que lo establezcan y por la explotación de los recursos naturales propiedad de la Federación que se encuentren en el territorio del Estado, conforme a los términos y proporciones que le asignen las leyes y convenios relativos; de las utilidades de los organismos descentralizados de carácter Estatal, empresas de participación Estatal y fideicomisos;
 
 IV.- De los ingresos provenientes de los aprovechamientos originados por conceptos de recargos, garantías y multas, reintegros, donaciones, préstamos y aquellos que se deriven de concesiones y contratos, indemnizaciones a favor del Estado, fianzas a favor del Estado y gastos de administración e incentivos derivados de los convenios y sus anexos;
 
@@ -83,7 +95,7 @@ V.- De los ingresos extraordinarios tales como financiamientos, impuestos y dere
 
 VI.- De las participaciones en ingresos federales y de los fondos de aportación que se le asignen de acuerdo con lo dispuesto en la Ley Federal de la materia, el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, y el Convenio de Colaboración Administrativa en materia Fiscal Federal y sus anexos; y
 
-VII. - De las utilidades de los organismos descentralizados de carácter Estatal, empresas de participación Estatal y fideicomisos.
+VII. - (DEROGADA, P.O. 15 DE DICIEMBRE DE 2005)
 
 ## TITULO SEGUNDO. DE LOS IMPUESTOS
 
@@ -95,25 +107,27 @@ VII. - De las utilidades de los organismos descentralizados de carácter Estatal
 
 Es Objeto del Impuesto Sobre Nóminas, los pagos que se hagan en dinero o en especie por concepto de remuneraciones al trabajo personal subordinado, prestado dentro del territorio del Estado, bajo la dirección y dependencia de un patrón, independientemente de la designación que se les otorgue.
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 3.
 
-Son sujetos del impuesto a que se refiere este capítulo las personas físicas o morales que efectúen los pagos a que se refiere el artículo anterior.
+Son sujetos del impuesto al que se refiere este capítulo las personas físicas y morales que efectúen los pagos a que se refiere el artículo anterior.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
 
 Serán responsables solidarios del pago de este impuesto las personas físicas y morales que reciban servicios personales subordinados dentro del territorio del Estado cuando quien realice los pagos a que se refiere este capítulo resida fuera de este.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 4.
 
-Es base del Impuesto Sobre Nóminas, el monto total de los pagos por renumeraciones a que se refiere el artículo 2 de este capítulo, para cuya determinación se integrará con lo siguiente:
+Es base del Impuesto Sobre Nóminas, el monto total de los pagos por remuneraciones a que se refiere el artículo 2 de este capítulo, para cuya determinación se integrará con lo siguiente:
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
 
 Con los pagos hechos en efectivo por cuota diaria, comisiones, premios, gratificaciones, percepciones, anticipos, rendimientos, alimentación, habitación, primas dominicales, vacacionales y de antigüedad, horas extras, prestaciones en especie y cualquier otra cantidad o prestación que se le entregue al trabajador por sus servicios.
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
+(REFORMADO, P.O. 8 DE JUNIO DE 2003) (REPUBLICADO, P.O. 15 DE DICIEMBRE DE 2005)
 
 Se excluyen como integrantes de la base de este impuesto, dada su naturaleza, los pagos por los siguientes conceptos:
 
@@ -149,9 +163,11 @@ IX. El tiempo extraordinario dentro de los márgenes señalados en la Ley Federa
 
 Para que los conceptos mencionados en este precepto se excluyan como integrantes de la base del impuesto a que se refiere este capítulo, deberán estar debidamente registrados en la contabilidad del contribuyente.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 5.
 
-El impuesto se determinará aplicando a la base que señala el artículo anterior, la tasa del 1.1%.
+El impuesto se determinará aplicando a la base que señala el artículo anterior, la tasa del 2.0%.
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
 
@@ -173,9 +189,11 @@ En ningún caso se dejará de causar recargos por las diferencias que en su caso
 
 La opción a que se refiere este artículo no podrá variarla respecto al mismo ejercicio fiscal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 8.
 
-El entero de este impuesto se hará mediante declaración que se presentará en la oficina recaudadora que corresponda al lugar en que se efectuó el pago por concepto de remuneraciones al trabajo personal subordinado, o bien, en las oficinas autorizadas que correspondan, en las formas oficiales que apruebe la Secretaría de Finanzas y de Administración.
+El entero del Impuesto se hará mediante declaración que se presentará en la oficina recaudadora, que corresponda al lugar en que se efectuó el pago por concepto de remuneraciones al trabajo personal subordinado, o bien, en las oficinas autorizadas que correspondan, en las formas oficiales que apruebe la Secretaría de Finanzas y de Administración, si se elige la opción de pago vía Internet en línea, el impuesto se tendrá por pagado una vez que sea valorado por el Sistema.
 
 Tratándose de contribuyentes con establecimientos en diversos lugares del territorio del Estado, deberán presentar una sola declaración en la oficina recaudadora correspondiente a su domicilio fiscal, acumulando en la misma el importe de las erogaciones efectuadas por concepto de remuneraciones al trabajo personal subordinado.
 
@@ -183,9 +201,9 @@ Tratándose de contribuyentes con establecimientos en diversos lugares del terri
 
 Los sujetos de este impuesto están obligados a:
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
-I. Inscribirse ante la oficina recaudadora correspondiente a su domicilio fiscal en el Estado dentro del mes siguiente a la fecha de iniciación de sus operaciones, haciendo uso de las formas oficialmente aprobadas.
+I. Inscribirse ante la oficina recaudadora correspondiente a su domicilio fiscal en el Estado dentro del mes siguiente a la fecha de iniciación de sus operaciones haciendo uso de las formas oficialmente aprobadas.
 
 II. Dar aviso oportuno a la oficina recaudadora correspondiente, del cambio de domicilio, denominación social, suspención (sic) temporal y/o reanudación de actividades, conforme a los plazos establecidos en el Código Fiscal del Estado de Durango.
 
@@ -229,11 +247,11 @@ IV. Ejidos, comunidades, uniones de ejidos y de comunidades, la empresa social c
 
 V. Las Organizaciones de Sindicatos de Obreros, Organismos Empresariales, Asociaciones de Comerciantes e Industriales, Colegios o Asociaciones de Profesionistas, y Agrupaciones Políticas registradas conforme a la Ley de la materia, que no realicen actividades lucrativas.
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 12.
 
-Es facultad del titular del Poder Ejecutivo exentar del Impuesto Sobre Nóminas a las empresas de nueva creación, hasta por cuatro años, de conformidad con las reglas de carácter general que emita la Secretaría de Finanzas y de Administración.
+Es facultad del titular del Poder Ejecutivo exentar total o parcialmente del Impuesto Sobre Nóminas hasta por cuatro años, a las empresas de nueva creación o a aquellas que califiquen en las condiciones de desempeño por las que podrán ser estimuladas físicamente, de conformidad con lo establecido en la Ley de Desarrollo Económico del Estado, su Reglamento, las demás Leyes y disposiciones fiscales, y con las reglas de carácter general que emita la Secretaría de Finanzas y de Administración.
 
 ### CAPITULO II. DEL IMPUESTO PARA EL FOMENTO DE LA EDUCACION PUBLICA EN EL ESTADO
 
@@ -249,9 +267,11 @@ Son sujetos de este impuesto, las personas físicas y morales obligadas a contri
 
 La base gravable del impuesto es el monto total de las contribuciones establecidas en esta Ley excepto el impuesto establecido en este capítulo así como a las aportaciones especiales.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 16.
 
-El impuesto se determinará aplicando a la base gravable que establece el artículo anterior, la tasa del 25%.
+El impuesto se determinará aplicando a la base gravable que establece el artículo anterior, la tasa del 35%.
 
 ###### ARTICULO 17.
 
@@ -260,6 +280,10 @@ El pago del impuesto se efectuará en la oficina recaudadora, o bien, en la ofic
 ###### ARTICULO 18.
 
 El ingreso que se perciba por concepto de este impuesto se destinará preferentemente al fomento de la educación pública en el Estado.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2005)</small>
+
+ARTICULO 18 BIS.- Es facultad del titular del Poder Ejecutivo exentar total o parcialmente del Impuesto para el Fomento de la Educación Pública en el Estado, hasta por cuatro años, a las empresas de nueva creación o a aquellas que califiquen en las condiciones de desempeño por las que podrán ser estimuladas físicamente, de conformidad con lo establecido en la Ley de Desarrollo Económico del Estado, su Reglamento, las demás Leyes y disposiciones fiscales, y con las reglas de carácter general que emita la Secretaría de Finanzas y de Administración.
 
 ### CAPITULO III. DEL IMPUESTO POR SERVICIOS DE HOSPEDAJE
 
@@ -289,15 +313,19 @@ Para los efectos de este artículo, no formarán parte de la base gravable, el v
 
 Cuando los servicios de hospedaje incluyan servicios accesorios, tales como transporte, alimentación, uso de Instalaciones y otros similares, y en la documentación comprobatoria no se desglosen o desagreguen de tal forma que permitan acreditar la prestación de estos últimos, se entenderá que el valor de la contraprestación respectiva corresponde en su totalidad a servicios de hospedaje.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 22.
 
-El impuesto se determinará aplicando a la base gravable a que se refiere el artículo anterior, la tasa del 3.0%.
+El impuesto se determinará aplicando a la base gravable a que se refiere el artículo anterior, la tasa del 2.0%.
 
 ###### ARTICULO 23.
 
 Los prestadores de los servicios de hospedaje deberán efectuar la retención del impuesto que corresponda a los usuarios de los mismos, cuando sean exigibles las contraprestaciones correspondientes.
 
-El entero del impuesto se efectuará mediante declaración que los prestadores de los servicios, deberán presentar en la Oficina Recaudadora que corresponda a su domicilio fiscal en el Estado, o bien, en la oficina autorizada correspondiente, a más tardar el día diecisiete del mes siguiente a aquél en que efectuaron o debió efectuarse la retención del impuesto, en las formas que para tal efecto apruebe la Secretaría de Finanzas y de Administración.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2005)</small>
+
+El entero del impuesto se efectuará mediante declaración que los prestadores de los servicios, deberán presentar en la Oficina Recaudadora que corresponda a su domicilio fiscal en el Estado, o bien, en la oficina autorizada correspondiente, a más tardar el día 17 del mes siguiente a aquél en que efectuaron o debió efectuarse la retención del Impuesto, en las formas que para tal efecto apruebe la Secretaría de Finanzas y de Administración, si se elige la opción de pago vía Internet en línea, el impuesto se tendrá por pagado una vez que sea validado por el Sistema.
 
 Tratándose de contribuyentes con establecimientos en diversos lugares del territorio del Estado, deberán presentar una sola declaración en la Oficina Recaudadora correspondiente a su domicilio fiscal, o bien, en las oficinas autorizadas que correspondan, acumulando en la misma el valor total de las operaciones realizadas en los diversos establecimientos y el total del impuesto retenido.
 
@@ -317,59 +345,33 @@ I. Inscribirse ante la oficina recaudadora correspondiente a su domicilio fiscal
 
 II. Retener el impuesto correspondiente, y enterarlo en las oficinas autorizadas por los períodos y fechas establecidas a que se refiere el artículo 23 de este capítulo.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2005)</small>
+
 ### CAPITULO IV. DEL IMPUESTO SOBRE HONORARIOS POR SERVICIOS MEDICOS PROFESIONALES
 
 ###### ARTICULO 26.
 
-Es objeto de este impuesto, la percepción de ingresos dentro del territorio del Estado, por servicios médicos profesionales independientes, cuando su prestación requiera título de médico, médico veterinario o cirujano dentista conforme a las leyes respectivas.
-
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
-
-Para efectos de este impuesto el ingreso se considera percibido en el Estado cuando el contribuyente resida en el mismo o cuando residiendo fuera de éste, la fuente de ingresos se encuentre en el Estado.
-
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2005)
 
 ###### ARTICULO 27.
 
-Son sujetos de este impuesto, las personas físicas ya sea individualmente o por conducto de sociedades civiles que perciban los ingresos a que se refiere el artículo anterior.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2005)
 
 ###### ARTICULO 28.
 
-Es base de este impuesto el monto total de los ingresos percibidos a que se refiere el artículo 26 de esta Ley.
-
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2005)
 
 ###### ARTICULO 29.
 
-El impuesto se calculará aplicando la tasa que corresponda al total de los ingresos percibidos a que se refiere este capítulo, durante el trimestre por el que se calcula el impuesto, expresados en salarios mínimos diarios generales vigentes en el Estado, conforme a la siguiente tabla:
-
-Límite de Ingresos Inferior Límite de Ingresos Tasa
-
-Superior %
-
-De 0 Salarios Mínimos Hasta 500 Salarios Mínimos 0.0
-
-De 500.1 Salarios Mínimos Hasta 850 Salarios Mínimos 0.5
-
-De 850.1 Salarios Mínimos Hasta 1,100 Salarios Mínimos 1.0
-
-De 1.100.1 Salarios Mínimos Hasta 1,350 Salarios Mínimos 1.5
-
-De 1,350.1 Salarios Mínimos En adelante 2.0
-
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2005)
 
 ###### ARTICULO 30.
 
-El impuesto se pagará en forma trimestral por los períodos relativos de enero a marzo, abril a junio, julio a septiembre y octubre a diciembre, efectuándose el entero a más tardar el día diecisiete de los meses de abril, julio, octubre y enero del año siguiente, respectivamente, en la oficina recaudadora que corresponda al domicilio fiscal del contribuyente o bien en las oficinas autorizadas que corresponda, mediante declaración en las formas oficiales que apruebe la Secretaría de Finanzas y de Administración.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JUNIO DE 2003)</small>
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2005)
 
 ###### ARTICULO 31.
 
-Los sujetos de este impuesto, están obligados a inscribirse ante el Padrón Estatal de Contribuyentes en la Recaudación de Rentas correspondientes a su domicilio fiscal, dentro del mes siguiente a la fecha de entrada en vigor de esta Ley o dentro del mes siguiente a la fecha de inicio de operaciones, en las formas oficiales aprobadas por la Secretaría de Finanzas y de Administración.
-
-I. (DEROGADA, P.O. 8 DE JUNIO DE 2003)
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2005)
 
 ### CAPITULO V. DEL IMPUESTO SOBRE JUEGOS CON APUESTAS, RIFAS, LOTERIAS, SORTEOS Y PREMIOS
 
@@ -395,9 +397,9 @@ I. (DEROGADA, P.O. 8 DE JUNIO DE 2003)
 
 II. Las personas físicas o morales que organicen juegos con apuestas, rifas, loterías, sorteos y concursos de toda clase que se celebren en el Estado.
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
-III. Las personas físicas ó morales que obtengan ingresos en efectivo por premios derivados de juegos con apuestas, rifas, loterías, sorteos, y concursos de toda clase, y cuando el premio haya sido pagado o entregado en el Estado, no obstante que el organizador y el evento mismo de cuyo resultado dependen la obtención del ingreso, se encuentren y/o celebren dentro o fuera de la entidad.
+III. Las personas físicas y morales que obtengan ingresos en efectivo o en especie por premios derivados de juegos con apuestas, rifas, loterías, sorteos, y concursos de toda clase, independientemente de que el organizador y el evento mismo de cuyo resultado dependan la obtención del ingreso, se encuentren y/o celebren dentro o fuera de la entidad.
 
 > <small>(REFORMADA, P.O. 8 DE JUNIO DE 2003)</small>
 
@@ -483,9 +485,11 @@ Se entiende como vehículos automotores, los automóviles, omnibuses, camiones, 
 
 Para efectos de este impuesto, la base gravable será la cantidad mayor entre el valor de operación fijado por los contratantes y el de avalúo que determine la Secretaría de Finanzas y de Administración o los peritos autorizados por ésta.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 41.
 
-Este impuesto se determinará aplicando a la base gravable la tasa del 2.0%.
+Este impuesto se determinará aplicando a la base gravable una cuota fija de trescientos pesos.
 
 Los adquirentes de vehículos automotores usados deberán efectuar la retención del impuesto que corresponda a los sujetos de este impuesto al momento de realizar la operación y enterarlos en las fechas señaladas.
 
@@ -523,7 +527,11 @@ El entero del impuesto establecido en este Capítulo deberá pagarse en la ofici
 
 ### CAPITULO IV. DE LOS DERECHOS POR ACTOS DEL REGISTRO CIVIL
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 2005)</small>
+
 ### CAPITULO V. DE LOS DERECHOS POR SERVICIOS CATASTRALES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO VI. DE LOS DERECHOS POR SERVICIO DE CONTROL DE VEHICULOS Y POR EXPEDIClON DE CONCESIONES, PERMISOS Y AUTORIZACIONES DE RUTA
 
@@ -535,9 +543,11 @@ El entero del impuesto establecido en este Capítulo deberá pagarse en la ofici
 
 Los derechos por la prestación de servicios públicos en el Estado, se causarán en el momento en que el particular solicite la prestación del servicio, salvo que en la disposición que fije el derecho señale algo distinto.
 
+(REFORMADO, P.O. 15 DE DICIEMBRE DE 2005) (F. DE E., P.O. 19 DE ENERO DE 2006)
+
 ###### ARTICULO 46.
 
-Los derechos que señale este Ordenamiento deberán ser enterados en la Oficina Recaudadora de la Jurisdicción donde se preste el servicio o en el lugar que al efecto señale la Secretaría de Finanzas y de Administración.
+Los pagos de derechos que señale este Ordenamiento deberán ser enterados en la Oficina Recaudadora de la Jurisdicción donde se preste el servicio o en el lugar que al efecto señale la Secretaría de Finanzas y de Administración.
 
 ###### ARTICULO 47.
 
@@ -911,7 +921,123 @@ Por cada 10m3 de material. 3
 
 Los servicios que se presten por el Registro Público de la Propiedad y del Comercio causarán derechos conforme a un porcentaje de la base que corresponda o en días de salario o fracción del mismo de acuerdo a lo siguiente:
 
-(VEASE ARCHIVO ANEXO)
+DIAS DE SALARIO/ PORCENTAJE
+
+I.- La inscripción o registro de títulos, ya sea de documentos públicos o privados, de resoluciones judiciales, administrativas o de cualquier otra naturaleza por virtud de los cuales se adquiera, trasmita, modifique o extinga el dominio o la posesión de bienes inmuebles, sobre el monto que corresponda. 1.35%
+
+En estos casos; el monto que se determine como base para el pago de los derechos será la cantidad más alta que resulte del valor de la operación, valor catastral vigente al momento de solicitar la inscripción de avalúo bancario o el practicado por la Secretaría de Finanzas y de Administración.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
+
+Tratándose de la primera enajenación de vivienda, no causarán los derechos por el registro, cuando las mismas se encuentren edificadas en una superficie no mayor de 180m2 de terreno y tenga una superficie construida máxima de 80 m2 y cuyo valor no exceda de la cantidad que resulte de multiplicar por quince el salario mínimo general diario vigente en el Estado elevado al año.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
+
+Tratándose de la primera enajenación de vivienda, que se encuentre edificada en una superficie no mayor de 180m2 y tenga una superficie construida máxima de 100 2m y cuyo valor no exceda de la cantidad que resulte de multiplicar por veinticinco el salario mínimo general diario vigente en el Estado elevado al año, tendrán derecho a una reducción del 50% en el monto del derecho que se cause.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
+
+No causarán los derechos por el registro de la primera enajenación de terrenos cuyo valor no exceda de multiplicar tres veces el salario mínimo general diario vigente en el Estado elevado al año, y que tenga una superficie no mayor de 180 m2.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
+
+Tendrán derecho a una reducción del 50% en el monto del derecho que se cauce por el registro de la primera enajenación de los terrenos, cuyo valor no exceda de multiplicar cinco veces el salario mínimo general diario vigente en el Estado, elevado al año y que tenga una superficie no mayor a 180m2.
+
+II.- La inscripción de gravámenes sobre inmuebles por contratos; por resoluciones judiciales; por disposición testamentaria; por títulos que limiten el dominio del vendedor; por embargos; deudas hipotecarias; servidumbres y fianzas; por títulos en virtud de los cuales se adquieran, trasmitan, modifiquen o extingan derechos reales sobre inmuebles distintos de dominio; sobre el monto de la obligación garantizada o sobre el monto de la operación, según corresponda. 1.0%
+
+III.- La cancelación de la inscripción a que se refiere la fracción anterior, sobre el monto de la obligación garantizada o sobre el monto de la operación, según corresponda. 0.15%
+
+(REFORMADA, P.O. 15 DE DICIEMBRE DE 2005) (F. DE E., P.O. 19 DE ENERO DE 2006)
+
+IV.- La inscripción de contratos de créditos hipotecarios, prendarios, refaccionarios y de habilitación y avío, celebrados por instituciones de crédito, de seguros o fianzas y organizaciones auxiliares o por sociedades financieras de objeto limitado, sobre el monto de la operación. 0.50%
+
+V.- El registro de la reestructuración de créditos, cuando ésta no implique financiamiento adicional o constitución de gravamen, sobre el monto de la operación. 0.25%
+
+En los casos a que se refiere la fracción anterior, las cancelaciones no causarán derecho alguno.
+
+VI.- El registro de la cédula hipotecaria, sobre su valor 1%
+
+VII.- La inscripción de la constitución del patrimonio familiar. Exento
+
+VIII.- La cancelación del registro del patrimonio familiar. Exento
+
+IX.- La inscripción de las informaciones ad-perpetuam, sobre el valor catastral del inmueble. 1.35%
+
+X.- La cancelación del registro de la información ad-perpetuam, sobre el valor catastral del inmueble. 3
+
+Xl.- El depósito de testamentos ológrafos o cualquier otro documento. 5
+
+XlI.- Si el depósito de testamento ológrafo se hace fuera de la oficina del registro 10
+
+XIII.- La inscripción de cualquier clase de testamento. 5
+
+XIV.- La inscripción de resoluciones dictadas en juicios sucesorios. 5
+
+XV.- La cancelación de la inscripción a que se refiere la fracción anterior. 3
+
+XVI.- La inscripción de la autorización de fraccionamientos de terrenos, por cada lote. 1
+
+XVII.- La inscripción de la escritura por la cual se constituya el régimen de condominios de un inmueble, por cada departamento, despacho o local. 1
+
+XVIII.- La inscripción de contratos mercantiles o civiles no incluidos en otras fracciones de este artículo. 5
+
+XIX.- La inscripción de contratos relativos a bienes muebles en los que se estipule una condición resolutoria o la transmisión con reserva de dominio, sobre el monto de la operación 0.70%
+
+XX.- La inscripción de contratos de corresponsalía de instituciones de crédito. 5
+
+XXI.- La cancelación de la inscripción a que se refiere la fracción anterior. 3
+
+XXII.- La inscripción de gravámenes sobre bienes muebles, sobre el monto de la operación garantizada. 0.70%
+
+'
+
+XXIII.- La inscripción de los convenios modificatorios que no afecten capital, o contratos mercantiles que den lugar a inscripción complementaria para su perfeccionamiento. 5
+
+XXIV.- La inscripción de escrituras constitutivas de personas morales y de aumentos de capital o patrimonio, sobre el capital, patrimonio o aumento establecido. 0.60%
+
+En los casos que no se establezca capital o patrimonio. 10
+
+XXV.- La inscripción de cualquier modificación a la escritura constitutiva de personas morales que no implique aumento de capital o patrimonio. 5
+
+XXVI.- La inscripción de actas de emisión de bonos u obligaciones de personas morales, o cualquier otro instrumento bursátil, sobre el valor de la emisión. 1.5%
+
+XXVII.- La inscripción de actas de asambleas de socios, accionistas de consejo de administración o de cualquier otro tipo no estipuladas en otras fracciones de este articulo, referidas a personas morales. 5
+
+XXVIII.- La cancelación de la inscripción del registro de escrituras constitutivas de personas morales. 3
+
+XXIX.- Si como consecuencia de la liquidación de la persona moral se adjudican bienes inmuebles, sobre el valor de adjudicación. 1.35%
+
+XXX.- La inscripción de poderes y sustitución de los mismos, por cada uno. 2
+
+XXXI.- La inscripción de revocación de poderes, por cada uno. 1
+
+XXXII.- La ratificación de documentos públicos o privados o de firmas ante el registro. 2
+
+XXXIII.- La búsqueda de constancias o datos para la expedición de certificados o informes, por cada período de 5 años o fracción. 1
+
+XXXIV. La expedición de certificados o certificaciones relativas a las constancias del registro, independientemente de la búsqueda, por cada hoja. 1
+
+XXXV.- La expedición de copia simple, por cada hoja 0.20
+
+XXXVI.- Los informes que se rindan por escrito, a solicitud de las autoridades incluyendo la búsqueda. 2
+
+XXXVII.- La inscripción de las capitulaciones matrimoniales y sus modificaciones. 1
+
+XXXVlll.- El examen de todo documento, sea público o privado, que se presente al registro para su inscripción, cuando se rehuse ésta por no ser inscribible o cuando se devuelva sin inscribir a petición del interesado o por resolución judicial. 1
+
+XXXIX.- La inscripción de resoluciones judiciales en que se declare una quiebra o suspensión de pagos o se admita una liquidación judicial. 5
+
+XL.- Cada búsqueda de datos o constancias para informes y certificados. 1
+
+XLI.- Cada anotación marginal. 1
+
+XLII.- La expedición de cada certificado de libertad o existencia de gravámenes, incluyendo la búsqueda. 3
+
+XLIII.- La expedición de cada certificado de no propiedad o de existencia de propiedad, incluyendo la búsqueda. 3
+
+XLIV.- En los casos de servicios no previstos expresamente en este artículo, sobre el valor o monto que corresponda, 1.35%
+
+o cuando no exista valor o monto. 5
 
 ###### ARTICULO 53.
 
@@ -943,13 +1069,143 @@ III. Por los informes que soliciten las autoridades para asuntos Penales o para 
 
 Los derechos por concepto de legalización de firmas, certificación y expedición de copias de documentos por funcionarios competentes del Gobierno del Estado y registro en el padrón de proveedores, se causarán en base a días de salario o fracción del mismo, conforme a lo siguiente:
 
-(VEASE ARCHIVO ANEXO)
+DIAS PORCENTAJE
+
+DE
+
+SALARIO
+
+I.- Legalización de firmas:
+
+a) Asentadas por el Ejecutivo. 5
+
+b) Asentadas por otros funcionarios
+
+competentes. 2
+
+II.- Certificación de firmas en actas
+
+constitutivas de sociedades cooperativas. 1
+
+III.- Certificación de no adeudo. 1
+
+IV.- Copias certificadas de documentos por
+
+hoja. 1
+
+V.- Expedición de copias simples de
+
+documento, por hoja. 0.20
+
+VI.- Oficio de opinión del ejecutivo para
+
+compra, transporte o almacenamiento de
+
+explosivos y sus artificios. 5
+
+(REFORMADA, P.O. 15 DE DICIEMBRE DE 2005) (F. DE E., P.O. 19 DE ENERO DE 2006)
+
+VII.- Expedición de constancias de existencia o no,
+
+de antecedentes penales o de cualquier otra
+
+constancia. 1
+
+VIII.- Cualquier otro certificado o certificación
+
+que se expida distinta de las mencionadas en
+
+este articulo. 5
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2003)</small>
+
+IX.- Registro administrativo
+
+a) De avisos notariales 1
+
+b) De poderes en escrito privado
+
+o carta poder 1
+
+X.- Oficio de opinión para la realización de
+
+carreras de caballos, peleas de gallos y
+
+palenques. 30
+
+XI.- Oficio de opinión para la realización de
+
+rifas y sorteos. 15
+
+XII.- Apostillamiento de documentos. 2
+
+XIII.- Inscripción en el Padrón de
+
+Proveedores. 17
+
+XIV.- Por las publicaciones que se hagan en
+
+el Periódico Oficial conforme a lo siguiente:
+
+a) Por una plana. 14
+
+b) Por media plana. 8
+
+c) Por un cuarto de plana o menos. 3
+
+(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2005) (F. DE E., P.O. 19 DE ENERO DE 2006)
+
+###### ARTÍCULO 57 Bis.
+
+Las personas físicas y morales que soliciten información, ante el ente público que la posea, mediante el procedimiento de acceso a la información pública que establece la propia Ley de Acceso a la Información Pública del Estado de Durango, causarán el pago de derechos en base a días de salario o fracción del mismo, conforme a lo siguiente:
+
+DÍAS DE PORCENTAJE
+
+SALARIO
+
+> <small>(F. DE E., P.O. 19 DE ENERO DE 2006)</small>
+
+I.- Copias certificadas de documentos
+
+solicitados, por hoja. 1.0
+
+II.- Expedición de copias simples de
+
+Documentos solicitados, impresas
+
+en papel, por hoja. 0.05
+
+III.- Facilitamiento o apoyo electrónico
+
+para copiar en medios magnéticos
+
+proporcionados por el solicitante la
+
+información requerida, por kilo byte. 0.01
+
+IV.- Expedición en medios magnéticos o
+
+electrónicos del ente público, de copias
+
+simples de documentos solicitados,
+
+por kilo byte. 0.03
+
+V.- Por envío de información al interior
+
+Del Estado, mediante servicios de
+
+mensajería o correo, por documento
+
+remitido, sin importar la forma de su
+
+impresión. 3.0
 
 ### CAPITULO UNICO
 
 ###### ARTICULO 58.
 
-Los servicios que se presten por el Registro Civil causarán derechos, cuya cuota se fije en base a días de salario, conforme a lo siguiente:
+Los servicios que se presten por el Registro Civil causarán el pago de Derechos, en base a días de salario o fracción del mismo, conforme a lo siguiente:
 
 (VEASE ARCHIVO ANEXO)
 
@@ -957,11 +1213,13 @@ Los servicios que se presten por el Registro Civil causarán derechos, cuya cuot
 
 ###### ARTICULO 59.
 
-Los servicios que preste la Dirección General de Catastro, o sus delegaciones, causarán derechos, conforme a un porcentaje de la base que corresponda, o en días de salario mínimo o fracción del mismo, de acuerdo a lo siguiente:
+Los servicios que preste la Dirección General de Catastro, o sus delegaciones, causarán derechos, en días de salario mínimo o fracción del mismo, de acuerdo a lo siguiente:
 
 (VEASE ARCHIVO ANEXO)
 
 ### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 60.
 
@@ -983,15 +1241,19 @@ placas, reposición, canje o replaqueo
 
 en la forma siguiente:
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE DICIEMBRE DE 2005)</small>
 
 1.- Automóviles, camiones y autobuses
 
-para uso particular:
+para uso particular.
 
-a) Modelo 1990 y anteriores 15
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
-b) Modelo 1991 y posteriores 21
+a) Modelo 1990 y anteriores 16
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2005)</small>
+
+b) Modelo 1991 y posteriores 22
 
 2.- Camiones de carga, grúas, automóviles y
 
@@ -1009,23 +1271,27 @@ excepto agrícolas. 17
 
 II. Expedición de engomado y tarjeta de circulación por refrendo anual para los vehículos que cuenten con juego de placas:
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE DICIEMBRE DE 2005)</small>
 
 1.- Automóviles, camiones y autobuses
 
-para uso particular:
+para uso particular.
 
-a) Modelo 1990 y anteriores 10
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
-b) Modelo 1991 y posteriores 17
+a) Modelo 1990 y anteriores 12
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2005)</small>
+
+b) Modelo 1991 y posteriores 19
 
 2.- Camiones de carga, grúas, automóviles y
 
 autobuses de servicio público. 21
 
-3.- Remolques, tractores similares, excepto
+3.- Remolques, tractores similares,
 
-agrícolas. 14
+excepto agrícolas. 14
 
 4.- Motocicletas, motonetas y similares. 6
 
@@ -1033,9 +1299,17 @@ agrícolas. 14
 
 6.- Placas de demostración. 18
 
-III. Por la expedición de permisos provisionales
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
-para circulación de vehículos, hasta por 15 días. 6
+III. Por la expedición de permisos provisionales para
+
+circulación de vehículos:
+
+a) Hasta por 15 días. 6
+
+b) Segundo Permiso hasta por quince días. 26
+
+c) Tercer Permiso hasta por quince días. 50
 
 IV. Reposición de tarjetas de circulación. 7
 
@@ -1051,7 +1325,9 @@ V. Por los avisos de actualización de datos al padrón de vehículos:
 
 > <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2003)</small>
 
-5.- Cambio de vehículo en el servicio público 4
+5.- Cambio de vehículo en el servicio
+
+público 4
 
 VI. Por la inspección o revisión de automóviles,
 
@@ -1073,21 +1349,23 @@ b) Motociclista. 4
 
 2. Con vigencia de cuatro años:
 
-a) Chofer de servicio público. 8
+a) Chofer de servicio público 8
 
-b) Chofer de servicio particular. 8
+b) Chofer de servicio particular 8
 
-II. Examen médico para obtener licencia de
+II. Examen médico para obtener licencia de manejo o
 
-manejo o en su caso el requerido por infracciones
+en su caso el requerido por infracciones a la Ley de
 
-a la Ley de Tránsito de los Municipios. 2
+Tránsito de los Municipios. 2
 
 > <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2003)</small>
 
 III. Examen médico para obtener licencia de
 
-manejo para chofer de servicio público o particular; 2
+manejo para chofer de servicio público o
+
+particular; 2
 
 > <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2003)</small>
 
@@ -1097,15 +1375,17 @@ de chofer de servicio público o particular; 2
 
 > <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2003)</small>
 
-V. Examen teórico práctico para obtener licencia
+V. Examen teórico práctico para obtener
 
-de chofer de servicio público o particular. 2
+licencia de chofer de servicio público o
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
+particular. 2
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 61.
 
-Los derechos por canje de placas de circulación; refrendo anual; ratificación anual de concesiones, permisos o autorizaciones; explotación de permisos de ruta anual; expedición de tarjetas de circulación y engomados, deberán pagarse dentro de los primeros tres meses de cada año de calendario. Este plazo podrá ser ampliado por acuerdo del Ejecutivo del Estado.
+Los derechos por canje de placas de circulación; refrendo anual; ratificación anual de concesiones, permisos o autorizaciones; explotación de permisos de ruta anual; expedición de tarjetas de circulación y engomados, deberán pagarse dentro de los primeros tres meses de cada año de calendario en las oficinas autorizadas que corresponda, en las formas fiscales que aprueba la Secretaría de Finanzas y de Administración, si se elige la opción de pago vía Internet en línea; el impuesto se tendrá por pagado una vez que sea valorado por el sistema. El plazo podrá ser ampliado por acuerdo del Ejecutivo del Estado.
 
 ###### ARTICULO 62.
 
@@ -1135,7 +1415,17 @@ Para efectos de la aplicación de la tarifa a que se refiere el apartado B del A
 
 Los derechos por expedición de concesiones, permisos o autorizaciones, se causarán en base a días de salario conforme a lo siguiente:
 
-I. Por el otorgamiento de concesiones:
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2001)</small>
+
+DÍAS DE PORCENTAJE
+
+SALARIO
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2001)</small>
+
+I. Por el otorgamiento de concesiones,
+
+permisos o autorizaciones:
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2001)</small>
 
@@ -1185,29 +1475,83 @@ fracción, causará anualmente el 5% del importe del derecho
 
 que corresponda.
 
-II. Por el otorgamiento del permiso anual para el transporte de
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2003)</small>
 
-servicio particular a solicitud del interesado:
+5. Para la prestación del servicio público
 
-1. Vehículos para el transporte de educandos y de
+de transporte de personas:
 
-personal: 24
+a) Especializado de personal escolar y
 
-2. Vehículos denominados pipas y tanques para el
+turístico 250
 
-transporte de líquidos y gaseosos: 20
+b) Servicio de transporte especial adaptado
 
-A) Hasta de 3 ejes 24
+para personas con discapacidad, adultos
 
-B) Más de 3 ejes
+mayores y público en general 250
 
-3. Vehículos para el transporte de productos o artículos
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2003)</small>
 
-conexos a las actividades comerciales o industriales,
+6. Por la expedición de autorizaciones
 
-con exención de las actividades agropecuarias
+provisionales a que se refiere el artículo
 
-y forestales. 20
+102 de la Ley de Transportes del Estado
+
+de Durango. 5
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2003)</small>
+
+7. Por la prórroga de concesiones y
+
+permisos, el 30% del importe del derecho
+
+por el otorgamiento de los mismos.
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2003)</small>
+
+II. Por el otorgamiento del permiso anual
+
+para el transporte de servicio particular y
+
+mercantil a que se refiere el Capítulo Décimo
+
+Segundo del Reglamento de la Ley de
+
+Transportes del Estado de Durango:
+
+1. Vehículos para el transporte de
+
+escolares por la propia institución
+
+educativa. 24
+
+2. Vehículos para el transporte de
+
+personal por la propia empresa,
+
+industria o comercio. 20
+
+3. Vehículos para el transporte de
+
+vehículos mediante grúas propiedad
+
+de los propios talleres de servicio. 20
+
+4. Vehículos para el transporte de
+
+productos o artículos propios de la
+
+actividad comercial, industrial, pesquera,
+
+minera o de la construcción que los
+
+propietarios de las unidades desarrollan,
+
+con excepción de las actividades
+
+agropecuarias y forestales. 20
 
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2001)</small>
 
@@ -1237,23 +1581,27 @@ y hasta de 5 tons. 5
 
 C) Vehículos de capacidad de más de 5 tons. 8
 
-V. Por la ampliación y cambio de ruta, el 30% del importe
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2003)</small>
 
-correspondiente al permiso a que se refiere la fracción IV.
+V. Por la ampliación y cambio de ruta, el
+
+30% del importe correspondiente al permiso
+
+a que se refiere la fracción IV de este artículo.
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 67.
 
-La inscripción en el padrón de propietarios y poseedores de vehículos automotores de procedencia extranjera a que se refiere el artículo 70 de la Ley de Coordinación de Seguridad Pública en el Estado de Durango, causarán derechos.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2005)
 
 ###### ARTICULO 68.
 
-Los derechos por inscripción en el padrón de propietarios y poseedores de vehículos automotores de procedencia extranjera, se causarán basándose en días de salario o fracción del mismo, conforme a lo siguiente:
-
-(VEASE ARCHIVO ANEXO)
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2005)
 
 ###### ARTICULO 69.
 
-Los derechos por inscripción en el padrón de propietarios y poseedores de vehículos automotores de procedencia extranjera se consideraran reducidas en un 30% cuando se traten de vehículos de trabajo tipo pick - up.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2005)
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 8 DE JUNIO DE 2003)</small>
 
@@ -1309,6 +1657,14 @@ VII. Las herencias, donaciones y legados.
 
 VIII. En general cualquier otro ingreso no clasificable como impuesto, derecho, producto y aportaciones especiales.
 
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2005)</small>
+
+IX. Los aprovechamientos originados por conceptos de recargos, garantías, multas y reintegros.
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2005)</small>
+
+X. Los que se deriven de concesiones y contratos a favor del Estado.
+
 ## TITULO SEXTO. DE LOS INGRESOS EXTRAORDINARIOS
 
 ###### ARTICULO 72.
@@ -1321,11 +1677,19 @@ II. Aportaciones extraordinarias del Gobierno Federal, de Organismos Públicos o
 
 III. Otros que no se encuentren comprendidos en las fracciones anteriores.
 
-## TITULO SEPTIMO. DE LOS INGRESOS COORDINADOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE DICIEMBRE DE 2005)</small>
+
+## TITULO SEPTIMO. DE LOS INGRESOS FEDERADOS
 
 ###### ARTICULO 73.
 
-Son ingresos coordinados las participaciones en ingresos federales y los fondos de aportación y se percibirán de acuerdo a lo dispuesto en la Ley de Coordinación Fiscal, el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal y el Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos.
+Son ingresos coordinados las participaciones en ingresos federales y se percibirán de acuerdo a lo dispuesto en la Ley de Coordinación Fiscal, el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal y el Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2005)</small>
+
+###### ARTICULO 74.
+
+Son ingresos por fondos de aportación, los recursos que transfiere la federación, según lo dispuesto en el Capítulo V de la Ley de Coordinación Fiscal, clasificados como Ramo 33 en el Presupuesto de Egresos de la Federación.
 
 T R A N S I T O R I O S
 
@@ -1384,3 +1748,13 @@ P.O. 8 DE JUNIO DE 2003.
 P.O. 18 DE DICIEMBRE DE 2003.
 
 ÚNICO.- El presente Decreto entrará en vigor en el Estado de Durango a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 15 DE DICIEMBRE DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que contravengan el presente decreto.
