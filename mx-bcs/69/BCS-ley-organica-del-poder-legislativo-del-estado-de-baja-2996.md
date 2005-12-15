@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "2005-11-10"
+last_updated: "2005-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 15 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -467,11 +467,11 @@ DE LAS COMISIONES.
 
 Para facilitar el despacho de los negocios del Congreso, se nombrarán Comisiones Permanentes y Especiales que los estudien y dictaminen, proponiéndo los proyectos de resoluciones que estimen procedentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE JUNIO DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 15 DE DICIEMBRE DE 2005)</small>
 
-###### ARTICULO 54.
+###### ARTÍCULO 54.
 
-Las comisiones permanentes serán:
+Las Comisiones Permanentes serán:
 
 I.- DE PUNTOS CONSTITUCIONALES Y DE JUSTICIA.
 
@@ -518,6 +518,10 @@ XIX.- DE EQUIDAD Y GENERO.
 > <small>(ADICIONADA, B.O. 20 DE JUNIO DE 2000)</small>
 
 XX.- DE SEGURIDAD PUBLICA.
+
+> <small>(ADICIONADA, B.O. 15 DE DICIEMBRE DE 2005)</small>
+
+XXI.- DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA.
 
 ###### ARTICULO 55.
 
@@ -724,6 +728,14 @@ e) Lo relativo a la normatividad y demás aspectos relacionados con la protecci�
 > <small>(ADICIONADO [N. DE E. REUBICADO], B.O. 10 DE NOVIEMBRE DE 2005)</small>
 
 f).- En general, toda la legislación relacionada con la Seguridad Pública.
+
+> <small>(ADICIONADA, B.O. 15 DE DICIEMBRE DE 2005)</small>
+
+XXI.- DE LA COMISIÓN DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA:
+
+a) Las normas relativas a la transparencia y acceso a la información pública, y en general, todo asunto relacionado con la materia.
+
+b) Las demás que le señale la Directiva del Congreso.
 
 ###### ARTICULO 56.
 
@@ -1199,7 +1211,7 @@ ARTICULO 106 BIS.- Las comunicaciones oficiales que envían a este Congreso del 
 
 I.- Las comunicaciones oficiales provenientes de otras Legislaturas locales, de la Cámara de Senadores o de la Cámara de Diputados del Honorable Congreso de la Unión, con anexos de dictámenes que contengan puntos resolutivos, mediante los cuales exhorten a este Congreso a realizar una acción determinada, soliciten su adhesión para ciertos efectos, o planteen cualquier tipo de solicitud, serán leídos dichos dictámenes y se pondrán a consideración de la Asamblea en la misma sesión ordinaria en que se dieron cuenta al Pleno, para que este resuelva lo que corresponda respecto a lo planteado en sus puntos resolutivos y tomando en cuenta los considerandos que llevaron a los mismos;
 
-II.-Cualquier Diputada o Diputado, en caso de considerar que por su complejidad el asunto amerita un análisis acucioso, podrá solicitar al Presidente de la Mesa Directiva del Congreso del Estado poner a consideración del Pleno que se turne a la Comisión Permanente que corresponda, pudiéndose registrar una participación en tribuna a favor y otra en contra, y sometiendo a votación económica tal solicitud. En caso de ser rechazada esta, se procederá a la discusión del fondo del asunto o a la votación respectiva, según el momento en que se haga la mencionada solicitud;
+II.- Cualquier Diputada o Diputado, en caso de considerar que por su complejidad el asunto amerita un análisis acucioso, podrá solicitar al Presidente de la Mesa Directiva del Congreso del Estado poner a consideración del Pleno que se turne a la Comisión Permanente que corresponda, pudiéndose registrar una participación en tribuna a favor y otra en contra, y sometiendo a votación económica tal solicitud. En caso de ser rechazada esta, se procederá a la discusión del fondo del asunto o a la votación respectiva, según el momento en que se haga la mencionada solicitud;
 
 III.- Para el supuesto de que el asunto se discuta y resuelva en la misma sesión en la que se dio cuenta al Pleno, el trámite consistirá en el registro de las participaciones de las Diputadas y Diputados que así lo solicitaren, pudiendo hacer una propuesta concreta de modificación o adición de los puntos resolutivos que contenga el dictamen en cuestión. Una vez discutido, el asunto se votará en forma nominal, y resuelto el mismo, el Presidente de la Mesa Directiva ordenará al Oficial Mayor que envíe el oficio respectivo para comunicar a la Legislatura de origen el acuerdo tomado por el Congreso del Estado de Baja California Sur, recaído a su solicitud de adhesión, a su exhorto o petición concreta que haya formulado;
 
@@ -1367,7 +1379,7 @@ Si en el curso de las discusiones, el orador, con el propósito de allegar más 
 
 ###### ARTICULO 133.
 
-Los integrantes de la Comisión Dictaminadora y él o los Diputados autores de la iniciativa, podrán hacer uso de la palabra en la discusión de un negocio, aún sin haberse inscrito y cuantas veces la soliciten.
+Los integrantes de la Comisión Dictaminadora y el o los Diputados autores de la iniciativa, podrán hacer uso de la palabra en la discusión de un negocio, aún sin haberse inscrito y cuantas veces la soliciten.
 
 ###### ARTICULO 134.
 
@@ -2040,3 +2052,7 @@ B.O. 10 DE NOVIEMBRE DE 2005.
 DECRETO NUMERO 1569.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 15 DE DICIEMBRE DE 2005.
+
+ÚNICO.- El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
