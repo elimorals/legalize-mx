@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-hacienda-municipal-del-estado-libre-y-soberano-de-23383"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-17"
-last_updated: "2003-04-11"
+last_updated: "2005-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ABRIL DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el lunes 17 de diciembre de 2001.
 
@@ -87,9 +87,11 @@ V. Ley de Ingresos del Municipio.- El cuerpo normativo así denominado vigente, 
 
 VI. Ley de Hacienda Municipal.- La Ley de Hacienda Municipal del Estado Libre y Soberano de Puebla.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 4.
 
-La presente Ley no es aplicable al Municipio de Puebla.
+La presente Ley no es aplicable a los Municipios de Puebla y Tehuacan.
 
 ###### Artículo 5.
 
@@ -1096,3 +1098,13 @@ P.O. 11 DE ABRIL DE 2003.
 PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día siguiente de su publicación.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 16 DE DICIEMBRE DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Los procedimientos que a la entrada en vigor del presente Decreto se encuentren pendientes de resolución serán concluidos de conformidad con la Ley de Hacienda Municipal del Estado de Puebla.
+
+CUARTO.- Las disposiciones legales, acuerdos, órdenes, circulares en que se haga mención a la Ley de Hacienda Municipal del Estado de Puebla, se entenderá a la fecha de entrada en vigor del presente Decreto que se refieren a la Ley de Hacienda para el Municipio de Tehuacan.
