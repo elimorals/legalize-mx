@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-responsabilidades-de-los-servidores-publicos-del-10645"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-29"
-last_updated: "2004-12-30"
+last_updated: "2005-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 29 de enero de 1997.
 
@@ -511,9 +511,15 @@ LXI. Preservar el secreto de los asuntos de seguridad pública que por razón de
 
 LXII. Cumplir con las obligaciones y abstenerse de cometer las prohibiciones señaladas en la Ley Orgánica de los Cuerpos de Seguridad Pública del Estado, la Ley del Sistema de Seguridad Pública del Estado y demás leyes, convenios o Acuerdos de Coordinación que se establezcan y que por razón de su encargo, empleo o comisión se le hayan encomendado a su función;
 
-LXIII. Desempeñar su función pública sin solicitar ni aceptar compensaciones, pagos o gratificaciones distintas a las previstas por la Ley. En particular se opondrán a cualquier acto de corrupción; y
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2005)</small>
 
-LXIV. Las demás que le impongan las leyes y disposiciones reglamentarias o administrativas.
+LXIII.- Desempeñar su función pública sin solicitar ni aceptar compensaciones, pagos o gratificaciones distintas a las previstas por la Ley. En particular se opondrán a cualquier acto de corrupción;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2005)</small>
+
+LXIV.- Abstenerse de otorgar licencias o permisos en materia de desarrollo urbano en contravención a las leyes, normas, sistemas y procedimientos establecidos en zonas de riesgo. En los demás casos, se estará a lo que establezcan las demás disposiciones de esta Ley; y
+
+LXV.- Las demás que le impongan las leyes y disposiciones reglamentarias o administrativas.
 
 ### CAPÍTULO II. DE LAS SANCIONES POR RESPONSABILIDAD ADMINISTRATIVA
 
@@ -587,9 +593,11 @@ III. Cuando no exista lucro o beneficio personal pero si existan daños y perjui
 
 IV. Cuando se trate del incumplimiento de las obligaciones a cargo del servidor público que establece el artículo 50 de esta ley, que no implique lucro o beneficio personal ni daño o perjuicio al erario público estatal o municipal o al patrimonio de sus respectivos organismos del sector paraestatal, se impondrá el apercibimiento o la amonestación o una multa de hasta noventa veces la percepción diaria del empleo, cargo o comisión del servidor público. En los casos graves se podrá imponer además, la suspensión del empleo, cargo o comisión hasta de tres meses o la destitución o inhabilitación del cargo hasta de diez años.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 58.
 
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 2004)
+A quien cometa las infracciones señaladas en la fracción LXIV del artículo 50 de esta Ley, se impondrá una multa de uno hasta cuatro tantos del lucro o beneficio obtenido y una sanción resarcitoria equivalente hasta el monto de los daños y perjuicios causados. En este caso se impondrá además, la destitución y la inhabilitación para el desempeño de un empleo, cargo o comisión públicos hasta de veinte años.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
@@ -1368,3 +1376,7 @@ Artículo Segundo.- Los procedimientos para determinar responsabilidades adminis
 Artículo Tercero.- Los servidores públicos que ocupen los cargos, empleos o comisiones que el presente Decreto establece como nuevos obligados a presentar la manifestación de bienes, tendrán que cumplir con dicha obligación dentro de los sesenta días hábiles siguientes a la entrada en vigencia de este Decreto.
 
 Artículo Cuarto.- El Titular del Ejecutivo dispondrá lo conducente al igual que los Ayuntamientos para emitir, en un plazo no mayor a ciento ochenta días hábiles, contados a partir de la entrada en vigor de este ordenamiento, el Código de Ética, en términos de lo dispuesto en el artículo 140 de esta Ley.
+
+P.O. 16 DE DICIEMBRE DE 2005.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
