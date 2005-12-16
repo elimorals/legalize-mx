@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-estado-de-quintana-roo-10740"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2004-12-20"
+last_updated: "2005-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -91,23 +91,69 @@ Es objeto del Impuesto, la enajenación de vehículos de motor usados, así como
 
 I.- Para los efectos de este impuesto, se considera enajenación de vehículos y bienes muebles:
 
-a).- Toda transmisión de la propiedad sobre los mismos, aún en la que el enajenante se reserve el dominio;
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2005)</small>
 
-b).- La donación;
+a).- Toda transmisión de la propiedad sobre los mismos, aún en la que el enajenante se reserve el dominio.
 
-c).- Por herencia o legado;
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2005)</small>
 
-d).- La aportación a una sociedad o asociación;
+b).- La donación.
 
-e).- La dación en pago, y
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2005)</small>
+
+c).- Por herencia o legado.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2005)</small>
+
+d).- La aportación a una sociedad o asociación.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2005)</small>
+
+e).- La dación en pago, y (sic)
 
 f).- La permuta.
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2005)</small>
 
-g) Los demás supuestos comprendidos en el Código Fiscal del Estado.
+g) Las adjudicaciones, aún cuando se realicen a favor del acreedor.
 
-Cuando se trate de permuta, se considera que existe doble enajenación.
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2005)</small>
+
+h).-La que se realiza mediante el arrendamiento financiero.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2005)</small>
+
+i).-La que se realiza a través del fideicomiso, en los siguientes casos:
+
+1.-En el acto en que el fideicomitente designa o se obliga a designar fideicomisario diverso de él y siempre que no tenga derecho a readquirir el fiduciario los bienes.
+
+2.-En el acto en el que el fideicomitente pierda el derecho a readquirir los bienes del fiduciario, si se hubiera reservado tal derecho.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2005)</small>
+
+j).-La cesión de los derechos que se tengan sobre los bienes afectados al fideicomiso, en cualquiera de los siguientes momentos:
+
+1.-En el acto en que el fideicomisario designado ceda sus derechos o dé instrucciones al fiduciario para que transmita la propiedad a un tercero. En estos casos se considera que el fideicomisario adquiere los bienes en el acto de su designación y que los enajena en el momento de ceder sus derechos o de dar dichas instrucciones.
+
+2.-En el acto en que el fideicomitente ceda sus derechos si entre estos se incluye el de que los bienes se transmitan a su favor.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2005)</small>
+
+k).-La transmisión de dominio de un bien tangible o del derecho para adquirirlo que se efectúe a través de enajenación de títulos de crédito o de la cesión de derechos que los representen.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2005)</small>
+
+l).-La transmisión de derechos de crédito relacionados a proveeduría de bienes, de servicios o de ambos a través de un contrato de factoraje financiero en el momento de la celebración de dicho contrato, excepto cuando se transmitan a través de factoraje con mandato de cobranza o con cobranza delegada, así como en el caso de transmisión de derechos de crédito a cargo de personas físicas en los que se considerará que existe enajenación hasta el momento en que se cobren los créditos correspondientes.
+
+Se entiende que se efectúan enajenaciones a plazo con pago diferido o en parcialidades, cuando se efectúen con clientes que sean público en general, se diferirá mas del 35% del precio para después del sexto mes y el plazo pactado exceda de doce meses.
+
+Se considera que la enajenación se efectúa en la entidad, entre otros casos, si el bien se encuentra en dicha entidad al efectuarse el envío del adquiriente y cuando no habiendo envío en el Estado se realiza la entrega material del bien por el enajenante.
+
+Cuando de conformidad con este artículo se entienda que hay enajenación, el adquiriente se considerará propietario de los bienes para efectos fiscales.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2005)</small>
+
+m).- Los demás supuestos comprendidos en el Código Fiscal del Estado
 
 II.- Se considera, salvo prueba en contrario, por lo que respecta a los vehículos que la enajenación se efectuó en el Estado de Quintana Roo, cuando al realizar los trámites establecidos en los artículos 176 y 179 de esta Ley, se compruebe al menos alguno de los siguientes supuestos:
 
@@ -587,11 +633,11 @@ V.- Si la adjudicación al acreedor se hiciere por convenio, deberá considerars
 
 #### SECCION PRIMERA. DEL OBJETO Y SUJETO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2005)</small>
 
-###### ARTICULO 39.
+###### ARTÍCULO 39.
 
-Son objeto de este impuesto, las erogaciones en efectivo o en especie por concepto de remuneraciones al trabajo personal, prestado dentro del territorio del Estado, bajo la dirección y/o dependencia de un patrón, contratista o terceros.
+Son objeto de este impuesto, las erogaciones en efectivo o en especie por concepto de remuneraciones al trabajo personal, prestado dentro del territorio del Estado, bajo la dirección y/o dependencia de un patrón, contratista, intermediario o terceros.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -631,11 +677,35 @@ Será base de este impuesto, el total de las erogaciones efectuadas en términos
 
 El presente impuesto se causará y pagará a razón del 2% sobre la base gravable señalada en el artículo anterior.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2005)</small>
 
-###### ARTICULO 43.
+###### ARTÍCULO 43.
 
-Las personas físicas, morales o unidades económicas, así como las dependencias, los organismos descentralizados, desconcentrados, autónomos y los fideicomisos de Gobierno, aun cuando estos sujetos tengan su domicilio fuera del Estado, deberán efectuar pagos mensuales mediante declaración provisional en las formas aprobadas por la propia Secretaría, a más tardar el día 17 del mes siguiente a aquél en que se efectuó la erogación.
+Las personas físicas, morales o unidades económicas, así como las dependencias, los organismos descentralizados, desconcentrados, autónomos y los fideicomisos de gobierno, aún cuando estos sujetos tengan su domicilio fuera del Estado, deberán efectuar pagos mensuales mediante declaración provisional en las formas aprobadas por la propia Secretaría, en las fechas que les corresponda considerando el primer carácter alfabético del Registro Estatal de Contribuyentes, según el calendario que se señala a continuación:
+
+LETRAS DEL FECHA DE PRESENTACIÓN
+
+REGISTRO ESTATAL DE DECLARACIÓN
+
+DE CONTRIBUYENTES
+
+De la “A” a la “F” A más tardar el día 19 del mes
+
+siguiente a aquel en que se
+
+efectuó la erogación.
+
+De la “G” a la “N” A más tardar el día 21 del mes
+
+siguiente a aquel en que se
+
+efectuó la erogación.
+
+De la “O” a la “Z” A más tardar el día 23 del mes
+
+siguiente a aquel en que se
+
+efectuó la erogación.
 
 La obligación de presentar declaraciones de pagos provisionales subsistirá aún cuando no hubiese cantidad a cubrir.
 
@@ -1831,11 +1901,11 @@ Será base de este impuesto, el total de los ingresos que perciba el sujeto de e
 
 #### SECCION CUARTA. DEL (SIC) LA TASA, DEL PAGO Y OBLIGACIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2005)</small>
 
-###### ARTICULO 147.
+###### ARTÍCULO 147.
 
-Este impuesto se pagará anualmente durante el mes de mayo del año siguiente a aquél en que se obtuvieron los ingresos, en las Oficinas autorizadas por la Secretaría de Hacienda del Estado, aplicando el contribuyente optativamente la tasa del 1% sobre el total de sus ingresos o la cuota fija del primer cuatrimestre a que se refiere cada zona en la tabla de distribución zonal que se indica.
+Este impuesto se pagará anualmente dentro de los primeros cinco meses del ejercicio siguiente a aquél en que se obtuvieron los ingresos, en las oficinas autorizadas por la Secretaría de Hacienda del Estado, aplicando el contribuyente la tasa del 1% sobre el total de sus ingresos.
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2004)</small>
 
@@ -1867,15 +1937,17 @@ Segundo cuatrimestre 32 S.M.G.
 
 Tercer cuatrimestre 27 S.M.G.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO P.O. 16 DE DICIEMBRE DE 2005)</small>
 
-Cuando los contribuyentes a que se refiere este capítulo deseen causar baja de su actividad o suspender temporalmente actividades deberán liquidar el impuesto que a la fecha se ha generado aplicando la tasa del 1% sobre el importe de los ingresos percibidos.
+Cuando los contribuyentes a que se refiere este capítulo causen baja o suspendan temporalmente actividades, deberán liquidar el impuesto que a la fecha se ha generado aplicando la tasa del 1% sobre el importe de los ingresos percibidos.
 
 ###### ARTICULO 148.
 
 Los sujetos de este impuesto están obligados a:
 
-I.- Empadronarse en las oficinas recaudadoras de rentas del lugar de su domicilio una vez iniciadas sus actividades, haciendo uso de las formas oficiales aprobadas,
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2005)</small>
+
+I.-Empadronarse en las oficinas recaudadoras de rentas del lugar de su domicilio una vez iniciadas sus actividades, haciendo uso de las formas oficiales aprobadas, en términos de los artículos 171 y 172 de esta Ley;
 
 II.- Comunicar por escrito sus cambios de domicilio, y (sic)
 
@@ -2036,6 +2108,10 @@ Los sujetos de este impuesto, deberán llevar el registro de sus operaciones dia
 Será objeto del Impuesto al Hospedaje, la prestación de servicios de hospedaje, campamentos, paraderos de casas rodantes y de tiempo compartido, considerados como el albergue temporal de personas a cambio de una contraprestación.
 
 Para efectos de la causación de este impuesto, sólo se considerará el albergue sin incluir a los alimentos y demás servicios relacionados con los mismos.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2005)</small>
+
+Los contribuyentes del Impuesto al Hospedaje, cuando presten servicios bajo el sistema denominado “Todo Incluido”, por el cual el pago de la contraprestación contemple servicios adicionales al de hospedaje, tales como alimentación, transportación y otros similares, calcularán el impuesto considerando como base gravable únicamente el importe correspondiente al albergue, de tal forma que el sistema contable que lleven, permita identificar el importe correspondiente al servicio del hospedaje y desglosarlo en el comprobante que ampare los servicios prestados. El contribuyente podrá estimar el importe relativo al servicio de hospedaje dentro del sistema “Todo Incluido”, sin que en ningún caso pueda ser inferior al 50% del monto total de los servicios comprendidos bajo este sistema, excluyendo las propinas y los impuestos que se trasladen al consumidor.
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1996)</small>
 
@@ -2369,7 +2445,7 @@ De lujo hasta 1,050 S.M.G. 788 S.M,G.
 
 De primera hasta 788 S.M.G. 525 S.M.G.
 
-De segunda hasta 525 S,M.G. 315 S.M.G.
+De segunda hasta 525 S.M.G. 315 S.M.G.
 
 d).- Venta de cervezas en envase cerrado.
 
@@ -2527,7 +2603,7 @@ ZONA TURISTICA ZONA COMERCIAL
 
 De lujo hasta 3,150 S.M.G. 2,625 S.M.G.
 
-De primera hasta 2,888 S.M.G 2,363 S.M.G.
+De primera hasta 2,888 S.M.G. 2,363 S.M.G.
 
 De segunda hasta 2,625 S.M.G. 2,100 S.M. G.
 
@@ -2729,7 +2805,7 @@ De lujo hasta 1,050 525 S.M.G.
 
 De primera hasta 840 420 S.M.G.
 
-De segunda hasta 630 315 S.M. G.
+De segunda hasta 630 315 S.M.G.
 
 ZONA RURAL
 
@@ -3527,7 +3603,7 @@ ZONA HOTELERA
 
 De lujo hasta 1,129 S.M.G.
 
-De Primera hasta 1,000 S.M,G
+De Primera hasta 1,000 S.M.G.
 
 De segunda hasta 895 S.M.G.
 
@@ -3601,7 +3677,7 @@ De lujo hasta 1,418 S.M.G.
 
 De primera hasta 1,208 S.M.G.
 
-De segunda hasta 998 S.M.G
+De segunda hasta 998 S.M.G.
 
 b).- Venta de cervezas, vinos y licores exclusivamente con los alimentos.
 
@@ -4277,9 +4353,7 @@ LXXXIX.- Taller de costura, hasta 21 S.M.G.
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-XC.- Tienda de ropa, telas, artículos eléctricos, artículos para regalos, novedades etc.,
-
-hasta 16 S.M.G.
+XC.- Tienda de ropa, telas, artículos eléctricos, artículos para regalos, novedades etc., hasta 16 S.M.G.
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
@@ -4751,8 +4825,6 @@ VI.- Permiso para circular con cristales polarizados por 1 año 4.03 veces el S.
 
 VII.- Examen médico y de competencia para licencia de conducir vehículos de motor 2.10 S.M.G.
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
-
 ###### ARTICULO 177.
 
 Por el otorgamiento de concesiones para explotar el servicio público de transporte de pasajeros, carga y el especializado en el Estado, a exepción (sic) del urbano de pasajeros en autobuses en ruta establecida que corresponde a los municipios, se causarán y pagarán los derechos con base en la siguiente:
@@ -4859,7 +4931,7 @@ a) Servicio público de pasajeros en general:
 
 2.- Minibuses hasta 25 asientos, hasta 2,134 S.M,G.
 
-3.- Automóviles de alquiler tipo taxis (hasta 5 pasajeros) , hasta 4,488 S.M.G.
+3.- Automóviles de alquiler tipo taxis (hasta 5 pasajeros), hasta 4,488 S.M.G.
 
 4.- Otros vehículos, hasta 2,489 S.M.G.
 
@@ -4929,7 +5001,7 @@ c) Servicio público de renta de toda clase de vehículos:
 
 5.- Otros vehículos, hasta 112 S.M.G.
 
-d) Servicio público especializados:
+d) Servicio público especializados (sic):
 
 1.- Grúa hasta 10,000 kgs, hasta 889 S.M.G.
 
@@ -4949,7 +5021,7 @@ a) Servicio público de pasajeros en general:
 
 1.- Autobuses de 36 asientos en adelante, hasta 2,134 S.M.G.
 
-2.- Minibuses hasta 25 asientos, hasta 1,600 S,M.G.
+2.- Minibuses hasta 25 asientos, hasta 1,600 S.M.G.
 
 3.- Automóviles de alquiler tipo taxis (hasta 5 pasajeros), hasta 2,667 S.M.G.
 
@@ -5033,7 +5105,7 @@ VI.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
 ### CAPITULO IX. EXPEDICION DE CONSTANCIA DE COMPATIBILIDAD URBANISTICA
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 179-A.
 
@@ -5165,37 +5237,19 @@ Las dependencias y organismos auxiliares de la administración pública estatal 
 
 ###### ARTICULO 182.
 
-Por el otorgamiento de la constancia de compatibilidad urbanística, a que se refieren los artículos 81 y 82 de la Ley de Asentamientos Humanos, se causará un derecho de conformidad con la siguiente tarifa:
+Por el otorgamiento de la constancia de compatibilidad urbanística, a que se refieren los artículos 81 y 82 de la Ley de Asentamientos Humanos, se causará un derecho de conformidad con lo siguiente:
 
-CONCEPTO TIPO DERECHOS
+I.- En caso de fraccionamiento de tipo habitacional, hotelero, comercial, industrial, granjas de explotación agropecuaria y demás aprovechamientos y usos, se cobrará el 0.5 % sobre el monto total de las obras de urbanización
 
-I.- Para licencia de
+II.- 6 S.M.G. para el caso de ser una subdivisión menor de 10,000 mt2 en tres fracciones y 3 S.M.G. por fracción resultante adicional y para el caso de subdivisión de un predio cuya superficie original sea mayor a 10,000 mt2 se cobrará 3 S.M.G. por fracción resultante.
 
-Fraccionamiento General 0.5% sobre el monto total
+III.- Para el régimen de propiedad en condominio por cada unidad privativa asignada, independientemente del uso de suelo. 4 S.M.G.
 
-del presupuesto de obra
+IV.-Para centros comerciales y centrales de abasto. 25 S.M.G.
 
-de urbanidad.
+V.-Para centrales camioneras y de carga. 25 S.M.G.
 
-II.- Para Subdivisión mayor de 6 S.M.G.
-
-10,000 m2
-
-III.- Para condominio General 8 S.M.G.
-
-IV.- Para centros
-
-comerciales y central General 8 S.M.G.
-
-de abasto
-
-V.- Para centrales
-
-camioneras y de carga General 8 S.M.G.
-
-VI.- Para proyectos
-
-de industrias medianas General 8 S.M.G.
+VI.-Para proyectos de industrias. 25 S.M.G.
 
 ### CAPITULO XIII. LEGALIZACION DE FIRMAS Y CERTIFICACION DE COPIAS Y DOCUMENTOS
 
@@ -5223,9 +5277,9 @@ Los servicios que presten, las autoridades de los Servicios Estatales de Salud, 
 
 I.- (DEROGADA, P.O. 20 DE DICIEMBRE DE 2004)
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2005)</small>
 
-II.- Tarjeta de Control Sanitario para manejadores de alimentos….2.5 S.M.G.
+II.- Por expedición, reposición o resello de Tarjeta de control sanitario 3.5 S.M.G.
 
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2004)</small>
 
@@ -5271,7 +5325,7 @@ r).- Investigación de listeria monocitógenes. $ 575.00
 
 s).- Tipificación serología de salmonella sp. $ 998.00
 
-t).- pH.( determinación de la acidez en una solución) $ 80.00
+t).- pH. (determinación de la acidez en una solución) $ 80.00
 
 v).- Cloro residual. $ 80.00
 
@@ -5859,7 +5913,7 @@ Por la inscripción de contratos modificatorios de reestructuración, reconocimi
 
 La inscripción de créditos con garantía hipotecaria y contratos de mutuo con garantía hipotecaria, otorgados por el ISSSTE, IMSS, INFOVIR, FOVI, FONHAPO, CORETT, BANOBRAS, ISFAN INFONAVIT y FOVISSSTE siempre y cuando sean destinados para la adquisición de vivienda de interés social o popular, 8.05 S.M.G.
 
-(EFORMADO, P.O. 16 DE DICIEMBRE DE 2003)
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 Por la inscripción de la dación en pago derivada de un crédito hipotecario para la construcción o adquisición de una vivienda de interés social o popular, 11.70 S.M.G.
 
@@ -6425,7 +6479,9 @@ Las personas físicas o morales que requieran del servicio especial, lo solicita
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-### CAPITULO UNICO
+### CAPITULO XXII. DE LOS SERVICIOS QUE PRESTA LA UNIDAD DE VINCULACION
+
+ADICIONADO, P.O. 16 DE DICIEMBRE DE 2005)
 
 ###### ARTICULO 207-H.
 
@@ -6557,9 +6613,9 @@ Los derechos de inspección y vigilancia por cada ciclo escolar o semestre, debe
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2001)</small>
 
-### CAPITULO I. DISPOSICIONES GENERALES DE LOS RECARGOS
+### CAPITULO UNICO
 
-### CAPITULO II. CONTRIBUCIONES GENERADAS EN EJERCICIOS ANTERIORES
+### CAPITULO I. DISPOSICIONES GENERALES DE LOS RECARGOS
 
 ###### ARTICULO 207-I.
 
@@ -6567,7 +6623,7 @@ Por llevar a cabo el control, vigilancia y evaluación de los recursos que se re
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
-### CAPITULO III. MULTAS
+### CAPITULO II. CONTRIBUCIONES GENERADAS EN EJERCICIOS ANTERIORES
 
 ###### Artículo 207-J.
 
@@ -6618,6 +6674,26 @@ IV. Por la reposición de sello de las Notarías Públicas 6 S.M.G.
 ###### ARTICULO 207-L.
 
 Por registro de patente de notario público pagará 75 S.M.G.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 16 DE DICIEMBRE DE 2005)</small>
+
+### CAPITULO III. MULTAS
+
+###### ARTICULO 207-M.
+
+Por los materiales que se utilicen para reproducir la información que proporcionen los sujetos obligados de naturaleza estatal, previstos en la Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo, pagarán un derecho conforme a lo siguiente:
+
+(F. DE E., P.O. 30 DE ENERO DE 2006) (F. DE E., P.O. 3 DE FEBRERO DE 2006)
+
+I.- Por la expedición de documentos en copia simple 0.011 S. M. G. por cada foja.
+
+II.- Por la expedición de videocintas 2.00 S. M. G. por cada una.
+
+III.- Por la expedición de audiocasettes 0.5 S. M. G por cada uno.
+
+IV.- Por la expedición de disco compacto 0.5 S. M. G. por cada uno.
+
+Tratándose de lo dispuesto en las fracciones II, III y IV, no se realizará cobro alguno, cuando el solicitante presente ante la Unidad de Vinculación que corresponda, el material señalado en esas fracciones o cualquier otro que se requiera para la reproducción de la información solicitada.
 
 ### CAPITULO IV. CAUCIONES JUDICIALES
 
@@ -7274,3 +7350,75 @@ TERCERO.- Los contribuyentes del Impuesto al Hospedaje, cuando presten servicios
 CUARTO.- Se dejan sin efecto todas las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
 
 QUINTO.- El presente decreto entrará en vigor a partir del 1º de enero de 2005, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 16 DE DICIEMBRE DE 2005.
+
+Artículo Primero.-En tanto el Estado de Quintana Roo, permanezca adherido al Sistema Nacional de Coordinación Fiscal, suscrito mediante convenio y anexos respectivos con la Secretaría de Hacienda y Crédito Público, quedan en suspenso los siguientes impuestos y derechos:
+
+I.- IMPUESTOS
+
+1 Al comercio y la industria.
+
+2 Sobre productos y rendimientos de capital (parcialmente).
+
+3 Sobre la enajenación de vehículos de motor y bienes muebles entre particulares.
+
+4 Sobre la compraventa de primera mano de productos agrícolas.
+
+5 Sobre producción de azúcar, piloncillo y mieles cristalizables e incristalizables.
+
+6 Sobre compraventa de azúcar, piloncillo y mieles cristalizables e incristalizables.
+
+7 Sobre la cría de ganado.
+
+8 Sobre compraventa o permuta de ganado o sus esquilmos.
+
+9 Al libre ejercicio de profesiones y actividades lucrativas (parcialmente).
+
+10 Sobre explotación y venta de primera mano de diversos materiales para la construcción.
+
+II.- DERECHOS
+
+A).- Licencias, anuencias previas al otorgamiento de las mismas, en general concesiones, permisos o autorizaciones, o bien obligaciones y requisitos que condicionen el ejercicio de actividades comerciales e industriales y de prestación de servicios. Asimismo, los que resulten como consecuencia de permitir o tolerar las excepciones a una disposición administrativa tales como la ampliación de horario, con excepción de los siguientes numerales:
+
+1 Licencias de construcción.
+
+2 Licencias o permisos para efectuar conexiones a las redes públicas de agua y alcantarillado.
+
+3 Licencias para fraccionar o lotificar terrenos.
+
+4 Licencias para conducir vehículos.
+
+5 Expedición de placas y tarjetas para la circulación de vehículos.
+
+6. Licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general.
+
+7. Licencias, permisos o autorizaciones para la colocación de anuncios o carteles para la realización de publicidad, excepto las que se realicen por medio de televisión, radio, periódicos y revistas.
+
+B).-Registros o cualquier acto relacionado con los mismos, a excepción de los siguientes:
+
+1 Registro civil.
+
+2 Registro público de la propiedad y del comercio.
+
+C).- Uso de las vías públicas o la tenencia de bienes sobre las mismas.
+
+No se considerarán comprendidos dentro de lo dispuesto en esta fracción los derechos de estacionamiento de vehículos, el uso de la vía pública por comerciantes ambulantes o con puestos fijos o semifijos, ni por el uso o tenencia de anuncios.
+
+D). Actos de inspección y vigilancia.
+
+Los derechos locales o municipales no podrán ser diferenciales considerando el tipo de actividad a que se dedique el contribuyente, excepto cuando se trate de derechos diferenciales por los conceptos a los que se refieren los numerales del 1 al 7 del inciso A) y el inciso C).
+
+Las certificaciones de documentos, así como la reposición de éstos por extravío o destrucción parcial o total, no quedarán comprendidas dentro de lo dispuesto en los incisos A y B de este artículo. Tampoco quedan comprendidas las concesiones por el uso o aprovechamiento de bienes pertenecientes a las Entidades Federativas o a los Municipios.
+
+En ningún caso lo dispuesto en este artículo, limitará la facultad de los Estados y Municipios para requerir licencias, registros, permisos o autorizaciones, otorgar concesiones y realizar actos de inspección y vigilancia. Para el ejercicio de estas facultades no se podrá exigir cobro alguno, con las salvedades expresamente señaladas en este artículo.
+
+Para los efectos de coordinación con las entidades, se considerarán derechos, aún cuando tengan una denominación distinta en la legislación local correspondiente, las contribuciones que tengan las características de derechos conforme al Código Fiscal de la Federación y a la Ley de Ingresos de la Federación.
+
+También se consideran como derechos para los efectos de este artículo, las contribuciones u otros cobros, cualquiera que sea su denominación, que tengan las característica de derechos de acuerdo con el Código Fiscal de la Federación, aún cuando se cobren por concepto de aportaciones, cooperaciones, donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
+
+Artículo Segundo.-Tratándose de empresas dedicadas a la construcción, que deseen efectuar la contribución del Impuesto Sobre Nóminas en una sola exhibición en forma anticipada, siempre y cuando se tratare de obra privada, se aplicarán los valores y porcentajes publicados en el Diario Oficial de la Federación, del costo de mano de obra por metro cuadrado para obra privada, mismo que se publica de forma anual a petición de la Dirección de Afiliación y Cobranza del Instituto Mexicano del Seguro Social.
+
+Artículo Tercero.-Se dejan sin efecto todas las disposiciones legales que se opongan al presente Decreto.
+
+Artículo Cuarto.-El presente decreto entrará en vigor a partir del 1° de enero de 2006, previa publicación en el Periódico Oficial del Estado.
