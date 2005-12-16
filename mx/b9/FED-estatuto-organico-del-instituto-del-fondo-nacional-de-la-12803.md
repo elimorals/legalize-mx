@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-del-fondo-nacional-de-la-12803"
 country: "mx"
 rank: "estatuto"
 publication_date: "1998-12-22"
-last_updated: "2005-06-01"
+last_updated: "2005-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12803&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,15 +19,17 @@ issue_date: "1998-12-08"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-ESTATUTO ORGANICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
+ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JUNIO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO PRIMERO DEL ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES, PUBLICADO EN EL D.O.F. DE 16 DE DICIEMBRE DE 2005, SE ABROGA EL APROBADO MEDIANTE ACUERDO 1183 DE LA SESIÓN ORDINARIA NÚMERO 85 DE LA H. ASAMBLEA GENERAL DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES, CELEBRADA EL DÍA 30 DE ABRIL DE 2004, Y PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 6 DE DICIEMBRE DE 2004</small>
 
-> <small>N. DE E. LAS REFORMAS APROBADAS POR LA ASAMBLEA GENERAL DEL INFONAVIT EN EL ACUERDO NUMERO 1129, MODIFICAN DE MANERA SUSTANCIAL EL TEXTO DEL PRESENTE ESTATUTO, DANDO COMO RESULTADO UN TEXTO DIFERENTE, AUN Y CUANDO DIVERSOS ARTICULOS QUEDAN INTACTOS, SE PUBLICA EL MISMO EN FORMA INTEGRA.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación el martes 22 de diciembre de 1998.
 
 Al margen un logotipo, que dice: Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+
+> <small>N. DE E. LAS REFORMAS APROBADAS POR LA ASAMBLEA GENERAL DEL INFONAVIT EN EL ACUERDO NUMERO 1129, MODIFICAN DE MANERA SUSTANCIAL EL TEXTO DEL PRESENTE ESTATUTO, DANDO COMO RESULTADO UN TEXTO DIFERENTE, AUN Y CUANDO DIVERSOS ARTICULOS QUEDAN INTACTOS, SE PUBLICA EL MISMO EN FORMA INTEGRA.</small>
 
 ESTATUTO ORGANICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES.
 
@@ -730,3 +732,17 @@ SEGUNDO.- El Instituto del Fondo Nacional de la Vivienda para los Trabajadores, 
 TERCERO.- En todas las disposiciones donde se haga mención a la Comisión de Inconformidades y de Valuación, se entenderá como Comisión de Inconformidades.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 16 DE DICIEMBRE DE 2005.
+
+###### ARTICULO PRIMERO.
+
+El presente Estatuto Orgánico abroga el aprobado mediante Acuerdo 1183 de la sesión ordinaria número 85 de la H. Asamblea General del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, celebrada el día 30 de abril de 2004, y publicado en el Diario Oficial de la Federación el 6 de diciembre de 2004.
+
+###### ARTICULO SEGUNDO.
+
+Este Estatuto entrará en vigor al día siguiente de su aprobación por la Asamblea General del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+
+###### ARTICULO TERCERO.
+
+El presente Estatuto Orgánico será publicado de acuerdo a las instrucciones de la Asamblea General.
