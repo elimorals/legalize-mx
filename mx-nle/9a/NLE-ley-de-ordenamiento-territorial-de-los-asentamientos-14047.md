@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-ordenamiento-territorial-de-los-asentamientos-14047"
 country: "mx"
 rank: "ley"
 publication_date: "1999-03-03"
-last_updated: "2004-02-26"
+last_updated: "2005-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ORDENAMIENTO TERRITORIAL DE LOS ASENTAMIENTOS HUMANOS Y DE DESARROLLO URBANO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 3 de marzo de 1999.
 
@@ -149,7 +149,11 @@ Usos: Los fines particulares a que podrán dedicarse determinadas zonas o predio
 
 Vía pública: es todo inmueble del dominio público de utilización común, que por disposición de la ley, de la autoridad competente, o por razón del servicio se destine al libre tránsito, o bien, que de hecho está ya afecto a utilización pública en forma habitual y cuya función sea la de servir de acceso a los predios y edificaciones colindantes.
 
-Zonas: son las superficies de suelo de un centro de población o de un municipio en las que está previsto un uso de suelo predominante de la superficie total de cada zona siendo que pueden existir usos del suelo complementarios y compatibles con ese uso de suelo predominante.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2005)</small>
+
+Zonas de Riesgo: Son las superficies de suelo de un centro de población o de un municipio, en las que por su ubicación existe la posibilidad de que ocurran daños o efectos indeseables sobre sistemas constituidos por personas, comunidades o sus bienes, como consecuencia de eventos o fenómenos perturbadores, los que pueden ser de origen natural o pueden resultar de acciones humanas.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2005)</small>
 
 Zonificación: la determinación de las áreas que integran y delimitan un centro de población; sus aprovechamientos predominantes y las reservas, usos y destinos, así como la delimitación de las áreas de conservación, mejoramiento y crecimiento del mismo.
 
@@ -231,7 +235,9 @@ XI.- Participar en la regularización de la tenencia de la tierra urbana, la dot
 
 XII.- Convenir con los municipios de la entidad para que mediante la Secretaría de Desarrollo Urbano y Obras Públicas del Estado, se asuman, de manera total o parcial, las funciones técnicas o administrativas que les corresponden en la aplicación de esta Ley, cuando carezcan de los órganos administrativos correspondientes o la complejidad de los asuntos lo requiera;
 
-XIII.- Planear, conjunta y coordinadamente con los municipios respectivos, el desarrollo urbano, asentamientos humanos u ordenamiento territorial en las diversas regiones y zonas conurbadas, así como los programas y acciones derivadas de éstos;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2005)</small>
+
+XIII.- Planear conjunta y coordinadamente con los municipios respectivos, el desarrollo urbano, asentamientos humanos u ordenamiento territorial en las diversas regiones, zonas conurbadas y zonas de riesgo, así como los programas y acciones derivadas de éstos;
 
 XIV.- Ordenar la publicación e inscripción de los planes o programas de desarrollo urbano, asentamientos humanos u ordenamiento territorial municipales, de centros de población, parciales y otros derivados de éstos, a solicitud de las autoridades que correspondan;
 
@@ -291,7 +297,9 @@ XIX.- Ordenar, imponer y ejecutar, por sí o a través del funcionario que se de
 
 XX.- Establecer y vigilar el cumplimiento de la normatividad técnica para regular el espacio público y la protección a la imagen y estética urbana en acciones inherentes a la localización e instalación de anuncios fijos o móviles, pantallas electrónicas y estructuras para la colocación de publicidad en el espacio público o privado dentro del territorio del Estado;
 
-XXI.- Participar, conjunta y coordinadamente con los municipios respectivos, en el seno de las comisiones de las zonas conurbadas correspondientes para la delimitación territorial de dichas zonas, así como en la elaboración de los planes o programas de desarrollo urbano, asentamientos humanos u ordenamiento territorial de zonas conurbadas; y,
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2005)</small>
+
+XXI.- Participar, conjunta y coordinadamente con los municipios respectivos, en el seno de las comisiones de las zonas conurbadas correspondientes para la delimitación territorial de dichas zonas, así como en la elaboración de los planes o programas de desarrollo urbano, asentamientos humanos u ordenamiento territorial de zonas conurbadas, y de zonas de riesgo; y
 
 XXII.- Vigilar el cumplimiento de esta Ley y demás ordenamientos de la materia y ejercer las demás atribuciones que le otorgue la presente Ley u otros ordenamientos legales.
 
@@ -299,7 +307,9 @@ XXII.- Vigilar el cumplimiento de esta Ley y demás ordenamientos de la materia 
 
 En la ejecución y cumplimiento de la presente Ley, corresponderá al Ayuntamiento las siguientes atribuciones:
 
-I.- Elaborar, aprobar, administrar, ejecutar y vigilar el cumplimiento de los planes de desarrollo urbano, asentamientos humanos u ordenamiento territorial municipales, de centros de población, o parciales derivados de éstos, así como los reglamentos y ordenamientos aplicables a la materia;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2005)</small>
+
+I.- Elaborar, aprobar, administrar, ejecutar y vigilar el cumplimiento de los planes de desarrollo urbano, asentamientos humanos u ordenamiento territorial municipales, de centros de población, o parciales derivados de éstos, así como los reglamentos y ordenamientos aplicables a la materia, y de zonas de riesgo;
 
 II.- Emitir disposiciones de carácter general en materia de desarrollo urbano, asentamientos humanos y ordenamiento territorial, en el ámbito de su competencia;
 
@@ -341,25 +351,41 @@ XX.- Ejercer el derecho de preferencia, de conformidad con la legislación feder
 
 XXI.- Autorizar o negar, con base en el plan municipal de desarrollo urbano, planes de los centros de población, planes parciales, de sus reglamentos, y demás disposiciones de carácter general, la factibilidad y lineamientos, proyecto urbanístico, proyecto ejecutivo, permisos de venta, prórrogas, terminación de obras y liberación de garantías, de todo tipo de fraccionamientos, así como la recepción de los mismos;
 
-XXII.- Aplicar criterios ambientales de conservación de áreas naturales y de prevención y control de la contaminación ambiental en los permisos y licencias de uso de suelo o de edificación, construcción, fraccionamientos, subdivisiones, parcelaciones, fusiones, relotificaciones y alineamientos y cualquier tipo de obra que se desarrolle;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2005)</small>
 
-XXIII.- Promover la participación ciudadana y recibir las opiniones que manifieste la comunidad, respecto a las necesidades para la formulación, evaluación y revisión de los planes y programas municipales;
+XXII.- Autorizar o negar los trámites urbanísticos, contenidos en las fracciones XVI y XXI del presente artículo, de inmuebles ubicados en zonas de riesgo, previo dictamen y opinión de la Comisión Estatal de Desarrollo Urbano o de la Comisión de la Zona Conurbada correspondiente;
 
-XXIV.- Tramitar y resolver los recursos administrativos previstos en esta Ley en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2005)</small>
 
-XXV.- Ordenar, imponer y ejecutar las medidas de seguridad y sanciones, así como aplicar las medidas y procedimientos coactivos previstos en esta Ley en el ámbito de su competencia;
+XXIII.- Aplicar criterios ambientales de conservación de áreas naturales y de prevención y control de la contaminación ambiental en los permisos y licencias de uso de suelo o de edificación, construcción, fraccionamientos, subdivisiones, parcelaciones, fusiones, relotificaciones y alineamientos y cualquier tipo de obra que se desarrolle;
 
-XXVI.- Expedir las licencias para la explotación de bancos de materiales para construcción, así como para la ubicación de escombreras o depósitos de residuos producto de construcciones;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2005)</small>
 
-XXVII.- Llevar a cabo acciones para el acondicionamiento de accesos y servicios para las personas con discapacidad;
+XXIV.- Promover la participación ciudadana y recibir las opiniones que manifieste la comunidad, respecto a las necesidades para la formulación, evaluación y revisión de los planes y programas municipales;
 
-XXVIII.- Formular la normatividad que corresponda para las especificaciones y acondicionamientos arquitectónicos que se requieran con el objeto de que las personas con discapacidad se desplacen libremente; y,
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2005)</small>
 
-XXIX.- Las demás que le señalen esta Ley, otras normas y reglamentos aplicables.
+XXV.- Tramitar y resolver los recursos administrativos previstos en el ámbito de su competencia;
 
-> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2005)</small>
 
-El Ayuntamiento deberá sujetarse a lo que dispone la presente Ley, la Ley de Protección contra Incendios y Materiales Peligrosos del Estado y la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado, así como a los diversos planes aplicables en la materia.
+XXVI.- Ordenar, imponer y ejecutar las medidas de seguridad y sanciones, así como aplicar las medidas y procedimientos coactivos previstos en esta Ley en el ámbito de su competencia;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2005)</small>
+
+XXVII.- Expedir las licencias para la explotación de bancos de materiales para construcción, así como para la ubicación de escombreras o depósitos de residuos producto de construcciones;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2005)</small>
+
+XXVIII.- Llevar a cabo acciones para el acondicionamiento de accesos y servicios para las personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2005)</small>
+
+XXIX.- Formular la normatividad que corresponda para las especificaciones y acondicionamientos arquitectónicos que se requieran con el objeto de que las personas con discapacidad se desplacen libremente; y
+
+> <small>(REFORMADA [N. DE E, ADICIONADA], P.O. 16 DE DICIEMBRE DE 2005)</small>
+
+XXX.- Las demás que le señalen esta Ley, otras normas y reglamentos aplicables. El Ayuntamiento deberá sujetarse a lo que dispone la presente Ley, la Ley de Protección contra Incendios y Materiales Peligrosos del Estado y la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado, así como a los diversos planes aplicables en la materia.
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -409,6 +435,18 @@ V.- Dictaminar sobre otros asuntos que por su trascendencia le sean encomendados
 
 VI.- Las demás que le correspondan conforme a la presente Ley u otros ordenamientos legales.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 17 Bis.
+
+La Comisión Estatal de Desarrollo Urbano tendrá atribuciones para emitir dictamen, previa solicitud expresa del Ayuntamiento en los términos del reglamento correspondiente, de factibilidad técnica, en predios ubicados en zonas de riesgo, sobre usos y cambios de uso del suelo y edificaciones, construcciones, así como la factibilidad de uso de suelo y lineamientos de urbanización, proyecto urbanístico y proyecto ejecutivo de todo tipo de fraccionamientos; para lo cual podrá auxiliarse de la Dirección de Protección Civil Estatal y Municipales, así como de Instituciones Académicas u Organismos Especializados en la materia.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 17 Bis 1.
+
+La Comisión Estatal de Desarrollo Urbano, para los efectos del artículo anterior, tendrá la facultad de dictaminar, previa solicitud expresa del Ayuntamiento en los términos del reglamento correspondiente, las zonas de riesgo, en base a estudios hidráulicos, geológicos, geotécnicos o de mecánica de suelos y geofísicos, entre otros, y a los reglamentos que se expidan en la materia. Los dictámenes, contemplarán como mínimo los siguientes parámetros: por una parte, para los riesgos geológicos; lineamientos estructurales, como fallas y fracturas; pendiente del terreno; tipo de litología; áreas asociadas a cañadas; zonas de talud o zonas cercanas a los rompimientos de pendiente y en las laderas y, pendientes vinculadas con arroyos-alta disección de drenaje; para el caso de los riesgos hidrológicos; tormentas tipo convectivo y orográficas con gran intensidad en poco tiempo, cubierta vegetal escasa, pendientes mayores al 10%, energía cinética con fuerza de arrastre de material en suspensión y de fondo y, velocidad por encima de la recomendable para el tránsito vehicular y de personas, en los términos del reglamento correspondiente.
+
 ###### Artículo 18.
 
 Será Presidente de la Comisión Estatal de Desarrollo Urbano, el Gobernador del Estado y en su ausencia, será presidida por el Secretario de Desarrollo Urbano y Obras Públicas del Estado. Las sesiones se efectuarán por lo menos una vez al mes y se requerirá la presencia, como mínimo, de la mayoría de los integrantes de dicha comisión. Los acuerdos se tomarán por mayoría de los votos de los integrantes presentes, correspondiendo voto de calidad, en los casos de empate, al que presida la sesión. Se levantará un acta de cada sesión por quien sea designado secretario de actas, misma que deberá ser firmada por los miembros presentes de la comisión.
@@ -437,23 +475,45 @@ VI.- Recibir y analizar las observaciones, proposiciones o las solicitudes de mo
 
 VII.- Dictaminar, previa solicitud expresa del Ayuntamiento correspondiente, los lineamientos a que deben sujetarse la apertura, modificación, prolongación, ampliación, integración y mejoramiento de las vías públicas, así como la localización de infraestructuras, equipamientos, obras y servicios públicos, que vinculen o impacten a dos o más municipios, de conformidad con el convenio que celebren los municipios respectivos y la Secretaría de Desarrollo Urbano y Obras Públicas del Estado, en el ámbito de esta Ley, del sistema estatal de planeación y de los reglamentos municipales;
 
-VIII.- Vigilar el cumplimiento de los planes o programas de desarrollo urbano, asentamientos humanos u ordenamiento territorial, dentro del ámbito de su extensión territorial;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2005)</small>
 
-IX.- Promover la participación social en la elaboración, ejecución, evaluación y modificación de los planes de las zonas conurbadas;
+VIII.- Dictaminar la factibilidad técnica, en predios ubicados en zonas de riesgo, sobre usos y cambios de uso del suelo y edificaciones, construcciones, así como la factibilidad de uso de suelo y lineamientos de urbanización, proyecto urbanístico y proyecto ejecutivo de todo tipo de fraccionamientos; para lo cual podrá auxiliarse de la Dirección de Protección Civil Estatal y Municipales, así como de Instituciones Académicas u Organismos Especializados en la materia;
 
-X.- Solicitar a la autoridad competente para que determine y ejecute las sanciones o medidas de seguridad que correspondan;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2005)</small>
 
-XI.- Supervisar la aplicación de las disposiciones generales de desarrollo urbano, asentamientos humanos u ordenamiento territorial municipal, en materia de reservas para el crecimiento urbano, infraestructuras, de servicios públicos, vialidades, políticas de desarrollo territorial, equipamientos y todo aquello que incida en la sustentabilidad de la zona metropolitana y del Estado;
+IX.- Dictaminar, para los efectos de la fracción que antecede, las zonas de riesgo, en base a estudios hidráulicos, geológicos, geotécnicos o de mecánica de suelos y geofísicos, entre otros, y a los reglamentos que se expidan en la materia, dichos dictámenes contemplarán como mínimo determinados parámetros: por una parte, lineamientos estructurales, como fallas y fracturas; pendiente del terreno; tipo de litología; áreas asociadas a cañadas; zonas de talud o zonas cercanas a los rompimientos de pendiente y en las laderas y, pendientes vinculadas con arroyos-alta disección de drenaje, para determinar riesgos geológicos y, por la otra, tormentas tipo convectivo y orográficas con gran intensidad en poco tiempo; cubierta vegetal escasa; pendientes mayores al 10%; energía cinética con fuerza de arrastre de material en suspensión y de fondo y, velocidad por encima de la recomendable para el tránsito vehicular y de personas, para los riesgos hidrológicos.
 
-XII.- Formular lineamientos encaminados a la protección de la imagen urbana a los cuales deberán de sujetarse la reglamentación que corresponda;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2005)</small>
 
-XIII.- Formular los lineamientos para la construcción y adecuación de la infraestructura, el equipamiento y los servicios urbanos para garantizar la seguridad, libre tránsito y accesibilidad requeridas por las personas con discapacidad, estableciendo los procedimientos de consulta a los discapacitados sobre las características técnicas de los proyectos; y,
+X.- Vigilar el cumplimiento de los planes o programas de desarrollo urbano, asentamientos humanos u ordenamiento territorial, dentro del ámbito de su extensión territorial;
 
-XIV.- Las demás que le otorguen esta ley y otros ordenamientos jurídicos aplicables.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2005)</small>
+
+XI.- Promover la participación social en la elaboración, ejecución, evaluación y modificación de los planes de las zonas conurbadas;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2005)</small>
+
+XII.- Solicitar a la autoridad competente para que determine y ejecute las sanciones o medidas de seguridad que correspondan;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2005)</small>
+
+XIII.- Supervisar la aplicación de las disposiciones generales de desarrollo urbano, asentamientos humanos u ordenamiento territorial municipal, en materia de reservas para el crecimiento urbano, infraestructuras, de servicios públicos, vialidades, políticas de desarrollo territorial, equipamientos y todo aquello que incida en la sustentabilidad de la zona metropolitana y del Estado;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2005)</small>
+
+XIV.- Formular lineamientos encaminados a la protección de la imagen urbana a los cuales deberán de sujetarse la reglamentación que corresponda;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2005)</small>
+
+XV.- Formular los lineamientos para la construcción y adecuación de la infraestructura, el equipamiento y los servicios urbanos para garantizar la seguridad, libre tránsito y accesibilidad requeridas por las personas con discapacidad, estableciendo los procedimientos de consulta a los discapacitados sobre las características técnicas de los proyectos; y,
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2005)</small>
+
+XVI.- Las demás que le otorguen esta ley y otros ordenamientos jurídicos aplicables.
 
 ###### Artículo 21.
 
-La comisión de la zona conurbada se integrará con los Presidentes Municipales de los municipios integrantes de la zona de conurbación respectiva, de los cuales se eligirá a un secretario; por el titular de la Secretaría de Desarrollo Urbano y Obras Públicas del Estado, quien será el Presidente de la comisión de la zona conurbada; y por las representaciones de la Comisión Federal de Electricidad y los organismos operadores de agua en el Estado.
+La comisión de la zona conurbada se integrará con los Presidentes Municipales de los municipios integrantes de la zona de conurbación respectiva, de los cuales se elegirá a un secretario; por el titular de la Secretaría de Desarrollo Urbano y Obras Públicas del Estado, quien será el Presidente de la comisión de la zona conurbada; y por las representaciones de la Comisión Federal de Electricidad y los organismos operadores de agua en el Estado.
 
 ###### Artículo 22.
 
@@ -1544,6 +1604,38 @@ I.- Que se ubiquen a una distancia de resguardo mínima de cincuenta metros cont
 II.- Que se ubiquen a una distancia de resguardo de ciento cincuenta metros contados a partir de los límites de propiedad del predio en cuestión de la industria de alto riesgo que emplee productos químicos, soldadura o gas, se dedique a la fundición o utilice fuego o combustión; y
 
 III.- Que previa determinación de la autoridad competente en materia de protección civil, no representen impacto grave en el ámbito urbanístico, vial, ecológico y de seguridad.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2005)</small>
+
+Artículo 120 Bis II.- Para la expedición de las licencias de uso de suelo para la ubicación de estaciones de carburación y establecimientos dedicados al almacenamiento, expendio o distribución de gas, además de los anteriores, deberán cumplirse los siguientes requisitos:
+
+I.- Que el predio donde se pretenda construir el establecimiento, cuente como mínimo con acceso consolidado que permita el tránsito seguro de vehículos;
+
+II.- Que no haya líneas de alta tensión que crucen el predio, ya sean aéreas o por ductos bajo tierra, ni tuberías de conducción de hidrocarburos ajenas al establecimiento;
+
+III.- Que los predios colindantes y sus construcciones estén libres de riesgos probables para la seguridad del establecimiento;
+
+IV.- Que se tomen las medidas necesarias para proteger las instalaciones del establecimiento, si el predio se encuentra en zonas susceptibles de deslaves, partes bajas de lomeríos, terrenos con desniveles o terrenos bajos;
+
+V.- Que los predios ubicados al margen de carretera cuenten con carriles de aceleración y desaceleración;
+
+VI.- Que el predio donde se pretenda construir la estación de carburación cuente con:
+
+a) Una distancia mínima de cien metros medidos desde las tangentes de los tanques de almacenamiento hasta casas habitación, viviendas multifamiliares, hoteles, moteles, hospitales, escuelas, guarderías, instalaciones de culto religioso, cines, teatros y cualquier otra en la que exista alta concentración de personas; almacenes de explosivos, líneas de alta tensión, vías férreas y ductos para productos derivados de petróleo; y
+
+b) Una distancia mínima de 50 metros medidos desde las tangentes de los tanques de almacenamiento hasta los límites del predio.
+
+Reunidos los requisitos de distancia a que se refieren los incisos a) y b) de la fracción VI del presente artículo, no se requerirá cumplir con lo establecido en la fracción I del artículo 120 Bis I de la presente Ley;
+
+VII.- Que el terreno del establecimiento tenga las pendientes y los sistemas adecuados para desalojo de aguas pluviales;
+
+VIII.- Que las zonas de circulación y estacionamiento tengan como mínimo una terminación superficial consolidada y amplitud suficiente para el fácil y seguro movimiento de vehículos y personas; y
+
+IX.- Que el perímetro del establecimiento esté delimitado en su totalidad por bardas ciegas de mampostería con altura mínima de tres metros sobre el nivel de piso terminado.
+
+En zonas no urbanas, si el establecimiento se encuentra cerca de carretera federal o estatal a distancia menor de cien metros, contados a partir de la tangente del tanque de almacenamiento más cercano al centro de carretera, el costado que ve a ésta, debe ser delimitado por barda de mampostería, con una altura mínima de tres metros, pudiendo los demás costados ser delimitados con malla ciclónica con una altura mínima de dos metros.
+
+En establecimientos con distancia mayor de cien metros de la tangente del tanque de almacenamiento más cercano al centro de carretera, el lindero que ve a ésta puede ser delimitado por malla ciclónica con una altura mínima de dos metros.
 
 ### CAPÍTULO IV. De la vía pública
 
@@ -3345,15 +3437,19 @@ En los municipios la aplicación de estas medidas se sujetará a lo establecido 
 
 Dichas medidas tendrán la duración estrictamente necesarias para la corrección de las irregularidades respectivas y deberán ser comunicadas por escrito al responsable de la obra o al propietario, para su inmediata ejecución.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 277.
 
-La violación de esta Ley, de los planes o programas de desarrollo urbano, asentamientos humanos u ordenamiento territorial; se considera una infracción y origina como consecuencia la aplicación de las sanciones correspondientes, y, en su caso, la obligación de indemnizar por los daños y perjuicios causados.
+La violación de esta Ley, de los planes o programas de desarrollo urbano, asentamientos humanos u ordenamiento territorial y de zonas de riesgo; se considera una infracción y origina como consecuencia la aplicación de las sanciones correspondientes y, en su caso, la obligación de indemnizar por los daños y perjuicios causados.
 
 Al aplicarse las sanciones se tomará en cuenta la capacidad económica del infractor, la gravedad de la infracción, las circunstancias particulares del caso y la reincidencia.
 
 El plazo de prescripción para la aplicación de las sanciones será de cinco años y empezará a computarse desde el día en que se hubiera cometido la infracción.
 
-En el caso de las violaciones cometidas por los servidores públicos, se aplicarán las normas que regulen la responsabilidad de dichos servidores.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2005)</small>
+
+En el caso de violaciones cometidas por los servidores públicos, se aplicarán las sanciones contenidas en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León, independientemente de las responsabilidades de carácter penal o civil que dispongan otros ordenamientos.
 
 ###### Artículo 278.
 
@@ -3387,11 +3483,15 @@ VII.- Incurrir en actos u obras referentes a un fraccionamiento sin contar con l
 
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
 
-VIII.- Continuar ejerciendo los derechos derivados de un permiso o autorización al vencerse el término del mismo sin haber obtenido su renovación; y,
+VIII.- Continuar ejerciendo los derechos derivados de un permiso o autorización al vencerse el término del mismo sin haber obtenido su renovación; y, (sic)
 
-> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2005)</small>
 
-IX.- La contravención a las normas básicas para las vías públicas establecidas en la presente Ley y en el reglamento respectivo.
+IX.- La contravención a las normas básicas para las vías públicas establecidas en la presente Ley y en reglamento respectivo; y,
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2005)</small>
+
+X.- Que el propietario, poseedor o responsable de obras que se lleven a cabo en inmuebles ubicados en zonas de riesgo, realice obras o instalaciones y actos sin permiso o autorización, o teniéndolo no cumpla con el mismo.
 
 Quienes incurran en reiteración de conductas constitutivas de infracción, serán considerados reincidentes.
 
@@ -3401,7 +3501,9 @@ Las sanciones aplicables por las infracciones o conductas violatorias establecid
 
 I.- La rescisión de convenios, para el supuesto contemplado en la fracción I y en su caso multas de 50 a 500 veces el salario mínimo prevaleciente en la zona económica;
 
-II.- La suspensión o demolición de construcciones e instalaciones, para los supuestos contemplados en las fracciones III, IV, V y, en su caso, multas de 500 a 1,000 veces el salario mínimo prevaleciente en la zona económica;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2005)</small>
+
+II.- La suspensión o demolición de construcciones e instalaciones, para los supuestos contemplados en las fracciones III, IV, V, X y, en su caso, multas de 500 a 1,000 veces el salario mínimo vigente en el área geográfica;
 
 III.- La revocación de las licencias y permisos otorgados, cuando se incurra en el supuesto contemplado en la fracción VI y en su caso multas de 1,000 a 2,000 veces el salario mínimo prevaleciente en la zona económica;
 
@@ -3423,7 +3525,13 @@ a) A quien obstaculice la circulación peatonal o las rampas ubicadas en las esq
 
 b) A quien ocupe las zonas de estacionamiento reservadas para su uso por las personas con discapacidad;
 
-IX.- A quien después de notificado por la autoridad competente persista en la violación de 1,000 veces a 1,500 veces de salario mínimo prevaleciente en la zona económica.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2005)</small>
+
+IX.- Multas de 2,000 a 30,000 veces el salario mínimo vigente en el área geográfica, conforme a lo dispuesto en este Ley, en caso de incurrir en el supuesto que establece la fracción X; y,
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2005)</small>
+
+X.- A quien después de notificado por la autoridad competente persista en la violación de 1,000 veces a 1,500 veces de salario mínimo vigente en el área geográfica.
 
 En caso de reincidencia el monto de la multa puede ser incrementado, sin exceder de 40,000 días de salario mínimo prevaleciente en la zona económica, así como, en su caso, la clausura definitiva.
 
@@ -3736,3 +3844,7 @@ Artículo Primero.- Esta Ley entrará en vigor al día siguiente de su publicaci
 Artículo Quinto.- Quedan vigentes todas las disposiciones legales y reglamentarias, en cuanto no se opongan a la presente Ley.
 
 Artículo Sexto.- Se derogan los artículos 26, 27, 28, 29, 30 y 31 de la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado de Nuevo León, publicada en el Periódico Oficial del Estado en fecha 3 de marzo de 1999.
+
+P.O. 16 DE DICIEMBRE DE 2005.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
