@@ -4,7 +4,7 @@ identifier: "NAY-ley-del-notariado-para-el-estado-de-nayarit-43497"
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-29"
-last_updated: "2005-01-29"
+last_updated: "2005-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43497&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2005.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de enero de 2005.
 
@@ -91,7 +91,11 @@ XVII. Periódico Oficial: Al Periódico Oficial, Órgano del Gobierno del Estado
 
 XVIII. Registro Publico: Al Registro Público de la Propiedad y de Comercio del Estado de Nayarit;
 
-XIX. Arancel: El Arancel de Notarios para el Estado de Nayarit.
+XIX. Arancel: El Arancel de Notarios para el Estado de Nayarit;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2005)</small>
+
+XX. Kinegrama: Instrumento de seguridad para los documentos, como el holograma que consiste en una estructura de difracción microscópica.
 
 ###### Artículo 3.
 
@@ -105,13 +109,17 @@ I. Vigilar a través de la Dirección, el estricto cumplimiento por parte de los
 
 II. Atender las quejas, denuncias y acusaciones presentadas por la ciudadanía, en contra de Notarios en el desempeño de sus funciones;
 
-III. Expedir, revocar y autorizar con observancia en las disposiciones de esta Ley:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2005)</small>
+
+III.- Expedir, revocar y autorizar con observancia en las disposiciones de esta Ley;
 
 a) Las patentes de Notario, Notario Suplente Adscrito y Aspirante;
 
 b) Las renuncias;
 
-c) Los cambios de adscripción de notarías dentro de una misma demarcación Notarial, en función del interés general.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2005)</small>
+
+c).- Los cambios de adscripción de las Notarías dentro de una misma demarcación notarial, a solicitud del titular de la Notaría, en función del interés público;
 
 d) Las licencias que por más de un año requiera el Notario por enfermedad o por superación profesional; y
 
@@ -151,7 +159,9 @@ I. El de la Buena Fe del Notario;
 
 II. El de la conservación jurídica de fondo y forma del instrumento notarial y de su efecto adecuado;
 
-III. El de la conservación del instrumento notarial y de la matricidad en todo tiempo del mismo;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2005)</small>
+
+III. El de la conservación del instrumento notarial y de la matricidad el tiempo que establece la ley;
 
 IV. El de la concepción del Notariado como Garantía Institucional;
 
@@ -169,7 +179,9 @@ Es obligación del Ejecutivo, del Colegio y de los Notarios, que la población r
 
 El Ejecutivo instrumentará las medidas necesarias para facilitar la actividad notarial a fin de que la prestación del servicio se lleve a cabo en función de los principios a que se refiere el artículo 8 de esta Ley.
 
-Para los efectos del ejercicio de la función notarial el Estado de Nayarit se dividirá en cinco Demarcaciones Territoriales, comprendiendo cada una los siguientes Municipios:
+> <small>(REFORMADO PRIMERO PARRAFO, P.O. 17 DE DICIEMBRE DE 2005)</small>
+
+Para los efectos del ejercicio de la función notarial el Estado de Nayarit se dividirá en cinco Demarcaciones Notariales, comprendiendo cada una los siguientes Municipios:
 
 PRIMERA DEMARCACION: Tepic, Xalisco, Compostela, Bahía de Banderas, San Pedro Lagunillas, Santa María del Oro y El Nayar;
 
@@ -213,9 +225,11 @@ El Notario ejerce su función sin sometimiento al erario y sin sueldo o iguala d
 
 De conformidad con los postulados del Notariado Latino incorporado al sistema del Notariado local, en cada instrumento y en la asesoría relativa el Notario deberá proceder conforme a los principios jurídicos y deontológicos de su oficio profesional; consiguientemente, no podrá tratar a una parte como su cliente y a la otra no, sino la consideración será personal y profesionalmente competente por igual desde la buena fe y la asesoría imparcial a cada parte o persona que solicite su servicio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 16.
 
-Los Notarios tendrán derecho a obtener de los prestatarios de sus servicios el pago de honorarios, de acuerdo con el arancel, y de los gastos suficientes que se causen o hayan de causarse.
+El Notario actuará únicamente a petición de parte interesada. Los Notarios tendrán derecho a obtener de los prestatarios de sus servicios el pago de honorarios, de acuerdo con el arancel, y de los gastos suficientes que se causen o hayan de causarse.
 
 Con base en estudios económicos, el Colegio propondrá el proyecto de arancel justo y proporcionado y el Poder Ejecutivo hará las observaciones pertinentes y fundadas y en su caso, lo aprobará.
 
@@ -223,9 +237,13 @@ Con base en estudios económicos, el Colegio propondrá el proyecto de arancel j
 
 Cuando así lo acuerde el Ejecutivo, la Secretaría por conducto de la Dirección requerirá a los Notarios del Estado para que colaboren en la prestación de servicios Notariales, para satisfacer demandas de interés social o cumplir con programas de atención a grupos marginados. En estos casos, las condiciones para la prestación del servicio se fijarán por la Secretaría, considerando las características de los propios servicios y escuchando la opinión del Colegio.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 18.
 
-El Notario actuará únicamente a petición de parte interesada. La formación de la clientela del Notario debe cimentarse en su capacidad, honestidad y honradez.
+Los Notarios podrán asentar en los instrumentos que autoricen, a petición de parte, previa pregunta expresa al interesado, la voluntad de quienes intervengan en dichos actos, el ser considerados donadores de órganos humanos.
+
+De tal circunstancia el Notario notificará a la Secretaría de Salud dentro de las 48 horas siguientes a la autorización definitiva del instrumento público, para los efectos de inscribirse en el registro correspondiente.
 
 ###### Artículo 19.
 
@@ -259,9 +277,11 @@ La función autenticadora del Notario es personal y en todas sus actuaciones de 
 
 #### Sección Primera. De la Función Notarial
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 26.
 
-La función notarial es la actividad que el Notario realiza conforme las disposiciones de esta Ley. Posee una naturaleza compleja: Es pública en cuanto proviene de los poderes del Estado y de la Ley, que obran en reconocimiento público de la actividad profesional de Notario y de la documentación notarial al servicio de la sociedad. De otra parte, es autónoma y libre, para el Notario que la ejerce, actuando con fe pública.
+La función notarial es la actividad que el Notario realiza conforme a las disposiciones de esta Ley. Posee una naturaleza compleja: es pública en cuanto proviene del Poder del Estado y de la Ley, que obran en reconocimiento público de la actividad profesional de Notario y de la documentación notarial al servicio de la sociedad de otra parte, es autónoma y libre, para el Notario que la ejerce, actuando con fe pública.
 
 ###### Artículo 27.
 
@@ -339,11 +359,13 @@ El aspirante a Notario, el que haya sido Notario del Estado de Nayarit o el Nota
 
 El Notario que consienta con las conductas descritas por los artículos 34 y 35 de esta ley, se hará acreedor a la sanción prevista en el artículo anterior.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 38.
 
-En razón de la especialización de la función notarial y la interminable necesidad de actualización de los profesionales que la ejercen, el Notario y el Notario Suplente Adscrito, deberán obtener del Colegio, la Certificación de Actualización, necesaria para garantizar la calidad de los servicios notariales que presten. La certificación la obtendrán aquellos que asistan ya sea al curso de actualización que organice el Colegio dentro de los primeros 4 cuatro meses de cada año o al evento de actualización organizado por la Asociación Nacional del Notariado Mexicano A. C. o por cualquier otro Colegio del País. Dicha Certificación tendrá una vigencia de un año. El fedatario que no cuente con la Certificación por causas imputables a él, se hará acreedor a la sanción establecida en el artículo 221 de esta Ley.
+Para garantizar la actualización de los profesionales que ejercen la función Notarial, el Notario y el Notario suplente adscrito, deberán obtener la certificación de actualización, necesaria para garantizar la calidad de los servicios notariales que presten. La certificación la obtendrán del Colegio, aquellos que asistan ya sea al curso de actualización que organice el Colegio dentro de los primeros cuatro meses de cada año o al evento de actualización organizado por la Asociación Nacional del Notario Mexicano, A.C., o por cualquier otro colegio del país. Dicha certificación tendrá una vigencia de un año. El fedatario que no cuente con la certificación por causas imputables a él, se hará acreedor a la sanción establecida en el artículo 221 de esta ley.
 
-La relación de Notarios certificados será proporcionada a la Dirección para su publicación en el Periódico Oficial.
+La relación de Notarios certificados será elaborada por la Dirección para su publicación en el Periódico Oficial de conformidad con la documentación presentada por el Colegio.
 
 ###### Artículo 39.
 
@@ -417,15 +439,25 @@ El Notario que deje de serlo, quedará impedido para intervenir como abogado en 
 
 Del Notario Suplente.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 47.
 
-A cada Notario le asiste el derecho de solicitar al Ejecutivo un Notario Suplente Adscrito a su Notaría, quien se encargara de suplirlo en sus ausencias temporales, y definitivas, de conformidad con lo establecido en esta Ley. Quien sea designado como Notario Suplente Adscrito, deberá contar previamente con patente de Aspirante a Notario, figurar inscrito en el padrón correspondiente, que año con año deberá ser publicado en el Periódico Oficial por la Dirección y contar con la certificación a que se refiere el artículo 38 de esta Ley.
+A cada Notario Titular le asiste el derecho de proponer o solicitar al Ejecutivo se le asigne Notario Suplente Adscrito a su Notaría, quien se encargará de cubrir sus ausencias temporales, y definitivas, de conformidad con lo establecido en esta Ley.
 
-Una vez solicitado por el Notario Titular, quienes integren el padrón de aspirantes a Notarios y estén interesados en concursar se someterán al examen previsto en los artículos 60, 61 y 63 de esta Ley.- El Ejecutivo expedirá la patente que lo acredite como Notario Público Suplente Adscrito a la Notaría a cargo del titular de número, a aquel aspirante que haya obtenido la calificación más alta.
+Cuando se trate de solicitud de designación y no mediare propuesta formulada a favor de alguien en lo específico por el Notario Titular, quienes integren el padrón de aspirantes a Notarios, cuenten con la certificación a que se refiere el artículo 38 de esta Ley y estén interesados en concursar; se someterán al examen previsto en los artículos 60, 61 y 63 de este ordenamiento. El aspirante que tenga la calificación aprobatoria más alta obtendrá la patente.
+
+Cuando exista propuesta hecha por el Notario Titular, la persona de que se trate, deberá estar inscrita en el padrón de aspirantes a Notario, contar con la certificación a que se refiere el artículo 38 de esta Ley, y someterse al examen previsto en los artículos arriba indicados.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 48.
 
-Para el efecto de cubrir la titularidad de notarías vacantes o de nueva creación, distintas de la cual son titulares; o a la de su adscripción, respectivamente, los Notarios y los Notarios Suplentes Adscritos, podrán concursar en igualdad de condiciones que los Aspirantes, sin necesidad de acreditar el requisito de la práctica notarial.
+El Ejecutivo a través de la Dirección, convocará al profesional del derecho propuesto por el notario titular para que sea asignado con el carácter de notario suplente adscrito a su notaria, para que dentro de un término de 15 quince días hábiles, acredite los requisitos previstos en el artículo 57. Una vez satisfecho esto la dirección comprobará la fidelidad de la documentación presentada en los términos del segundo párrafo del artículo 58 de esta ley, y en caso de encontrarla ajustada a derecho establecerá el día, hora y lugar del examen, lo que comunicará al sustentante y al notario titular que hubiere realizado la propuesta.
+
+Para el efecto de cubrir la titularidad de notarías, vacantes o de nueva creación, distintas de la cual son titulares; o a la de su adscripción, respectivamente, los Notarios y los Notarios Suplentes Adscritos, podrán concursar en igualdad de condiciones que los Aspirantes, sin necesidad de acreditar el requisito de la práctica notarial.
+
+No se considerarán notarías vacantes aquellas en las (sic) se hubiere designado notario suplente adscrito.
 
 #### Sección Cuarta. Del Notario Honorario
 
@@ -463,7 +495,9 @@ Corresponde al Ejecutivo a través de la Dirección, al Colegio y a sus miembros
 
 I. Desarrollar la carrera notarial, guardar, cumplir y hacer cumplir la realización de sus principios. En dicho desarrollo podrán participar facultades y escuelas de Derecho e instituciones dedicadas e investigación jurídica;
 
-II. Difundir los instrumentos informativos y formativos para el ejercicio imparcial del derecho preventivo y la dictaminación objetiva, en el desarrollo del Estado Constitucional de Derecho.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2005)</small>
+
+II. Difundir los instrumentos informativos y formativos en la materia.
 
 ###### Artículo 55.
 
@@ -517,9 +551,11 @@ c) En general, toda persona que ejerza el derecho al servicio notarial en térmi
 
 #### Sección Segunda. De los Exámenes
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 57.
 
-El Ejecutivo a través de la Dirección convocará dentro de los primeros quince días del mes de enero de cada año a los profesionales del derecho interesados en adquirir el carácter de Aspirante a Notario, a que concurran en la fecha señalada dentro de los siguientes 15 quince días naturales a partir de la fecha de publicación de la convocatoria, a presentar solicitud para la practica del examen correspondiente, a efecto de conformar con los aprobados, el padrón de aspirantes que será publicado en el mes de marzo de cada año en el Periódico Oficial;
+El Ejecutivo a través de la Dirección convocará dentro de los primeros sesenta días de cada año a los profesionales del derecho interesados en adquirir el carácter de Aspirante a Notario, a que concurran en la fecha señalada dentro de los siguientes 15 quince días naturales a partir de la fecha de publicación de la convocatoria, a presentar solicitud para la práctica del examen correspondiente, a efecto de conformar con los aprobados, el padrón de aspirantes que será publicado en el mes de Marzo de cada año en el Periódico Oficial.
 
 Para solicitar el examen de Aspirante a Notario, el interesado deberá satisfacer los siguientes requisitos:
 
@@ -535,7 +571,9 @@ V. No haber sido declarado en Quiebra o Concurso de Acreedores;
 
 VI. No estar sujeto a proceso, ni haber sido condenado por sentencia ejecutoriada, por delito intencional;
 
-VII. Acreditar cuando menos veinticuatro meses de práctica notarial ininterrumpida, bajo la dirección y responsabilidad de algún Notario del Estado, pudiendo mediar un lapso de hasta un año entre la terminación de dicha práctica y la solicitud del examen correspondiente. El inicio de la práctica notarial por el Aspirante será autorizado por la Dirección, debiendo publicarse dicha autorización en el periódico oficial. Podrá sustituirse la practica notarial a que se hace mención acreditando haber cursado estudios especializados en derecho notarial o ramas afines en Instituciones autorizadas;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2005)</small>
+
+VII. Acreditar cuando menos un año de práctica notarial ininterrumpida, bajo la dirección y responsabilidad de algún Notario del Estado, pudiendo mediar un lapso de hasta un año entre la terminación de dicha práctica y la solicitud del examen correspondiente. El inicio de la práctica notarial por el aspirante será autorizado por la dirección, debiendo publicarse dicha autorización en el Periódico Oficial. Podrá sustituirse la práctica notarial a que se hace mención acreditando haber cursado estudios especializados en derecho notarial o ramas afines en instituciones autorizadas;
 
 VIII. Presentar dicha solicitud por escrito a la autoridad competente en el formulario autorizado al efecto por la misma, marcando copia al Colegio, requisitando los datos y acompañando los documentos que el mismo formulario señale;
 
@@ -547,15 +585,19 @@ Una vez presentada la solicitud y acreditados los requisitos que anteceden, la D
 
 De la comunicación señalada en el párrafo que antecede se marcará copia al Colegio.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 58.
 
-Para acreditar los requisitos a que se refieren las facciones I y III del artículo anterior, el interesado deberá exhibir, junto a su solicitud de examen, las constancias documentales públicas respectivas; en el caso de la residencia se acreditará con la constancia a que se refiere el artículo 114 fracción V de la Ley Municipal para el Estado de Nayarit. Para acreditar los requisitos a que se refiere la fracción II, IV, V y X con certificado médico expedido por la Secretaría de Salud Pública del Estado y con su Declaración Protestada; para acreditar el requisito a que se refiere la fracción VI con la carta de no antecedentes criminales, expedida por la autoridad competente estatal y federal, así como constancia de no-reclusión, expedida por la Dirección General de Prevención y Readaptación Social del Gobierno del Estado, en el caso del residente deberá exhibir carta de no antecedentes criminales del (sic) los últimos lugares donde haya residido con anterioridad; para acreditar el requisito a que se refiere la fracción VII, con el ejemplar del periódico oficial donde se publicó la Autorización del inicio de la práctica y la certificación de la Dirección por la terminación de la misma, o con la certificación de los estudios de especialización en la materia que al efecto expida la Institución autorizada.
+Para acreditar los requisitos a que se refieren las fracciones I y III del artículo anterior, el interesado deberá exhibir, junto a su solicitud de examen, las constancias documentales públicas respectivas, en el caso de la residencia se acreditará con la constancia a que se refiere el artículo 114 fracción V de la Ley Municipal para el Estado de Nayarit. Para acreditar los requisitos a que se refieren las fracciones II, IV, V y X con certificado médico expedido por la Secretaría de Salud del Estado y con su Declaración Protestada; para acreditar el requisito a que se refiere la fracción VI con la carta de no antecedentes criminales, expedida por la autoridad competente, en el caso del residente deberá exhibir carta de no antecedentes criminales de los últimos lugares donde haya residido con anterioridad; para acreditar el requisito a que se refiere la fracción VII, con el ejemplar del periódico oficial donde se publicó la autorización del inicio de la práctica y la certificación de la Dirección por la terminación de la misma, o con la certificación de los estudios de especialización en la materia que al efecto expida la institución autorizada.
 
 La Dirección tendrá en todo tiempo, facultades para examinar y en su caso investigar la veracidad, legalidad y validez de los elementos aportados por el solicitante. En caso de incongruencia, falsedad o insuficiencia, la solicitud será rechazada de plano, dentro de un plazo que no deberá exceder de 15 días a partir de la conclusión de las investigaciones realizadas, expresándose de manera puntual la fundamentación y motivación de la resolución correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 59.
 
-Cuando una o varias notarías estuvieren vacantes o se hubiere resuelto crear una o más, la Dirección publicará convocatoria para que los Aspirantes a Notario y los Notarios Suplentes Adscritos que así lo soliciten, presenten el examen de oposición correspondiente. Esta convocatoria será publicada una sola vez en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit y por dos veces consecutivas con intervalos de tres días en uno de los periódicos de mayor circulación en la capital del Estado, y contendrá los siguientes requisitos:
+Cuando una o varias Notarías estuvieren vacantes y no tuvieren suplente adscrito con patente o se hubiere resuelto crear una o más, la Dirección publicará Convocatoria para efectos de lo dispuesto en el Artículo 48 o, en su caso, para que los aspirantes a Notario y los Notarios suplentes adscritos que así lo soliciten, presenten el examen de oposición correspondiente. Esta Convocatoria será publicada una sola vez en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit y por dos veces consecutivas con intervalos de tres días en tres de los periódicos de mayor circulación en la capital del Estado, y contendrá los siguientes requisitos:
 
 I. Señalar las fechas, horarios y lugar, relativos al inicio y término del periodo de inscripción al examen. En ningún caso el periodo de inscripción excederá de diez días naturales, contados a partir de la última publicación de la convocatoria;
 
@@ -565,19 +607,45 @@ III. Indicar el número de las notarías vacantes y de nueva creación, y
 
 IV. Señalar la obligación de pagar previamente, los derechos que determine la Ley de Ingresos para el Estado de Nayarit, por la práctica del examen.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 60.
 
-Para obtener la patente de Notario, o Notario Suplente Adscrito, el profesional del Derecho interesado, además de no estar impedido para presentar examen, conforme a la fracción VIII del artículo 63 de esta ley, deberá:
+Para obtener la patente de Notario titular, o en su caso de Notario Suplente Adscrito, el profesional del Derecho interesado, además de no estar impedido para presentar examen, conforme a la fracción VIII del artículo 63 de esta Ley, deberá:
 
-I. Tener patente de aspirante a Notario inscrita en el padrón que anualmente publicará la Dirección en el periódico oficial;
+> <small>(ADICIONADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2005)</small>
 
-II. Para obtener la Patente de Notario, y Notario Suplente Adscrito el Aspirante deberá solicitar la inscripción al examen de oposición, según la convocatoria expedida por la Dirección. Los solicitantes expresaran su sometimiento a lo inapelable del fallo del jurado;
+Para el caso de patente de notario titular:
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2005)</small>
+
+I. Tener patente de aspirante a Notario inscrita en el padrón que anualmente publicará la Dirección en el periódico oficial, o contar con patente de Notario Suplente Adscrito;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2005)</small>
+
+II. Solicitar la inscripción al examen de oposición, según la convocatoria expedida por la Dirección. Los solicitantes expresarán su sometimiento a lo inapelable del fallo del jurado;
 
 III. Efectuar el pago de los derechos que fije La Ley de Ingresos del Estado vigente;
 
-IV. Para que el sustentante obtenga la patente de Notario, o Notario Suplente Adscrito deberá lograr el primer lugar en el examen de oposición respectivo, en los términos de los artículos 61 y 63 de esta ley.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2005)</small>
+
+IV. Obtener el primer lugar en el examen de oposición respectivo, en los términos de los artículos 61 y 63 de esta ley;
 
 V. Rendir la protesta a que se refiere el artículo 69 de esta ley, lo que implica para quien la realiza la aceptación de la patente respectiva, su habilitación para el ejercicio notarial y su pertenencia al Notariado del Estado.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2005)</small>
+
+Para el caso de patente de notario suplente adscrito:
+
+I. Tener patente de aspirante a Notario inscrita, y haber sido propuesto por el notario titular y aprobar el examen conforme a lo previsto en los artículos 61 y 63 de esta ley.
+
+II. En el caso de haber solicitado se le asigne, tener patente de aspirante a Notario inscrita en el padrón que anualmente publicará la Dirección en el periódico oficial, haber solicitado la inscripción al examen de oposición, según la convocatoria expedida por la Dirección. Los solicitantes expresarán su sometimiento a lo inapelable del fallo del jurado.
+
+III... (sic)
+
+IV. Para que el sustentante a que alude la fracción II anterior, obtenga la patente de Notario, o Notario Suplente Adscrito deberá lograr el primer lugar en el examen de oposición respectivo, en los términos de los artículos 61 y 63 de esta ley.
+
+V… (sic)
 
 ###### Artículo 61.
 
@@ -589,11 +657,15 @@ II. El jurado estará integrado por:
 
 a. Un Presidente, nombrado por el Ejecutivo, que deberá ser Notario.
 
-b. Un secretario, que será el Director, quien se encargará de levantar el acta circunstanciada, la que será conservada, foliada en forma progresiva y consecutiva en el Libro de Registro de Exámenes de Aspirante a Notario, Notario Suplente Adscrito o en su caso en el Libro de Registro de Exámenes de Oposición, y
+b. Un secretario, que será el Director, quien se encargará de levantar el acta circunstanciada, la que será conservada, foliada en forma progresiva y consecutiva en el Libro de Registro de Exámenes de Aspirante a Notario, Notario Suplente Adscrito o en su caso en el Libro de Registro de Exámenes de Oposición, y (sic)
 
-c. Tres vocales, de los cuales uno deberá ser un Notario perteneciente al Consejo Directivo de la Asociación Nacional del Notariado Mexicano A. C, otros dos que deberán ser notarios del Estado y designados por el Colegio. Los suplentes serán nombrados por quien designe a los titulares
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2005)</small>
 
-d. Los exámenes de Notario y Notario Suplente Adscrito serán por oposición, y consistirán en dos pruebas aplicables a cada sustentante, una práctica y otra teórica;
+c).- Tres vocales, de los cuales uno será el Presidente del Consejo Directivo del Colegio, en su carácter de miembro del Consejo Directivo de la Asociación Nacional del Notariado Mexicano A.C.; los otros dos deberán ser Notarios del Estado, designados por el Colegio. Los suplentes serán nombrados por quien designe a los titulares.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2005)</small>
+
+d).- Los exámenes de Notario y Notario Suplente Adscrito, serán por oposición salvo en el caso de propuesta por el notario titular, y consistirán en dos pruebas aplicables a cada sustentante, una práctica y otra teórica;
 
 III. Los exámenes, tanto en su prueba escrita como la teórica, se efectuarán en la sede designada por la Dirección;
 
@@ -629,11 +701,17 @@ Además de regirse por lo anterior, el examen para la obtención de la patente d
 
 La calificación que otorgue el jurado será sin sujeción a escala alguna, apegándose al procedimiento y formatos establecidos en las fracciones XIV y XV del artículo 61 de esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 63.
 
 El examen para obtener la patente de Notario y Notario Suplente Adscrito se regirá por las siguientes reglas:
 
-I. Se realizará un examen por cada notaría vacante; en él participarán todos los Aspirantes a Notario y Notarios suplentes adscritos que se hayan inscrito.- En el caso del examen para Notario Suplente adscrito solo participarán los aspirantes que se hayan inscrito;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2005)</small>
+
+I. Se realizará un examen por cada notaría vacante; en él participarán todos los Aspirantes a Notario y Notarios suplentes adscritos que se hayan inscrito.
+
+En el caso del examen para Notario Suplente adscrito sólo participarán los aspirantes que se hayan inscrito, salvo en el caso de propuesta por el notario titular;
 
 II. Para la prueba práctica, se reunirán los sustentantes en el lugar que determine la Dirección el día y hora señalados en la convocatoria. Alguno de los sustentantes elegirá uno de los sobres que guarden los temas, de entre veinte de ellos, debiendo todos los sustentantes desarrollar el que se haya elegido; asimismo ahí se sorteará el orden de presentación de los sustentantes a la prueba teórica;
 
@@ -647,27 +725,35 @@ VI. Reunido el jurado, cada uno de sus miembros interrogará al sustentante excl
 
 VII. Para el desahogo del examen teórico deberán celebrarse cuando menos dos sesiones por semana;
 
-VIII. Concluida la prueba teórica de cada sustentante, los miembros del jurado emitirán separadamente y por escrito, la calificación que cada uno de ellos otorgue a las pruebas, práctica y teórica, en escala numérica del 0 al 100 y promediarán los resultados. La suma de los promedios se dividirá entre cinco para obtener la calificación final, cuyo mínimo para aprobar será el de 70 puntos; los que obtengan calificación inferior a 70, pero no inferior a 65 puntos, podrán presentar nuevo examen tan pronto haya una siguiente oposición, siempre y cuando tuviere satisfechos los requisitos previstos en el artículo 60 de esta ley;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2005)</small>
+
+VIII. Concluida la prueba teórica de cada sustentante, los miembros del jurado emitirán separadamente y por escrito, la calificación que cada uno de ellos otorgue a las pruebas, práctica y teórica, en escala numérica del o al 100 y promediarán los resultados. La suma de los promedios se dividirán entre cinco para obtener la calificación final, cuyo mínimo para aprobar será el de 70 puntos; los que obtengan calificación inferior a 70, pero no inferior a 65 puntos, podrán presentar nuevo examen tan pronto haya una siguiente oposición, siempre y cuando, tuviere satisfechos los requisitos previsto en el 60 de esta ley, con la salvedad de que, el sustentante propuesto por el Notario titular, deberá obtener una calificación aprobatoria no menor de 85 puntos.
 
 Los aspirantes que obtengan una calificación inferior a 65 puntos, no podrán solicitar nuevo examen de oposición, sino pasado un año a partir de su reprobación.
 
-Quienes desistan antes del tiempo máximo de entrega de la prueba práctica, se entenderá que abandonan el examen y podrán presentar nuevo examen, tan pronto haya una siguiente oposición, siempre y cuando tuviere satisfechos los requisitos previstos en el artículo 57 de esta ley;
+Quienes desistan antes de tiempo máximo de entrega de la prueba práctica, se entenderá que abandonan el examen y podrán presentar nuevo examen, tan pronto haya una siguiente oposición, siempre y cuando tuviere satisfechos los requisitos previstos en el artículo 57 de esta ley;
 
 IX. Será triunfador en la oposición para obtener la patente concursada, el sustentante que haya obtenido la calificación aprobatoria más alta;
 
-X. Queda reservada al Ejecutivo en todo caso, la facultad de calificar la idoneidad de los sustentantes aprobados;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2005)</small>
+
+X. Queda reservada la facultad al Ejecutivo de examinar la legalidad del procedimiento empleado;
 
 XI. Los Notarios Suplentes Adscritos podrán concursar para ocupar las Notarías vacantes o de nueva creación, distintas a la de su adscripción, en igualdad de circunstancias que los aspirantes; en el supuesto de que obtengan la patente de la notaría concursada, quedará vacante la suplencia que ocupaban para ser cubierta en términos de Ley;
 
-XII. Si solo se presentare una solicitud para concursar en el examen para adquirir la patente de Notario, o de Notario Suplente Adscrito, bastará que el sustentante apruebe el examen.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2005)</small>
+
+XII. Si sólo se presentare una solicitud para concursar en el examen para adquirir la patente de Notario, o de Notario suplente Adscrito, se declarará desierto el concurso y sólo se podrá convocar hasta pasados 6 meses de publicado el acuerdo correspondiente en el Periódico Oficial.
 
 ###### Artículo 64.
 
 Como labor de supervisión, los Poderes Legislativo y Judicial del Estado podrán, si lo estiman conveniente, nombrar uno o más observadores del examen, licenciados en Derecho, quienes podrán emitir opinión sobre su perfeccionamiento, sin que ésta tenga efecto vinculatorio con el desarrollo y resultado del examen de que se trate. Dicha opinión la harán del conocimiento de la autoridad competente y del Colegio, a efecto de que se tomen las medidas necesarias para perfeccionar la práctica y desarrollo de los exámenes. Los observadores designados podrán estar presentes en todas las etapas del examen.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 65.
 
-Concluidos los exámenes, el Ejecutivo hecho su juicio de idoneidad, expedirá las patentes de aspirante de Notario a quienes hayan resultado aprobados en el examen respectivo y de Notario y Notario Suplente Adscrito a quien haya resultado triunfador en el examen de oposición correspondiente o a quien haya resultado aprobado si se trata del supuesto establecido en la fracción XII del artículo 63. En todo caso, de cada patente se expedirán dos ejemplares. El Ejecutivo o quien haga sus veces en ningún caso podrá otorgar la patente de Notario a quien no haya cumplido los requisitos establecidos en esta Ley o que no hubiere aprobado el examen de oposición correspondiente.
+Concluidos los exámenes, el Ejecutivo expedirá las patentes de aspirantes de Notario a quienes hayan resultado aprobados en el examen respectivo y de Notario y Notario Suplente Adscrito a quien haya resultado triunfador en el examen de oposición correspondiente. En todo caso, de cada patente se expedirán dos ejemplares. El ejecutivo o quien haga sus veces en ningún caso podrá otorgar la patente de Notario a quien no haya cumplido los requisitos establecidos en esta Ley o que no hubiere aprobado el examen de oposición correspondiente.
 
 ###### Artículo 66.
 
@@ -681,6 +767,10 @@ Las patentes de aspirante y de Notario deberán registrarse, en el Registro Púb
 
 Los Notarios y Notarios Suplentes Adscritos son inamovibles de su cargo, salvo los casos previstos en esta Ley. Asimismo la patente de los aspirantes es definitiva y permanente.
 
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2005)</small>
+
+En el caso del Notario Suplente Adscrito, nombrado a petición del Titular, podrá ser revocado por el Ejecutivo, a solicitud fundada y motivada por el Titular.
+
 ### CAPÍTULO II. DE LA ACTUACIÓN NOTARIAL
 
 #### Sección Primera. Del Inicio de la Actuación Notarial
@@ -689,7 +779,11 @@ Los Notarios y Notarios Suplentes Adscritos son inamovibles de su cargo, salvo l
 
 Para que la persona que haya obtenido la patente pueda actuar en ejercicio de la función notarial y pertenecer al Colegio, deberá rendir protesta ante el Ejecutivo, o ante el Secretario General de Gobierno o ante el Director, quienes podrán fungir oficiosamente como representante del primero sin necesidad de delegación expresa;
 
-"Protesto, como Notario guardar y hacer guardar el Derecho, la Constitución Política de los Estados Unidos Mexicanos, y la Particular del Estado de Nayarit y las Leyes que de ellas emanen, en particular la Ley del Notariado; y desempeñar objetiva, imparcial, leal y patrióticamente, el ejercicio de la fe pública que se me ha conferido, guardando en todo momento el estricto respeto al Estado Constitucional de Derecho y a los valores ético jurídicos que el mismo comporta, y si así no lo hiciere seré responsable, y pido hoy que en cada caso los particulares a quienes debo servir, las autoridades y el Colegio así me lo exijan y demanden, conforme a la ley y sus sanciones".
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2005)</small>
+
+El Ejecutivo preguntará:
+
+“Protesta, como Notario guardar y hacer guardar el derecho, la Constitución Política de los Estados Unidos Mexicanos y la Particular del Estado de Nayarit y las leyes que de ellas emanen, en particular la Ley del Notariado; y desempeñar objetiva, imparcial, leal y patrióticamente, el ejercicio de la fe pública que se le ha conferido, guardando en todo momento el estricto respeto al Estado Constitucional de Derecho y a los valores éticos jurídicos que el mismo comporta, y si así no lo hiciere será responsable conforme a la ley”.
 
 ###### Artículo 70.
 
@@ -702,6 +796,10 @@ II. Proveerse a su costa, previa autorización de la Dirección, de protocolo y 
 III. Dar aviso de lo anterior a las autoridades competentes y al Colegio; señalando con precisión al exterior del inmueble que ocupe, el número de la notaría; su nombre y apellidos; horario de trabajo, días hábiles o si prefiere los inhábiles; teléfonos y otros datos que permitan al público la expedita comunicación con la notaría a su cargo, y
 
 IV. La autoridad competente publicará la iniciación de funciones de los Notarios en el Periódico Oficial sin costo para el Notario además, el Notario mandará publicar en el periódico de mayor circulación en la demarcación correspondiente, por un mínimo de cinco días un aviso para el público general.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2005)</small>
+
+Las obligaciones previstas en las fracciones II, III y IV también serán para los titulares que soliciten y obtengan el cambio de residencia de la Notaría Pública.
 
 ###### Artículo 71.
 
@@ -717,9 +815,11 @@ De los elementos notariales: Sello de autorizar y Protocolo.
 
 SELLO DE AUTORIZAR
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 72.
 
-El sello del Notario es el medio por el cual éste ejerce su facultad fedataria con la impresión del símbolo del Estado en los documentos que autorice. Cada sello será metálico, tendrá forma circular, con un diámetro de cuatro centímetros, reproducirá en el centro el escudo nacional y deberá tener escrito alrededor de éste, el nombre y apellidos del Notario su calidad de Titular o Suplente, su número y el lugar de residencia. El número de la notaría deberá grabarse con guarismos.
+El sello del Notario es el medio por el cual éste ejerce su facultad fedataria con la impresión del escudo del Estado en los documentos que autorice. Cada sello tendrá forma circular, con un diámetro de cuatro centímetros, reproducirá en el centro el escudo nacional y deberá tener escrito alrededor de éste, el nombre y apellidos del Notario su calidad de Titular o Suplente, su número y el lugar de residencia. El número de la Notaría deberá grabarse con guarismos.
 
 El sello expresa el poder autentificador del Notario y lo público de su función.
 
@@ -767,9 +867,13 @@ Los folios que forman el protocolo son aquellas hojas que constituyen la papeler
 
 Los instrumentos, libros y apéndices que integren el protocolo deberán ser numerados progresivamente. Los folios deberán utilizarse en forma progresiva por ambas caras y los instrumentos que se asienten en ellos se ordenarán en forma sucesiva y cronológica por el Notario, y se encuadernarán en libros que se integrarán por doscientos folios, excepto cuando el Notario deba asentar un instrumento con el cual rebasaría ese número, en cuyo caso deberá dar por terminado el libro sin asentar dicho instrumento, iniciando con éste el libro siguiente, el que se formará con estos y los doscientos folios que le corresponden, salvo que se tratare del último libro en cuyo caso inutilizarán los folios no utilizados.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 81.
 
-El Notario no podrá autorizar acto alguno sin que lo haga constar en los folios que forman el protocolo, Para lo relativo a la clausura del protocolo se procederá conforme a lo previsto por los artículos 198 y 199 de esta Ley.
+El Notario deberá hacer constar en los folios las escrituras y actas, que conforme a esta Ley deba hacerlo. Lo anterior con la finalidad de constituir y resguardar la matricidad respectiva.
+
+La ratificación, reconocimiento y puesta de firmas en documentos de personas identificadas por el Notario, así como cotejos, podrán constar en actas o en el propio documento.
 
 ###### Artículo 82.
 
@@ -869,17 +973,11 @@ Al entregarse definitivamente la decena de libros a la Dirección, se acompañar
 
 ESCRITURAS
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 100.
 
-Escritura es cualquiera de los instrumentos públicos siguientes:
-
-I. El original que el Notario asienta en folios, para hacer constar uno o más actos jurídicos y que firmado por los comparecientes, el Notario autoriza con su sello y con su firma;
-
-II. El original integrado por lo siguiente:
-
-a) Por el documento en el que el Notario consigna uno o más actos jurídicos y que deberá llenar las formalidades que este capítulo establece; ser firmado en cada una de sus hojas y al final por los comparecientes y el Notario; llevar el sello de éste en los expresados lugares y agregarse al apéndice con sus anexos. Hará mención de la escritura de la que forma parte y el o los folios en los que se contiene la síntesis a que se refiere el inciso siguiente y,
-
-b) Por la síntesis asentada por el Notario en los folios que correspondan, en la que se señalen los elementos personales y materiales del o de los actos consignados. Dicha síntesis contendrá el número de hojas de que se compone así como una relación completa de sus anexos, y una vez firmada por los comparecientes será autorizada por el Notario con su sello y firma.
+Escritura es el instrumento público en el que el Notario hace constar uno o varios actos jurídicos y que firmado por los comparecientes el Notario autoriza con su sello y firma.
 
 ###### Artículo 101.
 
@@ -1035,9 +1133,11 @@ Si la escritura contuviere varios actos jurídicos y dentro del término que se 
 
 El Notario que autorice una escritura en la que mencione a otra u otras escrituras anteriores extendidas en su protocolo, que no hayan sido objeto de registro, lo advertirá así al otorgante interesado y cuidará, una vez que haya sido expensado para ello, en su caso, que se haga en aquél la inscripción o inscripciones, así como la anotación o anotaciones correspondientes. Si el libro de que se trate estuviera depositado definitivamente en la Dirección, el Notario comunicará a dicha dependencia lo procedente para que ésta, previo pago del derecho correspondiente, haga la anotación o anotaciones del caso.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 119.
 
-Cuando se trate de revocación o renuncia de poderes o de mandatos o ello resulte de documentos que contengan acuerdos de órganos de personas morales o agrupaciones o de renuncias que les afecten a ellas, y que el Notario protocolizare, éste procederá como sigue:
+Siempre que ante un Notario se otorgue o revoque en testamento, poder o mandato, éste dará aviso a la dirección, dentro de los tres días hábiles siguientes, en el que contendrá la información necesaria a criterio del Registro Nacional correspondiente y la propia Dirección, procediendo como a continuación se indica:
 
 I. Si el acto revocado o renunciado consta en el protocolo de la Notaría a su cargo y la escritura está aún bajo su guarda, tomará razón de ello en nota complementaria;
 
@@ -1055,9 +1155,11 @@ Cuando se revoque, rescinda o modifique un acto contenido en una escritura, se d
 
 Siempre que ante un Notario se otorgue un testamento, éste dará aviso a la Dirección, dentro de los tres días hábiles siguientes, en el que contendrá la información necesaria a criterio del Registro Nacional de Testamentos y la propia Dirección.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 122.
 
-La Dirección llevará un registro especialmente destinado a asentar las inscripciones relativas a los testamentos con los datos que se requieran en términos del artículo anterior y entregará informes únicamente a Notarios, jueces legitimados, y a los particulares con interés jurídico, justificada que sea la defunción del autor de la sucesión, previa solicitud. A ninguna otra autoridad, así fuera de jerarquía superior, se entregarán informes sobre dichos actos ni los servidores públicos encargados podrán proporcionar datos relativos a persona alguna.
+La Dirección llevará un registro especialmente destinado a asentar las inscripciones relativas a los testamentos, poderes o mandatos, con los datos que se requieran en términos del artículo anterior y entregará informes únicamente a Notarios, jueces legitimados, y a los particulares con interés jurídico, justificada que sea la defunción del autor de la sucesión, previa solicitud. A ninguna otra autoridad, así fuera de jerarquía superior, se entregarán informes sobre dichos actos, ni los servidores públicos encargados podrán proporcionar datos relativos a persona alguna.
 
 ###### Artículo 123.
 
@@ -1393,15 +1495,21 @@ Los herederos y albacea otorgarán las escrituras de partición y adjudicación 
 
 El Notario titular será suplido en sus faltas temporales o definitivas, salvo los casos de excepción establecidos en esta Ley:
 
-I. Por el Notario Suplente Adscrito; y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2005)</small>
 
-II. Por otro Notario con quien tenga celebrado convenio de Asociación, si no tuviese suplente.
+I.- Por el Notario suplente adscrito.
 
-Se entiende por falta temporal la separación del Notario en el ejercicio de sus funciones por más de 3 días naturales consecutivos.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2005)</small>
+
+II.- Por otro Notario con quien tenga celebrado convenio de Asociación.
+
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 17 DE DICIEMBRE DE 2005)</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 179.
 
-El Notario que no tuviere suplente, deberá celebrar convenio de asociación con otro Notario de número de la misma demarcación, para que lo supla o se suplan recíprocamente en sus ausencias temporales. En caso de que existiere suplente en uno de ellos deberá de precisarse la calidad de asociante y asociado, que determina que la asociación sólo tiene efectos de suplencia en sólo uno de los Protocolos.
+El Notario que no tuviere suplente adscrito, deberá celebrar convenio de asociación con otro notario de número de la misma demarcación notarial para que lo supla o se suplan recíprocamente en sus ausencias temporales. En caso de que existiere suplente en uno de ellos, éste comparecerá a la firma del convenio respectivo y podrá intervenir en los actos notariales indistintamente, en los casos de ausencia de su Titular.
 
 Los Notarios que inicien el ejercicio de sus funciones, gozarán de un plazo de noventa días naturales para celebrar convenio de Asociación. Si un Notario no encontrare Asociado o no lo presentare a la Dirección en el plazo señalado, ésta le indicará con quien habrá de Asociarse.
 
@@ -1455,11 +1563,11 @@ Los Notarios podrán solicitar de la Secretaría licencia para separarse del eje
 
 Sin perjuicio de lo dispuesto en el artículo anterior, salvo causa justificada, no se concederá nueva licencia al Notario que no hubiere actuado ininterrumpidamente por seis meses a partir del vencimiento de la anterior licencia. Transcurridos los términos de la licencia o aviso a que se refieren los artículos anteriores, el Notario deberá reiniciar sus funciones de inmediato.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 190.
 
-La Secretaría concederá licencia, por el tiempo que dure en el ejercicio de su cargo, al Notario que resulte electo para ocupar un puesto de elección popular o designado para la judicatura o para desempeñar algún empleo, cargo o comisión públicos.
-
-En el caso de la separación por licencia prevista en el artículo 188, y primer párrafo de este artículo, la Notaría permanecerá cerrada por el tiempo de su vigencia. El asociado durante el término de tres meses concluirá los trámites pendientes entregando el protocolo a cargo, a la Dirección para su resguardo, hasta en tanto reinicie funciones notariales, lo anterior siempre y cuando el Notario no cuente con Notario Suplente Adscrito.
+La Secretaría concederá licencia, por el tiempo que dure en el ejercicio de su cargo, al Notario que resulte electo para ocupar un puesto de elección popular o designado para la judicatura o para desempeñar algún empleo, cargo o comisión públicos, quedando impedido en sus funciones notariales. Quienes estén en el supuesto anterior observarán lo dispuesto por la ley de la materia, actuando en su lugar un notario adscrito o asociado.
 
 #### Sección Tercera. Suspensión y Cesación de Funciones
 
@@ -1525,9 +1633,11 @@ En el supuesto de que hubiere Notario Suplente Adscrito, entrara de inmediato en
 
 Si el Notario que cesare en funciones no tuviere Suplente Adscrito, la Dirección con apoyo del Asociado recogerá el Protocolo y éste concluirá los asuntos en trámite debiéndosele depositar para ello los instrumentos y demás documentos necesarios para ello.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 199.
 
-A la diligencia referida en el artículo anterior comparecerán, en su caso, el Notario que haya cesado en sus funciones, su albacea, interventor o sus parientes el asociado, y un representante del Colegio. Los presentes formarán un inventario de libros de folios, de libros de registro de cotejos, de folios sin utilizar, apéndices, índices y todos los documentos que haya tenido el cesante en su poder para el desempeño de su función, y otro de los diversos bienes que se encuentren en la notaría. Se entregarán los bienes diversos, a quien haya cesado como Notario, a su albacea, interventor o parientes, y los libros de folios y demás objetos indispensables para el desarrollo de la función notarial los recogerá la Dirección para ser entregados al Asociado para los fines ya señalados. Un tanto de los inventarios y del acta que se levante será conservado por la Dirección, otro corresponderá al Asociado, otro para el Colegio y uno más al cesante o a su albacea, interventor o familiares.
+A la diligencia referida en el artículo anterior comparecerán, en su caso, el Notario que haya cesado en sus funciones, su albacea, interventor o sus parientes, el asociado y un representante del Colegio. Los presentes formularán un inventario de libros de folios, de folios sin utilizar, apéndices, índices y todos los documentos que hayan tenido el cesante en su poder para el desempeño de su función, y otro de los diversos bienes que se encuentren en la notaría. Se entregarán los bienes diversos, a quien haya cesado como Notario, a su albacea, interventor o parientes, y los libros de folios y demás objetos indispensables para el desarrollo de la función notarial los recogerá la Dirección para ser entregados al Asociado para los fines ya señalados. Un tanto de los inventarios y del acta que se levante será conservado por la Dirección, otro corresponderá al Asociado, otro para el Colegio y uno más al cesante o a su albacea, interventor o familiares.
 
 ###### Artículo 200.
 
@@ -1871,9 +1981,13 @@ El Director será nombrado y removido libremente por el Ejecutivo, En las licenc
 
 ### CAPÍTULO II. DEL COLEGIO DE NOTARIOS DEL ESTADO DE NAYARIT
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 237.
 
-El Colegio de Notarios del Estado de Nayarit, es un medio necesario para el cumplimiento de la garantía institucional del notariado. Por lo anterior, y por desempeñar una función de orden e interés público y social, los Notarios del Estado podrán agruparse en un único Colegio, que es el Colegio de Notarios del Estado de Nayarit, con personalidad jurídica y patrimonio propio, que ejercerá para el notariado y para las autoridades correspondientes, las facultades de representación, organización, gestión, intervención, verificación y opinión que esta ley le otorga.
+El Colegio de Notarios del Estado de Nayarit, es una persona moral, con personalidad jurídica y patrimonio propios, constituida para el cumplimiento de la garantía institucional del notariado. Ejercerá las facultades de representación, organización, gestión intervención, verificación y opinión que ésta Ley y su Estatuto le otorgan.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 238.
 
@@ -1935,7 +2049,9 @@ XXVII. Adquirir los bienes muebles e inmuebles necesarios o convenientes para el
 
 XXVIII. Instrumentar la creación y el desarrollo del Instituto de Investigaciones Jurídicas del Notariado, como órgano del Colegio, con autonomía propia, de su biblioteca y publicaciones, así como los convenios con la Dirección para hacer un fondo común para la investigación jurídica, en los términos de esta ley;
 
-XXIX. Organizar junto con la Dirección por riguroso turno las guardias para días festivos;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2005)</small>
+
+XXIX. Celebrar convenios con Gobierno del Estado para prestar servicios notariales gratuitos a solicitud del Titular del Poder Ejecutivo del Estado en aquellos casos en que el interés general y la precaria situación económica de los interesados así lo demande;
 
 XXX. Organizar y vigilar el cumplimiento de los turnos de operaciones que indica esta ley; independientemente de que lo haga la Dirección;
 
@@ -2002,3 +2118,11 @@ D a d o en la Sala de Sesiones "Lic. Benito Juárez García", del Honorable Cong
 Dip. Presidente, Everardo Sánchez Parra.- Rúbrica.- Dip. Secretario, Enrique Mejía Pérez.- Rúbrica.- Dip. Secretario, Juan Manuel Mier Pecina.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto de la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los veinticinco días del mes de enero del año dos mil cinco.- C.P. ANTONIO ECHAVARRÍA DOMÍNGUEZ.- Rúbrica.- El Secretario General de Gobierno, Lic. Adán Meza Barajas.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE DICIEMBRE DE 2005.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
