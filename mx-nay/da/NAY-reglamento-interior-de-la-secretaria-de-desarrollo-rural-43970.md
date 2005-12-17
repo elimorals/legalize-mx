@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-la-secretaria-de-desarrollo-rural-43970"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-12"
-last_updated: "2005-02-12"
+last_updated: "2005-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO RURAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2005.
 
 Reglamento publicado en la Sección Quinta del Periódico Oficial del Estado de Nayarit, el sábado 12 de febrero de 2005.
 
@@ -43,63 +43,65 @@ El presente reglamento, tiene por objeto normar la organización y funcionamient
 
 Cuando en estas disposiciones se refiera a la Secretaría, se entenderá a la Secretaría de Desarrollo Rural y al Secretario, al Secretario de Desarrollo Rural.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 2.
 
-Para el ejercicio de sus atribuciones y despacho de los asuntos que le competen, la Secretaría contará con las siguientes unidades administrativas:
+Para atención y despacho de los asuntos de su competencia, la Secretaría contará con la siguiente estructura orgánica administrativa, asesores y demás servidores públicos subalternos, conforme al Presupuesto de Egresos que se le apruebe:
 
-I. SECRETARIO
+1. SECRETARIO;
 
-I.1. Secretaría Particular
+1.1. Secretario Particular;
 
-I.2. Coordinación General de Administración
+2. SUBSECRETARIO;
 
-a) Departamento de Recursos Financieros
+2.1. Coordinación General de Administración;
 
-I.3. Coordinación de Información y Estadística
+2.1.1. Departamento de Recursos Financieros;
 
-I.4. Coordinación de Recursos del Fondo de Fomento Agropecuario del Estado de Nayarit (FOFAE).
+2.2. Coordinación de Información y Estadística;
 
-II. DIRECCIÓN GENERAL DE DESARROLLO AGROPECUARIO
+2.3. Coordinación de Recursos del Fondo de Fomento Agropecuario del Estado de Nayarit (FOFAE);
 
-II.1. Coordinación de Distritos de Desarrollo Rural
+3. DIRECCIÓN GENERAL DE DESARROLLO AGROPECUARIO;
 
-II.2. Dirección de Agricultura
+3.1. Coordinación de Distritos de Desarrollo Rural;
 
-a) Departamento de Fomento Agrícola
+3.2. Dirección de Agricultura;
 
-b) Departamento de Servicios Técnicos y Supervisión Agrícola
+3.2.1. Departamento de Fomento Agrícola;
 
-II.3. Dirección de Fomento Pecuario y Recursos Naturales
+3.2.2. Departamento de Servicios Técnicos y Supervisión Agrícola;
 
-a) Departamento de Desarrollo y Fomento Pecuario
+3.3. Dirección de Fomento Pecuario y Recursos Naturales;
 
-b) Departamento de Reservas Naturales
+3.3.1. Departamento de Desarrollo y Fomento Pecuario;
 
-c) Departamento de Recursos Naturales y Agricultura
+3.3.2. Departamento de Reservas Naturales;
 
-III. DIRECCIÓN GENERAL DE FOMENTO AGROINDUSTRIAL E INFRAESTRUCTURA HIDROAGRÍCOLA RURAL
+3.3.3. Departamento de Recursos Naturales y de Agricultura;
 
-III.1. Dirección de Pesca
+4. DIRECCIÓN GENERAL DE FOMENTO AGROINDUSTRIAL INFRAESTRUCTURA HIDROAGRÍCOLA RURAL;
 
-a) Departamento de Estudios y Seguimiento de Proyectos
+4.1. Dirección de Pesca;
 
-b) Departamento de Evaluación y Manejo de Pesquerías
+4.1.1. Departamento de Estudios y Seguimiento de Proyectos;
 
-III.2. Dirección de Desarrollo Agroindustrial
+4.1.2. Departamento de Evaluación y Manejo de Pesquerías;
 
-a) Departamento de Fomento a Agroindustrias
+4.2. Dirección de Desarrollo Agroindustrial;
 
-b) Departamento de Financiamiento y Comercialización
+4.2.1. Departamento de Fomento a Agroindustrias;
 
-III.3.Dirección de Infraestructura Rural
+4.2.2. Departamento de Financiamiento y Comercialización;
 
-a) Departamento de Estudios y Proyectos
+4.3. Dirección de Infraestructura Rural;
 
-b) Departamento de Construcción
+4.3.1. Departamento de Estudios y Proyectos;
 
-c) Departamento de Conservación y Mantenimiento Hidroagrícola
+4.3.2. Departamento de Construcción;
 
-Asimismo, el Secretario contará con asesores técnicos, las unidades administrativas y servidores públicos subalternos que se autoricen por acuerdo de su titular y que estén acordes al presupuesto de egresos de la Secretaría.
+4.3.3. Departamento de Conservación y Mantenimiento Hidroagrícola.
 
 ###### Artículo 3.
 
@@ -143,11 +145,11 @@ j).- Suscribir los documentos relativos al ejercicio de sus atribuciones, así c
 
 k).- Elaborar y proponer al titular del Poder Ejecutivo, los anteproyectos de leyes, reglamentos, acuerdos, convenios y demás disposiciones de carácter general que se requieran para el manejo de los asuntos de su competencia;
 
-l).- Certificar y expedir copias certificadas de los documentos que obren en sus archivos y de aquellos que expidan, en el ejercicio de sus funciones los servidores públicos;
+l).- (DEROGADO, P.O. 17 DE DICIEMBRE DE 2005)
 
 m).- Conocer y resolver, en el ámbito de su competencia, de los recursos administrativos que se interpongan en contra de los actos emanados de la Dependencia a su cargo; y
 
-n).- Atender, verificar y dar respuesta a las recomendaciones que señalen los organismos públicos de defensa de los derechos humanos con relación a la actuación de los servidores públicos adscritos física y presupuestalmente a dicha Dependencia.
+n).- (DEROGADO, P.O. 17 DE DICIEMBRE DE 2005)
 
 IV. Cuando sea coordinador de sector de las entidades de la Administración Pública Paraestatal, según el agrupamiento que por sectores hubiese determinado el Gobernador del Estado, coordinará la programación y presupuestación, conocerá la operación, evaluará los resultados y será el presidente en los órganos de gobierno de los organismos agrupados en el sector a su cargo, conforme a la legislación vigente;
 
@@ -165,7 +167,7 @@ X. Celebrar contratos y convenios con los sectores público, privado y social re
 
 XI. Abstenerse de la celebración de contratos y convenios relacionados con la contratación de créditos y empréstitos;
 
-XII. Proponer y acordar con el Gobernador del Estado los nombramientos y remoción de los tres siguientes niveles de confianza de la Secretaria y cuyo nombramiento no esté conferido a otras autoridades;
+XII. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2005)
 
 XIII. Acordar con el Gobernador del Estado, los nombramientos y/o remociones de los servidores públicos de los tres niveles jerárquicos inferiores y autorizar los movimientos del personal adscritos a la Secretaría;
 
@@ -191,9 +193,47 @@ XXIII. Resolver las dudas que se susciten con motivo de la interpretación o apl
 
 XXIV. Las demás que con este carácter le atribuyen expresamente el Ejecutivo del Estado y otras disposiciones legales y reglamentarias.
 
-### CAPITULO III. DE LAS ATRIBUCIONES GENÉRICAS DE LOS COORDINADORES, DIRECTORES GENERALES Y DIRECTORES
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2005)</small>
 
-### CAPITULO IV. DE LAS ÁREAS DE APOYO DEL SECRETARIO
+### CAPITULO III. DE LAS ATRIBUCIONES DEL SUBSECRETARIO
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2005)</small>
+
+Artículo 5 BIS.- Al frente de la Subsecretaría, habrá un Subsecretario que tendrá las siguientes atribuciones;
+
+I.- Coadyuvar y apoyar al Secretario en la toma de decisiones propias de la competencia de la Secretaría y coordinar la actuación de las áreas administrativas que le estén adscritas supervisando y analizando la información que rinden éstas para la toma de medidas preventivas y correctivas procedentes;
+
+II.- Establecer y conducir la política de administración interna que apruebe el Secretario en las áreas de su competencia;
+
+III.- Programar y planificar los programas de trabajo de la Secretaría, coordinar y establecer los mecanismos de control y evaluación de los mismos con las áreas operativas, administrativas y de apoyo de la Secretaría;
+
+IV.- Vigilar en la esfera de su competencia las actividades inherentes a las áreas administrativas de la Secretaría se realicen con apego de las disposiciones normativas aplicables;
+
+V.- Coordinar y vigilar que la ejecución de los programas y convenios federales, estatales y municipales en que se contemplen deberes, obligaciones y facultades inherentes a la competencia de la Secretaría se cumpla con estricto apego a las disposiciones aplicables;
+
+VI.- Dictar las medidas necesarias para el mejoramiento administrativo de las Unidades Administrativas de la Secretaría;
+
+VII.- Suplir las ausencias temporales del Secretario del despacho, así como representarlo en los casos o actividades que expresamente se le indique;
+
+VIII.- Desempeñar las comisiones que le sean encomendadas expresamente por el Secretario;
+
+IX.- Vigilar el cumplimiento y aplicación, de las Leyes Agrícolas, Ganaderas y Forestales del Estado y sus Reglamentos;
+
+X.- Coadyuvar en el cumplimiento de la observancia y aplicación de las Leyes, Decretos, Reglamentos y Acuerdos de carácter Federal y Estatal dentro de la competencia del sector Agropecuario, Pesquero y Forestal de la entidad;
+
+XI.- Vigilar que los programas que se realicen en materia Agropecuaria, Pesquera y Forestal, contengan criterios ecológicos para conservar y restaurar el medio ambiente;
+
+XII.- Proporcionar los datos que se requieran para la elaboración del Informa (sic) Anual del Titular del Ejecutivo, remitiéndolos oportunamente al Secretario;
+
+XIII.- Atender, verificar y dar respuesta a las recomendaciones que señalen los Organismos Públicos de Defensa de los Derechos Humanos con relación a la actuación que los servidores públicos adscritos físicamente y presupuestalmente a dicha dependencia;
+
+XIV.- Expedir copias certificadas de documentos y constancias, la información que obra en archivos de las Unidades Administrativas a su cargo, salvo la considerada como confidencial y reservada; y
+
+XV.- Todas aquellas que le competen conforme a la normatividad aplicable o que expresamente le indique el Titular de la Secretaría.
+
+(REUBICADO [N. DE E. ANTES CAPITULO III], P.O. 17 DE DICIEMBRE DE 2005)
+
+### CAPITULO IV. DE LAS ATRIBUCIONES GENÉRICAS DE LOS COORDINADORES, DIRECTORES GENERALES Y DIRECTORES
 
 ###### Artículo 6.
 
@@ -203,7 +243,9 @@ A cargo de cada Coordinación, Dirección General y Dirección de Área, habrá 
 
 Corresponde a los titulares el ejercicio de las siguientes facultades y obligaciones genéricas:
 
-l. Auxiliar al Secretario, dentro de la esfera de su competencia, en el ejercicio de sus atribuciones;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2005)</small>
+
+l. Auxiliar al Secretario y trabajar con el Subsecretario, dentro de la esfera de su competencia y en el ejercicio de sus atribuciones;
 
 II. Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento de las unidades administrativas que le sean adscritas, vinculándose con las demás áreas de la Secretaría para obtener una visión programática institucional;
 
@@ -251,7 +293,9 @@ XXIII. Proporcionar, de conformidad con los lineamientos de las unidades adminis
 
 XXIV. Las demás que les atribuya expresamente el superior jerárquico.
 
-### CAPITULO V. DE LAS ATRIBUCIONES DE DIRECCIONES GENERALES Y DIRECCIONES
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES CAPITULO IV], P.O. 17 DE DICIEMBRE DE 2005)</small>
+
+### CAPITULO V. DE LAS ÁREAS DE APOYO
 
 ###### Artículo 8.
 
@@ -371,7 +415,9 @@ IV. Darle seguimiento a la ejecución de las instrucciones del Comité Técnico 
 
 V. Las demás que de manera expresa le confiera al Secretario.
 
-### CAPITULO VI. DE LA COMISION INTERNA DE LA SECRETARÍA
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES CAPITULO V], P.O. 17 DE DICIEMBRE DE 2005)</small>
+
+### CAPITULO VI. DE LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES Y DIRECCIONES
 
 ###### Artículo 13.
 
@@ -943,7 +989,9 @@ VII. Coordinar y supervisar los recursos financieros de los programas de operaci
 
 VIII. Las demás funciones que le asigne el Director de Infraestructura Rural.
 
-### CAPITULO VII. DE LA DESCONCENTRACIÓN ADMINISTRATIVA
+(REUBICADO [N. DE E. ANTES CAPITULO VI], P.O. 17 DE DICIEMBRE DE 2005)
+
+### CAPITULO VII. DE LA COMISIÓN INTERNA DE LA SECRETARÍA
 
 ###### Artículo 35.
 
@@ -971,11 +1019,17 @@ V. Las demás que determine el Secretario.
 
 La Comisión Interna de la Secretaría, deberá sesionar por lo menos una vez bimestralmente o cuantas veces sea necesario a convocatoria del presidente.
 
-### CAPITULO VIII. DE LA SUPLENCIA DE LOS TITULARES
+(REUBICADO [N. DE E. ANTES CAPITULO VII], P.O. 17 DE DICIEMBRE DE 2005)
+
+### CAPITULO VIII. DE LA DESCONCENTRACIÓN ADMINISTRATIVA
 
 ###### Articulo 39.
 
 Para la más eficaz atención y eficiente despacho de los asuntos de su competencia, la Secretaría podrá contar y cuenta con órganos Administrativos desconcentrados, esto previo acuerdo con el Gobernador del Estado, los cuales le estarán jerárquicamente subordinados, con atribuciones y funciones especificas para resolver sobre la materia que a cada uno se determine, acordes al Decreto que los crea.
+
+(REUBICADO [N. DE E. ANTES CAPITULO VIII], P.O. 17 DE DICIEMBRE DE 2005)
+
+### CAPITULO IX. DE LA SUPLENCIA DE LOS TITULARES
 
 ###### Artículo 40.
 
@@ -1002,3 +1056,9 @@ CUARTO.- Se derogan todas las disposiciones administrativas y normativas que opo
 Dado en la residencia del Palacio del Poder Ejecutivo, en la ciudad de Tepic, capital del Estado de Nayarit, a los 9 días del mes de Febrero del año 2005.
 
 C.P. ANTONIO ECHEVARRÍA DOMÍNGUEZ, Gobernador Constitucional del Estado, Rúbrica.- Lic. Adán Meza Barajas, Secretario General de Gobierno.- Rúbrica.- Lic. Carlos Hernández Ibarría, Secretario de Desarrollo Rural.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 17 DE DICIEMBRE DE 2005.
+
+ÚNICO.- En (sic) presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial.
