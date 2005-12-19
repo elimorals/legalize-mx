@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "2005-04-06"
+last_updated: "2005-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE ABRIL DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE DICIEMBRE DE 2005.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -4722,7 +4722,7 @@ ARTICULO 603
 
 El juez que reciba despacho u orden de su superior para ejecutar cualquiera diligencia, es mero ejecutor y en consecuencia no dará curso a ninguna excepción que opongan los interesados, y se tomará simplemente razón de sus respuestas en el expediente, antes de devolverlo.
 
-> <small>(ADICIONADO Y SU DENOMINACION, D.O.F. 7 DE ENERO DE 1988)</small>
+> <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 1988)</small>
 
 ### CAPITULO I. Procedimiento estando ausente el rebelde
 
@@ -5212,13 +5212,13 @@ Las apelaciones que se interpongan contra auto o interlocutoria deberán hacerse
 
 ARTICULO 693
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE DICIEMBRE DE 2005)</small>
 
-Interpuesta una apelación, el juez la admitirá sin substanciación alguna si fuere procedente, siempre que en el escrito se hayan hecho valer los agravios respectivos y se justifique, con el recibo correspondiente, el pago de las copias que integrarán el testimonio de apelación de que se trate, expresando el juzgador en su auto si la admite en ambos efectos o en uno solo.
+Interpuesta una apelación, el Juez la admitirá sin substanciación alguna si fuere procedente, siempre que en el escrito se hayan hecho valer los agravios respectivos, expresando el juzgador en su auto si la admite en ambos efectos o en uno solo.
 
-> <small>(REFORMADO, G.O. 27 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2005)</small>
 
-El juez en el mismo auto admisorio ordenará se forme el testimonio de apelación respectivo con todas las constancias que obren en el expediente que se tramita ante él, si se tratare de la primera apelación que se haga valer por las partes. Si se tratare de segunda o ulteriores apelaciones, solamente formará el testimonio de apelación con las constancias faltantes entre la última apelación admitida y las subsecuentes, hasta la apelación de que se trate. Las copias necesarias para formar el testimonio de apelación correspondiente serán a costa del o los apelantes, siendo requisito indispensable para la admisión del recurso el previo pago total de las mismas. El pago deberá efectuarse de manera independiente por cada apelante, excepto en el caso de litisconsorcio, sea activo o sea pasivo, en el cual dos o más personas ejerzan la misma acción u opongan la misma excepción, litigando unidas bajo una misma representación, caso en el cual solo se pagará una vez.
+El juez en el mismo auto admisorio ordenará se forme el testimonio de apelación respectivo con todas las constancias que obren en el expediente que se tramita ante él, si se tratare de la primera apelación que se haga valer por las partes. Si se tratare de segunda o ulteriores apelaciones, solamente formará el testimonio de apelación con las constancias faltantes entre la última apelación admitida y las subsecuentes, hasta la apelación de que se trate.
 
 > <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
 
@@ -5600,19 +5600,7 @@ ARTICULO 737 E
 
 Si se encuentra juicio pendiente de resolverse sobre la falsedad de alguna prueba que fue determinante en fallo dictado en el juicio reclamado como nulo, se suspenderán los plazos a que se refiere el artículo anterior.
 
-> <small>(ADICIONADO, G.O. 27 DE ENERO DE 2004)</small>
-
-ARTICULO 737 F
-
-Comete el delito de fraude procesal:
-
-I. Quien ejercite la acción de nulidad de juicio concluido y no obtenga sentencia favorable;
-
-II. Quien se desista de la demanda o de la acción y;
-
-III. El abogado patrono o litigante que asesore al demandante a interponer el juicio.
-
-En todo caso el juzgador de oficio dará vista al Ministerio Público.
+ARTICULO 737 F (DEROGADO, G.O. 19 DE DICIEMBRE DE 2005)
 
 > <small>(ADICIONADO, G.O. 27 DE ENERO DE 2004)</small>
 
@@ -5717,6 +5705,8 @@ ARTICULO 745
 La junta de rectificación y graduación será presidida por el juez, procediéndose al examen de los créditos previa lectura por el síndico de un breve informe sobre el estado general activo y pasivo y documentos que prueben la existencia de cada uno de ellos. En este informe del síndico estarán contenidos los dictámenes que rinda sobre cada uno de los créditos presentados y de los cuales con anticipación se le corrió traslado.
 
 En el informe deberá también clasificar los créditos de acuerdo con sus privilegios según el Código Civil.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ARTICULO 746
 
@@ -6214,6 +6204,8 @@ ARTICULO 806
 
 Si ninguno de los pretendientes hubiere sido declarado heredero, continuará como albacea judicial el interventor que se hubiere nombrado antes o que en su defecto se nombre.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 (REUBICADO, G.O. 13 DE SEPTIEMBRE DE 2004)
 
 ARTICULO 807
@@ -6352,6 +6344,8 @@ ARTICULO 837
 
 El interventor no puede deducir en juicio las acciones que por razón de mejoras, manutención o reparación tenga contra la testamentaría o el intestado, sino cuando haya hecho esos gastos con autorización previa.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 ARTICULO 838
 
 El interventor tendrá el dos por ciento del importe de los bienes, si no exceden de veinte mil pesos; si excede de esta suma, pero no de cien mil pesos, tendrá además el uno por ciento sobre el exceso, y si excediere de cien mil pesos, tendrá el medio por ciento, además, sobre la cantidad excedente.
@@ -6476,6 +6470,8 @@ Si no hubiere mayoría el juez nombrará partidor eligiéndolo entre los propues
 
 El cónyuge aunque no tenga el carácter de heredero será tenido como parte si entre los bienes hereditarios hubiere bienes de la sociedad conyugal.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 > <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 ARTICULO 861
@@ -6543,6 +6539,8 @@ IV.- Noticia de la entrega de los títulos de las propiedades adjudicadas o repa
 V.- Expresión de las cantidades que algún heredero quede reconociendo a otro, y de la garantía que se haya constituído;
 
 VI.- La firma de todos los interesados.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ARTICULO 870
 
@@ -6931,6 +6929,8 @@ ARTICULO 914
 Los tutores y curadores no pueden ser removidos ni excusarse sino a través del incidente contradictorio respectivo.
 
 ### CAPITULO III. De la enajenación de bienes de menores o incapacitados y transacción acerca de sus derechos
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ARTICULO 915
 
@@ -7554,6 +7554,8 @@ El secretario actuario que entregue la cita recogerá, en una libreta especial, 
 
 En el juzgado habrá el número necesario de libretas para que pueda llevar una cada encargado de entregar citas.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 ARTICULO 14
 
 En los casos a que se refiere el artículo 10, el recibo se firmará por la persona a quien se hiciere la citación. Si no supiere o no pudiere firmar, lo hará a su ruego un testigo; si no quisiera firmar o presentar testigo que lo haga, firmará el testigo requerido al efecto por el notificador. Este testigo no puede negarse, bajo multa de dos a cinco pesos.
@@ -7729,6 +7731,8 @@ Cuando fuere necesario esperar a alguna persona a quien se hubiere llamado a la 
 ARTICULO 44
 
 Para cada asunto se formará un breve expediente con los documentos relativos a él y, en todo caso, con el acta de la audiencia en la que muy sucintamente se relatarán los puntos principales y se asentará la sentencia así como lo relativo a su ejecución. Bastará que las actas sean autorizadas por el juez y el secretario o los testigos de asistencia en su caso; pero los interesados tendrán el derecho de firmarlas también, pudiendo sacar copias de ellas, cuya exactitud certificará el secretario previo cotejo si así se pidiere. El condenado que estuviere presente firmará en todo caso el acta, a menos de no saber o estar físicamente impedido; si fuere posible se imprimirán sus huellas digitales.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 > <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1966)</small>
 
@@ -8255,3 +8259,11 @@ SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguient
 G.O. 6 DE ABRIL DE 2005.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL.
+
+G.O. 19 DE DICIEMBRE DE 2005.
+
+PRIMERO. Remítase al Jefe de Gobierno del Distrito Federal para su respectiva promulgación y publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
