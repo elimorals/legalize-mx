@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-47-2005-del-pleno-del-consejo-de-la-46683"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-10-31"
-last_updated: "2005-10-31"
+last_updated: "2005-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46683&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2005-10-26"
 
 ACUERDO GENERAL 47/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA EXCLUSION DEL TURNO DE NUEVOS ASUNTOS AL TRIBUNAL UNITARIO DEL VIGESIMO SEPTIMO CIRCUITO, CON RESIDENCIA EN CANCUN, QUINTANA ROO; ASI COMO DE LA MODIFICACION TEMPORAL DE LA JURISDICCION TERRITORIAL DEL TRIBUNAL UNITARIO DEL DECIMOCUARTO CIRCUITO, CON RESIDENCIA EN MERIDA, YUCATAN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO CCNO/29/2005, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 19 DE DICIEMBRE DE 2005, SE PRORROGA EL PLAZO DE EXCLUSION DE TURNO DE NUEVOS ASUNTOS AL TRIBUNAL UNITARIO DEL VIGESIMO SEPTIMO CIRCUITO, DEL 1 AL 29 DE ENERO DEL 2006.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE DICIEMBRE DE 2005.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 31 de octubre de 2005.
 
@@ -78,3 +80,11 @@ PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL MAESTRO EN DERECHO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 47/2005, del Pleno del Consejo de la Judicatura Federal, Relativo a la Exclusión del Turno de Nuevos Asuntos al Tribunal Unitario del Vigésimo Séptimo Circuito, con Residencia en Cancún, Quintana Roo; así como de la Modificación Temporal de la Jurisdicción Territorial del Tribunal Unitario del Decimocuarto Circuito, con Residencia en Mérida, Yucatán, fue aprobado por el Pleno del propio del Consejo, en sesión de veintiséis de octubre de dos mil cinco, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Luis María Aguilar Morales, Adolfo O. Aragón Mendía, Constancio Carrasco Daza, Elvia Díaz de León D´Hers, María Teresa Herrera Tello y Miguel A. Quirós Pérez.- México, Distrito Federal, a veintiséis de octubre de dos mil cinco.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. DE 19 DE DICIEMBRE DE 2005.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
