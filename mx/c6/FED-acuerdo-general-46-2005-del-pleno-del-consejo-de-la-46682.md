@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-46-2005-del-pleno-del-consejo-de-la-46682"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-10-31"
-last_updated: "2005-10-31"
+last_updated: "2005-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46682&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-10-26"
 
 ACUERDO GENERAL 46/2005, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA EXCLUSION DEL TURNO DE NUEVOS ASUNTOS AL TRIBUNAL COLEGIADO DEL VIGESIMO SEPTIMO CIRCUITO, CON RESIDENCIA EN CANCUN, QUINTANA ROO; ASI COMO DE LA MODIFICACION TEMPORAL DE LA JURISDICCION TERRITORIAL DE LOS TRIBUNALES COLEGIADOS DEL DECIMOCUARTO CIRCUITO, CON RESIDENCIA EN MERIDA, YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE DICIEMBRE DE 2005.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 31 de octubre de 2005.
 
@@ -51,6 +51,8 @@ En consecuencia, con fundamento en las disposiciones constitucionales y legales 
 
 ACUERDO
 
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO CCNO/28/2005 DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 19 DE DICIEMBRE DE 2005, SE PRORROGA EL PLAZO DE EXCLUSION DE TURNO DE NUEVOS ASUNTOS AL TRIBUNAL COLEGIADO DEL VIGESIMO SEPTIMO CIRCUITO, QUE COMPRENDERA DEL 16 DE DICIEMBRE DE 2005 AL 29 DE ENERO DE 2006.</small>
+
 PRIMERO.- Se excluye del turno de nuevos asuntos al Tribunal Colegiado del Vigésimo Séptimo Circuito, con residencia en Cancún, Quintana Roo, por el lapso de cuarenta y tres días.
 
 El periodo de exclusión señalado comprenderá del tres de noviembre al quince de diciembre de dos mil cinco, por lo que, dentro de ese lapso, los asuntos nuevos que se presenten en la Oficialía de Partes del Tribunal Colegiado del Vigésimo Séptimo Circuito, con residencia en Cancún, Quintana Roo, se turnarán a los Tribunales Colegiados del Decimocuarto Circuito, con residencia en Mérida, Yucatán, de acuerdo a la materia que les corresponda, con excepción de aquellos asuntos que tengan relación con los que se encuentren en el tribunal colegiado que se excluye temporalmente del turno, en cuya hipótesis se turnarán a dicho órgano jurisdiccional, atento a lo dispuesto por el artículo 6 del Acuerdo General 23/2002, del Pleno del Consejo de la Judicatura Federal.
@@ -78,3 +80,11 @@ PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL MAESTRO EN DERECHO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 46/2005, del Pleno del Consejo de la Judicatura Federal, Relativo a la Exclusión del Turno de Nuevos Asuntos al Tribunal Colegiado del Vigésimo Séptimo Circuito, con Residencia en Cancún, Quintana Roo; así como de la Modificación Temporal de la Jurisdicción Territorial de los Tribunales Colegiados del Decimocuarto Circuito, con Residencia en Mérida, Yucatán, fue aprobado por el Pleno del propio del Consejo, en sesión de veintiséis de octubre de dos mil cinco, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Luis María Aguilar Morales, Adolfo O. Aragón Mendía, Constancio Carrasco Daza, Elvia Díaz de León D´Hers, María Teresa Herrera Tello y Miguel A. Quirós Pérez.- México, Distrito Federal, a veintiséis de octubre de dos mil cinco.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 19 DE DICIEMBRE DE 2005.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
