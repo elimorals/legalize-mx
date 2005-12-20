@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-limpia-y-predios-baldios-del-municipio-de-15422"
 country: "mx"
 rank: "reglamento"
 publication_date: "1987-12-15"
-last_updated: "1987-12-15"
+last_updated: "2005-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15422&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "ROO"
 
 REGLAMENTO DE LIMPIA Y PREDIOS BALDIOS DEL MUNICIPIO OTHON P. BLANCO, QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA PRESTACION DEL SERVICIO PUBLICO DE LIMPIA, RECOLECCION, TRANSPORTE, TRATAMIENTO Y DISPOSICION FINAL DE RESIDUOS SOLIDOS EN EL MUNICIPIO DE OTHONP. BLANCO DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 20 DE DICIEMBRE DE 2005., EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el martes 15 de diciembre de 1987.
 
@@ -470,3 +472,15 @@ Este Reglamento entrará en vigor el día siguiente al de su publicación en el 
 Se derogan todas las disposiciones existentes que se opongan o sean contrarias al presente Reglamento.
 
 DADO EN EL PALACIO MUNICIPAL DE LA CIUDAD DE CHETUMAL, QUINTANA ROO, MÉXICO, A LOS DIECINUEVE DÍAS DEL MES DE NOVIEMBRE DE MIL NOVECIENTOS OCHENTA Y SIETE.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 20 DE DICIEMBRE DE 2005.
+
+PRIMERO.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga el Reglamento de Limpia y Predios Baldíos del Municipio de Othón P. Blanco, Quintana Roo y el Reglamento para la Prestación del Servicio de Limpia, Recolección y Tratamiento de la Basura en el Municipio de Othón P. Blanco, publicados en el Periódico Oficial del Estado con fechas 15 de Diciembre de 1987 y 15 de Julio de 1994 respectivamente y demás disposiciones que contravengan el presente Reglamento.
+
+TERCERO.- Se concede un plazo de noventa días hábiles contados a partir de la fecha en que entre en vigor el presente Reglamento, a las personas físicas y morales para que se ajusten a las disposiciones contenidas en el mismo.
+
+CUARTO.- La aplicación del presente Reglamento en lo relativo a las plantas de tratamiento y disposición final de residuos sólidos, se realizará en los sitios actualmente autorizados por el Ayuntamiento de Othón P. Blanco, en tanto se aprueban e instalan las mismas.
