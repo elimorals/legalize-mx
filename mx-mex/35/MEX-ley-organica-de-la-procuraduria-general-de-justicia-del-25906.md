@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-procuraduria-general-de-justicia-del-25906"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-08-23"
-last_updated: "2004-08-10"
+last_updated: "2005-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25906&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2005.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 23 de agosto del 2002.
 
@@ -191,7 +191,9 @@ IX. Direcciones Generales de:
 
 a) Coordinación Interinstitucional;
 
-b) Atención Ciudadana y Prevención del Delito;
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2005)</small>
+
+b) El Instituto de Prevención del Delito del Estado de México;
 
 c) Control de Personal Sustantivo;
 
@@ -215,7 +217,9 @@ k) Derechos Humanos; y
 
 l) Administración;
 
-X. Las unidades técnicas y administrativas que se precisen en el Reglamento de esta Ley, particularmente la Unidad de Atención a Víctimas del Delito;
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2005)</small>
+
+X. Las unidades técnicas y administrativas que se precisen en el Reglamento de esta Ley;
 
 XI. El órgano administrativo desconcentrado denominado Instituto de Formación Profesional y Capacitación; y
 
@@ -223,7 +227,9 @@ XII. El personal administrativo que el servicio requiera.
 
 La Procuraduría tendrá servidores públicos de carácter ministerial y administrativo. Los servidores públicos ministeriales serán el Procurador, los Subprocuradores General y Regionales; los Fiscales General de Asuntos Especiales y de Supervisión y Control; los Directores Generales de Coordinación Interinstitucional, Jurídico y Consultivo, de Servicios Periciales, de Policía Ministerial, de Visitaduría y de Responsabilidades, así como los que señale el Reglamento de esta Ley.
 
-Los servidores públicos administrativos serán los Coordinadores Regionales; los Directores Generales de Atención Ciudadana y Prevención del Delito, de Control de Personal Sustantivo, de Información, Estadística e Identificación Criminal, de Bienes Asegurados, de Derechos Humanos y de Administración; el Director General del Instituto de Formación Profesional y Capacitación; y los que determine el Reglamento de esta Ley.
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2005)</small>
+
+Los servidores públicos administrativos serán los Coordinadores Regionales; los Directores Generales del Instituto de Prevención del Delito del Estado de México, de Control de Personal Sustantivo, de Información, Estadística e Identificación Criminal, de Bienes Asegurados, de Derechos Humanos y de Administración; el Director General del Instituto de Formación Profesional y Capacitación; y los que determine el reglamento de esta Ley.
 
 Los servidores públicos señalados en los párrafos anteriores serán de confianza, así como los Agentes del Ministerio Público, Secretarios del Ministerio Público, policías ministeriales y Peritos; el personal de apoyo administrativo del Procurador, Subprocuradores, Fiscales Especiales, Directores Generales y de Asesoría a los propios servidores; Directores de Area, Subdirectores, Jefes de Departamento; el personal técnico del Instituto, Jefes de Oficina adscritos a la Dirección de Administración, cajeros, pagadores, y todos aquellos que tengan a su cargo funciones de vigilancia, control, manejo de recursos, adquisiciones e inventarios; y, aquellos que atendiendo a sus funciones, sean considerados en la ley de la materia como de confianza.
 
@@ -749,37 +755,57 @@ III. Elaborar el Programa Sectorial de procuración de justicia y dar cuenta con
 
 IV. Las demás que establezca el Reglamento de esta Ley.
 
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 35.
 
-Son facultades y obligaciones del Director General de Atención Ciudadana y Prevención del Delito, las siguientes:
+El Instituto de Prevención del Delito del Estado de México, es un órgano administrativo desconcentrado, por función, de la Procuraduría, jerárquicamente subordinado a ella, con las facultades específicas que se determinen en esta Ley y en su Reglamento.
 
-a) Facultades:
+La organización y funcionamiento del Instituto de Prevención del Delito del Estado de México se determinará en su reglamento interior y en las demás disposiciones aplicables.
 
-I. Formular y ejecutar programas y campañas de prevención de conductas ilícitas, así como evaluar sus resultados de acuerdo con lo establecido en el Reglamento de esta Ley;
+El Director General del Instituto de Prevención del Delito del Estado de México, para el ejercicio de sus funciones, se auxiliará de las unidades administrativas que se determinen en el reglamento interior y conforme a la disponibilidad presupuestal.
 
-II. Colaborar con las unidades administrativas responsables de la elaboración de convenios de coordinación con las Procuradurías General de la República, Estatales, del Distrito Federal y con Instituciones Académicas para promover programas de prevención del delito;
+> <small>(ADICIONADO, G.G. 20 DE DICIEMBRE DE 2005)</small>
+
+Artículo 35 A.- Son facultades y obligaciones del Director General del Instituto de Prevención del Delito, las siguientes:
+
+a). Facultades:
+
+I. Formular y ejecutar programas y campañas de prevención de conductas ilícitas, particularmente fomentar las de prevención primaria con los sectores educativo y de salud, así como evaluar sus resultados de acuerdo con lo establecido en el Reglamento del Instituto;
+
+II. Proponer la suscripción de convenios de coordinación o colaboración con autoridades federales, estatales, municipales, organismos públicos, o sociales, nacionales, extranjeros o internacionales e instituciones académicas en materia de prevención del delito;
 
 III. Promover la coordinación con dependencias federales, de las entidades federativas y municipales, para ampliar y facilitar el acceso de la comunidad a los servicios requeridos en el ámbito local, dentro de la competencia de la Procuraduría;
 
-IV. Diseñar programas de vinculación del Ministerio Público y de la Policía Ministerial con la sociedad;
+IV. Diseñar programas de vinculación del Ministerio Público y de la Policía Ministerial con la sociedad, en materia de prevención del delito;
 
-V. Proponer al Procurador las políticas para el tratamiento del fenómeno criminal en el Estado y las medidas que deben adoptarse a corto, mediano y largo plazo;
+V. Formular y proponer al procurador la política criminal del Estado y las medidas que deben adoptarse a corto, mediano y largo plazo, con énfasis en la promoción de una cultura de respeto a la legalidad;
 
-VI. Realizar foros de consulta social y participar en el sistema de evaluación interinstitucional; y
+VI. Realizar foros de consulta social y participar en el sistema de evaluación interinstitucional;
 
-VII. Las demás que establezca el Reglamento de esta Ley.
+VII. Realizar estudios sobre las causas que producen las conductas antisociales y sus impactos en los ámbitos personal, familiar, escolar, comunitario, social y estatal, para lo cual podrá coordinarse con instituciones públicas, privadas o sociales que persigan propósitos afines;
 
-b) Obligaciones:
+VIII. Brindar asesoría técnica a las diversas instancias de la administración pública, ayuntamientos, organizaciones no gubernamentales, sociedad civil organizada, en materia de programas de prevención del delito;
 
-I. Establecer módulos de atención a víctimas del delito en las instalaciones de la Institución, haciéndoles saber sobre los derechos que tienen y las obligaciones de los servidores públicos ministeriales en el respeto irrestricto de los derechos humanos;
+IX. Diseñar un sistema de coordinación interdisciplinario de información entre las instituciones encargadas de la prevención del delito y las autoridades de seguridad pública en el Estado, que contribuya a generar información técnica, táctica y estratégica sobre el fenómeno delictivo y sus formas de combate y prevención;
 
-II. Establecer los comités de colaboración comunitaria y demás mecanismos para la recepción de información ciudadana sobre la posible comisión de los delitos, en los términos previstos por las disposiciones reglamentarias;
+X. Promover acciones específicas de prevención del delito e involucrar en esta tarea al sector educativo, a las autoridades de salud, a universidades públicas y privadas, sindicatos de trabajadores, agrupaciones empresariales y de comerciantes, sociedades de padres de familia, organizaciones no gubernamentales y sociedad civil organizada; y
 
-III. Establecer módulos de atención a detenidos que se encuentren a disposición del Ministerio Público o en las instalaciones de la Institución, vigilando el respeto irrestricto de sus derechos humanos;
+XI.- Las demás que establezca el Reglamento de esta Ley y otras disposiciones jurídicas aplicables.
 
-IV. Recibir quejas y denuncias ciudadanas en relación al desarrollo de las actividades de la Procuraduría para su atención; y
+b). Obligaciones:
 
-V. Las demás que establezcan las disposiciones legales y reglamentarias.
+I. Coordinar el Consejo Estatal para la Prevención del Delito, en el que deberán participar representantes de las autoridades educativas, de salud, de desarrollo social y de los sectores representativos de la sociedad mexiquense;
+
+II. Establecer y coordinar los Comités de Prevención del Delito y demás mecanismos para la recepción de información ciudadana sobre la posible comisión de los delitos;
+
+III. Establecer módulos de atención a detenidos que se encuentren a disposición del Ministerio Público o en las instalaciones de la Institución, vigilando el respecto irrestricto de sus derechos humanos;
+
+IV. Opina cuando sea solicitado, sobre los factores criminógenos que deben ser considerados al autorizar nuevos asentamientos humanos, giros comerciales o de servicios;
+
+V. Organizar con la participación de la sociedad civil, el sector educativo, sindicatos de trabajadores y asociaciones empresariales, entre otros, campañas permanentes de prevención del delito particularmente para evitar la violencia intrafamiliar, los actos de abuso sexual en escuelas y centros de trabajo, el consumo de drogas y promover el cuidado del patrimonio familiar;
+
+VI. Las demás que establezcan las disposiciones legales y reglamentarias.
 
 ###### Artículo 36.
 
@@ -1588,3 +1614,15 @@ TERCERO.- Se abroga la Ley del Registro de Antecedentes Penales y Administrativo
 CUARTO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
 
 QUINTO.- El personal y bienes de la actual dirección de Servicios Periciales pasarán a formar parte del Instituto de Servicios Periciales en los términos y condiciones de la presente Ley.
+
+G.G. 20 DE DICIEMBRE DE 2005.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor 180 días naturales después de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- En tanto entra en operación el Instituto de Prevención del Delito del Estado de México, las instancias de la Procuraduría que actualmente desarrollan esas funciones continuarán haciéndolo.
+
+CUARTO.- Los recursos presupuestales y financieros que se tienen programados para la operación del Instituto de Prevención del Delito del Estado de México, serán suministrados con oportunidad para que pueda iniciar su funcionamiento en los términos del artículo segundo transitorio de este Decreto.
+
+QUINTO.- Las Secretarías General de Gobierno, y de Finanzas, Planeación y Administración, y la Procuraduría General de Justicia del Estado de México proveerán lo necesario para la instalación y funcionamiento del Instituto de Prevención del Delito del Estado de México.
