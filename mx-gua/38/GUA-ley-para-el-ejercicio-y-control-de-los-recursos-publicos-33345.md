@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-el-ejercicio-y-control-de-los-recursos-publicos-33345"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-12"
-last_updated: "2003-08-12"
+last_updated: "2005-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33345&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA EL EJERCICIO Y CONTROL DE LOS RECURSOS PUBLICOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2005.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 12 de agosto del 2003.
 
@@ -679,15 +679,23 @@ Las conversiones de plazas, renivelaciones de puestos y creación de categorías
 
 Las economías que se presenten en los presupuestos de egresos por concepto de servicios personales, deberán aplicarse de conformidad con los criterios establecidos en el segundo párrafo del artículo 59.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 92.
 
-Las remuneraciones por estímulos a la productividad, eficiencia y calidad, se sujetarán a las disposiciones administrativas y montos que al efecto autoricen los sujetos de la Ley. En tanto no se expida dicha regulación, no se podrá otorgar estímulo alguno.
+Las remuneraciones por estímulos se otorgarán a los servidores públicos que acrediten su desempeño extraordinario, productividad y eficiencia.
 
-El monto del estímulo a que se refiere este artículo, podrá ser hasta de sesenta días del salario integrado bruto al año, señalado en el Tabulador General de Sueldos, dependiendo del cumplimiento de metas, que haya realizado el servidor público, de acuerdo a la valoración que realice el órgano interno de evaluación de programas. En ningún caso podrán cancelarse programas prioritarios para cubrir estos conceptos.
+Los estímulos se otorgarán una vez por año conforme al sistema de evaluación de desempeño institucional que aprueben los tres Poderes del Estado, tomando en consideración la propuesta del Comité Técnico de Estructuración Salarial. El sistema deberá ser elaborado de acuerdo a sólidas bases metodológicas, objetivamente medibles que privilegien el logro de la misión y propósitos esenciales de cada sujeto obligado. El monto a otorgarse por estímulo será de hasta quince días de remuneración integrada.
 
-En el caso de las Entidades, además, se sujetarán a los acuerdos de sus respectivos Órganos de Gobierno, los que deberán observar los lineamientos generales que emita la Secretaría o la Tesorería, según se trate.
+El Comité establecerá una calificación mínima para acceder al estímulo, por lo que sólo los servidores públicos que alcancen dicha calificación o superior, tendrán derecho a esta remuneración, la cual será proporcional al monto máximo establecido. El estímulo se otorgará en la última quincena de cada año, una vez practicadas las evaluaciones respectivas y constatado el cumplimiento cabal de los elementos del sistema por cada sujeto de la Ley.
 
-El incumplimiento a esta disposición será causa de responsabilidad, en los términos de esta Ley y demás normatividad jurídica aplicable.
+Los lineamientos del sistema de evaluación serán aprobados por el Comité en el mes de enero de cada ejercicio fiscal y publicados en el Periódico Oficial del Gobierno del Estado.
+
+Los resultados globales de evaluación serán publicados por cada sujeto de la Ley en los medios de difusión a su alcance dentro de los treinta días siguientes a que se hayan entregado los estímulos.
+
+Los ayuntamientos y los Organismos Autónomos establecerán sus sistemas de evaluación respectivos conforme a estas disposiciones.
+
+Las contralorías de los sujetos de la Ley vigilarán el cumplimiento de lo señalado en este artículo. Cualquier infracción será causa de responsabilidad en los términos de la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado y los Municipios de Guanajuato.
 
 ### CAPÍTULO ÚNICO. DE LAS DISPOSICIONES GENERALES
 
@@ -816,3 +824,15 @@ JUAN CARLOS ROMERO HICKS.
 EL SECRETARIO DE GOBIERNO.
 
 JUAN MANUEL OLIVA RAMÍREZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE DICIEMBRE DE 2005.
+
+Artículo Primero. El presente decreto entrará en vigor el 1° primero de enero del año 2006 dos mil seis, previa publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+Artículo Tercero. Los Ayuntamientos emitirán en un término no mayor a tres meses, contados a partir de la entrada en vigor del presente decreto, los lineamientos del sistema de evaluación para el ejercicio fiscal 2006, procediendo a su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Cuarto. El monto ejercido por concepto de estímulos deberá ser informado por los sujetos de la Ley en el Cuenta Pública.
