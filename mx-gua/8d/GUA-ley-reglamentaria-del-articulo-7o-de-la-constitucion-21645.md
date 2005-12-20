@@ -4,7 +4,7 @@ identifier: "GUA-ley-reglamentaria-del-articulo-7o-de-la-constitucion-21645"
 country: "mx"
 rank: "ley"
 publication_date: "1959-08-16"
-last_updated: "2001-12-21"
+last_updated: "2005-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,6 +22,8 @@ state: "GUA"
 # LEY REGLAMENTARIA DEL ARTICULO 7o. DE LA CONSTITUCION POLITICA DEL ESTADO DE GUANAJUATO -ANTES LEY REGLAMENTARIA DEL ARTICULO 4o. DE LA CONSTITUCION POLITICA DEL ESTADO DE GUANAJUATO-
 
 LEY REGLAMENTARIA DEL ARTICULO 7 DE LA CONSTITUCION POLITICA DEL ESTADO DE GUANAJUATO
+
+> <small>N. DE E. DE CONFIRMIDAD CON LOS ARTICULOS PRIMERO Y SEGUNDO TRANSITORIO DE LA LEY DE PROFESIONES PARA EL ESTADO DE GUANAJUATO, PUBLICADA EN EL P.O. DE 20 DE DICIEMBRE DE 2005, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2001.
 
@@ -362,3 +364,21 @@ El presente Decreto entrará en vigor el cuarto día siguiente al de su publicac
 P.O. 21 DE DICIEMBRE DE 2001.
 
 Artículo Único.- El presente Decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE DICIEMBRE DE 2005.
+
+Artículo Primero. La presente Ley entrará en vigor a los 60 sesenta días siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Se abroga la Ley Reglamentaria del artículo 7º de la Constitución Política del Estado de Guanajuato, contenida en el Decreto número 298, expedido por la Cuadragésimo Tercera Legislatura, publicado en el Periódico Oficial del Gobierno del Estado de fecha 16 de agosto de 1959.
+
+Artículo Tercero. El convenio suscrito por el Ejecutivo del Estado, con el Ejecutivo Federal, por conducto de la Secretaría de Educación Pública, para la unificación del registro profesional, publicado en el Diario Oficial de la Federación el 10 de Julio de 1975, se mantiene vigente hasta que las partes convengan su terminación o se pacte su renovación o actualización.
+
+Artículo Cuarto. El Titular del Poder Ejecutivo contará con un plazo de 6 seis meses contados a partir de la entrada en vigor de la presente Ley para expedir el reglamento de la misma.
+
+Artículo Quinto. Los colegios registrados con anterioridad a la entrada en vigor de la presente Ley, serán ubicados por la Secretaría en la profesión y rama correspondiente, dentro de los 90 noventa días siguientes contados a partir de la entrada en vigor del reglamento de esta Ley.
+
+Artículo Sexto. La Secretaría publicará convocatorias en un término no mayor de 60 sesenta días hábiles posteriores a la entrada en vigor del reglamento de la Ley, con el objeto de conformar y registrar a los colegios municipales de profesionistas y los estatales por profesión. Para este efecto, se invitará a los colegios constituidos en los términos de la Ley abrogada conforme al artículo segundo transitorio y demás organizaciones de profesionistas del municipio respectivo y de los que operen por profesión en el Estado.
+
+Artículo Séptimo. Los colegios municipales de profesionistas registrados ante la Secretaría antes de la entrada en vigencia de la presente Ley, deberán adecuar sus estatutos a efecto de guardar congruencia con las disposiciones de la misma dentro de los 6 seis meses siguientes a la entrada en vigor de la presente Ley.
+
+Artículo Octavo. La Secretaría emitirá la convocatoria con el objeto de conformar el Consejo de Profesionistas del Estado de Guanajuato, concluido el procedimiento previsto en el artículo sexto transitorio.
