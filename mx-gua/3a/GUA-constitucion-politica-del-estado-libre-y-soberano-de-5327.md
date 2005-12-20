@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2005-03-18"
+last_updated: "2005-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2005.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -549,11 +549,11 @@ El Gobierno del Estado es Republicano, Representativo y Democrático, teniendo c
 
 ### CAPITULO UNICO. DEL TERRITORIO DEL ESTADO
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 33.
 
-El Estado de Guanajuato se divide en los Municipios siguientes: Abasolo, Acámbaro, Apaseo el Alto, Apaseo el Grande, Atarjea, Celaya, Comonfort, Coroneo, Cortazar, Cuerámaro, Dolores Hidalgo, Doctor Mora, Guanajuato, Huanímaro, Irapuato, Jaral del Progreso, Jerécuaro, León, Manuel Doblado, Moroleón, Ocampo, Pénjamo, Pueblo Nuevo, Purísima del Rincón, Romita, Salamanca, Salvatierra, San Diego de la Unión, San Felipe, San Francisco del Rincón, San José Iturbide, San Luis de la Paz, San Miguel de Allende, Santa Catarina, Santa Cruz de Juventino Rosas, Santiago Maravatío, Silao, Tarandacuao, Tarimoro, Tierra Blanca, Uriangato, Valle de Santiago, Victoria, Villagrán, Xichú y Yuriria, con los límites y la extensión que actualmente se les reconoce.
+El Estado de Guanajuato se divide en los municipios siguientes: Abasolo, Acámbaro, Apaseo el Alto, Apaseo el Grande, Atarjea, Celaya, Comonfort, Coroneo, Cortazar, Cuerámaro, Dolores Hidalgo Cuna de la Independencia Nacional, Doctor Mora, Guanajuato, Huanímaro, Irapuato, Jaral del Progreso, Jerécuaro, León, Manuel Doblado, Moroleón, Ocampo, Pénjamo, Pueblo Nuevo, Purísima del Rincón, Romita, Salamanca, Salvatierra, San Diego de la Unión, San Felipe, San Francisco del Rincón, San José Iturbide, San Luis de la Paz, San Miguel de Allende, Santa Catarina, Santa Cruz de Juventino Rosas, Santiago Maravatío, Silao, Tarandacuao, Tarimoro, Tierra Blanca, Uriangato, Valle de Santiago, Victoria, Villagrán, Xichú y Yuriria, con los límites y la extensión que actualmente se les reconoce.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -2762,3 +2762,43 @@ Cualquier referencia que en las Leyes, Decretos u otros ordenamientos exista al 
 ###### ARTÍCULO QUINTO.
 
 El Ayuntamiento de San Miguel de Allende realizará en el ámbito de su competencia, dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, todas las modificaciones a sus Reglamentos Municipales, Bandos de Policía y Buen Gobierno, circulares y demás disposiciones administrativas de observancia general que sean conducentes para adecuarse a las disposiciones del presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2005.
+
+Primero.- El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- El Ayuntamiento de Dolores Hidalgo Cuna de la Independencia Nacional, se sustituirá en todos los derechos, obligaciones, personalidad jurídica y patrimonio propio del Ayuntamiento de Dolores Hidalgo, a la entrada en vigor del presente Decreto.
+
+Tercero.- Una vez que sancione y promulgue el presente Decreto el Gobernador del Estado, remítase copia de la publicación en el Periódico Oficial del Gobierno del Estado y de su dictamen, a las siguientes autoridades:
+
+Municipales:
+
+1.- A los cuarenta y seis ayuntamientos del Estado de Guanajuato.
+
+Estatales:
+
+1.- Titular del Poder Ejecutivo Estatal;
+
+2.- Entidades de la Administración Pública Estatal;
+
+3.-Pleno del Supremo Tribunal de Justicia y del Consejo del Poder Judicial del Estado, y
+
+4.- Organismos Autónomos.
+
+Federales:
+
+1.- Titular del Poder Ejecutivo Federal;
+
+2.- Entidades de la Administración Pública Federal;
+
+3.- Cámara de Diputados del Congreso de la Unión y Senado de la República;
+
+4.- Suprema Corte de Justicia de la Nación, Consejo de la Judicatura Federal y Tribunal Electoral del Poder Judicial de la Federación;
+
+5.- Tribunal Federal de Justicia Fiscal y Administrativa, y
+
+6.- Organismos Autónomos.
+
+Cuarto.- Cualquier referencia que en las Leyes, Decretos u otros ordenamientos exista al Municipio de Dolores Hidalgo, se entenderá hecha al Municipio de Dolores Hidalgo Cuna de la Independencia Nacional.
+
+Quinto.- El ayuntamiento de Dolores Hidalgo Cuna de la Independencia Nacional, realizará en el ámbito de su competencia, dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, todas las modificaciones a sus reglamentos municipales, bandos de policía y buen gobierno, circulares y demás disposiciones administrativas de observancia general que sean conducentes para adecuarse a las disposiciones del presente Decreto.
