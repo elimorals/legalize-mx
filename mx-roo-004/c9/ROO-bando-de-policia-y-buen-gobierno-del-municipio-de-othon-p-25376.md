@@ -4,7 +4,7 @@ identifier: "ROO-bando-de-policia-y-buen-gobierno-del-municipio-de-othon-p-25376
 country: "mx"
 rank: "bando"
 publication_date: "1982-01-12"
-last_updated: "1982-01-12"
+last_updated: "2005-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25376&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "ROO"
 
 BANDO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE OTHON P. BLANCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL BANDO DE POLICÍA Y GOBIERNO DEL MUNICIPIO DE OTHON P. BLANCO, PUBLICADO EN EL P.O. DE 20 DE DICIEMBRE DE 2005, EL PRESENTE ORDENAMIENTO FUE ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Bando publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 12 de enero de 1982.
 
@@ -5322,3 +5324,19 @@ PRIMERO.- El presente Bando comenzará a regir el día siguiente de su publicaci
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Bando, subsistiendo vigentes los Reglamentos que lo complementa.
 
 DADO EN LA SALA DE CABILDOS DEL AYUNTAMIENTO DE OTHÓN P. BLANCO, EL DÍA DOS DEL MES DE DICIEMBRE DEL AÑO DE MIL NOVECIENTOS OCHENTA Y UNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE BANDO.</small>
+
+P.O. DE 20 DE DICIEMBRE DE 2005.
+
+PRIMERO.- El presente Bando entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga el Bando de Policía y Buen Gobierno del Municipio de Othón P. Blanco, aprobado en Sesión de Cabildo celebrada el día dos de Diciembre de 1981 y publicado en el Periódico Oficial del Gobierno del Estado del doce de Enero de 1982.
+
+TERCERO.- Los actos y procedimientos que se encuentren en trámite, serán concluidos de conformidad con aquél que le sea más benéfico.
+
+CUARTO.- Se establece como plazo el 20 de diciembre del año en curso para la expedición y adecuación de los reglamentos municipales. Mientras tanto se continuarán aplicando los ordenamientos reglamentarios y administrativos vigentes a la fecha de la entrada en vigor del presente bando, en todo aquello que no lo contravenga.
+
+QUINTO.- Lo no previsto en el presente Bando será resuelto por el Ayuntamiento, mediante acuerdo de Cabildo.
+
+SEXTO.- Se derogan todas las disposiciones legales y administrativas que se opongan al presente Bando, de igual o menor jerarquía.
