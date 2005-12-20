@@ -4,7 +4,7 @@ identifier: "ROO-bando-de-policia-y-buen-gobierno-del-municipio-de-isla-25384"
 country: "mx"
 rank: "bando"
 publication_date: "1981-02-13"
-last_updated: "1981-02-13"
+last_updated: "2005-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "ROO"
 
 BANDO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE ISLA MUJERES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL BANDO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE ISLA MUJERES, PUBLICADO EN EL P.O. DE 20 DE DICIEMBRE DE 2005, EL PRESENTE ORDENAMIENTO FUE ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Bando publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 13 de febrero de 1981.
 
@@ -2500,3 +2502,19 @@ Segundo.- El presidente municipal, después de la publicación del presente Band
 Tercero.- Las omisiones o casos no previstos en el presente Bando se resolverán de acuerdo a los principios generales de derecho.
 
 DADO EN LA SALA DE CABILDOS DEL PALACIO MUNICIPAL DE ISLA MUJERES, MUNICIPIO DEL MISMO NOMBRE, DEL ESTADO DE QUINTANA ROO, A LOS TREINTA DÍAS DEL MES DE ENERO DE MIL NOVECIENTOS OCHENTA Y UNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE BANDO.</small>
+
+P.O. DE 20 DE DICIEMBRE DE 2005.
+
+PRIMERO.- El presente Bando de Policía y Buen Gobierno entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Bando de Policía y Buen Gobierno del Municipio de Isla Mujeres publicado en el Periódico Oficial del Gobierno del Estado el día trece del mes de Febrero de mil novecientos ochenta y uno.
+
+TERCERO.- En tanto no se opongan o contravengan. A las disposiciones del presente Bando de Policía y buen Gobierno del Municipio de Isla Mujeres, los reglamentos expedidos con anterioridad al mismo, quedarán vigentes.
+
+CUARTO.- Los recursos interpuestos contra acuerdos del Municipio de Isla Mujeres que se hayan promovido antes de entrar en vigor el presente Bando, se substanciarán conforme a las reglas y disposiciones del Bando abrogado.
+
+QUINTO.- Después de la publicación del presente Bando, la Presidencia Municipal por conducto de la Unidad Administrativa que designe, convocará a los servidores públicos del Municipio a fin de instruirlos sobre su aplicación.
+
+SEXTO.- Las omisiones o casos no previstos en el presente Bando se resolverán de acuerdo a los reglamentos específicos para el caso concreto y si fuere necesario por no estar reglamentados se considerarán los principios generales de Derecho.
