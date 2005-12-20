@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interno-del-h-ayuntamiento-del-municipio-de-isla-138
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-02-15"
-last_updated: "1999-02-15"
+last_updated: "2005-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13874&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 REGLAMENTO INTERNO DEL H. AYUNTAMIENTO DEL MUNICIPIO DE ISLA MUJERES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERNO DEL H. AYUNTAMIENTO DEL MUNICIPIO DE ISLA MUJERES, QUINTANA ROO, PUBLICADO EN EL P.O. DE 20 DE DICIEMBRE DE 2005, EL PRESENTE ORDENAMIENTO FUE ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el periódico Oficial del Estado de Quintana Roo, el lunes 15 de febrero de 1999.
 
@@ -726,3 +728,13 @@ Noveno Regidor
 Profr. Alfonso L. Rodríguez Pérez
 
 Srio. Gral. del H. Ayuntamiento.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. DE 20 DE DICIEMBRE DE 2005.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Presidente Municipal, lo remitirá al Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+TERCERO.- El presente Reglamento Interno del H. Ayuntamiento del Municipio de Isla Mujeres, Quintana Roo, abroga al Reglamento Interno del Municipio de Isla Mujeres publicado en el Periódico Oficial del Estado de Quintana Roo, el día 15 del mes de febrero del año 1999, y deroga toda disposición que en contrario exista en cualquier ordenamiento reglamentario o Bando Municipal vigente.
