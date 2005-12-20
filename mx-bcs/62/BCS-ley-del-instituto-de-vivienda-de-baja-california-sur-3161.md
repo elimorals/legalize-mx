@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-instituto-de-vivienda-de-baja-california-sur-3161"
 country: "mx"
 rank: "ley"
 publication_date: "1982-07-10"
-last_updated: "1982-11-30"
+last_updated: "2005-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DEL INSTITUTO DE VIVIENDA DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE NOVIEMBRE DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 10 de julio de 1982.
 
@@ -91,29 +91,41 @@ b).- Las aportaciones y demás recursos que se obtengan a través de Institucion
 
 c).- Los productos que obtenga de sus operaciones.
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 4o.
 
-El Instituto someterá al Ejecutivo Estatal su presupuesto anual de gastos, así como sus planes y programas.
+El Instituto someterá al Ejecutivo Estatal su presupuesto anual de gastos, así como sus planes y programas a ejecutar.
+
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 5o.
 
-Los Organos del Instituto son:
+El Instituto está integrado por:
 
-I.- El Consejo y
+I. El Consejo;
 
-II.- El Director.
+II. El Director; y
 
-El Consejo estará integrado por el Secretario de Asentamientos Humanos y Obras Públicas, que lo presidirá; por el Director del Instituto que será Secretario del Consejo; por el Secretario de Desarrollo, así como representantes de los Colegios de Profesionales de la Entidad y otros más de algunas de las Organizaciones Sociales. Los tres primeros determinarán los Colegios de Profesionales y las Organizaciones Sociales Estatales que deban estar representados en el Consejo. Por cada Titular se designará un Suplente.
+III. El Comisario.
+
+El Consejo estará integrado por el Gobernador del Estado quien lo presidirá; por un Secretario Técnico que será el Director del Instituto; por un Comisario; por el Secretario de Planeación Urbana, Infraestructura y Ecología como Coordinador del Sector; por el Secretario de Finanzas; así como un representante de un Colegio de Profesionales de la Entidad relacionados con la materia y otro más de una de las Organizaciones Sociales. Los tres primeros, determinarán el Colegio de Profesionales y la Organización Social que deban estar representadas en el consejo.
+
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 6o.
 
-El Director del Instituto será designado por el C. Gobernador del Estado.
+El Director del Instituto será designado por el Gobernador del Estado.
 
-Habrá un Subdirector del Instituto designado también por el Ejecutivo del Estado, que auxiliará al Director y lo sustituirá en sus ausencias temporales o definitivas entre tanto se haga nueva designación.
+El Comisario será designado por la Contraloría General del Estado y tendrá las atribuciones respectivas, en los términos de la Ley Orgánica de la Administración Pública del Estado de Baja California Sur y la presente ley, y participará en las sesiones del Consejo con voz, pero sin voto.
 
-###### ARTICULO 7o.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2005)</small>
 
-El Consejo se reunirá durante los dos meses últimos del año, para considerar y aprobar el plan de Labores y financiamientos del siguiente ejercicio, dentro de los dos primeros meses de cada año celebrará una Sesión en la que se conozca el informe de las labores realizadas durante el ejercicio anterior. El Consejo podrá celebrar además las reuniones que considere convenientes para la buena marcha de la Institución.
+###### ARTÍCULO 7o.
+
+El Consejo se reunirá de manera ordinaria durante los dos meses últimos del año y en cualquier tiempo de manera extraordinaria a convocatoria del Presidente, del Director del Instituto o del Comisario.
+
+Para considerar y aprobar el plan de labores y financiamientos del siguiente ejercicio, dentro de los dos primero meses de cada año celebrará una sesión extraordinaria en la que se conozca el informe de las labores realizadas durante el ejercicio anterior. El Consejo podrá celebrar además las reuniones que considere convenientes para la buena marcha de la Institución.
 
 ###### ARTICULO 8o.
 
@@ -129,11 +141,15 @@ III.- Proponer al Consejo las medidas que estime convenientes para la mejor oper
 
 El quórum se formará con asistencia de cuatro Consejeros, siempre que entre ellos asista el Presidente del Consejo, o su Suplente, y el Director del Instituto, las resoluciones se tomarán por mayoría de votos de los presentes. El Director dará cuenta de los asuntos en cartera.
 
+> <small>(REFORMADO PRIMER PARRAFO, B. O. 20 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 10o.
 
-El Consejo programará y aprobará las operaciones y trabajos del Instituto, y tendrá las siguientes atribuciones:
+El Consejo programará u (sic) aprobará las operaciones y trabajos del Instituto, y tendrá las siguientes atribuciones:
 
-a).- Elaborar el Reglamento Interior del Instituto y determinar su organización interna.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2005)</small>
+
+a).- Autorizar el Reglamento Interior del Instituto y determinar su organización interna.
 
 b).- Aprobar los presupuestos anuales de ingresos y egresos para su remisión al Gobierno Estatal, en los términos del Artículo 4o.
 
@@ -145,9 +161,11 @@ e).- Determinar las estrategias para la construcción de viviendas y su equipami
 
 f).- En general, las demás que señalen esta Ley y su Reglamento.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 11.
 
-El Director y el Subdirector, en ausencia de aquél, tendrán las siguientes facultades y obligaciones:
+El Director del Instituto tendrá las siguientes facultades y obligaciones:
 
 a).- Ejecutar los acuerdos del Consejo.
 
@@ -161,11 +179,59 @@ e).- Controlar y vigilar la operación del Instituto.
 
 f).- Presentar anualmente al Consejo los estados financieros, y el informe de actividades del ejercicio anterior.
 
-g).- Las demás que determinen esta Ley, su Reglamento y las que en adición a las anteriores le asigne el Consejo.
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2005)</small>
+
+g).- Proponer al Consejo para su aprobación, los Proyectos de Reglamento Interior, de estructura orgánica y programas de operación y funcionamiento del Instituto, así como sus modificaciones;
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2005)</small>
+
+h).- Suscribir los documentos con lo que se reconozca y otorgue seguridad jurídica de la propiedad, en virtud de la regularización de la tenencia de la tierra, en cuanto a asentamientos humanos se refiere;
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2005)</small>
+
+i).- Seleccionar, contratar y remover al personal del Instituto, señalando sus remuneraciones y adscripción correspondiente haciendo del conocimiento al Consejo, el nombramiento o remoción de los directores de área y demás personal;
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2005)</small>
+
+j).- Formular y mantener actualizado el inventario de los bienes y recursos que integran el patrimonio del Instituto;
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2005)</small>
+
+k).- Establecer relaciones de coordinación con autoridades federales, estatales y municipales; así como con el sector social y privado, para el trámite y atención de asuntos relacionados con el objeto del Instituto;
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2005)</small>
+
+l).- Ejecutar los mandatos para pleitos y cobranzas; para actos de administración y dominio; así como los que requieran cláusula especial; para formular querellas y otorgar perdón extintivo de la acción penal; para promover y desistirse de acciones judiciales incluyendo la de amparos; así como otorgar mandato para representar al Instituto.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2005)</small>
+
+m).- Otorgar y revocar poderes generales y especiales, así como sustituirlos, pero cuando sean a favor de personas ajenas al Instituto deberá dar cuenta al Consejo; y
+
+n).- Las demás que determinen esta Ley, su Reglamento y las que en adición a las anteriores le asigne el Consejo.
 
 El Director, y en su caso el Subdirector, tendrán las facultades que correspondan a los Mandatarios Generales para Pleitos y Cobranzas; para actos de Administración y Dominio y las especiales que requieran cláusula especial conforme a la Ley en los términos de los tres primeros párrafos del Artículo 2554 del Código Civil vigente en el Estado; para formular querellas en los casos de delitos que solo puedan perseguir a petición de la parte ofendida y para otorgar el perdón extintivo de la acción penal, para promover y desistirse de acciones judiciales incluyendo la de Amparos.
 
 El Director podrá otorgar y revocar poderes generales y especiales, pero cuando sean en favor de personas ajenas al Instituto deberá dar cuenta al Consejo.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2005)</small>
+
+###### ARTÍCULO 11 Bis.
+
+El Comisario tendrá las siguientes atribuciones:
+
+a) Vigilar que la administración de los recursos sea de acuerdo con lo que dispongan los programas y presupuesto aprobados; así como a las disposiciones aplicables;
+
+b) Practicar auditorias a los estados financieros y las de carácter técnico y administrativo antes o al término del ejercicio;
+
+c) Rendir anualmente en sesión ordinaria del Consejo un informe respecto a la veracidad y la suficiencia de la información presentada por el Director;
+
+d) Hacer que se inserten en el orden del día de las sesiones del Consejo, los puntos que considere pertinentes;
+
+e) Verificar el cumplimiento de las obligaciones fiscales correspondientes;
+
+f) Iniciar los procedimientos de responsabilidad y en su caso dar vista a la autoridad correspondientes; y
+
+g) Las demás que le otorguen el Consejo y las disposiciones jurídicas y administrativas aplicables.
 
 ### CAPITULO III. DE LOS ORGANISMOS AUXILIARES
 
@@ -227,11 +293,11 @@ f).- Cuando el solicitante contrate a plazos, el crédito se otorgará con inter
 
 Las Entidades de carácter privado cuya actividad sea la construcción de vivienda para adquirentes que tengan ingresos diarios hasta seis veces al salario mínimo, podrán adquirir terrenos que les enajene el Instituto, siempre que se comprometan a su vez a enajenar los predios y lotes a los solicitantes con plena observancia a las normas de esta Ley.
 
-> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 21.
 
-El precio de venta de dichos lotes o predios, por parte de las empresas privadas a los adquirentes, será fijado por la Secretaría de Asentamientos Humanos y Obras Públicas del Estado, tomando en consideración los costos por la adquisición, intereses y demás circunstancias que afecten el precio de la cuenta original.
+El precio de venta, de dichos lotes o predios, por parte de las empresas privadas a los adquirentes, será fijado por el Consejo, tomando en consideración los costos por la adquisición, intereses y demás circunstancias que afecten el precio de la cuenta original.
 
 > <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 1982)</small>
 
@@ -239,11 +305,11 @@ El precio de venta de dichos lotes o predios, por parte de las empresas privadas
 
 El Instituto no podrá enajenar terrenos a las entidades privadas que construyan viviendas para adquirentes con ingresos superiores a seis veces el salario mínimo.
 
-> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 23.
 
-La entidad privada adquirente de los bienes del Instituto que enajene a un tercero, violando las disposiciones de esta Ley, será sancionado con diez veces el monto del lucro que haya obtenido, y si la infracción se repitiera se anulará la enajenación inicial relativa a los lotes o predios que no hubiere enajenado. Esta declaratoria la realizará administrativamente la Secretaría de Asentamientos Humanos y Obras Públicas del Estado.
+La entidad privada adquirente de los bienes del Instituto que enajene a un tercero, violando las disposiciones de esta Ley, será sancionado con diez veces el monto del lucro que haya obtenido, y si la infracción se repitiera se anulará la enajenación inicial relativa a los lotes o predios que se hubiere enajenado. Esta declaratoria la realizará administrativamente el Consejo.
 
 En este caso, el Instituto asumirá las correspondientes responsabilidades.
 
@@ -304,3 +370,13 @@ EN TANTO NO SE ACTUALICEN Y FORMULEN LAS LEYES Y REGLAMENTOS COMPLEMENTARIOS A E
 ###### ARTICULO 2o.
 
 EL PRESENTE DECRETO ENTRARÁ EN VIGOR EL SIGUIENTE DÍA AL DE SU PUBLICACIÓN EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR.
+
+B.O. 20 DE DICIEMBRE DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El Consejo deberá expedir el Reglamento Interior del Instituto, en un plazo que no exceda de 90 días posteriores a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
