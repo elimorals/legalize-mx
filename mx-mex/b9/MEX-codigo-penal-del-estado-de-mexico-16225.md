@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2004-11-26"
+last_updated: "2005-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO PENAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE DICIEMBRE DE 2005.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -127,7 +127,7 @@ Es continuado, cuando existe unidad de propósito delictivo, pluralidad de condu
 
 ### CAPITULO II. LOS DELITOS GRAVES
 
-> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DEL 2004)</small>
 
 ###### Artículo 9.
 
@@ -821,6 +821,10 @@ Si transcurrido el término de suspensión el sentenciado no ha cometido un nuev
 
 ### CAPITULO X. EJECUCION DE PENAS
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 79.
 
 El órgano jurisdiccional, al pronunciar sentencia, podrá recomendar al ejecutivo del Estado la remisión de la pena, si concurren las siguientes circunstancias:
@@ -843,7 +847,7 @@ La recomendación deberá ser confirmada por el tribunal de alzada correspondien
 
 ###### Artículo 81.
 
-La ejecución de penas privativas y restrictivas de la libertad, corresponde al ejecutivo del estado en forma expresada en la ley de ejecución de penas privativas y restrictivas de la libertad. Éste no podrá ejecutar pena alguna en otra forma que la expresada en la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad ni con otras circunstancias o accidentes que los expresados en su texto.
+La ejecución de penas privativas y restrictivas de la libertad, corresponde al Poder Ejecutivo y al Poder Judicial del Estado en la forma expresada en la Ley Orgánica del Poder Judicial del Estado de México y en la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado. Éstos no podrán ejecutar pena alguna en otra forma que la expresada en la Legislación aplicable.
 
 ###### Artículo 82.
 
@@ -1695,7 +1699,7 @@ Al que incurra en este delito, se le impondrá prisión de uno a tres años y de
 
 ### CAPITULO II. CORRUPCIÓN Y PORNOGRAFÍA DE MENORES E INCAPACES
 
-> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DEL 2004)</small>
 
 ###### Artículo 176.
 
@@ -1763,7 +1767,7 @@ Se entiende por acopio la reunión de tres o más armas de las mencionadas en el
 
 ### CAPITULO V. MALTRATO FAMILIAR
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE NOVIEMBRE DEL 2004)</small>
 
 ###### Artículo 181.
 
@@ -1833,7 +1837,7 @@ Al que incurra en la comisión de alguna de las conductas señaladas en la fracc
 
 ### CAPITULO VII. EXPLOTACION DE PERSONAS
 
-> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DEL 2004)</small>
 
 ###### Artículo 189.
 
@@ -1979,15 +1983,15 @@ III. Públicamente invite a otro al comercio carnal.
 
 Al responsable de este delito, se le impondrán de tres meses a dos años de prisión y de treinta a doscientos quince días multa.
 
-> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DEL 2004)</small>
 
 En el caso de que en las conductas a que se refieren las fracciones anteriores se utilice a menores de edad o incapaces, la pena aplicable será de cuatro a ocho años de prisión y de quinientos a mil días multa.
 
-> <small>(ADICIONADO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
+> <small>(ADICIONADO, G.G. 26 DE NOVIEMBRE DEL 2004)</small>
 
 Además de las sanciones señaladas, atendiendo al interés superior del menor o incapaz perderá los derechos inherentes a la patria potestad, tutela o custodia, quien teniendo el ejercicio de ésta cometa el delito sobre el menor o incapaz agraviado a que se refiere este artículo.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 26 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACION, G.G. 26 DE NOVIEMBRE DEL 2004)</small>
 
 ###### Artículo 205.
 
@@ -1999,7 +2003,7 @@ Si además de los delitos previstos en este Capítulo resultase cometido otro, s
 
 No se entenderá por corrupción de menores e incapaces los programas preventivos, educativos o de cualquier índole que diseñen e impartan las instituciones públicas, privadas o sociales que tengan por objeto la educación sexual, educación sobre función reproductiva, la prevención de enfermedades de transmisión sexual y el embarazo de adolescentes, siempre que estén aprobados por la autoridad competente.
 
-> <small>(ADICIONADO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
+> <small>(ADICIONADO, G.G. 26 DE NOVIEMBRE DEL 2004)</small>
 
 Artículo 205 BIS.- A quienes empleen a menores de dieciocho años en cantinas, tabernas, centros de vicio o prostíbulos, se les impondrán de seis meses a dos años de prisión y de treinta a sesenta días multa. Incurrirán en la misma pena los padres o tutores que acepten que sus hijos o menores, respectivamente, bajo su guarda, se empleen en los referidos establecimientos.
 
@@ -2007,7 +2011,7 @@ Para los efectos de este precepto se considerará como empleado en la cantina, t
 
 Cuando el inculpado sea ascendiente, padrastro o madrastra del menor de edad, se le impondrán de uno a cuatro años de prisión y de treinta a cien días multa, privándoseles además de todo derecho a los bienes del ofendido. Si fuere tutor o curador será privado del cargo y de los derechos que por ello le genere la ley.
 
-> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DEL 2004)</small>
 
 ### CAPITULO IV. AUXILIO O INDUCCION AL SUICIDIO
 
@@ -2033,7 +2037,7 @@ Cuando el delito sea cometido por un miembro o miembros de la delincuencia organ
 
 Los inculpados de que se trata en este capítulo quedarán inhabilitados para ser tutores o curadores, privándoseles además de todo derecho que con motivo de tal calidad tuvieren.
 
-> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DEL 2004)</small>
 
 ###### Artículo 208.
 
@@ -2145,7 +2149,7 @@ Este delito se perseguirá por querella, salvo cuando los ofendidos sean menores
 
 El inculpado de este delito, durante la investigación del mismo y al rendir su declaración, será apercibido por el Ministerio Público para que se abstenga de realizar cualquier conducta que pudiere causar daño a los pasivos.
 
-> <small>(ADICIONADO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
+> <small>(ADICIONADO, G.G. 26 DE NOVIEMBRE DEL 2004)</small>
 
 Si el inculpado de este delito lo cometiese de manera reiterada, se le impondrá la pérdida (sic) los derechos inherentes a la patria potestad, tutela o guarda y cuidado del menor o incapaz agraviado, a quien tenga el ejercicio de ésta, por resolución judicial.
 
@@ -2249,7 +2253,7 @@ VIII. Rebase el doble de los parámetros y límites permisibles en las normas of
 
 A los responsables de este delito se les impondrá prisión de dos a ocho años y de treinta a ciento cincuenta días multa.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 28 DE JULIO DEL 2004)</small>
 
 ###### Artículo 229.
 
@@ -2295,7 +2299,7 @@ Será necesario que la secretaría del ramo formule la denuncia correspondiente 
 
 ### CAPITULO III. ESTUPRO
 
-> <small>(REFORMADO, G.G. 27 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO, G.G. 27 DE OCTUBRE DEL 2004)</small>
 
 ###### Artículo 235.
 
@@ -2331,7 +2335,7 @@ La reparación del daño respecto de los delitos contenidos en este subtítulo, 
 
 ### CAPITULO IV. VIOLACION
 
-> <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, G.G. 10 DE AGOSTO DEL 2004)</small>
 
 ## TITULO TERCERO. DELITOS CONTRA LAS PERSONAS
 
@@ -2745,7 +2749,7 @@ Comete también el delito de violación quien introduzca por vía vaginal o anal
 
 Para los efectos de este artículo, se entiende por cópula la introducción del miembro viril en el cuerpo de la víctima por vía vaginal o anal, independientemente de su sexo, exista eyaculación o no.
 
-> <small>(ADICIONADO, G.G. 10 DE AGOSTO DE 2004)</small>
+> <small>(ADICIONADO, G.G. 10 DE AGOSTO DEL 2004)</small>
 
 Artículo 273 BIS.- Si la persona ofendida fuere menor de quince años, se impondrán de veinte a cuarenta y cinco años de prisión y de doscientos a dos mil días multa.
 
@@ -2757,17 +2761,17 @@ Se equipara a la violación la cópula o introducción por vía vaginal, anal u 
 
 Son circunstancias que agravan el delito de violación las siguientes:
 
-(REFORMADA, G.G. 10 DE AGOSTO DE 2004) (F. DE E., G.G. 4 DE OCTUBRE DE 2004)
+(REFORMADA, G.G. 10 DE AGOSTO DEL 2004) (F. DE E., G.G. 4 DE OCTUBRE DE 2004)
 
 I. Cuando en la comisión del delito de violación intervengan dos o más personas se impondrán, además de las penas señaladas en los artículos 273 y 273 Bis, de treinta y cinco a setenta años de prisión y de cien a quinientos días multa;
 
-(REFORMADA, G.G. 10 DE AGOSTO DE 2004) (F. DE E., G.G. 4 DE OCTUBRE DE 2004)
+(REFORMADA, G.G. 10 DE AGOSTO DEL 2004) (F. DE E., G.G. 4 DE OCTUBRE DE 2004)
 
 II. Si el delito fuere cometido por un ascendiente contra su descendiente, por éste contra aquél, por un hermano contra otro, por el tutor en contra de su pupilo o por el padrastro, madrastra, concubina, concubinario, amasio o amasia en contra del hijastro o hijastra, además de las sanciones previstas en los artículos 273 y 273 Bis se impondrán de tres a nueve años de prisión y de treinta a setenta y cinco días multa así como la pérdida de la patria potestad o la tutela en aquellos casos en que la ejerciere sobre la víctima;
 
 III. Cuando el delito de violación sea cometido por quien desempeñe un empleo, cargo o comisión públicos o ejerza una profesión, utilizando los medios o circunstancias que ellos le proporcionen, será destituido definitivamente del cargo o empleo o suspendido hasta por el término de diez años en el ejercicio de su profesión, independientemente de las sanciones a que se haga acreedor; y
 
-> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DEL 2004)</small>
 
 IV. Cuando por delito de violación se causare la muerte, se impondrán de cuarenta a setenta años de prisión y de setecientos a cinco mil días multa; y (sic)
 
@@ -3526,3 +3530,9 @@ G.G. 26 DE NOVIEMBRE DE 2004.
 DECRETO 98 QUE REFORMA DIVERSOS ARTICULOS DEL CODIGO PENAL
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 1.2 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE MEXICO.
+
+G.G. 21 DE DICIEMBRE DE 2005.
+
+PRIMERO. Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO. La reforma, adición y derogación de las diversas disposiciones contenidas en el Código Penal del Estado de México, en la Ley Orgánica del Poder Judicial del Estado de México y en la Ley Orgánica de la Procuraduría del Estado de México, contenidas en el presente decreto tendrán vigencia, hasta en tanto entre en vigor las reformas a los artículos 82, 89 en su segundo párrafo, 99 en su primer párrafo a la adición del segundo párrafo al artículo 102 y el artículo 104 bis de la Constitución Política del Estado Libre y Soberano de México, aprobado por esta Legislatura.
