@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-comision-nacional-bancaria-y-de-33355
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-08-18"
-last_updated: "2003-08-18"
+last_updated: "2005-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33355&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-08-14"
 
 REGLAMENTO INTERIOR DE LA COMISION NACIONAL BANCARIA Y DE VALORES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE DICIEMBRE DE 2005.
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 18 de agosto de 2003.
 
@@ -93,6 +93,8 @@ II. Directores Generales.
 
 B. Unidades administrativas:
 
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
 I. Vicepresidencias:
 
 - Vicepresidencia de Supervisión de Instituciones Financieras 1.
@@ -103,6 +105,8 @@ I. Vicepresidencias:
 
 - Vicepresidencia de Supervisión de Instituciones Financieras 4.
 
+- Vicepresidencia de Supervisión de Instituciones Financieras 5.
+
 - Vicepresidencia de Supervisión Bursátil.
 
 - Vicepresidencia Jurídica.
@@ -111,7 +115,7 @@ I. Vicepresidencias:
 
 - Vicepresidencia de Administración.
 
-- Vicepresidencia de Asuntos Internacionales y Difusión.
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
 II. Direcciones Generales:
 
@@ -127,11 +131,13 @@ II. Direcciones Generales:
 
 - Dirección General de Supervisión de Instituciones Financieras Especializadas B.
 
-- Dirección General de Supervisión de Banca de Desarrollo.
+- Dirección General de Supervisión de Instituciones Financieras Especializadas C.
+
+- Dirección General de Supervisión de Banca de Desarrollo y de Entidades de Fomento.
 
 - Dirección General de Supervisión de Entidades de Ahorro y Crédito Popular.
 
-- Dirección General de Supervisión de Entidades de Fomento.
+- Dirección General de Supervisión de Sistemas Informáticos de Instituciones Financieras.
 
 - Dirección General de Supervisión de Mercados.
 
@@ -151,7 +157,7 @@ II. Direcciones Generales:
 
 - Dirección General Contenciosa.
 
-- Dirección General de Análisis y Desarrollo de Sistemas Preventivos de Operaciones Ilegales.
+- Dirección General de Prevención de Operaciones Ilícitas.
 
 - Dirección General de Atención a Autoridades.
 
@@ -166,6 +172,8 @@ II. Direcciones Generales:
 - Dirección General de Planeación y Recursos Humanos.
 
 - Dirección General de Métodos, Procesos y Calidad.
+
+- Dirección General de Asuntos Internacionales.
 
 ###### Artículo 5.
 
@@ -273,7 +281,9 @@ III. Planear, formular y dirigir los programas anuales de labores de las respect
 
 IV. Recibir en acuerdo a los titulares de las unidades administrativas de su adscripción.
 
-V. Participar en foros de consulta y agrupaciones de organismos de supervisión y regulación financiera a nivel nacional e internacional, esto último, en coordinación con la Vicepresidencia de Asuntos Internacionales y Difusión y previa instrucción del Presidente de la Comisión. En el desempeño de dichas funciones, se podrán designar sustitutos de entre los servidores públicos de la Comisión.
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+V. Participar en foros de consulta y agrupaciones de organismos de supervisión y regulación financiera a nivel nacional e internacional, esto último, en coordinación con la Vicepresidencia de Supervisión de Instituciones Financieras 5 y previa instrucción del Presidente de la Comisión. En el desempeño de dichas funciones, se podrán designar sustitutos de entre los servidores públicos de la Comisión.
 
 VI. Ejecutar las instrucciones y demás actividades que les encomiende el Presidente de la Comisión.
 
@@ -283,13 +293,17 @@ VIII. Llevar a cabo las demás actividades que conforme a su competencia se deri
 
 IX. Las demás que el presente Reglamento Interior atribuya a las unidades administrativas que les estén adscritas.
 
-Las Vicepresidencias estarán integradas por las Direcciones Generales que les correspondan, según la adscripción orgánica que la Junta de Gobierno de la Comisión al efecto determine mediante acuerdo publicado en el Diario Oficial de la Federación.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+Las Vicepresidencias estarán integradas por las Direcciones Generales, Supervisiones en Jefe y Gerencias que les correspondan, según la adscripción orgánica que la Junta de Gobierno de la Comisión al efecto determine mediante acuerdo publicado en el Diario Oficial de la Federación.
 
 #### Sección II. De las Direcciones Generales
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE DICIEMBRE DE 2005.)</small>
+
 ###### Artículo 16.
 
-Las Direcciones Generales de Supervisión de Instituciones Financieras A, B, C, D, de Supervisión de Instituciones Financieras Especializadas A y B, de Supervisión de Banca de Desarrollo, de Supervisión de Entidades de Ahorro y Crédito Popular, de Supervisión de Entidades de Fomento, de Supervisión de Mercados, de Intermediarios Bursátiles, de Sociedades de Inversión y de Análisis y Riesgos, en el ámbito de sus respectivas competencias y acorde a lo previsto en este Reglamento Interior, ejercerán, a través de sus titulares, las facultades de supervisión que de conformidad con la legislación y reglamentos aplicables correspondan a la Comisión, procurando en todo momento el mejoramiento constante de la supervisión, mediante el desarrollo, actualización y homologación de las metodologías de supervisión.
+Las Direcciones Generales de Supervisión de Instituciones Financieras A, B, C, D; de Supervisión de Instituciones Financieras Especializadas A, B y C; de Supervisión de Banca de Desarrollo y de Entidades de Fomento; de Supervisión de Entidades de Ahorro y Crédito Popular; de Supervisión de Sistemas Informáticos de Instituciones Financieras; de Supervisión de Mercados; de Intermediarios Bursátiles; de Sociedades de Inversión, y de Análisis y Riesgos, en el ámbito de sus respectivas competencias y acorde a lo previsto en este Reglamento Interior, ejercerán, a través de sus titulares, las facultades de supervisión que de conformidad con la legislación y reglamentos aplicables correspondan a la Comisión, procurando en todo momento el mejoramiento constante de la supervisión, mediante el desarrollo, actualización y homologación de las metodologías de supervisón.
 
 Al ejercer las facultades de supervisión los Directores Generales a que se refiere este artículo podrán:
 
@@ -299,15 +313,19 @@ II. Autorizar al personal que tengan adscrito, para que durante la práctica de 
 
 III. Evaluar los riesgos a que están sujetas las entidades y personas que supervisen, así como los sistemas de control y la calidad en la administración, lo que efectuarán de manera consolidada en el caso de entidades financieras agrupadas.
 
-IV. Practicar visitas de inspección de entidades financieras ya sean ordinarias, especiales y de investigación, para lo cual podrán efectuar la revisión, verificación, comprobación y evaluación de operaciones y auditoría de registros y sistemas informáticos, en las instalaciones o equipos automatizados de las entidades financieras, para comprobar el estado en que se encuentran estas últimas y se ajusten al cumplimiento de las disposiciones legales y administrativas que las rijan así como a los sanos usos y prácticas de los mercados financieros.
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005.)</small>
+
+IV. Practicar visitas de inspección de entidades financieras ya sean ordinarias, especiales y de investigación, para lo cual podrán efectuar la revisión, verificación, comprobación y evaluación de operaciones y auditoría de registros y procesos, incluyendo aquéllos que se encuentren en sistemas automatizados, en el ámbito de su competencia, para comprobar el estado en que se encuentran las entidades financieras y que se ajusten al cumplimiento de las disposiciones legales y administrativas que las rijan, así como a los sanos usos y prácticas de los mercados financieros.
 
 V. Vigilar, por medio del análisis de información económica y financiera, a las entidades y personas que supervisen el cumplimiento de las leyes y disposiciones aplicables.
 
 VI. Desempeñar las atribuciones señaladas en el artículo 17 y demás del presente Reglamento, según corresponda al ámbito de su competencia.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 17.
 
-Las Direcciones Generales de Supervisión de Instituciones Financieras A, B, C, D, de Supervisión de Instituciones Financieras Especializadas A y B, de Supervisión de Banca de Desarrollo, de Supervisión de Entidades de Ahorro y Crédito Popular, de Supervisión de Entidades de Fomento, de Supervisión de Mercados, de Intermediarios Bursátiles, de Sociedades de Inversión y de Análisis y Riesgos, a través de sus titulares, sin perjuicio de las facultades de supervisión a que se refiere el artículo 16 anterior, también podrán:
+Las Direcciones Generales de Supervisión de Instituciones Financieras A, B, C y D; de Supervisión de Instituciones Financieras Especializadas A, B y C; de Supervisión de Banca de Desarrollo y de Entidades de Fomento; de Supervisión de Entidades de Ahorro y Crédito Popular; de Supervisión de Sistemas Informáticos de Instituciones Financieras; de Supervisión de Mercados; de Intermediarios Bursátiles; de Sociedades de Inversión, y de Análisis y Riesgos, a través de sus titulares, en el ámbito de su competencia y sin perjuicio de las facultades de supervisión a que se refiere el artículo 16 anterior, también podrán:
 
 I. Elaborar y, en su caso proponer a la aprobación de la Vicepresidencia a la que se encuentren adscritos, el programa anual de supervisión de las entidades financieras sujetas al ámbito de su competencia.
 
@@ -317,29 +335,35 @@ III. Evaluar la liquidez, solvencia y estabilidad financiera de las entidades qu
 
 IV. Hacer del conocimiento de su superior jerárquico los resultados de la supervisión.
 
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
 V. Dictar las medidas necesarias para que las entidades financieras sujetas al ámbito de su competencia, de conformidad con lo previsto en este Reglamento, ajusten sus actividades y operaciones a las leyes que les sean aplicables, a las disposiciones de carácter general que de ellas deriven, a los usos mercantiles, bursátiles y bancarios y a las sanas prácticas de los mercados financieros, para lo cual contarán, entre otras facultades, con las siguientes:
 
-a) Ordenar correcciones o modificaciones a los estados financieros de las entidades, que se consideren pertinentes conforme a las normas de registro contable aplicables a dichas entidades, así como instruir la publicación de aquéllas.
+a) Ordenar correcciones o modificaciones a los estados financieros de las entidades, que se consideren pertinentes conforme a las normas de registro contable aplicables a dichas entidades, así como instruir la publicación de aquellas.
 
 b) Requerir la información que se estime necesaria para verificar el apego a las normas y procedimientos de auditoría externa contable, relacionado con el dictamen del auditor externo que corresponda a la entidad.
 
-c) Exigir requerimientos de capitalización adicionales a los señalados en las disposiciones aplicables cuando a juicio de esta Comisión así se justifique, a fin de preservar la estabilidad financiera de las entidades estableciendo el plazo para su cumplimiento.
+c) Ordenar modificaciones a los documentos que deben elaborar las entidades financieras sujetas a la supervisión de la Comisión, conforme a lo establecido en las disposiciones emitidas por la Secretaría de Hacienda y Crédito Público, en materia de prevención y detección de actos u operaciones con recursos de procedencia ilícita o para financiar el terrorismo.
 
-d) Proponer al Presidente la suspensión de operaciones cuando la situación financiera de la entidad presente graves deficiencias.
+d) Exigir requerimientos de capitalización adicionales a los señalados en las disposiciones aplicables, cuando a juicio de la Comisión así se justifique, a fin de preservar la estabilidad financiera de las entidades, estableciendo el plazo para su cumplimiento.
 
-e) Proporcionar, en coordinación con la Vicepresidencia de Asuntos Internacionales y Difusión, la asistencia que en materia de supervisión soliciten las instituciones supervisoras y reguladoras de otros países, de conformidad con las leyes y los acuerdos o convenios que al efecto tenga celebrados la Comisión con organismos nacionales e internacionales con funciones de supervisión y regulación similares a los de ésta.
+e) Proponer al Presidente la suspensión de operaciones cuando la situación financiera de la entidad presente graves deficiencias.
 
-f) Establecer la estimación máxima de activos de las entidades financieras y mínima de sus obligaciones.
+f) Proporcionar, en coordinación con la Vicepresidencia de Supervisión de Instituciones Financieras 5, la asistencia que en materia de supervisión soliciten las instituciones supervisoras y reguladoras de otros países, de conformidad con las leyes y los acuerdos o convenios que al efecto tenga celebrados la Comisión con organismos nacionales e internacionales con funciones de supervisión y regulación similares a los de ésta.
 
-g) Dictar las medidas preventivas necesarias para evitar el deterioro de la solvencia de la entidad.
+g) Establecer la estimación máxima de activos de las entidades financieras y mínima de sus obligaciones.
 
-h) Proponer al Presidente la celebración de programas de cumplimiento forzoso en términos de lo establecido en el artículo 5 de la LCNBV.
+h) Dictar las medidas preventivas necesarias para evitar el deterioro de la solvencia de la entidad.
 
-i) Instruir el establecimiento de medidas de control interno y de administración de riesgos.
+i) Proponer al Presidente la celebración de programas de cumplimiento forzoso en términos de lo establecido en el artículo 5 de la LCNBV.
 
-j) Dictar las demás medidas que resulten pertinentes de conformidad con las leyes y disposiciones aplicables.
+j) Instruir el establecimiento de medidas de control interno y de administración de riesgos.
 
-VI. Supervisar y evaluar los sistemas e instalaciones y equipos automatizados de las entidades financieras sujetas a su supervisión.
+k) Dictar las demás medidas que resulten pertinentes de conformidad con las leyes y disposiciones aplicables.
+
+La Dirección General de Supervisión de Sistemas Informáticos de Instituciones Financieras, podrá dictar, en el ámbito de su competencia, las medidas que deriven del ejercicio de sus funciones, las que se harán del conocimiento de las entidades financieras objeto de supervisión directamente por la citada Dirección General, o a través de las Direcciones Generales a que se refiere el artículo 16 del presente Reglamento.
+
+VI. (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2005)
 
 VII. Establecer y verificar el cumplimiento, cuando así corresponda, de programas de prevención y corrección de cumplimiento forzoso para las entidades financieras que supervisen, tendientes a eliminar irregularidades y riesgos cuando las mismas presenten desequilibrios que puedan afectar su liquidez, solvencia o estabilidad financiera. Al efecto, podrán celebrar o suscribir acuerdos o programas de cumplimiento forzoso.
 
@@ -355,85 +379,65 @@ XII. Desempeñar las atribuciones que les sean delegadas por el Presidente de la
 
 ###### Artículo 18.
 
-A la Dirección General de Supervisión de Instituciones Financieras A, a través de su titular, le corresponderán las facultades siguientes:
-
-I. Realizar la supervisión de:
-
-a) Sociedades controladoras de grupos financieros cuando la entidad preponderante dentro del grupo financiero, sea una institución de banca múltiple.
-
-b) Instituciones de banca múltiple.
-
-c) Sociedades financieras de objeto limitado y organizaciones auxiliares del crédito, agrupadas conforme al inciso a) anterior o bien, en cuyo capital participe una institución de banca múltiple. No quedarán comprendidas las uniones de crédito y las sociedades de ahorro y préstamo.
-
-d) Sociedades de información crediticia.
-
-e) Las demás personas físicas y morales cuando realicen actividades previstas en la LRAF, LRSIC, LIC y LGOAAC.
-
-f) Empresas que presten servicios complementarios o auxiliares en la administración de las entidades citadas, así como de las sociedades inmobiliarias de estas últimas.
-
-II. Ejercer las atribuciones señaladas en los artículos 16 y 17 de este Reglamento, respecto de las entidades a que se refiere la fracción anterior.
-
-III. Autorizar y, en su caso, aprobar los actos que de conformidad con las LRAF, LRSIC, LIC y LGOAAC y las disposiciones de carácter general que de estas leyes emanen, corresponda otorgar a la Comisión, siempre que el ejercicio de esta atribución no se encuentre expresamente reservada a su Junta de Gobierno. Dicha facultad se ejercerá analizando y dictaminando los aspectos operativo, económico, financiero y administrativo, de los actos objeto de su competencia.
-
-IV. Emitir las opiniones que las autoridades competentes soliciten a la Comisión, en los procedimientos administrativos de autorización y, en su caso, aprobación, que se sigan de conformidad con las LRAF, LRSIC, LIC y LGOAAC y las disposiciones de carácter general que de estas leyes emanen. Dicha facultad se ejercerá analizando y dictaminando los aspectos operativo, económico, financiero y administrativo, de los actos objeto de su competencia.
-
-V. Solicitar la información y documentación que resulte necesaria para el adecuado ejercicio de la supervisión de las sociedades de información crediticia, quedando incluida la base de datos de las referidas sociedades, la cual se integra con la información sobre las operaciones crediticias y otras de naturaleza análoga que le proporcionan a éstas sus usuarios.
-
-VI. Evaluar la estabilidad y solvencia de las entidades supervisadas, así como la adecuación del capital a los riesgos a que se encuentran expuestas, la calidad de los activos, la rentabilidad, la organización, la administración y sistemas de control e información.
-
-Las facultades a que se refieren las fracciones III y IV de este artículo, deberán ejercerse en coordinación con la Vicepresidencia de Normatividad o las Direcciones Generales que le estén adscritas que al efecto resulten competentes.
+(DEROGADO, D.O.F. 21 DE DICIEMBRE DE 2005)
 
 ###### Artículo 19.
 
-A la Dirección General de Supervisión de Instituciones Financieras B, a través de su titular, le corresponderán las facultades siguientes:
+(DEROGADO, D.O.F. 21 DE DICIEMBRE DE 2005)
 
-I. Realizar la supervisión de:
-
-a) Sociedades controladoras de grupos financieros cuando la entidad preponderante dentro del grupo financiero sea una institución de banca múltiple, o bien, cuando la entidad preponderante dentro del grupo sea una sociedad financiera de objeto limitado u organización auxiliar del crédito, que tengan el carácter de filiales.
-
-b) Instituciones de banca múltiple.
-
-c) Sociedades financieras de objeto limitado y organizaciones auxiliares del crédito, agrupadas conforme al inciso a) anterior o bien, en cuyo capital participe una institución de banca múltiple o que tengan el carácter de filiales. No quedarán comprendidos los almacenes generales de depósito, las uniones de crédito y las sociedades de ahorro y préstamo.
-
-d) Oficinas de representación de entidades financieras del exterior a que se refiere el artículo 7 de la LIC.
-
-e) Sucursales de bancos extranjeros.
-
-f) Las demás personas físicas y morales cuando realicen actividades previstas en la LRAF, LIC y LGOAAC.
-
-g) Empresas que presten servicios complementarios o auxiliares en la administración de las entidades citadas, así como de las sociedades inmobiliarias de estas últimas.
-
-II. Ejercer las atribuciones señaladas en los artículos 16 y 17 de este Reglamento, respecto de las entidades a que se refiere la fracción anterior.
-
-III. Autorizar y, en su caso, aprobar los actos que de conformidad con las LRAF, LIC y LGOAAC y las disposiciones de carácter general que de estas leyes emanen, corresponda otorgar a la Comisión, siempre que el ejercicio de esta atribución no se encuentre expresamente reservada a su Junta de Gobierno. Dicha facultad se ejercerá analizando y dictaminando los aspectos operativo, económico, financiero y administrativo, de los actos objeto de su competencia.
-
-IV. Emitir las opiniones que las autoridades competentes soliciten a la Comisión, en los procedimientos administrativos de autorización y, en su caso, aprobación, que se sigan de conformidad con las LRAF, LIC y LGOAAC y las disposiciones de carácter general que de estas leyes emanen. Dicha facultad se ejercerá analizando y dictaminando los aspectos operativo, económico, financiero y administrativo, de los actos objeto de su competencia.
-
-Las facultades a que se refieren las fracciones III y IV de este artículo, deberán ejercerse en coordinación con la Vicepresidencia de Normatividad o las Direcciones Generales que le estén adscritas que al efecto resulten competentes.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 20.
 
-A las Direcciones Generales de Supervisión de Instituciones Financieras C y D, a través de sus titulares, les corresponderán las facultades siguientes:
+A las Direcciones Generales de Supervisión de Instituciones Financieras A, B, C y D, a través de sus titulares, les corresponderán las facultades siguientes:
 
 I. Realizar la supervisión de:
 
-a) Sociedades controladoras de grupos financieros cuando la entidad preponderante dentro del grupo financiero, sea una institución de banca múltiple.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
-b) Instituciones de banca múltiple.
+a) Sociedades controladoras de grupos financieros, tengan o no el carácter de filiales, cuando la entidad preponderante dentro del grupo financiero sea una institución de banca múltiple.
 
-c) Sociedades financieras de objeto limitado y organizaciones auxiliares del crédito, agrupadas conforme al inciso a) anterior o bien, en cuyo capital participe una institución de banca múltiple. No quedarán comprendidas las uniones de crédito y las sociedades de ahorro y préstamo.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
-d) Las demás personas físicas y morales cuando realicen actividades previstas en la LRAF, LIC y LGOAAC.
+b) Instituciones de banca múltiple, tengan o no el carácter de filiales
 
-e) Empresas que presten servicios complementarios o auxiliares en la administración de las entidades citadas, así como de las sociedades inmobiliarias de estas últimas.
+c) (DEROGADO, D.O.F. 21 DE DICIEMBRE DE 2005)
 
-II. Ejercer las atribuciones señaladas en los artículos 16 y 17 de este Reglamento, respecto de las entidades a que se refiere la fracción anterior.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
-III. Autorizar y, en su caso, aprobar los actos que de conformidad con las LRAF, LIC y LGOAAC y las disposiciones de carácter general que de estas leyes emanen, corresponda otorgar a la Comisión, siempre que el ejercicio de esta atribución no se encuentre expresamente reservada a su Junta de Gobierno. Dicha facultad se ejercerá analizando y dictaminando los aspectos operativo, económico, financiero y administrativo, de los actos objeto de su competencia.
+d) Sucursales de bancos extranjeros.
 
-IV. Emitir las opiniones que las autoridades competentes soliciten a la Comisión, en los procedimientos administrativos de autorización y, en su caso, aprobación, que se sigan de conformidad con las LRAF, LIC y LGOAAC y las disposiciones de carácter general que de estas leyes emanen. Dicha facultad se ejercerá analizando y dictaminando los aspectos operativo, económico, financiero y administrativo, de los actos objeto de su competencia.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
-Las facultades a que se refieren las fracciones III y IV de este artículo, deberán ejercerse en coordinación con la Vicepresidencia de Normatividad o las Direcciones Generales que le estén adscritas que al efecto resulten competentes.
+e) Las demás personas físicas y morales cuando realicen actividades previstas en la LRAF y LIC.
+
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+f) Empresas que presten servicios complementarios o auxiliares en la administración de las entidades citadas, así como de las sociedades inmobiliarias de estas últimas.
+
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+II. Ejercer las atribuciones señaladas en los artículos 16 y 17 de este Reglamento, respecto de las entidades a que se refiere la fracción anterior, así como supervisar que las instituciones de crédito cumplan con las disposiciones aplicables en materia de medidas básicas de seguridad a que se refiere la LIC y con lo establecido en los manuales de seguridad y protección de dichas instituciones.
+
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+III. Autorizar y, en su caso, aprobar los actos que de conformidad con las LRAF y LIC y las disposiciones de carácter general que de estas leyes emanen, corresponda otorgar a la Comisión, siempre que el ejercicio de esta atribución no se encuentre expresamente reservada a su Junta de Gobierno. Dicha facultad se ejercerá analizando y dictaminando los aspectos operativo, económico, financiero y administrativo, de los actos objeto de su competencia.
+
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005.)</small>
+
+IV. Emitir las opiniones que las autoridades competentes soliciten a la Comisión, en los procedimientos administrativos de autorización y, en su caso, aprobación, que se sigan de conformidad con las LRAF y LIC y las disposiciones de carácter general que de estas leyes emanen. Dicha facultad se ejercerá analizando y dictaminando los aspectos operativo, económico, financiero y administrativo, de los actos objeto de su competencia.
+
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+Las Direcciones Generales de Supervisión de Instituciones Financieras A, B, C o D, podrán realizar la supervisión de sociedades financieras de objeto limitado, almacenes generales de depósito, arrendadoras financieras, empresas de factoraje financiero, casas de cambio, sociedades operadoras de sociedades de inversión y casas de bolsa, independientemente de que dichas entidades tengan o no el carácter de filiales, cuando alguna de éstas forme parte de un grupo financiero respecto del cual ejerzan las atribuciones en materia de supervisión que le sean delegadas, al amparo del Acuerdo por el que el Presidente de la Comisión Nacional Bancaria y de Valores delega facultades en los Vicepresidentes, Directores Generales, Supervisores en Jefe y Gerentes de la misma Comisión.
+
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+La facultad prevista en el párrafo anterior únicamente podrá ejercerse previa aprobación del Presidente de la Comisión, la cual deberá hacerse del conocimiento público. Para tales efectos, los titulares de las Direcciones Generales de Supervisión de Instituciones Financieras A, B, C y D, según corresponda, contarán, en el ámbito de su competencia, con las facultades a que se refieren los artículos 21, 22 Bis, 27 y 28 de este Reglamento.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+Las facultades mencionadas en las fracciones III y IV de este artículo, deberán ejercerse en coordinación con la Vicepresidencia de Normatividad o las Direcciones Generales que le estén adscritas que al efecto resulten competentes.
 
 ###### Artículo 21.
 
@@ -441,27 +445,63 @@ A la Dirección General de Supervisión de Instituciones Financieras Especializa
 
 I. Realizar la supervisión de:
 
-a) Sociedades controladoras de grupos financieros cuya entidad preponderante dentro del grupo financiero, sean sociedades financieras de objeto limitado, organizaciones auxiliares del crédito o casa de cambio.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
-b) Sociedades financieras de objeto limitado.
+a) Sociedades controladoras de grupos financieros, tengan o no el carácter de filiales, cuya entidad preponderante dentro del grupo financiero sean arrendadoras financieras, almacenes generales de depósito, empresas de factoraje financiero o casas de cambio.
 
-c) Organizaciones auxiliares del crédito, excepto uniones de crédito.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
-d) Casas de cambio.
+b) Arrendadoras financieras, tengan o no el carácter de filiales.
 
-e) Las demás personas físicas y morales cuando realicen actividades previstas en la LRAF, LIC y LGOAAC.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
-f) Empresas que presten servicios complementarios o auxiliares en la administración de las entidades citadas, así como de las sociedades inmobiliarias de estas últimas.
+c) Empresas de factoraje financiero, tengan o no el carácter de filiales.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+d) Casas de cambio, tengan o no el carácter de filiales.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+e) Almacenes generales de depósito, tengan o no el carácter de filiales.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+f) Oficinas de representación de entidades financieras del exterior a que se refiere el artículo 7 de la LIC, así como de oficinas de representación de casas de bolsa del exterior.
+
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+g) Sucursales de bancos extranjeros.
+
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+h) Las demás personas físicas y morales cuando realicen actividades previstas en la LRAF, LIC, LMV y LGOAAC.
+
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+i) Empresas que presten servicios complementarios o auxiliares en la administración de las entidades citadas, así como de las sociedades inmobiliarias de estas últimas.
 
 II. Ejercer las atribuciones señaladas en los artículos 16 y 17 de este Reglamento, respecto de las entidades a que se refiere la fracción anterior.
 
-III. Autorizar y, en su caso, aprobar los actos que de conformidad con las LRAF, LIC y LGOAAC y las disposiciones de carácter general que de estas leyes emanen, corresponda otorgar a la Comisión, siempre que el ejercicio de esta atribución no se encuentre expresamente reservada a su Junta de Gobierno. Dicha facultad se ejercerá analizando y dictaminando los aspectos operativo, económico, financiero y administrativo, de los actos objeto de su competencia.
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
-IV. Emitir las opiniones que las autoridades competentes soliciten a la Comisión, en los procedimientos administrativos de autorización y, en su caso, aprobación, que se sigan de conformidad con las LRAF, LIC y LGOAAC y las disposiciones de carácter general que de estas leyes emanen. Dicha facultad se ejercerá analizando y dictaminando los aspectos operativo, económico, financiero y administrativo, de los actos objeto de su competencia.
+III. Autorizar y, en su caso, aprobar los actos que de conformidad con las LRAF, LIC, LMV y LGOAAC y las disposiciones de carácter general que de estas leyes emanen, corresponda otorgar a la Comisión, siempre que el ejercicio de esta atribución no se encuentre expresamente reservada a su Junta de Gobierno. Dicha facultad se ejercerá analizando y dictaminando los aspectos operativo, económico, financiero y administrativo, de los actos objeto de su competencia.
 
-Las facultades a que se refieren las fracciones III y IV de este artículo, deberán ejercerse en coordinación con la Vicepresidencia de Normatividad o las Direcciones Generales que le estén adscritas que al efecto resulten competentes.
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
-El titular de la Dirección General a que se refiere este artículo, podrá ejercer facultades de supervisión sobre las entidades financieras a que se refieren los artículos 22 y 24 de este Reglamento, cuando así lo determine el Presidente de la Comisión mediante acuerdo delegatorio, supuesto en el cual contará con las facultades contenidas en los citados artículos.
+IV. Emitir las opiniones que las autoridades competentes soliciten a la Comisión, en los procedimientos administrativos de autorización y, en su caso, aprobación, que se sigan de conformidad con las LRAF, LIC, LMV y LGOAAC y las disposiciones de carácter general que de estas leyes emanen. Dicha facultad se ejercerá analizando y dictaminando los aspectos operativo, económico, financiero y administrativo, de los actos objeto de su competencia.
+
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+La Dirección General de Supervisión de Instituciones Financieras Especializadas A podrá realizar la supervisión de instituciones de banca múltiple, sociedades financieras de objeto limitado, sociedades operadoras de sociedades de inversión y casas de bolsa, independientemente de que dichas entidades tengan o no el carácter de filiales, cuando alguna de éstas forme parte de un grupo financiero respecto del cual ejerza las atribuciones en materia de supervisión que le sean delegadas, al amparo del Acuerdo por el que el Presidente de la Comisión Nacional Bancaria y de Valores delega facultades en los Vicepresidentes, Directores Generales, Supervisores en Jefe y Gerentes de la misma Comisión.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+La facultad prevista en el párrafo anterior únicamente podrá ejercerse previa aprobación del Presidente de la Comisión, la cual deberá hacerse del conocimiento público. Para tales efectos, el titular de la Dirección General de Supervisión de Instituciones Financieras Especializadas A contará, en el ámbito de su competencia, con las facultades a que se refieren los artículos 20, 22 Bis, 27 y 28 de este Reglamento.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+Las facultades mencionadas en las fracciones III y IV de este artículo, deberán ejercerse en coordinación con la Vicepresidencia de Normatividad o las Direcciones Generales que le estén adscritas que al efecto resulten competentes.
 
 ###### Artículo 22.
 
@@ -481,21 +521,63 @@ IV. Emitir las opiniones que las autoridades competentes soliciten a la Comisió
 
 Las facultades a que se refieren las fracciones III y IV de este artículo, deberán ejercerse en coordinación con la Vicepresidencia de Normatividad o las Direcciones Generales que le estén adscritas que al efecto resulten competentes.
 
-El titular de la Dirección General a que se refiere este artículo, podrá ejercer facultades de supervisión sobre las entidades financieras a que se refieren los artículos 21 y 24 de este Reglamento, cuando así lo determine el Presidente de la Comisión mediante acuerdo delegatorio, supuesto en el cual contará con las facultades contenidas en los citados artículos.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 22 Bis.
+
+A la Dirección General de Supervisión de Instituciones Financieras Especializadas C, a través de su titular, le corresponderán las facultades siguientes:
+
+I. Realizar la supervisión de:
+
+a) Sociedades controladoras de grupos financieros, tengan o no el carácter de filiales, cuya entidad preponderante dentro del grupo financiero sean sociedades financieras de objeto limitado.
+
+b) Sociedades financieras de objeto limitado, tengan o no el carácter de filiales.
+
+c) Sociedades de información crediticia.
+
+d) Las demás personas físicas y morales cuando realicen actividades previstas en la LRAF, LIC y LRSIC.
+
+e) Empresas que presten servicios complementarios o auxiliares en la administración de las entidades citadas, así como de las sociedades inmobiliarias de estas últimas.
+
+II. Ejercer las atribuciones señaladas en los artículos 16 y 17 de este Reglamento, respecto de las entidades a que se refiere la fracción anterior.
+
+III. Autorizar y, en su caso, aprobar los actos que de conformidad con las LRAF, LIC y LRSIC y las disposiciones de carácter general que de estas leyes emanen, corresponda otorgar a la Comisión, siempre que el ejercicio de esta atribución no se encuentre expresamente reservada a su Junta de Gobierno. Dicha facultad se ejercerá analizando y dictaminando los aspectos operativo, económico, financiero y administrativo, de los actos objeto de su competencia.
+
+IV. Emitir las opiniones que las autoridades competentes soliciten a la Comisión, en los procedimientos administrativos de autorización y, en su caso, aprobación, que se sigan de conformidad con las LRAF, LIC y LRSIC y las disposiciones de carácter general que de estas leyes emanen. Dicha facultad se ejercerá analizando y dictaminando los aspectos operativo, económico, financiero y administrativo, de los actos objeto de su competencia.
+
+V. Solicitar la información y documentación que resulte necesaria para el adecuado ejercicio de la supervisión de las sociedades de información crediticia, quedando incluida la base de datos de las referidas sociedades.
+
+La Dirección General de Supervisión de Instituciones Financieras Especializadas C podrá realizar la supervisión de instituciones de banca múltiple, arrendadoras financieras, almacenes generales de depósito, empresas de factoraje financiero, casas de cambio, sociedades operadoras de sociedades de inversión y casas de bolsa, independientemente de que dichas entidades tengan o no el carácter de filiales, cuando alguna de éstas forme parte de un grupo financiero respecto del cual ejerza las atribuciones en materia de supervisión que le sean delegadas, al amparo del Acuerdo por el que el Presidente de la Comisión Nacional Bancaria y de Valores delega facultades en los Vicepresidentes, Directores Generales, Supervisores en Jefe y Gerentes de la misma Comisión.
+
+La facultad prevista en el párrafo anterior únicamente podrá ejercerse previa aprobación del Presidente de la Comisión, la cual deberá hacerse del conocimiento público. Para tales efectos, el titular de la Dirección General de Supervisión de Instituciones Financieras Especializadas C contará, en el ámbito de su competencia, con las facultades a que se refieren los artículos 20, 21, 27 y 28 de este Reglamento.
+
+Las facultades mencionadas en las fracciones III y IV de este artículo, deberán ejercerse en coordinación con la Vicepresidencia de Normatividad o las Direcciones Generales que le estén adscritas que al efecto resulten competentes.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 23.
 
-A la Dirección General de Supervisión de Banca de Desarrollo, a través de su titular, le corresponderán las facultades siguientes:
+A la Dirección General de Supervisión de Banca de Desarrollo y de Entidades de Fomento, a través de su titular, le corresponderán las facultades siguientes:
 
 I. Realizar la supervisión de:
 
 a) Instituciones de banca de desarrollo.
 
-b) Organizaciones auxiliares del crédito, en cuyo capital participe una institución de banca de desarrollo. No quedarán comprendidas las uniones de crédito y las sociedades de ahorro y préstamo.
+b) (DEROGADO, D.O.F. 21 DE DICIEMBRE DE 2005)
 
-c) Empresas que presten servicios complementarios o auxiliares en la administración de las entidades citadas, así como de las sociedades inmobiliarias de estas últimas.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
-II. Ejercer las atribuciones señaladas en los artículos 16 y 17 de este Reglamento Interior, respecto de las entidades a que se refiere la fracción anterior.
+c) Instituciones y fideicomisos públicos que realicen actividades financieras objeto de supervisión de la Comisión.
+
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+d) Empresas que presten servicios complementarios o auxiliares en la administración de las entidades citadas, así como de las sociedades inmobiliarias de estas últimas.
+
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+II. Ejercer las atribuciones señaladas en los artículos 16 y 17 de este Reglamento Interior, respecto de las entidades citadas en la fracción anterior, así como supervisar que las instituciones de banca de desarrollo cumplan con las disposiciones aplicables en materia de medidas básicas de seguridad a que se refiere la LIC y con lo establecido en los manuales de seguridad y protección de dichas instituciones.
 
 III. Autorizar y, en su caso, aprobar los actos que de conformidad con las leyes orgánicas aplicables a las instituciones de banca de desarrollo o de la LIC y las disposiciones de carácter general que de esta ley emanen, corresponda otorgar a la Comisión, siempre que el ejercicio de esta atribución no se encuentre expresamente reservada a su Junta de Gobierno. Dicha facultad se ejercerá analizando y dictaminando los aspectos operativo, económico, financiero y administrativo, de los actos objeto de su competencia.
 
@@ -527,17 +609,11 @@ IV. Emitir las opiniones que las autoridades competentes soliciten a la Comisió
 
 Las facultades a que se refieren las fracciones III y IV de este artículo, deberán ejercerse en coordinación con la Vicepresidencia de Normatividad o las Direcciones Generales que le estén adscritas que al efecto resulten competentes.
 
-El titular de la Dirección General a que se refiere este artículo, podrá ejercer facultades de supervisión sobre las entidades financieras a que se refieren los artículos 21 y 22 de este Reglamento, cuando así lo determine el Presidente de la Comisión mediante acuerdo delegatorio, supuesto en el cual contará con las facultades contenidas en los citados artículos.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 25.
 
-A la Dirección General de Supervisión de Entidades de Fomento, a través de su titular, le corresponderán las facultades siguientes:
-
-I. Realizar la supervisión de instituciones y fideicomisos públicos que realicen actividades financieras objeto de supervisión de la Comisión, además de empresas que presten servicios complementarios o auxiliares en su administración y sociedades inmobiliarias de dichas entidades.
-
-II. Ejercer las atribuciones señaladas en los artículos 16 y 17 de este Reglamento Interior, respecto de las entidades a que se refiere la fracción anterior.
-
-El titular de la Dirección General a que se refiere este artículo, podrá ejercer facultades de supervisión sobre instituciones de banca de desarrollo cuando así lo determine el Presidente de la Comisión mediante acuerdo delegatorio, supuesto en el cual contará con las facultades a que se refiere el artículo 23 de este Reglamento.
+(DEROGADO, D.O.F. 21 DE DICIEMBRE DE 2005)
 
 ###### Artículo 26.
 
@@ -585,13 +661,19 @@ A la Dirección General Intermediarios Bursátiles, a través de su titular, le 
 
 I. Realizar la supervisión de:
 
-a) Sociedades controladoras de grupos financieros cuya entidad preponderante dentro del grupo financiero, sean casas de bolsa o especialistas bursátiles.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
-b) Casas de bolsa.
+a) Sociedades controladoras de grupos financieros, tengan o no el carácter de filiales, cuya entidad preponderante dentro del grupo financiero sean casas de bolsa o especialistas bursátiles.
 
-c) Especialistas bursátiles.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
-d) Oficinas de representación de casas de bolsa del exterior.
+b) Casas de bolsa, tengan o no el carácter de filiales.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+c) Especialistas bursátiles, tengan o no el carácter de filiales.
+
+d) (DEROGADO, D.O.F. 21 DE DICIEMBRE DE 2005)
 
 e) Personas físicas y morales que de manera habitual y profesional realicen actividades de manejo de cartera de valores, prestando servicios de asesoría, supervisión y en su caso, toma de decisiones de inversión a nombre y por cuenta de terceros respecto de valores, conforme a la LMV.
 
@@ -607,7 +689,17 @@ IV. Emitir las opiniones que las autoridades competentes soliciten a la Comisió
 
 V. Investigar las operaciones que celebren las casas de bolsa y especialistas bursátiles que pudieran ubicarse en alguno de los supuestos de prohibición a que se refiere el artículo 124 de la LMV.
 
-Las facultades a que se refieren las fracciones III y IV de este artículo, deberán ejercerse en coordinación con la Vicepresidencia de Normatividad o las Direcciones Generales que le estén adscritas que al efecto resulten competentes.
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+La Dirección General de Intermediarios Bursátiles podrá realizar la supervisión de instituciones de banca múltiple, arrendadoras financieras, empresas de factoraje financiero, casas de cambio, sociedades financieras de objeto limitado, almacenes generales de depósito y sociedades operadoras de sociedades de inversión, independientemente de que dichas entidades tengan o no el carácter de filiales, cuando alguna de éstas forme parte de un grupo financiero respecto del cual ejerza las atribuciones en materia de supervisión que le sean delegadas, al amparo del Acuerdo por el que el Presidente de la Comisión Nacional Bancaria y de Valores delega facultades en los Vicepresidentes, Directores Generales, Supervisores en Jefe y Gerentes de la misma Comisión.
+
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+La facultad prevista en el párrafo anterior únicamente podrá ejercerse previa aprobación del Presidente de la Comisión, la cual deberá hacerse del conocimiento público. Para tales efectos, el titular de la Dirección General de Intermediarios Bursátiles contará, en el ámbito de su competencia, con las facultades a que se refieren los artículos 20, 21, 22 Bis y 28 de este Reglamento.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+Las facultades mencionadas en las fracciones III y IV de este artículo, deberán ejercerse en coordinación con la Vicepresidencia de Normatividad o las Direcciones Generales que le estén adscritas que al efecto resulten competentes.
 
 ###### Artículo 28.
 
@@ -615,15 +707,29 @@ A la Dirección General de Sociedades de Inversión, a través de su titular, le
 
 I. Realizar la supervisión de:
 
-a) Sociedades de inversión.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
-b) Sociedades operadoras de sociedades de inversión.
+a) Sociedades de inversión, tengan o no el carácter de filiales.
 
-c) Sociedades y entidades financieras que actúen con el carácter de distribuidoras de acciones de sociedades de inversión.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
-d) Sociedades valuadoras de acciones de sociedades de inversión.
+b) Sociedades operadoras de sociedades de inversión, tengan o no el carácter de filiales.
 
-e) Personas físicas y demás personas morales que realicen actividades previstas en la LSI.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+c) Sociedades controladoras de grupos financieros, tengan o no el carácter de filiales, cuya entidad preponderante dentro del grupo financiero sea una sociedad operadora de sociedades de inversión.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+d) Sociedades y entidades financieras que actúen con el carácter de distribuidoras de acciones de sociedades de inversión.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+e) Sociedades valuadoras de acciones de sociedades de inversión.
+
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+f) Personas físicas y demás personas morales que realicen actividades previstas en la LSI.
 
 II. Ejercer las atribuciones señaladas en los artículos 16 y 17 de este Reglamento, respecto de las entidades a que se refiere la fracción anterior.
 
@@ -633,7 +739,17 @@ IV. Autorizar los prospectos de información al público inversionista que elabo
 
 V. Vigilar que la información financiera, operativa y corporativa de las sociedades señaladas en la fracción I, se proporcione a la Comisión con oportunidad y conforme a las disposiciones de carácter general aplicables.
 
-Las facultades a que se refiere la fracción III de este artículo, deberán ejercerse en coordinación con la Vicepresidencia de Normatividad o las Direcciones Generales que le estén adscritas que al efecto resulten competentes.
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+La Dirección General de Sociedades de Inversión podrá realizar la supervisión de instituciones de banca múltiple, arrendadoras financieras, empresas de factoraje financiero, casas de cambio, sociedades financieras de objeto limitado, almacenes generales de depósito y casas de bolsa, independientemente de que dichas entidades tengan o no el carácter de filiales, cuando alguna de éstas forme parte de un grupo financiero respecto del cual ejerza las atribuciones en materia de supervisión que le sean delegadas, al amparo del Acuerdo por el que el Presidente de la Comisión Nacional Bancaria y de Valores delega facultades en los Vicepresidentes, Directores Generales, Supervisores en Jefe y Gerentes de la misma Comisión.
+
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+La facultad prevista en el párrafo anterior únicamente podrá ejercerse previa aprobación del Presidente de la Comisión, la cual deberá hacerse del conocimiento público. Para tales efectos, el titular de la Dirección General de Sociedades de Inversión contará, en el ámbito de su competencia, con las facultades a que se refieren los artículos 20, 21, 22 Bis y 27 de este Reglamento.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+Las facultades mencionadas en las fracciones III y IV de este artículo, deberán ejercerse en coordinación con la Vicepresidencia de Normatividad o las Direcciones Generales que le estén adscritas que al efecto resulten competentes.
 
 ###### Artículo 29.
 
@@ -697,9 +813,25 @@ XIII. Desarrollar e implementar sistemas de análisis a fin de explotar adecuada
 
 XIV. Establecer una coordinación estrecha y permanente con las entidades supervisadas, así como con otras autoridades financieras y con las distintas unidades administrativas de la Comisión, en aspectos relacionados con la recepción, explotación, manejo y entrega de información.
 
-XV. Supervisar la correcta aplicación de los acuerdos o programas de apoyo a deudores que al efecto celebren el Gobierno Federal y la banca, para lo cual contará con las facultades de vigilancia de las instituciones de crédito conforme a lo señalado en los artículos 16 y 17 de este Reglamento, en lo que resulten aplicables para tal efecto.
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+XV. Supervisar la correcta aplicación de los acuerdos o programas de apoyo a deudores que al efecto celebren el Gobierno Federal y las entidades financieras, para lo cual contará con las facultades de vigilancia conforme a lo señalado en los artículos 16 y 17 de este Reglamento, en lo que resulten aplicables para tal efecto.
 
 XVI. Desempeñar las atribuciones que le sean delegadas por el Presidente de la Comisión, mediante acuerdo delegatorio de facultades publicado en el Diario Oficial de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 30 Bis.
+
+A la Dirección General de Supervisión de Sistemas Informáticos de Instituciones Financieras, a través de su titular, le corresponderán las facultades siguientes:
+
+I. Supervisar y evaluar los sistemas automatizados de procesamiento de datos, así como los equipos, redes de telecomunicaciones, medios electrónicos, ópticos o de cualquier otra tecnología asociados con el procesamiento, almacenamiento y transmisión de la información de las entidades financieras sujetas a la supervisión de la Comisión.
+
+II. Supervisar y evaluar los controles internos en términos de integridad, disponibilidad y confidencialidad de la información procesada, así como el cumplimiento de la normatividad y lineamientos aplicables en materia de sistemas de información de las entidades financieras sujetas a la supervisión de la Comisión.
+
+III. Practicar visitas de inspección a las entidades financieras ya sean ordinarias, especiales o de investigación, para la realización de auditorías sobre el riesgo tecnológico de sus sistemas informáticos en las instalaciones o equipos automatizados de las entidades financieras, para comprobar el funcionamiento, la disponibilidad, la integridad y seguridad de dichos sistemas.
+
+IV. Desempeñar las atribuciones que le sean delegadas por el Presidente de la Comisión, mediante acuerdo delegatorio de facultades publicado en el Diario Oficial de la Federación.
 
 ###### Artículo 31.
 
@@ -755,21 +887,9 @@ VI. Representar los intereses de la Comisión, ante los tribunales o ante cualqu
 
 VII. Solicitar a las sociedades de información crediticia la presentación de una denuncia en contra de quien resulte responsable por la violación al secreto financiero, así como la suspensión del servicio de conformidad con lo dispuesto por el artículo 29 de la LRSIC.
 
-VIII. Imponer las sanciones administrativas por infracciones a las leyes relativas al sistema financiero y a las disposiciones de carácter general que emanen de ellas, cuando le hayan sido delegadas por la Junta de Gobierno en los términos de los artículos 12 fracción IV de la LCNBV y 10 de este Reglamento Interior, tomando en cuenta:
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
-a) La naturaleza de la infracción.
-
-b) La gravedad de ésta y, en su caso, la reincidencia.
-
-c) El resultado material de la conducta y la magnitud del daño causado al bien jurídico o del peligro a que hubiere sido expuesto.
-
-d) La naturaleza de la acción u omisión y de los medios empleados para ejecutarla.
-
-e) Las circunstancias de tiempo, lugar, modo u ocasión del hecho realizado.
-
-f) La forma y grado de intervención del agente en la comisión de la infracción.
-
-g) Las demás condiciones especiales y personales en que se encontraba el agente en el momento de la comisión de la infracción, siempre y cuando sean relevantes para determinar la posibilidad de haber ajustado su conducta a las exigencias de la norma.
+VIII. Imponer las sanciones administrativas por infracciones a las leyes relativas al sistema financiero y a las disposiciones de carácter general que emanen de ellas, cuando le hayan sido delegadas por la Junta de Gobierno en los términos de los artículos 12, fracción IV, de la LCNBV y 10 de este Reglamento Interior.
 
 IX. Dictar las medidas necesarias para que las entidades financieras sujetas a la supervisión de la Comisión, ajusten sus actividades y operaciones a las leyes que les sean aplicables, a las disposiciones de carácter general que de ellas deriven y a los usos mercantiles, bancarios y bursátiles o sanas prácticas de los mercados financieros.
 
@@ -779,7 +899,9 @@ XI. Expedir certificaciones de constancias de documentos que obren en los archiv
 
 XII. Desempeñar las atribuciones que le sean delegadas por el Presidente de la Comisión, mediante acuerdo delegatorio de facultades publicado en el Diario Oficial de la Federación.
 
-La Dirección General de Delitos y Sanciones para el ejercicio de sus funciones, se asistirá de la Gerencia de Delitos y de la Gerencia de Sanciones. La Gerencia de Delitos podrá desempeñar las facultades a que se refieren las fracciones I a VII y IX a XII, de este artículo.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+La Dirección General de Delitos y Sanciones para el ejercicio de sus funciones, se asistirá de la Gerencia de Delitos, la Gerencia de Sanciones y la Gerencia de Asuntos Jurídicos Especiales. La Gerencia de Delitos podrá desempeñar las facultades a que se refieren las fracciones I a VII y IX a XII, de este artículo.
 
 La Gerencia de Sanciones podrá desempeñar las facultades a que se refieren las fracciones I, III, V, VI y VIII a XII, del presente artículo.
 
@@ -813,33 +935,85 @@ La Dirección General Contenciosa para el ejercicio de sus funciones, se asistir
 
 La Gerencia de Procedimientos podrá desempeñar las facultades a que se refieren las fracciones I, II y VII a XI, del presente artículo.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 35.
 
-A la Dirección General de Análisis y Desarrollo de Sistemas Preventivos de Operaciones Ilegales, a través de su titular, le corresponderán las facultades siguientes:
+A la Dirección General de Prevención de Operaciones Ilícitas, a través de su titular, le corresponderán las facultades siguientes:
 
 I. Practicar a las entidades financieras sujetas a la supervisión de la Comisión, visitas especiales y de investigación con el objeto de verificar el cumplimiento de las disposiciones legales y administrativas que les resulten aplicables en materia de prevención y detección de actos u operaciones con recursos de procedencia ilícita o para financiar el terrorismo y puedan ubicarse en los supuestos del Código Penal Federal. Al efecto, contará con las facultades a que se refiere el artículo 16 de este Reglamento, en lo conducente.
 
-II. Opinar, cuando así lo solicite la Secretaría de Hacienda y Crédito Público, respecto de los manuales para prevenir, detectar y reportar actos u operaciones con recursos de probable procedencia ilícita de las entidades financieras, así como de las modificaciones a los mismos o de las políticas, procedimientos y prácticas de dichas entidades al respecto.
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
-III. Supervisar que las instituciones de crédito cumplan con las disposiciones aplicables en materia de medidas básicas de seguridad a que se refiere la LIC y con lo establecido en los manuales de seguridad y protección de dichas instituciones, para lo cual contarán con las facultades previstas en el artículo 16 de este Reglamento, en lo conducente.
+II. Emitir opinión a la Secretaría de Hacienda y Crédito Público, respecto de las disposiciones de carácter general que la misma emita en la materia señalada en la fracción anterior.
 
-IV. Emitir opinión a la Secretaría de Hacienda y Crédito Público, respecto de los manuales de seguridad y protección previstos en las disposiciones a que se refiere la fracción anterior.
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
-V. Dictar las medidas necesarias para que las entidades financieras sujetas a la supervisión de la Comisión, ajusten sus actividades y operaciones a las leyes y normatividad que les sean aplicables, así como a las disposiciones señaladas en las fracciones I y III anteriores.
+III. Realizar los actos que conforme a las disposiciones a que se refiere la fracción I de este artículo, competa llevar a cabo a la Comisión.
 
-VI. Ejercer, en el ámbito de su competencia, las facultades señaladas en la fracción I del artículo 36 de este Reglamento Interior, a cuyo efecto tendrán acceso a archivos, libros, registros y bases de datos de las entidades financieras, a fin de recabar directamente la documentación e información que las autoridades competentes requieran a la Comisión, previo requerimiento fundado y motivado al respecto.
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
-VII. Señalar la forma y términos en que las entidades estarán obligadas a proporcionar a la Comisión, los datos, informes, registros, libros de actas, auxiliares, documentos, correspondencia y en general, la información que estime necesaria, incluyendo aquella que en términos de las leyes relativas al sistema financiero se encuentren protegidas por algún tipo de secreto. En los actos administrativos a través de los cuales se ejercite esta facultad, no podrá establecerse la obligación de proporcionar la información que corresponda en forma periódica, continua o permanentemente.
+IV. Proponer las medidas necesarias para que las entidades financieras sujetas a la supervisión de la Comisión, implementen mecanismos preventivos, de control interno y de auditoría, encaminados a prevenir y detectar de manera oportuna los delitos cometidos con instrumentos monetarios o por medios electrónicos.
 
-VIII. Expedir certificaciones de constancias de documentos que obren en los archivos de la Comisión y de aquellos que se encuentren, con motivo de su competencia, en sus oficinas.
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
-IX. Desempeñar las atribuciones que le sean delegadas por el Presidente de la Comisión, mediante acuerdo delegatorio de facultades publicado en el Diario Oficial de la Federación.
+V. Coordinarse, para los efectos señalados en la fracción anterior, con otras autoridades financieras y de procuración de justicia, así como con las propias entidades financieras, con objeto de prevenir y detectar los delitos mencionados en dicha fracción.
 
-La Dirección General de Análisis y Desarrollo de Sistemas Preventivos de Operaciones Ilegales, para el ejercicio de sus funciones, se asistirá de la Gerencia de Atención de Requerimientos Especiales y de la Gerencia de Supervisión y Desarrollo de Sistemas Preventivos y de Seguridad y Protección Bancaria.
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
-La Gerencia de Atención de Requerimientos Especiales podrá desempeñar las facultades a que se refieren las fracciones VI a IX, de este artículo.
+VI. Atender las consultas sobre la aplicación de las disposiciones relacionadas con su ámbito de competencia.
 
-La Gerencia de Supervisión y Desarrollo de Sistemas Preventivos y de Seguridad y Protección Bancaria, podrá desempeñar las facultades a que se refieren las fracciones I a V, y VII a IX, del presente artículo.
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+VII. Emitir opinión a la Secretaría de Hacienda y Crédito Público respecto de las Reglas de carácter general a que se refiere el artículo 96 de la LIC, así como de los manuales de seguridad y protección previstos en dichas Reglas.
+
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+VIII. Dictar las medidas necesarias para que las entidades financieras sujetas a la supervisión de la Comisión, ajusten sus actividades y operaciones a las leyes y normatividad que les sean aplicables, así como a las disposiciones a que se refiere la fracción I
+
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+IX. Participar conjuntamente con la Dirección General Contenciosa y las direcciones generales de supervisión que resulten competentes, en los procedimientos de liquidación y concurso mercantil de las entidades financieras sujetas a la supervisión de la Comisión, en los términos de las leyes aplicables.
+
+> <small>(ADICIONADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+X. Señalar la forma y términos en que las entidades estarán obligadas a proporcionar a la Comisión los datos, informes, registros, libros de actas, auxiliares, documentos, correspondencia y en general, la información que estime necesaria, incluyendo aquella que en términos de las leyes relativas al sistema financiero se encuentren protegidas por algún tipo de secreto.
+
+En los actos administrativos a través de los cuales se ejercite esta facultad, no podrá establecerse la obligación de proporcionar la información que corresponda en forma periódica, continua o permanentemente.
+
+> <small>(ADICIONADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+XI. Expedir certificaciones de constancias de documentos que obren en los archivos de la Comisión y de aquéllos que se encuentren, con motivo de su competencia, en sus oficinas.
+
+> <small>(ADICIONADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+XII. Desempeñar las atribuciones que le sean delegadas por el Presidente de la Comisión, mediante acuerdo delegatorio de facultades publicado en el Diario Oficial de la Federación.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+La Dirección General de Prevención de Operaciones Ilícitas, para el ejercicio de sus funciones, se asistirá de la Gerencia de Liquidaciones y Concursos, así como de las Gerencias de Desarrollo de Sistemas Preventivos 1 y 2.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+Las Gerencias de Desarrollo de Sistemas Preventivos 1 y 2 podrán desempeñar las facultades a que se refieren las fracciones I, III a VI, VIII y X a XII del presente artículo.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+La Gerencia de Liquidaciones y Concursos podrá desempeñar las facultades a que se refieren las fracciones IX a XII del presente artículo.
+
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 35 Bis.
+
+A las Gerencias de Atención de Requerimientos Especiales A y B, a través de sus titulares, les corresponderán las facultades siguientes:
+
+I. Ejercer, en el ámbito de su competencia, las facultades señaladas en la fracción I del artículo 36 de este Reglamento, a cuyo efecto tendrán acceso a archivos, libros, registros y bases de datos de las entidades financieras, a fin de recabar directamente la documentación e información que las autoridades competentes requieran a la Comisión, previo requerimiento fundado y motivado al respecto.
+
+II. Señalar la forma y términos en que las entidades estarán obligadas a proporcionar a la Comisión los datos, informes, registros, libros de actas, auxiliares, documentos, correspondencia y en general, la información que estime necesaria, incluyendo aquélla que en términos de las leyes relativas al sistema financiero se encuentren protegidas por algún tipo de secreto.
+
+III. Expedir certificaciones de constancias de documentos que obren en los archivos de la Comisión y de aquellos que se encuentren, con motivo de su competencia, en sus oficinas.
+
+IV. Desempeñar las atribuciones que le sean delegadas por el Presidente de la Comisión, mediante acuerdo delegatorio de facultades publicado en el Diario Oficial de la Federación.
 
 ###### Artículo 36.
 
@@ -923,7 +1097,9 @@ II. Establecer criterios de aplicación general en el sector financiero acerca d
 
 III. Atender las consultas relacionadas con la aplicación de las leyes y disposiciones a que se refiere la fracción I anterior, en la esfera de competencia de la Comisión.
 
-IV. Ejercer las facultades atribuidas a la Comisión para dar opinión sobre la normatividad que otras autoridades financieras pretendan expedir en el ámbito de su competencia, así como para expedir la opinión relacionada con la autorización de operaciones análogas, conexas y complementarias de las entidades. Lo anterior, con excepción de la materia relativa al sector de ahorro y crédito popular.
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+IV. Ejercer las facultades atribuidas a la Comisión para dar opinión sobre la normatividad que otras autoridades financieras pretendan expedir en el ámbito de su competencia, así como para expedir la opinión relacionada con la autorización de operaciones análogas, conexas y complementarias de las entidades. Lo anterior, con excepción a las materias relativas al sector de ahorro y crédito popular, de prevención y detección de actos u operaciones con recursos de procedencia ilícita o para financiar el terrorismo, y de seguridad y protección bancarias.
 
 V. Dar opinión legal, cuando así se le solicite, en relación con los programas tendientes a evitar desequilibrios financieros que puedan afectar la liquidez, solvencia o estabilidad de las entidades financieras sujetas a la supervisión de la Comisión o eliminar las irregularidades en que éstas incurran, dentro del ámbito de competencia de la Comisión.
 
@@ -1025,6 +1201,46 @@ V. Informar periódicamente al Presidente de la Comisión sobre los resultados d
 
 VI. Desempeñar las atribuciones que le sean delegadas por el Presidente de la Comisión, mediante acuerdo delegatorio de facultades publicado en el Diario Oficial de la Federación.
 
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 42 Bis.
+
+A la Dirección General de Asuntos Internacionales, a través de su titular, le corresponderán las facultades siguientes:
+
+I. Proponer al Presidente la estrategia de la política internacional que habrá de seguir la Comisión, en relación con autoridades reguladoras y supervisoras homólogas de otros países y organismos multilaterales internacionales.
+
+II. Actuar como coordinador y enlace con las autoridades reguladoras y supervisoras homólogas de otros países y organismos multilaterales internacionales para llevar a cabo labores de intercambio y divulgación de información, asistencia técnica y capacitación, quedando facultado para proporcionarla directamente.
+
+El ejercicio de la facultad relativa al intercambio y divulgación de información protegida por la legislación financiera en materia de secrecía, se llevará a cabo actuando en coordinación con la Vicepresidencia Jurídica o la Dirección General Contenciosa, así como con la Vicepresidencia de Supervisión o Dirección General que corresponda.
+
+III. Coordinar las relaciones institucionales de la Comisión con las autoridades competentes y otras instancias del Gobierno Federal, en torno a temas de carácter internacional.
+
+IV. Coordinar la participación de los servidores públicos de la Comisión en foros de consulta sobre temas financieros que se realicen en el extranjero; representar a la Comisión en organismos multilaterales internacionales, y dar seguimiento a los compromisos institucionales que se deriven de estas relaciones o que sean de interés de la Comisión.
+
+V. Coordinar los actos necesarios para atender las solicitudes de asistencia que la Comisión formule a instituciones supervisoras y reguladoras homólogas de otros países.
+
+VI. Establecer, en coordinación con las Vicepresidencias o Direcciones Generales competentes, los términos en que deberán realizarse las visitas a entidades financieras filiales, sujetas a la supervisión de la Comisión, por parte de las autoridades supervisoras extranjeras a que se refiere este artículo, de conformidad con las disposiciones legales y los instrumentos internacionales aplicables.
+
+VII. Tramitar las solicitudes de visita que las unidades administrativas competentes de la Comisión, formulen a las autoridades supervisoras del extranjero, cuando éstas pretendan llevarse a cabo respecto de subsidiarias financieras en el exterior de las entidades sujetas a la supervisión de la Comisión.
+
+VIII. Coordinar las visitas de asistencia técnica a la Comisión por parte funcionarios de organismos de supervisión y regulación homólogos de otros países, así como de representantes de organismos multilaterales internacionales.
+
+IX. Formular los proyectos de instrumentos jurídicos que la Comisión pretenda celebrar con organismos internacionales o autoridades de otros países con funciones de regulación y supervisión, similares a los de la Comisión.
+
+X. Solicitar la dictaminación y, en su caso, el registro, ante la Secretaría de Relaciones Exteriores de los instrumentos jurídicos que pretenda celebrar la Comisión con organismos internacionales con funciones de regulación y supervisión similares a los de la Comisión.
+
+XI. Coadyuvar con las autoridades competentes en las negociaciones con organismos financieros internacionales en materia de préstamos, créditos o donativos destinados al cumplimiento de los programas de la Comisión, o cuando ésta adquiera compromisos específicos en dichas operaciones y darles seguimiento.
+
+XII. Elaborar estudios en materia internacional.
+
+La Dirección General de Asuntos Internacionales, para el ejercicio de sus funciones, se asistirá de la Gerencia de Organismos Internacionales de Supervisión, la Gerencia de Organismos Financieros Internacionales e Información, y la Gerencia de Cooperación y Asistencia Técnica Internacional.
+
+La Gerencia de Organismos Internacionales de Supervisión podrá desempeñar las facultades a que se refieren las fracciones II, III, IV, VI, VII, VIII y XII de este artículo, en el ámbito de su competencia.
+
+La Gerencia de Organismos Financieros Internacionales e Información podrá desempeñar las facultades a que se refieren las fracciones II, III, XI y XII de este artículo, en el ámbito de su competencia.
+
+La Gerencia de Cooperación y Asistencia Técnica Internacional podrá desempeñar las facultades a que se refieren las fracciones II, III, IV, V, VII, VIII, IX, X, XI y XII de este artículo, en el ámbito de su competencia.
+
 ###### Artículo 43.
 
 A la Gerencia de Organización, a través de su titular, le corresponderán las facultades siguientes:
@@ -1043,39 +1259,15 @@ VI. Dirigir y coordinar el diseño e implementación del Sistema de Gestión de 
 
 VII. Desempeñar las atribuciones que le sean delegadas por el Presidente de la Comisión, mediante acuerdo delegatorio de facultades publicado en el Diario Oficial de la Federación.
 
-## Título Tercero. De los Asuntos Internacionales y Difusión
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
+## Título Tercero. De la Difusión
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 44.
 
-A la Vicepresidencia de Asuntos Internacionales y Difusión, a través de su titular, le corresponderán las facultades siguientes:
-
-A. En materia de asuntos internacionales:
-
-I. Proponer al Presidente la estrategia de la política internacional que habrá de seguir la Comisión, en relación con autoridades reguladoras y supervisoras homólogas de otros países y organismos multilaterales internacionales.
-
-II. Actuar como coordinador y enlace con las autoridades reguladoras y supervisoras homólogas de otros países y organismos multilaterales internacionales para llevar a cabo labores de intercambio y divulgación de información, asistencia técnica y capacitación, quedando facultado para proporcionarla directamente, una vez que esta unidad administrativa la obtenga, en su caso, de las otras áreas de la Comisión, con las que interactúe para tal efecto.
-
-El ejercicio de la facultad relativa al intercambio y divulgación de información protegida por la legislación financiera en materia de secrecía, se llevará a cabo actuando en coordinación con la Vicepresidencia Jurídica o la Dirección General Contenciosa, así como con la Vicepresidencia de Supervisión o Dirección General que corresponda.
-
-III. Coordinar las relaciones institucionales de la Comisión con otras instancias del Gobierno Mexicano, en torno a temas de carácter internacional.
-
-IV. Coordinar la participación en el extranjero de los servidores públicos de la Comisión, en foros de consulta sobre temas financieros, representar a la Comisión en organismos multilaterales internacionales y dar seguimiento a los compromisos institucionales que se deriven de estas relaciones o interés de la Comisión.
-
-V. Coordinar las solicitudes de asistencia de la Comisión a instituciones supervisoras y reguladoras homólogas de otros países.
-
-VI. Establecer, en coordinación con las Vicepresidencias o Direcciones Generales competentes, los términos en que deberán realizarse las visitas a entidades financieras filiales, sujetas a la supervisión de la Comisión, por parte de las autoridades supervisoras extranjeras a que se refiere este artículo. Asimismo, conocerá de las solicitudes de visita que las unidades administrativas competentes de la Comisión, formulen a las autoridades supervisoras del extranjero, cuando éstas pretendan llevarse a cabo respecto de subsidiarias financieras en el exterior de las entidades sujetas a la supervisión de la Comisión.
-
-VII. Coordinar las visitas, de asistencia técnica, a la Comisión de funcionarios de organismos de supervisión y regulación homólogos de otros países, así como de representantes de organismos multilaterales internacionales.
-
-VIII. Formular los proyectos de convenios que la Comisión pretenda celebrar con organismos internacionales o autoridades de otros países con funciones de regulación y supervisión, similares a los de la Comisión.
-
-IX. Solicitar la dictaminación y, en su caso, el registro, ante la Secretaría de Relaciones Exteriores de los convenios que pretenda celebrar la Comisión con organismos internacionales con funciones de regulación y supervisión similares a los de la Comisión.
-
-X. Coadyuvar con las autoridades competentes en las negociaciones con organismos financieros internacionales en materia de préstamos, créditos o donativos destinados al cumplimiento de los programas de la Comisión, o cuando ésta adquiera compromisos específicos en dichas operaciones que se otorguen a otras entidades u organismos y dar seguimiento a los compromisos adquiridos.
-
-XI. Elaborar estudios en materia internacional.
-
-B. En materia de difusión:
+A la Vicepresidencia de Supervisión de Instituciones Financieras 5, a través de su titular, le corresponderán las facultades siguientes:
 
 I. Formular, para aprobación superior, los programas de comunicación social, información, difusión y relaciones públicas de la Comisión, así como la estrategia de comunicación social anual de la Comisión ante la Secretaría de Gobernación.
 
@@ -1089,21 +1281,21 @@ V. Organizar y supervisar entrevistas y conferencias de los funcionarios de la C
 
 VI. Dar seguimiento a los medios de información nacionales e internacionales tanto impresos como electrónicos, respecto de los temas relativos a la Comisión y al sistema financiero en su conjunto.
 
-VII. Coordinar los contenidos informativos y noticiosos para su difusión interna, así como para su divulgación a través de medios masivos de comunicación y de la red electrónica de comunicación mundial denominada Internet.
+VII. Coordinar los contenidos informativos y noticiosos para su difusión interna, así como para su divulgación a través de medios masivos de comunicación y redes electrónicas.
 
-VIII. Llevar a cabo las demás actividades que, dentro del área de su competencia, le encomiende el Presidente de la Comisión.
+VIII. Atender las solicitudes y requerimientos de información que cualquiera de las Cámaras que integran al H. Congreso de la Unión formule a la Comisión.
 
-La Vicepresidencia de Asuntos Internacionales y Difusión, sin perjuicio de lo señalado en este artículo, contará con las atribuciones que les sean delegadas por el Presidente de la Comisión, mediante acuerdo delegatorio de facultades publicado en el Diario Oficial de la Federación.
+IX. Llevar a cabo las demás actividades que, dentro del ámbito de su competencia, le encomiende el Presidente de la Comisión.
 
-Dicha Vicepresidencia para el ejercicio de sus funciones, se asistirá de la Gerencia de Organismos Internacionales de Supervisión, la Gerencia de Organismos Financieros Internacionales e Información, la Gerencia de Cooperación y Asistencia Técnica Internacional y por la Gerencia de Comunicación Social y Relaciones Públicas.
+La facultad a que se refiere la fracción VIII de este artículo se ejercerá en coordinación con las Vicepresidencias en el ámbito de sus respectivas competencias, o de las unidades administrativas que les estén adscritas y que al efecto resulten competentes.
 
-La Gerencia de Organismos Internacionales de Supervisión, podrá desempeñar las facultades a que se refieren las fracciones III, IV, VI, VII y XI del inciso A, de este artículo, en el ámbito de su competencia.
+La Vicepresidencia de Supervisión de Instituciones Financieras 5, sin perjuicio de lo señalado en este artículo, contará con las atribuciones que les sean delegadas por el Presidente de la Comisión, mediante acuerdo delegatorio de facultades publicado en el Diario Oficial de la Federación.
 
-La Gerencia de Organismos Financieros Internacionales e Información, podrá desempeñar las facultades a que se refieren las fracciones III, X y XI del inciso A, así como la fracción VII del inciso B de este artículo, en el ámbito de su competencia.
+Dicha Vicepresidencia para el ejercicio de sus funciones, se asistirá de la Gerencia de Organismos Financieros Internacionales e Información y de la Gerencia de Comunicación Social y Relaciones Públicas.
 
-La Gerencia de Cooperación y Asistencia Técnica Internacional, podrá desempeñar las facultades a que se refieren las fracciones II, III, IV, V, VIII, IX, X y XI del inciso A, de este artículo, en el ámbito de su competencia.
+La Gerencia de Organismos Financieros Internacionales e Información podrá desempeñar las facultades a que se refiere la fracción VII de este artículo, en el ámbito de su competencia.
 
-La Gerencia de Comunicación Social y Relaciones Públicas, podrá desempeñar las facultades a que se refieren las fracciones V a VII del inciso B, de este artículo, en el ámbito de su competencia.
+La Gerencia de Comunicación Social y Relaciones Públicas podrá desempeñar las facultades a que se refieren las fracciones V a VII de este artículo, en el ámbito de su competencia.
 
 ## Título Cuarto. Del Órgano Interno de Control
 
@@ -1137,9 +1329,11 @@ El Presidente, el Vicepresidente Jurídico, el Director General de Delitos y San
 
 El Vicepresidente Jurídico, el Director General de Delitos y Sanciones y el Director General Contencioso, indistintamente, suplirán al Presidente, Vicepresidentes, Directores Generales, Gerentes y Supervisores en Jefe, en su ausencia, para intervenir en los juicios de amparo en los que éstos figuren como autoridad responsable, para efectos del artículo 19 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 47.
 
-Los Vicepresidentes de Supervisión de Instituciones Financieras 1, 2, 3 y 4 y de Supervisión Bursátil, estarán facultados para suplir al Presidente, en sus ausencias, en el ejercicio de las facultades a que se refiere el artículo 16 de la LCNBV en su fracción VII, a fin de informar a la Junta de Gobierno, anualmente o cuando ésta se lo solicite, sobre las labores de las unidades administrativas a su cargo, así como en su fracción VIII, con el objeto de presentar a dicha Junta, los informes sobre la situación de las entidades financieras materia de su competencia.
+Los Vicepresidentes de Supervisión de Instituciones Financieras 1, 2, 3, 4, 5 y de Supervisión Bursátil, estarán facultados para suplir al Presidente, en sus ausencias, en el ejercicio de las facultades a que se refiere el artículo 16 de la LCNBV en su fracción VII, a fin de informar a la Junta de Gobierno, anualmente o cuando ésta se lo solicite, sobre las labores de las unidades administrativas a su cargo, así como en su fracción VIII, con el objeto de presentar a dicha Junta, los informes sobre la situación de las entidades financieras materia de su competencia.
 
 Asimismo, los referidos Vicepresidentes suplirán al Presidente, en sus ausencias, para el ejercicio de las facultades previstas en los artículos 4 fracción XIV en relación con el 7 de la LCNBV y 16 de la misma, fracciones VI, IX, X y XVI en el ámbito de sus respectivas competencias, con respecto a las entidades financieras sujetas a su supervisión.
 
@@ -1163,7 +1357,7 @@ El Vicepresidente de Administración estará facultado para suplir al Presidente
 
 ###### Artículo 52.
 
-Los Vicepresidentes de Normatividad y de Asuntos Internacionales y Difusión estarán facultados para suplir coordinadamente al Presidente, en sus ausencias, en el ejercicio de la facultad contenida en el artículo 4 fracción XXIV de la LCNBV, informando al respecto a la Junta de Gobierno.
+(DEROGADO, D.O.F. 21 DE DICIEMBRE DE 2005)
 
 ###### Artículo 53.
 
@@ -1173,17 +1367,21 @@ Los Vicepresidentes serán suplidos en sus ausencias por los Directores Generale
 
 ### Capítulo Único
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 54.
 
-Las Vicepresidencias de Supervisión de Instituciones Financieras 1, 2, 3 y 4 y de Supervisión Bursátil, así como las Direcciones Generales que les estén adscritas, a través de sus titulares, contarán con facultades de inspección para efectuar visitas, verificación de operaciones y auditoría de registros y sistemas, en las instalaciones o equipos automatizados de entidades financieras o personas no sujetas formalmente a su supervisión, con el exclusivo objeto de que se encuentren en condiciones de comprobar que las operaciones de las entidades o personas que supervisen, se ajusten a las disposiciones legales y administrativas aplicables.
+Las Vicepresidencias de Supervisión de Instituciones Financieras 1, 2, 3, 4, 5 y de Supervisión Bursátil, así como las Direcciones Generales que les estén adscritas, a través de sus titulares y en el ámbito de su competencia, contarán con facultades de inspección para efectuar visitas, verificación de operaciones y auditoría de registros y sistemas, en las instalaciones o equipos automatizados de entidades financieras o personas no sujetas formalmente a su supervisión, con el exclusivo objeto de que se encuentren en condiciones de comprobar que las operaciones de las entidades o personas que supervisen, se ajusten a las disposiciones legales y administrativas aplicables.
 
 Las facultades de inspección referidas en el párrafo anterior se ejercerán por los servidores públicos antes mencionados, en forma conjunta con el Vicepresidente o Director General que cuente con facultades para realizar la supervisión de la entidad financiera o persona de que se trate, para lo cual podrán establecer la forma y términos en que dichas entidades o personas estarán obligadas a proporcionar los datos, informes, registros, libros de actas, auxiliares, documentos, correspondencia y en general, la información que se estime necesaria para el ejercicio de estas atribuciones, en términos de lo dispuesto en dicha materia por la LCNBV, LRAF, LRSIC, LIC, LGOAAC, LMV, LSI, LACP y otras leyes, quedando comprendida en dichos requerimientos de información, la relativa al titular o beneficiario que corresponda a las operaciones y servicios que realicen dichas entidades con su clientela y que en términos de las leyes relativas al sistema financiero se encuentren protegidas por algún tipo de secreto.
 
 Las Vicepresidencias Jurídica, de Normatividad y Bursátil y las Direcciones Generales que les estén adscritas, no estarán sujetas al requisito señalado en el presente artículo, cuando ejerzan sus facultades en materia contenciosa, opiniones de delito, sanciones, requerimientos de información y documentación, investigación y visitas o para el cumplimiento de órdenes de intervenciones gerenciales o administrativas que decrete la Comisión, por lo que podrán desempeñarlas individualmente.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 55.
 
-Los servidores públicos adscritos a las Vicepresidencias de Supervisión de Instituciones Financieras 1, 2, 3 y 4 y de Supervisión Bursátil, con nivel jerárquico de Gerente y Supervisor en Jefe, contarán con las facultades señaladas en el artículo 17, fracciones III, IV, VI, X, XI y XII del presente Reglamento.
+Los servidores públicos adscritos a las Vicepresidencias de Supervisión de Instituciones Financieras 1, 2, 3, 4, 5 y de Supervisión Bursátil, con nivel jerárquico de Gerente y Supervisor en Jefe y en el ámbito de su competencia, contarán con las facultades señaladas en el artículo 17, fracciones III, IV, X, XI y XII del presente Reglamento.
 
 Los servidores públicos titulares de las Vicepresidencias, Direcciones Generales, Gerencias y Supervisiones en Jefe, en los actos administrativos que suscriban en el ejercicio de las facultades que les confiere este Reglamento, podrán autorizar a otros servidores públicos de la Comisión, para que recaben, requieran o soliciten la exhibición de la información y documentación necesaria para el desempeño de las facultades de supervisión, así como para que desempeñen las actividades necesarias en el desahogo de cualquier inspección o visita que pretenda llevarse a cabo. El ejercicio de las facultades mencionadas en favor de los servidores públicos autorizados, quedará circunscrito a que se desempeñen durante la realización de visitas de inspección o el desahogo de diligencias administrativas.
 
@@ -1197,9 +1395,11 @@ Cuando se ejerzan facultades de suplencia por ausencia del Presidente de la Comi
 
 Para la expedición de disposiciones de carácter general, autorizaciones, inscripciones, suspensión de operaciones, revocaciones y la imposición de sanciones, los funcionarios a que se refieren los párrafos anteriores, deberán ocupar puestos de Director General o superior, o bien, alguno de rango equivalente.
 
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 57.
 
-Los Vicepresidentes, Directores Generales y demás servidores públicos de la Comisión, que en el ejercicio de las facultades que le confiere el presente Reglamento, requieran solicitar información a organismos internacionales con funciones de supervisión y regulación similares a los de la Comisión o, en su caso, autoridades de otros países con atribuciones similares, lo deberán hacer coordinadamente con la Vicepresidencia de Asuntos Internacionales y Difusión.
+Los Vicepresidentes, Directores Generales y demás servidores públicos de la Comisión que, en el ejercicio de las facultades que le confiere el presente Reglamento, requieran solicitar información a organismos internacionales con funciones de supervisión y regulación similares a los de la Comisión o, en su caso, autoridades de otros países con atribuciones similares, lo deberán hacer coordinadamente con la Vicepresidencia de Supervisión de Instituciones Financieras 5.
 
 ## TRANSITORIOS
 
@@ -1208,3 +1408,19 @@ Artículo Primero.- El presente Reglamento entrará en vigor al día siguiente d
 Artículo Segundo.- A la entrada en vigor del presente Reglamento, se derogan todas aquellas disposiciones administrativas que se opongan o contravengan lo previsto en el presente Reglamento Interior, incluyendo aquéllas contenidas en acuerdos, reglas, circulares o normas que hubieren sido emitidas con anterioridad a la publicación de éste.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los catorce días del mes de agosto de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Francisco Gil Díaz.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 21 DE DICIEMBRE DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite y que conforme al mismo deban ser atendidos por una unidad administrativa diversa a la que hubiera correspondido conforme a las disposiciones vigentes antes de esa fecha, serán transferidos por la unidad administrativa que se encuentre conociendo del asunto de que se trate, a la unidad o unidades administrativas a las que se les haya atribuido la competencia en este ordenamiento.
+
+TERCERO.- Cuando un servidor público sea adscrito a una unidad administrativa diferente o su puesto cambie de denominación o nivel con motivo de las modificaciones a la estructura de la organización administrativa de la Comisión Nacional Bancaria y de Valores, quedará sujeto a lo dispuesto en el artículo tercero transitorio de la Ley del Servicio Profesional de Carrera en la Administración Pública Federal.
+
+Asimismo, para que dicho servidor público sea considerado como servidor público de carrera, estará sujeto al cumplimiento de lo dispuesto en el artículo décimo transitorio del Reglamento de la Ley del Servicio Profesional de Carrera en la Administración Pública Federal.
+
+CUARTO.- La Comisión Nacional Bancaria y de Valores realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a las unidades o áreas que se modifican o desaparecen, sean transferidos a las unidades administrativas que correspondan, en los términos del presente ordenamiento y de conformidad con las normas aplicables y disponibilidad presupuestaria.
+
+QUINTO.- Las modificaciones que en virtud del presente Decreto se lleven a cabo a la estructura orgánica de la Comisión Nacional Bancaria y de Valores, se deberán realizar mediante movimientos compensados que no impliquen aumento en el presupuesto regularizable de servicios personales aprobado para el presente ejercicio fiscal, ni implique un incremento en los subsecuentes.
