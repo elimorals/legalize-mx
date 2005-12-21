@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-catastro-para-el-estado-de-chiapas-27284"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-23"
-last_updated: "2004-11-05"
+last_updated: "2005-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "CHP"
 
 LEY DE CATASTRO PARA EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2005.
 
-Ley publicada en el Periódico Oficial del Estado de Chiapas, el lunes 23 de diciembre de 2002.
+Ley publicada en el Periódico Oficial del Estado de Chiapas, el lunes 23 de diciembre del 2002.
 
 Pablo Salazar Mendiguchía, Gobernador del Estado Libre y Soberano de Chiapas, a sus habitantes hace saber: Que la Honorable Sexagésima Primera Legislatura del mismo, se ha servido dirigir al Ejecutivo a su cargo el siguiente:
 
@@ -73,9 +73,11 @@ c) Las bases para el uso y administración de la información catastral.
 
 La interpretación y aplicación de la presente Ley y su Reglamento corresponde a las autoridades catastrales; a falta de disposición expresa en cuanto a la aplicación e interpretación de esta Ley, se aplicarán supletoriamente, las del Código de la Hacienda Pública para el Estado de Chiapas y en su caso las del derecho común.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 2.
 
-Para efectos de esta Ley, el catastro es un sistema de información territorial encargado de recabar, integrar, generar, actualizar, resguardar y administrar información relativa a los bienes inmuebles que conforman el territorio del Estado.
+Para efectos de esta Ley, el catastro es un sistema de información territorial encargado de recabar, integrar, registrar, generar, actualizar, resguardar y administrar información relativa a los bienes inmuebles que conforman el territorio del Estado.
 
 ###### Artículo 3.
 
@@ -177,9 +179,13 @@ XII. CONSTRUCCIÓN PROVISIONAL.- La que por su estructura sea fácilmente desmon
 
 XIII. CONSTRUCCIÓN RUINOSA.- La que por su estado de conservación o estabilidad representa un riesgo grave para su habitabilidad.
 
-XIV. CONDOMINIO.- Inmueble construido o sin construcción sobre el cual se constituye el régimen de propiedad en condominio, de acuerdo a la Ley de la materia.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2005)</small>
 
-XV. FRACCIONAMIENTO.- La división de un terreno en lotes siempre que para ello se establezcan una o más vías públicas.
+XIV. CONDOMINIO.- Inmueble construido o sin construcción, con áreas privativas y de uso común, sobre el cual se constituye el régimen de propiedad en condominio, pudiendo ser vertical u horizontal, de acuerdo a la Ley de la materia.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2005)</small>
+
+XV. FRACCIONAMIENTO.- La división de un terreno en lotes siempre que para ello se establezcan una o más vialidades.
 
 XVI. FUSIÓN.- La unión de dos o más predios contiguos.
 
@@ -187,71 +193,85 @@ XVII. GPS.- Sistema de Posicionamiento Global.
 
 XVIII. LEVANTAMIENTO CATASTRAL.- Conjunto de operaciones necesarias para la identificación y descripción de las características cuantitativas y cualitativas de los bienes inmuebles para su inscripción en los registros catastrales.
 
-XIX. LEVANTAMIENTO TOPOGRÁFICO.- Conjunto de operaciones necesarias para medir un terreno y representarlo a escala en un plano. Puede incluir aspectos tales como pendientes, curvas de nivel y estructuras.
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2005)</small>
 
-XX. LOTE.- Predio resultante de un fraccionamiento.
+XIX. LEVANTAMIENTO GEODÉSICO.- Conjunto de procedimientos y operaciones de campo y gabinete destinado a determinar las coordenadas geodésicas de puntos sobre el terreno.
 
-XXI. PREDIO BALDÍO.- Terreno que carece de cualquier tipo de construcción.
+XX. LEVANTAMIENTO TOPOGRÁFICO.- Conjunto de operaciones necesarias para medir un terreno y representarlo a escala en un plano. Puede incluir aspectos tales como pendientes, curvas de nivel y estructuras.
 
-XXII. LOTE TIPO.- El que por sus dimensiones se determina como más frecuente para una zona especifica.
+XXI. LOTE.- Predio resultante de un fraccionamiento.
 
-XXIII. MANZANA.- Área o superficie de terreno delimitada por una o más vías públicas, límites físicos o perímetro urbano.
+XXII. PREDIO BALDÍO.- Terreno que carece de cualquier tipo de construcción.
 
-XXIV. PERÍMETRO URBANO.- La poligonal que delimita a la zona urbana.
+XXIII. LOTE TIPO.- El que por sus dimensiones se determina como más frecuente para una zona especifica.
 
-XXV. PREDIO.- El terreno, con o sin construcciones, cuyos linderos formen un perímetro determinado.
+XXIV. MANZANA.- Área o superficie de terreno delimitada por una o más vías públicas, límites físicos o perímetro urbano.
 
-XXVI. PREDIO RÚSTICO.- El que, fuera de las poblaciones, está dedicado a uso agrícola, pecuario o forestal.
+XXV. PERÍMETRO URBANO.- La poligonal que delimita a la zona urbana.
 
-XXVII. PREDIO URBANO.- El ubicado dentro del perímetro urbano de un centro de población, que cuenta con disponibilidad de vialidades y servicios públicos.
+XXVI. PREDIO.- El terreno, con o sin construcciones, cuyos linderos formen un perímetro determinado.
 
-XXVIII. PREDIO SUBURBANO.- El ubicado dentro de la zona suburbana.
+XXVII. PREDIO RÚSTICO.- El que, fuera de las poblaciones, está dedicado a uso agrícola, pecuario o forestal.
 
-XXIX. PREDIOS CONSTRUÍDOS. - Los que tengan construcciones permanentes.
+XXVIII. PREDIO URBANO.- El ubicado dentro del perímetro urbano de un centro de población, que cuenta con disponibilidad de vialidades y servicios públicos.
 
-XXX. PREDIOS NO CONSTRUÍDOS.- Los que no tengan construcciones permanentes.
+XXIX. PREDIO SUBURBANO.- El ubicado dentro de la zona suburbana.
 
-XXXI. PROPIEDAD - Derecho de goce y disposición que una persona tiene sobre un bien inmueble determinado.
+XXX. PREDIOS CONSTRUÍDOS. - Los que tengan construcciones permanentes.
 
-XXXII. PROPIEDAD RAÍZ.- Los bienes inmuebles ubicados dentro del territorio del Estado y municipios
+XXXI. PREDIOS NO CONSTRUÍDOS.- Los que no tengan construcciones permanentes.
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
+XXXII. PROPIEDAD - Derecho de goce y disposición que una persona tiene sobre un bien inmueble determinado.
 
-XXXIII. REGISTROS CATASTRALES.- Conjunto de datos que caracterizan a los bienes inmuebles inscritos en el catastro.
+XXXIII. PROPIEDAD RAÍZ.- Los bienes inmuebles ubicados dentro del territorio del Estado y municipios
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2005)</small>
 
-XXXIV. SECTOR.- El área o superficie en que se dividen las zonas urbanas, suburbanas y rústicas para fines catastrales.
+XXXIV. RED GEODESICA.- Conjunto de puntos situados sobre el terreno, establecidos físicamente mediante monumentos, de los cuales se determinan sus coordenadas geodésicas que permiten su interconexión con relación al sistema de referencia establecido. Conformada en Red Geodésica Activa, Pasiva, Altimétrica y Gravimétrica.
 
-XXXV. SUBDIVISION.- La división de un bien inmueble en dos o más partes siempre y cuando no se requiera o establezca una vía pública.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2005)</small>
 
-XXXVI. MANUAL DE VALUACIÓN.- Es el documento que contiene los criterios y procedimientos valuatorios a los cuales tiene que sujetarse la operación catastral consistente en la determinación de valor catastral y pericial, según sea el caso.
-
-XXXVII. VALUACIÓN.- La determinación del valor catastral de los bienes inmuebles, mediante la aplicación de los valores unitarios de terrenos y construcción o según estimación en los casos previstos por la presente Ley, su Reglamento y el manual de valuación que al efecto elabore y expida la Dirección.
+XXXV REGISTROS CATASTRALES.- Conjunto de elementos gráficos o datos alfanuméricos que caracterizan a los bienes inmuebles inscritos en el catastro.
 
 > <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
 
-XXXVIII. VALOR CATASTRAL.- Es el que determina la autoridad catastral para los bienes inmuebles, determinado de acuerdo a condiciones generales por zonas homogéneas y sus características similares a prototipos, aplicando valores unitarios previstos en las normas sobre la materia.
+XXXVI. SECTOR.- El área o superficie en que se dividen las zonas urbanas, suburbanas y rústicas para fines catastrales.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2005)</small>
+
+XXXVII. SUBDIVISIÓN.- La división de un predio en dos o más partes siempre y cuando no se requiera o establezca una vialidad.
+
+XXXVIII. MANUAL DE VALUACIÓN.- Es el documento que contiene los criterios y procedimientos valuatorios a los cuales tiene que sujetarse la operación catastral consistente en la determinación de valor catastral y pericial, según sea el caso.
+
+XXXIX. VALUACIÓN.- La determinación del valor catastral de los bienes inmuebles, mediante la aplicación de los valores unitarios de terrenos y construcción o según estimación en los casos previstos por la presente Ley, su Reglamento y el manual de valuación que al efecto elabore y expida la Dirección.
 
 > <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
 
-XXXIX. VALOR COMERCIAL O DE MERCADO.- Es el que determina la ley de la oferta y la demanda, aplicada a los bienes inmuebles, en una determinada circunscripción territorial.
-
-XL. VALOR UNITARIO.- El que se determina por unidad de área, para terrenos y construcciones.
+XL. VALOR CATASTRAL.- Es el que determina la autoridad catastral para los bienes inmuebles, determinado de acuerdo a condiciones generales por zonas homogéneas y sus características similares a prototipos, aplicando valores unitarios previstos en las normas sobre la materia.
 
 > <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
 
-XLI. VÍA PÚBLICA.- Superficie de terreno destinada para el libre tránsito, que comprende calles, banquetas, andadores, jardines públicos, avenidas, calzadas u otros.
+XLI. VALOR COMERCIAL O DE MERCADO.- Es el que determina la ley de la oferta y la demanda, aplicada a los bienes inmuebles, en una determinada circunscripción territorial.
 
-XLII. ZONA HOMOGENEA.- Circunscripción territorial que posee características similares en cuanto a la existencia, calidad y disponibilidad de los servicios públicos, uso del suelo, infraestructura y equipamiento urbano, tipo de construcciones predominantes, régimen de tenencia de la tierra, nivel socioeconómico de la población, entre otras; y por consiguiente un valor unitario de suelo similar.
+XLII. VALOR UNITARIO.- El que se determina por unidad de área, para terrenos y construcciones.
 
-XLIII. ZONA URBANA.- El área o superficie comprendida dentro del perímetro urbano y que generalmente cuenta con vialidades y servicios públicos.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2005)</small>
 
-XLIV. ZONA SUBURBANA.- Es el área o superficie fuera del perímetro urbano, constituida por el área de crecimiento de una localidad.
+XLIII.- VIALIDAD.- Superficie de terreno destinada para el tránsito, constituida por avenidas, calles, calzadas, andadores, banquetas y otros, ya sea pública o privada.
 
 > <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
 
-XLV. ZONA RÚSTICA.- El área o superficie que se ubica fuera del perímetro y del área de crecimiento urbano, destinada generalmente para uso agropecuario, forestal, minero u otros.
+XLIV. VÍA PÚBLICA.- Superficie de terreno destinada para el libre tránsito, que comprende calles, banquetas, andadores, jardines públicos, avenidas, calzadas u otros.
+
+XLV. ZONA HOMOGENEA.- Circunscripción territorial que posee características similares en cuanto a la existencia, calidad y disponibilidad de los servicios públicos, uso del suelo, infraestructura y equipamiento urbano, tipo de construcciones predominantes, régimen de tenencia de la tierra, nivel socioeconómico de la población, entre otras; y por consiguiente un valor unitario de suelo similar.
+
+XLVI. ZONA URBANA.- El área o superficie comprendida dentro del perímetro urbano y que generalmente cuenta con vialidades y servicios públicos.
+
+XLVII. ZONA SUBURBANA.- Es el área o superficie fuera del perímetro urbano, constituida por el área de crecimiento de una localidad.
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
+
+XLVIII. ZONA RÚSTICA.- El área o superficie que se ubica fuera del perímetro y del área de crecimiento urbano, destinada generalmente para uso agropecuario, forestal, minero u otros.
 
 ### Capítulo tercero
 
@@ -373,7 +393,7 @@ IV. Registrar oportunamente los predios urbanos, suburbanos y rústicos; así co
 
 V. Practicar la inspección catastral de los bienes inmuebles, mediante su localización, deslinde y mensura, con el objeto de recabar sus elementos físicos, técnicos, fiscales, jurídicos, económicos, sociales y estadísticos;
 
-VI. Establecer la normatividad y regular la realización de los estudios para la determinación o actualización de los valores unitarios de terreno y construcción, para los bienes inmuebles en todo el territorio del Estado.
+VI. Establecer la normatividad y regular la realización de los estudios para la determinación o actualización de los valores unitarios de terreno y construcción, para los bienes inmuebles en todo el territorio del Estado;
 
 VII. Determinar el valor de los bienes inmuebles en particular, según sus características, observando las disposiciones que establece esta Ley y su Reglamento, a fin de procurar que su aplicación fiscal sea proporcional y equitativa;
 
@@ -397,9 +417,9 @@ XV. Apoyar a los organismos e instituciones cuyas atribuciones en materia de obr
 
 XVI. Asesorar, previa solicitud y firma de convenio, a los Ayuntamientos en la determinación de los valores unitarios de terrenos y construcciones, y coadyuvar en la definición de tasas, cuotas y tarifas para las contribuciones inmobiliarias, y (sic)
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2005)</small>
 
-XVII. Coadyuvar con las actividades geográficas y geodésicas del Estado con apoyo de la estación base de referencia GPS (Sistema de Posicionamiento Global);
+XVII. Coadyuvar con las actividades geográficas y geodésicas del Estado con apoyo de la estación base de referencia GPS o Red Geodésica Estatal;
 
 > <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
 
@@ -440,6 +460,14 @@ IX. Las demás que sean necesarias para la integración, actualización y mejora
 ###### Artículo 16.
 
 La localización y levantamiento catastral de bienes inmuebles, comprende los trabajos necesarios para determinar las características cuantitativas y cualitativas de los mismos, tales como: ubicación, medidas, colindancias, topografía, perímetros, niveles de construcciones y elementos referenciales.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2005)</small>
+
+El levantamiento topográfico de bienes inmuebles, comprende los trabajos de campo y gabinete necesario para determinar los elementos físicos existentes, tales como linderos, cercos, bardas, drenes, canales, carreteras, postes, etcétera, mediante la medición de ángulos y distancias, los cuales deberán ligarse a puntos del sistema de coordenadas o cualquier otro punto oficial georeferenciado.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2005)</small>
+
+El levantamiento geodésico de bienes inmuebles, comprende los trabajos de campo y gabinete destinado a determinar las coordenadas geodésicas de puntos físicos sobre el terreno, mediante observaciones diferenciales GPS y con relación al sistema de referencia establecido.
 
 ###### Artículo 17.
 
@@ -671,23 +699,33 @@ En ambos casos, con base en los elementos disponibles, se estimará el valor pro
 
 La Dirección de Catastro Urbano y Rural, está facultada para la elaboración de avalúos de los bienes inmuebles ubicados en el territorio del Estado, los cuales se utilizarán como base gravable para el cobro de las contribuciones inmobiliarias; para la adquisición, desincorporación o arrendamiento de inmuebles por parte de las dependencias y entidades de la administración pública estatal y municipal, según proceda; la indemnización a expropiaciones por causa de utilidad pública y la liberación del derecho de vía para la construcción de vialidades terrestres, entre otros.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2005)</small>
 
-###### Artículo 50.
+###### ARTÍCULO 50.
 
-La facultad indicada en el artículo anterior podrá delegarse, en forma total o parcial, general o específica, a peritos valuadores de bienes inmuebles que obtengan su registro ante la Secretaría de Planeación y Finanzas, que garanticen un eficaz y honesto desempeño, debiendo cumplir la normatividad indicada por la Dirección de Catastro Urbano y Rural, la cual verificará el debido cumplimiento.
+La Autoridad Catastral, podrá delegar la facultad para la elaboración de avalúos para operaciones traslativas de dominio de bienes inmuebles, a los peritos valuadores con registro ante la Secretaría de Planeación y Finanzas, que garanticen un eficaz y honesto desempeño, debiendo cumplir la normatividad indicada por la Dirección de Catastro Urbano y Rural, la cual verificará el debido cumplimiento.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2005)</small>
+
+En casos excepcionales, la Autoridad Catastral podrá autorizar por escrito a los peritos valuadores revalidados para que efectúen avalúos con fines distintos a los de traslado de dominio.
 
 Son obligaciones de los Peritos Valuadores con registro ante la Secretaría de Planeación y Finanzas las siguientes:
 
 I. Acudir personalmente al predio e inspeccionar directamente el bien inmueble cuyo avalúo formulará.
 
-II. Establecer oficina en el lugar de su domicilio legal para la debida atención de los interesados debiendo anunciar su especialidad y número de registro.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2005)</small>
+
+II. Establecer oficina en el lugar autorizado para ejercer la función de perito valuador, para la debida atención de los interesados debiendo anunciar su especialidad y número de registro.
 
 III. Cumplir con legalidad y honradez el ejercicio de su actividad.
 
 > <small>(F. DE E., P.O. 17 DE NOVIEMBRE DE 2004)</small>
 
 IV. Observar en todo caso cualquier disposición normativa que dicte la Secretaría de Planeación y Finanzas a través de la Dirección de Catastro Urbano y Rural.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2005)</small>
+
+V. Presentar ante las Oficinas Catastrales sus avalúos dentro de los quince días siguientes, a partir de la fecha de elaboración.
 
 > <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
 
@@ -721,11 +759,11 @@ Las autoridades competentes deberán comunicar por escrito a la Dirección de Ca
 
 Concluidas las obras de urbanización del fraccionamiento o edificación de condominio, las autoridades competentes, comunicarán por escrito a la Dirección de Catastro Urbano y Rural, dentro del término de quince días.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 56.
 
-Las personas físicas o morales que construyan fraccionamientos o condominios deberán solicitar el registro catastral de los lotes o unidades de propiedad, anexando copias del aviso de terminación de las obras de urbanización, de la escritura de lotificación o de la constitución del régimen de propiedad en condominio y los demás documentos indicados en el Reglamento de esta Ley.
+Para el registro catastral de los predios resultantes, las personas físicas o morales que hayan construido fraccionamientos o condominios, deberán presentar el aviso de terminación de las obras de urbanización señalado en el artículo anterior, además de los requisitos establecidos en el Reglamento de esta Ley.
 
 > <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
 
@@ -903,9 +941,11 @@ La expedición de una nueva cédula catastral, dejará sin efecto a las expedida
 
 Para cualquier trámite ante la Dirección de Catastro Urbano y Rural, relacionado con un bien inmueble que figure en los registros catastrales, será indispensable la presentación de la cédula-avalúo o cédula catastral, independientemente de su vigencia.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 78.
 
-Para los efectos de su inscripción en la Dirección de Catastro Urbano y Rural, el contrato relativo a un predio deberá acompañarse de la cédula-avalúo o cédula catastral vigente o de una copia certificada de la misma.
+Para los efectos de su inscripción en el Registro Público de la Propiedad y del Comercio del Estado, el contrato relativo a un predio deberá acompañarse de la cédula catastral o cédula-avalúo, vigente a la fecha del contrato.
 
 > <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
 
@@ -923,7 +963,9 @@ Los propietarios, poseedores o inquilinos o cualquier otra persona encargada de 
 
 Son infracciones a la presente Ley y su Reglamento:
 
-I. No presentar en el plazo estipulado, u omitir las declaraciones, manifestaciones o avisos mencionados en la presente Ley y su Reglamento;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2005)</small>
+
+I. Omitir o no presentar en el plazo estipulado avalúos, documentos, declaraciones, manifestaciones o avisos indicados en la presente Ley y su Reglamento;
 
 II. No colaborar con las autoridades catastrales en el desempeño de sus labores, teniendo la obligación de hacerlo;
 
@@ -935,7 +977,9 @@ V. Celebrar contratos de compraventa, de promesa de venta, de venta con reserva 
 
 VI. Autorizar escrituras, en contravención a las disposiciones de la presente Ley y su Reglamento;
 
-VII. Consignar datos falsos o dolosamente alterados en sus manifestaciones, avisos o declaraciones;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2005)</small>
+
+VII. Consignar datos falsos o dolosamente alterados en los avalúos, manifestaciones, avisos o declaraciones;
 
 VIII. El perjuicio al catastro, al fisco estatal o municipal, así como a propietarios o poseedores de bienes inmuebles, causados por servidores públicos;
 
@@ -945,35 +989,49 @@ IX. No observar la normatividad valuatoria establecida en esta Ley y su Reglamen
 
 > <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
 
-X. Revalidar extemporáneamente, el registro de Perito Valuador;
+X. Revalidar extemporáneamente, el registro de Perito Valuador.
 
 > <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
 
-Los Peritos Valuadores de Bienes Inmuebles con registro de la Secretaría de Planeación y Finanzas, se asimilan al concepto de Servidores Públicos y por ende sujetos a la Ley de Responsabilidades, independientemente de lo preceptuado en esta Ley.
+Los Peritos Valuadores de Bienes Inmuebles con registro de la Secretaría de Planeación y Finanzas, se asimilan al concepto de Servidores Públicos y por ende sujetos a la Ley de Responsabilidades, independientemente de lo preceptuado en esta Ley;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2005)</small>
+
+XI. Elaborar avalúos sin haber obtenido el registro definitivo, una vez concluida la vigencia del permiso provisional o sin estar revalidado el registro de perito valuador;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2005)</small>
+
+XII. No establecer Oficina en el lugar asignado al otorgársele el registro de perito valuador.
 
 ###### Artículo 82.
 
 Las personas físicas o morales que incurran en las infracciones enumeradas en el artículo anterior, les serán aplicadas las siguientes sanciones:
 
-I. Diez días de salario mínimo vigente en el Estado, por contravenir lo establecido en las fracciones I, II y III;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2005)</small>
 
-II. Veinte días de salario mínimo diario vigente en el Estado, por contravenir lo dispuesto en las fracciones IV y V;
+I. De diez a quince días de salario mínimo vigente en el Estado, por contravenir lo establecido en las fracciones II y III, y tratándose de la fracción I por cada avalúo, documento, declaración, manifestación, aviso o información omitida;
 
-III. Cincuenta días de salario mínimo diario vigente en el Estado, a quienes no se apeguen a lo dispuesto en las fracciones VI y VII, sin perjuicio de las sanciones penales, fiscales o de otro carácter;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2005)</small>
+
+II. De veinte a treinta días de salario mínimo diario vigente en el Estado, por contravenir lo dispuesto en las fracciones IV y V;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2005)</small>
+
+III. De cincuenta a sesenta días de salario mínimo diario vigente en el Estado, a quienes no se apeguen a lo dispuesto en las fracciones VI y VII, sin perjuicio de las sanciones penales, fiscales o de otro carácter;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2005)</small>
+
+IV. De cincuenta a sesenta días de salario mínimo diario vigente en el Estado, a los peritos valuadores, que se encuentren en el supuesto de las fracciones VIII, X y XII; y por cada avalúo indicado en las fracciones IX y XI;
 
 > <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
 
-IV. Cincuenta salarios mínimos diarios vigentes en el Estado, a los peritos valuadores, que se encuentren en el supuesto de las fracciones VIII, IX y X;
-
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
-
-V. A los servidores públicos infractores de la fracción VIII, les serán aplicables las sanciones contenidas en la Ley de Responsabilidades de los Servidores Públicos.
+V. A los servidores públicos infractores de la fracción VIII, les serán aplicables las sanciones contenidas en la Ley de Responsabilidades de los Servidores Públicos;
 
 Independientemente de lo establecido en la fracción IV, a los peritos valuadores se aplicarán las siguientes sanciones administrativas:
 
 > <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
 
-VI. Amonestación por escrito, en una falta leve en el ejercicio valuatorio:
+VI. Amonestación por escrito, en una falta leve en el ejercicio valuatorio;
 
 > <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
 
@@ -998,6 +1056,44 @@ c) Por la revelación injustificada y dolosa de datos.
 d) Cuando hubiere obtenido su inscripción en el registro de peritos proporcionando datos falsos.
 
 e) En caso de inhabilitación por decisión judicial.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2005)</small>
+
+En los casos de residencia se aplicaran las sanciones máximas que en este artículo se establecen.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 82-A.
+
+Independientemente de lo establecido en el artículo anterior, a los peritos valuadores se aplicarán las siguientes sanciones administrativas:
+
+I. Amonestación por escrito, en una primera falta en el ejercicio valuatorio.
+
+II. Suspensión temporal del registro por un tiempo de cinco a siete meses, en los casos siguientes:
+
+a) No desempeñar personalmente sus funciones.
+
+b) Presentar datos falsos en los avalúos que realice.
+
+III. Baja del registro:
+
+a) Por renuncia.
+
+b) En casos de resolución judicial.
+
+c) Por no revalidar el registro durante dos años consecutivos
+
+Aquellos profesionistas a los que les sea dado de baja el registro de perito valuador, podrán solicitarla nuevamente cumpliendo los requisitos que establece esta Ley y su Reglamento.
+
+IV. Cancelación definitiva del registro, en los casos siguientes:
+
+a) Por reincidir en los actos que hayan motivado una suspensión temporal.
+
+b) Por la revelación injustificada y dolosa de datos.
+
+c) Cuando hubiere obtenido su inscripción en el Registro de peritos proporcionando datos falsos.
+
+Aquellos profesionistas a los que les sea cancelado el registro definitivo de perito valuador quedan inhabilitados para volver a obtener el registro ante esta Secretaría.
 
 ###### Artículo 83.
 
@@ -1086,3 +1182,11 @@ P.O. 5 DE NOVIEMBRE DE 2004.
 PRIMERO.- LAS MODIFICACIONES, ADICIONES Y DEROGACIONES A LA PRESENTE LEY, ENTRARAN EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
 
 SEGUNDO.- SE DEROGAN TODAS LAS DISPOSICIONES QUE SE OPONGAN A LO DISPUESTO EN LA PRESENTE LEY.
+
+P.O. 21 DE DICIEMBRE DE 2005.
+
+> <small>(F. DE E., P.O. 11 DE ENERO DE 2006)</small>
+
+Artículo Primero.- Las modificaciones, adiciones a la presente Ley, entrarán en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
