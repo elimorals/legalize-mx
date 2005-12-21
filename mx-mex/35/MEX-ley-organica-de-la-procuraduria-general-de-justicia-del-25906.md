@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-procuraduria-general-de-justicia-del-25906"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-08-23"
-last_updated: "2005-12-20"
+last_updated: "2005-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25906&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE DICIEMBRE DE 2005.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 23 de agosto del 2002.
 
@@ -195,7 +195,9 @@ a) Coordinación Interinstitucional;
 
 b) El Instituto de Prevención del Delito del Estado de México;
 
-c) Control de Personal Sustantivo;
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+
+c) El Instituto de Atención a las Víctimas del Delito del Estado de México;
 
 d) Información, Estadística e Identificación Criminal;
 
@@ -227,9 +229,9 @@ XII. El personal administrativo que el servicio requiera.
 
 La Procuraduría tendrá servidores públicos de carácter ministerial y administrativo. Los servidores públicos ministeriales serán el Procurador, los Subprocuradores General y Regionales; los Fiscales General de Asuntos Especiales y de Supervisión y Control; los Directores Generales de Coordinación Interinstitucional, Jurídico y Consultivo, de Servicios Periciales, de Policía Ministerial, de Visitaduría y de Responsabilidades, así como los que señale el Reglamento de esta Ley.
 
-> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
 
-Los servidores públicos administrativos serán los Coordinadores Regionales; los Directores Generales del Instituto de Prevención del Delito del Estado de México, de Control de Personal Sustantivo, de Información, Estadística e Identificación Criminal, de Bienes Asegurados, de Derechos Humanos y de Administración; el Director General del Instituto de Formación Profesional y Capacitación; y los que determine el reglamento de esta Ley.
+Los servidores públicos administrativos, serán los Coordinadores Regionales; los Directores Generales del Instituto de Prevención del Delito del Estado de México, del Instituto de Atención a las Víctimas del Delito del Estado de México, de Control de Personal Sustantivo, de Información. Estadística e Identificación Criminal, de Bienes Asegurados, de Derechos Humanos y de Administración; el Director General del Instituto de Formación Profesional y Capacitación y los que determine el Reglamento de esta Ley.
 
 Los servidores públicos señalados en los párrafos anteriores serán de confianza, así como los Agentes del Ministerio Público, Secretarios del Ministerio Público, policías ministeriales y Peritos; el personal de apoyo administrativo del Procurador, Subprocuradores, Fiscales Especiales, Directores Generales y de Asesoría a los propios servidores; Directores de Area, Subdirectores, Jefes de Departamento; el personal técnico del Instituto, Jefes de Oficina adscritos a la Dirección de Administración, cajeros, pagadores, y todos aquellos que tengan a su cargo funciones de vigilancia, control, manejo de recursos, adquisiciones e inventarios; y, aquellos que atendiendo a sus funciones, sean considerados en la ley de la materia como de confianza.
 
@@ -583,7 +585,13 @@ XVIII. Verificar el estado material de los bienes asegurados y la información q
 
 XIX. Solicitar la autorización de intervención de comunicaciones privadas en los términos de la Ley Orgánica del Poder Judicial de la Federación. La solicitud respectiva sólo podrá formularse por el Procurador General de Justicia; y
 
-XX. Las demás que establezca el Reglamento de esta ley, así como otras disposiciones legales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 21 DE DICIEMBRE DE 2005)</small>
+
+XX. Intervenir ante el Poder Judicial en asuntos de Ejecución de Sentencias como la representación social que le compete; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 21 DE DICIEMBRE DE 2005)</small>
+
+XXI. Las demás que establezca el Reglamento de esta Ley, así como otras disposiciones legales.
 
 ###### Artículo 21.
 
@@ -806,6 +814,38 @@ IV. Opina cuando sea solicitado, sobre los factores criminógenos que deben ser 
 V. Organizar con la participación de la sociedad civil, el sector educativo, sindicatos de trabajadores y asociaciones empresariales, entre otros, campañas permanentes de prevención del delito particularmente para evitar la violencia intrafamiliar, los actos de abuso sexual en escuelas y centros de trabajo, el consumo de drogas y promover el cuidado del patrimonio familiar;
 
 VI. Las demás que establezcan las disposiciones legales y reglamentarias.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+
+Artículo 35 B.- El Instituto de Atención a las Víctimas del Delito del Estado de México es un órgano administrativo desconcentrado de la Procuraduría General de Justicia, jerárquicamente subordinado a ella, con las facultades y obligaciones específicas que se determinen en esta Ley, en su Reglamento Interior y en las demás disposiciones jurídicas aplicables.
+
+La organización y funcionamiento del Instituto se determinará en su Reglamento Interior y en las demás disposiciones aplicables.
+
+El Director General del Instituto, para el ejercicio de sus funciones, se auxiliará de las unidades administrativas que se determinen en el Reglamento Interior, de conformidad con la disponibilidad presupuestal.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+
+Artículo 35 C.- Son facultades y obligaciones del Director General del Instituto de Atención a las Víctimas del Delito del Estado de México, las siguientes:
+
+I. Elaborar y ejecutar programas de atención a las víctimas de delito en las áreas jurídica, psicológica y de trabajo social y efectuar su canalización a las instituciones competentes para la atención médica de urgencia;
+
+II. Proponer al Procurador la suscripción de convenios de coordinación o colaboración u otros instrumentos jurídicos, con autoridades federales, estatales, municipales, organismos públicos, o sociales, nacionales, extranjeros o internacionales e instituciones académicas en materia de atención a víctimas del delito;
+
+III. Solicitar a cualquier autoridad dentro del Estado, conforme a las disposiciones legales, la información que requiera para una mejor atención a las victimas del delito;
+
+IV. Diseñar y ejecutar, en su caso, en coordinación con el Instituto de Formación Profesional y Capacitación, programas de capacitación dirigidos al personal ministerial, policial y pericial de la Institución para mejorar el trato y atención a las víctimas del delito y sus familiares; así también, para orientarlas sobre sus derechos y los servicios que en su beneficio les brinda la Procuraduría;
+
+V. Establecer los mecanismos para ampliar la cobertura de protección y atención a las víctimas del delito, principalmente cuando éstas sean menores de edad, mujeres, personas de la tercera edad o que pertenezcan a grupos vulnerables de la sociedad, ya sea económica o culturalmente;
+
+VI. Coordinar, dirigir y evaluar los trabajos y actividades de las Universidades de Atención a las Víctimas del Delito que operen en la Procuraduría;
+
+VII. Presentar al procurador un informe anual, de las actividades realizadas por el Instituto;
+
+VIII. Realizar el seguimiento de los servicios gratuitos de asesoría jurídica, atención psicológica y de trabajo social proporcionados por la Procuraduría a las víctimas del delito, así como los de atención médica de urgencia proporcionados por las instituciones de salud.
+
+Previa valoración los servicios instituidos en beneficio de las víctimas podrán extenderse a los ofendidos del delito;
+
+IX. Las demás establecidas en este ordenamiento, en el Reglamento Interior del Instituto y en otras disposiciones legales aplicables.
 
 ###### Artículo 36.
 
@@ -1626,3 +1666,25 @@ TERCERO.- En tanto entra en operación el Instituto de Prevención del Delito de
 CUARTO.- Los recursos presupuestales y financieros que se tienen programados para la operación del Instituto de Prevención del Delito del Estado de México, serán suministrados con oportunidad para que pueda iniciar su funcionamiento en los términos del artículo segundo transitorio de este Decreto.
 
 QUINTO.- Las Secretarías General de Gobierno, y de Finanzas, Planeación y Administración, y la Procuraduría General de Justicia del Estado de México proveerán lo necesario para la instalación y funcionamiento del Instituto de Prevención del Delito del Estado de México.
+
+G.O. 21 DE DICIEMBRE DE 2005.
+
+DECRETO No. 137
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- La reforma, adición y derogación de las diversas disposiciones contenidas en el Código Penal del Estado de México, en la Ley Orgánica del Poder Judicial del Estado de México y en la Ley Orgánica de la Procuraduría del Estado de México, contenidas en el presente decreto tendrán vigencia, hasta en tanto entre en vigor las reformas a los artículos 82, 89 en su segundo párrafo, 99 en su primer párrafo a la adición del segundo párrafo al artículo 102 y el artículo 104 bis de la Constitución Política del Estado Libre y Soberano de México, aprobado por esta Legislatura.
+
+G.G. 21 DE DICIEMBRE DE 2005.
+
+DECRETO No. 182
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor 180 días naturales después de su publicación en el Periódico Oficial "Gaceta del Gobierno", a efecto de organizar las funciones e integrar al personal adscrito a la Unidad de Atención a Víctimas del Delito, al Instituto de Atención a las Víctimas del Delito del Estado de México.
+
+TERCERO.- En tanto entra en funciones el Instituto de Atención a las Víctimas del Delito del Estado de México, la Unidad de Atención a las Víctimas del Delito, continuará ejerciendo sus funciones y desarrollando los procedimientos establecidos.
+
+CUARTO.- Los recursos presupuestales, financieros, materiales, técnicos y humanos que se tienen programados para la operación de la Unidad de Atención a Víctimas del Delito, se asignarán al Instituto de Protección y Atención a las Víctimas del Delito del Estado de México.
+
+QUINTO.- Las Secretarías General de Gobierno y de Finanzas, Planeación y Administración, y la Procuraduría General de Justicia del Estado de México proveerán lo necesario para la instalación y funcionamiento de este órgano administrativo desconcentrado de la Procuraduría, creado por este decreto.
