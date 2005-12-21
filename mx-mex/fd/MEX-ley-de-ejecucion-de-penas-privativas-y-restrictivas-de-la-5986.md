@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-ejecucion-de-penas-privativas-y-restrictivas-de-la-5986"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-26"
-last_updated: "2004-08-11"
+last_updated: "2005-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE EJECUCION DE PENAS PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE DICIEMBRE DE 2005.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 26 de diciembre de 1985.
 
@@ -109,11 +109,11 @@ La dirección; la rectoría en la administración; el control; y la vigilancia d
 
 Contra los actos y resoluciones administrativas que dicten o ejecuten las autoridades competentes, en aplicación de la presente Ley, los particulares afectados tendrán la opción de interponer el recurso administrativo de inconformidad ante la propia autoridad o el Juicio ante el Tribunal de lo Contencioso Administrativo, conforme a las disposiciones del Código de Procedimientos Administrativos del Estado de México.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 9.
 
-Todos los Cuerpos de Seguridad Pública del Estado, están obligados a prestar el auxilio y el apoyo necesario a la Dirección General de Prevención y Readaptación Social, en el cumplimiento de sus determinaciones en materia de ejecución de penas privativas y restrictivas de la libertad.
+Todos los cuerpos de seguridad pública del Estado y municipios, están obligados a prestar el auxilio y el apoyo necesario a la Dirección General de Prevención y Readaptación Social, en el cumplimiento de sus labores.
 
 ## TITULO PRIMERO. De la Dirección de Prevención y Readaptación Social
 
@@ -141,9 +141,9 @@ VI. Aplicar y vigilar el tratamiento adecuado para los inimputables.
 
 VII. Conocer invariablemente las quejas de los internos, sus familiares o defensores, sobre el tratamiento de que sean objeto en los centros.
 
-VIII. Otorgar a los internos, los beneficios a que se hagan acreedores, en términos de esta Ley.
+VIII. (DEROGADA, G.G. 21 DE DICIEMBRE DE 2005)
 
-IX. Supervisar la vigilancia a que estarán sujetas las personas que gocen de los beneficios señalados en esta Ley.
+IX. (DEROGADA, G.G. 21 DE DICIEMBRE DE 2005)
 
 X. Determinar los lugares donde deben estar recluidos los sordomudos, ciegos, enfermos mentales y farmacodependientes, aplicándoseles el tratamiento que se estime adecuado.
 
@@ -249,23 +249,19 @@ IV. Realizar el diagnóstico de los internos desde su ingreso.
 
 > <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
 
-V. Dictaminar y supervisar la asistencia técnica en procesados y el tratamiento en
-
-sentenciados.
+V. Dictaminar y supervisar la asistencia técnica en procesados y el tratamiento en sentenciados.
 
 > <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
 
-VI. Cuidar que en el Centro se observe la política criminológica que dicte la Dirección
-
-General de Prevención y Readaptación Social.
+VI. Cuidar que en el Centro se observe la política criminológica que dicte la Dirección General de Prevención y Readaptación Social.
 
 > <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
 
 VII. Apoyar y asesorar al Director del Centro y sugerir medidas de carácter general para la buena marcha del centro.
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2005)</small>
 
-VIII. Formular y presentar dictámenes al Consejo Técnico Interdisciplinario en relación a la aplicación de las medidas de preliberación, remisión parcial de la pena y libertad condicional.
+VIII. Formular y presentar dictámenes a petición del Juez Ejecutor de Sentencias correspondiente, en relación a la aplicación de las medidas de preliberación, remisión parcial de la pena y libertad condicional.
 
 > <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
 
@@ -707,9 +703,7 @@ Quedan estrictamente prohibidas las prácticas médicas experimentales en los in
 
 ###### Artículo 94.
 
-El Area Médica hará inspecciones regulares al centro y asesorará al Director
-
-de la misma en lo referente a:
+El Area Médica hará inspecciones regulares al centro y asesorará al Director de la misma en lo referente a:
 
 I. La cantidad, calidad, preparación y distribución de alimentos.
 
@@ -745,167 +739,93 @@ IV. Detectar las situaciones en las que el estado emocional del interno amenace 
 
 Las Areas Médicas, Psicológicas y Psiquiátrica deberán presentar los informes que les sean requeridos por Autoridades competentes, y en su caso proporcionar a éstas los elementos técnicos especializados en los casos de inimputables.
 
-## TITULO CUARTO. De la Remisión Parcial de la Pena
+> <small>(DEROGADA SU DENOMINACION CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 21 DE DICIEMBRE DE 2005)</small>
+
+## TITULO CUARTO
 
 ###### Artículo 100.
 
-Por cada dos días de trabajo del interno se hará remisión de uno de prisión, siempre que observe buena conducta, practique regularmente en las actividades educativas, recreativas y deportivas que se organicen en el establecimiento, y que a juicio del Consejo Técnico Interdisciplinario, revele por otros datos, efectiva resocialización. Este último criterio será en todo caso factor determinante para la concesión o negación de la remisión parcial de la pena.
-
-A los internos que por falta de ocupación laboral asistan regularmente a la escuela, les serán tomadas en cuenta dichas actividades para el efecto de la remisión parcial de la pena y cualquier otra medida alternativa útil tendiente a su reincorporación social.
-
-> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2004)</small>
-
-La remisión parcial de la pena no se concederá en los casos de internos a disposición del Ejecutivo del Estado, que hayan sido sentenciados por los delitos de secuestro, homicidio calificado, violación y robo con violencia de acuerdo a las agravantes que establece el artículo 290 del Código Penal del Estado de México.
+(DEROGADO, G.G. 21 DE DICIEMBRE DE 2005)
 
 ###### Artículo 101.
 
-Los casos de los internos que conforme a esta Ley deban ser estudiados para la remisión parcial de la pena se programarán por la Dirección de Prevención y Readaptación Social.
+(DEROGADO, G.G. 21 DE DICIEMBRE DE 2005)
 
 ###### Artículo 102.
 
-Además, tendrán derecho a la remisión, los internos a que se refiere el artículo 57 de esta Ley, en los términos de este Título.
+(DEROGADO, G.G. 21 DE DICIEMBRE DE 2005)
 
 ###### Artículo 103.
 
-La remisión de la pena se concederá sin perjuicio de cualquier otro beneficio concedido por esta Ley a los internos.
+(DEROGADO, G.G. 21 DE DICIEMBRE DE 2005)
 
-## TITULO QUINTO. De las Liberaciones
+> <small>(DEROGADA SU DENOMINACION CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 21 DE DICIEMBRE DE 2005)</small>
 
-### CAPITULO I. Del Tratamiento Preliberacional
+## TITULO QUINTO
+
+> <small>(DEROGADA SU DENOMINACION Y LOS ARTICULOS QUE LO INTEGRAN, G.G. 21 DE DICIEMBRE DE 2005)</small>
+
+### CAPITULO I
 
 ###### Artículo 104.
 
-El tratamiento preliberacional tiene por objeto la reincorporación social del interno.
+(DEROGADO, G.G. 21 DE DICIEMBRE DE 2005)
 
 ###### Artículo 105.
 
-El tratamiento preliberacional comprenderá:
-
-I. Información y orientación especial al interno sobre los aspectos personales y prácticos de su vida en libertad.
-
-II. Concesión de mayor libertad dentro del establecimiento.
-
-III. Aplicación de técnicas socioterapeúticas y psicoterapias colectivas y de todas aquellas que coadyuven a lograr una mejor integración social.
-
-IV. Traslado a la Institución Abierta.
-
-V. Régimen de prelibertad.
-
-> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2004)</small>
-
-El régimen de prelibertad no se concederá en los casos de internos a disposición del Ejecutivo del Estado, que hayan sido sentenciados por los delitos de secuestro, homicidio calificado, violación y robo con violencia de acuerdo a las agravantes que establece el artículo 290 del Código Penal del Estado de México.
-
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2004)</small>
+(DEROGADO, G.G. 21 DE DICIEMBRE DE 2005)
 
 ###### Artículo 106.
 
-La prelibertad se podrá otorgar desde dos años antes a la fecha en que el interno esté en tiempo de obtener su libertad condicional o absoluta, en correlación con el beneficio de la remisión parcial de la pena.
-
-> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2004)</small>
-
-La prelibertad no se podrá otorgar antes de la fecha en que el interno esté en tiempo de obtener su libertad condicional o absoluta, en correlación con el beneficio de la remisión parcial de la pena en los delitos de secuestro, homicidio calificado, violación y robo con violencia de acuerdo a las agravantes que establece el artículo 290 del Código Penal del Estado de México.
-
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+(DEROGADO, G.G. 21 DE DICIEMBRE DE 2005)
 
 ###### Artículo 107.
 
-La prelibertad deberá ser concedida en forma gradual y sistemática por la Dirección General de Prevención y Readaptación Social, atendiendo al Dictamen Técnico, que al respecto emita el Consejo Técnico Interdisciplinario.
+(DEROGADO, G.G. 21 DE DICIEMBRE DE 2005)
 
 ###### Artículo 108.
 
-Las Modalidades de prelibertad son las siguientes:
-
-I. Salida de dos días a la semana.
-
-II. Salida diurna, reclusión nocturna y de sábados y domingos.
-
-III. Salida diurna y reclusión nocturna.
-
-IV. Salida diurna y reclusión nocturna con salida de sábados y domingos.
-
-V. Reclusión de dos días a la semana.
-
-VI. Presentación semanal al centro.
-
-VII. Presentación quincenal al centro.
-
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 6 DE OCTUBRE DE 1997)</small>
+(DEROGADO, G.G. 21 DE DICIEMBRE DE 2005)
 
 ###### Artículo 109.
 
-Al ser concedida la Prelibertad, en cualesquiera de sus modalidades, el Director del centro correspondiente, deberá advertir al preliberado que tendrá que ocurrir a la Institución que le haya sido señalado para hacer sus presentaciones; de informar de sus cambios de domicilio; de la obligación de desempeñar actividades lícitas; de la prohibición que tenga de ir a los lugares que haya determinado el Consejo Técnico Interdisciplinario, así como observar una conducta intachable para con los demás y consigo mismo y cumplir con las demás medidas terapéuticas que éste le haya señalado.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 1997)</small>
+(DEROGADO, G.G. 21 DE DICIEMBRE DE 2005)
 
 ###### Artículo 110.
 
-La prelibertad, será revocada por la Dirección General de Prevención y Readaptación Social en los siguientes casos:
+(DEROGADO, G.G. 21 DE DICIEMBRE DE 2005)
 
-I. Por cometer un nuevo delito, y que dentro del término constitucional resulte presunto responsable.
+> <small>(DEROGADA SU DENOMINACION Y LOS ARTICULOS QUE LO INTEGRAN, G.G. 21 DE DICIEMBRE DE 2005)</small>
 
-II. Cuando incumpla las condiciones con que le fue otorgada, sin causa justificada.
-
-III. Cuando el interno presente conductas no acordes al tratamiento preliberacional instaurado.
-
-### CAPITULO II. De La Libertad Condicional
+### CAPITULO II
 
 ###### Artículo 111.
 
-La Libertad Condicional se otorgará a los internos sancionados con Penas de Privación de Libertad por dos años o más cuando se satisfagan los siguientes requisitos:
-
-I . Haber cumplido las tres quintas partes de la pena corporal impuesta, cuando se trate de delitos dolosos, y haber cumplido las dos cuartas partes cuando se trate de delitos culposos.
-
-II. Haber observado durante su internamiento, buena conducta, sin limitarse al simple cumplimiento de los Reglamentos sino a su mejoramiento cultural, perfeccionamiento en el servicio y superación en el trabajo, que revele un afán constante de readaptación social.
-
-III. Ofrecer dedicarse en el plazo que la resolución determine a un oficio, arte, industria, profesión o cualquier otro medio honesto de vivir y acatar los condicionantes que determine el Consejo Técnico Interdisciplinario.
-
-IV. Que alguna persona, con reconocida solvencia moral, honrada y de arraigo, se obligue a supervisar y cuidar que el liberado cumpla con sus obligaciones contraídas al momento de su liberación.
-
-V. Que el beneficiado con libertad condicional resida en el lugar que se determine y del cual no podrá ausentarse, sin el permiso de la Dirección de Prevención y Readaptación Social.
-
-La designación se hará, conciliando las circunstancias de que al interno no pueda proporcionársele trabajo en el lugar que se le fije, con el hecho de que su permanencia en él, no sea un obstáculo para su enmienda.
-
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+(DEROGADO, G.G. 21 DE DICIEMBRE DE 2005)
 
 ###### Artículo 112.
 
-La libertad condicional no se concederá a los reincidentes, a los habituales, ni a los sentenciados por delitos graves, debiéndose observar lo que dispone al respecto el Código Penal.
-
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+(DEROGADO, G.G. 21 DE DICIEMBRE DE 2005)
 
 ###### Artículo 113.
 
-El interno que intente fugarse o bien el que habiéndose fugado sea reaprehendido, perderá el derecho a la libertad condicional y quedará sujeto a la determinación de la Dirección General de Prevención y Readaptación Social.
-
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+(DEROGADO, G.G. 21 DE DICIEMBRE DE 2005)
 
 ###### Artículo 114.
 
-La Dirección General de Prevención y Readaptación Social programará de oficio los casos de los internos que se encuentren en el término legal, para la obtención de su libertad condicional.
-
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+(DEROGADO, G.G. 21 DE DICIEMBRE DE 2005)
 
 ###### Artículo 115.
 
-Los individuos que disfruten de la libertad condicional quedarán sujetos a la vigilancia discreta de la Dirección General de Prevención y Readaptación Social, por el tiempo que les falte para cumplir con su pena.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 1997)</small>
+(DEROGADO, G.G. 21 DE DICIEMBRE DE 2005)
 
 ###### Artículo 116.
 
-La libertad condicional será revocada por la Dirección General de Prevención y Readaptación Social, en los siguientes casos:
+(DEROGADO, G.G. 21 DE DICIEMBRE DE 2005)
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
+> <small>(DEROGADA SU DENOMINACION, G.G. 21 DE DICIEMBRE DE 2005)</small>
 
-I. Por haber dejado de cumplir con alguna de las condiciones establecidas en el artículo 109 de esta Ley.
-
-II. Por cometer un nuevo delito, y que dentro del término constitucional resulte presunto responsable.
-
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
-
-Cuando se verifique la condición de alguna de estas circunstancias, la Dirección General de Prevención y Readaptación Social revocará el beneficio concedido y el infractor extinguirá toda la parte de la pena que le falte por compurgar.
-
-### CAPITULO III. De la Retención
+### CAPITULO III
 
 ###### Artículo 117.
 
@@ -931,33 +851,17 @@ Cuando se verifique la condición de alguna de estas circunstancias, la Direcci�
 
 ###### Artículo 122.
 
-Las Penas Privativas y Restrictivas de la Libertad, se extinguen por:
-
-I. El cumplimiento de la misma.
-
-II. Muerte del Penado.
-
-III. Resolución de la Autoridad Judicial.
-
-IV. Indulto o Amnistía.
-
-V. Prescripción.
-
-VI. Cesación de los efectos de la Sentencia por dejar de considerarse una conducta como
-
-delito.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 1997)</small>
+(DEROGADO, G.G. 21 DE DICIEMBRE DE 2005)
 
 ###### Artículo 123.
 
-En los casos de las fracciones I y VI del artículo anterior, la Dirección General de Prevención y Readaptación Social ordenará la libertad inmediata del condenado, incurriendo en responsabilidad oficial si no lo hiciere.
+(DEROGADO, G.G. 21 DE DICIEMBRE DE 2005)
 
-En el caso de la Fracción III, se estará a lo dispuesto en la resolución Judicial respectiva y en el de la Fracción IV a lo que dispongan las Leyes o el Ejecutivo Estatal que concedan respectivamente la amnistía o el indulto.
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 124.
 
-Al quedar un interno en Libertad definitiva o condicional, se hará entrega inmediata de la cantidad que le corresponda de su fondo de ahorro así como una constancia de que ha obtenido su Libertad definitiva legalmente.
+Al quedar un interno en libertad, se le hará entrega inmediata de la cantidad que le corresponda de su fondo de ahorro.
 
 ## TITULO SEXTO. Del Patronato de Ayuda para la Reintegración Social
 
@@ -1030,3 +934,9 @@ P.O. 11 DE AGOSTO DE 2004.
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 21 DE DICIEMBRE DE 2005.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- La reforma, adición y derogación de las diversas disposiciones contenidas en el Código Penal del Estado de México, en la Ley Orgánica del Poder Judicial del Estado de México y en la Ley Orgánica de la Procuraduría del Estado de México, contenidas en el presente decreto tendrán vigencia, hasta en tanto entre en vigor las reformas a los artículos 82, 89 en su segundo párrafo, 99 en su primer párrafo a la adición del segundo párrafo al artículo 102 y el artículo 104 bis de la Constitución Política del Estado Libre y Soberano de México, aprobado por esta Legislatura.
