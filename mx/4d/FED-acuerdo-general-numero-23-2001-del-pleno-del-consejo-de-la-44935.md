@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-23-2001-del-pleno-del-consejo-de-la-4493
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-04-25"
-last_updated: "2005-12-02"
+last_updated: "2005-12-21"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-04-16"
 
 ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE DICIEMBRE DE 2005.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2001.
 
@@ -311,9 +311,9 @@ XV.- DECIMOQUINTO CIRCUITO:
 
 XVI.- DECIMOSEXTO CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO DECIMOCUARTO DEL ACUERDO GENERAL 40/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 7 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO POR EL PUNTO DECIMOSEXTO DEL ACUERDO GENERAL 51/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
-1.- Cinco tribunales colegiados con residencia en Guanajuato.
+1.- Cinco tribunales colegiados especializados: dos en materias administrativa y de trabajo; dos en materia civil y uno en materia penal, todos con residencia en la ciudad de Guanajuato.
 
 2.- Dos tribunales unitarios con sede en Guanajuato.
 
@@ -760,8 +760,6 @@ El juzgado de distrito en el Estado de Guerrero, con residencia en Iguala, ejerc
 XXII.- VIGESIMO SEGUNDO CIRCUITO:
 
 Los juzgados de distrito en el Estado de Querétaro, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia Entidad Federativa.
-
-> <small>(DEROGADO SEGUNDO PARRAFO POR EL PUNTO DECIMO DEL ACUERDO GENERAL 66/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2002)</small>
 
 XXIII.- VIGESIMO TERCER CIRCUITO:
 
@@ -1504,6 +1502,12 @@ SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Se
 TERCERO.- Las Direcciones Generales de Recursos Humanos y de Asuntos Jurídicos del Consejo de la Judicatura Federal atenderán la situación laboral del personal adscrito al Juzgado Decimoprimero de Distrito en el Estado de Tamaulipas, con residencia en Reynosa, que cambia de residencia a Ciudad Victoria.
 
 D.O.F. 2 DE DICIEMBRE DE 2005.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 21 DE DICIEMBRE DE 2005.
 
 PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 
