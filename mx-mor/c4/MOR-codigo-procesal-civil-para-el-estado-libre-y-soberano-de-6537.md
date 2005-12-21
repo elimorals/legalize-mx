@@ -4,7 +4,7 @@ identifier: "MOR-codigo-procesal-civil-para-el-estado-libre-y-soberano-de-6537"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-10-13"
-last_updated: "2005-06-15"
+last_updated: "2005-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6537&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO PROCESAL CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2005.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Morelos, el miércoles 13 de octubre de 1993.
 
@@ -4809,9 +4809,85 @@ I. Las resoluciones y autos que se dicten durante el procedimiento y que sean ap
 
 II. En los procedimientos de arrendamiento las apelaciones sólo serán admitidas en el efecto devolutivo.
 
-### CAPITULO VII. De los interdictos
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2005)</small>
 
-### CAPITULO VIII. Del plenario de posesión
+### CAPITULO VI BIS
+
+Del juicio especial de desahucio.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 644-A.
+
+De la procedencia del juicio. El Juicio Especial de Desahucio debe fundarse en la falta de pago de tres o más mensualidades. La demanda deberá ir acompañada con el contrato de arrendamiento respectivo en el caso de haberse celebrado por escrito, en caso contrario, de haberse cumplido por ambos contratantes sin otorgamiento de documento se justificará el acuerdo de voluntades por medio de información testimonial, prueba documental o cualquier otra bastante como medio preparatorio de juicio.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 644-B.
+
+Admisión, emplazamiento y contestación de la demanda. presentada la demanda, con el documento o la justificación correspondiente, dictará el auto el juez mandando requerir al arrendatario para que en el acto de la diligencia justifique con el recibo correspondiente estar al corriente en el pago de las rentas y de no hacerlo, se le prevenga para que dentro del término de treinta días naturales si se trata de casa habitación, de sesenta días naturales si sirve para giro mercantil o industrial y de noventa días naturales si fuera rústica proceda a desocuparla apercibido de lanzamiento a su costa si no lo efectúa. Si lo pidiera el actor, en el mismo auto, mandará que se embarguen y depositen bienes bastantes para cubrir las pensiones reclamadas. Mandará que en el mismo acto se le emplace para que dentro de cinco días ocurra a oponer las excepciones que tuviere, corriéndole traslado de la demanda, con entrega de las copias de Ley.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 644-C.
+
+De la suspensión de la diligencia del juicio. Si en el acto de la diligencia justificare el arrendatario, con el recibo de renta correspondiente, haber hecho el pago de las pensiones reclamadas, o acredite con los escritos de consignación debidamente sellados o exhibiere su importe, se suspenderá la diligencia, asentándose en ella el hecho y agregándose el justificante de pago para dar cuenta al juzgado. Si se hubiere exhibido el importe se mandará entregar al actor sin más trámites y se dará por terminado el procedimiento. Si se exhibiere el recibo de pago se mandará dar vista al actor por el término de tres días, y si lo objeta, se citará para la audiencia de pruebas y alegatos, a que se refiere el artículo 650 de este Código, y en caso de no objetarla, se dará por concluida la instancia.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 644-D.
+
+De la suspensión de la providencia de lanzamiento. Cuando durante el plazo fijado para el desahucio exhiba el arrendatario el recibo de las pensiones debidas, escritos de consignación debidamente sellados o el importe de ellas, se dará por terminada la providencia de lanzamiento sin condenación de costas. Si el recibo de rentas o escritos de consignación debidamente sellados presentados son de fecha posterior, o la exhibición del importe de las pensiones se hace fuera del término señalado por el desahucio, también se dará por concluida la providencia de lanzamiento; pero se condenará al arrendatario al pago de las costas causadas.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 644-E.
+
+Irrenunciabilidad. Los beneficios que este capítulo concede a los arrendatarios no son renunciables.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 644-F.
+
+Excepciones distintas a las de pago. En caso de que se opongan otras excepciones por el arrendatario distintas a las de pago, se mandará dar vista con ellas al actor, citándose para audiencia de pruebas y alegatos dentro de los diez días siguientes teniendo en cuenta que esta audiencia deba efectuarse antes del vencimiento fijado para el lanzamiento.
+
+El juez debe desechar de plano las excepciones diversas a las que el Código Civil conceda al arrendatario para no pagar la renta, siendo éstas inadmisibles si no se ofrecen con sus pruebas correspondientes.
+
+Son improcedentes la reconvención y la compensación.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 644
+
+H (sic). De la sentencia. Si las excepciones fueran declaradas procedentes en la misma resolución, dará el Tribunal por terminada la providencia de lanzamiento, y en caso contrario, en la sentencia señalará el plazo para la desocupación que será el que falte para cumplirse del señalado en el artículo 644-B.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 644-I.
+
+De las facultades del juez en la ejecución de la sentencia. Cuando en la ejecución de sentencia se trate de desalojar a alguna persona o familia, podrá el juez prorrogar por un mes más el plazo fijado para la desocupación si el interesado acredita que está impedido para salir de la casa por causa de enfermedad o por alguna otra circunstancia grave.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 644.-J.
+
+De la diligencia de lanzamiento. La diligencia que ejecute la providencia de lanzamiento se entenderá con el ejecutado o en su defecto cualquier persona de la familia, doméstico, portera o portero, agente de la policía o vecinos y en caso necesario se procederá al rompimiento de cerraduras. Los muebles u objetos que en la casa se encuentren si no hubiere persona de la familia del arrendatario que los recoja u otra persona autorizada para ello, se remitirán por inventario al local que designe la autoridad administrativa, dejándose constancia de esta diligencia en autos.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 644-K.
+
+De las garantías en el requerimiento. Al hacer el requerimiento se embargarán y depositarán bienes suficientes para cubrir las pensiones reclamadas, si así se hubiere decretado, lo mismo se observará al ejecutarse el lanzamiento.
+
+El arrendatario podrá antes de la diligencia de remate que se celebre respecto de los bienes embargados librarlos cubriendo las pensiones que adeude.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 644.-L.
+
+Del domicilio legal en el juicio. Para la ejecución del desahucio se tiene como domicilio legal del ejecutado la finca o departamento de cuya desocupación se trata.
+
+### CAPITULO VII. De los interdictos
 
 ###### Artículo 645.
 
@@ -4903,7 +4979,7 @@ Sea cual fuere la sentencia, contendrá siempre la expresión de que se dicta re
 
 Los autos y sentencias que se dicten en los interdictos, serán apelables en el efecto devolutivo, salvo disposición en contrario.
 
-### CAPITULO IX. De los juicios declarativos de propiedad y reivindicatorios
+### CAPITULO VIII. Del plenario de posesión
 
 ###### Artículo 653.
 
@@ -4973,7 +5049,7 @@ Para que se suspenda la tramitación de la inscripción, así como para que se h
 
 La oposición se tramitará en la vía ordinaria y si el poseedor deja transcurrir seis meses sin promover en el juicio, quedará sin efecto su oposición, haciéndose en su caso la cancelación que proceda.
 
-### CAPITULO X. De los juicios sobre servidumbres
+### CAPITULO IX. De los juicios declarativos de propiedad y reivindicatorios
 
 ###### Artículo 661.
 
@@ -5067,7 +5143,7 @@ Vía en que se resuelven los juicios reivindicatorios. Los juicios sobre reivind
 
 Efectos de la sentencia en los juicios reivindicatorios. Por virtud de la sentencia que se dicte en los juicios reinvindicatorios (sic), se pierde la propiedad y la posesión del que resulte vencido, en favor del vencedor.
 
-### CAPITULO XI. De la división de cosa común
+### CAPITULO X. De los juicios sobre servidumbres
 
 ###### Artículo 670.
 
@@ -5131,7 +5207,7 @@ Resolución sobre servidumbres. Cualquier duda sobre el uso o extinción de una 
 
 Corrección judicial de perturbaciones o despojos mediante interdicto. Las perturbaciones o despojos mediante violencia o que impliquen un daño grave e inmediato, pueden corregirse mediante interdicto, a reserva de que la decisión definitiva de los derechos de servidumbre se tramite posteriormente de acuerdo con las reglas de los artículos anteriores de este capítulo.
 
-### CAPITULO XII. Del apeo o deslinde
+### CAPITULO XI. De la división de cosa común
 
 ###### Artículo 681.
 
@@ -5149,7 +5225,7 @@ Forma de la división de cosa común. La partición de la cosa común se llevar�
 
 Venta de bienes que no admitan cómoda división. Siempre que fuere necesario proceder a la venta de bienes muebles o inmuebles, por no admitir éstos cómoda división, se llevará a cabo en la forma que determinen las partes, si hubiere acuerdo. En caso contrario, la venta se llevará a cabo con sujeción a las reglas de la ejecución forzosa.
 
-### CAPITULO I. Generalidades
+### CAPITULO XII. Del apeo o deslinde
 
 ###### Artículo 684.
 
@@ -5211,7 +5287,7 @@ Costas del apeo o deslinde. Los gastos generales del apeo o deslinde se harán p
 
 ## TITULO PRIMERO. De la ejecución forzosa
 
-### CAPITULO II. De los embargos
+### CAPITULO I. Generalidades
 
 ###### Artículo 689.
 
@@ -5479,7 +5555,7 @@ El ejecutante tendrá pretensión para combatir actos jurídicos celebrados entr
 
 Acumulación de formas de ejecución forzosa. El acreedor puede servirse acumulativamente de las varias formas de ejecución forzosa previstas en la Ley. En caso de que el deudor se oponga, el Juez puede limitar la ejecución mediante auto no recurrible, o a la que él mismo determine.
 
-### CAPITULO III. De las ventas y remates judiciales
+### CAPITULO II. De los embargos
 
 ###### Artículo 721.
 
@@ -5747,7 +5823,7 @@ IV. En los casos de reembargo, el depositario del primer secuestro lo será resp
 
 Embargos simultáneos. Cuando dos ejecutores practiquen al mismo tiempo embargos ordenados en juicios distintos, los realizarán asociados y tendrán igual preferencia; levantándose un acta por cada expediente y correspondiendo el nombramiento del depositario al ejecutante en el embargo ordenado por el juzgado de número inferior; si esto no fuera posible, se preferirá el de la fecha más antigua al incoar el juicio.
 
-### CAPITULO IV. Final de la ejecución forzosa
+### CAPITULO III. De las ventas y remates judiciales
 
 ###### Artículo 737.
 
@@ -5975,7 +6051,7 @@ Amplitud de facultades judiciales en relación a los remates. El Juez tendrá du
 
 Autorización judicial para gastos de ejecución. Cualquier liquidación que tenga que hacerse respecto al pago de los gravámenes que afecten a los bienes vendidos, gastos de ejecución y demás, se regulará por el Juez con un escrito de cada parte, y resolución dentro del tercer día.
 
-### CAPITULO I. De la ejecución de las sentencias y demás resoluciones dictadas por los Tribunales de los Estados
+### CAPITULO IV. Final de la ejecución forzosa
 
 ###### Artículo 757.
 
@@ -6035,7 +6111,7 @@ Petición de una nueva ejecución forzosa. En caso de que la distribución de la
 
 ## TITULO SEGUNDO. De la ejecución de sentencias foráneas
 
-### CAPITULO II. De la cooperación procesal civil internacional
+### CAPITULO I. De la ejecución de las sentencias y demás resoluciones dictadas por los Tribunales de los Estados
 
 ###### Artículo 763.
 
@@ -6069,7 +6145,7 @@ IV. Siempre que la parte condenada haya sido emplazada personalmente para ocurri
 
 Despacho del superior del Juez requerido. El Juez que reciba despacho u orden de su superior para ejecutar cualquiera diligencia, es mero ejecutor, y, en consecuencia, no dará curso a ninguna defensa o contrapretensión que opongan los interesados, y se tomará simple razón de sus respuestas en el expediente, antes de devolverlo.
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO II. De la cooperación procesal civil internacional
 
 ###### Artículo 768.
 
@@ -6153,7 +6229,7 @@ V. Si una sentencia, resolución, o laudo juridisccional (sic) no pudiera tener 
 
 ## TITULO PRIMERO. De los juicios del orden familiar
 
-### CAPITULO II. De las cuestiones matrimoniales
+### CAPITULO I. Disposiciones generales
 
 ###### Artículo 774.
 
@@ -6267,7 +6343,7 @@ Aplicación en lo no previsto las normas generales. En todo lo no previsto y en 
 
 Diversa vía para asuntos del orden familiar, según involucren controversias. Cuando las cuestiones del orden familiar no impliquen controversia entre partes antagónicas, serán aplicables las normas de los procedimientos no contenciosos, en cuanto no se opongan a los mandatos de este Título. Si surgiere algún litigio, el asunto se regirá y ventilará por lo establecido para la jurisdicción contenciosa.
 
-### CAPITULO III. De la nulidad de matrimonio
+### CAPITULO II. De las cuestiones matrimoniales
 
 ###### Artículo 790.
 
@@ -6321,7 +6397,7 @@ Si se pidiere la terminación de la sociedad conyugal en los casos previstos por
 
 Petición de separación de cónyuges. El consorte que no queriendo pedir el divorcio, solicite que se suspenda la obligación de cohabitar con el otro cónyuge, por padecer éste, cualquier enfermedad de tipo crónico e incurable que sea además contagiosa, o hereditaria, o mortal, o impotencia incurable para la cópula; o las alteraciones de la conducta en la práctica sexual que sobrevengan después de celebrado el matrimonio; o encontrarse afectado por enfermedad mental incurable, exhibirá con su demanda la justificación de que se está en algunos de esos casos o solicitará que se admitan las pruebas conducentes sobre los hechos. El Juez recibirá las pruebas, oyendo en audiencia verbal al cónyuge enfermo o a su tutor o representante legítimo y decidirá sin más trámite lo que proceda. Asimismo se decretará, como medida provisional, y mientras se dicta sentencia, la separación de los cónyuges.
 
-### CAPITULO IV. Divorcio por mutuo consentimiento
+### CAPITULO III. De la nulidad de matrimonio
 
 ###### Artículo 795.
 
@@ -6387,7 +6463,7 @@ Posibilidad de modificación de custodia de los hijos. El Juez en todo tiempo po
 
 Revisión de oficio de sentencias sobre nulidad de matrimonio. La sentencia recaída en los juicios de nulidad de matrimonio por la no dispensa del parentesco consanguíneo; por la existencia de matrimonio anterior o por falta de forma, será revisable de oficio y se abrirá la segunda instancia aunque las partes no apelen, ni expresen agravios. El Tribunal Superior examinará la legalidad de la resolución de primer grado, quedando entretanto sin ejecutarse ésta.
 
-### CAPITULO V. Divorcio necesario
+### CAPITULO IV. Divorcio por mutuo consentimiento
 
 ###### Artículo 801.
 
@@ -6471,7 +6547,7 @@ Facultades del Juez de lo Familiar para la ejecución del convenio. El Juez que 
 
 Copia de la sentencia ejecutoriada de divorcio al Registro Civil. Ejecutoriada la sentencia de divorcio, el Tribunal mandará remitir copia de ella al Oficial del Registro Civil de su jurisdicción, al del lugar en que el matrimonio se efectuó, para los efectos de lo mandado por el Código Civil.
 
-### CAPITULO VI. Juicios sobre paternidad, filiación y patria potestad
+### CAPITULO V. Divorcio necesario
 
 ###### Artículo 813.
 
@@ -6567,7 +6643,7 @@ Registro de la sentencia ejecutoriada. Ejecutoriada la sentencia de divorcio, el
 
 Impugnación de las sentencias. La sentencia de fondo es apelable en el efecto suspensivo pero podrá ejecutarse en lo que se refiera a pensión alimentaria.
 
-### CAPITULO VII. De la adopción
+### CAPITULO VI. Juicios sobre paternidad, filiación y patria potestad
 
 ###### Artículo 826.
 
@@ -6657,9 +6733,7 @@ Suspensión de la patria potestad. Los asuntos que versen sobre suspensión de l
 
 La resolución que se dicte no es apelable.
 
-### CAPITULO VIII. De la rectificación de actas del estado civil
-
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+### CAPITULO VII. De la adopción
 
 ###### Artículo 838.
 
@@ -6769,7 +6843,9 @@ Comunicación judicial de la revocación de la adopción. Las resoluciones que d
 
 Impugnación de la adopción. Las resoluciones acerca de la adopción o de la revocación son apelables en efecto devolutivo.
 
-### CAPITULO IX. De la interdicción
+### CAPITULO VIII. De la rectificación de actas del estado civil
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 849.
 
@@ -6833,7 +6909,7 @@ Sentencia sobre rectificación o modificación de actas del estado civil. El jui
 
 Una vez ejecutoriada la sentencia, se comunicará al Oficial del Registro Civil para que haga referencia de ella al margen del acta impugnada, sea que el fallo conceda o niegue la rectificación.
 
-### CAPITULO X. De los tutores, curadores y discernimiento de estos cargos
+### CAPITULO IX. De la interdicción
 
 ###### Artículo 855.
 
@@ -6917,7 +6993,7 @@ Condena de gastos y costas. Los gastos y costas procesales que deriven del juici
 
 Cuando el Juez considere que la demanda se hubiere formulado sin motivo o con propósitos dolosos, condenará en gastos y costas al denunciante.
 
-### CAPITULO XI. De la enajenación de bienes de menores o incapacitados y transacción acerca de sus derechos
+### CAPITULO X. De los tutores, curadores y discernimiento de estos cargos
 
 ###### Artículo 867.
 
@@ -7037,7 +7113,7 @@ Cuando medie dolo o culpa de parte del tutor serán de su cuenta todos los gasto
 
 Designación de tutor especial. La designación de un tutor especial para que represente a un menor en un juicio determinado, siempre que las funciones del tutor se circunscriban al de que se trata, se hará por el Juez del conocimiento.
 
-### CAPITULO XII. De la habilitación de edad y autorización a menores
+### CAPITULO XI. De la enajenación de bienes de menores o incapacitados y transacción acerca de sus derechos
 
 ###### Artículo 880.
 
@@ -7091,7 +7167,7 @@ En igual forma se procederá para llevar a cabo transacciones sobre bienes o der
 
 Aplicabilidad de las reglas de este Capítulo respecto de sus bienes pertenecientes a ausentes. Las reglas de este Capítulo serán aplicables en lo conducente para el gravamen, enajenación, transacción, y arrendamiento por más de cinco años, de bienes pertenecientes a ausentes.
 
-### CAPITULO XIII. De la declaración de ausencia y de presunción muerte
+### CAPITULO XII. De la habilitación de edad y autorización a menores
 
 ###### Artículo 887.
 
@@ -7109,7 +7185,7 @@ Emancipación por matrimonio. La emancipación por matrimonio del menor se produ
 
 Autorización al menor para enajenar o gravar bienes inmuebles. La autorización que soliciten los emancipados o habilitados de edad para enajenar, gravar o hipotecar bienes raíces, se podrá otorgar oyendo al menor emancipado y al Ministerio Público en una audiencia, sin que se requieran formalidades de ninguna clase asentándose únicamente en una acta de la diligencia celebrada.
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO XIII. De la declaración de ausencia y de presunción muerte
 
 ###### Artículo 890.
 
@@ -7119,7 +7195,7 @@ Podrán ser designados depositarios:
 
 I. El cónyuge del ausente;
 
-II. Uno de los hijos mayores de edad que resida en el lugar. Si hubiere varios, el Juez eligirá (sic) al que estime más apto;
+II. Uno de los hijos mayores de edad que resida en el lugar. Si hubiere varios, el Juez eligirá (sic)al que estime más apto;
 
 III. Al ascendiente más próximo en grado al ausente;
 
@@ -7199,7 +7275,7 @@ Facultades del Ministerio Público. El Ministerio Público velará por los inter
 
 ## TITULO PRIMERO. De los concursos
 
-### CAPITULO II. De la rectificación y graduación de créditos
+### CAPITULO I. Disposiciones generales
 
 ###### Artículo 900.
 
@@ -7301,7 +7377,7 @@ II. Presentar dentro de los cinco días de la notificación del auto que declar�
 
 III. Se abstendrá de seguir administrando sus bienes, así como continuar cualquier otra administración que por Ley le corresponda.
 
-### CAPITULO III. De la administración del concurso
+### CAPITULO II. De la rectificación y graduación de créditos
 
 ###### Artículo 912.
 
@@ -7375,7 +7451,7 @@ Derechos de los acreedores de designar un interventor. Los acreedores consignado
 
 Concurso especial entre acreedores hipotecarios. Si hubiere varios acreedores hipotecarios garantizados por los mismos bienes, pueden formar un concurso especial entre ellos, y serán pagados por el orden de fechas con que se otorgaron las hipotecas, si éstas se registraron dentro del plazo legal, o según el orden en que se hayan inscrito los gravámenes, si la inscripción se hizo fuera del plazo de Ley. Cuando en el concurso sólo hubiere acreedores hipotecarios, se nombrará síndico al acreedor hipotecario primero en tiempo, quien litigará en representación de los demás, observándose lo dispuesto en los artículos precedentes.
 
-### CAPITULO IV. El deudor común
+### CAPITULO III. De la administración del concurso
 
 ###### Artículo 921.
 
@@ -7409,7 +7485,7 @@ Las cuentas estarán a disposición de los interesados hasta el fin de mes, dent
 
 El síndico será removido de plano si dejare de rendir la cuenta mensual, o de caucionar su manejo. En los demás casos, la remoción se tramitará incidentalmente.
 
-### CAPITULO I. Generalidades
+### CAPITULO IV. El deudor común
 
 ###### Artículo 926.
 
@@ -7441,7 +7517,7 @@ La petición se tramitará actuando el Ministerio Público como representante de
 
 ## TITULO SEGUNDO. De las sucesiones
 
-### CAPITULO II. Testamentarías
+### CAPITULO I. Generalidades
 
 ###### Artículo 929.
 
@@ -7637,7 +7713,7 @@ Radicado el juicio sucesorio se dará información pública de él. Una vez radi
 
 Si el valor del activo de la sucesión no excediere de mil veces el salario mínimo general diario vigente en la región, no se hará publicación de edictos y sólo se fijarán éstos en los estrados del Juzgado.
 
-### CAPITULO III. Intestamentarias
+### CAPITULO II. Testamentarías
 
 ###### Artículo 948.
 
@@ -7753,7 +7829,7 @@ Las cuestiones que no afectan la validez del testamento o la capacidad para here
 
 Una vez celebrada la audiencia y dictadas las resoluciones que corresponda, los trámites del juicio testamentario serán los mismos que los establecidos por los artículos de este Código respecto a las secciones de inventarios, administración y partición.
 
-### CAPITULO IV. Inventario y avalúo
+### CAPITULO III. Intestamentarias
 
 ###### Artículo 964.
 
@@ -7847,7 +7923,7 @@ En la misma sentencia se resolverá quién es el albacea, que será nombrado por
 
 La sentencia será apelable en el efecto suspensivo.
 
-### CAPITULO V. Administración
+### CAPITULO IV. Inventario y avalúo
 
 ###### Artículo 973.
 
@@ -7947,7 +8023,7 @@ Práctica simultánea de inventario y avalúo. El inventario y avalúo se harán
 
 Oposición a los avalúos. La oposición a los avalúos se tramitará de acuerdo con las reglas establecidas en este Capítulo.
 
-### CAPITULO VI. Liquidación y partición
+### CAPITULO V. Administración
 
 ###### Artículo 986.
 
@@ -8033,7 +8109,7 @@ VIII. Si todos los interesados aprobaren la cuenta, o no la objetaren, el Juez l
 
 IX. El auto que apruebe o repruebe la cuenta será apelable en el efecto devolutivo.
 
-### CAPITULO VII. Transmisión hereditaria del patrimonio familiar
+### CAPITULO VI. Liquidación y partición
 
 ###### Artículo 991.
 
@@ -8141,7 +8217,7 @@ Respecto a la partición y sus efectos, se estará a lo dispuesto por el Código
 
 Sentencia de adjudicación. La sentencia que apruebe o repruebe la partición es apelable en el efecto suspensivo.
 
-### CAPITULO VIII. Tramitación ante notarios
+### CAPITULO VII. Transmisión hereditaria del patrimonio familiar
 
 ###### Artículo 1001.
 
@@ -8165,7 +8241,7 @@ VI. El acta o actas en que consten las adjudicaciones servirán de título a los
 
 VII. La transmisión de los bienes del patrimonio familiar estará exenta de impuestos en la medida que dispongan las leyes.
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO VIII. Tramitación ante notarios
 
 ###### Artículo 1003.
 
@@ -8203,7 +8279,7 @@ Suspensión del trámite por oposición de algún pretendiente a la herencia. Si
 
 ## TITULO UNICO
 
-### CAPITULO II. Reglas de trámite para negocios no contenciosos
+### CAPITULO I. Disposiciones generales
 
 ###### Artículo 1009.
 
@@ -8247,7 +8323,7 @@ V. En los casos de las fracciones III, IV y V del artículo 1010 de este Código
 
 VI. En los demás casos que así lo dispongan las Leyes.
 
-### CAPITULO I. Reglas generales
+### CAPITULO II. Reglas de trámite para negocios no contenciosos
 
 ###### Artículo 1013.
 
@@ -8319,7 +8395,7 @@ Estas disposiciones generales se aplicarán en lo no previsto por los Capítulos
 
 ## TITULO UNICO. De los juzgados menores
 
-### CAPITULO II. De la competencia y preliminares del juicio
+### CAPITULO I. Reglas generales
 
 ###### Artículo 1025.
 
@@ -8369,9 +8445,7 @@ Si los jueces impedidos no se excusaren, a pedimento de parte el superior impond
 
 Las recusaciones de los secretarios de los juzgados se sustanciarán en la forma prevenida en el Capítulo IV, Título Primero, Libro Primero de este Ordenamiento.
 
-### CAPITULO III. Del juicio
-
-Desarrollo de la audiencia
+### CAPITULO II. De la competencia y preliminares del juicio
 
 ###### Artículo 1034.
 
@@ -8455,7 +8529,9 @@ Identificación personal de las partes. Cualquier persona que se presente como a
 
 No será necesaria la identificación, aunque se trate de personas desconocidas, cuando por la naturaleza o circunstancias del caso no hubiere peligro de suplantación. El que se presente como actor o como demandado, usando el nombre de otro para hacerse pasar por él, quedará sujeto a las sanciones que determine el Código Penal.
 
-### CAPITULO IV. De la ejecución de sentencias
+### CAPITULO III. Del juicio
+
+Desarrollo de la audiencia
 
 ###### Artículo 1042.
 
@@ -8498,6 +8574,8 @@ Valoración de las pruebas por los jueces menores. Al valorar las pruebas, los j
 No habrá costas en los juicios ante juzgados menores. En los asuntos ante los juzgados menores no se causarán costas, cualquiera que sea la naturaleza del juicio, inclusive si se trata de negocios mercantiles. Tampoco se impondrá ninguna sanción de multa, o daños y perjuicios por el abuso de pretensiones o defensas, o por el ejercicio malicioso de la acción procesal, o faltas al deber de lealtad y probidad, siendo inaplicables los preceptos relativos de este Código.
 
 Las partes reportarán los gastos que se hubieren erogado en el juicio; pero los de ejecución serán siempre a cargo del demandado.
+
+### CAPITULO IV. De la ejecución de sentencias
 
 ###### Artículo 1048.
 
@@ -8632,6 +8710,14 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se concede al Titular del Poder Ejecutivo un término de noventa días hábiles contados a partir de la entrada en vigor del presente Decreto, para que expida el Reglamento de Adopción de Menores a que se refiere el artículo 255 del Código Civil para el Estado Libre y Soberano de Morelos.
 
 TERCERO.- Remítase el Presente Decreto, al Titular del Poder Ejecutivo Estatal para los efectos correspondientes.
+
+P.O. 21 DE DICIEMBRE DE 2005.
+
+PRIMERO. Remítase el presente Decreto al Titular del Poder Ejecutivo para los efectos señalados en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente Decreto.
 
 ###### ARTÍCULO PRIMERO.
 
