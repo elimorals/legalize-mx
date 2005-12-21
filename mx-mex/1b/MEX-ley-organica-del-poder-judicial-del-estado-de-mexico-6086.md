@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-judicial-del-estado-de-mexico-6086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-08"
-last_updated: "2005-10-03"
+last_updated: "2005-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE DICIEMBRE DE 2005.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 8 de septiembre de 1995.
 
@@ -1819,6 +1819,10 @@ La organización y funcionamiento de la dirección será determinada por el regl
 
 ## TITULO DECIMO SEGUNDO. De la Dirección de Peritos del Tribunal Superior de Justicia
 
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 170.
 
 La Dirección de Peritos del Tribunal Superior de Justicia, depende del Consejo de la Judicatura y tiene a su cargo el ejercicio de funciones técnicas en apoyo de la actividad jurisdiccional de las salas y de los juzgados, y contará con el personal siguiente:
@@ -1869,7 +1873,7 @@ Los peritos podrán ejercer libremente su profesión, pero estarán impedidos pa
 
 > <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 2002)</small>
 
-## TITULO DECIMO TERCERO. Del Centro de Mediacion y Conciliación
+## TITULO DECIMO TERCERO. Del Centro de Mediación y Conciliación
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 2002)</small>
 
@@ -1954,6 +1958,296 @@ Los mediadores y conciliadores tendrán fe pública en todo lo relativo al desem
 ###### Artículo 186.
 
 La sujeción a la mediación y conciliación son voluntarias.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, G.G. 21 DE DICIEMBRE DE 2005)</small>
+
+## TITULO DECIMO CUARTO. Del Juez Ejecutor de Sentencias
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 21 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 187.
+
+Todos los cuerpos de seguridad pública del Estado y municipios, están obligados a prestar el auxilio y el apoyo necesario al juez ejecutor de sentencias, en el cumplimiento de sus determinaciones en materia de ejecución de penas privativas y restrictivas de la libertad.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 188.
+
+El Consejo de la Judicatura, en materia de ejecución de sentencias, tendrá las siguientes atribuciones:
+
+I. Crear, organizar, dirigir y administrar a los juzgados ejecutores de sentencias;
+
+II. Expedir los reglamentos, normas y demás disposiciones de orden interno por las que habrán de regirse los Jueces Ejecutores de Sentencias, así como vigilar su cumplimiento;
+
+III. Vigilar que los Jueces Ejecutores otorguen de oficio a los internos los beneficios o el tratamiento a que se hagan acreedores en los términos de esta Ley;
+
+IV. Supervisar la vigilancia a que estarán sujetas las personas que gozan de los beneficios contenidos en esta Ley, auxiliándose en su caso de la Dirección de Prevención y Readaptación Social del Estado;
+
+V. Coordinarse con la Dirección General de Prevención y Readaptación Social, para establecer medidas eficaces dentro del marco legal que permitan reducir el índice de población penitenciaria;
+
+VI. Proponer al Tribunal Superior de Justicia formule proyectos de reformas a la presente Ley, afines con la política criminal que implemente el Ejecutivo del Estado;
+
+VII. Establecer los procedimientos técnico jurídicos para que se otorguen los beneficios o el tratamiento señalados en esta Ley;
+
+VIII. Vigilar que los jueces ejecutores de sentencias revisen oficiosamente y de manera periódica los expedientes de los internos con sentencia ejecutoriada;
+
+IX. Nombrar, seleccionar y capacitar al personal que actuará como Juez Ejecutor de Sentencias, así como al necesario para apoyar a éste; incluidos secretarios, administrativos y técnicos.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 189.
+
+El Juez Ejecutor de Sentencias, tendrá las siguientes atribuciones:
+
+I. Informar al Presidente de (sic) Tribunal Superior de Justicia, en materia de ejecución de sentencias;
+
+II.- Brindar orientación a quien lo solicite, respecto a los beneficios y tratamiento preliberatorio que otorga ésta Ley;
+
+III. Analizar los estudios técnico jurídicos periódicamente, respecto de la situación individualizada de la población penitenciaria con sentencia que ha causado ejecutoria;
+
+IV. Informar al Presidente del Tribunal Superior de Justicia, de todos aquellos internos, con sentencias que han causado ejecutoria, que estén en posibilidad de obtener los beneficios preliberatorios o tratamiento preliberatorio que otorga la Ley;
+
+V. Elaborar y emitir las resoluciones judiciales apoyándose en los dictámenes que emitan los Consejos Interno y Técnico Interdisciplinarios, de todos aquellos internos con sentencia que ha causado ejecutoria y que estén en posibilidad de obtener los beneficios que establece ésta Ley, respecto de las medidas preliberacionales, la remisión parcial de la pena y la libertad condicional, sin perjuicio de ordenar la repetición, ampliación o desahogo de éstos;
+
+VI. Solicitar a la Dirección General de Prevención y Readaptación Social dictamen del Consejo Técnico Interdisciplinario en relación a la aplicación de las medidas de preliberación, remisión parcial de la pena y libertad condicional;
+
+VII. Resolver sobre el otorgamiento del tratamiento preliberacional contenido en ésta ley, apoyándose en los dictámenes técnicos e informes emitidos por los Consejos Técnico e Interno Interdisciplinarios correspondientes;
+
+VIII. Resolver sobre la remisión parcial de la pena, apoyándose en los dictámenes técnico jurídicos e informes emitidos por los Consejos Técnico e Interno Interdisciplinarios correspondientes;
+
+IX. Resolver sobre el otorgamiento de la libertad condicional, apoyándose en los dictámenes técnicos jurídicos e informes emitidos por los Consejos Técnico e Interno Interdisciplinarios correspondientes;
+
+X. Resolver sobre la revocación de beneficios o tratamiento de ley otorgados para el caso de incumplimiento de obligaciones atribuibles al sentenciado, con apoyo en los dictámenes técnico jurídicos e informes emitidos por los Consejos Interno y Técnico Interdisciplinarios correspondientes;
+
+XI. Visitar y entrevistar a los internos con sentencia ejecutoria, que sean susceptibles de obtener algún beneficio o tratamiento; y
+
+XII. Las demás que señalen otras disposiciones legales.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 190.
+
+El Consejo de la Judicatura nombrará a los Jueces Ejecutores de Sentencias necesarios para determinar sobre las medidas de preliberación, remisión parcial de la pena y libertad condicional; y el personal necesario para lograr su cometido.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 191.
+
+Para ser Juez Ejecutor de Sentencias, se requiere:
+
+I. Ser ciudadano del Estado de México, mexicano por nacimiento en pleno ejercicio de sus derechos civiles y políticos y con vecindad efectiva de tres años;
+
+II. Tener como mínimo 28 años de edad;
+
+III. Haber servido en el Poder Judicial del Estado o tener méritos profesionales y académicos reconocidos;
+
+IV. Poseer título profesional de licenciado en derecho expedido por institución de educación superior legalmente facultada para ello, con una antigüedad mínima de 5 años al día de la designación y de ejercicio profesional;
+
+V. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público inhabilitará para el cargo, cualquiera que haya sido la pena; y
+
+VI. No haber desempeñado el cargo de Secretario de Despacho, Procurador General de Justicia del Estado, Senador, Diputado Federal o Local o Presidente Municipal, a menos que se separe de su cargo un año antes del día de su designación.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 192.
+
+Por cada dos días de trabajo del interno se hará remisión de uno de prisión, siempre que observe buena conducta, participe regularmente en las actividades educativas y recreativas que se organicen en el centro preventivo y de readaptación social y que a juicio del Juez Ejecutor de Sentencias, revele otros datos de efectiva resocialización. Este último criterio será en todo caso factor determinante para la concesión o negación de la remisión parcial de la pena, por parte del Juez Ejecutor de Sentencias.
+
+A los internos que por falta de ocupación laboral asistan regularmente a la escuela le serán tomadas en cuenta dichas actividades para el efecto de la remisión parcial de la pena y cualquier otra medida tendente a su reincorporación social.
+
+La remisión parcial de la pena no se concederá en los casos de internos a disposición del Ejecutivo del Estado que hayan sido sentenciados por los delitos de secuestro, homicidio calificado, violación y robo con violencia de acuerdo a las agravantes que establece el artículo 290 del Código Penal del Estado de México.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 193.
+
+Los casos de los internos que conforme a esta Ley deban ser estudiados para la remisión parcial de la pena, se programarán por el Juez Ejecutor de Sentencias, auxiliándose de los dictámenes que emitan los Consejos Interno y Técnico Interdisciplinarios.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 194.
+
+Tendrán derecho a la remisión parcial de la pena, los internos a que se refiere el artículo 60 de la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, en los términos y condiciones que establece esta Ley.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 195.
+
+La remisión parcial de la pena se concederá sin perjuicio de cualquier otro beneficio concedido por esta Ley a los internos.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 196.
+
+El tratamiento preliberacional tiene por objeto la reincorporación social del individuo.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 197.
+
+El tratamiento preliberacional comprenderá:
+
+I. Información y orientación al interno sobre los aspectos personales y prácticos de su vida en libertad;
+
+II. Concesión de mayor libertad dentro del Centro Preventivo y de Readaptación Social;
+
+III. Aplicación de técnicas socioterapéuticas y psicoterapias colectivas y de todas aquéllas que coadyuven a lograr una mejor integración social;
+
+IV. Traslado a la Institución abierta; y
+
+V. El régimen de prelibertad.
+
+El régimen de prelibertad no se concederá en los casos de internos a disposición del Ejecutivo del Estado, que hayan sido sentenciados por los delitos de secuestro, homicidio calificado, violación y robo con violencia de acuerdo a las agravantes que establece el artículo 290 del Código Penal del Estado de México.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 198.
+
+La prelibertad se podrá otorgar:
+
+I. Dos años antes del cumplimiento de las tres quintas partes de la pena de prisión impuesta tratándose de delitos dolosos, o
+
+II. Dos años antes del cumplimiento de las dos cuartas partes de la pena de prisión impuesta en el caso de los delitos culposos.
+
+Lo anterior en correlación con el beneficio de la remisión parcial de la pena.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 199.
+
+La prelibertad deberá ser concedida en forma gradual y sistemática por el Juez Ejecutor de Sentencias, atendiendo a los dictámenes técnico jurídico emitido por el (sic) Consejos Interno y Técnico Interdisciplinarios correspondientes.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 200.
+
+Las modalidades de la prelibertad son las siguientes:
+
+I. Salida del Centro Preventivo y de Readaptación Social de dos días a la semana;
+
+II. Salida diurna, reclusión nocturna y de sábados y domingos;
+
+III. Salida diurna y reclusión nocturna;
+
+IV. Salida diurna y reclusión nocturna con salida de sábados y domingos;
+
+V. Reclusión de dos días a la semana;
+
+VI. Presentación semanal al Centro Preventivo y de Readaptación Social; y
+
+VII. Presentación quincenal al Centro Preventivo y de Readaptación Social.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 201.
+
+Al ser concedida la prelibertad, en cualquiera de sus modalidades, el Juez Ejecutor de Sentencias del Centro Preventivo y de Readaptación Social correspondiente, deberá advertir al preliberado que tendrá que ocurrir a la Institución que le haya sido señalada para hacer sus presentaciones; de informar de sus cambios de domicilio; de la obligación de desempeñar actividades lícitas; de la prohibición que tenga de ir a los lugares que se haya determinado en la resolución respectiva, así como observar una conducta intachable para con los demás y consigo mismo y cumplir con las demás medidas terapéuticas que se le hayan señalado.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 202.
+
+La prelibertad será revocada por el Juez Ejecutor de Sentencias en los siguientes casos:
+
+I. Por cometer un nuevo delito, y que dentro del término constitucional resulte, probable responsable; dejándose sin efecto la revocación al existir resolución que lo deje en libertad definitiva;
+
+II. Cuando incumpla las condiciones con que le fue otorgada, sin causa justificada; y
+
+III. Cuando el interno presente conductas no acordes al tratamiento preliberacional instaurado.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 203.
+
+La libertad condicional se otorgará a los internos sancionados con penas de privación de la libertad por dos año o más, cuando se satisfagan los siguientes requisitos:
+
+I. Haber cumplido las tres quintas partes de la pena corporal impuesta cuando se trate de delitos dolosos, y haber cumplido las dos cuartas partes cuando se trate de delitos culposos;
+
+II. Haber observado durante su internamiento buena conducta sin limitarse al simple cumplimiento de los reglamentos sino a su mejoramiento cultural, perfeccionamiento en el servicio y superación en el trabajo, que revele un afán constante de readaptación social;
+
+III. Ofrecer dedicarse en el plazo que la resolución determine a un oficio, arte, industria, profesión o cualquier otro medio honesto de vivir y acatar los condicionantes que determine el Juez Ejecutor de Sentencias;
+
+IV. Que alguna persona, con reconocida solvencia moral, honrada y de arraigo, se obligue a supervisar y cuidar que el liberado cumpla con sus obligaciones contraídas al momento de su liberación; y
+
+V. Que el beneficiado con libertad condicional resida en el lugar que se determine y del cual no podrá ausentarse sin el permiso previo del Juez Ejecutor de Sentencias.
+
+La designación se hará conciliando las circunstancias de que al interno no pueda proporcionársele trabajo en el lugar que se fije, con el hecho de que su permanencia en él, no sea obstáculo para su enmienda.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 204.
+
+La libertad condicional no se concederá a los reincidentes, ni a los habituales, ni a los sentenciados por delitos graves, debiéndose observar al respecto lo que dispone el Código Penal del Estado de México.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 205.
+
+El interno que intente fugarse o bien el que habiéndose fugado sea reaprendido, perderá el derecho a la libertad condicional y quedará sujeto a la determinación del Juez Ejecutor de Sentencias.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 206.
+
+El Juez Ejecutor de Sentencias programará un sistema de oficio, para la revisión de los expedientes de todos los internos para verificar si se encuentran en el término legal para la obtención de su libertad condicional, en base al principio de no discriminación y al respeto íntegro de los derechos humanos.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 207.
+
+Los individuos que disfruten de la libertad condicional quedarán sujetos a la vigilancia discreta por quien designe el Juez Ejecutor de Sentencias y por todo el tiempo que les falte para cumplir su pena.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 208.
+
+La libertad condicional será revocada por el Juez Ejecutor de Sentencias, en los siguientes casos:
+
+I. Por haber dejado de cumplir con alguna de las condiciones establecidas en el artículo 201 de esta Ley; y
+
+II. Por cometer un nuevo delito, y que dentro del término constitucional resulte probable responsable, dejando sin efecto la revocación al existir resolución que lo deje en libertad definitiva.
+
+Cuando se verifique la condición de alguna de estas circunstancias, el Juez Ejecutor de Sentencias, revocará el beneficio concedido y el infractor cumplirá toda la parte de la pena que falte por compurgar.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 209.
+
+Las Penas Privativas y Restrictivas de la Libertad, se extinguen por:
+
+I. El cumplimiento de la misma;
+
+II. Muerte del penado;
+
+III. Resolución de la autoridad Judicial;
+
+IV. Indulto o amnistía;
+
+V. Prescripción; y
+
+VI. Cesación de los efectos de la sentencia por dejar de considerarse una conducta como delito.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 210.
+
+En los casos de las fracciones I y VI del artículo anterior, el Juez Ejecutor de Sentencias ordenará la libertad inmediata del condenado, incurriendo en responsabilidad si no lo hiciere.
+
+En caso de la fracción III, se estará a la (sic) dispuesto en la resolución Judicial respectiva, y en el de la fracción IV a lo que dispongan las Leyes, o el Titular del Ejecutivo Estatal que concedan respectivamente la amnistía o el indulto.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 211.
+
+Al quedar un interno en libertad definitiva o condicional, la Dirección de Prevención y Readaptación Social le hará entrega de la constancia en la que se expresen los motivos y en su caso las condiciones bajo las cuales han obtenido su libertad.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 212.
+
+Contra los actos y resoluciones que nieguen o revoquen algún beneficio o tratamiento, los particulares afectados podrán interponer recurso de reconsideración ante el propio juez, dentro de los cinco días hábiles siguientes al en que tengan conocimiento de esa determinación, bastando con señalar la resolución impugnada y las cuestiones de hechos y de derecho que en su concepto les generen agravio.
+
+Tratándose de la revocación de beneficio o tratamiento la sola interposición del recurso motivará la suspensión de la misma.
 
 T R A N S I T O R I O S
 
@@ -2066,3 +2360,9 @@ SEGUNDO.- El presente decreto entrará en vigor el día siguiente de su publicac
 TERCERO.- Los jueces de primera instancia y los de cuantía menor, continuarán en el ejercicio de sus funciones por el periodo que estén nombrados o ratificados, quedando sujetos a su posterior ratificación o sustitución, conforme a lo previsto en el presente decreto.
 
 CUARTO.- Los jueces de primera instancia y de cuantía menor, cuyo periodo de ratificación haya fenecido durante el presente año y antes de la entrada en vigor del presente decreto, podrán ser nombrados de nueva cuenta por el Consejo de la Judicatura conforme a lo previsto en el presente decreto.
+
+G.G. 21 DE DICIEMBRE DE 2005.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- La reforma, adición y derogación de las diversas disposiciones contenidas en el Código Penal del Estado de México, en la Ley Orgánica del Poder Judicial del Estado de México y en la Ley Orgánica de la Procuraduría del Estado de México, contenidas en el presente decreto tendrán vigencia, hasta en tanto entre (sic) en vigor las reformas a los artículos 82, 89 en su segundo párrafo, 99 en su primer párrafo a la adición del segundo párrafo al artículo 102 y el artículo 104 bis de la Constitución Política del Estado Libre y Soberano de México, aprobado por esta Legislatura.
