@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2005-08-03"
+last_updated: "2005-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -487,7 +487,15 @@ r) Relaciones Públicas y Comunicación Social;
 
 > <small>(ADICIONADO, P.O. 18 DE MAYO DE 2005)</small>
 
-s) De Asuntos Migratorios.
+s) De Asuntos Migratorios;
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2005)</small>
+
+t) Equidad de Género;
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2005)</small>
+
+u) Asuntos de la Juventud.
 
 En la asignación de Comisiones se deberá respetar el principio de equidad.
 
@@ -2400,3 +2408,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO CUARTO.
 
 (sic) Se derogan todas las disposiciones jurídicas que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2005.
+
+PRIMERO.- Remítase al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto en los artículos 44 y 70 fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado.
