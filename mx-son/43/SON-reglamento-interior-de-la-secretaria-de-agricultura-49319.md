@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-la-secretaria-de-agricultura-49319"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-30"
-last_updated: "2004-06-30"
+last_updated: "2005-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE AGRICULTURA, GANADERIA, RECURSOS HIDRAULICOS, PESCA Y ACUACULTURA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2005.
 
 Reglamento publicado en la Edición Especial del Periódico Oficial del Estado de Sonora, el miércoles 30 de junio de 2004.
 
@@ -45,17 +45,17 @@ Cuando en este Reglamento se haga referencia a la Secretaría y al Secretario, s
 
 Para la atención, estudio, planeación, trámite y resolución de los asuntos de su competencia, la Secretaría contará con las unidades administrativas y un órgano desconcentrado, siguientes:
 
+> <small>(REFORMADA, B.O., 22 DE DICIEMBRE DE 2005)</small>
+
 I. Unidades Administrativas:
 
 Secretaría
 
 Subsecretaría de Agricultura
 
-Subsecretaria de Ganadería
+Subsecretaría de Ganadería
 
 Subsecretaría de Pesca y Acuacultura
-
-Subsecretaria de Innovación y Enlace
 
 Dirección General de Desarrollo Agrícola
 
@@ -71,15 +71,11 @@ Dirección General Forestal y Fauna de Interés Cinegético
 
 Dirección General de Pesca y Acuacultura
 
-Dirección General de Innovación y Enlace
-
 Dirección General de Planeación, Administración y Evaluación
 
 II. Órgano Desconcentrado:
 
-Coordinación General del Plan Maestro de Desarrollo Rural Integral Sur de
-
-Sonora.
+Coordinación General del Plan Maestro de Desarrollo Rural Integral Sur de Sonora.
 
 Se anexa organigrama estructural de la Secretaría.
 
@@ -93,9 +89,11 @@ La Secretaría por conducto de sus unidades administrativas, y órgano desconcen
 
 Corresponde al Secretario, la representación de la Secretaría y la resolución de los asuntos de la competencia de ésta. Las unidades administrativas ejercerán las facultades que les asigne el presente Reglamento y las que les delegue el Titular de la Secretaría, mediante acuerdos que deberán ser publicados en el Boletín Oficial del Gobierno del Estado, sin prejuicio de que el mismo Secretario pueda asumir el ejercicio directo de tales facultades, cuando lo juzgue conveniente.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 22 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 6o.
 
-Al Titular de la Secretaría, le corresponden las siguientes atribuciones:
+Al Secretario le corresponden las siguientes atribuciones:
 
 A. En materia de planeación, presupuestación y seguimiento.
 
@@ -115,11 +113,17 @@ VII.- Autorizar, específicamente a las unidades administrativas de la Secretar�
 
 VIII.- Aprobar las bases particulares para el desarrollo de los subsistemas y procedimientos de programación, presupuestación, información, control y evaluación aplicables en la Secretaría;
 
-IX.- Participar en el proceso de descentralización de programas y recursos que la federación transfiera al Estado, en materia agropecuaria, forestal, hidráulica, pesquera y acuícola, los cuales se ejecutarán y ejercerán en los términos establecidos en los convenios y acuerdos de coordinación que al efecto se celebren entre ambos órdenes de Gobierno;
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+
+IX.- Participar en el proceso de descentralización de funciones, programas, recursos y servicios, en materia agropecuaria, forestal, hidráulica, de vida silvestre, pesquera y acuícola, las cuales se ejecutarán y ejercerán en los términos establecidos en los convenios y acuerdos de coordinación que celebren los Gobiernos Federal, Estatal y Municipal;
 
 X.- Proponer y participar en la realización de programas para la ejecución de proyectos y obras de infraestructura hidráulica, en coordinación con los gobiernos Federal y Municipal y en concertación con las organizaciones de productores;
 
-XI.- Promover mecanismos que propicien una mejora continua en los indicadores de desempeño de la gestión de la dependencia.
+XI.- Promover mecanismos que propicien una mejora continua en los indicadores de desempeño de la gestión de la dependencia;
+
+> <small>(ADICIONADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+
+XII.- Coordinar la integración, aplicación y evaluación de Planes Directores y Programas Distritales de Desarrollo Rural Sustentable con la finalidad de identificar políticas, prioridades y estrategias específicas en cada región del Estado.
 
 B. En materia de desarrollo sectorial.
 
@@ -127,11 +131,15 @@ I.- Promover e impulsar proyectos agropecuarios, hidráulicos, forestales, pesqu
 
 II.- Instrumentar programas para la certificación de origen de los productos agrícolas generados en la Entidad, con el propósito de reconocer su calidad, sanidad e inocuidad en los mercados, promoviendo en coordinación con los productores el establecimiento de servicios de verificación y certificación de inocuidad en otras materias de su competencia;
 
-III.- Apoyar a los productores en la ejecución de proyectos de obras de infraestructura agropecuaria, hidráulica, forestal, pesquera y acuícola, con objeto de fortalecer las actividades económicas e impulsar el desarrollo sustentable en la Entidad;
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+
+III.- Apoyar a los productores en la ejecución de proyectos de obras de infraestructura agropecuaria, hidráulica, forestal, de vida silvestre, pesquera y acuícola, con el objeto de fortalecer las actividades económicas e impulsar el desarrollo sustentable en la Entidad;
 
 IV.- Fomentar programas de investigación y difusión de tecnologías y sistemas que mejoren la calidad genética en la producción, agrícola, pecuaria, pesquera y acuícola;
 
-V.- Promover políticas que apoyen la conservación, preservación y uso racional de los recursos hidráulicos, suelos agrícolas, agostaderos, áreas forestales, recursos pesqueros y acuícolas;
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+
+V.- Promover políticas que apoyen la conservación, preservación y uso racional de los recursos hidráulicos, suelos agrícolas, agostaderos, áreas forestales, de vida silvestre, recursos pesqueros y acuícolas;
 
 VI.- Definir o proponer objetivos, estrategias, normas y procedimientos para la óptima operación de programas que eficienten el uso y garanticen el abastecimiento de agua segura y de calidad en sus diversos usos en la Entidad, en coordinación para este efecto con la Secretaría de Salud Pública;
 
@@ -139,7 +147,13 @@ VII.- Promover acciones que contribuyan a la conservación de la flora, fauna ma
 
 VIII.- Impulsar políticas de apoyo a la industrialización y comercialización de los productos derivados del sector agropecuario, forestal, pesquero y acuícola del Estado en coordinación con la Secretaría de Economía;
 
-IX.- Promover eventos para orientar y desarrollar la competitividad de las actividades agropecuarias, forestales, pesqueras y acuícolas, así como la búsqueda de mercados nacionales e internacionales, en coordinación con la Secretaría de Economía.
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+
+IX.- Promover eventos para orientar y desarrollar la competitividad de las actividades agropecuarias, forestales, de vida silvestre, pesqueras y acuícolas, así como la búsqueda de mercados nacionales e internacionales, en coordinación con la Secretaría de Economía;
+
+> <small>(ADICIONADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+
+X.- Promover una política integral de crédito rural para el impulso de la reconversión productiva de agronegocios ante la banca privada, banca de desarrollo, así como con intermediarios financieros no bancarios, procurando que el crédito se oriente hacia los renglones prioritarios señalados en el Plan Estatal de Desarrollo, Planes Directores y Programas Distritales establecidos.
 
 C. En Materia jurídico-administrativa.
 
@@ -171,13 +185,23 @@ XIII.- Proponer al Ejecutivo del Estado, las tarifas por concepto de derechos po
 
 D. En materia de coordinación.
 
-I.- Participar y apoyar al Gobierno Federal en la integración y verificación del Registro Nacional de Pesca, Registro de Derechos de Agua y Padrón de Usuarios de los Distritos de Riego en el Estado;
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+
+I.- Participar y apoyar al Gobierno Federal en la integración y verificación del Registro Nacional de Pesca, Registro de Derechos de Agua, Padrón de Usuarios de los Distritos de Riego, Servicio Nacional Forestal; así como en la interrelación con el Sistema Nacional de Información Forestal y el Subsistema Nacional de Información sobre Vida Silvestre, a través de los respectivos Sistemas Estatales con sus registros y padrones correspondientes;
 
 II.- Coordinar y organizar la participación del Gobierno del Estado en los consejos estatal, distrital y municipal, para el Desarrollo Rural Sustentable en lo relativo a las actividades agropecuarias, forestales, pesqueras y acuícolas, para lograr el desarrollo rural sustentable de las diferentes regiones del Estado;
 
 III.- Participar en organismos, comisiones, comités y patronatos, así como en reuniones, foros, conferencias, exposiciones y muestras que realicen a invitación expresa de éstos;
 
-IV.- Participar en programas y negociaciones con autoridades federales y los industriales, para que se de oportuna comercialización de la producción agropecuaria, forestal, pesquera y acuícola, de los sectores social y privado en la Entidad.
+IV.- Participar en programas y negociaciones con autoridades federales y los industriales, para que se de oportuna comercialización de la producción agropecuaria, forestal, pesquera y acuícola, de los sectores social y privado en la Entidad;
+
+> <small>(ADICIONADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+
+V.- Coordinar la operación de la Oficina Estatal de Información para el Desarrollo Rural Sustentable, de conformidad con las leyes en la materia y servir de enlace entre este servicio y las unidades administrativas de la Secretaría y Dependencias del sector;
+
+> <small>(ADICIONADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+
+VI.- Ejercer las funciones, ejecutar obras y prestar los servicios públicos que el Estado asuma mediante convenios o acuerdos celebrados con el Ejecutivo Federal o los ayuntamientos, en materia hidráulica, agrícola, pecuaria, de vida silvestre, forestal, pesquera y acuícola, cuando así se establezca en dichos instrumentos.
 
 E. En materia de Información.
 
@@ -189,7 +213,9 @@ III.- Establecer los lineamientos, normas y políticas conforme a las cuales la 
 
 Las demás que las disposiciones legales le confieran expresamente, así como aquellas otras que le encomiende el Gobernador del Estado.
 
-El titular de la Secretaría podrá delegar, sin perjuicio de su ejercicio directo, las atribuciones citadas en los apartados A, fracción II, III, V, VII; B, fracción III, IV, VI, VII, VIII, IX; C, fracción IV, VI, y D, fracción III de este artículo, expidiendo los acuerdos relativos que deberán publicarse en el Boletín Oficial del Gobierno del Estado.
+> <small>(REFORMADO, B.O. 22 DE DICIEMBRE DE 2005)</small>
+
+El Secretario podrá delegar, sin perjuicio de su ejercicio directo, las atribuciones citadas en los apartados A, fracciones II, III, V y VII; B, fracciones III, IV, VI, VII VIII y IX; C, fracciones IV y VI; y D, fracción III de este artículo, expidiendo los acuerdos relativos que deberán publicarse en el Boletín Oficial del Gobierno del Estado.
 
 ### CAPÍTULO III. DE LAS ATRIBUCIONES GENÉRICAS DE LAS SUBSECRETARÍAS
 
@@ -199,7 +225,9 @@ Al frente de cada Subsecretaría habrá un Subsecretario, quien siendo técnica 
 
 A. En materia de planeación, presupuestación y seguimiento.
 
-I.- Elaborar el programa de trabajo anual, de acuerdo con las responsabilidades a su cargo y los lineamientos que al respecto emita el Titular de la Secretaría;
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+
+l.- Elaborar el programa de trabajo anual, de acuerdo con las responsabilidades a su cargo y los lineamientos que al respecto emita el Secretario;
 
 II.- Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento de las unidades administrativas que se le adscriban, de acuerdo con los lineamientos que fije el titular de la Secretaría e informar a éste de sus resultados;
 
@@ -211,11 +239,17 @@ V.- Formular e integrar el anteproyecto de presupuesto de egresos de su competen
 
 VI.- Evaluar y verificar periódicamente los resultados de las actividades de la Subsecretaría a su cargo, en función de el presupuesto asignado a las unidades administrativas adscritas, de conformidad con los objetivos y metas definidas en los programas que se encuentren bajo su responsabilidad; así como supervisar y adoptar en su caso, las medidas necesarias para corregir las desviaciones que se hubieren detectado;
 
-VII.- Supervisar y evaluar el desarrollo de los programas autorizados a las unidades administrativas que le están adscritas.
+VII.- Supervisar y evaluar el desarrollo de los programas autorizados a las unidades administrativas que le están adscritas;
+
+> <small>(ADICIONADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+
+VIII.- Ejecutar las acciones y prestar los servicios que asuma el Estado mediante convenios y acuerdos celebrados con las distintas instancias de gobierno en materia agropecuaria, forestal, de vida silvestre, pesquera y acuícola.
 
 B. En materia jurídico-administrativa.
 
-I.- Acordar con el Titular de la Secretaría, el despacho de los asuntos encomendados a las unidades administrativas adscritas a la Subsecretaría a su cargo e informarle oportunamente sobre el estado que guardan los mismos;
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+
+l.- Acordar con el Secretario, el despacho de los asuntos encomendados a las unidades administrativas adscritas a la Subsecretaría a su cargo e informarle oportunamente sobre el estado que guardan los mismos;
 
 II.- Dictar las medidas necesarias para el mejoramiento administrativo de las unidades adscritas a la Subsecretaría a su cargo;
 
@@ -223,7 +257,9 @@ III.- Recibir en acuerdo a los funcionarios y empleados adscritos a la Subsecret
 
 IV.- Suscribir los documentos relativos al ejercicio de sus atribuciones y de aquellas que le sean señaladas por autorización, suplencia o le corresponda por delegación;
 
-V.- Desempeñar las funciones y comisiones que el Secretario le encomiende, manteniéndolo informado sobre el desarrollo de las mismas y, por acuerdo expreso, representar a la Secretaría en los actos que el propio Titular de la Dependencia determine;
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+
+V.- Desempeñar las funciones y comisiones que el Secretario le encomiende, manteniéndolo informado sobre el desarrollo de las mismas y, por acuerdo expreso, representar a la Secretaría en los actos que el propio Secretario determine;
 
 VI.- Formular y someter en su caso, a la consideración del Secretario, los proyectos de leyes, reglamentos, decretos y acuerdos de coordinación y concertación para el buen funcionamiento de la unidad administrativa a su cargo;
 
@@ -239,11 +275,33 @@ C. En materia de coordinación.
 
 I.- Establecer las acciones de coordinación con las demás unidades administrativas de la Secretaría, cuando resulte necesario para alcanzar el óptimo desarrollo de las actividades que sean competencia de la misma;
 
+> <small>(ADICIONADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+
+II.- Fortalecer la coordinación interinstitucional y la cooperación nacional e internacional en materia de Investigación y tecnología agropecuaria, forestal, de vida silvestre, pesquera y acuícola;
+
+> <small>(ADICIONADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+
+III.- Elaborar, en coordinación con las dependencias del sector y con la participación de los productores, Planes Directores y Programas Distritales para el Desarrollo Rural Sustentable para cada uno de los Distritos de Desarrollo Rural; así como su periódica actualización.
+
 D. En materia de Información.
 
-I.- Proporcionar la información, los datos y la cooperación técnica que le sean solicitada, de conformidad con las políticas establecidas por el Titular de la Secretaria; y
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
 
-Las demás que le señale el Titular de la Secretaría o le confieran otras disposiciones legales.
+I.- Proporcionar la información, los datos y la cooperación técnica que le sea solicitada, de conformidad con las políticas establecidas por el Secretario.
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2005)</small>
+
+E. En materia sectorial.
+
+l.- Promover instrumentos financieros diseñados para el impulso de agronegocios en el sector agropecuario, acuícola y pesquero;
+
+II.- Proponer esquemas que impulsen la inversión interna y externa en el sector agropecuario, forestal, de vida silvestre, acuícola y pesquero de la Entidad;
+
+III.- Inducir programas, proyectos y acciones de innovación y transferencia de tecnología y promover nuevas alternativas de desarrollo para el sector agropecuario, forestal, de vida silvestre, pesquero y acuícola; y
+
+> <small>(REFORMADO, B.O. 22 DE DICIEMBRE DE 2005)</small>
+
+Las demás que le señale el Secretario o le confieran otras disposiciones legales.
 
 ### CAPÍTULO IV. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS SUBSECRETARÍAS
 
@@ -259,7 +317,9 @@ III.- Promover e impulsar proyectos agrícolas, así como inversiones que permit
 
 IV.- Promover políticas de apoyo a la industrialización y comercialización de productos agrícolas; y
 
-V.- Las demás que le señale el Titular de la Secretaría y otras disposiciones legales aplicables.
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+
+V.- Las demás que le señale el Secretario y otras disposiciones legales aplicables.
 
 ###### ARTÍCULO 9o.
 
@@ -277,9 +337,17 @@ V.- Ordenar y supervisar la realización de corridas y velas, ya sean generales 
 
 VI.- Autorizar el remate de ganado mostrenco como lo establece la Ley de Ganadería para el Estado de Sonora;
 
-VII.- Promover y establecer un sistema para la certificación de origen de calidad de los productos en materia de su competencia; y
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
 
-VIII.- Las demás que le señale el Titular de la Secretaría y otras disposiciones legales aplicables.
+VII.- Promover y establecer un sistema para la certificación de origen de calidad de los productos en materia de su competencia;
+
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+
+VIII.- Participar en coordinación con el Gobierno Federal en la integración del Registro de Servicio Nacional Forestal; el Sistema Nacional de Información Forestal y Subsistema Nacional de Información sobre la Vida Silvestre; y
+
+> <small>(ADICIONADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+
+IX.- Las demás que le señale el Secretario y otras disposiciones legales aplicables.
 
 ###### ARTÍCULO 10.
 
@@ -295,29 +363,13 @@ IV.- Coadyuvar en la promoción de políticas que apoyen la conservación, prese
 
 V.- Promover políticas de apoyo a la industrialización y comercialización de productos pesqueros y acuícolas; y
 
-VI.- Las demás que le señale el Titular de la Secretaría y otras disposiciones legales aplicables.
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+
+VI.- Las demás que le señale el Secretario y otras disposiciones legales aplicables.
 
 ###### ARTÍCULO 11.
 
-A la Subsecretaría de innovación y Enlace le corresponden las siguientes atribuciones:
-
-I.- Coordinar la integración, aplicación y evaluación de Planes Directores y Programas Distritales de Desarrollo Rural Sustentable con la finalidad de identificar políticas, prioridades y estrategias específicas en cada región del Estado;
-
-II.- Coordinar el funcionamiento del Consejo Estatal de Desarrollo Rural Sustentable para la planeación de acciones conforme las prioridades regionales que en esa instancia se definan;
-
-III.- Promover la celebración de convenios interinstitucionales con las Dependencias Federales, Estatales o Municipales y organismos relacionados con el sector para impulsar el desarrollo rural;
-
-IV.- Coordinar la realización de estudios económicos, técnicos, productivos y sociales para identificar prioridades de inversión, áreas de oportunidad y posibilidades de desarrollo rural;
-
-V.- Analizar y promover instrumentos financieros diseñados para el Impulso de agronegocios en el sector agropecuario, acuícola y pesquero;
-
-VI.- Fortalecer la coordinación interinstitucional y la cooperación nacional e internacional en materia de investigación y tecnología, agropecuaria, forestal, pesquera y acuícola;
-
-VII.- Llevar a cabo la coordinación y enlace con los Distritos de Desarrollo Rural, organizaciones de productores y Dependencias Federales, Centros de investigación y Desarrollo, particularmente con la Fundación PRODUCE;
-
-VIII.- Coordinar la operación de la Oficina Estatal de Información para el Desarrollo Rural Sustentable, de conformidad con las Leyes en la materia y servir de enlace entre este servicio y las Unidades Administrativas de la Secretara (sic) y Dependencias del Sector; y
-
-IX.- Las demás que le señale el Titular de la Secretaría y otras disposiciones legales aplicables.
+(DEROGADO, B.O. 22 DE DICIEMBRE DE 2005)
 
 ### CAPÍTULO V. DE LAS ATRIBUCIONES GENÉRICAS (SIC) LAS DIRECCIONES GENERALES
 
@@ -373,7 +425,9 @@ XXIII.- Vigilar la correcta aplicación del presupuesto, así como el buen uso d
 
 XXIV.- Formular y proporcionar informes sobre avances físicos y financieros, de seguimiento, control y evaluación de resultados obtenidos derivados de los diversos programas, subprogramas, proyectos y convenios, en los que tenga injerencia la unidad administrativa, manteniendo informado a su superior jerárquico y a las dependencias federales y estatales competentes que así lo soliciten; y
 
-XXV.- Las demás que le señale el Titular de la Secretaría y otras disposiciones legales aplicables.
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+
+XXV.- Las demás que le señale el Secretario y otras disposiciones legales aplicables.
 
 ### CAPÍTULO VI. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS DIRECCIONES GENERALES
 
@@ -405,7 +459,9 @@ XI.- Promover, participar y supervisar en coordinación con la Dirección Genera
 
 XII.- Verificar y supervisar la entrega de las obras al concluir el proceso de las mismas, con la intervención de la Dependencia responsable de su operación, así como de los usuarios beneficiados; y
 
-XIII.- Las demás que le señale el titular de la Secretaría y otras disposiciones legales aplicables.
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+
+XIII.- Las demás que le señale el Secretario y otras disposiciones legales aplicables.
 
 ###### ARTÍCULO 14.
 
@@ -437,7 +493,9 @@ XII.- Proporcionar asesoría y apoyo técnico con objeto de que el productor agr
 
 XIII.- Coordinar acciones con los organismos e instituciones financieras, tendientes a implementar y fortalecer instrumentos, esquemas de financiamiento que permitan accesar al crédito a los productores agrícolas; y
 
-XIV.- Las demás que le señale el Titular de la Secretaría y otras disposiciones legales aplicables.
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+
+XIV.- Las demás que le señale el Secretario y otras disposiciones legales aplicables.
 
 ###### ARTÍCULO 15.
 
@@ -463,7 +521,9 @@ IX.- Coordinar el proceso de recepción y análisis de solicitud de apoyo a las 
 
 X.- Acordar con el Secretario la integración de grupos de trabajo, que analicen y dictaminen la viabilidad de los apoyos a las inversiones de los productores agrícolas, así como vigilar que los expedientes técnicos cumplan con la normatividad aplicable; y
 
-XI.- Las demás que le señale el Titular de la Secretaría y otras disposiciones legales aplicables.
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+
+XI.- Las demás que le señale el Secretario y otras disposiciones legales aplicables.
 
 ###### ARTÍCULO 16.
 
@@ -489,7 +549,9 @@ IX.- Promover la inversión para capitalizar a las unidades de producción y des
 
 X.- Impulsar el desarrollo regional sustentable, así como la diversificación y modernización de las actividades del sector; y
 
-XI.- Las demás que le señale el Titular de la Secretaría y otras disposiciones legales aplicables.
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+
+XI.- Las demás que le señale el Secretario y otras disposiciones legales aplicables.
 
 ###### ARTÍCULO 17.
 
@@ -527,53 +589,81 @@ XV.- Tramitar el recurso de revocación que le corresponda resolver a la Secreta
 
 XVI.- Expedir copias certificadas de la documentación que obra en los archivos de la Dirección General; y
 
-XVII.- Las demás que le señale el Titular de la Secretaría y otras disposiciones legales aplicables.
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+
+XVII.- Las demás que le señale el Secretario y otras disposiciones legales aplicables.
 
 ###### ARTÍCULO 18.
 
 La Dirección General Forestal y Fauna de Interés Cinegético, estará adscrita a la Subsecretaría de Ganadería y le corresponden las siguientes atribuciones:
 
-I.- Difundir entre los productores forestales y de fauna de interés cinegético las principales acciones a ejecutar, así como el cumplimiento de las normas, lineamientos y procedimientos para la integración y operación de programas de fomento y desarrollo;
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
 
-II.- Coordinarse con productores y autoridades federales competentes para ejecutar los programas de prevención y combate de plagas, así como enfermedades que afecten los recursos de flora y fauna;
+I.- Difundir entre los productores forestales y de vida silvestre las principales acciones a ejecutar, así como el cumplimiento de las normas, lineamientos y procedimientos para la integración y operación de programas de fomento y desarrollo;
 
-III.- Promover e implementar acciones para el desarrollo de las comunidades ganaderas y rurales en lo referente al recurso sustentable de flora y fauna;
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
 
-IV.- Participar y apoyar en la actualización de los inventarios de recursos forestales y de fauna, de obras y proyectos referentes a estos rubros;
+II.- Coordinarse con productores y autoridades federales competentes para ejecutar los programas de prevención y combate de plagas, así como enfermedades que afecten los recursos forestales y de vida silvestre;
 
-V.- Establecer acciones de apoyo que contribuyan a la conservación, desarrollo y uso racional del recurso forestal y de fauna silvestre, mediante la concertación con los productores;
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
 
-VI.- Apoyar y promover la celebración de convenios o acuerdos interinstitucionales para la ejecución de programas, proyectos y acciones que incrementen el desarrollo de las actividades forestales, flora y fauna en la Entidad;
+III.- Promover e implementar acciones para el desarrollo de las comunidades ganaderas y rurales en lo referente a los recursos sustentable (sic) forestales y de vida silvestre;
 
-VII.- Promover acciones de investigación, experimentación y transferencia de tecnología en materia forestal, flora y fauna que contribuyan al desarrollo y productividad de las mismas en las diversas regiones del Estado;
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
 
-VIII.- Promover acuerdos de coordinación con las diversas instancias de los órdenes de gobierno y convenios de concertación con las representaciones de los grupos sociales o con los particulares, respectivamente, para lograr el desarrollo sustentable de las actividades forestal y de fauna;
+IV.- Participar y apoyar en la actualización de los inventarios de recursos forestales y de vida silvestre, de obras y proyectos referentes a estos rubros;
+
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+
+V.- Establecer acciones de apoyo que contribuyan a la conservación, desarrollo y uso racional del recurso forestal y de vida silvestre, mediante la concertación con los productores;
+
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+
+VI.- Apoyar y promover la celebración de convenios o acuerdos interinstitucionales para la ejecución de programas, proyectos y acciones que incrementen el desarrollo de las actividades forestales y de vida silvestre de la Entidad;
+
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+
+VII.- Promover acciones de investigación, experimentación y transferencia de tecnología en materia forestal y de vida silvestre que contribuya al desarrollo y productividad de las mismas en las diversas regiones del Estado:
+
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+
+VIII.- Promover acuerdos de coordinación con las diversas instancias de los órdenes de gobierno y convenios de concertación con los representantes de los grupos sociales o con los particulares, para lograr el desarrollo sustentable de las actividades forestales fauna y de vida silvestre;
 
 IX.- Coadyuvar con las autoridades competentes en la promoción sobre el manejo sustentable de las cuencas hidrológicas;
 
 X.- Representar por acuerdo expreso o a solicitud del Subsecretario de Ganadería, ante los organismos encargados del manejo, desarrollo y promoción de las cuencas hidrológicas del Estado;
 
-XI.- Participar en fideicomisos, fundaciones y otras instituciones cuyo propósito sea el de apoyar a la conservación y aprovechamiento sustentable de los recursos de flora y fauna, de conformidad en los términos que establezca el ordenamiento de creación de dichas entidades o en su caso, por invitación expresa de tales organismos o institutos;
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+
+XI.- Participar en fideicomisos, fundaciones y otras instituciones cuyo propósito sea el de apoyar a la conservación y aprovechamiento sustentable de los recursos forestales y de vida silvestre, de conformidad en los términos que establezca el ordenamiento de creación de dichas entidades o, en su caso, por invitación expresa de tales organismos o institutos;
 
 XII.- Orientar, organizar y capacitar a los productores forestales, así como de flora y fauna en la utilización de nuevas tecnologías de explotación y transformación de las materias primas para darles valor agregado a los productos generados;
 
 XIII.- Fomentar en el ámbito de su competencia, programas de reforestación en coordinación con las autoridades federales, estatales y municipales, con la participación de la ciudadanía en general;
 
-XIV.- Colaborar con las autoridades competentes en la supervisión, extracción, industrialización, abasto y comercialización de las materias primas y productos forestales, así como de la flora y fauna, de conformidad con las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+
+XIV.- Colaborar con las autoridades competentes en la supervisión, extracción, industrialización, abasto y comercialización de las materias primas y productos forestales, así como de vida silvestre, de conformidad con las disposiciones jurídicas aplicables;
 
 XV.- Asesorar a los productores de las Unidades de Manejo y Aprovechamiento Sustentable, en la integración de proyectos, así como las actualizaciones o modificaciones que presenten las mismas;
 
-XVI.- Apoyar y promover, en los términos de la legislación aplicable, la formulación y ejecución de estudios de manejo y explotación integral de la flora y fauna;
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+
+XVI.- Apoyar y promover, en los términos de la legislación aplicable, la formulación y ejecución de estudios de manejo y explotación integral de recursos forestales y de vida silvestre;
 
 XVII.- Apoyar a los productores forestales y cinegéticos con asistencia técnica, estudios y proyectos para efectuar cambios o rehabilitación en el uso de suelo;
 
 XVIII.- Promover la capacitación a inspectores forestales y cinegéticos, en coordinación con las dependencias federales y estatales competentes;
 
-XIX.- Apoyar a los productores en el análisis de proyectos de flora y fauna, verificando su factibilidad;
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+
+XIX.- Apoyar a los productores en el análisis de proyectos forestales y de vida silvestre;
 
 XX.- Apoyar en la promoción, análisis, fomento, así como la comercialización y distribución de los productos forestales, mediante políticas y acciones de difusión e investigación de mercados tanto nacional como internacional; y
 
-XXI.- Las demás que le señale el Titular de la Secretaría y otras disposiciones legales aplicables.
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+
+XXI.- Las demás que le señale el Secretario y otras disposiciones legales aplicables.
 
 ###### ARTÍCULO 19.
 
@@ -609,43 +699,19 @@ XIV.- Promover el fortalecimiento de los organismos o instituciones de investiga
 
 XV.- Impulsar y fortalecer en coordinación con productores, Gobiernos Federal y Municipal las acciones de sanidad e inocuidad pesquera y acuícola favoreciendo las oportunidades de participación en el mercado; y
 
-XVI.- Las demás que le señale el Titular de la Secretaría y otras disposiciones legales aplicables.
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+
+XVI.- Las demás que le señale el Secretario y otras disposiciones legales aplicables.
 
 ###### ARTÍCULO 20.
 
-La Dirección General de Innovación y Enlace, estará adscrita a la Subsecretaría de Innovación y Enlace y le corresponden las siguientes atribuciones:
+(DEROGADO, B.O. 22 DE DICIEMBRE DE 2005)
 
-I.- Elaborar en coordinación con las Dependencias del Sector y con la participación de los productores, Planes Directores y Programas Distritales para el Desarrollo Rural Sustentable para cada uno de los Distritos de Desarrollo Rural; así como, su periódica actualización;
-
-II.- Dar seguimiento a las acciones establecidas en los programas de Alianza para el Campo conforme a los objetivos de los Planes Directores en coordinación con las demás unidades administrativas de la Secretaría;
-
-III.- Instrumentar mecanismos de coordinación, enlace y seguimiento y concertación entre los sectores público, privado y social, relativos a las actividades del sector, para identificar a nivel regional los proyectos integrales de desarrollo;
-
-IV.- Inducir programas, proyectos y acciones de innovación y transferencia de tecnología y promover nuevas alternativas de desarrollo para el sector agropecuario, forestal, pesquero y acuícola;
-
-V.- Proponer esquemas que impulsen la inversión interna y externa en el sector agropecuario, forestal, acuícola y pesquero de la entidad;
-
-VI.- Supervisar la elaboración de estudios de orden macroeconómico que permita el sustento del diseño de la política a instrumentar en las actividades agropecuarias, forestales, pesqueras y acuícolas, así como, dar seguimiento a su implementación;
-
-VII.- Fomentar la creación de empresas rurales de bienes y servicios y consolidar las industrias familiares dentro del sector rural de menor desarrollo relativo e impulsar la participación que corresponda a otras dependencias;
-
-VIII.- Participar en la coordinación y dar seguimiento a la operación de los Distritos de Desarrollo Rural;
-
-IX.- Establecer mecanismos de apoyo para incentivar la capitalización de los pobladores rurales de zonas marginadas, las unidades de producción familiar y de sus organizaciones económicas;
-
-X.- Apoyar el desarrollo de proyectos de transformación, generación de valor agregado, y oportunidades de inversión que permitan a los pobladores rurales participar en mayor medida de los beneficios derivados de las cadenas productivas;
-
-XI.- Participar en el diseño de una política integral de crédito rural, y promover el impulso de agronegocios ante la banca privada, banca de desarrollo, así como con intermediarios financieros no bancarios, promoviendo que el crédito se oriente hacia los renglones prioritarios señalados en el Plan Estatal de Desarrollo, Planes Directores y Programas Distritales establecidos;
-
-XII.- Participar en la obtención y difusión de información agropecuaria, forestal, pesquera y acuícola que contribuya a la elaboración de proyectos que permitan mejorar la economía rural y además coordinar y supervisar la operación de la Oficina Estatal de Información para el Desarrollo Rural, Sustentable;
-
-XIII.- Implementar políticas y lineamientos en materia de innovación y enlace de acuerdo a las disposiciones emitidas por el titular de la secretaría; y
-
-XV (SIC).- Las demás que le señale el Titular de la Secretaría y otras disposiciones legales aplicables.
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 22 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 21.
 
-La Dirección General de Planeación, Administración y Evaluación, estará adscrita directamente al Titular de la Secretaría y le corresponden las siguientes atribuciones:
+La Dirección General de Planeación, Administración y Evaluación estará adscrita directamente al Secretario y le corresponden las siguientes atribuciones:
 
 I.- Coordinar las actividades en materia de planeación, administración y evaluación que realizan las unidades administrativas adscritas a la Secretaría;
 
@@ -691,7 +757,9 @@ XXI.- Implementar las medidas administrativas y de control, necesarias para vigi
 
 XXII.- Implementar la sistematización de la administración de documentos que obran en poder de esta Dependencia, en coordinación con las diferentes unidades administrativas; y
 
-XXIII.- Las demás que le señale el Titular de la Secretaría y otras disposiciones legales aplicables.
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+
+XXIII.- Las demás que le señale el Secretario y otras disposiciones legales aplicables.
 
 ### CAPÍTULO VII. DEL ORGANO ADMINISTRATIVO DESCONCENTRADO
 
@@ -699,9 +767,11 @@ XXIII.- Las demás que le señale el Titular de la Secretaría y otras disposici
 
 Para la más eficaz atención y eficiente despacho de los asuntos de la competencia de la Secretaría, ésta contará con un órgano administrativo desconcentrado, que le estará jerárquicamente subordinado y gozará de autonomía técnica.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 22 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 23.
 
-La Coordinación General del Plan Maestro de Desarrollo Rural Integral Sur de Sonora, como órgano desconcentrado, estará sujeta para su funcionamiento a la organización, dirección, control y vigilancia del Titular de la Secretaría, y le corresponden las siguientes atribuciones:
+La Coordinación General del Plan Maestro de Desarrollo Rural Integral Sur de Sonora, como órgano desconcentrado, estará sujeto para su funcionamiento a la organización, dirección, control y vigilancia del Secretario y le corresponden las siguientes atribuciones:
 
 I.- Constituir la instancia inmediata de atención al Plan Maestro de Desarrollo Rural Integral Sur de Sonora, a los asuntos, solicitudes y planteamientos que productores agrícolas, pecuarios, forestales, pesqueros y acuícolas formulen a la Secretaría, para su trámite o resolución;
 
@@ -711,17 +781,23 @@ III.- Coadyuvar en la ejecución de las acciones que le corresponden a las unida
 
 IV.- Ejercer sus facultades, en el ámbito territorial que le fije el secretario; y
 
-V.- Las demás que le señale el Titular de la Secretaría y otras disposiciones legales aplicables.
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2005)</small>
+
+V.- Las demás que le señale el Secretario y otras disposiciones legales aplicables.
 
 ### CAPÍTULO VIII. DE LA SUPLENCIA DE LOS FUNCIONARIOS DE LA SECRETARÍA
 
+> <small>(REFORMADO, B.O. 22 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 24.
 
-Durante las ausencias del Secretario, el despacho de los asuntos correspondientes a la Secretaría, estarán a cargo de los Subsecretarios de Innovación y Enlace, Agricultura, Ganadería, Pesca y Acuacultura en el orden mencionado.
+Durante las ausencias del Secretario, el despacho de los asuntos correspondientes a la Secretaría, estarán a cargo de los Subsecretarios de Agricultura, de Ganadería y de Pesca y Acuacultura, en el orden mencionado.
+
+> <small>(REFORMADO, B.O. 22 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 25.
 
-En las ausencias de los Subsecretarios, de los Directores Generales y el Titular del órgano desconcentrado, para el despacho de los asuntos de su competencia, serán suplidos por el funcionario que para ese efecto designe el Titular de la Secretaría.
+En las ausencias de los Subsecretarios, de los Directores Generales y del titular del órgano desconcentrado, para el despacho de los asuntos de su competencia, serán suplidos por el funcionario que para ese efecto designe el Secretario.
 
 T R A N S I T O R I O S
 
@@ -736,3 +812,11 @@ Se abroga el Reglamento Interior de la Secretaría de Fomento Agrícola, publica
 Dado en la residencia del Poder Ejecutivo en la ciudad de Hermosillo, Sonora, a los 30 días del mes de junio de dos mil cuatro.
 
 EL GOBERNADOR DEL ESTADO.- EDUARDO BOURS CASTELO.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- BULMARO PACHECO MORENO.- RUBRICA.-
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+B.O. 22 DE DICIEMBRE DE 2005.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
