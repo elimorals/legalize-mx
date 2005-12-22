@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-defensoria-de-oficio-para-el-estado-de-nuevo-leon-138
 country: "mx"
 rank: "ley"
 publication_date: "1997-06-18"
-last_updated: "1999-02-15"
+last_updated: "2005-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE LA DEFENSORIA DE OFICIO PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 18 de junio de 1997.
 
@@ -321,13 +321,17 @@ V. Promover el juicio de amparo indirecto en los casos a que haya lugar;
 
 VI. Las demás que establezcan esta Ley y otras disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 26.
 
-El Coordinador del Area de Asuntos No Penales tendrá bajo su responsabilidad los servicios de asesoría y representación legales en materia civil y familiar y en otras materias en los casos a que se refiere el Artículo 8o. de esta Ley.
+El Coordinador del Área de Asuntos No Penales tendrá bajo su responsabilidad los servicios de asesoría y representación legales en materia civil, familiar, de jurisdicción concurrente y en otras materias en los casos a que se refiere el artículo 8º de esta Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 27.
 
-La Coordinación del Area de Asuntos No Penales estará constituida por un Coordinador y los Defensores que se requieran, quienes prestarán sus servicios en los Juzgados Civiles y Familiares con jurisdicción del primero al cuarto Distritos Judiciales y en los juzgados menores de la misma jurisdicción, sin perjuicio de lo dispuesto en la parte final del Artículo anterior.
+La Coordinación del Área de Asuntos No Penales estará constituida por un Coordinado y los Defensores que se requieran, quienes prestarán sus servicios en los Juzgados Civiles, Familiares y de Jurisdicción Concurrente, con jurisdicción del primero al décimosegundo distrito judiciales y en los juzgados menores de la misma jurisdicción, sin perjuicio de lo dispuesto en la parte final del artículo anterior.
 
 El Coordinador de esta Area podrá contar con responsables de cada una de las materias no penales en las que se proporcione el servicio de Defensoría, a quienes podrá conferir las funciones operativas cuya delegación sea posible conforme a esta Ley y su Reglamento, y quienes deberán acreditar los mismos requisitos que se exigen para ser coordinador.
 
@@ -666,3 +670,9 @@ N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRET
 P.O. 15 DE FEBRERO DE 1999.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE DICIEMBRE DE 2005.
+
+Artículo Primero.- El presente Decreto entrará en vigor 90 días posteriores a la fecha de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- El Reglamento de la Ley de la Defensoría de Oficio del Estado de Nuevo León deberá reformarse para atender a lo dispuesto por el presente Decreto, en un término que no exceda de 90 días a partir de su publicación en el Periódico Oficial del Estado.
