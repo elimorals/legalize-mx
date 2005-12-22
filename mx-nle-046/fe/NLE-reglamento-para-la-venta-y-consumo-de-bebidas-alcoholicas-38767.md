@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-la-venta-y-consumo-de-bebidas-alcoholicas-38767
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-29"
-last_updated: "2005-09-30"
+last_updated: "2005-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO PARA LA VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL MUNICIPIO DE SAN NICOLAS DE LOS GARZA, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2005.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 29 de marzo de 2004.
 
@@ -79,7 +79,9 @@ Todos los líquidos potables de consumo humano que contengan conforme a las Norm
 
 a) BEBIDAS PREPARADAS Y/O TROPICALES: Bebida alcohólica que se compone de la mezcla de una o varias bebidas alcohólicas, ya sea entre sí o combinadas con bebidas no alcohólicas, como agua, jugos, refrescos u otras.
 
-b) CERVEZA: La bebida fermentada, elaborada con malta, cebada, lúpulo y agua potable, con infusiones de cualquier semilla farinácea, procedente de gramíneas o leguminosas, raíces o frutos feculentos o azúcares como adjunto de malta, con adición de lúpulos o sucedáneos de éstos, siempre que su contenido alcohólico esté entre 2 y 6 grados en la escala GAY LUSSAC.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2005)</small>
+
+b) CERVEZA: La bebida fermentada, elaborada con malta, cebada, lúpulo y agua potable, con infusiones de cualquier semilla farinácea, procedente de gramíneas o leguminosas, raíces o frutos feculentos o azúcares como adjunto de malta, con adición de Iúpulos o sucedáneos de éstos, siempre que su contenido alcohólico esté entre 2 y 6 grados alcohol en volumen.
 
 c) VINOS DE MESA: Bebidas alcohólicas obtenidas de la fermentación alcohólica completa o parcial, de los mostos de uva en contacto o no de sus orujos.
 
@@ -196,6 +198,24 @@ Es el ofrecimiento de bebidas alcohólicas, en establecimientos, mediante promoc
 XXXI.- REINCIDENCIA:
 
 Se incurre en reincidencia cuando el infractor cometa la misma violación a las disposiciones de este Reglamento, dos o más veces dentro del período de dos años, contados a partir de la fecha en que se le hubiere notificado la sanción inmediata anterior.
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2005)</small>
+
+XXXII.- Medios de Publicidad: Revistas, volantes, mantas, lonas, pinturas en fachadas y/o cualquier otro medio impreso.
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2005)</small>
+
+XXXIII.- Oferta: Ofrecimiento al público de bebidas alcohólicas o servicios de la misma calidad a precios rebajados o inferiores a los normales del mercado, entendiéndose de manera similar las baratas, descuentos, remates, dos por uno, o cualquier otra expresión parecida.
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2005)</small>
+
+XXXIV.- Promociones: Las prácticas comerciales consistentes en el ofrecimiento al público de bienes o servicios, con el incentivo de proporcionar adicionalmente a la venta o consumo de bebidas alcohólicas o cerveza otro bien o servicio iguales o diversos, en forma gratuita, a precio reducido o a un solo precio, esto llevándose a cabo de las siguientes maneras:
+
+a) Con un contenido adicional en la presentación usual de un producto, en forma gratuita o a precio reducido;
+
+b) Con figuras o leyendas impresas en las tapas, etiquetas, o envases de los productos o incluidas dentro de aquéllos, distintas a las que obligatoriamente deben usarse; y
+
+c) Bienes o servicios con el incentivo de participar en sorteos, concursos y otros eventos similares.
 
 ### CAPÍTULO SEGUNDO. DE LAS MEDIDAS PARA COMBATIR EL ABUSO EN EL CONSUMO DE BEBIDAS ALCOHÓLICAS
 
@@ -595,7 +615,15 @@ XXIX. Los establecimientos con venta para consumo en envase abierto o al copeo, 
 
 XXX. Contar, los establecimientos con venta para consumo en envase abierto o al copeo, con sistemas de ventilación necesarios para impedir la concentración de partículas en el ambiente, que envicien la calidad del aire que en ellos se respira, o con los aditamentos que eviten a los vecinos ser afectados por el ruido excesivo.
 
-XXXI. Las demás que se señalan en este Reglamento y otras disposiciones legales o reglamentarias aplicables.
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2005)</small>
+
+XXXI. No publicar ofertas, promociones y/o descuentos de bebidas alcohólicas en el exterior de los establecimientos considerándose como tal las paredes y bardas, incluyendo ventanales y vitrales; esta sólo se podrá llevar a cabo en el interior de los mismos.
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2005)</small>
+
+XXXII. No rotular, pintar, instalar o adherir cualquier diseño, imagen, logotipo y/o marcas de bebidas alcohólicas en más de un 10% de la superficie total del establecimiento considerándose como tal las paredes y bardas.
+
+XXXIII. Las demás que se señalan en este Reglamento y otras disposiciones legales o reglamentarias aplicables.
 
 ### CAPÍTULO SEXTO. DE LOS DÍAS Y HORARIOS AUTORIZADOS
 
@@ -999,7 +1027,15 @@ LVIII. No colocar, los establecimientos indicados en el artículo 14, rótulo qu
 
 LIX. Poner al establecimiento un nombre, logotipo o utilizar imágenes o frases contrarias a la moral o buenas costumbres, que sean de doble sentido o de carácter ofensivo.
 
-LX. Las demás que se señalan en este Reglamento u otro ordenamiento federal, estatal o municipal.
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2005)</small>
+
+LX. La publicación de ofertas, promociones y/o descuentos de bebidas alcohólicas en el exterior de los establecimientos considerándose como tal las paredes y bardas, incluyendo ventanales y vitrales.
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2005)</small>
+
+LXI. El rotular, pintar, instalar o adherir cualquier diseño, imagen, logotipo y/o marcas de bebidas alcohólicas en más de un 10% de la superficie total del establecimiento considerándose como las paredes y bardas.
+
+LXII. Las demás que se señalan en este Reglamento u otro ordenamiento federal, estatal o municipal.
 
 ###### ARTÍCULO 49.
 
@@ -1640,3 +1676,11 @@ SEGUNDO: Publíquese el presente acuerdo en la Gaceta Municipal.
 P.O. 30 DE SEPTIEMBRE DE 2005.
 
 ÚNICO.- La presente modificación entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE DICIEMBRE DE 2005.
+
+PRIMERO.- Las presentes modificaciones al Reglamento para la Venta y Consumo de Bebidas Alcohólicas para el Municipio de San Nicolás de los Garza, Nuevo León, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- A Partir de la entrada en vigor de las modificaciones al presente Reglamento, los dueños de los establecimientos dedicados a la venta y/o consumo de bebidas alcohólicas, deberán de abstenerse de fijar cualquier promoción o publicidad de bebidas alcohólicas, en el exterior de los establecimientos; en contravención de lo establecido a través de la presente modificación al Reglamento que nos ocupa.
+
+TERCERO.- Publíquense las presentes modificaciones al Reglamento para la Venta y Consumo de Bebidas Alcohólicas para el Municipio de San Nicolás de los Garza, Nuevo León en la Gaceta Municipal para su debida difusión y en el portal electrónico de Internet del Municipio, para el cumplimiento del artículo 9 de la Ley de Acceso a la Información Pública del Estado de Nuevo León.
