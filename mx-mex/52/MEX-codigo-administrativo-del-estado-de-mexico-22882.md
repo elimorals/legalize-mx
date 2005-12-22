@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2005-08-22"
+last_updated: "2005-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE DICIEMBRE DE 2005.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -717,15 +717,23 @@ El registro será público, no tendrá efectos constitutivos ni surtirá efectos
 
 13.- Los Institutos Especializados de Salud son organismos públicos descentralizados, con personalidad jurídica y patrimonio propios, que tienen por objeto la investigación, enseñanza y prestación de servicios de alta especialidad.
 
-Serán Institutos Especializados de Salud del Estado de México, cada uno de los siguientes:
+> <small>N. DE E. SE REFORMA EL SEGUNDO PARRAFO PARA QUEDAR COMO APARTADO A.</small>
+
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2005)</small>
+
+A. Serán Institutos Especializados de Salud del Estado de México, cada uno de los siguientes:
 
 I. El Instituto Materno Infantil del Estado de México;
 
-II. El Instituto de Genética Humana;
+II. (DEROGADA, G.G. 22 DE DICIEMBRE DE 2005)
 
 III. Los demás que el Ejecutivo del Estado considere necesarios.
 
-Los Institutos para el cumplimiento de su objeto, tiene las atribuciones siguientes:
+> <small>N. DE E. SE REFORMA EL TERCER PARRAFO PARA QUEDAR COMO APARTADO B.</small>
+
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2005)</small>
+
+B. Los Institutos para el cumplimiento de su objeto, tiene las atribuciones siguientes:
 
 I. Promover y desarrollar investigaciones científicas y tecnológicas en las áreas biomédicas, clínicas, sociomédicas y epidemiológicas;
 
@@ -9760,3 +9768,13 @@ TERCERO.- Se abroga la "Ley de Información e Investigación Geográfica, Estad�
 CUARTO.- Se derogan todas las disposiciones legales de igual o menor rango, cuyo contenido se oponga a lo dispuesto por el presente ordenamiento.
 
 QUINTO.- A partir de la entrada en vigor del presente decreto, el Ejecutivo del Estado contará con un plazo de hasta seis meses para expedir el Reglamento correspondiente.
+
+G.G. 22 DE DICIEMBRE DE 2005.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+TERCERO.- El Gobernador del Estado, dictará las medidas correspondientes para la liquidación del Instituto de Genética Humana, en los términos establecidos por la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México.
+
+CUARTO.- La Legislatura del Estado de México, a través de la Comisión de Salud, Asistencia y Bienestar Social, dará seguimiento al proceso de liquidación del Instituto de Genética Humana, informando al Pleno en un plazo de 15 días hábiles contados a partir de que entre en vigor el presente decreto, sobre la forma y características presentadas desde el inicio y hasta la conclusión del mismo.
