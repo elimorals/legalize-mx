@@ -4,7 +4,7 @@ identifier: "LIVA"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-29"
-last_updated: "2005-12-08"
+last_updated: "2005-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=703&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIVA"
 
 LEY DEL IMPUESTO AL VALOR AGREGADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 2005.
 
 ULTIMA MODIFICACION MISCELANEA FISCAL PUBLICADA EN DIARIO OFICIAL DE LA FEDERACION: 20 DE ENERO DE 2003.
 
@@ -286,87 +286,41 @@ Los actos o actividades a los que se les aplica la tasa del 0%, producirán los 
 
 (DEROGADO, D.O.F. 15 DE DICIEMBRE DE 1995)
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 2o.-C.
 
-Las personas físicas que tributen conforme al régimen de pequeños contribuyentes de acuerdo con lo previsto en el Título IV, Capítulo II, Sección III de la Ley del Impuesto sobre la Renta, pagarán el impuesto al valor agregado mediante estimativa del valor de las actividades que practiquen las autoridades fiscales, en lugar de hacerlo en los términos generales que esta Ley establece. Para ello, se aplicará la tasa que corresponda a la cantidad que resulte de aplicar el coeficiente de valor agregado que señala este artículo, al valor estimado de las actividades por las que estén obligados al pago de este impuesto. Las autoridades fiscales tomarán en cuenta los ingresos reportados por los contribuyentes en la declaración informativa que deben presentar para los efectos del impuesto sobre la renta, correspondiente al ejercicio inmediato anterior. La estimativa que se obtenga se dividirá entre doce para obtener el valor de las actividades mensuales estimadas. Para los efectos del cálculo mencionado anteriormente, no se deberá considerar el valor de las actividades a las que se les aplique la tasa del 0%. Los contribuyentes no tendrán derecho al acreditamiento del impuesto al valor agregado.
+Las personas físicas que reúnan los requisitos a que se refiere el artículo 137 de la Ley del Impuesto sobre la Renta, pagarán el impuesto al valor agregado en los términos generales que esta Ley establece, salvo que opten por hacerlo mediante estimativa del impuesto al valor agregado mensual que practiquen las autoridades fiscales. Para ello, dichas autoridades obtendrán el valor estimado mensual de las actividades por las que el contribuyente esté obligado al pago de este impuesto, pudiendo considerar el valor estimado de dichas actividades durante un año de calendario, en cuyo caso dicho valor se dividirá entre doce para obtener el valor de las actividades mensuales estimadas. Para los efectos del cálculo mencionado anteriormente, no se deberá considerar el valor de las actividades a las que se les aplique la tasa del 0%. Al valor estimado mensual de las actividades se aplicará la tasa del impuesto al valor agregado que corresponda. El resultado así obtenido será el impuesto a cargo estimado mensual.
 
-Tratándose de contribuyentes que inicien actividades, deberán estimar el ingreso mensual de las actividades por las que estén obligados a efectuar el pago del impuesto dentro del mes en que ello ocurra, sin incluir aquellas afectas a la tasa de 0%. Dicha estimativa se mantendrá hasta que se ajuste conforme a lo dispuesto en el párrafo anterior o se de alguno de los supuestos previstos en los apartados que se establecen en este artículo.
+El contribuyente pagará en las oficinas autorizadas la diferencia entre el impuesto estimado a su cargo determinado en los términos del párrafo anterior y el impuesto acreditable estimado mensual. Para ello se estimará el impuesto acreditable mensual a que se refiere el artículo 4o. de la presente Ley, pudiendo estimar el que corresponda a un año de calendario, en cuyo caso dicha estimación se dividirá entre doce para obtener el impuesto acreditable estimado mensual.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+Para estimar el valor de las actividades, así como el impuesto acreditable de los contribuyentes, las autoridades fiscales tomarán en consideración los elementos que permitan conocer su situación económica, como son, entre otros: El inventario de las mercancías, maquinaria y equipo; el monto de la renta del establecimiento; las cantidades cubiertas por concepto de energía eléctrica, teléfonos y demás servicios; otras erogaciones destinadas a la adquisición de bienes, de servicios o al uso o goce temporal de bienes, utilizados para la realización de actividades por las que se deba pagar el impuesto al valor agregado; así como la información que proporcionen terceros que tengan relación de negocios con el contribuyente.
 
-El coeficiente de valor agregado será del 15% tratándose de enajenación y otorgamiento del uso o goce temporal de bienes y de 40% en la prestación de servicios, salvo que la actividad a la que se dediquen los contribuyentes sea alguna de las siguientes:
-
-I. Se aplicará el 6% en la comercialización de petróleo y combustibles de origen mineral.
-
-II. Se aplicará el 20% en los giros siguientes:
-
-a) Fabricación de sombreros de palma y paja.
-
-b) Venta de boletos de teatro.
-
-III. Se aplicará el 22% en los giros siguientes:
-
-a) Fabricación de jabones y detergentes; velas y veladoras.
-
-b) Fabricación de artículos para deportes; confecciones, telas y artículos de algodón; calzado de todas clases; pieles y cueros.
-
-c) Fabricación de muebles de madera; extracción de maderas.
-
-d) Imprenta, litografía y encuadernación.
-
-e) Servicios de molienda de granos y de chiles.
-
-f) Servicios de restaurantes.
-
-g) Servicios de espectáculos en arenas, cines y campos deportivos.
-
-h) Servicios de agencias funerarias.
-
-i) Comercialización de refrescos y cerveza; vinos y licores.
-
-j) Comercialización de jabones y detergentes; velas y veladoras.
-
-k) Comercialización de artículos para deportes; confecciones, telas y artículos de algodón; pieles y cueros.
-
-l) Comercialización de papeles y artículos de escritorio.
-
-ll) Comercialización de joyería, bisutería y relojería.
-
-m) Comercialización de sustancias y productos químicos o farmacéuticos; explosivos.
-
-n) Comercialización de artículos de ferretería y tlapalería; pinturas y barnices; cemento, cal y arena; vidrios y otros materiales para la construcción; fierro y acero.
-
-ñ) Comercialización de llantas y cámaras; piezas de repuesto de automóviles o camiones y otros artículos del ramo, con excepción de sus accesorios.
-
-o) Fabricación de alcohol; perfumes, esencias, cosméticos y otros productos de tocador.
-
-p) Fabricación de papel y artículos de papel.
-
-q) Fabricación de joyería, bisutería y relojería.
-
-r) Fabricación de instrumentos musicales; discos y artículos del ramo.
-
-En el caso de que los contribuyentes se dediquen a dos o más actividades de las señaladas en este artículo, para determinar el impuesto al valor agregado, se aplicará al valor de las actividades por las que estén obligados al pago del impuesto, el coeficiente que corresponda a cada actividad. Para los efectos del cálculo mencionado, no se deberán considerar las actividades a las que se aplique la tasa del 0%.
-
-Las autoridades fiscales establecerán cuotas mensuales, que se calcularán aplicando lo dispuesto en el presente artículo. Dichas cuotas se modificarán en los supuestos a que se refieren los apartados siguientes:
+El impuesto al valor agregado mensual que deban pagar los contribuyentes se mantendrá hasta el mes en el que las autoridades fiscales determinen otra cantidad a pagar por dicha contribución, en cualquiera de los supuestos a que se refieren los apartados siguientes:
 
 A. Cuando los contribuyentes manifiesten a las autoridades fiscales en forma espontánea que el valor mensual de sus actividades se ha incrementado en el 10% o más respecto del valor mensual estimado por las autoridades fiscales por dichas actividades.
 
 B. Cuando las autoridades fiscales, a través del ejercicio de sus facultades, comprueben una variación superior al 10% del valor mensual de las actividades estimadas.
 
-C. Cuando el incremento porcentual acumulado del Índice Nacional de Precios al Consumidor exceda el 10% del propio índice correspondiente al mes en el cual se haya realizado la última actualización de la cuota.
+C. Cuando el incremento porcentual acumulado del Índice Nacional de Precios al Consumidor exceda el 10% del propio índice correspondiente al mes en el cual se haya realizado la última estimación del impuesto al valor agregado.
 
-Los contribuyentes que paguen el impuesto en los términos de este artículo, en lugar de la contabilidad a que se refiere la fracción I del artículo 32 de esta Ley, deberán llevar el registro de sus ingresos diarios efectuando la separación de las actividades por las que deba pagarse el impuesto conforme a los distintos coeficientes de valor agregado que les sean aplicables. Cuando las actividades se encuentren sujetas a tasas diferentes, también deberán efectuar la separación. Así mismo, por las erogaciones que efectúen, deberán contar con comprobantes que reúnan requisitos fiscales.
+Tratándose de los contribuyentes que inicien actividades y que reúnan los requisitos a que se alude en el primer párrafo de este artículo, dichos contribuyentes podrán ejercer la opción prevista en el mismo, en cuyo caso estimarán el valor mensual de las actividades por las que estén obligados a efectuar el pago del impuesto, sin incluir aquellas afectas a la tasa de 0%. Al valor mensual estimado se aplicará la tasa del impuesto al valor agregado que corresponda y el resultado será el impuesto a cargo estimado mensual. Dicho impuesto se deberá disminuir con la estimación que se haga del impuesto acreditable a que se refiere el artículo 4o. de esta Ley que corresponda al mes de que se trate y el resultado será el monto del impuesto a pagar. Dicho monto se mantendrá hasta el mes en el que las autoridades fiscales estimen otra cantidad a pagar, o bien, los contribuyentes soliciten una rectificación.
 
-Los contribuyentes a que se refiere el presente artículo no podrán expedir comprobantes en los que trasladen el impuesto en forma expresa y por separado. En el caso de que se expidan deberán pagar el impuesto en el régimen general de ley a partir del momento en que ello ocurra.
+Para los efectos del impuesto establecido en esta Ley, los contribuyentes que opten por pagar el mismo en los términos de este artículo, deberán cumplir la obligación prevista en la fracción IV del artículo 139 de la Ley del Impuesto sobre la Renta, en lugar de llevar la contabilidad a que se refiere la fracción I del artículo 32 de esta Ley. Así mismo, deberán contar con comprobantes que reúnan requisitos fiscales, por las compras de bienes a que se refiere la fracción III del citado artículo 139.
+
+Los contribuyentes a que se refiere el presente artículo trasladarán el impuesto al valor agregado incluido en el precio a las personas que adquieran los bienes o reciban los servicios. Cuando los citados contribuyentes expidan uno o más comprobantes trasladando el impuesto en forma expresa y por separado, se considera que cambian la opción de pagar el impuesto al valor agregado mediante la estimativa a que se refiere este artículo, para pagar dicho impuesto en los términos generales establecidos en esta Ley, a partir del mes en el que se expida el primer comprobante, trasladando el impuesto en forma expresa y por separado.
 
 El pago del impuesto determinado conforme a lo dispuesto en el presente artículo deberá realizarse por los mismos periodos y en las mismas fechas en los que se efectúe el pago del impuesto sobre la renta.
 
-Las Entidades Federativas con las que se celebre convenio de coordinación para la administración del impuesto a cargo de los contribuyentes a que se refiere el presente artículo, podrán estimar el valor de las actividades mensuales de los contribuyentes citados y determinar las cuotas correspondientes, con sujeción a lo previsto en este artículo.
+Las Entidades Federativas que tengan celebrado con la Secretaría de Hacienda y Crédito Público convenio de coordinación para la administración del impuesto sobre la renta a cargo de las personas físicas que tributen conforme al régimen de pequeños contribuyentes de acuerdo con lo previsto en el Título IV, Capítulo II, Sección III de la Ley del Impuesto sobre la Renta, estarán obligadas a ejercer las facultades a que se refiere el citado convenio a efecto de administrar también el impuesto al valor agregado a cargo de los contribuyentes que ejerzan la opción a que se refiere el presente artículo y deberán practicar la estimativa prevista en el mismo. Las Entidades Federativas recibirán como incentivo el 100% de la recaudación que obtengan por el citado concepto.
 
-Tratándose de los contribuyentes a que se refiere el presente artículo, que realicen actividades afectas a la tasa de 0%, podrán optar por tributar conforme al régimen general de ley.
+Las Entidades Federativas que hayan celebrado el convenio a que se refiere el párrafo anterior deberán, en una sola cuota, recaudar el impuesto al valor agregado y el impuesto sobre la renta a cargo de los contribuyentes que ejerzan la opción a que se refiere este artículo y que tributen conforme al régimen de pequeños contribuyentes de acuerdo con lo previsto en el Título IV, Capítulo II, Sección III de la Ley del Impuesto sobre la Renta, así como las contribuciones y derechos locales que dichas Entidades determinen. Cuando los contribuyentes tengan establecimientos, sucursales o agencias, en dos o más Entidades Federativas, se establecerá una cuota en cada una de ellas, considerando el impuesto al valor agregado correspondiente a las actividades realizadas en la Entidad de que se trate y el impuesto sobre la renta que resulte por los ingresos obtenidos en la misma.
+
+Tratándose de los contribuyentes a que se refiere el presente artículo, que realicen únicamente actividades afectas a la tasa de 0%, podrán optar por tributar conforme a lo dispuesto en este artículo, en cuyo caso quedarán liberados de las obligaciones de presentar declaraciones y de llevar los registros de sus ingresos diarios.
+
+Los contribuyentes a que se refiere este artículo que no ejerzan la opción prevista en el mismo, deberán pagar el impuesto al valor agregado en los términos generales que establece esta Ley al menos durante 60 meses, transcurridos los cuales se tendrá derecho nuevamente a ejercer la opción de referencia.
+
+Cuando los contribuyentes opten por pagar el impuesto conforme a lo dispuesto en este artículo, podrán cambiar su opción en cualquier momento para pagar en los términos generales que establece esta Ley, en cuyo caso estarán a lo dispuesto en el párrafo anterior.
 
 ###### ARTICULO 2o.- D.
 
@@ -518,7 +472,11 @@ VII. Las enajenaciones realizadas a través de arrendamiento financiero. En esto
 
 VIII. Las enajenaciones de bienes adquiridos por dación en pago o adjudicación judicial o fiduciaria, siempre que dichas enajenaciones sean realizadas por contribuyentes que por disposición legal no puedan conservar en propiedad los citados bienes, y
 
-IX. Los que se deriven de operaciones financieras derivadas a que se refiere el artículo 16-A del Código Fiscal de la Federación.
+IX. Los que se deriven de operaciones financieras derivadas a que se refiere el artículo 16-A del Código Fiscal de la Federación;
+
+> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
+
+X. La enajenación de los certificados de participación inmobiliarios no amortizables a que se refiere el segundo párrafo de la fracción VII del artículo 9o. de esta Ley.
 
 Las instituciones de crédito, de seguros y de fianzas, almacenes generales de depósito, administradoras de fondos para el retiro, arrendadoras financieras, sociedades de ahorro y préstamo, uniones de crédito, empresas de factoraje financiero, casas de bolsa, casas de cambio, sociedades financieras de objeto limitado y las sociedades para el depósito de valores, no deberán excluir los conceptos señalados en las fracciones IV, V, VI y IX que anteceden.
 
@@ -536,7 +494,7 @@ Tratándose de importación de bienes tangibles el pago se hará como lo estable
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-###### Artículo 6o.
+###### ARTICULO 6o.
 
 Cuando en la declaración de pago resulte saldo a favor, el contribuyente podrá acreditarlo contra el impuesto a su cargo que le corresponda en los meses siguientes hasta agotarlo, solicitar su devolución o llevar a cabo su compensación contra otros impuestos en los términos del artículo 23 del Código Fiscal de la Federación. Cuando se solicite la devolución deberá ser sobre el total del saldo a favor. En el caso de que se realice la compensación y resulte un remanente del saldo a favor, el contribuyente podrá solicitar su devolución, siempre que sea sobre el total de dicho remanente.
 
@@ -599,6 +557,10 @@ VI.- Moneda nacional y moneda extranjera, así como las piezas de oro o de plata
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 VII.- Partes sociales, documentos pendientes de cobro y títulos de crédito, con excepción de certificados de depósito de bienes cuando por la enajenación de dichos bienes se esté obligado a pagar este impuesto y de certificados de participación inmobiliaria no amortizables u otros títulos que otorguen a su titular derechos sobre inmuebles distintos a casa habitación o suelo. En la enajenación de documentos pendientes de cobro, no queda comprendida la enajenación del bien que ampare el documento.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
+
+Tampoco se pagará el impuesto en la enajenación de los certificados de participación inmobiliarios no amortizables, cuando se encuentren inscritos en el Registro Nacional de Valores e Intermediarios y su enajenación se realice en bolsa de valores concesionada en los términos de la Ley del Mercado de Valores o en mercados reconocidos de acuerdo a tratados internacionales que México tenga en vigor.
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -1338,6 +1300,10 @@ Se exceptúan de lo dispuesto en el artículo anterior los impuestos que los Est
 
 En ningún caso lo dispuesto en el artículo anterior, se entenderá limitativo de la facultad de los Estados y del Distrito Federal para gravar con impuestos locales o municipales la propiedad o posesión del suelo o construcciones, o la trasmisión de propiedad de los mismos o sobre plusvalía o mejoría específica, siempre que no se discrimine en contra de los contribuyentes del impuesto al valor agregado.
 
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
+
+Lo dispuesto en los dos párrafos anteriores no se aplicará respecto de la enajenación de los certificados de participación inmobiliarios no amortizables a que se refiere el segundo párrafo de la fracción VII del artículo 9o. de esta Ley.
+
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
 
 Tratándose de energía eléctrica las entidades federativas no podrá (sic) decretar impuestos, contribuciones o gravámenes locales o municipales, cualquiera que sea su origen o denominación, sobre:
@@ -1387,6 +1353,14 @@ En el caso de las personas físicas que tributen en los términos de la Sección
 Las Entidades Federativas podrán establecer distintas tasas dentro de los límites que establece el presente artículo por cada uno de los impuestos cedulares a que se refiere este artículo.
 
 La base de los impuestos cedulares a que se refiere el presente artículo, deberá considerar los mismos ingresos y las mismas deducciones que se establecen en la Ley del Impuesto sobre la Renta de carácter federal, para los ingresos similares a los contemplados en los impuestos cedulares citados, sin incluir el impuesto cedular local.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
+
+Cuando el ingreso a que se refiere la fracción III de este artículo derive de la aportación de inmuebles que los fideicomitentes o accionistas, personas físicas realicen a los fideicomisos o sociedades mercantiles, a los que se refieren los artículos 223 y 224-A de la Ley del Impuesto sobre la Renta, según se trate, el impuesto cedular deberá considerar la ganancia en el mismo momento que la Ley del Impuesto sobre la Renta establece para la acumulación de dicho ingreso.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
+
+Las Entidades Federativas que establezcan el impuesto cedular a que se refiere la fracción III de este artículo, no podrán gravar la enajenación de los certificados de participación inmobiliarios no amortizables, cuando se encuentren inscritos en el Registro Nacional de Valores e Intermediarios y su enajenación se realice en bolsa de valores concesionada en los términos de la Ley del Mercado de Valores o en mercados reconocidos de acuerdo a tratados internacionales que México tenga en vigor.
 
 Asimismo, las Entidades Federativas podrán convenir con la Federación, a través de la Secretaría de Hacienda y Crédito Público, que los impuestos locales que en su caso se establezcan en su Entidad Federativa se paguen en las mismas declaraciones del impuesto sobre la renta federal.
 
@@ -1934,6 +1908,10 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 
 PRIMERO. El presente Decreto entrará en vigor el 1o. de enero de 1999.
 
+D.O.F. 15 DE FEBRERO DE 1999.
+
+> <small>N. DE E. LAS ACTUALIZACIONES CON ANTELACION CITADAS, NO SEÑALAN DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL.</small>
+
 D.O.F. 31 DE DICIEMBRE DE 1999.
 
 Disposiciones Transitorias de la Ley del Impuesto al Valor Agregado
@@ -2051,6 +2029,26 @@ D.O.F. 28 DE JUNIO DE 2005.
 D.O.F. 8 DE DICIEMBRE DE 2005.
 
 Único.- El presente Decreto entrará en vigor a partir del 1 de julio de 2006.
+
+D.O.F. 23 DE DICIEMBRE DE 2005.
+
+Disposiciones Transitorias de la Ley del Impuesto al Valor Agregado
+
+###### ARTÍCULO QUINTO.
+
+En relación con las modificaciones a que se refiere el Artículo CUARTO de este Decreto, se estará a lo siguiente:
+
+I. Para los efectos del artículo 2o.-C de la Ley del Impuesto al Valor Agregado, se entenderá que los contribuyentes ejercen la opción a que se refiere dicho artículo, cuando continúen pagando el impuesto mediante estimativa que practiquen las autoridades fiscales.
+
+II. En tanto las autoridades fiscales estiman el impuesto de los contribuyentes que ejerzan la opción prevista en el artículo 2o.-C de la Ley del Impuesto al Valor Agregado, los contribuyentes deberán pagar por cada mes que transcurra desde la fecha de la entrada en vigor de este Decreto y la fecha en la que se realice la estimación del impuesto, la última cuota mensual que hayan pagado con anterioridad a la fecha de la entrada en vigor de este Decreto.
+
+Los contribuyentes podrán solicitar que las autoridades fiscales les practiquen la estimativa del impuesto al valor agregado mensual, para lo cual deberán presentar la solicitud respectiva en la que manifiesten bajo protesta de decir verdad la estimación del valor mensual de las actividades y del impuesto acreditable mensual a que se refieren los párrafos primero y segundo del artículo 2o.-C de la Ley del Impuesto al Valor Agregado.
+
+III. Para los efectos del artículo 2o.-C, noveno párrafo de la Ley del Impuesto al Valor Agregado, las Entidades Federativas que a la fecha de la entrada en vigor del presente Decreto tengan celebrado con la Secretaría de Hacienda y Crédito Público convenio de coordinación para la administración del impuesto sobre la renta a cargo de las personas físicas que tributen conforme al régimen de pequeños contribuyentes de acuerdo con lo previsto en el Título IV, Capítulo II, Sección III de la Ley del Impuesto sobre la Renta, podrán comunicar por escrito a la citada Secretaría la terminación del convenio mencionado dentro de los 10 días naturales posteriores a la fecha de la entrada en vigor del presente Decreto.
+
+## TRANSITORIO
+
+ÚNICO. El presente Decreto entrará en vigor el 1o. de enero de 2006.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 415.- SE MODIFICA LA FRACCIÓN II DEL ARTÍCULO 150 Y LA FRACCIÓN D) Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 156 DE LA LEY ESTATAL DE SALUD; ASÍ MISMO, SE MODIFICA LA FRACCIÓN XXIII DEL ARTÍCULO 64 DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
