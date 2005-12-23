@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-la-renta-22690"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-01"
-last_updated: "2005-12-08"
+last_updated: "2005-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22690&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISR"
 
 LEY DEL IMPUESTO SOBRE LA RENTA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 2005.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 1 de enero de 2002.
 
@@ -938,6 +938,10 @@ El monto de los intereses no deducibles a que se refiere esta fracción se deter
 
 No se considerarán para el cálculo del saldo promedio anual de las deudas a que se refiere el cuarto párrafo de esta fracción, los créditos hipotecarios constituidos sobre bienes inmuebles adquiridos en el ejercicio en el que se constituya la hipoteca o en el ejercicio inmediato anterior, siempre que se cumplan con los requisitos de información que para tales efectos señale el Reglamento de esta Ley. Lo dispuesto en este párrafo no será aplicable cuando el crédito hipotecario de que se trate lo hubiera otorgado una o más personas que se consideren partes relacionadas en los términos del artículo 215 de esta Ley.
 
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
+
+Tampoco se considerarán para el cálculo del saldo promedio anual de las deudas a que se refiere el cuarto párrafo de esta fracción, los créditos que se sujeten a condiciones o términos que limiten al deudor para distribuir utilidades o dividendos, reducir su capital, enajenar sus activos fijos, contratar nuevos créditos o transmitir de cualquier forma la titularidad de la mayoría de su capital social, así como que permitan que el acreedor pueda intervenir en la determinación del destino de los créditos.
+
 Asimismo, no será aplicable el límite de las deudas con respecto al capital a que se refiere esta fracción, tratándose de los integrantes del sistema financiero en la realización de las operaciones propias de su objeto, siempre que cumplan con las reglas de capitalización que les correspondan en los términos de la legislación aplicable al sistema financiero ni a los contribuyentes que obtengan una resolución favorable en los términos que señala el artículo 34-A del Código Fiscal de la Federación, en la que se demuestre que las operaciones objeto de la resolución, se realizan a precios o montos de contraprestaciones que hubieran utilizado partes independientes, siempre que se trate de capitales tomados en préstamo que hayan sido otorgados por una o más personas que se consideren partes relacionadas en los términos del artículo 215 de esta Ley y además presenten conjuntamente con la solicitud de resolución a que se refiere este párrafo, un dictamen emitido por contador público registrado, que contenga la metodología que demuestre que los precios o montos de la contraprestación son los que hubieran utilizado con o entre partes independientes en operaciones comparables.
 
 Cuando un contribuyente que sea parte relacionada de una o más personas en los términos del artículo 215 de esta Ley, obtenga créditos de una parte independiente, no se considerará dicho crédito para determinar el límite de las deudas respecto al capital a que se refiere esta fracción, cuando el margen de utilidad que sea atribuible a las operaciones celebradas con sus partes relacionadas, resulte razonable aplicando cualquiera de los métodos establecidos en las fracciones IV, V o VI del artículo 216 de esta Ley, siempre que obtenga una resolución favorable en los términos que señala el artículo 34-A del Código Fiscal de la Federación, en la que se demuestre que las operaciones objeto de la resolución, se realizan a precios o montos de contraprestaciones que hubieran utilizado partes independientes y presente conjuntamente con la solicitud de resolución a que se refiere este párrafo un dictamen emitido por contador público registrado, que contenga la metodología utilizada en la determinación de dicha utilidad, conforme a los requisitos que para tales efectos establezca el Reglamento de esta Ley.
@@ -958,7 +962,9 @@ Las reservas para fondo de pensiones o jubilaciones de personal, complementarias
 
 I. Deberán crearse y calcularse en los términos y con los requisitos que fije el Reglamento de esta Ley y repartirse uniformemente en diez ejercicios. Dicho cálculo deberá realizarse cada ejercicio en el mes en que se constituyó la reserva.
 
-II. La reserva deberá invertirse cuando menos en un 30% en valores a cargo del Gobierno Federal inscritos en el Registro Nacional de Valores e Intermediarios o en acciones de sociedades de inversión en instrumentos de deuda. La diferencia deberá invertirse en valores aprobados por la Comisión Nacional Bancaria y de Valores, como objeto de inversión de las reservas técnicas de las instituciones de seguros, o bien en la adquisición o construcción y venta de casas para trabajadores del contribuyente que tengan las características de vivienda de interés social, o en préstamos para los mismos fines, de acuerdo con las disposiciones reglamentarias.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
+
+II. La reserva deberá invertirse cuando menos en un 30% en valores a cargo del Gobierno Federal inscritos en el Registro Nacional de Valores e Intermediarios o en acciones de sociedades de inversión en instrumentos de deuda. La diferencia deberá invertirse en valores aprobados por la Comisión Nacional Bancaria y de Valores, como objeto de inversión de las reservas técnicas de las instituciones de seguros, o en la adquisición o construcción y venta de casas para trabajadores del contribuyente que tengan las características de vivienda de interés social, o en préstamos para los mismos fines, de acuerdo con las disposiciones reglamentarias, o en certificados de participación emitidos por las instituciones fiduciarias respecto de los fideicomisos a que se refiere el artículo 224 de esta Ley, o bien en acciones emitidas por las sociedades a que se refiere el artículo 224-A de la misma Ley, siempre que en estos dos últimos casos la inversión total no exceda del 10% de la reserva a que se refiere esta fracción.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -1096,7 +1102,9 @@ a) 25% para los dedicados a la aerofumigación agrícola.
 
 b) 10% para los demás.
 
-VI. 25% para automóviles, autobuses, camiones de carga, tractocamiones y remolques.
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
+
+VI. 25% para automóviles, autobuses, camiones de carga, tractocamiones, montacargas y remolques.
 
 VII. 30% para computadoras personales de escritorio y portátiles; servidores; impresoras, lectores ópticos, graficadores, lectores de código de barras, digitalizadores, unidades de almacenamiento externo y concentradores de redes de cómputo.
 
@@ -1392,7 +1400,9 @@ Para los efectos del artículo 46 de esta Ley, se considerará deuda, cualquier 
 
 También son deudas, los pasivos y las reservas del activo, pasivo o capital, que sean o hayan sido deducibles. Para estos efectos, se considera que las reservas se crean o incrementan mensualmente y en la proporción que representan los ingresos del mes del total de ingresos en el ejercicio.
 
-En ningún caso se considerarán deudas las originadas por partidas no deducibles, en los términos de las fracciones I, VIII y IX del artículo 32 de esta Ley.
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
+
+En ningún caso se considerarán deudas las originadas por partidas no deducibles, en los términos de las fracciones I, VIII y IX del artículo 32 de esta Ley, así como el monto de las deudas que excedan el límite a que se refiere el primer párrafo de la fracción XXVI del mismo artículo.
 
 Para los efectos del artículo 46 de esta Ley, se considerará que se contraen deudas por la adquisición de bienes y servicios, por la obtención del uso o goce temporal de bienes o por capitales tomados en préstamo, cuando se dé cualquiera de los supuestos siguientes:
 
@@ -2188,7 +2198,9 @@ b) Proporcionar a las personas a quienes les efectúen pagos por los conceptos a
 
 c) Presentar, a más tardar el día 15 de febrero de cada año, ante el Servicio de Administración Tributaria, la información sobre el nombre, domicilio y Registro Federal de Contribuyentes, de cada una de las personas a quienes les efectuaron los pagos a que se refiere esta fracción, así como el monto pagado en el año de calendario inmediato anterior.
 
-XV. Tratándose de personas morales que celebren operaciones con partes relacionadas, éstas deberán determinar sus ingresos acumulables y sus deducciones autorizadas, considerando para esas operaciones los precios y montos de contraprestaciones que hubieran utilizado con o entre partes independientes en operaciones comparables. Para estos efectos, aplicarán cualquiera de los métodos establecidos en el artículo 216 de esta Ley.
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
+
+XV. Tratándose de personas morales que celebren operaciones con partes relacionadas, éstas deberán determinar sus ingresos acumulables y sus deducciones autorizadas, considerando para esas operaciones los precios y montos de contraprestaciones que hubieran utilizado con o entre partes independientes en operaciones comparables. Para estos efectos, aplicarán los métodos establecidos en el artículo 216 de esta Ley, en el orden establecido en el citado artículo.
 
 XVI. Presentar, a más tardar el día 15 de febrero de cada año ante las oficinas autorizadas, declaración en la que proporcionen la información de las operaciones efectuadas en el año de calendario anterior, a través de fideicomisos por los que se realicen actividades empresariales en los que intervengan.
 
@@ -2203,6 +2215,12 @@ El contribuyente deberá mantener el registro de los bienes por los que se optó
 XVIII. Llevar un control de inventarios de mercancías, materias primas, productos en proceso y productos terminados, según se trate, conforme al sistema de inventarios perpetuos. Los contribuyentes podrán incorporar variaciones al sistema señalado en esta fracción, siempre que cumplan con los requisitos que se establezcan mediante reglas de carácter general.
 
 Los contribuyentes que opten por valuar sus inventarios de conformidad con el cuarto párrafo del artículo 45-G de esta Ley, deberán llevar un registro de los factores utilizados para fijar los márgenes de utilidad bruta aplicados para determinar el costo de lo vendido durante el ejercicio, identificando los artículos homogéneos por grupos o departamentos con los márgenes de utilidad aplicados a cada uno de ellos. El registro a que se refiere este párrafo se deberá tener a disposición de las autoridades fiscales durante el plazo establecido en el artículo 30 del Código Fiscal de la Federación.
+
+> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
+
+XIX. Informar a las autoridades fiscales, a través de los medios y formatos electrónicos, que señale el Servicio de Administración Tributaria mediante reglas de carácter general, a más tardar el día 17 del mes inmediato posterior a aquel en el que se realice la operación, de las contraprestaciones recibidas en efectivo en moneda nacional o extranjera, así como en piezas de oro o de plata, cuyo monto sea superior a cien mil pesos. Las referidas reglas de carácter general podrán establecer supuestos en los que no sea necesario presentar la información a que se refiere esta fracción.
+
+La información a que se refiere esta fracción estará a disposición de la Secretaría de Hacienda y Crédito Público en los términos del segundo párrafo del artículo 69 del Código Fiscal de la Federación.
 
 ###### Artículo 87.
 
@@ -2346,9 +2364,7 @@ Industriales: Azúcar, leches naturales; aceites vegetales; café para consumo n
 
 VI. Se aplicará 25% a los siguientes rubros:
 
-Industriales: Explotación y refinación de sal, extracción de maderas finas, metales y
-
-plantas minero-metalúrgicas.
+Industriales: Explotación y refinación de sal, extracción de maderas finas, metales y plantas minero-metalúrgicas.
 
 Comerciales: Restaurantes y agencias funerarias.
 
@@ -2460,6 +2476,10 @@ f) Orientación social, educación o capacitación para el trabajo.
 
 g) La promoción de la participación organizada de la población en las acciones que mejoren sus propias condiciones de subsistencia en beneficio de la comunidad.
 
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
+
+h) Apoyo en la defensa y promoción de los derechos humanos.
+
 VII. Sociedades cooperativas de consumo.
 
 VIII. Organismos que conforme a la Ley agrupen a las sociedades cooperativas, ya sea de productores o de consumidores.
@@ -2533,6 +2553,12 @@ IV. Que al momento de su liquidación y con motivo de la misma, destinen la tota
 > <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 V. Mantener a disposición del público en general la información relativa a la autorización para recibir donativos, al uso y destino que se haya dado a los donativos recibidos, así como al cumplimiento de sus obligaciones fiscales, por el plazo y en los términos que mediante reglas de carácter general fije el Servicio de Administración Tributaria.
+
+> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
+
+VI. Informar a las autoridades fiscales, a través de los medios y formatos electrónicos, que señale el Servicio de Administración Tributaria mediante reglas de carácter general, a más tardar el día 17 del mes inmediato posterior a aquel en el que se realice la operación, de los donativos recibidos en efectivo en moneda nacional o extranjera, así como en piezas de oro o de plata, cuyo monto sea superior a cien mil pesos.
+
+La información a que se refiere esta fracción estará a disposición de la Secretaría de Hacienda y Crédito Público, en los términos del segundo párrafo del artículo 69 del Código Fiscal de la Federación.
 
 Los requisitos a que se refieren las fracciones III y IV de este artículo, deberán constar en la escritura constitutiva de la persona moral de que se trate con el carácter de irrevocable.
 
@@ -3370,7 +3396,9 @@ VI. En la declaración anual que se presente determinarán la utilidad fiscal y 
 
 Tratándose de las declaraciones a que se refiere la fracción VII de este artículo y el artículo 118 fracción V de esta Ley, la información deberá proporcionarse a través de medios electrónicos en la dirección de correo electrónico que al efecto señale el Servicio de Administración Tributaria mediante disposiciones de carácter general.
 
-VII. Presentar y mantener a disposición de las autoridades fiscales la información a que se refieren las fracciones VII, VIII y IX del artículo 86 de esta Ley.
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
+
+VII. Presentar y mantener a disposición de las autoridades fiscales la información a que se refieren las fracciones VII, VIII, IX y XIX del Artículo 86 de esta Ley.
 
 VIII. Expedir constancias en las que asienten el monto de los pagos efectuados que constituyan ingresos de fuente de riqueza ubicada en México de acuerdo con lo previsto por el Título V de esta Ley o de los pagos efectuados a los establecimientos en el extranjero de instituciones de crédito del país, en los términos del artículo 51 de la misma y, en su caso, el impuesto retenido al residente en el extranjero o a las citadas instituciones de crédito.
 
@@ -3650,6 +3678,12 @@ III. Expedir comprobantes por las contraprestaciones recibidas.
 
 IV. Presentar declaraciones provisionales y anual en los términos de esta Ley.
 
+> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
+
+V. Informar a las autoridades fiscales, a través de los medios y formatos electrónicos, que señale el Servicio de Administración Tributaria mediante reglas de carácter general, a más tardar el día 17 del mes inmediato posterior a aquel en el que se realice la operación, de las contraprestaciones recibidas en efectivo, en moneda nacional, así como en piezas de oro o de plata, cuyo monto sea superior a cien mil pesos.
+
+La información a que se refiere esta fracción estará a disposición de la Secretaría de Hacienda y Crédito Público, en los términos del segundo párrafo del Artículo 69 del Código Fiscal de la Federación.
+
 Cuando los ingresos a que se refiere este Capítulo sean percibidos a través de operaciones de fideicomiso, será la institución fiduciaria quien lleve los libros, expida los recibos y efectúe los pagos provisionales. Las personas a las que correspondan los rendimientos deberán solicitar a la institución fiduciaria la constancia a que se refiere el último párrafo del artículo anterior, la que deberán acompañar a su declaración anual.
 
 ### CAPÍTULO IV. DE LOS INGRESOS POR ENAJENACIÓN DE BIENES
@@ -3785,6 +3819,14 @@ En el caso de operaciones consignadas en escrituras públicas, los notarios, cor
 Los contribuyentes que ejerzan la opción a que se refiere el último párrafo del artículo 147 de esta Ley, aplicarán la tasa del 5% sobre la ganancia que se determine de conformidad con dicho párrafo en el ejercicio de que se trate, la cual se enterará mediante declaración que presentarán ante la Entidad Federativa en las mismas fechas de pago establecidas en el artículo 175 de esta Ley.
 
 El pago efectuado conforme a este artículo será acreditable contra el impuesto del ejercicio.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 154 Ter.
+
+Los contribuyentes que obtengan ingresos por la enajenación de bienes, deberán informar a las autoridades fiscales, a través de los medios y formatos electrónicos, que señale el Servicio de Administración Tributaria mediante reglas de carácter general, a más tardar el día 17 del mes inmediato posterior a aquel en el que se realice la operación, de las contraprestaciones recibidas en efectivo en moneda nacional o extranjera, así como en piezas de oro o de plata, cuyo monto sea superior a cien mil pesos. Las referidas reglas de carácter general podrán establecer supuestos en los que no sea necesario presentar la información a que se refiere este artículo.
+
+La información a que se refiere esta fracción estará a disposición de la Secretaría de Hacienda y Crédito Público, en los términos del segundo párrafo del Artículo 69 del Código Fiscal de la Federación.
 
 ### CAPÍTULO V. DE LOS INGRESOS POR ADQUISICIÓN DE BIENES
 
@@ -4496,14 +4538,6 @@ El impuesto sobre la utilidad a que se refiere este artículo se enterará por e
 
 Cuando la persona que efectúe los pagos a que se refiere este artículo sea residente en el extranjero, el contribuyente enterará el impuesto mediante declaración que presentará, en las oficinas autorizadas, dentro de los 15 días siguientes a la obtención del ingreso.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-###### Artículo 188
-
-Bis. En los ingresos derivados de contratos de fletamento, se considerará que la fuente de riqueza se encuentra en territorio nacional, cuando las embarcaciones fletadas realicen navegación de cabotaje en territorio nacional.
-
-El impuesto se determinará aplicando la tasa del 10% sobre el ingreso obtenido, sin deducción alguna, debiendo efectuar la retención la persona que haga los pagos.
-
 ###### Artículo 188.
 
 En los ingresos por otorgar el uso o goce temporal de bienes muebles, se considerará que la fuente de riqueza se encuentra en territorio nacional, cuando los bienes muebles destinados a actividades comerciales, industriales, agrícolas, ganaderas y de pesca, se utilicen en el país. Se presume salvo prueba en contrario, que los bienes muebles se destinan a estas actividades y se utilizan en el país, cuando el que usa o goza el bien es residente en México o residente en el extranjero con establecimiento permanente en territorio nacional. En el caso de que los bienes muebles se destinen a actividades distintas de las anteriores, cuando en el país se haga la entrega material de los bienes muebles.
@@ -4511,6 +4545,14 @@ En los ingresos por otorgar el uso o goce temporal de bienes muebles, se conside
 El impuesto se determinará aplicando la tasa del 25% sobre el ingreso obtenido, sin deducción alguna, debiendo efectuar la retención las personas que hagan los pagos. Tratándose de contenedores, así como de aviones y embarcaciones que tengan concesión o permiso del Gobierno Federal para ser explotados comercialmente, el impuesto se determinará aplicando la tasa del 5% siempre que dichos bienes sean utilizados directamente por el arrendatario en la transportación de pasajeros o bienes.
 
 Lo dispuesto en este precepto no es aplicable a los bienes muebles a que se refieren los artículos 198 y 200 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+
+###### Artículo 188
+
+Bis. En los ingresos derivados de contratos de fletamento, se considerará que la fuente de riqueza se encuentra en territorio nacional, cuando las embarcaciones fletadas realicen navegación de cabotaje en territorio nacional.
+
+El impuesto se determinará aplicando la tasa del 10% sobre el ingreso obtenido, sin deducción alguna, debiendo efectuar la retención la persona que haga los pagos.
 
 ###### Artículo 189.
 
@@ -4744,6 +4786,12 @@ II. Los que se deriven de créditos a plazo de tres o más años, concedidos o g
 
 III. Los que se deriven de créditos concedidos o garantizados en condiciones preferenciales por entidades de financiamiento residentes en el extranjero a instituciones autorizadas para recibir donativos deducibles en los términos de esta Ley, siempre que estas últimas los utilicen para el desarrollo de actividades de asistencia o beneficencia y que dichas entidades estén registradas para estos efectos ante las autoridades fiscales.
 
+> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
+
+IV. Los que deriven de créditos concedidos al Gobierno Federal o al Banco de México y los provenientes de títulos de créditos emitidos por el Gobierno Federal o por el Banco de México, colocados en México entre el gran público inversionista, siempre que los beneficiarios efectivos sean residentes en el extranjero.
+
+En el caso de que no sea posible identificar al beneficiario efectivo residente en el extranjero de los intereses provenientes de los créditos o títulos a que se refiere el párrafo anterior, los intermediarios financieros no estarán obligados a efectuar la retención correspondiente ni tendrán la responsabilidad solidaria a que se refiere el artículo 26 del Código Fiscal de la Federación.
+
 ###### Artículo 197.
 
 La Secretaría de Hacienda y Crédito Público llevará el Registro de Bancos, Entidades de Financiamiento, Fondos de Pensiones y Jubilaciones y Fondos de Inversión del Extranjero a que se refieren los artículos 179, 195 y 196 de esta Ley.
@@ -4769,6 +4817,14 @@ Lo previsto en el segundo párrafo de este artículo, será aplicable a la ganan
 En el caso de operaciones financieras derivadas de deuda, liquidables en efectivo, el impuesto se calculará aplicando al interés acumulable que resulte en los términos del artículo 9o. de la Ley, sin actualización alguna, la tasa que corresponda de acuerdo con este artículo al beneficiario efectivo de la operación.
 
 Para determinar los intereses a favor del residente en el extranjero y su impuesto respectivo, en el caso de operaciones financieras derivadas de deuda en las que durante su vigencia se paguen periódicamente diferencias en efectivo, podrán deducirse de las cantidades que cobre el residente en el extranjero las diferencias que él haya pagado al residente en el país.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
+
+No se pagará el impuesto a que se refiere este artículo, tratándose de operaciones financieras derivadas de deuda que se encuentren referidas a la Tasa de Interés Interbancaria de Equilibrio o a títulos de crédito emitidos por el Gobierno Federal o por el Banco de México y cualquier otro que determine el Servicio de Administración Tributaria mediante reglas de carácter general, colocados en México entre el gran público inversionista, siempre que se realicen en bolsa de valores o mercados reconocidos, en los términos de las fracciones I y II del artículo 16-C del Código Fiscal de la Federación y que los beneficiarios efectivos sean residentes en el extranjero.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
+
+En el caso de que no sea posible identificar al beneficiario efectivo residente en el extranjero de las ganancias provenientes de las operaciones financieras derivadas a las que se refiere el párrafo anterior, los socios liquidadores no estarán obligados a efectuar la retención correspondiente ni tendrán la responsabilidad solidaria a que se refiere el artículo 26 del Código Fiscal de la Federación.
 
 ###### Artículo 200.
 
@@ -4948,7 +5004,9 @@ Para los efectos de este Capítulo se considera que las entidades o figuras jur�
 
 En los casos en que los ingresos se generen de manera indirecta, se deberán considerar los impuestos efectivamente pagados por todas las figuras o entidades jurídicas a través de las cuales el contribuyente realizó la operación que genera el ingreso, para los efectos de determinar el impuesto sobre la renta inferior a que se refiere este artículo.
 
-Cuando el país en el que se generan los ingresos sujetos a un régimen fiscal preferente tenga en vigor un acuerdo amplio de intercambio de información tributaria con México, los contribuyentes que generen ingresos distintos de los ingresos pasivos señalados en este artículo no los considerarán como ingresos sujetos a regímenes fiscales preferentes. En los casos en que no se tenga dicho acuerdo, las autoridades fiscales podrán autorizar la aplicación de lo dispuesto en este párrafo, siempre que los contribuyentes obtengan por escrito la aceptación por parte de las autoridades competentes del país de que se trate, para intercambiar información sobre los ingresos e inversiones del contribuyente con las autoridades mexicanas. La autorización que se emita de conformidad con lo dispuesto en este párrafo quedará sin efectos cuando no se intercambie efectivamente la información mencionada que, en su caso, se solicite al país de que se trate.
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
+
+Cuando el país en el que se generan los ingresos sujetos a un régimen fiscal preferente tenga en vigor un acuerdo amplio de intercambio de información tributaria con México, los contribuyentes que generen ingresos distintos de los ingresos pasivos señalados en este artículo no los considerarán como ingresos sujetos a regímenes fiscales preferentes. En los casos en que no se tenga dicho acuerdo, los contribuyentes podrán aplicar lo establecido en este párrafo, siempre que, el contribuyente y las entidades o figuras jurídicas a través de las cuales se generen ingresos sujetos a regímenes fiscales preferentes, dictaminen sus estados financieros por un contador público independiente que pertenezca a una firma de contadores con presencia en México, por el ejercicio de que se trate y el contribuyente presente dicho dictamen en los términos del artículo 52 del Código Fiscal de la Federación. Los contribuyentes que realicen operaciones de compra y venta de bienes en el comercio internacional a través de entidades o figuras jurídicas del extranjero en las que participen directa o indirectamente, no podrán aplicar lo dispuesto en este párrafo a los ingresos que se generen por la comercialización de bienes cuya procedencia o destino sea México.
 
 No se considerarán ingresos sujetos a regímenes fiscales preferentes, en los términos de este artículo, los generados a través de personas morales, entidades, fideicomisos, asociaciones en participación, fondos de inversión o cualquier otra figura jurídica similar creada o constituida de acuerdo al derecho extranjero, cuyos ingresos estén sujetos a regímenes fiscales preferentes, siempre que los ingresos derivados de dichas entidades o figuras provengan de la realización de actividades empresariales sujetas a tales regímenes, y al menos el 50% de los activos totales de estas entidades o figuras consistan en activos fijos, terrenos e inventarios, que estén afectos a la realización de dichas actividades y formen parte de los demás activos a que se refiere el párrafo décimo primero de este artículo. El valor de los activos a que se refiere este párrafo se determinará conforme a lo dispuesto en los artículos correspondientes de la Ley del Impuesto al Activo, sin considerar para estos efectos las deducciones por inversiones en el impuesto sobre la renta, a que se refiere esta Ley.
 
@@ -5082,9 +5140,11 @@ Salvo prueba en contrario, se presume que las operaciones entre residentes en M�
 
 Para la interpretación de lo dispuesto en este Capítulo, serán aplicables las Guías sobre Precios de Transferencia para las Empresas Multinacionales y las Administraciones Fiscales, aprobadas por el Consejo de la Organización para la Cooperación y el Desarrollo Económico en 1995, o aquéllas que las sustituyan, en la medida en que las mismas sean congruentes con las disposiciones de esta Ley y de los tratados celebrados por México.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 216.
 
-Para los efectos de lo dispuesto por el artículo 215 de esta Ley, se podrán aplicar cualquiera de los siguientes métodos:
+Para los efectos de lo dispuesto por el artículo 215 de esta Ley, los contribuyentes deberán aplicar los siguientes métodos:
 
 I. Método de precio comparable no controlado, que consiste en considerar el precio o el monto de las contraprestaciones que se hubieran pactado con o entre partes independientes en operaciones comparables.
 
@@ -5111,6 +5171,14 @@ b) La utilidad de operación global se asignará de la siguiente manera:
 VI. Método de márgenes transaccionales de utilidad de operación, que consiste en determinar en transacciones entre partes relacionadas, la utilidad de operación que hubieran obtenido empresas comparables o partes independientes en operaciones comparables, con base en factores de rentabilidad que toman en cuenta variables tales como activos, ventas, costos, gastos o flujos de efectivo.
 
 De la aplicación de alguno de los métodos señalados en este artículo, se podrá obtener un rango de precios, de montos de las contraprestaciones o de márgenes de utilidad, cuando existan dos o más operaciones comparables. Estos rangos se ajustarán mediante la aplicación de métodos estadísticos. Si el precio, monto de la contraprestación o margen de utilidad del contribuyente se encuentra dentro de estos rangos, dichos precios, montos o márgenes se considerarán como pactados o utilizados entre partes independientes. En caso de que el contribuyente se encuentre fuera del rango ajustado, se considerará que el precio o monto de la contraprestación que hubieran utilizado partes independientes, es la mediana de dicho rango.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
+
+Los contribuyentes deberán aplicar en primer término el método previsto por la fracción I de este artículo, y sólo podrán utilizar los métodos señalados en las fracciones II, III, IV, V y VI del mismo, cuando el método previsto en la fracción I citada no sea el apropiado para determinar que las operaciones realizadas se encuentran a precios de mercado de acuerdo con las Guías de Precios de Transferencia para las Empresas Multinacionales y las Administraciones Fiscales a que se refiere el último párrafo del artículo 215 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
+
+Para los efectos de la aplicación de los métodos previstos por las fracciones II, III y VI de este artículo, se considerará que se cumple la metodología, siempre que se demuestre que el costo y el precio de venta se encuentran a precios de mercado. Para estos efectos se entenderán como precios de mercado, los precios y montos de contraprestaciones que hubieran utilizado con o entre partes independientes en operaciones comparables o cuando al contribuyente se le haya otorgado una resolución favorable en los términos del artículo 34-A del Código Fiscal de la Federación. Asimismo, deberá demostrarse que el método utilizado es el más apropiado o el más confiable de acuerdo con la información disponible, debiendo darse preferencia a los métodos previstos en las fracciones II y III de este artículo.
 
 Para los efectos de este artículo y del artículo 215 de esta Ley, los ingresos, costos, utilidad bruta, ventas netas, gastos, utilidad de operación, activos y pasivos, se determinarán con base en los principios de contabilidad generalmente aceptados.
 
@@ -5224,11 +5292,11 @@ Para los efectos de este artículo, se considera como investigación y desarroll
 
 El monto total del estímulo fiscal a distribuir entre los aspirantes del beneficio, así como los requisitos que se deberán cumplir, serán los que contemple la Ley de Ingresos de la Federación en esta materia y para su aplicación se estará a las reglas que expida el Comité Interinstitucional a que se refiere el párrafo anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 220.
 
-Los contribuyentes del Título II y del Capítulo II del Título IV de esta Ley, podrán optar por efectuar la deducción inmediata de la inversión de bienes nuevos de activo fijo, en lugar de las previstas en los artículos 37 y 43 de la Ley, deduciendo en el ejercicio siguiente al de su adquisición o en el ejercicio siguiente al de su legal importación tratándose de bienes nuevos de activo fijo de procedencia extranjera, la cantidad que resulte de aplicar, al monto original de la inversión, únicamente los por cientos que se establecen en este artículo. La parte de dicho monto que exceda de la cantidad que resulte de aplicar al mismo el por ciento que se autoriza en este artículo, será deducible únicamente en los términos del artículo 221 de esta Ley.
+Los contribuyentes del Título II y del Capítulo II del Título IV de esta Ley, podrán optar por efectuar la deducción inmediata de la inversión de bienes nuevos de activo fijo, en lugar de las previstas en los artículos 37 y 43 de la Ley, deduciendo en el ejercicio en el que se efectúe la inversión de los bienes nuevos de activo fijo, en el que se inicie su utilización o en el ejercicio siguiente, la cantidad que resulte de aplicar, al monto original de la inversión, únicamente los por cientos que se establecen en este artículo. La parte de dicho monto que exceda de la cantidad que resulte de aplicar al mismo el por ciento que se autoriza en este artículo, será deducible únicamente en los términos del artículo 221 de esta Ley.
 
 Los por cientos que se podrán aplicar para deducir las inversiones a que se refiere este artículo, son los que a continuación se señalan:
 
@@ -5356,61 +5424,161 @@ Cuando se modifique total o parcialmente la conformación territorial de alguno 
 
 El patrón que contrate a personas que padezcan discapacidad motriz y que para superarla requieran usar permanentemente prótesis, muletas o sillas de ruedas; mental; auditiva o de lenguaje, en un ochenta por ciento o más de la capacidad normal o tratándose de invidentes, podrá deducir de sus ingresos, un monto equivalente al 100% del impuesto sobre la renta de estos trabajadores retenido y enterado conforme al Capítulo I del Título IV de esta Ley, siempre y cuando el patrón esté cumpliendo respecto de dichos trabajadores con la obligación contenida en el artículo 12 de la Ley del Seguro Social y además obtenga del Instituto Mexicano del Seguro Social el certificado de discapacidad del trabajador.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 223.
 
-Con el propósito de fomentar el mercado inmobiliario mexicano, los fideicomisos cuya única actividad sea la construcción o adquisición de inmuebles que se destinen a su enajenación o a la concesión del uso o goce, así como la adquisición del derecho para percibir ingresos por otorgar dicho uso o goce, estarán a lo siguiente:
+Con el objeto de fomentar el mercado inmobiliario mexicano, los fideicomisos a que se refiere el artículo 224 de esta Ley, estarán a lo siguiente:
 
-I. La fiduciaria y los fideicomisarios no efectuarán los pagos provisionales a que se refiere el artículo 13 de esta Ley, por los ingresos que obtenga el fideicomiso.
+I. Los fideicomitentes que aporten bienes inmuebles al fideicomiso:
 
-II. Para determinar la ganancia por la enajenación de los certificados de participación que emitan los fideicomisos a que se refiere este artículo, los contribuyentes disminuirán del ingreso obtenido por la enajenación del certificado de que se trate, el costo promedio que corresponda a dicho certificado.
+a) Determinarán la ganancia por la enajenación de los bienes aportados en los términos de los Títulos II, IV o V de esta Ley, según corresponda.
 
-El costo promedio incluirá todos los certificados que tenga el contribuyente del mismo fideicomiso en la fecha de la enajenación, aun cuando no los enajene en su totalidad.
+b) Acumularán la ganancia a que se refiere el inciso anterior, cuando se dé cualquiera de los siguientes supuestos:
 
-El costo promedio se determinará dividiendo el costo de la totalidad de los certificados propiedad del contribuyente correspondientes a un mismo fideicomiso, entre el número total de certificados que tenga el contribuyente a la fecha de la enajenación.
+1. Enajenen los certificados de participación, en la proporción que los certificados enajenados representen del total de los certificados que recibió el fideicomitente por la aportación del inmueble al fideicomiso, siempre que no se hubiera acumulado dicha ganancia previamente.
 
-Tratándose de enajenaciones subsecuentes, el costo promedio de todos los certificados de participación propiedad del contribuyente por los que ya se hubiera calculado dicho costo, se adicionará con el costo de los certificados que se adquieran con posterioridad, la cantidad que resulte se dividirá entre el número total de certificados que tenga el contribuyente a la fecha de la enajenación de que se trate y el resultado se considerará como costo promedio de los certificados a la citada fecha.
+2. Cuando la institución fiduciaria enajene los bienes aportados, en la proporción que la parte que se enajene represente de los mismos bienes, siempre que no se hubiera acumulado dicha ganancia previamente.
 
-III. Cuando los fideicomitentes aporten bienes inmuebles al fideicomiso podrán considerar que no hay enajenación, siempre que la fiduciaria otorgue su uso o goce temporal al mismo fideicomitente que aportó el bien inmueble y se cumpla con lo siguiente:
+La ganancia que se acumule se actualizará desde el mes en el que se obtuvo y hasta el mes en el que se acumule.
 
-a) Deberán suspender la deducción de la inversión del inmueble que hubiesen aportado al fideicomiso.
+La deducción de los bienes aportados corresponderá a la institución fiduciaria a partir de la fecha y por el valor, de la aportación. Los fideicomitentes no podrán deducir los bienes aportados a partir de dicha fecha.
 
-b) El fideicomitente sólo podrá deducir las rentas que pague por el otorgamiento del uso o goce del inmueble hasta por el equivalente al 12% anual del valor fiscal del inmueble.
+II. Los fideicomitentes y cualquier otro tenedor de los certificados de participación, cuando los enajenen, acumularán la ganancia por dicha enajenación, que se determinará de acuerdo con lo siguiente:
 
-c) En el caso de que la fiduciaria enajene un bien inmueble aportado en los términos de esta fracción, el fideicomitente pagará el impuesto correspondiente a la ganancia realizada entre el valor fiscal del inmueble y el valor que tenía dicho inmueble en el momento de su aportación. La fiduciaria considerará la ganancia que en su caso se genere entre el valor del inmueble en el momento de su aportación y el valor de enajenación.
+a) Se adicionará a los ingresos obtenidos por la enajenación de los certificados, el saldo de la cuenta de resultado fiduciario determinado por la fiduciaria por las actividades realizadas por el fideicomiso a la fecha de adquisición, actualizado, en la parte que corresponda a los títulos que enajene el contribuyente.
 
-d) Si el fideicomitente enajena los certificados de participación que en su caso emita el fideicomiso por la aportación del inmueble, calculará su costo a valor fiscal del inmueble.
+b) Se adicionará al costo comprobado de adquisición actualizado de los certificados de participación que enajene el contribuyente correspondientes a un mismo fideicomiso, el saldo de la cuenta de resultado fiduciario determinado por la fiduciaria por las actividades realizadas por el fideicomiso a la fecha de enajenación, actualizado, en la parte que corresponda a los títulos que enajene el contribuyente.
 
-Para los efectos de lo dispuesto en esta fracción, el valor fiscal es el monto original de la inversión del terreno y el saldo pendiente por deducir de las construcciones, actualizados hasta el mes en el que se hubieran aportado al fideicomiso.
+c) La actualización del costo comprobado de adquisición de los certificados que se enajenen, se efectuará por el periodo comprendido desde el mes de su adquisición y hasta el mes en el que se enajenen. El saldo de la cuenta de resultado fiduciario se actualizará desde la última vez que se actualizó y hasta el mes en el que se enajenen los certificados.
 
-Cuando el fideicomitente hubiera pagado el impuesto a que se refiere el inciso c) de esta fracción, el valor fiscal correspondiente a los certificados obtenidos con motivo de la aportación del inmueble, será el valor del inmueble en el momento de su aportación.
+d) La ganancia por la enajenación de los certificados, será la cantidad que resulte de disminuir al resultado obtenido de conformidad con el inciso a) de esta fracción, la cantidad determinada en los términos del inciso b) de la misma fracción, cuando el primero sea mayor que la segunda.
 
-IV. Los fondos de pensiones y jubilaciones a los que se refiere el artículo 179 de la (sic) esta Ley que sean fideicomisarios, podrán aplicar lo dispuesto por el Título II o Título V de esta Ley, según corresponda, por los ingresos que perciban de la operación del fideicomiso.
+Para los efectos de esta fracción, se considera que los certificados que se enajenan, son los primeros que se adquirieron.
 
-V. Tratándose de los fondos de pensiones y jubilaciones a que se refiere el artículo 33 de esta Ley, podrán invertir hasta un 10% de sus reservas en los certificados de participación de los fideicomisos a que se refiere este artículo y los mismos se computarán dentro del 70% a que se refiere la fracción II del citado artículo 33 de esta Ley.
+III. No se pagará el impuesto sobre la renta por la ganancia a que se refiere la fracción anterior, cuando el enajenante sea una persona física o un residente en el extranjero, siempre que se trate de certificados que se encuentren inscritos en el Registro Nacional de Valores e Intermediarios, su adquisición y su enajenación se realice en bolsa de valores concesionada en los términos de la Ley del Mercado de Valores o en mercados reconocidos de acuerdo a los tratados internacionales que México tenga en vigor, y al menos un monto equivalente al 20% del total de las aportaciones realizadas al fideicomiso se encuentre colocado entre el gran público inversionista.
 
-VI. En el caso de fideicomisarios personas físicas y residentes en el extranjero distintos a los fondos de pensiones y jubilaciones a que se refiere el artículo 179 de la Ley, cuando enajenen los certificados de participación que en su caso emita el fideicomiso, deberán considerar el ingreso que perciban por la enajenación, como proveniente de inversiones inmobiliarias y deberán calcular y pagar el impuesto correspondiente, aplicando lo dispuesto en el Título IV o Título V de dicha Ley, según se trate, para la enajenación de inmuebles.
+Tampoco se pagará el impuesto sobre la renta, cuando la persona física o el residente en el extranjero que enajene los certificados en las bolsas o mercados reconocidos señalados en el párrafo anterior, los haya adquirido fuera de dichas bolsas o mercados, siempre que hayan transcurrido al menos cinco años ininterrumpidos desde la fecha en la que los adquirió y además se cumplan los demás requisitos señalados en el mismo párrafo.
 
-Para los efectos del párrafo anterior, se considerará como monto original de la inversión el valor de la inversión que hubiera efectuado al fideicomiso y las reinversiones como mejoras a los propios inmuebles.
+Asimismo, no se pagará el impuesto sobre la renta por la ganancia a que se refiere la fracción anterior, cuando el enajenante sea un fideicomitente persona física o residente en el extranjero, siempre que se trate de certificados que se encuentren inscritos en el Registro Nacional de Valores e Intermediarios, su enajenación se realice en bolsa de valores concesionada en los términos de la Ley del Mercado de Valores o en mercados reconocidos de acuerdo a los tratados internacionales que México tenga en vigor, hayan transcurrido cinco años ininterrumpidos desde que el fideicomitente es propietario de los certificados enajenados y de que los certificados emitidos por el fideicomiso están colocados en dicha bolsa o mercados, y al menos un monto equivalente al 20% del total de las aportaciones realizadas al fideicomiso se encuentre colocado entre el gran público inversionista.
 
-VII. Las personas morales que tributen en los términos del Título II de esta Ley, acumularán a sus demás ingresos en el ejercicio, la parte de la utilidad fiscal que les corresponda en la operación del fideicomiso o, en su caso, deducirán la parte de la pérdida fiscal que les corresponda, con la información que para tales efectos les entregue la fiduciaria.
+IV. La institución fiduciaria no realizará pagos provisionales por concepto del impuesto sobre la renta e impuesto al activo, por las actividades realizadas por el fideicomiso.
 
-En el caso de que las personas morales a que se refiere esta fracción enajenen los certificados de participación que en su caso emita el fideicomiso, deberán considerar el ingreso que perciban por la enajenación, como proveniente de inversiones inmobiliarias y deberán calcular y pagar el impuesto correspondiente, aplicando lo dispuesto en el Título II de esta Ley.
+V. No se pagará el impuesto al activo por el valor del activo en el ejercicio correspondiente a las actividades realizadas por el fideicomiso, siempre que al menos un monto equivalente al 20% del total de las aportaciones realizadas al fideicomiso se encuentre colocado entre el gran público inversionista.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 223-A.
+
+Cuando en los artículos 223, 223-B, 223-C y 224 de esta Ley, se haga referencia a los certificados de participación, se entenderán comprendidos:
+
+I. Los derechos a recibir el provecho que el fideicomiso implica o una parte alícuota de los frutos o rendimientos de los valores, derechos o bienes de cualquier clase que tenga el fideicomiso.
+
+II. Los derechos a una parte alícuota del derecho de propiedad o de la titularidad de esos bienes, derechos o valores.
+
+III. Los derechos a una parte alícuota del producto neto que resulte de la venta de dichos bienes, derechos o valores.
+
+Cuando en los mismos artículos se haga referencia a los tenedores de los certificados de participación, se entenderán comprendidos los titulares de los derechos a que se refiere este artículo.
+
+Para los efectos de la fracción II del artículo 223 de esta Ley, cuando los fideicomitentes enajenen alguno de los derechos a que se refiere este artículo, considerarán como costo comprobado de adquisición, el valor de la aportación hecha al fideicomiso al momento en el que se otorgó el derecho que se enajene.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 223-B.
+
+La institución fiduciaria de los fideicomisos a que se refiere el artículo 224 de esta Ley, además de lo dispuesto en otras disposiciones fiscales, deberá:
+
+I. Determinar en los términos del Título II de esta Ley, el resultado fiscal del ejercicio por las actividades realizadas a través del fideicomiso y retener el impuesto del ejercicio a los tenedores de los certificados de participación, al momento de la distribución a que se refiere la fracción IV del artículo 224 de esta Ley, aplicando al resultado fiscal del ejercicio que les corresponda, la tasa del 28%. Cuando la retención se efectúe a una persona moral o a un residente en el extranjero, tendrá el carácter de pago definitivo.
+
+Además, cuando distribuya ingresos que no provengan de la cuenta de resultado fiduciario, deberá retener el impuesto, aplicando al monto distribuido, la tasa del 28%. Cuando la retención se efectúe a una persona moral o a un residente en el extranjero, tendrá el carácter de pago definitivo.
+
+Cuando los certificados de participación sean considerados como colocados entre el gran público inversionista, conforme a las reglas de carácter general que al efecto expida el Servicio de Administración Tributaria, los intermediarios financieros deberán efectuar las retenciones a que se refiere esta fracción.
+
+Las retenciones se deberán enterar a más tardar el día 17 del mes inmediato posterior a aquél en el que se efectúen.
+
+II. Llevar una cuenta de resultado fiduciario, aplicando las reglas y el procedimiento establecidos en el artículo 88 de esta Ley y considerando los conceptos siguientes:
+
+a) La utilidad fiscal neta será el resultado fiduciario neto de cada ejercicio. Para los efectos de este inciso, se considerará como resultado fiduciario neto del ejercicio, la cantidad que resulte de restar al resultado fiscal del ejercicio, el resultado fiscal distribuido en los términos de la fracción IV del artículo 224 de esta Ley sin que exceda de 28% y las partidas no deducibles a que se refiere el tercer párrafo del artículo 88 de la misma Ley.
+
+Cuando la suma del resultado fiscal distribuido en los términos de la fracción IV del artículo 224 de esta Ley sin que exceda de 28% y las partidas no deducibles a que se refiere el tercer párrafo del artículo 88 de la misma Ley, sea mayor al resultado fiscal del ejercicio del fideicomiso, la diferencia se disminuirá del saldo de la cuenta de resultado fiduciario que se tenga al final del ejercicio o, en su caso, del resultado fiduciario neto que se determine en los siguientes ejercicios hasta agotarlo. En este último caso, el monto que se disminuya se actualizará desde el último mes del ejercicio en el que se determinó y hasta el último mes del ejercicio en el que se disminuya.
+
+b) Los ingresos por dividendos percibidos serán los ingresos que se perciban de los fideicomisos a que se refiere el artículo 224 de esta Ley.
+
+c) Los dividendos o utilidades pagados será el resultado fiscal distribuido en los términos de la fracción IV del artículo 224 de esta Ley, que exceda de 28%.
+
+Los tenedores de los certificados de participación que sean personas morales, adicionarán a la cuenta de utilidad fiscal neta a que se refiere el artículo 88 de esta Ley, los ingresos que provengan de la cuenta de resultado fiduciario, y los considerarán como dividendos percibidos para los efectos de la cuenta de utilidad fiscal neta.
+
+La institución fiduciaria podrá optar por no llevar la cuenta a que se refiere esta fracción, siempre que distribuya la totalidad del resultado fiscal de cada ejercicio durante el mismo ejercicio y los dos meses siguientes al término de éste, a cuenta de dicho resultado. Cuando en algún ejercicio no se distribuya la totalidad del resultado fiscal, a partir de dicho ejercicio, la institución fiduciaria deberá llevar la cuenta de resultado fiduciario.
+
+III. Presentar la información y proporcionar las constancias, a través de los medios, formatos electrónicos y plazos, que el Servicio de Administración Tributaria establezca mediante reglas de carácter general.
+
+La institución fiduciaria o los intermediarios financieros, según corresponda, no efectuarán la retención a que se refiere el primer párrafo de la fracción I de este artículo, a los fondos de pensiones y jubilaciones a que se refieren los artículos 33 y 179 de esta Ley, siempre que los mismos fondos sean los beneficiarios efectivos del resultado fiscal distribuido, por la parte que corresponda a la proporción de la tenencia promedio diaria de certificados que dichos fondos tengan del fideicomiso de que se trate en el ejercicio que corresponda o a la proporción que represente la tenencia de certificados que tengan al término del mismo ejercicio en relación con el total de aportaciones realizadas al fideicomiso a dicha fecha, la que resulte menor. La tenencia promedio diaria de certificados se calculará dividiendo la suma de la proporción diaria que representen los certificados propiedad del fondo respecto del monto total de las aportaciones realizadas al fideicomiso, entre el número de días del ejercicio.
+
+La institución fiduciaria o los intermediarios financieros, según corresponda, tampoco efectuarán la retención a que se refiere el segundo párrafo de la fracción I de este artículo, cuando efectúen la distribución del resultado fiscal a los fondos a que se refiere el párrafo anterior, siempre que los mismos fondos sean los beneficiarios efectivos del resultado fiscal distribuido, por la parte que corresponda a la proporción de la tenencia promedio diaria de certificados que dichos fondos tengan del mismo fideicomiso, o a la proporción que represente la tenencia de certificados que tengan a la fecha de distribución en relación con el total de aportaciones realizadas al fideicomiso a dicha fecha, la que resulte menor.
+
+Para los efectos del párrafo anterior, la tenencia promedio diaria de los certificados tratándose de la primera distribución del ejercicio, se calculará dividiendo la suma de la proporción diaria que representen los certificados propiedad del fondo respecto del monto total de las aportaciones realizadas al fideicomiso, desde el inicio del ejercicio y hasta la fecha de la distribución, entre el número de días transcurridos desde el inicio del ejercicio y hasta la fecha de distribución del resultado fiscal. En distribuciones posteriores, la tenencia promedio diaria de los certificados se calculará dividendo la suma de la proporción diaria que representen los certificados propiedad de los citados fondos respecto del monto total de las aportaciones realizadas al fideicomiso, desde el día inmediato posterior al de la última distribución y hasta la fecha de la distribución de que se trate, entre el número de días transcurridos desde el día inmediato posterior al de la última distribución y hasta la fecha de la distribución de que se trate.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 223-C.
+
+Los tenedores de los certificados de participación a que se refiere este artículo, por las actividades que realicen a través de los fideicomisos a que se refiere el artículo 224 de esta Ley, únicamente deberán cumplir con las siguientes obligaciones:
+
+I. Tratándose de personas físicas residentes en México:
+
+a) Acumular el resultado fiscal del ejercicio que les corresponda, así como los ingresos que no provengan de la cuenta de resultado fiduciario, y acreditar el impuesto retenido en los términos del artículo 223-B de esta Ley.
+
+b) Proporcionar a la institución fiduciaria o a los intermediarios financieros, según corresponda, la información que el Servicio de Administración Tributaria establezca mediante reglas de carácter general.
+
+c) En su caso, solicitar su inscripción en el Registro Federal de Contribuyentes y presentar los avisos correspondientes, en los términos del artículo 27 del Código Fiscal de la Federación, salvo el aviso de aumento o disminución de obligaciones, por los ingresos a que se refiere el inciso a) de esta fracción.
+
+d) Presentar la declaración anual a que se refiere el Capítulo XI del Título IV de esta Ley.
+
+II. Tratándose de residentes en el extranjero:
+
+a) Proporcionar a la institución fiduciaria o a los intermediarios financieros, según corresponda, la información que el Servicio de Administración Tributaria establezca mediante reglas de carácter general.
+
+b) Los fondos de pensiones y jubilaciones a que se refiere el artículo 179 de esta Ley, deberán inscribirse en el Registro de Bancos, Entidades de Financiamiento, Fondos de Pensiones y Jubilaciones y Fondos de Inversión del Extranjero.
+
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 224.
 
-Los fideicomisos a que se refiere el artículo anterior, deberán cumplir con los siguientes requisitos:
+Para aplicar lo dispuesto en los artículos 223, 223-A, 223-B y 223-C, los fideicomisos deberán cumplir con los siguientes requisitos:
 
 I. Estar constituidos de conformidad con las leyes mexicanas.
 
-II. Que su objeto sea la construcción o adquisición de inmuebles que se destinen a su enajenación o la concesión del uso o goce, así como la adquisición del derecho para percibir ingresos por otorgar dicho uso o goce.
+II. Que su fin sea la adquisición o la construcción de bienes inmuebles que se destinen al arrendamiento y la enajenación posterior de ellos después de haber sido otorgados en arrendamiento por un periodo de al menos un año antes de su enajenación, así como la adquisición de derechos de percibir ingresos provenientes del arrendamiento de bienes inmuebles.
 
-III. Que el patrimonio del fideicomiso se invierta cuando menos en el 70%, en el objeto a que se refiere la fracción anterior y el remanente en valores a cargo del Gobierno Federal inscritos en el Registro Nacional de Valores e Intermediarios o en acciones de sociedades de inversión en instrumentos de deuda.
+III. Destinar su patrimonio cuando menos en un 70% al fin a que se refiere la fracción anterior y el remanente a la adquisición de valores a cargo del Gobierno Federal inscritos en el Registro Nacional de Valores e Intermediarios o de acciones de sociedades de inversión en instrumentos de deuda.
 
-IV. Que se cumplan los requisitos de información que mediante reglas de carácter general establezca el Servicio de Administración Tributaria.
+IV. Distribuir a los tenedores de los certificados de participación, dentro de los dos meses siguientes al término del ejercicio, cuando menos y a cuenta del resultado fiscal del mismo ejercicio, determinado en los términos del Título II de esta Ley, la cantidad que resulte de aplicar a dicho resultado, la tasa del 28%.
+
+V. Tratándose de fideicomisos cuyos certificados de participación no se encuentren colocados entre el gran público inversionista, deberán tener al menos diez tenedores, y cada uno de ellos no podrá tener una participación mayor al 20% del monto total de las aportaciones al fideicomiso.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 224-A.
+
+Las sociedades mercantiles que tributen en los términos del Título II de esta Ley y cumplan con los requisitos a que se refieren las fracciones I, II y III del artículo 224 de la misma Ley, podrán aplicar lo siguiente:
+
+I. Los accionistas que aporten bienes inmuebles a la sociedad, acumularán la ganancia por la enajenación de los bienes aportados, cuando se de cualquiera de los siguientes supuestos:
+
+a) Enajenen las acciones de dicha sociedad, en la proporción que dichas acciones representen del total de las acciones que recibió el accionista por la aportación del inmueble a la sociedad, siempre que no se hubiera acumulado dicha ganancia previamente.
+
+b) La sociedad enajene los bienes aportados, en la proporción que la parte que se enajene represente de los mismos bienes, siempre que no se hubiera acumulado dicha ganancia previamente.
+
+La ganancia que se acumule se actualizará desde el mes en el que se obtuvo y hasta el mes en el que se acumule.
+
+II. No realizarán pagos provisionales por concepto de los impuestos sobre la renta y al activo.
+
+III. Cuando tengan accionistas que sean fondos de pensiones y jubilaciones a los que se refieren los artículos 33 y 179 de esta Ley, deberán entregar a dichos fondos, dentro de los dos meses siguientes al término del ejercicio, un crédito fiscal por un monto equivalente al resultado de multiplicar el impuesto del ejercicio por la participación accionaria promedio diaria que los fondos tuvieron en el mismo ejercicio o por la participación accionaria al término del ejercicio, la que resulte menor.
+
+La participación accionaria promedio diaria a que se refiere el primer párrafo de esta fracción, se calculará dividiendo la suma de la participación accionaria diaria que representen las acciones propiedad del fondo respecto del capital social, entre el número de días del ejercicio.
+
+La sociedad podrá acreditar el crédito fiscal que haya entregado en los términos del primer párrafo, contra el impuesto del ejercicio de que se trate. Dicha cantidad se considerará como impuesto pagado para los efectos del artículo 88 de esta Ley.
+
+Las sociedades mercantiles a que se refiere este artículo deberán cumplir con los requisitos de información que el Servicio de Administración Tributaria establezca mediante reglas de carácter general.
 
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -7001,3 +7169,29 @@ Artículo Segundo.- Para los efectos del tercero y cuarto párrafos de la fracci
 Artículo Tercero.- Las sociedades cooperativas de producción que distribuyan anticipos o rendimientos a sus miembros en los términos de la fracción XI del artículo 29 de la Ley del Impuesto Sobre la Renta, para los efectos del artículo 9o. de la Ley del Impuesto al Activo, podrán considerar el impuesto sobre la renta que hubieren retenido por dichos conceptos conforme a lo dispuesto en el Capítulo I del Título IV de la Ley mencionada, como impuesto sobre la renta correspondiente a la sociedad cooperativa de que se trate.
 
 Asimismo, las sociedades cooperativas de producción, para los efectos del acreditamiento a que se refiere el artículo 9o. de la Ley del Impuesto al Activo, será el que se determine conforme a lo dispuesto en la fracción I, del artículo 85-A de la Ley del Impuesto Sobre la Renta.
+
+D.O.F. 23 DE DICIEMBRE DE 2005.
+
+Disposiciones de Vigencia Anual de la Ley del Impuesto sobre la Renta
+
+###### ARTÍCULO SEGUNDO.
+
+Para los efectos de lo dispuesto en la Ley del Impuesto sobre la Renta, se aplicarán las siguientes disposiciones:
+
+I. Para los efectos de lo dispuesto en la fracción I, inciso a), numeral 2, del artículo 195 de la Ley del Impuesto sobre la Renta, durante el ejercicio de 2006, los intereses a que hace referencia dicha fracción podrán estar sujetos a una tasa del 4.9%, siempre que el beneficiario efectivo de los intereses mencionados en este artículo sea residente de un país con el que se encuentre en vigor un tratado para evitar la doble tributación y se cumplan los requisitos previstos en dicho tratado para aplicar las tasas que en el mismo se prevean para este tipo de intereses.
+
+II. Para los efectos de los artículos 223-B, fracciones I y II, incisos a) y c), y 224, fracción IV, de la Ley del Impuesto sobre la Renta, durante el ejercicio fiscal de 2006 se aplicará la tasa del 29%.
+
+III. Para el ejercicio fiscal de 2006, en lugar de aplicar los por cientos de deducción y la tabla a que se refieren los artículos 220 y 221 de la Ley del Impuesto sobre la Renta, se aplicarán los por cientos y la tabla contenidos en el Decreto por el que se otorga un Estímulo Fiscal en Materia de Deducción Inmediata de Bienes Nuevos de Activo Fijo, publicado en el Diario Oficial de la Federación el 20 de junio de 2003.
+
+IV. Para determinar los intereses a que se refiere el primer párrafo de la fracción XXVI del artículo 32 de la Ley del Impuesto sobre la Renta, correspondientes al ejercicio fiscal de 2005, los contribuyentes podrán optar por aplicar lo dispuesto en la fracción XXVI del artículo 32 y en el tercer párrafo del artículo 48 de la Ley del Impuesto sobre la Renta vigente a partir del 1 de enero de 2006.
+
+Disposiciones Transitorias de (sic) Ley del Impuesto sobre la Renta
+
+###### ARTÍCULO TERCERO.
+
+Lo dispuesto en la fracción XVIII del Artículo Segundo de las Disposiciones Transitorias de la Ley del Impuesto sobre la Renta del Decreto por el que se establecen, reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto sobre la Renta y del Impuesto sustitutivo del Crédito al Salario, publicada en el Diario Oficial de la Federación el 30 de diciembre de 2002, será aplicable hasta el ejercicio fiscal de 2011, siempre que la empresa maquiladora bajo el programa de albergue informe, a más tardar en el mes de febrero de cada año, el importe de los ingresos acumulables y del impuesto pagado por su parte relacionada correspondientes al ejercicio inmediato anterior.
+
+## TRANSITORIO
+
+ÚNICO. El presente Decreto entrará en vigor el 1o. de enero de 2006.
