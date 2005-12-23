@@ -4,7 +4,7 @@ identifier: "LIEPS"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "2004-12-01"
+last_updated: "2005-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=447&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIEPS"
 
 LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 2005.
 
 Ley publicada en la Tercera Sección del Diario Oficial de la Federación, el martes 30 de diciembre de 1980.
 
@@ -54,7 +54,9 @@ I. La enajenación en territorio nacional o, en su caso, la importación, defini
 
 II. La prestación de los servicios señalados en esta Ley.
 
-El impuesto se calculará aplicando a los valores a que se refiere este ordenamiento, la tasa que para cada bien o servicio establece el artículo 2o. del mismo.
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
+
+El impuesto se calculará aplicando a los valores a que se refiere este ordenamiento, la tasa que para cada bien o servicio establece el artículo 2o. del mismo o, en su caso, la cuota establecida en esta Ley.
 
 La Federación, el Distrito Federal, los Estados, los Municipios, los organismos descentralizados o cualquier otra persona, aunque conforme a otras leyes o decretos no causen impuestos federales o estén exentos de ellos, deberán aceptar la traslación del impuesto especial sobre producción y servicios y, en su caso, pagarlo y trasladarlo, de acuerdo con los preceptos de esta Ley.
 
@@ -184,9 +186,17 @@ La Secretaría de Hacienda y Crédito Público, mediante reglas de carácter gen
 
 La tasa aplicable para la importación de gasolinas o diesel será la menor de las que resulten para la enajenación del combustible de que se trate en los términos del artículo 2o-A de esta Ley, vigente en el mes en que se realice la importación.
 
-###### ARTICULO 2o-C.
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
 
-(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 2002)
+###### ARTICULO 2o.-C.
+
+Para los efectos del artículo 2o., fracción I, inciso A) de esta Ley, los fabricantes, productores o envasadores de cerveza, que la enajenen y quienes la importen, pagarán el impuesto que resulte mayor entre aplicar la tasa prevista en dicho inciso al valor de la enajenación o importación de cerveza, según se trate, y aplicar una cuota de $3.00 por litro enajenado o importado de cerveza, disminuida, en los casos que proceda, con el monto a que se refiere el siguiente párrafo. En estos casos, el impuesto no podrá ser menor al que resulte de aplicar la tasa prevista en el citado inciso a la enajenación o importación de cerveza.
+
+Los fabricantes, productores, envasadores o importadores de cerveza, podrán disminuir de la cuota de $3.00 por litro a que se refiere el párrafo anterior, $1.26 por litro de cerveza enajenado o importado en envases reutilizados en los términos de esta Ley. El monto de $1.26 por litro en ningún caso podrá disminuirse del impuesto que resulte de aplicar a las actividades gravadas, la tasa prevista en dicho inciso. Los citados fabricantes, productores o envasadores, deberán trasladar el importe mayor que resulte conforme a lo dispuesto en este artículo.
+
+Para los efectos del párrafo anterior, cuando se enajene o importe cerveza en envases reutilizados, la capacidad total de los envases deberá considerarse en litros.
+
+Si los litros correspondientes a exportaciones de los envases reutilizados en el mes son mayores que el total de los litros de cerveza importados en el mismo mes, la diferencia se considerará en los siguientes meses, hasta agotarse, como importaciones realizadas en envases reutilizados.
 
 ###### ARTICULO 2o.-D.
 
@@ -208,9 +218,9 @@ II. Cerveza, la bebida fermentada, elaborada con malta de cebada, lúpulo, levad
 
 III. Bebidas alcohólicas a granel, las que se encuentren envasadas en recipientes cuya capacidad exceda a 5,000 mililitros.
 
-> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
 
-IV. Marbete, el signo distintivo de control fiscal y sanitario, que se adhiere a los envases que contengan bebidas alcohólicas con capacidad que no exceda de 5,000 mililitros y que se incorpora a las cajetillas que contengan cigarros.
+IV. Marbete, el signo distintivo de control fiscal y sanitario, que se adhiere a los envases que contengan bebidas alcohólicas con capacidad que no exceda de 5,000 mililitros.
 
 > <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -232,7 +242,11 @@ IX. Gasolina, combustible líquido y transparente obtenido como producto purific
 
 X. Diesel, combustible líquido derivado del petróleo crudo que se obtiene por procedimientos de destilación y conversión.
 
-XI. (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 2002)
+> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
+
+XI. Envases reutilizados, aquellos que ya fueron usados para envasar y comercializar cerveza, recolectados y sometidos a un proceso que permite recuperar sus características sanitarias originales para que sean utilizados nuevamente para envasar y comercializar el mismo tipo de producto, sin que este proceso en ningún caso implique que el envase está sujeto a procesos industriales de transformación.
+
+Tratándose de los importadores, se considerarán como envases reutilizados los que hayan recolectado y exporten al extranjero amparados con el documento aduanal correspondiente, siempre que se trate de envases que cumplan con las características a que se refiere el párrafo anterior.
 
 XII. Contraprestación, el precio pactado, adicionado con las cantidades que además se carguen o cobren al adquirente del bien o al prestatario del servicio por intereses normales o moratorios, penas convencionales o cualquier otro concepto distinto de impuestos. A falta de precio pactado o cuando éste se determine en cantidad "cero" se estará al valor que los bienes o servicios tengan en el mercado, o en su defecto al de avalúo.
 
@@ -280,9 +294,9 @@ Los contribuyentes a que se refiere esta Ley, pagarán el impuesto a su cargo, s
 
 Las personas físicas y morales que adquieran alcohol, alcohol desnaturalizado y mieles incristalizables, así como los importadores de dichos bienes, podrán acreditar el impuesto pagado por la enajenación o importación de los mismos, contra el que causen por la enajenación de bebidas alcohólicas. Cuando los bienes antes citados sean utilizados para la elaboración de productos distintos a las bebidas alcohólicas, podrán acreditarlo contra el impuesto sobre la renta que resulte a su cargo.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
 
-El acreditamiento consiste en restar el impuesto acreditable, de la cantidad que resulte de aplicar a los valores señalados en esta Ley, las tasas a que se refiere la fracción I, incisos A), G) y H) del artículo 2o. de la misma. Se entiende por impuesto acreditable, un monto equivalente al del impuesto especial sobre producción y servicios efectivamente trasladado al contribuyente o el propio impuesto que él hubiese pagado con motivo de la importación, exclusivamente en los supuestos a que se refiere el párrafo anterior, en el mes al que corresponda.
+El acreditamiento consiste en restar el impuesto acreditable, de la cantidad que resulte de aplicar a los valores señalados en esta Ley, las tasas a que se refiere la fracción I, incisos A), G) y H) del artículo 2o. de la misma, o de la que resulte de aplicar la cuota a que se refiere el artículo 2o.-C de esta Ley. Se entiende por impuesto acreditable, un monto equivalente al del impuesto especial sobre producción y servicios efectivamente trasladado al contribuyente o el propio impuesto que él hubiese pagado con motivo de la importación, exclusivamente en los supuestos a que se refiere el segundo párrafo de este artículo, en el mes al que corresponda.
 
 Para que sea acreditable el impuesto especial sobre producción y servicios en términos de los párrafos que anteceden, deberán reunirse los siguientes requisitos:
 
@@ -325,6 +339,10 @@ El derecho al acreditamiento es personal para los contribuyentes de este impuest
 El impuesto se calculará mensualmente y se pagará a más tardar el día 17 del mes siguiente a aquél al que corresponda el pago, excepto en el caso de importaciones de bienes en el que se estará a lo dispuesto en los artículos 15 y 16 de esta Ley, según se trate. Los pagos mensuales se realizarán en los términos que al efecto se establezcan en esta Ley y tendrán el carácter de definitivos.
 
 El pago mensual será la diferencia que resulte de restar a la cantidad que se obtenga de aplicar la tasa que corresponda en los términos del artículo 2o. de esta Ley a las contraprestaciones efectivamente percibidas en el mes de que se trate, por la enajenación de bienes o la prestación de servicios gravados por esta Ley; el impuesto pagado en el mismo mes por la importación de dichos bienes, así como el impuesto que resulte acreditable en el mes de que se trate de conformidad con el artículo 4o. de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
+
+Tratándose de fabricantes, productores o envasadores de cerveza, en lugar de considerar la cantidad que se obtenga de aplicar la tasa que corresponda en los términos del artículo 2o. de esta Ley a las contraprestaciones efectivamente percibidas en el mes de que se trate, por la enajenación de cerveza, se considerarán las cantidades que resulten de aplicar el artículo 2o.-C de esta Ley.
 
 Cuando en la declaración de pago mensual resulte saldo a favor, el contribuyente únicamente podrá compensarlo contra el impuesto a su cargo que le corresponda en los pagos mensuales siguientes hasta agotarlo.
 
@@ -428,11 +446,11 @@ B (SIC).- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1998)
 
 Para los efectos de esta Ley, se entiende que la enajenación se efectúa en territorio nacional, si en él se encuentra el bien al efectuarse el envío al adquirente, o cuando no habiendo envío, se realiza en el país la entrega material del bien por el enajenante.
 
-> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 10.
 
-En la enajenación de los bienes a que se refiere esta Ley, el impuesto se causa en el momento en el que se cobren las contraprestaciones y sobre el monto de lo cobrado. Cuando las contraprestaciones se cobren parcialmente, el impuesto se calculará aplicando a la parte de la contraprestación efectivamente percibida, la tasa que corresponda en términos del artículo 2o. de esta Ley.
+En la enajenación de los bienes a que se refiere esta Ley, el impuesto se causa en el momento en el que se cobren las contraprestaciones y sobre el monto de lo cobrado. Cuando las contraprestaciones se cobren parcialmente, el impuesto se calculará aplicando a la parte de la contraprestación efectivamente percibida, la tasa que corresponda en términos del artículo 2o. de esta Ley. Por las enajenaciones de cerveza en las que el impuesto se pague aplicando la cuota a que se refiere el artículo 2o.-C de esta Ley, el impuesto se calculará por los litros que hayan sido pagados con el monto de las contraprestaciones efectivamente percibidas.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -445,6 +463,10 @@ Para calcular el impuesto tratándose de enajenaciones, se considerará como val
 Los productores o importadores de cigarros, para calcular el impuesto por la enajenación de esos bienes en territorio nacional, considerarán como valor de los mismos el precio de venta al detallista. Los fabricantes, productores o importadores de puros y otros tabacos labrados, para calcular el impuesto por la enajenación de esos bienes en territorio nacional, considerarán como valor de los mismos la contraprestación pactada. Tratándose de la enajenación de los combustibles a que se refieren los incisos D) y E) de la fracción I del artículo 2o. de esta Ley, los productores o importadores, para calcular el impuesto por la enajenación de esos bienes, considerarán como valor el precio a que se refiere la fracción I del artículo 2o.-A de esta Ley.
 
 El impuesto a que se refiere el párrafo anterior, no se pagará por las enajenaciones subsecuentes, no procediendo en ningún caso el acreditamiento o la devolución del impuesto por dichas enajenaciones.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
+
+Por las enajenaciones de cerveza en las que el impuesto se pague aplicando la cuota a que se refiere el artículo 2o.-C de esta Ley, los contribuyentes calcularán el impuesto sobre el total de litros enajenados.
 
 ### CAPITULO III. De la Importación de Bienes
 
@@ -498,9 +520,9 @@ VI.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1982)
 
 Para calcular el impuesto tratándose de importación de bienes, se considerará el valor que se utilice para los fines del impuesto general de importación, adicionado con el monto de las contribuciones y aprovechamientos que se tengan que pagar con motivo de la importación, a excepción del impuesto al valor agregado.
 
-> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
 
-Tratándose de bienes por cuya importación se pague el impuesto general de importación a una tasa menor a la general vigente, el impuesto a que se refiere esta Ley, será el que se determine conforme a lo previsto en el primer párrafo de este artículo, considerando el impuesto general de importación que se hubiera tenido que pagar de haberse aplicado la tasa general referida.
+Por las importaciones de cerveza en las que el impuesto se pague aplicando la cuota a que se refiere el artículo 2o.-C de esta Ley, los contribuyentes calcularán el impuesto sobre el total de litros importados afectos a la citada cuota.
 
 > <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -538,7 +560,9 @@ Para calcular el impuesto en la prestación de servicios, se considerará como v
 
 Los contribuyentes a que se refiere esta Ley tienen, además de las obligaciones señaladas en otros artículos de la misma y en las demás disposiciones fiscales, las siguientes:
 
-I. Llevar contabilidad de conformidad con el Código Fiscal de la Federación, su Reglamento y el Reglamento de esta Ley, y efectuar conforme a este último la separación de las operaciones, desglosadas por tasas.
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
+
+I. Llevar contabilidad de conformidad con el Código Fiscal de la Federación, su Reglamento y el Reglamento de esta Ley, y efectuar conforme a este último la separación de las operaciones, desglosadas por tasas. Asimismo, se deberán identificar las operaciones en las que se pague el impuesto mediante la aplicación de la cuota prevista en el artículo 2o.-C de esta Ley.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -560,17 +584,19 @@ IV. Los productores e importadores de cigarros, deberán registrar ante las auto
 
 Asimismo, se deberá informar a las autoridades fiscales cuando exista alguna modificación en los precios, debiendo presentar a las citadas autoridades, dentro de los 5 días siguientes a que esto ocurra, la lista de precios de venta que estará vigente a partir del momento de la modificación.
 
-> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
 
-V. Los contribuyentes deberán adherir marbetes a los envases que contengan bebidas alcohólicas, inmediatamente después de su envasamiento. Tratándose de bebidas alcohólicas a granel, se deberán adherir precintos a los recipientes que las contengan, cuando las mismas se encuentren en tránsito o transporte. Tratándose de cigarros, deberán incorporar marbetes en las cajetillas antes de su empaquetado. No será aplicable lo dispuesto en este párrafo tratándose de bebidas alcohólicas envasadas y de cajetillas de cigarros empaquetadas que se destinen a la exportación, siempre que se cumplan con las reglas de carácter general que al efecto se señalen en el Reglamento de esta Ley.
+V. Los contribuyentes deberán adherir marbetes a los envases que contengan bebidas alcohólicas, inmediatamente después de su envasamiento. Tratándose de bebidas alcohólicas a granel, se deberán adherir precintos a los recipientes que las contengan, cuando las mismas se encuentren en tránsito o transporte. No será aplicable lo dispuesto en este párrafo tratándose de bebidas alcohólicas envasadas que se destinen a la exportación, siempre que se cumplan con las reglas de carácter general que al efecto se señalen en el Reglamento de esta Ley.
 
-Quienes importen bebidas alcohólicas o cigarros y estén obligados al pago del impuesto en términos de esta Ley, deberán colocar los marbetes o precintos a que se refiere esta fracción previamente a la internación en territorio nacional de los productos o, en su defecto, tratándose de marbetes, en la aduana, almacén general de depósito o recinto fiscal o fiscalizado, autorizados por la Secretaría de Hacienda y Crédito Público. No podrán retirarse los productos de los lugares antes indicados sin que se haya cumplido con la obligación señalada.
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
+
+Quienes importen bebidas alcohólicas y estén obligados al pago del impuesto en términos de esta Ley, deberán colocar los marbetes o precintos a que se refiere esta fracción previamente a la internación en territorio nacional de los productos o, en su defecto, tratándose de marbetes, en la aduana, almacén general de depósito o recinto fiscal o fiscalizado, autorizados por la Secretaría de Hacienda y Crédito Público. No podrán retirarse los productos de los lugares antes indicados sin que se haya cumplido con la obligación señalada.
 
 El marbete para bebidas alcohólicas podrá colocarse en el cuello de la botella, abarcando la tapa y parte del propio envase. En los casos en que por la forma de la tapa no sea posible adherir el marbete en el cuello de la botella, éste podrá colocarse en la etiqueta frontal del envase, abarcando parte de la etiqueta y parte del propio envase, previa autorización de la autoridad fiscal.
 
 Para los casos de vinos de mesa de hasta 14° GL podrán adherir el marbete en el cuello de la botella o en la etiqueta frontal del envase, abarcando parte de la etiqueta y del propio envase.
 
-El marbete para cigarros deberá ser colocado en la cajetilla de forma tal que una vez abierta se rompa o inutilice dicho marbete y que el consumidor pueda observar que el producto es de legal procedencia.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
 
 VI. Proporcionar a las autoridades fiscales durante el mes de marzo de cada año, la información que corresponda de los bienes que produjeron, enajenaron o importaron en el año inmediato anterior, respecto de su consumo por entidad federativa e impuesto correspondiente, así como de los servicios prestados por establecimiento en cada entidad federativa. Para los efectos de esta fracción, se considera que los bienes se consumen en el lugar en el que se hace la entrega material del producto, de acuerdo con el comprobante de enajenación.
 
@@ -618,9 +644,9 @@ Los contribuyentes que enajenen vinos de mesa, deberán cumplir con la obligaci�
 
 XIV. Los fabricantes, productores, envasadores e importadores, de alcohol, alcohol desnaturalizado, mieles incristalizables y de bebidas alcohólicas, deberán estar inscritos en el Padrón de Contribuyentes de Bebidas Alcohólicas, a cargo de la Secretaría de Hacienda y Crédito Público. Asimismo, los fabricantes, productores, envasadores e importadores, de bebidas alcohólicas, deberán cumplir con esta obligación para poder solicitar marbetes y precintos, según se trate, debiendo cumplir con las disposiciones del Reglamento de esta Ley.
 
-> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
 
-XV. Los productores, envasadores e importadores, de bebidas alcohólicas y de cigarros, según sea el caso, estarán obligados a presentar a la Secretaría de Hacienda y Crédito Público, trimestralmente, en los meses de abril, julio, octubre y enero, del año que corresponda, un informe de los números de folio de marbetes y precintos, según corresponda, obtenidos, generados, utilizados, destruidos, e inutilizados durante el trimestre inmediato anterior.
+XV. Los productores, envasadores e importadores, de bebidas alcohólicas, estarán obligados a presentar a la Secretaría de Hacienda y Crédito Público, trimestralmente, en los meses de abril, julio, octubre y enero, del año que corresponda, un informe de los números de folio de marbetes y precintos, según corresponda, obtenidos, generados, utilizados, destruidos, e inutilizados durante el trimestre inmediato anterior.
 
 XVI. Los productores o envasadores de los bienes a que se refiere el numeral 3 del inciso A) de la fracción I del artículo 2o. de esta Ley, estarán obligados a llevar un control volumétrico de producción y presentar a la Secretaría de Hacienda y Crédito Público, trimestralmente, en los meses de abril, julio, octubre y enero, del año que corresponda, un informe que contenga el número de litros producidos de conformidad con el citado control, del trimestre inmediato anterior a la fecha en que se informa.
 
@@ -631,6 +657,22 @@ XVIII. Los contribuyentes a que hace referencia esta Ley, que enajenen al públi
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 XIX. Los importadores de los bienes a que se refiere el inciso B) de la fracción I del artículo 2o. de esta Ley, que no elaboren bebidas alcohólicas, deberán estar inscritos en el Padrón de Importadores de Alcohol, Alcohol Desnaturalizado y Mieles Incristalizables que no Elaboran Bebidas Alcohólicas, a cargo de la Secretaría de Hacienda y Crédito Público.
+
+> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
+
+XX. Los fabricantes, productores o envasadores de cerveza que apliquen la disminución del monto a que se refiere el artículo 2o.-C, segundo párrafo de esta Ley, deberán presentar a las autoridades fiscales, a través de los medios, formatos electrónicos y plazos que señale el Servicio de Administración Tributaria, mediante reglas de carácter general, un informe en el que manifiesten el total de litros de cerveza enajenados y la capacidad en litros del total de los envases reutilizados de cerveza enajenados, en cada uno de los meses del ejercicio inmediato anterior.
+
+Los importadores de cerveza que apliquen la disminución del monto a que se refiere el artículo 2o.-C, segundo párrafo de esta Ley, deberán presentar a las autoridades fiscales, a través de los medios, formatos electrónicos y plazos que señale el Servicio de Administración Tributaria, mediante reglas de carácter general, un informe en el que manifiesten el total de litros de cerveza importados en cada uno de los meses del ejercicio inmediato anterior, así como la capacidad en litros del total de los envases de cerveza exportados en cada uno de los meses del citado ejercicio inmediato anterior.
+
+> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
+
+XXI. Los fabricantes, productores o envasadores de cerveza que apliquen la disminución del monto a que se refiere el artículo 2o.-C, segundo párrafo de esta Ley, estarán obligados a llevar un registro del total de litros de cerveza enajenados y de la capacidad en litros del total de los envases reutilizados de cerveza enajenados, en cada mes. Los importadores de cerveza que apliquen la disminución antes mencionada estarán obligados a llevar un registro del total de litros de cerveza importados en cada mes y de la capacidad en litros del total de envases de cerveza exportados en cada mes.
+
+Los registros a que se refiere el párrafo anterior deberán contener clasificaciones por presentación, capacidad medida en litros y separar los litros de cerveza por los que deba pagarse el impuesto conforme a la tasa prevista en el artículo 2o., fracción I, inciso A) de esta Ley, de aquellos por los que deba pagarse la cuota a que se refiere el artículo 2o.-C de la misma, así como la demás información que para el efecto establezca el Servicio de Administración Tributaria mediante reglas de carácter general.
+
+Los importadores de cerveza que apliquen la disminución del monto a que se refiere el artículo 2o.-C, segundo párrafo de esta Ley, deberán llevar una cuenta de control que adicionarán con las exportaciones de envases de cerveza recolectados y se disminuirá con las importaciones de cerveza por las que se haya aplicado el citado monto. La referida cuenta de control deberá estar clasificada por las distintas presentaciones de los envases, señalando su capacidad medida en litros.
+
+Cuando los contribuyentes no cumplan con los registros establecidos en esta fracción, dichos registros sean falsos o no se cuente con la documentación soporte de los mismos, no se tendrá derecho a la disminución prevista en el artículo 2o.-C de esta Ley.
 
 ###### ARTICULO 20.
 
@@ -682,13 +724,13 @@ Las autoridades fiscales podrán determinar presuntivamente el número de litros
 
 El impuesto que resulte de la determinación presuntiva a que se refiere el párrafo anterior, se adicionará al impuesto determinado a cargo del contribuyente con motivo del incumplimiento a lo dispuesto por el artículo 8o. de esta Ley, en relación con el artículo 19 de la misma.
 
-> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
 
-###### Artículo 23-B.
+###### ARTICULO 23-B.
 
-Se presume que las bebidas alcohólicas o cajetillas de cigarros que no tengan adherido el marbete o precinto correspondiente y que se encuentren fuera de los almacenes, bodegas o cualesquiera otro lugar propiedad o no del contribuyente o de los recintos fiscales o fiscalizados, fueron enajenados y efectivamente cobradas las contraprestaciones o importados, en el mes en que se encuentren dichos bienes al poseedor o tenedor de los mismos, y que el impuesto respectivo no fue declarado. Para tales efectos, se considerará como precio de enajenación, el precio promedio de venta al público en el mes inmediato anterior a aquél en el que dichos bienes sean encontrados.
+Se presume que las bebidas alcohólicas que no tengan adherido el marbete o precinto correspondiente y que se encuentren fuera de los almacenes, bodegas o cualesquiera otro lugar propiedad o no del contribuyente o de los recintos fiscales o fiscalizados, fueron enajenados y efectivamente cobradas las contraprestaciones o importados, en el mes en que se encuentren dichos bienes al poseedor o tenedor de los mismos, y que el impuesto respectivo no fue declarado. Para tales efectos, se considerará como precio de enajenación, el precio promedio de venta al público en el mes inmediato anterior a aquél en el que dichos bienes sean encontrados.
 
-Lo dispuesto en el párrafo anterior no será aplicable respecto de las bebidas alcohólicas o cajetillas de cigarros destinadas a la exportación por las que no se esté obligado al pago de este impuesto, que se encuentren en tránsito hacia la aduana correspondiente, siempre que dichos bienes lleven adheridos etiquetas o contraetiquetas que contengan los datos de identificación del importador en el extranjero.
+Lo dispuesto en el párrafo anterior no será aplicable respecto de las bebidas alcohólicas destinadas a la exportación por las que no se esté obligado al pago de este impuesto, que se encuentren en tránsito hacia la aduana correspondiente, siempre que dichos bienes lleven adheridos etiquetas o contraetiquetas que contengan los datos de identificación del importador en el extranjero.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -792,7 +834,7 @@ La Secretaría de Hacienda y Crédito Público cubrirá directamente las cantida
 
 Los Estados que no se adhieran al Sistema Nacional de Coordinación Fiscal, podrán gravar la producción, acopio o venta de tabaco en rama con impuestos locales o municipales que en conjunto no excederán de un peso cincuenta y cinco centavos por kilo, que sólo podrán decretar las entidades en que aquél se cultive
 
-## ARTÍCULOS TRANSITORIOS
+## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
 
@@ -874,7 +916,7 @@ ARTICULO DECIMOSEGUNDO.- Durante 1981, los contribuyentes del impuesto estableci
 
 ARTICULO DECIMOTERCERO.- En tanto el precio al público en el Distrito Federal, incluyendo impuesto de la gasolina NOVA no exceda de $2.80, los contribuyentes de toda la República obligados al pago del impuesto por este concepto, en vez de efectuar pagos provisionales semanales, los harán quincenalmente, a más tardar los días 20 y 5o. de cada mes, o al siguiente día hábil, si aquéllos no lo fueran, respecto de las ventas realizadas en la quincena anterior, mediante declaración que presentarán en las oficinas autorizadas.
 
-Mientras los pagos provisionales sean quincenales, las autoridades fiscales podrán presumir, salvo prueba en contrario, que los volúmenes de gasolina informados por Petróleos Mexicanos en los términos del artículo 21 de esta Ley, fueron adquiridos; y que el mismo volumen de gasolina, descontando la merma de 0.74% ; fue enajenado por el contribuyente, por partes iguales en cada una de las quincenas comprendidas en el informe.
+Mientras los pagos provisionales sean quincenales, las autoridades fiscales podrán presumir, salvo prueba en contrario, que los volúmenes de gasolina informados por Petróleos Mexicanos en los términos del artículo 21 de esta Ley, fueron adquiridos; y que el mismo volumen de gasolina, descontando la merma de 0.74%; fue enajenado por el contribuyente, por partes iguales en cada una de las quincenas comprendidas en el informe.
 
 ARTICULO DECIMOCUARTO.- Durante el año de 1981, del rendimiento del impuesto por concepto de prestación de servicios telefónicos, se destinará el 40% a apoyar los programas de desarrollo de las empresas que se dedican al servicio telefónico a fin de que mejoren y amplíen dicho servicio incluyendo aquéllos de la Federación para las comunicaciones eléctricas de larga distancia y de telefonía rural. Este apoyo se hará a través del organismo que señale la Secretaría de Hacienda y Crédito Público y en la forma que la misma determine.
 
@@ -928,7 +970,7 @@ ARTICULO DECIMOTERCERO.- Tratándose de la enajenación de aguas envasadas y ref
 
 D.O.F. 30 DE SEPTIEMBRE DE 1982.
 
-## TRANSITORIOS
+## TRANSITORIO
 
 ###### ARTICULO UNICO.
 
@@ -1084,7 +1126,7 @@ La presente Ley entrará en vigor el día 1o. de enero de 1986.
 
 D.O.F. 30 DE ABRIL DE 1986.
 
-## TRANSITORIO
+## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
 
@@ -1112,7 +1154,7 @@ IV.- No se pagará el Impuesto Especial sobre Producción y Servicios por la ena
 
 Asimismo, Azúcar, S.A. de C.V., presentará declaración informativa anual dentro de los tres meses siguientes al cierre de su ejercicio.
 
-## TRANSITORIOS
+## TRANSITORIO
 
 ###### ARTICULO UNICO.
 
@@ -1302,6 +1344,12 @@ Los contribuyentes que ejerzan la opción establecida en esta fracción deberán
 
 ## TRANSITORIO
 
+UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1992.
+
+D.O.F. 20 DE JULIO DE 1992.
+
+DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
+
 ###### ARTICULO DECIMO QUINTO.
 
 Para los efectos de lo dispuesto en el Artículo anterior, se aplicarán las siguientes disposiciones transitorias:
@@ -1320,15 +1368,37 @@ V.- Lo dispuesto en el artículo 2o., fracción I, inciso D), de la Ley del Impu
 
 ## TRANSITORIO
 
-UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1992.
-
-D.O.F. 20 DE JULIO DE 1992.
-
-DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
-
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 3 DE DICIEMBRE DE 1993.
+
+DISPOSICION TRANSITORIA DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
+
+###### ARTICULO DECIMO.
+
+Las personas que hayan adquirido para su consumo diesel industrial o marino a que se refieren las fracciones VII y VIII del artículo 3o., durante el periodo comprendido del 1o. de octubre al 31 de diciembre de 1993, podrán efectuar el acreditamiento de un monto equivalente al impuesto especial sobre producción y servicios, que Petróleos Mexicanos y sus organismos subsidiarios hayan causado por la enajenación de dicho combustible. Para estos efectos, el impuesto especial sobre producción y servicios que se podrá acreditar será el que resulte de multiplicar el precio de adquisición del citado combustible que conste en el comprobante correspondiente, incluido el impuesto al valor agregado, por el factor de 0.1515.
+
+El acreditamiento antes mencionado podrá efectuarse contra las contribuciones federales que al efecto determine la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general. En ningún caso procederá la devolución de las cantidades acreditables a que se refiere el párrafo anterior.
+
+DISPOSICIONES DE VIGENCIA ANUAL DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
+
+###### ARTICULO DECIMO PRIMERO.
+
+Durante el año de 1994 y para efectos del artículo 2o., fracción I, inciso H), subinciso 2) de la Ley del Impuesto Especial sobre Producción y Servicios, son cigarros populares sin filtro los que al 1o. de enero de 1994 tengan un precio máximo al público que no exceda de 8 centavos de nuevos pesos por cigarro.
+
+###### ARTICULO DECIMO SEGUNDO.
+
+Durante el año de 1994, se aplicará al gas natural para combustión automotriz la tasa del 50%, en lugar de la del 60% a que se refiere el inciso K) de la fracción I del artículo 2o. de la Ley del Impuesto Especial sobre Producción y Servicios.
+
+###### ARTICULO DECIMO TERCERO.
+
+Durante el año de 1994, se prorroga la vigencia de la fracción V del ARTICULO DECIMO PRIMERO de las DISPOSICIONES DE VIGENCIA ANUAL de la Ley que Reforma, Adiciona y Deroga Diversas Disposiciones Fiscales para 1992 y las modificaciones a dicha fracción, publicadas en el Diario Oficial de la Federación el 20 de julio de 1992.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1994.
 
 D.O.F. 28 DE DICIEMBRE DE 1994.
 
@@ -1343,34 +1413,6 @@ DISPOSICION TRANSITORIA DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVI
 ###### ARTICULO DECIMO PRIMERO.
 
 Las cantidades establecidas en el artículo 4o-C de esta Ley, se entienden actualizadas por el mes de enero de 1995, debiéndose efectuar las posteriores actualizaciones en los términos que establece el artículo 6o-A de esta Ley, a partir de la actualización prevista para el mes de julio de 1995.
-
-###### ARTICULO DECIMO SEGUNDO.
-
-Durante el año de 1994, se aplicará al gas natural para combustión automotriz la tasa del 50%, en lugar de la del 60% a que se refiere el inciso K) de la fracción I del artículo 2o. de la Ley del Impuesto Especial sobre Producción y Servicios.
-
-###### ARTICULO DECIMO TERCERO.
-
-Durante el año de 1994, se prorroga la vigencia de la fracción V del ARTICULO DECIMO PRIMERO de las DISPOSICIONES DE VIGENCIA ANUAL de la Ley que Reforma, Adiciona y Deroga Diversas Disposiciones Fiscales para 1992 y las modificaciones a dicha fracción, publicadas en el Diario Oficial de la Federación el 20 de julio de 1992.
-
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
-
-PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1994.
-
-D.O.F. 10 DE MAYO DE 1996.
-
-###### ARTICULO DECIMO.
-
-Las personas que hayan adquirido para su consumo diesel industrial o marino a que se refieren las fracciones VII y VIII del artículo 3o., durante el periodo comprendido del 1o. de octubre al 31 de diciembre de 1993, podrán efectuar el acreditamiento de un monto equivalente al impuesto especial sobre producción y servicios, que Petróleos Mexicanos y sus organismos subsidiarios hayan causado por la enajenación de dicho combustible. Para estos efectos, el impuesto especial sobre producción y servicios que se podrá acreditar será el que resulte de multiplicar el precio de adquisición del citado combustible que conste en el comprobante correspondiente, incluido el impuesto al valor agregado, por el factor de 0.1515.
-
-El acreditamiento antes mencionado podrá efectuarse contra las contribuciones federales que al efecto determine la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general. En ningún caso procederá la devolución de las cantidades acreditables a que se refiere el párrafo anterior.
-
-DISPOSICIONES DE VIGENCIA ANUAL DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
-
-###### ARTICULO DECIMO PRIMERO.
-
-Durante el año de 1994 y para efectos del artículo 2o., fracción I, inciso H), subinciso 2) de la Ley del Impuesto Especial sobre Producción y Servicios, son cigarros populares sin filtro los que al 1o. de enero de 1994 tengan un precio máximo al público que no exceda de 8 centavos de nuevos pesos por cigarro.
-
-## TRANSITORIO
 
 ## TRANSITORIO
 
@@ -1388,9 +1430,9 @@ Primero. El presente Decreto entrará en vigor el 1o. de enero de 1996.
 
 Segundo. De conformidad con la disposición del Banco de México publicada en el Diario Oficial de la Federación el día 6 de enero de 1994, todas las sumas en moneda nacional que en las leyes fiscales se encuentren expresadas en "nuevos pesos" y su abreviatura "N", a partir del 1o. de enero de 1996 deberán entenderse como "pesos" y su símbolo "$".
 
-D.O.F. 3 DE DICIEMBRE DE 1993.
+D.O.F. 10 DE MAYO DE 1996.
 
-DISPOSICION TRANSITORIA DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
+## TRANSITORIO
 
 ###### ARTICULO UNICO.
 
@@ -1407,8 +1449,6 @@ I.- Las adiciones a los artículos 8o.-B, último párrafo y 19, fracciones II, 
 II.- La obligación de adherir precintos a los envases o recipientes a que se refiere la fracción IV del artículo 19 de esta Ley, entrará en vigor el 1o. de marzo de 1997.
 
 III.- Durante el año de 1997, para efectos del artículo 2o., fracción I, inciso H), subinciso 2 de esta Ley, son cigarros populares sin filtro los que al 1o. de enero de 1997 tengan un precio máximo al público que no exceda de $ 0.18 por cigarro.
-
-## TRANSITORIO
 
 ## Transitorio
 
@@ -1622,6 +1662,372 @@ Disposición de Vigencia Anual de la Ley del Impuesto Especial sobre Producción
 
 Artículo Noveno. Para los efectos de lo dispuesto por el artículo 2o., fracción I, inciso G), subinciso 2) de la Ley del Impuesto Especial sobre Producción y Servicios, durante el año 2001 son cigarros populares sin filtro los que al 1o. de enero de 2001 tengan un precio máximo al público que no exceda de $0.33 por cigarro.
 
+## Transitorios
+
+Primero. El presente Decreto entrará en vigor el 1o. de enero de 2001.
+
+Segundo. Las menciones hechas en el presente Decreto a las Secretarías cuyas denominaciones se modificaron por efectos del Decreto publicado en el Diario Oficial de la Federación el jueves 30 de noviembre de 2000, mediante el cual se reformó la Ley Orgánica de la Administración Pública Federal, se entenderán conforme a la denominación que para cada una se estableció en este último.
+
+D.O.F. 1 DE ENERO DE 2002.
+
+Disposiciones Transitorias de la Ley del Impuesto Especial
+
+sobre Producción y Servicios
+
+Artículo Segundo. En relación con las modificaciones a que se refiere el Artículo Primero de este Decreto, se estará a lo siguiente:
+
+I. Los contribuyentes a que hace referencia el artículo 26-A de la Ley del Impuesto Especial Sobre Producción y Servicios, vigente hasta antes de la entrada en vigor del Artículo Primero de este Decreto, que hubiesen pagado el impuesto correspondiente en los términos de los artículos 26-C y 26-H, primer párrafo, vigentes en la citada Ley, no estarán obligados a pagar el impuesto que corresponda en los términos del citado Artículo Primero cuando los productos por los que ya se pagó el impuesto se enajenen, siempre y cuando presenten, dentro de los 5 días siguientes a la entrada en vigor del Artículo Primero del presente Decreto, un reporte que contenga lo siguiente:
+
+a) Inventario de existencias por tipo, marca, presentación y capacidad del envase, al día anterior al de la entrada en vigor del Artículo Primero del presente Decreto, distinguiendo aquéllas respecto de las cuales ya se pagó el impuesto y aquéllas por las que no se ha pagado el mismo.
+
+b) Copia de las declaraciones en las que se haya pagado el impuesto correspondiente a las existencias a que hace referencia el inciso anterior.
+
+La información a que se refiere esta fracción se presentará mediante escrito libre ante las autoridades fiscales.
+
+II. Los productores, envasadores e importadores, de bebidas alcohólicas que con anterioridad a la entrada en vigor del Artículo Primero del presente Decreto hubieran optado por pagar el impuesto en los términos de los artículos 26-D y 26-H, segundo párrafo de la Ley del Impuesto Especial sobre Producción y Servicios, vigentes hasta antes de la entrada en vigor del citado Artículo Primero, y que a la fecha de la entrada en vigor del mismo cuenten con inventarios de bebidas alcohólicas que tengan adheridos marbetes, pagarán el impuesto que corresponda a dichos productos aplicando la cuota por litro vigente, de conformidad con lo siguiente:
+
+a) El impuesto se calculará mensualmente aplicando al número de litros enajenados en el mes, la cuota por litro vigente en el mes en el que se realice la enajenación de dichos productos, de conformidad con la siguiente:
+
+TABLA
+
+PRODUCTO CUOTA POR LITRO $
+
+Aguardiente Abocado o Reposado 5.35
+
+Aguardiente Standard (blanco u oro)
+
+Charanda
+
+Licor de hierbas regionales
+
+Aguardiente Añejo 10.34
+
+Habanero
+
+Rompope
+
+Aguardiente con Sabor 12.29
+
+Cocteles
+
+Licores y Cremas de hasta 20% Alc. Vol.
+
+Parras
+
+Bacanora 17.60
+
+Comiteco
+
+Lechuguilla o raicilla
+
+Mezcal
+
+Sotol
+
+Anís 18.91
+
+Ginebra
+
+Vodka
+
+Ron 23.41
+
+Tequila joven o blanco
+
+Brandy 28.15
+
+Amaretto 28.56
+
+Licor de Café o Cacao
+
+Licores y Cremas de más 20% Alc. Vol.
+
+Tequila reposado o añejo
+
+Ron Añejo 33.92
+
+Brandy Reserva 36.72
+
+Ron con Sabor 53.46
+
+Ron Reserva
+
+Tequila joven o blanco 100% agave 54.61
+
+Tequila reposado 100% agave
+
+Brandy Solera 60.53
+
+Cremas base Whisky 79.60
+
+Whisky o Whiskey, Borbon o Bourbon,
+
+Tenessee "Standard"
+
+Calvados 139.24
+
+Tequila añejo 100% agave
+
+Cognac V.S. 168.34
+
+Whisky o Whiskey, Borbon o Bourbon,
+
+Tenessee "de Luxe"
+
+Cognac V.S.O.P. 283.31
+
+Cognac X.O. 1,068.01
+
+Otros 1,096.83
+
+Las cuotas por litro establecidas en este inciso se encuentran actualizadas para el primer semestre de 2002 con el factor de 1.045.
+
+En el mes de junio de 2002 se comparará el crecimiento del Índice Nacional de Precios al Consumidor reportado por el Banco de México del periodo enero-mayo del citado año y si dicho crecimiento es mayor al 1.00%, las cuotas se incrementarán a partir del mes de julio del citado año en la proporción que represente la variación entre el crecimiento del Índice de referencia y el 1.00% citado.
+
+El Servicio de Administración Tributaria efectuará los cálculos previstos en este inciso y publicará a más tardar el último día del mes de junio de 2002, en su caso, las nuevas cuotas que se pagarán a partir del mes de julio de 2002.
+
+b) El impuesto determinado conforme al inciso anterior se pagará a más tardar el día 17 del mes siguiente a aquél en que se efectúe la enajenación de los productos, mediante declaración que se presentará ante las oficinas autorizadas, en la forma que al efecto apruebe la Secretaría de Hacienda y Crédito Público.
+
+Los contribuyentes a que hace referencia esta fracción deberán presentar dentro de los 6 días siguientes a la publicación de este Decreto en el Diario Oficial de la Federación, mediante escrito libre, ante las autoridades fiscales, un reporte que contenga el inventario de dichas bebidas, al día anterior al de la entrada en vigor del Artículo Primero del citado Decreto, por tipo, marca, presentación, capacidad del envase y el número de envases que se tengan en existencias, en los términos que mediante reglas de carácter general establezca la Secretaría de Hacienda y Crédito Público.
+
+III. Los contribuyentes a que se refieren las fracciones I y II del presente Artículo, deberán informar mensualmente a la Secretaría de Hacienda y Crédito Público en el formato que al efecto publique dicha Secretaría, las enajenaciones realizadas en el mes de que se trate de los productos que se hubiesen reportado en los inventarios a que se refieren dichas fracciones.
+
+IV. Los contribuyentes que con posterioridad a la entrada en vigor del Artículo Primero del presente Decreto reciban devoluciones de bebidas alcohólicas por las que ya se hubiera pagado el impuesto, estarán a lo siguiente:
+
+a) Determinarán el impuesto pagado en la enajenación de dichos productos. En el caso de que no se pueda determinar el mes en el que dichos productos fueron enajenados, considerarán como impuesto pagado, la cantidad que resulte de aplicar al número de litros devueltos, la cuota por litro vigente en el tercer mes inmediato anterior a aquél en el que se efectuó la devolución.
+
+b) Cuando los productos devueltos sean nuevamente enajenados, se calculará el impuesto correspondiente en los términos de la fracción II de este artículo, considerando la cuota por litro vigente en el mes en el que se efectúa dicha enajenación.
+
+c) Del impuesto causado por dichas enajenaciones en los términos del inciso anterior, se podrá disminuir el impuesto pagado a que se refiere el inciso a) de esta fracción correspondiente a dichos productos.
+
+d) La diferencia que resulte a cargo del contribuyente en los términos del inciso anterior, deberá pagarse conjuntamente con el impuesto que corresponda al mes en que se efectúa la enajenación de dichos productos.
+
+Para los efectos de esta fracción, se considerará que los primeros productos devueltos fueron los primeros que se enajenaron posteriormente.
+
+Los contribuyentes a que hace referencia esta fracción deberán llevar un registro especial de devoluciones y enajenaciones de productos, en los términos que para tales efectos establezca la Secretaría de Hacienda y Crédito Público.
+
+V. Los contribuyentes del impuesto especial sobre producción y servicios, que a la entrada en vigor del Artículo Primero del presente Decreto tengan marbetes o precintos adquiridos con anterioridad que no se encuentren adheridos a los envases o recipientes que contengan bebidas alcohólicas, deberán informar el número de marbetes o precintos y el folio de cada uno de ellos, y devolver a las autoridades fiscales, dentro de los 5 días siguientes a la entrada en vigor del citado Artículo Primero, dichos marbetes o precintos.
+
+VI. Los contribuyentes que a la fecha de la entrada en vigor del Artículo Primero del presente Decreto tengan un monto de impuesto pendiente de disminuir en los términos del artículo 26-E de la Ley del Impuesto Especial sobre Producción y Servicios, vigente hasta antes de la entrada en vigor de dicho Artículo Primero, lo podrán disminuir del impuesto especial sobre producción y servicios que les corresponda pagar en los meses siguientes, hasta agotarlo.
+
+VII. Los contribuyentes del impuesto especial sobre producción y servicios distintos de los productores, envasadores e importadores, de bebidas alcohólicas, que a la entrada en vigor del Artículo Primero del presente Decreto cuenten con existencias de bebidas alcohólicas por las cuales los productores, envasadores e importadores, ya hubiesen pagado el impuesto correspondiente y esta situación se demuestre con los marbetes o precintos anteriores de los que a partir de la entrada en vigor del mismo autorice la Secretaría de Hacienda y Crédito Público, no estarán obligados a pagar el impuesto que corresponda a dichas bebidas ni podrán trasladarlo cuando las mismas se enajenen.
+
+VIII. Los contribuyentes del impuesto especial sobre producción y servicios distintos de los productores, envasadores e importadores, de bebidas alcohólicas, que a partir de la entrada en vigor del Artículo Primero de este Decreto adquieran bebidas alcohólicas que tengan adherido el marbete autorizado por la Secretaría de Hacienda y Crédito Público con anterioridad a la entrada en vigor del mismo, no deberán aceptar el traslado del impuesto especial sobre producción y servicios en la adquisición de dichas bebidas y no podrán trasladarlo cuando las mismas se enajenen. Respecto de dichos bienes no se considerarán contribuyentes del citado impuesto, por lo que no procede acreditamiento alguno.
+
+IX. Para los efectos de la fracción VI del artículo 7 de la Ley de Ingresos de la Federación para el ejercicio fiscal de 2002, se entenderá por ejercicio el año de calendario.
+
+X. Para los efectos de lo dispuesto por el artículo 19, fracciones VI y VIII de la Ley del Impuesto Especial sobre Producción y Servicios, en relación con los artículos 3o. y 3o.-A de la Ley de Coordinación Fiscal, la determinación de las participaciones a las entidades federativas de la recaudación del impuesto especial sobre producción y servicios en los años de 2000 y 2001, por la realización de los actos o actividades gravados con dicho impuesto en materia de bebidas alcohólicas, se hará con base en el por ciento que corresponda a cada Estado, de conformidad con la recaudación participada en 1999 por entidad federativa.
+
+XI. Las personas físicas y morales, que hasta el 31 de diciembre de 2001 no hayan sido considerados como contribuyentes del impuesto especial sobre producción y servicios y que a partir de la entrada en vigor del Artículo Primero del presente Decreto tengan tal carácter, deberán presentar dentro de los 5 días siguientes a la entrada en vigor del citado Artículo Primero, un reporte que contenga el inventario de existencias por tipo, marca, presentación y capacidad, de los bienes por los que a partir de la entrada en vigor de dicho Artículo son considerados como contribuyentes del impuesto de referencia.
+
+La información a que se refiere esta fracción se presentará mediante escrito libre ante las autoridades fiscales y deberá contener las existencias que se tengan hasta antes de la entrada en vigor del Artículo Primero del presente Decreto.
+
+XII. La obligación contenida en la fracción XVIII del artículo 19 de la Ley del Impuesto Especial sobre Producción y Servicios entrará en vigor el 1o. de abril de 2002.
+
+XIII. Lo dispuesto en el Artículo Primero de este Decreto entrará en vigor el 1o. de enero de 2002.
+
+XIV. Para los efectos de lo dispuesto en el inciso C) de la fracción I del artículo 2o. de esta Ley, durante los ejercicios fiscales de 2002, 2003 y 2004 en lugar de aplicar las tasas previstas en dicho inciso para los cigarros, se estará a lo siguiente:
+
+a) Cigarros con filtro:
+
+AÑO TASA
+
+2002 105%
+
+2003 107%
+
+2004 110%
+
+2005 110%
+
+b) Cigarros sin filtro:
+
+AÑO TASA
+
+2002 60%
+
+2003 80%
+
+2004 100%
+
+2005 110%
+
+Para los efectos de esta fracción, se consideran cigarros sin filtro los populares elaborados con tabacos obscuros con tamaño máximo de 77 milímetros de longitud, cuyo precio máximo al público al 1o. de enero de cada año, no exceda de la cantidad que establezca el Congreso de la Unión.
+
+Para los efectos de lo dispuesto en el párrafo anterior, durante el año de 2002 son cigarros populares sin filtro los que al 1o. de enero de dicho año tengan un precio máximo al público que no exceda de $0.40 por cigarro. Para los ejercicios fiscales de 2003 y 2004 el precio máximo al público será el que se determine en la Ley de Ingresos de la Federación para el ejercicio fiscal de que se trate.
+
+D.O.F. 30 DE DICIEMBRE DE 2002.
+
+Disposiciones Transitorias de la Ley del Impuesto Especial sobre Producción y Servicios
+
+Artículo Primero. En relación con las modificaciones a que se refiere el Artículo Único de esta Ley, se estará a lo siguiente:
+
+I. El presente Decreto entrará en vigor el 1o. de enero de 2003.
+
+II. Para los efectos del inciso a) de la fracción II del Artículo Segundo de las Disposiciones Transitorias de la Ley del Impuesto Especial sobre Producción y Servicios, vigente a partir del 1o. de enero de 2002, la tabla aplicable para el ejercicio fiscal de 2003 es la siguiente:
+
+TABLA
+
+PRODUCTO CUOTA
+
+POR LITRO $
+
+Aguardiente
+
+Abocado o
+
+Reposado
+
+Aguardiente
+
+Standard
+
+(blanco u oro)
+
+Charanda Licor
+
+de hierbas
+
+regionales 5.52
+
+Aguardiente
+
+Añejo
+
+Habanero
+
+Rompope 10.67
+
+Aguardiente con
+
+Sabor Cocteles
+
+Licores
+
+y Cremas
+
+hasta 20% Alc. Vol.
+
+Parras 12.69
+
+Bacanora
+
+Comiteco
+
+Lechuguilla o
+
+raicilla
+
+Mezcal
+
+Sotol 18.16
+
+Anís
+
+Ginebra
+
+Vodka 19.52
+
+Ron Tequila
+
+joven o blanco 24.16
+
+Brandy 29.05
+
+Amaretto
+
+Licor de Café
+
+o Cacao
+
+Licores y
+
+Cremas de
+
+más de 20% Alc.
+
+Vol. Tequila
+
+reposado
+
+o añejo 29.48
+
+Ron Añejo 35.00
+
+Brandy
+
+Reserva 37.90
+
+Ron con Sabor
+
+Ron Reserva 55.18
+
+Tequila joven o
+
+blanco 100%
+
+agave Tequila
+
+reposado 100%
+
+agave 56.36
+
+Brandy
+
+Solera 62.47
+
+Cremas
+
+base Whisky
+
+Whisky o
+
+Whiskey,
+
+Borbón o
+
+Bourbon,
+
+Tenessee
+
+"Standard" 82.15
+
+Calvados
+
+Tequila añejo 100%
+
+agave 143.71
+
+Cognac V.S.
+
+Whisky o
+
+Whiskey,
+
+Borbón o
+
+Bourbon,
+
+Tenessee
+
+"de Luxe" 173.74
+
+Cognac V.S.O.P. 292.39
+
+Cognac X.O. 1,102.25
+
+Otros 1,131.99
+
+Las cuotas por litro establecidas en esta fracción se encuentran actualizadas para el primer semestre de 2003 con el factor de 1.0300.
+
+En el mes de junio de 2003 se comparará el crecimiento del Índice Nacional de Precios al Consumidor reportado por el Banco de México del periodo enero-mayo del citado año y si dicho crecimiento es mayor al 1.00%, las cuotas se incrementarán a partir del mes de julio del citado año en la proporción que represente la variación entre el crecimiento del Índice de referencia y el 1.00% citado.
+
+El Servicio de Administración Tributaria efectuará los cálculos previstos en este inciso y publicará a más tardar el último día del mes de junio de 2003, en su caso, las nuevas cuotas que se pagarán a partir del mes de julio de 2003.
+
+D.O.F. 31 DE DICIEMBRE DE 2003.
+
+Disposiciones Transitorias de la Ley del Impuesto Especial sobre Producción y Servicios
+
 ###### ARTÍCULO SEXTO.
 
 En relación con las modificaciones a que se refiere el Artículo Quinto de este Decreto, se estará a lo siguiente:
@@ -1758,15 +2164,23 @@ El Servicio de Administración Tributaria, tendrá un plazo de 120 días natural
 
 ###### ARTÍCULO TERCERO.
 
-Las cajetillas que contengan cigarros que se produzcan o importen a partir del 1o. de enero de 2006, deberán contener el marbete a que hace referencia el artículo segundo transitorio del presente Decreto.
+(DEROGADO, D.O.F. 23 DE DICIEMBRE DE 2005)
 
 ###### ARTÍCULO CUARTO.
 
 Los envases que contengan bebidas alcohólicas que se produzcan o importen a partir del 1o. de enero de 2006, deberán contener el marbete o precinto, según corresponda, a que hace referencia el artículo segundo transitorio del presente Decreto.
 
-###### ARTICULO SEPTIMO.
+D.O.F. 23 DE DICIEMBRE DE 2005.
 
-El plazo para abrogar las leyes a que se refiere el Artículo Tercero Transitorio de la Ley del Impuesto Especial sobre Producción y Servicios, se prorroga hasta el 30 de junio de 1982, fecha hasta la que se continuarán aplicando los artículos de las leyes señaladas en ese precepto, así como los reglamentos de dichas leyes en lo relativo a los preceptos que quedan vigentes hasta la fecha de abrogación de las leyes mencionadas.
+DISPOSICION TRANSITORIA DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
+
+###### ARTÍCULO SÉPTIMO.
+
+Se deroga el ARTÍCULO TERCERO del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley del Impuesto Especial sobre Producción y Servicios, publicado en el Diario Oficial de la Federación el 1 de diciembre de 2004.
+
+DISPOSICION TRANSITORIA DEL DECRETO QUE MODIFICA LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
+
+ÚNICO. El presente Decreto entrará en vigor el 1o. de enero de 2006.
 
 ## Transitorios
 
