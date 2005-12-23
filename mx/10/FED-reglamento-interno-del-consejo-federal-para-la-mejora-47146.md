@@ -1,0 +1,178 @@
+---
+title: "REGLAMENTO INTERNO DEL CONSEJO FEDERAL PARA LA MEJORA REGULATORIA"
+identifier: "FED-reglamento-interno-del-consejo-federal-para-la-mejora-47146"
+country: "mx"
+rank: "reglamento"
+publication_date: "2005-12-23"
+last_updated: "2005-12-23"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47146&Vig=1&TPub=6"
+department: "Diario Oficial de la Federación"
+scjn_id: "47146"
+scjn_status: "ABROGADO (A)"
+gazette: "Diario Oficial de la Federación"
+original_category: "REGLAMENTO"
+original_gazette_section: "17 SEGUNDA SECCION"
+reform_count: "3"
+scjn_last_update: "2019-10-01"
+issue_date: "2005-12-15"
+---
+# REGLAMENTO INTERNO DEL CONSEJO FEDERAL PARA LA MEJORA REGULATORIA
+
+REGLAMENTO INTERNO DEL CONSEJO FEDERAL PARA LA MEJORA REGULATORIA
+
+TEXTO ORIGINAL.
+
+Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 23 de diciembre de 2005.
+
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Comisión Federal de Mejora Regulatoria.
+
+CARLOS GARCIA FERNANDEZ, Secretario Técnico del Consejo Federal para la Mejora Regulatoria, con fundamento en el artículo 69-F de la Ley Federal de Procedimiento Administrativo, así como en el artículo 9 fracción XXIV del Reglamento Interior de la Comisión Federal de Mejora Regulatoria, y
+
+CONSIDERANDO
+
+Que el artículo 69-F de la Ley Federal de Procedimiento Administrativo ordena que el Consejo Federal para la Mejora Regulatoria operará en términos del reglamento interno que al efecto expida;
+
+Que en la Segunda Sesión del Consejo Federal para la Mejora Regulatoria, celebrada el 7 de octubre de 2002, se sometió a consideración del mismo su proyecto de Reglamento Interno, el cual fue debidamente aprobado;
+
+Que el 2 de agosto de 2005 se celebró la XI Sesión del Consejo Federal para la Mejora Regulatoria, en la cual se instruyó al Secretario Técnico del referido Consejo a efectuar las formalidades necesarias para proceder con la publicación de dicho Reglamento en el Diario Oficial de la Federación;
+
+Que en cumplimiento de la instrucción anterior, se expide el siguiente:
+
+REGLAMENTO INTERNO DEL CONSEJO FEDERAL PARA LA MEJORA REGULATORIA
+
+### Capítulo I. Disposiciones generales
+
+###### Artículo 1.
+
+Este ordenamiento tiene por objeto reglamentar la operación del Consejo Federal para la Mejora Regulatoria, de conformidad con el artículo 69-F de la Ley Federal de Procedimiento Administrativo como un órgano consultivo de la Comisión Federal de Mejora Regulatoria.
+
+###### Artículo 2.
+
+Para efectos de este Reglamento se entenderá por:
+
+I. Consejo: el Consejo Federal para la Mejora Regulatoria;
+
+II. Comisión: la Comisión Federal de Mejora Regulatoria;
+
+III. Ley: la Ley Federal de Procedimiento Administrativo, y
+
+IV. Titular de la Comisión: el Director General de la Comisión Federal de Mejora Regulatoria.
+
+### Capítulo II. Del Consejo Federal para la Mejora Regulatoria
+
+###### Artículo 3.
+
+El Consejo estará integrado por los titulares de las secretarías de Economía; Hacienda y Crédito Público; Función Pública; Trabajo y Previsión Social, así como por el Titular de la Consejería Jurídica del Ejecutivo Federal.
+
+###### Artículo 4.
+
+Serán invitados permanentes del Consejo el Gobernador del Banco de México, el Presidente de la Comisión Federal de Competencia, el Procurador Federal del Consumidor; así como el Presidente del Consejo Coordinador Empresarial, el Presidente de la Confederación de Cámaras Industriales de los Estados Unidos Mexicanos, el Presidente de la Confederación Patronal de la República Mexicana, el Presidente de la Cámara Nacional de la Industria de la Transformación, el Presidente del Consejo Nacional Agropecuario, el Presidente de la Asociación de Bancos de México, A.C., el Presidente de la Asociación Mexicana de Secretarios de Desarrollo Económico, A.C., el Presidente de la Asociación Nacional de Universidades e Institutos de Educación Superior, A.C., el Presidente de la Federación de Instituciones Mexicanas Particulares de Educación Superior, A.C., el Presidente de la Barra Mexicana, Colegio de Abogados, A.C., el Presidente de la Asociación Mexicana de Instituciones de Seguros, A.C., el Presidente de la Cámara de Comercio del Distrito Federal, así como cualquier otro invitado que determine el presidente del Consejo.
+
+###### Artículo 5.
+
+El Secretario de Economía será el Presidente del Consejo, el Secretario de la Función Pública fungirá como Vicepresidente y el Titular de la Comisión será el Secretario Técnico.
+
+El Presidente del Consejo presidirá las sesiones del Consejo, salvo en caso de que asista el Titular del Ejecutivo Federal, quien presidirá la sesión de que se trate.
+
+En caso de ausencia del Presidente del Consejo, sus funciones serán realizadas por el Vicepresidente, y en ausencia de este último por el Secretario Técnico.
+
+###### Artículo 6.
+
+Los Coordinadores Generales de la Comisión podrán asistir a las sesiones del Consejo con voz pero sin voto.
+
+### Capítulo III. De las atribuciones
+
+###### Artículo 7.
+
+El Consejo tendrá las siguientes atribuciones:
+
+I. Conocer los programas y acciones de la Comisión y de otras dependencias y entidades de la Administración Pública Federal en materia de mejora regulatoria;
+
+II. Recibir y conocer los informes del Titular de la Comisión;
+
+III. Proponer acciones en materia de mejora regulatoria;
+
+IV. Emitir recomendaciones a la Administración Pública Federal en materia de mejora regulatoria;
+
+V. Acordar y ratificar los asuntos que se sometan a su consideración por los integrantes e invitados permanentes del mismo;
+
+VI. Las demás que establezcan las leyes y sus reglamentos.
+
+###### Artículo 8.
+
+El Presidente del Consejo, quien tendrá voto de calidad, ejercerá las siguientes atribuciones:
+
+I. Aprobar las convocatorias a las sesiones del Consejo que someta a su consideración el Secretario Técnico;
+
+II. Iniciar y levantar las sesiones del Consejo y decretar los recesos necesarios;
+
+III. Presidir las sesiones del Consejo y conducir las discusiones de las mismas;
+
+IV. Convocar a los invitados al Consejo que considere pertinentes;
+
+V. Vigilar la correcta aplicación de este Reglamento, y
+
+VI. Firmar los acuerdos y recomendaciones que emita el Consejo.
+
+###### Artículo 9.
+
+El Secretario Técnico ejercerá las siguientes atribuciones:
+
+I. Elaborar y someter a aprobación del Presidente del Consejo las convocatorias para las sesiones del Consejo;
+
+II. Convocar a las sesiones a los miembros e invitados permanentes del Consejo;
+
+III. Distribuir entre los integrantes del Consejo, con tres días hábiles de antelación a la celebración de la sesión, y a través del medio que considere oportuno, los documentos necesarios para el estudio y posterior discusión de los asuntos contenidos en el orden del día;
+
+IV. Verificar la asistencia de los integrantes e invitados permanentes del Consejo;
+
+V. Levantar el acta de las sesiones;
+
+VI. Informar al Consejo sobre el cumplimiento de sus acuerdos y recomendaciones, y
+
+VII. Firmar los acuerdos y recomendaciones que emita el Consejo.
+
+### Capítulo IV. De las sesiones del Consejo
+
+###### Artículo 10.
+
+El Consejo se reunirá de manera ordinaria o extraordinaria.
+
+###### Artículo 11.
+
+El Consejo sesionará de manera ordinaria por lo menos dos veces al año.
+
+###### Artículo 12.
+
+El Consejo podrá sesionar en cualquier momento de manera extraordinaria cuando así lo requiera su Presidente y por lo menos 2 integrantes o 5 invitados permanentes.
+
+###### Artículo 13.
+
+La convocatoria para las sesiones del Consejo deberá incluir el orden del día, el tipo de sesión de que se trata, el lugar, fecha y hora en que se celebrará y, en su caso, el listado de los documentos necesarios para la discusión de los asuntos que se acompañen a la convocatoria. Las convocatorias deberán notificarse a los integrantes e invitados permanentes del Consejo por lo menos con tres días hábiles de anticipación, a través de un comunicado dirigido a cada uno de los integrantes e invitados permanentes del Consejo.
+
+###### Artículo 14.
+
+La convocatoria especificará si los integrantes o invitados permanentes podrán ser representados.
+
+En el caso de los integrantes o invitados permanentes del Consejo, el representante deberá tener nivel de subsecretario o equivalente.
+
+###### Artículo 15.
+
+Recibida la convocatoria a una sesión ordinaria o extraordinaria cualquier integrante o invitado permanente podrá sugerir la inclusión de asuntos en el orden del día.
+
+### Capítulo V. Quórum
+
+###### Artículo 16.
+
+Para que el Consejo se considere legalmente instalado deberán estar presentes por lo menos 3 integrantes y 5 invitados permanentes, y las resoluciones serán válidas cuando se tomen por la mayoría de los votos presentes.
+
+###### Artículo 17.
+
+Si se convoca a sesión del Consejo y en ésta no pudiere reunirse el quórum señalado en el párrafo anterior, se emitirá una segunda convocatoria con expresión de esta circunstancia y en la que se resolverá sobre los asuntos indicados en el orden del día que debió tratarse en la sesión no realizada, cualquiera que sea el número de integrantes e invitados permanentes presentes.
+
+## TRANSITORIO
+
+UNICO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+México, Distrito Federal, a los quince días del mes de diciembre de dos mil cinco.- El Secretario Técnico, Carlos García Fernández.- Rúbrica.
