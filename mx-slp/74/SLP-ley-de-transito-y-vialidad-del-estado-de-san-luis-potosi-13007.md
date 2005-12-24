@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-y-vialidad-del-estado-de-san-luis-potosi-13007"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-28"
-last_updated: "2001-03-20"
+last_updated: "2005-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13007&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY DE TRANSITO Y VIALIDAD DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2001.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TRANSITO DEL ESTADO DE SAN LUIS POTOSI, PUBLICADA EN LA EDICION EXTRAORDINARIA DEL P.O. DE 24 DE DICIEMBRE DE 2005, EL PRESENTE ORDENAMIENTO FUE ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el miércoles 28 de agosto de 1996.
 
@@ -672,3 +674,21 @@ P.O. 20 DE MARZO DE 2001.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE DICIEMBRE DE 2005.
+
+PRIMERO. La presente Ley entrará en vigor el día quince de febrero de 2006, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Tránsito y Vialidad del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado, el veintiocho de agosto de mil novecientos noventa y seis, mediante el Derecho Legislativo No. 649, y sus reformas. Asimismo, derogan todas las demás disposiciones que se opongan a lo establecido en esta Ley.
+
+TERCERO. El Titular del Ejecutivo del Estado, en el ámbito de su competencia, expedirá en un término máximo de ciento ochenta días a partir de su publicación, el reglamento de la presente Ley.
+
+CUARTO. Los ayuntamientos del Estado expedirán la reglamentación municipal en materia de tránsito, necesaria para la aplicación de esta Ley, para lo cual contarán con un plazo máximo de ciento ochenta días, a partir de su publicación.
+
+Si fenecido el término de ciento ochenta días, el ayuntamiento no ha emitido su reglamento de tránsito de conformidad con las disposiciones de esta Ley, se podrá aplicar supletoriamente esta Ley en la jurisdicción municipal; Sin embargo, para el cobro por la imposición de multas será requisito indispensable que se cuente con el reglamento de tránsito municipal, sin perjuicio de lo establecido en el artículo Sexto Transitorio de la Ley Orgánica del Municipio Libre del Estado de San Luis Potosí, para materias diversas de esta Ley.
+
+QUINTO. Los particulares que presten servicios relacionados con la presente Ley y que se encuentren considerados en el Título Séptimo de la misma, gozarán de un plazo de treinta días naturales tomados a partir de la entrada en vigor de la ley, para implementar los libros y controles sobre sus vehículos.
+
+SEXTO. Las escuelas de manejo que tengan sus oficinas y operen en el Estado de San Luis Potosí, deberán hacerlo del conocimiento del Ejecutivo del Estado, por conducto de la Dirección General de Seguridad Pública, para iniciar sus trámites de registro, el cual estará supeditado a la expedición y publicación del reglamento de la presente Ley.
+
+SEPTIMO. En tanto se reglamenta y se emiten los nuevos formatos de licencia de conducir, tarjetas de circulación y boletas de infracción, los documentos ya expedidos por la autoridad competente, seguirán gozando de plena validez.
