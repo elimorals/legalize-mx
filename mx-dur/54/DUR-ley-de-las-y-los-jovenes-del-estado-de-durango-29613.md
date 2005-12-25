@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-las-y-los-jovenes-del-estado-de-durango-29613"
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-06"
-last_updated: "2003-03-06"
+last_updated: "2005-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LAS Y LOS JOVENES DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 6 de marzo de 2003.
 
@@ -59,9 +59,11 @@ LEY DE LAS Y LOS JÓVENES DEL ESTADO DE DURANGO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público, interés social y observancia general en el Estado de Durango. Tiene por objeto establecer los derechos de la juventud duranguense, los principios rectores de las políticas públicas que contribuyan a su desarrollo integral, así como regular el funcionamiento del Instituto de la Juventud de Durango.
+La presente Ley es de orden público, interés social y observancia general en el Estado de Durango. Tiene por objeto establecer los derechos de la juventud duranguense, los principios rectores de las políticas públicas que contribuyan a su desarrollo integral, así como regular el funcionamiento del Instituto Duranguense de la Juventud.
 
 ###### ARTÍCULO 2.
 
@@ -71,15 +73,37 @@ I. Joven.- Ser humano cuya edad comprende el rango entre los 18 y 30 años;
 
 II. Juventud.- Al conjunto de las y los jóvenes;
 
-III. Instituto.- Al Instituto de la Juventud de Durango;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
-IV. Director.- Al Director General del Instituto de la Juventud de Durango;
+III. Instituto.- Al Instituto Duranguense de la Juventud;
 
-V. Junta.- A la Junta de Gobierno del Instituto de la Juventud de Durango;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
-VI. Consejo.- Al consejo de jóvenes del Instituto de la Juventud de Durango; y
+IV. Secretaría.- Secretaria de Desarrollo Social del Estado;
 
-VII. Jóvenes en situación de calle.- A aquellos que carecen de domicilio, que realizan la mayoría de sus actividades en la vía pública o que, teniendo familia, se encuentran desintegrados de ella.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+V. Secretario.- Secretario de Desarrollo Social del Estado;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+VI. Director.- Al Director General del Instituto Duranguense de la Juventud;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+VII. Junta.- A la Junta de Gobierno del Instituto Duranguense de la Juventud;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+VIII. Consejo.- Al Consejo de jóvenes del Instituto Duranguense de la Juventud;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+IX. Programa.- Al Programa Institucional de la Juventud;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+X. Jóvenes en situación de calle.- A aquellos que carecen de domicilio, que realizan la mayoría de sus actividades en la vía pública o que, teniendo familia, se encuentran desintegrados de ella.
 
 ###### ARTÍCULO 3.
 
@@ -199,19 +223,29 @@ IV. Los demás que contribuyan a su desarrollo armónico e integral.
 
 DERECHO A LA ASISTENCIA SOCIAL. Las y los jóvenes serán sujetos de programas de asistencia social cuando se encuentren o vivan circunstancias de vulnerabilidad social, que coadyuven en la protección integral en tanto puedan valerse por sí mismos y que le auxilien a recuperar su salud y equilibrio personal, en caso de daño físico o mental.
 
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+ARTÍCULO 11 BIS.- DERECHO AL DESARROLLO SOCIAL Y HUMANO.- Las y los jóvenes tendrán derecho a tener acceso al proceso de mejoramiento de su calidad de vida, mediante la satisfacción de sus necesidades básicas, que sea construido prospectivamente bajo los principios de equidad, diversidad, libertad, universalidad, integralidad, solidaridad, participación, sustentabilidad, subsidiariedad y transparencia, con perspectiva de largo plazo; así como a las oportunidades y posibilidades que se generen por el gobierno federal, estatal o municipal y los sectores privado y social, para desplegar sus potencialidades y capacidades humanas para el logro de su mejoramiento y realización personal y social.
+
 ###### ARTÍCULO 12.
 
 DERECHO AL TRABAJO. Todas las y los jóvenes tienen derecho a un trabajo digno, socialmente útil y bien remunerado, de conformidad con la Ley Federal del Trabajo y acercándolos a la posibilidad de mejorar la calidad de vida en su entorno social, en un ambiente laboral sano.
 
-### CAPÍTULO III. DE LAS Y LOS JÓVENES EN DESVENTAJA SOCIAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+### CAPÍTULO III. DE LOS JÓVENES EN DESVENTAJA SOCIAL
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 13.
 
-Todas las y los jóvenes en situaciones de desventaja social, como pobreza, indigencia, situación de calle, analfabetismo, discapacidad, privación de la libertad, exclusión social y étnica, entre otras, tienen derecho a reinsertarse e integrarse a la sociedad y a ser sujetos de derechos y oportunidades que les permitan acceder a servicios y beneficios sociales que mejoren su calidad de vida. A recibir información, orientación y apoyo para la protección de sus derechos.
+Todas las y los jóvenes en situaciones de desventaja social, como pobreza, indigencia, situación de calle, analfabetismo, discapacidad, privación de la libertad, exclusión social y étnica, entre otras, tiene derecho a reinsertarse e integrarse a la sociedad y a ser sujetos de derechos y oportunidades que les permitan acceder a servicios y beneficios sociales que mejoren su calidad de vida. A recibir información, orientación y apoyo para la protección de sus derechos y para ser sujetos y beneficiarios de las políticas, programas y acciones de desarrollo social y humano.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 14.
 
-Son derechos de las y los Jóvenes en situación de calle, los siguientes:
+Son derechos de las y los jóvenes en situación de calle, los siguientes:
 
 I. Ser protegidos de los riesgos de la calle y recibir la atención y orientación especial de los responsables de la seguridad pública. Para este efecto, los elementos de las corporaciones de seguridad pública recibirán una capacitación especial;
 
@@ -221,7 +255,13 @@ III. Tener acceso a los servicios de educación y a la capacitación para el tra
 
 IV. Recibir información y orientación para la protección de sus derechos; y
 
-V. Los demás que contribuyan a su desarrollo armónico e integral.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+V. Recibir información respecto de los programas de desarrollo social y humano; así como a ser sujetos y beneficiarios preferentemente de las políticas, programas y acciones que se implementen en esta materia;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+VI. Los demás que contribuyan a su desarrollo armónico e integral.
 
 ###### ARTÍCULO 15.
 
@@ -239,17 +279,33 @@ En ningún caso las y los jóvenes rehabilitados, podrán ser privados del acces
 
 Son derechos de las y los jóvenes con discapacidad, los siguientes:
 
-I. Recibir educación libre de barreras culturales y sociales;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+I. Recibir educación libre de barreras culturales, sociales y de infraestructura básica;
 
 II. Acceso en igualdad y equidad a la capacitación laboral y su incorporación al trabajo;
 
 III. Desplazarse libremente y con seguridad en los espacios públicos y de servicios que presta la comunidad;
 
-IV. Contar con el apoyo del Instituto, del Tribunal Superior de Justicia del Estado y de la Comisión Estatal de Derechos Humanos, en lo relativo al ejercicio y respeto de sus derechos;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
-V. A ejercer de manera responsable e informada su sexualidad, libre de prejuicios; y
+IV. Contar con el apoyo del Instituto, de la Secretaria, del Tribunal Superior de Justicia del Estado y de la Comisión Estatal de Derechos Humanos, en lo relativo al ejercicio y respeto de sus derechos;
 
-VI. A decidir con responsabilidad el ejercicio de su paternidad y maternidad.
+V. A ejercer de manera responsable e informada su sexualidad, libre de prejuicios; y (sic)
+
+VI. A decidir con responsabilidad el ejercicio de su paternidad y maternidad;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+VII. A ser sujetos y beneficiarios de los programas de desarrollo social y humano y de asistencia social, y
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+VIII. A contar con infraestructura básica que les permita desplazarse libremente y con seguridad en su comunidad.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+El instituto y la Secretaría, implementarán programas de apoyo y sensibilización, que permitan a las jóvenes embarazadas alcanzar la aceptación conciente de su maternidad y relacionarse adecuadamente con su hijo.
 
 ###### ARTÍCULO 18.
 
@@ -277,7 +333,15 @@ III. Procurar el aprendizaje y practicar los valores más altos del ser humano, 
 
 IV. Informarse debidamente en materia de sexualidad, considerando no sólo el plano físico sino el afectivo; los riesgos de las enfermedades de transmisión sexual, la salud reproductiva y la planificación familiar; e
 
-V. Informarse debidamente acerca de los efectos y daños irreversibles a la salud que producen el alcohol, el tabaco y las drogas, y sobre qué hacer para evitar su consumo.
+V. Informarse debidamente acerca de los efectos y daños irreversibles a la salud que producen el alcohol, el tabaco y las drogas, y sobre qué hacer para evitar su consumo;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+VI. A cumplir con las disposiciones normativas y reglamentarias de los programas de desarrollo social y humano, cuando sean beneficiarios de éstos, y
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+VII. Los demás que le impongan otras leyes, reglamentos o disposiciones normativas.
 
 ###### ARTÍCULO 21.
 
@@ -327,45 +391,73 @@ III. Contribuir al avance de la vida democrática del Estado participando en los
 
 IV. Mantener dentro y fuera del territorio del Estado actitudes que dignifiquen el nombre de Durango.
 
-### CAPÍTULO V. DEL INSTITUTO DE LA JUVENTUD DE DURANGO
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
-ARTÍCULO 24 El instituto de la Juventud de Durango, es un Organismo Público Descentralizado del Poder Ejecutivo del Estado, con autonomía, personalidad jurídica y patrimonio propio. Con domicilio en la Ciudad de Durango, Dgo.
+### CAPÍTULO V. DEL INSTITUTO DURANGUENSE DE LA JUVENTUD
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+###### ARTÍCULO 24.
+
+El Instituto, es un Organismo Público Descentralizado del Poder Ejecutivo del Estado, con autonomía, personalidad jurídica, y patrimonio propio, sectorizado a la Secretaría y con domicilio en la capital del Estado.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 25.
 
-El Instituto tendrá por objeto planear y promocionar las actividades de atención y asistencia que coadyuven al desarrollo integral de la juventud.
+El Instituto tendrá por objeto establecer las políticas y acciones que propicien y faciliten la incorporación de las y los jóvenes a la vida económica, política, cultural y social, así como planear y promocionar las actividades de atención y asistencia que coadyuven al desarrollo integral de la juventud, para lo cual estará en constante coordinación con la Secretaría.
+
+El Instituto elaborará y ejecutará en coordinación con la Secretaría, en su caso, las acciones previstas en el Programa de las y los jóvenes, orientados a promover el desarrollo integral de los mismos y que constituyan los lineamientos a seguir dentro del Plan Estatal de Desarrollo, en condiciones de equidad y género.
+
+El Instituto se coordinará con la Secretaría para la instrumentación y ejecución de las acciones y programas que realice para el cumplimiento de sus atribuciones y podrá la Secretaría instrumentar conjuntamente con el Instituto programas y acciones en beneficio de las y los jóvenes.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 26.
 
 El Instituto tiene las siguientes atribuciones:
 
-I. Formular e instrumentar la política estatal de la juventud, que permita incorporarla plenamente al desarrollo de la entidad;
+I. Fungir como órgano del Poder Ejecutivo del Estado, en lo referente a la juventud, sectorizado a la Secretaría, así como enlace y representante permanente de la instancia federal competente.
 
-II. Ampliar y promover ante las instituciones las demandas y necesidades de los jóvenes, haciendo énfasis en las áreas de salud, empleo, educación, capacitación, seguridad, justicia, cultura y recreación;
+II. Formular e instrumentar la operación de la política estatal de la juventud, así como de los acuerdos internacionales en esta materia, con base en los diagnósticos de cada sector involucrado en el programa, los que conformarán el documento que oriente la conducción del quehacer público, privado, social, político, académico y económico para mejorar la condición social de las y los jóvenes, en un marco de equidad, observando las reglas dispuestas por la junta y el reglamento del instituto, que permitan incorporarlos plenamente al desarrollo de la entidad;
 
-III. Formular y ejecutar el Programa Estatal de la Juventud y los programas operativos anuales de conformidad con el Plan Estatal de Desarrollo;
+III. Promover ante las instituciones las demandas y necesidades de los jóvenes, celebrando convenios con las áreas de salud, empleo, educación, capacitación, seguridad, justicia, cultura y recreación; informando de éstos a la Secretaría;
 
-IV. Actuar como órgano de consulta y asesoría de las dependencias y entidades de la Administración Pública Estatal, de los Municipios y de los sectores social y privado cuando así lo requieran;
+IV. Formular y ejecutar el Programa y los programas operativos anuales de conformidad con el Plan Estatal de Desarrollo;
 
-V. Concertar acuerdos y convenios con los Municipios para promover, con la participación, en su caso, de los sectores social y privado la política, programas y acciones tendientes al Desarrollo Integral de la Juventud;
+V. Actuar como órgano de consulta y asesoría de las dependencias y entidades de la Administración Pública Estatal, de los Municipios y de los sectores social y privado cuando así lo requieran;
 
-VI. Celebrar acuerdos y convenios de colaboración con organizaciones privadas y sociales para el desarrollo de proyectos que benefician a la juventud; mejorando la calidad y cobertura de las políticas juveniles eficientando el uso de los recursos;
+VI. Concertar acuerdos y convenios con los Municipios en los que participe la Secretaría como colaboradora para promover con los sectores social y privado, programas y acciones tendientes al Desarrollo Integral de la Juventud;
 
-VII. Realizar, promover, coordinar y difundir estudios e investigaciones sobre la situación de la juventud;
+VII. Celebrar acuerdos y convenios de colaboración con organizaciones privadas y sociales para el desarrollo de proyectos que benefician a la juventud, mejorando la calidad y cobertura de las políticas juveniles eficientando el uso de los recursos;
 
-VIII. Crear canales que incorporen la iniciativa de las y los jóvenes en lo individual y a través de sus organizaciones en la discusión y solución de sus problemas;
+VIII. Realizar, promover, coordinar y difundir estudios e investigaciones sobre la situación de la juventud;
 
-IX. Fomentar la capacidad de autogestión de las y los jóvenes y sus organizaciones;
+IX. Crear canales que incorporen la iniciativa de las y los jóvenes en lo individual a través de sus organizaciones en la discusión y solución de sus problemas;
 
-X. Prestar los servicios que se establezcan en los programas que formule el Instituto;
+X. Fomentar la capacidad de autogestión de las y los jóvenes y sus organizaciones;
 
-XI. Promover el ingreso y permanencia de las y los jóvenes en el sistema de educación formal;
+XI. Prestar los servicios que se establezcan en los programas que formulen el Instituto y la Secretaría en coordinación;
 
-XII. Promover y ejecutar acciones para el reconocimiento público y difusión de las actividades sobresalientes de la juventud duranguense en los diversos ámbitos del acontecer estatal y nacional;
+XII. Promover el ingreso y permanencia de las y los jóvenes en el sistema de educación formal;
 
-XIII. Fomentar el establecimiento de vínculos de amistad y de cooperación nacional e internacional en materia de juventud; y
+XIII. Promover y ejecutar acciones para el reconocimiento público y difusión de las actividades sobresalientes de la juventud duranguense en los diversos ámbitos del acontecer estatal y nacional;
 
-XIV. Los demás que determine la presente Ley.
+XIV. Fomentar el establecimiento de vínculos de amistad y de cooperación nacional e internacional en materia de juventud;
+
+XV. Gestionar ante agencias nacionales e internacionales el financiamiento de apoyo económico para programas, proyectos productivos o investigaciones de instituciones u organizaciones en beneficio de las y los jóvenes;
+
+XVI. Estimular la participación de organizaciones no gubernamentales y asociaciones civiles que actúen a favor de los derechos de las y los jóvenes, tanto en la formulación como en la evaluación de las políticas y acciones públicas orientadas en beneficio de los jóvenes;
+
+XVII. Proponer a las Autoridades Federales, Estatales y Municipales, según corresponda, la facilitación y simplificación de trámites para el establecimiento y operación de empresas y microempresas y proyectos productivos a favor de las y los Jóvenes;
+
+XVIII. Promover la participación de las y los jóvenes para su desarrollo y el de su comunidad;
+
+XIX. Llevar a cabo acciones tendientes a elevar el nivel de la calidad de vida de las y los jóvenes e impulsar la equidad entre los sectores vulnerables de la juventud;
+
+XX. Impulsar el diseño de políticas integrales que incluyan la perspectiva generacional, y
+
+XXI. Los demás que determine la presente Ley.
 
 ###### ARTÍCULO 27.
 
@@ -391,43 +483,67 @@ II. Dirección General, y
 
 III. Las unidades administrativas que se establezcan en el reglamento interior.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 29.
 
-La Junta de Gobierno la presidirá el C. Gobernador del Estado y se integrará con los siguientes vocales con derecho a voz y voto:
+La Junta de Gobierno será la máxima autoridad del Instituto y se integrará por:
 
-I. El o la Titular de la Secretaría General de Gobierno;
+I. Un Presidente que será el Gobernador del Estado;
 
-II. El o la Titular de la Secretaría de Finanzas y de Administración;
+II. Un Vicepresidente que será el Secretario de Desarrollo Social, que en sus ausencias será suplido por el Subsecretario de Desarrollo Social;
 
-III. El o la Titular de la Secretaría de Educación; y
+III. Vocales, que serán los titulares de las siguientes dependencias:
 
-IV. Un o una representante del Consejo Juvenil.
+Secretaría General de Gobierno;
 
-Procurando la equidad de género. Podrán participar con voz, pero sin voto, los servidores públicos y representantes de instituciones privadas y sociales a invitación expresa del Presidente de la Junta de Gobierno.
+Secretaría de Finanzas y de Administración;
 
-El desempeño de los miembros de la Junta de Gobierno será honorífico. La Junta de Gobierno contará con un secretario, designado por el Presidente de entre los vocales que forman parte de la misma.
+Secretaria de Educación, y
+
+IV. Un Comisario Público, que será designado por la Secretaría de Contraloría y Modernización Administrativa.
+
+Participará como Secretario Técnico con voz pero sin derecho a voto, el Titular de la Dirección General del Instituto.
+
+Procurando la equidad de género. Podrán participar con voz, pero sin voto, los servidores públicos y representantes de instituciones privadas y sociales a invitación expresa del Presidente de la Junta.
+
+Por cada miembro de la Junta, se nombrará un suplente, mismo que será designado respectivamente por cada vocal.
+
+Todos los miembros de la Junta tendrán derecho a voz y voto en caso de empate el voto de calidad lo tendrá el Presidente de la Junta. El desempeño de los miembros de la Junta de Gobierno será honorífico.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 30.
 
 Son atribuciones de la Junta:
 
-I. Aprobar y modificar, en su caso, el reglamento interior del Instituto, a propuesta del Director General;
+I. Aprobar, expedir y reformar, el reglamento interior del Instituto, y sus modificaciones a propuesta del Director General;
 
-II. Aprobar el Programa Estatal de la Juventud, de conformidad con el Plan Estatal de Desarrollo, y sus programas operativos anuales;
+II. Establecer en congruencia con la Ley de Planeación, el Plan Estatal de Desarrollo y los programas que se deriven de este, su programa institucional, las políticas generales y prioridades a las que deberá sujetarse la operación y desarrollo del Instituto relativas a producción, productividad, comercialización, finanzas, investigación, desarrollo tecnológico y administración general;
 
-III. Aprobar los proyectos de presupuesto anual de ingresos, egresos y los estados financieros del Instituto;
+III. Proponer al Ejecutivo Estatal los convenios de fusión con otras entidades paraestatales;
 
-IV. Nombrar y remover al personal de confianza, a propuesta del Director General;
+IV. Aprobar los programas y presupuestos del Instituto, así como sus modificaciones, sujetándose a lo dispuesto por las leyes aplicables en el Estado, el presupuesto de egresos y, en su caso a las asignaciones de gasto y financiamiento autorizados;
 
-V. Aprobar, de acuerdo con las disposiciones legales aplicables la elaboración de las bases que regulen los convenios, contratos o acuerdos que deba celebrar el Instituto con terceros en materia de obras públicas, adquisiciones, arrendamientos y prestación de servicios;
+V. Aprobar el proyecto de estructura orgánica que le proponga el Director General del Instituto;
 
-VI. Conferir poderes generales y especiales, así como su revocación;
+VI. Aprobar, de acuerdo con las disposiciones legales aplicables la elaboración de las bases que regulen los convenios, contratos o acuerdos que deba celebrar el Instituto con terceros en materia de obras públicas, adquisiciones, arrendamientos y prestación de servicios;
 
-VII. Vigilar el cumplimiento de los fines del Instituto;
+VII. Autorizar al Director General para otorgar Poder General para actos de administración y dominio, así como para pleitos y cobranzas, con todas las facultades generales y especiales que requieran poder o cláusula especial conforme a la ley así como revocarlas y sustituirlas;
 
-VIII. Aprobar el informe anual de actividades que le presente el Director General; y
+VIII. Vigilar el cumplimiento de los fines del Instituto;
 
-IX. Las demás que se establezcan en la presente Ley y otros ordenamientos jurídicos.
+IX. Analizar y aprobar anualmente los informes de actividades que presente el Director General, previo dictamen del Comisario designado por la Secretaria de Contraloría y Modernización Administrativa, respecto de los estados financieros del Instituto;
+
+X. Expedir los manuales de Organización General, de procedimientos y servicios al público; así como los instructivos especiales del mismo;
+
+XI. Administrar el patrimonio del Instituto y cuidar de su adecuado manejo;
+
+XII. Aprobar la concertación de obligaciones para el financiamiento así como observar los lineamientos que dicten las autoridades competentes, en materia de manejo de disponibilidades financieras;
+
+XIII. Vigilar y supervisar los estados financieros del Instituto; y
+
+XIV. Las demás que se establezcan en la presente Ley y otros ordenamientos jurídicos.
 
 ###### ARTÍCULO 31.
 
@@ -449,35 +565,75 @@ IV. Delegar en los miembros de la Junta de Gobierno la ejecución y realización
 
 V. Las demás que establezcan las disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 33.
 
-El Director General del Instituto, tendrá las siguientes atribuciones:
+El Director General del Instituto, tendrá las siguientes facultades y obligaciones:
 
-I. Representar legalmente al Instituto;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+I. Representar legalmente al Instituto, como apoderado legal para actos de administración, pleitos y cobranzas con todas las facultades generales y las que requieran cláusulas especiales, conforme a la ley, incluida la de desistirse del juicio de amparo, pudiendo sustituir y delegar este poder en uno o más apoderados, con la aprobación de la Junta;
 
 II. Ejecutar los acuerdos y disposiciones de la Junta de Gobierno;
 
 III. Elaborar y someter a la consideración de la Junta de Gobierno los anteproyectos institucionales, de presupuesto y operativo anual del Instituto;
 
-IV. Presentar a la Junta de Gobierno un informe anual de las actividades, avance de programas y estados financieros, con las observaciones que estime pertinentes. Asimismo presentará los informes que le solicite la Junta de Gobierno;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
-V. Promover el mejoramiento técnico, administrativo y patrimonial del Instituto;
+IV. Asistir a las sesiones de la Junta;
 
-VI. Proponer y ejecutar las medidas generales sobre el régimen interior, el cumplimiento de las políticas y programas para el desarrollo de la juventud;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
-VII. Elaborar los manuales de organización, de procedimientos y servicios al público;
+V. Establecer los sistemas de control necesario para alcanzar los objetivos y metas propuestas, fomentando la participación de los jóvenes en la ejecución de sus proyectos;
 
-VIII. Proponer a la Junta de Gobierno el nombramiento o remoción del personal de confianza del Instituto;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
-IX. Nombrar y remover, en su caso, a los trabajadores que presten sus servicios en el Instituto, cuya designación no esté a cargo de la Junta de Gobierno;
+VI. Formular el anteproyecto de reglamento interior del Instituto;
 
-X. Recabar información y elementos estadísticos sobre las funciones del Instituto, para mejorar su desempeño;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
-XI. Acordar en los casos que se requiera con el Presidente de la
+VII. Establecer los sistemas que permitan el óptimo aprovechamiento del patrimonio propio del Instituto;
 
-Junta y cumplir los mismos; y
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
-XII. Las demás que establezca la presente Ley y el Consejo.
+VIII. Recabar información y elementos estadísticos que reflejen el estado de las funciones del organismo, a fin de mejorar las gestiones de la misma;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+IX. Informar a la Junta de Gobierno sobre los avances para abatir los rezagos que obstaculicen al acceso de las y los jóvenes al desarrollo; convocar a las sesiones de la Junta elaborando el orden del día;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+X. Presentar a la Junta los informes de actividades, avance de programas y estados financieros, con las observaciones que estime pertinentes. Asimismo presentará los informes que le solicite la Secretaría;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+XI. Promover el mejoramiento técnico, administrativo y patrimonial del Instituto;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+XII. Proponer y ejecutar las medidas generales sobre el régimen interior, el cumplimiento de las políticas y programas para el desarrollo de la juventud;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+XIII. Elaborar los manuales de organización, de procedimientos y servicios al público y someterlos a la aprobación de la Junta;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+XIV. Proponer a la Junta el nombramiento o remoción de los directores y jefes de departamento del Instituto;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+XV. Nombrar y remover, en su caso, a los trabajadores que presten sus servicios en el Instituto, cuya designación no esté a cargo de la Junta;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+XVI. Acordar en los casos que se requiera con el Presidente de la Junta y cumplir los mismos; y
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+XVII. Las demás que establezca la presente Ley y la Junta.
 
 ###### ARTÍCULO 34.
 
@@ -510,6 +666,16 @@ III. Por diez representantes de organizaciones juveniles del Estado, y de los se
 ###### ARTÍCULO 37.
 
 Las autoridades y servidores públicos consideradas (sic) en la presente ley que incumplan con la misma, serán sujetos de responsabilidad, de conformidad con lo dispuesto por la Constitución Política de los Estados Mexicanos, la particular del Estado y la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+### CAPÍTULO VII. DEL RÉGIMEN DE TRABAJO
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+###### ARTÍCULO 38.
+
+Las relaciones entre el Instituto y sus trabajadores, se regirán de acuerdo a las leyes laborales aplicables. Se consideran trabajadores de confianza; el director general, directores, subdirectores, jefes de departamento, administradores y aquellos otros cargos que con tal carácter determine la ley de la materia.
 
 ## TRANSITORIOS
 
@@ -556,3 +722,13 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. JOSE MIGUEL CASTRO CARRILLO.
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 25 DE DICIEMBRE DE 2005.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- En virtud del cambio de denominación del Instituto, las atribuciones que en materia de atención a la juventud correspondan actualmente al Instituto de la Juventud de Durango, las asumirá el Instituto de la Juventud Duranguense.
+
+Tercero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
