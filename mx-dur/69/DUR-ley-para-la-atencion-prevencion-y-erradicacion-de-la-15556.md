@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-atencion-prevencion-y-erradicacion-de-la-15556"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-23"
-last_updated: "1999-12-23"
+last_updated: "2005-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15556&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "DUR"
 
 LEY PARA LA ASISTENCIA, ATENCION Y PREVENCION DE LA VIOLENCIA INTRAFAMILIAR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2005.
 
-Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 23 de diciembre de 1999.
+Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de diciembre de 1999.
 
 EL CIUDADANO LICENCIADO ANGEL SERGIO GUERRERO MIER, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO, A SUS HABITANTES, S A B E D :
 
@@ -81,17 +81,17 @@ DECRETO No. 217
 
 LA HONORABLE SEXAGÉSIMA PRIMERA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 55 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, A NOMBRE DEL PUEBLO, D E C R E T A:
 
-LEY PARA LA ASISTENCIA, ATENCIÓN Y
-
-PREVENCIÓN DE LA VIOLENCIA INTRAFAMILIAR
+LEY PARA LA ASISTENCIA, ATENCIÓN Y PREVENCIÓN DE LA VIOLENCIA INTRAFAMILIAR
 
 ## TÍTULO PRIMERO. DEL ALCANCE Y OBJETO DE LA LEY
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 1.
 
-Las disposiciones contenidas en la presente Ley, son de orden público e interés social, y tienen por objeto establecer las bases y procedimientos de asistencia, atención y prevención de la violencia intrafamiliar en el Estado de Durango.
+Las disposiciones contenidas en la presente Ley, son de orden público e interés social, y tienen por objeto establecer las bases y procedimientos de asistencia, atención, prevención y erradicación de la violencia intrafamiliar en el Estado de Durango.
 
 ###### ARTÍCULO 2.
 
@@ -105,9 +105,13 @@ Para los efectos de esta Ley, se entiende por:
 
 I. Ley: a la Ley para la Asistencia, Atención y Prevención de la Violencia Intrafamiliar;
 
-II. Concejo Estatal: al Concejo Estatal para la Asistencia, Atención y Prevención de la Violencia Intrafamiliar;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
-III. Concejo Municipal: al Concejo Municipal para la Asistencia, Atención y Prevención de la Violencia Intrafamiliar;
+II. Consejo Estatal: al Consejo Estatal para la Asistencia, Atención y Prevención de la Violencia Intrafamiliar;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+III. Consejo Municipal: al Consejo Municipal para la Asistencia, Atención y Prevención de la Violencia Intrafamiliar;
 
 IV. Juzgado Administrativo: a los Juzgados Administrativos Municipales.
 
@@ -123,11 +127,19 @@ c) Maltrato Sexual.- Al patrón de conducta consistente en actos u omisiones rei
 
 d) Abuso fetal.- Consiste en el daño ocasionado a un ser humano en proceso de formación y desarrollo intrauterino; y
 
-e) Negligencia.- Todos aquellos actos u omisiones que por descuido intencional pongan en peligro la integridad de un menor.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+e) Negligencia.- Todos aquellos actos u omisiones que por descuido intencional, permanente o temporal, pongan en peligro la vida, integridad o seguridad de una persona;
 
 VII. Generador de Violencia Intrafamiliar.- Quien realiza actos u omisiones de los señalados en la fracción anterior, hacia las personas con las que tenga algún vínculo familiar; y
 
-VIII.- Receptor de Violencia Intrafamiliar.- El grupo o individuo vulnerable que sufre el maltrato señalado en la fracción VI de este artículo.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+VIII. Receptor de Violencia Intrafamiliar.- El grupo o individuo vulnerable que sufre cualquier daño de los señalados en la fracción VI de este artículo, y
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+IX. SEDESOE.- A la Secretaría de Desarrollo Social.
 
 ###### ARTÍCULO 4.
 
@@ -135,21 +147,29 @@ La aplicación de esta Ley estará a cargo del Ejecutivo Estatal a través de su
 
 Las demás dependencias, instituciones y organismos públicos y privados, serán auxiliares en la observancia de la presente Ley, conforme a los mecanismos de coordinación que al efecto se establezcan.
 
-## TÍTULO SEGUNDO. DE LOS CONCEJOS ESTATAL Y MUNICIPALES
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+## TÍTULO SEGUNDO. DE LOS CONSEJOS ESTATAL Y MUNICIPALES
 
 ### CAPÍTULO I. DE LA ESTRUCTURA, FUNCIONES Y COMPETENCIAS
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 5.
 
-Se crea el Concejo Estatal para la Asistencia, Atención y Prevención de la Violencia Intrafamiliar, como un órgano honorario, de apoyo normativo, de consulta, evaluación y coordinación de las tareas y acciones en la materia.
+Se crea el Consejo Estatal para la Asistencia, Atención y Prevención de la Violencia Intrafamiliar, como un órgano honorario, de apoyo normativo, de consulta, evaluación y coordinación de las tareas y acciones en la materia.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 6.
 
-El Concejo Estatal promoverá la participación de los Ayuntamientos en sus respectivos ámbitos de competencia, estableciendo a su vez los concejos Municipales para la Asistencia, Atención y Prevención de la Violencia Intrafamiliar.
+El Consejo Estatal promoverá la participación de los Ayuntamientos en sus respectivos ámbitos de competencia, estableciendo a su vez los Consejos Municipales para la Asistencia, Atención y Prevención de la Violencia Intrafamiliar.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 7.
 
-El Concejo Estatal estará integrado por:
+El Consejo Estatal estará integrado por:
 
 I. Un Presidente, que será el Gobernador del Estado;
 
@@ -157,45 +177,69 @@ II. El Secretario General de Gobierno;
 
 III. Un Secretario Ejecutivo, que será el Procurador de la Defensa del Menor, la Mujer y la Familia;
 
-IV. El Presidente del Patronato del D.I.F. Estatal;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+IV.- El Director General del DIF Estatal;
 
 V. Un Diputado representante del Poder Legislativo.
 
 VI. El Presidente del Tribunal Superior de Justicia;
 
-VII. El Secretario de Salud;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
-VIII. El Secretario de Educación Cultura y Deporte;
+VII.- El Secretario de Desarrollo Social;
 
-IX. El Procurador General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
-X. El Director General de D.I.F. Estatal;
+VIII.-El Secretario de Salud;
 
-XI. El Presidente de la Comisión de Derechos Humanos; y
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
-> <small>(F. DE E., P.O. 6 DE ABRIL DE 2000)</small>
+IX.- El Secretario de Educación;
 
-XII. Los Presidente Municipales que el Concejo designe.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
-A invitación del Presidente del Concejo, podrán participar en sus sesiones, dependencias federales, además representantes de las instituciones, legalmente constituidos y organizaciones sociales, así como expertos con reconocida trayectoria en materia de asistencia, atención y prevención a la violencia intrafamiliar, quienes tendrán derecho sólo a voz.
+X.- El Secretario de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+XI.- El Procurador General de Justicia;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+XII.- El Presidente de la Comisión Estatal de Derechos Humanos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+XIII.- Los Presidentes Municipales que el Consejo designe.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+A invitación del Presidente del Consejo, podrán participar en sus sesiones, dependencias federales, además representantes de las instituciones legalmente constituidas y organizaciones sociales, así como expertos con reconocida trayectoria en materia de asistencia, erradicación, atención y prevención de la violencia intrafamiliar, quienes tendrán derecho solo a voz.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 8.
 
-En ausencia del Gobernador del Estado, presidirá las sesiones del Concejo Estatal el Secretario General de Gobierno.
+En ausencia del Gobernador del Estado, presidirá las sesiones del Consejo Estatal el Secretario general de Gobierno.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 9.
 
-El Concejo Estatal y los Municipales celebrarán una sesión ordinaria cada seis meses, así como las extraordinarias que sean indispensables.
+Los Consejos Estatal y los Municipales celebrarán una sesión ordinaria cada seis meses, así como las extraordinarias que sean indispensables.
 
 Los acuerdos se tomarán mediante el voto de la mayoría de los miembros presentes. En caso de empate quién presida tendrá voto de calidad.
 
-> <small>(F. DE E., P. O. 6 DE ABRIL DE 2000)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
-Por cada miembro de los Concejos se designará un suplente, a propuesta del Titular, quien tendrá las facultades de decisión del mismo.
+Por cada miembro del Consejo se designará un suplente, a propuesta del Titular, quien tendrá las facultades de decisión del mismo.
 
-###### ARTICULO 10.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
-El Concejo Estatal tendrá las siguientes funciones:
+###### ARTÍCULO 10.
+
+El Consejo Estatal tendrá las siguientes funciones:
 
 I. Aprobar el programa global para la Asistencia, Atención y Prevención de la Violencia Intrafamiliar en sus respectivos ámbitos de competencia, así como vigilar su aplicación y cumplimiento;
 
@@ -219,11 +263,15 @@ X. Incorporar a las funciones de atención y prevención, mediante convenios, a 
 
 XI. Vigilar la aplicación y cumplimiento del programa general derivado de la ley.
 
-### CAPÍTULO II. DE LA PRESIDENCIA DEL CONCEJO ESTATAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
-###### ARTICULO 11.
+### CAPÍTULO II. DE LA PRESIDENCIA DEL CONSEJO ESTATAL
 
-El Presidente del Concejo Estatal tendrá las siguientes facultades:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+###### ARTÍCULO 11.
+
+El Presidente del Consejo Estatal tendrá las siguientes facultades:
 
 I. Celebrar acuerdos y convenios cuando sea necesario con dependencias, entidades públicas y privadas, así como con instituciones sociales y educativas, para la coordinación de acciones a nivel estatal y municipal;
 
@@ -231,63 +279,107 @@ II. Citar a sesiones;
 
 III. Establecer las bases para el sistema de registro de la información estadística sobre violencia intrafamiliar;
 
-### CAPÍTULO III. DE LA SECRETARÍA EJECUTIVA DEL CONCEJO ESTATAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+### CAPÍTULO III. DE LA SECRETARÍA EJECUTIVA DEL CONSEJO ESTATAL
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 12.
 
-El Concejo Estatal, tendrá una Secretaría Ejecutiva, cuyo titular será en el Estado el Procurador de la Defensa del Menor, la Mujer y la Familia, quien contará con el apoyo administrativo que le asignen.
+El Consejo Estatal, tendrá una Secretaría Ejecutiva, cuyo titular será en el Estado el Procurador de la Defensa del Menor, la Mujer y la Familia, quien contará con el apoyo administrativo que le asignen.
 
-La Secretaría Ejecutiva deberá contar con un equipo técnico de apoyo, integrado por expertos con reconocida trayectoria en la materia y nombrados por el propio Concejo, también podrá designar los coordinadores que se requieran para la ejecución de sus resoluciones.
+La Secretaría Ejecutiva deberá contar con un equipo técnico de apoyo, integrado por expertos con reconocida trayectoria en la materia y nombrados por el propio Consejo, también podrá designar los coordinadores que se requieran para la ejecución de sus resoluciones.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 13.
 
-La Secretaría Ejecutiva del Concejo Estatal, tendrá las siguientes funciones:
+La Secretaría Ejecutiva del Consejo Estatal, tendrá las siguientes funciones:
 
-I. Representar legalmente al Concejo;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
-II. Registrar y ejecutar los acuerdos del Concejo y sistematizarlos para su seguimiento;
+I. Representar legalmente al Consejo;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+II. Registrar y ejecutar los acuerdos del Consejo y sistematizarlos para su seguimiento;
 
 III. Identificar y analizar los problemas actuales y potenciales de la Violencia Intrafamiliar;
 
-IV. Presentar a consideración del Concejo para su aprobación, la iniciativa del programa global anual para la asistencia, atención y prevención de la violencia intrafamiliar en el Estado y municipios;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
-V. Elaborar y someter a la consideración del Presidente del Concejo, el proyecto de calendario de sesiones así como el orden del día para cada sesión;
+IV. Presentar a consideración del Consejo para su aprobación, la iniciativa del programa global anual para la asistencia, atención y prevención de la violencia intrafamiliar en el Estado y municipios;
 
-VI. Llevar el registro de las personas físicas y/u organismos no gubernamentales invitados a participar en las sesiones del Concejo;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
-VII. Coordinar los trabajos de asistencia, atención y prevención que lleven a cabo los participantes en el Concejo Estatal o Municipal, quienes dispondrán o programarán las acciones necesarias, con sus propias estructuras administrativas, operativas y recursos humanos;
+V. Elaborar y someter a la consideración del Presidente del Consejo, el proyecto de calendario de sesiones así como el orden del día para cada sesión;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+VI. Llevar el registro de las personas físicas y/u organismos no gubernamentales invitados a participar en las sesiones del Consejo;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+VII. Coordinar los trabajos de asistencia, atención y prevención que lleven a cabo los participantes en el Consejo Estatal o Municipal, quienes dispondrán o programarán las acciones necesarias, con sus propias estructuras administrativas, operativas y recursos humanos;
 
 VIII. Promover que se proporcione la prevención, asistencia y atención en las diversas instituciones que se encuentran comprendidas en la Ley;
 
-IX. Elaborar el informe anual de evaluación del programa, recabando para ello la información de las actividades desarrolladas, el cual será presentado ante el Concejo Estatal;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+IX. Elaborar el informe anual de evaluación del programa, recabando para ello la información de las actividades desarrolladas, el cual será presentado ante el Consejo Estatal;
 
 X. Organizar cursos y talleres de capacitación para los servidores públicos a quienes corresponda la atención y la prevención de la violencia intrafamiliar; y,
 
-XI. Las demás que se deriven de éste u otros ordenamientos aplicables o le encomiende el Concejo
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
-### CAPÍTULO IV. DEL CONCEJO MUNICIPAL
+XI. Las demás que se deriven de éste u otros ordenamientos aplicables o le encomiende el Consejo.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+### CAPÍTULO IV. DEL CONSEJO MUNICIPAL
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 14.
 
-Los Concejos Municipales se integrarán de la forma siguiente:
+Los Consejos Municipales se integrarán de la forma siguiente:
 
 I. Un Presidente, que será el Presidente Municipal;
 
-II. El Secretario del Ayuntamiento;
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
-III. El Director del D.I.F. Municipal;
+II. Un Secretario Ejecutivo, que será el Delegado Municipal de la Procuraduría de la Defensa del Menor, la Mujer y la Familia;
 
-IV. El Delegado Municipal de la Procuraduría de la Defensa del Menor, la Mujer y la Familia;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE DICIEMBRE DE 2005)</small>
 
-V. Dos Regidores, que serán nombrados por el Cabildo; y
+III. El Secretario del Ayuntamiento;
 
-VI. Los Jueces Administrativos.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE DICIEMBRE DE 2005)</small>
 
-Podrán participar en las sesiones del Concejo Municipal, organismos sociales, organizaciones no gubernamentales y dependencias estatales y federales o expertos reconocidos en la materia de asistencia, atención y prevención a la violencia intrafamiliar, quienes tendrán sólo derecho a voz.
+IV. El Director del D.I.F. Municipal;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+V. El Director Municipal de Desarrollo Social o su equivalente;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+VI. Dos Regidores, que serán nombrados por el Ayuntamiento, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+VII. Los Jueces Administrativos.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+Podrán participar en las sesiones del Consejo Municipal, organismos sociales, organizaciones no gubernamentales y dependencias y entidades estatales y federales o expertos reconocidos en la materia de asistencia, atención y prevención y erradicación a la violencia intrafamiliar, quienes tendrán sólo derecho a voz.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 15.
 
-El Concejo Municipal tendrá las siguientes funciones:
+El Consejo Municipal tendrá las siguientes funciones:
 
 I. Aprobar el programa global para la Asistencia, Atención y Prevención de la Violencia Intrafamiliar en sus respectivos ámbitos de competencia, así como vigilar su aplicación y cumplimiento;
 
@@ -311,11 +403,15 @@ X. Incorporar a las funciones de atención y prevención, mediante convenios, a 
 
 XI. Vigilar la aplicación y cumplimiento del programa general derivado de la ley.
 
-### CAPÍTULO V. DE LA PRESIDENCIA DEL CONCEJO MUNICIPAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+### CAPÍTULO V. DE LA PRESIDENCIA DEL CONSEJO MUNICIPAL
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 16.
 
-El Presidente del Concejo Municipal, tendrá las siguientes facultades:
+El Presidente del Consejo Municipal, tendrá las siguientes facultades:
 
 I. Celebrar acuerdos y convenios cuando sea necesario con dependencias, entidades públicas y privadas, así como con instituciones sociales y educativas, para la coordinación de acciones a nivel municipal;
 
@@ -325,27 +421,37 @@ III. Llevar un registro de la información estadística sobre violencia intrafam
 
 IV. Recibir mensualmente un informe del juzgado administrativo.
 
-### CAPÍTULO VI. DE LA SECRETARÍA EJECUTIVA DEL CONCEJO MUNICIPAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+### CAPÍTULO VI. DE LA SECRETARÍA EJECUTIVA DEL CONSEJO MUNICIPAL
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 17.
 
-El Concejo Municipal tendrá una Secretaría Ejecutiva, cuyo titular será el Delegado Municipal de la Procuraduría de la Defensa del Menor, la Mujer y la Familia o a falta de éste, el director del DIF Municipal, quien contará con el apoyo administrativo que le asignen.
+El Consejo Municipal tendrá una Secretaria Ejecutiva, cuya titular será el Delegado Municipal de la Procuraduría de la Defensa del Menor, la Mujer y la Familia o a falta de éste, el director del DIF Municipal, quien contará con el apoyo administrativo que le asignen.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 18.
 
-La Secretaría Ejecutiva del Concejo Municipal, tendrá las facultades que establece el artículo 13 de esta ley, en el ámbito de su competencia.
+La Secretaría Ejecutiva del Consejo Municipal, tendrá las facultades que establece el artículo 13 de esta ley, en el ámbito de su competencia.
 
 ## TÍTULO TERCERO. DE LA PREVENCIÓN
 
 ### CAPÍTULO ÚNICO. DE LA COORDINACIÓN
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 19.
 
-Las instituciones públicas, privadas y organismos no gubernamentales y organizaciones sociales, de acuerdo a sus posibilidades y recursos, programarán acciones y campañas públicas que tiendan a sensibilizar y concientizar a la población sobre las formas en que se puede anticipar y detectar la violencia intrafamiliar, e informarán de éstas a las Secretarías Ejecutivas, quienes a su vez lo harán del conocimiento de los Concejos Estatal o Municipal.
+Las instituciones públicas, privadas y organismos no gubernamentales y organizaciones sociales, de acuerdo a sus posibilidades y recursos, programarán acciones y campañas públicas que tiendan a sensibilizar y concientizar a la población sobre las formas en que se puede anticipar y detectar la violencia intrafamiliar, e informarán de éstas a las Secretarías Ejecutivas, quienes a su vez lo harán del conocimiento de los Consejos Estatal o Municipal.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 20.
 
-Se fomentará la realización de investigaciones entre los integrantes de los Concejos sobre el fenómeno de la violencia intrafamiliar, cuyos resultados servirán para diseñar nuevos modelos para su prevención y atención.
+Se fomentará la realización de investigaciones entre los integrantes de los Consejos sobre el fenómeno de la violencia intrafamiliar, cuyos resultados servirán para diseñar nuevos modelos para su prevención y atención.
 
 ###### ARTÍCULO 21.
 
@@ -355,7 +461,11 @@ I. Por conducto de las Oficialías del Registro Civil, difundir el contenido y a
 
 II. Promover la capacitación y sensibilización de los procuradores y defensores de oficio, así como del personal que preste sus servicios en las defensorías de oficio en el Estado, en materia familiar y penal, a efecto de mejorar la atención de los receptores de violencia intrafamiliar; y
 
-III. Las demás que determine el Concejo Estatal.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+III. Las demás que determine el Consejo Estatal.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
 ## TÍTULO CUARTO. DEL PROCEDIMIENTO
 
@@ -375,31 +485,75 @@ III. Incentivar la formación de áreas o centros especializados en salud mental
 
 IV. Llevar a cabo programas de sensibilización, así como proporcionar la formación y capacitación sobre como prevenir la violencia familiar a los usuarios en las salas de consulta externa de los hospitales generales, materno infantiles y pediátricos del Estado de Durango; así como al personal médico dependiente de los Servicios Coordinados de Salud Pública en el Estado;
 
-V. Integrar un sistema de registro de los casos de violencia intrafamiliar detectados y/o atendidos por las Instituciones y Organismos incluidos en la presente Ley, quienes informarán trimestral y anualmente a la Secretaría Ejecutiva del Concejo;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
-VI. Promover acciones y programas de protección social a los receptores de violencia intrafamiliar y procurar que la asistencia, atención y tratamiento, que el Estado proporcione a éstos, sea gratuita; y
+V. Integrar un sistema de registro de los casos de violencia intrafamiliar detectados y/o atendidos por las Instituciones y Organismos incluidos en la presente Ley, quienes informarán trimestral y anualmente a la Secretaría Ejecutiva del Consejo;
 
-VII. Las demás que determine el Concejo Estatal.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+VI. Promover en coordinación con la SEDESOE y con el DIF acciones y programas de protección social a los receptores y generadores de violencia intrafamiliar;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+VII. Procurar que la asistencia, atención, y tratamiento que el Estado proporcione a éstos, sea gratuita;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+VIII. Las demás que determine el Consejo Estatal.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 23.
 
-Compete a la Secretaría de Educación, Cultura y Deporte:
+Compete a la Secretaría de Educación del Estado:
 
 I. Desarrollar programas educativos en todos los niveles, que fomenten la corresponsabilidad familiar en la sana convivencia; e incorporará en los procesos de enseñanza - aprendizaje los derechos humanos en general, y especialmente, los de las personas con discapacidad, ancianos, los de la mujer y los niños y niñas, sin distinción de sexo, edad, etnia o clase social;
 
-II. Crear programas de intervención temprana en comunidades de escasos recursos para prevenir la violencia intrafamiliar, para lo cual incorporará a la población en la operación de dichos programas;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
-III. Promover programas educativos en zonas indígenas, éstos en su lengua, para la prevención de la violencia intrafamiliar;
+II.- Crear en coordinación con la SEDESOE y con el DIF programas sociales de intervención temprana en comunidades de escasos recursos para prevenir la violencia intrafamiliar, incorporando a la población y demás instituciones relacionadas en la operación de dichos programas;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+III. Promover en coordinación con la SEDESOE y con DIF programas educativos en zonas indígenas, ya sea en su lengua, dialecto o lenguaje, para la prevención de la violencia intrafamiliar;
 
 IV. Realizar investigaciones sobre la violencia intrafamiliar dentro del proceso educativo, cuyos resultados sirvan para diseñar estrategias para su prevención y tratamiento;
 
-V. Difundir programas para prevenir la violencia intrafamiliar, involucrando a las madres y padres de la familia en las actividades;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+V. Difundir programas para prevenir la violencia intrafamiliar, involucrando a las madres y padres de familia, alumnado y autoridades educativas, para lo cual podrá coordinarse con la SEDESOE y con el DIF;
 
 VI. Realizar campañas públicas en coordinación con otras organizaciones sociales, para concientizar a la población sobre la prevención de la violencia intrafamiliar;
 
-VII. Detectar en los centros educativos casos concretos de violencia intrafamiliar y canalizarlos a la dependencia correspondiente la cual brindará al receptor de la violencia el tratamiento especializado; y
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
-VIII. Las demás que determine el Concejo Estatal.
+VII. Detectar en los centros educativos casos concretos de violencia intrafamiliar y canalizarlos a las instancias correspondientes, las que deberán brindar atención al receptor y al generador de violencia intrafamiliar, mediante tratamiento especializado, y
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+VIII. Las demás que determine el Consejo Estatal.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+ARTÍCULO 23 BIS.- Compete a la SEDESOE:
+
+I. Impulsar y fortalecer en coordinación con los sectores público, privado y social una política social integral para atender, prevenir y erradicar la violencia intrafamiliar;
+
+II. Instrumentar en coordinación con DIF y demás instituciones del sector público o privado, acciones y programas de prevención, atención y erradicación de la violencia intrafamiliar, en favor de la población;
+
+III. Instrumentar programas de desarrollo humano en todos los sectores de la sociedad, que promuevan los valores familiares que sirvan de apoyo para la prevención y atención del fenómeno social de violencia intrafamiliar;
+
+IV. Promover campañas de Prevención de la Violencia Intrafamiliar;
+
+V. Implementar en coordinación con el DIF y demás instituciones competentes, programas y acciones que brinden atención a personas afectadas por la violencia intrafamiliar, tanto a generadores como a receptores propiciándoles las bases para alcanzar el desarrollo familiar y social dañado por el círculo de violencia,
+
+VI. Establecer en coordinación con las instituciones competentes para el fortalecimiento y creación de grupos y agrupaciones de autoayuda y de difusión al fenómeno de la violencia intrafamiliar;
+
+VII. Establecer programas e infraestructura que coadyuve con las instituciones públicas o privadas relacionadas, en la integración social de las personas afectadas por la violencia intrafamiliar, tanto a receptores como a generadores;
+
+VIII. Establecer programas de desarrollo humano dirigidos a generadores y receptores de violencia intrafamiliar; y
+
+IX. Promover programas de protección social para las víctimas de violencia intrafamiliar.
 
 ###### ARTÍCULO 24.
 
@@ -642,3 +796,11 @@ POR TANTO MANDO SE IMPRIMA, PUBLIQUE, CIRCULE Y COMUNIQUESE A QUIENES CORRESPOND
 DADO EN EL PALACIO DEL PODER EJECUTIVO, EN VICTORIA DE DURANGO, DGO., A LOS NUEVE DÍAS DEL MES DE DICIEMBRE DEL AÑO DE MIL NOVECIENTOS NOVENTA Y NUEVE.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. ÁNGEL SERGIO GUERRERO MIER. EL SECRETARIO GENERAL DE GOBIERNO.- LIC. JOSÉ MIGUEL CASTRO CARRILLO. RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 25 DE DICIEMBRE DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
