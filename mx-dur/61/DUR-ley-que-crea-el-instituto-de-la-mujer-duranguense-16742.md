@@ -4,7 +4,7 @@ identifier: "DUR-ley-que-crea-el-instituto-de-la-mujer-duranguense-16742"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-18"
-last_updated: "2000-06-18"
+last_updated: "2005-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16742&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY QUE CREA EL INSTITUTO DE LA MUJER DURANGUENSE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 18 de junio de 2000.
 
@@ -71,33 +71,47 @@ LEY QUE CREA EL INSTITUTO DE LA MUJER DURANGUENSE
 
 ### CAPÍTULO I. DE LA CREACIÓN, OBJETO Y FUNCIONES
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 1.
 
-Se crea el Instituto de la Mujer Duranguense, como Organismo Público Descentralizado, con personalidad jurídica y patrimonio propio.
+Se crea el Instituto de la Mujer Duranguense, como Organismo Público Descentralizado, con personalidad jurídica y patrimonio propio; sectorizado a la Secretaría de Desarrollo Social, con domicilio legal en la capital del Estado.
 
-Para los efectos del presente ordenamiento, el término Instituto se entenderá referido al Instituto de la Mujer Duranguense.
+Para los efectos del presente ordenamiento, el término el (sic) Instituto se entenderá referido al Instituto de la Mujer Duranguense y el término a Secretaría a la Secretaría de Desarrollo Social.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 2.
 
-El Instituto tendrá por objeto establecer las políticas y acciones que propicien y faciliten la plena incorporación de las mujeres en la vida económica, política, cultural y social, alentando su participación en todos los niveles y ámbitos de decisión, promoviendo ante las autoridades e instancias competentes los mecanismos necesarios para ello.
+El Instituto tendrá por objeto establecer las políticas y acciones que propicien y faciliten la plena incorporación de las mujeres en la vida económica, política, cultural y social, alentando su participación en todos los niveles y ámbitos de decisión, promoviendo ante las autoridades e instancias competentes los mecanismos necesarios para ello y estará en vinculación con la Secretaría.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 3.
 
-El Instituto, elaborará, coordinará y ejecutará, en su caso, las acciones previstas en el Programa Estatal de la Mujer, orientadas a promover el desarrollo integral de las mujeres y que constituyan los lineamientos a seguir dentro del Plan Estatal de Desarrollo, en condiciones de equidad y género.
+El Instituto elaborará y ejecutará en coordinación con la Secretaría, en su caso, las acciones previstas en el Programa Institucional de la Mujer, orientadas a promover el desarrollo integral de las mujeres y que constituyan los lineamientos a seguir dentro del Plan Estatal de Desarrollo, en condiciones de equidad y género.
+
+El Instituto se coordinará con la Secretaría para la instrumentación y ejecución de las acciones y programas que realice, para el cumplimiento de sus atribuciones en beneficio de las mujeres.
 
 ###### ARTÍCULO 4.
 
 Para el cumplimiento de su objeto, el Instituto tendrá las siguientes atribuciones:
 
-I. Coordinar e instrumentar la operación del programa Nacional de la Mujer, así como de los acuerdos internacionales en esta materia, con base en los diagnósticos de cada sector involucrado en el Programa Estatal de la Mujer, los que conformarán el documento que oriente la conducción del quehacer público, privado, social, político, académico y económico para mejorar la condición social de las mujeres en un marco de equidad, observando las reglas dispuestas por el Consejo directivo y el Reglamento del Instituto;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
-II. Fungir como órgano del Ejecutivo del Estado en lo referente a la mujer, así como de enlace y representante permanente del Ejecutivo ante la Comisión Nacional de la Mujer, la Comisión de Genero del H. Congreso de la Unión y Comisión de Equidad y Género del H. Congreso del Estado;
+I. Instrumentar la operación del programa Nacional de la Mujer, así como de los acuerdos internacionales de esta materia, con base en los diagnósticos de cada sector involucrado en el Programa Institucional de la Mujer, los que conformaran el documento que oriente la conducción del quehacer público, privado, social, político, académico y económico para mejorar la condición social de las mujeres en un marco de equidad, observando las reglas dispuestas por el Consejo Directivo y el Reglamento del Instituto;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+II. Fungir como organismo sectorizado a la Secretaría en lo referente a la mujer, así como de enlace y representante permanente del Ejecutivo ante la Comisión Nacional de la Mujer, la Comisión de Genero del H. Congreso de la Unión y Comisión de Equidad y Género del H. Congreso del Estado;
 
 III. Promover y, en su caso, coordinar con las dependencias de los Poderes Legislativo y Judicial, así como con las delegaciones federales y autoridades municipales, la incorporación con enfoque de genero en la planeación estatal;
 
 IV. Impulsar la revisión, modificación, actualización, adecuación y fortalecimiento de la legislación estatal o a la reglamentación municipal, a fin de asegurar el marco legal que garantice la igualdad de oportunidades en materia de educación, salud, capacitación, ejercicio de derechos, trabajo y remuneración;
 
-V. Presidir, a través de su Directora General, el Subcomité Especial de la Mujer en el seno del COPLADE. Establecer y operar, en coordinación con el COPLADE, un sistema de seguimiento de los programas federales, estatales y municipales, de conformidad con lo previsto en las leyes y convenios de coordinación y concertación que se celebren;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+V. Presidir, a través de su Directora General, el Subcomité Especial de la Mujer en el seno del COPLADE. Establecer y operar, en coordinación con “la Secretaría”, un sistema de seguimiento de los programas federales, estatales y municipales, de conformidad con lo previsto en las leyes y convenios de coordinación y concertación que se celebren;
 
 VI. Proponer las políticas para la elaboración y evaluación de los programas relativos a la mujer en coordinación y concertación con los sectores público, privado y social;
 
@@ -157,11 +171,17 @@ El Instituto gozará respecto de su patrimonio, de las franquicias y prerrogativ
 
 El Instituto, estará conformado por los siguientes órganos:
 
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
 I. Consejo Directivo;
 
-II. Dirección General; y
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
-III. Consejo Consultivo, que será el órgano asesor y de apoyo de los dos primeros; y
+II. Directora General;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+III. Consejos Ciudadanos, que serán órganos asesores y de apoyo de los dos primeros; y
 
 IV. Los órganos auxiliares indispensables para su funcionamiento.
 
@@ -171,49 +191,75 @@ El Consejo Directivo será la máxima autoridad del Instituto y estará integrad
 
 I. Un Presidente, que será el Gobernador Constitucional del Estado;
 
-II. Un Vicepresidente, que será el Secretario General de Gobierno, que en sus ausencias será suplido por el Subsecretario General de Gobierno;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
-III. Una Secretaria Técnica, que será la titular de la Dirección General del Instituto; y
+II. Un Vicepresidente, que será el Secretario de Desarrollo Social, que en sus ausencias será suplido por el Subsecretario de Desarrollo Social;
 
-IV. Vocales, que serán los titulares de las siguientes dependencias:
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
-- Secretaría de Desarrollo Industrial, Comercial y Minero;
+III. Vocales, que serán los titulares de las siguientes dependencias:
 
-- Secretaría de Salud;
+- Secretaría General de Gobierno;
 
-- Secretaria de Educación Cultura y Deporte;
+- Secretaría de Desarrollo Económico;
 
-- Secretaría de Finanzas y de Administración;
+- Secretaria de Salud;
 
-- Secretaría de Agricultura, Ganadería y Desarrollo Rural;
+- Secretaría de Educación;
+
+- Secretaría de Finanzas y Administración;
+
+- Secretaria de Agricultura, Ganadería y Desarrollo Rural;
 
 - Procuraduría General de Justicia en el Estado;
+
+- Secretaría de Seguridad Pública;
 
 - Comisión Estatal de Derechos Humanos;
 
 - Delegado Estatal de la Secretaría de Desarrollo Social;
 
-- Delegado Estatal del Instituto Nacional Indigenista;
+- Delegado Estatal de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas;
 
-- Procuraduría de la Defensa del Menor y la Familia.
+- Procuraduría de la Defensa del Menor, la Mujer y la Familia;
 
-- 4 mujeres representantes por cada una de las regiones del semidesierto, los valles, la sierra y las quebradas, las cuales serán designadas por los ayuntamientos que las conforman, por el término de tres años, pudiendo ser ratificadas.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
-- Las mujeres que desempeñen cargos de presidentas municipales, diputadas locales, diputadas federales y senadoras por el Estado de Durango.
+IV. Cinco mujeres representantes de cada una de las regiones del Estado: Norte (localidad central Municipio de El Oro), Sur (localidad central (municipio de Pueblo Nuevo), Noroeste (localidad central Municipio de Santiago Papasquiaro), Laguna (localidad central Municipio de Gómez Palacio) y Centro (localidad central Municipio de Durango) las cuales serán designadas por el Ayuntamiento del Municipio localidad central de la región correspondiente, por el termino de tres años, pudiendo ser ratificadas;
 
-Por cada miembro del consejo directivo, se nombrará un suplente, mismo que será designado respectivamente por cada vocal.
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
-Todos los miembros del Consejo Directivo tendrán derecho a voz y voto.
+V. Un Comisario Público que será designado por la Secretaría de Contraloría y Desarrollo Administrativo;
 
-A invitación del Consejo Directivo podrán asistir las dependencias federales que ejecuten programas en beneficio directo de la mujer; además, a personalidades distinguidas y profesionales en la materia, para que aporten su experiencia y conocimientos en la resolución de asuntos que se traten en las sesiones respectivas.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+Por cada miembro del Consejo Directivo, se nombrará un suplente, mismo que será designado respectivamente por cada vocal.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+Todos los miembros del Consejo Directivo tendrán derecho a voz y voto, en caso de empate el voto de calidad lo tendrá el Presidente del Consejo.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+A invitación del Consejo Directivo podrán asistir, las mujeres que desempeñen cargos de presidentas municipales, diputadas locales, diputadas federales y senadoras por el Estado de Durango, las dependencias federales que ejecuten programas en beneficio directo de la mujer; además, a personalidades distinguidas y profesionales en la materia, para que aporten su experiencia y conocimientos en la resolución de asuntos que se traten en las sesiones respectivas.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+La Directora General del Instituto fungirá como secretaria técnica con derecho a voz pero sin voto.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+ARTÍCULO 8 BIS.- El Presidente del Consejo, por conducto de la Directora General, podrá invitar a las reuniones del órgano de gobierno en forma temporal o permanente a los servidores públicos o personas que considere procedente cuando algún asunto amerite su participación.
 
 ###### ARTÍCULO 9.
 
 El Consejo Directivo funcionará válidamente con la asistencia de cuando menos el cincuenta por ciento mas uno de sus miembros, siempre que entre ellos se encuentre el Presidente o Vicepresidente; sus decisiones se tomarán por mayoría de votos; el Presidente tendrá voto de calidad, en caso de empate.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 10.
 
-El Consejo Directivo sesionará en pleno y en forma ordinaria trimestralmente, en comisiones cuando se requiera; y de manera extraordinaria, cuando sea necesario para su debido funcionamiento, convocado por el Presidente. De cada sesión se levantará acta circunstanciada que deberá ser firmada por quien la haya presidido y por la Secretaría Técnica. Así mismo, sesionará y operará en los términos que disponga el Reglamento Interior del Instituto.
+El Consejo Directivo sesionará en pleno y en forma ordinaria trimestralmente, en comisiones cuando se requiera; y de manera extraordinaria, cuando sea necesario para su debido funcionamiento, convocado por el Presidente o por el Vicepresidente. De cada sesión se levantará acta circunstanciada que deberá ser firmada por quien la haya presidido y por la Secretaría Técnica. Así mismo, sesionará y operará en los términos que disponga el Reglamento Interior del Instituto.
 
 ###### ARTÍCULO 11.
 
@@ -223,17 +269,21 @@ I. Establecer, en congruencia con los programas correspondientes, las políticas
 
 II. Aprobar los programas y presupuestos del Instituto, así como sus modificaciones, sujetándose a lo dispuesto por las leyes aplicables del Estado, el presupuesto de egresos y, en su caso, a las asignaciones de gasto y financiamiento autorizados;
 
-III. Analizar y aprobar anualmente los informes que rinda la Directora General, previo dictamen del Contralor Interno designado por la Secretaría de la Contraloría, respecto a los estados financieros del Instituto;
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+III. Analizar y aprobar anualmente los informes que rinda la Directora General, previo dictamen del Comisario respecto a los estados financieros del Instituto;
 
 IV. Vigilar y supervisar el estado financiero del Instituto;
 
-V. Aprobar y expedir el Reglamento Interior del Instituto y sus modificaciones;
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
-VI. Expedir los manuales de organización general, de procedimientos y servicios al público, así como los instructivos especiales del mismo;
+V. Aprobar el reglamento interior, los manuales de organización, de procedimientos y servicios al público, así como los instructivos especiales del mismo;
+
+VI. (DEROGADA, P.O. 25 DE DICIEMBRE DE 2005)
 
 VII. Aprobar el proyecto de estructura orgánica que le proponga la Directora General del Instituto;
 
-VIII. Integrar el Consejo Consultivo que apoyará los trabajos del consejo directivo;
+VIII. (DEROGADA, P.O. 25 DE DICIEMBRE DE 2005)
 
 IX. Aceptar las donaciones, legados y demás liberalidades que se otorguen a favor del Instituto;
 
@@ -243,7 +293,29 @@ XI. Autorizar a la Directora General para otorgar poder general para actos de ad
 
 XII. Administrar el patrimonio del Instituto y cuidar de su adecuado manejo; y
 
-XIII. Las demás que le confieran el Reglamento Interior, este ordenamiento y otras disposiciones legales.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+XIII. Aprobar la concertación de obligaciones para el financiamiento así como observar los lineamientos que dicten las autoridades competentes, en materia de manejo de disponibilidades financieras;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+XIV. Proponer al Ejecutivo Estatal, los convenios de fusión con otras entidades paraestatales;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+XV. Autorizar la creación interna de comisiones o grupos de trabajo;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+XVI. Autorizar la creación de comités o subcomités técnicos especializados, los cuales estarán integrados por personal de la misma entidad;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+XVII. Aprobar la constitución de reservas y aplicación de excedentes financieros; y
+
+(REUBICADA, P.O. 25 DE DICIEMBRE DE 2005)
+
+XVIII. Las demás que le confieran la Ley de Entidades Paraestatales del Estado de Durango, el Reglamento Interior, este ordenamiento y otras disposiciones legales.
 
 ###### ARTÍCULO 12.
 
@@ -255,7 +327,9 @@ II. Presidir las sesiones del Consejo Directivo;
 
 III. Proponer al Consejo Directivo las medidas necesarias para la mejor operación del Instituto y vigilar que se ejecuten sus acuerdos; y
 
-IV. Las demás que le confiere el Consejo Directivo, este ordenamiento, el Reglamento Interior del Instituto y otras disposiciones jurídicas aplicables.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+IV. Las demás que le confiera la Ley de Entidades Paraestatales del Estado de Durango, el Reglamento Interior del Instituto, este ordenamiento, el Consejo Directivo y otras disposiciones legales.
 
 ###### ARTÍCULO 13.
 
@@ -265,7 +339,13 @@ I. Concurrir a las sesiones del Consejo Directivo y suplir al Presidente en sus 
 
 II. Vigilar el cumplimiento de los acuerdos Consejo; (sic)
 
-III. Las demás que le confiera el Consejo Directivo, este ordenamiento, el Reglamento Interior del Instituto.
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+III. Convocar a sesiones, previo acuerdo con el Presidente; y
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+IV. Las demás que le confiera el Consejo Directivo, este ordenamiento, el Reglamento Interior del Instituto y demás disposiciones aplicables.
 
 ###### ARTICULO 14.
 
@@ -303,7 +383,9 @@ VI. Que no ostente cargo en algún partido político.
 
 La Directora General del Instituto tendrá las siguientes facultades y obligaciones:
 
-I. Formular el Programa Estatal de la Mujer; sujetándose a la coordinación del Consejo Directivo;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+I. Formular el Programa Institucional de la Mujer; sujetándose a la coordinación del Consejo Directivo;
 
 II. Ejecutar los acuerdos que dicte el Consejo Directivo;
 
@@ -315,45 +397,95 @@ V. Establecer los sistemas de control necesarios para alcanzar los objetivos y m
 
 VI. Asistir a las sesiones del Consejo Directivo;
 
-VII. Formular el anteproyecto de Reglamento Interior del Instituto;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
-VIII. Informar al Consejo Directivo sobre los avances para abatir los rezagos que obstaculizan el acceso de las mujeres al desarrollo, así como en su caso, efectuar las adecuaciones necesarias; convocar a sesiones al Consejo Consultivo elaborando el orden del día;
+VII. Formular el reglamento interior, los manuales de organización, de procedimientos y de servicios al público y someterlos a la aprobación del Consejo Directivo;
 
-IX. Representar al Instituto como apoderada legal para actos de administración, pleitos y cobranzas, con todas las facultades generales y las que requieran cláusulas especiales conforme a la ley, incluida la de desistirse del juicio de amparo, pudiendo sustituir y delegar este poder en uno o más apoderados, con la aprobación del Consejo Consultivo;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
-X. Celebrar toda clase de actos, contratos y convenios de acuerdo a los lineamientos del Consejo Directivo, con los sectores público, social y privado, para la ejecución de acciones relacionados con su objeto;
+VIII. Informar al Consejo Directivo sobre los avances para abatir los rezagos que obstaculizan el acceso de las mujeres al desarrollo, así como en su caso, efectuar las adecuaciones necesarias;
 
-XI. Presentar al Consejo Directivo, conforme lo determine en esta Ley y el Reglamento Interior, el informe del desempeño de las actividades del Instituto; y
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
-XII. Las demás que le otorguen el Consejo Directivo y las disposiciones legales aplicables.
+IX. Integrar los Consejos Ciudadanos que apoyarán en los trabajos de la Directora General del Instituto;
 
-### CAPÍTULO IV. DEL CONSEJO CONSULTIVO
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+X. Convocar a sesiones a los Consejos Ciudadanos elaborando el orden del día;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+XI. Representar al Instituto como apoderada legal para actos de administración, pleitos y cobranzas, con todas las facultades generales y las que requieran cláusulas especiales conforme a la ley, incluida la de desistirse del juicio de amparo, pudiendo sustituir y delegar este poder en uno o más apoderados, con la aprobación del Consejo Directivo;
+
+XII. Las demás que le otorguen el Consejo Directivo y las disposiciones legales aplicables;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+XIII. Establecer los sistemas que permitan el óptimo aprovechamiento de los bienes muebles o inmuebles del organismo;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+XIV. Establecer las medidas pertinentes, a fin de que el objeto del organismo se realice de manera articulada, congruente y eficaz;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+XV. Recabar información y elementos estadísticos que reflejen el estado de las funciones del organismo, a fin de mejorar las gestiones de la misma;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+XVI. Presentar al órgano de gobierno, el informe sobre el desempeño del organismo incluido el ejercicio de los presupuestos de ingresos y egresos y los estados financieros correspondientes. En el informe y en los documentos de apoyo se cotejarán las metas propuestas y los compromisos asumidos por la Dirección con las realizaciones alcanzadas;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+XVII. Establecer los mecanismos de evaluación relativos a la eficiencia y la eficacia con que se desempeñe el organismo y presentar al Órgano de Gobierno por lo menos dos veces al año, la evaluación de gestión con el detalle que previamente acuerde dicho órgano;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+XVIII. Proporcionar la información y dar acceso a la documentación que le soliciten la Secretaría de Finanzas y de Administración, así como la de Contraloría y Modernización Administrativa para el cumplimiento de sus funciones y la que el Congreso del Estado le solicite; y
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+XIX. Las demás que le otorguen la Ley de Entidades Paraestatales del Estado de Durango, el Reglamento Interior del Instituto, el Consejo Directivo y demás disposiciones legales aplicables.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+### CAPÍTULO IV. DE LOS CONSEJOS CONSULTIVOS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 18.
 
-El Instituto contará con un Consejo Consultivo como órgano asesor y de apoyo que estará integrado por un grupo plural de mujeres de la entidad que se hayan destacado por su labor social, política, económica o académica en beneficio de las mujeres.
+El Instituto contará con Consejos Ciudadanos como órganos asesores y de apoyo que estarán integrados por grupos plurales de mujeres y hombres que se hayan destacado por su labor social, política, económica o académica en beneficio de las mujeres en sus municipios.
 
 Cada sesión será presidida por la Directora General del Instituto.
 
-Los integrantes del Consejo Consultivo serán designadas (sic) por el Consejo Directivo del Instituto. Dicho cargo tendrá carácter honorífico.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
+Los integrantes de los Consejos Ciudadanos serán designados por la Directora General. Dicho cargo tendrá carácter honorífico.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 19.
 
-Las funciones del Consejo Consultivo serán las de asesorar y apoyar al Consejo Directivo y a la Dirección General en los asuntos que se sometan a su consideración. Dicho órgano se integrará, funcionará y sesionará, en pleno o en comisiones, conforme lo previsto en el Reglamento Interior del Instituto.
+Las funciones del (sic) Consejos Ciudadanos serán las de asesorar y apoyar al Consejo Directivo y a la Dirección General en los asuntos que se sometan a su consideración. Dichos órganos se integrarán, funcionarán y sesionarán, en pleno o en comisiones, conforme lo previsto en el Reglamento Interior del Instituto.
 
 ### CAPÍTULO V. DEL RÉGIMEN DE TRABAJO
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 20.
 
-Las relaciones laborales entre el Instituto y sus trabajadores, se regirán por la Ley para los Trabajadores al Servicio de los Tres Poderes del Estado de Durango y de las condiciones generales de trabajo. Se consideran trabajadores de confianza: la directora general, directores, subdirectores, jefes de departamento, administradores y aquellos otros cargos que con tal carácter determine la ley de la materia.
+Las relaciones laborales entre el Instituto y sus trabajadores, se regirán de acuerdo a las leyes laborales aplicables. Se consideran trabajadores de confianza: la directora general, directores, subdirectores, jefes de departamento, administradores y aquellos otros cargos que con tal carácter determine la ley de la materia.
 
 ### CAPÍTULO VI. DE ÓRGANO DE VIGILANCIA
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 21.
 
-El órgano de vigilancia del Instituto será la Secretaría de la Contraloría del Estado de Durango.
+El órgano de vigilancia del Instituto estará integrado por un Comisario Público y un Suplente, designados por la Secretaría de Contraloría y Modernización Administrativa, quién tendrá las atribuciones que establece la Ley Orgánica de la Administración Pública y la Ley de Entidades Paraestatales del Estado de Durango.
 
-Para el cumplimiento de las funciones a que se hace referencia, el Consejo Directivo y la Directora General proporcionarán la información que les sea solicitada por la Secretaría de la Contraloría.
+Para el cumplimiento de las citadas atribuciones, el Consejo Directivo y la Directora General proporcionarán la información que les sea solicitada por la Secretaría de Contraloría y Modernización Administrativa.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -380,3 +512,11 @@ POR TANTO MANDO SE IMPRIMA, PUBLIQUE, CIRCULE Y COMUNIQUESE A QUIENES CORRESPOND
 DADO EN EL PALACIO DEL PODER EJECUTIVO, EN VICTORIA DE DURANGO, DGO., A LOS CATORCE DIAS DEL MES DE JUNIO DEL DOS MIL.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. ANGEL SERGIO GUERRERO MIER.- EL SECRETARIO GENERAL DE GOBIERNO. LIC. JOSE MIGUEL CASTRO CARRILLO.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 25 DE DICIEMBRE DE 2005.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
