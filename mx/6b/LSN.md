@@ -4,7 +4,7 @@ identifier: "LSN"
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-31"
-last_updated: "2005-01-31"
+last_updated: "2005-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42803&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSN"
 
 LEY DE SEGURIDAD NACIONAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE DICIEMBRE DE 2005.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 31 de enero de 2005.
 
@@ -520,6 +520,10 @@ Corresponde al Centro definir las medidas de protección, destrucción, códigos
 
 Las políticas y acciones vinculadas con la Seguridad Nacional estarán sujetas al control y evaluación del Poder Legislativo Federal, por conducto de una Comisión Bicamaral integrada por 3 Senadores y 3 Diputados.
 
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
+
+La presidencia de la Comisión será rotativa y recaerá alternadamente en un senador y un diputado.
+
 ###### Artículo 57.
 
 La Comisión Bicamaral tendrá las siguientes atribuciones:
@@ -542,9 +546,13 @@ VIII. Enviar al Consejo cualquier recomendación que considere apropiada, y
 
 IX. Las demás que le otorgue otras disposiciones legales.
 
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 58.
 
-En los meses en que inicien los periodos ordinarios de sesiones del Congreso, el Secretario Técnico del Consejo, deberá remitir a la Comisión Bicamaral un informe general de las actividades desarrolladas en el semestre inmediato anterior.
+En los meses en que inicien los periodos ordinarios de sesiones del Congreso, el Secretario Técnico del Consejo, deberá rendir a la Comisión Bicamaral un informe general de las actividades desarrolladas en el semestre inmediato anterior.
+
+La Comisión Bicamaral podrá citar al Secretario Técnico para que explique el contenido del informe.
 
 ###### Artículo 59.
 
@@ -633,3 +641,11 @@ El Poder Judicial de la Federación determinará los juzgados a que se refiere e
 México, D.F., a 14 de diciembre de 2004.- Dip. Manlio Fabio Beltrones Rivera, Presidente.- Sen. Diego Fernández de Cevallos Ramos, Presidente.- Dip. Marcos Morales Torres, Secretario.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiocho días del mes de enero de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 26 DE DICIEMBRE DE 2005.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Al entrar en vigor el presente Decreto y para los efectos del segundo párrafo del artículo 56 de este Decreto de Reformas, en un plazo de un año, deberán impulsarse las reformas y adiciones a la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos por parte del Congreso General de los Estados Unidos Mexicanos para contar con las atribuciones necesarias para el mejor desempeño de la Comisión Bicamaral.
