@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2005-06-28"
+last_updated: "2005-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE DICIEMBRE DE 2005.
 
 ULTIMA MODIFICACION AL LISTADO DE SUSTANCIAS PSICOTROPICAS: 9 DE JULIO DE 1996.
 
@@ -2208,9 +2208,13 @@ II.- La divulgación de medidas higiénicas para el control de los padecimientos
 
 III.- La prevención específica en cada caso y la vigilancia de su cumplimiento;
 
-IV.- La realización de estudios epidemiológicos, y
+IV.- La realización de estudios epidemiológicos, y (sic)
 
-V.- Las demás que sean necesarias para la prevención, tratamiento y control de los padecimientos que se presenten en la población.
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
+
+V.- La difusión permanente de las dietas, hábitos alimenticios y procedimientos que conduzcan al consumo efectivo de los mínimos de nutrimentos por la población general, recomendados por la propia Secretaría, y
+
+VI.- Las demás que sean necesarias para la prevención, tratamiento y control de los padecimientos que se presenten en la población.
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -5985,3 +5989,7 @@ Artículo Segundo.- La legislación secundaria deberá adecuarse a lo dispuesto 
 D.O.F. 28 DE JUNIO DE 2005.
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 26 DE DICIEMBRE DE 2005.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
