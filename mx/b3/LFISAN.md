@@ -4,7 +4,7 @@ identifier: "LFISAN"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1996-12-30"
-last_updated: "2005-12-23"
+last_updated: "2005-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9238&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFISAN"
 
 LEY FEDERAL DEL IMPUESTO SOBRE AUTOMÓVILES NUEVOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE DICIEMBRE DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2005.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 30 de diciembre de 1996.
 
@@ -46,9 +46,17 @@ LEY FEDERAL DEL IMPUESTO SOBRE AUTOMOVILES NUEVOS
 
 Están obligados al pago del impuesto sobre automóviles nuevos establecido en esta Ley, las personas físicas y las morales que realicen los actos siguientes:
 
-I.- Enajenen automóviles nuevos de producción nacional. Se entiende por automóvil nuevo el que se enajena por primera vez al consumidor por el fabricante, ensamblador o por el distribuidor autorizado.
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
-II.- Importen en definitiva al país automóviles. Los automóviles a que se refiere esta fracción son los que corresponden al año modelo posterior al de aplicación de la Ley, al año modelo en que se efectúe la importación, o a los 10 años modelo inmediato anteriores.
+I. Enajenen automóviles nuevos. Se entiende por automóvil nuevo el que se enajena por primera vez al consumidor por el fabricante, ensamblador, distribuidor autorizado o comerciante en el ramo de vehículos.
+
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
+
+II. Importen en definitiva al país automóviles, siempre que se trate de personas distintas al fabricante, ensamblador, distribuidor autorizado o comerciante en el ramo de vehículos.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
+
+Para los efectos de lo dispuesto en las fracciones anteriores, los automóviles importados por los que se cause el impuesto establecido en esta Ley, son los que corresponden al año modelo posterior al de aplicación de la Ley, al año modelo en que se efectúe la importación, o a los 10 años modelo inmediato anteriores.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -70,9 +78,7 @@ En el caso de automóviles de importación definitiva, incluyendo los destinados
 
 El valor a que se refiere el párrafo anterior, se aplicará aun en el caso de que por el automóvil de que se trate no se deba pagar el citado impuesto general de importación.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
-
-Tratándose de automóviles por cuya importación se pague el impuesto general de importación a una tasa menor a la general vigente, el impuesto a que se refiere esta Ley será el que se determine conforme a lo previsto en el cuarto párrafo de este artículo, considerando el impuesto general de importación que se hubiere tenido que pagar de haberse aplicado la tasa general referida.
+> <small>(DEROGADO PENULTIMO PARRAFO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
 En el caso de vehículos a que se refiere la fracción II del artículo 3o. de esta Ley, el impuesto se calculará aplicando la tasa señalada en esa fracción al precio de enajenación al consumidor por el fabricante, ensamblador, distribuidor autorizado o importador.
 
@@ -144,9 +150,9 @@ b).- Franja fronteriza norte del país, a la comprendida entre la línea divisor
 
 c).- Región parcial del Estado de Sonora, a la comprendida en los siguientes límites: al norte, la línea divisoria internacional desde el cauce del Río Colorado hasta el punto situado en esa línea a 10 kilómetros al oeste de Sonoita, de ese punto, una línea recta hasta llegar al este de Puerto Peñasco; de ahí, siguiendo el cauce de ese Río, hacia el norte hasta encontrar la línea divisoria internacional.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
-d) Comerciantes en el ramo de vehículos, a las personas físicas y morales cuya actividad sea la importación y venta de vehículos nuevos o usados.
+d) Comerciantes en el ramo de vehículos, a las personas físicas y morales cuya actividad sea la enajenación de vehículos nuevos o usados.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -168,9 +174,13 @@ No se pagará el impuesto establecido en esta Ley, en los siguientes casos:
 
 I.- En la exportación de automóviles con carácter definitivo, en los términos de la legislación aduanera.
 
-II.- En la enajenación al público en general de automóviles compactos de consumo popular.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
-Se consideran automóviles compactos de consumo popular, aquellos cuyo precio de enajenación, incluyendo el impuesto al valor agregado, no exceda de la cantidad de $65,000.00, que su motor sea de fabricación nacional y que posea una capacidad para transportar hasta 5 pasajeros.
+II. En la enajenación al consumidor por el fabricante, ensamblador, distribuidor autorizado o comerciante en el ramo de vehículos, cuyo precio de enajenación, incluyendo el equipo opcional, común o de lujo, sin disminuir el monto de descuentos, rebajas o bonificaciones no exceda de la cantidad de $150,000.00. En el precio mencionado no se considerará el impuesto al valor agregado.
+
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
+
+Tratándose de automóviles cuyo precio de enajenación se encuentre comprendido entre $150,000.01 y hasta $190,000.00, la exención será del cincuenta por ciento del pago del impuesto que establece esta Ley. Lo dispuesto en este párrafo y en el anterior, también se aplicará a la importación de automóviles.
 
 El precio a que se refiere el párrafo anterior, se actualizará en el mes de enero de cada año, aplicando el factor correspondiente al periodo comprendido desde el mes de diciembre del penúltimo año hasta el mes de diciembre inmediato anterior a aquel por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Hacienda y Crédito Público publicará el factor de actualización en el Diario Oficial de la Federación dentro de los tres primeros días de enero de cada año.
 
@@ -200,11 +210,13 @@ Tratándose de automóviles importados en definitiva por personas distintas al f
 
 No procederá la devolución ni compensación del impuesto establecido en esta Ley, aun cuando el automóvil se devuelva al enajenante.
 
-Para los efectos de esta Ley, no se considerarán automóviles nuevos, aquéllos por los que ya se hubiera pagado el impuesto establecido en esta Ley y que se devuelvan al enajenante.
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+Para los efectos de esta Ley, no se considerarán automóviles nuevos, aquéllos por los que ya se hubiera pagado el impuesto establecido en esta Ley, incluyendo los que se devuelvan al enajenante.
 
-Los fabricantes, ensambladores o distribuidores autorizados de automóviles, no harán la separación expresa del monto de este impuesto en el documento que ampare la enajenación.
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
+
+Los fabricantes, ensambladores, distribuidores autorizados de automóviles o comerciantes en el ramo de vehículos, no harán la separación del monto de este impuesto en el documento que ampare la enajenación.
 
 ###### ARTICULO 12.
 
@@ -340,12 +352,18 @@ SEGUNDO. Para los efectos de lo dispuesto en el artículo 2-C de la Ley del Impu
 
 D.O.F. 23 DE DICIEMBRE DE 2005.
 
-DISPOSICION TRANSITORIA DE LA LEY FEDERAL DEL IMPUESTO SOBRE AUTOMOVILES NUEVOS
+DISPOSICIÓN TRANSITORIA DE LA LEY FEDERAL DEL IMPUESTO SOBRE AUTOMÓVILES NUEVOS
 
 ###### ARTÍCULO NOVENO.
 
 El monto del fondo a que se refiere el primer párrafo del artículo 14 de la Ley Federal del Impuesto sobre Automóviles Nuevos es el que estará vigente a partir del 1 de enero de 2006 y deberá incorporarse en el Presupuesto de Egresos de la Federación para el Ejercicio Fiscal de 2006.
 
-DISPOSICION TRANSITORIA DEL DECRETO QUE MODIFICA LA LEY FEDERAL DEL IMPUESTO SOBRE AUTOMOVILES NUEVOS
+## TRANSITORIO
 
 ÚNICO. El presente Decreto entrará en vigor el 1o. de enero de 2006.
+
+D.O.F. 26 DE DICIEMBRE DE 2005.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo.- Para los efectos de lo dispuesto por el tercer párrafo de la fracción II del artículo 8o. de esta Ley Federal del Impuesto sobre Automóviles Nuevos, las cantidades a que se refieren los párrafos primero y segundo de la fracción citada se entiende que se encuentran actualizadas al mes de enero de 2006.
