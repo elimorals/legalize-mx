@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-coordinacion-fiscal-para-el-estado-de-oaxaca-19102"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2005-03-22"
+last_updated: "2005-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE COORDINACION FISCAL PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2005.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 30 de diciembre de 2000.
 
@@ -309,9 +309,11 @@ El Estado por conducto de la Secretaría, enterará mensualmente este fondo por 
 
 Al efecto, el Gobierno del Estado deberá publicar en el Periódico Oficial y en dos Periódicos de los de mayor circulación en la Entidad los montos que corresponda a cada Municipio por concepto de este fondo, así como el calendario de ministración, a más tardar el 31 de enero de cada año.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 21.
 
-El Fondo de Aportaciones para el Fortalecimiento de los Municipios, se destinará exclusivamente a la satisfacción de sus requerimientos, dando prioridad al cumplimiento de sus obligaciones financieras y a la atención de las necesidades directamente vinculadas a la seguridad pública de sus habitantes. Respecto de las aportaciones que reciban con cargo a este fondo, los Municipios tendrán las obligaciones a que se refieren las fracciones I a III del artículo 17 de esta Ley.
+El Fondo de Aportaciones para el fortalecimiento de los Municipios, se destinará exclusivamente a la satisfacción de sus requerimientos, dando prioridad al cumplimiento de sus obligaciones financieras y a la atención de las necesidades directamente vinculadas a la seguridad pública de sus habitantes. Respecto de las aportaciones que reciban con cargo a este fondo, los Municipios tendrán las obligaciones a que se refieren las fracciones I y III del artículo 17 de esta Ley.
 
 ###### ARTICULO 22.
 
@@ -395,21 +397,17 @@ PRIMERO.- La presente Ley entrará en vigor a partir del día 1º de enero del a
 
 SEGUNDO.- Para los efectos de lo dispuesto en los artículos 6 y 7 de esta Ley, se estará a lo siguiente:
 
-DEL DECRETO NUM. 242. (sic)
+DEL DECRETO NUM. 190. (sic)
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
-Durante el año 2005 los factores a que se refieren los artículos arriba citados, se calcularán conforme a las proporciones que se señalan a continuación:
+Durante el año 2006 los factores a que se refieren los artículos arriba citados, se calcularán conforme a las proporciones que se señalan a continuación:
 
-FACTORES FACTORES
+AÑO FACTORES FACTORES
 
-AÑO 1999 LEY
+1999 LEY
 
-2004 70% 30%
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
-
-2005 70% 30%
+2006 70% 30%
 
 El factor de distribución del Fondo Municipal de Participaciones y el del Fondo de Fomento Municipal que corresponda a cada Municipio será el que resulte de sumar el factor de distribución aplicado en 1999 multiplicado por el porcentaje arriba señalado para cada año, más el factor resultante del procedimiento establecido en la presente Ley para cada uno de los fondos multiplicado por el porcentaje arriba señalado.
 
@@ -482,3 +480,7 @@ UNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del a
 P.O. 22 DE MARZO DE 2005.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE DICIEMBRE DE 2005.
+
+UNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2006, previa publicación en el Periódico Oficial del Gobierno del Estado.
