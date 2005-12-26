@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-tribunal-de-lo-contencioso-administrativo-1600
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-09-19"
-last_updated: "1999-09-19"
+last_updated: "2005-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO DEL DECRETO NUMERO 96 QUE REFORMA LA LEY ORGANICA DEL PODER JUDICIAL, PUBLICADA EN EL P.O. DE 26 DE DICIEMBRE DE 2005, EL PRESENTE ORDENAMIENTO FUE ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 19 de septiembre de 1999.
 
@@ -326,3 +328,27 @@ Felipe González González.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE DICIEMBRE DE 2005.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigencia al día siguiente de su publicación.
+
+###### ARTICULO SEGUNDO.
+
+Los actuales Magistrados que integran el Tribunal de lo Contencioso Administrativo, concluirán en su encargo el 4 de enero del dos mil seis, en términos de lo previsto por el Decreto 77 expedido por la LVII Legislatura del Estado, con relación al Artículo 5º de la Ley Orgánica del Tribunal de lo Contencioso Administrativo que se abroga. El proceso de entrega recepción de los Magistrados salientes, se realizará en los términos y condiciones que dicte el Consejo de la Judicatura del Estado.
+
+###### ARTICULO TERCERO.
+
+Los recursos humanos y materiales del actual Tribunal de lo Contencioso Administrativo quedarán a cargo del Consejo de la Judicatura del Estado, así como la administración de los recursos asignados al Tribunal de lo Contencioso Administrativo.
+
+###### ARTICULO CUARTO.
+
+El Consejo de la Judicatura dentro de los cuarenta y cinco días siguientes a la entrada en vigor de este Decreto deberá expedir el Reglamento Interno del Tribunal de lo Contencioso Administrativo.
+
+###### ARTICULO QUINTO.
+
+Hasta en tanto el Congreso del Estado no designe al Magistrado del Tribunal de lo Contencioso Administrativo del Estado de Aguascalientes, éste suspenderá sus funciones a partir del día cuatro de enero del 2006. Los juicios tramitados ante el Tribunal se suspenderán en sus términos hasta la designación del nuevo Magistrado que será el competente para conocer y resolver de los mismos.
