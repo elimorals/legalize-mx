@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-hacienda-del-estado-de-oaxaca-19106"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2003-12-30"
+last_updated: "2005-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19106&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE HACIENDA DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2005.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 30 de diciembre del 2000.
 
@@ -585,17 +585,181 @@ V.- Las personas físicas, morales o unidades económicas sin personalidad jurí
 
 Para los efectos de esta Ley se considera establecimiento cualquier lugar de negocios en el que se desarrollen parcial o totalmente actividades empresariales, se presten servicios independientes, o se otorgue el uso o goce temporal de bienes. Se entenderá como establecimiento entre otros, las sucursales, agencias, oficinas, despachos, fábricas, talleres, instalaciones, minas, canteras, o cualquier lugar de exploración, extracción o explotación de recursos naturales, incluyendo bodegas o cualquier lugar en que el sujeto obligado tenga trabajadores a su servicio.
 
+ADICIONADO CON LOS TITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 26 DICIEMBRE DE 2005)
+
+### CAPITULO VII. IMPUESTO PARA LOS PROGRAMAS DE FOMENTO A LA ALFABETIZACION
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 26 DICIEMBRE DE 2005)</small>
+
+DEL OBJETO
+
+> <small>(ADICIONADO, P.O. 26 DICIEMBRE DE 2005)</small>
+
+ARTICULO 36 H.- Es objeto de este impuesto la realización de pagos por concepto de impuestos y derechos, que se causen conforme a la presente ley y demás disposiciones estatales.
+
+No son objeto de este impuesto los pagos correspondientes a:
+
+I Impuesto sobre Nóminas;
+
+II Impuesto sobre Diversiones y Espectáculos Públicos, relativos a eventos cinematográficos, teatrales y de circo;
+
+III Impuesto sobre Rifas, Sorteos, Loterías y Concursos;
+
+IV Impuesto sobre la Prestación de Servicios de Hospedaje; y,
+
+V Impuesto Cedular a los Ingresos por el Otorgamiento del Uso o Goce Temporal de Bienes Inmuebles.
+
+El rendimiento de este impuesto será destinado a los programas de fomento a la alfabetización en el Estado.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 26 DICIEMBRE DE 2005)</small>
+
+DE LOS SUJETOS
+
+> <small>(ADICIONADO, P.O. 26 DICIEMBRE DE 2005)</small>
+
+ARTICULO 36 I.- Son sujetos de este impuesto, las personas físicas y morales, que realicen pagos por los conceptos de impuestos y derechos que se causen conforme a la presente ley y demás disposiciones estatales.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 26 DICIEMBRE DE 2005)</small>
+
+DE LA BASE
+
+> <small>(ADICIONADO, P.O. 26 DICIEMBRE DE 2005)</small>
+
+ARTICULO 36 J.- La base de este impuesto, es el importe de los pagos que se realicen por concepto de impuestos y derechos incluyendo sus accesorios, excepto los pagos de los impuestos que se exceptúan en el artículo 36 H de esta ley.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 26 DICIEMBRE DE 2005)</small>
+
+DE LA TASA Y EPOCA DE PAGO
+
+> <small>(ADICIONADO, P.O. 26 DICIEMBRE DE 2005)</small>
+
+ARTICULO 36 K.- Este impuesto, se calculará aplicando a la base referida en el artículo que antecede, la tasa que al efecto se consigne en la Ley de Ingresos del Estado de Oaxaca del ejercicio fiscal que corresponda.
+
+El pago de este impuesto deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de crédito o establecimientos autorizados, cuando se realicen los pagos objeto de este impuesto, debiendo reflejarse el impuesto pagado en el recibo oficial correspondiente.
+
+> <small>(ADICIONADO CON LOS TITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 26 DICIEMBRE DE 2005)</small>
+
+### CAPITULO VIII. IMPUESTO CEDULAR A LOS INGRESOS POR EL OTORGAMIENTO DEL USO O GOCE TEMPORAL DE BIENES INMUEBLES
+
+> <small>(ADICIONADO CON EL TITULO Y ARTICULO QUE LO INTEGRA, P.O. 26 DICIEMBRE DE 2005)</small>
+
+DEL OBJETO
+
+> <small>(ADICIONADO, P.O. 26 DICIEMBRE DE 2005)</small>
+
+ARTICULO 36 L.- Es objeto de este impuesto el otorgamiento del uso o goce temporal de bienes inmuebles, ubicados en el territorio del Estado de Oaxaca.
+
+> <small>(ADICIONADO CON EL TITULO Y ARTICULO QUE LO INTEGRAN, P.O. 26 DICIEMBRE DE 2005)</small>
+
+DE LOS SUJETOS
+
+> <small>(ADICIONADO, P.O. 26 DICIEMBRE DE 2005)</small>
+
+ARTICULO 36 M.- Son sujetos de este Impuesto las personas físicas que perciban ingresos por otorgar a título oneroso el uso o goce temporal de bienes inmuebles ubicados en el territorio del Estado de Oaxaca, con independencia de la Entidad Federativa en la que el contribuyente tenga su domicilio fiscal.
+
+Se consideran ingresos por otorgar el uso o goce temporal de bienes inmuebles los siguientes:
+
+I Los provenientes de arrendamiento o subarrendamiento y en general, por otorgar a título oneroso el uso o goce temporal de bienes inmuebles en cualquier otra forma.
+
+II Los rendimientos de certificados de participación inmobiliaria no amortizables.
+
+Para los efectos de este impuesto, se consideran ingresos gravables por este impuesto, los percibidos en efectivo, bienes, servicios y crédito.
+
+Los ingresos en crédito se declararán y se calculará el impuesto que les corresponda hasta el mes de calendario en el que sean cobrados.
+
+Cuando los ingresos gravados por este impuesto, deriven de bienes en copropiedad, cada uno de los copropietarios deberá cumplir con todas las obligaciones en materia de este impuesto, debiendo cubrirlo en la parte que le corresponda atendiendo a la participación en la propiedad sobre la cosa común, que conste en el documento constitutivo de la copropiedad.
+
+Lo dispuesto en los párrafos anteriores es aplicable a los integrantes de la sociedad conyugal en caso de que el bien forme parte de la misma.
+
+> <small>(ADICIONADO CON EL TITULO Y ARTICULO QUE LO INTEGRA, P.O. 26 DICIEMBRE DE 2005)</small>
+
+DE LA BASE
+
+> <small>(ADICIONADO, P.O. 26 DICIEMBRE DE 2005)</small>
+
+ARTICULO 36 N.- Es base de este impuesto los ingresos obtenidos por los conceptos a que refiere el artículo que antecede, pudiéndose efectuar las deducciones siguientes:
+
+I Los pagos efectuados por el Impuesto Predial correspondiente al año de calendario sobre dichos inmuebles, así como por las contribuciones locales de mejoras, de planificación o de cooperación para obras públicas que afecten a los mismos;
+
+II Los gastos de mantenimiento que no impliquen adiciones o mejoras al bien de que se trate y por consumo de agua, siempre que no los paguen quienes usen o gocen el inmueble;
+
+III Los intereses nominales pagados por préstamos utilizados para la compra, construcción o mejoras de los bienes inmuebles;
+
+IV Los salarios, comisiones, honorarios, así como los impuestos, cuotas o contribuciones que conforme a la ley les corresponda cubrir sobre dichos salarios, efectivamente pagados. Los salarios serán deducibles siempre y cuando se cumpla la obligación de inscribir a sus trabajadores en el Instituto Mexicano del Seguro Social y tengan enteradas en tiempo y forma las cuotas obrero-patronales correspondientes. Los salarios, comisiones y honorarios, pagados por quien concede el uso o goce temporal de bienes inmuebles en un año de calendario, no deberán exceder en su conjunto, del 10% de los ingresos anuales obtenidos por conceder el uso o goce temporal de bienes inmuebles;
+
+V El importe de las primas de seguros que amparen los bienes respectivos; y,
+
+VI Las inversiones en construcciones, incluyendo adiciones y mejoras.
+
+Los contribuyentes que otorguen el uso o goce temporal de bienes inmuebles podrán optar por deducir el 35% de los Ingresos a que se refiere este Capítulo, en substitución de las deducciones señaladas en este artículo. Quienes ejerzan esta opción podrán deducir, además, el monto de las erogaciones por concepto del Impuesto Predial de dichos inmuebles correspondientes al año de calendario o al periodo durante el cual se obtuvieron los Ingresos según corresponda.
+
+Los contribuyentes que ejerzan la opción prevista en el párrafo anterior, lo deberán hacer por todos los inmuebles por los que otorguen el uso o goce temporal, incluso por aquellos en los que tengan el carácter de copropietarios, a más tardar en la fecha en la que se presente la primera declaración que corresponda al año de calendario de que se trate, y una vez ejercida no podrá variarse en los pagos de dicho año, pudiendo cambiarse la opción al presentar la primera declaración del año siguiente.
+
+En el caso de copropietarios, cada uno podrá efectuar las deducciones que le correspondan, multiplicando la cantidad que corresponda, por los conceptos y en los términos de este artículo, por el porcentaje que resulte de participación en la propiedad, según conste en el documento constitutivo de la copropiedad sobre el bien común.
+
+Tratándose de subarrendamiento, sólo se deducirá el importe de las rentas que pague el arrendatario al arrendador.
+
+Cuando el contribuyente ocupe parte del bien inmueble del cual derive el ingreso por otorgar el uso o goce temporal del mismo u otorgue su uso o goce temporal de manera gratuita, no podrá deducir la parte de los gastos, así como tampoco el Impuesto Predial y los derechos de cooperación de obras públicas que correspondan proporcionalmente a la unidad por él ocupada o de la otorgada gratuitamente. En los casos de subarrendamiento, el subarrendador no podrá deducir la parte proporcional del importe de las rentas pagadas que correspondan a la unidad que ocupe o que otorgue gratuitamente.
+
+La parte proporcional a que se refiere el párrafo que antecede, se calculará considerando el número de metros cuadrados de construcción de la unidad por él ocupada u otorgada de manera gratuita en relación con el total de metros cuadrados de construcción del bien inmueble.
+
+Los contribuyentes al efectuar los pagos a que se refiere este Capítulo, harán las deducciones a que se refiere este artículo, que correspondan al periodo por el que se presente la declaración. Cuando las deducciones no se efectúen dentro del periodo al que corresponden, se podrán efectuar en los siguientes periodos del mismo año calendario. Tratándose de inversiones, los contribuyentes de este impuesto podrán deducir de los ingresos del periodo, la sexta parte de la deducción que corresponda al año calendario, independientemente del uso que se dé al inmueble de que se trate.
+
+En el caso de que los ingresos percibidos sean inferiores a las deducciones del periodo, los contribuyentes podrán considerar la diferencia que resulte entre ambos conceptos, como deducible en los periodos siguientes, siempre y cuando dichas deducciones correspondan al mismo año calendario.
+
+Las deducciones a que se refiere este artículo deberán estar relacionadas con los inmuebles por los que se obtengan los ingresos materia de este Impuesto.
+
+Cuando el uso o goce temporal del bien de que se trate no se hubiese otorgado por todo el año calendario, las deducciones a que se refieren las fracciones I a V de este artículo se aplicarán únicamente cuando correspondan al periodo por el cual se otorgó el uso o goce temporal del bien inmueble o a los tres meses inmediatos anteriores al en que se otorgue dicho uso o goce.
+
+> <small>(ADICIONADO, P.O. 26 DICIEMBRE DE 2005)</small>
+
+ARTICULO 36 Ñ.- En las operaciones de fideicomiso por las que se otorgue el uso o goce temporal de bienes inmuebles, se considera que los rendimientos son ingresos del fideicomitente aun en el caso de que el fideicomisario sea una persona distinta a éste, a excepción de los fideicomisos irrevocables en los cuales el fideicomitente no tenga derecho a readquirir del fiduciario el bien inmueble, en cuyo caso se considera que los rendimientos son ingresos del fideicomisario desde el momento en que el fideicomitente pierda el derecho a readquirir el bien inmueble y los correspondientes ingresos hayan sido efectivamente cobrados por la institución fiduciaria aun cuando estos no sean obtenidos y/o estén disponibles por los fideicomisarios.
+
+Sólo se entenderán como efectivamente cobrados cuando hayan sido obtenidos en efectivo, mediante traspasos de cuentas en instituciones de crédito o casas de bolsa, o en otros bienes que no sean títulos de crédito. También se entiende que es efectivamente cobrado cuando el interés del acreedor fiduciario queda satisfecho mediante cualquier forma de extinción de las obligaciones previstas en el derecho común.
+
+La institución fiduciaria efectuará pagos bimestrales definitivos y enterará este impuesto en los términos del artículo 36 P, por cuenta de aquél o aquellos a quienes correspondan las rentas o rendimientos, en los términos del párrafo anterior, debiendo notificar a los fideicomisarios de tal situación, mediante entrega de copia simple de los comprobantes de pago correspondientes.
+
+Cuando se extinge (sic) el contrato de fideicomiso irrevocable aludido en este artículo, la institución fiduciaria deberá dar aviso a la Secretaría de Finanzas de tal situación a efecto de que la misma verifique el cumplimiento de las obligaciones fiscales previstas en este Capítulo por cada uno de los fideicomisarios.
+
+> <small>(ADICIONADO CON EL TITULO Y ARTICULO QUE LO INTEGRA, P.O. 26 DICIEMBRE DE 2005)</small>
+
+DE LA TASA
+
+> <small>(ADICIONADO, P.O. 26 DICIEMBRE DE 2005)</small>
+
+ARTICULO 36 O.- El impuesto establecido en este Capítulo se calculará aplicando a la base gravable, la tasa que al efecto se consigne en la Ley de Ingresos del Estado de Oaxaca del ejercicio fiscal que corresponda.
+
+> <small>(ADICIONADO CON EL TITULO Y ARTICULO QUE LO INTEGRA, P.O. 26 DICIEMBRE DE 2005)</small>
+
+DEL PAGO
+
+> <small>(ADICIONADO, P.O. 26 DICIEMBRE DE 2005)</small>
+
+ARTICULO 36 P.- Los contribuyentes que obtengan ingresos de los señalados en este Capítulo, efectuarán pagos bimestrales definitivos y enterarán el impuesto dentro de los primeros 17 días de los meses de marzo, mayo, julio, septiembre, noviembre y enero del siguiente año, ante la oficina Recaudadora de Rentas u oficina autorizada por la Secretaría de Finanzas del Gobierno del Estado de Oaxaca.
+
+> <small>(ADICIONADO CON EL TITULO Y ARTICULO QUE LO INTEGRA, P.O. 26 DICIEMBRE DE 2005)</small>
+
+DE LAS OBLIGACIONES
+
+> <small>(ADICIONADO, P.O. 26 DICIEMBRE DE 2005)</small>
+
+ARTICULO 36 Q.- Los contribuyentes que obtengan ingresos de los señalados en este Capítulo, además de efectuar los pagos de este impuesto, tendrán las siguientes obligaciones:
+
+I Registrarse en la oficina Recaudadora de Rentas u Oficina autorizada por la Secretaría de Finanzas del Gobierno del Estado de Oaxaca, que corresponda a su domicilio fiscal, dentro del mes siguiente a la fecha de inicio de sus operaciones, en las formas oficiales autorizadas por la Secretaría de Finanzas;
+
+II Llevar contabilidad de conformidad con el Código Fiscal para el Estado de Oaxaca. No quedan comprendidos en lo dispuesto en esta fracción quienes opten por la deducción del 35% a que se refiere el artículo 36 N en su segundo párrafo de este Capítulo;
+
+III Expedir comprobantes que reúnan los requisitos fiscales previstos en el Código Fiscal para el Estado de Oaxaca, por las contraprestaciones recibidas; y,
+
+IV. Presentar declaraciones en los términos del presente Capítulo.
+
+Cuando los ingresos a que se refiere este Capítulo sean percibidos a través de operaciones de fideicomiso, será la Institución fiduciaria la que cumpla con las obligaciones previstas en este artículo.
+
 ### CAPITULO I. DE LOS ACTOS DEL REGISTRO CIVIL
-
-### CAPITULO II. LEGALIZACION Y REGISTRO DE TITULOS
-
-### CAPITULO III. POR SERVICIOS DE CONTROL VEHICULAR
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2001)</small>
 
 ## TITULO TERCERO. DE LOS DERECHOS
 
-### CAPITULO IV. DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO
+### CAPITULO II. LEGALIZACION Y REGISTRO DE TITULOS
 
 ###### ARTICULO 37.
 
@@ -609,13 +773,15 @@ Los derechos por servicios que presta el Registro Civil se pagarán de acuerdo c
 
 Los pagos correspondientes, se harán en las Cajas que al efecto instale la Secretaría de Finanzas del Gobierno del Estado de Oaxaca en las Oficinas del Registro Civil, o en las Oficinas Recaudadoras de dicha Secretaría, según corresponda al domicilio en que se realice el trámite respectivo.
 
-### CAPITULO V. SERVICIOS CATASTRALES
+### CAPITULO III. POR SERVICIOS DE CONTROL VEHICULAR
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 40.
 
 Por los servicios que preste la Secretaría General de Gobierno, se pagarán los derechos que al efecto disponga la Ley de Ingresos del Estado de Oaxaca del ejercicio fiscal que corresponda.
 
-### CAPITULO VI. POR SERVICIOS QUE PRESTA EL INSTITUTO ESTATAL DE ECOLOGIA
+### CAPITULO IV. DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO
 
 ###### ARTICULO 41.
 
@@ -637,17 +803,7 @@ II.- Para el caso del refrendo anual de vehículos, el periodo de pago comprende
 
 III.- En los demás casos, en el momento que la persona solicite la prestación del servicio.
 
-### CAPITULO VII. SERVICIOS EN MATERIA EDUCATIVA
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2001)</small>
-
-ARTICULO 52 A.- Los servicios que presta el Estado en materia educativa, causarán los derechos que al efecto se establecen en la Ley de Ingresos del Estado de Oaxaca para el ejercicio fiscal que corresponda exceptuándose a aquellos servicios prestados por los organismos públicos descentralizados que por disposición de la Ley se consideran autónomos.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2001)</small>
-
-ARTICULO 52 B.- Estos derechos deberán ser pagados en la Oficina Recaudadora de Rentas u Oficina autorizada por la Secretaría de Finanzas del Gobierno del Estado de Oaxaca, según corresponda al domicilio en que se realice el trámite respectivo.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2001)</small>
+### CAPITULO V. SERVICIOS CATASTRALES
 
 ###### ARTICULO 43.
 
@@ -687,6 +843,28 @@ Por la expedición de testimonios íntegros autorizados o copias también autori
 
 DERECHOS POR AUTORIZACION DE PROTOCOLOS
 
+### CAPITULO VI. POR SERVICIOS QUE PRESTA EL INSTITUTO ESTATAL DE ECOLOGIA
+
+###### ARTICULO 50.
+
+Por la autorización de los libros destinados al servicio de las notarías del Estado y de los encargados del Registro Público se causarán los derechos que prevenga la Ley de Ingresos del Estado de Oaxaca del ejercicio fiscal que corresponda.
+
+### CAPITULO VII. SERVICIOS EN MATERIA EDUCATIVA
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2001)</small>
+
+ARTICULO 52 A.- Los servicios que presta el Estado en materia educativa, causarán los derechos que al efecto se establecen en la Ley de Ingresos del Estado de Oaxaca para el ejercicio fiscal que corresponda exceptuándose a aquellos servicios prestados por los organismos públicos descentralizados que por disposición de la Ley se consideran autónomos.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2001)</small>
+
+ARTICULO 52 B.- Estos derechos deberán ser pagados en la Oficina Recaudadora de Rentas u Oficina autorizada por la Secretaría de Finanzas del Gobierno del Estado de Oaxaca, según corresponda al domicilio en que se realice el trámite respectivo.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 51.
+
+Los servicios que se presten por el Instituto Catastral del Estado de Oaxaca y demás autoridades catastrales causarán derechos conforme a la Ley de Ingresos del Estado de Oaxaca del ejercicio fiscal que corresponda.
+
 ### CAPITULO VIII. SERVICIOS DE SEGURIDAD
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2001)</small>
@@ -711,27 +889,15 @@ ARTICULO 52 G.- Por la autorización o revalidación que el Estado expida a los 
 
 (REUBICADO [N. DE E. ANTES CAPITULO VII], P.O. 30 DE DICIEMBRE DE 2001)
 
-###### ARTICULO 50.
-
-Por la autorización de los libros destinados al servicio de las notarías del Estado y de los encargados del Registro Público se causarán los derechos que prevenga la Ley de Ingresos del Estado de Oaxaca del ejercicio fiscal que corresponda.
-
-### CAPITULO IX. DE LAS CERTIFICACIONES
-
-###### ARTICULO 51.
-
-Los servicios que se presten por el Instituto Catastral del Estado de Oaxaca y demás autoridades catastrales causarán derechos conforme a la Ley de Ingresos del Estado de Oaxaca del ejercicio fiscal que corresponda.
-
-### CAPITULO UNICO. DEL SANEAMIENTO
-
 ###### ARTICULO 52.
 
 Por los servicios que presta el Instituto Estatal de Ecología, se cobrarán los derechos previstos en la Ley de Ingresos del Estado de Oaxaca del ejercicio fiscal que corresponda.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2001)</small>
 
-### CAPITULO UNICO
+### CAPITULO IX. DE LAS CERTIFICACIONES
 
-### CAPITULO UNICO
+### CAPITULO UNICO. DEL SANEAMIENTO
 
 ### CAPITULO UNICO
 
@@ -740,6 +906,10 @@ Por los servicios que presta el Instituto Estatal de Ecología, se cobrarán los
 Las certificaciones que realice cualquier autoridad en ejercicio de sus facultades, causarán por foja, los derechos que prevenga la Ley de Ingresos del Estado de Oaxaca del ejercicio fiscal que corresponda.
 
 DISPOSICION GENERAL
+
+### CAPITULO UNICO
+
+### CAPITULO UNICO
 
 ### CAPITULO I. DE LOS FONDOS DE APORTACIONES FEDERALES
 
@@ -902,3 +1072,7 @@ UNICO.- El presente decreto entrará en vigor a partir del día 1 de enero del a
 P.O. 30 DE DICIEMBRE DE 2003.
 
 UNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2004, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE DICIEMBRE DE 2005.
+
+UNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2006, previa publicación en el Periódico Oficial del Gobierno del Estado.
