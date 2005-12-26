@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-la-renta-22690"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-01"
-last_updated: "2005-12-23"
+last_updated: "2005-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22690&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISR"
 
 LEY DEL IMPUESTO SOBRE LA RENTA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE DICIEMBRE DE 2005.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 1 de enero de 2002.
 
@@ -730,9 +730,9 @@ IV. Estar debidamente registradas en contabilidad y que sean restadas una sola v
 
 V. Cumplir con las obligaciones establecidas en esta Ley en materia de retención y entero de impuestos a cargo de terceros o que, en su caso, se recabe de éstos copia de los documentos en que conste el pago de dichos impuestos. Tratándose de pagos al extranjero, éstos sólo se podrán deducir siempre que el contribuyente proporcione la información a que esté obligado en los términos del artículo 86 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
-Los pagos que a la vez sean ingresos en los términos del Capítulo I del Título IV, de esta Ley, se podrán deducir siempre que se cumpla con las obligaciones a que se refiere el artículo 118, fracciones I, II, V y VI de la misma, así como las disposiciones que regulan los subsidios para el empleo y para la nivelación del ingreso, en su caso y los contribuyentes cumplan con la obligación de inscribir a los trabajadores en el Instituto Mexicano del Seguro Social cuando estén obligados a ello, en los términos de las leyes de seguridad social.
+Los pagos que a la vez sean ingresos en los términos del Capítulo I del Título IV, de esta Ley, se podrán deducir siempre que se cumpla con las obligaciones a que se refieren los artículos 118, fracción I, y 119 de la misma, y los contribuyentes cumplan con la obligación de inscribir a los trabajadores en el Instituto Mexicano del Seguro Social cuando estén obligados a ello, en los términos de las leyes de seguridad social.
 
 VI. Que cuando los pagos cuya deducción se pretenda realizar se efectúen a personas obligadas a solicitar su inscripción en el Registro Federal de Contribuyentes, se señale la clave respectiva en la documentación comprobatoria.
 
@@ -824,9 +824,9 @@ Tratándose de anticipos por los gastos a que se refiere la fracción III del ar
 
 Cuando los contribuyentes presenten las declaraciones informativas a que se refiere el artículo 86 de esta Ley a requerimiento de la autoridad fiscal, no se considerará incumplido el requisito a que se refiere el primer párrafo de esta fracción, siempre que se presenten dichas declaraciones dentro de un plazo máximo de 60 días contados a partir de la fecha en la que se notifique el mismo.
 
-> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
-XX. Que tratándose de pagos efectuados por concepto de salarios y en general por la prestación de un servicio personal subordinado a trabajadores que tengan derecho a los subsidios para el empleo y para la nivelación del ingreso, efectivamente sean entregados y se dé cumplimiento a los requisitos que se establecen en las disposiciones legales que los regulan, salvo cuando no se esté obligado a ello en los términos de las citadas disposiciones legales.
+XX. Que tratándose de pagos efectuados por concepto de salarios y en general por la prestación de un servicio personal subordinado a trabajadores que tengan derecho al crédito al salario a que se refieren los artículos 115 y 116 de esta Ley, efectivamente se entreguen las cantidades que por dicho crédito le correspondan a sus trabajadores y se dé cumplimiento a los requisitos a que se refiere el artículo 119 de la misma.
 
 XXI. Tratándose de la deducción inmediata de bienes de activo fijo a que se refiere el artículo 220 de esta Ley, se cumpla con la obligación de llevar el registro específico de dichas inversiones en los términos de la fracción XVII del artículo 86 de la misma.
 
@@ -842,9 +842,9 @@ Para los efectos de este Título, no serán deducibles:
 
 I. Los pagos por impuesto sobre la renta a cargo del propio contribuyente o de terceros ni los de contribuciones en la parte subsidiada o que originalmente correspondan a terceros, conforme a las disposiciones relativas, excepto tratándose de aportaciones al Instituto Mexicano del Seguro Social. Tampoco serán deducibles los pagos del impuesto al activo a cargo del contribuyente.
 
-> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
-Tampoco serán deducibles los subsidios para el empleo y para la nivelación del ingreso ni los accesorios de las contribuciones, a excepción de los recargos que el contribuyente hubiere pagado efectivamente, inclusive mediante compensación.
+Tampoco serán deducibles las cantidades que entregue el contribuyente en su carácter de retenedor a las personas que le presten servicios personales subordinados provenientes del crédito al salario a que se refieren los artículos 115 y 116 de esta Ley, así como los accesorios de las contribuciones, a excepción de los recargos que hubiere pagado efectivamente, inclusive mediante compensación.
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -2984,31 +2984,29 @@ II. Al total de percepciones por este concepto se restará una cantidad igual a 
 
 La tasa a que se refiere la fracción II que antecede se calculará dividiendo el impuesto señalado en la fracción I anterior entre la cantidad a la cual se le aplicó la tarifa del artículo 177 de esta Ley; el cociente así obtenido se multiplica por cien y el producto se expresa en por ciento.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 113.
 
-Quienes hagan pagos por los conceptos a que se refiere este Capítulo están obligados a efectuar retenciones y enteros mensuales que tendrán el carácter de pagos provisionales a cuenta del impuesto anual.
+Quienes hagan pagos por los conceptos a que se refiere este Capítulo están obligados a efectuar retenciones y enteros mensuales que tendrán el carácter de pagos provisionales a cuenta del impuesto anual. No se efectuará retención a las personas que en el mes únicamente perciban un salario mínimo general correspondiente al área geográfica del contribuyente.
 
-> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
-La retención se calculará disminuyendo del salario bruto obtenido en un mes de calendario, la exclusión general. Al resultado obtenido se le aplicará la siguiente:
+La retención se calculará aplicando a la totalidad de los ingresos obtenidos en un mes de calendario, la siguiente:
 
-(VER TABLA ANEXA)
+(VEASE TABLA ANEXA)
 
-> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
-Para los efectos de este Capítulo se considera exclusión general la suma de los ingresos de prestaciones de previsión social exentos a que se refieren las fracciones I, II, III, V, VI, VIII, X y XI del artículo 109 de esta Ley o la cantidad de $6,333.33, según corresponda.
+Quienes hagan las retenciones a que se refiere este artículo por los ingresos señalados en las fracciones II a V del artículo 110 de esta Ley, salvo en el caso del quinto párrafo siguiente a la tarifa de este artículo, acreditarán contra el impuesto que resulte a cargo del contribuyente, el subsidio que, en su caso, resulte aplicable en los términos del artículo 114 de esta Ley. En los casos en los que el impuesto a cargo del contribuyente sea menor que la cantidad acreditable conforme a este párrafo, la diferencia no podrá acreditarse contra el impuesto que resulte a su cargo posteriormente. Las personas que hagan pagos que sean ingresos para el contribuyente de los mencionados en el primer párrafo o la fracción I del artículo 110 de esta Ley, salvo en el caso del quinto párrafo siguiente a la tarifa de este artículo, calcularán el impuesto en los términos de este artículo aplicando el crédito al salario contenido en el artículo 115 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
-
-Asimismo, se considera salario bruto a la totalidad de los ingresos percibidos por la prestación de un servicio personal subordinado y los que esta Ley asimila a dichos ingresos, y demás prestaciones que deriven de una relación laboral.
+> <small>(DEROGADO CUARTO PARRAFO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
 Quienes hagan pagos por concepto de gratificación anual, participación de utilidades, primas dominicales y primas vacacionales, podrán efectuar la retención del impuesto de conformidad con los requisitos que establezca el Reglamento de esta Ley; en las disposiciones de dicho Reglamento se preverá que la retención se pueda hacer sobre los demás ingresos obtenidos durante el año de calendario.
 
-> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
-Quienes hagan las retenciones a que se refiere este artículo, antes de efectuar la disminución que se hubiera elegido en los términos del tercer párrafo de este precepto, deberán deducir del salario bruto obtenido en el mes de calendario, el impuesto local a los ingresos por salarios y en general por la prestación de un servicio personal subordinado que, en su caso, hubieran retenido en el mes de calendario de que se trate, siempre que la tasa de dicho impuesto no exceda del 5%.
+Quienes hagan las retenciones a que se refiere este artículo, deberán deducir de la totalidad de los ingresos obtenidos en el mes de calendario, el impuesto local a los ingresos por salarios y en general por la prestación de un servicio personal subordinado que, en su caso, hubieran retenido en el mes de calendario de que se trate, siempre que la tasa de dicho impuesto no exceda del 5%.
 
 Tratándose de honorarios a miembros de consejos directivos, de vigilancia, consultivos o de cualquier otra índole, así como de los honorarios a administradores, comisarios y gerentes generales, la retención y entero a que se refiere este artículo, no podrá ser inferior la cantidad que resulte de aplicar la tasa máxima para aplicarse sobre el excedente del límite inferior que establece la tarifa contenida en el artículo 177 de esta Ley, sobre su monto, salvo que exista, además, relación de trabajo con el retenedor, en cuyo caso, se procederá en los términos del párrafo segundo de este artículo.
 
@@ -3016,21 +3014,45 @@ Las personas que hagan pagos por los conceptos a que se refiere el artículo 112
 
 Las personas físicas, así como las personas morales a que se refiere el Título III de esta Ley, enterarán las retenciones a que se refiere este artículo a más tardar el día 17 de cada uno de los meses del año de calendario, mediante declaración que presentarán ante las oficinas autorizadas.
 
-> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
-Los contribuyentes que presten servicios subordinados a personas no obligadas a efectuar la retención, de conformidad con el penúltimo párrafo del artículo 118 de esta Ley, y los que obtengan ingresos provenientes del extranjero por estos conceptos, calcularán su pago provisional en los términos de este precepto y lo enterarán a más tardar el día 17 de cada uno de los meses del año de calendario, mediante declaración que presentarán ante las oficinas autorizadas.
+Los contribuyentes que presten servicios subordinados a personas no obligadas a efectuar la retención, de conformidad con el último párrafo del artículo 118 de esta Ley, y los que obtengan ingresos provenientes del extranjero por estos conceptos, calcularán su pago provisional en los términos de este precepto y lo enterarán a más tardar el día 17 de cada uno de los meses del año de calendario, mediante declaración que presentarán ante las oficinas autorizadas.
 
-> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
-Para los efectos de determinar el salario bruto a que se refiere el segundo párrafo de este artículo y el segundo párrafo del artículo 116 de esta Ley, no se incluirán los ingresos a que se refieren las fracciones IV, VII y XIII del artículo 109 de la misma, siempre que se cumplan con los requisitos establecidos en dicho precepto legal.
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 114.
 
-(DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
+Los contribuyentes a que se refiere este Capítulo gozarán de un subsidio contra el impuesto que resulte a su cargo en los términos del artículo anterior.
+
+El subsidio se calculará considerando el ingreso y el impuesto determinado conforme a la tarifa contenida en el artículo 113 de esta Ley, a los que se les aplicará la siguiente:
+
+(VEASE ARCHIVO ANEXO)
+
+El impuesto marginal mencionado en esta tabla es el que resulte de aplicar la tasa que corresponde en la tarifa del artículo 113 de esta Ley al ingreso excedente del límite inferior.
+
+Para determinar el monto del subsidio acreditable contra el impuesto que se deriva de los ingresos por los conceptos a que se refiere este Capítulo, se tomará el subsidio que resulte conforme a la tabla, disminuido con el monto que se obtenga de multiplicar dicho subsidio por el doble de la diferencia que exista entre la unidad y la proporción que determinen las personas que hagan los pagos por dichos conceptos. La proporción mencionada se calculará para todos los trabajadores del empleador, dividiendo el monto total de los pagos efectuados en el ejercicio inmediato anterior que sirva de base para determinar el impuesto en los términos de este Capítulo, entre el monto que se obtenga de restar al total de las erogaciones efectuadas en el mismo por cualquier concepto relacionado con la prestación de servicios personales subordinados, incluyendo, entre otras, a las inversiones y gastos efectuados en relación con previsión social, servicios de comedor, comida y transporte proporcionados a los trabajadores, aun cuando no sean deducibles para el empleador, ni el trabajador esté sujeto al pago del impuesto por el ingreso derivado de las mismas, sin incluir los útiles, instrumentos y materiales necesarios para la ejecución del trabajo a que se refiere la Ley Federal del Trabajo, las cuotas patronales pagadas al Instituto Mexicano del Seguro Social y las aportaciones efectuadas por el patrón al Instituto del Fondo Nacional de la Vivienda para los Trabajadores o al Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio del Estado y al Sistema de Ahorro para el Retiro. Cuando la proporción determinada sea inferior al 50% no se tendrá derecho al subsidio.
+
+Tratándose de inversiones a que se refiere el párrafo anterior, se considerará como erogación efectuada en el ejercicio, el monto de la deducción de dichas inversiones que en ese mismo ejercicio se realice en los términos de la Sección II del Capítulo II del Título II de esta Ley, y en el caso de inversiones que no sean deducibles en los términos de este ordenamiento, las que registren para efectos contables. No se considerarán ingresos para los efectos del párrafo anterior, los viáticos por los cuales no se esté obligado al pago del impuesto sobre la renta de acuerdo con el artículo 109 de esta Ley.
+
+Los contribuyentes a que se refieren los Capítulos II y III de este Título, también gozarán del subsidio a que se refiere este artículo contra el impuesto que resulte a su cargo en los términos de los artículos 127 y 143 de esta Ley, según corresponda.
+
+Los contribuyentes que obtengan ingresos por los conceptos a que se refieren dos o más de los Capítulos de este Título, sólo aplicarán el subsidio para los pagos provisionales efectuados en uno de ellos. Cuando se obtengan ingresos de los mencionados en este Capítulo, el subsidio se aplicará únicamente en los pagos provisionales correspondientes a dichos ingresos.
+
+Tratándose de pagos provisionales que se efectúen de manera trimestral conforme al artículo 143 de esta Ley, la tabla que se utilizará para calcular el subsidio será la contenida en este artículo elevada al trimestre. Asimismo, tratándose de los pagos provisionales que efectúen las personas físicas a que se refiere el Capítulo II de este Título, la tabla que se utilizará para calcular el subsidio será la contenida en este artículo elevada al periodo al que corresponda al pago provisional. La tabla se determinará sumando las cantidades correspondientes a las columnas relativas al límite inferior, límite superior y cuota de subsidio de cada renglón de la misma, que en los términos de dicho artículo resulten para cada uno de los meses del trimestre o del periodo de que se trate y que correspondan al mismo renglón.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 115.
 
-(DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
+Las personas que hagan pagos que sean ingresos para el contribuyente de los mencionados en el primer párrafo o la fracción I del artículo 110 de esta Ley, salvo en el caso del quinto párrafo siguiente a la tarifa del artículo 113 de la misma, calcularán el impuesto en los términos de este último artículo aplicando el crédito al salario mensual que resulte conforme a lo dispuesto en los siguientes párrafos.
+
+Las personas que efectúen las retenciones por los pagos a los contribuyentes a que se refiere el párrafo anterior, acreditarán, contra el impuesto que resulte a cargo de los contribuyentes en los términos del artículo 113 de esta Ley, disminuido con el monto del subsidio que, en su caso, resulte aplicable en los términos del artículo 114 de la misma por el mes de calendario de que se trate, el crédito al salario mensual que se obtenga de aplicar la siguiente:
+
+(VEASE ARCHIVO ANEXO)
+
+En los casos en que, de conformidad con lo dispuesto en el segundo párrafo de este artículo, el impuesto a cargo del contribuyente que se obtenga de la aplicación de la tarifa del artículo 113 de esta Ley disminuido con el subsidio que, en su caso, resulte aplicable, sea menor que el crédito al salario mensual, el retenedor deberá entregar al contribuyente la diferencia que se obtenga. El retenedor podrá acreditar contra el impuesto sobre la renta a su cargo o del retenido a terceros, las cantidades que entregue a los contribuyentes en los términos de este párrafo, conforme a los requisitos que fije el Reglamento de esta Ley. Los ingresos que perciban los contribuyentes derivados del crédito al salario mensual no se considerarán para determinar la proporción de subsidio acreditable a que se refiere el artículo 114 de esta Ley y no serán acumulables ni formarán parte del cálculo de la base gravable de cualquier otra contribución por no tratarse de una remuneración al trabajo personal subordinado.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -3038,13 +3060,23 @@ Para los efectos de determinar el salario bruto a que se refiere el segundo pár
 
 Las personas obligadas a efectuar retenciones en los términos del artículo 113 de esta Ley, calcularán el impuesto anual de cada persona que le hubiere prestado servicios personales subordinados.
 
-> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
-El impuesto anual se determinará disminuyendo del salario bruto obtenido en un año de calendario, el impuesto local a los ingresos por salarios y en general por la prestación de un servicio personal subordinado que hubieran retenido en el año de calendario y la exclusión general elevada al año, en el caso de que se hubiera optado por aplicar las prestaciones exentas, se disminuirá el monto percibido en el año por concepto de dichas prestaciones. Al resultado obtenido se le aplicará la tarifa del artículo 177 de esta Ley. Contra el impuesto que resulte a cargo del contribuyente se acreditará el importe de los pagos provisionales efectuados en los términos del artículo 113 de esta Ley.
+El impuesto anual se determinará disminuyendo de la totalidad de los ingresos obtenidos en un año de calendario, por los conceptos a que se refiere este Capítulo, el impuesto local a los ingresos por salarios y en general por la prestación de un servicio personal subordinado que hubieran retenido en el año de calendario. Al resultado obtenido se le aplicará la tarifa del artículo 177 de esta Ley. El impuesto a cargo del contribuyente se disminuirá con el subsidio que, en su caso, resulte aplicable en los términos del artículo 178 de esta Ley y contra el monto que se obtenga se acreditará el importe de los pagos provisionales efectuados en los términos del artículo 113 de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 La disminución del impuesto local a que se refiere el párrafo anterior, la deberán realizar las personas obligadas a efectuar las retenciones en los términos del artículo 113 de esta Ley, siempre que la tasa de dicho impuesto no exceda del 5%.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
+
+Los contribuyentes a que se refiere el artículo 115 de esta Ley estarán a lo siguiente:
+
+I. El impuesto anual se determinará disminuyendo de la totalidad de los ingresos obtenidos en un año de calendario, por los conceptos a que se refiere el primer párrafo y la fracción I del artículo 110 de esta Ley, el impuesto local a los ingresos por salarios y en general por la prestación de un servicio personal subordinado que hubieran retenido en el año de calendario, al resultado obtenido se le aplicará la tarifa del artículo 177 de la misma. El impuesto a cargo del contribuyente se disminuirá con el subsidio que, en su caso, resulte aplicable en los términos del artículo 178 de la misma y con la suma de las cantidades que por concepto de crédito al salario mensual le correspondió al contribuyente.
+
+II. En el caso de que el impuesto determinado conforme al artículo 177 de esta Ley disminuido con el subsidio acreditable que, en su caso, tenga derecho el contribuyente, exceda de la suma de las cantidades que por concepto de crédito al salario mensual le correspondió al contribuyente, el retenedor considerará como impuesto a cargo del contribuyente el excedente que resulte. Contra el impuesto que resulte a cargo será acreditable el importe de los pagos provisionales efectuados.
+
+III. En el caso de que el impuesto determinado conforme al artículo 177 de esta Ley disminuido con el subsidio acreditable a que, en su caso, tenga derecho el contribuyente, sea menor a la suma de las cantidades que por concepto de crédito al salario mensual le correspondió al contribuyente, no habrá impuesto a cargo del contribuyente ni se entregará cantidad alguna a este último por concepto de crédito al salario.
 
 La diferencia que resulte a cargo del contribuyente en los términos de este artículo se enterará ante las oficinas autorizadas a más tardar en el mes de febrero siguiente al año de calendario de que se trate. La diferencia que resulte a favor del contribuyente deberá compensarse contra la retención del mes de diciembre y las retenciones sucesivas, a más tardar dentro del año de calendario posterior. El contribuyente podrá solicitar a las autoridades fiscales la devolución de las cantidades no compensadas, en los términos que señale el Servicio de Administración Tributaria mediante reglas de carácter general.
 
@@ -3068,9 +3100,9 @@ Los contribuyentes que obtengan ingresos de los señalados en este Capítulo, ad
 
 I. Proporcionar a las personas que les hagan los pagos a que se refiere este Capítulo, los datos necesarios, para que dichas personas los inscriban en el Registro Federal de Contribuyentes, o bien cuando ya hubieran sido inscritos con anterioridad, proporcionarle su clave de registro al empleador.
 
-> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
-II. Comunicar por escrito al empleador que les aplique la exclusión general a que se refiere el segundo párrafo del artículo 113 de esta Ley, antes de que éste les haga el primer pago que les corresponda por la prestación de servicios personales subordinados, la opción que en los términos de dicho artículo elija, la cual no podrá cambiarse en el mismo ejercicio. Cuando el contribuyente no manifieste cuál opción elige, se entenderá que optó por la disminución de $6,333.33, salvo tratándose de jubilados o pensionados, en cuyo caso, se entenderá que optó por la disminución de los ingresos de las prestaciones de previsión social exentos a que se refiere el tercer párrafo del artículo 113 de esta Ley.
+II. Solicitar las constancias a que se refiere la fracción III del artículo 118 de esta Ley y proporcionarlas al empleador dentro del mes siguiente a aquél en el que se inicie la prestación del servicio, o en su caso, al empleador que vaya a efectuar el cálculo del impuesto definitivo o acompañarlas a su declaración anual. No se solicitará la constancia al empleador que haga la liquidación del año.
 
 III. Presentar declaración anual en los siguientes casos:
 
@@ -3084,19 +3116,17 @@ d) Cuando obtengan ingresos, por los conceptos a que se refiere este Capítulo, 
 
 e) Cuando obtengan ingresos anuales por los conceptos a que se refiere este Capítulo que excedan de $300,000.00.
 
-> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
-IV. Comunicar por escrito al empleador antes de que éste les efectúe el primer pago que les corresponda por la prestación de servicios personales subordinados en el año de calendario de que se trate, si prestan servicios a otro empleador y éste les aplica la exclusión general a que se refiere el tercer párrafo del artículo 113 de esta Ley, a fin de que ya no se aplique nuevamente dicha exclusión.
-
-Asimismo, los contribuyentes que además obtengan ingresos a los que se refiere la fracción III del artículo 109 de esta Ley, deberán comunicar por escrito al empleador, antes de que éste les efectúe el primer pago que les corresponda por la prestación de servicios personales subordinados en el año de calendario de que se trate, que percibe los ingresos a que se refiere este párrafo, a fin de que ya no se aplique la exclusión general a que se refiere el tercer párrafo del artículo 113 de esta Ley.
+IV. Comunicar por escrito al empleador, antes de que éste les efectúe el primer pago que les corresponda por la prestación de servicios personales subordinados en el año de calendario de que se trate, si prestan servicios a otro empleador y éste les aplica el crédito al salario a que se refiere el artículo 115 de esta Ley, a fin de que ya no se aplique nuevamente.
 
 ###### Artículo 118.
 
 Quienes hagan pagos por los conceptos a que se refiere este Capítulo, tendrán las siguientes obligaciones:
 
-> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
-I. Efectuar las retenciones señaladas en el artículo 113 de esta Ley y entregar en efectivo los subsidios para el empleo y para la nivelación del ingreso, salvo cuando no se esté obligado a ello en los términos de las disposiciones legales que los regulan.
+I. Efectuar las retenciones señaladas en el artículo 113 de esta Ley y entregar en efectivo las cantidades a que se refiere el artículo 115 de la misma.
 
 II. Calcular el impuesto anual de las personas que les hubieren prestado servicios subordinados, en los términos del artículo 116 de esta Ley.
 
@@ -3108,13 +3138,13 @@ Las constancias deberán proporcionarse a más tardar el 31 de enero de cada añ
 
 IV. Solicitar, en su caso, las constancias a que se refiere la fracción anterior, a las personas que contraten para prestar servicios subordinados, a más tardar dentro del mes siguiente a aquél en que se inicie la prestación del servicio y cerciorarse que estén inscritos en el Registro Federal de Contribuyentes.
 
-> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
-Asimismo, deberán solicitar a los trabajadores que les comuniquen por escrito antes de que se efectúe el primer pago que les corresponda por la prestación de servicios personales subordinados en el año de calendario de que se trate, si prestan servicios a otro empleador y éste les efectúa la exclusión general a que se refiere el tercer párrafo del artículo 113 de esta Ley, a fin de que ya no se aplique nuevamente dicha exclusión.
+Asimismo, deberán solicitar a los trabajadores que les comuniquen por escrito antes de que se efectúe el primer pago que les corresponda por la prestación de servicios personales subordinados en el año de calendario de que se trate, si prestan servicios a otro empleador y éste les aplica el crédito al salario a que se refiere el artículo 115 de esta Ley, a fin de que ya no se aplique nuevamente.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
-V. Presentar, ante las oficinas autorizadas, a más tardar el 15 de febrero de cada año, declaración proporcionando información sobre las personas a las que les hayan entregado los subsidios para el empleo y para la nivelación del ingreso, en el año de calendario anterior, conforme a las reglas generales que al efecto expida el Servicio de Administración Tributaria.
+V. Presentar, ante las oficinas autorizadas, a más tardar el 15 de febrero de cada año, declaración proporcionando información sobre las personas a las que les hayan entregado cantidades en efectivo por concepto del crédito al salario en el año de calendario anterior, conforme a las reglas generales que al efecto expida el Servicio de Administración Tributaria.
 
 Asimismo, quienes hagan pagos por los conceptos a que se refiere este Capítulo, deberán presentar, a más tardar el 15 de febrero de cada año, declaración proporcionando información sobre las personas a las que les hayan efectuado dichos pagos, en la forma oficial que al efecto publique la autoridad fiscal. La información contenida en las constancias que se expidan de conformidad con la fracción IV de este artículo, se incorporará en la misma declaración.
 
@@ -3126,23 +3156,29 @@ VII. Proporcionar a más tardar el 15 de febrero de cada año, a las personas a 
 
 VIII. Presentar, ante las oficinas autorizadas a más tardar el 15 de febrero de cada año, declaración proporcionando información sobre las personas que hayan ejercido la opción a que se refiere la fracción VII del artículo 110 de esta Ley, en el año de calendario anterior, conforme a las reglas generales que al efecto expida el Servicio de Administración Tributaria.
 
-> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
-
-IX. Solicitar a los trabajadores que les comuniquen por escrito antes de que se efectúe el primer pago que les corresponda por la prestación de servicios personales subordinados en el año de calendario de que se trate, la opción que en los términos del tercer párrafo del artículo 113 de esta Ley eligen para que les efectúe la exclusión general a que se refiere dicho precepto, la cual no podrá cambiarse en el mismo ejercicio. Cuando el contribuyente no comunique la opción que elige, el empleador aplicará la disminución de $6,333.33.
+IX. (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 2005)
 
 En los casos en que una sociedad sea fusionada o entre en liquidación, así como cuando una sociedad desaparezca con motivo de una escisión o fusión, la declaración que debe presentarse conforme a lo previsto en la fracción V de este artículo, se efectuará dentro del mes siguiente a aquél en el que se termine anticipadamente el ejercicio.
 
-> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
-Quedan exceptuados de las obligaciones señaladas en este artículo, los organismos internacionales cuando así lo establezcan los tratados o convenios respectivos, y los estados extranjeros.
+Quedan exceptuados de las obligaciones señaladas en este artículo y en el siguiente, los organismos internacionales cuando así lo establezcan los tratados o convenios respectivos, y los estados extranjeros.
 
-> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
-Las personas que hagan los pagos por los conceptos a que se refiere la fracción III del artículo 109 de esta Ley, aplicarán la exclusión general de los ingresos de las prestaciones de previsión social exentos a que se refiere el tercer párrafo del artículo 113 de esta Ley, salvo que la persona que obtenga los ingresos a que se refieren este párrafo, le comunique por escrito que opta por la disminución de $6,333.33.
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 119.
 
-(DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
+Quienes hagan los pagos a los contribuyentes que tengan derecho al crédito al salario a que se refieren los artículos 115 y 116 de esta Ley sólo podrán acreditar contra el impuesto sobre la renta a su cargo o del retenido a terceros, las cantidades que entreguen a los contribuyentes por dicho concepto, cuando cumplan con los siguientes requisitos:
+
+I. Lleven los registros de los pagos por los ingresos a que se refiere este Capítulo, identificando en ellos, en forma individualizada, a cada uno de los contribuyentes a los que se les realicen dichos pagos.
+
+II. Conserven los comprobantes en los que se demuestre el monto de los ingresos pagados en los términos de este Capítulo, el impuesto que, en su caso, se haya retenido, y las diferencias que resulten a favor del contribuyente con motivo del crédito al salario.
+
+III. Cumplan con las obligaciones previstas en las fracciones I, II, V y VI del artículo 118 de esta Ley.
+
+IV. Hayan pagado las aportaciones de seguridad social y las mencionadas en el artículo 109 de esta Ley que correspondan por los ingresos de que se trate.
 
 ### CAPÍTULO II. DE LOS INGRESOS POR ACTIVIDADES EMPRESARIALES Y PROFESIONALES
 
@@ -3244,9 +3280,7 @@ VII. Los pagos efectuados por el impuesto local sobre los ingresos por actividad
 
 Tratándose de personas físicas residentes en el extranjero que tengan uno o varios establecimientos permanentes en el país, podrán efectuar las deducciones que correspondan a las actividades del establecimiento permanente, ya sean las erogadas en México o en cualquier otra parte, aun cuando se prorrateen con algún establecimiento ubicado en el extranjero, aplicando al efecto lo dispuesto en el artículo 30 de esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
-
-Los contribuyentes a que se refiere esta Sección podrán optar por deducir una cantidad equivalente al 8% de la utilidad que resulte de restar de la totalidad de los ingresos obtenidos a que se refiere esta Sección las deducciones autorizadas a que se refiere la misma, sin que exceda de $25,000.00, en substitución de la deducción de los gastos menores que se señalen en el Reglamento de esta Ley.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 124.
 
@@ -3296,19 +3330,17 @@ Para los efectos de esta Sección, se estará a lo dispuesto en el artículo 31,
 
 Los contribuyentes a que se refiere esta Sección, considerarán los gastos e inversiones no deducibles del ejercicio, en los términos del artículo 32 de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 127.
 
-Los contribuyentes a que se refiere esta Sección, efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio, a más tardar el día 17 del mes inmediato posterior a aquél al que corresponda el pago, mediante declaración que presentarán ante las oficinas autorizadas. El pago provisional se determinará restando de la totalidad de los ingresos a que se refiere esta Sección obtenidos en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que corresponde el pago, las deducciones autorizadas en esta Sección correspondientes al mismo periodo y la participación de los trabajadores en las utilidades de las empresas pagada en el ejercicio, en los términos del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, así como la exclusión general de $6,333.33 por cada uno de los meses a los que corresponda dicho periodo y, en su caso, las pérdidas fiscales ocurridas en ejercicios anteriores que no se hubieran disminuido. En ningún caso la exclusión general excederá de la cantidad que resulte de disminuir a los ingresos obtenidos las deducciones autorizadas a que se refiere este párrafo.
+Los contribuyentes a que se refiere esta Sección, efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio, a más tardar el día 17 del mes inmediato posterior a aquél al que corresponda el pago, mediante declaración que presentarán ante las oficinas autorizadas. El pago provisional se determinará restando de la totalidad de los ingresos a que se refiere esta Sección obtenidos en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que corresponde el pago, las deducciones autorizadas en esta Sección correspondientes al mismo periodo y la participación de los trabajadores en las utilidades de las empresas pagada en el ejercicio, en los términos del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y, en su caso, las pérdidas fiscales ocurridas en ejercicios anteriores que no se hubieran disminuido.
 
 Al resultado que se obtenga conforme al párrafo anterior, se le aplicará la tarifa que se determine de acuerdo a lo siguiente:
 
 Se tomará como base la tarifa del artículo 113 de esta Ley, sumando las cantidades correspondientes a las columnas relativas al límite inferior, límite superior y cuota fija, que en los términos de dicho artículo resulten para cada uno de los meses del periodo a que se refiere el pago provisional de que se trate, y que correspondan al mismo renglón identificado por el mismo por ciento para aplicarse sobre el excedente del límite inferior. Las autoridades fiscales realizarán las operaciones aritméticas previstas en este párrafo para calcular la tarifa aplicable y la publicará en el Diario Oficial de la Federación.
 
-> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
-
-Los contribuyentes que además perciban ingresos a los que se refiere el Capítulo I de este Título, determinarán el pago provisional, sin efectuar la exclusión general de $6,333.33 por cada uno de los meses a los que corresponda el periodo del pago.
+> <small>(DEROGADO CUARTO PARRAFO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
 Contra el pago provisional determinado conforme a este artículo, se acreditarán los pagos provisionales del mismo ejercicio efectuados con anterioridad.
 
@@ -3496,11 +3528,11 @@ Las autoridades fiscales, en el ejercicio de sus facultades de comprobación, po
 
 Cuando el autor de una sucesión haya sido contribuyente de esta Sección y en tanto no se liquide la misma, el representante legal de ésta continuará cumpliendo con lo dispuesto en esta Sección.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 138.
 
-Las personas físicas que paguen el impuesto en los términos de esta Sección, calcularán el impuesto que les corresponda en los términos de la misma, aplicando la tasa del 2% a la diferencia que resulte de disminuir al total de los ingresos que obtengan en el mes en efectivo, en bienes o en servicios, por su actividad empresarial, $42,222.22 en el caso de contribuyentes que enajenen bienes o $12,666.66 tratándose de contribuyentes que presten servicios. Cuando perciban ingresos por enajenación de bienes y por la prestación de servicios deberán disminuir el monto que les corresponda de conformidad con su actividad preponderante.
+Las personas físicas que paguen el impuesto en los términos de esta Sección, calcularán el impuesto que les corresponda en los términos de la misma, aplicando la tasa del 2% a la diferencia que resulte de disminuir al total de los ingresos que obtengan en el mes en efectivo, en bienes o en servicios, un monto equivalente a cuatro veces el salario mínimo general del área geográfica del contribuyente elevado al mes.
 
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -3642,13 +3674,11 @@ Cuando el uso o goce temporal del bien de que se trate no se hubiese otorgado po
 
 Los contribuyentes que únicamente obtengan ingresos de los señalados en este Capítulo por el otorgamiento del uso o goce temporal de bienes inmuebles para casa habitación, efectuarán pagos provisionales trimestrales a cuenta del impuesto anual a más tardar el día 17 de los meses de abril, julio, octubre y enero del siguiente año, mediante declaración que presentarán ante las oficinas autorizadas. Los contribuyentes que obtengan ingresos por el otorgamiento del uso o goce temporal de bienes inmuebles para uso distinto del de casa habitación, efectuarán los pagos provisionales mensualmente, a más tardar el día 17 del mes inmediato posterior al que corresponda el pago.
 
-> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
-El pago provisional se determinará aplicando la tarifa que corresponda conforme a lo previsto en el tercer párrafo del artículo 127 de esta Ley, a la diferencia que resulte de disminuir a los ingresos del mes o del trimestre por el que se efectúa el pago, el monto de las deducciones a que se refiere el artículo 142 de la misma, correspondientes al mismo periodo y la exclusión general de $6,333.33, por cada uno de los meses a los que corresponda el pago. En ningún caso la exclusión general excederá de la cantidad que resulte de disminuir a los ingresos obtenidos las deducciones autorizadas a que se refiere este párrafo.
+El pago provisional se determinará aplicando la tarifa que corresponda conforme a lo previsto en el tercer párrafo del artículo 127 de esta Ley, a la diferencia que resulte de disminuir a los ingresos del mes o del trimestre por el que se efectúa el pago, el monto de las deducciones a que se refiere el artículo 142 de la misma, correspondientes al mismo periodo.
 
-> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
-
-Los contribuyentes que además perciban ingresos a los que se refieren los Capítulos I o II de este Título, determinarán el pago provisional, sin aplicar la exclusión general de $6,333.33 por cada uno de los meses por los que se efectúe el pago.
+> <small>(DEROGADO TERCER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
 Los contribuyentes que únicamente obtengan ingresos de los señalados en este Capítulo, cuyo monto mensual no exceda de diez salarios mínimos generales vigentes en el Distrito Federal elevados al mes, no estarán obligados a efectuar pagos provisionales.
 
@@ -4092,31 +4122,27 @@ Para los efectos de este Capítulo, el monto de la pérdida cambiaria o la que d
 
 Tratándose de los intereses a que se refiere la fracción IV de este artículo, se acumulará el interés nominal y se estará a lo dispuesto en el artículo 46 de esta Ley; para los efectos del cálculo del ajuste por inflación a que se refiere dicho precepto no se considerarán las deudas.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 169.
 
-Los contribuyentes que obtengan ingresos de los señalados en el artículo 168 de esta Ley, por los mismos efectuarán dos pagos provisionales semestrales a cuenta del impuesto anual excepto por los comprendidos en la fracción IV del citado artículo. Dichos pagos se enterarán en los meses de julio del mismo ejercicio y enero del año siguiente, aplicando a los ingresos acumulables obtenidos en el semestre, disminuidos con la exclusión general de $6,333.33, por cada uno de los meses a los que corresponda el pago, la tarifa que se determine tomando como base la tarifa del artículo 113 de la Ley citada, sumando las cantidades correspondientes a las columnas relativas al límite inferior, límite superior y cuota fija, que en los términos de dicho artículo resulten para cada uno de los meses comprendidos en el semestre por el que se efectúa el pago, pudiendo acreditar en su caso, contra el impuesto a cargo, las retenciones que les hubieran efectuado en el periodo de que se trate. Las autoridades fiscales realizarán las operaciones aritméticas previstas en este párrafo y publicarán la tarifa correspondiente en el Diario Oficial de la Federación. En ningún caso la exclusión general podrá ser mayor a los ingresos acumulables a que se refiere este párrafo.
+Los contribuyentes que obtengan ingresos de los señalados en el artículo 168 de esta Ley, por los mismos efectuarán dos pagos provisionales semestrales a cuenta del impuesto anual excepto por los comprendidos en la fracción IV del citado artículo. Dichos pagos se enterarán en los meses de julio del mismo ejercicio y enero del año siguiente, aplicando a los ingresos acumulables obtenidos en el semestre, la tarifa que se determine tomando como base la tarifa del artículo 113 de esta Ley, sumando las cantidades correspondientes a las columnas relativas al límite inferior, límite superior y cuota fija, que en los términos de dicho artículo resulten para cada uno de los meses comprendidos en el semestre por el que se efectúa el pago, pudiendo acreditar en su caso, contra el impuesto a cargo, las retenciones que les hubieran efectuado en el periodo de que se trate. Las autoridades fiscales realizarán las operaciones aritméticas previstas en este párrafo y publicarán la tarifa correspondiente en el Diario Oficial de la Federación.
 
 Cuando los ingresos a que se refiere este artículo se obtengan por pagos que efectúen las personas a que se refieren los Títulos II y III de esta Ley, dichas personas deberán retener como pago provisional la cantidad que resulte de aplicar al monto de los intereses y la ganancia cambiaria acumulables, la tasa máxima para aplicarse sobre el excedente del límite inferior que establece la tarifa contenida en el artículo 177 de esta Ley.
 
 Las personas que hagan la retención en los términos de este artículo, deberán proporcionar a los contribuyentes constancia de la retención. Dichas retenciones deberán enterarse, en su caso, conjuntamente con las señaladas en el artículo 113 de la propia Ley.
 
-> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
-
-Los contribuyentes que además obtengan ingresos a los que se refieren los Capítulos I, II o III de este Título, determinarán el pago provisional, sin aplicar la exclusión general de $6,333.33 mensuales.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 170.
 
 Los contribuyentes que obtengan en forma esporádica ingresos de los señalados en este Capítulo, salvo aquéllos a que se refieren los artículos 168 y 213 de esta Ley, cubrirán como pago provisional a cuenta del impuesto anual, el monto que resulte de aplicar la tasa del 20% sobre el ingreso percibido, sin deducción alguna. El pago provisional se hará mediante declaración que presentarán ante las oficinas autorizadas dentro de los 15 días siguientes a la obtención del ingreso.
 
-> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
-Los contribuyentes que obtengan periódicamente ingresos de los señalados en este Capítulo, salvo aquéllos a que se refieren los artículos 168 y 213 de esta Ley, efectuarán pagos provisionales mensuales a cuenta del impuesto anual, a más tardar el día 17 del mes inmediato posterior a aquél al que corresponda el pago, mediante declaración que presentarán ante las oficinas autorizadas. El pago provisional se determinará aplicando la tarifa del artículo 113 de esta Ley a la diferencia que resulte de disminuir a los ingresos obtenidos en el mes, la exclusión general de $6,333.33; contra dicho pago podrán acreditarse las cantidades retenidas en los términos del cuarto párrafo de este artículo.
+Los contribuyentes que obtengan periódicamente ingresos de los señalados en este Capítulo, salvo aquéllos a que se refieren los artículos 168 y 213 de esta Ley, efectuarán pagos provisionales mensuales a cuenta del impuesto anual, a más tardar el día 17 del mes inmediato posterior a aquél al que corresponda el pago, mediante declaración que presentarán ante las oficinas autorizadas. El pago provisional se determinará aplicando la tarifa del artículo 113 de esta Ley a los ingresos obtenidos en el mes, sin deducción alguna; contra dicho pago podrán acreditarse las cantidades retenidas en los términos del siguiente párrafo.
 
-> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
-
-Los contribuyentes que además obtengan ingresos a los que se refieren los Capítulos I, II o III de este Título o a los que se refiere el primer párrafo del artículo 169 de esta Ley, determinarán el pago provisional, sin aplicar la exclusión general de $6,333.33 mensuales.
+> <small>(DEROGADO TERCER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
 Cuando los ingresos a que se refiere este Capítulo, salvo aquéllos a que se refiere el artículo 168 de esta Ley, se obtengan por pagos que efectúen las personas morales a que se refiere el Título II de esta Ley, dichas personas deberán retener como pago provisional la cantidad que resulte de aplicar la tasa del 20% sobre el monto de los mismos, sin deducción alguna, debiendo proporcionar a los contribuyentes constancia de la retención; dichas retenciones deberán enterarse, en su caso, conjuntamente con las señaladas en el artículo 113 de la propia Ley.
 
@@ -4126,9 +4152,9 @@ Tratándose de los ingresos a que se refiere la fracción XII del artículo 167 
 
 Los contribuyentes podrán solicitar les sea disminuido el monto del pago provisional a que se refiere el párrafo anterior, siempre que cumplan con los requisitos que para el efecto señale el Servicio de Administración Tributaria mediante reglas de carácter general.
 
-> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
-Las personas que efectúen las retenciones a que se refieren los párrafos cuarto, quinto y sexto de este artículo, así como las instituciones de crédito ante las cuales se constituyan las cuentas personales para el ahorro a que se refiere el artículo 218 de esta Ley, deberán presentar declaración ante las oficinas autorizadas, a más tardar el día 15 de febrero de cada año, proporcionando la información correspondiente de las personas a las que les hubieran efectuado retenciones en el año de calendario anterior, debiendo aclarar en el caso de las instituciones de crédito, el monto que corresponda al retiro que se efectúe de las citadas cuentas.
+Las personas que efectúen las retenciones a que se refieren los párrafos tercero, cuarto, y quinto de este artículo, así como las instituciones de crédito ante las cuales se constituyan las cuentas personales para el ahorro a que se refiere el artículo 218 de esta Ley, deberán presentar declaración ante las oficinas autorizadas, a más tardar el día 15 de febrero de cada año, proporcionando la información correspondiente de las personas a las que les hubieran efectuado retenciones en el año de calendario anterior, debiendo aclarar en el caso de las instituciones de crédito, el monto que corresponda al retiro que se efectúe de las citadas cuentas.
 
 Cuando las personas que efectúen los pagos a que se refiere la fracción XI del artículo 167 de esta Ley, paguen al contribuyente, además, ingresos de los señalados en el Capítulo I de este Título, los ingresos a que se refiere la citada fracción XI se considerarán como salarios para los efectos de este Título.
 
@@ -4182,9 +4208,9 @@ VI. Que los pagos de primas por seguros o fianzas se hagan conforme a las leyes 
 
 VII. Que se cumplan las obligaciones establecidas en esta Ley en materia de retención y entero de impuestos a cargo de terceros o que, en su caso, se recabe de éstos copia de los documentos en que conste el pago de dichos impuestos. Tratándose de pagos al extranjero, sólo se podrán deducir siempre que el contribuyente proporcione la información a que esté obligado en los términos del artículo 86 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
-Los pagos que a la vez sean ingresos en los términos del Capítulo I del Título IV, de esta Ley, se podrán deducir siempre que se cumpla con las obligaciones a que se refiere el artículo 118, fracciones I, II, V y VI de la misma, así como las disposiciones que regulan los subsidios para el empleo y para la nivelación del ingreso, en su caso y los contribuyentes cumplan con la obligación de inscribir a los trabajadores en el Instituto Mexicano del Seguro Social cuado (sic) estén obligados a ello, en los términos de las leyes de seguridad social.
+Los pagos que a la vez sean ingresos en los términos del Capítulo I del Título IV, de esta Ley, se podrán deducir siempre que se cumpla con las obligaciones a que se refieren los artículos 118, fracción I, y 119 de la misma y los contribuyentes cumplan con la obligación de inscribir a los trabajadores en el Instituto Mexicano del Seguro Social cuando estén obligados a ello, en los términos de las leyes de seguridad social.
 
 VIII. Cuando los pagos cuya deducción se pretenda, se efectúen a personas obligadas a solicitar su inscripción en el Registro Federal de Contribuyentes, se proporcione la clave respectiva en la documentación comprobatoria.
 
@@ -4222,9 +4248,9 @@ El monto del ajuste anual por inflación deducible en los términos del párrafo
 
 XV. Que cuando los pagos cuya deducción se pretenda, se hagan a contribuyentes que causen el impuesto al valor agregado, dicho impuesto se traslade en forma expresa y por separado en la documentación comprobatoria. Tratándose de los contribuyentes que ejerzan alguna de las opciones a que se refiere el último párrafo de la fracción IV de este artículo, el impuesto al valor agregado, además, se deberá anotar en forma expresa y por separado en el reverso del cheque de que se trate o deberá constar en el estado de cuenta, según sea el caso.
 
-> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
-XVI. Que tratándose de pagos efectuados por concepto de salarios y en general por la prestación de un servicio personal subordinado a trabajadores que tengan derecho a los subsidios para el empleo y para la nivelación del ingreso, efectivamente sean entregados y se dé cumplimiento a los requisitos que se establecen en las disposiciones legales que los regulan, salvo cuando no se esté obligado a ello en los términos de las citadas disposiciones legales.
+XVI. Que tratándose de pagos efectuados por concepto de salarios y en general por la prestación de un servicio personal subordinado a trabajadores que tengan derecho al crédito al salario a que se refieren los artículos 115 y 116 de esta Ley, efectivamente se entreguen las cantidades que por dicho crédito le correspondan a sus trabajadores y se dé cumplimiento a los requisitos a que se refiere el artículo 119 de la misma.
 
 ###### Artículo 173.
 
@@ -4232,9 +4258,9 @@ Para los efectos de este Capítulo, no serán deducibles:
 
 I. Los pagos por impuesto sobre la renta a cargo del propio contribuyente o de terceros ni los de contribuciones en la parte subsidiada o que originalmente correspondan a terceros, conforme a las disposiciones relativas, excepto tratándose de aportaciones al Instituto Mexicano del Seguro Social. Tampoco serán deducibles los pagos del impuesto al activo a cargo del contribuyente.
 
-> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
-Tampoco serán deducibles los subsidios para el empleo y para la nivelación del ingreso ni los accesorios de las contribuciones, a excepción de los recargos que el contribuyente hubiere pagado efectivamente, inclusive mediante compensación.
+Tampoco serán deducibles las cantidades que entregue el contribuyente en su carácter de retenedor a las personas que le presten servicios personales subordinados provenientes del crédito al salario a que se refieren los artículos 115 y 116 de esta Ley, así como los accesorios de las contribuciones, a excepción de los recargos que el contribuyente hubiere pagado efectivamente, inclusive mediante compensación.
 
 II. Las inversiones en casas habitación, en comedores que por su naturaleza no estén a disposición de todos los trabajadores de la empresa, en aviones y embarcaciones, que no tengan concesión o permiso del Gobierno Federal para ser explotados comercialmente ni los pagos por el uso o goce temporal de dichos bienes.
 
@@ -4368,17 +4394,15 @@ Para que procedan las deducciones a que se refieren las fracciones I y II que an
 
 Los requisitos de las deducciones establecidas en el Capítulo X de este Título no son aplicables a las deducciones personales a que se refiere este artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 177.
 
-Las personas físicas calcularán el impuesto del ejercicio sumando, a los ingresos obtenidos conforme a los Capítulos I, III, IV, V, VI, VIII y IX de este Título, después de efectuar las deducciones autorizadas en dichos Capítulos, la utilidad gravable determinada conforme a las Secciones I o II del Capítulo II de este Título, al resultado obtenido se le disminuirá, en su caso, las deducciones a que se refiere el artículo 176 de esta Ley. A la cantidad que se obtenga se le disminuirán $76,000.00 o en su caso, la cantidad por la que se haya optado en los términos del artículo 113 de esta Ley. En ningún caso la exclusión general excederá de la cantidad que resulte de disminuir a la suma de los ingresos obtenidos más la utilidad gravable, las deducciones autorizadas a que se refiere el artículo 176 de esta Ley. Al resultado obtenido se le aplicará la siguiente:
+Las personas físicas calcularán el impuesto del ejercicio sumando, a los ingresos obtenidos conforme a los Capítulos I, III, IV, V, VI, VIII y IX de este Título, después de efectuar las deducciones autorizadas en dichos Capítulos, la utilidad gravable determinada conforme a las Secciones I o II del Capítulo II de este Título, al resultado obtenido se le disminuirá, en su caso, las deducciones a que se refiere el artículo 176 de esta Ley. A la cantidad que se obtenga se le aplicará la siguiente:
 
-(VER TABLA ANEXA)
+(VEASE TABLA ANEXA)
 
-> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
-
-Para los efectos del párrafo anterior, tratándose de ingresos obtenidos conforme al Capítulo I de este Título, la cantidad que se deberá acumular a los demás ingresos del contribuyente será el salario bruto disminuido de los ingresos a que se refieren las fracciones IV, VII y XIII del artículo 109 de esta Ley, siempre que se cumplan con los requisitos establecidos en el citado artículo.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
 No será aplicable lo dispuesto en este artículo a los ingresos por los que no se esté obligado al pago del impuesto y por los que ya se pagó impuesto definitivo.
 
@@ -4392,17 +4416,29 @@ I. El importe de los pagos provisionales efectuados durante el año de calendari
 
 II. El impuesto acreditable en los términos de los artículos 6o., 165 y del penúltimo párrafo del artículo 170, de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
-En los casos en los que el impuesto a cargo del contribuyente sea menor que la cantidad que se acredite en los términos de este artículo, únicamente se podrá solicitar la devolución o efectuar la compensación del impuesto efectivamente pagado o que le hubiera sido retenido. Para los efectos de la compensación a que se refiere este párrafo, el saldo a favor se actualizará por el periodo comprendido desde el mes inmediato anterior en el que se presentó la declaración que contenga el saldo a favor y hasta el mes inmediato anterior al mes en el que se compense.
+El impuesto que resulte a cargo del contribuyente se disminuirá con el subsidio que, en su caso, resulte aplicable en los términos del artículo 178 de esta Ley. En los casos en los que el impuesto a cargo del contribuyente sea menor que la cantidad que se acredite en los términos de este artículo, únicamente se podrá solicitar la devolución o efectuar la compensación del impuesto efectivamente pagado o que le hubiera sido retenido. Para los efectos de la compensación a que se refiere este párrafo, el saldo a favor se actualizará por el periodo comprendido desde el mes inmediato anterior en el que se presentó la declaración que contenga el saldo a favor y hasta el mes inmediato anterior al mes en el que se compense.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 Cuando la inflación observada acumulada desde la fecha en la que se actualizaron por última vez las cantidades establecidas en moneda nacional de las tarifas y tablas contenidas en este artículo y los artículos 113, 114, 115 y 178 de esta Ley, exceda del 10%, las mismas se actualizarán a partir del mes de enero siguiente, por el periodo comprendido desde el mes en el que éstas se actualizaron por última vez y hasta el último mes del ejercicio en el que se exceda el porcentaje citado. Para estos efectos, el factor de actualización se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes inmediato anterior al más reciente del periodo entre el Índice Nacional de Precios al Consumidor del mes en el que se efectuó la última actualización.
 
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 178.
 
-(DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
+Los contribuyentes a que se refiere este Título gozarán de un subsidio contra el impuesto que resulte a su cargo en los términos del artículo anterior.
+
+El subsidio se calculará considerando el ingreso y el impuesto determinado conforme a la tarifa contenida en el artículo 177 de esta Ley, a los que se les aplicará la siguiente:
+
+(VEASE ARCHIVO ANEXO)
+
+El impuesto marginal mencionado en esta tabla es el que resulte de aplicar la tasa que corresponda en la tarifa del artículo 177 de esta Ley al ingreso excedente del límite inferior.
+
+Tratándose de los ingresos a que se refiere el Capítulo I de este Título, el empleador deberá calcular y comunicar a las personas que le hubieran prestado servicios personales subordinados, a más tardar el 15 de febrero de cada año, el monto del subsidio acreditable y el no acreditable respecto a dichos ingresos, calculados conforme al procedimiento descrito en el artículo 114 de esta Ley.
+
+Cuando los contribuyentes, además de los ingresos a que se refiere el Capítulo I de este Título, perciban ingresos de los señalados en cualquiera de los demás Capítulos de este mismo Título, deberán restar del monto del subsidio antes determinado una cantidad equivalente al subsidio no acreditable señalado en el párrafo anterior.
 
 ## TÍTULO V. DE LOS RESIDENTES EN EL EXTRANJERO CON INGRESOS PROVENIENTES DE FUENTE DE RIQUEZA UBICADA EN TERRITORIO NACIONAL
 
@@ -4538,14 +4574,6 @@ El impuesto sobre la utilidad a que se refiere este artículo se enterará por e
 
 Cuando la persona que efectúe los pagos a que se refiere este artículo sea residente en el extranjero, el contribuyente enterará el impuesto mediante declaración que presentará, en las oficinas autorizadas, dentro de los 15 días siguientes a la obtención del ingreso.
 
-###### Artículo 188.
-
-En los ingresos por otorgar el uso o goce temporal de bienes muebles, se considerará que la fuente de riqueza se encuentra en territorio nacional, cuando los bienes muebles destinados a actividades comerciales, industriales, agrícolas, ganaderas y de pesca, se utilicen en el país. Se presume salvo prueba en contrario, que los bienes muebles se destinan a estas actividades y se utilizan en el país, cuando el que usa o goza el bien es residente en México o residente en el extranjero con establecimiento permanente en territorio nacional. En el caso de que los bienes muebles se destinen a actividades distintas de las anteriores, cuando en el país se haga la entrega material de los bienes muebles.
-
-El impuesto se determinará aplicando la tasa del 25% sobre el ingreso obtenido, sin deducción alguna, debiendo efectuar la retención las personas que hagan los pagos. Tratándose de contenedores, así como de aviones y embarcaciones que tengan concesión o permiso del Gobierno Federal para ser explotados comercialmente, el impuesto se determinará aplicando la tasa del 5% siempre que dichos bienes sean utilizados directamente por el arrendatario en la transportación de pasajeros o bienes.
-
-Lo dispuesto en este precepto no es aplicable a los bienes muebles a que se refieren los artículos 198 y 200 de esta Ley.
-
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 188
@@ -4553,6 +4581,14 @@ Lo dispuesto en este precepto no es aplicable a los bienes muebles a que se refi
 Bis. En los ingresos derivados de contratos de fletamento, se considerará que la fuente de riqueza se encuentra en territorio nacional, cuando las embarcaciones fletadas realicen navegación de cabotaje en territorio nacional.
 
 El impuesto se determinará aplicando la tasa del 10% sobre el ingreso obtenido, sin deducción alguna, debiendo efectuar la retención la persona que haga los pagos.
+
+###### Artículo 188.
+
+En los ingresos por otorgar el uso o goce temporal de bienes muebles, se considerará que la fuente de riqueza se encuentra en territorio nacional, cuando los bienes muebles destinados a actividades comerciales, industriales, agrícolas, ganaderas y de pesca, se utilicen en el país. Se presume salvo prueba en contrario, que los bienes muebles se destinan a estas actividades y se utilizan en el país, cuando el que usa o goza el bien es residente en México o residente en el extranjero con establecimiento permanente en territorio nacional. En el caso de que los bienes muebles se destinen a actividades distintas de las anteriores, cuando en el país se haga la entrega material de los bienes muebles.
+
+El impuesto se determinará aplicando la tasa del 25% sobre el ingreso obtenido, sin deducción alguna, debiendo efectuar la retención las personas que hagan los pagos. Tratándose de contenedores, así como de aviones y embarcaciones que tengan concesión o permiso del Gobierno Federal para ser explotados comercialmente, el impuesto se determinará aplicando la tasa del 5% siempre que dichos bienes sean utilizados directamente por el arrendatario en la transportación de pasajeros o bienes.
+
+Lo dispuesto en este precepto no es aplicable a los bienes muebles a que se refieren los artículos 198 y 200 de esta Ley.
 
 ###### Artículo 189.
 
@@ -6754,13 +6790,9 @@ c) Cuando conforme a la Ley del Impuesto sobre la Renta se deba aplicar el facto
 
 d) Para los efectos del penúltimo párrafo del artículo 81 de la Ley del Impuesto sobre la Renta, se reducirá el impuesto determinado conforme a la fracción II del citado artículo en un 44.83%.
 
-e) Para los efectos del artículo 113 de la Ley del Impuesto sobre la Renta en lugar de aplicar la tarifa contenida en dicho precepto, se aplicará la siguiente:
+e) (DEROGADO POR EL ARTICULO TERCERO DE LAS DISPOSICIONES DE VIGENCIA ANUAL DE LA LEY DEL IMPUESTO SOBRE LA RENTA, D.O.F. 26 DE DICIEMBRE DE 2005)
 
-(VEASE ARCHIVO ANEXO)
-
-f) Para los efectos del artículo 177 de la Ley del Impuesto sobre la Renta en lugar de aplicar la tarifa contenida en dicho precepto, se aplicará la siguiente:
-
-(VEASE ARCHIVO ANEXO)
+f) (DEROGADO POR EL ARTICULO TERCERO DE LAS DISPOSICIONES DE VIGENCIA ANUAL DE LA LEY DEL IMPUESTO SOBRE LA RENTA, D.O.F. 26 DE DICIEMBRE DE 2005)
 
 III. Para los efectos de lo dispuesto en la fracción I, inciso a), numeral 2, del artículo 195 de la Ley del Impuesto sobre la Renta, durante el ejercicio de 2005, los intereses a que hace referencia dicha fracción podrán estar sujetos a una tasa del 4.9%, siempre que el beneficiario efectivo de los intereses mencionados en este artículo sea residente de un país con el que se encuentre en vigor un tratado para evitar la doble tributación y se cumplan los requisitos previstos en dicho tratado para aplicar las tasas que en el mismo se prevean para este tipo de intereses.
 
@@ -6796,7 +6828,7 @@ c) Tratándose de contribuyentes que tengan en sus inventarios bienes que hayan 
 
 El inventario acumulable en cada ejercicio se determinará multiplicando el valor del inventario acumulable, por el por ciento de acumulación que corresponda al índice promedio de rotación de inventarios calculado por el periodo correspondiente a los años de 2002 a 2004, o de acuerdo al que se determine cuando el contribuyente haya iniciado actividades con posterioridad a 2002, conforme a la siguiente tabla:
 
-(VER TABLA ANEXA)
+(VEASE ARCHIVO ANEXO)
 
 Para determinar el índice promedio de rotación de inventarios del periodo comprendido por los años de 2002 a 2004, o el que corresponda cuando el contribuyente haya iniciado actividades con posterioridad a 2002, se estará a lo siguiente:
 
@@ -7090,69 +7122,13 @@ Del Subsidio para el Empleo
 
 ###### ARTÍCULO QUINTO.
 
-Los contribuyentes que perciban ingresos por salarios, gozarán de un subsidio para el empleo, aplicando a la totalidad del salario bruto a que se refiere el cuarto párrafo del artículo 113 de la Ley del Impuesto sobre la Renta que les paguen sus empleadores, obtenidos en el mes de que se trate conforme a la siguiente:
-
-(VEASE ARCHIVO ANEXO)
-
-El empleador deberá entregar al contribuyente el subsidio que mensualmente le corresponda determinado conforme a la tabla anterior, pudiendo acreditar las cantidades que entregue a los contribuyentes en los términos de este párrafo, contra el impuesto sobre la renta a su cargo o del retenido a terceros, inclusive cuando el impuesto deba enterarse a las entidades federativas conforme a las disposiciones legales. Los ingresos que perciban los contribuyentes derivados del subsidio a que se refiere este artículo no serán acumulables para los efectos del impuesto sobre la renta ni formarán parte del cálculo de la base gravable de cualquier otra contribución.
-
-En los casos en los que los empleadores realicen pagos por salarios, que comprendan periodos menores a un mes, para calcular el subsidio correspondiente a cada pago, dividirán las cantidades correspondientes a las columnas relativas al límite inferior, límite superior y cantidad del subsidio, de la tabla a que se refiere este artículo, entre 30.4. El resultado así obtenido se multiplicará por el número de días al que corresponda el periodo de pago para determinar el monto del subsidio que le corresponde al trabajador por dichos pagos.
-
-Cuando los pagos por salarios, sean por periodos menores a un mes, la cantidad del subsidio que se deba entregar al trabajador por todos los pagos que se hagan en el mes, no podrá exceder de la que corresponda conforme a la tabla prevista en este artículo para el monto total percibido en el mes de que se trate.
-
-Cuando los contribuyentes presten servicios a dos o más empleadores, deberán elegir, antes de que alguno les efectúe el primer pago que les corresponda por la prestación de servicios personales subordinados en el año de calendario de que se trate, al empleador que les efectuará las entregas del subsidio a que se refiere este artículo, en cuyo caso, deberán comunicar esta situación por escrito a los demás empleadores, a fin de que ellos ya no les den el subsidio correspondiente.
-
-Quienes hagan los pagos a los contribuyentes que tengan derecho al subsidio a que se refiere este artículo, sólo podrán acreditar contra el impuesto sobre la renta a su cargo o del retenido a terceros, las cantidades que entreguen a los contribuyentes por dicho concepto, cuando cumplan con los siguientes requisitos:
-
-I. Anoten en los comprobantes de pago que por los ingresos por prestaciones por servicios personales subordinados entreguen a sus trabajadores, el monto del subsidio identificándolo de manera expresa y por separado.
-
-II. Presenten ante las oficinas autorizadas, a más tardar el 15 de febrero de cada año, declaración proporcionando información de las cantidades que paguen por concepto del subsidio a que se refiere este artículo en el ejercicio inmediato anterior, identificando por cada trabajador el salario bruto, que sirve de base para determinar el subsidio, así como el monto de este último.
-
-III. Paguen las aportaciones de seguridad social a su cargo por los trabajadores que gocen del subsidio a que se refiere este artículo.
-
-IV. Conserven los escritos que les presenten los contribuyentes en los términos del quinto y sexto párrafos de este artículo, en su caso.
-
-No se considerarán para los efectos del cálculo del monto del subsidio mensual a que se refiere este artículo, los ingresos percibidos por los trabajadores como consecuencia de la terminación de la relación laboral ni los que la Ley del Impuesto sobre la Renta asimila a salarios, a excepción de los señalados en la fracción I del artículo 110 de dicha Ley.
+(DEROGADO POR EL ARTICULO TERCERO DE LAS DISPOSICIONES DE VIGENCIA ANUAL DE LA LEY DEL IMPUESTO SOBRE LA RENTA, D.O.F. 26 DE DICIEMBRE DE 2005)
 
 Del Subsidio para la Nivelación del Ingreso
 
 ###### ARTÍCULO SEXTO.
 
-Los empleadores que durante el mes de diciembre de 2005 hubieran pagado remuneraciones por la prestación de servicios personales subordinados, gozarán de un subsidio mensual por aquellos trabajadores que hubieran trabajado con ellos al 31 de diciembre de 2005, siempre que se cumpla con lo siguiente:
-
-I. El subsidio será aplicable únicamente por aquellos trabajadores a los que les paguen salarios y cualquier otra prestación que derive de la relación laboral, que en el mes de enero de 2006, tengan ingresos que no excedan de una cantidad equivalente a diez salarios mínimos generales del área geográfica del empleador, elevados al mes. Cuando con posterioridad el ingreso del trabajador exceda de diez salarios mínimos generales o deje de trabajar en la empresa, el empleador perderá el monto del subsidio que corresponda a dicho trabajador.
-
-El subsidio que se calcule por cada trabajador se mantendrá en las mismas cantidades que se determinen conforme a este artículo y durante el plazo a que se refiere el mismo, aun cuando aumente el monto de sus ingresos, siempre que no exceda de diez salarios mínimos generales del área geográfica del empleador.
-
-II. Que una cantidad igual al monto del subsidio que corresponda por cada trabajador por el cual se tenga derecho a percibirlo, se entregue en su totalidad y en efectivo a dicho trabajador, no pudiéndose entregar a persona distinta de éste.
-
-La entrega que se haga al trabajador de la cantidad igual al subsidio que se calcule por él, la hará el empleador en los mismos plazos y términos en los que conforme a lo previsto en el Artículo Quinto de este Decreto le debe entregar el subsidio para el empleo.
-
-III. El monto del subsidio a que se refiere este artículo se calculará por cada trabajador, conforme a lo siguiente:
-
-a) A la suma de los ingresos por salarios y por cualquier otra prestación en efectivo o vales de despensa que derive de la relación laboral, que en el mes de enero de 2006 le haya pagado el empleador al trabajador, se le restará el impuesto sobre la renta que habría resultado a cargo del trabajador de haberle aplicado las disposiciones contenidas en el Capítulo I del Título IV de la Ley del Impuesto sobre la Renta vigente en diciembre de 2005, y sumándole, en su caso, el importe del crédito al salario que le habría correspondido al trabajador de haberlos obtenido en el mes de diciembre de 2005.
-
-b) A la suma de los ingresos por salarios y por cualquier otra prestación en efectivo o vales de despensa que derive de la relación laboral, que en el mes de enero de 2006 le haya pagado el empleador al trabajador, se le restará el impuesto sobre la renta que el empleador le retenga en dicho mes, y le sumará el subsidio para el empleo que en el mismo mes le corresponda al trabajador.
-
-c) Se comparará la cantidad que resulte conforme al inciso a) contra la que resulte conforme al inciso b), si esta última resulta menor, la diferencia entre ambas cantidades será el monto del subsidio mensual a que tendrá derecho el empleador por cada trabajador por el que se efectuó el cálculo.
-
-Para los efectos de esta fracción, en el total de ingresos que le haya pagado el empleador en el mes de enero de 2006 al trabajador, no se considerarán aquellas prestaciones que no se hayan pagado al trabajador en todos los meses de 2005 en que haya prestado sus servicios personales subordinados al empleador.
-
-Para los efectos de lo previsto en los incisos a) y b) de esta fracción, cuando el importe de las prestaciones previstas en la fracción VI del artículo 109 de la Ley del Impuesto sobre la Renta, sumado al salario percibido en el mes excede de una cantidad equivalente a siete veces el salario mínimo general del área geográfica del empleador elevado al mes, sólo se considerará por concepto de prestaciones una cantidad equivalente a un salario mínimo general del área geográfica del empleador elevado al mes. Tampoco se considerarán en los ingresos pagados al trabajador, los pagos correspondientes a tiempo extraordinario o por prestación de servicios que se realice en los días de descanso sin disfrutar de otro en sustitución.
-
-No se considerarán para los efectos del cálculo del subsidio a que se refiere esta fracción, los ingresos que conforme a la Ley del Impuesto sobre la Renta se asimilan a salarios.
-
-Para los efectos de determinar la totalidad de los ingresos que le pague el empleador a cada trabajador en el mes de enero de 2006 por concepto de salarios después de haberle retenido, en su caso, el impuesto sobre la renta, no se considerará la diferencia del impuesto anual a cargo o a favor del trabajador, determinada por el empleador en los términos del artículo 116 de la Ley del Impuesto sobre la Renta, que se le retenga o compense en dicho mes al trabajador.
-
-Los ingresos que perciban los empleadores por concepto del subsidio a que se refiere este artículo, así como las cantidades que entreguen a sus trabajadores en cumplimiento de lo dispuesto en esta misma disposición, no serán acumulables para los efectos del impuesto sobre la renta ni formarán parte del cálculo de la base gravable de cualquier otra contribución.
-
-El subsidio a que se refiere este artículo se disminuirá en los meses del año de 2007, al 90% del subsidio mensual que le correspondió al contribuyente para el año de 2006. Por los años subsecuentes la reducción será conforme a lo siguiente, en el año de 2008 al 80%, en el año de 2009 al 70%, en el año de 2010 al 60%, en el año de 2011 al 50%, en el año de 2012 al 40%, en el año de 2013 al 30%, en el año de 2014 al 20%, en el año de 2015, al 10% y en el año de 2016 ya no se tendrá derecho a obtener cantidad alguna por este subsidio.
-
-Los contribuyentes que tengan derecho al subsidio previsto en este artículo, sólo lo podrán acreditar en los términos previstos en el Artículo Quinto de este Decreto, y siempre que cumplan con lo dispuesto en las fracciones I, II y III del referido Artículo Quinto.
-
-Cuando los trabajadores presten servicios a dos o más empleadores, las cantidades a que se refiere este artículo se deberán calcular y entregar por el empleador del que perciban mayores ingresos en el mes de enero de 2006, para lo cual el trabajador antes de que alguno le efectúe el primer pago que le corresponda por la prestación de servicios personales subordinados, deberá comunicar esta situación por escrito a los demás empleadores, a fin de que ellos ya no calculen el subsidio correspondiente por el trabajador.
-
-El subsidio a que se refiere este artículo no será aplicable tratándose de la Federación, las Entidades Federativas y los Municipios, así como a sus organismos descentralizados y empresas de participación estatal.
+(DEROGADO POR EL ARTICULO TERCERO DE LAS DISPOSICIONES DE VIGENCIA ANUAL DE LA LEY DEL IMPUESTO SOBRE LA RENTA, D.O.F. 26 DE DICIEMBRE DE 2005)
 
 ## TRANSITORIO
 
@@ -7195,3 +7171,35 @@ Lo dispuesto en la fracción XVIII del Artículo Segundo de las Disposiciones Tr
 ## TRANSITORIO
 
 ÚNICO. El presente Decreto entrará en vigor el 1o. de enero de 2006.
+
+D.O.F. 26 DE DICIEMBRE DE 2005.
+
+Disposiciones de vigencia anual de la Ley del Impuesto sobre la Renta
+
+Artículo Segundo. Para los efectos de lo dispuesto en la Ley del Impuesto sobre la Renta, durante el ejercicio fiscal de 2006, se aplicarán las siguientes disposiciones:
+
+I. Para los efectos del artículo 113 de la Ley del Impuesto sobre la Renta, en lugar de aplicar la tarifa contenida en dicho precepto se aplicará la siguiente:
+
+(VEASE ARCHIVO ANEXO)
+
+II. Para los efectos del artículo 114 de la Ley del Impuesto sobre la Renta, en lugar de aplicar la tabla contenida en dicho precepto se aplicará la siguiente:
+
+(VEASE ARCHIVO ANEXO)
+
+III. Para los efectos del artículo 177 de la Ley del Impuesto sobre la Renta, en lugar de aplicar la tarifa contenida en dicho precepto se aplicará la siguiente:
+
+(VEASE ARCHIVO ANEXO)
+
+IV. Para los efectos del artículo 178 de la Ley del Impuesto sobre la Renta, en lugar de aplicar la tabla contenida en dicho precepto se aplicará la siguiente:
+
+(VEASE ARCHIVO ANEXO)
+
+Artículo Tercero. Se deroga la fracción II, incisos e) y f), del Artículo Segundo de las Disposiciones de Vigencia Temporal de la Ley del Impuesto sobre la Renta, del Decreto por el que se Reforman, Adicionan, Derogan y Establecen diversas Disposiciones de la Ley del Impuesto sobre la Renta y de la Ley del Impuesto al Activo y Establece los Subsidios para el Empleo y para la Nivelación del Ingreso, publicado en el Diario Oficial de la Federación el 1 de diciembre de 2004.
+
+Artículo Cuarto. Se derogan los Artículos Quinto y Sexto del Decreto por el que se Reforman, Adicionan, Derogan y Establecen diversas Disposiciones de la Ley del Impuesto sobre la Renta y de la Ley del Impuesto al Activo y Establece los Subsidios para el Empleo y para la Nivelación del Ingreso, publicado en el Diario Oficial de la Federación el 1 de diciembre de 2004.
+
+## Transitorios
+
+Artículo Primero. El presente Decreto entrará en vigor a partir del 1 de enero de 2006.
+
+Artículo Segundo. Las tarifas y tablas establecidas en los artículos 113, 114, 115, 177 y 178 de la Ley del Impuesto sobre la Renta se encuentran actualizadas al mes de diciembre de 2004.
