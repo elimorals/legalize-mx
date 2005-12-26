@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2005-10-17"
+last_updated: "2005-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE DICIEMBRE DE 2005.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -669,25 +669,41 @@ Las Comisiones del Congreso serán Permanentes, Especiales y de Protocolo y Cort
 
 Las Comisiones Permanentes tendrán la competencia que se deriva de su denominación y las especiales las de los asuntos que motivaron su integración.
 
-> <small>(REFORMADO, G.O. 2 DE ENERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 39.
 
-Serán permanentes las Comisiones siguientes:
+Serán permanentes las comisiones siguientes:
+
+> <small>(REFORMADA, G.O. 2 DE ENERO DE 2003)</small>
 
 I. Administración y Presupuesto;
 
+> <small>(REFORMADA, G.O. 2 DE ENERO DE 2003)</small>
+
 II. Asuntos Indígenas;
+
+> <small>(REFORMADA, G.O. 2 DE ENERO DE 2003)</small>
 
 III. Comunicaciones;
 
+> <small>(REFORMADA, G.O. 2 DE ENERO DE 2003)</small>
+
 IV. Derechos Humanos y Atención a Grupos Vulnerables;
+
+> <small>(REFORMADA, G.O. 2 DE ENERO DE 2003)</small>
 
 V. Desarrollo Agropecuario, Rural, Forestal, Pesca y Alimentación;
 
+> <small>(REFORMADA, G.O. 2 DE ENERO DE 2003)</small>
+
 VI. Desarrollo Económico;
 
+> <small>(REFORMADA, G.O. 2 DE ENERO DE 2003)</small>
+
 VII. Desarrollo Regional;
+
+> <small>(REFORMADA, G.O. 2 DE ENERO DE 2003)</small>
 
 VIII. Desarrollo y Fortalecimiento Municipal;
 
@@ -757,9 +773,19 @@ XXIV. Seguridad Pública y Procuración de Justicia;
 
 > <small>(REFORMADA, G.O. 25 DE JULIO DE 2003)</small>
 
-XXV. Trabajo y Previsión Social; y
+XXV. Trabajo y Previsión Social; y (sic)
+
+> <small>(REFORMADA, G.O. 2 DE ENERO DE 2003)</small>
 
 XXVI. Vigilancia.
+
+> <small>(ADICIONADA, G.O. 26 DE DICIEMBRE DE 2005)</small>
+
+XXVII. Turismo; y
+
+> <small>(ADICIONADA, G.O. 26 DE DICIEMBRE DE 2005)</small>
+
+XXVIII. Transporte, Tránsito y Vialidad.
 
 > <small>(REFORMADO, G.O. 25 DE ABRIL DE 2003)</small>
 
@@ -1246,3 +1272,9 @@ Primero. El presente Decreto iniciará su vigencia al día siguiente de su publi
 Segundo. Las reformas a las Leyes complementarias iniciarán su vigencia en la misma fecha que las reformas a la Constitución.
 
 Tercero. Publíquese en la Gaceta Oficial, órgano del gobierno del estado.
+
+G.O. 26 DE DICIEMBRE DE 2005.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
