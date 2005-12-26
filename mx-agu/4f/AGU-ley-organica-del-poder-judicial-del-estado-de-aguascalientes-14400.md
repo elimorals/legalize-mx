@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-judicial-del-estado-de-aguascalientes-14
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-08-15"
-last_updated: "2004-05-17"
+last_updated: "2005-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DEL PODER JUDICIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MAYO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Suplemento al No. 33 del Periódico Oficial del Estado de Aguascalientes, el domingo 15 de agosto de 1993.
 
@@ -547,6 +547,150 @@ VI.- Formular los requerimientos ordinarios necesarios para la integración de l
 
 VII.- Las demás atribuciones que les señalen las leyes aplicables necesarias para el correcto funcionamiento del Tribunal.
 
+> <small>(ADICIONADO CON EL CAPITULO, SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 2005)</small>
+
+## TITULO PRIMERO TER
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 2005)</small>
+
+### CAPITULO UNICO. Del Tribunal de lo Contencioso Administrativo
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LA INTEGRA, P.O. 26 DE DICIEMBRE DE 2005)</small>
+
+Sección 1ª
+
+Disposiciones Generales
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
+
+ARTICULO 33 H.- El Tribunal de lo Contencioso Administrativo del Estado de Aguascalientes, está dotado de plena autonomía para dictar sus fallos y es independiente de cualquier autoridad. Tiene a su cargo dirimir las controversias de carácter administrativo y fiscal, que se susciten entre las autoridades del Estado, de los Municipios y sus organismos descentralizados en funciones de autoridad, con los particulares. Contará para ello con la organización y atribuciones que esta Ley establece, y estará dotado de plena jurisdicción y del imperio suficiente para hacer cumplir sus determinaciones.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 26 DE DICIEMBRE DE 2005)</small>
+
+Sección 2ª
+
+De la Integración del Tribunal
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
+
+ARTICULO 33 I.- El Tribunal contará con un Magistrado, un Secretario General de Acuerdos y los Secretarios de Estudio, Actuarios, auxiliares y servidores administrativos que sean necesarios para el buen despacho de los asuntos de su competencia.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
+
+###### ARTICULO 33.
+
+J.- El Magistrado del Tribunal deberá reunir los requisitos que establece el artículo 5º de esta Ley; se nombrará en la forma y términos previstos por el Artículo 54 de la Constitución Política del Estado; y durarán en su encargo 15 años.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
+
+ARTICULO 33 K.- Los Secretarios del Tribunal y actuario serán designados por el Pleno del Consejo de la Judicatura, previo examen de oposición, y para ello se requiere:
+
+I.- Ser mexicano, domiciliado legalmente en el Estado cuando menos dos años antes del día de su designación;
+
+II.- Tener título de Licenciado en Derecho debidamente registrado;
+
+III.- Acreditar por lo menos tres años de práctica en materia administrativa; y
+
+IV.- Estar en pleno goce de sus derechos civiles y políticos.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 26 DE DICIEMBRE DE 2005)</small>
+
+Sección 3ª
+
+De las atribuciones
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
+
+ARTICULO 33 L.- El Tribunal conocerá de los juicios que se inicien contra:
+
+I.- Las resoluciones definitivas emanadas de las autoridades dependientes del Poder Ejecutivo Estatal, de los Municipios y de los Organismos Descentralizados cuando éstos actúen como autoridades, que causen agravio a los particulares;
+
+II.- Las resoluciones definitivas dictadas por cualquiera de las autoridades fiscales del Estado o Municipios, y de sus organismos fiscales autónomos, en las que se determine la existencia de una obligación fiscal, se fije ésta en cantidad líquida o se den las bases para su liquidación; nieguen la devolución de un ingreso indebidamente percibido, o cualquiera otra que cause agravio en materia fiscal;
+
+III.- De las resoluciones favorables a un particular, cuando las autoridades estatales y municipales promuevan el juicio para que sean anuladas;
+
+IV.- Del procedimiento administrativo de ejecución cuando el afectado firme:
+
+a).- Que el crédito que se le exige se ha extinguido legalmente;
+
+b) Que el monto del crédito es inferior al exigible;
+
+c).- Que es poseedor, a título de propietario de los bienes embargados en el procedimiento económico coactivo seguido a otras personas, o acreedor preferente al físico; y
+
+d).- Que el procedimiento coactivo no se ajustó a la Ley. En este último caso, la oposición no podrá hacerse valer, sino contra la resolución que apruebe el remate; salvo que se trate de imposible reparación;
+
+V.- La negativa de una autoridad para ordenar la devolución de cantidades pagadas indebidamente;
+
+VI.- Las resoluciones definitivas que constituyan créditos fiscales, por responsabilidades de los servidores públicos del Estado, de los Ayuntamientos y sus Organismos Descentralizados;
+
+VII.- Las resoluciones dictadas conforme a una ley especial, que le otorgue competencia al Tribunal de lo Contencioso Administrativo del Estado;
+
+VIII.- Resolver los recursos que concedan las leyes en contra de los acuerdos que se dicten en la tramitación de los juicios; y
+
+IX.- Establecer la jurisprudencia del Tribunal;
+
+Para los efectos de las dos primeras fracciones de este artículo, las resoluciones se considerarán definitivas, cuando no admitan recurso administrativo o cuando, previéndolo el afectado opte por no agotarlo y acuda directamente al Tribunal.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
+
+ARTÍCULO 33 LL.- Serán atribuciones del Magistrado las siguientes:
+
+I.- Dictar las medidas necesarias para el despacho pronto y expedito de los asuntos competencia del Tribunal;
+
+II.- Resolver los recursos e instancias que contempla esta Ley en contra de los acuerdos y determinaciones que se tomen dentro de los procedimientos seguidos ante el Tribunal;
+
+III.- Resolver las excitativas de justicia que formulen las partes;
+
+IV.- Fijar la jurisprudencia del Tribunal;
+
+V.- Las demás que determinen las leyes;
+
+VI.- Autorizar, en unión del Secretario General de Acuerdos, las correspondientes actas en las que se harán constar los acuerdos que dicte el Tribunal; y
+
+VII.- Rendir los informes previstos y justificados en los juicios de amparo promovidos en contra del Tribunal.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 26 DE DICIEMBRE DE 2005)</small>
+
+Sección 4ª
+
+De los Secretarios y Actuarios del Tribunal
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
+
+ARTICULO 33 M.- Corresponde al Secretario General de Acuerdos:
+
+I.- Acordar con el Magistrado lo relativo al Tribunal;
+
+II.- Intervenir en los actos de los que deba dejarse constancia en autos, autorizándolos con su firma, excepción hecha de las encomendadas a otros servidores;
+
+III.- Expedir certificaciones de las constancias que obren en los expedientes de la Secretaría General; y
+
+IV.- Llevar los libros de gobierno de registro de documentos y de personas que puedan ser peritos ante el Tribunal, así como el registro de la cédula profesional de los abogados litigantes.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
+
+ARTICULO 33 N.- Corresponde a los Secretarios de Estudio:
+
+I.- Proyectar los acuerdos de trámite;
+
+II.- Efectuar las diligencias que le encomiende el Magistrado, cuando éstas deban practicarse fuera del local del Tribunal;
+
+III.- Redactar y autorizar las actas de las audiencias, en las que corresponda dar cuenta, y autorizar las resoluciones que recaigan en los expedientes;
+
+IV.- Expedir certificados de las constancias que obren en los expedientes; y
+
+V.- Las demás que señalen las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
+
+ARTÍCULO 33 Ñ.- Corresponde a los Actuarios:
+
+I.- Notificar, en el tiempo y forma prescrito por la Ley, las resoluciones recaídas en los expedientes que, para tal efecto, les sean turnados;
+
+II.- Practicar las diligencias que les encomiende el Magistrado; y
+
+III.- Las demás que señalen las disposiciones legales aplicables.
+
 ## TITULO SEGUNDO
 
 ### CAPITULO I. De los Juzgados de Primera Instancia
@@ -556,8 +700,6 @@ VII.- Las demás atribuciones que les señalen las leyes aplicables necesarias p
 ## TITULO TERCERO
 
 ### CAPITULO II. De los Juzgados Menores
-
-### CAPITULO III. De los Peritos
 
 ###### ARTICULO 34.
 
@@ -755,9 +897,7 @@ Los Notificadores tendrán fe pública en el desempeño de sus funciones.
 
 Los servidores públicos tienen obligación de asistir a las horas de despacho y también a las extraordinarias que el Juez determine, dedicándose con eficiencia a sus labores, conforme a las órdenes que reciban del Juez y de los Secretarios de Acuerdos.
 
-### CAPITULO IV. Visita de Juzgados
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+### CAPITULO III. De los Peritos
 
 ###### ARTICULO 51.
 
@@ -793,7 +933,9 @@ III.- Para diligenciar exhortos o despachos que reciban y que sean de su compete
 
 En los Juzgados Menores Mixtos actuará con el Juez un Secretario y tendrá la planta de empleados que fije el Presupuesto.
 
-### CAPITULO V. De los Procedimientos para Imponer Correcciones Disciplinarias
+### CAPITULO IV. Visita de Juzgados
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 55.
 
@@ -803,9 +945,7 @@ El Supremo Tribunal de Justicia formulará anualmente una lista de connotados pr
 
 En caso de que en la localidad no existan profesionales en la materia de que se trate, se estará a lo que disponga el Código Procesal de la materia.
 
-### CAPITULO VI. De las Renuncias, Licencias y Manera de Suplir las Faltas
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+### CAPITULO V. De los Procedimientos para Imponer Correcciones Disciplinarias
 
 ###### ARTICULO 57.
 
@@ -817,7 +957,9 @@ La visita general tendrá por objeto percatarse del despacho general de los nego
 
 Las visitas de que trate el artículo anterior serán presididas por el Magistrado Visitador, el acta respectiva la firmarán además el Juez y el Secretario del Juzgado en que se practique la visita.
 
-### CAPITULO I. Del Archivo Judicial
+### CAPITULO VI. De las Renuncias, Licencias y Manera de Suplir las Faltas
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 59.
 
@@ -849,7 +991,7 @@ La sentencia será dictada por el pleno del Supremo Tribunal de Justicia.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 2 DE ABRIL DE 1995)</small>
 
-### CAPITULO II. De las Excitativas de Justicia
+### CAPITULO I. Del Archivo Judicial
 
 ###### ARTICULO 64.
 
@@ -897,7 +1039,7 @@ Las faltas absolutas, temporales o accidentales del Secretario del Supremo Tribu
 
 Las faltas de los demás servidores públicos de la administración de justicia, cuando excedan de quince días serán suplidas por la persona que se nombre.
 
-### CAPITULO III. Del Fondo para la Administración de Justicia
+### CAPITULO II. De las Excitativas de Justicia
 
 ###### ARTICULO 73.
 
@@ -945,15 +1087,15 @@ Los documentos que obren en expedientes o actuaciones archivadas sólo podrán d
 
 Los reglamentos del Supremo Tribunal de Justicia, del Tribunal Electoral y de los Juzgados de Primera Instancia y Menores Mixtos, respectivamente, determinarán la forma en que deba establecerse la oficina de archivo judicial y detallarán los deberes del personal que tenga a su cargo dicha oficina.
 
-### CAPITULO IV. Del Departamento de Computación e Informática
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 1997)</small>
+### CAPITULO III. Del Fondo para la Administración de Justicia
 
 ###### ARTICULO 81.
 
 Toda excitativa de justicia se promoverá por escrito ante la autoridad que haya hecho el nombramiento de aquélla contra quien se solicite, y se despachará o denegará previo informe justificado de ésta última con audiencia del Ministerio Público. Aquélla para rendir su informe y ésta para formular su pedimento, tendrá respectivamente el término de tres días, y de igual término gozará la autoridad que haya de resolver.
 
-### CAPITULO V. Disposiciones Generales
+### CAPITULO IV. Del Departamento de Computación e Informática
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 1997)</small>
 
 ###### ARTICULO 82.
 
@@ -993,9 +1135,7 @@ d).- La capacitación, mejoramiento y especialización profesional del personal 
 
 La Secretaría de Finanzas informará mensualmente al Presidente del Supremo Tribunal de Justicia el estado contable del fondo, que se integra con los depósitos en dinero o en valores que se efectúen ante los tribunales judiciales del fuero común.
 
-### CAPITULO VI. Del Consejo de la Judicatura Estatal
-
-> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 1995)</small>
+### CAPITULO V. Disposiciones Generales
 
 ###### ARTICULO 85.
 
@@ -1017,7 +1157,7 @@ e).- El registro computarizado y la informática de todas aquellas actividades d
 
 Para una mejor eficiencia del servicio de computación e informática, el Presidente del Supremo Tribunal de Justicia, autorizará el establecimiento de las oficinas que fueren necesarias, dependientes del departamento de computación e informática, tanto en la capital del Estado como en los Partidos Judiciales que se requieran, de acuerdo con las posibilidades presupuestales, determinando en su caso, los lugares en donde técnicamente sea conveniente establecerlos según las necesidades del servicio y el volumen de trabajo.
 
-### CAPITULO VII. Del Instituto de Capacitación del Poder Judicial del Estado
+### CAPITULO VI. Del Consejo de la Judicatura Estatal
 
 > <small>(ADICIONADO, P.O. 2 DE ABRIL DE 1995)</small>
 
@@ -1053,7 +1193,7 @@ Cuando el exceso de labores lo requiera, el Tribunal para evitar demoras en la a
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE ABRIL DE 1995)</small>
 
-### CAPITULO VIII. De la Contraloría Interna del Poder Judicial del Estado
+### CAPITULO VII. Del Instituto de Capacitación del Poder Judicial del Estado
 
 > <small>(ADICIONADO, P.O. 2 DE ABRIL DE 1995)</small>
 
@@ -1098,6 +1238,10 @@ VIII.- Conocer las denuncias que formulen los miembros del Consejo de la Judicat
 IX.- Las demás facultades que le confiera la Constitución Política del Estado, esta Ley y su reglamento.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE ABRIL DE 1995)</small>
+
+### CAPITULO VIII. De la Contraloría Interna del Poder Judicial del Estado
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 96.
 
@@ -1278,3 +1422,25 @@ PRIMERO.- El presente Decreto entrará en vigor a los tres meses de su publicaci
 SEGUNDO.- Los procesos que sean iniciados ante los Juzgados Penales y Mixtos de Primera Instancia, antes de la entrada en vigor de la presente reforma, continuarán su trámite hasta su conclusión en los juzgados que previnieron en su conocimiento.
 
 TERCERO.- En los municipios en que no exista Juzgado Menor Mixto, la competencia para conocer de los asuntos a que se refiere la fracción II del artículo 53, que se reforma, corresponderá a los de Primera Instancia del Partido Judicial respectivo.
+
+P.O. 26 DE DICIEMBRE DE 2005.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigencia al día siguiente de su publicación.
+
+###### ARTICULO SEGUNDO.
+
+Los actuales Magistrados que integran el Tribunal de lo Contencioso Administrativo, concluirán en su encargo el 4 de enero del dos mil seis, en términos de lo previsto por el Decreto 77 expedido por la LVII Legislatura del Estado, con relación al Artículo 5º de la Ley Orgánica del Tribunal de lo Contencioso Administrativo que se abroga. El proceso de entrega recepción de los Magistrados salientes, se realizará en los términos y condiciones que dicte el Consejo de la Judicatura del Estado.
+
+###### ARTICULO TERCERO.
+
+Los recursos humanos y materiales del actual Tribunal de lo Contencioso Administrativo quedarán a cargo del Consejo de la Judicatura del Estado, así como la administración de los recursos asignados al Tribunal de lo Contencioso Administrativo.
+
+###### ARTICULO CUARTO.
+
+El Consejo de la Judicatura dentro de los cuarenta y cinco días siguientes a la entrada en vigor de este Decreto deberá expedir el Reglamento Interno del Tribunal de lo Contencioso Administrativo.
+
+###### ARTICULO QUINTO.
+
+Hasta en tanto el Congreso del Estado no designe al Magistrado del Tribunal de lo Contencioso Administrativo del Estado de Aguascalientes, éste suspenderá sus funciones a partir del día cuatro de enero del 2006. Los juicios tramitados ante el Tribunal se suspenderán en sus términos hasta la designación del nuevo Magistrado que será el competente para conocer y resolver de los mismos.
