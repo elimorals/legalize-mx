@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-desarrollo-forestal-sustentable-28605"
 country: "mx"
 rank: "ley_general"
 publication_date: "2003-02-25"
-last_updated: "2003-02-25"
+last_updated: "2005-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28605&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGDFS"
 
 LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE DICIEMBRE DE 2005.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación el martes 25 de febrero de 2003.
 
@@ -916,7 +916,11 @@ V. El Registro Forestal Nacional;
 
 VI. Las Normas Oficiales Mexicanas en materia Forestal, y el
 
-VII. Sistema Nacional de Gestión Forestal.
+VII. Sistema Nacional de Gestión Forestal
+
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
+
+VIII. Estudio Satelital anual, del Índice de Cobertura Forestal; (sic)
 
 En el diseño, elaboración, aplicación, evaluación y seguimiento de los instrumentos de política forestal, se deberán observar los objetivos y criterios de política forestal y demás disposiciones previstas en esta Ley.
 
@@ -1138,7 +1142,13 @@ La Secretaría integrará el Sistema Nacional de Gestión Forestal, partiendo de
 
 Con base en el Sistema Nacional de Información Forestal, la Secretaría deberá elaborar, publicar y difundir un informe bianual sobre la situación del sector forestal, así como las medidas que se adoptarán para revertir los procesos de degradación de los recursos forestales, rezagos y avances de los componentes ambientales, sociales y económicos, con la información que para tal efecto proporcionen la Comisión y otras dependencias o entidades.
 
-#### Sección 1.. Del Aprovechamiento de los Recursos Forestales Maderables
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
+
+#### Sección Octava: (sic). Del Estudio Satelital Anual del Índice de Cobertura Forestal
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
+
+ARTICULO 57 BIS. Las imágenes resultantes del Estudio Satelital Anual del Índice de Cobertura Forestal, deben de incluirse en el sistema de información ambiental, mismo que apoyará a la Secretaría y a la Comisión para el correcto cumplimiento de las funciones descritas en el Capítulo II de los instrumentos de la Política Nacional en materia Forestal además de darse a conocer por medios electrónicos, donde será publicada y actualizada.
 
 ## TITULO CUARTO. DEL MANEJO Y APROVECHAMIENTO SUSTENTABLE DE LOS RECURSOS FORESTALES
 
@@ -1316,7 +1326,7 @@ La Secretaría, en coordinación con las dependencias y entidades de la Administ
 
 ### CAPITULO II.. Del Aprovechamiento y Uso de los Recursos Forestales
 
-#### Sección 2.. De las Plantaciones Forestales Comerciales
+#### Sección 1.. Del Aprovechamiento de los Recursos Forestales Maderables
 
 ###### ARTICULO 73.
 
@@ -1420,7 +1430,7 @@ En el caso de que la Secretaría no hubiera emitido resolución en los plazos pr
 
 La Secretaría instrumentará un mecanismo para la autorización automática de solicitudes de aprovechamientos a titulares cuyo historial de aprovechamientos previos haya resultado sin observaciones, siendo sujetos éstos de auditoría y verificación posterior, en todos los casos, en los términos establecidos para los efectos en el Reglamento.
 
-#### Sección 3.. Del Aprovechamiento de los Recursos Forestales No Maderables
+#### Sección 2.. De las Plantaciones Forestales Comerciales
 
 ###### ARTICULO 85.
 
@@ -1502,7 +1512,7 @@ Cuando el cultivo de una plantación forestal comercial se integre o pretenda in
 
 El manejo de la plantación forestal comercial deberá estar a cargo de los titulares de la plantación. En el caso de que éste decida contratar a un prestador de servicios técnicos forestales, dicho prestador será responsable solidario con el titular.
 
-#### Sección 4.. De la Colecta y Uso de los Recursos Forestales
+#### Sección 3.. Del Aprovechamiento de los Recursos Forestales No Maderables
 
 ###### ARTICULO 97.
 
@@ -1522,7 +1532,7 @@ Solamente se podrá autorizar el aprovechamiento de recursos no maderables en ri
 
 No se otorgarán autorizaciones si el aprovechamiento pudiera poner en riesgo las poblaciones respectivas y las funciones ambientales de los ecosistemas, incluyendo suelo, agua y paisaje. En el Reglamento y en las normas oficiales mexicanas que al efecto se expidan, se establecerán los criterios, indicadores y medidas correspondientes.
 
-#### Sección 1.. De los Servicios Técnicos Forestales
+#### Sección 4.. De la Colecta y Uso de los Recursos Forestales
 
 ###### ARTICULO 101.
 
@@ -1562,7 +1572,7 @@ El aprovechamiento de los recursos forestales, para usos domésticos y colecta p
 
 ### CAPITULO III.. Del Manejo Forestal Sustentable y Corresponsable
 
-#### Sección 2.. De las Unidades de Manejo Forestal
+#### Sección 1.. De los Servicios Técnicos Forestales
 
 ###### ARTICULO 107.
 
@@ -1612,7 +1622,7 @@ Tratándose de ejidos y comunidades agrarias, el comité u órgano se constituir
 
 La Comisión desarrollará un programa dirigido a fomentar un sistema de capacitación, reconocimientos, estímulos y acreditación que permita identificar, tanto a titulares de aprovechamiento como a prestadores de servicios técnicos forestales, que cumplan oportunamente y eficientemente los compromisos adquiridos en los programas de manejo y en las auditorías técnicas preventivas.
 
-#### Sección 3.. De las Auditorías Técnicas Preventivas
+#### Sección 2.. De las Unidades de Manejo Forestal
 
 ###### ARTICULO 112.
 
@@ -1640,7 +1650,7 @@ VIII. La presentación de los informes periódicos de avances en la ejecución d
 
 IX. Distribuir equitativamente entre los integrantes los costos o gastos adicionales de manejo.
 
-#### Sección 4.. De la Certificación Forestal
+#### Sección 3.. De las Auditorías Técnicas Preventivas
 
 ###### ARTICULO 113.
 
@@ -1650,7 +1660,7 @@ La Comisión, como resultado de la auditoría técnica preventiva podrá emitir 
 
 El Reglamento establecerá los requisitos que deban reunir los auditores técnicos, que acrediten la formación técnica o profesional, y la experiencia necesaria.
 
-#### Sección 1.. De los Incentivos Económicos
+#### Sección 4.. De la Certificación Forestal
 
 ###### ARTICULO 114.
 
@@ -1848,7 +1858,7 @@ Los jueces podrán calcular el monto a pagar por concepto de pago por daños oca
 
 ### CAPITULO I.. De los Instrumentos Económicos del Fomento Forestal
 
-#### Sección 2.. Del Fondo Forestal Mexicano
+#### Sección 1.. De los Incentivos Económicos
 
 ###### ARTICULO 137.
 
@@ -1923,6 +1933,8 @@ La Comisión deberá promover y difundir a nivel nacional, regional o local, seg
 Dentro de los incentivos económicos se podrá crear un bono que acredite la conservación del recurso forestal por el Fondo Forestal Mexicano de acuerdo a la disponibilidad de recursos, a fin de retribuir a los propietarios o poseedores de terrenos forestales por los bienes y servicios ambientales generados.
 
 El reglamento respectivo determinará los procedimientos de emisión y asignación de estos bonos, los cuales tendrán el carácter de títulos de crédito nominativos y, por lo tanto, adquirirán alguna de las formas que establece la Ley General de Títulos y Operaciones de Crédito.
+
+#### Sección 2.. Del Fondo Forestal Mexicano
 
 ###### ARTICULO 142.
 
@@ -2339,3 +2351,9 @@ DECIMO PRIMERO.- La Secretaría establecerá los mecanismos de evaluación y for
 México, D.F., a 13 de diciembre de 2002.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen. Lydia Madero García, Secretario.- Dip. Adela Cerezo Bautista, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiún días del mes de febrero de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 26 DE DICIEMBRE DE 2005.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
