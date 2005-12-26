@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-responsabilidades-administrativas-de-los-23592"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2002-03-13"
-last_updated: "2004-12-31"
+last_updated: "2005-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23592&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-03-12"
 
 LEY FEDERAL DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PUBLICOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE DICIEMBRE DE 2005.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 13 de marzo de 2002.
 
@@ -71,7 +71,9 @@ I.- Las Cámaras de Senadores y Diputados del Congreso de la Unión;
 
 II.- La Suprema Corte de Justicia de la Nación y el Consejo de la Judicatura Federal;
 
-III.- La Secretaría de Contraloría y Desarrollo Administrativo;
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
+
+III.- La Secretaría de la Función Pública;
 
 IV.- El Tribunal Federal de Justicia Fiscal y Administrativa;
 
@@ -97,7 +99,9 @@ Para los efectos de esta Ley se entenderá por:
 
 Ley: A la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
 
-Secretaría: A la Secretaría de Contraloría y Desarrollo Administrativo.
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
+
+Secretaría: A la Secretaría de la Función Pública.
 
 Contralorías internas: A los órganos internos de control de las dependencias y entidades de la Administración Pública Federal, así como de la Procuraduría General de la República.
 
@@ -640,3 +644,7 @@ D.O.F. 31 DE DICIEMBRE DE 2004.
 PRIMERO.- La presente Ley entrará en vigor el 1o. de enero del año 2005.
 
 SEGUNDO.- Los asuntos que se encuentren en trámite en los entes públicos federales, relacionados con la indemnización a los particulares derivada de las faltas administrativas en que hubieren incurrido los servidores públicos, se atenderán hasta su total terminación de acuerdo con las disposiciones aplicables a la fecha en que inició el procedimiento administrativo correspondiente.
+
+D.O.F. 26 DE DICIEMBRE DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
