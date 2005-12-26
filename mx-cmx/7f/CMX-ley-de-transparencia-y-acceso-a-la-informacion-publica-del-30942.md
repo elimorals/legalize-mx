@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-3094
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-08"
-last_updated: "2005-10-28"
+last_updated: "2005-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30942&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-24"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE DICIEMBRE DE 2005.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 8 de mayo de 2003.
 
@@ -1248,13 +1248,9 @@ La cuenta pública del Instituto será revisada por la Contaduría Mayor de Haci
 
 PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
-SEGUNDO.- La designación de los miembros del Consejo de Información, deberá tener lugar dentro de los 60 días naturales siguientes a la entrada en vigor de la presente Ley.
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2005)</small>
 
-Para lo anterior, los titulares de los órganos Ejecutivo, Legislativo, Judicial y Autónomos por Ley, deberán tomar las mediadas necesarias para dar cumplimiento al contenido del párrafo anterior.
-
-Para la designación de los tres consejeros que provendrán de la sociedad civil, la Comisión de Administración Pública Local de la Asamblea Legislativa del Distrito Federal emitirá la convocatoria con la debida anticipación a efecto de hacer dicha designación.
-
-Una vez integrado el Consejo en términos de esta Ley, podrá iniciar sus funciones, salvo las disposiciones transitorias que la misma establece.
+SEGUNDO.- La designación de los cinco Comisionados Ciudadanos, así como del Presidente del Instituto de Acceso a la Información Pública del Distrito Federal, deberá tener lugar a más tardar el treinta y uno de enero del año dos mil seis, de conformidad con las bases que al efecto emita la Comisión de Administración Pública Local, de la Asamblea Legislativa del Distrito Federal, III Legislatura.
 
 TERCERO.- Las personas podrán ejercer los derechos de acceso a la información pública y de protección de datos personales, sesenta días después de la integración del Consejo de Información Pública del Distrito Federal.
 
@@ -1327,3 +1323,9 @@ El Instituto implementará el formato electrónico para recibir y atender los re
 UNDÉCIMO.- Se derogan aquellas disposiciones que se opongan al contenido de la presente Ley.
 
 DUODÉCIMO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 26 DE DICIEMBRE DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
