@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-civil-del-estado-de-jalisco-10544"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-25"
-last_updated: "2004-06-24"
+last_updated: "2005-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2005.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -226,6 +226,10 @@ XIV. Las demás que establezcan las leyes.
 ###### Artículo 22.
 
 Los oficiales del Registro Civil serán suplidos en sus faltas temporales por quien determine el oficial jefe o presidente municipal; y a falta de designación de ellos, por quien designe la Dirección General del Registro Civil; cuando esto no fuere posible suplirá dichas faltas el presidente municipal.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+Artículo 22 bis.- Las autoridades municipales deberán pagar horas extras a los Oficiales del Registro Civil que atiendan asuntos inherentes a sus funciones fuera de su horario de conformidad a lo que disponga el presupuesto de egresos y la normatividad estatal y municipal correspondiente.
 
 ### CAPITULO IV. De los procedimientos
 
@@ -1258,3 +1262,7 @@ P.O. 24 DE JUNIO DE 2004.
 DECRETO NO. 20519, QUE REFORMA DIVERSOS ARTICULOS DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO.
 
 ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 27 DE DICIEMBRE DE 2005.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
