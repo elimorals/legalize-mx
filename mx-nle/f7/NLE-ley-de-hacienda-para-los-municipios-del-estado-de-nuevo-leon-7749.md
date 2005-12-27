@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-para-los-municipios-del-estado-de-nuevo-leon-77
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2004-12-30"
+last_updated: "2005-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -431,9 +431,9 @@ Cuando el predio se encuentre edificado con diversos departamentos sujetos al r�
 
 La tasa del impuesto, cuando se trate del primer avalúo del predio, se aplicará a partir del bimestre siguiente a la fecha en que ocurrió el hecho o circunstancia que dió lugar a la práctica del avalúo conforme a las disposiciones de este Capítulo y de la Ley del Catastro.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
-En los casos de modificación del valor catastral, la tasa se aplicará a partir del bimestre siguiente a la fecha en que ocurra el hecho o circunstancia que motive la modificación.
+En los casos de modificación del valor catastral de un predio, el impuesto predial se determinará sobre el nuevo valor catastral que resulte, el cual se aplicará a partir del bimestre siguiente a la fecha en que ocurra el hecho o circunstancia que motive la modificación. En caso de que resulte un incremento del impuesto, el contribuyente deberá pagar la diferencia de impuesto que resulte, aún y cuando se hubiere realizado el pago por anualidad, con el valor anterior. Si la modificación al valor catastral conlleva un decremento en el impuesto, la Tesorería Municipal deberá devolver al contribuyente las cantidades pagadas en exceso, desde la fecha en que se dieron los hechos que motivaron la reducción en el valor catastral.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -609,6 +609,24 @@ El pago anticipado del Impuesto Predial no impide el cobro de diferencias que de
 
 Cuando se hayan establecido bases provisionales para determinar el monto del impuesto, al aplicar la base definitiva se cobrarán o compensarán las diferencias que resulten.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+###### ARTICULO 21 Bis
+
+12-A. Las personas físicas mayores de 70 años de edad podrán optar por pagar el impuesto predial correspondiente a su vivienda, hasta el momento en que se transmita la propiedad del inmueble, siempre y cuando no tengan en propiedad o posesión otro inmueble en el Estado, y sus ingresos mensuales no excedan de 4 cuotas elevadas al mes.
+
+Para estos efectos, el impuesto se actualizará en los términos previstos por el Código Fiscal del Estado, desde la fecha de pago que hubiera correspondido de no haber ejercido la opción, hasta la fecha en que se transmita la propiedad del inmueble.
+
+Para tener derecho al beneficio previsto en este artículo, los interesados deberán presentar ante la Tesorería Municipal que corresponda, una solicitud debidamente firmada, en la que manifiesten su deseo de ejercer esta opción, acreditando que el inmueble de que se trate se utiliza exclusivamente como vivienda del contribuyente y, en su caso, de su familia, y que no tiene en propiedad o posesión otro inmueble ubicado en el Estado. En el caso de personas casadas, ambos cónyuges deberán acreditar no tener en propiedad o posesión otro inmueble en el Estado.
+
+Los contribuyentes que ejerzan la opción prevista en este artículo podrán en cualquier tiempo solicitar su cancelación, a través de un escrito presentado ante la Tesorería Municipal, caso en el cual se procederá al cobro del impuesto adeudado, debidamente actualizado.
+
+El impuesto predial deberá pagarse ante la Tesorería Municipal correspondiente, previamente a la protocolización del documento en el que conste la transmisión de dominio de la vivienda y, en caso de que la operación no esté sujeta a esta formalidad o no se cumpla con ella, el impuesto deberá pagarse previamente a la inscripción en el Registro Público de la Propiedad del documento en donde conste la transmisión del inmueble.
+
+En caso de que la Tesorería Municipal advierta que los contribuyentes no cumplieron o dejaron de cumplir con cualquiera de los requisitos que sirvieron de base para su concesión, previa audiencia al interesado, en la que se le concederá un plazo de 15 días hábiles para aportar pruebas y expresar alegatos, procederá a la cancelación de los beneficios otorgados y se iniciará el procedimiento para el cobro íntegro del impuesto actualizado, con sus respectivos recargos, sanciones y demás accesorios.
+
+Los servidores públicos adscritos a las tesorerías municipales brindarán a los contribuyentes la debida orientación y facilidades para poder acceder a estos beneficios.
+
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 21 Bis 13.
@@ -721,11 +739,11 @@ Los sujetos del impuesto están obligados a manifestar a la Secretaría de Finan
 
 ### CAPITULO I BIS (SIC). IMPUESTO SOBRE ADQUISICION DE INMUEBLES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 28 Bis.
 
-Están obligados al pago del Impuesto Sobre Adquisición de Inmuebles, las personas físicas o morales que adquieran inmuebles que consistan en el suelo y las construcciones adheridas a él, ubicados en el territorio del Estado, así como los derechos relacionados con los mismos, a que este Impuesto se refiere. Salvo lo dispuesto en el artículo siguiente, el impuesto se calculará aplicando la tasa del 2% al valor gravable del inmueble.
+Están obligados al pago del Impuesto Sobre Adquisición de Inmuebles, las personas físicas o morales que adquieran inmuebles que consistan solo el suelo, o en el suelo con construcciones o instalaciones adheridas a él, ubicados en el territorio del Estado, así como los derechos relacionados con los mismos, a que este impuesto se refiere. El impuesto se calculará aplicando la tasa del 2% al valor gravable del inmueble.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
@@ -765,11 +783,7 @@ IV.- En las adquisiciones realizadas por partidos y asociaciones políticas, par
 
 V.- En las adquisiciones que hagan las Juntas de Mejoramiento Moral, Cívico y Material, previa autorización del Ayuntamiento respectivo.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-VI.- En las adquisiciones que realicen los trabajadores al servicio de la Federación, Estado o Municipio, independientemente que estén o no sindicalizados, siempre y cuando el inmueble objeto del impuesto vaya a destinarse o se destine a vivienda y no sea propietario o poseedor de otro bien inmueble en el Estado. En los casos de trabajadores casados bajo el régimen de sociedad conyugal, la tarifa especial también operará al 100%.
-
-En estos casos cubrirán la tarifa referida, en las adquisiciones de terrenos cuyo valor base del Impuesto sea inferior a 7,500 cuotas y en casos de vivienda hasta de 15,000 cuotas, en caso contrario por el valor excedente será cubierto conforme a lo dispuesto por el artículo 28 BIS.
+VI.- (DEROGADA, P.O. 27 DE DICIEMBRE DE 2005)
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -891,9 +905,9 @@ I.- Para efectos de este impuesto, se utilizará el salario mínimo general de l
 
 El Valor Catastral que se utilice para la determinación de este impuesto, será el vigente al momento en que se protocolice la escritura, y en los casos en que no se requiera o no se cumpla esta formalidad, se aplicará el que esté vigente al momento en que se pague el impuesto. Cuando se trate de las operaciones a que se refieren las fracciones II, III y IV, del Artículo 28 bis-2 se aplicará el factor de actualización a que se refiere el Artículo 18 bis del Código Fiscal del Estado para referenciar el Valor Catastral a la fecha de firma del contrato, para tales efectos el Valor Catastral vigente se dividirá entre el factor de actualización mencionado y el resultado será el Valor Catastral vigente a la fecha de firma del contrato. Dicho valor referenciado servirá para determinar el valor gravable del inmueble, al cual se le aplicará la tasa vigente en aquella fecha, debiendo generarse los recargos y demás accesorios en los términos legales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
-II.- Cuando con motivo de la adquisición, el adquirente asuma la obligación de pagar una o más deudas o de perdonarlas, el importe de ellas se considerará parte del precio pactado. En el valor de operación se deberán incluir las demás cantidades que se cobren o carguen al adquirente o reciba el enajenante por cualquier otro concepto relacionado con el inmueble.
+II.- Cuando con motivo de la adquisición, el adquiriente asuma la obligación de pagar una o más deudas o de perdonarlas, el importe de ellas se considerará parte del valor de operación pactado. En el valor de operación se deberán incluir las demás cantidades que se cobren o carguen al adquiriente o reciba el enajenante por cualquier otro concepto relacionado con la adquisición del inmueble.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -901,9 +915,13 @@ Cuando no exista valor de operación, el impuesto se calculará con base en el v
 
 Para los fines del Impuesto Sobre Adquisición de Inmuebles, se considera que el usufructo y la nuda propiedad tienen un valor, cada uno de ellos, del 50% del valor de la propiedad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
-III.- En las adquisiciones que se hagan constar en escrituras públicas, actas fuera de protocolo o cualquier otro instrumento o contrato en que intervengan, los notarios, jueces, corredores y demás fedatarios que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad, haciendo constar en la escritura o documento el procedimiento para su cálculo y lo declararán y enterarán mediante la formulación de una nota oficial, conforme al modelo autorizado. Si el impuesto es cubierto directamente por el contribuyente, el fedatario hará constar tal circunstancia en la escritura del documento en que intervenga, antes de proceder a autorizar dicho instrumento. En el documento que se presente para su inscripción en el Registro Público de la Propiedad y del Comercio, los fedatarios insertarán los datos del recibo oficial o declaración de pago del impuesto correspondiente.
+Cuando el valor de operación se pacte en moneda extranjera, el tipo de cambio se determinará al que se indique en el contrato privado o la escritura pública correspondiente, o en su defecto, de acuerdo al que rija el día de firma del contrato, en su caso el día de firma de la escritura, conforme al que se publicó por el Banco de México, en el Diario Oficial de la Federación.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+III. En las adquisiciones que se hagan constar en escrituras públicas, actas fuera de protocolo o cualquier otro instrumento o contrato en que intervengan los notarios, jueces corredores y demás fedatarios que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad, haciendo constar en la escritura o documento el procedimiento para su cálculo y lo declararán y enterarán mediante la formulación de una nota oficial, conforme al modelo autorizado; la nota declaratoria deberá estar firmada por el fedatario conjuntamente con el contribuyente, debiendo señalarse domicilio común para el efecto de oír y recibir notificaciones en el Municipio donde se ubique el inmueble adquirido. Si se omite el señalamiento del domicilio para recibir notificaciones en los términos señalados en este párrafo, la Tesorería Municipal podrá notificar por estrados las resoluciones respectivas. Si el impuesto es cubierto directamente por el contribuyente, el fedatario hará constar tal circunstancia en la escritura del documento en que intervenga, antes de proceder a autorizar dicho instrumento. En el documento que se presente para su inscripción en el Registro Público de la Propiedad y del Comercio, los fedatarios insertarán los datos del recibo oficial o declaración de pago del impuesto correspondiente.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
@@ -991,8 +1009,6 @@ IV.- En los casos no previstos en las fracciones anteriores, dentro del mes sigu
 
 La autoridad fiscal municipal por sí no podrá modificar el valor catastral; sin perjuicio de los demás derechos de fiscalización que aquélla conserva.
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 26 DE DICIEMBRE DE 2001)</small>
-
 El impuesto se cubrirá en efectivo o mediante cheque certificado ante las oficinas receptoras de las Tesorerías Municipales donde se ubique el bien materia del impuesto o en las instituciones bancarias autorizadas por el Municipio correspondiente, localizadas en la circunscripción territorial del propio Municipio de que se trate. Cuando el pago se efectúe extemporáneamente, no podrá enterarse en instituciones bancarias.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
@@ -1014,6 +1030,10 @@ El documento donde conste la adquisición del inmueble de que se trate será ins
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 El plazo de diez días señalado con anterioridad, más un plazo adicional de cinco días hábiles, no serán tomados en cuenta para efectos del cálculo de los recargos que se causen respecto del impuesto declarado en la nota oficial. Lo dispuesto en este párrafo no será aplicable al impuesto no declarado por el contribuyente.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+La Nota Declaratoria del Impuesto Sobre Adquisición de Inmuebles no se admitirá cuando se advierta cualquier irregularidad en ella o el impuesto, la actualización y demás accesorios no estén determinados correctamente.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
@@ -3039,11 +3059,13 @@ Las cédulas de empadronamiento no serán transferibles, ni aún en los casos de
 
 (DEROGADO, P.O. 27 DE DICIEMBRE DE 1996)
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 81.
 
-Todas las personas que realicen alguna de las actividades previstas en esta Ley, tienen la obligación de empadronarse y refrendar cada año su empadronamiento dentro del plazo que señale el Tesorero Municipal.
+Todas las personas físicas o morales que realicen alguna de las actividades previstas en esta Ley, tienen la obligación de empadronarse y refrendar cada año su empadronamiento.
+
+El trámite de refrendo debe efectuarse anualmente, dentro de los meses de enero a marzo de cada año, pagando previamente los derechos respectivos.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -3584,3 +3606,7 @@ Artículo Único.- El presente Decreto entrará en vigor el 1° de enero del añ
 P.O. 30 DE DICIEMBRE DE 2004.
 
 Artículo Único.- El presente Decreto entrará en vigor el 1º de Enero del año 2005.
+
+P.O. 27 DE DICIEMBRE DE 2005.
+
+Artículo Único.- El presente Decreto entrará en vigor el 1º de Enero del año 2006.
