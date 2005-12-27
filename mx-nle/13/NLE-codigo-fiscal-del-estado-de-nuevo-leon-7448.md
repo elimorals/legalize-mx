@@ -4,7 +4,7 @@ identifier: "NLE-codigo-fiscal-del-estado-de-nuevo-leon-7448"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-11-30"
-last_updated: "2003-12-26"
+last_updated: "2005-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO FISCAL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2005.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de noviembre de 1984.
 
@@ -1283,9 +1283,7 @@ II.- No pagar contribuciones dentro del plazo que establecen las disposiciones f
 
 III.- Incumplir las disposiciones fiscales relativas a la obligación de terceros de cerciorarse del pago de contribuciones o del cumplimiento de las diversas obligaciones por parte de los contribuyentes.
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
-
-IV.- Utilizar las placas autorizadas o emitidas por la Secretaría de Finanzas y Tesorería General del Estado, para amparar la circulación de vehículos distintos a los que realmente correspondan. Comete la misma infracción quien facilite las placas que le fueron expedidas legalmente, para que un tercero las utilice en un vehículo que no corresponda.
+IV.- (DEROGADA, P.O. 27 DE DICIEMBRE DE 2005)
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -1329,9 +1327,7 @@ II.- Tratándose de la señalada en la fracción II, la que resulte mayor entre 
 
 III.- Para la señalada en la fracción III, del 50% al 100% de las contribuciones omitidas, por cada una de ellas.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
-
-IV.- De 50 a 500 cuotas, tratándose de la infracción señalada en la fracción IV del artículo anterior y se recogerán las placas correspondientes.
+IV.- (DEROGADA, P.O. 27 DE DICIEMBRE DE 2005)
 
 La sanción prevista en este párrafo se aumentará en un 50% en caso de que el infractor sea servidor público al servicio de la Federación, del Estado o del Municipio y en un 100% en caso de que se trate de un vehículo que no acredite su legal estancia en el país.
 
@@ -1799,7 +1795,9 @@ La resolución expresará con claridad los actos que se modifiquen y si la modif
 
 La resolución que ponga fin al recurso podrá:
 
-I.- Desecharlo por improcedente.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+I.- Desecharlo por improcedente, tenerlo por no interpuesto o sobreseerlo, en su caso.
 
 II.- Confirmar el acto impugnado.
 
@@ -2852,3 +2850,9 @@ Artículo Único.- El presente Decreto entrará en vigor el día 1° de Enero de
 P.O. 26 DE DICIEMBRE DE 2003.
 
 Artículo Único.- El presente Decreto entrará en vigor el 1° de enero del año 2004.
+
+P.O. 27 DE DICIEMBRE DE 2005.
+
+Artículo Primero.- El presente Decreto entrará en vigor el 1º de enero del año 2006.
+
+Artículo Segundo.- Los procedimientos promovidos con anterioridad al inicio de la vigencia del presente Decreto se regirán por la legislación que se encontraba en vigor a la fecha de su promoción.
