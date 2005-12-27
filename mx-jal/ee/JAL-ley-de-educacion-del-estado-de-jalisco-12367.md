@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2005-11-12"
+last_updated: "2005-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACION DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2005.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -105,7 +105,7 @@ V.- Infundir el conocimiento y la práctica de la democracia como forma de gobie
 
 > <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2005)</small>
 
-VI.- Promover el valor de la justicia, de la observancia de la ley y de la igualdad de derechos entres (sic) las personas;
+VI. Promover el valor de la justicia, de la observancia de la ley y de la igualdad de derechos entres (sic) las personas;
 
 VII.- Impulsar el estudio, conservación y protección del medio físico y el aprovechamiento racional de los recursos naturales, para la solución de los problemas económicos, sociales y culturales del Estado;
 
@@ -1263,13 +1263,17 @@ Los padres o tutores de los menores de 18 años que no hayan cursado la educaci�
 
 Los padres o tutores de los menores de 18 años con necesidades de educación especial, están obligados a inscribirlos en planteles que presten servicios de este tipo.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 128.
 
 En cada plantel en el que se impartan servicios educativos del nivel básico podrá formarse la asociación de padres de familia, a la cual libremente podrán integrarse los padres de familia, tutores o quienes ejerzan la patria potestad de los educandos.
 
-El Ejecutivo del Estado, por conducto de la Secretaría de Educación, alentará la formación de asociaciones de padres de familia, así como la renovación periódica y democrática de sus mesas directivas.
+El Ejecutivo del Estado, por conducto de la Secretaría de Educación, deberá promover y coadyuvar la formación de asociaciones de padres de familia, así como la renovación periódica y democrática de sus mesas directivas.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+ARTICULO 128 bis.- Además de lo establecido en el Reglamento de Asociaciones de Padres de Familia, quienes ejerzan algún cargo en la mesa directiva dentro de las escuelas de nivel básico, no podrán ser propuestos para integrarse, con igual representación, para el periodo inmediato; siendo la Secretaría la encargada de vigilar el cumplimiento de esta disposición.
 
 ###### ARTICULO 129.
 
@@ -1760,3 +1764,7 @@ P.O. 30 DE AGOSTO DE 2005.
 P.O. 12 DE NOVIEMBRE DE 2005.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 27 DE DICIEMBRE DE 2005.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
