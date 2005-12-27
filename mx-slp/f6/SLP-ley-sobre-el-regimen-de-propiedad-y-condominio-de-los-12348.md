@@ -4,7 +4,7 @@ identifier: "SLP-ley-sobre-el-regimen-de-propiedad-y-condominio-de-los-12348"
 country: "mx"
 rank: "ley"
 publication_date: "1966-02-03"
-last_updated: "1966-02-03"
+last_updated: "2005-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12348&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY SOBRE EL REGIMEN DE PROPIEDAD Y CONDOMINIO DE LOS EDIFICIOS DIVIDIDOS EN PISOS, DEPARTAMENTOS, VIVIENDAS O LOCALES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY SOBRE EL REGIMEN DE LA PROPIEDAD EN CONDOMINIO DEL ESTADO DE SAN LUIS POTOSI, PUBLICADA EN LA EDICION EXTRAORDINARIA DEL P.O. DE 27 DE DICIEMBRE DE 2005, EL PRESENTE ORDENAMIENTO FUE ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de San Luis Potosí, el 3 de febrero de 1966.
 
@@ -340,3 +342,13 @@ MANUEL LOPEZ DAVILA
 El Srio. Gral. de Gobierno.
 
 LIC. AGAPITO ALVISO FLORES
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE DICIEMBRE DE 2005.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley sobre el Régimen de Propiedad y Condominio de los Edificios Divididos en Pisos, Departamentos, Viviendas o Locales publicada en el Periódico Oficial del Estado el 3 de febrero de 1966, bajo el Decreto Legislativo No. 232; y se derogan todas las disposiciones que se opongan a lo dispuesto en esta Ley.
+
+TERCERO.- La Secretaría de Desarrollo Urbano, vivienda y Obras Públicas, tendrá un plazo de ciento veinte días para expedir el formato de reglamento de condominios que establece la presente Ley; y deberá remitirlo a los ayuntamientos del Estado a fin de que éstos lo hagan llegar a los representantes de condominios, para la elaboración de su reglamento.
