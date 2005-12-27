@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2005-11-17"
+last_updated: "2005-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2005.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -1677,7 +1677,15 @@ III. Las que se convoquen por algún asunto urgente, a consideración de la Mesa
 
 ###### Artículo 132.
 
-1. Son sesiones solemnes aquellas que determine la Asamblea para la conmemoración de aniversarios históricos y aquellas en que concurran representaciones de otros poderes del Estado, de la Federación o de personalidades distinguidas de otros países.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+1. Son sesiones solemnes aquellas que determine la Asamblea para la conmemoración de aniversarios históricos, así como aquellas en que así lo acuerde la Asamblea cuando:
+
+a. Concurran representaciones de otros poderes del Estado, de la Federación o de otras Entidades Federativas;
+
+b. Concurran personalidades distinguidas; y
+
+c. Se reconozca a personas físicas o jurídicas en los términos de la Ley que establece las bases para el otorgamiento de premios y condecoraciones en el Estado de Jalisco.
 
 2. En estas sesiones siempre debe hacer uso de la palabra, en representación del Congreso del Estado, alguno o algunos de los diputados.
 
@@ -2620,3 +2628,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 17 DE NOVIEMBRE DE 2005.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 27 DE DICIEMBRE DE 2005.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
