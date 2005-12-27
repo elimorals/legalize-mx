@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "2005-10-05"
+last_updated: "2005-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -823,11 +823,9 @@ Cuando en el lugar donde se inició un juicio o un procedimiento en jurisdicció
 
 > <small>(REFORMADO, P.O. 2 DE MARZO DE 1981)</small>
 
-ArtÍculo 101.- Si el Juez deja de conocer por recusación o excusa, la substitución operará de acuerdo a lo previsto en la Ley Orgánica del Poder Judicial.
+###### Artículo 101.
 
-###### ARTICULO 101.
-
-Para la validez de las sentencias y de los autos que no sean de mero trámite, dictados por un tribunal colegiado se requerirá, cuando menos, el voto de la mayoría de sus miembros.
+Si el Juez deja de conocer por recusación o excusa, la substitución operará de acuerdo a lo previsto en la Ley Orgánica del Poder Judicial.
 
 ###### Artículo 102.
 
@@ -969,7 +967,7 @@ En las contiendas sobre propiedad o posesión de un inmueble, la competencia se 
 
 ###### Artículo 114.
 
-De las cuestiones sobre estado o capacidad de las personas, sea cual fuere el interés pecuniario que de ellas dimanare conocerán los jueces de primera instancia, con excepcion de lo dispuesto por el artículo 957 de éste Código.
+De las cuestiones sobre estado o capacidad de las personas, sea cual fuere el interés pecuniario que de ellas dimanare conocerán los jueces de primera instancia, con excepción de lo dispuesto por el artículo 957 de éste Código.
 
 ###### Artículo 115.
 
@@ -1579,9 +1577,9 @@ Una vez radicada la solicitud, el juez se trasladará al domicilio del menor o i
 
 En la misma diligencia el juez escuchará a las personas citadas en el párrafo anterior y decretará, en su caso, el depósito del menor o incapaz en el lugar más conveniente, para lo cual podrá tomar en consideración la declaración de los menores mayores de siete años.
 
-> <small>(ADICIONADO, P.O. 3 DE ENERO DEL 2000)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
-Artículo 180 Bis VIII.- Cuando una persona, sin el consentimiento de quien conjuntamente ejerce con ella la patria potestad o tutela sobre un menor o incapaz, lo desplaza del control de quien tenga materialmente la custodia el juez, a petición del Ministerio Público o de institución pública dedicada a la atención de asuntos relacionados con la violencia familiar, podrá ordenar que el menor o incapaz sea cautelarmente depositado en el domicilio de un familiar o en una institución idónea, en apego al procedimiento establecido en el artículo anterior.
+Artículo 180 Bis VIII.- Cuando una persona sin el consentimiento de quien conjuntamente ejerce con ella la Patria Potestad o tutela sobre un menor o incapaz, lo desplaza del control de quien tenga materialmente la custodia o la patria potestad, el Juez a solicitud del Ministerio Público, de parte interesada o de institución pública dedicada a la atención de asuntos relacionados con la violencia familiar en éstos últimos casos oyendo el parecer del Ministerio Público, podrá ordenar que el menor o incapaz sea cautelarmente depositado en el domicilio de un familiar, o en una institución idónea, en apego al procedimiento establecido en el artículo anterior.
 
 > <small>(ADICIONADO, P.O. 3 DE ENERO DEL 2000)</small>
 
@@ -5283,7 +5281,7 @@ La sentencia en que se denieguen los alimentos será apelable en ambos efectos, 
 
 En este juicio no se admitirá ninguna discusión sobre el derecho a percibir alimentos. Cualquiera reclamación en este sentido deberá intentarse en juicio ordinario.
 
-( REFORMADO, P.O. 21 DE JULIO DE 1997)
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
 ###### ARTÍCULO 731.
 
@@ -6303,7 +6301,7 @@ VI.- Recibida la denuncia del intestado se radicará el juicio y se declararán 
 
 > <small>(F. DE E., P.O.19 DE DICIEMBRE DE 1983)</small>
 
-VII.- Transcurrido dicho plazo, se presenten o nó otros interesados, el Juez pronunciará la resolución definitiva, en la que declare como herederos a quienes hayan justificado su derecho a la herencia conforme a las disposiciones establecidas en el Código Civil;
+VII.- Transcurrido dicho plazo, se presenten o no otros interesados, el Juez pronunciará la resolución definitiva, en la que declare como herederos a quienes hayan justificado su derecho a la herencia conforme a las disposiciones establecidas en el Código Civil;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 1997)</small>
 
@@ -6617,11 +6615,11 @@ I.- Mientras no se pronuncie sentencia irrevocable la tutela interina debe limit
 
 Si ocurriere urgente necesidad de otros actos el tutor interino podrá obrar prudentemente previa autorización judicial;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2004)</small>
+(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE DICIEMBRE DE 2005) (F. DE E., P.O. 20 DE ENERO DE 2006)
 
-II.- El estado de demencia puede probarse con testigos o documentos, pero en todo caso se requiere la certificación de tres médicos cuando menos, que hayan realizado un examen físico para verificar el estado de demencia, retraso mental moderado, grave o profundo, alguna otra enfermedad o trastorno mental cuya gravedad impida un adecuado funcionamiento de sus facultades;
+II.- El estado de demencia puede probarse con testigos o documentos, pero en todo caso se requiere la certificación de tres médicos cuando menos, que hayan realizado un examen físico para verificar el estado de demencia, retraso mental moderado, grave o profundo, alguna otra enfermedad o trastorno mental cuya gravedad impida un adecuado funcionamiento de sus facultades.
 
-El tutor puede nombrar un médico para que tome parte en la audiencia y se oiga su dictamen;
+Para el caso de interdicción de las personas con discapacidad que presenten síndrome down, ésta también podrá certificarse, mediante la exhibición en la solicitud de un examen cariotipo para demostrar la existencia del trisomía veintiuno, o cualquier otro medio científico, que pueda determinarlo, expedido por cualquier institución médica de la entidad, certificada para realizar este tipo de pruebas por la Secretaría de Salud del Estado;
 
 III.- Si la sentencia de primera instancia fuere declaratoria de estado, proveerá el juez aunque fuere apelada, o antes si hubiere necesidad urgente, a la patria potestad o tutela de las personas que estuvieren bajo la guarda del presunto incapacitado y a nombrar curador que vigile los actos del tutor interino en la administración de los bienes y cuidados de la persona;
 
@@ -7137,7 +7135,9 @@ Los síndicos de los concursos sólo pueden comprometer en árbitros por mayorí
 
 Los Secretarios de Despacho podrán sujetar al arbitraje los negocios a su cargo, con autorización del Ejecutivo del Estado.
 
-Los Ayuntamientos podrán sujetar al arbitraje los negocios a su cargo con autorización del Congreso del Estado.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+Los municipios podrán sujetar al arbitraje los negocios a su cargo que la legislación permita, previa autorización del Ayuntamiento.
 
 Puede comprometerse en árbitros la responsabilidad civil que resulte de delito.
 
@@ -7809,15 +7809,15 @@ P.O. 24 DE AGOSTO DE 1977.
 
 PRIMERO.- Las presentes reformas entrarán en vigor el día primero de diciembre del presente año.
 
-SEGUNDO.- Para la distribución de los negocios de orden familiar, actualmente en trámite en los juzgados 1º. , 2º. , 3º. Y 5º. Del ramo civil de la primera fracción judicial en el Estado, se procederá del modo siguiente:
+SEGUNDO.- Para la distribución de los negocios de orden familiar, actualmente en trámite en los juzgados 1º., 2º., 3º. y 5º. Del ramo civil de la primera fracción judicial en el Estado, se procederá del modo siguiente:
 
 a).- Cada juzgado formulará el inventario de los citados asuntos.
 
-b).- Una vez obtenido el número total de dichos asuntos en los cuatro juzgados indicados, los negocios se turnarán a los juzgados 4º. , 6º. Y 7º., Guardando en ello la mayor parte y mejor proporción en número a fin de evitar notables diferenciales que entorpecieran el rápido desenvolvimiento de los negocios que a cada uno corresponda.
+b).- Una vez obtenido el número total de dichos asuntos en los cuatro juzgados indicados, los negocios se turnarán a los juzgados 4º., 6º. y 7º., Guardando en ello la mayor parte y mejor proporción en número a fin de evitar notables diferenciales que entorpecieran el rápido desenvolvimiento de los negocios que a cada uno corresponda.
 
 c).- El inventario y distribución a que se alude en los incisos anteriores, que serán vigilados y controlados por el Presidente del Tribunal Superior de Justicia con el auxilio del resto de los Magistrados deberán quedar concluidos ambos en un plazo que no exceda de 15 días hábiles, a contar de la fecha en que entran en vigor las presentes reformas.
 
-TERCERO.- Los negocios que no sean del orden familiar, actualmente en trámite en el juzgado 4º. del ramo civil se inventariarán en la forma y en el término a que se refiere el artículo anterior, aplicable en lo conducente para que dichos negocios se turnen en igual proporción a los juzgados 1º. , 2º. 3. y 5º.
+TERCERO.- Los negocios que no sean del orden familiar, actualmente en trámite en el juzgado 4º. del ramo civil se inventariarán en la forma y en el término a que se refiere el artículo anterior, aplicable en lo conducente para que dichos negocios se turnen en igual proporción a los juzgados 1º., 2º. 3. y 5º.
 
 CUARTO.- Los términos que estén concedidos y transcurriendo en los asuntos citados en los artículos 2º. Y 3º. Transitorios, quedarán interrumpidos desde que se inicien los quince días del inventario y distribución, reanudándose al siguiente día hábil de aquel en que cause estado el auto de recepción del negocio que dicte el nuevo juez del conocimiento.
 
@@ -8062,3 +8062,11 @@ Artículo Tercero.- Las disposiciones de carácter general que se prevén en est
 P.O. 5 DE OCTUBRE DE 2005.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE DICIEMBRE DE 2005.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Los procesos que se encuentren vigentes a la entrada en vigor del presente decreto se regirán por la ley vigente al inicio de los mismos, sin perjuicio de los beneficios que la legislación penal otorga.
+
+Artículo Tercero.- Los hechos ocurridos con anterioridad a la entrada en vigor del presente decreto se regirán con la ley vigente al momento de ocurrir los mismos.
