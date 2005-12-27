@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-justicia-administrativa-para-el-estado-y-municipios-1063
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-21"
-last_updated: "2004-07-14"
+last_updated: "2005-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 21 de febrero de 1997.
 
@@ -37,7 +37,7 @@ NUM. 383
 
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE NUEVO LEON
 
-## TITULO PRIMERO. DE LA JUSTICIA ADMINISTRATIVA
+## TÍTULO PRIMERO. DE LA JUSTICIA ADMINISTRATIVA
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -304,6 +304,22 @@ I.- Notificar en tiempo y forma, los acuerdos y las resoluciones recaídas en lo
 II.- Practicar las diligencias que les encomiende la Sala y levantar las actas respectivas; y
 
 III.- Las demás que le atribuyan las disposiciones legales, o disponga el Presidente del Tribunal.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 23 Bis.
+
+En el Tribunal de lo Contencioso Administrativo habrá una Dirección de Orientación y Consulta Ciudadana que tendrá como atribuciones proporcionar información sobre los medios de defensa administrativos y cuyo Titular será nombrado por el Pleno del Tribunal, cumplidos los requisitos que éste último determine mediante acuerdo, contará con el personal de acuerdo al presupuesto autorizado.
+
+Ésta Dirección tendrá las siguientes atribuciones:
+
+I. Orientar sobre los medios de defensa administrativos.
+
+II. Fungir como enlace entre los ciudadanos, y la autoridad administrativa que corresponda, procurando la solución al conflicto administrativo planteado. Al efecto, dicha Dirección podrá gestionar lo precedente, en tanto ello no implique intervención en el procedimiento contencioso, y no se afecten derechos de terceros, y
+
+III. Las demás que le atribuya esta Ley, el Reglamento Interior del Tribunal de lo Contencioso Administrativo o le encomiende el Pleno del Tribunal.
+
+Este servicio será prestado de acuerdo con los lineamientos que establezca el Pleno.
 
 ###### Artículo 24.
 
@@ -1008,3 +1024,9 @@ P.O. 14 DE JULIO DE 2004.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Las autoridades responsables de los Tribunales del Poder Judicial y del Poder Ejecutivo expedirán los lineamientos mediante los cuales, sin contravenir las disposiciones legales, se facilitará a las personas que lo soliciten el acceso a la información que obre en su poder.
+
+P.O. 27 DE DICIEMBRE DE 2005.
+
+Artículo Primero.- Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- El Tribunal de lo Contencioso Administrativo conforme a su presupuesto y con cargo a él, ejercerá las acciones que resulten necesarias para la asignación del personal y presupuesto para el funcionamiento de la Dirección de Orientación y Consulta Ciudadana.
