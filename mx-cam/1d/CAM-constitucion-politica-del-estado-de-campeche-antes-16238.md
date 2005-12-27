@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2001-11-05"
+last_updated: "2005-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2001.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 5 DE NOVIEMBRE DE 2001.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2005.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -49,11 +47,11 @@ CONSTITUCION POLITICA DEL ESTADO DE CAMPECHE
 
 El Estado de Campeche es parte integrante de la Federación constituída por los Estados Unidos Mexicanos.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 27 DE MAYO DE 1983)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 2.
 
-La porción del territorio nacional que corresponda al Estado, es la que ha sido reconocida en la Constitución Política de los Estados Unidos Mexicanos, en los Convenios y en los Decretos relativos, así como la zona marítima económica exclusiva, colindante con el territorio del Estado, sobre la cual ejerce su soberanía la Nación Mexicana.
+La porción del Territorio Nacional que corresponde al Estado, es la que ha sido reconocida en la Constitución Política de los Estados Unidos Mexicanos, en los Convenios y en los Decretos relativos.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -97,9 +95,9 @@ Además de lo que la Constitución Política de los Estados Unidos Mexicanos pre
 
 Son habitantes del Estado todas las personas que radiquen en su territorio.
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 1996)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
-El Estado de Campeche reconoce expresamente, en términos del artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos, que el país tiene una composición pluricultural, sustentada en la diversidad de pueblos indígenas que se encuentran asentados y conviven en su territorio, del cual forma parte el propio Estado.
+El Estado de Campeche reconoce expresamente, en términos del artículo 2° de la Constitución Política de los Estados Unidos Mexicanos, que el país tiene una composición pluricultural, sustentada en la diversidad de pueblos indígenas que se encuentran asentados y conviven en su territorio, del cual forma parte el propio Estado.
 
 > <small>(ADICIONADO, P.O. 6 DE JULIO DE 1996)</small>
 
@@ -433,7 +431,7 @@ a). Para obtener el registro de sus listas de candidatos a diputados de represen
 
 > <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1999)</small>
 
-b). Todo partido político que alcance por lo menos el tres por ciento del total de la votación emitida en la circunscripción plurinominal, tendrá derecho a que le sean atribuidos diputados, según el principio de representación proporcional;
+b) Todo partido político que alcance por lo menos el tres por ciento del total de la votación emitida en la circunscripción plurinominal, tendrá derecho a que le sean atribuidos diputados, según el principio de representación proporcional;
 
 c). Al partido político que cumpla con lo dispuesto por las dos bases anteriores, independiente y adicionalmente a las constancias de mayoría relativa que hubiesen obtenido sus candidatos, le serán asignados por el principio de representación proporcional, de acuerdo con su votación estatal emitida, el número de diputados de su lista que le corresponda en la circunscripción plurinominal. En la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes;
 
@@ -741,6 +739,10 @@ XVIII.- Constituírse en Colegio Electoral y elegir al ciudadano que deba sustit
 
 XIX.- Expedir la ley que regule la estructura y funcionamiento del organismo estatal de protección de los derechos humanos, el cual tendrá autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios;
 
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+XIX Bis.- Expedir la ley que asegure el ejercicio y respeto del derecho de acceso a la información pública y garantice la transparencia en los actos y decisiones de las dependencias y entidades que conforman la Administración Pública Estatal, centralizada y paraestatal; los órganos de los Poderes Legislativo y Judicial; los organismos públicos autónomos y los Ayuntamientos y sus órganos administrativos auxiliares y paramunicipales; y que regule la integración de la estructura y el funcionamiento del organismo estatal encargado de promover y difundir el ejercicio de ese derecho, de resolver sobre la negativa a las solicitudes de información pública y de proteger los datos personales en poder de aquéllos; organismo estatal que estará investido de autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios;
+
 XX.- Resolver los problemas políticos intermunicipales y los que se susciten entre el Poder Ejecutivo y los Ayuntamientos;
 
 > <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2001)</small>
@@ -771,9 +773,13 @@ XXVIII.- Autorizar al Gobernador para enajenar o gravar los bienes del Estado o 
 
 XXIX.- Reclamar ante la Suprema Corte de Justicia de la Nación, cuando alguna ley o acto del Gobierno Federal constituya violación alguna a la soberanía del Estado o a la Constitución General de la República;
 
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 1992)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXX.- Citar a los titulares de las dependencias y entidades de la Administración Pública Estatal centralizada y descentralizada, para que informen cuando se estudie y discuta una Ley o asunto relativo a su dependencia, entidad o cargo;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+XXX.- Citar por conducto del Gobernador o del Pleno del H. Tribunal Superior de Justicia del Estado, a los titulares de las dependencias y entidades de la administración pública estatal, centralizada y descentralizada, a los Magistrados y a los demás miembros y servidores públicos del Poder Judicial, respectivamente, para que informen cuando se estudie y discuta una ley o asunto relativo a su dependencia, entidad, cargo o comisión.
+
+Cuando se trate de iniciativas de los ayuntamientos o se discutan asuntos de su competencia, podrá solicitar al presidente municipal, que concurra él u otro integrante del ayuntamiento para responder a los cuestionamientos que se les formulen;
 
 > <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
@@ -789,7 +795,7 @@ XXXIII.- Nombrar un Concejo Municipal cuando debiendo renovarse un Ayuntamiento 
 
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 1983)</small>
 
-XXXIV.- Por acuerdo de las dos terceras partes, suspender ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna causa grave prevista por la Ley, siempre y cuando sus miembros hayan tenido oportunidad para rendir las pruebas y hacer los alegatos que a su juicio convengan;
+XXXIV.- Por acuerdo de las dos terceras partes, suspender ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna causa grave prevista por la Ley, siempre y cuando sus miembros hayan tenido oportunidad para rendir las pruebas y hacer los alegatos que a su juicio convengan.
 
 > <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
@@ -961,7 +967,7 @@ El Gobernador al tomar posesión de su cargo, prestará ante el Congreso del Est
 
 El Gobernador del Estado no podrá ausentarse del territorio del mismo sin permiso del Congreso si estuviere reunido, o en su caso de la Diputación Permanente, a menos que la ausencia no exceda de sesenta días; en tal caso, se estará a lo dispuesto por el segundo párrafo del artículo 67.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MARZO DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MARZO DE 1997)</small>
 
 ###### ARTICULO 71.
 
@@ -1125,7 +1131,7 @@ La función de consejero jurídico del Gobernador estará a cargo de la dependen
 
 ### CAPITULO XVII. De las Responsabilidades de los Servidores Públicos
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2000)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO XVIII. De los Municipios del Estado
 
@@ -1381,7 +1387,7 @@ X.- Crear nuevas salas, y ampliar o suprimir las ya existentes, en términos de 
 
 ###### ARTICULO 89.
 
-Para los efectos de las responsabilidades a que alude este capítulo, se reputa como servidores públicos a los miembros de los Poderes Legislativo y Judicial del Estado, a los miembros de las dependencias y entidades de la Administración Pública del Estado, a los integrantes de los Ayuntamientos y Juntas Municipales, a los Comisarios Municipales, a los miembros del Instituto Electoral del Estado, a los miembros de la Comisión de Derechos Humanos del Estado y en general a toda persona que desempeñe un empleo, cargo o comisión de cualquiera naturaleza, bien sea de elección o de nombramiento, en los gobiernos estatal y municipales, o en entidades paraestatales o paramunicipales. Los servidores públicos serán responsables de los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+Para los efectos de las responsabilidades a que alude este capítulo, se reputa como servidores públicos a los miembros de los Poderes Legislativo y Judicial del Estado, a los miembros de las dependencias y entidades de la Administración Pública del Estado, a los integrantes de los Ayuntamientos y Juntas Municipales, a los Comisarios Municipales, a los miembros de los Organismos Públicos Autónomos Estatales y en general a toda persona que desempeñe un empleo, cargo o comisión de cualquiera naturaleza , bien sea de elección o de nombramiento, en los gobiernos estatal y municipales, o en entidades paraestatales o paramunicipales. Los servidores públicos serán responsables de los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
@@ -1389,11 +1395,11 @@ Para los efectos de las responsabilidades a que alude este capítulo, se reputa 
 
 El Gobernador del Estado durante el tiempo de su encargo, sólo podrá ser acusado por los delitos de traición a la patria, violaciones a la Constitución Federal y del Estado y a las leyes que de ambas emanen, ataque a la libertad electoral, delitos graves del orden común, y manejo indebido de fondos y recursos federales, o estatales.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2000)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 91.
 
-Para proceder penalmente contra los Diputados, los Magistrados del Tribunal Superior, Jueces de Primera Instancia, Electorales y Menores, Secretarios de las Dependencias de la Administración Pública del Estado, Procurador General de Justicia, Auditor Superior del Estado, Consejero Presidente y Consejeros Electorales del Consejo General del Instituto Electoral del Estado, Presidente de la Comisión de Derechos Humanos del Estado, Presidentes, Regidores y Síndicos de Ayuntamientos y Juntas Municipales, y Comisarios Municipales, por la comisión de delitos durante el tiempo de su encargo, se requerirá que el Congreso del Estado, por mayoría absoluta de sus miembros presentes en sesión, declare si ha o no lugar a proceder contra el inculpado. En caso negativo quedarán reservadas las acciones para cuando el servidor público cese en sus funciones, para lo cual quedará interrumpido el término prescriptorio. En caso afirmativo quedará el inculpado separado de su cargo y sujeto a la acción de los tribunales comunes.
+Para proceder penalmente contra los Diputados, Magistrados del Tribunal Superior, Jueces de Primera Instancia, Electorales y Menores, Secretarios de las Dependencias de la Administración Pública del Estado, Procurador General de Justicia, Auditor Superior del Estado, Consejero Presidente y Consejeros Electorales del Consejo General del Instituto Electoral del Estado, Presidente de la Comisión de Derechos Humanos del Estado, Comisionado Presidente y demás Comisiones integrantes de la Comisión de Transparencia y Acceso a la Información Pública del Estado , Presidentes, Regidores y Síndicos de Ayuntamientos y Juntas Municipales, y Comisarios Municipales, por la comisión de delitos durante el tiempo de su encargo, se requerirá que el Congreso del Estado, por mayoría absoluta de sus miembros presentes en sesión, declare si ha o no lugar a proceder contra el inculpado. En caso negativo quedarán reservadas las acciones para cuando el servidor público cese en sus funciones, para lo cual quedará interrumpido el término prescriptorio. En caso afirmativo quedará el inculpado separado de su cargo y sujeto a la acción de los tribunales comunes.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 1996)</small>
 
@@ -1691,7 +1697,7 @@ Los funcionarios rendirán la protesta ante quien corresponda en la siguiente fo
 
 ###### ARTICULO 119.
 
-Todos los servidores públicos del Estado y de los Municipios, de elección popular y por nombramiento, percibirán una remuneración adecuada e irrenunciable por sus servicios, la cual no podrá ser disminuida durante el tiempo de su encargo y tendrán derecho a disfrutar de los beneficios de seguridad y servicios sociales que señala la ley de la materia.
+Todos los servidores públicos del Estado y de los Municipios, de elección popular y por nombramiento percibirán, una remuneración adecuada e irrenunciable por sus servicios, la cual no podrá ser disminuida durante el tiempo de su encargo y tendrán derecho a disfrutar de los beneficios de seguridad y servicios sociales que señala la ley de la materia.
 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -2186,3 +2192,33 @@ Unico.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 16 DE OCTUBRE DE 2001.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE DICIEMBRE DE 2005.
+
+DECRETO NUMERO 241
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE DICIEMBRE DE 2005.
+
+DECRETO NUMERO 242
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 27 DE DICIEMBRE DE 2005.
+
+DECRETO NUMERO 243
+
+Primero.- El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan al contenido del presente decreto.
+
+P.O. 27 DE DICIEMBRE DE 2005.
+
+DECRETO NUMERO 244
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
