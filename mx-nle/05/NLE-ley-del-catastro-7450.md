@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-catastro-7450"
 country: "mx"
 rank: "ley"
 publication_date: "1964-01-18"
-last_updated: "2003-12-26"
+last_updated: "2005-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL CATASTRO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 18 de enero de 1964.
 
@@ -63,23 +63,21 @@ b).- Las Juntas Municipales Catastrales;
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
 
-c).- Las Cámaras de Comercio, de Industria y Propietarios de Bienes Raíces; y
+c).- Las Cámaras de Comercio, de Industria y Propietarios de Bienes Raíces; y (sic)
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
-d).- Las Personas o Instituciones Privadas cuya colaboración se requiera.
+d).- El Instituto y Colegio Mexicano de Valuación de Nuevo León, A.C.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
-
-d).- El Instituto Mexicano de Valuación de Nuevo León, A. C.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1987) (F. DE E., 20 DE ENERO DE 2006)
 
 e).- Las personas o instituciones privadas cuya colaboración se requiera.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 3o.
 
-(DEROGADO P.O. 28 DE DICIEMBRE DE 1974)
+En los trámites catastrales a que se refiere esta Ley se podrán utilizar medios electrónicos o de cualquier otra tecnología, siempre que la información generada o comunicada a través de dichos medios, sea atribuible a las personas obligadas, y accesible para su ulterior consulta, en los términos de las disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -113,7 +111,9 @@ El Presidente de la Junta Municipal Catastral tendrá el carácter de Representa
 
 La Junta Municipal Catastral se encargará de emitir opinión sobre los estudios de valores unitarios del suelo y construcciones realizados o contratados por el Municipio que el Ayuntamiento propondrá al Congreso para su aprobación.
 
-En los Municipios en que no esté integrada la Junta Catastral Municipal, la opinión podrá ser solicitada a la Junta Central Catastral.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+En los Municipios en que no se esté integrada la Junta Catastral Municipal, la opinión deberá ser solicitada por la Tesorería Municipal correspondiente, a la Junta Central Catastral.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
@@ -161,17 +161,17 @@ La valorización catastral se hará considerando separadamente el suelo y las co
 
 En las zonas urbanas, la unidad de superficie que se tome para el avalúo de la tierra será el metro cuadrado.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 15o.
 
-La unidad de avalúo que se tome en consideración en las Tablas de valores aplicables a construcciones será por metro cuadrado o metro cúbico.
+La unidad de avalúo que se tome en consideración en las Tablas de valores unitarios aplicables a construcciones será por metro cuadrado o, en su caso, por metro cúbico cuando se trate de recipientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
-###### Artículo 16o.
+###### ARTICULO 16o.
 
-En las zonas rústicas, la unidad de superficie será, en todo caso, por hectárea o por metro cuadrado cuando por su ubicación colinde con la traza de una carretera estatal o federal.
+En las zonas rústicas, la unidad de superficie que se tome para el avalúo de la tierra será por hectárea o por metro cuadrado.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2001)</small>
 
@@ -335,21 +335,21 @@ MAYOR DE 319.50 Y HASTA 342.90 0.36
 
 MAYOR DE 342.90 Y HASTA 372.85 0.35
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
-Los coeficientes de demérito de valor por profundidad no serán aplicables cuando la unidad de valuación sea por hectárea.
+Los coeficientes de demérito por profundidad serán aplicables a los predios urbanos, y en el caso de predios rústicos sólo será aplicable cuando colinden con la traza de una carretera estatal o federal, hasta una profundidad de 372.85 metros lineales.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 18o.
 
-El valor catastral que resulte de acuerdo con el artículo anterior, es el equiparable al valor de mercado para todos los efectos legales.
+Los valores unitarios del suelo y los valores unitarios de las construcciones que apruebe el Congreso del Estado, mediante el Decreto correspondiente, serán los equiparables al valor de mercado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 19o.
 
-Los contribuyentes podrán inconformarse con el valor del predio que resulte de acuerdo con el Artículo 17, dentro del plazo de 30 días hábiles, contados a partir del día siguiente de la publicación de los valores emitidos por el Congreso en el Periódico Oficial del Estado. Para este efecto, los particulares presentarán escrito ante la autoridad municipal competente, en el que manifiesten los motivos de su inconformidad, acompañando un avalúo del inmueble emitido por una institución de crédito debidamente autorizada o por una institución colegiada de valuación, debidamente constituida en la entidad, así como los demás elementos de prueba que consideren necesarios, debiendo remitirse el expediente debidamente integrado a la Junta Municipal Catastral que corresponda, la cual deberá resolver en un término no mayor de 15 días hábiles.
+Los contribuyentes podrán inconformarse en cualquier tiempo con el valor del predio que resulte de acuerdo con lo establecido en el artículo 17, mediante escrito que presenten ante la Tesorería Municipal, en el que manifiesten los motivos de su inconformidad, acompañando un avalúo del inmueble emitido por una institución de crédito debidamente autorizada o por una institución colegiada de valuación debidamente constituida en la Entidad, así como los demás elementos de prueba que consideren necesarios, debiendo remitirse el expediente debidamente integrado a la Junta Municipal Catastral que corresponda, la cual deberá resolver en un término no mayor de 15 días hábiles. La autoridad ante quien se presente el escrito de inconformidad procederá al estudio del documento, y si encuentra que existe un error en la determinación del valor catastral, procederá a la corrección y a la nueva determinación del valor catastral del inmueble; de no presentarse lo anterior, y si con el escrito el promovente no acompañó el avalúo o las pruebas ofrecidas, se procederá a prevenir al contribuyente para que presente el avalúo o las pruebas en un término de 15 días hábiles, contados a partir del día siguiente al en que surta efectos la notificación de la prevención. En caso de que el promovente no dé cumplimiento en forma adecuada a la prevención que se le haya formulado, se tendrán por no ofrecidas las pruebas respecto de las cuales haya sido omiso. Si el promovente omite presentar el avalúo del inmueble, se le tendrá por no presentado el escrito de inconformidad, salvo que la inconformidad verse sobre las características físicas del predio o sobre errores aritméticos. De no presentarse las anteriores circunstancias, se deberá enviar el expediente debidamente integrado a la Junta Municipal Catastral que corresponda, la cual podrá acordar diligencias para mejor proveer, incluyendo la de solicitar la opinión de otra institución colegiada de valuación y resolverá en un término de 15 días hábiles contados a partir de la fecha en que haya quedado debidamente integrado el expediente. En lo no previsto en este artículo, se aplicará supletoriamente lo establecido en los artículos 121, 122, 123, 123 BIS, 129 y 132 del Código Fiscal del Estado.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2001)</small>
 
@@ -367,6 +367,10 @@ En caso de que no estuviere integrada la Junta Municipal Catastral, será la Jun
 
 ARTICULO 19 BIS.- Cuando la Tesorería Municipal detecte valores de predios o de manzanas, que sean muy superiores en forma evidente al valor real del mercado, comparados con los demás predios de la misma manzana o con las demás manzanas, podrá solicitar a la Junta Municipal o en su caso, a la Junta Central Catastral, la revisión de los mismos mediante la presentación del estudio de valores que corresponda. Si derivado de lo anterior, la Junta Municipal aprueba un valor distinto inferior al autorizado, el mismo se aplicará provisionalmente para el cobro de los impuestos correspondientes, mientras se solicita la aprobación definitiva, por el Ayuntamiento, al Congreso del Estado.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+Tratándose de errores en la determinación del valor catastral, derivado de una indebida aplicación de los coeficientes de profundidad, de la tasa del Impuesto o de las áreas del suelo o la construcción y de la categoría o tipo de las construcciones, la autoridad recaudadora procederá de oficio o a petición de parte, a la corrección y a la nueva determinación del valor catastral del inmueble.
+
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 20o.
@@ -374,6 +378,10 @@ ARTICULO 19 BIS.- Cuando la Tesorería Municipal detecte valores de predios o de
 Los Ayuntamientos de los Municipios del Estado, en el ámbito de sus respectivas competencias, deberán formular la propuesta de valores unitarios del suelo y construcciones que someterán al Congreso del Estado.
 
 La referida propuesta de valores, deberá presentarse para consideración del Congreso a más tardar durante la segunda quincena del mes de octubre del año de que se trate. Los valores aprobados por el Congreso entrarán en vigor al inicio del ejercicio fiscal del siguiente año y su vigencia será indefinida.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+A falta de nueva propuesta de valores unitarios de suelo o de valores unitarios de construcción, se aplicará lo dispuesto por el último párrafo del artículo 21 BIS - 2 de la Ley de Hacienda para los Municipios del Estado de Nuevo León.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2001)</small>
 
@@ -884,3 +892,7 @@ Artículo Primero.- El presente Decreto entrará en vigor el día 1° de Enero d
 P.O. 26 DE DICIEMBRE DE 2003.
 
 Artículo Único.- El presente Decreto entrará en vigor el 1º de enero del año 2004.
+
+P.O. 27 DE DICIEMBRE DE 2005.
+
+Artículo Único.- El presente Decreto entrará en vigor el 1º de enero del año 2006.
