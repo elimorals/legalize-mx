@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-251-que-crea-el-sistema-estatal-de-coordinacion-1473
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-28"
-last_updated: "2003-12-23"
+last_updated: "2005-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14736&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUMERO 251 QUE CREA EL SISTEMA ESTATAL DE COORDINACION FISCAL Y ESTABLECE LAS BASES, MONTOS Y PLAZOS A LOS QUE SE SUJETARAN LAS PARTICIPACIONES FEDERALES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el miércoles 28 de diciembre de 1988.
 
@@ -91,55 +91,33 @@ IV.- 20% de los ingresos que perciba el Estado por concepto de participación de
 
 V.- 20% de los ingresos que correspondan al Estado derivado de participaciones en el Impuesto Federal Sobre Automóviles Nuevos.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 7o.
 
-Con las proporciones correspondientes al Fondo General de Participaciones, al Impuesto Federal sobre Tenencia o Uso de Vehículos, al Impuesto Especial Sobre la Producción y Servicios, así como del Impuesto Federal Sobre Automóviles Nuevos, se constituirá un fondo común.
+Con las proporciones correspondientes al Fondo General de Participaciones, al Impuesto Federal Sobre Tenencia o Uso de Vehículos, al Impuesto Especial sobre la Producción y Servicios, así como del Impuesto Federal Sobre Automóviles Nuevos, se constituirá un fondo común.
 
-El fondo común de participaciones a Municipios se distribuirá de la siguiente manera:
+El fondo común de participaciones a Municipios se distribuirá de acuerdo al grado de marginación a nivel localidad y a su población residente, de la siguiente manera:
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2001)</small>
+I.- El 33.134% para los Municipios con localidades de marginación "muy alta"
 
-a).- El 10% se asignará para garantizar a aquellos municipios que debido al cambio de fórmula, vean afectadas sus participaciones, reciban recursos financieros en términos nominales iguales a los del ejercicio fiscal inmediato anterior.
+II.- El 11.368% para los Municipios con localidades de marginación "alta"
 
-En caso de que hubiera un remanente, éste se distribuirá entre los municipios de acuerdo al grado de marginación a nivel localidad y a su población residente tal como se señala en las fracciones I, II, III, IV y V del inciso b) del presente artículo. Los montos asignados a los municipios por concepto de este porcentaje serán publicados en el Periódico Oficial del Gobierno del Estado y en un diario de circulación estatal, en forma trimestral.
+III.- El 11.957% para los Municipios con localidades de marginación "media"
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2001)</small>
+IV.- El 10.331% para los Municipios con localidades de marginación "baja"
 
-b).- El 90% restante se distribuirá de acuerdo al grado de marginación a nivel localidad y a su población residente, de la siguiente manera:
-
-I.- El 33.134% para los Municipios con localidades de marginación "muy alta".
-
-II.- El 11.368% para los Municipios con localidades de marginación "alta".
-
-III.- El 11.957% para los Municipios con localidades de marginación "media".
-
-IV.- El 10.331% para los Municipios con localidades de marginación "baja".
-
-V.- El 33.210% para los Municipios con localidades de marginación "muy baja".
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2001)</small>
+V.- El 33.210% para los Municipios con localidades de marginación "muy baja"
 
 La participación del Fondo Común para el iésimo municipio sería:
 
-PFCMi = (0.88 X FC) X [(PRLMmaMi
-
-/ PRLMmaE) X 0.33134 + (PRLMaMi
-
-/ PRLMaE) X 0. 11368 + (PRLMmMi
-
-/ PRLMmE) X 0.11957 + (PRLMbMi
-
-/ PRLMbE) X 0.10331 + (PRLMmbMi
-
-/ PRLMmbE) X 0.33210]
+PFCMi = (1.00 X FC) X [(PRLMmaMi / PRLMmaE) X 0.33134 + (PRLMaMi / PRLMaE) X 0.11368 + (PRLMmMi / PRLMmE) X 0.11957 + (PRLMbMi / PRLMbE) X 0.10331 + (PRLMmbMi / PRLMmbE) X 0.33210]
 
 Donde:
 
-PFCM = Participaciones del Fondo Común al iésimo municipio.
+PFCMi = Participaciones del Fondo Común al iésimo municipio.
 
-0.88 = Porcentaje a distribuir del Fondo Común.
+1.00 = Porcentaje a distribuir del Fondo Común.
 
 FC = Monto en pesos del Fondo Común.
 
@@ -197,6 +175,30 @@ FFM = Monto en pesos del Fondo de Fomento Municipal.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
+###### ARTICULO 8o.
+
+A.- Para efectuar el cálculo de la distribución de las participaciones, las fuentes de información de las variables será la siguiente:
+
+a).- El número de habitantes se tomará del Censo General de Población y Viviendas más reciente, publicando por el Instituto Nacional de Estadística, Geografía e Informática (INEGI).
+
+b).- El grado de marginación por localidad y su población residente, se tomará de la información más reciente que dé a conocer el Consejo Nacional de Población (CONAPO).
+
+c).- La recaudación de ingresos propios de los Municipios se tomará de los informes anuales de la Cuenta Pública que los Ayuntamientos presenten a la Contaduría Mayor de Hacienda del H. Congreso del Estado.
+
+Los factores de participación que conforme a las bases anteriores resulten, se revisarán y modificarán anualmente. En tanto que dichos factores no se actualicen se seguirán aplicando provisionalmente los que correspondan al año inmediato anterior.
+
+La Secretaría de Finanzas y Administración, una vez identificada la asignación mensual provisional que le corresponda a la Entidad de los fondos previstos en la Ley de Coordinación Fiscal Federal, determinará mensualmente la participación que le corresponda a cada Municipio.
+
+Las participaciones que correspondan a los Municipios del Fondo Común que se establece en esta Ley, estarán sujetas al resultado de la recaudación de los conceptos participables, así como, a la determinación provisional mensual y a los ajustes mensuales, cuatrimestrales y del ejercicio, que efectúe la Federación para el Estado.
+
+Si como resultado de los ajustes mensuales, cuatrimestrales y del ejercicio, surgieran diferencias a cargo de los Municipios en relación con los pagos provisionales, el Estado, retendrá el importe en exceso, en la liquidación provisional del mes siguiente.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+Así mismo, los Ayuntamientos estarán obligados a informar durante los primeros quince días de cada mes, las cifras mensuales de recaudación de Impuesto Predial y Derechos por el Servicio de Agua Potable a la Secretaría de Finanzas y Administración del Gobierno del Estado, para que, a su vez, ésta pueda remitir en tiempo y forma, el informe final a la Secretaría de Hacienda y Crédito público.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 8o.-A.
 
 Para efectuar el cálculo de la distribución de las participaciones, las fuentes de información de las variables será la siguiente:
@@ -219,13 +221,17 @@ Si como resultado de los ajustes mensuales, cuatrimestrales y del ejercicio, sur
 
 ###### ARTICULO 9o.
 
-El Gobierno del Estado, una vez que la Secretaría de Hacienda y Crédito Público, publique en el Diario Oficial de la Federación el calendario de entrega, porcentaje y montos estimados de las Participaciones Federales que le correspondan al Estado de Guerrero; éste, dentro de los quince días siguientes publicará en el Periódico Oficial del Gobierno del Estado, los criterios de distribución, fórmulas de cálculo, así como todos los datos utilizados para la aplicación de las fórmulas respectivas, coeficientes y montos estimados y calendarios de entrega de los recursos que correspondan a cada uno de los Municipios del Estado de Guerrero. La publicación podrá hacerla también, en uno de los diarios de mayor circulación en la Entidad
+El Gobierno del Estado, una vez que la Secretaría de Hacienda y Crédito Público publique en el Diario Oficial de la Federación el calendario de entrega, porcentaje y montos estimados de las Participaciones Federales que le correspondan al Estado de Guerrero, éste dentro de los quince días siguientes publicará en el Periódico Oficial del Gobierno del Estado, los criterios de distribución, fórmulas de cálculo, así como todos los datos utilizados para la aplicación de las fórmulas respectivas, coeficientes y montos estimados de cada fondo y calendarios de entrega de los recursos que correspondan a cada uno de los Municipios del Estado de Guerrero. La publicación, podrá hacerla también, en uno de los diarios de mayor circulación en la Entidad.
 
 Cuando el Gobierno del Estado entere a los Municipios las Participaciones, especificará el importe de distribución de cada uno de los fondos a los que se refiere este capítulo, publicándolos trimestralmente en el Periódico Oficial del Gobierno del Estado, pudiendo hacerlo también en uno de los diarios de mayor circulación en la Entidad.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 10o.
 
-Las participaciones serán entregadas a los Ayuntamientos por la Secretaría de Finanzas del Gobierno del Estado dentro de los cinco días siguientes a aquel en el que el Estado las reciba de la Secretaría de Hacienda y Crédito Público.
+Las participaciones serán entregadas a los Ayuntamientos por la Secretaría de Finanzas del Gobierno del Estado dentro de los cinco días siguientes a aquel en el que el Estado las reciba de la Secretaría de Hacienda y Crédito Público. Esta entrega podrá ser directa o a través de un fideicomiso para la distribución y fuente de pago de participaciones municipales, que al efecto se constituya.
+
+Estas participaciones en ningún caso podrán ser embargadas y sólo podrán afectarse como garantías para el pago de obligaciones contraídas por los Municipios, con la autorización del Congreso del Estado e inscritas en el Registro Único de Obligaciones y Empréstitos que lleva la Secretaría de Hacienda y Crédito Público, así como también en el Registro de Obligaciones y Empréstitos del Estado de Guerrero, a favor de la Federación o de Instituciones de Crédito que operen en el territorio nacional o a favor de personas físicas o morales de nacionalidad mexicana.
 
 ###### ARTICULO 11o.
 
@@ -245,9 +251,11 @@ I.- Reunión Estatal de Coordinación Fiscal, y
 
 II.- Comisión Permanente de Funcionarios Fiscales.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 13o.
 
-Los órganos del Sistema Estatal de Coordinación Fiscal, sólo podrán tomar acuerdos obligatorios para sus integrantes, cuando éstos hayan emitido su voto a favor de éstos.
+Los órganos del Sistema Estatal de Coordinación Fiscal sólo podrán tomar acuerdos mediante el procedimiento de votación establecido en su reglamento interior, en cuyo caso, serán de observancia obligatoria para sus integrantes.
 
 ###### ARTICULO 14o.
 
@@ -291,7 +299,9 @@ Para los efectos de esta Ley, las regiones fiscales se integrarán de la siguien
 
 I.- Región Centro:
 
-Chilpancingo de los Bravo, Tixtla de Guerrero, Chilapa de Alvarez, Leonardo Bravo, General Heliodoro Castillo, Eduardo Neri, Mártir de Cuilapan, Zitlala, Mochitlán, Quechultenango y Juan R. Escudero.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+Chilpancingo de los Bravo, Tixtla de Guerrero, Chilapa de Álvarez, Leonardo Bravo, General Heliodoro Castillo, Eduardo Neri, Mártir de Cuilapan, Zitlala, Mochitlán, Quechultenango, Juan R. Escudero y José Joaquín de Herrera.
 
 II.- Región Costa Grande:
 
@@ -299,7 +309,9 @@ José Azueta, Petatlán, Tecpan de Galeana, Atoyac de Alvarez, Benito Juárez, C
 
 III.- Región Costa Chica:
 
-Ometepec, San Marcos, Tecoanapa, Ayutla de los Libres, Florencio Villareal, Cuautepec, Copala, San Luis Acatlán, Azoyú, Igualapa, Tlacoachistlahuaca, Xochistlahuaca y Cuajinicuilapa.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+Ometepec, San Marcos, Tecoanapa, Ayutla de los Libres, Florencio Villareal, Cuautepec, Copala, San Luis Acatlán, Azoyú, Igualapa, Tlacoachistlahuaca, Xochistlahuaca, Cuajinicuilapa, Juchitán y Marquelia
 
 IV.- Región Acapulco:
 
@@ -315,7 +327,9 @@ Pungarabato, Coyuca de Catalán, Cutzamala de Pinzón, Tlalchapa, Arcelia, Tlape
 
 VII.- Región Montaña:
 
-Tlapa de Comonfort, Cualac, Olinalá, Atlixtac, Ahuacuotzingo, Xochihuehuetlán, Huamuxtitlán, Alpoyeca, Tlalixtaquilla de Maldonado, Alcozauca de Guerrero, Zapotitlán Tablas, Copanatoyac, Xalpatlahuac, Atlamajalcingo del Monte, Malinaltepec, Tlacoapa y Metlatónoc.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+Tlapa de Comonfort, Cualac, Olinalá, Atlixtac, Ahuacuotzingo, Xochihuehuetlán, Huamuxtitlán, Alpoyeca, Tlalixtaquilla de Maldonado, Alcozauca de Guerrero, Zapotitlán Tablas, Copanatoyac, Xalpatláhuac, Atlamajalcingo del Monte, Malinaltepec, Tlacoapa, Metlatónoc, Iliatenco y Cochoapa el Grande.
 
 ###### ARTICULO 21o.
 
@@ -331,7 +345,9 @@ La Comisión Permanente de Funcionarios Fiscales tendrá las siguientes facultad
 
 I.- Estudiar, con fines de su modernización, la legislación fiscal y hacendaria, así como las disposiciones administrativas tendientes a proveer a su cabal ejecución, así como la aplicación de las mismas;
 
-II.- Proponer medidas técnicas para fortalecer la Hacienda Pública Municipal y mejorar su organización y elevar la eficiencia de su funcionamiento;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+II.- Analizar y proponer, a través de grupos de trabajo, medidas técnicas para fortalecer la Hacienda Pública Municipal, mejorar su organización y elevar la eficiencia de su funcionamiento;
 
 III.- Estudiar los mecanismos y fórmulas de distribución de las participaciones municipales, para asegurar permanentemente la observancia de los criterios de equidad y proporcionalidad;
 
@@ -440,3 +456,13 @@ El presente Decreto entrará en vigor a partir del 1o. de enero del 2002.
 P.O. 23 DE DICIEMBRE DE 2003.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE DICIEMBRE DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del 1 de enero del año 2006.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
