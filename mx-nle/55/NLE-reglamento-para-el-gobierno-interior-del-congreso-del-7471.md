@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2005-08-17"
+last_updated: "2005-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2005.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -125,13 +125,23 @@ Esta declaración será materia de un Decreto que sin más trámite se expedirá
 
 Los Diputados asistirán a las reuniones de las Comisiones, de los Comités y a las sesiones del Pleno con puntualidad, permanecerán en ellas hasta su conclusión y guardarán el decoro propio de los representantes de un Estado Libre y Soberano.
 
-Cuando un Diputado no asista o se ausente de las reuniones de Comisión, de Comités o de las sesiones del Pleno del Congreso, o cuando asista con un retraso de más de treinta minutos del inicio de la sesión o de la reunión, le será descontada de su dieta el equivalente a su percepción diaria bruta por cada sesión o reunión a la que dejare de asistir, se ausente o asienta con retraso, con excepción de los casos establecidos en el Artículo 14 del presente Reglamento. El Presidente del congreso deberá proveer lo necesario para el cumplimiento de esta disposición.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2005)</small>
+Cuando un Diputado no asista o se ausente por más de treinta minutos de las reuniones de Comisión, de Comités o de las sesiones del Pleno del Congreso, o cuando asista con un retraso de más de treinta minutos del inicio de la sesión o reunión le será descontada su dieta o le será dejado de otorgar el equivalente a su percepción diaria bruta por cada sesión o reunión a la que deje de asistir, o la parte proporcional que corresponda por el tiempo que se ausente o asista con retraso a ellas, con excepción de los casos establecidos en el artículo 14 del presente Reglamento. El Presidente del Congreso deberá proveer lo necesario para el cumplimiento de esta disposición.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+En el caso de que se presenten en forma concurrente una sesión de Pleno con una o más reuniones de Comisiones, o varias reuniones de Comisiones, y esto imposibilite la asistencia de algún Diputado a las mismas, no será sancionado en los términos del párrafo anterior la inasistencia, la ausencia o el retraso.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+Sólo podrá descontarse o dejar de otorgarse como máximo por las faltas de asistencia, ausencias o retrasos de un día, el equivalente a su percepción diaria por concepto de dieta.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 14.
 
-Cuando un Diputado no pudiere asistir a una reunión de Comisión, de Comités o a una sesión del Pleno, llegue con retraso de más de treinta minutos del inicio de la sesión o reunión, o no continúe en ella, deberá comunicarlo, justificando la razón de su ausencia al Presidente. Si la ausencia fuera por más de tres sesiones deberá comunicarlo al Pleno del Congreso mediante oficio, señalando los días de su ausencia.
+Cuando un Diputado no pudiere asistir, asista con retraso o no continúe en una sesión del Pleno, o en una reunión de Comisión o Comité, deberá comunicarlo al Presidente. Si la ausencia fuera por más de tres sesiones deberá comunicarlo al Pleno del Congreso mediante oficio, señalando los días de ausencia.
 
 ###### Artículo 15.
 
@@ -2028,3 +2038,9 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 P.O. 17 DE AGOSTO DE 2005.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE DICIEMBRE DE 2005.
+
+Artículo Primero.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- La Comisión de Coordinación y Régimen Interno determinará el destino de los recursos que se hayan descontado o dejado de otorgar a los Diputados, de conformidad con lo dispuesto por los artículos 13 y 14 modificados por el presente Decreto, los que serán destinados a una causa social.
