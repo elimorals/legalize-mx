@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-administrativos-del-estado-de-17468"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-07"
-last_updated: "2004-11-25"
+last_updated: "2005-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17468&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE DICIEMBRE DE 2005.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 7 de febrero de 1997.
 
@@ -971,349 +971,183 @@ Los actos administrativos tienen fuerza ejecutiva, por lo que las autoridades ad
 
 ###### Artículo 141.
 
-Las autoridades fiscales estatales y municipales exigirán el pago de los créditos fiscales que no hubieren sido cubiertos o garantizados dentro de los plazos señalados por la ley, mediante el procedimiento administrativo de ejecución, conforme a las normas de esta sección. En ningún caso se aplicará este procedimiento para el cobro de productos.
-
-Los vencimientos que ocurran durante el procedimiento administrativo de ejecución, incluso recargos, gastos de ejecución y otros accesorios, se harán efectivos con el crédito inicial, sin necesidad de ninguna formalidad especial.
+(DEROGADO, G.G. 27 DE DICIEMBRE DE 2005)
 
 ###### Artículo 142.
 
-Cuando sea necesario emplear el procedimiento administrativo de ejecución para hacer efectivo un crédito fiscal, las personas físicas y las morales estarán obligadas a pagar el 2% de este crédito por concepto de gastos de ejecución, por cada una de las diligencias, en términos del reglamento respectivo.
-
-Los gastos de ejecución, por cada una de las diligencias, no podrán ser menores al importe de un salario mínimo general del área geográfica correspondiente a la jurisdicción en donde se encuentra radicado el crédito, ni exceder de la cantidad equivalente al salario mínimo general elevado al año.
+(DEROGADO, G.G. 27 DE DICIEMBRE DE 2005)
 
 ###### Artículo 143.
 
-Las autoridades fiscales, para hacer efectivo un crédito fiscal exigible y el importe de sus accesorios legales, formularán el mandamiento de ejecución, debidamente fundado y motivado, en el que se ordene requerir al deudor, para que efectúe el pago de los mismos, dentro de los 15 días siguientes a la notificación, con el apercibimiento de que si no lo hiciere, se le embargarán bienes suficientes para garantizar el monto del crédito y sus accesorios.
+(DEROGADO, G.G. 27 DE DICIEMBRE DE 2005)
 
 ###### Artículo 144.
 
-El requerimiento de pago se hará con las mismas formalidades de las notificaciones personales. Se entregará a la persona con quien se entienda la diligencia copia del mandamiento de ejecución y se levantará acta pormenorizada del requerimiento, de la que también se le proporcionará copia.
+(DEROGADO, G.G. 27 DE DICIEMBRE DE 2005)
 
 ###### Artículo 145.
 
-El embargo de bienes y negociaciones procederá:
-
-I. Transcurrido el plazo de 15 días siguientes a la fecha en que se haya practicado el requerimiento de pago, si el deudor no ha cubierto totalmente el crédito fiscal a su cargo;
-
-II. A petición del particular interesado, para garantizar un crédito fiscal; y
-
-III. Cuando, a criterio razonado de la autoridad fiscal, hubiere peligro de que el obligado se ausente, enajene u oculte bienes o realice cualquier maniobra tendente a evadir el cumplimiento de la obligación tributaria. La resolución que determine el crédito se notificará al interesado dentro de los 30 días posteriores a la fecha del embargo precautorio. Si el crédito fiscal se cubre en el plazo legal, el deudor no está obligado a pagar gastos de ejecución.
+(DEROGADO, G.G. 27 DE DICIEMBRE DE 2005)
 
 ###### Artículo 146.
 
-El ejecutor que designe la oficina en que sea radicado el crédito fiscal, se constituirá en el domicilio del deudor y practicará la diligencia de embargo con las mismas formalidades de las notificaciones personales. De esta diligencia se levantará acta pormenorizada, de la que se entregará copia a la persona con quien se entienda la misma.
-
-Si el requerimiento de pago se hizo por edicto, la diligencia de embargo se entenderá con una autoridad administrativa estatal o municipal de la circunscripción de los bienes, salvo que en el momento de iniciarse la diligencia compareciera el deudor, en cuyo caso se entenderá con él.
+(DEROGADO, G.G. 27 DE DICIEMBRE DE 2005)
 
 ###### Artículo 147.
 
-El deudor o, en su defecto, la persona con quien se entienda la diligencia, tendrá derecho a que en ésta intervengan dos testigos y a designar los bienes que deban embargarse, siempre que se sujete al orden siguiente:
-
-I. Los bienes muebles, inmuebles o la negociación en los casos de embargo para garantizar el interés fiscal;
-
-II. Los bienes inmuebles, cuando se trate de contribuciones a la propiedad inmobiliaria; y
-
-III. En los demás casos:
-
-a) Dinero y metales preciosos.
-
-b) Acciones, bonos, cupones vencidos, valores mobiliarios y, en general, créditos de inmediato y fácil cobro a cargo de entidades o dependencias de la federación, estados y municipios y de empresas o personas privadas de reconocida solvencia.
-
-c) Alhajas y objetos de arte.
-
-d) Frutos o rentas de toda especie.
-
-e) Bienes muebles no comprendidos en los incisos anteriores.
-
-f) Bienes raíces.
-
-g) Negociaciones comerciales, industriales o agrícolas.
+(DEROGADO, G.G. 27 DE DICIEMBRE DE 2005)
 
 ###### Artículo 148.
 
-El ejecutor podrá señalar bienes sin sujetarse al orden establecido en la fracción III del artículo anterior:
-
-I. Si el deudor no señala bienes o los señalados por éste no son suficientes a criterio del mismo ejecutor o si no ha seguido el orden al hacer el señalamiento; y
-
-II. Si el deudor, teniendo otros bienes susceptibles de embargo, señalare:
-
-a) Bienes ubicados fuera de la circunscripción de la oficina ejecutora; y
-
-b) Bienes que ya reportaren cualquier gravamen real.
+(DEROGADO, G.G. 27 DE DICIEMBRE DE 2005)
 
 ###### Artículo 149.
 
-Si al estarse practicando la diligencia de embargo, el deudor hiciere pago del adeudo y sus accesorios, el ejecutor suspenderá la diligencia y expedirá recibo de entero por el importe del pago.
+(DEROGADO, G.G. 27 DE DICIEMBRE DE 2005)
 
 ###### Artículo 150.
 
-Si al designarse bienes para el embargo se opusiere un tercero, fundándose en el dominio de ellos, no se practicará el embargo si se demuestra en el mismo acto la propiedad con prueba documental suficiente a criterio del ejecutor. La resolución dictada tendrá el carácter de provisional y deberá ser sometida a ratificación, en todos los casos, de la oficina ejecutora, a la que deberán allegarse los documentos exhibidos en el momento de la oposición. Si a criterio de la ejecutora las pruebas no son suficientes, ordenará al ejecutor que continúe con el embargo y notificará al interesado que puede hacer valer el recurso administrativo de inconformidad o el juicio contencioso administrativo. En todo momento los opositores podrán ocurrir ante la oficina ejecutora haciéndole saber la existencia de otros bienes propiedad del deudor del crédito fiscal libres de gravamen y suficientes para responder de las prestaciones fiscales exigidas. Esas informaciones no obligarán a la ejecutora a levantar el embargo sobre los bienes a que se refiere la oposición.
+(DEROGADO, G.G. 27 DE DICIEMBRE DE 2005)
 
 ###### Artículo 151.
 
-Si los bienes señalados para la traba de ejecución están ya embargados por otras autoridades no fiscales o sujetos a cédula hipotecaria, se practicará no obstante el embargo. Los bienes embargados se entregarán al depositario designado por la oficina ejecutora o por el ejecutor, excepto en los casos en que exista un depositario judicial, y se dará aviso a la autoridad correspondiente para que él o los interesados puedan hacer valer el medio de impugnación respectivo.
-
-Si los bienes señalados para la ejecución hubieren sido ya embargados por parte de autoridades fiscales, federales o locales, se practicará el embargo, entregándose los bienes al depositario que designe la autoridad ejecutora y se dará aviso a la autoridad federal o local.
-
-En caso de inconformidad, la controversia resultante será resuelta por los tribunales competentes; en tanto se resuelve el procedimiento respectivo, no se hará aplicación del producto del remate.
+(DEROGADO, G.G. 27 DE DICIEMBRE DE 2005)
 
 ###### Artículo 152.
 
-Quedan exceptuados de embargo:
-
-I. El lecho cotidiano y los vestidos del deudor y de sus familiares;
-
-II. Los muebles de uso indispensable del deudor y de sus familiares, no siendo de lujo, a criterio razonado del ejecutor;
-
-III. Los libros, instrumentos, útiles y mobiliario indispensables para el ejercicio de la profesión, arte u oficio a que se dedique el deudor;
-
-IV. La maquinaria, enseres y semovientes propios para las actividades de las negociaciones industriales, comerciales o agrícolas, en cuanto fueren necesarias para su funcionamiento, a criterio del ejecutor, pero podrán ser objeto de embargo con la negociación a que estén destinados;
-
-V. Las armas, vehículos y caballos que los militares en servicio deban usar conforme a las leyes;
-
-VI. Los granos, mientras éstos no hayan sido cosechados, pero no los derechos sobre las siembras;
-
-VII. El derecho de usufructo, pero no los frutos de éste;
-
-VIII. Los derechos de uso o de habitación;
-
-IX. El patrimonio de familia en los términos que establezcan las leyes, desde su inscripción en el Registro Público de la Propiedad;
-
-X. Los sueldos y salarios;
-
-XI. Las pensiones de cualquier tipo; y
-
-XII. Los ejidos.
+(DEROGADO, G.G. 27 DE DICIEMBRE DE 2005)
 
 ###### Artículo 153.
 
-El ejecutor trabará ejecución en bienes bastantes para garantizar las prestaciones pendientes de pago, los gastos de ejecución y los vencimientos futuros, poniendo todo lo embargado, previa identificación, bajo la guarda del o de los depositarios que fueren necesarios y que salvo cuando los hubiere designado anticipadamente la oficina ejecutora, nombrará el ejecutor en el mismo acto de la diligencia. El nombramiento del depositario podrá recaer en el ejecutado.
+(DEROGADO, G.G. 27 DE DICIEMBRE DE 2005)
 
 ###### Artículo 154.
 
-El embargo de créditos será notificado personalmente por el ejecutor a los deudores de los créditos para que hagan el pago de las cantidades respectivas en la caja de la oficina ejecutora, apercibidos de doble pago en caso de desobediencia.
-
-Llegado el caso de que un deudor, en cumplimiento de lo dispuesto en el primer párrafo de este artículo, hiciere pago de un crédito cuya cancelación deba anotarse en el Registro Público de la Propiedad, el jefe de la oficina ejecutora requerirá al acreedor embargado para que, dentro de los cinco días siguientes a la notificación, firme la escritura de pago y cancelación o el documento en que deba constar el finiquito, sin perjuicio de las determinaciones de las autoridades judiciales competentes.
-
-En el caso de abstención del acreedor, transcurrido el plazo indicado, el jefe de la oficina firmará la escritura o documentos relativos en rebeldía de aquél, lo que hará del conocimiento del Registro Público de la Propiedad para los efectos procedentes.
+(DEROGADO, G.G. 27 DE DICIEMBRE DE 2005)
 
 ###### Artículo 155.
 
-Cuando se embarguen dinero, metales preciosos, alhajas, objetos de arte o valores mobiliarios, el ejecutor o el depositario los entregará inmediatamente, previo inventario, en la caja de la oficina ejecutora.
-
-Las sumas de dinero objeto del embargo, así como la cantidad que señale el propio ejecutado, la cual nunca podrá ser menor del 25% del importe de los frutos y productos de los bienes embargados, se aplicarán a cubrir el crédito fiscal al recibirse en la caja de la oficina ejecutora.
+(DEROGADO, G.G. 27 DE DICIEMBRE DE 2005)
 
 ###### Artículo 156.
 
-Si el deudor o cualquiera otra persona impidiere materialmente al ejecutor el acceso al domicilio fiscal de aquél o al lugar en que se encuentren los bienes, siempre que el caso lo requiera, el ejecutor solicitará el auxilio de la fuerza pública para llevar adelante los procedimientos de ejecución.
+(DEROGADO, G.G. 27 DE DICIEMBRE DE 2005)
 
 ###### Artículo 157.
 
-Si durante el embargo, la persona con quien se entienda la diligencia no abriere las puertas de las construcciones, edificios o casas señalados para la traba, en los que se presuma existen bienes muebles embargables, el ejecutor, previo acuerdo fundado y motivado del jefe de la oficina ejecutora, hará que ante dos testigos sean rotas las cerraduras que fuere necesario para que el depositario tome posesión del inmueble o para que siga adelante la diligencia.
-
-En igual forma procederá el ejecutor cuando las personas con quienes se entienda la diligencia no abrieren los muebles en los que aquél suponga, por algún motivo, guarden dinero, alhajas, objetos de arte u otros bienes embargables. Si no fuere factible romper o forzar las cerraduras, el mismo ejecutor trabará embargo en los muebles cerrados y en su contenido y los sellará para garantizar su inviolabilidad y enviará en depósito a la oficina ejecutora, donde serán abiertos en el término no mayor de tres días por el deudor o su representante legal y, en caso contrario, por un experto designado por la propia oficina.
-
-Si no fuere factible romper o forzar las cerraduras de cajas y otros objetos unidos a un inmueble o de difícil transportación, el ejecutor trabará embargo sobre ellos y su contenido y los sellará; para su apertura se seguirá el procedimiento establecido en el párrafo anterior.
+(DEROGADO, G.G. 27 DE DICIEMBRE DE 2005)
 
 ###### Artículo 158.
 
-Cualquiera otra dificultad que se suscite tampoco impedirá la prosecución de la diligencia de embargo. El ejecutor la subsanará discrecionalmente, a reserva de lo que disponga el jefe de la oficina ejecutora.
+(DEROGADO, G.G. 27 DE DICIEMBRE DE 2005)
 
 ###### Artículo 159.
 
-El jefe de la oficina ejecutora, bajo su responsabilidad, nombrará y removerá libremente a los depositarios, quienes tendrán el carácter de administradores en los embargos de bienes inmuebles y de interventores encargados de la caja de las negociaciones comerciales, industriales o agrícolas, sin perjuicio de las determinaciones de las autoridades judiciales competentes.
+(DEROGADO, G.G. 27 DE DICIEMBRE DE 2005)
 
 ###### Artículo 160.
 
-El depositario, sea administrador o interventor, desempeñará su cargo dentro de las normas jurídicas en vigor, con todas las facultades o responsabilidades inherentes y tendrá en particular las siguientes obligaciones:
-
-I. Garantizar su manejo a satisfacción de la oficina ejecutora;
-
-II. Manifestar a la oficina su domicilio y casa habitación, así como los cambios de habitación o domicilio;
-
-III. Remitir a la oficina inventarios de los bienes o negociaciones objeto del embargo, con expresión de los valores determinados en el momento de la diligencia, incluso los de arrendamiento, si se hicieron constar en la misma o en caso contrario, luego que sean recabados. En todo caso, en el inventario se hará constar la ubicación de los bienes o el lugar donde se guarden, a cuyo respecto todo depositario dará cuenta a la misma oficina de los cambios de localización que se efectuaren;
-
-IV. Recaudar los frutos y productos de los bienes embargados o los resultados netos de las negociaciones intervenidas y entregar su importe en la caja de la oficina diariamente o a medida que se efectúe la recaudación;
-
-V. Ejercitar ante las autoridades competentes las acciones y actos de gestión necesarios para hacer efectivos los créditos materia del depósito o incluidos en él, así como las rentas, regalías y cualesquiera otras prestaciones en numerario o en especie;
-
-VI. Erogar gastos de administración, mediante aprobación de la oficina ejecutora, cuando sean depositarios administradores, o ministrar el importe de tales gastos previa la comprobación procedente, si sólo fueren depositarios interventores;
-
-VII. Rendir cuentas mensuales comprobadas a la oficina ejecutora; y
-
-VIII. El depositario interventor que tuviere conocimiento de irregularidades en el manejo de las negociaciones sujetas a embargo o de operaciones que pongan en peligro los intereses fiscales, dictará las medidas provisionales urgentes que estime necesarias para proteger los intereses y dará cuenta a la oficina ejecutora la que podrá ratificarlas o modificarlas. Si las medidas urgentes que dicten los depositarios interventores no fueren acatadas por el deudor o el personal de la negociación, la oficina ejecutora ordenará de plano que el depositario interventor se convierta en administrador o sea substituido por un depositario administrador, quien tomará posesión de su cargo desde luego.
+(DEROGADO, G.G. 27 DE DICIEMBRE DE 2005)
 
 ###### Artículo 161.
 
-El embargo de bienes inmuebles, de derechos reales o de negociaciones de cualquier género, se inscribirá en el Registro Público de la Propiedad.
-
-Cuando los bienes inmuebles, derechos reales o negociaciones queden comprendidos en la jurisdicción de dos o más oficinas del Registro Público de la Propiedad, en todas ellas se inscribirá el embargo.
+(DEROGADO, G.G. 27 DE DICIEMBRE DE 2005)
 
 ###### Artículo 162.
 
-Los embargos podrán ampliarse en cualquier momento del procedimiento de ejecución, cuando la autoridad ejecutora estime que los bienes embargados son insuficientes para cubrir las prestaciones fiscales insolutas y los vencimientos inmediatos.
+(DEROGADO, G.G. 27 DE DICIEMBRE DE 2005)
 
 ###### Artículo 163.
 
-La venta de bienes embargados, procederá:
-
-I. Al décimo sexto día de practicado el embargo, si en contra de éste no se haya hecho valer algún medio de impugnación; o si se hubiese promovido, cuando quede firme la resolución confirmatoria del acto impugnado; y
-
-II. En el caso de embargo precautorio, cuando los créditos se hagan exigibles y no se paguen al momento del requerimiento.
+(DEROGADO, G.G. 27 DE DICIEMBRE DE 2005)
 
 ###### Artículo 164.
 
-Salvo los casos que este Código autoriza, toda venta se hará en subasta pública que se celebrará en el local de la oficina ejecutora.
-
-La autoridad fiscal podrá designar otro lugar para la venta u ordenar que los bienes embargados se vendan en lotes o fracciones o en piezas sueltas, con el objeto de obtener un mayor rendimiento.
+(DEROGADO, G.G. 27 DE DICIEMBRE DE 2005)
 
 ###### Artículo 165.
 
-Cuando las autoridades no fiscales estatales o municipales, saquen a remate bienes ya embargados por el fisco, se considerará crédito preferente el de este último.
+(DEROGADO, G.G. 27 DE DICIEMBRE DE 2005)
 
 ###### Artículo 166.
 
-La base para el remate de los bienes embargados será la que fijen de común acuerdo la autoridad y el deudor, o la que resulte de la evaluación por peritos, cuyas designaciones se harán por la oficina ejecutora, de entre los adscritos a las dependencias públicas. La autoridad notificará personalmente al deudor el avalúo practicado, para que en su caso pueda impugnarlo.
+(DEROGADO, G.G. 27 DE DICIEMBRE DE 2005)
 
 ###### Artículo 167.
 
-El remate deberá ser convocado para una fecha fijada dentro de los 30 días siguientes a la determinación del precio que deberá servir de base. La publicación de la convocatoria se hará cuando menos 10 días antes de la fecha del remate.
-
-La convocatoria se fijará en sitio visible y usual de la oficina ejecutora y en los lugares públicos que se estimen convenientes. Cuando el valor de los bienes muebles o inmuebles exceda de la cantidad que corresponda a una vez el salario mínimo general elevado al año según el área geográfica que corresponda, la convocatoria se publicará en la «Gaceta del Gobierno» y en uno de los periódicos de mayor circulación si lo hubiere donde resida la autoridad ejecutora, dos veces consecutivas.
-
-En todo caso, a petición del deudor y previo pago del costo, la autoridad ejecutora puede ordenar una publicidad más amplia, dentro del plazo señalado en el primer párrafo de este artículo.
+(DEROGADO, G.G. 27 DE DICIEMBRE DE 2005)
 
 ###### Artículo 168.
 
-Los acreedores que aparezcan en el certificado de gravámenes correspondientes a los últimos 10 años, el que deberá obtenerse oportunamente, serán citados para el acto del remate y, en caso de no ser factible, se tendrá como citación la que se haga en las convocatorias en que se anuncie el remate en las que deberá expresarse el nombre de los acreedores.
-
-Los acreedores a que alude el párrafo anterior, tendrán derecho a concurrir al remate y hacer las observaciones que estimen del caso, las cuales serán resueltas por la autoridad ejecutora en el acto de la diligencia.
+(DEROGADO, G.G. 27 DE DICIEMBRE DE 2005)
 
 ###### Artículo 169.
 
-Mientras no se finque el remate, el deudor puede hacer el pago de las cantidades reclamadas, de los vencimientos ocurridos y de los gastos de ejecución, caso en el cual se levantará el embargo.
-
-Una vez realizado el pago por el embargado, éste deberá retirar los bienes motivo del embargo en el momento en que la autoridad los ponga a su disposición y en caso de no hacerlo, se causarán derechos por el almacenaje a partir del día siguiente.
+(DEROGADO, G.G. 27 DE DICIEMBRE DE 2005)
 
 ###### Artículo 170.
 
-Es postura legal la que cubra las dos terceras partes del valor señalado como base para el remate.
-
-En toda postura deberá ofrecerse de contado por lo menos la parte suficiente para cubrir el interés fiscal. Si éste es superado por la base fijada para la venta, la diferencia podrá reconocerse en favor del deudor ejecutado, con los intereses correspondientes hasta por un año de plazo, a partir de la fecha en que se hubiere rematado o adjudicado el bien de que se trate.
+(DEROGADO, G.G. 27 DE DICIEMBRE DE 2005)
 
 ###### Artículo 171.
 
-Al escrito en que se haga la postura se acompañará necesariamente un certificado de depósito, por un importe cuando menos del 10% del valor fijado a los bienes en la convocatoria, expedido por institución de crédito autorizada para tal efecto; en las poblaciones donde no haya alguna de esas instituciones, el depósito se hará en efectivo en la propia oficina ejecutora.
-
-El importe de los depósitos que se constituyan de acuerdo con lo que establece el presente artículo, servirá de garantía para el cumplimiento de las obligaciones que contraigan los postores por las adjudicaciones que se les hagan de los bienes rematados. Inmediatamente después de fincado el remate, previa orden de la oficina ejecutora, se devolverán los certificados de depósito a los postores, excepto el que corresponda al postor admitido, cuyo valor continuará como garantía del cumplimiento de su obligación, y en su caso, como parte del precio de venta.
+(DEROGADO, G.G. 27 DE DICIEMBRE DE 2005)
 
 ###### Artículo 172.
 
-Cuando el postor en cuyo favor se hubiere fincado un remate no cumpla con las obligaciones que contraiga y las que este Código le señala, perderá el importe del depósito que hubiere constituido y éste se aplicará de plano, por la oficina ejecutora, a favor del erario público. En este caso se reanudarán las almonedas en la forma y plazos que les señalan los artículos respectivos.
+(DEROGADO, G.G. 27 DE DICIEMBRE DE 2005)
 
 ###### Artículo 173.
 
-Las posturas deberán contener los siguientes datos:
-
-I. Nombre, edad, nacionalidad, capacidad legal, estado civil, profesión y domicilio del postor. Si fuere una sociedad, los datos principales de su constitución;
-
-II. Las cantidades que se ofrezcan; y
-
-III. Lo que se ofrezca de contado y los términos en que haya de pagarse la diferencia.
+(DEROGADO, G.G. 27 DE DICIEMBRE DE 2005)
 
 ###### Artículo 174.
 
-El día y hora señalados en la convocatoria, el jefe de la oficina ejecutora, después de pasar lista de las personas que hubieren presentado posturas, hará saber a las que estén presentes cuáles posturas fueron calificadas como legales y les dará a conocer cual es la mejor postura, concediendo plazos sucesivos de cinco minutos cada uno, hasta que la última postura no sea mejorada. El jefe de la oficina ejecutora fincará el remate en favor de quien hubiere hecho la mejor postura.
-
-Si en la última postura se ofrece igual suma de contado, por dos o más licitantes, se designará por suerte la que deba aceptarse.
+(DEROGADO, G.G. 27 DE DICIEMBRE DE 2005)
 
 ###### Artículo 175.
 
-Fincado el remate de bienes muebles se aplicará el depósito constituido y el postor, dentro de los tres días siguientes a la fecha del remate, enterará en la caja de la oficina ejecutora, el saldo de la cantidad de contado ofrecida en su postura, o mejoras, y constituirá las garantías a que se hubiere obligado por la parte del precio que quedare adeudado.
-
-Tan pronto como el postor hubiere cumplido con los requisitos a que se refiere el párrafo anterior, la oficina ejecutora procederá a entregar los bienes que le hubieren adjudicado.
-
-Una vez adjudicados los bienes al adquirente, éste deberá retirarlos en el momento en que la autoridad los ponga a su disposición, en caso de no hacerlo, se causarán derechos por el almacenaje a partir del día siguiente.
+(DEROGADO, G.G. 27 DE DICIEMBRE DE 2005)
 
 ###### Artículo 176.
 
-Fincado el remate de bienes inmuebles o negociaciones se aplicará el depósito constituido. Dentro de los 10 días siguientes, a la fecha del remate, el postor enterará en la caja de la oficina ejecutora el saldo de la cantidad ofrecida de contado en su postura o la que resulte de las mejoras.
-
-Hecho el pago a que se refiere el párrafo anterior y designado en su caso el notario público por el postor, se citará al ejecutado, para que, dentro de un plazo de 10 días, otorgue y firme la escritura de venta correspondiente, apercibido de que, si no lo hace, el jefe de la oficina ejecutora lo hará en su rebeldía. El ejecutado aún en el caso de rebeldía, responde por la evicción y los vicios ocultos.
+(DEROGADO, G.G. 27 DE DICIEMBRE DE 2005)
 
 ###### Artículo 177.
 
-Los bienes inmuebles pasarán a ser propiedad del postor libres de todo gravamen y a fin de que se cancelen los que reportaren, el jefe de la oficina ejecutora que finque el remate deberá comunicar al Registro Público de la Propiedad respectivo la transmisión de dominio de los inmuebles.
-
-Los registradores o encargados del Registro Público de la Propiedad deberán inscribir las transmisiones de dominio de bienes inmuebles que resulten de los remates celebrados por las oficinas ejecutoras y procederán a hacer las cancelaciones de gravámenes que sean conducentes como consecuencia de la transmisión o adjudicación.
+(DEROGADO, G.G. 27 DE DICIEMBRE DE 2005)
 
 ###### Artículo 178.
 
-Tan luego como se hubiere otorgado y firmado la escritura en que conste la adjudicación de un inmueble, el jefe de la oficina ejecutora dispondrá que se entregue al adquirente, dando las órdenes necesarias, aún las de desocupación, si estuviere habitado por el deudor o por terceros que no tuvieren contrato para acreditar el uso.
+(DEROGADO, G.G. 27 DE DICIEMBRE DE 2005)
 
 ###### Artículo 179.
 
-Queda estrictamente prohibido adquirir los bienes objeto de un remate, por sí o por medio de interpósita persona, a los jefes de las oficinas ejecutoras y personal de las mismas y a las personas que hubieren intervenido por parte del fisco en los procedimientos de ejecución. El remate efectuado con infracción a este precepto, será nulo y los infractores serán castigados en términos de ley.
+(DEROGADO, G.G. 27 DE DICIEMBRE DE 2005)
 
 ###### Artículo 180.
 
-El producto del remate se aplicará al pago del interés fiscal en el siguiente orden:
-
-I. Los gastos de ejecución a saber:
-
-a) Los honorarios de los ejecutores, depositarios y peritos, de conformidad con lo que establezcan las disposiciones reglamentarias.
-
-b) Los de impresión y publicación de convocatorias.
-
-c) Los de transporte del personal ejecutor y de los bienes muebles embargados.
-
-d) Los demás que, con el carácter de extraordinarios, eroguen las oficinas ejecutoras con motivo del procedimiento de ejecución.
-
-II. Los recargos, multas y demás accesorios;
-
-III. Los impuestos, derechos, aportaciones de mejoras y aprovechamientos que motivaron el embargo, por su orden de antigüedad; y
-
-IV. Los vencimientos ocurridos durante el procedimiento administrativo.
+(DEROGADO, G.G. 27 DE DICIEMBRE DE 2005)
 
 ###### Artículo 181.
 
-El fisco estatal o municipal tendrá preferencia para adjudicarse, en cualquier almoneda, los bienes ofrecidos en remate:
-
-I. A falta de postores, por la base de la postura legal que habría de servir para la almoneda siguiente;
-
-II. A falta de pujas, por la base de la postura legal, no mejorada;
-
-III. En caso de postura o pujas iguales, por la cantidad en que se haya producido el empate; y
-
-IV. Hasta por el monto del adeudo si éste no excede de la cantidad en que deba fincarse el remate en la segunda almoneda.
+(DEROGADO, G.G. 27 DE DICIEMBRE DE 2005)
 
 ###### Artículo 182.
 
-Cuando no se hubiere fincado el remate en la primera almoneda, se fijará nueva fecha y hora para que, dentro de los 15 días siguientes se lleve a cabo una segunda almoneda, cuya convocatoria se hará en términos de ley, con la salvedad de que la publicación se hará por una sola vez.
-
-La base para el remate en la segunda almoneda se determinará deduciendo un 20% de la señalada para la primera.
+(DEROGADO, G.G. 27 DE DICIEMBRE DE 2005)
 
 ###### Artículo 183.
 
-Los bienes embargados podrán venderse fuera de subasta, cuando:
-
-I. El embargado proponga comprador antes del día en que se finque el remate, se enajenen o adjudiquen los bienes a favor del fisco, siempre que el precio en que se vendan cubra el valor que se haya señalado a los bienes embargados;
-
-II. Se trate de bienes de fácil descomposición o deterioro o de materiales inflamables, siempre que en la localidad no puedan guardar o depositar en lugares apropiados para su conservación; y
-
-III. Se trate de bienes que habiendo salido a remate en segunda almoneda, no se hubieran presentado postores.
+(DEROGADO, G.G. 27 DE DICIEMBRE DE 2005)
 
 ###### Artículo 184.
 
-Las cantidades excedentes después de haber hecho la aplicación del producto del remate, venta fuera de subasta o adjudicación de los bienes embargados, se entregarán al embargado, salvo que medie orden escrita de autoridad competente o que el propio embargado acepte, también por escrito, que se haga entrega total o parcial del saldo a un tercero.
-
-En caso de conflicto, el remanente se depositará en institución de crédito autorizada, en tanto resuelven las autoridades competentes.
+(DEROGADO, G.G. 27 DE DICIEMBRE DE 2005)
 
 ###### Artículo 185.
 
-Las garantías constituidas para asegurar el interés fiscal se harán efectivas a través del procedimiento administrativo de ejecución.
-
-Cuando la garantía fuere dinero en efectivo depositado en la institución de crédito que corresponda, será declarada en definitiva la aplicación del depósito.
+(DEROGADO, G.G. 27 DE DICIEMBRE DE 2005)
 
 #### SECCION SEGUNDA. Del Recurso Administrativo de Inconformidad
 
@@ -2249,11 +2083,11 @@ IV. Sólo se tomarán en consideración las pruebas que se hubiesen aportado en 
 
 V. Se suplirá la deficiencia de los agravios del particular demandante, cuando el caso lo requiera, pero sin cambiar los hechos planteados.
 
-### CAPITULO SEGUNDO. Del Fondo Auxiliar para la Justicia Administrativa
+### CAPITULO PRIMERO. Del Consejo de la Justicia Administrativa
 
 > <small>(ADICIONADO, G.G. 25 DE NOVIEMBRE DE 2004)</small>
 
-### CAPITULO PRIMERO. Del Consejo de la Justicia Administrativa
+### CAPITULO SEGUNDO. Del Fondo Auxiliar para la Justicia Administrativa
 
 > <small>(ADICIONADO, G.G. 25 DE NOVIEMBRE DE 2004)</small>
 
@@ -2420,3 +2254,29 @@ SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en
 TERCERO.- Una vez determinada en el Reglamento Interior del Tribunal la jurisdicción territorial e instalada la Tercera Sección de la Sala Superior en Ecatepec, México, ésta conocerá de los recursos de revisión que se le presenten; en tanto, la Segunda Sección de la Sala Superior, con sede en Tlalnepantla de Baz, México, continuará conociendo del trámite de los asuntos.
 
 CUARTO.- Se dejan sin efectos las disposiciones de igual o menor jerarquía que se opongan a los preceptos contenidos en el presente Decreto.
+
+G.G. 27 DE DICIEMBRE DE 2005.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+Este Decreto entrará en vigor el día primero de enero del año 2006.
+
+###### ARTICULO TERCERO.
+
+Se derogan los artículos 141 al 185 del Código de Procedimientos Administrativos del Estado de México.
+
+###### ARTICULO CUARTO.
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente decreto.
+
+###### ARTICULO QUINTO.
+
+Los procedimientos administrativos de ejecución que se encuentren en términos al entrar en vigor este ordenamiento, se decidirán conforme a las disposiciones legales anteriores al mismo.
+
+###### ARTICULO SEXTO.
+
+Las iniciativas que se presenten a consideración de la Legislatura, sobre tarifas por el suministro de agua en bloque a que se refiere el artículo 95 del Código Financiero del Estado de México y Municipios, para los ejercicios fiscales subsecuentes, se deberá acompañar el soporte técnico financiero que justifique la propuesta de las mismas.
