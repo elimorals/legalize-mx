@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-del-estado-nuevo-leon-7748"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2004-09-03"
+last_updated: "2005-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -37,11 +37,11 @@ LEY DE HACIENDA DEL ESTADO
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 1o.
 
-Los Impuestos, contribuciones especiales, derechos, productos y aprovechamientos que debe percibir el Estado de Nuevo León, de acuerdo con la Ley de Ingresos respectiva, se causarán y recaudarán conforme a las disposiciones de ésta y de las demás leyes fiscales aplicables.
+Los impuestos, contribuciones especiales, derechos, productos y aprovechamientos que deben percibir la Hacienda Pública Estatal o las entidades paraestatales de carácter fiscal, se causarán y recaudarán conforme a las disposiciones de ésta y de las demás leyes fiscales aplicables.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1979)</small>
 
@@ -2721,7 +2721,7 @@ VIII.- Por información y ubicación de predios 1 cuota
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-Por baja de construcción por demolición u otras causas…… 1 cuota
+Por baja de construcción por demolición u otras causas 1 cuota
 
 IX.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 2001)
 
@@ -2763,99 +2763,71 @@ e) De construcción 2 cuotas
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-f) De construcción, certificados.... 3 cuotas
+f) De construcción, certificados 3 cuotas
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 XII.- Por asignación de número de expediente catastral a planos de fraccionamientos 2.5 cuotas
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
-XIII.- Por servicios de control vehicular, que se prestan al inscribir un vehículo y por el refrendo anual de dichos servicios:
+XIII.- Por servicios de control vehicular, que se prestan al inscribir y refrendar anualmente el registro de un vehículo tratándose de:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+a) Vehículos de motor, excepto motocicletas 18 cuotas
 
-a) Para vehículos de motor, excepto motocicletas, anualmente 18 cuotas
+b) Remolques 7 cuotas
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+c) Motocicletas con motor mayor de 75 centímetros cúbicos 1.5 cuotas
 
-b) Para remolques, anualmente 7 cuotas
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+XIV.- Por autorización y refrendo anual de placas de demostración 30 cuotas
 
-c) Para motocicletas con motor mayor de 75 centímetros cúbicos, anualmente 1.5 cuotas
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+XV.- Por expedición, reposición o canje de placas tratándose de:
 
-d) Por placas de demostración, semestralmente 10.5 cuotas
+a) Vehículos de motor, excepto motocicletas 5 cuotas
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+b) Remolques 2.5 cuotas
 
-XIV.- Por reposición de tarjeta de circulación 2 cuotas
+c) Motocicletas con motor mayor de 75 centímetros cúbicos 1 cuota
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
-XV.- Por expedición de licencia de manejar:
+XVI.- Por reposición de tarjeta de circulación 2 cuotas
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
-a) Con vigencia de un año 2.9 cuotas
+XVII.- Por inscripción o cancelación de gravámenes y modificaciones al padrón vehicular 5 cuotas
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
-b) Con vigencia de dos años, 4.5 cuotas
+XVIII.- Por el servicio de validación, ratificación de firmas o certificación sobre enajenación de vehículos 8 cuotas
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
-c) Con vigencia de tres años 6 cuotas
+XIX.- Por expedición, renovación o reposición de licencia para conducir 5 cuotas
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
-Por duplicado de licencia de manejar:
+XX.- Por el servicio de información requeridos (sic) a otras autoridades 4 cuotas
 
-a) La expedida con vigencia de un año ….. 1.45 cuotas
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+XXI.- Por expedición de constancias y certificaciones 3 cuotas
 
-b) La expedida con vigencia de dos años 2.25 cuotas
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2002)</small>
+Los derechos a que se refieren las fracciones XIII a XXI de este artículo, pasarán a ser patrimonio del Instituto de Control Vehicular, por lo que serán recaudados y administrados por dicho instituto en cumplimiento de sus fines y de acuerdo a sus facultades legales.
 
-XVI.- Por alta y expedición o reposición de placas a los vehículos mencionados en la fracción XIII, incisos a) y b) ….. 5 cuotas
+> <small>(DEROGADO TERCER PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
-Por alta y expedición o reposición de placas a los vehículos mencionados en la fracción XIII, inciso c) ….. 1.5 cuotas
+> <small>(DEROGADO CUARTO PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(DEROGADO QUINTO PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
-XVII.- Por baja de vehículos del padrón vehicular 2.5 cuotas
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
-
-XVIII.- Por expedición de constancias y certificaciones……………. 1 cuota
-
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
-
-XIX. - Por servicio de información de datos o documentos de control vehicular, obtenidos mediante sistemas de comunicación, proporcionada por otras Entidades Federativas, por documento...2 cuotas
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
-
-Para dar trámite al pago de los derechos por servicios de control vehicular, expedición o reposición de placas o baja de vehículos del padrón vehicular, el propietario del vehículo deberá acreditar que no existe infracción alguna por violación al reglamento de tránsito correspondiente, además de acreditar el pago del impuesto sobre transmisión de propiedad de vehículos automotores usados, en caso de que éste se haya generado, así como el pago del impuesto sobre tenencia o uso de vehículos, además del pago del impuesto sobre automóviles nuevos.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 1993)</small>
-
-El Estado y los Municipios podrán coordinarse en materia de control vehicular, debiendo para tales efectos celebrar los convenios respectivos, en los que se establecerán los términos y condiciones, a fin de llevar a cabo las acciones necesarias y ejercer las funciones inherentes al control vehicular, a la verificación del cumplimiento de obligaciones fiscales y de tránsito, así como las demás funciones relacionadas con esta materia.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
-
-Quienes se encuentren obligados legalmente a solicitar los servicios a que se refiere la fracción XIII de este artículo, deberán hacerlo a más tardar el último día del mes de marzo. De no ser así, se les aplicará una multa hasta del 100% de los derechos omitidos. El plazo a que se refiere este párrafo, podrá ser prorrogado por la Secretaría de Finanzas y Tesorería General del Estado.
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
-
-La vigencia de las licencias de manejar expirará en el término de un año, dos años o tres años según corresponda, contados a partir del día de su emisión.
-
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
-
-En el caso de licencias de conducir especiales para transporte público, se sujetarán a los lineamientos de la Ley Estatal de Transporte y su Reglamento. En los demás casos se sujetarán a las disposiciones del Reglamento de Tránsito Municipal que corresponda.
+> <small>(DEROGADO SEXTO PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 (REUBICADO [N. DE E. ANTES CAPITULO QUINTO], P.O. 31 DE DICIEMBRE DE 1993)
 
@@ -2925,7 +2897,7 @@ b) Proveedores N$220.00
 
 V.- Por la revisión de planos que se practique por concepto de ingeniería sanitaria, sobre el valor de las edificaciones que se pretendan construir, determinado por la Secretaría de Finanzas y Tesorería General del Estado, con base en los planos y proyectos que presente el interesado y en los demás datos que proporcionen las oficinas competentes se pagará por cada millar o fracción N$5.00
 
-(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998) (F.DE E., P.O. 18 DE ENERO DE 1999)
+(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998) (F. DE E., P.O. 18 DE ENERO DE 1999)
 
 En ningún caso la cantidad a cubrir será menor a 2.5 cuotas
 
@@ -2999,6 +2971,18 @@ b) Tiendas de autoservicio N$400.00
 
 X.- Por expedición de certificaciones relativas a los derechos patrimoniales del Estado sobre un inmueble 5 cuotas
 
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+XI.- Por servicios en materia de transporte público:
+
+a) Por expedición o refrendo de la concesión. 10 cuotas
+
+b) Por trámite de cesión de derechos de la concesión. 25 cuotas
+
+c) Por reposición del documento en el que consta la concesión. 10 cuotas
+
+d) Por cambio de vehículo objeto de la concesión. 10 cuotas
+
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 277 Bis.
@@ -3029,11 +3013,11 @@ En todos los casos, con excepción del Poder Judicial del Estado, por búsqueda 
 
 ## TITULO CUARTO. De los Productos
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1993)</small>
-
 ### CAPITULO SEXTO. De los Derechos por Servicios Prestados por la Secretaría de Desarrollo Urbano y Obras Públicas
 
 ARTICULO 276 BIS.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2003)
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 278.
 
@@ -3582,3 +3566,7 @@ P.O. 3 DE SEPTIEMBRE DE 2004.
 SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE DICIEMBRE DE 2005.
+
+Artículo Único.- El presente Decreto entrará en vigor el 1º de enero del año 2006.
