@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-de-los-municipios-del-estado-de-campeche-3554"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-04"
-last_updated: "2004-12-23"
+last_updated: "2005-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el sábado 4 de diciembre de 1993.
 
@@ -211,7 +211,7 @@ c).- Su valor no exceda de 13,470 veces el salario mínimo general diario vigent
 
 > <small>(ADICIONADO, P.O. 24 DE ENERO DE 2000)</small>
 
-Este beneficio se aplicará sin menoscabo de lo previsto en el artículo 24 y en caso de fallecer el propietario se hará extensivo a quien herede el inmueble, siempre y cuando lo sea su cónyuge, concubino o cuncubina y/o sus hijos menores de edad.
+Este beneficio se aplicará sin menoscabo de lo previsto en el artículo 24 y en caso de fallecer el propietario se hará extensivo a quien herede el inmueble, siempre y cuando lo sea su cónyuge, concubino o concubina y/o sus hijos menores de edad.
 
 > <small>(ADICIONADO, P.O. 24 DE ENERO DE 2000)</small>
 
@@ -297,7 +297,7 @@ Tratándose de vehículos cuyo modelo corresponda al año en curso o del año an
 
 Para vehículos de modelo más antiguo, la base del impuesto será el valor que resulte mayor entre el precio consignado en la operación y valor de mercado.
 
-Se tomará como valor de mercado el referido en la GUIA EBC para comerciantes en automóviles y camiones y aseguradores de la República Mexicana, del mes en que se manifieste la operación.
+Se tomará como valor de mercado el referido en la GUIA EBC (sic) para comerciantes en automóviles y camiones y aseguradores de la República Mexicana, del mes en que se manifieste la operación.
 
 ###### ARTICULO 34.
 
@@ -537,9 +537,9 @@ Están obligados al pago del impuesto sobre adquisición de inmuebles establecid
 
 Para los efectos de este impuesto, se entiende por adquisición la que se derive de:
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
-I.- Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades a excepción de las que se realicen al constituir la copropiedad o la sociedad conyugal, siempre que sean inmuebles propiedad de los copropietarios o de los cónyuges, también se exceptúan las donaciones entre ascendientes y descendientes consanguíneos hasta el tercer grado en línea recta;
+I. Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades a excepción de las que se realicen al constituir la copropiedad o la sociedad conyugal, siempre que sean inmuebles propiedad de los copropietarios o de los cónyuges, también se exceptúan las donaciones entre ascendientes y descendientes consanguíneos hasta el tercer grado en línea recta; así como las sucesiones que hagan los herederos o legatarios de los bienes de sus ascendientes, descendientes, cónyuges y concubinos;
 
 II.- La compraventa en la que el vendedor se reserve la propiedad aún cuando la transferencia de ésta opere con posterioridad;
 
@@ -557,13 +557,13 @@ VII.- Constitución de usufructo, transmisión de éste o de la nuda propiedad, 
 
 VIII.- Prescripción Positiva o Información de Dominio;
 
-IX.- La cesión de derechos del heredero, legatario o copropietario, en la parte relativa y en proporción a los inmuebles.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
-Se entenderá como cesión de derechos la renuncia de la herencia o legado efectuada después de la declaratoria de herederos o legatarios;
+IX.- La cesión de derechos del heredero, legatario o copropietario, en la parte relativa y en proporción a los inmuebles, cuando el cesionario no sea ascendente, descentende, cónyuge o concubino del autor de la herencia;
 
-X.- Enajenación a través de fideicomiso o de cesión de derechos de fideicomiso, en los términos del Código Fiscal de la Federación; y
+X.- Enajenación a través de fideicomiso o de cesión de derechos de fideicomiso, en los términos del Código Fiscal de la Federación; y (sic)
 
-XI.- La división de la copropiedad y la disolución de la sociedad conyugal, por la parte que se adquiere en demasía del porciento que le correspondía al copropietario o cónyuge.
+XI.- La división de la copropiedad y la disolución de la sociedad conyugal, por la parte que se adquiere en demasía del porciento que le correspondía al copropietario o cónyuge;
 
 > <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
@@ -679,7 +679,7 @@ IV.- Las asociaciones religiosas constituidas en los términos de la Ley de Asoc
 
 ###### ARTICULO 60.
 
-En el Registro Público de la Propiedad, no se inscribirá ningún acto, contrato o documento transmitivo de dominio de bienes inmuebles, mientras no le sea exhibido el comprobante de pago del impuesto que establece este capítulo si se hubiere causado.
+En el Registro Público de la Propiedad, no se inscribirá ningún acto, contrato o documento transmitido de dominio de bienes inmuebles, mientras no le sea exhibido el comprobante de pago del impuesto que establece este capítulo si se hubiere causado.
 
 #### SECCION SEGUNDA. DE LA BASE
 
@@ -1307,7 +1307,7 @@ Para lo no previsto en este capítulo se estará a lo dispuesto en el Reglamento
 
 ###### ARTICULO 112.
 
-Será objeto de este derecho, la expedición por parte de servidores públicos municipales de toda clase de certificados, certificaciones, constancias y duplicados de documentos existentes en los archivos de las oficinas municipales, los cuales causarán y pagarán derechos de acuerdo con el número de veces el salario mínimo diario vigente de la zona o porcentaje respectivamente, según lo establece la siguiente:
+Será objeto de este derecho, la expedición por parte de servidores públicos municipales de toda clase de certificados, certificaciones, constancias y duplicados de documentos existentes en los artículos de las oficinas municipales, los cuales causarán y pagarán derechos de acuerdo con el número de veces el salario mínimo diario vigente de la zona o porcentaje respectivamente, según lo establece la siguiente:
 
 T A R I F A
 
@@ -1341,15 +1341,17 @@ Por cada N$ 1000.00 o fracción
 
 0.10% 0.10% 0.10%
 
-VI.- Los certificados que tengan por objeto acreditar el valor catastral de la propiedad raíz, pagarán:
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
-Hasta N$ 10000.00
+VI.- Los certificados que tengan por objeto acreditar el valor catastral de la propiedad raíz pagarán:
+
+Hasta $10,000.00
 
 2.00 2.00 2.00
 
-Por cada N$ 1000.00 o fracción
+Por cada $ 1,000.00 o fracción
 
-0.20% 0.20% 0.20%
+0.20% 0.20%
 
 VII.- Por constancia de alineamiento y/o número oficial
 
@@ -1691,6 +1693,8 @@ Los rezagos se cubrirán en la Tesorería Municipal correspondiente en las que d
 
 ### CAPITULO QUINTO. POR LA EXPEDICION DE CERTIFICADOS, CERTIFICACIONES CONSTANCIAS Y DUPLICADOS DE DOCUMENTOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 128.
 
 El pago de los créditos fiscales realizado fuera de los plazos señalados por esta Ley dará lugar al cobro de recargos y el monto de los mismos se actualizará desde el mes en que debió de hacerse el pago, hasta que el mismo se efectúe, de conformidad con el Código Fiscal del Estado y las Leyes de Ingresos de los Municipios del Estado de Campeche; además se causarán recargos por concepto de indemnización de conformidad con lo que establezca el mencionado Código.
@@ -1894,3 +1898,9 @@ P.O. 23 DE DICIEMBRE DE 2004.
 PRIMERO.- El presente decreto entrará en vigor el día uno de enero del año dos mil cinco, previa su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 27 DE DICIEMBRE DE 2005.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
