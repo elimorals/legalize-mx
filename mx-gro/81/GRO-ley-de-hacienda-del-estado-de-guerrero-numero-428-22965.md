@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-hacienda-del-estado-de-guerrero-numero-428-22965"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-28"
-last_updated: "2003-12-23"
+last_updated: "2005-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE HACIENDA DEL ESTADO DE GUERRERO, NUMERO 428
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE 2005.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Guerrero, el viernes 28 de diciembre de 2001.
 
@@ -191,9 +191,11 @@ LEY DE HACIENDA DEL ESTADO DE GUERRERO, NUMERO 428
 
 IMPUESTO SOBRE EL EJERCICIO DE LA PROFESION MEDICA Y OTRAS ACTIVIDADES NO SUBORDINADAS.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 1o.
 
-Es objeto de este impuesto sobre el Ejercicio de la Profesión Médica y otras Actividades no Subordinadas, los ingresos en efectivo o en especie que se perciban dentro del territorio del Estado derivados de la prestación, en forma independiente, de los siguientes servicios, siempre y cuando no estén gravados por la Ley del Impuesto al Valor Agregado:
+Es objeto del Impuesto sobre el Ejercicio de la Profesión Médica y otras Actividades no Subordinadas, los ingresos en efectivo o en especie que se perciban dentro del territorio del Estado, derivados de la prestación; en forma independiente, de los siguientes servicios, siempre y cuando no estén gravados por la Ley del Impuesto al Valor Agregado:
 
 I. Los servicios profesionales de medicina, en todas sus especialidades, que sean prestados por personas físicas, ya sea individualmente o por conducto de Sociedades Civiles. Quedan incluidos dentro de este artículo, los médicos veterinarios zootecnistas y los dentistas.
 
@@ -203,9 +205,25 @@ II. Las comisiones que reciban los Agentes, derivados del aseguramiento contra r
 
 III. Los prestados por agentes y corresponsales de instituciones de crédito por las comisiones que perciban en el ejercicio de su actividad.
 
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+IV. Los Ingresos que obtengan los administradores únicos, los miembros del consejo de administración, de vigilancia, consultivos o de cualquier otra denominación que se les dé.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+V. Los horarios que se asimilen a salarios de conformidad con la Ley del Impuesto sobre la Renta.
+
 ###### ARTICULO 2o.
 
 Son sujetos de este impuesto las personas físicas que habitual o accidentalmente perciban los ingresos a que se refiere el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+###### ARTÍCULO 2º Bis.
+
+Las personas morales que paguen los servicios de personas físicas serán responsables de llevar a cabo la retención y entero del Impuesto citado y enterarlo a más tardar el día 17 del mes siguiente del mes inmediato posterior al que corresponda al pago en la Administración, Agencia Fiscal u oficinas autorizadas.
+
+Las personas morales están obligadas a presentar declaración anual informativa, proporcionando información sobre las personas a las cuales se les haya retenido y efectuado pagos por dicho impuesto en las Administraciones o Agencias fiscales que corresponda, a más tardar dentro de los tres primeros meses del ejercicio inmediato posterior, mediante el formato oficial que para tal efecto expide la Secretaría de Finanzas y Administración.
 
 ###### ARTICULO 3o.
 
@@ -245,7 +263,9 @@ Son sujetos del impuesto:
 
 I.- El propietario del inmueble, en los actos o contratos de obra;
 
-II.- Quien obtenga el beneficio, en el caso de los contratos unilaterales;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+II.- Quien obtenga el beneficio, en el caso de los actos unilaterales;
 
 III.- El solicitante, en los casos de instrumentos notariales de índole no contractual y en las protestas;
 
@@ -277,15 +297,7 @@ III.- Por la protocolización de documentos, sean públicos o privados: 1.27
 
 IV.- En los casos que no se exprese cantidad o valor de la operación: 3.15
 
-Para la conversión de los factores a que se refiere esta Ley, cada uno de éstos deberá multiplicarse por el salario mínimo diario vigente determinado por la Comisión Nacional de Salarios Mínimos y publicados en el Diario Oficial de la Federación. El salario mínimo aplicable será el de la zona A. El producto resultante será la cuota o tarifa a cobrar por cada uno de los conceptos referidos.
-
-Este impuesto se pagará en los siguientes lugares:
-
-I.- El de instrumentos notariales, en la oficina recaudadora en cuya demarcación resida el notario que los autorizó;
-
-II.- El de escrituras privadas, en la oficina recaudadora del lugar, en que se firme el documento o en donde se protocolice;
-
-III.- El de escrituras otorgadas fuera del Estado, en el lugar donde sean registradas.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 10.
 
@@ -325,7 +337,43 @@ Se considerará como ingreso del espectáculo público la cantidad total que se 
 
 El impuesto sobre diversiones, espectáculos públicos y juegos permitidos, se causará de conformidad con las siguientes:
 
-VEASE TABLA ANEXA
+T A S A S
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+I.- Teatros, teatros de revista, carpas o circos, sobre el boletaje vendido 3.9%
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+II.- Corridas de toros, funciones de box y lucha libre, sobre el boletaje vendido 5.17%
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+III.- Novilladas, jaripeos, bailes, variedades y discoteques sobre el boletaje vendido 5.17%
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+IV.- Carreras de automóviles, motocicletas, caballos, etc., sobre el boletaje vendido 5.17%
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+V.- Basquetbol, béisbol, fútbol y otros espectáculos deportivos similares, sobre el boletaje vendido 5%
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+VI.- Frontón, en cualquiera de sus modalidades en que se juegue, sobre el boletaje vendido 5.17%
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+VII.- Balnearios, balnearios con juegos recreativos y otras diversiones análogas, sobre el boletaje vendido 5.17%
+
+VIII.- Por cualquier otra diversión o espectáculo no especificado en las fracciones anteriores, sobre el monto de los ingresos, siempre y cuando no se cause el impuesto al valor agregado 5.17%
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+IX.- En el caso de espectáculos realizados de manera promocional en el que se regale el boleto, condicionado a la compra de determinados productos y/o servicios, se causara el impuesto sobre el valor determinado para su obtención, a la tasa del 5.17%
+
+En el caso de que en una misma función se presenten dos o más espectáculos de los gravados, se causará el impuesto según el espectáculo que tenga señalada la mayor tasa.
 
 ###### ARTICULO 17.
 
@@ -339,11 +387,13 @@ III.- Manifestar ante la autoridad fiscal, dentro del mismo plazo a que se refie
 
 IV.- A más tardar un día antes de la celebración del espectáculo público, manifestar los cambios que al programa se hayan realizado con posterioridad al cumplimiento de las obligaciones previstas en las fracciones II y III de este artículo;
 
-V.- Los contribuyentes de este impuesto, en aquellos casos en que sea necesario expedir boletos individuales, deberán acudir diariamente ante la oficina recaudadora de su jurisdicción para que los boletos de venta al público y cortesías sean previamente sellados y controlados numéricamente; debiendo proporcionar posteriormente la documentación relativa de los boletos y cortesías utilizados por cada función, a fin de determinar el pago del impuesto correspondiente; y para tal efecto los boletos de cortesías al igual que los de venta al público, se tomarán en cuenta, al hacer el pago del impuesto de referencia.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
-VI.- Presentar a la terminación del espectáculo público los boletos que no hayan sido vendidos, los cuales deberán tener todas sus secciones y estar adheridos a los talonarios respectivos, ya que de no estar así se consideran como vendidos,
+V.- Los contribuyentes de este impuesto, en aquellos casos en que sea necesario expedir boletos individuales, deberán acudir diariamente ante la oficina recaudadora de su jurisdicción para que los boletos de venta al público y cortesías sean previamente sellados y controlados numéricamente; debiendo proporcional al día del corte la documentación relativa de los boletos y cortesías utilizados por cada función, los boletos de cortesía no podrán ser mayores al 5% sobre el total de boletos en venta, a fin de determinar el pago del impuesto correspondiente; y para tal efecto los boletos de cortesías excedentes al igual que los de venta al público, se tomarán en cuenta, al hacer el pago del impuesto de referencia;
 
-VII.- Los propietarios de los locales, establecimientos, salones de fiestas y otros análogos, en donde se lleven a cabo bailes, jaripeos, corridas de toros, peleas de gallos, funciones de lucha libre y box, etc., estarán obligados a informar a la Secretaría de Finanzas y Administración, por lo menos con 5 días de anticipación a la fecha de la realización del evento; así como exigir al organizador o promotor del mismo, copia del recibo oficial autorizado en donde conste el monto del depósito o la garantía de pago de los impuestos correspondientes; en caso contrario, serán responsables solidarios del crédito que se determine por la realización del espectáculo.
+VI.- Presentar a la terminación del espectáculo público los boletos que no hayan sido vendidos, los cuales deberán tener todas sus secciones y estar adheridos a los talonarios respectivos, ya que de no estar así se consideran como vendidos;
+
+VII.- Los propietarios de los locales, establecimientos, salones de fiestas y otros análogos, en donde se lleven a cabo bailes, jaripeos, corridas de toros, peleas de gallos, funciones de lucha libre y box, etc., estarán obligados a informar a la Secretaría de Finanzas y Administración, por lo menos con 5 días de anticipación a la fecha de la realización del evento; así como exigir al organizador o promotor del mismo, copia del recibo oficial autorizado en donde conste el monto del depósito o la garantía de pago de los impuestos correspondientes; en caso contrario, serán responsables solidarios del crédito que se determine por la realización del espectáculo;
 
 VIII.- En el caso de los espectáculos de carácter eventual o transitorio, la empresa garantizará previamente en efectivo o en alguna de las formas señaladas en el Código Fiscal del Estado a satisfacción de la oficina recaudadora respectiva, el importe probable del impuesto el cual se liquidará al finalizar cada función o espectáculo. Cubierto el impuesto cesará la garantía inmediatamente.
 
@@ -355,13 +405,15 @@ En los casos en que no se garantice el pago del impuesto, los interventores debe
 
 La oficina recaudadora podrá nombrar interventores para cada uno de los espectáculos y diversiones en las distintas funciones, pagando los organizadores los honorarios correspondientes por dicha intervención, el equivalente a 10 salarios mínimos diarios, por cada uno de ellos.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 20.
 
-Se exceptúan del pago de este impuesto las funciones de cine; así como, las representaciones teatrales, que se realicen con propósitos culturales, siempre que no persigan finalidades lucrativas.
+Se exceptúan del pago de este Impuesto las funciones de cine y cursos y congresos educativos; así como las representaciones teatrales, que se realicen con propósitos culturales, siempre que no persigan finalidades lucrativas y que tengan reconocimiento oficial y de enseñanza.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE 2003)</small>
+Las instituciones de asistencia, de beneficencia pública o privada con residencia en el Estado, que cuenten con registro oficial de la Federación o del Estado, así como también que tengan autorización del Servicio de Administración Tributaria para recibir donativos y sin fines de lucro que organicen espectáculos públicos deberán solicitar por escrito a la Secretaría de Finanzas y Administración, la exención del pago del impuesto dentro de los 10 días anteriores a la fecha de la realización del mismo, anexando copia legible del o los contratos celebrados con los representantes de los participantes en el evento y presentar su debida constitución autorizada por las leyes en la materia.
 
-Las instituciones de asistencia social y beneficencia pública o privada, cuando sin fines de lucro organicen espectáculos públicos, deberán solicitar la exención del pago de este impuesto por escrito ante el Secretario de Fianzas y Administración, con 10 días de anticipación a la fecha de realización del mismo, anexando copia legible del o los contratos celebrados con los representantes de los participantes en el evento.
+En el caso de exención para el pago de este impuesto que soliciten los Partidos Políticos u Organizaciones Políticas, deberá exhibirse ante la Secretaria de Finanzas y Administración del Estado el boletaje y propaganda del evento de que se trate, a fin de dejar constancia en el expediente que se integre con motivo de la autorización; si la gestión de exención se hace por cuenta de terceros, la autorización se otorgará sólo por el porcentaje que reciba del promotor, debiéndose exhibir los contratos correspondientes.
 
 ### CAPITULO IV
 
@@ -449,9 +501,11 @@ La Secretaría de Finanzas y Administración se reserva el derecho para practica
 
 Es objeto del impuesto sobre Compraventa de Vehículos de Motor Usados la percepción de ingresos derivados de la compra-venta de automóviles, camiones, yates, lanchas motorizadas y demás clases de vehículos de motor usados, salvo que se encuentre gravado por el Impuesto al Valor Agregado.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 30.
 
-Son sujetos de este impuesto, las personas físicas que perciban ingresos como resultado de las operaciones de compraventa a que se refiere el artículo anterior, siendo solidario responsable el adquirente, siempre y cuando por dichas operaciones, no se cause el Impuesto al Valor Agregado.
+Son sujetos de este impuesto, las personas físicas que perciban ingresos como resultado de las operaciones de compraventa a que se refiere el artículo anterior, siendo solidario responsable como retenedor el adquirente, quien adquiere la obligación de enterarlo a la Administración o Agencia Fiscal correspondiente, a más tardar dentro de los 17 días siguientes a la operación de compraventa, siempre y cuando por dichas operaciones, no se cause el Impuesto al Valor Agregado.
 
 ###### ARTICULO 31.
 
@@ -459,9 +513,11 @@ La base gravable para efectos de este impuesto, será determinada conforme a las
 
 Las autoridades fiscales, mediante reglas de carácter general, podrán emitir criterios y procedimientos que simplifiquen la práctica de la determinación del valor comercial.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 32.
 
-El impuesto sobre la compra-venta de vehículos de motor usados, se causará con la tasa del 1.5 %.
+El impuesto sobre la compra-venta de vehículos de motor usados, se causará con la tasa del 1%.
 
 En el caso de la venta de motocicletas, yates, lanchas, motonetas náuticas y otros vehículos de motor acuáticos, su impuesto se causará con la tasa del 1.5% sobre el valor de la operación.
 
@@ -469,7 +525,9 @@ En el caso de la venta de motocicletas, yates, lanchas, motonetas náuticas y ot
 
 Para la aplicación de este impuesto se observarán las siguientes disposiciones:
 
-I.- Las personas físicas o morales que lleven a cabo las operaciones de compraventa a que este impuesto se refiere, deberán presentar dentro de los 30 días siguientes a la fecha de la misma, una manifestación ante la oficina recaudadora correspondiente, a fin de proporcionar los datos y documentos que acrediten la transacción, tales como domicilio, los nombres de los contratantes, vehículo, marca, modelo; etc.; así como los comprobantes de estar al corriente de sus obligaciones fiscales.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+I.- Las personas físicas o morales que lleven a cabo las operaciones de compraventa a que este impuesto se refiere, deberán presentar dentro de los 30 días siguientes a la fecha de la misma, declaración informativa ante la oficina recaudadora correspondiente, a fin de proporcionar los datos y documentos que acrediten la transacción tales como domicilio, los nombres de los contratantes, vehículo, marca, modelo, etc.; así como los comprobantes de estar al corriente de sus obligaciones fiscales.
 
 No se causará este impuesto en los casos de operaciones realizadas en otras entidades federativas o el Distrito Federal, siempre y cuando, se exhiba el recibo oficial de pago que compruebe haber cubierto este impuesto.
 
@@ -521,6 +579,26 @@ El Impuesto Sobre Remuneraciones al Trabajo Personal, se causará con la tasa de
 
 Las dependencias del Gobierno Federal, Estatal o Municipal, así como los organismos y empresas paraestatales que contraten con personas físicas o morales la realización de obras o servicios, están obligadas a informar por escrito de las mismas, a la Secretaría de Finanzas y Administración del Gobierno del Estado de Guerrero, dentro de los 15 días siguientes a la firma del o de los contratos respectivos, asimismo, deberán exigir a los contratados su comprobante de inscripción para efectos del pago del Impuesto Sobre Remuneraciones al Trabajo Personal ante la Administración o Agencia Fiscal estatal, donde se encuentre ubicada la obra.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+###### ARTICULO 40 Bis.
+
+La Secretaría de Finanzas y Administración podrá celebrar Convenios de Colaboración Administrativa, para la recaudación del Impuesto Sobre Remuneraciones al Trabajo Personal Subordinado con: las dependencias y entidades del Gobierno Federal, los Municipios del Estado, Fideicomisos Públicos Estatales y Municipales, Organismos Públicos Autónomos y Descentralizados, y Empresas de Participación Municipal y Estatal, que contraten con personas físicas o morales la realización de obras o servicios en el Estado de Guerrero, con el objeto de que se constituyan como retenedores de dicho impuesto, a favor de la Hacienda Pública estatal; en los cuales podrán establecerse incentivos a favor de las Entidades y Entes Públicos Estatales y Municipales, que recauden por cuenta del Estado dicho Impuesto.
+
+La recaudación obtenida en términos de los párrafos que anteceden, deberá enterarse a más tardar el día 17 del mes siguiente, mediante declaración que presentaran ante la Administración o Agencia Fiscal Estatal y/o oficinas autorizadas por la Secretaria de Finanzas y Administración.
+
+La retención a que se refiere este artículo se hará sobre la estimación que de los sueldos le presente el contratista en la proporción en que estas le sean total o parcialmente pagadas.
+
+Los retenedores en términos de este artículo, deberán presentar a más tardar dentro de los tres primeros meses del ejercicio siguiente, declaración informativa proporcionando información sobre las personas a quienes les hayan efectuado dichas retenciones, en las formas autorizadas para tal efecto ante las Administraciones o Agencia Fiscal Estatal y/o oficinas autorizadas.
+
+Serán sujetos de retención del Impuesto Sobre Remuneraciones al Trabajo Personal Subordinado, los derechos de cobro que tienen los contratistas o subcontratistas, sobre las estimaciones por trabajos ejecutados, que se deriven de los contratos de obra pública y servicios relacionados; así también los derechos cedidos parcial o completamente para el cobro a favor de otra persona distinta de estos.
+
+La Secretaría de Finanzas podrá verificar en cualquier momento, el cumplimiento de la obligación fiscal como resultado de la contratación de obras publicas y servicios relacionados con las mismas.
+
+El retenedor deberá comunicar dentro de los quince días siguientes a la conclusión de la obra a la Secretaria de Finanzas, sobre la conclusión de los trabajos encomendados al contratista o subcontratista.
+
+En el caso de las Dependencias y Entidades del Gobierno del Estado, quedan obligadas a efectuar la retención del Impuesto Sobre Remuneraciones al Trabajo Personal Subordinado, que se genere por las personas físicas o morales que sean beneficiadas con la asignación de contratos para la realización de obras públicas, en términos de los párrafos anteriores a que se refiere este artículo.
+
 ###### ARTICULO 41.
 
 Están exentas del pago de este impuesto:
@@ -541,7 +619,11 @@ f) Gastos de representación y viáticos efectiva y directamente erogados por el
 
 g) Servicios de comedor y comida proporcionada a los trabajadores.
 
-h) Vales de despensa
+h) Vales de despensa.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+Las despensas en especie o en dinero, se considerará exento hasta un importe del 40% de un salario mínimo del área geografía del contribuyente elevado al año.
 
 i) Becas educacionales y deportivas.
 
@@ -552,6 +634,10 @@ k) Pagos a discapacitados.
 l) Prima de seguros por gastos médicos o de vida.
 
 m) Premios por asistencia.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+En este caso, se considerará exento hasta un importe del 10% del salario mínimo del área geográfica del trabajador.
 
 > <small>(REFORMADO, P.O. 24 DICIEMBRE 2002)</small>
 
@@ -569,13 +655,13 @@ En el caso de personas morales para que los conceptos mencionados en este precep
 
 II.- Las erogaciones que efectúen:
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE 2003)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
-a).- El Estado y Municipio. No quedan comprendidos en esta exención los cubiertos por los organismos públicos descentralizados, las empresas de participación estatal y las que se asemejan a éstas, así como los organismos públicos descentralizados del sector educación.
+a) El Estado y Municipio. No quedan comprendidos en esta exención los cubiertos por los organismos públicos descentralizados, estatales o municipales, las empresas de participación estatal y las que se asemejan a éstas, así como los organismos públicos descentralizados del sector educación.
 
 b) Instituciones de Beneficencia Pública o privada, siempre y cuando realicen actividades de fines asistencia social en cualquier tiempo o formas, así como actividades deportivas, culturales o sociales.
 
-c) Sindicatos de trabajadores, agrupaciones políticas debidamente registradas; agrupaciones de empresarios en cámaras, uniones y asociaciones, agrupaciones y asociaciones de profesionistas sin fines lucrativos.
+c) (DEROGADO, P.O. 27 DE DICIEMBRE DE 2005)
 
 d) Las personas físicas que se dediquen a las actividades agrícolas, ganaderas, silvícolas y de pesca, con ingresos anuales menores de veinte veces el salario mínimo general correspondiente al área geográfica elevado al año.
 
@@ -629,9 +715,11 @@ Los impuestos adicionales se pagarán en el mismo acto en que se pague el concep
 
 ### CAPITULO VIII. DEL IMPUESTO SOBRE LA PRESTACION DE SERVICIOS DE HOSPEDAJE
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 48.
 
-Es objeto del Impuesto sobre la Prestación de Servicios de Hospedaje, la percepción de ingresos, dentro del territorio del Estado, por la prestación del servicio de hospedaje, en hoteles, moteles, tiempo compartido, campamentos, hosterías, posadas, mesones, paraderos de casas rodantes, casas de huéspedes, suites, villas, bungalows, casas y departamentos amueblados y todo tipo de construcción en que se proporcione alojamiento.
+Es objeto del Impuesto sobre la Prestación de Servicios de Hospedaje, la percepción de ingresos, dentro del territorio del Estado, por la prestación del servicio de hospedaje o albergue temporal, en hoteles, moteles, en las edificaciones regidas por la modalidad de uso en tiempo compartido o multipropiedad, campamentos, hosterías, posadas, mesones, paraderos de casas rodantes, casas de huéspedes, suites, villas, bungalows, casas y departamentos amueblados y todo tipo de construcción en que se proporcione alojamiento.
 
 Para los efectos de este impuesto se consideran servicios de hospedaje, la prestación de alojamiento o albergue temporal de personas a cambio de una contraprestación.
 
@@ -641,7 +729,9 @@ El 7% de los ingresos que genere la recaudación de este impuesto, se destinará
 
 El Estado entregará a los Fideicomisos, que se establezcan en los Municipios los ingresos netos captados en cada uno de ellos, en un término de treinta días siguientes al mes en que se deba enterar este impuesto.
 
-Los fideicomisos presentarán en forma semestral, a la Secretaría de Finanzas y Administración en los meses de julio y diciembre de cada año, un informe en el que se indique su situación financiera, los resultados de operación, así como el origen y aplicación de los recursos entregados por el Gobierno del Estado.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+Los fideicomisos presentarán en el mes de enero al Comité Técnico sus proyectos del ejercicio de recursos financieros y su programa operativo anual; y a la Secretaría de Finanzas y Administración un informe semestral en los meses de enero y julio de cada año, en el que se indique su situación financiera, los resultados de operación cualitativa y cuantitativa, así como el origen y aplicación de los recursos entregados por el Gobierno del Estado y por los particulares.
 
 ###### ARTICULO 49.
 
@@ -661,7 +751,9 @@ En ningún caso se considerará que el impuesto al valor agregado que se cause p
 
 Cuando los contribuyentes convengan la prestación de servicios de hospedaje e incluyan servicios accesorios, tales como transportación, comida, uso de instalaciones, u otros similares y no desglosen y comprueben la prestación de estos últimos, se entenderá que el valor de la contraprestación respectiva corresponde a servicios de hospedaje.
 
-Tratándose de los servicios proporcionados bajo el régimen del sistema de tiempo compartido, la base del impuesto será el valor de la contraprestación, que el usuario pague por concepto de cuotas de mantenimiento.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+Tratándose de los servicios proporcionados bajo el régimen del sistema de tiempo compartido, la base del impuesto será el valor de la contraprestación, que el usuario pague por concepto de cuotas de mantenimiento, cada vez que haga uso de sus derechos convenidos sobre un bien o parte del mismo.
 
 Para efectos del párrafo que antecede, se entenderá por tiempo compartido, lo que al respecto establezca la Ley de Regulación y Fomento del Sistema de Tiempo Compartido del Estado de Guerrero.
 
@@ -759,9 +851,11 @@ De 31 en adelante 3.84
 
 V.- En el caso de vehículos de carga o de arrastre, se pagará una cuota de 0.95 por cada tonelada de capacidad de carga o de arrastre.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 60.
 
-Este impuesto se pagará anualmente mediante declaración, en la forma oficial autorizada por la Secretaría de Finanzas y Administración dentro de los tres primeros meses de cada año, conjuntamente con los derechos de control vehicular ante las administraciones o Agencias Fiscales Estatales.
+Este Impuesto se pagará anualmente mediante declaración, en la forma oficial autorizada por la Secretaría de Finanzas y Administración dentro de los tres primeros meses de cada año, conjuntamente con los derechos de control vehicular ante las Administraciones o Agencias Fiscales Estatales y/o oficinas autorizadas para tal efecto.
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -781,7 +875,7 @@ Son sujetos de los derechos, las personas físicas o morales que solicitan la pr
 
 Los derechos se causarán de conformidad con las tasas y tarifas que se establezcan en la presente Ley y se pagarán en cualquiera de las Oficinas Recaudadoras establecidas por la Secretaría de Finanzas y Administración en el Estado, excepto los causados por los Servicios que preste la Dirección General del Registro Público de la Propiedad del Comercio y Crédito Agrícola, así como los Derechos que se causen por el servicio público de transporte los cuales deberán ser cubiertos en la Oficina Recaudadora que para tal efecto designe el C. Secretario de Finanzas y Administración.
 
-Para la conversión de los factores a que se refiere esta Ley, cada uno de éstos deberá multiplicarse por el salario mínimo diario vigente determinado por la Comisión Nacional de Salarios Mínimos y publicados en el Diario Oficial de la Federación. El salario mínimo aplicable será el de la Zona A. El producto resultante será la cuota o tarifa a cobrar por cada uno de los conceptos referidos.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE 2003)</small>
 
@@ -813,9 +907,11 @@ La Secretaría de Finanzas y Administración del Gobierno del Estado, autorizar�
 
 I.- Es obligación de los Peritos Valuadores que practiquen la valuación con fines fiscales en el territorio de los municipios del Estado, inscribirse en el Registro Estatal de Peritos Valuadores, el cual estará bajo el control y vigilancia de la misma Secretaría. La vigencia del Registro será de un ejercicio fiscal;
 
-II.- Realizar sus Avalúos con responsabilidad, honestidad, profesionalismo, y estricto apego al Reglamento de Valuación Inmobiliaria con Fines Fiscales y del Registro de Peritos Valuadores del Estado de Guerrero, mediante el cual se sujetará el ejercicio de la actividad valuatoria en la Entidad;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
-III.- Emitir de manera personal el dictamen técnico plasmado en el avalúo con fines fiscales que en todo momento realicen, el cual estará bajo su propia responsabilidad.
+II.- Realizar sus Avalúos con responsabilidad, honestidad, profesionalismo, y estricto apego al Reglamento de Valuación Inmobiliaria con Fines Fiscales y del Registro de Peritos Valuadores del Estado de Guerrero, mediante el cual se sujetará el ejercicio de la actividad valuadora en la Entidad;
+
+III.- Emitir de manera personal el dictamen técnico plasmado en el avalúo con fines fiscales que en todo momento realicen, el cual estará bajo su propia responsabilidad;
 
 IV.- La vigencia del Avalúo con Fines Fiscales será de seis meses, contados a partir de la fecha de su autorización.
 
@@ -877,27 +973,253 @@ Los adquirentes de predios afectos al pago de derechos de cooperación que se es
 
 Por los servicios que proporcionen las Autoridades de Tránsito, se causarán y pagarán los derechos respectivos conforme a la siguiente:
 
-VEASE TABLA ANEXA
+T A R I F A
+
+I.- LICENCIAS PARA MANEJAR VEHICULOS:
+
+A).- Expedición o reposición por extravío o deterioro, por 3 años:
+
+1.- Chofer; 4.64
+
+2.- Automovilista; 3.45
+
+3.- Motociclistas, operadores de motonetas o similares, y 2.07
+
+4.- Duplicado de licencias por extravío 2.38
+
+B).- Expedición o reposición por extravío, por 5 años:
+
+1.- Chofer; 6.21
+
+2.- Automovilista; 4.95
+
+3.- Motociclistas, operadores de motonetas o similares, y 2.72
+
+4.- Duplicado de Licencia por extravío. 3.22
+
+C).- Licencia provisional para manejar hasta por 30 días: 1.72
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+D).- Para menores de edad de 16 a 18 años hasta por 6 meses: 6.72
+
+El pago de estos derechos incluye examen médico y de manejo.
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2002)</small>
+
+II.- OTROS SERVICIOS
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+A).- Permiso provisional para circular sin placas a particulares por 30 días únicamente a vehículos modelo 2005 y 206 8.53
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+B).- Permisos Provisionales de 30 días para circular sin una placa según acta levantada en el Ministerio Público o Juzgado de Paz 3 .15
+
+C).- Expedición de duplicados de infracción por pérdida de la misma 0.66
+
+D).- Por arrastre con grúa de vía pública a los corralones
+
+1.- Cuando se requiera el servicio con vehículos cuya capacidad de arrastre sea de hasta 3.5 toneladas 4.73
+
+2.- Cuando se requiera el servicio con vehículos cuya capacidad de arrastre sea mayor a 3.5 toneladas 7.10
+
+E).- Constancia Certificada de documento 0.66
+
+F).- Por pisaje en el corralón e tránsito por unidad, por día 0.43
+
+G).- Por cada verificación obligatoria, sobre emisión de contaminantes de un vehículo automotor, su propietario poseedor deberá pagar previamente los derechos por los servicios de esta verificación conforme las siguientes cuotas:
+
+1.- Vehículos de motor a gasolina, incluyendo motocicletas 1.77
+
+2.- Vehículos de motor a diesel 5.30
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2002)</small>
+
+III. REVISTAS
+
+A).- Todo tipo de servicio particular de carga, incluyendo tarjetón
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2003)</small>
+
+1.- Electromecánica 1.50
 
 ### CAPITULO V
 
 DE LOS DERECHOS POR SERVICIOS PROPORCIONADOS POR LAS AUTORIDADES DE TRANSPORTE.
 
-###### ARTICULO 81.
+###### ARTICULO 81
 
 Por los servicios de Control Vehicular se causarán y pagarán los derechos correspondientes conforme a la siguiente:
 
-VEASE TABLA ANEXA
+T A R I F A
+
+I.- Por la expedición de placas, tarjeta de circulación y calcomanía de matrícula de automóviles, camionetas, remolques y similares de servicio particular:
+
+A).- Expedición inicial., y 5.49
+
+B).- Para la reposición, canje de placas o por cualquier circunstancia, se deberá cubrir la cantidad de: 6.61
+
+II.- Por el refrendo anual de la matrícula: 2.54
+
+III.- Por la expedición inicial, reposición por extravío o deterioro y canje de placas y tarjeta de circulación de:
+
+A).- Motocicletas, motonetas y similares 3.73
+
+B).- Bicicletas 0.85
+
+C).- Vehículos de mano 0.58
+
+D).- Placas para demostración 13.75
+
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+
+IV.- Cambio de vehículo, si se conservan las mismas placas por unidad 4.46
+
+V.- Cambio de motor o carrocerías de vehículos por unidad 3.00
+
+VI.- Baja de vehículos por unidad 3.00
+
+VII.- Baja de placas 3.00
+
+VIII.- Expedición de constancia de alta y baja del servicio 5.49
+
+IX.- Por reposición de tarjeta de circulación y holograma 3.73
 
 ### CAPITULO VI
 
 DE LOS DERECHOS POR REGISTRO PÚBLICO DE LA PROPIEDAD, DEL COMERCIO Y CRÉDITO AGRÍCOLA.
 
-###### ARTICULO 82.
+###### ARTICULO 82
 
 Para el otorgamiento o renovación, transferencia o ampliación de ruta, de licencias o concesiones para explotar el servicio público de transporte, se causarán y pagarán los derechos siguientes:
 
-VEASE TABLA ANEXA
+I.- SERVICIOS DE CONTROL VEHICULAR
+
+A).- Por la expedición de placas, tarjeta de circulación y calcomanía de matrícula de taxis, autobuses, camionetas de servicio público y autos en renta:
+
+1.- Expedición inicial 19.17
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+2.- Reposición por extravío, robo, deterioro o canje de placas 15.12
+
+B).- Por el refrendo anual de la matrícula 9.16
+
+C).- Por la expedición inicial, reposición por extravío o deterioro y canje de placas y tarjeta de circulación de:
+
+1.- Motocicletas 3.67
+
+2.- Bicicletas 0.98
+
+3.- Calandrias 0.98
+
+D).- Permiso provisional para circular sin placas por 30 días 6.97
+
+II.- OTROS SERVICIOS, TALES COMO:
+
+A).- Reposición de tarjetón de revistas 1.53
+
+B).- Cambio de motor o carrocería 1.90
+
+C).- Alta de vehículo 1.90
+
+D).- Baja de vehículo 1.90
+
+E).- Constancia certificada de documento 0.73
+
+F).- Constancia de baja de servicio 5.96
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+G).- Sustitución de vehículos, mensualmente 5.10
+
+H).- Cambio y/o ampliación de ruta 47.17
+
+I).- Reposición de permisos 2.71
+
+J).- Permiso para circular fuera de ruta, por día 0.98
+
+K).- Reposición de holograma y tarjeta de circulación 8.83
+
+L).- Cambio de naturaleza de servicio 60.64
+
+III.- CONCESIONES.
+
+> <small>(REFORMADO, P.O. 24 DICIEMBRE 2002)</small>
+
+A).- Expedición inicial
+
+1.- Taxis, mixto doméstico, urbano en: Autobús, microbús y vagoneta y transporte turístico. 406.42
+
+2.- Autos en renta sin chofer. 90.75
+
+3.- Camiones urbanos y suburbanos. 181.46
+
+4.- Materialistas, de carga, mixto de ruta, mudanza y ruta alimentadora. 181.46
+
+5.- Pipas, Grúas y Escuelas de manejo. 145.15
+
+6.- Transporte sanitario de carne. 90.75
+
+7.- Motocicletas y bicicletas. 36.31
+
+8.- Calandrias. 18.16
+
+9.- Renovación de concesión cada 10 años. 164.95
+
+B).- Cambio de sitio. 28.72
+
+C).- Renovación anual:
+
+1.- Todo tipo de servicio, excepto autos en renta sin chofer. 8.66
+
+2.- Autos en renta sin chofer. 6.17
+
+D).- Transferencias:
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+
+1.- Taxis, mixto doméstico, autobús, microbús, vagoneta y autos en renta 145.17
+
+2.- Autos en renta sin chofer 72.59
+
+3.- Camiones urbanos y suburbanos 145.18
+
+4.- Materialistas de carga, mixto de ruta y mudanza 145.18
+
+5.- Pipas y grúas 116.13
+
+6.- Motocicletas y bicicletas 29.05
+
+7.- Calandrias 14.53
+
+8.- En caso de fallecimiento o incapacidad física o mental del concesionario, a su cónyuge, concubina, concubino o hijo menor de edad, sin costo por concepto de Derechos, con fundamento en el artículo 67, fracción IV, de la Ley de Transporte y Vialidad del Estado.
+
+E).- Concesión para terminales de líneas de vehículos de transporte público. 12.63
+
+F).- Duplicado de documentos. 2.49
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+G).- Permisos para transportar carga en vehículo particular por 7 días, siempre y cuando no se oponga a lo dispuesto en el Artículo 10-A de la Ley de Coordinación Fiscal Federal. 1.53
+
+H.- Permisos para auto en renta sin chofer por 30 días. 6.13
+
+IV.- REVISTAS:
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+
+A).- Todo tipo de servicio público incluyendo tarjetón:
+
+1.- Electromecánica 1.53
+
+2.- De confort 1.53
+
+V.- EXPEDICIÓN O REPOSICIÓN DE LICENCIA ÚNICA DE MANEJO PARA EL SERVICIO PUBLICO DE TRANSPORTE 6.21
+
+A) Por el servicio médico de medicina preventiva de transporte, para expedición de la licencia única de manejo 1.75
 
 ### CAPITULO VII
 
@@ -929,15 +1251,9 @@ Créditos de $240,000.01 a $600,000.00 40%
 
 VII.- Todos los actos de inscripción de cooperativas legalmente registradas ante las autoridades respectivas, estarán exentas del pago de este gravamen, previa autorización de la Secretaría de Finanzas y Administración;
 
-VIII.- Las anotaciones por herencias o remates,
+VIII.- Las anotaciones por herencias o remates, causarán derechos sobre el valor de los mismos; 4 al millar
 
-causarán derechos sobre el valor de los mismos; 4 al millar
-
-IX.- Las anotaciones y sus cancelaciones que
-
-se hicieren a solicitud de los interesados o por
-
-mandato judicial; 3.0
+IX.- Las anotaciones y sus cancelaciones que se hicieren a solicitud de los interesados o por mandato judicial; 3.0
 
 X.- Por la inscripción de planos de fraccionamientos de terrenos, así como de actos, convenios o resoluciones administrativas o judiciales por las que se lotifique, relotifique, divida o subdivida un inmueble, causarán derechos de inscripción como sigue:
 
@@ -1115,9 +1431,9 @@ e).- Copias simples, si no exceden de 10 hojas 0.46
 
 f).- Si se exceden de 10 hojas, por cada una excedente 0.16
 
-### CAPITULO IX
+### CAPITULO IX. DERECHOS POR SERVICIOS DE SALUBRIDAD Y DE PROTECCIÓN CONTRA RIESGOS SANITARIOS
 
-DERECHOS POR SERVICIOS DE SALUBRIDAD.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 85.
 
@@ -1125,13 +1441,15 @@ Por el reconocimiento de estudios, grados académicos, expedición de títulos p
 
 VEASE TABLA ANEXA
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
 ### CAPITULO X
 
 DERECHOS POR LA EXPEDICIÓN DE CONSTANCIA DEL EJECUTIVO DEL ESTADO DE NO EXISTENCIA DE RIESGOS PARA EL TRANSPORTE O USO DE EXPLOSIVOS.
 
 ###### ARTICULO 86.
 
-Los derechos por servicios de salubridad se liquidarán conforme a la siguiente:
+Los derechos por servicios de salubridad y de protección contra riesgos sanitarios, se liquidarán conforme a la siguiente:
 
 T A R I F A:
 
@@ -1151,7 +1469,9 @@ II.- POR LA EXPEDICION DE CERTIFICADOS DE SALUD O INCAPACIDAD.
 
 Centro o Unidad móvil 0.30
 
-III.- POR LAS LICENCIAS QUE SE OTORGUEN PARA EL TRASLADO DE CADÁVERES O RESTOS ÁRIDOS.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+III.- POR LOS PERMISOS QUE SE OTORGUEN PARA EL TRASLADO DE CADÁVERES O RESTOS ÁRIDOS.
 
 a).- Dentro del mismo cementerio. 1.40
 
@@ -1163,21 +1483,59 @@ d).- Por entrada o salida del Estado pero dentro de la República. 6.82
 
 e).- Para fuera de la República. 34.20
 
-IV.- POR SERVICIOS DE DESINFECCION.
-
-a).- Desinfección de vehículos de pasajeros por unidad. 0.44
-
-b).- Desinfección de locales según superficie por metro cuadrado. 0.03
+IV.- (DEROGADA, P.O. 27 DE DICIEMBRE DE 2005)
 
 V.- POR LAS CUOTAS DE RECUPERACIÓN POR LA PRESTACIÓN DE SERVICIOS MEDICOS.
 
-Las personas físicas que utilicen los servicios médicos que prestan las Instituciones dependientes de la Secretaría de Salud del Gobierno del Estado de Guerrero pagarán Derechos, los que tendrán el carácter de cuotas de recuperación del costo de los servicios y en ningún caso excederán del 70% de dicho costo conforme al Tabulador de Cobro de Derechos que publique la Secretaría de Finanzas y Administración.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
-El monto de las cuotas citadas se determinará atendiendo a las condiciones socioeconómicas del solicitante de los servicios médicos, estableciéndose en el Tabulador de Cobro la clasificación de los mismos en tantas categorías como sea necesario.
+Las personas físicas y morales que utilicen los servicios médicos que prestan las instituciones dependientes de la Secretaría de Salud del Gobierno del Estado pagarán Derechos, los que tendrán el carácter de cuotas de recuperación del costo de los servicios conforme al Tabulador de Cobro de Derechos que publique la Secretaría de Finanzas y Administración.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+El monto de las cuotas citadas se determinará atendiendo a las condiciones socioeconómicas del solicitante conforme al tabulador aprobado.
 
 Quedan exceptuadas del pago de dichas cuotas, las personas cuyos ingresos sean hasta una vez el salario mínimo general de la zona económica correspondiente a la Localidad en que resida el solicitante de los servicios médicos, vigente en el momento de la prestación del servicio.
 
 La autoridad competente elaborará y aprobará los dictámenes por virtud de los cuales se establezcan las condiciones socioeconómicas de las personas que se mencionan en esta fracción.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+VI.- POR LOS SERVICIOS QUE PRESTA LA AUTORIDAD SANITARIA POR ACTIVIDADES REGULADAS POR LA MISMA, PARA LA PROTECCIÓN CONTRA RIESGOS SANITARIOS.
+
+Las actividades a las que se hace alusión se refieren a las señaladas en el Acuerdo Específico de Coordinación para el ejercicio de facultades en materia de control y fomento sanitarios que celebró la Secretaría de Salud, con la participación de la Comisión Federal Para La Protección Contra Riesgos Sanitarios, y el Estado de Guerrero, publicado en el Diario Oficial de la Federación el 28 de julio de 2004.
+
+a) Por apertura todos los establecimientos y personas que no requieran de autorización sanitaria, están obligados a presentar por escrito el aviso a la autoridad sanitaria, para el trámite del comprobante correspondiente, en los términos que establece el Artículo 174 de la Ley No. 159 de Salud del Estado.
+
+Por la modificación de datos en el comprobante de aviso se pagará el 50% del derecho que le corresponda conforme al Tabulador del Cobro de Derechos que publique la Secretaría de Finanzas y Administración.
+
+Por el duplicado del comprobante de aviso se pagará el 25% del derecho que le corresponda conforme al Tabulador de Cobro de Derechos que publique la Secretaría de Finanzas y Administración.
+
+b) Por apertura todos los establecimientos que requieran de Licencia Sanitaria están obligados a presentar por escrito la solicitud para el trámite del comprobante correspondiente en los términos que establecen los artículos 254, 255 y 256 de la Ley No. 159 de Salud del Estado.
+
+Por la modificación de datos en la Licencia Sanitaria se pagará el 50% del derecho que le corresponda conforme al Tabulador de Cobro de Derechos que publique la Secretaría de Finanzas y Administración.
+
+Por el duplicado de la Licencia Sanitaria se pagará el 25% del derecho que le corresponda conforme al Tabulador de Cobro de Derechos que publique la Secretaría de Finanzas y Administración.
+
+La vigencia de los comprobantes de aviso de funcionamiento y Licencias Sanitarias que se señalan en los incisos a y b es por tiempo indeterminado, debiendo refrendarse anualmente con el pago del 50% del monto inicial.
+
+En el caso del Comprobante de Aviso de Importación la vigencia es por un año.
+
+c) Todos los establecimientos, personas y actividades que requieren de un permiso sanitario, están obligados a presentar por escrito la solicitud para el trámite del comprobante correspondiente, en los términos que establece el artículo 375 de la Ley General de Salud.
+
+Por la modificación de datos en el Permiso Sanitario, se pagará el 50% del derecho que le corresponda, conforme al Tabulador de Cobro de Derechos que publique la Secretaría de Finanzas y Administración.
+
+Por el duplicado del Permiso Sanitario, se pagará el 25% del derecho que le corresponda conforme al Tabulador de Cobro de Derechos que publique la Secretaría de Finanzas y Administración.
+
+Los derechos que establece este artículo, se pagarán de acuerdo a los montos establecidos para cada establecimiento, cuya actividad está sujeta a regulación y que serán publicados por la Secretaría de Finanzas y Administración.
+
+d) Visitas de Verificación Sanitaria.
+
+Por las visitas de verificación que la autoridad sanitaria realice a los establecimientos para comprobar la corrección de anomalías detectadas, se pagarán derechos de acuerdo a lo señalado, en el tabulador de cobro, que publicará la Secretaría de Finanzas y Administración.
+
+Por cada solicitud de visita de verificación para constatar la destrucción de estupefacientes o psicotrópicos, pagarán derechos de acuerdo a lo señalado en el tabulador de cobro.
+
+El monto de las cuotas señaladas en esta fracción, se cobrarán conforme al tabulador de cobros que publique la Secretaría de finanzas y Administración.
 
 ### CAPITULO XI. DERECHOS POR LA EXPEDICIÓN DE LOS CERTIFICADOS DE OPERACIÓN DE LOS DESARROLLADORES DEL SISTEMA DE TIEMPO COMPARTIDO Y MULTIPROPIEDAD
 
@@ -1259,6 +1617,26 @@ I.- Expedición Inicial 155.59
 
 II.- Refrendo Anual 51.83
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+###### ARTICULO 99 Bis.
+
+Para el cobro de los derechos por el servicio de certificación de avalúos con fines fiscales, se aplicara una tarifa general del 2.0 al millar sobre el valor fiscal del avalúo, bajo la siguiente clasificación:
+
+a).- Valor fiscal menor a 800.00 salarios mínimos, se cobrará un salario mínimo;
+
+b).- Valor fiscal mayor a 800.01 salarios mínimos y hasta 1,100.00 salarios mínimos, se aplicará sobre el 60% del Valor fiscal; la cantidad a cobrar no será menor a un Salario mínimo.
+
+c).- Valor fiscal mayor a 1,100.01 salarios mínimos y hasta 2,150.00 salarios mínimos, se aplicará sobre el 50% del Valor fiscal; la cantidad a cobrar no será menor a 1.10 salarios mínimos.
+
+d).- Valor fiscal mayor a 2,150.01 salarios mínimos y hasta 10,600.00 salarios mínimos, se aplicará sobre el 40% del Valor fiscal; la cantidad a cobrar no será menor a 1.72 salarios mínimos.
+
+e).- Valor fiscal mayor a 10,600.01 salarios mínimos y hasta 32,050.00 salarios mínimos, se aplicará sobre del (sic) 30% del Valor fiscal; la cantidad a cobrar no será menor a 6.36 salarios mínimos.
+
+f).- Valor fiscal mayor a 32,050.01 salarios mínimos y hasta 85,500.00 salarios mínimos, se aplicará sobre el 25% del valor fiscal; la cantidad a cobrar no será menor a 16.02 salarios mínimos.
+
+g).- Valor fiscal mayor a 85,500.01 salarios mínimos, se aplicará sobre el 20% del valor fiscal; y; la cantidad a cobrar no será menor a 34.20 salarios mínimos.
+
 ###### ARTICULO 100.
 
 Cuando una persona moral o física haga uso del Sistema Estatal de Información Turística de Guerrero, deberá cubrir las tasas que se indican por el costo de la reservación u operación que realice.
@@ -1271,7 +1649,9 @@ c).- Tarifas netas grupales de paquetes hoteleros 5%
 
 d).- Venta de boletos de autobús 9.5%
 
-Las instituciones, organismos o sindicatos que utilicen el Sistema Estatal de Información Turística de Guerrero, podrán obtener una reducción hasta de un 50% del monto que resulte a pagar por la aplicación de la tasa señalada en el párrafo anterior; este descuento invariablemente se gestionará ante la Secretaría de Finanzas y Administración, siendo ésta la facultada para su otorgamiento cuando así proceda.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+Las instituciones, organismos o sindicatos del Estado de Guerrero que utilicen el Sistema Estatal de Información Turística de Guerrero, podrán obtener una reducción hasta de un 50% del monto que resulte a pagar por la aplicación de la tasa señalada en el párrafo anterior; este descuento invariablemente se gestionará ante la Secretaría de Finanzas y Administración, siendo ésta la facultada para su otorgamiento cuando así proceda.
 
 ###### ARTICULO 101.
 
@@ -1491,6 +1871,12 @@ h) Otros recurso federalizados
 
 El Gobierno del Estado a través de las empresas de participación estatal directa, obtendrá los ingresos que derivado de la operación de las mismas, se generen.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+###### ARTICULO 114 Bis.
+
+Para la conversación de los factores a que se refiere esta Ley, cada uno de éstos deberá multiplicarse por el salario mínimo diario vigente determinado por la Comisión Nacional de Salarios Mínimos y publicado en el Diario Oficial de la Federación. El salario mínimo aplicable será el del área geográfica “A”. El producto resultante será la cuota o tarifa a cobrar por cada uno de los conceptos referidos.
+
 ## TITULO DECIMO. DISPOSICIONES GENERALES
 
 ###### ARTICULO 115.
@@ -1499,9 +1885,11 @@ En los casos de prórroga para el pago de créditos fiscales, se causarán recar
 
 Los porcentajes de recargos que establece el artículo 45 de la presente Ley, sufrirán modificaciones por los ajustes que al efecto se hagan sobre Contribuciones Federales.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 116.
 
-La participación de los municipios en la recaudación federal, se hará con base a la Ley de Coordinación Fiscal y al Convenio de Colaboración Administrativa en materia Fiscal Federal.
+La participación de los municipios en la recaudación federal, se hará con base a la Ley de Coordinación Fiscal, Ley Número 251 que crea el Sistema Estatal de Coordinación Fiscal y Establece las Bases, Montos y Plazos a los que se sujetarán las Participaciones Federales y al Convenio de Colaboración Administrativa en materia Fiscal Federal.
 
 ###### ARTICULO 117.
 
@@ -1567,7 +1955,7 @@ Es contribuyente directo de este impuesto el vendedor, pero se considera solidar
 
 ###### ARTICULO 128.
 
-Por error en el articulado no se señalo en el decreto de la publicación de esta ley.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2005)
 
 ###### ARTICULO 129.
 
@@ -1629,7 +2017,7 @@ El impuesto se causará conforme a la tarifa que fije la Ley de Ingresos del Est
 
 ###### ARTICULO 137.
 
-Para los efectos de este impuesto, se considerará :
+Para los efectos de este impuesto, se considerará:
 
 I.- Que se tiene derecho a obtener ingresos gravables las personas que celebren alguno de los actos o contratos que se enumeran en el artículo 134.
 
@@ -1677,7 +2065,7 @@ El impuesto sobre productos de capitales dejara de causarse cuando se extinga de
 
 ###### ARTICULO 142.
 
-Los contribuyentes de este impuesto están obligados :
+Los contribuyentes de este impuesto están obligados:
 
 I.- A hacer una manifestación por escrito ante las oficinas recaudadoras correspondientes, dentro de los 15 días siguientes a la autorización de la escritura o de la celebración del acto o contrato del que se derive el derecho de obtener los ingresos a que se refiere el artículo 134. Dicha manifestación deberá hacerse en las formas oficiales respectivas.
 
@@ -1809,7 +2197,7 @@ IV.- Las comisiones y mediaciones mercantiles.
 
 ###### ARTICULO 161.
 
-Para los efectos de este impuesto se considerara :
+Para los efectos de este impuesto se considerara:
 
 I.- Enajenación, toda traslación de dominio de carácter mercantil por la cual se perciba un ingreso.
 
@@ -1951,7 +2339,7 @@ Los contribuyentes por iniciativa propia no podrán hacer ratificaciones a que s
 
 ###### ARTICULO 179.
 
-Estarán exentos del pago de este impuesto los ingresos provenientes de :
+Estarán exentos del pago de este impuesto los ingresos provenientes de:
 
 I.- Las actividades gravadas por otros impuestos estatales.
 
@@ -2029,7 +2417,7 @@ II.- Cuando existe omisión en los registros de los ingresos gravables o de las 
 
 III.- Cuando existan variantes en más de un 10 % entre los inventarios de mercancías declarados o registrados y las existencias reales.
 
-IV.- Cuando los contribuyentes no amparen los asientos relativos a sus compras o ingresos, con la documentación comprobatoria correspondiente .
+IV.- Cuando los contribuyentes no amparen los asientos relativos a sus compras o ingresos, con la documentación comprobatoria correspondiente.
 
 V.- Cuando existan asientos falsos en la contabilidad.
 
@@ -2307,6 +2695,38 @@ SEGUNDO.- El presente Decreto entrará en vigor el día primero de enero del añ
 
 P.O. 23 DE DICIEMBRE 2003.
 
-PRIMERO .- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día primero de enero del año dos mil cuatro.
+
+P.O. 27 DE DICIEMBRE DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+Todos los establecimientos sujetos a Regulación por la Autoridad Sanitaria, que a la entrada en vigor de la presente Ley no tengan comprobante de aviso de funcionamiento o autorización sanitaria, deberán presentar por escrito su solicitud para el trámite correspondiente, realizando el pago de derechos que le corresponda en un término no mayor a 90 días hábiles a partir de la publicación del tabulador de cobro en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Todos los establecimientos sujetos a Regulación por la Autoridad Sanitaria, que ya cuentan con un comprobante de aviso de funcionamiento o autorización sanitaria, deberán actualizar sus comprobantes según corresponda el caso, a la entrada en vigor de la presente Ley, pagando el 50% del monto asignado en el tabulador de costos publicado en el Periódico Oficial del Estado, en un término no mayor a 60 días hábiles.
+
+###### ARTÍCULO TERCERO.
+
+Se otorgarán Estímulos Fiscales de hasta el 30% de descuento en los conceptos que señala el artículo 82, fracción I, inciso A) punto 1 sobre la expedición inicial; inciso B) fracción II, inciso C y D), fracción III inciso A, punto 1, número 4 y número 5, inciso C) número 1, inciso D) número 1, 4 y 5; fracción IV inciso A, número 1 y 2.
+
+###### ARTÍCULO CUARTO.
+
+Para el cumplimiento del pago de la Revista Electromecánica y de Confort, que señala el artículo 82 fracción IV, inciso "A", Subinciso 1 y 2:
+
+1.1ª. Revista se aplicará el pago dentro de los 3 primeros meses del año, enero, febrero y marzo.
+
+2. 2ª. Revista se aplicará el pago dentro de los meses julio, agosto y septiembre.
+
+Se hará aplicable a todo tipo de servicio público, así como el servicio particular de carga, incluyendo el tarjetón.
+
+###### ARTÍCULO QUINTO.
+
+Los propietarios de automóviles que no se encuentre, debidamente regularizados, contarán con un plazo de tres meses para realizar los trámites y el pago correspondientes, contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
