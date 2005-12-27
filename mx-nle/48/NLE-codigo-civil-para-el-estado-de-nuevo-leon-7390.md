@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2004-12-08"
+last_updated: "2005-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2005.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -319,7 +319,7 @@ El estado civil es un atributo privativo de las personas físicas.
 
 > <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
 
-### CAPITULO II. DEL DOMICILIO
+### CAPITULO V. DE LA NACIONALIDAD
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -409,9 +409,9 @@ Art. 26 Bis I.- La persona moral tiene derecho al uso exclusivo de su nombre y p
 
 > <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
-### CAPITULO V. DE LA NACIONALIDAD
+### CAPITULO III. DE LA CAPACIDAD JURIDICA
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
 
 ###### Art. 27.
 
@@ -419,9 +419,13 @@ Domicilio es el lugar en que la ley tiene por situadas a las personas para el cu
 
 > <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
-#### SECCION PRIMERA. DE LAS PERSONAS FISICAS
+#### SECCION SEGUNDA. DE LAS PERSONAS MORALES
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+
+Art. 32 Bis V.- Son aplicables al patrimonio de las personas morales, las disposiciones relativas al patrimonio de las personas físicas, en tanto no se opongan a la naturaleza de las primeras.
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
 ###### Art. 28.
 
@@ -497,13 +501,13 @@ Las sucursales que operen en lugares distintos de donde radica la casa matriz, t
 
 Art. 29 Bis I.- Las personas morales, podrán designar domicilios convencionales para el ejercicio y cumplimiento de derechos y obligaciones, así como renunciar en el aspecto judicial a la jurisdicción de su domicilio.
 
-> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
-
-### CAPITULO IV. DEL PATRIMONIO
-
 > <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
 
-#### SECCION SEGUNDA. DE LAS PERSONAS MORALES
+### CAPITULO II. DEL DOMICILIO
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+
+#### SECCION PRIMERA. DE LAS PERSONAS FISICAS
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -545,7 +549,7 @@ III.- A petición del mismo incapaz, la cual no necesita ser escrita.
 
 > <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
-#### SECCION PRIMERA. DE LAS PERSONAS FISICAS
+#### SECCION SEGUNDA. DE LAS PERSONAS MORALES
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -563,19 +567,15 @@ Las personas morales pueden ejercitar los derechos y cumplir las obligaciones qu
 
 Art. 31 Bis I.- Las personas morales obran y se obligan a través de los órganos por los que actúan, por disposición de la ley y conforme a las disposiciones relativas de sus estatutos sociales.
 
-> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
 
 ### CAPITULO I. DEL NOMBRE
 
 > <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
 
-#### SECCION SEGUNDA. DE LAS PERSONAS MORALES
+#### SECCION PRIMERA. DE LAS PERSONAS FISICAS
 
-> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
-
-Art. 32 Bis V.- Son aplicables al patrimonio de las personas morales, las disposiciones relativas al patrimonio de las personas físicas, en tanto no se opongan a la naturaleza de las primeras.
-
-> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
 ###### Art. 32.
 
@@ -609,7 +609,7 @@ Art. 32 Bis IV.- El patrimonio moral se constituye por los derechos y deberes no
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
-### CAPITULO III. DE LA CAPACIDAD JURIDICA
+### CAPITULO IV. DEL PATRIMONIO
 
 > <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -617,7 +617,7 @@ Art. 32 Bis IV.- El patrimonio moral se constituye por los derechos y deberes no
 
 La nacionalidad de las personas se regirá por las leyes de la materia.
 
-> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
 ### CAPITULO VI. DEL ESTADO CIVIL
 
@@ -1041,7 +1041,7 @@ Las personas que pretendan contraer matrimonio presentarán solicitud al Oficial
 
 La solicitud a que se refiere el artículo anterior, expresará:
 
-I.- Los nombres, apellidos, edad, ocupación, nacionalidad y domicilio, tanto de los pretendientes como de sus padres, si éstos fueran conocidos. Cuando alguno o ambos pretendientes hayan sido casados, se expresará también el nombre de la persona con quien se celebró el anterior matrimonio, la causa de su disolución y fecha de ésta.
+I.- Los nombres, apellidos, edad, ocupación, nacionalidad y domicilio, tanto de los pretendientes como de sus padres, si estos fueran conocidos. Cuando alguno o ambos pretendientes hayan sido casados, se expresará también el nombre de la persona con quien se celebró el anterior matrimonio, la causa de su disolución y fecha de ésta.
 
 II.- Que no tienen impedimento legal para casarse; y
 
@@ -1859,9 +1859,11 @@ El marido responde a la mujer y ésta a aquél, de los daños y perjuicios que l
 
 ### CAPITULO VII. DE LAS DONACIONES ANTENUPCIALES
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
 ###### Art. 219.
 
-Se llaman antenupciales las donaciones que antes del matrimonio hace un esposo al otro, cualquiera que sea el nombre que la costumbre les haya dado.
+Se llaman antenupciales las donaciones que antes del matrimonio, uno de los próximos contrayentes hace al otro, cualquiera que sea el nombre que la costumbre les haya dado.
 
 ###### Art. 220.
 
@@ -2181,11 +2183,11 @@ Son causas de divorcio los actos inmorales ejecutados por el marido o por la muj
 
 Para que pueda pedirse el divorcio por el estado de interdicción declarado, es necesario que hayan transcurrido dos años desde que se declaró.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### Art. 272.
 
-Cuando ambos consortes convengan en divorciarse y sean mayores de edad, no tengan hijos o teniéndolos estos sean mayores de 30 años y no sean incapaces, de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen se casaron, se presentarán personalmente ante el Oficial del Registro Civil del lugar de su domicilio; comprobarán con las copias certificadas respectivas que son casados y mayores de edad, y manifestarán de una manera terminante y explícita su voluntad de divorciarse.
+Cuando ambos consortes convengan en divorciarse y sean mayores de edad, tengan más de un año de casados, no tengan hijos o teniéndolos estos sean mayores de 30 años y no sean incapaces, de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen se casaron, se presentarán personalmente ante el Oficial del Registro Civil del lugar de su domicilio; comprobarán con las copias certificadas respectivas que son casados y mayores de edad, y manifestarán de una manera terminante y explícita su voluntad de divorciarse.
 
 El Oficial del Registro Civil, previa identificación de los consortes, levantará un acta en que hará constar la solicitud de divorcio y citará a los cónyuges para que se presenten a ratificarla a los quince días. Si los consortes hacen la ratificación, el Oficial del Registro Civil los declarará divorciados, levantando el acta respectiva y haciendo la anotación correspondiente en la del matrimonio anterior.
 
@@ -3589,19 +3591,21 @@ Salvo el caso de la administración, la tutela no podrá conferirse sin que prev
 
 Los tutores y curadores no pueden ser removidos de su cargo sin que previamente hayan sido oídos y vencidos en juicio.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
 ###### Art. 464.
 
-El menor de edad que fuere demente, idiota, imbécil, sordo mudo, ebrio consuetudinario o que habitualmente abuse de las drogas enervantes, estará sujeto a la tutela de menores, mientras no llega a la mayor edad.
-
-Si al cumplirse ésta continuare el impedimento, el incapaz se sujetará a nueva tutela, previo juicio de interdicción, en el cual serán oídos el tutor y el curador anteriores.
+El menor de edad discapacitado con ausencia de capacidad mental, con ausencia de capacidad auditiva y del habla, ebrio consuetudinario o que habitualmente abuse de las drogas enervantes, estará sujeto a la tutela de menores, mientras no llegue a la mayoría de edad.
 
 ###### Art. 465.
 
 Los hijos menores de un incapacitado quedarán bajo la patria potestad del ascendiente que corresponda conforme a la ley, y no habiéndolo, se les proveerá de tutor.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
 ###### Art. 466.
 
-El cargo de tutor del demente, idiota, imbécil, sordo-mudo, ebrio consuetudinario y de los que habitualmente abusen de las drogas enervantes, durará el tiempo que subsista la interdicción, cuando sea ejercitado por los descendientes o por los ascendientes. El cónyuge sólo tendrá obligación de desempeñar ese cargo mientras conserve su caráctr (sic) de cónyuge. Los extraños que desempeñen la tutela de que se trata, tienen derecho de que se les releve de ella a los diez años de ejercerla.
+El cargo de tutor de la persona discapacitada con ausencia de capacidad mental, con ausencia de capacidad auditiva y del habla, ebrio consuetudinario y de los que habitualmente abusen de las drogas enervantes, durará el tiempo que subsista la interdicción, cuando sea ejercitado por descendientes o por ascendientes. El cónyuge solo tendrá obligación de desempeñar ese cargo mientras conserve su carácter de cónyuge. Los extraños que desempeñen la tutela de que se trata, tienen derecho de que se les releve de ella a los diez años de ejercerla.
 
 ###### Art. 467.
 
@@ -4603,13 +4607,17 @@ El mayor de edad dispone libremente de su persona y de sus bienes.
 
 El que se hubiere ausentado del lugar de su residencia ordinaria y tuviere apoderado constituido antes o después de su partida, se tendrá como presente para todos los efectos civiles, y sus negocios se podrán tratar con el apoderado hasta donde alcance el poder.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
 ###### Art. 649.
 
-Cuando una persona haya desaparecido y se ignore el lugar donde se halle y quien la represente, el juez, a petición de parte o de oficio, nombrará un depositario de sus bienes, la citará por edictos publicados en los principales periódicos de su último domicilio, señalándole para que se presente en un término que no bajará de tres meses, ni pasará de seis, y dictará las providencias necesarias para asegurar los bienes.
+Cuando una persona haya desaparecido y se ignore el lugar donde se halle y quien la represente, el juez, a petición de parte o de oficio, nombrará un depositario de sus bienes, se le citará por medio de edictos publicados por tres veces consecutivas en el Periódico Oficial del Estado y en algún periódico de los que tengan mayor circulación a juicio del Juez, señalándose para que se presente en un término no menor de tres meses, ni mayor de seis, y dictará las providencias necesarias para asegurar los bienes.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### Art. 650.
 
-Al publicarse los edictos remitirá copia a los cónsules mexicanos de aquellos lugares del extranjero en que se puede presumir que se encuentra el ausente o que se tengan noticias de él.
+Al publicarse los edictos remitirá copia a los cónsules mexicanos en todos los países en que los haya, por conducto de la Secretaría de Relaciones Exteriores.
 
 ###### Art. 651.
 
@@ -4689,9 +4697,11 @@ III.- Con la muerte del ausente;
 
 IV.- Con la posesión provisional.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
 ###### Art. 666.
 
-Cada año, en el día que corresponda a aquél en que hubiere sido nombrado el representante, se publicarán nuevos edictos llamando al ausente. En ellos constarán el nombre y domicilio del representante, y el tiempo que falte para que se cumpla el plazo que señalan los artículos 669 y 670 en su caso.
+Cada año, en el día que corresponda a aquél en que hubiere sido nombrado el representante, se publicarán nuevos edictos en los términos previstos en el artículo 649. En ellos constarán el nombre y domicilio del representante, y el tiempo que falte para que se cumpla el plazo que señalan los artículos 669 y 670 en su caso.
 
 ###### Art. 667.
 
@@ -7115,7 +7125,7 @@ La prescripción adquirida por el deudor principal, aprovecha siempre a sus fiad
 
 ###### Art. 1145.
 
-El Estado, así como los Ayuntamientos y las otras personas morales, se considerarán como particulares para la prescripción de sus bienes, derechos y acciones que sean susceptibles de propiedad privada.
+El Estado así como los Ayuntamientos y las otras personas morales, se considerarán como particulares para la prescripción de sus bienes, derechos y acciones que sean susceptibles de propiedad privada.
 
 ###### Art. 1146.
 
@@ -10429,25 +10439,43 @@ Cuando una persona hace uso de mecanismos, instrumentos, aparatos o substancias 
 
 Cuando sin el empleo de mecanismos, instrumentos, etc., a que se refiere el artículo anterior y sin culpa o negligencia de ninguna de las partes se producen daños, cada una de ellas los soportará sin derecho a indemnización.
 
-> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1991)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### Art. 1812.
 
-La reparación del daño debe consistir en el restablecimiento de la situación anterior a él, y cuando ello sea imposible, en el pago daños y perjuicios con sujeción a las siguientes reglas:
+La reparación del daño debe consistir en el restablecimiento de la situación anterior a él, y cuando ello sea imposible, en el pago de una suma de dinero por daños y perjuicios.
 
-I.- Cuando el daño se cause a las personas y produzca la muerte o incapacidad total parcial o temporal, el monto de la indemnización se fijará aplicando las cuotas que establece la Ley Federal del Trabajo según las circunstancias de la víctima, para tal efecto se tomarán en cuenta los salarios vigentes en el momento de efectuar el cumplimiento de la obligación, y atendiendo a la naturaleza del trabajo que desempeñaba la víctima.
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
-II.- En los casos a que se refiere la fracción anterior, cuando el emolumento o salario excede de tres veces el salario mínimo elevado al mes vigente en la zona económica de que se trate no se tomará en cuenta sino esa suma para fijar la indemnización.
+###### Art. 1812 Bis.
 
-III.- Si la víctima no percibe emolumento o salario, o no puede determinarse éste, el pago se acordará tomando como base el salario mínimo.
+Si el daño se causa a las personas son producir su muerte ni su incapacidad permanente, total o parcial, la reparación consistirá en el pago de los servicios médicos, medicinas, de hospitalización y los necesarios para la curación de la víctima.
 
-IV.- Los créditos por indemnización, cuando la víctima fuere asalariado, son intrasferibles (sic) y se cubrirán en una sola exhibición, salvo convenio entre las partes.
+En cuanto el monto de la indemnización, será de hasta tres tantos de lo establecido en la Ley Federal del Trabajo para el cálculo de la misma.
 
-V.- En caso de muerte se cubrirá por gastos funerarios la cantidad de tres veces el salario mínimo elevado al mes.
+El pago de los daños, así como de la indemnización señalada en el párrafo anterior, deberán ser proporcionales a la necesidad de la víctima y a la capacidad de quien está obligado a pagarla, sin que pueda llegar a constituir una suma que lesione los legítimos derechos de la familia de quien infiera el daño.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+Art. 1812 Bis I.- Si no existiese una percepción fija, la indemnización se calculara por peritos, quienes tomaran en cuenta las capacidades y aptitudes de la víctima en relación con su profesión, arte, oficio, trabajo u actividad a la que normalmente se dedique; pero si los elementos que en el caso dispongan los peritos, resultaren insuficientes para emitir un dictamen debidamente fundado, lo mismo en el caso de que la víctima no disfrute de ninguna percepción o no desarrolle ninguna actividad productiva, la indemnización de los perjuicios se calculara sobre la base del salario mínimo mas alto que este en vigor en la región, en la época en la que el lesionado deje de trabajar.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+Art. 1812 Bis II.- Si el daño origina la muerte, o la incapacidad permanente total o parcial, la reparación del daño consistirá en el pago de los gastos mortuorios y de todos lo (sic) que en su caso se hubieren hecho con el fin de curar a la víctima de las lesiones que le hayan causado la muerte, o la incapacidad en su caso.
+
+La reparación del daño a que se refiere el párrafo anterior deberá ser proporcional a la necesidad de la víctima y a la capacidad de quien está obligado a pagarla, sin que pueda llegar a constituir una suma que lesione los legítimos derechos de la familia de quien infiera el daño.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+Art. 1812 Bis III.- En el caso del artículo anterior, el responsable pagará además, una indemnización que será de hasta tres tantos de lo establecido en la Ley Federal del Trabajo para el cálculo de la misma, la cual deberá ser proporcional a la necesidad de la víctima y a la capacidad de quien está obligado a pagarla, sin que pueda llegar a constituir una suma que lesione los legítimos derechos de la familia de quien infiera el daño.
+
+Los créditos por indemnización, cuando la víctima fuere asalariado, son intransferibles y se cubrirán en una sola exhibición, salvo convenio entre las partes.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### Art. 1813.
 
-Independientemente de los daños y perjuicios, el juez puede acordar en favor de la víctima de un hecho ilícito, o de su familia, si aquélla muere, una indemnización equitativa, a título de reparación moral, que pagará el responsable del hecho. Esa indemnización no podrá exceder de la tercera parte de lo que importe la responsabilidad civil. Lo dispuesto en este artículo no se aplicará al Estado en el caso previsto en el artículo 1825.
+Independientemente de los daños y perjuicios, el Juez acordará a favor de la víctima de un hecho ilícito, o de su familia, si aquélla muere, una indemnización equitativa, a título de reparación moral, que pagará el responsable del hecho. Esta indemnización será por el monto de la tercera parte de lo que importe la responsabilidad civil.
 
 ###### Art. 1814.
 
@@ -16492,3 +16520,11 @@ Artículo Primero.- El presente Decreto entrará en vigor el día 31 de enero de
 Artículo Segundo.- Para el caso de la fracción XIX del artículo 267, el término de separación de los cónyuges deberá empezar a contar a partir de la fecha de la entrada en vigor del presente Decreto.
 
 Artículo Tercero.- Por lo tanto envíese al Ejecutivo del Estado, para que proceda a su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE DICIEMBRE DE 2005.
+
+Artículo Primero.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Los procesos que se encuentren vigentes a la entrada en vigor del presente decreto se regirán por la ley vigente al inicio de los mismos, sin perjuicio de los beneficios que la legislación penal otorga.
+
+Artículo Tercero.- Los hechos ocurridos con anterioridad a la entrada en vigor del presente decreto se regirán con la ley vigente al momento de ocurrir los mismos.
