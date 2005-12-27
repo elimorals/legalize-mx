@@ -4,7 +4,7 @@ identifier: "GRO-ley-del-catastro-municipal-del-estado-de-guerrero-numero-676-51
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-03"
-last_updated: "2000-12-29"
+last_updated: "2005-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DEL CATASTRO MUNICIPAL DEL ESTADO DE GUERRERO NUMERO 676
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Alcance al Número 1 del Periódico Oficial del Estado de Guerrero, el martes 3 de enero de 1984.
 
@@ -99,7 +99,9 @@ XV.- Manzana la superficie de terreno constituído por un conjunto físico de pr
 
 XVI.- Clave catastral: identificador codificado que define a una región, zona, manzana y predio.
 
-XVII.- Valor unitario: el obtenido mediante un sistema de alcance masivo, de tal índole que al aplicarse conforme al reglamento a las superficies tanto de terreno como de construcción, en combinación con los deméritos ó incrementos correspondientes arrojen el valor catastral del terreno y de las construcciones.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+XVII.- Valor unitario: es el valor monetario fijado al suelo y/o construcción por metro cuadrado o por hectárea, obtenido mediante los procedimientos establecidos en esta Ley y su Reglamento.
 
 XVIII.- Valuación: el proceso de obtención del valor catastral.
 
@@ -185,11 +187,11 @@ m) Datos socioeconómicos de la zona catastral.
 
 Las modificaciones a cualesquiera de las características de los bienes inmuebles, deberán anotarse en los padrones para su actualización.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 4o.
 
-El valor catastral de los predios será el obtenido por los procesos establecidos en esta Ley, en el Reglamento de Catastro Municipal y en el Manual de Valuación Catastral de los Municipios, el cual a su vez servirá de base para la fijación del impuesto predial.
+El valor catastral de los predios será el obtenido por los procesos establecidos en esta Ley y su reglamento, el cual servirá de base para la determinación y aplicación del impuesto predial.
 
 ### CAPITULO II. De las Autoridades del Catastro
 
@@ -205,27 +207,21 @@ II.- El Tesorero Municipal.
 
 III.- El Director o encargado del área de Catastro Municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 5
 
-BIS (SIC).- Los Ayuntamientos de la Entidad con el fin de eficientar sus actividades catastrales para su mejor administración, podrán solicitar cuando lo consideren necesario a la Secretaría de Finanzas y Administración del Gobierno del Estado apoyo para lo siguiente:
+BIS.- Los H. Ayuntamientos de la Entidad, con el fin de eficientar sus actividades catastrales para una menor administración de sus contribuciones, podrán solicitar a la Secretaría de Finanzas y Administración del Gobierno del Estado, cuando lo consideren necesario, el apoyo de la Coordinación General de Catastro, para lo siguiente:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
+I.- Asesoría y capacitación técnica, administrativa y jurídica al personal y funcionarios municipales en materia de catastro e impuesto predial;
 
-I.- Asesoría y capacitación normativa al personal y funcionarios municipales en materia de catastro e impuesto predial.
+II.- Apoyar a las Direcciones o Áreas de Catastro de los Ayuntamientos de la Entidad, en la determinación de los valores unitarios de terreno y construcción y elaboración de las Tablas de Valores que deberán remitir al H. Congreso del Estado, para su discusión y aprobación, en su caso;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
+III.- Unificar los criterios y lineamientos de valuación inmobiliaria a (sic) conforme a las disposiciones de la presente Ley y su Reglamento, y
 
-II.- Apoyar a las Direcciones o Areas de Catastro de los municipios en la determinación de los valores unitarios de terreno y construcción para que realicen la valuación y revaluación catastral de la propiedad raíz.
+IV.- Ejercer las atribuciones técnicas, administrativas y normativas cuando los Ayuntamientos celebren convenios de Coordinación o Colaboración con el Gobierno del Estado, para que los Ayuntamientos realicen con mayor eficiencia el cobro y administración del impuesto predial.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
-
-III.- Unificar los lineamientos de valuación a través del Manual de Valuación Catastral en la Entidad.
-
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 1997)</small>
-
-IV.- Ejercer las atribuciones cuando los Municipios celebren convenios con el Gobierno del Estado para la administración del impuesto predial.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 6o.
 
@@ -262,8 +258,6 @@ X.- Las demás que señale esta Ley y el Reglamento de Catastro Municipal.
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
 ### CAPITULO II-BIS. De la Coordinación en Materia de Catastro con el Gobierno del Estado
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 ### CAPITULO III. De las Operaciones Catastrales
 
@@ -365,17 +359,17 @@ La Dirección o área del Catastro expedirá copias certificadas de los planos y
 
 ### CAPITULO IV. De la Valuación Catastral
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 20.
 
-La valuación catastral tiene por objeto determinar el valor catastral de los bienes inmuebles ubicados dentro del Municipio de conformidad con la presente Ley, del Reglamento de Catastro Municipal aprobado para tal efecto y del Manual de Valuación Catastral de los Municipios.
+La valuación catastral tiene por objeto determinar el valor catastral de los bienes inmuebles ubicados dentro del Municipio de conformidad con la presente Ley y su Reglamento.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 20
 
-BIS.- La revaluación catastral tiene por objeto actualizar el valor catastral a los bienes inmuebles ubicados dentro del municipio de conformidad con la presente Ley, el Reglamento de Catastro Municipal aprobado para tal efecto, y el Manual de Valuación Catastral de los Municipios.
+BIS.- La revaluación catastral tiene por objeto actualizar el valor catastral a los bienes inmuebles ubicados dentro del municipio de conformidad con la presente Ley y su Reglamento.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -388,6 +382,10 @@ Los valores unitarios de terreno y construcción que sirvan de base para la dete
 ###### ARTICULO 22.
 
 Para determinar el valor catastral de cada predio, se aplicarán los valores unitarios para el terreno y para los diferentes tipos de construcción que al efecto elabore la Dirección o Area de Catastro Municipal mismos que previamente estarán aprobados y autorizados por el H. Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
+Los Ayuntamientos municipales que remitan su iniciativa de Decreto de Tablas de valores Unitarios de Suelo y Construcción al H. Congreso del Estado, para su aprobación, previamente deberán ser revisadas y validadas por la Coordinación General de Catastro dependiente de la Secretaría de Finanzas y Administración del Gobierno del Estado, para vigilar al cumplimiento de los criterios y lineamientos técnicos y normativos establecidos en la presente Ley y su Reglamento.
 
 ###### ARTICULO 23.
 
@@ -427,11 +425,11 @@ X.- Cuando se dividan terrenos por la apertura de calles o la realización de ot
 
 La Dirección o área del Catastro en los casos en que no se puede determinar técnicamente el valor catastral de un predio o de aquellos originados por la fusión y división de otros, lo fijará provisionalmente con base en los elementos de que disponga.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 25.
 
-Para efectuar el proceso de valuación y revaluación catastral de los predios urbanos deberá partirse del valor unitario por metro cuadrado aplicable, conforme a su localización y en relación con los polos de desarrollo local definidos, o bien a la zona y calle de su ubicación, tomando en consideración las disposiciones que en materia de valuación y revaluación contenga el Reglamento de Catastro Municipal y el Manual de Valuación Catastral de los Municipios.
+Para efectuar el proceso de valuación y revaluación catastral de los predios urbanos deberá partirse del valor unitario por metro cuadrado aplicable, conforme a su división territorial catastral, en relación con los polos de desarrollo local definidos, así como a la zona y calle de su ubicación, tomando en consideración las disposiciones que en materia de valuación y revaluación establezca el Reglamento de la presente Ley.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -439,19 +437,15 @@ Para efectuar el proceso de valuación y revaluación catastral de los predios u
 
 Para la determinación de los valores unitarios de la tierra, tratándose de los predios comprendidos en las zonas urbanas, se tomará en cuenta su localización para el caso de su análisis con apoyo en polos locales de desarrollo, o bien el uso predominante de los predios en cada vía y zona respectiva, los servicios urbanos existentes, medios de comunicación y en general todos aquellos factores determinantes en el valor de la tierra, cuando sea aplicable el procedimiento de valores de calle.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
-
-ARTICULO 26 BIS.- Para la valuación y revaluación catastral de cada terreno deberá multiplicarse el valor unitario de suelo aplicable de la zona catastral donde se ubique, por la superficie del terreno y por los factores de demérito o incrementos que correspondan a su ubicación, forma y topografía.
-
-Para la valuación y revaluación catastral de cada construcción deberá multiplicarse el valor unitario de la construcción aplicable a cada tipo de edificación por el área construida y por los factores de demérito o incrementos que correspondan a su antigüedad y grado de conservación.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 26
 
-BIS.- Para la valuación de cada terreno deberá multiplicarse el valor unitario de suelo aplicable de la zona catastral donde se ubique, por la superficie del terreno y por los factores de demérito o incrementos que correspondan a su ubicación, forma y topografía.
+BIS.- Para la valuación y revaluación catastral de cada terreno deberá multiplicarse el valor unitario de suelo aplicable de la zona catastral donde se ubique, por la superficie total del terreno.
 
-Para la valuación de cada construcción deberá multiplicarse el valor unitario de la construcción aplicable a cada tipo de edificación por el área construida y por los factores de demérito o incrementos que correspondan a su antigüedad y grado de conservación.
+Para la valuación y reevaluación catastral de cada construcción deberá multiplicarse el valor unitario de la construcción aplicable a cada tipo y clase de edificación por el área total construida.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 27.
 
@@ -483,17 +477,17 @@ Las Tablas de Valores Unitarios de Terreno y Construcción deberán ser del domi
 
 Aprobadas las Tablas de Valores Unitarios, la Dirección o Area de Catastro, procederá a la valuación y revaluación individual de los predios.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 32.
 
-La valuación y revaluación catastral de predios se llevará a cabo por el personal autorizado de la Dirección o Area de Catastro Municipales con base en los lineamientos normativos y procedimientos técnicos establecidos en esta Ley, en el Reglamento de Catastro Municipal y en el Manual de Valuación Catastral de los Municipios.
+La valuación y revaluación catastral de predios se llevará a cabo por el personal autorizado de la Dirección o Área de Catastro Municipales, con base en los lineamientos normativos y procedimientos técnicos establecidos en esta Ley y su Reglamento.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 33.
 
-La valuación y revaluación catastral en particular de los predios rústicos y urbanos se hará con aplicación específica de las Tablas de Valores Unitarios de Terreno y Construcción, en la forma que determine esta Ley, el Reglamento de Catastro Municipal y el Manual de Valuación Catastral de los Municipios.
+La valuación y revaluación catastral de los predios rústicos y urbanos se hará con aplicación específica de las Tablas de Valores Unitarios de Terreno y Construcción, en la forma que determine la presente Ley y su Reglamento.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -505,11 +499,11 @@ Los valores unitarios comprendidos en las Tablas de Valores de Terreno y Constru
 
 El municipio en coordinación con las dependencias oficiales correspondientes, determinará los perímetros de las zonas urbanas y suburbanas de los núcleos de población que ameriten ese carácter. Las áreas ubicadas fuera de tales perímetros constituirán las zonas rústicas.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 36.
 
-En los casos de edificaciones construidas bajo los regímenes de condominio, tiempo compartido o multipropiedad, deberá fijarse valor a cada uno de los departamentos, despachos o cualquier otro tipo de locales, comprendiéndose en la valuación o revaluación la parte proporcional indivisa de los bienes comunes de conformidad con lo que establece esta Ley, el Reglamento de Catastro Municipal y el Manual de Valuación Catastral de los Municipios.
+En los casos de edificaciones construidas bajo los regímenes de condominio, tiempo compartido o multipropiedad, deberá fijarse valor a cada uno de los departamentos, despachos o cualquier otro tipo de locales, comprendiéndose en la valuación o revaluación la parte proporcional indivisa de los bienes comunes de conformidad con lo que establece esta Ley y su Reglamento.
 
 ### CAPITULO V. De las Obligaciones Catastrales
 
@@ -713,9 +707,9 @@ II.- Error en la aplicación de los parámetros valuatorios que sirvieron de bas
 
 III.- Error en la clasificación del tipo de terreno o de construcción de que se trate.
 
-IV.- Error en el coeficiente de demérito o incremento aplicado en la valuación.
+IV.- (DEROGADA, P.O. 27 DE DICIEMBRE DE 2005)
 
-V.- Falta de aplicación de los coeficientes de demérito o incremento que establezca el instructivo de valuación correspondiente; y
+V.- (DEROGADA, P.O. 27 DE DICIEMBRE DE 2005)
 
 VI.- Cualquier otro error u omisión que modifique la valuación del predio, y que el contribuyente considere le afecta a sus intereses.
 
@@ -731,13 +725,11 @@ Las manifestaciones y avisos de los particulares y los notarios públicos que ex
 
 El Director de Obras Públicas del Municipio deberá remitir a la Dirección o área del Catastro, el primer día hábil de cada mes, una relación de las licencias otorgadas durante el mes anterior para nuevas construcciones permanentes, reconstrucciones y ampliaciones de las ya existentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 61.
 
-Los propietarios o poseedores de predios están obligados a dar aviso del cambio de su domicilio para oír notificaciones, a la Dirección o área del Catastro dentro de los quince días hábiles siguientes a que éste se haya efectuado.
-
-Si no lo hicieran se tendrá como legal el que hubieran señalado con anterioridad o el del predio mismo.
+Los propietarios o poseedores de predios están obligados a dar aviso del cambio de su domicilio para oír y recibir notificaciones, a la Dirección o Área del Catastro municipal dentro de los quince días hábiles siguientes a que este se haya efectuado.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
@@ -864,3 +856,17 @@ Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado
 ###### ARTICULO SEGUNDO.
 
 El presente Decreto entrará en vigor el día primero de enero del año 2001.
+
+P.O. 27 DE DICIEMBRE DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del 1 de enero del año 2006.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Ayuntamientos para efectos de llevar a cabo la reevaluación catastral masiva de la propiedad inmueble en sus municipios, la aplicará una vez que el Honorable Congreso del Estado haya autorizado las Tablas de Valores Unitarios de Suelo y Construcción catastrales, surtiendo sus efectos legales de notificación a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
