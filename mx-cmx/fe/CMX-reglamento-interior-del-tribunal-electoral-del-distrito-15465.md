@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-tribunal-electoral-del-distrito-15465"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-01-21"
-last_updated: "2005-01-26"
+last_updated: "2005-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15465&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2000-01-14"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE ENERO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL, PUBLICADO EN LA GACETA OFICIAL EL 28 DE DICIEMBRE DE 2005, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el viernes 21 de enero de 2000.
 
@@ -1682,28 +1684,6 @@ El Pleno adoptará las medidas pertinentes para la substanciación de este tipo 
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 26 DE ENERO DE 2005)</small>
 
-SECCIÓN 7ª
-
-Del procedimiento especial para la impugnación de las sanciones administrativas
-
-> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2005)</small>
-
-###### Artículo 77
-
-S
-
-Las resoluciones por las que impongan sanciones administrativas, podrán ser impugnadas por el servidor o ex servidor público a través del procedimiento especial que se contempla tanto en el artículo 273 del Código, así como en el Título Quinto del presente Reglamento.
-
-> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2005)</small>
-
-###### Artículo 77
-
-T
-
-La resolución que se emita en el procedimiento especial, tendrá como efectos la revocación, modificación o confirmación de la determinación impugnada.
-
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 26 DE ENERO DE 2005)</small>
-
 SECCIÓN 6ª
 
 De las sanciones
@@ -1775,6 +1755,28 @@ En todos los casos, la imposición y aplicación de sanciones estará a cargo de
 R
 
 El Presidente podrá abstenerse de aplicar la sanción al infractor, por una sola vez, cuando lo estime pertinente, justificando la causa de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor y el daño causado por éste no exceda de cien veces el salario mínimo diario vigente en el Distrito Federal.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 26 DE ENERO DE 2005)</small>
+
+SECCIÓN 7ª
+
+Del procedimiento especial para la impugnación de las sanciones administrativas
+
+> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2005)</small>
+
+###### Artículo 77
+
+S
+
+Las resoluciones por las que impongan sanciones administrativas, podrán ser impugnadas por el servidor o ex servidor público a través del procedimiento especial que se contempla tanto en el artículo 273 del Código, así como en el Título Quinto del presente Reglamento.
+
+> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2005)</small>
+
+###### Artículo 77
+
+T
+
+La resolución que se emita en el procedimiento especial, tendrá como efectos la revocación, modificación o confirmación de la determinación impugnada.
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 26 DE ENERO DE 2005)</small>
 
@@ -2523,3 +2525,13 @@ SEGUNDO.- Las denuncias y quejas administrativas que se hayan presentado antes d
 TERCERO.- Se derogan todas las disposiciones que sean contrarias a lo previsto en la presente reforma.
 
 CUARTO.- Se ordena la publicación de la presente reforma en la Gaceta Oficial del Distrito Federal, así como en los estrados de este Tribunal.
+
+G.O. 28 DE DICIEMBRE DE 2005.
+
+PRIMERO. El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Se abroga el Reglamento Interior del Tribunal Electoral del Distrito Federal publicado en la Gaceta Oficial del Distrito Federal el 21 de enero de 2000 y reformado según publicación en la propia Gaceta del 26 de enero de 2005, así como todas aquellas disposiciones que se opongan al presente.
+
+TERCERO. Las disposiciones contenidas en el Título Especial, relativas a los artículos 4°, 5°, 7°, 8°, 9°, 10, 11, 13, 15, 16, 17, 19, 20 y 21, entrarán en vigor a partir de la renovación del Pleno del Tribunal Electoral del Distrito Federal en el mes de enero de 2007.
+
+CUARTO. Se ordena la publicación de este Reglamento en la Gaceta Oficial del Distrito Federal, así como en los estrados y en la página de internet de este Tribunal.
