@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-del-estado-de-michoacan-de-ocampo-6113"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-26"
-last_updated: "2003-12-31"
+last_updated: "2005-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY DE HACIENDA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2003.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA DEL ESTADO DE MICHOACAN DE OCAMPO, PUBLICADA EN EL P.O. DE 28 DE DICIEMBRE DE 2005, EL PRESENTE ORDENAMIENTO FUE ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda del Periódico Oficial, el lunes 26 de diciembre de 1983.
 
@@ -2497,7 +2499,7 @@ PALACIO DEL PODER LEGISLATIVO. Morelia, Michoacán de Ocampo, a 20 de diciembre 
 
 En cumplimiento por lo dispuesto en la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo en la ciudad de Morelia, Michoacán a los 26 veintiséis días del mes de diciembre de 1983.
 
-Sufragio Efectivo. No Reelección.- El Gobernador Constitucional del Estado.- Ing. Cuauhtémoc Cárdenas Solórzano.- El Secretario de Gobierno.- Lic. Cristóbal Arias Solís.- (Firmados ).
+Sufragio Efectivo. No Reelección.- El Gobernador Constitucional del Estado.- Ing. Cuauhtémoc Cárdenas Solórzano.- El Secretario de Gobierno.- Lic. Cristóbal Arias Solís.- (Firmados).
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
@@ -2610,3 +2612,13 @@ P.O. 31 DE DICIEMBRE DE 2003.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto, entrará en vigor el día 1º de enero de 2004, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 28 DE DICIEMBRE DE 2005.
+
+Artículo Primero. La presente Ley de Hacienda del Estado de Michoacán de Ocampo, entrará en vigor el día 31 de diciembre de 2005, previa su publicación, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo. Se abroga la Ley de Hacienda del Estado de Michoacán de Ocampo de fecha 20 de diciembre de 1983, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, de fecha 26 de diciembre de 1983.
+
+Artículo Tercero. Se ratifica el contenido del Decreto 145, de fecha 11 de diciembre de 1979, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, de fecha 20 de diciembre de 1979, el cual aprobó el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado por el Gobierno del Estado de Michoacán con la Secretaría de Hacienda y Crédito Público, en cuyo Anexo Número I, se estableció que quedarían en suspenso a partir de 1980, los impuestos siguientes: Sobre Productos y Rendimientos de Capital; al Comercio y a la Industria; Sobre Producción de Azúcar, Piloncillo, Mieles Cristalizables e Incristalizables; Sobre Producción de Alcohol, Aguardientes y Otras Bebidas Alcohólicas; Sobre Compraventa de Primera Mano de Productos Agrícolas; Sobre Compraventa o Permuta de Ganado y sus Esquilmos; Al Ejercicio Libre de Profesiones; y Sobre Compraventa de Primera Mano y Diversos Materiales para la Construcción, por lo que a partir del inicio de vigencia de esta Ley, se modifica el concepto de suspensión de los impuestos señalados, en virtud de que la Ley que los contiene queda abrogada.
+
+Artículo Cuarto. Toda referencia en la Ley de Ingresos para los Municipios del Estado de Michoacán de Ocampo, para el Ejercicio Fiscal del Año 2006, y en las Leyes de Ingresos de los Municipios de Cotija, Chavinda, La Piedad, Morelia, Sahuayo y Uruapan, Michoacán, para el Ejercicio Fiscal del Año 2006, de derechos por servicios de transporte público, por servicios de registro y control vehicular de vehículos y transporte particular y servicios de tránsito, se aplicará lo dispuesto por los artículos 7º, 8º y 9º de la Ley de Ingresos del Estado de Michoacán de Ocampo, para el Ejercicio Fiscal del Año 2006.
