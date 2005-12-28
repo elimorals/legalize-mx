@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-sobre-adquisiciones-enajenaciones-arrendamientos-354
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-26"
-last_updated: "2003-12-10"
+last_updated: "2005-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35445&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO SOBRE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2005.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 26 de noviembre de 2003.
 
@@ -69,9 +69,17 @@ El cumplimiento y aplicación de las disposiciones de este Reglamento, quedará 
 
 La vigilancia en el cumplimiento de los preceptos normativos del presente Reglamento, quedará a cargo del Consejo Estatal Electoral y de la Comisión de Administración y Financiamiento del IEE, en el ámbito de su respectiva competencia.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2005)</small>
 
-Todas las quejas, denuncias o inconformidades que se presenten en contra de los actos del Comité, serán turnadas a la Comisión de Administración y Financiamiento del IEE, quien analizará y resolverá en su caso lo conducente. Cuando el acto que se reclame sea relativo al fallo de una licitación, concurso o subasta, o a la adjudicación de un contrato hacia determinada persona, será el Consejo Estatal Electoral quien deberá emitir la resolución correspondiente.
+Todas las quejas o denuncias que se presenten en contra de los actos del Comité, serán presentadas ante el propio Comité quien las turnara de inmediato a la Comisión de Administración y Financiamiento del IEE, quien analizará y resolverá en su caso lo conducente. Cuando el acto que se reclame sea relativo al fallo de una licitación, concurso o subasta, o a la adjudicación de un contrato hacia determinada persona, será el Consejo Estatal Electoral quien deberá emitir la resolución correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2005)</small>
+
+Las quejas o denuncias a que se refiere el párrafo anterior, deberán ser presentadas dentro del plazo de las veinticuatro horas siguientes a la emisión del acto combatido.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2005)</small>
+
+La Comisión o en su caso el Consejo, resolverá las quejas o denuncias dentro del plazo de setenta y dos horas siguientes a su presentación.
 
 ###### ARTÍCULO 5.
 
@@ -95,9 +103,11 @@ VI. Dar cumplimiento a las resoluciones y normas que conforme al presente Reglam
 
 Los diferentes órganos del Instituto Estatal Electoral deberán de abstenerse de formalizar pedidos y contratos por cuenta propia, así como hacer modificaciones que se refieran a precios, anticipos, pagos, especificaciones y en general cualquier cambio que implique otorgar condiciones ventajosas a las establecidas originalmente.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 7.
 
-Los actos, contratos y convenios que los diversos órganos, del Instituto Estatal Electoral realicen sobre esta materia en contravención a lo dispuesto por este Reglamento, serán nulos de pleno derecho.
+Los actos, contratos y convenios que los diversos órganos, del Instituto Estatal Electoral realicen sobre esta materia en contravención a lo dispuesto por este Reglamento, serán nulos, siempre y cuando así lo determine la autoridad competente, con independencia de la (sic) responsabilidades administrativas, civiles y penales en que pueda incurrir el servidor público.
 
 ###### ARTÍCULO 8.
 
@@ -107,15 +117,19 @@ Todos los requerimientos en la materia que regula este Reglamento, deberán some
 
 Todas las adquisiciones, arrendamientos, o prestación de servicios, previamente a su formulación, deberán contar con la suficiencia presupuestal.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 10.
 
-Cuando en la revisión de los requerimientos, el Comité observe que no se ajustan a las prevenciones de este Reglamento, a las normas o bases que regulan el acto de que se trate o cualquier otra disposición aplicable, comunicará sus observaciones al titular de la Dirección Ejecutiva de Administración y Financiamiento, a efecto de que éste provea de mayores y mejores elementos para la obtención del bien requerido.
+Cuando en la revisión de los requerimientos, el Comité observe que no se ajustan a las prevenciones de este Reglamento, a las normas o bases que regulan el acto de que se trate o cualquier otra disposición aplicable, comunicará sus observaciones al titular de la Dirección Ejecutiva de Administración y Financiamiento, a efecto de que éste provea de mayores y mejores elementos para la obtención del bien requerido, con la autorización de la comisión de Administración y Financiamiento del IEE.
 
 ###### ARTÍCULO 11.
 
 Las adquisiciones que regula este Reglamento comprenden los bienes muebles; las enajenaciones únicamente se refieren a bienes muebles; los arrendamientos a su vez se refieren a bienes muebles e inmuebles y los servicios a los de cualquier naturaleza.
 
-Las adquisiciones y enajenaciones de bienes inmuebles no serán reguladas por este Reglamento, debiendo en esos casos sujetarse a lo establecido en la Ley General de Bienes del Estado.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2005)</small>
+
+Las adquisiciones y enajenaciones de bienes inmuebles no serán reguladas por este Reglamento, debiendo en esos casos sujetarse a lo establecido en la Ley General de Bienes del Estado, de acuerdo a lo establecido en el artículo 78 del Código Electoral para el Estado de Morelos.
 
 ## TÍTULO SEGUNDO. DEL COMITÉ PARA EL CONTROL DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y SERVICIOS
 
@@ -149,15 +163,21 @@ El Comité será Coordinado por el Secretario Ejecutivo del Consejo Estatal Elec
 
 Todos los miembros del Comité tendrán derecho a voz y voto, el cual tendrá el mismo valor sin distinción de sus miembros.
 
-Para sesionar el Comité deberá existir quórum legal, que se determinará con la mitad más uno de sus integrantes. Las sesiones ordinarias deberán verificarse por lo menos una vez al mes y de acuerdo al calendario que establezca el propio Comité, el cual deberá aprobarse en la primera sesión que se celebre cada año. Las sesiones extraordinarias serán programadas cuando así lo estime conveniente el Coordinador del Comité. Se podrá suspender la realización de una sesión ordinaria, cuando no exista punto alguno que tratar en la misma, debiendo levantar constancia de ello el Secretario Técnico del Comité.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2005)</small>
 
-Los acuerdos que adopte el Comité serán aprobados por unanimidad o mayoría de los votos de sus integrantes. En caso de que se produzca un empate por la ausencia de uno o varios miembros del Comité, se dejará pendiente el asunto de la orden del día que corresponda, para someterlo en la próxima sesión, misma en la que deberán encontrarse presentes todos los miembros del Comité para efecto de emitir su voto.
+Para sesionar el Comité deberá existir quórum legal, que se determinara con la mitad más uno de sus integrantes. En caso de ausencia del Coordinador del Comité, el Secretario Técnico lo suplirá en sus funciones de manera temporal y el responsable del área jurídica asumirá las funciones de Secretario Técnico temporalmente. Las sesiones ordinarias deberán verificarse por lo menos una vez al mes y de acuerdo al calendario que establezca el propio Comité, el cual deberá aprobarse en la primera sesión que se celebre cada año. Las sesiones extraordinarias serán programadas cuando así lo estime conveniente el Coordinador del Comité. Se podrá suspender la realización de una sesión ordinaria, cuando no exista punto alguno que tratar en la misma, debiendo levantar constancia de ello el Secretario Técnico del Comité.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2005)</small>
+
+Los acuerdos que adopte el Comité serán aprobados por unanimidad o mayoría de los votos de sus integrantes, pudiendo manifestar las razones de su voto. En caso de que se produzca un empate por la ausencia de uno o varios miembros del Comité, se dejara pendiente el asunto de la orden del día que corresponda, para citarse a una sesión extraordinaria, misma en la que deberán encontrarse presentes todos los miembros del Comité para efecto de emitir su voto.
 
 ###### ARTÍCULO 15.
 
 Las sesiones del Comité se realizarán de conformidad con lo siguiente:
 
-I. La convocatoria será efectuada por el Secretario Técnico.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2005)</small>
+
+I. La convocatoria será efectuada a propuesta del coordinador y por conducto del Secretario Técnico del Comité.
 
 II. La orden del día, junto con los documentos correspondientes de cada sesión, se entregará a los miembros del Comité, cuando menos con un día hábil de anticipación para reuniones ordinarias. En los casos de sesiones extraordinarias, bastará la convocatoria previa al evento anexando la respectiva orden del día.
 
@@ -165,9 +185,47 @@ III. De cada sesión se levantará acta, que será firmada por todos los que asi
 
 ### CAPÍTULO II. DEL SECRETARIO TÉCNICO
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 16.
 
-Son atribuciones enunciativas más no limitativas del Secretario Técnico del Comité, las siguientes:
+A fin de cumplir lo dispuesto por este Reglamento el Comité tendrá las siguientes funciones:
+
+I. Procurar el exacto cumplimiento de las normas conforme a las cuales se deberán adquirir y enajenar los bienes muebles, contratar el arrendamiento de bienes muebles e inmuebles y contratar los servicios para el Instituto Estatal Electoral y sus diferentes órganos.
+
+II. Sentar las bases y lineamientos generales conforme a los cuales deberán celebrarse las operaciones materia de este Reglamento.
+
+III. Solicitar a la Dirección Ejecutiva de Administración y Financiamiento del Instituto Estatal Electoral, su programa anual de adquisiciones, arrendamiento de bienes muebles e inmuebles, y contratación de servicios; así como formular las observaciones y recomendaciones convenientes.
+
+IV. Revisar los sistemas de adquisiciones, enajenaciones, contratos de servicios y establecer las medidas para mejorarlos.
+
+V. Fijar al inicio de cada ejercicio, conforme al presupuesto de egresos del Instituto Estatal Electoral, los montos máximos para determinar los procedimientos de adjudicación de las operaciones relativas a adquisiciones, arrendamientos y prestación de servicios, siendo en forma directa con la solicitud y obtención de 3 cotizaciones, 5 cotizaciones u 8 cotizaciones, concurso por invitación a cuando menos tres proveedores y licitación pública, con la salvedad de los casos de excepción previstos en el artículo 30 del presente reglamento.
+
+VI. Elaborar las bases y lineamientos en colaboración con el órgano del Instituto que corresponda, para la celebración de los concursos y subastas que regula este ordenamiento legal, y someterlo a consideración de la Comisión de Administración y Financiamiento del IEE, para que esta a su vez lo someta al Consejo Estatal Electoral para su aprobación correspondiente.
+
+VII. Convocar a los concursos y subastas, y vigilar su desarrollo, de conformidad con el presente Reglamento.
+
+VIII. Emitir resolución respecto de la adjudicación definitiva de los contratos de adquisiciones, arrendamientos, enajenaciones y prestación de servicios que regula este Reglamento, debiendo informar de inmediato a la Comisión para su conocimiento.
+
+IX. Dictar normas y bases generales para que los órganos del Instituto Estatal Electoral presten permanentemente mantenimiento, cuidado y uso debido a los bienes muebles e inmuebles en uso del Instituto Estatal Electoral.
+
+X. Elaborar el proyecto de reglamento interno del Comité y las actualizaciones que sean necesarias al mismo, para presentarlo a la aprobación del Consejo Estatal Electoral.
+
+XI. Determinar en coordinación con la Comisión de Administración y Financiamiento del IEE y con la aprobación del Consejo Estatal Electoral, los casos en que es procedente la enajenación de bienes muebles propiedad del Instituto Estatal Electoral.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2005)</small>
+
+###### ARTÍCULO 17.
+
+El Comité, podrá contratar asesoría técnica para la realización de investigaciones de mercado, mejoramiento del sistema de adquisiciones, arrendamientos, servicios, almacenes, verificación de precios, de calidad y otras actividades vinculadas con el objeto del presente Reglamento.
+
+### CAPÍTULO III. ATRIBUCIONES DEL COMITÉ
+
+> <small>(REFORMADO, P. O. 28 DE DICIEMBRE DE 2005)</small>
+
+###### ARTÍCULO 18.
+
+Son atribuciones del Secretario Técnico del Comité, las siguientes:
 
 I. Encargarse de elaborar la orden del día, listados, información y documentación correspondiente a cada uno de los asuntos que se traten en las sesiones del Comité.
 
@@ -183,41 +241,11 @@ VI. Recibir y resguardar las ofertas, garantías, poderes y demás documentos qu
 
 VII. Levantar constancia de todos los actos que se realicen con motivo de las licitaciones o concursos.
 
-###### ARTÍCULO 17.
-
-El Comité por conducto del Secretario Técnico, deberá presentar trimestralmente un informe de los acuerdos tomados en las sesiones ordinarias y extraordinarias, al pleno del Consejo Estatal Electoral del Instituto Estatal Electoral.
-
-### CAPÍTULO III. ATRIBUCIONES DEL COMITÉ
-
-###### ARTÍCULO 18.
-
-A fin de cumplir lo dispuesto por este Reglamento el Comité tendrá las siguientes funciones:
-
-I. Procurar el exacto cumplimiento de las normas conforme a las cuales se deberán adquirir y enajenar los bienes muebles, contratar el arrendamiento de bienes muebles e inmuebles y contratar los servicios para el Instituto Estatal Electoral y sus diferentes órganos.
-
-II. Sentar las bases y lineamientos generales conforme a los cuales deberán celebrarse las operaciones materia de este Reglamento.
-
-III. Solicitar a la Dirección Ejecutiva de Administración y Financiamiento del Instituto Estatal Electoral, su programa anual de adquisiciones, arrendamiento de bienes muebles e inmuebles, y contratación de servicios; así como formular las observaciones y recomendaciones convenientes.
-
-IV. Revisar los sistemas de adquisiciones, enajenaciones, contratos de servicios y establecer las medidas para mejorarlos.
-
-V. Fijar al inicio de cada ejercicio, conforme al presupuesto de egresos del Instituto Estatal Electoral, los montos máximos para determinar los procedimientos de adjudicación de las operaciones relativas a adquisiciones, arrendamientos y prestación de servicios, siendo en forma directa, con la solicitud y obtención de 3 cotizaciones, 5 cotizaciones, 8 cotizaciones, concurso por invitación a cuando menos tres proveedores, y Licitación Pública.
-
-VI. Elaborar las bases y lineamientos para la celebración de los concursos y subastas que regula este ordenamiento legal, y someterlo al Consejo Estatal Electoral para su aprobación a través de la Comisión.
-
-VII. Convocar a los concursos y subastas, y vigilar su desarrollo, de conformidad con el presente Reglamento.
-
-VIII. Emitir resolución respecto de la adjudicación definitiva de los contratos de adquisiciones, arrendamientos, enajenaciones y prestación de servicios que regula este Reglamento.
-
-IX. Dictar normas y bases generales para que los órganos del Instituto Estatal Electoral presten permanentemente mantenimiento, cuidado y uso debido a los bienes muebles e inmuebles en uso del Instituto Estatal Electoral.
-
-X. Elaborar y aprobar el manual de funcionamiento del Comité.
-
-XI. Determinar en coordinación con el Consejo Estatal Electoral, los casos en que es procedente la enajenación de bienes muebles propiedad del Instituto Estatal Electoral.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 19.
 
-El Comité, podrá contratar asesoría técnica para la realización de investigaciones de mercado, mejoramiento del sistema de adquisiciones, arrendamientos, servicios, almacenes, verificación de precios, de calidad y otras actividades vinculadas con el objeto del presente Reglamento.
+El Comité por conducto del Secretario Técnico, deberá presentar trimestralmente un informe de los acuerdos tomados en las sesiones ordinarias y extraordinarias, al pleno del Consejo Estatal Electoral del Instituto Estatal Electoral.
 
 ## TÍTULO TERCERO. DEL PADRÓN DE PROVEEDORES DEL INSTITUTO ESTATAL ELECTORAL
 
@@ -267,7 +295,9 @@ El comité podrá decretar la suspensión del registro del proveedor, cuando:
 
 I. No entregue los bienes ni preste los servicios en las condiciones contractuales;
 
-II. Se negare a dar las facilidades necesarias para que el comité o la Dirección Ejecutiva de Administración y Financiamiento del IEE, ejerzan sus funciones de verificación, inspección y vigilancia;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2005)</small>
+
+II. Se negare a dar las facilidades necesarias para que el Comité, la Dirección Ejecutiva de Administración y Financiamiento del IEE y la Comisión de Administración y Financiamiento del IEE, ejerzan sus funciones de verificación, inspección y vigilancia;
 
 III. Se niegue a substituir las mercancías o servicios que no reúnan los requisitos de calidad estipulada; y
 
@@ -311,9 +341,13 @@ I. Quienes celebren contratos en los términos que señala el artículo 30 del p
 
 II. Quienes arrienden bienes inmuebles para uso del IEE o de sus diferentes órganos.
 
-III. Las Empresas del Sector Paraestatal, las Dependencias, Organismos Descentralizados, de la Administración Pública Federal, Estatal o Municipal que celebren operaciones con el IEE en términos del presente Reglamento.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2005)</small>
 
-IV. Los campesinos o grupos ejidales que celebren contratos con el IEE en la materia que regula el presente ordenamiento legal.
+III. Las empresas del sector paraestatal, las instituciones de educación las dependencias, organismos descentralizados, de la Administración Publica Federal, Estatal o Municipal que celebren operaciones con el IEE en términos del presente Reglamento.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2005)</small>
+
+IV. Los campesinos, grupos ejidales o grupos obreros que celebren contratos con el IEE en la materia que regula el presente ordenamiento legal.
 
 ## TÍTULO CUARTO. DE LOS PROCEDIMIENTOS DE CONTRATACIÓN
 
@@ -323,21 +357,25 @@ IV. Los campesinos o grupos ejidales que celebren contratos con el IEE en la mat
 
 Las adquisiciones, arrendamientos, y prestaciones de servicios se adjudicarán o llevarán a cabo a través de licitaciones públicas, concursos por invitación o en forma directa, según sea el monto del contrato que se pretenda, observando estrictamente las partidas autorizadas en el presupuesto de egresos del Instituto Estatal Electoral.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 29.
 
-Para determinar el procedimiento de adjudicación de los contratos de adquisiciones, arrendamientos, y prestaciones de servicios, el Comité en su instauración y al inicio de cada ejercicio, determinará conforme al presupuesto anual del Instituto Estatal Electoral, los montos para cada una de las modalidades, a que refiere el art. 18 en su fracción V.
+Para determinar el procedimiento de adjudicación de los contratos de adquisiciones, arrendamientos, y prestaciones de servicios, el Comité en su instauración y al inicio de cada ejercicio, determinará conforme al presupuesto anual del Instituto Estatal Electoral, los montos para cada una de las modalidades, a que refiere el artículo 16 fracción V de este Reglamento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 30.
 
-Excepcionalmente y por acuerdo expreso del Comité, podrán realizarse adquisiciones y contratar arrendamientos y servicios, sin llevar la obtención de cotizaciones mínimas a que se refiere el artículo 18 fracción V, concursos o licitaciones publicas, en los siguientes casos específicos:
+Excepcionalmente y por acuerdo expreso del Comité y de la Comisión de Administración y Financiamiento del IEE, podrán realizarse adquisiciones y contratar arrendamientos y servicios, sin llevar a cabo la obtención de cotizaciones mínimas a que se refiere el artículo 16 fracción V del presente instrumento, concursos o licitaciones públicas, en los siguientes casos específicos:
 
 I. Que el contrato solo pueda celebrarse con una determinada persona por tratarse de obras de arte, titularidad de patentes, derechos de autor u otros derechos exclusivos.
 
 II. Se trate de adquisiciones, arrendamientos y prestación de servicios, que de no efectuarse pongan en riesgo las operaciones o programas prioritarios del Instituto Estatal Electoral.
 
-III. Cuando se trate de adquisiciones, arrendamientos y prestación de servicios, que deban contratarse a consecuencia de desastres producidos por fenómenos naturales, por casos fortuitos o de fuerza mayor o existan circunstancias que puedan provocar pérdidas o costos adicionales importantes en perjuicio del Instituto Estatal Electoral.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE 2005)</small>
+
+III. Cuando se trate de adquisiciones, arrendamientos, servicios y obra determinada cuya contratación se realice con Dependencias, Instituciones de Educación, Organismos y Entidades Públicas Federales, Estatales o Municipales, con campesinos o grupos ejidales.
 
 IV. Cuando se trate de adquisiciones, arrendamientos, servicios y obra determinada cuya contratación se realice con Dependencias, Organismos y Entidades Públicas Federales, Estatales o Municipales, con campesinos o grupos ejidales.
 
@@ -367,11 +405,15 @@ Las personas que celebren operaciones en términos del presente artículo, queda
 
 Las licitaciones que celebre el Instituto Estatal Electoral se efectuarán mediante convocatoria pública, para que los interesados en participar presenten proposiciones en sobre cerrado, que será abierto públicamente a fin de asegurar la transparencia de la subasta y garantizar las mejores condiciones en cuanto a precio, calidad, financiamiento, oportunidad y demás características convenientes, de acuerdo a lo previsto en el presente Reglamento y a la convocatoria respectiva.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 32.
 
-Las convocatorias, que podrán referirse a uno o varios contratos, relacionados con las operaciones materia de este Reglamento, se publicarán por una sola vez en el Periódico Oficial “Tierra y Libertad”, en un diario local de gran circulación y en otro de carácter nacional.
+Las convocatorias, que podrán referirse a uno o varios contratos, relacionados con las operaciones materia de este Reglamento, se publicaran por una sola vez en el Periódico Oficial “Tierra y Libertad”, en un diario local de gran circulación y en otro de carácter nacional, así como en el sistema Compranet de la Secretaría de la Función Pública del Gobierno Federal.
 
-Excepcionalmente y por acuerdo expreso del Comité, se podrán publicar las convocatorias únicamente en el Periódico Oficial “Tierra y Libertad” y en un diario local de gran circulación, cuando se requiera la participación exclusiva de empresas o prestadores de servicios establecidos en el Estado.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2005)</small>
+
+Excepcionalmente y por acuerdo expreso del Comité y de la Comisión de Administración y financiamiento del IEE, se podrán publicar las convocatorias únicamente en el Periódico Oficial “Tierra y Libertad” y en un diario local de amplia circulación, cuando se requiera la participación exclusiva de empresas o prestadores de servicios establecidos en el Estado.
 
 Las convocatorias deberán contener:
 
@@ -441,9 +483,13 @@ XVI. La indicación de que el licitante que no firme el contrato por causas impu
 
 Los plazos que deberán observarse en el desarrollo del procedimiento de licitación pública, serán los siguientes:
 
-Las bases de la licitación estarán disponibles para su consulta y venta a partir del mismo día en que se publique la convocatoria correspondiente, hasta un día hábil previo al acto del registro de licitantes, presentación y apertura de proposiciones.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2005)</small>
 
-La junta de aclaraciones a las bases deberá celebrarse en el período de tiempo comprendido entre el último día para consulta y venta de las bases y dos días hábiles previos a la fecha en que tenga verificativo el acto de registro de licitantes, presentación y apertura de proposiciones.
+Las bases de la licitación estarán disponibles para su consulta y venta a partir del mismo día en que se publique la convocatoria correspondiente, y por un periodo que no sea inferior a diez días hábiles contados a partir de la publicación de la citada convocatoria.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2005)</small>
+
+La junta de aclaraciones a las bases deberá celebrarse en el periodo de tiempo comprendido entre el último día para consulta y venta de las bases y un día hábil previo a la fecha en que tenga verificativo el acto de registro de licitantes, presentación y apertura de proposiciones.
 
 El acto de registro de licitantes, presentación y apertura de proposiciones, deberá iniciarse en un plazo que no sea inferior a doce días hábiles contados a partir de la publicación de la convocatoria respectiva.
 
@@ -451,7 +497,9 @@ El fallo de la licitación deberá darse a conocer dentro de un plazo de veinte 
 
 Cuando no puedan observarse los plazos indicados en este artículo porque existan razones justificadas del área solicitante de los bienes, arrendamientos o servicios, siempre que ello no tenga por objeto limitar el número de participantes, el Comité podrá autorizar la reducción de los plazos hasta por la mitad de los mismos.
 
-El Instituto Estatal Electoral, siempre que no sea con el objeto de limitar el número de licitantes, podrá modificar las fechas de los eventos de la licitación u otros aspectos establecidos en la convocatoria o en las bases, siempre y cuando dichas modificaciones se hagan del conocimiento de todos los licitantes, antes del verificativo o en la propia junta de aclaraciones a las bases.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2005)</small>
+
+El comité en coordinación con la Comisión de Administración y Financiamiento del IEE y con la aprobación del Consejo Estatal Electoral, siempre que no sea con el objeto de limitar el numero de licitantes, podrá modificar las fechas de los eventos de la licitación u otros aspectos establecidos en la convocatoria o en las bases, siempre y cuando dichas modificaciones se hagan del conocimiento de todos los licitantes, antes del verificativo o en la propia junta de aclaraciones a las bases.
 
 ###### ARTÍCULO 35.
 
@@ -463,9 +511,11 @@ La junta de aclaraciones a las bases se realizará con el objeto de esclarecer l
 
 La participación del licitante en dicha junta no será obligatoria, no obstante el licitante será responsable de conocer los acuerdos tomados en la junta, ya que estos formarán parte integrante de las bases de la licitación. Del evento se levantará acta en la que firmarán los que hayan intervenido en ella.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 37.
 
-En el acto de registro de licitantes, presentación y apertura de proposiciones, se presentará la documentación relativa a la personalidad y aspectos administrativos del licitante, así como las proposiciones técnica y económica, que se entregará en tres sobres cerrados respectivamente, mismos que serán identificados conforme lo establezca el IEE en las bases de la licitación correspondiente.
+En el acto de registro de licitantes, presentación y apertura de proposiciones, se presentara la documentación relativa a la personalidad y aspectos administrativos del licitante, así como las proposiciones técnica y económica, que se entregara en tres sobres cerrados respectivamente, mismos que serán identificados conforme lo establezca el Comité en las bases de la licitación correspondiente.
 
 ###### ARTÍCULO 38.
 
@@ -475,11 +525,15 @@ En la primera etapa, se efectuará el registro de los licitantes presentes que h
 
 Una vez efectuado el registro de los licitantes, se procederá a recibir las proposiciones técnica y económica en sus respectivos sobres cerrados. A su vez se procederá a la apertura de la proposición técnica exclusivamente y se desecharán en el acto las que hubieran omitido alguno de los requisitos exigidos.
 
-Por lo menos un licitante, si asistiere alguno, y cuatro miembros del Comité, rubricarán las propuestas técnicas presentadas, así como los correspondientes sobres cerrados que contengan las propuestas económicas de los licitantes, incluidos los de aquellos participantes cuyas propuestas técnicas hubieren sido desechadas, quedando en custodia del IEE.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2005)</small>
+
+Por lo menos un licitante, si asistiere alguno, y cuatro miembros del Comité, rubricarán las propuestas técnicas presentadas, así como los correspondientes sobres cerrados que contengan las propuestas económicas de los licitantes, incluidos los de aquellos participantes cuyas propuestas técnicas hubieren sido desechadas, quedando en custodia del Secretario Técnico del Comité y resguardadas en la caja fuerte del IEE.
 
 Se levantará acta de la primera etapa, en la que se harán constar las propuestas técnicas aceptadas para su análisis, así como las que hubieren sido desechadas y las causas que lo motivaron; el acta será firmada por los asistentes, la falta de firma de algún licitante no invalidará su contenido y efectos.
 
-El IEE procederá a realizar el análisis de las propuestas técnicas aceptadas, debiendo dar a conocer el resultado a los licitantes en la segunda etapa, previo a la apertura de las propuestas económicas.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2005)</small>
+
+El Comité procederá a realizar el análisis de las propuestas técnicas aceptadas, debiendo dar a conocer el resultado a los licitantes en la segunda etapa, previo a la apertura de las propuestas económicas.
 
 En la segunda etapa que podrá celebrarse en fecha distinta a la de la primera etapa, misma que deberá ajustarse a los plazos que marca el artículo 34 del presente Reglamento, una vez conocido el resultado técnico, se procederá a la apertura de las propuestas económicas de los licitantes cuyas propuestas técnicas no hubieren sido desechadas, y se dará lectura en voz alta al importe de las propuestas que cubran los requisitos exigidos. Por lo menos un licitante, si asistiere alguno, y cuatro de los miembros del Comité presentes, rubricarán las propuestas económicas.
 
@@ -487,9 +541,11 @@ Se levantará acta de la segunda etapa en la que se hará constar el resultado t
 
 De todas las actas y constancias que se levanten con motivo del desarrollo de las etapas del acto de registro de licitantes, presentación y apertura de proposiciones, se les otorgará copia a los licitantes para efecto de su notificación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 39.
 
-El IEE para hacer la evaluación de las proposiciones deberán verificar que las mismas cumplan con los requisitos solicitados en las bases de licitación.
+El Comité para hacer la evaluación de las proposiciones deberá verificar que las mismas cumplan con los requisitos solicitados en las bases de licitación.
 
 No será objeto de evaluación, las condiciones establecidas por el IEE que tengan como propósito facilitar la presentación de las proposiciones y agilizar la conducción de los actos de la licitación; así como cualquier otro requisito cuyo incumplimiento, por si mismo, no afecte la solvencia de las propuestas y de los licitantes. La inobservancia por parte de los licitantes respecto a dichas condiciones o requisitos no será motivo para desechar sus propuestas.
 
@@ -501,9 +557,21 @@ Una vez hecha la evaluación de las proposiciones, el contrato se adjudicará de
 
 Si resultare que dos o más proposiciones son solventes porque satisfacen la totalidad de los requerimientos solicitados por el IEE, el contrato se adjudicará a quien presente la proposición cuyo precio sea el más bajo.
 
-De resultar conveniente dividir la adjudicación del contrato, se señalarán proporcionalmente los porcentajes o las partidas correspondientes a cada uno de los licitantes adjudicados, a efecto de que el abastecimiento sea oportuno, los precios razonables y se evite la excesiva dependencia.
+> <small>(DEROGADO SEPTIMO PARRAFO, P.O. 28 DE DICIEMBRE DE 2005)</small>
 
 El Comité emitirá un dictamen que servirá como base para el fallo, en el que se hará constar una reseña cronológica de los actos del procedimiento, el análisis de las proposiciones y las razones para admitirlas o desecharlas.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2005)</small>
+
+ARTÍCULO 39 bis.- Una vez calificados los aspectos legales, técnicos y económicos, en el supuesto de que exista un empate en el precio ofertado por dos o más licitantes, el Comité evaluará en el orden que se enlista, los siguientes aspectos para determinar la adjudicación del contrato respectivo:
+
+1. Se dará preferencia a los proveedores o prestadores de servicios del Estado.
+
+2. Se tomaran en cuenta los valores agregados ofrecidos por los licitantes, siempre y cuando así lo hayan manifestado desde la presentación de sus propuestas.
+
+3. Se tomará en cuenta la experiencia del proveedor o prestador de servicios.
+
+De resultar que no se puedan evaluar ninguno de los aspectos antes descritos, el Comité hará constar dicha situación y procederá a diferir el fallo de la licitación, notificando en el acto o por escrito a los licitantes que cumplieron los aspectos legales y técnicos y hayan empatado en el precio más bajo ofrecido, para que presenten una segunda propuesta económica que mejore la inicialmente realizada, misma que deberá presentarse en sobre debidamente sellado y rotulado y en la fecha que expresamente señale el Comité. El licitante que en este supuesto presente la oferta económica cuyo precio sea el más bajo, será a quien se le adjudique el contrato de la licitación respectiva, sin menoscabo de los aspectos contenidos en la propuesta técnica que previamente se le evaluó.
 
 ###### ARTÍCULO 40.
 
@@ -521,11 +589,15 @@ B. Si no se inscribe cuando menos un participante en el acto de registro de lici
 
 C. Si las propuestas presentadas no reúnen los requisitos de las bases de la licitación.
 
-D. Si las ofertas presentadas no fueren aceptables para el IEE.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2005)</small>
+
+D. Si las ofertas presentadas no fueren aceptables para el IEE, lo que será determinado por acuerdo del Comité y con la aprobación de la Comisión de Administración y Financiamiento del IEE.
 
 E. Cuando ninguna de las propuestas ofrezca las condiciones disponibles en cuanto a precio, calidad, oportunidad y demás características requeridas por el IEE.
 
-En estos casos el Comité podrá autorizar la expedición de una segunda convocatoria o bien la adjudicación directa del contrato que se requiera, siempre y cuando este último supuesto se encuentre plenamente justificado por razones de extrema necesidad o urgencia.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2005)</small>
+
+En estos casos el Comité previo acuerdo con la Comisión de Administración y Financiamiento del IEE, podrá solicitar al Consejo Estatal Electoral la expedición de una segunda convocatoria o bien la adjudicación directa del contrato que se requiera, siempre y cuando este último supuesto se encuentre plenamente justificado por razones de extrema necesidad o urgencia.
 
 ### CAPÍTULO III. CONCURSO POR INVITACIÓN A CUANDO MENOS TRES PERSONAS
 
@@ -557,9 +629,11 @@ VII. A las demás disposiciones de este Reglamento que resulten aplicables.
 
 ### CAPÍTULO IV. DE LA ADJUDICACIÓN DIRECTA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 44.
 
-Las adquisiciones, arrendamientos, y prestaciones de servicios cuyo valor del contrato no exceda del monto que establece el artículo 29 del presente Reglamento, se realizarán por adjudicación directa.
+Las adquisiciones, arrendamientos, y prestaciones de servicios cuyo valor del contrato no exceda del monto que establecen los artículos 16 fracción V y 29 del presente Reglamento, se realizaran por adjudicación directa.
 
 Para efectos de este artículo, las operaciones que se realicen deberán garantizar las mejores condiciones en cuanto a precio, calidad y oportunidad, con la finalidad de obtener el mejor aprovechamiento de las partidas presupuéstales del Instituto Estatal Electoral.
 
@@ -649,15 +723,19 @@ Las garantías que deban otorgarse conforme a este Reglamento se constituirán e
 
 ### CAPÍTULO IV. DE LAS PERSONAS IMPEDIDAS PARA CELEBRAR LOS CONTRATOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 52.
 
-El Instituto Estatal Electoral se abstendrá de recibir propuestas o celebrar contratos en las materias a que se refiere este Reglamento, con las personas físicas o morales siguientes:
+El Instituto Estatal Electoral se abstendrá de aceptar propuestas o celebrar contratos en las materias a que se refiere este Reglamento, con las personas físicas o morales siguientes:
 
 I. Aquellas en las que participe como titular, socio, asociado, administrador, gerente, apoderado o comisario, el funcionario del IEE que deba decidir directamente sobre la adjudicación del contrato correspondiente, o su cónyuge, parientes consanguíneos o por afinidad hasta el cuarto grado.
 
 II. Aquellas en las que el dirigente u otra persona con cargo autorizado dentro de cualquier partido político con registro vigente, tenga un interés personal o de negocios para la celebración del contrato.
 
-III. Aquellas en las que por causas imputables a ellos mismos, el Instituto Estatal Electoral les hubiere rescindido administrativamente un contrato, y no haber transcurrido el plazo de sanción fijado por el Comité, en cuyo caso la condición quedará sin efecto.
+> <small>(REFORMADA, P.O. DE DICIEMBRE DE 2005)</small>
+
+III. Aquellas en las que participe como titular, socio, asociado, administrador, gerente, apoderado o comisario cualquier persona que haya ocupado un cargo de Directivo dentro de algún partido político, de carácter Municipal, Distrital, Estatal o Federal, o haya sido servidor público del IEE, en los últimos tres años anteriores a la fecha en que participe o pretenda celebrar un contrato.
 
 IV. Las que se encuentren inhabilitadas por resolución de la Secretaría de la Contraloría del Estado o de la Federación.
 
@@ -715,9 +793,11 @@ Los bienes muebles propiedad del IEE que figuren en los inventarios y que por el
 
 Los bienes muebles que ya no sean útiles, serán enviados a la Dirección Ejecutiva de Administración y Financiamiento del Instituto Estatal Electoral, para su rehabilitación o enajenación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 57.
 
-Los bienes que deban venderse, se enajenarán mediante subasta pública, la cual podrá efectuarse de manera unitaria o por lotes, conforme lo determine el Comité, previa fijación de precios de los muebles objeto del remate, que efectuará un perito valuador designado por el Comité.
+Los bienes que deban venderse, se enajenarán mediante subasta pública, la cual podrá efectuarse de manera unitaria o por lotes, conforme lo determine el Comité con la autorización de la Comisión de Administración y Financiamiento del IEE, previa fijación de precios de los muebles objeto del remate, que efectuara un perito valuador designado por el Comité.
 
 El producto obtenido con la enajenación de los bienes muebles no podrá utilizarse para ejecutar gasto corriente o para la compra de bienes consumibles, siempre deberá utilizarse para la adquisición de activos fijos del IEE.
 
@@ -874,6 +954,20 @@ Primero.- Es competente para emitir el presente acuerdo en términos de lo expue
 Segundo.- Se aprueban las reformas a los artículos 6, 30 fracciones VII y VIII, 41 primer párrafo y 55 del Reglamento sobre Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios para el Instituto Estatal Electoral, en los términos que quedaron precisados en el considerando segundo del presente acuerdo.
 
 Tercero.- Las reformas al citado reglamento, entrarán en vigor a partir de la presente fecha, quedando sin efecto legal alguno el texto anterior de los artículos 6, 30 fracciones VII y VIII, 41 primer párrafo y 55 fracción V de la normatividad aludida.
+
+Cuarto.- Publíquese el presente acuerdo en el Periódico Oficial denominado "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
+
+Quinto.- Agréguese al Reglamento sobre Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios para el Instituto Estatal Electoral, el artículo transitorio que corresponda con motivo de las reformas a los artículos que quedaron precisados en el cuerpo del presente acuerdo.
+
+P.O. 28 DE DICIEMBRE DE 2005.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO DE REFORMAS QUE SE RELACIONAN CON EL PRESENTE REGLAMENTO.
+
+Primero.- Es competente para emitir el presente acuerdo en términos de lo expuesto en el considerando primero del mismo.
+
+Segundo.- Se aprueban las reformas a los artículos 4 párrafos tercero, cuarto y quinto, 7, 10, 11 segundo párrafo, 14 tercero y cuarto párrafo, 15 fracción I, 16, 17, 18, 19, 24 fracción II, 27 fracciones III y IV, 29, 30 primer párrafo y fracción III, 32 párrafos primero y segundo, 34 párrafos segundo, tercero y séptimo, 37, 38 párrafos cuarto y sexto, 39 primer párrafo y se suprime el párrafo séptimo, se adiciona el artículo 39 bis, se reforman los artículos 41 inciso D) y segundo párrafo, 44 primer párrafo, 52 primer párrafo y fracción III y 57 primer párrafo, del Reglamento sobre Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios para el Instituto Estatal Electoral, en los términos que quedaron precisados en el considerando tercero del presente acuerdo.
+
+Tercero.- Las reformas al citado reglamento, entraran en vigor a partir de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado, quedando a partir de esa fecha sin efecto legal alguno el texto anterior de los preceptos reglamentarios de referencia.
 
 Cuarto.- Publíquese el presente acuerdo en el Periódico Oficial denominado "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
 
