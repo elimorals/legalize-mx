@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-adquisiciones-arrendamientos-y-servicios-del-estado-4638
 country: "mx"
 rank: "ley"
 publication_date: "2005-09-14"
-last_updated: "2005-09-14"
+last_updated: "2005-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "BCS"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el miércoles 14 de septiembre de 2005.
-
-Ley publicada en el Extraordinario No. 50 del Boletín Oficial del Estado de Baja California Sur, el miércoles 14 de septiembre de 2005.
 
 DECRETO 1555
 
@@ -707,23 +705,15 @@ XVII. Se acepte la adquisición de bienes o la prestación de servicios a títul
 
 XVIII. Cuando no existan por lo menos tres proveedores idóneos, previa investigación de mercado que al respecto se hubiere realizado.
 
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 53.
 
 Las Dependencias, Entidades y Organismos Autónomos, podrán optar por no llevar a cabo el procedimiento de Licitación Pública en los siguientes supuestos:
 
-I. Podrá contratarse por adjudicación directa cuando el importe de cada operación no exceda de $220,000.00 (DOSCIENTOS VEINTE MIL PESOS 00/100 M.N), siempre que las operaciones no se fraccionen para quedar comprendidas en los supuestos de excepción a la licitación pública a que se refiere este artículo;
+I. Podrá contratarse por adjudicación directa cuando el importe de cada operación no exceda del equivalente a la cantidad de cuatro mil setecientos un veces el salario mínimo diario general vigente en el Estado de Baja California Sur, siempre que las operaciones no se fraccionen para quedar comprendidas en los supuestos de excepción a la licitación pública a que se refiere este artículo;
 
-II. Podrá contratarse por Invitación a cuando menos a tres personas, cuando el monto sea superior a $220,000.01 (DOSCIENTOS VEINTE MIL PESOS 01/100 M.N), hasta $599,999.99 (QUINIENTOS NOVENTA Y NUEVE MIL NOVECIENTOS NOVENTA Y NUEVE PESOS 99/100 M.N), siempre que las operaciones no se fraccionen para quedar comprendidas en los supuestos de excepción a la licitación pública a que se refiere este artículo.
-
-Para efectos de las fracciones anteriores, se invitará a personas que cuenten con la capacidad de respuesta y los recursos técnicos, económicos y financieros y demás que sean necesarios para la adquisición, arrendamiento o servicio.
-
-Las Dependencias, Entidades y Organismos Autónomos, que requieran contratar o realizar estudios y proyectos, deberán ajustarse a lo estipulado en el Artículo 25 de esta Ley.
-
-Cuando diversas áreas de las Dependencias, Entidades y Organismos Autónomos sean las que por sí mismas realicen las contrataciones, los montos a que se refiere este artículo se calcularán de acuerdo con el presupuesto que a cada una de ellas les corresponda ejercer.
-
-En el supuesto de que dos procedimientos de invitación a cuando menos tres personas hayan sido declarados desiertos, el titular del área responsable de la contratación en la Dependencia o Entidad podrá adjudicar directamente el contrato, debiendo informar al Comité de Adquisiciones, Arrendamientos y Servicios.
-
-Para fomentar el desarrollo y la participación de las empresas locales, las Dependencias, Entidades y Organismos Autónomos procurarán que las operaciones comprendidas en los supuestos de excepción a Licitación Pública, sean adjudicadas a aquéllas cuando menos el ochenta por ciento del valor de los contratos.
+II. Podrá contratarse por Invitación a cuando menos a tres personas, cuando el monto sea superior al equivalente a la cantidad de cuatro mil setecientos un veces el salario mínimo diario general vigente en el Estado de Baja California Sur, hasta el equivalente, a Doce mil Ochocientos Veintiún veces el salario mínimo diario general vigente en el Estado de Baja California Sur, siempre que las operaciones no se fraccionen para quedar comprendidas en los supuestos de excepción a la licitación pública a que se refiere este artículo.
 
 ###### Artículo 54.
 
@@ -993,6 +983,8 @@ La convocante no podrán (sic) financiar a proveedores la adquisición o arrenda
 
 ### Capítulo Único
 
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 73.
 
 Las Dependencias y Entidades deberán remitir a la Contraloría respectiva, Trimestralmente, en la forma y términos que ésta señale, la información relativa a los contratos que regula esta Ley, así como conservar en forma ordenada y sistemática, documentación que justifique y compruebe la realización de las operaciones reguladas por este ordenamiento, por un término no menor de cinco años contados partir (sic) de la fecha en que se hubiesen recibido contados a partir de la fecha de su recepción; excepto la documentación contable, en cuyo caso se estará a lo previsto en las disposiciones aplicables.
@@ -1015,7 +1007,7 @@ La Contraloría podrá verificar la calidad de las especificaciones de los biene
 
 ###### Artículo 76.
 
-Los Licitantes o Proveedores que infrinjan las disposiciones contenidas en esta Ley serán sancionados con multa equivalente a seiscientos cuarenta salarios mínimos diarios general vigente en el Estado, en la fecha de la infracción, o hasta el equivalente a mil novecientos salarios mínimos diarios general vigente, en caso de reincidencia.
+Los Licitantes o Proveedores que infrinjan las disposiciones contenidas en esta Ley serán sancionados por la Contraloría con multa equivalente a la cantidad de cincuenta hasta seiscientos cuarenta veces el salario mínimo diario general vigente en el Estado de Baja California Sur, en la fecha de la infracción, o hasta el equivalente a la cantidad de mil Novecientos (sic) veces el salario mínimo diario general vigente en el Estado, en caso de reincidencia.
 
 ###### Artículo 77.
 
@@ -1194,3 +1186,9 @@ PRESIDENTE
 DIP. RAMON ALVARADO HIGUERA.
 
 SECRETARIO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 28 DE DICIEMBRE DE 2005.
+
+ÚNICO.- El presente decreto entrará en vigor el día Primero del mes de Enero del año dos mil seis.
