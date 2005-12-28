@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-6631"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-01-04"
-last_updated: "2004-12-15"
+last_updated: "2005-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2005.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -3237,11 +3237,15 @@ XXV.- Por la inscripción de testimonios notariales que rectifiquen o aclaren el
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
 
-XXVI.- Por la inscripción, anotación, cancelación, expedición de documentos o informes de cualquier otro acto no especificado en este artículo, sobre el importe mayor del que resulte del de operación, catastral, bancario o de factura: diez al millar, si el acto no es determinable en dinero, se cobrará diez días de salario; y,
+XXVI.- Por la inscripción, anotación, cancelación, expedición de documentos o informes de cualquier otro acto no especificado en este artículo, sobre el importe mayor del que resulte del de operación, catastral, bancario o de factura: diez al millar, si el acto no es determinable en dinero, se cobrará diez días de salario; y, (sic)
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
 
-XXVII.- Por la consulta de los libros del Registro Público de la Propiedad, dentro del horario autorizado: un día de salario.
+XXVII.- Por la consulta de los libros del Registro Público de la Propiedad, dentro del horario autorizado: un día de salario;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2005)</small>
+
+XXVIII.- Por la inscripción de concesiones para la prestación de servicio público: de 20 a 40 días de salario.
 
 > <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
@@ -3577,67 +3581,69 @@ b).- Automovilista $ 62.00
 
 c).- Motociclista $ 43.00
 
-> <small>(REFORMADA POR EL ARTICULO NOVENO DE LA LEY DE INGRESOS PARA EL GOBIERNO DEL ESTADO DE MORELOS, P.O. 15 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2005)</small>
 
 II.- Por la expedición de placas, tarjetas de circulación y engomado:
 
-A).- Servicio Particular:
+A) Servicio Particular:
 
-1.- Automóvil $320.00
+Concepto Tarifa
 
-2.- Camión 550.00
+1. Automóvil $320.00
 
-3.- Remolque 550.00
+2. Camión 550.00
 
-4.- Antiguo 650.00
+3. Demostradora 700.00
 
-5.- Demostradora 700.00
+4. Remolque 550.00
 
-6.- Motocicleta 275.00
+5. Con capacidades diferentes 300.00
 
-B).- Servicio Público $600.00
+6. Motocicleta 275.00
+
+7. Antiguo 650.00
+
+B) Servicio Público: $600.00
+
+1. Sustitución o reposición de placas:
+
+a) Por una placa $200.00
+
+b) Por dos placas 400.00
 
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2000)</small>
 
 II-BIS.- Canje de Placas. $180.00
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2005)</small>
 
-III.- Refrendo anual de tarjetas de circulación y engomado.
+III. Refrendo anual de tarjeta de circulación y holograma:
 
-1.- Auto particular N$ 33.60
+1. Auto particular $200.00
 
-2.- Camión particular N$ 33.60
+2. Camión particular 300.00
 
-3.- Remolque con capacidad hasta de dos toneladas N$ 33.60
+3. Remolque 300.00
 
-4.- Remolque con capacidad de más de dos toneladas N$ 96.00
+4. Demostradora 300.00
 
-5.- Demostradoras N$ 140.00
+5. Antiguo 300.00
 
-6.- Transporte escolar N$ 33.60
+6. Motocicletas 150.00
 
-7.- Motocicleta N$ 33.60
+7. Con capacidades diferentes 20.00
 
-8.- Vehículos de servicio público:
+8. Servicio Público
 
-A) Autos de servicio público N$ 111.20
+a) Servicio de transporte de 300.00
 
-B) Combi de servicio público N$ 111.20
+pasajeros sin itinerario fijo.
 
-C) Van de servicio público N$ 111.20
+b) Servicio de Transporte de 300.00
 
-D) Microbús de servicio público N$ 111.20
+pasajeros con itinerario fijo.
 
-E) Combis de patrimonio comunal N$ 111.20
-
-F) Camión materialista N$ 96.00
-
-G) Camión de carga en general N$ 96.00
-
-H) Camión de pasajeros urbanos y sub-urbanos N$ 111.20
-
-I) Bicicletas N$ 9.60
+c) Servicio de carga en general. 300.00
 
 > <small>(ADICIONADA, P.O. 30 DE JULIO DE 2004)</small>
 
@@ -5234,3 +5240,13 @@ P.O. 15 DE DICIEMBRE DE 2004.
 PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Tierra y Libertad" e iniciará su aplicación a partir del 1º de enero del año 2005.
 
 SEGUNDO.- Se derogan todas las disposiciones que concedan subsidios o exenciones, con excepción de las previstas en la Ley general de Hacienda del Estado de Morelos, o las que con aprobación del Congreso del Estado se promulguen. Asimismo, se reforma la Fracción II del Artículo 424 de la Ley General de Hacienda del Estado de Morelos.
+
+P.O. 28 DE DICIEMBRE DE 2005.
+
+PRIMERO.- La presente Ley entrará en vigor a partir del 1 de enero del año 2006.
+
+SEGUNDO.- Remítase la presente Ley al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+TERCERO.- Las reformas a la Ley General de Hacienda del Estado de Morelos que se contienen en el artículo octavo de la presente Ley y consistentes en la adicción de una fracción XXVIII al artículo 415 y la modificación de la (sic) fracciones II y III del artículo 424 iniciarán su vigencia el día primero de enero de 2006.
+
+CUARTO.- Se derogan todas las disposiciones que concedan subsidios o exenciones, con excepción de las previstas en la ley General de Hacienda del Estado de Morelos, o las que con aprobación del Congreso del Estado se promulguen.
