@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-cuauhtemoc-colima-26791"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2005-03-06"
+last_updated: "2005-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26791&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE CUAUHTEMOC
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -825,7 +825,35 @@ Los servicios médicos municipales, causarán los siguientes derechos:
 
 Los derechos por el uso de la vía pública y estacionamiento se causarán y pagarán conforme a la siguiente tarifa:
 
-(VEASE ARCHIVO ANEXO)
+Unidad de salario
+
+I. Estacionamiento de automóviles de sitio, anualmente, por cajón 3.00 a 10.00
+
+II. Camiones y camionetas de alquiler, que hagan sitio, anualmente, por cajón 3.00 a 10.00
+
+III. Camiones urbanos y minibuses para transporte urbano, anualmente, por cajón 3.00 a 15.00
+
+IV. Por el uso de la vía pública de puestos fijos, semifijos o ambulantes que se instalen en la misma, incluyendo tianguis, diariamente por metro lineal de frente:
+
+a) Venta de productos de canasta básica 0.11
+
+b) Venta de productos no básicos 0.13
+
+c) Venta de productos suntuarios 0.15
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2005)</small>
+
+Por los conceptos a que se refiere esta fracción, las personas mayores de 60 años y los tianguistas, pagarán el 50 por ciento de la tarifa aplicable.
+
+V. Las personas físicas o morales que instalen o tengan instalados aparatos de telefonía en las vías y áreas públicas urbanas del municipio pagarán mensualmente por caseta 2.00
+
+VI. Por el uso y estacionamiento particular o comercial en la vía pública, por metro lineal, mensualmente 1.50
+
+VII.- Por el uso de la vía pública para negocios establecidos, por metro lineal, mensualmente 1.00 a 2.00
+
+VIII.- Por el uso de la vía pública (materiales para construcción, escombro cascajo, grava arena y piedra) por metro lineal, diariamente 0.50 a 2.50
+
+IX.- Otros no especificados en ésta sección 2.30
 
 #### SECCION PRIMERA. ALUMBRADO PUBLICO
 
@@ -1174,3 +1202,7 @@ P.O. 25 DE DICIEMBRE DE 2004.
 P.O. 6 DE MARZO DE 2005.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 28 DE DICIEMBRE DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
