@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-la-renta-22690"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-01"
-last_updated: "2005-12-26"
+last_updated: "2005-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22690&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISR"
 
 LEY DEL IMPUESTO SOBRE LA RENTA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE DICIEMBRE DE 2005.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 1 de enero de 2002.
 
@@ -5656,6 +5656,54 @@ Los Comités Técnicos referidos estarán obligados a publicar dentro de los mes
 
 La Secretaría de Hacienda y Crédito Público, en el ejercicio de sus facultades, verificará el correcto uso del estímulo fiscal.
 
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 227.
+
+Para promover la inversión en capital de riesgo en el país, se les dará el tratamiento fiscal establecido en el artículo 228 de esta Ley a las personas que inviertan en acciones emitidas por sociedades mexicanas residentes en México no listadas en bolsa al momento de la inversión, así como en préstamos otorgados a estas sociedades para financiarlas, a través de los fideicomisos en los que se cumplan los requisitos siguientes:
+
+I. Que el fideicomiso se constituya de conformidad con las leyes mexicanas y la fiduciaria sea una institución de crédito residente en México para actuar como tal en el país;
+
+II. Que el fin primordial del fideicomiso sea invertir en el capital de sociedades mexicanas residentes en México no listadas en bolsa al momento de la inversión y participar en su consejo de administración para promover su desarrollo, así como otorgarles financiamiento;
+
+III. Que al menos el 80% del patrimonio del fideicomiso esté invertido en las acciones que integren la inversión en el capital o en financiamiento otorgados a las sociedades promovidas a las que se refiere la fracción II anterior y el remanente se invierta en valores a cargo del Gobierno Federal inscritos en el Registro Nacional de Valores e Intermediarios o en acciones de sociedades de inversión en instrumentos de deuda;
+
+IV. Que las acciones de las sociedades promovidas que se adquieran no se enajenen antes de haber transcurrido al menos un periodo de dos años contado a partir de la fecha de su adquisición;
+
+V. Que el fideicomiso tenga una duración máxima de 10 años.
+
+Asimismo, deberá distribuirse al menos el 80% de los ingresos que reciba el fideicomiso en el año a más tardar dos meses después de terminado el año, y
+
+VI. Que se cumplan los requisitos que mediante reglas de carácter general establezca el Servicio de Administración Tributaria.
+
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 228.
+
+Las personas que inviertan en capital de riesgo a través de los fideicomisos a los que se refiere el artículo 227 de esta Ley, estarán a lo siguiente:
+
+I. Causarán el impuesto en los términos de los Títulos II, IV, o V de esta Ley, según les corresponda, por los ingresos que les entregue la institución fiduciaria provenientes de las acciones y valores que integran el patrimonio del fideicomiso o que deriven de la enajenación de ellos, así como los provenientes de los financiamientos otorgados a las sociedades promovidas;
+
+II. La institución fiduciaria deberá llevar una cuenta por cada tipo de ingreso que reciba proveniente de las acciones y los valores, así como de los que deriven de la enajenación de ellos, y los que provengan de los financiamientos otorgados a las sociedades promovidas. En una de esas cuentas registrará los dividendos que reciba por las acciones, en otra registrará los intereses que reciba por los valores y las ganancias obtenidas en su enajenación, en otra registrará los intereses que reciba por los financiamientos otorgados a las sociedades promovidas, y en otra más registrará las ganancias que se obtengan por la enajenación de las acciones.
+
+Cada una de las cuentas a las que se refiere el párrafo anterior se incrementará con los ingresos correspondientes a ella que reciba la institución fiduciaria y se disminuirá con los ingresos que dicha institución les entregue a los fideicomisarios provenientes de la misma;
+
+III. La institución fiduciaria también deberá llevar una cuenta por cada una de las personas que participen como fideicomitentes y fideicomisarios en el fideicomiso, en las que registre las aportaciones efectuadas por cada una de ellas en lo individual al fideicomiso.
+
+La cuenta de cada persona se incrementará con las aportaciones efectuadas por ella al fideicomiso y se disminuirá con los reembolsos de dichas aportaciones que la institución fiduciaria le entregue. El saldo que tenga cada una de estas cuentas al 31 de diciembre de cada año, se actualizará por el periodo comprendido desde el mes en que se efectúo la última actualización y hasta el mes de diciembre del año de que se trate. Cuando se efectúen aportaciones o reembolsos de capital, con posterioridad a la actualización prevista en este párrafo, el saldo de la cuenta que se tenga a esa fecha se actualizará por el periodo comprendido desde el mes en el que se efectuó la última actualización y hasta el mes en el que se pague la aportación o el reembolso, según corresponda;
+
+IV. Cuando los fideicomisarios sean personas físicas residentes en el país o personas residentes en el extranjero, la institución fiduciaria deberá retenerles el impuesto que proceda por el tipo de ingreso que les entregue en los términos del Título IV o V de esta Ley, respectivamente, o en su caso, conforme a lo dispuesto en los convenios para evitar la doble imposición fiscal celebrados por México con los países en que residan las personas residentes en el extranjero que reciban los ingresos. Las personas que le paguen intereses a la institución fiduciaria por los financiamientos otorgados y los valores que tenga el fideicomiso, o que adquieran de ella acciones de las sociedades promovidas no le retendrán impuesto sobre la renta por esos ingresos o adquisiciones;
+
+V. La institución fiduciaria deberá darles constancia de los ingresos entregados y en su caso, del impuesto retenido por ellos, así como del reembolso de aportaciones, a las personas que los reciban como fideicomisarios del fideicomiso en cuestión;
+
+VI. Cuando alguno de los fideicomisarios ceda los derechos que tenga en el fideicomiso, deberá determinar su ganancia en la enajenación de los bienes integrantes del fideicomiso que implica dicha cesión, conforme a lo dispuesto expresamente en la fracción VI del artículo 14 del Código Fiscal de la Federación, considerando como costo comprobado de adquisición de los mismos la cantidad que resulte de sumar al saldo que tenga en su cuenta individual de aportación a la fecha de la enajenación, la parte que le corresponda por esos derechos en lo individual de los saldos de las cuentas de ingresos a las que se refiere la fracción II de este artículo y del saldo de la cuenta a que se refiere el siguiente párrafo, a esa misma fecha. Cuando el fideicomisario no ceda la totalidad de los derechos que tenga en el fideicomiso, sino sólo una parte de ellos, su costo comprobado de adquisición de los bienes enajenados será el monto que resulte de multiplicar la cantidad a que se refiere este párrafo por el porcentaje que resulte de dividir la participación porcentual en el fideicomiso que representen los derechos enajenados entre la participación porcentual en el mismo que representen la totalidad de los derechos que tenga a la fecha de la enajenación.
+
+Para los efectos del párrafo anterior, la institución fiduciaria deberá llevar una cuenta en la que registre la participación correspondiente al fideicomiso en las utilidades fiscales netas de las sociedades promovidas por la inversión realizada en ellas, que se generen a partir de la fecha en que se adquieran sus acciones en el fideicomiso y que formen parte del saldo de la cuenta de utilidad fiscal neta de dichas sociedades.
+
+Cuando los derechos que se cedan se hayan adquirido de terceros, el costo comprobado de adquisición de ellos sólo se incrementará o disminuirá, respectivamente, por la diferencia que resulte entre el saldo a la fecha de enajenación y el saldo a la fecha de adquisición de los derechos, actualizado hasta la fecha de enajenación, de las cuentas de ingresos a las que se refiere la fracción II de este artículo y de la cuenta a la que se refiere el párrafo anterior, y
+
+VII. Cuando no se cumpla alguno de los requisitos a que se refieren las fracciones IV y V del artículo 227 de esta Ley, los fideicomisarios causarán el impuesto a la tasa establecida en el primer párrafo del artículo 10 de esta Ley por la utilidad fiscal que derive de los ingresos que reciba la institución fiduciaria, en los términos del artículo 13 de esta misma Ley, a partir del año inmediato posterior a aquél en que ocurra el incumplimiento.
+
 Disposiciones Transitorias de la Ley del Impuesto sobre la Renta
 
 Artículo Segundo. En relación con la Ley del Impuesto sobre la Renta a que se refiere el Artículo Primero de este Decreto, se estará a lo siguiente:
@@ -7203,3 +7251,7 @@ Artículo Cuarto. Se derogan los Artículos Quinto y Sexto del Decreto por el qu
 Artículo Primero. El presente Decreto entrará en vigor a partir del 1 de enero de 2006.
 
 Artículo Segundo. Las tarifas y tablas establecidas en los artículos 113, 114, 115, 177 y 178 de la Ley del Impuesto sobre la Renta se encuentran actualizadas al mes de diciembre de 2004.
+
+D.O.F. 28 DE DICIEMBRE DE 2005.
+
+ÚNICO. El presente Decreto entrará en vigor el 1o. de enero de 2006.
