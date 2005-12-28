@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-procedimientos-penales-para-el-estado-de-zacatecas-82
 country: "mx"
 rank: "codigo"
 publication_date: "1967-07-19"
-last_updated: "2005-05-21"
+last_updated: "2005-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8293&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2005.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el 19 de julio de 1967.
 
@@ -1608,6 +1608,10 @@ El Juez o Tribunal desechará únicamente las preguntas notoriamente impertinent
 ###### ARTICULO 236.
 
 No se obligará a declarar al tutor, curador, pupilo o cónyuge del inculpado ni a sus parientes por consanguinidad o afinidad en la línea recta ascendente o descendente, sin limitación de grados, y en la colateral hasta el cuarto inclusive, ni a los que estén ligados con el inculpado por razón de adopción, amor, respeto, cariño o estrecha amistad; pero si estas personas tuvieren voluntad de declarar, se hará constar esta circunstancia y se recibirá la declaración.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2005)</small>
+
+Tampoco se obligará a declarar a quienes, en el ejercicio del periodismo, se encuentren en la hipótesis de excepción que refiere el párrafo segundo del artículo 361 del Código Penal; pero si estas personas tuvieren voluntad de declarar, se hará constar esta circunstancia y se recibirá la declaración.
 
 ###### ARTICULO 237.
 
@@ -3474,3 +3478,7 @@ P.O. 29 DE DICIEMBRE DE 2004.
 P.O. 21 DE MAYO DE 2005.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 28 DE DICIEMBRE DE 2005.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano de Gobierno del Estado.
