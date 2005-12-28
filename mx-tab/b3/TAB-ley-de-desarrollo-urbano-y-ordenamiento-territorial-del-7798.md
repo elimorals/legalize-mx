@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-desarrollo-urbano-y-ordenamiento-territorial-del-7798"
 country: "mx"
 rank: "ley"
 publication_date: "1984-08-01"
-last_updated: "1984-08-01"
+last_updated: "2005-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 LEY DE DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ORDENAMIENTO SUSTENTABLE DEL TERRITORIO DEL ESTADO DE TABASCO, PUBLICADA EN EL P.O. DE 28 DE DICIEMBRE DE 2005., EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 1 de agosto de 1984.
 
@@ -868,3 +870,43 @@ ENRIQUE GONZALEZ PEDRERO
 LIC. JOSE EDUARDO BELTRAN HERNANDEZ,
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE DICIEMBRE DE 2005.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor, a partir del día 01 de Enero del año 2006; previa publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley (sic) Desarrollo Urbano y Ordenamiento Territorial publicado en el Periódico Oficial No. 4371 del día 01 de agosto de 1984.
+
+###### ARTICULO TERCERO.
+
+En tanto no se expidan los Reglamentos, Acuerdos y demás disposiciones administrativas correspondientes, continuarán aplicándose, en lo que no se oponga a esta Ley, las disposiciones reglamentarias y administrativas vigentes a la fecha de entrada en vigor de la presente Ley.
+
+###### ARTICULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+###### ARTICULO QUINTO.
+
+Las autoridades municipales en el ámbito de su competencia, tendrán la obligación de vigilar, denunciar y detener la creación de nuevos asentamientos humanos e imponerles las sanciones correspondientes, independientemente del tipo de propiedad en que pretendan establecerse.
+
+###### ARTÍCULO SEXTO.
+
+El Ejecutivo del Estado dentro de los noventa días hábiles siguientes a la entrada en vigor de la presente Ley, deberá constituir los organismos auxiliares, a que se refiere este ordenamiento, debiéndose expedir en el mismo plazo los reglamentos de operación correspondientes y demás disposiciones reglamentarias.
+
+###### ARTICULO SEPTIMO.
+
+La Dirección de Finanzas o Tesorería Municipal, deberá en un plazo de seis meses a partir de la entrada en vigor de la presente Ley, realizar las determinaciones del total de predios resultantes de los predios baldíos y sus correspondientes avalúos.
+
+###### ARTÍCULO OCTAVO.
+
+Los procedimientos y recursos administrativos relacionados con la Ley que se abroga, instaurados con anterioridad a la entrada en vigor del presente ordenamiento, se tramitarán y resolverán conforme a las disposiciones vigentes al momento de su presentación.
+
+###### ARTÍCULO NOVENO.
+
+Las estructuras orgánicas que pudieren derivar a la entrada en vigor de la presente Ley, quedarán sujetas a las disponibilidades presupuestal que se establezca en el Presupuesto de Egresos para ejercicios fiscales subsecuentes.
