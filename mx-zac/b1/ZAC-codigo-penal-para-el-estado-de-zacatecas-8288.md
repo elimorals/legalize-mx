@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-penal-para-el-estado-de-zacatecas-8288"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-17"
-last_updated: "2005-05-21"
+last_updated: "2005-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO PENAL PARA EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2005.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 
@@ -2445,6 +2445,10 @@ Las excluyentes de responsabilidad a que se refiere este artículo, no beneficia
 
 361.- En los casos del artículo 358, quedan exceptuados de sanción aquéllos que no puedan cumplir con el deber a que el mismo artículo se refiere, por correr peligro en su persona o en sus bienes, o en la persona o bienes de los que señala el artículo 359.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2005)</small>
+
+En el ejercicio del periodismo, quedan exceptuados de la prohibición de ocultar datos, indicios o pruebas a que se refiere el artículo 358, los que habiendo publicado alguna información de interés público en sus medios, estén obligados, por ética periodística a guardar el secreto profesional, respecto a sus fuentes de información.
+
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2003)</small>
 
 Las excepciones a que se refiere el párrafo anterior, no se aplicarán en beneficio de los padres, tutores u cuidadores de menores de edad que fueren víctimas de algún delito.
@@ -3032,3 +3036,7 @@ UNICO: El presente Decreto entrará en vigor al día siguiente de su publicació
 P.O. 21 DE MAYO DE 2005.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 28 DE DICIEMBRE DE 2005.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano de Gobierno del Estado.
