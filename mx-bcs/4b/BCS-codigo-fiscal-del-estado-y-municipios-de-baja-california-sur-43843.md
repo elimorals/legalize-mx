@@ -4,7 +4,7 @@ identifier: "BCS-codigo-fiscal-del-estado-y-municipios-de-baja-california-sur-43
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2004-12-31"
+last_updated: "2005-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43843&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 CODIGO FISCAL DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO Y MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADA EN EL B.O. EXTRAORDINARIO DE 28 DE DICIEMBRE DE 2005, EL PRESENTE ORDENAMIENTO FUE ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 31 de diciembre de 2004.
 
@@ -3204,3 +3206,57 @@ C. LIC. LEONEL EFRAÍN COTA MONTAÑO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 C. PROFR. VÍCTOR MANUEL LIZÁRRAGA PERAZA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 28 DE DICIEMBRE DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día 01 de enero de 2006, previa publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur, a excepción de las disposiciones del Título I, Capítulo II, que se refieren a medios electrónicos de pagos, así como las disposiciones relacionadas, las que entrarán en vigor hasta que la Secretaría de Finanzas y las tesorerías municipales, en sus respectivos ámbitos de competencia, establezcan los sistemas técnicos necesarios.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Código Fiscal del Estado y Municipios de Baja California Sur, aprobado por este Poder Legislativo con fecha diez de diciembre de dos mil cuatro publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur en fecha 31 de diciembre del 2004.
+
+###### ARTÍCULO TERCERO.
+
+Se concede al Titular del Poder Ejecutivo del Estado, un término de ciento ochenta días, a efecto de emitir el Reglamento del presente Código Fiscal del Estado y Municipios de Baja California Sur, contados a partir de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+El reglamento de referencia establecerá la obligación a cargo de las autoridades fiscales a efecto de garantizar que las instancias o peticiones a que se refiere el artículo 60 de este Código sean efectivamente resueltas en un plazo no mayor de tres meses, previendo las sanciones que correspondan para los funcionarios públicos omisos o negligentes.
+
+###### ARTÍCULO CUARTO.
+
+Las infracciones cometidas durante la vigencia del Código que se abroga, se sancionarán en los términos preceptuados por el mismo, a menos que el interesado manifieste su voluntad de acogerse al presente Código por estimarlo más favorable.
+
+###### ARTÍCULO QUINTO.
+
+Los recursos administrativos o del juicio de nulidad a que se refiere el presente Código, en contra de los actos que hubieren sido notificados con anterioridad a la iniciación de vigencia del mismo, podrán hacerse valer durante el plazo de treinta días hábiles contados a partir de la fecha en que surtió efectos la notificación, cuando no hubiese vencido el plazo para su interposición.
+
+###### ARTÍCULO SEXTO.
+
+Los recursos administrativos y los juicios de nulidad que se hubieren interpuesto durante la vigencia del Código que se abroga, se tramitarán y se resolverán de conformidad con lo dispuesto por el mismo, a menos que el interesado manifieste su voluntad de acogerse al presente Código por estimarlo más favorable.
+
+###### ARTÍCULO SÉPTIMO.
+
+En tanto no se formalice legalmente la creación de Tribunal Unitario de Contencioso Administrativo del Estado de Baja California Sur, a que se refiere la fracción XLIV del artículo 64 de la Constitución Política del Estado de Baja California Sur, las referencias que en este Código se hacen de tal órgano jurisdiccional, se entenderán hechas respecto de las instancias judiciales en materia administrativa que actualmente contempla la Ley Orgánica del Poder Judicial del Estado de Baja California Sur.
+
+###### ARTÍCULO OCTAVO.
+
+En tanto no se apruebe la Ley que instituya el Tribunal Unitario de lo Contencioso Administrativo del Estado de Baja California Sur, en donde se señale la competencia del referido Tribunal, el Juicio de Nulidad a que se refiere el Título Sexto de este Código procederá en contra de los siguientes actos y resoluciones:
+
+I.- Los actos o resoluciones señalados en el artículo 148 del presente Código;
+
+II.- La que decida el recurso administrativo a que se refiere este Código;
+
+III.- Las que causen un agravio en materia fiscal distinto al que se refieren las fracciones anteriores;
+
+IV.- Las señaladas en las demás leyes como competencia del Tribunal.
+
+El Tribunal Unitario de lo Contencioso Administrativo del Estado de Baja California Sur conocerá de los juicios que promuevan las autoridades estatales y municipales para que sean anuladas las resoluciones favorables a un particular, siempre que dichas resoluciones sean de las materias señaladas en las fracciones anteriores como de su competencia.
+
+También conocerá de los juicios que se promuevan contra una resolución negativa ficta configurada en las materias señaladas en este artículo, por el transcurso del plazo que señalen las disposiciones aplicables.
+
+###### ARTÍCULO NOVENO.
+
+En tanto no se emitan las reglas de carácter general que establezcan la forma de utilizar los medios electrónicos para la presentación de declaraciones y avisos, éstas deberán presentarse en los formatos que al efecto apruebe y publique la Secretaría de Finanzas y las tesorerías municipales en el Boletín Oficial del Gobierno del Estado.
