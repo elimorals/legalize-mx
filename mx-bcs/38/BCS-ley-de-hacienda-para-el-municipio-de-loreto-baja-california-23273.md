@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-loreto-baja-california-232
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2004-12-31"
+last_updated: "2005-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23273&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE LORETO, BAJA CALIFORNIA SUR.
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 5 de noviembre de 2001.
 
@@ -141,77 +141,89 @@ h). Los usuarios, bajo cualquier título jurídico de bienes inmuebles.
 
 Son sujetos por deuda ajena y responsabilidad objetiva, los adquirientes por cualquier título de predios urbanos o rústicos.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
-
 ###### Artículo 9º.
 
-Los propietarios, o en su caso los poseedores de predios deberán presentar él ultimo recibo o constancia de estar al corriente en el pago del Impuesto Predial y de que el predio se encuentra catastrado, como requisito previo a su solicitud de construcción, ampliación, demolición reconstrucción de cualquier clase, división o fusión de predios, deslindes o cuando solicite la introducción del servicio de agua potable, utilización de drenaje o al solicitar licencia para iniciar o refrendar cualquier tipo de giro comercial cualquiera que fuese su actividad.
+(DEROGADO, B.O. 28 DE DICIEMBRE DE 2005) (F. DE E., B.O. 20 DE FEBRERO DE 2006)
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+(REFORMADO, B.O. 28 DE DICIEMBRE DE 2005) (F. DE E., B.O. 20 DE FEBRERO DE 2006)
 
 ###### Artículo 10.
 
-Son sujetos por deuda ajena y con responsabilidad solidaria los servidores públicos y empleados municipales, que indebidamente alteren los datos que sirvan de base para el cobro del Impuesto Predial, o que posibiliten la evasión fiscal deliberadamente o bien, que expidan constancia de no existencia de adeudos fiscales, sin cerciorarse de la existencia de los mismos.
+Son sujetos por deuda ajena y con responsabilidad solidaria los servidores públicos y empleados municipales, que indebidamente alteren los datos que sirvan de base para el cobro del Impuesto Predial o que posibiliten dolosamente a que el contribuyente no realice correctamente su pago o bien, que expidan constancia de no existencia de adeudos fiscales, sin cerciorarse de la existencia de los mismos.
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
 #### SECCION TERCERA. BASE Y TASA DEL IMPUESTO
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 11.
 
-El Impuesto sobre la Propiedad Rústica se causará sobre el valor catastral de los predios rústicos conforme a las siguientes tasas:
+El Impuesto sobre la Propiedad Rústica se causara sobre el valor catastral de los predios rústicos conforme a las siguientes tasas:
 
-a). 10.04 al millar anual si están explotados por su dueño.
+a) (DEROGADO, B.O. 28 DE DICIEMBRE DE 2005)
 
-b). 19.5 al millar anual si no están explotados por su dueño.
+b) 19.5 al millar anual
 
-En ningún caso el impuesto predial anual será inferior a un día salario mínimo.
+En ningún caso el impuesto predial anual será inferior a tres días de salario mínimo.
 
 ###### Artículo 12.
 
-(DEROGADO, B.O. 31 DE DICIEMBRE DE 2002)
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+(DEROGADO, B.O. 28 DICIEMBRE DE 2005)
 
 ###### Artículo 13.
 
-El Impuesto sobre las plantas de beneficio y establecimientos metalúrgicos de cualquier clase, se causará sobre el valor de la finca e instalaciones a razón de 12 al millar.
+(DEROGADO, B.O. 28 DE DICIEMBRE DE 2005)
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 14.
 
-El Impuesto Predial sobre la propiedad urbana se causará:
+El Impuesto Predial sobre la propiedad urbana se causara:
 
-a). A razón de 3.75 al millar sobre el valor catastral de los predios destinados totalmente por el contribuyente para su propia casa habitación; en este caso no se aplicará el segundo párrafo del inciso c) de este artículo.
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
-En lo que corresponde al área de Nopoló se aplicará una tasa a razón del 6.5 al millar anual.
+a). A razón de 3.75 al millar sobre el valor catastral de los predios destinados totalmente por el contribuyente para su propia casa habitación.
+
+En lo que corresponde al área de Nopoló, Puerto Escondido y demás zonas susceptibles de desarrollo turístico se aplicará una tasa a razón del 6.5 al millar anual.
 
 b). A razón de 6.5 al millar sobre el valor catastral de los predios destinados a uso distinto del de casa habitación del contribuyente.
 
-En lo que corresponde al área de Nopoló se aplicará una tasa a razón del 13 al millar anual.
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
-c). A razón de 26 al millar sobre el valor catastral de los predios no edificados o baldíos, incrementándose anualmente en un 2.6 al millar hasta en tanto no sea construida una edificación. La tasa no excederá de 52 al millar.
+En lo que corresponde al área de Nopoló, Puerto Escondido y demás zonas susceptibles de desarrollo turístico se aplicará una tasa a razón del 13 al millar anual.
+
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2005)</small>
+
+c). A razón de 26 al millar sobre el valor catastral de los predios no edificados o baldíos.
 
 d). A razón del 13 al millar anual sobre el valor catastral de los predios no edificados o baldíos, ubicados en fraccionamientos o en desarrollos urbanos legalmente autorizados; siempre y cuando dichos predios no sean enajenados a terceros; prometidos en venta, con reserva de dominio o que sean materia de cualquier otro acto jurídico preparatorio similar o traslativo de dominio. Esta disposición no será aplicable a los predios no edificados o baldíos que sean producto de una división, fusión o relotificación común.
 
 Se considerará lote baldío, aquel que teniendo construcciones, éstas representen menos del 50% del valor catastral del terreno.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 28 DE DICIEMBRE DE 2005)</small>
+
+Los terrenos que cuenten con construcciones menores tales como palapas y/o bardas, casetas de vigilancia con buena calidad de construcción y/o acabados, no se consideraran lotes baldíos para efectos de cobro del impuesto predial.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 15.
 
 El Impuesto predial se cubrirá en las oficinas Recaudadoras correspondientes.
 
-I. Sobre la Propiedad Urbana, Rústica y las plantas de beneficio, establecimientos metalúrgicos, por bimestre adelantados en los primeros diez días de los meses de enero, marzo, mayo, julio, septiembre y noviembre.
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
-Si el impuesto anual equivale a un salario mínimo, deberá cubrirse en una sola exhibición dentro del mes de enero del año que corresponda.
+I. Sobre la Propiedad Urbana, Rústica, por bimestre adelantados en los primeros diez días de los meses de enero, marzo, mayo, julio, septiembre y noviembre.
+
+Si el impuesto anual equivale a tres salarios mínimos, deberá cubrirse en una sola exhibición dentro del mes de enero del año que corresponda.
+
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
 II. Sobre la Propiedad Ejidal, al recibir el pago de sus productos.
 
-III. Solo en el caso de que un predio arrendado, prestado, desocupado, destinado a comercio, industria y otro uso similar, pase a ser habitado en su totalidad por su propietario, podrá cambiarse la tasa del impuesto a la que fija el Artículo 10, Fracción I, Inciso a), la nueva taza surtirá efecto a partir del bimestre siguiente al de aquel en que el causante presente la solicitud por escrito.
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 2005)</small>
+
+III. Solo en el caso de que un predio arrendado, prestado, desocupado, destinado a comercio, industria y otro similar, pase a ser habitado en su totalidad por su propietario, podrá cambiarse la tasa del impuesto a la que fija el Artículo 14 Inciso a), la nueva tasa surtirá efecto a partir del bimestre siguiente al de aquel en que el causante presente la solicitud por escrito.
 
 IV. Los contribuyentes que paguen el Impuesto Predial del ejercicio en una sola exhibición, dentro de los meses de Enero y Febrero de cada Ejercicio Fiscal, con una reducción del 10% que autorice el H. Ayuntamiento de Loreto del monto total anual del Impuesto. El pago por anticipado del Impuesto Predial no impide el cobro de diferencias que deba hacer la oficina Recaudadora correspondiente, por cambio de las bases gravables o alteraciones de las cuotas del impuesto.
 
@@ -227,35 +239,33 @@ Están exentos del pago del Impuesto Predial:
 
 I. Los bienes de dominio público de la Federación, Estados y Municipio en los términos de las leyes correspondientes.
 
-No quedan exentos de pago los bienes de dominio público que organismos públicos descentralizados utilicen para oficinas administrativas o en general para propósitos distintos a los de su objeto.
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
-II. Por un año, las fincas inutilizadas por incendio, derrumbe u otra cosa semejante ajena a la voluntad del dueño, siempre y cuando dentro del plazo señalado no se determinen nuevas construcciones o se dé en arrendamiento el predio.
+No quedan exentos de pago los bienes de dominio público que sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto publico.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+II. (DEROGADA, B.O. 28 DE DICIEMBRE DE 2005)
 
 ###### Artículo 17.
 
-Las exenciones a que se refiere la Fracción II del Artículo anterior, deberán solicitarse por escrito a la dependencia correspondiente, acompañando las pruebas que las justifiquen.
-
-Los causantes no quedaran liberados de la obligación de presentar las manifestaciones que establece la Ley de Catastro.
+(DEROGADO, B.O. 28 DE DICIEMBRE DE 2005)
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO SEGUNDO. IMPUESTO SOBRE ADQUISICION DE INMUEBLES
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 18.
 
-Están obligados al pago del impuesto sobre adquisición de inmuebles establecidos en esta Ley, las personas físicas o morales que adquieran inmuebles que consistan en el suelo y las construcciones adheridas a él, ubicados en el Territorio del Municipio de Loreto, así como los derechos relacionados con los mismos, a que este capítulo se refiere. El impuesto se calculará aplicando la tasa del 2% al valor del inmueble, después de reducirlo en cinco veces al Salario Mínimo General de la zona, elevado al año.
+Están obligados al pago del impuesto sobre adquisición de inmuebles establecidos en esta Ley, las personas físicas o morales que adquieran inmuebles que consistan en el suelo y las construcciones adheridas a el, ubicados en el territorio del Municipio de Loreto, así como los derechos relacionados con los mismos, a que este capítulo se refiere. El Impuesto se calculará aplicando la tasa del 2% al valor del inmueble, después de reducirlo en dos veces el Salario Mínimo General de la zona, elevado a un año.
 
-En el caso de adquisición de casa habitación de interés social, mediante otorgamiento de créditos de Instituciones Oficiales o de Crédito, el Impuesto se calculará aplicando la tasa del 2% al valor del inmueble después de reducirlo en veinte veces el salario mínimo general de la zona elevado al año. Esta misma disposición se observará para gravar la adquisición de casa habitación de interés social, entre particulares. En ambos casos se estará a lo dispuesto por el último párrafo de este mismo artículo.
+En el caso de adquisición de casa habitación de interés social, mediante otorgamiento de créditos de Instituciones Oficiales o de Crédito, el Impuesto se calculara aplicando la tasa del 2% al valor del inmueble después de reducirlo en quince veces el Salario Mínimo General de la zona elevado al año. Esta misma disposición se observara para gravar la adquisición de casa habitación de interés social, entre particulares. En ambos casos se estará a lo dispuesto por él último párrafo de este mismo artículo.
 
-En el caso de adquisición por donación o sucesión entre cónyuges o parientes en línea directa ascendente o descendente, el impuesto se calculará aplicando la tasa del 1% del valor del inmueble, después de reducirlo en diez veces el salario mínimo general de la zona elevado al año. En caso de donación, la regla anterior será aplicable una sola operación dentro del término de un año.
+En el caso de adquisición por donación o sucesión entre cónyuges o parientes en línea directa ascendente o descendente, el impuesto se calculara aplicando la tasa del 1% del valor del inmueble después de reducirlo de reducirlo (sic) en cinco veces el Salario Mínimo General de la zona elevado al año. En caso de adquisición por donación, la regla anterior será aplicable una sola operación dentro del término de un año.
 
-Al cederse los derechos hereditarios o enajenarse bienes de la sucesión, el impuesto correspondiente a la adquisición por causa de muerte se calculará aplicando la tasa prevista en el primer párrafo de este Artículo, independientemente de que cause por el cesionario, por la sucesión o por el adquiriente.
+Al cederse los derechos hereditarios o enajenarse bienes de la sucesión, el impuesto correspondiente a la adquisición por causa de muerte se calculara aplicando la tasa prevista en el primer párrafo de este Articulo, independientemente de que cause por el cesionario, por la sucesión o por el adquirente. En el caso de que un inmueble este en proceso de transmisión por herencia pero no este completado el tramite y se realice su enajenación por el heredero, este deberá pagar el impuesto aplicando una tasa del 2% sobre el valor del inmueble después de reducirlo en cinco veces el Salario Mínimo General de la zona elevado al año.
 
-Se considera vivienda de interés social aquella que su costo de adquisición no rebase 3,750 veces, el salario mínimo general de la zona. Siempre y cuando el adquiriente demuestre no tener en propiedad el o su cónyuge, otra propiedad.
+Se considera vivienda de interés social aquella que su costo de adquisición no rebase 4,450 veces el salario mínimo general de la zona. Siempre y cuando el adquirente o su cónyuge demuestren no ser propietarios de otro inmueble.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -329,7 +339,9 @@ El pago del Impuesto deberá hacerse dentro de los treinta días siguientes a aq
 
 I. Cuando se constituya o adquiera el usufructo o la nuda propiedad, en el caso de usufructo temporal, cuando se extinga.
 
-II. Tratándose de adquisiciones afectuadas (sic) a través de fideicomiso, cuando se realice la Escritura Pública en la que se trasmita a la Fiduciaria la propiedad del inmueble.
+(REFORMADA, B.O. 28 DE DICIEMBRE DE 2005) (F. DE E., B.O. 20 DE FEBRERO DE 2006)
+
+II. Tratándose de adquisiciones efectuadas a través de fideicomiso, cuando se realice la Escritura Publica en la que se transmita al Fideicomisario la propiedad del inmueble.
 
 III. Al protocolizarse el reconocimiento de la prescripción positiva.
 
@@ -340,6 +352,12 @@ V. En los casos no previstos en las Fracciones anteriores, cuando los actos de q
 VI. En los actos notariales se considerará la fecha de firma del instrumento notarial correspondiente, la que no podrá exceder de treinta días hábiles posteriores a la fecha de la escritura.
 
 VII. Cuando las autoridades fiscales, en el ejercicio de sus facultades de comprobación determinen la realización del acto de adquisición del inmueble.
+
+> <small>(ADICIONADA, B.O. 28 DE DICIEMBRE DE 2005)</small>
+
+VIII. Los notarios o autoridades ante quienes se celebren los contratos o actos en los que se transmita la propiedad o la posesión de un predio, están obligados a dar aviso a la oficina de catastro y a la dirección de ingresos dentro del término de 30 días siguientes a la fecha de celebración de acto o contrato respectivo. De igual manera en el mismo plazo, los contratantes deberán manifestar a la Dirección de Ingresos la celebración de cualquier contrato en cuyo caso se de un cambio de propietario.
+
+En el caso de construcciones o contratos de compraventa No Manifestados se hará el cobro de una multa de 50 salarios mínimos a la fecha del descubrimiento de la ocultación, salvo que el interesado compruebe que la omisión fue por causas ajenas a el.
 
 El contribuyente podrá pagar el impuesto por anticipado.
 
@@ -357,37 +375,27 @@ Cuando por el avalúo practicado, ordenado o tomado en consideración por la aut
 
 Las autoridades fiscales se reservan el derecho de ejercer sus facultades de comprobación sobre los avalúos periciales, aun cuando hayan sido considerados con anterioridad por la autoridad municipal.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
-
 ###### Artículo 23.
 
-Para efectuar la reducción a que se refiere el Artículo 18 de esta Ley, se aplicará el Salario Mínimo correspondiente al año de calendario en que se esté en los supuestos de pago del impuesto a que se refiere el Artículo 21 de esta Ley.
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+(DEROGADO, B.O. 28 DE DICIEMBRE DE 2005)
 
 ###### Artículo 24.
 
-La reducción a que se refiere el Artículo 18 se realizará conforme a lo siguiente:
-
-I. Se considerarán como un solo inmueble, los bienes que sean o resulten colindantes, adquiridos por la misma persona en un periodo de 24 meses, de la suma de los precios o valores de los predios únicamente se tendrá derecho a hacer una sola vez la reducción, la que se calculará al momento en que se realice la primera adquisición. El adquiriente deberá manifestar bajo protesta de decir verdad, al fedatario ante quien se formalice toda adquisición, si el predio objeto de la operación colinda con otro que hubiere adquirido con anterioridad, para que se ajuste el monto de la reducción y se pagará en su caso, las diferencias de impuesto que corresponda. Lo dispuesto en esta Fracción no es aplicable a las adquisiciones por causa de muerte.
-
-II. Cuando se adquiera parte de la propiedad o de los derechos de un inmueble, a que se refiere el Artículo 19 de esta Ley, la reducción se hará en la proporción que corresponda a dicha parte.
-
-III. Tratándose de usufructo o de la nuda propiedad, únicamente se tendrá derecho al 50% de la reducción por cada uno de ellos.
-
-IV. No se considerarán departamentos habitacionales los que por sus características originales: se destinen a servicios domésticos, portería o guarda de vehículos, aun cuando se utilicen para otros fines.
+(DEROGADO, B.O. 28 DE DICIEMBRE DE 2005)
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO TERCERO. DIVERSIONES Y ESPECTACULOS PUBLICOS
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 25.
 
-Por espectáculo público debe entenderse toda función o acto de esparcimiento de cualquier índole que se verifiquen en salones, teatros, calles plazas, locales abiertos o cerrados, en donde se reúna un grupo de personas pagando por ello cierta cantidad de dinero.
+Por espectáculo publico debe entenderse toda clase de función o evento ya sea de tipo deportivo, cultural, artístico, cinematográfico o de esparcimiento que se lleve a cabo en salones, plazas, calles, locales abiertos o cerrados, playas, campo traviesa y en donde se reúna un grupo de personas pagando por ello cierta cantidad de dinero.
 
-Debe entenderse por diversiones y espectáculos públicos los juegos mecánicos, juegos electrónicos, salones de bailes, discotecas, bailes públicos, kermesses, verbenas, ferias, equipo de sonido y otros similares; así como la realización de cualquier otra actividad que tienda a proporcionar diversión al público.
+Dentro de estos están considerados el teatro, ballet, opera, conciertos, variedades, exhibiciones de físico culturismo o de cualquier naturaleza, carpas, circos, lucha libre, box, fútbol, béisbol, básquetbol, carretas de vehículos en todas sus clases y categorías, eventos náuticos, taurinos, hípicos, charrerías y demás eventos deportivos.
+
+Debe entenderse por diversión pública los boliches, billares, mesas de domino, juegos de estrado, squash, tenis, juegos mecánicos, juegos tragamonedas, salones de baile, discotecas, bailes públicos, quermeses, verbenas, ferias, equipos de sonido y otros similares, así como la realización de cualquier otra actividad que tienda a proporcionar diversión al publico y en la que la persona participe activamente.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -395,13 +403,19 @@ Debe entenderse por diversiones y espectáculos públicos los juegos mecánicos,
 
 Son sujetos de este impuesto, las personas físicas, personas morales o unidades económicas, que perciban los ingresos por la realización de las actividades a que se refiere el artículo anterior.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 27.
 
-Los sujetos pagarán por concepto de este impuesto el 8% sobre el boletaje de entrada al establecimiento donde se realice el espectáculo.
+Los sujetos pagaran por concepto de impuesto sobre Diversión Pública y Espectáculo Publico el 10% sobre el boletaje de entrada al establecimiento donde se realice evento o espectáculo.
 
-Por diversiones cubrirán el impuesto de la siguiente manera: los eventuales pagarán una cuota por día equivalente al importe de 3 a 10 días de salario mínimo general vigente a juicio de la autoridad Municipal.
+En los casos de espectáculos y/o diversiones publicas eventuales se cobrara a razón de 10 salarios mínimos por día, Siempre y cuando no exista venta y/o consumo de bebidas alcohólicas.
+
+En los eventos que se venda y/o consuma bebidas alcohólicas de cobrara a razón de 15 salarios mínimos por día.
+
+Para fiestas familiares en domicilio 3 salarios mínimos
+
+Para fiestas familiares en salón 5 salario mínimos
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -451,27 +465,27 @@ Son sujetos de este impuesto, las personas físicas, personas morales y las unid
 
 Dicha explotación constituye el objeto del impuesto y requiere licencia previa del Ayuntamiento de Loreto.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 32.
 
 Este impuesto será cubierto conforme a lo siguiente:
 
-I. Rifas autorizadas por las autoridades competentes sobre el monto de las actuaciones, billetes o boletos del 10% al 15%.
+I. Por las rifas efectuadas se calculara sobre el monto de las actuaciones, billetes o boletos el 15%.
 
-II. Loterías de tablas de números, etc., mensual del 10% al 15%.
+II. Loterías de tablas de números se calculara el 15% mensual.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 33.
 
-En los casos de las Fracciones I y II del Artículo anterior, los causantes cubrirán el impuesto al otorgarse la licencia correspondiente.
+En los casos de las Fracciones I y II del Artículo anterior, los contribuyentes cubrirán el impuesto al otorgarse la licencia correspondiente.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 34.
 
-Los causantes de este impuesto, se sujetarán a lo establecido en lo conducente por el Reglamento de Espectáculos Públicos y demás disposiciones vigentes del H. Ayuntamiento de Loreto.
+Los contribuyentes de este impuesto, se sujetaran a lo establecido en lo conducente por el Reglamento de Espectáculos Públicos y demás disposiciones vigentes del H. Ayuntamiento de Loreto.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -501,11 +515,11 @@ Son sujetos de este mismo impuesto por deuda ajena y responsabilidad objetiva, l
 
 Son sujetos por deuda ajena y con responsabilidad solidaria, los propietarios de solares contemplados en el Artículo 35 que los hubiesen vendido con reserve (sic) de dominio.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 39.
 
-Son sujetos por deuda ajena y con responsabilidad substituta, los empleados de la Tesorería Municipal que formulen certificados de no adeudo cuando existan impuestos insolutos y los Notarios Públicos cuando autoricen actos de traslación de dominio, sin la comprobación correspondiente de dichos impuestos.
+Son sujetos por deuda ajena y con responsabilidad substituta, los empleados de la Secretaría de Finanzas y Administración Municipal que formulen certificados de no adeudo y los Notarios Públicos cuando autoricen actos de traslación de dominio, sin la comprobación correspondiente de dichos impuestos.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -527,17 +541,17 @@ a). Zona pavimentada, asfaltada, adoquinada o empedrada.
 
 b). Zonas con servicio de energía eléctrica, agua y drenaje, se cobrará el 50% de las tarifas establecidas en el inciso a) de este Artículo.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 41.
 
-El impuesto será cubierto a opción de los causantes por bimestres o por semestres adelantados, en los primeros veinte días del primer bimestre o del semestre.
+El impuesto será cubierto a opción de los contribuyentes por bimestres o por semestres adelantados, en los primeros veinte días del primer bimestre o del semestre.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 42.
 
-Los causantes del impuesto están obligados a presentar en los primeros veinte días del mes de enero de cada año, una manifestación en los términos siguientes:
+Los contribuyentes del impuesto están obligados a presentar en los primeros veinte días del mes de enero de cada año, una manifestación en los términos siguientes:
 
 I. Si se trata de solares sin edificar:
 
@@ -547,11 +561,15 @@ b). Extensión superficial del mismo.
 
 c). Cuadro en que esté ubicado y si la calle o calles con que colinda están pavimentadas.
 
-II. Si se trata de solares baldíos sin cercar o embanquetar (sic):
+d). Exposición de motivos por los que no se realiza edificación directamente ante dirección de Catastro.
+
+II. Si se trata de solares baldíos sin cercar o embanquetar:
 
 a). Nombre del propietario, usufructuario, poseedor o detentador del solar.
 
 b). Cuadro en que esté ubicado, extensión en metros lineales de colindancia con la calle o las calles.
+
+c). Exposición de motivos por los que no se realiza edificación directamente ante dirección de Catastro.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -595,7 +613,11 @@ Los servicios que preste el Registro Público de la Propiedad causarán el pago 
 
 T A R I F A :
 
-I. El examen de todo documento público o privado que se presente para su inscripción...3 días salario mínimo.
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 2005)</small>
+
+I. El examen de todo documento publico o 4días (sic) de
+
+Privado que se presente para su inscripción. Mínimo
 
 II. Por inscripción o registro de documentos públicos o privados, de resoluciones judiciales, administrativas o de cualquier clase de títulos por virtud de los cuales se adquiera, transmita, modifique o se extinga el dominio o la posesión de bienes inmuebles, además de la cuota fija, las cuotas acumulativas correspondientes a su valor.
 
@@ -603,43 +625,107 @@ a). Cuota fija para toda clase de inscripciones, inclusive las de valor determin
 
 b). Por el valor de la operación...2.5 al millar.
 
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 2005)</small>
+
+Por la inscripción o registro de documentos
+
+públicos, por virtud de los cuales se transmitan
+
+los derechos hereditarios de bienes muebles,
+
+se cobrará el doble de lo establecido en la
+
+fracción anterior.
+
 III. Por la inscripción de la escritura constitutiva o de los aumentos de capital social de sociedades y asociaciones civiles, sobre el importe del capital social de los aumentos del mismo, en los términos de la fracción anterior.
 
 Cuando no tengan capital establecido o se trate de reformas al acta constitutiva...10 días salario mínimo.
 
-IV. Por la inscripción de gravámenes sobre bienes inmuebles.
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
-a). Por contrato resolución judicial, por disposición testamentaria, la de los Títulos por virtud de los cuales se adquieran, transmitan, modifiquen o extingan derechos reales sobre inmuebles, distintos de dominio; de los que limiten el dominio del vendedor, a las de embargo, cédulas hipotecarias, servidumbres y fianzas...10 días salario mínimo.
+IV. Por la inscripción sobre bienes inmuebles.
+
+a). De toda clase de gravamen, por
+
+contrato, por resolución judicial, por
+
+disposición testamentaria. o por cualquier
+
+título mediante los cuales se adquieran,
+
+transmitan, modifiquen, o extingan derechos
+
+reales sobre inmuebles, distintos de dominio;
+
+y todos aquellos que limiten la propiedad o
+
+posesión ordinaria de inmuebles; las de
+
+embargo, cédulas hipotecarias, servidumbres
+
+y fianza 8 días de salario mínimo
 
 V. Inscripciones de poderes, substitución o revocación de los mismos en forma total o parcial por cada poderante (sic) o apoderado...5 días salario mínimo.
 
-VI. La inscripción de créditos hipotecarios, refaccionarios o de habitación o avío...1.25 al millar.
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 2005)</small>
+
+VI. La inscripción de créditos hipotecarios,
+
+Refaccionarios o de habilitación o avío, se
+
+Cobrara en los siguientes términos:
+
+a). Cuota fija para toda clase de inscripción. 6 días de salario mínimo
+
+b). Por el valor de la operación. 1.5 al millar
 
 En los casos a que se refiere esta Fracción, las cancelaciones causarán pago de derechos.
-
-Por cada cancelación...3 días salario mínimo.
 
 VII. La inscripción de las demandas a que se refiere el Artículo 63 del Reglamento del Registro de la Propiedad...10 días salario mínimo.
 
 VIII. Las inscripciones de la constitución del patrimonio de familia y las informaciones conforme a la Fracción II del presente Artículo. EXCENTA
 
-IX. La inscripción de testamentos, declaraciones de herederos, sentencias, declaraciones de concurso...5 días salario mínimo.
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 2005)</small>
+
+IX. La inscripción de testamentos, 2 días de
+
+declaraciones de herederos, sentencias, salario
+
+declaraciones de concurso mínimo
 
 X. Si se trata de bienes inmuebles identificables por marcas y números, la inscripción de la condición resolutoria en los casos de venta, de pacto de reserva de dominio de la propiedad del bien mueble y constitución de prenda en general, el 50% de la cuota que señala la Fracción II.
 
-XI. El depósito de testamentos ológrafos:
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
-a). Si se hace en las oficinas del Registro...5 días salario mínimo.
+XI. El depósito de testamentos ológrafos, se
 
-b). Si se hace fuera de las oficinas del Registro en horas ordinarias...8 días salario mínimo.
+cobrará por su registro en los siguientes
 
-c). Si se hace fuera de las oficinas del Registro en horas extraordinarias...10 días salario mínimo.
+términos:
+
+a). Si se hace en las oficinas del Registro. 2 días de salario mínimo
+
+b). Si se hace fuera de las oficinas del Registro
+
+en horas extraordinarias. 8 días de salario mínimo
+
+c). Si se hace fuera de las oficinas del Registro
+
+en horas extraordinarias. 8 días salario mínimo
 
 XII. Por depósito de cualquier otro documento...5 días salario mínimo.
 
 XIII. Las inscripciones de fraccionamientos de terrenos, debidamente autorizados, por cada lote el 50% de las cuotas que señala la Fracción II del presente Artículo.
 
-XIV. Ratificación de documentos privados ante el Registrador en el caso de la Fracción II del Artículo 3011 del Código Civil vigente y constancia del mismo...10 días salario mínimo.
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 2005)</small>
+
+XIV. Ratificación de documentos privados 10 días
+
+ante en Registrador en el caso de la Fracción salario
+
+II del Artículo 2915 del Código Civil vigente y mínimo
+
+constancia del mismo.
 
 XV. Por la expedición de certificados por cada persona y/o predio.
 
@@ -647,13 +733,35 @@ a). Cuota fija por servicio hasta 10 años...5 días salario mínimo.
 
 b). Por cada hoja...25% salario mínimo diario.
 
-XVI-Bis (sic). Por la expedición de constancias, por cada persona:
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
-Cuota fija por servicio...2 días salario mínimo.
+XVI. Por la expedición de constancias, se
 
-XVI. Las Certificaciones o constancias son solicitadas con carácter de urgente, se causarán el doble de las cuotas aplicables, conforme a la Fracción anterior.
+cobrara en los siguientes términos:
 
-XVII. Por los informes que rinda por escrito a solicitud de las autoridades, a petición de parte interesada, que esté en posibilidad de obtenerlo directamente, las cuotas que correspondan conforme a las dos fracciones anteriores.
+> <small>(F. DE E., B.O. 20 DE FEBRERO DE 2006)</small>
+
+a). Por cada persona 2 días de salario mínimo
+
+> <small>(F. DE E., B.O. 20 DE FEBRERO DE 2006)</small>
+
+b). Las solicitadas con carácter de urgente. 4 días de salario mínimo
+
+(ADICIONADA, B.O. 28 DE DICIEMBRE DE 2005) (F. DE E., B.O. 20 DE FEBRERO DE 2006)
+
+XVI-BIS.- Por la expedición de copias simples 8.00 por hoja.
+
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 2005)</small>
+
+XVII. Por los informes que rinda por escrito a
+
+solicitud de las autoridades, a petición de parte
+
+interesada, que este en posibilidad de obtenerlo
+
+directamente, las cuotas que correspondan
+
+conforme a la fracción anterior.
 
 XVIII. La cancelación de registro de sociedades civiles por extinción de las mismas...5 días salario mínimo.
 
@@ -661,11 +769,29 @@ XIX. La cancelación de las inscripciones en los casos a que se refieren las Fra
 
 XX. La cancelación de las inscripciones en los casos a que se refiere la Fracción IX causará el 10% de las cuotas por valor que establece la Fracción II, sin que pueda ser menos de...3 días salario mínimo.
 
-XXI. Inscripción o registro de los contratos sobre transmisión de derechos de fideicomisario a que se refiere la Fracción XIII, del Artículo 19 de esta Ley.
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
-a). Cuota fija para toda clase de inscripción...5 días salario mínimo.
+XXI. La inscripción o registro de los contratos
 
-b). Por el valor de la operación...2.5 al millar.
+sobre transmisión de derechos de
+
+fideicomisario a que se refiere la Fracción XIII,
+
+del Articulo 19 de esta Ley., se cobrará en los
+
+siguientes términos:
+
+a). Cuota fija para toda clase de inscripción 5 días salario mínimo.
+
+b). Por el valor de la operación 2.5 al millar.
+
+(ADICIONADO, B.O. 28 DE DICIEMBRE DE 2005) (F. DE E., B.O. 20 DE FEBRERO DE 2006)
+
+Por la inscripción o registro de contratos 8 días de salario mínimo
+
+mediante los cuales se extinga por cualquier
+
+titulo la cesión de los derechos Fideicomitidos
 
 En ningún caso los Derechos a que se refiere este Artículo, podrán ser mayores a treinta veces el salario mínimo general elevado al año, del área geográfica del domicilio fiscal del contribuyente.
 
@@ -675,11 +801,13 @@ En ningún caso los Derechos a que se refiere este Artículo, podrán ser mayore
 
 Para el cobro de los derechos que establece el Artículo que antecede, se observarán las siguientes reglas:
 
-I. Se tendrá como valor para los efectos de la aplicación de las tasas en los casos de las Fracciones II, II (SIC), IV, XI, XV, XIX, XX y XXI respectivamente, del Artículo anterior.
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
-a). En los arrendamientos de inmuebles por mas de seis años con anticipo de rentas por mas de tres, el importe de las rentas estipuladas por el término del contrato, o el monto de las rentas anticipadas.
+I. Se tendrá como valor para los efectos de la aplicación de las tasa en los casos de las Fracciones II, III, IV, XI, XV, XIX, XX y XXI respectivamente, del Articulo anterior.
 
-b). Cuando se trata de actos, contratos o resoluciones por los que se transmita el dominio o la posesión de inmuebles o derechos reales, el precio de la transmisión señalado en él título o documento en que se haga constar.
+a). (DEROGADO, B.O. 28 DE DICIEMBRE DE 2005)
+
+b). Cuando se trata de actos, contratos o resoluciones por los que se trasmita el dominio o la posesión de inmuebles o derechos reales, se tomará en cuenta el valor mayor que resulte entre el del titulo, el de la operación contractual que aparezca en el propio documento, el catastral o el de avalúo practicado por perito valuador autorizado y actualizado.
 
 c). En los contratos de garantía, en los embargos y otros gravámenes, el monto de las obligaciones garantizadas.
 
@@ -717,7 +845,13 @@ Los servicios que preste el Registro Público de Comercio, causarán derechos de
 
 T A R I F A :
 
-I. Examen de todo documento público o privado que se presente al Registro para su inscripción...3 días salario mínimo diario.
+> <small>(REFORMADA, B.O. DE 28 DICIEMBRE DE 2005)</small>
+
+I. Examen de todo documento publico o 4 días de salario
+
+privado que se presente al Registro para mínimo
+
+su inscripción.
 
 II. Inscripción de matrícula:
 
@@ -727,23 +861,57 @@ b). Por cada sociedad mercantil...3 días salario mínimo diario.
 
 III. Inscripción de la Escritura Constitutiva de Sociedades Mercantiles o en las relativas a aumentos de su capital social, se cobrará sobre el monto del capital social, o de sus aumentos el 100% de las cuotas que correspondan conforme a la Fracción II el Artículo 45.
 
-IV. Inscripción de las modificaciones a las escrituras constitutivas de sociedades mercantiles, que no se refieran a aumentos del capital social...10 días salario mínimo.
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
-V. Inscripción de actas de asambleas de socios o de Juntas de Administradores...10 días salario mínimo.
+IV. inscripción de las modificaciones a las 6 días de
 
-VI. Depósito del programa a que se refiere el Artículo
+escrituras constitutivas de sociedades salario
 
-92 de la Ley General de Sociedades Mercantiles...10 días salario mínimo.
+mercantiles, que no se refieran a aumentos mínimo
+
+de capital social.
+
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 2005)</small>
+
+V. Inscripción de actas de asambleas de 6 días de
+
+socios o de Juntas de administradores. salario mínimo
+
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 2005)</small>
+
+VI. Deposito del programa a que se refiere 6 días de
+
+el Artículo 92 de la Ley General de salario
+
+Sociedades Mercantiles mínimo
 
 VII. Inscripción del acta de emisión de bonos y obligaciones de sociedades anónimas el 100% de las cuotas que correspondan, conforme a la Fracción II del Artículo 45.
 
-VIII. Inscripción de la disolución de Sociedades Mercantiles...10 días salario mínimo.
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
-IX. Inscripción de la liquidación de Sociedades Mercantiles...10 días salario mínimo.
+VIII. Inscripción de la disolución de Sociedades 6 días de
 
-X. Inscripción de la disolución y liquidación de Sociedades Mercantiles cuando se lleven a efecto en un solo acto...15 días mínimo.
+Mercantiles. salario mínimo
 
-XI. Cancelación de la inscripción del contrato de Sociedades...10 días salario mínimo.
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 2005)</small>
+
+IX. Inscripción de la liquidación de Sociedades
+
+Mercantiles. 6 días de salario mínimo
+
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 2005)</small>
+
+X. Inscripción de la disolución y liquidación de 8 días de
+
+Sociedades Mercantiles cuando se lleven a salario
+
+efecto en un solo acto mínimo.
+
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 2005)</small>
+
+XI. Cancelación de la impresión del contrato 6 días de
+
+de Sociedades. salario mínimo
 
 XII. Inscripción de poderes, sustitución y revocación de los mismos en forma total o parcial, por cada poderdante y/o apoderado...5 días salario mínimo.
 
@@ -780,6 +948,8 @@ XXII. Búsqueda de datos y revisión de libros para informes y certificaciones..
 XXIII. Expedición de certificados relativos a constancia de registro...5 días salario mínimo.
 
 b) Por cada hoja adicional...1 día salario mínimo.
+
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
 En ningún caso los derechos a que se refiere este Artículo, podrán ser mayores a treinta veces el salario mínimo general elevado al año, del área geográfica del domicilio fiscal del contribuyente.
 
@@ -863,6 +1033,12 @@ XII.- Por autorización de fusión y subdivisión de
 
 Predios 1 día de salario mínimo
 
+(ADICIONADA, B.O. 28 DE DICIEMBRE DE 2005) (F. DE E., B.O. 20 DE FEBRERO DE 2006)
+
+XIII.- Por registro anual de Ingenieros 25 días de salario
+
+Topógrafos para deslindes oficiales mínimos
+
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO TERCERO. LICENCIA PARA CONSTRUCCION
@@ -877,21 +1053,21 @@ Para edificar, reedificar, ampliar o reconstruir las fincas ubicada en las pobla
 
 La ejecución de las obras sin la licencia respectiva, se sancionará conforme al artículo 203, Fracción VIII del Reglamento de Construcciones para el Estado de Baja California Sur.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 51.
 
-Para obtener la licencia a que se refiere el Artículo anterior, se deberá presentar una solicitud firmada por un profesionista en la materia, debidamente acreditado, y de acuerdo con las formas oficiales que se expidan.
+Par obtener la icencia (sic) a que se refiere el Artículo anterior, se deberá presentar una solicitud firmada por un profesionista en la materia, debidamente acreditado, y de acuerdo con las formas oficiales que se expidan. Así como presentar constancia de estar al corriente en el pago del impuesto predial y que el predio se encuentre debidamente catastrado.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 52.
 
-La expedición o refrendo de las licencias causarán derechos 7 al millar sobre el valor de la construcción según el costo de las obras que se vayan a ejecutar. El pago se hará cuando hayan sido aprobados los planos a que debe sujetarse la obra previamente a la expedición o refrendo de las licencias.
+La expedición o refrendo de las licencias causaran derechos 10 al millar sobre el valor de la construcción según el costo de las obras que se vayan a ejecutar. El pago se hará cuando hayan sido aprobados los planos a que debe sujetarse la obra previamente a la expedición o refrendo de las licencias.
 
-La expedición de autorización por uso del suelo, causará un derecho de uno a 20 días salario mínimo.
+La expedición de autorización por el uso de suelo, causara un derecho de 25 días salario mínimo.
 
-La expedición de licencia de urbanización para los desarrollos urbanos tales como fraccionamientos, conjuntos habitacionales, desarrollos turísticos, condominiales (sic), industriales o una combinación de los anteriores, causan un derecho del 7 al millar sobre el valor total de las obras de urbanización.
+La expedición de licencia de urbanización para los desarrollos urbanos tales como fraccionamientos, conjuntos habitacionales, desarrollo turísticos, condominales, industriales o una combinación de los anteriores, causan un derecho del 10 al millar sobre el valor de las obras de urbanización.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -945,11 +1121,11 @@ Para la prestación y tarifas en el cobro de los servicios de agua potable, dren
 
 ### CAPITULO QUINTO. DEL REGISTRO CIVIL
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 56.
 
-Las actas del Registro Civil de nacimiento y defunción que se levanten en sus oficinas y en horas hábiles, quedarán exentas de pago. Todo lo (sic) menores que deben ser presentados por el padre o la madre o ambos, ante el Oficial del Registro Civil, antes de los ciento ochenta días de nacidos, de conformidad con el artículo 24 de la Ley del Registro Civil para el Estado de Baja California Sur, en caso contrario, se impondrá una sanción de un día de salario mínimo.
+Los Registros de nacimiento y defunción que se levanten en sus oficinas y en horas hábiles, quedarán exentas de pago. Todos los menores deben ser presentados por e (sic) padre o la madre o ambos, ante el Oficial del Registro Civil, antes de los ciento ochenta días de nacidos, de conformidad con el artículo 24 de la Ley del Registro Civil para el Estado de Baja California Sur, en caso contrario, se impondrá una sanción de dos días de salario mínimo.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -965,39 +1141,49 @@ a). En horas inhábiles, en la oficina 2 días salario mínimo.
 
 b). Fuera de la oficina 10 días salario mínimo.
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
-II.- Matrimonios:
+c). Expedición de actas de nacimiento en horas
+
+hábiles 1 día de salario mínimo
+
+> <small>(REFORMADA Y REUBICADA, B.O. 28 DE DICIEMBRE DE 2005)</small>
+
+II.- Registro de Adopción
+
+a) En horas hábiles en la oficina 5 días de salario mínimo
+
+b) En horas inhábiles en la oficina 8 días de salario mínimo
+
+c) Reconocimientos 2 días de salario mínimo.
+
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 2005)</small>
+
+III.- Matrimonios:
 
 a) En horas hábiles en oficina 1 día de salario mínimo
 
 b). En horas inhábiles en la oficina 3 días de salario mínimo.
 
-c) Fuera de las oficinas 10 días de salario mínimo.
+c) Fuera de las oficinas (a domicilio) 2 días de salario mínimo.
 
 d). Registro de matrimonios contraídos por
 
-mexicanos fuera de la República 3 días salario mínimo.
+mexicanos fuera de la República 15 días salario mínimo.
 
 e). Registro de matrimonios contraídos
 
-por extranjeros fuera de la República 5 días salario mínimo.
+por extranjeros fuera de la República 15 días salario mínimo.
 
-f) Registro de matrimonio contraído por
-
-extranjeros en horas hábiles 10 días de salario mínimo
-
-g) Registro de matrimonio contraído por
-
-extranjero en horas inhábiles 10 días de salario mínimo
-
-h) Registro de nacimiento de hijos mexicanos
+f) Registro de nacimiento de hijos mexicanos
 
 nacidos en el extranjero 5 días de salario mínimo
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
+Cualquiera de los actos anteriores que requieran tramitación especial adicional se cobrara 5 salarios mínimos
 
-III.- Divorcios:
+(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004) (F. DE E., B.O. 20 DE FEBRERO DE 2006)
+
+IV.- Divorcios:
 
 a) Por el divorcio administrativo contemplado en
 
@@ -1007,27 +1193,23 @@ b) Por el registro de divorcio dictado por la
 
 Autoridad Judicial: 10 días de salario mínimo
 
-IV.- Actas de supervivencia levantadas
+(REFORMADA, B.O. 28 DE DICIEMBRE DE 2005) (F. DE E., B.O. 20 DE FEBRERO DE 2006)
 
-a domicilio 1 día de salario mínimo.
+V.- Actas de supervivencia levantadas
 
-V. Cualquier otro acto del Registro Civil 1 día salario mínimo.
+a domicilio 2 día de salario mínimo.
+
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 2005)</small>
+
+V (sic). Cualquier otro acto del Registro Civil 1 día salario mínimo.
 
 VI.- Expedición de actas de nacimiento 50% día salario mínimo.
 
-> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
-
-VII.- Registro de Adopción
-
-a) En horas hábiles en la oficina 5 días de salario mínimo
-
-b) Reconocimientos días de salario mínimo.
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 58.
 
-Todas las certificaciones del Registro Civil que no estén contempladas en el artículo anterior, causarán derechos y se cubrirá el pago de un día salario mínimo.
+Todas las certificaciones del Registro Civil causarán y se cubrirá el pago de dos días de salario mínimo.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -1243,11 +1425,147 @@ II. De morada conyugal...1 salario mínimo.
 
 ### CAPITULO DECIMO PRIMERO. POR ASEO, LIMPIA, RECOLECCION, TRASLADO, TRATAMIENTO Y DISPOSICIÓN FINAL DE LA BASURA
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 77.
 
-Los comercios, hoteles, restaurantes, hospitales privados, oficinas administrativas e industriales, deberán contratar individualmente los servicios de recolección de basura o comprobar la eliminación de estos desperdicios o residuos en forma tal que no afecten la salud o contaminen el medio ambiente y pagarán una cuota mensual o anual que será convenida con la Autoridad Municipal correspondiente.
+Es Objeto de este derecho el servicio por recolección de basura presta el Municipio de Loreto a los establecimientos comerciales, industriales, hoteles, restaurantes, hospitales privados, oficinas administrativas o de prestación de servicios. Los sujetos de estos derechos pagaran en base a la frecuencia de recolección que necesiten y al volumen de basura que generen, teniendo la obligación de celebrar convenio con la Secretaria de Finanzas y Administración Municipal, a través de la Dirección de Ingresos. La forma de pago será mensual o anual cuando la empresa así lo requiera, de acuerdo a la siguiente TARIFA
+
+a). Pequeño comercio que no genera alimentos
+
+como misceláneas 4 salarios mínimos
+
+al mes cuando el
+
+servicio sea 2 veces
+
+por semana 8 salarios
+
+mínimos al mes
+
+cuando el servicio
+
+sea diario.
+
+b). Negocios que generen alimentos 6 salarios mínimos por
+
+como pequeños Restaurantes, puestos mes cuando sea dos
+
+fijos, semifijos. veces a la semana
+
+9 salarios mínimos al
+
+mes cuando el servicio
+
+sea diario.
+
+c). Restaurantes, almacenes comerciales,
+
+industriales, bancos. 16 salarios mínimos por
+
+mes cuando el servicio sea
+
+dos veces a la semana
+
+20 salarios mínimos por mes
+
+cuando el servicio sea diario.
+
+d). Hospitales, sanatorios, laboratorios,
+
+casas de huéspedes y similares sin incluir
+
+desechos tóxicos 16 salarios mínimos por mes
+
+cuando el servicio sea dos
+
+veces a la semana y
+
+30 salarios mínimos por mes
+
+cuando el servicio sea
+
+diario.
+
+e). Moteles hasta 20 habitaciones 20 salarios mínimos,
+
+por mes cuando el servicio
+
+sea dos veces a la semana y
+
+70 salarios mínimos por mes
+
+si el servicio es diario.
+
+En el caso de hoteles y moteles, cuyo número de habitaciones sea mayor de veinte será obligación de ellos, la recolección y traslado de la basura que generen hasta el relleno sanitario.
+
+f). Maquiladoras 50 salarios mínimos por
+
+mes cuando la recolección
+
+sea 2 veces por semana.
+
+g). Salones de baile o fiestas: 11 salarios mínimos por
+
+servicios hasta 200 personas
+
+20 salarios mínimos por
+
+servicio hasta 300 personas
+
+30 salarios mínimos por
+
+servicio por mas de 500
+
+personas
+
+h). Los propietarios de giros comerciales
+
+que tiren sus residuos en el relleno
+
+sanitario del municipio de Loreto 0.50 a 10 salarios mínimos
+
+i). Empresas particulares que se dediquen
+
+a realizar servicio de recolección de basura
+
+a comercios establecimientos, colonias, con
+
+fines de lucro en el relleno sanitario propiedad
+
+del municipio de Loreto De 15 a 100 salarios
+
+mínimos mensuales
+
+j). Servicios especiales de recolección
+
+de basura a comercios, embarcaciones De 15 a 50 salarios
+
+mínimos
+
+k). Personas que se sorprendan en
+
+flagrancia tirando basura, escombro, y
+
+demás fuera del relleno sanitario como
+
+arroyos, calles, caminos vecinales, terrenos
+
+baldíos y vía pública. De 50 a 100 salarios
+
+mínimos
+
+l). Los establecimientos comerciales,
+
+industriales y de servicios que saquen la
+
+basura los días que no les corresponde
+
+o después que la unidad recolectora
+
+realiza su recorrido. De 1 a 50 salarios
+
+mínimos
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -1269,19 +1587,43 @@ III. Estacionamientos exclusivos para uso comercial, por metro lineal anualmente
 
 IV. Estacionamiento o uso de la vía pública para carga y descarga en establecimientos comerciales, diariamente...1 día salario mínimo.
 
-V. Vehículos automotores con amplificador de sonido diariamente...1 día salario mínimo.
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 2005)</small>
+
+V. Vehículos automotores con amplificador
+
+De sonido y/o autoparlante, siempre y cuando 10% día salario
+
+Lo utilicen en forma comercial, diariamente mínimo.
 
 VI. Ubicación de aparatos que funcionen con Monedas, fichas, tarjetas u otras similares...25% del salario mínimo.
 
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 2005)</small>
+
 VII. Instalación de puestos:
 
-a). Semifijos por m2...50% del salario mínimo.
+> <small>(F. DE E., B.O. 20 DE FEBRERO DE 2006)</small>
 
-b). Ambulantes...25% del salario mínimo.
+a). Semifijos se cobrará diariamente, 1 salario
 
-VIII. Cualquier otro uso o concesión de la vía pública otorgado por la Autoridad Municipal de carácter temporal, provisional o permanente...1 día salario mínimo.
+siempre y cuando no excedan de diez mínimo diario
+
+metros cuadrados
+
+b). Ambulantes. 50% salario mínimo diario
+
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 2005)</small>
+
+VIII. Cualquier otro uso o concesión de
+
+la vía publica otorgado por la Autoridad 2 días salarios
+
+Municipal de carácter temporal, provisional mínimos diarios.
+
+o permanente
 
 IX. Por cada carro casa autopropulsado o de tracción de cualquier tipo que ocupe, y que sea estacionado en lugares no autorizados específicamente para tal fin, deberá recabar autorización Municipal cubriendo una cuota diaria de...1 día salario mínimo
+
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
 Los pagos anuales se harán por adelantado en los meses de Enero y Febrero de acuerdo con el calendario que establezca la Autoridad Municipal correspondiente.
 
@@ -1308,6 +1650,10 @@ Los establecimientos que realicen diversas actividades concretas deberán obtene
 ###### Artículo 81.
 
 Los giros que no estén inscritos en el padrón correspondiente, y los que no hubieran obtenido licencia para su funcionamiento u operen infringiendo los términos de la licencia concedida, serán clausurados por las autoridades fiscales, y se les impondrá una sanción de 10 a 15 salarios mínimos, conforme al procedimiento que se establece en el título único de las Infracciones y Sanciones de la presente Ley.
+
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 2005)</small>
+
+Para la inscripción en el padrón de Giros Comerciales, deberán presentar el último recibo o constancia de estar al corriente en el pago del Impuesto Predial así como del servicio de agua potable, En caso contrario no podrán obtener su licencia y por lo tanto no podrán operar su giro.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -1359,17 +1705,17 @@ Si en el plazo de 3 años consecutivos no se cumple con esta obligación, se can
 
 Para efectos de cobro de los derechos de registro de giros comerciales, industriales o de servicio.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+(REFORMADO, B.O. 28 DE DICIEMBRE DE 2005) (F. DE E., B.O. 20 DE FEBRERO DE 2006)
 
 ###### Artículo 90.
 
-Por la expedición de licencia para giros comerciales e industriales, minerales y de prestaciones de servicios, etc., cubrirán el monto de 6 a 10 días de salario mínimos.
+Por la expedición de licencia para giros comerciales, industriales, minerales y de prestación de servicios, cubrirán el monto de 12 días de salario mínimos (sic).
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 91.
 
-Por el refrendo de licencia de funcionamiento y revalidación anual de los giros comerciales correspondientes a el Artículo 105, aportarán el equivalente a 6 días de salario mínimo general, el cual se destinará a mejoras en los servicios públicos del municipio de Loreto.
+Por el refrendo de licencia de funcionamiento y revalidación anual de los giros comerciales correspondientes al Artículo 79, pagaran el equivalente a 6 días de salario mínimo general, el cual se destinará a mejoras en los servicios públicos del municipio de Loreto.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -1389,179 +1735,193 @@ Objeto. Es objeto de este derecho de servicios que presta el H. Ayuntamiento por
 
 Sujeto. Son sujetos de estos derechos las personas físicas o morales que se dediquen a enajenar bebidas alcohólicas o a la prestación de servicios que incluyen el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, B.O. 28 DICIEMBRE DE 2005)</small>
 
 ###### Artículo 94.
 
-Tasa. Por la expedición de licencias, refrendos, cambios de actividad, cambios de domicilio y horario extraordinario en su funcionamiento a que se refiere este capítulo se causarán los derechos como lo establecen las siguientes.
+Por la expedición de licencias, refrendos, cambios de actividad, cambios de domicilio y horario extraordinario en su funcionamiento a que se refiere este capítulo se causaran los derechos como lo establecen las siguientes.
 
-T A R I F A S :
+TARIFAS
 
-I. Expedición de licencias a giros comerciales con venta de bebidas alcohólicas por cada una.
+I. Expedición de licencias a giros comerciales con venta de bebidas alcohólicas por cada una
 
-DESCRIPCION COMERCIAL...SALARIOS MINIMOS
+DESCRIPCION COMERCIAL SALARIO MÍNIMOS
 
-Hoteles y moteles por cada establecimiento...830
+Hoteles 4 estrellas y categoría superior 1800
 
-Super mercado con venta de licor y cerveza...830
+Hoteles 3 estrellas y categoría inferior 1100
 
-Abarrotes con venta de cerveza...660
+Supermercado/mini súper con venta 850
 
-Restaurante bar...830
+cerveza y licores
 
-Bar y/o discoteca...1,320
+Supermercado / abarrotes con venta de 700
 
-Centros nocturnos...3,950
+cerveza
 
-Restaurante con venta de cerveza...660
+Restaurante Bar 850
 
-Cabarets...3,950
+Bar y/o discoteca 1500
 
-Salones de baile...790
+Restaurante con venta de cerveza 700
 
-Agencias...2,638
+Centro Nocturno 4100
 
-Sub agencias...2,638
+Cabaret 4100
 
-Depósitos...660
+Salones de baile 850
 
-Cantinas...790
+Agencia 2650
 
-Ultramarinos...790
+Sub-agencia 2650
 
-Restaurant bar y/o bar con pista para baile y/o espectáculos...925
+Deposito 750
 
-Eventuales por día...10
+Cantina 1000
+
+Ultramarino 850
+
+Restaurante bar y/o bar con pista baile 1100
+
+y/o espectáculos
+
+Eventuales por día 15
+
+Tratándose de eventos organizados por 5
+
+Instituciones educativas o asociaciones
+
+Civiles.
 
 II. Refrendos de licencias de funcionamientos y revalidación anual de giro para venta y consumo de bebidas alcohólicas por cada una.
 
-ESTABLECIMIENTOS...SALARIOS MINIMOS
+DESCRIPCION COMERCIAL SALARIOS MINIMOS
 
-Hoteles y moteles por cada establecimiento...93
+Hoteles 4 estrellas y categoría superior 130
 
-Super mercado con venta de licor y cerveza...93
+Hoteles 3 estrellas y categoría inferior 100
 
-Abarrotes con venta de cerveza...55
+Supermercado/mini súper con venta. Cerveza 100
 
-Restaurant bar...93
+y licores
 
-Bar y/o discoteca...130
+Supermercado / abarrotes con venta. De cerveza 60
 
-Centros nocturnos...180
+Restaurante Bar 100
 
-Restaurant con venta de cerveza...55
+Bar y/o discoteca 150
 
-Cabarets...180
+Restaurante con venta de cerveza 60
 
-Salones de baile...130
+Centro Nocturno 200
 
-Agencias...130
+Cabaret 200
 
-Sub agencias...130
+Salones de baile 150
 
-Depósitos...55
+Agencia 150
 
-Cantinas...93
+Sub-agencia 150
 
-Ultramarinos...80
+Deposito 60
 
-Restaurant bar y/o bar con pista para baile y/o espectáculos...180
+Cantina 100
 
-No especificados...125
+Ultramarino 90
+
+Restaurante bar y/o bar c/pista 200
+
+baile y/o espectáculos
+
+No especificados 125
 
 III. Cambios de domicilio de establecimientos con venta y consumo de bebidas alcohólicas por cada una.
 
-ESTABLECIMIENTOS...SALARIOS MINIMOS
+DESCRIPCION COMERCIAL SALARIOS MÍNIMOS
 
-Hoteles y moteles por cada establecimiento...80
+Hoteles 4 estrellas y categoría superior 90
 
-Super mercado con venta de licor y cerveza...80
+Hoteles 3 estrellas y categoría inferior
 
-Abarrotes con venta de cerveza...80
+incluye moteles 90
 
-Restaurant bar...80
+Supermercado/mini súper con venta de
 
-Bar y/o discoteca...80
+cerveza y licores 90
 
-Centros nocturnos...160
+Supermercado / abarrotes con venta
 
-Restaurant con venta de cerveza...80
+de cerveza 80
 
-Cabarets...160
+Restaurante Bar 90
 
-Salones de baile...90
+Bar y/o discoteca 90
 
-Agencias...90
+Restaurante con venta de cerveza 80
 
-Sub agencias...80
+Centro Nocturno 180
 
-Depósitos...80
+Cabaret 180
 
-Cantinas...80
+Salones de baile 100
 
-Ultramarinos...80
+Agencia 100
 
-Restaurant bar y/o bar con pista para baile y/o espectáculos...80
+Sub-agencia 90
 
-ESTABLECIMIENTOS...SALARIOS MINIMOS
+Deposito 90
 
-Hoteles y moteles por cada establecimiento...1.00
+Cantina 90
 
-Super mercado con venta de licor y cerveza...1.00
+Ultramarino 90
 
-Abarrotes con venta de cerveza...1.00
+Restaurante bar y/o bar c/pista 180
 
-Restaurant bar...2.00
+baile y/o espectáculos
 
-Bar y/o discoteca...2.00
+No especificados 80
 
-Centros nocturnos...3.00
+IV. Por tarifas de horas extras de establecimientos con venta y consumo de bebidas alcohólicas se causara de la siguiente manera.
 
-Restaurant con venta de cerveza...2.00
+DESCRIPCION COMERCIAL COSTO EN SALARIOS MIN.
 
-Cabarets...3.00
+LUNES A SABADO
 
-Salones de baile...2.00
+Supermercado/mini súper con 1
 
-Agencias...1.00
+Venta de cerveza y licores
 
-Sub agencias...1.00
+Supermercado / abarrotes con venta 1
 
-Depósitos...1.00
+de cerveza
 
-Cantinas...1.00
+Restaurante Bar 1
 
-Ultramarinos...1.00
+Bar y/o discoteca 2
 
-Restaurant bar y/o bar con pista para baile y/o espectáculos…2.00
+Restaurante con venta de cerveza 1
 
-IV.- Por tarifas de horas extras de establecimientos con venta y consumo de bebidas alcohólicas se causará de la siguiente manera:
+Centro Nocturno 2
 
-Hoteles y moteles por cada establecimiento...1 S.M.
+Cabaret 2
 
-Supermercado con venta de licor y cerveza...1 S.M.
+Salones de baile 1
 
-Abarrotes con venta de cerveza...1 S.M.
+Agencia NO SE AUTORIZA HORAS
 
-Agencias...1 S.M.
+EXTRAORDINARIAS.
 
-Sub-Agencias...1 S.M.
+Sub-agencia NO SE AUTORIZA HORAS
 
-Depósitos...1 S.M.
+EXTRAORDINARIAS.
 
-Cantinas...1 S.M.
+Deposito NO SE AUTORIZA HORAS
 
-Ultramarinos...1 S.M.
+EXTRAORDINARIAS.
 
-Restaurant Bar...1 S.M.
+Cantina 2
 
-Bar y/o Discoteca...1 S.M.
-
-Restaurante Bar con pista para baile y/o espectáculos…1 S.M.
-
-Cabaret...5 S.M.
-
-Centros Nocturnos...5 S.M
+Ultramarino 1
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -1609,11 +1969,83 @@ e). Los establecimientos que no reúnan los requisitos contemplados de la Secret
 
 Objeto. Para efectos de este derecho, se entiende por anuncio en la vía pública a todo medio de publicidad que proporcione información, orientación e identifique un servicio profesional, marca, producto, o establecimientos con fines de bienes o servicios.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 100.
 
-Sujeto. Son sujetos de este derecho las personas físicas o morales tenedoras o usuarias de anuncios, carteles o publicidad, en la vía pública, los cuales requerirán de licencias, permisos o autorización para su instalación y uso de conformidad con la reglamentación Municipal correspondiente.
+Sujeto. Son sujetos de este derecho las personas físicas o morales a quienes se anuncie o cuyos productos, servicios y/o actividades sean anunciados en forma permanente o eventual cuya colocación impacte visualmente debiendo para ello obtener previamente licencia o permiso respectivo y pagar los derechos por autorización correspondiente, conforme a las siguientes tarifas.
+
+I. ANUNCIOS PERMANENTES
+
+a). Anuncios adosados no luminosos
+
+en bienes muebles o inmuebles por
+
+cada metro cuadrado o fracción 1 salario mínimo anual.
+
+b) Anuncios salientes iluminados o
+
+sostenidos a muros por metro cuadrado
+
+o fracción 1 salario mínimo anual.
+
+c) Anuncios estructurales en
+
+azoteas o pisos por metro cuadrado 2 salarios mínimos anual
+
+d) Anuncios adosados no luminosos
+
+en Casetas Telefónicas por cada una 1 salario mínimo anual
+
+e) Anuncios espectaculares por metro
+
+cuadrado o fracción 4 salarios mínimo anual
+
+f) Anuncios colgantes, de pie o pedestal
+
+por metro cuadrado o fracción I 2 salarios mínimo anual
+
+g) Anuncio tipo directorio metro cuadrado
+
+o fracción 2 salarios mínimo anual
+
+II. ANUNCIOS EVENTUALES plazo no mayor a 30 días.
+
+a) Anuncios adosados no luminosos en
+
+bienes muebles e inmuebles por cada metro
+
+cuadrado o fracción. 1 salario mínimo.
+
+b) anuncios salientes iluminados o
+
+sostenidos a muros, por metro cuadrado o
+
+fracción. 3 salarios mínimos
+
+c) Anuncios estructurales en azoteas,
+
+pisos por metro cuadrado o fracción 0.50 salarios mínimos
+
+III. TABLEROS PARA FIJAR PROPAGANDA 1 salario mínimo por mes
+
+IV. PROMOCIONES MEDIANTE
+
+CARTULINAS, BARDAS, MANTAS,
+
+CARTELES Y OTROS SIMILARES
+
+POR CADA PROMOCION de 3 a 17 salarios mínimos
+
+(no mayor a cinco días)
+
+V. ANUNCIOS INFLABLES
+
+a) de uno a tres metros por cada uno 7 salarios mínimos
+
+b) Mayor de tres hasta seis metros por c/u 14 salarios mínimos
+
+c) Mayor de seis metros 20 a 50 salarios mínimos
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -1621,11 +2053,9 @@ Sujeto. Son sujetos de este derecho las personas físicas o morales tenedoras o 
 
 Responsable solidario. Serán responsable (sic) solidarios los propietarios de los inmuebles, predios o fincas en donde se finquen los anuncios o se lleve a cabo la publicidad.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
-
 ###### Artículo 102.
 
-Base. La base del pago de estos derechos será 10% diario del salario mínimo general del Estado de Baja California Sur, por metro cuadrado pagadero anual.
+(DEROGADO, B.O. 28 DE DICIEMBRE DE 2005)
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -1659,17 +2089,21 @@ c). El anuncio principal del establecimiento destinado a anunciar su propio nego
 
 #### SECCION PRIMERA. DERECHOS POR SERVICIO DE CONTROL VEHICULAR
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 106.
 
-Los derechos por servicios de control vehicular se pagarán anualmente, en los meses de Enero, Febrero, Marzo y Abril, de acuerdo con el Calendario que establezca la Autoridad Municipal correspondiente, y conforme a la siguiente:
+Los derechos por servicios de control vehicular se pagarán anualmente, en los meses de enero, febrero, marzo y abril, de acuerdo con el calendario que establezca la Autoridad Municipal correspondiente, y conforme a la siguiente:
 
 T A R I F A :
 
-I. Camiones, camionetas y similares...3 días salario mínimo.
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
-II. Automóviles...2 días salario mínimo.
+I. Camiones, camionetas, pickup y similares 4 días salario mínimo
+
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 2005)</small>
+
+II. Automóviles 3 días salario mínimo
 
 III. Motocicletas...1 día salario mínimo.
 
@@ -1703,59 +2137,57 @@ V. Reposición de tarjeta de circulación...2 días salario mínimo
 
 VI. Por revisión electromecánica adicionalmente se pagarán $ 2.00 por concepto de aportación al Honorable Cuerpo de Bomberos...1 día salario mínimo.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 108.
 
 La dotación y reposición de placas de identificación del servicio de control vehicular, tendrán un costo de acuerdo a la siguiente.
 
-T A R I F A :
+TARIFA
 
-I. Camiones, automóviles y remolque 6 días salario mínimo.
+I. Camiones y pick-up 8 días salario mínimo.
 
-II. Motocicletas, bicicletas y vehículos de tracción
+II. Automóviles 8 días salario mínimo.
 
-Manual 2 días salario mínimo.
+III. Remolque, servicio publico local y
 
-> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
+Transporte de carga 11 días salario mínimo.
 
-III.- Baja de placas 1 día de salario mínimo
+IV. Motocicletas, bicicletas y vehículos de
 
-> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
+Tracción manual 2.5 días de salario mínimo.
 
-IV. Permiso para circular con una sola placa
+V. Baja de placas 1.5 día salario mínimo.
 
-no mayor a diez días, por única ocasión 50% días de salario mínimo
+VI. Permiso para circular con una sola placa
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+no mayor de 10 días, por única ocasión. 75% día salario mínimo.
+
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 109.
 
-No se podrá conducir vehículos de motor sin obtener previamente la licencia de manejo respectiva, ésta se otorgara después de que la persona interesada haya sido aprobado en el examen médico que practique cualquier profesional legalmente autorizado para ejercer la medicina y en el de competencia que efectúen las autoridades de tránsito, que serán realizados previo pago de los derechos contenidos en la siguiente
+No se podrá conducir vehículos de motor sin obtener previamente la licencia de manejo respectiva, esta se otorgara después de que la persona interesada haya sido aprobado en el examen médico que practique cualquier profesional legalmente autorizado para ejercer la medicina y en el de competencia que efectúen las autoridades de transito, que serán realizados previo pago de los derechos contenidos en la siguiente.
 
-T A R I F A :
+TARIFA:
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
+I. Chofer (3 años) 9 días salario mínimo.
 
-I. Chofer ( 3 años ) 8 días salario mínimo.
+II. Automovilista (3 años) 6 días salario mínimo.
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
+III. Motociclista (3 años) 6 días salario mínimo.
 
-II. Automovilista ( 3 años ) 4 días salario mínimo.
-
-III. Motociclista ( 3 años ) 1 día salario mínimo.
-
-IV. Permiso provisional, por mes 1 día salario mínimo.
+IV. Permiso provisional, por mes 4 días salario mínimo.
 
 Por el resello anual se causarán el 10% de la tarifa anterior.
 
-> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
+Tratándose de la licencia tipo láser se aumentara su consto en 3 salarios mínimos de acuerdo a la tarifa anterior, teniendo una vigencia de 3 años sin resello anual.
 
-V.- Permisos para conducir a menores Mayores de
+V. Permisos para conducir a mayores
 
-16 y menores de 18 años, Previo curso de manejo,
+de 16 y menores de 18 años, Previo curso de
 
-con una vigencia máxima de 90 días 2 días de salario mínimo
+Manejo, con una vigencia máxima de 90 días 4 días de salario mínimo.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2179,21 +2611,85 @@ En caso de que les sean presentadas hojas sin los requisitos indicados, las reco
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
-### CAPITULO SEPTIMO. PRODUCTOS DIVERSOS
+### CAPITULO SEPTIMO. DEL USO DE LA VIA PUBLICA POR INSTALACIONES SUBTERRÁNEAS O AEREAS
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+(REFORMADO, B.O. 28 DE DICIEMBRE DE 2005) (F. DE E., B.O. 20 DE FEBRERO DE 2006)
 
 ###### Artículo 119.
 
 Los propietarios de los animales depositados en los corrales pertenecientes al Municipio, pagarán diariamente como derecho por servicios prestados, la cantidad de 2.5% del salario mínimo diario por cada animal, cualquiera que sea su clase y tamaño y no podrán retirarlos mientras no se haga la liquidación correspondiente.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 2005)</small>
+
+### CAPITULO OCTAVO. PRODUCTOS DIVERSOS
+
+> <small>(REFORMADO, B.O. 28 DICIEMBRE DE 2005)</small>
+
+###### Artículo 119 Bis.
+
+Las personas físicas o morales que previa autorización de la autoridad municipal correspondiente, hagan uso del piso, de instalaciones subterráneas o áreas en vía pública, para la realización de actividades comerciales o de prestación de servicios en forma permanente o temporal pagaran los productos correspondientes conforme a la siguiente:
+
+TARIFA
+
+I. Casetas telefónicas, diariamente, por cada 0.10 días Sal. Min.
+
+una; debiendo realizar el pago anualizado
+
+dentro de los primeros 60 días del ejercicio
+
+fiscal.
+
+II. Instalaciones de infraestructura, por metro
+
+lineal, anualmente:
+
+a). Redes subterráneas de:
+
+1). Telefonía 0.02 días salario mínimo
+
+2). Transmisión de datos 0.02 días salario mínimo
+
+3). Transmisión de señales de televisión
+
+por cable 0.02 días salario mínimo
+
+4). Distribución de gas 0.02 días salario mínimo
+
+5). Energía eléctrica, siempre y cuando las
+
+instalaciones se usufructúen. 0.02 días salario mínimo
+
+b). Redes visibles de:
+
+1). Telefonía 0.03 días salario mínimo
+
+2). Transmisión de datos 0.03 días salario mínimo
+
+3). Transmisión de señales de televisión
+
+por cable 0.03 días salario mínimo
+
+4). Energía eléctrica, siempre y cuando las
+
+instalaciones se usufructúen. 0.03 días salario mínimo
+
+III. Por cajas de registros permanentes de líneas
+
+telefónicas, que ocupen espacio en la vía
+
+pública, diariamente se cobrará por cada una. 0.10 días salario mínimo
+
+IV. Por postes, permanentes para el servicio
+
+telefónico o eléctrico, que ocupen un espacio en
+
+la vía pública, diariamente se cobrara por cada
+
+uno. 0.005 días salario mínimo
+
+(REUBICADO [N. DE E. ANTES CAPITULO SEPTIMO], B.O. 28 DICIEMBRE DE 2005)
 
 ### CAPITULO PRIMERO. RECARGOS
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
-
-### CAPITULO SEGUNDO. MULTAS
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2207,7 +2703,7 @@ Productos Diversos son todos aquellos productos no considerados en los términos
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
-### CAPITULO TERCERO. REZAGOS
+### CAPITULO SEGUNDO. MULTAS
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2223,7 +2719,7 @@ El plazo para su cómputo del artículo anterior, no comenzará a correr si el c
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
-### CAPITULO CUARTO. APROVECHAMIENTOS DIVERSOS
+### CAPITULO TERCERO. REZAGOS
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2233,7 +2729,7 @@ Además de las que señale la presente Ley, las multas o sanciones por infraccio
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
-### CAPITULO QUINTO. GASTOS DE EJECUCION
+### CAPITULO CUARTO. APROVECHAMIENTOS DIVERSOS
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2243,7 +2739,7 @@ Son rezagos los adeudos por concepto de impuestos, derechos productos y aprovech
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
-### CAPITULO PRIMERO. FONDOS DE APORTACIONES FEDERALES
+### CAPITULO QUINTO. GASTOS DE EJECUCION
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2253,9 +2749,9 @@ Los aprovechamientos no especificados en este título se recaudarán de conformi
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
-### CAPITULO PRIMERO. REDUCCIONES PARA PENSIONADOS, JUBILADOS Y PERSONAS CON DISCAPACIDAD
+### CAPITULO PRIMERO. FONDOS DE APORTACIONES FEDERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 126.
 
@@ -2273,9 +2769,9 @@ Quedan (sic) comprendido dentro de esta clasificación los ingresos que tengan e
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
-### CAPITULO SEGUNDO. ESTIMULOS FISCALES DESTINADOS AL FOMENTO DE LA INVERSION PRODUCTIVA Y LA GENERACION DE EMPLEOS
+### CAPITULO PRIMERO. REDUCCIONES PARA PENSIONADOS, JUBILADOS Y PERSONAS CON DISCAPACIDAD
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 128.
 
@@ -2293,7 +2789,7 @@ Son ingresos extraordinarios los que se originen de los organismos descentraliza
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
-### CAPITULO TERCERO. POR COOPERACION PARA OBRAS PÚBLICAS QUE REALICE EL MUNICIPIO
+### CAPITULO SEGUNDO. ESTIMULOS FISCALES DESTINADOS AL FOMENTO DE LA INVERSION PRODUCTIVA Y LA GENERACION DE EMPLEOS
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2354,6 +2850,10 @@ VI. Un 20% hasta un 50% de descuento en la entrada a todo evento deportivo, recr
 Se establece, a favor de los Pensionados y Jubilados, discapacitados y personas de la tercera edad, una reducción que será el 50% en el pago de los derechos causados por la prestación del servicio de Agua Potable y Alcantarillado.
 
 Se otorgarán las reducciones que se señalan en el presente título a aquellas personas pertenecientes la tercera edad y que acrediten tal condición previa identificación oficial expedida por al Instituto Nacional de la Senectud y por la instancia autorizada para la certificación y expedición de la misma.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
+### CAPITULO TERCERO. POR COOPERACION PARA OBRAS PÚBLICAS QUE REALICE EL MUNICIPIO
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2540,3 +3040,13 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 B.O. 31 DE DICIEMBRE DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 28 DE DICIEMBRE DE 2005.
+
+Artículo Primero.- El presente Decreto entrará en vigor a partir de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Artículo Segundo.- Se derogan todas las disposiciones que contravengan a la presente Ley.
+
+Artículo Tercero.- Se deja sin efecto la facultad otorgada a los directores de los consejos operativos de los sistemas de agua potable y alcantarillado para fijar las tarifas de agua potable.
+
+Artículo Cuarto.- Se exhorta al Municipio de Loreto Baja California Sur, a que cumpla con el artículo Quinto Transitorio del Decreto de Reforma del Artículo 115 Constitucional, publicado en el Diario Oficial de la Federación el 23 de diciembre de 1999 a efecto de que realice las adecuaciones correspondientes a los valores unitarios del suelo que sirven de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, para que sean equiparables a los valores de mercado.
