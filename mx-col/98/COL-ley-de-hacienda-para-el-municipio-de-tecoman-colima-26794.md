@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-tecoman-colima-26794"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2005-03-06"
+last_updated: "2005-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26794&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE TECOMAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -861,7 +861,45 @@ Los servicios médicos municipales, causarán los siguientes derechos:
 
 Los derechos por el uso de la vía pública y estacionamiento se causarán y pagarán conforme a la siguiente tarifa:
 
-(VEASE ARCHIVO ANEXO)
+I.- Automóviles de sitio o taxi, anualmente, por cajón 5.00
+
+II.- Camiones y camionetas de alquiler, anualmente, por cajón 5.00
+
+III.- Camiones urbanos, y mini buses para transporte urbano anualmente, por cajón 6.00
+
+IV.- Autobuses foráneos, por empresas y cajón para un vehículo, anualmente 23.00
+
+V.- Por el estacionamiento de vehículos de motor en la vía pública donde existan estacionómetros pagará por cada hora 0.26
+
+VI.- Por el uso de la vía pública de puestos fijos, semifijos o ambulantes que se instalen en la misma, diariamente por metro lineal de frente, según su ubicación, con base en la zonificación aprobada por el Cabildo 0.01 a 0.76
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2005)</small>
+
+Por los conceptos a que se refiere esta fracción, las personas mayores de 60 años y los tianguistas pagaran el 50 por ciento de la tarifa aplicable.
+
+VII.- Por el uso de la vía pública de puestos semifijos y ambulantes que se instalen en la misma, durante el desarrollo de festivales, fiestas patronales, desfiles y eventos especiales, diariamente, por metro lineal de 0.20 a 2.00
+
+VIII.- Las personas físicas o morales que instalen o tengan instalados aparatos de telefonía en las vías o áreas públicas urbanas del municipio, pagarán en unidades de salarios mensualmente:
+
+a) Por caseta 2.00
+
+IX.- Por el uso y estacionamiento particular o comercial en la vía pública por metro y mensual 1.50
+
+X.- Por el uso de la vía pública para negocios establecidos, por metro y mensual 1.00 a 2.00
+
+XI.- Por el uso de la vía pública (materiales para construcción, escombro, cascajo, grava, arena, piedra, etc.), se deberá pagar diariamente y por metro lineal 0.50 a 1.00
+
+XII.- Las personas físicas o morales que instalen o tengan instalados postes en las vías o áreas públicas urbanas y rurales del municipio, pagarán en unidades de salario anualmente 0.03
+
+XIII.- Las personas físicas o morales que instalen o tengan instalados cables de conducción de señal de televisión en las vías o áreas públicas urbanas y rurales del municipio, pagaran en unidades de salarios anualmente:
+
+a) Por metro lineal 0.03
+
+XIV.- Las personas físicas o morales que instalen o tengan instalados cables de fibra óptica con cualquier fin en las vías o áreas públicas urbanas y rurales del municipio se pagarán en unidades de salarios, anualmente:
+
+a) Por metro lineal 0.03
+
+XV.- Otros derechos no especificados de 0.03 a 23.00
 
 #### SECCION TERCERA. SERVICIOS DE SEGURIDAD PUBLICA
 
@@ -1224,3 +1262,7 @@ P.O. 25 DE DICIEMBRE DE 2004.
 P.O. 6 DE MARZO DE 2005.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 28 DE DICIEMBRE DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
