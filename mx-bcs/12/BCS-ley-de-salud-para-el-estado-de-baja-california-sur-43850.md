@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-salud-para-el-estado-de-baja-california-sur-43850"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2005-06-14"
+last_updated: "2005-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43850&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE SALUD PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el día 31 de diciembre de 2004.
 
@@ -2253,7 +2253,9 @@ Las gasolineras deberán contar con las instalaciones sanitarias y de seguridad 
 
 Los concesionarios deberán dar aviso a la autoridad sanitaria correspondiente, del inicio de sus actividades.
 
-### CAPÍTULO XIX. PREVENCIÓN Y CONTROL DE LA RABIA EN ANIMALES Y SERES HUMANOS
+### CAPÍTULO XIX. PREVENCIÓN Y CONTROL DE LA RABIA EN
+
+ANIMALES Y SERES HUMANOS
 
 ###### ARTÍCULO 274.
 
@@ -3011,11 +3013,11 @@ Todos los actos, procedimientos y recursos administrativos relacionados con la m
 
 Se concede un plazo de 120 días naturales, a partir de la fecha en que entre en vigor el presente decreto, para que la Secretaría de Salud, adecue el reglamento correspondiente.
 
-> <small>(REFORMADO, B.O. 14 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO DÉCIMO SEGUNDO.
 
-Se concede de plazo hasta el treinta y uno de diciembre del año dos mil cinco, para que el Poder Legislativo, emita la Ley que crea la Comisión Estatal de Arbitraje Médico.
+Se concede de plazo hasta el treinta de junio del año dos mil seis, para que el Poder Legislativo, emita la Ley que crea la Comisión Estatal de Arbitraje Médico.
 
 ###### ARTÍCULO DÉCIMO TERCERO.
 
@@ -3050,3 +3052,9 @@ C. PROFR. VÍCTOR MANUEL LIZÁRRAGA PERAZA
 B.O. 14 DE JUNIO DE 2005.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado del (sic) Baja California Sur.
+
+B.O. 28 DE DICIEMBRE DE 2005.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se deroga cualquier disposición que se oponga al presente decreto.
