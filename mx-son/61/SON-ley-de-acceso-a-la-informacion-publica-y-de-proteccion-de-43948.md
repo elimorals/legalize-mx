@@ -4,7 +4,7 @@ identifier: "SON-ley-de-acceso-a-la-informacion-publica-y-de-proteccion-de-43948
 country: "mx"
 rank: "ley"
 publication_date: "2005-02-25"
-last_updated: "2005-02-25"
+last_updated: "2005-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43948&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE DICIEMBRE DE 2005
 
 Ley publicada en la Segunda Sección del Boletín Oficial del Estado de Sonora, el viernes 25 de febrero de 2005.
 
@@ -695,9 +695,11 @@ La publicación de la información a que se refiere el artículo 14 deberá comp
 
 Los titulares de los sujetos obligados oficiales deberán designar su unidad de enlace y la unidad administrativa responsable de publicar la información a que se refiere el artículo 14 de la presente Ley dentro de un plazo de treinta días a partir de la entrada en vigor de este ordenamiento, para el efecto de que se inicie de inmediato la implementación de las estrategias y medidas administrativas que permitan el cumplimiento de esta Ley en los plazos que se determinan en estos transitorios. La conformación de dichas unidades se deberá realizar con los recursos humanos, materiales y presupuestarios que se tengan asignados, de tal modo que no se realicen erogaciones adicionales.
 
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO QUINTO.
 
-Los particulares podrán presentar solicitudes de acceso a la información pública a partir del 1º de febrero del 2006. Para dicho efecto, quince días antes de dicha fecha, los sujetos obligados del Gobierno Estatal y los municipios de Hermosillo, Cajeme, Nogales, San Luis Río Colorado, Caborca, Agua Prieta, Guaymas y Navojoa deberán hacer del conocimiento público por medio de la prensa, radio, televisión e internet la designación de las unidades de enlace correspondientes, con especificación del nombre de su titular, su domicilio oficial, números telefónicos y, en su caso, dirección electrónica. El resto de los sujetos obligados, según sus condiciones presupuestales, harán del conocimiento público la designación referida preferentemente por alguno de los medios indicados o mediante avisos colocados en las oficinas y parajes públicos.
+Los particulares podrán presentar solicitudes de acceso a la información pública a partir del 1º de agosto del 2006. Para dicho efecto, quince días antes de dicha fecha, los sujetos obligados del Gobierno Estatal y los municipios de Hermosillo, Cajeme, Nogales, San Luis Río Colorado, Caborca, Agua Prieta, Guaymas y Navojoa deberán hacer del conocimiento público por medio de la prensa, radio, televisión e internet la designación de las unidades de enlace correspondientes, con especificación del nombre de su titular, su domicilio oficial, números telefónicos y, en su caso, dirección electrónica. El resto de los sujetos obligados, según sus condiciones presupuestales, harán del conocimiento público la designación referida preferentemente por alguno de los medios indicados o mediante avisos colocados en las oficinas y parajes públicos.
 
 ###### ARTÍCULO SEXTO.
 
@@ -710,3 +712,9 @@ Dentro de un plazo de quince días hábiles a partir del inicio de vigencia de l
 COMUNIQUESE AL TITULAR DEL PODER EJECUTIVO PARA SU PUBLICACIÓN EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO.- AL MARGEN CENTRAL DERECHO UN SELLO CON EL ESCUDO NACIONAL QUE DICE: ESTADOS UNIDOS MEXICANOS.- H. CONGRESO DEL ESTADO DE SONORA.- SALÓN DE SESIONES DEL H. CONGRESO DEL ESTADO.- HERMOSILLO, SONORA, 22 DE FEBRERO DE 2005.- DIPUTADO PRESIDENTE.- C. HECTOR RUBÉN ESPINO SANTANA.- RÚBRICA.- DIPUTADO SECRETARIO.- C. JUAN MIGUEL CORDOVA LIMON.- RÚBRICA.- DIPUTADO SECRETARIO.- C. FRANCISCO VILLANUEVA SALAZAR.- RUBRICA.-
 
 POR TANTO, MANDO SE PUBLIQUE EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO Y SE LE DÉ EL DEBIDO CUMPLIMIENTO.- DADO EN LA RESIDENCIA DEL PODER EJECUTIVO, EN LA CIUDAD DE HERMOSILLO, SONORA, A LOS VEINTITRES DÍAS DEL MES DE FEBERO DEL AÑO DOS MIL CINCO.- SUFRAGO EFECTIVO. NO REEELECCIÓN.- EL GOBERNADOR DEL ESTADO.- EDUARDO BOURS CASTELO.- RÚBRICA.- EL SECRETARIO DE GOBIERNO.- ROBERTO RUBIAL ASTIAZARAN.- RÚBRICA.-
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 29 DE DICIEMBRE DE 2005.
+
+UNICO.- El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
