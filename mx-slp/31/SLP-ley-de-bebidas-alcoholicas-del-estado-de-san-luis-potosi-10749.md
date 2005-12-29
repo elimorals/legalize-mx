@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-bebidas-alcoholicas-del-estado-de-san-luis-potosi-10749"
 country: "mx"
 rank: "ley"
 publication_date: "1994-10-07"
-last_updated: "2000-04-12"
+last_updated: "2005-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY DE BEBIDAS ALCOHOLICAS DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DEL 2000.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE BEBIDAS ALCOHOLICAS DEL ESTADO DE SAN LUIS POTOSI, PUBLICADA EN LA EDICION EXTRAORDINARIA DEL P.O. DE 29 DE DICIEMBRE DE 2005, EL PRESENTE ORDENAMIENTO FUE ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 7 de octubre de 1994.
 
@@ -566,3 +568,21 @@ P.O. 12 DE ABRIL DE 2000.
 PRIMERO.- El presente Decreto entrará en vigor a los quince días de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- La Secretaría General de Gobierno, a través de la Dirección de Gobernación, deberá notificar dentro de los diez días siguientes a la publicación del presente, a los titulares de las licencias y autorizaciones para la venta de bebidas alcohólicas, la obligación que deriva de este Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2005.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Bebidas Alcohólicas del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado con fecha 7 de octubre de 1994, mediante el Decreto Legislativo No. 213; y demás disposiciones que se opongan a la entrada en vigor de la presente Ley.
+
+TERCERO. Los establecimientos que se encuentren funcionando legalmente al amparo de disposiciones anteriores, deberán regularizar su licencia, presentando por única vez, la información y documentación que establece el artículo 21 de esta Ley, dentro del año siguiente, contado a partir del día uno de enero del año 2006; transcurrido el plazo anterior, las licencias que no hayan sido reguladas, dejarán de ser válidas.
+
+CUARTO. Los establecimientos con licencia para venta de bebidas alcohólicas señalados en el artículo 13 de esta Ley, podrán continuar funcionando al entrar en vigor la misma, no obstante que se encuentre a una distancia menor de doscientos metros de establecimientos similares.
+
+QUINTO.- Los asuntos que se encuentren en trámite a la entrada en vigor de esta Ley, cualquiera que sea su estado, seguirán el procedimiento de acuerdo a los ordenamientos y disposiciones legales vigentes en la fecha en que se iniciaron, y ante la autoridad que conoció de los mismos.
+
+SEXTO. Cada ayuntamiento del Estado deberá integrar su Consejo Municipal de Horarios para la venta y consumo de bebidas alcohólicas, en un plazo de treinta días naturales, contados a partir de la entrada en vigor de esta Ley.
+
+SEPTIMO. Los ayuntamientos deberán establecer los horarios para la venta, consumo y suministro de bebidas alcohólicas, en un plazo de treinta días naturales, contados a partir de la integración del Consejo. En tanto no se fijen los horarios correspondientes para cada clasificación, los establecimientos funcionarán de acuerdo a los horarios previstos en el artículo 31 de esta Ley.
+
+OCTAVO. El Ejecutivo del Estado deberá expedir el Reglamento de esta ley, dentro de los sesenta días siguientes a partir de la entrada en vigor de la misma.
