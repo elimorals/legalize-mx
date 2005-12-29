@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-la-renta-22690"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-01"
-last_updated: "2005-12-28"
+last_updated: "2005-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22690&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISR"
 
 LEY DEL IMPUESTO SOBRE LA RENTA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 2005.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 1 de enero de 2002.
 
@@ -5638,21 +5638,21 @@ V. Que en la escritura pública en la que conste la adquisición de dichos terre
 
 Los contribuyentes que apliquen lo dispuesto en este artículo, lo deberán hacer respecto de todos sus terrenos que formen parte de su activo circulante, por un periodo mínimo de cinco años contados a partir del ejercicio en el que ejerzan la opción a que se refiere este artículo.
 
-> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 226.
 
-Se otorga un estímulo fiscal por un plazo indefinido a las personas físicas o morales, con independencia de la actividad que desempeñen, por los proyectos de inversión productiva que realicen en el ejercicio fiscal correspondiente, consistente en aplicar una deducción del 100% en relación con los gastos e inversiones en la producción cinematográfica nacional. Esta deducción no podrá exceder del 3% contra el total del Impuesto Sobre la Renta a su cargo, en la declaración del ejercicio correspondiente.
+Se otorga un estímulo fiscal a las personas físicas o morales, con independencia de la actividad que desempeñen, por los proyectos de inversión productiva que realicen en el ejercicio fiscal correspondiente, consistente en acreditar el 10% del Impuesto sobre la Renta, que se cause en el ejercicio por las inversiones en la producción cinematográfica nacional.
 
 El monto total del estímulo a distribuir entre los aspirantes del mismo no excederá de la cantidad de 500 millones de pesos anual.
 
-Se considerará como proyectos de inversión productiva en la producción cinematográfica nacional, los gastos e inversiones en territorio nacional, destinados específicamente a la realización de una película cinematográfica a través de un proceso en el que se conjugan la creación y realización cinematográfica, así como los recursos humanos materiales y financieros necesarios para dicho objeto.
+Se considerará como proyectos de inversión productiva en la producción cinematográfica nacional, las inversiones en territorio nacional, destinadas específicamente a la realización de una película cinematográfica a través de un proceso en el que se conjugan la creación y realización cinematográfica, así como los recursos humanos, materiales y financieros necesarios para dicho objeto.
 
 Se entenderá por producción cinematográfica nacional, las películas que hayan sido realizadas por personas físicas o morales mexicanas, o bien, en el marco de los acuerdos internacionales o de los convenios de coproducción suscritos por el gobierno mexicano, con otros países u organismos internacionales.
 
 Corresponderá a los Comités Técnicos del Fondo de Inversión y Estímulos al Cine y del Fondo para la Producción Cinematográfica de Calidad, en términos de sus respectivas competencias y en base a sus reglas de operación e indicadores de gestión y evaluación, con la participación que corresponda a la Secretaría de la Función Pública, la autorización de los proyectos de inversión productiva para la producción de películas cinematográficas nacionales; así como los requisitos y trámites que deberán cumplir los interesados para hacerse merecedores al estímulo fiscal.
 
-Los Comités Técnicos referidos estarán obligados a publicar dentro de los meses de julio y diciembre de cada año, un informe que contenga los montos erogados durante el primero y segundo semestre, según corresponda, así como las personas beneficiadas con el otorgamiento del estímulo fiscal y los proyectos de producción cinematográficas nacional objeto de dicho estímulo.
+Los Comités Técnicos referidos estarán obligados a publicar dentro de los meses de julio y enero de cada año, un informe que contenga los montos erogados durante el primero y segundo semestre del ejercicio fiscal respectivo, según corresponda, así como las personas beneficiadas con el otorgamiento del estímulo fiscal y los proyectos en la producción cinematográfica nacional objeto de dicho estímulo.
 
 La Secretaría de Hacienda y Crédito Público, en el ejercicio de sus facultades, verificará el correcto uso del estímulo fiscal.
 
@@ -7255,3 +7255,7 @@ Artículo Segundo. Las tarifas y tablas establecidas en los artículos 113, 114,
 D.O.F. 28 DE DICIEMBRE DE 2005.
 
 ÚNICO. El presente Decreto entrará en vigor el 1o. de enero de 2006.
+
+D.O.F. 29 DE DICIEMBRE DE 2005.
+
+Único.- El presente Decreto entrará en vigor el 1 de enero de 2006.
