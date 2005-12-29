@@ -4,7 +4,7 @@ identifier: "QUE-codigo-fiscal-del-estado-de-queretaro-7564"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-31"
-last_updated: "2004-12-09"
+last_updated: "2005-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7564&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO FISCAL DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2005.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 31 de diciembre de 1987.
 
@@ -41,15 +41,11 @@ CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO
 
 La Hacienda Pública del Estado de Querétaro, para cubrir el gasto público y demás obligaciones a su cargo, percibirá en cada ejercicio fiscal los impuestos, derechos, contribuciones especiales, productos, aprovechamientos y participaciones en ingresos federales que establezcan las leyes respectivas, así como los sistemas y convenios de coordinación que se suscriban para tales efectos.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 2.
 
-Las contribuciones del Estado se clasifican en ordinarias y extraordinarias, son contribuciones ordinarias los impuestos, derechos, productos, contribuciones especiales aprovechamientos y es la forma regular para cubrir el presupuesto público.
-
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
-
-Los recargos, las sanciones, los gastos de ejecución y la indemnización a que se refiere el tercer párrafo del artículo 41 de este código, son accesorios de las contribuciones y participan de la naturaleza de estas. Cuando en este código se haga referencia únicamente a contribuciones no se entenderán incluidos los accesorios.
-
-Son contribuciones extraordinarias, aquellas cuya percepción se autorice excepcionalmente para cubrir gastos eventuales o el importe de determinadas obras públicas, siempre y cuando estén contempladas en Ley. Dentro de esta categoría, quedan comprendidos los empréstitos o financiamientos adicionales.
+Las contribuciones del Estado se clasifican en ordinarias y extraordinarias. Son contribuciones ordinarias los impuestos, derechos, contribuciones especiales, y es la forma regular para cubrir el presupuesto público. Son contribuciones extraordinarias, aquellas cuya percepción se autorice excepcionalmente para cubrir gastos eventuales o el importe de determinadas obras públicas, siempre y cuando estén contempladas en ley. Dentro de esta categoría, quedan comprendidos los empréstitos o financiamientos adicionales.
 
 ###### ARTICULO 3.
 
@@ -69,13 +65,17 @@ Son productos los ingresos por los servicios que presta el Estado en sus funcion
 
 Los derechos estarán regulados por lo que dispongan las leyes y por lo que, en su caso, prevengan los contratos o concesiones respectivas.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 7.
 
-Son aprovechamiento los recargos, las multas y los demás ingresos del erario estatal no clasificables como impuestos, derechos, contribuciones especiales o productos.
+Son aprovechamientos los ingresos que percibe el Estado por funciones de derecho público distintos de las contribuciones, de los ingresos derivados de financiamientos y de los que obtengan los organismos descentralizados y las empresas de participación estatal.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
+Los recargos, las sanciones, los gastos de ejecución y la indemnización a que se refiere el penúltimo párrafo del Artículo 41 de este Código, que se apliquen en relación con aprovechamientos, son accesorios de éstos y participan de su naturaleza.
 
-ARTICULO 7 BIS.- Es crédito fiscal aquel que tiene derecho a percibir el estado o sus organismos descentralizados, que provengan de contribuciones o de sus accesorios, incluyendo los que deriven de responsabilidades que el estado tenga derecho a exigir de sus servidores públicos o de los particulares, así como aquellos a los que la leyes les den ese carácter.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2005)</small>
+
+ARTICULO 7 BIS.- Es crédito fiscal aquel que tiene el derecho a recibir del estado, o sus organismos descentralizados, que provengan de sus contribuciones o sus accesorios, aprovechamientos, incluyendo los que deriven de responsabilidades que el Estado tiene derecho a exigir de sus servidores públicos o de los particulares, así como aquellos a los que las leyes den ese carácter.
 
 ###### ARTICULO 8.
 
@@ -455,19 +455,15 @@ d. Tratándose de pagos provisionales no procederá la autorización a que se re
 
 (DEROGADO, P.O. 9 DE DICIEMBRE DE 2004)
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 39.
 
-Cuando no se cubran las contribuciones en la fecha o dentro del plazo fijado por las disposiciones fiscales, el monto de las mismas se actualizará desde el mes en que se debió hacerse el pago y hasta que el mismo se efectúe.
+Cuando no se cubran las contribuciones, aprovechamientos, multas, así como las devoluciones a cargo del fisco estatal, que no se paguen en la fecha establecida en las disposiciones fiscales, el monto de las mismas se actualizará desde el mes en que se debió hacerse el pago y hasta que el mismo se efectúe.
 
-La actualización se calculará con base en el factor que se obtenga de dividir el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del período, entre el citado índice correspondiente al mes anterior al más antiguo de dicho período. El Índice Nacional de Precios al Consumidor referido, se determinará conforme a lo dispuesto por el artículo 20 Bis del Código Fiscal de la Federación, resultando aplicable lo dispuesto por el artículo 17-A del citado Código, en lo no previsto por este código.
+La actualización se calculará con base en el factor que se obtenga de dividir el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del período, entre el citado índice correspondiente al mes anterior al más antiguo de dicho período. El Índice Nacional de Precios al Consumidor referido, se determinará conforme a lo dispuesto por el artículo 20 Bis del Código Fiscal de la Federación, resultando aplicable lo dispuesto por el artículo 17 -A del citado Código, en lo no previsto por este código.
 
-Las contribuciones no se actualizarán por fracción de mes. Además, deberán pagarse recargos por concepto de indemnización al fisco estatal por la falta de pago oportuno. Los recargos se aplicarán cada mes sobre el monto de las contribuciones actualizadas y se calcularán según las tasas que para el pago a plazo y por mora publique la Secretaría de Hacienda y Crédito Público en el Diario Oficial de la Federación.
-
-Cuando se otorgue prórroga para el pago de créditos en parcialidades, de acuerdo a lo establecido en éste Código, se causarán recargos sobre saldos insolutos que se calcularán de acuerdo a lo señalado en el párrafo anterior.
-
-Los recargos se calcularán sobre el total del crédito fiscal. Los recargos no se causarán para la indemnización a que se refiere el artículo 41 del Código Fiscal del Estado de Querétaro, ni para los gastos de ejecución, ni en su caso por las multas por infracción a las disposiciones fiscales.
+Las contribuciones no se actualizarán por fracción de mes.
 
 ###### ARTICULO 40.
 
@@ -737,25 +733,37 @@ Lo señalado en el párrafo anterior, no constituirá instancia y las resolucion
 
 La cancelación de los créditos fiscales se sujetará a las normas establecidas por este Código y que se dicten por conducto de la Secretaría de Finanzas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 63.
 
-Cuando no se cubran las contribuciones en la fecha o dentro del plazo fijado para el pago de las mismas por las Leyes Fiscales del Estado, su pago extemporáneo dará lugar al cobro de recargos, de acuerdo a la tasa que fije anualmente la Ley de Ingresos. El monto de los mismos se calculará por cada mes o fracción de mes que transcurra sin hacerse el pago. No excederá el equivalente a un año de recargos, cuando el pago se efectúe en forma espontánea.
+Cuando no se cubran las contribuciones o aprovechamientos en la fecha o dentro del piazo fijado para el pago de las mismas por las leyes fiscales del Estado, su pago extemporáneo dará lugar al cobro de recargos, de acuerdo a la tasa que publique la Secretaría de Hacienda y Crédito Público, en el Diario Oficial de la Federación así como la propia Ley de Ingresos de la Federación. El monto de los mismos se calculará de conformidad con lo establecido por el primer párrafo del artículo 39 de este Código.
 
-La falta de pago total o parcial de un Crédito Fiscal o el pago de tales gravámenes realizado fuera de los plazos señalados por la Leyes Fiscales, cuando la omisión sea descubierta por las autoridades Fiscales o medie requerimiento, excitativa o cualquier otra gestión efectuada por las mismas, dará lugar a la aplicación de las sanciones procedentes.
+La falta de pago total o parcial de un crédito fiscal o el pago de tales gravámenes realizado fuera de los plazos señalados por las leyes fiscales, cuando la omisión sea descubierta por las autoridades fiscales o medie requerimiento, excitativa o cualquier otra gestión efectuada por las mismas, dará lugar a la aplicación de las sanciones procedentes.
+
+Los recargos se aplicarán cada mes sobre el monto de las contribuciones actualizadas y se calcularán según las tasas que para el pago a plazo y por mora publique la Secretaría de Hacienda y Crédito Público en el Diario Oficial de la Federación.
+
+Cuando se otorgue prórroga para el pago de créditos en parcialidades, de acuerdo a lo establecido en éste Código, se causarán recargos sobre saldos insolutos que se calcularán de acuerdo a lo señalado en el párrafo anterior.
+
+Los recargos se calcularán sobre el total del crédito fiscal. Los recargos no se causarán para la indemnización a que se refiere el artículo 41 del Código Fiscal del Estado de Querétaro, ni para los gastos de ejecución, ni en su caso por las multas por infracción a las disposiciones fiscales.
+
+Los recargos se causarán hasta por cinco años, salvo en los casos a que se refiere el artículo 46, supuestos en los cuales los recargos se causarán hasta en tanto no se extingan las facultades de las autoridades fiscales para determinar contribuciones o aprovechamientos omitidos y sus accesorios, y se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, la indemnización a que se refiere el artículo 41 de este Código, los gastos de ejecución y las multas a las disposiciones fiscales.
+
+En el caso de aprovechamientos, los recargos se calcularán de conformidad con lo dispuesto en este artículo sobre el total del crédito, excluyendo los propios recargos, los gastos de ejecución y la indemnización a que se refiere el artículo 41 de este Código. No causarán recargos las multas no fiscales.
+
+Cuando los recargos determinados por el contribuyente sean inferiores a los que calcule la autoridad recaudadora, ésta deberá aceptar el pago y procederá a exigir el remanente.
 
 ###### ARTICULO 64.
 
 Los recargos deberán considerarse, en todo caso, como indemnizaciones a la Hacienda Pública del Estado por la falta de pago oportuno de los adeudados respectivos.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 65.
 
-Las multas que la Secretaría de Finanzas o sus dependencias impongan por infracciones a las disposiciones de carácter fiscal, podrán ser condenadas totalmente si, por prueba diversa de las presentadas ante las autoridades administrativas o juridiccionales (sic) en su caso, se demuestra que no se cometió la infracción o que la persona a la que se le atribuye no es la responsable.
+Las multas que la Secretaría de Planeación y Finanzas o sus dependencias impongan por infracciones a las disposiciones de carácter fiscal, podrán ser condonadas totalmente si, por prueba diversa de las presentadas ante las autoridades administrativas o jurisdiccionales en su caso, se demuestra que no se cometió la infracción o que la persona a la que se le atribuye no es la responsable.
 
-Cuando a juicio del Secretario de Finanzas las infracciones cometidas sean leves y no hayan tenido como consecuencia la evasión del impuesto podrán condenarse parcialmente las multas determinando éste, el porciento a condonar que estima justificado, apreciando las circunstancias del caso.
-
-La Secretaría de Finanzas no dará curso a ninguna solicitud de condonación después de un año contado a partir de la fecha en que hubiese quedado firme la resolución que impuso la multa.
+Cuando a juicio del Secretario de Planeación y Finanzas las infracciones cometidas sean leves y no hayan tenido como consecuencia la evasión del impuesto podrán condonarse parcialmente las multas determinando éste el por ciento a condonar que estima justificado, apreciando las circunstancias del caso.
 
 Admitida la solicitud de condonación y asegurado el interés fiscal o dispensado éste, se suspenderá el procedimiento administrativo de ejecución hasta que la solicitud sea resuelta.
 
@@ -1246,6 +1254,10 @@ El personal oficial que intervenga en los diversos trámites relativos a la apli
 Dicha reserva, no comprenderá los casos que señalen las leyes fiscales y aquellos en que deban suministrarse datos a funcionarios, encargados de la administración y de la defensa de los intereses fiscales estatales, a las autoridades judiciales en procesos del orden penal o a los tribunales competentes que conozcan de pensiones alimenticias.
 
 Se podrá proporcionar a otras autoridades para el cumplimiento de sus funciones, la información siguiente: nombre, domicilio, comprobante de registro vehicular o cualquier otro tendiente a la identificación del contribuyente; así como los datos de carácter estadístico no individualizados que soliciten las dependencias encargadas de la elaboración de informes estadísticos.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2005)</small>
+
+ARTICULO 78 BIS.- Los actos y resoluciones de las autoridades fiscales se presumirán legales. Sin embargo, dichas autoridades deberán probar los hechos que motiven los actos o resoluciones cuando el afectado los niegue lisa y llanamente a menos que la negativa implique la afirmación de otro hecho.
 
 ## TITULO TERCERO. DE LAS INFRACCIONES, DE LAS SANCIONES Y LOS
 
@@ -1823,7 +1835,7 @@ Para la presentación de declaraciones, avisos o documentos ante las oficinas de
 
 Para efectos de este Código son días hábiles todos los del año, con exclusión de los sábados y domingos, 1º de enero, 5 de febrero, 21 de marzo, 1º y 5 de mayo, 16 de septiembre, 1º de octubre de cada 6 años cuando ocurre el cambio de poderes estatales, 20 de noviembre, 1º de diciembre de cada 6 años cuando ocurre el cambio de poderes federales y el 25 de diciembre.
 
-Las oficinas a que se refiere el párrafo anterior, recibiran(sic) las declaraciones, avisos, solicitudes y demás documentos tal y como se exhiban, sin hacer observaciones ni objeciones y devolverán copia sellada a quien los presente. Únicamente se podrá rechazar la presentación cuando no contengan el nombre del contribuyente, el número de registro de contribuyentes, su domicilio fiscal o no aparezcan debidamente firmadas, no se acompañen los anexos o tratándose de declaraciones, éstas contengan errores aritméticos, en este último caso, las oficinas podrán cobrar las contribuciones que resulten de corregir los errores aritméticos y sus accesorios.
+Las oficinas a que se refiere el párrafo anterior, recibiran (sic) las declaraciones, avisos, solicitudes y demás documentos tal y como se exhiban, sin hacer observaciones ni objeciones y devolverán copia sellada a quien los presente. Únicamente se podrá rechazar la presentación cuando no contengan el nombre del contribuyente, el número de registro de contribuyentes, su domicilio fiscal o no aparezcan debidamente firmadas, no se acompañen los anexos o tratándose de declaraciones, éstas contengan errores aritméticos, en este último caso, las oficinas podrán cobrar las contribuciones que resulten de corregir los errores aritméticos y sus accesorios.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 1995)</small>
 
@@ -2121,7 +2133,9 @@ III. Por la de remate, enajenación fuera de remate o adjudicación al fisco est
 
 IV. Cuando el requerimiento y el embargo a que se refieren las fracciones que anteceden, se lleven a cabo en una misma diligencia, se efectuará un solo cobro por concepto de gastos de ejecución.
 
-Asimismo, se pagarán por concepto de gastos de ejecución las erogaciones extraordinarias en que se incurra con motivo del procedimiento administrativo de ejecución, las que únicamente comprenderán los gastos de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos que correspondan, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2005)</small>
+
+Asimismo, se pagarán por concepto de gastos de ejecución las erogaciones extraordinarias en que se incurra con motivo del procedimiento administrativo de ejecución, las que únicamente comprenderán los gastos de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos que correspondan, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas contraten los interventores.
 
 En ningún caso los gastos de ejecución por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias, podrán exceder de la cantidad equivalente a un salario mínimo general de la zona económica elevado al año.
 
@@ -2676,3 +2690,17 @@ Artículo Cuarto.- La recaudación por el impuesto que se establece en los artí
 Artículo Quinto.- Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
 
 Artículo Sexto.- Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 29 DE DICIEMBRE DE 2005.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el día primero de enero de 2006.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+###### ARTICULO TERCERO.
+
+Publíquese la presente Ley en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
