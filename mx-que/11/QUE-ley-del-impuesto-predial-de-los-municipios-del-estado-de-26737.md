@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-impuesto-predial-de-los-municipios-del-estado-de-26737"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-13"
-last_updated: "2005-09-09"
+last_updated: "2005-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DEL IMPUESTO PREDIAL DE LOS MUNICIPIOS DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE SEPTIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 13 de noviembre de 2002.
 
@@ -83,33 +83,47 @@ Ninguna persona física o moral, ni instituciones oficiales o privadas podrán s
 
 En ningún caso el importe anual a pagar por concepto de este Impuesto será menor a la cantidad de un día de salario mínimo general vigente en la zona económica correspondiente.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 8.
 
-Quienes acrediten que son pensionados o jubilados, pagarán lo establecido en el artículo que antecede por concepto del impuesto predial, siempre y cuando cumplan con los siguientes requisitos:
-
-a. Manifestar por escrito y bajo protesta de decir verdad, que no reciben otro ingreso en dinero;
-
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2004)</small>
-
-b. Manifestar por escrito y bajo protesta de decir verdad que el inmueble objeto del impuesto es su única propiedad en el Estado y que no posee otras propiedades en el resto de la República.
-
-Quien pretenda obtener el beneficio de pagar un día de salario mínimo por concepto de predial, tratándose de la primera vez, exhibirá constancia que el Registro Público de la Propiedad y del Comercio, expida en forma gratuita.
-
-c. Habitar dicho inmueble y por lo tanto no destinarlo parcialmente a arrendamiento; y
-
-d. Encontrarse al corriente en sus pagos por concepto de este impuesto.
-
-Quienes cumplan con los requisitos anteriores y perciban más de tres salarios mínimos vigentes en la zona económica correspondiente y realicen dicho pago en el primer bimestre el año, pagarán el 50% del total de este impuesto.
-
-Las dependencias encargadas de las finanzas públicas municipales darán a conocer mediante publicación en estrados, el beneficio de esta disposición.
+Quienes acrediten que son pensionados, jubilados o ser cónyuges de los mismos, pagarán una vez el salario mínimo general de la zona por concepto de impuesto predial, siempre y cuando cumplan con los siguientes requisitos:
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
+a. Manifestar por escrito y bajo protesta de decir verdad, que no reciben otro ingreso en dinero;
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2005)</small>
+
+b. Manifestar por escrito y bajo protesta de decir verdad que el inmueble objeto del impuesto es su única propiedad en el Estado o que lo tiene en usufructo y que no posee otras propiedades en el resto de la República.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+Quien pretenda obtener el beneficio de pagar un día de salario mínimo por concepto de predial, tratándose de la primera vez, exhibirá constancia que el Registro Público de la Propiedad y del Comercio, expida en forma gratuita;
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2005)</small>
+
+c. Habitar dicho inmueble y por lo tanto no destinarlo al arrendamiento; y
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+d. Encontrarse al corriente en sus pagos por concepto de este impuesto.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2005)</small>
+
+Los pensionados, jubilados o cónyuges de los mismos, que cumplan con los requisitos anteriores y perciban más de tres salarios mínimos vigentes en la zona económica correspondiente por día y realicen dicho pago en el primer semestre del año, pagarán el 50 por ciento total del impuesto.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+Las dependencias encargadas de las finanzas públicas municipales darán a conocer mediante publicación en estrados, el beneficio de esta disposición.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 9.
 
-Quienes no reciban ingreso en dinero y así lo manifiesten bajo protesta de decir verdad, pagarán lo establecido por el artículo 7 por concepto de impuesto predial, siempre que cumplan los requisitos a que se refieren los incisos b) al d) del artículo inmediato anterior y acrediten:
+Quienes no reciban ingresos en dinero y así lo manifiesten bajo protesta de decir verdad pagarán una vez el salario mínimo diario general del estado por concepto de impuesto predial, siempre que cumplan los requisitos a que se refieren los incisos b) al d) del artículo inmediato anterior y acrediten:
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
 a. Que son afiliados del Instituto Nacional de las Personas Adultas Mayores (INAPAM); o
 
@@ -117,9 +131,11 @@ a. Que son afiliados del Instituto Nacional de las Personas Adultas Mayores (INA
 
 b. Que tienen discapacidad física, con grado del 3 al 5 en la escala de valoración de la Cruz Roja.
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2005)</small>
 
-Quienes cumpliendo con los requisitos anteriores, perciban hasta tres salarios mínimos vigentes en la zona económica correspondiente y realicen dicho pago en el primer semestre del año, pagarán el 50% del total de este impuesto.
+Quienes estando en el supuesto de los incisos a) y b) anteriores inmediatos, perciba hasta tres salarios mínimos vigentes en la zona económica correspondiente por día y realicen dicho pago en el primer semestre del año, pagarán el 50 por ciento del total de este impuesto.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
 Las dependencias encargadas de las finanzas públicas municipales darán a conocer mediante publicación en estrados el beneficio de esta disposición.
 
@@ -211,11 +227,19 @@ Cuando entre el valor declarado por el contribuyente y el valor catastral exista
 
 Para los efectos de la presente Ley se entenderá por valor catastral aquél que la dependencia encargada del catastro correspondiente determine a los inmuebles conforme a la Ley de la materia, y por valor comercial el que tuviera el predio en el supuesto de que fuera objeto de una libre operación onerosa y sea declarado por el contribuyente ante la autoridad municipal en los términos de la presente Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 18.
 
-En el caso de predios objeto de esta Ley, el valor comercial será declarado por el sujeto del impuesto, o a su elección por perito valuador autorizado por la Ley o por la autoridad competente.
+En el caso de predios objeto de esta Ley, el valor comercial será presentado por el sujeto del impuesto, dentro de los meses de enero y febrero, mediante avalúo efectuado por perito valuador autorizado por la Ley o por la autoridad competente.
 
-En caso de que el contribuyente opte porque el avalúo sea practicado por perito valuador, se observará lo siguiente:
+> <small>(REFORMADO, [N. DE E. ADICIONADO], P.O. 29 DE DICIEMBRE DE 2005)</small>
+
+En caso de traslado de dominio, el valor considerado, será el que subsista para tal efecto.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2005)</small>
+
+En caso de que el contribuyente opte porque el avalúo sea practicado por perito valuador se observará lo siguiente:
 
 a) En el mes de enero de cada año, dará aviso a la autoridad competente sobre la opción, manifestando al valuador designado, en la inteligencia de que la práctica del avalúo es a su costa;
 
@@ -223,9 +247,11 @@ b) El avalúo debe ser practicado a más tardar en el mes de Febrero, declaránd
 
 Si no se practicara el avalúo en el plazo establecido en el inciso anterior, se tendrá por no formulada la manifestación respectiva.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 19.
 
-En caso de que el contribuyente no haga la declaración del valor comercial de su predio ni opte por la práctica del avalúo en los términos del artículo anterior a más tardar en el mes de enero del año que corresponda, será base del impuesto el valor catastral.
+En caso de que el contribuyente no preste su avalúo autorizado dentro de los meses de enero y febrero, del ejercicio fiscal que corresponda, será base del impuesto el valor catastral.
 
 ###### Artículo 20.
 
@@ -235,9 +261,11 @@ Este impuesto se causa por cada bimestre en que las personas obligadas a su pago
 
 Para los efectos de esta Ley, el año de calendario se divide en los siguientes bimestres: 1°., Enero y Febrero; 2°., Marzo y Abril; 3°., Mayo y Junio; 4°., Julio y Agosto; 5°., Septiembre y Octubre; y 6°., Noviembre y Diciembre.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 22.
 
-El pago del impuesto deberá hacerse por el contribuyente, o por la persona que legalmente esté autorizada por él o por las autoridades correspondientes, en efectivo en las oficinas recaudadoras municipales o en las que autorice la autoridad competente. El pago se hará por bimestres vencidos, a más tardar el día 15 de los meses de Marzo, Mayo, Julio, Septiembre, Noviembre y Enero, salvo que durante dicho plazo se pretenda enajenar el predio o transmitir su posesión, caso en el cual se hará anticipadamente a más tardar en la fecha de enajenación o transmisión de la posesión.
+El pago de impuesto deberá hacerse por el contribuyente o por la persona que legalmente esté autorizada por él o por las autoridades correspondientes, en efectivo, en las oficinas recaudadoras municipales o en las que autorice la autoridad competente; o a través de medios electrónicos, en el caso de que sea autorizado por el encargado de las Finanzas Públicas Municipales. El pago se hará por bimestre vencidos, a más tardar el día 15 de los meses de Marzo, Mayo, Julio, Septiembre, Noviembre y Enero, salvo que durante dicho plazo se pretenda enajenar el predio o transmitir su posesión, caso en el cual se hará anticipadamente a más tardar en la fecha de enajenación o transmisión de la posesión.
 
 ###### Artículo 23.
 
@@ -255,25 +283,43 @@ Se exceptúan de lo dispuesto en el presente Artículo los predios de fraccionam
 
 El titular de los derechos de un inmueble baldío no será sujeto de este descuento, cuando así lo acuerde el Ayuntamiento correspondiente respecto de los siguientes casos: El predio exceda de 200 metros cuadrados o sea titular de más de un inmueble.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 24.
 
 A la base del impuesto objeto de esta Ley se aplicará la tarifa anual que corresponda de acuerdo a las siguientes clasificaciones y criterios:
 
-Tipo Tarifa A (al millar) Tarifa B (al millar)
+Tipo Tarifa A Tarifa B
 
-Predio urbano edificado 1.4 1.6
+(al millar) (al millar)
 
-Predio urbano baldío 7 8
+Predio urbano edificado 1.0 1.6
 
-Predio rústico 1.1 1.2
+Predio urbano baldío 1.5 8
 
-Predio de fraccionamiento
+Predio rústico 0.9 1.2
 
-en proceso de ejecución 1.4 1.6
+Predio de fraccionamiento 1.0 1.6
 
-Predio de reserva urbana 1.3 1.4
+en proceso de ejecución
+
+Predio de reserva urbana 0.9 1.4
+
+Predio de Producción Tarifa Única
+
+Agrícola, con dominio pleno 0.2
+
+que provenga de ejido
 
 Los Municipios acordarán cuál de las dos tarifas se aplicará para cada año, incorporándolo en su respectiva Iniciativa de Ley de Ingresos, debiendo estar dentro de los parámetros establecidos en la tabla anterior, y ser aprobadas por el Ayuntamiento correspondiente, expresando los criterios técnicos que utilizaron para la determinación de las mismas, debiendo anexar copia certificada del acta de cabildo a la Iniciativa de Ley de Ingresos respectiva para ser dictaminada por la Legislatura. De no anexar los criterios técnicos, la Legislatura del Estado aprobará en la Ley de Ingresos correspondiente la tarifa B establecida en el presente artículo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE DICIEMBRE DE 2005)</small>
+
+Se entiende por predio de producción agrícola, con dominio pleno que provenga de ejido a aquél que se destine a la agricultura independientemente de que cuente con infraestructura urbana.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE DICIEMBRE DE 2005)</small>
+
+En los casos en que la aplicación de los valores catastrales y la tarifa correspondiente, resulte como consecuencia un incremento mayor al 5 por ciento de impuesto causado en el ejercicio fiscal inmediato anterior, únicamente se incrementará hasta un 5 por ciento para el ejercicio fiscal de que se trate.
 
 ###### Artículo 25.
 
@@ -283,15 +329,27 @@ I. Se realicen construcciones, adaptaciones, mejoras o cualquiera otra obra que 
 
 II. Cuando se realicen demoliciones o se causen destrucción o daños a las construcciones edificadas sobre el terreno.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 2005)</small>
+
+III. Por modificaciones en el cambio de uso de suelo o cambio de situación jurídica.
+
 ###### Artículo 26.
 
 En los casos de las Fracciones I y II del Artículo 25 de este ordenamiento, el nuevo valor comercial será declarado por el contribuyente y será aplicable a partir del siguiente bimestre en que se concluyan o realicen los hechos de que se trate.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 27.
 
-En los casos de las Fracciones I y II del Artículo 25 de este ordenamiento, el nuevo valor comercial será declarado por el contribuyente en los términos de los artículos 17 y 18 de esta Ley y será aplicable a partir del siguiente bimestre en que concluyan o realicen los hechos de que se trate. En caso de que el contribuyente no haga la declaración del valor comercial de su predio, será base gravable el valor catastral actualizado, considerando los hechos señalados en el artículo anterior.
+En los casos de las fracciones I, II y III del artículo 25 de este ordenamiento, el nuevo valor comercial será presentado por el contribuyente en los términos de los artículos 17 y 18 de esta Ley y será aplicable:
 
-En los casos en que proceda el cambio de valor base del impuesto de un predio durante el año de calendario por el que se haya efectuado el pago anual anticipado, sólo se cobrarán o devolverán las diferencias que sobre lo pagado resulten por la aplicación de las demás disposiciones de esta Ley al nuevo valor determinado.
+a) En el caso de Fracciones I y II, cuando se realicen construcciones, a partir de la fecha de registro en la base de datos del impuesto predial, de acuerdo a la información presentada en la Dirección de Catastro Estatal o Municipal. O bien cuando sean descubiertas por la Dirección de catastro correspondiente, sin perjuicio de aplicar las sanciones correspondientes.
+
+b) En el caso de la Fracción III, cuando se realicen trámites relacionados con avisos de traslado de dominio ante la Dirección de Catastro Estatal o Municipal.
+
+c) En caso de que el contribuyente no haga la declaración del valor comercial de su predio, será base gravable el valor catastral actualizado, considerando los hechos señalados en el artículo anterior.
+
+d) En los casos en que proceda el cambio de valor base del impuesto de un predio durante el año de calendario por el que se haya efectuado el pago anual anticipado, sólo se cobrará o devolverán las diferencias que sobre lo pagado resulten por la aplicación de las demás disposiciones de esta Ley al nuevo valor determinado.
 
 ###### Artículo 28.
 
@@ -505,13 +563,13 @@ Las autoridades fiscales municipales, determinarán las reducciones únicamente 
 
 Las dependencias encargadas de las finanzas públicas municipales darán a conocer mediante publicación en estrados el beneficio de esta disposición, previo análisis del censo de familias afectadas, aunado a los datos que por el mismo concepto tenga la Unidad de Protección Civil Municipal o Estatal en su caso.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO SEXTO.
 
-Las personas físicas que tengan en propiedad inmuebles, que hayan sido o estén siendo regularizados mediante los Programas de Certificación de Derechos Ejidales (PROCEDE) o los de la Comisión para la Regularización de la Tenencia de la Tierra (CORETT) y adeuden ejercicios fiscales, pagarán, sin exclusión de ningún tipo, por cada uno de estos, la tarifa establecida en el artículo 7 de esta Ley, incluyendo el año 2005; sin multa ni recargos en los términos de los artículos 22 y 23 de este ordenamiento, siempre y cuando realicen el pago en el ejercicio fiscal que transcurre.
+Las personas que tengan en propiedad inmuebles, que hayan sido o estén siendo regularizados mediante los Programas de Certificación de Derechos Ejidales (PROCEDE) o los de la Comisión para la Regularización de la Tenencia de la Tierra (CORETT) y adeuden ejercicios fiscales, pagarán, sin exclusión de ningún tipo, por cada uno de estos, una vez el salario mínimo diario general del Estado, incluyendo el año del 2006, sin multas ni recargos en los términos de los artículos 22 y 23 de este ordenamiento, siempre y cuando realicen el pago en el ejercicio fiscal que transcurre.
 
-Las dependencias encargadas de las finanzas públicas municipales darán a conocer, mediante publicación en estrados y volantes o trípticos, el beneficio de esta disposición; así también, la presente ley se publicará en dos diarios de mayor circulación en el Estado, por parte del Poder Legislativo.
+Las dependencias encargadas de las finanzas públicas municipales darán a conocer, mediante publicación en estrados y volantes o trípticos, el beneficio de esta disposición.
 
 ASÍ LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO Y MANDARÁ SE IMPRIMA, PUBLIQUE Y OBSERVE.
 
@@ -559,7 +617,7 @@ SECRETARIO DE GOBIERNO
 
 Rúbrica.
 
-N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 27 DE DICIEMBRE DE 2002.
 
@@ -621,8 +679,16 @@ PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación 
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan a la presente Ley.
 
-P.O. 9 DE SEPTIEMBRE DE 2005.
+P.O. 29 DE DICIEMBRE DE 2005.
 
-###### ARTÍCULO ÚNICO.
+###### ARTÍCULO PRIMERO.
 
-La presente Ley entrará en vigor a partir del día siguiente de su aprobación y se ordenará su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+El contenido de la Ley se publicará en los diarios de mayor circulación en la Entidad, así como en otros medios de difusión masiva en el Estado.
+
+###### ARTÍCULO TERCERO.
+
+Los municipios podrán aplicar cualquiera de las dos tarifas señaladas en el artículo 24 de la presente Ley para el Ejercicio Fiscal 2006, debiendo informar en la cuenta pública el primer trimestre su determinación.
