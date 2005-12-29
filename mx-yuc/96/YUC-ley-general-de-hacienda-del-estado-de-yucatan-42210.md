@@ -4,7 +4,7 @@ identifier: "YUC-ley-general-de-hacienda-del-estado-de-yucatan-42210"
 country: "mx"
 rank: "ley_general"
 publication_date: "2004-12-21"
-last_updated: "2005-05-15"
+last_updated: "2005-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "YUC"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 15 DE MAYO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATAN, PUBLICADA EN EL DIARIO OFICIAL DE 29 DE DICIEMBRE DE 2005., EL PRESENTE ORDENAMIENTO FUE ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el martes 21 de diciembre de 2004.
 
@@ -1526,3 +1528,19 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O. 29 DE DICIEMBRE DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+Esta ley entrará en vigor el uno de enero de dos mil seis, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abrogan los decretos 559 y 592 publicados en el Diario Oficial del Gobierno del Estado de Yucatán, el 21 de diciembre de 2004 y el 15 de mayo de 2005, respectivamente; así como, todas las leyes, decretos y reglamentos que se opongan a la presente Ley.
+
+> <small>(F. DE E., D.O. 9 DE ENERO DE 2006)</small>
+
+###### ARTÍCULO TERCERO.
+
+Los Decretos por el uso de cementerios y prestación de servicios conexos establecidos en el Capítulo IV y los Decretos de Alumbrado Público, establecidos en el Capítulo X, ambos parte del Título III de esta ley; estarán vigentes durante el ejercicio fiscal 2006, en tanto se establecen en los respectivos ordenamientos fiscales municipales, y se celebren los convenios de transferencia, relativos.
