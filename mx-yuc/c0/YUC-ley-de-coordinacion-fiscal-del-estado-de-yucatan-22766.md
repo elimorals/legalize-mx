@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-coordinacion-fiscal-del-estado-de-yucatan-22766"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-28"
-last_updated: "2003-12-30"
+last_updated: "2005-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 28 de diciembre de 2001.
 
@@ -85,49 +85,73 @@ Los Municipios tendrán Participación en los ingresos estatales en la proporci�
 
 6. 12% de los ingresos estatales derivados de los impuestos comprendidos en la Ley General de Hacienda del Estado de Yucatán, a excepción del Impuesto sobre Hospedaje.
 
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 6.
 
-El factor que a cada Municipio corresponda del total de los recursos resultantes de las proporciones establecidas en el artículo anterior, se determinará conforme a las siguientes bases:
+El factor que a cada municipio corresponda, del total de los recursos resultantes de las proporciones establecidas en el artículo inmediato anterior, se determinará conforme a las siguientes bases:
 
-I.- El 65.5% se distribuirá entre los Municipios, en proporción directa al número de habitantes que cada uno tenga conforme a la última información oficial publicada por el Instituto Nacional de Estadística, Geografía e Informática (INEGI).
+I.- El 64%, se distribuirá entre los municipios en proporción directa al número de habitantes que cada uno tenga, conforme a la última información publicada por el Instituto Nacional de Estadística, Geografía e Informática;
 
-> <small>(REFORMADA, D.O. 30 DICIEMBRE DE 2003)</small>
+II.- El 4.5% se distribuirá entre los municipios con base en el Índice de Esfuerzo Recaudatorio del Impuesto Predial y de las cuotas por el Servicio de Agua Potable que se obtuvo en cada municipio;
 
-II.- El 4.5% se distribuirá entre los municipios con base en el Índice de Esfuerzo Recaudatorio del impuesto predial y de las cuotas por servicio de agua potable que se obtuvo en cada Municipio.
+El Índice de Esfuerzo Recaudatorio resultará de la siguiente fórmula:
 
-El Índice de Esfuerzo Recaudatorio resultará de la suma de los tres factores ponderados que representen el importe recaudado en los tres últimos ejercicios fiscales anuales por concepto de impuesto predial y de las cuotas por el servicio de agua potable que cada municipio obtenga en relación con la sumatoria de lo recaudado por los ciento seis municipios en cada uno de los tres años inmediatos anteriores al actual. Los porcentajes de ponderación para cada año son:
+R3i R2i R1i
 
-- Para el tercer año inmediato anterior al actual 33%
+IERi=0.33* +0.33* +0.34*
 
-- Para el segundo año inmediato anterior al actual 33%
-
-- Para el año inmediato anterior al actual 34%
-
-Lo anterior queda expresado en la siguiente fórmula:
-
-Fi=(Li3/EL3)33%+(Li2/EL2)33%+(Li1/EL1)34%
+R3TOT R2TOT R1TOT
 
 En donde:
 
-Fi = Índice de Esfuerzo Recaudatorio del Municipio;
+IERi Índice de Esfuerzo Recaudatorio del Municipio i.
 
-Li3 = Recaudación del impuesto predial y de las cuotas por servicio de agua potable correspondiente al tercer año inmediato anterior al actual del municipio i;
+R3i Recaudación del Impuesto Predial y las cuotas de Servicio de Agua Potable, del tercer año inmediato anterior del municipio i.
 
-3L3 = Sumatoria de las recaudaciones del impuesto predial y de las cuotas por servicio de agua potable correspondiente al tercer año inmediato anterior al actual de los cientos seis municipios.
+R3TOT Sumatoria de la Recaudación del Impuesto Predial y las cuotas de Servicio de Agua Potable de todos los municipios del Estado, del tercer año inmediato anterior.
 
-Li2 = Recaudación del impuesto predial y de las cuotas por servicio de agua potable correspondiente al segundo año inmediato anterior al actual del municipio i;
+R2i Recaudación del Impuesto Predial y las cuotas de Servicio de Agua Potable, del segundo año inmediato anterior del municipio i.
 
-EL2 = Sumatoria de las recaudaciones del impuesto predial y de las cuotas por servicio de agua potable correspondiente al segundo año inmediato anterior al actual de los cientos seis municipios;
+R2TOT Sumatoria de la Recaudación del Impuesto Predial y las cuotas de Servicio de Agua Potable de todos los municipios del Estado, del segundo año inmediato anterior.
 
-Li1 = Recaudación del impuesto predial y de las cuotas por servicio de agua potable correspondiente al año inmediato anterior al actual del municipio i;
+R1i Recaudación del Impuesto Predial y las cuotas de Servicio de Agua Potable, del año inmediato anterior del municipio i.
 
-EL1 = Sumatoria de las recaudaciones del impuesto predial y de las cuotas por servicio de agua potable correspondiente al año inmediato anterior al actual de los ciento seis municipios.
+R1TOT Sumatoria de la Recaudación del Impuesto Predial y las cuotas de Servicio de Agua Potable de todos los municipios del Estado, del año inmediato anterior.
 
-III. El 2% se distribuirá con base en el porcentaje de recaudación del impuesto predial y de cuotas de agua potable que obtuvo cada municipio en el año inmediato anterior con respecto a la captación total de estos conceptos de todos los municipios del estado.
+III.- El 2% se distribuirá en función del Esfuerzo en la Recaudación del Impuesto Predial y las cuotas de Agua Potable del año inmediato anterior, de acuerdo con la siguiente fórmula:
 
-IV. El 0.5% se distribuirá entre los Municipios con base en el índice que se obtenga de dividir la extensión territorial de cada Municipio con respecto de la extensión territorial total del Estado.
+R1i
 
-V.- El 27.5% restante será distribuido entre los Municipios del Estado por partes iguales.
+ERi =
+
+R1TOT
+
+En donde:
+
+ERi Esfuerzo Recaudatorio del Municipio i.
+
+R1i Recaudación del Impuesto Predial y las cuotas de Servicio de Agua Potable, del año inmediato anterior del municipio i.
+
+R1TOT Sumatoria de la Recaudación del Impuesto Predial y las cuotas de Servicio de Agua Potable de todos los municipios del Estado, del año inmediato anterior.
+
+IV.- Derogada;
+
+V.- El 2.5% se distribuirá con base en la proporción directa del Índice de Masa de Marginación de cada municipio, con respecto a la sumatoria total de los valores del Índice para todos los municipios del Estado.
+
+El Índice de Masa de Marginación resultará de la siguiente fórmula:
+
+IMMi= (Mi+2.44852)*Pi
+
+En donde:
+
+IMMi Índice de Masa de Marginación para el municipio i.
+
+Mi Marginación para el municipio i de acuerdo con la última información publicada por el Consejo Nacional de Población.
+
+Pi Población del municipio i de acuerdo con la última información publicada por el Instituto Nacional de Estadística, Geografía e Informática.
+
+VI.- El 27% restante, se distribuirá en partes iguales, entre los municipios del Estado.
 
 ###### Artículo 7.
 
@@ -288,3 +312,9 @@ CRETARIO (SIC) DE PLANEACION Y PRESUPUESTO
 D.O. 30 DE DICIEMBRE DE 2003.
 
 UNICO.- El presente Decreto entrará en vigor el uno de enero del año dos mil cuatro, previa su publicación en el Diario Oficial del Estado de Yucatán.
+
+D.O. 29 DE DICIEMBRE DE 2005.
+
+Artículo Primero.- Este Decreto entrará en vigor el día uno de enero del año dos mil seis, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
