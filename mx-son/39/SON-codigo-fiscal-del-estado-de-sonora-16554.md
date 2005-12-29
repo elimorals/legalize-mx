@@ -4,7 +4,7 @@ identifier: "SON-codigo-fiscal-del-estado-de-sonora-16554"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-06-12"
-last_updated: "2003-12-18"
+last_updated: "2005-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO FISCAL DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 18 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE DICIEMBRE DE 2005.
 
 Código publicado en la Segunda Sección del Boletín Oficial del Estado de Sonora, el lunes 12 de junio del 2000.
 
@@ -87,7 +87,7 @@ Son créditos fiscales los que tenga derecho a percibir el Estado que provengan 
 
 La recaudación administración, determinación y cobranza proveniente de todos los ingresos que el Estado de Sonora tiene derecho a percibir, estarán a cargo del Ejecutivo del Estado quién ejercerá estas facultades por conducto de la Secretaría de Finanzas, a través de sus oficinas exactoras, autoridades fiscales coordinadas o por las Instituciones de Crédito autorizadas para tal efecto.
 
-La recaudación de los ingresos que la ley les determine un fin especifico, se hará por las oficinas exactoras de la Secretaría de Finanzas.
+La recaudación de los ingresos que la ley les determine un fin específico, se hará por las oficinas exactoras de la Secretaría de Finanzas.
 
 La Administración Pública Estatal, centralizada y paraestatal, en ningún caso contratarán adquisiciones, arrendamientos, servicios u obra pública, de conformidad con las disposiciones de este Código y las Leyes de Hacienda del Estado y Municipal. Igual obligación tendrán los Municipios del estado cuando realicen dichas contrataciones con cargo total o parcial a fondos estatales.
 
@@ -717,7 +717,7 @@ VI.- Si en el cierre del acta final de la visita no estuviere presente el visita
 
 VII.- Las actas parciales se entenderá que forman parte integrante del acta final de la visita aunque no se señale así expresamente; y,
 
-VIII.- Una vez notificada el acta final, sin que el contribuyente hubiere corregido su situación fiscal, la autoridad emitirá la resolución que determine los créditos fiscales correspondientes y la notificará al contribuyente conforme al articulo 127 de este Código.
+VIII.- Una vez notificada el acta final, sin que el contribuyente hubiere corregido su situación fiscal, la autoridad emitirá la resolución que determine los créditos fiscales correspondientes y la notificará al contribuyente conforme al artículo 127 de este Código.
 
 Concluida la visita en el domicilio fiscal, para iniciar otra a la misma persona, se requerirá nueva orden, inclusive cuando las facultades de comprobación sean para el mismo ejercicio y por las mismas contribuciones.
 
@@ -725,7 +725,9 @@ Concluida la visita en el domicilio fiscal, para iniciar otra a la misma persona
 
 Las autoridades fiscales deberán concluir la visita que se desarrolle en el domicilio fiscal de los contribuyentes o la revisión de la contabilidad de los mismos que se efectúe en las oficinas de las propias autoridades, dentro de un plazo máximo de seis meses contados a partir de que se le notifique a los contribuyentes el inicio de las facultades de comprobación.
 
-El plazo a que se refiere el párrafo anterior, podrá ampliarse por periodos iguales hasta por dos ocasiones, siempre que el oficio mediante el cual se notifique la prórroga correspondiente haya sido expedido, en la primera ocasión por la autoridad o autoridades fiscales que ordenaron la visita o revisión y, en la segunda, por el superior jerárquico de la autoridad o autoridades fiscales que ordenaron la citada visita o revisión.
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
+
+El plazo a que se refiere el párrafo anterior, podrá ampliarse por seis meses por una ocasión más, siempre que el oficio mediante el cual se notifique la prórroga correspondiente haya sido expedido por la autoridad o autoridades fiscales que ordenaron la visita o la revisión. En su caso, dicho plazo se entenderá prorrogado hasta que transcurra el término a que se refiere el segundo párrafo de la fracción IV del artículo 58 de este Código.
 
 Los plazos para concluir las visitas domiciliarias a las revisiones de gabinete a que se refiere el primer párrafo y los plazos de las prórrogas que procedan conforme a este artículo, se suspenderán en los siguientes casos de:
 
@@ -763,7 +765,13 @@ IV.- Como consecuencia de la revisión de los informes, datos, documentos o cont
 
 V.- Cuando no hubiera observaciones, la autoridad fiscalizadora comunicará al contribuyente o responsable solidario, mediante oficio, la conclusión de la revisión de gabinete de los documentos presentados;
 
-VI.- El oficio de observaciones a que se refiere la fracción IV, se notificará cumpliendo con lo señalado en la fracción I de este artículo y en el lugar especificado en esta última fracción. El contribuyente o responsable solidario contará con un plazo de veinte días, contados a partir del día siguiente a aquél en el que se le notificó el oficio de observaciones, para presentar los documentos, libros o registros que desvirtúen los hechos u omisiones asentados en el mismo, así como para optar por corregir su situación fiscal. Cuando se trate de más de un ejercicio revisado o fracción de éste, se ampliará el plazo por quince días más, siempre que el contribuyente presente aviso dentro del plazo inicial de veinte días;
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 2005)</small>
+
+VI.- El oficio de observaciones a que se refiere la fracción IV, se notificará cumpliendo con lo señalado en la fracción I de este artículo y en el lugar especificado en esta última fracción. El contribuyente o responsable solidario contará con un plazo de veinte días, contados a partir del día siguiente al en que surta efectos la notificación del oficio de observaciones, para presentar los documentos, libros o registros que desvirtúen los hechos u omisiones asentados en el mismo, así como para optar por corregir su situación fiscal.
+
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
+
+Cuando se trate de más de un ejercicio revisado o fracción de éste, se ampliará el plazo por quince días más, siempre que el contribuyente presente aviso dentro del plazo inicial de veinte días.
 
 Se tendrán por consentidos los hechos u omisiones consignados en el oficio de observaciones, si en el plazo probatorio el contribuyente no presenta documentación comprobatoria que los desvirtúe.
 
@@ -779,6 +787,20 @@ Las autoridades fiscales que al ejercer las facultades de comprobación a que se
 
 Cuando las autoridades fiscales conozcan de terceros, hechos u omisiones que puedan entrañar incumplimiento de las obligaciones fiscales de un contribuyente o responsable solidario sujeto a las facultades de comprobación a que se refiere el artículo 61, le darán a conocer a éste el resultado de aquella actuación mediante oficio de observaciones, para que pueda presentar documentación a fin de desvirtuar los hechos consignados en el mismo, dentro de los plazos a que se refiere la fracción VI del citado artículo 61.
 
+> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
+
+ARTÍCULO 62 BIS.- Las autoridades fiscales que al practicar visitas a los contribuyentes o al ejercer las facultades de comprobación a que se refiere el artículo 61 de este Código, conozcan de hechos u omisiones que entrañen incumplimiento de las disposiciones fiscales, determinarán las contribuciones omitidas mediante resolución que se notificará personalmente al contribuyente, dentro de un plazo máximo de seis meses contado a partir de la fecha en que se levante el acta final de la visita o, tratándose de la revisión de la contabilidad de los contribuyentes que se efectúe en las oficinas de las autoridades fiscales, a partir de la fecha en que concluya el plazo a que se refiere la fracción VI del artículo 61 de este Código.
+
+El plazo para emitir la resolución a que se refiere este artículo se suspenderá en los casos previstos en las fracciones I, II y III del artículo 59 de este Código.
+
+Si durante el plazo para emitir la resolución de que se trate, los contribuyentes interponen algún medio de defensa en el país o en el extranjero, contra el acta final de visita o del oficio de observaciones de que se trate, dicho plazo se suspenderá desde la fecha en que se interpongan los citados medios de defensa y hasta que se dicte resolución definitiva de los mismos.
+
+Cuando las autoridades no emitan la resolución correspondiente dentro del plazo mencionado, quedará sin efectos la orden y las actuaciones que se derivaron durante la visita o revisión de que se trate.
+
+En dicha resolución deberán señalarse los plazos en que la misma puede ser impugnada en el recurso administrativo y en el juicio contencioso administrativo. Cuando en la resolución se omita el señalamiento de referencia, el contribuyente contará con el doble del plazo que establecen las disposiciones legales para interponer el recurso administrativo o el juicio contencioso administrativo.
+
+Siempre se podrá volver a determinar contribuciones o aprovechamientos omitidos correspondientes al mismo ejercicio, cuando se comprueben hechos diferentes.
+
 ###### ARTÍCULO 63.
 
 En el caso de que con motivo de sus facultades de comprobación, las autoridades fiscales soliciten datos, informes o documentos del contribuyente responsable solidario o tercero, se estará a lo siguiente:
@@ -787,9 +809,13 @@ I.- Se tendrán los siguientes plazos para su presentación:
 
 a).- Los libros y registros que formen parte de su contabilidad, solicitados en el curso de una visita, deberán presentarse de inmediato, así como los diagramas y el diseño del sistema de registro electrónico, en su caso.
 
-b).- Seis días contados a partir del siguiente a aquél en que se le notificó la solicitud respectiva, cuando los documentos sean de los que deba tener en su poder el contribuyente y se los soliciten durante el desarrollo de una visita.
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
-c).- Quince días contados a partir del siguiente a aquel en que se le notificó la solicitud respectiva, en los demás casos.
+b).- Seis días contados a partir del día siguiente a aquél en que surta efectos la notificación de la solicitud respectiva, cuando los documentos sean de los que deba tener en su poder el contribuyente y se los soliciten durante el desarrollo de una visita.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 2005)</small>
+
+c).- Quince días contados a partir del día siguiente a aquél en que surta efectos la notificación de la solicitud respectiva, en los demás casos.
 
 Los plazos a que se refiere este inciso, se podrán ampliar por las autoridades fiscales por diez días más, cuando se trate de informes cuyo contenido sea difícil de proporcionar o de difícil obtención.
 
@@ -1109,9 +1135,9 @@ Cuando la comisión de una o varias infracciones origine la omisión total o par
 
 I.- Del 40% al 50% de las contribuciones omitidas, cuando el infractor las pague junto con sus accesorios antes de la notificación de la resolución que determine el monto de la contribución que omitió;
 
-> <small>(REFORMADA, B.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
-II.- Del 70% al l00% de las contribuciones omitidas, en los demás casos;
+II.- Del 50% al 100% de las contribuciones omitidas, cuando el infractor las pague junto con sus accesorios después de la notificación de la resolución que determine el monto de la contribución que omitió.
 
 Si las autoridades fiscales determinan contribuciones omitidas mayores que las consideradas por el contribuyente para calcular la multa en los términos de la fracción I de este artículo, aplicarán el porciento que corresponda en los términos de la fracción II sobre el remanente no pagado de las contribuciones.
 
@@ -1251,11 +1277,11 @@ XII.- Las personas a que se refiere la fracción anterior que asienten falsament
 
 XIII. Las mismas personas a que se alude en las dos fracciones precedentes, incurran en los siguientes hechos u omisiones:
 
-a). Recibir el pago de una contribución y no enterar su importe dentro del plazo legal;
+a).- Recibir el pago de una contribución y no enterar su importe dentro del plazo legal;
 
-b). No exigir el pago total de las prestaciones fiscales cuando tengan la obligación de hacerlo;
+b).- No exigir el pago total de las prestaciones fiscales cuando tengan la obligación de hacerlo;
 
-c). Intervenir en la tramitación o resolución de algún asunto cuando tengan impedimento, de acuerdo con las disposiciones fiscales;
+c).- Intervenir en la tramitación o resolución de algún asunto cuando tengan impedimento, de acuerdo con las disposiciones fiscales;
 
 d).- Faltar a la obligación de guardar secreto respecto de los asuntos que conozcan; revelar los datos declarados por los contribuyentes o aprovecharse de ellos. Los representantes de contribuyentes que integren juntas calificadoras u órganos semejantes, se asimilan a los empleados o funcionarios públicos;
 
@@ -1581,7 +1607,7 @@ IV.- Si se resuelve que no hubo notificación o que fue ilegal, tendrá al recur
 
 Si resuelve que la notificación fue legalmente practicada y, como consecuencia de ello, la impugnación contra el acto se interpuso extemporáneamente, desechará dicho recurso.
 
-#### Sección III. Del Tramite y Resolución del Recurso
+#### Sección III. Del Trámite y Resolución del Recurso
 
 ###### ARTÍCULO 121.
 
@@ -1661,11 +1687,13 @@ III.- En la casa habitación del interesado en caso de no estar la autoridad en 
 
 IV.- En el domicilio que hubiere señalado para oír o recibir notificaciones al iniciar alguna instancia o en el curso de un procedimiento administrativo, tratándose de las actuaciones relacionadas con el trámite o de la resolución de la instancia o del procedimiento respectivo. Bastará para considerar que se ha señalado domicilio para recibir notificaciones en instancias o procedimientos administrativos, el que la dirección del interesado aparezca impresa en la promoción respectiva;
 
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
-En los casos a que se refieren las fracciones II, III y IV de este artículo, las notificaciones se harán a quien deba notificarse, a su representante o a la persona autorizada para ello; a falta de dichas personas, el notificador dejará citatorio con quien se encuentre en el domicilio del que se trate o con un vecino, para que se le espere a una hora fija del día hábil siguiente o para que acuda a notificarse, dentro del plazo de seis días a las oficinas de las autoridades fiscales estatales. Se exceptúan las notificaciones ante las autoridades fiscales, tratándose de actos relativos al procedimiento administrativo de ejecución.
+En los casos a que se refieren las fracciones II, III y IV de este artículo, las notificaciones se harán a quien deba notificarse, a su representante o a la persona autorizada para ello; a falta de dichas personas, el notificador dejará citatorio con quien se encuentre en el domicilio de que se trate para que se le espere a una hora fija del día hábil siguiente o para que acuda a notificarse, dentro del plazo de seis días a las oficinas de las autoridades fiscales estatales. Se exceptúan las notificaciones ante las autoridades fiscales, tratándose de actos relativos al procedimiento administrativo de ejecución. Si la persona a quien haya de notificarse no atendiere el citatorio, la notificación se le hará por conducto de cualquier persona que se encuentre en el domicilio en que se realice la diligencia.
 
-Si la persona a quien haya de notificarse no atendiere el citatorio, la notificación se le hará por conducto de cualquier persona que se encuentre en el domicilio en que se realice la diligencia o en su defecto con un vecino y, en caso de que estos últimos se negasen a recibir la notificación, ésta se hará por medio de instructivo que se fijará en lugar visible de dicho domicilio, debiendo el notificador asentar razón de tal circunstancia para dar cuenta al jefe de la oficina exactora.
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
+
+Tratándose de actos relativos al procedimiento administrativo de ejecución, el citatorio será siempre para la espera antes señalada y, si la persona citada o su representante legal no esperaren, se practicará la diligencia con quien se encuentre en el domicilio o en su defecto con un vecino. En caso de que estos últimos se negasen a recibir la notificación, ésta se hará por medio de instructivo que se fijará en lugar visible de dicho domicilio, debiendo el notificador asentar razón de tal circunstancia para dar cuenta al jefe de la oficina exactora.
 
 En el momento de la notificación se entregará al notificado o a la persona con quien se entienda la diligencia, copia del documento a que se refiere la notificación.
 
@@ -1675,7 +1703,7 @@ En los casos de sociedades en liquidación, cuando se hubieran nombrado varios l
 
 > <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
-Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán a cargo de quien incurrió en el incumplimiento la cantidad de $ 30.00 por concepto de honorarios de notificación, misma que la autoridad recaudadora determinará conjuntamente con la notificación y se pagará al cumplir con el requerimiento. Dicha cantidad se actualizará semestralmenle de conformidad con el Artículo 149 de este ordenamiento.
+Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán a cargo de quien incurrió en el incumplimiento la cantidad de $ 30.00 por concepto de honorarios de notificación, misma que la autoridad recaudadora determinará conjuntamente con la notificación y se pagará al cumplir con el requerimiento. Dicha cantidad se actualizará semestralmente de conformidad con el Artículo 149 de este ordenamiento.
 
 ###### ARTÍCULO 128.
 
@@ -1761,7 +1789,7 @@ No serán admisibles como garantía los bienes que se encuentren en dominio fisc
 
 II.- Bienes inmuebles por el 75% del valor de avalúo o catastral. Para estos efectos se deberá acompañar a la solicitud respectiva el certificado del Registro Público de la Propiedad en el que no aparezca anotado algún gravamen ni afectación urbanística o agraria, que hubiera sido expedido cuando menos con tres meses de anticipación. En el supuesto de que el inmueble reporte gravámenes, la suma del monto total de éstos y el interés fiscal a garantizar, no podrá exceder del 75% del valor;
 
-En la hipoteca, el otorgamiento de la garantía se hará en escritura pública que deberá inscribirse en el Registro Público de la Propiedad y contener los datos relacionados con el crédito fiscal. El otorgante podrá garantizar con la misma hipoteca los recargos futuros o ampliar la garantía cada año en los términos del articulo 142 de este Código.
+En la hipoteca, el otorgamiento de la garantía se hará en escritura pública que deberá inscribirse en el Registro Público de la Propiedad y contener los datos relacionados con el crédito fiscal. El otorgante podrá garantizar con la misma hipoteca los recargos futuros o ampliar la garantía cada año en los términos del artículo 142 de este Código.
 
 ###### ARTÍCULO 137.
 
@@ -2417,7 +2445,7 @@ Si se declara la nulidad, el Tribunal ordenará reponer la notificación anulada
 
 ###### ARTÍCULO 208.
 
-El computo de los términos se sujetara a las reglas siguientes:
+El cómputo de los términos se sujetara a las reglas siguientes:
 
 I.- Empezarán a correr desde el día siguiente al en que surta efectos la notificación; serán improrrogables y se incluirá en ellos el día del vencimiento; y,
 
@@ -2926,3 +2954,9 @@ B.O. 18 DE DICIEMBRE DE 2003.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir del primero de enero de 2004, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 29 DE DICIEMBRE DE 2005.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor a partir del 1° de enero de 2006, previa su publicación en el Boletín Oficial del Gobierno del Estado.
