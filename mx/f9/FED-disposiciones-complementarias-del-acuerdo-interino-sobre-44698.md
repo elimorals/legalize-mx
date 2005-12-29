@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-acuerdo-interino-sobre-44698"
 country: "mx"
 rank: "otro"
 publication_date: "2000-06-26"
-last_updated: "2005-12-21"
+last_updated: "2005-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44698&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,27 +19,27 @@ issue_date: "2000-06-19"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL ACUERDO INTERINO SOBRE COMERCIO Y CUESTIONES RELACIONADAS CON EL COMERCIO (COMUNIDAD EUROPEA, 1997)
 
-ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR VEHICULOS NUEVOS CON EL ARANCEL PREFERENCIAL ESTABLECIDO, ORIGINARIOS DE LOS PAISES DE LA COMUNIDAD EUROPEA DURANTE 2006
+ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA INTERNAR A LA COMUNIDAD EUROPEA, MATERIAS PECTICAS, PECTINATOS Y PECTATOS EN POLVO ORIGINARIOS DE LOS ESTADOS UNIDOS MEXICANOS
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 21 de diciembre de 2005.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 29 de diciembre de 2005.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía, con fundamento en la Sección C del Anexo II de la Decisión 2/2000 del Consejo Conjunto del Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre los Estados Unidos Mexicanos y la Comunidad Europea; en el artículo 4o. fracción III, 5o. fracción V, 6o., 14, 16, 17, 23 y 24 de la Ley de Comercio Exterior; 9 fracción V, 26, 31, 32, 33 y 35 de su Reglamento; 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía, con fundamento en los artículos 1 de la Decisión 2/2004 del Consejo Conjunto UE-México; 4o. fracción III, 5o. fracción V, 6o., 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26, 31, 32, 33 y 35 de su Reglamento; 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que para fortalecer y ampliar las relaciones comerciales con la Comunidad Europea y sus estados miembros, con fecha 8 de diciembre de 1997 se suscribió el Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre los Estados Unidos Mexicanos y la Comunidad Europea, mismo que aprobó el Senado de la República el 23 de abril de 1998 y se publicó en el Diario Oficial de la Federación el 26 de junio de 2000 el Decreto de Promulgación;
+Que para fortalecer y ampliar las relaciones comerciales con la Comunidad Europea y sus estados miembros, el 1 de julio de 2000 entró en vigor la Decisión 2/2000 del Consejo Conjunto UE-México que establece, entre otros, las disposiciones que regulan el comercio de bienes originarios entre las Partes;
 
-Que el 23 y 24 de febrero de 2000 se firmó la Decisión 2/2000 del Consejo Conjunto del Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre los Estados Unidos Mexicanos y la Comunidad Europea (en adelante “la Decisión”), que aprobó el Senado de la República el 20 de marzo de 2000 y con fecha 26 de junio de 2000 se publicó en el Diario Oficial de la Federación el Decreto de Promulgación;
+Que la Decisión mencionada en el considerando anterior, prevé en su artículo 3 la posibilidad de que las Partes acuerden reducir sus aranceles aduaneros más rápido de lo previsto y que en este supuesto el acuerdo alcanzado por las Partes prevalecerá sobre los términos establecidos en la propia Decisión y el artículo 10 establece que las Partes podrán examinar la posibilidad de que la Comunidad Europea otorgue a México un cupo con arancel preferencial para materias pécticas, pectinatos y pectatos en polvo;
 
-Que el artículo 1.2 (ii) de la Sección C del Anexo II de “la Decisión” establece que a la entrada en vigor, México otorgará un cupo arancelario a la importación de ciertos vehículos provenientes de la Comunidad Europea;
+Que el 28 de abril de 2004 el Consejo Conjunto UE-México adoptó la Decisión 2/2004 por la que se introduce un cupo arancelario con tratamiento preferencial para determinados productos originarios de México y enumerados en el anexo I de la Decisión 2/2000 del Consejo Conjunto UE-México misma que se dio a conocer mediante Acuerdo publicado el 17 de mayo de 2004 en el Diario Oficial de la Federación;
 
-Que el artículo 3 de la Sección C del Anexo II de “la Decisión” establece que México administrará el cupo arancelario referido en el párrafo anterior, y que México podrá adoptar las modalidades de administración del mismo, y
+Que el procedimiento de asignación del cupo que se trata en el presente Acuerdo, es un instrumento de la política sectorial para promover la competitividad de los sectores involucrados, y
 
-Que el procedimiento de asignación del cupo de importación de ciertos vehículos originarios de la Comunidad Europea otorgado por México, es un instrumento de la política sectorial para promover el complemento de la oferta en el país y cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
+Que la medida a que se refiere el presente instrumento, cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
 
-ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR VEHICULOS NUEVOS CON EL ARANCEL PREFERENCIAL ESTABLECIDO, ORIGINARIOS DE LOS PAISES DE LA COMUNIDAD EUROPEA DURANTE 2006
+ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA INTERNAR A LA COMUNIDAD EUROPEA, MATERIAS PECTICAS, PECTINATOS Y PECTATOS EN POLVO ORIGINARIOS DE LOS ESTADOS UNIDOS MEXICANOS
 
 ###### ARTÍCULO DÉCIMO PRIMERO.
 
@@ -171,70 +171,56 @@ Se extiende la aplicación de las normas de origen para productos químicos clas
 
 ###### ARTICULO PRIMERO.
 
-El cupo para importar en 2006, vehículos nuevos originarios de los países de la Comunidad Europea, con el arancel preferencial previsto en el artículo 2.1 (iv) de la Sección C del Anexo II de la Decisión 2/2000 del Consejo Conjunto del Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre los Estados Unidos Mexicanos y la Comunidad Europea, es el que se determina en el cuadro siguiente:
+El cupo para internar a los Estados miembros de la Comunidad Europea en el periodo comprendido del 1 enero al 31 de diciembre de 2006, con el arancel preferencial establecido en la Decisión 2/2004 del Consejo Conjunto CE-México por la que se introduce un cupo arancelario para determinados productos originarios de México y enumerados en el Anexo 1 de la Decisión 2/2000 del Consejo Conjunto CE-México, materias pécticas, pectinatos y pectatos en polvo originarios de los Estados Unidos Mexicanos, es el que se determina a continuación:
 
 (VEASE ARCHIVO ANEXO)
 
 ###### ARTICULO SEGUNDO.
 
-De conformidad con lo dispuesto en el párrafo segundo del artículo 24 de la Ley de Comercio Exterior, y con objeto de promover el complemento de la oferta nacional, durante el 2006 se aplicará al cupo de importación a que se refiere el presente Acuerdo, el procedimiento de asignación directa.
+De conformidad con el artículo 24 de la Ley de Comercio Exterior, se aplicará al cupo de exportación a que se refiere el presente Acuerdo, el procedimiento de asignación directa mediante la modalidad de “primero en tiempo, primero en derecho”.
 
 ###### ARTICULO TERCERO.
 
-Podrán solicitar asignación del cupo a que se refiere el presente Acuerdo, las personas físicas y morales establecidas en los Estados Unidos Mexicanos. La asignación será otorgada por la Dirección General de Comercio Exterior, siempre que exista saldo disponible en el cupo, conforme a los siguientes criterios:
-
-a) Para personas físicas y morales que no cuenten con antecedentes de importación de vehículos bajo el esquema de cupo de la Comunidad Europea, distintas a las descritas en los incisos c) y d) de este artículo, se asignará sólo una unidad;
-
-b) Para personas físicas y morales que cuenten con antecedentes de importación de vehículos originarios de la Comunidad Europea bajo el esquema de cupo, se asignará el volumen de importación anual más alto registrado en los últimos tres años.
-
-En el caso de las empresas que cuentan con Registro como Empresa Productora de Vehículos Automotores Ligeros Nuevos ante la Secretaría de Economía y de los distribuidores autorizados de vehículos originarios de la Comunidad Europea, la información será proporcionada a la Dirección General de Comercio Exterior por la Dirección General de Industrias Pesadas y de Alta Tecnología. En la eventualidad de que este dato sea menor a las cantidades establecidas en los incisos c) y d) de este artículo, se aplicarán los criterios establecidos en dichos incisos.
-
-c) Para las personas morales que cuenten con Registro como Empresa Productora de Vehículos Automotores Ligeros Nuevos ante la Secretaría de Economía, y no cuenten con antecedentes de importación bajo el esquema de cupos de la Comunidad Europea, se les asignará la cantidad que resulte menor entre 1,500 unidades y el monto solicitado por la empresa.
-
-d) Para las personas morales que se acrediten como distribuidores autorizados de vehículos originarios de la Comunidad Europea que no cuenten con antecedentes de importación bajo el esquema de cupos de la Comunidad Europea, se les asignará la cantidad que resulte menor entre 500 unidades y el monto solicitado por la empresa.
-
-Los distribuidores autorizados de vehículos originarios de la Comunidad Europea establecidos en México, deberán acreditar su carácter como distribuidores de empresas fabricantes de vehículos europeos establecidos en México, a través de la presentación de una carta expedida por el fabricante europeo correspondiente, en la que se autorice al interesado a comercializar sus vehículos en México. La Dirección General de Comercio Exterior deberá solicitar opinión sobre el particular a la Dirección General de Industrias Pesadas y de Alta Tecnología.
-
-Para todos los casos, la vigencia de la asignación será al día 31 de diciembre de 2006 y será improrrogable.
+Podrán solicitar asignación de este cupo las personas físicas o morales establecidas en los Estados Unidos Mexicanos.
 
 ###### ARTICULO CUARTO.
 
-El periodo de recepción de solicitudes será a partir de la entrada en vigor de este Acuerdo y hasta el 31 de marzo de 2006. La Secretaría a través de la Dirección General de Comercio Exterior resolverá en un plazo no mayor a 7 días hábiles contados a partir de que cuente con todos los elementos necesarios para dicha resolución.
+Para la obtención del cupo el solicitante deberá presentar en la ventanilla de atención al público de la Representación Federal de la Secretaría de Economía que corresponda lo siguiente:
+
+a) Formato SE-03-026, “Cuestionario para la obtención del certificado de circulación de mercancías EUR.1 ó el carácter de exportador autorizado”. La Secretaría autorizará el Cuestionario dentro de los 2 días hábiles siguientes a la presentación del mismo o notificará si requiere realizar una verificación física de las instalaciones productivas de la empresa, en cuyo caso, emitirá su respuesta dentro de los 10 días hábiles siguientes.
+
+Una vez autorizado dicho cuestionario, esta Secretaría proporcionará el formato de “certificado de circulación EUR.1” para ser llenado por el exportador;
+
+b) La primera ocasión que se tramite la obtención del cupo a que se refiere el presente Acuerdo, se presentará la solicitud de asignación del cupo en el formato SE-03-011-1 “Solicitud de asignación de cupo” adjuntando copia de la carátula del cuestionario a que se refiere el inciso anterior, debidamente autorizado. La Dirección General de Comercio Exterior emitirá, en su caso, constancia de asignación dentro de los siete días hábiles siguientes a la fecha de presentación de la solicitud. La vigencia de la constancia de asignación será al 31 de Diciembre de 2006, y
+
+c) Una vez obtenida la constancia de asignación, se solicitará la expedición del certificado de cupo mediante la presentación del formato SE-03-013-5 "Solicitud de Certificados de cupo (obtenido por asignación directa)", adjuntando el formato de certificado de circulación EUR.1 debidamente requisitado, la copia de la factura comercial y del conocimiento de embarque, ó carta de porte ó guía aérea, según sea el caso. La Representación Federal de la Secretaría de Economía, emitirá el certificado de cupo dentro de los siete días hábiles siguientes a la presentación de la solicitud.
+
+Siempre que exista saldo en el cupo, el monto a expedir por solicitante será el monto menor entre la cantidad señalada en la factura comercial y, el conocimiento de embarque o la carta de porte o la guía aérea, según sea el caso.
 
 ###### ARTICULO QUINTO.
 
-Una vez realizada la asignación de conformidad con lo dispuesto en los artículos tercero y cuarto de este Acuerdo, y en el caso de que exista saldo disponible en el cupo, éste podrá ser distribuido entre las personas morales que cuenten con registro como empresas productoras de vehículos automotores ligeros nuevos ante la Secretaría de Economía y entre las personas morales que se hayan acreditado como distribuidores autorizados de vehículos originarios de la Comunidad Europea establecidos en México, siempre y cuando presenten ante la Dirección General de Industrias Pesadas y de Alta Tecnología nuevos proyectos para la comercialización de vehículos originarios de la Comunidad Europea.
+Cuando el solicitante haya sido beneficiario de cuatro expediciones de certificado de cupo, a efecto de poder autorizarle certificados subsecuentes, deberá demostrar el ejercicio total de por lo menos una de las expediciones otorgadas adjuntando copia del pedimento de exportación, de forma tal que durante el periodo de vigencia del cupo, los beneficiarios no cuenten con más de cuatro certificados sin comprobar.
 
-Para el caso anterior la Dirección General de Industrias Pesadas y de Alta Tecnología recibirá los nuevos proyectos de comercialización y notificará a la Dirección General de Comercio Exterior el monto de la asignación correspondiente.
+La vigencia máxima de los certificados de cupo a que se refiere este Acuerdo será al 31 de diciembre de 2006.
 
-No obstante lo dispuesto en el artículo cuarto del presente Acuerdo podrán recibirse solicitudes para asignar el saldo, en caso que lo hubiere, referido en este artículo. Las personas que hayan obtenido la autorización de la Dirección General de Industrias Pesadas y de Alta Tecnología deberán presentar solicitud de asignación acompañándola de dicha autorización.
+El certificado de circulación EUR.1 es el documento que se utilizará para que la aduana del país del Estado miembro de la Comunidad Europea al que se interne la mercancía, aplique la preferencia establecida en la Decisión a que se refiere el artículo primero de este Acuerdo. El certificado de cupo es el documento que avalará que la empresa es beneficiaria del cupo.
 
 ###### ARTICULO SEXTO.
 
-Las solicitudes deberán presentarse en el formato “Solicitud de asignación de cupo” SE-03-011-1, en la representación federal de la Secretaría que le corresponda. No existe hoja de requisitos específicos para este cupo en particular.
+Los formatos citados en el presente Acuerdo, estarán a disposición de los interesados en la Dirección General de Comercio Exterior, en las Representaciones Federales de la Secretaría, y en la página de Internet de la Comisión Federal de Mejora Regulatoria, en las siguientes direcciones electrónicas:
+
+a) Para el caso del formato SE-03-026 “Cuestionario para la obtención del certificado de circulación de mercancías EUR.1 o el carácter de exportador autorizado”: <http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-038-A>
+
+b) Para el caso del formato SE-03-011-1 “Solicitud de asignación de cupo”: http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-033-A
+
+c) Para el caso del formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”: http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042
 
 ###### ARTICULO SEPTIMO.
 
 Una vez asignado el monto para importar dentro del arancel preferencial, la Secretaría, a través de la representación federal correspondiente, expedirá los certificados de cupo que correspondan, previa solicitud del interesado en el formato “Solicitud de certificados de cupo (obtenido por asignación directa)” SE-03-013-5. La expedición de los certificados de cupo se realizará dentro de los siete días hábiles siguientes a la fecha de recepción de las solicitudes.
 
-###### ARTICULO OCTAVO.
-
-Los beneficios que se obtengan de esta asignación se refieren exclusivamente al derecho de arancel preferencial. El certificado de cupo no libera al importador del cumplimiento de las diversas disposiciones legales aplicables en la República Mexicana tales como: la Norma Oficial Mexicana NOM-079-ECOL-1994, la Norma Oficial Mexicana NOM-131-SCFI-2004 y la Norma Oficial Mexicana NOM-042-SEMARNAT-2003, publicadas en el Diario Oficial de la Federación el 12 de enero de 1995, 13 de diciembre de 2004 y 7 de septiembre de 2005, respectivamente, y adicionalmente para el caso de las unidades a ser comercializadas la Norma Oficial Mexicana NOM-160-SCFI-2003, publicada el 20 de octubre de 2003, así como las disposiciones que señala la Ley Federal de Protección al Consumidor de fecha 24 de septiembre de 1992 y sus reformas y adiciones correspondientes.
-
-###### ARTICULO NOVENO.
-
-Los formatos a que se hace referencia en este Acuerdo, estarán a disposición de los interesados, en la Dirección General de Comercio Exterior, en las representaciones federales de la Secretaría o en la página de Internet de la Comisión Federal de Mejora Regulatoria en las siguientes direcciones electrónicas:
-
-Para el caso del formato SE-03-011-1 “Solicitud de asignación de cupo”:
-
-http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-033-A
-
-Para el caso del formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”:
-
-http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042
-
 ## TRANSITORIO
 
-UNICO.- El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación, y concluirá su vigencia el 31 de diciembre de 2006.
+UNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2006, y concluirá su vigencia el 31 de diciembre de 2006.
 
-México, D.F., a 9 de diciembre de 2005.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
+México, D.F., a 22 de diciembre de 2005.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
