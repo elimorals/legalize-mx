@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2004-12-31"
+last_updated: "2005-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: VIERNES 31 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976.
 
@@ -421,7 +421,7 @@ V.- Los obtenidos por la enajenación de segunda o ulteriores manos de fertiliza
 
 ###### Artículo 71.
 
-Son ingresos gravados en los términos de la Fracción II del artículo 69 de ésta (sic) capítulo:
+Son ingresos gravados en los términos de la Fracción II del artículo 69 de ésta(sic) capítulo:
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
@@ -1835,23 +1835,23 @@ Artículo 212 Ñ.- La realización de pagos por concepto de este Impuesto no cau
 
 Es objeto de este impuesto, la realización de pagos en dinero o en especie por concepto de remuneración al trabajo personal prestado bajo la dirección o dependencia de un patrón.
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 214.
 
-La base del impuesto es el monto total de los pagos realizados por concepto de remuneraciones al trabajo personal prestado bajo la dirección o dependencia de un patrón.
+La base de este impuesto es el monto total de los pagos realizados en dinero o en especie por concepto de remuneraciones al trabajo personal prestado bajo la dirección o dependencia de un padrón.
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 215.
 
-Son sujetos del impuesto quienes realicen los pagos por remuneración al trabajo personal bajo la dirección y dependencia de un patrón y responsables solidarios quienes perciban dichos pagos, cuando quien los realiza resida fuera del Estado.
+Son sujetos del impuesto quienes realicen los pagos en dinero o en especie por remuneración al trabajo personal bajo la dirección y dependencia de un patrón.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 216.
 
-La tasa del impuesto que se aplicará sobre el monto total de las remuneraciones pagadas en un mes o parte de él, será del 2%. Cuando el pago por concepto de remuneraciones se realice por contribuyentes dedicados a actividades agrícolas, silvícolas, ganaderas o de pesca, la tasa aplicable será del 1%, siempre y cuando los productos no hayan sido objeto de transformación industrial.
+La tasa del impuesto que se aplicará sobre el monto total de las remuneraciones en dinero o en especie, pagadas en un mes o parte de el, será del 2%. Cuando el pago por concepto de remuneraciones en dinero o en especie se realice por contribuyentes dedicados a actividades agrícolas, silvícola, ganaderas o de pesca. La tasa aplicable será del 1%, siempre y cuando los productos no hayan sido objeto de transformación industrial.
 
 > <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1994)</small>
 
@@ -1871,9 +1871,9 @@ I.- Contraprestaciones a que se refiere el artículo 213 del presente ordenamien
 
 Tratándose de organismos descentralizados del Estado de Sonora y de los municipios del Estado, sólo estarán exentos cuando realicen actividades con fines no lucrativos;
 
-> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
-II.- Los pagos por cualquier concepto de indemnización;
+II.- Los pagos por cualquier concepto de indemnización de los establecidos en el artículo 50 de la Ley Federal del Trabajo;
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -1883,9 +1883,9 @@ III.- Los pagos por concepto de jubilaciones o pensiones, siempre que no excedan
 
 IV.- Contraprestaciones cubiertas por instituciones o asociaciones con fines no lucrativos que promuevan o realicen asistencia social en cualquiera de sus formas, así como las que lleven a cabo gratuitamente actividades sociales, deportivas o culturales;
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
-V.- Contraprestaciones cubiertas por contribuyentes que tengan contratados un máximo de 20 trabajadores, a quienes se les exentará del pago de este impuesto por el monto equivalente a un salario mínimo general del área geográfica "B" elevado al mes por cada trabajador hasta un máximo de cinco trabajadores. Por el excedente se pagará el impuesto en los términos del artículo 216 de este Capítulo. Para acogerse a este beneficio se deberá considerar la suma total de empleados contratados en cada una de las sucursales, en caso de que los hubiere;
+V.- Contraprestaciones cubiertas por contribuyentes que tengan contratados un máximo de 20 trabajadores, a quienes se les extenderá de la base de este impuesto, un monto equivalente a un salario mínimo general del área geográfica “B” elevado al mes por cada trabajador hasta un máximo de 5 trabajadores. Por el excedente se pagará el impuesto en los términos del artículo 216 de este Capítulo. Para acogerse a este beneficio se deberá considerar la suma total de empleados contratados en cada una de las sucursales, en caso de que los hubiere.
 
 > <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1999)</small>
 
@@ -1907,13 +1907,17 @@ IX.- Gastos funerarios;
 
 X.- Becas educacionales a favor de trabajadores y sus hijos, siempre y cuando sean en Instituciones con reconocimiento de validez oficial;
 
-> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
-XI.- Primas de seguro de gastos médicos y de vida, y
+XI.- Primas de seguro de gastos médicos y de vida;
 
-> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
-XII.- Aportación del patrón a los fondos de ahorro siempre y cuando se integre por una cantidad igual a la aportada por el trabajador y se retire una vez al año.
+XII.- Aportación del patrón a los fondos de ahorro siempre y cuando se integre por una cantidad igual a la aportada por el trabajador y se retire una vez al año, y
+
+> <small>(ADICIONADA, B.O. 29 DE DICIEMBRE DE 2005)</small>
+
+XIII.- Pagos que resulten del crédito al salario conforme a la Ley del Impuesto Sobre la Renta.
 
 > <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1999)</small>
 
@@ -1964,6 +1968,14 @@ VI.- Los contribuyentes que tengan registrados trabajadores que no les resulte i
 > <small>(ADICIONADA, B.O. 23 DE DICIEMBRE DE 2002)</small>
 
 VII.- Las demás que impongan otras disposiciones fiscales.
+
+> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
+
+Artículo 220 bis. Son responsables solidarios en el pago de este impuesto:
+
+I.- Los sujetos que perciban los pagos gravados con este impuesto, cuando quien los realiza resida fuera del Estado.
+
+II.- Las personas físicas o morales que contraten la prestación de servicios con empresas para que éstas les proporcionen a los trabajadores, cuando estas últimas no presenten las declaraciones correspondientes para el pago del impuesto.
 
 ###### Artículo 221.
 
@@ -2793,7 +2805,7 @@ Estas contribuciones se recaudarán en la misma forma y simultáneamente con los
 
 ## TITULO CUARTO. De los Derechos
 
-### Capítulo Sexto. Otros Servicios
+### Capítulo Sexto. Por Servicios de Certificaciones, Constancias y Autorizaciones
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -2961,15 +2973,31 @@ III.- Por expedición de guías para porteadores. $500.00
 
 IV.- Por cada certificación expedida por la Dirección General de Bebidas Alcohólicas. $320.00
 
-> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
-V.- Por los servicios de expedición de licencia a favor del o de los herederos por fallecimiento del titular de la licencia respectiva, por reposición de la licencia, por cambio de domicilio, por cambio del nombre del establecimiento sin que implique cambio de propietario, así como cualquier otra modificación previamente autorizada, se causarán los derechos establecidos en la fracción I de éste artículo. La cuota que se determine podrá reducirse hasta en un 75% de acuerdo al giro de que se trate.
+V.- Causarán los derechos establecidos en la fracción I de este artículo la prestación de los siguientes servicios:
 
-Cuando en un solo trámite se realicen simultáneamente los cambios de domicilio y del nombre del establecimiento sin que implique cambio de propietario, se causará el pago de los derechos correspondientes por un solo concepto, pudiendo aplicarse la reducción a que se refiere el párrafo anterior.
+a).- Por la expedición de la licencia a favor del o de los herederos por fallecimiento del titular de la licencia respectiva.
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
+b).- Por cambio de propietario sin que implique cambio de domicilio del establecimiento.
 
-VI.- Por los servicios de ampliación provisional de Horario, por hora, por día, se causarán los Siguientes derechos: $500.00
+c).- Por cambio de domicilio sin que se realice cambio de propietario.
+
+d).- Por cualquier otra modificación previamente autorizada.
+
+La cuota que se determine de conformidad con esta fracción podrá reducirse hasta en un 75% de acuerdo al giro de que se trate. Asimismo en el supuesto previsto en el inciso b) de esta fracción, en los trámites respectivos, no se requerirá la presentación de la anuencia municipal.
+
+Cuando en un solo trámite se realice simultáneamente el cambio de domicilio y del nombre del establecimiento sin que implique cambio de propietario, sólo se causará el pago de los derechos correspondientes al cambio de domicilio, pudiendo aplicarse la reducción a que se refiere el párrafo anterior.
+
+> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 2005)</small>
+
+VI.- Por los servicios que a continuación se indican se causarán los siguientes derechos:
+
+a).- Por ampliación provisional del horario, por hora, por día $500.00
+
+b).- Por reposición de la licencia o permiso en los casos de robo, extravío o destrucción $1.000.00
+
+c).- Por cambio de nombre del establecimiento sin que implique cambio de propietario $1.000.00
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -2983,11 +3011,11 @@ La expedición de estos permisos provisionales causará derechos por cada mes o 
 
 Las personas físicas o morales titulares de licencias o permisos para operar alguno o algunos de los establecimientos a que se refiere el Artículo 302 de este Capítulo, deberán presentar el aviso de inscripción ante el registro estatal de contribuyentes en la oficina recaudadora que corresponda a su domicilio fiscal.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 304.
 
-Los derechos por la expedición de licencias, cambios de domicilio y cambios de propietario, se pagarán previamente al otorgamiento de las mismas, sin que ello implique la autorización para el funcionamiento del giro, entre tanto no sea expedida la licencia correspondiente. Los de revalidación serán anuales y se pagarán durante los meses de enero y febrero de cada año.
+Los derechos por la expedición de licencias, cambios de domicilio y cambios de propietario, se pagarán previamente al otorgamiento de las mismas, sin que ello implique la autorización para el funcionamiento del giro, entre tanto no sea expedida la licencia correspondiente. Los de revalidación serán anuales y se pagarán durante los meses de enero a mayo de cada año.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
@@ -3003,7 +3031,7 @@ Cuando se lleven a cabo traspasos, cambios de propietarios o de razón social y 
 
 ### Capítulo Noveno. Servicios por Expedición de Placas de Vehículos, Revalidaciones, Licencias para Manejar y Permisos
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 307.
 
@@ -3079,7 +3107,7 @@ cualquier profesión o especialidad. N$ 100.00
 
 del punto anterior, por cada prórroga. N$ 50.00
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACION, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
 ### Capítulo Décimo Primero. Servicios del Registro Público de la Propiedad y del Comercio
 
@@ -3091,47 +3119,43 @@ Los derechos por estos servicios se cobrarán conforme a las siguientes cuotas:
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-1.- Por los servicios de expedición de cédula para
+1.- Por los servicios de expedición de cédula para acreditar la inscripción en el registro simplificado de proveedores y prestadores de servicios del Gobierno del Estado, a petición del solicitante. $50.00
 
-acreditar la inscripción en el registro simplificado de
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
-proveedores y prestadores de servicios del Gobierno
+2.- Por los servicios relativos a la reproducción de documentos de conformidad con la Ley de Acceso a la Información Pública del Estado de Sonora.
 
-del Estado, a petición del solicitante. $50.00
+a).- Expedición de copias certificadas de documentos por cada hoja. $15.00
 
-2.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
+b).- Por cada disco flexible de 3.5 pulgadas. $20.00
+
+c) Por cada disco compacto. $25.00
+
+d).- Por cada copia simple. $5.00
+
+e).- Por cada hoja impresa por medio de dispositivo informático. $10.00
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 18 DE DICIEMBRE DE 2003)</small>
 
-3.- Por expedición de copias de expedientes y
-
-documentos de archivo, por cada hoja.
+3.- Por expedición de copias de expedientes y documentos de archivo, por cada hoja.
 
 a).- Copia simple. $20.00
 
-b).- Copia certificada. $50.00
+b).- Copia certificada $50.00
 
 4.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 18 DE DICIEMBRE DE 2003)</small>
 
-5.- Por anuencia para la expedición de permisos
-
-de caza. $795.00
+5.- Por anuencia para la expedición de permisos de caza. $795.00
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 18 DE DICIEMBRE DE 2003)</small>
 
-6.- Por anuencia para la expedición de permisos de
-
-asociaciones de caza, tiro y pesca, por socio. $117.00
+6.- Por anuencia para la expedición de permisos de asociaciones de caza, tiro y pesca, por socio. $117.00
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 18 DE DICIEMBRE DE 2003)</small>
 
-7.- Por anuencia para la expedición de permisos para
-
-portar armas y para compraventa y/o almacenaje
-
-de explosivos. $795.00
+7.- Por anuencia para la expedición de permisos para portar armas y para compraventa y/o almacenaje de explosivos. $795.00
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -3139,23 +3163,13 @@ de explosivos. $795.00
 
 > <small>(ADICIONADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
-9.- Por expedición de certificados sobre antecedentes
-
-penales, por cada uno. $76.00
+9.- Por expedición de certificados sobre antecedentes penales, por cada uno. $76.00
 
 > <small>(ADICIONADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
-10.- Por expedición de constancia de adeudo o no
+10.- Por expedición de constancia de adeudo o no adeudo fiscal y/o no inscripción en el registro estatal de contribuyentes. $50.00
 
-adeudo fiscal y/o no inscripción en el registro estatal
-
-de contribuyentes. $50.00
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
-
-11.- Por el servicio de vigilancia, inspección y control que las leyes de la materia encomiendan a la Secretaría de la Contraloría General, los proveedores y contratistas con quienes se celebren contratos de adquisiciones derivados de licitaciones públicas, de obra pública y de servicios relacionados con dichas materias, pagarán un derecho equivalente al 2 al millar sobre el importe de cada una de las estimaciones o adquisiciones derivadas de los contratos.
-
-La Secretaría de Hacienda y las entidades paraestatales de la administración pública estatal, al hacer el pago de las estimaciones de obra o adquisiciones, retendrán el importe del derecho a que se refiere el párrafo anterior.
+11.- (DEROGADO, B.O. 29 DE DICIEMBRE DE 2005)
 
 > <small>(REFORMADA SU DENOMINACION, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -3205,6 +3219,10 @@ a).- Por notario y por cada 2 años de búsqueda. $150.00
 
 15.- Por presentación de examen de oposición para ser titular de una notaría pública. $10,593.00
 
+> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
+
+16.- Por la autorización de proyectos de escrituras a los jueces locales en funciones de notario público por ministerio de Ley, por cada instrumento, que requiera autorización. $100.00
+
 > <small>(REFORMADA SU DENOMINACION, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ### Capítulo Décimo Tercero. Servicios del Registro Civil
@@ -3239,15 +3257,27 @@ b).- Por certificación del Boletín Oficial. N$ 10.00
 
 VII.- Por suscripción anual por correo dentro del país. N$ 1,300.00
 
-VIII.- Por número atrasado del Boletín. N$ 12.00
+> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 2005)</small>
+
+VIII.-Por Boletín Oficial que se adquiera en fecha Posterior a su publicación hasta una antigüedad de 30 años. $37.00
 
 Tratándose de publicaciones de convenios autorización de fraccionamientos
 
-habitacionales se aplicará la cuota correspondientemente reducida en un 75%.
+habitacionales se aplicará la cuota correspondiente reducida en un 75%.
 
-2.- Por los demás servicios prestados por la Dirección General de Documentación
+> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
-y Archivo, como sigue:
+Tratándose de publicación de reglamentos que aprueben los ayuntamientos del Estado se otorgará una reducción conforme a la siguiente tabla:
+
+a).- A los municipios con población menor a 2,500 habitantes, la reducción será del 75 por ciento.
+
+b).- A los municipios con población entre 2,501 y 50.000 habitantes, la reducción será del 50 por ciento.
+
+c).- A los municipios con población entre 50.001 y 100.000 habitantes, la reducción será del 40 por ciento.
+
+d).- A los municipios con población mayor de 100.001, habitantes, la reducción será del 30 por ciento.
+
+2.- Por los demás servicios prestados por la Dirección General de Documentación y Archivo, como sigue:
 
 I.- Por la certificación de firmas autógrafas de Constancias expedidas por centros educativos. N$ 10.00
 
@@ -3255,9 +3285,7 @@ II.- Por legalización de actas de nacimiento, matrimonio y defunción. N$ 10.00
 
 III.- Por la certificación de firmas autógrafas que autoricen documentos públicos. N$ 35.00
 
-IV.- Por la legalización de certificados de estudios: primaria, secundaria, preparatoria
-
-y profesional, constancias de servicio social y actas de examen profesional. N$ 15.00
+IV.- Por la legalización de certificados de estudios: primaria, secundaria, preparatoria y profesional, constancias de servicio social y actas de examen profesional. N$ 15.00
 
 V.- Por la legalización de títulos profesionales. N$ 40.00
 
@@ -3287,7 +3315,7 @@ XI.- Por la expedición de constancias del archivo administrativo de Servidores 
 
 ###### Artículo 312.
 
-Las placas tipo único para todos los vehículos, se clasifican en los siguientes grupos, aplicándose para su expedición, transferencia, canje o revalidación, las tarifas que siguen conforme a sus especificaciones:
+Las placas tipo único para todos los vehículos, se clasifican en los siguientes grupos, aplicándose para su expedición, canje, revalidación o baja, las tarifas que siguen conforme a sus especificaciones:
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -3297,17 +3325,21 @@ los vehículos de propulsión mecánica para uso
 
 particular.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
-a).- Por expedición, transferencia o canje. $382.00
+a).- Por expedición o canje. .
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
-b).- Por revalidación anual. $258.00
+b).- Por revalidación anual $290.00
 
-> <small>(ADICIONADO, B.O. 23 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
-Por los servicios a que se refieren los incisos a) y b) anteriores, tratándose de los vehículos de la Federación, del Estado y de los municipios que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, limpia, recolección de basura, pipas de agua, servicios funerarios, y las ambulancias dependientes de cualquiera de esas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia y los destinados a los cuerpos de bomberos, se aplicarán las cuotas correspondientes reducidas en un 50%; para tales efectos deberá presentarse al momento de la prestación del servicio, constancia del organismo o institución indicados, que compruebe que el vehículo se encuentra comprendido en dichos supuestos.
+c).- Por baja. $40.00
+
+> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
+
+Por los servicios a que se refieren los incisos a), b) y c) anteriores, tratándose de los vehículos de la Federación, del Estado y de los municipios que sean utilizando para la presentación de los servicios públicos de rescate, patrullas, limpia, recolección de basura, pipas de agua, servicios funerarios y las ambulancias dependientes de cualquiera de esas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia y los destinados a los cuerpos de bomberos, se aplicarán las cuotas correspondientes reducidas en un 50%; para tales efectos deberá presentarse, al momento de la prestación del servicio, constancia del organismo o institución indicados, que compruebe que el vehículo se encuentra comprendido en dichos supuestos.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -3319,13 +3351,17 @@ para prestar servicios de transporte de personas o
 
 cosas dentro del Estado.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
-a).- Por expedición, transferencia o canje. $382.00
+a).- Por expedición o canje. $382.00
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
 b) Por revalidación anual. $61.00
+
+> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
+
+c).- Por baja. $40.00
 
 3.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 1977)
 
@@ -3377,9 +3413,21 @@ remisiones señaladas en la fracción que antecedente,
 
 diariamente. $ 6.00
 
-> <small>(ADICIONADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
-Las autoridades estatales o municipales competentes en el Estado, en la actualización del registro de vehículos, por altas, cambios, bajas de placas o realicen el canje de placas por el término de su vigencia, deberán cerciorarse que no existan adeudos por concepto de derechos de placas o revalidaciones de las mismas, correspondientes a los últimos 5 años, salvo en los casos en que el contribuyente acredite que se encuentra liberado de esta obligación.
+El pago de los derechos por la expedición de placas se efectuará dentro de los 15 días siguientes al de la fecha de adquisición tratándose de vehículos nuevos; en los casos de cambio de propietario, de uso o de destino, se efectuará dentro de los 15 días siguientes a partir de que se realice la operación de que se trate y tratándose de vehículos importados a las zonas o perímetros libres del Estado o interior del País, a partir de los 15 días de efectuada la importación.
+
+> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
+
+El pago de los derechos por revalidación anual de placas se efectuará durante los tres primeros meses del año de calendario que corresponda.
+
+> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
+
+El pago de los derechos por canje de placa se efectuará una vez concluido el periodo de vigencia de las mismas, durante los tres primeros meses del año de calendario que corresponda.
+
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
+
+Las autoridades estatales o municipales competentes en el Estado, en la actualización del registro de vehículos por altas, cambios, bajas de placas o realicen el canje de placas por el término de su vigencia, deberán cerciorarse que no existan adeudos por concepto de derechos de placas o revalidaciones de las mismas, correspondientes a los últimos 5 años. En caso de que existan adeudos, dichas autoridades procederán a llevar a cabo su cobro, salvo en los casos en que el contribuyente acredite que se encuentra liberado de esta obligación.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -3387,9 +3435,13 @@ Las autoridades estatales o municipales competentes en el Estado, en la actualiz
 
 Los remolques y semiremolques de transporte privado o de servicio público deberán estar provistos de una placa en su parte posterior, que causará los siguientes derechos:
 
-a).- Por la expedición, transferencia o canje. $191.00
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
-b).- Por revalidación anual. $283.00
+a) por la expedición o canje. …
+
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
+
+b).- Por revalidación anual. $120.00
 
 > <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -3399,9 +3451,13 @@ Las placas de demostración causarán derechos conforme a la tarifa de transport
 
 En el caso a que se refiere el párrafo anterior, se expedirá un juego de placas en el año, por cada 5 vehículos que se tengan en venta, al momento de la solicitud del servicio.
 
-###### Artículo 315.
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
-La reposición de una placa implicará un juego completo y causará derechos como si se expidieran placas nuevas aun cuando se usen el mismo número de la placa o placas extraviadas.
+###### ARTÍCULO 315.
+
+En caso de extravío de una o ambas placas, su reposición implicará la asignación de un juego de placas distinto, causando los derechos por concepto de baja de placas así como los de expedición de placas de acuerdo a la especificación de que se trate.
+
+Tratándose de baja de placas por robo de vehículo previa la acreditación de la presentación de la denuncia respectiva ante la autoridad competente, no se cobrará el derecho correspondiente.
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE DICIEMBRE DE 1991)</small>
 
@@ -3481,29 +3537,19 @@ Por 2 años $726.00
 
 A las reposiciones de licencias se les aplicará el mismo importe de los derechos que cause la expedición de licencias nuevas. Cuando por causas imputables al usuario se deba de reponer la licencia ya impresa se deberá pagar el derecho equivalente a la licencia de un año, siempre y cuando ésta se realice el mismo día de su expedición.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 317.
 
-Los derechos por expedición de placas de motocicletas y motonetas, revalidación anual; permisos provisionales para transitar sin placas y reposición de tarjetas de circulación, se cobrarán con sujeción a las siguientes tarifas:
+Los derechos por expedición o canje de placas de motocicletas motonetas, revalidación anual, permisos provisionales para transitar sin placas y reposición de tarjetas de recirculación, se cobrarán con sujeción a las siguientes tarifas:
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
-1.- Por expedición de placas y calcomanías de
+1.- Por expedición o canje. $206.00
 
-revalidación inicial:
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
-A).- Las solicitadas dentro de los primeros nueve
-
-meses del año. N$ 60.00
-
-B).- Las solicitadas dentro de los tres últimos
-
-meses del año. N$ 30.00
-
-C).- Por revalidación anual. N$ 30.00
-
-2.- (DEROGADO, B.O. 30 DE DICIEMBRE DE 1985)
+2.- Por revalidación anual. $103.00
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -3519,11 +3565,11 @@ motonetas sin placas hasta diez días. N$ 20.00
 
 motocicletas y motonetas. N$ 20.00
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
-###### Artículo 318.
+###### ARTÍCULO 318.
 
-La expedición, transferencia o canje, así como la expedición de las licencias para manejar, a que se refiere esta Ley, se autorizarán previo el cumplimiento de los requisitos establecidos en la Ley de Tránsito del Estado de Sonora.
+La expedición, canje o baja de placas, así como la expedición de las licencias para manejar, a que se refiere esta ley, se autorizarán previo el cumplimiento de los requisitos establecidos en la Ley de Tránsito del Estado de Sonora.
 
 > <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -3593,9 +3639,7 @@ a).- Pasaje. $450.00
 
 b).- Carga. $450.00
 
-5.- Autorización de alta y baja de la unidad para la explotación del servicio público de transporte
-
-tanto de jurisdicción estatal, como municipal, por unidad:
+5.- Autorización de alta y baja de la unidad para la explotación del servicio público de transporte anto de jurisdicción estatal, como municipal, por unidad:
 
 a).- Pasaje N$ 30.00
 
@@ -3627,9 +3671,7 @@ a).- Pasaje N$ 600.00
 
 b).- Carga N$ 600.00
 
-9.- Por la expedición de concesiones con motivo de ampliación de ruta o radios de jurisdicción en
-
-la explotación de servicio público de transporte de jurisdicción estatal o municipal.
+9.- Por la expedición de concesiones con motivo de ampliación de ruta o radios de jurisdicción en la explotación de servicio público de transporte de jurisdicción estatal o municipal.
 
 I.- Pasaje
 
@@ -3651,11 +3693,7 @@ b).- Que no exceda del 50% del radio de acción Autorizado en la concesión, por
 
 12.- Por la expedición de certificados que acrediten el carácter de no concesionario del servicio público de transporte. N$ 45.00
 
-13.- Por certificación de copias de cualquier documento existente en los archivos de la
-
-Dirección General de Transporte a solicitud de parte o en cumplimiento de un mandato judicial
-
-gestionado por particulares.
+13.- Por certificación de copias de cualquier documento existente en los archivos de la Dirección General de Transporte a solicitud de parte o en cumplimiento de un mandato judicial gestionado por particulares.
 
 a).- Por cada hoja N$ 20.00
 
@@ -3695,9 +3733,7 @@ b).- Por la búsqueda $41.00
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-18.- Por aplicación de examen psicométrico a operadores
-
-que presten el servicio público de transporte en la modalidad de pasaje. $50.00
+18.- Por aplicación de examen psicométrico a operadores que presten el servicio público de transporte en la modalidad de pasaje. $50.00
 
 ### Capítulo Unico
 
@@ -3917,23 +3953,23 @@ d).- Por rendir informe sobre disposición testamentaria, por
 
 cada autor de la sucesión. $77.00
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
-e).- Todos los demás certificados. $140.00
+e).- Por certificado de gravamen con un solo predio,
 
-Tratándose de operaciones relativas a vivienda de
+lote o fracción de terreno y una sola anotación o
 
-interés social y popular cuyo valor al momento de la
+gravamen $145.00
 
-operación no exceda de la suma que resulte de
+Se cobrará adicionalmente por cada uno de los predios, lotes o fracciones de terreno, anotaciones o gravámenes subsecuentes, vigentes o no vigentes. $25.00
 
-multiplicar por 25 veces el salario mínimo general
+> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
-elevado al año, vigente en el área geográfica de
+f).- Todos los demás certificados. $145.00
 
-que se trate, las cuotas a que se refiere este punto
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
-se reducirán en un 50%.
+Tratándose de operaciones relativas a vivienda de interés social y popular cuyo valor al momento de la operación no exceda de la suma que resulte de multiplicar por 25 veces el salario mínimo general elevado al año, vigente en el área geográfica de que se trate, las cuotas a que se refiere este punto se reducirán en un 50%.
 
 19.- Por la expedición de copias fotostáticas:
 
@@ -3949,23 +3985,35 @@ d).- Certificadas, por cada una de las hojas
 
 subsecuentes. $ 19.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
-20.- Por los servicios urgentes a petición del usuario se causará un derecho adicional equivalente al 50% sobre la cantidad fijada para el servicio que se solicite, los cuales se proporcionarán dentro de las 24 horas hábiles siguientes a su solicitud, de cuyos derechos se destinará el 40% como compensación al personal de la oficina y el restante 60% se aplicará para cubrir los gastos y erogaciones necesarios para la modernización de los servicios registrales.
+20.- Por el segundo examen o calificación de todo tipo de documento público o privado que se presente en la oficina jurisdiccional de servicios registrales para su inscripción, anotación o cancelación así como por cada uno de los subsecuentes que se presenten. $100.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
-La tasa expresada en 5 al millar, por los servicios a que se refiere este Capítulo, no excederá de la cantidad equivalente a 800 veces el salario mínimo general vigente correspondiente al área geográfica "A".
+21.- Por la prestación del servicio anual de consulta en línea, en la forma y términos en que se contrate. $1.000.00
+
+> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
+
+22.- Por la prestación de servicios registrales en línea se causará un derecho adicional del 20% sobre la cantidad fijada para el servicio solicitado. Independientemente de los derechos que se causen deberán pagarse el costo de envío que determine el usuario.
+
+> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
+
+23.- Por los servicios urgentes a petición del usuario se causará un derecho adicional equivalente al 50% sobre la cantidad fijada para el servicio que se solicite, los cuales se proporcionarán dentro de las 24 horas hábiles siguientes a su solicitud, de cuyos derechos se destinará el 70% como compensación al personal de la oficina y el restante 30% se aplicará para cubrir los gastos y erogaciones necesarios para la modernización de los servicios registrales.
+
+> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
+
+La tasa expresada en 5 al millar, por los servicios a que se refiere este Capítulo, no excederá de la cantidad equivalente a 800 veces el salario mínimo general vigente correspondiente al área geográfica “A”.
 
 ###### Artículo 322.
 
 Las tarifas de este Capítulo cuando comprendan dos o más cuotas y ya sean especificadas o proporcionales, se aplicarán progresivamente y acumulativamente.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 323.
 
-Se exceptúan de los derechos a que se refiere este Capítulo, al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora, Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, e instituciones de asistencia privada autorizadas para la Junta de Asistencia Privada de la Secretaría de Salud.
+Se exceptúan de los derechos a que se refiere este Capítulo, al Estado, Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora, Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado e instituciones de asistencia privada autorizadas por la Junta de Asistencia Privada de la Secretaría de Salud.
 
 > <small>(DEROGADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
@@ -4095,9 +4143,7 @@ I.- Servicios catastrales prestados por el Instituto Catastral y Registral del E
 
 9.- Por expedición de certificados de no inscripción de bienes inmuebles. $75.00
 
-10.- Por inscripción de manifestaciones y avisos catastrales
-
-(manifestaciones de inmuebles de obra, fusiones y subdivisiones). $36.00
+10.- Por inscripción de manifestaciones y avisos catastrales (manifestaciones de inmuebles de obra, fusiones y subdivisiones). $36.00
 
 11.- Por expedición de certificados de no propiedad y otros, por cada uno. $75.00
 
@@ -4353,15 +4399,25 @@ ambiental. $ 1,396.00
 
 III.- Servicios Prestados por la Secretaría de Salud Pública del Estado.
 
-1.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2001)
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
-2.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2001)
+1.- Aplicación de examen para acreditar a responsables técnicos de plaguicidas y sustancias tóxicas $800.00
 
-3.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2001)
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
-4.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2001)
+2.- Visitas de verificación sanitaria solicitadas por los interesados. $500.00
 
-5.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2001)
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
+
+3.- Diligencias de muestreo de productos solicitadas por los interesados. $500.00
+
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
+
+4.- Asesorías en materia administrativa y procesos higiénicos solicitadas por los interesados. $500.00
+
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
+
+5.- Verificación de balance de medicamentos controlados por la Secretaría de Salud, solicitados por los interesados. $1.000.000
 
 6.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2001)
 
@@ -4493,17 +4549,13 @@ b).- de tipos media y superior por materia. N$ 3.00
 
 superior por materia. N$ 3.00
 
-8.- Reconocimiento de validez oficial de estudios
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
-a particulares por cada plan de estudio de tipo
+8.- Resolución de trámite de reconocimiento de validez oficial de estudios a particulares por cada plan de estados de tipo superior. N$ 150.00
 
-superior. N$ 150.00
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
-9.- Reconocimiento de validez oficial de estudios
-
-a particulares por cada plan de estudio de tipo
-
-medio. N$ 150.00
+9.- Resolución de trámite de reconocimiento de validez oficial de estudios a particulares por cada plan de estudios de tipo medio. N$ 150.00
 
 10.- Registro de particulares que imparten
 
@@ -4571,6 +4623,10 @@ profesionistas. $ 300.00
 
 profesionistas. $ 19.00
 
+> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
+
+18.- Constancia de estudios y labor docente de tipo medio superior. $26.00
+
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 V.- Servicios prestados por el Secretario Ejecutivo del Consejo Estatal de Seguridad Pública.
@@ -4587,11 +4643,227 @@ V.- Servicios prestados por el Secretario Ejecutivo del Consejo Estatal de Segur
 
 El pago de estos derechos no implica la autorización para el funcionamiento de las empresas que realicen el entero.
 
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
+
+3.- Por los servicios especiales de seguridad pública que preste el Estado de Sonora a particulares, se cobrará por semestre de calendario en forma anticipada, por cada elemento de seguridad en activo. $18,600.00
+
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-3.- Por los servicios especiales de seguridad pública que preste el Estado de Sonora a particulares, se cobrará por semestre de calendario en forma anticipada, por cada elemento de seguridad en activo. $37,800.00
-
 Los ingresos que se perciban por los derechos a que se refiere el párrafo anterior, serán destinados exclusivamente para el fortalecimiento de los programas a cargo del Secretario Ejecutivo de Seguridad Pública y demás erogaciones necesarias para la adecuada y eficaz prestación del servicio.
+
+> <small>(ADICIONADA, B.O. 29 DE DICIEMBRE DE 2005)</small>
+
+VI.- Servicios prestados por la Secretaría de la Contraloría General.
+
+1.- Por el servicio de vigilancia, inspección y control que las leyes de la materia encomiendan a la Secretaría de la Contraloría General, los proveedores y contratistas con quienes se celebren contratos de adquisiciones derivados de licitaciones públicas, de obra pública y de servicios relacionados con dichas materias, pagarán un derecho equivalente al 2 al millar sobre el importe de cada una de las estimaciones o adquisiciones derivadas de los contratos.
+
+La Secretaría de Hacienda y las entidades paraestatales de la administración pública estatal, al hacer el pago de las estimaciones de obra o adquisiciones, retendrán el importe del derecho a que se refiere el párrafo anterior,
+
+> <small>(ADICIONADA, B.O. 29 DE DICIEMBRE DE 2005)</small>
+
+VII.- Servicios prestados por la Unidad Estatal de Protección Civil.
+
+1.- Por proporcionar asesoría para el establecimiento de la unidad interna de protección civil que deberán contar los propietarios, poseedores, administradores o encargados de inmuebles o edificaciones que por su uso y destino concentren o reciban una afluencia masiva de personas o bien representen un riesgo de daños por la población. $1.000.00
+
+2.- Por dictaminar y/o autorizarlos programas internos de protección civil, que deberán elaborar los propietarios, poseedores, administradores o encargados de inmuebles o edificaciones que por su uso y destino concentren o reciban una afluencia masiva de personas o bien representen un riesgo de daños para la población, por metro cuadrado de construcción.
+
+a).- Viviendas para cinco familias o más edificaciones con habitaciones colectivas para más de veinte personas $2.00
+
+b).- Edificios públicos y salas de espectáculos. $2.00
+
+c).- Instituciones educativas. $1.00
+
+d).- Hospitales, centros médicos, laboratorios, maternidades y puestos de socorro. $1.50
+
+e).- Comercios. $1.50
+
+f).- Almacenes y bodegas. $2.00
+
+g).- Industrias y talleres. $2.00
+
+h).- Oficinas públicas o privadas. $1.50
+
+i).- Terminales terrestres, aéreas y marítimas. $2.00
+
+j).- Granjas. $1.20
+
+k).- Edificaciones para el almacenamiento, distribución o expendio de hidrocarburos. $3.00
+
+l).- Centrales de correo, teléfonos, telégrafos, radio, televisión y sistemas de microondas. $1.50
+
+3.- Por la revalidación anual de los programas internos que deberán elaborar los propietarios, poseedores, administradores o encargados de Inmuebles o edificaciones que por su uso y destino concentren o reciban una afluencia masiva de personas o bien representen un riesgo de daños a la población. $2.000.00
+
+4.- Por dictámenes previos a la autorización de los programas internos de protección civil, que deberán elaborar los propietarios, poseedores, administradores o encargados de inmuebles o edificaciones que por su uso y destino concentren o reciban una afluencia masiva de personas, o bien representen un riesgo de daños para la población. En los siguientes conceptos:
+
+a).- Por los procedimientos para la colocación de señales. $300.00
+
+b).- Por los programas de mantenimiento $500.00
+
+c).- Por los planes de contingencias por metro cuadrado, como sigue:
+
+c). 1 Viviendas para cinco familias o más y edificaciones con habitaciones colectivas para más de veinte personas. $2.00
+
+|
+
+c). 2 Edificios públicos y salas de espectáculos. $2.00
+
+c).3 Instituciones educativas. $1.00
+
+c). 4 Hospitales, centros médicos, laboratorios, maternidades y puestos de socorro. $1.50
+
+c). 5 Comercios $1.50
+
+c). 6 Almacenes y bodegas. $2.00
+
+c). 7 Industrias y talleres. $2.00
+
+c). 8 Oficinas públicas o privadas. $1.50
+
+c). 9. Terminales terrestres, aéreas y marítimas. $2.00
+
+c).10 Granjas. $1.20
+
+c).11 Edificaciones para el almacenamiento, distribución o expendio de hidrocarburos. $3.00
+
+c. 12 Centrales de correo, teléfonos, telégrafos, radio, televisión y sistemas de microondas. $1.50
+
+d).- Por los sistemas de alertamiento. $300.00
+
+e).- Diagnóstico de riesgo. $3.000.00
+
+f).- Por la capacitación en materia de protección civil por un tiempo mínimo de 4 horas, como sigue:
+
+f). 1 10 personas $12.000.00
+
+f). 2 20 personas $24.000.00
+
+f). 3 30 personas $36.000.00
+
+g).- Por la formación de brigadas internas de protección civil, como sigue:
+
+g). 1 De 4 a 9 personas. $15.000.00
+
+g). 2 10 personas. $20.000.00
+
+g). 3 20 personas. $30.000.00
+
+g) 4 30 personas. $40.000.00
+
+5.- Por la autorización de diagnóstico de riesgo en materia de protección civil que deberán presentar las personas que pretendan construir inmuebles que por su uso y destino concentren o reciban una afluencia masiva de personas, o bien representen un riesgo de daños para la población. $3.000.00
+
+6.- Dictamen para la emisión favorable por parte del Gobernador del Estado, para el uso de sustancias explosivas en la industria y en los centros artesanales, como requisito para que la Secretaría de la Defensa Nacional otorgue el permiso correspondiente.
+
+a).- Campos de tiro y clubes de caza. $2.500.00
+
+b).- Instalaciones en que se realiza compra-venta de sustancias químicas. $3.000.00
+
+c).- Explotación minera o de bancos de cantera. $3.000.00
+
+d).- Industrias químicas. $3.000.00
+
+e).- Fábrica de elementos pirotécnicos.$3.000.00
+
+f).- Talleres de artificios pirotécnicos. $2.000.00
+
+g).- Bodegas y/o polvorines para artificios pirotécnicos. $3.000.00
+
+h).- Bodegas y/o polvorines para sustancias químicas. $3.000.00
+
+7.- Para la elaboración de peritajes, a solicitud del interesado, de la evaluación inicial de la contingencia que se presente en la Entidad, por metro cuadrado de construcción, como sigue:
+
+a).- Viviendas para cinco familias o más y edificaciones con habitaciones colectivas para más de veinte personas. $10.00
+
+b).- Edificios públicos y salas de espectáculos. $10.00
+
+c).- Instituciones educativas. $5.00
+
+d).- Hospitales, centros médicos, laboratorios, maternidades y puestos de socorro, $7.50
+
+e).- Comercios. $7.50
+
+f).- Almacenes y bodegas. $10.00
+
+g).- Industrias y talleres. $10.00
+
+h).- Oficinas públicas o privadas. $7.50
+
+i).- Terminales terrestres, aéreas y marítimas. $10.00
+
+j).- Granjas. $6.00
+
+k).- Centrales de correo, teléfonos, telégrafos, radio, televisión y sistemas de microondas. $7.50
+
+8.- Para la elaboración de peritajes a solicitud de parte, en las edificaciones para el almacenamiento, distribución o expendio de hidrocarburo, como sigue:
+
+a).- De 1000 a 5000 litros $10.000.00
+
+b).- De 5001 a 20000 litros. $15.000.00
+
+c).- De 2001 a 100000 litros. $25.000.00
+
+d).- De 100001 a 250000 litros. $35.000.00
+
+e).- De 250001 litros en adelante. $60.000.00
+
+9.- Por la elaboración de peritajes de causalidad, a solicitud del interesado, que servirán de apoyo para programas preventivos y dictámenes en materia de protección civil, por metro cuadrado.
+
+a).- Viviendas para cinco familias o más y edificaciones con habitaciones colectivas para más de veinte personas. $20.00
+
+b).- Edificios públicos y salas de espectáculos. $20.00
+
+c).- instituciones educativas. $10.00
+
+d).- Hospitales, centros médicos, laboratorios, maternidades y puestos de socorro. $15.00
+
+e).- Comercios. $15.00
+
+f).- Almacenes y bodegas. $20.00
+
+g).- Industrias y talleres. $20.00
+
+h).- Oficinas públicas o privadas. $15.00
+
+i).- Terminales terrestres, aéreas y marítimas. $20.00
+
+j).- Granjas. $12.00
+
+k).- Centrales de correo, telefónos, telégrafos, radio, televisión y sistemas de microondas. $15.00
+
+10.- Para la elaboración de peritaje de causalidad a solicitud del interesado en las edificaciones para el almacenamiento, distribución o expendio de hidrocarburo, como sigue:
+
+a).- De 1000 a 5000 litros. $15.000.00
+
+b).- De 5001 a 20000 litros. $20.000.00
+
+c).- De 20001 a 100000 litros. $ 30.000.00
+
+d).- De 100001 a 250000 litros. $40.000.00
+
+e).- De 250001 litros en adelante. $60.000.00
+
+11.- Por la elaboración de programas internos de protección civil, con el que deberán contar los propietarios, poseedores, administradores o encargados de inmuebles o edificaciones que por su uso y destino concentren o reciban una afluencia masiva de personas, o bien representen un riesgo de daños para la población, por metro cuadrado de construcción.
+
+a).- Viviendas para cinco familias o más y edificaciones con habitaciones colectivas para más de veinte personas. $10.00
+
+b).-Edificios públicos y salas de espectáculos. $10.00
+
+c).- Instituciones educativas. $5.00
+
+d).- Hospitales, centros médicos, laboratorios, maternidades y puestos de socorro. $5.00
+
+e).- Comercios. $10.00
+
+f).- Almacenes y bodegas. $10.00
+
+g).- Industrias y talleres. $10.00
+
+h).- Oficinas públicas o privadas, $5.00
+
+i).- Terminales terrestres, aéreas y marítimas. $10.00
+
+j).- Granjas. $10.00
+
+k).- Centrales de correo, teléfonos, telégrafos, radio, televisión y sistemas de microondas. $5.00
 
 ## TITULO QUINTO. De los Productos y de los Aprovechamientos
 
@@ -4992,3 +5264,9 @@ De 500 a 750 cm 3 $ 36.00
 De 751 a 1000 cm 3 $ 68.00
 
 De 1001 en adelante $ 103.00
+
+B.O. 29 DE DICIEMBRE DE 2005.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor a partir del 1º de enero de 2006, previa su publicación en el boletín Oficial del Gobierno del Estado.
