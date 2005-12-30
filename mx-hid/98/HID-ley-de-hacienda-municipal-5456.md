@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-municipal-5456"
 country: "mx"
 rank: "ley"
 publication_date: "1982-12-31"
-last_updated: "2003-12-31"
+last_updated: "2005-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE HACIENDA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 31 de diciembre de 1982.
 
@@ -947,19 +947,21 @@ Toda persona física, moral o unidad económica que su actividad se encuentra co
 
 Este derecho se causará y pagará de conformidad con las cuotas y tarifas que para el Municipio que corresponda se contienen en el Título Octavo de esta Ley.
 
-#### SECCION CUARTA. DERECHOS POR SERVICIO DE REGISTRO DE MOTOCICLETAS, BICICLETAS Y VEHICULOS DE PROPULSION NO MECANICA Y OTROS SERVICIOS DE TRANSITO
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+#### SECCION CUARTA. DERECHOS POR SERVICIO DE EXPEDICION DE REGISTRO DE BICICLETAS Y VEHICULOS DE PROPULSION NO MECANICA Y OTROS SERVICIOS DE TRANSITO
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 88.
 
-Es objeto de este derecho el servicio de expedición de licencias y canje de placas de circulación, de motocicletas, bicicletas particulares, de alquiler para carro de mano de primera, de tracción animal; expedición de licencias para conducir toda clase de vehículos de motor y canje de las mismas.
+Es objeto de este derecho el servicio de expedición de licencias y canje de placas de circulación, de bicicletas particulares, de alquiler para carro de mano de primera, de tracción animal; expedición de licencias para conducir toda clase de vehículos de motor y canje de las mismas.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 89.
 
-Son sujetos del pago del derecho por el servicio de expedición de licencias y canje de placas. Todas las personas físicas, morales o unidades económicas que obstenta la propiedad o posesión de motocicletas, bicicletas particulares, de alquiler, para carro de mano de primera, de tracción animal y expedición de licencias para conducir toda clase de vehículos de motor.
+Son sujetos del pago del derecho por el servicio de expedición de licencias y canje de placas. Todas las personas físicas, morales o unidades económicas que ostenten la propiedad o posesión de bicicletas particulares o de alquiler para carro de mano de primera, de tracción animal y expedición de licencias para conducir toda clase de vehículos de motos.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
@@ -1815,7 +1817,7 @@ UNICO.- Previa su publicación en el Periódico Oficial del Gobierno del Estado,
 
 P.O. 28 DE JUNIO DE 1991.
 
-PRIMERO.- Previa su publicación en el Periódico Oficial del Gobierno del Estado, el presente Decreto entrará en vigor el día 1º de Julio de 1991.
+PRIMERO.- Previa su publicación en el Periódico Oficial del Gobierno del Estado, el presente Decreto entrará en vigor el día 1º. de Julio de 1991.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
@@ -1854,3 +1856,9 @@ Una vez aprobado el decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 31 DE DICIEMBRE DE 2003.
 
 UNICO.- PREVIA SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO. ESTE DECRETO ENTRARA EN VIGOR EL DIA 1º DE ENERO DEL AÑO 2004.
+
+P.O. 30 DE DICIEMBRE DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1º. de enero de 2006, previa su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
