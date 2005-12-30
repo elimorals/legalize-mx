@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-la-ley-del-equilibrio-ecologico-y-proteccion-3957
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-05-17"
-last_updated: "2005-10-24"
+last_updated: "2005-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39572&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 REGLAMENTO DE LA LEY DEL EQUILIBRIO ECOLOGICO Y PROTECCION AL AMBIENTE DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2005.
 
 Reglamento publicado en el Periódico Oficial del Estado de Michoacán, el lunes 17 de mayo de 2004.
 
@@ -2445,7 +2445,7 @@ La Secretaría fomentará la vigilancia social participativa con grupos sociales
 
 ### CAPÍTULO PRIMERO. DE LAS SANCIONES EN GENERAL
 
-(REUBICADO Y REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2005)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 224.
 
@@ -2457,13 +2457,13 @@ La Secretaría determinará el plazo en el cual los permisionarios deberán subs
 
 En caso de reincidencia, el monto de la multa podrá ser hasta por dos veces del monto originalmente impuesto, sin exceder del doble del máximo permitido.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 225.
 
 Independientemente de las sanciones que procedan de conformidad con lo que dispone el artículo anterior, y cuando la gravedad de la infracción lo amerite, la autoridad Estatal o Municipal, solicitará a quien lo hubiere otorgado, la revocación de las autorizaciones concedidas, la cancelación del registro para el establecimiento y operación de unidades de manejo para la conservación de la vida silvestre, y demás documentos concedidos en los términos de la Ley y el presente Reglamento.
 
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2005)</small>
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 24 DE OCTUBRE DE 2005)</small>
 
 #### SECCIÓN I. DE LA VERIFICACIÓN VEHICULAR
 
@@ -2475,7 +2475,7 @@ Artículo 225 bis.- La Secretaría, tendrá a su cargo la inspección y vigilanc
 
 #### SECCIÓN ll. DE LOS PROPIETARIOS O CONDUCTORES DE VEHÍCULOS
 
-(REUBICADO Y REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2005)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 226.
 
@@ -2491,15 +2491,13 @@ III. Con multa por el equivalente a sesenta días de salario mínimo general vig
 
 IV. Con la sanción prevista en el Reglamento de la Ley de Tránsito y Vialidad vigente en el Estado, por conducir vehículos automotores sin llevar adherida la calcomanía de verificación vehicular vigente, misma que será impuesta por la Secretaría de Seguridad Pública del Estado, o en su caso por la autoridad municipal competente, de acuerdo a su reglamento de tránsito.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 227.
 
 Cuando los propietarios o conductores de los vehículos que hayan sido sancionados conforme a lo dispuesto en el presente Reglamento, acudan a cubrir el importe de la multa dentro de los quince días hábiles siguientes, operará una reducción equivalente al cincuenta por ciento de la multa.
 
 En el caso de la sanción por realizar la verificación vehicular de manera extemporánea, la reducción a la que se refiere el párrafo anterior, aplicará cuando la multa sea pagada dentro de los quince días posteriores al mes en que le correspondía verificar, de acuerdo al calendario que establece este Programa.
-
-(REUBICADO, P.O. 24 DE OCTUBRE DE 2005)
 
 ###### Artículo 228.
 
@@ -2511,17 +2509,15 @@ Artículo 228 bis.- La Secretaría, la Secretaría de Seguridad Pública, la Com
 
 En caso de que las autoridades de la Secretaría de Seguridad Pública, detecten circulando un vehículo cuyo propietario hubiere sido sancionado, conforme al supuesto establecido en la fracción II del artículo 226 de este Reglamento, el vehículo será retirado de la circulación como medida preventiva, hasta en tanto el propietario cubra el monto de la multa correspondiente.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE OCTUBRE DE 2005)</small>
-
 ###### Artículo 229.
 
-El Ejecutivo del Estado a través de la Comisión Coordinadora del Transporte Público, podrá suspender o revocar la concesión o permiso para la prestación del servicio público de transporte, a quienes incumplan las medidas o restricciones de verificación vehicular, sin perjuicio de las sanciones que procedan, de conformidad con las disposiciones normativas aplicables.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2005)
 
 > <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2005)</small>
 
 #### SECCIÓN III. DE LOS PERMISIONARIOS DE LOS CENTROS
 
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 230.
 
@@ -2547,7 +2543,7 @@ IX. Con multa de mil días a mil quinientos días de salario mínimo vigente en 
 
 X. Con multa de hasta quinientos días de salario mínimo vigente en el Estado, por incurrir en cualquier acto determinado por la Secretaría, que implique incumplimiento parcial o total del presente Reglamento, del Programa de Verificación Vehicular correspondiente o de la normativa aplicable.
 
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2005)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 24 DE OCTUBRE DE 2005)</small>
 
 #### SECCIÓN IV. DE LA SUSPENSIÓN Y REVOCACIÓN DE LOS PERMISOS DE LOS CENTROS DE VERIFICACIÓN VEHICULAR
 
@@ -2671,7 +2667,7 @@ Secretaria de Contraloría y Desarrollo Administrativo
 
 (Firmado)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 24 DE OCTUBRE DE 2005.
 
@@ -2682,3 +2678,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones administrativas en lo que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
