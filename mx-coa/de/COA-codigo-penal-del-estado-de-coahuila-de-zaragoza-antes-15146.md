@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2005-11-25"
+last_updated: "2005-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO PENAL DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2005.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -229,7 +229,7 @@ II. ERROR DE EXIGIBILIDAD. Cuando se realiza bajo error invencible de exigibilid
 
 Existe error de exigibilidad cuando las circunstancias objetivas que motivan la conducta del agente, le originan la creencia falsa de una causa que conforma estado de necesidad inculpable o temor fundado.
 
-> <small>(F. DE E., P.O. 10 DE AGOSTO DE 1999)</small>
+> <small>(F. DE E. P.O. 10 DE AGOSTO DE 1999)</small>
 
 El error de exigibilidad es invencible cuando las condiciones personales del agente y circunstancias del caso le impiden o dificultan advertir su falsa apreciación.
 
@@ -1223,13 +1223,15 @@ VI. ABUSO CONTRA LA SEGURIDAD PERSONAL. Estando encargado de la custodia o condu
 
 #### SECCIÓN PRIMERA. BASES GENERALES
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 67.
 
-CONCEPTO, DURACIÓN Y MODALIDADES. La pena de prisión consiste en privar de la libertad al sentenciado.
+CONCEPTO, DURACIÓN Y MOBILIDADES. La pena de prisión consiste en la privación de la libertad personal y se cumplirá en los Centros destinados para el efecto por el Ejecutivo del Estado, ajustándose a lo dispuesto en la resolución judicial que la decrete y de manera que se procure la readaptación del sentenciado.
 
-Nunca será menor de tres días, ni mayor de cincuenta años. Con excepción de los casos que prevé este código. Igualmente, en los delitos de homicidio calificado; parricidio; matricidio, filicidio, uxoricidio, fratricidio; secuestro; secuestro equiparado; violación; violación equiparada; violación agravada; violación por instrumento distinto al natural; y robo agravado; cuando concurran con uno o más delitos iguales o distintos y según las reglas del concurso, en los que el límite máximo de la pena será de sesenta años.
+El mínimo de la pena privativa de libertad nunca será menor de tres días. El máximo no será mayor de sesenta años, excepto que se trate de los delitos de rebelión, terrorismo, homicidio calificado, parricidio, matricidio, filicidio, uxoricidio, fratricidio, secuestro, secuestro equiparado, violación, violación equiparada, violación agravada, violación por instrumento distinto al natural y robo agravado, cuando concurran con uno o más delitos iguales o distintos, casos en los cuales deberán aplicarse las reglas del concurso, independientemente de que la pena de prisión que resulte exceda de la máxima señalada.
 
-En toda sentencia que imponga una pena de prisión se computará el tiempo de la detención y de la prisión preventiva.
+En toda sentencia que imponga una pena de prisión, se computará el tiempo de la detención y de la previsión preventiva.
 
 ###### ARTÍCULO 213.
 
@@ -2371,9 +2373,11 @@ INICIATIVA PARA DECLARAR LA PRESCRIPCIÓN Y AUTORIDAD COMPETENTE PARA DECIDIR. L
 
 La prescripción de la sanción penal se declarará por el juzgador. Si la autoridad ejecutora, una vez que tenga a su disposición al sentenciado, advierte que la sanción prescribió, hará saber esta circunstancia al juzgador, quien decidirá de plano.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 164.
 
-DELITOS EN LOS QUE LA ACCIÓN Y LAS SANCIONES PENALES SON IMPRESCRIPTIBLES. La acción penal que surja o las sanciones penales que se impongan con motivo de los delitos de homicidio simple doloso o que se cometa con cualquier modalidad agravante o calificativa; así como de secuestro o secuestro equiparado, consumado o en grado de tentativa; serán imprescriptibles.
+DELITOS EN LOS QUE LA ACCIÓN Y LAS SANCIONES PENALES SON IMPRECRIPTIBLES (SIC). La acción penal que surja o las sanciones penales que se impongan con motivo de los delitos de homicidio simple doloso o que se cometa con cualquier modalidad agravante o calificativa; así como el secuestro y la violación de menores de doce años e incapaces, será imprescriptible.
 
 ###### ARTÍCULO 274.
 
@@ -2971,7 +2975,7 @@ Se aplicarán las últimas sanciones del párrafo anterior en caso de que la có
 
 ### CAPÍTULO SEGUNDO. SECUESTRO
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 327.
 
@@ -3105,15 +3109,23 @@ CIRCUNSTANCIAS CALIFICATIVAS DE HOMICIDIO Y LESIONES. Se entiende que el homicid
 
 I. RETRIBUCIÓN DADA O PROMETIDA. Cuando se ejecuten por retribución dada o prometida.
 
-II. MOTIVOS DEPRAVADOS. Cuando se cometan por motivos depravados.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-III. INUNDACIÓN, INCENDIO, MINAS, BOMBAS O EXPLOSIVOS. Cuando se causen por inundación, incendio, minas, bombas o explosivos.
+II. MOTIVOS DEPRAVADOS. Cuando se cometan por motivos depravados; placer; codicia; o por odio racial, de género, de preferencia sexual o religioso.
 
-IV. TORMENTO, ENSAÑAMIENTO O CRUELDAD. Cuando se dé tormento o se obre con ensañamiento o con crueldad.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+III. INUNDACIÓN, INCENDIO, MINAS, BOMBAS O EXPLOSIVOS. Cuando se causen por inundación, incendio, minas, bombas, explosivos o cualquier otro medio para crear un peligro común.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+IV. TORMENTOS, ENSAÑAMIENTO O CRUELDAD. Cuando se someta a la víctima a graves e innecesarios dolores físicos o psíquicos para aumentar su sufrimiento, cuando se le dé tormento o se obre con ensañamiento o crueldad.
 
 V. ENVENENAMIENTO, CONTAGIO, ESTUPEFACIENTES O PSICOTRÓPICOS. Cuando se causen por envenenamiento, contagio, estupefacientes o psicotrópicos.
 
 VI. BRUTAL FEROCIDAD. Cuando se ejecuten con brutal ferocidad.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
 VII. PREMEDITACIÓN, VENTAJA, ALEVOSÍA O TRAICIÓN. Cuando se cometan con premeditación, ventaja, alevosía o traición.
 
@@ -3121,15 +3133,27 @@ Hay premeditación, cuando el agente reflexiona serenamente sobre el homicidio o
 
 Hay ventaja, cuando el delincuente no corre el riesgo de ser muerto ni lesionado por el ofendido, con conocimiento de dicha circunstancia.
 
-Hay alevosía, cuando el agente sorprende intencionalmente a alguno de improviso, anulando su defensa.
+Hay alevosía, cuando el agente sorprende intencionalmente a alguno de improviso, anulando su defensa, o se aproveche del estado de indefensión de la víctima.
 
-Hay traición, cuando la fe o la seguridad que la víctima debía esperar del acusado, se utiliza como medio para ejecutar el delito.
+Hay traición, cuando la fe o la seguridad que la víctima debía esperar del agente, se utiliza como medio para ejecutar el delito.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+VIII. CONCURSO DE AUTORES. Cuando se cometan con el concurso premeditado de dos o más personas.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+IX. PREPARACIÓN, FACILITACIÓN, CONSUMACIÓN U OCULTAMIENTO DE OTRO DELITO. Se ejecuten para preparar, facilitar, consumar u ocultar otro delito, o para asegurar sus resultados, o procurar la impunidad para sí o para otro.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+X. FRUSTRACIÓN DEL FIN PROPUESTO AL INTENTAR OTRO DELITO. Por el mero motivo de no haber logrado el fin propuesto al intentar otro delito.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 351.
 
-OTRAS CIRCUNSTANCIAS DE AGRAVACION EN LESIONES Y HOMICIDIO DOLOSOS. El homicidio doloso que se cometa con motivo de un secuestro, violación o robo: se sancionará con sesenta años de prisión en su penalidad máxima. Las lesiones dolosas que se cometan con motivo de esos delitos: se sancionarán con la penalidad de las lesiones calificadas como si concurriera una calificativa, con independencia de la penalidad que corresponda por otras calificativas que en su caso concurran y de las penas que correspondan por los demás delitos.
+OTRAS CIRCUNSTANCIAS DE AGRAVACIÓN EN LESIONES Y HOMICIDIO DOLOSO. El homicidio doloso que se cometa con motivo de un secuestro, violación o robo, se sancionará conforme a lo dispuesto en el párrafo segundo del artículo 67. Las lesiones dolosas que se cometan con motivo de esos delitos, se sancionarán con la penalidad de las lesiones calificadas, con independencia de las penas que correspondan por los demás delitos.
 
 ###### ARTÍCULO 352.
 
@@ -3155,9 +3179,9 @@ SANCIONES Y FIGURA TÍPICA DE EUTANASIA. Se aplicará de tres meses a tres años
 
 SANCIONES Y FIGURAS TÍPICAS DE PARRICIDIO, MATRICIDIO, FILICIDIO, UXORICIDIO, FRATRICIDIO Y OTROS HOMICIDIOS POR RAZON DEL PARENTESCO O RELACIÓN. Se aplicará de siete a treinta años de prisión y multa: A quien prive de la vida a su ascendiente o descendiente consanguíneo en línea recta, hermano, cónyuge, concubina o concubinario, adoptante o adoptado, con conocimiento de esa relación.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-El tipo penal de la figura anterior será comunicable y, en su caso, admitirá las modalidades agravantes o atenuantes del homicidio doloso y sus reglas de penalidad.
+El tipo penal de la figura anterior admitirá las modalidades agravantes o atenuantes del homicidio doloso y sus penalidades, así como las del concurso conforme a lo dispuesto en el artículo 67.
 
 ### CAPÍTULO SEGUNDO. RAPTO
 
@@ -3259,15 +3283,9 @@ SANCIONES Y FIGURA TÍPICA DE DISPARO DE ARMA DE FUEGO. Se aplicará prisión de
 
 ## TÍTULO TERCERO. DELITOS CONTRA LA LIBERTAD Y SEGURIDAD SEXUAL
 
-### CAPÍTULO QUINTO. ACOSO SEXUAL
+### CAPITULO QUINTO. ACOSO SEXUAL
 
 > <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
-
-ARTÍCULO 399 BIS. SANCIONES Y FIGURA TIPICA DE ACOSO SEXUAL. Se aplicará de uno a tres años de prisión y multa, a quien con fines lascivos asedie, acose o solicite favores de naturaleza sexual a cualquier persona, para sí o para un tercero.
-
-Será punible el acoso sexual cuando el sujeto activo pueda causar un daño personal, laboral, educativo, profesional o patrimonial.
-
-Las sanciones mínima y máxima se aumentarán en un tercio más si el sujeto activo fuere servidor público y utilizare los medios propios del cargo, y será destituido e inhabilitado para ocupar empleo, cargo o comisión en el sector público por un período de uno a tres años.
 
 ###### ARTÍCULO 368.
 
@@ -3295,7 +3313,73 @@ SANCIONES Y FIGURA TÍPICA EQUIPARADA A LA PRIVACIÓN DE LIBERTAD. Se aplicará 
 
 ###### ARTÍCULO 371.
 
-SANCIONES Y FIGURA TÍPICA DE SECUESTRO. Se aplicará de veinte a cuarenta y cinco años de prisión y multa: A quien por cualquier medio prive a otro de la libertad, con el fin de obtener rescate o cualquier beneficio; o para causar al secuestrado o a personas relacionadas con éste, daños o perjuicios ajenos al secuestro.
+SANCIÓN, CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA Y FIGURA TÍPICA DE SECUESTRO. Al que por cualquier medio prive de la libertad a otro se le aplicará:
+
+I. FIGURA BÁSICA. De dieciséis a cuarenta años de prisión y multa, si la privación de la libertad se realiza con cualquiera de los siguientes propósitos:
+
+1) Obtener rescate para sí o para un tercero, o cualquier otra ventaja indebida.
+
+2) Causar daño o perjuicio al secuestrado o a otra persona.
+
+3) Detener en calidad de rehén a una persona y amenazar con privarla de la vida o con causarle daño, para que la autoridad o un particular realice o deje de realizar un acto cualquiera.
+
+II. CIRCUNSTANCIAS AGRAVANTES. De veinte a cincuenta años de prisión y multa, si en la privación de la libertad a que se hace referencia en la fracción anterior concurre alguna o algunas de las circunstancias siguientes:
+
+1) Que la víctima sea menor de dieciocho años o mayor de sesenta, mujer embarazadas (sic); o se trate de una persona incapaz o enferma que requiere el suministro de medicamentos o tratamientos especiales, o que por su condición de salud física o estado mental se encuentre en desventaja frente al secuestrador.
+
+2) Si se ejecuta la conducta en un pariente hasta el cuarto grado de consanguinidad, segundo de afinidad o primero civil, sobre la cónyuge o el cónyuge, la concubina o el concubinario, o aprovechando la confianza depositada por la víctima en el autor o en alguno o algunos de los copartícipes por razones de amistad, gratitud, trabajo u otro motivo similar.
+
+3) Cuando el delito se cometa en persona que sea funcionario o servidor público, o dirigente sindical, empresarial o religión, o candidato a un cargo de elección popular, o periodista o comunicador y por razón de sus funciones.
+
+4) Cuando el secuestro se cometa en casa habitación, sitio de trabajo, cualquiera de las rutas o lugares comúnmente frecuentados por el pasivo, inmediaciones de los mismos, en vías o caminos públicos, en despoblado o sitios solitarios o en áreas desprotegidas.
+
+5) Si el hecho se comete utilizando orden de aprehensión o detención falsificada o simulando tenerla.
+
+6) Si el autor es o ha sido integrante de alguna institución de seguridad pública, o se ostenta como tal sin serlo.
+
+7) Que el activo utilice instalaciones o bienes gubernamentales, frecuencias, claves o códigos oficiales, o se valga de redes o sistemas informáticos internacionales o de otros medios de alta tecnología, que impliquen marcada ventaja en el logro de su fin.
+
+8) Que quienes lo lleven a cabo obren en grupo de dos o más personas.
+
+9) Si el secuestro se comete contra más de una persona, sin perjuicio de las reglas aplicables en materia de concurso.
+
+10) Que se realice con violencia física o moral ejercida en contra de la víctima o algún tercero.
+
+11) Cuando se haga uso de armas en el momento de la comisión o en acto o en actos inmediatos posteriores.
+
+12) Que si se somete a la víctima a tortura física o moral, maltrato o vejaciones, o a violencia sexual durante el tiempo que permanezca secuestrada, con independencia de las penas que correspondan, por los delitos que resulten, según las reglas del concurso de delitos.
+
+13) Cuando se comete con la finalidad de extraer al pasivo cualquier parte de su cuerpo para transplante.
+
+14) Si la privación de la libertad del secuestro se prolonga por más de cinco días.
+
+15) Cuando se presione la entrega o verificación de lo exigido, con amenaza de muerte o lesión o con ejecutar actos que impliquen grave peligro común o grave perjuicio a la comunidad o a la salud pública.
+
+16) Cuando se cometa con fines terroristas.
+
+17) Si el activo persuade u obliga a l (sic) víctima a que realice directa o indirectamente, operaciones o transacciones bancarias, mercantiles, civiles, o cualquier otra que produzca liberación de efectivo o transmisión de obligaciones, se obtenga o no el beneficio.
+
+18) Si se obtiene la utilidad, provecho o finalidad perseguidos por los autores o copartícipes.
+
+19) Cuando se afecten gravemente los bienes o la actividad profesional o económica de la víctima.
+
+20) Si el secuestrador obliga bajo amenazas, engaños o violencia a un tercero a participar en cualquier etapa del delito.
+
+III. AGRAVACIÓN ESPECIAL. De treinta a sesenta años de prisión y multa, si con motivo de la privación de la libertad a que se hace referencia en la fracción I, concurre alguna de las circunstancias siguientes:
+
+1) Si el secuestrado fallece, por cualquier motivo, durante el tiempo en que se encuentre privado de su libertad.
+
+2) Si después de puesto en libertad, el secuestrado muere por causas directamente relacionadas con el secuestro, dentro de los trescientos días siguientes a aquél en que cesó la privación de su libertad.
+
+3) Si el cónyuge o la cónyuge, la concubina o el concubinario, la madre o el padre, la hija o el hijo sin haber sido víctimas directas del ilícito, mueren por alteraciones de salud que sean consecuencias inmediata y directa del delito, si el deceso se produce durante el secuestro o dentro de los sesenta días siguientes.
+
+Si el secuestrado es privado de la vida en forma intencional por su o sus secuestradores; el secuestro se castigará en base a las penas mínimas y máximas previstas en las fracciones I y II de este artículo, según sea el caso, y conforme a las reglas del concurso, tal y como lo prevé artículo 67.
+
+Si espontáneamente se libera al secuestrado dentro de los tres días siguientes al de la privación de la libertad, sin lograr alguno de los propósitos a que se refiere la fracción I de este artículo y sin que se haya presentado alguna de las circunstancias previstas en la fracción II, la pena será de tres a nueve años de prisión y multa.
+
+Si se dan una o más circunstancias de las previstas en la fracción II y espontáneamente se libera al secuestrado, sin lograr alguno de los propósitos a que se refiere la fracción I de este artículo, la pena de prisión aplicable será de cinco a quince años y multa.
+
+No habrá lugar a la atenuación a que se refiere el párrafo anterior, si concurriere una de las causas señaladas en los numerales 12, 13 y 16 de la fracción II de este artículo.
 
 > <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2004)</small>
 
@@ -3313,31 +3397,53 @@ V. SECUESTRO POR SERVIDOR PÚBLICO O MIEMBRO DE SEGURIDAD PRIVADA. Cuando interv
 
 Así como la utilización de insignias, uniformes, placas, claves o códigos oficiales, en cuyo caso además de la pena señalada se impondrá según proceda la destitución del empleo, cargo o comisión y la inhabilitación definitiva para desempeñar cualquiera como servidor público, con aquel u otro carácter.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO 372.
 
-ATENUACIÓN DE LAS SANCIONES POR LIBERACIÓN ESPÓNTANEA DEL SECUESTRADO. Se aplicará prisión de cinco a quince años y multa: Al autor o partícipe que ponga espontáneamente en libertad a la persona secuestrada dentro de tres días, sin cobrar rescate, ni obtener el beneficio o causar el perjuicio; ni durante la privación le causen al secuestrado lesiones leves o de mayor gravedad.
+BENEFICIOS POR COLABORACIÓN. El activo que comunique a la autoridad antes de su copartícipes la información veraz con pormenores que haga posible evitar o impedir el secuestro, o producido éste, identifique a todos o algunos de los coautores o partícipes de la comisión del delito o se logre localizar a la víctima sin mayor menoscabo de salud, será sujeto a los beneficios siguientes, según el caso:
+
+I. Si la información se produce antes de la comisión del ilícito, y la conducta conformare tentativa, la pena será de tres meses a tres años de prisión y multa.
+
+II. Si la información se proporciona una vez consumado el delito, ante el Ministerio Público en la averiguación previa, la pena será de uno a cinco años de prisión y multa.
+
+III. Si la información aconteciere durante el proceso, la pena será de tres a nueve años de prisión y multa.
+
+Cuando la información provenga de persona vinculada a uno de los secuestradores por lazos de parentesco o amistad, el activo ligado con el informe se le impondrá una pena de cuatro a doce años de prisión y multa.
+
+El Ministerio Público o el Juez, según corresponda, proporcionarán protección y vigilancia al activo o al informante a que se refiere este artículo.
+
+Las atenuantes aquí señaladas, serán de aplicación única y exclusivamente para el delito por el cual se colabora con la autoridad, sin que se apliquen a conductas anteriores atribuibles a quien se acoja o reciba estos beneficios y en ningún caso aprovecharán a los demás coautores.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 373.
 
-SANCIONES Y FIGURA TÍPICA EQUIPARADA AL SECUESTRO. Se equipara al secuestro y se aplicará de diez a treinta años de prisión y multa: A quien de forma transitoria que no exceda de más de seis horas, prive de la libertad a una persona en calidad de rehén y la amenace con privarla de la vida o causarle daño, para obligarlo a él o a otro que realicen un acto que les cause a cualquiera de ellos daño patrimonial; o para conservar el producto de un robo o asegurar la huida después de cometido.
+SANCIÓN Y FIGURAS TÍPICAS RELACIONADAS CON EL SECUESTRO. Se impondrá de uno a ocho años de prisión y multa, al que en relación con las conductas mencionadas en el artículo 371 y sin que le beneficie ninguna excluyente de incriminación:
 
-Se aplicará prisión de cinco a diez años y multa: Al autor o partícipe que ponga espontáneamente en libertad a la persona secuestrada en calidad de rehén, dentro de las veinticuatro horas siguientes; sin amenazarla ni causarle daño, ni tampoco comunicar sus fines al rehén o tercero.
+I. Conozcan los planes o actividades encaminados a la ejecución de un secuestro y no dé aviso oportuno a la autoridad u omita su denuncia. Si tiene conocimiento de sus autores o copartícipes.
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+II. Sin concierto previo, ayude a eludir la acción de la autoridad, o entorpezca la investigación correspondiente.
 
-En todos los casos anteriores, si la privación de la libertad excede de seis horas, se sancionará con las penas del secuestro.
+III. Actúe como internamiento en las negociaciones de rescate, sin el acuerdo de quienes representen o gestionen a favor de la víctima.
+
+IV. Colaboren en la difusión pública de las pretensiones o mensajes de los secuestradores, fuera de estricto derecho de información.
+
+V. Con fines lucrativos, actúe como asesor de quien represente o gestione a favor de la víctima o en el mismo ánimo, efectúe el cambio de moneda nacional por divisas, o el de éstas por moneda nacional, sabiendo que dicho cambio se hace con el propósito directo de pagar el rescate a que se refiere la fracción I del artículo 371.
+
+VI. Intimide a la víctima, a sus familiares o a sus representantes o gestores, durante el secuestro para después de éste, para que no colaboren con las autoridades competentes.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 374.
 
-INTERVENCIÓN OFICIOSA DE LAS AUTORIDADES Y SANCIONES POR LESIONES U HOMICIDIO AL SECUESTRADO. El delito de secuestro o su equiparado se perseguirán de oficio y la autoridad intervendrá tan pronto tenga conocimiento del ilícito, aun cuando el ofendido o sus familiares se opongan a ello, pero procurando siempre la salvaguardia del secuestrado.
+INTERVENCIÓN OFICIOSA DE LAS AUTORIDADES. El delito de secuestro se perseguirá de oficio y las (sic) autoridad intervendrá tan pronto tenga conocimiento del ilícito, aún cuando el ofendido o sus familiares se opongan a ello, pero procurando siempre la salvaguarda del secuestrado.
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2004)</small>
+La Procuraduría General de Justicia del Estado dispondrá de sistemas especiales de vigilancia y seguimiento en los casos de investigación y juzgamiento de los delitos de secuestro y de la desaparición de personas.
 
-A los servidores públicos que teniendo el deber de hacerlo no procedan en los términos de esta disposición se les impondrá de tres meses a tres años de prisión, multa, destitución del empleo o cargo; e inhabilitación hasta por cinco años para desempeñar cualquier empleo cargo o comisión públicos.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-La pena máxima de prisión se aumentará a sesenta años, además de la multa, si al secuestrado conforme a los artículos anteriores, se le causan lesiones graves o gravísimas; o la muerte.
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2004)</small>
+ARTÍCULO 375 SANCIONES Y FIGURAS TÍPICA DE SECUESTRO SIMULADO. Se aplicará de cinco a diez años de prisión y multa, a quien simule o argumente falsamente el secuestro de una persona y pida obtener cualquier beneficio, o que se realice o se deje de realizar algún acto.
 
 ###### ARTÍCULO 375.
 
@@ -3465,6 +3571,10 @@ Las mismas sanciones se aplicarán: A quien ilícitamente introduzca en forma to
 
 Se incrementará en un tercio el mínimo y el máximo de las sanciones de los párrafos anteriores, cuando concurra cualquiera de las circunstancias calificativas del artículo anterior.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+ARTÍCULO 388 BIS. ACCESO CARNAL VIOLENTO Y VIOLACIÓN CON RESULTADO DE MUERTE O LESIONES. Si el autor matare a la víctima o a través de la violencia sexual o de la violación le causare la muerte; además de las sanciones que le correspondan por el delito de violación, se le aplicarán las propias del homicidio doloso o culposo, según sea el caso, atendiendo a las reglas del concurso, en los términos del segundo párrafo del artículo 67. Las lesiones dolosas que resulten de la comisión de este delito se sancionarán, además de las que le son propias, con la penalidad de las lesiones calificadas.
+
 ### CAPÍTULO TERCERO. FIGURAS COMUNES AL ROBO Y ABIGEATO
 
 ###### ARTÍCULO 389.
@@ -3535,7 +3645,7 @@ Si se emplea violencia física o moral suficiente para intimidar a la víctima y
 
 CONDICIÓN DE PROCEDIBILIDAD PARA LA PERSECUCIÓN DE ALGUNOS DELITOS DE ATENTADOS AL PUDOR. Los delitos de atentados al pudor propio o impropio; con excepción de cuando se emplee la violencia; sólo se perseguirán por querella del ofendido o de sus representantes legítimos. Y si no los tuviere: Por la dependencia que se encargue legalmente de los asuntos del menor o de la familia, si así lo estima conveniente a los intereses del ofendido. Tratándose de atentados al pudor impropio, sólo los representantes legítimos o la dependencia que se encargue de los asuntos del menor o de la familia, podrá otorgar el perdón.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
 ### CAPÍTULO SEXTO. ADMINISTRACIÓN FRAUDULENTA
 
@@ -3546,6 +3656,14 @@ CONDICIÓN DE PROCEDIBILIDAD PARA LA PERSECUCIÓN DE ALGUNOS DELITOS DE ATENTADO
 ## TÍTULO QUINTO. DELITOS CONTRA EL PATRIMONIO
 
 ### CAPÍTULO OCTAVO. DESPOJO
+
+###### ARTÍCULO 399
+
+BIS. SANCIONES Y FIGURA TIPICA DE ACOSO SEXUAL. Se aplicará de uno a tres años de prisión y multa, a quien con fines lascivos asedie, acose o solicite favores de naturaleza sexual a cualquier persona, para sí o para un tercero.
+
+Será punible el acoso sexual cuando el sujeto activo pueda causar un daño personal, laboral, educativo, profesional o patrimonial.
+
+Las sanciones mínima y máxima se aumentarán en un tercio más si el sujeto activo fuere servidor público y utilizare los medios propios del cargo, y será destituido e inhabilitado para ocupar empleo, cargo o comisión en el sector público por un período de uno a tres años.
 
 ###### ARTÍCULO 400.
 
@@ -3690,6 +3808,10 @@ En estos casos, se le aplicará, además, destitución e inhabilitación definit
 > <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2004)</small>
 
 X. ROBO SIRVIÉNDOSE DE UN MENOR. Cuando el robo se cometa valiéndose de un menor de dieciséis años de edad si acaso éste realiza materialmente el apoderamiento de la cosa.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+ARTÍCULO 415 BIS. ROBO CON RESULTADO DE MUERTE O LESIONES. Si como resultado de la violencia ejercida por el autor del robo sobre la víctima, le causare la muerte, se le sancionará en los términos del segundo párrafo del artículo 67. Las lesiones dolosas que resulten de la comisión de este delito se sancionarán, además de las que le son propias, con la penalidad de las lesiones calificadas.
 
 ###### ARTÍCULO 416.
 
@@ -4056,3 +4178,9 @@ UNICO. El presente decreto entrará en vigor a los noventa días hábiles siguie
 P.O. 25 DE NOVIEMBRE DE 2005.
 
 ÚNICO. El presente Decreto entrará en vigor a los treinta días hábiles siguientes a su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2005.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a este decreto. No obstante, se estará a lo dispuesto en los artículos 3º, 4º y 5º del Código Penal para el Estado de Coahuila, en cuanto al ámbito temporal de vigencia de las leyes penales.
