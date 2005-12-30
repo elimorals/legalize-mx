@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2004-12-13"
+last_updated: "2005-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE DEFENSA SOCIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2005.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -751,9 +751,11 @@ Cuando exista reincidencia en el delito de imprudencia y tanto en uno como en el
 
 Cuando con el delito de imprudencia se cause homicidio o lesiones de las enumeradas en el artículo 307, se sancionará con dos a nueve años de prisión, si el acusado, al cometer el delito, se hallaba en estado de embriaguez, superior al primer grado, o bajo el efecto de enervantes, estupefacientes o psicotrópicos o cualquier substancia que produzca un efecto similar.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 86.
 
-Cuando se causa homicidio de dos o más personas por actos u omisiones imprudenciales de quien realiza un servicio público de transporte, la sanción será de seis a quince años de prisión e inhabilitación para transportar pasajeros, aun en forma ocasional.
+Cuando se cause homicidio por actos u omisiones culposos de quien realiza un servicio público de transporte, la sanción será de seis a quince años de prisión e inhabilitación de dos a diez años para transportar pasajeros, aún si lo hiciere en forma ocasional.
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
@@ -4228,3 +4230,9 @@ DECRETO QUE REFORMA LOS ARTICULOS 297, 375, 380, 390, 391, 398 Y 414 DEL CODIGO 
 PRIMERO.- El presente Decreto entrará en vigor seis meses después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
