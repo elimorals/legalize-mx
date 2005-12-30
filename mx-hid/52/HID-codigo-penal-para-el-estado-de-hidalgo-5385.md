@@ -4,7 +4,7 @@ identifier: "HID-codigo-penal-para-el-estado-de-hidalgo-5385"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2005-03-28"
+last_updated: "2005-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CODIGO PENAL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2005.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990.
 
@@ -1571,9 +1571,17 @@ I.- Obtener un rescate;
 
 II.- Que la autoridad realice o deje de hacer un acto de cualquier índole;
 
-III.- Causar daño o perjuicio al secuestrado o a persona distinta relacionada con él; u
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-IV.- Obligarlo a hacer o dejar de hacer un acto de cualquier índole, o para que un tercero lo haga o lo omita.
+III.- Causar daño o perjuicio al secuestrado o a persona distinta relacionada con él;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+IV.- Obligarlo a hacer o dejar de hacer un acto de cualquier índole, o para que un tercero lo haga o lo omita; y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+V.- Cometer secuestro exprés, entendiéndose por éste, el que prive de la libertad a otro por el tiempo estrictamente indispensable para cometer los delitos de robo o extorsión o para obtener algún beneficio económico. Lo anterior, con independencia de las demás sanciones que conforme a este Código le correspondan por otros delitos que de su conducta resulten.
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
 
@@ -3406,3 +3414,7 @@ UNICO.- El presente Decreto, entrará en vigor al día siguiente de su publicaci
 P.O. 28 DE MARZO DE 2005.
 
 ÚNICO.- El presente Decreto, entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 30 DE DICIEMBRE DE 2005.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
