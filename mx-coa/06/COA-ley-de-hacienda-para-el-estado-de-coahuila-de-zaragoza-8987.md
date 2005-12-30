@@ -4,7 +4,7 @@ identifier: "COA-ley-de-hacienda-para-el-estado-de-coahuila-de-zaragoza-8987"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-22"
-last_updated: "2004-12-31"
+last_updated: "2005-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8987&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 22 de diciembre de 1995.
 
@@ -277,11 +277,11 @@ El pago de este impuesto deberá efectuarse en las oficinas recaudadoras de la S
 
 Cuando los contribuyentes cuenten con sucursales en diversos municipios del Estado, deberán presentar declaración en cada municipio en que se encuentren ubicadas las sucursales. En aquéllos casos en que no exista oficina recaudadora en el municipio de que se trate, las declaraciones podrán ser presentadas en las instituciones de crédito o establecimientos autorizados más cercanos al domicilio del contribuyente.
 
-(ACTUALIZADA EN SU MONTO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2004)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 27.
 
-Los contribuyentes podrán optar por pagar en la declaración del mes de enero, el impuesto correspondiente a todo el ejercicio fiscal, siempre y cuando el monto de lo pagado en el ejercicio anterior, no haya excedido de la cantidad de $15,810.00 (QUINCE MIL OCHOCIENTOS DIEZ PESOS 00/100 M.N.).
+Los contribuyentes podrán optar por pagar en la declaración del mes de enero el impuesto correspondiente a todo el ejercicio fiscal, siempre y cuando, el monto de lo pagado en el ejercicio anterior, no haya excedido de la cantidad de $30,000.000 (TREINTA MIL PESOS 00/100 M.N.).
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -349,7 +349,9 @@ II.- Las erogaciones que efectúen:
 
 4. Partidos y asociaciones políticas constituidos conforme a la ley de la materia;
 
-5. Instituciones educativas públicas y privadas;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+5. Instituciones educativas públicas y privadas incorporadas al Sistema Educativo Estatal;
 
 6. Ejidos y comunidades;
 
@@ -1735,11 +1737,9 @@ b).- De más de 10 años y hasta 20 años de fabricación anteriores al ejercici
 
 c).- De más de 20 años de fabricación anteriores al ejercicio fiscal en curso, $345.00 (TRESCIENTOS CUARENTA Y CINCO PESOS 00/100 M.N.).
 
-(ACTUALIZADO EN SU MONTO, P.O. 31 DE DICIEMBRE DE 2004)
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-d) Los vehículos de carga para más de tres toneladas, ómnibuses y tractores no agrícolas tipo quinta rueda, además de la cuota que les corresponde conforme a los subincisos anteriores, deberán pagar la cantidad de $527.00 (QUINIENTOS VEINTISIETE PESOS 00/100 M.N.) con el refrendo anual, a excepción de los vehículos que presten el servicio público de pasajeros o carga, mediante concesión otorgada por las autoridades estatales o municipales.
-
-Los ingresos que se generen conforme al párrafo anterior, deberán destinarse al pago de programas de rehabilitación y mejoramiento de las vías de comunicación.
+d) Los vehículos con capacidad de carga de tres o más toneladas, omnibuses y tractores no agrícolas tipo quinta rueda, además de la cuota que les corresponde conforme a los subincisos anteriores, deberán pagar la cantidad de $543.00 (QUINIENTOS CUARENTA Y TRES PESOS 00/100 M.N.) con el refrendo anual, a excepción de los vehículos que presten el servicio público de pasajeros o carga, mediante concesión otorgada por las autoridades estatales o municipales.
 
 (ACTUALIZADO EN SU MONTO, P.O. 31 DE DICIEMBRE DE 2004)
 
@@ -2093,7 +2093,9 @@ I.- Registros de títulos profesionales, excepto los que expidan las Escuelas No
 
 II.- Registro de títulos profesionales que procedan de otro Estado, $745.00 (SETECIENTOS CUARENTA Y CINCO PESOS 00/100 M.N.);
 
-III.- Registro de diplomas comerciales, $326.00 (TRESCIENTOS VEINTISEIS PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+III.- Registro de documentos que acrediten estudios en escuelas comerciales o de formación para el trabajo, $336.00 (TRESCIENTOS TREINTA Y SEIS PESOS 00/100 M.N.);
 
 (ACTUALIZADA EN SU MONTO, P.O. 31 DE DICIEMBRE DE 2004)
 
@@ -2107,9 +2109,9 @@ V.- Por autorización de incorporación de planteles escolares $15,542.00 (QUINC
 
 VI.- Por trámite de autorización para la incorporación de planteles escolares $1,554.00 (MIL QUINIENTOS CINCUENTA Y CUATRO PESOS 00/100 M.N.);
 
-(ACTUALIZADA EN SU MONTO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2004)
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-VII.- Por incorporación y el refrendo anual al sistema educativo estatal de las escuelas particulares de educación inicial, preescolar, primaria, secundaria y academias comerciales o carreras terminales sin bachillerato $34.00 (TREINTA Y CUATRO PESOS 00/100 M.N.) por alumno.
+VII.- Por incorporación y el refrendo anual al sistema educativo estatal de las escuelas particulares de educación inicial, preescolar, primaria, secundaria bachillerato, academias comerciales o carreras terminales sin bachillerato y educación superior $35.00 (TREINTA Y CINCO PESOS 00/100 M.N.), por alumno.
 
 Los derechos que establece esta fracción, deberán pagarse dentro del mes de octubre de cada año.
 
@@ -3188,3 +3190,9 @@ DECRETO POR EL QUE SE ACTUALIZAN LOS MONTOS DE DIVERSOS ARTICULOS DE LA LEY.
 ###### ARTICULO QUINTO.
 
 Con el propósito de sufragar los gastos que origina al Estado el mejoramiento y modernización de las áreas que tengan a su cargo la prestación de servicios relacionados con el Registro Público, se causará un impuesto adicional del 15% sobre los derechos que se causen por los servicios que preste el Registro Público establecidos en la ley.
+
+P.O. 30 DE DICIEMBRE DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
