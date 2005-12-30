@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2004-10-12"
+last_updated: "2005-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE DICIEMBRE DE 2005.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -733,7 +733,7 @@ La Conferencia para la Dirección y Programación de los Trabajos Legislativos t
 
 ###### Artículo 63.
 
-La Junta de Coordinación Política se reunirá por lo menos una vez al mes para tratar los asuntos de su competencia. Para que sus resoluciones sean válidas, deberán estar por lo menos la mitad mas uno de los coordinadores de los grupos parlamentarios, entre quienes deberá estar el Presidente en turno. Sus acuerdos se tomarán por mayoría de votos, en función de la proporcionalidad representativa de los coordinadores de los grupos parlamentarios presentes.
+La Junta de Coordinación Política se reunirá por lo menos una vez al mes para tratar los asuntos de su competencia. Para que sus resoluciones sean válidas, deberán estar por lo menos la mitad más uno de los coordinadores de los grupos parlamentarios, entre quienes deberá estar el Presidente en turno. Sus acuerdos se tomarán por mayoría de votos, en función de la proporcionalidad representativa de los coordinadores de los grupos parlamentarios presentes.
 
 > <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -947,9 +947,9 @@ A más tardar, en la tercera sesión del primer periodo de sesiones ordinarias, 
 
 - Desarrollo Turístico y Artesanal
 
-> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2005)</small>
 
-- Asuntos Metropolitanos
+- Desarrollo Social
 
 > <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2004)</small>
 
@@ -959,9 +959,9 @@ A más tardar, en la tercera sesión del primer periodo de sesiones ordinarias, 
 
 - Asuntos Indígenas
 
-> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2005)</small>
 
-- Protección Civil
+- De la Juventud y el Deporte
 
 > <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
@@ -1041,15 +1041,13 @@ Son Comités Permanentes de la Legislatura, los siguientes:
 
 - (DEROGADO QUINTO PARRAFO, G.G. 23 DE OCTUBRE DE 2003)
 
-- De la Juventud y el Deporte;
+- (DEROGADO, G.G. 30 DE DICIEMBRE DE 2005)
 
 - De Comunicación Social;
 
 La Asamblea podrá integrar otros comités que considere necesarios con el carácter de permanentes o transitorios.
 
 Los comités se integrarán en forma similar a las comisiones legislativas y sólo emitirán opiniones, proposiciones, informes y recomendaciones de los asuntos que les sean encomendados.
-
-> <small>(DEROGADO ULTIMO PARRAFO, G.G. 9 DE ENERO DE 2004)</small>
 
 > <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -1446,3 +1444,13 @@ G.G. 12 DE OCTUBRE DE 2004.
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+G.G. 30 DE DICIEMBRE DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno"
+
+###### ARTÍCULO SEGUNDO.
+
+Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
