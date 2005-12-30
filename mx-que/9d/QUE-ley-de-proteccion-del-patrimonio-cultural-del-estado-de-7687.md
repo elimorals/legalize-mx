@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-proteccion-del-patrimonio-cultural-del-estado-de-7687"
 country: "mx"
 rank: "ley"
 publication_date: "1991-01-24"
-last_updated: "2003-09-26"
+last_updated: "2005-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY DE PROTECCION DEL PATRIMONIO CULTURAL DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2003.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA CULTURA Y LAS ARTES DEL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE 30 DE DICIEMBRE DE 2005, EL PRESENTE ORDENAMIENTO FUE ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Querétaro, el jueves 24 de enero de 1991.
 
@@ -336,3 +338,19 @@ P.O. 26 DE SEPTIEMBRE DE 2003.
 Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+P.O. 30 DE DICIEMBRE DE 2005.
+
+PRIMERO. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+SEGUNDO. Se abroga la Ley de Protección de Patrimonio Cultural del Estado de Querétaro publicada el 24 de enero de 1991, en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+TERCERO. A partir de la entrada en vigor del presente Decreto se entenderá que toda ley, reglamento, decreto o acuerdo que haga referencia al Consejo Estatal para la Cultura y las Artes, aludirá ahora al Instituto Queretano de la Cultura y las Artes, por lo que todos los programas, recursos humanos, materiales y financieros de aquél, se transfieren al patrimonio del Instituto, para su continuidad.
+
+CUARTO. Se abroga el Decreto de creación del Consejo Estatal para la Cultura y las Artes publicado el 10 de diciembre de 1992, en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga" y demás disposiciones legales que sean contrarias a la presente Ley.
+
+QUINTO. En un término de cuarenta días naturales siguientes a la entrada en vigor de este Decreto, el Director General presentará la propuesta de estructura orgánica y administrativa del Instituto ante el Consejo, para su conocimiento y, en su caso, aprobación.
+
+SEXTO. En un término de 180 días naturales, contados a partir de la fecha en que el Consejo tome conocimiento de la estructura orgánica y administrativa de Instituto, se deberán expedir los reglamentos correspondientes a esta Ley por parte del Poder Ejecutivo.
+
+SÉPTIMO. Hasta en tanto el Titular del Ejecutivo del Estado haga efectiva su facultad de designar al Director del Instituto, en los términos de esta Ley y del artículo 26 de la Ley de Entidades Paraestatales del Estado de Querétaro, el actual Coordinar del hasta ahora Consejo Estatal para la Cultura y las Artes será el titular del nuevo organismo.
