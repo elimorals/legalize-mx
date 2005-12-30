@@ -4,7 +4,7 @@ identifier: "LCNBV"
 country: "mx"
 rank: "ley"
 publication_date: "1995-04-28"
-last_updated: "2005-06-20"
+last_updated: "2005-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2560&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCNBV"
 
 LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 2005.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 28 de abril de 1995.
 
@@ -302,7 +302,9 @@ III.- Designar interventor en los casos previstos en las leyes que regulan a las
 
 IV.- Imponer las sanciones que corresponda de acuerdo a las facultades que le delegue la Junta de Gobierno, así como conocer y resolver sobre el recurso de revocación, en los términos de las leyes aplicables y las disposiciones que emanen de ellas, así como proponer a la Junta la condonación total o parcial de las multas;
 
-V.- Autorizar, suspender o cancelar la inscripción de valores en la sección de valores del Registro Nacional de Valores e Intermediarios;
+> <small>(REFORMADA POR EL ARTICULO NOVENO TRANSITORIO DE LA LEY DEL MERCADO DE VALORES, D.O.F. 30 DE DICIEMBRE DE 2005)</small>
+
+V.- Autorizar, suspender o cancelar la inscripción de valores en el Registro Nacional de Valores e Intermediarios;
 
 VI.- Ejecutar los acuerdos de la Junta de Gobierno;
 
@@ -475,3 +477,23 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 D.O.F. 20 DE JUNIO DE 2005.
 
 Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE DICIEMBRE DE 2005.
+
+SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS QUE TIENEN RELACION CON LA LEY.
+
+Primero.- La presente Ley entrará en vigor a los ciento ochenta días naturales siguientes a su publicación en el Diario Oficial de la Federación, salvo por lo dispuesto en los artículos Décimo y Décimo Séptimo transitorios.
+
+Asimismo, a la fecha de entrada en vigor de esta Ley quedará abrogada la Ley del Mercado de Valores publicada en el citado Diario el 2 de enero de 1975, salvo por lo establecido en los artículos transitorios siguientes.
+
+.
+
+Noveno.- A partir de la entrada en vigor de esta Ley, se abrogan las "Reglas para la Organización del Registro Nacional de Valores e Intermediarios" publicadas en el Diario Oficial de la Federación de 13 de abril de 1993.
+
+Los asientos registrales de cualquier tipo que constan en el Registro Nacional de Valores a que se refiere el artículo 10 de la Ley del Mercado de Valores que se abroga mediante la presente Ley, se entenderán como hechos en el Registro a que se refiere el artículo 70 de esta Ley. Asimismo, los asientos registrales realizados con anterioridad al 1 de enero de 1996, se mantendrán en los legajos a que aludían las Reglas mencionadas en el párrafo anterior, mientras que los posteriores a dicha fecha se harán constar en los folios electrónicos que prevé esta Ley.
+
+Las referencias que otras leyes, reglamentos o disposiciones administrativas hagan a la sección valores del Registro Nacional de Valores, se entenderán hechas al Registro previsto en el artículo 70 de esta Ley.
+
+Los valores inscritos exclusivamente en la sección especial del Registro Nacional de Valores, podrán ser objeto de intermediación en el territorio nacional, siempre que se dé cumplimiento a lo establecido en el artículo 9 de esta Ley.
+
+.
