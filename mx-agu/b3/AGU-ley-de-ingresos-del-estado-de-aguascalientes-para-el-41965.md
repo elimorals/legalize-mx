@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ingresos-del-estado-de-aguascalientes-para-el-41965"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2004-12-31"
-last_updated: "2004-12-31"
+last_updated: "2005-12-30"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2005
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2005.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el viernes 31 de diciembre de 2004.
 
@@ -51,41 +51,49 @@ La Hacienda Pública del Estado, percibirá durante el Ejercicio Fiscal 2005, de
 
 (Monto en pesos)
 
-I IMPUESTOS 51'600,000
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-I.1 Sobre Instrumentos Públicos y Operaciones Contractuales 11'600,000
+I IMPUESTOS 75'700,000.00
 
-I.2 Sobre Diversiones y Espectáculos Públicos 2'200,000
+I.1 Sobre Instrumentos Públicos y Operaciones Contractuales 15'200,000.00
 
-I.3 Sobre Adquisición de Vehículos Usados de Motor 13'800,000
+I.2 Sobre Diversiones y Espectáculos Públicos 3'098,000.00
 
-I.4 Sobre Tenencia o Uso de Vehículos Automotores 17'600,000
+I.3 Sobre Adquisición de Vehículos Usados de Motor 21'135,000.00
 
-I.5 Sobre Prestación de Servicios de Hospedaje 4'900,000
+I.4 Sobre Tenencia o Uso de Vehículos Automotores 28'591,000.00
 
-I.6 Sobre Loterías, Rifas, Sorteos y Concursos 1'500,000
+I.5 Sobre Prestación de Servicios de Hospedaje 5'040,000.00
 
-II DERECHOS 185'500,000
+I.6 Sobre Loterías, Rifas, Sorteos y Concursos 2'636,000.00
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+II DERECHOS 200'900,000.00
 
 Por los servicios prestados por las siguientes Dependencias y Unidades Administrativas:
 
-II.1 Las Autoridades de Seguridad Pública y Vialidad 125'800,000
+II.1 Las Autoridades de Seguridad Pública y Vialidad 140'902,000.00
 
-II.2 El Registro Público de la Propiedad y del Comercio 13'100,000
+II.2 El Registro Público de la Propiedad y del Comercio 14'057,000.00
 
-II.3 Las Autoridades de la Secretaría General de Gobierno 5'500,000
+II.3 Las Autoridades de la Secretaría General de Gobierno 7'737,000.00
 
-II.4 La Procuraduría General de Justicia 2'100,000
+II.4 La Procuraduría General de Justicia 1'538,000.00
 
-II.5 El Registro Civil 15'300,000
+II.5 El Registro Civil 17'591,000.00
 
-II.6 Las Autoridades Fiscales 1'100,000
+II.6 Las Autoridades Fiscales 1'111,000.00
 
-II.7 La Secretaría de Desarrollo Social 22'600,000
+II.7 La Secretaría de Desarrollo Social 17'964,000.00
 
-III PRODUCTOS 40'100,000
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-III.1 Rendimientos o Intereses de Capitales y Valores del Estado 32'100,000
+III PRODUCTOS 66'500,000.00
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+III.1 Rendimientos o Intereses de Capitales y Valores del Estado 58'500,000.00
 
 III.2 Explotación de cualquier naturaleza de los bienes y recursos propiedad del Estado 5'800,000
 
@@ -95,9 +103,13 @@ III.4 Venta de bienes muebles e inmuebles propiedad del Estado
 
 III.5 Productos Diversos 2'000,000
 
-IV APROVECHAMIENTOS 13'300,000
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-IV.1 Multas 4'200,000
+IV APROVECHAMIENTOS 17'700,000.00
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+IV.1 Multas 8'600,000.00
 
 IV.2 Recargos 800,000
 
@@ -109,9 +121,13 @@ IV.5 Fianzas hechas efectivas 200,000
 
 IV.6 Otros no especificados 2'300,000
 
-INGRESOS ESTATALES 290'500,000
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-V PARTICIPACIONES FEDERALES AL ESTADO 3,181'200,000
+INGRESOS ESTATALES 360'800,000.00
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+V PARTICIPACIONES FEDERALES AL ESTADO 3,225'600,000.00
 
 V.1 Participaciones Federales al Estado:
 
@@ -119,7 +135,9 @@ a) Fondo General de Participaciones 2'533'200,000
 
 b) Fondo de Fomento Municipal 331'800,000
 
-c) Impuesto Sobre Tenencia o Uso de Vehículos 151'700,000
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+c) Impuesto Sobre Tenencia o Uso de Vehículos 196'100,000.00
 
 d) Impuesto Especial Sobre Producción y Servicios 55'300,000
 
@@ -161,7 +179,9 @@ VII Fondo de Aportaciones para Seguridad Pública 75'300,000
 
 VII APOYOS PARA EL FORTALECIMIENTO DE LAS ENTIDADES FEDERATIVAS 187'100,000
 
-TOTAL DE INGRESOS 7,034'600,000
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+TOTAL DE INGRESOS 7,149'300,000.00
 
 VIII INGRESOS EXTRAORDINARIOS 396'500,000
 
@@ -177,11 +197,17 @@ IX.1 Saldo del Ejercicio Fiscal Anterior 150'000,000
 
 IX.2 Otros Ingresos -
 
-SUBTOTAL 7,581'100,000
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-X INGRESOS DE LAS ENTIDADES PARAESTATALES Y ORGANOS DESCONCENTRADOS 423'921,000
+SUBTOTAL 7,695'800,000.00
 
-X.1 ORGANISMOS PUBLICOS DESCENTRALIZADOS 287'641,000
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+X INGRESOS DE LAS ENTIDADES PARAESTATALES Y ORGANOS DESCONCENTRADOS 446'989,000.00
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+X.1 ORGANISMOS PUBLICOS DESCENTRALIZADOS 310'709,000.00
 
 a) Colegio de Estudios Científicos y Tecnológicos del Estado de Aguascalientes 5'046,000
 
@@ -203,7 +229,9 @@ i) Instituto de Educación de Aguascalientes 4'000,000
 
 j) Instituto de Salud del Estado de Aguascalientes 45'000,000
 
-k) Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes 17'853,000
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+k) Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes 40'921,000.00
 
 l) Instituto Estatal de Seguridad Pública 435,000
 
@@ -293,7 +321,9 @@ XI.1 Instituto Estatal Electoral 44,000
 
 XI.2 Comisión Estatal de Derechos Humanos -
 
-TOTAL 8,005'065,000
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+TOTAL 8,142'833,000.00
 
 ## TITULO SEGUNDO. DE LOS DERECHOS
 
@@ -7155,7 +7185,7 @@ d) Servicios quirúrgicos traumatología y ortopedia
 
 21) Reducción abierta fractura supra condilea humeral 1,310
 
-22) Sutter y John –1 2,615
+22) Sutter y John -1 2,615
 
 23) Tenomiotomía de Aducctores 1,310
 
@@ -12317,7 +12347,7 @@ d) Uso de Consultorio
 
 21) Reducción Abierta Fractura Supra Condilea Humeral 655
 
-22) Sutter y John –1 1,310
+22) Sutter y John -1 1,310
 
 23) Tenomiotomía de Aducctores 655
 
@@ -14847,7 +14877,7 @@ d) Servicios Quirúrgicos Traumatología y Ortopedia
 
 21) Reducción Abierta Fractura Supra Condilea Humeral 460
 
-22) Sutter y John –1 915
+22) Sutter y John -1 915
 
 23) Tenomiotomía de Aducctores 460
 
@@ -17379,7 +17409,7 @@ d) Servicios Quirúrgicos Traumatología y Ortopedia
 
 21) Reducción Abierta Fractura Supra Condilea Humeral 260
 
-22) Sutter y John –1 525
+22) Sutter y John -1 525
 
 23) Tenomiotomía de Aducctores 260
 
@@ -18141,7 +18171,7 @@ p) Cirugía Maxilofacial
 
 21) Corrección Alas Nasal (Rinoseptumplastia) 650
 
-22) Corrección de Secuelas (Cicatriz) –Taponeamiento 650
+22) Corrección de Secuelas (Cicatriz) -Taponeamiento 650
 
 23) Faringeplastia 425
 
@@ -20346,3 +20376,9 @@ Luis Armando Reynoso Femat.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Jorge Mauricio Martínez Estebanez.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+
+P.O. 30 DE DICIEMBRE DE 2005.
+
+UNICO. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
