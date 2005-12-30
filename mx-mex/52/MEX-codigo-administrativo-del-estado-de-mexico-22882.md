@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2005-12-22"
+last_updated: "2005-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE DICIEMBRE DE 2005.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -6247,7 +6247,11 @@ XVII. El rescate, preservación, fortalecimiento y fomento de la actividad artes
 
 XVIII. El desarrollo minero, a través del Instituto de Fomento Minero y Estudios Geológicos del Estado de México;
 
-XIX. El desarrollo turístico.
+XIX. El desarrollo turístico;
+
+> <small>(ADICIONADA, G.G. 30 DE DICIEMBRE DE 2005)</small>
+
+XX. La constitución del Fondo Estatal para la Capacitación de la Micro, Pequeña y Mediana Empresa.
 
 ###### Artículo 10.
 
@@ -8827,6 +8831,12 @@ XXIV. Estadística básica. A la información que se obtiene en forma directa, a
 
 XXV. Estadística derivada. A la que mediante la transformación de la estadística básica, establece la asociación e interrelación que guardan los hechos y fenómenos observados, de tal forma que éstos puedan conocerse a través de la construcción de indicadores tales como: tasas, índices, razones y variaciones;
 
+XXVI. Estadística continua. Al flujo de información permanente sobre las características de los hechos y fenómenos demográficos, sociales y económicos, que son captados a través de los registros administrativos;
+
+XXIV. Estadística básica. A la información que se obtiene en forma directa, a partir de los datos aportados por las dependencias, entidades e instituciones públicas, privadas y sociales generadoras de información, mediante la utilización de los registros administrativos o entrevistas;
+
+XXV. Estadística derivada. A la que mediante la transformación de la estadística básica, establece la asociación e interrelación que guardan los hechos y fenómenos observados, de tal forma que éstos puedan conocerse a través de la construcción de indicadores tales como: tasas, índices, razones y variaciones;
+
 XXVI. Estadística contínua. Al flujo de información permanente sobre las características de los hechos y fenómenos demográficos, sociales y económicos, que son captados a través de los registros administrativos;
 
 XXVII. Cuentas económicas. Al registro contable de información sobre la situación y evolución económica del Estado y Municipios mediante, la captación, procesamiento e integración de datos de producción, consumo, ahorro, inversión, relaciones con el exterior y las interrelaciones existentes entre los diferentes sectores generadores de bienes y servicios;
@@ -9778,3 +9788,13 @@ SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en
 TERCERO.- El Gobernador del Estado, dictará las medidas correspondientes para la liquidación del Instituto de Genética Humana, en los términos establecidos por la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México.
 
 CUARTO.- La Legislatura del Estado de México, a través de la Comisión de Salud, Asistencia y Bienestar Social, dará seguimiento al proceso de liquidación del Instituto de Genética Humana, informando al Pleno en un plazo de 15 días hábiles contados a partir de que entre en vigor el presente decreto, sobre la forma y características presentadas desde el inicio y hasta la conclusión del mismo.
+
+G.G. 30 DE DICIEMBRE DE 2005.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor el primero de enero de dos mil seis.
+
+TERCERO.- Los Poderes Ejecutivo y Legislativo, en el ámbito de su competencia, proveerán lo necesario para la constitución del Fondo Estatal para la Capacitación de la Micro, Pequeña y Mediana Empresa, estableciendo las previsiones necesarias en el Presupuesto de Egresos del Gobierno del Estado de México para el ejercicio fiscal del año 2006 y posteriores.
+
+CUARTO.- El Ejecutivo del Estado dispondrá lo necesario a efecto de que las reglas de operación del Fondo Estatal para la Capacitación de la Micro, Pequeña y Mediana Empresa, se publicarán en la "Gaceta del Gobierno", dentro de los 30 días siguientes al del inicio de la vigencia del presente decreto.
