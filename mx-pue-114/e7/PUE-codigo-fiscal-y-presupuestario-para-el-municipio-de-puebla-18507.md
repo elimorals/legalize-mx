@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-y-presupuestario-para-el-municipio-de-puebla-1850
 country: "mx"
 rank: "codigo"
 publication_date: "1999-12-17"
-last_updated: "2005-07-27"
+last_updated: "2005-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CODIGO FISCAL Y PRESUPUESTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2005.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Puebla, el viernes 17 de diciembre de 1999.
 
@@ -263,7 +263,9 @@ VII. Dependencias.- Las dependencias de la Administración Pública Centralizada
 
 VIII. Destinataria: La dependencia o entidad beneficiaria de un acuerdo de destino respecto de un bien del dominio público;
 
-IX. DGDUE.- Dirección General de Desarrollo Urbano y Ecología del Honorable Ayuntamiento del Municipio de Puebla;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+IX. SAU. Secretaría de Administración Urbana del Honorable Ayuntamiento del Municipio de Puebla;
 
 X. Dirección Jurídica.- La Dirección General Jurídica Consultiva del Honorable Ayuntamiento del Municipio de Puebla;
 
@@ -463,7 +465,9 @@ I. El presente Código;
 
 II. La Ley de Ingresos del Municipio; y
 
-III. Los demás ordenamientos que contengan disposiciones de orden fiscal, que aplique el Municipio, por prever disposiciones de naturaleza fiscal de su competencia, o las que deba ejercer como consecuencia de la suscripción de convenios o acuerdos.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+III. Los demás ordenamientos que contengan disposiciones de orden fiscal, que aplique el Municipio, por prever disposiciones de naturaleza fiscal de su competencia, o las que deba ejercer como consecuencia de la suscripción de convenios o acuerdos, así como las que aplique supletoriamente.
 
 La aplicación e interpretación para efectos administrativos de los textos legales a que se refiere este artículo, corresponde a las autoridades fiscales.
 
@@ -493,11 +497,15 @@ IV. El Tesorero, y los titulares de las siguientes unidades administrativas que 
 
 a) El Director de Ingresos Municipal.
 
-b) El Director de Registro y Fiscalización.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+b) El Director de Catastro.
 
 c) El Jefe del Departamento de Ejecución u Oficina Ejecutora.
 
-d) El Jefe del Departamento de Catastro Municipal.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+d) El Jefe del Departamento de Registro y Fiscalización.
 
 e) El Jefe de la Oficina Jurídica.
 
@@ -705,7 +713,13 @@ XI. Dar aviso a la Tesorería, en el término de 30 días hábiles posteriores, 
 
 XII. Liquidar, retener y enterar ingresos municipales, en los casos previstos en las leyes fiscales; y
 
-XIII. Las demás que dispongan las leyes, reglamentos y ordenamientos aplicables.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+XIII. Inscribir en el Catastro del Municipio, los bienes inmuebles que le pertenezcan o posean, así como manifestar la existencia, características y modificaciones de dichos inmuebles; y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+XIV. Las demás que dispongan las leyes, reglamentos y ordenamientos aplicables.
 
 ###### Artículo 37.
 
@@ -785,6 +799,10 @@ Cuando el pago hubiere sido menor al que corresponda, los recargos se calculará
 
 Cuando el contribuyente pague en forma espontánea los créditos omitidos, los recargos que se causen por dicho crédito, no excederán de los que resulten de aplicar la suma de la tasa de los doce meses anteriores a dichos créditos.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+Lo previsto en el párrafo anterior será aplicable en el caso de que el pago lo realicen los retenedores.
+
 ###### Artículo 44.
 
 La falta de pago de un crédito fiscal en la fecha o plazo establecido en las disposiciones respectivas determina que el mismo es exigible.
@@ -863,9 +881,21 @@ b) Requerir a los contribuyentes, responsables solidarios o terceros con ellos r
 
 c) Practicar actos de verificación y visitas a los contribuyentes, los responsables solidarios o los terceros con ellos relacionados.
 
-d) Practicar u ordenar que se practique avalúo o verificación física de toda clase de bienes.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-e) Allegarse de pruebas necesarias para formular denuncia, querella o declaratoria de perjuicio.
+d) Practicar u ordenar la verificación física de toda clase de bienes, así como determinar sus valores correspondientes y revisar o aprobar avalúos.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+e) Revisar o confrontar las manifestaciones o avisos presentados por los propietarios o poseedores de inmuebles, con los datos que obren en su poder o de terceros.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+f) Calificar las manifestaciones o avisos y requerir a los interesados aclaraciones o comprobaciones.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+g) Allegarse de pruebas necesarias para formular denuncia, querella o declaratoria de perjuicio.
 
 Las autoridades fiscales podrán ejercitar estas facultades conjunta, indistinta o sucesivamente, entendiéndose que se inician con el primer acto que se notifique al contribuyente.
 
@@ -875,9 +905,41 @@ IX.- Recabar de los servidores públicos y de los fedatarios, los datos e inform
 
 X.- Conocer y resolver las solicitudes de condonación o exención total o parcial del pago de contribuciones, productos, aprovechamientos y sus accesorios;
 
-XI.- Elaborar los formatos de pago; y
+XI.- Elaborar los formatos de pago; y (sic)
 
-XII.- Conceder subsidios o estímulos fiscales.
+XII.- Conceder subsidios o estímulos fiscales;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+XIII. Integrar, conservar y actualizar la información catastral del Municipio, a través de un sistema de información multifinalitaria y de las acciones de localización, identificación, levantamiento catastral, registro, determinación de valores unitarios de suelo y construcción aplicables a un predio, valuación, nueva valuación o reevaluación y deslinde de bienes inmuebles y en general a través de la ejecución de operaciones catastrales, que permitan obtener la descripción, clasificación, mensura, características físicas y de ubicación de cada predio, de su uso, valor y demás datos necesarios para el cumplimiento de los fines del catastro;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+XIV. Ordenar la inscripción de los bienes inmuebles en el padrón catastral y asignarles registro catastral;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+XV. Ratificar o rectificar la información a que se refiere la fracción XII del artículo 36 de este ordenamiento; y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+XVI. Practicar inspecciones de predios con el objeto de obtener información para conformar el catastro y determinar la base de las contribuciones sobre la propiedad inmobiliaria.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 50 Bis.
+
+La identificación, clasificación, localización y levantamiento de datos de predios, comprende las acciones y trabajos necesarios para determinar sus características, tales como dimensiones, ubicación, uso y la información socioeconómica y estadística que requiere el catastro municipal.
+
+Los registros catastrales estarán integrados de tal manera que, bajo el concepto de registro único, permitan su aprovechamiento múltiple y se puedan generar agrupamientos, ya sean numéricos, alfabéticos, gráficos, estadísticos, índices de referencia y de imágenes.
+
+La Dirección de Catastro administrará, controlará, conservará, actualizará y archivará los registros catastrales, los que podrán ser objeto de altas, bajas y cambios, entendiéndose por:
+
+l. Altas.- Nuevos registros en el padrón que sean resultantes de la inscripción o regularización de un predio, de la inscripción de fraccionamientos o régimen de condominio, de la división de un predio o del registro de predios omisos;
+
+II. Bajas.- Cancelación de registros, debido al desglose de la totalidad de la superficie en lotes, a la fusión de predios o al existir duplicidad de registros, así como otras irregularidades debidamente acreditadas; y
+
+III. Cambios.- Modificaciones en los datos registrados de acuerdo con documentos presentados por los particulares y autoridades diversas, como son escrituras, avisos de enajenación, planos de construcción, ratificación de medidas de terreno, sentencias de usucapión ejecutoriadas, cambio de domicilio, entre otros.
 
 ###### Artículo 51.
 
@@ -997,6 +1059,180 @@ Las autoridades fiscales, están obligadas a comprobar que los contribuyentes o 
 
 La determinación de los créditos fiscales y de las bases para su liquidación, su fijación en cantidad líquida, su percepción y cobro, corresponderá a la Tesorería o a los organismos públicos descentralizados si es que así lo establece el decreto de creación de estos últimos.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 66 Bis.
+
+La Dirección de Catastro calculará la base de los impuestos Predial y Sobre Adquisición de Bienes Inmuebles, a través de la determinación del valor catastral de los inmuebles con apego a la zonificación catastral y los valores unitarios para suelo y construcción que resulten aplicables.
+
+La valorización catastral se hará considerando separadamente el suelo y las construcciones o cualquier tipo de mejoras existentes.
+
+El Municipio se dividirá en zonas catastrales. Tratándose de predios urbanos las zonas se dividirán en manzanas y lotes. Si se-trata de predios rústicos, las regiones se dividirán en lotes.
+
+La zonificación catastral y las tablas de valores unitarios de suelo y construcción, que serán aprobadas por el Ayuntamiento y sometidas anualmente a la consideración del Congreso se elaborarán conforme a las siguientes bases:
+
+l. La determinación de la zonificación catastral en zonas urbanas se hará conforme al siguiente procedimiento:
+
+Se demarcará el territorio en zonas catastrales, de acuerdo a las características de homogeneidad de las mismas, determinadas mediante verificaciones de campo, el uso de suelo actual y potencial, grado de urbanización, características de los servicios públicos, infraestructura y equipamiento, tipo y calidad de las construcciones, valores de mercado de la propiedad inmobiliaria, características de las colonias colindantes e índices socio-económicos de los habitantes;
+
+II. La determinación de la zonificación catastral en zonas rústicas se hará conforme al siguiente procedimiento:
+
+Se delimitará el territorio en zonas rústicas, de acuerdo a las características de las mismas, determinadas mediante las verificaciones de campo, las características de la zona; uso de suelo actual y potencial, profundidad del suelo, accesibilidad, distancia a la zona urbana más próxima, erosión, topografía, pedregosidad, régimen de propiedad y valores de mercado de la propiedad inmobiliaria por hectárea;
+
+III. La determinación de valores unitarios de suelo se hará conforme al siguiente procedimiento:
+
+Se delimitará de acuerdo a una zona de estudio, dentro de la cual se recopilarán antecedentes de valor de fuentes disponibles para la zona en cuestión, tomando en cuenta las características del terreno, fecha de operación u oferta y datos del informante, por su parte se inspeccionará la zona, calle por calle, comparando, combinando y ponderando los valores y demás factores observados, tomando en cuenta las características predominantes que influyen considerablemente en el valor; área, irregularidad, fondo, frente, pendiente, valores de demérito e incremento de acuerdo a sus características físicas o de ubicación y que influyan significativamente en la variación del valor unitario. Una vez realizado lo anterior, se determinará el valor unitario para dicha zona.
+
+El valor resultante será equiparable al valor de mercado.
+
+La representación de los valores unitarios se realizará en forma numérica y gráfica.
+
+En las zonas urbanas, la unidad de superficie que se tome para el avalúo de la tierra será el metro cuadrado.
+
+En las zonas rústicas, la unidad de superficie será, en todo caso, por hectárea o metro cuadrado cuando por su ubicación colinde con la traza de una carretera estatal o federal.
+
+La unidad de avalúo que se tome en consideración en las tablas de valores aplicables a construcciones será por metro cuadrado o metro cúbico; y
+
+IV. La determinación de valores unitarios de construcción se hará conforme al siguiente procedimiento:
+
+Se llevará a cabo una clasificación por tipo y calidad de construcción, determinando el valor unitario efectuando un estudio detallado de presupuesto; considerando el costo de mano de obra, materiales utilizados, instalaciones especiales, accesorios y obras complementarias de cada tipo y calidad de construcción clasificada, considerando factores de ajuste, tales como: depreciación; grado de conservación, edad, deterioro físico reparables e irreparables, obsolescencia funcional y obsolescencia económica.
+
+Los valores unitarios de mano de obra y materiales, equipamiento y uso de construcciones se analizarán a detalle dentro de los presupuestos de obtención del valor unitario de construcción.
+
+Para efecto de este artículo se entenderá por:
+
+Equipamiento.- Al conjunto de instalaciones, construcciones y mobiliario destinado a dotar a una localidad de servicios educativos, culturales, deportivos, recreativos, de comercio, abasto, salud, asistencia, comunicaciones, trasportes, de administración pública y en general de satisfactores de necesidades colectivas.
+
+Índice Socioeconómico.- Al indicador de tendencia central que expresa la relación entre un grupo de habitantes y su capacidad adquisitiva.
+
+Lote.- Al bien inmueble conformado por un terreno cuyos linderos forman un perímetro continuo.
+
+Manzana.- El área territorial delimitada por vías públicas o límites naturales o semejantes, la cual está dividida en lotes de terreno.
+
+Predio.- El inmueble constituido por el suelo o por éste y las construcciones adheridas a él.
+
+Tabla de Valores.- Es el conjunto de elementos y valores unitarios aprobados por el Congreso para un ejercicio fiscal, contenidos en los planos de las zonas en que se divide el Municipio, respecto al valor del predio, así como la relación con las clasificaciones de construcción y demás elementos que deberán de tomarse en consideración para la valuación de los predios
+
+Valor Catastral.- Es el valor administrativo referenciado en tablas que sirve de base para determinar los impuestos sobre la propiedad inmobiliaria que, considerado como indicador de la riqueza de los habitantes de un inmueble, es la consecuencia de un proceso técnico de valoración que tome en cuenta las características intrínsecas y extrínsecas de un predio, y se obtiene de aplicar para cada predio la operación aritmética consistente en multiplicar las unidades de construcción con las que cuente el predio, por el valor unitario de construcción que le corresponda de entre los decretados por el Congreso para cada ejercicio fiscal; adicionado con el producto que resulte de multiplicar el número de unidades de suelo con las que cuenta el predio, por el valor unitario de suelo que le corresponda de entre los decretados por el Congreso para cada ejercicio fiscal.
+
+Valor de mercado.- Es el resultado homologado de una investigación de mercado de bienes comparables al del estudio, donde imperan condiciones justas y equitativas entre la oferta y la demanda, lo que a la postre se traduce en un valor comercial, entendiéndose por éste la cantidad expresada en términos monetarios, mediante la cual se intercambiaría un bien en el mercado corriente de bienes entre un comprador y un vendedor que actúan sin presiones ni ventajas entre uno y otro, en un mercado abierto y competido, en las circunstancias prevalecientes a la fecha del avalúo y en un plazo razonable de exposición.
+
+Uso de la construcción.- Son los fines particulares a los que se dedica la edificación de un predio determinado.
+
+Valor unitario.- Es el valor por unidad de superficie para terrenos y construcciones aprobado por el Congreso.
+
+Valor unitario de construcción.- Es el valor determinado por la Dirección de Catastro y aprobado por el Congreso, conforme a los parámetros a que se refiere la fracción IV de este artículo y que permite que el valor de una construcción sea obtenido a partir de la siguiente fórmula:
+
+Vc=VUCxSC
+
+Donde:
+
+Vc = Valor de construcción.
+
+VUC = Valor Unitario de Construcción.
+
+Sc = Superficie de construcción.
+
+Valor de demérito.- Es el resultado de la aplicación, bajo criterios técnicos, de coeficientes que reducen el valor unitario de un predio, a partir del análisis del tipo o clase de la tierra, calidad, ubicación, cercanía a vías de comunicación y centros de población, así como las condiciones hidrológicas, humedad, o cualquier otra circunstancia que pueda influir negativamente en el resultado de la valuación.
+
+Valor de incremento.- Es el resultado de la aplicación, bajo criterios técnicos, de coeficientes que incrementan el valor unitario de un predio, a partir del análisis del tipo o clase de la tierra, calidad, ubicación, cercanía a vías de comunicación y centros de población, así como las condiciones hidrológicas, humedad, o cualquier otra circunstancia que pueda influir positivamente en el resultado de la valuación.
+
+Valor unitario de mano de obra.- El costo de las erogaciones que implica la ejecución de una construcción por el pago de salarios reales al personal que intervine (sic) directamente en ella, incluyendo a quienes ejercen funciones de dirección, y que incluyen todas las prestaciones a cargo de un patrón.
+
+El salario real considera los salarios tabulados de cada categoría de trabajadores de acuerdo con la zona o región en que se ejecutan los trabajos, mientras que para la obtención del valor resultante para cada predio se considera el rendimiento, representado por la cantidad de trabajo que desarrolla el personal que interviene directamente en la ejecución de la construcción.
+
+Valor unitario de materiales.- Es el costo que implican los materiales en la ejecución de inmueble, obtenidos a partir de la base de presupuestos pormenorizados, a cuyo valor resultante es restada la depreciación correspondiente.
+
+Valor unitario de suelo.- Es el valor determinado por la Dirección de Catastro y aprobado por el Congreso, conforme a los parámetros a que se refiere la fracción II de este artículo y que permite que el valor de una construcción sea obtenido a partir de la siguiente fórmula:
+
+Vs= VUs x Ss
+
+Donde:
+
+Vs = Valor de suelo.
+
+VUS = Valor unitario de suelo.
+
+Ss = Superficie del terreno.
+
+Zona Catastral.- La circunscripción del territorio municipal determinada con fines de control catastral de inmuebles, la cual está formada por un grupo de colonias o de manzanas y es elaborada bajo criterios de delimitación, obtenida con base en la homogeneidad que presentan.
+
+Zona Rústica.- Es la superficie de suelo que se ubica fuera de las zonas urbanas.
+
+Zona Urbana.- La superficie de suelo ubicada dentro de los centros de población, que forma parte del conjunto de edificaciones y trazado de calles, y las superficies que aún no estando edificadas han sido objeto de traza vial y urbanización o que cuente al menos con un servicio público de los siguientes: agua potable, drenaje sanitario, drenaje pluvial, alumbrado público y energía eléctrica.
+
+También se considera Área Urbana la adyacente o periférica a un poblado dotado de alguno de los servicios mencionados, que sean susceptibles de ser dotadas de dichos servicios, partiendo de la infraestructura existente.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 66 Ter.
+
+La actualización de la zonificación catastral y de los valores unitarios que ocurra en el transcurso de un ejercicio deberá ser aprobada por el Congreso y se elaborará en las siguientes hipótesis normativas:
+
+La actualización de la zonificación catastral y de los valores unitarios, se llevará a cabo mediante la revisión de las características establecidas en el artículo 66 bis, cuando en una de las zonas existan cambios importantes en su infraestructura o equipamiento urbano, cuando se localicen o constituyan fraccionamientos nuevos, asentamientos irregulares o cualquier otro desarrollo urbano o cuando por algún motivo sufran cambios los valores de mercado de la zona.
+
+La actualización de la zonificación catastral y de los valores unitarios que ocurra en el transcurso de un ejercicio, deberá ser elaborado conforme al siguiente procedimiento:
+
+Aplicando el Índice del Costo de la Construcción Residencial, o el Índice Nacional de Precios al Consumidor, determinados conforme a la legislación aplicable y por las autoridades competentes, ambos aplicables en la fecha de la actualización.
+
+Las propuestas de zonificación, de valores unitarios y su actualización serán elaboradas por el Director de Catastro, sometidas a la consideración del Tesorero.
+
+Para tal efecto la Dirección de Catastro efectuará la investigación de la infraestructura, equipamiento urbano, valor de zona, de los costos de mano de obra y materiales de construcción, así como los valores del mercado inmobiliario que servirán de base a la propuesta de tablas de valores y zonificación.
+
+La Dirección de Catastro mantendrá el acceso directo al Sistema Municipal de Información Inmobiliaria.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 66 Quáter.
+
+Se crea el Consejo Municipal de Catastro, como un órgano auxiliar de la Tesorería Municipal sin personalidad jurídica, encargado de:
+
+l. Proponer lineamientos para la realización más eficiente y eficaz de los trabajos de identificación y registro de predios, así como de la actualización de la información que administre el Catastro Municipal;
+
+II. Proponer los mecanismos para la mejor administración de los sistemas de nomenclatura y codificación de la propiedad inmobiliaria;
+
+III. Plantear propuestas para mejorar los procesos de valuación individual o colectiva;
+
+IV. Opinar sobre la propuesta de zonificación catastral y la integración de valores unitarios de suelo y construcción que habrán de someterse al Cabildo y posteriormente al Congreso;
+
+V. Aportar información al Director de Catastro con el objeto de enriquecer los criterios y elementos de determinación de valores unitarios de construcción;
+
+VI. Participar en la planeación de las propuestas de política fiscal para la equiparación de valores unitarios de suelo a los valores de mercado;
+
+VII. Sugerir al Director de Catastro los valores indicativos de mercado, basado en características de los inmuebles, sus productos o cualquier otro método que juzgue conveniente, así como la aplicación de métodos de capitalización de ingresos, de costos obtenidos a través de análisis de reposición, de reproducción, residual de terrenos o residual de construcciones o cualquier otro técnicamente sustentable; y
+
+VIII. Proponer a la Dirección de Catastro criterios para la integración de coeficientes de mérito o demérito, la identificación de lotes tipo y los criterios para determinar niveles de subvaluación.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 66 Quinquies.
+
+El Consejo Municipal de Catastro estará integrado por el Tesorero, el Director de Catastro y el Director de Ingresos, quienes tendrán respectivamente el carácter de Presidente, Secretario y Vocal, por un representante del Colegio de Valuadores del Estado de Puebla, un representante del Colegio de Arquitectos, los representante (sic) de las Universidades, Colegios, Cámaras, profesionales especializados que designe el Presidente, quienes también tendrán el carácter de vocales.
+
+Los integrantes del Consejo Municipal de Catastro serán removidos de sus cargos a solicitud del órgano o institución que los hubiere propuesto o por negarse injustificadamente a participar en las sesiones del Consejo.
+
+Todos los integrantes del Consejo Municipal de Catastro tendrán derecho a voz y voto y sus decisiones se tomarán por mayoría de los presentes en cada sesión. En todo caso el Presidente tendrá voto de calidad en caso de empate.
+
+Las integrantes del Consejo Municipal de Catastro puedan (sic) nombrar un sustituto.
+
+Las sesiones se sujetarán a lo siguiente:
+
+I. Las sesiones del Consejo Municipal de Catastro serán ordinarias y extraordinarias.
+
+a) Son ordinarias las que se celebren de manera cotidiana, de acuerdo a la periodicidad establecida por el propio Consejo en la primera sesión del año, la que deberá ser convocada por el Presidente dentro del primer mes de cada ejercicio.
+
+b) Son extraordinarias las que sean convocadas para el desahogo de algún asunto urgente.
+
+II. Las sesiones del Consejo Municipal de Catastro se realizarán con la asistencia de cuando menos: la mitad más, uno de sus miembros;
+
+III. El Presidente será responsable de convocar a los miembros del Consejo Municipal de Catastro" a sus sesiones ordinarias y extraordinarias. Para tal efecto, se entenderá que cada miembro tiene como domicilio el que oficialmente corresponda al órgano o institución que lo designa;
+
+IV. El Presidente podrá permitir la participación dentro del Consejo Municipal de Catastro de personas distintas a las referidas en el primer párrafo de este artículo, las que tendrán el carácter de invitadas y podrán emitir opiniones técnicas, pero no tendrán derecho a voto;
+
+V. Las sesiones ordinarias y extraordinarias serán presididas por el Presidente del Consejo Municipal de Catastro, quien establecerá previamente el orden del día, haciéndolo del conocimiento de los demás miembros con una anticipación de por lo menos 72 horas previas a la sesión si es ordinaria o de 24 si es extraordinaria, indicando en todo caso el domicilio, día y la hora en que se desarrollará; y
+
+VI. De cada sesión el Secretario del Consejo Municipal de Catastro levantará el acta correspondiente, misma que será firmada por los miembros que participen en la misma, en su caso, el Secretario hará constar la presencia del miembro que se niegue a firmar.
+
 ###### Artículo 67.
 
 Las autoridades fiscales a fin de determinar la existencia del crédito fiscal, dar las bases de su liquidación, fijarlo en cantidad líquida, cerciorarse del cumplimiento a las disposiciones fiscales y comprobar la comisión de infracciones a dichas disposiciones, estarán facultadas para realizar conjunta o separadamente, los siguientes actos:
@@ -1015,7 +1251,9 @@ VI. Recabar de los servidores públicos y fedatarios los informes y datos que po
 
 VII. Hacer las inspecciones y verificaciones de los lugares, inmuebles, bienes o mercancías en la forma que para el control de las obligaciones fiscales determine la Tesorería;
 
-VIII. Practicar avalúos de bienes inmuebles;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+VIII. Practicar avalúos, nuevos avalúos o revaluaciones de bienes inmuebles, determinar valores provisionales o estimarlos ante la oposición de los propietarios, poseedores o detentadores;
 
 IX. Designar personal que supervise y verifique el número de personas que ingresen a las diversiones y espectáculos públicos, así como los ingresos que perciban;
 
@@ -1861,6 +2099,10 @@ Hecho el pago a que se refiere el párrafo anterior y designado en su caso el No
 
 Los bienes pasarán a ser propiedad del adquirente libres de gravámenes y con la finalidad de que éstos se cancelen, tratándose de inmuebles, la autoridad ejecutora lo comunicará al Registro Público de la Propiedad que corresponda, en un plazo que no excederá de quince días, independientemente que el Notario Público nombrado lo haga.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+El Impuesto de Adquisición de Bienes Inmuebles, no queda incluido dentro de las hipótesis de no causación a que se refiere el párrafo anterior.
+
 ###### Artículo 154.
 
 Una vez que se hubiere otorgado y firmado la escritura en que conste la adjudicación de un inmueble, la autoridad ejecutora dispondrá que se entregue al adquirente, girando las órdenes necesarias, aun las de desocupación si estuviere habitado por el ejecutado o por terceros que no puedan acreditar legalmente la posesión.
@@ -2063,9 +2305,11 @@ IV. Las personas o comunidades que estén en posesión de tierras comunales o ej
 
 V. Las personas físicas o morales que se encuentren en los supuestos que señala la fracción II del artículo anterior.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 178.
 
-BASE. Son base del Impuesto Predial, los valores que se determinen conforme a la legislación aplicable en materia catastral, o los valores catastrales que autorice el Congreso a propuesta del Municipio para un ejercicio específico.
+BASE. Es base del Impuesto Predial, el valor catastral que determine la Dirección de Catastro, conforme a la zonificación catastral y las tablas de valores unitarios de suelo y construcción que apruebe el Congreso para cada ejercicio fiscal y en su caso sus actualizaciones.
 
 Cuando se trate de préstamos con garantía hipotecaria destinados a la construcción, el valor determinado conforme a este artículo, surtirá sus efectos para el cálculo de la base, a partir del primer día del séptimo mes siguiente al de la fecha en que se haya autorizado la escritura correspondiente.
 
@@ -2091,19 +2335,7 @@ EXENCIONES. Están exentos del pago del Impuesto Predial, los bienes del dominio
 
 ###### Artículo 182.
 
-REDUCCIONES. Previo dictamen de la autoridad fiscal municipal competente, se otorgarán reducciones al Impuesto Predial anual a pagar, en los siguientes casos:
-
-I. Predios que perteneciendo a particulares, estén destinados a un servicio público o gratuito, autorizado por los Gobiernos Federal, Estatal o Municipal, siempre que por los mismos, sus propietarios no perciban renta o cualquier otro tipo de contraprestación; y
-
-II. Los predios edificados propiedad de viudas, jubilados, pensionados permanentemente o afiliados al Instituto Nacional de la Senectud, siempre y cuando:
-
-a) Lo soliciten por escrito y en forma individual;
-
-b) Acrediten documentalmente su condición de viudez, jubilación o pensión;
-
-c) Posean un solo inmueble; y
-
-d) Habiten el inmueble objeto de la reducción solicitada.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2005)
 
 ###### Artículo 183.
 
@@ -2163,9 +2395,11 @@ El Impuesto Sobre Adquisición de Bienes Inmuebles, se causará en toda operaci�
 
 SUJETOS. Son sujetos del Impuesto Sobre Adquisición de Bienes Inmuebles, las personas físicas o morales que adquieran inmuebles ubicados dentro del territorio del Municipio, así como los derechos relacionados con los mismos, por alguna de las causas señaladas en el artículo anterior.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 187.
 
-BASE. Será base gravable del Impuesto Sobre Adquisición de Bienes Inmuebles, el valor que se determine conforme a la legislación catastral aplicable, o los valores catastrales que autorice el Congreso a propuesta del Municipio para un ejercicio específico.
+BASE. Es base del Impuesto Sobre Adquisición de Bienes Inmuebles, el valor catastral que determine la Dirección de Catastro, conforme a la zonificación catastral y las tablas de valores unitarios de suelo y construcción que apruebe el Congreso para cada ejercicio fiscal y en su caso sus actualizaciones.
 
 Cuando con motivo de la adquisición, el adquirente asuma la obligación de pagar una o más deudas o de perdonarlas, el importe de ellas se considerará como parte del precio pactado.
 
@@ -2467,9 +2701,11 @@ Se entenderá que un contribuyente se dedica al giro de vinaterías, cuando la v
 
 ### CAPÍTULO III. DE LOS DERECHOS POR OBRAS MATERIALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 226.
 
-Son objeto de este derecho, los servicios que preste la DGDUE, a solicitud o en rebeldía del usuario por los siguientes conceptos:
+Son objeto de este derecho, los servicios que preste la SAU, a solicitud o en rebeldía del usuario por los siguientes conceptos:
 
 I. Alineamiento;
 
@@ -2509,7 +2745,9 @@ XVIII. Licencia para la ocupación de la vía pública con instalación de acces
 
 XIX. Licencia para la ocupación de la vía pública para instalaciones provisionales de no más de 5 metros cuadrados;
 
-XX. Licencia para el derribo de árboles o palmeras, previo diagnóstico del impacto ambiental; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+XX. Licencia para el derribo o desrame de palmeras o árboles, previo diagnóstico del impacto ambiental; y
 
 XXI. Visita de campo.
 
@@ -2517,9 +2755,23 @@ XXI. Visita de campo.
 
 Son sujetos de este derecho las personas físicas o morales que sean propietarias o poseedoras de predios ubicados dentro del Municipio que utilicen los servicios a que se refiere el artículo anterior.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 228.
 
-La base gravable de este derecho, la constituye el volumen de obra a construir, demoler o en su caso el importe del costo del servicio.
+La base gravable de este derecho, la constituye:
+
+l. El volumen de obra a construir, demoler;
+
+II. El importe del costo del servicio, para lo que se tomará en cuenta lo siguiente:
+
+III. El derribo y desrame de palmeras o árboles:
+
+a) Palmera o árbol adulto, con un diámetro mayor de 50 centímetros o con una altura mayor de 8 metros; y
+
+b) Palmera o árbol joven, con un diámetro menor de 50 centímetros o con altura menor de 8 metros.
+
+Para efectos de este derecho se entenderá por comercio de barrio, aquellos establecimientos que atienden la demanda de primera necesidad para el abasto o servicios primarios de uso doméstico (no industrial) o de asistencia escolar.
 
 ###### Artículo 229.
 
@@ -2689,7 +2941,9 @@ II. El registro de fierros o marcas para el ganado así como su renovación anua
 
 Son sujetos de este derecho, las personas físicas o morales que habitualmente o accidentalmente se dediquen a la introducción y compraventa de ganado en pie, en canal, en embutidos y similares en el Municipio, los que deberán registrar las operaciones que efectúen ante la administración de Industrial de Abasto Puebla o en los lugares autorizados, para cuyo caso se llevará un libro de registro, sin perjuicio del cumplimiento de los requisitos sanitarios.
 
-También son sujetos de este derecho, las personas que registren fierros o marcas de ganado.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+También son sujetos de este derecho, las personas que registren fierros o marcas de ganado en el Padrón de Introductores.
 
 ###### Artículo 249.
 
@@ -2789,9 +3043,11 @@ Son sujetos de este derecho, todas aquellas personas que soliciten los servicios
 
 ### CAPÍTULO XIII. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA TESORERÍA MUNICIPAL
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 263.
 
-Son objeto de estos derechos los servicios de:
+Son objeto de los derechos los servicios prestados por la Tesorería:
 
 I. La asignación de número de cuenta predial a inmuebles sustraídos de la acción fiscal, condominios, lotificaciones o relotificaciones;
 
@@ -2829,27 +3085,41 @@ En los casos que no sea posible determinar el volumen de extracción, este derec
 
 ### CAPÍTULO XV. DE LOS DERECHOS POR ANUNCIOS COMERCIALES Y PUBLICIDAD
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 268.
 
-Son objeto de estos derechos, la autorización que otorgue la autoridad municipal para la colocación de anuncios comerciales y/o publicidad, en forma temporal, móvil, permanente, en espacios publicitarios municipales, estando en la vía pública, siempre que dichos anuncios tengan efectos en ésta y afecten la imagen urbana del Municipio.
+Son objeto de estos derechos, la autorización que otorgue la autoridad municipal para la colocación de anuncios comerciales y/o publicidad, en forma temporal, móvil o permanente, en espacios publicitarios públicos o privados, fijos o móviles, siempre que dichos anuncios tengan vista a la vía pública y/o influyan en la imagen urbana del Municipio.
 
-Para efectos de este derecho se entiende por anuncios comerciales y/o publicidad todo medio que proporcione información, orientación e identifique un servicio profesional, marca o producto o establecimiento con fines de venta de un bien o servicio, en tanto se realice, ubique o desarrolle en la vía pública del Municipio.
+Así mismo, son sujetos de estos derechos, todo tipo de espacios publicitarios, públicos o privados, fijos o móviles, siempre que dichos anuncios tengan vista a la vía pública y/o influyan en la imagen urbana del Municipio, que estén en desuso por parte de sus dueños, promotores o anunciantes.
+
+Para efectos de este derecho se entiende por anuncios comerciales y/o publicidad todo medio que proporcione información, orientación e identifique un servicio profesional, marca o producto o establecimiento con fines de venta o comercialización de un bien o servicio, en tanto se realice, ubique, desarrolle o tenga efectos sobre la vía pública del Municipio.
 
 No se considerarán anuncios publicitarios los de la radio o anuncios de televisión, periódicos o revistas.
 
 La expedición de licencias, permisos o autorizaciones, a que se refiere este Capítulo, podrá ser anual o de cualquier otra temporalidad, incluso eventual, en cuyo caso la Ley de Ingresos establecerá las cuotas, tasas o tarifas aplicables.
 
-La expedición de licencias, permisos o autorizaciones, a que se refiere este Capítulo, para años subsecuentes a aquél en el que fueron otorgadas por primera vez, deberá solicitarse al Ayuntamiento dentro de los plazos que establezca la autoridad municipal.
+La expedición de licencias, permisos o autorizaciones, a que se refiere este Capítulo, para años subsecuentes a aquél en el que fueron otorgadas por primera vez, será revalidada anualmente y deberá solicitarse al Ayuntamiento dentro de los plazos que establezca la autoridad municipal, previo pago de los derechos correspondientes y demostrando:
+
+l. Que se encuentra al corriente del pago de derechos de los años anteriores.
+
+II. Que ha cumplido con los programas de mantenimiento del anuncio.
+
+III. Que tiene la capacidad jurídica para solicitar la renovación de la licencia.
 
 La expedición de las licencias a que se refiere el párrafo anterior, se pagará de conformidad a las cuotas, tasas y tarifas asignadas a cada giro para el ejercicio correspondiente.
 
-En el caso que para la expedición de la autorización para la colocación de publicidad se obligue el solicitante a retirarla del lugar en el que la coloque, deberá otorgar fianza por afianzadora debidamente autorizada a favor de la Tesorería, por un monto de dos mil pesos, cero centavos, con el objeto de garantizar el retiro de la misma.
+En el caso que para la expedición de la autorización para la colocación de publicidad se obligue el solicitante a retirarla del lugar en el que la coloque, deberá otorgar fianza por afianzadora debidamente autorizada a favor de la Tesorería, por un monto de 100 días de salario mínimo diario vigente en el Municipio de Puebla al momento de su otorgamiento, para el retiro de la misma.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 269.
 
-Son sujetos de este derecho, las personas físicas o morales que utilicen para anunciarse en la vía pública del Municipio, los propietarios o usuarios de un inmueble que utilicen para hacer anuncios o publicidad ajenos al mismo, así como los promotores de cualquier empresa que también soliciten anunciar y hacer publicidad; debiendo solicitar en todos los casos, la autorización correspondiente.
+Son sujetos de este derecho, las personas físicas o morales, públicas o privadas, que utilicen espacios para anunciarse en la vía pública del Municipio o con vista a la misma, los propietarios o usuarios, de un mueble o inmueble que utilicen para hacer anuncios o publicidad, los promotores de cualquier empresa que anuncien y/o hagan publicidad, así como los responsables de los productos, servicios o bienes anunciados; debiendo solicitar en todos los casos, la autorización correspondiente.
 
-Son responsables solidarios en el pago de los derechos a que se refiere este Capítulo, los propietarios o poseedores de predios, fincas o construcciones y lugares de espectáculos en los que se realicen los actos publicitarios, así como los organizadores de eventos en plazas de toros, palenques, estadios, lienzos charros, en autotransporte de servicio público y todo aquél en que se fije la publicidad.
+Igualmente son sujetos del pago de estos derechos, toda persona física o moral, pública o privada que coloque anuncios en la vía pública y/o espacios autorizados por el Ayuntamiento, que realice o haya realizado algún tipo de cobro por productos, bienes, servicios, o contribuciones al Ayuntamiento de Puebla.
+
+Son responsables solidarios en el pago de los derechos a que se refiere este Capítulo, los propietarios o poseedores de predios, fincas o construcciones y lugares de espectáculos en los que se realicen los actos publicitarios, así como los organizadores de eventos en plazas de toros, palenques, estadios, lienzos charros, en autotransporte de servicio público o privado y todo aquél en que se fije la publicidad.
 
 ###### Artículo 270.
 
@@ -2861,7 +3131,9 @@ Las autoridades municipales regularán en sus reglamentos respectivos o mediante
 
 Los derechos a que se refiere este Capítulo, se cobrarán de acuerdo a las tarifas que para cada anuncio establezca la Ley de Ingresos del Municipio, o en su defecto en los términos y condiciones de los convenios y actos jurídicos que los reglamenten.
 
-No causarán los derechos previstos en este Capítulo:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+No causarán los derechos previstos en este Capítulo a quienes realicen:
 
 I. La colocación de carteles o anuncios, o cualquier acto publicitario, realizado con fines de asistencia o beneficencia pública;
 
@@ -2929,9 +3201,83 @@ d) Uso de local para pasturero.
 
 e) Ocupación del local para descapotar.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+### CAPÍTULO XVII
+
+DE LOS DERECHOS POR EXPEDICIÓN DE LICENCIAS, PERMISOS O AUTORIZACIONES PARA EL FUNCIONAMIENTO DE ESTABLECIMIENTOS O LOCALES CUYOS GIROS SEAN LA ENAJENACIÓN DE BEBIDAS ALCOHÓLICAS O LA PRESTACIÓN DE SERVICIOS QUE INCLUYAN EL EXPENDIO DE DICHAS BEBIDAS
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 274 Bis.
+
+Son objeto de este derecho:
+
+l. El otorgamiento y refrendo anual de licencias de funcionamiento de establecimientos o locales cuyo giro implique la enajenación o expendio de bebidas alcohólicas realizada total o parcialmente con el público en general;
+
+II. La ampliación o cambio de giro de licencia de funcionamiento; y
+
+III. Las licencias que para eventos esporádicos se expidan con el carácter de temporales.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 274 Ter.
+
+Son sujetos de estos derechos, las personas físicas o morales que sean propietarios o poseedores de establecimientos o locales cuyo giro implique la enajenación o expendio de bebidas alcohólicas realizada total o parcialmente con el público en general.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
 ### CAPÍTULO I. DISPOSICIONES PRELIMINARES
 
-### CAPÍTULO II. DE LOS PRESUPUESTOS DE EGRESOS
+###### Artículo 274 Quáter.
+
+Es base gravable de este derecho el número de licencias o refrendos que correspondan a cada uno de los siguientes giros:
+
+I. Miscelánea o ultramarinos con venta de cerveza y bebidas refrescantes con una graduación alcohólica de hasta 6° Gay Lusak en envase cerrado;
+
+II. Miscelánea o ultramarinos con venta de bebidas alcohólicas en envase cerrado;
+
+III. Pulquería;
+
+IV. Cervecería, alimentos con venta de cerveza;
+
+V. Restaurante con venta de bebidas alcohólicas;
+
+VI. Depósito de cerveza;
+
+VII. Vinatería;
+
+VIII. Baños públicos con venta de cerveza;
+
+IX. Billares o boliche con venta de cerveza en botella abierta;
+
+X. Bar, Restaurante-bar;
+
+XI. Cantina;
+
+XII. Salón social con venta de bebidas alcohólicas;
+
+XIII. Hotel, Motel y Auto hotel con servicio de restaurante-bar;
+
+XIV. Discoteca;
+
+XV. Cabaret;
+
+XVI. Vinatería con servicio de 24 horas;
+
+XVII. Tienda de autoservicio departamental con venta de bebidas alcohólicas en envase cerrado;
+
+XVIII. Tienda de autoservicio con venta de bebidas alcohólicas en envase cerrado;
+
+XIX. Tienda de autoservicio con venta de bebidas alcohólicas las 24 horas en envase cerrado; y
+
+XX. Cualquier otro giro que implique enajenación o expendio de bebidas alcohólicas en envase cerrado o abierto, no incluida en los anteriores.
+
+Los giros comerciales contemplados en las tracciones anteriores, quedarán sujetos al horario establecido en los reglamentos, acuerdos que expida el Ayuntamiento, o conforme a los acuerdos de coordinación que celebre con otros gobiernos, a efectos de regular y homologar el funcionamiento y horario de diversos establecimientos comerciales con venta de bebidas alcohólicas o de establecer programas de interés público.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+Artículo 274 Qinquies (sic).- Este derecho se causará conforme a la cuota que señale anualmente la Ley de Ingresos del Municipio, aplicado a la base a que se refiere el artículo anterior.
 
 ## TÍTULO CUARTO. DE LOS PRODUCTOS
 
@@ -3007,7 +3353,7 @@ PARTE I
 
 DEL PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO MUNICIPAL
 
-### CAPÍTULO III. DEL EJERCICIO DEL GASTO PÚBLICO MUNICIPAL
+### CAPÍTULO II. DE LOS PRESUPUESTOS DE EGRESOS
 
 ###### Artículo 284.
 
@@ -3039,9 +3385,53 @@ La programación del gasto público municipal deberá encaminarse a la consecuci
 
 Las actividades de programación, presupuestación, control y evaluación del gasto público municipal, estarán a cargo de la Tesorería y de la Contraloría en el ámbito de sus respectivas competencias, las que dictarán las disposiciones procedentes para el eficaz cumplimiento de sus funciones.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 289.
 
-La Tesorería orientará y coordinará la planeación, programación, presupuestación y control contable del gasto público municipal.
+Es competencia de la Tesorería:
+
+l. Orientar y coordinar la planeación, programación, presupuestación y control contable del gasto público municipal;
+
+II. Asesorar al Presidente en aspectos relacionados a la planeación, la definición de la estrategia económica y social del Gobierno Municipal y en la formulación de los planes, programas y políticas consistentes con ella, así como en la elaboración de los proyectos de normatividad interna relacionada al presupuesto y rendición de cuentas que sean sometidos al Cabildo;
+
+III. Realizar el estudio, seguimiento y proyecciones presupuestarias derivadas de:
+
+a) Los impactos en la hacienda municipal relacionadas al comportamiento de la fórmula de distribución de participaciones de los sistemas nacional y estatal de coordinación fiscal, de sus políticas de pago anticipado y las oportunidades de coordinación para el aprovechamiento de espacios impositivos o de los incentivos o apoyos para el desarrollo institucional del Municipio.
+
+b) La política monetaria nacional.
+
+c) Los fondos integrados por excedentes en ingresos de otros niveles de gobierno.
+
+d) Los programas de apoyo financiero.
+
+e) Los programas que impliquen transferencias, subsidios, incentivos o reasignaciones a los municipios.
+
+f) Los ajustes a los presupuestos federal y estatales.
+
+g) Las opciones para la obtención de ingresos de capital.
+
+h) Las demás fuentes de ingresos del erario municipal;
+
+IV. Considerar en la elaboración del proyecto del presupuesto, los elementos para su evaluación con base en indicadores que permitan medir el grado de cumplimiento de los objetivos y metas programadas y que sean congruentes con los sistemas de control de gestión del Órgano de Fiscalización Superior del Estado;
+
+V. Proponer en el ámbito de su competencia, la definición de los objetivos y políticas a corto y largo plazo, la propuesta de resultados de su aplicación y la asignación de recursos para su consecución, teniendo en cuenta las prioridades de política definidas para el periodo de gobierno y las posibilidades que la economía impone a las finanzas públicas;
+
+VI. Propiciar que los proyectos de las entidades se ejecuten previo análisis costo-beneficio o con la evaluación suficiente y que permita planificar el gasto en inversión, incluyendo en lo conducente el gasto de capital diferido, definiendo el alcance de los mismos;
+
+VII. Proveer lo necesario para administrar un registro sistemático de proyectos de inversión considerables en el anteproyecto de presupuesto;
+
+VIII. Asesorar al Presidente y al Cabildo en la formulación de los programas de inversiones públicas y de su financiamiento, ajustándose a los límites de endeudamiento acordados por el Congreso;
+
+IX. Establecer los lineamientos internos a fin de que cada entidad previamente a la conformación del proyecto de presupuesto, identifique sus productos y objetivos estratégicos, a través del logro de las metas anuales definidas;
+
+X. Proponer anualmente al Presidente los criterios y propiciar que se realice una revisión de actividades y metas, para el o los ejercicios siguientes, que permita adecuar la distribución de las partidas presupuestales sobre la base de cambios o ajustes en las metas y actividades programadas, bajo una visión de planeación multianual;
+
+XI. Proponer al Presidente las políticas de racionalización de la administración;
+
+XII. Proponer al Presidente la reducción proporcional del gasto en el caso de que los ingresos sean menores a los previstos; y
+
+XIII. Proponer al Presidente los mecanismos para reducir los costos de recaudación y cumplimiento, propiciando la modernización y el aumento de la eficiencia de la administración tributaria.
 
 Los anteproyectos de las entidades en los términos del artículo 299 de este Código se presentarán a la Tesorería para su trámite en la forma que establece el presente ordenamiento.
 
@@ -3065,7 +3455,7 @@ La Tesorería será fideicomitente del Ayuntamiento en todos los contratos de fi
 
 La contratación de operaciones de financiamiento por las dependencias y entidades se regulará por lo previsto en la parte II del Libro II de este ordenamiento.
 
-### CAPÍTULO IV. DE LA CONTABILIDAD
+### CAPÍTULO III. DEL EJERCICIO DEL GASTO PÚBLICO MUNICIPAL
 
 ###### Artículo 294.
 
@@ -3084,6 +3474,10 @@ Asimismo contendrá las erogaciones previstas en cada año, correspondientes a l
 ###### Artículo 297.
 
 El Presupuesto de Egresos del Municipio será aprobado por el Cabildo, con base en los ingresos disponibles para cada ejercicio fiscal, dentro de los que se considerarán los obtenidos como consecuencia de la realización de las operaciones de financiamiento reguladas por este ordenamiento.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+En caso de que el Cabildo acuerde realizar pagos que no estén comprendidos en el Presupuesto de Egresos, en el acuerdo correspondiente señalará la fuente de ingresos para cubrir los gastos.
 
 ###### Artículo 298.
 
@@ -3143,7 +3537,7 @@ Una vez aprobado el presupuesto de egresos y por causas supervinientes, podrá s
 
 Las entidades a que se refieren las fracciones II a IV del artículo 286 de este Código, presentarán sus proyectos de presupuestos anuales y sus modificaciones en su caso, a la Tesorería para su aprobación a más tardar el 31 de julio del año anterior al de su vigencia. Los proyectos se presentarán de acuerdo con las normas que el Presidente establezca a través de la Tesorería.
 
-### CAPÍTULO V. DE LAS RESPONSABILIDADES
+### CAPÍTULO IV. DE LA CONTABILIDAD
 
 ###### Artículo 304.
 
@@ -3185,7 +3579,7 @@ Lo anterior sin perjuicio de las atribuciones del Síndico, en el caso de que el
 
 Quienes efectúen gasto público municipal, estarán obligados a proporcionar a la Tesorería la información que les solicite y a permitirle a su personal la práctica de visitas para verificar el cumplimiento de las obligaciones derivadas de este ordenamiento y de la normatividad expedida con base en ella.
 
-### CAPÍTULO I. DISPOSICIONES PRELIMINARES
+### CAPÍTULO V. DE LAS RESPONSABILIDADES
 
 ###### Artículo 311.
 
@@ -3231,7 +3625,7 @@ VII. Participar en la depuración de cuentas y activos fijos; y
 
 VIII. Las demás que le indique el Presidente y las que se deriven de otros ordenamientos.
 
-### CAPÍTULO II. DE LAS FACULTADES DE LA TESORERÍA
+### CAPÍTULO I. DISPOSICIONES PRELIMINARES
 
 ###### Artículo 316.
 
@@ -3243,7 +3637,7 @@ II. Pliegos preventivos que levanten:
 
 a) Las entidades, con motivo de la glosa que de su propia contabilidad hagan.
 
-b) La Contraloría;
+b) La Contraloría.
 
 > <small>(REFORMADA, P.O. 27 DE JULIO DE 2005)</small>
 
@@ -3285,7 +3679,7 @@ PARTE II
 
 DE LA DEUDA PÚBLICA
 
-### CAPÍTULO III. DE LA PROGRAMACIÓN DE LA DEUDA PÚBLICA
+### CAPÍTULO II. DE LAS FACULTADES DE LA TESORERÍA
 
 ###### Artículo 322.
 
@@ -3339,7 +3733,7 @@ La deuda pública ordinaria se contratará y ejercerá con base en el programa d
 
 Las entidades públicas a que se refieren las fracciones II a IV del artículo 323, contratarán su deuda pública, con base en los decretos específicos que autorice el Congreso.
 
-### CAPÍTULO IV. DE LA CONTRATACIÓN DE LOS FINANCIAMIENTOS
+### CAPÍTULO III. DE LA PROGRAMACIÓN DE LA DEUDA PÚBLICA
 
 ###### Artículo 327.
 
@@ -3373,7 +3767,7 @@ A fin de que las entidades a que refieren las fracciones II a IV del artículo 3
 
 Para la contratación de financiamientos, sin garantía municipal, a cargo de las entidades a que se refieren las fracciones II a IV del artículo 323 de este ordenamiento, bastará la autorización de sus respectivos órganos de gobierno.
 
-### CAPÍTULO V. DE LA VIGILANCIA Y REGISTRO DE LAS OPERACIONES DE FINANCIAMIENTO
+### CAPÍTULO IV. DE LA CONTRATACIÓN DE LOS FINANCIAMIENTOS
 
 ###### Artículo 329.
 
@@ -3407,13 +3801,15 @@ El Ayuntamiento por conducto de la Tesorería, informará al Congreso del estado
 
 En el caso de que se solicite la autorización para la contratación de nuevos financiamientos, él mismo informará periódicamente de sus movimientos.
 
+> <small>(REFORMADO PRIMER PARRAFO., P.O. 30 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 330.
 
-El Ayuntamiento al someter al Congreso la iniciativa correspondiente a la Ley de Ingresos, deberá proponer los montos del endeudamiento neto necesario y acompañar su programa de financiamiento, mismo que contendrá los elementos de juicio suficientes para fundamentar su propuesta, entre los que se encontrará la indicación clara de los recursos que se utilizarán para el pago de los financiamientos.
+El Ayuntamiento al someter al Congreso la iniciativa correspondiente a la Ley de Ingresos, deberá proponer los montos del endeudamiento neto necesario y acompañar su programa de financiamiento, mismo que contendrá los elementos de juicio suficientes para fundamentar su propuesta, entre los que se encontrará la indicación clara de los recursos que se utilizarán para el pago de los financiamientos y los plazos para su reducción progresiva.
 
 El Congreso al aprobar la Ley de Ingresos, podrá autorizar al Ayuntamiento a ejercer o autorizar montos adicionales de financiamiento cuando, a juicio del propio Ayuntamiento, se presenten circunstancias económicas extraordinarias que así lo exijan. Cuando se haga uso de esta autorización, informará de inmediato al Congreso a través de la Tesorería.
 
-### CAPÍTULO I. DISPOSICIONES PRELIMINARES
+### CAPÍTULO V. DE LA VIGILANCIA Y REGISTRO DE LAS OPERACIONES DE FINANCIAMIENTO
 
 ###### Artículo 331.
 
@@ -3441,7 +3837,7 @@ Se podrá otorgar en garantía cualquier bien, derecho o ingreso que se encuentr
 
 Las entidades públicas previstas en el artículo 323 de este Capítulo, podrán otorgar en garantía ingresos hacendarios presentes y futuros.
 
-### CAPÍTULO II. DE LA ADQUISICIÓN Y ARRENDAMIENTO DE BIENES INMUEBLES
+### CAPÍTULO I. DISPOSICIONES PRELIMINARES
 
 ###### Artículo 336.
 
@@ -3471,7 +3867,7 @@ PARTE III
 
 DE LOS BIENES MUNICIPALES
 
-### CAPÍTULO III. DE LOS BIENES DE DOMINIO PÚBLICO
+### CAPÍTULO II. DE LA ADQUISICIÓN Y ARRENDAMIENTO DE BIENES INMUEBLES
 
 ###### Artículo 340.
 
@@ -3551,9 +3947,11 @@ La representación, trámite y resolución de los asuntos en la materia que regu
 
 Lo anterior sin perjuicio de que en cualquier momento, el Presidente pueda ejercer la competencia arrogada a las dependencias, sin necesidad de acuerdo previo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 349.
 
-Es competencia de la DGDUE:
+Es competencia de la SAU:
 
 I. Determinar y conducir la política inmobiliaria del Municipio, proponer al Cabildo por conducto del Presidente, la emisión de normas técnicas, autorización y, en su caso, realización de la construcción, reconstrucción y conservación de los edificios públicos, monumentos, obras de ornato y las demás que realice el Municipio por sí o en colaboración con el Estado o con otros Municipios, con organismos públicos o con los particulares, excepto por las encomendadas expresamente por la ley a otras dependencias o entidades;
 
@@ -3609,7 +4007,7 @@ Tratándose de inmuebles municipales o del dominio público de los organismos qu
 
 Para efectos administrativos, la interpretación y aplicación de este Código corresponde al Ayuntamiento a través del Presidente en los casos de bienes municipales, y al titular de cada organismo respecto de bienes que le sean propios.
 
-### CAPÍTULO IV. DE LOS BIENES DEL DOMINIO PRIVADO
+### CAPÍTULO III. DE LOS BIENES DE DOMINIO PÚBLICO
 
 ###### Artículo 356.
 
@@ -3617,17 +4015,23 @@ Las disposiciones de este Capítulo regulan la adquisición de bienes inmuebles,
 
 Las adquisiciones que realice el Municipio por vías de derecho público, se regirán por las normas que le resulten aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 357.
 
-Las dependencias de la Administración Pública Municipal, deberán presentar a la DGDUE un programa anual, que contenga sus necesidades inmobiliarias para tener información que funde las políticas y decisiones en la materia.
+Las dependencias de la Administración Pública Municipal, deberán presentar a la SAU un programa anual, que contenga sus necesidades inmobiliarias para tener información que funde las políticas y decisiones en la materia.
 
 La adquisición de bienes inmuebles que se programen, deberán encaminarse al cumplimiento de los fines de la planeación municipal, previstos en el Plan de Desarrollo Municipal que corresponda.
 
-En todos los casos, la DGDUE verificará que el uso para el que se requieran los inmuebles, sea compatible con las disposiciones vigentes en materia de desarrollo urbano y obtendrá información de la Tesorería sobre la disponibilidad presupuestal para la adquisición de los mismos, debiendo al momento de la adquisición contar con la partida presupuestal autorizada.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+En todos los casos, la SAU verificará que el uso para el que se requieran los inmuebles, sea compatible con las disposiciones vigentes en materia de desarrollo urbano y obtendrá información de la Tesorería sobre la disponibilidad presupuestal para la adquisición de los mismos, debiendo al momento de la adquisición contar con la partida presupuestal autorizada.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 358.
 
-Para satisfacer los requerimientos de inmuebles que planteen las dependencias, la DGDUE, con base en la información que arroje el Sistema Municipal de Información Inmobiliaria, aplicará los criterios de asignación de los mismos o los procedimientos de adjudicación que se prevén en la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios del Estado.
+Para satisfacer los requerimientos de inmuebles que planteen las dependencias, la SAU, con base en la información que arroje el Sistema Municipal de Información Inmobiliaria, aplicará los criterios de asignación de los mismos o los procedimientos de adjudicación que se prevén en la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios del Estado.
 
 En todos los casos, será el Cabildo quien apruebe la adquisición de bienes inmuebles que se incorporen al patrimonio municipal.
 
@@ -3635,19 +4039,21 @@ En todos los casos, será el Cabildo quien apruebe la adquisición de bienes inm
 
 Cuando el Gobierno Municipal adquiera en los términos del derecho privado un inmueble, para cumplir con finalidades de orden público, podrá convenir con los poseedores derivados o precarios, la forma y términos conforme a los cuales se darán por terminados los contratos de arrendamiento, comodato o cualquier otro tipo de relación jurídica que les otorgue la posesión del bien, pudiendo cubrirse en cada caso, la compensación que se considere procedente. El término para la desocupación y entrega del inmueble no deberá exceder de un año.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 360.
 
-Las dependencias, sólo podrán arrendar bienes inmuebles para su servicio, cuando no sea posible o conveniente su adquisición a juicio de la DGDUE, quien acreditará tales supuestos, previo informe que le rinda la dependencia solicitante.
+Las dependencias, sólo podrán arrendar bienes inmuebles para su servicio, cuando no sea posible o conveniente su adquisición a juicio de la SAU, quien acreditará tales supuestos, previo informe que le rinda la dependencia solicitante.
 
-Tanto el arrendamiento de inmuebles para oficinas públicas, como la construcción, reconstrucción, adaptación, conservación y mantenimiento de las mismas, se realizará previa validación de los estudios y/o proyectos o programas, por parte de la DGDUE.
+Tanto el arrendamiento de inmuebles para oficinas públicas, como la construcción, reconstrucción, adaptación, conservación y mantenimiento de las mismas, se realizará previa validación de los estudios y/o proyectos o programas, por parte de la SAU.
 
-El Presidente previa propuesta de la DGDUE, propondrá al Cabildo las normas y criterios técnicos para la construcción, reconstrucción, adaptación, conservación, mantenimiento y aprovechamiento de los inmuebles destinados a oficinas públicas municipales.
+El Presidente previa propuesta de la SAU, propondrá al Cabildo las normas y criterios técnicos para la construcción, reconstrucción, adaptación, conservación, mantenimiento y aprovechamiento de los inmuebles destinados a oficinas públicas municipales.
 
 ###### Artículo 361.
 
 Los titulares de los organismos serán responsables de aplicar, en lo conducente, las disposiciones de este Capítulo.
 
-### CAPÍTULO V. DE LAS INSCRIPCIONES DE LOS BIENES
+### CAPÍTULO IV. DE LOS BIENES DEL DOMINIO PRIVADO
 
 ###### Artículo 362.
 
@@ -3679,9 +4085,11 @@ Las disposiciones de los párrafos segundo y tercero del artículo anterior, ser
 
 En este caso la normatividad respectiva será emitida por las autoridades que resulten competentes.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 365.
 
-Corresponde al Presidente o al titular del organismo de que se trate según el caso, por conducto de la DGDUE procurar la remoción de cualquier obstáculo creado natural o artificialmente para el uso y destino de los bienes del dominio público.
+Corresponde al Presidente o al titular del organismo de que se trate según el caso, por conducto de la SAU procurar la remoción de cualquier obstáculo creado natural o artificialmente para el uso y destino de los bienes del dominio público.
 
 ###### Artículo 366.
 
@@ -3697,7 +4105,9 @@ Cuando a juicio del Síndico o del representante jurídico del organismo de que 
 
 Las resoluciones a que se refieren los artículos 365 y 366, podrán ser reclamadas ante la autoridad administrativa o judicial competente, de acuerdo con lo que establezcan las leyes aplicables. A falta de disposición en dichas leyes, o cuando las mismas sean insuficientes, quien sufra un perjuicio individual, directo y actual, interpondrá el recurso de revisión previsto en el artículo 2 de este ordenamiento.
 
-A juicio de la autoridad responsable y siempre que no se afecte el interés público, interpuesto el recurso, dicha autoridad deberá suspender la ejecución de la resolución impugnada previo al otorgamiento de garantía bastante, a juicio de la DGDUE, que deberá otorgar el recurrente. En este evento la autoridad tomará las medidas que fueren necesarias para salvaguardar los intereses del Municipio.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+A juicio de la autoridad responsable y siempre que no se afecte el interés público, interpuesto el recurso, dicha autoridad deberá suspender la ejecución de la resolución impugnada previo al otorgamiento de garantía bastante, a juicio de la SAU, que deberá otorgar el recurrente. En este evento la autoridad tomará las medidas que fueren necesarias para salvaguardar los intereses del Municipio.
 
 #### SECCIÓN III. DE LOS BIENES DE USO COMÚN
 
@@ -3743,7 +4153,9 @@ IV. Nulidad, revocación y caducidad;
 
 V. Declaratoria de rescate; y
 
-VI. Cualquier otra prevista en las leyes, reglamentos, disposiciones administrativas o en la concesión misma, que a juicio del Presidente y previo dictamen de la DGDUE haga imposible e inconveniente su continuación.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+VI. Cualquier otra prevista en las leyes, reglamentos, disposiciones administrativas o en la concesión misma, que a juicio del Presidente y previo dictamen de la SAU haga imposible e inconveniente su continuación.
 
 ###### Artículo 373.
 
@@ -3773,9 +4185,11 @@ En el caso de que la autoridad declare la nulidad, revocación o caducidad de un
 
 Los permisos o autorizaciones que se establezcan sobre bienes del dominio público, serán otorgadas por el Presidente conforme a las reglas generales que apruebe el Cabildo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 376.
 
-Respecto de las concesiones, permisos o en las que se establezca que a su término pasarán al dominio del Municipio los inmuebles destinados o afectos a los fines de los mismos, corresponderá a la DGDUE:
+Respecto de las concesiones, permisos o en las que se establezca que a su término pasarán al dominio del Municipio los inmuebles destinados o afectos a los fines de los mismos, corresponderá a la SAU:
 
 I. Inscribir en el Registro Público de la Propiedad y del Comercio los documentos en que conste el derecho de reversión del Municipio;
 
@@ -3797,9 +4211,11 @@ Cualquier operación que se realice en contra del tenor de este artículo será 
 
 Sin perjuicio de las sanciones a que se hagan acreedores los concesionarios por permitir que un tercero aproveche o explote bienes del dominio público, las cantidades que éstos obtengan, se considerarán créditos fiscales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 378.
 
-Las concesiones sobre bienes del dominio público, podrán rescatarse por causa de utilidad o interés público, mediante indemnización, cuyo monto será fijado por el Catastro Municipal o a juicio de la DGDUE, por peritos en atención a la especialidad de los bienes materia de la valuación.
+Las concesiones sobre bienes del dominio público, podrán rescatarse por causa de utilidad o interés público, mediante indemnización, cuyo monto será fijado por el Catastro Municipal o ajuicio de la SAU, por peritos en atención a la especialidad de los bienes materia de la valuación.
 
 La declaratoria de rescate hará que los bienes materia de la concesión vuelvan, de pleno derecho desde la fecha de la declaratoria, a la posesión, control y administración de la autoridad que la otorgó, y que ingresen al patrimonio del Municipio o del organismo de que se trate según el caso, los bienes, equipo e instalaciones destinados directa o indirectamente a los fines de la concesión. Podrá autorizarse al concesionario a retirar y a disponer de los bienes, equipo e instalaciones de su propiedad afectos a la concesión, cuando los mismos no fueren útiles a la autoridad otorgante y puedan ser aprovechados por el concesionario; pero, en este caso, su valor real actual no se incluirá en el monto de la indemnización.
 
@@ -3867,9 +4283,11 @@ Las destinatarias deberán iniciar la utilización de los inmuebles que se les d
 
 La conservación y mantenimiento de los referidos inmuebles estará a cargo de las propias destinatarias.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 386.
 
-Si no se diere cumplimiento a lo dispuesto en el artículo anterior, se deja de utilizar o de necesitar el inmueble o se le da un uso distinto al aprobado conforme a este Código y sus reglamentos, las destinatarias deberán entregarlo con todas sus mejoras y accesorios a la DGDUE o al organismo de que se trate, sin que tengan derecho a compensación alguna. En caso de que las destinatarias incurran en omisión, la propia autoridad otorgante podrá proceder a requerir la entrega del bien y en su defecto, a tomar posesión de él en forma administrativa para destinarlo a los usos que de acuerdo a la política inmobiliaria del Municipio o del organismo resulten más convenientes.
+Si no se diere cumplimiento a lo dispuesto en el artículo anterior, se deja de utilizar o de necesitar el inmueble o se le da un uso distinto al aprobado conforme a este Código y sus reglamentos, las destinatarias deberán entregarlo con todas sus mejoras y accesorios a la SAU o al organismo de que se trate, sin que tengan derecho a compensación alguna. En caso de que las destinatarias incurran en omisión, la propia autoridad otorgante podrá proceder a requerir la entrega del bien y en su defecto, a tomar posesión de él en forma administrativa para destinarlo a los usos que de acuerdo a la política inmobiliaria del Municipio o del organismo resulten más convenientes.
 
 Las destinatarias deberán utilizar los inmuebles de una manera óptima atendiendo para ello a los lineamientos que para ese efecto apruebe el Ayuntamiento o el órgano de administración del organismo de que se trate.
 
@@ -3877,9 +4295,11 @@ En caso de que las propias destinatarias no requieran usar la totalidad del inmu
 
 En caso que se omita la obligación prevista en el párrafo anterior, la otorgante procederá en los términos del párrafo primero de este artículo.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 387.
 
-En relación con los bienes inmuebles destinados, no se podrá realizar ningún acto de disposición, ni conferir derechos de uso, sin la previa autorización de la otorgante. La inobservancia de lo antes señalado, producirá la nulidad de pleno derecho del acto relativo y la DGDUE o el organismo según el caso, podrán proceder a la ocupación administrativa del inmueble.
+En relación con los bienes inmuebles destinados, no se podrá realizar ningún acto de disposición, ni conferir derechos de uso, sin la previa autorización de la otorgante. La inobservancia de lo antes señalado, producirá la nulidad de pleno derecho del acto relativo y la SAU o el organismo según el caso, podrán proceder a la ocupación administrativa del inmueble.
 
 ###### Artículo 388.
 
@@ -3889,21 +4309,33 @@ No pierden su carácter de bienes de dominio público los que, estando destinado
 
 Los inmuebles destinados serán para uso exclusivo de la institución pública que los ocupe o los tenga a su servicio. Las obras, el aprovechamiento de espacios, la conservación y el mantenimiento de los edificios públicos se sujetarán a las bases siguientes:
 
-I. Las obras de construcción, reconstrucción o modificación de los inmuebles destinados, deberán ser realizadas por la DGDUE o por el organismo de que se trate, ya sea por administración directa o mediante contrato de obra pública, de acuerdo con los proyectos que apruebe la otorgante, y con cargo al presupuesto de la misma, en el caso de que la destinataria sea la Administración Pública Centralizada o a cargo de la destinataria cuando sea diversa. Esto sin perjuicio de los acuerdos o convenios que suscriba el Municipio o el organismo y que den origen a un destino específico; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-II. La conservación y mantenimiento de los inmuebles destinados, se llevará a cabo de acuerdo con programas anuales que deberán formular las destinatarias que los tengan a su servicio y que aprobará la DGDUE o el organismo, quienes vigilarán la observancia y cumplimiento de los mismos.
+l. Las obras de construcción, reconstrucción o modificación de los inmuebles destinados, deberán ser realizadas por la SAU o por el organismo de que se trate, ya sea por administración directa o mediante contrato de obra pública, de acuerdo con los proyectos que apruebe la otorgante, y con cargo al presupuesto de la misma, en el caso de que la destinataria sea la Administración Pública Centralizada o a cargo de la destinataria cuando sea diversa. Esto sin perjuicio de los acuerdos o convenios que suscriba el Municipio o el organismo y que den origen a un destino específico; y
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+II. La conservación y mantenimiento de los inmuebles destinados, se llevará a cabo de acuerdo con programas anuales que deberán formular las destinatarias que los tengan a su servicio y que aprobará la SAU o el organismo, quienes vigilarán la observancia y cumplimiento de los mismos.
 
 ###### Artículo 390.
 
 Si estuvieren instaladas en un mismo inmueble de propiedad municipal o en un bien propio de los organismos, diversas oficinas del Municipio y otras destinatarias, los actos a que se refiere el artículo anterior se sujetarán a las normas siguientes:
 
-I. Las obras de construcción, reconstrucción o modificación de dichos bienes las realizará la DGDUE o el organismo según el caso, por administración directa o por contrato, de acuerdo con los proyectos que para tal efecto formule la otorgante de los destinos, y con cargo a los destinatarios, en forma y términos que previamente deberán convenirse; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-II. En todos los casos, tratándose de obras de adaptación y de aprovechamiento de inmuebles municipales, los proyectos correspondientes deberán ser aprobados por la DGDUE o el organismo, y su ejecución será supervisada por la misma.
+l. Las obras de construcción, reconstrucción o modificación de dichos bienes las realizará la SAU o el organismo según el caso, por administración directa o por contrato, de acuerdo con los proyectos que para tal efecto formule la otorgante de los destinos, y con cargo a los destinatarios, en forma y términos que previamente deberán convenirse; y
 
-La DGDUE o el organismo, de acuerdo con los estudios y evaluaciones que haga del uso o aprovechamiento de los espacios de los inmuebles de su propiedad, podrán determinar la redistribución o redesignación de áreas entre las destinatarias, para cuyo efecto dictará y tramitará las medidas administrativas que sean necesarias.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-La conservación y mantenimiento de los inmuebles a que se refiere este artículo, se realizará de acuerdo con un programa que para cada caso concreto formule la DGDUE o el organismo según el caso, con la participación de las instituciones ocupantes. La realización del mismo se hará en la forma y términos que determine la otorgante del destino.
+II. En todos los casos, tratándose de obras de adaptación y de aprovechamiento de inmuebles municipales, los proyectos, correspondientes deberán ser aprobados por la SAU o el organismo, y su ejecución será supervisada por la misma.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+La SAU o el organismo, de acuerdo con los estudios y evaluaciones que haga del uso o aprovechamiento de los espacios de los inmueble s de su propiedad, podrán determinar la redistribución o redesignación de áreas entre las destinatarias, para cuyo efecto dictará y tramitará las medidas administrativas que sean necesarias.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+La conservación y mantenimiento de los inmuebles a que se refiere este artículo, se realizará de acuerdo con un programa que para cada caso concreto formule la SAU o el organismo según el caso, con la participación de las instituciones ocupantes. La realización del mismo se hará en la forma y términos que determine la otorgante del destino.
 
 En todos los casos, deberán preverse las estipulaciones necesarias para cumplir los extremos de este artículo, en el acuerdo de destino que se emita en los términos de este ordenamiento.
 
@@ -3913,7 +4345,9 @@ No se permitirá a funcionarios públicos, empleados o agentes de la Administrac
 
 Estará a cargo de las dependencias o instituciones que tengan destinados a su servicio los inmuebles municipales o de los organismos, la observancia y aplicación de este precepto.
 
-### CAPÍTULO VI. DEL SISTEMA MUNICIPAL DE INFORMACIÓN INMOBILIARIA
+### CAPÍTULO V. DE LAS INSCRIPCIONES DE LOS BIENES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
 #### SECCIÓN II. DE LOS MUEBLES DEL DOMINIO PRIVADO
 
@@ -3963,9 +4397,11 @@ Si el donatario no hiciere uso del bien para los fines señalados dentro del pla
 
 Cuando la donataria sea una asociación o institución privada, también procederá la reversión del bien y sus mejoras en favor del Municipio, si la donataria desvirtúa la naturaleza o el carácter no lucrativo de sus fines, si deja de cumplir con su objeto o si se extingue. Las condiciones a que se refiere este artículo se insertarán en la escritura de enajenación respectiva.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 399.
 
-La enajenación de bienes a particulares, se realizará considerando que el precio de venta no sea menor al valor catastral actualizado. La convocatoria se publicará con quince días de anticipación por lo menos, en el Periódico Oficial y en el diario de mayor circulación en el Estado a juicio de la DGDUE.
+La enajenación de bienes a particulares, se realizará considerando que el precio de venta no sea menor al valor catastral actualizado. La convocatoria se publicará con quince días de anticipación por lo menos, en el Periódico Oficial y en el diario de mayor circulación en el Estado a juicio de la SAU.
 
 Lo previsto en el párrafo anterior, no será aplicable tratándose de enajenaciones derivadas de Planes o Programas de interés público en cuyo caso, se estará a los procedimientos y parámetros que acuerde el Cabildo.
 
@@ -4067,11 +4503,13 @@ También será aplicable en lo conducente, para dichos bienes lo previsto por el
 
 El Presidente previó acuerdo del Ayuntamiento, podrá donar bienes muebles de propiedad municipal que figuren en sus respectivos inventarios, a la Federación, al Estado, a Municipios, organismos públicos, instituciones de beneficencia, educativas o culturales, a quienes atiendan la prestación de servicios sociales por encargo del propio Ayuntamiento, a beneficiarios de algún servicio asistencial público, a las comunidades agrarias y ejidos, previa justificación de la medida y con ello atender necesidades del orden social.
 
-### CAPÍTULO VII. SANCIONES
+### CAPÍTULO VI. DEL SISTEMA MUNICIPAL DE INFORMACIÓN INMOBILIARIA
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 413.
 
-La DGDUE o el titular de cada organismo descentralizado municipal según el caso, será responsable de que se inscriban en el Registro Público de la Propiedad y del Comercio que corresponda, los actos que conforme a la ley sean registrables y se vinculen a los bienes de propiedad municipal, y que en forma enunciativa y no limitativa son:
+La SAU o el titular de cada organismo descentralizado municipal según el caso, será responsable de que se inscriban en el Registro Público de la Propiedad y del Comercio que corresponda, los actos que conforme a la ley sean registrables y se vinculen a los bienes de propiedad municipal, y que en forma enunciativa y no limitativa son:
 
 I. Los títulos por los cuales se adquiera, transmita, modifique, grave o extinga el dominio, la posesión y los demás derechos reales pertenecientes al Municipio o a los organismos;
 
@@ -4111,9 +4549,13 @@ III. Cuando se declare la nulidad del título en cuya virtud se haya hecho la in
 
 En la cancelación de las inscripciones, se asentarán los datos necesarios a fin de que se conozca con toda exactitud cuál es la inscripción que se cancela y las causas de la misma.
 
+### CAPÍTULO VII. SANCIONES
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 418.
 
-Se crea el Sistema Municipal de Información Inmobiliaria, mismo que será administrado por la DGDUE y tendrá por objeto la integración de los datos de identificación física, antecedentes jurídicos y administrativos de los inmuebles municipales que por cualquier concepto usen, administren o tengan a su cuidado las dependencias y entidades de la Administración Pública Municipal y de las demás instituciones públicas y privadas.
+Se crea el Sistema Municipal de Información Inmobiliaria, mismo que será administrado por la SAU y tendrá por objeto la integración de los datos de identificación física, antecedentes jurídicos y administrativos de los inmuebles Municipales que por cualquier concepto usen, administren o tengan a su cuidado las dependencias y entidades de la Administración Pública Municipal y de las demás instituciones públicas y privadas.
 
 ###### Artículo 419.
 
@@ -4121,19 +4563,23 @@ Las dependencias y entidades de la Administración Pública Municipal y las dem�
 
 Lo anterior, sin perjuicio de la integración y actualización de los propios catálogos e inventarios de los organismos.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 420.
 
-El Ayuntamiento determinará las normas y procedimientos para la integración y envío a la DGDUE de la información para el funcionamiento y actualización del Sistema Municipal de Información Inmobiliaria.
+El Ayuntamiento determinará las normas y procedimientos para la integración y envío a la SAU de la información para el funcionamiento y actualización del Sistema Municipal de Información Inmobiliaria.
 
 ###### Artículo 421.
 
-Se sancionará con multa de cien a diez mil veces el salario mínimo general diario vigente para el Estado de Puebla a quien, vencido el término señalado en la concesión, permiso o autorización que se haya otorgado para la explotación, uso o aprovechamiento de un bien del dominio público, no lo devolviere a la autoridad correspondiente dentro del término de treinta días naturales siguientes a la fecha del requerimiento administrativo que le sea formulado por la DGDUE o por el titular del organismo de que se trate según el caso.
+Se sancionará con multa de cien a diez mil veces el salario mínimo general diario vigente para el Estado de Puebla a quien, vencido el término señalado en la concesión, permiso o autorización que se haya otorgado para la explotación, uso o aprovechamiento de un bien del dominio público, no lo devolviere a la autoridad correspondiente dentro del término de treinta días naturales siguientes a la fecha del requerimiento administrativo que le sea formulado por la SAU o por el titular del organismo de que se trate según el caso.
 
 ###### Artículo 422.
 
 La misma sanción se impondrá a quien, a sabiendas de que un bien pertenece al Municipio o a un organismo descentralizado municipal, lo explote, use o aproveche sin haber obtenido previamente, concesión, permiso, autorización, o celebrado contrato con la autoridad competente.
 
-Las obras e instalaciones que sin concesión o permiso se realicen en los bienes de propiedad municipal o en los bienes propios de un organismo, se perderán en beneficio de estos en su caso, la DGDUE o el titular del organismo, ordenará que las obras o instalaciones sean demolidas por cuenta del infractor, sin que proceda indemnización o compensación alguna.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+Las obras e instalaciones que sin concesión o permiso se realicen en los bienes de propiedad municipal o en los bienes propios de un organismo, se perderán en beneficio de éstos en su caso, la SAU o el titular del organismo, ordenará que las obras o instalaciones sean demolidas por cuenta del infractor, sin que proceda indemnización o compensación alguna.
 
 Las sanciones previstas en este artículo, se aplicarán a los concesionarios que permitan que un tercero aproveche o explote bienes de dominio público, sin autorización expresa de la autoridad que las otorgó.
 
@@ -4141,9 +4587,11 @@ Las sanciones previstas en este artículo, se aplicarán a los concesionarios qu
 
 En los casos a que se refieren los dos artículos que anteceden, independientemente de la intervención de las autoridades a quienes corresponda perseguir y sancionar los delitos cometidos, la autoridad administrativa podrá recuperar directamente la tenencia material de los bienes de que se trate, en la forma establecida en la parte III del Libro II del presente Código.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
 ###### Artículo 424.
 
-A los Notarios Públicos que autoricen actos o contratos en contra de las disposiciones de este ordenamiento, independientemente de la responsabilidad en que incurran, la DGDUE podrá sancionarlos con multa de veinte a cinco mil veces el salario mínimo general diario vigente para el Estado de Puebla.
+A los Notarios Públicos que autoricen actos o contratos en contra de las disposiciones de este ordenamiento, independientemente de la responsabilidad en que incurran, la SAU podrá sancionarlos con multa de veinte a cinco mil veces el salario mínimo general diario vigente para el Estado de Puebla.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -4204,3 +4652,17 @@ P.O. 27 DE JULIO DE 2005.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor el al día siguiente de su publicación en el Periódico Oficial.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Los convenios, actos jurídicos o administrativos, títulos, acuerdos, órdenes y circulares que a la fecha de la entrada en vigor del presente Decreto, se refieran a la DGDUE deberán ser considerados haciendo referencia a la SAU.
+
+CUARTO.- Serán válidos los actos administrativos pronunciados por la Dirección de Registro y Fiscalización. Los procedimientos que haya dicha Dirección iniciado y no se encuentren concluidos a la fecha de inicio de la vigencia del presente Decreto, serán continuados por el Departamento de Registro y Fiscalización de la Dirección de Ingresos, ambas de la Tesorería.
+
+QUINTO.- Las disposiciones legales, acuerdos, órdenes, circulares, en que se haga mención de la Dirección de Registro y Fiscalización, se entenderá, a la fecha de entrada en vigor del presente Decreto, que se refieren a la Dirección de Ingresos.
+
+SEXTO.- Las disposiciones legales, acuerdos, órdenes, circulares, actos administrativos, avalúos y en general todos los actos relacionados con el desarrollo de operaciones catastrales, en que se haga mención al Departamento de Catastro, se entenderá a la fecha de entrada en vigor del presente Decreto, que se refieren a la Dirección de Catastro de la Tesorería.
