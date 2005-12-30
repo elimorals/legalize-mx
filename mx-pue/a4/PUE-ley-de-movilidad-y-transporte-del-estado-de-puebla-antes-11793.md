@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-movilidad-y-transporte-del-estado-de-puebla-antes-11793"
 country: "mx"
 rank: "ley"
 publication_date: "1998-03-18"
-last_updated: "2005-01-12"
+last_updated: "2005-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2005.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 18 de marzo de 1998.
 
@@ -275,9 +275,15 @@ VI.- Ordenar que se realicen periódicamente revistas a los vehículos destinado
 
 VII.- Dictar las medidas necesarias para poner a disposición de las autoridades competentes, a los conductores o a los vehículos del Servicio Público de Transporte y del Servicio Mercantil, cuando de los hechos inspeccionados se deduzca una probable responsabilidad;
 
-VIII.- Coordinarse con las diferentes áreas de la Secretaría y otras dependencias y entidades de las Administraciones Públicas Federal, Estatal y Municipales, así como de otras entidades federativas, a efecto de determinar las posibles necesidades y soluciones del Servicio de Transporte y sus Servicios Auxiliares en el Estado, y
+VIII.- Coordinarse con las diferentes áreas de la Secretaría y otras dependencias y entidades de las Administraciones Públicas Federal, Estatal y Municipales, así como de otras entidades federativas, a efecto de determinar las posibles necesidades y soluciones del Servicio de Transporte y sus Servicios Auxiliares en el Estado, y (sic)
 
-IX.- Las demás que le otorgue la presente Ley y sus Reglamentos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+IX.- Instrumentar en beneficio de los usuarios la utilización de elementos aportados por la ciencia y tecnología, para la implementación de nuevos sistemas en el manejo operativo, incluyendo sistemas de cobro en las distintas modalidades del transporte; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+X.- Las demás que le otorgue la presente Ley y sus Reglamentos.
 
 ###### ARTICULO 7.
 
@@ -315,15 +321,27 @@ II.- Revisar la documentación necesaria que deben portar los operadores de las 
 
 III.- Practicar inspecciones y revistas a los vehículos del Servicio Público de Transporte y el Servicio Mercantil;
 
-IV.- Ejecutar las disposiciones que sobre la materia emitan las autoridades del transporte del Estado, y
+IV.- Ejecutar las disposiciones que sobre la materia emitan las autoridades del transporte del Estado, y (sic)
 
 > <small>(REFORMADA, P.O. 26 DE ENERO DE 2001)</small>
 
-V.- Retirar de la circulación a los vehículos que no cumplan con los requisitos establecidos en la presente Ley y sus Reglamentos, y
+V.- Retirar de la circulación a los vehículos que no cumplan con los requisitos establecidos en la presente Ley y sus Reglamentos, y (sic)
 
-> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2001)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-VI.- Las demás que les confieran la presente Ley y sus Reglamentos.
+VI.- Elaborar las boletas de infracciones a los conductores de los vehículos del Servicio Público de Transporte y del Servicio Mercantil, cuando infrinjan la presente Ley y sus Reglamentos;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+VII.- Hacer del conocimiento de la autoridad competente hechos o conductas, que se presuman constitutivos de delito;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+VIII.- Vigilar y supervisar el cumplimiento de las disposiciones relativas a los itinerarios, bases y sitios autorizados; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+IX.- Las demás que les confieran la presente Ley y sus Reglamentos.
 
 ###### ARTICULO 11.
 
@@ -393,7 +411,7 @@ d).- Mensajería y Paquetería;
 
 e).- Especial, y
 
-f).- Giros restringidos.
+f ).- Giros restringidos.
 
 ###### ARTICULO 18.
 
@@ -469,11 +487,13 @@ Giro Restringido, es aquél que se presta en vehículos que requieren tener cond
 
 Los vehículos destinados a la prestación del Servicio Público de Transporte y del Servicio Mercantil, además de cumplir con lo establecido en la presente Ley, cuando así lo requiera la autoridad competente, deberán acreditar la vigencia de la concesión o del permiso correspondiente.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 36.
 
-Para que un vehículo del Servicio Público del Transporte y del Servicio Mercantil, pueda circular por la infraestructura vial del Estado, deberá contar con los siguientes documentos: Placas vigentes, tarjeta de circulación, calcomanías y, en su caso, tarjetón de concesión o permiso. Además, estará obligado a reunir los requisitos de funcionalidad, seguridad y comodidad que señala esta Ley y sus Reglamentos. Tratándose de las unidades del Servicio Público del Transporte y del Servicio Mercantil, tendrá que llevar los colores reglamentarios además de cumplir con las especificaciones relativas a su identificación.
+Para que un vehículo del Servicio Público del Transporte y del Servicio Mercantil pueda circular por la infraestructura vial del Estado, debe llevar en todo momento durante la prestación del servicio los siguientes documentos vigentes: tarjeta de circulación, calcomanías, póliza del seguro, tarjetón de concesión o permiso y placas de circulación autorizadas; asimismo el conductor debe portar la licencia vigente de conducir correspondiente y el tarjetón de identificación del conductor el cual debe ser colocado en el interior de la unidad en un lugar visible para el usuario; dichos documentos podrán ser en original y/o copia certificada, a excepción de la licencia, tarjetón de identificación, calcomanías respectivas y las placas de circulación, que deberán ser las originales. En caso de pérdida o robo de los documentos mencionados, el chofer deberá portar la constancia de hechos expedida por la Procuraduría General de Justicia.
+
+Además, estará obligado a reunir los requisitos de funcionalidad, seguridad y comodidad que señala esta Ley y sus Reglamentos. Tratándose de las unidades del Servicio Público del Transporte y del Servicio de Transporte Mercantil, tendrá que llevar los colores reglamentarios además de cumplir con las especificaciones relativas a su identificación.
 
 ###### ARTICULO 37.
 
@@ -505,9 +525,15 @@ Las placas, tarjeta de circulación, calcomanías, tarjetón de concesión o per
 
 Toda persona que conduzca un vehículo en la infraestructura vial del Estado, deberá obtener y llevar consigo la licencia de conducir que corresponda al tipo de vehículo y servicio de que se trate y que haya expedido la autoridad legalmente facultada para ello.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 42.
 
-Los conductores de vehículos que presten el Servicio Público de Transporte y el Servicio Mercantil en el Estado, deberán contar con la licencia correspondiente expedida por la Secretaría.
+Los conductores de vehículos que presten el Servicio Público de Transporte y el Servicio Mercantil en el Estado, deberán contar con la licencia expedida por la Secretaría, para la actividad de que se trate, así como con el tarjetón de identificación correspondiente a la misma, el cual será revalidado anualmente a partir de su expedición, previo cumplimiento de los requisitos que establezca el Reglamento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+ARTICULO 42 BIS.- La Secretaría en beneficio de los usuarios del servicio podrá instrumentar la utilización de tecnologías de vanguardia para la expedición de licencias de conducir, con el fin de agilizar y hacer eficaz el proceso administrativo conducente.
 
 ###### ARTICULO 43.
 
@@ -529,11 +555,21 @@ III.- LICENCIA DE MOTOCICLISTA.- Se otorga a los conductores de vehículos de do
 
 IV.- LICENCIA PARA CHOFER PARTICULAR.- La requieren los conductores de toda clase de vehículos particulares;
 
-V.- LICENCIA DE CHOFER PARA EL SERVICIO PUBLICO Y EL SERVICIO MERCANTIL.- La requieren los conductores de vehículos destinados al Servicio Público de Transporte y al Servicio Mercantil, sin menoscabo de conducir toda clase de vehículos y tendrá una vigencia de tres años, y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-> <small>(REFORMADA, P.O. 12 DE ENERO DE 2005)</small>
+V.- LICENCIA DE CHOFER PARA EL SERVICIO PUBLICO DE TRANSPORTE.- Las requieren los conductores de vehículos destinados al Servicio Público de Transporte, sin menoscabo de conducir toda clase de vehículos, excepto los destinados al Servicio de Transporte Mercantil; y tendrá una vigencia de tres años;
 
-VI.- LICENCIA TEMPORAL DE ENTRENAMIENTO DE CHOFER DEL SERVICIO PUBLICO Y DEL SERVICIO MERCANTIL.- Esta se otorgará a quien acredite contar un mínimo de cinco años de antigüedad con licencia de conducir y tendrá una vigencia de un año, y en lo conducente le serán aplicables lo establecido por las fracciones anteriores.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+VI.- LICENCIA DE CHOFER PARA EL SERVICIO DE TRANSPORTE MERCANTIL.- Las requieren los conductores de vehículos destinados al Servicio de Transporte Mercantil, sin menoscabo de conducir toda clase de vehículos, excepto los destinados al Servicio Público de Transporte; y tendrá una vigencia de tres años;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+VII.- LICENCIA TEMPORAL DE ENTRENAMIENTO DE CHOFER DEL SERVICIO PÚBLICO DE TRANSPORTE.- Esta se otorgará a quien acredite contar un mínimo de cinco años de antigüedad con licencia de conducir y tendrá una vigencia de un año, y en lo conducente le serán aplicables lo establecido por las fracciones anteriores; y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+VIII.- LICENCIA TEMPORAL DE ENTRENAMIENTO DE CHOFER DEL SERVICIO DE TRANSPORTE MERCANTIL.- Ésta se otorgará a quien acredite con un mínimo de tres años de antigüedad con licencia de conducir y tendrá una vigencia de un año, y en lo conducente le serán aplicables lo establecido por las fracciones anteriores.
 
 > <small>(ADICIONADO, P.O. 26 DE ENERO DE 2001)</small>
 
@@ -575,6 +611,10 @@ Permisionario, es la persona física o moral a la que se le otorga autorización
 
 Para que las personas físicas o morales puedan llevar a cabo la prestación de cualquier Servicio Público de Transporte o del Servicio Mercantil especificados en el Capítulo correspondiente, se requiere de una concesión o de un permiso.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+La Secretaría está facultada para establecer nuevas modalidades en la prestación del Servicio de Transporte Público y Mercantil y sus servicios auxiliares, cuando se justifique su necesidad e interés colectivo, de conformidad con esta Ley y sus Reglamentos.
+
 ###### ARTICULO 53.
 
 Para que las personas físicas o morales obtengan la concesión del Servicio Público o permiso del Servicio Mercantil que otorga la Secretaría, deberán sujetarse a los estudios técnicos, y al procedimiento que ésta realice; así como a los requisitos establecidos en esta Ley y sus Reglamentos.
@@ -585,7 +625,7 @@ Para que las personas físicas o morales obtengan la concesión del Servicio Pú
 
 Las concesiones y permisos, así como los derechos en ellos conferidos a que hace referencia esta Ley y su reglamento, se consideran bienes fuera de comercio, no obstante lo cual, podrán ser otorgados en garantía para la obtención de financiamiento que sea destinado a la renovación del propio parque vehicular de los servicios público y mercantil de transporte, previa autorización de la Secretaría.
 
-Cualquier transmisión onerosa o gratuita entre vivos o por causa de muerte, será nula sin la autorización previa de la Secretaría.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
 
@@ -594,6 +634,24 @@ Cualquier transmisión onerosa o gratuita entre vivos o por causa de muerte, ser
 Las concesiones y permisos a que se refiere este Capítulo, se otorgarán a mexicanos y/o a sociedades constituidas conforme a las leyes aplicables, considerando que los vehículos con los que se pretende realizar el servicio público de transporte en zonas urbanas, deberán tener una antigüedad máxima de tres años a la fecha de otorgamiento de la concesión y/o permiso y en los demás casos hasta de cinco años.
 
 La Secretaría vigilará que las asignaciones y reasignaciones de las concesiones y permisos, no generen prácticas monopólicas.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+ARTICULO 55 BIS.- Las concesiones y permisos concluyen por:
+
+I.- Término de la vigencia, que podrá ser prorrogado por un plazo igual al de su duración, cuando el titular haya cumplido con todos los requisitos establecidos por esta Ley y su Reglamento;
+
+II.- Renuncia expresa del titular;
+
+III.- Revocación o cancelación, según sea el caso;
+
+IV.- Porque se modifique, altere o desaparezca el objeto de la misma;
+
+V.- Liquidación de la sociedad; y
+
+VI.- Tratándose de personas físicas, por haber sido declaradas por autoridad judicial en estado de interdicción o ausentes e ignoradas.
+
+La terminación de la concesión o permiso no exime a su titular de la responsabilidad contraída durante su vigencia.
 
 ###### ARTICULO 56.
 
@@ -627,9 +685,19 @@ II.- Verificar que los solicitantes disponen de la capacidad jurídica, técnica
 
 III.- Instrumentar las medidas tendientes a fomentar la constitución de personas morales, con la participación de las personas físicas que cuenten con concesiones, en términos de lo que establezcan para el caso, los Reglamentos de la presente Ley.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+Para los efectos de esta Ley y su Reglamento, se entenderá que el trámite correspondiente caduca, cuando el solicitante deje de promover en el expediente respectivo ciento veinte días hábiles posteriores a la última promoción, en cuyo caso, la Secretaría declarará desierto el trámite, determinando la improcedencia del mismo.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 60.
 
-Para la creación de nuevos Servicios Públicos de Transporte, así como para la modificación e incremento de los ya establecidos, se escuchará de acuerdo a la legislación aplicable, a los concesionarios y a los usuarios interesados en los mismos, siempre que acrediten su interés jurídico.
+Para la creación de nuevos Servicios Públicos de Transporte, se emitirá la opción técnica correspondiente.
+
+Tratándose de la modificación e incremento de los ya establecidos, podrá escucharse a los concesionarios, dentro del plazo de tres días hábiles contados a partir del día siguiente de la notificación respectiva, para efecto de que expongan por escrito lo que a su derecho convenga, quienes deberán acreditar su interés jurídico.
+
+Una vez fenecido el plazo que establece el párrafo que antecede, se dejará constancia en el expediente respectivo, y la Secretaría procederá a determinar conforme a la legislación aplicable.
 
 ###### ARTICULO 61.
 
@@ -701,13 +769,29 @@ VIII.- Causas de revocación de la concesión;
 
 IX.- Prohibiciones expresas;
 
-X.- Facultades de las autoridades con relación a la vigilancia y control del servicio concesionado, y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-XI.- Lugar y fecha de expedición y firma de la autoridad concedente.
+X.- Facultades de las autoridades con relación a la vigilancia y control del servicio concesionado;
 
-> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2001)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-XII.- Nombre del beneficiario y/o beneficiarios substitutos.
+XI.- Nombre del beneficiario y/o beneficiarios substitutos;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+XII.- Vigencia de la concesión;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+XIII.- Itinerarios en la prestación del servicio; y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+XIV.- Lugar y fecha de expedición y firma de la autoridad concedente.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+En caso del permiso que se otorga al Servicio de Transporte Mercantil de personas en su modalidad de alquiler o taxi, será aplicable lo previsto por este artículo.
 
 > <small>(REFORMADO, P.O. 26 DE ENERO DE 2001)</small>
 
@@ -749,9 +833,15 @@ Si el concesionario no cumple con las disposiciones legales, el Secretario podr�
 
 Para el caso de que se revoque una concesión, su titular estará impedido para gestionar otra, según lo determine la Secretaría en relación a la falta cometida, de acuerdo a la legislación aplicable.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+ARTICULO 73 BIS.- El Secretario podrá autorizar la entrada de rutas ya establecidas o de nueva creación, previo acuerdo de procedencia, cuando exista oposición a prestar el servicio por parte de las rutas ya establecidas, independientemente de las sanciones que establezca esta Ley y su Reglamento.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 74.
 
-Con el fin de hacer eficiente la prestación del Servicio Público de Transporte, los concesionarios podrán asociarse para coordinar y desarrollar las actividades inherentes al servicio de referencia; lo anterior, dentro de las sociedades previstas por la Ley.
+Con el fin de hacer eficiente la prestación del Servicio Público de Transporte, la Secretaría al crear, modificar, reasignar, reubicar, fusionar o incrementarlo, podrá promover la creación de sociedades conforme a las Leyes mexicanas, con el fin de garantizar un transporte moderno, eficaz, funcional y seguro.
 
 ### CAPITULO III. LOS PERMISOS PARA EL SERVICIO DE TRANSPORTE MERCANTIL
 
@@ -795,11 +885,13 @@ Los permisos para el Servicio de Transporte en Automóviles de Alquiler o Taxis 
 
 Las personas morales debidamente constituidas que aspiren a prestar el Servicio de Transporte con Automóviles de Alquiler, se les otorgará los permisos para satisfacer el servicio de que se trate, previo estudio que determine la Secretaría.
 
-> <small>(REFORMADO, P.O. 12 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 79.
 
-Los permisos a que hace referencia la presente Ley tendrán una vigencia de un año. Con la excepción del servicio del transporte de materiales para construcción o diversos, los de carga ligera o mudanzas cuya duración será indefinida. Para el caso de los permisos del servicio de transporte mercantil de personas con automóviles de alquiler o taxi, será aplicable en lo conducente lo dispuesto por el artículo 70 de esta Ley. Lo anterior no libera al permisionario de realizar el trámite correspondiente a través del pago anual que deberá efectuar en las Oficinas Recaudadoras de la Secretaría de Finanzas y Administración, según lo señalado por la Ley de Ingresos del Estado.
+Los permisos a que hace referencia la presente Ley tendrán una vigencia hasta de un año. Lo anterior no libera al permisionario de realizar el trámite correspondiente a través del pago anual que deberá efectuar en las oficinas recaudadoras de la Secretaría de Finanzas y Administración, según lo señalado por la Ley de Ingresos del Estado.
+
+Para el caso de los permisos del Servicio de Transporte Mercantil de personas en su modalidad de alquiler o taxi, será aplicable en lo conducente lo dispuesto por el artículo 70 de esta Ley.
 
 ###### ARTICULO 80.
 
@@ -827,9 +919,17 @@ Cuando con posterioridad al registro del vehículo del Servicio Público de Tran
 
 ### CAPITULO V. LAS OBLIGACIONES DE LOS CONCESIONARIOS Y PERMISIONARIOS
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 85.
 
-Los concesionarios y los permisionarios tendrán, en todo tiempo, la obligación de capacitarse, así como la de proporcionar a sus conductores la capacitación y el adiestramiento necesarios para lograr que la prestación de los servicios a su cargo sean eficientes, seguros y con apego a las disposiciones de la presente Ley y sus Reglamentos.
+Los concesionarios y los permisionarios tendrán, en todo tiempo, la obligación de capacitarse, así como la de proporcionar a sus conductores la capacitación y el adiestramiento necesarios para lograr que la prestación de los servicios a su cargo sean eficientes, seguros y con sujeción a las disposiciones de la presente Ley y sus Reglamentos.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+ARTICULO 85 BIS.- Los concesionarios y los permisionarios, tendrán en todo tiempo, la obligación de informar a la Secretaría, el nombre y datos personales de los conductores o choferes con quienes tengan relación para la explotación del Servicio Público de Transporte y del Servicio Mercantil.
+
+Los conductores o choferes a que se refiere el párrafo anterior, no podrán conducir los vehículos destinados al Servicio Público de Transporte o al Servicio Público Mercantil, hasta en tanto en cuanto no se informe a la Secretaría. La información respectiva deberá actualizarse cada tres meses a la Secretaría y en cada caso concreto, cuando las circunstancias lo requieran. La inobservancia de esta disposición tendrá como consecuencia la revocación de la concesión o la cancelación del permiso.
 
 > <small>(REFORMADO, P.O. 26 DE ENERO DE 2001)</small>
 
@@ -866,6 +966,16 @@ Para lo anterior, la Secretaría sellará el tarjetón de concesión o el permis
 Los concesionarios y los permisionarios se obligan a contratar, a satisfacción de la Secretaría, un seguro de viajero que proteja a sus ocupantes y daños a terceros, con una institución registrada en la Comisión Nacional de Seguros y Fianzas, con motivo de la prestación del Servicio Público de Transporte y Servicio Mercantil; igualmente se obligan, a través de sus conductores, a la utilización del boleto de pasaje del usuario.
 
 Además deberán contar con el espacio físico suficiente para la guarda de los vehículos, que se encuentren fuera de servicio de acuerdo con las condiciones que establezca la Secretaría.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+ARTICULO 92 BIS.- Los derechos y obligaciones derivados de una concesión para la prestación del Servicio Público de Transporte o del Servicio de Transporte Mercantil, no podrán enajenarse. Para cualquier tipo de transmisión a título gratuito u oneroso que se realice por acto entre vivos o por causa de muerte, se requerirá la autorización previa de la Secretaría; su incumplimiento originará la nulidad respectiva.
+
+La persona que haya cedido los derechos de la concesión de la cual fue titular, no podrá adquirir nuevas concesiones o permisos.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+ARTICULO 92 TER.- Para que cualquier vehículo destinado al Servicio Público de Transporte o Servicio de Transporte Mercantil, se le coloque publicidad o propaganda impresa, electrónica o por cualquier otro medio, al interior o exterior del mismo, su titular deberá obtener de la Secretaría el Permiso respectivo, previo pago de derechos, de acuerdo a lo que establece el Reglamento respectivo.
 
 ## TITULO QUINTO. DE LOS SERVICIOS AUXILIARES DEL TRANSPORTE ESTATAL
 
@@ -1019,6 +1129,10 @@ Se establece como recorrido, al itinerario que realizan los vehículos en el Ser
 
 Como ruta se define a la asignación numérica que se le da a las unidades del Servicio Público de Transporte en relación al recorrido que realizan.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+ARTICULO 122 BIS.- Para efectos de esta Ley y sus Reglamentos, se entiende por Fusión de Rutas, la unión de dos o más recorridos para conformar una sola, este itinerario puede ser radial, sobrepuesto o perimetral; el resultado de la fusión en algunos casos podrá ser diametral.
+
 ###### ARTICULO 123.
 
 La frecuencia de paso, es el lapso que deben respetar en su itinerario los vehículos de Servicio Público de Transporte previamente analizado por la Secretaría.
@@ -1071,7 +1185,9 @@ III.- Suspensión o cancelación de licencia;
 
 IV.- Revocación o suspensión de concesión, y
 
-V.- Cancelación de permiso.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+V.- Cancelación o suspensión del permiso.
 
 ###### ARTICULO 132.
 
@@ -1207,9 +1323,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación ene l
 
 Se derogan las disposiciones contrarias al presente Decreto.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTÍCULO TERCERO.
 
-Los concesionarios que actualmente presten el servicio público de transporte urbano tendrán plazo de dos años, a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones a que se refiere el artículo 37.
+Los concesionarios que actualmente presten el Servicio Público de Transporte urbano, tendrá un plazo de tres meses a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones a que se refiere el artículo 37.
 
 ###### ARTÍCULO CUARTO.
 
@@ -1218,3 +1336,25 @@ Los permisionarios del servicio de transporte mercantil de personas con automóv
 ###### ARTÍCULO QUINTO.
 
 Los concesionarios y permisionarios que a la entrada en vigor del presente ordenamiento cuenten con su concesión permiso otorgada por la autoridad competente, conservarán en todos sus términos, los derechos que se deriven de los mismos.
+
+P.O. 30 DE DICIEMBRE DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+En tanto no se adecue el Reglamento de esta Ley, se observarán las disposiciones contenidas en el mismo, en cuanto no se opongan al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Para los casos de cesión de derechos a que hace referencia el presente Decreto, que se realicen con posterioridad a la publicación del mismo, las partes se deberán sujetar a los términos que señala el artículo 70 de la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+Las causas de terminación de las concesiones y permisos, se entenderá que surten efectos para las que se otorguen, a partir de la entrada en vigor del presente Decreto.
