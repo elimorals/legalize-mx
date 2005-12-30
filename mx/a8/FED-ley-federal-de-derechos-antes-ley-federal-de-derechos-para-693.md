@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-derechos-antes-ley-federal-de-derechos-para-693"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1981-12-31"
-last_updated: "2005-12-21"
+last_updated: "2005-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=693&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,11 @@ issue_date: "1981-12-30"
 
 LEY FEDERAL DE DERECHOS
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO NOVENO TRANSITORIO DE LA LEY DEL MERCADO DE VALORES, PUBLICADA EN EL D.O.F. DE 30 DE DICIEMBRE DE 2005, LAS REFERENCIAS QUE SE HAGAN A LA SECCION VALORES DEL REGISTRO NACIONAL DE VALORES, SE ENTENDERAN HECHAS AL REGISTRO PREVISTO EN EL ARTICULO 70 DEL CITADO ORDENAMIENTO.</small>
+
 ULTIMA ACTUALIZACION POR MISCELANEA FISCAL: 4 DE MARZO DE 2005.
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 31 de diciembre de 1981.
 
@@ -26670,3 +26672,23 @@ Artículo Séptimo. No se causarán los derechos a los que se refiere el Capítu
 Artículo Octavo. Si subsistiera saldo a favor de PEMEX Exploración y Producción de la recaudación anual que genere la aplicación del Capítulo XII, Hidrocarburos, del Título Segundo de esta Ley, el mismo se destinará en su totalidad a proyectos de inversión y gastos de mantenimiento de Petróleos Mexicanos.
 
 Artículo Noveno. El registro a que se refiere el último párrafo del artículo 254 de esta Ley se deberá establecer por PEMEX Exploración y Producción dentro de los dos primeros años a partir de la entrada en vigor del presente Decreto.
+
+D.O.F. 30 DE DICIEMBRE DE 2005.
+
+SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS QUE TIENEN RELACION CON LA LEY.
+
+Primero.- La presente Ley entrará en vigor a los ciento ochenta días naturales siguientes a su publicación en el Diario Oficial de la Federación, salvo por lo dispuesto en los artículos Décimo y Décimo Séptimo transitorios.
+
+Asimismo, a la fecha de entrada en vigor de esta Ley quedará abrogada la Ley del Mercado de Valores publicada en el citado Diario el 2 de enero de 1975, salvo por lo establecido en los artículos transitorios siguientes.
+
+.
+
+Noveno.- A partir de la entrada en vigor de esta Ley, se abrogan las "Reglas para la Organización del Registro Nacional de Valores e Intermediarios" publicadas en el Diario Oficial de la Federación de 13 de abril de 1993.
+
+Los asientos registrales de cualquier tipo que constan en el Registro Nacional de Valores a que se refiere el artículo 10 de la Ley del Mercado de Valores que se abroga mediante la presente Ley, se entenderán como hechos en el Registro a que se refiere el artículo 70 de esta Ley. Asimismo, los asientos registrales realizados con anterioridad al 1 de enero de 1996, se mantendrán en los legajos a que aludían las Reglas mencionadas en el párrafo anterior, mientras que los posteriores a dicha fecha se harán constar en los folios electrónicos que prevé esta Ley.
+
+Las referencias que otras leyes, reglamentos o disposiciones administrativas hagan a la sección valores del Registro Nacional de Valores, se entenderán hechas al Registro previsto en el artículo 70 de esta Ley.
+
+Los valores inscritos exclusivamente en la sección especial del Registro Nacional de Valores, podrán ser objeto de intermediación en el territorio nacional, siempre que se dé cumplimiento a lo establecido en el artículo 9 de esta Ley.
+
+.
