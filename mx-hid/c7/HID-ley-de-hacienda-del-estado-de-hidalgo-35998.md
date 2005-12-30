@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-del-estado-de-hidalgo-35998"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-31"
-last_updated: "2004-12-31"
+last_updated: "2005-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE HACIENDA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2003.
 
@@ -87,7 +87,9 @@ DEL SUJETO:
 
 ## TITULO SEGUNDO. DE LOS IMPUESTOS
 
-### CAPITULO PRIMERO. IMPUESTO SOBRE HONORARIOS PROFESIONALES Y OTRAS ACTIVIDADES LUCRATIVAS SIMILARES
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+### CAPITULO PRIMERO. DEL IMPUESTO SOBRE HONORARIOS PROFESIONALES Y OTRAS ACTIVIDADES LUCRATIVAS SIMILARES
 
 DEL OBJETO:
 
@@ -107,9 +109,9 @@ Es base de este impuesto, el monto total de los ingresos a que se refiere el Art
 
 Tratándose de los sujetos del impuesto a que se refiere el segundo párrafo del artículo anterior, la base del impuesto será la parte que a cada uno de ellos le corresponda en los ingresos totales de la organización.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-La Secretaría de Finanzas y Administración del Estado podrá determinar presuntivamente la base de este impuesto, en los siguientes casos:
+La Secretaria de Finanzas del Estado podrá determinar presuntivamente la base de este impuesto, los siguientes casos:
 
 I.- Cuando no se presenten las declaraciones, no lleven los libros de registros o no expidan la documentación comprobatoria a que están obligados por las disposiciones federales o las establecidas en este capítulo;
 
@@ -135,15 +137,19 @@ II.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2004)
 
 DEL PAGO:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 8.
 
-El pago de este impuesto deberá realizarse bimestralmente, a más tardar el día 20 del mes correspondiente, por los ingresos percibidos en el bimestre inmediato anterior, vía internet o mediante las formas oficiales aprobadas por la Secretaría de Finanzas y Administración ante las instituciones bancarias autorizadas por la misma.
+La presentación de declaraciones de este impuesto deberá realizarse, vía internet o a través de las formas oficiales aprobadas por la Secretaría de Finanzas, de manera bimestral, a más tardar el día 20 del mes correspondiente por los ingresos percibidos en el bimestre inmediato anterior.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+El pago de este impuesto podrá efectuarse en las Instituciones Bancarias autorizadas por la Secretaría de Finanzas o mediante transferencia electrónica de fondos, a las cuentas autorizadas por dicha Dependencia.
 
-ARTICULO 8 BIS.- Son responsables solidarios quienes realicen pagos a contribuyentes eventuales de este impuesto y que deban retenerlo y enterarlo a las oficinas autorizadas, dentro del término de quince días siguientes al en que se cause, los que, de igual manera, deberán cumplir con las obligaciones establecidas en el artículo 9 del presente capítulo.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+ARTICULO 8 BIS.- Son responsables solidarios quienes realicen pagos a contribuyentes eventuales de este impuesto y que deban retenerlo, así como enterarlo a las oficinas autorizadas, dentro del término de quince días siguientes al en que se causen.
+
+Los responsables solidarios, deberán cumplir con las obligaciones establecidas en el Artículo 9 del presente capítulo.
 
 DE LAS OBLIGACIONES:
 
@@ -151,21 +157,21 @@ DE LAS OBLIGACIONES:
 
 Los sujetos de este impuesto, están obligados a:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-I.- Inscribirse en el Padrón Estatal de Contribuyentes, vía internet o mediante las formas oficiales aprobadas por la Secretaría de Finanzas y Administración en el Centro Regional de Operación Fiscal de su jurisdicción, dentro de los quince días hábiles siguientes a la fecha de inicio de sus actividades;
+I.- Inscribirse en el Padrón Estatal de Contribuyentes, vía internet o mediante las formas oficiales aprobadas por la Secretaría de Finanzas en el Centro Regional de Atención al Contribuyente de su jurisdicción, dentro de los quince días hábiles siguientes a la fecha de inicio de sus actividades;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-II.- Dar aviso al Centro Regional de Operación Fiscal de su jurisdicción, en los casos de cambio de domicilio, aumento o disminución de obligaciones, así como, suspensión o cambio de la actividad dentro del mismo plazo señalado en la fracción I, el que se contará a partir de la fecha en que ocurra el movimiento, vía internet o mediante las formas oficiales aprobadas por la Secretaría de Finanzas y Administración;
+II.- Dar aviso al Centro Regional de Atención al Contribuyente de su jurisdicción, en los casos de cambio de domicilio, aumento o disminución de obligaciones, así como, suspensión o cambio de la actividad dentro del mismo plazo señalado en la fracción I, el que se contará a partir de la fecha en que ocurra el movimiento, vía internet o mediante las formas oficiales aprobadas por la Secretaría de Finanzas;
 
-III.- Presentar los avisos, documentos, datos e información que les soliciten las Autoridades Fiscales en relación con este impuesto, dentro de los plazos y en los lugares que ésta señale para el efecto.
+III.- Presentar los avisos, documentos, datos e información que les soliciten las Autoridades Fiscales en relación con este impuesto, dentro de los plazos y en los lugares que ésta señale para el efecto;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
 
 IV.- Expedir recibo por cada ingreso conforme a los requisitos y formalidades que establecen las leyes fiscales aplicables;
 
-V.- Llevar el registro de sus ingresos y conservar la documentación comprobatoria correspondiente, conforme a las disposiciones del Código Fiscal del Estado.
+V.- Llevar el registro de sus ingresos y conservar la documentación comprobatoria correspondiente, conforme a las disposiciones del Código Fiscal del Estado;
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -185,6 +191,8 @@ I.- Los ingresos que perciban los artesanos y
 
 II.- Las personas físicas que causen el impuesto al valor agregado, conforme a la Ley de la materia.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 11.
 
 Es objeto de este impuesto, la adquisición por cualquier título de automóviles, camiones y motocicletas usados, que se realicen dentro del Territorio del Estado, siempre que no cause el impuesto al valor agregado.
@@ -193,7 +201,9 @@ Son también objeto de este impuesto, las operaciones que se realicen fuera del 
 
 Se entiende por automóviles, camiones y motocicletas usados, los vehículos de cualquier tipo cuya propiedad sea transferida por segunda o ulteriores ocasiones por los medios que establecen las Leyes de la materia, inclusive cuando se pacte con reserva de dominio.
 
-Se considera efectuada la operación dentro del Estado, por el solo hecho de realizar los trámites de cambio de propietario o matriculación de un vehículo en el Padrón del Estado, en cualquiera de los Centros Regionales de Operación Fiscal o cuando:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+Se considera efectuada la operación dentro del Estado, por el solo hecho de realizar los trámites de cambio de propietario o matriculación de un vehículo en el padrón del Estado, en cualquiera de los Centros Regionales de Atención al Contribuyente o cuando:
 
 I.- Se transmita total o parcialmente la propiedad del bien;
 
@@ -209,7 +219,7 @@ Son sujetos de este impuesto, las personas físicas o morales que adquieran la p
 
 DE LA BASE:
 
-### CAPITULO SEGUNDO. IMPUESTO SOBRE ADQUISICION DE AUTOMOVILES, CAMIONES Y MOTOCICLETAS USADOS QUE SE REALICEN ENTRE PARTICULARES
+### CAPITULO SEGUNDO. DEL IMPUESTO SOBRE ADQUISICION DE AUTOMOVILES, CAMIONES Y MOTOCICLETAS USADOS QUE SE REALICEN ENTRE PARTICULARES
 
 DEL OBJETO:
 
@@ -225,9 +235,11 @@ Este impuesto se causará y pagará a la tasa de cuatro salarios mínimos vigent
 
 DEL PAGO:
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 15.
 
-El impuesto se causará en el momento que se realice la adquisición de un vehículo usado y se pagará, mediante declaraciones que deberán presentarse en cualquiera de las Instituciones Bancarias o en las formas autorizadas por la Secretaría de Finanzas y Administración o vía internet, dentro de los quince días siguientes al de la fecha en que se realice la operación.
+El impuesto se causará en el momento que se realice la adquisición de un vehículo usado y se pagará, mediante declaraciones que deberán presentarse en cualquiera de las instituciones bancarias o en las formas autorizadas por la Secretaría de Finanzas o vía internet, dentro de los quince días siguientes al de la fecha en que se realice la operación.
 
 DE LAS OBLIGACIONES:
 
@@ -235,9 +247,13 @@ DE LAS OBLIGACIONES:
 
 Para la recaudación de este impuesto, se observarán las siguientes reglas:
 
-I.- Las personas que lleven a cabo las operaciones objeto de este impuesto, deberán presentar en el Centro Regional de Operación Fiscal de su Jurisdicción, en formato oficial aprobado por la Secretaría de Finanzas y Administración, los datos y documentos relativos de las operaciones y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-II.- Los Centros Regionales de Operación Fiscal, se cerciorarán de que se haya efectuado el pago de este impuesto, mediante la exhibición por parte del contribuyente, del comprobante expedido por la Institución Bancaria autorizada, de los datos del pago efectuado vía internet o la forma aprobada por la Secretaría de Finanzas y Administración en la que conste el pago efectuado.
+I.- Las personas que lleven a cabo las operaciones objeto de este impuesto, deberán presentar en el Centro Regional de Atención al Contribuyente de su jurisdicción, en formato oficial aprobado por la Secretaría de Finanzas, los datos y documentos relativos de las operaciones; y
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+II.- Los Centros Regionales de Atención al Contribuyente se cerciorarán de que se haya efectuado el pago de este impuesto mediante la exhibición, por parte del contribuyente, del comprobante expedido por la institución bancaria autorizada, de los datos del pago efectuado vía internet o la forma aprobada por la Secretaría de Finanzas en la que conste el pago efectuado.
 
 ###### ARTICULO 17.
 
@@ -245,7 +261,9 @@ Son solidariamente responsables del pago de este impuesto:
 
 I.- Los enajenantes;
 
-II.- Los comisionistas, consignatarios o cualquiera otra persona que intervenga en las operaciones, salvo que demuestren fehacientemente que presentaron el aviso y anexos respectivos en las formas oficiales aprobadas por la Secretaría de Finanzas y Administración y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+II.- Los comisionistas, consignatarios o cualquiera otra persona que intervenga en las operaciones, salvo que demuestren fehacientemente que presentaron el aviso y anexos respectivos en las formas oficiales aprobadas por la Secretaría de Finanzas; y
 
 III.- Los empleados o funcionarios públicos que autoricen cualesquiera de los trámites referidos en este capítulo, sin haber verificado y exigido el pago de este impuesto.
 
@@ -291,6 +309,14 @@ DEL SUJETO:
 
 Son sujetos del pago de este impuesto, las personas físicas y morales que realicen los pagos a que se refiere el Artículo anterior.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+También están obligados a retener y enterar este Impuesto las personas físicas o morales que contraten la prestación de servicios con empresas cuyo domicilio esté ubicado fuera de la Entidad, para que le proporcionen los trabajadores, siempre que el servicio personal se preste en el Territorio del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+En este caso, deberán entregar a la persona física o moral que le proporcione los trabajadores, la constancia de retención correspondiente debidamente avalada por la Secretaría de Finanzas.
+
 DE LA BASE:
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
@@ -321,11 +347,17 @@ En los casos que la planta de trabajadores aumente o disminuya en un sólo mes, 
 
 DEL PAGO:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 23.
 
-El impuesto, se causará en el momento en que se realicen las erogaciones por el trabajo personal subordinado y se pagará mediante declaraciones que deberán presentar los sujetos de este impuesto, vía internet o a través de las formas oficiales aprobadas por la Secretaría de Finanzas y Administración ante las instituciones bancarias autorizadas por la misma, a más tardar el día veinte del mes de calendario siguiente a la fecha de su causación. Los contribuyentes que se encuentren en el supuesto establecido en la fracción I del artículo 22 de esta Ley, podrán efectuar pagos cuatrimestrales mediante los mismos medios, el día veinte de los meses de mayo, septiembre y enero del ejercicio fiscal subsecuente al actual, respectivamente. Todos los pagos tendrán el carácter de definitivos.
+El impuesto, se causará en el momento en que se realicen las erogaciones por el trabajo personal subordinado; dicho impuesto se enterará a la Autoridad en la siguiente forma:
+
+I.- Los contribuyentes que se encuentran en el supuesto establecido en la fracción I del Artículo 22 de ésta Ley, podrán presentar la declaración correspondiente de este impuesto vía Internet, o a través de las formas oficiales aprobadas por la Secretaría de Finanzas, de forma cuatrimestral dentro del término que no rebase el día 20 de los meses de mayo y septiembre del ejercicio fiscal en que se haya causado el impuesto y en el mes de enero del ejercicio fiscal subsecuente; y
+
+II.- Los contribuyentes que se encuentren en el supuesto establecido en las fracciones II y III del Artículo referido en la fracción anterior, deberán realizar la declaración vía internet o a través de las formas oficiales aprobadas por la Secretaría de Finanzas, de manera mensual, dentro del término que no rebase el día 20 del mes calendario siguiente al período de su causación.
+
+El pago podrá efectuarse as Instituciones Bancarias autorizadas por la Secretaría de Finanzas o mediante transferencia electrónica de fondos a las cuentas autorizadas por dicha Dependencia.
 
 DE LAS OBLIGACIONES:
 
@@ -333,21 +365,21 @@ DE LAS OBLIGACIONES:
 
 Los contribuyentes de este impuesto, tienen las obligaciones siguientes:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-I.- Inscribirse en el Padrón Estatal de Contribuyentes de la Secretaría de Finanzas y Administración del Estado, dentro del mes siguiente a la fecha de inicio de sus operaciones, vía internet o mediante las formas oficiales aprobadas por la misma Secretaría en el Centro Regional de Operación Fiscal de su jurisdicción;
+I.- Inscribirse en el Padrón Estatal de Contribuyentes de la Secretaría de Finanzas del Estado, dentro del mes siguiente a la fecha de inicio de sus operaciones, vía internet, o mediante las formas oficiales aprobadas por la misma Secretaría en el Centro Regional de Atención al Contribuyente de su jurisdicción;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-II.- Las personas físicas o morales, cuya casa matriz y sucursales operen en diferentes lugares dentro del territorio del Estado, deberán presentar las declaraciones correspondientes conforme a lo dispuesto por el artículo 23 de esta ley, en el Centro Regional de Operación Fiscal que corresponda al domicilio de la matriz, en la que se acumulará a la base gravable, el número de trabajadores y el impuesto a pagar por cada una de sus negociaciones; así mismo deberán registrar el domicilio de las sucursales que operen dentro del territorio del Estado;
+II.- Las personas físicas o morales, cuya casa matriz y sucursales operen en diferentes lugares dentro del Territorio del Estado, deberán presentar las declaraciones correspondientes conforme a lo dispuesto por el Artículo 23 de esta Ley, en el Centro Regional de Atención al Contribuyente que corresponda al domicilio de la matriz, en la que se acumulará a la base gravable, el número de trabajadores y el impuesto a pagar por cada una de las negociaciones; así como deberán registrar el domicilio de las sucursales que operen dentro del Territorio del Estado;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-III.- Las personas físicas o morales cuya casa matriz se encuentre ubicada fuera del territorio del Estado y cuenten con sucursales dentro del mismo, deberán dar aviso al Centro Regional de Operación Fiscal correspondiente, respecto de las sucursales que realicen sus operaciones dentro de esta entidad federativa, así como del lugar en el que presentarán las declaraciones conforme a lo dispuesto en el artículo 23 de esta ley, en las que acumulará la base gravable del impuesto y el número de trabajadores que tengan en todas las sucursales citadas; así mismo deberán registrar el domicilio de las sucursales que operen dentro del territorio del Estado, así como el domicilio de la casa matriz ubicado fuera del territorio del Estado, y
+III.- Las personas físicas o morales cuya casa matriz se encuentre ubicada fuera del Territorio del Estado y cuenten con sucursales dentro del mismo, deberán dar aviso al Centro Regional de Atención al Contribuyente correspondiente, respecto de las sucursales que realicen sus operaciones dentro de esta Entidad Federativa, así como del lugar en el que se presentarán las declaraciones conforme a lo dispuesto en el Artículo 23 de esta Ley, en las que se acumulará la base gravable del impuesto y el número de trabajadores que tengan en todas las sucursales citadas; así mismo deberán registrar el domicilio de las sucursales que operen dentro del Territorio del Estado, así como el domicilio de la casa matriz ubicado fuera del Territorio del Estado; y
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-IV.- Presentar, vía internet o mediante las formas oficiales aprobadas por la Secretaría de Finanzas y Administración, los avisos respectivos por cambio de nombre o razón social, domicilio fiscal, suspensión o reanudación de actividades, apertura o cierre, fusión o escisión, aumento o disminución de obligaciones, dentro del término de treinta días en que ocurra el hecho.
+IV.- Presentar, vía internet o a través del Centro Regional de Atención al Contribuyente mediante las formas oficiales aprobadas por la Secretaría de Fianzas, los avisos respectivos por cambio de nombre o razón social, domicilio fiscal o cuenta de correo electrónico, suspensión o reanudación de actividades, apertura o cierre de negociación, fusión o escisión y/o aumento o disminución de obligaciones, dentro del término de treinta días siguientes al en que ocurra el hecho.
 
 DE LAS EXCEPCIONES:
 
@@ -371,9 +403,17 @@ f).- Aportaciones a las Instituciones de Seguridad Social o de fondos para el re
 
 g).- Contraprestaciones cubiertas a trabajadores domésticos;
 
-h).- Fondo de ahorro e
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-i).- Despensas, alimentación y transporte.
+h).- El fondo de ahorro: Cuando se integre por un depósito de cantidad semanaria, quincenal o mensual igual del trabajador y de la empresa; en los casos que el patrón rebase el monto señalado, éste se pagará de manera proporcional al excedente;
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+i).- Despensas, alimentación y transporte: Cuando en su conjunto no rebasen el 40% del total del salario y se hayan otorgado de manera general a la totalidad de los trabajadores; y
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+j).- Los pagos por tiempo extraordinario: Cuando el tiempo extraordinario no rebase 3 horas diarias o 9 horas a la semana de trabajo.
 
 II.- Las erogaciones que efectúen:
 
@@ -407,6 +447,8 @@ j).- Las asociaciones patronales y
 
 k).- Los colegios de profesionales y los organismos que los agrupen.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 26.
 
 Es objeto de este impuesto, el pago que realice el usuario por la obtención de servicios de hospedaje, alojamiento o albergue proporcionado dentro del Territorio del Estado, ya sea de forma permanente o temporal, por personas físicas o morales en hoteles, moteles, albergues, villas, bungalos, paraderos de casas rodantes, casas de huéspedes, ex haciendas y otros establecimientos de naturaleza similar o análoga, en los que se incluyen los prestadores de servicios, bajo la modalidad de tiempo compartido, independientemente de la designación que se les otorgue.
@@ -419,7 +461,7 @@ Son sujetos al pago de este impuesto, las personas físicas o morales que dentro
 
 DE LA BASE:
 
-### CAPITULO CUARTO. DEL IMPUESTO POR LA PRESTACION DE SERVICIOS DE HOSPEDAJE
+### CAPITULO CUARTO. DEL IMPUESTO POR LA PRESTACION DEL SERVICIO DE HOSPEDAJE
 
 DEL OBJETO:
 
@@ -447,9 +489,9 @@ Los prestadores del servicio de hospedaje, trasladarán en forma expresa y por s
 
 Se entenderá por traslado del impuesto, el cobro a cargo que los contribuyentes realicen a las personas que reciban el servicio.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-Los prestadores de los servicios a que se refiere ese capítulo deberán enterarlo mensualmente con carácter de pagos definitivos, dentro de los veinte días siguientes al mes inmediato posterior al que se prestó el servicio, vía internet o mediante las formas oficiales aprobadas por la Secretaría de Finanzas y Administración en las instituciones bancarias autorizadas por la misma.
+Los prestadores de los servicios a que se refiere este capítulo, deberán realizar el pago de este impuesto en las Instituciones Bancarias autorizadas por la Secretaría de Finanzas, o a través de transferencia electrónica de fondos, dentro de los veinte días siguientes al mes inmediato posterior al en que se generó el impuesto.
 
 DE LAS OBLIGACIONES:
 
@@ -457,25 +499,27 @@ DE LAS OBLIGACIONES:
 
 Los prestadores de los servicios de hospedaje, están obligados a:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-I.- Inscribirse en el Padrón Estatal de Contribuyentes de la Secretaría de Finanzas y Administración del Estado, dentro del mes siguiente a la fecha de inicio de sus operaciones, vía internet o mediante las formas oficiales aprobadas por la misma Secretaría;
+I.- Inscribirse en el padrón estatal de contribuyentes de la Secretaría de Finanzas del Estado, dentro del mes siguiente a la fecha de inicio de sus operaciones, vía internet o mediante las formas oficiales aprobadas por la misma secretaria;
 
 II.- Trasladar el impuesto en forma expresa y por separado, a través de los comprobantes que señala el Código Fiscal del Estado;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-III.- Presentar, vía internet o mediante las formas oficiales aprobadas por la Secretaría de Finanzas y Administración, los avisos respectivos por cambio de nombre o razón social, domicilio fiscal, suspensión o reanudación de actividades, apertura o cierre, fusión o escisión, aumento o disminución de obligaciones, dentro del término de treinta días en que ocurra el hecho;
+III.- Presentar, vía internet o a través del centro regional de atención al contribuyente mediante las formas oficiales aprobadas por la Secretaría de Finanzas, los avisos relativos a: cambio de nombre o razón social, domicilio fiscal o cuenta de correo electrónico, suspensión o reanudación de actividades, apertura o cierre de negociación, fusión o escisión y/o aumento o disminución de obligaciones, dentro del término de treinta días siguientes al en que ocurra el hecho;
 
 IV.- Expedir facturas desglosadas en las que se señale el monto del impuesto, por la prestación del servicio de hospedaje;
 
 V.- Llevar un registro contable de los servicios que presten, de las contraprestaciones que reciban o se hagan exigibles y de los comprobantes de pago que expidan;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-VI.- Presentar declaraciones mensuales con carácter de definitivas, vía internet o mediante las formas oficiales aprobadas por la Secretaría de Finanzas y Administración y efectuar los pagos que correspondan conforme a lo dispuesto por el artículo 30 de este capítulo;
+VI.- Presentar declaraciones mensuales con carácter de definitivas, vía internet o mediante las formas oficiales aprobadas por la Secretaría de Finanzas, y efectuar los pagos que correspondan conforme a la dispuesto por el Artículo 30 de este capítulo; y
 
-VII.- En los casos en que las personas físicas o morales, cuya casa matriz y sucursales operen en diferentes lugares dentro del Territorio del Estado, deberán presentar una sola declaración en la que se acumulará la base gravable e impuestos a pagar por cada una de ellas, en el Centro Regional de Operación Fiscal que corresponda al domicilio de la matriz.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+VII.- En los casos en que las personas físicas o morales, cuya casa matriz y sucursales operen en diferentes lugares dentro del Territorio del Estado, deberán presentar una sola declaración en la que se acumulará la base gravamen e impuestos a pagar por cada una de ellas en el Centro Regional de Atención al Contribuyente que corresponda al domicilio de la Matriz.
 
 DE LAS EXCEPCIONES:
 
@@ -507,6 +551,8 @@ DE LA APLICACION:
 
 El ingreso que perciba el Estado proveniente del impuesto a que se refiere este capítulo, se destinará al fomento, promoción y difusión del sector turismo de la Entidad.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 34.
 
 Es objeto de este impuesto, el uso o tenencia de vehículos automotores, cuyo año modelo sea mayor de diez años anteriores al Ejercicio Fiscal en curso.
@@ -521,7 +567,7 @@ DEL SUJETO:
 
 Son sujetos del pago de este impuesto, las personas físicas o morales, usuarias o tenedoras de los vehículos de servicio público o privado a que se refiere este capítulo, con domicilio fiscal dentro de la circunscripción territorial del Estado de Hidalgo.
 
-### CAPITULO QUINTO. IMPUESTO ESTATAL SOBRE TENENCIA DE VEHICULOS
+### CAPITULO QUINTO. DEL IMPUESTO ESTATAL SOBRE TENENCIA DE VEHICULOS
 
 DEL OBJETO:
 
@@ -583,9 +629,11 @@ Para efectos del presente Artículo, loas años de antigüedad se calcularán co
 
 DEL PAGO:
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 39.
 
-Este impuesto se pagará por Ejercicio Fiscal, durante los tres primeros meses en las Sucursales Bancarias mediante las formas autorizadas por la Secretaría de Finanzas y Administración o vía internet.
+Este impuesto se pagará por ejercicio fiscal, durante los tres primeros meses del año correspondiente, en las sucursales bancarias mediante las formas autorizadas por la Secretaría de Finanzas o vía internet.
 
 DE LAS OBLIGACIONES:
 
@@ -593,7 +641,9 @@ DE LAS OBLIGACIONES:
 
 Los contribuyentes de este impuesto, tendrán las siguientes obligaciones:
 
-I.- Registrarse en el Centro Regional de Operación Fiscal correspondiente a su domicilio, dentro de los quince días siguientes a aquél en que se ubicó en el supuesto de causación de este impuesto, a través de las formas autorizadas por la Secretaría de Finanzas y Administración y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+I.- Registrarse en el Centro Regional de Atención al Contribuyente correspondiente a su domicilio, dentro de los quince días siguientes a aquél en que se ubicó en el supuesto de causación de este impuesto, a través de las formas autorizadas por la Secretaría de Finanzas; y
 
 II.- Presentar las declaraciones y efectuar el pago del impuesto en la forma establecida en el Artículo 39 y conforme a la tarifa establecida en el Artículo 38 del presente capítulo.
 
@@ -608,6 +658,8 @@ I.- Los vehículos importados temporalmente;
 II.- Los vehículos propiedad de los Gobiernos Federal, Estatal y Municipal que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, ambulancias, bomberos, transporte de limpias, pipas de agua, servicios funerarios propiedad o posesión de cualquiera de estas Entidades o Instituciones de Beneficencia, normados por la Ley de la materia y
 
 III.- La maquinaria y equipos destinados a actividades agrícolas.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 42.
 
@@ -635,11 +687,11 @@ Este impuesto, se determinará a la tasa del 4.5% de la base gravable.
 
 DEL PAGO:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 46.
 
-Este impuesto se causará en el momento que los Organismos Descentralizados paguen o entreguen los premios y se pagará mediante declaraciones, vía internet o a través de las formas oficiales aprobadas por la Secretaría de Finanzas y Administración ante las instituciones bancarias autorizadas por la misma. Dicho pago será definitivo.
+Este impuesto se causará en el momento que los Organismos Descentralizados paguen o entreguen los premios y se pagará ante las Instituciones Bancarias autorizadas por la Secretaría de Finanzas o a través de transferencia electrónica de fondos, de forma definitiva.
 
 DE LAS OBLIGACIONES:
 
@@ -647,13 +699,13 @@ DE LAS OBLIGACIONES:
 
 Quienes entreguen los premios a que se refiere este capítulo, además de efectuar las retenciones de este impuesto, tendrán las siguientes obligaciones:
 
-I.- Solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaría de Finanzas y Administración del Estado, en su carácter de retenedor, mediante las formas autorizas por la misma dependencia.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-Las personas morales, están obligadas a presentar copia del documento en el que conste su constitución legal;
+I.- Solicitar su inscripción vía Internet en el Registro Estatal de Contribuyentes de la Secretaría de Finanzas del Estado, en su carácter de retenedor, mediante las formas autorizas por la misma Dependencia;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
 
-II.- Presentar declaraciones mensuales a más tardar el día veinte del mes siguiente a aquél al que corresponda el impuesto causado, en la forma establecida por el artículo 46 de este capítulo
+II.- Presentar declaraciones mensuales a más tardar el día veinte del mes siguiente a aquél al que corresponda el impuesto causado, en la forma establecida por el artículo 46 de este capítulo;
 
 III.- Expedir constancia de ingreso y retención del impuesto, a las personas a quienes efectúen el pago por los conceptos a que se refiere este Capítulo;
 
@@ -661,9 +713,15 @@ IV.- Conservar la documentación relacionada con las constancias y retenciones d
 
 V.- Señalar en los boletos, billetes, contraseñas o instrumentos que permitan participar en los actos o actividades, el valor de los premios aun cuando éstos sean en especie.
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+VIII (SIC).- Presentar, vía internet o a través del Centro Regional de Atención al Contribuyente, los avisos respectivos por cambio de nombre o razón social, domicilio fiscal, cuenta de correo electrónico, suspensión o reanudación de actividades, apertura o cierre, fusión o escisión, aumento o disminución de obligaciones, dentro del término de treinta días en que ocurra el hecho.
+
 ###### ARTICULO 48.
 
 No causan este impuesto, las cantidades que se obtengan por concepto de reintegros.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 49.
 
@@ -681,7 +739,9 @@ DE LA BASE:
 
 Es base de este impuesto, el monto total de los pagos que efectúen por concepto de impuestos y derechos estatales.
 
-En los casos de contribuyentes que gocen de subsidios fiscales al amparo de los ordenamientos respectivos, lo causarán y pagarán sobre el total de los impuestos y derechos con exclusión de los que obtengan resolución favorable de subsidio o de excepción de pago por parte de la Secretaría de Finanzas y Administración, conforme a los preceptos legales vigentes.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+En los casos de contribuyentes que gocen de subsidios fiscales al amparo de los ordenamientos respectivos, lo causarán y pagarán sobre el total de los impuestos y derechos con exclusión de los que obtengan resolución favorable de subsidio o de excepción de pago por parte de la Secretaría de Finanzas, conforme a los preceptos legales vigentes.
 
 DE LA TASA:
 
@@ -697,9 +757,11 @@ El pago de este impuesto, se efectuará en el momento en que se realicen los pag
 
 DE LAS OBLIGACIONES:
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 54.
 
-Los sujetos de este impuesto, están obligados a enterar de manera conjunta, al momento del pago del impuesto o derecho principal y se pagará mediante declaraciones que deberán presentarse en las formas y ante las Instituciones Bancarias autorizadas por la Secretaría de Finanzas y Administración o vía internet.
+Los sujetos de este impuesto, están obligados a enterar de manera conjunta, al momento del pago del impuesto o derecho principal y se pagará mediante declaraciones que deberán presentarse en las formas y ante las Instituciones Bancarias autorizadas por la Secretaría de Finanzas o vía internet.
 
 ###### ARTICULO 55.
 
@@ -777,9 +839,9 @@ IV.- Por la inscripción de propiedad en régimen de condominio, se pagará por 
 
 V.- Por la inscripción de la disolución de la sociedad conyugal en lo referente a bienes inmuebles. 2 salarios mínimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-VI. Por inscripción de contratos de compra-venta, donación, cesión de derechos, transmisión de dominio en ejecución de fideicomiso, permuta, o usucapión, adjudicaciones judiciales y por herencia, así como por cualquier operación que implique transmisión de propiedad, pagarán por cada predio sobre el valor que resulte mayor entre el precio de operación pactado o de avalúo por cada predio; Conforme a la tarifa del artículo 75
+VI.- Por inscripción de contratos de compra-venta, donación, cesión de derechos, transmisión de dominio en ejecución de fideicomiso, permuta, o usucapión, adjudicaciones judiciales y por herencia, así como por cualquier operación que implique transmisión de propiedad, pagarán por cada predio sobre el valor que resulte mayor entre el precio de operación pactado o de avalúo, por cada predio Conforme a la tarifa del Artículo 75;
 
 VII.- Por la inscripción de resoluciones de información Ad-perpetuam, se pagará sobre el valor de cada predio. Conforme a la tarifa del Artículo 75
 
@@ -811,11 +873,15 @@ XIV.- Por ratificación de firmas 2 salarios mínimos
 
 Por la cancelación de actos a que se refieren las fracciones VI, VII y X de este Artículo, se pagará el 50% del valor de la inscripción principal.
 
-Cuando el valor catastral o el de avalúo, del acto que se trate de inscribir, difieran entre sí, se atenderá al mayor para fijar el monto de los derechos que deberán cubrirse.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+Cuando el valor catastral o el valor fiscal del avalúo, del acto que se trate de inscribir, difieran entre sí, se atenderá al mayor para fijar el monto de los derechos que deberán cubrirse.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 59.
 
-Los derechos generados ante el Registro Público de la Propiedad y del Comercio, por concepto de inscripciones o anotaciones relativas a limitaciones o gravámenes de la propiedad y posesión originaria de inmuebles, como son: arrendamiento, mutuo con garantía hipotecaria, contratos de ocupación, constitución o substitución de garantías reales, cesión de garantías y obligaciones reales, cédula hipotecaria del juicio sumario hipotecario, comodato, contratos de crédito refaccionario y de habilitación o avió celebrados entre particulares, convenios judiciales, dación en pago que no implique transmisión de propiedad, cumplimiento de condiciones suspensivas o resolutorias a que se haya sujetado la transmisión de la propiedad, demandas y resoluciones judiciales que limiten el derecho de propiedad, posesión, embargos judiciales, fideicomisos de afectación o administración en garantía, en el que él o los fideicomitentes se reserven expresamente la propiedad, fianzas, habilitación, prendas sobre créditos, prenda de frutos pendientes, uso, usufructo, servidumbre, reestructuración de créditos cuando exista novación de contrato, se causarán y pagarán cuando se determine el valor del acto inscribible o anotable: 50 % de la tarifa del Artículo 75.
+Los derechos generados ante el Registro Público de la Propiedad y del Comercio, por concepto de inscripciones o anotaciones relativas a limitaciones o gravámenes de la propiedad y posesión originaria de inmuebles, como son: arrendamiento, mutuo con garantía hipotecaria, contratos de ocupación, constitución o substitución de garantías reales, cesión de garantías y obligaciones reales, cédula hipotecaria del juicio sumario hipotecario, comodato, contratos de crédito refaccionario y de habilitación o avió celebrados entre particulares, convenios judiciales, dación en pago que no implique transmisión de propiedad, cumplimiento de condiciones suspensivas o resolutorias a que se haya sujetado la transmisión de la propiedad, demandas y resoluciones judiciales que limiten el derecho de propiedad, posesión, embargos judiciales, fideicomisos de afectación o administración en garantía, en el que él o los fideicomitentes se reserven expresamente la propiedad, fianzas, habilitación, prendas sobre créditos, prenda de frutos pendientes, uso, usufructo con reserva de dominio, servidumbre, reestructuración de créditos cuando exista novación de contrato, se causarán y pagarán cuando se determine el valor del acto inscribible o anotable: 50% de la tarifa del Artículo 75.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -871,7 +937,7 @@ XI.- Por constitución del patrimonio familiar. 3 salarios mínimos
 
 XII.- Otros actos inscribibles no previstos 3 salarios mínimos.
 
-### CAPITULO SEXTO. IMPUESTO SOBRE LOTERIAS, RIFAS, SORTEOS Y CONCURSOS
+### CAPITULO SEXTO. DEL IMPUESTO SOBRE LOTERIAS, RIFAS, SORTEOS Y CONCURSOS
 
 DEL OBJETO:
 
@@ -1017,7 +1083,7 @@ Si por cualquier causa el documento se devuelve sin inscripción, siempre que no
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2004)</small>
 
-### CAPITULO SEPTIMO. IMPUESTO ADICIONAL PARA LA CONSTRUCCION DE CARRETERAS, SOSTENIMIENTO DE LA ASISTENCIA PUBLICA Y DEL HOSPITAL DEL NIÑO D.I.F. DEL ESTADO
+### CAPITULO SEPTIMO. DEL IMPUESTO ADICIONAL PARA LA CONSTRUCCION DE CARRETERAS, SOSTENIMIENTO DE LA ASISTENCIA PUBLICA Y DEL HOSPITAL DEL NIÑO D.I.F. DEL ESTADO
 
 DEL OBJETO:
 
@@ -1029,9 +1095,9 @@ I.- El Estado y los Municipios.
 
 II.- La Beneficencia Pública del Estado y
 
-III.- Los títulos exceptuados por disposición de Ley o por Acuerdo del Ejecutivo del Estado, directamente o a través de la Secretaría de Finanzas y Administración que corresponda, ya sea por notoria pobreza o cuando se trate de personas físicas o morales que desarrollen proyectos de inversión en los que se generen, por lo menos 20 empleos permanentes.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-Las excepciones de pago parciales, se cobrarán en los términos de la resolución respectiva.
+III.- Los títulos exceptuados por disposición de Ley o por acuerdo del Ejecutivo del Estado, directamente o a través de la Secretaría de Finanzas que corresponda, ya sea por notoria pobreza o cuando se trate de personas físicas o morales que desarrollen proyectos de inversión en los que se generen, por lo menos 20 empleos permanentes.
 
 ###### ARTICULO 69.
 
@@ -1065,9 +1131,11 @@ VII.- Por ratificación de firmas. 1 salario mínimo
 
 Por la inscripción de créditos o reestructuración de los mismos cuando exista novación de contrato, otorgados por Instituciones de Crédito Nacionales o Extranjeras, que tengan como finalidad el apoyo de la industria instalada o por instalarse en el Estado, así como, a las empresas que impulsen la producción del campo, se cobrará sobre el monto del crédito 25 % de la tarifa del Artículo 75.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 73.
 
-Para el pago de los derechos generados por el servicio de registro público, el encargado de éste, enviará al Centro Regional de Operación Fiscal respectivo, la liquidación correspondiente a efecto de que se anote en ella la razón del pago que deberá contener, nombre de quien lo recibe, fecha, número de partida y cantidad pagada. Tratándose de las Oficinas Registrales ubicadas en el interior del Estado, el pago se realizará en la Institución Bancaria autorizada, la cual deberá acreditar el pago mediante el sello respectivo en la autorización del pago, que deberá contener además de la cantidad pagada, la firma, fecha y nombre de quien lo autoriza.
+Para el pago de los derechos generados por el servicio de Registro Público, el encargado de éste, enviará al Centro Regional de Atención al Contribuyente respectivo, la liquidación correspondiente a efecto de que se anote en ella la razón del pago que deberá contener: Nombre de quien lo recibe, fecha, número de partida y cantidad pagada. En los casos de las oficinas registrales ubicadas en el interior del Estado, el pago se realizará en la Institución Bancaria utilizada, la cual deberá acreditar el pago mediante el sello respectivo en la autorización del pago, que deberá contener además de la cantidad pagada, la firma, fecha y nombre de quien lo autoriza.
 
 En las certificaciones, no se procederá a la búsqueda, ni a su expedición, sin antes acreditar el pago correspondiente.
 
@@ -1075,11 +1143,15 @@ En las certificaciones, no se procederá a la búsqueda, ni a su expedición, si
 
 Para efecto del pago de derechos al Registro Público de la Propiedad y del Comercio, en los que se establezca como referencia salarios mínimos, se tomará como base el salario mínimo diario vigente en el Estado y Distrito Judicial en el momento en que se cause.
 
-### CAPITULO PRIMERO. DE LAS DEPENDENCIAS DE LA SECRETARIA DE GOBERNACION
+### CAPITULO PRIMERO. DE LAS DEPENDENCIAS DE LA SECRETARIA DE GOBIERNO (SIC)
 
 ## TITULO TERCERO. DE LOS DERECHOS
 
-### CAPITULO SEGUNDO. DE LAS DEPENDENCIAS DE LA SECRETARIA DE FINANZAS Y ADMINISTRACION
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+### CAPITULO PRIMERO BIS. DE LAS DEPENDENCIAS DE LA SECRETARIA DE SEGURIDAD PUBLICA
+
+(REUBICADO Y REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2005)
 
 ###### ARTICULO 75.
 
@@ -1127,9 +1199,11 @@ XI.- Por la búsqueda del acta, cuando no se presentan datos del registro, por l
 
 XII.- Por cada año siguiente del concepto de la fracción anterior. 0.5 salario mínimo
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE2005)</small>
+
 ###### ARTICULO 77.
 
-Los derechos por la prestación de los servicios del Estado a través de la Dirección General de Seguridad Pública y Tránsito, se causarán y pagarán de la siguiente forma:
+Los derechos por la prestación de los servicios del Estado a través de la Secretaría de Seguridad Pública por conducto de la Dirección General de Seguridad Pública y Tránsito y el Registro de Empresas de Seguridad Privada, causarán y pagarán de la siguiente forma:
 
 I.- De las Licencias para conducir:
 
@@ -1181,6 +1255,20 @@ a).- Por la expedición de copias fotostáticas, por cada hoja. $5.00
 
 b).- Por la certificación de copias, por documento. $10.00
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+V.- Por la autorización y revalidación bianual a particulares que presten el servicio de seguridad privada dentro del Territorio del Estado, en cada una de las modalidades previstas en el Artículo 164 de la Ley de Seguridad Pública para el Estado de Hidalgo. 127 salarios mínimos
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+VI.- Por la modificación de la autorización, registro o revalidación. 8 salarios mínimos
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+VII.- Por la reposición de cédula de identificación del personal que preste sus servicios a los particulares que otorguen servicios de seguridad privada. 1.5 salarios minamos
+
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 2005)
+
 ###### ARTICULO 78.
 
 Los derechos por la prestación de los servicios del Estado a través de la Coordinación General Jurídica, se causarán y pagarán de la siguiente forma:
@@ -1211,6 +1299,8 @@ VI.- Por expedición de constancias de inscripción o de no inscripción de test
 
 1 salario mínimo
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 79.
 
 Los Derechos por la prestación de los servicios del Estado, a través de la Dirección General de Auditoría y Ejecución Fiscal, se causarán y pagarán de la siguiente forma:
@@ -1237,11 +1327,11 @@ a).- Por la primera hoja. 0.5 salario mínimo
 
 b).- Por cada hoja excedente. $4.00
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 80.
 
-Los Derechos por la prestación de los servicios del Estado a través de la Dirección General de Recaudación y de los Centros Regionales de Operación Fiscal, se causarán y pagarán de la siguiente forma:
+Los Derechos por la prestación de servicios del Estado a través de la Dirección General de Recaudación y de los Centros Regionales de Atención al Contribuyente, se causarán y pagarán de la siguiente forma:
 
 I.- Por certificaciones. 0.5 salario mínimo
 
@@ -1265,33 +1355,45 @@ b).- Por cada hoja excedente. $4.00
 
 VI.- De los vehículos particulares:
 
-a).- Alta y canje de placas. 5 salarios mínimos
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+a).- Alta y canje de placas 8 salarios mínimos.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
 
 b).- Reposición de engomado 2 salarios mínimos
 
-c).- Bajas. 1 salario mínimo
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+c).- Bajas 2 salarios mínimos.
 
 d).- Reposición de tarjetas de circulación. 3 salarios mínimos
 
-e).- Placas de remolque. 5 salarios mínimos
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-f).- Permiso anual para el uso de placas de demostración. 8 salarios mínimos
+e).- Placas de remolque. 8 salarios mínimos.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+f).- Permiso anual para el uso de placas de demostración. 12 salarios mínimos.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
 
 g).- Refrendo del registro anual de control vehicular 2 salarios mínimos
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-h).- Permiso provisional para circular en traslado 2.5 salarios mínimos
+h).- Permiso provisional para circular sin placas 4 salarios mínimos.
 
-i).- Expedición de placas para vehículo antiguo. 5 salarios mínimos
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+i).- Expedición de placas para vehículo antiguo 8 salarios mínimos.
 
 j).- El canje extemporáneo de placas y engomado, dará lugar al cobro de recargos conforme a lo dispuesto por la Ley de Ingresos del Estado
 
-k).- Canje de placas. 5 salarios mínimos
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+k).- Canje de placas 8 salarios mínimos.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -1299,25 +1401,49 @@ l).- Expedición de constancia de pago 0.5 salario mínimo
 
 VII.- De los vehículos de servicio público:
 
-a).- Alta y canje de placas. 5 salarios mínimos
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+a).- Alta y canje de placas 10 salarios mínimos.
 
 b).- Reposición del registro anual de control vehicular. 3 salarios mínimos
 
-c).- Bajas. 1 salario mínimo
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-d).- Reposición de tarjeta de circulación. 1 salario mínimo
+c).- Bajas 3 salarios mínimos.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+d).- Reposición de tarjeta de circulación 3 salarios mínimos.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
 
 e).- Refrendo del registro de control vehicular 3 salarios mínimos
 
-f).- Canje de placas. 5 salarios mínimos
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+f).- Canje de placas 10 salarios mínimos.
 
 g).- El canje extemporáneo de placas y engomado, dará lugar al cobro de recargos conforme a lo dispuesto por la Ley de Ingresos del Estado.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
 
 h).- Expedición de constancia de pago 0.5 salario mínimo
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+VII BIS.- De las Motocicletas:
+
+a).- Alta y canje de placas 4 salarios mínimos.
+
+b).- Bajas 1 salario mínimo.
+
+c).- Canje de placas 4 salarios mínimos.
+
+d).- Expedición del registro de control vehicular 1 salario mínimo.
+
+e).- Reposición del registro anual de control vehicular 1 salario mínimo.
+
+f).- Reposición de tarjeta de circulación 2 salarios mínimos.
 
 VIII.- El pago de los derechos a que se refieren las fracciones I y II, deberán hacerse de la siguiente manera:
 
@@ -1341,15 +1467,17 @@ b).- Por cada hoja excedente. $5.00
 
 Los derechos por la prestación de los servicios del Estado a través de la Dirección General de Normatividad en Licitaciones y Política Gubernamental, se causarán y pagarán de la siguiente forma:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-I.- Por la inscripción en el Padrón de Proveedores 7 salarios mínimos
+I.- Por la inscripción en el padrón de proveedores 9 salarios mínimos.
 
-II.- Por la inscripción en el padrón de contratistas. 7 salarios mínimos
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+II.- Por la inscripción en el padrón de contratistas 9 salarios mínimos.
 
-III.- Por la revalidación en el Padrón de Contratistas 7 salarios mínimos
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+III.- Por la revalidación en el Padrón de contratistas 9 salarios mínimos.
 
 IV.- Por la expedición de copias certificadas de cualquier documento existente en los archivos de esta Dirección General:
 
@@ -1357,25 +1485,25 @@ a).- Por la primera hoja. $10.00
 
 b).- Por cada hoja excedente. $5.00
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-V. Por la inscripción en el Padrón de Concesionarios 14 salarios mínimos
+V.- Por la inscripción en el Padrón de Concesionarios 16 salarios mínimos.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-VI. Por la actualización en el Padrón de Proveedores 7 salarios mínimos
+VI.- Por la actualización en el Padrón de Proveedores 9 salarios mínimos.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-VII. Por las modificaciones o reposiciones en el Padrón de Proveedores 7 salarios mínimos
+VII.- Por las modificaciones o reposiciones en el Padrón de Proveedores 9 salarios mínimos.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-VIII. Por las modificaciones o reposiciones en el Padrón de Contratistas 7 salarios mínimos
+VIII.- Por las modificaciones o reposiciones en el Padrón de Contratistas 9 salarios mínimos.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-IX. Por las modificaciones o reposiciones en el Padrón de Concesionarios 14 salarios mínimos
+IX.- Por las modificaciones o reposiciones en el Padrón de Concesionarios 14 salarios mínimos.
 
 Asimismo, los Derechos por la prestación de los servicios del Estado a través de la Dirección General de Inspección y Vigilancia, se causarán y pagarán de la siguiente forma.
 
@@ -1431,9 +1559,9 @@ V.- Por la expedición de certificados de no antecedentes penales. 1.5 salarios 
 
 ###### ARTICULO 86.
 
-Los organismos descentralizados como personas jurídicas, cuyo objetivo es la realización de actividades correspondientes a las áreas estratégicas o prioritarias de la administración pública, mediante la prestación de diversos servicios públicos o sociales o la obtención y aplicación de recursos para fines de asistencia o seguridad social, obtendrán las aportaciones y recursos necesarios para el desarrollo de sus funciones, conforme a los rubros y tarifas que señale su Organo de Gobierno respectivo, previa autorización por la Secretaría de Finanzas y Administración y aprobación por el H. Congreso del Estado, en términos de lo establecido en la Ley de Ingresos del Estado, los que deberán ser publicados en el Periódico Oficial del Gobierno del Estado para tener vigencia y aplicabilidad.
+Los Organismos Descentralizados como personas jurídicas, cuyo objetivo es la realización de actividades correspondientes a las áreas estratégicas o prioritarias de la Administración Pública, mediante la prestación de diversos servicios públicos o sociales o la obtención y aplicación de recursos para fines de asistencia o seguridad social, obtendrán las aportaciones y recursos necesarios para el desarrollo de sus funciones, conforme a los rubros y tarifas que señale su órgano de Gobierno respectivo, previa autorización por la Secretaría de Finanzas y aprobación por el H. Congreso del Estado, en términos de lo establecido en la Ley de Ingresos del Estado, los que deberán ser Publicados en el Periódico Oficial del Estado para tener vigencia y aplicabilidad.
 
-Los recursos que recauden, deberán ser reportados a la Secretaría de Finanzas y Administración.
+Los recursos que recauden deberán ser reportados a la Secretaría de Finanzas.
 
 ###### ARTICULO 87.
 
@@ -1453,9 +1581,19 @@ VI.- Por la venta de impresiones;
 
 VII.- Los productos por conceptos diversos de los señalados en este Artículo, se pagarán conforme a las estipulaciones que se acuerden en los contratos celebrados al respecto o en los términos de las concesiones respectivas, de conformidad con las Leyes o disposiciones aplicables y
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
 VIII.- Las publicaciones en el Periódico Oficial del Estado, se pagarán de acuerdo a la siguiente tarifa:
 
-a).- Por publicación de avisos y documentos que deberán hacerse por disposición de Ley (remates, edictos y avisos diversos). Por una sola vez. 3 salarios mínimos
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+a).- Por publicación de avisos y documentos que deberán hacerse por disposición de Ley, (remates, edictos y avisos diversos).
+
+Por una sola vez 3 salarios mínimos.
+
+Por dos veces 6 salarios mínimos.
+
+Por tres veces 9 salarios mínimos.
 
 b).- Por las publicaciones en el Periódico Oficial, hasta media plana. 6 salarios mínimos
 
@@ -1517,7 +1655,7 @@ IX.- Las indemnizaciones.
 
 ###### ARTICULO 89.
 
-Las participaciones y aportaciones por Ingresos Federales, se percibirán de acuerdo a lo dispuesto en la Ley de Coordinación Fiscal Federal, el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal y el Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos. Las cuales ingresarán íntegramente a la Secretaría de Finanzas y Administración.
+Las participaciones y aportaciones por Ingresos Federales, se percibirán de acuerdo a lo dispuesto en la Ley de Coordinación Fiscal Federal, el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal y el Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos. Las cuales ingresarán íntegramente a la Secretaría de Finanzas.
 
 ###### ARTICULO 90.
 
@@ -1543,6 +1681,8 @@ VI.- Otras participaciones extraordinarias.
 
 Los contratistas y destajistas que realicen obras para el Gobierno del Estado, aportarán el 1% sobre el pago de cada una, para obras de beneficio social.
 
+### CAPITULO SEGUNDO. DE LAS DEPENDENCIAS DE LA SECRETARIA DE FINANZAS
+
 ### CAPITULO TERCERO. DE LAS DEPENDENCIAS DE LA SECRETARIA DE CONTRALORIA
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2004)</small>
@@ -1553,11 +1693,15 @@ Los contratistas y destajistas que realicen obras para el Gobierno del Estado, a
 
 ### CAPITULO SEXTO. DE LOS ORGANISMOS DESCENTRALIZADOS
 
-### CAPITULO UNICO
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO UNICO
 
 ### CAPITULO UNICO
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO UNICO
 
@@ -1604,5 +1748,11 @@ LIC. MANUEL ANGEL NUÑEZ SOTO.
 P.O. 31 DE DICIEMBRE DE 2004.
 
 PRIMERO.- El presente Decreto entrará en vigor el día 1° de Enero del año 2005, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1º. de enero de 2006, previa su Publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
