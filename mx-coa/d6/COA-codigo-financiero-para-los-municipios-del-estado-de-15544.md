@@ -4,7 +4,7 @@ identifier: "COA-codigo-financiero-para-los-municipios-del-estado-de-15544"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-23"
-last_updated: "2001-03-20"
+last_updated: "2005-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO FINANCIERO PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2005.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 23 de julio de 1999.
 
@@ -1100,6 +1100,56 @@ Esta contribución se pagará en la Tesorería Municipal, dentro de los quince d
 ###### ARTÍCULO 131.
 
 El pago de esta contribución deberá comprender el importe total de los daños o deterioros causados.
+
+> <small>(ADICIONADA CON LAS DENOMINACIONES Y ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+SECCION D
+
+POR MANTENIMIENTO, MEJORAMIENTO Y EQUIPAMIENTO DEL CUERPO DE BOMBEROS DE LOS MUNICIPIOS
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LA INTEGRA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+DEL OBJETO DE LA CONTRIBUCION
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+###### ARTÍCULO 131-A.
+
+Es objeto de esta contribución la realización de pagos por concepto de impuestos, derechos y cualquier otra contribución que se cause conforme al presente Código y demás disposiciones fiscales del Municipio, así como los accesorios que se paguen.
+
+El rendimiento de esta contribución será destinado exclusivamente al mantenimiento, mejoramiento y equipamiento del cuerpo de bomberos de los Municipios.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LA INTEGRA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+DE LOS SUJETOS DE LA CONTRIBUCION
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+###### ARTÍCULO 131-B.
+
+Son sujetos de esta contribución las personas físicas, morales o unidades económicas que realicen pagos por concepto de impuestos, derechos y cualquier otra contribución que se cause conforme al presente Código y demás disposiciones fiscales del Municipio.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+DE LA BASE Y PAGO DE LA CONTRIBUCIÓN
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+###### ARTÍCULO 131-C.
+
+La base de esta contribución es el importe de los pagos que se realicen por concepto de impuestos, derechos y demás contribuciones incluyendo sus accesorios.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+###### ARTÍCULO 131-D.
+
+La tasa o tarifa aplicable a este impuesto será la que al efecto establezca la Ley de Ingresos Municipal correspondiente.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+###### ARTÍCULO 131-E.
+
+El pago de ésta contribución deberá efectuarse en las oficinas recaudadoras que determine la autoridad fiscal, en el mismo recibo con que se realicen los pagos objeto de esta contribución.
 
 ### CAPÍTULO X. DE LOS DERECHOS POR LA PRESTACIÓN DE SERVICIOS PÚBLICOS
 
@@ -4170,3 +4220,9 @@ Dentro del plazo de un año contado a partir de la entrada en vigor de este decr
 ###### ARTÍCULO SEXTO.
 
 Se derogan todas las disposiciones en contrario.
+
+P.O. 30 DE DICIEMBRE DE 2005.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
