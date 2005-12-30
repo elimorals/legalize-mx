@@ -4,7 +4,7 @@ identifier: "FED-ley-del-mercado-de-valores-476"
 country: "mx"
 rank: "ley"
 publication_date: "1975-01-02"
-last_updated: "2004-01-28"
+last_updated: "2005-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=476&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,9 @@ abbreviation: "LMV"
 
 LEY DEL MERCADO DE VALORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DE LA LEY DEL MERCADO DE VALORES, PUBLICADA EN EL D.O.F. DE 30 DE DICIEMBRE DE 2005, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADA.
 
 Ley publicada en el Diario Oficial de la Federación el jueves 2 de enero de 1975.
 
@@ -240,11 +242,13 @@ Sólo podrán ser materia de intermediación en el mercado de valores los docume
 
 Se exceptúan de esta disposición las operaciones con valores que, sin constituir oferta pública, tengan por objeto la suscripción o transferencia de proporciones importantes del capital de empresas, la fusión, escisión o transformación de sociedades, así como la correduría de los documentos a que se refiere el segundo párrafo del artículo 3o. de esta Ley y la intermediación de títulos o valores emitidos en el extranjero, con arreglo a lo previsto por este ordenamiento.
 
-> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO POR EL ARTICULO NOVENO TRANSITORIO DE LA LEY DEL MERCADO DE VALORES, D.O.F. 30 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 14.
 
-Las emisoras que pretendan obtener la inscripción de sus valores en la Sección de Valores del Registro Nacional de Valores y autorización de su oferta pública por parte de la Comisión Nacional Bancaria y de Valores, deberán satisfacer los siguientes requisitos:
+Las emisoras que pretendan obtener la inscripción de sus valores en el Registro Nacional de Valores y autorización de su oferta pública por parte de la Comisión Nacional Bancaria y de Valores, deberán satisfacer los siguientes requisitos:
+
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2001)</small>
 
 I.- Integrar a la solicitud respectiva la siguiente documentación:
 
@@ -260,11 +264,19 @@ c) En el caso de instrumentos de deuda, el dictamen sobre la calidad crediticia 
 
 d) Opinión favorable de una bolsa de valores respecto de la inscripción en el listado de valores de la misma. En el caso de acciones, dicha opinión deberá aludir adicionalmente a la forma en que se integraría el consejo de administración, previendo la participación de consejeros independientes;
 
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2001)</small>
+
 II.- Tratándose de acciones, ajustar sus estatutos sociales a lo previsto en el artículo 14 Bis 3, fracciones I y III a VI de esta Ley, sin perjuicio de que se observen las demás disposiciones aplicables, y
+
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2001)</small>
 
 III.- Presentar la información adicional que la Comisión Nacional Bancaria y de Valores determine.
 
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2001)</small>
+
 La Comisión Nacional Bancaria y de Valores mediante disposiciones de carácter general establecerá el procedimiento para la inscripción de valores en el Registro Nacional de Valores y para la aprobación de su oferta pública, las bases para la elaboración de los documentos a que se refieren los incisos a) y b) de la fracción I anterior, así como los medios y plazos en los cuales deberá ponerse a disposición del público inversionista la información a que se refiere este artículo. Asimismo, la citada Comisión podrá dictar criterios que permitan determinar los supuestos bajo los cuales un auditor externo y quien emita una opinión legal, se considerarán independientes.
+
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2001)</small>
 
 La inscripción en el Registro Nacional de Valores no implica certificación sobre la bondad del valor o la solvencia del emisor. Esta mención deberá figurar en los documentos a través de los que se realice oferta pública de valores.
 
@@ -292,29 +304,41 @@ VI.- Directores generales o directivos de alto nivel de una sociedad en cuyo con
 
 VII.- Cónyuges o concubinarios, así como los parientes por consanguinidad, afinidad o civil hasta el primer grado respecto de alguna de las personas mencionadas en las fracciones III a VI anteriores, o bien, hasta el tercer grado, en relación con las personas señaladas en las fracciones I y II de este artículo.
 
-> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO POR EL ARTICULO NOVENO TRANSITORIO DE LA LEY DEL MERCADO DE VALORES, D.O.F. 30 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 14 Bis 1.
 
-Las sociedades emisoras que pretendan obtener la inscripción de sus valores en la Sección de Valores del Registro Nacional de Valores, sin que al efecto medie oferta pública, deberán solicitarlo a la Comisión Nacional Bancaria y de Valores sujetándose, en lo conducente, a lo previsto en el artículo 14 anterior, en el entendido de que en sustitución del prospecto de colocación de referencia, presentarán un proyecto de folleto informativo, el cual deberá incluir la información señalada en el artículo 14, fracción I, inciso a) de la presente Ley, excepto por lo que se refiere a la oferta pública de valores.
-
-En todo caso, las emisoras que pretendan obtener la inscripción al amparo del procedimiento previsto en este artículo, deberán cumplir con los requisitos de listado en la bolsa de valores correspondiente.
+Las sociedades emisoras que pretendan obtener la inscripción de sus valores en el Registro Nacional de Valores, sin que al efecto medie oferta pública, deberán solicitarlo a la Comisión Nacional Bancaria y de Valores sujetándose, en lo conducente, a lo previsto en el artículo 14 anterior, en el entendido de que en sustitución del prospecto de colocación de referencia, presentarán un proyecto de folleto informativo, el cual deberá incluir la información señalada en el artículo 14, fracción I, inciso a) de la presente Ley, excepto por lo que se refiere a la oferta pública de valores.
 
 > <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2001)</small>
 
+En todo caso, las emisoras que pretendan obtener la inscripción al amparo del procedimiento previsto en este artículo, deberán cumplir con los requisitos de listado en la bolsa de valores correspondiente.
+
+> <small>(REFORMADO PRIMER PARRAFO POR EL ARTICULO NOVENO TRANSITORIO DE LA LEY DEL MERCADO DE VALORES, D.O.F. 30 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 14 Bis 2.
 
-Para mantener la inscripción de sus valores en la Sección de Valores del Registro Nacional de Valores, las sociedades emisoras deberán satisfacer, a juicio de la Comisión Nacional Bancaria y de Valores, los siguientes requisitos:
+Para mantener la inscripción de sus valores en el Registro Nacional de Valores, las sociedades emisoras deberán satisfacer, a juicio de la Comisión Nacional Bancaria y de Valores, los siguientes requisitos:
+
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2001)</small>
 
 I.- Presentar a la Comisión Nacional Bancaria y de Valores, a la bolsa de valores y al público inversionista informes continuos, trimestrales y anuales que contengan información respecto de la emisora en materia financiera, administrativa, económica, contable y legal, así como de los valores por ella emitidos, ajustándose, para su elaboración y envío, a las disposiciones de carácter general que al efecto expida la citada Comisión. En estos informes se deberá incluir toda aquella información relevante que contribuya a la adecuada toma de decisiones por parte del público inversionista.
 
 Los estados financieros de la emisora, cuando así lo determine la Comisión a través de disposiciones de carácter general, deberán acompañarse del dictamen de un auditor externo independiente;
 
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2001)</small>
+
 II.- Cumplir con los requisitos de revelación de eventos relevantes a que se refiere el artículo 16 Bis de esta Ley, así como presentar oportunamente información relativa a asambleas de accionistas;
+
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2001)</small>
 
 III.- Presentar la demás información y documentación que la Comisión Nacional Bancaria y de Valores determine mediante disposiciones de carácter general;
 
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2001)</small>
+
 IV.- Tratándose de acciones, cumplir con los requisitos de mantenimiento de la inscripción en el listado de valores de la bolsa correspondiente, dentro de los que se deberán contemplar aquellos que impongan a las emisoras la participación de consejeros independientes en la integración de sus consejos de administración;
+
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2001)</small>
 
 V.- Que los emisores sigan políticas, respecto de su presencia, actividad y participación en el mercado de valores, congruentes con los intereses de los inversionistas, a cuyo efecto la Comisión Nacional Bancaria y de Valores expedirá disposiciones de carácter general relativas a:
 
@@ -332,15 +356,21 @@ d) Las provisiones, políticas y medidas para salvaguardar los intereses del pú
 
 e) El establecimiento de procedimientos de comunicación y mecanismos de control para efectos de lo previsto por el artículo 16 Bis 3, segundo párrafo, de esta Ley;
 
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2001)</small>
+
 VI.- Que los emisores de valores representativos de su capital expidan los títulos definitivos correspondientes dentro de un plazo no mayor de noventa días, contado a partir de la fecha de la constitución de la sociedad o de aquélla en que se haya acordado su emisión o canje, y
+
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2001)</small>
 
 VII.- No efectuar actos u operaciones contrarias a esta Ley o a los usos o sanas prácticas del mercado de valores.
 
-> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO POR EL ARTICULO NOVENO TRANSITORIO DE LA LEY DEL MERCADO DE VALORES, D.O.F. 30 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 14 Bis 3.
 
-Las sociedades emisoras que obtengan la inscripción de sus acciones en la Sección de Valores del Registro Nacional de Valores, estarán sujetas a las siguientes normas:
+Las sociedades emisoras que obtengan la inscripción de sus acciones en el Registro Nacional de Valores, estarán sujetas a las siguientes normas:
+
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2001)</small>
 
 I.- Podrán adquirir las acciones representativas de su capital social, a través de la bolsa de valores, al precio corriente en el mercado, sin que sea aplicable la prohibición establecida en el primer párrafo del artículo 134 de la Ley General de Sociedades Mercantiles, siempre que la compra se realice con cargo al capital contable en tanto pertenezcan dichas acciones a la propia emisora o, en su caso, al capital social en el evento de que se resuelva convertirlas en acciones de tesorería, en cuyo supuesto, no se requerirá de resolución de asamblea de accionistas.
 
@@ -354,6 +384,8 @@ La posibilidad de adquirir acciones propias deberá estipularse en los estatutos
 
 La compra y colocación de acciones previstas en esta fracción, los informes que sobre las mismas deban presentarse a la asamblea general ordinaria de accionistas, las normas de revelación en la información financiera, así como la forma y términos en que estas operaciones sean dadas a conocer a la Comisión Nacional Bancaria y de Valores, a la bolsa de valores correspondiente y al público inversionista, estarán sujetos a las disposiciones de carácter general que expida la propia Comisión;
 
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2001)</small>
+
 II.- Cuando obtengan autorización expresa de la Comisión Nacional Bancaria y de Valores y sin que para ello sea aplicable lo dispuesto en el artículo 198 de la Ley General de Sociedades Mercantiles, podrán emitir acciones sin derecho a voto, al igual que con la limitante de otros derechos corporativos, así como acciones de voto restringido distintas a las que prevé el artículo 113 del ordenamiento legal mencionado.
 
 La emisión de acciones distintas a las ordinarias no deberá exceder del veinticinco por ciento del capital social que se coloque entre el público inversionista, del total de acciones que se encuentren colocadas en el mismo. La Comisión Nacional Bancaria y de Valores podrá ampliar el límite señalado hasta por un veinticinco por ciento adicional, siempre que este último porcentaje esté representado por acciones sin derecho a voto, con la limitante de otros derechos corporativos o por acciones de voto restringido, que en todo caso, deberán ser convertibles en acciones ordinarias en un plazo no mayor a cinco años, contado a partir de su colocación. Para la determinación de los porcentajes referidos no se considerarán las acciones o títulos fiduciarios que las representen y que, en razón de la nacionalidad del titular, limiten el derecho de voto en cumplimiento de las disposiciones legales aplicables en materia de inversión extranjera.
@@ -362,11 +394,15 @@ Se prohíbe la instrumentación de mecanismos a través de los cuales sean negoc
 
 Las acciones sin derecho a voto no se computarán para efectos de determinar el quórum de las asambleas de accionistas, en tanto que las acciones de voto restringido o limitado únicamente se computarán para determinar el quórum y las resoluciones en las asambleas de accionistas a las que deban ser convocados sus tenedores para ejercer su derecho de voto.
 
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2001)</small>
+
 III.- Toda minoría de tenedores de acciones de voto restringido distintas a las que prevé el artículo 113 de la Ley General de Sociedades Mercantiles o de voto limitado a que alude dicho precepto, que represente cuando menos un diez por ciento del capital social en una o ambas series accionarias, tendrá el derecho de designar por lo menos a un consejero y su respectivo suplente; a falta de esta designación de minorías, los tenedores de dicha clase de acciones gozarán el derecho de nombrar a por lo menos dos consejeros y sus suplentes. En el segundo caso, las designaciones, así como las substituciones y revocaciones de los consejeros, serán acordadas en asamblea especial.
 
 Los titulares de acciones con o sin derecho a voto que representen cuando menos un diez por ciento del capital social, podrán designar un comisario.
 
 Sólo podrán revocarse los nombramientos de los consejeros o comisarios designados por los accionistas a que se refieren los dos párrafos anteriores, cuando se revoque el de todos los demás;
+
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2001)</small>
 
 IV.- El consejo de administración estará integrado por un mínimo de cinco y un máximo de veinte consejeros propietarios, de los cuales cuando menos el veinticinco por ciento deberán ser independientes. Por cada consejero propietario se designará a su respectivo suplente, en el entendido de que los consejeros suplentes de los consejeros independientes, deberán tener este mismo carácter.
 
@@ -386,6 +422,8 @@ e) Los miembros del consejo de administración serán responsables de las resolu
 
 f) Los Comisarios deberán ser convocados, además de a las sesiones del consejo de administración, a todas las sesiones de aquellos órganos intermedios de consulta en los que el consejo de administración haya delegado alguna facultad;
 
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2001)</small>
+
 V.- La emisora constituirá un comité de auditoría, el cual se integrará con consejeros, de los cuales el presidente y la mayoría de ellos deberán ser independientes y contará con la presencia del o los comisarios de la emisora, quienes asistirán en calidad de invitados con derecho a voz y sin voto.
 
 El comité de auditoría a que alude el párrafo anterior tendrá, entre otras, las siguientes funciones:
@@ -395,6 +433,8 @@ a) Elaborar un reporte anual sobre sus actividades y presentarlo al consejo de a
 b) Opinar sobre transacciones con personas relacionadas a que alude el inciso d) de la fracción IV anterior, y
 
 c) Proponer la contratación de especialistas independientes en los casos en que lo juzgue conveniente, a fin de que expresen su opinión respecto de las transacciones a que se refiere el inciso d) de la fracción IV anterior, y
+
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2001)</small>
 
 VI.- En cuanto a las asambleas de accionistas:
 
@@ -417,6 +457,8 @@ d) Los accionistas que representen cuando menos el quince por ciento del capital
 e) Los accionistas con acciones con derecho a voto, incluso en forma limitada o restringida, que reúnan cuando menos el diez por ciento de las acciones representadas en una asamblea, podrán solicitar que se aplace la votación de cualquier asunto respecto del cual no se consideren suficientemente informados, ajustándose a los términos y condiciones señalados en el artículo 199 de la Ley General de Sociedades Mercantiles, y
 
 f) Los accionistas con acciones con derecho a voto, incluso en forma limitada o restringida, que representen cuando menos el veinte por ciento del capital social, podrán oponerse judicialmente a las resoluciones de las asambleas generales, respecto de las cuales tengan derecho de voto, siempre que se satisfagan los requisitos del artículo 201 de la Ley General de Sociedades Mercantiles, siendo igualmente aplicable el artículo 202 de la citada Ley.
+
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2001)</small>
 
 VII.- La emisora, mediante asamblea general extraordinaria de accionistas, podrá estipular en sus estatutos, previa autorización de la Comisión Nacional Bancaria y de Valores, cláusulas adicionales a las previstas en la Ley General de Sociedades Mercantiles para el contrato social, que establezcan medidas tendientes a prevenir la adquisición de acciones que otorguen el control de la emisora, en forma directa o indirecta, sin que se tenga el acuerdo favorable del consejo de administración de la misma.
 
@@ -2264,7 +2306,7 @@ En el supuesto de que el beneficio obtenido exceda de 15,000 días de salario, s
 
 El beneficio y su respectivo cálculo se determinarán para los efectos del delito a que se refiere este artículo, con base en el concepto y métodos establecidos en el artículo 51 Bis, segundo y tercer párrafos de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 52 Bis 4.
 
@@ -2310,7 +2352,7 @@ Los servidores públicos de la Secretaría de Hacienda y Crédito Público y de 
 
 Los accionistas, consejeros y directivos que ordenen o insten a directivos o empleados de una casa de bolsa o especialista bursátil a la comisión de los delitos contenidos en los artículos 52 Bis, 52 Bis 1, 52 Bis 2 y 52 Bis 5 de esta Ley, serán sancionados hasta en una mitad más de las penas previstas en los artículos respectivos.
 
-> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 52 Bis 5.
 
@@ -2330,7 +2372,7 @@ Para los efectos de las sanciones administrativas y delitos relativos a la manip
 
 El cálculo del beneficio se obtendrá de la diferencia entre el precio vigente en el mercado, previo al acto o actos de manipulación, y aquél al que se celebren operaciones aprovechando el movimiento generado; el diferencial obtenido se multiplicará por el volumen de estas últimas operaciones. En caso de que el beneficio derive de actos conexos o relacionados que involucren los mismos valores y sea cuantificable, el cálculo se realizará con base en el lucro obtenido en las mismas.
 
-> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2004)</small>
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 52 Bis 8.
 
@@ -3440,11 +3482,13 @@ Las casas de bolsa podrán realizar las actividades que les son propias en merca
 
 Las operaciones con valores inscritos en bolsa que celebren las casas de bolsa en mercados del exterior, quedan exceptuadas del requisito exigible por el artículo 31, fracción VIII, inciso f) de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO POR EL ARTICULO NOVENO TRANSITORIO DE LA LEY DEL MERCADO DE VALORES, D.O.F. 30 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 106.
 
-Los valores, títulos o documentos extranjeros a los que sea aplicable el régimen de esta Ley, podrán ser objeto de oferta pública en el país, siempre que sus emisores obtengan la inscripción de los títulos en la Sección de Valores del Registro Nacional de Valores, así como que dicha operación sea aprobada previamente por la Comisión Nacional Bancaria y de Valores.
+Los valores, títulos o documentos extranjeros a los que sea aplicable el régimen de esta Ley, podrán ser objeto de oferta pública en el país, siempre que sus emisores obtengan la inscripción de los títulos en el Registro Nacional de Valores, así como que dicha operación sea aprobada previamente por la Comisión Nacional Bancaria y de Valores.
+
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2001)</small>
 
 En este caso, además de cumplirse con lo dispuesto por el artículo 14 del presente ordenamiento, la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Valores y del Banco de México, deberá establecer las condiciones para la procedencia del registro y autorización de oferta pública de los valores, atendiendo los objetivos y prioridades de la planeación nacional del desarrollo, así como las directrices de política monetaria, crediticia y cambiaria que señalen las autoridades competentes. Asimismo, podrá considerar que la Comisión Nacional Bancaria y de Valores tenga suscritos acuerdos de asistencia e intercambio de información con entidades reguladoras de mercados de valores de otros países y tratamientos de reciprocidad en esta materia.
 
@@ -3460,9 +3504,9 @@ Las bolsas de valores podrán establecer un listado especial de valores, que se 
 
 En el sistema internacional de cotizaciones podrán listarse valores extranjeros que satisfagan los siguientes requisitos:
 
-> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2001)</small>
+> <small>(REFORMADA POR EL ARTICULO NOVENO TRANSITORIO DE LA LEY DEL MERCADO DE VALORES, D.O.F. 30 DE DICIEMBRE DE 2005)</small>
 
-I.- Que no estén inscritos en la Sección de Valores del Registro Nacional de Valores;
+I.- Que no estén inscritos en el Registro Nacional de Valores;
 
 > <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2001)</small>
 
@@ -3610,7 +3654,7 @@ Asimismo, se entenderá por inversionista institucional a las instituciones de s
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 1 DE JUNIO DE 2001)</small>
 
-### CAPITULO DECIMO TERCERO. De los organismos autorregulatorios
+### CAPITULO DECIMO SEGUNDO. De las prohibiciones
 
 > <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2001)</small>
 
@@ -3638,7 +3682,7 @@ VI.- Todo acto que contravenga los usos y sanas prácticas del mercado.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 1 DE JUNIO DE 2001)</small>
 
-### CAPITULO DECIMO SEGUNDO. De las prohibiciones
+### CAPITULO DECIMO TERCERO. De los organismos autorregulatorios
 
 > <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2001)</small>
 
@@ -4171,3 +4215,75 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 D.O.F. 28 DE ENERO DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE DICIEMBRE DE 2005.
+
+Primero.- La presente Ley entrará en vigor a los ciento ochenta días naturales siguientes a su publicación en el Diario Oficial de la Federación, salvo por lo dispuesto en los artículos Décimo y Décimo Séptimo transitorios.
+
+Asimismo, a la fecha de entrada en vigor de esta Ley quedará abrogada la Ley del Mercado de Valores publicada en el citado Diario el 2 de enero de 1975, salvo por lo establecido en los artículos transitorios siguientes.
+
+Segundo.- Las infracciones y delitos cometidos antes de la entrada en vigor de esta Ley, se sancionarán conforme a la ley vigente al momento de cometerse las citadas infracciones o delitos.
+
+Tercero.- La Secretaría de Hacienda y Crédito Público, la Comisión Nacional Bancaria y de Valores y el Banco de México, podrán emitir las disposiciones de carácter general a que se refiere esta Ley, con anterioridad al inicio de su vigencia, pero en todo caso en las citadas disposiciones deberá establecerse que su observancia y aplicación será posterior a la entrada en vigor de la Ley.
+
+Cuarto.- En tanto la Secretaría de Hacienda y Crédito Público, la Comisión Nacional Bancaria y de Valores y el Banco de México emitan las disposiciones de carácter general a que se refiere la presente Ley, seguirán aplicándose las emitidas con anterioridad a su entrada en vigor en lo que no se opongan a lo previsto en la misma, excepto las señaladas en los artículos Noveno y Décimo Segundo transitorios.
+
+Quinto.- Las sociedades anónimas promotoras de inversión que soliciten y, en su caso, obtengan la inscripción de las acciones representativas de su capital social o títulos de crédito que las representen, en el Registro Nacional de Valores, estarán sujetas a los requisitos de inscripción y mantenimiento aplicables a las sociedades anónimas bursátiles, hasta en tanto la Comisión Nacional Bancaria y de Valores expida las disposiciones de carácter general a que se refiere el artículo 21 de esta Ley.
+
+Sexto.- Las sociedades anónimas que a la entrada en vigor de la presente Ley, tengan inscritas en el Registro Nacional de Valores acciones representativas de su capital social o títulos de crédito que las representen, adquirirán por ministerio de ley el carácter de sociedades anónimas bursátiles y, en consecuencia, estarán sujetas a lo previsto en esta Ley.
+
+Las sociedades anónimas a que se refiere el párrafo anterior contarán con un plazo de ciento ochenta días naturales, contados a partir del día en que entre en vigor esta Ley, para ajustar su denominación social a lo señalado en el artículo 22 de la misma, así como para dar cumplimiento a los artículos relativos a la integración, organización y funcionamiento de sus órganos sociales en términos de lo previsto en el Capítulo II del Título II del citado ordenamiento legal. Lo anterior no afectará en forma alguna los derechos que corresponda ejercer a los accionistas de las sociedades mencionadas, en términos de lo establecido en los artículos 47 a 52 de esta Ley, ni las eximirá de dar cumplimiento a lo dispuesto en los artículos 53 a 57 y demás obligaciones que en su carácter de emisoras les imponga este ordenamiento legal.
+
+Séptimo.- Los accionistas de sociedades anónimas bursátiles cuya tenencia accionaria se encuentre afectada, a la entrada en vigor de la presente Ley, en fideicomisos a través de los cuales se ejerza el derecho de voto de varios accionistas en un mismo sentido, o bien, los grupos de accionistas que hayan otorgado mandato o comisión para tales efectos, deberán notificarlos a la sociedad, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de esta Ley, para efectos de su revelación al público inversionista.
+
+Octavo.- No estarán sujetas a las restricciones establecidas en los artículos 54 y 55 de esta Ley, las sociedades anónimas bursátiles que hayan emitido las acciones o instrumentado los mecanismos a que dichos preceptos se refieren, con anterioridad al inicio de su vigencia, siempre que para ello se hayan ajustado a las disposiciones legales vigentes al momento de emitir las acciones o instrumentar los mecanismos citados.
+
+Las restricciones señaladas en el párrafo anterior tampoco serán aplicables, a las sociedades anónimas bursátiles mencionadas en dicho párrafo que con posterioridad a la entrada en vigor de esta Ley:
+
+I. Realicen modificaciones a su capital social, siempre que se incremente la proporción original de acciones ordinarias o por lo menos se mantenga dicha proporción, siempre que la situación de la emisora lo justifique y se revele al público tal circunstancia. En ambos casos se requerirá la previa autorización de la Comisión Nacional Bancaria y de Valores, la cual procederá cuando a su juicio se acredite que no se afectan los intereses del público inversionista.
+
+II. Se fusionen o escindan, siempre que la sociedad fusionante o escindida por lo menos mantenga la proporción original de acciones ordinarias de la fusionada o escindente. En el evento de que la sociedad fusionada o escindente adicionalmente cuente con alguna cláusula de las referidas en el artículo 48 de la presente Ley, la sociedad fusionante o escindida podrá incorporar la misma cláusula en sus estatutos sociales en el acto de su constitución, sin que le resulte aplicable dicho precepto legal.
+
+Noveno.- A partir de la entrada en vigor de esta Ley, se abrogan las "Reglas para la Organización del Registro Nacional de Valores e Intermediarios" publicadas en el Diario Oficial de la Federación de 13 de abril de 1993.
+
+Los asientos registrales de cualquier tipo que constan en el Registro Nacional de Valores a que se refiere el artículo 10 de la Ley del Mercado de Valores que se abroga mediante la presente Ley, se entenderán como hechos en el Registro a que se refiere el artículo 70 de esta Ley. Asimismo, los asientos registrales realizados con anterioridad al 1 de enero de 1996, se mantendrán en los legajos a que aludían las Reglas mencionadas en el párrafo anterior, mientras que los posteriores a dicha fecha se harán constar en los folios electrónicos que prevé esta Ley.
+
+Las referencias que otras leyes, reglamentos o disposiciones administrativas hagan a la sección valores del Registro Nacional de Valores, se entenderán hechas al Registro previsto en el artículo 70 de esta Ley.
+
+Los valores inscritos exclusivamente en la sección especial del Registro Nacional de Valores, podrán ser objeto de intermediación en el territorio nacional, siempre que se dé cumplimiento a lo establecido en el artículo 9 de esta Ley.
+
+Décimo.- Los artículos 7, segundo párrafo, 71, segundo párrafo, y 80 de la presente Ley, entrarán en vigor a los ciento ochenta días naturales siguientes a aquél en que entre en vigor la Ley. Hasta en tanto entren en vigor los citados artículos, la oferta de suscripción o venta en el extranjero de valores emitidos en los Estados Unidos Mexicanos o por personas morales mexicanas, estará sujeta a la inscripción de los valores en el Registro Nacional de Valores, en los mismos términos y con las salvedades previstas para la sección especial en la Ley del Mercado de Valores que se abroga por virtud de esta Ley.
+
+Décimo Primero.- En tanto la Comisión reconozca las normas y procedimientos de auditoría a que hacen referencia los artículos 87, fracción I y 352, fracción IV de esta Ley, las personas morales que presten servicios de auditoría externa a emisoras o entidades financieras, en términos del presente ordenamiento legal, deberán prestar sus servicios con base en las normas y procedimientos expedidos en la materia por el Instituto Mexicano de Contadores Públicos, A.C.
+
+Décimo Segundo.- A la fecha de entrada en vigor de la presente Ley quedarán abrogadas las "Condiciones para la procedencia del registro y autorización de oferta pública de títulos de deuda que emitan organismos financieros multilaterales a los que pertenezca México" y las "Condiciones para la procedencia del registro y autorización de oferta pública de acciones de emisoras extranjeras en el país", publicadas en el Diario Oficial de la Federación el 14 de septiembre de 2000 y 20 de marzo de 2002, respectivamente.
+
+Décimo Tercero.- Las casas de bolsa que a la entrada en vigor de esta Ley operen al amparo de la inscripción que mantienen en la Sección de Intermediarios del anterior Registro Nacional de Valores e Intermediarios vigente hasta el 2 de junio de 2001, o en virtud de estar autorizadas para organizarse y operar como tales conforme a la Ley del Mercado de Valores que se abroga, se tendrán por autorizadas en términos del artículo 114 de esta Ley.
+
+Las casas de bolsa señaladas en el párrafo anterior quedarán sujetas a lo previsto en esta Ley y disposiciones de carácter general que emanen de ella.
+
+Décimo Cuarto.- Las casas de bolsa deberán prever en los contratos que celebren a partir de la entrada en vigor de esta Ley, así como en la demás documentación relativa, las restricciones señaladas en la fracción III del artículo 136 de la misma que, en su caso, resulten aplicables.
+
+Décimo Quinto.- Para efectos de lo previsto en la fracción IV del artículo 136 de esta Ley, las obligaciones subordinadas que las casas de bolsa hayan emitido con anterioridad a la entrada en vigor de la misma, se regirán por las disposiciones vigentes al momento de su emisión.
+
+Décimo Sexto.- Hasta en tanto la Secretaría de Hacienda y Crédito Público o la Comisión Nacional Bancaria y de Valores, según corresponda, publiquen el importe del capital social mínimo con que deberán contar las casas de bolsa, bolsas de valores, instituciones para el depósito de valores y contrapartes centrales de valores, dichas entidades financieras deberán cumplir con el capital social mínimo que, en su caso, resulte exigible conforme a lo establecido con anterioridad a la entrada en vigor de esta Ley.
+
+Décimo Séptimo.- El requisito a que hace referencia el artículo 184, último párrafo, de la presente Ley será exigible a los ciento ochenta días naturales siguientes a la entrada en vigor de la misma.
+
+Décimo Octavo.- Las casas de bolsa deberán dar cumplimiento a lo previsto en los artículos 190 y 191 de esta Ley, dentro de los ciento ochenta días naturales siguientes a su entrada en vigor.
+
+Las personas físicas que a la entrada en vigor de esta Ley gocen de la autorización para operar en bolsa o para celebrar operaciones con el público de asesoría, promoción, compra y venta de valores, se entenderán por autorizaciones para actuar en términos del artículo 193 de la misma, según corresponda, quedando sujetas a lo previsto en el presente ordenamiento legal y demás disposiciones que emanen de éste.
+
+Décimo Noveno.- Los contratos de caución bursátil celebrados conforme a lo establecido en el artículo 99 de la Ley del Mercado de Valores que se abroga por virtud de esta Ley, continuarán rigiéndose para su cumplimiento y ejecución por las disposiciones vigentes en la fecha de su celebración.
+
+Vigésimo.- Las asociaciones gremiales que hubieren sido reconocidas como organismos autorregulatorios al amparo de la Ley del Mercado de Valores que se abroga, podrán seguir operando con ese carácter sin necesidad de nuevo reconocimiento por parte de la Comisión, quedando en lo futuro sujetas a lo previsto en esta Ley y demás disposiciones de carácter general que emanen de ella.
+
+Vigésimo Primero.- Las bolsas de valores, instituciones para el depósito de valores y contrapartes centrales de valores que a la entrada en vigor de la presente Ley gocen de concesión para actuar con el referido carácter, podrán continuar operando sin necesidad de obtener nueva concesión, quedando en lo futuro sujetas a esta Ley y demás disposiciones de carácter general que emanen de ella, sin perjuicio de que los términos, condiciones y obligaciones contenidos en los títulos de concesión correspondientes que no se opongan a lo establecido en esta Ley sigan siendo aplicables.
+
+Vigésimo Segundo.- Las bolsas de valores, instituciones para el depósito de valores y contrapartes centrales de valores podrán seguir aplicando los aranceles autorizados por la Comisión previo a la entrada en vigor de esta Ley hasta que pretendan modificarlos, en cuyo caso deberán ajustarse a los dispuesto por la presente Ley.
+
+Vigésimo Tercero.- Las personas que gocen de autorización para operar mecanismos para facilitar operaciones con valores en términos de lo previsto por el artículo 41, fracción IX, de la Ley del Mercado de Valores que se abroga mediante esta Ley, se reputarán como autorizadas para continuar operando en los términos que establece el artículo 253 de esta Ley, quedando sujetas en lo futuro a lo previsto por ésta.
+
+Vigésimo Cuarto.- Los proveedores de precios y las instituciones calificadoras de valores que a la entrada en vigor de esta Ley gocen de autorización para actuar con el referido carácter, se tendrán por autorizadas para continuar operando en los términos que establecen los artículos 323 y 334 de la presente Ley, quedando sujetas en lo futuro a lo previsto por ésta.
+
+Vigésimo Quinto.- Los proveedores de precios y las instituciones calificadoras de valores que a la entrada en vigor de la presente Ley gocen de autorización para operar con tal carácter, contarán con un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de esta Ley, para contar con el código de conducta a que hacen referencia los artículos 326 y 336 de la misma, según corresponda.
