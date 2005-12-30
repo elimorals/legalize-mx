@@ -4,7 +4,7 @@ identifier: "HID-ley-estatal-de-estimulos-fiscales-para-el-ejercicio-fiscal-2976
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-30"
-last_updated: "2004-12-31"
+last_updated: "2005-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ESTATAL DE ESTIMULOS FISCALES, PARA EL EJERCICIO FISCAL 2003
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de diciembre de 2002.
 
@@ -49,19 +49,21 @@ QUE CONTIENE LA LEY ESTATAL DE ESTIMULOS FISCALES, PARA EL EJERCICIO FISCAL 2003
 
 Los impuestos establecidos en la Ley de Ingresos del Estado de Hidalgo, serán regulados por las disposiciones que establezca la presente Ley, únicamente por cuanto hace a Estímulos Fiscales en relación con los impuestos que se señalan en la misma.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 2.
 
-La aplicación de esta Ley, corresponde al Ejecutivo del Estado a través de la Secretaría de Finanzas y Administración, sin perjuicio de las atribuciones que por concepto de Estímulos Fiscales otorguen otros ordenamientos jurídicos a las Autoridades y Dependencias de la Administración Pública Federal, Estatal o Municipal.
+La aplicación de esta Ley, corresponde al Ejecutivo del Estado a través de la Secretaría de Finanzas, sin perjuicio de las atribuciones que por concepto de Estímulos Fiscales otorguen otros ordenamientos jurídicos a las Autoridades y Dependencias de la Administración Pública Federal, Estatal o Municipal.
 
 ###### ARTICULO 3.
 
 Se consideran Estímulos Fiscales, los beneficios que otorga Gobierno del Estado de Hidalgo a las personas físicas o morales inscritas en los diferentes Padrones de Contribuyentes, para propiciar su desarrollo e incrementar las fuentes de trabajo y proteger el medio ambiente.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 4.
 
-Los estímulos fiscales serán resueltos por la Secretaría de Finanzas y Administración por conducto de la Subsecretaría de Ingresos, previo el estudio de la documentación presentada por el solicitante, así como de su historia fiscal.
+Los estímulos fiscales serán resueltos por la Secretaría de Finanzas por conducto de la Subsecretaría de Ingresos, previo el estudio de la documentación presentada por el solicitante, así como de su historia fiscal.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -75,9 +77,11 @@ Los contribuyentes, tendrán la obligación de cumplir durante el período de vi
 
 En caso que los contribuyentes a cuyo favor se otorgue un Estímulo Fiscal, contravengan lo dispuesto por esta Ley, automáticamente quedará insubsistente el otorgamiento del Estímulo Fiscal otorgado.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 7.
 
-Los contribuyentes que se encuentren sujetos al pago de Impuesto Sobre Adquisición de Automóviles, Camiones y Motocicletas Usados que se realicen entre particulares, podrán solicitar a la Secretaría de Finanzas y Administración del Gobierno del Estado de Hidalgo, el Estímulo Fiscal correspondiente, siempre y cuando demuestren que el vehículo de que se trate, se encuentra por debajo de los límites permisibles de emisión de contaminantes conforme a las Normas Oficiales Mexicanas y en su caso, con las Normas Técnicas Ecológicas Estatales.
+Los contribuyentes que se encuentren sujetos al pago de Impuestos sobre Adquisición de Automóviles, Camiones y Motocicletas Usados que se realicen entre particulares, podrán solicitar a la Secretaría de Finanzas del Gobierno del Estado de Hidalgo, el Estímulo Fiscal correspondiente, siempre y cuando demuestren que el vehículo de que se trate, se encuentra por debajo de los límites permisibles de emisión de contaminantes conforme a las Normas Oficiales Mexicanas y en su caso, con las Normas Técnicas Ecológicas Estatales.
 
 ###### ARTICULO 8.
 
@@ -95,9 +99,11 @@ III.- Comprobante que acredite la propiedad del vehículo; y
 
 IV.- El último certificado de aprobación de verificación.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
 ###### ARTICULO 10.
 
-Los contribuyentes sujetos al pago del Impuesto Sobre Nóminas, podrán solicitar a la Secretaría de Finanzas y Administración del Gobierno del Estado de Hidalgo, el Estímulo Fiscal correspondiente, en términos de lo dispuesto por el capítulo IV de la Ley de Fomento Económico vigente en el Estado, sin perjuicio de lo establecido en la presente Ley.
+Los contribuyentes sujetos al pago del Impuesto Sobre Nóminas, podrán solicitar a la Secretaría de Finanzas del Gobierno del Estado de Hidalgo, el Estímulo Fiscal correspondiente, en términos de lo dispuesto por el Capítulo IV de la Ley de Fomento Económico vigente en el Estado, sin perjuicio de lo establecido en la presente ley.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -117,11 +123,23 @@ Los contribuyentes sujetos al pago del Impuesto sobre Nóminas que se encuentren
 
 I.- Constancia expedida por la Secretaría de Desarrollo Económico del Gobierno del Estado, en la que se haga constar que la empresa respectiva es de nueva creación, en su caso;
 
-II.- Constancia de su inscripción en el Padrón de Contribuyentes de la Secretaría de Finanzas y Administración;
+> <small>(REFORMADA P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+II.- Constancia de su inscripción en el Padrón de Contribuyentes de la Secretaría de Finanzas;
 
 III.- Copia certificada del acta de nacimiento o cualquier otro de carácter oficial en el que se demuestra que la edad de los trabajadores contratados es mayor de sesenta años, en su caso; y
 
 IV.- Certificado medico que compruebe el grado de discapacidad de los trabajadores contratados, en su caso.
+
+(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005) (F. DE E., P.O. 8 DE MAYO DE 2006)
+
+###### ARTICULO 14.
+
+Los contribuyentes con capacidades diferentes sujetos al pago de Derechos por los conceptos establecidos en el presente Artículo, pagarán de la siguiente manera:
+
+Por alta y canje de placas 4 salarios mínimos.
+
+Por canje de placas 4 salarios mínimos.
 
 ## TRANSITORIO
 
@@ -162,5 +180,11 @@ TERCERO.- Se abroga la Ley de Hacienda para el Estado de Hidalgo publicada en el
 P.O. 31 DE DICIEMBRE DE 2004.
 
 PRIMERO.- El presente Decreto, entrará en vigor el día 1º de Enero del año 2005, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1º. de enero de 2006, previa su Publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
