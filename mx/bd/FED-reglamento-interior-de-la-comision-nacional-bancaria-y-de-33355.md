@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-comision-nacional-bancaria-y-de-33355
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-08-18"
-last_updated: "2005-12-21"
+last_updated: "2005-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33355&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-08-14"
 
 REGLAMENTO INTERIOR DE LA COMISION NACIONAL BANCARIA Y DE VALORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 2005.
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 18 de agosto de 2003.
 
@@ -1391,7 +1391,9 @@ Las facultades atribuidas por este Reglamento a los titulares de las Vicepreside
 
 Tratándose de disposiciones de carácter general; autorizaciones; inscripciones; consultas que impliquen la interpretación de leyes o disposiciones relacionadas con la operación y funcionamiento de las entidades o la infracción de éstas; opiniones que conforme a las leyes corresponda emitir a la Comisión; notificaciones; suspensión de operaciones; revocaciones; sanciones y la celebración de contratos o convenios que conforme a la ley sean competencia de la Comisión emitir o celebrar, los documentos relativos deberán ser firmados por un servidor público de la Vicepresidencia de Normatividad o de la Vicepresidencia Jurídica, según el ámbito de sus atribuciones, junto con un servidor público de la Vicepresidencia que se encuentre facultado para atender y resolver el asunto de que se trate, salvo en el caso de la materia contenciosa, opiniones de delito y la imposición de multas que conforme al presente Reglamento sean competencia de la citada Vicepresidencia Jurídica y Direcciones Generales que le estén adscritas, supuesto en el cual podrán ejercerlas individualmente. La expedición de disposiciones de carácter general en materia de contabilidad, auditoría externa, catálogos de cuentas, formulación y publicación de estados financieros; la autorización de criterios o registros contables especiales o para la apertura de cuentas y subcuentas; así como las resoluciones a consultas y opiniones que impliquen interpretación a las disposiciones de carácter general anteriormente descritas, que siendo relevantes, requieran un análisis de carácter técnico contable, los documentos correspondientes deberán ser firmados adicionalmente por un servidor público de la Dirección General de Desarrollo de Proyectos.
 
-Cuando se ejerzan facultades de suplencia por ausencia del Presidente de la Comisión Nacional Bancaria y de Valores, en materia de inscripción de valores en la Sección de Valores del Registro Nacional de Valores, los documentos en que consten dichos actos deberán ser firmados por el Vicepresidente de Supervisión Bursátil y el Vicepresidente de Normatividad, siempre que se trate de acciones representativas del capital social de sociedades emisoras o de títulos que se emitan con base en un acta.
+> <small>(REFORMADO POR EL ARTICULO NOVENO TRANSITORIO DE LA LEY DEL MERCADO DE VALORES, D.O.F. 30 DE DICIEMBRE DE 2005)</small>
+
+Cuando se ejerzan facultades de suplencia por ausencia del Presidente de la Comisión Nacional Bancaria y de Valores, en materia de inscripción de valores en el Registro Nacional de Valores, los documentos en que consten dichos actos deberán ser firmados por el Vicepresidente de Supervisión Bursátil y el Vicepresidente de Normatividad, siempre que se trate de acciones representativas del capital social de sociedades emisoras o de títulos que se emitan con base en un acta.
 
 Para la expedición de disposiciones de carácter general, autorizaciones, inscripciones, suspensión de operaciones, revocaciones y la imposición de sanciones, los funcionarios a que se refieren los párrafos anteriores, deberán ocupar puestos de Director General o superior, o bien, alguno de rango equivalente.
 
@@ -1424,3 +1426,23 @@ Asimismo, para que dicho servidor público sea considerado como servidor públic
 CUARTO.- La Comisión Nacional Bancaria y de Valores realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a las unidades o áreas que se modifican o desaparecen, sean transferidos a las unidades administrativas que correspondan, en los términos del presente ordenamiento y de conformidad con las normas aplicables y disponibilidad presupuestaria.
 
 QUINTO.- Las modificaciones que en virtud del presente Decreto se lleven a cabo a la estructura orgánica de la Comisión Nacional Bancaria y de Valores, se deberán realizar mediante movimientos compensados que no impliquen aumento en el presupuesto regularizable de servicios personales aprobado para el presente ejercicio fiscal, ni implique un incremento en los subsecuentes.
+
+D.O.F. 30 DE DICIEMBRE DE 2005.
+
+SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS QUE TIENEN RELACION CON LA LEY.
+
+Primero.- La presente Ley entrará en vigor a los ciento ochenta días naturales siguientes a su publicación en el Diario Oficial de la Federación, salvo por lo dispuesto en los artículos Décimo y Décimo Séptimo transitorios.
+
+Asimismo, a la fecha de entrada en vigor de esta Ley quedará abrogada la Ley del Mercado de Valores publicada en el citado Diario el 2 de enero de 1975, salvo por lo establecido en los artículos transitorios siguientes.
+
+.
+
+Noveno.- A partir de la entrada en vigor de esta Ley, se abrogan las "Reglas para la Organización del Registro Nacional de Valores e Intermediarios" publicadas en el Diario Oficial de la Federación de 13 de abril de 1993.
+
+Los asientos registrales de cualquier tipo que constan en el Registro Nacional de Valores a que se refiere el artículo 10 de la Ley del Mercado de Valores que se abroga mediante la presente Ley, se entenderán como hechos en el Registro a que se refiere el artículo 70 de esta Ley. Asimismo, los asientos registrales realizados con anterioridad al 1 de enero de 1996, se mantendrán en los legajos a que aludían las Reglas mencionadas en el párrafo anterior, mientras que los posteriores a dicha fecha se harán constar en los folios electrónicos que prevé esta Ley.
+
+Las referencias que otras leyes, reglamentos o disposiciones administrativas hagan a la sección valores del Registro Nacional de Valores, se entenderán hechas al Registro previsto en el artículo 70 de esta Ley.
+
+Los valores inscritos exclusivamente en la sección especial del Registro Nacional de Valores, podrán ser objeto de intermediación en el territorio nacional, siempre que se dé cumplimiento a lo establecido en el artículo 9 de esta Ley.
+
+.
