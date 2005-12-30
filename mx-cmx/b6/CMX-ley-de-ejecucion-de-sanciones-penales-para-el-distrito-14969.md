@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-ejecucion-de-sanciones-penales-para-el-distrito-14969"
 country: "mx"
 rank: "ley"
 publication_date: "1999-09-17"
-last_updated: "2004-09-15"
+last_updated: "2005-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14969&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-09-15"
 
 LEY DE EJECUCION DE SANCIONES PENALES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE DICIEMBRE DE 2005.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 17 de septiembre de 1999. Republicada en el Diario Oficial de la Federación el jueves 30 de septiembre de 1999.
 
@@ -340,6 +340,12 @@ El Tratamiento en Externación es un medio de ejecutar la sanción penal, de car
 
 (DEROGADO, G.O. 4 DE JUNIO DE 2004)
 
+> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2005)</small>
+
+###### Artículo 33 Ter.
+
+No se concederá el tratamiento en externación a los sentenciados por los delitos: de tráfico de menores en los supuestos de los párrafos tercero y cuarto del artículo 169; violación, previsto en los artículos 174, en relación a la fracción I del artículo 178 y 175; incesto previsto en el artículo 181; corrupción de menores e incapaces, previsto en los artículos 183, 184 y 185; explotación sexual comercial, a que se refiere el artículo 186; pornografía infantil a que se refieren los artículos 187 y 188; lenocinio, previsto en los artículos 189 y 190; extorsión, previsto en el artículo 236; robo agravado, previsto en el artículo 220, en relación a la fracción I del artículo 223, 224 y 225, respectivamente; tortura, a que se refieren los artículos 294 y 295; todos del Nuevo Código Penal para el Distrito Federal, tampoco se les concederá a quienes ya se les haya otorgado y se encuentre vigente o revocado.
+
 ###### Artículo 34.
 
 (DEROGADO, G.O. 4 DE JUNIO DE 2004)
@@ -350,11 +356,11 @@ El Tratamiento en Externación es un medio de ejecutar la sanción penal, de car
 
 El tratamiento a que se refiere el artículo 33 de esta Ley, se diseñará y aplicará por profesionales bajo la supervisión de la Dirección. El tratamiento tendrá como finalidad la readaptación social, con base al trabajo, la capacitación para el mismo, la educación y la responsabilidad social.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 36.
 
-El tratamiento en externación se otorgará a los sentenciados por delitos culposos, que hayan cumplido al menos una cuarta parte de la pena privativa de libertad impuesta y cuando se reúnan los siguientes requisitos:
+El tratamiento en externación se otorgará a los sentenciados que al menos hayan cumplido un año de la pena privativa de libertad impuesta y cuando reúnan los siguientes requisitos:
 
 > <small>(REFORMADA, G.O. 4 DE JUNIO DE 2004)</small>
 
@@ -372,9 +378,9 @@ V.- Cuente con una persona conocida, que se comprometa y garantice a la Autorida
 
 VI.- Compruebe fehacientemente contar en el exterior con un oficio, arte o profesión o exhiba las constancias que acrediten que continúa estudiando;
 
-> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2005)</small>
 
-VII.- Se cubra la reparación del daño;
+VII.- Cubra o garantice en su totalidad la reparación del daño o de manera proporcional, cuando haya sido condenado en forma solidaria y mancomunada y sea determinada dicha reparación;
 
 VIII.- (DEROGADA, G.O. 25 DE JULIO DE 2000)
 
@@ -428,13 +434,15 @@ II.- Libertad Preparatoria.
 
 III.- Remisión Parcial de la Pena.
 
-> <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 42.
 
-Los beneficios de libertad anticipada, no se concederán a los sentenciados por los delitos de: homicidio doloso, previsto en el artículo 128; inseminación artificial previsto en los artículos 150 y 151; desaparición forzada de personas previsto en el artículo 168; violación previsto en los artículos 174 y 175; secuestro contenido en los artículos 163, 163 bis, 164, 165, 166 y 166 bis, con excepción de lo previsto en el último párrafo del 164, pornografía infantil a que se refiere el artículo 187; por los delitos de asociación delictuosa y delincuencia organizada previsto en los artículos 253, 254 y 255; tortura a que se refieren los artículos 294 y 295; robo agravado en los términos del artículo 224 fracciones I, II, III hipótesis primera, VI, VII, VIII hipótesis primera y IX y 225; encubrimiento por receptación previsto en el artículo 243 segundo párrafo, todos del Nuevo Código Penal para el Distrito Federal; salvo en los casos de colaboración previstos por la Ley contra la Delincuencia Organizada para el Distrito Federal.
+Los beneficios de libertad anticipada, en sus modalidades de tratamiento preliberacional y libertad preparatoria, no se concederán a los sentenciados por los delitos de: homicidio calificado, previsto en el artículo 128; inseminación artificial, previsto en los artículos 150 y 151; desaparición forzada de personas, previsto en el artículo 168; violación, previsto en los artículos 174, 175 y 178; secuestro, contenido en los artículos 163, 163 bis, 164, 165, 166 y 166 bis, con excepción de lo previsto en el último párrafo del artículo 164, pornografía infantil, a que se refiere el artículo 187; robo agravado, previsto en el artículo 220 en relación a los artículos 224 fracciones I, y 225; asociación delictuosa y delincuencia organizada, previstos en los artículos 253, 254 y 255; tortura, a que se refieren los artículos 294 y 295; todos del Nuevo Código Penal para el Distrito Federal; salvo en los casos de colaboración previstos por la Ley contra la Delincuencia Organizada para el Distrito Federal.
 
 ### CAPITULO V. DE LA LIBERTAD PREPARATORIA
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 43.
 
@@ -456,13 +464,13 @@ III.- Que haya observado buena conducta;
 
 IV.- Que participe en actividades educativas, recreativas culturales o deportivas que se organicen en la institución;
 
-> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2005)</small>
 
-V.- Se cubra la reparación del daño;
+V.- Que cubra o garantice en su totalidad la reparación del daño o de manera proporcional, cuando haya sido condenado en forma solidaria y mancomunada y sea determinada dicha reparación;
 
-> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2005)</small>
 
-VI.- No estar sujeto a otro u otros procesos penales o no haber sido condenado por sentencia ejecutoriada, por delito doloso y de la misma inclinación delictiva;
+VI.- No estar sujeto a otro u otros procesos penales o que con anterioridad, no se le haya concedido el tratamiento en externación y/o algún beneficio de libertad anticipada y se encuentren vigentes o que alguno de éstos le hubieren (sic) sido revocado;
 
 > <small>(ADICIONADA, G.O. 25 DE JULIO DE 2000)</small>
 
@@ -492,7 +500,7 @@ b).- Reclusión los sábados y domingos para tratamiento técnico.
 
 ###### Artículo 46.
 
-La Libertad Preparatoria se otorgará al sentenciado que cumpla con las tres quintas partes de su condena tratándose de delitos dolosos o la mitad de la misma tratándose de delitos culposos, siempre y cuando cumpla con los siguientes requisitos:
+La libertad preparatoria se otorgará al sentenciado que cumpla las tres quintas partes de la pena privativa de libertad impuesta, siempre y cuando cumpla con los siguientes requisitos:
 
 > <small>(REFORMADA, G.O. 25 DE JULIO DE 2000)</small>
 
@@ -502,9 +510,9 @@ I.- Haber acreditado niveles de instrucción y actividades culturales durante el
 
 II.- Haber participado en el área laboral;
 
-> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2005)</small>
 
-III.- Se cubra la reparación del daño;
+III.- Cubra o garantice en su totalidad la reparación del daño o de manera proporcional, cuando haya sido condenado en forma solidaria y mancomunada y sea determinada dicha reparación;
 
 > <small>(ADICIONADA, G.O. 25 DE JULIO DE 2000)</small>
 
@@ -530,6 +538,10 @@ I.- Esté sujeto a otro u otros procesos penales o haya sido condenado por sente
 
 II.- Se encuentre en el caso señalado por el artículo 42 de ésta Ley.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 30 DE DICIEMBRE DE 2005)</small>
+
+No estar sujeto a otro u otros procesos penales o que con anterioridad, no se le haya concedido el tratamiento en externación y/o algún beneficio de libertad anticipada y se encuentren vigentes o que alguno de éstos le hubiere sido revocado.
+
 ###### Artículo 49.
 
 El sentenciado que haya obtenido el beneficio de libertad preparatoria, estará obligado a presentarse ante la Dirección, la que tomará en cuenta los horarios de trabajo o estudio, además de supervisar su comportamiento por conducto de las áreas técnicas correspondientes.
@@ -546,9 +558,7 @@ La remisión funcionará independientemente de la libertad preparatoria. Para es
 
 La autoridad al conceder la remisión parcial de la pena, establecerá las condiciones que deba cumplir el sentenciado para el efecto de lo previsto en las fracciones I, II, III y IV del artículo 90 del Nuevo Código Penal para el Distrito Federal y, en todo caso, el sentenciado deberá acreditar que se ha cubierto la reparación del daño.
 
-> <small>(REFORMADO, G.O. 7 DE NOVIEMBRE DE 2002)</small>
-
-La autoridad podrá revocar la remisión parcial de la pena, conforme a lo dispuesto por el artículo 65 de esta Ley.
+> <small>(DEROGADO CUARTO PARRAFO, G.O. 30 DE DICIEMBRE DE 2005)</small>
 
 ## TITULO CUARTO
 
@@ -775,3 +785,11 @@ DECRETO QUE REFORMA EL ART. 42 DE LA LEY DE EJECUCION DE SANCIONES PARA EL D.F.
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
 
 SEGUNDO.- El presente Decreto entrará en vigor a los noventa días siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 30 DE DICIEMBRE DE 2005.
+
+PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal para su respectiva promulgación y publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
