@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-de-ciencia-y-26739"
 country: "mx"
 rank: "estatuto"
 publication_date: "2002-12-09"
-last_updated: "2004-03-02"
+last_updated: "2005-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26739&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2002-09-12"
 
 ESTATUTO ORGANICO DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE MARZO DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEXTO DEL ESTATUTO ORGANICO DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGIA, PUBLICADO EN EL D.O.F. DE 30 DE DICIEMBRE DE 2005, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 9 de diciembre de 2002.
 
@@ -1936,3 +1938,19 @@ D.O.F. 2 DE MARZO DE 2004.
 Primero.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- En todos los demás artículos del Estatuto Orgánico del Consejo Nacional de Ciencia y Tecnología, así como en las demás disposiciones administrativas en las que se haga mención de la Dirección Adjunta de Planeación, se entenderán referidas a la Dirección Adjunta de Información, Sistemas y Normatividad.
+
+D.O.F. 30 DE DICIEMBRE DE 2005.
+
+PRIMERO.- El presente Estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El Director General deberá expedir en un plazo no mayor de tres meses, contados a partir de la fecha en que entre en vigor el presente Estatuto, el Manual de Organización del CONACYT.
+
+TERCERO.- Los asuntos pendientes de resolución a la entrada en vigor del presente Estatuto, se sustanciarán de conformidad con la regulación que les dio origen.
+
+CUARTO.- Las modificaciones al presente Estatuto sólo tendrán lugar a iniciativa del Director General o del Presidente de la Junta de Gobierno del CONACYT.
+
+QUINTO.- La Dirección de Divulgación y Difusión de Ciencia y Tecnología, expedirá dentro de los tres meses siguientes a la fecha de publicación en el Diario Oficial de la Federación del presente Estatuto, las Bases de Organización y Funcionamiento del Comité de Divulgación.
+
+SEXTO.- Se abroga el Estatuto Orgánico del Consejo Nacional de Ciencia y Tecnología, publicado en el Diario Oficial de la Federación el 9 de diciembre de 2002, así como todas las disposiciones administrativas que se opongan al presente Estatuto.
+
+SEPTIMO.- Las Unidades Administrativas del CONACYT, deberán adecuar la normatividad vigente, en todo aquello que guarde relación con el presente Estatuto.
