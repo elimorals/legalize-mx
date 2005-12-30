@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-administracion-financiera-para-el-estado-de-nuevo-7422"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-18"
-last_updated: "2004-11-15"
+last_updated: "2005-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7422&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ADMINISTRACION FINANCIERA PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 18 de noviembre de 1994.
 
@@ -589,7 +589,9 @@ I.- Donaciones que se efectúen en favor del Gobierno del Estado;
 
 II.- Donaciones que efectúe el Gobierno Estatal en favor de los gobiernos municipales;
 
-III.- Enajenaciones que realicen el Estado o sus organismos descentralizados y fideicomisos, tendientes a resolver necesidades de vivienda de interés social;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+III.- Enajenaciones que realicen el Estado, los municipios o los organismos descentralizados y fideicomisos, ya sea estatales o municipales;
 
 IV.- Adquisiciones y enajenaciones a título oneroso o gratuito que realice el Gobierno Estatal con sus entidades paraestatales; y
 
@@ -1492,3 +1494,7 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Toda referencia a fideicomisos en la Ley de Administración Financiera para el Estado de Nuevo León, se entenderá hecha a fideicomisos públicos, a menos que se especifique lo contrario.
 
 Artículo Tercero.- Las disposiciones del presente Decreto no le serán aplicables a los fideicomisos constituidos antes de la entrada en vigor del mismo.
+
+P.O. 30 DE DICIEMBRE DE 2005.
+
+Artículo Único.- El presente Decreto entrará en vigor el día 1º de enero del año 2006.
