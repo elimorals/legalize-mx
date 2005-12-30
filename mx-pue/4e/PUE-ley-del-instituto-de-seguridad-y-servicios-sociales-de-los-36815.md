@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-3681
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-19"
-last_updated: "2003-12-19"
+last_updated: "2005-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 19 de diciembre de 2003.
 
@@ -1219,11 +1219,17 @@ La Junta Directiva, conforme a los artículos 38 en su fracción III y 41 fracci
 
 Al importe de los créditos a corto y mediano plazo que se otorguen, se agregará un porcentaje que será determinado por la Junta Directiva, para constituir un fondo de garantía destinado a saldar los adeudos de los servidores públicos y pensionados que fallezcan o queden incapacitados en forma total y permanente dentro del periodo vigente del crédito.
 
-El fondo de garantía se creará con una aportación del .02% por una sola vez en cada caso, que se calculará en la siguiente forma:
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-El importe del préstamo solicitado, más los intereses, será multiplicado por el .02%, cuyo resultante se integrará al fondo de garantía.
+El fondo de garantía se integrará con las aportaciones que deberán hacer los acreditados por una sola vez en cada caso, las que se calcularán multiplicando el importe del préstamo solicitado más los intereses, por un factor igual a 0.02.
 
-A los trabajadores de confianza, funcionarios de elección popular, magistrados y jueces del Tribunal Superior de Justicia, se les aplicará la misma fórmula, con el .04%.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+A los trabajadores de confianza, funcionarios de elección popular, magistrados y jueces del Tribunal Superior de Justicia, se les aplicará la misma fórmula, pero con un factor igual a 0.04, y su resultante se integrará de idéntica manera al fondo de garantía.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+
+En ningún caso habrá lugar a la devolución de las aportaciones que los acreditados hagan pata constituir el fondo a que se refiere este precepto.
 
 ###### ARTÍCULO 129.
 
@@ -1500,3 +1506,15 @@ El fondo de vivienda, integrado por la aportación de las Instituciones Pública
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los once días del mes de diciembre de dos mil tres.- Diputado Presidente.- HUMBERTO VAZQUEZ ARROYO.- Rúbrica.- Diputada Vicepresidenta.- MARIA LEONOR A. POPOCATL GUTIERREZ.- Rúbrica.- ELISEO PEREZ SANCHEZ.- Rúbrica.- DANIEL ANTELIZ MAGAÑA.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los once días del mes de diciembre del año dos mil tres.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- MAESTRO EN DERECHO CARLOS ARREDONDO CONTRETAS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE DICIEMBRE DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
