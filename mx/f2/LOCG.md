@@ -4,7 +4,7 @@ identifier: "LOCG"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-09-03"
-last_updated: "2005-08-03"
+last_updated: "2005-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOCG"
 
 LEY ORGANICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 2005.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de septiembre de 1999.
 
@@ -1318,9 +1318,13 @@ XXVI. Relaciones Exteriores;
 
 XXVII. Salud y Seguridad Social;
 
-XXVIII. Trabajo y Previsión Social; y
+(REFORMADA (N. DE E. ADICIONADA), D.O.F. 30 DE DICIEMBRE DE 2005)
 
-XXIX. Turismo.
+XXVIII. Seguridad Pública;
+
+XXIX. Trabajo y Previsión Social, y
+
+XXX. Turismo.
 
 ###### ARTICULO 91.
 
@@ -1961,3 +1965,7 @@ Segundo.- El Centro de Estudios para el Adelanto de las Mujeres y la Equidad de 
 Tercero.- La Junta de Coordinación Política de la Cámara de Diputados presentará al Pleno de la misma para su aprobación, la integración del Comité del Centro de Estudios para el Adelanto de las Mujeres y la Equidad de Género y su reglamento, en el que se establecerán las reglas para la vigilancia de la operación y funcionamiento del Centro, así como del nombramiento de su personal directivo y operativo.
 
 Cuarto.- A efecto de lo anterior la Cámara de Diputados del H. Congreso de la Unión, deberá realizar las previsiones necesarias dentro del término señalado.
+
+D.O.F. 30 DE DICIEMBRE DE 2005.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
