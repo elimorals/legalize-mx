@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2005-09-06"
+last_updated: "2005-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2005.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -51,7 +51,7 @@ La Ley es igual para todos. La Constitución General de la República y esta Con
 
 Las facultades que la Constitución Política de los Estados Unidos Mexicanos no otorga expresamente a la federación, se entienden reservadas para el Estado.
 
-El Poder Público y sus Representantes sólo pueden hacer lo que la Ley les autoriza y deben hacer, lo que la Ley les ordena. Los particulares pueden hacer lo que la Ley no les prohibe y deben hacer, lo que la Ley les ordena.
+El Poder Público y sus Representantes sólo pueden hacer lo que la Ley les autoriza y deban hacer, lo que la Ley les ordena. Los particulares pueden hacer lo que la Ley no les prohibe y deben hacer, lo que la Ley les ordena.
 
 > <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1978)</small>
 
@@ -2083,15 +2083,17 @@ Esta Comisión conocerá de quejas en contra de actos y omisiones de naturaleza 
 
 (REUBICADO [N. DE E. ANTES TITULO QUINTO], P.O. 8 DE DICIEMBRE DE 2000)
 
-### CAPITULO VI. De la Jurisdicción Indígena
+### CAPITULO PRIMERO.. De la Justicia Administrativa
 
-> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
-ARTICULO 138 BIS A. La jurisdicción indígena se ejercerá por las autoridades comunitarias de acuerdo con los usos y costumbres de los pueblos y comunidades indígenas, dentro del marco del orden jurídico vigente y en los términos que determine la ley reglamentaria del artículo 16 de esta Constitución.
+### CAPITULO SEGUNDO. Principios Generales de la Administración del Estado
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE AGOSTO DE 1998)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
-### Capítulo V. De las Sesiones del Pleno del Instituto, de sus Resoluciones, de la Transparencia y de la Confidencialidad de las Votaciones
+ARTICULO 125 BIS.- El matrimonio es un contrato civil. El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro. El matrimonio y los demás actos del estado civil de las personas, son de la exclusiva competencia de los servidores públicos y autoridades del orden civil, en los términos prevenidos por las leyes y tendrán la fuerza y validez que las mismas les atribuyan.
+
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2004)</small>
 
 ### Capítulo VI. De la Colaboración con el Instituto
 
@@ -2127,39 +2129,63 @@ Las leyes determinarán los casos y las circunstancias en los que se deban sanci
 
 Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Legislativo del Estado, respecto a las conductas a las que se refiere el presente Artículo.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 141], P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 117.
 
-Podrán ser sujetos de juicio político los Diputados de la Legislatura Local, los Magistrados del Tribunal Superior de Justicia; los titulares de las Secretarías; el Procurador General de Justicia; los Magistrados del Tribunal Estatal Electoral; el Consejero Presidente, el Director y el Secretario General y los Consejeros Electorales del Instituto Estatal Electoral.
+Podrán ser sujetos de juicio político los Diputados de la Legislatura Local, los Magistrados del Tribunal Superior de Justicia; los titulares de las Secretarías; el Procurador General de Justicia; los Magistrados del Tribunal Estatal Electoral; el Consejero Presidente, el Director, el Secretario General y los Consejeros Electorales del Instituto Estatal Electoral; y los Magistrados del Tribunal de lo Contencioso Administrativo.
+
+(REFORMADO, P.O. 8 DE DICIEMBRE DE 2000) (F. DE E., P.O. 21 DE ENERO DE 2006)
 
 Las sanciones consistirán en la destitución del servidor público y en su caso inhabilitación para desempeñar sus funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
+(REFORMADO, P.O. 8 DE DICIEMBRE DE 2000) (F. DE E., P.O. 21 DE ENERO DE 2006)
+
 Para la aplicación de las sanciones a que se refiere este precepto, el Congreso del Estado integrará una comisión de Diputados, de acuerdo a las normas que rigen su funcionamiento, la que se encargará de analizar la acusación y que a su vez substanciará el procedimiento respectivo con audiencia del inculpado; para que posteriormente proceda a emitir su dictamen.
+
+(REFORMADO, P.O. 8 DE DICIEMBRE DE 2000) (F. DE E., P.O. 21 DE ENERO DE 2006)
 
 Conociendo el dictamen el Congreso del Estado erigido en Jurado de Sentencia, aplicará la sanción respectiva mediante resolución de las dos terceras partes de los integrantes de la Legislatura, una vez practicadas las diligencias correspondientes y con audiencia del acusado.
 
+(REFORMADO, P.O. 8 DE DICIEMBRE DE 2000) (F. DE E., P.O. 21 DE ENERO DE 2006)
+
 Las declaraciones y resoluciones del Congreso del Estado son inatacables.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 142], P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 118.
 
-Para proceder penalmente contra los Diputados al Congreso del Estado; los Magistrados del Tribunal Superior de Justicia; los titulares de las Secretarías; el Procurador General de Justicia; los Magistrados del Tribunal Estatal Electoral; el Consejero Presidente, el Director General, el Secretario General y los Consejeros Electorales del Consejo General del Instituto Estatal Electoral, por la comisión de delitos durante el tiempo de su encargo, la Legislatura declarará, por mayoría absoluta de sus miembros presentes en sesión, si ha o no lugar a proceder contra el inculpado.
+Para proceder penalmente contra los Diputados al Congreso del Estado; los Magistrados del Tribunal Superior de Justicia; los titulares de las Secretarías; el Procurador General de Justicia; los Magistrados del Tribunal Estatal Electoral; el Consejero Presidente, el Director General, el Secretario General, los Consejeros Electorales del Consejo General del Instituto Estatal Electoral; y los Magistrados del Tribunal de lo Contencioso Administrativo, por la comisión de delitos durante el tiempo de su encargo, la Legislatura declarará, por mayoría absoluta de sus miembros presentes en sesión, si ha o no lugar a proceder contra el inculpado.
+
+(REFORMADO, P.O. 8 DE DICIEMBRE DE 2000) (F. DE E., P.O. 21 DE ENERO DE 2006)
 
 Si la resolución de la Legislatura fuese negativa, se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso, cuando el inculpado haya concluido el ejercicio de su encargo, pues la resolución no prejuzga los fundamentos de la imputación.
 
+(REFORMADO, P.O. 8 DE DICIEMBRE DE 2000) (F. DE E., P.O. 21 DE ENERO DE 2006)
+
 Si la Legislatura declara que ha lugar a proceder, el sujeto quedará a disposición de las autoridades competentes para que actúen conforme a la ley.
+
+(REFORMADO, P.O. 8 DE DICIEMBRE DE 2000) (F. DE E., P.O. 21 DE ENERO DE 2006)
 
 Por lo que se refiere al Gobernador del Estado, sólo habrá lugar a acusarlo ante el Congreso del Estado en los términos de los artículos 110 de la Constitución Federal y 81 de esta Constitución. En este supuesto la Legislatura resolverá con base en la Legislación penal aplicable.
 
+(REFORMADO, P.O. 8 DE DICIEMBRE DE 2000) (F. DE E., P.O. 21 DE ENERO DE 2006)
+
 Las declaraciones y resoluciones del Congreso del Estado son inatacables.
+
+(REFORMADO, P.O. 8 DE DICIEMBRE DE 2000) (F. DE E., P.O. 21 DE ENERO DE 2006)
 
 El efecto de la declaración de que ha lugar a proceder contra el inculpado será separarlo de su encargo en tanto esté sujeto a proceso penal. Si éste culmina en sentencia absolutoria, el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto.
 
+(REFORMADO, P.O. 8 DE DICIEMBRE DE 2000) (F. DE E., P.O. 21 DE ENERO DE 2006)
+
 En demandas del orden civil que se establecen contra cualquier servidor público no se requerirá declaración de procedencia.
 
+(REFORMADO, P.O. 8 DE DICIEMBRE DE 2000) (F. DE E., P.O. 21 DE ENERO DE 2006)
+
 Las sanciones penales se aplicarán de acuerdo a lo dispuesto en la legislación penal y tratándose de delitos por cuya comisión el autor obtenga un beneficio económico o cause daños o perjuicios patrimoniales, deberán graduarse de acuerdo con el lucro obtenido y con la necesidad de satisfacer los daños y perjuicios causados por su conducta ilícita.
+
+(REFORMADO, P.O. 8 DE DICIEMBRE DE 2000) (F. DE E., P.O. 21 DE ENERO DE 2006)
 
 Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños o perjuicios causados.
 
@@ -2173,9 +2199,11 @@ Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido 
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 144], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-## TITULO OCTAVO. Principios Generales de Administración Pública
+## TITULO OCTAVO
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 149], P.O. 8 DE DICIEMBRE DE 2000)</small>
+Principios Generales de la Administración Pública.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 120.
 
@@ -2219,7 +2247,9 @@ Si el Ayuntamiento declara que ha lugar a proceder, el sujeto quedará a disposi
 
 Las declaraciones y resoluciones del Ayuntamiento son inatacables.
 
-(REUBICADO [N. DE E. ANTES TITULO SEXTO], P.O. 8 DE DICIEMBRE DE 2000)
+> <small>N. DE E. LA ESTRUCTURA DEL PRESENTE TITULO HA SIDO MODIFICADA CON LA INCLUSION DE DOS CAPITULOS; QUEDANDO INTEGRADOS, EL PRIMERO CON EL ARTICULO 125 Y EL SEGUNDO DEL ARTICULO 125 BIS AL 140, P.O. 31 DE DICIEMBRE DE 2005.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
 ## TITULO NOVENO. De las Adiciones y Reformas a la Constitución
 
@@ -2229,9 +2259,13 @@ Las declaraciones y resoluciones del Ayuntamiento son inatacables.
 
 ###### ARTICULO 125.
 
-El matrimonio es un contrato civil. El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro. El matrimonio y los demás actos del estado civil de las personas, son de la exclusiva competencia de los servidores públicos y autoridades del orden civil, en los términos prevenidos por las leyes y tendrán la fuerza y validez que las mismas les atribuyan.
+La Justicia Administrativa en el Estado, se impartirá por el Tribunal de lo Contencioso Administrativo, que tendrá a su cargo resolver las controversias que se susciten entre la Administración Pública Estatal y los particulares. Así como las que se susciten entre los Municipios entre sí o entre éstos y el Gobierno del Estado, como consecuencia de los convenios que celebren para el ejercicio de funciones, de ejecución de obras o prestación de servicios públicos municipales; la Ley de Justicia Administrativa establecerá las normas para su organización y funcionamiento, el procedimiento y los recursos contra sus resoluciones; con sujeción a los principios de igualdad, publicidad, audiencia y legalidad.
 
-> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2004)</small>
+Será competente para conocer de las controversias que se susciten entre los particulares y la Administración Pública Municipal, cuando no haya organismos o disposiciones de carácter municipal que diriman dichas controversias. Estas disposiciones deberán ser aprobadas por el Congreso del Estado. El Tribunal Contencioso Administrativo, será revisor en segunda instancia de las determinaciones que dicten los Juzgados de primera instancia que se formen con arreglo a esas leyes.
+
+El Tribunal de lo Contencioso Administrativo, es un órgano del Estado, de control de legalidad, con plena jurisdicción y competencia, formalmente administrativo y materialmente jurisdiccional, dotado de autonomía plena para dictar sus fallos y hacerlos cumplir, interpretar la ley administrativa y determinar la legalidad a través de sus resoluciones, tendrá personalidad jurídica y patrimonio propio, se compondrá del número de Magistrados que determine la Ley, los que tendrán los mismos derechos y prerrogativas que los Magistrados del Tribunal Superior de Justicia del Estado, con las obligaciones y restricciones que la misma Ley les señale. Los Jueces Instructores de lo Contencioso Administrativo tendrán los mismos derechos que los del Tribunal Superior de Justicia.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
 ### Capítulo I. De la Concesión Única
 
@@ -2948,6 +2982,10 @@ P.O. 6 DE SEPTIEMBRE DE 2005.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Comuníquese al Gobernador del Estado, al Presidente de la República, al Honorable Congreso de la Unión, al Poder Judicial de la Federación, a los Congresos Estatales de las demás Entidades Federativas y a la Asamblea Legislativa del Distrito Federal, para los efectos conducentes.
+
+P.O. 31 DE DICIEMBRE DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN".]
 
