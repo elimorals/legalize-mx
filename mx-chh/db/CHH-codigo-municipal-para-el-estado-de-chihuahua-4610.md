@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2005-11-30"
+last_updated: "2005-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2005.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -2433,7 +2433,9 @@ El salario mínimo que servirá de base para este cálculo, será el vigente par
 
 II.- Para los predios rústicos la tasa de 2 al millar.
 
-III.- Para los fundos mineros la tasa de 2.5 al millar.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
+
+III.- Para fundos mineros la tasa de 5 al millar.
 
 El impuesto neto a pagar nunca será inferior al equivalente a dos salarios mínimos de la zona económica que corresponda.
 
@@ -2458,6 +2460,8 @@ Para los efectos de este Artículo, el año se entiende dividido en seis bimestr
 > <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2002)</small>
 
 Corresponde a la Tesorería Municipal realizar el cobro del Impuesto Predial, de conformidad con lo establecido en el presente ordenamiento y su incumplimiento será causa de responsabilidad administrativa.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO DEL DECRETO No. 515/05, PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2005, DURANTE EL EJERCICIO FISCAL DE 2006, NO SERA APLICABLE LO DISPUESTO POR EL PRESENTE ARTICULO.</small>
 
 ###### ARTICULO 152.
 
@@ -2522,6 +2526,8 @@ Será base gravable del impuesto, lo que resulte mayor de:
 > <small>(REFORMADA, P.O. 8 DE MARZO DE 2003)</small>
 
 I.- El valor del inmueble cuyo dominio se adquiera y se determine por medio del avalúo que practique la Tesorería Municipal, una institución de crédito o un especialista en valuación debidamente acreditado ante el Departamento Estatal de Profesiones, en base al valor físico del inmueble. El avalúo que se considerará para determinar la base del impuesto, no deberá tener en ningún caso, una antigüedad de un año entre la fecha en que se practique y la fecha en que se realice el entero del impuesto;
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO DEL DECRETO No. . 515/05, PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2005, PARA DETERMINAR LA BASE DEL IMPUESTO SOBRE TRASLACION DE DOMINIO DE BIENES INMUEBLES DURANTE EL EJERCICIO FISCAL DE 2006, NO SE TOMARA EN CUENTA EL CONTENIDO DE LA PRESENTE FRACCION.</small>
 
 II.- El valor catastral; y
 
@@ -3704,3 +3710,13 @@ SEGUNDO.- Los Ayuntamientos del Estado, con base a esta nueva adición, expedir�
 P.O. 30 DE NOVIEMBRE DE 2005.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1º de enero de 2006.
+
+###### ARTÍCULO SEGUNDO.
+
+Independientemente del impuesto que resulte de aplicar la tasa del artículo 149, fracción III del Código Municipal, en ningún caso el impuesto a pagar, durante el ejercicio fiscal de 2006, excederá al causado por el mismo bien durante el ejercicio 2005.
