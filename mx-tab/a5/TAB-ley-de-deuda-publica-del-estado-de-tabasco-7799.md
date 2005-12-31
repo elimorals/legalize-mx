@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-deuda-publica-del-estado-de-tabasco-7799"
 country: "mx"
 rank: "ley"
 publication_date: "1994-04-27"
-last_updated: "1998-08-08"
+last_updated: "2005-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7799&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 1998.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DEUDA PUBLICA DEL ESTADO DE TABASCO Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 31 DE DICIEMBRE DE 2005., EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 27 de abril de 1994.
 
@@ -320,3 +322,9 @@ P.O. 8 DE AGOSTO DE 1998.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
 
 Artículo Segundo.- Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2005.
+
+Artículo Primero. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+Artículo Segundo. Se abroga La Ley de Deuda Pública del Estado de Tabasco, publicada en el Periódico Oficial del Estado número 5388, de fecha 27 de abril de 1994 y sus subsecuentes reformas; quedando derogadas las disposiciones de otras leyes u ordenamientos que se opongan al presente Decreto.
