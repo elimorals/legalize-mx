@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-estado-de-aguascalientes-10055"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-01"
-last_updated: "2005-08-08"
+last_updated: "2005-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10055&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2005.
 
 Ley publicada en el Suplemento al Número 1, Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 1 de enero de 1984.
 
@@ -61,15 +61,13 @@ Para cubrir el gasto público y las demás obligaciones a su cargo, el Estado pe
 
 Las personas físicas y morales están obligadas al pago de los impuestos, derechos, contribuciones de mejoras, productos y aprovechamientos, conforme a las disposiciones de esta Ley y de la Ley de Ingresos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 4°.
 
-Las cantidades en moneda nacional correspondientes a cuotas, tarifas y sanciones que se establezcan en las leyes fiscales, se actualizarán en los meses de enero y julio de cada año, con el factor de actualización correspondiente al período comprendido desde el séptimo mes inmediato anterior hasta el último mes inmediato anterior a aquél por el cual se efectúa la actualización. Dicho factor será el que para tal efecto publique la Secretaría de Hacienda y Crédito Público en el Diario Oficial de la Federación.
+Las cantidades en moneda nacional correspondientes a las cuotas, contribuciones, sanciones, aprovechamientos y devoluciones a cargo de la Secretaría de Finanzas, que se establezcan en las leyes fiscales, se actualizarán por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades que se deban de actualizar. Dicho factor se obtendrá dividiendo el Indice Nacional de Precios al Consumidor del mes anterior al más reciente del periodo entre el citado índice correspondiente al mes anterior al más antiguo de dicho periodo. Las contribuciones, cuotas, sanciones y aprovechamientos, así como las devoluciones a cargo de la Secretaría de Finanzas, no se actualizarán por fracciones de mes.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
-
-Las cantidades actualizadas deberán publicarse semestralmente por la Secretaría de Finanzas en el Periódico Oficial del Gobierno del Estado.
+En los casos en que el Indice Nacional de Precios al Consumidor del mes anterior al más reciente del periodo de que se trate, no haya sido publicado por el Banco de México, la actualización de que se trate se realizará aplicando el último índice mensual publicado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -573,9 +571,9 @@ Están obligadas al pago de este impuesto las personas físicas y morales que se
 
 Este impuesto se causará por ejercicios fiscales, los cuales se fijarán por año calendario. El pago del impuesto se efectuará durante los tres primeros meses del ejercicio ante las oficinas autorizadas por la Secretaría de Finanzas del Estado, y en las formas por ella aprobadas.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
-No estarán obligados al pago de este impuesto los tenedores o usuarios de vehículos automotores que circulen con placas definitivas asignadas por otras Entidades Federativas, que acrediten ante la Secretaría de Finanzas del Estado que se pagó un gravamen similar por el mismo ejercicio fiscal.
+No estarán obligados al pago de este impuesto los tenedores o usuarios de vehículos automotores que circulen con placas definitivas asignadas por otras entidades federativas, que acrediten ante la Secretaría de Finanzas que se pagó un gravamen similar por el mismo ejercicio fiscal. Para aquellos vehículos que circulen con placas de circulación de transporte público federal, el impuesto se pagará en las oficinas correspondientes al domicilio fiscal que el contribuyente tenga registrado ante la Secretaría de Hacienda y Crédito Público.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -683,19 +681,23 @@ Los propietarios de los vehículos registrados, además de las obligaciones señ
 
 I.- Si el vehículo es de procedencia extranjera, deberá acreditar la legal estancia en el país en los términos de la Ley Aduanera.
 
-II. Presentar los avisos de baja o modificaciones siguientes:
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
-a).- Por cambio de propietario; si se causa el Impuesto Sobre Adquisición de Vehículos Usados de Motor su pago suplirá este aviso. Si no se causa este impuesto se presentará el aviso y se pagarán los derechos de control vehicular.
+II.- Presentar los avisos de baja o modificaciones siguientes:
 
-b).- Por cambio de domicilio.
+a).- Alta por inscripción;
 
-c).- Por cambio en el servicio a que se encuentre destinado.
+b).- Por cambio de propietario;
 
-d).- Baja por venta.
+c).- Por cambio de domicilio;
 
-e).- Baja por robo o destrucción.
+d).- Por cambio en el servicio a que se encuentra destinado;
 
-f).- Alta por recuperación de vehículo robado o destruido.
+e).- Baja por venta;
+
+f).- Baja por robo o destrucción;
+
+g).- Alta por recuperación del vehículo robado o destruido.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
 
@@ -981,23 +983,43 @@ Se exceptúan del pago de este impuesto, los premios derivados de loterías, rif
 
 #### SECCION PRIMERA. Del Objeto
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+
+#### SECCION SEGUNDA. Del sujeto
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+
+#### SECCION TERCERA. De la Responsabilidad Solidaria
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+
+#### SECCION CUARTA. De la Base
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+
+#### SECCION QUINTA. Del pago
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+
+#### SECCION PRIMERA. Del Objeto
+
+(REUBICADO [N. DE E. ANTES ARTICULO 63], P.O. 31 DE DICIEMBRE DE 2005)
 
 #### SECCION SEGUNDA. Del Sujeto
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+(REUBICADO [N. DE E. ANTES ARTICULO 64], P.O. 31 DE DICIEMBRE DE 2005)
 
 #### SECCION TERCERA. Del Pago
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+(REUBICADO [N. DE E. ANTES ARTICULO 65], P.O. 31 DE DICIEMBRE DE 2005)
 
 #### SECCION CUARTA. De la Responsabilidad Solidaria
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+(REUBICADO [N. DE E. ANTES ARTICULO 70], P.O. 31 DE DICIEMBRE DE 2005)
 
 #### SECCION QUINTA. De las Excepciones
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+(REUBICADO [N. DE E. ANTES ARTICULO 72], P.O. 31 DE DICIEMBRE DE 2005)
 
 ### CAPITULO VI. Del Impuesto Sobre Adquisición de Vehículos Usados de Motor
 
@@ -1067,203 +1089,219 @@ El pago de este impuesto se hará en un términos de 15 días naturales siguient
 
 Están exceptuadas del pago de este impuesto:
 
-I.- Las adquisiciones efectuadas por las personas morales o físicas con actividad empresarial que causen el Impuesto al Valor Agregado.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
+
+I.- Las adquisiciones efectuadas por las personas morales o físicas con actividad empresarial.
 
 II.- Las adquisiciones que por causa de muerte del titular del vehículo usado, se realicen a favor de los parientes en línea recta o al cónyuge en términos de las disposiciones legales aplicables.
 
 III.- Las adquisiciones que realicen la Federación, el Estado y los Municipios que sean utilizados para la prestación de servicios públicos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
-### CAPITULO UNICO
+### CAPITULO VII. Del Impuesto Sobre Nóminas
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADA CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 63.
 
-Derechos son las contribuciones establecidas en Ley por el uso o aprovechamiento de los bienes del dominio público del Estado, así como por recibir servicios que presta el Estado en sus funciones de derecho público.
+Son objeto de este impuesto los pagos efectuados en dinero o en especie, por concepto de remuneraciones al trabajo personal subordinado, independientemente de la designación que se les dé dentro del territorio del Estado.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
+No se causará este impuesto por las erogaciones que se realicen por concepto de:
+
+I.- Participaciones de los trabajadores en las utilidades de las empresas;
+
+II.- Indemnizaciones por riesgos o enfermedades profesionales;
+
+III.- Pensiones y jubilaciones en casos de invalidez, vejez, cesantía y muerte;
+
+IV.- Indemnizaciones y primas de retiro por rescisión o terminación de la relación laboral;
+
+V.- Pagos por gastos funerarios;
+
+VI.- Gastos de representación y viáticos erogados por cuenta del patrón, comprobados en los mismos términos que para su deducibilidad exija la Ley del Impuesto sobre la Renta;
+
+VII.- aportaciones al Sistema de Ahorro para el Retiro, al Instituto del Fondo Nacional para la Vivienda de los Trabajadores del Estado, al Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes, al Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas y las Cuotas al Instituto Mexicano del Seguro Social para las Fuerzas Armadas Mexicanas y las Cuotas al Instituto Mexicano del Seguro Social a cargo del patrón;
+
+VIII.- El ahorro, siempre que se integre por un depósito por cantidad igual del trabajador y de la empresa, así como las cantidades otorgadas por el patrón para fines sociales o sindicales;
+
+IX.- Los premios por asistencia y puntualidad, siempre que el importe de cada uno no rebase el 10% del salario base;
+
+X. Los pagos por tiempo extraordinario, cuando éste no rebase tres horas diarias ni tres veces por semana de trabajo, y tampoco cuando estos servicios se pacten en forma de tiempo fijo;
+
+XI.- La alimentación y habitación, cuando se otorguen con cargo al salario del trabajador;
+
+XII.- Las prestaciones de servicio de comedor, bono de transporte, uniformes de trabajo o deportivos, festejos de convivios, becas para los trabajadores o sus familiares;
+
+XIII.- Primas de seguros por gastos médicos o de vida; y (sic)
+
+XIV.- Las despensas en dinero o en especie, cuando representen más del 40% del salario mínimo general vigente en el Estado;
+
+XV.- Instrumentos y materiales necesarios para la ejecución de trabajo.
+
+Para que los conceptos mencionados en este precepto, se excluyan como integrantes de la base del Impuesto sobre Nóminas, deberán estar registrados en la contabilidad del contribuyente, si fuera el caso.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 64.
 
-Son sujetos del pago de derechos, las personas físicas y morales tanto de derecho privado como público, que reciban servicios que presta el Estado en sus funciones de derecho público, o por el uso o aprovechamiento de los bienes del dominio público del Estado.
+Son sujetos de este impuesto las personas físicas y morales que realicen los pagos a que se refiere el artículo anterior en lo conducente al objeto del impuesto, aun cuando no tuvieren domicilio en el Estado.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
+La Federación, el Estado, los Municipios, sus entidades paraestatales y los organismos autónomos, están obligadas al pago de este impuesto.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 65.
 
-Los derechos se causarán y pagarán en el momento de solicitar o recibir el servicio público, así como de ejercer el uso o aprovechamiento de los bienes de dominio público del Estado, de conformidad con las tarifas que al efecto señale la Ley de Ingresos del Estado.
+Son responsables solidarios del pago de este impuesto, las personas físicas o morales que contraten o reciban la prestación del trabajo personal subordinado, no obstante que el pago se realice por conducto de terceros.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(ADICIONADA CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 66.
 
-El importe de las tasas o cuotas que para cada derecho señale la Ley de Ingresos del Estado, deberá ser cubierto en las cajas recaudadoras de la Secretearía de Finanzas o en las instituciones bancarias autorizadas para ello.
+La base de este impuesto es el monto de las erogaciones realizadas por concepto de pago al trabajo personal subordinado, en términos del Artículo 63, de esta ley.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 67.
 
-La dependencia, funcionario o empleado que preste el servicio por el cual se paguen los derechos, procederá a la realización del mismo, al presentarle el interesado el recibido que acredite su pago ante la Secretaría de Finanzas o ante las instituciones bancarias autorizadas para ello.
+Este impuesto se causará y pagará aplicando a la bases, la tasa del 1.5% sobre los pagos efectuados en dinero o en especie, por concepto de remuneraciones al trabajo personal subordinado por cada uno de los meses del año calendario.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 68.
 
-Cuando las leyes fijen plazos o períodos de pago distintos al establecido en el artículo que antecede, se observarán las siguientes reglas:
+Este impuesto se causará en el momento que se realicen las erogaciones que constituyen su objeto y su pago deberá realizarse en los lugares, medios y formas autorizadas por la Secretaría de Finanzas, mediante declaración mensual, a más tardar el día 17 del mes siguiente al que corresponda el impuesto declarado; pudiendo contar con días adicciones para ello, atendiendo al sexto digito numérico del R.F.C. del contribuyente, de conformidad con lo siguiente:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
+SEXTO DIGITO DIAS
 
-I.- Cuando los derechos deban pagarse por anualidades, mensualidades o periodos de meses menores al anual, dichos pagos deberán realizarse previamente a la prestación del servicio correspondiente, excepto en los casos en que por la naturaleza del servicio el pago no pueda determinarse con anterioridad a la prestación del mismo. En estos últimos casos el contribuyente efectuará el entero del derecho dentro de los cinco días siguientes a aquél en que se inicie la prestación del servicio y deberá presentar el comprobante de pago a la dependencia correspondiente dentro de los diez días siguientes a aquél en que se efectúe el pago.
+NUMERICO ADICIONALES
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
+1 Y 2 1 día hábil adicional
 
-II.- Cuando el servicio se preste después de iniciado el periodo de que se trate, el pago correspondiente a la fracción de dicho periodo, se efectuará en forma proporcional a los días en que se otorgue el servicio, en el plazo que resulte aplicable en términos de la fracción que antecede.
+3 Y 4 2 días hábiles adicionales
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
+5 Y 6 3 días hábiles adicionales
 
-III.- En los casos en los que derecho deba determinarse con base en la medición o duración del servicio, el importe que determine la autoridad prestadora del servicio deberá pagarse dentro de los cinco días siguientes a aquél en que sea notificado al contribuyente. En estos casos si el derecho se compone además con una cuota fija. Ésta se pagará previamente a la prestación del servicio. La dependencia prestadora del servicio deberá remitir a la Secretaría de Finanzas, las constancias respectivas a la determinación del derecho, en la misma fecha en que se notifique al contribuyente, para los efectos del cobro correspondiente.
+7 Y 8 4 días hábiles adicionales
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+9 Y 0 5 días hábiles adicionales
+
+El pago que realicen los contribuyentes de este impuesto se entenderá como definitivo.
+
+La obligación de presentar la declaración mensual subsistirá aun cuando no hubiese cantidad a cubrir.
+
+El contribuyente que tenga diversas sucursales en el territorio del Estado, podrá optar por realizar un solo pago concentrado por todas sus oficinas en una declaración, previa autorización de la Secretaría de Finanzas, debiendo anexar a cada pago concentrado una relación de todas las sucursales con que cuente, indicado para cada una, su domicilio, número de empleados e importe de salarios pagados en el periodo de la declaración y el monto del impuesto correspondiente.
+
+Los contribuyentes que realicen pagos concentrados deberán tener un solo registro por la matriz y sus sucursales.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 69.
 
-En aquellos casos en que por circunstancias especiales el Ejecutivo del Estado considere conveniente o adecuado que el pago del servicio deba hacerse ante la propia dependencia o funcionario que lo vaya a prestar o lo hubiere prestado, deberá mediar acuerdo que se publicará en el Periódico Oficial del Estado, previamente a la vigencia de la autorización respectiva.
+Los contribuyentes a que se refiere este Capítulo tendrán las obligaciones siguientes:
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
+I.- Solicitar su empadronamiento en el Registro de Contribuyentes del Estado;
+
+II.- Llevar la contabilidad de conformidad con el Código Fiscal de la Federación;
+
+III.- Presentar declaraciones; y
+
+IV.- Presentar ante las oficinas autorizadas dentro de los dos meses siguientes al término del ejercicio fiscal de que se trate, la información sobre las personas a las que les hayan efectuado pagos por concepto de remuneraciones, en la forma oficial que dé a conocer la Secretaría de Finanzas, mediante publicación en el Periódico Oficial del Estado.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 70.
 
-El funcionario o empleado público que preste algún servicio por el que se cause un derecho, en contravención a lo dispuesto en los artículos anteriores, será solidariamente responsable de su pago, sin perjuicio de las sanciones que procedan y destitución de su cargo sin responsabilidad para el Estado.
+La Secretaría de finanzas podrá estimar las erogaciones de los sujetos de este impuesto en los siguientes casos:
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+I.- Cuando no presenten sus declaraciones, no lleven los libros o registros a que legalmente están obligados;
+
+II.- Cuando por los informes que se obtengan se pongan de manifiesto que se han efectuado erogaciones gravadas que exceden del 3% de las declaradas por el causante.
+
+Para practicar las estimaciones a que se refiere este artículo, se tendrán en cuenta:
+
+a).- Las erogaciones realizadas, declaradas en los últimos doce meses;
+
+b).- Las manifestaciones presentadas por concepto de Impuesto sobre la Renta, sobre Productos del Trabajo en los últimos doce meses; y
+
+c).- Las actividades realizadas por el causante y otros datos que puedan utilizarse, obtenidos a través de las facultades de comprobación de la autoridad fiscal.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO UNICO
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ## TITULO TERCERO. DE LOS DERECHOS
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-### CAPITULO UNICO
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+### CAPITULO UNICO. (REUBICADO [N. DE E. ANTES ARTICULO 76], P.O. 31 DE DICIEMBRE DE 2005)
 
 ###### ARTICULO 71.
 
-En caso de discrepancia acerca de la procedencia o cuantía del derecho, cuando de su pago dependa la prestación del servicio o el desarrollo de una actividad, la consignación del importe fijado por el órgano recaudador en los términos establecidos por las leyes fiscales, dará lugar a la prestación de dicho servicio o al desarrollo de la actividad.
+Derechos son las contribuciones establecidas en Ley por el uso o aprovechamiento de los bienes del dominio público del Estado, así como por recibir servicios que presta el Estado en sus funciones de derecho público.
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 72.
 
-Por acuerdo del Titular del Poder Ejecutivo, o por disposición expresa de la Ley, podrá exceptuarse del pago de derechos en los casos en que la prestación de servicios o el uso o aprovechamiento de bienes de dominio público, corresponda a la implementación de campañas o programas sociales.
+Son sujetos del pago de derechos, las personas fiscales y morales tanto de derecho privado como público, que reciban servicios que presta el Estado en sus funciones de derecho público, o por el uso o aprovechamiento de los bienes del dominio público del Estado.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 73.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2003)
+Los derechos se causarán y pagarán en el momento de solicitar o recibir el servicio público, así como de ejercer el uso o aprovechamiento de los bienes de dominio público del Estado, de conformidad con las tarifas que al efecto señale la Ley de Ingresos del Estado.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 66], P.O. 31 DE DICIEMBRE DE 2005)
 
 ###### ARTICULO 74.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2003)
+El importe de las tasas o cuotas que para cada derecho señala la Ley de Ingresos del Estado, deberá ser cubierto en las cajas recaudadoras de la Secretaría de Fianzas y Administración o en las instituciones bancarias autorizadas para ello.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 67], P.O. 31 DE DICIEMBRE DE 2005)
 
 ###### ARTICULO 75.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2003)
+La dependencia, funcionario o empleado que preste el servicio por el cual se paguen los derechos, procederá a la realización del mismo, al presentarle el interesado el recibo que acredite su pago ante la Secretaría de Finanzas y Administración o ante las instituciones bancarias autorizadas para ello.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+(REUBICADO [N. DE E. ANTES ARTICULO 68], P.O. 31 DE DICIEMBRE DE 2005)
 
 ###### ARTICULO 76.
 
-Quedan comprendidos dentro de esta clasificación los ingresos que obtiene la Hacienda Pública del Estado por concepto de:
+Cuando las leyes fijen plazos o periodos de pago distintos al establecido en el artículo que antecede, se observarán las siguientes reglas:
 
-I.- La venta de bienes muebles e inmuebles propiedad del Estado.
+I.- Cuando los derechos deban pagarse por anualidades, mensualidades o periodos de meses menores al anual, dichos pagos deberán realizarse previamente a la prestación del servicio correspondiente, excepto en los casos en que por la naturaleza del servicio el pago no pueda determinarse con anterioridad a la prestación del mismo. En estos últimos casos el contribuyente efectuará el entero del decreto dentro de los cinco días siguientes a aquél que se inicie la prestación del servicio y deberá presentar el comprobante de pago a la dependencia correspondiente dentro de los diez días siguientes a aquél en que se efectúe el pago;
 
-II.- El Importe del arrendamiento de bienes muebles e inmuebles propiedad del Estado.
+II.- Cuando el servicio se preste después de iniciado el periodo de que se trate, el pago correspondiente a la fracción de dicho periodo, se efectuará en forma proporcional a los días en que se otorgue el servicio, en el plazo que resulte aplicable en términos de la fracción que antecede;
 
-III.- La explotación o enajenación de cualquier naturaleza de los bienes y recursos propiedad del Estado.
+III.- En los casos en los que el derecho deba determinarse con base en la medición o duración del servicio, el importe que determine la autoridad prestadora del servicio deberá pagarse dentro de los cinco días siguientes a aquél en que sea notificado al contribuyente. En estos casos si el derecho se compone además con una cuota fija, ésta se pagará previamente a la prestación del servicio. La dependencia prestadora del servicio deberá remitir a la Secretaría de Finanzas y Administración, las constancias respectivas a la determinación del derecho, en la misma fecha en que se notifique al contribuyente, para los efectos del cobro correspondiente.
 
-IV.- El rendimiento o intereses de capitales y valores del Estado.
-
-V.- Los bienes de beneficencia.
-
-VI.- Los resultados de establecimientos y empresas del Estado.
-
-VII.- La venta y publicaciones del Periódico Oficial del Estado.
-
-VIII.- Los productos provenientes de la venta de materiales impresos y papel especial.
-
-IX.- Los productos de archivo.
-
-X.- Productos diversos.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+(REUBICADO [N. DE E. ANTES ARTICULO 69], P.O. 31 DE DICIEMBRE DE 2005)
 
 ###### ARTICULO 77.
 
-Para la percepción de estos ingresos se estará a lo dispuesto, según el caso, en la Ley de Ingresos del Estado, en los contratos o concesiones respectivos, o en las escrituras constitutivas o decretos que den nacimiento a los establecimientos o empresas del Estado, y en defecto de ellos, en las disposiciones legales que les sean aplicables.
+En aquellos casos en que por circunstancias especiales el Ejecutivo del Estado considere conveniente o adecuado que el pago del servicio deba hacerse ante la propia dependencia o funcionario que lo vaya a prestar o lo hubiere prestado, deberá mediar acuerdo que se publicará en el Periódico Oficial del Estado, previamente a la vigencia de la autorización respectiva.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 78.
 
-Quedan comprendidos dentro de esta clasificación los ingresos que obtenga el Estado, por concepto de:
+El funcionario o empleado público que preste algún servicio por el que se cause un derecho, en contravención a lo dispuesto en los artículos anteriores, será solidariamente responsable de su pago, sin perjuicio de las sanciones que procedan y destitución de su cargo sin responsabilidad para el Estado.
 
-I.- Participaciones Federales al Estado.
-
-II. Participaciones Federales a Municipios.
-
-III.- Aportaciones del Gobierno Federal y de terceros, a Programas de Desarrollo.
-
-IV.- Subsidios.
-
-V.- Multas.
-
-VI.- Recargos.
-
-VII.- Gastos de Ejecución.
-
-VIII.- Donativos.
-
-IX.- Herencias y legados.
-
-X.- Bienes vacantes.
-
-XI.- Tesoros ocultos.
-
-XII.- Reintegros.
-
-XIII.- Fianzas carcelarias que se hagan efectivas.
-
-XIV.- Administración de Impuestos Municipales.
-
-XV.- Indemnizaciones.
-
-XVI.- Otros no especificados.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+(REUBICADO [N. DE E. ANTES ARTICULO 71], P.O. 31 DE DICIEMBRE DE 2005)
 
 ###### ARTICULO 79.
 
-Son ingresos extraordinarios aquellos que la Hacienda Pública del Estado perciba, cuando circunstancias especiales coloquen al propio Estado frente a necesidades imprevistas que lo obliguen a efectuar erogaciones no presupuestadas.
+En caso de discrepancia acerca de la procedencia o cuantía del derecho, cuando de su pago dependa la prestación del servicio o el desarrollo de una actividad, la consignación del importe fijado por el órgano recaudador en los términos establecidos por las leyes fiscales, dará lugar a la prestación de dicho servicio o al desarrollo de la actividad.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 80.
 
-Los ingresos a que se refiere el artículo anterior, serán los siguientes:
-
-I.- Empréstitos.
-
-II.- Impuestos extraordinarios.
-
-III.- Derechos extraordinarios.
-
-IV.- Expropiaciones.
-
-V.- Apoyos extraordinarios del Fondo Federal a zonas de desastre.
+Por acuerdo del Titular del Poder Ejecutivo, o por disposición expresa de la Ley, podrá exceptuarse del pago de derechos en los casos en que la prestación de servicios o el uso o aprovechamiento de bienes de dominio público, corresponda a la implementación de campañas o programas sociales.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -1271,23 +1309,81 @@ V.- Apoyos extraordinarios del Fondo Federal a zonas de desastre.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-### CAPITULO UNICO
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+### CAPITULO UNICO. (REUBICADO [N. DE E. ANTES ARTICULO 78], P.O. 31 DE DICIEMBRE DE 2005)
 
 ###### ARTICULO 81.
 
-Otros ingresos son aquellos provenientes de:
+Quedan comprendidos dentro de esta clasificación los ingresos que obtiene la Hacienda Pública del Estado por concepto de:
 
-I.- Impuestos, derechos y demás ingresos causados en ejercicios fiscales anteriores, pendientes de liquidación y/o pago.
+I.- La venta de bienes muebles e inmuebles propiedad del Estado;
 
-II.- Saldo del ejercicio fiscal anterior.
+II.- El Importe del arrendamiento de bienes muebles e inmuebles propiedad del Estado;
+
+III.- La Explotación o enajenación de cualquier naturaleza de los bienes y recursos propiedad del Estado;
+
+IV.- El rendimiento o intereses de capitales y valores del Estado;
+
+V.- Los bienes de beneficencia;
+
+VI.- Los resultados de establecimientos y empresas del Estado;
+
+VII.- La venta y publicaciones del Periódico Oficial del Estado;
+
+VIII.- Los productos provenientes de la venta de materiales impresos y papel especial;
+
+IX.- Los productos de archivo;
+
+X- Productos diversos.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 77], P.O. 31 DE DICIEMBRE DE 2005)
+
+###### ARTICULO 82.
+
+Para la percepción de estos ingresos se estará a lo dispuesto, según el caso, en la Ley de Ingresos del Estado, en los contratos o concesiones respectivos, o en las escrituras constitutivas o decretos que den nacimiento a los establecimientos o empresas del Estado, y en defecto de ellos, en las disposiciones legales que les sean aplicables.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ## TITULO QUINTO. DE LOS APROVECHAMIENTOS
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-### CAPITULO UNICO
+### CAPITULO UNICO. (REUBICADO [N. DE E. ANTES ARTICULO 79], P.O. 31 DE DICIEMBRE DE 2005)
+
+###### ARTICULO 83.
+
+Quedan comprendidos dentro de esta clasificación los ingresos que obtenga el Estado, por concepto de:
+
+I.- Participaciones Federales al Estado;
+
+II.- Participaciones Federales a Municipios;
+
+III.- Aportaciones del Gobierno Federal y de terceros a Programas de Desarrollo;
+
+IV.- Subsidios;
+
+V.- Multas;
+
+VI.- Recargos;
+
+VII.- Gastos de ejecución;
+
+VIII.- Donativos;
+
+IX.- Herencias y legados;
+
+X.- Bienes vacantes;
+
+XI.- Tesoreros ocultos;
+
+XII.- Reintegros;
+
+XIII.- Fianzas carcelarias que se hagan efectivas;
+
+XIV.- Administración de Impuestos Municipales;
+
+XV.- Indemnizaciones;
+
+XVI.- Otros no especificados.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -1295,9 +1391,41 @@ II.- Saldo del ejercicio fiscal anterior.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
+### CAPITULO UNICO. (REUBICADO [N. DE E. ANTES ARTICULO 81], P.O. 31 DE DICIEMBRE DE 2005)
+
+###### ARTICULO 84.
+
+Son ingresos extraordinarios, aquellos que la hacienda pública del Estado perciba, cuando circunstancias especiales coloquen al propio Estado frente a necesidades imprevistas que lo obliguen a efectuar erogaciones no presupuestadas.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 80], P.O. 31 DE DICIEMBRE DE 2005)
+
+###### ARTICULO 85.
+
+Los ingresos a que se refiere el artículo anterior, serán los siguientes:
+
+I.- Empréstitos;
+
+II.- Impuestos extraordinarios;
+
+III.- Derechos extraordinarios;
+
+IV.- Expropiaciones; y
+
+V.- Apoyos extraordinarios del Fondo Federal a zonas de desastre.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
 ## TITULO SEPTIMO. DE OTROS INGRESOS
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+###### ARTICULO 86.
+
+Otros ingresos son aquellos provenientes de:
+
+I.- Impuestos, derechos y demás ingresos causados en ejercicios fiscales anteriores, pendientes de liquidación y/o pago;
+
+II.- Saldo del ejercicio fiscal anterior.
 
 ## TRANSITORIOS
 
@@ -1418,3 +1546,17 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuarán su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
+
+P.O. 31 DE DICIEMBRE DE 2005.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Las disposiciones del Título Segundo, Capítulo VII, que contiene lo referente al Impuesto sobre Nómina, entrará en vigencia a partir del 1º de abril del año 2006.
+
+###### ARTICULO TERCERO.
+
+La tasa prevista en el Artículo 67 del presente Decreto, se aplicará a razón del 1% mensual para el ejercicio fiscal del año calendario 2006.
