@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-penales-para-el-estado-de-mexico-16228
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2004-11-26"
+last_updated: "2006-01-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE ENERO DE 2006.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -259,7 +259,7 @@ Cuando en un procedimiento judicial se advierta que tiene vinculación con otros
 
 ###### Artículo 33.
 
-El Ministerio Público y el órgano jurisdiccional en todo lo que la ley no prohiba o prevenga expresamente, podrán dictar los trámites y providencias necesarias para la pronta y eficaz procuración y administración de Justicia.
+El Ministerio Público y el órgano jurisdiccional en todo lo que la ley no prohíba o prevenga expresamente, podrán dictar los trámites y providencias necesarias para la pronta y eficaz procuración y administración de Justicia.
 
 ### CAPITULO IV. CORRECCIONES DISCIPLINARIAS Y MEDIOS DE APREMIO
 
@@ -601,7 +601,7 @@ Deben firmar las notificaciones las personas que las realicen y aquéllas a quie
 
 Las notificaciones personales se harán en el local del órgano jurisdiccional o en el domicilio designado; si no se encuentra el interesado se le dejará con cualquiera de las personas que ahí residan, una cédula que contendrá: el tribunal o juzgado que la dicte, causa en la cual se pronuncie, transcripción, en lo conducente, de la resolución que se le notifique, lugar, día y hora en que se hace y persona en poder de quien se deja, expresándose el motivo por el cual no se hizo directamente al interesado.
 
-Si el que deba ser notificado se niega a recibir al servidor público, o las personas que residan en el domicilio se rehusan a recibir la cédula, o no se encuentra a nadie en el lugar, se fijará en la puerta de entrada de la casa, asentándose en autos la razón de tal circunstancia.
+Si el que deba ser notificado se niega a recibir al servidor público, o las personas que residan en el domicilio se rehúsan a recibir la cédula, o no se encuentra a nadie en el lugar, se fijará en la puerta de entrada de la casa, asentándose en autos la razón de tal circunstancia.
 
 ###### Artículo 93.
 
@@ -1095,7 +1095,7 @@ II. Coadyuvar con el Ministerio Público; a que se le reciban todos los datos o 
 
 Cuando el Ministerio Público considere que no es necesario el desahogo de la diligencia, deberá fundar y motivar su negativa;
 
-III. Recibir, desde la comisión del delito, atención medica y psicológica de urgencia;
+III. Recibir, desde la comisión del delito, atención médica y psicológica de urgencia;
 
 IV. Que se le repare el daño. En los casos en que sea procedente, el Ministerio Público estará obligado a solicitar la reparación del daño y el juzgador no podrá absolver al sentenciado de dicha reparación si ha emitido una sentencia condenatoria;
 
@@ -1835,15 +1835,203 @@ En caso de ser varios los inculpados o los delitos, el sobreseimiento se decreta
 
 El auto de sobreseimiento surtirá los efectos de sentencia absolutoria y ejecutoriado tendrá categoría de cosa juzgada.
 
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 2 DE ENERO DE 2006)</small>
+
+## TITULO SEPTIMO BIS
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 2 DE ENERO DE 2006)</small>
+
+### CAPITULO PRIMERO. DEL JUICIO PREDOMINANTEMENTE ORAL
+
+> <small>(ADICIONADO, G.G. 2 DE ENERO DE 2006)</small>
+
+###### Artículo 275-A.
+
+Cuando se trate de delitos no graves, el inculpado será juzgado en audiencia pública y oral por un juez, conforme a los procedimientos que se regulan en este capítulo.
+
+> <small>(ADICIONADO, G.G. 2 DE ENERO DE 2006)</small>
+
+###### Artículo 275-B.
+
+Estos procedimientos se tramitarán sobre la base de la acusación y respetando los principios de oralidad, inmediatez, inmediación, publicidad, contradicción, concentración y continuidad.
+
+En lo no previsto, se aplicarán supletoriamente las normas comunes de este Código, en lo conducente, siempre que no se contravengan los citados principios.
+
+> <small>(ADICIONADO, G.G. 2 DE ENERO DE 2006)</small>
+
+###### Artículo 275-C.
+
+No habrá lugar a la acumulación de procesos salvo en los que exista unidad de evento, y siempre que se proponga hasta antes del inicio de la audiencia principal.
+
+> <small>(ADICIONADO, G.G. 2 DE ENERO DE 2006)</small>
+
+###### Artículo 275-D.
+
+Las audiencias se registrarán en videograbación, audiograbación o cualquier medio apto, a juicio del juez, para producir seguridad en las actuaciones e información que permitan garantizar su fidelidad, integridad, conservación reproducción de su contenido y acceso a las mismas, a quienes de acuerdo a la ley tuvieren derecho a ello.
+
+> <small>(ADICIONADO, G.G. 2 DE ENERO DE 2006)</small>
+
+###### Artículo 275-E.
+
+Las partes y las autoridades que legalmente lo requieran podrán solicitar copia simple o certificada de las constancias que obren en el expediente.
+
+> <small>(ADICIONADO, G.G. 2 DE ENERO DE 2006)</small>
+
+###### Artículo 275-F.
+
+La conservación de la videograbación, audiograbación o de cualquier otro medio apto estimado por el juez, que integren la causa se hará por duplicado y se depositarán en el área de seguridad del juzgado; cuando por cualquier motivo se hubiere dañado el soporte material del registro afectando su contenido el Juez ordenará reemplazarlo.
+
+> <small>(ADICIONADO, G.G. 2 DE ENERO DE 2006)</small>
+
+###### Artículo 275-G.
+
+Queda prohibido a quienes no sean partes, disponer de los registros de videograbación o audiograbación de las actuaciones orales, así como ingresar equipos de telefonía, grabación y video al recinto oficial.
+
+El Juez del conocimiento pondrá a disposición de las partes los aparatos, para que previa cita, tengan el acceso pertinente a los registros de la videograbación, audiograbación o de cualquier otro medio que haya autorizado para el registro, a efecto de que le sean facilitados todas las partes y que consten en el proceso.
+
+> <small>(ADICIONADO, G.G. 2 DE ENERO DE 2006)</small>
+
+###### Artículo 275-H.
+
+A las videograbaciones, audiograbaciones o cualquier otro registro determinado por el juez, se les asignará un número consecutivo, seguido de las iniciales JO y en la constancia de cada actuación se asentará la fecha, hora y lugar de realización, el nombre de los funcionarios y las personas que hubieren intervenido y la recopilación de sus resultados, haciéndose constar en acta que será firmada por el Juez, el Secretario y los comparecientes; si no supieren firmar, imprimirán su huella dactilar.
+
+> <small>(ADICIONADO, G.G. 2 DE ENERO DE 2006)</small>
+
+###### Artículo 275-I.
+
+El Juez del conocimiento precisará el número de registro de la videograbación, audiograbación u otro registro, ordenará su depósito en el área de seguridad respectiva, así como las medidas convenientes para asegurar su conservación, fidelidad y autenticidad, mismas que deberán constar en el acta que será firmada por el Juez, Secretario y los que intervengan.
+
+> <small>(ADICIONADO, G.G. 2 DE ENERO DE 2006)</small>
+
+###### Artículo 275-J.
+
+Dictado el auto de formal prisión o sujeción a proceso, se concederá al inculpado un plazo de tres días para que manifieste si es su deseo acogerse al procedimiento abreviado, si lo hace, se procederá en los términos previstos en el capítulo siguiente.
+
+> <small>(ADICIONADO, G.G. 2 DE ENERO DE 2006)</small>
+
+###### Artículo 275-K.
+
+En el mismo auto se señalará día y hora para la audiencia preliminar, que debe celebrarse después de cinco y antes de diez días, previniendo al Ministerio Público que comunique al ofendido o víctima que debe presentarse a la audiencia por sí o por representante legal debidamente facultado.
+
+Dentro de los primeros cinco días siguientes al en que se dicte, las partes ofrecerán pruebas, con vista a la contraria.
+
+Al promoverse la prueba pericial se precisaran los puntos sobre los que deberá versar el dictamen; el juez hará la designación de un perito o de los que estime convenientes para la práctica de la diligencia, sin perjuicio de que cada parte pueda designar también un perito que rinda dictamen por separado.
+
+> <small>(ADICIONADO, G.G. 2 DE ENERO DE 2006)</small>
+
+###### Artículo 275-L.
+
+El día y hora fijado para la celebración de la audiencia preliminar, el secretario hará saber a las partes, comparecientes y público asistente, el orden, decoro y respeto que deberán observar.
+
+El juez podrá limitar el tiempo en el uso excesivo de la palabra, asumiendo en todo la dirección del proceso, pudiendo aplicar las correcciones disciplinarias que estime pertinentes, incluso podrá ordenar su retiro de la sala de audiencias.
+
+El juez exhortará, en su caso, al ofendido o víctima y al inculpado para que se concilien, y no haciéndolo o no habiendo comparecido el ofendido o la víctima, se continuará con la audiencia, requiriendo a las partes para que planteen las incidencias que puedan afectar la tramitación del juicio, dando vista a la contraria y de ser necesario prueba, deberá ofrecerse y desahogarse inmediatamente; terminado el desahogo, se dictará la resolución correspondiente.
+
+Acto seguido, el secretario dará cuenta al juez con las pruebas ofrecidas. Las partes formularán las inconformidades que tuvieren para ser admitidas; a continuación procederá el juez a proveer sobre su admisión y su preparación.
+
+> <small>(ADICIONADO, G.G. 2 DE ENERO DE 2006)</small>
+
+###### Artículo 275-M.
+
+Las documentales se tendrán por desahogadas por su propia naturaleza, salvo que requieran algún medio tecnológico para ser desahogadas en la audiencia principal.
+
+Admitida la prueba pericial, los peritos deberán presentarse dentro del término de 48 horas siguientes para la aceptación y protesta del cargo conferido. El nombrado por el juez, manifestará en el propio acto, bajo protesta de decir verdad, si tiene algún impedimento para aceptarlo; en el entendido de que su dictamen deberán de presentarlo en la audiencia principal, quedando entre tanto los autos a su disposición para consulta.
+
+La testimonial y su ampliación, en su caso, se desahogarán mediante interrogatorio oral que formulen las partes o el juez en lo que estime pertinente, debiendo deponer los testigos de viva voz.
+
+Las pruebas supervenientes deberán ofrecerse y desahogarse hasta antes del cierre de instrucción y para ser admitidas deberá manifestarse bajo protesta de decir verdad que tienen tal carácter, ya sea por ser de fecha posterior o bien, por tener conocimiento de su existencia después de la audiencia preliminar.
+
+> <small>(ADICIONADO, G.G. 2 DE ENERO DE 2006)</small>
+
+###### Artículo 275-N.
+
+Las objeciones en relación con las pruebas admitidas se harán valer inmediatamente con los medios de prueba que tiendan a acreditarlas, el juez proveerá lo conducente a su preparación y desahogo.
+
+> <small>(ADICIONADO, G.G. 2 DE ENERO DE 2006)</small>
+
+###### Artículo 275
+
+Ñ.- La audiencia principal tendrá verificativo después de quince y antes de treinta días, al de la celebración de la audiencia preliminar.
+
+> <small>(ADICIONADO, G.G. 2 DE ENERO DE 2006)</small>
+
+###### Artículo 275-O.
+
+Las partes deberán presentar en la audiencia principal a los órganos de los medios de prueba que ofrezcan, salvo que manifiesten bajo protesta de decir verdad al ofrecerlas, la imposibilidad de presentarlos, caso en el que el juez ordenará su citación o presentación oportuna, pudiendo emplear cualquier medio de apremio que estime conducente.
+
+> <small>(ADICIONADO, G.G. 2 DE ENERO DE 2006)</small>
+
+###### Artículo 275-P.
+
+El día y hora fijado para la celebración de la audiencia principal, se procederá en términos del primer párrafo del artículo 275-L.
+
+El secretario dará cuenta al juez sobre la asistencia de las partes, órganos de prueba y comparecientes que sean necesarios para el desahogo de la prueba y hará la relación de los medios de prueba que se encuentren preparados para su debido desahogo.
+
+Acto seguido, el juez, ordenará se proceda a la protesta de ley, y tomará las medidas necesarias para posibilitar su desahogo continuo, así como para preservar la seguridad de todos los asistentes a la audiencia, particularmente de los testigos, ofendido o víctima.
+
+En todo caso, la audiencia se celebrará desahogando los medios de prueba que se encuentren preparados cuyo órgano probatorio esté presente. Iniciando su desahogo con las ofrecidas por el Ministerio Público, continuando con las de la defensa.
+
+Esta audiencia sólo podrá suspenderse cuando el juez lo estime necesario por causas justificadas, debiéndose reanudar dentro de los diez días siguientes.
+
+Terminado el desahogo de la pruebas se cerrará la instrucción y se procederá a recibir las conclusiones del Ministerio Público y enseguida las de la defensa y el inculpado.
+
+En seguida, el juez dictará sentencia y sólo en casos excepcionales, expresando el motivo, podrá aplazar la audiencia hasta por tres días para que las partes la escuchen.
+
+> <small>(ADICIONADO, G.G. 2 DE ENERO DE 2006)</small>
+
+###### Artículo 275-Q.
+
+El auto que admita o deseche pruebas y el que resuelva una incidencia, serán revocables. El recurso de revocación deberá hacerse valer en el mismo acto que se dicte la resolución que se recurre y previa vista a la contraria, será inmediatamente resuelto.
+
+> <small>(ADICIONADO, G.G. 2 DE ENERO DE 2006)</small>
+
+###### Artículo 275-R.
+
+La sentencia definitiva y el auto que conceda o niegue el sobreseimiento admitirán el recurso de apelación conforme al presente Código.
+
+Ninguna otra resolución será recurrible.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 2 DE ENERO DE 2006)</small>
+
+### CAPITULO SEGUNDO. DEL PROCEDIMIENTO ABREVIADO
+
+> <small>(ADICIONADO, G.G. 2 DE ENERO DE 2006)</small>
+
+###### Artículo 275-S.
+
+El procedimiento abreviado tendrá lugar cuando se reúnan los siguientes requisitos:
+
+I. Que el inculpado no haya sido condenado por sentencia ejecutoriada, por delito grave.
+
+II. Que el inculpado manifieste su conformidad con este procedimiento dentro del plazo mencionado en el artículo 275-J y de que ha sido informado por su defensa de las implicaciones de este procedimiento.
+
+III. Que el inculpado se haya conformado expresamente con el auto de formal prisión o sujeción a proceso.
+
+IV. Que exista confesión judicial y esté corroborada con algún otro medio de prueba de los considerados en el auto de formal prisión o de sujeción a proceso.
+
+V. Que ante la presencia judicial exista manifestación expresa del ofendido o la víctima de que se le ha cubierto el pago de la reparación del daño.
+
+> <small>(ADICIONADO, G.G. 2 DE ENERO DE 2006)</small>
+
+###### Artículo 275-T.
+
+Satisfechos los requisitos a que se refiere el artículo anterior, el juez pronunciará auto de sujeción al procedimiento abreviado; así mismo señalará fecha y hora para la celebración de una sola audiencia que tendrá lugar dentro de los cinco días siguientes, en la que consultará al inculpado y su defensor a fin de asegurarse que aquél ha prestado su conformidad al procedimiento abreviado en forma libre y voluntaria, que entiende los términos del procedimiento y las consecuencias que este pudiera significarle y, especialmente, que no hubiere sido objeto de coacciones ni presiones indebidas, acreditado lo anterior se escuchará la acusación que formule el Ministerio Público y la contestación por parte de la defensa y el inculpado. En seguida, el juez dictará sentencia y sólo en casos excepcionales, expresando el motivo, podrá aplazar la audiencia hasta por tres días para que las partes la escuchen.
+
+> <small>(ADICIONADO, G.G. 2 DE ENERO DE 2006)</small>
+
+###### Artículo 275-U.
+
+En caso de dictarse sentencia de condena se aplicará como pena la mínima prevista por la ley para el delito cometido, reducida en un tercio, sin perjuicio de cualquier otro beneficio que proceda en términos del Código Penal.
+
+> <small>(ADICIONADO, G.G. 2 DE ENERO DE 2006)</small>
+
+###### Artículo 275-V.
+
+Las resoluciones en el procedimiento abreviado no admiten más recurso que el de apelación tratándose de la sentencia definitiva.
+
 ## TITULO OCTAVO. RECURSOS
 
 ### CAPITULO I. REVOCACION
-
-### CAPITULO II. APELACION
-
-## TITULO NOVENO. INCIDENTES
-
-### CAPITULO III. DENEGADA APELACION
 
 ###### Artículo 276.
 
@@ -1853,7 +2041,7 @@ Son revocables por el órgano jurisdiccional los autos que haya dictado y contra
 
 La revocación se interpondrá en el acto de la notificación o dentro de las veinticuatro horas siguientes. El órgano jurisdiccional lo resolverá de plano si estimare que no es necesario oír a las partes; en caso contrario, las citará a una audiencia verbal que se efectuará dentro de las cuarenta y ocho horas siguientes y en ella dictará su resolución, contra la cual no procede recurso alguno.
 
-### CAPITULO IV. REVISION EXTRAORDINARIA
+### CAPITULO II. APELACION
 
 ###### Artículo 278.
 
@@ -2005,7 +2193,7 @@ No obstante lo dispuesto en el artículo 296 de este código, si el tribunal de 
 
 La reposición sólo se ordenará respecto del apelante agraviado.
 
-### CAPITULO V. REVISION FORZOSA
+### CAPITULO III. DENEGADA APELACION
 
 ###### Artículo 299.
 
@@ -2041,7 +2229,7 @@ La resolución deberá pronunciarse dentro del término de cinco días.
 
 Si la apelación se declara admisible, se pedirá la causa o su duplicado al juez de primera instancia, para substanciar el recurso; en caso contrario, se archivará el toca respectivo.
 
-### CAPITULO I. INCIDENTES DE LIBERTAD
+### CAPITULO IV. REVISION EXTRAORDINARIA
 
 ###### Artículo 306.
 
@@ -2107,7 +2295,7 @@ Recibida la solicitud, se dará vista al Ministerio Público por tres días y, s
 
 En caso de que se concedan al condenado los beneficios que procedan, se comunicará ello al juez de la causa y a la autoridad encargada de la ejecución de penas.
 
-### CAPITULO II. INCIDENTES DIVERSOS
+### CAPITULO V. REVISION FORZOSA
 
 ###### Artículo 317.
 
@@ -2117,9 +2305,9 @@ La revisión de resoluciones en las que el órgano jurisdiccional haya aplicado 
 
 En el caso de que la sentencia en que se aplique la disposición de los artículos 58 y 79 del código penal hubiere sido apelada, el superior respectivo confirmará, modificará o revocará la resolución al resolver el recurso de apelación.
 
-## TITULO DECIMO. PROCEDIMIENTOS ESPECIALES
+## TITULO NOVENO. INCIDENTES
 
-### CAPITULO I. PROCEDIMIENTO PARA LOS INIMPUTABLES
+### CAPITULO I. INCIDENTES DE LIBERTAD
 
 #### SECCION PRIMERA. LIBERTAD PROVISIONAL BAJO CAUCION
 
@@ -2361,7 +2549,7 @@ Cuando el inculpado solamente haya sido declarado sujeto a proceso, se podrá pr
 
 La resolución que conceda la libertad tendrá los mismos efectos que el auto de libertad por falta de elementos para procesar, quedando expedito el derecho del Ministerio Público para aportar elementos incriminatorios en el plazo a que se refiere el artículo 148 de este código y para solicitar nuevamente la aprehensión del inculpado, y la facultad del órgano jurisdiccional para dictar nuevo auto de formal prisión o de sujeción a proceso, si aparecieren posteriormente datos que les sirvan de fundamento y siempre que no se varíen los hechos delictuosos que motivaron el procedimiento.
 
-### CAPITULO II. PROCEDIMIENTO RELATIVO A LOS MENORES
+### CAPITULO II. INCIDENTES DIVERSOS
 
 #### SECCION PRIMERA. SUBSTANCIACION DE LAS CUESTIONES Y CONFLICTOS DE COMPETENCIA
 
@@ -2709,9 +2897,9 @@ Cuando en un procedimiento civil, familiar, mercantil, laboral o administrativo 
 
 El Ministerio Público, dentro del término de diez días, practicará desde luego las diligencias necesarias para poder determinar si los hechos pueden llegar a ser constitutivos de delito o no; en el primer caso y siempre que estos hechos sean de tal naturaleza que si llegare a dictar resolución con motivo de ellos, ésta deba necesariamente influir en las resoluciones que pudieran dictarse en el procedimiento, el Ministerio Público pedirá y el juez, tribunal o autoridad administrativa hará que se suspenda el trámite del mismo hasta que se pronuncie una resolución definitiva en el asunto penal.
 
-## TITULO DECIMO PRIMERO. EJECUCION DE SANCIONES
+## TITULO DECIMO. PROCEDIMIENTOS ESPECIALES
 
-### CAPITULO III. APERCIBIMIENTO
+### CAPITULO I. PROCEDIMIENTO PARA LOS INIMPUTABLES
 
 ###### Artículo 410.
 
@@ -2753,6 +2941,8 @@ Si de los dictámenes rendidos, resulta que el inculpado no se encuentra padecie
 
 Si se comprueba la participación del procesado en los hechos, el juez ordenará, según corresponda, su reclusión o su externamiento, en los términos de los artículos 53 y 54 del código penal o, en caso contrario, ordenará su libertad dejando sin efecto las providencias acordadas.
 
+### CAPITULO II. PROCEDIMIENTO RELATIVO A LOS MENORES
+
 ###### Artículo 415.
 
 Los menores de once años a quienes se impute la ejecución de un hecho delictuoso, no serán sujetos a procedimiento alguno y la intervención del Ministerio Público se limitará a recibirles declaración si pudieren expresarse, con el objeto de investigar si en la ejecución del hecho fueron instigados, auxiliados o encubiertos por mayores.
@@ -2773,6 +2963,8 @@ Si en la averiguación practicada por la autoridad de menores aparece que el men
 
 Si hubiere duda sobre la mayoría de edad del inculpado al suceder los hechos delictivos, el órgano jurisdiccional ordenará a los médicos legistas que dictaminen su edad clínica y, de resultar menor, lo pondrá de inmediato a disposición de la autoridad competente.
 
+### CAPITULO III. APERCIBIMIENTO
+
 ###### Artículo 420.
 
 En el caso en que una persona haya amenazado a otra con causarle un daño que sea constitutivo de delito, el Ministerio Público levantará una acta circunstanciada, observando en lo conducente las disposiciones del capítulo I del título II de este código. Seguidamente citará al denunciado para apercibirle que se abstenga de cometerlo, hacer constar el apercibimiento en el acta respectiva, entregando copias certificadas al ofendido sin costo alguno, y archivar ésta previas las anotaciones correspondientes.
@@ -2784,6 +2976,8 @@ Será castigado como reincidente en caso de cometer el delito por el que fue ape
 ###### Artículo 421.
 
 En la forma señalada en el artículo anterior, procederán las autoridades judiciales y administrativas cuando en presencia de ellas, y con motivo u ocasión de la práctica de una diligencia, alguien amenace a otro con causarle un mal que constituya delito. De ello se tomará nota en el registro de antecedentes penales.
+
+## TITULO DECIMO PRIMERO. EJECUCION DE SANCIONES
 
 ###### Artículo 422.
 
@@ -2932,3 +3126,11 @@ El presente decreto entrará en vigor al día siguiente de su publicación en la
 P.O. 26 DE NOVIEMBRE DE 2004.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 1.2 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE MEXICO.
+
+G.G. 2 DE ENERO DE 2006.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor ciento ochenta días naturales después de su publicación el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Dentro del término de novena días naturales contados a partir de la entrada en vigor del presente decreto, el Consejo de la Judicatura instalará en cada Distrito Judicial del Estado de México un Juzgado donde se ventilen juicios orales.
