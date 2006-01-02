@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-defensoria-de-oficio-del-estado-de-mexico-5964"
 country: "mx"
 rank: "ley"
 publication_date: "1995-01-20"
-last_updated: "1995-01-20"
+last_updated: "2006-01-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5964&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 LEY DE LA DEFENSORIA DE OFICIO DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE LA DEFENSORIA DE OFICIO DEL ESTADO DE MEXICO, PUBLICADA EN LA G.G. DE 2 DE ENERO DE 2006., EL PRESENTE ORDENAMIENTO FUE ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 20 de enero de 1995.
 
@@ -598,3 +600,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. CESAR CAMACHO QUIROZ
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.G. 2 DE ENERO DE 2006.
+
+PRIMERO.- Publíquese la presente Ley en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- La presente la Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga la Ley de la Defensoría de Oficio del Estado de México del 19 de enero de 1995, publicada en el Periódico Oficial "Gaceta del Gobierno", el día 20 del mismo mes y año.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
