@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2005-11-09"
+last_updated: "2006-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO NUMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE ENERO DE 2006.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -2255,6 +2255,18 @@ c) Expedición de Tarifa Oficial para el Cobro de Servicio Público de Transport
 
 d) Expedición de Permisos de Sustitución Temporal de Unidad por 20 días: 2 salarios mínimos
 
+> <small>(ADICIONADO, G.O. 2 DE ENERO DE 2006)</small>
+
+e) La revista vehicular anual del Servicio de Transporte Público en cualquiera de sus modalidades:
+
+3 salarios mínimos
+
+> <small>(ADICIONADO, G.O. 2 DE ENERO DE 2006)</small>
+
+f) La realización de los estudios para la modificación y/o ampliación de las rutas de transporte público en las diversas modalidades y, en su caso la expedición del croquis correspondiente por concesión autorizada por el Estado.
+
+20 salarios mínimos
+
 IX. Por la prestación de otros Servicios:
 
 > <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
@@ -3405,7 +3417,7 @@ a) Hasta 5 has. 17.0 salarios mínimos
 
 b) El excedente de 5 hasta 50 has. 10.0 salarios mínimos
 
-c) El excedente de 50 hasta 200 has. 3.3. salarios mínimos
+c) El excedente de 50 hasta 200 has. 3.3 salarios mínimos
 
 d) El excedente de 200 has en adelante 2.2 salarios mínimos
 
@@ -8302,3 +8314,9 @@ G.O. 9 DE NOVIEMBRE DE 2005.
 Artículo primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Artículo segundo. Se derogan las disposiciones que se opongan al presente decreto.
+
+G.O. 2 DE ENERO DE 2006.
+
+Artículo primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
