@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2005-12-21"
+last_updated: "2006-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO PENAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE ENERO DE 2006.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -1263,9 +1263,9 @@ VII. Cuando realice una conducta ilícita u omita una lícita debida, que lesion
 
 VIII. Cuando se detenga a una persona durante la averiguación previa fuera de los casos previstos por la ley; la retenga por más de cuarenta y ocho horas o de noventa y seis en los casos de delincuencia organizada; la consigne sin que preceda denuncia, acusación o querella; o la mantenga en incomunicación;
 
-IX. Cuando sin orden de la autoridad competente, obligue a los particulares a presentar documentos o realice la inspección en bienes de su propiedad o posesión; en incomunicación; vínculo familiar, de negocio o afectivo; y
+IX. Cuando sin orden de la autoridad competente, obligue a los particulares a presentar documentos o realice la inspección en bienes de su propiedad o posesión; en incomunicación; vínculo familiar, de negocio o afectivo; y (sic)
 
-X. Cuando después de haber ejecutado una orden de aprehensión, no ponga al inculpado a disposición del juez sin dilación alguna.
+X. Cuando después de haber ejecutado una orden de aprehensión, no ponga al inculpado a disposición del juez sin dilación alguna;
 
 > <small>(ADICIONADA, G.G. 10 DE AGOSTO DE 2004)</small>
 
@@ -1277,7 +1277,13 @@ b) Retengan, modifiquen o divulguen información; y
 
 c) Expidan certificaciones de inscripciones que obren en el registro.
 
-Al responsable de este delito se le impondrán de uno a cinco años de prisión y de treinta a ciento cincuenta días multa, la destitución del cargo será definitiva y la inhabilitación será por veinte años para desempeñar empleo, cargo o comisión públicos.
+> <small>(ADICIONADA, G.G. 2 DE ENERO DE 2006)</small>
+
+XII. Cuando el personal al cuidado o disposición de los registros de audiograbación y videograbación de los juicios orales, haga uso indebido de los mismos, los sustraiga, entregue, copie reproduzca, altere, modifique, venda o facilite información contenida en aquellos o parte de la misma o de cualquier otra forma los utilice para fines distintos a lo previsto por la Ley.
+
+> <small>(REFORMADO, G.G. 2 DE ENERO DE 2006)</small>
+
+Al responsable de este delito se le impondrán de uno a cinco años de prisión y de treinta a ciento cincuenta días multa, la destitución del cargo será definitiva y la inhabilitación será de 2 a 8 años para desempeñar empleo, cargo o comisión públicos.
 
 ###### Artículo 137.
 
@@ -3536,3 +3542,11 @@ G.G. 21 DE DICIEMBRE DE 2005.
 PRIMERO. Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO. La reforma, adición y derogación de las diversas disposiciones contenidas en el Código Penal del Estado de México, en la Ley Orgánica del Poder Judicial del Estado de México y en la Ley Orgánica de la Procuraduría del Estado de México, contenidas en el presente decreto tendrán vigencia, hasta en tanto entre en vigor las reformas a los artículos 82, 89 en su segundo párrafo, 99 en su primer párrafo a la adición del segundo párrafo al artículo 102 y el artículo 104 bis de la Constitución Política del Estado Libre y Soberano de México, aprobado por esta Legislatura.
+
+G.G. 2 DE ENERO DE 2006.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor ciento ochenta días naturales después de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Dentro del término de noventa días naturales contados a partir de la entrada en vigor del presente decreto, el Consejo de la Judicatura instalará en cada Distrito Judicial del Estado de México un Juzgado donde se ventilen juicios orales.
