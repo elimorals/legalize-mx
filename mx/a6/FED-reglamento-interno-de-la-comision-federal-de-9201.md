@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-federal-de-9201"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-12-09"
-last_updated: "2003-05-08"
+last_updated: "2006-01-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9201&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1996-12-05"
 
 REGLAMENTO INTERNO DE LA COMISION FEDERAL DE TELECOMUNICACIONES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE MAYO DE 2003.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DE LA COMISION FEDERAL DE TELECOMUNICACIONES, PUBLICADO EN EL D.O.F. DE 2 DE ENERO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación el lunes 9 de diciembre de 1996.
 
@@ -233,7 +235,7 @@ VII. Proponer a la Secretaría la revocación de concesiones y permisos en mater
 
 VIII. Someter a la aprobación de la Secretaría, los programas sobre bandas de frecuencias del espectro radioeléctrico para usos determinados, con sus correspondientes modalidades de uso y coberturas geográficas, que serán materia de licitación pública;
 
-IX. Expedir convocatorias, bases de licitación y demás documentos necesarios para las licitaciones públicas de bandas de frecuencias del espectro radioeléctrico para usos determinados, y para ocupar y explotar posiciones orbitales geoestacionarias y órbitas satelitales asignadas al país; resolver respecto de la calificación de los interesados en dichas licitaciones con base en los dictámenes técnicos, económico-finacieros y legales que realice la propia Comisión, y emitir los fallos correspondientes;
+IX. Expedir convocatorias, bases de licitación y demás documentos necesarios para las licitaciones públicas de bandas de frecuencias del espectro radioeléctrico para usos determinados, y para ocupar y explotar posiciones orbitales geoestacionarias y órbitas satelitales asignadas al país; resolver respecto de la calificación de los interesados en dichas licitaciones con base en los dictámenes técnicos, económico-financieros y legales que realice la propia Comisión, y emitir los fallos correspondientes;
 
 X. Aprobar las modificaciones al Cuadro Nacional de Atribución de Frecuencias;
 
@@ -1178,3 +1180,15 @@ UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicaci�
 D.O.F. 8 DE MAYO DE 2003.
 
 UNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 2 DE ENERO DE 2006.
+
+PRIMERO.- El presente Reglamento Interno entrará en vigor el día 5 de enero de 2006.
+
+SEGUNDO.- Se abroga el Reglamento Interno de la Comisión Federal de Telecomunicaciones, publicado en el Diario Oficial de la Federación el 9 de diciembre de 1996.
+
+TERCERO.- Las disposiciones administrativas que se hubieren emitido por las distintas unidades administrativas de la Comisión, con anterioridad a la entrada en vigor del presente Reglamento Interno, seguirán surtiendo plenamente sus efectos jurídicos.
+
+CUARTO.- Los asuntos que estén tramitándose por las distintas unidades administrativas de la Comisión a la entrada en vigor del presente Reglamento Interno, permanecerán en el último trámite que hubieren alcanzado y se continuarán atendiendo y resolverán por la nueva unidad o unidades administrativas de la Comisión a las que se haya otorgado la competencia conforme a este ordenamiento.
+
+QUINTO.- En tanto se emitan las modificaciones a los manuales que correspondan, el Presidente de la Comisión resolverá lo conducente en aquellas cuestiones no previstas en este Reglamento Interno y que deban regularse por dichos manuales.
