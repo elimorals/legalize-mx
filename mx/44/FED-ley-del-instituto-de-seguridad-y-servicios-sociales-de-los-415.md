@@ -4,7 +4,7 @@ identifier: "FED-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-415"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-27"
-last_updated: "2001-06-01"
+last_updated: "2006-01-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=415&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISSSTE"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE ENERO DE 2006.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 27 de diciembre de 1983.
 
@@ -2042,13 +2042,19 @@ VII. Las que le fijen el Reglamento Interior del Instituto y las demás disposic
 
 El patrimonio del Instituto lo constituirán:
 
-I. Sus propiedades, posesiones, derechos y obligaciones;
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2006)</small>
+
+I. Sus propiedades, posesiones, derechos y obligaciones, con excepción de los afectos al Fondo de la Vivienda;
 
 II. Las cuotas de los trabajadores y pensionistas, en los términos de esta Ley;
 
-III. Las aportaciones que hagan las dependencias y entidades conforme a esta Ley;
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2006)</small>
 
-IV. El importe de los créditos e intereses a favor del Instituto y a cargo de los trabajadores o de las dependencias y entidades a que se refiere esta Ley;
+III. Las aportaciones que hagan las dependencias y entidades conforme a esta Ley, salvo las que se hagan al Fondo de la Vivienda, que junto con los intereses y rendimientos que generen, constituyen depósitos a favor de los trabajadores y son patrimonio de los mismos;
+
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2006)</small>
+
+IV. El importe de los créditos e intereses a favor del Instituto, con excepción de los afectos al Fondo de la Vivienda;
 
 V. Los intereses, rentas, plusvalías y demás utilidades que se obtengan de las inversiones que conforme a esta Ley haga el Instituto;
 
@@ -2313,3 +2319,13 @@ PRIMERO.- Este Decreto entrará en vigor el 1o. de enero de 2002.
 SEGUNDO.- En el caso de trabajadores que se hayan jubilado o pensionado con más de una plaza, a la pensión que corresponda a la suma de las plazas se le aplicará lo dispuesto en el artículo 57.
 
 TERCERO.- Si en un plazo de tres meses a partir de que sea exigible el incremento no es posible hacer la identificación del puesto, se aplicará lo que establece el párrafo quinto.
+
+D.O.F. 2 DE ENERO DE 2006.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado contará con un plazo de 180 días naturales contados a partir de la entrada en vigor del presente Decreto para efectuar las operaciones o modificaciones necesarias para la aplicación de esta reforma, de conformidad con las disposiciones aplicables y las autorizaciones de la Secretaría de Hacienda y Crédito Público.
+
+Tercero. Los bienes muebles e inmuebles o cualquier otro derecho o activo que se hubieren acumulado a la fecha de entrada en vigor del presente Decreto utilizando recursos de las aportaciones del 5% al Fondo de Vivienda previstas en el Art. 21 de la Ley del ISSSTE formarán parte de las reservas del Fondo de la Vivienda.
+
+Los activos o servicios vinculados al Fondo de la Vivienda que en lo futuro llegarán a financiarse con recursos distintos a las aportaciones del 5%, deberán se (sic) costeados con cargo al Fondo de (sic) Vivienda.
