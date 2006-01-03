@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-kanasin-yucatan-42628"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2004-12-31"
+last_updated: "2006-01-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42628&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,9 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE KANASIN, YUCATAN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE KANASIN, YUCATAN, PUBLICADA EN EL D.O. DE 3 DE ENERO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: ABROGADA.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 31 de diciembre de 2004.
 
@@ -1899,3 +1901,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 (RÚBRICA)
 
 ABOG. PEDRO FRANCISCO RIVAS GUTIÉRREZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. DE 3 DE ENERO DE 2006.
+
+Artículo Primero.- Esta Ley entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo.- Se abroga la Ley de Hacienda del Municipio de Kanasín, publicada en el Diario Oficial del Gobierno del Estado el día 31 de diciembre de 2004, en el Decreto 564.
+
+Artículo Segundo (sic).- En lo no previsto por esta Ley, se aplicará supletoriamente, lo establecido por la Ley General de Hacienda para los Municipios del Estado de Yucatán.
