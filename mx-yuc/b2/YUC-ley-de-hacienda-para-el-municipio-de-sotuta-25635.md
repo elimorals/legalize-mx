@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-sotuta-25635"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2004-12-31"
+last_updated: "2006-01-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25635&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE SOTUTA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE ENERO DE 2006.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el sábado 30 de diciembre de 2000.
 
@@ -533,37 +533,137 @@ Lo dispuesto en el párrafo anterior no se aplicará a los contribuyentes que a 
 
 DE LA TARIFA
 
+> <small>(REFORMADO, D.O. 3 DE ENERO DE 2006)</small>
+
 ###### ARTÍCULO 47.
 
-Cuando la base del impuesto predial sea el valor catastral del inmueble, el impuesto se determinará multiplicando el factor fijo anual que corresponda al valor catastral señalado en la tabla, por el salario mínimo vigente. El producto será el impuesto a pagar.
+El impuesto predial se causará de acuerdo con las siguientes tablas de valores unitarios de terreno y construcción:
 
-TABLA
+TABLA DE VALORES UNITARIOS DE TERRENO
 
-Para valores Hasta valores Factor fijo Factor
+COLONIA O CALLE TRAMO ENTRE PRECIO
 
-Catastrales Catastrales anual excedente
+CALLE CALLE POR M2
 
-0.01 4,000.00 pesos 0.10
+#### SECCIÓN 1. DE LA CALLE 17 A LA
 
-4,001.00 7,000.00 pesos 0.50
+CALLE 21 16 20 $ 17.00
 
-7,001.00 9,000.00 pesos 0.80
+DE LA CALLE 16 A LA
 
-9,001.00
+CALLE 20 17 21 $ 17.00
 
-en adelante .90 0.000168
+DE LA CALLE 14 A LA
 
-En el caso de predio cuyo valor catastral exceda de nueve mil pesos el impuesto predial se calculará como sigue:
+CALLE 20 13 17 $ 11.00
 
-Se aplicará el factor fijo de .90 al salario mínimo vigente en el Estado de Yucatán. Posteriormente, se restará al valor catastral del predio el importe de nueve mil pesos; la diferencia se multiplicará por el resultado de la aplicación del factor excedente de 0.000168 al salario mínimo vigente en el Estado de Yucatán; el producto, se sumará al resultado de la primera multiplicación del salario mínimo vigente en el Estado de Yucatán, por el factor fijo de .90 y la cantidad así obtenida será el impuesto a pagar.
+DE LA CALLE 13 A LA
 
-Los predios que se encuentren en alguna de las situaciones siguientes:
+CALLE 15 14 20 $ 11.00
 
-a).- Sin construcción, con maleza y sin cercar.
+DE LA CALLE 17 A LA
 
-b).- Con construcción, pero deshabitados, con maleza.
+CALLE 21 12 16 $ 11.00
 
-Causarán una tarifa de tres veces el factor aplicable al valor catastral.
+DE LA CALLE 12 A LA
+
+CALLE 14 17 21 $11.00
+
+RESTO DE LA SECCIÓN $ 8.00
+
+#### SECCIÓN 2. DE LA CALLE 21 A LA
+
+CALLE 27 16 20 $ 17.00
+
+DE LA CALLE 16 A LA
+
+CALLE 20 21 27 $ 17.00
+
+DE LA CALLE 14 A LA
+
+CALLE 20 27 29 $ 11.00
+
+CALLE 29 14 20 $ 11.00
+
+DE LA CALLE 21 A LA
+
+CALLE 29 14 16 $ 11.00
+
+CALLE 14 21 27 $ 11.00
+
+RESTO DE LA SECCIÓN $ 8.00
+
+#### SECCIÓN 3. DE LA CALLE 21 A LA
+
+CALLE 27 20 24 $ 17.00
+
+DE LA CALLE 20 A LA
+
+CALLE 24 21 27 $ 17.00
+
+DE LA CALLE 20 A LA
+
+CALLE 30 27 29 $ 11.00
+
+CALLE 29 20 24 $ 11.00
+
+DE LA CALLE 21 A LA
+
+CALLE 27 24 30 $ 11.00
+
+DE LA CALLE 26 A LA
+
+32 21 27 $ 11.00
+
+RESTO DE LA SECCIÓN $ 8.00
+
+#### SECCIÓN 4. DE LA CALLE 17 A LA
+
+CALLE 21 20 24 $ 17.00
+
+DE LA CALLE 20 A LA
+
+CALLE 24 17 21 $ 17.00
+
+DE LA CALLE 13 A LA
+
+CALLE 15 20 24 $ 11.00
+
+DE LA CALLE 13 A LA
+
+CALLE 21 24 32 $ 11.00
+
+RESTO DE LA SECCIÓN $ 8.00
+
+TODAS LAS COMISARÍAS $ 8.00
+
+RÚSTICOS IMPORTE POR HECTÁREA
+
+BRECHA $ 218.00
+
+CAMINO BLANCO $ 437.00
+
+CARRETERA $ 655.00
+
+TABLA DE VALORES UNITARIOS DE CONSTRUCCIÓN
+
+TIPO DE AREA PERIFERIA
+
+CONSTRUCCIÓN CENTRO MEDIA
+
+CONCRETO $ 1,310.00 $ 874.00 $ 655.00
+
+HIERRO Y
+
+ROLLIZOS $ 546.00 $ 437.00 $ 383.00
+
+ZINC, ASBESTOS
+
+O TEJA $ 328.00 $ 262.00 $ 197.00
+
+CARTÓN Y PAJA $ 164.00 $ 109.00 $ 66.00
+
+El Impuesto Predial sobre la base valor catastral, se calculará aplicando al valor consignado en la cédula la tasa de 0.05% y el resultado será el impuesto a pagar.
 
 DEL PAGO
 
@@ -1157,7 +1257,7 @@ Son responsables solidarios del pago de estos derechos, los ingenieros, contrati
 
 Las personas físicas y morales que soliciten los servicios que a continuación se detallan estarán obligadas al pago de los derechos conforme a lo siguiente:
 
-Servicio------------------------------------------- Factor Salario
+Servicio Factor Salario
 
 Mínimo Vigente
 
@@ -1165,13 +1265,23 @@ en el Estado de
 
 Yucatán
 
-A) Por participar en licitaciones--------------- 10.0
+A) Por participar en licitaciones 10.0
 
 B) Certificaciones y constancias expedidas
 
-por el Ayuntamiento------------------------------ 0.25
+por el Ayuntamiento 0.25
 
-C) Venta de formas oficiales impresas------ 0.10
+C) Venta de formas oficiales impresas 0.10
+
+> <small>(ADICIONADO, D.O. 3 DE ENERO DE 2006)</small>
+
+D) Por la reproducción de la información que
+
+soliciten los ciudadanos derivada de la Ley de Acceso
+
+a la Información Pública para el Estado y los
+
+Municipios de Yucatán por cada hoja 0.10
 
 Por cada certificado que expida cualesquiera de las dependencias del Ayuntamiento, se pagará un derecho equivalente al .15 del importe de un salario mínimo vigente en el Estado de Yucatán, en la fecha de la expedición, salvo en aquellos casos en que esta propia Ley señale de manera expresa otra tasa o tarifa y el certificado de estar al corriente en el pago del impuesto predial, que para su expedición requerirá el anexo del recibo de pago de este derecho, que emite la Universidad Autónoma de Yucatán.
 
@@ -1465,17 +1575,49 @@ El pago se realizará en la caja de la Tesorería Municipal o con la persona que
 
 Son objeto de este Derecho, los diversos servicios mortuorios prestados por el municipio.
 
-> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O. 3 DE ENERO DE 2006)</small>
 
 ###### ARTÍCULO 111-B.
 
-Son sujetos de este Derecho, las personas físicas o morales que directa o indirectamente reciban alguno o algunos de los servicios mortuorios, que preste el municipio.
+Son sujetos de este derecho, las personas físicas o morales que soliciten alguno o algunos de los servicios a que se refiere este capítulo.
 
-> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O. 3 DE ENERO DE 2006)</small>
 
 ###### ARTÍCULO 111-C.
 
-Estos Derechos se causarán conforme a la tarifa que al efecto establezca la Ley de Ingresos municipal correspondiente.
+Los derechos a que se refiere este Capítulo se causarán y pagarán conforme a las siguientes tarifas:
+
+I.- Inhumaciones en fosas y criptas:
+
+ADULTOS: Factor Salario Mínimo
+
+a) Por temporalidad de 3 años 11.35
+
+b) Adquirida a perpetuidad 56.75
+
+c) Refrendo por depósito de
+
+restos a 2 años 05.67
+
+En las fosas o criptas para niños, las tarifas aplicadas a cada uno
+
+de los conceptos serán del 50% de las aplicadas para adultos.
+
+II.- Permiso de construcción de cripta
+
+o bóveda en los Panteones
+
+Municipales 04.54
+
+III.- Exhumación después de
+
+trascurridos el término de ley 03.40
+
+IV.- A solicitud del interesado,
+
+anualmente, por mantenimiento
+
+se pagará 01.13
 
 > <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -1846,3 +1988,7 @@ D.O. 31 DE DICIEMBRE DE 2004.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 3 DE ENERO DE 2006.
+
+Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
