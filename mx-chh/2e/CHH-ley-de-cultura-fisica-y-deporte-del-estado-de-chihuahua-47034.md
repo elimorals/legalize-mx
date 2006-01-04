@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-cultura-fisica-y-deporte-del-estado-de-chihuahua-47034"
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-19"
-last_updated: "2005-11-19"
+last_updated: "2006-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 2006.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 19 de noviembre de 2005.
 
@@ -399,9 +399,11 @@ El órgano de vigilancia del Instituto estará integrado por un Comisario Públi
 
 La actuación de los Comisarios se ajustará en todo caso a lo dispuesto por la Ley de Entidades Paraestatales del Estado de Chihuahua y por las demás disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2006)</small>
+
 ###### Artículo 26.
 
-El Instituto tiene las siguientes atribuciones:
+El Instituto tendrá las siguientes atribuciones:
 
 I.- Convocar al Sistema, con la participación que corresponda a las Dependencias y Entidades del sector público y a las instituciones de los sectores social y privado;
 
@@ -443,9 +445,17 @@ XIX.- Impulsar la práctica de actividades de cultura física-deportiva, recreat
 
 XX.- Formular programas para promover la cultura física y deporte entre las personas con discapacidad y adultos en plenitud;
 
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2006)</small>
+
+XXI.- Ejercer las atribuciones que le confiere la ley en las materias de obra pública, adquisiciones, arrendamientos y prestación de servicios, en lo que se refiere a la Infraestructura deportiva en el Estado;
+
 XXI.- Celebrar todos aquellos contratos y convenios que le permitan cumplir con el objetivo para el cual fue creado; y
 
 XXII.- Las demás que esta Ley u otras disposiciones legales determinen.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2006)</small>
+
+Artículo 26 bis.- El Ejecutivo del Estado, deberá acompañar los estados financieros del Instituto en la cuenta pública anual de gobierno.
 
 ###### Artículo 27.
 
@@ -1164,3 +1174,9 @@ LIC. JOSE REYES BAEZA TERRAZAS.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FERNANDO RODRIGUEZ MORENO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE ENERO DE 2006.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
