@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-instituto-municipal-de-investigacion-y-11882"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-30"
-last_updated: "2004-12-29"
+last_updated: "2006-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL INSTITUTO MUNICIPAL DE INVESTIGACION Y PLANEACION DEL MUNICIPIO DE JUAREZ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 2006.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 30 de septiembre de 1995.
 
@@ -271,7 +271,15 @@ XXI. Dar a conocer y permitir el acceso a la información, documentación y aná
 
 XXII. Proporcionar elementos documentales, técnicos, operativos y de juicio necesarios para la toma de decisiones y acciones del Ayuntamiento y demás autoridades competentes, en los rubros y postulados a que se refiere esta ley.
 
-XXIIII. Diseñar campañas de educación para concientizar a la población acerca de soluciones a problemas específicos de su competencia y de la necesidad de programas encaminados a mejorar la calidad de vida.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2006)</small>
+
+XXIII.- Diseñar campañas de educación para concientizar a la población:
+
+A) Acerca de soluciones a problemas sociales específicos de su competencia, y
+
+B) De la necesidad de programas encaminados a mejorar la calidad de vida tales como la cultura al no Graffiti, cuando es utilizado como acto de vandalismo y la difusión del respeto a la propiedad pública y privada.
+
+Así como realizar estudios, proyectos técnicos y operativos para evitar la contaminación visual causada por diversos factores como el graffiti cuando es utilizado como acto de vandalismo y anuncios comerciales.
 
 XXIV. Proponer al Ayuntamiento las modificaciones, reformas y adecuaciones a la reglamentación en materia de desarrollo urbano y de uso de suelo que se requieran y los proyectos de iniciativa de ley que se estimen necesarios.
 
@@ -357,7 +365,9 @@ LIC. EDUARDO ROMERO RAMOS
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-P.O. 29 DE DICIEMBRE DE 2004.
+P.O. 4 DE ENERO DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -366,7 +376,3 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El contenido del último párrafo de la fracción II del artículo 3º se tomará en consideración para el cálculo y aprobación del presupuesto del Instituto a partir del ejercicio fiscal de 2006.
-
-###### ARTÍCULO TERCERO.
-
-Las obligaciones contraídas y ejercidas en el ámbito de su competencia por parte del Instituto, en el ejercicio fiscal de 2004, deberán ser cubiertas por el ayuntamiento al término del ejercicio fiscal vigente o, en su defecto, incorporadas en el presupuesto que corresponde al Instituto.
