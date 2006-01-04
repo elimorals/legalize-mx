@@ -4,7 +4,7 @@ identifier: "VER-reglamento-para-el-gobierno-interior-del-poder-legislativo-2899
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-17"
-last_updated: "2005-12-14"
+last_updated: "2006-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE ENERO DE 2006.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el lunes 17 de febrero de 2003.
 
@@ -639,9 +639,17 @@ Los dictámenes deberán contener una parte considerativa de las razones y funda
 
 Las comisiones emitirán su dictamen dentro de los diez días hábiles siguientes a la fecha en que hayan recibido el expediente, tomando en cuenta la agenda legislativa y la trascendencia e importancia del asunto en cuestión, así como las consultas o comparecencias que deban efectuarse.
 
-La Comisión, por su parte, podrá solicitar por escrito la ampliación o la prórroga del término para la conclusión del dictamen respectivo.
+> <small>(ADICIONADO, G.O. 4 DE ENERO DE 2006)</small>
 
-Si mediare excitativa del Presidente, formulada por sí o a solicitud de dos o más diputados, para la presentación de un dictamen, el presidente de la comisión o su secretario explicará al Pleno o a la Permanente las razones de la demora.
+La Presidencia y la Secretaría General del Congreso entregarán el expediente oficialmente a la Comisión a más tardar tres días hábiles siguientes de la sesión, del pleno o de la Diputación Permanente, en que se haya turnado el asunto respectivo.
+
+> <small>(REFORMADO, G.O. 4 DE ENERO DE 2006)</small>
+
+La Comisión por su parte, podrá solicitar por escrito la ampliación o la prórroga del término para la conclusión del dictamen respectivo.
+
+> <small>(REFORMADO, G.O. 4 DE ENERO DE 2006)</small>
+
+Si mediare excitativa del Presidente, formulada por sí o a solicitud de dos o más diputados, para la presentación de un dictamen, el presidente de la Comisión o su secretario explicará al Pleno o a la Permanente las razones de la demora.
 
 ###### Artículo 67.
 
@@ -1490,3 +1498,9 @@ G.O. 14 DE DICIEMBRE DE 2005.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 4 DE ENERO DE 2006.
+
+Artículo primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano de gobierno del estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
