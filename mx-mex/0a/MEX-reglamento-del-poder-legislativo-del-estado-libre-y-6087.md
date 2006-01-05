@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2004-10-12"
+last_updated: "2006-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ENERO DE 2006.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -715,7 +715,9 @@ Agotado el turno de oradores, el presidente consultará a la Asamblea si se esti
 
 Aprobado un proyecto de ley o decreto, el presidente, lo remitirá a la Secretaría de Asuntos Parlamentarios para su revisión.
 
-Concluida la revisión por la Secretaría de Asuntos Parlamentarios, la Secretaría hará la remisión al Ejecutivo para los efectos procedentes.
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2006)</small>
+
+Concluida la revisión, se le asignará el número de ley, decreto o acuerdo correspondiente y la remitirá al Ejecutivo para los efectos procedentes.
 
 ###### Artículo 109.
 
@@ -724,6 +726,10 @@ La ley o decreto que expida la Legislatura, deberá ajustarse a los términos de
 ###### Artículo 110.
 
 La ley o decreto aprobados por la Legislatura, se expedirán bajo la siguiente fórmula: "La Honorable (número romano que corresponda) Legislatura del Estado de México decreta:
+
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+
+(número de decreto)
 
 (El texto de la ley o decreto).
 
@@ -1628,3 +1634,9 @@ G.G. 12 DE OCTUBRE DE 2004.
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+G.G. 5 DE ENERO DE 2006.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor el primer día hábil del mes de enero del año 2006.
