@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2005-12-30"
+last_updated: "2006-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ENERO DE 2006.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -65,7 +65,23 @@ VIII. Fomento y desarrollo agropecuario, acuícola y forestal;
 
 IX. Fomento económico;
 
-X. Protección e integración al desarrollo de las personas con capacidades diferentes.
+X. Protección e integración al desarrollo de las personas con capacidades diferentes;
+
+> <small>(ADICIONADA, G.G. 5 DE ENERO DE 2006)</small>
+
+XI. Obra pública;
+
+> <small>(ADICIONADA, G.G. 5 DE ENERO DE 2006)</small>
+
+XII. Adquisiciones, enajenaciones, arrendamientos y servicios;
+
+> <small>(ADICIONADA, G.G. 5 DE ENERO DE 2006)</small>
+
+XIII. Información e investigación geográfica, estadística y catastral; y
+
+> <small>(ADICIONADA, G.G. 5 DE ENERO DE 2006)</small>
+
+XIV. Periódico Oficial del Gobierno del Estado de México.
 
 ###### Artículo 1.
 
@@ -8027,6 +8043,10 @@ La falta de inscripción en dicho catálogo no limitará la libre concurrencia d
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
+### CAPITULO I. Disposiciones generales
+
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+
 ###### Artículo 13.
 
 22.- Los comités son órganos colegiados con facultades de opinión, que tienen por objeto auxiliar a las dependencias, entidades, tribunales administrativos y ayuntamientos, en la preparación y substanciación de los procedimientos de adquisiciones, servicios, arrendamientos y enajenaciones.
@@ -8080,6 +8100,10 @@ V. Las demás que establezca la reglamentación de este Libro.
 26.- La integración y funcionamiento de los comités a que se refiere el presente capitulo, se determinará en la reglamentación de este Libro.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+
+### CAPITULO II. De la dirección del periódico oficial
+
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
 ###### Artículo 13.
 
@@ -8377,6 +8401,10 @@ Toda persona que satisfaga los requisitos de la convocatoria y de las bases de l
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
+### CAPITULO III. Del funcionamiento del periódico oficial
+
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+
 ###### Artículo 13.
 
 51.- La Secretaría de Administración, entidades, tribunales administrativos y ayuntamientos, tendrán a su cargo el trámite de los procedimientos de subasta pública.
@@ -8490,6 +8518,10 @@ El contratista no podrá subcontratar total o parcialmente, el suministro de bie
 El contratista estará obligado a responder de los defectos y vicios ocultos de los bienes y servicios.
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+
+### CAPITULO IV. Del procedimiento de publicación y circulación
+
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
 ###### Artículo 13.
 
@@ -8611,6 +8643,10 @@ Las diferencias que resulten a favor de las contratantes tendrán el carácter d
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
+### CAPITULO V. De la fe de erratas
+
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+
 ###### Artículo 13.
 
 72.- Los contratos abiertos son aquellos instrumentos que permiten a las dependencias, entidades, tribunales administrativos y ayuntamientos, adquirir bienes o contratar servicios por una cantidad y plazo indeterminados, fijando mínimos y máximos, dentro de la asignación presupuestal correspondiente.
@@ -8644,6 +8680,10 @@ II. La Secretaría de la Contraloría la información a que se refieren las frac
 III. La Secretaria de la Contraloría y a los órganos de control interno, la información que les soliciten relacionada con los actos, procedimientos y contratos regulados por este Libro.
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+
+### CAPITULO VI. De las responsabilidades de los servidores públicos
+
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
 ###### Artículo 13.
 
@@ -8826,12 +8866,6 @@ XXI. Cartografía temática. A la representación gráfica de información cuali
 XXII. Sistema de Información Geográfica. Al conjunto de programas de cómputo que permiten almacenar, recuperar, modificar, interrelacionar y analizar espacialmente cualquier tipo de datos e información, con referencia geográfica;
 
 XXIII. Información estadística. Al conjunto de resultados cuantitativos que se obtienen de un proceso sistemático de captación, tratamiento y divulgación de datos primarios obtenidos de los particulares, empresas e instituciones sobre hechos que son relevantes para el estudio de los fenómenos económicos, demográficos y sociales;
-
-XXIV. Estadística básica. A la información que se obtiene en forma directa, a partir de los datos aportados por las dependencias, entidades e instituciones públicas, privadas y sociales generadoras de información, mediante la utilización de los registros administrativos o entrevistas;
-
-XXV. Estadística derivada. A la que mediante la transformación de la estadística básica, establece la asociación e interrelación que guardan los hechos y fenómenos observados, de tal forma que éstos puedan conocerse a través de la construcción de indicadores tales como: tasas, índices, razones y variaciones;
-
-XXVI. Estadística continua. Al flujo de información permanente sobre las características de los hechos y fenómenos demográficos, sociales y económicos, que son captados a través de los registros administrativos;
 
 XXIV. Estadística básica. A la información que se obtiene en forma directa, a partir de los datos aportados por las dependencias, entidades e instituciones públicas, privadas y sociales generadoras de información, mediante la utilización de los registros administrativos o entrevistas;
 
@@ -9549,6 +9583,234 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 61.- Cuando los hechos que contravengan las disposiciones de este Libro y su Reglamento, constituyan un delito, se formulará denuncia o querella ante las autoridades competentes, sin perjuicio de aplicar las sanciones administrativas que correspondan.
 
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 5 DE ENERO DE 2006)</small>
+
+# LIBRO DECIMO QUINTO. Del Periódico Oficial del Gobierno del Estado de México
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 5 DE ENERO DE 2006)</small>
+
+###### Artículo 15.
+
+1.- El presente Libro, tiene por objeto regular la organización, funcionamiento y publicaciones del Periódico Oficial del Gobierno del Estado de México.
+
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+
+###### Artículo 15.
+
+2.- El Periódico Oficial “Gaceta del Gobierno”, es el órgano informativo del Gobierno del Estado Libre y Soberano de México, de carácter permanente e interés público, que tiene por objeto publicar las Leyes, Decretos, Reglamentos, Acuerdos, Notificaciones, Avisos, Manuales y demás disposiciones de carácter general de los Poderes del Estado, Organismos Autónomos, Organismos Auxiliares, Ayuntamientos y de particulares.
+
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+
+###### Artículo 15.
+
+3.- El Periódico Oficial se editará y distribuirá dentro del territorio del Estado de México.
+
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+
+###### Artículo 15.
+
+4.- El Periódico Oficial deberá contener por lo menos los siguientes datos”:
+
+I. La leyenda impresa de “Gobierno del Estado Libre y Soberano de México”;
+
+II. El nombre del Periódico Oficial: “Gaceta del Gobierno”;
+
+III. Fecha y número de publicación;
+
+IV. Un sumario de su contenido;
+
+V. Los escudos Nacional y del Estado de México;
+
+VI. El número de ejemplares impresos.
+
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+
+###### Artículo 15.
+
+5.- El Periódico Oficial será publicado los días hábiles de lunes a viernes, sin embargo, podrá ordenarse su publicación cualquier otro día tratándose de asuntos de vencimientos de plazos o cuando las necesidades del servicio lo requieran.
+
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+
+###### Artículo 15.
+
+6.- El Periódico Oficial será editado con un tiraje suficiente de ejemplares para garantizar su distribución a los Poderes del Estado, Organismos Autónomos, Organismos Auxiliares, Ayuntamientos y destinarlo a la venta a los particulares.
+
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+
+###### Artículo 15.
+
+7.- Para la mejor localización de los documentos publicados en el Periódico Oficial, aparecerá en el mismo, un sumario de su contenido.
+
+Las publicaciones en el Periódico Oficial “Gaceta del Gobierno”, se realizarán en el siguiente orden: Poderes Legislativo, Ejecutivo y Judicial, Organismos Autónomos, Organismos Auxiliares, Ayuntamientos y particulares.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 5 DE ENERO DE 2006)</small>
+
+###### Artículo 15.
+
+8.- La Secretaría General de Gobierno, es la dependencia del Poder Ejecutivo encargada de ordenar la organización, administración, edición, publicación y circulación del Periódico Oficial del Gobierno del Estado de México.
+
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+
+###### Artículo 15.
+
+9.- El responsable del Periódico Oficial, tendrá las siguientes atribuciones:
+
+I. Editarlo, publicarlo y circularlo;
+
+II. Recibir en custodia la documentación que habrá de publicarse;
+
+III. Compilar cronológicamente los ejemplares;
+
+IV. Elaborar los índices anuales de publicaciones;
+
+V. Distribuir el Periódico Oficial en el Estado;
+
+VI. Establecer sistemas de venta y suscripción a los particulares;
+
+VII. Expedir certificaciones de los ejemplares agotados; y
+
+VIII. Las demás que establezcan otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+
+###### Artículo 15.
+
+10.- El responsable del periódico oficial deberá instrumentar los registros de las publicaciones de la Gaceta del Gobierno, entre los cuales deberá contemplar cuando menos los siguientes:
+
+I. Tipo de documento publicado, clasificado por materia;
+
+II. Suscripciones;
+
+III. Control de ejemplares que se doten a dependencias y entidades públicas; y
+
+IV. Donaciones a instituciones privadas.
+
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+
+###### Artículo 15.
+
+11.- El Secretario General de Gobierno provocará lo necesario a fin de que se publiquen los documentos en estricto apego a lo que establece el presente libro.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 5 DE ENERO DE 2006)</small>
+
+###### Artículo 15.
+
+12.- Serán materia de publicación en el Periódico Oficial.
+
+I. Las leyes y decretos expedidos por la Legislatura del Estado, promulgados por el titular del Poder Ejecutivo del Estado;
+
+II. Los reglamentos, decretos, acuerdos y demás disposiciones de carácter general de los poderes Ejecutivo y Judicial, así como de los Organismos Autónomos, Organismos Auxiliares y Ayuntamientos;
+
+III. Los acuerdos y convenios celebrados por el Gobierno del Estado de México, cuando así lo estipulen;
+
+IV. Los actos y resoluciones que la Constitución Política de los Estados Unidos Mexicanos, la propia del Estado de México y las leyes, ordenen que se publiquen;
+
+V. Los actos o resoluciones que así determinen los titulares de los Poderes del Estado de México, u otras autoridades competentes;
+
+VI. Las actas, documentos o avisos de los Organismos Auxiliares de la administración Pública Estatal y municipal, que conforme a la ley, deban ser publicados o se tenga interés en hacerlo; y
+
+VII. Las actas, documentos o avisos de particulares que conforme a la ley, deban ser publicados o tengan interés en hacerlo.
+
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+
+###### Artículo 15.
+
+13.- Para acreditar el contenido de las publicaciones, será suficiente el cotejo del documento presentado con el publicado.
+
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+
+###### Artículo 15.
+
+14. En ningún caso se publicará documento alguno, cualquiera que sea su naturaleza jurídica, si no está debidamente respaldado con la firma o las firmas del responsable o responsables de la publicación.
+
+El documento a publicar deberá presentarse en papel membretado, original y copia, y su respaldo magnético, no se aceptarán documentos con enmendaduras, borrones o letras ilegibles.
+
+Por motivos técnicos, en la publicación del documento se podrá omitir la impresión de la firma; en su lugar deberá aparecer, bajo la mención del nombre del firmante, la palabra “rubrica”, teniendo plena validez jurídica el contenido de la publicación.
+
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+
+###### Artículo 15.
+
+15.- En caso de que el documento presentado no se publique, el pago efectuado se considerará para una publicación posterior.
+
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+
+###### Artículo 15.
+
+16.- Para los efectos de la venta del Periódico Oficial y el pago de los servicios que éste presta, se atenderá a lo establecido en la Ley de Ingresos del Estado del ejercicio fiscal correspondiente.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 5 DE ENERO DE 2006)</small>
+
+###### Artículo 15.
+
+17.- La Secretaría General de Gobierno al recibir los documentos cuya publicación se solicite, acusará el recibo correspondiente, en el que consiste el día y hora de su recepción.
+
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+
+###### Artículo 15.
+
+18.- Los documentos serán publicados dentro de los cinco días hábiles siguientes a la fecha de su recepción en la Secretaría General de Gobierno.
+
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+
+###### Artículo 15.
+
+19.- Se exceptúan de lo dispuesto por el artículo anterior los documentos siguientes:
+
+I. Leyes y decretos que puedan ser objetados por el Gobernador del Estado, los que serán publicados al día hábil siguiente de la fecha en que fenezca el plazo constitucional respectivo;
+
+II. Aquellos que estén sujetos a plazos legales, cuyo vencimiento requiera de su inmediata publicación;
+
+III. Los que excedan de más de 300 páginas y siempre que no se esté en el supuesto de la fracción anterior, serán publicados en los ocho días hábiles siguientes; y
+
+IV. Aquellos cuya publicación este determinada por los Poderes Legislativo, Ejecutivo y Judicial.
+
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+
+###### Artículo 15.
+
+20.- El periódico deberá ponerse en circulación a más tardar el día hábil siguiente de su edición.
+
+Para los efectos del presente artículo, se entiende que el periódico oficial se pone en circulación cuando se encuentre a disposición del público en general para su consulta electrónica, distribución y venta.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 5 DE ENERO DE 2006)</small>
+
+###### Artículo 15.
+
+21.- Fe de erratas, es la corrección o aclaración de las publicaciones hechas en la Gaceta del Gobierno.
+
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+
+###### Artículo 15.
+
+22.- Las fe de erratas serán procedentes, en los siguientes casos:
+
+I.- Por errores de impresión durante la elaboración del Periódico Oficial; y
+
+II.- Por errores en el texto de los documentos originales que contengan la materia de publicación.
+
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+
+###### Artículo 15.
+
+23.- Cuando se trate de errores de impresión, la Secretaría General de Gobierno, por si o a petición del solicitante de la publicación, ordenará la inserción de la fe de erratas.
+
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+
+###### Artículo 15.
+
+24.- Cuando se trate de errores en el contenido del documento original, la Secretaría General de Gobierno a petición del responsable de la publicación ordenará la inserción de la fe de erratas.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 5 DE ENERO DE 2006)</small>
+
+###### Artículo 15.
+
+25.- Los servidores públicos responsables de la publicación del Periódico Oficial, incurrirán en responsabilidad cuando:
+
+I. Dejen de cumplir con las disposiciones que les impone el presente Libro; y
+
+II. Por actos u omisiones que entorpezcan los procedimientos de edición, publicación y circulación del Periódico Oficial.
+
 T R A N S I T O R I O S
 
 ## TITULO TERCERO. De las infracciones y sanciones de las infracciones y sanciones
@@ -9798,3 +10060,9 @@ SEGUNDO.- Este decreto entrará en vigor el primero de enero de dos mil seis.
 TERCERO.- Los Poderes Ejecutivo y Legislativo, en el ámbito de su competencia, proveerán lo necesario para la constitución del Fondo Estatal para la Capacitación de la Micro, Pequeña y Mediana Empresa, estableciendo las previsiones necesarias en el Presupuesto de Egresos del Gobierno del Estado de México para el ejercicio fiscal del año 2006 y posteriores.
 
 CUARTO.- El Ejecutivo del Estado dispondrá lo necesario a efecto de que las reglas de operación del Fondo Estatal para la Capacitación de la Micro, Pequeña y Mediana Empresa, se publicarán en la "Gaceta del Gobierno", dentro de los 30 días siguientes al del inicio de la vigencia del presente decreto.
+
+G.G. 5 DE ENERO DE 2006.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor el primer día hábil del mes de enero del año 2006.
