@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2005-08-23"
+last_updated: "2006-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ENERO DE 2006.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -651,7 +651,9 @@ XXXIV. Elaborar y poner en ejecución programas de financiamiento de los servici
 
 XXXV. Coadyuvar en la ejecución de los planes y programas federales y estatales;
 
-XXXVI. Publicar por lo menos una vez al año la "Gaceta Municipal" como órgano oficial para la publicación de los acuerdos de carácter general tomados por el ayuntamiento y de otros asuntos de interés público;
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2006)</small>
+
+XXXVI. Editar, publicar y circular la "Gaceta Municipal" órgano oficial, cuando menos cada tres meses para la difusión de los acuerdos de carácter general tomados por el ayuntamiento y de otros asuntos de interés público;
 
 XXXVII. Organizar y promover la instrucción cívica que mantenga a los ciudadanos en conocimiento del ejercicio de sus derechos;
 
@@ -2380,3 +2382,9 @@ G.G. 23 DE AGOSTO DE 2005.
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente decreto entrará en vigor a los quince días naturales siguientes al de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 5 DE ENERO DE 2006.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor el primer día hábil del mes de enero del año 2006.
