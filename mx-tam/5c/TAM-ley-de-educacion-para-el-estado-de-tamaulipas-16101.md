@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-16101"
 country: "mx"
 rank: "ley"
 publication_date: "1999-10-23"
-last_updated: "2002-10-16"
+last_updated: "2006-01-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE EDUCACION PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE OCTUBRE DEL 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 23 de octubre de 1999.
 
@@ -57,9 +57,9 @@ II.- Ejecutivo del Estado, el Gobernador Constitucional del Estado;
 
 III.- Estado, el Gobierno del Estado de Tamaulipas;
 
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DEL 2002)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2006)</small>
 
-IV.- Secretaría, la Secretaría de Educación, Cultura y Deporte del Estado;
+IV.- Secretaría, a la Secretaría de Educación;
 
 > <small>(REFORMADA, P.O. 16 DE OCTUBRE DEL 2002)</small>
 
@@ -213,9 +213,9 @@ XVII.- Expedir los Reglamentos de la presente Ley y las disposiciones que de la 
 
 #### SECCION SEGUNDA. ATRIBUCIONES DE LA SECRETARIA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE OCTUBRE DEL 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ENERO DE 2006)</small>
 
-###### ARTICULO 12.
+###### Artículo 12.
 
 Corresponden a la Secretaría las siguientes atribuciones en materia educativa, las cuales podrá delegar en las Subsecretarías correspondientes, sin contravenir las disposiciones jurídicas aplicables:
 
@@ -245,7 +245,9 @@ XII.- Vigilar en los planteles educativos de la Entidad, el cumplimiento de la L
 
 XIII.- Prestar servicios de información y consulta a través de bibliotecas públicas a fin de apoyar al Sistema Educativo Estatal, a la innovación educativa y a la investigación científica, tecnológica y humanística;
 
-XIV.- Fomentar y difundir las actividades de educación física, artísticas, culturales y deportivas en todas sus manifestaciones;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2006)</small>
+
+XIV.- Fomentar las actividades de educación física, artísticas, culturales y deportivas en todas sus manifestaciones;
 
 XV.- Designar el nombre que llevarán las escuelas de nueva creación, de una terna propuesta por las autoridades y padres de familia del plantel; tratándose de nombres de personas, sólo figurarán las ya fallecidas y que hubieran prestado destacados servicios a la sociedad; y
 
@@ -1202,3 +1204,7 @@ Lo dispuesto en el artículo 59 con relación a la impartición del idioma ingl�
 ###### ARTICULO CUARTO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE ENERO DE 2006.
+
+UNICO.- El presente decreto estará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
