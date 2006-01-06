@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fomento-a-las-actividades-de-desarrollo-social-de-16243"
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-23"
-last_updated: "2000-05-23"
+last_updated: "2006-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16243&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-04-24"
 
 LEY DE FOMENTO A LAS ACTIVIDADES DE DESARROLLO SOCIAL DE LAS ORGANIZACIONES CIVILES PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE ENERO DE 2006.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 23 de mayo de 2000.
 
@@ -49,6 +49,8 @@ LEY DE FOMENTO ALAS ACTIVIDADES DE DESARROLLO SOCIAL DE LAS ORGANIZACIONES CIVIL
 ###### Artículo 1.
 
 La presente Ley es de orden público, de interés social y de aplicación en el Distrito Federal y tiene por objeto fomentar las actividades de Desarrollo Social que realicen las organizaciones civiles en beneficio de la población de esta entidad.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 6 DE ENERO DE 2006)</small>
 
 ###### Artículo 2.
 
@@ -247,3 +249,9 @@ Publíquese en la Gaceta Oficial del Distrito Federal para su entrada en vigor y
 Salón de sesiones de la Asamblea Legislativa del Distrito Federal, a 13 de abril del dos mil.- POR LA MESA DIRECTIVA.- DIP. MARIA DE LOS ANGELES CORREA DE LUCIO, PRESIDENTA .- DIP. ELVIRA ALBARRAN RODRIGUEZ, SECRETARIA.- DIP. JESUS EDUARDO TOLEDADO LANDERO, SECRETARIO.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia de la Jefa de Gobierno del Distrito Federal, en la Ciudad de México, a los veinticuatro días del mes de abril de dos mil.- LA JEFA DE GOBIERNO DEL DISTRITO FEDERAL, ROSARIO ROBLES BERLANGA.- FIRMA.- LA SECRETARIA DE DESARROLLO SOCIAL, CLARA JUSIDMAN RAPOPORT.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 6 DE ENERO DE 2006.
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
