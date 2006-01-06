@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-regular-las-actividades-que-realizan-los-2774"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-10-10"
-last_updated: "2002-11-29"
+last_updated: "2006-01-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA REGULAR LAS ACTIVIDADES QUE REALIZAN LOS COMERCIANTES AMBULANTES, DE PUESTOS FIJOS Y SEMI-FIJOS, Y LOS DE MERCADOS SOBRE RUEDAS PARA EL MUNICIPIO DE TIJUANA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE NOVIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ENERO DE 2006.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el sábado 10 de octubre de 1992.
 
@@ -75,9 +75,11 @@ Los permisos otorgados por la Autoridad Municipal para el ejercicio del Comercio
 
 Las personas fisicas afectos al presente Reglamento, por cuanto a las licencias y autorizaciones que permitan el ejercicio de las actividades referidas, quedan sujetos a las disposiciones enmarcadas en la Ley de Ingresos para el Municipio de Tijuana de cada Ejercicio Fiscal que corresponda, y a la Ley de Hacienda Municipal en vigor.
 
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2006)</small>
+
 ###### ARTICULO 7o.
 
-Los permisos y licencias que expida el H. Ayuntamiento de Tijuana a los vendedores sujetos a este Reglamento, tendran el caracter de temporales y su duracion no podra exceder de un ano (sic), cuyo vencimiento cada ano (sic) es en el mes de Enero, mismo que podra prorrogarse a Juicio del propio Ayuntamiento al cumplirse con la normatividad vigente, y cumplimiendo (sic) con las obligaciones fiscales, siempre y cuando las condiciones de vialidad, transito, prestacion de los servicios publicos Municipales y el Desarrollo Urbano de Tijuana lo permitan.
+Los permisos y licencias que expida la Autoridad Municipal a los vendedores sujetos a este Reglamento, tendrán el carácter de temporales y su duración no podrá exceder de un año, cuyo vencimiento cada año es en el mes de Enero, mismo que podrá prorrogarse a Juicio del propio Ayuntamiento al cumplirse con la normatividad vigente, y cumplimiento con las obligaciones fiscales, siempre y cuando las condiciones de vialidad, tránsito, prestación de los servicios públicos Municipales y el Desarrollo Urbano de Tijuana lo permitan.
 
 ###### ARTICULO 8o.
 
@@ -538,3 +540,11 @@ P.O. 29 DE NOVIEMBRE DE 2002.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y publíquese en un periódico local de mayor circulación para conocimiento de la población.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones u ordenamientos que contravengan a la presente reforma.
+
+P.O. 6 DE ENERO DE 2006.
+
+PRIMERO.- El presente acuerdo entrará en vigor al momento de su aprobación, y deberá ser publicado en el periódico Oficial del Estado y en un diario de mayor circulación en el municipio y/o en la gaceta del Ayuntamiento para el conocimiento de los vecinos.
+
+SEGUNDO.- Realícense los ajustes administrativos y presupuestales necesarios a efecto de que el departamento de mercados sobre ruedas dependiente de la Dirección de Regulación municipal, pase a formar parte de la estructura de la Dirección General de Gobierno con todo lo que sea propio y corresponda.
+
+TERCERO.- Se derogan todas aquellas disposiciones municipales que se opongan al presente acuerdo edilicio.
