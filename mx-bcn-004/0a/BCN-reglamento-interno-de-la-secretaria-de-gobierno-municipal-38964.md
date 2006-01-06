@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-de-gobierno-municipal-38964
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-09"
-last_updated: "2005-08-12"
+last_updated: "2006-01-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38964&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SECRETARIA DE GOBIERNO MUNICIPAL DE TIJUANA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ENERO DE 2006.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 9 de abril de 2004.
 
@@ -147,15 +147,37 @@ II.- Departamento Administrativo;
 
 III.- Oficialía del Registro Civil;
 
-IV.- (DEROGADA, P.O. 4 DE FEBRERO DE 2005)
+> <small>(ADICIONADA, P.O. 6 DE ENERO DE 2006)</small>
 
-> <small>(REFORMADA, P.O. 20 DE MAYO DE 2005)</small>
+IV.- Junta Municipal de Reclutamiento;
 
-V.- Junta Municipal de Reclutamiento y;
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2006)</small>
 
-> <small>(REFORMADA, P.O. 20 DE MAYO DE 2005)</small>
+V.- Departamento de Asuntos de Gobierno, y
 
-VI.- Departamento de Asuntos de Gobierno.
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2006)</small>
+
+VI.- Departamento de mercados sobre ruedas y promocionales, que tendrá las siguientes atribuciones:
+
+a. Llevar el control de expedientes y archivo a escala municipal, de permisos anuales otorgados para el ejercicio del comercio ambulante en su modalidad de mercados sobre ruedas y promociónales;
+
+b. Recepción y archivo de actas, avisos e infracciones giradas por la Dirección y Jefaturas delegacionales de Inspección y Verificación, con el fin de conformar antecedentes en los expedientes de los permisionarios;
+
+c. Facilitar a la Dirección de Inspección y Vigilancia por instrucciones del Director General de Gobierno los expedientes que le sean solicitados para alguna diligencia;
+
+d. Llevar acabo (sic) en tiempo y forma, la revalidación de permisos de mercados sobre ruedas;
+
+e. Tomar la fotografía digital a los permisionarios autorizados que todavía no cuentan con gafete anual;
+
+f. Recepción de documentos para tramites de revalidación y regularización de permisos, previa autorización de la dirección general de gobierno;
+
+g. Verificar en la tesorería municipal que el permisionario no presente adeudos anteriores, en caso contrario, solicitar el pago de Derechos correspondiente;
+
+h. Captura de datos, emisión y entrega de gafetes por computadora de los permisos anuales nuevos ó revalidados;
+
+i. Conformar, presentar informes y reportes de forma mensual de las actividades y estadísticas totales de: revalidaciones, regularizaciones, constancias, copias certificadas emitidas, solicitudes recibidas, permisos nuevos otorgados, renovaciones y cancelaciones, bajas de permisos e ingresos percibidos por diversos conceptos, y
+
+j. Proporcionar datos e informes de manera veraz y objetiva a la Dirección General de Gobierno, con el fin de facilitar la elaboración del presupuesto de ingresos y egresos por el rubro de revalidación, altas y emisión de gafetes para mercados sobre ruedas.
 
 VII.- (DEROGADA, P.O. 20 DE MAYO DE 2005)
 
@@ -849,6 +871,8 @@ TERCERO: Publíquese en un periódico de mayor circulación para conocimiento p�
 
 P.O. 8 DE ABRIL DE 2005.
 
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
 PRIMERO.- Las presentes adiciones y Reglamento Interno de la Procuraduría para la Promoción y Control del Desarrollo Urbano del Municipio de Tijuana, Baja California entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y deberá publicarse en un diario de mayor circulación en el Municipio de Tijuana y/o Gaceta Municipal, para el conocimiento de los vecinos.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a las presentes adiciones.
@@ -874,3 +898,11 @@ Publíquese en el Periódico Oficial del Estado y/o en la Gaceta Municipal y en 
 ###### ARTICULO CUARTO.
 
 Las presentes reformas y adiciones así como el REGLAMENTO INTERNO DE LA DIRECCION MUNICIPAL DEL TRANSPORTE PUBLICO DE TIJUANA B.C, entraran en vigor al momento de su aprobación y publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE ENERO DE 2006.
+
+PRIMERO.- El presente acuerdo entrara en vigor al momento de su aprobación, y deberá ser publicado en el periódico Oficial del Estado y en un diario de mayor circulación en el municipio y/o en la gaceta del Ayuntamiento para el conocimiento de los vecinos.
+
+SEGUNDO.- Realícense los ajustes administrativos y presupuestales necesarios a efecto de que el departamento de mercados sobre ruedas dependiente de la Dirección de Regulación municipal, pase a formar parte de la estructura de la Dirección General de Gobierno con todo lo que le sea propio y corresponda.
+
+TERCERO.- Se derogan todas aquellas disposiciones municipales que se opongan al presente acuerdo edilicio.
