@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-venta-almacenaje-y-consumo-publico-de-25686"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-03"
-last_updated: "2005-06-24"
+last_updated: "2006-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA LA VENTA, ALMACENAJE Y CONSUMO PÚBLICO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2005.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 24 DE JUNIO DE 2005.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2006.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 3 de mayo de 2002.
 
@@ -1087,13 +1085,19 @@ II.- Utilización de la fuerza pública.
 
 ### CAPITULO DECIMO SEGUNDO. DE LAS SANCIONES Y MEDIDAS DE SEGURIDAD
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ENERO DE 2006)</small>
+
 ###### ARTICULO 74.
 
-Las infracciones que se cometan al presente reglamento, serán sancionadas en los términos de los artículos 27, 28, 29 y 30 de la Ley para la Venta y Consumo Público de Bebidas Alcohólicas del Estado de Baja California, cuando se presuma que los hechos encontrados revisten carácter delictivo, se procederá a dar parte a la autoridad competente.
+Las infracciones que se cometan al presente reglamento, serán sancionadas en los términos de los artículos 27, 28, 29 y 30 de la Ley para la Venta y Consumo Público de Bebidas Alcohólicas del Estado de Baja California y cuando se presuma que los hechos encontrados revisten carácter delictivo, se procederá a dar parte a la autoridad competente.
 
 La clausura directa procede además de lo estipulado por la ley, por infringir lo establecido en las fracciones I, IV, V y VI del artículo 51 del presente reglamento.
 
 Si dentro del establecimiento que deba ser clausurado se encuentra mercancía susceptible de descomposición o deterioro, se apercibirá al interesado para que retire esos bienes antes de que se coloquen los sellos de clausura. Si no lo hace se procederá a la clausura, asentando en el acta la negativa del titular.
+
+> <small>(ADICIONADO, P.O. 6 DE ENERO DE 2006)</small>
+
+Así mismo se impondrá multa de cien a mil quinientos días de salario mínimo vigente a quien incurra en las infracciones previstas en las fracciones I y II de artículo 51 de este ordenamiento.
 
 ###### ARTICULO 75.
 
@@ -1326,3 +1330,7 @@ Se derogan todas aquellas disposiciones que se opongan a las presentes reformas.
 ###### ARTICULO TERCERO.
 
 Publíquense las presentes (sic) en la Gaceta Municipal y/o un diario de mayor circulación municipal, para conocimiento de los ciudadanos.
+
+P.O. 6 DE ENERO DE 2006.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL FEDERAL VIGENTE.
