@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-periodico-oficial-el-estado-de-jalisco-18503"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2000-10-05"
+last_updated: "2006-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL PERIODICO OFICIAL "EL ESTADO DE JALISCO"
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 2006.
 
 Ley publicada en la Sección Sexta del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -231,6 +231,34 @@ En todos los demás casos el Director sólo podrá publicar fe de erratas cuando
 
 Todas las correcciones o aclaraciones que sufra el Periódico Oficial en su formato impreso deberán reproducirse electrónicamente, salvo que se trate de alteraciones provocadas por violación a la página electrónica en cuyo caso su corrección deberá operar inmediatamente después de que se tenga conocimiento de ellas.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE ENERO DE 2006)</small>
+
+### CAPITULO IV. De la Divulgación de las Leyes
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2006)</small>
+
+###### Artículo 29.
+
+Una vez que las leyes y decretos legislativos hubieren sido publicados en el Periódico Oficial “El Estado de Jalisco”, el Director podrá ordenar su reproducción o un extracto en cuando menos uno de los periódicos de mayor circulación en la entidad, de acuerdo a la disponibilidad presupuestal.
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2006)</small>
+
+###### Artículo 30.
+
+Los días 15 de los meses de enero, marzo, mayo julio, septiembre y noviembre podrán ser reproducidos en cuando menos uno de los periódicos de mayor circulación en la entidad, extracto de las leyes y decretos legislativos que hubieren sido publicados en el periódico oficial “El Estado de Jalisco” durante el bimestre inmediato anterior, de acuerdo al programa de divulgación que para el efecto se formule tomando en consideración la disponibilidad presupuestal.
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2006)</small>
+
+###### Artículo 31.
+
+La reproducción a que hace referencia el artículo anterior, en su caso deberá ser autorizada con las firmas del Secretario General de Gobierno y del Director de Publicaciones del Periódico Oficial “El Estado de Jalisco” y deberá aparecer con un sello al margen que diga “Poder Ejecutivo de Jalisco-Estados Unidos Mexicanos”, mismo que solo tendrá efectos informativos y no oficiales.
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2006)</small>
+
+###### Artículo 32.
+
+De la fidelidad de los textos publicados en el periódico de mayor circulación en el Estado, responderá de acuerdo a la normatividad aplicable el Director de Publicaciones del Periódico Oficial “El Estado de Jalisco” y solo los errores imputables al medio elegido le eximirán de responsabilidad.
+
 ## TRANSITORIOS
 
 PRIMERO.- La presente ley entrará en vigor a los 30 treinta días de su publicación en el Periódico Oficial "El Estado de Jalisco".
@@ -241,9 +269,7 @@ TERCERO.- El Titular del poder Ejecutivo expedirá el Reglamento Interior del Pe
 
 CUARTO.- La página del Periódico Oficial en formato electrónico, empezará a operar dentro de los sesenta días siguientes a partir de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
-SALÓN DE SESIONES DEL CONGRESO DEL ESTADO
-
-GUADALAJARA, JALISCO, 12 DE SEPTIEMBRE DEL 2000
+SALÓN DE SESIONES DEL CONGRESO DEL ESTADO GUADALAJARA, JALISCO, 12 DE SEPTIEMBRE DEL 2000
 
 DIPUTADO PRESIDENTE
 
@@ -268,3 +294,9 @@ ING. ALBERTO CÁRDENAS JIMÉNEZ
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FELIPE DE JESÚS PRECIADO CORONADO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 7 DE ENERO DE 2006.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
