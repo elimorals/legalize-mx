@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40056"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2005-11-22"
+last_updated: "2006-01-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40056&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LEY ORGANICA DEL PODER LEGISLATIVO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 2006.
 
 Reglamento publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 19 de junio de 2004.
 
@@ -943,9 +943,9 @@ IX. Las demás que les sean encomendadas a través de los procedimientos y facul
 
 ###### Artículo 106.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ENERO DE 2006)</small>
 
-1. Además de las atribuciones que señala la Ley Orgánica del Poder Legislativo el Secretario General del Congreso tendrá las siguientes obligaciones:
+1. Además de las atribuciones que señala la Ley Orgánica del Poder Legislativo, el Secretario General del Congreso tendrá las siguientes obligaciones:
 
 I. Coordinar previo acuerdo con la Comisión de Administración sus actividades y verificar que el personal a su cargo desempeñe sus funciones con apego a la normatividad aplicable;
 
@@ -1031,9 +1031,13 @@ XXXII. Disponer lo conducente a efecto de diseñar, desarrollar y mantener los s
 
 (ADICIONADA, P.O. 17 DE MARZO DE 2005) (F. DE E., P.O. 14 DE MAYO DE 2005)
 
-XXXIII. Foliar con el número progresivo anual que corresponda, las iniciativas presentadas en la Asamblea y acusar de recibo a los autores; y
+XXXIII. Foliar con el número progresivo anual que corresponda, las iniciativas presentadas en la Asamblea y acusar de recibo a los autores; y (sic)
 
-XXXIV. Las demás que señale este reglamento o acuerde la Asamblea.
+> <small>(ADICIONADA, P.O. 7 DE ENERO DE 2006)</small>
+
+XXXIV. Divulgar la Legislación del Estado de Jalisco, a través de los módulos de información y enlace establecidos por el Congreso del Estado en las distintas regiones de la entidad conforme a la disponibilidad presupuestal; y
+
+XXXV. Las demás que señale este reglamento o acuerde la Asamblea.
 
 ###### Artículo 107.
 
@@ -2162,3 +2166,7 @@ UNICO.- El presente decreto entrara en vigor al día siguiente de su publicació
 P.O. 22 DE NOVIEMBRE DE 2005.
 
 ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco.
+
+P.O. 7 DE ENERO DE 2006.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
