@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-readaptacion-juvenil-6232"
 country: "mx"
 rank: "ley"
 publication_date: "1958-08-09"
-last_updated: "1998-03-05"
+last_updated: "2006-01-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6232&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY DE READAPTACION JUVENIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MARZO DE 1998.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE MENORES INFRACTORES DEL ESTADO DE JALISCO, PUBLICADA EN EL P.O. DE 7 DE ENERO DE 2006., EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 9 de agosto de 1958.
 
@@ -464,3 +466,17 @@ Segundo. Los mayores de 16 años y menores de 18 que se encuentren actualmente p
 P.O. 5 DE MARZO DE 1998.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 7 DE ENERO DE 2006.
+
+Primero.- Publíquese el presente decreto en el Periódico Oficial "El Estado de Jalisco".
+
+Segundo.- Previo a la entrada en vigor del presente dictamen el Ejecutivo del Estado, deberá realizar las adecuaciones presupuestales necesarias para complementar lo señalado en el presente decreto.
+
+Tercero.- A la entrada en vigor del presente decreto se abroga la Ley de Readaptación Juvenil aprobada mediante decreto 7262 y publicado el 9 de agosto de 1958.
+
+Los menores sujetos a procedimiento por alguna infracción penal, o que se encuentren cumpliendo una sanción de conformidad a la Ley que se abroga podrán sujetarse al procedimiento señalado en la Ley de Menores Infractores del Estado de Jalisco, contenida en este decreto.
+
+Cuarto.- A la entrada en vigor de la presente ley, el Ejecutivo del Estado deberá tener conformado el Tribunal Estatal de Justicia para Menores, para lo cual realizará las adecuaciones normativas y presupuestales necesarias.
+
+Quinto.- Esta ley entrará en vigor el día 1 de enero del 2007.
