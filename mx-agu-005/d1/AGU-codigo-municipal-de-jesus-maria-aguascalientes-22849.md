@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-jesus-maria-aguascalientes-22849"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-24"
-last_updated: "2005-02-07"
+last_updated: "2006-01-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22849&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE JESUS MARIA, AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE FEBRERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ENERO DE 2006.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de diciembre de 2001.
 
@@ -774,7 +774,7 @@ En el caso de que se decida la remoción de un funcionario o empleado municipal,
 
 ### CAPITULO PRIMERO. De las Dependencias
 
-> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2006)</small>
 
 ###### ARTICULO 96.
 
@@ -782,155 +782,153 @@ Para el ejercicio de sus atribuciones y responsabilidades ejecutivas, el Ayuntam
 
 I. PRESIDENCIA MUNICIPAL:
 
-Secretaría del Ayuntamiento y Dirección General de Gobierno;
+Secretaría del H. Ayuntamiento y Dirección General de Gobierno.
 
-Secretaría Particular
+Secretaría Particular.
 
-Comité para el Desarrollo Integral de la Familia
+Comité para el Desarrollo Integral de la Familia.
 
-Dirección de Desarrollo Urbano y Obra Pública
+Dirección de Desarrollo Urbano y Obra Pública.
 
-Dirección de Desarrollo Humano y Social
+Dirección de Desarrollo Humano y Social.
 
-Dirección de Servicios Públicos Municipales
+Dirección de Servicios Públicos Municipales.
 
-Coordinación de Comunicación Social
+Dirección de Comunicación Social.
 
-Dirección de Seguridad Pública, Tránsito y Vialidad
+Dirección de Seguridad Pública, Tránsito y Vialidad.
 
-Dirección de Asuntos Jurídicos
+Dirección de Asuntos Jurídicos.
 
-Dirección de Finanzas
+Dirección de Finanzas.
 
-Dirección de Gestión Administrativa
+Dirección de Administración.
 
-Coordinación General de Asesores
+Coordinación General de Asesores.
 
-II. SECRETARIA DEL AYUNTAMIENTO Y DIRECCION GENERAL DE GOBIERNO:
+Dirección de Contraloría.
 
-Departamento de Acción Cívica
+Dirección de Salud Pública.
 
-Departamento de Archivo Municipal
+II. SECRETARIA DEL H. AYUNTAMIENTO Y DIRECCION GENERAL DE GOBIERNO:
 
-Coordinación de Delegaciones
+Departamento de Acción Cívica.
 
-Delegaciones Municipales
+Departamento de Archivo Municipal.
 
-Dirección de Asuntos Jurídicos
+Departamento de Delegaciones Municipales.
 
-Departamento de Control Reglamentario
+Departamento de Control Reglamentario.
 
-Departamento Jurídico
-
-Departamento de Jueces Calificadores
-
-III. SECRETARIA PARTICULAR:
-
-Departamento de Participación Ciudadana
-
-Departamento de Atención a la Ciudadanía y Giras.
-
-IV. COMITE PARA EL DESARROLLO INTEGRAL DE LA FAMILIA:
-
-Presidencia del DIF Municipal;
-
-Secretaría Particular del DIF
-
-Dirección General del DIF
-
-Departamento Administrativo
-
-Departamento de Servicios Médicos
-
-Departamento de Trabajo Social
-
-Departamento de Salud Mental
-
-Departamento de Programas y Políticas Públicas para la Familia
-
-Departamento de Atención a las Personas de la Senectud
-
-Departamento de CENDI
+Departamento de Jueces Calificadores.
 
 Departamento Jurídico.
 
-V. DIRECCION DE DESARROLLO URBANO Y OBRA PUBLICA
+Departamento de Protección Civil.
 
-Departamento de Control Urbano
+III. COMITE PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
-Departamento de Construcción y Conservación de Obras Públicas
+IV. DIRECCION DE DESARROLLO URBANO Y OBRA PUBLICA:
 
-Departamento de Supervisión, Licitación y Control de Calidad
+Departamento de Control Urbano.
 
-Departamento de Proyectos y Expedientes Técnicos.
+Departamento de Fraccionamientos.
 
-VI. DIRECCION DE DESARROLLO HUMANO Y SOCIAL:
+Departamento de Construcción y Conservación de Obras Públicas.
 
-Departamento de Fomento Agropecuario y Rural
+Departamento de Supervisión y Control de Calidad.
 
-Departamento de Programas y Políticas Públicas
+Departamento de Proyectos.
 
-Departamento de Fomento Económico
+Departamento de Licitación y Expedientes Técnicos.
 
-Departamento de Educación, Cultura y Deportes:
+Departamento de Ecología y Protección Ambiental.
 
-VII. DIRECCION DE SERVICIOS PUBLICOS MUNICIPALES:
+V. DIRECCION DE DESARROLLO HUMANO Y SOCIAL:
 
-Departamento de Estética Urbana
+Departamento de Fomento Agropecuario y Rural.
 
-Departamento de Areas Comerciales
+Departamento de Participación Ciudadana.
 
-Departamento de Rastro Municipal
+Departamento de Apoyo a la Juventud.
 
-Departamento de Ecología
+Departamento de Programas y Política Públicas.
+
+Departamento de Desarrollo Económico.
+
+Departamento de Educación, Cultura y Deportes.
+
+VI. DIRECCION DE SERVICIOS PUBLICOS MUNICIPALES:
+
+Departamento de Panteones y Areas Comerciales.
+
+Departamento de Limpieza y Aseo Público.
+
+Departamento de Parques, Jardines, Alumbrado Público y Relojes.
+
+Departamento de Rastro Municipal.
 
 Departamento de Regulación Sanitaria.
 
-VIII. COORDINACIÓN DE COMUNICACIÓN SOCIAL:
+VII. DIRECCION DE COMUNICACION SOCIAL:
 
-Departamento de Producción Gráfica y Videoproducción
+Departamento de Producción Gráfica y Video.
 
-Departamento de Relaciones Públicas.
+Departamento de Producción e Información.
 
-IX. DIRECCION GENERAL DE SEGURIDAD PUBLICA, TRANSITO Y VIALIDAD:
+VIII. DIRECCION GENERAL DE SEGURIDAD PUBLICA, TRANSITO Y VIALIDAD:
 
-Subdirección de Tránsito y Vialidad
-
-Subdirección de Seguridad Pública
-
-Jefatura Operativa
-
-Departamento de Protección Civil
+Sub-dirección de Tránsito y Vialidad.
 
 Departamento Administrativo.
 
-X. DIRECCION DE FINANZAS:
+IX. DIRECCION DE FINANZAS:
 
-Departamento de Ingresos
+Departamento de Ingresos.
 
-Departamento de Egresos y Programación
+Departamento de Egresos y Programación.
 
-Departamento de Participaciones Federales
+Departamento de Participaciones Federales.
 
-Departamento de Catastro
+Departamento de Catastro.
 
-Departamento de Contabilidad e Información Financiera.
+Departamento de Contabilidad e Información.
 
-XI. DIRECCION DE GESTION ADMINISTRATIVA:
+X. DIRECCION DE ADMINISTRACION:
 
-Departamento de Recursos Humanos
+Departamento de Recursos Humanos.
 
-Departamento de Servicios Generales
+Departamento de Servicios Generales.
 
-Departamento de Redes e Informática
+Departamento de Redes e Informática.
 
-Oficialía de Compras y Adquisiciones.
+Departamento de Capacitación y Adiestramiento.
 
-XII. COORDINACION GENERAL DE ASESORES:
+Departamento de Compras y Adquisiciones.
 
-Coordinación de Mejora Gubernamental y Proyectos Especiales.
+XI. COORDINACION GENERAL DE ASESORES:
 
-Coordinación de Asuntos Reglamentarios y Jurídicos.
+Director de Mejora Gubernamental y Proyectos Especiales.
+
+Director de Asuntos Reglamentarios y Jurídicos.
+
+Departamento de Enlace.
+
+XII.- DIRECCION DE CONTRALORIA:
+
+Departamento de Auditoría Contable y Fiscal.
+
+Departamento de Auditoria Administrativa y Gestión.
+
+Departamento de Auditoria de Obra y Servicios Públicos.
+
+Departamento de Auditoria de Participaciones Federales.
+
+XIII.- DIRECCION DE SALUD PUBLICA:
+
+Departamento de Salud.
+
+XIV.- DIRECCION DE ASUNTOS JURIDICOS.
 
 > <small>(ADICIONADO, P.O. 17 DE MARZO DE 2003)</small>
 
@@ -14275,3 +14273,7 @@ UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicaci�
 P.O. 7 DE FEBRERO DE 2005.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MOFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 9 DE ENERO DE 2006.
+
+UNICO.- La presente reforma al Artículo 96 del Código Municipal de Jesús María, Ags., entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes".
