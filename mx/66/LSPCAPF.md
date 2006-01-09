@@ -4,7 +4,7 @@ identifier: "LSPCAPF"
 country: "mx"
 rank: "ley"
 publication_date: "2003-04-10"
-last_updated: "2005-09-01"
+last_updated: "2006-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29842&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSPCAPF"
 
 LEY DEL SERVICIO PROFESIONAL DE CARRERA EN LA ADMINISTRACION PUBLICA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE SEPTIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE ENERO DE 2006.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 10 de abril de 2003.
 
@@ -60,7 +60,9 @@ El Sistema de Servicio Profesional de Carrera es un mecanismo para garantizar la
 
 El Sistema dependerá del titular del Poder Ejecutivo Federal, será dirigido por la Secretaría de la Función Pública y su operación estará a cargo de cada una de las dependencias de la Administración Pública.
 
-Serán principios rectores de este Sistema: la legalidad, eficiencia, objetividad, calidad, imparcialidad, equidad y competencia por mérito.
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 2006)</small>
+
+Serán principios rectores de este Sistema: la legalidad, eficiencia, objetividad, calidad, imparcialidad, equidad, competencia por mérito y equidad de género.
 
 ###### Artículo 3.
 
@@ -224,9 +226,13 @@ b) La especialización, actualización y educación formal en el cargo desempeñ
 
 c) Las aptitudes y actitudes necesarias para ocupar otros cargos de igual o mayor responsabilidad;
 
-d) La posibilidad de superarse institucional, profesional y personalmente dentro de la dependencia, y
+d) La posibilidad de superarse institucional, profesional y personalmente dentro de la dependencia, y (sic)
 
 e) Las habilidades necesarias para certificar las capacidades profesionales adquiridas.
+
+> <small>(ADICIONADO, D.O.F. 9 DE ENERO DE 2006)</small>
+
+f) Las condiciones objetivas para propiciar igualdad de oportunidades de capacitación para mujeres y hombres.
 
 V. Subsistema de Evaluación del Desempeño. Su propósito es establecer los mecanismos de medición y valoración del desempeño y la productividad de los servidores públicos de carrera, que serán a su vez los parámetros para obtener ascensos, promociones, premios y estímulos, así como garantizar la estabilidad laboral;
 
@@ -252,7 +258,9 @@ I. Registrará y procesará la información necesaria para la definición de los
 
 II. Operará el Registro;
 
-III. Calculará las necesidades cuantitativas de personal, en coordinación con las dependencias y con base en el Registro, considerando los efectos de los cambios en las estructuras organizacionales, la rotación, retiro y separación de los servidores públicos sujetos a esta Ley, con el fin de que la estructura de la Administración Pública tenga el número de servidores públicos adecuado para su buen funcionamiento y permita la movilidad de los miembros del Sistema;
+> <small>(REFORMADA, D.O.F. 9 DE ENERO DE 2006)</small>
+
+III. Calculará las necesidades cuantitativas de personal, en coordinación con las dependencias y con base en el Registro, considerando los efectos de los cambios en las estructuras organizacionales, la rotación, retiro, y separación de los servidores públicos sujetos a esta Ley, con el fin de que la estructura de la Administración Pública tenga el número de servidores públicos adecuado para su buen funcionamiento y, acorde con los principios rectores de este Sistema, promueva y garantice la equidad de género y permita la movilidad de los miembros del Sistema;
 
 IV. Elaborará estudios prospectivos de los escenarios futuros de la Administración Pública para determinar las necesidades de formación que requerirá la misma en el corto y mediano plazos, con el fin de permitir a los miembros del Sistema cubrir los perfiles demandados por los diferentes cargos establecidos en el Catálogo;
 
@@ -362,6 +370,10 @@ La Secretaría emitirá las guías y lineamientos generales para la elaboración
 
 Para la calificación definitiva, los Comités aplicarán estos instrumentos, conforme a las reglas de valoración o sistema de puntaje.
 
+> <small>(ADICIONADO, D.O.F. 9 DE ENERO DE 2006)</small>
+
+En cualquier caso, los comités pugnarán porque prevalezcan los principios rectores a los que hace referencia el artículo 2 de esta Ley.
+
 ###### Artículo 31.
 
 El examen de conocimientos, la experiencia y la aptitud en los cargos inmediatos inferiores de la vacante serán elementos importantes en la valoración para ocupar un cargo público de carrera. No será elemento único de valoración el resultado del examen de conocimientos, excepto cuando los aspirantes no obtengan una calificación mínima aprobatoria.
@@ -370,7 +382,9 @@ El examen de conocimientos, la experiencia y la aptitud en los cargos inmediatos
 
 Cada dependencia, en coordinación con la Secretaría establecerá los parámetros mínimos de calificación para acceder a los diferentes cargos. Los candidatos que no cumplan con la calificación mínima establecida no podrán continuar con las siguientes etapas del procedimiento de selección.
 
-En igualdad de condiciones, tendrán preferencia los servidores públicos de la misma dependencia.
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 2006)</small>
+
+En igualdad de condiciones, tendrán preferencia los servidores públicos de la misma dependencia, procurando el equilibrio entre ambos géneros.
 
 ###### Artículo 33.
 
@@ -815,3 +829,7 @@ La Secretaría de Relaciones Exteriores, deberá coordinar la integración de la
 Tercero.- En tanto no entre en vigor la normatividad que formule el Congreso a la que se hace mención en el Primer Transitorio de este Decreto, las plazas vacantes en la Secretaría de Relaciones Exteriores serán cubiertas, indistintamente, por miembros del Servicio Exterior Mexicano y/o los servidores públicos de la Secretaría de Relaciones Exteriores no miembros del Servicio Exterior que ocupan plaza de estructura del nivel de Enlace a Director General y que no se encuentren en los llamados Gabinetes de Apoyo referidos en la Ley del Servicio Profesional de Carrera de la Administración Pública Federal. En el caso de plazas vacantes del nivel de Enlace, éstas podrán ser ocupadas indistintamente por miembros del Servicio Exterior Mexicano y/o servidores públicos no miembros del Servicio Exterior Mexicano, en el entendido de que estos últimos serán considerados como servidores públicos de libre designación en tanto no se emitan las disposiciones del régimen jurídico señalado en el Primer Transitorio de este Decreto.
 
 Cuarto.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE ENERO DE 2006.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
