@@ -4,7 +4,7 @@ identifier: "COA-ley-sobre-el-escudo-del-estado-de-coahuila-y-el-himno-45091"
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-20"
-last_updated: "2005-05-20"
+last_updated: "2006-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45091&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY SOBRE EL ESCUDO DEL ESTADO DE COAHUILA Y EL HIMNO COAHUILENSE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ENERO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 20 de mayo del 2005.
 
@@ -63,9 +63,11 @@ La Secretaría de Educación Pública del Estado definirá y dictará las medida
 
 ### CAPÍTULO SEGUNDO. EL ESCUDO DE COAHUILA
 
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2006)</small>
+
 ###### ARTÍCULO CUARTO.
 
-El escudo del Estado de Coahuila de Zaragoza representa la historia, costumbre y valores del pueblo coahuilense. El Escudo será la insignia privativa del Estado de Coahuila de Zaragoza. Será cortinado, en cuyo mantel inferior representase, sobre fondo azul, el nombre indígena de Coahuila, que significa arboleda y cuyo nombre le vino indudablemente de los frondosos nocedales que crecían en el manantial más caudaloso del ahora municipio de Monclova, población que, a pesar de sus sucesivas designaciones, continuó llamándose con admirable persistencia San Francisco de Coahuila o, simplemente, Coahuila, que dio su gentilicio a la tribu coahuilteca y su designación al río que hoy lleva el nombre de Monclova. De la nogalera emerge un sol de gules para simbolizar que en Coahuila nació la revolución mexicana. La cortina de la diestra recuerda que la porción austral del territorio que hoy forma el Estado de Coahuila, perteneció hasta el año de 1887 a la Nueva Vizcaya, cuyas son las armas que figuran en esta cortina y que no son otras que las de la vieja provincia vascongada del mismo nombre; sobre campo de azul, un árbol y dos lobos atravesados, introduciéndose la variante del cambio del fondo azul por otro de plata. La cortina siniestra contiene, con la única variante de que el fondo de azul fue cambiado por uno de oro, el escudo de la ciudad de Badajoz, que lo es a su vez de la provincia de Extremadura, representándose con ello el hecho histórico de que la porción del ahora Estado de Coahuila situada al norte de los veintiséis grados de latitud boreal tenía el nombre de Nueva Extremadura. Las armas se componen de un león rampante de gules apoyado en una columna de plata, con la leyenda latina: “Plus Ultra”. En la bordura del escudo de armas, la inscripción: Coahuila de Zaragoza.
+El escudo del Estado de Coahuila de Zaragoza representa la historia, costumbre y valores del pueblo coahuilense. El Escudo será la insignia privativa del Estado de Coahuila de Zaragoza. Será cortinado, en cuyo mantel inferior representase, sobre fondo azul, el nombre indígena de Coahuila, que significa arboleda y cuyo nombre le vino indudablemente de los frondosos nocedales que crecían en el manantial más caudaloso del ahora municipio de Monclava, población que, a pesar de sus sucesivas designaciones, continuó llamándose con admirable persistencia San Francisco de Coahuila o, simplemente, Coahuila, que dio su gentilicio a la tribu coahuilteca y su designación al río que hoy lleva el nombre de Monclava. De la nogalera emerge un sol de gules para simobolizar que en Coahuila nació la revolución mexicana. La cortina de la diestra recuerda que la porción austral del territorio que hoy forma el Estado de Coahuila, perteneció hasta el año de 1787 a la Nueva Vizcaya, cuyas armas son las que figuran en esta cortina y que no son otras que las de la vieja provincia vascongada del mismo nombre; sobre campo de azul, un árbol y dos lobos atravesados, introduciéndose la variante del cambio del fondo azul por otro de plata. La cortina siniestra contiene, con la única variante de que el fondo de azul fue cambiado por uno de oro, el escudo de la ciudad de Badajoz, que lo es a su vez de la provincia de Extremadura, representándose con ello el hecho histórico de que la porción del ahora Estado de Coahuila situada al norte de los veintiséis grados de latitud boreal tenía el nombre de Nueva Extremadura. Las armas se componen de un león rampante de gules apoyado en una columna de plata, con la leyenda latina: “Plus Ultra”. En la bordura del escudo de armas, la inscripción: Coahuila de Zaragoza.
 
 ###### ARTÍCULO QUINTO.
 
@@ -331,6 +333,10 @@ En todos los planteles educativos del nivel preescolar, primaria y secundaria, p
 
 Por tanto, la Secretaría de Educación Pública difundirá el Himno Coahuilense y su correcta ejecución entre los maestros, padres de familia y alumnos de dichos planteles.
 
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2006)</small>
+
+Cada año la Secretaría de Educación Pública convocará a un concurso de coros infantiles sobre la interpretación del Himno Coahuilense, en el que participarán los alumnos de enseñanza preescolar, primaria y secundaria del Sistema Educativo Estatal.
+
 ###### ARTÍCULO VIGÉSIMO.
 
 Las estaciones de radio y televisión podrán trasmitir el Himno Coahuilense de manera integra o fragmentariamente, previa autorización de la Secretaría de Gobierno.
@@ -418,3 +424,23 @@ LA SECRETARIA DE EDUCACIÓN PÚBLICA
 MTRA. MA. DE LOS ÁNGELES ERRISÚRIZ ALARCÓN
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 10 DE ENERO DE 2006.
+
+DECRETO NÚMERO 563.
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este decreto.
+
+TERCERO. Se autoriza a la Secretaría de Gobierno para que lleve a cabo la corrección, en el modelo autenticado del Escudo de Coahuila, de la fecha contenida en el mismo a fin de que se reproduzca en él la señalada en ese decreto y lo entregue debidamente corregido al Instituto Coahuilense de Acceso a la Información.
+
+P.O. 10 DE ENERO DE 2006.
+
+DECRETO NÚMERO 564.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La convocatoria al concurso de interpretación será hecha por la Secretaría de Educación el 30 de abril de cada año.
