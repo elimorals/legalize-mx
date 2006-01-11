@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-44-de-coordinacion-fiscal-para-el-estado-y-los-15983
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-30"
-last_updated: "2005-01-12"
+last_updated: "2006-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15983&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NUMERO 44 DE COORDINACION FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE ENERO DE 2006.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 30 de diciembre de 1999.
 
@@ -789,13 +789,13 @@ DISTRIBUCIÓN
 
 TOTAL 1.00000000000
 
-> <small>(REFORMADO, G.O. 12 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, G.O. 11 DE ENERO DE 2006)</small>
 
-Artículo tercero.- Para el Ejercicio Fiscal del año 2005, los fondos de participaciones que establece el artículo 9, así como las participaciones que señala el artículo 14 de esta Ley, se distribuirán a los municipios mediante la aplicación de los factores vigentes en 2004, en sustitución de los porcentajes referidos en el artículo 10 de este mismo ordenamiento.
+Artículo tercero. Para el ejercicio fiscal del año 2006, los fondos de participaciones que establece el artículo 9, así como las participaciones que señala el artículo 14 de esta ley, se distribuirán a los municipios mediante la aplicación de los factores vigentes en 2005, en sustitución de los porcentajes referidos en el artículo 10 de este mismo ordenamiento.
 
-> <small>(REFORMADO, G.O. 12 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, G.O. 11 DE ENERO DE 2006)</small>
 
-Artículo cuarto.- Para el Ejercicio Fiscal del año 2005, las participaciones federales que correspondan a los municipios por concepto del Impuesto sobre Tenencia o Uso de Vehículos se les distribuirán mediante la aplicación de los factores señalados en el Artículo Tercero Transitorio de esta Ley, que sustituirán a la fórmula a que se refiere el artículo 15 de este mismo ordenamiento.
+Artículo cuarto. Para el ejercicio fiscal del año 2006, las participaciones federales que correspondan a los municipios por concepto del impuesto sobre tenencia o uso de vehículos se les distribuirán mediante la aplicación de los factores señalados en el artículo tercero transitorio de esta ley, que sustituirán a la fórmula a que se refiere el artículo 15 de este mismo ordenamiento.
 
 Artículo quinto. Para efecto de la determinación del Coeficiente de Participación Municipal (CPM i t-1) señalado en el artículo 12, y el coeficiente de recaudación municipal (CISTUV i t-1) señalado en el artículo 15, correspondiente al ejercicio fiscal del año 2001, se utilizarán los factores de distribución que se señalan en el artículo segundo transitorio de esta Ley.
 
@@ -868,3 +868,9 @@ G.O. 12 DE ENERO DE 2005.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+G.O. 11 DE ENERO DE 2006.
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
