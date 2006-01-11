@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-350-de-ejecucion-de-sanciones-para-el-estado-de-6567
 country: "mx"
 rank: "ley"
 publication_date: "1992-02-01"
-last_updated: "2005-08-17"
+last_updated: "2006-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE EJECUCION DE SANCIONES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE ENERO DE 2006.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 1 de febrero de 1992.
 
@@ -463,6 +463,10 @@ Comunicados los términos de la sanción pecuniaria a la Dirección General, és
 
 Cuando el sancionado alegue que no puede cumplir alguna de las modalidades de la sanción que le fue impuesta, por ser incompatible con su edad, sexo, salud o constitución física, la Dirección General, previo estudio del caso dictará la resolución que corresponda.
 
+> <small>(ADICIONADO, G.O. 11 DE ENERO DE 2006)</small>
+
+Los reos sentenciados mayores de 70 años, que no hayan cometido delitos considerados como graves, purgarán sus sentencias en su domicilio con las limitantes que establezca la propia Dirección General, en concordancia a lo establecido en el segundo párrafo del artículo 83 del Código Penal.
+
 ###### ARTICULO 52.
 
 En los casos a que se refiere el artículo 74 del Código Penal, el Ejecutivo del Estado, oyendo a la Dirección General, resolverá lo que estime pertinente.
@@ -688,3 +692,9 @@ G.O. 17 DE AGOSTO DE 2005.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial.
 
 Segundo. Se derogan las disposiciones de observancia general que se opongan a este decreto.
+
+G.O. 11 DE ENERO DE 2006.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
