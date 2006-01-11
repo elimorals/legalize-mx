@@ -4,7 +4,7 @@ identifier: "MOR-codigo-civil-para-el-estado-libre-y-soberano-de-morelos-35441"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-10-13"
-last_updated: "2005-06-15"
+last_updated: "2006-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35441&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 2006.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 13 de octubre de 1993.
 
@@ -14153,9 +14153,17 @@ INSCRIPCION REGISTRAL DEL CONVENIO MODIFICATORIO O QUE DESTRUYA LA EFICACIA DE U
 
 CESION DE LA HIPOTECA. El crédito puede cederse, en todo o en parte, siempre que la cesión se haga en la forma que para constitución de la hipoteca previene el artículo 2366 de éste Código, se dé conocimiento al deudor y sea inscrita en el Registro Público de la Propiedad.
 
-Si la hipoteca se ha constituido para garantizar obligaciones a la orden, puede transmitirse por endoso del título, sin necesidad de notificación al deudor, ni de registro. La hipoteca constituida para garantizar obligaciones al portador, se transmitirá por la simple entrega del título sin ningún otro requisito.
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2006)</small>
 
-En el caso de que se esté en la hipótesis de la parte final el artículo 2393 de éste Código, se observará además la formalidad exigida por el primer párrafo de este artículo.
+Si la hipoteca se ha constituido para garantizar obligaciones a la orden, puede transmitirse por endoso del título, sin necesidad de notificación al deudor, ni de escritura pública, ni de registro. La hipoteca constituida para garantizar obligaciones al portador, se transmitirá por la simple entrega del título sin ningún otro requisito. En caso de que el cedente deje de llevar la administración de los créditos, el cesionario deberá notificar por escrito la cesión al deudor.
+
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2006)</small>
+
+Las instituciones del sistema bancario mexicano, actuando en nombre propio o como fiduciarias, las demás entidades financieras, y los institutos de seguridad social, podrán ceder sus créditos con garantía hipotecaria, sin necesidad de notificación al deudor, ni de escritura pública, ni de inscripción en el Registro, siempre que el cedente lleve la administración de los créditos, el cesionario deberá únicamente notificar por escrito la cesión al deudor.
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2006)</small>
+
+En los supuestos previstos en los dos párrafos anteriores, la inscripción de la hipoteca a favor del acreedor original se considerará hecha a favor de el o los cesionarios referidos en tales párrafos, quienes tendrán todos los derechos y acciones derivados de ésta.
 
 ###### ARTICULO 2400.
 
@@ -15462,3 +15470,13 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se concede al Titular del Poder Ejecutivo un término de noventa días hábiles contados a partir de la entrada en vigor del presente Decreto, para que expida el Reglamento de Adopción de Menores a que se refiere el artículo 255 del Código Civil para el Estado Libre y Soberano de Morelos.
 
 TERCERO.- Remítase el Presente Decreto, al Titular del Poder Ejecutivo Estatal para los efectos correspondientes.
+
+P.O. 11 DE ENERO DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase la presente Ley al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70 fracción XVII de la Comisión Pública del Estado Libre y soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión oficial del Gobierno del Estado de Morelos.
