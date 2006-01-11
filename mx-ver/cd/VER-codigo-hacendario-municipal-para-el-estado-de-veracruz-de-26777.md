@@ -4,7 +4,7 @@ identifier: "VER-codigo-hacendario-municipal-para-el-estado-de-veracruz-de-26777
 country: "mx"
 rank: "codigo"
 publication_date: "2002-11-22"
-last_updated: "2005-08-15"
+last_updated: "2006-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE ENERO DE 2006.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 22 de noviembre de 2002.
 
@@ -3339,6 +3339,14 @@ Servicios 20
 
 j) De cambio de uso de suelo, cuando el Municipio contare con un Programa de Ordenamiento Urbano, en términos de la normatividad aplicable, se pagará el cincuenta por ciento de la cuota establecida para una licencia de uso de suelo.
 
+> <small>(ADICIONADO, G.O. 11 DE ENERO DE 2006)</small>
+
+k) De uso de suelo de tipo agropecuario 1
+
+por la totalidad de la construcción,
+
+debidamente acreditado.
+
 IV. Por deslinde de predios, por metro cuadrado o fracción:
 
 Si el terreno es de uso
@@ -5952,5 +5960,11 @@ Artículo segundo.- Se derogan todas las disposiciones que se opongan al present
 G.O. 15 DE AGOSTO DE 2005.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación, en la Gaceta Oficial, órgano de gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 11 DE ENERO DE 2006.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, del órgano del gobierno del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
