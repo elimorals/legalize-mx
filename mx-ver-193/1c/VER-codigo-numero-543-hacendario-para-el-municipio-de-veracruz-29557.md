@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-543-hacendario-para-el-municipio-de-veracruz-2955
 country: "mx"
 rank: "codigo"
 publication_date: "2003-03-10"
-last_updated: "2004-07-07"
+last_updated: "2006-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29557&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CODIGO HACENDARIO PARA EL MUNICIPIO DE VERACRUZ, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE ENERO DE 2006.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el lunes 10 de marzo de 2003.
 
@@ -132,6 +132,8 @@ XXI. Síndico: El Síndico del Ayuntamiento;
 XXII. Tesorería: La Tesorería del Ayuntamiento; y
 
 XXIII. Tesorero: El Titular de la Tesorería del Ayuntamiento.
+
+3.- La Hacienda Pública Municipal se formará por los bienes municipales del dominio público y privado, así como por los rendimientos de los bienes que le pertenezcan, de conformidad con la legislación aplicable; así como por las aportaciones voluntarias, los impuestos, derechos, productos, aprovechamientos, participaciones, tasas adicionales establecidas por el Congreso sobre la propiedad inmobiliaria, la de su fraccionamiento, división, consolidación, traslación y mejoras, las que tengan por base el cambio de valor de los inmuebles y todos los demás ingresos fiscales que aquél establezca a su favor, en términos de las disposiciones legales aplicables.
 
 ###### Artículo 3.
 
@@ -1459,27 +1461,61 @@ En los casos de predios que no hubieren tenido modificaciones físicas no proced
 
 Para efectos de este impuesto, en los predios objeto de fraccionamiento, el nuevo valor generado por la introducción de obras de urbanización se considerará a partir de la conclusión de éstas.
 
-> <small>(REFORMADO, G.O. 7 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, G.O. 11 DE ENERO DE 2006)</small>
 
 ###### Artículo 117.
 
-El Impuesto Predial se causará anualmente y se liquidará y pagará de acuerdo con la tarifa y tasa siguientes:
+El Impuesto Predial se causará anualmente y se liquidará y pagará de acuerdo a los rangos de valor, con las tarifas y tasas siguientes:
 
-Predios: Tarifa
+Urbanos
 
-I. Urbanos Construidos 1 al millar
+Rangos de valor Construidos Baldíos
 
-II. Urbanos Baldíos 2 al millar
+1.00-66,100.00 3 salarios mínimos 3 salarios mínimos
 
-III. Sururbanos:
+66,101.00-100,000.00 3 salarios mínimos 4.5 salarios mínimos
 
-a) Construidos 0.50 al millar
+100,001.00-132,150.00 3 salarios mínimos 2.30 al millar
 
-b) Baldíos 0.75 al millar
+132,151.00-182,500.00 4.5 salarios mínimos 2.30 al millar
 
-IV. Rurales Particulares 3.75 al millar
+182,501.00-340,000.00 8 salarios mínimos 2.30 al millar
 
-V. Rurales Ejidales 1 al millar.
+340,001.00-650,000.00 1.15 al millar 2.30 al millar
+
+650.001.00-1,250,000.00 1.20 al millar 2.40 al millar
+
+1,250,001.00-
+
+2,000,000.00 1.30 al millar 2.60 al millar
+
+2,000,001.00-EN
+
+ADELANTE 1.40 al millar 2.80 al millar
+
+Suburbanos
+
+Rangos de valor Construidos Baldíos
+
+1.00-335,238.00 8 salarios mínimos 8 salarios mínimos
+
+335,239.00-503,428.00 8 salarios mínimos 1.05 al millar
+
+503,429.00-EN
+
+ADELANTE 0.70 al millar 1.05 al millar
+
+Rurales
+
+Rangos de valor Construidos Baldíos
+
+1.00-78,822.00 8 salarios mínimos 8 salarios mínimos
+
+78,823.00-293,333.00 4.50 al millar 8 salarios mínimos
+
+293,334.00-EN
+
+ADELANTE 4.50 al millar 1.40 al millar
 
 ###### Artículo 118.
 
@@ -2731,7 +2767,7 @@ Popular 0.2
 
 II. Por cada industria o comercio, así como empresas que presenten espectáculos públicos, 0.010 salarios mínimos por kilogramo o 0.025 salarios mínimos por metro cúbico, sin que en ningún caso la cuota resulte menor a la establecida para inmuebles de uso habitacional de tipo residencial.
 
-Aquellos contribuyentes que opten por el pago anual recibirán un descuento del diez por ciento.
+Aquellos contribuyentes que opten por el pago anual recibirán un descuento diez por ciento.
 
 ### CAPÍTULO IX. DE LOS DERECHOS POR LIMPIEZA DE PREDIOS NO EDIFICADOS
 
@@ -5042,3 +5078,7 @@ G.O. 7 DE JULIO DE 2004.
 Artículo primero.- El Presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
 
 Artículo segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 11 DE ENERO DE 2006.
+
+Artículo único. El presente Decreto entrará en vigor el 1 de enero del año 2006, previa publicación en la Gaceta Oficial, órgano del gobierno del estado.
