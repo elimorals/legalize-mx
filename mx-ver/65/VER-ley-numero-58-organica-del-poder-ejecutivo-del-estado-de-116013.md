@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2005-10-21"
+last_updated: "2006-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE OCTUBRE DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE ENERO DE 2006.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
@@ -455,11 +455,11 @@ XXXVIII. Coordinar, dirigir y vigilar la política estatal en materia de tránsi
 
 De la Secretaría de Seguridad Pública
 
-> <small>(REFORMADO, G.O. 21 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO, G.O. 11 DE ENERO DE 2006)</small>
 
 ###### Artículo 18 Bis.
 
-La Secretaría de Seguridad Pública es la dependencia encargada de coordinar, dirigir y vigilar la política estatal en materia de seguridad pública y privada, prevención y readaptación social, protección civil y auxilio en caso de desastre, de conformidad con las leyes de la materia.
+La Secretaría de Seguridad Pública es la dependencia encargada de coordinar, dirigir y vigilar la política estatal en materia de seguridad pública y privada, prevención y readaptación social, protección civil y de auxilio en caso de desastre, de conformidad con las leyes de la materia.
 
 > <small>(ADICIONADO, G.O. 29 DE ENERO DE 2001)</small>
 
@@ -479,7 +479,9 @@ V. Nombrar y remover, con acuerdo del Gobernador del Estado, al Secretario Ejecu
 
 VI. Promover la participación de los ciudadanos en el diseño y planeación de planes y programas en materia de seguridad pública, así como para el desarrollo de actividades de vigilancia sobre el desempeño de la Secretaría;
 
-VII. Organizar, dirigir, administrar, supervisar y ejercer el mando directo de las corporaciones policíacas y demás fuerzas de seguridad estatales, tránsito, transporte y protección civil, así como nombrar y remover a los titulares de las mismas a fin de garantizar el desempeño honesto de su personal y aplicar su correspondiente régimen disciplinario;
+> <small>(REFORMADA, G.O. 11 DE ENERO DE 2006)</small>
+
+VII. Organizar, dirigir, administrar, supervisar y ejercer el mando directo de las corporaciones policíacas y demás fuerzas de seguridad estatales y protección civil, así como nombrar y remover a los titulares de las mismas a fin de garantizar el desempeño honesto de su personal y aplicar su correspondiente régimen disciplinario;
 
 VIII. Integrar, coordinar y supervisar el Sistema Estatal de Protección Civil, así como implementar las medidas necesarias a fin de proteger y salvaguardar a la población ante la eventualidad de un desastre, en términos de la legislación aplicable;
 
@@ -1754,3 +1756,17 @@ G.O. 21 DE OCTUBRE DE 2005.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 11 DE ENERO DE 2006.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 516 QUE REFORMA EL ARTÍCULO 18 BIS Y LA FRACCIÓN VII DEL ARTÍCULO 18 TER DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+Artículo tercero. El presupuesto, mobiliario, equipo, archivos y en general todos los recursos humanos, financieros y materiales que tienen asignados tanto la Dirección General de Tránsito y Transporte como el Instituto Veracruzano del Transporte, se transferirán de la Secretaría de Seguridad Pública a la Secretaría de Gobierno, por disposición de este decreto.
+
+Artículo cuarto. El personal que por lo dispuesto en el presente decreto cambia de adscripción, conservará sus derechos laborales conforme a la ley.
+
+Artículo quinto. Todas las controversias judiciales y procedimientos administrativos que se encuentren en trámite y las que se reciban hasta antes de la entrega-recepción, tanto de la Dirección General de Tránsito y Transporte como del Instituto Veracruzano del Transporte, serán resueltas hasta su conclusión por el titular de la Secretaría de Seguridad Pública. En consecuencia, las controversias judiciales y procedimientos administrativos que se reciban a partir de la entrega-recepción, serán resueltas por el titular de la Secretaría de Gobierno.
