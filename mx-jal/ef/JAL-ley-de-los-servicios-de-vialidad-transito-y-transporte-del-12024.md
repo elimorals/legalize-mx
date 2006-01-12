@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-servicios-de-vialidad-transito-y-transporte-del-1202
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-07"
-last_updated: "2005-07-07"
+last_updated: "2006-01-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS SERVICIOS DE VIALIDAD, TRANSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 2006.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
@@ -364,6 +364,14 @@ XXXI. Modificar los itinerarios, horarios y frecuencias previamente autorizadas 
 XXXII. Autorizar y vigilar el cumplimiento de las tarifas para los servicios públicos de transporte; y
 
 XXXIII. Las demás que determine la presente Ley.
+
+(ADICIONADO, P.O. 12 DE ENERO DE 2006) (F. DE E., P.O. 6 DE ABRIL DE 2006)
+
+###### Artículo 19 Bis.
+
+La dependencia del Ejecutivo del Gobierno del Estado competente en materia de vialidad, tránsito y transporte podrán llevar a cabo programas de control para prevenir accidentes generados por la ingestión de alcohol, en los cuales se realicen a los conductores que cometan una infracción a esta ley, las pruebas de alcoholemia respectivas a través del empleo de instrumentos técnicos de medición, realizadas por personal del área de peritos y del área jurídica.
+
+En caso de que el conductor de un vehículo al cometer una infracción de las señaladas en la presente ley, presente aliento alcohólico, el agente de tránsito procederá solicitar al personal de peritos y del área jurídica, le aplique el examen respectivo, en el lugar de la infracción con el empleo de instrumentos de medición.
 
 ###### Artículo 20.
 
@@ -2443,9 +2451,7 @@ Se sancionará con multa equivalente a diez días de salario mínimo general, vi
 
 I. No coincidir la tarjeta de circulación o calcomanía con el número de placas; y
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 1999)</small>
-
-II. A la persona que conduzca un vehículo de motor en estado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos, conforme lo establezca el reglamento de esta ley, pudiéndose aplicar sanción alternativa, a elección del infractor, consistente en arresto administrativo de veinticuatro horas o cuatro jornadas de trabajo de índole social, en materia de vialidad y tránsito. La licencia o permiso del conductor podrá ser suspendida en los términos del tercer párrafo del artículo 170 del presente ordenamiento;
+II. (DEROGADA, P.O. 12 DE ENERO DE 2006)
 
 > <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
 
@@ -2473,6 +2479,16 @@ VII. Al conductor que maneje en sentido contrario o, al que injustificadamente i
 
 Se sancionará con multa equivalente a veinte días de salario mínimo general, vigente en la zona económica donde se cometa la infracción, al conductor de servicio de transporte público que realice servicio distinto al autorizado, en vehículos destinados al servicio público.
 
+(ADICIONADO, P.O. 12 DE ENERO DE 2006) (F.DE E., P.O. 6 DE ABRIL DE 2006)
+
+Artículo 168 BIS.- Se sancionará con multa equivalente a treinta días de salario mínimo general, vigente en la zona económica en donde se cometa la infracción, a la persona que conduzca un vehículo de motor y se le detecten de cien a ciento cincuenta miligramos de alcohol por cien mililitros de sangre o bajo el influjo de estupefacientes o psicotrópicos, cuando cometa además cualquier otra infracción a esta ley o su reglamento.
+
+En este caso, inmediatamente se practicará al conductor la prueba de alcoholemia o de aire expirado en alcoholímetro. Cuando éste se niegue a otorgar muestra de aire expirado se remitirá al Ministerio Público, y se le practicará un examen pericial clínico médico.
+
+La licencia o permiso del conductor podrá ser suspendida en los términos del tercer párrafo del artículo 170 de este ordenamiento.
+
+En caso de detectarse al conductor más de ciento cincuenta miligramos de alcohol en sangre, el conductor será puesto a disposición del Ministerio Público para los efectos legales correspondientes.
+
 > <small>(REFORMADO, P.O. 9 DE MARZO DE 2002)</small>
 
 ###### Artículo 169.
@@ -2491,7 +2507,9 @@ En caso de reincidencia en las infracciones previstas en el presente capítulo, 
 
 En caso de reincidencia en las infracciones previstas en las fracciones VI y VII del artículo 167 de esta ley, cometidas dentro de los treinta días siguientes, se sancionará a elección del infractor, con arresto de doce horas, o dos jornadas de trabajo en favor de la comunidad en materia de vialidad y tránsito.
 
-Tratándose de la infracción contenida en la fracción II del Artículo 167, al reincidente dentro de los treinta días siguientes o al grado de ebriedad, se le sancionará además con arresto administrativo inconmutable de 36 horas, y, de volver a reincidir dentro de los treinta días siguientes, independientemente del arresto administrativo inconmutable de treinta y seis horas, se le cancelará definitivamente su licencia, y solamente podrá proporcionársele con los mismos requisitos que deberá cumplir para la licencia nueva, además de una investigación de trabajo social y exámenes de toxicomanía y alcoholismo, que demuestren que el interesado no es dependiente de bebidas embriagantes, ni estupefacientes o psicotrópicos.
+(REFORMADO, P.O. 12 DE ENERO DE 2006) (F. DE E., P.O. 25 DE MARZO DE 2006)
+
+Tratándose de la infracción contenida en el artículo 168 bis a la persona que reincidiere dentro de los sesenta días siguientes, se le sancionará además con arresto administrativo inconmutable de 36 horas y, de volver a reincidir dentro de los treinta días siguientes, independientemente del arresto administrativo inconmutable de treinta y seis horas, se le cancelará definitivamente su licencia, y solamente podrá proporcionársele con los mismos requisitos que deberá cumplir para la licencia nueva, hasta haber transcurrido un año de la cancelación, además de una investigación de trabajo social y exámenes de toxicomanía y alcoholismo, que demuestren que el interesado no es dependiente de bebidas embriagantes, ni estupefacientes o psicotrópicos.
 
 > <small>(REFORMADO, P.O. 9 DE MARZO DE 2002)</small>
 
@@ -2976,3 +2994,15 @@ SEGUNDO.- El Titular del Poder Ejecutivo del Estado, a través de las dependenci
 P.O. 7 DE JULIO DE 2005.
 
 ÚNICO. El presente decreto entrará en vigor a los tres días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 12 DE ENERO DE 2006.
+
+Primero.- El presente Decreto entrará en vigor a los sesenta días posteriores a su publicación en el periódico oficial "El Estado de Jalisco".
+
+> <small>(F. DE E., P.O. 6 DE ABRIL DE 2006)</small>
+
+Segundo.- Previa la entrada en vigor el Titular del Poder Ejecutivo implementará, a través de los medios que disponga, campañas de difusión sobre el contenido del presente decreto.
+
+> <small>(F. DE E., P.O. 6 DE ABRIL DE 2006)</small>
+
+Tercero.- Previa la entrada en vigor del presente decreto, se autoriza a las Secretarías de Finanzas y Administración, en coordinación con la de Vialidad y Transporte, para realizar las adecuaciones presupuestales y las adquisiciones necesarias de los instrumento de medición y capacitación al personal en el manejo de éstos, para el debido cumplimiento del presente decreto.
