@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-penales-para-el-estado-libre-y-5764"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-07"
-last_updated: "2004-11-11"
+last_updated: "2006-01-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el martes 7 de diciembre de 1982.
 
@@ -1059,13 +1059,17 @@ Se tendrá por acreditado el cuerpo del delito de robo equiparado, a que se cont
 
 Cuando, tratándose del delito de ataques a las vías de comunicación, no fuese posible practicar inspección ocular, porque para evitar perjuicios al servicio público haya sido necesario hacer inmediatamente la reparación respectiva, bastará para la comprobación de los elementos del tipo penal del delito cualquiera otra prueba plena.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2006)</small>
 
 ###### Art. 125.
 
-En los casos de delitos cometidos con motivo del tránsito de vehículos, se practicará, a la brevedad posible el examen médico del indiciado, para determinar si está ebrio o bajo la influencia de enervantes; en caso afirmativo, el médico dictaminará sobre el período o grado de la ebriedad o de la intoxicación, particularmente, indicará las alteraciones psíquicas y físicas producidas en dicho indiciado; establecerá la mayor o menor peligrosidad, que en su estado, represente para la circulación y, particularmente, dictaminará si al tiempo de los hechos estaba ebrio o intoxicado.
+En el caso de los delitos de tránsito, inmediatamente se practicará al indiciado los exámenes médicos y la prueba de alcoholemia o de aire expirado en alcoholímetro, para determinar si está ebrio o bajo la influencia de enervantes. Cuando éste se niegue a otorgar muestra de sangre o aire expirado y previa certificación de dicha negativa que realice al Agente del Ministerio Público en presencia de su respectivo secretario o de dos testigos de asistencia, se le practicará un examen pericial clínico médico.
 
-En los casos dudosos, el médico deberá mandar practicar las investigaciones de laboratorio que creyese necesarias.
+La autoridad ordenará la práctica de los exámenes que estimen pertinentes para determinar el grado de concentración de alcohol que presente el indiciado en la sangre o de la intoxicación, particularmente indicará las alteraciones psíquicas y físicas producidas en dicho indiciado; establecerá la mayor o menor peligrosidad, que en su estado represente para la circulación y, particularmente, dictaminará si al tiempo de los hechos estaba ebrio o intoxicado. Del resultado de dichas pruebas se levantará la certificación correspondiente.
+
+En los casos dudosos el médico deberá mandar practicar las investigaciones de laboratorio que considere necesarias.
+
+Los medios de prueba señalados en este artículo, podrán utilizarse en la investigación de cualquier delito.
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2001)</small>
 
@@ -3656,3 +3660,15 @@ P.O. 11 DE NOVIEMBRE DE 2004.
 Primero.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 Segundo.- de conformidad con lo establecido en el capítulo cuarto de la Ley para la Divulgación de la Legislación del Estado de Jalisco, publíquese el presente decreto en cuando menos dos de los periódicos de mayor circulación en la entidad.
+
+P.O. 12 DE ENERO DE 2006.
+
+Primero.- El presente Decreto entrará en vigor a los sesenta días posteriores a su publicación en el periódico oficial "El Estado de Jalisco".
+
+> <small>(F. DE E., P.O. 6 DE ABRIL DE 2006)</small>
+
+Segundo.- Previa la entrada en vigor el Titular del Poder Ejecutivo implementará a través de los medios que disponga, campañas de difusión sobre el contenido del presente decreto.
+
+> <small>(F. DE E., P.O. 6 DE ABRIL DE 2006)</small>
+
+Tercero.- Previa la entrada en vigor del presente decreto, se autoriza a las Secretarías de Finanzas y Administración, en coordinación con la de Vialidad y Transporte, para realizar las adecuaciones presupuéstales y las adquisiciones necesarias de los instrumentos de medición y capacitación al personal en el manejo de estos, para el debido cumplimiento del presente decreto.
