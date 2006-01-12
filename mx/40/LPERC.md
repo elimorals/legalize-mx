@@ -4,7 +4,7 @@ identifier: "LPERC"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-31"
-last_updated: "2004-10-11"
+last_updated: "2006-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=477&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LPERC"
 
 LEY DE PREMIOS, ESTIMULOS Y RECOMPENSAS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE ENERO DE 2006.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de diciembre de 1975.
 
@@ -950,7 +950,7 @@ El Premio Nacional de Trabajo y Cultura Indígena es el reconocimiento que el Es
 
 > <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 2004)</small>
 
-###### Artículo 107.
+###### ARTICULO 107.
 
 Este Premio se otorgará anualmente y consistirá en diploma, medalla y numerario; en el caso de las comunidades que se hagan acreedoras al reconocimiento, éste se integrará por diploma y numerario. El Premio Nacional de Trabajo y Cultura Indígena se otorgará en los siguientes campos:
 
@@ -968,7 +968,7 @@ VI.- Equidad de Género.
 
 > <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 2004)</small>
 
-###### Artículo 108.
+###### ARTICULO 108.
 
 Para la Entrega anual del Premio Nacional de Trabajo y Cultura Indígena, su Consejo de Premiación se integrará de la siguiente manera: un representante de la Secretaría de Desarrollo Social, un representante de la Secretaría de Educación Pública, un representante de la Cámara de Senadores, un representante de la Cámara de Diputados, el titular de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas, el titular del Instituto Nacional de Antropología e Historia y un representante de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas que estará a cargo de la Secretaría Técnica del Consejo de Premiación.
 
@@ -978,37 +978,37 @@ Para la Entrega anual del Premio Nacional de Trabajo y Cultura Indígena, su Con
 
 > <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2004)</small>
 
-###### Artículo 109.
+###### ARTICULO 109.
 
 El Premio Nacional de Derechos Humanos es el reconocimiento que la sociedad mexicana confiere, a través del organismo constitucional autónomo de derechos humanos, a las personas que se han destacado en la promoción efectiva y defensa de los derechos fundamentales.
 
 > <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2004)</small>
 
-###### Artículo 110.
+###### ARTICULO 110.
 
 El Premio Nacional de Derechos Humanos consistirá en diploma, medalla y numerario, será entregado anualmente por el Presidente de la República y el titular de la Comisión Nacional de los Derechos Humanos.
 
 > <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2004)</small>
 
-###### Artículo 111.
+###### ARTICULO 111.
 
 Para tal efecto, el Premio se tramitará ante el organismo federal protector de los Derechos Humanos, en ejercicio de su autonomía y a través de sus instancias competentes emitirá las reglas para la integración del Consejo de Premiación correspondiente, el cual se integrará por personas de reconocida calidad moral, académica o intelectual y representativas de los sectores público y privado, así como de un representante de cada una de las Cámaras del Congreso de la Unión.
 
 > <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2004)</small>
 
-###### Artículo 112.
+###### ARTICULO 112.
 
 En casos excepcionales y cuando las circunstancias así lo ameriten, el Premio Nacional de Derechos Humanos podrá ser otorgado post mortem, para honrar la memoria de defensores de los derechos humanos que hayan luchado por la vigencia efectiva de las garantías consignadas en la Constitución Política de los Estados Unidos Mexicanos, así como lo establecido en las convenciones internacionales suscritas por el Gobierno de la República en materia de derechos humanos.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE JUNIO DE 2004)</small>
 
-###### Artículo 113.
+###### ARTICULO 113.
 
 El Premio Nacional de Preservación del Medio Ambiente es el reconocimiento que el gobierno federal otorga a las personas, agrupaciones y comunidades, que se han destacado por su trabajo, empeño y dedicación en favor de la defensa, conservación y preservación del medio ambiente, así como del uso racional de los recursos naturales y de las acciones tendientes al desarrollo sustentable. El Premio Nacional de Preservación del Medio Ambiente consistirá en diploma, medalla y numerario.
 
 > <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2004)</small>
 
-###### Artículo 114.
+###### ARTICULO 114.
 
 El Premio Nacional de Preservación del Medio Ambiente se entregará en las siguientes categorías:
 
@@ -1020,9 +1020,9 @@ III.- Conservación y Uso del Suelo;
 
 IV.- Biodiversidad;
 
-V.- Flora;
+V.- (DEROGADA, D.O.F. 12 DE ENERO DE 2006)
 
-VI.- Fauna;
+VI.- (DEROGADA, D.O.F. 12 DE ENERO DE 2006)
 
 VII.- Preservación;
 
@@ -1032,7 +1032,7 @@ IX.- Reuso, Reutilización y Reciclaje.
 
 > <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2004)</small>
 
-###### Artículo 115.
+###### ARTICULO 115.
 
 Para la entrega del Premio Nacional de Preservación del Medio Ambiente, el Consejo de Premiación se integrará con un representante de la Secretaría de Medio Ambiente y Recursos Naturales, quien lo presidirá, un representante de la Secretaría de Educación Pública, un representante de la Secretaría de Economía, un representante de cada una de las Cámaras del Congreso de la Unión, que sean integrantes de las Comisiones competentes, un representante de la Comisión Nacional del Agua, un representante de la Procuraduría Federal de Protección al Ambiente y un representante del Instituto Nacional de Ecología, que realizará la función de Secretario Técnico del Consejo de Premiación.
 
@@ -1040,19 +1040,19 @@ La convocatoria para el otorgamiento de este premio, podrá considerar la partic
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE JUNIO DE 2004)</small>
 
-###### Artículo 116.
+###### ARTICULO 116.
 
 El Premio Nacional de Seguridad Pública es el galardón con el que el Gobierno de la República reconoce el trabajo destacado, la entrega en el servicio, la constancia y el desarrollo de las personas que realizan su mejor esfuerzo para desempeñar su actuación de acuerdo con los principios constitucionales en materia de seguridad pública y que son los de legalidad, eficiencia, profesionalismo y honradez.
 
 > <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2004)</small>
 
-###### Artículo 117.
+###### ARTICULO 117.
 
 También podrán considerarse las situaciones excepcionales en las que el desempeño de los elementos de las corporaciones policiales, se distingan por su arrojo, valor y respuesta adecuada ante situaciones de apremio. Por la naturaleza de la actividad inherente al Premio Nacional de Seguridad Pública, este reconocimiento también podrá ser entregado post mortem.
 
 > <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2004)</small>
 
-###### Artículo 118.
+###### ARTICULO 118.
 
 El Premio Nacional de Seguridad Pública se otorgará anualmente a personal que colabora en instituciones de seguridad pública, tanto en el fuero común como en el federal, en los siguientes rubros:
 
@@ -1070,31 +1070,31 @@ VI.- Trabajo Pericial.
 
 > <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2004)</small>
 
-###### Artículo 119.
+###### ARTICULO 119.
 
 Para la entrega del Premio Nacional de Seguridad Pública, su Consejo de Premiación se integrará de la siguiente manera: un representante de la Secretaría de Seguridad Pública, quien lo presidirá; un representante de la Procuraduría General de la República; un representante de la Secretaría de la Defensa Nacional; un representante de la Secretaría de Marina; un representante de cada una de las Cámaras del Congreso de la Unión y el Secretario Ejecutivo del Sistema Nacional de Seguridad Pública, con el carácter de Secretario Técnico del Consejo de Premiación.
 
 > <small>(REFORMADA SU NUMERACION, D.O.F. 15 DE JUNIO DE 2004)</small>
 
-###### Artículo 120.
+###### ARTICULO 120.
 
 Las erogaciones que deban hacerse con motivo de esta Ley, serán con cargo a la partida correspondiente de la Secretaría donde se tramite cada premio, y en caso de falta o insuficiencia de partida, con cargo al presupuesto del ramo de la Presidencia. Las recompensas de que trata el Capítulo XVI únicamente podrán recaer sobre el presupuesto de la dependencia u organismo al que pertenezca el beneficiario.
 
 > <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2004)</small>
 
-###### Artículo 121.
+###### ARTICULO 121.
 
 Los premios y las entregas adicionales en numerario o en especie, así como las recompensas, estarán exentos de cualquier impuesto o deducción.
 
 > <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2004)</small>
 
-###### Artículo 122.
+###### ARTICULO 122.
 
 Salvo que esta Ley contenga disposición expresa al respecto, los jurados están facultados para proponer que dos o más personas con iguales merecimientos participen entre sí el mismo premio, o que éste se otorgue a cada una de ellas.
 
 > <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2004)</small>
 
-###### Artículo 123.
+###### ARTICULO 123.
 
 Las recompensas señaladas en efectivo por la presente Ley, se ajustarán en la proporción en que se modifique el salario mínimo general en el Distrito Federal.
 
@@ -1161,3 +1161,7 @@ D.O.F. 15 DE JUNIO DE 2004.
 D.O.F. 11 DE OCTUBRE DE 2004.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 12 DE ENERO DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
