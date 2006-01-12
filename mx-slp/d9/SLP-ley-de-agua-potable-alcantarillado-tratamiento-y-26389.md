@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-agua-potable-alcantarillado-tratamiento-y-26389"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-29"
-last_updated: "2001-12-29"
+last_updated: "2006-01-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY DE AGUA POTABLE, ALCANTARILLADO, TRATAMIENTO Y DISPOSICION DE AGUAS RESIDUALES PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSI, PUBLICADA EN LA EDICION EXTRAORDINARIA DEL P.O. DE 12 DE ENERO DE 2006, EL PRESENTE ORDENAMIENTO FUE ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 29 de diciembre de 2001.
 
@@ -1876,3 +1878,35 @@ El Secretario General de Gobierno
 LIC. JORGE DANIEL HERNÁNDEZ DELGADILLO
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE ENERO DE 2006.
+
+PRIMERO. La presente Ley entrará en vigor a los diez días siguientes a su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Agua Potable, Alcantarillado, Tratamiento y Disposición de Aguas Residuales para el Estado y municipios de San Luis Potosí, publicada en el Periódico Oficial del Estado el 29 de diciembre de 2001; y se derogan todas las disposiciones que se opongan a esta Ley.
+
+TERCERO. A partir de la entrada en vigor de la presente Ley, la Comisión Estatal de Agua deberá adecuar su estructura, en un plazo de hasta ciento ochenta días naturales, contados a partir de la entrada en vigor de esta Ley.
+
+CUARTO. Dentro de un plazo no mayor de cuarenta y cinco días contados a partir de la entrada en vigor de esta Ley, la Comisión Estatal de Agua promoverá la constitución, instalación y funcionamiento del Consejo Técnico Consultivo del Agua.
+
+La constitución y funcionamiento del Consejo Estatal Hídrico se apegará a los términos dispuestos en el artículo 38 de esta Ley.
+
+La junta de Gobierno de la Comisión sesionará válidamente con el resto de los miembros que prevé esta Ley, hasta en tanto se incorporen los presidentes de los citados consejos.
+
+QUINTO. A partir de la entrada en vigor de la presente Ley, subsistirán los órganos operadores reconocidos por la Ley que se abroga y los creados durante la vigencia de la misma, los que se sujetarán a las disposiciones que para los organismos operadores paramunicipales e intermunicipales prevé esta ley, debiendo adecuar su estructura en un plazo de hasta sesenta días naturales, contados a partir de la entrada en vigor de esta misma Ley.
+
+SEXTO. Los ayuntamientos que en los términos de esta Ley deban designar al Comisario Público del organismo respectivo, contarán con un plazo de cuarenta y cinco días, a partir de su entrada en vigor para cumplir con dicha obligación.
+
+SEPTIMO. Quienes a la entrada de la presente Ley se desempeñen como directores de los organismos a que se refiere el artículo Quinto Transitorio de este Decreto, continuarán fungiendo como tales, sin perjuicio de las facultades de remoción y nombramiento de las juntas de gobierno.
+
+OCTAVO. Los organismos operadores paramunicipales e intermunicipales y la Comisión Estatal de Agua, deberán publicar su reglamento interno dentro de un plazo no mayor de ciento ochenta días contados a partir de la entrada en vigor de esta Ley.
+
+NOVENO. El Ejecutivo del Estado, en el ámbito de su competencia, expedirá el Reglamento de la presente Ley, en un plazo no mayor a ciento ochenta días contados a partir de la entrada en vigor de la misma.
+
+DECIMO. Los prestadores de los servicios públicos regulados en la presente Ley, continuarán aplicando las cuotas y tarifas que hasta esta fecha se aplican, hasta en tanto se determinan las cuotas y tarifas conforme lo establecido en la presente Ley.
+
+DECIMO PRIMERO. Para los efectos del artículo anterior, la Comisión Estatal del Agua contará con un plazo de sesenta días para presentar al Honorable Congreso del Estado, a través del Titular del Ejecutivo, para su aprobación, las fórmulas y la metodología que determinen los componentes del costo y su interrelación para el cálculo de cuotas y tarifas.
+
+DECIMO SEGUNDO. Los Asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos por las autoridades y organismos competentes en los términos de la Ley que se abroga.
