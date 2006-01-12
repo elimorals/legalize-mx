@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-de-petroleos-mexicanos-y-organismos-100"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-07-16"
-last_updated: "2002-01-15"
+last_updated: "2006-01-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1992-07-15"
 
 LEY ORGANICA DE PETROLEOS MEXICANOS Y ORGANISMOS SUBSIDIARIOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE ENERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE ENERO DE 2006.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 16 de julio de 1992.
 
@@ -61,7 +61,13 @@ IV. Pemex-Petroquímica: procesos industriales petroquímicos cuyos productos no
 
 Las actividades estratégicas que esta Ley encarga a Pemex-Exploración y Producción, Pemex-Refinación y Pemex-Gas y Petroquímica Básica, sólo podrán realizarse por estos organismos.
 
-Petróleos Mexicanos y los organismos descritos estarán facultados para realizar las operaciones relacionadas directa o indirectamente con su objeto. Dichos organismos tendrán el carácter de subsidiarios con respecto a Petróleos Mexicanos, en los términos de esta Ley.
+> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 2006)</small>
+
+Petróleos Mexicanos y los organismos descritos estarán facultados para realizar las operaciones relacionadas directa o indirectamente con su objeto. Petróleos Mexicanos, los organismos subsidiarios y sus empresas podrán cogenerar energía eléctrica y vender sus excedentes a Comisión Federal de Electricidad y Luz y Fuerza del Centro, mediante convenios con las entidades mencionadas. En el Proyecto de Presupuesto de Egresos de la Federación, se someterán a discusión, análisis, aprobación y modificación de la Cámara de Diputados los recursos destinados a los proyectos de cogeneración de electricidad que Petróleos Mexicanos, los organismos subsidiarios y sus empresas propongan ejecutar, los recursos y esquemas de inversión pública con los que se pretendan llevar a cabo dichas obras, así como la adquisición de los excedentes por parte de las entidades.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 2006)</small>
+
+Los organismos descritos en el párrafo primero tendrán el carácter de subsidiarios con respecto a Petróleos Mexicanos, en los términos de esta Ley.
 
 ###### Artículo 4°.
 
@@ -214,3 +220,9 @@ D.O.F. 15 DE ENERO DE 2002.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 12 DE ENERO DE 2006.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones legales que entren en contradicción con el presente Decreto; y se dejan sin efecto todas las disposiciones reglamentarias, circulares, acuerdos y todos los actos administrativos de carácter general que contradigan las disposiciones del presente Decreto.
