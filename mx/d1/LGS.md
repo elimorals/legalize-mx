@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2005-12-26"
+last_updated: "2006-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE ENERO DE 2006.
 
 ULTIMA MODIFICACION AL LISTADO DE SUSTANCIAS PSICOTROPICAS: 9 DE JULIO DE 1996.
 
@@ -1498,9 +1498,9 @@ Para el registro de diplomas de las actividades técnicas y auxiliares, la Secre
 
 Las autoridades educativas registrarán los certificados de especialización en materia de salud que expidan las instituciones de enseñanza superior o las instituciones de salud reconocidas oficialmente.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 2006)</small>
 
-Para el registro de certificados de especialización expedidos por academias, colegios, consejos o asociaciones de profesionales de las disciplinas para la salud, las autoridades educativas competentes solicitarán, en su caso, la opinión de la Secretaría de Salud y de la Academia Nacional de Medicina.
+Para el registro de certificados de especialización expedidos por academias, colegios, consejos o asociaciones de profesionales de las disciplinas para la salud, las autoridades educativas competentes solicitaran la opinión de la Secretaría de Salud. Si se tratare del registro de certificados de especialidades médicas o del registro de la recertificación de éstas, las autoridades ya señaladas también deberán solicitar la opinión del Comité Normativo Nacional de Consejos de Especialidades Médicas.
 
 ###### ARTICULO 82.
 
@@ -5993,3 +5993,7 @@ Artículo Único. El presente Decreto entrará en vigor al día siguiente de su 
 D.O.F. 26 DE DICIEMBRE DE 2005.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 12 DE ENERO DE 2006.
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
