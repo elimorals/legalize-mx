@@ -4,7 +4,7 @@ identifier: "FED-ley-reglamentaria-del-articulo-27-constitucional-en-el-ramo-375
 country: "mx"
 rank: "ley"
 publication_date: "1958-11-29"
-last_updated: "1996-11-13"
+last_updated: "2006-01-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=375&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1958-11-27"
 
 LEY REGLAMENTARIA DEL ARTICULO 27 CONSTITUCIONAL EN EL RAMO DEL PETROLEO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE NOVIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE ENERO DE 2006.
 
 Ley publicada en el Diario Oficial de la Federación el sábado 29 de noviembre de 1958.
 
@@ -110,6 +110,14 @@ El Reglamento de esta Ley establecerá los casos en que la Secretaría de Energ�
 ###### ARTICULO 6o.
 
 Petróleos Mexicanos podrá celebrar con personas físicas o morales los contratos de obras y de prestación de servicios que la mejor realización de sus actividades requiere. Las remuneraciones que en dichos contratos se establezcan, serán siempre en efectivo y en ningón (sic) caso concederán por los servicios que se presten o las obras que se ejecuten, porcentajes en los productos, ni participación en los resultados de las explotaciones.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 2006)</small>
+
+Petróleos Mexicanos, los organismos subsidiarios y sus empresas podrán cogenerar energía eléctrica y vender sus excedentes a Comisión Federal de Electricidad y Luz y Fuerza del Centro, mediante convenios con las entidades mencionadas.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 2006)</small>
+
+En el Proyecto de Presupuesto de Egresos de la Federación, se someterán a discusión, análisis, aprobación y modificación de la Cámara de Diputados los recursos destinados a los proyectos de cogeneración de electricidad que Petróleos Mexicanos, los organismos subsidiarios y sus empresas propongan ejecutar, los recursos y esquemas de inversión pública con los que se pretendan llevar a cabo dichas obras, así como la adquisición de los excedentes por parte de las entidades.
 
 > <small>(REFORMADO, D.O.F. 11 DE MAYO DE 1995)</small>
 
@@ -268,3 +276,9 @@ D.O.F. 13 DE NOVIEMBRE DE 1996.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Petróleos Mexicanos conservará en propiedad y mantendrá en condiciones de operación los ductos y sus equipos e instalaciones accesorios para el transporte del metano, en los términos del artículo tercero transitorio del Decreto de reformas a la Ley Reglamentaria del Artículo 27 Constitucional en el Ramo del Petróleo, publicado en el Diario Oficial de la Federación de 11 de mayo de 1995.
+
+D.O.F. 12 DE ENERO DE 2006
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones legales que entren en contradicción con el presente Decreto; y se dejan sin efecto todas las disposiciones reglamentarias, circulares, acuerdos y todos los actos administrativos de carácter general que contradigan las disposiciones del presente Decreto.
