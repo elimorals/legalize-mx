@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2005-11-24"
+last_updated: "2006-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -429,9 +429,7 @@ III. La que por sentencia formal se impone como sanción.
 
 En este caso, cuando la suspensión se imponga con sanción privativa de la libertad comenzará al terminar ésta y su duración será la señalada en la sentencia; pero si la suspensión se impone sin ir acompañada de otra sanción, empezará a contar desde que cause ejecutoria el fallo, comprendiendo todo el lapso fijado.
 
-### CAPITULO XI. Suspensión de derechos, oficio o profesión y destitución o
-
-suspensión de funciones o empleos
+### CAPITULO XI. Suspensión de derechos, oficio o profesión y destitución o suspensión de funciones o empleos
 
 ###### Art. 35.
 
@@ -449,9 +447,7 @@ La publicación de la sentencia se hará a costa del delincuente, del ofendido, 
 
 La publicación de sentencia se ordenará igualmente a título de reparación, cuando se trate de resoluciones absolutorias y lo pida el inculpado. En cualquiera de los casos, se podrá ordenar la publicación en otro Estado o en algún otro periódico.
 
-### CAPITULO XIII. Internamiento o tratamiento en libertad vigilada de sujetos
-
-con imputabilidad disminuida
+### CAPITULO XIII. Internamiento o tratamiento en libertad vigilada de sujetos con imputabilidad disminuida
 
 ###### Art. 38.
 
@@ -1139,7 +1135,7 @@ Se impondrá sanción de dos a cinco años de prisión al que viole la inmunidad
 
 ### CAPITULO VI. Delitos de tránsito
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2005)</small>
+(REFORMADO PRIMER PARRAFO, P.O. 12 DE ENERO DE 2006) (F. DE E., P.O. 6 DE ABRIL DE 2006)
 
 ###### Art. 110.
 
@@ -1155,7 +1151,7 @@ En lo que sea aplicable a la sedición, se observará lo dispuesto en el capítu
 
 ###### Artículo 122.
 
-Al conductor que maneje un vehículo automotor, estando bajo los efectos del alcohol o bajo el influjo de estupefacientes o psicotrópicos, que alteren su habilidad para conducirlo, cuando cometa además cualquier otra infracción a la normatividad aplicable, se le impondrán de sesenta a ciento veinte jornadas de trabajo a favor de la comunidad, de cuarenta a doscientos días multa, e inhabilitación de tres meses a un año para manejar vehículos de motor, independientemente de las sanciones que correspondan por la comisión de otros delitos.
+Al conductor que maneje un vehículo automotor, y se le detecten más de ciento cincuenta miligramos de alcohol por cien mililitros de sangre o bajo el influjo de estupefacientes o psicotrópicos, que alteren su habilidad para conducirlo, cuando cometa además otra infracción a la normatividad aplicable en materia de tránsito y transporte, se le impondrán de sesenta a ciento veinte jornadas de trabajo a favor de la comunidad, de cuarenta a doscientos días de multa, e inhabilitación de tres meses a un año para manejar vehículos de motor, independientemente de las sanciones que correspondan por la comisión de otros delitos.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
 
@@ -1965,7 +1961,7 @@ Si se produjere daño en la salud por falta de intervención, se les impondrán 
 
 ###### Art. 159.
 
-Se impondrán de tres meses a dos años de prisión al médico, o a quien haga sus veces que reciba para atender de cualquier manera a un lesionado por un aparente hecho delictuoso y no de aviso inmediato al Ministerio Público.
+Se impondrán de tres meses a dos años de prisión al médico, o a quien haga sus veces que reciba para atender de cualquier manera a un lesionado por un aparente hecho delictuoso y no dé aviso inmediato al Ministerio Público.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
 
@@ -2169,7 +2165,7 @@ Se impondrán de un mes a tres años de prisión y multa de cien a trescientos d
 
 I. Al que, sin ser servidor público, se atribuya ese carácter e intente ejercer alguna de las funciones correspondientes;
 
-II. Al que, sin tener título profesional o autorización para ejercer alguna profesión reglamentada, expedidos por autoridad y organismos legalmente capacitados para ello, conforme a las disposiciones reglamentarias del Art. 5.° de la Constitución Política de los Estados Unidos Mexicanos, incurra en cualquiera de los casos siguientes:
+II. Al que, sin tener título profesional o autorización para ejercer alguna profesión reglamentada, expedidos por autoridad y organismos legalmente capacitados para ello, conforme a las disposiciones reglamentarias del Artículo 5o. de la Constitución Política de los Estados Unidos Mexicanos, incurra en cualquiera de los casos siguientes:
 
 a) Se atribuya el carácter de profesionista;
 
@@ -4372,3 +4368,15 @@ P.O. 30 DE AGOSTO DE 2005.
 P.O. 24 DE NOVIEMBRE DE 2005.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 12 DE ENERO DE 2006.
+
+Primero.- El presente Decreto entrará en vigor a los sesenta días posteriores a su publicación en el periódico oficial "El Estado de Jalisco".
+
+> <small>(F. DE E., P.O. 6 DE ABRIL DE 2006)</small>
+
+Segundo.- Previa la entrada en vigor el Titular del Poder Ejecutivo implementará, a través de los medios que disponga, campañas de difusión sobre el contenido del presente decreto.
+
+> <small>(F. DE E., P.O. 6 DE ABRIL DE 2006)</small>
+
+Tercero.- Previa la entrada en vigor del presente decreto, se autoriza a las Secretarías de Finanzas y Administración, en coordinación con la de Vialidad y Transporte, para realizar las adecuaciones presupuéstales y las adquisiciones necesarias de los instrumentos de medición y capacitación al personal en el manejo de estos, para el debido cumplimiento del presente decreto.
