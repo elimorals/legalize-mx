@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-del-instituto-electoral-de-queretaro-29065"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-14"
-last_updated: "2003-02-14"
+last_updated: "2006-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 14 de febrero de 2003.
 
@@ -429,45 +429,65 @@ Las comisiones transitorias una vez presentado su proyecto de dictamen o el info
 
 ### CAPITULO IV. Del Comité de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios
 
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2006)</small>
+
 ###### Artículo 48.
 
-A efecto de realizar adquisiciones, enajenaciones o arrendamientos de bienes o contratación de servicios, el Instituto conformará un Comité encargado de autorizar las operaciones mencionadas, cuyas atribuciones, actuaciones y procedimientos deberán sujetarse a lo dispuesto por la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Estado de Querétaro, la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro, el Reglamento del Comité y de acuerdo con los objetivos trazados en el Programa Anual de Actividades y la disponibilidad presupuestal para efectuarlos.
+A efecto de realizar adquisiciones, enajenaciones, arrendamientos o contratación de bienes y servicios, el Instituto conformará un Comité encargado de autorizar las operaciones mencionadas, cuyas atribuciones, actuaciones y procedimientos deberán sujetarse a lo dispuesto por la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Estado de Querétaro, la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro, el Reglamento del Comité y los demás ordenamientos aplicables. El Comité actuará de acuerdo a las partidas presupuestales que al efecto asigne la Legislatura del Estado en el Presupuesto de Egresos y a los objetivos contenidos en el Programa General de Trabajo del Instituto.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2006)</small>
 
 ###### Artículo 49.
 
-Cuando se trate de bienes o servicios relativos a la documentación y material electoral y a los mecanismos de difusión de resultados preliminares, se requerirá autorización previa del Consejo.
+Las adquisiciones, arrendamientos y contratación de bienes y servicios deberán efectuarse bajo tres modalidades: licitación pública, invitación restringida y adjudicación directa. Los procedimientos que desarrolle el Comité serán vigilados por la Comisión de Control Interno de conformidad con lo dispuesto en la Ley de la materia.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2006)</small>
 
 ###### Artículo 50.
 
-Las adquisiciones, arrendamientos y contratación de bienes y servicios, cuyo monto de la operación sea inferior al 0.00123% del Presupuesto de Egresos del Gobierno del Estado para el ejercicio fiscal vigente, serán autorizados por el Director mediante adjudicación directa.
+Cuando se trate de bienes o servicios relativos a la documentación y material electoral, así como al mecanismo de difusión de resultados preliminares, se requerirá autorización previa del Consejo General.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2006)</small>
 
 ###### Artículo 51.
 
-Las donaciones de bienes propiedad del Instituto deberán ser autorizadas por el Comité y debidamente justificadas en el dictamen que al efecto se expida, siempre y cuando se destinen a instituciones de beneficencia pública.
+Las enajenaciones de bienes muebles se llevarán a cabo por conducto del Comité, previo acuerdo de la Comisión de Control Interno, en términos de lo que señala la Ley estatal correspondiente.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2006)</small>
 
 ###### Artículo 52.
 
-El Comité se integrará con cinco miembros propietarios con sus respectivos suplentes de la forma siguiente:
+El Comité se integrará por cinco miembros propietarios con sus respectivos suplentes y estará conformado de la siguiente manera:
 
-I. Un Presidente, que será el Director Ejecutivo de Educación Cívica y Capacitación Electoral como propietario y el Técnico Electoral adscrito a dicha Dirección que al efecto designe, como suplente;
+I. El titular de la Coordinación Administrativa como Presidente;
 
-II. Un Secretario Ejecutivo, que será el Coordinador Jurídico como propietario y el Asistente adscrito a dicha Coordinación que al efecto designe, como suplente;
+II. El titular de la Coordinación Jurídica como Secretario Ejecutivo;
 
-III. Un Primer Vocal, que será el Director Ejecutivo de Organización Electoral como propietario y el Técnico Electoral adscrito a dicha Dirección que al efecto designe, como suplente;
+III. El titular de la Coordinación de Análisis, Seguimiento y Apoyo Técnico como Primer Vocal;
 
-IV. Un Segundo Vocal, que será el Coordinador de Información y Medios como propietario y el Técnico Electoral adscrito a dicha Coordinación que al efecto designe, como suplente; y
+IV. El titular de la Coordinación de Información y Medios como Segundo Vocal; y
 
-V. Un Tercer Vocal, que será el Coordinador de Análisis, Seguimiento y Apoyo Técnico como propietario y el Técnico Electoral adscrito a alguna Dirección Ejecutiva que al efecto se designe, como suplente.
+V. El titular de la Coordinación de Partidos y Asociaciones Políticas como Tercer Vocal.
+
+Los integrantes suplentes serán designados por los propietarios y deberán estar adscritos a la Coordinación correspondiente.
 
 La actuación de los integrantes suplentes no afectará la validez de los actos, procedimientos y adjudicaciones que realicen.
 
+Todos los miembros del Comité tendrán derecho a voz y voto.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2006)</small>
+
 ###### Artículo 53.
 
-Los representantes de los partidos políticos o coaliciones podrán asistir a los actos y procedimientos que en el ejercicio de sus atribuciones realice el Comité, teniendo derecho a voz.
+Las reuniones del Comité tendrán el carácter de abiertas y públicas, debiendo llevarse a cabo en un lugar apropiado dentro de las instalaciones del Instituto.
+
+Los integrantes del Consejo General podrán asistir a los actos que realice el Comité, teniendo derecho a voz en los casos y en los términos que prevengan las bases de licitación respectivas. Para estos efectos, el Secretario Ejecutivo hará de su conocimiento los procedimientos que se desarrollen.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2006)</small>
 
 ###### Artículo 54.
 
-El Comité elaborará el proyecto de reglamento que provea en la esfera administrativa el correcto ejercicio de sus atribuciones. El Presidente del Comité remitirá el proyecto, por conducto del Secretario Ejecutivo, al Consejo General para su aprobación.
+El Comité regirá su actuación conforme al Reglamento que apruebe para su funcionamiento el Consejo General, ordenándose su publicación en el Periódico Oficial “La Sombra de Arteaga”.
 
 ### CAPITULO V. De los Órganos Técnicos
 
@@ -994,3 +1014,21 @@ TERCERO.- El presente Reglamento entrará en vigor a partir del día siguiente d
 CUARTO.- Para los efectos de lo previsto en el artículo 29, la convocatoria para el año 2003 tendrá verificativo dentro de los treinta días siguientes a la expedición del presente Reglamento.
 
 QUINTO.- Los artículos 126, 127, 128 y 129 entrarán en vigor a partir de la expedición del Estatuto del Servicio Profesional Electoral y de la asignación de la partida presupuestal correspondiente.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE ENERO DE 2006.
+
+ACUERDO
+
+PRIMERO.- Este Consejo General del Instituto Electoral de Querétaro es competente para conocer respecto a la aprobación de reformas al Reglamento Interior de este organismo electoral.
+
+SEGUNDO.- El Consejo General del Instituto Electoral de Querétaro aprueba el proyecto de reformas a los artículos 48, 49, 50, 51, 52, 53 y 54 del Reglamento Interior que presenta el Director General, el que como anexo forma parte integrante del presente acuerdo, dándose por reproducido en este acto para todos los efectos a que haya lugar.
+
+TERCERO.- Se derogan las disposiciones del Reglamento Interior del Instituto Electoral de Querétaro que contravengan las normas aprobadas mediante el presente acuerdo.
+
+CUARTO.- Estas reformas al Reglamento Interior entrarán en vigor el día de su aprobación.
+
+QUINTO.- Se instruye a los integrantes propietarios del Comité para que designen a los integrantes suplentes en los términos que previenen las reformas aprobadas.
+
+SEXTO.- Se ordena su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
