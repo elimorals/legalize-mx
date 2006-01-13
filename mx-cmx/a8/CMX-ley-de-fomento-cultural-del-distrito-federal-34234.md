@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fomento-cultural-del-distrito-federal-34234"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-14"
-last_updated: "2003-10-14"
+last_updated: "2006-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34234&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-09-26"
 
 LEY DE FOMENTO CULTURAL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE ENERO DE 2006.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 14 de octubre de 2003.
 
@@ -166,21 +166,27 @@ XX. Promover el conocimiento de las diferentes expresiones de la cultura univers
 
 XXI. Preservar, promover, desarrollar y difundir las tradiciones, costumbres, festividades y certámenes populares, por ser de interés público.
 
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2006)</small>
+
 ###### ARTÍCULO 6.
 
-La presente Ley reconoce a la cultura popular y busca la participación y articulación de los grupos étnicos, las comunidades indígenas, campesinas y urbanas a la vida cultural, artística y económica de la Ciudad de México, con pleno respeto de sus tradiciones lingüísticas, de identidad y patrimonio cultural.
+La presente ley reconoce a la cultura popular y busca la participación y articulación de los grupos étnicos, las comunidades indígenas, campesinas y urbanas a la vida cultural, artística y económica de la Ciudad de México, con pleno respeto de sus tradiciones lingüísticas, de identidad y patrimonio cultural. Asimismo, reconoce la necesidad de revertir los procesos de exclusión, segregación, socioterritorialidad y desigualdad en sus diversas formas, derivados de la mala distribución de la riqueza entre los individuos y grupos sociales, para que puedan incorporarse plenamente a la vida cultural de la Ciudad.
+
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2006)</small>
 
 ###### ARTÍCULO 7.
 
 Para el fomento de la cultura popular, las autoridades culturales deberán:
 
-I. Asesorar técnicamente a las comunidades en sus necesidades y demandas culturales;
+I.- Asesorar técnicamente a las comunidades en sus necesidades y demandas culturales;
 
-II. Promover programas y acciones que consideren al medio ambiente como un valor y bien cultural, en cuya preservación debe estimularse la participación de la comunidad en su conjunto;
+II.- Promover programas y acciones que consideren al medio ambiente como un valor y bien cultural, en cuya preservación debe estimularse la participación de la comunidad en su conjunto;
 
-III. Impulsar la formación de artistas, artesanos, docentes, investigadores, promotores y administradores culturales; y
+III.- Impulsar la formación de artistas, artesanos, docentes, investigadores, promotores y administradores culturales, que fomenten las industrias culturales populares;
 
-IV. Generar centros de capacitación.
+IV.- Generar centros de capacitación que fomenten la construcción de la equidad social para todos los grupos excluidos, el reconocimiento de la diversidad cultural y el desarrollo de relaciones de convivencia interculturales en la Ciudad;
+
+V.- Promover programas específicos para garantizar la infraestructura y equipamiento cultural en las delegaciones del Gobierno del Distrito Federal menos favorecidas, para cumplir con su responsabilidad de fomentar la cultura popular.
 
 ###### ARTÍCULO 8.
 
@@ -303,8 +309,6 @@ I. Definir en el Programa General de Desarrollo del Distrito Federal, los objeti
 II. Aprobar el Programa de Fomento y Desarrollo Cultural del Distrito Federal y los programas delegacionales;
 
 III. Publicar el Programa de Fomento y Desarrollo Cultural para el Distrito Federal y los programas delegacionales;
-
-> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION REMITASE AL ARTICULO SEXTO TRANSITORIO.</small>
 
 IV. Asignar como mínimo anualmente, el 2 por ciento del gasto programable del presupuesto total del Gobierno del Distrito Federal;
 
@@ -709,3 +713,13 @@ Recinto de la Asamblea Legislativa del Distrito Federal, a los dieciocho días d
 POR LA MESA DIRECTIVA.- DIP. ALEJANDRO DIEZ BARROSO REPIZO, PRESIDENTE.- SECRETARIO, DIP. RAFAEL LUNA ALVISO.- (Firmas).
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67 fracción II, del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintiséis días del mes de septiembre del dos mil tres.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, LIC. ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.- LA SECRETARIA DE DESARROLLO SOCIAL, RAQUEL SOSA ELÍZAGA.- FIRMA.- LA SECRETARIA DE TURISMO, JULIA RITA CAMPOS DE LA TORRE.- FIRMA.- EL SECRETARIO DE CULTURA, ENRIQUE SEMO CALEV.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 13 DE ENERO DE 2006.
+
+PRIMERO.- Túrnese al Jefe de Gobierno del Distrito Federal para su promulgación y publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Se derogan todas las disposiciones que contravengan lo dispuesto por el presente decreto.
