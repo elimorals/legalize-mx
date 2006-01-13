@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-462
 country: "mx"
 rank: "otro"
 publication_date: "1995-03-13"
-last_updated: "2005-12-12"
+last_updated: "2006-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46227&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,25 +19,91 @@ issue_date: "1995-03-03"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO (MULTILATERAL, 1994)
 
-ACUERDO POR EL QUE SE DA A CONOCER LA DISPENSA TEMPORAL PARA LA UTILIZACION DE MATERIALES DE FUERA DE LA ZONA DE LIBRE COMERCIO PARA QUE DETERMINADOS BIENES TEXTILES Y DEL VESTIDO RECIBAN EL TRATO ARANCELARIO PREFERENCIAL ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO CELEBRADO ENTRE LOS ESTADOS UNIDOS MEXICANOS, LA REPUBLICA DE COLOMBIA Y LA REPUBLICA BOLIVARIANA DE VENEZUELA
+DECRETO QUE MODIFICA EL DIVERSO POR EL QUE SE ESTABLECE LA TASA APLICABLE A PARTIR DEL 1 DE ENERO DE 2005 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE LA REPUBLICA DE COLOMBIA Y LA REPUBLICA DE VENEZUELA
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 12 de diciembre de 2005.
+Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 13 de enero de 2006.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía, con fundamento en los artículos 34 de la Ley Orgánica de la Administración Pública Federal; 5o. fracción X de la Ley de Comercio Exterior; 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, y 131 de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 2o., 4o. fracción I, y 14 de la Ley de Comercio Exterior; 31 y 34 de la Ley Orgánica de la Administración Pública Federal, y
 
 CONSIDERANDO
 
-Que el 1 de enero de 1995 entró en vigor el Tratado de Libre Comercio entre los Estados Unidos Mexicanos, la República de Colombia y la República Bolivariana de Venezuela (el Tratado) en el cual las Partes establecieron de conformidad con el artículo 6-20 del propio Tratado, un Comité de Integración Regional de Insumos (CIRI);
+Que el Tratado de Libre Comercio entre los Estados Unidos Mexicanos, la República de Colombia y la República de Venezuela (el Tratado) fue aprobado por el Senado de la República el 13 de junio de 1994, promulgado el 31 de diciembre del mismo año, para entrar en vigor al día siguiente, dicho Decreto promulgatorio fue publicado en el Diario Oficial de la Federación el día 9 de enero de 1995;
 
-Que el artículo 6-23 del Tratado faculta al CIRI para dictaminar sobre los montos y términos de una dispensa para la utilización de materiales producidos u obtenidos fuera de la zona de libre comercio a fin de recibir trato arancelario preferencial;
+Que el Tratado prevé la eliminación de los aranceles para la mayor parte del universo de mercancías originarias que conforman el comercio trilateral de bienes originarios de la región conformada por México, Colombia y Venezuela;
 
-Que el 18 de octubre de 2005 el CIRI emitió un Dictamen en el que determinó otorgar una dispensa para la utilización de ciertos materiales producidos u obtenidos fuera de la zona de libre comercio en la manufactura de ciertos bienes textiles y del vestido a fin de que estos bienes puedan recibir el trato arancelario preferencial previsto en el Tratado, y
+Que el Decreto por el que se establece la tasa aplicable a partir del 1 de enero de 2005 del Impuesto General de Importación para las mercancías originarias de la República de Colombia y la República de Venezuela, publicado el 28 de diciembre de 2004 en el Diario Oficial de la Federación (en adelante el Decreto) establece la tasa aplicable a partir del 1 de enero de 2005 del Impuesto General de Importación para las mercancías originarias de la República de Colombia y la República de Venezuela;
 
-Que los gobiernos de los Estados Unidos Mexicanos y de la República de Colombia de conformidad con lo establecido en los artículos 6-20, 6-21, 6-22, 6-23 y 6-24 del Tratado, tomando en consideración el dictamen emitido por el CIRI, que determina la posibilidad de otorgar una dispensa para la utilización de materiales producidos u obtenidos fuera de la zona de libre comercio en la manufactura de ciertos bienes textiles y del vestido y que estos bienes puedan recibir el trato arancelario preferencial, adoptaron el 24 de noviembre del presente año la referida dispensa, he tenido a bien expedir el siguiente
+Que el 21 de febrero de 2005, la Comisión Administradora del Tratado adoptó la Decisión No. 42, mediante la cual, de acuerdo a la recomendación del Comité Automotor del Tratado, se incorpora el sector automotor al programa de desgravación del mismo, y se establecen las reglas de origen para ese sector, que fue aprobada por el Senado de la República el 6 de octubre de 2005, y publicada dicha aprobación el 20 de diciembre de 2005 en el Diario Oficial de la Federación;
 
-ACUERDO POR EL QUE SE DA A CONOCER LA DISPENSA TEMPORAL PARA LA UTILIZACION DE MATERIALES DE FUERA DE LA ZONA DE LIBRE COMERCIO PARA QUE DETERMINADOS BIENES TEXTILES Y DEL VESTIDO RECIBAN EL TRATO ARANCELARIO PREFERENCIAL ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO CELEBRADO ENTRE LOS ESTADOS UNIDOS MEXICANOS, LA REPUBLICA DE COLOMBIA Y LA REPUBLICA BOLIVARIANA DE VENEZUELA
+Que el 21 de febrero de 2005 la Comisión Administradora del Tratado adoptó la Decisión No. 43 mediante la cual se modifican o adecuan ciertas reglas específicas de origen de la sección B del anexo al artículo 6-03 del Tratado, que fue aprobada por el Senado de la República el 6 de octubre de 2005, y publicada dicha aprobación el 20 de diciembre de 2005 en el Diario Oficial de la Federación;
+
+Que de conformidad con lo establecido en los numerales 3 y 10 de las Decisiones Nos. 42 y 43, respectivamente, la República de Colombia y los Estados Unidos Mexicanos han intercambiado las comunicaciones en las que certifican que se han concluido las formalidades jurídicas necesarias para la implementación de las referidas Decisiones, por lo que, el intercambio de bienes originarios entre México y Colombia debe regirse por lo dispuesto en las mismas, y
+
+Que por lo anterior, es necesario adecuar el Decreto, con lo dispuesto en las Decisiones Nos. 42 y 43; y que es necesario dar a conocer lo anterior a los particulares y a las autoridades aduaneras, he tenido a bien expedir el siguiente
+
+DECRETO QUE MODIFICA EL DIVERSO POR EL QUE SE ESTABLECE LA TASA APLICABLE A PARTIR DEL 1 DE ENERO DE 2005 DEL IMPUESTO GENERAL DE IMPORTACIÓN PARA LAS MERCANCÍAS ORIGINARIAS DE LA REPÚBLICA DE COLOMBIA Y LA REPÚBLICA DE VENEZUELA
+
+###### ARTÍCULO PRIMERO.
+
+Se modifica el artículo 2 del Decreto para quedar como sigue:
+
+“ARTÍCULO 2.- Para los efectos del presente Decreto, se entiende por:
+
+a) Mercancías originarias de la región conformada por México, Colombia y Venezuela.- Las que cumplan con las reglas de origen establecidas en el Capítulo VI denominado “Reglas de Origen” del Tratado;
+
+b) excl.- Abreviatura que señala las mercancías que se excluyeron de la negociación del Tratado para otorgarles trato arancelario preferencial, y que por lo tanto pagarán el arancel correspondiente tal y como lo señala el artículo 1 de la Ley de los Impuestos Generales de Importación y de Exportación.”
+
+###### ARTÍCULO SEGUNDO.
+
+Se adiciona el artículo 14 al Decreto, para quedar como sigue:
+
+a) Colombia
+
+(VEASE ARCHIVO ANEXO)
+
+b) Venezuela
+
+(VEASE ARCHIVO ANEXO)
+
+###### ARTÍCULO TERCERO.
+
+Se adiciona el artículo 15 al Decreto, para quedar como se indica a continuación:
+
+“ARTÍCULO 15.- La importación de mercancías originarias provenientes de Colombia o Venezuela, comprendidas en las fracciones arancelarias que se señalan en este artículo, estará sujeta a la tasa arancelaria que se indica en la columna correspondiente para cada año.
+
+a) Arancel aplicado a las mercancías originarias de Colombia o Venezuela.
+
+(VEASE ARCHIVO ANEXO)
+
+b) Lo dispuesto en este apartado, sólo será aplicable a las importaciones de productos automotores de peso bruto vehicular menor o igual a 8.8 toneladas, que cuenten con certificado de cupo expedido por la Secretaría de Economía.
+
+(VEASE ARCHIVO ANEXO)
+
+###### ARTÍCULO CUARTO.
+
+Se eliminan las siguientes fracciones del artículo 8 del Decreto:
+
+“8413.50.99
+
+8421.39.99
+
+8425.42.02
+
+8425.42.99
+
+8481.80.99
+
+8547.10.99.”
+
+###### ARTÍCULO QUINTO.
+
+Se modifica el artículo 10 del Decreto para quedar como sigue:
+
+“ARTÍCULO 10.- La importación de mercancías originarias, provenientes de Venezuela, comprendidas en las fracciones arancelarias identificadas en este artículo estará sujeta al arancel preferencial que se establece a continuación y estará exenta de arancel a partir del 1o. de enero de 2007, únicamente cuando se trate de la modalidad de la mercancía que se indica:
+
+…”
 
 ###### ARTÍCULO 1.
 
@@ -163,8 +229,16 @@ VIII.- "Trato arancelario preferencial" y "tasa arancelaria preferencial", el ar
 
 3.- Para determinar la tasa arancelaria preferencial aplicable a un bien originario que se importa a territorio nacional deberá estarse a lo dispuesto en el artículo 3o. y demás disposiciones aplicables del "Decreto que establece la tasa aplicable para 1995 del Impuesto General de Importación para las mercancías originarias de Colombia, Venezuela, Costa Rica, Bolivia y Chile conforme a lo establecido en el Tratado de Libre Comercio entre México, Colombia y Venezuela, el Tratado de Libre Comercio entre México y Costa Rica, el Tratado de Libre Comercio entre México y Bolivia y el Acuerdo de Complementación Económica entre México y Chile", publicado en el Diario Oficial de la Federación el 29 de diciembre de 1994.
 
-## TRANSITORIO
+## TRANSITORIOS
 
-UNICO.- El presente Acuerdo estará en vigor del 1 de enero al 31 de diciembre de 2006.
+PRIMERO.- El presente Decreto entrará en vigor a partir del 15 de enero de 2006.
 
-México, D.F., a 2 (sic) diciembre de 2005.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
+SEGUNDO.- A partir de la entrada en vigor de este Decreto y hasta que el gobierno de la República de Venezuela intercambie con los Estados Unidos Mexicanos y con la República de Colombia las comunicaciones en las que certifique que ha concluido las formalidades jurídicas necesarias para la implementación de las Decisiones Nos. 42 y 43, los artículos 4, 5, 10 y 11 del Decreto se aplicarán exclusivamente para las mercancías provenientes de Venezuela, y que sean originarias de conformidad con las condiciones establecidas en los mismos.
+
+TERCERO.- No obstante lo dispuesto en el artículo 1 de este Decreto, las disposiciones de los artículos segundo y tercero de este Decreto, mediante las cuales se adicionan los artículos 14 y 15, relativas a los bienes comprendidos en las Decisiones Nos. 42 y 43 originarios de la República de Venezuela, entrarán en vigor hasta el momento en que el gobierno de ese país intercambie con los Estados Unidos Mexicanos y la República de Colombia las comunicaciones en las que certifique que ha concluido las formalidades jurídicas necesarias para la implementación en su país de las referidas Decisiones.
+
+CUARTO.- No obstante lo dispuesto en el artículo 1 de este Decreto, los materiales de origen venezolano a ser incorporados en mercancías fabricadas en Colombia para ser exportadas a territorio de los Estados Unidos Mexicanos al amparo de las disposiciones de las Decisiones Nos. 42 y 43 serán considerados como no originarios de la región conformada por las Partes del Tratado hasta que el gobierno de la República de Venezuela intercambie con los Estados Unidos Mexicanos y con la República de Colombia las comunicaciones en las que certifique que ha concluido las formalidades jurídicas necesarias para la implementación de las Decisiones.
+
+QUINTO.- Una vez que la República de Venezuela y los Estados Unidos Mexicanos intercambien las comunicaciones a las que se refieren los artículos Segundo, Tercero y Cuarto Transitorios, la Secretaría de Economía publicará un aviso en el Diario Oficial de la Federación mediante el que notifique la entrada en vigor de las Decisiones Nos. 42 y 43 y por lo tanto, de las disposiciones de este Decreto en relación con los bienes y materiales originarios de Venezuela, comprendidos en las Decisiones.
+
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de enero de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
