@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2006-01-11"
+last_updated: "2006-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE ENERO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE ENERO DE 2006.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
@@ -53,9 +53,11 @@ ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 La presente Ley es de observancia general para la Administración Pública del Estado de Veracruz de Ignacio de la Llave y tiene por objeto establecer las bases de la organización y funcionamiento de las dependencias centralizadas y entidades paraestatales en que se divide.
 
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2006)</small>
+
 ###### Artículo 2.
 
-Las Secretarías del Despacho, la Procuraduría General de Justicia, la Contraloría General y la Coordinación General de Comunicación Social integran la Administración Pública Centralizada.
+Las Secretarías del Despacho, la Procuraduría General de Justicia, la Contraloría General y la Dirección General de Comunicación Social integran la Administración Pública Centralizada.
 
 ###### Artículo 3.
 
@@ -151,19 +153,17 @@ II. Secretaría de Seguridad Pública
 
 III. Secretaría de Finanzas y Planeación
 
-> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
-IV. Secretaría de Educación y Cultura
+IV. Secretaría de Educación
 
 > <small>(REFORMADA, G.O. 29 DE JUNIO DE 2005)</small>
 
 V. Secretaría de Trabajo, Previsión Social y Productividad;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
-> <small>(REFORMADA, G.O. 20 DE MAYO DE 2002)</small>
-
-VI. Secretaría de Desarrollo Económico
+VI. Secretaría de Desarrollo Económico y Portuario
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
@@ -171,41 +171,33 @@ VI. Secretaría de Desarrollo Económico
 
 VII. Secretaría de Comunicaciones
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
-> <small>(REFORMADA, G.O. 20 DE MAYO DE 2002)</small>
+VIII. Secretaría de Desarrollo Social y Medio Ambiente
 
-VIII. Secretaría de Desarrollo Regional
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+IX. Secretaría de Desarrollo Agropecuario, Rural, Forestal y Pesca
 
-> <small>(REFORMADA, G.O. 20 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
-IX. Secretaría de Desarrollo Agropecuario, Rural, Forestal, Pesca y Alimentación
+X. Secretaría de Salud
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
-> <small>(REFORMADA, G.O. 20 DE MAYO DE 2002)</small>
+XI. Secretaría de Turismo y Cultura
 
-X. Secretaría de Salud y Asistencia
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+XII. Contraloría General
 
-> <small>(REFORMADA, G.O. 20 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
-XI. Contraloría General
+XIII. Procuraduría General de Justicia
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
 
-> <small>(REFORMADA, G.O. 20 DE MAYO DE 2002)</small>
-
-XII. Procuraduría General de Justicia
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2002)</small>
-
-XIII. Coordinación General de Comunicación Social
+XIV. Dirección General de Comunicación Social
 
 Las dependencias tendrán igual rango y entre ellas no habrá preeminencia alguna, con excepción de lo que establece la Constitución Política del Estado acerca de la Secretaría de Gobierno.
 
@@ -369,7 +361,7 @@ X. Designar y remover a los representantes de la Secretaría en las comisiones u
 
 XI. Autorizar el proyecto del presupuesto anual de egresos de la Secretaría y de las comisiones que presida, así como autorizar y supervisar la aplicación eficiente de los recursos financieros, humanos y materiales de la Secretaría;
 
-XII. Efectuar el compendio de datos para la elaboración del Informe Anual de Gobierno;
+XII. (DEROGADA, G.O. 13 DE ENERO DE 2006)
 
 XIII. Someter a la consideración del Gobernador del Estado, las propuestas para regular el aprovechamiento del tiempo que corresponda a la Entidad, en los canales concesionados de radio y televisión, conforme a la legislación aplicable;
 
@@ -431,9 +423,9 @@ XXXII. Intervenir en la realización de los actos jurídicos necesarios para rei
 
 XXXIII. Fomentar el desarrollo de la cultura política en la Entidad;
 
-> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
-XXXIV. Coordinar las acciones de las dependencias y entidades de la administración pública con las autoridades federales, en materia de protección al consumidor;
+XXXIV. Dirigir y coordinar las políticas y programas de la Administración Pública en materia de Equidad de Género y Desarrollo Municipal, participando en los Órganos de Gobierno de las instituciones que se constituyan para el manejo y atención de esos temas, mismas que estarán sectorizados a esta Secretaría.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
@@ -661,23 +653,49 @@ LII. Emitir los lineamientos para establecer sistemas uniformes de control del e
 
 LIII. Dictaminar sobre solicitudes de ampliación presupuestal por modificaciones a la estructura orgánica y de recursos humanos que presenten las dependencias y entidades.
 
-De la Secretaría de Educación y Cultura
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
+LIV. Vigilar y administrar los inmuebles de propiedad estatal destinados o no a un servicio público o a fines de interés social, cuando no estén afectos a otras dependencias; los que se utilicen para dicho fin y los equiparados con éstos, conforme a la ley; así como las plazas, paseos y parques públicos, cuya construcción o conservación esté a cargo del Gobierno del Estado;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
+LV. Tramitar, previo acuerdo con el Gobernador del Estado, la adquisición, enajenación, destino o afectación de los bienes inmuebles de la Administración Pública Estatal. Tratándose de enajenaciones a título oneroso o gratuito, o para conceder el uso o disfrute de bienes inmuebles de propiedad estatal, deberá obtenerse previamente la autorización del Congreso del Estado;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
+LVI. Tramitar y ejecutar los acuerdos del Gobernador del Estado relativos a la expropiación, ocupación temporal y limitación de dominio, en los casos de utilidad pública, de conformidad con la legislación aplicable;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
+LVII. Mantener actualizado el avalúo de los bienes inmuebles estatales; el catastro y la información geográfica y estadística de la Entidad.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 13 DE ENERO DE 2006)</small>
+
+De la Secretaría de Educación
+
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2006)</small>
 
 ###### Artículo 21.
 
-La Secretaría de Educación y Cultura es la dependencia responsable de coordinar la política educativa del Estado y organizar el Sistema Educativo Estatal en todos sus niveles y modalidades, en los términos que establece la Constitución Política del Estado y las leyes aplicables; así como de desarrollar, supervisar y coordinar los programas educativos, culturales, recreativos y deportivos, a fin de promover, fomentar y procurar el progreso y bienestar de la población de la Entidad.
+La Secretaría de Educación es la dependencia responsable de coordinar la política educativa del Estado y organizar el Sistema Educativo Estatal en todos sus niveles y modalidades, en los términos que establece la Constitución Política del Estado y las leyes aplicables; así como de desarrollar, supervisar y coordinar los programas educativos, científicos y deportivos, a fin de promover, fomentar y procurar el progreso y el bienestar de la población de la Entidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE ENERO DE 2006)</small>
 
 ###### Artículo 22.
 
-Son atribuciones del Secretario de Educación y Cultura, conforme a la distribución de competencias que establezca su Reglamento Interior, las siguientes:
+Son atribuciones del Secretario de Educación, conforme a la distribución de competencias que establezca su reglamento interior, las siguientes:
 
 I. Planear, fomentar, dirigir y vigilar la educación que impartan las instituciones educativas en todos los tipos, niveles y modalidades, conforme a las bases que establece la Constitución Política del Estado, esta ley y demás leyes del Estado;
 
-II. Formular las políticas y programas generales, relativos a la difusión de la cultura, la conservación e incremento del patrimonio artístico y la promoción de las actividades recreativas y deportivas;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+II. Formular las políticas y programas generales relativos a las actividades recreativas y deportivas;
 
 III. Fomentar el conocimiento de la lengua nacional y la investigación de la geografía, historia y cultura de Veracruz, así como su papel en el desarrollo de la nación mexicana y en el contexto internacional;
 
-IV. Desarrollar y promover el enriquecimiento, conservación y difusión de los bienes que integran el patrimonio artístico, histórico, científico y cultural de la Entidad;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+IV. Desarrollar y promover el enriquecimiento, conservación y difusión de los bienes que integran el patrimonio educativo y científico de la Entidad;
 
 V. Cuidar que la educación que se imparta a los pueblos indígenas se haga en forma bilingüe, con respeto a sus tradiciones, usos y costumbres, e incorpore contenidos acerca de su etnohistoria y cosmovisión;
 
@@ -691,15 +709,23 @@ IX. Otorgar becas a los estudiantes de escasos recursos económicos en los térm
 
 X. Otorgar equivalencias y revalidar en términos de la ley los estudios que sean equivalentes a los que se impartan en el Estado;
 
-XI. Autorizar o reconocer los estudios que impartan las instituciones educativas particulares, incorporándolas al Sistema Educativo Estatal;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XI. Incorporar y reconocer los estudios que impartan las instituciones educativas particulares pertenecientes al Sistema Educativo Estatal y ejecutar las políticas y programas en materia de Educación Superior en la Entidad; así como realizar labores de control, supervisión y evaluación a las Instituciones de Educación Básica, Media Superior y Superior y autorizar, otorgar, modificar o revocar los Registros de Validez Oficial del (sic) Estudios y verificar los procedimientos que deban seguirse para el otorgamiento de certificados, títulos profesionales y grados académicos que expidan u otorguen;
 
 XII. Coordinar con las universidades e instituciones de educación superior, el servicio social de pasantes, la orientación vocacional y otros aspectos educativos que se acuerden con dichas instituciones;
 
-XIII. Coordinar, organizar, dirigir y fomentar con los Ayuntamientos e instituciones públicas o particulares el establecimiento de bibliotecas, hemerotecas, casas de cultura y museos, así como promover la creación de instituciones culturales;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
-XIV. Promover la edición y distribución de obras científicas, históricas y literarias para el conocimiento y desarrollo cultural del Estado;
+XIII. Coordinar, organizar, dirigir y fomentar con los ayuntamientos e instituciones públicas o particulares el establecimiento de bibliotecas y hemerotecas, así como promover la creación de instituciones de divulgación científica y educativa;
 
-XV. Mantener por sí o en coordinación con los gobiernos federal o municipales, programas permanentes de educación para adultos, de alfabetización, de enseñanza abierta y de acreditación de estudios;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XIV. Promover en coordinación con la Secretaría de Turismo y Cultura la edición y distribución de obras científicas, pedagógicas, históricas y literarias para la difusión del conocimiento, y el desarrollo cultural; asimismo, elevar el nivel educativo de la población del Estado.
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XV. Mantener por sí o en coordinación con los gobiernos federal y municipales, programas permanentes de Educación para Adultos, de Alfabetización, de Enseñanza Abierta y para trabajadores, así como la acreditación de estudios; constituirá una prioridad la erradicación de Analfabetismo, particularmente en los sectores sociales afectados con mayor grado de marginación.
 
 XVI. Fomentar y vigilar el desarrollo de la investigación científica y tecnológica en la Entidad;
 
@@ -709,7 +735,9 @@ XVIII. Coordinar con las autoridades competentes, la realización de campañas p
 
 XIX. Promover y organizar actividades de recreación y aprovechamiento del tiempo libre, tendientes a estimular la formación integral de la niñez y la juventud veracruzanas;
 
-XX. Coordinar, organizar y fomentar la enseñanza y la práctica de los deportes en los planteles educativos del Estado, así como impulsar la participación de los veracruzanos en torneos y justas deportivas nacionales e internacionales;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XX. Coordinar, organizar y fomentar la enseñanza y la práctica de los deportes en los planteles educativos del Estado, así como impulsar la participación de los veracruzanos en los torneos y justas deportivas nacionales e internacionales, procurando elevar su competitividad y alcanzar niveles de excelencia.
 
 XXI. Vigilar, en coordinación con las autoridades competentes, la realización de los actos cívicos escolares, de acuerdo con el calendario oficial;
 
@@ -717,7 +745,9 @@ XXII. Fomentar en los educandos el amor y el respeto a los símbolos patrios, y 
 
 XXIII. Promover, en coordinación con las autoridades competentes, los valores familiares y sociales que tiendan a la solidaridad humana, la preservación de la naturaleza y los centros urbanos y el respeto a la ley;
 
-XXIV. Patrocinar la realización de congresos, asambleas, reuniones, eventos, competencias y concursos de carácter científico, técnico, cultural, educativo y artístico;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XXIV. Patrocinar en coordinación con la Secretaría de Turismo y Cultura, la realización de congresos, asambleas, reuniones, eventos, competencias y concursos de carácter científico, técnico, cultural, artístico y educativo;
 
 XXV. Planear, organizar y supervisar el desarrollo de programas de educación tecnológica, con el fin de crear, conservar y transmitir la cultura y la ciencia, con respeto a la libertad de cátedra y de investigación, de libre examen y de discusión de las ideas, y procurar su vinculación con el sector productivo;
 
@@ -740,6 +770,14 @@ XXXIII. Ajustar el calendario escolar respecto al establecido por la autoridad e
 XXXIV. Promover la participación social para el fortalecimiento y desarrollo del Sistema Educativo Estatal; y
 
 XXXV. Promover los servicios de formación, actualización, capacitación y superación profesional para los maestros del Sistema Educativo Estatal.
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XXXVI. Dirigir, coordinar y ejecutar las políticas públicas que conlleven a elevar la calidad de la Educación Preescolar que imparta el Estado;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XXXVII. Proponer y ejecutar las políticas y programas del Estado en materia de investigación científica y tecnológica, así como divulgación de la ciencia y la tecnología y la promoción de los usos sociales del conocimiento como la conectividad enciclomedia y otros esquemas similares.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 29 DE JUNIO DE 2005)</small>
 
@@ -883,25 +921,35 @@ XX. Fomentar y apoyar la organización social para el trabajo y el autoempleo; y
 
 XXI. Impulsar y apoyar el desarrollo social, cultural y recreativo de los trabajadores y sus familias.
 
-De la Secretaría de Desarrollo Económico
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 13 DE ENERO DE 2006)</small>
+
+De la Secretaría de Desarrollo Económico y Portuario
+
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2006)</small>
 
 ###### Artículo 23.
 
-La Secretaría de Desarrollo Económico es la dependencia responsable de coordinar la política de desarrollo industrial, comercial y turístico de la Entidad, así como de vigilar la aplicación y observancia de las disposiciones legales aplicables en estas materias.
+La Secretaría de Desarrollo Económico y Portuario es la dependencia responsable de coordinar la política de desarrollo industrial, comercial y portuario de la entidad, así como de vigilar la aplicación y observancia de las disposiciones legales en estas materias.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE ENERO DE 2006)</small>
 
 ###### Artículo 24.
 
-Son atribuciones del Secretario de Desarrollo Económico, conforme a la distribución de competencias que establezca su Reglamento Interior, las siguientes:
+Son atribuciones del Secretario de Desarrollo Económico y Portuario, conforme a la distribución de competencias que establezca su reglamento interior, las siguientes:
 
-I. Formular, dirigir, coordinar y controlar, en los términos de las leyes de la materia y del Plan Veracruzano de Desarrollo, la ejecución de las políticas y programas del Estado de Veracruz relativos al fomento de las actividades industriales y mineras;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+I. Formular, dirigir, coordinar y controlar, en términos de las leyes de la materia y del Plan Veracruzano de Desarrollo, la ejecución de las políticas y programas del estado de Veracruz, relativos al fomento de las actividades industriales, mineras y portuarias.
 
 II. Apoyar los programas de investigación tecnológica industrial y fomentar su divulgación;
 
-III. Promover, fomentar y, en su caso, participar en la creación de parques, corredores y ciudades industriales en el Estado;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
-> <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO QUINTO DEL DECRETO NÚMERO 269, PUBLICADO EN LA G.O. 12 DE FEBRERO DE 2002, EN TODOS AQUELLOS ORDENAMIENTOS EN QUE APAREZCA EL NOMBRE DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO, FORESTAL Y PESQUERO, SE DEBERÁ ENTENDER COMO SECRETARÍA DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL, PESCA Y ALIMENTACIÓN.]</small>
+III. Promover, fomentar y, en su caso, participar en la creación de parques, corredores y ciudades industriales así como en el desarrollo de la infraestructura portuaria y servicios conexos de competencia estatal;
 
-IV. En coordinación con la Secretaría de Desarrollo Agropecuario, Forestal y Pesquero, participar en los programas de desarrollo de la industria piscícola en el Estado;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+IV. En coordinación con la Secretaría de Desarrollo Agropecuario, Rural, Forestal y Pesca participar en los programas de impulso a la industria piscícola en el Estado.
 
 V. Promover y fomentar en los términos de las leyes de la materia, la inversión, las coinversiones y la instalación de empresas convenientes al Estado de Veracruz, que generen fuentes de empleo;
 
@@ -909,13 +957,17 @@ VI. Participar en coordinación con las autoridades competentes, en la planeaci�
 
 VII. Servir de órgano de consulta y asesoría en materia de desarrollo económico, tanto a los organismos públicos y privados como a las dependencias del Ejecutivo;
 
-VIII. Asesorar técnicamente a los Ayuntamientos y a los sectores social y privado que lo soliciten, en el establecimiento de nuevas industrias o en la ejecución de proyectos productivos;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+VIII. Asesorar técnicamente a los ayuntamientos y a los sectores social y privado que lo soliciten, en el establecimiento de nuevas industrias o en la ejecución de proyectos productivos y de desarrollo portuario;
 
 IX. Promover, en coordinación con la Secretaría de Finanzas y Planeación, el otorgamiento de estímulos de orden tributario con objeto de fomentar la participación de la iniciativa privada en la inversión productiva en la Entidad;
 
 X. Diseñar y establecer mecanismos administrativos tendientes a reducir y agilizar trámites en los procesos de establecimiento de nuevas empresas;
 
-XI. Proponer las políticas y ejecutar los programas relativos al fomento del comercio, de acuerdo con el Plan Veracruzano de Desarrollo;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XI. Proponer las políticas y ejecutar los programas relativos al fomento del comercio y del desarrollo portuario; de acuerdo con el Plan Veracruzano de Desarrollo;
 
 XII. Asesorar técnicamente, en materia de desarrollo comercial y de abastos, a las dependencias y entidades de la Administración Pública y a los sectores social y privado que así lo soliciten;
 
@@ -931,39 +983,45 @@ XVII. Auxiliar a las autoridades federales en la vigilancia del estricto cumplim
 
 XVIII. Promover y apoyar el desarrollo del comercio exterior;
 
-XIX. Proponer las políticas y ejecutar los programas relativos al fomento del turismo estatal, en un marco de sustentabilidad;
+XIX. (DEROGADA, G.O. 13 DE ENERO DE 2006)
 
-XX. Proveer técnica y económicamente el establecimiento de polos de desarrollo turístico en el territorio del Estado, de acuerdo con el Plan Veracruzano de Desarrollo;
+XX. (DEROGADA, G.O. 13 DE ENERO DE 2006)
 
-XXI. Procurar la conservación y protección del entorno natural y cultural de las zonas de desarrollo turístico en el Estado, coordinadamente con las autoridades competentes en estas materias, así como la promoción de la cultura turística;
+XXI. (DEROGADA, G.O. 13 DE ENERO DE 2006)
 
-XXII. Promover la formación y capacitación de recursos humanos que deban incorporarse al sector turístico, con el objeto de elevar la calidad de los servicios;
+XXII. (DEROGADA, G.O. 13 DE ENERO DE 2006)
 
-XXIII. Fomentar, apoyar y promover el turismo social, en coordinación con los sectores público y privado, así como propiciar la formación de asociaciones, patronatos, comités y demás organismos que lo auspicien y prestarles la asesoría correspondiente;
+XXIII. (DEROGADA, G.O. 13 DE ENERO DE 2006)
 
-XXIV. Formular y difundir la información turística del Estado de Veracruz y coordinar la publicidad que en esta materia realicen las dependencias y entidades estatales, de conformidad con los lineamientos establecidos al respecto, así como divulgar la que efectúen los sectores social y privado;
+XXIV. (DEROGADA, G.O. 13 DE ENERO DE 2006)
 
-XXV. Promover y apoyar el desarrollo de la infraestructura turística y estimular la participación de los sectores de la población interesados en la inversión en esta actividad;
+XXV. (DEROGADA, G.O. 13 DE ENERO DE 2006)
 
-XXVI. Coadyuvar con las dependencias y entidades del sector público, así como con los sectores privado y social, en la conservación del señalamiento turístico en las vías públicas estatales y municipales y en los lugares de interés turístico del Estado;
+XXVI. (DEROGADA, G.O. 13 DE ENERO DE 2006)
 
-XXVII. Vigilar que el crédito destinado a las actividades turísticas se oriente hacia los renglones prioritarios enunciados en el Plan Veracruzano de Desarrollo;
+XXVII. (DEROGADA, G.O. 13 DE ENERO DE 2006)
 
-XXVIII. Promover, organizar y participar en conferencias, ferias, exposiciones, encuentros, congresos, eventos tradicionales y folklóricos y actividades culturales relacionadas con la actividad turística, que permitan una mayor afluencia de turismo hacia el Estado;
+XXVIII. (DEROGADA, G.O. 13 DE ENERO DE 2006)
 
-XXIX. Establecer, operar y optimizar un sistema de información y orientación al público, así como la recepción de quejas y sugerencias, en relación con los servicios turísticos que se prestan en el Estado;
+XXIX. (DEROGADA, G.O. 13 DE ENERO DE 2006)
 
-XXX. Promover en coordinación con las autoridades federales competentes, las zonas de desarrollo turístico del Estado, así como la formulación de las declaratorias respectivas;
+XXX. (DEROGADA, G.O. 13 DE ENERO DE 2006)
 
-XXXI. Colaborar con las autoridades federales competentes en la vigilancia de la correcta aplicación de los precios autorizados o registrados, así como de la prestación de los servicios turísticos, conforme a las disposiciones legales aplicables;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
-XXXII. Coordinarse con las autoridades competentes en materia de protección al consumidor para establecer lineamientos y políticas de protección al turista;
+XXXI. Colaborar con las autoridades federales competentes en la vigilancia de la correcta aplicación de los precios autorizados o registrados y en general en las acciones dirigidas a la protección al consumidor;
 
-XXXIII. Vigilar que los créditos destinados a la industria, minería, comercio y turismo, señalados en los programas de desarrollo, se orienten hacia los renglones prioritarios aprobados;
+XXXII. (DEROGADA, G.O. 13 DE ENERO DE 2006)
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XXXIII. Vigilar que los créditos destinados a la industria, minería, comercio y desarrollo portuario señalados en los planes y programas, se orienten hacia los renglones prioritarios aprobados;
 
 XXXIV. Fomentar la organización y constitución de toda clase de sociedades cooperativas, así como otorgar la asistencia técnica y administrativa correspondiente; y
 
-XXXV. Difundir las actividades industriales, comerciales, artesanales y turísticas, a través de misiones comerciales, ferias, exposiciones, convenciones y demás eventos de promoción.
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XXXV. Difundir las actividades industriales, comerciales y portuarias a través de misiones comerciales, ferias, exposiciones, convenciones y demás eventos de promoción.
 
 De la Secretaría de Comunicaciones
 
@@ -987,7 +1045,9 @@ V. Establecer las bases técnicas a que deben sujetarse las licitaciones para la
 
 VI. Formular lineamientos y especificaciones técnicas para el uso de las vías de comunicación estatal;
 
-VII. Coordinarse con la Secretaría de Desarrollo Regional para que, en los derechos de vía de las vías estatales de comunicación, se respeten las prescripciones en materia de equilibrio ecológico y la protección al ambiente;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+VII. Coordinarse con la Secretaría de Desarrollo Social y Medio Ambiente para que, en los derechos de vía de las vías estatales de comunicación, se respeten las prescripciones en materia de equilibrio ecológico y de protección al ambiente;
 
 VIII. Participar en el otorgamiento de concesión de autopistas, carreteras, puentes o aeropuertos de jurisdicción estatal; supervisar su cumplimiento y, en su caso, llevar a cabo el procedimiento para su rescate, reversión o aplicación de sanciones;
 
@@ -1005,89 +1065,155 @@ XIV. Suscribir, previa autorización del titular del Poder Ejecutivo, convenios 
 
 XV. Promover y, en su caso, organizar la capacitación, investigación y el desarrollo tecnológico en materia de vías de comunicación estatal.
 
-De la Secretaría de Desarrollo Regional
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XVI. Coordinar y ejecutar las políticas y programas del Estado, tanto en materia de aeronáutica como de servicios aéreos gubernamentales;
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 13 DE ENERO DE 2006)</small>
+
+De la Secretaría de Desarrollo Social y Medio Ambiente
+
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2006)</small>
 
 ###### Artículo 27.
 
-La Secretaría de Desarrollo Regional es la dependencia responsable de coordinar la política de planeación regional en la Entidad y, cuando así se requiera, con los Gobiernos Federal y Municipales, con el propósito de regular el desarrollo urbano, ordenar los asentamientos humanos, y ejecutar obras públicas; así como de preservar y restaurar el equilibrio ecológico, y proteger el ambiente.
+La Secretaría de Desarrollo Social y Medio Ambiente es la dependencia responsable de coordinar la política de desarrollo social para el combate a la pobreza, en particular en materia de asentamientos humanos, ordenamiento del desarrollo territorial regional y urbano y de vivienda, así como ejecutar obras públicas relacionadas con estas materias; de formular, ejecutar y evaluar las políticas para preservar y restaurar el equilibrio ecológico y proteger el medio ambiente; y de normar y coordinar la prestación de servicios de asistencia pública y social, incluyendo el Sistema Estatal de Desarrollo Humano y Familiar, en los términos de la normativa que lo regule.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE ENERO DE 2006)</small>
 
 ###### Artículo 28.
 
-Son atribuciones del secretario de Desarrollo Regional, conforme a la distribución de competencias que establezca su Reglamento Interior, las si-guientes (sic):
+Son atribuciones del Secretario de Desarrollo Social y Medio Ambiente, conforme a la distribución de competencias que establezca su reglamento interior, las siguientes:
 
-I. Apoyar el desarrollo y ejecución de los programas nacionales, regionales y municipales para el desarrollo urbano y la vivienda, así como para el señalamiento y cuidado de los destinos, usos y reservas de las tierras para este propósito;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
-II. Formular, ejecutar y evaluar los programas estatales y regionales en materia de asentamientos humanos y vivienda, con base en el Plan Nacional en esta materia;
+I. Coordinar con la Federación y los municipios, las acciones que incidan en el combate a la pobreza, propiciando la simplificación de los procedimientos y el establecimiento de medidas de seguimiento y control;
 
-III. Promover el desarrollo de programas de vivienda en coordinación con las autoridades federales y los Ayuntamientos en cuya jurisdicción habrán de efectuarse las obras respectivas;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
-IV. Promover la coordinación con dependencias y entidades, federales o municipales, a fin de atender los problemas relativos a los asentamientos humanos irregulares;
+II. Coordinar y ejecutar programas especiales para la atención de los sectores sociales más desprotegidos, en especial la población indígena, los menores, las personas con capacidades diferentes, adultos mayores y la población marginada de las áreas rurales y urbanas, con la finalidad de contribuir a elevar su nivel de vida; asimismo, dirigir y coordinar los programas y acciones de protección a los emigrantes veracruzanos y sus familias;
 
-V. Coadyuvar con los Ayuntamientos que así lo soliciten, en el señalamiento de las reservas territoriales destinadas a casas habitación, viviendas de interés social, parques, mercados, corredores industriales, zonas ecológicas, escuelas y otros espacios de naturaleza similar;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
-VI. Gestionar, ante las autoridades que correspondan, la transferencia al Gobierno del Estado, de los terrenos de propiedad federal ubicados en la Entidad y en los que existan asentamientos humanos;
+III. Formular y apoyar la ejecución de las políticas y los programas nacionales, regionales, estatales y municipales para el desarrollo urbano y la vivienda, así como para el señalamiento y cuidado de los destinos y usos de las reservas territoriales para asentamiento humano;
 
-VII. Fomentar la organización de sociedades cooperativas de vivienda y materiales de construcción;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
-VIII. Promover a nivel estatal la adquisición de suelo urbano para vivienda o para el desarrollo urbano;
+IV. Formular, ejecutar y evaluar los programas estatales y regionales en materia de asentamientos humanos y vivienda, con base en el Plan Nacional y el Plan Veracruzano de Desarrollo,
 
-IX. Vigilar y administrar los inmuebles de propiedad estatal destinados o no a un servicio público o a fines de interés social, cuando no estén afectos a otras dependencias; los que se utilicen para dicho fin y los equiparados con éstos, conforme a la ley; así como las plazas, paseos y parques públicos, cuya construcción o conservación esté a cargo del Gobierno del Estado;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
-X. Tramitar, previo acuerdo con el Gobernador del Estado, la adquisición, enajenación, destino o afectación de los bienes inmuebles de la Administración Pública Estatal. Tratándose de enajenaciones a título oneroso o gratuito, o para conceder el uso y disfrute de bienes inmuebles de propiedad estatal, deberá obtenerse previamente la autorización del Congreso del Estado;
+V. Promover la ejecución de programas de vivienda en coordinación con las autoridades federales y de los ayuntamientos en cuya jurisdicción habrán de efectuarse las obras respectivas;
 
-XI. Tramitar y ejecutar los acuerdos del Gobernador relativos a la expropiación, ocupación temporal y limitación de dominio, en los casos de utilidad pública, de conformidad con la legislación aplicable;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
-XII. Mantener actualizado el avalúo de los bienes inmuebles estatales;
+VI. Promover la coordinación con dependencias y entidades, federales o municipales, a fin de atender los problemas relativos a los asentamientos humanos irregulares en la entidad;
 
-XIII. Promover y apoyar, conforme al Plan Veracruzano de Desarrollo, la realización de los Programas Regionales y Municipales de Desarrollo Urbano, para la integración de un Sistema Estatal de Suelo;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
-XIV. Promover, en coordinación con las autoridades federales y estatales, la realización de las obras e instalaciones para dotar de servicio eléctrico a los núcleos de población;
+VII. Asesorar y coadyuvar con los ayuntamientos que así lo soliciten, en el señalamiento de las reservas territoriales destinadas a casas habitación, viviendas de interés social, parques, mercados, corredores industriales, zonas ecológicas, escuelas y otros espacios de naturaleza similar;
 
-XV. Asesorar, a solicitud de los propios Ayuntamientos, en la elaboración de proyectos y ejecución de obras municipales de agua potable y alcantarillado, en la administración y operación de estos servicios y, en su caso, ejecutar y supervisar dichas obras;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
-XVI. Proponer las políticas y programas relativos a la construcción y mantenimiento de las obras públicas, de acuerdo con el Plan Veracruzano de Desarrollo, así como dirigir, coordinar y controlar la ejecución de los mismos;
+VIII. Gestionar, ante las autoridades que correspondan, la transferencia al Gobierno del Estado, de los terrenos de propiedad federal ubicados en la entidad y en los que existan asentamientos humanos;
 
-XVII. Elaborar y, en su caso, sancionar los proyectos y presupuestos de las obras públicas, en coordinación con las dependencias que correspondan;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
-XVIII. Proyectar, ejecutar y, en su caso, supervisar por administración directa o a través de terceros por licitación, las obras públicas y establecer las bases técnicas a que deben sujetarse las licitaciones para la adjudicación de los respectivos contratos y vigilar el cumplimiento de los mismos;
+IX. Fomentar la organización de sociedades cooperativas de vivienda y de materiales de construcción;
 
-XIX. Asesorar técnicamente a los Ayuntamientos en la realización de obras públicas, cuando así lo soliciten;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
-XX. Construir, reconstruir y conservar los edificios públicos, los monumentos históricos y las obras de ornato realizadas por el Estado, exceptuando las encomendadas oficialmente a otra dependencia;
+X. Promover a nivel estatal la adquisición de suelo urbano para vivienda o para el desarrollo urbano;
 
-XXI. Coadyuvar, a petición de los Ayuntamientos, en la elaboración de proyectos y en la ejecución de la obra pública municipal;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
-XXII. Proyectar y supervisar, en su caso, en coordinación con los Municipios, las obras públicas a cargo del Gobierno del Estado que hayan sido asignadas directamente o por adjudicación en concurso a particulares;
+XI. Promover y apoyar, conforme al Plan Veracruzano de Desarrollo, la realización de los programas regionales y municipales de desarrollo urbano, para la integración de un sistema Estatal del Suelo;
 
-XXIII. Desarrollar los planes y programas destinados a la preservación, aprovechamiento racional y mejoramiento de los recursos naturales, de la flora y la fauna existentes en el territorio del Estado, así como para la prevención y combate a la contaminación ambiental;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
-XXIV. Estudiar el funcionamiento de las comunidades bióticas y los medios abióticos para promover los programas ecológicos adecuados;
+XII. Promover, en coordinación con las autoridades federales y estatales, la realización de obras e instalaciones para dotar a los núcleos de población de servicio eléctrico, particularmente en las zonas rurales; así como de agua y gas;
 
-XXV. Promover acciones prioritarias para la preservación y restauración del equilibrio ecológico y protección al ambiente;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
-XXVI. Promover programas y actividades para orientar, informar y lograr la participación de las personas para la preservación y mejoramiento de los ecosistemas;
+XIII. Asesorar, a solicitud de los propios ayuntamientos, en la elaboración de proyectos y ejecución de obras municipales de agua potable y alcantarillado, en la administración y operación de estos servicios y, en su caso, ejecutar y supervisar dichas obras;
 
-XXVII. Organizar y fomentar la investigación relacionada con la ecología;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
-XXVIII. Conocer del ejercicio de acción popular, del procedimiento administrativo que en esta materia se incoe con motivo de la inobservancia de la ley, así como de la aplicación de las sanciones correspondientes; y
+XIV. Proponer las políticas y programas relativos a la construcción y mantenimiento de las obras públicas relacionadas con el Desarrollo Social y el Medio Ambiente, de acuerdo con el Plan Veracruzano de Desarrollo, así como dirigir, coordinar y controlar la ejecución de las mismas;
 
-XXIX. Proponer y apoyar la ejecución de los planes y programas relativos a la reforestación en el Estado, procurando la conservación de las áreas verdes, bosques, parques estatales y zonas recreativas en coordinación con los gobiernos federal y municipales.
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 12 DE FEBRERO DE 2002)</small>
+XV. Elaborar y, en su caso, sancionar los proyectos y presupuestos de las obras públicas, en coordinación con las dependencias a las que corresponda su ejecución;
 
-De la Secretaría de Desarrollo Agropecuario, Rural, Forestal, Pesca y Alimentación
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
-> <small>(REFORMADO, G.O. 12 DE FEBRERO DE 2002)</small>
+XVI. Proyectar, ejecutar y, en su caso, supervisar por administración directa o a través de terceros por licitación, las obras públicas de competencia de esta Secretaría y establecer las bases técnicas a que deben sujetarse las licitaciones para la adjudicación de los respectivos contratos y vigilar el cumplimiento de los mismos;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XVII. Asesorar técnicamente a los ayuntamientos en la realización de obras públicas, cuando así lo soliciten;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XVIII. Construir, reconstruir y conservar, los edificios públicos, los monumentos históricos y las obras de ornato realizadas por el Estado, exceptuando las encomendadas a otra dependencia;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XIX. Coadyuvar, a petición de los ayuntamientos, en la elaboración de proyectos y en la ejecución de la obra pública municipal;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XX. Formular, por acuerdo del Gobernador del Estado y con la intervención que corresponda a los municipios, las declaratorias de zonas de riesgo e integrar las comisiones que normen, regulen, limiten o prohíban la ocupación de éstas, en los términos que disponga la normativa aplicable;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XXI. Conocer del ejercicio de acción popular, del procedimiento administrativo que en esta materia se inicie con motivo de la inobservancia de la ley, así como de la aplicación de las sanciones correspondientes;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XXII. Revisar y autorizar las manifestaciones del impacto ambiental y emitir dictámenes sobre daños ambientales; formular, ejecutar y evaluar los planes y programas destinados a la preservación, aprovechamiento racional y mejoramiento de los recursos naturales, de la flora y la fauna existentes en el territorio del Estado, así como el combate a la contaminación ambiental, las políticas correspondientes al manejo de residuos, prevención y control de la contaminación del agua;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XXIII. Promover acciones prioritarias para la preservación y restauración del equilibrio ecológico y protección al ambiente;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XXIV. Promover programas y actividades para orientar, informar y lograr la participación de la ciudadanía para la preservación y mejoramiento de los ecosistemas;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XXV. Organizar y fomentar la investigación relacionada con la ecología;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XXVI. Promover y apoyar la ejecución de los planes y programas relativos a la reforestación en el Estado procurando la conservación de las áreas verdes, bosques, parques estatales y zonas recreativas en coordinación con los Gobiernos Federales y Municipales;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XXVII. Dirigir y ejecutar en coordinación con la Secretaría de Desarrollo Agropecuario, Rural, Forestal y Pesca y con las autoridades federales y municipales competentes, las acciones proyectadas a la preservación y aprovechamiento de los recursos hidráulicos de la entidad;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XXVIII. Desarrollar, supervisar y evaluar la operación del Sistema para el Desarrollo Humano y Familiar de los Veracruzanos, en protección y apoyo de la infancia, los adultos mayores, las personas con capacidades diferentes y otros grupos vulnerables de la sociedad.
+
+XXIX. (DEROGADA, G.O. 13 DE ENERO DE 2006)
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 13 DE ENERO DE 2006)</small>
+
+De la Secretaría de Desarrollo Agropecuario, Forestal y Pesca
+
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2006)</small>
 
 ###### Artículo 29.
 
-La Secretaría de Desarrollo Agropecuario, Rural, Forestal, Pesca y Alimentación es la dependencia responsable de coordinar la política de Desarrollo Agropecuario, Rural, Forestal, Pesca y Alimentación en la entidad.
+La Secretaría de Desarrollo Agropecuario, Rural, Forestal y Pesca es la dependencia responsable de coordinar las políticas públicas de desarrollo agrícola, ganadero, forestal y pesquero en la entidad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE ENERO DE 2006)</small>
 
 ###### Artículo 30.
 
-Son atribuciones del Secretario de Desarrollo Agropecuario, Rural Forestal, Pesca y Alimentación conforme a la distribución de competencias que establezca su Reglamento Interior, las siguientes:
+Son atribuciones del Secretario de Desarrollo Agropecuario, Rural, Forestal y Pesca, conforme a la distribución de competencia que establezca su Reglamento Interior, las siguientes:
 
 I. Fomentar la producción agrícola, frutícola, forestal y obras de infraestructura hidráulica, así como apoyar, vigilar y, en su caso, ejecutar los programas que en esta materia deriven del Plan Veracruzano de Desarrollo;
 
@@ -1105,29 +1231,49 @@ VII. Formular el inventario de los recursos e infraestructura agrícola, frutíc
 
 VIII. Proponer, apoyar y, en su caso, ejecutar las obras de infraestructura agrícola e hidráulica en cooperación con el Gobierno Federal, los Municipios y las organizaciones de productores;
 
-IX. Participar, de conformidad con las disposiciones aplicables, en el aprovechamiento de los recursos hidráulicos de la Entidad;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
-X. Fomentar la realización de Proyectos de Ingeniería Agrícola e Hidráulica, como obras de pequeña irrigación y abrevadero, drenaje, terraceros, nivelaciones, al igual que de construcciones rurales, como bodegas, cobertizos, galeras, zahúrdas, baños, silos y otros similares, en coordinación con la Secretaría de Desarrollo Regional;
+IX. Participar de conformidad con las disposiciones aplicables, en el aprovechamiento de los recursos hidráulicos de la entidad; tratándose de los lagos, ríos y otros cuerpos de agua, las políticas y programas se definirán y ejecutarán coordinadamente con la Secretaría de Desarrollo Social y Medio Ambiente;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+X. Fomentar la realización de proyectos de ingeniería agrícola e hidráulica, como obras de pequeña irrigación y abrevadero, drenaje, terraceros, nivelaciones, al igual que de construcciones rurales, como bodegas, cobertizos, galeras, zahúrdas, baños, silos y otros similares, en coordinación con la Secretaría de Desarrollo Social y Medio Ambiente;
 
 XI. Promover, apoyar y realizar en su caso, campañas para prevenir y combatir las plagas y enfermedades que atacan a las especies vegetales del Estado;
 
-XII. Asesorar a los Municipios y organismos productores que lo soliciten, en materia agrícola, frutícola, forestal e hidráulica;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
-XIII. Promover la creación de organismos y mecanismos que permitan el control de la comercialización por parte de los productores, de los insumos y productos agrícolas y forestales, así como fomentar la comercialización y producción de cultivos y especies con demanda internacional;
+XII. Asesorar a los municipios y organismos productores que lo soliciten, en materia agrícola, frutícola, forestal, hidráulica y pesquera;
 
-XIV. Gestionar lo necesario para que los precios de garantía y de mercado de los productos agrícolas, frutícolas y forestales se fijen con equidad;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
-XV. Fomentar la creación, la organización y el desarrollo de industrias relacionadas con la producción agrícola, frutícola y forestal que se genera en la Entidad, en coordinación con la Secretaría de Desarrollo Económico;
+XIII. Promover la creación de organismos y mecanismos que permitan el control de la comercialización por parte de los productores, de los insumos y productos agrícolas, forestales y pesqueros así como fomentar la comercialización y producción de cultivos y especies con demanda internacional;
 
-XVI. Promover y apoyar la investigación básica y aplicada ligada a la problemática agrícola, frutícola, forestal e hidráulica estatal, así como fomentar la divulgación y adopción de las tecnologías y sistemas generados, que aumenten la producción y productividad del campo;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
-XVII. Fomentar la enseñanza agrícola, frutícola, forestal e hidráulica, mediante la creación de campos experimentales, escuelas y centros de capacitación y demostración, así como coordinar acciones con los centros educativos sobre esta materia establecidos en el Estado;
+XIV. Gestionar lo necesario para que los precios de garantía y de mercado de los productos agrícolas, frutícolas, forestales y pesqueros se fijen con equidad;
 
-XVIII. Vigilar la preservación de los recursos agrícolas, frutícolas y forestales, así como la de los recursos naturales renovables factibles de utilizarse y desarrollar su potencial productivo;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XV. Fomentar la creación, la organización y el desarrollo de industrias relacionadas con la producción agrícola, frutícola, forestal y pesquera que se genera en la entidad, en coordinación con la Secretaría de Desarrollo Económico y Portuario;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XVI. Promover y apoyar la investigación básica y aplicada ligada a la problemática agrícola, frutícola, forestal, hidráulica y pesquera estatal, así como fomentar la divulgación y adopción de las tecnologías y sistemas generados, que aumenten la producción y productividad del campo;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XVII. Fomentar la enseñanza agrícola, frutícola, forestal, pesquera e hidráulica, mediante la creación de campos experimentales, escuelas y centros de capacitación y demostración, así como coordinar acciones con los centros educativos con esta materia establecidos en el Estado;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XVIII. Vigilar la preservación de los recursos agrícolas, frutícolas, pesqueros y forestales, así como la de los recursos naturales renovables factibles de utilizarse y desarrollar su potencial productivo;
 
 XIX. Fomentar y apoyar la conservación y preservación de suelos agrícolas y áreas forestales, a través del manejo integral de cuencas hidrográficas;
 
-XX. Fomentar programas de reforestación, en coordinación con la Secretaría de Desarrollo Regional;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XX. Fomentar programas de reforestación, en coordinación con la Secretaría de Desarrollo Social y Medio Ambiente;
 
 XXI. Fomentar y controlar los servicios agrícolas que establezca el Estado, tales como: distribución de semillas mejoradas, fertilizantes, árboles frutales y centrales de maquinaria entre otros;
 
@@ -1193,19 +1339,29 @@ LI. Fomentar la capacitación y la asistencia técnica de los productores agrope
 
 LII. Promover programas tendientes a la integración de actividades económicas para el desarrollo rural del Estado, que permitan la generación de empleos eventuales y permanentes.
 
-> <small>(ADICIONADA, G.O. 12 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
-LIII. Promover programas tendientes a la integración de actividades económicas para el Desarrollo Rural Sustentable del Estado, que permitan la generación de empleos eventuales y permanentes.
+LIII. En coordinación con la Secretaría de Desarrollo Social y Medio Ambiente, promover programas tendientes a la integración de actividades económicas para el Desarrollo Rural Sustentable del Estado, que permitan la generación de empleos eventuales y permanentes.
 
-De la Secretaría de Salud y Asistencia
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
+LIV. Vigilar y supervisar en coordinación con la Secretaría de Salud y las autoridades municipales competentes, el funcionamiento y operación de los rastros de la entidad.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 13 DE ENERO DE 2006)</small>
+
+De la Secretaría de Salud
+
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2006)</small>
 
 ###### Artículo 31.
 
-La Secretaría de Salud y Asistencia es la dependencia responsable de coordinar la política y programas de salud pública, seguridad y asistencia social en la Entidad.
+La Secretaría de Salud es la dependencia responsable de coordinar las políticas y programas de salud pública y seguridad social en la entidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE ENERO DE 2006)</small>
 
 ###### Artículo 32.
 
-Son atribuciones del Secretario de Salud y Asistencia, conforme a la distribución de competencias que establezca su Reglamento Interior, las siguientes:
+Son atribuciones del Secretario de Salud, conforme a la distribución de competencias que establezca su reglamento interior, las siguientes:
 
 I. Proponer las políticas, conducir y evaluar los programas de salud de acuerdo con el Plan Veracruzano de Desarrollo;
 
@@ -1213,15 +1369,19 @@ II. Planear, normar, establecer, coordinar y evaluar el sistema integral de serv
 
 III. Planear y ejecutar las campañas sobre servicios médicos, salud pública y asistencia social, y, en su caso, en coordinación con las autoridades federales y municipales, e instituciones sociales y privadas;
 
-IV. Establecer las normas para orientar los servicios de asistencia social que prestan los sectores público, social y privado y proveer su cumplimiento;
+IV. (DEROGADA, G.O. 13 DE ENERO DE 2006)
 
-V. Participar con las autoridades federales y locales en la formulación, conducción y evaluación de las políticas de saneamiento ambiental;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+V. En coordinación con la Secretaría de Desarrollo Social y Medio Ambiente y con las autoridades federales y municipales competentes, participar en la formulación, conducción y evaluación de las políticas de saneamiento ambiental;
 
 VI. Dictar normas técnicas en materia de salubridad local y verificar su cumplimiento;
 
 VII. Planear y coordinar las acciones de docencia, investigación y capacitación que en el campo de la salud pública se realicen en el Estado;
 
-VIII. Vigilar y controlar la asistencia pública en la Entidad;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+VIII. En coordinación con la Secretaría de Desarrollo Social y Medio Ambiente, vigilar y controlar la asistencia pública en la entidad;
 
 IX. Administrar los bienes y fondos que el Gobierno Estatal destine a los servicios de salud;
 
@@ -1232,6 +1392,98 @@ XI. Proponer las bases para que los Gobiernos federal y estatales participen en 
 XII. Apoyar a los Municipios de la Entidad que lo soliciten, en la instrumentación de medidas y acciones en materia de atención médica, salud pública y asistencia social; y
 
 XIII. Promover, organizar y participar en conferencias, convenciones, encuentros y congresos relacionados con el derecho a la salud.
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XIV. Coordinar y ejecutar las políticas y acciones que corresponden al Gobierno del Estado en relación al Seguro Popular.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 13 DE ENERO DE 2006)</small>
+
+De la Secretaría de Turismo y Cultura
+
+> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2006)</small>
+
+###### Artículo 32 Bis.
+
+La Secretaría de Turismo y Cultura es la dependencia responsable de coordinar y ejecutar las políticas públicas y los programas de desarrollo y promoción del sector turístico de la Entidad; promover e impulsar la difusión de la Cultura y de las manifestaciones artísticas; la conservación y el incremento del patrimonio cultural, histórico y artístico de Veracruz; así como normar y conducir las políticas y programas en los procesos de sistematización, seguimiento y compilación de la Información Pública Gubernamental.
+
+> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2006)</small>
+
+###### Artículo 32 Ter.
+
+Son atribuciones del secretario de Turismo y Cultura conforme a la distribución de competencias que establezca su reglamentación interior, las siguientes:
+
+I. Proponer, diseñar, coordinar, dirigir y supervisar en los términos de las leyes de la materia y del Plan Veracruzano de Desarrollo, la ejecución de las políticas y programas del Estado relativos al fomento de las actividades turísticas en un marco de sustentabilidad;
+
+II. Participar en la planeación y programación de las obras de infraestructura e inversiones en áreas de desarrollo turístico y cultural en la entidad;
+
+III. Elaborar los estudios y programas de factibilidad de inversión turística que permitan su promoción y fomento, las coinversiones y la instalación de empresas vinculadas al sector, privilegiando la creación de fuentes de empleo;
+
+IV. Proveer técnica y económicamente el establecimiento de polos de desarrollo turístico en el territorio del Estado, de acuerdo con el Plan Veracruzano de Desarrollo, proponiendo al Ejecutivo Estatal la declaratoria de actividad prioritaria para impulsar nuevos proyectos y productos turísticos;
+
+V. Coordinar el Fondo Veracruzano para el Fomento de las Actividades Turísticas de la Entidad y presidir, de conformidad con la normativa vigente, los órganos de gobierno de aquellas entidades estatales relacionadas primordialmente con el sector;
+
+VI. Fungir como coordinador sectorial de los parques recreativos, centros de visitantes y convenciones turísticos, de los parques temáticos, así como de los establecimientos relacionados primordialmente con el sector turístico en los términos y condiciones que la Ley señale;
+
+VII. Servir de órgano de consulta y asesoría en materia de servicios turísticos, tanto a las entidades públicas como privadas;
+
+VIII. Asesorar técnicamente a las (sic) Ayuntamientos y a los sectores social y privado que lo soliciten, en la prestación de los servicios turísticos o en la ejecución de proyectos relacionados con la materia;
+
+IX. Procurar la conservación y protección del entorno natural y cultural de las zonas de desarrollo turístico en el Estado, actuando en coordinación con las autoridades competentes de otros órdenes de Gobierno en estas materias particularmente la Secretaría de Desarrollo Social y Medio Ambiente, así como promover la cultura turística y el turismo cultural;
+
+X. Fomentar y apoyar el turismo social, en concertación con los sectores público y privado, así como propiciar la formación de asociaciones, patronatos, comités y demás organismos que lo auspicien y prestarles la asesoría correspondiente;
+
+XI. Formular y difundir la información turística del Estado con base en el Registro Estatal de Prestadores de Servicios Turísticos, el Inventario de Riquezas Turísticas del Estado y el Calendario de Actividades Recreativas, Tradicionales y Turísticas de Veracruz;
+
+XII. Proporcionar información y orientación a los turistas atendiendo los centros de mayor afluencia, carreteras y terminales de transporte aéreo, terrestre y marítimo, según se requiera, así como instalar, coordinar y operar los módulos de información correspondientes;
+
+XIII. Codyuvar (sic) con las dependencias y entidades del sector público, así como con los sectores privado y social, en la conservación de los señalamientos turísticos y del patrimonio cultural en las vías públicas federales, estatales y municipales y en los lugares de mayor interés turístico del Estado;
+
+XIV. Promover los atractivos culturales y naturales de la Entidad, instrumentando acciones con los sectores público y privado y a través de los medios de comunicación, a efecto de incrementar el flujo de turistas, ampliar su estadía e incrementar la derrama económica consecuente;
+
+XV. Proyectar y difundir la publicidad turística y cultural del Estado en coordinación con la Dirección General de Comunicación Social; así como coadyuvar a la divulgación de la que efectúen los sectores social y privado;
+
+XVI. Promover en coordinación con las autoridades federales competentes, la formulación de las declaratorias nacionales e internacionales relativas a zonas de desarrollo turístico de la Entidad, así como las declaratorias de patrimonio artístico, histórico o cultural;
+
+XVII. Atender los asuntos internacionales de la competencia de la Secretaría, así como la celebración y cumplimiento de convenios bilaterales y multilaterales de cooperación turística y cultural; de igual forma, concertar acciones en la materia con otras dependencias y entidades de la Administración Pública Federal y Estatal y celebrar acuerdos en lo relativo con los Gobiernos Municipales;
+
+XVIII. Promover, organizar y participar en misiones, conferencias, ferias, exposiciones, encuentros, congresos, eventos tradicionales y folklóricos y en general, actividades culturales que contribuyan a una mayor afluencia de visitantes hacia el Estado;
+
+XIX. Coordinarse con las autoridades competentes de los otros órdenes de Gobierno en materia de protección al turista;
+
+XX. Establecer y operar un sistema de información y orientación al público, así como la recepción de quejas y sugerencias, en relación con las actividades y los servicios turísticos que se prestan en la Entidad;
+
+XXI. Colaborar con las autoridades federales competentes en la vigilancia de la correcta aplicación de los precios autorizados o registrados, así como de la prestación de los servicios turísticos, conforme a las disposiciones legales de protección al consumidor;
+
+XXII. Vigilar el estricto cumplimiento de las leyes, reglamentos y demás ordenamientos federales y estatales aplicables en materia de turismo, supervisando las actividades de las empresas vinculadas al sector, de conformidad con lo establecido en términos de ley;
+
+XXIII. Implementar los programas de calidad, capacitación y competitividad en la prestación de servicios turísticos;
+
+XXIV. Promover, ejecutar, coordinar y supervisar los planes y programas culturales y recreativos en la Entidad;
+
+XXV. Formular las políticas y programas y ejecutar las acciones relativas a la difusión de la cultura y el arte y la conservación e incremento del patrimonio artístico, histórico y cultural, así como la promoción de las actividades conexas;
+
+XXVI. Dirigir, coordinar, organizar y fomentar con los Ayuntamientos e instituciones públicas o particulares el establecimiento de casas de cultura y museos, así como promover la creación y mantenimiento de otras instituciones culturales;
+
+XXVII. Promover la edición y distribución de obras literarias, estudios y documentos históricos que apoyen al conocimiento y desarrollo cultural y artístico de Veracruz;
+
+XXVIII. Promover, coordinar y realizar eventos que difundan las diversas manifestaciones de la Cultura y las Artes en la Entidad;
+
+XXIX. Incentivar, apoyar y coadyuvar con las autoridades federales de la materia, el desarrollo de la industria cinematográfica y promover a Veracruz como zona geográfica idónea para locaciones y filmaciones;
+
+XXX. Promover y difundir los recursos naturales, el patrimonio histórico y las manifestaciones culturales y artísticas en los medios masivos de comunicación y propiciar su uso como escenarios de eventos nacionales e internacionales, particularmente en relación con la industria fílmica, la Radio y la Televisión;
+
+XXXI. Realizar acciones de coordinación, apoyo técnico y asesoría para dar seguimiento a las prioridades gubernamentales y a los acuerdos e instrucciones del titular del Poder Ejecutivo en lo relacionado a la información pública, de conformidad con la ley de la materia;
+
+XXXII. Coordinar la realización de consultas ciudadanas que coadyuven a la formulación de planes y programas estatales;
+
+XXXIII. Hacer acopio y compilar los reportes y documentos de las diversas dependencias y entidades de la Administración Pública Estatal, para la preparación del Informe de Gobierno del Ejecutivo Estatal;
+
+XXXIV. Fungir como Secretario Técnico de los Gabinetes legal, ampliado y especializados cuidando de proporcionar al Ejecutivo Estatal la información que requiera respecto al funcionamiento de los mismos;
+
+XXXV. Asumir la representación que le encomiende el Titular del Poder Ejecutivo en los comités y grupos de trabajo internos y externos relacionados con la ejecución y seguimiento de programas y de los mecanismos implementados para la transparencia y el acceso a la información pública, de conformidad con la ley de la materia;
+
+XXXVI. Elaborar y coordinar de manera conjunta con miembros del sector la creación y revisión del Plan Estatal de Turismo alineado al Plan Nacional de Turismo.
 
 De la Contraloría General
 
@@ -1317,15 +1569,21 @@ De la Procuraduría General de Justicia
 
 La Procuraduría General de Justicia es la dependencia encargada del Ministerio Público, responsable de procurar y vigilar el cumplimiento de las leyes y ejercer las acciones correspondientes en contra de los infractores de la ley, así como las que tengan por objeto la efectiva reparación del daño causado y la protección de los derechos de la víctima del acto ilícito, en términos de lo dispuesto por la Constitución Federal, la Constitución Política del Estado, la Ley Orgánica del Ministerio Público y demás disposiciones aplicables.
 
-De la Coordinación General de Comunicación Social
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 13 DE ENERO DE 2006)</small>
+
+De la Dirección General de Comunicación Social
+
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2006)</small>
 
 ###### Artículo 36.
 
-La Coordinación General de Comunicación Social es la dependencia responsable de coordinar la difusión informativa, publicitaria y promocional de las actividades, obras y servicios de la Administración Pública del Estado, a través de los distintos medios de comunicación o de manera directa.
+La Dirección General de Comunicación Social es la dependencia responsable de coordinar la difusión informativa, publicitaria y promocional de las actividades, obras y servicios de la Administración Pública del Estado, a través de los distintos medios de comunicación o de manera directa.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE ENERO DE 2006)</small>
 
 ###### Artículo 37.
 
-Son atribuciones del Coordinador General de Comunicación Social, conforme a la distribución de competencias que establezca su Reglamento Interior, las siguientes:
+Son atribuciones del Director General de Comunicación Social, conforme a la distribución de competencias que establezca su Reglamento interior, las siguientes:
 
 I. Dirigir y ejecutar la política de comunicación social y de relaciones públicas de la Administración Pública Estatal;
 
@@ -1339,17 +1597,21 @@ V. Analizar la información de los distintos medios de comunicación y proporcio
 
 VI. Mantener actualizado el banco hemerográfico, la fototeca, la videoteca, las grabaciones radiofónicas y producciones sobre la obra y actividades del Gobierno Estatal;
 
-VII. Diseñar y operar el Programa General de Comunicación Social de la Administración Pública Estatal estableciendo, con el apoyo de los titulares de las dependencias, el funcionamiento y operación de las oficinas de comunicación social de las mismas; las que dependerán jerárquicamente de la Coordinación General de Comunicación Social y se reportarán funcionalmente con los titulares de cada dependencia;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+VII. Diseñar y operar el Programa General de Comunicación Social de la Administración Pública Estatal estableciendo, con el apoyo de los titulares de las dependencias, el funcionamiento y operación de las oficinas de comunicación social de las mismas; las que dependerán jerárquicamente de la Dirección General de Comunicación Social y reportarán funcionalmente con los titulares de cada dependencia;
 
 VIII. Coordinar la planeación, diseño, producción y evaluación de las campañas de publicidad social que realiza la Administración Pública del Estado a través de sus distintas dependencias e intervenir en la contratación, supervisión y trámite para la asignación de los recursos que se requiera para su realización;
 
 IX. Proveer a los medios de comunicación, la información oficial que emita el Gobierno del Estado y generar los instrumentos, tiempos y espacios pertinentes a la difusión y promoción gubernamental;
 
-X. Planear y operar la política de promoción, fomento y relaciones públicas del Gobierno del Estado a favor del desarrollo de Veracruz, particularmente en el ámbito de la cultura, del arte y la cinematografía;
+X. (DEROGADA, G.O. 13 DE ENERO DE 2006)
 
 XI. Establecer los vínculos y la colaboración con las instituciones académicas, los medios y los comunicadores en términos de convenios, acuerdos o programas de promoción y desarrollo comunicacional; y
 
-XII. Coordinar con las dependencias de la Administración Pública Estatal los procedimientos para la difusión informativa, la publicidad y la promoción de la Administración Pública mediante el establecimiento del Consejo Operativo para la Comunicación Gubernamental, que estará integrado por los responsables de la comunicación social en las dependencias, encabezadas por el titular de la Coordinación General de Comunicación Social.
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XII. Coordinar con las dependencias de la administración pública estatal los procedimientos para la difusión informativa, la publicidad y la promoción de la Administración Pública mediante el establecimiento del Consejo Operativo para la Comunicación Gubernamental, que estará integrado por los responsables de la comunicación social en las dependencias, encabezadas por el titular de la Dirección General de Comunicación Social.
 
 ### CAPÍTULO III. DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL
 
@@ -1770,3 +2032,15 @@ Artículo tercero. El presupuesto, mobiliario, equipo, archivos y en general tod
 Artículo cuarto. El personal que por lo dispuesto en el presente decreto cambia de adscripción, conservará sus derechos laborales conforme a la ley.
 
 Artículo quinto. Todas las controversias judiciales y procedimientos administrativos que se encuentren en trámite y las que se reciban hasta antes de la entrega-recepción, tanto de la Dirección General de Tránsito y Transporte como del Instituto Veracruzano del Transporte, serán resueltas hasta su conclusión por el titular de la Secretaría de Seguridad Pública. En consecuencia, las controversias judiciales y procedimientos administrativos que se reciban a partir de la entrega-recepción, serán resueltas por el titular de la Secretaría de Gobierno.
+
+G.O. 13 DE ENERO DE 2006.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 522 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo segundo. Cuando alguna Unidad Administrativa de las Secretarías establecidas conforme al texto anterior de esta Ley pase a otra Secretaría, el traspaso se hará incluyendo los recursos materiales, humanos y financieros a su cargo.
+
+Artículo tercero. Cuando en leyes y ordenamientos diversos se aluda al nombre de una Dependencia cuya denominación haya variado por efecto de estas reformas o adiciones, las atribuciones, deberes y responsabilidades consecuentes, se entenderán conferidas automáticamente a la Dependencia que bajo un nuevo nombre sustituya en sus funciones relativas a la anterior.
+
+Artículo cuarto. La emisión de los reglamentos internos que correspondan a las nuevas dependencias y la adecuación a los reglamentos internos de las dependencias que modifican sus funciones se deberá efectuar en un término de noventa días a partir del inicio de vigencia de la presente reforma.
