@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-78-para-el-fomento-del-turismo-en-el-estado-de-6575"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-07"
-last_updated: "1991-07-23"
+last_updated: "2006-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6575&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 LEY PARA EL FOMENTO DEL TURISMO EN EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE JULIO DE 1991.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 523 DE TURISMO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G..O. DE 13 DE ENERO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADA.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 7 de julio de 1990.
 
@@ -388,3 +390,11 @@ El presente ordenamiento entrará en vigor al día siguiente de su publicación 
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+G..O. DE 13 DE ENERO DE 2006.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial.
+
+SEGUNDO. Se abroga la Ley Número 78, Ley para el Fomento del Turismo en el Estado de Veracruz.
+
+TERCERO. En los procedimientos administrativos que se encuentren en trámite con base en la Ley abrogada, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de esta Ley.
