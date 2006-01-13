@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-interior-de-la-secretaria-de-finanzas-y-44463"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-03-25"
-last_updated: "2005-03-25"
+last_updated: "2006-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44463&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS Y ADMINISTRACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guarrero, el viernes 25 de marzo de 2005.
 
@@ -63,9 +63,11 @@ C A P I T U L O II
 
 DE LA ORGANIZACION DE LA SECRETARIA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE ENERO DE 2006)</small>
+
 ###### ARTICULO 5o.
 
-Para el estudio, planeación y despacho de los asuntos que le competen, la Secretaría de Finanzas y Administración contará con las siguientes unidades administrativas:
+Para el estudio, planeación y despacho de los asuntos de su competencia, la Secretaría contará con un Secretario, quien para el desahogo de los asuntos, contará con las siguientes unidades administrativas:
 
 1.0.- Secretaría.
 
@@ -74,6 +76,10 @@ Para el estudio, planeación y despacho de los asuntos que le competen, la Secre
 1.0.2.- Delegación Administrativa.
 
 1.0.3.- Coordinación de Evaluación y Seguimiento.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2006)</small>
+
+1.0.4.- Coordinación de Planeación Estratégica y Deuda Pública.
 
 1.1.- Subsecretaría de Ingresos.
 
@@ -101,6 +107,10 @@ Para el estudio, planeación y despacho de los asuntos que le competen, la Secre
 
 1.2.6.- Dirección General de Presupuesto y Contabilidad Sector Paraestatal.
 
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2006)</small>
+
+1.2.7.- Coordinación de Administración Financiera.
+
 1.3.- Subsecretaría de Administración.
 
 1.3.1.- Unidad de Apoyo Técnico.
@@ -125,9 +135,11 @@ DE LAS ATRIBUCIONES Y COMPETENCIA DEL SECRETARIO
 
 Para el trámite y resolución de los asuntos de la competencia de la Secretaría de Finanzas y Administración, corresponde originalmente al Secretario, quien para la mejor distribución y desarrollo del trabajo, podrá delegar facultades a funcionarios subalternos, sin perder por ello la posibilidad de su ejercicio directo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE ENERO DE 2006)</small>
+
 ###### ARTICULO 8o.
 
-Corresponde en exclusiva al Secretario de Finanzas y Administración, las atribuciones siguientes:
+Corresponde en exclusiva al Titular de la Secretaría, las siguientes atribuciones y responsabilidades:
 
 I. Proponer al Ejecutivo Estatal la política en materia financiera, tributaria, de precios, tarifas, bienes y servicios, y de administración de recursos humanos, materiales y patrimoniales del sector público para la formulación del Plan Estatal de Desarrollo;
 
@@ -167,9 +179,35 @@ XVIII. Designar a los representantes de la Secretaría de Finanzas y Administrac
 
 XIX. Suscribir, previo acuerdo del C. Gobernador del Estado, los Fideicomisos en los que el Estado tenga el carácter de fideicomitente único, en los que la Secretaría de Finanzas y Administración funja como representante del Ejecutivo Estatal, en los términos de las disposiciones legales procedentes;
 
-XX. Comparecer ante el H. Congreso del Estado siempre que sea requerido para ello, y previa anuencia del C. Gobernador del Estado, para informar del estado que guarda la Secretaría de Finanzas y Administración; y
+XX. Comparecer ante el H. Congreso del Estado siempre que sea requerido para ello, y previa anuencia del C. Gobernador del Estado, para informar del estado que guarda la Secretaría de Finanzas y Administración; y (sic)
 
-XXI. Las demás que le sean encomendadas por las leyes aplicables y que se encuentren dentro del ámbito de sus atribuciones, así como aquellas que con el carácter de no delegables le encomiende el C. Gobernador del Estado.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 13 DE ENERO DE 2006)</small>
+
+XXI. Otorgar y suscribir títulos de crédito, realizar operaciones de crédito y transferencias por medios electrónicos, y sustituir y delegar estas facultades en uno o más apoderados, para que las ejerzan individual o conjuntamente;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2006)</small>
+
+XXII. Contratar, previo acuerdo del Gobernador del Estado, empréstitos o créditos a cargo del Estado, que hayan sido autorizados por el Congreso del Estado;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2006)</small>
+
+XXIII. Someter a la consideración del Gobernador del Estado, los financiamientos para inversión pública productiva y que por causas de interés público o beneficio social, resulten convenientes para el desarrollo de actividades prioritarias a juicio del Ejecutivo, y otorgar los que éste autorice;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2006)</small>
+
+XXIV. Suscribir los actos jurídicos, contratos, convenios y demás documentos relativos al ejercicio de sus atribuciones y aquellos que les sean señalados por la normatividad aplicable, y que podrá delegar en el funcionario público que corresponda;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2006)</small>
+
+XXV. Integrar el Comité Técnico de Financiamiento, así como fungir como Presidente del mismo;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2006)</small>
+
+XXVI. Nombrar al Secretario Técnico del Comité, con el objeto de ejercitar las facultades de este órgano, en los términos de la Ley de Deuda Pública para el Estado de Guerrero y del Reglamento del Comité Técnico de Financiamiento; y
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2006)</small>
+
+XXVII. Las demás que le sean encomendadas por las leyes aplicables y que se encuentren dentro del ámbito de sus atribuciones, así como aquellas que con el carácter de no delegables le encomiende el C. Gobernador del Estado.
 
 C A P I T U L O IV
 
@@ -268,6 +306,40 @@ VIII. Dar seguimiento a la publicación trimestral en el Periódico Oficial del 
 IX. Dar seguimiento al envío mensual, a la Unidad de Coordinación Hacendaria con Entidades Federativas de la Secretaría de Hacienda y Crédito Público, de los montos de las participaciones entregadas a cada uno de los municipios del Estado de Guerrero, por cada uno de los conceptos participables; y
 
 X. Las demás que las disposiciones legales le atribuyan, así como aquellas que le confiera el titular de la Secretaría de Finanzas y Administración.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2006)</small>
+
+ARTICULO 11 BIS.- Corresponde a la Coordinación de Planeación Estratégica y Deuda Pública:
+
+I. Coordinar y auxiliar al Secretario en las actividades relativas a la planeación financiera del Estado;
+
+II. Formular, previo acuerdo con el Secretario, las propuestas del Estado para el fortalecimiento del Federalismo ante la Secretaría de Hacienda y Crédito Público y cualquier otra instancia;
+
+III. Apoyar a todas las unidades de la Secretaría en el cumplimiento de los objetivos, presupuestos y marco regulatorio de la Secretaría;
+
+IV. Vigilar el cumplimiento de los acuerdos emitidos por el Secretario y el seguimiento de metas y proyectos, propuestos por cada una de las Unidades Administrativas de la Secretaría;
+
+V. Proponer al Secretario, los proyectos estratégicos en materia financiera, acordes con el Plan Estatal de Desarrollo, que tengan un beneficio a los intereses de la sociedad;
+
+VI. Procurar que se instrumenten las políticas de control y evaluación financiera, requiriendo de las áreas la información a fin de comprobar el cumplimiento de los programas, procedimientos y métodos de trabajo establecidos por el Secretario;
+
+VII. Llevar el Registro Único de Obligaciones y Empréstitos del Estado de Guerrero actualizado y detallado, con información correspondiente a la Deuda Pública Directa y Contingente, adquirida por la Administración Pública Estatal, formada por sus Dependencias y Entidades, así como por la Municipal y sus Entidades Paramunicipales;
+
+VIII. Asesorar a los Municipios en todo lo relativo a la obtención de recursos crediticios, concertación de empréstitos y otras operaciones financieras para sí o para sus Entidades Paramunicipales;
+
+IX. Asesorar a los Municipios y sus Entidades Paramunicipales a fin que los créditos obtenidos, sean aplicados en los términos aprobados por el Congreso del Estado;
+
+X. Hacer acopio y dar seguimiento a los principales indicadores de los mercados financieros;
+
+XI. Actualizar trimestralmente y someter a consideración del Secretario, la información financiera para que las Instituciones Calificadoras de Valores emitan la calificación de la Deuda Pública Estatal;
+
+XII. Integrar la información para publicar en forma periódica los registros de la deuda pública;
+
+XIII. Verificar que se realicen los pagos correspondientes a los programas de amortización de deuda e informar al Secretario, sobre el estado que guarda la amortización de los créditos;
+
+XIV. Actuar como vocal en el Comité Técnico de Financiamiento, previsto en la Ley de Deuda Pública para el Estado de Guerrero; y
+
+XV. Todas aquellas facultades que le hayan sido encomendadas por el Secretario.
 
 C A P I T U L O V
 
@@ -565,9 +637,11 @@ C A P I T U L O VIII
 
 DE LA SUBSECRETARIA DE EGRESOS Y DE LAS DIRECCIONES GENERALES A SU CARGO
 
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2006)</small>
+
 ###### ARTICULO 21.
 
-La Subsecretaría de Egresos, para el desempeño de sus funciones tiene a su cargo las unidades de: Incidencias y Prestaciones al Personal; e Información y Cuenta Pública y las Direcciones Generales de: Contabilidad Gubernamental; Tesorería; Presupuesto Sector Central; y Presupuesto y Contabilidad Sector Paraestatal.
+La Subsecretaría de Egresos, para el desempeño de sus funciones tiene a su cargo las unidades de: Incidencias y Prestaciones al Personal; Información y Cuenta Pública; y la Coordinación de Administración Financiera, así como las Direcciones Generales de: Contabilidad Gubernamental; Tesorería; Presupuesto Sector Central; y Presupuesto y Contabilidad Sector Paraestatal.
 
 ###### ARTICULO 22.
 
@@ -670,6 +744,24 @@ XII. Elaborar prontuarios ejecutivos con base a la información presentada en la
 XIII. Integrar, conservar y enriquecer el archivo histórico para consultas de información requeridas por usuarios externos o internos, previa autorización del Subsecretario de Egresos; y
 
 XIV. Las demás que las disposiciones legales le atribuyan, así como aquellas que le confiera el titular de la Secretaría de Finanzas y Administración y su superior jerárquico inmediato.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2006)</small>
+
+ARTICULO 24 BIS.- Corresponde a la Coordinación de Administración Financiera, el desempeño de las atribuciones siguientes:
+
+I. Llevar el control financiero de convenios y acuerdos de coordinación celebrados entre la Federación y el Estado, estableciendo los mecanismos para su revisión y evaluación;
+
+II. Revisar la normatividad financiera establecida en los convenios y acuerdos de coordinación;
+
+III. Supervisar el registro, seguimiento y control financiero de los recursos federalizados que correspondan al Programa de Apoyo para el Fortalecimiento de las Entidades Federativas y aportaciones federales de los fondos que integran el Ramo General 33;
+
+IV. Informar al Subsecretario de Egresos, la situación financiera de los programas y proyectos financiados con recursos convenidos, para su seguimiento y control;
+
+V. Informar la situación de los recursos federalizados, en cuanto al calendario de ministración, monto autorizado, comprometido, ejercido y saldo;
+
+VI. Elaborar los informes mensuales que se entregan a las autoridades normativas respecto a los recursos financieros del Ramo General 33, y
+
+VII. Todas aquellas facultades que le hayan sido encomendadas por el Secretario.
 
 ###### ARTICULO 25.
 
@@ -1168,3 +1260,9 @@ El Secretario de Finanzas y Administración.
 C. C.P. RAFAEL ACEVEDO ANDRADE.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 13 DE ENERO DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
