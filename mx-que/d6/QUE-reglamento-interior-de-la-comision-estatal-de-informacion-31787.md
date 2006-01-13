@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-de-la-comision-estatal-de-informacion-31787
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-05-30"
-last_updated: "2003-05-30"
+last_updated: "2006-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31787&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 REGLAMENTO INTERIOR DE LA COMISION ESTATAL DE INFORMACION GUBERNAMENTAL EN EL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION ESTATAL DE INFORMACION GUBERNAMENTAL EN EL ESTADO DE QUERETARO, PUBLICADO EN EL P.O. DE 13 DE ENERO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 30 de mayo de 2003.
 
@@ -503,7 +505,7 @@ El periodo vacacional del personal de la Comisión, será determinado por el Ple
 
 ###### Artículo 48.
 
-El servicio civil de carrera es un sistema que garantiza el ingreso, desarrollo y permanencia del personal de la Comisión. Este sistema se funda en el mérito, las aptitudes y la igualdad de oportunidades. Comprende los procedimientos de reclutamiento, selección, ingreso, evaluación del desempeño, capacitación y separación del cargo de conformidad con este reglamento y las demás disposiciones aplicables. Todos los procedimientos y reglas para instrumentar este sistema deberán ser expedidos con reglas claras y con toda transparencia, imparcialidad y oportunidad.
+El servicio civil de carrera es un sistema que garantiza el ingreso, desarrollo y permanencia del personal de la Comisión. Este sistema se funda en el mérito, las aptitudes y la igualdad de oportunidades. Comprende los procedimientos de reclutamiento, selección, ingreso, evaluación del desempeño, capacitación y separación del cargo de conformidad con este reglamento y las demás disposiciones aplicables. Todos los procedimientos y reglas para instrumentar este sistema deberán ser expedidos con reglas claras y con toda trasparencia, imparcialidad y oportunidad.
 
 ###### Artículo 49.
 
@@ -602,3 +604,11 @@ COMISIONADA SECRETARIA
 L.A.E. ALBERTO ESQUIVEL MACEDO
 
 COMISIONADO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 13 DE ENERO DE 2006.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Comisión Estatal de Información Gubernamental en el Estado de Querétaro, publicado en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" el 30 de mayo de 2003.
