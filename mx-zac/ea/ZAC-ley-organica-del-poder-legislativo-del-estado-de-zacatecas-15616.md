@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-legislativo-del-estado-de-zacatecas-1561
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-02"
-last_updated: "2002-11-20"
+last_updated: "2006-01-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE NOVIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el miércoles 2 de diciembre de 1998.
 
@@ -801,9 +801,13 @@ Las Comisiones Legislativas se constituyen con carácter definitivo y funcionan 
 
 28. Biblioteca y Archivo;
 
-29. Editorial; y
+29. Editorial;
 
-30. Asuntos Diversos.
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2006)</small>
+
+30. Estudios Legislativos y Prácticas Parlamentarias, la que de manera excepcional, se integrará con tres Diputados propietarios y tres Diputados suplentes; y
+
+31. Asuntos Diversos.
 
 PUNTOS CONSTITUCIONALES
 
@@ -1197,6 +1201,24 @@ VI. Difundir en el ámbito estatal sus publicaciones; y
 
 VII. Preservar las obras editadas por la Legislatura, elaborar un catálogo de las mismas y verificar su ingreso al acervo bibliotecario de la Legislatura.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 14 DE ENERO DE 2006)</small>
+
+ESTUDIOS LEGISLATIVOS Y PRACTICAS PARLAMENTARIAS
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2006)</small>
+
+ARTICULO 85 BIS.- La Comisión de Estudios y Prácticas Parlamentarias, estará encargada de los siguientes asuntos:
+
+I. Impulsar programas de profesionalización y actualización en derecho parlamentario y prácticas legislativas;
+
+II. Dirigir y evaluar el trabajo del Instituto de Investigaciones Legislativas e impulsar los presupuestos y programas del mismo;
+
+III. Coordinarse con instituciones académicas y de investigación para el apoyo de las tareas del Instituto;
+
+IV. Actualizar a través del área correspondiente, el Sistema Estatal Normativo que deberá contener las leyes, decretos, reglamentos y demás normas que rijan en el Estado; y
+
+V. Evaluar y presentar para la aprobación del Pleno, los proyectos de programa y presupuesto anual del Instituto.
+
 ASUNTOS DIVERSOS
 
 ###### ARTICULO 86.
@@ -1427,11 +1449,15 @@ Durante el ejercicio de una Legislatura, los diputados recibirán por concepto d
 
 Para el cumplimiento de sus fines, la Legislatura se apoyará en el Servicio Profesional Legislativo conformado por servidores públicos dedicados de manera estable y permanente a coadyuvar en las tareas de administración general, protocolo, proceso legislativo, proyección y control presupuestal.
 
-El Servicio Profesional Legislativo se integra por: la Oficialía Mayor, la Dirección de Asuntos Jurídicos, la Dirección de Recursos Financieros, y las Unidades Administrativas que sean necesarias para el funcionamiento de la Legislatura con base en los ordenamientos que se expidan y el presupuesto que se autorice.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 14 DE ENERO DE 2006)</small>
+
+El Servicio Profesional Legislativo se integra por: la Oficialía Mayor, la Dirección de Asuntos Jurídicos, la Dirección de Recursos Financieros, el Instituto de Investigaciones Legislativas y las Unidades Administrativas que sean necesarias para el funcionamiento de la Legislatura con base en los ordenamientos que se expidan y el presupuesto que se autorice.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 14 DE ENERO DE 2006)</small>
 
 ###### ARTICULO 125.
 
-Para garantizar la estabilidad del trabajo legislativo, tendrán carácter de permanente los nombramientos del Oficial Mayor, el Director de Asuntos Jurídicos y el Director de Recursos Financieros. En consecuencia, su relación laboral sólo podrá suspenderse, terminar o rescindirse, conforme a lo dispuesto por la Ley del Servicio Civil, y por el voto de la mitad más uno de los diputados integrantes de la Legislatura.
+Para garantizar la estabilidad del trabajo legislativo, tendrán carácter de permanente los nombramientos del Oficial Mayor, el Director de Asuntos Jurídicos, el Director de Recursos Financieros y el Coordinador del Instituto de Investigación Legislativa. En consecuencia, su relación laboral sólo podrá suspenderse, terminar o rescindirse, conforme a lo dispuesto por la Ley del Servicio Civil y por el voto de la mitad más uno de los diputados integrantes de la Legislatura.
 
 ### CAPITULO SEGUNDO. FUNCIONES GENERALES DEL SERVICIO PROFESIONAL LEGISLATIVO
 
@@ -1441,9 +1467,15 @@ El Servicio Profesional Legislativo ejercerá las atribuciones siguientes:
 
 I. La Oficialía Mayor es el órgano a través del cual el Pleno, la Mesa Directiva, la Comisión de Planeación, Patrimonio y Finanzas, y la Comisión de Régimen Interno y Concertación Política, ejercen las funciones de protocolo, conducción de sesiones, levantamiento de actas, compilación del Diario de Debates, y las de administración general del Poder Legislativo;
 
-II. La Dirección de Asuntos Jurídicos tiene a su cargo asesorar técnicamente a las Comisiones Legislativas en materia de iniciativas, dictámenes y expedición de leyes, decretos o acuerdos; y
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2006)</small>
 
-III. A la Dirección de Recursos Financieros le corresponde coadyuvar con las Comisiones de Régimen Interno y Concertación Política y de Planeación, Patrimonio y Finanzas en materia de proyección, ejercicio y control presupuestal.
+II. La Dirección de Asuntos Jurídicos tiene a su cargo asesorar técnicamente a las Comisiones Legislativas en materia de dictámenes y expedición de leyes, decretos o acuerdos;
+
+III. A la Dirección de Recursos Financieros le corresponde coadyuvar con las Comisiones de Régimen Interno y Concertación Política y de Planeación, Patrimonio y Finanzas en materia de proyección, ejercicio y control presupuestal;
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2006)</small>
+
+IV. El Instituto de Investigaciones Legislativas tiene a su cargo la función de fortalecer, a través de la investigación, la producción legislativa de iniciativas, además de promover la actualización y profesionalización del propio Instituto y del cuerpo de asesores.
 
 La reglamentación interna y los manuales especificarán las funciones que corresponde ejercer a cada una de las áreas del Servicio Profesional Legislativo, mismo que contará con el número de servidores públicos que anualmente autorice el presupuesto de egresos del Poder Legislativo y que resulte necesario para el buen desempeño de sus funciones.
 
@@ -1598,3 +1630,9 @@ UNICO.- El presente Decreto entrará en vigor el día de su publicación en el P
 P.O. 20 DE NOVIEMBRE DE 2002.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 14 DE ENERO DE 2006.
+
+PRIMERO.- El Presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que contravengan el presente instrumento.
