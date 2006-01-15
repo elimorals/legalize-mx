@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-de-la-secretaria-general-de-gobierno-47708"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-30"
-last_updated: "2005-12-30"
+last_updated: "2006-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47708&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 15 DE ENERO DE 2006.
 
 Reglamento publicado en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 30 de diciembre de 2005.
 
@@ -37,6 +37,8 @@ REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO
 
 La Secretaría General de Gobierno, como dependencia del Poder Ejecutivo Estatal, tiene a su cargo el despacho de los asuntos que expresamente le confieren la Constitución Política del Estado de Baja California Sur, la Ley Orgánica de la Administración Pública del Estado de Baja California Sur, así como las demás leyes, reglamentos, decretos, acuerdos y órdenes del Ejecutivo del Estado que de ellas emanen.
 
+> <small>(REFORMADO, B.O. 15 DE ENERO DE 2006)</small>
+
 ###### ARTÍCULO 2.
 
 Al frente de la Secretaría General de Gobierno estará el Secretario, quien para el desahogo de los asuntos de su competencia, se auxiliará de las siguientes Unidades Administrativas:
@@ -49,13 +51,13 @@ III. Dirección de Transporte;
 
 IV. Dirección Estatal del Registro Público de la Propiedad y del Comercio, Registro Civil y Archivo de Notarías;
 
-V. Dirección de Acción Cívica y Social;
+V. Coordinación de Certificaciones y Anuencias;
 
-VI. Coordinación de Certificaciones y Anuencias;
+VI. Coordinación de Asuntos Jurídicos;
 
-VII. Coordinación de Asuntos Jurídicos;
+VII. Coordinación de Estudios Legislativos;
 
-VIII. Coordinación de Estudios Legislativos;
+VIII. Coordinación de Enlace Gubernamental;
 
 IX. Unidad de Apoyo Técnico;
 
@@ -143,7 +145,9 @@ XX. Aprobar el anteproyecto de Presupuesto Anual de Egresos de la Secretaría y 
 
 XXI. Expedir los acuerdos secretariales, avisos, circulares y demás actos que, con tal carácter, le atribuyan expresamente las disposiciones legales aplicables, o aquellos que le encomiende el Gobernador del Estado;
 
-XXII. Recibir en acuerdo ordinario al Subsecretario y a los titulares de las Unidades Administrativas, y en acuerdo extraordinario a cualquier otro servidor público subalterno, así como conceder audiencia al público;
+> <small>(REFORMADA, B.O. 15 DE ENERO DE 2006)</small>
+
+XXII.- Recibir en acuerdo ordinario a los titulares de las Unidades Administrativas adscritas a la Secretaría; y en acuerdo extraordinario a cualquier otro servidor público subalterno, así como conceder audiencia al público;
 
 XXIII. Informar al Congreso del Estado sobre la situación que guarda su ramo, cuando dicho órgano legislativo solicite su comparecencia;
 
@@ -183,11 +187,13 @@ V. Expedir y certificar documentos y firmas de funcionarios estatales;
 
 VI. Expedir el certificado que acredite la ciudadanía sudcaliforniana;
 
-VII. Promover la cultura cívico-política de los ciudadanos, los mecanismos de participación ciudadana y la atención a los organismos de la sociedad civil;
+> <small>(REFORMADA. B.O. 15 DE ENERO DE 2006)</small>
+
+VII.- Integrar el registro de las instituciones de asistencia y beneficencia pública o privada;
 
 VIII. Vigilar el sistema de radiocomunicaciones del Estado;
 
-IX. Diseñar y difundir anualmente el calendario cívico y social que regirá en el Estado anualmente;
+IX.- (DEROGADA, B.O. 15 DE ENERO DE 2006)
 
 X. Coordinar la política de población en el Estado;
 
@@ -227,7 +233,7 @@ XXVII. Formular la política de desarrollo cultural, bienestar social, deporte y
 
 XXVIII. Proporcionar los elementos necesarios para el funcionamiento del Patronato del Estudiante Sudcaliforniano;
 
-XXIX. Proteger, mantener y acrecentar el patrimonio histórico del Estado y coordinar las funciones del Cronista del Estado;
+XXIX.- (DEROGADA, B.O. 15 DE ENERO DE 2006)
 
 XXX. Resolver las dudas que se susciten con motivo de la interpretación y aplicación de este Reglamento, así como los casos no previstos en el mismo; y
 
@@ -289,7 +295,9 @@ IV. Ordenar la publicación, en el Boletín Oficial del Gobierno del Estado, de 
 
 V. Dirigir y supervisar las actividades de la Coordinación de Defensorías de Oficio;
 
-VI. Representar al Gobernador del Estado y a las dependencias de la Administración Pública Estatal, ante cualesquiera autoridad administrativa o judicial, sean éstas federales, estatales, municipales o ante cualesquier organismos, instituciones y particulares, con las facultades de un mandatario judicial, pudiendo acreditar apoderados, mandatarios judiciales o delegados; ejerciendo sus atribuciones, excepto en aquellos asuntos que por disposición constitucional se consideren no delegables;
+> <small>(REFORMADA, B.O. 15 DE ENERO DE 2006)</small>
+
+VI.- Representar al Gobernador del Estado, Gobierno del Estado, al Poder Ejecutivo, a los Titulares y Dependencias de la Administración Pública Estatal, ante cualesquiera autoridad administrativa o judicial, sean éstas federales, estatales, municipales o ante cualesquier organismo, institución o particular, con las facultades de una mandatario judicial, pudiendo acreditar apoderados, mandatarios judiciales o delegados; ejerciendo sus atribuciones, excepto en aquellos asuntos que por disposición constitucional se consideren no delegables;
 
 VII. Intervenir en los asuntos de carácter legal en los que tenga injerencia la Secretaría, y emitir opinión respecto a las consultas que en materia jurídica formulen los servidores públicos de la propia Secretaría, las dependencias o las entidades de la Administración Pública, así como los Ayuntamientos del Estado, cuando lo soliciten;
 
@@ -453,7 +461,9 @@ III. Tramitar y dar seguimiento a los recursos administrativos contra actos de l
 
 IV. Vigilar el cumplimiento de la Ley de Notariado del Estado;
 
-V. Representar al Poder Ejecutivo del Estado y a sus Dependencias, ante cualesquiera autoridad administrativa o judicial, sean éstas federales, estatales o municipales, o ante cualesquier organismos, instituciones y particulares, con las facultades de un mandatario judicial, ejerciendo sus atribuciones, excepto en aquellos asuntos que por disposición constitucional se consideren no delegables;
+> <small>(REFORMADA B.O. 15 DE ENERO DE 2006)</small>
+
+V. Representar al Gobernador del Estado, Gobierno del Estado, al Poder Ejecutivo, a los Titulares y Dependencias de la Administración Pública Estatal, ante cualesquiera autoridad administrativa o judicial, sean éstas federales, estatales, municipales o ante cualesquier organismo, institución o particular, con las facultades de una (sic) mandatario judicial, pudiendo acreditar apoderados, mandatarios judiciales o delegados; ejerciendo sus atribuciones, excepto en aquellos asuntos que por disposición constitucional se consideren no delegables;
 
 VI. Otorgar asesoría jurídica y/o representar legalmente, en caso necesario, a los particulares que lo soliciten;
 
@@ -507,7 +517,13 @@ V. Auxiliar a las autoridades federales, cuando lo soliciten, en materia de cult
 
 VI. Expedir el certificado que acredite la ciudadanía sudcaliforniana, a quienes cubran los requisitos correspondientes; y
 
-VII. Las demás que, conforme a las necesidades de las áreas jurídicas de las dependencias, se requieran para el adecuado ejercicio y coordinación de las mismas y las que le encomiende el Secretario o del Director General.
+> <small>(REFORMADA, B.O. 15 DE ENERO DE 2006)</small>
+
+VII.- Llevar el registro de las instituciones de asistencia y beneficencia pública o privada; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 15 DE ENERO DE 2006)</small>
+
+VIII.- Las demás que conforme a las necesidades de las áreas jurídicas de las dependencias, se requieran para el adecuado ejercicio y coordinación de las mismas y las que le encomiende el Secretario o el Director General.
 
 ###### ARTÍCULO 20.
 
@@ -517,55 +533,23 @@ Departamento Evaluación y Seguimiento;
 
 Departamento de Anuencias, Apostillamiento y Certificación; y (sic).
 
+> <small>(REFORMADO, B.O. 15 DE ENERO DE 2006)</small>
+
 ###### ARTÍCULO 21.
 
-Dirección de Acción Cívica y Social:
+A la Coordinación de Enlace Gubernamental le corresponde el ejercicio de las siguientes funciones:
 
-I. Realizar y fomentar las tareas de acción cívica y social en coordinación con los Ayuntamientos de la entidad;
+I. Auxiliar al Secretario General en las actividades relacionadas con la política interior;
 
-II. Proponer al Secretario el Proyecto de Calendario Cívico y Social anual y, una vez aprobado, ejecutarlo;
+II. Realizar las investigaciones y análisis de los asuntos de índole política y social de la entidad que le encomiende el Secretario;
 
-III. Intervenir en la organización de las conmemoraciones del Calendario Cívico y Social y demás actos oficiales;
+III. Realizar las encuestas de opinión pública sobre aspectos de interés estatal; y
 
-IV. Editar y difundir libros y folletos sobre temas que eleven la conciencia cívica y social de la población;
-
-V. Promover el establecimiento de servicios básicos de mejoramiento social;
-
-VI. Promover en las comunidades del Estado, eventos cívicos y sociales;
-
-VII. Fomentar y organizar toda clase de asistencia pública;
-
-VIII. Promover y supervisar las actividades cuya finalidad sea recabar fondos con fines de beneficencia social que lleven a cabo organizaciones públicas o privadas;
-
-IX. Coordinarse con instituciones cívicas, oficiales y particulares para la unificación de acciones de esta materia;
-
-X. Divulgar las crónicas por los medios disponibles, folletos, libros, radio, televisión, pláticas, conferencias, exposiciones, concursos, revistas, etc;
-
-XI. Procurar que los hechos relevantes actuales, queden registrados y a buen recaudo para la memoria histórica y en su caso, promover la integración de anuarios o memorias;
-
-XII. Coordinar el Sistema Estatal de Investigación, difusión y conservación del patrimonio histórico y cultural de Baja California Sur, con la participación de las dependencias interesadas y de la sociedad civil organizada;
-
-XIII. Atender solicitudes de información al público y de las dependencias gubernamentales;
-
-XIV. Propiciar la difusión masiva del patrimonio histórico por los medios disponibles como notas periodísticas y radiofónicas, elaboración de documentos accesibles en su texto y en su costo, reedición de obras, exposiciones, ciclos de conferencias y videogramas;
-
-XV. Crear instrumentos que faciliten la participación ciudadana respecto al patrimonio histórico, vigilar su aplicación y mantenerlos actualizados;
-
-XVI. Diseñar, establecer y coordinar el Sistema Estatal de Investigación, Difusión y Conservación del Patrimonio Histórico y Cultural;
-
-XVII. Participar en la formulación de las políticas de cultura del Estado; y
-
-XVIII. Las demás que le señalen las disposiciones legales vigentes y las que le asignen el Secretario, en el ejercicio de sus atribuciones.
+IV. Las demás que le asigne el Secretario, atendiendo a sus facultades.
 
 ###### ARTÍCULO 22.
 
-La Dirección de Acción Cívica y Social, se auxiliará de los siguientes Departamentos:
-
-Departamento de Acción Social;
-
-Departamento de Acción Cívica; y
-
-Cronista del Estado.
+(DEROGADO, B.O. 15 DE ENERO DE 2006)
 
 ###### ARTÍCULO 23.
 
@@ -623,9 +607,9 @@ XVII. Llevar a cabo actividades, designaciones y tramitación de asuntos que est
 
 XVIII. Coordinar, a solicitud del Secretario, la generación y acopio de información concerniente a las diferentes dependencias y entidades de la Secretaría, así como los estudios y análisis que con base en ésta se realicen;
 
-XIX. Realizar las investigaciones y análisis de los asuntos de índole política y social de la entidad que le encomiende el Secretario;
+XIX.- (DEROGADA, B.O. 15 DE ENERO DE 2006)
 
-XX. Realizar encuestas de opinión pública sobre aspectos de interés estatal;
+XX.- (DEROGADA, B.O. 15 DE ENERO DE 2006)
 
 XXI. Las demás que le asigne el Secretario General de Gobierno.
 
@@ -758,3 +742,13 @@ C. NARCISO AGÚNDEZ MONTAÑO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 C. VICTOR MANUEL GULUARTE CASTRO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+B.O. 15 DE ENERO DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Los recursos humanos, financieros y materiales, así como los bienes muebles e inmuebles asignados a la Dirección de Acción Cívica y Social, pasarán a formar parte de las Dependencias Auxiliares del Gobernador.
+
+TERCERO.- La Secretaría de Finanzas y la Oficialía Mayor de Gobierno realizarán los (sic) modificaciones presupuestales y administrativas a que haya lugar.
