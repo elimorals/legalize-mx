@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-de-las-dependencias-auxiliares-del-47689"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-30"
-last_updated: "2005-12-30"
+last_updated: "2006-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 REGLAMENTO INTERIOR DE LAS DEPENDENCIAS AUXILIARES DEL GOBERNADOR DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 15 DE ENERO DE 2006.
 
 Reglamento publicado en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 30 de diciembre de 2005.
 
@@ -37,11 +37,13 @@ REGLAMENTO INTERIOR DE LAS DEPENDENCIAS AUXILIARES DEL GOBERNADOR DEL ESTADO
 
 El Titular del Poder Ejecutivo del Estado tiene a su cargo las atribuciones que expresamente le asigna la Constitución Política del Estado, así como la Ley Orgánica de la Administración Pública del Estado de Baja California Sur y demás disposiciones que de ellas emanen.
 
+> <small>(REFORMADO, B.O. 15 DE ENERO DE 2006)</small>
+
 ###### ARTÍCULO 2.
 
-Para el estudio, planeación y despacho de los asuntos del Titular del Poder Ejecutivo, éste contará, además de las señaladas por el artículo 16 de la Ley Orgánica de la Administración Pública del Estado de Baja California Sur, con las siguientes dependencias auxiliares:
+Para el estudio, planeación y despacho de los asuntos del Titular del Poder Ejecutivo, éste contará, además de las señaladas por el Artículo 16 de la Ley Orgánica de la Administración Pública del Estado de Baja California Sur, con las siguientes dependencias auxiliares:
 
-l. Secretaría Particular;
+I. Secretaría Particular;
 
 II. Secretaría Privada;
 
@@ -53,23 +55,25 @@ V. Dirección de Relaciones Públicas;
 
 VI. Unidad Atención Ciudadana;
 
-VII. Unidad de Asesoría y de Apoyo Técnico;
+VII. Unidad de Asesoría y Apoyo Técnico;
 
-VIII. Representación del Gobierno del Estado en la Ciudad de México;
+VIII. Dirección de Acción Cívica y Social;
 
-IX. Enlace Regional de la Zona Norte con el Gobierno del Estado de Baja California Sur;
+IX. Representación del Gobierno del Estado en la Ciudad de México;
 
-X. Dirección de Relaciones Internacionales; y
+X. Enlace Regional de la Zona Norte con el Gobierno del Estado de Baja California Sur;
 
-XI. Coordinación General de Administración;
+XI. Dirección de Relaciones Internacionales; y
+
+XII. Coordinación General de Administración.
 
 Así mismo podrá contar con las representaciones necesarias, mismas que serán creadas por Acuerdo del Gobernador del Estado y publicado en el Boletín Oficial del Gobierno del Estado.
 
 Además, estarán bajo su coordinación los siguientes organismos descentralizados:
 
-I. Sistema para el Desarrollo Integral de la Familia; y
+Sistema para el Desarrollo Integral de la Familia; e
 
-II. Instituto Estatal de Radio y Televisión.
+Instituto Estatal de Radio y Televisión.
 
 ### CAPÍTULO II. DE LAS FUNCIONES GENÉRICAS DE LAS DEPENDENCIAS AUXILIARES DEL GOBERNADOR DEL ESTADO
 
@@ -151,7 +155,9 @@ A la Secretaría Privada le corresponde ejercer funciones de coordinación y apo
 
 A la Dirección de Gobierno le corresponden las siguientes funciones:
 
-I. Realizar las investigaciones y análisis de los asuntos de índole política y social de la entidad que le encomienden el Gobernador, el Secretario o el Subsecretario del Ramo;
+> <small>(REFORMADA, B.O. 15 DE ENERO DE 2006)</small>
+
+I.- Realizar las investigaciones y análisis de los asuntos de índole política y social que le encomiende el Gobernador;
 
 II. Realizar encuestas de opinión pública sobre aspectos de interés estatal;
 
@@ -224,6 +230,46 @@ VIII. Proporcionar al Gobernador del Estado información para el desarrollo de l
 IX. Coordinar las jornadas sociales que lleve a cabo el Gobierno del Estado; y
 
 X. Las demás que le encomiende el Gobernador del Estado.
+
+> <small>(ADICIONADO, B.O. 15 DE ENERO DE 2006)</small>
+
+###### ARTÍCULO 11-A.
+
+A la Dirección de Acción Cívica y Social, le corresponden las siguientes funciones:
+
+I. Realizar y fomentar las tareas de acción cívica y social en coordinación con los Ayuntamientos de la entidad;
+
+II. Proponer al Gobernador del Estado el Proyecto de Calendario Cívico y Social anual y, una vez aprobado, ejecutarlo;
+
+III. Intervenir en la organización de las conmemoraciones del Calendario Cívico y Social; y demás actos oficiales;
+
+IV. Editar y difundir libros y folletos sobre temas que eleven la conciencia cívica social de la población;
+
+V. Promover el establecimiento de servicios básicos de mejoramiento social;
+
+VI. Promover en las comunidades del Estado, eventos cívicos y sociales;
+
+VII. Fomentar y organizar toda clase de asistencia pública;
+
+VIII. Promover y supervisar las actividades cuya finalidad sea recabar fondos con fines de beneficencia social que lleven a cabo organizaciones públicas o privadas;
+
+IX. Coordinarse con instituciones cívicas, oficiales y particulares para la unificación de acciones de esta materia;
+
+X. Divulgar las crónicas por los medios disponibles, folletos, libros, radio, televisión, pláticas, conferencias, exposiciones, concursos, revistas, etc;
+
+XI. Procurar que los hechos relevantes actuales, queden registrados y a buen recaudo para la memoria histórica y en su caso, promover la integración de anuarios y memorias;
+
+XII. Coordinar el Sistema Estatal de Investigación, Difusión y Conservación del Patrimonio Histórico y Cultural de Baja California Sur, con la participación de las dependencias interesadas y de la sociedad civil organizada;
+
+XIII. Atender solicitudes de información al público y de las dependencias gubernamentales;
+
+XIV. propiciar la difusión masiva del patrimonio histórico por los medios disponibles como notas periodísticas y radiofónicas, elaboración de documentos accesibles en su texto y en su costo, reedición de obras, exposiciones, ciclos de conferencias y videogramas;
+
+XV. Crear instrumentos que faciliten la participación ciudadana respecto al patrimonio histórico, vigilar su aplicación y mantenerlos actualizados;
+
+XVI. Diseñar, establecer y coordinar el Sistema de Investigación, Difusión y Conservación del Patrimonio Histórico y Cultural del Estado; y
+
+XVII. Las demás que le señalen las disposiciones legales vigentes y las que le asigne el Gobernador del Estado, en el ejercicio de sus atribuciones.
 
 ###### ARTÍCULO 12.
 
@@ -370,3 +416,13 @@ C. NARCISO AGÚNDEZ MONTAÑO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 C. VICTOR MANUEL GULUARTE CASTRO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+B.O. 15 DE ENERO DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Los recursos humanos, financieros y materiales, así como los bienes muebles e inmuebles asignados a la Dirección de Acción Cívica y Social, pasarán a formar parte de las Dependencias Auxiliares del Gobernador.
+
+TERCERO.- La Secretaría de Finanzas y la Oficialía Mayor de Gobierno realizarán los (sic) modificaciones presupuestales y administrativas a que haya lugar.
