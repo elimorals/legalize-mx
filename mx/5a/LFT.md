@@ -4,7 +4,7 @@ identifier: "LFT"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1970-04-01"
-last_updated: "1998-01-23"
+last_updated: "2006-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=410&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFT"
 
 LEY FEDERAL DEL TRABAJO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE ENERO DE 2006.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación el miércoles 1 de abril de 1970.
 
@@ -616,29 +616,31 @@ Cuando el trabajador no preste sus servicios durante todos los días de trabajo 
 
 Los trabajadores no están obligados a prestar servicios en sus días de descanso. Si se quebranta esta disposición, el patrón pagará al trabajador, independientemente del salario que le corresponda por el descanso, un salario doble por el servicio prestado.
 
+> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2006)</small>
+
 ###### Artículo 74.
 
 Son días de descanso obligatorio:
 
-I. El 1°. de enero;
+I. El 1o. de enero;
 
-II. El 5 de febrero;
+II. El primer lunes de febrero en conmemoración del 5 de febrero;
 
-III. El 21 de marzo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE EL ARTICULO SEGUNDO TRANSITORIO.</small>
 
-IV. El 1°. de mayo;
+III. El tercer lunes de marzo en conmemoración del 21 de marzo;
+
+IV. El 1o. de mayo;
 
 V. El 16 de septiembre;
 
-VI. El 20 de noviembre;
+VI. El tercer lunes de noviembre en conmemoración del 20 de noviembre;
 
-VII. El 1°. de diciembre de cada seis años, cuando corresponda a la trasmisión del Poder Ejecutivo Federal; y
+VII. El 1o. de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal;
 
-VIII. El 25 de diciembre.
+VIII. El 25 de diciembre, y
 
-> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 1987)</small>
-
-IX. El que determinen las Leyes Federales y Locales Electorales, en el caso de elecciones ordinarias, para efectuar la jornada electoral.
+IX. El que determinen las leyes federales y locales electorales, en el caso de elecciones ordinarias, para efectuar la jornada electoral.
 
 ###### Artículo 75.
 
@@ -952,7 +954,7 @@ IV. Dentro de los treinta días siguientes a la resolución dictada por la Secre
 
 ###### Artículo 122.
 
-El reparto de utilidades entre los trabajadores deberá efectuarse dentro de los sesenta días siguientes a la fecha en que deba pagarse el impuesto anual, aun cuando esté en trámite (sic) objeción de los trabajadores.
+El reparto de utilidades entre los trabajadores deberá efectuarse dentro de los sesenta días siguientes a la fecha en que deba pagarse el impuesto anual, aun cuando esté en trámite objeción (sic) de los trabajadores.
 
 Cuando la Secretaría de Hacienda y Crédito Público aumente el monto de la utilidad gravable, sin haber mediado objeción de los trabajadores o haber sido ésta resuelta, el reparto adicional se hará dentro de los sesenta días siguientes a la fecha en que se notifique la resolución. Sólo en el caso de que ésta fuera impugnada por el patrón, se suspenderá el pago del reparto adicional hasta que la resolución quede firme, garantizándose el interés de los trabajadores.
 
@@ -2358,7 +2360,7 @@ No es violatoria del principio de igualdad de salario la disposición que estipu
 
 ###### Artículo 258.
 
-Para determinar el salario de los días de descanso se aumentará el que perciban por el trabajo realizado en la semana, con un dieciséis sesenta y seis por ciento (sic).
+Para determinar el salario de los días de descanso se aumentará el que perciban por el trabajo realizado en la semana, con un dieciséis sesenta y seis por ciento.
 
 ###### Artículo 259.
 
@@ -3062,7 +3064,7 @@ Dentro del tiempo que el Médico Residente debe permanecer en la Unidad Médica 
 
 ###### Artículo 353-F.
 
-La relación de trabajo será por tiempo determinado, no menor de un año ni mayor del período de duración de la residencia necesaria para obtener el Certificado de Especialización correspondiente, tomándose en cuenta a este último respecto las causas de rescisión señaladas en el artículo 353-G.
+La relación de trabajo será por tiempo determinado, no menor de un año ni mayor del período de duración de la residencia necesaria para obtener el Certificado de Especialización correspondiente, tomándose en cuenta a este último respecto las causas de rescisión señaladas en el artículo 353. G.
 
 En relación con este Capítulo, no regirá lo dispuesto por el artículo 39 de esta ley.
 
@@ -5594,11 +5596,11 @@ V. Cumplimentar los exhortos y practicar las diligencias que les encomienden otr
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 24 DE DICIEMBRE DE 1974)</small>
 
-VI.- Denunciar ante el Ministerio Público al patrón de una negociación industrial, agrícola, minera, comercial o de servicios que haya dejado de pagar el salario mínimo general a uno o varios de sus trabajadores; y (sic)
+VI. Denunciar ante el Ministerio Público al patrón de una negociación industrial, agrícola, minera, comercial o de servicios que haya dejado de pagar el salario mínimo general a uno o varios de sus trabajadores; y (sic)
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 2 DE JULIO DE 1976)</small>
 
-VII.- De ser procedente, aprobar los convenios que les sean sometidos por las partes.
+VII. De ser procedente, aprobar los convenios que les sean sometidos por las partes.
 
 > <small>(ADICIONADA, D.O.F. 2 DE JULIO DE 1976)</small>
 
@@ -6542,7 +6544,7 @@ Los trabajadores, los patrones y las organizaciones sindicales, podrán otorgar 
 
 Los representantes o apoderados podrán acreditar su personalidad conforme a los lineamientos anteriores, en cada uno de los juicios en que comparezcan, exhibiendo copia simple fotostática para su cotejo con el documento original o certificado por autoridad, el cual les será devuelto de inmediato, quedando en autos la copia debidamente certificada.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 696.
 
@@ -6614,7 +6616,7 @@ La Junta de Conciliación y las de Conciliación y Arbitraje, de oficio deberán
 
 No se considerará excepción de incompetencia la defensa consistente en la negativa de la relación de trabajo.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 703.
 
@@ -6628,7 +6630,7 @@ La declinatoria deberá oponerse al iniciarse el período de demanda y excepcion
 
 Cuando una Junta Especial considere que el conflicto de que conoce, es de la competencia de otra de la misma Junta, con citación de las partes, se declarará incompetente y remitirá los autos a la Junta Especial que estime competente. Si ésta al recibir el expediente se declara a su vez incompetente, lo remitirá a la autoridad que deba decidir la cuestión de competencia, para que ésta determine cuál es la Junta Especial que debe continuar conociendo del conflicto.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 705.
 
@@ -7240,7 +7242,7 @@ Cuando para continuar el trámite del juicio en los términos del artículo que 
 
 Si el trabajador está patrocinado por un Procurador del Trabajo, la Junta notificará el acuerdo de que se trata, a la Procuraduría de la Defensa del Trabajo, para los efectos correspondientes. Si no estuviera patrocinado por la Procuraduría, se le hará saber a ésta el acuerdo, para el efecto de que intervenga ante el trabajador y le precise las consecuencias legales de la falta de promoción, así como para que le brinde asesoría legal en caso de que el trabajador se la requiera.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980))
 
 ###### Artículo 773.
 
@@ -9520,7 +9522,7 @@ No se exigirán los requisitos señalados en los artículos 626, fracción II; 6
 
 ###### Artículo 12.
 
-Los juicios pendientes ante las Juntas de Conciliación y Arbitraje continuarán tramitándose de conformidad con las disposiciones de la Ley Federal del Trabajo de 18 de agosto de 1931, entre tanto se efectúa la reorganización a que se refiere el artículo 9°. Transitorio. Efectuada la reorganización, los juicios se tramitarán de conformidad con las disposiciones de esta Ley; la Junta hará saber a las partes el momento en que la tramitación quedará sometida a los procedimientos establecidos en esta Ley.
+Los juicios pendientes ante las Juntas de Conciliación y Arbitraje continuarán tramitándose de conformidad con las disposiciones de la Ley Federal del Trabajo de 18 de agosto de 1931, entre tanto se efectúa la reorganización a que se refiere el artículo 9o. Transitorio. Efectuada la reorganización, los juicios se tramitarán de conformidad con las disposiciones de esta Ley; la Junta hará saber a las partes el momento en que la tramitación quedará sometida a los procedimientos establecidos en esta Ley.
 
 En los juicios pendientes ante las Juntas de Conciliación, se recibirán las pruebas que hubiesen ofrecido las partes y se remitirá el expediente a la Junta de Conciliación Permanente o a la de Conciliación y Arbitraje que corresponda.
 
@@ -9544,7 +9546,7 @@ IV. El Presidente de la Comisión Nacional de los Salarios Mínimos enviará al 
 
 México, D. F., 2 de diciembre de 1969. Luis L. León Uranga, S.P.- Joaquín Gamboa Pascoe, D.P.- Arturo Moguel Esponda, S.S.- Alberto Briseño Ruiz, D.S.- Rúbricas".
 
-En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veintitrés días del mes de diciembre de mil novecientos sesenta y nueve.- Gustavo Díaz Ordaz.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Salomón González Blanco.- Rúbrica.- El Subsecretario de Gobernación, Encargado del Despacho, Mario Moya Palencia.- Rúbrica.- El Secretario de Relaciones Exteriores, Antonio Carrillo Flores.- Rúbrica.- El Secretario de la Defensa Nacional, Marcelino García Barragán.- Rúbrica.- El Secretario de Marina, Antonio Vázquez del Mercado.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Antonio Ortiz Mena.- Rúbrica.- El Secretario del Patrimonio Nacional, Manuel Franco López.- Rúbrica.- El Secretario de Industria y Comercio, Octaviano Campos Salas.- Rúbrica.- El Secretario de Agricultura y Ganadería, Juan Gil Preciado.- Rúbrica.- El Secretario de Comunicaciones y Transportes, José Antonio Padilla Segura.- Rúbrica.- El Secretario de Obras Públicas, Gilberto Valenzuela.- Rúbrica.- El Secretario de Recursos Hidráulicos, José Hernández Terán.- Rúbrica.-El Secretario de Educación Pública, Agustín Yañez.- Rúbrica.- El Secretario de Salubridad y Asistencia, Salvador Aceves Parra.- Rúbrica.- El Secretario de la Presidencia, Emilio Martínez Manautou.- Rúbrica.- El Jefe del Departamento de Asuntos Agrarios y Colonización, Norberto Aguirre Palancares.- Rúbrica.- El Jefe del Departamento de Turismo, Agustín Salvat.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Alfonso Corona del Rosal.- Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veintitrés días del mes de diciembre de mil novecientos sesenta y nueve.- Gustavo Díaz Ordaz.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Salomón González Blanco.- Rúbrica.- El Subsecretario de Gobernación, Encargado del Despacho, Mario Moya Palencia.- Rúbrica.- El Secretario de Relaciones Exteriores, Antonio Carrillo Flores.- Rúbrica.- El Secretario de la Defensa Nacional, Marcelino García Barragán.- Rúbrica.- El Secretario de Marina, Antonio Vázquez del Mercado.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Antonio Ortiz Mena.- Rúbrica.- El Secretario del Patrimonio Nacional, Manuel Franco López.- Rúbrica.- El Secretario de Industria y Comercio, Octaviano Campos Salas.- Rúbrica.- El Secretario de Agricultura y Ganadería, Juan Gil Preciado.- Rúbrica.- El Secretario de Comunicaciones y Transportes, José Antonio Padilla Segura.- Rúbrica.- El Secretario de Obras Públicas, Gilberto Valenzuela.- Rúbrica.- El Secretario de Recursos Hidráulicos, José Hernández Terán.- Rúbrica.- El Secretario de Educación Pública, Agustín Yañez.- Rúbrica.- El Secretario de Salubridad y Asistencia, Salvador Aceves Parra.- Rúbrica.- El Secretario de la Presidencia, Emilio Martínez Manautou.- Rúbrica.- El Jefe del Departamento de Asuntos Agrarios y Colonización, Norberto Aguirre Palancares.- Rúbrica.- El Jefe del Departamento de Turismo, Agustín Salvat.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Alfonso Corona del Rosal.- Rúbrica.
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
@@ -9717,3 +9719,13 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 D.O.F. 23 DE ENERO DE 1998.
 
 UNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
+
+D.O.F. 17 DE ENERO DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+Por la conmemoración en el año 2006 del natalicio de Don Benito Juárez García, Benemérito de las Américas, la fracción III, tendrá vigencia a partir del año 2007.
