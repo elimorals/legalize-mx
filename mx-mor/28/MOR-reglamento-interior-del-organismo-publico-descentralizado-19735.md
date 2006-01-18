@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-organismo-publico-descentralizado-19735
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-01-31"
-last_updated: "2005-12-14"
+last_updated: "2006-01-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19735&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO INTERIOR DEL ORGANISMO PUBLICO DESCENTRALIZADO DEL GOBIERNO DEL ESTADO DE MORELOS DENOMINADO COMISION ESTATAL DE AGUA Y MEDIO AMBIENTE
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE ENERO DE 2006 EN EL P.O DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DEL ORGANISMO PUBLICO DESCENTRALIZADO DEL GOBIERNO DEL ESTADO DE MORELOS DENOMINADO COMISION ESTATAL DEL AGUA Y MEDIO AMBIENTE
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 2005.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIODICO OFICIAL EL 18 DE ENERO DE 2006.</small>
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 31 de enero de 2001.
 
@@ -365,8 +365,6 @@ XXIII. Las demás que les confieran otras disposiciones jurídicas o el Secretar
 
 ### CAPÍTULO QUINTO. DE LAS ATRIBUCIONES ESPECÍFICAS DE LOS SUBSECRETARIOS EJECUTIVOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE ENERO DE 2006 EN EL P.O DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 21.
 
 Corresponde a la Subsecretaría Ejecutiva de Ecología y Medio Ambiente, el ejercicio de las siguientes atribuciones específicas:
@@ -387,9 +385,9 @@ VI. Vigilar el debido establecimiento y operación de los Centros de Verificaci�
 
 VII. Ordenar la realización de inspecciones a los centros de verificación vehicular autorizados por el Gobierno del Estado de Morelos a través de la CEAMA, con el propósito de supervisar el cumplimiento de las disposiciones jurídicas en la materia;
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2005)</small>
+(REFORMADA, P.O. 14 DE DICIEMBRE DE 2005) (F. DE E., P.O. 18 DE ENERO DE 2006)
 
-VIII. Sancionar a los titulares de los Centros de Verificación Vehicular autorizados por el Gobierno del Estado, a través de la CEAMA, así como a los establecimientos que infrinjan las disposiciones establecidas en la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos y a las acuerdo (sic) del Secretario Ejecutivo, a los municipios del Estado en la elaboración de los planes municipales de servicios hidráulicos, alcantarillado, saneamiento e hidroagrícola;
+VIII. Sancionar a los titulares de los Centros de Verificación Vehicular autorizados por el Gobierno del Estado, a través de la CEAMA, así como a los establecimientos que infrinjan las disposiciones establecidas en la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos y a las demás disposiciones jurídicas aplicables;
 
 IX. Vigilar el cumplimiento y la debida operación del Programa de Verificación Vehicular Obligatoria;
 
@@ -449,8 +447,6 @@ XXXIII. Planear y ejecutar obras que cuenten con equipos, dispositivos, instalac
 
 XXXIV. Las demás que le confieran otras disposiciones jurídicas o le delegue el Secretario Ejecutivo, con respeto a las atribuciones de éste y de la Junta de Gobierno.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE ENERO DE 2006 EN EL P.O DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE MAYO DE 2002)</small>
 
 ###### Artículo 22.
@@ -467,7 +463,9 @@ IV. Coadyuvar con las autoridades federales en la medición del ciclo hidrológi
 
 V. Promover y apoyar la instalación de los dispositivos de medición en las fuentes de abastecimiento y en los sistemas de servicios hidráulicos de toda índole; así como sistematizar y difundir la información en la materia;
 
-VI. Asesorar a los municipios del Estado, previo acuerdo del Secretario Ejecutivo, en la elaboración de los planes municipales de servicios hidráulicos, alcantarillado y saneamiento;
+(REFORMADA, P.O. 15 DE MAYO DE 2002) (F. DE E., P.O. 18 DE ENERO DE 2006)
+
+VI. Asesorar previo acuerdo del Secretario Ejecutivo, a los municipios del Estado en la elaboración de los Planes Municipales de servicios hidráulicos, alcantarillado, saneamiento e hidroagrícola;
 
 VII. Facilitar los medios para coadyuvar a mejorar la prestación de los servicios de agua potable, alcantarillado y saneamiento en los medios urbano y rural;
 
@@ -533,13 +531,11 @@ XXXIV. Planear y ejecutar los diagnósticos técnicos, administrativos y comerci
 
 XXXV. Las demás que le confieran otras disposiciones jurídicas.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE ENERO DE 2006 EN EL P.O DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2005) (F. DE E., P.O. 18 DE ENERO DE 2006)
 
 ###### Artículo 23.
 
-A la Subsecretaría Ejecutiva de Administración y le corresponde
+A la Subsecretaría Ejecutiva de Administración y Finanzas, le corresponde el ejercicio de las siguientes atribuciones específicas:
 
 I. Planear, organizar, programar, dirigir, controlar y evaluar el desarrollo de los programas de la Subsecretaría Ejecutiva a su cargo;
 
@@ -1354,8 +1350,6 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se abrogan las disposiciones administrativas que se opongan al presente Decreto.
 
 TERCERO. Los manuales y disposiciones administrativas correspondientes, seguirán aplicándose en todo lo que no se oponga al presente Decreto.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE ENERO DE 2006 EN EL P.O DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 P.O. 14 DE DICIEMBRE DE 2005.
 
