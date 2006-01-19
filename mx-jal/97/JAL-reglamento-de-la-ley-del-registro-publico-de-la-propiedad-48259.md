@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-del-registro-publico-de-la-propiedad-48259
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-08-02"
-last_updated: "2001-08-02"
+last_updated: "2006-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48259&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,7 +21,7 @@ state: "JAL"
 
 REGLAMENTO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2006.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 2 de agosto de 2001.
 
@@ -269,9 +269,11 @@ III.- No haber sido condenado por delitos dolosos.
 
 ### CAPITULO UNICO. De los servicios que presta el Registro Público de la Propiedad
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2006)</small>
+
 ###### Artículo 15.
 
-Las oficinas permanecerán abiertas para el desempeño de las labores registrales, los días hábiles que lo sean para el Gobierno del Estado, con un horario de las 9:00 a las 15:00 horas, a excepción de los casos señalados en este reglamento, y prestará los servicios señalados en la Ley, bajo las siguientes normas:
+Las oficinas permanecerán abiertas para el desempeño de las labores registrales, por parte del personal adscrito a las oficinas del Registro Público de la Propiedad, los días hábiles que lo sean para el Gobierno del Estado, con un horario de las 8:00 a las 16:00 horas, el cual podrá ser ampliado mediante acuerdo del Director General cuando las actividades del trabajo así los (sic) ameriten. Para la prestación del servicio al usuario, los servicios señalados en la Ley serán en un horario de 9:00 a 15: horas, bajo los siguientes lineamientos:
 
 I.- Previa identificación y llenado de solicitud que contenga los datos de registro, los usuarios, podrán consultar libros, documentos y folios registrales, en las áreas especificas de consulta que para tal efecto señale el responsable de la oficina correspondiente dentro del horario comprendido de las 9:00 a las 13:00 horas;
 
@@ -774,3 +776,9 @@ LIC. FRANCISCO JAVIER RAMIREZ ACUÑA.
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 HECTOR PEREZ PLAZOLA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 19 DE ENERO DE 2006.
+
+Único.- El presente acuerdo entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
