@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2005-12-27"
+last_updated: "2006-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2006.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -605,7 +605,13 @@ II.- A los diputados al Congreso del Estado;
 
 III.- A los Ayuntamientos en asuntos del Ramo Municipal;
 
-IV.- Al Tribunal Superior de Justicia, en materia de su competencia.
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2006)</small>
+
+IV.- Al Tribunal Superior de Justicia, en materia de su competencia; y
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2006)</small>
+
+V.- A los órganos públicos autónomos, exclusivamente en materia de su competencia.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2000)</small>
 
@@ -1697,7 +1703,7 @@ Los funcionarios rendirán la protesta ante quien corresponda en la siguiente fo
 
 ###### ARTICULO 119.
 
-Todos los servidores públicos del Estado y de los Municipios, de elección popular y por nombramiento percibirán, una remuneración adecuada e irrenunciable por sus servicios, la cual no podrá ser disminuida durante el tiempo de su encargo y tendrán derecho a disfrutar de los beneficios de seguridad y servicios sociales que señala la ley de la materia.
+Todos los servidores públicos del Estado y de los Municipios, de elección popular y por nombramiento, percibirán una remuneración adecuada e irrenunciable por sus servicios, la cual no podrá ser disminuida durante el tiempo de su encargo y tendrán derecho a disfrutar de los beneficios de seguridad y servicios sociales que señala la ley de la materia.
 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -1705,11 +1711,25 @@ Todos los servidores públicos del Estado y de los Municipios, de elección popu
 
 Los funcionarios o empleados públicos que aceptaren su encargo faltándoles algunos de los requisitos que se señalan en esta Constitución, serán suspensos en el ejercicio de sus derechos de ciudadanos por un año.
 
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2006)</small>
 
 ###### ARTICULO 121.
 
-Una Ley fijará anualmente los sueldos de los empleados y demás gastos públicos, no pudiendo hacerse pago alguno que no esté comprendido en dicha Ley o aprobado por el Congreso.
+Los sueldos o remuneraciones de los servidores públicos y todos los demás gastos estatales y municipales, se fijarán anualmente en la Ley de Presupuesto de Egresos del Estado y en el Presupuesto de Egresos del correspondiente Municipio. Ningún pago por esos conceptos podrá hacerse si no está comprendido en dicha ley o presupuesto, o es aprobado previa y expresamente por el Congreso o el Cabildo respectivo, en su caso. Para la fijación de esos sueldos o remuneraciones siempre se tendrá en consideración:
+
+a) Las funciones, el grado de responsabilidad y la productividad que correspondan al cargo, empleo o comisión del servidor público;
+
+b) La existencia de una lógica y racional proporción entre su monto y los ingresos directos del erario a cuyo cargo se solventen;
+
+c) Que ningún servidor público podrá percibir sueldo o remuneración por cantidad mayor a la de su superior jerárquico inmediato; y
+
+d) Procurar que ningún sueldo o remuneración sea superior o igual al que corresponda al depositario del ejercicio del Poder Ejecutivo del Estado.
+
+No podrán establecerse retribuciones económicas de manera discrecional, cualquiera que sea su denominación.
+
+La Auditoría Superior del Estado tendrá a su cargo vigilar el debido cumplimiento de lo preceptuado por este artículo.
 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -1981,7 +2001,7 @@ Artículo Segundo.- Serán Cabeceras de los ocho Distritos Electorales q (sic) s
 
 Artículo Tercero.- En cumplimiento de lo dispuesto por el artículo 6o., reformado de la Ley Electoral del Estado, cada Ayuntamiento procederá, en atención a la división que en ocho Distritos Electorales se hace en el artículo primero del presente Decreto, a dividir sus respectivas municipalidades en secciones numeradas, progresivamente, en los términos que dispone dicho artículo 6o.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA ESTADO DE CAMPECHE.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA ESTADO DE CAMPECHE.
 
 P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957.
 
@@ -2222,3 +2242,19 @@ DECRETO NUMERO 244
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 19 DE ENERO DE 2006.
+
+DECRETO NUMERO 261
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan al contenido del presente decreto.
+
+P.O. 19 DE ENERO DE 2006.
+
+DECRETO NUMERO 262
+
+Primero.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
