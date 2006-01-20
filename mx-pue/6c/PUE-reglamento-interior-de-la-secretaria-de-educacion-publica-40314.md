@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-secretaria-de-educacion-publica-40314
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-25"
-last_updated: "2004-06-25"
+last_updated: "2006-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION PUBLICA DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 2006
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el viernes 25 de junio de 2004.
 
@@ -55,15 +55,17 @@ Cuando en el presente Reglamento se utilice el término Secretaría, se entender
 
 La Secretaría llevará a cabo sus actividades en forma programada y de conformidad con las políticas, lineamientos, estrategias, programas y prioridades que para el logro de sus objetivos y metas, establezcan el Gobernador del Estado y el Titular de la misma, en concordancia con los Planes Nacional y Estatal de Desarrollo.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2006)</small>
+
 ###### ARTÍCULO 4.
 
-Para el estudio, planeación, ejercicio de las atribuciones y despacho de los asuntos de su competencia, la Secretaría se auxiliará y contará con los siguientes servidores públicos y unidades administrativas siguientes:
+Para el estudio, planeación, ejercicio de las atribuciones y despacho de los asuntos de su competencia, la Secretaría se auxiliará y contará con los siguientes servidores públicos y unidades administrativas:
 
 Secretario
 
 Subsecretaría de Planeación y Coordinación Sectorial
 
-- Dirección General de Planeación y Programación Presupuestales
+Dirección General de Planeación y Programación Presupuestales
 
 - Dirección de Planeación, Integración y Seguimiento Presupuestales
 
@@ -75,7 +77,7 @@ Subsecretaría de Planeación y Coordinación Sectorial
 
 - Dirección de Control Escolar
 
-- Dirección General de Investigación, Evaluación y Política Educativa
+Dirección General de Investigación, Evaluación y Política Educativa
 
 - Dirección de Fomento a la Investigación Educativa
 
@@ -85,45 +87,49 @@ Subsecretaría de Planeación y Coordinación Sectorial
 
 Subsecretaría de Educación Básica
 
-- Dirección General de Operación Escolar
+Dirección General de Operación Escolar
 
-- Dirección de Operación de Educación Preescolar
+- Dirección de Educación Preescolar
 
-- Dirección de Operación de Educación Primaria
+- Dirección de Educación Primaria
 
-- Dirección de Operación de Educación Secundaria
+- Dirección de Educación Secundaria
+
+- Dirección de Educación Secundaria Técnica
+
+- Dirección de Educación Telesecundaria
+
+- Dirección de Educación Física
+
+Dirección General de Fomento a la Equidad
 
 - Dirección de Educación Especial
 
-- Dirección de Apoyo a la Gestión Escolar y Promoción de la Calidad
-
-- Dirección General de Fomento a la Equidad
-
 - Dirección de Educación Indígena
 
-- Dirección de Ampliación a la Cobertura
+- Dirección de Ampliación de la Cobertura a Zonas Marginadas
 
-Subsecretaría de Educación Media Superior
+Subsecretaria de Educación Media Superior
 
-- Dirección General Académica
+Dirección General Académica
 
 - Dirección de Planeación, Apoyo y Evaluación Académicos
 
-- Dirección General de Apoyo a la Educación Media Superior
+Dirección General de Apoyo a la Educación Media Superior
 
 - Dirección de Centros Escolares y Escuelas Particulares
 
 - Dirección de Bachilleratos Estatales y Preparatoria Abierta
 
-Subsecretaría de Educación Superior
+Subsecretaria de Educación Superior
 
-- Dirección General de Educación Superior
+Dirección General de Educación Superior
 
 - Dirección de Educación Superior
 
 - Dirección de Vinculación Científica y Tecnológica
 
-- Dirección General de Formación y Desarrollo de Docentes
+Dirección General de Formación y Desarrollo de Docentes
 
 - Dirección de Formación de Docentes
 
@@ -131,9 +137,9 @@ Subsecretaría de Educación Superior
 
 - Dirección de Carrera Magisterial
 
-- Dirección General de Desarrollo Educativo
+Dirección General de Desarrollo Educativo
 
-- Dirección General de Administración y Finanzas
+Dirección General de Administración y Finanzas
 
 - Dirección de Recursos Humanos
 
@@ -145,11 +151,11 @@ Subsecretaría de Educación Superior
 
 - Dirección de Desarrollo Administrativo y Capacitación
 
-- Dirección General de Asuntos Jurídicos y Relaciones Laborales
+Dirección General de Asuntos Jurídicos y Relaciones Laborales
 
 - Dirección de Asuntos Jurídicos
 
--Dirección de Relaciones Laborales
+- Dirección de Relaciones Laborales
 
 - Coordinaciones Regionales de Desarrollo Educativo
 
@@ -255,9 +261,21 @@ XXXVIII.- Resolver y aclarar las dudas que se susciten con motivo de la aplicaci
 
 XXXIX.- Asignar a las unidades administrativas de la Secretaría, las facultades no comprendidas en este Reglamento y que sean necesarias para el cumplimiento de sus atribuciones;
 
-XL.- Establecer las políticas y normas para proporcionar información, datos y cooperación o asistencia técnica a otras dependencias y entidades de la Administración Pública Estatal, así como a los gobiernos federal, estatales y municipales, y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
 
-XLI.- Las demás que le atribuyan las leyes, reglamentos, decretos, acuerdos, convenios y contratos, así como las que le asigne el Gobernador del Estado.
+XL.- Establecer las políticas y normas para proporcionar información, datos y cooperación o asistencia técnica a otras dependencias y entidades de la Administración Pública Estatal, así como a los gobiernos federal, estatales y municipales;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
+
+XLI.- Suscribir documentos relacionados con la admisión, baja y demás movimientos del personal que preste sus servicios a la Secretaría;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2006)</small>
+
+XLII.- Otorgar comisiones a trabajadores de la Secretaría, para el desempeño de actividades y funciones distintas a las de su nombramiento; y
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2006)</small>
+
+XLIII.- Las demás que le atribuyan las leyes, reglamentos, decretos, acuerdos, convenios y contratos, así como las que le asigne el Gobernador del Estado.
 
 ### CAPÍTULO II. DE LOS SUBSECRETARIOS
 
@@ -373,11 +391,11 @@ XIV.- Coordinar la expedición de certificados parciales y de terminación de es
 
 XV.- Organizar, supervisar y evaluar el sistema de control escolar en el Estado;
 
-XVI.- Coordinar el trámite, registro y validación de los títulos profesionales, diplomas de especialidad y grados de maestría y doctorado de egresados de instituciones de educación media superior y superior, oficiales y particulares, con autorización y/o reconocimiento de validez oficial de estudios por parte de la Secretaría;
+XVI.- (DEROGADA, P.O. 20 DE ENERO DE 2006)
 
-XVII.- Autorizar los exámenes profesionales, de especialidad y de grados de maestría y doctorado de estudiantes de instituciones de educación media superior y superior, oficiales y particulares, con autorización y/o reconocimiento de validez oficial de estudios por parte de la Secretaría;
+XVII.- (DEROGADA, P.O. 20 DE ENERO DE 2006)
 
-VIII.- Implementar sistemas de evaluación y seguimiento a través de indicadores de aprovechamiento académico, calidad de la gestión e impacto social, en coordinación con la Subsecretaría de Educación Básica, y
+XVIII.- Implementar sistemas de evaluación y seguimiento a través de indicadores de aprovechamiento académico, calidad de la gestión e impacto social, en coordinación con la Subsecretaría de Educación Básica, y
 
 XIX.- Las demás que las leyes, reglamentos, decretos, acuerdos, convenios y contratos le atribuyan directamente, así como aquéllas que le asigne el Secretario.
 
@@ -427,7 +445,9 @@ XIX.- Vigilar la aplicación de las normas que regulan el establecimiento, opera
 
 XX.- Proponer, en el ámbito de su competencia, políticas y procedimientos para otorgar autorización o reconocimiento de validez oficial de estudios a particulares para impartir educación básica;
 
-XXI.- Otorgar, negar, retirar o revocar, dentro del ámbito de su competencia, y en términos de la legislación educativa y los acuerdos suscritos por la Secretaría con la Federación, autorización o reconocimiento de validez oficial de estudios a particulares para impartir educación básica;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
+
+XXI.- Otorgar o negar autorización o reconocimiento de validez oficial de estudios a particulares para impartir educación básica; así como resolver las solicitudes de terminación voluntaria de la prestación del servicio educativo;
 
 XXII.- Inspeccionar y vigilar dentro del ámbito de su competencia y en términos de la legislación educativa y los acuerdos suscritos por la Secretaría con la Federación, los servicios que se ofrecen en los planteles incorporados al sistema educativo estatal, o que estén gestionando su incorporación a éste, así como los de aquéllos que sin estar incorporados, deben cumplir con las disposiciones vigentes;
 
@@ -479,7 +499,9 @@ XVII.- Apoyar a la Dirección General de Planeación y Programación Presupuesta
 
 XVIII.- Proponer, en el ámbito de su competencia, políticas y procedimientos para otorgar reconocimiento de validez oficial de estudios a particulares para impartir educación media superior;
 
-XIX.- Otorgar, negar o retirar, dentro del ámbito de su competencia, y en términos de la legislación educativa y los acuerdos suscritos por la Secretaría con la Federación, reconocimiento de validez oficial de estudios a particulares para impartir educación media superior;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
+
+XIX.- Otorgar o negar reconocimiento de validez oficial de estudios a particulares para impartir educación media superior; así como resolver las solicitudes de terminación voluntaria de la prestación del servicio educativo;
 
 XX.- Inspeccionar y vigilar dentro del ámbito de su competencia y en términos de la legislación educativa y los acuerdos suscritos por la Secretaría con la Federación, los servicios que se ofrecen en los planteles incorporados al sistema educativo estatal, o que estén gestionando su incorporación a éste, así como los de aquéllos que sin estar incorporados, deben cumplir con las disposiciones vigentes;
 
@@ -519,15 +541,61 @@ XII.- Promover la capacitación y la actualización en las empresas que suscriba
 
 XIII.- Proponer al Secretario, en el ámbito de su competencia, políticas y procedimientos para otorgar autorización o reconocimiento de validez oficial de estudios a particulares para impartir educación superior;
 
-XIV.- Otorgar, negar, retirar o revocar, dentro del ámbito de su competencia, y en términos de la legislación educativa y los acuerdos suscritos por la Secretaría con la Federación, autorización o reconocimiento de validez oficial de estudios a particulares para impartir educación superior;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
+
+XIV.- Otorgar o negar autorización o reconocimiento de validez oficial de estudios a particulares para impartir educación superior, así como resolver las solicitudes de terminación voluntaria de la prestación del servicio educativo;
 
 XV.- Inspeccionar y vigilar dentro del ámbito de su competencia y en términos de la legislación educativa y los acuerdos suscritos por la Secretaría con la Federación, los servicios que se ofrecen en los planteles incorporados al Sistema Educativo Estatal, o que estén gestionando su incorporación a éste, así como los de aquéllos que sin estar incorporados, deben cumplir con las disposiciones vigentes;
 
 XVI.- Establecer con la Dirección General de Administración y Finanzas, los perfiles y criterios de contratación del personal docente, directivo y de supervisión a su cargo;
 
-XVII.- Autorizar en coordinación con la Dirección General de Administración y Finanzas, las propuestas de contratación de personal docente y administrativo de los niveles educativos de su competencia, y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
 
-XVIII.- Las demás que las leyes, reglamentos, decretos, acuerdos, convenios y contratos le atribuyan directamente, así como aquéllas que le asigne el Secretario.
+XVII.- Autorizar en coordinación con la Dirección General de Administración y Finanzas, las propuestas de contratación de personal docente y administrativo de los niveles educativos de su competencia;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
+
+XVIII.- Tramitar, registrar y validar títulos profesionales, diplomas de especialidad y grados de maestría y doctorado de egresados de instituciones de educación media superior y superior, oficiales y particulares, con autorización o reconocimiento de validez oficial de estudios, excepto el de las universidades e instituciones públicas de educación superior a las que la Ley otorgue autonomía;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2006)</small>
+
+XIX.- Autorizar los actos de recepción profesional, así como los exámenes profesionales, de especialidad y grados de maestría y doctorado de estudiantes de educación media superior y superior, oficiales y particulares, con autorización o reconocimiento de validez oficial de estudios, de conformidad con las disposiciones legales aplicables;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2006)</small>
+
+XX.- Verificar el cumplimiento del servicio social, como requisito previo para la titulación de los egresados de instituciones de educación media superior y superior, oficiales y particulares, con autorización y/o reconocimiento de validez oficial de estudios, en términos de la legislación aplicable;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2006)</small>
+
+XXI.- Gestionar el registro de títulos y expedición, reposición y duplicados de cédulas profesionales ante la Dirección General de Profesiones de la Secretaría de Educación Pública Federal;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2006)</small>
+
+XXII.- Promover la instrumentación de acciones tendientes a elevar la calidad de los servicios profesionales y la superación en el ejercicio profesional;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2006)</small>
+
+XXIII.- Vigilar, en el ámbito de su competencia, el cumplimiento y aplicación de las disposiciones relativas al ejercicio profesional y, en su caso, comunicar a la Dirección General de Asuntos Jurídicos y Relaciones Laborales, las irregularidades que se presenten, para que determine lo conducente;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2006)</small>
+
+XXIV.- Promover, consolidar y ampliar las relaciones entre la Secretaría y las instituciones de educación media superior y superior, oficiales y particulares, con autorización o reconocimiento de validez oficial de estudios; y con los colegios de profesionistas de la Entidad;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2006)</small>
+
+XXV.- Asistir cuando lo estime pertinente y en representación de la Secretaria, al acto protocolario de exámenes profesionales, de especialidad y grados de maestría y doctorado, con la finalidad de verificar el cumplimiento de las disposiciones que rigen dichos actos;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2006)</small>
+
+XXVI.- Promover la creación de colegios y otras organizaciones de profesionistas en el Estado, y llevar su registro;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2006)</small>
+
+XXVII.- Autorizar la transcripción literal a punto y raya de títulos profesionales, diplomas de especialidad y grados de maestría o doctorado, cuando existan causas de deterioro, extravío o robo; previa solicitud de la persona en favor de quien se expidió el documento y verificación y autentificación correspondientes; y
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2006)</small>
+
+XXVIII.- Las demás que las leyes, reglamentos, decretos, acuerdos, convenios y contratos le atribuyan directamente, así como aquéllas que le asigne el Secretario.
 
 ### CAPÍTULO III. DE LOS DIRECTORES GENERALES
 
@@ -679,7 +747,7 @@ VI.- Participar en los procesos de modernización y adecuación del orden juríd
 
 VII.- Proponer al Secretario la normatividad general que habrá de observarse en el ejercicio de la delegación, autorización, desconcentración o descentralización de facultades;
 
-VIII.- Asesorar, cuando lo soliciten y previo acuerdo con el Secretario, a las entidades paraestatales agrupadas en el sector educativo, con respecto a la elaboración de proyectos, convenios, contratos y demás actos consensuales;
+VIII.- (DEROGADA, P.O. 20 DE ENERO DE 2006)
 
 IX.- Representar legalmente a la Secretaría, por conducto de su titular o quien él mismo designe, ante órganos jurisdiccionales, contencioso-administrativos y autoridades administrativas, en los procesos o procedimientos en que sea parte o tenga interés jurídico, así como atender los asuntos de orden jurídico que le correspondan a la misma;
 
@@ -689,17 +757,21 @@ XI.- Presentar denuncias, querellas, constancias de hechos, desistimientos, y ot
 
 XII.- Coordinar, supervisar y evaluar los servicios jurídicos que se proporcionen en las Coordinaciones Regionales de Desarrollo Educativo;
 
-XIII.- Acordar el inicio e integración de expedientes de naturaleza administrativa o laboral relativos a asuntos de su competencia, a efecto de practicar las investigaciones conducentes al esclarecimiento de los hechos o la determinación de responsabilidades, dictando los acuerdos o resoluciones procedentes;
+XIII.- (DEROGADA, P.O. 20 DE ENERO DE 2006)
 
-XIV.- Dictaminar la aplicación de las sanciones de carácter laboral a que se hagan acreedores los trabajadores de la Secretaría por violación a las disposiciones legales aplicables, así como reconsiderar, en su caso, los dictámenes que hubiere emitido;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
+
+XIV.- Reconsiderar y, en su caso, modificar las sanciones de carácter laboral, impuestas a trabajadores de la Secretaría;
 
 XV.- Determinar la suspensión temporal de los efectos del nombramiento de los trabajadores de conformidad con las disposiciones legales aplicables;
 
 XVI.- Conceder, negar y, en su caso prorrogar, licencias especiales, así como cambios de actividad; por incapacidad parcial permanente, derivados de riesgos profesionales, con base en las disposiciones legales aplicables;
 
-XVII.- Substanciar y resolver los procedimientos administrativos de nulidad, revocación, revisión y, en general, todos aquéllos que tiendan a modificar o extinguir derechos u obligaciones creados por resoluciones que dicte la Secretaría, con excepción de aquéllos que hubiesen sido encomendados a otras unidades administrativas de la misma;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
 
-XVIII.- Resolver los procedimientos substanciados en contra de particulares que impartan estudios con autorización o reconocimiento de validez oficial de estudios, por violaciones a la Ley General de Educación, a la Ley de Educación del Estado de Puebla y demás ordenamientos de la esfera de competencia de esta Secretaría;
+XVII.- Conocer y resolver los recursos que se interpongan en contra de resoluciones dictadas por los titulares de las Direcciones de Asuntos Jurídicos, y de Relaciones Laborales;
+
+XVIII.- (DEROGADA, P.O. 20 DE ENERO DE 2006)
 
 XIX.- Requerir por sí, o por conducto del Director de Asuntos Jurídicos, del Director de Relaciones Laborales, y de los asesores jurídicos adscritos a las Coordinaciones Regionales de Desarrollo Educativo, a cualquier servidor público de la Secretaría para que comparezca personalmente al desahogo de diligencias administrativas o rinda informes por escrito y, en su caso, aplicar las sanciones que procedan de conformidad con los ordenamientos legales aplicables;
 
@@ -843,21 +915,33 @@ IX.- Las demás que las leyes, reglamentos, decretos, acuerdos, convenios y cont
 
 El Director General de Operación Escolar, dependerá directamente del Subsecretario de Educación Básica y tendrá, además de las atribuciones descritas en el artículo 15 de este Reglamento, las siguientes:
 
-I.- Asegurar la adecuada operación de las escuelas, y órganos de supervisión y asistencia académica en la educación básica que se imparte en el Estado, mediante la supervisión de las Direcciones de Operación de Educación Preescolar, de Operación de Educación Primaria, de Operación de Educación Secundaria y de Educación Especial, así como mediante las realizadas al Departamento de Educación Física;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
+
+I.- Asegurar la adecuada operación de las escuelas de educación básica, y de sus órganos de supervisión y asistencia, a través de las Direcciones de Educación Preescolar; Primaria; Secundaria; Secundaria Técnica; Telesecundaria y Física;
 
 II.- Coadyuvar en la identificación y atención de estudiantes en riesgo de deserción en los planteles a su cargo;
 
-III.- Diseñar, en coordinación con la Dirección de Apoyo a la Gestión Escolar y Promoción de la Calidad, esquemas de gestión escolar que promuevan la calidad académica;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
 
-IV.- Proponer, en coordinación con la Dirección de Apoyo a la Gestión Escolar y Promoción de la Calidad, acciones de mejoramiento de la gestión educativa en los planteles a su cargo;
+III.- Diseñar esquemas de gestión escolar que promuevan la calidad académica;
 
-V.- Promover, en coordinación con la Dirección de Apoyo a la Gestión Escolar y Promoción de la Calidad, los servicios de capacitación, actualización y superación profesional para el personal docente de los planteles a su cargo, así como coadyuvar con la Dirección de Actualización, Capacitación y Superación Profesional, respecto al diseño de la oferta académica de dichos servicios;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
+
+IV.- Proponer acciones de mejoramiento de la gestión educativa en los planteles a su cargo;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
+
+V.- Promover los servicios de capacitación, actualización y superación profesional para personal docente de los planteles a su cargo, así como coadyuvar con la Dirección de Actualización, Capacitación y Superación Profesional, en el diseño de la oferta académica de dichos servicios;
 
 VI.- Detectar las deficiencias de las escuelas de educación básica en cuanto a equipamiento, rehabilitación y mantenimiento de sus espacios educativos y hacerlas del conocimiento de la Dirección General de Planeación y Programación Presupuestales;
 
-VII.- Identificar, en coordinación con la Dirección de Apoyo a la Gestión Escolar y Promoción de la Calidad, a las escuelas públicas de educación básica con los más bajos niveles de aprovechamiento en el Estado, y proponer las acciones que se juzguen pertinentes;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
 
-VIII.- Identificar, en coordinación de la Dirección de Apoyo a la Gestión Escolar y Promoción de la Calidad, las condiciones y procesos de las escuelas públicas de educación básica con los más altos niveles de aprovechamiento, con el fin de difundirlas y promoverlas en el conjunto de planteles del Estado;
+VII.- Identificar las escuelas públicas de educación básica con los más bajos niveles de aprovechamiento en el Estado, y proponer las acciones que se juzguen pertinentes;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
+
+VIII.- Identificar, difundir y promover las condiciones y procesos de escuelas públicas de educación básica con los más altos niveles de aprovechamiento en el Estado;
 
 IX.- Mantener contacto permanente con las Coordinaciones Regionales de Desarrollo Educativo, a efecto de asegurar la eficiencia de los servicios administrativos desconcentrados;
 
@@ -865,9 +949,33 @@ X.- Fomentar en los planteles a su cargo, la aplicación de acciones y programas
 
 XI.- Establecer cuando así sea procedente, mecanismos de coordinación con otros niveles educativos en materia de orientación vocacional;
 
-XII.- Tramitar todo lo relacionado con los acuerdos de autorización o de reconocimiento de validez oficial de estudios que soliciten los particulares a efecto de impartir educación básica, así como formular los proyectos de acuerdo que como consecuencia dicte el Subsecretario de Educación Básica, y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
 
-XIII.- Las demás que las leyes, reglamentos, decretos, acuerdos, convenios y contratos le atribuyan directamente, así como aquéllas que le asignen sus superiores jerárquicos.
+XII.- Tramitar todo lo relacionado con los acuerdos de autorización o de reconocimiento de validez oficial de estudios que soliciten los particulares para impartir educación básica, incluida inicial, así como formular los proyectos de acuerdo que como consecuencia dicte el Subsecretario de Educación Básica;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
+
+XIII.- Vincular las acciones de las unidades administrativas a su cargo, para asegurar la correcta operación de sus programas;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2006)</small>
+
+XIV.- Proponer a su superior jerárquico, políticas públicas, estrategias pedagógicas, métodos, materiales e instrumentos para apoyar la gestión escolar y promover la calidad en los planteles de educación básica a su cargo;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2006)</small>
+
+XV.- Apoyar y supervisar los programas de gestión escolar y calidad que se lleven a cabo en los planteles de educación básica a su cargo;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2006)</small>
+
+XVI.- Promover la evaluación educativa de los niveles de su competencia y coadyuvar con las instancias correspondientes en su diseño y análisis;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2006)</small>
+
+XVII.- Proponer a su superior jerárquico, prioridades de investigación educativa de los niveles de su competencia; y
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2006)</small>
+
+XVIII.- Las demás que las leyes, reglamentos, decretos, acuerdos, convenios y contratos le atribuyan directamente, así como aquéllas que le asignen sus superiores jerárquicos.
 
 #### SECCIÓN SÉPTIMA. DE LA DIRECCIÓN GENERAL DE FOMENTO A LA EQUIDAD
 
@@ -875,9 +983,13 @@ XIII.- Las demás que las leyes, reglamentos, decretos, acuerdos, convenios y co
 
 El Director General de Fomento a la Equidad, dependerá directamente del Subsecretario de Educación Básica y tendrá, además de las atribuciones descritas en el artículo 15 de este Reglamento, las siguientes:
 
-I.- Asegurar la adecuada operación de las escuelas, y órganos de supervisión y asistencia académica en la educación indígena que se imparte en el Estado, así como de los programas de ampliación a la cobertura y fomento a la equidad a su cargo, mediante la supervisión de las Direcciones de Educación Indígena y de Ampliación a la Cobertura;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
 
-II.- Proponer al superior inmediato, normas pedagógicas, contenidos, planes y programas de estudio, métodos, materiales y auxiliares didácticos e instrumentos de evaluación del aprendizaje de la educación indígena;
+I.- Asegurar la adecuada operación de escuelas de educación especial e indígena; de sus órganos de supervisión y asistencia académica; así como de los programas de ampliación a la cobertura y fomento a la equidad a su cargo, mediante las Direcciones de Educación Especial, Indígena; y de Ampliación de la Cobertura a Zonas Marginadas;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
+
+II.- Proponer al superior inmediato, normas pedagógicas, contenidos, planes y programas de estudio, métodos, materiales y auxiliares didácticos e instrumentos de evaluación del aprendizaje de la educación especial e indígena;
 
 III.- Dirigir y supervisar los programas educativos para el fomento a la equidad que le sean asignados por el Subsecretario de Educación Básica;
 
@@ -889,17 +1001,29 @@ VI.- Instrumentar y operar los mecanismos alternativos que ofrezcan una educaci�
 
 VII.- Promover, en coordinación con el Instituto Estatal de Educación para Adultos, servicios educativos de alfabetización y educación básica para adultos;
 
-VIII.- Identificar, en colaboración con la Dirección General de Investigación, Evaluación y Política Educativa y con la Dirección de Apoyo a la Gestión Escolar y Promoción de la Calidad, las razones que ocasionan la inasistencia y la deserción escolares en cada región del Estado, a fin de proponer políticas y programas educativos correctivos;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
+
+VIII.- Identificar, junto con las Direcciones Generales de Operación Escolar y de Investigación, Evaluación y Política Educativa, las razones que ocasionan la inasistencia y deserción escolares en cada región del Estado, a fin de proponer políticas y programas educativos correctivos;
 
 IX.- Identificar las zonas urbanas y escuelas en las que se observen elevados índices de deserción escolar en el tipo básico, así como aquéllas con menores tasas de atención a la población en edad escolar, a efecto de incrementar la eficiencia terminal;
 
 X.- Promover ante la Dirección General de Administración y Finanzas, los estímulos al personal docente que participe en los programas educativos para abatir el rezago y en los relacionados con la expansión de la cobertura de los servicios educativos;
 
-XI.- Solicitar a las instancias correspondientes, en coordinación con la Dirección de Apoyo a la Gestión Escolar y Promoción de la Calidad, cursos de actualización y capacitación para el personal docente y directivo de los servicios educativos a su cargo;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
 
-XII.- Vincular acciones con la Dirección de Apoyo a la Gestión Escolar y Promoción de la Calidad, que aseguren la correcta operación de los programas a su cargo, y
+XI.- Solicitar a las instancias correspondientes, cursos de actualización y capacitación para el personal directivo y docente de los servicios educativos a su cargo;
 
-XIII.- Las demás que las leyes, reglamentos, decretos, acuerdos, convenios y contratos le atribuyan directamente, así como aquéllas que le asignen sus superiores jerárquicos.
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
+
+XII.- Vincular las acciones de las unidades administrativas a su cargo, para asegurar la correcta operación de sus programas;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
+
+XIII.- Tramitar todo lo relacionado con los acuerdos de autorización o de reconocimiento de validez oficial de estudios que soliciten los particulares para impartir educación de los niveles a su cargo, así como formular los proyectos de acuerdo, que como consecuencia dicte el Subsecretario de Educación Básica; y
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2006)</small>
+
+XIV.- Las demás que las leyes, reglamentos, decretos, acuerdos, convenios y contratos le atribuyan directamente, así como aquéllas que le asignen sus superiores jerárquicos.
 
 #### SECCIÓN OCTAVA. DE LA DIRECCIÓN GENERAL ACADÉMICA
 
@@ -931,7 +1055,9 @@ XI.- Diseñar, en coordinación con la Dirección General de Planeación y Progr
 
 XII.- Promover los convenios entre instituciones de educación media superior para el fortalecimiento académico de los planteles;
 
-XIII.- Proponer a su superior jerárquico los criterios para otorgar, negar o retirar el reconocimiento de validez oficial de estudios a particulares, que pretendan prestar servicios de educación media superior, y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
+
+XIII.- Proponer a su superior jerárquico criterios para otorgar o negar reconocimiento de validez oficial de estudios a particulares, para impartir educación media superior; y
 
 XIV.- Las demás que las leyes, reglamentos, decretos, acuerdos, convenios y contratos le atribuyan directamente, así como aquéllas que le asignen sus superiores jerárquicos.
 
@@ -963,7 +1089,9 @@ X.- Establecer cuando sea procedente, mecanismos de coordinación con otros nive
 
 XI.- Establecer mecanismos tendientes a facilitar el tránsito de estudiantes de educación media superior entre instituciones, modalidades o planteles de este tipo educativo;
 
-XII.- Realizar los estudios correspondientes para que el Subsecretario de Educación Media Superior otorgue, niegue o retire el reconocimiento de validez oficial de estudios a las instituciones particulares de enseñanza media superior en el Estado, y supervisar su funcionamiento de acuerdo a las normas establecidas por la Dirección General Académica;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
+
+XII.- Realizar los estudios correspondientes para que el Subsecretario de Educación Media Superior otorgue o niegue el reconocimiento de validez oficial de estudios a las instituciones particulares de enseñanza media superior en el Estado, y supervisar su funcionamiento de acuerdo a las normas establecidas por la Dirección General Académica;
 
 XIII.- Identificar, en coordinación con la Dirección de Planeación, Apoyo y Evaluación Académicos, a los planteles de educación media superior con los más bajos niveles de aprovechamiento, y proponer las acciones que se juzguen pertinentes;
 
@@ -1091,13 +1219,13 @@ VI.- Ordenar y actualizar los archivos y controles de la documentación derivada
 
 VII.- Expedir duplicados debidamente legalizados sobre la escolaridad de los alumnos de educación básica, media superior y superior de escuelas oficiales y particulares incorporadas a la Secretaría;
 
-VIII.- Registrar y validar los títulos profesionales, diplomas de especialidad y grados de maestría y doctorado de egresados de instituciones de educación media superior y superior, oficiales y particulares con autorización y/o reconocimiento de validez oficial de estudios por parte de la Secretaría;
+VIII.- (DEROGADA, P.O. 20 DE ENERO DE 2006)
 
-IX.- Verificar y autorizar la documentación concerniente a la gestión y trámite de cédulas de ejercicio profesional ante la Secretaría de Educación Pública Federal;
+IX.- (DEROGADA, P.O. 20 DE ENERO DE 2006)
 
-X.- Verificar el cumplimiento del servicio social, como requisito previo para la titulación de los egresados de instituciones de educación media superior y superior, oficiales y particulares con autorización y/o reconocimiento de validez oficial de estudios por parte de la Secretaría, en términos de la legislación aplicable;
+X.- (DEROGADA, P.O. 20 DE ENERO DE 2006)
 
-XI.- Autorizar y verificar la validez de los exámenes profesionales, de especialidad y de grados de maestría y doctorado de egresados de instituciones de educación superior, oficiales y particulares con autorización y/o reconocimiento de validez oficial de estudios por parte de la Secretaría, y
+XI.- (DEROGADA, P.O. 20 DE ENERO DE 2006)
 
 XII.- Las demás que las leyes, reglamentos, decretos, acuerdos, convenios y contratos le atribuyan directamente, así como aquéllas que le asignen sus superiores jerárquicos.
 
@@ -1323,39 +1451,23 @@ XIII.- Procurar la comparabilidad de los instrumentos de evaluación con otros u
 
 XIV.- Las demás que las leyes, reglamentos, decretos, acuerdos, convenios y contratos le atribuyan directamente, así como aquéllas que le asignen sus superiores jerárquicos.
 
+> <small>(DEROGADA CON EL ARTICULO QUE LA INTEGRA, P.O. 20 DE ENERO DE 2006)</small>
+
 #### SECCIÓN NOVENA. DE LA DIRECCIÓN DE APOYO A LA GESTIÓN ESCOLAR Y PROMOCIÓN A LA CALIDAD
 
 ###### ARTÍCULO 36.
 
-El Director de Apoyo a la Gestión Escolar y Promoción de la Calidad, dependerá directamente del Subsecretario de Educación Básica y tendrá, además de las atribuciones descritas en el artículo 27 de este Reglamento, las siguientes:
+(DEROGADO, P.O. 20 DE ENERO DE 2006)
 
-I.- Identificar, en coordinación con la Dirección General de Operación Escolar, a las escuelas públicas de educación básica con los más bajos niveles de aprovechamiento en el Estado, y proponer las acciones que se juzguen pertinentes;
+> <small>(REFORMADA EN SU DENOMINACION, P.O. 20 DE ENERO DE 2006)</small>
 
-II.- Identificar, en coordinación de la Dirección General de Operación Escolar, las condiciones y procesos de las escuelas públicas de educación básica con los más altos niveles de aprovechamiento, con el fin de difundirlas y promoverlas en el conjunto de planteles del Estado;
+#### SECCIÓN DÉCIMA. DE LA DIRECCIÓN DE EDUCACIÓN PREESCOLAR
 
-III.- Proponer a su superior jerárquico, políticas públicas, estrategias pedagógicas, métodos, materiales e instrumentos para apoyar la gestión escolar y promover la calidad en los planteles de educación básica;
-
-IV.- Apoyar y supervisar los programas que a favor de la gestión escolar y la calidad se lleven a cabo en los planteles de educación básica;
-
-V.- Promover en coordinación con la Dirección General de Operación Escolar, los servicios de capacitación, actualización y superación profesional para el personal docente de los planteles a su cargo, así como coadyuvar con la Dirección de Actualización, Capacitación y Superación Profesional respecto al diseño de la oferta académica de dichos servicios;
-
-VI.- Promover la evaluación de la educación básica y coadyuvar con las instancias correspondientes en su diseño y análisis;
-
-VII.- Proponer a su superior jerárquico las prioridades de investigación para la educación básica;
-
-VIII.- Diseñar, en coordinación con la Dirección General de Operación Escolar, esquemas de gestión escolar que promuevan la calidad académica;
-
-IX.- Proponer, en coordinación con la Dirección General de Operación Escolar, acciones de mejoramiento de la gestión educativa en los planteles de educación básica;
-
-X.- Vincular acciones con la Dirección General de Operación Escolar, que aseguren la correcta operación de los programas a su cargo, y
-
-XI.- Las demás que las leyes, reglamentos, decretos, acuerdos, convenios y contratos le atribuyan directamente, así como aquéllas que le asignen sus superiores jerárquicos.
-
-#### SECCIÓN DÉCIMA. DE LA DIRECCIÓN DE OPERACIÓN DE EDUCACIÓN PREESCOLAR
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ENERO DE 2006)</small>
 
 ###### ARTÍCULO 37.
 
-El Director de Operación de Educación Preescolar, dependerá directamente del Director General de Operación Escolar y tendrá, además de las atribuciones descritas en el artículo 27 de este Reglamento, las siguientes:
+El Director de Educación Preescolar, dependerá directamente del Director General de Operación Escolar y tendrá, además de las atribuciones descritas en el artículo 27 de este Reglamento, las siguientes:
 
 I.- Promover, organizar, operar y dirigir la educación inicial y preescolar públicas en el Estado, conforme a las disposiciones legales y lineamientos establecidos;
 
@@ -1371,29 +1483,47 @@ VI.- Detectar los problemas técnico-pedagógicos generados en las escuelas de e
 
 VII.- Definir, identificar y desarrollar mecanismos de atención para la población escolar vulnerable del Estado, respecto a la educación preescolar;
 
-VIII.- Coadyuvar con las instancias responsables, en la oportuna y adecuada distribución de los materiales de apoyo para maestros y alumnos y padres de familia de educación preescolar;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
 
-IX.- Proponer a su superior jerárquico los perfiles y criterios para la contratación del personal docente, directivo y de supervisión de educación preescolar;
+VIII.- Coadyuvar con las instancias responsables en la oportuna y adecuada distribución de materiales de apoyo para maestros, alumnos y padres de familia de educación preescolar;
 
-X.- Solicitar a las instancias correspondientes, en coordinación con la Dirección General de Operación Escolar y la Dirección de Apoyo a la Gestión Escolar y Promoción de la Calidad, cursos de capacitación y actualización para el personal docente adscrito a los planteles a su cargo;
+IX.- Proponer a su superior jerárquico los perfiles y criterios para la contratación del personal docente, directivo y de supervisión de educación preescolar.
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
+
+X.- Solicitar a las instancias correspondientes, en coordinación con la Dirección General de Operación Escolar, cursos de capacitación y actualización para el personal docente adscrito a los planteles a su cargo;
 
 XI.- Diseñar y realizar programas dirigidos a padres de familia, para la atención adecuada de los niños menores de seis años que cursen educación inicial o preescolar;
 
 XII.- Atender, en el ámbito de su competencia, por conducto de maestros, directores y de la estructura de supervisión, a los padres de familia para resolver los planteamientos que éstos les formulen;
 
-XIII.- Proponer a su superior jerárquico, proyectos de creación, crecimiento, fusión, reubicación o suspensión temporal o definitiva, de planteles educativos públicos de educación inicial y preescolar;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
 
-XIV.- Participar en el proceso tendiente a otorgar, negar, retirar o revocar la autorización de reconocimiento o validez oficial de estudios para prestar servicio de educación inicial y preescolar privada, y
+XIII.- Proponer a su superior jerárquico proyectos de creación, crecimiento, fusión, reubicación o suspensión temporal o definitiva, de planteles oficiales de educación inicial y preescolar;
 
-XV.- Las demás que las leyes, reglamentos, decretos, acuerdos, convenios y contratos le atribuyan directamente, así como aquéllas que le asignen sus superiores jerárquicos.
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
+
+XIV.- Participar en el proceso tendiente a otorgar o negar autorización o reconocimiento de validez oficial de estudios a particulares, para impartir educación inicial y preescolar;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
+
+XV.- Fomentar, en coordinación con la Dirección de Educación Especial y en los casos que proceda, la integración de personas con necesidades educativas especiales, con o sin discapacidad, a escuelas regulares de educación preescolar; y
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2006)</small>
+
+XVI.- Las demás que las leyes, reglamentos, decretos, acuerdos, convenios y contratos le atribuyan directamente, así como aquéllas que le asignen sus superiores jerárquicos.
+
+> <small>(REFORMADA EN SU DENOMINACION, P.O. 20 DE ENERO DE 2006)</small>
 
 SECCIÓN DECIMOPRIMERA
 
-DE LA DIRECCIÓN DE OPERACIÓN DE EDUCACIÓN PRIMARIA
+DE LA DIRECCIÓN DE EDUCACIÓN PRIMARIA
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ENERO DE 2006)</small>
 
 ###### ARTÍCULO 38.
 
-El Director de Operación de Educación Primaria, dependerá directamente del Director General de Operación Escolar y tendrá, además de las atribuciones descritas en el artículo 27 de este Reglamento, las siguientes:
+El Director de Educación Primaría, dependerá directamente del Director General de Operación Escolar y tendrá, además de las atribuciones descritas en el artículo 27 de este Reglamento, las siguientes:
 
 I.- Promover, organizar, operar y dirigir la educación primaria pública en el Estado, conforme a las disposiciones legales y lineamientos establecidos por las autoridades competentes;
 
@@ -1409,37 +1539,53 @@ VI.- Detectar los problemas técnico-pedagógicos generados en las escuelas de e
 
 VII.- Definir, identificar y desarrollar mecanismos de atención para la población escolar vulnerable de educación primaria en el Estado;
 
-VIII.- Fomentar, en coordinación con la Dirección de Educación Especial y en los casos que proceda, la integración de personas con necesidades educativas especiales, con o sin discapacidad, a escuelas comunes de educación primaria;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
+
+VIII.-Fomentar, en coordinación con la Dirección de Educación Especial y en los casos que proceda, la integración de personas con necesidades educativas especiales, con o sin discapacidad, a escuelas regulares de educación primaria;
 
 IX.- Coadyuvar con las instancias responsables en la oportuna y adecuada distribución de los materiales de apoyo para maestros, alumnos y padres de familia de educación primaria;
 
 X.- Proponer a su superior jerárquico, los perfiles y criterios para la contratación del personal docente, directivo y de supervisión de educación primaria;
 
-XI.- Solicitar a las instancias correspondientes, en coordinación con la Dirección General de Operación Escolar y la Dirección de Apoyo a la Gestión Escolar y Promoción de la Calidad, cursos de capacitación y actualización para el personal docente adscrito a los planteles a su cargo;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
+
+XI.- Solicitar a las instancias correspondientes en coordinación con la Dirección General de Operación Escolar, cursos de capacitación y actualización para el personal docente adscrito a los planteles a su cargo;
 
 XII.- Atender, en el ámbito de su competencia, por conducto de maestros, directores y de la estructura de supervisión, a los padres de familia para resolver los planteamientos que éstos les formulen;
 
-XIII.- Proponer a su superior jerárquico, proyectos de creación, crecimiento, fusión, reubicación o suspensión temporal o definitiva de planteles educativos oficiales de educación primaria;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
 
-XIV.- Participar, en el ámbito de su competencia, en el proceso tendiente a otorgar, negar o revocar autorización para prestar servicios de educación primaria, y
+XIII.- Proponer a su superior jerárquico proyectos de creación, crecimiento, fusión, reubicación o suspensión temporal o definitiva, de planteles oficiales de educación primaria;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
+
+XIV.- Participar, en el ámbito de su competencia, en el proceso tendiente a otorgar o negar autorización a particulares para impartir educación primaria; y
 
 XV.- Las demás que las leyes, reglamentos, decretos, acuerdos, convenios y contratos le atribuyan directamente, así como aquéllas que le asignen sus superiores jerárquicos.
 
+> <small>(REFORMADA EN SU DENOMINACIÓN, P.O. 20 DE ENERO DE 2006)</small>
+
 SECCIÓN DECIMOSEGUNDA
 
-DE LA DIRECCIÓN DE OPERACIÓN DE EDUCACIÓN SECUNDARIA
+DE LA DIRECCIÓN DE EDUCACIÓN SECUNDARIA
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ENERO DE 2006)</small>
 
 ###### ARTÍCULO 39.
 
-El Director de Operación de Educación Secundaria, dependerá directamente del Director General de Operación Escolar y tendrá, además de las atribuciones descritas en el artículo 27 de este Reglamento, las siguientes:
+El Director de Educación Secundaria, dependerá directamente del Director General de Operación Escolar y tendrá, además de las atribuciones descritas en el artículo 27 de este Reglamento, las siguientes:
 
-I.- Promover, organizar, operar y dirigir la educación secundaria pública en el Estado, conforme a las disposiciones legales y lineamientos establecidos;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
+
+I.- Promover, organizar, operar y dirigir la educación secundaria en el Estado, conforme a las disposiciones legales y lineamientos establecidos;
 
 II.- Supervisar, en el ámbito de su competencia, que la educación secundaria se ajuste a las disposiciones legales y lineamientos establecidos;
 
 III.- Difundir, aplicar y evaluar, en el ámbito de su competencia, normas y lineamientos técnicos de la educación secundaria;
 
-IV.- Proporcionar orientación técnico-pedagógica al personal directivo y docente para elevar la calidad del servicio educativo de educación secundaria;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
+
+IV.- Proporcionar orientación técnico-pedagógica al personal directivo y docente para elevar la calidad de la educación secundaria;
 
 V.- Coordinar y organizar, de conformidad con los lineamientos que al efecto se emitan, el trabajo de los órganos de supervisión y asistencia académica de educación secundaria;
 
@@ -1447,27 +1593,155 @@ VI.- Detectar los problemas técnicos-pedagógicos generados en las escuelas de 
 
 VII.- Definir, identificar y desarrollar mecanismos de atención para la población escolar vulnerable de educación secundaria en el Estado;
 
-VIII.- Fomentar, en coordinación con la Dirección de Educación Especial y en los casos que proceda, la integración de personas con necesidades educativas especiales, con o sin discapacidad, a escuelas comunes de educación secundaria;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
 
-IX.- Coadyuvar con las instancias responsables en la oportuna y adecuada distribución de los materiales de apoyo para maestros y alumnos y padres de familia de educación secundaria;
+VIII.- Fomentar, en coordinación con la Dirección de Educación Especial y en los casos que proceda, la integración de personas con necesidades educativas especiales, con o sin discapacidad, a escuelas regulares de educación secundaria;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
+
+IX.- Coadyuvar con las instancias responsables en la oportuna y adecuada distribución de materiales de apoyo para maestros, alumnos y padres de familia de educación secundaria;
 
 X.- Proponer a su superior jerárquico, los perfiles y criterios para la contratación del personal docente, directivo y de supervisión de educación secundaria;
 
-XI.- Solicitar a las instancias correspondientes, en coordinación con la Dirección General de Operación Escolar y la Dirección de Apoyo a la Gestión Escolar y Promoción de la Calidad, cursos de capacitación y actualización para el personal docente adscrito a los planteles a su cargo;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
 
-XII.- Proponer a su superior jerárquico, proyectos de creación, crecimiento, fusión, reubicación o suspensión temporal o definitiva de planteles educativos oficiales de educación secundaria;
+XI.- Solicitar a las instancias correspondientes, en coordinación con la Dirección General de Operación Escolar, cursos de capacitación y actualización para el personal docente adscrito a los planteles a su cargo;
 
-XIII.- Participar, en el ámbito de su competencia, en el proceso tendiente a otorgar, negar o revocar autorización a particulares para prestar servicios de educación secundaria privada, y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
+
+XII.- Proponer a su superior jerárquico proyectos de creación, crecimiento, fusión, reubicación o suspensión temporal o definitiva de planteles oficiales de educación secundaria;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
+
+XIII.- Participar, en el ámbito de su competencia, en el proceso tendiente a otorgar o negar autorización a particulares, para impartir educación secundaria; y
 
 XIV.- Las demás que las leyes, reglamentos, decretos, acuerdos, convenios y contratos le atribuyan directamente, así como aquéllas que le asignen sus superiores jerárquicos.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 20 DE ENERO DE 2006)</small>
+
+SECCIÓN DECIMOSEGUNDA BIS
+
+DE LA DIRECCIÓN DE EDUCACIÓN SECUNDARIA TÉCNICA
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2006)</small>
+
+ARTÍCULO 39 BIS.- El Director de Educación Secundaria Técnica, dependerá directamente del Director General de Operación Escolar y tendrá, además de las atribuciones descritas en el artículo 27 de este Reglamento, las siguientes:
+
+I.- Promover, organizar, operar y dirigir la educación secundaria técnica en el Estado, conforme a las disposiciones legales y lineamientos establecidos;
+
+II.- Supervisar, en el ámbito de su competencia, que la educación secundaria técnica se ajuste a las disposiciones legales y lineamientos establecidos;
+
+III.- Difundir, aplicar y evaluar, en el ámbito de su competencia, normas y lineamientos técnicos de la educación secundaria técnica;
+
+IV.- Proporcionar orientación técnico-pedagógica al personal directivo y docente para elevar la calidad de la educación secundaria técnica;
+
+V.- Coordinar y organizar, de conformidad con los lineamientos que al efecto se emitan, el trabajo de los órganos de supervisión y asistencia académica de educación secundaria técnica;
+
+VI.- Detectar los problemas técnico-pedagógicos generados en las escuelas de educación secundaria técnica, por conducto de los órganos de supervisión y asistencia académica, y proponer al superior jerárquico alternativas de solución;
+
+VII.- Definir, identificar y desarrollar mecanismos de atención para la población escolar vulnerable de educación secundaria técnica en el Estado;
+
+VIII.- Fomentar, en coordinación con la Dirección de Educación Especial y en los casos que proceda, la integración de personas con necesidades educativas especiales, con o sin discapacidad, a escuelas regulares de educación secundaria técnica;
+
+IX.- Coadyuvar con las instancias responsables en la oportuna y adecuada distribución de materiales de apoyo para maestros, alumnos y padres de familia de educación secundaria técnica;
+
+X.- Proponer a su superior jerárquico, perfiles y criterios para la contratación de personal docente, directivo y de supervisión de educación secundaria técnica;
+
+XI.- Solicitar a las instancias correspondientes, en coordinación con la Dirección General de Operación Escolar, cursos de capacitación y actualización para el personal docente adscrito a los planteles a su cargo;
+
+XII.- Proponer a su superior jerárquico proyectos de creación, crecimiento, fusión, reubicación o suspensión temporal o definitiva de planteles oficiales de educación secundaria técnica;
+
+XIII.- Participar en el ámbito de su competencia, en el proceso tendiente a otorgar o negar autorización a particulares, para impartir educación secundaria técnica; y
+
+XIV.- Las demás que las leyes, reglamentos, decretos, acuerdos, convenios y contratos le atribuyan directamente, así como aquéllas que le asignen sus superiores jerárquicos.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 20 DE ENERO DE 2006)</small>
+
+SECCIÓN DECIMOSEGUNDA TER
+
+DE LA DIRECCIÓN DE EDUCACIÓN TELESECUNDARIA
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2006)</small>
+
+ARTÍCULO 39 TER.- El Director de Educación Telesecundaria, dependerá directamente del Director General de Operación Escolar y tendrá, además de las atribuciones descritas en el artículo 27 de este Reglamento, las siguientes:
+
+I.- Promover, organizar, operar y dirigir la educación telesecundaria en el Estado, conforme a las disposiciones legales y lineamientos establecidos;
+
+II.- Supervisar, en el ámbito de su competencia, que la educación telesecundaria se ajuste a las disposiciones legales y lineamientos establecidos;
+
+III.- Difundir, aplicar y evaluar, en el ámbito de su competencia, normas y lineamientos técnicos de la educación telesecundaria;
+
+IV.- Proporcionar orientación técnico-pedagógica al personal directivo y docente para elevar la calidad de la educación telesecundaria;
+
+V.- Coordinar y organizar, de conformidad con los lineamientos que al efecto se emitan, el trabajo de los órganos de supervisión y asistencia académica de educación telesecundaria;
+
+VI.- Detectar los problemas técnico-pedagógicos generados en las escuelas de educación telesecundaria, por conducto de los órganos de supervisión y asistencia académica, y proponer al superior jerárquico alternativas de solución;
+
+VII.- Definir, identificar y desarrollar mecanismos de atención para la población escolar vulnerable de educación telesecundaria en el Estado;
+
+VIII.- Fomentar, en coordinación con la Dirección de Educación Especial y en los casos que proceda, la integración de personas con necesidades educativas especiales, con o sin discapacidad, a escuelas regulares de educación telesecundaria;
+
+IX.- Coadyuvar con las instancias responsables en la oportuna y adecuada distribución de materiales de apoyo para maestros, alumnos y padres de familia de educación telesecundaria;
+
+X.- Proponer a su superior jerárquico, perfiles y criterios para la contratación de personal docente, directivo y de supervisión de educación telesecundaria;
+
+XI.- Solicitar a las instancias correspondientes, en coordinación con la Dirección General de Operación Escolar, cursos de capacitación y actualización para el personal docente adscrito a los planteles a su cargo;
+
+XII.- Proponer a su superior jerárquico proyectos de creación, crecimiento, fusión, reubicación o suspensión temporal o definitiva de planteles oficiales de educación telesecundaria;
+
+XIII.- Participar, en el ámbito de su competencia, en el proceso tendiente a otorgar o negar autorización a particulares, para impartir educación telesecundaria; y
+
+XIV.- Las demás que las leyes, reglamentos, decretos, acuerdos, convenios y contratos le atribuyan directamente, así como aquéllas que le asignen sus superiores jerárquicos.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 20 DE ENERO DE 2006)</small>
+
+SECCIÓN DECIMOSEGUNDA QUÁTER
+
+DE LA DIRECCIÓN DE EDUCACIÓN FÍSICA
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2006)</small>
+
+ARTÍCULO 39 QUÁTER.- El Director de Educación Física, dependerá directamente del Director General de Operación Escolar y tendrá, además de las atribuciones descritas en el artículo 27 de este Reglamento, las siguientes:
+
+I.- Promover y dirigir la educación física y el deporte escolar en el Estado, así como supervisar, en el ámbito de su competencia, se ajuste a las disposiciones legales y lineamientos establecidos;
+
+II.- Solicitar a la Dirección General de Formación y Desarrollo de Docentes, cursos de capacitación y actualización para el personal de educación física y deporte escolar adscrito a los planteles oficiales de la Secretaria;
+
+III.- Verificar que las normas pedagógicas, contenidos, planes y programas de estudio, métodos, materiales didácticos e instrumentos para la evaluación del aprendizaje de educación física y deporte escolar se cumplan;
+
+IV.- Proponer al Subsecretario de Educación Básica las modificaciones o adecuaciones a las normas pedagógicas, contenidos y métodos educativos, conforme a las necesidades de la educación física, la recreación y el deporte escolar en el Estado;
+
+V.- Apoyar las acciones de difusión de programas con carácter educativo en materia deportiva, de salud y de formación y desarrollo de docentes;
+
+VI.- Difundir entre el personal directivo y docente, las normas y lineamientos técnicos de educación física y deporte escolar;
+
+VII.- Dirigir y coordinar el funcionamiento de los centros de iniciación deportiva en el Estado;
+
+VIII.- Establecer mecanismos de coordinación con los organismos competentes para que los educandos detectados con potencial para la práctica deportiva, reciban el apoyo y estímulos necesarios para impulsar sus habilidades deportivas;
+
+IX.- Promover, programar, organizar y controlar los eventos especiales que en materia de educación física y deporte escolar se realicen en el Estado;
+
+X.- Promover competencias deportivas escolares en el ámbito estatal, nacional e internacional en las que participen alumnos de educación inicial, básica y especial del Estado;
+
+XI.- Asesorar, en el ámbito de su competencia, a las instituciones educativas públicas y privadas que así lo requieran, en la planeación de los servicios deportivos y recreativos;
+
+XII.- Realizar, en coordinación con instituciones públicas y privadas, nacionales e internacionales, investigaciones en materia de medicina del deporte, así como para el desarrollo de métodos y materiales educativos que impulsen la educación física y el deporte, que se imparta en los planteles oficiales de la Secretaría;
+
+XIII.- Propiciar, en coordinación con las unidades administrativas de la Secretaría, Dependencias y Entidades de la Administración Pública Federal, Estatal y Municipal, el intercambio de profesores, instructores, métodos de enseñanza y materiales educativos, con otros países;
+
+XIV.- Participar, en el ámbito de su competencia, en el proceso tendiente a otorgar o negar autorización o reconocimiento de validez oficial de estudios a particulares; y
+
+XV.- Las demás que las leyes, reglamentos, decretos, acuerdos, convenios y contratos le atribuyan directamente, así como aquéllas que le asignen sus superiores jerárquicos.
 
 SECCIÓN DECIMOTERCERA
 
 DE LA DIRECCIÓN DE EDUCACIÓN ESPECIAL
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ENERO DE 2006)</small>
+
 ###### ARTÍCULO 40.
 
-El Director de Educación Especial, dependerá directamente del Director General de Operación Escolar y tendrá, además de las atribuciones descritas en el artículo 27 de este Reglamento, las siguientes:
+El Director de Educación Especial, dependerá directamente del Director General de Fomento a la Equidad y tendrá, además de las atribuciones descritas en el artículo 27 de este Reglamento, las siguientes:
 
 I.- Promover, organizar, operar y dirigir la educación especial pública en el Estado, conforme a las disposiciones legales y lineamientos establecidos;
 
@@ -1489,7 +1763,9 @@ IX.- Coadyuvar con las instancias responsables en la oportuna y adecuada distrib
 
 X.- Proponer a su superior jerárquico los perfiles y criterios para la contratación del personal docente, directivo y de supervisión de educación especial;
 
-XI.- Solicitar a las instancias correspondientes, en coordinación con la Dirección General de Operación Escolar y la Dirección de Apoyo a la Gestión Escolar y Promoción de la Calidad, cursos de capacitación y actualización para el personal docente adscrito a los planteles a su cargo;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
+
+XI.- Solicitar a las instancias correspondientes, en coordinación con la Dirección General de Operación Escolar, cursos de capacitación y actualización para el personal docente adscrito a los planteles a su cargo;
 
 XII.- Fomentar la capacitación a maestros de escuelas comunes en materia de integración educativa;
 
@@ -1503,17 +1779,23 @@ XVI.- Impulsar una cultura de integración educativa y social entre la població
 
 XVII.- Proponer a su superior jerárquico, proyectos de creación, crecimiento, fusión, reubicación o suspensión, temporal o definitiva, de planteles educativos públicos de educación especial;
 
-XVIII.- Participar, en el ámbito de su competencia, en el proceso tendiente a otorgar, negar o retirar la autorización para prestar servicios de educación especial privada, y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
+
+XVIII.- Participar, en el ámbito de su competencia, en el proceso tendiente a otorgar o negar reconocimiento de validez oficial de estudios a particulares para impartir educación especial; y
 
 XIX.- Las demás que las leyes, reglamentos, decretos, acuerdos, convenios y contratos le atribuyan directamente, así como aquéllas que le asignen sus superiores jerárquicos.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE ENERO DE 2006)</small>
+
 SECCIÓN DECIMOCUARTA
 
-DE LA DIRECCIÓN DE AMPLIACIÓN DE LA COBERTURA
+DE LA DIRECCIÓN DE AMPLIACIÓN DE LA COBERTURA A ZONAS MARGINADAS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ENERO DE 2006)</small>
 
 ###### ARTÍCULO 41.
 
-El Director de Ampliación de la Cobertura, dependerá directamente del Director General de Fomento a la Equidad y tendrá, además de las atribuciones descritas en el artículo 27 de este Reglamento, las siguientes:
+El Director de Ampliación de la Cobertura a Zonas Marginadas, dependerá directamente del Director General de Fomento a la Equidad y tendrá, además de las atribuciones descritas en el artículo 27 de este Reglamento, las siguientes:
 
 I.- Desarrollar y fortalecer acciones tendientes a ampliar la cobertura de atención educativa a la población en edad escolar con prioridad a quienes se encuentren en situación de desventaja;
 
@@ -1521,9 +1803,13 @@ II.- Promover, organizar, operar, dirigir y supervisar los programas educativos 
 
 III.- Detectar a la población en edad escolar y extraedad no atendida por los servicios educativos del tipo básico para proponer alternativas de solución;
 
-IV.- Atender las necesidades de alfabetización y educación básica de la población migrante en el Estado a través de la canalización;
+> <small>(REFORMADA, 20 DE ENERO DE 2006)</small>
 
-V.- Solicitar a las instancias correspondientes, en coordinación con la Dirección General de Operación Escolar y la Dirección de Apoyo a la Gestión Escolar y Promoción de la Calidad, cursos de capacitación y actualización para el personal docente a su cargo;
+IV.- Atender las necesidades de alfabetización y educación básica de la población migrante en el Estado;
+
+> <small>(REFORMADA, 20 DE ENERO DE 2006)</small>
+
+V.- Solicitar a las instancias correspondientes, en coordinación con la Dirección General de Operación Escolar, cursos de capacitación y actualización para el personal docente a su cargo;
 
 VI.- Proponer y difundir normas y lineamientos técnicos para el funcionamiento de escuelas, internados y albergues escolares generales de educación básica;
 
@@ -1535,7 +1821,9 @@ IX.- Detectar los problemas técnico-pedagógicos generados en los programas a s
 
 X.- Dirigir las actividades de promoción y ejecución de programas socioculturales destinados a elevar el nivel cultural de la población escolar en el Estado;
 
-XI.- Atender, en el ámbito de su competencia, por conducto de maestros, directores y de la estructura de supervisión, a los padres de familia para resolver los planteamientos que éstos les formulen, y
+> <small>(REFORMADA, 20 DE ENERO DE 2006)</small>
+
+XI.- Atender, en el ámbito de su competencia, por conducto del personal docente, directivo y de supervisión, los planteamientos que formulen los padres de familia y abocarse a resolverlos; y
 
 XII.- Las demás que las leyes, reglamentos, decretos, acuerdos, convenios y contratos le atribuyan directamente, así como aquéllas que le asignen sus superiores jerárquicos.
 
@@ -1559,7 +1847,9 @@ V.- Detectar los problemas técnico-pedagógicos generados en las escuelas de ed
 
 VI.- Proponer a su superior jerárquico los perfiles y criterios para la contratación del personal docente, directivo y de supervisión de educación indígena;
 
-VII.- Solicitar a las instancias correspondientes, en coordinación con la Dirección General de Operación Escolar y la Dirección de Apoyo a la Gestión Escolar y Promoción de la Calidad, cursos de capacitación y actualización para el personal docente adscrito a los planteles a su cargo;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
+
+VII.- Solicitar a las instancias correspondientes, en coordinación con la Dirección General de Operación Escolar, cursos de capacitación y actualización para el personal docente adscrito a los planteles a su cargo;
 
 VIII.- Coordinar la producción de materiales educativos en lenguas indígenas de grupos étnicos del Estado;
 
@@ -1635,7 +1925,9 @@ V.- Solicitar a las unidades administrativas competentes, cursos de capacitació
 
 VI.- Promover y coordinar la vinculación entre las unidades administrativas de la Secretaría, responsables de la educación básica y los correspondientes niveles en los Centros Escolares;
 
-VII.- Participar, en el ámbito de su competencia, en el proceso tendiente a otorgar, negar o retirar el reconocimiento de validez oficial de estudios para prestar servicios de educación media superior privada;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
+
+VII.- Participar, en el ámbito de su competencia, en el proceso tendiente a otorgar o negar reconocimiento de validez oficial de estudios a particulares, para impartir educación media superior;
 
 VIII.- Proponer a su superior jerárquico, proyectos de creación, crecimiento, fusión o suspensión temporal o definitiva de Centros Escolares Públicos del Estado, y
 
@@ -1695,7 +1987,7 @@ VI.- Promover los convenios entre instituciones de educación superior, a efecto
 
 VII.- Promover y apoyar la orientación vocacional en los planteles de educación media superior en el Estado;
 
-VIII.- Promover la creación y el registro de los colegios y otras organizaciones de profesionistas en el Estado;
+VIII.- (DEROGADA, P.O. 20 DE ENERO DE 2006)
 
 IX.- Promover entre las instituciones de educación superior en el Estado, la realización de estudios y diagnósticos que le permitan determinar las características y problemáticas de la educación superior, conocer los resultados obtenidos, sistematizar y difundir la información necesaria para la evaluación global de la educación superior o de los niveles precedentes;
 
@@ -1753,7 +2045,9 @@ X.- Coadyuvar en los procesos de investigación educativa, así como promover la
 
 XI.- Apoyar al Subsecretario en la aplicación de las disposiciones legales en materia de reconocimiento de validez oficial de estudios para educación normal y demás para la formación de docentes de educación básica;
 
-XII.- Realizar los estudios correspondientes para que el Subsecretario de Educación Superior otorgue, niegue o revoque la autorización para impartir educación normal privada, y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
+
+XII.- Realizar los estudios correspondientes para que el Subsecretario de Educación Superior otorgue o niegue la autorización a particulares, para impartir educación normal; y
 
 XIII.- Las demás que las leyes, reglamentos, decretos, acuerdos, convenios y contratos le atribuyan directamente, así como aquéllas que le asignen sus superiores jerárquicos.
 
@@ -2031,13 +2325,19 @@ El Director de Asuntos Jurídicos, dependerá directamente del Director General 
 
 I.- Realizar los trámites conducentes en la Secretaría de Gobernación, para que las disposiciones de la Secretaría y, en su caso, las del sector educativo que así lo ameriten, se publiquen en el Periódico Oficial del Estado, y difundir los acuerdos del Secretario que no se divulguen por este medio;
 
-II.- Intervenir en la formulación de proyectos de iniciativas de leyes, reglamentos, decretos, acuerdos, órdenes y demás disposiciones jurídicas relativas a los asuntos competencia de la Secretaría y llevar su registro una vez formalizados;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
 
-III.- Formular los proyectos de convenios, contratos y demás actos consensuales en los que intervenga la Secretaría, de acuerdo con los requerimientos de las unidades administrativas correspondientes; así como llevar su registro una vez formalizados;
+II.- Analizar y, en su caso, intervenir y validar los proyectos de iniciativas de leyes, reglamentos, decretos, acuerdos, órdenes y demás disposiciones jurídicas relativas a los asuntos competencia de la Secretaria y llevar su registro una vez formalizados;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
+
+III.- Analizar y, en su caso, intervenir y validar los proyectos de convenios, contratos y demás actos consensuales en los que intervenga la Secretaría, de acuerdo con los requerimientos de las unidades administrativas correspondientes, así como llevar su registro una vez formalizados;
 
 IV.- Coadyuvar con las dependencias correspondientes, en el proceso de regularización jurídica de bienes inmuebles que posea la Secretaría;
 
-V.- Revisar, controlar y vigilar la substanciación de asuntos jurídico-administrativos que hayan sido presentados ante los asesores jurídicos de las Coordinaciones Regionales de Desarrollo Educativo;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
+
+V.- Revisar, controlar y vigilar la substanciación de asuntos jurídico-administrativos que hayan sido presentados ante los asesores jurídicos de las Coordinaciones Regionales de Desarrollo Educativo, con excepción de aquéllos que fueren competencia de otra unidad administrativa de la Secretaria;
 
 VI.- Intervenir en el ámbito de su competencia los actos de entrega-recepción de las distintas unidades administrativas de la Secretaría;
 
@@ -2049,9 +2349,17 @@ IX.- Registrar las autorizaciones o delegaciones que, para realizar actos, suscr
 
 X.- Sistematizar, compilar y difundir las normas jurídicas que regulen el funcionamiento de la Secretaría, así como las circulares y órdenes que, en razón de sus atribuciones, expidan los titulares de las unidades administrativas;
 
-XI.- Emitir opinión respecto de las consultas que en el ámbito de su competencia le formulen el Secretario, los titulares de las unidades administrativas, las dependencias y entidades de la Administración Pública Estatal o los Ayuntamientos de la Entidad, y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
 
-XII.- Las demás que las leyes, reglamentos, decretos, acuerdos, convenios y contratos le atribuyan directamente, así como aquéllas que le asignen sus superiores jerárquicos.
+XI.- Emitir opinión respecto de las consultas que en el ámbito de su competencia le formulen, el Secretario, los titulares de las unidades administrativas, las dependencias y entidades de la Administración Pública Estatal o los Ayuntamientos de la Entidad;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
+
+XII.- Asesorar, cuando lo soliciten y previo acuerdo con el Director General de Asuntos Jurídicos y Relaciones Laborales, a las entidades paraestatales agrupadas en el sector educativo, con respecto a la elaboración de proyectos de convenios, contratos y demás actos consensuales; y
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2006)</small>
+
+XIII.- Las demás que las leyes, reglamentos, decretos, acuerdos, convenios y contratos le atribuyan directamente, así como aquéllas que le asignen sus superiores jerárquicos.
 
 SECCIÓN TRIGÉSIMA
 
@@ -2061,13 +2369,17 @@ DE LA DIRECCIÓN DE RELACIONES LABORALES
 
 El Director de Relaciones Laborales, dependerá directamente del Director General de Asuntos Jurídicos y Relaciones Laborales y tendrá, además de las atribuciones descritas en el artículo 27 de este Reglamento, las siguientes:
 
-I.- Opinar sobre propuestas de imposición, reducción o cancelación de apercibimientos y sanciones a los trabajadores de la dependencia por violaciones a los ordenamientos legales en la materia y a las disposiciones dictadas por la Secretaría;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
+
+I.- Opinar sobre propuestas de reducción o cancelación de apercibimientos y sanciones de carácter laboral, a los trabajadores de la Secretaría por violaciones a los ordenamientos legales en la materia ya las disposiciones dictadas por ésta;
 
 II.- Atender las resoluciones que emitan autoridades judiciales o administrativas, en procesos o procedimientos de toda índole, exigiendo su cumplimiento a las unidades administrativas de la Secretaría y prestando a éstas la asesoría necesaria;
 
 III.- Rendir los informes que requieran las Comisiones Nacional y Estatal de Derechos Humanos;
 
-IV.- Substanciar procedimientos administrativos originados por conflictos de orden laboral y formular el proyecto de resolución para la aplicación de las sanciones que correspondan, de conformidad con las disposiciones legales de la materia;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
+
+IV.- Substanciar procedimientos administrativos originados por conflictos de orden laboral e imponer las sanciones correspondientes;
 
 V.- Dar seguimiento a los asuntos relacionados con la Delegación de la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, en el sector educativo;
 
@@ -2083,9 +2395,21 @@ X.- Coordinar, supervisar y evaluar los asuntos de orden laboral que deban ser a
 
 XI.- Emitir opinión respecto de las consultas que en ámbito de su competencia le formulen el Secretario, los titulares de las unidades administrativas, las dependencias y las entidades de la Administración Pública Estatal o los Ayuntamientos de la Entidad;
 
-XII.- Substanciar el procedimiento legal respectivo, en contra de los particulares que impartan estudios con autorización o reconocimiento de validez oficial de estudios o sin éstos, por violaciones a la Ley General de Educación, a la Ley de Educación del Estado y demás ordenamientos de la esfera de competencia de la Secretaría; así como formular los proyectos de resolución administrativa que como consecuencia dicte el Director General de Asuntos Jurídicos y Relaciones Laborales, y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
 
-XIII.- Las demás que las leyes, reglamentos, decretos, acuerdos, convenios y contratos le atribuyan directamente, así como aquéllas que le asignen sus superiores jerárquicos.
+XII.- Substanciar y resolver procedimientos en contra de particulares que impartan estudios con autorización o reconocimiento de validez oficial de estudios o sin éstos, por violaciones a la Ley General de Educación, a la Ley de Educación del Estado y demás ordenamientos de la esfera de competencia de la Secretaría;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2006)</small>
+
+XIII.- Acordar el inicio e integración de expedientes de naturaleza administrativa o laboral relativos a asuntos de su competencia, a efecto de practicar las investigaciones conducentes al esclarecimiento de los hechos o la determinación de responsabilidades, dictando los acuerdos o resoluciones procedentes;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2006)</small>
+
+XIV.- Substanciar y resolver procedimientos administrativos que tiendan a modificar o extinguir derechos u obligaciones creados por resoluciones que dicte la Secretaría, con excepción de aquéllos que sean competencia de otras unidades administrativas de la misma; y
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2006)</small>
+
+XV.- Las demás que las leyes, reglamentos, decretos, acuerdos, convenios y contratos le atribuyan directamente, así como aquéllas que le asignen sus superiores jerárquicos.
 
 ### CAPÍTULO V. DE LOS TITULARES DE LAS COORDINACIONES REGIONALES DE DESARROLLO EDUCATIVO
 
@@ -2210,3 +2534,19 @@ TERCERO.- Los decretos, acuerdos, circulares, instructivos y demás disposicione
 CUARTO.- Cuando las funciones de alguna unidad administrativa establecida con anterioridad a la vigencia de este Reglamento, deban ser ejercidas por alguna otra unidad de las que el mismo establece, o cuando se cambie su adscripción, pasarán, a la unidad que se determine, el personal, el mobiliario, el archivo y en general el equipo que aquélla haya utilizado. Respecto a los asuntos que se encuentren en trámite, competerá a la nueva unidad administrativa terminar su substanciación y dictar la resolución que corresponda.
 
 Dado en la sede del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los veintiocho días del mes de mayo del año dos mil cuatro.- "Sufragio Efectivo. No Reelección".- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- MAESTRO EN DERECHO CARLOS ARREDONDO CONTRERAS.- Rúbrica.- El Secretario de Educación Pública.- LICENCIADO CARLOS ALBERTO JULIÁN Y NÁCER.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 20 DE ENERO DE 2006.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Cuando en cualquier otro ordenamiento legal, reglamentario u otras disposiciones de carácter administrativo se haga referencia a la "Dirección de Operación de Educación Preescolar", la "Dirección de Operación de Educación Primaria", la "Dirección de Operación de Educación Secundaria", la "Dirección de Ampliación a la Cobertura, o al "Departamento de Educación Física", se entenderá que se está refiriendo a la Dirección de Educación Preescolar, la Dirección de Educación Primaria, la Dirección de Educación Secundaria, la Dirección de Ampliación de la Cobertura a Zonas Marginadas y a la Dirección de Educación Física, respectivamente.
+
+TERCERO.- Los actos jurídicos que hubiere celebrado la "Dirección de Apoyo a la Gestión Escolar y Promoción de la Calidad" que a la fecha de entrada en vigor del presente decreto se encuentren vigentes, continuarán surtiendo sus efectos hasta su conclusión, a través de las unidades administrativas que resulten competentes, de conformidad con las disposiciones legales vigentes, sin que sea necesario realizar actos previos de reconocimiento, modificación, novación o subrogación de facultades y obligaciones derivados de aquéllos, para su debido cumplimiento y exigibilidad.
+
+CUARTO.- El personal de base que a la entrada en vigor del presente Acuerdo se encuentre laborando en la "Dirección de Apoyo a la Gestión Escolar y Promoción de la Calidad", pasará a formar parte de la Dirección General de Operación Escolar, junto con aquél que se encuentre laborando bajo otro régimen de contratación y que dicha Dirección General considere estrictamente indispensable para garantizar la debida operación de los programas autorizados.
+
+QUINTO.- Cuando las funciones de alguna unidad administrativa establecida con anterioridad a la vigencia de este Acuerdo, deban ser ejercidas por alguna otra unidad de las que el mismo establece o cuando se cambie su adscripción, el personal, mobiliario, archivo y en general el equipo que aquélla haya utilizado, pasarán a la unidad que se determine. Competerá a la nueva unidad administrativa terminar la substanciación y dictar la resolución que corresponda de los asuntos que se encuentren en trámite.
+
+SEXTO.- Se dejan sin efecto en lo que se opongan a este Acuerdo, las disposiciones de carácter legal y administrativo dictadas con anterioridad al presente instrumento.
