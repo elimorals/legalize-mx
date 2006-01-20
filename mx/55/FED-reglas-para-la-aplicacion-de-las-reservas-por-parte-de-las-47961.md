@@ -4,7 +4,7 @@ identifier: "FED-reglas-para-la-aplicacion-de-las-reservas-por-parte-de-las-4796
 country: "mx"
 rank: "reglas"
 publication_date: "2003-02-28"
-last_updated: "2003-02-28"
+last_updated: "2006-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47961&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,808 +19,1072 @@ issue_date: "2003-02-18"
 ---
 # REGLAS PARA LA APLICACION DE LAS RESERVAS POR PARTE DE LAS DEPENDENCIAS Y ENTIDADES SUJETAS, EN MATERIA DE COMPRAS, DEL SECTOR PUBLICO, CONTENIDAS EN LOS TRATADOS DE LIBRE COMERCIO SUSCRITOS POR LOS ESTADOS UNIDOS
 
-ACUERDO POR EL QUE SE ESTABLECEN LAS REGLAS PARA LA APLICACION DE LAS RESERVAS CONTENIDAS EN LOS CAPITULOS DE COMPRAS DEL SECTOR PUBLICO DE LOS TRATADOS DE LIBRE COMERCIO SUSCRITOS POR LOS ESTADOS UNIDOS MEXICANOS
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE ASISTENCIA SOCIAL Y FORTALECIMIENTO FAMILIAR PARA EL ESTADO DE GUANAJUATO, PUBLICADA EN EL P.O. DE 4 DE ENERO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE GUANAJUATO
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 28 de febrero de 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2024 (ABROGADA).
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
+Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 19 de septiembre de 1986.
 
-FERNANDO DE JESUS CANALES CLARIOND, Secretario de Economía, con fundamento en los artículos 34 de la Ley Orgánica de la Administración Pública Federal; 7, 8, 26 y 56 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; 8, 9, 27 y 74 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, 5 fracción XVI y 23 fracciones IX, X y XI del Reglamento Interior de la Secretaría de Economía, y tomando en cuenta la opinión de la Secretaría de Contraloría y Desarrollo Administrativo, y
+Al margen un sello con el Escudo de la Nación.- Poder Ejecutivo.- Guanajuato.
 
-CONSIDERANDO
+EL CIUDADANO LICENCIADO RAFAEL CORRALES AYALA, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, a los habitantes del mismo, sabed:
 
-Que el 6 de octubre de 2000 fue publicado en el Diario Oficial de la Federación el Acuerdo por el que se establecen las Reglas para la aplicación de las reservas de compras del sector público establecidas en el Tratado de Libre Comercio de América del Norte y para la determinación del contenido nacional en los procedimientos de contratación de obras públicas;
+Que el H. Congreso del Estado Libre y Soberano de Guanajuato, ha tenido a bien dirigirme el siguiente:
 
-Que a la fecha, los Estados Unidos Mexicanos han suscrito ocho tratados de libre comercio que contienen un capítulo o título de compras del sector público, los cuales presentan algunas diferencias y, en consecuencia, es necesario establecer reglas de carácter general que permitan cumplir con las disposiciones establecidas en todos ellos;
+DECRETO NUMERO 51
 
-Que en esos capítulos se establecen disposiciones que permiten a nuestro país reservar de la aplicación de los tratados de libre comercio, parte de las compras que realiza el sector público a través de las dependencias y entidades de la Administración Pública Federal, cubiertas por dichos tratados;
+El H. Quincuagésimo Tercer Congreso Constitucional del Estado Libre y Soberano de Guanajuato, decreta:
 
-Que los artículos 14 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y 29 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, publicadas en el Diario Oficial de la Federación el 4 de enero de 2000, disponen que en los procedimientos de contratación, las dependencias y entidades sujetas optarán, en igualdad de condiciones, por el empleo de los recursos humanos del país y por la utilización de los bienes o servicios de procedencia nacional y los propios de la región;
+LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
-Que los artículos 26 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y 27 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, establecen que la Secretaría de Economía, mediante reglas de carácter general y tomando en cuenta la opinión de la Secretaría de Contraloría y Desarrollo Administrativo, determinará los criterios para la aplicación de las reservas, mecanismos de transición u otros supuestos establecidos en los tratados de libre comercio;
+### CAPITULO PRIMERO. Disposiciones Generales
 
-Que a efecto de contribuir a la consolidación de los sectores industriales que constituyen la proveeduría del sector gubernamental y con ello favorecer el fortalecimiento de la economía de nuestro país en su conjunto, es conveniente continuar aprovechando las reservas de compras negociadas con ese propósito en el marco de los tratados de libre comercio suscritos por los Estados Unidos Mexicanos, y
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
 
-Que es necesario sustituir el Acuerdo citado en el primer considerando para incorporar las disposiciones aplicables a partir del año 2003, relativas a las reservas de compras del sector público establecidas en los tratados de libre comercio, he tenido a bien expedir el siguiente:
+###### ARTICULO 1o.
 
-ACUERDO POR EL QUE SE ESTABLECEN LAS REGLAS PARA LA APLICACION DE LAS RESERVAS CONTENIDAS EN LOS CAPITULOS DE COMPRAS DEL SECTOR PUBLICO DE LOS TRATADOS DE LIBRE COMERCIO SUSCRITOS POR LOS ESTADOS UNIDOS MEXICANOS
+La presente Ley regirá en el Estado de Guanajuato, sus disposiciones son de orden público e interés social y tiene por objeto:
 
-### CAPITULO I. DISPOSICIONES GENERALES
+I.- Crear y establecer las bases y procedimientos del Sistema Estatal de Asistencia Social;
 
-PRIMERA.- Para los efectos de las presentes Reglas, se entenderá por:
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
 
-a) Catálogo: Catálogo de clasificación para las adquisiciones y obra pública disponible a través del Sistema;
+II.- La promoción y prestación de los servicios de asistencia social que establece la Ley de Salud del Estado de Guanajuato, de acuerdo a lo dispuesto por la Ley General de Salud; y
 
-b) CFE: Comisión Federal de Electricidad;
+III.- Coordinar el acceso a los servicios de asistencia social, garantizando a través de los convenios respectivos, la concurrencia y colaboración de los Gobiernos Federal, Estatal y Municipal, en el ámbito de sus respectivas competencias, así como la participación de los sectores social y privado.
 
-c) Compra: Adquisiciones y arrendamientos de bienes muebles, con o sin opción a compra, prestación de servicios en general, servicios relacionados con la obra pública y obra pública;
+IV.- (DEROGADA, P.O. 1 DE AGOSTO DE 2019)
 
-d) Dependencias y entidades sujetas: Aquellas incluidas en los anexos correspondientes a las listas de entidades del gobierno federal y empresas gubernamentales de los Estados Unidos Mexicanos (México), de los títulos o capítulos de compras del sector público de los tratados de libre comercio suscritos por nuestro país o, en su caso, aquellas que las hayan sucedido o sustituido;
+###### ARTICULO 2o.
 
-e) Dirección: La Dirección General de Industrias Pesadas y de Alta Tecnología de la Secretaría de Economía;
+El Gobierno del Estado en forma prioritaria proporcionará servicios de asistencia social, encaminados al desarrollo integral de la familia, entendida ésta como la célula de la sociedad que provee a sus miembros de los elementos que requieren en las diversas circunstancias de su desarrollo, y también a apoyar, en su formación, subsistencia y desarrollo a individuos con carencias familiares esenciales no superables en forma autónoma.
 
-f) Dólares: Dólares de los Estados Unidos de América;
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2019)</small>
 
-g) Leyes: La Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y la Ley de Obras Públicas y Servicios Relacionados con las Mismas;
+Los servicios de asistencia social deberán prestarse con perspectiva de derechos humanos y de familia. Para tal efecto, el organismo a que se refiere el artículo 16 de esta Ley debe evaluar las circunstancias personales y el entorno familiar de las personas en situación de vulnerabilidad y proponer, coordinar y dar seguimiento a respuestas integrales para la satisfacción de sus derechos humanos y el fortalecimiento de su entorno familiar.
 
-h) Obras públicas: Aquellas consideradas como servicios de construcción en los correspondientes títulos o capítulos de compras de los tratados de libre comercio y las consideradas como tales en los artículos 3 y 4 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas;
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
 
-i) PEMEX: Petróleos Mexicanos y sus organismos subsidiarios;
+###### ARTICULO 3o.
 
-j) Procedimientos de contratación: Las licitaciones públicas, invitaciones a cuando menos tres personas y adjudicaciones directas, en términos de los artículos 26 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y 27 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas;
+Para los efectos de esta Ley se entiende por asistencia social, el conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral del individuo y las familias, así como la protección física, mental y social de personas y familias en estado de necesidad, indefensión, desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva.
 
-k) Reservas: Disposiciones que permiten a las dependencias y entidades sujetas exceptuar ciertas compras de las obligaciones establecidas en los títulos o capítulos de compras del sector público de los tratados de libre comercio suscritos por los Estados Unidos Mexicanos;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2006)</small>
 
-l) Reserva permanente: Disposiciones que permiten a las dependencias y entidades sujetas exceptuar de las obligaciones de los tratados de libre comercio, ciertas compras por un determinado monto anual;
+###### ARTICULO 4o.
 
-m) Reserva transitoria: Disposiciones que permiten a las dependencias y entidades sujetas exceptuar de las obligaciones de los tratados de libre comercio, ciertas compras por montos anuales decrecientes o fijos que se agotan en un determinado lapso de tiempo acordado;
+Tienen derecho a la asistencia social, los individuos y familias que por sus condiciones físicas, mentales, jurídicas, o sociales, requieran de servicios especializados para su protección y su plena integración al bienestar, entre los que se comprenden:
 
-n) Secretaría: La Secretaría de Economía;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
 
-o) Servicios: Tanto los servicios en general como los servicios relacionados con la obra pública;
+I.- Menores expósitos, en estado de abandono, desamparo, desnutrición o sujetos al maltrato;
 
-p) Sistema: Sistema de Consultas y Orientación sobre las Reservas de Compras administrado por la Secretaría, con dirección en Internet: www.economia-sicorc.gob.mx;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
 
-q) Tratados de libre comercio: Los tratados internacionales suscritos por los Estados Unidos Mexicanos que contengan disposiciones que regulen la participación de proveedores extranjeros en procedimientos de licitación pública realizadas por las dependencias y entidades sujetas para la compra de bienes, servicios, servicios relacionados con la obra pública y obra pública;
+II.- Menores de doce años que hayan realizado una conducta prevista como delito en las leyes del Estado de Guanajuato;
 
-q.1) Tratado de Libre Comercio de América del Norte, capítulo X, publicado en el Diario Oficial de la Federación el 20 de diciembre de 1993;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
 
-q.2) Tratado de Libre Comercio entre los Estados Unidos Mexicanos, la República de Colombia y la República de Venezuela, capítulo XV, publicado en el Diario Oficial de la Federación el 9 de enero de 1995;
+III.- Adolescentes que estén sujetos a proceso y a quienes se les haya impuesto una medida de las previstas en la Ley de Justicia para Adolescentes que no sea la de internamiento;
 
-q.3) Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Costa Rica, capítulo XII, publicado en el Diario Oficial de la Federación el 10 de enero de 1995;
+IV.- Mujeres en períodos de gestación o lactancia;
 
-q.4) Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Bolivia, Capítulo XIV, publicado en el Diario Oficial de la Federación el 11 de enero de 1995;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
-q.5) Tratado de Libre Comercio entre los Estados Unidos Mexicanos y el Gobierno de la República de Nicaragua, Capítulo XV, publicado en el Diario Oficial de la Federación el 1 de julio de 1998;
+V.- Personas adultas mayores en desamparo, marginación, con discapacidad o sujetas a maltrato;
 
-q.6) Tratado de Libre Comercio entre los Estados Unidos Mexicanos y el Estado de Israel, Capítulo VI, publicado en el Diario Oficial de la Federación el 28 de junio de 2000;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
 
-q.7) Acuerdo de Asociación Económica, Concertación Política y Cooperación entre los Estados Unidos Mexicanos y la Comunidad Europea y sus estados miembros, título III, publicado en el Diario Oficial de la Federación el 3 de abril de 2001;
+VI.- Personas con discapacidad por causa de ceguera, debilidad visual, sordera, alteraciones de los sistemas nervioso y músculo-esquelético, deficiencias mentales, problemas de lenguaje u otras deficiencias;
 
-q.8) Tratado de Libre Comercio entre los Estados Unidos Mexicanos y los Estados de la Asociación Europea de Libre Comercio, Capítulo V, publicado en el Diario Oficial de la Federación el 29 de junio de 2001.
+VII.- Indigentes;
 
-r) Umbrales: Montos de referencia establecidos en el artículo 1001, párrafo 1, inciso c) del capítulo de compras del sector público del Tratado de Libre Comercio de América del Norte, y sus correlativos en los demás tratados de libre comercio, a partir de los cuales se define el ámbito de aplicación de las disposiciones de dichos títulos o capítulos.
+VIII.- Personas que por su extrema ignorancia requieran de servicios de asistencia;
 
-SEGUNDA.- La aplicación e interpretación para efectos administrativos de estas reglas corresponde a la Dirección.
+IX.- Víctimas de la comisión de delitos en estado de abandono;
 
-TERCERA.- En los procedimientos de contratación que sigan las dependencias y entidades sujetas deberán observarse, en lo conducente, estas reglas.
+X.- Familiares que dependen económicamente de quienes se encuentran detenidos por causas penales y que queden en estado de abandono;
 
-CUARTA.- Las dependencias y entidades sujetas no están obligadas a realizar licitaciones públicas internacionales bajo la cobertura de los tratados de libre comercio y por lo tanto a la aplicación de estas reglas cuando:
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
-a) El valor estimado del contrato sea menor al monto de todos los umbrales establecidos en los respectivos títulos o capítulos de compras de los tratados de libre comercio, considerando si se trata de una entidad o dependencia compradora y el objeto de la compra;
+XI.- Personas alcohólicas, farmacodependientes y en condiciones de vagancia;
 
-b) El valor estimado de la contratación sea por un monto igual o mayor al de los umbrales, pero se presente uno de los siguientes supuestos contemplados en los tratados de libre comercio:
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
 
-b.1) Se trate de compras de bienes agrícolas para fomentar programas de apoyo a la agricultura o bienes para la alimentación humana que lleven a cabo Leche Industrializada Conasupo, S.A. de C.V. (LICONSA) o el Sistema Nacional para el Desarrollo Integral de la Familia (DIF);
+XII.- Habitantes del medio rural, suburbano y urbano, marginados que carezcan de lo indispensable para su subsistencia; y
 
-b.2) Las compras se realicen con miras a la reventa comercial por tiendas gubernamentales;
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2006)</small>
 
-b.3) Las compras se efectúen de conformidad con los préstamos de instituciones financieras regionales o multilaterales en la medida en que dichas instituciones impongan diferentes procedimientos (excepto por requisitos de contenido nacional);
+XIII.- Personas afectadas por desastres.
 
-b.4) Se trate de compras entre una entidad o dependencia sujeta y otra;
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-b.5) Se trate de compra de servicios de transporte que forman parte de o sean conexos a un contrato de compra;
+XIV.- Hijos e hijas menores de edad de mujeres víctimas de un feminicidio u homicidio.
 
-b.6) Se trate de compras realizadas en apoyo a salvaguardar materiales o tecnología nuclear, y sean consideradas como compras de seguridad nacional;
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
 
-b.7) Se trate de la compra de combustibles y gas que lleve a cabo PEMEX, o
+###### ARTICULO 5o.
 
-b.8) Exista en los tratados algún supuesto distinto a los anteriores que permita eximir la operación de las disposiciones del o los tratados.
+Los servicios de asistencia social de jurisdicción federal, se realizarán a través de las dependencias y entidades de la Administración Pública Federal competentes y de acuerdo a sus atribuciones, de conformidad a las leyes respectivas, con la participación que se convenga con el Gobierno del Estado.
 
-A efecto de determinar los casos de excepción comprendidos en el supuesto del párrafo anterior, como referencia, a continuación se presenta la ubicación de Anexos comprendidos en cada tratado.
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
 
-(VEASE ARCHIVO ANEXO)
+###### ARTICULO 6o.
 
-Las contrataciones comprendidas en los supuestos a que alude esta Regla, se sujetarán a lo dispuesto por las leyes.
+De acuerdo a lo dispuesto en la Ley General de Salud, corresponde al Gobierno del Estado, como autoridad en materia de salubridad general, organizar, operar, supervisar y evaluar la prestación de los servicios de salud en materia de asistencia social, dentro de su jurisdicción territorial y con base a las normas oficiales mexicanas que al efecto establezca la Secretaría de Salud.
 
-### CAPITULO II
+###### ARTICULO 7o.
 
-DE LA DETERMINACION Y EJERCICIO DE LA RESERVA PERMANENTE PARA LAS ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS PARA LAS ENTIDADES Y DEPENDENCIAS SUJETAS, EXCEPTO PEMEX Y CFE
+El Sistema Estatal de Asistencia Social, forma parte del Sistema Estatal de Salud y estará constituido por las dependencias y entidades de la Administración Pública, tanto Estatal como Municipal, y por las personas físicas o morales de los sectores social y privado que presten servicios de asistencia social, así como por los mecanismos de coordinación de acciones de asistencia social en el Estado.
 
-QUINTA.- Al amparo de la reserva permanente las dependencias y entidades sujetas realizarán procedimientos de contratación de carácter nacional, salvo que se presente alguno de los supuestos para procedimientos de contratación internacional en términos de los artículos 28 fracción II de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y 30 fracción II de la Ley de Obras Públicas y Servicios Relacionados con las Mismas.
+###### ARTICULO 8o.
 
-SEXTA.- Cuando las dependencias y entidades sujetas, pretendan realizar un procedimiento para la contratación de adquisiciones, arrendamientos o prestación de servicios y se presenten las circunstancias que enseguida se detallan, deberán solicitar a la Dirección que les determine la inclusión o no de dicha contratación en la reserva permanente de los tratados de libre comercio:
+Se entiende por Servicios de Asistencia Social, todos aquellos señalados en el Artículo 13 de esta Ley, o bien, los que no correspondan reservados a la Federación o a la acción coordinada de ésta con la Entidad.
 
-(a) Tenga obligatoriedad de cobertura de los tratados, es decir que no se presenten los supuestos establecidos en la regla Cuarta de este Acuerdo;
+###### ARTICULO 9o.
 
-(b) Corresponda a los bienes y/o servicios listados en el Anexo (A) de este Acuerdo, y
+En los términos del artículo anterior, los servicios de asistencia social que se presten como servicios públicos a la población en general a nivel estatal o municipal, por las instituciones de seguridad social y los de carácter social y privado, se seguirán rigiendo por los ordenamientos específicos que les son aplicables y supletoriamente por la presente Ley.
 
-(c) La convocante determine realizar un procedimiento de contratación de carácter nacional con base en el artículo 28 fracción I de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y el artículo 30 fracción I de la Ley de Obras Públicas y Servicios Relacionados con las Mismas.
+###### ARTICULO 10.
 
-Esta solicitud se hará por transmisión electrónica a través del Sistema, mediante el requisitado del formato RESE-1, incluido tanto en el Anexo (E) de este Acuerdo, como en el Sistema, informando, conforme al Catálogo, sobre el tipo de bien o servicios a contratar y el monto estimado del contrato.
+La coordinación del Sistema Estatal de Asistencia Social, estará a cargo del Organismo a que se refiere el Artículo 16 de esta Ley.
 
-En caso de que no exista reserva disponible para uno o más tratados de libre comercio, la Dirección lo hará del conocimiento de la entidad o dependencia sujeta a fin de que lleve a cabo un procedimiento de contratación de conformidad con el Acuerdo por el que se establecen las reglas para la celebración de licitaciones públicas internacionales de conformidad con las obligaciones establecidas en los tratados de libre comercio.
+###### ARTICULO 11.
 
-SEPTIMA.- Cuando se cumplan los supuestos de los incisos (a) y (c) de la regla Sexta y los bienes y servicios objeto del contrato no correspondan a los listados en el Anexo (A) de este Acuerdo, la dependencia o entidad sujeta podrá solicitar a la Dirección, en términos de dicha Regla, le determine la inclusión o no de su procedimiento de contratación en la reserva permanente.
+Los integrantes del Sistema Estatal de Asistencia Social contribuirán al logro de los siguientes objetivos:
 
-OCTAVA.- Cuando las dependencias y entidades sujetas, pretendan seguir un procedimiento de excepción a la licitación pública, en el que participen exclusivamente bienes, proveedores o contratistas nacionales y se trate de operaciones de compra dentro del ámbito de aplicación de los tratados de libre comercio, al amparo de un supuesto contenido en las leyes que no esté contemplado en alguna de las circunstancias para licitación restringida relacionadas en el artículo 1016, párrafo 2, del Capítulo X del Tratado de Libre Comercio de América del Norte, o en los artículos equivalentes sobre el tema en los demás tratados de libre comercio, sólo podrán hacerlo si la Dirección determina su inclusión en la reserva permanente.
+I.- Garantizar la extensión cuantitativa y cualitativa de los servicios, preferentemente en las regiones menos desarrolladas y a los grupos más desprotegidos;
 
-Para ello, se deberá consultar a la Dirección por transmisión electrónica a través del Sistema, en términos de la regla Sexta, si el procedimiento de excepción a la licitación pública puede ser contabilizado en la reserva permanente.
+II.- Definir criterios de distribución de universos de usuarios, de regionalización, de escalonamiento de los servicios; y
 
-NOVENA.- No será necesario solicitar la inclusión en la reserva permanente para los procedimientos que se realicen con base en los supuestos que, para licitación restringida, se establecen en los tratados de libre comercio. Estas circunstancias sólo podrán aplicarse si, a su vez, están previstas en los supuestos contenidos en las leyes.
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
 
-DECIMA.- En cualquier supuesto de invitación a cuando menos tres personas contenido en las leyes o de licitación restringida establecido en los tratados de libre comercio, las dependencias y entidades sujetas deberán observar lo dispuesto en los artículos 43 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y 44 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, según sea el caso.
+III.- Establecer y llevar a cabo conjuntamente programas interinstitucionales que aseguren la atención Integral de los grupos vulnerables.
 
-DECIMAPRIMERA.- La Dirección responderá a la consulta por transmisión electrónica a través del Sistema, en un plazo máximo de cinco días hábiles, contado a partir de la fecha de presentación de la solicitud respectiva. En caso contrario, la dependencia o entidad sujeta solicitante entenderá que el procedimiento de contratación quedará incluido en la reserva permanente, y realizará una licitación pública nacional, para el caso de las reglas Sexta y Séptima, o un procedimiento de invitación a cuando menos tres personas de carácter nacional conforme a las Leyes, para el caso de la regla Octava.
+###### ARTICULO 12.
 
-En caso de que la Dirección resuelva que el procedimiento no queda cubierto por la reserva permanente, las dependencias y entidades sujetas deberán realizar una licitación internacional de conformidad con el Acuerdo por el que se establecen las reglas para la celebración de licitaciones públicas internacionales de conformidad con las obligaciones establecidas en los tratados de libre comercio.
+El Gobierno del Estado, a través del Organismo a que se refiere el Artículo 16 de esta Ley, en su carácter de autoridad sanitaria tendrá respecto de la asistencia social, las siguientes atribuciones:
 
-DECIMASEGUNDA.- Dentro de un plazo de treinta días naturales posteriores a la firma del (los) contrato (s) de operaciones que hayan sido determinados con cargo a la reserva permanente, las dependencias y entidades sujetas deberán informar a la Dirección sobre dicha formalización. Esto se hará por transmisión electrónica a través del Sistema, mediante el requisitado del formato RESE-2 incluido en el Anexo (E) de este Acuerdo y en el Sistema, indicando, con base en el Catálogo, el (los) bien(es) o servicio (s) contratado (s) y el monto total de la contratación.
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
 
-DECIMATERCERA.- En caso de que alguna de las operaciones determinadas por la Dirección para su inclusión en la reserva permanente sea declarada desierta, la dependencia o entidad convocante deberá informar de ello a la Dirección por transmisión electrónica a través del Sistema, dentro de un plazo de diez días naturales posteriores a la resolución respectiva.
+I.- Supervisar la aplicación de las normas oficiales mexicanas que rijan la prestación de los servicios de salud en materia de asistencia social, así como la difusión de las mismas entre los integrantes del Sistema Estatal de Salud;
 
-DECIMACUARTA.- En el ejercicio anual de la reserva permanente, corresponderá a la Dirección supervisar las disposiciones siguientes:
+II.- Vigilar el estricto cumplimiento de esta Ley, así como las disposiciones que se dicten con base en ella, sin perjuicio de las facultades que en la materia competen a las dependencias y entidades de la Administración Pública Federal;
 
-a) Que no se aplique más de 10 por ciento del monto de la reserva permanente a un solo código a cinco dígitos para bienes muebles del Catálogo, y
+III.- Evaluar los resultados de los servicios asistenciales que se presten conforme a las normas establecidas;
 
-b) Que ninguna dependencia o entidad reserve contratos de bienes y servicios en cualquier año, por un valor mayor al 20 por ciento del total de la reserva permanente.
+IV.- Apoyar la coordinación entre las instituciones que presten servicios de asistencia social y las educativas para formar y capacitar recursos humanos en la materia;
 
-### CAPITULO III. DE LA DETERMINACION Y EL EJERCICIO DE LA RESERVA PERMANENTE Y TRANSITORIA PARA PEMEX Y CFE, PERIODO 2003-2008
+V.- Promover la investigación científica y tecnológica que tienda a desarrollar y mejorar la prestación de los servicios de asistencia social;
 
-DECIMAQUINTA.- En términos de los tratados, la reserva permanente conjunta de PEMEX y CFE, es un monto anual en moneda nacional equivalente a las cantidades expresadas en millones de dólares indexadas que se señalan para cada periodo en la siguiente tabla.
+VI.- Coordinar un sistema estatal de información en materia de asistencia social;
 
-(VEASE ARCHIVO ANEXO)
+VII.- Coordinar a través de los acuerdos respectivos con los municipios, la prestación y promoción de los servicios de asistencia social;
 
-Para cada año del periodo señalado en la tabla anterior, la Dirección informará por escrito a Pemex y CFE, el monto anual que podrá ejercer cada una de estas entidades, respecto a la reserva permanente disponible de acuerdo a los montos anuales expresados en la tabla anterior.
+VIII.- Concertar acciones con los sectores social y privado, mediante convenios y contratos en los que se regulen la prestación y promoción de los servicios de asistencia social, con la participación que corresponda a las dependencias o entidades del Gobierno Federal, del Estado y de los Municipios;
 
-DECIMASEXTA.- En términos de los tratados de libre comercio, la reserva transitoria de PEMEX y CFE, es un porcentaje definido anualmente del monto total de sus contratos de adquisiciones, arrendamientos, prestación de servicios y obra pública, que igualen o superen el valor de los umbrales.
+IX.- Coordinar, evaluar y dar seguimiento a los servicios de asistencia social que presten las instituciones de seguridad social Federales o del Gobierno del Estado;
 
-Para efectos del párrafo anterior no se incluirán en el cálculo del monto total de los contratos, aquellos contratos financiados por préstamos otorgados al Gobierno Federal o con su aval, a través de instituciones financieras regionales o multilaterales.
+X.- Realizar investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social; y
 
-DECIMASEPTIMA.- PEMEX y CFE determinarán anualmente el monto de su reserva transitoria, multiplicando la base de la reserva Bt por el factor rt que les corresponda, de acuerdo con la siguiente expresión:
+XI.- Las demás que le otorguen las leyes aplicables.
 
-Rt = Bt (rt)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2006)</small>
 
-En donde:
+###### ARTICULO 13.
 
-Rt = Reserva para el año t.
+Para los efectos de esta ley; se entienden como servicios en materia de asistencia social, los siguientes:
 
-Bt = Base de la reserva para el año t.
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
 
-rt = Porcentaje correspondiente al año t, expresado en decimales.
+I.- La atención a personas que, por sus carencias socio-económicas o por problemas de discapacidad, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
 
-(VEASE ARCHIVO ANEXO)
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
-PEMEX y CFE determinarán la base de sus respectivas reservas restando al monto total de los contratos de adquisiciones, arrendamientos, contratación de servicios y obras públicas que realizarán en el año, el monto de los contratos que se encuentren abajo de umbrales y los que serán financiados con préstamos de instituciones financieras regionales o multilaterales que se ubiquen por arriba de los umbrales, conforme a la siguiente expresión:
+II.- La atención en establecimientos especializados a menores y personas adultas mayores en estado de abandono o desamparo;
 
-Bt = (bt + st + ct) - (ut + ft)
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
-En donde:
+III.- La promoción del bienestar de la persona adulta mayor y el desarrollo de acciones de preparación para la vejez;
 
-Bt = Base de la reserva para el año t.
+IV.- (DEROGADA, P.O. 1 DE AGOSTO DE 2019)
 
-bt = Monto total de los contratos de adquisiciones y arrendamientos para el año t.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
-st = Monto total de los contratos de servicios para el año t.
+V.- La prestación de servicios de asistencia jurídica, psicológica y de orientación social, especialmente a menores, personas adultas mayores o personas con discapacidad, sin recursos;
 
-ct = Monto total de los contratos de obra pública para el año t.
+VI.- La realización de investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social;
 
-ut = Monto total de los contratos por abajo de los umbrales para el año t.
+VII.- El apoyo a la educación y capacitación para el trabajo de personas con carencias socio-económicas;
 
-ft = Monto total de los contratos por arriba de los umbrales, financiados por préstamos de instituciones financieras regionales o multilaterales para el año t.
+VIII.- La prestación de servicios funerarios;
 
-El monto total de los contratos al que se refieren las variables de la expresión para el cálculo de la base de la reserva incluye, entre otros, el de los proyectos llave en mano, los proyectos integrales, los proyectos de infraestructura productiva de impacto diferido en el registro del gasto público, las compras intragubernamentales y las contrataciones por invitación a cuando menos tres personas o por adjudicación directa.
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
 
-Cuando se trate de contratos multianuales, se deberá considerar el monto total para el periodo total que abarcará el contrato respectivo.
+IX.- La prevención de la discapacidad y la rehabilitación en centros especializados;
 
-DECIMAOCTAVA.- PEMEX y CFE deberán informar a la Dirección, por escrito, el monto de su reserva transitoria, para cada uno de los tratados de libre comercio, con base en valores estimados de los procedimientos de contratación que se esperan realizar, calculada conforme a la regla Decimaséptima, a más tardar el 31 de marzo de cada año.
+X.- La orientación nutricional y la alimentación complementaria a personas de escasos recursos y a población de zonas marginadas;
 
-PEMEX y CFE deberán presentar dicho informe mediante el requisitado del formato RESE-3. Este formato se encuentra incluido en el Anexo (E) de este Acuerdo.
+XI.- La promoción del desarrollo, el mejoramiento y la integración social y familiar de la población con carencias, mediante la participación activa, consciente y organizada en acciones que se lleven a cabo en su propio beneficio;
 
-DECIMANOVENA.- PEMEX y CFE deberán ejercer sus correspondientes reservas transitorias, por un monto no mayor a su reserva calculada conforme a la regla Decimaséptima, atendiendo las prioridades establecidas para adquisición de bienes, arrendamientos, prestación de servicios y obras públicas a que se refieren los Anexos (B) y (C) de este Acuerdo, cuyos procedimientos de contratación se estime que superen el valor de los umbrales respectivos.
+XII.- El desarrollo comunitario en localidades y zonas social y económicamente marginadas;
 
-VIGESIMA.- PEMEX y CFE, con base en la determinación de sus respectivas reservas conforme a las reglas Decimaquinta y Decimaséptima de este Acuerdo, determinarán la disponibilidad de reserva permanente y transitoria para cada uno de los tratados de libre comercio.
+XIII.- La promoción e impulso del sano crecimiento físico, mental y social de la niñez;
 
-Para estos efectos, PEMEX y CFE deberán mantener un registro del monto que se haya estimado, antes de la publicación de la convocatoria, para cada uno de los procedimientos de contratación realizados al amparo de sus respectivas reservas.
+XIV.- El establecimiento y manejo del Sistema Estatal de Información Básica en materia de Asistencia Social;
 
-Cuando de la combinación de reserva permanente y transitoria se determine que existe reserva disponible en todos los tratados de libre comercio, PEMEX y CFE no se sujetarán las disposiciones establecidas en dichos tratados y sus procedimientos de contratación los realizarán de conformidad con lo dispuesto en las leyes.
+XV.- (DEROGADA, P.O. 1 DE AGOSTO DE 2019)
 
-VIGESIMAPRIMERA.- En caso de que no exista reserva disponible para uno o más tratados de libre comercio, los procedimientos de contratación con cargo a la reserva serán de carácter internacional, de conformidad con el Acuerdo por el que se establecen las reglas para la celebración de licitaciones públicas internacionales de conformidad con las obligaciones establecidas en los tratados de libre comercio.
+XVI.- El fomento de acciones de paternidad responsable, que propicien la preservación de los derechos de los menores a la satisfacción de sus necesidades y a la salud física y mental; y
 
-VIGESIMASEGUNDA.- PEMEX y CFE deberán dar seguimiento a la evolución de sus respectiva (sic) reservas transitorias, a efecto de que se cumplan las siguientes disposiciones:
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
 
-a) Que el ejercicio de la reserva no exceda en cada año el monto total reservable;
+XVII.- Los servicios de previsión, prevención, atención, promoción, protección y rehabilitación a los menores de doce años que hayan realizado una conducta prevista como delito en las leyes del Estado de Guanajuato;
 
-b) En cada año, no aplicar a las reservas, más del 10 por ciento del monto total reservable para ese año, a un solo código a cinco dígitos de bienes muebles del Catálogo, y
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2006)</small>
 
-c) Procurar que, a partir de los tiempos acordados en los tratados, no se reserve más de 50 por ciento del monto total anual de contratos correspondientes a cualquier código a cinco dígitos de bienes muebles del Catálogo.
+XVIII.- Intervenir en la aplicación de las medidas, con excepción de la de internamiento, que se impongan a los adolescentes por las autoridades competentes, previstas en la Ley de Justicia para Adolescentes; y
 
-VIGESIMATERCERA.- Cuando PEMEX y CFE, pretendan seguir un procedimiento de excepción a la licitación pública, en el que participen exclusivamente proveedores o contratistas nacionales y se trate de operaciones de compra dentro del ámbito de aplicación de los tratados de libre comercio, al amparo de un supuesto contenido en las leyes que no esté contemplado en alguna de las circunstancias para licitación restringida relacionadas en el artículo 1016, párrafo 2, del capítulo X del Tratado de Libre Comercio de América del Norte o en los artículos equivalentes sobre el tema en los demás tratados de libre comercio, sólo podrán hacerlo si lo realizan con cargo a su reserva disponible para todos los tratados de libre comercio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-VIGESIMACUARTA.- No será necesario incluir en la reserva transitoria aquellos procedimientos que se realicen, con base en los supuestos que, para licitación restringida, se establecen en los tratados de libre comercio. Estas circunstancias sólo podrán aplicarse si a su vez están previstas en los supuestos contenidos en las Leyes.
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
-VIGESIMAQUINTA.- PEMEX y CFE, en cualquier supuesto de invitación a cuando menos tres personas contenido en las leyes o de licitación restringida establecido en los tratados de libre comercio, deberán observar lo dispuesto en los artículos 43 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y 44 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas.
+XIX.- Los servicios que se presten en los centros de asistencia social, a través de lugares o espacios de cuidado alternativo o acogimiento residencial para niñas, niños y adolescentes sin cuidado parental o familiar que brindan instituciones públicas, privadas y asociaciones;
 
-VIGESIMASEXTA.- PEMEX y CFE, deberán informar a la Dirección, por escrito, cuando agoten el monto de su reserva permanente, relacionando los contratos formalizados cubiertos por dicha reserva, indicando su número, monto respectivo y clasificación con base en el Catálogo. El informe contendrá los contratos formalizados que hayan sido convocados en el año que se reporta.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-El informe se deberá presentar mediante el requisitado del formato RESE-4. Este formato se encuentra incluido en el Anexo (E) de este Acuerdo.
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
-VIGESIMASEPTIMA.- PEMEX y CFE, deberán informar a la Dirección, por escrito, en los meses de enero y julio, sobre los contratos formalizados cubiertos por la reserva transitoria, acumulados en el año hasta el semestre inmediato anterior, indicando su número, monto respectivo y clasificación con base en el Catálogo. El informe contendrá los contratos formalizados que hayan sido convocados en el año que se reporta.
+XX.- Las demás que tiendan a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral.
 
-El informe se deberá presentar mediante el requisitado del formato RESE-5. Este formato se encuentra incluido en el Anexo (E) de este Acuerdo.
+###### ARTICULO 14.
 
-### CAPITULO IV
+Para los efectos del artículo anterior, el Sistema Estatal de Asistencia Social, tendrá a su cargo:
 
-DE LA DETERMINACION Y EL EJERCICIO DE LA RESERVA TRANSITORIA EN MATERIA DE OBRAS PUBLICAS, PARA LAS DEPENDENCIAS Y ENTIDADES SUJETAS, EXCEPTO PEMEX Y CFE, PARA EL PERIODO 2003-2008
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
 
-VIGESIMAOCTAVA.- En términos de los tratados de libre comercio, la reserva transitoria de las dependencias y entidades sujetas, es un porcentaje calculado anualmente, del monto total de sus contratos de obra pública que igualen o superen el valor de los umbrales.
+I.- La administración del patrimonio de la Beneficencia Pública, observando lo establecido por la Ley del Patrimonio Inmobiliario del Estado de Guanajuato y las leyes de la materia;
 
-Para efectos del párrafo anterior no se incluirán en el cálculo del monto total de los contratos, aquellos contratos financiados por préstamos otorgados al Gobierno Federal o con su aval, a través de instituciones financieras regionales o multilaterales.
+II.- La promoción, supervisión, vigilancia y evaluación de las Instituciones de Asistencia Privada;
 
-VIGESIMANOVENA.- Las dependencias y entidades sujetas determinarán anualmente el monto de su reserva transitoria, multiplicando la base de la reserva Bt por el factor rt que les corresponda, de acuerdo con la siguiente expresión:
+III.- La prestación de servicios municipales que revisten características de Asistencia Social;
 
-Rt = Bt (rt)
+IV.- Aquellos servicios que por sus características requieran de atención especial en la localidad; y
 
-En donde:
+V.- (DEROGADA, P.O. 1 DE AGOSTO DE 2019)
 
-Rt = Reserva para el año t.
+VI.- Las demás que las disposiciones generales le otorguen.
 
-Bt = Base de la reserva para el año t.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2009)</small>
 
-rt = Porcentaje correspondiente al año t, expresado en decimales.
+###### ARTICULO 15.
 
-(VEASE ARCHIVO ANEXO)
+La operación de los servicios en materia de asistencia social, .se sujetará a las normas oficiales mexicanas que emita la Secretaría de Salud.
 
-Las dependencias y entidades sujetas, determinarán anualmente la base de su reserva transitoria, en materia de obras públicas, restando al monto total de los contratos de obra pública que realizarán en el año, el monto de dichos contratos que se encuentren abajo de umbrales y los que se ubiquen por arriba de los umbrales, pero que serán financiados por préstamos de instituciones financieras regionales o multilaterales, conforme a la siguiente expresión:
+Las instituciones particulares que presten los servicios de asistencia a que se refiere el párrafo anterior se regirán por los ordenamientos locales de la materia y por la reglamentación municipal que corresponda a los Ayuntamientos.
 
-Btc = ct - (utc + ftc)
+### CAPITULO SEGUNDO. Del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato
 
-En donde:
+###### ARTICULO 16.
 
-Btc = Base de la reserva de obra pública para el año t.
+El Gobierno del Estado contará con un organismo público descentralizado, con personalidad jurídica y patrimonio propios, que se denominará Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, el cual será el organismo rector de la Asistencia Social y tendrá como objetivos la promoción de la Asistencia Social, la prestación de servicios en ese campo, la promoción de la interrelación sistemática de acciones que en la materia lleven a cabo las instituciones públicas y privadas, así como la realización de las demás acciones que establece esta Ley y las disposiciones legales aplicables.
 
-ct = Monto total de los contratos de obra pública para el año t.
+###### ARTICULO 17.
 
-utc = Monto total de los contratos de obra pública por abajo de los umbrales para el año t.
+Cuando en esta Ley se haga mención al Organismo, se entenderá hecha al Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato.
 
-ftc = Monto total de los contratos de obra pública por arriba de los umbrales, financiados por préstamos de instituciones financieras regionales o multilaterales para el año t.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2006)</small>
 
-El monto total de los contratos a los que se refieren las variables de la expresión para el cálculo de la base de la reserva incluye, entre otros, el de los proyectos llave en mano, los proyectos integrales, los proyectos de infraestructura productiva de impacto diferido en el registro del gasto público, las compras intragubernamentales y las contrataciones por invitación a cuando menos tres personas o por adjudicación directa.
+###### ARTICULO 18.
 
-Cuando se trate de contratos multianuales, se deberá considerar el monto total para el periodo total que abarcará el contrato respectivo.
+El Organismo realizará las siguientes funciones:
 
-TRIGESIMA.- Las dependencias y entidades sujetas deberán informar a la Dirección, por escrito, el monto de su reserva transitoria, para cada uno de los tratados de libre comercio, con base en valores estimados de los procedimientos de contratación que se esperan realizar, calculada conforme a la regla Vigesimanovena, a más tardar el 31 de marzo de cada año.
+I.- Promover y prestar servicios de Asistencia Social;
 
-Las dependencias y entidades sujetas deberán presentar dicho informe mediante el requisitado del formato RESE-6. Este formato se encuentra incluido en el Anexo (E) de este Acuerdo.
+II.- Apoyar el desarrollo de la familia y de la comunidad;
 
-TRIGESIMAPRIMERA.- Las dependencias y entidades sujetas con base en el cálculo de sus respectivas reservas, calculada conforme a la regla Vigesimanovena de este Acuerdo, determinarán la disponibilidad de su reserva transitoria para cada uno de los tratados de libre comercio.
+III.- Realizar acciones de apoyo educativo, para la integración social y de capacitación para el trabajo a los sujetos de la Asistencia Social;
 
-En caso de que no exista reserva disponible para uno o más tratados de libre comercio, los procedimientos de contratación con cargo a la reserva serán de carácter internacional, de conformidad con el Acuerdo por el que se establecen las reglas para la celebración de licitaciones públicas internacionales de conformidad con las reglas establecidas en los tratados de libre comercio.
+IV.- Promover e impulsar el sano crecimiento físico, mental y social de la niñez;
 
-Para estos efectos, las dependencias y entidades sujetas deberán mantener un registro del monto que se haya estimado, antes de la publicación de la convocatoria, para cada uno de los procedimientos de contratación realizados al amparo de su respectiva reserva.
+V.- Coordinar las funciones relacionadas con la Beneficencia Pública y la Asistencia Privada en el Estado, así como proponer programas de asistencia social que contribuyan al uso eficiente de los bienes que lo componen;
 
-TRIGESIMASEGUNDA.- Las dependencias y entidades sujetas reservarán hasta un monto equivalente a su reserva transitoria anual calculada conforme a la regla Vigesimanovena, para los contratos de obra pública a que se refiere el Anexo (D) de este Acuerdo que se estime igualen o superen el valor de los umbrales, a menos que, previa investigación de mercado en términos del artículo 30 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, se considere conveniente la realización de una licitación pública internacional, en cuyo caso se aplicarán las disposiciones de los tratados.
+VI.- Fomentar, apoyar, coordinar y evaluar las actividades que lleven a cabo las instituciones de asistencia o asociaciones civiles y todo tipo de entidades privadas cuyo objeto sea la prestación de servicios de asistencia social, sin perjuicio de las atribuciones que al efecto correspondan a otras dependencias;
 
-TRIGESIMATERCERA.- Cuando las dependencias y entidades sujetas, pretendan seguir un procedimiento de excepción a la licitación pública, en el que participen exclusivamente contratistas nacionales y se trate de operaciones de compra dentro del ámbito de aplicación de los tratados de libre comercio, al amparo de un supuesto contenido en las Leyes que no esté contemplado en alguna de las circunstancias para licitación restringida relacionadas en el artículo 1016, párrafo 2, del capítulo X del Tratado de Libre Comercio de América del Norte o en los artículos equivalentes sobre el tema en los demás tratados de libre comercio, sólo podrán hacerlo si lo realizan con cargo a su reserva transitoria disponible para todos los tratados.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
-TRIGESIMACUARTA.- No será necesario incluir en la reserva transitoria procedimientos que se realicen con base en alguno de los supuestos que, para licitación restringida, se establecen en los tratados de libre comercio. Estas circunstancias sólo podrán aplicarse si a su vez están previstas en los supuestos contenidos en las leyes.
+VII.- Operar centros y organizaciones de asistencia social;
 
-TRIGESIMAQUINTA.- En cualquier supuesto de invitación a cuando menos tres personas contenido en las leyes o de licitación restringida establecido en los tratados de libre comercio, las dependencias y entidades sujetas deberán observar lo dispuesto en el artículo 44 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas.
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
 
-TRIGESIMASEXTA.- Las dependencias y entidades sujetas deberán informar a la Dirección, por escrito, en los meses de enero y julio, sobre los contratos formalizados cubiertos por la reserva transitoria, acumulados en el año hasta el semestre inmediato anterior, indicando su número, monto respectivo y clasificación con base en el Catálogo. El informe contendrá los contratos formalizados que hayan sido convocados en el año que se reporta.
+VIII.- Llevar a cabo acciones en materia de prevención de la discapacidad y de rehabilitación de personas con discapacidad, en centros no hospitalarios, con sujeción a las disposiciones aplicables en materia de salud;
 
-El informe se deberá presentar mediante el requisitado de los formatos RESE-7. Este formato se encuentra incluido en el Anexo (E) de este Acuerdo.
+IX.- Realizar estudios e investigaciones sobre asistencia social, con la participación, en su caso, de las autoridades asistenciales del Gobierno del Estado y de los Municipios;
 
-En el caso de que, de acuerdo al requisitado del formato RESE-6, la dependencia o entidad sujeta determine que el monto calculado de su reserva transitoria de obra pública es cero, no estará obligada a presentar el reporte semestral del formato RESE-7.
+X.- Elaborar y proponer los reglamentos que se requieran en la materia, observando su estricto cumplimiento;
 
-## TRANSITORIOS
+XI.- Realizar y promover la capacitación de recursos humanos para la asistencia social;
 
-PRIMERO.- El presente Acuerdo entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+XII.- Operar el Sistema Estatal de Información Básica en Materia de Asistencia Social a que se refiere la fracción XIV del Artículo 13 de esta Ley;
 
-SEGUNDO.- Quedan derogadas a la entrada en vigor de este Acuerdo, las disposiciones contenidas en el Acuerdo por el que se dan a conocer las Reglas para la aplicación de las reservas de compras del sector público establecidas en el Tratado de Libre Comercio de América del Norte, y para la determinación del contenido nacional en los procedimientos de contratación de obras públicas, publicado en el Diario Oficial de la Federación el 6 de octubre de 2000, así como cualquier disposición que se oponga al mismo, excepto el capítulo IV de dicho Acuerdo, en lo que hace a las disposiciones que regulan la determinación del contenido nacional en los procedimientos de contratación de obras públicas, las cuales conservarán su vigencia en iguales términos.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
-TERCERO.- Las dependencias y entidades sujetas que se encuentren en proceso de liquidación o desincorporación les serán aplicables las reglas del presente Acuerdo hasta que no se finiquite dicho proceso.
+XIII.- Prestar servicios de asistencia jurídica, psicológica y de orientación social a menores, personas adultas mayores y personas con discapacidad, sin recursos;
 
-México, D.F., a 18 de febrero de 2003.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
+XIV.- (DEROGADA, P.O. 1 DE AGOSTO DE 2019)
 
-ANEXO (A)
+XV.- Poner a disposición del Ministerio Público los elementos a su alcance en la protección de incapaces y en los procedimientos civiles y familiares que les afecten, de acuerdo con las disposiciones legales correspondientes;
 
-LISTA DE BIENES Y SERVICIOS QUE DEBERAN SER CONSIDERADOS EN LA APLICACIÓN DE LAS RESERVAS DE LOS TRATADOS
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
 
-BIENES
+XVI.- Realizar estudios e investigaciones en materia de discapacidad;
 
-1. Aceites y lubricantes.
+XVII.- Participar en programas de rehabilitación y educación especial;
 
-2. Alimentos (incluye, entre otros: alimentos preparados, pan, enlatados, harinas y pastas).
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
 
-3. Aparatos y equipos electrónicos de audio y video.
+XVIII.- Proponer a las autoridades correspondientes la adaptación o readaptación del espacio urbano que fuere necesario para satisfacer los requerimientos de autonomía a las personas con discapacidad;
 
-4. Artículos de limpieza (incluye, entre otros: escobas, jabones, cubetas y desodorantes ambientales).
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE AGOSTO DE 2006)</small>
 
-5. Bicicletas y motocicletas.
+XIX.- Intervenir en la aplicación de las medidas, con excepción de la de internamiento, que se impongan a los adolescentes por las autoridades competentes previstas en la Ley de Justicia para Adolescentes; y
 
-6. Blancos (incluye, entre otros: sábanas, manteles y colchas).
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], P.O. 1 DE AGOSTO DE 2006)</small>
 
-7. Calzado (incluye, entre otros: calzado deportivo, de uso industrial o especial).
+XX.- Las demás que establezcan las disposiciones legales aplicables.
 
-8. Consumibles para equipo de cómputo (incluye, entre otros: discos magnéticos, cintas para impresora y formas continuas).
+###### ARTICULO 19.
 
-9. Documentos oficiales de identificación vehicular (placas metálicas, calcomanías, hologramas, tarjetas de circulación, licencias de conductor, formatos de permisos y certificados de verificación vehicular).
+En casos de desastre, como inundaciones, terremotos, derrumbes, explociones (sic), incendios y otros de la naturaleza por los que se causen daños a la población, el Organismo, sin perjuicio de las atribuciones que en auxilio de los damnificados lleven a cabo otras dependencias y entidades de la Administración Pública Federal, Estatal o Municipal, promoverá la atención y coordinación de las acciones de los distintos sectores sociales que actúen en beneficio de aquellos, en el ámbito de su competencia.
 
-10. Equipo de cómputo, sus periféricos, partes y accesorios.
+###### ARTICULO 20.
 
-11. Equipo de grabación.
+En la prestación de servicios y en la realización de acciones, el Organismo actuará en coordinación con las dependencias y entidades del Gobierno del Estado y de los Municipios, según la competencia que a éstas otorguen las Leyes.
 
-12. Equipo de impresión, duplicación y encuadernación.
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
 
-13. Equipo de laboratorio.
+El Organismo promoverá el establecimiento de centros y servicios de rehabilitación somática, psicológica social y ocupacional, para las personas que sufran cualquier tipo de discapacidad, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y otras ayudas funcionales.
 
-14. Equipo marino y embarcaciones diversas.
+El Organismo observará una vinculación sistemática entre los servicios de rehabilitación y asistencia social que preste y los que proporcionen otros establecimientos del Sector Salud y de los sectores social y privado.
 
-15. Equipo y artículos deportivos.
+###### ARTICULO 21.
 
-16. Equipos de comunicaciones eléctricas (telecomunicaciones).
+El patrimonio del organismo se integrará con:
 
-17. Equipos y aparatos de electrónica industrial y científica.
+I.- Los derechos y bienes muebles e inmuebles que sean de su dominio y que adquieran en el futuro;
 
-18. Juguetes.
+II.- Los subsidios, subvenciones aportaciones, bienes y demás ingresos que las dependencias y entidades del Gobierno Federal y Estatal le otorguen;
 
-19. Leche (no incluye las compras realizadas bajo los supuestos señalados en los incisos b.1) y b.2) de la Regla Cuarta de este Acuerdo).
+III.- Las aportaciones, donaciones, legados y demás liberalidades que reciba de personas físicas o morales;
 
-20. Libros, mapas y otras publicaciones (no incluye dibujos y especificaciones adquiridas por SEDEMAR y SEDENA).
+IV.- Los rendimientos, recuperaciones, bienes, derechos y demás ingresos que le generen sus inversiones, bienes y operaciones;
 
-21. Luces para señalización.
+V.- Las concesiones, permisos, licencias y autorizaciones que se le otorguen conforme a la Ley; y
 
-22. Maíz industrializado (no incluye las compras realizadas bajo los supuestos señalados en los incisos b.1) y b.2) de la Regla Cuarta de este Acuerdo).
+VI.- En general, los demás bienes, derechos e ingresos que obtenga por cualquier título.
 
-23. Manufacturas eléctricas (incluye, entre otros: motores y generadores eléctricos y sistemas de energía eléctrica ininterrumpibles).
+###### ARTICULO 22.
 
-24. Manufacturas metálicas (incluye, entre otras: herramientas de mano, utensilios de cocina y cerraduras).
+Para el estudio, planificación y despacho de los asuntos que le competen, el Organismo contará con los siguientes órganos superiores:
 
-25. Maquinaria y equipo metal mecánico.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
-26. Máquinas y equipos electrónicos para oficina y comercio.
+I.- Consejo Consultivo;
 
-27. Material de construcción.
+II.- Junta de Gobierno; y
 
-28. Material didáctico.
+III.- Dirección General.
 
-29. Microscopios (incluye, entre otros: microscopios de ginecología y colposcopios).
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
 
-30. Mobiliario y equipo escolar y de oficina.
+El control y vigilancia del Organismo estará a cargo del órgano interno de control.
 
-31. Muebles de hospital.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
 
-32. Papel (incluye, entre otros: papel bond y papel para uso en instrumentos de registro).
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
 
-33. Papelería y accesorios de oficina.
+###### ARTICULO 23.
 
-34. Petardos para señalización.
+El Consejo Consultivo estará integrado por cinco personas con experiencia en salud pública, asistencia social, atención de personas en situación de vulnerabilidad, programas sociales, combate a la pobreza o promoción y defensa de derechos humanos. Los consejeros serán designados y removidos libremente por el Gobernador del Estado, uno de los cuales tendrá el carácter de Presidente y los cuatro restantes serán vocales.
 
-35. Prendas de vestir (incluye, entre otros: uniformes, ropa deportiva, de uso industrial o especial).
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
 
-36. Productos auxiliares para la salud, equipo médico y medicamentos no patentados en los Estados Unidos Mexicanos (México)1.
+Los consejeros no recibirán retribución, emolumento o compensación alguna y se seleccionarán de entre los sectores público, social y privado.
 
-37. Productos de hule y plástico.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
 
-38. Productos químicos (incluye, entre otros: pinturas, tintas, resinas y solventes).
+El Director General del Organismo representará a la Junta de Gobierno ante el Consejo Consultivo.
 
-39. Programas de aplicación (software).
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
 
-40. Recipientes y materiales de embalaje (incluye, entre otros: sacos, cajas de madera y envases de papel y de cartón).
+En los municipios, los integrantes de los órganos consultivos de los sistemas municipales para el desarrollo integral de la familia no recibirán retribución, emolumento o compensación alguna y se seleccionarán de entre los sectores público, social y privado.
 
-41. Refacciones industriales (incluye, entre otros: válvulas, chumaceras, engranes y flechas).
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
-42. Señalizaciones para carreteras.
+El Director General será nombrado por el Presidente Municipal.
 
-43. Tractores agrícolas.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
 
-1 De conformidad con el Anexo 1001.2a, numeral 6, del Tratado de Libre Comercio con América del Norte, desde el 1 de enero de 2002, las compras efectuadas por la Secretaría de Salud, el Instituto Mexicano del Seguro Social, el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, la Secretaría de Defensa y la Secretaría de Marina, para la adquisición de medicamentos no patentados en los Estados Unidos Mexicanos, o cuya patente haya expirado, quedan comprendidas bajo la cobertura de dicho tratado.
+###### ARTICULO 24.
 
-SERVICIOS
+El Consejo Consultivo tendrá las siguientes facultades:
 
-1. De arquitectura e ingeniería.
+I.- Emitir opinión y recomendaciones sobre los planes de labores, presupuestos, informes y estados financieros anuales del Organismo;
 
-2. De bienes raíces.
+II.- Apoyar las actividades del Organismo y formular sugerencias tendientes a su mejor desempeño;
 
-3. De consultoría.
+III.- Contribuir a la obtención de recursos que permitan el incremento del patrimonio del Organismo y el cumplimiento de sus objetivos;
 
-4. De ingeniería mecánica, eléctrica, química y electrónica.
+IV.- Designar a su Presidente y al Secretario de Sesiones; y
 
-5. De mantenimiento, reparación, modificación, reconstrucción e instalación de equipo.
+V.- Las demás que sean necesarias para el ejercicio de las facultades anteriores.
 
-6. De mantenimiento y operación de instalaciones.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
 
-7. De mantenimiento de equipo de cómputo.
+###### ARTICULO 25.
 
-8. De computación y procesamiento y captura de datos.
+El Consejo Consultivo celebrará cuatro sesiones ordinarias al año y las extraordinarias que se requieran de conformidad con el reglamento respectivo.
 
-9. Estudios de apoyo administrativo.
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
 
-10. Estudios de ingeniería.
+###### ARTICULO 26.
 
-11. Estudios económicos.
+La Junta de Gobierno estará integrada por:
 
-12. Estudios geotécnicos.
+I.- El Titular de la Secretaría de Salud;
 
-13. Relacionados con la construcción.
+II.- El Titular de la Secretaría de Desarrollo Social y Humano;
 
-14. Relacionados con la tributación (excluyendo los servicios legales).
+III.- El Titular de la Secretaría de Educación;
 
-15. Tratamiento y envasado de leche.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
-ANEXO (B)
+IV.- El Titular de la Secretaría de la Transparencia y Rendición de Cuentas;
 
-LISTA DE BIENES QUE DEBERAN SER CONSIDERADOS EN LA APLICACION DE LAS RESERVAS DE PEMEX Y CFE
+V.- (DEROGADA, P.O. 1 DE AGOSTO DE 2019)
 
-Prioridad 1
+VI.- El Director General del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato.
 
-1. Cabezales; árboles de válvulas; válvulas y actuadores; preventores.
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
-2. Carbón mineral.
+VII.- El Titular de la Secretaría del Migrante y Enlace Internacional;
 
-3. Equipos de perforación petrolera terrestre, sus partes y componentes.
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
-4. Plataformas marinas, sus partes y componentes.
+VIII.- El Titular del Instituto Guanajuatense para las Personas con Discapacidad;
 
-5. Torres para líneas de transmisión; amortiguadores; herrajes; aisladores eléctricos.
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
-6. Transformadores y reguladores de potencia; autotransformadores; transformadores de distribución, subestaciones móviles y encapsuladas.
+IX.- El Titular del Instituto para las Mujeres Guanajuatenses;
 
-7. Tubería de acero con y sin costura; tubería de acero inoxidable con costura; sus accesorios, bridas y conexiones.
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
-Prioridad 2
+X.- El Titular del Instituto de la Juventud Guanajuatense;
 
-1. Calderas y generadores de vapor, de agua sobrecalentada y para calefacción; sus partes y aparatos auxiliares.
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
-2. Conductores eléctricos.
+XI.- El Titular del Instituto Estatal de Capacitación;
 
-3. Equipos de bombeo; bombas volumétricas alternativas y centrífugas; sus partes y componentes.
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
-4. Intercambiadores de calor; condensadores; reactores y columnas de proceso; recipientes a presión; plantas endulzadoras y acondicionadoras de gas; torres de enfriamiento.
+XII.- El Titular de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato; y
 
-5. Watthorímetros.
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
-Prioridad 3
+XIII.- El Titular de la Secretaría Ejecutiva del Sistema de Protección de los derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato.
 
-1. Aparatos para mezclar; agitadores y aereadores.
+Los miembros de la Junta de Gobierno serán suplidos por los Representantes que al efecto designen cada uno de los miembros propietarios de la misma.
 
-2. Bancos de capacitores.
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
 
-3. Cables de fibra óptica.
+La Junta de Gobierno contará con una secretaría técnica, designada por la misma, a propuesta del Director General del Organismo.
 
-4. Compresores; moto y turbocompresores; bombas de aire o de vacío.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
-5. Depósitos; cisternas; recipientes.
+Los integrantes de la Junta de Gobierno tendrán derecho a voz y voto, con excepción del titular de la Secretaría de Transparencia y Rendición de Cuentas, quien sólo tendrá derecho a voz.
 
-6. Equipo de cómputo e informática.
+###### ARTICULO 27.
 
-7. Equipo de destilación y desalación para el sector energético.
+La Junta de Gobierno tendrá las siguientes facultades:
 
-8. Equipos y aparatos electrónicos de audio y video.
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
 
-9. Equipos y aparatos para comunicaciones eléctricas (telecomunicaciones).
+I.- Autorizar al Director General, para ejercer actos de dominio;
 
-10. Evaporadoras; secadoras; deshidratadoras.
+II.- Aprobar los planes de labores, presupuestos, informes de actividades y estados financieros anuales;
 
-11. Fusibles; listón fusible; limitadores de corriente; apartarrayos; disyuntores; interruptores; cuchillas desconectadoras; seccionadores; cortacircuitos; conectores; relevadores.
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
 
-12. Hornos; calentadores; quemadores.
+III.- Aprobar los reglamentos y disposiciones administrativas de observancia general que le presente para tal efecto el Director General;
 
-13. Máquinas y equipos electrónicos para oficina y comercio.
+IV.- Designar y remover, a propuesta del Director General del Organismo, a los servidores públicos superiores;
 
-14. Motores y generadores eléctricos.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
-15. Reductores, multiplicadores y variadores de velocidad.
+V.- Conocer los informes, dictámenes y recomendaciones del órgano interno de control, y de los auditores externos, en caso de que se considere necesaria su contratación;
 
-16. Tableros y equipos de control.
+VI.- Aprobar la aceptación de herencias, legados, donaciones y demás liberalidades que se hagan a favor del Organismo;
 
-17. Turbinas de vapor e hidráulicas inferiores a 40,000 HP.
+VII.- Estudiar y aprobar los proyectos de la inversión;
 
-Prioridad 4
+VIII.- Conocer y aprobar los Convenios de Coordinación que hayan de celebrarse con dependencias y entidades públicas y privadas;
 
-1. Aparatos electrónicos accionados por fichas o monedas.
+IX.- Determinar la integración de Comités Técnicos y grupos de trabajo temporales;
 
-2. Aspiradoras industriales.
+X.- Aprobar los programas de mediano plazo a que quedarán sujetos los servicios de asistencia social que preste el Organismo, en base a los programas sectoriales y prioridades presupuestales a que esté sujeto; y
 
-3. Enceradoras o pulidoras industriales.
+XI.- Las demás que sean necesarias para el ejercicio de las facultades anteriores.
 
-4. Equipo de grabación.
+###### ARTICULO 28.
 
-5. Equipo para tratamiento de agua y efluentes.
+La Junta de Gobierno podrá integrar los Comités Técnicos necesarios para el estudio y propuesta de mecanismos que aseguren la coordinación interinstitucional en la atención de las tareas asistenciales y para elevar las propuestas que estimen necesarias a la Junta. Estos comités estarán formados por los representantes que al efecto designen las dependencias y entidades competentes.
 
-6. Equipos de limpieza para toma de agua de alimentación o enfriamiento de calderas (rejillas).
+###### ARTICULO 29.
 
-7. Equipos y aparatos de electrónica industrial y científica.
+La Junta de Gobierno celebrará sesiones ordinarias trimestrales y las extraordinarias que se requieran de conformidad con el Reglamento respectivo.
 
-8. Excavadoras; carros para mover materiales; motoconformadoras.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2009)</small>
 
-9. Extintores y sistemas contra incendio.
+###### ARTICULO 30.
 
-10. Grúas puente y de pórtico; grúas en camiones menores a 30 toneladas.
+Para ser Director General del Organismo se requiere ser ciudadano mexicano por nacimiento, tener 30 años de edad como mínimo y contar con experiencia en materia administrativa y de asistencia social.
 
-11. Grupos motor-generador; sistemas de energía eléctrica ininterrumpibles; bancos y cargadores de batería; restauradores.
+El Gobernador del Estado designará y removerá libremente al Director General.
 
-12. Partes y componentes de circuitos electrónicos.
+###### ARTICULO 31.
 
-13. Plantas de refrigeración.
+El Director General tendrá las siguientes atribuciones:
 
-14. Postes de madera.
+I.- Ejecutar los acuerdos y disposiciones de la Junta de Gobierno;
 
-15. Registradores de nivel, manómetros y controladores de presión.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
-16. Separadores centrífugos; filtros de presión, vacío, mecánicos y electrostáticos.
+II.- Presentar a la Junta de Gobierno los informes y estados financieros bimestrales, acompañados de los comentarios que estime pertinentes a los reportes, informes y recomendaciones que al efecto formulen el órgano interno de control y el auditor externo, en su caso;
 
-17. Transformadores de potencial y de corriente.
+III.- Presentar al conocimiento y aprobación de la Junta de Gobierno, los planes de labores, presupuestos, informes de actividades y estados financieros anuales del Organismo;
 
-Prioridad 5
+IV.- Proponer a la Junta de Gobierno la designación y remoción de los servidores públicos superiores, así como designar y remover libremente a los demás servidores públicos del Organismo;
 
-1. Abarrotes y artículos alimenticios.
+V.- Expedir o autorizar la expedición de nombramientos del personal y llevar las relaciones laborales de acuerdo con las disposiciones legales;
 
-2. Accesorios para cuerdas, cables y cadenas.
+VI.- Planear, dirigir y controlar el funcionamiento del Organismo con sujeción a las instrucciones de la Junta de Gobierno;
 
-3. Artículos de oficina.
+VII.- Celebrar los convenios, contratos y actos jurídicos que sean indispensables para el cumplimiento de los objetivos del Organismo;
 
-4. Barras y varillas de fierro y acero.
+VIII.- (DEROGADA, P.O. 21 DE AGOSTO DE 2009)
 
-5. Carros de ferrocarril.
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
 
-6. Cepillos, escobas, mops y esponjas.
+IX.- Representar jurídicamente al Organismo como apoderado general para pleitos y cobranzas, con facultades de administración y aquéllas que requieran cláusula especial de acuerdo con la Ley y delegar o sustituir esta representación en uno o más apoderados para que las ejerzan individual o conjuntamente; así como para ejercer actos de dominio, con autorización expresa de la Junta de Gobierno;
 
-7. Ceras, aceites y grasas varias.
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 1994)</small>
 
-8. Componentes para baterías y alineadores.
+X.- Formular los proyectos de Reglamentos Interiores del Organismo y someterlos, para su aprobación, a la Junta de Gobierno; y
 
-9. Conjuntos y juegos de herramienta de mano.
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
 
-10. Contenedores, materiales y suministro de empaques.
+XI.- Autorizar constancias y certificar copias de los documentos originales que obran en los archivos del Organismo; y
 
-11. Dibujos y especificaciones.
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2009)</small>
 
-12. Envases.
+XII.- Las demás que sean necesarias para el ejercicio de las anteriores.
 
-13. Equipo de aire acondicionado.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
 
-14. Equipo de construcción y mantenimiento ferroviario.
+###### ARTICULO 32.
 
-15. Equipo especial de calentamiento y calentadores de agua domésticos.
+El órgano interno de control es la unidad administrativa responsable de controlar, vigilar, fiscalizar y evaluar el uso correcto de los recursos materiales y financieros del Organismo, con el fin de determinar su correcto desempeño.
 
-16. Equipo de laboratorio (suministro).
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
 
-17. Equipo de reparación de taller especializado.
+###### ARTICULO 33.
 
-18. Formas estructurales en hierro y acero.
+El órgano interno de control tendrá las siguientes atribuciones:
 
-19. Gases: comprimido y líquido.
+I.- Inspeccionar el ejercicio del gasto público del Organismo y su congruencia con el presupuesto de egresos y validar los indicadores para la evaluación del funcionamiento y operación del Organismo, en los términos de las disposiciones aplicables;
 
-20. Llantas, cámaras y accesorios (excepto para aéreos).
+II.- Proponer las normas que regulen los instrumentos y procedimientos de control interno del Organismo. Lo anterior, sin menoscabo de las bases y principios de coordinación y recomendaciones emitidas por el Comité Coordinador del Sistema Estatal Anticorrupción;
 
-21. Mangueras, conexiones y tubos especiales.
+III.- Establecer las bases generales para la realización de auditorías internas y externas; así como proponer las normas que regulen los instrumentos y procedimientos en dichas materias;
 
-22. Mangueras y tubería flexible.
+IV.- Realizar auditorías, revisiones y evaluaciones, con el objeto de examinar, fiscalizar y promover la eficiencia y legalidad en su gestión y encargo;
 
-23. Materiales de cirugía.
+V.- Fiscalizar que el Organismo cumpla con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y remuneraciones de personal, contratación de adquisiciones, arrendamientos, arrendamiento financiero, servicios y ejecución de obra pública, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales;
 
-24. Materiales de construcción y edificación.
+VI.- Designar y remover a los titulares de las áreas a su cargo, quienes tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los tribunales estatales, representando al titular del Organismo;
 
-25. Materiales minerales para la construcción.
+VII.- Llevar y normar el registro de servidores públicos del Organismo; recibir y registrar las declaraciones patrimoniales y de intereses, así como la constancia de declaración fiscal que deban presentar; y verificar su contenido mediante las investigaciones que resulten pertinentes de acuerdo con las disposiciones aplicables. También registrará la información sobre las sanciones administrativas que, en su caso, hayan sido impuestas;
 
-26. Mobiliario de casa.
+VIII.- Atender las quejas e inconformidades que presenten los particulares con motivo de convenios o contratos que celebren con el Organismo, salvo los casos en que otras leyes establezcan procedimientos de impugnación diferentes;
 
-27. Muebles para oficina.
+IX.- Establecer y conducir la política general de las contrataciones públicas reguladas por la Ley de Contrataciones Públicas para el Estado de Guanajuato y la Ley de Obra Pública y Servicios relacionados con la misma para el Estado y los Municipios de Guanajuato, propiciando las mejores condiciones de contratación conforme a los principios de eficiencia, eficacia, economía, transparencia, imparcialidad y honradez; así como emitir los lineamientos, manuales, procedimientos y demás instrumentos análogos que se requieran en materia de dichas contrataciones públicas;
 
-28. Pernos.
+X.- Definir la política de gestión digital y datos abiertos en el ámbito del Organismo;
 
-29. Pinturas, barnices y solventes.
+XI.- Ejercer las facultades que la Constitución le otorga a los órganos internos de control para revisar, mediante las auditorías a que se refiere el presente artículo, el ingreso, manejo, custodia y ejercicio de recursos públicos; y
 
-30. Productos farmacéuticos, auxiliares para la salud y equipo médico (no incluye compras de fármacos y medicamentos patentados en México).
+XII.- Conocer e investigar las conductas de los servidores públicos del Organismo que puedan constituir responsabilidades administrativas, así como substanciar los procedimientos correspondientes conforme a lo establecido en la ley de responsabilidades aplicable, así como realizar la defensa jurídica de sus resoluciones; para lo cual podrán aplicar las sanciones que correspondan en los casos que no sean de la competencia del Tribunal de Justicia Administrativa y cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante ese Tribunal; así como presentar las denuncias correspondientes ante la Fiscalía Especializada en Combate a la Corrupción y ante otras autoridades competentes, en términos de las disposiciones aplicables.
 
-31. Refacciones y accesorios para maquinaria.
+###### ARTICULO 34.
 
-32. Remolques.
+El Organismo recomendará y promoverá el establecimiento de organismos similares en los Municipios, a los cuales prestará apoyo y colaboración técnica y administrativa en materia de asistencia social.
 
-33. Sistemas y componentes de iluminación.
+###### ARTICULO 35.
 
-34. Sustancias para limpieza y pulido.
+El Gobierno del Estado y el Organismo, conforme a sus respectivos ámbitos de competencia, promoverán que las dependencias y entidades del Estado y de los Municipios destinen los recursos necesarios a los programas en materia de asistencia social.
 
-35. Sustancias químicas.
+###### ARTICULO 36.
 
-36. Tractores.
+El Organismo emitirá opinión sobre el otorgamiento de subsidios a instituciones públicas o privadas que actúen en el campo de la asistencia social.
 
-37. Vestuario de protección.
+###### ARTICULO 37.
 
-Prioridad 6
+Las relaciones de trabajo entre el Organismo y sus trabajadores se sujetarán a la "Ley del Trabajo de los Servidores Públicos al Servicio del Estado y de los Municipios".
 
-Resto de bienes.
+###### ARTICULO 38.
 
-ANEXO (C)
+Los trabajadores del Organismo estarán incorporados al régimen de Seguridad Social que corresponda a los trabajadores al servicio del Gobierno del Estado.
 
-LISTA DE SERVICIOS Y OBRAS PUBLICAS QUE DEBERAN SER CONSIDERADOS EN LA APLICACION DE LAS RESERVAS DE PEMEX Y CFE
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE AGOSTO DE 2019)</small>
 
-Prioridad 1
+### CAPITULO TERCERO. De la Procuración en Materia de Asistencia Social
 
-Servicios
+###### ARTICULO 39.
 
-1. De consultoría.
+(DEROGADO, P.O. 1 DE AGOSTO DE 2019)
 
-2. Relacionados con la construcción.
+###### ARTICULO 40.
 
-3. Perforación de pozos petroleros.
+(DEROGADO, P.O. 1 DE AGOSTO DE 2019)
 
-Obras públicas
+###### ARTICULO 41.
 
-1. Construcción para edificios.
+(DEROGADO, P.O. 1 DE AGOSTO DE 2019)
 
-2. Trabajos de ingeniería civil.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
 
-2.1 De vías férreas y pistas de aterrizaje.
+###### ARTICULO 42.
 
-2.2 De puentes, carreteras elevadas, túneles y tren subterráneo.
+En materia de asistencia social, el Organismo, por conducto de la unidad administrativa que se determine en su reglamento interior, tendrá las siguientes atribuciones:
 
-2.3 De puertos, presas y otros trabajos hidráulicos.
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
-2.4 De tendido de tubería de larga distancia, de líneas de comunicaciones y de líneas eléctricas de transmisión y distribución.
+I. Otorgar la asistencia jurídica que soliciten las personas a que se refiere el artículo 4 de esta ley; de conformidad con la legislación aplicable y en los términos del reglamento interior;
 
-2.5 De construcciones para minería.
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
-2.6 De obras de ingeniería no clasificada en otra parte:
+II. Dar seguimiento a las asesorías y orientaciones jurídicas para evaluar resultados e incrementar la eficiencia del servicio;
 
-2.6.1. Construcción de plataformas marítimas.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
-2.6.2. Plantas petroquímicas.
+III. Atender con oportunidad y eficacia los juicios en los cuales tengan la representación del interés jurídico de las personas a que se refiere el artículo 4 de esta Ley, con excepción de las referidas en las fracciones I, II y III;
 
-2.6.3. Refinerías.
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
-2.6.4. Subestaciones eléctricas.
+IV. Recibir, investigar y atender, o en su caso, canalizar ante las autoridades competentes las quejas y denuncias de la ciudadanía en materia de asistencia social;
 
-2.6.5. Plantas generadoras de electricidad y sus instalaciones (hidroeléctricas, carboeléctricas, termoeléctricas, etc.).
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
-Prioridad 2
+V. Promover la participación y responsabilidad de la sociedad en la formulación y aplicación de la política y de las acciones en materia de asistencia social;
 
-Servicios
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
-1. Relacionados con la tributación (excluyendo los servicios legales).
+VI. Coadyuvar con las autoridades federales, estatales o municipales, en el ámbito de su competencia, respecto de los programas de asistencia jurídica en favor de los beneficiarios de la asistencia social;
 
-2. De computación y conexos.
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
-3. De bienes raíces.
+VII. Resolver sobre las consultas planteadas por la ciudadanía, en asuntos de su competencia;
 
-Prioridad 3
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
-Resto de servicios y obras públicas.
+VIII. Promover y procurar, cuando esto sea posible, la conciliación de intereses entre particulares y en sus relaciones con las autoridades, en asuntos que de acuerdo con esta ley le competan;
 
-ANEXO (D)
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
-LISTA DE OBRAS PUBLICAS QUE DEBERAN SER CONSIDERADAS EN LA APLICACION DE LA RESERVA TRANSITORIA DE LAS DEPENDENCIAS Y ENTIDADES SUJETAS, CON EXCEPCION DE PEMEX Y CFE
+IX. Denunciar ante el Ministerio Público los actos, omisiones o hechos ilícitos que impliquen la comisión de delitos de los que tenga conocimiento en el cumplimiento de sus funciones, así como coadyuvar y representar, en su caso, los intereses de las personas presuntas víctimas de los delitos;
 
-1. Obras de pre-edificación en los terrenos de construcción.
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
-1.1 Obra de investigación de campo.
+X. Denunciar ante la Procuraduría de los Derechos Humanos del Estado de Guanajuato, los actos, omisiones o hechos que pudieran significar violación a los derechos humanos de las personas tuteladas por esta ley y de los cuales tengan conocimiento;
 
-1.2 Obra de demolición.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
-1.3 Obra de limpieza y preparación de terreno.
+XI. Coadyuvar, en los términos que se convenga, con la Coordinación de Atención a Víctimas y Ofendidos del Delito de la Fiscalía General del Estado de Guanajuato, para eficientar el servicio respecto de las personas beneficiarias de la asistencia social, que requieran del mismo; y
 
-1.4 Obra de excavación y remoción de tierra.
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
-1.5 Obra de preparación de terreno para la minería (excepto para la extracción de petróleo y gas).
+XII. Las demás que le otorgue el reglamento interior y otras disposiciones jurídicas aplicables.
 
-1.6 Obra de andamiaje.
+###### ARTICULO 43.
 
-2. Obras de construcción para edificios.
+(DEROGADO, P.O. 1 DE AGOSTO DE 2019)
 
-2.1 De una y dos viviendas.
+###### ARTICULO 44.
 
-2.2 De múltiples viviendas.
+(DEROGADO, P.O. 1 DE AGOSTO DE 2019)
 
-2.3 De almacenes y edificios industriales.
+###### ARTICULO 45.
 
-2.4 De edificios comerciales.
+(DEROGADO, P.O. 1 DE AGOSTO DE 2019)
 
-2.5 De edificios de entretenimiento público.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE AGOSTO DE 2019)</small>
 
-2.6 De hoteles, restaurantes y edificios similares.
+### CAPITULO CUARTO. Del Fortalecimiento Familiar
 
-2.7 De edificios educativos.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
 
-2.8 De edificios de salud.
+###### ARTICULO 46.
 
-2.9 De otros edificios.
+Con el objeto de contribuir al establecimiento de bases sólidas para el desarrollo integral de la familia, el Organismo debe implementar programas interinstitucionales de fortalecimiento familiar.
 
-3. Trabajos de construcción de ingeniería civil.
+###### ARTICULO 47.
 
-3.1 De carreteras (excepto carreteras elevadas), calles, caminos, vías férreas y pistas de aterrizaje.
+(DEROGADO, P.O. 1 DE AGOSTO DE 2019)
 
-3.2 De puentes, carreteras elevadas, túneles, tren subterráneo y vías férreas.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
 
-3.3 De canales, puertos, presas y otros trabajos hidráulicos.
+###### ARTICULO 48.
 
-3.4 De tendido de tuberías de larga distancia, de líneas de comunicación y de líneas de electricidad (cableado).
+Los programas de fortalecimiento familiar tendrán, entre otros, los objetivos siguientes:
 
-3.5 De tuberías locales y cableado, trabajos auxiliares.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1994)</small>
 
-3.6 De construcciones para minería.
+I.- Procurar el bienestar familiar, en una relación de respeto y convivencia mutua;
 
-3.7 De construcciones deportivas y recreativas.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1994)</small>
 
-3.8 Servicios de dragado.
+II.- Promover la comunicación constante dentro del núcleo familiar;
 
-3.9 De obra de ingeniería no clasificada en otra parte.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1994)</small>
 
-4. Ensamble y edificación de construcciones prefabricadas.
+III.- Sensibilizar al padre y a la madre, o a quienes ejerzan la patria potestad o tengan la custodia, respecto de la función educativa para los hijos y menores a su cargo;
 
-5. Obras de construcción especializada para el comercio.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1994)</small>
 
-5.1 Obra de edificación incluyendo la instalación de pilotes.
+IV.- Contribuir a la integración conyugal, a través de la información y la educación;
 
-5.2 Perforación de pozos de agua.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1994)</small>
 
-5.3 Techado e impermeabilización.
+V.- Fomentar la paternidad y la maternidad responsable;
 
-5.4 Obra de concreto.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1994)</small>
 
-5.5 Doblaje y edificación de acero, incluyendo soldadura.
+VI.- Asesorar a los padres de familia para atender problemas de alcoholismo, drogadicción y otros semejantes, que atenten contra la integridad de la familia tanto de alguno de los cónyuges como de los hijos; y
 
-5.6 Obra de albañilería.
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
 
-5.7 Otras obras de construcción especializada para el comercio.
+VII.- En general, brindar la atención a todas las familias a través de programas interinstitucionales de atención.
 
-6. Obras de instalación.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
 
-6.1 Obra de calefacción, ventilación y aire acondicionado.
+###### ARTICULO 49.
 
-6.2 Obra de plomería hidráulica y de tendido de drenaje.
+Los programas de fortalecimiento familiar se sujetarán a las reglas de operación que para tal efecto expida la Junta de Gobierno.
 
-6.3 Obra para la construcción de conexiones de gas.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
 
-6.4 Obra eléctrica.
+###### ARTICULO 50.
 
-6.5 Obra de aislamiento (cableado eléctrico, agua, calefacción, sonido).
+El Organismo podrá coordinarse con los sistemas para el desarrollo integral de la familia de los municipios, para la implementación de los programas de fortalecimiento familiar.
 
-6.6 Obra de construcción de enrejados y pasamanos.
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE JUNIO DE 1994)</small>
 
-6.7 Otras obras de instalación.
+### CAPITULO QUINTO. De la Coordinación, Concertación e Inducción
 
-7. Obras de terminación y acabados de edificios.
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1994)</small>
 
-7.1 Obra de sellado e instalación de ventanas de vidrio.
+###### ARTICULO 51.
 
-7.2 Obra de enyesado.
+Con el propósito de asegurar la adecuada coordinación de acciones en el ámbito de la prestación de los servicios en materia de asistencia social y con el objeto de favorecer prioritariamente a los grupos sociales más desprotegidos, el Gobierno del Estado, con la participación del Organismo, celebrará convenios o acuerdos dentro del marco del Convenio Unico de Desarrollo para la Coordinación de Acciones a Nivel Estatal o Municipal, con las Entidades y Dependencias de la Administración Pública Federal, en los términos de la Ley de Planeación y de la Ley General de Salud.
 
-7.3 Obra de pintado.
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1994)</small>
 
-7.4 Obra de embaldosado de pisos y colocación de azulejos en paredes.
+###### ARTICULO 52.
 
-7.5 Otras obras de colocación de pisos, cobertura de paredes y tapizado de paredes.
+Con el objeto de ampliar la cobertura y la calidad de los servicios en materia de asistencia social a nivel estatal y municipal, el Gobierno del Estado a través del Organismo, promoverá la celebración de convenios entre éste y los Gobiernos Municipales a fin de:
 
-7.6 Obra en madera o metal y carpintería.
+I.- Establecer programas conjuntos;
 
-7.7 Obra de decoración interior.
+II.- Promover la conjunción de dos niveles de gobierno en la aportación de recursos financieros;
 
-7.8 Obra de ornamentación.
+III.- Distribuir y coordinar acciones entre las partes de manera proporcional y equitativa;
 
-7.9 Otras obras de terminación y acabados de edificios.
+IV.- Coordinar y proponer programas para el establecimiento y apoyo de la Beneficencia Pública y la Asistencia Privada, Estatal y Municipal; y
 
-8. Servicios de alquiler relacionados con equipo para construcción o demolición de edificios u obras de ingeniería civil, con operador.
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
 
-ANEXO (E)
+V.- Fortalecer el patrimonio de los sistemas para el desarrollo integral de la familia de los municipios.
 
-RELACION DE FORMATOS PARA ENTREGA DE LA INFORMACION REQUERIDA A QUE SE REFIEREN EN EL PRESENTE ACUERDO LAS REGLAS QUE SE INDICAN A CONTINUACION:
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1994)</small>
 
-(VEASE ARCHIVO ANEXO)
+###### ARTICULO 53.
+
+El Organismo promoverá ante los Gobiernos Municipales, el establecimiento de mecanismos idóneos que permitan una interrelación sistemática a fin de conocer las demandas de servicios en materia de asistencia social, para los grupos sociales desprotegidos y coordinar su oportuna atención.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1994)</small>
+
+###### ARTICULO 54.
+
+El Organismo celebrará convenios o contratos para la concertación de acciones de asistencia social con los sectores social y privado con objeto de coordinar su participación en la concertación de acciones de asistencia social que coadyuven a la realización de los objetivos a que se refiere esta Ley.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1994)</small>
+
+###### ARTICULO 55.
+
+El Organismo, con la participación de las dependencias y entidades estatales que correspondan, propiciará que la concertación de acciones en materia de asistencia social con los sectores social y privado a que se refiere al artículo anterior, se lleve a cabo mediante la celebración de convenios o contratos que en todo caso deberán ajustarse a las siguientes bases:
+
+I.- Definición de las responsabilidades que asuman los integrantes de los sectores social y privado;
+
+II.- Determinación de las acciones de orientación, estímulo y apoyo que llevará a cabo el Gobierno del Estado, por conducto del Organismo;
+
+III.- Fijación del objeto, materia y alcances jurídicos de los compromisos que asuman las partes con reserva de las funciones de autoridad que competan al Gobierno del Estado; y
+
+IV.- Expresión de las demás estipulaciones que de común acuerdo establezcan las partes.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1994)</small>
+
+###### ARTICULO 56.
+
+El Organismo, con el objeto de ampliar la cobertura de los servicios de asistencia social, fincados en la solidaridad ciudadana, promoverá en toda la Entidad, la creación de instituciones de asistencia privada, fundaciones, asociaciones civiles y otras similares, las que, con sus propios recursos o con liberalidades de cualquier naturaleza que aporte la sociedad en general, presten dichos servicios con sujeción a los ordenamientos que las rijan.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
+
+El Organismo supervisará la aplicación y difundirá las normas oficiales mexicanas que dichas instituciones deberán observar en la prestación de los servicios en materia de asistencia social, prestándoles la asesoría técnica necesaria y los apoyos conducentes.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1994)</small>
+
+###### ARTICULO 57.
+
+A propuesta del Organismo, el Gobierno del Estado dictaminará el otorgamiento de estímulos fiscales para inducir las acciones de los sectores social y privado en la prestación de servicios en materia de asistencia social.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1994)</small>
+
+###### ARTICULO 58.
+
+El Organismo mediante la inducción promoverá la organización y participación activa de la comunidad en la atención de aquellos casos de salud, que por sus características requieran de acciones de asistencia social, así como el concurso coordinado de las dependencias y entidades públicas, específicamente en el caso de comunidades afectadas de marginación.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
+
+El Organismo pondrá especial atención en la promoción de acciones de la comunidad en beneficio de menores en estado de abandono, personas con discapacidad y adultos mayores.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
+
+###### ARTICULO 59.
+
+El Gobierno del Estado directamente o a través del Organismo, promoverá la organización y participación de la comunidad para que, con base al apoyo y la solidaridad social, coadyuve en la prestación de servicios asistenciales para el desarrollo integral de la familia.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1994)</small>
+
+###### ARTICULO 60.
+
+La participación de la comunidad a que se refiere el artículo anterior, tiene por objeto fortalecer su estructura propiciando la solidaridad ante las necesidades reales de la población.
+
+Dicha participación será a través de las siguientes acciones:
+
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+
+I.- Promoción de hábitos de conducta y de valores que contribuyan a la protección de los grupos desprotegidos, a su superación y a la prevención de la discapacidad;
+
+II.- Incorporación, como auxiliares voluntarios, en la realización de tareas básicas de asistencia social y participación en determinadas actividades de operación de los servicios en materia de asistencia social, bajo la Dirección y control de las autoridades correspondientes;
+
+III.- Notificación de la existencia de personas que requieran la asistencia social cuando éstas se encuentren impedidas de solicitar auxilio por sí mismas;
+
+IV.- Formulación de sugerencias para mejorar los servicios de asistencia social; y
+
+V.- Otras actividades que coadyuven a la protección de la salud.
+
+T r a n s i t o r i o s .
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga el Decreto Número 7, publicado en el Periódico Oficial del Gobierno del Estado número 104, de fecha 27 de diciembre de 1985, por el que se regía el Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, así como las demás disposiciones que se opongan a lo dispuesto por esta Ley.
+
+###### ARTICULO TERCERO.
+
+El Organismo a que se refiere el Artículo 16 de esta Ley, es el subrogatorio de todos los derechos y obligaciones del Organismo del mismo nombre cuyo Decreto de creación abroga el Artículo anterior.
+
+Lo tendrá entendido el Ciudadano Gobernador Constitucional del Estado y dispondrá que se imprima, publique, circule y se le dé el debido cumplimiento.- Guanajuato, Gto., a 14 de Agosto de 1986.- Luis Felipe Sánchez Hernández, D.P.- Dimas Rangel Fernández, D.S.- Francisco Morelos González, D.S.- Rúbricas.
+
+Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+Dado en la residencia del Poder Ejecutivo del Estado, en la ciudad de Guanajuato. Gto., a los 28 veintiocho días del mes de agosto de 1986 mil novecientos ochenta y seis.
+
+LIC. RAFAEL CORRALES AYALA.
+
+El Secretario de Gobierno,
+
+LIC. JOSE HUERTA ABOYTES.
+
+El Secretario de Salud y Seguridad Social,
+
+DR. DAVID CADENA BARQUIN.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE JUNIO DE 1994.
 
 ###### ARTICULO UNICO.
 
-El presente Acuerdo tiene por objeto establecer las reglas para la aplicación de las reservas por parte de las dependencias y entidades sujetas, en materia de compras del sector público, contenidas en los tratados de libre comercio suscritos por los Estados Unidos Mexicanos.
+EL PRESENTE DECRETO ENTRARA EN VIGOR EL CUARTO DIA SIGUIENTE AL DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO.
+
+P.O. 1 DE AGOSTO DE 2006.
+
+Artículo Primero.- Las presentes modificaciones a la Ley Sobre el Sistema Estatal de Asistencia Social, entrarán en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- La Secretaría de Finanzas y Administración instrumentará las acciones conducentes a efecto de asignar los recursos humanos, materiales y presupuestales necesarios para el cumplimiento a la presente Ley.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, SE TRANSCRIBE EL ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO NÚMERO 280.</small>
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia el 12 doce de septiembre del año 2006 dos mil seis, excepción hecha de las modificaciones a la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato, Ley Sobre el Sistema Estatal de Asistencia Social, Ley Orgánica del Ministerio Público del Estado de Guanajuato y Ley Orgánica del Poder Judicial del Estado de Guanajuato, que entrarán en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE AGOSTO DE 2009.
+
+Artículo Único. El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 14 DE SEPTIEMBRE DE 2012.
+
+Artículo Único. El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 7 DE JUNIO DE 2013.
+
+Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
+
+P.O. 11 DE SEPTIEMBRE DE 2015.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia el 1 de enero de 2016.
+
+> <small>(F. DE E., P.O. 2 DE OCTUBRE DE 2015)</small>
+
+Abrogación
+
+Artículo Segundo. Se abroga la Ley para la Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, contenida en el Decreto Legislativo número 91, publicado en el Periódico Oficial del Gobierno del Estado número 185, segunda parte, de fecha 19 de noviembre de 2010.
+
+Plazos para ajustar reglamentos y decretos
+
+Artículo Tercero. El Ejecutivo del Estado deberá realizar los ajustes a los reglamentos y decretos que se opongan a la presente Ley y armonizará las disposiciones normativas para el cumplimiento de su objeto y finalidades en un plazo de ciento ochenta días contados a partir de que ésta inicie su vigencia.
+
+Plazo para establecer un área especializada
+
+Artículo Cuarto. La Procuraduría de los Derechos Humanos del Estado de Guanajuato deberá realizar los ajustes presupuestales, a fin de establecer un área especializada para la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes, en los términos del presente Decreto en un plazo de ciento ochenta días contados a partir de que ésta inicie su vigencia.
+
+Término para adecuar la normatividad estatal
+
+Artículo Quinto. El Ejecutivo del Estado expedirá el reglamento de la presente Ley en un término de ciento ochenta días, contados a partir del inicio de la vigencia del presente decreto.
+
+Término para adecuar la normatividad municipal
+
+Artículo Sexto. Los ayuntamientos deberán adecuar sus reglamentos a las disposiciones de la presente Ley, a más tardar ciento ochenta días después de su entrada en vigencia.
+
+Constitución de la Procuraduría Estatal de Protección
+
+Artículo Séptimo. El Ejecutivo del Estado en un plazo no mayor a sesenta días a partir de la entrada en vigencia de ésta Ley, deberá adecuar la estructura orgánica para el funcionamiento de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, a partir de la estructura de la Procuraduría en Materia de Asistencia Social.
+
+Cualquier referencia a la Procuraduría en Materia de Asistencia Social, contenida en otra disposición jurídica, se entenderá realizada a la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato.
+
+La Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, deberá cumplir íntegramente con las obligaciones y compromisos asumidos por la Procuraduría en Materia de Asistencia Social.
+
+Los derechos y obligaciones derivados de las relaciones laborales del personal actualmente adscrito a la Procuraduría en Materia de Asistencia Social, estarán a cargo de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato.
+
+Adecuaciones de los Centros de Asistencia Social
+
+Artículo Octavo. Las organizaciones de asistencia social que realicen cualquiera actividades propias de los Centros de Asistencia Social a los que hace referencia ésta Ley, y que se encuentren operando con antelación a la entrada en vigor del presente Decreto contarán con un plazo de ciento ochenta días contados a partir del inicio de la vigencia del presente Decreto para realizar las adecuaciones conducentes en términos de la normatividad aplicable.
+
+> <small>(F. DE E., P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+Designación de representantes de la sociedad civil ante el Sistema
+
+Artículo Noveno. Por única ocasión el Gobernador del Estado designará en forma directa a los representantes de la sociedad civil ante el Sistema Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes previstos en la fracción XIII del artículo 91.
+
+P.O. 1 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 90, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DE DIVERSAS LEYES, PARA EL FORTALECIMIENTO DE LAS INSTITUCIONES ESPECIALIZADAS EN LA PROTECCIÓN Y RESTITUCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Adecuación orgánica de estructuras para la conformación de la Procuraduría
+
+Artículo Segundo. El Ejecutivo del Estado en un plazo no mayor a ciento ochenta días a partir de la entrada en vigencia del presente Decreto, deberá adecuar la estructura orgánica para el funcionamiento de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, como organismo público descentralizado, conforme a la estructura de la Procuraduría de Protección adscrita a la estructura orgánica del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato.
+
+Los derechos y obligaciones derivados de las relaciones laborales del personal actualmente adscrito a la unidad administrativa del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, identificada como Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, estarán a cargo del organismo público descentralizado de la administración pública estatal denominado como Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato.
+
+Adecuaciones a reglamentos y decretos
+
+Artículo Tercero. El Ejecutivo del Estado en un plazo no mayor a ciento ochenta días contados a partir de la entrada en vigencia de este decreto deberá realizar las modificaciones a los reglamentos y decretos que se opongan a la presente Ley y armonizará las disposiciones normativas para el cumplimiento de su objeto y finalidades en un plazo de ciento ochenta días contados a partir de su vigencia.
+
+Instalación del Consejo Directivo de la Procuraduría Estatal de Protección
+
+Artículo Cuarto. El Consejo Directivo del organismo público descentralizado de la Administración Pública Estatal denominado Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato que se constituye mediante el presente Decreto, deberá instalarse dentro de los noventa días siguientes a que esté constituida ésta.
+
+Designación del titular de la Procuraduría Estatal de Protección
+
+Artículo Quinto. El Gobernador del Estado designará al titular de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, dentro de los treinta días siguientes a la conformación de ésta, en los términos del Artículo Segundo Transitorio.
+
+Instalación del Consejo Consultivo del Sistema para la Atención de las Familias Guanajuatenses
+
+Artículo Sexto. La integración e instalación del Consejo Consultivo del organismo público descentralizado denominado Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, deberá efectuarse dentro de los noventa días siguientes a la entrada en vigor del presente Decreto, en los términos de lo dispuesto en el artículo 23 de la Ley sobre el Sistema Estatal de Asistencia Social que se reforma mediante el presente Decreto.
+
+Asignación de recursos a la Procuraduría Estatal de Protección
+
+Artículo Séptimo. La Secretaría de Finanzas y Administración definirá y aplicará los procedimientos y mecanismos necesarios para la adecuada asignación de recursos a (sic) Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato.
+
+Los recursos presupuestales de la unidad administrativa del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, denominada Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato se reasignarán al organismo público descentralizado de la administración pública estatal denominada como Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato.
+
+Asuntos en trámite
+
+Artículo Octavo. Los asuntos y la documentación vigente o en trámite ante los Centros Multidisciplinarios para la Atención Integral de la Violencia previstos en la Ley para Prevenir, Atender y Erradicar la Violencia en el Estado de Guanajuato, se turnarán según corresponda a su competencia, a los institutos municipales para las mujeres, a la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, por conducto de las procuradurías auxiliares, o al Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, según corresponda a la naturaleza y estado en que se encuentren los asuntos relativos, para su seguimiento y conclusión.
+
+Procesos de entrega recepción
+
+Artículo Noveno. El Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato transferirá al organismo público descentralizado de la administración pública estatal denominado Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato y a la Secretaría de Gobierno, respectivamente y desde el ámbito de las competencias que les correspondan conforme al presente Decreto, los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que el Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato haya venido destinando para la atención de las funciones que desempeñaba la unidad administrativa de dicho organismo denominada Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato y de la unidad administrativa de dicho organismo denominada Secretaría Ejecutiva del Sistema de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato hasta antes de la entrada en vigencia del presente Decreto, a través de la entrega-recepción respectiva.
+
+El Comité Interno de entrega-recepción, para cada unidad administrativa, deberá quedar conformado dentro de los cuarenta y cinco días siguientes a la entrada en vigencia del presente Decreto, en el que participarán las unidades administrativas competentes del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, el órgano interno de control de éste, la unidad administrativa (sic) Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, la Secretaría de Gobierno y su órgano interno de control, la Secretaría de Finanzas, Inversión y Administración y de la Secretaría de la Transparencia y Rendición de Cuentas.
+
+P.O. 30 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 169, MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN XIV AL ARTÍCULO 4 DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL”.]
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 4 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 298, EXPEDIDO POR LA SEXAGÉSIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE EXPIDE LA LEY DE ASISTENCIA SOCIAL Y FORTALECIMIENTO FAMILIAR PARA EL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Abrogaciones y derogación tácita
+
+Artículo Segundo. Se abroga la Ley sobre el Sistema Estatal de Asistencia Social contenida en el Decreto Legislativo número 5, publicada en el Periódico Oficial del Gobierno del Estado de Guanajuato número 75, segunda parte el 19 de septiembre de 1986; y la Ley de Organizaciones de Asistencia Social para el Estado de Guanajuato, contenida en el Decreto Legislativo número 172, publicada en el Periódico Oficial del Gobierno del Estado de Guanajuato número 92, segunda parte el 10 de junio de 2014; así como las demás disposiciones que se opongan a lo dispuesto por esta ley.
+
+Instalación de la Comisión del Sistema de Asistencia Social y Fortalecimiento Familiar del Estado de Guanajuato
+
+Artículo Tercero. La Comisión del Sistema de Asistencia Social y Fortalecimiento Familiar del Estado de Guanajuato deberá instalarse dentro de los 90 días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+Referencias a los ordenamientos abrogados
+
+Artículo Cuarto. Las referencias que en otros ordenamientos se hagan a la Ley sobre el Sistema Estatal de Asistencia Social, y a la Ley de Organizaciones de Asistencia Social para el Estado de Guanajuato, se entenderán hechas a la Ley de Asistencia Social y Fortalecimiento Familiar para el Estado de Guanajuato.
+
+Reglamentación en el ámbito estatal
+
+Artículo Quinto. El Titular del Poder Ejecutivo del Estado expedirá y en su caso actualizará los reglamentos que deriven del contenido del presente Decreto, en un plazo no mayor de 120 días contados a partir de su entrada en vigencia. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a éste, acorde a lo establecido en el artículo segundo transitorio del presente Decreto.
+
+Reglamentación en el ámbito municipal
+
+Artículo Sexto. Los municipios expedirán o, en su caso, actualizarán los reglamentos que deriven del contenido del presente Decreto, en un plazo no mayor de 120 días contados a partir de la entrada en vigor del mismo.
