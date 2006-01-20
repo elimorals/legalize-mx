@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2005-10-28"
+last_updated: "2006-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2006.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -165,13 +165,13 @@ La Bandera, el Himno y el Escudo Nacionales, son los símbolos obligatorios en t
 
 El Estado de Baja California acata plenamente y asegura a todos sus habitantes las garantías individuales y sociales consagradas en la Constitución Política de los Estados Unidos Mexicanos, así como los demás derechos que otorga esta Constitución.
 
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2006)</small>
 
-Los menores de edad tienen derecho a vivir y crecer en forma saludable y normal en un nivel de vida adecuado para su desarrollo físico, mental afectivo, moral y social, en el seno de la familia, la escuela, la sociedad y las instituciones, así como a ser protegidos contra cualquier forma de maltrato, perjuicio, daño, agresión, abuso o explotación, en condiciones de libertad, integridad y dignidad; por lo que las leyes que se promulgen (sic) para tal efecto, deben atender al interés superior del menor.
+Las personas menores de dieciocho años de edad tienen derecho a vivir y crecer en forma saludable y normal en un nivel de vida adecuado para su desarrollo físico, mental afectivo, moral y social, en el seno de la familia, la escuela, la sociedad y las instituciones, así como a ser protegidos contra cualquier forma de maltrato, perjuicio, daño, agresión, abuso o explotación, en condiciones de libertad, integridad y dignidad; por lo que las leyes que se promulguen para tal efecto, deben atender al interés superior de las personas menores de dieciocho años de edad.
 
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 1998)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2006)</small>
 
-El Estado garantizará de manera subsidiaria la protección nutricional de los menores, estableciendo los apoyos y lineamientos necesarios a cargo de las instituciones públicas, en los términos que determine la ley.
+El Estado garantizará de manera subsidiaria la protección nutricional de las personas menores de dieciocho años de edad, estableciendo los apoyos y lineamientos necesarios a cargo de las instituciones públicas, en los términos que determine la ley.
 
 > <small>(ADICIONADO, P.O. 10 DE MARZO DE 1992)</small>
 
@@ -1267,6 +1267,10 @@ El Tribunal expedirá su Reglamento Interno y las disposiciones administrativas 
 
 El Ministerio Público es la Institución encargada de la investigación y persecución de los delitos, el cual se auxiliará con una policía que estará bajo su autoridad y mando inmediato. También le corresponde el velar por la exacta observancia de las leyes en los casos en que tenga intervención conforme a su Ley Orgánica respectiva. A ese fin, deberá ejercitar las acciones que correspondan contra los infractores de esas leyes; hacer efectivos los derechos concedidos al Estado y representar a éste ante los tribunales. Asimismo compete a esta institución proteger los intereses de los menores e incapaces, como también los derechos individuales y sociales, en los términos que señalen las leyes aplicables.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE ENERO DE 2006)</small>
+
+Asimismo compete a esta institución proteger los intereses de las personas menores de dieciocho años de edad y de las personas que no tengan la capacidad para comprender el significado del hecho, como también los derechos individuales y sociales, en los términos que señalen las leyes aplicables.
+
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1998)</small>
 
 ###### ARTICULO 70.
@@ -1329,7 +1333,7 @@ II.- Realizar consulta mediante plebiscito, a los ciudadanos del Municipio que s
 
 III.- Tomar en cuenta los factores geográficos, demográficos y socioeconómicos del territorio respectivo;
 
-IV.- Solicitar la opinión de los ayuntamientos afectados, la que deberá justificar la conveniencia o inconveniencia de la pretensión; y
+IV.- Solicitar la opinión de los Ayuntamientos afectados, la que deberá justificar la conveniencia o inconveniencia de la pretensión; y
 
 V.- Los demás requisitos que determine la Ley.
 
@@ -1623,7 +1627,7 @@ En los términos de este artículo, el Congreso del Estado procederá a la desig
 
 Los integrantes de los Concejos Municipales y los Munícipes que se designen conforme a este Capítulo, deberán cumplir los requisitos de elegibilidad establecidos para los regidores y munícipes respectivamente; tendrán las facultades y obligaciones que esta Constitución y las leyes otorgan a los ayuntamientos.
 
-Las personas integrantes de los Concejos Municipales o los Munícipes designados de acuerdo con lo que expresa este Capítulo, no podrán ser integrantes de los ayuntamientos, para el período inmediato.
+Las personas integrantes de los Concejos Municipales o lo Munícipes designados de acuerdo con lo que expresa este Capítulo, no podrán ser integrantes de los ayuntamientos, para el período inmediato.
 
 ## TITULO SEPTIMO
 
@@ -1671,11 +1675,11 @@ El Congreso del Estado, dentro de los ámbitos de su competencia, expedirá la L
 
 I.- Se impondrán, mediante juicio político, las sanciones indicadas en el Artículo 93 a los servidores públicos señalados en el mismo precepto, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
 
-No procede el juicio político por la mera expresión de ideas;
+No procede el juicio político por la mera expresión de ideas.
 
-II.- La comisión de delitos por parte de cualquier servidor público será perseguida y sancionada en los términos de la penal;
+II.- La comisión de delitos por parte de cualquier servidor público será perseguida y sancionada en los términos de la (sic) penal; y
 
-III.- Se aplicarán las sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones;
+III.- Se aplicarán las sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones.
 
 Los procedimientos para la aplicación de las sanciones mencionadas se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
 
@@ -1953,7 +1957,7 @@ XIX.- Los Partidos Políticos a que se refiere la base IX y los candidatos que h
 
 ###### ARTICULO QUINTO.
 
-El día 5 de noviembre del presente año, sin necesidad de previa citación, se reunirán, en el recinto que oficialmente se destine para ello, las personas que, habiendo obtenido mayoría de votos en las elecciones para diputados, hubieren obtenido también el registro de su constancia de mayoría. Una vez reunidos procederán, aplicando, en lo conducente, las disposiciones contenidas en el Reglamento para el Gobierno Interior del Congreso de la Unión, en cuanto no pugnen a las prevenciones de la presente, y procederán a constituirse en junta preparatoria del primer Congreso del Estado, nombrando para el efecto un presidente y dos secretarios.
+El día 5 de Noviembre del presente año, sin necesidad de previa citación, se reunirán, en el recinto que oficialmente se destine para ello, las personas que, habiendo obtenido mayoría de votos en las elecciones para diputados, hubieren obtenido también el registro de su constancia de mayoría. Una vez reunidos procederán, aplicando, en lo conducente, las disposiciones contenidas en el Reglamento para el Gobierno Interior del Congreso de la Unión, en cuanto no pugnen a las prevenciones de la presente, y procederán a constituirse en junta preparatoria del primer Congreso del Estado, nombrando para el efecto un presidente y dos secretarios.
 
 ###### ARTICULO SEXTO.
 
@@ -2616,3 +2620,11 @@ SEGUNDO.- Las presentes reformas entrarán en vigor al día siguiente al de su p
 P.O. 28 DE OCTUBRE DE 2005.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 20 DE ENERO DE 2006.
+
+PRIMERO.- Una vez aprobada la presente reforma por esta H. XVIII Legislatura, envíese a los Ayuntamientos para los efectos constitucionales procedentes.
+
+SEGUNDO.- Agotado el proceso legislativo y de obtener la reforma la aprobación de la mayoría de los Ayuntamientos del Estado, procédase a pronunciar la declaratoria de incorporación constitucional correspondiente.
+
+TERCERO.- La presente reforma entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Baja California.
