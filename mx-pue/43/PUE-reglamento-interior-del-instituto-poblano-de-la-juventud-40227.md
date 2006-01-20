@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-instituto-poblano-de-la-juventud-40227"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-07-02"
-last_updated: "2004-07-02"
+last_updated: "2006-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40227&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL INSTITUTO POBLANO DE LA JUVENTUD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 2006.
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el viernes 2 de julio de 2004.
 
@@ -73,9 +73,13 @@ II.- Una Dirección General; y la siguiente estructura administrativa:
 
 a).- Coordinación de Asuntos Jurídicos;
 
-b).- Coordinación de Comunicación;
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2006)</small>
 
-c).- Subdirección de Programas y Acciones de la Juventud, y
+b).- Coordinación de Comunicación Social;
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2006)</small>
+
+c).- Subdirección de Programas, y
 
 d).- Subdirección Administrativa.
 
@@ -237,11 +241,15 @@ XVII.- Proponer al Director General acciones de información y capacitación en 
 
 XVIII.- Las demás que conforme a las disposiciones legales le correspondan y sean necesarias para el adecuado ejercicio de las atribuciones señaladas.
 
-### CAPÍTULO IV. DE LA COORDINACIÓN DE COMUNICACIÓN
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE ENERO DE 2006)</small>
+
+### CAPÍTULO IV. DE LA COORDINACIÓN DE COMUNICACIÓN SOCIAL
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ENERO DE 2006)</small>
 
 ###### ARTÍCULO 11.
 
-La Coordinación de Comunicación, dependerá directamente de la Dirección General y serán de su competencia las siguientes atribuciones:
+La Coordinación de Comunicación Social, dependerá directamente de la Dirección General y serán de su competencia las siguientes atribuciones:
 
 I.- Proyectar e implementar los mecanismos aprobados, para difundir los programas permanentes del Instituto;
 
@@ -307,11 +315,15 @@ XIII.- Cumplir y hacer cumplir los acuerdos del Director General, y
 
 XIV.- Las demás que sean necesarias para el logro de los objetivos que tiene asignado el Instituto.
 
-### CAPÍTULO VI. DE LA SUBDIRECCIÓN DE PROGRAMAS Y ACCIONES DE LA JUVENTUD
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE ENERO DE 2006)</small>
+
+### CAPÍTULO VI. DE LA SUBDIRECCIÓN DE PROGRAMAS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ENERO DE 2006)</small>
 
 ###### ARTÍCULO 13.
 
-El Subdirector de Programas y Acciones de la Juventud, dependerá directamente del Director General del Instituto, y su titular, además de las atribuciones a que se refiere el artículo 12 de este Reglamento, tendrá las siguientes:
+El Subdirector de Programas, dependerá directamente del Director General del Instituto, y su titular, además de las atribuciones a que se refiere el artículo 12 de este Reglamento, tendrá las siguientes:
 
 I.- Proponer al Director General, la aplicación de diagnósticos y estrategias para controlar y dar seguimiento a los planes, programas y procesos del Instituto, verificando se logren los resultados previstos;
 
@@ -418,3 +430,19 @@ El presente Reglamento entrará en vigor a partir del día siguiente de su publi
 Se derogan las disposiciones que se opongan al presente Reglamento.
 
 Dado en las instalaciones de la Sala de Juntas de la Subsecretaría de Planeación y Coordinación Sectorial, de la Secretaría de Educación Pública, en esta Heroica Puebla de Zaragoza, a los dieciocho días del mes de junio del año dos mil cuatro. Delegado del Presidente Ejecutivo.- MAESTRO DARÍO CARMONA GARCÍA.- Rúbrica.- Delegado del Vicepresidente.- LICENCIADO JULIÁN RENE HERNÁNDEZ IBARRA.- Rúbrica.- Delegada del Secretario.- LICENCIADA MARÍA DOLORES TERESA RODRÍGUEZ MENESES.- Rúbrica.- Vocal Delegado.- LICENCIADO GABRIEL GONZÁLEZ SANDOVAL.- Rúbrica.- Vocal Delegada.- DOCTORA MA. DOLORES R. DÍAZ ROMERO.- Rúbrica.- Vocal Delegada.- LICENCIADA CLAUDIA MORALES MÉNDEZ.- Rúbrica.- Vocal Delegado.- LICENCIADO MIGUEL ÁNGEL AYALA LOZADA.- Rúbrica.- Vocal Delegado.- LICENCIADO DAVID A. ACEVEDO GARCÍA.- Rúbrica.- Vocal Delegada.- ANTROPÓLOGA ROSA LILIA CHÁVEZ GONZÁLEZ.- Rúbrica.- Vocal Delegado.- LICENCIADO JOSÉ MANUEL MEDEL SÁNCHEZ.- Rúbrica.- Representante del Comisario Público.- LICENCIADA ROSSANA ROSSANO FERNÁNDEZ.- Rúbrica.- Directora General del Instituto Poblano de la Juventud.- LICENCIADA ADRIANA HERRERA REYNA.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 20 DE ENERO DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+###### ARTÍCULO TERCERO.
+
+Las menciones o disposiciones contenidas en cualquier otro acuerdo aprobado por la Junta de Gobierno, respecto de las unidades administrativas cuyas denominaciones se modifican por virtud de este Acuerdo, se entenderán referidas a éstas.
