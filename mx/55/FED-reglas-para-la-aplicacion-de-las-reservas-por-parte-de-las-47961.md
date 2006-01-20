@@ -4,7 +4,7 @@ identifier: "FED-reglas-para-la-aplicacion-de-las-reservas-por-parte-de-las-4796
 country: "mx"
 rank: "reglas"
 publication_date: "2003-02-28"
-last_updated: "2003-02-28"
+last_updated: "2006-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47961&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-02-18"
 
 ACUERDO POR EL QUE SE ESTABLECEN LAS REGLAS PARA LA APLICACION DE LAS RESERVAS CONTENIDAS EN LOS CAPITULOS DE COMPRAS DEL SECTOR PUBLICO DE LOS TRATADOS DE LIBRE COMERCIO SUSCRITOS POR LOS ESTADOS UNIDOS MEXICANOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE ENERO DE 2006.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 28 de febrero de 2003.
 
@@ -103,7 +103,11 @@ q.6) Tratado de Libre Comercio entre los Estados Unidos Mexicanos y el Estado de
 
 q.7) Acuerdo de Asociación Económica, Concertación Política y Cooperación entre los Estados Unidos Mexicanos y la Comunidad Europea y sus estados miembros, título III, publicado en el Diario Oficial de la Federación el 3 de abril de 2001;
 
-q.8) Tratado de Libre Comercio entre los Estados Unidos Mexicanos y los Estados de la Asociación Europea de Libre Comercio, Capítulo V, publicado en el Diario Oficial de la Federación el 29 de junio de 2001.
+q.8) Tratado de Libre Comercio entre los Estados Unidos Mexicanos y los Estados de la Asociación Europea de Libre Comercio, Capítulo V, publicado en el Diario Oficial de la Federación el 29 de junio de 2001;
+
+> <small>(ADICIONADO, D.O.F. 20 DE ENERO DE 2006)</small>
+
+q.9) Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón, Capítulo 11, publicado en el Diario Oficial de la Federación el 31 de marzo de 2005.
 
 r) Umbrales: Montos de referencia establecidos en el artículo 1001, párrafo 1, inciso c) del capítulo de compras del sector público del Tratado de Libre Comercio de América del Norte, y sus correlativos en los demás tratados de libre comercio, a partir de los cuales se define el ámbito de aplicación de las disposiciones de dichos títulos o capítulos.
 
@@ -181,7 +185,9 @@ a) Que no se aplique más de 10 por ciento del monto de la reserva permanente a 
 
 b) Que ninguna dependencia o entidad reserve contratos de bienes y servicios en cualquier año, por un valor mayor al 20 por ciento del total de la reserva permanente.
 
-### CAPITULO III. DE LA DETERMINACION Y EL EJERCICIO DE LA RESERVA PERMANENTE Y TRANSITORIA PARA PEMEX Y CFE, PERIODO 2003-2008
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE ENERO DE 2006)</small>
+
+### CAPITULO III. DE LA DETERMINACION Y EL EJERCICIO DE LA RESERVA PERMANENTE Y TRANSITORIA PARA PEMEX Y CFE
 
 DECIMAQUINTA.- En términos de los tratados, la reserva permanente conjunta de PEMEX y CFE, es un monto anual en moneda nacional equivalente a las cantidades expresadas en millones de dólares indexadas que se señalan para cada periodo en la siguiente tabla.
 
@@ -265,9 +271,9 @@ VIGESIMASEPTIMA.- PEMEX y CFE, deberán informar a la Dirección, por escrito, e
 
 El informe se deberá presentar mediante el requisitado del formato RESE-5. Este formato se encuentra incluido en el Anexo (E) de este Acuerdo.
 
-### CAPITULO IV
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE ENERO DE 2006)</small>
 
-DE LA DETERMINACION Y EL EJERCICIO DE LA RESERVA TRANSITORIA EN MATERIA DE OBRAS PUBLICAS, PARA LAS DEPENDENCIAS Y ENTIDADES SUJETAS, EXCEPTO PEMEX Y CFE, PARA EL PERIODO 2003-2008
+### CAPITULO IV. DE LA DETERMINACION Y EL EJERCICIO DE LA RESERVA TRANSITORIA EN MATERIA DE OBRAS PUBLICAS, PARA LAS DEPENDENCIAS Y ENTIDADES SUJETAS, EXCEPTO PEMEX Y CFE
 
 VIGESIMAOCTAVA.- En términos de los tratados de libre comercio, la reserva transitoria de las dependencias y entidades sujetas, es un porcentaje calculado anualmente, del monto total de sus contratos de obra pública que igualen o superen el valor de los umbrales.
 
@@ -824,3 +830,9 @@ ANEXO (E)
 RELACION DE FORMATOS PARA ENTREGA DE LA INFORMACION REQUERIDA A QUE SE REFIEREN EN EL PRESENTE ACUERDO LAS REGLAS QUE SE INDICAN A CONTINUACION:
 
 (VEASE ARCHIVO ANEXO)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LAS PRESENTES REGLAS.</small>
+
+D.O.F. 20 DE ENERO DE 2006.
+
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
