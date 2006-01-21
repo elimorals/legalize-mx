@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2005-12-31"
+last_updated: "2006-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -51,7 +51,7 @@ La Ley es igual para todos. La Constitución General de la República y esta Con
 
 Las facultades que la Constitución Política de los Estados Unidos Mexicanos no otorga expresamente a la federación, se entienden reservadas para el Estado.
 
-El Poder Público y sus Representantes sólo pueden hacer lo que la Ley les autoriza y deban hacer, lo que la Ley les ordena. Los particulares pueden hacer lo que la Ley no les prohibe y deben hacer, lo que la Ley les ordena.
+El Poder Público y sus Representantes sólo pueden hacer lo que la Ley les autoriza y deban hacer, lo que la Ley les ordena. Los particulares pueden hacer lo que la Ley no les prohibe y deben hacer lo que la Ley les ordena.
 
 > <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1978)</small>
 
@@ -199,7 +199,7 @@ Ningún negocio judicial tendrá más de dos instancias, y el Juez que de cualqu
 
 Nadie puede ser aprisionado por deudas de carácter puramente civil. Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamar su derecho. Toda persona tiene derecho a que se le administre justicia por los tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial sin perjuicio de los centros de mediación y justicia alternativa que puedan crearse por las autoridades. El servicio tanto de los tribunales como de los centros de mediación o justicia alternativa mencionados, será gratuito, quedando en consecuencia, prohibidas las costas por estos servicios.
 
-> <small>(ADICIONADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 12.
 
@@ -1661,7 +1661,7 @@ Los mismos requisitos se exigirán para los Directores de organismos descentrali
 
 ###### ARTICULO 84.
 
-Las leyes, decretos, reglamentos, circulares, acuerdos, órdenes, despachos, convenios y demás documentos que el Gobernador del Estado suscriba en ejercicio de sus funciones, deberá (sic) llevar la firma del titular o de los titulares de las dependencias involucradas en cada caso. Y sin este requisito no surtirá efectos legales.
+Las leyes, decretos, reglamentos, circulares, acuerdos, órdenes, despachos, convenios y demás documentos que el Gobernador del Estado suscriba en ejercicio de sus funciones deberá (sic) llevar la firma del titular o de los titulares de las dependencias involucradas en cada caso. Y sin este requisito no surtirá efectos legales.
 
 Los Secretarios y demás funcionarios serán responsables de los actos de autoridad que realicen y ejecuten en contra de las disposiciones de esta Ley fundamental y demás ordenamientos jurídicos del Estado.
 
