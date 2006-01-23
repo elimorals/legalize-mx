@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-del-poder-judicial-del-estado-de-yucatan-23003"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-03-13"
-last_updated: "1996-01-12"
+last_updated: "2006-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE ENERO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE ENERO DE 2006.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 13 de marzo de 1992.
 
@@ -233,7 +233,13 @@ XXI.- Designar a dos Magistrados Propietarios del Tribunal Superior de Justicia 
 
 XXII.- Designar a los Magistrados del Tribunal Electoral del Estado, de conformidad con las disposiciones contenidas en el Código Electoral del Estado de Yucatán.
 
-XXIII.- Las demás atribuciones que le confieran las Leyes.
+> <small>(REFORMADA, D.O. 23 DE ENERO DE 2006)</small>
+
+XXIII.- Modificar la competencia de los juzgados existentes y la creación de otros de primera instancia en los Departamentos Judiciales Segundo y Tercero; cuando las necesidades del servicio lo requieran y lo permita el presupuesto asignado al Poder Judicial del Estado de Yucatán.
+
+> <small>(ADICIONADA, D.O. 23 DE ENERO DE 2006)</small>
+
+XXIV.- Las demás atribuciones que le confieran las Leyes.
 
 ###### ARTICULO 19.
 
@@ -479,9 +485,11 @@ DE LOS JUECES DE PRIMERA INSTANCIA.
 
 En el Primer Departamento Judicial habrá ocho Jueces del ramo de Defensa Social, que se denominarán Primero, Segundo, Tercero, Cuarto, Quinto, Sexto, Séptimo y Octavo de Defensa Social, seis Jueces para las ramas Civil y Mercantil que se denominarán Primero, Segundo, Tercero, Cuarto, Quinto y Sexto de lo Civil y cuatro Jueces que conocerán de los asuntos que atañen a la familia y que se denominarán Primero, Segundo, Tercero y Cuarto de lo Familiar. Los Jueces mencionados conocerán en primera instancia de los asuntos de los cuales se surta competencia para ellos por razón de las materias indicadas.
 
+> <small>(REFORMADO, D.O. 23 DE ENERO DE 2006)</small>
+
 ###### ARTICULO 43.
 
-Por cada uno de los Departamentos Segundo y Tercero habrá un Juez Mixto y de lo Familiar investido de jurisdicción concurrente en asuntos de los ramos de Defensa Social, de lo Civil, Mercantil, y de lo Familiar, que se susciten en sus respectivos departamentos Judiciales.
+Por cada uno de los Departamentos Segundo y Tercero habrá, cuando menos, un Juez Mixto y de lo Familiar investido de jurisdicción concurrente en asuntos de los ramos de Defensa Social, de lo Civil, Mercantil, y de lo Familiar, que se susciten en los departamentos Judiciales respectivos. Cuando la demanda del servicio de impartición de justicia en estos Departamentos lo requiera, el Pleno del Tribunal Superior de Justicia del Estado de Yucatán, podrá acordar la modificación de la competencia de los juzgados existentes y la creación de otros de primera instancia en las ramas necesarias, así como las sedes de los mismos. Cuando las necesidades del servicio lo requieran y lo permita el presupuesto asignado al Poder Judicial del Estado de Yucatán.
 
 ###### ARTICULO 44.
 
@@ -1356,3 +1364,9 @@ El Magistrado electo Presidente de conformidad con las reformas contenidas en el
 ###### ARTICULO TERCERO.
 
 Los Presidentes de las Salas del Tribunal Superior de Justicia, serán elegidos por única vez, el primer día hábil del mes de Febrero de mil novecientos noventa y seis y durarán en su encargo hasta el treinta y uno de Diciembre del propio año.
+
+D.O. 23 DE ENERO DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
