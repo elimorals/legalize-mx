@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2005-12-09"
+last_updated: "2006-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE DICIEMBRE DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE ENERO DE 2006.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -385,15 +385,15 @@ El organismo público a que se refiere el Apartado A del Artículo 16 de esta Co
 
 La declaración de validez, el otorgamiento de las constancias y la asignación de diputados y regidores, podrán ser impugnados ante el Tribunal Electoral del Estado en los términos que señale la Ley. Esta establecerá los presupuestos, requisitos de procedencia y el trámite de esos medios de impugnación.
 
-> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, D.O. 23 DE ENERO DE 2006)</small>
 
 ###### Artículo 25.
 
-La Ley reglamentaria establecerá un sistema de medios de impugnación de los que conocerán los organismos electorales y los tribunales electorales del Estado, que serán órganos jurisdiccionales en materia electoral. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad.
+La Ley reglamentaria establecerá un sistema de medios de impugnación de los que conocerán los organismos electorales y el Tribunal Electoral del Estado, que será el órgano jurisdiccional en materia electoral. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad.
 
-Los tribunales electorales del Estado tendrán la competencia y organización que determine la Ley. Los poderes del Estado garantizarán su debida integración.
+El Tribunal Electoral del Estado tendrán la competencia y organización que determine la Ley. Los poderes del Estado garantizarán su debida integración.
 
-Las resoluciones del Tribunal Electoral del Estado a que se refiere el segundo párrafo del Artículo 24 de esta Constitución, exclusivamente podrán ser revisadas por el Tribunal Superior Electoral, mediante el recurso que los partidos políticos podrán interponer cuando hagan valer agravios debidamente fundados, por los que se pueda modificar el resultado de la elección. Los fallos del Tribunal Superior Electoral serán definitivos e inatacables.
+Las resoluciones del Tribunal Electoral del Estado a que se refiere el segundo párrafo del Artículo 24 de esta Constitución, serán definitivas y firmes en el ámbito estatal.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -2388,3 +2388,7 @@ El Presidente de la Comisión de Derechos Humanos y los integrantes de su Consej
 D.O. 9 DE DICIEMBRE DE 2005.
 
 Artículo Único.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 23 DE ENERO DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
