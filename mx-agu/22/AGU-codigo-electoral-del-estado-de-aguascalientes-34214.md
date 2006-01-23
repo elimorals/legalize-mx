@@ -4,7 +4,7 @@ identifier: "AGU-codigo-electoral-del-estado-de-aguascalientes-34214"
 country: "mx"
 rank: "codigo"
 publication_date: "2003-10-01"
-last_updated: "2005-08-08"
+last_updated: "2006-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2006.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 1 de octubre de 2003.
 
@@ -1623,9 +1623,13 @@ El reglamento señalará los cargos que deberán ser ocupados por los miembros d
 
 ### CAPITULO I. De los Sistemas Electorales
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2006)</small>
+
 ###### ARTICULO 121.
 
-El Poder Legislativo se deposita en el Congreso del Estado, el cual estará integrado por dieciocho diputados electos, según el principio de votación de mayoría relativa, mediante el sistema de distritos electorales uninominales, de los que corresponderán ocho al Municipio de Aguascalientes y, al menos uno a cada uno de los municipios restantes, y hasta nueve diputados electos según el principio de representación proporcional, mediante el sistema de listas en una circunscripción plurinominal cuya demarcación es el Estado.
+El Poder Legislativo se deposita en el Congreso del Estado, el cual estará integrado por dieciocho diputados electos, según el principio de votación de mayoría relativa, mediante el sistema de distritos electorales uninominales, y hasta nueve diputados electos según el principio de representación proporcional, mediante el sistema de listas en una circunscripción plurinominal cuya demarcación es el Estado.
+
+La distribución y delimitación territorial de los distritos electorales uninominales será determinada por el Consejo mediante fórmula que obedezcan a un criterio poblacional, la cual se obtendrá dividiendo el número total de población determinada por el último Censo General de Población entre el número total de distritos de mayoría relativa, pudiendo ajustar el cociente resultante en más menos veinte por ciento, buscando siempre la contigüidad de fronteras, conectividad, compacidad y respeto a la división seccional.
 
 El Congreso del Estado se renovará en su totalidad cada tres años.
 
@@ -3708,3 +3712,13 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuarán su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
+
+P.O. 23 DE ENERO DE 2006.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+La Redistritación estatal deberá ser difundida ampliamente en todo el Estado para el debido conocimiento de los habitantes del Estado.
