@@ -4,7 +4,7 @@ identifier: "LOCG"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-09-03"
-last_updated: "2005-12-30"
+last_updated: "2006-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOCG"
 
 LEY ORGANICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 2006.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de septiembre de 1999.
 
@@ -552,93 +552,97 @@ XV. Fomento Cooperativo y Economía Social;
 
 XVI. Fortalecimiento al Federalismo;
 
-> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2006)</small>
 
-XVII. Gobernación;
-
-> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
-
-XVIII. Hacienda y Crédito Público;
+XVII. Función Pública;
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XIX. Justicia y Derechos Humanos;
+XVIII. Gobernación;
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XX. Juventud y Deporte;
+XIX. Hacienda y Crédito Público;
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XXI. Marina;
+XX. Justicia y Derechos Humanos;
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XXII. Medio Ambiente y Recursos Naturales;
+XXI. Juventud y Deporte;
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XXIII. Participación Ciudadana;
+XXII. Marina;
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XXIV. Pesca;
+XXIII. Medio Ambiente y Recursos Naturales;
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XXV. Población, Fronteras y Asuntos Migratorios;
+XXIV. Participación Ciudadana;
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XXVI. Presupuesto y Cuenta Pública;
+XXV. Pesca;
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XXVII. Puntos Constitucionales;
+XXVI. Población, Fronteras y Asuntos Migratorios;
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XXVIII. Radio, Televisión y Cinematografía;
+XXVII. Presupuesto y Cuenta Pública;
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XXIX. Recursos Hidráulicos;
+XXVIII. Puntos Constitucionales;
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XXX. Reforma Agraria;
+XIX. Radio, Televisión y Cinematografía;
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XXXI. Relaciones Exteriores;
+XXX. Recursos Hidráulicos;
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XXXII. Salud;
+XXXI. Reforma Agraria;
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+
+XXXII. Relaciones Exteriores;
+
+> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+
+XXXIII. Salud;
 
 > <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XXXIII. Seguridad Pública;
+XXXIV. Seguridad Pública;
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XXXIV. Seguridad Social;
+XXXV. Seguridad Social;
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XXXV. Trabajo y Previsión Social;
+XXXVI. Trabajo y Previsión Social;
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XXXVI. Transportes;
+XXXVII. Transportes;
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XXXVII. Turismo; y
+XXXVIII. Turismo; y
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
-XXXVIII. Vivienda.
+XXXIX. Vivienda.
 
 3. Las comisiones ordinarias establecidas en el párrafo anterior, tienen a su cargo tareas de dictamen legislativo, de información y de control evaluatorio conforme a lo dispuesto por el párrafo primero del artículo 93 constitucional, y su competencia se corresponde en lo general con las otorgadas a las dependencias y entidades de la Administración Pública Federal.
 
@@ -1969,3 +1973,7 @@ Cuarto.- A efecto de lo anterior la Cámara de Diputados del H. Congreso de la U
 D.O.F. 30 DE DICIEMBRE DE 2005.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE ENERO DE 2006.
+
+Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
