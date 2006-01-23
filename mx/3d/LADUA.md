@@ -4,7 +4,7 @@ identifier: "LADUA"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-15"
-last_updated: "2005-04-04"
+last_updated: "2006-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=744&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LADUA"
 
 LEY ADUANERA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 2006.
 
 ULTIMA ACTUALIZACION POR MISCELANEA DE COMERCIO EXTERIOR: 4 DE ABRIL DE 2005.
 
@@ -1146,9 +1146,9 @@ a) La naturaleza, cantidad y categoría de los vehículos que puedan importarse 
 
 b) Los requisitos para la importación de vehículos en franquicia, destinados a permanecer definitivamente en la franja o región fronteriza.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 2006)</small>
 
-En los casos a que se refiere este inciso, la propia Secretaría podrá autorizar la internación temporal del vehículo de que se trate al resto del país, por un plazo improrrogable de cuatro meses, dentro de un período de doce, siempre que se cumplan los requisitos que establezca el Reglamento. Los vehículos internados temporalmente no podrán prestar el servicio de autotransporte de carga, pasajeros o turismo y deberán ser conducidos en territorio nacional por el propietario, su cónyuge, sus hijos, padres o hermanos, o por cualquier otra persona siempre que en este último caso el importador se encuentre a bordo del vehículo. Cuando el propietario del vehículo sea una persona moral, deberá ser conducido por una persona que tenga relación laboral con el propietario.
+En los casos a que se refiere este inciso, la propia Secretaría podrá autorizar la internación temporal del vehículo de que se trate al resto del país, por un plazo máximo hasta de 180 días naturales con entradas y salidas múltiples, dentro de un periodo de doce meses, contados a partir de la primera internación temporal, siempre que se cumplan los requisitos que establece el reglamento. Los vehículos internados temporalmente no podrán prestar el servicio de autotransporte de carga, pasajeros o turismo y deberán ser conducidos en territorio nacional por el propietario, su cónyuge sus hijos, padres o hermanos, o por cualquier otra persona, siempre que en este último caso el importador se encuentre en el vehículo; cuando el propietario del vehículo sea una persona moral, deberá ser conducido por una persona que tenga relación laboral con el propietario.
 
 ###### Artículo 63.
 
@@ -4507,3 +4507,7 @@ LA ACTUALIZACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN
 D.O.F. 04 DE ABRIL DE 2005.
 
 LA ACTUALIZACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+D.O.F. 23 DE ENERO DE 2006.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
