@@ -4,7 +4,7 @@ identifier: "YUC-codigo-civil-del-estado-de-yucatan-14490"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-12-31"
-last_updated: "2005-05-16"
+last_updated: "2006-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CODIGO CIVIL DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 16 DE MAYO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE ENERO DE 2006.
 
 Código publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 31 de diciembre de 1993.
 
@@ -11151,13 +11151,17 @@ Si se inscribiere embargo o gravamen sobre un inmueble o derecho sobre el mismo 
 
 No pueden los bienes o los derechos reales impuestos sobre los mismos, aparecer inscritos a la vez en favor de dos o más personas distintas, a menos que éstas sean copartícipes.
 
+> <small>(REFORMADO, D.O. 23 DE ENERO DE 2006)</small>
+
 ###### Artículo 2179.
 
-Cuando vaya a otorgarse una escritura en que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión originaria de bienes raíces o cualquier derecho real de los mismos o que sin serlo, sea inscribible, el notario, escribano o autoridad ante quien vaya a otorgarse deberá dar al registro un primer aviso preventivo al solicitarle certificado sobre la existencia de la inscripción en favor del titular registral o sobre los gravámenes que reporte el inmueble o derecho o la libertad de los mismos. Dicho aviso deberá mencionar la operación y finca de que se trate, los nombres de los interesados y el antecedente registral; el registrador, con el aviso preventivo y sin cobro de derechos por la anotación, hará inmediatamente el asiento de presentación y asentará al margen de la inscripción correspondiente una anotación de primer aviso preventivo que tendrá vigencia por un término de diez días hábiles a partir de la fecha de presentación de la solicitud.
+Cuando vaya a otorgarse una escritura en que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión originaria de bienes raíces o cualquier derecho real de los mismos o que sin serlo, sea inscribible, el notario, escribano o autoridad ante quien vaya a otorgarse, deberá dar al Registro Público de la Propiedad un primer aviso preventivo al solicitarle certificado sobre la existencia de la inscripción en favor del titular registral o sobre los gravámenes que reporte el inmueble o derecho o la libertad de los mismos. Dicho aviso deberá mencionar la operación y finca de que se trate, los nombres de los interesados y el antecedente registral. El registrador, hará inmediatamente el asiento de la presentación y asentará al margen de la inscripción correspondiente una anotación de primer aviso preventivo que tendrá vigencia por un término de diez días hábiles a partir de la fecha de presentación de la solicitud.
+
+> <small>(REFORMADO, D.O. 23 DE ENERO DE 2006)</small>
 
 ###### Artículo 2180.
 
-Una vez firmada la escritura que produzca cualesquiera de las consecuencias mencionadas en el artículo precedente, el notario o autoridad ante quien se otorgó dará al registro, dentro de los dos días hábiles siguientes, un segundo aviso preventivo sobre la operación de que se trate, conteniendo además de los datos mencionados en el citado artículo, la fecha de la escritura y el registrador, con el aviso citado y sin cobro de derecho alguno, hará de inmediato el asiento de presentación de tal aviso preventivo y asentará al margen de la inscripción una anotación preventiva del segundo aviso, que tendrá vigencia por término de noventa días naturales a partir de la fecha de su presentación. En los casos en que el segundo aviso preventivo mencionado en este párrafo se dé dentro del término de diez días hábiles a que se contrae el artículo anterior, los efectos preventivos del segundo aviso se retrotraerán a la fecha de presentación del primero, que lo será de la expedición del certificado del registro público. Si se diere después de ese plazo sólo surtirá efectos desde la fecha y hora de su presentación.
+Una vez firmada la escritura que produzca cualesquiera de las consecuencias mencionadas en el artículo precedente, el notario o autoridad ante quien se otorgó, dará al Registro Público de la Propiedad, dentro de los dos días hábiles siguientes, un segundo aviso preventivo sobre la operación de que se trate, conteniendo además de los datos mencionados en el citado artículo, la fecha de la escritura. El registrador, hará de inmediato el asiento de presentación de tal aviso preventivo y asentará al margen de la inscripción una anotación preventiva del segundo aviso, que tendrá vigencia por término de noventa días naturales a partir de la fecha de su presentación. En los casos en que el segundo aviso preventivo mencionado en este párrafo se dé dentro del término de diez días hábiles a que se contrae el artículo anterior, los efectos preventivos del segundo aviso se retrotraerán a la fecha de presentación del primero, que lo será de la expedición del certificado del Registro Público de la Propiedad. Si se diere después de ese plazo sólo surtirá efectos desde la fecha y hora de su presentación.
 
 ###### Artículo 2181.
 
@@ -13469,7 +13473,7 @@ C.P. ENYD MARIA MARTINEZ MENENDEZ
 
 OFICIAL MAYOR DE GOBIERNO EN FUNCIONES DE SECRETARIO GENERAL DE GOBIERNO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
 
 D.O. 13 DE DICIEMBRE DE 1999.
 
@@ -13500,3 +13504,9 @@ Los procesos de adopción que actualmente se encuentren en trámite ante los Jue
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O. 23 DE ENERO DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
