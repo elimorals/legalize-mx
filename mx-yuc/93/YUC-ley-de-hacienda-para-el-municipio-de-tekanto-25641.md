@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-tekanto-25641"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2004-12-31"
+last_updated: "2006-01-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25641&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE TEKANTO, YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE TEKANTO, PUBLICADA EN EL D.O. DE 24 DE ENERO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: ABROGADA.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el sábado 30 de diciembre de 2000.
 
@@ -1810,3 +1812,15 @@ P.O. 31 DE DICIEMBRE DE 2004.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+P.O. 24 DE ENERO DE 2006.
+
+Artículo Primero.- El cobro de los derechos, así como las tasas, cuotas y tarifas aplicables a los servicios que a la fecha de la publicación de la presente Ley, no hayan sido transferidos formalmente al Ayuntamiento por el Gobierno del Estado, entraran en vigor hasta la celebración del convenio respectivo.
+
+Artículo Segundo.- Para poder percibir Aprovechamientos vía Infracciones por Faltas Administrativas, el Ayuntamiento deberá contar con los reglamentos municipales respectivos, los que establecerán los montos de las sanciones correspondientes.
+
+Artículo Tercero.- Se abroga la Ley de Hacienda del Municipio de Tekantó, Yucatán, aprobada en el decreto 390, publicado en el diario oficial del 29 de diciembre del 2000.
+
+SE TRANCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS QUE TIENEN RELACION CON LA PRESENTE LEY.
+
+Artículo Primero.- El presente decreto y las leyes contenidas en el, entraran en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, y tendrán vigencia hasta el treinta y uno de diciembre del mismo año.
