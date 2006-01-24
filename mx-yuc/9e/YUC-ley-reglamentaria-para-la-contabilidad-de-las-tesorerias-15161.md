@@ -4,7 +4,7 @@ identifier: "YUC-ley-reglamentaria-para-la-contabilidad-de-las-tesorerias-15161"
 country: "mx"
 rank: "ley"
 publication_date: "1929-08-01"
-last_updated: "1930-09-10"
+last_updated: "2006-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY REGLAMENTARIA PARA LA CONTABILIDAD DE LAS TESORERIAS MUNICIPALES DEL ESTADO Y PARA LA FORMACION, COMPROBACION Y PRESENTACION DE SUS CUENTAS A LA CONTADURIA MAYOR DE HACIENDA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 10 DE SEPTIEMBRE DE 1930.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE ENERO DE 2006.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 1 de agosto de 1929.
 
@@ -87,9 +87,15 @@ II CUENTAS GENERALES
 
 Los Tesoreros Municipales cerrarán sus cuentas el último día de cada mes, o antes si hubiere motivo justificado. Dentro de los quince días siguientes al último de las cuentas cerradas, los Tesoreros formarán y remitirán, por los conductos ordinarios, a la Contaduría Mayor de Hacienda del Estado, la cuenta que esta oficina debe revisar, glosar y finiquitar, aparejándola y comprobándola en la forma que previene esta Ley.
 
+> <small>(REFORMADO, D.O. 24 DE ENERO DE 2006)</small>
+
 ###### Artículo 11.
 
-El Presidente de la Corporación Municipal respectiva, o la comisión que el Presidente designe, examinará la cuenta rendida por el Tesorero, cudando (sic) de que esté ajustada a las prescripciones legales, y con su dictamen aprobado, por la Corporación Municipal, pasarán dichas cuentas a la Contaduría Mayor de Hacienda por los conductos debidos.
+El Presidente Municipal pondrá a disposición de los integrantes del Cabildo, la cuenta pública que presente la Tesorería, para que con oportunidad sea revisada, observándose que se ajuste a las prescripciones legales vigentes.
+
+Efectuada la revisión, la cuenta pública será sometida a la consideración del Cabildo para su aprobación; en caso de no ser aprobada, los motivos se especificarán en el acta de Cabildo respectiva. Aprobada o no la cuenta Pública, ésta se enviará a la Contaduría Mayor de Hacienda en los términos de ley.
+
+La Contaduría Mayor de Hacienda, al efectuar la revisión y glosa de una cuenta pública no aprobada por el Cabildo, consignará en el informe respectivo los motivos específicos de tal determinación.
 
 ###### Artículo 12.
 
@@ -274,3 +280,13 @@ JULIO V. CORREA
 D.O. 10 DE SEPTIEMBRE DE 1930.
 
 EL DECRETO QUE REFORMA A LA PRESENTE LEY NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN LA LEGISLACION DEL FUERON COMUN.
+
+D.O. 24 DE ENERO DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese el presente Decreto a los 106 Ayuntamientos del Estado.
