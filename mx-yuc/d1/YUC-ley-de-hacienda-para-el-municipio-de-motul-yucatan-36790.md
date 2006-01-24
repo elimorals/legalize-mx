@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-motul-yucatan-36790"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-31"
-last_updated: "2005-01-28"
+last_updated: "2006-01-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE MOTUL, YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE ENERO DE 2006.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el miércoles 31 de diciembre de 2003.
 
@@ -559,7 +559,9 @@ Colindancias con camino blanco $ 300.00 Por hectárea
 
 Colindancia con brecha $ 250.00 Por hectárea
 
-En el caso de predio cuyo valor catastral es igual o inferior de $ 14,000.00 se pagará un mínimo de $ 20.00 de impuesto predial.
+> <small>(REFORMADO, D.O. 24 DE ENERO DE 2006)</small>
+
+En el caso de predios cuyo valor catastral es igual o inferior a $ 14,000.00 se pagará un mínimo de $ 21.00 de impuesto predial.
 
 DEL PAGO
 
@@ -1121,83 +1123,109 @@ El objeto de estos derechos está constituido por los servicios que presta el Ca
 
 La cuota que se pagará por los servicios que presta el Catastro Municipal, causarán derechos de conformidad con la siguiente tarifa.
 
-> <small>(REFORMADA, D.O. 28 DE ENERO DE 2005)</small>
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
 
 I.- Emisión de copias fotostáticas simples.
 
-a) Por cada hoja simple tamaño carta, de cédulas , planos, parcelas, formas de manifestación de traslación de dominio o cualquier otra manifestación $ 15.00
+a) Por cada hoja simple tamaño carta, de cédulas,
 
-b) Por cada copia simple tamaño oficio $ 20.00
+planos, parcelas, formas de manifestación de traslación
 
-> <small>(REFORMADA, D.O. 28 DE ENERO DE 2005)</small>
+de dominio o cualquier otra manifestación $ 16.00
+
+b) Por cada copia simple tamaño oficio $ 21.00
+
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
 
 II.- Por expedición de copias fotostáticas certificadas de:
 
-a) Cédulas, planos, parcelas, manifestaciones, tamaño carta. $ 20.00
+a) Cédulas, planos, parcelas, manifestaciones,
 
-b) Fotostáticas de plano tamaño oficio, por cada una. $ 25.00
+tamaño carta. $ 21.00
 
-c) Fotostáticas de plano hasta 4 veces tamaño oficio, por cada una. $50.00
+b) Fotostáticas de plano tamaño oficio,
 
-d) fotostáticas de planos mayores de 4 veces de tamaño oficio por cada una $ 90.00
+por cada una. $ 26.00
 
-> <small>(REFORMADA, D.O. 28 DE ENERO DE 2005)</small>
+c) Fotostáticas de plano hasta 4 veces
+
+tamaño oficio, por cada una. $ 51.00
+
+d) Fotostáticas de planos mayores de 4
+
+veces de tamaño oficio por cada una. $ 92.00
+
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
 
 III.- Por expedición de oficios de:
 
-a) División(por cada parte) $ 15.00
+a) División (por cada parte) $ 16.00
 
-b) Unión, rectificación de medidas, urbanización y cambio de
+b) Unión, rectificación de medidas,
 
-nomenclatura $ 25.00
+urbanización y cambio de nomenclatura $ 26.00
 
-c) Cédulas catastrales $ 50.00
+c) Cédulas catastrales. $ 52.00
 
-d) Constancias de no propiedad, única propiedad, valor catastral, número oficial de predio, certificado de inscripción vigente, información de bienes inmuebles $ 50.00
+d) Constancias de no propiedad, única
 
-> <small>(REFORMADA, D.O. 28 DE ENERO DE 2005)</small>
+propiedad, valor catastral, número oficial
+
+de predio, certificado de inscripción vigente
+
+e información de bienes inmuebles $52.00
+
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
 
 IV.- Por elaboración de planos:
 
-a) Catastrales a escala $150.00
+a) Catastrales a escala. $ 155.00
 
-b) Planos topográficos hasta 100 has $250.00
+b) Planos topográficos hasta 100 hectáreas. $ 258.00
 
-> <small>(REFORMADA, D.O. 28 DE ENERO DE 2005)</small>
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
 
-V.- Por revalidación de oficios de división, unión y rectificación de medidas $ 25.00
+V.- Por revalidación de oficios de división,
 
-> <small>(REFORMADA, D.O. 28 DE ENERO DE 2005)</small>
+unión y rectificación de medidas. $ 26.00
 
-VI.- Por reproducción de documentos microfilmados:
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
 
-a) Tamaño carta $ 40.00
+VI.- Por reproducción de documentos
 
-b) Tamaño oficio $ 50.00
+Microfilmados:
 
-> <small>(REFORMADA, D.O. 28 DE ENERO DE 2005)</small>
+a) Tamaño carta. $ 41.00
 
-VII.- Por diligencias de verificación de medidas físicas y de colindancias de predios $150.00
+b) Tamaño oficio $ 52.00
+
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+
+VII.- Por diligencias de verificación de medidas
+
+físicas y de colindancias de predios. $ 155.00
 
 > <small>(REFORMADA, D.O. 28 DE ENERO DE 2005)</small>
 
 VIII.- Cuando la diligencia incluya trabajos de topografía, adicionalmente a la tarifa de la fracción anterior, se causarán en los montos siguientes:
 
-De 01-00-00 A 10-00-00 $ 550.00
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
 
-De 10-00-01 A 20-00-00 $ 1,100.00
+De 01-00-00 A 10-00-00 $ 565.00
 
-De 20-00-01 A 30-00-00 $ 1,200.00
+De 10-00-01 A 20-00-00 $ 1,133.00
 
-De 30-00-01 A 40-00-00 $ 2,300.00
+De 20-00-01 A 30-00-00 $ 1,236.00
 
-De 40-00-01 A 50-00-00 $ 3,000.00
+De 30-00-01 A 40-00-00 $ 2,369.00
 
-De 50-00-01 En adelante $500.00 por has.
+De 40-00-01 A 50-00-00 $ 3,090.00
+
+De 50-00-01 En adelante $ 515.00 por hectárea
 
 IX.- Por actualizaciones de predios urbanos se causarán y pagarán los siguientes derechos:
 
-(VER TABLA ANEXA)
+(VEASE ARCHIVO ANEXO)
 
 ###### ARTÍCULO 95.
 
@@ -1253,17 +1281,17 @@ DE LA TASA Y DEL PAGO
 
 Los derechos de servicios de mercados y centrales de abasto se causarán y pagarán de conformidad con la siguiente tarifa:
 
-> <small>(REFORMADA, D.O. 28 DE ENERO DE 2005)</small>
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
 
-I.- Por espacios ubicados en mercados construidos, así como plazas, calles, terrenos, se pagarán $185.00 mensual por locales cerrados.
+I.- Por espacios ubicados en mercados construidos, así como plazas, calles, terrenos, se pagarán $ 190.00 mensual por locales cerrados;
 
-> <small>(REFORMADA, D.O. 28 DE ENERO DE 2005)</small>
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
 
-II.- Por cuota fija para comerciantes ambulantes, se pagarán $30.00 por día.
+II.- Por cuota fija para comerciantes ambulantes, se pagarán $ 45.00 por día; y
 
-> <small>(REFORMADA, D.O. 28 DE ENERO DE 2005)</small>
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
 
-III.- Por metro cuadrado de superficie asignada en mercados construidos, plazas, calles, terrenos y espacios, se pagarán $ 2.00 m2.
+III.- Por metro cuadrado de superficie asignada en mercados construidos, plazas, calles, terrenos y espacios, se pagarán $ 3.00 m2.
 
 DE LA RENUNCIA Y OTORGAMIENTO DE CONCESIONES
 
@@ -1373,93 +1401,137 @@ III.- Departamento de licores en supermercados $4,000.00
 
 IV.- Mini súper $4,000.00
 
-> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2005)</small>
+> <small>(ADICIONADO PRIMER PARRAFO, D.O. 28 DE ENERO DE 2005)</small>
 
 ###### ARTÍCULO 114.
 
 Para el otorgamiento de licencias de funcionamiento de establecimientos o locales cuyos giros sean la prestación de servicios que incluyan el expendio de bebidas alcohólicas se cobrará una cuota de acuerdo a la siguiente tarifa:
 
-I.- Centros nocturnos y discotecas $4,000.00
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
 
-II.- Cantinas y bares $4,000.00
+I.- Centros nocturnos y
 
-III.- Clubes sociales $4,000.00
+Discotecas $ 5,000.00
 
-IV.- Salones de baile $4,000.00
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
 
-V.- Restaurantes, hoteles y moteles $4,000.00
+II.- Cantinas y bares $ 5,000.00
 
-> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2005)</small>
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+
+III.- Clubes sociales $ 5,000.00
+
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+
+IV.- Salones de baile $ 5,000.00
+
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+
+V.- Restaurantes, hoteles
+
+y moteles $ 5,000.00
+
+> <small>(ADICIONADO PRIMER PARRAFO, D.O. 28 DE ENERO DE 2005)</small>
 
 ###### ARTÍCULO 115.
 
 Por el otorgamiento de la revalidación de licencias para el funcionamiento de los establecimientos que se relacionan en el artículo 111 de esta ley, se pagará un derecho conforme a la siguiente tarifa:
 
-I.- Vinaterías $500.00
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
 
-II.- Expendio de cerveza $500.00
+I.- Vinaterías $ 750.00
 
-III.- Departamento de licores en supermercados $500.00
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
 
-IV.- Mini súper $500.00
+II.- Expendio de cerveza $ 750.00
 
-V.- Centros nocturnos y discotecas $500.00
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
 
-VI.- Cantinas y bares $500.00
+III.- Departamento de licores
 
-VII.- Clubes sociales $500.00
+en supermercados $ 750.00
 
-VIII.- Salones de baile $500.00
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
 
-IX.- Restaurantes, hoteles y moteles $500.00
+IV.- Mini súper $ 750.00
 
-> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2005)</small>
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+
+V.- Centros nocturnos y
+
+discotecas $ 750.00
+
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+
+VI.- Cantinas y bares $ 750.00
+
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+
+VII.- Clubes sociales $ 750.00
+
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+
+VIII.- Salones de baile $ 750.00
+
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+
+IX.- Restaurantes, hoteles y
+
+moteles $ 750.00
+
+> <small>(REFORMADO, D.O. 24 DE ENERO DE 2006)</small>
 
 ###### ARTÍCULO 116.
 
-La cuota aplicable para la autorización del funcionamiento en horario extraordinario de giros relacionados con la venta de bebidas alcohólicas será por cada hora y cuando no contravenga lo establecido en la Ley de Salud del Estado de Yucatán, de acuerdo a la siguiente tarifa:
+La cuota aplicable para la autorización del funcionamiento en horario extraordinario relacionado con la venta de bebidas alcohólicas será por cada hora y cuando no contravenga lo establecido en la Ley de Salud del Estado de Yucatán, de acuerdo a la siguiente tarifa:
 
-I.- Vinaterías $100.00
+I.- Vinaterías $200.00
 
-II.- Expendio de cerveza $100.00
+II.- Expendio de cerveza $200.00
 
-III.- Departamento de licores en supermercados $100.00
+III.- Departamento de licores en supermercados $200.00
 
-IV.- Mini súper $100.00
+IV.- Mini súper $200.00
 
-V.- Centros nocturnos y discotecas $100.00
+V.- Centros nocturnos y discotecas $200.00
 
-VI.- Cantinas y bares $100.00
+VI.- Cantinas y bares $200.00
 
-VII.- Clubes sociales $100.00
+VII.- Clubes sociales $200.00
 
-VIII.- Salones de baile $100.00
+VIII.- Salones de baile $200.00
 
-IX.- Restaurantes, hoteles y moteles $100.00
+IX.- Restaurantes, hoteles y moteles $200.00
 
-> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, D.O. 24 DE ENERO DE 2006)</small>
 
 ###### ARTÍCULO 117.
 
-La cuota aplicable para el otorgamiento de permisos eventuales de funcionamiento de giros relacionados con la venta de bebidas alcohólicas será por evento y de acuerdo a la siguiente tarifa:
+La cuota aplicable para el otorgamiento de permisos eventuales de giros relacionados con la venta de bebidas alcohólicas será por evento y de acuerdo a la siguiente tarifa:
 
-I.- Vinaterías $600.00
+I.- Vinaterías $ 600.00
 
-II.- Expendio de cerveza $500.00
+II.- Expendio de cerveza $ 500.00
 
-III.- Departamento de licores en supermercados $600.00
+III.- Departamento de licores
 
-IV.- Mini súper $600.00
+en supermercados $ 600.00
 
-V.- Centros nocturnos y discotecas $600.00
+IV.- Mini súper $ 600.00
 
-VI.- Cantinas y bares $600.00
+V.- Centros nocturnos $ 600.00
 
-VII.- Clubes sociales $500.00
+y discotecas
 
-VIII.- Salones de baile $600.00
+VI.- Cantinas y bares $ 600.00
 
-IX.- Restaurantes, hoteles y moteles $600.00
+VII.- Clubes sociales $ 500.00
+
+VIII.- Salones de baile $ 600.00
+
+IX.- Restaurantes, hoteles y
+
+moteles $ 600.00
 
 > <small>(ADICIONADO, D.O. 28 DE ENERO DE 2005)</small>
 
@@ -1471,19 +1543,37 @@ Esta sanción se aplicará sin perjuicio de que, la Tesorería proceda a la clau
 
 En todo caso, la Tesorería antes de aplicar las sanciones que establece este artículo requerirá por escrito al contribuyente para que realice el trámite correspondiente, otorgándole un plazo de tres días para tal efecto. Si la persona requerida hace caso omiso del requerimiento mencionado, la tesorería procederá a la clausura del establecimiento, sin perjuicio de aplicar la sanción pecuniaria procedente.
 
-> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2005)</small>
+> <small>(ADICIONADO PRIMER PARRAFO, D.O. 28 DE ENERO DE 2005)</small>
 
 ###### ARTÍCULO 119.
 
 Por el otorgamiento de licencias establecidas en el artículo 110 fracción II, de esta ley, se causarán y pagarán derechos de acuerdo con la siguiente tarifa:
 
-I.- Anuncios murales $ 150.00 mensuales
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
 
-II.- Anuncios estructurales fijos por metro cuadrado o fracción $ 40.00 mensuales
+I.- Anuncios murales $ 155.00 mensuales
 
-III.- Anuncios en carteleras mayores de 2 metros cuadrados por cada metro cuadrado o fracción $ 40.00 mensuales
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
 
-IV.- Anuncios en carteleras oficiales $ 12.00 por día
+II.- Anuncios estructurales fijos
+
+por metro cuadrado o fracción $ 42.00 mensuales
+
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+
+III.- Anuncios en carteleras mayores
+
+de 2 metros cuadrados por cada
+
+metro cuadrado o fracción $ 42.00 mensuales
+
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+
+IV.- Anuncios en carteleras
+
+oficiales $ 13.00 por día
+
+> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2005)</small>
 
 V.- Vehículos con permiso de propaganda comercial $ 15.00 por día
 
@@ -1531,101 +1621,231 @@ Por uso de la fosa común $ 50.00
 
 ### CAPÍTULO X. DERECHOS POR SERVICIOS DE VIGILANCIA
 
-> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2005)</small>
+> <small>(ADICIONADO PRIMER PARRAFO, D.O. 28 DE ENERO DE 2005)</small>
 
 ###### ARTÍCULO 121.
 
 Son sujetos obligados al pago de este derecho las personas físicas o morales que soliciten este servicio de acuerdo con la siguiente tarifa:
 
-I.- Por mes $3,000.00 por cada elemento
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
 
-II.- Por turno de servicio $ 120.00 por cada elemento
+I.- Por mes $ 3,090.00 por cada elemento
 
-III.- Por hora o fracción $ 60.00 por cada elemento
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
 
-El pago de este derecho se hará al momento de solicitar el servicio
+II.- Por turno de servicio $ 125.00 por cada elemento
+
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+
+III.- Por hora o fracción $ 62.00 por cada elemento
+
+> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2005)</small>
+
+El pago de este derecho se hará al momento de solicitar el servicio.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O. 28 DE ENERO DE 2005)</small>
 
 ### CAPÍTULO XI. OTROS SERVICIOS PRESTADOS POR EL AYUNTAMIENTO
 
-> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2005)</small>
+> <small>(ADICIONADO PRIMER PARRAFO, D.O. 28 DE ENERO DE 2005)</small>
 
 ###### ARTÍCULO 122.
 
 Los derechos por servicios prestados en el laboratorio municipal se cobrarán de conformidad con la siguiente tarifa:
 
-I.- Acido úrico $35.00
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
 
-II.- Antiestreptolisnas $ 60.00
+I.- Acido úrico $ 36.00
 
-III.- Bacterioscopia (gram) $ 35.00
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
 
-IV.- Biometría hemática $ 35.00
+II.- Antiestreptolisnas $ 62.00
 
-V.- Colesterol total $ 35.00
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
 
-VI.- Creatinina $ 35.00
+III.- Bacterioscopia (gram) $ 36.00
 
-VII.- Cultivo $ 63.00
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
 
-VIII.- Heritrocedimentación glo. $ 35.00
+IV.- Biometría hemática $ 36.00
 
-IX.- Examen general de orina $ 35.00
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
 
-X.- Factor reumatoide (latex) $ 35.00
+V.- Colesterol total $ 36.00
 
-XI.- Glucosa $ 35.00
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
 
-XII.- Plaquetas $ 35.00
+VI.- Creatinina $ 36.00
 
-XIII.- Proteínas C reactiva $ 35.00
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
 
-XIV.- Recticulocitos $ 35.00
+VII.- Cultivo $ 65.00
 
-XV.- Reacciones lupticas $ 60.00
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
 
-XVI.- Tiempo protrombina y tromboplástica $ 70.00
+VIII.- Heritrocedimentación glo. $ 36.00
 
-XVII.- Triglicéridos $ 35.00
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
 
-XVIII.- Perfil de lípidos $130.00
+IX.- Examen general de orina $ 36.00
 
-XIX.- Anticuerpos hib $105.00
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
 
-XX.- Bacilos copia (baar) $ 35.00
+X.- Factor reumatoide (látex) $ 36.00
 
-XXI.- Brilirrubinas (bil) $ 35.00
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
 
-XXII.- Colesterol (hdl y ldl) $ 95.00
+XI.- Glucosa $ 36.00
 
-XXIII.- Coproparasitoscópico cps. $ 35.00
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
 
-XXIV.- Creatina depuración $ 60.00
+XII.- Plaquetas $ 36.00
 
-XXV.- Cultivo / antibiograma $100.00
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
 
-XXVI.- Espermatobioscopia $ 80.00
+XIII.- Proteínas C reactiva $ 36.00
 
-XXVII.- Factor de riesgo en hiperlipidemia $100.00
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
 
-XXVIII.- Factor rh y grupo sanguíneo $ 30.00
+XIV.- Recticulocitos $ 36.00
 
-XXIX.- Fraccionbetahcg (pie) $ 70.00
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
 
-XXX.- Lípidos totales $ 60.00
+XV.- Reacciones lupticas $ 62.00
 
-XXXI.- Proteínas tot. Con relación a /g $ 35.00
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
 
-XXXII.- Química sanguínea $100.00
+XVI.- Tiempo protrombina y
 
-XXXIII.- Reacciones febriles $ 60.00
+tromboplastica $ 72.00
 
-XXXIV.- Tiempo de coagulación y sangrado $ 25.00
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
 
-XXXV.- Transaminasas TGO $ 70.00
+XVII.- Triglicéridos $ 36.00
 
-XXXVI.- Perfil funcional $170.00
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+
+XVIII.- Perfil de lípidos $ 134.00
+
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+
+XIX.- Anticuerpos hib $ 108.00
+
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+
+XX.- Bacilos copia (baar) $ 36.00
+
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+
+XXI.- Bilirrubinas (bil) $ 36.00
+
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+
+XXII.- Colesterol (hdl y ldl) $ 98.00
+
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+
+XXIII.- Coproparasitoscopico
+
+Cps. $ 36.00
+
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+
+XXIV.- Creatina depuración $ 62.00
+
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+
+XXV.- Cultivo/antibiograma $ 103.00
+
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+
+XXVI.- Espermatobioscopia $ 82.00
+
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+
+XXVII.- Factor de riesgo en
+
+hiperlipidemia $ 103.00
+
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+
+XXVIII.- Factor rh y grupo
+
+sanguíneo $ 31.00
+
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+
+XXIX.- Fraccionbetahcg (pie) $ 72.00
+
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+
+XXX.- Lípidos totales $ 62.00
+
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+
+XXXI.- Proteínas tot. Con
+
+Relación a /g $ 36.00
+
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+
+XXXII.- Química sanguínea $ 103.00
+
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+
+XXXIII.- Reacciones febriles $ 62.00
+
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+
+XXXIV.- Tiempo de coagulación
+
+y sangrado $ 26.00
+
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+
+XXXV.- Transaminasas TGO $ 72.00
+
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
+
+XXXVI.- Perfil funcional $ 175.00
+
+> <small>(ADICIONADO, D.O. 24 DE ENERO DE 2006)</small>
+
+###### ARTÍCULO 122-A.
+
+Quedan obligados al pago de derechos todas aquellas personas físicas o morales que deseen instalar equipo para proporcionar servicios de televisión por cable, pagando a la Tesorería del H. Ayuntamiento una cuota de $ 25,000.00
+
+> <small>(ADICIONADO CON LA SECCION Y LOS ARTICULOS QUE LO INTEGRAN, D.O. 24 DE ENERO DE 2006)</small>
+
+### CAPÍTULO XII. DERECHOS POR LOS SERVICIOS DE LA UNIDAD DE ACCESO A LA INFORMACIÓN PÚBLICA
+
+> <small>(ADICIONADO, D.O. 24 DE ENERO DE 2006)</small>
+
+###### ARTÍCULO 122-B.
+
+Son sujetos obligados al pago de derechos por los servicios que presta la Unidad de Acceso a la Información Pública del Municipio de Motul, las personas físicas o morales que soliciten, cualesquiera de los servicios a que se refiere este capítulo.
+
+> <small>(ADICIONADO, D.O. 24 DE ENERO DE 2006)</small>
+
+DE LA CLASIFICACIÓN
+
+> <small>(ADICIONADO, D.O. 24 DE ENERO DE 2006)</small>
+
+###### ARTÍCULO 122-C.
+
+Los sujetos pagarán los derechos por los servicios que soliciten a la Unidad de Acceso a la Información Pública:
+
+I.- Por cada copia simple tamaño carta $ 1.00
+
+II.- Por cada copia certificada tamaño carta $ 12.00
+
+III.- Por la información solicitada grabada
+
+en disco compacto $ 30.00
+
+IV.- Por la información solicitada grabada
+
+en diskete $ 15.00
 
 ### CAPÍTULO ÚNICO. DE LOS SUJETOS
 
@@ -1635,15 +1855,11 @@ XXXVI.- Perfil funcional $170.00
 
 (REUBICADO [N. DE E. ANTES ARTICULO 122], D.O. 28 DE ENERO DE 2005)
 
+## TÍTULO QUINTO. DE LAS CONTRIBUCIONES DE MEJORAS
+
 ### CAPÍTULO I. DE LAS MULTAS ADMINISTRATIVAS
 
 > <small>(ADICIONADO [N. DE E. ANTES ARTICULO 130], D.O. 28 DE ENERO DE 2005)</small>
-
-## TÍTULO QUINTO. DE LAS CONTRIBUCIONES DE MEJORAS
-
-### CAPÍTULO I. GENERALIDADES
-
-> <small>(ADICIONADO [N. DE E. ANTES ARTICULO 136], D.O. 28 DE ENERO DE 2005)</small>
 
 ###### ARTÍCULO 123.
 
@@ -1797,11 +2013,9 @@ El Tesorero Municipal previa solicitud por escrito del interesado y una vez real
 
 ## TÍTULO SEXTO. DE LOS PRODUCTOS
 
-### CAPÍTULO II. INFRACCIONES Y SANCIONES
+### CAPÍTULO I. GENERALIDADES
 
-DE LOS RESPONSABLES
-
-> <small>(ADICIONADO [N. DE E. ANTES ARTICULO 137], D.O. 28 DE ENERO DE 2005)</small>
+> <small>(ADICIONADO [N. DE E. ANTES ARTICULO 136], D.O. 28 DE ENERO DE 2005)</small>
 
 ###### ARTÍCULO 135.
 
@@ -1872,6 +2086,12 @@ DE LOS DAÑOS
 Los productos que percibirá el Municipio por los daños que sufrieren las vías públicas o los bienes de su propiedad, serán cuantificados de acuerdo al peritaje que se elabore al efecto, sobre los daños sufridos. El perito será designado por la autoridad fiscal municipal.
 
 ## TÍTULO SÉPTIMO. APROVECHAMIENTOS
+
+### CAPÍTULO II. INFRACCIONES Y SANCIONES
+
+DE LOS RESPONSABLES
+
+> <small>(ADICIONADO [N. DE E. ANTES ARTICULO 137], D.O. 28 DE ENERO DE 2005)</small>
 
 ###### ARTÍCULO 143.
 
@@ -2060,3 +2280,7 @@ Este Decreto entrará en vigor al día siguiente de su publicación en el Diario
 ###### ARTÍCULO SEGUNDO.
 
 En lo no previsto por esta Ley, se aplicará supletoriamente, y de manera indistinta, lo establecido por la Ley General de Hacienda para los Municipios del Estado, en su parte relativa.
+
+D.O. 24 DE ENERO DE 2006.
+
+Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
