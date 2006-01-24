@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-valladolid-yucatan-36795"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-31"
-last_updated: "2005-08-08"
+last_updated: "2006-01-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE VALLADOLID, YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 8 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE ENERO DE 2006.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el miércoles 31 de diciembre de 2003.
 
@@ -207,9 +207,11 @@ Las aportaciones son los recursos que la federación transfiere a la hacienda p�
 
 INGRESOS EXTRAORDINARIOS
 
+> <small>(REFORMADO, D.O. 24 DE ENERO DE 2006)</small>
+
 ###### ARTICULO 20.
 
-Los ingresos extraordinarios son aquellos distintos de los anteriores que la hacienda pública municipal estima percibir como partes integrantes de su presupuesto, como por ejemplo los empréstitos, la emisión de bonos de deuda pública y otros ingresos que se obtengan de las diversas fuentes de financiamiento, siempre que fueran aprobados por la Legislatura del Estado en términos de lo dispuesto en la Ley Orgánica de los Municipios del Estado de Yucatán y en la Constitución Política del Estado de Yucatán. Los donativos también se consideran ingresos extraordinarios.
+Los Ingresos Extraordinarios son aquellos distintos de los anteriores que la Hacienda Pública Municipal estima percibir como partes integrantes de su presupuesto municipal, como por ejemplo los empréstitos, la emisión de Bonos de Deuda Pública y otros ingresos que se obtengan de la (sic) diversas fuentes de financiamiento, siempre que fueran aprobados por la Legislatura del Estado o por el Ayuntamiento, en términos de lo dispuesto en la Constitución Política y en la Ley Orgánica de los Municipios, ambas del Estado de Yucatán; así como los que reciba de la Federación o del Estado, por conceptos diferentes a Participaciones o Aportaciones. Los donativos, las Adjudicaciones Judiciales y Administrativas, y los subsidios de Organismos Públicos y Privados también se consideran Ingresos Extraordinarios.
 
 ### CAPITULO VII. DE LOS CREDITOS FISCALES
 
@@ -1113,25 +1115,35 @@ En todo caso, la Tesorería antes de aplicar las sanciones que establece este ar
 
 Las personas físicas y morales que soliciten los servicios que a continuación se detallan estarán obligadas al pago de los derechos conforme a lo siguiente:
 
-Servicio Factor salario mínimo
+> <small>(REFORMADA, D.O. 24 DE ENERO DE 2006)</small>
 
-a) Certificaciones y constancias expedidas
+SERVICIO FACTOR SALARIO MÍNIMO
 
-por el Ayuntamiento 1.0
+a) Por certificaciones y constancias expedidas 3.0
 
-b) Venta de formas oficiales impresas 1.0
+b) Por formas oficiales impresas 3.0
 
-c) Ventas de bases para concursos y licitaciones 20.0
+c) Por bases de concursos y licitaciones 30.0
 
-d) Registro en padrones municipales 20.0
+d) Por registro de padrones Municipales 30.0
 
 e) Por anuncios espectaculares y panorámicos
 
-fijos por metro cuadrado anual 1.0
+fijos por metro cuadrado anual 3.0
 
-f) Por anuncios temporales por día 1.0
+f) Por anuncios temporales por día 3.0
 
-g) Por otros derechos 2.0
+PESOS
+
+g) Por copia simple $1.00
+
+h) Por copia certificada $12.00
+
+i) Por Disquete con información $35.00
+
+j) Por disco compacto con información $40.00
+
+k) Por disco en formato DVD con información $50.00
 
 ### CAPITULO V. DE LOS DERECHOS POR LOS SERVICIOS QUE PRESTA
 
@@ -1477,13 +1489,75 @@ El Ayuntamiento a través de sus órganos administrativos podrá autorizar media
 
 En todo caso se requerirá la licencia de salud correspondiente. El incumplimiento de esta disposición se sancionará con una multa de uno a diez salarios mínimos. En caso de reincidencia, la sanción fijada por la autoridad se duplicará y el Presidente Municipal hará del conocimiento de la Secretaría de Salud aquélla circunstancia para que la dependencia estatal resuelva lo conducente.
 
-### CAPITULO UNICO. DE LOS SUJETOS
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, D.O. 24 DE ENERO DE 2006)</small>
 
-### CAPITULO UNICO. DE LA CLASIFICACION
+### CAPITULO XII. DERECHOS POR LOS SERVICIOS DE LA UNIDAD DE ACCESO A LA INFORMACIÓN PÚBLICA
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O. 24 DE ENERO DE 2006)</small>
+
+DE LOS SUJETOS
+
+> <small>(ADICIONADO, D.O. 24 DE ENERO DE 2006)</small>
+
+###### ARTICULO 109-A.
+
+Son sujetos al pago de este derecho las personas físicas y morales que soliciten la reproducción de la información a que se refiere la Ley de Acceso a la Información Pública para el Estado y los Municipios de Yucatán, de acuerdo al manual de procedimientos para la atención a las solicitudes de Acceso a la Información Pública del Municipio de Valladolid, Yucatán.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O. 24 DE ENERO DE 2006)</small>
+
+DEL OBJETO
+
+> <small>(ADICIONADO, D.O. 24 DE ENERO DE 2006)</small>
+
+###### ARTICULO 109-B.
+
+Es objeto de este derecho los servicios que presta la Unidad de Acceso a la Información Pública del H. Ayuntamiento de Valladolid, por la entrega de información a través de copias simples, copias certificadas, discos magnéticos, discos compactos y discos en formato DVD.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O. 24 DE ENERO DE 2006)</small>
+
+DE LA BASE
+
+> <small>(ADICIONADO, D.O. 24 DE ENERO DE 2006)</small>
+
+###### ARTICULO 109-C.
+
+Es base para el cálculo del derecho a que se refiere este Capítulo, el costo de cada uno de los insumos usados para la entrega de la información.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O. 24 DE ENERO DE 2006)</small>
+
+DE LA CUOTA
+
+> <small>(ADICIONADO, D.O. 24 DE ENERO DE 2006)</small>
+
+###### ARTICULO 109-D.
+
+La cuota que se pagará por los derechos mencionados en este Capítulo, serán:
+
+I.- Por copia simple $1.00
+
+II.- Por copia certificada $12.00
+
+III.- Por Disquete $35.00
+
+IV.- Por disco compacto $40.00
+
+V.- Por disco en formato DVD $50.00
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O. 24 DE ENERO DE 2006)</small>
+
+EPOCA DE PAGO
+
+> <small>(ADICIONADO, D.O. 24 DE ENERO DE 2006)</small>
+
+###### ARTICULO 109-E.
+
+El pago de este derecho será efectuado en una sola exhibición, en el momento de solicitar el servicio.
+
+### CAPITULO UNICO. DE LOS SUJETOS
 
 ## TITULO QUINTO. DE LAS CONTRIBUCIONES DE MEJORAS
 
-### CAPITULO UNICO. DE LAS MULTAS ADMINISTRATIVAS
+### CAPITULO UNICO. DE LA CLASIFICACION
 
 ###### ARTICULO 110.
 
@@ -1607,9 +1681,7 @@ El Tesorero Municipal previa solicitud por escrito del interesado y una vez real
 
 ## TITULO SEXTO. DE LOS PRODUCTOS
 
-### CAPITULO UNICO
-
-DE LOS EMPRESTITOS, SUBSIDIOS Y LOS PROVENIENTES DEL ESTADO O LA FEDERACION.
+### CAPITULO UNICO. DE LAS MULTAS ADMINISTRATIVAS
 
 ###### ARTICULO 122.
 
@@ -1665,6 +1737,12 @@ Los recursos que se obtengan por rendimientos de inversiones financieras en inst
 
 ## TITULO SEPTIMO. APROVECHAMIENTOS
 
+### CAPITULO UNICO
+
+DE LOS EMPRESTITOS, SUBSIDIOS Y LOS PROVENIENTES DEL ESTADO O LA FEDERACION.
+
+> <small>(REFORMADO, D.O. 24 DE ENERO DE 2006)</small>
+
 ###### ARTICULO 129.
 
 De conformidad con lo establecido en la ley de Coordinación Fiscal y en los convenios de Colaboración Administrativa en Materia Fiscal Federal, los municipios del Estado de Yucatán, tendrán derecho a percibir los ingresos derivados del cobro de multas administrativas, impuestos por autoridades federales no fiscales. Estas multas tendrán el carácter de aprovechamientos y se actualizarán en los términos de las disposiciones respectivas.
@@ -1685,19 +1763,25 @@ Los aprovechamientos que percibirá el Municipio por los daños que sufrieren la
 
 ###### ARTICULO 132.
 
-Son ingresos extraordinarios los empréstitos, los subsidios y los decretados excepcionalmente.
+Son Ingresos Extraordinarios los Empréstitos, los Subsidios de Organismos Públicos y Privados y los Decretados excepcionalmente.
 
-El Municipio podrá percibir ingresos extraordinarios cuando así lo decrete de manera excepcional el Congreso del Estado o cuando los reciba de la Federación o del Estado, por conceptos diferentes a participaciones o aportaciones.
+El Municipio podrá percibir Ingresos Extraordinarios cuando así lo Decrete de manera excepcional el Congreso del Estado o cuando los reciba de la Federación o del Estado, por conceptos diferentes a Participaciones y Aportaciones.
 
-## TITULO NOVENO
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O. 24 DE ENERO DE 2006)</small>
 
-PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION,
+## TITULO NOVENO. PARTICIPACIONES Y APORTACIONES
+
+> <small>(ADICIONADO, D.O. 24 DE ENERO DE 2006)</small>
+
+###### ARTICULO 132-A.
+
+Son Participaciones y Aportaciones las que el Municipio reciba del Estado o la Federación de conformidad con lo dispuesto por la Ley de Coordinación Fiscal del Estado de Yucatán.
+
+(REUBICADO [N. DE E ANTES TITULO NOVENO], D.O. 24 DE ENERO DE 2006)
+
+## TITULO DECIMO. PROCEDIMIENTO ADMINISTRATIVO DE EJECUCIÓN
 
 ORDENAMIENTO APLICABLE
-
-## TITULO DECIMO. INFRACCIONES Y SANCIONES
-
-DE LOS RESPONSABLES
 
 ###### ARTICULO 133.
 
@@ -1738,6 +1822,12 @@ d) Gasto de certificado de libertad de gravamen.
 ###### ARTICULO 136.
 
 La aplicación de la multas por infracciones a las disposiciones municipales y a la presente ley se efectuará independientemente de que se exija el pago de las contribuciones respectivas y sus demás accesorios, así como de las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
+
+(REUBICADO [N. DE E. ANTES TITULO DECIMO], D.O. 24 DE ENERO DE 2006)
+
+## TITULO DECIMO PRIMERO. INFRACCIONES Y SANCIONES
+
+DE LOS RESPONSABLES
 
 ###### ARTICULO 137.
 
@@ -1798,3 +1888,7 @@ D.O. 8 DE AGOSTO DE 2005.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 24 DE ENERO DE 2006.
+
+Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
