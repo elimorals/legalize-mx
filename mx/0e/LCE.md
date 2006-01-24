@@ -4,7 +4,7 @@ identifier: "LCE"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-27"
-last_updated: "2003-03-13"
+last_updated: "2006-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCE"
 
 LEY DE COMERCIO EXTERIOR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE ENERO DE 2006.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 27 de julio de 1993.
 
@@ -42,27 +42,47 @@ LEY DE COMERCIO EXTERIOR
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2006)</small>
+
 ###### ARTICULO 1o.
 
-La presente Ley tiene por objeto regular y promover el comercio exterior, incrementar la competitividad de la economía nacional, propiciar el uso eficiente de los recursos productivos del país, integrar adecuadamente la economía mexicana con la internacional y contribuir a la elevación del bienestar de la población.
+La presente Ley tiene por objeto regular y promover el comercio exterior, incrementar la competitividad de la economía nacional, propiciar el uso eficiente de los recursos productivos del país, integrar adecuadamente la economía mexicana con la internacional, defender la planta productiva de prácticas desleales del comercio internacional y contribuir a la elevación del bienestar de la población.
+
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2006)</small>
 
 ###### ARTICULO 2o.
 
-Las disposiciones de esta Ley son de orden público y de aplicación en toda la República, sin perjuicio de lo dispuesto por los tratados o convenios internacionales de los que México sea parte. La aplicación e interpretación de estas disposiciones corresponden, para efectos administrativos, al Ejecutivo Federal por conducto de la Secretaría de Comercio y Fomento Industrial.
+Las disposiciones de esta Ley son de orden público y de aplicación en toda la República, sin perjuicio de lo dispuesto por los tratados o convenios internacionales de los que México sea parte. La aplicación e interpretación de estas disposiciones corresponden, para efectos administrativos, al Ejecutivo Federal por conducto de la Secretaría de Economía.
 
 ###### ARTICULO 3o.
 
 Para efectos de esta Ley, se entenderá por:
 
-I. Secretaría, la Secretaría de Comercio y Fomento Industrial;
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2006)</small>
 
-II. Comisión, la Comisión de Comercio Exterior, y
+I. Secretaría, la Secretaría de Economía;
 
-III. Cuotas compensatorias, aquéllas que se aplican a las mercancías importadas en condiciones de discriminación de precios o de subvención en su país de origen, conforme a lo establecido en la presente Ley.
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2006)</small>
+
+II. Comisión, la Comisión de Comercio Exterior;
+
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2006)</small>
+
+III. Cuotas compensatorias, aquellas que se aplican a las mercancías importadas en condiciones de discriminación de precios o de subvención en su país de origen, conforme a lo establecido en la presente Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 24 DE ENERO DE 2006)</small>
+
+IV. Reglas, las de carácter general que emita la Secretaría, sobre regulaciones y restricciones no arancelarias y programas e instrumentos de comercio exterior, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 24 DE ENERO DE 2006)</small>
+
+V. Reglamento, el Reglamento de esta Ley.
 
 Cuando esta Ley se refiera a plazos en días se entenderán días hábiles y cuando se refiera a meses o años se entenderán meses o años calendario.
 
-## TITULO II. FACULTADES DEL EJECUTIVO FEDERAL, DE LA SECRETARIA DE COMERCIO Y FOMENTO INDUSTRIAL Y DE LAS COMISIONES AUXILIARES
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 24 DE ENERO DE 2006)</small>
+
+## TITULO II. FACULTADES DEL EJECUTIVO FEDERAL, DE LA SECRETARIA DE ECONOMIA Y DE LAS COMISIONES AUXILIARES
 
 ### CAPITULO I. Facultades del Ejecutivo Federal
 
@@ -78,11 +98,21 @@ III. Establecer medidas para regular o restringir la exportación o importación
 
 IV. Establecer medidas para regular o restringir la circulación o tránsito de mercancías extranjeras por el territorio nacional procedentes del y destinadas al exterior a través de acuerdos expedidos por la autoridad competente y publicados en el Diario Oficial de la Federación;
 
-V. Conducir negociaciones comerciales internacionales a través de la Secretaría, sin perjuicio de las facultades que correspondan a otras dependencias del Ejecutivo Federal, y
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2006)</small>
 
-VI. Coordinar, a través de la Secretaría, la participación de las dependencias y entidades de la Administración Pública Federal y de los gobiernos de los estados en las actividades de promoción del comercio exterior, así como concertar acciones en la materia con el sector privado.
+V. Conducir negociaciones comerciales internacionales a través de la Secretaría, sin perjuicio de las facultades que correspondan a otras dependencias del Ejecutivo Federal;
 
-### CAPITULO II. Facultades de la Secretaría de Comercio y Fomento Industrial
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2006)</small>
+
+VI. Coordinar, a través de la Secretaría, la participación de las dependencias y entidades de la Administración Pública Federal y de los gobiernos de los estados en las actividades de promoción del comercio exterior, así como concertar acciones en la materia con el sector privado, y
+
+> <small>(ADICIONADA, D.O.F. 24 DE ENERO DE 2006)</small>
+
+VII. Coordinar, a través de la Secretaría, que las dependencias y entidades de la Administración Pública Federal que administren o controlen una restricción o regulación no arancelaria se encuentren interconectadas electrónicamente con la Secretaría y con la Secretaría de Hacienda y Crédito Público.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 24 DE ENERO DE 2006)</small>
+
+### CAPITULO II. Facultades de la Secretaría de Economía
 
 ###### ARTICULO 5o.
 
@@ -90,7 +120,9 @@ Son facultades de la Secretaría:
 
 I. Estudiar, proyectar y proponer al Ejecutivo Federal modificaciones arancelarias;
 
-II. Tramitar y resolver las investigaciones en materia de medidas de salvaguarda, así como proponer al Ejecutivo Federal las medidas que resulten de dichas investigaciones;
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2006)</small>
+
+II. Tramitar y resolver las investigaciones en materia de medidas de salvaguarda, así como imponer las medidas que resulten de dichas investigaciones;
 
 III. Estudiar, proyectar, establecer y modificar medidas de regulación y restricción no arancelarias a la exportación, importación, circulación y tránsito de mercancías;
 
@@ -102,15 +134,25 @@ VI. Establecer los requisitos de marcado de país de origen;
 
 VII. Tramitar y resolver las investigaciones en materia de prácticas desleales de comercio internacional, así como determinar las cuotas compensatorias que resulten de dichas investigaciones;
 
-VIII. Asesorar a los exportadores mexicanos involucrados en investigaciones en el extranjero en materia de prácticas desleales de comercio internacional y medidas de salvaguarda;
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2006)</small>
 
-IX. Coordinar las negociaciones comerciales internacionales con las dependencias competentes;
+VIII. Asesorar a los exportadores mexicanos involucrados en investigaciones en el extranjero en materia de prácticas desleales de comercio internacional y medidas de salvaguarda o en cualquier otro procedimiento del que pueda resultar una restricción a la importación en otros países;
+
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2006)</small>
+
+IX. Coordinar las negociaciones comerciales internacionales con las dependencias competentes y, cuando así lo solicite la Secretaría, con los sectores productivos;
 
 X. Expedir las disposiciones de carácter administrativo en cumplimiento de los tratados o convenios internacionales en materia comercial de los que México sea parte;
 
-XI. Establecer mecanismos de promoción de las exportaciones, y
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2006)</small>
 
-XII. Las demás que le encomienden expresamente las leyes y los reglamentos.
+XI. Establecer los programas y mecanismos de promoción y fomento de las exportaciones, así como las disposiciones que los rijan, escuchando a los sectores productivos e instituciones promotoras del sector público y privado;
+
+> <small>(ADICIONADA, D.O.F. 24 DE ENERO DE 2006)</small>
+
+XII. Emitir reglas que establezcan disposiciones de carácter general en el ámbito de su competencia, así como los criterios necesarios para el cumplimiento de las leyes, acuerdos o tratados comerciales internacionales, decretos, reglamentos, acuerdos y demás ordenamientos generales de su competencia, y
+
+XIII. Las demás que le encomienden expresamente las leyes y los reglamentos.
 
 ### CAPITULO III. Comisiones auxiliares
 
@@ -118,11 +160,21 @@ XII. Las demás que le encomienden expresamente las leyes y los reglamentos.
 
 La Comisión de Comercio Exterior será órgano de consulta obligatoria de las dependencias y entidades de la Administración Pública Federal en relación con las materias a que se refieren las fracciones I a V del artículo 4o. de esta Ley. Esta Comisión estará encargada de emitir opinión en los asuntos de comercio exterior de conformidad a lo establecido en la presente Ley.
 
-La Comisión revisará periódicamente las medidas de regulación y restricción al comercio exterior que se encuentren vigentes, a fin de recomendar las modificaciones a que haya lugar. Además podrá celebrar audiencias públicas con los interesados.
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2006)</small>
 
-###### ARTICULO 7o.
+Asimismo, las dependencias y entidades de la Administración Pública Federal deberán hacer públicos, en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y de la Ley Federal de Procedimiento Administrativo, los anteproyectos de disposiciones derivadas de la presente Ley. Las organizaciones empresariales reconocidas por la Ley de Cámaras y sus Confederaciones en su carácter de organismos de interés público, así como las asociaciones, instituciones y agrupamientos que los coordinen frente al Gobierno Federal, que representen a nivel nacional los intereses del gremio industrial, comercial, agropecuario, de servicios y aduanal del país, así como cualquier otro interesado, podrán emitir una opinión sobre los anteproyectos mencionados.
 
-La Comisión Mixta para la Promoción de las Exportaciones auxiliará al Ejecutivo Federal en relación a la facultad a que se refiere la fracción VI del artículo 4o. Esta Comisión estará encargada de analizar, evaluar, proponer y concertar acciones entre los sectores público y privado en materia de exportaciones de bienes y servicios.
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2006)</small>
+
+La Comisión revisará, de oficio o a petición de los organismos mencionados en el párrafo anterior, las medidas de regulación y restricción al comercio exterior que se encuentren vigentes, a fin de recomendar las modificaciones a que haya lugar. Además podrá celebrar audiencias públicas con los interesados.
+
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2006)</small>
+
+###### ARTICULO 7.
+
+La Comisión Mixta para la Promoción de las Exportaciones auxiliará al Ejecutivo Federal en relación a la facultad a que se refiere la fracción VI del artículo 4 de esta Ley.
+
+Esta Comisión estará encargada de analizar, evaluar, proponer y concertar acciones entre los sectores público y privado en materia de exportaciones de bienes y servicios, para facilitar, promover, diversificar y consolidar el intercambio comercial, así como el fortalecimiento de la planta productiva nacional.
 
 ###### ARTICULO 8o.
 
@@ -224,6 +276,14 @@ El establecimiento de las medidas de regulación y restricción no arancelarias 
 
 Las medidas de regulación y restricción no arancelarias a la exportación e importación de mercancías, a que se refiere la fracción III del artículo 4o., deberán expedirse por acuerdo de la Secretaría o, en su caso, conjuntamente con la autoridad competente. Estas medidas consistirán en permisos previos, cupos máximos, marcado de país de origen, certificaciones, cuotas compensatorias y los demás instrumentos que se consideren adecuados para los fines de esta Ley. Las cuotas compensatorias sólo se aplicarán en el caso previsto en la fracción V del artículo anterior.
 
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2006)</small>
+
+ARTICULO 17 A.- Las restricciones y regulaciones no arancelarias, deberán cumplirse conforme a lo establecido en los ordenamientos aplicables.
+
+Dicho cumplimiento deberá demostrarse mediante documentos que contengan medidas de seguridad o a través de medios electrónicos, o ambos, que determine la Secretaría, conjuntamente con las Dependencias y Entidades de la Administración Pública Federal que corresponda, con excepción de los que hayan sido pactados con países con los que México haya suscrito algún acuerdo o tratado de libre comercio.
+
+Los documentos a que se refiere este artículo deberán acompañar al pedimento que se presente ante la aduana por conducto del agente o apoderado aduanal, en los términos de la legislación aduanera.
+
 ###### ARTICULO 18.
 
 En los casos previstos en las fracciones I y II del artículo 15 y I a V del artículo 16, la evaluación que realice la Comisión deberá basarse en un análisis económico, elaborado por la dependencia correspondiente, de los costos y beneficios que se deriven de la aplicación de la medida. Este análisis podrá tomar en cuenta, entre otros, el impacto sobre los siguientes factores: precios, empleo, competitividad de las cadenas productivas, ingresos del gobierno, ganancias del sector productivo, costo de la medida para los consumidores, variedad y calidad de la oferta disponible y nivel de competencia de los mercados.
@@ -243,6 +303,10 @@ IV. Se limite la vigencia de la medida a un período máximo de 20 días a parti
 ###### ARTICULO 20.
 
 En todo caso, las mercancías sujetas a restricciones o regulaciones no arancelarias se identificarán en términos de sus fracciones arancelarias y nomenclatura que les corresponda conforme a la tarifa respectiva.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2006)</small>
+
+ARTICULO 20 A.- La Secretaría aceptará los certificados de firma electrónica emitidos por los prestadores de servicios de certificación que estén acreditados en los términos del Código de Comercio, así como los que ella misma emita, para efecto de los trámites y notificaciones relacionadas con las regulaciones no arancelarias y los programas previstos en la presente Ley.
 
 #### Sección segunda. Permisos previos, cupos y marcado de país de origen
 
@@ -798,11 +862,11 @@ El cumplimiento de estos compromisos podrá revisarse periódicamente de oficio 
 
 #### Sección primera. Determinación de medidas de salvaguarda
 
-> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2006)</small>
 
 ###### ARTICULO 75.
 
-La determinación de las medidas de salvaguarda deberá hacerse por el Ejecutivo Federal, en un plazo no mayor de 210 días, contados a partir del día siguiente de la publicación en el Diario Oficial de la Federación de la resolución de inicio, y se sujetará a lo dispuesto en los tratados y convenios internacionales de los que México sea parte.
+La determinación de las medidas de salvaguarda deberá hacerse en un plazo no mayor de 210 días, contados a partir del día siguiente de la publicación en el Diario Oficial de la Federación de la resolución de inicio, y se sujetará a lo dispuesto en los tratados y convenios internacionales de los que México sea parte.
 
 > <small>(REFORMADO PRIMERO PARRAFO, D.O.F. 13 DE MARZO DE 2003)</small>
 
@@ -882,9 +946,11 @@ Las visitas de verificación que realice la Secretaría deberán efectuarse en d
 
 De las visitas deberá levantarse acta circunstanciada en presencia de dos testigos propuestos por el visitado o, en su ausencia o negativa, por la autoridad que practique la diligencia. Estas visitas se sujetarán a las disposiciones del reglamento de esta Ley.
 
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2006)</small>
+
 ###### ARTICULO 84.
 
-Las notificaciones a que se refiere esta Ley se harán a la parte interesada o a su representante en su domicilio de manera personal, a través de correo certificado con acuse de recibo o por cualquier otro medio directo, como el de mensajería especializada, o electrónico. Las notificaciones surtirán sus efectos el día hábil siguiente a aquél en que fueren hechas. El reglamento establecerá la forma y términos en que se realizarán las notificaciones.
+Las notificaciones a que se refiere esta Ley se harán a la parte interesada o a su representante en su domicilio de manera personal, a través de correo certificado con acuse de recibo o por cualquier otro medio directo, como el de mensajería especializada o a través de medios electrónicos o de cualquier otra tecnología. Las notificaciones surtirán sus efectos el día hábil siguiente a aquel en que fueren hechas. El reglamento establecerá la forma y términos en que se realizarán las notificaciones.
 
 ###### ARTICULO 85.
 
@@ -980,39 +1046,49 @@ Durante el tiempo que dure el examen de vigencia continuará el pago de cuotas c
 
 ### CAPITULO I. Disposiciones generales
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE MARZO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE ENERO DE 2006)</small>
 
 ###### ARTICULO 90.
 
-La promoción de exportaciones tendrá como objetivo incrementar la participación de los productos y servicios mexicanos en los mercados internacionales.
+La promoción de las exportaciones tendrá como objetivo la consolidación y la mejoría cuantitativa y cualitativa de las exportaciones de productos manufacturados, agroindustriales, servicios y tecnología mexicanos en los mercados internacionales. Para ello se concertarán programas anuales con los organismos representativos de sectores productivos a fin de realizar una eficaz asignación de recursos.
 
 Las actividades de promoción de exportaciones buscarán:
 
 I. Aprovechar los logros alcanzados en negociaciones comerciales internacionales;
 
-II. Facilitar proyectos de exportación;
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2006)</small>
 
-> <small>(REFORMADA, D.O.F. 13 DE MARZO DE 2003)</small>
+II. Facilitar proyectos de exportación, con prioridad en el apoyo a la micro, pequeña y mediana empresa;
 
-III. Resolver a la brevedad los problemas a los que enfrentan las empresas para concurrir a los mercados internacionales; incluyendo aquéllos derivados de los mecanismos de solución de controversias previstos en los tratados internacionales de los que México sea parte;
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2006)</small>
 
-IV. Proporcionar de manera expedita los servicios de apoyo del comercio exterior, y
+III. Contribuir a resolver los problemas que enfrentan las empresas para concurrir a los mercados internacionales y establecer un programa permanente de desregulación y simplificación administrativa en materia de exportaciones, incluyendo aquellos derivados de los mecanismos de solución de controversias previstos en los tratados internacionales de los que México sea parte;
 
-V. Las demás acciones que señalen expresamente otras Leyes o reglamentos.
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2006)</small>
+
+IV. Proporcionar de manera expedita los servicios de apoyo del comercio exterior y los beneficios que los programas oficiales de fomento a las exportaciones establezcan, y
+
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2006)</small>
+
+V. Las demás acciones que señalen expresamente otras leyes o reglamentos.
 
 La Secretaría podrá diseñar, mediante acuerdos publicados en el Diario Oficial de la Federación, mecanismos de coordinación de las actividades de promoción. La coordinación de la promoción tendrá por objeto establecer lineamientos generales para el eficaz desempeño, seguimiento y evaluación de las actividades de promoción de exportaciones.
 
 ### CAPITULO II. Instrumentos de promoción
 
-> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2006)</small>
 
 ###### ARTICULO 91.
 
-El Ejecutivo Federal, por conducto de la Secretaría y en coordinación con las dependencias competentes, deberá establecer mediante decretos publicados en el Diario Oficial de la Federación, programas de promoción vinculados a la infraestructura, capacitación, coordinación, organización, financiamiento, administración fiscal y aduanera y modernización de mecanismos de comercio exterior, siempre y cuando se trate de prácticas internacionalmente aceptadas.
+El Ejecutivo Federal, por conducto de la Secretaría, establecerá las medidas y los mecanismos necesarios para la aplicación de los programas e instrumentos de comercio exterior, por lo que en coordinación con las dependencias competentes, deberá establecer mediante decretos, programas de promoción vinculados a la infraestructura, capacitación, coordinación, organización, financiamiento, administración fiscal y aduanera y modernización de mecanismos de comercio exterior, siempre y cuando se trate de prácticas internacionalmente aceptadas.
+
+Asimismo, la Secretaría deberá establecer mediante acuerdos, aquellas medidas necesarias para la aplicación de los programas e instrumentos citados en el párrafo anterior.
+
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2006)</small>
 
 ###### ARTICULO 92.
 
-El Premio Nacional de Exportación tendrá por objeto reconocer anualmente el esfuerzo de los exportadores nacionales y de las instituciones que apoyen la actividad exportadora. El procedimiento para la selección de los ganadores del premio, la forma de usarlo y las demás disposiciones relacionadas con el mismo se establecerán en el reglamento.
+El Premio Nacional de Exportación tendrá por objeto reconocer anualmente el esfuerzo de los exportadores nacionales y de las instituciones que apoyen la actividad exportadora. El procedimiento para la selección de los ganadores del premio, las diferentes categorías del mismo, la forma de usarlo y las demás disposiciones relacionadas con el mismo se establecerán en el reglamento.
 
 ## TITULO IX. INFRACCIONES, SANCIONES Y RECURSOS
 
@@ -1060,7 +1136,9 @@ IV. Que declaren concluida la investigación sin imponer cuota compensatoria a q
 
 V. Que determinen cuotas compensatorias definitivas o los actos que las apliquen;
 
-VI. Por las que se responda a las solicitudes de los interesados a que se refiere el artículo 60;
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2006)</small>
+
+VI. Por las que se responda a las solicitudes de los interesados a que se refiere el Artículo 89 A;
 
 VII. Que declaren concluida la investigación a que se refiere el artículo 61;
 
@@ -1181,3 +1259,11 @@ Segundo.- Las disposiciones del Reglamento de la Ley de Comercio Exterior public
 Tercero.- Los procedimientos administrativos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto, se resolverán en los términos de la Ley de Comercio Exterior publicada en el Diario Oficial de la Federación el 27 de julio de 1993.
 
 Cuarto.- El Ejecutivo Federal en la esfera de sus atribuciones, establecerá un sistema de alerta oportuna para informar al Congreso de la Unión periódicamente sobre la importación de mercancías vulnerables.
+
+D.O.F. 24 DE ENERO DE 2006.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo.- Para efectos de lo dispuesto por la fracción VII, del artículo 4o. de esta Ley, las Dependencias y Entidades de la Administración Pública Federal que administren o controlen una restricción o regulación no arancelaria, deberán desarrollar en un plazo no mayor a 12 meses, contados a partir de la entrada en vigor del presente Decreto, un plan de trabajo en el que establecerán responsables, metas, plazos comprometidos y además acciones necesarias para interconectarse electrónicamente con la Secretaría de Economía y con la Secretaría de Hacienda y Crédito Público.
+
+Asimismo se establecerá la interconexión electrónica con las entidades prevalidadoras autorizadas en términos de lo dispuesto por el artículo 16-A de la Ley Aduanera, a fin de que el agente o apoderado aduanal estén en posibilidades de verificar el cumplimiento con las restricciones o regulaciones no arancelarias que correspondan.
