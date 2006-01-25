@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2005-07-22"
+last_updated: "2006-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-11"
 
 NUEVO CODIGO PENAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE JULIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 25 DE ENERO DE 2006.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -1460,6 +1460,8 @@ A los hermanos y a los ascendientes o descendientes consanguíneos en línea rec
 
 ### CAPÍTULO ÚNICO. DISCRIMINACIÓN
 
+> <small>(REFORMADO, G.O. 25 DE ENERO DE 2006)</small>
+
 ### CAPÍTULO ÚNICO. INHUMACIÓN, EXHUMACIÓN Y RESPETO A LOS CADÁVERES O RESTOS HUMANOS
 
 ###### ARTÍCULO 182.
@@ -1698,15 +1700,19 @@ II Contraiga matrimonio con una persona casada, si conocía el impedimento al ti
 
 ###### ARTÍCULO 206.
 
-Se impondrán de uno a tres años de prisión y de cincuenta a doscientos días multa al que, por razón de edad, sexo, embarazo, estado civil, raza, precedencia étnica, idioma, religión, ideología, orientación sexual, color de piel, nacionalidad, origen o posición social, trabajo o profesión, posición económica, características físicas, discapacidad o estado de salud:
+Se impondrán de uno a tres años de prisión o de veinticinco a cien días de trabajo en favor de la comunidad y multa de cincuenta a doscientos días al que, por razón de edad, sexo, estado civil, embarazo, raza, procedencia étnica, idioma, religión, ideología, orientación sexual, color de piel, nacionalidad, origen o posición social, trabajo o profesión, posición económica, características físicas, discapacidad o estado de salud o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas:
 
-I. Provoque o incite al odio o a la violencia;
+I.- Provoque o incite al odio o a la violencia;
 
-II. Veje o excluya a alguna persona o grupo de personas; o
+II.- Niegue a una persona un servicio o una prestación a la que tenga derecho. Para los efectos de esta fracción, se considera que toda persona tiene derecho a los servicios o prestaciones que se ofrecen al público en general;
 
-III. Niegue o restrinja derechos laborales.
+III.- Veje o excluya a alguna persona o grupo de personas; o
 
-Al servidor público que niegue o retarde a una persona un trámite, servicio o prestación al que tenga derecho, se le aumentará en una mitad la pena prevista en primer párrafo del presente artículo, y además se le impondrá destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos, por el mismo lapso de la privación de la libertad impuesta.
+IV.- Niegue o restrinja derechos laborales.
+
+Al servidor público que, por las razones previstas en el primer párrafo de este artículo, niegue o retarde a una persona un trámite, servicio o prestación al que tenga derecho, se le aumentará en una mitad la pena prevista en el primer párrafo del presente artículo, y además se le impondrá destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos, por el mismo lapso de la privación de la libertad impuesta.
+
+No serán consideradas discriminatorias todas aquellas medidas tendientes a la protección de los grupos socialmente desfavorecidos.
 
 Este delito se perseguirá por querella.
 
@@ -3655,3 +3661,11 @@ DECRETO QUE MODIFICA LA DENOMINACION DEL CAPITULO CUARTO DEL TITULO SEXTO, RELAT
 PRIMERO.- El presente Decreto entrará en vigor a los quince días de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial del Distrito Federal.
+
+G.O. 25 DE ENERO DE 2006.
+
+PRIMERO. Remítase al Jefe de Gobierno del Distrito Federal para su respectiva promulgación y publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
