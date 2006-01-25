@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-transporte-y-vialidad-del-distrito-federal-26894"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-26"
-last_updated: "2004-09-13"
+last_updated: "2006-01-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26894&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-12"
 
 LEY DE TRANSPORTE Y VIALIDAD DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 25 DE ENERO DE 2006.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 26 de diciembre del 2002.
 
@@ -1600,11 +1600,17 @@ Corresponde a la Secretaría, llevar a cabo el registro de estacionamientos y la
 
 Aquellos estacionamientos que dan un servicio complementario ó uso distinto al local o establecimiento mercantil podrán operar como estacionamiento público o privado, siempre y cuando, satisfagan la demanda que se genera en los términos de la reglamentación respectiva.
 
+> <small>(REFORMADO, G.O. 25 DE ENERO DE 2006)</small>
+
 ###### Artículo 126.
 
-Los estacionamientos privados, tendrán las instalaciones necesarias para garantizar la seguridad de las personas y de los vehículos.
+Los estacionamientos privados y públicos, tendrán las instalaciones necesarias para garantizar la seguridad de las personas y los vehículos.
 
-Las autoridades delegacionales podrán examinar en todo tiempo que las instalaciones y la construcción reúnan las condiciones señaladas en el párrafo que antecede y que tengan a su servicio personal capacitado.
+Los estacionamientos privados, deberán disponer de espacios exclusivos para el uso de personas con capacidades diferentes; debiendo instalar las rampas, escaleras o elevadores necesarios, para dar un trato preferente y seguro a este segmento de la población.
+
+Las dependencias del Gobierno del Distrito Federal y las Jefaturas Delegacionales, que brinden servicio público de estacionamiento, deberán instalar el mobiliario adecuado, para brindar servicio preferencial a las personas con capacidades diferentes.
+
+Las autoridades delegacionales podrán examinar en todo tiempo, que las instalaciones y la construcción reúnan las condiciones señaladas en los párrafos que anteceden y que tengan a su servicio personal capacitado.
 
 ###### Artículo 127.
 
@@ -2027,3 +2033,11 @@ SEXTO. Las personas que a la entrada en vigor del Capítulo sobre la concesión 
 SÉPTIMO. La autoridad correspondiente deberá realizar las modificaciones reglamentarias necesarias.
 
 OCTAVO. La Secretaría y la Secretaría de Seguridad Pública, tendrán un término de 120 días para contar con el registro a que se refiere el artículo 33 ter, así como para dar cumplimiento al artículo 33 octavus de esta Ley.
+
+G.O. 25 DE ENERO DE 2006.
+
+Artículo Primero.- Túrnese al Jefe de Gobierno del Distrito Federal para su promulgación y publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión, publíquese también en el Diario Oficial de la Federación.
+
+Artículo Segundo.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+Artículo Tercero.- Se establecerá un plazo de 90 días naturales para que los prestadores del servicio cumplan con las adecuaciones correspondientes.
