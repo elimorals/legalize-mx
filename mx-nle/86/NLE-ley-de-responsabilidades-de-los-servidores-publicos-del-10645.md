@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-responsabilidades-de-los-servidores-publicos-del-10645"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-29"
-last_updated: "2005-12-16"
+last_updated: "2006-01-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 29 de enero de 1997.
 
@@ -515,9 +515,9 @@ LXII. Cumplir con las obligaciones y abstenerse de cometer las prohibiciones se�
 
 LXIII.- Desempeñar su función pública sin solicitar ni aceptar compensaciones, pagos o gratificaciones distintas a las previstas por la Ley. En particular se opondrán a cualquier acto de corrupción;
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2006)</small>
 
-LXIV.- Abstenerse de otorgar licencias o permisos en materia de desarrollo urbano en contravención a las leyes, normas, sistemas y procedimientos establecidos en zonas de riesgo. En los demás casos, se estará a lo que establezcan las demás disposiciones de esta Ley; y
+LXIV.- Abstenerse de otorgar licencias o permisos en materia de desarrollo urbano en contravención a las leyes, normas, sistemas y procedimientos establecidos en las zonas de riesgo determinadas en el Atlas de Riesgo. En los demás casos, se estará a lo que establezcan las disposiciones de esta Ley; y
 
 LXV.- Las demás que le impongan las leyes y disposiciones reglamentarias o administrativas.
 
@@ -1380,3 +1380,9 @@ Artículo Cuarto.- El Titular del Ejecutivo dispondrá lo conducente al igual qu
 P.O. 16 DE DICIEMBRE DE 2005.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE ENERO DE 2006.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Las normas, sistemas, procedimientos y sanciones establecidas por incumplimiento a lo dispuesto para las zonas de riesgo se aplicarán al día siguiente a la fecha en que se publique el Atlas de Riesgo en el Periódico Oficial del Estado.
