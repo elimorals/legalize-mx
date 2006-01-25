@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-notariado-para-el-distrito-federal-15943"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-28"
-last_updated: "2005-10-26"
+last_updated: "2006-01-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15943&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-02-14"
 
 LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 25 DE ENERO DE 2006.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 28 de marzo de 2000.
 
@@ -74,7 +74,9 @@ VII. "Código Civil": El Código Civil vigente para el Distrito Federal;
 
 VIII. "Código de Procedimientos": El Código de Procedimientos Civiles para el Distrito Federal;
 
-IX. "Código Penal": El Código Penal para el Distrito Federal;
+> <small>(REFORMADA, G.O. 25 DE ENERO DE 2006)</small>
+
+IX. “Código Penal”.- El Nuevo Código Penal para el Distrito Federal;
 
 X. "Colegio": El Colegio de Notarios del Distrito Federal, A. C.;
 
@@ -96,7 +98,11 @@ XVII. "Ley Orgánica": La Ley Orgánica de la Administración Pública del Distr
 
 XVIII. "Notariado": El Notariado del Distrito Federal o Notariado de la Ciudad de México bajo el sistema del Notariado Latino;
 
-XIX. "Registro Público": El Registro Público de la Propiedad y de Comercio del Distrito Federal.
+XIX. "Registro Público": El Registro Público de la Propiedad y de Comercio del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 25 DE ENERO DE 2006)</small>
+
+XX. “Registro Nacional de Testamentos”.- A la Dirección del Registro Nacional de Avisos de Testamento, dependiente de la Dirección General de Compilación y Consulta del Orden Jurídico Nacional de la Secretaría de Gobernación.
 
 ###### Artículo 3.
 
@@ -134,15 +140,19 @@ IV. Estar al servicio del bien y la paz jurídicos de la Ciudad y del respeto y 
 
 V. El ejercicio de la actividad notarial, en la justa medida en que se requiera por los prestatarios del servicio, obrando con estricto apego a la legalidad aplicable al caso concreto, de manera imparcial, preventiva, voluntaria y auxiliar de la administración de justicia, respecto de asuntos en que no haya contienda.
 
-La uteralteridad es la actitud y procedimiento de asesoría notarial y de conformación del instrumento notarial que va más allá de una simple imparcialidad, llevando al notario a ser un verdadero consultor o consejero de cada parte, con atención personal y entrega cuidadosa, de forma tal que se cubran los requisitos de asesoría y consejo para cada una de las partes o solicitantes del servicio, sin descuidar los de la contraparte, ni ser parcial contra ella, sino ejerciendo hacia ella la misma actitud, basada en lo justo concreto del caso de que se trate.
+> <small>(REFORMADO, G.O. 25 DE ENERO DE 2006)</small>
+
+El notario debe prestar su función más allá del interés del solicitante del servicio notarial, lo que implica cumplir sus procedimientos de asesoría notarial y de conformación del instrumento notarial, en estricto apego a la norma y de manera imparcial; debe aconsejar a cada una de las partes o solicitantes del servicio sin descuidar los intereses de la contraparte, en lo justo del caso de que se trate;
 
 VI. El del cuidado del carácter de orden público de la función y su documentación en virtud del otorgamiento de la cualidad para dar fe, por el Jefe de Gobierno, a su actividad como Notario por la expedición de la patente respectiva, previos exámenes que merezcan tal reconocimiento público y social por acreditar el saber prudencial y la practica suficientes para dicha función, con la consecuente pertenencia al Colegio y la coadyuvancia de éste a las funciones disciplinarias de vigilancia y sanción por parte de las autoridades, la continuación del archivo del Notario por el Archivo y la calificación y registro de los documentos públicos reconocidos por esta Ley por el Registro Público, tratándose de actos inscribibles.
 
+> <small>(REFORMADO, G.O. 25 DE ENERO DE 2006)</small>
+
 ###### Artículo 8.
 
-Es obligación de las autoridades competentes, del Colegio y de los Notarios, que la población reciba el mejor servicio notarial posible.
+Es obligación de las autoridades competentes, del Colegio y de los notarios, que la población reciba un servicio notarial pronto, expedito, profesional y eficiente. Si las autoridades competentes observan deficiencias, lo comunicarán al Colegio para que éste instrumente lo necesario para la expedita solución de las mismas y el eficaz cumplimiento de esa obligación.
 
-Si las autoridades competentes observan deficiencias, lo comunicarán al colegio para que éste instrumente lo necesario para la expedita solución de las mismas y el eficaz cumplimiento de esa obligación. Para ello y para programas especiales, el Colegio podrá celebrar convenios.
+En el caso de quejas y denuncias, las autoridades solicitarán que sean atendidas con atingencia por el Colegio y se practiquen las medidas preventivas; lo anterior, sin demérito de los procedimientos establecidos y previstos por otras leyes y reglamentos. Para ello y para programas especiales, el Colegio podrá celebrar convenios.
 
 ###### Artículo 9.
 
@@ -150,15 +160,19 @@ La Administración instrumentará las medidas necesarias para facilitar la activ
 
 Especial apoyo se ofrecerá, tratándose de programas especiales acordados entre la Administración y el Colegio y de aquellos previstos en los artículos 16 al 19 de esta ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE ENERO DE 2006)</small>
+
 ###### Artículo 10.
 
-El Jefe de Gobierno expedirá el decreto de autorización de nuevas notarías, cuando exista la necesidad del crecimiento del servicio y dicha medida no afecte:
+El Jefe de Gobierno expedirá el decreto de autorización de nuevas notarías, cuando exista la necesidad del crecimiento del servicio, en el que podrá señalar su residencia, siempre y cuando dicha medida no afecte:
 
 I. La preparación que deben tener los solicitantes de los exámenes de Aspirante y oposición y el de sus respectivos aprobados y triunfadores; y
 
 II. La imparcialidad, la calidad profesional, la autonomía, la independencia y el sustrato material y económico de los notarios.
 
-El decreto, fundado y motivado, deberá prever un examen de oposición por cada notaría, mediando el tiempo conveniente entre cada convocatoria.
+> <small>(REFORMADO, G.O. 25 DE ENERO DE 2006)</small>
+
+El decreto, fundado y motivado, deberá prever un examen de oposición por cada notaría, tomando en cuenta la población beneficiada y tendencias de su crecimiento, así como las necesidades notariales de ésta, mediando el tiempo conveniente entre cada convocatoria.
 
 El Jefe de Gobierno podrá solicitar la opinión del colegio para los efectos a que se refiere el primer párrafo de este artículo.
 
@@ -186,6 +200,20 @@ Los notarios tendrán derecho a obtener de los prestatarios de sus servicios el 
 
 Con base en estudios económicos, el colegio propondrá el proyecto de arancel justo y proporcionado y la Administración hará las observaciones pertinentes y fundadas y en su caso, lo aprobará. Entre la presentación del proyecto y su publicación mediará un plazo no mayor de quince días hábiles. Pasado ese plazo se entenderá aprobado totalmente o en la parte no objetada con base objetiva.
 
+> <small>(ADICIONADO, G.O. 25 DE ENERO DE 2006)</small>
+
+###### Artículo 15 Bis.
+
+Los derechos de los prestatarios frente a los notarios serán los siguientes:
+
+I. Ser atendidos personalmente y con profesionalismo;
+
+II. Ser informados por los notarios de los beneficios fiscales y facilidades administrativas que en su caso aplicará a su trámite;
+
+III. Obtener información por parte del notario en cualquier etapa del procedimiento que realiza ante éste;
+
+IV. Recibir copia de la solicitud de entrada y trámite al Registro Público de la Propiedad y de Comercio o del documento que haga sus veces, así como a ser informado acerca del estado que guarda el trámite registral.
+
 ###### Artículo 16.
 
 Las autoridades podrán requerir de los notarios la prestación de sus servicios para atender asuntos de orden público o de interés social. En estos casos las autoridades y el colegio convendrán los honorarios correspondientes.
@@ -212,9 +240,11 @@ Los notarios dejarán constancia en el texto de cada instrumento, de las instruc
 
 Los Notarios estarán obligados a prestar sus servicios en los casos y en los términos que establezcan los ordenamientos electorales. Las autoridades competentes, con la coadyuvancia del Colegio, a través de su Consejo, y con el auxilio en su caso de la Comisión de Honor y Justicia, estarán muy atentas a cualquier irregularidad a fin de que el servicio notarial en esta materia se preste de la mejor forma posible. En su caso, si así lo pidieren las autoridades o los partidos, los Notarios podrán organizar recorridos para dar fe si es menester, conforme al turno que al efecto establezca el Colegio.
 
+> <small>(REFORMADO, G.O. 25 DE ENERO DE 2006)</small>
+
 ###### Artículo 20.
 
-Las autoridades competentes del Gobierno deberán concentrar la información de las operaciones y actos notariales y procesarla bajo sistemas estadísticos y cibernéticos que permitan regular y fijar, conforme a esta Ley, las modalidades administrativas que requiere la prestación eficaz del servicio notarial. La recopilación de dicha información será de carácter formal y estadístico cuidando la autoridad se respete siempre el secreto profesional y la intimidad negocial.
+Las autoridades competentes del Gobierno deberán concentrar la información de las operaciones y actos notariales y procesarla bajo sistemas estadísticos y cibernéticos que permitan regular y fijar, conforme a esta Ley, las modalidades administrativas que requiere la prestación eficaz del servicio notarial. La recopilación de dicha información será de carácter formal y estadístico cuidando la autoridad se respete siempre el secreto profesional y la intimidad negocial; así como las disposiciones relativas a la transparencia y acceso a la información.
 
 ###### Artículo 21.
 
@@ -232,9 +262,11 @@ El colegio orientará a los prestatarios del servicio notarial sobre deficiencia
 
 Si la intervención del colegio no fue suficiente para la satisfacción de los derechos del prestatario, a solicitud de éste, el colegio turnará de inmediato los antecedentes a la autoridad, para el trámite que corresponde.
 
+> <small>(REFORMADO, G.O. 25 DE ENERO DE 2006)</small>
+
 ###### Artículo 24.
 
-Los expedientes a que se refieren estos artículos están sometidos al secreto profesional y a la protección de la intimidad salvo la denuncia o procedimientos correspondientes que conforme a derecho se tengan que hacer para efectos de las responsabilidades a que haya lugar.
+Los expedientes a que se refieren estos artículos están sometidos al secreto profesional salvo la denuncia o procedimientos correspondientes que conforme a derecho se lleven a cabo para efectos de determinar las responsabilidades a que haya lugar y deberá cumplirse con las disposiciones relativas a la transparencia y acceso a la información.
 
 ###### Artículo 25.
 
@@ -244,11 +276,15 @@ Las personas de que se trate tendrán derecho de pedir se dé a conocer si confo
 
 #### Sección Primera. De la Función Notarial
 
+> <small>(REFORMADO, G.O. 25 DE ENERO DE 2006)</small>
+
 ###### Artículo 26.
 
-La función autenticadora del Notario es personal y en todas sus actuaciones de asesoría, instrumentación y juicio debe conducirse conforme a la prudencia jurídica e imparcialmente.
+La función autenticadora es la facultad otorgada por la Ley al Notario para que se reconozca como cierto lo que éste asiente en las actas o escrituras públicas que redacte, salvo prueba en contrario.
 
-La función notarial es la actividad que el notario realiza conforme las disposiciones de esta ley. Posee una naturaleza compleja: Es pública en cuanto proviene de los poderes del Estado y de la Ley, que obran en reconocimiento público de la actividad profesional de Notario y de la documentación notarial al servicio de la sociedad. De otra parte, es autónoma y libre, para el notario que la ejerce, actuando con fe pública.
+La función autenticadora deberá ejercerla de manera personal y en todas sus actuaciones de asesoría, instrumentación y juicio, conducirse conforme a la prudencia jurídica e imparcialmente.
+
+La función notarial es el conjunto de actividades que el notario realiza conforme a las disposiciones de esta Ley, para garantizar el buen desempeño y la seguridad jurídica en el ejercicio de dicha función autenticadora. Posee una naturaleza compleja: es pública en cuanto proviene de los poderes del Estado y de la Ley, que obran en reconocimiento público de la actividad profesional de notario y de la documentación notarial al servicio de la sociedad. De otra parte, es autónoma y libre, para el notario que la ejerce, actuando con fe pública.
 
 ###### Artículo 27.
 
@@ -278,9 +314,11 @@ El notario no deberá aceptar más asuntos que aquellos que pueda atender person
 
 El ejercicio de la función notarial es incompatible con toda restricción de la libertad personal, de las facultades de apreciación y de expresión.
 
+> <small>(REFORMADO, G.O. 25 DE ENERO DE 2006)</small>
+
 ###### Artículo 32.
 
-Igualmente el ejercicio del oficio notarial es incompatible con toda dependencia a empleo, cargo o comisión público o privado, y con el ejercicio de la profesión de abogado en asuntos en que haya contienda. El notario tampoco podrá ser comerciante, ministro de culto o agente económico de cualquier clase en términos de las leyes respectivas.
+Igualmente el ejercicio del oficio notarial es incompatible con toda dependencia a empleo, cargo o comisión público, privado o de elección popular, y con el ejercicio de la profesión de abogado en asuntos en que haya contienda. El notario tampoco podrá ser comerciante, ministro de culto o agente económico de cualquier clase en términos de las leyes respectivas.
 
 ###### Artículo 33.
 
@@ -308,15 +346,19 @@ X. Intervenir, patrocinar y representar a los interesados en los procedimientos 
 
 XI. Actividades semejantes que no causen conflicto ni dependencia que afecte su dación de fe y asesoría imparcial.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE ENERO DE 2006)</small>
+
 ###### Artículo 34.
 
-Corresponde a los Notarios del Distrito Federal el ejercicio de funciones notariales en el ámbito territorial de la entidad. Los Notarios del Distrito Federal no podrán ejercer sus funciones ni establecer oficinas fuera de los límites de éste. Los actos que se celebren ante su fe, podrán referirse a cualquier otro lugar, siempre que se dé cumplimiento a las disposiciones de esta Ley.
+Corresponde a los notarios del Distrito Federal el ejercicio de las funciones notariales en el ámbito territorial de la entidad. Los notarios del Distrito Federal no podrán ejercer sus funciones ni establecer oficinas fuera de los límites de éste. Los actos que se celebren ante su fe, podrán referirse a cualquier otro lugar, siempre que se firmen las escrituras o actas correspondientes por las partes dentro del Distrito Federal, y se de cumplimiento a las disposiciones de esta ley.
 
 Se prohibe a quienes no son notarios usar en anuncios al público, en oficinas de servicios o comercios, que den la idea que quien los usa o a quien beneficia realiza trámites o funciones notariales sin ser notario, tales como "asesoría notarial", "trámites notariales", "servicios notariales", "escrituras notariales", "actas notariales", así como otros términos semejantes referidos a la función notarial y que deban comprenderse como propios de ésta.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE ENERO DE 2006)</small>
+
 ###### Artículo 35.
 
-Se aplicarán las penas previstas por el artículo 250 del Código Penal a quien, careciendo de la Patente de Notario de Distrito Federal expedida en los términos de esta Ley, realizare en el Distrito Federal alguna de las siguientes conductas:
+Se aplicarán las penas previstas por el artículo 323 del Código Penal a quien, careciendo de la patente de notario del Distrito Federal expedida en los términos de esta Ley, realizare en el Distrito Federal alguna de las siguientes conductas:
 
 I. Ostentarse, anunciarse como tal o inducir a la creencia de que es Notario para ejercer o simular ejercer funciones notariales, o ejercerlas de hecho.
 
@@ -324,13 +366,21 @@ II. Tener oficina notarial, o lugar donde se realicen actividades notariales o m
 
 III. Envíe libros de protocolo o folios a firma al Distrito Federal o realice firmas de escrituras o actas en su demarcación.
 
+> <small>(ADICIONADA, G.O. 25 DE ENERO DE 2006)</small>
+
+IV.- Produzca instrumentos públicos en los que consten actos jurídicos que para su validez requieran otorgarse en escritura pública ó hagan constar hechos fuera de su ámbito legal de competencia.
+
+> <small>(REFORMADO, G.O. 25 DE ENERO DE 2006)</small>
+
 ###### Artículo 36.
 
-También se aplicarán las penas previstas por el artículo 250 del Código Penal al que sin ser notario, o siendo notario con patente de otra Entidad distinta del Distrito Federal, introduzca a éste o conserve en su poder, por sí o por interpósita persona, libros de protocolo o de folios de otra entidad, con la finalidad de llevar a cabo actos que únicamente pueden realizar notarios del Distrito Federal.
+También se aplicarán las penas previstas por el artículo 323 del Código Penal al que sin ser notario, o siendo notario con patente de otra Entidad distinta del Distrito Federal, introduzca a éste o conserve en su poder, por sí o por interpósita persona, libros de protocolo o de folios de otra entidad, con la finalidad de llevar a cabo actos que únicamente pueden realizar notarios del Distrito Federal.
+
+> <small>(REFORMADO, G.O. 25 DE ENERO DE 2006)</small>
 
 ###### Artículo 37.
 
-El aspirante a notario, el que haya sido notario del Distrito Federal o el notario suspendido en el ejercicio de su función que realice cualquiera de las conductas previstas en los artículos 35 y 36 de esta ley se hará acreedor al doble de la pena establecida por el artículo 250 del Código Penal.
+El aspirante a notario, el que haya sido notario del Distrito Federal o el notario suspendido en el ejercicio de su función que realice cualquiera de las conductas previstas en los artículos 35 y 36 de esta ley se hará acreedor al doble de la pena establecida por el artículo 323 del Nuevo Código Penal.
 
 ###### Artículo 38.
 
@@ -374,13 +424,17 @@ Queda prohibido a los notarios:
 
 I. Actuar con parcialidad en el ejercicio de sus funciones y en todas las demás actividades que esta ley le señala;
 
-II. Dar fe de actos que dentro de los procedimientos legales respectivos corresponda en exclusiva hacerlo a algún servidor público; sin embargo, sin tener en principio ese valor procedimental exclusivo, sí podrán cotejar cualquier tipo de documentos, registros y archivos públicos y privados o respecto a ellos u otros acontecimientos certificar hechos, situaciones o abstenciones que guarden personas o cosas relacionadas o concomitantes con averiguaciones, procesos o trámites, lo cual tendrá valor como indicio calificado respecto de los mismos, sujeto a juicio de certeza judicial, y sólo será prueba plena con relación a aspectos que no sean parte esencial de dichas facultades públicas, aspectos que deberá precisar en el instrumento indicado;
+> <small>(REFORMADA, G.O. 25 DE ENERO DE 2006)</small>
+
+II. Dar fe de actos que dentro de los procedimientos legales respectivos corresponda en exclusiva hacerlo a algún servidor público; sin embargo, sin tener en principio ese valor procedimental exclusivo, sí podrán cotejar cualquier tipo de documentos, registros y archivos públicos y privados o respecto a ellos u otros acontecimientos certificar hechos, situaciones o abstenciones que guarden personas o cosas relacionadas o concomitantes con averiguaciones, procesos o trámites, lo cual tendrá valor como indicio calificado respecto de los mismos, sujeto a juicio de certeza judicial, y solo será prueba plena con relación a aspectos que no sean parte esencial de dichas facultades públicas, aspectos que deberá precisar en el instrumento indicado, salvo las copias de constancias que obren en expedientes judiciales que le hayan sido turnados por un juez para la elaboración de algún instrumento, que podrá cotejar a solicitud de quien haya intervenido en el procedimiento o haya sido autorizado en él para oír notificaciones;
 
 III. Actuar como notario en instrumentos o asuntos en que tengan interés, disposición a favor, o intervengan por sí, representados por o en representación de terceros, el propio notario, su cónyuge o parientes consanguíneos o afines hasta el cuarto y segundo grados, respectivamente, o sus asociados o suplentes y los cónyuges o parientes de ellos en los mismos grados o en asuntos en los cuales tenga esta prohibición el o los notarios asociados, o el notario suplente;
 
 IV. Actuar como notario sin rogación de parte, solicitud de interesado o mandamiento judicial, salvo en los casos previstos en esta Ley;
 
-V. Dar fe de actos, hechos o situaciones con respecto a los cuales haya actuado previamente como abogado;
+> <small>(REFORMADA, G.O. 25 DE ENERO DE 2006)</small>
+
+V. Dar fe de actos, hechos o situaciones con respecto a los cuales haya actuado previamente como abogado en asuntos donde haya habido contienda judicial;
 
 VI. Dar fe de actos, hechos o situaciones sin haberse identificado plenamente como notario;
 
@@ -436,53 +490,11 @@ II. Difundir los instrumentos informativos y formativos para el ejercicio imparc
 
 ###### Artículo 52.
 
-Son sujetos de la Carrera Notarial:
-
-I. El Jefe de Gobierno como otorgante de las patentes de notario y de aspirante en términos de ley;
-
-II. El colegio como organizador y estructurador;
-
-III. Los notarios como ejecutores, y en su caso, como destinatarios en los términos de la fracción V de este artículo;
-
-IV. Las demás partícipes señalados en el artículo que antecede, como coadyuvantes;
-
-V. Como destinatarios:
-
-a) Los propios notarios del Distrito Federal;
-
-b) Los aspirantes a notarios del Distrito Federal; y
-
-c) Los solicitantes de examen de aspirante a notario, los licenciados en Derecho, pasantes o estudiantes de Derecho con la pretensión de adquirir los conocimientos y capacitación para aprobar exámenes, triunfar en oposiciones y ejercer funciones notariales.
-
-> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2000)</small>
+(DEROGADO, G.O. 25 DE ENERO DE 2006)
 
 ###### Artículo 53.
 
-Colaborarán y recibirán aportaciones y beneficios de la carrera notarial:
-
-I. Como aportantes de experiencia para la mejora de la carrera notarial y beneficiarios de servicios:
-
-a).- Los abogados, estudiantes y en general, quienes pretendan recibir formación jurídica, bajo la perspectiva de la imparcialidad preventiva;
-
-b).- Las Barras y Colegios de Abogados, por el enriquecimiento de visiones complementarias a otros tipos de ejercicio del derecho;
-
-c).- Otros profesionistas, universitarios y en general los prestatarios.
-
-II. Como personas cercanas en virtud del valor de su conocimiento, opinión y por experiencias de la imparcialidad, de la contenida jurídica y en virtud de la necesaria complementariedad de actividades:
-
-a).- Los miembros del Poder Judicial, y
-
-b).- Los litigantes y especialistas profesionales del derecho procesal.
-
-III. Como colaboradores en la realización de los fines del régimen de legalidad, los diversos servidores públicos y en especial los relacionados con la función notarial, el Archivo y el Registro.
-
-IV. Como sujetos beneficiarios de la asesoría imparcial y el cuidado profesional del notario:
-
-a).- Grupos sociales vulnerables, en especial indígenas, emigrantes, personas con discapacidad y los así considerados por las leyes respectivas;
-
-b).- Personas que requieran asesoría protectora, y
-
-c).- En general, toda persona que ejerza el derecho al servicio notarial en términos del artículo 12 de esta Ley.
+(DEROGADO, G.O. 25 DE ENERO DE 2006)
 
 #### Sección Segunda. De los Exámenes
 
@@ -498,7 +510,9 @@ III. Ser profesional del Derecho, con título de abogado o licenciado en Derecho
 
 IV. No estar sujeto a proceso, ni haber sido condenado por sentencia ejecutoriada, por delito intencional;
 
-V. Acreditar cuando menos doce meses de práctica notarial ininterrumpida, bajo la dirección y responsabilidad de algún notario del Distrito Federal, pudiendo mediar un lapso de hasta cien días naturales entre la terminación de dicha práctica y la solicitud del examen correspondiente;
+> <small>(REFORMADO, G.O. 25 DE ENERO DE 2006)</small>
+
+V. Acreditar cuando menos doce meses de práctica notarial ininterrumpida, bajo la dirección y responsabilidad de algún notario del Distrito Federal, pudiendo mediar un lapso de hasta un año entre la terminación de dicha práctica y la solicitud del examen correspondiente;
 
 VI. Presentar dicha solicitud por escrito a la autoridad competente en el formulario autorizado al efecto por la misma, marcando copia al colegio, requisitando los datos y acompañando los documentos que el mismo formulario señale;
 
@@ -510,9 +524,11 @@ Una vez presentada la solicitud y acreditados los requisitos que anteceden, la a
 
 De la comunicación señalada en el párrafo que antecede se marcará copia al colegio.
 
+> <small>(REFORMADO, G.O. 25 DE ENERO DE 2006)</small>
+
 ###### Artículo 55.
 
-Para acreditar los requisitos a que se refieren las facciones I y III del artículo anterior, el interesado deberá exhibir, junto a su solicitud de examen, las constancias documentales públicas respectivas. Para acreditar los requisitos a que se refieren las fracciones II y IV del artículo anterior, deberá el interesado realizar ante autoridad judicial, con citación del colegio para que intervenga según el caso, la información ad perpetuam prevista en el Código de Procedimientos Civiles. El requisito señalado por la fracción V del Artículo anterior, se acreditará con los avisos sellados del inicio y terminación de la práctica en cuestión, que el notario respectivo deberá dar en tiempo, a la autoridad competente, marcando copia al colegio, así como con los oficios de contestación de dichos avisos. Tales prácticas podrán ser constatadas por las (sic) autoridad competente y por el colegio. Para acreditar la buena salud y el pleno uso de sus facultades físicas e intelectuales, el candidato deberá exhibir certificado médico expedido por médico o institución autorizada; certificados que podrán ser constatados por la autoridad competente y por el colegio.
+Para acreditar los requisitos a que se refieren las fracciones I y III del artículo anterior, el interesado deberá exhibir con su solicitud de examen, las constancias documentales públicas respectivas. Para acreditar los requisitos a que se refieren las fracciones II y IV del artículo anterior el interesado deberá, con citación del Colegio, realizar opcionalmente ante autoridad judicial la información ad perpetuam prevista en el Código de Procedimientos o con acta notarial que contenga su declaración con la de dos testigos, ante un notario diverso de donde haya realizado su práctica. El requisito señalado por la fracción V del Artículo anterior, se acreditará con los avisos sellados del inicio y terminación de la práctica en cuestión, que el notario respectivo deberá dar en tiempo, a la autoridad competente, marcando copia al colegio, así como con los oficios de contestación de dichos avisos. Tales prácticas podrán ser constatadas por la autoridad competente y por el colegio. Para acreditar la buena salud y el pleno uso de sus facultades físicas e intelectuales, el candidato deberá exhibir certificado médico expedido por médico o institución autorizada; certificados que podrán ser constatados por la autoridad competente y por el colegio.
 
 ###### Artículo 56.
 
@@ -527,6 +543,10 @@ II. Precisar el día, hora y lugar en que se practicarán las pruebas teóricas 
 III. Indicar el número de las notarias vacantes y de nueva creación, y
 
 IV. Señalar la obligación de pagar previamente, los derechos que determine el Código Financiero del Distrito Federal vigente.
+
+> <small>(ADICIONADO, G.O. 25 DE ENERO DE 2006)</small>
+
+Asimismo, esta convocatoria se publicará en el sitio oficial que el Colegio tiene en la red electrónica de información mundial conocida como Internet o la que haga sus veces.
 
 ###### Artículo 57.
 
@@ -564,7 +584,9 @@ b) Un secretario, designado por el Colegio y que será el notario de menor antig
 
 c) Tres vocales, de los cuales uno será notario designado por el colegio y los otros dos vocales serán designados por la Consejería Jurídica y de Servicios Legales, seleccionados de entre una lista que contenga los nombres de dos terceras partes del total de notarios en ejercicio en el Distrito Federal propuesta por el colegio y en su defecto, por excusas o impedimentos, profesores cuya especialización sea en cualquier disciplina relacionada con la función notarial designados por la Escuela o Facultad de Derecho, con sede en el Distrito Federal, a la que las Autoridades Competentes le requieran esa intervención. Si los profesores designados fueren notarios, deberán serlo del Distrito Federal.
 
-Los miembros que integren el Jurado no podrán ser cónyuges o parientes del sustentante, ni titulares de la notaría en que el sustentante haya realizado su práctica o prestado servicios, tengan o hubieren tenido alguna relación laboral, de negocios o amistosa con el sustentante o con familiares de éste.
+> <small>(REFORMADO, G.O. 25 DE ENERO DE 2006)</small>
+
+Los miembros que integren el jurado no podrán ser cónyuges o parientes consanguíneos o afines hasta el cuarto y segundo grados, respectivamente, del sustentante, ni titulares de las Notarías en que éste haya realizado su práctica o prestado servicios, tengan o hubieren tenido relación laboral con el sustentante o sus parientes, en los referidos grados, ni los notarios asociados o suplentes de dichos titulares o los cónyuges o parientes de éstos en los grados indicados. La infracción a lo antes dispuesto por algún miembro del jurado hará acreedor a ese sinodal a la sanción prevista por el artículo 227 de esta Ley;
 
 III. Tanto el examen de aspirante como el de oposición, consistirán en dos pruebas aplicables a cada sustentante, una práctica y otra teórica;
 
@@ -602,6 +624,10 @@ Además de regirse por lo anterior, el examen para la obtención de la patente d
 
 Los integrantes del jurado calificarán individualmente al sustentante, de lo que resultará una calificación única, aprobatoria, reprobatoria por unanimidad o reprobatoria por mayoría. Si fuere esta última, el sustentante no podrá presentar nueva solicitud para examen sino pasados seis meses, contados a partir del fallo; si es reprobado por unanimidad, el plazo de espera se extenderá a un año.
 
+> <small>(ADICIONADO, G.O. 25 DE ENERO DE 2006)</small>
+
+Con la apertura del sobre que contenga el tema del examen se dará por iniciada la prueba práctica, en consecuencia al sustentante que se desista, se le tendrá por reprobado y no podrá presentar nueva solicitud hasta que transcurra un término de seis meses. Esto último será aplicable en aquellos casos en que el sustentante no se presente puntualmente al lugar en que éste habrá de realizarse.
+
 ###### Artículo 60.
 
 El examen para obtener la patente de notario se regirá por las siguientes reglas:
@@ -625,6 +651,10 @@ VIII. Concluida la prueba teórica de cada sustentante, los miembros del jurado 
 Los aspirantes que obtengan una calificación inferior a 65 puntos, no podrán solicitar nuevo examen de oposición, sino pasado un año a partir de su reprobación.
 
 Quienes desistan antes del tiempo máximo de entrega de la prueba práctica, se entenderá que abandonan el examen y podrán presentar nuevo examen, tan pronto haya una siguiente oposición, siempre y cuando tuviere satisfechos los requisitos previstos en el artículo 57 de esta ley.
+
+> <small>(ADICIONADO, G.O. 25 DE ENERO DE 2006)</small>
+
+Iniciado el sorteo a que se refiere la fracción II de este artículo, si el sustentante no está presente a la hora y en el lugar fijados para el inicio del examen, perderá su derecho a presentar el mismo y se le tendrá por desistido, pudiéndolo presentar nuevamente cuando cumpla los requisitos previstos en el artículo 57 de esta Ley;
 
 IX. Será triunfador en la oposición para cubrir la notaría respectiva, el sustentante que haya obtenido la calificación aprobatoria más alta.
 
@@ -666,15 +696,23 @@ Para que el notario del Distrito Federal pueda actuar, debe:
 
 I. Obtener fianza del colegio a favor de la autoridad competente, por la cantidad que resulte de multiplicar por diez mil, el importe del salario mínimo general diario en el Distrito Federal, vigente a la fecha de la constitución de la misma. Sólo que el colegio, por causa justificada, no otorgue la fianza o la retire, el notario deberá obtenerla de compañía legalmente autorizada por el monto señalado. Dicha fianza deberá mantenerse vigente y actualizarse en el mes de enero de cada año, modificándose en la misma forma en que se haya modificado a esa fecha el salario mínimo de referencia. El notario deberá presentar anualmente del colegio o, en su caso, de la compañía legalmente autorizada, el documento que acredite la constitución de la fianza correspondiente ante la autoridad competente. La omisión en que incurra el notario a esta disposición será sancionada por la autoridad administrativa en términos de la presente ley. El contrato de fianza correspondiente se celebrará en todo caso en el concepto de que el fiador no gozará de los beneficios de orden y excusión;
 
-II. Proveerse a su costa de protocolo y sello, registrar el sello y su firma, ante la autoridad competente, el Registro Público, el Archivo y el colegio, previo pago de los derechos que señale el Código Financiero del Distrito Federal;
+> <small>(REFORMADA, G.O. 25 DE ENERO DE 2006)</small>
 
-III. Establecer libremente una oficina para el desempeño de su función dentro del territorio del Distrito Federal e iniciar el ejercicio de sus funciones en un plazo que no excederá de noventa días naturales contados a partir de la fecha en que rinda su protesta;
+II. Proveerse a su costa de protocolo y sello, registrar su firma y rúbrica, antefirma o media firma, ante la autoridad competente, el Registro Público, el Archivo y el Colegio, previo pago de los derechos que señale el Código Financiero del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 25 DE ENERO DE 2006)</small>
+
+III. Establecer una oficina para el desempeño de su función dentro del territorio del Distrito Federal e iniciar el ejercicio de sus funciones en un plazo que no excederá de noventa días naturales contados a partir de la fecha en que rinda su protesta;
 
 IV. Dar aviso de lo anterior a las autoridades competentes y al Colegio; señalando con precisión al exterior del inmueble que ocupe, el número de la notaría; su nombre y apellidos; horario de trabajo, días hábiles o si prefiere los inhábiles; teléfonos y otros datos que permitan al público la expedita comunicación con la notaría a su cargo, y
 
 V. Ser miembro del Colegio.
 
 La autoridad competente publicará la iniciación de funciones de los notarios en la Gaceta sin costo para el notario.
+
+> <small>(ADICIONADO, G.O. 25 DE ENERO DE 2006)</small>
+
+Para el caso de que el notario cambie de ubicación la notaría, dará el aviso correspondiente a la autoridad competente, solicitando a su costa la publicación respectiva en la Gaceta.
 
 ###### Artículo 68.
 
@@ -740,6 +778,10 @@ Los folios que forman el protocolo son aquellas hojas que constituyen la papeler
 
 Los instrumentos, libros y apéndices que integren el protocolo deberán ser numerados progresivamente. Los folios deberán utilizarse en forma progresiva por ambas caras y los instrumentos que se asienten en ellos se ordenarán en forma sucesiva y cronológica por el Notario, y se encuadernarán en libros que se integrarán por doscientos folios, excepto cuando el Notario deba asentar un instrumento con el cual rebasaría ese número, en cuyo caso deberá dar por terminado el libro sin asentar dicho instrumento, iniciando con éste el libro siguiente.
 
+> <small>(ADICIONADO, G.O. 25 DE ENERO DE 2006)</small>
+
+Excepcionalmente, un libro de protocolo podrá exceder de doscientos folios, si el instrumento que corresponda asentar rebasare ese número, en cuyo caso, se iniciará la formación del libro siguiente, previa razón de terminación del libro en uso, la que se asentará en hoja común no foliada que se agregará al final del libro que se da por terminado, sin que este contenga doscientos folios. Dicha razón no será necesaria cuando el libro que se de por terminado contuviere mas de ciento ochenta folios usados.
+
 ###### Artículo 78.
 
 El Notario no podrá autorizar acto alguno sin que lo haga constar en los folios que forman el protocolo, salvo los que deban constar en los libros de registro de cotejos. Para lo relativo a la clausura del protocolo se procederá conforme a lo previsto por los artículos 203 y 204 de esta Ley.
@@ -760,11 +802,11 @@ El notario es responsable administrativamente de la conservación y resguardo de
 
 Para integrar el protocolo, el colegio, bajo su responsabilidad, proveerá a cada notario y a costa de éste, de los folios necesarios a que se refiere esta sección, los cuales deberán ir numerados progresivamente. El colegio cuidará que en la fabricación de los folios se tomen las medidas de seguridad más adecuadas. El colegio podrá abstenerse de proveer de folios a un notario, si éste no está al corriente en el pago de las cuotas establecidas por dicho colegio. El colegio informará mensualmente a la autoridad competente de la entrega de folios que efectúe a los notarios, en la forma que para ese efecto determine dicha autoridad.
 
-> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, G.O. 25 DE ENERO DE 2006)</small>
 
 ###### Artículo 83.
 
-Al iniciar la formación de una decena de libros, le notario hará constar la fecha en que se inician, el número que le corresponda dentro de la serie de los que sucesivamente se hayan abierto en la notaría a su cargo, y la mención de que los libros de la misma se formarán con los instrumentos autorizados por el notario o por quien legalmente lo sustituya en sus funciones, de acuerdo con esta ley. La hoja en la que se asiente la razón a que se refiere este artículo no irá foliada y se encuadernará antes del primer folio del libro con el cual se inicia la decena. El notario asentará su sello y firma y acto continuo dará aviso a la autoridad del inicio indicado con mención del número de folio con que dicha decena de libros se inicia.
+Al iniciar la formación de una decena de libros, el notario hará constar la fecha en que se inician, el número que le corresponda dentro de la serie de los que sucesivamente se hayan abierto en la Notaría a su cargo, y la mención de que los libros de la misma se formarán con los instrumentos autorizados por el notario o por quien legalmente lo substituya en sus funciones, de acuerdo con esta ley. La hoja en la que se asiente la razón a que se refiere este artículo no irá foliada y se encuadernará antes del primer folio del libro con el cual se inicia la decena. El notario asentará su sello y firma y contará con un término de 5 días hábiles para dar el aviso de inicio a la Dirección General Jurídica y de Estudios Legislativos, mencionando el número de folio y el número del instrumento notarial con que dicha decena de libros se inicie.
 
 ###### Artículo 84.
 
@@ -800,9 +842,11 @@ Dentro de los treinta y cinco días hábiles siguientes a la integración de una
 
 A partir de la fecha en que se asiente la razón a que se refiere el artículo anterior, el notario dispondrá de un plazo máximo de cuatro meses para encuadernar la decena de libros y enviarla al Archivo, el que revisará solamente la exactitud de la razón a que se refiere dicho artículo, debiendo devolver los libros al notario dentro de los cinco días hábiles siguientes a la fecha de entrega, con la certificación de cierre de Protocolo correspondiente, de lo que el Archivo informará al colegio.
 
+> <small>(REFORMADO, G.O. 25 DE ENERO DE 2006)</small>
+
 ###### Artículo 92.
 
-Por cada libro, el notario llevará una carpeta denominada apéndice, en la que se coleccionarán los documentos y demás elementos materiales relacionados a que se refieren los instrumentos que formarán parte integrante del protocolo. Los documentos y demás del apéndice se ordenarán por letras o números en legajos, en cuyas carátulas se pondrá el número del instrumento a que se refieran, indicando lo que se agrega.
+Por cada libro, el notario llevará una carpeta que se denominará apéndice, en la que se coleccionarán y conservarán los documentos y demás elementos materiales relacionados con la escritura o el acta de que se trate y estos formarán parte integrante del protocolo. Los documentos y demás elementos materiales del apéndice se ordenarán por letras o números en legajos, en cuyas carátulas se pondrá el número del instrumento a que se refieran, indicando lo que se agrega.
 
 ###### Artículo 93.
 
@@ -838,43 +882,53 @@ El índice se formará a medida que los instrumentos se vayan asentando en forma
 
 Al entregarse definitivamente la decena de libros al Archivo, se acompañará un ejemplar de dicho índice y el otro lo conservará el notario.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE ENERO DE 2006)</small>
+
 ###### Artículo 97.
 
-El libro de registro de cotejos es el conjunto de folios encuadernados, con su respectivo apéndice, en el que el Notario anota los registros de los cotejos de los documentos que le presenten para dicho efecto. Cada libro, que constará de doscientos folios, forma parte del protocolo del Notario y, en lo no previsto, le serán aplicables las normas relativas al protocolo. Se regirá por lo siguiente:
+El libro de registro de cotejos es el conjunto de los folios encuadernados, con su respectivo apéndice, en el que el notario anota los registros de los cotejos de los documentos que le presenten para dicho efecto, considerándose como documento original para el cotejo no sólo el documento público o privado que así lo sea, sino también su copia certificada por notario o por autoridad legítimamente autorizada para expedirla y las impresiones hechas vía electrónica o con cualquier otra tecnología.
 
-I. El Notario hará el cotejo de la copia escrita, fotográfica, fotostática o de cualquier otra clase, teniendo a la vista el documento original o su copia certificada, sin más formalidades que la anotación en un libro que se denominará libro de registro de cotejos. El registro de los cotejos se hará mediante numeración progresiva e ininterrumpida por cada notaría;
+> <small>(REFORMADO, G.O. 25 DE ENERO DE 2006)</small>
+
+Cada libro, que constará de doscientos folios, forma parte del protocolo del notario y, en lo no previsto le serán aplicables las normas relativas al protocolo. Se regirá por lo siguiente:
+
+> <small>(REFORMADA, G.O. 25 DE ENERO DE 2006)</small>
+
+I. El notario hará el cotejo de la copia escrita, fotográfica, fotostática o de cualquier otra clase teniendo a la vista el documento original, sin más formalidades que la anotación en un libro que se denominará Libro de Registro de Cotejos. Si el original se encuentra escrito total o parcialmente en idioma distinto al español no se requerirá traducción a esta lengua. El registro de los cotejos se hará mediante numeración progresiva e ininterrumpida por cada Notaría;
 
 II. En la hoja que en cada libro de registro de cotejos corresponda a lo indicado para los libros de folios en el artículo 83 de esta Ley, el Notario, o en su caso su asociado, asentará una razón de apertura en la que indicará su nombre, el número de la notaría a su cargo, la mención de ser libro de registro de cotejos, con indicación del número que le corresponda dentro de los de su clase, la fecha, su sello y firma. Al terminar cada hoja de este libro asentará su firma y su sello. Inmediatamente después del último asiento que tenga cabida en el libro, el Notario asentará una razón de terminación en la que indicará la fecha en que ésta se efectúe, el número de asientos realizados, con indicación en particular del primero y del último, misma que firmará y sellará;
 
 III. Cada registro de cotejo deberá contener el número progresivo que le corresponda, la fecha en que se efectúe, el nombre del solicitante, el señalamiento de si es por sí o por otro, con mención del nombre o denominación de éste en su caso; el número de documentos exhibidos, el número de copias cotejadas de cada documento con inclusión de la que se agregará al apéndice y un espacio para las observaciones que el notario juzgue oportuno anotar. Entre registro y registro dentro de una misma página se imprimirá una línea de tinta indeleble que abarque todo lo ancho de aquella a fin de distinguir uno del otro y,
 
-IV. El notario certificará con su sello y firma la o las copias cotejadas, haciendo constar en ellas que son fiel reproducción de su original o copia certificada que tuvo a la vista, así como el número y fecha de registro que les corresponda.
+> <small>(REFORMADA, G.O. 25 DE ENERO DE 2006)</small>
+
+IV. El notario certificará con su sello y firma la o las copias cotejadas, haciendo constar en ellas que son fiel reproducción de su original que tuvo a la vista, así como el número y fecha de registro que les corresponda.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 25 DE ENERO DE 2006)</small>
+
+Las copias cotejadas deberán contener las medidas de seguridad que señale el Colegio, sin que su omisión sea causa de invalidez de la certificación.
 
 ###### Artículo 98.
 
 El notario deberá llevar un apéndice de los libros de registro de cotejos, el cual se formará con una copia cotejada de cada uno de los documentos que se ordenarán en forma progresiva de acuerdo a su número de registro. El notario deberá encuadernar el apéndice de los libros de registro de cotejos, procurando que el grosor de cada libro no exceda los siete centímetros.
 
-> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, G.O. 25 DE ENERO DE 2006)</small>
 
 ###### Artículo 99.
 
-Los libros de registro de cotejos y sus apéndices, se remitirán al Archivo para su guarda al año contado a partir de la fecha de su razón de terminación en términos del artículo 97 fracción II o, si el notario respectivo así lo prefiere al cumplirse ese plazo, dará aviso al Archivo de que los guardará por cuatro años más.
+Los libros de registro de cotejos y sus apéndices se remitirán al Archivo para su guarda al año contado a partir de la fecha de su razón de terminación, teniendo como plazo diez días hábiles para cumplir esta obligación, o bien para el caso de que opte por guardar por cuatro años más los libros de registro de cotejos, contará de igual manera con un plazo de veinte días hábiles contados a partir del día hábil siguiente al en que se cumpla el año contado a partir de la fecha de su razón de terminación de cierre para dar aviso al Archivo de que los guardará por cuatro años más.
+
+Si el notario no remite los libros de registro de cotejos o no da aviso de que los conservará en su notaría por cuatro años más, se entenderá que los conservará para su guarda y custodia por dicho plazo.
 
 #### Sección Tercera. De las Actuaciones y Documentos Notariales
 
 A. ESCRITURAS
 
+> <small>(REFORMADO, G.O. 25 DE ENERO DE 2006)</small>
+
 ###### Artículo 100.
 
-Escritura es cualquiera de los instrumentos públicos siguientes:
-
-I. El original que el notario asienta en folios, para hacer constar uno o más actos jurídicos y que firmado por los comparecientes, el Notario autoriza con su sello y con su firma;
-
-II. El original integrado por lo siguiente:
-
-a) Por el documento en el que el Notario consigna uno o más actos jurídicos y que deberá llenar las formalidades que este capítulo establece; ser firmado en cada una de sus hojas y al final por los comparecientes y el Notario; llevar el sello de éste en los expresados lugares y agregarse al apéndice con sus anexos. Hará mención de la escritura de la que forma parte y el o los folios en los que se contiene la síntesis a que se refiere el inciso siguiente y,
-
-b) Por la síntesis asentada por el Notario en los folios que correspondan, en la que se señalen los elementos personales y materiales del o de los actos consignados. Dicha síntesis contendrá el número de hojas de que se compone así como una relación completa de sus anexos, y una vez firmada por los comparecientes será autorizada por el Notario con su sello y firma.
+Escritura es el instrumento original que el notario asienta en los folios, para hacer constar uno o mas actos jurídicos y que firmado por los comparecientes, autoriza con su sello y firma.
 
 ###### Artículo 101.
 
@@ -886,7 +940,9 @@ Lo que se haya de testar se cruzará con una línea que lo deje legible, salvo q
 
 El Notario redactará las escrituras en español, sin perjuicio de que pueda asentar palabras en otro idioma, que sean generalmente usadas como términos de ciencia o arte determinados, y observará las reglas siguientes:
 
-I. Expresará en el proemio el lugar y fecha en que se asiente la escritura, su nombre y apellidos, el número de la notaría a su cargo, el acto o actos contenidos y el nombre del o de los otorgantes y el de sus representados y demás comparecientes, en su caso;
+> <small>(REFORMADA, G.O. 25 DE ENERO DE 2006)</small>
+
+I. Expresará en el proemio el número de escritura y de libro a que pertenece, así como el lugar y fecha en que se asienta, su nombre y apellidos, el número de la notaría de que es titular, el acto o actos contenidos y el nombre del o de los otorgantes y el de sus representados y demás comparecientes, en su caso;
 
 II. Indicará la hora en los casos en que la Ley así lo ordene y cuando a su juicio sea pertinente;
 
@@ -894,7 +950,7 @@ III. Consignará los antecedentes y certificará haber tenido a la vista los doc
 
 IV. Si se tratare de inmuebles, examinará el título o los títulos respectivos; relacionará cuando menos el último título de propiedad del bien o del derecho objeto del acto contenido en la escritura y citará los datos de su inscripción en el Registro Público, o señalará, en su caso, que dicha escritura aún no está registrada;
 
-V. En los títulos o documentos presentados o exhibidos al Notario con motivo de la constitución, enajenación, gravamen o liberación de la propiedad de inmuebles o de derechos reales, al margen de la descripción de la finca o fincas o derechos objeto del contrato, o al pie del documento, pondrá el Notario autorizante de la nueva operación certificación respecto de la transmisión o acto de los referidos de que se trate, con la fecha, su firma y su sello. Cuando fueren varios los bienes o derechos será suficiente con poner una sola nota al pie del documento;
+V. (DEROGADA, G.O. 25 DE ENERO DE 2006)
 
 VI. Los documentos exhibidos al Notario para la satisfacción de requisitos administrativos y fiscales, deberán ser relacionados;
 
@@ -920,7 +976,9 @@ XV. Determinará las renuncias de derechos que los otorgantes hagan válidamente
 
 XVI. Dejará acreditada la personalidad de quien comparezca en representación de otro o en ejercicio de un cargo, por cualquiera de los siguientes medios:
 
-a) Relacionando o insertando los documentos respectivos o bien agregándolos en original o copia cotejada al apéndice haciendo mención de ellos en la escritura, o
+> <small>(REFORMADO, G.O. 25 DE ENERO DE 2006)</small>
+
+a) Relacionando los documentos respectivos, insertándolos en el instrumento o agregándolos en original o en copia total o parcial que en el propio instrumento certifique concuerda con dicho original con el cual lo habrá cotejado, haciendo mención de ello en el instrumento sin anotarlo en el libro de registro de cotejos, o
 
 b) Mediante certificación, en los términos del artículo 155 Fracción IV de esta Ley.
 
@@ -1130,13 +1188,19 @@ En los supuestos a que se refieren los tres artículos anteriores, el Notario ha
 
 Las actas que el Notario levante con motivo de los hechos a que se refieren las fracciones II, V y VI del artículo 128, serán firmadas por quien solicite la intervención del Notario y demás comparecientes. En los supuestos previstos en las demás fracciones del mismo artículo, el Notario podrá autorizar el acta levantada sin necesidad de firma alguna.
 
+> <small>(ADICIONADO, G.O. 25 DE ENERO DE 2006)</small>
+
+Si al término del plazo establecido en el artículo 116 de esta Ley, el acta no hubiese sido firmada al menos por quien solicitó la intervención del notario, éste o quien lo supla, le pondrá la razón de “No pasó” y su firma, salvo en los casos a que se refieren las fracciones I, III y VII del artículo 128 en los que si transcurrido ese plazo el acta no hubiese sido firmada por dicho solicitante, el notario podrá autorizarla al término del mismo. Igualmente en los casos a que dichas fracciones se refieren, la autorizará aún cuando no haya transcurrido el plazo mencionado al ser firmada por el solicitante, aún cuando no sea firmada por cualquiera otra persona que haya intervenido en la diligencia como destinatario o participante en la misma.
+
 ###### Artículo 135.
 
 Cuando se trate de reconocimiento o puesta de firmas y de la ratificación de contenido previstos en la fracción II del artículo 128, el Notario hará constar lo sucedido al respecto ante él, así como la identidad de los comparecientes y que éstos tienen capacidad. La firma o su reconocimiento indicados, con su respectiva ratificación de contenido, podrán ser a propósito de cualquier documento redactado en idioma distinto al español, sin necesidad de traducción y sin responsabilidad para el Notario, en el acta respectiva se incluirá la declaración del interesado de que conoce en todos sus términos el contenido del documento y en lo que éste consiste. El Notario deberá abstenerse de intervenir en las actuaciones señaladas en este artículo, cuando el acto que se contenga en el documento exhibido deba constar en escritura por disposición legal o pacto entre las partes; salvo, en este último caso, que todos los sujetos que la hayan acordado o aquellos de los cuales esto dependa jurídicamente estén de acuerdo.
 
+> <small>(REFORMADO, G.O. 25 DE ENERO DE 2006)</small>
+
 ###### Artículo 136.
 
-Para la protocolización de un documento, el Notario lo transcribirá en la parte relativa del acta que al efecto se asiente, o lo agregará al apéndice en el legajo marcado con el número del acta y bajo la letra o número que le corresponda.
+Para la protocolización de un documento, el notario lo insertará en la parte relativa del acta que al efecto se asiente mediante su transcripción o la reproducción de su imagen en la forma prevenida por el artículo 85, o lo agregará al apéndice en el legajo marcado con el número de acta y bajo la letra o número que le corresponda.
 
 ###### Artículo 137.
 
@@ -1176,9 +1240,11 @@ No será necesario insertar en el testimonio los documentos ya mencionados en la
 
 Las hojas que integren un testimonio irán numeradas progresivamente y llevarán la rúbrica y el sello del Notario.
 
+> <small>(REFORMADO, G.O. 25 DE ENERO DE 2006)</small>
+
 ###### Artículo 146.
 
-El Notario podrá expedir sin necesidad de autorización judicial, primero, segundo o ulterior testimonio al autor del acto consignado en el instrumento de que se trate, a cada parte en dicho acto o bien a los beneficiarios en el mismo; también en su caso, a los sucesores o causahabientes de aquéllos.
+El notario podrá expedir sin necesidad de autorización judicial, primero, segundo o ulterior testimonio, o copia certificada, al autor del acto o participante en el hecho consignados en el instrumento de que se trate, a cada parte en dicho acto o bien a los beneficiarios en el mismo; también en su caso, a los sucesores o causahabientes de aquéllos.
 
 ###### Artículo 147.
 
@@ -1200,13 +1266,23 @@ El Notario tramitará el registro de cualquiera de los testimonios que expida an
 
 Las hojas del testimonio tendrán las mismas dimensiones que las de los folios del protocolo. En la parte superior izquierda del anverso el Notario imprimirá su sello, y las rubricará en el margen derecho de su mismo anverso.
 
+> <small>(ADICIONADO, G.O. 25 DE ENERO DE 2006)</small>
+
+Como medida de seguridad, el Colegio proveerá a los notarios, previo pago de su costo, de los elementos de seguridad que señale el primero para los testimonios, copias certificadas, certificaciones y folios.
+
+> <small>(ADICIONADO, G.O. 25 DE ENERO DE 2006)</small>
+
+Las hojas del testimonio deberán contener las medidas de seguridad que señale el Colegio, sin que la omisión sea causa de su invalidez.
+
 ###### Artículo 152.
 
 Para cualquier expedición, el Notario utilizará un medio indeleble de reproducción o impresión.
 
+> <small>(REFORMADO, G.O. 25 DE ENERO DE 2006)</small>
+
 ###### Artículo 153.
 
-Expedido un testimonio no podrá testarse ni entrerrenglonarse, aunque se adviertan en él errores de copia o transcripción del instrumento original asentado en el protocolo. En este caso, se deberá otorgar otro instrumento al que se agregará el testimonio expedido con errores y en el cual el Notario hará constar las enmiendas o rectificaciones que procedan.
+Expedido un testimonio no podrá testarse ni entrerrenglonarse, aunque se adviertan en él errores de copia o transcripción del instrumento original asentado en el protocolo. En ese caso el solicitante lo presentará al notario quien, una vez constatado el error, hará mención de ello en nota complementaria que consignará en el original y asentará una certificación en el testimonio, haciendo constar la discrepancia y el texto correcto que corresponda en lugar del erróneo.
 
 ###### Artículo 154.
 
@@ -1250,9 +1326,13 @@ Las correcciones no salvadas en las escrituras, actas o asientos de registro, se
 
 Salvo disposición en contrario, la simple protocolización acreditará la existencia del documento objeto de la misma en la fecha de su presentación ante el Notario y la de su conservación posterior. La elevación a escritura pública o la celebración ante Notario como escritura de actos meramente protocolizables tendrán el valor de prueba plena.
 
+> <small>(REFORMADO, G.O. 25 DE ENERO DE 2006)</small>
+
 ###### Artículo 160.
 
-El cotejo no tendrá más efectos que acreditar la identidad de lo cotejado con el documento exhibido, sin calificar sobre la autenticidad, validez o licitud del documento exhibido en original.
+El cotejo acreditará que la copia que se firma por el notario es fiel reproducción del exhibido como original, sin calificar sobre la autenticidad, validez o licitud del mismo.
+
+La copia cotejada tendrá el mismo valor probatorio que el documento exhibido como original con el cual fue cotejado, salvo que se trate de documento que lleve incorporado su derecho, supuesto en el cual sólo producirá el efecto de acreditar que es copia fiel de su original.
 
 ###### Artículo 161.
 
@@ -1294,9 +1374,11 @@ III. Cuando dicha reproducción no tenga la firma o sello del notario.
 
 Cuando se expida un testimonio por Notario, o cuando así corresponda, por el titular del Archivo, se asentará una nota complementaria que contendrá la fecha de expedición, el número de hojas de que conste el testimonio, el número ordinal que corresponda a éste, según los artículos 146 y 149 de esta Ley, así como para quién se expida y a qué título. Las constancias sobre los asientos de inscripción puestas por los registros públicos correspondientes al calce de los testimonios, serán relacionadas o transcritas por el Notario en una nota complementaria del instrumento. En todo caso, las notas complementarias llevarán la rúbrica o media firma del Notario.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE ENERO DE 2006)</small>
+
 ###### Artículo 165.
 
-Se aplicará la pena prevista por el artículo 247 del Código Penal al que:
+Se aplicará la pena prevista por el artículo 311 del Nuevo Código Penal al que:
 
 I. Interrogado por notario del Distrito Federal, por el colegio en cumplimiento de las atribuciones establecidas por esta ley, o por el Archivo, falte a la verdad;
 
@@ -1342,9 +1424,11 @@ Sin perjuicio de lo dispuesto por el artículo 782 del Código de Procedimientos
 
 Si la sucesión fuere testamentaria, la tramitación notarial podrá llevarse a cabo, independientemente de cual hubiere sido el último domicilio del autor de la sucesión o el lugar de su fallecimiento, siempre y cuando se actualicen las hipótesis previstas en el primer párrafo del artículo anterior. En este caso, deberán obtenerse previamente los informes del Archivo y del archivo judicial, así como de la oficina respectiva del último domicilio del autor de la sucesión, en caso de que hubiere sido fuera del Distrito Federal, a fin de acreditar que el testamento presentado al Notario por todos los herederos, es el último otorgado por el testador.
 
+> <small>(REFORMADO, G.O. 25 DE ENERO DE 2006)</small>
+
 ###### Artículo 169.
 
-La sucesión intestamentaria podrá tramitarse ante notario si el último domicilio del autor de la sucesión fue el Distrito Federal, o si se encuentran ubicados en la entidad la mayor parte en número o la totalidad de los bienes, una vez que se hubieren obtenido del archivo judicial y del Archivo las constancias de no tener estos depositado testamento o informe de que se haya otorgado alguno, y previa acreditación de los herederos de su entroncamiento con el autor de la sucesión mediante las partidas del Registro Civil correspondientes.
+La sucesión intestamentaria podrá tramitarse ante notario si el último domicilio del autor de la sucesión fue el Distrito Federal, o si se encuentran ubicados en la entidad uno o la mayor parte de los bienes, lo cual declararán los interesados bajo su responsabilidad, una vez que se hubieren obtenido del Archivo Judicial y del Archivo, constancias de no tener depositado testamento o informe de que se haya otorgado alguno, y previa acreditación de los herederos de su entroncamiento con el autor de la sucesión mediante las partidas del Registro Civil correspondiente. Podrán tramitar esta sucesión, el o la cónyuge, los ascendientes, descendientes y colaterales hasta el cuarto grado; fuera de estos casos, la sucesión deberá tramitarse por la vía judicial.
 
 ###### Artículo 170.
 
@@ -1364,9 +1448,13 @@ V. Su intención de proceder por común acuerdo.
 
 El Notario podrá hacer constar también la aceptación o renuncia del cargo de albacea instituido por el autor del testamento, así como las designaciones de albacea que en su caso hagan todos los herederos de común acuerdo, y la aceptación del cargo. También los acuerdos de los herederos para la constitución en su caso de la caución o el relevo de esa obligación. Una vez aceptado el cargo, el albacea procederá a la formación de inventario y avalúo en términos de Ley.
 
+> <small>(REFORMADO, G.O. 25 DE ENERO DE 2006)</small>
+
 ###### Artículo 172.
 
-También podrá hacer constar el Notario, en su caso, la renuncia o repudio de sus derechos que formule alguno de los herederos o legatarios.
+También podrá hacer constar el notario, la renuncia o repudio de derechos que haga alguno de los herederos o legatarios.
+
+Los emancipados podrán aceptar o repudiar sus derechos hereditarios.
 
 ###### Artículo 173.
 
@@ -1379,6 +1467,10 @@ Si no hubiere testamento, los herederos, en el orden de derechos previsto por el
 ###### Artículo 175.
 
 El Notario está obligado a dar a conocer las declaraciones de los herederos a que se refieren los artículos anteriores, mediante dos publicaciones que se harán en un diario de circulación nacional, de diez en diez días, con la mención del número de la publicación que corresponda.
+
+> <small>(ADICIONADO, G.O. 25 DE ENERO DE 2006)</small>
+
+Estas publicaciones podrán ser suplidas por otra u otras publicaciones en medios electrónicos u otro medio de comunicación masiva que acuerden el Colegio y las autoridades competentes, salvaguardando siempre la debida publicidad y garantía de audiencia de los posibles interesados.
 
 ###### Artículo 176.
 
@@ -1550,11 +1642,13 @@ El notario que vaya a actuar en el protocolo de una notaría que haya quedado va
 
 #### Sección Primera. De la Vigilancia
 
+> <small>(REFORMADO, G.O. 25 DE ENERO DE 2006)</small>
+
 ###### Artículo 207.
 
-La autoridad competente vigilará el correcto ejercicio de la función notarial a través de visitas que realizará por medio de inspectores de notarías. Estos deberán cumplir los requisitos a que se refieren los artículos 54, 55 y 57, fracciones I y II de esta ley, a menos que en el caso de esta última fracción sea dispensado por la autoridad competente.
+La autoridad competente vigilará el correcto ejercicio de la función notarial a través de visitas que realizará por medio de inspectores de notarías. Para ser inspector de notarías el interesado, además de satisfacer los requisitos que para el desempeño de un empleo exige el Gobierno del Distrito Federal, deberá reunir aquellos que señalan las fracciones I, II, III y IV, del artículo 54 y 55 de esta Ley.
 
-El colegio coadyuvará con la autoridad competente en la vigilancia del ejercicio de la función notarial, cuando dicha autoridad lo requiera.
+El Colegio coadyuvará con la autoridad competente en la vigilancia del ejercicio de la función notarial, cuando dicha autoridad lo requiera.
 
 ###### Artículo 208.
 
@@ -1580,11 +1674,13 @@ El notificador comunicará al colegio la fecha y hora en que habrá de practicar
 
 Al presentarse el inspector que vaya a practicar la visita, se identificará ante el notario. En caso de no estar presente éste, le dejará citatorio en el que se indicará el día y la hora en que se efectuará la visita de inspección; en el supuesto de que el notario no acuda al citatorio, se entenderá la diligencia con su suplente o, en su caso, con su asociado, y en ausencia de éstos, con la persona que esté encargada de la notaría en el momento de la diligencia, a quien se le mostrará la orden escrita que autorice la inspección, con quien el inspector también se identificará.
 
+> <small>(REFORMADO, G.O. 25 DE ENERO DE 2006)</small>
+
 ###### Artículo 213.
 
-Las visitas especiales se practicarán previa orden de la autoridad competente y tendrán por objeto verificar los hechos denunciados por queja de un prestatario, cuando de lo expuesto por éste se desprenda que en la notaría se cometieron en su daño o perjuicio, hechos o actos que contravengan a la presente ley u otras disposiciones jurídicas y administrativas aplicables.
+Las visitas especiales se practicarán previa orden de la autoridad competente y tendrán por objeto verificar los hechos denunciados por queja de un prestatario o destinatario, cuando de lo expuesto por éste se desprenda que el notario cometió alguna actuación que amerite sanción de carácter administrativo por violaciones a esta ley y a otras relacionadas directamente con su función.
 
-La notificación de la visita especial se practicará en la forma prevista por el artículo 211 y la inspección se verificará dentro de las setenta y dos horas hábiles después de notificar al notario y al colegio, para que éste último si lo considera conveniente, designe un notario que auxilie al inspector para la práctica de la visita. La orden de autoridad limitará el objeto de la inspección al contenido de la queja.
+La notificación de la visita especial se practicará en la forma prevista por el artículo 211 y la inspección se verificará dentro de las setenta y dos horas hábiles después de notificar al notario y al Colegio, para que éste último si lo considera conveniente, designe un notario que auxilie al inspector para la práctica de la visita. La orden de autoridad limitará el objeto de la inspección al contenido de la queja.
 
 ###### Artículo 214.
 
@@ -1616,9 +1712,11 @@ El inspector contará con un máximo de quince días hábiles, contados a partir
 
 Practicadas las diligencias de inspección y levantadas las actas de mérito, el visitador dará cuenta de todo ello a la autoridad administrativa, dentro de los dos días hábiles siguientes a la fecha del cierre del acta de inspección.
 
+> <small>(REFORMADO, G.O. 25 DE ENERO DE 2006)</small>
+
 ###### Artículo 220.
 
-El notario podrá manifestar lo que a su derecho convenga en el acta de inspección o en un término no mayor de cinco días hábiles, en escrito por separado, con relación a la queja, anomalía o irregularidad asentada en dicha acta y en su caso podrá dentro de dicho plazo ofrecer y en su caso desahogar las pruebas que guarden relación con los hechos controvertidos.
+El notario podrá manifestar lo que a su derecho convenga en el acta de inspección o en un término no mayor de cinco días hábiles, en escrito por separado, con relación a la queja, anomalía o irregularidad asentada en dicha acta y en su caso podrá dentro de dicho plazo ofrecer y desahogar las pruebas que guarden relación con los hechos controvertidos, asimismo, deberá autorizar a una o varias personas para oír y recibir notificaciones que se deriven del procedimiento en cuestión.
 
 ###### Artículo 221.
 
@@ -1652,9 +1750,11 @@ IV. Cesación de funciones.
 
 Estas sanciones se notificarán personalmente al notario responsable y se harán del conocimiento del consejo.
 
+> <small>(REFORMADO, G.O. 25 DE ENERO DE 2006)</small>
+
 ###### Artículo 225.
 
-Las sanciones a que se refiere el artículo anterior serán aplicables de manera gradual, pudiendo ser acumulativas las multas con cualquiera de las previstas en las fracciones I, III y IV del artículo anterior. Para la aplicación de sanciones la autoridad competente, al motivar su resolución, deberá tomar en cuenta las circunstancias y la gravedad del caso, los perjuicios y daños que directamente se hayan ocasionado, el grado de diligencia del notario para la solución del problema, su antigüedad en el cargo, sus antecedentes profesionales y los servicios prestados por el notario al Gobierno, la sociedad y al notariado. En todo caso, tomará en cuenta la opinión del colegio.
+Las sanciones a que se refiere el artículo anterior serán aplicables de manera gradual, pudiendo ser acumulativas las multas con cualquiera de las previstas en las fracciones I, III y IV del artículo anterior. Para la aplicación de sanciones la autoridad competente, al motivar su resolución, deberá tomar en cuenta las circunstancias y la gravedad del caso, los perjuicios y daños que directamente se hayan ocasionado, si los hubo, el grado de diligencia del notario para la solución del problema, su antigüedad en el cargo, sus antecedentes profesionales y los servicios prestados por el notario al Gobierno, la Sociedad y al Notariado. Las autoridades pedirán la opinión del colegio.
 
 ###### Artículo 226.
 
@@ -1684,7 +1784,9 @@ II. Por incurrir en alguna de las hipótesis previstas en el artículo 45, fracc
 
 III. Por realizar cualquier actividad que sea incompatible con el desempeño de sus funciones de notario, de acuerdo a lo previsto por esta Ley;
 
-IV. Por provocar por culpa o dolo, la nulidad de un instrumento o testimonio, siempre que cause daño o perjuicio directos a los prestatarios;
+> <small>(REFORMADA, G.O. 25 DE ENERO DE 2006)</small>
+
+IV. Por provocar por culpa o dolo, la nulidad de un instrumento o testimonio, siempre que cause daño o perjuicio directos a los prestatarios o destinatarios;
 
 V. Por no ajustarse al arancel o a los convenios legalmente celebrados en materia de honorarios legalmente aplicables, y
 
@@ -1724,13 +1826,19 @@ La resolución por la que un notario sea cesado en sus funciones, será firmada 
 
 Para la aplicación de las sanciones previstas en los artículos anteriores, se observará el siguiente procedimiento:
 
-I. Toda persona con derecho a ello, podrá presentar por escrito ante la autoridad administrativa competente, queja contra el Notario que haya cometido la falta que cause daños o perjuicios en su contra. El quejoso deberá identificarse, asentar sus generales, precisar su queja y exhibir las constancias documentales o señalar los testigos idóneos, o ambos elementos de convicción, junto con un relato o exposición detallada de los hechos o actos motivo de su queja, a fin de justificarla debidamente. Faltando alguno de los requisitos señalados, la autoridad competente prevendrá al ocursante dando un término de tres días para desahogar el requerimiento; vencido dicho término, si el interesado no cumple con el requisito faltante, la autoridad desechará por improcedente la queja presentada.
+> <small>(REFORMADA, G.O. 25 DE ENERO DE 2006)</small>
 
-II. La autoridad recibirá la queja y la admitirá a trámite si reúne los requisitos referidos en la fracción anterior. Procederá a registrar la queja en el libro de Gobierno que al efecto exista; al abrir el expediente respectivo, ordenará visita de inspección especial y notificará la queja al Notario de que se trate, así como al Colegio, a los que se les correrá traslado del escrito por el que se presentó la queja.
+I. Toda persona que acredite fehacientemente su interés jurídico, podrá presentar por escrito ante la autoridad administrativa competente, queja contra el notario al que se le impute la actuación que amerite sanción de carácter administrativo por violaciones a esta ley y a otras relacionadas directamente con su función. El quejoso deberá identificarse asentando nombre o razón social, el de su representante legal, así como el de los autorizados para oír y recibir notificaciones; asimismo deberá asentar sus generales así como una descripción clara y sucinta de los hechos o razones en que apoya su queja; debiendo exhibir las constancias documentales o en su caso señalar los testigos idóneos que acrediten sus manifestaciones, junto con un relato o exposición detallada de los hechos o actos motivo de su queja, a fin de justificarla debidamente. Faltando alguno de los requisitos señalados, la autoridad competente prevendrá al ocursante concediéndole un término de cinco días hábiles para desahogar el requerimiento; vencido dicho término, si el interesado no desahoga la prevención en el tiempo o forma señalados, la autoridad desechará por improcedente la queja presentada.
 
-> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA, G.O. 25 DE ENERO DE 2006)</small>
 
-III.- Desahogada la visita de inspección especial a que se refiere la fracción anterior, la autoridad citará al quejoso, al notario contra quien se haya instaurado el procedimiento y al colegio, a una junta de conciliación la cual sólo podrá diferirse una vez. En esta junta se exhortará al quejoso y al notario a conciliar sus intereses. Desahogada esta junta y de no haber conciliación, la autoridad pasará a recibir las pruebas documentales durante un plazo de diez días hábiles. Rendidas las pruebas se procederá a escuchar los alegatos del primero del quejoso quien para tal efecto podrá hacerse asesorar por abogado o persona de su confianza, luego al notario, así como la opinión del colegio. Acto seguido, la autoridad citará a las partes para oír la resolución correspondiente dentro de los siguientes veinte días hábiles.
+II. La autoridad recibirá la queja y, de considerarlo necesario, previo a su admisión podrá solicitar al notario en cuestión un informe sobre los hechos que la motivaron, mismo que deberá ser rendido en un término no mayor de siete días hábiles, a efecto de determinar la procedencia de la queja; para el caso que sea procedente o que el notario haga caso omiso al requerimiento, la autoridad acordará su admisión a trámite, procederá a registrar la queja en el libro de Gobierno que al efecto exista; abrirá el expediente respectivo, notificará y correrá traslado del acuerdo de admisión junto con la queja al notario de que se trate, ordenando la visita de inspección especial en los términos de esta ley.
+
+A las partes sólo les será notificado personalmente el acuerdo admisorio de la queja y la resolución que ponga fin al procedimiento. Todas las demás resoluciones de trámite serán notificadas por conducto de las personas autorizadas en las oficinas de la autoridad y mediante los estrados que ésta implemente para tal efecto.
+
+> <small>(REFORMADA, G.O. 25 DE ENERO DE 2006)</small>
+
+III. Desahogada la visita de inspección especial a que se refiere la fracción anterior, la autoridad citará a las partes a una junta de conciliación, la cual solo podrá diferirse una vez, siempre que así lo soliciten las partes; en dicha junta la autoridad exhortará a las partes a conciliar sus intereses. De no haber conciliación la autoridad abrirá el periodo probatorio durante un plazo de diez días hábiles, cuya admisión y valoración estará sujeta a las reglas establecidas en el Código de Procedimientos. No quedando prueba pendiente por desahogar, se procederá en un término de tres días a recibir los alegatos por escrito primero del quejoso, luego del notario; una vez rendidos, la autoridad procederá a solicitar la opinión del colegio sobre los hechos materia de la queja, el cual contará con un plazo de siete días hábiles para emitirla a partir del requerimiento que al efecto se le formule, para lo cual deberá consultar el expediente de queja. Acto seguido, la autoridad citará a las partes para oír la resolución correspondiente, dentro de los siguientes treinta días hábiles.
 
 ###### Artículo 231.
 
@@ -1778,9 +1886,11 @@ III. Reconocer la validez del acto impugnado.
 
 Disposiciones Generales
 
+> <small>(REFORMADO, G.O. 25 DE ENERO DE 2006)</small>
+
 ###### Artículo 235.
 
-El Registro Público, el Archivo, el Colegio y el Decanato, son instituciones que apoyan al notariado del Distrito Federal en beneficio de la certitud jurídica que impone el correcto ejercicio de la fe pública.
+El Registro Público, el Archivo, el Colegio, el Decanato y el Registro Nacional de Testamentos, son instituciones que apoyan al notariado del Distrito Federal en beneficio de la seguridad y certeza jurídicas que impone el correcto ejercicio de la fe pública.
 
 ### CAPÍTULO I. DEL ARCHIVO GENERAL DE NOTARÍAS DEL DISTRITO FEDERAL
 
@@ -1844,7 +1954,13 @@ XIX. Registrar las patentes de aspirante y de notario, así como los convenios d
 
 XX. Recibir las inspecciones judiciales, cuando la ley así lo permita, y
 
-XXI. Las demás atribuciones que le confieran las leyes.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 25 DE ENERO DE 2006)</small>
+
+XXI. Colaborar para la integración, alimentación, mantenimiento y actualización del sistema de datos del Registro Nacional de Testamentos, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 25 DE ENERO DE 2006)</small>
+
+XXII. Las demás que le confieran otros ordenamientos jurídicos.
 
 ###### Artículo 239.
 
@@ -2205,3 +2321,9 @@ PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal para su promulgaci�
 SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 TERCERO.- Para los efectos de lo dispuesto en el tercer párrafo de este artículo, los notarios contarán con un término de 30 días a partir de su entrada en vigor.
+
+G.O. 25 DE ENERO DE 2006.
+
+PRIMERO.- Remítase al Jefe de Gobierno para su debida promulgación y publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las presentes reformas entrarán en vigor a los treinta días naturales siguientes de su publicación en la Gaceta Oficial del Distrito Federal.
