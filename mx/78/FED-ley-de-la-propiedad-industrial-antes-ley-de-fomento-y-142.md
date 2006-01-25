@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-propiedad-industrial-antes-ley-de-fomento-y-142"
 country: "mx"
 rank: "ley"
 publication_date: "1991-06-27"
-last_updated: "2005-06-16"
+last_updated: "2006-01-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1991-06-26"
 
 LEY DE LA PROPIEDAD INDUSTRIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE ENERO DE 2006.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 27 de junio de 1991.
 
@@ -61,11 +61,17 @@ III.- Propiciar e impulsar el mejoramiento de la calidad de los bienes y servici
 
 IV.- Favorecer la creatividad para el diseño y la presentación de productos nuevos y útiles;
 
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 25 DE ENERO DE 2006)</small>
 
-V.- Proteger la propiedad industrial mediante la regulación y otorgamiento de patentes de invención; registros de modelos de utilidad, diseños industriales, marcas, y avisos comerciales; publicación de nombres comerciales; declaración de protección de denominaciones de origen, y regulación de secretos industriales, y
+V.- Proteger la propiedad industrial mediante la regulación y otorgamiento de patentes de invención; registros de modelos de utilidad, diseños industriales, marcas, y avisos comerciales; publicación de nombres comerciales; declaración de protección de denominaciones de origen, y regulación de secretos industriales;
 
-VI.- Prevenir los actos que atenten contra la propiedad industrial o que constituyan competencia desleal relacionada con la misma y establecer las sanciones y penas respecto de ellos.
+> <small>(REFORMADA, D.O.F. 25 DE ENERO DE 2006)</small>
+
+VI.- Prevenir los actos que atenten contra la propiedad industrial o que constituyan competencia desleal relacionada con la misma y establecer las sanciones y penas respecto de ellos, y
+
+> <small>(ADICIONADA, D.O.F. 25 DE ENERO DE 2006)</small>
+
+VII.- Establecer condiciones de seguridad jurídica entre las partes en la operación de franquicias, así como garantizar un trato no discriminatorio para todos los franquiciatarios del mismo franquiciante.
 
 ###### Artículo 3o.
 
@@ -1471,13 +1477,71 @@ La persona que tenga concedida una licencia inscrita en el Instituto, salvo esti
 
 El uso de la marca por el usuario que tenga concedida licencia inscrita en el Instituto, se considerará como realizado por el titular de la marca.
 
+> <small>(REFORMADO, D.O.F. 25 DE ENERO DE 2006)</small>
+
 ###### Artículo 142.
 
-Existirá franquicia, cuando con la licencia de uso de una marca se transmitan conocimientos técnicos o se proporcione asistencia técnica, para que la persona a quien se le concede pueda producir o vender bienes o prestar servicios de manera uniforme y con los métodos operativos, comerciales y administrativos establecidos por el titular de la marca, tendientes a mantener la calidad, prestigio e imagen de los productos o servicios a los que ésta distingue.
+Existirá franquicia, cuando con la licencia de uso de una marca, otorgada por escrito, se transmitan conocimientos técnicos o se proporcione asistencia técnica, para que la persona a quien se le concede pueda producir o vender bienes o prestar servicios de manera uniforme y con los métodos operativos, comerciales y administrativos establecidos por el titular de la marca, tendientes a mantener la calidad, prestigio e imagen de los productos o servicios a los que ésta distingue.
 
-Quien conceda una franquicia deberá proporcionar a quien se la pretende conceder, previamente a la celebración del convenio respectivo, la información relativa sobre el estado que guarda su empresa, en los términos que establezca el reglamento de esta Ley.
+Quien conceda una franquicia deberá proporcionar a quien se la pretenda conceder, por lo menos con treinta días previos a la celebración del contrato respectivo, la información relativa sobre el estado que guarda su empresa, en los términos que establezca el reglamento de esta Ley.
+
+La falta de veracidad en la información a que se refiere el párrafo anterior dará derecho al franquiciatario, además de exigir la nulidad del contrato, a demandar el pago de los daños y perjuicios que se le hayan ocasionado por el incumplimiento. Este derecho podrá ejercerlo el franquiciatario durante un año a partir de la celebración del contrato. Después de transcurrido este plazo solo tendrá derecho a demandar la nulidad del contrato.
 
 Para la inscripción de la franquicia serán aplicables las disposiciones de este capítulo.
+
+> <small>(ADICIONADO, D.O.F. 25 DE ENERO DE 2006)</small>
+
+###### Artículo 142 Bis.
+
+El contrato de franquicia deberá constar por escrito y deberá contener, cuando menos, los siguientes requisitos:
+
+I.- La zona geográfica en la que el franquiciatario ejercerá las actividades objeto del contrato;
+
+II.- La ubicación, dimensión mínima y características de las inversiones en infraestructura, respecto del establecimiento en el cual el franquiciatario ejercerá las actividades derivadas de la materia del contrato;
+
+III.- Las políticas de inventarios, mercadotecnia y publicidad, así como las disposiciones relativas al suministro de mercancías y contratación con proveedores, en el caso de que sean aplicables;
+
+IV.- Las políticas, procedimientos y plazos relativos a los reembolsos, financiamientos y demás contraprestaciones a cargo de las partes en los términos convenidos en el contrato;
+
+V.- Los criterios y métodos aplicables a la determinación de los márgenes de utilidad y/o comisiones de los franquiciatarios;
+
+VI.- Las características de la capacitación técnica y operativa del personal del franquiciatario, así como el método o la forma en que el franquiciante otorgará asistencia técnica;
+
+VII.- Los criterios, métodos y procedimientos de supervisión, información, evaluación y calificación del desempeño, así como la calidad de los servicios a cargo del franquiciante y del franquiciatario;
+
+VIII.- Establecer los términos y condiciones para subfranquiciar, en caso de que las partes así lo convengan;
+
+IX.- Las causales para la terminación del contrato de franquicia;
+
+X.- Los supuestos bajo los cuales podrán revisarse y, en su caso, modificarse de común acuerdo los términos o condiciones relativos al contrato de franquicia;
+
+XI.- No existirá obligación del franquiciatario de enajenar sus activos al franquiciante o a quien éste designe al término del contrato, salvo pacto en contrario, y
+
+XII.- No existirá obligación del franquiciatario de enajenar o transmitir al franquiciante en ningún momento, las acciones de su sociedad o hacerlo socio de la misma, salvo pacto en contrario.
+
+Este artículo se sujetará, en lo conducente, a lo dispuesto en el Reglamento de la presente Ley.
+
+> <small>(ADICIONADO, D.O.F. 25 DE ENERO DE 2006)</small>
+
+###### Artículo 142 Bis 1.
+
+El franquiciante podrá tener injerencia en la organización y funcionamiento del franquiciatario, únicamente para garantizar la observancia de los estándares de administración y de imagen de la franquicia conforme a lo establecido en el contrato.
+
+No se considerará que el franquiciante tenga injerencia en casos de fusión, escisión, transformación, modificación de estatutos, transmisión o gravamen de partes sociales o acciones del franquiciatario, cuando con ello se modifiquen las características personales del franquiciatario que hayan sido previstas en el contrato respectivo como determinante de la voluntad del franquiciante para la celebración del contrato con dicho franquiciatario.
+
+> <small>(ADICIONADO, D.O.F. 25 DE ENERO DE 2006)</small>
+
+###### Artículo 142 Bis 2.
+
+El franquiciatario deberá guardar durante la vigencia del contrato y, una vez terminado éste, la confidencialidad sobre la información que tenga dicho carácter o de la que haya tenido conocimiento y que sean propiedad del franquiciante, así como de las operaciones y actividades celebradas al amparo del contrato.
+
+> <small>(ADICIONADO, D.O.F. 25 DE ENERO DE 2006)</small>
+
+###### Artículo 142 Bis 3.
+
+El franquiciante y el franquiciatario no podrán dar por terminado o rescindido unilateralmente el contrato, salvo que el mismo se haya pactado por tiempo indefinido, o bien, exista una causa justa para ello. Para que el franquiciatario o el franquiciante puedan dar por terminado anticipadamente el contrato, ya sea que esto suceda por mutuo acuerdo o por rescisión, deberán ajustarse a las causas y procedimientos convenidos en el contrato.
+
+En caso de las violaciones a lo dispuesto en el párrafo precedente, la terminación anticipada que hagan el franquiciante o franquiciatario dará lugar al pago de las penas convencionales que hubieran pactado en el contrato, o en su lugar a las indemnizaciones por los daños y perjuicios causados.
 
 > <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
@@ -1969,19 +2033,19 @@ V.- La descripción de los hechos, y
 
 VI.- Los fundamentos de derecho.
 
+> <small>(REFORMADO, D.O.F. 25 DE ENERO DE 2006)</small>
+
 ###### Artículo 190.
 
-Con la solicitud de declaración administrativa deberán presentarse, en originales o copias debidamente certificadas, los documentos y constancias en que se funde la acción y ofrecerse las pruebas correspondientes. Las pruebas que se presenten posteriormente, no serán admitidas salvo que fueren supervenientes.
+Con la solicitud de declaración administrativa deberán presentarse, en originales o copias debidamente certificadas, los documentos y constancias en que se funde la acción y ofrecerse las pruebas correspondientes. Las pruebas que se presenten posteriormente, no serán admitidas salvo que fueren supervenientes. Asimismo, deberá exhibir el solicitante el número de copias simples de la solicitud y de los documentos que a ella se acompaña, necesarios para correr traslado a la contraparte.
 
-> <small>(ADICIONADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+Cuando se ofrezca como prueba algún documento que obre en los archivos del Instituto, bastará que el solicitante precise el expediente en el cual se encuentra y solicite la expedición de la copia certificada correspondiente o, en su caso, el cotejo de la copia simple que se exhiba y solicitará al Instituto que con la copia simple de dichas pruebas, se emplace al titular afectado.
 
-Cuando se ofrezca como prueba algún documento que obre en los archivos del Instituto, bastará que el solicitante precise el expediente en el cual se encuentra y solicite la expedición de la copia certificada correspondiente o, en su caso, el cotejo de la copia simple que se exhiba.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE ENERO DE 2006)</small>
 
 ###### Artículo 191.
 
-Si el solicitante no cumpliere con los requisitos a que se refiere el artículo 189 de esta Ley, el Instituto le requerirá, por una sola vez, subsane la omisión en que incurrió o haga las aclaraciones que correspondan; para tal efecto se le concederá un plazo de ocho días, y de no cumplirse el requerimiento en el plazo otorgado se desechará la solicitud.
+Si el solicitante no cumpliere con los requisitos a que se refiere el artículo 189 de esta Ley o no exhibiera las copias de la solicitud y los documentos que a ella se acompañan, a que se refiere el artículo 190 de esta Ley, el Instituto le requerirá, por una sola vez, subsane la omisión en que incurrió o haga las aclaraciones que correspondan; para tal efecto se le concederá un plazo de ocho días, y de no cumplirse el requerimiento en el plazo otorgado se desechará la solicitud.
 
 También se desechará la solicitud por la falta de documento que acredite la personalidad o cuando el registro, patente, autorización o publicación que sea base de la acción, no se encuentre vigente.
 
@@ -2009,11 +2073,11 @@ I.- El producto obtenido por el proceso patentado sea nuevo, y
 
 II.- Exista una probabilidad significativa de que el producto haya sido fabricado mediante el proceso patentado y el titular de la patente no haya logrado, no obstante haberlo intentado, establecer el proceso efectivamente utilizado.
 
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 25 DE ENERO DE 2006)</small>
 
 ###### Artículo 193.
 
-Admitida la solicitud de declaración administrativa de nulidad, caducidad y cancelación, el Instituto la notificará al titular afectado, concediéndole un plazo de un mes para que manifieste por escrito lo que a su derecho convenga. En los procedimientos de declaración administrativa de infracción se estará a lo dispuesto en los artículos 209 fracción IX y 216 de esta Ley. La notificación se hará en el domicilio señalado por el solicitante de la declaración administrativa.
+Admitida la solicitud de declaración administrativa de nulidad, caducidad y cancelación, el Instituto, con la copia simple de la solicitud y los documentos que se le acompañaron, la notificará al titular afectado, concediéndole un plazo de un mes para que manifieste por escrito lo que a su derecho convenga. En los procedimientos de declaración administrativa de infracción se estará a lo dispuesto en los artículos 209 fracción IX y 216 de esta Ley. La notificación se hará en el domicilio señalado por el solicitante de la declaración administrativa.
 
 > <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
@@ -2385,11 +2449,19 @@ a) Un esquema de trazado protegido;
 
 b) Un circuito integrado en el que esté incorporado un esquema de trazado protegido, o
 
-c) Un bien que incorpore un circuito integrado que a su vez incorpore un esquema de trazado protegido reproducido ilícitamente, y
+> <small>(REFORMADO, D.O.F. 25 DE ENERO DE 2006)</small>
 
-> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1997)</small>
+c) Un bien que incorpore un circuito integrado que a su vez incorpore un esquema de trazado protegido reproducido ilícitamente;
 
-XXV.- Las demás violaciones a las disposiciones de esta Ley que no constituyan delitos.
+> <small>(ADICIONADA, D.O.F. 25 DE ENERO DE 2006)</small>
+
+XXV.- No proporcionar al franquiciatario la información, a que se refiere el artículo 142 de esta Ley, siempre y cuando haya transcurrido el plazo para ello y haya sido requerida;
+
+> <small>(ADICIONADA, D.O.F. 25 DE ENERO DE 2006)</small>
+
+XXVI.- Usar la combinación de signos distintivos, elementos operativos y de imagen, que permitan identificar productos o servicios iguales o similares en grado de confusión a otros protegidos por esta Ley y que por su uso causen o induzcan al público a confusión, error o engaño, por hacer creer o suponer la existencia de una relación entre el titular de los derechos protegidos y el usuario no autorizado. El uso de tales elementos operativos y de imagen en la forma indicada constituye competencia desleal en los términos de la fracción I de este mismo artículo, y
+
+XXVII.- Las demás violaciones a las disposiciones de esta Ley que no constituyan delitos.
 
 ###### Artículo 214.
 
@@ -2682,3 +2754,7 @@ Unico. El presente Decreto entrará en vigor al día siguiente de su publicació
 D.O.F. 16 DE JUNIO DE 2005.
 
 Único.- El presente Decreto entrará en vigor un día después de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 25 DE ENERO DE 2006.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
