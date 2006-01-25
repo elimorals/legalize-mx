@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-de-los-municipios-del-estado-de-yucatan-10848"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-10-25"
-last_updated: "1996-08-26"
+last_updated: "2006-01-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "YUC"
 
 LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE AGOSTO DE 1996.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATAN, PUBLICADA EN D.O. DE 25 DE ENERO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO; EXCEPTO, DE CONFORMIDAD CON LO SEÑALADO POR EL ARTICULO DECIMO QUINTO DE LA NUEVA LEY, LO REFERENTE AL CAPITULO II DEL TITULO NOVENO DE LA LEY QUE SE ABROGA, HASTA EN TANTO SE EXPIDA LA LEY REGLAMENTARIA DE LA FRACCION XL, DEL ARTICULO 30 DE LA CONSTITUCION POLITICA DEL ESTADO DE YUCATAN.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 25 DE ENERO DE 2006.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 25 de octubre de 1988.
 
@@ -2329,9 +2331,9 @@ Las faltas temporales de las autoridades auxiliares municipales serán suplidas 
 
 En cuanto a las faltas de los demás funcionarios y empleados, los presidentes municipales correspondientes designarán a las personas que deban cubrir las vacantes conforme a las leyes respectivas.
 
-### CAPITULO II. DE LA REMOCION E INHABILITACION DE LOS MIEMBROS DEL
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO DECIMO QUINTO TRANSITORIO DE LA LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATAN, PUBLICADA EN D.O. DE 25 DE ENERO DE 2006, EL PRESENTE CAPITULO PERMANECERA VIGENTE, HASTA EN TANTO SE EXPIDA LA LEY REGLAMENTARIA DE LA FRACCION XL, DEL ARTICULO 30 DE LA CONSTITUCION POLITICA DEL ESTADO DE YUCATAN.</small>
 
-AYUNTAMIENTO
+### CAPITULO II. DE LA REMOCION E INHABILITACION DE LOS MIEMBROS DEL AYUNTAMIENTO
 
 ###### ARTICULO 135.
 
@@ -2490,3 +2492,63 @@ Para los efectos del penúltimo párrafo del artículo 91 que se reforma, por es
 ###### ARTICULO TERCERO.
 
 Este decreto deroga todas las disposiciones legales que a él se opongan.
+
+D.O. 25 DE ENERO DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor a los ciento veinte días siguientes al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+> <small>(F. DE E., D.O. 8 DE FEBRERO DE 2006)</small>
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica de los Municipios del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de fecha veinticinco de octubre de 1988 mediante Decreto Número 59.
+
+###### ARTÍCULO TERCERO.
+
+La composición de los Ayuntamientos del Estado, prevista en esta Ley, será a partir del próximo proceso electoral local y del inicio del ejercicio constitucional 2007-2010.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos deberán expedir el Reglamento relativo al Registro de Población Municipal, en los seis meses posteriores al inicio de vigencia de la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+Los límites intermunicipales se conservarán de conformidad a los actualmente existentes, hasta en tanto el Congreso del Estado de Yucatán, emita el Decreto correspondiente.
+
+###### ARTÍCULO SEXTO.
+
+El Congreso del Estado de Yucatán, por única vez determinará el número de Regidores de mayoría relativa y de representación proporcional que corresponde a cada Municipio, en el mes de abril de 2006.
+
+###### ARTÍCULO SÉPTIMO.
+
+A falta de Gaceta Municipal, las disposiciones generales y las demás que acuerden los Ayuntamientos, se publicarán en el Diario Oficial del Gobierno del Estado.
+
+###### ARTÍCULO OCTAVO.
+
+Al término del período constitucional de las actuales administraciones municipales y para efecto de la Comisión de Entrega-Recepción, ésta deberá conformarse en el mes de junio de 2007, y los Tesoreros de los Ayuntamientos salientes, harán las funciones del Síndico en el procedimiento de entrega-recepción.
+
+###### ARTÍCULO NOVENO.
+
+Los Ayuntamientos convendrán con el Ejecutivo del Estado, las condiciones para regular las facultades concurrentes en materia de regulación de bebidas alcohólicas y preservación del medio ambiente.
+
+###### ARTÍCULO DÉCIMO.
+
+Los Ayuntamientos del Estado deberán expedir las disposiciones relativas a la organización y funcionamiento de las distintas corporaciones de Seguridad Pública y Transito, a partir del inicio de la vigencia de la presente Ley.
+
+ARTÍCULO DECIMOPRIMERO.- Con el propósito de colaborar en el procedimiento de Entrega- Recepción, la Contaduría Mayor de Hacienda, en un plazo de noventa días previos a la conclusión del actual ejercicio constitucional de los Municipios del Estado, establecerá los lineamientos generales tendientes a facilitar y garantizar a las Administraciones saliente y entrante, la recepción y la continuidad de los servicios y, funciones de la Administración Pública Municipal.
+
+ARTÍCULO DECIMOSEGUNDO.- Las actuales autoridades auxiliares de los municipios del Estado, permanecerán en su encargo, en tanto los próximos Ayuntamientos las sustituyan.
+
+ARTÍCULO DECIMOTERCERO.- El Ejecutivo del Estado dispondrá lo necesario para que se constituya el Registro Estatal de Publicaciones Oficiales, con el fin de facilitar la expedición y circulación de las respectivas Gacetas Municipales.
+
+ARTÍCULO DECIMOCUARTO.- Para el caso de los Ayuntamientos que cuentan con jueces calificadores, por única vez se prorroga el período de su encargo, a más tardar al día treinta de agosto del dos mil siete. Y los que a la entrada en vigor de esta Ley, no cuenten con jueces calificadores, podrán nombrarlos quienes durarán hasta la fecha citada con anterioridad.
+
+> <small>(F. DE E., D.O. 8 DE FEBRERO DE 2006)</small>
+
+ARTÍCULO DECIMOQUINTO.- En tanto se expida (sic) ley reglamentaria de la fracción XL, del artículo 30 de la Constitución Política del Estado de Yucatán, permanecerá vigente el Capítulo II del Título Noveno, de la Ley Orgánica de los Municipios del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado en fecha veinticinco de octubre de 1988, mediante Decreto Número 59.
+
+ARTÍCULO DÉCIMOSEXTO.- Los Ayuntamientos del Estado de Yucatán, deberán adecuar sus disposiciones reglamentarias municipales, al inicio de la vigencia de la presente ley.
+
+ARTÍCULO DÉCIMOSEPTIMO.- Se exhorta a los Ayuntamientos para que de común acuerdo con el Poder Judicial del Estado, se establezcan los mecanismos de capacitación y adiestramiento a los Jueces de Paz, en materia de mediación.
