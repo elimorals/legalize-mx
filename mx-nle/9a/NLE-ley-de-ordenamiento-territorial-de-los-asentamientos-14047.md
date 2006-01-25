@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-ordenamiento-territorial-de-los-asentamientos-14047"
 country: "mx"
 rank: "ley"
 publication_date: "1999-03-03"
-last_updated: "2005-12-16"
+last_updated: "2006-01-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ORDENAMIENTO TERRITORIAL DE LOS ASENTAMIENTOS HUMANOS Y DE DESARROLLO URBANO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 3 de marzo de 1999.
 
@@ -87,73 +87,143 @@ Para los efectos de esta Ley deberá entenderse por:
 
 Asentamiento humano: el establecimiento de un conglomerado demográfico, con el conjunto de sus sistemas de convivencia, en un área físicamente localizada, considerando dentro de la misma los elementos naturales y las obras materiales que lo integran.
 
-Centro de equipamiento: es el elemento fundamental que estructura las áreas urbanas o urbanizadas de los centros de población mediante un conjunto de construcciones, edificaciones, espacios e instalaciones, y cuya función es proporcionar servicios diversos y de bienestar social a la población de un barrio, un conjunto de barrios o todo el centro de población, para apoyar sus actividades productivas.
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2006)</small>
 
-Centro de población: las zonas constituidas por las áreas urbanas o urbanizadas, las que se reserven a su expansión y las que se consideren no urbanizables por causas de preservación natural y ecológica, prevención de riesgos y mantenimiento de actividades productivas dentro de los límites de dichos centros, así como las que por resolución de la autoridad competente se provean para la fundación de los mismos.
+Atlas de Riesgo: Documento en donde se establecen y clasifican las zonas de riesgo publicado en el Periódico Oficial del Estado, el cual se elaborará bajo el procedimiento y aprobación previsto para el Plan Estatal de Desarrollo Urbano o para los Planes de las Zonas Conurbanas según sea su circunscripción territorial, pudiéndose auxiliar de la (sic) Direcciones de Protección Civil Estatal y Municipal.
 
-Centro urbano: es la zona destinada al establecimiento de usos y destinos del suelo y edificaciones del tipo comerciales y de servicios especializados tanto públicos como privados, así como el equipamiento urbano de cobertura total del centro de población.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
+
+Centro de equipamiento: es el elemental fundamental que estructura las áreas urbanas o urbanizadas de los centros de población mediante un conjunto de construcciones, edificaciones, espacios e instalaciones, y cuya función es proporcionar servicios diversos y de bienestar social a la población de un barrio, un conjunto de barrios o todo el centro de población, para apoyar sus actividades productivas.
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
+
+Centro de población: las zonas constituidas por las áreas urbanas o urbanizadas, las que reserven a una expansión y las que se consideren no urbanizables por causas de preservación natural y ecológica, prevención de riesgos y mantenimiento de actividades productivas dentro de los límites de dichos centros, así como las que por resolución de la autoridad competente se provean para la fundación de los mismos.
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
+
+Centro urbano: es la zona destinada al establecimiento de usos y destinos de suelo y edificaciones de tipo comerciales y de servicios especializados tanto públicos como privados, así como el equipamiento urbano de cobertura total del centro de población.
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
 
 Conjunto habitacional: es la denominación que se le da al fraccionamiento, urbanización del suelo y construcción de viviendas en un predio para su venta al público.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
+
 Conservación: la acción de mantener el equilibrio ecológico y preservar el buen estado la infraestructura, equipamiento, vivienda y servicios urbanos de los centros de población, incluyendo sus valores históricos y culturales.
 
-Construcción: toda obra o instalación que transforme el estado actual o natural de un lote o predio con objeto de servir a las actividades humanas, tales como la fabricación de elementos físicos, la reconstrucción, modificación, remodelación, conservación, mantenimiento, restauración o demolición de bienes inmuebles, así como las excavaciones, movimientos de tierra, cortes, rellenos y similares.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
+
+Construcción: toda obra o instalación que transforme el estado actual o natural de un lote o predio objeto de servir a las actividades humanas, tales como la fabricación de elementos físicos, la reconstrucción, modificación, remodelación, conservación, mantenimiento, restauración o demolición de bienes inmuebles, así como las excavaciones, movimientos de tierra, cortes, rellenos y similares.
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
 
 Conurbación: la continuidad física y demográfica que formen o tiendan a formar dos o más centros de población localizados en dos o más municipios.
 
-Corredor urbano: es un zona limitada por los predios o lotes que dan frente a una vía pública, en la cual se pueden establecer usos y destinos del suelo y edificaciones comerciales, de servicios, habitacionales de alta densidad y equipamiento urbano.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
 
-Densidad de vivienda: el número total de viviendas por hectárea.
+Corredor urbano: es una zona limitada por los predios o lotes que dan frente a una vía pública, en la cual se pueden establecer usos y destinos del suelo y edificaciones comerciales, de servicios, habitacionales de alta densidad y equipamiento urbano.
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
+
+Densidad de vivienda el número total de viviendas por hectárea.
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
 
 Destinos: los fines públicos a que se dedican determinadas áreas y edificaciones de un centro de población.
 
-Distrito de desarrollo urbano comunitario: la determinación del área urbana o urbanizada, en la que se planeará, programará y ejecutará en forma integrada cualquier conjunto habitacional, incluyendo sus aspectos físicos, sociales y financieros. Estos distritos deberán comprender una superficie mayor de cien hectáreas.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
+
+Distrito de desarrollo urbano comunitario: la determinación del área urbana o urbanizada, en la que se planeará, programará y ejecutará en forma integrada cualquier conjunto habitacional, incluyendo sus aspectos físicos, sociales y financieros. Estos distritos deberán comprender una superficie mayor de cien hectáreas
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
 
 Edificación: es aquella obra de construcción ya terminada o la casa o edificio que se encuentre dentro de un predio o terreno.
 
-Fraccionamiento: toda división de predios en lotes o fracciones, para la transmisión de la propiedad o posesión de los mismos, o que tienda a ese objeto, además, los que impliquen la apertura de una o más vías públicas con servicios de agua potable, drenaje, sanitario, electrificación y pavimento de manera inmediata o progresiva.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
+
+Fraccionamiento: toda división de predios en lotes o fracciones, para la transmisión de la propiedad o posesión de los mismos, o que tienda a este objeto, además, los que impliquen la apertura de una o más vías públicas con servicios de agua potable, drenaje sanitario, electrificación y pavimento de manera inmediata o progresiva.
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
 
 Fundación: acción de la autoridad competente para establecer un nuevo centro de población.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
+
 Fusión: acto jurídico mediante el cual dos o más predios se convierten en uno.
 
-Incorporación: el acto por el que un predio rústico o localizado en área urbanizable, se transforma en área urbana o urbanizada, cediendo su propietario, las áreas correspondientes para fines públicos.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
 
-Infraestructura urbana: las redes y sistemas de tuberías, ductos, canales, cables y obras complementarias necesarias para la distribución y suministro de agua potable y sus tomas domiciliarias, energía eléctrica, alumbrado público, el desalojo del drenaje sanitario de las edificaciones y el desalojo del drenaje pluvial de un centro de población o parte de él.
+Incorporación: el acto por el que un predio rústico o localizado en área urbanizable, se transforma en área urbana o urbanizada, cediendo su propietario las áreas correspondientes para fines públicos.
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
+
+Infraestructura urbana: las redes y sistemas de tuberías, ductos, canales, cables y obras complementarias necesarias para la distribución y suministro de agua potable y sus tomas domiciliarias, energía eléctrica, alumbrado público, el desalojo del drenaje de las edificaciones y el desalojo del drenaje pluvial de un centro de población o parte de él.
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
 
 Mejoramiento: toda acción tendiente a reordenar o renovar las zonas de un centro de población de incipiente desarrollo o deterioradas física o funcionalmente.
 
-Obras de urbanización: la construcción e introducción de infraestructura urbana, vialidad, guarniciones y banquetas, nomenclatura, habilitación y señalamiento vial, equipamiento y arbolado de las áreas municipales, plazas, parques, jardines y camellones.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
+
+Obras de urbanización: la construcción e introducción de infraestructura urbana, vialidad, guarniciones y banquetas, nomenclatura, habitación y señalamiento vial, equipamiento y arbolado de las áreas municipales, plazas, parques, jardines y camellones.
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
 
 Ordenamiento territorial: el proceso de distribución equilibrada y sustentable de la población y de las actividades económicas en el territorio estatal.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
+
 Parcelación urbana: la partición de un predio dentro del área urbanizable susceptible de incorporarse.
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
 
 Parcelación rústica: la partición de un predio que se encuentre fuera del área urbanizable.
 
-Planeación del desarrollo urbano: Ordenación racional y sistemática de acciones que, con la participación social y con base en el ejercicio de las atribuciones en la materia que corresponden a los gobiernos estatal y municipal, tiene como propósito la transformación de los asentamientos humanos y centros de población, de conformidad con los principios que la ley establece tales como fijar objetivos, metas, estrategias y prioridades; asignar recursos; responsabilidades y tiempos de ejecución, coordinándose acciones y evaluándose resultados.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
+
+Planeación de desarrollo urbano: ordenación racional y sistemática de acciones que, con la participación social y con base en el ejercicio de las atribuciones en la materia que corresponden a los gobiernos estatal y municipal, tiene como propósito la transformación de los asentamientos humanos y centros de población, de conformidad con los principios que la ley establece tales como fijar objetivos, metas, estrategias y prioridades; asignar recursos; responsabilidades y tiempos de ejecución, coordinándose acciones y evaluándose resultados.
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
 
 Plan maestro: consiste en el proyecto total de un conjunto urbano o fraccionamiento de cualquier tamaño o tipo, en el que se pueden señalar las etapas para su construcción según el programa que convenga.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
+
 Proyecto ejecutivo: comprende el proyecto urbanístico, los planos, documentos, presupuestos y demás lineamientos que determinan las especificaciones de construcción o instalación formulados por las dependencias u organismos prestadores de los servicios públicos de agua potable, drenaje sanitario, drenaje pluvial, energía eléctrica, alumbrado público, así como el diseño de pavimentos y obras complementarias.
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
 
 Proyecto urbanístico: el plano o conjunto de planos de un fraccionamiento mediante los cuales se da solución al trazo y anchura de las vías públicas requeridas para la integración del fraccionamiento con las áreas urbanas o urbanizadas adyacentes; el trazo y ubicación de los lotes, con sus dimensiones y superficies; la ubicación de las áreas necesarias para la infraestructura urbana; ubicación de las áreas de cesión al municipio en forma de plazas, parques o jardines, con sus dimensiones y superficies; la ubicación de los lotes con usos del suelo complementarios al predominante.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
+
 Relotificación: acto mediante el cual dos o más lotes contiguos de un fraccionamiento o área urbana o urbanizada se modifican en sus dimensiones.
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
 
 Subdivisión: la división o partición de un predio del área urbana o urbanizada de los centros de población y que no requiere del trazo de una o más vías públicas.
 
-Urbanización: es el proceso técnico, económico y legal, inmediato o progresivo, mediante el cual se introducen las redes de infraestructura, los servicios públicos y la vialidad en un centro de población para el asentamiento del ser humano y sus comunidades.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
 
-Usos: Los fines particulares a que podrán dedicarse determinadas zonas o predios de un centro de población.
+Urbanización: es el proceso técnico, económico y legal, inmediato o progresivo, mediante el cual se introducen las redes de infraestructura, los servicios públicos y la vialidad en un centro de población para el asentamiento del ser humano y sus comunidades:
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
+
+Usos: los fines particulares a que podrán dedicarse determinadas zonas o predios de un centro de población.
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
 
 Vía pública: es todo inmueble del dominio público de utilización común, que por disposición de la ley, de la autoridad competente, o por razón del servicio se destine al libre tránsito, o bien, que de hecho está ya afecto a utilización pública en forma habitual y cuya función sea la de servir de acceso a los predios y edificaciones colindantes.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE ENERO DE 2006)</small>
 
-Zonas de Riesgo: Son las superficies de suelo de un centro de población o de un municipio, en las que por su ubicación existe la posibilidad de que ocurran daños o efectos indeseables sobre sistemas constituidos por personas, comunidades o sus bienes, como consecuencia de eventos o fenómenos perturbadores, los que pueden ser de origen natural o pueden resultar de acciones humanas.
+Zonas: son las superficies de suelo de un centro de población o de un municipio en las que está previsto un uso de suelo predominante de la superficie total de cada zona siendo que pueden existir usos del suelo complementarios y compatibles con ese uso de suelo predominante.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
+
+Zonas de Riesgo: Son las superficies de suelo de un centro de población o de un municipio, en las que por su ubicación existe la posibilidad de que ocurran daños o efectos indeseables sobre sistemas constituidos por personas, comunidades o sus bienes, como consecuencia de eventos o fenómenos perturbadores, los que pueden ser de origen natural o pueden resultar de acciones humanas, las que están establecidas y clasificadas en el Atlas de Riesgo.
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
 
 Zonificación: la determinación de las áreas que integran y delimitan un centro de población; sus aprovechamientos predominantes y las reservas, usos y destinos, así como la delimitación de las áreas de conservación, mejoramiento y crecimiento del mismo.
 
@@ -351,9 +421,9 @@ XX.- Ejercer el derecho de preferencia, de conformidad con la legislación feder
 
 XXI.- Autorizar o negar, con base en el plan municipal de desarrollo urbano, planes de los centros de población, planes parciales, de sus reglamentos, y demás disposiciones de carácter general, la factibilidad y lineamientos, proyecto urbanístico, proyecto ejecutivo, permisos de venta, prórrogas, terminación de obras y liberación de garantías, de todo tipo de fraccionamientos, así como la recepción de los mismos;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2006)</small>
 
-XXII.- Autorizar o negar los trámites urbanísticos, contenidos en las fracciones XVI y XXI del presente artículo, de inmuebles ubicados en zonas de riesgo, previo dictamen y opinión de la Comisión Estatal de Desarrollo Urbano o de la Comisión de la Zona Conurbada correspondiente;
+XXII.- Autorizar o negar los trámites urbanísticos, contenidos en las fracciones XVI y XXI del presente artículo, de inmuebles ubicados en zonas de riesgo. El Ayuntamiento podrá solicitar dictamen y opinión de la Comisión Estatal de Desarrollo Urbano o de la Comisión de la Zona Conurbada correspondiente;
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2005)</small>
 
@@ -475,9 +545,9 @@ VI.- Recibir y analizar las observaciones, proposiciones o las solicitudes de mo
 
 VII.- Dictaminar, previa solicitud expresa del Ayuntamiento correspondiente, los lineamientos a que deben sujetarse la apertura, modificación, prolongación, ampliación, integración y mejoramiento de las vías públicas, así como la localización de infraestructuras, equipamientos, obras y servicios públicos, que vinculen o impacten a dos o más municipios, de conformidad con el convenio que celebren los municipios respectivos y la Secretaría de Desarrollo Urbano y Obras Públicas del Estado, en el ámbito de esta Ley, del sistema estatal de planeación y de los reglamentos municipales;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2006)</small>
 
-VIII.- Dictaminar la factibilidad técnica, en predios ubicados en zonas de riesgo, sobre usos y cambios de uso del suelo y edificaciones, construcciones, así como la factibilidad de uso de suelo y lineamientos de urbanización, proyecto urbanístico y proyecto ejecutivo de todo tipo de fraccionamientos; para lo cual podrá auxiliarse de la Dirección de Protección Civil Estatal y Municipales, así como de Instituciones Académicas u Organismos Especializados en la materia;
+VIII.- Dictaminar la factibilidad técnica en predios ubicados en zonas de riesgo, previa solicitud potestativa del Ayuntamiento correspondiente, sobre usos y cambios de uso del suelo y edificaciones, construcciones, así como la factibilidad de uso de suelo y lineamientos de urbanización, proyecto urbanístico y proyecto ejecutivo de todo tipo de fraccionamientos; para lo cual podrá auxiliarse de las Direcciones de Protección Civil Estatal y Municipal así como de Instituciones Académicas u Organismos Especializados en la materia;
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2005)</small>
 
@@ -3437,11 +3507,11 @@ En los municipios la aplicación de estas medidas se sujetará a lo establecido 
 
 Dichas medidas tendrán la duración estrictamente necesarias para la corrección de las irregularidades respectivas y deberán ser comunicadas por escrito al responsable de la obra o al propietario, para su inmediata ejecución.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE ENERO DE 2006)</small>
 
 ###### Artículo 277.
 
-La violación de esta Ley, de los planes o programas de desarrollo urbano, asentamientos humanos u ordenamiento territorial y de zonas de riesgo; se considera una infracción y origina como consecuencia la aplicación de las sanciones correspondientes y, en su caso, la obligación de indemnizar por los daños y perjuicios causados.
+La violación de esta Ley, de los planes o programas de desarrollo urbano, asentamientos humanos u ordenamiento territorial y de zonas de riesgo establecidas, en el Atlas de Riesgo se considera infracción y origina como consecuencia la aplicación de las sanciones correspondientes y en su caso, la obligación de indemnizar por los daños y perjuicios causados.
 
 Al aplicarse las sanciones se tomará en cuenta la capacidad económica del infractor, la gravedad de la infracción, las circunstancias particulares del caso y la reincidencia.
 
@@ -3489,9 +3559,9 @@ VIII.- Continuar ejerciendo los derechos derivados de un permiso o autorización
 
 IX.- La contravención a las normas básicas para las vías públicas establecidas en la presente Ley y en reglamento respectivo; y,
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2006)</small>
 
-X.- Que el propietario, poseedor o responsable de obras que se lleven a cabo en inmuebles ubicados en zonas de riesgo, realice obras o instalaciones y actos sin permiso o autorización, o teniéndolo no cumpla con el mismo.
+X.- Que el propietario, poseedor o responsable de obras que se lleven a cabo en inmuebles ubicados en zona de riesgos establecidas en el Atlas de Riesgo, realice obras o instalaciones y actos sin permiso o autorización, o teniéndolo no cumpla con el mismo.
 
 Quienes incurran en reiteración de conductas constitutivas de infracción, serán considerados reincidentes.
 
@@ -3501,9 +3571,9 @@ Las sanciones aplicables por las infracciones o conductas violatorias establecid
 
 I.- La rescisión de convenios, para el supuesto contemplado en la fracción I y en su caso multas de 50 a 500 veces el salario mínimo prevaleciente en la zona económica;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2006)</small>
 
-II.- La suspensión o demolición de construcciones e instalaciones, para los supuestos contemplados en las fracciones III, IV, V, X y, en su caso, multas de 500 a 1,000 veces el salario mínimo vigente en el área geográfica;
+II.- La suspensión o demolición de construcciones e instalaciones, para los supuestos contemplados en las fracciones III, IV o V y, en su caso, multas de 50 a 1,000 veces el salario mínimo vigente en el área geográfica;
 
 III.- La revocación de las licencias y permisos otorgados, cuando se incurra en el supuesto contemplado en la fracción VI y en su caso multas de 1,000 a 2,000 veces el salario mínimo prevaleciente en la zona económica;
 
@@ -3525,9 +3595,9 @@ a) A quien obstaculice la circulación peatonal o las rampas ubicadas en las esq
 
 b) A quien ocupe las zonas de estacionamiento reservadas para su uso por las personas con discapacidad;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2006)</small>
 
-IX.- Multas de 2,000 a 30,000 veces el salario mínimo vigente en el área geográfica, conforme a lo dispuesto en este Ley, en caso de incurrir en el supuesto que establece la fracción X; y,
+IX.- La suspensión o demolición de construcciones e instalaciones para el supuesto contemplado en la fracción X y, en su caso, multas de 2,000 a 30,000 veces el salario mínimo vigente en el área geográfica, conforme a lo dispuesto en esta Ley; y
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2005)</small>
 
@@ -3848,3 +3918,9 @@ Artículo Sexto.- Se derogan los artículos 26, 27, 28, 29, 30 y 31 de la Ley de
 P.O. 16 DE DICIEMBRE DE 2005.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE ENERO DE 2006.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Las normas, sistemas, procedimientos y sanciones establecidas por incumplimiento a lo dispuesto para las zonas de riesgo se aplicarán al día siguiente a la fecha en que se publique el Atlas de Riesgo en el Periódico Oficial del Estado.
