@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-deporte-para-el-distrito-federal-835"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-06"
-last_updated: "2005-11-14"
+last_updated: "2006-01-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=835&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1995-10-31"
 
 LEY DEL DEPORTE PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 25 DE ENERO DE 2006.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 13 de noviembre de 1995.
 
@@ -506,6 +506,10 @@ Los integrantes del Sistema participarán en la elaboración del Programa confor
 
 El Jefe de Gobierno del Distrito Federal promoverá la constitución del Fondo del Distrito Federal para el Fomento y Apoyo del Deporte, con la participación de los sectores público, social y privado. Dicho fondo tendrá como finalidad captar recursos financieros y materiales para apoyar las prioridades que se establezcan en el Programa del Deporte del Distrito Federal, de conformidad con lo dispuesto en el artículo 27 BIS de esta ley.
 
+> <small>(ADICIONADO, G.O. 25 DE ENERO DE 2006)</small>
+
+El Jefe de Gobierno del Distrito Federal, deberá enviar trimestralmente a la Comisión de Deporte de la Asamblea Legislativa del Distrito Federal, un informe detallado del estado financiero que guarda el Fondo del Distrito Federal para el Fomento y Apoyo del Deporte.
+
 > <small>(ADICIONADO, G.O. 13 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 29 Bis.
@@ -632,15 +636,15 @@ Las instalaciones deportivas propiedad del Gobierno del Distrito Federal deberá
 
 El uso de las instalaciones deportivas debe ser preferentemente para eventos deportivos, cuando se utilicen para otros fines deberán respetarse los programas y calendarios deportivos previamente establecidos.
 
-> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2002)</small>
-
-ARTICULO 42 Cuater (sic).- Los responsables o administradores de toda instalación deportiva deberán tramitar su registro ante la dependencia responsable del deporte en el Distrito Federal, que verificará que sean las adecuadas para la práctica del deporte, con la calidad y seguridad que se requiere. Debiendo realizarse verificaciones anuales o con anterioridad a petición de los interesados. La dependencia responsable del deporte en el Distrito Federal podrá vetar el uso de cualquier instalación deportiva que no cumpla con los requisitos señalados.
-
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 42 Ter.
 
 Los responsables administrativos de las instalaciones deportivas realizadas con recursos de la Federación, Distrito Federal o los Órganos Político-Administrativos de cada una de las Demarcaciones Territoriales del Distrito Federal e inscritas en el Registro del Deporte del Distrito Federal deberán registrar su calendario anual de actividades ante la dependencia responsable del deporte en el Distrito Federal durante los primeros treinta días de cada año.
+
+> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2002)</small>
+
+ARTICULO 42 Cuater (sic).- Los responsables o administradores de toda instalación deportiva deberán tramitar su registro ante la dependencia responsable del deporte en el Distrito Federal, que verificará que sean las adecuadas para la práctica del deporte, con la calidad y seguridad que se requiere. Debiendo realizarse verificaciones anuales o con anterioridad a petición de los interesados. La dependencia responsable del deporte en el Distrito Federal podrá vetar el uso de cualquier instalación deportiva que no cumpla con los requisitos señalados.
 
 > <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2002)</small>
 
@@ -907,3 +911,9 @@ Artículo Cuarto.- Se derogan todas las disposiciones legales y administrativas 
 G.O. 14 DE NOVIEMBRE DE 2005.
 
 ÚNICO.- El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 25 DE ENERO DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Túrnese al Jefe de Gobierno del Distrito Federal para su promulgación y publicación en la Gaceta Oficial del Distrito Federal.
