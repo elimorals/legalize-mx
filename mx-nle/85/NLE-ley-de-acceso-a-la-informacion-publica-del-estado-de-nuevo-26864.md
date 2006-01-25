@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-acceso-a-la-informacion-publica-del-estado-de-nuevo-2686
 country: "mx"
 rank: "ley"
 publication_date: "2003-02-21"
-last_updated: "2004-11-19"
+last_updated: "2006-01-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 21 de febrero de 2003.
 
@@ -59,15 +59,29 @@ Comisión: a la Comisión de Acceso a la Información Pública.
 
 Datos Personales: la información concerniente a una persona física, identificada o identificable, como es la relativa a su origen étnico o racial, o que esté referida a las características físicas, morales o emocionales, a su vida afectiva y familiar, a su vida económica y patrimonio personal y familiar, domicilio, número telefónico, ideología y opciones políticas, creencias o convicciones religiosas o filosóficas, los estados de salud físicos o mentales, las preferencias sexuales u otras análogas que afecten su intimidad.
 
-Responsables del acceso a la información pública: a los servidores públicos titulares de cada dependencia, oficina o unidad administrativa de los poderes del Estado, los ayuntamientos y sus administraciones públicas en cualquier forma, los organismos autónomos, y los fideicomisos en donde el fideicomitente o fideicomisario sea cualquiera de las entidades citadas.
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2006)</small>
+
+Documentos: Los expediente, reportes, estudios, actas, resoluciones, oficios, correspondencia, acuerdos, directivas, directrices, circulares, contratos, convenios, instructivos, notas, memorandos, estadísticas o bien, cualquier otro registro que documente el ejercicio de las facultades o la actividad de los sujetos obligados y sus servidores públicos, sin importar su fuente o fecha de elaboración. Los documentos podrán estar contenidos en cualquiera de las modalidades señaladas en este artículo.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2006)</small>
+
+Modalidad: Formato en que el solicitante prefiera se otorgue la información, la cual podrá ser escrito, mediante copias simples o certificadas, correo electrónico, fotografías, cintas de video, dispositivos de archivos electrónicos o magnéticos, registros digitales, sonoros, visuales, holográficos, y en general, todos aquellos medios o soportes derivados de los avances de la ciencia y la tecnología en que obre la información.
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
+
+Responsables del acceso a la información pública: A los servidores públicos titulares de cada dependencia, oficina o unidad administrativa de los poderes del Estado, los ayuntamientos y sus administraciones públicas en cualquier forma, los organismos autónomos, y los fideicomisos en donde el fideicomitente o fideicomisarios sea cualquiera de las entidades citadas.
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
 
 ###### Artículo 4.
 
-La autoridad, sin que medie justificación, está obligada a proporcionar la información que obrando en su poder le sea solicitada, siempre que sea de aquella que en los términos de la presente ley, y por los motivos que la misma define deba de otorgarse.
+La Autoridad, sin que medie justificación, está obligada a proporcionar la información que obrando en su poder le sea solicitada, siempre que sea de aquélla que en los términos de la presente Ley y, por los motivos que la misma define deba de otorgarse, en la modalidad señalada por el solicitante, cuando la Autoridad cuente con la información en dicho formato.
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
 
 ###### Artículo 5.
 
-El acceso a la información pública es gratuito, mas si para su entrega se requiere de su reproducción ya sea en papel o en algún otro medio, el solicitante deberá cubrir el pago de derechos derivados de su costo, mismo que cubrirá de conformidad a las leyes hacendarias.
+El acceso a la información pública es gratuito, más si para su entrega requiere de su reproducción ya sea en papel o en alguna otra modalidad, el solicitante deberá cubrir el pago de derechos derivados de su costo, de conformidad a las leyes hacendarias, procurando los sujetos obligados a proporcionarla, reducir los costos de entrega de la misma.
 
 ###### Artículo 6.
 
@@ -75,9 +89,11 @@ El acceso a la información pública es gratuito, mas si para su entrega se requ
 
 ### CAPÍTULO SEGUNDO. DE LA INFORMACIÓN PÚBLICA
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
+
 ###### Artículo 7.
 
-Se entenderá por información pública, toda aquella que encontrándose en poder de la autoridad, conste en documento, grabación, soporte magnético o cualquier otro medio de que se disponga y que no sea de aquella que de acuerdo con esta ley no pueda proporcionarse.
+Se entenderá por información pública, toda aquélla que encontrándose en poder de la Autoridad y estando contenida en los documentos que los sujetos obligados generen, obtengan, adquieran, transformen o conserven por cualquier título, no sea de aquélla que de acuerdo con esta Ley no pueda proporcionarse.
 
 ###### Artículo 8.
 
@@ -169,13 +185,19 @@ Cuando se trate de información contenida en medios de fácil o irreparable dete
 
 ### CAPÍTULO TERCERO. DEL ACCESO A LA INFORMACIÓN PÚBLICA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE ENERO DE 2006)</small>
+
 ###### Artículo 13.
 
-La solicitud de información deberá hacerse ante la autoridad, en términos respetuosos y por escrito, sin mayor formalidad que la de proporcionar los datos generales del peticionario, señalar domicilio para recibir notificaciones y los elementos necesarios para identificar la información que se pide.
+La solicitud de información deberá hacerse ante la Autoridad, por escrito y en términos respetuosos, sin mayor formalidad que la de proporcionar los datos generales del peticionario, señalar domicilio para oír y recibir notificaciones y los elementos necesarios para identificar la información que se pide. La solicitud podrá realizarse vía correo electrónico ante la Autoridad que corresponda, a través de las direcciones de correo electrónico que la propia Autoridad determine para efecto de recibir las solicitudes de información, mismas que deberán ser publicadas en su página oficial de internet. Dicha solicitud se tendrá por recibida en la fecha asentada en el registro electrónico del equipo receptos de la misma. En caso de que la fecha asentada sea inhábil, se considerará que la solicitud fue presentada el día hábil siguiente de su recepción.
 
 > <small>(ADICIONADO, P.O. 14 DE JULIO DE 2004)</small>
 
 Tratándose de solicitudes de información contenida en expedientes judiciales, al dirigir la petición se deberán señalar los datos de identificación del expediente respectivo.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2006)</small>
+
+Cuando la solicitud no establezca la modalidad de entrega de la información, ésta será proporcionada por la Autoridad en el formato que considere idóneo, en atención a su naturaleza.
 
 ###### Artículo 14.
 
@@ -321,9 +343,11 @@ La falta de respuesta por parte de la autoridad y el transcurso del plazo en que
 
 En los supuestos contenidos en los artículos anteriores, cuando la solicitud sea resuelta en sentido negativo, el peticionario tendrá expedita su acción para demandar en los términos de esta ley, que se le proporcione la información solicitada.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
+
 ###### Artículo 34.
 
-Cuando la autoridad no responda en el plazo señalado de quince días, entregue información distinta a la solicitada o se niegue a proporcionarla total o parcialmente, será potestativo para el peticionario interponer recurso de reconsideración ante la propia autoridad dentro de los diez días siguientes, o acudir directamente ante la Comisión, a solicitar que determine si la información debe considerarse como pública y en su caso se le entregue dicha información.
+Cuando la Autoridad no responda en el plazo señalado de diez días, entregue información distinta a la solicitada o se niegue a proporcionarla total o parcialmente, será potestativo para el peticionario interponer recurso de reconsideración ante la propia Autoridad dentro de los diez días siguientes, o acudir directamente ante la Comisión a solicitar que determine si la información debe considerarse como pública y en su caso se le entregue dicha información.
 
 ###### Artículo 35.
 
@@ -490,3 +514,9 @@ Artículo Segundo.- Las autoridades responsables de los Tribunales del Poder Jud
 P.O. 19 DE NOVIEMBRE DE 2004.
 
 Artículo Único.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 25 DE ENERO DE 2006.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Las autoridades contarán con un plazo de treinta días, contados a partir de la entrada en vigor del presente Decreto, para publicar en internet los correos electrónicos oficiales que destinarán para efecto de recibir las solicitudes de información a que se refiere el Artículo 13 de la Ley de Acceso a la Información Pública, reformado a través del presente Decreto.
