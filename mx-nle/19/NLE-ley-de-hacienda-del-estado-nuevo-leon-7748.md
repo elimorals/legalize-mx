@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-del-estado-nuevo-leon-7748"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2005-12-27"
+last_updated: "2006-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -2989,21 +2989,23 @@ d) Por cambio de vehículo objeto de la concesión. 10 cuotas
 
 Por la expedición de copias, certificaciones y reproducciones diversas, que expidan las dependencias y entidades de los poderes Legislativo, Ejecutivo y Judicial del Gobierno del Estado, se causarán los derechos de acuerdo a las siguientes tarifas:
 
-I. Copias simples por hoja ….. 0.012 cuotas
+I. Copias simples por hoja… 0.012 cuotas
 
-II. Copias a color por hoja ….. 0.24 cuotas
+II. Copias a color por hoja… 0.24 cuotas
 
-III. Copias certificadas por cada documento, sin perjuicio de lo dispuesto en las fracciones anteriores ….. 1 cuota
+III. Copias certificadas por cada documento, sin perjuicio de lo dispuesto en las fracciones anteriores…1 cuota
 
-IV. Copias simples de planos ….. 0.43 cuotas
+IV. Copias simples de planos… 0.43 cuotas
 
-V. Copias simples de planos a color ….. 2 cuotas
+V. Copias simples de planos a color… 2 cuotas
 
-VI. Copias certificadas de planos ….. 3 cuotas
+VI. Copias certificadas de planos… 3 cuotas
 
-VII. Copias certificadas de planos a color ….. 5 cuotas
+VII. Copias certificadas de planos a color… 5 cuotas
 
-En caso de reproducción en medios magnéticos, fotográficos, sonoros, ópticos o visuales y otros, los materiales que se requieran serán proporcionados por el interesado.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
+
+En caso de reproducción en fotografías, cintas de video, dispositivos de archivos electrónicos o magnéticos, registros digitales, sonoros, visuales, holográficos y, en general, todos aquellos medios o soportes derivados de los avances de la ciencia y la tecnología en que obre la información que se requiera, serán proporcionados por el interesado.
 
 En todos los casos, con excepción del Poder Judicial del Estado, por búsqueda y localización de documentos, archivos y expedientes y demás información solicitada, generará 1 cuota, sin perjuicio del derecho que corresponda por las copias expedidas.
 
@@ -3570,3 +3572,9 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 P.O. 27 DE DICIEMBRE DE 2005.
 
 Artículo Único.- El presente Decreto entrará en vigor el 1º de enero del año 2006.
+
+P.O. 25 DE ENERO DE 2006.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Las autoridades contarán con un plazo de treinta días, contados a partir de la entrada en vigor del presente Decreto, para publicar en internet los correos electrónicos oficiales que destinarán para efecto de recibir las solicitudes de información a que se refiere al Artículo 13 de la Ley de Acceso a la Información Pública, reformado a través del presente Decreto.
