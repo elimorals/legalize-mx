@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-penales-para-el-distrito-federal-645"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-29"
-last_updated: "2005-07-22"
+last_updated: "2006-01-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-26"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE JULIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 25 DE ENERO DE 2006.
 
 Código publicado en el Diario Oficial de la Federación el sábado 29 de agosto de 1931.
 
@@ -2007,6 +2007,10 @@ IV.- Que sea hecha ante el Ministerio Público, juez o tribunal de la causa, asi
 > <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1994)</small>
 
 V.- Que no vaya acompañada de otras pruebas o presunciones que la hagan inverosímil, a juicio del Ministerio Público o del juez.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 25 DE ENERO DE 2006)</small>
+
+Ninguna confesión o información que haya sido obtenida mediante tortura podrá invocarse como prueba, salvo en el procedimiento seguido contra la persona o personas acusadas de haber obtenido dicha confesión o información mediante actos de tortura, y únicamente como prueba de que por ese medio el acusado obtuvo tal declaración.
 
 ###### ARTICULO 250.
 
@@ -4800,15 +4804,19 @@ III. Cuando condenada alguna persona por homicidio de otro que hubiere desaparec
 
 IV. Cuando el sentenciado hubiere sido condenado por los mismos hechos en juicios diversos. En este caso prevalecerá la sentencia más benigna;
 
-> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 1989)</small>
+> <small>(REFORMADA, G.O. 25 DE ENERO DE 2006)</small>
 
-V. Cuando en juicios diferentes hayan sido condenados los sentenciados por el mismo delito y se demuestre la imposibilidad de que lo hubieren cometido.
+V.- Cuando en juicios diferentes hayan sido condenados los sentenciados por el mismo delito y se demuestre la imposibilidad de que lo hubieren cometido, y
 
-> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 1989)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 25 DE ENERO DE 2006)</small>
+
+VI.- Cuando la sentencia se base de manera fundamental en una confesión obtenida mediante tortura.
+
+> <small>(REFORMADO, G.O. 25 DE ENERO DE 2006)</small>
 
 ###### ARTICULO 615.
 
-El sentenciado que se crea con derecho para pedir el reconocimiento de su inocencia, ocurrirá por escrito al Tribunal Superior de Justicia, alegando la causa o causas de las enumeradas en el artículo anterior en que funde su petición, acompañando las pruebas respectivas o protestando exhibirlas oportunamente. Sólo se admitirá en estos casos la prueba documental, salvo lo previsto en la fracción III del artículo anterior.
+El sentenciado que se crea con derecho para pedir el reconocimiento de su inocencia, ocurrirá por escrito al Tribunal Superior de Justicia, alegando la causa o causas de las enumeradas en el artículo anterior, en que funde su petición, acompañando las pruebas respectivas o protestando exhibirlas oportunamente. Sólo se admitirá en estos casos la prueba documental salvo lo previsto en las fracciones III y VI del artículo anterior.
 
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
@@ -5685,3 +5693,11 @@ G.O. 22 DE JULIO DE 2005.
 PRIMERO.- El presente Decreto entrará en vigor a los quince días de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial del Distrito Federal.
+
+G.O. 25 DE ENERO DE 2006.
+
+PRIMERO. Remítase al Jefe de Gobierno del Distrito Federal para su respectiva promulgación y publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
