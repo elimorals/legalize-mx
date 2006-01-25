@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interno-de-la-secretaria-de-turismo-43531"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-01-26"
-last_updated: "2005-01-26"
+last_updated: "2006-01-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43531&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE TURISMO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 26 de enero de 2005.
 
@@ -57,19 +57,27 @@ I. Oficina del C. Secretario.
 
 II. Subsecretaría de Desarrollo Turístico.
 
-a) Dirección de Estudios y Proyectos Turísticos; y,
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2006)</small>
 
-b) Dirección de Planeación e Infraestructura Turística.
+a) Dirección de Estudios y Proyectos Turísticos;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2006)</small>
+
+b) Dirección de Desarrollo de Productos; y,
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2006)</small>
+
+c) Dirección de Capacitación y Servicios Turísticos.
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2006)</small>
 
 III. Subsecretaría de Promoción Turística.
 
-a) Dirección de Eventos y Relaciones Públicas;
+a) Dirección de Promoción y Difusión;
 
-b) Dirección de Capacitación y Servicios Turísticos;
+b) Dirección de Eventos y Relaciones Públicas; y,
 
-c) Dirección de Promoción y Difusión; y,
-
-d) Dirección de Desarrollo de Productos.
+c) Dirección de Mercadotecnia.
 
 IV. Unidad de Apoyo Administrativo.
 
@@ -201,9 +209,17 @@ XV. Las demás que en el ámbito de su competencia le asigne el Ejecutivo del Es
 
 De conformidad con la estructura orgánica de la Secretaría, la Subsecretaría de Desarrollo Turístico tendrá los órganos administrativos siguientes:
 
-I. Dirección de Estudios y Proyectos Turísticos; y,
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2006)</small>
 
-II. Dirección de Planeación e Infraestructura Turística.
+I. Dirección de Estudios y Proyectos Turísticos;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2006)</small>
+
+II. Dirección de Desarrollo de Productos; y,
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2006)</small>
+
+III. Dirección de Capacitación y Servicios Turísticos.
 
 ###### Artículo 13.
 
@@ -221,17 +237,17 @@ V. Proponer estudios y proyectos estratégicos detonantes para el Estado y parti
 
 VI. Las demás que en el ámbito de su competencia le sean asignadas por el Secretario de Turismo.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
+
 ###### Artículo 14.
 
 De conformidad con la estructura orgánica de la Secretaría, la Subsecretaría de Promoción Turística tendrá los órganos administrativos siguientes:
 
-I. Dirección de Desarrollo de Productos;
+I. Dirección de Promoción y Difusión;
 
-II. Dirección de Eventos y Relaciones Públicas;
+II. Dirección de Eventos y Relaciones Públicas; y,
 
-III. Dirección de Capacitación y Servicios Turísticos; y,
-
-IV. Dirección de Promoción y Difusión.
+III. Dirección de Mercadotecnia.
 
 ###### Artículo 15.
 
@@ -293,23 +309,27 @@ VII. Las demás que en el ámbito de su competencia les asigne el Secretario de 
 
 ### Capítulo VIII. De la Estructura Orgánica y Facultades Específicas de los Directores
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
+
 ###### Artículo 19.
 
-De conformidad con la estructura orgánica de la Secretaría, la Dirección de Estudios y Proyectos Turísticos tendrá los Departamentos siguientes:
+De conformidad con la estructura orgánica de la Secretaría, la Dirección de Estudios y Proyectos Turísticos, tendrá los órganos administrativos siguientes:
 
-I. Departamento de Proyectos Turísticos: y,
+I. Departamento de Planeación y Supervisión; y,
 
-II. Departamento de Ecoturismo.
+II. Departamento de Control y Seguimiento.
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
 
 ###### Artículo 20.
 
-El Titular de la Dirección de Estudios y Proyectos Turísticos tendrá las siguientes facultades:
+El Titular de la Dirección de Estudios y Proyectos Turísticos, tendrá las siguientes facultades:
 
-I. Supervisar la elaboración del Proyecto de Presupuesto Anual de Egresos de la Dirección;
+I. Realizar visitas de campo a sitios con potencial turístico para hacer propuestas y llevar a cabo proyectos y/o obras de infraestructura turística;
 
 II. Coordinar la elaboración, integración y ejecución de los programas y proyectos de la Dirección;
 
-III. Establecer sistemas de control y seguimiento en los aspectos administrativos, durante el proceso de ejecución de los programas y proyectos de las Direcciones;
+III. Implantar sistemas de control y seguimiento en los aspectos administrativos, durante el proceso de ejecución de los programas y proyectos de las Direcciones;
 
 IV. Establecer coordinación con todos los órganos administrativos de la Secretaría de Turismo, a fin de coadyuvar en el cumplimiento de los programas y proyectos técnicos y administrativos que se desarrollen en todas y cada una de las Regiones del Estado;
 
@@ -319,71 +339,99 @@ VI. Coordinar e integrar el Anteproyecto del Presupuesto Anual de Egresos, con b
 
 VII. Supervisar y ejecutar la aplicación de los recursos destinados a cada una de las obras a desarrollar, cuidando que los recursos asignados sean correctamente utilizados para el fin que fueron autorizados;
 
-VIII. Fungir como Secretario Técnico del Comité Interno para la Contratación de la Obra Pública de la Secretaría de Turismo.
+VIII. Fungir como Secretario Técnico del Comité Interno para la Contratación de la Obra Pública de la Secretaría de Turismo;
 
-IX. Realizar los proyectos y obras específicas propuestas por las Dependencias y sector social;
+IX. Realizar gestiones con diversas dependencias federales, estatales y municipales para la tramitación de recursos e implementación de estudios, proyectos y obras turísticas en el Estado;
 
-X. Supervisar los proyectos y obras del sector turismo y ver que se apeguen a la normatividad de la Secretaría de Turismo, así como de la Ley de la materia y
+X. Supervisar los proyectos y obras del sector turismo y ver que se apeguen a la normatividad de la Secretaría de Turismo, así como de la Ley de la materia; y,
 
 XI. Las demás que en el ámbito de su competencia le asigne el Subsecretario de Desarrollo Turístico.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
+
 ###### Artículo 21.
 
-De conformidad con la estructura orgánica de la Secretaría, la Dirección de Planeación e Infraestructura Turística tendrá los Departamentos siguientes:
+De conformidad con la estructura orgánica de la Secretaría, la Dirección de Desarrollo de Productos tendrá los departamentos siguientes:
 
-I. Departamento de Planeación Turística;
+I. Departamento de Turismo Comunitario;
 
-II. Departamento de Infraestructura Turística; y,
+II. Departamento de Ecología; y,
 
-III. Departamento de Investigación y Desarrollo de Turismo Ecológico y Comunitario.
+III. Departamento de Turismo Alternativo.
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
 
 ###### Artículo 22.
 
-El Titular de la Dirección de Planeación e Infraestructura Turística, tendrá las siguientes facultades:
+El Titular de la Dirección de Desarrollo de Productos, tendrá las siguientes facultades:
 
-I. Elaborar, analizar y actualizar el padrón de atractivos y destinos turísticos, estableciendo un diagnóstico de la factibilidad de desarrollo;
+I. Proponer acciones y diseñar programas que permitan el mejoramiento de los productos turísticos existentes en los diversos destinos del Estado;
 
-II. Realizar la planeación, programación y fomento de la infraestructura turística y. actividades orientadas al turismo alternativo en forma armónica con las comunidades, iniciativa privada y Entidades Gubernamentales, estableciendo Centros de Desarrollo Regionales;
+II. Coadyuvar al incremento de derrame turístico, tanto nacional como extranjero, a través de la oferta de productos y actividades turísticas competitivas; así como su permanencia en los destinos turísticos del Estado;
 
-III. Participar en la planeación, análisis y conformación de convenios dirigidos a promover el desarrollo e investigación en apoyo al sector turístico de la Entidad;
+III. Impulsar el desarrollo de nuevas líneas de productos para propiciar diversidad en los mercados y competitividad de los destinos turísticos;
 
-IV. Fomentar, impulsar y apoyar al sector turismo, mediante la creación de organizaciones que impulsen el desarrollo turístico en el Estado fomentando el control de la afluencia de visitantes, mediante la regulación de acuerdo a las capacidades de carga de los centros turísticos;
+IV. Generar el desarrollo de productos de turismo alternativo, deportivo, náutico, cultural, de salud, social, para discapacitados y de negocios, entre otros, en coordinación con dependencias y entidades de la administración pública federal, los gobiernos de otros Municipios y Estados, así como organismos sociales y privados;
 
-V. Evaluar las propuestas de desarrollos estratégicos detonantes del Estado y participar en la planeación de la reactivación de la infraestructura turística;
+V. Promover acciones de conservación de los recursos naturales en sitios y áreas naturales con vocación turística;
 
-VI. Fomentar el establecimiento y la transferencia de tecnología y equipamiento para eficientar los servicios y la capacidad instalada de los centros turísticos;
+VI. Desarrollar el turismo alternativo en los centros turísticos sociales para el aprovechamiento óptimo del patrimonio natural, histórico y cultural;
 
-VII. Mantener coordinación con las Áreas de Planeación y Administración para el eficiente desempeño de las acciones de la Dirección;
+VII. Establecer redes o alianzas de centros turísticos comunitarios con agencias de viajes, para la comercialización de productos y servicios turísticos;
 
-VIII. Elaborar los reportes de avance programático y del ejercicio presupuestal del gasto institucional e inversión;
+VIII. Integrar un banco de investigaciones para los sitios con vocación turística para el desarrollo de rutas de turismo de aventura;
 
-IX. Participar en la concertación de acciones para conservar y dignificar los atractivos turísticos ya existentes; y,
+IX. Implementar programas de asistencia técnica y organizativa para los grupos comunitarios para la eficiente administración de los centros ecoturísticos;
 
-X. Las demás que en el ámbito de su competencia le asigne el Subsecretario de Desarrollo Turístico.
+X. Vigilar la aplicación de normas y procedimientos que en materia de sus atribuciones establezca la Secretaría;
+
+XI. Establecer sistemas de control para coordinar y supervisar los departamentos a su cargo;
+
+XII. Presentar oportunamente los informes ordinarios y extraordinarios que competan a la dirección de desarrollo de productos; y,
+
+XIII. Las demás que en el ámbito de su competencia le asigne el Subsecretario de Desarrollo Turístico.
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
 
 ###### Artículo 23.
 
-De conformidad con la estructura orgánica de la Secretaría, la Dirección de Desarrollo de Productos, estará conformada de la siguiente manera:
+De conformidad con la estructura orgánica de la Secretaría, la Dirección de Capacitación y Servicios Turísticos, tendrá los departamentos siguientes:
 
-I. Departamento de Turismo de Negocios; y,
+I. Departamento de Capacitación;
 
-II. Departamento de Turismo Cultural y Alternativo.
+II. Departamento del Sistema de Información Turística Estatal; y,
+
+III. Departamento de Módulos de Información Turística.
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
 
 ###### Artículo 24.
 
-El Titular de la Dirección de Desarrollo de Productos, tendrá las siguientes facultades:
+El Titular de la Dirección de Capacitación y Servicios Turísticos tendrá las facultades y obligaciones siguientes:
 
-I. Vigilar la aplicación de normas y procedimientos en materia de sus atribuciones que establezca la Secretaría;
+I. Coadyuvar en la instrumentación y participación de la Secretaría de Turismo en la reorientación de los planes de estudios, para la formación de profesionistas en materia turística, previo acuerdo de la autoridad competente;
 
-II. Establecer sistemas de control para coordinar y supervisar los departamentos a su cargo;
+II. Promover el establecimiento de escuelas y centros de capacitación, de acuerdo con las necesidades identificadas en el Estado; así como supervisar la elaboración de los programas de información de los recursos naturales y culturales de la Entidad;
 
-III. Presentar oportunamente los informes ordinarios y extraordinarios que competan a la Dirección de Desarrollo de Productos;
+III. Instrumentar las acciones necesarias para el levantamiento del inventario de servicios turísticos con que cuenta el Estado, a fin de integrarlos al Sistema de Información Turística Estatal, complementando el acervo de los bancos de información;
 
-IV. Coadyuvar al implemento del flujo de turistas nacionales y extranjeros, así como su permanencia en los destinos turísticos del estado a través de la oferta de productos y actividades turísticas competitivas;
+IV. Concertar acciones con autoridades Estatales, Municipales y Ejidales para el establecimiento de módulos temporales de información en zonas turísticas, en los distintos operativos de apoyo al vacacionista que se implemente;
 
-V.- Impulsar el desarrollo de nuevas líneas de productos para propiciar una diversificación de los mercados y la competitividad de los destinos turísticos de acuerdo con su vocación turística; y,
+V. Supervisar el funcionamiento y atención de los centros turísticos de contacto con la naturaleza, brindando asesorías en las distintas áreas operativas que los integran;
 
-VI. Generar el desarrollo de productos de turismo alternativo, deportivo, náutico, cultural, de salud, social, para discapacitados y de negocios, entre otros, en coordinación con dependencias y entidades de la administración pública federal, los gobiernos de otros estados, los municipios, así como organismos sociales y privados.
+VI. Coordinar las acciones para la instrumentación de un programa de fomento a la cultura turística infantil, brindando asesoría en escuelas de educación primaria del Estado;
+
+VII. Monitorear la calidad de los servicios que se prestan al visitante, en los distintos giros de actividades para determinar las áreas en situación crítica que ameriten atención preferente;
+
+VIII. Instrumentar un programa de capacitación anual, coordinando acciones con Dependencias y/o organizaciones públicas y privadas, abarcando niveles gerenciales, mandos medios y operativos;
+
+IX. Supervisar la operación y funcionamiento del programa auxilio turístico en carreteras, en coordinación con la corporación Ángeles Verdes de la Secretaría de Turismo Federal;
+
+X. Instrumentar un programa anual de apoyo con incentivos para la práctica del turismo social, brindando a grupos u organizaciones de escasos recursos económicos, la posibilidad de viajar dentro del Estado;
+
+XI. Supervisar y promover la implementación del programa turismo nacional, coordinando acciones con una entidad crediticia y las agencias de viajes que deseen participar, procurando que la población acceda a medios financieros para practicar el turismo en el Estado; y,
+
+XII. Las demás que en el ámbito de su competencia le asigne el Subsecretario de Desarrollo Turístico.
 
 ###### Artículo 25.
 
@@ -417,43 +465,47 @@ IX. Requerir en forma periódica a los Departamentos de Eventos y Relaciones Pú
 
 X. Las demás que en el ámbito de su competencia le asigne el Subsecretario de Promoción Turística.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
+
 ###### Artículo 27.
 
-De conformidad con la estructura orgánica de la Secretaría, la Dirección de Capacitación y Servicios Turísticos tendrá los Departamentos siguientes:
+De conformidad con la estructura orgánica de la Secretaría, la Dirección de Mercadotecnia, tendrá los departamentos siguientes:
 
-I. Departamento de Capacitación;
+I. Departamento de Turismo de Negocios;
 
-II. Departamento del Sistema de Información Turística Estatal; y,
+II. Departamento de Cruceros y Segmentos Especiales;
 
-III. Departamento de Módulos de Información Turística.
+III. Departamento de Turismo de Naturaleza; y,
+
+IV. Departamento de Turismo Recreativo.
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
 
 ###### Artículo 28.
 
-El Titular de la Dirección de Capacitación y Servicios Turísticos tendrá las facultades y obligaciones siguientes:
+El Titular de la Dirección de Mercadotecnia, tendrá las facultades y obligaciones siguientes:
 
-I. Instrumentar la participación de la Secretaría de Turismo en la reorientación de los planes de estudios, para la formación de profesionistas en materia turística;
+I. Diseñar e instrumentar campañas de publicidad turística, tanto nacional como extranjera, y difundir las estrategias a nuevos segmentos de turismo, previo análisis de mercadotecnia;
 
-II. Promover el establecimiento de escuelas y centros de capacitación, de acuerdo con las necesidades identificadas en el Estado; así como supervisar la elaboración de los programas de información de los recursos naturales y culturales de la Entidad;
+II. Contribuir al incremento del flujo de turistas nacionales y extranjeros, así como sus (sic) permanencia en los destinos turísticos del Estado a través del diseño y operación de programas de mercadotecnia en materia de Turismo Recreativo, Turismo de Negocios, Turismo de Naturaleza y Turismo de Cruceros y Segmentos especiales;
 
-III. Instrumentar las acciones necesarias para el levantamiento del inventario de servicios turísticos con que cuenta el Estado, a fin de integrarlos al Sistema de Información Turística Estatal, complementando el acervo de los bancos de información;
+III. Evaluar los diferentes atractivos, servicios y productos turísticos de nuestro Estado, con la finalidad de integrar portafolios de negocios, conforme a las necesidades de los mercados de Turismo Recreativo, Turismo de Negocios, Turismo de Naturaleza y Turismo de Cruceros y Segmentos especiales;
 
-IV. Concertar acciones con autoridades Estatales, Municipales y Ejidales para el establecimiento de módulos temporales de información en zonas turísticas, en los distintos operativos de apoyo al vacacionista que se implemente;
+IV. Generar información estratégica sobre los mercados actuales y potenciales para la industria turística en Chiapas, a través de estudios de mercado, perfiles sociodemográficos de consumo, encuestas o de algún otro instrumento que brinde información pertinente para impulsar el desarrollo del turismo en el Estado;
 
-V. Supervisar el funcionamiento y atención de los centros turísticos de contacto con la naturaleza, brindando asesorías en las distintas áreas operativas que los integran;
+V. Generar las directrices estratégicas y conceptuales en materia de promoción y difusión de los diferentes atractivos, servicios y productos turísticos de nuestro Estado;
 
-VI. Coordinar las acciones para la instrumentación de un programa de fomento a la cultura turística infantil, brindando asesoría en escuelas de educación primaria del Estado;
+VI. Elaborar los lineamientos estratégicos en materia de relaciones públicas, conforme a los objetivos de mercadotecnia de los diferentes productos turísticos de nuestro Estado;
 
-VII. Monitorear la calidad de los servicios que se prestan al visitante, en los distintos giros de actividades para determinar las áreas en situación crítica que ameriten atención preferente;
+VII. Promover estrategias mercadológicas orientadas a incrementar el turismo de negocios a través de la realización de congresos, convenciones, ferias, exposiciones y viajes de incentivo en la entidad; y,
 
-VIII. Instrumentar un programa de capacitación anual, coordinando acciones con Dependencias y/o organizaciones públicas y privadas, abarcando niveles gerenciales, mandos medios y operativos;
+VIII. Mantener coordinación con las áreas de administrativas y/o operativas para el eficiente desempeño de las acciones de la Dirección;
 
-IX. Supervisar la operación y funcionamiento del programa auxilio turístico en carreteras, en coordinación con la corporación Ángeles Verdes de la Secretaría de Turismo Federal;
+IX. Determinar la pertinencia y/o factibilidad de los eventos en que se participa conforme a los objetivos de mercadotecnia de los diferentes productos turísticos de nuestro Estado;
 
-X. Instrumentar un programa anual de apoyo con incentivos para la práctica del turismo social, brindando a grupos u organizaciones de escasos recursos económicos, la posibilidad de viajar dentro del Estado;
+X. Elaborar los reportes de avence (sic) programático y del ejercicio presupuestal del gasto institucional y de inversión; y,
 
-XI. Supervisar y promover la implementación del programa turismo nacional, coordinando acciones con una entidad crediticia y las agencias de viajes que deseen participar, procurando que la población acceda a medios financieros para practicar el turismo en el Estado; y,
-
-XII. Las demás que en el ámbito de su competencia le asigne el Subsecretario de promoción Turística.
+XI. Las demás que en el ámbito de su competencia le asigne el Subsecretario de Promoción Turística.
 
 ###### Artículo 29.
 
@@ -579,6 +631,8 @@ VII. Impartir cursos de capacitación en materia de informática al personal de 
 
 VIII. Las demás que en el ámbito de su competencia le sean asignado a el Secretario de Turismo.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
+
 ###### Artículo 37.
 
 El Titular de la Unidad de Asuntos Jurídicos tendrá las siguientes facultades:
@@ -587,25 +641,29 @@ I. Aplicar las políticas, normas y procedimientos que en materia jurídica sean
 
 II. Asesorar jurídicamente a la Secretaría en el ámbito de sus facultades, actuando como órgano de consulta;
 
-III. Representar legalmente a la Secretaría de Turismo ante las autoridades administrativas, judiciales o laborales, en todos los asuntos que se tenga interés jurídico;
+III. Ser representante legal de la Secretaría y de los titulares de los órganos administrativos, en los juicios de cualquier orden que se ventilen ante los tribunales judiciales, locales, federales y administrativos en la que aquella sea parte, como demandado, demandante, tercero perjudicado o tercero extraño a juicio;
 
-IV. Revisar y formular anteproyectos de iniciativas de Leyes, Reglamentos, Decretos y Acuerdos que competan a la Secretaría;
+IV. Sustituir al Secretario de Turismo, exclusivamente para presentar demandas o su desistimiento, rendir informes, ofrecer pruebas, formular alegatos y presentar recursos en los Juicios de Amparo y demás medios de control constitucional federales y locales, en los que éste aparezca como Autoridad Responsable o Tercero Perjudicado;
 
-V. Realizar y formular las bases y requisitos legales a que deban ajustarse los Contratos, Convenios, Acuerdos, Concesiones, Autorizaciones y permisos que realice o expida la Secretaría;
+V. Revisar y formular anteproyectos de iniciativas de Leyes, Reglamentos, Decretos y Acuerdos que competan a la Secretaría;
 
-VI. Autorizar y Certificar copias de documentos y constancias que obren en los archivos de la Secretaría;
+VI. Realizar y formular las bases y requisitos legales a que deban ajustarse los Contratos, Convenios, Acuerdos, Concesiones, Autorizaciones y permisos que realice o expida la Secretaría;
 
-VII. Proporcionar asesoría jurídica a los turistas nacionales y extranjeros con el fin de que acudan a las instancias correspondientes en caso de accidentes, o hayan sido objeto de algún delito;
+VII. Autorizar y certificar copias de documentos y constancias que obren en los archivos de la Secretaría;
 
-VIII. Intervenir en la integración y actualización del Registro Estatal de Turismo;
+VIII. Enviar a la Secretaría de Gobierno, previa autorización del Secretario, para su publicación en el Periódico Oficial del Estado, los asuntos de interés de la Secretaría de Turismo;
 
-IX. Realizar Visitas de Verificación y Vigilancia a los Prestadores de Servicios Turísticos, a efecto de constatar el debido cumplimiento a la legislación de la materia en su ámbito Federal y Estatal, Reglamentos Internos y las Normas Oficiales Mexicanas del Sector Turístico.
+IX. Proporcionar asesoría jurídica a los turistas nacionales y extranjeros con el fin de que acuda a las instancias correspondientes en caso de accidentes, o hayan sido objeto de algún delito;
 
-X. Orientar a quienes deseen conocer la normatividad aplicable a la prestación de servicios turísticos, y tramitar la inscripción de los prestadores de servicios en el Registro Nacional de Turismo;
+X. Intervenir en la integración y actualización del Registro Estatal de Turismo;
 
-XI. Enviar a la Secretaría de Gobierno para su publicación en el Periódico Oficial del Estado, los asuntos de interés de la Secretaría de Turismo.
+XI. Realizar Visitas de Verificación y Vigilancia a los Prestadores de Servicios Turísticos, a efecto de constatar el debido cumplimiento a la legislación de la materia en su ámbito Federal y Estatal, Reglamentos Internos y las Normas Oficiales Mexicanas del Sector Turístico;
 
-XII. Las demás que en él ámbito de su competencia le asigne el Secretario de Turismo.
+XII. Orientar a quienes deseen conocer la normatividad aplicable a la prestación de servicios turísticos, y tramitar la inscripción de los prestadores de servicios en el Registro Nacional de Turismo;
+
+XIII: Realizar Visitas de Verificación a Restaurantes que expendan bebidas alcohólicas y constatar que cumplen con los criterios para otorgarles la opinión de calidad turística; y,
+
+XlV. Las demás que en el ámbito de su competencia le asigne el Secretario de Turismo.
 
 ### Capítulo VI (SIC). De la Estructura Orgánica y Facultades de la Coordinación de Delegaciones
 
@@ -651,27 +709,29 @@ X. Las demás que en el ámbito de su competencia le asigne el Secretario de Tur
 
 ### Capítulo X. De la Integración del Comité Interno para la Contratación de Obra Pública de la Secretaría de Turismo
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2006)</small>
+
 ###### Artículo 40.
 
 El Comité Interno para la Contratación de Obra Pública estará integrado por:
 
-I. El Secretario de Turismo, en su calidad de Presidente.
+I. El Secretario de Turismo, en su calidad de Presidente;
 
-II. El Subsecretario de Desarrollo Turístico, en su calidad de Vicepresidente.
+II. El Subsecretario de Desarrollo Turístico, en su calidad de Vicepresidente;
 
-III. El Director de Estudios y Proyectos Turísticos, en su calidad de Secretario Técnico.
+III. El Director de Estudios y Proyectos Turísticos, en su calidad de Secretario Técnico;
 
-IV. El Director de Planeación e Infraestructura Turística, en su calidad de Vocal.
+IV. El Director de Desarrollo de Productos, en su calidad de vocal;
 
-V. El Jefe de la Unidad de Apoyo Administrativo, en su calidad de Vocal.
+V. El Jefe de la Unidad de Apoyo Administrativo, en su calidad de Vocal;
 
-VI. El Jefe de la Unidad de Planeación, en su calidad de Vocal.
+VI. El Jefe de la Unidad de Planeación, en su calidad de Vocal;
 
-VII. El Jefe de la Unidad de Asuntos Jurídicos, en su calidad de Vocal.
+VII. El Jefe de la Unidad de Asuntos Jurídicos, en su calidad de Vocal;
 
-VIII. El Jefe del Departamento de Proyectos Turísticos, en su calidad de Vocal.
+VIII. El Jefe del Departamento de Planeación y Supervisión, en su calidad de vocal;
 
-IX. El Jefe del Departamento de Ecoturismo, en su calidad de Vocal.
+IX. El Jefe del Departamento de Control y Seguimiento, en su calidad de vocal.
 
 ### Capítulo XI. De los Órganos Administrativos Desconcentrados
 
@@ -764,3 +824,13 @@ Artículo Tercero.- Cuando las facultades y obligaciones de alguna Unidad Admini
 Dado en la residencia oficial del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los veintidós días del mes de noviembre de dos mil cuatro.
 
 Pablo Salazar Mendiguchía, Gobernador del Estado.- Rubén F. Velázquez López, Secretario de Gobierno.- Katyna de la Vega Grajales, Secretaria de Turismo.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 25 DE ENERO DE 2006.
+
+Primero.- Las presentes reformas y adiciones al Reglamento Interior de la Secretaría de Turismo, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones que tengan similar o menor jerarquía a este Acuerdo y que se opongan al mismo.
+
+Tercero.- Cuando las facultades y obligaciones de alguna unidad administrativa a que se refiere este acuerdo deban ser ejercidas por otra u otras unidades administrativas conforme a lo estipulado en el mismo, los recursos humanos, (sic)
