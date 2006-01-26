@@ -4,7 +4,7 @@ identifier: "LDPAM"
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-25"
-last_updated: "2005-01-26"
+last_updated: "2006-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25062&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LDPAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE ENERO DE 2006.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 25 de junio de 2002.
 
@@ -191,6 +191,18 @@ e. A formar parte de los diversos órganos de representación y consulta ciudada
 VIII. De la denuncia popular:
 
 Toda persona, grupo social, organizaciones no gubernamentales, asociaciones o sociedades, podrán denunciar ante los órganos competentes, todo hecho, acto u omisión que produzca o pueda producir daño o afectación a los derechos y garantías que establece la presente Ley, o que contravenga cualquier otra de sus disposiciones o de los demás ordenamientos que regulen materias relacionadas con las personas adultas mayores.
+
+> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE EL ARTICULO UNICO TRANSITORIO.</small>
+
+> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2006)</small>
+
+IX. Del acceso a los Servicios:
+
+a. A tener una atención preferente en los establecimientos públicos y privados que prestan servicios al público.
+
+b. Los servicios y establecimientos de uso público deberán implementar medidas para facilitar el uso y/o acceso adecuado.
+
+c. A contar con asientos preferentes en los establecimientos que prestan servicios al público y en los servicios de autotransporte de pasajeros.
 
 ## TÍTULO TERCERO. DE LOS DEBERES DEL ESTADO, LA SOCIEDAD Y LA FAMILIA
 
@@ -783,3 +795,7 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 26 DE ENERO DE 2005.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 26 DE ENERO DE 2006.
+
+Único.- El presente Decreto entrará en vigor a los cuarenta y cinco días siguientes de su publicación en el Diario Oficial de la Federación.
