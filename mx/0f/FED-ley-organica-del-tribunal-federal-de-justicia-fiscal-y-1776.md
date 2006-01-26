@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-tribunal-federal-de-justicia-fiscal-y-1776"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-12-15"
-last_updated: "2000-12-31"
+last_updated: "2006-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1776&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1995-12-13"
 
 LEY ORGANICA DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE ENERO DE 2006.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de diciembre de 1995.
 
@@ -50,6 +50,10 @@ Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa
 ###### Artículo 1o.
 
 El Tribunal Federal de Justicia Fiscal y Administrativa es un tribunal administrativo, dotado de plena autonomía para dictar sus fallos, con la organización y atribuciones que esta Ley establece.
+
+> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2006)</small>
+
+El proyecto de presupuesto del Tribunal Federal de Justicia Fiscal y Administrativa será elaborado por la Sala Superior de dicho Tribunal, con sujeción a las disposiciones contenidas en la Ley de Presupuesto, Contabilidad y Gasto Público Federal y será enviado a la Secretaría de Hacienda y Crédito Público para su incorporación, en los términos de los criterios generales de política económica, en el Presupuesto de Egresos de la Federación. Una vez aprobado su presupuesto, el Tribunal lo ejercerá directamente.
 
 ###### Artículo 2o.
 
@@ -642,3 +646,7 @@ III. Se reforma la denominación del Tribunal Fiscal de la Federación por la de
 Primero. El presente Decreto entrará en vigor el 1o. de enero de 2001.
 
 Segundo. Las menciones hechas en el presente Decreto a las Secretarías cuyas denominaciones se modificaron por efectos del Decreto publicado en el Diario Oficial de la Federación el jueves 30 de noviembre de 2000, mediante el cual se reformó la Ley Orgánica de la Administración Pública Federal, se entenderán conforme a la denominación que para cada una se estableció en este último.
+
+D.O.F. 26 DE ENERO DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
