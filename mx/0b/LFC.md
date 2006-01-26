@@ -4,7 +4,7 @@ identifier: "LFC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-29"
-last_updated: "2002-12-30"
+last_updated: "2006-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFC"
 
 LEY FEDERAL DE CINEMATOGRAFIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE ENERO DE 2006.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 29 de diciembre de 1992.
 
@@ -394,17 +394,25 @@ a) Fomentar y promover la producción, distribución, exhibición y comercializa
 
 b) Fortalecer, estimular y promover por medio de las actividades de cinematografía, la identidad y la cultura nacionales, considerando el carácter plural de la sociedad mexicana y el respeto irrestricto a la libre expresión y creatividad artística del quehacer cinematográfico.
 
-c) Coordinar la producción cinematográfica del sector público.
+> <small>(REFORMADO, D.O.F. 26 DE ENERO DE 2006)</small>
+
+c) Coordinar las actividades de las entidades paraestatales de la Administración Pública Federal, que tengan por objeto social promover, fomentar o prestar servicios y apoyo técnico a la producción y coproducción cinematográfica y audiovisual.
 
 d) Coordinar las actividades del Instituto Mexicano de Cinematografía.
 
-e) Dirigir y administrar la Cineteca Nacional, cuyos objetivos son el rescate, conservación, protección y restauración, de las películas y sus negativos, así como la difusión, promoción y salvaguarda del patrimonio cultural cinematográfico de la Nación. Organizar eventos educativos y culturales que propicien el desarrollo de la cultura cinematográfica en todo el territorio nacional.
+> <small>(REFORMADO, D.O.F. 26 DE ENERO DE 2006)</small>
+
+e) Coordinar las actividades de la Cineteca Nacional, cuyos objetivos son el rescate, conservación, protección y restauración, de las películas y sus negativos, así como la difusión, promoción y salvaguarda del patrimonio cultural cinematográfico de la Nación. Organizar eventos educativos y culturales que propicien el desarrollo de la cultura cinematográfica en todo el territorio nacional.
 
 f) Fomentar la investigación y estudios en materia cinematográfica, y decidir o, en su caso, opinar sobre el otorgamiento de becas para realizar investigaciones o estudios en dicha materia.
 
 g) Procurar la difusión de la producción del cine nacional en los diversos niveles del sistema educativo.
 
 h) Promover el uso del cine como medio de instrucción escolar y difusión cultural extraescolar; y
+
+> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2006)</small>
+
+i) Coordinar las actividades de las entidades paraestatales de la Administración Pública Federal, cuyo objeto social sea la capacitación, el entrenamiento, la instrucción, o la formación de técnicos o profesionales, así como el ensayo e investigación en la concepción, composición, preparación y ejecución de obras cinematográficas y artes audiovisuales en general.
 
 II.- A través del Instituto Nacional del Derecho de Autor:
 
@@ -547,3 +555,7 @@ QUINTO: La Ley del Presupuesto de Egresos de la Federación de 1999, establecer�
 D.O.F. 30 DE DICIEMBRE DE 2002.
 
 Único.- El presente Decreto entrará en vigor a partir del 1o. de enero de 2003.
+
+D.O.F. 26 DE ENERO DE 2006.
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
