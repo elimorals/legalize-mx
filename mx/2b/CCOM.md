@@ -4,7 +4,7 @@ identifier: "CCOM"
 country: "mx"
 rank: "codigo"
 publication_date: "1889-10-07"
-last_updated: "2005-01-26"
+last_updated: "2006-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=467&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CCOM"
 
 CODIGO DE COMERCIO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE ENERO DE 2006.
 
 Código publicado en el Diario Oficial de la Federación, del lunes 7 de octubre al viernes 13 de diciembre de 1889.
 
@@ -124,6 +124,10 @@ II. Los quebrados que no hayan sido rehabilitados;
 
 III. Los que por sentencia ejecutoriada hayan sido condenados por delitos contra la propiedad, incluyendo en éstos la falsedad, el peculado, el cohecho y la concusión.
 
+> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2006)</small>
+
+La limitación a que se refiere la fracción anterior, comenzará a surtir sus efectos a partir de que cause ejecutoria la Sentencia respectiva y durará hasta que se cumpla con la condena.
+
 ###### Art. 13.
 
 Los extranjeros serán libres para ejercer el comercio, según lo que se hubiere convenido en los tratados con sus respectivas naciones, y lo que dispusieren las leyes que arreglen los derechos y obligaciones de los extranjeros.
@@ -138,7 +142,7 @@ Las sociedades legalmente constituídas en el extranjero que se establezcan en l
 
 En lo que se refiera á su capacidad para contratar, se sujetarán á las disposiciones del artículo correspondiente del título de "Sociedades extranjeras."
 
-## TÍTULO SEGUNDO.
+## TITULO SEGUNDO.
 
 DE LAS OBLIGACIONES COMUNES Á TODOS LOS QUE PROFESAN EL COMERCIO.
 
@@ -3482,7 +3486,7 @@ Del contrato mercantil de trasporte terrestre.
 
 ## TÍTULO DÉCIMO.
 
-DE LOS TRANSPORTES POR VÍAS TERRESTRES Ó FLUVIALES.
+DE LOS TRASPORTES POR VÍAS TERRESTRES Ó FLUVIALES.
 
 ### CAPÍTULO I.
 
@@ -8985,3 +8989,7 @@ CUARTO. Por lo que se refiere al artículo 106, el Banco de México, en el ámbi
 D.O.F. 26 DE ENERO DE 2005.
 
 UNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 26 DE ENERO DE 2006.
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
