@@ -4,7 +4,7 @@ identifier: "LGVS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2000-07-03"
-last_updated: "2002-01-10"
+last_updated: "2006-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16446&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGVS"
 
 LEY GENERAL DE VIDA SILVESTRE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE ENERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE ENERO DE 2006.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 3 de julio de 2000.
 
@@ -656,6 +656,10 @@ b) Los artículos de uso personal, siempre y cuando no excedan de dos piezas del
 
 La importación, exportación y reexportación de ejemplares, partes y derivados de especies silvestres incluidas en la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres, se llevarán a cabo de acuerdo con esa Convención, lo dispuesto en la presente Ley y las disposiciones que de ellas se deriven.
 
+> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2006)</small>
+
+Artículo 55 bis.- Queda prohibida la importación, exportación y reexportación de ejemplares de cualquier especie de mamífero marino y primate, así como de sus partes y derivados, con excepción de aquéllos destinados a la investigación científica, previa autorización de la Secretaría.
+
 ## TÍTULO VI. CONSERVACIÓN DE LA VIDA SILVESTRE
 
 ### CAPÍTULO I. ESPECIES Y POBLACIONES EN RIESGO Y PRIORITARIAS PARA LA CONSERVACIÓN
@@ -699,6 +703,10 @@ La Secretaría suscribirá convenios y acuerdos de concertación y coordinación
 Ningún ejemplar de mamífero marino, cualquiera que sea la especie podrá ser sujeto de aprovechamiento extractivo, ya sea de subsistencia o comercial, con excepción de la captura que tenga por objeto la investigación científica y la educación superior de instituciones acreditadas.
 
 El promovente de una autorización para la captura de mamíferos marinos a los que se refiere este artículo, deberá entregar a la autoridad correspondiente un protocolo completo que sustente su solicitud. El resto del trámite quedará sujeto a las disposiciones de la presente Ley y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2006)</small>
+
+Ningún ejemplar de primate, cualquiera que sea la especie, podrá ser sujeto de aprovechamiento extractivo, ya sea de subsistencia o comercial. Sólo se podrá autorizar la captura para actividades de restauración, repoblamiento y de reintroducción de dichas especies en su hábitat natural.
 
 ###### Artículo 61.
 
@@ -1347,3 +1355,7 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 10 DE ENERO DE 2002.
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 26 DE ENERO DE 2006.
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
