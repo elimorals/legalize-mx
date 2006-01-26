@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-para-el-otorgamiento-de-la-prerrogativa-prevista-298
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-04-11"
-last_updated: "2003-04-11"
+last_updated: "2006-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29873&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # REGLAMENTO PARA EL OTORGAMIENTO DE LA PRERROGATIVA PREVISTA EN LA FRACCION X DEL ARTICULO 70 DEL CODIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE CAMPECHE
 
-REGLAMENTO PARA EL OTORGAMIENTO DE LA PRERROGATIVA PREVISTA EN LA FRACCION X DEL ARTICULO 70 DEL CODIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE CAMPECHE
+REGLAMENTO PARA EL OTORGAMIENTO DE LA PRERROGATIVA PREVISTA EN LA FRACCIÓN X DEL ARTÍCULO 70 DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL REGLAMENTO PARA EL OTORGAMIENTO DE LAS PRERROGATIVAS PREVISTAS EN LAS FRACCIONES X Y XI DEL ARTÍCULO 70 DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 26 DE ENERO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección Administrativa del Periódico Oficial del Estado de Campeche, el viernes 11 de abril del 2003.
 
@@ -94,3 +96,17 @@ Cuarto.- Publíquese en el Periódico Oficial del Estado.
 El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General del Instituto Electoral del Estado de Campeche, celebrada el siete de febrero del dos mil tres.
 
 El presidente del Consejo General, C.D.E.O. Gonzalo Bojórquez Risueño.- La Secretaria Ejecutiva del Consejo General, Licda. Celina del Carmen Castillo Cervera.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE ENERO DE 2006.
+
+> <small>N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
+
+PRIMERO.- ...
+
+SEGUNDO.- Este Reglamento entrará en vigor a partir del momento de su aprobación.
+
+TERCERO.- Se abroga el Reglamento para el otorgamiento de la Prerrogativa prevista en la Fracción X del Artículo 70 del Código de Instituciones y Procedimientos Electorales para el Estado de Campeche, publicado en el Periódico Oficial del Estado de fecha 11 de abril de 2003.
+
+CUARTO.- Publíquese el presente Acuerdo en el Periódico Oficial del Estado.
