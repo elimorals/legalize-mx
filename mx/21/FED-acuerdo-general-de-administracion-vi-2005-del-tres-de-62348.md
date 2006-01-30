@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-vi-2005-del-tres-de-62348"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-10-03"
-last_updated: "2005-10-03"
+last_updated: "2006-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62348&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2005-10-03"
 
 ACUERDO GENERAL DE ADMINISTRACION VI/2005, DEL TRES DE OCTUBRE DE DOS MIL CINCO, DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE LOS SERVIDORES PUBLICOS DE MANDO SUPERIOR DE ESTE ALTO TRIBUNAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DE ADMINISTRACION I/2006, DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL S.J.F.G., TOMO XXIII, FEBRERO DE 2006, PAGINA 1985, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo XXII, Octubre de 2005, página 2539.
 
@@ -456,3 +458,19 @@ CUARTO. Los casos no previstos en este Acuerdo General serán resueltos por el C
 QUINTO. Publíquese este acuerdo en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
 
 Así lo acordaron y firman los señores Ministros Mariano Azuela Güitrón, Sergio Salvador Aguirre Anguiano y José de Jesús Gudiño Pelayo, integrantes del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+S.J.F.G., TOMO XXIII, FEBRERO DE 2006, PAGINA 1985.
+
+PRIMERO. Este Acuerdo General de Administración entrará en vigor el día de su expedición.
+
+SEGUNDO. Se abroga el Acuerdo General de Administración VI/2005, del tres de octubre de dos mil cinco, del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación, por el que se regula el plan de pensiones complementarias de los servidores públicos de mando superior de este Alto Tribunal.
+
+TERCERO. Las personas que a la entrada en vigor del presente Acuerdo General ya gocen de una pensión complementaria, la seguirán recibiendo bajo los términos, condiciones y regulación con las que les fue otorgada. Para dichas personas sólo será aplicable el artículo 31 de este Acuerdo General, el cual entrará en vigor una vez que el Comité de Gobierno y Administración lo determine con base en el estudio actuarial que al efecto se realice.
+
+CUARTO. Los servidores públicos cuya plaza se transformó con motivo de la entrada en vigor del Acuerdo General Plenario 4/2005 de veinticinco de enero de dos mil cinco, relativo a la estructura y a las plazas del personal de la Suprema Corte de Justicia de la Nación, tal como lo señala su artículo cuarto transitorio, no deben sufrir afectación alguna con motivo de esa transformación, por lo que se sujetarán al régimen de pensiones complementarias de este Alto Tribunal que les resulte más favorable.
+
+QUINTO. Los casos no previstos en este Acuerdo General serán resueltos por el Comité Operativo, el cual tendrá amplias facultades para interpretar el mismo.
+
+SEXTO. Publíquese este Acuerdo en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7°, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
