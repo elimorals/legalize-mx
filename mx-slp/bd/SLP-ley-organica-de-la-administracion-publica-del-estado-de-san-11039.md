@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-administracion-publica-del-estado-de-san-110
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-24"
-last_updated: "2005-08-16"
+last_updated: "2006-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 2006.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de octubre de 1997.
 
@@ -205,7 +205,7 @@ I. Secretaría General de Gobierno;
 
 II. Secretaría de Finanzas;
 
-III. Secretaría de Planeación del Desarrollo;
+III. (DEROGADA, P.O. 31 DE ENERO DE 2006)
 
 IV. Secretaría de Desarrollo Social y Regional;
 
@@ -231,7 +231,7 @@ XIV. Oficialía Mayor;
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
-XV. Procuraduría General de Justicia,
+XV. Procuraduría General de Justicia;
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
@@ -319,7 +319,9 @@ XXXV. Compilar y publicar la legislación vigente en el Estado, en coordinación
 
 XXXVI. Administrar y publicar el Periódico Oficial del Estado;
 
-XXXVII. Integrar conjuntamente con la Secretaría de Planeación del Desarrollo el Informe Anual de Gobierno, y someterlo a consideración del titular del Ejecutivo;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2006)</small>
+
+XXXVII. Integrar conjuntamente con la Secretaría de Finanzas el Informe Anual de Gobierno, y someterlo a consideración del titular del Ejecutivo;
 
 XXXVIII. Rendir, en ausencia del Gobernador del Estado, los informes previos y justificados, en los juicios de amparo en que éste sea señalado como autoridad responsable; y
 
@@ -387,53 +389,89 @@ XXVIII. Fungir como fideicomitente de la administración pública estatal en los
 
 > <small>(ADICIONADA, P.O. 16 DE JUNIO DE 1999)</small>
 
-XXIX. Presentar ante el Congreso del Estado, la información a que se refiere la fracción VI del artículo 80 de la Constitución Política del Estado, a más tardar dentro de los treinta días siguientes a la culminación del período que se informa, con excepción del último período de cada año cuyo plazo será de noventa días. El incumplimiento de esta disposición será objeto de responsabilidad administrativa, y
+XXIX. Presentar ante el Congreso del Estado, la información a que se refiere la fracción VI del artículo 80 de la Constitución Política del Estado, a más tardar dentro de los treinta días siguientes a la culminación del período que se informa, con excepción del último período de cada año cuyo plazo será de noventa días. El incumplimiento de esta disposición será objeto de responsabilidad administrativa, y (sic)
 
-XXX. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
+XXX. (DEROGADA, P.O. 31 DE ENERO DE 2006)
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2006)</small>
+
+XXXI. Diseñar el Sistema Estatal de Planeación, y establecer la normatividad del proceso de planeación, programación, presupuestación y evaluación en apego a las disposiciones legales aplicables;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2006)</small>
+
+XXXII. Formular, con la participación de las dependencias y entidades de la administración pública y con las organizaciones sociales, el Plan Estatal de Desarrollo y los programas respectivos;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2006)</small>
+
+XXXIII. Asumir la Coordinación del Comité de Planeación para el Desarrollo del Estado (COPLADE), propiciar la operatividad de éste y otros foros de expresión de las organizaciones de la sociedad civil, para reconocer con claridad las demandas y las prioridades de la comunidad;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2006)</small>
+
+XXXIV. Definir y someter a acuerdo del Gobernador del Estado, las prioridades económicas y sociales para la acción de la Administración Pública Estatal, así como los programas y proyectos estratégicos;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2006)</small>
+
+XXXV. Normar, coordinar e integrar el Programa Operativo Anual;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2006)</small>
+
+XXXVI. Determinar las necesidades de gasto público de la administración pública estatal, atendiendo a los requerimientos y prioridades del desarrollo económico y social del Estado;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2006)</small>
+
+XXXVII. Efectuar la distribución del presupuesto entre los diversos programas del gobierno, definiendo montos presupuestales para cada dependencia y entidad;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2006)</small>
+
+XXXVIII. Determinar el monto de gasto para cada uno de los programas estratégicos definidos por el Gobernador del Estado;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2006)</small>
+
+XXXIX. Formular y presentar al Ejecutivo el proyecto del Presupuesto de Egresos, así como el programa general del gasto público;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2006)</small>
+
+XL. Definir y comunicar a las dependencias y entidades los criterios y normas para el ejercicio del presupuesto aprobado;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2006)</small>
+
+XLI. Autorizar los programas, los presupuestos, la estructura y el calendario de gasto a cada una de las dependencias y entidades de la administración pública estatal;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2006)</small>
+
+XLII. Conocer del avance del ejercicio presupuestal, y las modificaciones que realicen las dependencias al presupuesto aprobado;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2006)</small>
+
+XLIII. Coordinar la ejecución de planes y programas con la Federación;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2006)</small>
+
+XLIV. Integrar conjuntamente con la Secretaría General de Gobierno, el Informe Anual de Gobierno, y someterlo a consideración del titular del Ejecutivo;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2006)</small>
+
+XLV. Vigilar y evaluar la ejecución de los programas sectoriales, institucionales, regionales y especiales, y su congruencia con los objetivos del Plan Estatal de Desarrollo;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2006)</small>
+
+XLVI. Establecer y coordinar el funcionamiento del Sistema Estatal de Información, así como coordinar la información geográfica y estadística de la Entidad;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2006)</small>
+
+XLVII. Establecer los lineamientos y coordinar los programas de innovación gubernamental relativos al diseño de procesos, tecnologías de la información y sistemas de gestión de la calidad que busquen la eficiencia, transparencia y competitividad, así como el desarrollo institucional del Estado;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2006)</small>
+
+XLVIII. Delegar a persona específica la función de proporcionar la información que corresponda a la Secretaría, de conformidad con la Ley de Transparencia Administrativa y Acceso a la Información Pública del Estado de San Luis Potosí, y
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2006)</small>
+
+XLIX. Las demás que le señalen las leyes, reglamentos y demás disposiciones que le atribuyan, así como aquellas que le otorgue el Gobernador del Estado.
 
 ###### ARTICULO 34.
 
-A la Secretaría de Planeación del Desarrollo corresponde el despacho de los siguientes asuntos:
-
-I. Diseñar el Sistema Estatal de Planeación, y establecer la normatividad del proceso de planeación, programación, presupuestación y evaluación en apego a las disposiciones legales aplicables;
-
-II. Formular, con la participación de las dependencias y entidades de la administración pública y con las organizaciones sociales, el Plan Estatal de Desarrollo y los programas respectivos;
-
-III. Asumir la Coordinación del Comité de Planeación para el Desarrollo del Estado; propiciar la operatividad de éste y otros foros de expresión de las organizaciones de la sociedad civil, para reconocer con claridad las demandas y las prioridades de la comunidad;
-
-IV. Definir y someter a acuerdo del Gobernador del Estado, las prioridades económicas y sociales para la acción de la Administración Pública Estatal, así como los programas y proyectos estratégicos;
-
-V. Normar, coordinar e integrar el Programa Operativo Anual;
-
-VI. Determinar las necesidades de gasto público de la administración pública estatal, atendiendo a los requerimientos y prioridades del desarrollo económico y social del Estado;
-
-VII. Participar en la Comisión Gasto-Financiamiento para analizar y proponer al Gobernador del Estado los niveles del gasto público, su calendario y sus fuentes de financiamiento, en concordancia con los planes y programas de mediano y largo plazo y considerando las políticas fiscal y de deuda pública;
-
-VIII. Efectuar la distribución del presupuesto entre los diversos programas del gobierno, definiendo montos presupuestales para cada dependencia y entidad;
-
-IX. Determinar el monto de gasto para cada uno de los programas estratégicos definidos por el Gobernador del Estado;
-
-X. Formular y presentar al Ejecutivo el proyecto del Presupuesto de Egresos, así como el programa general del gasto público;
-
-XI. Definir y comunicar a las dependencias y entidades los criterios y normas para el ejercicio del presupuesto aprobado;
-
-XII. Autorizar los programas, los presupuestos, la estructura y el calendario de gasto a cada una de las dependencias y entidades de la administración pública estatal;
-
-XIII. Conocer del avance del ejercicio presupuestal, y las modificaciones que realicen las dependencias al presupuesto aprobado;
-
-XIV. (DEROGADA POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO, P.O. 16 DE AGOSTO DE 2005)
-
-XV. Coordinar la ejecución de planes y programas con la Federación;
-
-XVI. Integrar conjuntamente con la Secretaría General de Gobierno el Informe Anual de Gobierno, y someterlo a consideración del titular del Ejecutivo;
-
-XVII. Vigilar y evaluar la ejecución de los programas sectoriales y especiales, y su congruencia con los objetivos del Plan Estatal de Desarrollo;
-
-XVIII. Establecer y coordinar el funcionamiento del Sistema Estatal de Información;
-
-XIX. Coordinar la información geográfica y estadística de la Entidad; y
-
-XX. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
+(DEROGADO, P.O. 31 DE ENERO DE 2006)
 
 ###### ARTICULO 35.
 
@@ -1322,3 +1360,19 @@ CUARTO. Las disposiciones administrativas en uso a la fecha de entrada en vigor 
 QUINTO. Los artículos de la Ley del Presupuesto de Egresos del Estado, Ejercicio Fiscal 2005, cuyo contenido fue reproducido en esta Ley, seguirán vigentes en dicho Ordenamiento, solamente para este año.
 
 SEXTO. Dentro de los noventa días siguientes de la entrada en vigencia de esta Ley, el Ejecutivo del Estado deberá emitir el Reglamento de la misma. En tanto, se aplicará el Reglamento de la anterior ley en lo que no se oponga a este Ordenamiento.
+
+P.O. 31 DE ENERO DE 2006.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Las referencias que se hagan a la extinta Secretaría de Planeación del Desarrollo contenidas en otros ordenamientos legales y administrativos, se entenderán referidas a la Secretaría de Finanzas.
+
+TERCERO. Por virtud del traslado de las funciones y atribuciones de la Secretaría de Planeación del Desarrollo, a la Secretaría de Finanzas, el mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo que la primera dependencia haya utilizado para la atención de los asuntos a su cargo, igualmente se traspasan a la Secretaría de Finanzas.
+
+Además de éstos, se transfieren también los recursos financieros y presupuestales autorizados en la Ley del Presupuesto de Egresos para el Estado de San Luis Potosí, para el Ejercicio Fiscal 2006. Los traspasos serán coordinados y ejecutados por la Oficialía Mayor del Poder Ejecutivo y supervisados por la Comisión Gasto Financiamiento.
+
+La Oficialía Mayor coordinará la readscripción de los trabajadores de la Secretaría de Planeación del Desarrollo, respetando sus derechos laborales.
+
+CUARTO. Los asuntos que con motivo de este Decreto deban pasar de la Secretaría de Planeación del Desarrollo, a la Secretaría de Finanzas, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramiten se incorporen a la dependencia correspondiente, a excepción de los trámites urgentes o sujetos a plazos improrrogables, que serán resueltos por la dependencia que tenga el asunto a su cargo.
+
+QUINTO. El Ejecutivo del Estado deberá modificar el reglamento interior de la Secretaría de Finanzas, en un plazo no mayor de tres meses a partir de la entrada en vigencia del presente Decreto, manteniendo entre tanto observancia los ya existentes en lo que no se opongan al mismo. Posterior a dicho supuesto, se derogan todas las disposiciones de igual o menor rango que se opongan a este Decreto.
