@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-por-el-que-se-da-a-conocer-el-cupo-para-importar-48235"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-08-18"
-last_updated: "2005-08-18"
+last_updated: "2006-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48235&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-07-29"
 
 ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR DIVERSAS MERCANCIAS CLASIFICADAS EN EL CAPITULO 95 DE LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE ENERO DE 2006.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el 18 de agosto de 2005.
 
@@ -109,17 +109,11 @@ A las empresas que cumplan con los requisitos establecidos en la hoja de requisi
 
 La asignación del cupo al que se refiere el presente Acuerdo se hará a través de la Dirección General de Comercio Exterior, quien determinará el monto a asignar conforme a lo establecido en el ARTICULO CUARTO del presente Acuerdo.
 
+> <small>(REFORMADO, D.O.F. 31 DE NERO DE 2006)</small>
+
 ###### ARTICULO SEXTO.
 
-Las solicitudes de asignación de cupo a que se refiere este instrumento, deberán presentarse en el formato SE-03-011-1 “Solicitud de asignación de cupo (obtenido por asignación directa)”.
-
-El periodo de recepción de solicitudes será a partir de la entrada en vigor del presente Acuerdo. La asignación de los certificados de cupo se realizará en tres etapas:
-
-a) Etapa 1: Dentro de los 25 días hábiles siguientes a la entrada en vigor del presente Acuerdo;
-
-b) Etapa 2: En enero de 2006, y
-
-c) Etapa 3: En enero de 2007.
+Las solicitudes de asignación de cupo a que se refiere este instrumento, deberán presentarse dentro del periodo enero-noviembre del año para el que se solicita cupo en el formato SE-03-011-1 “Solicitud de asignación de cupo (obtenido por asignación directa).
 
 ###### ARTICULO SEPTIMO.
 
@@ -129,9 +123,15 @@ Una vez asignado el monto para importar dentro del arancel-cupo, la Secretaría 
 
 El certificado de cupo, es nominativo e intransferible y deberá ser retornado a la representación Federal de la Secretaría que lo expidió, dentro de los quince días hábiles siguientes al término de su vigencia. La vigencia máxima de los certificados de cupo será hasta el 31 de diciembre del año en que sean expedidos.
 
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2006)</small>
+
 ###### ARTICULO NOVENO.
 
-Los formatos a que se hace referencia en este Acuerdo estarán a disposición de los interesados en la Dirección General de Comercio Exterior, en las Representaciones Federales de la Secretaría o en la página de Internet de la Comisión Federal de Mejora Regulatoria en la dirección electrónica: www.cofemer.gob.mx.
+Los formatos a que se hace referencia en este Acuerdo estarán a disposición de los interesados en la Dirección General de Comercio Exterior, en las Representaciones Federales de la Secretaría de Economía y en la página de Internet de la Comisión Federal de Mejora Regulatoria en las siguientes direcciones electrónicas:
+
+a) Para el caso del formato SE-03-011-1 “Solicitud de asignación de cupo” http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-033-A
+
+b) Para el caso del formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)” http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042
 
 ## TRANSITORIOS
 
@@ -145,6 +145,14 @@ México, D.F., a 29 de julio de 2005.- El Secretario de Economía, Fernando de J
 
 REQUISITOS PARA LA ASIGNACION DEL CUPO DE IMPORTACION DE LAS FRACCIONES ARANCELARIAS A LAS QUE SE REFIERE EL ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR DIVERSAS MERCANCIAS CLASIFICADAS EN EL CAPITULO 95 DE LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION
 
+> <small>(REFORMADA, D.O.F. 31 DE NERO DE 2006)</small>
+
 ASIGNACION DIRECTA 1/1
 
 (VEASE ARCHIVO ANEXO)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 31 DE ENERO DE 2006.
+
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
