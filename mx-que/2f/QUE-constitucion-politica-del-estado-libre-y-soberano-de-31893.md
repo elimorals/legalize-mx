@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "2005-10-28"
+last_updated: "2006-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2006.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -207,11 +207,11 @@ Las leyes propiciarán el desarrollo económico, político y social de los grupo
 
 ### CAPITULO PRIMERO. DEL PODER LEGISLATIVO
 
-> <small>(REFORMADO PRIMER PARRAFO, P. O. 12 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2006)</small>
 
 #### SECCION PRIMERA. DE LA INSTALACIÓN DE LA LEGISLATURA Y PERIODO DE SESIONES
 
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2006)</small>
 
 ###### ARTICULO 13°.
 
@@ -365,11 +365,17 @@ Son facultades de la Legislatura:
 
 I.- Expedir su ley orgánica y su reglamento interior;
 
-II.- Aprobar, reformar, abrogar o derogar leyes y decretos en todos los ramos de la administración pública del Estado y para la organización y funcionamiento de las administraciones públicas municipales;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2006)</small>
 
-III.- Ejercer el derecho de iniciativa ante el Congreso de la Unión;
+II.- Aprobar leyes en materia de educación, de conformidad con los principios establecidos en el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos.
 
-IV.- Aprobar leyes en materia de educación, de conformidad con los principios establecidos en el artículo 3º, de la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2006)</small>
+
+III.- Ejercer el derecho de iniciativa ante el Congreso de la Unión y ser parte del Constituyente Permanente en los términos de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2006)</small>
+
+IV.- Legislar en materia municipal de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos.
 
 V.- Legislar en materia de preservación y restauración del equilibrio ecológico y protección al ambiente en la esfera de la competencia estatal, estableciendo las bases normativas de concurrencia entre Estado y municipios y los criterios conforme a los cuales se hará efectiva la participación social;
 
@@ -397,15 +403,17 @@ XIII.- Emitir decreto mediante el cual se declare gobernador electo, y expedir e
 
 XIV.- Elegir al ciudadano que deba asumir el cargo de gobernador con el carácter de interino o sustituto, en los casos y términos que esta Constitución prescribe;
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2006)</small>
 
-XV.- Elegir y tomar protesta a los magistrados del Tribunal Superior de Justicia, y a los magistrados del Tribunal de lo Contencioso Administrativo;
+XV.- Elegir conforme a esta Constitución y demás normas aplicables, respetando los procedimientos de selección que en su caso se establezcan, a los Magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo; al Presidente de la Comisión Estatal de Derechos Humanos, a los Consejeros Electorales del Instituto Electoral de Querétaro, a los integrantes de la Comisión Estatal de Información Gubernamental; al titular de la Entidad Superior de Fiscalización y a los demás servidores públicos cuya designación le competa de acuerdo con las leyes;
 
 XVI.- Conceder licencia y admitir las renuncias de los diputados; del gobernador; de los magistrados del Tribunal Superior de Justicia y de los demás funcionarios cuya designación competa a la propia Legislatura;
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2006)</small>
 
-XVII.- Citar a comparecer, por conducto de los titulares de los Poderes, a los servidores públicos de las dependencias y organismos del Ejecutivo, del Judicial y de los Municipios a través de los Ayuntamientos, para que ilustren sobre algún asunto de su competencia, solicitar y recibir de los mismos la documentación e informes necesarios para el cumplimiento de sus atribuciones;
+XVII.- Citar a comparecer, en comisiones o en Pleno, por conducto de los titulares, a los servidores públicos de las dependencias y organismos del Ejecutivo, del Judicial y de los Municipios, las entidades paraestatales, organismos autónomos y cualquier otra entidad pública, para que ilustren sobre algún asunto de su competencia, solicitar o recibir de los mismos la documentación e informes necesarios para el cumplimiento de sus atribuciones.
+
+La negativa reiterada y sin justificación de las autoridades a que se refiere esta fracción para comparecer ante el Pleno o las Comisiones de la Legislatura, será causa de responsabilidad en los términos de lo dispuesto por esta Constitución;
 
 XVIII.- Conocer de las denuncias que conforme a la ley de la materia se formulen en contra de los servidores públicos a que se refiere el Título Séptimo de la presente Constitución y resolver si ha lugar o no a proceder penal o políticamente contra el denunciado y, en su caso, seguir el procedimiento establecido en dicho apartado;
 
@@ -439,15 +447,15 @@ XXII.- Crear nuevos Municipios dentro de los limites de las ya existentes, siemp
 
 XXIII.- Decretar la traslación provisional de los Poderes de la Entidad fuera de la ciudad de Santiago de Querétaro, en los casos y condiciones previstas en esta Constitución;
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2006)</small>
 
-XXIV.- Aprobar anualmente la Ley de Ingresos y el Presupuesto de Egresos del Estado, así como la Ley de Ingresos de cada Municipio.
+XXIV.- Aprobar anualmente la Ley de Ingresos y Presupuesto de Egresos del Estado, así como la Ley de Ingresos de cada municipio, previo estudio, discusión y, en su caso, modificación a los proyectos enviados, una vez aprobadas las contribuciones en el caso del presupuesto estatal que, a su juicio, deban decretarse para cubrirlo.
 
-En tanto no aprueben y entren en vigor alguna de las Leyes o el Presupuesto de Egresos a que se refiere esta fracción, continuarán vigentes de manera provisional para el siguiente ejercicio fiscal las leyes de ingresos estatal o municipal, y el presupuesto de egresos que en su caso correspondan;
+En tanto no se aprueben y entren en vigor alguna de las leyes o Presupuesto de Egresos a que se refiere esta fracción, se aplicarán de manera provisional para el siguiente ejercicio fiscal las leyes de ingresos estatal y municipal, y el presupuesto de egresos del ejercicio Fiscal anterior;
 
-> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2006)</small>
 
-XXV.- Revisar y fiscalizar las cuentas públicas de la administración pública centralizada y descentralizada estatal, de los organismos constitucionales autónomos y de los Municipios, organismos descentralizados de carácter municipal y empresas de participación municipal, con base en los dictámenes que sobre las mismas presente la Comisión de Hacienda, los que podrán contemplar sanciones por incumplimiento;
+XXV.- Para expedir la Ley que regule la organización de la Entidad Superior de Fiscalización del Estado y las demás que normen la gestión, control y evaluación de la administración pública estatal y privada que maneje recursos públicos, y pedir informes a dicho organismo, sin perjuicio de su autonomía técnica y de gestión, al desempeño de las funciones de la Entidad Superior de Fiscalización del Estado, en los términos que disponga la ley;
 
 XXVI.- Autorizar al titular del Poder Ejecutivo para que contrate empréstitos conforme a lo previsto por esta Constitución y otorgue avales para garantizar obligaciones legalmente contraídas;
 
@@ -463,7 +471,7 @@ XXIX.- Sustituir a los diputados en ejercicio, cuando sin causa justificada a ju
 
 XXX.- Expedir la convocatoria para elecciones de Diputados, cuando ocurra falta absoluta del propietario y del suplente durante los dos primeros años del ejercicio legal de la Legislatura. La convocatoria definirá los procedimientos de acuerdo al sistema electoral por el que haya sido electo el Diputado ausente;
 
-XXXI.- Legislar sobre todo aquello que la Constitución de los Estados Unidos Mexicanos no conceda expresamente al Congreso de la Unión; y
+XXXI.- Legislar sobre todo aquello que la Constitución de los Estados Unidos Mexicanos no conceda expresamente al Congreso de la Unión; y (sic)
 
 > <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2000)</small>
 
@@ -477,11 +485,15 @@ a) Ratificar los arreglos o convenios concertados entre los ayuntamientos con mo
 
 b) Resolver sobre la supresión y/o fusión de Municipios por las causas que la ley señale.
 
-c) Aprobar los convenios que el Ejecutivo celebre con sus homólogos de las Entidades vecinas sobre cuestiones de límites y someterlos a la ratificación del Congreso de la Unión; y
+c) Aprobar los convenios que el Ejecutivo celebre con sus homólogos de las Entidades vecinas sobre cuestiones de límites y someterlos a la ratificación del Congreso de la Unión; y (sic)
 
-> <small>(ADICIONADA, P.O. 15 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2006)</small>
 
-XXXIV.- Todas las demás que esta Constitución y las leyes otorguen.
+XXXIV.- Aprobar, reformar, abrogar o derogar leyes, decretos y acuerdos en todos los ramos de la administración pública del Estado y de todos aquellos en los cuales la Legislatura del Estado tenga facultades de acuerdo a la Constitución Política de los Estados Unidos Mexicanos y las leyes federales;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2006)</small>
+
+XXXV.- Todas las demás que esta Constitución y las leyes le otorguen.
 
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
@@ -549,15 +561,9 @@ VI.- Las demás que establezcan ésta Constitución y las leyes que de ella eman
 
 ###### ARTICULO 23°.
 
-El poder público del Estado se divide para su ejercicio en Legislativo, Ejecutivo y Judicial.
+El Poder Público del Estado se divide para su ejercicio en Legislativo, Ejecutivo y Judicial.
 
-> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
-
-La renovación periódica de los poderes legislativo y ejecutivo se realizará mediante la elección popular a través del voto universal, libre, secreto, personal y directo.
-
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
-
-Nunca podrán reunirse más de una de estas funciones en una persona o grupo de personas ni depositarse el Legislativo en un individuo. Es obligación de los distintos órganos, sus organismos y empresas descentralizadas, instituir y ampliar sus relaciones de colaboración y coordinación para el cumplimiento eficaz de sus respectivas funciones y rendir cuentas del ejercicio presupuestal que les competa ante la Legislatura, quedando sujetos a las sanciones por incumplimiento que las leyes establezcan.
+Nunca podrán reunirse más de una de estas funciones en una persona o grupo de personas, ni depositarse el Legislativo en un individuo.
 
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
@@ -581,17 +587,17 @@ La Comisión Permanente, es el órgano electo por el Pleno de la Legislatura en 
 
 Las facultades y obligaciones de la Comisión Permanente son:
 
-> <small>(REFORMADA, P. O. 3 DE ENERO DE 1991)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2006)</small>
 
-I.- Conocer y desahogar los asuntos que no sean de competencia exclusiva del pleno de la Legislatura;
+I.- Conocer y desahogar los asuntos que no sean de competencia exclusiva del Pleno de la Legislatura y ordenar el turno a Comisión para su estudio y dictamen de las iniciativas de ley, decreto o acuerdo que se reciban fuera de los periodos ordinarios;
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2006)</small>
 
-II.- En los casos previstos por esta Constitución, acordar por si o a petición del Ejecutivo, la convocatoria a periodo extraordinario, determinando la fecha para el mismo;
+II.- En los casos previstos por esta Constitución; acordar por sí o a petición del Ejecutivo, la convocatoria a período extraordinario, determinando la fecha para el mismo mediante decreto. Asimismo podrá adicionar o derogar algún asunto del decreto respectivo cuando así convenga;
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2006)</small>
 
-III.- Si después del tercer día de comunicar al Gobernador del Estado el decreto respectivo, éste no lo hubiere cumplimentado, el diputado presidente hará circular la convocatoria para que sesione la Legislatura en periodo extraordinario;
+III.- El Gobernador del Estado publicará el decreto respectivo, en un término no mayor de tres días hábiles, sin que sea impedimento para emitir y girar las convocatorias correspondientes a las sesiones extraordinarias;
 
 > <small>(REFORMADA, P. O. 3 DE ENERO DE 1991)</small>
 
@@ -649,39 +655,49 @@ La Legislatura reunida en periodo extraordinario de sesiones sólo se ocupará d
 
 #### SECCIÓN SEXTA. DE LA CONTADURÍA MAYOR DE HACIENDA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
-
-###### ARTICULO 47º.
-
-Para efectos de que se cumplan las facultades de la Legislatura en materia hacendaria de fiscalización y control de la administración pública centralizada, y descentralizada estatal y municipal y de los organismos públicos autónomos, y para la aplicación de sanciones que imponga la Legislatura, habrá una Contaduría Mayor de Hacienda. La Ley determinará su estructura, funciones y competencia.
-
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
-
-La Contaduría Mayor de Hacienda es el órgano de asesoría técnica de la Comisión de Hacienda.
-
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
-
-Corresponde a la Legislatura designar al Contador Mayor de Hacienda.
-
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2006)</small>
 
 ###### ARTICULO 47°.
 
-Para efectos de que se cumplan las facultades de la Legislatura en materia hacendaría, habrá una Contaduría Mayor de Hacienda. La ley determinará su estructura, funciones y competencia.
+La Entidad Superior de Fiscalización del Estado dependerá jerárquicamente del Poder Legislativo y tendrá personalidad jurídica y patrimonio propio de conformidad con la ley, además contará con autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga su ley orgánica y las demás leyes aplicables. La función de fiscalización será ejercida conforme a los principios de posterioridad, legalidad, imparcialidad y confiabilidad.
 
-La Contaduría Mayor de Hacienda es el órgano de asesoría técnica de la Comisión Inspectora de Hacienda.
+La Entidad Superior de Fiscalización del Estado será autoridad en la materia, independiente en sus decisiones y profesional en su desempeño y tendrá a su cargo primordialmente:
 
-Corresponde a la Legislatura designar al Contador Mayor de Hacienda.
+I.- Fiscalizar, en forma posterior, los ingresos y egresos; el manejo, la custodia y la aplicación de fondos y recursos de los Poderes del Estado, los Municipios, los organismos constitucionales autónomos, los organismos públicos descentralizados, empresas de participación estatal y municipal, los fideicomisos y en general cualquier persona física o moral, que recaude, administre, maneje o ejerza recursos públicos, así como el cumplimiento de los objetivos contenidos en los programas federales, estatales y municipales.
+
+II.- Entregar el informe del resultado de la revisión de la Cuenta Pública a la Legislatura del Estado, dentro del plazo que establezca la ley. Dentro de dicha información se incluirán los dictámenes de su revisión y el apartado correspondiente a la fiscalización y verificación del cumplimiento de los programas, que comprenderá los comentarios y observaciones de los auditados, mismos que tendrán carácter público.
+
+La Entidad Superior de Fiscalización del Estado deberá guardar reserva de sus actuaciones y observaciones hasta que rinda los informes a que se refiere este artículo; la ley orgánica establecerá las sanciones aplicables a quienes infrinjan esta disposición.
+
+III.- Investigar los actos y omisiones que impliquen una irregularidad o conducta ilícita en el ingreso, egreso, manejo, registro, custodia y aplicación de fondos y recursos federales, estatales y municipales y efectuar visitas domiciliarias, únicamente para exigir la exhibición de libros, papeles, bases de datos o archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas para los cateos.
+
+IV.- Determinar los daños y perjuicios que afecten a la Hacienda Pública Federal, Estatal y Municipal o al patrimonio de los entes públicos estatales y municipales en los términos de la ley reglamentaria, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades; promover las acciones de responsabilidad a que se refiere el Título Séptimo de esta Constitución y presentar las denuncias y querellas penales, en cuyos procedimientos tendrá la intervención que señale la ley.
+
+La Legislatura del Estado designará al titular de la Entidad Superior de Fiscalización del Estado por el voto de las dos terceras partes de sus integrantes. Dicho titular durará en su encargo seis años y podrá ser nombrado nuevamente por una sola vez. Podrá ser removido, exclusivamente, por las causas señaladas en el Título Séptimo de esta Constitución con la misma votación requerida para su nombramiento y conforme a los procedimientos que la ley prevea.
+
+Para ser titular de la Entidad Superior de Fiscalización del Estado se requiere:
+
+a) Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos; tener cuando menos treinta años cumplidos al día de su designación;
+
+b) Poseer al día de su designación con antigüedad mínima de cinco años, título profesional de licenciatura afín a las funciones de la Entidad;
+
+c) Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena privativa de libertad de más de un año de prisión; pero si se tratare de falsificación o delito patrimonial u otro que lastime seriamente la buena fama en el concepto público, el aspirante no podrá ser electo para el cargo, cualquiera que haya sido la pena;
+
+Durante el ejercicio de su encargo y tres años anterior a su designación el titular de la Entidad no podrá formar parte de ningún partido político, ni haber sido dirigente o candidato de elección popular. Tampoco podrá, durante su encargo, desempeñarse en otro empleo, cargo o comisión, salvo las asociaciones científicas, docentes, artísticas o de beneficencia.
+
+Los Poderes del Estado y los sujetos de fiscalización estarán obligados, en los términos de ley, a rendir cuentas del ejercicio presupuestal que corresponda ante la Entidad Superior de Fiscalización del Estado, así como a facilitar los auxilios que requiera la misma para el ejercicio de sus funciones.
+
+El Poder Ejecutivo aplicará el procedimiento administrativo de ejecución para el cobro de las indemnizaciones y sanciones pecuniarias a que se refiere la fracción IV del presente artículo.
 
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
-###### ARTICULO 25.
+###### ARTICULO 25°.
 
 La Legislatura del Estado, se integrará con quince diputados electos según el principio de mayoría relativa, mediante el sistema de distritos uninominales y diez diputados que serán electos según el principio de representación proporcional, en las circunscripciones plurinominales que determine la ley y que aseguren la representación proporcional.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2006)</small>
 
-La demarcación territorial de los distritos uninominales se determinará tomando en cuenta factores geográficos, demográficos y socioeconómicos de las distintas regiones y localidades del Estado.
+La demarcación territorial de los distritos uninominales se determinará tomando en cuenta la información oficial geográfica, demográfica y socioeconómica de las distintas regiones y localidades del Estado.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
 
@@ -713,13 +729,7 @@ Los diputados en ejercicio, durante el periodo de su encargo, no podrán desempe
 
 Se exceptúan de ésta prohibición los cargos educativos y asistenciales.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
-
-###### ARTICULO 28º.
-
-La legislatura del Estado, emitirá decreto donde declare gobernador electo, de conformidad a la declaratoria de validez que emita el Consejo General del Instituto Electoral de Querétaro, una vez que realice el cómputo final de la elección, o en cumplimiento a la resolución de la autoridad jurisdiccional competente en materia electoral.
-
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2006)</small>
 
 ###### ARTICULO 27°.
 
@@ -729,27 +739,25 @@ Se exceptúan de ésta prohibición los cargos educativos y asistenciales.
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
 
-###### ARTICULO 28.
+###### ARTICULO 28°.
 
-La Legislatura del Estado se constituirá en Colegio Electoral para calificar la elección del Gobernador del Estado.
+La Legislatura del Estado expedirá un decreto con el sólo efecto de dar a conocer en toda la entidad, la declaración de gobernador electo o designado que hubiere emitido, en su caso, el Consejo General del Instituto Electoral de Querétaro, la autoridad jurisdiccional competente en la materia o la propia Legislatura.
 
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2006)</small>
 
 ###### ARTICULO 29°.
 
 Los diputados son inviolables por las opiniones que manifiesten en el desempeño de sus funciones.
 
-La Legislatura velará por el respeto al fuero constitucional de los diputados y por la inviolabilidad del recinto donde se reúnan a sesionar.
+La Legislatura velará por el respeto al fuero constitucional de los diputados y la inviolabilidad de sus recintos oficiales.
 
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 30°.
 
-La Legislatura del Estado se instalará el 26 de septiembre del año que corresponda y tendrá durante cada año de ejercicio dos periodos ordinarios de sesiones. El primero se iniciará el 27 de septiembre y concluirá el 31 de diciembre; el segundo se iniciará el día 1° de mayo y terminará el día 31 de julio.
+La Legislatura del Estado se instalará el 26 de septiembre del año que corresponda y tendrá durante cada año de ejercicio dos periodos ordinarios de sesiones. El primero se iniciará el 27 de septiembre y concluirá el 31 de diciembre; el segundo se iniciará el día 1° de abril y terminará el 31 de julio.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 10 DE DICIEMBRE DE 1999)</small>
-
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2006)</small>
 
 ### CAPITULO SEGUNDO. DEL PODER EJECUTIVO
 
@@ -981,19 +989,13 @@ La Ley Orgánica de la Procuraduría General de Justicia establecerá las atribu
 
 ###### ARTICULO 31°.
 
-La Legislatura no podrá instalarse sin la concurrencia de las dos terceras partes del número total de sus miembros. Al abrir, cerrar o prorrogar sus periodos de sesiones lo hará por decreto.
+La Legislatura no podrá instalarse sin la concurrencia de las dos terceras partes del número total de sus miembros. Al iniciar, concluir o prolongar las actividades legislativas en los períodos ordinarios y extraordinarios, respectivamente, se emitirá el Decreto en los términos de ley.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 1994)</small>
-
-###### ARTICULO 32o.
-
-La Legislatura celebrará una sesión pública y solemne el cuarto domingo de julio de cada año a la que acudirá el Titular del Poder Ejecutivo para rendir un informe del estado general que guarde la administración pública. El Presidente de la Legislatura dará contestación al informe, refiriéndose al mismo en términos generales.
-
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+((REFORMADO, P.O. 31 DE ENERO DE 2006)
 
 ###### ARTICULO 32°.
 
-La Legislatura celebrará una sesión pública y solemne el día 25 de julio de cada año a la que acudirá el titular del Poder Ejecutivo para rendir un informe del estado general que guarde la administración pública. El presidente de la Legislatura dará contestación al informe, refiriéndose al mismo en términos generales.
+La Legislatura celebrará una sesión pública y solemne, dentro de los últimos diez días del mes de julio de cada año, a la que acudirá el Titular del Poder Ejecutivo para rendir un informe del estado general que guarde la administración pública. El Presidente de la Legislatura dará contestación al informe, refiriéndose al mismo en términos generales.
 
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
@@ -1025,37 +1027,7 @@ V.- Al Consejo General del Instituto Electoral de Querétaro en materia electora
 
 VI. A los ciudadanos en los términos previstos en la Ley.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
-
-###### ARTICULO 34º.
-
-Cuando vaya a discutirse un proyecto de Ley, la Legislatura podrá solicitar al Titular del Ejecutivo, al Tribunal Superior de Justicia, a los Ayuntamientos o al Consejo General del Instituto Electoral de Querétaro, que envíen un representante para que intervenga en los debates.
-
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
-
-###### ARTICULO 35º.
-
-El procedimiento a que se someterán las iniciativas de ley o decreto será el siguiente:
-
-I. Recibida una iniciativa de ley o decreto por la Legislatura, el Presidente ordenará su lectura ante el Pleno y lo turnará, para su estudio y dictamen, a la comisión de dictamen respectiva;
-
-II. La Comisión que conozca, emitirá por escrito el dictamen que proceda dentro del plazo que señala esta Ley, mismo al que se le dará lectura ante el Pleno;
-
-III. En caso de que el dictamen proponga adecuaciones a una iniciativa, el Presidente ordenará a un Secretario, la notificación inmediata de tal dictamen al autor de la misma para que si así desea hacerlo presente por escrito, antes de la siguiente sesión de la H. Legislatura, las consideraciones que le convengan;
-
-IV. En la sesión siguiente a la lectura del dictamen, el Presidente de la Mesa Directiva, ordenará en caso que existan consideraciones del autor de la iniciativa en los términos de la fracción que antecede, la lectura de estas para conocimiento del pleno y someterá por medio de un Secretario a discusión el dictamen de referencia, agotada la cual, lo someterá a votación nominal. Cuando lo acuerde el Pleno, podrá someterse a discusión y a votación un dictamen en la misma sesión en la que se le dio lectura;
-
-V. Aprobado un proyecto en el Pleno de la H. Legislatura se remitirá al Ejecutivo quien, si no tuviere observaciones que hacer, lo publicará inmediatamente;
-
-VI. Si la iniciativa es rechazada, el Presidente ordenará comunicar por escrito esta circunstancia a quienes lo hubieran presentado con las observaciones correspondientes;
-
-VII. Se reputará aprobado por el Poder Ejecutivo toda ley o decreto no devuelto con observaciones a la H. Legislatura, dentro de los diez días hábiles siguientes a la comunicación que se señala en la fracción que antecede;
-
-VIII. El Poder Ejecutivo, podrá rechazar la publicación de una ley o decreto, devolviéndola con observaciones a la H. Legislatura, y se someterá de nueva cuenta al procedimiento legislativo, requiriéndose para su aprobación el voto de la mayoría de sus miembros, en cuyo caso el Poder Ejecutivo estará obligado a su promulgación y publicación;
-
-IX. Si una iniciativa de ley es rechazada en todo o en parte, no podrá presentarse nuevamente sino hasta un nuevo periodo ordinario de sesiones.
-
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2006)</small>
 
 ### CAPITULO TERCERO. DEL PODER JUDICIAL
 
@@ -1197,9 +1169,9 @@ Cuando un juez advierta que una norma legal puede resultar injusta, podrá prese
 
 ###### ARTICULO 34°.
 
-Cuando vaya a discutirse un proyecto de ley, la Legislatura podrá solicitar al titular del Ejecutivo, al Tribunal Superior de Justicia o a los Ayuntamientos que envíen un representante, si lo juzgan conveniente, para que intervengan en los debates.
+Cuando se discuta una iniciativa, la Legislatura podrá solicitar a los titulares de los Poderes Ejecutivo y Judicial, a los Ayuntamientos del Estado, u organismos autónomos, que envíen un representante para que intervengan en los trabajos de estudio y dictamen.
 
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2006)</small>
 
 ## TITULO TERCERO. DEL PODER PÚBLICO
 
@@ -1227,29 +1199,41 @@ Los magistrados del Tribunal de lo Contencioso Administrativo serán designados 
 
 ###### ARTICULO 35°.
 
-Aprobado un proyecto de ley o decreto por la Legislatura pasará al Ejecutivo para que haga las observaciones que considere.
+El procedimiento a que someterán las iniciativas y dictámenes de ley, decreto o acuerdo, será el siguiente:
 
-Desechada una iniciativa no podrá volver a presentarse en el mismo periodo de sesiones; pero alguno o algunos de los artículos del proyecto de ley o decreto pueden formar parte de otra iniciativa y podrán ser analizados en el debate.
+I.- Presentada ante la Legislatura, una iniciativa de ley, decreto o acuerdo, el presidente dará cuenta al Pleno de la Legislatura y ordenará el turno para su estudio y dictamen, a la comisión respectiva, salvo las iniciativas que se tramiten por urgencia u obvia resolución o asuntos que no se encontraran integrados en el orden del día, mismos que deberán leerse en su totalidad ante el Pleno;
 
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+II.- La Comisión que conozca, emitirá por escrito el dictamen que proceda dentro del plazo que señala la Ley, dándose cuenta al Pleno;
+
+III.- Enseguida se someterá, por medio de un Secretario, a discusión, el dictamen respectivo, agotada la cual, se someterá a votación, en los términos de Ley. Cuando lo acuerde el Pleno, podrá someterse a discusión y a votación una iniciativa en la misma sesión en la que se le dio lectura, cuando se califique de urgente u obvia resolución;
+
+IV.- Aprobada una iniciativa por el Pleno de la Legislatura se emitirá el proyecto correspondiente y previo trámite de Ley, se remitirá al Ejecutivo quien, si no tuviere observaciones que hacer, lo publicará inmediatamente;
+
+V.- Si la iniciativa es rechazada, el Presidente ordenará comunicar por escrito esta circunstancia a su autor;
+
+VI.- Se considera Ley, Decreto o Acuerdo todo proyecto no devuelto por el Poder Ejecutivo con observaciones a la Legislatura, dentro de los diez días hábiles siguientes a su recepción; y
+
+VII.- El Poder Ejecutivo, podrá rechazar la publicación de un proyecto de ley, decreto o acuerdo, devolviéndola con observaciones a la Legislatura, y se someterá de nueva cuenta al procedimiento legislativo, requiriéndose para su aprobación el voto de las dos terceras partes de sus miembros, en cuyo caso el Poder Ejecutivo estará obligado a su promulgación y publicación.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2006)</small>
 
 ###### ARTICULO 36°.
 
-Se reputará aprobado por el Ejecutivo todo proyecto de ley o decreto no devuelto con observaciones a la Legislatura, dentro de diez días hábiles.
+El Poder Ejecutivo, deberá publicar todo proyecto de ley, decreto o acuerdo que no haya observado, en un plazo no mayor de diez días hábiles.
 
-> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
+La Ley Orgánica del Poder Legislativo y las disposiciones reglamentarias de éste, para su vigencia y validez no requerirán la promulgación, ni publicación del Poder Ejecutivo.
 
-La Ley Orgánica del Poder Legislativo y las disposiciones reglamentarias de éste, no requerirán la promulgación, ni publicación del Poder Ejecutivo.
-
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2006)</small>
 
 ###### ARTICULO 37°.
 
-El proyecto de ley o decreto desechado en todo o en parte por el Ejecutivo será devuelto con observaciones a la Legislatura. Deberá ser discutido de nuevo y si fuere confirmado por las dos terceras partes del número total de votos, se declarará ley o decreto, en su caso, y volverá otra vez al Ejecutivo para su promulgación y publicación.
+Todo proyecto que haya sido observado por el Poder Ejecutivo y que sea confirmado por las dos terceras partes de la Legislatura, se declarará Ley, Decreto o Acuerdo, en su caso, y se remitirá al Ejecutivo para su promulgación y publicación. En caso que el Poder Ejecutivo no realice la publicación respectiva, en un plazo no mayor de diez días hábiles, el Poder Legislativo ordenará su publicación en los principales medios escritos de comunicación y circulación estatal, surtiendo ésta plenos efectos legales.
 
-Las votaciones de las leyes o decretos serán siempre nominales.
+Las votaciones de las leyes o decretos serán siempre nominales y tratándose de acuerdos serán económicas, excepto en los casos en que la Ley establezca otro modo.
 
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+Cuando la Legislatura participe en el procedimiento a que se refiere el artículo 135 de la Constitución Política de los Estados Unidos Mexicanos, la resolución que adopte se tomará por mayoría de votos de sus integrantes y deberá expresarse solamente a favor o en contra, pero las razones que la justifiquen podrán comunicarse al Congreso de la Unión con el acuerdo que se expida.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2006)</small>
 
 ## TITULO CUARTO. DE LOS TRIBUNALES DE LO CONTENCIOSO ADMINISTRATIVO, DE JUSTICIA ELECTORAL Y DE CONCILIACION Y ARBITRAJE
 
@@ -1267,15 +1251,13 @@ Las votaciones de las leyes o decretos serán siempre nominales.
 
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
-###### ARTICULO 38°.
+###### Artículo 38.
 
-En la interpretación, reforma, adición o derogación de una ley o decreto se observarán los mismos trámites establecidos para su formación.
+En la interpretación, reforma, adición o derogación de una ley, decreto o acuerdo, se observarán los mismos trámites establecidos para su formación.
 
-> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
+A la Legislatura le corresponde declarar sobre la naturaleza de sus resoluciones, cuando se dudare de ella.
 
-A la H. Legislatura le corresponde declarar sobre la naturaleza de sus resoluciones, cuando se dudare de ella.
-
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2006)</small>
 
 ### CAPITULO TERCERO. DEL TRIBUNAL DE CONCILIACIÓN Y ARBITRAJE
 
@@ -1443,37 +1425,17 @@ c) Los ingresos derivados de la prestación de servicios públicos a su cargo.
 
 Las leyes estatales no establecerán exenciones o subsidios en favor de persona o institución alguna respecto de dichas contribuciones. Estarán exentos los bienes de dominio público de la Federación, del Estado o los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2006)</small>
 
-###### ARTICULO 87º.
+###### ARTICULO 87°.
 
-Los ayuntamientos, en el ámbito de su competencia, propondrán a la Legislatura del Estado, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
+Los Ayuntamientos, en el ámbito de su competencia, propondrán a la Legislatura del Estado, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
 
-La Legislatura del Estado aprobará las leyes de ingresos de los Municipios, revisará y fiscalizará sus cuentas públicas. Los ayuntamientos deberán presentar el estado que guarde su cuenta pública a la Legislatura del Estado por conducto de la Contaduría Mayor de Hacienda. Los presupuestos de egresos serán aprobados por los ayuntamientos con base en sus ingresos disponibles.
+La Legislatura del Estado aprobará las leyes de ingresos de los Municipios, revisará y fiscalizará sus cuentas públicas. Los Ayuntamientos deberán presentar el estado que guarde su cuenta pública a la Legislatura del Estado por conducto de la Entidad Superior de Fiscalización del Estado. Los presupuestos de egresos serán aprobados por los ayuntamientos con base en sus ingresos disponibles.
 
 Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los ayuntamientos o bien, por quien ellos autoricen, conforme a la ley.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2000)</small>
-
-###### ARTICULO 87°.
-
-Para ser miembro del ayuntamiento se requiere:
-
-I.- Ser ciudadano mexicano;
-
-II.- Ser vecino de la municipalidad que hace la elección, con residencia efectiva de cinco años anteriores al día de la elección;
-
-III.- Estar en pleno goce de sus derechos civiles y políticos;
-
-IV.- Ser mayor de 21 años;
-
-V.- No desempeñar ningún cargo público en el que ejerzan funciones de autoridad en el municipio en que se haga la elección, ni pertenecer al ejército permanente, ni tener mando de fuerzas en el mismo municipio, a menos que en todos éstos casos se separe definitivamente en su empleo o cargo noventa días antes de la elección;
-
-VI.- No ser ministro de algún culto religioso; y
-
-VII.- Tener un modo honesto de vivir.
-
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 88º.
 
@@ -1705,21 +1667,25 @@ Esta Constitución no perderá su fuerza y su vigor aun cuando por cualquier cau
 
 Cuando se declaren desaparecidos los Poderes Legislativo y Ejecutivo del Estado, los magistrados del Tribunal Superior de Justicia, por mayoría de votos, nombrarán gobernador provisional. Si desaparecieren los tres poderes, será gobernador por ministerio de ley el último Presidente del Tribunal Superior de Justicia; a falta de éste, y en orden regresivo, los diputados presidentes de la Legislatura anterior a la desconocida.
 
-###### ARTICULO 39.
+###### ARTICULO 39°.
 
-El Ejecutivo del Estado, no puede hacer observaciones a las resoluciones de la Legislatura, cuando realice alguna de las atribuciones que le concede el Título Séptimo de esta Constitución o cuando se trate de la Ley Orgánica de la H. Legislatura y las disposiciones reglamentarias sobre su funcionamiento.
+El Poder Ejecutivo no podrá realizar observaciones a las siguientes resoluciones de la Legislatura:
 
-Tampoco podrá hacer observaciones a los decretos o convocatorias de período de sesiones de la Legislatura y para celebrar elecciones.
+I.- Las relativas a los actos de su competencia en materia de juicio político y declaración de procedencia;
 
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+II.- Las que se refieren a las normas que definen la organización y régimen interno del Poder Legislativo y sus disposiciones reglamentarias; y
+
+III.- Las que convoquen a elecciones extraordinarias y a sesiones de la Legislatura.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2006)</small>
 
 ###### ARTICULO 40°.
 
 Las resoluciones de la Legislatura no tendrán otro carácter que el de ley, decreto o acuerdo.
 
-Las iniciativas adquirirán el carácter de ley cuando sean aprobadas por la Legislatura y promulgadas por el Ejecutivo.
+Las iniciativas adquirirán el carácter de Ley cuando sean aprobadas por la Legislatura y promulgadas y publicadas por el Ejecutivo o en su caso por el Poder Legislativo.
 
-Si la ley no fijare el día en que deba comenzar a observarse, será obligatoria desde el día siguiente al de su publicación en el periódico oficial del Gobierno del Estado.
+Si la ley no señala el día en que deba comenzar a observarse, será obligatoria desde el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado, o en los casos de excepción que señala esta Constitución.
 
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
@@ -2214,3 +2180,15 @@ SEXTO. Se deja en suspenso la vigencia de la fracción IV del artículo 70 de la
 P.O. 28 DE OCTUBRE DE 2005
 
 ÚNICO: Las disposiciones relativas a la duración del cargo de magistrados y jueces serán aplicables a los nombramientos hechos posteriormente a la entrada en vigor de las presentes reformas, por lo que aquellos que actualmente ocupen los cargos lo harán en los términos establecidos al momento de su designación o ratificación.
+
+P.O. 31 DE ENERO DE 2006.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga", una vez verificado el procedimiento a que se refiere el artículo 103 de la Constitución Política del Estado Libre y Soberano de Querétaro Arteaga.
+
+SEGUNDO. La Legislatura del Estado tendrá 30 hábiles contados a partir del inicio de vigencia de la presente Ley para expedir la Ley Reglamentaria de la Entidad Superior de Fiscalización.
+
+TERCERO. Una vez que entre en vigor la Ley reglamentaria de la Entidad, el personal administrativo y los recursos materiales y financieros de que actualmente dispone la Contaduría Mayor de Hacienda de la Legislatura del Estado, pasarán a formar parte de esta Entidad Superior de Fiscalización, observándose en lo conducente las disposiciones de la Ley para la entrega-recepción administrativa en el Estado de Querétaro.
+
+La Legislatura, una vez que entre en vigor la ley reglamentaria de la Entidad, designará conforme a los procedimientos y requisitos señalados en el texto constitucional y legal al titular de la Entidad Superior de Fiscalización del Estado.
+
+Las reformas realizadas a los artículos 41 fracciones XV y XXV, 47 y 87 por la presente Ley, entrarán en vigor una vez que inicie su vigencia la Ley reglamentaria de la Entidad.
