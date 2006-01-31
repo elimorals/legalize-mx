@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-3094
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-08"
-last_updated: "2005-12-26"
+last_updated: "2006-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30942&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-24"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE ENERO DE 2006.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 8 de mayo de 2003.
 
@@ -1248,9 +1248,9 @@ La cuenta pública del Instituto será revisada por la Contaduría Mayor de Haci
 
 PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2006)</small>
 
-SEGUNDO.- La designación de los cinco Comisionados Ciudadanos, así como del Presidente del Instituto de Acceso a la Información Pública del Distrito Federal, deberá tener lugar a más tardar el treinta y uno de enero del año dos mil seis, de conformidad con las bases que al efecto emita la Comisión de Administración Pública Local, de la Asamblea Legislativa del Distrito Federal, III Legislatura.
+SEGUNDO.- La designación de los cinco Comisionados Ciudadanos, así como del Presidente del Instituto de Acceso a la Información Pública del Distrito Federal, deberá tener lugar a más tardar el treinta y uno de marzo del año dos mil seis, de conformidad con las bases que al efecto emita la Comisión de Administración Pública Local, de la Asamblea Legislativa del Distrito Federal, III Legislatura.
 
 TERCERO.- Las personas podrán ejercer los derechos de acceso a la información pública y de protección de datos personales, sesenta días después de la integración del Consejo de Información Pública del Distrito Federal.
 
@@ -1327,5 +1327,11 @@ DUODÉCIMO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su may
 G.O. 26 DE DICIEMBRE DE 2005.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 31 DE ENERO DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
