@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2006-01-25"
+last_updated: "2006-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-11"
 
 NUEVO CODIGO PENAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 25 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE FEBRERO DE 2006.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -2156,7 +2156,9 @@ II. Ropas u objetos en tal forma que puedan causar graves daños personales;
 
 III. Archivos públicos o notariales;
 
-IV. Bibliotecas, museos, templos, escuelas o edificios y monumentos públicos; o
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 1 DE FEBRERO DE 2006)</small>
+
+IV. Bibliotecas, museos, templos, escuelas o edificios, monumentos públicos y aquellos bienes que hayan sido declarados como patrimonio cultural; o
 
 V. Montes, bosques, selvas, pastos, mieses o cultivos de cualquier género.
 
@@ -3669,3 +3671,11 @@ PRIMERO. Remítase al Jefe de Gobierno del Distrito Federal para su respectiva p
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 TERCERO. Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 1 DE FEBRERO DE 2006.
+
+PRIMERO.- Túrnese al Jefe de Gobierno del Distrito Federal para su promulgación y publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Se derogan todas las disposiciones que contravengan lo dispuesto por el presente decreto.
