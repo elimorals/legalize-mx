@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interno-de-la-comision-estatal-de-derechos-17929"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-08-23"
-last_updated: "2000-08-23"
+last_updated: "2006-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # REGLAMENTO INTERNO DE LA COMISION ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE MORELOS
 
-REGLAMENTO INTERNO DE LA COMISION ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE MORELOS
+REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 23 de agosto de 2000.
 
@@ -185,6 +185,30 @@ El Presidente de la Comisión podrá delegar en los Visitadores la facultad de p
 
 Los Visitadores serán los responsables inmediatos de dirigir la investigación de las quejas que se presenten.
 
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2006)</small>
+
+###### Artículo 29 Bis.
+
+Corresponde a los visitadores acordar con el Presidente de la Comisión Estatal de Derechos Humanos, el seguimiento a las recomendaciones y solicitudes que emitan, con base en el siguiente trámite.
+
+I.- Computar los términos de aceptación y cumplimiento, en su caso, de las recomendaciones;
+
+II.- Verificar el cabal cumplimiento de las recomendaciones dictando acuerdo.
+
+Practicando diligencias y realizando gestiones ante las autoridades involucradas en la misma, dando cuenta de ello al Presidente;
+
+III.- Proporcionar al quejoso la orientación correspondiente para la interposición del recurso de impugnación en caso de no aceptación, insuficiente cumplimiento o no cumplimento de recomendación;
+
+IV.- Interpuesto el recursos (sic) de impugnación, darle el trámite de ley, remitiéndolo a la Comisión Nacional de Derechos Humanos;
+
+V.- Dar seguimiento a las resoluciones dictadas por la Comisión Nacional de Derechos Humanos en materia de recomendaciones;
+
+VI.- Dar trámite a las inconformidades que con motivo de la integración de los expedientes o conclusión de estos se presenten;
+
+VII.- Reportar mensualmente al Presidente el seguimiento de las recomendaciones; y
+
+VIII.- Las demás funciones inherentes al seguimiento y trámite de recomendaciones o recursos, así como aquellas que le instruya el presidente.
+
 ### CAPÍTULO IV. DE LA SECRETARÍA EJECUTIVA
 
 ###### Artículo 30.
@@ -213,11 +237,13 @@ Asimismo, con las unidades administrativas que para el eficiente desempeño de l
 
 ### CAPÍTULO VI. DE LAS VISITADURÍAS REGIONALES
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2006)</small>
+
 ###### Artículo 33.
 
-Con la finalidad de acercar los servicios que por mandato legal le corresponde brindar a la Comisión, se establecerán las Visitadurías Regionales que se estimen convenientes, las cuales conocerán en principio de las quejas por presuntas violaciones a derechos humanos, así como el desarrollar las acciones de orientación y promoción y de los derechos fundamentales, a los habitantes de los municipios que se encuentren en un radio cercano a su ubicación.
+Con la finalidad de acercar los servicios que por mandato legal le corresponde brindar a la Comisión, se establecerán las Vistadurías (sic) Regionales que se estimen convenientes, las cuales conocerán en principio de las quejas por presuntas violaciones a derechos humanos, así como el desarrollar las acciones de orientación y promoción y de los derechos fundamentales, a los habitantes de los municipios que se encuentren en un radio cercano a su ubicación. Independientemente que el Presidente del organismo, podrá acordar el seguimiento de cualquier queja particular en las oficinas sede.
 
-Independientemente que el Presidente del organismo, podrá acordar el seguimiento de cualquier queja en particular en las oficinas sede.
+Corresponde a los titulares de las visitadurías el seguimiento a las recomendaciones proyectadas por los mismos y aprobadas por el Presidente de la Comisión, ajustándose a lo dispuesto en el artículo 29 bis.
 
 ### CAPÍTULO VII. DE LA DIRECCIÓN DE QUEJAS Y ORIENTACIÓN
 
@@ -237,23 +263,7 @@ IV.- Las demás funciones inherentes, así como las que le asigne el Presidente.
 
 ###### Artículo 35.
 
-La Dirección de Seguimiento de Recomendaciones depende directamente del Presidente, y le corresponderán las atribuciones siguientes:
-
-I.- Computar los términos de aceptación y cumplimiento, en su caso, de las recomendaciones;
-
-II.- Verificar el cabal cumplimiento de las recomendaciones dictando acuerdos. Practicando diligencias y realizando gestiones ante las autoridades involucradas en la misma, dando cuenta de ello al Presidente;
-
-III.- Proporcionar al quejoso la orientación correspondiente para la interposición del recurso de impugnación en caso de no aceptación, insuficiente cumplimiento o no cumplimiento de la recomendación;
-
-IV.- Interpuesto el Recurso de Impugnación, darle el trámite de Ley, remitiéndolo a la Comisión Nacional de Derechos Humanos;
-
-V.- Dar seguimiento a las resoluciones dictadas por la Comisión Nacional de Derechos Humanos en materia de recomendaciones;
-
-VI.- Dar tramite a las inconformidades que con motivo de la integración de los expedientes o conclusión de estos se presenten;
-
-VII.- Reportar mensualmente al Presidente el seguimiento de las recomendaciones; y
-
-VIII.- Las demás funciones inherentes al seguimiento y trámite de recomendaciones o recursos, así como aquellas que le instruya el Presidente.
+(DEROGADO, P.O. 1 DE FEBRERO DE 2006)
 
 ### CAPÍTULO IX. DE LA DIRECCIÓN ADMINISTRATIVA
 
@@ -630,3 +640,9 @@ PRESIDENTE DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS Y PRESIDENTE DEL CONS
 DR. JOSÉ FRANCISCO CORONATO RODRÍGUEZ
 
 RÚBRICAS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE FEBRERO DE 2006.
+
+> <small>[N. DE E. EL “ACUERDO DEL H. CONSEJO CONSULTIVO DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DE MORELOS, POR EL QUE SE ADICIONA EL ARTÍCULO 29 BIS Y SE REFORMA EL ARTÍCULO 33 Y SE DEROGA EL 35 DEL REGLAMENTO INTERNO DEL ORGANISMO”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 7 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS.]</small>
