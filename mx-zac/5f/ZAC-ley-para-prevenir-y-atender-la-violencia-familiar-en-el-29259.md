@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-prevenir-y-atender-la-violencia-familiar-en-el-29259"
 country: "mx"
 rank: "ley"
 publication_date: "2003-02-19"
-last_updated: "2003-02-19"
+last_updated: "2006-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29259&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY PARA PREVENIR Y ATENDER LA VIOLENCIA FAMILIAR EN EL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE FEBRERO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el miércoles 19 de febrero de 2003.
 
@@ -79,15 +79,25 @@ LEY PARA PREVENIR Y ATENDER LA VIOLENCIA FAMILIAR EN EL ESTADO DE ZACATECAS
 
 Las disposiciones de la presente Ley son de orden público e interés social, tienen por objeto establecer las bases y procedimientos para prevenir y sancionar la violencia familiar en el Estado de Zacatecas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE FEBRERO DE 2006)</small>
+
 ###### Artículo 2.
 
-Para los efectos de esta Ley, se entiende por violencia familiar, todo acto de poder u omisión intencional, recurrente o cíclico, dirigido a dominar, someter, controlar o agredir física, verbal, psicoemocional o sexualmente a cualquier miembro de la familia dentro o fuera del domicilio familiar, que tengan parentesco o lo hayan tenido por afinidad, civil, matrimonio, concubinato o mantengan una relación de hecho, y que tiene por efecto causar daño. Sus modalidades son las siguientes:
+Para los efectos de esta ley, se entiende por violencia familiar, el uso de la fuerza física o moral, así como omisiones graves que se ejerzan contra una (sic) miembro de la familia por otro integrante de la misma, que atente contra su integridad física, psicoemocional o sexual; ya sea que, se realicen dentro o fuera del domicilio conyugal y se produzcan o no lesiones. Sus modalidades son las siguientes:
 
-I. Maltrato Físico. Todo acto de agresión intencional en el que se utilice alguna parte del cuerpo, algún objeto, arma o sustancia para sujetar, inmovilizar o causar daño a la integridad física del otro, encaminado hacia su sometimiento y control;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2006)</small>
 
-II. Maltrato Psicoemocional.- Al patrón de conducta consistente en actos u omisiones repetitivos, cuyas formas de expresión pueden ser: prohibiciones, coacciones, condicionamientos, intimidaciones, amenazas, actitudes devaluatorias, o de abandono y que provoquen en quien las recibe, deterioro, disminución o afectación a su estructura de personalidad. Todo acto que se compruebe que ha sido realizado con la intención de causar un daño moral a un menor de edad, será considerado maltrato emocional en los términos de este artículo, aunque se argumente como justificación la educación y formación del menor;
+I. Maltrato Físico: Toda agresión en la que se utilice cualquier objeto o arma, o se haga uso de alguna parte del cuerpo, para sujetar o lesionar físicamente a otro; así como el uso de sustancias para inmovilizarle, atentando contra su integridad física, y que tienen por objeto lograr su sometimiento y control.
 
-III. Maltrato Sexual.- Al patrón de conducta consistente en actos u omisiones reiteradas y cuyas formas de expresión pueden ser: inducir a la realización de prácticas sexuales no deseadas o que generen dolor, practicar la celotipia para el control, manipulación o dominio de la pareja y que generen un daño.
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2006)</small>
+
+II. Maltrato Psicoemocional: Comportamiento consistente en acciones reiteradas, cuyas formas de expresión pueden ser prohibiciones, coacciones, condicionamientos, intimidaciones, amenazas, sevicia, humillaciones, celotipia, conductas de abandono; así como omisiones, que provoquen en quien las recibe, menoscabo, detrimento, disminución o afectación de la personalidad.
+
+Se considera maltrato psicoemocional, toda acción u omisión mediante la que se intente causar daño psicológico a un menor de edad, o se empleen medidas inadecuadas para reprenderlo, aunque se argumente como justificación la educación y formación del menor, en el uso del derecho de corregir.
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2006)</small>
+
+III. Maltrato sexual: Conducta consistente en la agresión física o moral, u hostigamiento, para obligar o inducir a la realización de prácticas sexuales no deseadas o que generen dolor.
 
 Cuando la violencia familiar implique la comisión de un delito, se estará a lo dispuesto por el Código Penal del Estado, que tipifica y sanciona los delitos contra el orden de la familia.
 
@@ -592,3 +602,11 @@ DR. RICARDO MONREAL AVILA.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. TOMAS TORRES MERCADO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 1 DE FEBRERO DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
