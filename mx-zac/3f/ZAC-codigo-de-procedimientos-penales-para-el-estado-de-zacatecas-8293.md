@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-procedimientos-penales-para-el-estado-de-zacatecas-82
 country: "mx"
 rank: "codigo"
 publication_date: "1967-07-19"
-last_updated: "2005-12-28"
+last_updated: "2006-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8293&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE FEBRERO DE 2006.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el 19 de julio de 1967.
 
@@ -2341,39 +2341,39 @@ III.- Asociación Delictuosa. Prevista en el Artículo 141;
 
 > <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
 
-IV.- Ataques a las Vías de Comunicación. Prevista en el Artículo 152.
+IV.- Ataques a las Vías de Comunicación. Prevista en el Artículo 152;
 
 > <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
 
-V.- Terrorismo. Previsto en los Artículos 169 y 170.
+V.- Terrorismo. Previsto en los Artículos 169 y 170;
 
 > <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
 
-VI.- Corrupción de Menores.- Previsto en los Artículos 183 y 185.
+VI.- Corrupción de Menores.- Previsto en los Artículos 183 y 185;
 
 > <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
 
-VII.- Violación. Previsto en los Artículos 236 y 237.
+VII.- Violación. Previsto en los Artículos 236 y 237;
 
 > <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
 
-VIII.- Asalto. Previsto en los Artículos 263 y 264.
+VIII.- Asalto. Previsto en los Artículos 263 y 264;
 
 > <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
 
-IX.- Plagio. Previsto en el Artículo 266.
+IX.- Plagio. Previsto en el Artículo 266;
 
 > <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
 
-X.- Homicidio Doloso. Previsto en los artículos 293 con relación al 297, 298 y 299.
+X.- Homicidio Doloso. Previsto en los artículos 293 con relación al 297, 298 y 299;
 
 > <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
 
-XI.- Parricidio. Previsto en el Artículo 306.
+XI.- Parricidio. Previsto en el Artículo 306;
 
 > <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
 
-XII.- Infanticidio. Previsto en el Artículo 307.
+XII.- Infanticidio. Previsto en el Artículo 307;
 
 > <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
 
@@ -2383,25 +2383,25 @@ XIII.- Robo. Previsto en el artículo 317 en relación con el 320, cuando el val
 
 XIV.- Robo.- Previsto en el artículo 317 en relación con el 321 en sus fracciones I, IV, V y VII, cuando el valor de lo robado exceda de trescientas cuotas;
 
-> <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2006)</small>
 
-XV.- Abigeato. Previsto en el Artículo 330, cuando el valor del ganado robado exceda de trescientas cuotas.
-
-> <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
-
-XVI.- Tortura. Previsto en los Artículos 371, 372 y 373.
+XV.- Abigeato. Previsto en el artículo 330, cuando el valor del ganador robado exceda de doscientos cincuenta cuotas;
 
 > <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
 
-XVII.- Lesiones. Doloso, previsto en el artículo 285 en relación con el artículo 286 fracción V y los artículos 287, 289 y 290.
+XVI.- Tortura. Previsto en los Artículos 371, 372 y 373;
 
 > <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
 
-XVIII.- Delito Electoral. A que se refiere exclusivamente la modalidad prevista en el párrafo primero de la fracción VI del Artículo 385 del Código Penal.
+XVII.- Lesiones. Doloso, previsto en el artículo 285 en relación con el artículo 286 fracción V y los artículos 287, 289 y 290;
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
+
+XVIII.- Delito Electoral. A que se refiere exclusivamente la modalidad prevista en el párrafo primero de la fracción VI del Artículo 385 del Código Penal;
 
 > <small>(ADICIONADA, P.O. 21 DE MAYO DE 2005)</small>
 
-XIX. Secuestro Exprés. A que se refiere el artículo 265 bis.
+XIX. Secuestro Exprés. A que se refiere el artículo 265 bis;
 
 > <small>(ADICIONADA, P.O. 21 DE MAYO DE 2005)</small>
 
@@ -3482,3 +3482,9 @@ P.O. 21 DE MAYO DE 2005.
 P.O. 28 DE DICIEMBRE DE 2005.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano de Gobierno del Estado.
+
+P.O. 1 DE FEBRERO DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- A las personas que hayan cometido alguno de los delitos contemplados en el presente Decreto, con anterioridad a su entrada en vigor, les serán aplicadas las disposiciones del Código Penal del Estado vigente en el momento de su comisión, sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 de dicho Código sustantivo.
