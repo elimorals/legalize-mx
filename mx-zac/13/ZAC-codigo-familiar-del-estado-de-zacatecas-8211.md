@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-familiar-del-estado-de-zacatecas-8211"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-10"
-last_updated: "2004-04-24"
+last_updated: "2006-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO FAMILIAR DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE FEBRERO DE 2006.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 10 de mayo de 1986.
 
@@ -1413,9 +1413,9 @@ IX. La separación del hogar conyugal por desavenencia entre los cónyuges, si s
 
 X. La declaración de ausencia legalmente hecha o la presunción de muerte, en los casos de excepción en que no se necesite para que se haga que preceda la declaración de ausencia;
 
-> <small>(REFORMADA P.O. 19 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2006)</small>
 
-XI. La violencia familiar de un cónyuge al otro o hacia los hijos, se ejerza o no, en el domicilio conyugal, así como las amenazas, las injurias o los malos tratos aunque no sean recurrentes y cíclicos pero que, a juicio del Juez, hagan imposible la vida en común;
+XI. La violencia familiar de un cónyuge a otro a (sic) hacia los hijos, se ejerza o no, en el domicilio conyugal; así como las amenazas las injurias o los malos tratos recurrentes, o aún si no lo son, pero que, a juicio del juez, hagan imposible la vida en común. Para los efectos de este artículo se entiende por violencia familiar lo dispuesto por el artículo 283 Bis de este Código;
 
 XII. La negativa injustificada de los cónyuges a cumplir con las obligaciones relativas a la contribución económica para el sostenimiento del hogar y la alimentación de los hijos, o el incumplimiento de la sentencia que condene al pago de tal obligación;
 
@@ -1491,7 +1491,9 @@ Para que los cónyuges que se divorcien voluntariamente puedan volver a contraer
 
 ### CAPITULO SEGUNDO. DE LOS ALIMENTOS
 
-### CAPITULO PRIMERO. DE LA PATERNIDAD Y FILIACION
+### CAPITULO TERCERO. DE LA VIOLENCIA FAMILIAR
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2006)</small>
 
 ###### ARTICULO 241.
 
@@ -1519,7 +1521,7 @@ La concubina no tiene derecho a usar el apellido del concubino, aun cuando los h
 
 ## TITULO SEGUNDO
 
-### CAPITULO SEGUNDO. DE LAS PRESUNCIONES DE PATERNIDAD
+### CAPITULO PRIMERO. DE LA PATERNIDAD Y FILIACION
 
 ###### ARTICULO 245.
 
@@ -1563,7 +1565,25 @@ En la línea recta los grados se cuentan por el número de generaciones, o por e
 
 En la línea transversal los grados se cuentan por el número de generaciones, subiendo por una de las líneas y descendiendo por la otra; o por el número de personas que hay de uno a otro de los extremos que se consideren, excluyendo la del progenitor o tronco común.
 
-### CAPITULO TERCERO. DE LOS HIJOS DE MATRIMONIO
+### CAPITULO SEGUNDO. DE LAS PRESUNCIONES DE PATERNIDAD
+
+###### ARTICULO 283 Bis.
+
+Por violencia familiar se considera el uso de la fuerza física o moral, así como omisiones graves que se ejercen contra un miembro de la familia por otro integrante de la misma, que atente contra su integridad física, psicoemocional o sexual; ya sea que, se realicen dentro o fuera del domicilio conyugal y se produzcan o no lesiones. Sus modalidades son las siguientes:
+
+I. Maltrato Físico: Toda agresión en la que se utilice cualquier objeto o arma, o se haga uso de alguna parte del cuerpo, para sujetar o lesionar físicamente a otro; así como el uso de sustancias para inmovilizarle, atentando contra su integridad física, y que tienen por objeto lograr su sometimiento y control.
+
+II. Maltrato psicoemocional: Comportamiento consistente en acciones reiteradas, cuyas formas de expresión pueden ser prohibiciones, coacciones, condicionamientos, intimidaciones, amenazas, sevicia, humillaciones, celo pitia, conductas de abandono, así como omisiones, que provoquen en quien las recibe, menoscabo, detrimento, disminución o afectación de la personalidad.
+
+Se considera maltrato psicoemocional, toda acción u omisión mediante la que se intente causar daño psicológico a un menor de edad, o se empleen medidas inadecuadas para reprenderlo, aunque se argumente como justificación la educación y formación del menor, en el uso de su derecho de corregir.
+
+III. Maltrato sexual; Conducta consistente en la agresión física o moral, u hostigamiento, para obligar o inducir a la realización de prácticas sexuales no deseadas o que generen dolor.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2006)</small>
+
+###### ARTICULO 283 Ter.
+
+También se consideran acciones de violencia familiar las previstas en este artículo, aun cuando el agresor y el agredido no habiten en el mismo domicilio, pero tengan relación de parentesco, ya sea por consanguinidad, adopción, matrimonio, concubinato u otra relación afín, o que convivan o hayan convivido en el mismo domicilio y estén sujetos a patria potestad, tutela, guarda, protección, educación, cuidado y custodia.
 
 ###### ARTICULO 255.
 
@@ -1703,17 +1723,17 @@ Las pensiones alimenticias decretadas por sentencia ejecutoria, aumentarán ipso
 
 Por lo tanto, bastará con que el interesado acredite ante el Juez del conocimiento el incremento del salario mínimo, para que aquél, de plano requiera al obligado aumente la pensión alimenticia decretada en los términos señalados en el artículo que antecede.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE FEBRERO DE 2006)</small>
+
+### CAPITULO TERCERO. DE LOS HIJOS DE MATRIMONIO
+
 ### CAPITULO CUARTO. DE LAS PRUEBAS DE LA FILIACION DE
 
 LOS HIJOS NACIDOS DE MATRIMONIO
 
-### CAPITULO QUINTO. DE LA LEGITIMACION
-
 ## TITULO TERCERO
 
-### CAPITULO SEXTO. DEL RECONOCIMIENTO DE LOS HIJOS NACIDOS
-
-FUERA DE MATRIMONIO
+### CAPITULO QUINTO. DE LA LEGITIMACION
 
 ###### ARTICULO 284.
 
@@ -1727,7 +1747,9 @@ La filiación resulta de las presunciones legales, o del nacimiento, o del recon
 
 El Estado, a través de la autoridad y organismos que la ley señale, debe instruir sobre los deberes y derechos inherentes a la filiación a quienes hayan llegado a la pubertad.
 
-### CAPITULO SEPTIMO. DE LA ADOPCION
+### CAPITULO SEXTO. DEL RECONOCIMIENTO DE LOS HIJOS NACIDOS
+
+FUERA DE MATRIMONIO
 
 ###### ARTICULO 287.
 
@@ -1833,9 +1855,7 @@ I. Los nacidos después de ciento ochenta días contados desde que empezó el co
 
 II. Los nacidos dentro de los trescientos días siguientes al en que cesó, la vida en común entre el concubinario y la concubina.
 
-### CAPITULO PRIMERO. DE LOS EFECTOS DE LA PATRIA POTESTAD RESPECTO DE LOS HIJOS
-
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2003)</small>
+### CAPITULO SEPTIMO. DE LA ADOPCION
 
 ###### ARTICULO 306.
 
@@ -1851,7 +1871,9 @@ En defecto de esa posesión de estado son admisibles todos los medios ordinarios
 
 Si uno solo de los registros fuere o estuviere inutilizado y exista duplicado, de éste deberá tomarse la prueba, sin admitirse de otra clase.
 
-### CAPITULO SEGUNDO. DE LOS EFECTOS DE LA PATRIA POTESTAD RESPECTO DE LOS BIENES DEL HIJO
+### CAPITULO PRIMERO. DE LOS EFECTOS DE LA PATRIA POTESTAD RESPECTO DE LOS HIJOS
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 309.
 
@@ -1899,7 +1921,7 @@ La posesión de hijo nacido de matrimonio no puede perderse sino por sentencia e
 
 Si el que está en posesión de los derechos de padre o de hijo fuere despojado de ellos o perturbado en su ejercicio sin que preceda sentencia por la cual deba perderlos, podrá usar de las acciones que establecen las leyes para que se le ampare o restituya en la posesión.
 
-### CAPITULO TERCERO. DE LOS MODOS DE ACABARSE, PERDERSE Y SUSPENDERSE LA PATRIA POTESTAD
+### CAPITULO SEGUNDO. DE LOS EFECTOS DE LA PATRIA POTESTAD RESPECTO DE LOS BIENES DEL HIJO
 
 ###### ARTICULO 316.
 
@@ -1925,7 +1947,7 @@ Pueden gozar también del derecho de la legitimación, los hijos que ya hayan fa
 
 Pueden gozar también de ese derecho los hijos no nacidos, si el padre al casarse declara que reconoce al hijo de quien la mujer está encinta, o que lo reconoce si aquélla estuviere encinta.
 
-### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+### CAPITULO TERCERO. DE LOS MODOS DE ACABARSE, PERDERSE Y SUSPENDERSE LA PATRIA POTESTAD
 
 ###### ARTICULO 322.
 
@@ -2083,7 +2105,7 @@ III. A percibir la porción hereditaria que fije la ley en caso de intestado, o 
 
 La acción que compete al hijo nacido fuera de matrimonio para reclamar su estado puede ser intentada por éste o sus herederos, si murió antes de cumplir veinticinco años, o si cayó en estado de incapacidad antes de esa edad, muriendo después en el mismo estado.
 
-### CAPITULO SEGUNDO. DE LA TUTELA TESTAMENTARIA
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### ARTICULO 351.
 
@@ -2165,9 +2187,9 @@ El Juez que apruebe la adopción remitirá copia de las diligencias respectivas 
 
 La adopción procede aun cuando el adoptante o adoptantes tengan hijos, si se acredita plenamente que tienen la solvencia moral y material para formarlos, educarlos y cuidarlos. Aunque sobrevengan hijos al o a los adoptantes, ésta subsistirá.
 
-### CAPITULO TERCERO. DE LA TUTELA LEGITIMA DE LOS MENORES
+### CAPITULO SEGUNDO. DE LA TUTELA TESTAMENTARIA
 
-### CAPITULO CUARTO. DE LA TUTELA DE LAS PERSONAS CON INCAPACIDAD NATURAL Y LEGAL
+### CAPITULO TERCERO. DE LA TUTELA LEGITIMA DE LOS MENORES
 
 ###### ARTICULO 365.
 
@@ -2209,13 +2231,13 @@ En el caso de revocación por ingratitud, ésta deja de producir efectos desde q
 
 Las resoluciones que dicten los Jueces aprobando la revocación, se comunicarán al Oficial del Registro Civil del lugar en que aquélla se hizo para que cancele el acta de adopción. Igualmente al Consejo Estatal de los Derechos del Niño para los efectos del seguimiento de su situación.
 
-### CAPITULO QUINTO. DE LA TUTELA LEGITIMA DE LOS MENORES ABANDONADOS Y DE LOS ACOGIDOS POR ALGUNA PERSONA, O DE LOS PROTEGIDOS
-
-EN ESTABLECIMIENTOS DE BENEFICENCIA
+### CAPITULO CUARTO. DE LA TUTELA DE LAS PERSONAS CON INCAPACIDAD NATURAL Y LEGAL
 
 ## TITULO CUARTO. DE LA PATRIA POTESTAD
 
-### CAPITULO SEXTO. DE LA TUTELA DATIVA
+### CAPITULO QUINTO. DE LA TUTELA LEGITIMA DE LOS MENORES ABANDONADOS Y DE LOS ACOGIDOS POR ALGUNA PERSONA, O DE LOS PROTEGIDOS
+
+EN ESTABLECIMIENTOS DE BENEFICENCIA
 
 ###### ARTICULO 370.
 
@@ -2285,7 +2307,7 @@ Cuando llegue al conocimiento del Juez que quienes ejercen la patria potestad no
 
 El que está sujeto a la patria potestad no puede comparecer en Juicio, ni contraer obligación alguna, sin expreso consentimiento del que o de los que ejerzan aquel derecho.
 
-### CAPITULO SEPTIMO. DE LAS PERSONAS INHABILES PARA LA TUTELA Y DE LAS QUE DEBEN SER SEPARADAS DE ELLA
+### CAPITULO SEXTO. DE LA TUTELA DATIVA
 
 ###### ARTICULO 384.
 
@@ -2371,7 +2393,7 @@ Los Jueces tienen facultad para tomar las medidas necesarias para impedir que, p
 
 Las personas que ejerzan la patria potestad, deben entregar a sus hijos, luego que éstos se emancipen o lleguen a la mayor edad, todos los bienes y frutos que les pertenecen.
 
-### CAPITULO OCTAVO. DE LAS EXCUSAS PARA EL DESEMPEÑO DE LA TUTELA
+### CAPITULO SEPTIMO. DE LAS PERSONAS INHABILES PARA LA TUTELA Y DE LAS QUE DEBEN SER SEPARADAS DE ELLA
 
 ###### ARTICULO 401.
 
@@ -2443,9 +2465,7 @@ II. Cuando por su mal estado habitual de salud, no puedan atender debidamente a 
 
 ## TITULO QUINTO. DE LA TUTELA
 
-### CAPITULO NOVENO. DE LA GARANTIA QUE DEBEN PRESTAR LOS TUTORES
-
-PARA ASEGURAR SU MANEJO
+### CAPITULO OCTAVO. DE LAS EXCUSAS PARA EL DESEMPEÑO DE LA TUTELA
 
 ###### ARTICULO 408.
 
@@ -2549,7 +2569,9 @@ El Juez de Primera Instancia del domicilio del incapacitado, y si no lo hubiere,
 
 El Juez que no cumpla las prescripciones relativas a la tutela, además de las penas en que incurra conforme a las leyes, será responsable de los daños y perjuicios que sufran los incapaces.
 
-### CAPITULO DECIMO. DEL DESEMPEÑO DE LA TUTELA
+### CAPITULO NOVENO. DE LA GARANTIA QUE DEBEN PRESTAR LOS TUTORES
+
+PARA ASEGURAR SU MANEJO
 
 ###### ARTICULO 428.
 
@@ -2601,7 +2623,7 @@ Si por un nombramiento condicional de tutor, o por cualquier otro motivo, faltar
 
 El adoptante que ejerza la patria potestad tiene derecho de nombrar tutor testamentario a su hijo adoptivo; aplicando a esta tutela lo dispuesto en los artículos anteriores.
 
-### CAPITULO DECIMO PRIMERO. DE LAS CUENTAS DE LA TUTELA
+### CAPITULO DECIMO. DEL DESEMPEÑO DE LA TUTELA
 
 ###### ARTICULO 440.
 
@@ -2629,7 +2651,7 @@ La falta temporal del tutor legítimo se suplirá en los términos establecidos 
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 15 DE JULIO DE 1992)</small>
 
-### CAPITULO DECIMO SEGUNDO. DE LA EXTINCION DE LA TUTELA
+### CAPITULO DECIMO PRIMERO. DE LAS CUENTAS DE LA TUTELA
 
 ###### ARTICULO 444.
 
@@ -2655,7 +2677,7 @@ A falta de tutor testamentario y de persona que con apego a los artículos anter
 
 El tutor del incapacitado que tenga hijos menores bajo su patria potestad, será también tutor de ellos, si no hay otro ascendiente a quien la ley llame al ejercicio de aquél derecho.
 
-### CAPITULO DECIMO TERCERO. DE LA ENTREGA DE LOS BIENES
+### CAPITULO DECIMO SEGUNDO. DE LA EXTINCION DE LA TUTELA
 
 ###### ARTICULO 450.
 
@@ -2669,7 +2691,7 @@ Los directores de los hospitales y demás instituciones de beneficencia, donde s
 
 En el caso del artículo anterior, no es necesario el discernimiento del cargo.
 
-### CAPITULO DECIMO CUARTO. DEL CURADOR
+### CAPITULO DECIMO TERCERO. DE LA ENTREGA DE LOS BIENES
 
 ###### ARTICULO 453.
 
@@ -2733,7 +2755,7 @@ Si el menor sujeto a tutela dativa en los términos establecidos en este Capítu
 
 Siempre que por cualquier circunstancia, no existiere tutela ni quien ejerciere la patria potestad, en tanto se provee a la tutela que corresponda, le será nombrado un tutor dativo por el Juez de Primera Instancia del lugar.
 
-### CAPITULO DECIMO QUINTO. DEL ESTADO DE INCAPACIDAD O INTERDICCION
+### CAPITULO DECIMO CUARTO. DEL CURADOR
 
 ###### ARTICULO 463.
 
@@ -2811,7 +2833,7 @@ En el caso de que se trata en el artículo anterior, se proveerá a la tutela co
 
 Absuelto un tutor, volverá al ejercicio de su cargo. Si es condenado a una pena que no lleve consigo la inhabilitación para desempeñar la tutela, volverá a ésta al extinguir su condena, siempre que la pena impuesta no exceda de dos años de prisión.
 
-### CAPITULO UNICO. DE LA EMANCIPACION, DE LA MENOR EDAD Y LA MAYOR EDAD
+### CAPITULO DECIMO QUINTO. DEL ESTADO DE INCAPACIDAD O INTERDICCION
 
 ###### ARTICULO 471.
 
@@ -2859,7 +2881,7 @@ El tutor que, sin excusa o desechada la que hubiere propuesto, no desempeña la 
 
 Muerto el tutor que está desempeñando la tutela, sus herederos o ejecutores testamentarios deberán dar aviso al Juez, quien proveerá inmediatamente al incapacitado del tutor que corresponda, según la ley.
 
-### CAPITULO PRIMERO. DE LAS MEDIDAS PROVISIONALES EN CASO DE AUSENCIA
+### CAPITULO UNICO. DE LA EMANCIPACION, DE LA MENOR EDAD Y LA MAYOR EDAD
 
 ###### ARTICULO 479.
 
@@ -2943,7 +2965,7 @@ Si los tutores son varios, sólo se exigirá, a cada uno de ellos, garantía por
 
 El Juez responde subsidiariamente con el tutor de los daños y perjuicios que sufra el incapacitado por no haber exigido que se caucione el manejo de la tutela.
 
-### CAPITULO SEGUNDO. DE LA DECLARACION DE AUSENCIA
+### CAPITULO PRIMERO. DE LAS MEDIDAS PROVISIONALES EN CASO DE AUSENCIA
 
 ###### ARTICULO 493.
 
@@ -3213,7 +3235,7 @@ En caso de maltratamiento, de negligencia en los cuidados debidos al incapacitad
 
 Para que pueda hacerse en la retribución de los tutores, el aumento extraordinario que permite el artículo 544, será requisito indispensable que por lo menos en dos años consecutivos haya obtenido el tutor la aprobación absoluta de sus cuentas.
 
-### CAPITULO TERCERO. DE LOS EFECTOS DE LA DECLARACION DE AUSENCIA
+### CAPITULO SEGUNDO. DE LA DECLARACION DE AUSENCIA
 
 ###### ARTICULO 547.
 
@@ -3289,7 +3311,7 @@ La garantía dada por el tutor no se cancelará, sino cuando las cuentas hayan s
 
 Hasta pasado un mes de la rendición y aprobación definitiva de las cuentas, es nulo todo convenio entre el tutor y el pupilo, ya mayor o emancipado, relativo a la administración de la tutela o a las cuentas mismas.
 
-### CAPITULO CUARTO. DE LA ADMINISTRACION DE LOS BIENES DEL AUSENTE CASADO
+### CAPITULO TERCERO. DE LOS EFECTOS DE LA DECLARACION DE AUSENCIA
 
 ###### ARTICULO 563.
 
@@ -3303,7 +3325,7 @@ II. Cuando el incapacitado sujeto a tutela entre a la patria potestad.
 
 La muerte, incapacidad del tutor o ausencia declarada legalmente termina la tutela con relación al tutor. Tan pronto como llegue a conocimiento del Juez que un tutor ha muerto, o ha sido declarado incapaz o ausente, promoverá de inmediato el nombramiento del nuevo tutor.
 
-### CAPITULO QUINTO. DE LA PRESUNCION DE MUERTE
+### CAPITULO CUARTO. DE LA ADMINISTRACION DE LOS BIENES DEL AUSENTE CASADO
 
 ###### ARTICULO 565.
 
@@ -3357,9 +3379,7 @@ Todas las acciones por hechos relativos a la administración de la tutela que el
 
 Si la tutela hubiere fenecido durante la minoridad, el menor podrá ejercitar las acciones correspondientes contra el primer tutor y los que le hubieren sucedido en el cargo, computándose entonces los términos desde el día en que llegue a la mayor edad. Tratándose de los demás incapacitados, los términos se computarán desde que cese la incapacidad.
 
-### CAPITULO SEXTO. DE LOS EFECTOS DE LA AUSENCIA RESPECTO
-
-DE LOS DERECHOS EVENTUALES DEL AUSENTE
+### CAPITULO QUINTO. DE LA PRESUNCION DE MUERTE
 
 ###### ARTICULO 578.
 
@@ -3435,7 +3455,9 @@ El curador tiene derecho a ser relevado de la curaduría, pasados diez años des
 
 En los casos en que conforme a esta ley tenga que intervenir un curador, cobrará el honorario que señala el arancel a los procuradores, sin que por ningún otro motivo pueda pretender mayor retribución. Si hiciere algunos gastos en el desempeño de su cargo se le cubrirán conforme a derecho.
 
-### CAPITULO SEPTIMO. DISPOSICIONES GENERALES
+### CAPITULO SEXTO. DE LOS EFECTOS DE LA AUSENCIA RESPECTO
+
+DE LOS DERECHOS EVENTUALES DEL AUSENTE
 
 ###### ARTICULO 594.
 
@@ -3469,7 +3491,7 @@ Los menores de edad no pueden alegar la nulidad en las obligaciones que hubieren
 
 ## TITULO SEXTO
 
-### CAPITULO UNICO
+### CAPITULO SEPTIMO. DISPOSICIONES GENERALES
 
 ###### ARTICULO 601.
 
@@ -3527,7 +3549,7 @@ El mayor de edad dispone libremente de su persona y de sus bienes y tiene capaci
 
 ## TITULO SEPTIMO. DE LOS AUSENTES E IGNORADOS
 
-### CAPITULO PRIMERO
+### CAPITULO UNICO
 
 ###### ARTICULO 610.
 
@@ -3635,7 +3657,7 @@ Cada seis meses, en el día correspondiente al que hubiere sido nombrado el repr
 
 El representante está obligado a promover la publicación de los edictos. La falta de cumplimiento de esa obligación hace responsable al representante de los daños y perjuicios que siga el ausente, y es causa legítima de remoción.
 
-### CAPITULO SEGUNDO. DE LA PERSONALIDAD JURIDICA DE LA FAMILIA
+### CAPITULO PRIMERO
 
 ###### ARTICULO 632.
 
@@ -3683,7 +3705,7 @@ La declaración de ausencia se publicará por una vez en el Periódico Oficial y
 
 El fallo que se pronuncie en el juicio de declaración de ausencia, tendrá las mismas instancias que el Código de Procedimientos Civiles asigne a los negocios de mayor interés.
 
-### CAPITULO TERCERO. LOS CONSEJOS DE FAMILIA
+### CAPITULO SEGUNDO. DE LA PERSONALIDAD JURIDICA DE LA FAMILIA
 
 ###### ARTICULO 641.
 
@@ -3763,7 +3785,7 @@ Muerto el que haya obtenido la posesión provisional, le sucederán sus heredero
 
 Si el ausente se presenta o si prueba su existencia antes de que sea declarada la presunción de muerte, recobrará sus bienes, con deducción de la mitad de los frutos y rentas, que quedarán a beneficio de los que han tenido la posesión provisional.
 
-### CAPITULO CUARTO. DE LA PROTECCION DE LOS INVALIDOS, NIÑOS Y ANCIANOS
+### CAPITULO TERCERO. LOS CONSEJOS DE FAMILIA
 
 ###### ARTICULO 659.
 
@@ -3781,7 +3803,7 @@ Si no hubiere sociedad conyugal y el cónyuge presente no fuere heredero ni tuvi
 
 Si el cónyuge ausente regresa o se probare su existencia, quedará restaurada la sociedad conyugal.
 
-### CAPITULO QUINTO. DE LA PLANIFICACION Y CONTROL DE LA NATALIDAD
+### CAPITULO CUARTO. DE LA PROTECCION DE LOS INVALIDOS, NIÑOS Y ANCIANOS
 
 ###### ARTICULO 663.
 
@@ -3836,6 +3858,8 @@ La sentencia que declare la presunción de muerte de uno de los cónyuges, termi
 ###### ARTICULO 673.
 
 En el caso en que el cónyuge presente no fuere heredero, tendrá derecho a alimentos.
+
+### CAPITULO QUINTO. DE LA PLANIFICACION Y CONTROL DE LA NATALIDAD
 
 ###### ARTICULO 674.
 
@@ -4358,3 +4382,9 @@ Se derogan las disposiciones que se opongan al presente decreto.
 P.O. 24 DE ABRIL DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 1 DE FEBRERO DE 2006.
+
+PRIMERO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
