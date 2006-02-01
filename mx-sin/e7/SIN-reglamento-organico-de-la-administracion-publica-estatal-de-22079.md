@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-organico-de-la-administracion-publica-estatal-de-220
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-10-15"
-last_updated: "2005-08-12"
+last_updated: "2006-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA ESTATAL DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIOICO OFICIAL: 12 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE FEBRERO DE 2006.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el viernes 15 de octubre de 1999.
 
@@ -1045,6 +1045,50 @@ IX. Los demás que se deriven de las leyes y reglamentos aplicables o que le enc
 
 Al titular de esta entidad administrativa se le denominará Coordinador General de Comunicación Social. Para el despacho de los asuntos de su competencia se auxiliará de los servidores públicos que establezca su reglamento interior o que determine el presupuesto de egresos.
 
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2006)</small>
+
+###### Artículo 50 Bis.
+
+Para la atención de sus atribuciones, la Coordinación General de Comunicación Social contará con la unidad administrativa siguiente:
+
+Canal de Radio de Gobierno del Estado de Sinaloa.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2006)</small>
+
+###### Artículo 50 Bis-A.
+
+A la Coordinación General de Comunicación Social, a través del Canal de Radio de Gobierno del Estado de Sinaloa, le corresponde el despacho de los siguientes asuntos:
+
+I. Informar a la población del Estado acerca de los planes, programas y actividades de las diferentes dependencias gubernamentales;
+
+II Contribuir a contrarrestar los hábitos de consumo negativos fomentados por diversos medios de comunicación masiva;
+
+III. Distribuir información veraz acerca de los acontecimientos más relevantes del Estado, del país y del mundo;
+
+IV. Contribuir a través de la comunicación a mejorar las condiciones de vida, en especial en las zonas rurales;
+
+V. Informar a la población acerca de las prácticas sanitarias y medidas necesarias para el cuidado de la salud y prevención de las enfermedades;
+
+VI. Orientar e informar a los sinaloenses sobre la mejor utilización de los servicios públicos existentes;
+
+VII. Promover el mejoramiento de los hábitos alimenticios y el uso más adecuado de los productos regionales, fomentando la educación nutricional;
+
+VIII. Apoyar los programas de alfabetización tendientes a integrar la población hasta ahora marginada en estos aspectos;
+
+IX. Ofrecer a la población información sobre los problemas del Estado y fomentar su participación en los esfuerzos comunes para la transformación de nuestra sociedad;
+
+X. Promover el turismo elaborando y proporcionando información acerca de las diferentes zonas turísticas del Estado;
+
+XI. Fomentar el interés por ras artes y las diversas manifestaciones de la cultura local, nacional y universal;
+
+XII. Ofrecer alternativas de entretenimiento y diversión a los habitantes del Estado, difundiendo principalmente la cultura popular;
+
+XIII. Fomentar el conocimiento de las tradiciones y costumbres regionales, con el propósito de promover el proceso de identificación social y cultural de los habitantes del Estado;
+
+XIV. Contribuir a contrarrestar las posibles deformaciones originadas por la información que la población recibe a través de los diferentes medios de comunicación que tienen un enfoque comercial; y,
+
+XV. Los demás que sean inherentes a los propósitos de esta unidad administrativa, que deriven de las leyes y reglamentos aplicables o que le encomiende el Gobernador del Estado.
+
 ### CAPÍTULO V. DE LA COORDINACIÓN DE DESARROLLO TECNOLÓGICO
 
 ###### Artículo 51.
@@ -1354,5 +1398,9 @@ Artículo Primero.- El Presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Las referencias que se hacen en decretos, reglamentos, convenios y demás disposiciones jurídicas a la Policía de Protección Civil, se entenderán hechas a la Policía Estatal Preventiva.
 
 P.O. 12 DE AGOSTO DE 2005.
+
+Artículo Único. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 1 DE FEBRERO DE 2006.
 
 Artículo Único. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
