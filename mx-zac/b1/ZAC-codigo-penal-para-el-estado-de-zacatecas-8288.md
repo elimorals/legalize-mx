@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-penal-para-el-estado-de-zacatecas-8288"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-17"
-last_updated: "2005-12-28"
+last_updated: "2006-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO PENAL PARA EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE FEBRERO DE 2006.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 
@@ -2111,13 +2111,21 @@ Si además de las personas a que se refiere el párrafo anterior tuviere interve
 
 El delito de abigeato se sancionará conforme a las reglas siguientes:
 
-I.- Cuando el valor del ganado no exceda de cien cuotas se impondrá prisión de tres meses a un año y multa de diez a treinta cuotas;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2006)</small>
 
-II.- Cuando el valor del ganado exceda de cien pero no de trescientas cuotas se impondrá prisión de seis meses a dos años y multa hasta de cien cuotas;
+I. Cuando el valor del ganado no exceda de cien cuotas se impondrá prisión de cuatro meses a un año cuatro meses y multa de trece a cuarenta cuotas;
 
-III.- Cuando el valor del ganado exceda de trescientas pero no de quinientas cuotas se impondrá prisión de dos a seis años y multa hasta de ciento cincuenta cuotas;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2006)</small>
 
-IV.- Cuando el valor del ganado exceda de quinientas cuotas la sanción será de tres a doce años y multa hasta de trescientas cuotas.
+II. Cuando el valor del ganado exceda de cien, pero no de trescientas cuotas se impondrá prisión de ocho meses a dos años ocho meses y multa hasta de ciento treinta y tres cuotas;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2006)</small>
+
+III. Cuando el valor del ganado exceda de trescientas, pero no de quinientas cuotas se impondrá prisión de dos años seis meses a siete años seis meses y multa hasta de ciento ochenta y ocho cuotas; y
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2006)</small>
+
+IV. Cuando el valor del ganado exceda de quinientas cuotas la sanción será de tres años nueve meses a quince años y multa hasta de trescientas setenta y cinco cuotas.
 
 331.- Las mismas sanciones que señala el artículo anterior se aplicarán:
 
@@ -2129,11 +2137,15 @@ III.- Al que ampare a una o más cabezas de ganado robado con documentación alt
 
 IV.- Al que, con perjuicio de otro, disponga para sí o para un tercero, de una o más cabezas de ganado, de las cuales se le haya transmitido la tenencia y no el dominio, o bien se le haya entregado para su custodia.
 
-332.- Al que transporte ganado de procedencia ilegal sin haber tomado las medidas necesarias para cerciorarse de su procedencia legítima, se le impondrá de uno a cuatro años de prisión y multa de hasta veinte cuotas.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE FEBRERO DE 2006)</small>
+
+332.- Al que transporte ganado de procedencia ilegal sin haber tomado las medidas necesarias para cerciorarse de su procedencia legítima, se le impondrá de un año tres meses a cinco años de prisión y multa de hasta veinticinco cuotas.
 
 Si el transporte se hace a sabiendas de que se trata de ganado robado, se aplicarán las sanciones señaladas en los artículos 330 y 331.
 
-333.- El que a sabiendas comercie con pieles, carne u otros derivados obtenidos del abigeato, se le impondrá prisión de uno a cinco años y multa de hasta veinte cuotas.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2006)</small>
+
+333. El que a sabiendas comercie con pieles, carne u otros derivados obtenidos del abigeato, se le impondrá prisión de un año tres meses a seis años tres meses y multa de hasta veinticinco cuotas.
 
 334.- Es aplicable al delito de abigeato, en lo conducente, lo dispuesto en los artículos 323 y 328.
 
@@ -3040,3 +3052,9 @@ P.O. 21 DE MAYO DE 2005.
 P.O. 28 DE DICIEMBRE DE 2005.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano de Gobierno del Estado.
+
+P.O. 1 DE FEBRERO DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- A las personas que hayan cometido alguno de los delitos contemplados en el presente Decreto, con anterioridad a su entrada en vigor, les serán aplicadas las disposiciones del Código Penal del Estado vigente en el momento de su comisión, sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 de dicho Código sustantivo.
