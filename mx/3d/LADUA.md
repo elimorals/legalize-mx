@@ -4,7 +4,7 @@ identifier: "LADUA"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-15"
-last_updated: "2006-01-23"
+last_updated: "2006-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=744&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,13 +22,11 @@ abbreviation: "LADUA"
 
 LEY ADUANERA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE FEBRERO DE 2006.
 
 ULTIMA ACTUALIZACION POR MISCELANEA DE COMERCIO EXTERIOR: 4 DE ABRIL DE 2005.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de diciembre de 1995.
-
-DECRETO por el que se expiden nuevas leyes fiscales y se modifican otras.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -1392,9 +1390,15 @@ III. Los gastos a que se hace referencia en el inciso d), fracción I del artíc
 
 Para los efectos de este artículo, se entiende por mercancías de la misma especie o clase, las mercancías pertenecientes a un grupo o gama de mercancías producidas por una rama de producción determinada o por un sector de la mismas.
 
+> <small>(REFORMADO, D.O.F. 2 DE FEBRERO DE 2006)</small>
+
 ###### Artículo 78.
 
-Cuando el valor de las mercancías importadas no pueda determinarse con arreglo a los métodos a que se refieren los artículos 64 y 71, fracciones I, II, III y IV de esta Ley, dicho valor se determinará aplicando los métodos señalados en dichos artículos en orden sucesivo y por exclusión, con mayor flexibilidad, conforme a criterios razonables y compatibles con los principios y disposiciones legales, sobre la base de los datos disponibles en territorio nacional.
+Cuando el valor de las mercancías importadas no pueda determinarse con arreglo a los métodos a que se refieren los Artículos 64 y 71, fracciones I, II, III y IV, de esta Ley, dicho valor se determinará aplicando los métodos señalados en dichos artículos, en orden sucesivo y por exclusión, con mayor flexibilidad, o conforme a criterios razonables y compatibles con los principios y disposiciones legales, sobre la base de los datos disponibles en territorio nacional o la documentación comprobatoria de las operaciones realizadas en territorio extranjero.
+
+Cuando la documentación comprobatoria del valor sea falsa o esté alterada o tratándose de mercancías usadas, la autoridad aduanera podrá rechazar el valor declarado y determinar el valor comercial de la mercancía con base en la cotización y avalúo que practique la autoridad aduanera.
+
+Como excepción a lo dispuesto en los párrafos anteriores, tratándose de vehículos usados, para los efectos de lo dispuesto en el Artículo 64 de esta Ley, la base gravable será la cantidad que resulte de aplicar al valor de un vehículo nuevo, de características equivalentes, del año modelo que corresponda al ejercicio fiscal en el que se efectúe la importación, una disminución del 30% por el primer año inmediato anterior, sumando una disminución del 10% por cada año subsecuente, sin que en ningún caso exceda del 80%.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -2272,25 +2276,41 @@ En los casos a que se refieren las fracciones I y II de este artículo, al efect
 
 La Secretaría, como excepción a lo dispuesto en el artículo 119 de esta Ley y siempre que se cumplan los requisitos de control que señale el Reglamento, podrá autorizar el establecimiento de depósitos fiscales de conformidad con lo siguiente:
 
-> <small>(ADICIONADO PRIMER PARRAFO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE EL ARTICULO UNICO TRANSITORIO.</small>
 
-I. Para la exposición y venta de mercancías extranjeras y nacionales en puertos aéreos internacionales, fronterizos y marítimos de altura. En este caso las mercancías no se sujetarán al pago de impuestos al comercio exterior y de cuotas compensatorias, siempre que las ventas se hagan a pasajeros que salgan del país directamente al extranjero y la entrega de dichas mercancías se realice en los puntos de salida del territorio nacional, debiendo llevarlas consigo al extranjero. Las autoridades aduaneras controlarán estos establecimientos, sus instalaciones, vías de acceso y oficinas.
+> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2006)</small>
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+I. Para la exposición y venta de mercancías extranjeras y nacionales en puertos aéreos internacionales, fronterizos y marítimos de altura. En este caso las mercancías no se sujetarán al pago de impuesto al comercio exterior y de cuotas compensatorias, siempre que las ventas se hagan a pasajeros que salgan del país directamente al extranjero y la entrega de dichas mercancías se realice en los puntos de salida del territorio nacional, debiendo llevarlas consigo al extranjero.
 
-La autorización a que se refiere esta fracción sólo se otorgará a personas morales constituidas de conformidad con las leyes mexicanas, siempre que otorguen las garantías y cumplan con los demás requisitos que establezca la Secretaría mediante reglas. En el caso de los aeropuertos, se requerirá que los locales se encuentren ubicados en zonas posteriores al control de acceso de pasajeros internacionales y en el caso de los puertos marítimos, deberán encontrarse en el recinto fiscal o contiguo al mismo.
+Cuando la venta se haga a los pasajeros que arriben al país directamente del extranjero en puertos aéreos internacionales y dicha venta así como la entrega de las mercancías se realice en los establecimientos autorizados por el Servicio de Administración Tributaria, cumpliendo los requisitos de control que se establezcan mediante reglas, las mercancías no se sujetarán al pago de impuestos al comercio exterior y de cuotas compensatorias, siempre que se trate de las que comprenden el equipaje de pasajeros en viajes internacionales, de conformidad con lo previsto en el Artículo 61, fracción VI, de la Ley y demás disposiciones aplicables.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+Las autoridades aduaneras controlarán los establecimientos mencionados en los dos párrafos anteriores, sus instalaciones, vías de acceso y oficinas.
 
-La autorización podrá otorgarse hasta por un plazo de diez años, el cual podrá prorrogarse por un plazo igual si lo solicita el interesado durante la vigencia de la autorización, siempre que se cumpla con los requisitos que establezca la Secretaría mediante reglas.
+La autorización a que se refiere esta fracción sólo se otorgará a personas morales constituidas de conformidad con las leyes mexicanas, siempre que otorguen las garantías y cumplan con los demás requisitos que establezca el Servicio de Administración Tributaria mediante reglas. Las personas autorizadas responderán directamente ante el Fisco Federal por el importe de los créditos fiscales que corresponda pagar por las mercancías faltantes en sus inventarios, las que hubiesen entregado sin cumplir con los requisitos que establece la Ley.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+En el caso de los aeropuertos, se requerirá que los establecimientos se encuentren ubicados en zonas posteriores al control de acceso de pasajeros internacionales y en el caso de los puertos marítimos y fronterizos, deberán encontrarse en el recinto fiscal o contiguo al mismo. Tratándose de los establecimientos a que se refiere el segundo párrafo de esta fracción, se requerirá que los establecimientos se encuentren en la zona reservada para pasajeros internacionales. Dentro del aeropuerto internacional de que se trate antes de la zona de declaración y revisión aduanal correspondiente. Procederá la autorización de los establecimientos siempre que se encuentren dentro del recinto fiscal o, en el caso de puertos marítimos y fronterizos, contiguo al mismo.
 
-Los particulares que obtengan la autorización a que se refiere esta fracción deberán pagar en las oficinas autorizadas, a más tardar el día diecisiete del mes de que se trate, un aprovechamiento del 5% sobre los ingresos brutos obtenidos por la venta de las mercancías en el mes inmediato anterior.
+La autorización podrá otorgarse hasta por un plazo de diez años, el cual podrá prorrogarse por un plazo igual si lo solicita el interesado durante la vigencia de la autorización, siempre que se cumpla con los requisitos que establezca el Servicio de Administración Tributaria mediante reglas y los interesados se encuentren al corriente en el cumplimiento de sus obligaciones fiscales.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+Los particulares que obtengan la autorización a que se refiere esta fracción estarán obligados a:
 
-Procederá la cancelación de la autorización conforme al procedimiento previsto en el artículo 144-A de esta Ley, cuando los locales objeto de la autorización dejen de encontrarse en las zonas establecidas o se incurra en alguna otra causa de revocación establecida en esta Ley o en la autorización.
+a) Pagar en las oficinas autorizadas, a más tardar el día diecisiete del mes de que se trate un aprovechamiento del 5% sobre los ingresos brutos obtenidos por la venta de las mercancías en el mes inmediato anterior.
+
+b) Contar con equipo de cómputo y de transmisión de datos enlazado con el del SAT.
+
+c) Llevar un registro diario de las operaciones realizadas, mediante un sistema automatizado de control de inventarios, debiendo otorgar a la autoridad aduanera acceso electrónico en línea de manera permanente e ininterrumpida.
+
+d) Instalar y mantener en funcionamiento permanente un sistema de circuito cerrado a través del cual la autoridad aduanera tenga acceso a los puntos de venta y entrega de la mercancía, así como de los puntos de salida del territorio nacional poniendo a disposición del SAT terminales de monitoreo.
+
+e) Transmitir al sistema electrónico a cargo de la autoridad aduanera, dentro de los diez días naturales al mes siguiente, la información relativa a la venta de las mercancías realizadas en el mes inmediato anterior, en los términos que se establezcan mediante reglas, especificando cantidades, descripción y código del producto, fracción arancelaria y valor de la venta de la mercancía.
+
+f) Presentar ante la Administración General de Aduanas la documentación comprobatoria que acredite el pago del aprovechamiento del 5% de sus ingresos brutos obtenido por la venta de mercancías efectuadas mensualmente y la que acredite que se ha efectuado el pago del derecho por el otorgamiento de la autorización del establecimiento respectivo, conforme al Artículo 40, inciso k) de la Ley Federal de Derechos.
+
+g) Cumplir con los mecanismos de control de ventas y entrega de mercancías que se establezcan mediante reglas.
+
+h) Cumplir con las demás condiciones y lineamientos que establezca el SAT.
+
+Procederá la cancelación de la autorización conforme al procedimiento previsto en el Artículo 144-A de esta Ley, cuando los locales objeto de la autorización dejen de encontrarse en las zonas establecidas o se incurra en alguna otra causa de cancelación establecida en esta Ley o en la autorización.
 
 II. (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
 
@@ -2958,6 +2978,8 @@ V. El almacén en el que deberán quedar depositadas las mercancías a disposici
 
 VI. La designación o aceptación expresa del cargo de depositario.
 
+> <small>(REFORMADO, D.O.F. 2 DE FEBRERO DE 2006)</small>
+
 ###### Artículo 150.
 
 Las autoridades aduaneras levantarán el acta de inicio del procedimiento administrativo en materia aduanera, cuando con motivo del reconocimiento aduanero, del segundo reconocimiento, de la verificación de mercancías en transporte o por el ejercicio de las facultades de comprobación, embarguen precautoriamente mercancías en los términos previstos por esta Ley.
@@ -2972,11 +2994,15 @@ III. La descripción, naturaleza y demás características de las mercancías.
 
 IV. La toma de muestras de las mercancías, en su caso, y otros elementos probatorios necesarios para dictar la resolución correspondiente.
 
-Deberá requerirse al interesado para que designe dos testigos y señale domicilio para oír y recibir notificaciones dentro de la circunscripción territorial de la autoridad competente para tramitar y resolver el procedimiento correspondiente, salvo que se trate de pasajeros, en cuyo caso, podrán señalar un domicilio fuera de dicha circunscripción, apercibiéndolo de que, de no hacerlo o de señalar uno que no le corresponda a él o a su representante, las notificaciones que fueren personales se efectuarán por estrados. Si los testigos no son designados o los designados no aceptan fungir como tales, quien practique la diligencia los designará.
+Deberá requerirse al interesado para que designe dos testigos y señale domicilio para oír y recibir notificaciones dentro de la circunscripción territorial de la autoridad competente para tramitar y resolver el procedimiento correspondiente, salvo que se trate de pasajeros, en cuyo caso, podrán señalar un domicilio fuera de dicha circunscripción.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+Se apercibirá al interesado de que si los testigos no son designados o los designados no aceptan fungir como tales, quien practique la diligencia los designará; que de no señalar el domicilio, de señalar uno que no le corresponda a él o a su representante, de desocupar el domicilio señalado sin aviso a la autoridad competente o señalando un nuevo domicilio que no le corresponda a él o a su representante, de desaparecer después de iniciadas las facultades de comprobación o de oponerse a las diligencias de notificación de los actos relacionados con el procedimiento, negándose a firmar las actas que al efecto se levanten, las notificaciones que fueren personales se efectuarán por estrados, siempre que, en este último caso y tratándose del reconocimiento aduanero, segundo reconocimiento o de la verificación de mercancías en transporte, se cuente con visto bueno del administrador de la aduana.
 
-Dicha acta deberá señalar que el interesado cuenta con un plazo de diez días hábiles, contados a partir del día siguiente a aquel en que surta efectos la notificación, a fin de ofrecer las pruebas y formular los alegatos que a su derecho convenga. La autoridad que levante el acta respectiva deberá entregar al interesado en ese mismo acto, copia del acta de inicio del procedimiento, momento en el cual se considerará notificado.
+Dicha acta deberá señalar que el interesado cuenta con un plazo de diez días hábiles, contados a partir del día siguiente a aquel en que surta efectos la notificación, a fin de ofrecer las pruebas y formular los alegatos que a su derecho convenga.
+
+Cuando el embargo precautorio se genere con motivo de una inexacta clasificación arancelaria podrá ofrecerse, dentro del plazo señalado, la celebración de una junta técnica consultiva para definir si es correcta o no la clasificación arancelaria manifestada en el pedimento; dicha junta deberá realizarse dentro de los tres días hábiles siguientes a su ofrecimiento. En caso de ser correcta la clasificación arancelaria manifestada en el pedimento la autoridad aduanera que inició el procedimiento acordará el levantamiento del embargo y la entrega de las mercancías, dejando sin efectos el mismo, en caso contrario, el procedimiento continuará su curso legal. Lo dispuesto en este párrafo no constituye instancia.
+
+La autoridad que levante el acta respectiva deberá entregar al interesado, copia del acta de inicio del procedimiento, momento en el cual se considerará notificado.
 
 ###### Artículo 151.
 
@@ -3022,37 +3048,33 @@ Por lo que se refiere a las fracciones III y IV, el resto del embarque quedará 
 
 > <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 2 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 152.
 
-En los casos en que con motivo del reconocimiento aduanero, del segundo reconocimiento, de la verificación de mercancías en transporte, de la revisión de los documentos presentados durante el despacho o del ejercicio de las facultades de comprobación, en que proceda la determinación de contribuciones omitidas, cuotas compensatorias y, en su caso, la imposición de sanciones y no sea aplicable el artículo 151 de esta Ley, las autoridades aduaneras procederán a su determinación, sin necesidad de sustanciar el procedimiento establecido en el artículo 150 de esta Ley.
+En los casos en que con motivo del reconocimiento aduanero, del segundo reconocimiento, de la verificación de mercancías en transporte, de la revisión de los documentos presentados durante el despacho o del ejercicio de las facultades de comprobación, en que proceda la determinación de contribuciones omitidas, cuotas compensatorias y, en su caso, la imposición de sanciones y no sea aplicable el Artículo 151 de esta Ley, las autoridades aduaneras procederán a su determinación, sin necesidad de sustanciar el procedimiento establecido en el Artículo 150 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+En este caso la autoridad aduanera dará a conocer mediante escrito o acta circunstanciada los hechos u omisiones que impliquen la omisión de contribuciones, cuotas compensatorias y, en su caso, la imposición de sanciones, y deberá señalarse que el interesado cuenta con un plazo de diez días hábiles, contados a partir del día siguiente a aquel en que surta efectos la notificación del escrito o acta, a fin de ofrecer las pruebas y formular los alegatos que a su derecho convenga.
 
-En este caso la autoridad aduanera dará a conocer mediante escrito o acta circunstanciada los hechos u omisiones que impliquen la omisión de contribuciones, cuotas compensatorias y, en su caso, la imposición de sanciones, y deberá señalarse que el interesado cuenta con un plazo de 10 días para ofrecer las pruebas y alegatos que a su derecho convengan.
+El ofrecimiento, desahogo y valoración de las pruebas se hará de conformidad con lo dispuesto en los Artículos 123 y 130 del Código Fiscal de la Federación.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+Las autoridades aduaneras emitirán resolución en un plazo que no excederá de cuatro meses, contados a partir del día siguiente a aquél en que se encuentre debidamente integrado el expediente.
 
-Las autoridades aduaneras efectuarán la determinación en un plazo que no excederá de cuatro meses.
+Se entiende que el expediente se encuentra debidamente integrado cuando hayan vencido los plazos para la presentación de todos los escritos de pruebas y alegatos o, en caso de resultar procedente, la autoridad encargada de emitir la resolución haya llevado a cabo las diligencias necesarias para el desahogo de las pruebas ofrecidas por los promoventes.
 
 En los demás casos la determinación del crédito fiscal se hará por la autoridad aduanera.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+En el escrito o acta de inicio del procedimiento se deberá requerir al interesado para que señale domicilio para oír y recibir notificaciones, apercibido que de no señalar el domicilio, de señalar uno que no le corresponda a él o a su representante, de desocupar el domicilio señalado sin aviso a la autoridad competente o señalando un nuevo domicilio que no le corresponda a él o a su representante, de desaparecer después de iniciadas las facultades de comprobación o de oponerse a las diligencias de notificación de los actos relacionados con el procedimiento, negándose a firmar las actas que al efecto se levanten, las notificaciones que fueren personales se efectuarán por estrados, siempre que, en este último caso y tratándose del reconocimiento aduanero, segundo reconocimiento o de la verificación de mercancías en transporte, se cuente con visto bueno del administrador de la aduana.
+
+> <small>(REFORMADO, D.O.F. 2 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 153.
 
-El interesado deberá ofrecer por escrito, las pruebas y alegatos que a su derecho convenga, ante la autoridad aduanera que hubiera levantado el acta a que se refiere el artículo 150 de esta Ley, dentro de los diez días siguientes a aquel en que surta efectos la notificación de dicha acta. El ofrecimiento, desahogo y valoración de las pruebas se hará de conformidad con lo dispuesto por los artículos 123 y 130 del Código Fiscal de la Federación.
+El interesado deberá ofrecer por escrito, las pruebas y alegatos que a su derecho convenga, ante la autoridad aduanera que hubiera levantado el acta a que se refiere el artículo 150 de esta Ley, dentro de los diez días siguientes a aquel en que surta efectos la notificación de dicha acta. El ofrecimiento, desahogo y valoración de las pruebas se hará de conformidad con lo dispuesto por los Artículos 123 y 130 del Código Fiscal de la Federación. Tratándose de la valoración de los documentos con los que se pretenda comprobar la legal estancia o tenencia de las mercancías, cuando la información en ellos contenida deba transmitirse en el sistema electrónico previsto en el Artículo 38 de esta Ley para su despacho, se dará pleno valor probatorio a la información transmitida.
 
-> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
+Cuando el interesado presente pruebas documentales que acrediten la legal estancia o tenencia de las mercancías en el país; desvirtúen los supuestos por los cuales fueron objeto de embargo precautorio o acrediten que el valor declarado fue determinado de conformidad con el Título III, Capítulo III, Sección Primera de esta Ley en los casos a que se refiere el artículo 151, fracción VII de esta Ley, la autoridad que levantó el acta a que se refiere el artículo 150 de esta Ley, dictará de inmediato la resolución, sin que en estos casos se impongan sanciones; de existir mercancías embargadas se ordenará su devolución. Cuando el interesado no presente las pruebas o éstas no desvirtúen los supuestos por los cuales se embargó precautoriamente la mercancía, las autoridades aduaneras deberán de dictar resolución definitiva, en un plazo que no excederá de cuatro meses, contados a partir del día siguiente a aquél en que se encuentre debidamente integrado el expediente. Se entiende que el expediente se encuentra debidamente integrado cuando hayan vencido los plazos para la presentación de todos los escritos de pruebas y alegatos o, en caso de resultar procedente, la autoridad encargada de emitir la resolución haya llevado a cabo las diligencias necesarias para el desahogo de las pruebas ofrecidas por los promoventes. De no emitirse la resolución definitiva en el término de referencia, quedarán sin efectos las actuaciones de la autoridad que dieron inicio al procedimiento.
 
-Cuando el interesado presente pruebas documentales que acrediten la legal estancia o tenencia de las mercancías en el país; desvirtúen los supuestos por los cuales fueron objeto de embargo precautorio o acrediten que el valor declarado fue determinado de conformidad con el Título III, Capítulo III, Sección Primera de esta Ley en los casos a que se refiere el artículo 151, fracción VII de esta Ley, la autoridad que levantó el acta a que se refiere el artículo 150 de esta Ley, dictará de inmediato la resolución, sin que en estos casos se impongan sanciones ni se esté obligado al pago de gastos de ejecución; de existir mercancías embargadas se ordenará su devolución. Cuando el interesado no presente las pruebas o éstas no desvirtúen los supuestos por los cuales se embargó precautoriamente la mercancía, las autoridades aduaneras deberán de dictar resolución definitiva, en un plazo que no excederá de cuatro meses, contados a partir del día siguiente a aquél en que surtió efectos la notificación del inicio del procedimiento administrativo en materia aduanera. De no emitirse la resolución definitiva en el término de referencia, quedarán sin efectos las actuaciones de la autoridad que dieron inicio al procedimiento.
-
-En los casos en que el interesado no desvirtúe mediante pruebas documentales los hechos y circunstancias que motivaron el inicio del procedimiento, así como cuando ofrezca pruebas distintas, las autoridades aduaneras dictarán resolución determinando, en su caso, las contribuciones y las cuotas compensatorias omitidas, e imponiendo las sanciones que procedan, en un plazo que no excederá de cuatro meses a partir de la fecha en que se levantó el acta a que se refiere el artículo 150 de esta Ley.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
-Tratándose de mercancías excedentes o no declaradas embargadas a maquiladoras y empresas con programas de exportación autorizados por la Secretaría de Comercio y Fomento Industrial, cuando dentro de los diez días siguientes a la notificación del acta a que se refiere este artículo, el interesado presente escrito en el que manifieste su consentimiento con el contenido del acta, la autoridad aduanera que hubiera iniciado el procedimiento podrá emitir una resolución provisional en la que determine las contribuciones y cuotas compensatorias omitidas y las sanciones que procedan. Cuando el interesado en un plazo de cinco días a partir de que surta efectos la notificación de la resolución provisional acredite el pago de las contribuciones, accesorios y multas correspondientes y, en su caso, el cumplimiento de las regulaciones y restricciones no arancelarias, la autoridad aduanera ordenará la devolución de las mercancías.
+Tratándose de mercancías excedentes o no declaradas embargadas a maquiladoras y empresas con programas de exportación autorizados por la Secretaría de Economía, cuando dentro de los diez días siguientes a la notificación del acta a que se refiere este artículo, el interesado presente escrito en el que manifieste su consentimiento con el contenido del acta, la autoridad aduanera que hubiera iniciado el procedimiento podrá emitir una resolución provisional en la que determine las contribuciones y cuotas compensatorias omitidas y las sanciones que procedan. Cuando el interesado en un plazo de cinco días a partir de que surta efectos la notificación de la resolución provisional acredite el pago de las contribuciones, accesorios y multas correspondientes y, en su caso, el cumplimiento de las regulaciones y restricciones no arancelarias, la autoridad aduanera ordenará la devolución de las mercancías.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -4511,3 +4533,7 @@ LA ACTUALIZACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN
 D.O.F. 23 DE ENERO DE 2006.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 2 DE FEBRERO DE 2006.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con excepción de la reforma al Artículo 121 que entrará en vigor hasta que los establecimientos cuenten con la infraestructura, los medios de control que determine el Servicio de Administración Tributaria y el enlace necesario para su operación.
