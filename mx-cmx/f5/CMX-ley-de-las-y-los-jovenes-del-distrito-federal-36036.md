@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-las-y-los-jovenes-del-distrito-federal-36036"
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-25"
-last_updated: "2004-11-17"
+last_updated: "2006-02-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36036&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-05-30"
 
 LEY DE LAS Y LOS JOVENES DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE FEBRERO DE 2006.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 25 de julio del 2000.
 
@@ -388,11 +388,25 @@ IV. Fomentar entre las y los jóvenes el ejercicio de la libre asociación garan
 
 V. Coordinar y desarrollar un sistema de información e investigación sobre la juventud del Distrito Federal;
 
-VI. Fomentar el establecimiento de vínculos de amistad y de cooperación nacional e internacional en materia de juventud, y
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2006)</small>
+
+VI. Fomentar el establecimiento de vínculos de amistad y de cooperación nacional e internacional en materia de juventud;
+
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2006)</small>
 
 VII. Plantear y coordinar programas de actualización y capacitación para servidores públicos encargados de la aplicación de los programas de atención a la juventud;
 
-VIII. Los demás que determine la presente Ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 3 DE FEBRERO DE 2006)</small>
+
+VIII. Representar al Gobierno del Distrito Federal en materia de juventud, ante el Gobierno Federal, los Gobiernos Estatales, las Demarcaciones Territoriales del Distrito Federal, organizaciones privadas, sociales y organismos internacionales; en encuentros, convenciones y demás reuniones en las que el Jefe de Gobierno solicite su participación;
+
+> <small>(ADICIONADA, G.O. 3 DE FEBRERO DE 2006)</small>
+
+IX. Concertar acuerdos y convenios con los Gobiernos Estatales, las Demarcaciones Territoriales del Distrito Federal y los sectores social y privado, para promover acciones y programas tendientes al desarrollo integral de la juventud en el Distrito Federal, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 3 DE FEBRERO DE 2006)</small>
+
+X. Los demás que determine la presente Ley.
 
 ### CAPITULO III. DEL DIRECTOR DEL INSTITUTO
 
@@ -418,9 +432,17 @@ IV. Fomentar los intercambios académicos, políticos, culturales y deportivos a
 
 V. Elaborar y ejecutar programas culturales que propicien la mayor expresión de sus realidades y la comunicación cultural entre las y los jóvenes;
 
-VI. Promover y coordinar la práctica de aquellas actividades educativas que resulten prioritarias para desarrollar armónicamente todas las facultades del ser humano, fomentando entre los jóvenes el amor a la ciudad y la patria, la solidaridad internacional, la soberanía y la justicia, y
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2006)</small>
 
-VII. Las demás que establezca la presente Ley.
+VI. Promover y coordinar la práctica de aquellas actividades educativas que resulten prioritarias para desarrollar armónicamente todas las facultades del ser humano, fomentando entre los jóvenes el amor a la ciudad y a la patria, el respeto a los derechos humanos y civiles, la solidaridad internacional, y la promoción de la justicia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 3 DE FEBRERO DE 2006)</small>
+
+VII. Fungir como órgano de consulta y asesoría en materia de Juventud de las dependencias y entidades de la Administración Pública del Distrito Federal, así como de las autoridades delegacionales y de los sectores social privado cuando así lo requieran, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 3 DE FEBRERO DE 2006)</small>
+
+VIII. Las demás que establezca la presente Ley.
 
 ### CAPITULO II. DE LA RED DE INTERCAMBIO DE INFORMACION SOBRE LA REALIDAD JUVENIL DEL DISTRITO FEDERAL
 
@@ -518,7 +540,21 @@ VI. Proponer y ejecutar las medidas generales sobre el régimen interior, sobre 
 
 VII. Acordar en los casos que se requiera con el Jefe de Gobierno y cumplir los acuerdos en forma coordinada con la Junta del Instituto, y
 
-VIII. Las demás que establezca la presente Ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 3 DE FEBRERO DE 2006)</small>
+
+VIII.- Aprobar la contratación del personal del Instituto;
+
+> <small>(ADICIONADA, G.O. 3 DE FEBRERO DE 2006)</small>
+
+IX.- Establecer los sistemas de control necesarios para alcanzar las metas u objetivos propuestos;
+
+> <small>(ADICIONADA, G.O. 3 DE FEBRERO DE 2006)</small>
+
+X.- Emitir informes y opiniones, siempre que la Asamblea Legislativa del Distrito Federal así se lo requiera, cuando se discuta un proyecto de Ley o se estudie un asunto del ámbito de competencia del Instituto; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 3 DE FEBRERO DE 2006)</small>
+
+XI.- Las demás que establezca la presente Ley.
 
 ###### Artículo 59.
 
@@ -671,3 +707,9 @@ TERCERO: El Reglamento del Instituto de la Juventud del Distrito Federal, deber�
 CUARTO: La adecuación del Plan Estratégico para el Desarrollo Integral de la Juventud del Distrito Federal en materia de la Primera Experiencia Laboral, deberá tener lugar dentro de los 90 días naturales siguientes a la entrada en vigor del presente decreto.
 
 QUINTO: La aplicación del presente Decreto en lo que se refiere al artículo 56, se efectuará para la designación del próximo Director General o Contralor Interno del Instituto de la Juventud del Distrito Federal.
+
+G.O. 3 DE FEBRERO DE 2006.
+
+PRIMERO. Túrnese al Jefe de Gobierno del Distrito Federal para su promulgación y publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El presente decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
