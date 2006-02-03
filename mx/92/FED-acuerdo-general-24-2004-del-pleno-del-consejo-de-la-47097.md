@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-24-2004-del-pleno-del-consejo-de-la-47097"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2004-04-23"
-last_updated: "2005-12-09"
+last_updated: "2006-02-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47097&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-04-14"
 
 ACUERDO GENERAL 24/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE FIJA LAS BASES PARA LA DESINCORPORACION DE TODA CLASE DE BIENES MUEBLES EN EL CONSEJO DE LA JUDICATURA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE FEBRERO DE 2006.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 23 de abril de 2004.
 
@@ -159,7 +159,7 @@ Antes de iniciar las áreas operativas algún procedimiento para la desincorpora
 
 DE SU CREACION.- A fin de contar con un cuerpo multidisciplinario dedicado específicamente a la enajenación de bienes que requiera realizar el Consejo, se establece con carácter de permanente el Comité, al que se le otorgan las atribuciones precisadas en el presente acuerdo general, sin perjuicio de que el Pleno o la Comisión las ejerzan de manera directa en cualquier momento.
 
-> <small>(REFORMADO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 50/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 4/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 6.
 
@@ -167,19 +167,9 @@ DE SU INTEGRACION.- El Comité estará integrado en los siguientes términos:
 
 Presidente: El Secretario Ejecutivo de Obra, Recursos Materiales y Servicios Generales.
 
-Vocales: El Secretario Ejecutivo de Finanzas y el Director General de Asuntos Jurídicos.
+Vocales: Los Secretarios Ejecutivos de Finanzas y de Administración.
 
-Los citados integrantes tendrán derecho a voz y voto durante las sesiones.
-
-Secretario: Al secretario técnico de la Secretaría Ejecutiva de Obra, Recursos Materiales y Servicios Generales, que auxiliará al Comité en lo administrativo;
-
-Contralor: El Contralor del Poder Judicial de la Federación con carácter permanente;
-
-Invitados: Podrán ser invitados los servidores públicos que en razón de su competencia, profesión u oficio que desempeñen, puedan aportar sus conocimientos, experiencias y consejo para la resolución de los asuntos de la responsabilidad del Comité.
-
-El Secretario Técnico de la Comisión de Administración tendrá el carácter de invitado permanente a las sesiones del Comité con derecho a voz.
-
-Los invitados solo tendrán voz, a petición expresa de alguno de los miembros del Comité, cuando se trate algún asunto específico para el cual fueren invitados.
+Los citados integrantes, que siempre serán tres, salvo la ausencia de alguno de ellos, tendrán derecho a voz y voto durante las sesiones.
 
 ###### Artículo 7.
 
@@ -265,19 +255,23 @@ XI. Recabar la firma de los asistentes a cada sesión; así como cuestionar y co
 
 XII. Las demás que le encomiende el Pleno, la Comisión o el Presidente del Comité y las derivadas de los acuerdos que expida este último.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 4/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE FEBRERO DE 2006)</small>
+
 ###### Artículo 11.
 
-DE LA INTERVENCION DEL CONTRALOR.- El Contralor intervendrá con carácter permanente en el Comité de la siguiente manera:
+ASESORES E INVITADOS DEL COMITE.- El Contralor del Poder Judicial de la Federación y el Director General de Asuntos Jurídicos serán asesores permanentes del Comité, y tendrán las siguientes funciones:
 
-I. Asistir a las reuniones del Comité con derecho a voz, pero sin voto;
+I.- Asistir a las reuniones del Comité con derecho a voz, pero sin voto;
 
-II. Analizar los documentos que le sean turnados por el Comité;
+II.- Analizar los documentos relacionados con la competencia del Comité;
 
-III. Dar su opinión en los asuntos de su especialización;
+III.- Opinar y proporcionar la asesoría que estimen pertinente en los asuntos de su especialización, y
 
-IV. Proponer alternativas de solución cuando le sean solicitadas; y,
+IV.- Proponer alternativas de solución, cuando les sean solicitadas.
 
-V. Vigilar el cumplimiento de los acuerdos adoptados por el Comité.
+El Comité podrá invitar a las personas físicas, servidores públicos o particulares que, en razón de su competencia, profesión u oficio que desempeñen, puedan aportar sus conocimientos, experiencias y consejo para la resolución de los asuntos de la responsabilidad del Comité, teniendo derecho a voz, pero no a voto. Las personas antes referidas deberán guardar absoluta confidencialidad de la información a la que tengan acceso.
+
+El Secretario Técnico de la Comisión de Administración tendrá el carácter de invitado permanente a las sesiones del Comité.
 
 ###### Artículo 12.
 
@@ -517,7 +511,7 @@ XIV. La indicación de que no podrán participar las personas que se encuentren 
 
 INCUMPLIMIENTO DEL LICITANTE GANADOR.- En caso de que el licitante ganador incumpla con el pago de los bienes, el Consejo hará efectiva la garantía correspondiente y podrá adjudicar dichos bienes sin necesidad de un nuevo procedimiento al participante que haya presentado la siguiente mejor oferta, y así sucesivamente, hasta la tercer mejor oferta siempre que esta última no este por debajo de los precios mínimos señalados en las bases del concurso.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 50/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 23.
 
@@ -776,3 +770,11 @@ PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- Se derogan las disposiciones que se opongan a lo establecido en el presente Acuerdo General.
+
+D.O.F. 3 DE FEBRERO DE 2006.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- Se deroga cualquier disposición emitida por este Consejo de la Judicatura Federal que se oponga al presente Acuerdo.
