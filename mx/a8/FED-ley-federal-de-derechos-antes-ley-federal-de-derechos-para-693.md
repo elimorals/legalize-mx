@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-derechos-antes-ley-federal-de-derechos-para-693"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1981-12-31"
-last_updated: "2005-12-30"
+last_updated: "2006-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=693&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "1981-12-30"
 
 LEY FEDERAL DE DERECHOS
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO NOVENO TRANSITORIO DE LA LEY DEL MERCADO DE VALORES, PUBLICADA EN EL D.O.F. DE 30 DE DICIEMBRE DE 2005, LAS REFERENCIAS QUE SE HAGAN A LA SECCION VALORES DEL REGISTRO NACIONAL DE VALORES, SE ENTENDERAN HECHAS AL REGISTRO PREVISTO EN EL ARTICULO 70 DEL CITADO ORDENAMIENTO.</small>
-
-ULTIMA ACTUALIZACION POR MISCELANEA FISCAL: 4 DE MARZO DE 2005.
+ULTIMA ACTUALIZACION POR MISCELANEA FISCAL: 3 DE FEBRERO DE 2006.
 
 ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 2005.
 
@@ -207,7 +205,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Expedición de copias
 
@@ -221,7 +219,7 @@ u oficio $10.98 $11.00
 
 Asimismo se pagará el derecho que se estipula en esta fracción, por la expedición de copias certificadas que sean solicitadas al Tribunal Federal de Justicia Fiscal y Administrativa.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -231,13 +229,13 @@ O duplicados de las mismas,
 
 Así como de calcomanías $93.12 $93.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Compulsa de documentos,
 
 por hoja $6.45 $6.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 > <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -245,11 +243,11 @@ IV.- Copias de planos certificados,
 
 por cada una $67.20 $67.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Legalización de firmas $303.05 $303.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -339,7 +337,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Turista $210.06 $210.00
 
@@ -347,13 +345,13 @@ I.- Turista $210.06 $210.00
 
 II.- Visitante, con entradas y salidas múltiples:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Para dedicarse a actividades
 
 no lucrativas $1,038.16 $1,038.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Para dedicarse a
 
@@ -361,13 +359,13 @@ actividades no lucrativas,
 
 por cada prórroga $1,038.16 $1,038.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Para dedicarse a
 
 actividades lucrativas $1,685.60 $1,686.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- Para dedicarse a
 
@@ -375,7 +373,7 @@ actividades lucrativas,
 
 por cada prórroga $1,685.60 $1,686.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Visitantes Hombres de
 
@@ -383,19 +381,19 @@ Negocios (FMN) o Visitante
 
 Consejero (FMVC) $210.06 $210.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Asilado político, por la
 
 revalidación anual $1,038.16 $1,038.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Estudiante, por cada
 
 revalidación anual $1,685.60 $1,686.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Visitante provisional $336.89 $337.00
 
@@ -403,17 +401,17 @@ VI.- Visitante provisional $336.89 $337.00
 
 VII.- Ministro de culto o asociado religioso:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Por el otorgamiento
 
 de la característica $199.56 $200.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Por cada prórroga $199.56 $200.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VIII.- Transmigrante $210.06 $210.00
 
@@ -421,7 +419,7 @@ VIII.- Transmigrante $210.06 $210.00
 
 Por el cambio de característica migratoria dentro de la calidad de no inmigrante, se pagarán los derechos que correspondan al otorgamiento de la nueva característica a adquirir.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 Por la recepción, examen y
 
@@ -451,7 +449,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Autorización como
 
@@ -473,7 +471,7 @@ solicitante $2,245.61 $2,246.00
 
 II.- (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 1991)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por el refrendo de
 
@@ -503,7 +501,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por la expedición de la
 
@@ -511,7 +509,7 @@ declaratoria de inmigrado $2,738.59 $2,739.00
 
 II.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1999)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por la recepción, examen
 
@@ -555,7 +553,7 @@ VIII.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
 
 IX.- Corresponsal.
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 12.
 
@@ -575,13 +573,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Permiso para contraer
 
 matrimonio con nacional $2,131.75 $2,132.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Certificado para
 
@@ -595,13 +593,13 @@ nulidad de matrimonio con
 
 nacional mexicano $4,213.28 $4,213.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Permiso para realizar
 
 trámites de adopción $1,638.02 $1,638.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Permiso para ampliación
 
@@ -609,19 +607,19 @@ o cambio de actividad o de
 
 empleador $1,637.99 $1,638.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Certificados de legal
 
 internación y legal estancia $230.58 $231.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Permiso de salida y regreso
 
 al país $230.58 $231.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VII.- Por cada inscripción
 
@@ -639,15 +637,15 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- De no inmigrante $421.26 $421.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- De inmigrante $674.01 $674.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- De inmigrado $1,011.24 $1,011.00
 
@@ -667,7 +665,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -685,19 +683,19 @@ respectivamente $3,581.28 $3,581.00
 
 b).- Por cada revisión de la documentación de la tripulación de las embarcaciones turísticas comerciales, al desembarque y despacho, respectivamente, de acuerdo al número de personas a bordo:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 1. De 1 a 500 personas $2,325.30 $2,325.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 2. De 501 a 1000 personas $3,019.31 $3,019.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 3. De 1001 a 1500 personas $3,595.30 $3,595.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 4. De 1501 personas, en
 
@@ -711,7 +709,7 @@ Cuando el servicio migratorio extraordinario en puertos marítimos se preste a e
 
 No se pagarán los derechos por servicios migratorios extraordinarios, cuando por causas no imputables al contribuyente, los servicios migratorios se tengan que proporcionar en días y horas inhábiles o en lugares distintos a las oficinas migratorias.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- En aeropuertos
 
@@ -781,35 +779,35 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Certificado de licitud de título $1,746.70 $1,747.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Certificado de licitud de
 
 contenido $2,183.46 $2,183.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Duplicado de certificado de
 
 licitud de título $873.23 $873.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Duplicado de licitud de
 
 contenido $1,091.54 $1,092.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Registro de cambio de
 
 editor responsable $1,555.63 $1,556.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Agregado o variación del
 
@@ -819,7 +817,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 19
 
@@ -843,7 +841,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 19-A.
 
@@ -891,7 +889,7 @@ ajuste ajuste
 
 I.- Por el trámite y estudio de la solicitud y, en su caso, y (sic) clasificación de películas destinadas a exhibición pública en cualquier local o para su comercialización, incluidas la renta o venta:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- De 35 milímetros o más,
 
@@ -899,7 +897,7 @@ por rollo de 300 metros o
 
 fracción $251.15 $251.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- De 16 milímetros, 8
 
@@ -909,7 +907,7 @@ milímetros, por rollo de
 
 100 metros o fracción $126.55 $127.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Videograma o material
 
@@ -927,7 +925,7 @@ No pagarán los derechos a que se refiere esta fracción, las instituciones púb
 
 El pago de los derechos previstos en esta fracción, incisos a), b) y c) se destinará en su totalidad al Fondo de Inversión y Estímulos al Cine, para el fomento y promoción de la industria cinematográfica nacional.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Expedición de certificados
 
@@ -935,7 +933,7 @@ de origen de material filmado
 
 y grabado $749.63 $750.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por la autorización del
 
@@ -963,7 +961,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -975,7 +973,7 @@ programación, en más del
 
 el supuesto de esta fracción $6,030.10 $6,030.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -991,7 +989,7 @@ comercial, que no corresponda
 
 al supuesto del inciso anterior $602.91 $603.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por el trámite y estudio y,
 
@@ -1003,7 +1001,7 @@ condiciones de programa de
 
 concurso $748.98 $749.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -1023,33 +1021,45 @@ V.- (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2005)
 
 VI.- Por el trámite, estudio y, en su caso, clasificación y autorización de:
 
-a) Películas, por cada una $1,195.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-b) Telenovelas y teleteatros grabados destinados a su exhibición en televisión, por capítulo $723.00
+a) Películas, por cada una $1,195.00 $1,195.00
 
-c) Series filmadas, por capítulo $533.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
+
+b) Telenovelas y teleteatros
+
+grabados destinados a su
+
+exhibición en televisión, por
+
+capítulo $723.00 $723.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
+
+c) Series filmadas, por capítulo $533.00 $533.00
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 VII.- Supervisión para, en su caso, clasificación y autorización de comerciales destinados a trasmitirse por televisión, en cualquier formato o modalidad:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Hasta 30 segundos $251.15 $251.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- De más de 30 y hasta 60
 
 segundos $504.41 $504.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- De más de 60 y hasta 180
 
 segundos $755.65 $756.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- De más de 180 segundos $1,006.97 $1,007.00
 
@@ -1059,11 +1069,11 @@ VIII.- (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2005)
 
 IX.- Cuando los servicios a que se refiere la fracción VI de este artículo, se presten fuera del horario ordinario o de las instalaciones de la Dirección General de Radio, Televisión y Cinematografía, se pagarán adicionalmente, por hora de servicio, las siguientes cuotas:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Por la primera hora $191.38 $191.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Por cada hora o fracción
 
@@ -1081,7 +1091,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por el trámite y estudio y, en
 
@@ -1095,7 +1105,7 @@ originada, desarrollada o
 
 proveniente del extranjero $329.27 $329.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por el trámite y estudio y, en
 
@@ -1105,7 +1115,7 @@ modificación de las condiciones
 
 de programa de concurso $748.98 $749.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por el trámite y estudio y, en
 
@@ -1125,7 +1135,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 19-G.
 
@@ -1155,7 +1165,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por el estudio y trámite de la
 
@@ -1163,7 +1173,7 @@ solicitud de permiso para visita
 
 al territorio insular. $382.77 $383.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por el estudio y trámite de
 
@@ -1171,7 +1181,7 @@ la solicitud de concesión en
 
 territorio insular $1,020.90 $1,021.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por la expedición del
 
@@ -1179,13 +1189,13 @@ permiso de visita turística,
 
 por persona física y por isla $76.68 $77.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Por la expedición de la
 
 concesión en territorio insular $2,041.95 $2,042.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Por la expedición del
 
@@ -1231,7 +1241,7 @@ ajuste ajuste
 
 I.- (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Pasaportes ordinarios y
 
@@ -1243,7 +1253,7 @@ un año, no comprendidos
 
 en la fracción anterior $341.10 $340.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Pasaportes ordinarios y
 
@@ -1253,7 +1263,7 @@ viaje con validez hasta por
 
 cinco años $895.50 $895.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Pasaportes ordinarios
 
@@ -1261,19 +1271,19 @@ con validez hasta por diez
 
 años $1,441.33 $1,440.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Pasaportes oficiales con
 
 validez hasta por un año $271.52 $270.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Pasaportes oficiales con
 
 validez hasta por dos años $271.52 $270.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VII.- Por el refrendo de
 
@@ -1305,11 +1315,11 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Actuaciones matrimoniales $451.99 $450.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Legalización de firmas o
 
@@ -1319,7 +1329,7 @@ Sellos $383.77 $385.00
 
 III.- Visas de:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Certificados de análisis, de
 
@@ -1331,7 +1341,7 @@ b).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
 c).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- Ordinarias en pasaportes
 
@@ -1347,7 +1357,7 @@ Los derechos por la expedición de las visas ordinarias en pasaportes extranjero
 
 IV.- Expedición de certificados de:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Constitución de sociedades
 
@@ -1363,37 +1373,37 @@ provisionales de navegación, por
 
 cada uno $1,927.48 $1,925.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Matrícula consular a
 
 mexicanos, por cada una $290.00 $290.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Importación de psicotrópicos
 
 y estupefacientes $657.04 $655.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- Copia certificada de actas del
 
 registro civil, por cada una $136.41 $135.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 e).- De los que se expiden a
 
 petición de parte, por cada uno $ 656.66 $655.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 f).- Lista de menaje de casa
 
 a mexicanos $1,004.82 $1,005.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 g).- Lista de menaje de casa a
 
@@ -1423,7 +1433,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por la renuncia de derechos
 
@@ -1433,25 +1443,25 @@ Hereditarios $1,219.59 $1,220.00
 
 II.- Por los mandatos o poderes, así como la revocación de los mismos:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Generales o especiales
 
 otorgados por personas físicas $1,219.59 $1,220.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Generales o especiales
 
 otorgados por personas morales $1,833.66 $1,835.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por cada testamento
 
 público abierto $3,121.53 $3,120.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Por la expedición de
 
@@ -1459,19 +1469,19 @@ subsecuentes testimonios,
 
 por hoja $76.72 $75.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Por la recepción de cada
 
 testamento ológrafo $1,560.73 $1,560.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Por cada testamento
 
 público cerrado $426.42 $425.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VII.- Por las autorizaciones
 
@@ -1483,7 +1493,7 @@ o la tutela sobre menores o
 
 incapaces $469.04 $470.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VIII.- Cotejo de documentos,
 
@@ -1585,7 +1595,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por la recepción, examen y
 
@@ -1597,7 +1607,7 @@ constitución de sociedad y
 
 asociaciones $565.82 $565.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por la recepción, examen y
 
@@ -1607,7 +1617,7 @@ permiso de cambio de
 
 denominación o razón social $503.06 $505.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -1621,7 +1631,7 @@ IV.- Para la celebración de contratos u obtención de concesiones:
 
 a).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Obtención de concesiones
 
@@ -1633,7 +1643,7 @@ Federativas o de los Municipios $4,070.24 $4,070.00
 
 V.- Para la celebración de contratos de fideicomiso:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Por aquellos fideicomisos
 
@@ -1641,7 +1651,7 @@ a que se refiere el artículo 11
 
 de la Ley de Inversión Extranjera $8,385.23 $8,385.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Para la modificación y
 
@@ -1651,7 +1661,7 @@ fideicomiso a que se refiere el
 
 inciso anterior $3,772.71 $3,775.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Por la solicitud extemporánea
 
@@ -1663,7 +1673,7 @@ de conformidad con la Ley de
 
 Inversión Extranjera $ 4,334.00 $4,335.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- Para los demás casos no
 
@@ -1671,7 +1681,7 @@ señalados en los incisos
 
 anteriores $277.05 $275.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Por la recepción y estudio
 
@@ -1689,7 +1699,7 @@ y explotación de minas o aguas
 
 en el territorio nacional $4,070.24 $4,070.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VII.- A cada extranjero para
 
@@ -1703,7 +1713,7 @@ y sus accesiones $4,070.24 $4,070.00
 
 VIII.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IX.- Por la presentación de
 
@@ -1715,7 +1725,7 @@ o asociaciones y de reformas
 
 a sus estatutos $207.55 $210.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 X.- Por la presentación de
 
@@ -1737,7 +1747,7 @@ fines no residenciales $570.79 $570.00
 
 XI.- Por la presentación extemporánea de los siguientes avisos:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- De uso del permiso para
 
@@ -1749,13 +1759,13 @@ de denominación o razón
 
 social $1,131.29 $1,130.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- De liquidación, fusión o
 
 escisión de sociedades $1,131.29 $1,130.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- De modificación de la
 
@@ -1763,7 +1773,7 @@ cláusula de exclusión por la
 
 de admisión de extranjeros $1,131.29 $1,130.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d) De aviso de adquisición de
 
@@ -1781,7 +1791,7 @@ XII.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 XIII.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XIV.- Los no especificados
 
@@ -1801,11 +1811,11 @@ ajuste ajuste
 
 I.- Por los documentos expedidos con fundamento en el artículo 30, Apartado A, 32 y 37, Apartado A, de la Constitución Política de los Estados Unidos Mexicanos:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Por expedición $160.93 $160.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Por reposición $80.44 $80.00
 
@@ -1813,7 +1823,7 @@ b).- Por reposición $80.44 $80.00
 
 II.- En las cartas de naturalización a las que se refiere la fracción I del Apartado B del citado precepto constitucional:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Por la recepción y estudio
 
@@ -1821,11 +1831,11 @@ de cada solicitud de carta de
 
 naturalización $1,320.37 $1,320.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Por su expedición $1,886.26 $1,885.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Por reposición de documento $1,886.26 $1,885.00
 
@@ -1833,13 +1843,13 @@ c).- Por reposición de documento $1,886.26 $1,885.00
 
 III.- En las cartas de naturalización a que se refiere la fracción II del Apartado B del citado precepto constitucional y los artículos 16 y 17 de la Ley de Nacionalidad:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Por la recepción, estudio y
 
 expedición de cada carta $1,131.48 $1,130.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Por la reposición de
 
@@ -1887,49 +1897,151 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-I. Por el estudio y trámite de la solicitud de autorización para la constitución y funcionamiento de sociedades operadoras de sociedades de inversión, sociedades distribuidoras de acciones de sociedades de inversión y sociedades valuadoras de acciones de sociedades de inversión: $17,240.00
+I. Por el estudio y trámite de la
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+solicitud de autorización para la
 
-II. Por la autorización para la constitución y funcionamiento de sociedades operadoras de sociedades de inversión, sociedades distribuidoras de acciones de sociedades de inversión y sociedades valuadoras de acciones de sociedades de inversión: $ 177,304.00
+constitución y funcionamiento de
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+sociedades operadoras de
 
-III. Por la autorización para la constitución y funcionamiento de sociedades operadoras exclusivamente de sociedades de inversión de capitales o de sociedades de inversión de objeto limitado: $ 155,217.00
+sociedades de inversión,
 
-> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+sociedades distribuidoras de
 
-IV. Por el estudio y trámite de la solicitud para la inversión en sociedades inmobiliarias y empresas de servicios auxiliares o complementarios: $ 17,240.02
+acciones de sociedades de
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+inversión y sociedades
 
-V. Por el estudio y trámite de la solicitud de autorización para la constitución de una sociedad calificadora de valores: $ 17,240.00
+valuadoras de acciones de
 
-> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+sociedades de inversión: $17,240.02 $17,240.00
 
-VI. Por la autorización de una institución calificadora de valores: $ 177,303.74
+(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+II. Por la autorización para la
 
-VII. Por el estudio y trámite de la solicitud de autorización para la constitución y funcionamiento de sociedades de inversión de capitales y de objeto limitado: $ 14,228.00
+constitución y funcionamiento de
 
-> <small>(ADICIONADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+sociedades operadoras de
 
-VIII. Por el estudio y trámite de la sociedad de autorización para la constitución y operación de uniones de crédito $25,000.00
+sociedades de inversión,
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+sociedades distribuidoras de
 
-IX. Por cualquier certificación que se expida relativa al Registro Nacional de Valores: $ 297.00
+acciones de sociedades de
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+inversión y sociedades
 
-X. Por el estudio y trámite de la solicitud y, en su caso, autorización para la constitución y operación de los organismos de integración a que se refiere la Ley de Ahorro y Crédito Popular $ 25,000.00
+valuadoras de acciones de
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+sociedades de inversión: $177,304.74 $177,304.00
 
-XI.- Por el estudio y trámite de la solicitud y, en su caso, autorización para la constitución y operación de las entidades a que se refiere la Ley de Ahorro y Crédito Popular $ 15,000.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
+
+III. Por la autorización para la
+
+constitución y funcionamiento
+
+de sociedades operadoras
+
+exclusivamente de sociedades
+
+de inversión de capitales o de
+
+sociedades de inversión de
+
+objeto limitado: $155,217.12 $155,217.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
+
+IV. Por el estudio y trámite de
+
+la solicitud para la inversión en
+
+sociedades inmobiliarias y
+
+empresas de servicios auxiliares
+
+o complementarios: $17,240.02 $17,240.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
+
+V. Por el estudio y trámite de la
+
+solicitud de autorización para la
+
+constitución de una sociedad
+
+calificadora de valores: $17,240.02 $17,240.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
+
+VI. Por la autorización de una
+
+institución calificadora de
+
+valores: $177,303.74 $177,303.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
+
+VII. Por el estudio y trámite de la
+
+solicitud de autorización para la
+
+constitución y funcionamiento de
+
+sociedades de inversión de
+
+capitales y de objeto limitado: $14,228.16 $14,228.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
+
+VIII. Por el estudio y trámite de la
+
+sociedad de autorización para la
+
+constitución y operación de uniones
+
+de crédito $25,000.00 $25,000.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
+
+IX. Por cualquier certificación que
+
+se expida relativa al Registro
+
+Nacional de Valores: $296.95 $297.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
+
+X. Por el estudio y trámite de la
+
+solicitud y, en su caso,
+
+autorización para la constitución
+
+y operación de los organismos
+
+de integración a que se refiere la
+
+Ley de Ahorro y Crédito Popular $25,000.00 $25,000.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
+
+XI.- Por el estudio y trámite de la
+
+solicitud y, en su caso,
+
+autorización para la constitución
+
+y operación de las entidades a
+
+que se refiere la Ley de Ahorro
+
+y Crédito Popular $15,000.00 $15,000.00
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -1941,15 +2053,33 @@ Cuando se paguen derechos por la autorización para la constitución y funcionam
 
 Por el estudio y la tramitación de cualquier solicitud de inscripción de valores en la Sección de Valores o Especial del Registro Nacional de Valores que lleva la Comisión Nacional Bancaria y de Valores y la autorización de oferta pública, se pagarán los derechos correspondientes conforme a las siguientes cuotas:
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+cuota sin cuota con
 
-I.- Solicitud de inscripción o actualización de la misma, en la Sección de Valores o Especial y/o autorización de oferta pública: $ 14,228.00
+ajuste ajuste
+
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
+
+I.- Solicitud de inscripción o
+
+actualización de la misma, en la
+
+Sección de Valores o Especial
+
+y/o autorización de oferta
+
+pública: $14,228.16 $14,228.00
 
 No se pagarán los derechos a que se refiere esta fracción, cuando en términos del primer párrafo del artículo 15 de la Ley del Mercado de Valores, se solicite la inscripción genérica de instrumentos de deuda en la Sección de Valores del Registro Nacional de Valores.
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-II.- Solicitud de autorización de publicación de valores para la difusión con fines de promoción y publicidad: $ 14,228.00
+II.- Solicitud de autorización de
+
+publicación de valores para la
+
+difusión con fines de promoción
+
+y publicidad: $ 14,228.16 $ 14,228.00
 
 No se pagarán los derechos a que se refiere esta fracción, cuando la solicitud se presente conjuntamente con la autorización señalada en la fracción I de este artículo.
 
@@ -1959,37 +2089,71 @@ No se pagarán los derechos a que se refiere esta fracción, cuando la solicitud
 
 Por la inscripción de valores en el Registro Nacional de Valores, se pagará el derecho que corresponda conforme a lo siguiente:
 
+cuota sin cuota con
+
+ajuste ajuste
+
 I.- Inscripción inicial o ampliación de la misma, en la Sección de Valores:
 
 a).- Tratándose de Acciones:
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-1.7739 al millar por los primeros $ 650'470,868.93 del capital contable de la emisora, y 0.8870 al millar por el excedente sin que los derechos a pagar por este concepto excedan de: $ 7'652,599.00
+1.7739 al millar por los primeros
+
+$650,470,868.93 del capital
+
+contable de la emisora, y
+
+0.8870 al millar por el
+
+excedente sin que los
+
+derechos a pagar por este
+
+concepto excedan de: $7'652,599.00 $7'652,599.00
 
 b).- Tratándose de títulos de crédito o valores inscritos que otorguen a sus titulares derechos de crédito, de propiedad o de participación sobre bienes o derechos muebles o inmuebles o del capital de personas morales, y otros valores:
 
 1. Con vigencia mayor a un año:
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-1.7739 al millar por los primeros $ 650'470,868.93 sobre el monto emitido, y 0.8870 al millar por el excedente sin que los derechos a pagar por este concepto excedan de: $ 7'652,599.05
+1.7739 al millar por los primeros
+
+$650,470,868.93 sobre el monto
+
+emitido, y 0.8870 al millar por el
+
+excedente sin que los derechos
+
+a pagar por este concepto excedan
+
+de: $7,652,599.05 $7,652,599.00
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 2.- Con vigencia igual o menor a un año, distintos a los señalados en el numeral 3 de este inciso:
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
-0.8870 al millar por los primeros $ 650'756,367.00 del monto emitido, y 0.4435 al millar por el excedente, sin que los derechos a pagar en el primer año contado a partir de la obtención de la autorización por programa, excedan del resultado de multiplicar 0.8870 al millar por los primeros $ 650'756,367.00 del monto autorizado, y 0.4435 al millar por el excedente.
+0.8870 al millar por los primeros $650'756,367.00 del monto emitido, y 0.4435 al millar por el excedente, sin que los derechos a pagar en el primer año contado a partir de la obtención de la autorización por programa, excedan del resultado de multiplicar 0.8870 al millar por los primeros $650'756,367.00 del monto autorizado, y 0.4435 al millar por el excedente.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 3.- En el caso de títulos suscritos o emitidos por instituciones de crédito representativos de un pasivo a su cargo, por tipo de valor, con vigencia igual o menor a un año:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-0.4435 al millar del monto emitido por tipo de valor y en proporción a su plazo, sin que los derechos a pagar por este concepto en un ejercicio excedan de: $ 890,171.94
+0.4435 al millar del monto emitido
+
+por tipo de valor y en proporción a
+
+su plazo, sin que los derechos a
+
+pagar por este concepto en un
+
+ejercicio excedan de: $890,171.94 $890,172.00
 
 c).- Tratándose de acciones de sociedades de inversión:
 
@@ -2003,27 +2167,55 @@ d).- Tratándose de títulos opcionales emitidos por sociedades anónimas, casas
 
 e).- Tratándose de valores con plazo mayor a un año emitidos por entidades paraestatales de la Administración Pública Federal y/o valores fiduciarios en los que dichas entidades actúen exclusivamente en su carácter de fideicomitentes o fideicomisarios:
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-0.8870 al millar por los primeros $ 650'470,869.00 del monto autorizado, y 0.4435 al millar por el excedente sin que los derechos a pagar por este concepto excedan de: $ 890,172.00
+0.8870 al millar por los primeros
+
+$650'470,869.00 del monto
+
+autorizado, y 0.4435 al millar
+
+por el excedente sin que los
+
+derechos a pagar por este
+
+concepto excedan de: $890,172.00 $890,172.00
 
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
 f).- Tratándose de valores emitidos por las entidades federativas y municipios, así como por los organismos descentralizados de las entidades federativas o municipios o valores fiduciarios en los que dichas personas morales actúen exclusivamente en su carácter de fideicomitentes o fideicomisarios:
 
-0.7391 al millar por los primeros $ 650'470,869.00 del monto emitido, y 0.3696 al millar por el excedente.
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
+
+0.7391 al millar por los primeros $650'470,869.00 del monto emitido, y 0.3696 al millar por el excedente.
 
 g).- Tratándose de certificados, pagarés y otros valores emitidos por el Gobierno Federal, por tipo de valor:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-0.4435 al millar del monto emitido por tipo de valor y en proporción a su plazo, sin que los derechos a pagar por este concepto en un ejercicio excedan de: $ 890,171.94.
+0.4435 al millar del monto emitido
+
+por tipo de valor y en proporción a
+
+su plazo, sin que los derechos a
+
+pagar por este concepto en un
+
+ejercicio excedan de: $890,171.94 $890,172.00
 
 h).- Tratándose de bonos de regulación monetaria emitidos por el Banco de México:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-0.4435 al millar del monto emitido por tipo de valor y en proporción a su plazo, sin que los derechos a pagar por este concepto en un ejercicio excedan de: $ 890,171.89
+0.4435 al millar del monto emitido
+
+por tipo de valor y en proporción
+
+a su plazo, sin que los derechos
+
+a pagar por este concepto en un
+
+ejercicio excedan de: $890,171.89 $890,172.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -2031,17 +2223,31 @@ i).- Tratándose de emisores de valores que mantengan inscritos valores de los s
 
 1. Con vigencia mayor a un año:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REFORMADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-0.9 al millar por los primeros $ 731,430,670.04 sobre el monto emitido y 0.45 al millar por el excedente, sin que los derechos a pagar por este concepto excedan de $ 8,605,067.37
+0.9 al millar por los primeros
+
+$ 731,430,670.04 sobre el monto
+
+emitido y 0.45 al millar por el
+
+excedente, sin que los derechos
+
+a pagar por este concepto
+
+excedan de $8,605,067.37 $8,605,067.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 2.- En el caso de programas de emisión o emisiones con vigencia igual o menor a un año, efectuadas o no al amparo de cada programa:
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-0.45 al millar del monto emitido sin que los derechos a pagar por año, excedan de: $ 1'000,613.93
+0.45 al millar del monto emitido sin
+
+que los derechos a pagar por año,
+
+excedan de: $1,000,613.93 $1,000,614.00
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -2049,9 +2255,13 @@ j).- Tratándose de emisoras de valores que al momento de obtener la autorizaci�
 
 1. Emisiones con vigencia igual o menor a un año, efectuadas o no al amparo de cada programa:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REFORMADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-0.45 al millar del monto emitido, sin que los derechos a pagar por este concepto excedan de: $ 1,000,613.93
+0.45 al millar del monto emitido,
+
+sin que los derechos a pagar por
+
+este concepto excedan de: $1,000,613.93 $1,000,614.00
 
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -2063,19 +2273,47 @@ En el caso de valores emitidos por fideicomisos, no resultará aplicable a las e
 
 II.- Inscripción inicial o ampliación de la misma en la Sección Especial:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-a).- Tratándose de valores emitidos en México o por personas morales mexicanas, respecto de los cuales se haga oferta en el extranjero, por autorización de inscripción: $ 315,265.86
+a).- Tratándose de valores emitidos
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+en México o por personas morales
 
-b).- Tratándose de valores representativos de una deuda emitidos por organismos descentralizados del Gobierno Federal y valores emitidos por el propio Gobierno Federal, respecto de los cuales se haga oferta pública en el extranjero, por inscripción: $ 315,265.86
+mexicanas, respecto de los cuales
+
+se haga oferta en el extranjero,
+
+por autorización de inscripción: $315,265.86 $315,266.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
+
+b).- Tratándose de valores
+
+representativos de una deuda
+
+emitidos por organismos
+
+descentralizados del Gobierno
+
+Federal y valores emitidos por el
+
+propio Gobierno Federal, respecto
+
+de los cuales se haga oferta pública
+
+en el extranjero, por inscripción: $315,265.86 $315,266.00
 
 III.- Cualquier canje de acciones que no implique un aumento en el monto de capital social inscrito, o de títulos de deuda con objeto de actualizar o modificar los datos de inscripción por concepto de capitalización de intereses, el otorgamiento o liberación de garantías, así como la sustitución de fiduciario en el caso de certificados de participación, no causarán derecho alguno por concepto de registro.
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-IV.- Inscripción preventiva de acciones en la Sección de Valores del Registro Nacional de Valores: $ 13,902.83
+IV.- Inscripción preventiva de
+
+acciones en la Sección de
+
+Valores del Registro Nacional
+
+de Valores: $13,902.83 $13,903.00
 
 La cuota señalada en esta fracción, se bonificará al 100% contra la cuota que corresponde a la inscripción inicial en la Sección de Valores del Registro Nacional de Valores, una vez que se sustituya la inscripción preventiva por la inicial.
 
@@ -2087,21 +2325,41 @@ Tratándose de ampliación de la inscripción de acciones, la base del cobro se 
 
 Por las actuaciones de intervención gerencial de la Comisión Nacional Bancaria y de Valores, entendiendo por tal, las actividades internas desarrolladas por la Comisión que sean necesarias para la ejecución de dichas intervenciones, se pagará a más tardar el primer día hábil de cada mes, el derecho por intervención gerencial, conforme a las siguientes cuotas:
 
+cuota sin cuota con
+
+ajuste ajuste
+
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 I.- Sociedades controladoras de grupos financieros, instituciones de crédito y casas de bolsa:
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-2 por ciento adicional al importe de la cuota de inspección y vigilancia anual que respectivamente les corresponda, sin que en caso alguno sea inferior a: $316,137.02
+2 por ciento adicional al importe
+
+de la cuota de inspección y
+
+vigilancia anual que respectivamente
+
+les corresponda, sin que en caso
+
+alguno sea inferior a: $316,137.02 $316,137.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 II.- Las demás entidades financieras sujetas a la inspección y vigilancia de la Comisión Nacional Bancaria y de Valores:
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-2 por ciento adicional al importe de la cuota de inspección y vigilancia anual que respectivamente les corresponda, sin que en caso alguno sea inferior a: $158,068.51
+2 por ciento adicional al importe
+
+de la cuota de inspección y
+
+vigilancia anual que respectivamente
+
+les corresponda, sin que en caso
+
+alguno sea inferior a: $158,068.51 $158,069.00
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2112,6 +2370,10 @@ Los derechos a los que se refiere este artículo se causarán desde la notificac
 ###### ARTICULO 29-D.
 
 Las entidades o sujetos a que se refiere este artículo incluyendo las filiales de entidades financieras del exterior de cualquier tipo, pagarán por los servicios de inspección y vigilancia que presta la Comisión Nacional Bancaria y de Valores, las siguientes cuotas:
+
+cuota sin cuota con
+
+ajuste ajuste
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2127,9 +2389,9 @@ a). El resultado de multiplicar 0.229168 al millar por el valor de los certifica
 
 b). El resultado de multiplicar 0.451000 al millar por el valor de sus otras cuentas por cobrar menos las estimaciones por irrecuperabilidad o difícil cobro de esas otras cuentas por cobrar.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006
 
-La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $ 53,870.00
+La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $53,870.00 $53,870.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2149,9 +2411,9 @@ b). El resultado de multiplicar 0.995000 al millar, por el valor de su cartera d
 
 c). El resultado de multiplicar 0.038000 al millar por el valor del total de su cartera de arrendamiento menos las estimaciones preventivas para riesgos crediticios.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006
 
-La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $ 53,870.00
+La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $53,870.00 $53,870.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2167,9 +2429,9 @@ a). El resultado de multiplicar 0.200607 al millar, por el valor del total de lo
 
 b). El resultado de multiplicar 0.021420 al millar, por el valor de sus activos sujetos a riesgo totales.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006
 
-La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $ 1'500,000.00
+La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $1'500,000.00 $1'500,000.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2185,9 +2447,9 @@ a). El resultado de multiplicar 0.1650649 al millar, por el valor del total de p
 
 b). El resultado de multiplicar 0.010540 al millar, por el valor de sus activos sujetos a riesgo totales.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006
 
-La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $ 1'500,000.00
+La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $1'500,000.00 $1'500,000.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2207,9 +2469,9 @@ b). El resultado de multiplicar 1.785000 al millar, por el producto de su índic
 
 c). El resultado de multiplicar 0.364000 al millar, por el producto del recíproco del indicador de liquidez (equivalente a dividir 1 entre la cantidad que resulte de dividir activo circulante entre pasivo circulante) multiplicado por el pasivo total.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006
 
-La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $ 1'500,000.00
+La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $1'500,000.00 $1'500,000.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2225,9 +2487,9 @@ a). El resultado de multiplicar 7.689099 al millar, por el valor de su capital c
 
 b). El resultado de multiplicar 3.430000 al millar, por el importe que resulte de capital contable menos las disponibilidades netas (equivalentes a la suma de caja, billetes y monedas, saldos deudores de bancos, documentos de cobro inmediato, remesas en camino e inversiones en valores, menos los saldos acreedores de bancos). En este caso, cuando las disponibilidades netas sean negativas, la aplicación de la fórmula a que se refiere este inciso será equivalente a sumar el valor absoluto de dichas disponibilidades netas al capital contable.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006
 
-La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $ 53,870.00
+La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $53,870.00 $53,870.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2247,9 +2509,9 @@ b). El resultado de multiplicar 0.625000 al millar, por el valor de su cartera d
 
 c). El resultado de multiplicar 0.026900 al millar, por el valor de su cartera de factoraje menos las estimaciones preventivas para riesgos crediticios.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006
 
-La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $ 53,870.00
+La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $53,870.00 $53,870.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2261,9 +2523,9 @@ Cada entidad que pertenezca al sector de Inmobiliarias Bancarias, entendiéndose
 
 a). El resultado de multiplicar 0.454106 al millar, por el valor de su capital contable.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006
 
-La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $ 53,870.00
+La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $53,870.00 $53,870.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2277,9 +2539,9 @@ b). El resultado de multiplicar 0.068441 al millar, por el valor de su cartera d
 
 c). El resultado de multiplicar 0.003557 al millar, por el valor de su cartera de crédito total menos las reservas preventivas.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO, D.O.F. 3 DE FEBRERO DE 2006
 
-La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a la cantidad que resulte de sumar $ 12,150.00 por cada una de las entidades que agrupe o supervise.
+La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a la cantidad que resulte de sumar $12,150.00 por cada una de las entidades que agrupe o supervise.
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2299,9 +2561,9 @@ b). El resultado de multiplicar 0.272000 al millar, por el valor de su cartera d
 
 c). El resultado de multiplicar 0.013400 al millar, por el valor del total de su cartera de crédito menos las estimaciones preventivas para riesgos crediticios.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006
 
-La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $ 53,870.00
+La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $53,870.00 $53,870.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2313,9 +2575,9 @@ Cada entidad que pertenezca al sector de Sociedades de Inversión, entendiéndos
 
 a). El resultado de multiplicar 0.750000 al millar, por el valor total de las acciones representativas de su capital social en circulación, valuadas a precio corriente en el mercado y, a falta de éste, a su valor contable o precio actualizado de valuación, determinado por la sociedad valuadora o el comité de valuación que corresponda.
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006
 
-La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $ 13,200.00, sin que pueda ser superior a: $ 330,000.00
+La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $13,200.00, sin que pueda ser superior a: $330,000.00
 
 Cuando las sociedades de inversión paguen derechos por inscripción de sus acciones en la sección de valores del Registro Nacional de Valores, no se pagarán cuotas adicionales por inspección y vigilancia en el ejercicio fiscal correspondiente.
 
@@ -2337,9 +2599,9 @@ b). El resultado de multiplicar 0.1224000 al millar, por el valor de su cartera 
 
 c). El resultado de multiplicar 0.005740 al millar, por el valor del total de su cartera de crédito menos las estimaciones preventivas para riesgos crediticios.
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006
 
-La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $ 217,350.00
+La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $217,350.00 $217,350.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2359,9 +2621,9 @@ b). El resultado de multiplicar 0.169500 al millar, por el valor de su cartera d
 
 c). El resultado de multiplicar 0.020980 al millar, por el valor del total de su cartera de crédito menos las estimaciones preventivas para riesgos crediticios.
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006
 
-La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $ 62,489.00
+La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $62,489.00 $62,489.00
 
 > <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -2369,9 +2631,9 @@ XIV. Financiera Rural:
 
 La Financiera Rural, pagará una cuota equivalente al resultado de la suma de las siguientes cantidades:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006
 
-a). Una cuota de $ 1'500,000.00
+a). Una cuota de $1'500,000.00 $1'500,000.00
 
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -2383,9 +2645,9 @@ XV. Fondos y Fideicomisos Públicos:
 
 Cada una de las entidades que integran el sector de Fondos y Fideicomisos Públicos, pagarán una cuota equivalente al resultado de la suma de las siguientes cantidades:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006
 
-a). Una cuota de $ 1'458,128.00
+a). Una cuota de $1'458,128.00 $1'458,128.00
 
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -2403,61 +2665,219 @@ En la elaboración de los cálculos aritméticos a que se refieren las fraccione
 
 Las entidades, ya sean personas físicas o morales, que se indican a continuación, incluyendo a las filiales de entidades financieras del exterior de cualquier tipo, pagarán por los servicios de inspección y vigilancia que presta la Comisión Nacional Bancaria y de Valores, las siguientes cuotas:
 
+cuota sin cuota con
+
+ajuste ajuste
+
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 I. Asesores de Inversión:
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-Cada entidad que pertenezca al sector de Asesores de Inversión entendiéndose para tales efectos, a las personas que en términos de la Ley del Mercado de Valores, den aviso a la Comisión Nacional Bancaria y de Valores del inicio de las actividades del manejo de cartera de valores, deberá pagar la cantidad de: $ 17,796.00
+Cada entidad que pertenezca al
+
+sector de Asesores de Inversión
+
+entendiéndose para tales efectos,
+
+a las personas que en términos
+
+de la Ley del Mercado de Valores,
+
+den aviso a la Comisión Nacional
+
+Bancaria y de Valores del inicio
+
+de las actividades del manejo de
+
+cartera de valores, deberá pagar
+
+la cantidad de: $17,796.00 $17,796.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 II. Bolsas de Futuros y Opciones:
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-Cada entidad que pertenezca al sector de Bolsas de Futuros y Opciones, entendiéndose para tales efectos, a las entidades que cuenten con autorización para constituirse y operar como tales en términos de las disposiciones aplicables, pagará el 1.10 por ciento respecto de su capital contable, excluyendo el resultado no realizado por valuación de cartera de valores y actualización patrimonial, sin que los derechos a pagar por este concepto sean inferiores a $ 943,756.00
+Cada entidad que pertenezca al
+
+sector de Bolsas de Futuros y
+
+Opciones, entendiéndose para
+
+tales efectos, a las entidades que
+
+cuenten con autorización para
+
+constituirse y operar como tales
+
+en términos de las disposiciones
+
+aplicables, pagará el 1.10 por ciento
+
+respecto de su capital contable,
+
+excluyendo el resultado no realizado
+
+por valuación de cartera de valores
+
+y actualización patrimonial, sin que
+
+los derechos a pagar por este
+
+concepto sean inferiores a $943,756.00 $943,756.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 III. Bolsas de Valores:
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-Cada entidad que pertenezca al sector de Bolsas de Valores, entendiéndose para tales efectos, a las entidades que cuenten con la concesión para constituirse y operar como tales en términos de la legislación aplicable, pagará el 0.81 por ciento respecto de su capital contable, excluyendo el resultado no realizado por valuación de cartera de valores y actualización patrimonial, sin que los derechos a pagar por este concepto sean inferiores a $ 1,047,048.00
+Cada entidad que pertenezca al
+
+sector de Bolsas de Valores,
+
+entendiéndose para tales efectos,
+
+a las entidades que cuenten con
+
+la concesión para constituirse y
+
+operar como tales en términos de
+
+la legislación aplicable, pagará el
+
+0.81 por ciento respecto de su
+
+capital contable, excluyendo el
+
+resultado no realizado por
+
+valuación de cartera de valores
+
+y actualización patrimonial, sin
+
+que los derechos a pagar por
+
+este concepto sean inferiores a $1,047,048.00 $1,047,048.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 IV. Cámaras de Compensación:
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-Cada entidad que pertenezca al sector de Cámaras de Compensación, entendiéndose por ello a las sociedades que cuenten con la autorización correspondiente en términos de la legislación aplicable, deberá pagar anualmente una cantidad igual al 1.20 por ciento respecto de su capital contable, excluyendo el resultado no realizado por valuación de cartera de valores y actualización patrimonial, sin que los derechos a pagar por este concepto sean inferiores a $ 1'174,188.00
+Cada entidad que pertenezca
+
+al sector de Cámaras de
+
+Compensación, entendiéndose
+
+por ello a las sociedades que
+
+cuenten con la autorización
+
+correspondiente en términos
+
+de la legislación aplicable,
+
+deberá pagar anualmente una
+
+cantidad igual al 1.20 por ciento
+
+respecto de su capital contable,
+
+excluyendo el resultado no
+
+realizado por valuación de cartera
+
+de valores y actualización
+
+patrimonial, sin que los derechos
+
+a pagar por este concepto sean
+
+inferiores a $1'174,188.00 $1'174,188.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 V. Contrapartes Centrales:
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-Cada entidad que pertenezca al sector de Contrapartes Centrales, entendiéndose por ello a las sociedades que cuenten con la concesión correspondiente en términos de la legislación aplicable, pagará el 1.0 por ciento respecto de su capital contable, excluyendo el resultado no realizado por valuación de cartera de valores y actualización patrimonial, sin que los derechos a pagar por este concepto sean inferiores a $ 849,000.00
+Cada entidad que pertenezca al
+
+sector de Contrapartes Centrales,
+
+entendiéndose por ello a las
+
+sociedades que cuenten con la
+
+concesión correspondiente en
+
+términos de la legislación aplicable,
+
+pagará el 1.0 por ciento respecto
+
+de su capital contable, excluyendo
+
+el resultado no realizado por
+
+valuación de cartera de valores y
+
+actualización patrimonial, sin que
+
+los derechos a pagar por este
+
+concepto sean inferiores a $849,000.00 $849,000.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 VI. Empresas de Servicios Complementarios:
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-Cada entidad que pertenezca al sector de Empresas de Servicios Complementarios, entendiéndose por ello a las sociedades que presten servicios complementarios o auxiliares en la administración a entidades financieras en términos de las disposiciones aplicables, o en la realización de su objeto, pagará la cantidad de $ 60,063.00
+Cada entidad que pertenezca al
+
+sector de Empresas de Servicios
+
+Complementarios, entendiéndose por
+
+ello a las sociedades que presten
+
+servicios complementarios o
+
+auxiliares en la administración
+
+a entidades financieras en términos
+
+de las disposiciones aplicables, o en
+
+la realización de su objeto, pagará la
+
+cantidad de $60,063.00 $60,063.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 VII. Especialistas Bursátiles:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REFORMADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-Cada entidad que pertenezca al sector de Especialistas Bursátiles, entendiéndose por ello a las sociedades que cuenten con la autorización correspondiente en términos de la legislación aplicable, pagará $ 1,500,000.00
+Cada entidad que pertenezca al
+
+sector de Especialistas Bursátiles,
+
+entendiéndose por ello a las
+
+sociedades que cuenten con la
+
+autorización correspondiente en
+
+términos de la legislación aplicable,
+
+pagará $1,500,000.00 $1,500,000.00
 
 VIII. (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
 
@@ -2469,9 +2889,23 @@ X. (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
 
 XI. Instituciones Calificadoras de Valores:
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-Cada entidad que pertenezca al sector de Instituciones Calificadoras de Valores, entendiéndose por ello aquellas sociedades que con tal carácter se constituyan y sean autorizadas en términos de la Ley del Mercado de Valores, deberán pagar: $ 254,354.00
+Cada entidad que pertenezca al
+
+sector de Instituciones Calificadoras
+
+de Valores, entendiéndose por ello
+
+aquellas sociedades que con tal
+
+carácter se constituyan y sean
+
+autorizadas en términos de la
+
+Ley del Mercado de Valores,
+
+deberán pagar: $254,354.00 $254,354.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2479,31 +2913,83 @@ XII. Instituciones para el Depósito de Valores:
 
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
-Cada entidad que pertenezca al sector de Instituciones para el Depósito de Valores, entendiéndose por ello aquellas sociedades que cuenten con la concesión correspondiente en términos de la legislación aplicable, pagará el 0.92 por ciento respecto de su capital contable, excluyendo el resultado no realizado por valuación de cartera de valores y actualización patrimonial, sin que los derechos a pagar por este concepto sean inferiores a: $ 632,886.00
+Cada entidad que pertenezca al
+
+sector de Instituciones para el
+
+Depósito de Valores, entendiéndose
+
+por ello aquellas sociedades que
+
+cuenten con la concesión
+
+correspondiente en términos de la
+
+legislación aplicable, pagará el
+
+0.92 por ciento respecto de su
+
+capital contable, excluyendo el
+
+resultado no realizado por valuación
+
+de cartera de valores y actualización
+
+patrimonial, sin que los derechos
+
+a pagar por este concepto sean
+
+inferiores a: $632,886.00 $632,886.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 XIII. Mecanismos para facilitar las operaciones con valores:
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-Cada entidad que opere mecanismos para facilitar las operaciones con valores, autorizados en términos de la Ley del Mercado de Valores, pagarán la cantidad de: $ 193,826.00
+Cada entidad que opere
+
+mecanismos para facilitar las
+
+operaciones con valores,
+
+autorizados en términos de la
+
+Ley del Mercado de Valores,
+
+pagarán la cantidad de: $193,826.00 $193,826.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 XIV. Oficinas de Representación de Entidades Financieras del Exterior:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-Cada entidad que pertenezca al sector de Oficinas de Representación de Entidades Financieras del Exterior, en términos de lo previsto en la Ley de Instituciones de Crédito, pagará la cantidad de $ 35,470.00
+Cada entidad que pertenezca al
+
+sector de Oficinas de Representación
+
+de Entidades Financieras del
+
+Exterior, en términos de lo previsto
+
+en la Ley de Instituciones de
+
+Crédito, pagará la cantidad de $35,470.00 $35,470.00
 
 > <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 XV. Operadores del Mercado de Futuros y Opciones:
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-Cada entidad que pertenezca al sector de Operadores del Mercado de Futuros y Opciones, pagará la cantidad de: $ 44,248.00
+Cada entidad que pertenezca al
+
+sector de Operadores del Mercado
+
+de Futuros y Opciones, pagará la
+
+cantidad de: $44,248.00 $44,248.00
 
 Para efectos de lo previsto en esta fracción, se entenderá que pertenecen al sector de Operadores del Mercado de Futuros y Opciones, las instituciones de crédito, casas de bolsa y demás personas físicas y morales que pueden o no ser socios de la Bolsa de Futuros y Opciones en términos de lo previsto en las disposiciones que regulan a las sociedades y fideicomisos que intervengan en el establecimiento y operación de un mercado de futuros y opciones cotizados en bolsa, y cuya función sea actuar como comisionista de uno o más Socios Liquidadores, en la celebración de contratos de futuros y contratos de opciones, y que pueden tener acceso al sistema electrónico de negociación de la bolsa para la celebración de dichos contratos.
 
@@ -2515,25 +3001,41 @@ Tratándose de instituciones de crédito o casas de bolsa que actúen simultáne
 
 XVI. Organismos Autorregulatorios:
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-Los Organismos Autorregulatorios debidamente reconocidos conforme a las disposiciones que los rigen, pagarán la cantidad de: $ 105,554.00
+Los Organismos Autorregulatorios
+
+debidamente reconocidos conforme
+
+a las disposiciones que los rigen,
+
+pagarán la cantidad de: $105,554.00 $105,554.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 XVII. Confederaciones a que se refiere la Ley de Ahorro y Crédito Popular:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-Las confederaciones a que se refiere la Ley de Ahorro y Crédito Popular, cada una de ellas pagará la cuota de: $ 158,069.00
+Las confederaciones a que se refiere
+
+la Ley de Ahorro y Crédito
+
+Popular, cada una de ellas
+
+pagará la cuota de: $158,068.51 $158,069.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 XVIII. Proveedores de Precios:
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-Cada entidad que pertenezca al sector de Proveedores de Precios pagará: $ 127,873.00
+Cada entidad que pertenezca al
+
+sector de Proveedores de Precios
+
+pagará: $127,873.00 $127,873.00
 
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -2543,17 +3045,43 @@ Se entiende que pertenecen al sector de Proveedores de Precios las personas mora
 
 XIX. Sociedades Controladoras de Grupos Financieros:
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-Cada entidad que pertenezca al sector de Sociedades Controladoras de Grupos Financieros, entendiéndose por ello a las sociedades controladoras previstas en la Ley para Regular las Agrupaciones Financieras, pagará la cantidad de: $ 598,443.00
+Cada entidad que pertenezca al
+
+sector de Sociedades Controladoras
+
+de Grupos Financieros,
+
+entendiéndose por ello a las
+
+sociedades controladoras previstas
+
+en la Ley para Regular las
+
+Agrupaciones Financieras, pagará
+
+la cantidad de: $598,443.00 $598,443.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 XX. Sociedades de Información Crediticia:
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-Cada entidad que pertenezca al sector de Sociedades de Información Crediticia, entendiéndose por ello a las sociedades autorizadas conforme a la Ley para Regular a las Sociedades de Información Crediticia pagará la cantidad de: $ 329,847.00
+Cada entidad que pertenezca al
+
+sector de Sociedades de
+
+Información Crediticia, entendiéndose
+
+por ello a las sociedades autorizadas
+
+conforme a la Ley para Regular a las
+
+Sociedades de Información
+
+Crediticia pagará la cantidad de: $329,847.00 $329,847.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2561,13 +3089,15 @@ XXI. Sociedades Distribuidoras de Acciones de Sociedades de Inversión:
 
 Cada entidad que pertenezca al sector de Sociedades Distribuidoras de Acciones de Sociedades de Inversión, entendiéndose por ello a las sociedades a que con tal carácter se refiere la Ley de Sociedades de Inversión, pagará conforme a lo siguiente:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-a).- Que actúen como referenciadoras: $ 22,809.00
+a).- Que actúen como
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+referenciadoras: $22,809.00 $22,809.00
 
-b).- Que actúen como integrales: $ 52,637.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
+
+b).- Que actúen como integrales: $52,637.00 $52,637.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2575,33 +3105,49 @@ XXII. Sociedades Operadoras de Sociedades de Inversión:
 
 Cada entidad que pertenezca al sector de Sociedades Operadoras de Sociedades de Inversión, entendiéndose por ello a las sociedades a que con tal carácter se refiere la Ley de Sociedades de Inversión, pagará conforme a lo siguiente:
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-a).- De renta variable y de inversión en instrumentos de deuda: $ 44,266.00
+a).- De renta variable y de
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+inversión en instrumentos
 
-b).- De capitales o de objeto limitado: $ 37,627.00
+de deuda: $44,266.00 $44,266.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
+
+b).- De capitales o de objeto
+
+limitado: $37,627.00 $37,627.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 XXIII. Sociedades Valuadoras de Acciones de Sociedades de Inversión:
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-Cada entidad que pertenezca al sector de Sociedades Valuadoras de Acciones de Sociedades de Inversión, entendiéndose por ello a las sociedades a que con tal carácter se refiere la Ley de Sociedades de Inversión, pagará la cantidad de $ 475.00 por cada Fondo valuado.
+Cada entidad que pertenezca al sector de Sociedades Valuadoras de Acciones de Sociedades de Inversión, entendiéndose por ello a las sociedades a que con tal carácter se refiere la Ley de Sociedades de Inversión, pagará la cantidad de $575.00 por cada Fondo valuado.
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $ 26,538.00
+La cuota que resulte de
+
+conformidad con lo previsto en
+
+esta fracción, en ningún caso
+
+podrá ser inferior a $26,538.00 $26,538.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 XXIV. Socios Liquidadores:
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-Cada entidad que pertenezca al sector de Socios Liquidadores pagará la cantidad de: $ 448,446.00
+Cada entidad que pertenezca al
+
+sector de Socios Liquidadores
+
+pagará la cantidad de: $448,446.00 $448,446.00
 
 Para efectos de lo previsto en esta fracción se entenderá que este sector lo conforman los fideicomisos que sean socios de una bolsa y que participen en el patrimonio de una cámara de compensación en términos de lo dispuesto por las Reglas a las que habrán de sujetarse las sociedades y fideicomisos que intervengan en el establecimiento y operación de un mercado de futuros y opciones cotizados en bolsa, teniendo como finalidad liquidar y, en su caso, celebrar por cuenta de clientes, contratos de futuros y contratos de opciones operados en bolsa.
 
@@ -2611,51 +3157,129 @@ Para efectos de lo previsto en esta fracción se entenderá que este sector lo c
 
 Las personas morales que en su carácter de emisoras tengan inscritos valores en el Registro Nacional de Valores, deberán pagar anualmente derechos por concepto de inspección y vigilancia, conforme a los siguientes criterios:
 
+cuota sin cuota con
+
+ajuste ajuste
+
 I. Por valores inscritos en la Sección de Valores:
 
 a). Con sólo acciones inscritas:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-0.9595 al millar respecto al capital social más reservas de capital, sin que los derechos a pagar por este concepto excedan de $ 477,893.00
+0.9595 al millar respecto al capital
+
+social más reservas de capital,
+
+sin que los derechos a pagar por
+
+este concepto excedan de $477,892.58 $477,893.00
 
 b). Con sólo títulos de crédito o valores inscritos que otorguen a sus titulares derechos de crédito, de propiedad o de participación, sobre bienes o derechos muebles o inmuebles o del capital de personas morales:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-0.9595 al millar respecto al monto en circulación de cada emisión, sin que los derechos a pagar por este concepto excedan de $ 238,947.00
+0.9595 al millar respecto al monto
+
+en circulación de cada emisión,
+
+sin que los derechos a pagar por
+
+este concepto excedan de $238,947.18 $238,947.00
 
 c). Con acciones y títulos de crédito o valores inscritos que otorguen a sus titulares derechos de crédito, de propiedad o de participación, sobre bienes o derechos muebles o inmuebles o del capital de personas morales:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-0.9595 al millar respecto al capital social más reservas de capital, sin que los derechos a pagar por este concepto excedan de $ 477,893.00 y 0.6396 al millar respecto al monto en circulación de cada emisión de títulos de crédito o valores inscritos que otorguen a sus titulares derechos de crédito, de propiedad o de participación, sobre bienes o derechos muebles o inmuebles o del capital de personas morales, sin que los derechos a pagar por este concepto excedan de $ 119,472.61.
+0.9595 al millar respecto al capital
+
+social más reservas de capital,
+
+sin que los derechos a pagar por
+
+este concepto excedan de $477,892.58
+
+y 0.6396 al millar respecto al
+
+monto en circulación de cada
+
+emisión de títulos de crédito o
+
+valores inscritos que otorguen
+
+a sus titulares derechos de crédito,
+
+de propiedad o de participación,
+
+sobre bienes o derechos muebles
+
+o inmuebles o del capital de
+
+personas morales, sin que los
+
+derechos a pagar por este concepto
+
+excedan de $119,472.61 $119,473.00
 
 d). Valores emitidos por organismos descentralizados del Gobierno Federal, Gobiernos de los Estados y Municipios, así como de los organismos y empresas en que estos últimos participen:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-0.9595 al millar, respecto al monto en circulación de cada emisión, sin que los derechos a pagar por este concepto excedan de $ 238,947.00
+0.9595 al millar, respecto al
+
+monto en circulación de cada
+
+emisión, sin que los derechos a
+
+pagar por este concepto excedan
+
+de $238,947.18 $238,947.00
 
 e). Valores fiduciarios distintos de los señalados en los incisos b. y c. anteriores:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-0.6396 al millar, respecto al monto en circulación de cada emisión, sin que los derechos a pagar por este concepto excedan de $ 89,604.00
+0.6396 al millar, respecto al monto
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+en circulación de cada emisión,
 
-f). Otros títulos o valores inscritos distintos a los señalados en los incisos anteriores: $ 78,852.00 por cada emisión.
+sin que los derechos a pagar por
+
+este concepto excedan de $89,603.99 $89,604.00
+
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
+
+f). Otros títulos o valores inscritos
+
+distintos a los señalados en los
+
+incisos anteriores: $78,852.45 $78,852.00
+
+por cada emisión.
 
 II. Con valores inscritos en la Sección Especial:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-Se pagará anualmente la cuota de $ 44,204.00 por inscripción.
+Se pagará anualmente la cuota
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+de $44,204.22 $44,204.00
 
-III. Las personas morales que mantengan sus acciones inscritas con carácter preventivo en la Sección de Valores del Registro Nacional de Valores pagarán: $ 13,532.00 por inscripción preventiva.
+por inscripción.
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
+
+III. Las personas morales que
+
+mantengan sus acciones inscritas
+
+con carácter preventivo en la
+
+Sección de Valores del Registro
+
+Nacional de Valores pagarán: $13,531.76 $13,532.00
+
+por inscripción preventiva.
 
 No computarán para los efectos de la cuota de inspección y vigilancia a que se refiere este artículo, los valores que hayan sido inscritos en el mismo ejercicio fiscal en el cual se paguen dichos derechos, excepto cuando se otorgue la inscripción para la ampliación de plazos, montos de emisión o de capital social.
 
@@ -2841,11 +3465,11 @@ Las sociedades mutualistas pagarán las cuotas de inspección y vigilancia calcu
 
 Los derechos a que se refieren las fracciones anteriores, se pagarán por mensualidades adelantadas.
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Los derechos por servicio de inspección y vigilancia que proporcione la Comisión Nacional de Seguros y Fianzas a las sociedades controladoras, de grupos financieros bajo su supervisión, se determinarán en razón del 1 al millar respecto del capital pagado más reservas de capital, sin que los derechos a pagar por este concepto excedan de $ 440,321.00 anuales.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Empresas de servicios
 
@@ -2861,15 +3485,15 @@ de la Comisión Nacional de
 
 Seguros y Fianzas $22,015.74 $22,016.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REFORMADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Por los servicios de inspección
 
 y vigilancia que se prestan a los
 
-intermediarios de reaseguro $4,930.65 $4,931.00 mensuales.
+intermediarios de reaseguro $4,930.65 $4,931.00 cuota mensual.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REFORMADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Por los servicios de inspección
 
@@ -2877,7 +3501,7 @@ y vigilancia que se prestan a las
 
 oficinas de representación de
 
-reaseguradoras extranjeras $2,958.39 $2,958.00 mensuales.
+reaseguradoras extranjeras $2,958.39 $2,958.00 cuota mensual.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -2889,7 +3513,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por la autorización provisional
 
@@ -2897,7 +3521,7 @@ proporcionada a agentes de
 
 seguros personas físicas $1,197.11 $1,197.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por la autorización definitiva a
 
@@ -2907,7 +3531,7 @@ para actuar por cuenta propia con
 
 vigencia de tres años $1,882.73 $1,883.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por el refrendo trianual de las
 
@@ -2915,13 +3539,13 @@ autorizaciones definitivas a agentes
 
 personas físicas $985.04 $985.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Por la autorización a agentes de
 
 seguros personas morales $5,986.47 $5,986.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Por la autorización para ejercer la
 
@@ -2933,7 +3557,7 @@ intervenir en el asesoramiento y
 
 contratación de seguros $1,882.73 $1,883.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Por el refrendo trianual de la
 
@@ -2941,7 +3565,7 @@ autorización a que se refiere la
 
 fracción anterior $985.04 $985.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VII.- Por la autorización para
 
@@ -2951,7 +3575,7 @@ mandatario de instituciones de
 
 seguros $92.35 $92.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VIII.- Por la presentación del
 
@@ -2977,13 +3601,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por la autorización definitiva como
 
 intermediario de reaseguro. $5,986.51 $5,987.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por la autorización para ejercer
 
@@ -2995,7 +3619,7 @@ intervenir en el asesoramiento y
 
 contratación de reaseguro $1,882.73 $1,883.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por el refrendo quinquenal
 
@@ -3019,7 +3643,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I. Por el examen de acreditación
 
@@ -3039,7 +3663,7 @@ instituciones y sociedades
 
 mutualistas de seguros $870.00 $870.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II. Por el examen de acreditación
 
@@ -3057,7 +3681,7 @@ instituciones y sociedades
 
 mutualistas de seguros $870.00 $870.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III. Por el examen de acreditación
 
@@ -3109,7 +3733,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por la autorización definitiva a
 
@@ -3119,7 +3743,7 @@ para actuar por cuenta propia con
 
 vigencia de tres años $1,882.73 $1,883.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por el refrendo trianual de las
 
@@ -3127,13 +3751,13 @@ autorizaciones definitivas a agentes
 
 personas físicas $985.04 $985.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por la autorización a agentes de
 
 fianzas personas morales $5,985.88 $5,986.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Por la autorización para ejercer
 
@@ -3145,7 +3769,7 @@ para intervenir en el asesoramiento
 
 y contratación de fianzas $1,882.73 $1,883.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Por el refrendo trianual de la
 
@@ -3153,7 +3777,7 @@ autorización a que se refiere la
 
 fracción anterior $985.04 $985.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Por la autorización provisional
 
@@ -3161,7 +3785,7 @@ proporcionada a agentes de fianzas
 
 personas físicas $1,197.91 $1,198.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VII.- Por la autorización para
 
@@ -3171,7 +3795,7 @@ mandatario de instituciones de
 
 fianzas $92.35 $92.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VIII.- Por la presentación del
 
@@ -3195,7 +3819,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por el examen de acreditación
 
@@ -3215,7 +3839,7 @@ de los productos que ofrezcan
 
 al público $870.00 $870.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por el examen de acreditación
 
@@ -3229,7 +3853,7 @@ técnicas, que deben calcular y
 
 registrar las instituciones de fianzas $870.00 $870.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por el examen de acreditación
 
@@ -3263,11 +3887,11 @@ de fianza $870.00 $870.00
 
 Las Administradoras de Fondos para el Retiro, las Empresas Operadoras de la Base de Datos Nacional SAR y las Sociedades de Inversión Especializadas de Fondos para el Retiro que operan las primeras, pagarán el derecho de inspección y vigilancia que se efectúa en éstas, conforme a las siguientes cuotas:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Las Administradoras de Fondos para el Retiro $ 48,713.00 cuota anual y adicionalmente $ 0.1174 anuales por cada $ 1,000.00 del saldo total de las subcuentas de retiro, cesantía en edad avanzada y vejez de las cuentas individuales que administren.
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Las Sociedades de Inversión Especializadas de Fondos para el Retiro $ 48,713.00 cuota anual.
 
@@ -3279,7 +3903,7 @@ Para los efectos de la cuota anual de $ 0.1174 a que se refiere la fracción I a
 
 Para determinar el monto de cada pago trimestral a que se refiere el párrafo anterior, se deberá multiplicar cada $ 1,000.00 del saldo total de las subcuentas de retiro, cesantía en edad avanzada y vejez de las cuentas individuales que administren por la cuota anual de $ 0.1174 actualizada a la fecha de pago de conformidad con el artículo 17-A del Código Fiscal de la Federación, dividida entre cuatro, tomando como saldo total de dichas subcuentas el que resulte al último día hábil del mes inmediato anterior al mes en que deba efectuarse el pago de este derecho.
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Las Empresas Operadoras de la Base de Datos Nacional SAR $ 1'500,000.00 por cada Administradora de Fondos para el Retiro.
 
@@ -3289,7 +3913,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 32.
 
@@ -3317,7 +3941,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 33.
 
@@ -3347,7 +3971,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 34.
 
@@ -3411,7 +4035,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Por la inscripción en el
 
@@ -3419,7 +4043,7 @@ registro del despacho de
 
 mercancías $3,396.66 $3,397.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Por la autorización de depósito
 
@@ -3435,7 +4059,7 @@ manufacturera de vehículos de
 
 autotransporte $ 6,902.92 $ 6,903.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Por la autorización para
 
@@ -3447,7 +4071,7 @@ nacional por lugar distinto al
 
 autorizado $6,683.77 $6,684.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- Por la concesión o
 
@@ -3461,7 +4085,7 @@ mercancías de comercio
 
 exterior $36,158.22 $36,158.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 e).- Por la autorización para
 
@@ -3473,19 +4097,19 @@ trasbordo de mercancías en
 
 el recinto fiscal $6,902.92 $6,903.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 f).- Por la autorización de
 
 apoderado aduanal $5,478.51 $5,479.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 g).- Por la autorización de
 
 dictaminador aduanero $5,478.51 $5,479.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 h).- Por la autorización para la
 
@@ -3495,7 +4119,7 @@ por tuberías, ductos, cables u
 
 otros medios de conducción $6,026.36 $6,026.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 i).- Por la autorización de depósito
 
@@ -3505,7 +4129,7 @@ destinados a exposiciones
 
 internacionales de mercancías $ 3,287.10 $ 3,287.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 j).- Por la inscripción en el
 
@@ -3513,7 +4137,7 @@ Registro de empresas
 
 transportistas $3,615.81 $3,616.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 k).- Por la autorización para
 
@@ -3525,7 +4149,7 @@ ventas de mercancías
 
 extranjeras y nacionales $30,098.97 $30,099.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 l) Por la autorización para
 
@@ -3533,13 +4157,13 @@ habilitar instalaciones especiales
 
 en los recintos fiscalizados $41,590.97 $41,591.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 m) Por la inscripción en el
 
 registro de empresas certificadas $15,596.61 $15,597.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 n) Por la autorización de
 
@@ -3595,19 +4219,19 @@ ajuste ajuste
 
 I.- Por cada quinientos kilogramos o fracción y durante:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Los primeros quince días
 
 naturales $6.91 $7.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Los siguientes treinta días
 
 naturales $13.47 $13.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c) El tiempo que transcurra después
 
@@ -3631,7 +4255,7 @@ d) Las que por su naturaleza deban conservarse en refrigeración, en cuartos est
 
 e) Los animales vivos.
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Los equipajes o efectos
 
@@ -3725,7 +4349,7 @@ I.- Del 8 al millar, sobre el valor que tengan los bienes para los efectos del i
 
 II.- Del 1.76 al millar sobre el valor que tengan los bienes, tratándose de la importación temporal de bienes de activo fijo que efectúen las maquiladoras o las empresas que tengan programas de exportación autorizados por la Secretaría de Economía o, en su caso, la maquinaria y equipo que se introduzca al territorio nacional para destinarlos al régimen de elaboración, transformación o reparación en recintos fiscalizados.
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Tratándose de importaciones
 
@@ -3745,7 +4369,7 @@ exportación. $ 178.78 $179.00
 
 Asimismo, se pagará la cuota señalada en el párrafo anterior, por la introducción al territorio nacional de bienes distintos a los señalados en la fracción II de este artículo, bajo el régimen de elaboración, transformación o reparación en recintos fiscalizados, así como en los retornos respectivos.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2004)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Tratándose de la introducción
 
@@ -3763,7 +4387,7 @@ recintos fiscalizados, así como
 
 en los retornos respectivos $178.78 $179.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- En el caso de operaciones de
 
@@ -3793,7 +4417,7 @@ las disposiciones aplicables no tengan
 
 valor en aduana, por cada operación. $ 178.78 $ 179.00
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- En las operaciones de exportación $179.27 $179.00
 
@@ -3805,7 +4429,7 @@ Cuando la exportación de mercancías se efectúe mediante pedimento consolidado
 
 También se pagará este derecho por cada operación en que se utilice el pedimento complementario del pedimento de exportación o retorno de mercancías.
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Tratándose de las efectuadas
 
@@ -3815,21 +4439,21 @@ por los Estados extranjeros $175.32 $175.00
 
 VII.- Por aquellas operaciones en que se rectifique un pedimento y no se esté en los supuestos de las fracciones anteriores, así como cuando se utilice algunos de los siguientes pedimentos:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- De tránsito interno $178.78 $179.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- De tránsito internacional $ 179.00 $ 179.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- De extracción del régimen de
 
 depósito fiscal para retorno $178.78 $179.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- La parte II de los pedimentos
 
@@ -3837,7 +4461,7 @@ de importación; exportación o
 
 tránsito $178.78 $179.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VIII.- Del 8 al millar, sobre el valor
 
@@ -3903,7 +4527,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por el examen para aspirante
 
@@ -3913,7 +4537,7 @@ aduanal o dictaminador
 
 aduanero $5,573.82 $5,574.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por la expedición de la patente de
 
@@ -3923,19 +4547,19 @@ agente aduanal $11,145.98 $11,146.00
 
 III.- Por el examen para aspirante a mandatario de agente aduanal:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a). Correspondiente a la
 
 etapa de conocimientos $2,723.00 $2,723.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b). Correspondiente a la
 
 etapa psicotécnica $2,723.00 $2,723.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Por el estudio y aprobación
 
@@ -3951,7 +4575,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 52.
 
@@ -4013,13 +4637,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Bancos extranjeros, por cada
 
 uno $401.88 $402.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Entidades de financiamiento
 
@@ -4027,7 +4651,7 @@ pertenecientes a estados
 
 extranjeros, por cada una $401.88 $402.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Entidades que coloquen
 
@@ -4043,7 +4667,7 @@ el gran público inversionista, por
 
 cada una $602.91 $603.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Entidades que otorguen créditos
 
@@ -4055,7 +4679,7 @@ para la habilitación y avío o
 
 comercialización, por cada una $502.41 $502.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Entidades de financiamiento
 
@@ -4071,7 +4695,7 @@ o garantías en condiciones
 
 preferenciales, por cada una $401.88 $402.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Fondos de pensiones y
 
@@ -4079,7 +4703,7 @@ jubilaciones del extranjero,
 
 por cada uno $502.41 $502.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VII.- Fondos de inversión en los
 
@@ -4089,7 +4713,7 @@ y jubilaciones del extranjero,
 
 por cada uno $703.38 $703.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VIII.- Personas morales del
 
@@ -4101,7 +4725,7 @@ jubilaciones del extranjero, por
 
 cada una $803.92 $804.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IX.- Entidades de Financiamiento
 
@@ -4125,11 +4749,11 @@ ajuste ajuste
 
 I.- Anual:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Bancos extranjeros $401.88 $402.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Entidades de financiamiento
 
@@ -4137,7 +4761,7 @@ pertenecientes a estados
 
 extranjeros $401.88 $402.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Entidades que coloquen o
 
@@ -4151,7 +4775,7 @@ el extranjero entre el gran público
 
 inversionista $602.91 $603.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- Entidades que otorguen créditos
 
@@ -4163,13 +4787,13 @@ general para la habilitación y
 
 avío o comercialización $502.41 $502.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 e).- Fondos de pensiones y
 
 jubilaciones del extranjero $200.91 $201.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 f).- Entidades de Financiamiento
 
@@ -4183,7 +4807,7 @@ capital social $280.68 $281.00
 
 II.- Semestral:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Fondos de inversión en
 
@@ -4193,7 +4817,7 @@ pensiones y jubilaciones del
 
 extranjero. $200.91 $201.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Personas morales del extranjero
 
@@ -4213,11 +4837,11 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Bancos extranjeros $200.91 $201.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Entidades de financiamiento
 
@@ -4225,7 +4849,7 @@ pertenecientes a estados
 
 extranjeros $200.91 $201.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Entidades que coloquen o
 
@@ -4239,7 +4863,7 @@ el extranjero entre el gran público
 
 inversionista $301.41 $301.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Entidades que otorguen
 
@@ -4253,7 +4877,7 @@ habilitación y avío o
 
 comercialización $200.91 $201.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Entidades de financiamiento
 
@@ -4269,13 +4893,13 @@ garantías en condiciones
 
 preferenciales $200.91 $201.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Fondos de pensiones y
 
 Jubilaciones del extranjero $301.41 $301.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VII.- Fondos de inversión en los
 
@@ -4285,7 +4909,7 @@ pensiones y jubilaciones del
 
 extranjero $351.63 $352.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VIII.- Personas morales del
 
@@ -4295,7 +4919,7 @@ fondos de pensiones y
 
 jubilaciones del extranjero $351.63 $352.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IX.- Entidades de Financiamiento
 
@@ -4315,7 +4939,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 53-G.
 
@@ -4337,7 +4961,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 53-H.
 
@@ -4367,13 +4991,13 @@ Por los servicios de estudio y trámite de solicitudes de personas físicas y mo
 
 Los ingresos que se obtengan por los derechos a que se refiere el artículo anterior, se destinarán a la Secretaría de Hacienda y Crédito Público.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 53-K.
 
 Por la obtención de marbetes que se adhieran a los envases que contengan bebidas alcohólicas a que se refiere la Ley del Impuesto Especial sobre Producción y Servicios, se pagará el derecho de marbetes conforme a la cuota de $ 0.2469 por cada uno.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 53-L.
 
@@ -4413,57 +5037,57 @@ ajuste ajuste
 
 I.- Tratándose de autoabastecimiento, pequeña producción, exportación o importación de energía eléctrica:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Hasta 5 MW $43,452.17 $43,452.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Mayor a 5 y hasta 20 MW $60,577.25 $60,577.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Mayor a 20 y hasta 40 MW $89,545.37 $89,545.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- Mayor a 40 y hasta 60 MW $104,715.67 $104,716.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 e).- Mayor a 60 y hasta 80 MW $125,656.73 $125,657.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 f).- Mayor a 80 y hasta 100 MW $139,979.62 $139,980.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 g).- Mayor a 100 MW $179,267.50 $179,267.00
 
 II.- Tratándose de producción independiente de energía eléctrica:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- De 30 y hasta 40 MW $135,415.01 $135,415.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Mayor a 40 y hasta 60 MW $157,068.32 $157,068.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Mayor a 60 y hasta 80 MW $167,923.56 $167,924.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- Mayor a 80 y hasta 100 MW $174,645.70 $174,646.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 e).- Mayor a 100 MW $202,158.13 $202,158.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por la modificación del título
 
@@ -4479,7 +5103,7 @@ producción, exportación o
 
 importación $ 20,948.00 $ 20,948.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Por la modificación del título
 
@@ -4493,31 +5117,31 @@ de producción independiente $41,895.20 $41,895.00
 
 V.- Tratándose de las modalidades de cogeneración:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Hasta 5 MW $31,430.00 $31,430.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Mayor a 5 y hasta 20 MW $40,080.00 $40,080.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Mayor a 20 y hasta 40 MW $58,160.00 $58,160.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- Mayor a 40 y hasta 60 MW $77,590.00 $77,590.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 e).- Mayor a 60 y hasta 80 MW $100,710.00 $100,710.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 f).- Mayor a 80 y hasta 100 MW $114,000.00 $114,000.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 g).- Mayor a 100 MW $144,970.00 $144,970.00
 
@@ -4535,7 +5159,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Tratándose de permisos de
 
@@ -4543,7 +5167,7 @@ distribución de gas natural
 
 otorgados sin licitación $145,729.87 $145,730.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Tratándose de permisos de
 
@@ -4551,13 +5175,13 @@ distribución de gas natural
 
 mediante licitación $72,864.90 $72,865.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Tratándose de permisos
 
 de transporte de gas natural $200,114.98 $200,115.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Tratándose de permisos de
 
@@ -4565,7 +5189,7 @@ transporte de gas natural para
 
 usos propios $72,864.90 $72,865.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Tratándose de permisos
 
@@ -4573,7 +5197,7 @@ Para el almacenamiento de
 
 gas natural $207,954.88 $207,955.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Tratándose de permisos
 
@@ -4581,7 +5205,7 @@ para el almacenamiento de gas
 
 natural para usos propios $72,940.17 $72,940.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VII.- Por la modificación del
 
@@ -4601,7 +5225,7 @@ de conformidad a las
 
 disposiciones legales aplicables $153,824.22 $153,824.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VIII.- Por la modificación del
 
@@ -4611,7 +5235,7 @@ transporte o almacenamiento
 
 de gas natural $31,390.78 $31,391.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IX.- Por la modificación del permiso
 
@@ -4631,7 +5255,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Permisos para la distribución
 
@@ -4639,7 +5263,7 @@ de gas licuado de petróleo por
 
 medio de ductos $138,557.64 $138,558.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Permisos para el transporte
 
@@ -4647,13 +5271,13 @@ de gas licuado de petróleo por
 
 medio de ductos $138,557.64 $138,558.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Permisos para el transporte
 
 por ductos para autoconsumo $69,278.80 $69,279.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Por la modificación del
 
@@ -4663,7 +5287,7 @@ de gas licuado de petróleo por
 
 medio de ductos $28,866.16 $28,866.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Por la modificación del
 
@@ -4673,7 +5297,7 @@ gas licuado de petróleo por
 
 medio de ductos $28,866.16 $28,866.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Por la modificación del
 
@@ -4691,7 +5315,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por el otorgamiento del
 
@@ -4711,7 +5335,7 @@ calidad de la línea de
 
 producción $3,965.86 $3,966.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por el análisis de la
 
@@ -4733,7 +5357,7 @@ Comisión Reguladora de
 
 Energía $14,357.03 $14,357.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por la modificación de
 
@@ -4745,7 +5369,7 @@ derivadas de los avisos a
 
 cargo de los permisionarios $1,049.90 $1,050.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Por los servicios de
 
@@ -4771,7 +5395,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Unidades de Verificación para el
 
@@ -4779,7 +5403,7 @@ cumplimiento de las Normas
 
 Oficiales Mexicanas $5,305.01 $5,305.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Laboratorios de prueba y
 
@@ -4793,7 +5417,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 61.
 
@@ -4831,25 +5455,25 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Examen de aspirante de
 
 corredor Público $502.41 $502.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Examen definitivo de corredor
 
 Público $1,004.93 $1,005.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Expedición y registro de
 
 títulos de habilitación $2,009.96 $2,010.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Registro de garantías, sellos y
 
@@ -4857,7 +5481,7 @@ firmas de corredores, por cada
 
 garantía, sello o firma $301.41 $301.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Autorización de libros de
 
@@ -4865,13 +5489,13 @@ registro de corredores, por
 
 cada libro $301.41 $301.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Por la expedición de la
 
 credencial de corredor público $93.20 $93.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VII.- Registro y aprobación de
 
@@ -4881,7 +5505,7 @@ asociación de los corredores
 
 públicos, por cada convenio $316.34 $316.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VIII.- Licencia de separación
 
@@ -4899,7 +5523,7 @@ Público $272.47 $272.00
 
 Por el estudio, trámite y resolución de cada solicitud de concesión o asignación minera, se pagarán los derechos que resulten de aplicar la siguiente tabla al número de hectáreas que pretende amparar la solicitud:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 Rango de Superficie
 
@@ -4949,13 +5573,13 @@ ajuste ajuste
 
 I.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2000)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Reducción, división, identificación
 
 o unificación de superficie $1,541.63 $1,542.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Agrupamiento de concesiones
 
@@ -4965,7 +5589,7 @@ separación de éstas a uno o más
 
 de ellos $218.98 $219.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Expedición de duplicado del
 
@@ -4973,7 +5597,7 @@ título de concesión o asignación
 
 minera $263.19 $263.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Inscripción en el registro de
 
@@ -4989,7 +5613,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Inscripción de actos, contratos
 
@@ -5001,7 +5625,7 @@ mineras o de los derechos que
 
 de ellas deriven $880.28 $880.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Cancelación de las inscripciones
 
@@ -5011,13 +5635,13 @@ convenios a que alude la fracción
 
 interior $218.98 $219.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Inscripción de sociedades
 
 Mineras $1,320.49 $1,320.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Inscripción de las
 
@@ -5027,13 +5651,13 @@ dichas sociedades $440.09 $440.00
 
 V.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2000)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Avisos notariales
 
 Preventivos $218.98 $219.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VII.- Anotaciones preventivas
 
@@ -5045,7 +5669,7 @@ o convenios sujetos a
 
 temporalidad $218.98 $219.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VIII.- Revisión de la
 
@@ -5081,7 +5705,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por cada plano a escala 1:50,000
 
@@ -5093,7 +5717,7 @@ de Estadística, Geografía
 
 e Informática $2,200.91 $2,201.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por cada porción de las hojas
 
@@ -5101,7 +5725,7 @@ anteriores de 5 minutos de latitud y
 
 de longitud $218.98 $219.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por cada porción a que se
 
@@ -5157,7 +5781,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por recepción y resolución
 
@@ -5175,7 +5799,7 @@ IV.- (DEROGADA, D.O.F. 3 DE DICIEMBRE DE 1993)
 
 V.- (DEROGADA, D.O.F. 3 DE DICIEMBRE DE 1993)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Por recepción, estudio y
 
@@ -5189,11 +5813,11 @@ registral $389.41 $389.00
 
 VII.- Por recepción y estudio de solicitudes para el otorgamiento de prórrogas a plazos establecidos, en materia registral, en la Ley de Inversión Extranjera, requerimientos o en cualquier otra disposición en materia de inversión extranjera:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Por la primera prórroga $389.41 $389.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Por las ulteriores prórrogas $779.11 $779.00
 
@@ -5211,7 +5835,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Suscripción o adquisición de
 
@@ -5229,7 +5853,7 @@ específica y en las que la inversión
 
 extranjera participe en más del 49% $4,046.96 $4,047.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Constitución de fideicomisos
 
@@ -5241,7 +5865,7 @@ derechos en favor de la inversión
 
 extranjera $4,046.96 $4,047.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por afectación de acciones
 
@@ -5255,7 +5879,7 @@ especiales de acciones neutras
 
 por parte de sociedades mexicanas $3,925.71 $3,926.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Entrada a nuevos campos de
 
@@ -5267,7 +5891,7 @@ Comisión Nacional de Inversiones
 
 Extranjeras $776.68 $777.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Autorización para la inscripción
 
@@ -5281,7 +5905,7 @@ su establecimiento en la República
 
 Mexicana $1,136.66 $1,137.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Replanteamiento a resoluciones
 
@@ -5291,7 +5915,7 @@ exención de cumplimiento de
 
 programas y compromisos $3,887.81 $3,888.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VII.- Reconsideraciones o
 
@@ -5299,7 +5923,7 @@ revisiones de resoluciones
 
 específicas $465.95 $466.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VIII.- Por recepción, estudio o
 
@@ -5317,11 +5941,11 @@ de inversión extranjera $390.16 $390.00
 
 IX.- Por recepción y estudio de solicitudes para el otorgamiento de prórrogas:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Por la primera prórroga $390.16 $390.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Por la segunda y ulteriores
 
@@ -5351,7 +5975,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 73-A.
 
@@ -5389,7 +6013,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Ingeniero titulado con estudios
 
@@ -5401,7 +6025,7 @@ instalaciones en fuerza y
 
 alumbrado $1,167.00 $1,167.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Pasante de ingeniería o
 
@@ -5415,7 +6039,7 @@ instalaciones en fuerza y
 
 alumbrado $932.07 $932.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Técnico a nivel secundaria
 
@@ -5429,7 +6053,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 73-F.
 
@@ -5491,7 +6115,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 77.
 
@@ -5527,7 +6151,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por el trámite y estudio de
 
@@ -5537,7 +6161,7 @@ como prestador del servicio de
 
 certificación de firma electrónica $29,070.00 $29,070.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por la acreditación como
 
@@ -5545,7 +6169,7 @@ prestador del servicio de
 
 certificación de firma electrónica $139,300.00 $139,300.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por el cese voluntario como
 
@@ -5553,7 +6177,7 @@ prestador del servicio de
 
 certificación de firma electrónica $102,110.00 $102,110.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Por el examen para encargado
 
@@ -5667,7 +6291,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por la importación de productos
 
@@ -5677,13 +6301,13 @@ por cada tonelada o fracción. $ 290.00 $ 290.00
 
 II.- Por la importación de animales vivos:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Por cada ejemplar de la
 
 especie bovina: $ 50.00 $ 50.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Por cada ejemplar de la especie
 
@@ -5713,7 +6337,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por cada certificado fitosanitario
 
@@ -5723,7 +6347,7 @@ productos y subproductos vegetales
 
 sujetos a regulación fitosanitaria $60.16 $60.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por cada certificado zoosanitario
 
@@ -5735,7 +6359,7 @@ subproductos animales, sujetos a
 
 regulación zoosanitaria $60.16 $60.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006))
 
 III.- Por cada certificado fitosanitario
 
@@ -5745,7 +6369,7 @@ de vegetales, sus productos y
 
 subproductos $301.41 $301.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Por cada certificado zoosanitario
 
@@ -5761,7 +6385,7 @@ alimenticios para uso en animales
 
 y consumo por éstos $301.41 $301.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Por cada certificado fitosanitario
 
@@ -5771,7 +6395,7 @@ vegetales, sus productos y
 
 subproductos $1,299.71 $1,300.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Por cada certificado zoosanitario
 
@@ -5787,7 +6411,7 @@ y alimenticios para uso en animales
 
 y consumo por éstos $1,299.71 $1,300.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VII.- Por cada certificación de la
 
@@ -5801,7 +6425,7 @@ por la Comisión Nacional de
 
 Sanidad Agropecuaria $11,862.82 $11,863.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VIII.- Por la certificación
 
@@ -5843,7 +6467,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por el dictamen técnico de
 
@@ -5853,7 +6477,7 @@ agrícolas o pecuarios $1,457.17 $1,457.00
 
 II.- (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por el certificado fitosanitario
 
@@ -5877,29 +6501,29 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Organismos de normalización $27,537.94 $27,538.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Organismos de certificación $53,266.88 $53,267.00
 
 III.- Unidades de verificación:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Personas físicas $502.41 $502.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Personas morales $4,068.28 $4,068.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Laboratorios de pruebas $1,607.96 $1,608.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Médicos veterinarios para brindar
 
@@ -5925,7 +6549,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por la expedición del formato
 
@@ -5943,7 +6567,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 86-G.
 
@@ -5983,7 +6607,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por el estudio y trámite de la
 
@@ -5991,25 +6615,25 @@ solicitud de protección de derechos
 
 del obtentor $9,447.28 $9,447.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por la expedición de la
 
 constancia de presentación $502.41 $502.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por la expedición del
 
 título del obtentor $4,623.04 $4,623.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Por el reconocimiento
 
 del derecho de prioridad $502.41 $502.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Por cambio de denominación $1,276.32 $1,276.00
 
@@ -6023,31 +6647,31 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por el registro de sucesión de
 
 los derechos de protección $893.29 $893.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por cada copia certificada del
 
 Título $255.12 $255.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por el registro de la renuncia
 
 al derecho $1,276.17 $1,276.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Copia de la caracterización de
 
 la variedad protegida $255.15 $255.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Por la presentación de
 
@@ -6057,11 +6681,25 @@ adicional por causa imputable
 
 al usuario. $165.78 $166.00
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+cuota sin cuota con
+
+ajuste ajuste
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 89.
 
-Por el refrendo anual del título de protección de los derechos del obtentor de variedades vegetales de cualquier especie, se pagará el derecho del obtentor, conforme a la cuota de: $ 2,139.00
+Por el refrendo anual
+
+del título de protección de los derechos
+
+del obtentor de variedades vegetales
+
+de cualquier especie, se pagará el
+
+derecho del obtentor, conforme a
+
+la cuota de: $ 2,139.00 $ 2,139.00
 
 ###### ARTICULO 89-A.
 
@@ -6083,7 +6721,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por la expedición de certificado
 
@@ -6091,7 +6729,7 @@ de origen para exportación, por
 
 cada uno $222.16 $222.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por la expedición de certificados
 
@@ -6099,19 +6737,25 @@ de calidad, por etiqueta $0.8736
 
 III.- Por la autorización a personas físicas o morales como organismos de certificados de semillas:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Autorización $6,030.10 $6,030.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Por refrendo anual $3,014.99 $3,015.00
 
 c).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-> <small>(ADICIONADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-IV.- Por el estudio de la solicitud y, en su caso, la inscripción en el catálogo de variedades factibles de certificación $ 201.00
+IV.- Por el estudio de la solicitud y,
+
+en su caso, la inscripción en el
+
+catálogo de variedades factibles
+
+de certificación $ 201.00 $ 201.00
 
 > <small>(DEROGADA CON LAS ARTICULOS QUE LA INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -6167,7 +6811,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 91.
 
@@ -6211,7 +6855,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por el estudio de la documentación
 
@@ -6219,19 +6863,19 @@ inherente a la solicitud para obtener
 
 uno o más títulos de concesión $21,387.64 $21,388.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por la expedición del título de
 
 concesión, por cada uno $15,378.41 $15,378.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por el estudio de la solicitud de
 
 prórroga del título de concesión $8,782.17 $8,782.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Por la autorización de prórroga
 
@@ -6247,7 +6891,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por el estudio de la solicitud
 
@@ -6257,13 +6901,13 @@ administrativa y legal inherente
 
 a la misma $24,339.29 $24,339.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por la expedición del título
 
 de concesión $27,527.05 $27,527.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por el estudio de la solicitud
 
@@ -6271,7 +6915,7 @@ de prórroga del título de
 
 concesión $17,198.17 $17,198.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Por la autorización de
 
@@ -6287,11 +6931,11 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por el estudio $8,600.00 $8,600.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por la autorización $3,950.00 $3,950.00
 
@@ -6307,7 +6951,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por el estudio de la solicitud y
 
@@ -6317,19 +6961,19 @@ administrativa y legal inherente
 
 a la misma $20,134.51 $20,135.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por la expedición del título de
 
 concesión $13,229.45 $13,229.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por el estudio de la solicitud de
 
 prórroga del título de concesión $7,079.84 $7,080.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Por la autorización de prórroga
 
@@ -6345,7 +6989,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por el estudio de la solicitud
 
@@ -6355,13 +6999,13 @@ administrativa y legal inherente
 
 a la misma $24,672.36 $24,672.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por la expedición del título de
 
 Concesión $27,652.09 $27,652.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por el estudio de la solicitud
 
@@ -6369,7 +7013,7 @@ de prórroga del título de
 
 concesión $14,578.95 $14,579.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Por la autorización de prórroga
 
@@ -6385,7 +7029,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por el registro de representantes
 
@@ -6395,21 +7039,21 @@ primeramente designados $4,851.72 $4,852.00
 
 II.- Por cambio en la titularidad de las concesiones:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Por el estudio $21,734.76 $21,735.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Por la autorización $8,059.89 $8,060.00
 
 III.- Por cambio en la escritura constitutiva del concesionario:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Por el estudio $12,355.29 $12,355.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Por la autorización $5,493.63 $5,494.00
 
@@ -6417,35 +7061,35 @@ b).- Por la autorización $5,493.63 $5,494.00
 
 IV.- Por el estudio y, en su caso, autorización para prestar un servicio adicional:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Por el estudio $9,221.15 $9,221.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Por la autorización $2,891.61 $2,892.00
 
 V.- Por ampliación al área de cobertura de la red:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Por el estudio. $7,985.88 $7,986.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Por la autorización. $2,891.61 $2,892.00
 
 VI.- Por modificación de las características de uso, aprovechamiento o explotación de frecuencias o bandas de frecuencias concesionadas:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Por el estudio. $7,170.44 $7,170.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Por la autorización. $2,891.61 $2,892.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VII.- Por el estudio de prórrogas,
 
@@ -6463,11 +7107,11 @@ prórrogas. $2,189.75 $2,190.00
 
 VIII.- Por cambio de razón social o cambio en la titularidad de acciones o partes sociales y de aportaciones de capital social de sociedades mercantiles:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Por el estudio $4,638.55 $4,639.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Por la autorización $1,480.07 $1,480.00
 
@@ -6475,11 +7119,11 @@ b).- Por la autorización $1,480.07 $1,480.00
 
 IX.- Por el estudio y autorización de otras modificaciones de los títulos de concesión, no consideradas en las fracciones anteriores:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Por el estudio $7,006.49 $7,006.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Por la autorización $2,825.50 $2,825.00
 
@@ -6493,7 +7137,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por el estudio de la solicitud
 
@@ -6503,17 +7147,17 @@ administrativa y legal inherente
 
 a la misma $13,956.82 $13,957.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por la expedición del permiso $15,535.38 $15,535.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por el estudio de la solicitud
 
 de prórroga del permiso $11,044.71 $11,045.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Por la autorización de
 
@@ -6529,7 +7173,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por el registro de representantes
 
@@ -6541,11 +7185,11 @@ primeramente designados $6,200.59 $6,201.00
 
 II.- Por cambio en la titularidad del permiso:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Por el estudio $10,894.50 $10,894.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Por la autorización $3,684.36 $3,684.00
 
@@ -6553,11 +7197,11 @@ b).- Por la autorización $3,684.36 $3,684.00
 
 III.- Por cambios en la escritura constitutiva del permisionario:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Por el estudio $2,178.79 $2,179.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Por la autorización $737.61 $738.00
 
@@ -6565,15 +7209,15 @@ b).- Por la autorización $737.61 $738.00
 
 IV.- Por ampliación al área de cobertura de los servicios:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Por el estudio $9,401.10 $9,401.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Por la autorización $4,327.25 $4,327.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Por el estudio de prórrogas
 
@@ -6595,13 +7239,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por la autorización de modificaciones
 
 que requieran estudio técnico $4,237.91 $4,238.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por la autorización de modificaciones
 
@@ -6621,7 +7265,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por el estudio de la solicitud y de
 
@@ -6629,7 +7273,7 @@ la documentación técnica administrativa
 
 y legal inherente a la misma $8,682.63 $8,683.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por la expedición del permiso $3,969.93 $3,970.00
 
@@ -6643,7 +7287,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por el registro de representantes o
 
@@ -6655,11 +7299,11 @@ primeramente designados $3,707.07 $3,707.00
 
 II.- Por cambio en la titularidad del permiso:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Por el estudio $10,894.50 $10,894.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Por la autorización $3,684.36 $3,684.00
 
@@ -6667,11 +7311,11 @@ b).- Por la autorización $3,684.36 $3,684.00
 
 III.- Por cambio en la escritura constitutiva del permisionario:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Por el estudio $2,926.08 $2,926.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Por la autorización $737.61 $738.00
 
@@ -6679,15 +7323,15 @@ b).- Por la autorización $737.61 $738.00
 
 IV.- Por cambio en las características técnicas y de operación de la estación terrena transmisora:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Por el estudio $3,154.50 $3,154.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Por la autorización $1,283.73 $1,284.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Por el estudio de prórrogas
 
@@ -6711,7 +7355,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- De títulos de concesión, permisos
 
@@ -6725,21 +7369,21 @@ a los mismos $1,060.39 $1,060.00
 
 II.- De servicios de valor agregado:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Cambio de titular $1,505.00 $1,505.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Cambio de domicilio $520.00 $520.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Cambio o adición de
 
 representante legal $953.00 $953.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- Por dos o más modificaciones
 
@@ -6747,23 +7391,23 @@ de las señaladas en los incisos
 
 anteriores $1,532.00 $1,532.00
 
-> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-e).- Inscripción $ 4,080.97
+e).- Inscripción $ 4,080.97 $ 4, 081.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- De gravámenes impuestos
 
 a las concesiones o permisos $2,077.45 $2,077.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- De cesión de derechos
 
 y obligaciones $2,030.26 $2,030.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- De bandas de frecuencias
 
@@ -6777,19 +7421,19 @@ asignados para la operación de
 
 servicios de categoría secundaria $2,054.49 $2,054.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- De convenios de
 
 interconexión entre redes $715.84 $716.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VII.- De tarifas al público de los
 
 servicios de telecomunicaciones $2,628.74 $2,629.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VIII.- De cualquier otro documento
 
@@ -6821,19 +7465,19 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por el estudio de la solicitud
 
 de asignación $3,798.95 $3,799.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por el otorgamiento del título
 
 de asignación $4,578.64 $4,579.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por la autorización de
 
@@ -6971,7 +7615,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 120.
 
@@ -7027,11 +7671,11 @@ ajuste ajuste
 
 I.- Modificación del sistema:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Por el estudio $11,220.84 $11,221.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Por la autorización $1,810.74 $1,811.00
 
@@ -7039,11 +7683,11 @@ b).- Por la autorización $1,810.74 $1,811.00
 
 II.- Generación de nuevos canales:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Por el estudio $2,585.36 $2,585.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Por la autorización $779.65 $780.00
 
@@ -7051,15 +7695,15 @@ b).- Por la autorización $779.65 $780.00
 
 III.- Por cambios en la escritura constitutiva del concesionario:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Por el estudio $2,810.65 $2,811.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Por la autorización $936.79 $937.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Por el registro de representantes
 
@@ -7071,11 +7715,11 @@ primeramente designados $1,498.81 $1,499.00
 
 V.- Por cambio en la titularidad de las concesiones, traspasos, arrendamientos o cesión de derechos en los títulos de concesión:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Por el estudio $5,998.97 $5,999.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Por la autorización $648.01 $648.00
 
@@ -7083,11 +7727,11 @@ b).- Por la autorización $648.01 $648.00
 
 VI.- Por cambio en la titularidad de las acciones o partes sociales y de aportaciones de capital social de sociedades mercantiles:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Por el estudio $4,747.09 $4,747.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Por la autorización $1,514.69 $1,515.00
 
@@ -7095,11 +7739,11 @@ b).- Por la autorización $1,514.69 $1,515.00
 
 VII.- Ampliación del sistema de otra población:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Por el estudio $9,117.78 $9,118.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Por la autorización $2,784.42 $2,784.00
 
@@ -7107,13 +7751,13 @@ b).- Por la autorización $2,784.42 $2,784.00
 
 VIII.- Por la autorización de prórroga de la concesión:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Por el estudio de la solicitud de
 
 prórroga del título de concesión $11,243.37 $11,243.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Por la autorización de prórroga del
 
@@ -7161,7 +7805,7 @@ ajuste ajuste
 
 I.- Por estaciones de radio en la banda de 535 a 1705 Kilohertz (AM), de 3 a 30 Megahertz (OC) y de 88 a 108 Megahertz (FM):
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).-Por el estudio de la solicitud y
 
@@ -7171,13 +7815,13 @@ a la misma $4,020.03 $4,020.00
 
 b).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Por expedición del título de
 
 concesión $7,495.45 $7,495.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- Por el estudio de la
 
@@ -7191,59 +7835,65 @@ título de concesión $2,009.96 $2,010.00
 
 II.- Por cada estudio de solicitud y documentación inherente a la misma, de cambios o modificaciones de características técnicas, administrativas o legales correspondiente a:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Equipo de transmisión principal
 
 o auxiliar $2,998.90 $2,999.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Frecuencia $4,996.90 $4,997.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Potencia $4,996.90 $4,997.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- Ubicación de los estudios $1,249.14 $1,249.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 e).- Ubicación de la planta
 
 transmisora $4,996.90 $4,997.00
 
-> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
-f).- Para instalar y operar un equipo complementario de zona de sombra de estaciones de radiodifusoras en FM $ 3,077.00
+f).- Para instalar y operar un equipo
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+complementario de zona de sombra
+
+de estaciones de radiodifusoras en
+
+FM $ 3,077.00 $ 3,077.00
+
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 g).- Horario de operación de estaciones
 
 de radio moduladas en amplitud $2,498.28 $2,498.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 h).- Por estudio de mediciones de
 
 intensidad de campo $43,737.47 $43,737.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 i).- Distintivo de llamada $1,249.00 $1,249.00
 
 j).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 k).- Escritura constitutiva de sociedades
 
 mercantiles $3,747.54 $3,748.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 l).- Representante o apoderado
 
@@ -7251,7 +7901,7 @@ legal después del primeramente
 
 aceptado $1,498.81 $1,499.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 m).- Titularidad de acciones o partes
 
@@ -7261,13 +7911,13 @@ del capital social de sociedades
 
 mercantiles $2,498.28 $2,498.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 n).- Titularidad de los derechos de
 
 concesión $2,498.28 $2,498.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por el otorgamiento de prórroga
 
@@ -7281,11 +7931,19 @@ documentación fijada en dichas
 
 autorizaciones $ 5,831.10 $5,831.00
 
-> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
-IV.- Por el estudio y revisión del cumplimiento de obligaciones por cada estación que esté incluida en la concesión que se solicita refrendar $ 5,901.48
+IV.- Por el estudio y revisión del
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+cumplimiento de obligaciones por
+
+cada estación que esté incluida
+
+en la concesión que se solicita
+
+refrendar $5,901.48 $5,901.00
+
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Por la expedición del título del
 
@@ -7301,13 +7959,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por el estudio técnico y legal
 
 de la solicitud $2,998.90 $2,999.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por la expedición de la
 
@@ -7327,7 +7985,7 @@ ajuste ajuste
 
 I.- Por estaciones de televisión en las bandas de VHF (canales del 2 al 13) y UHF (canales del 14 al 69):
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Por el estudio de la solicitud y
 
@@ -7337,13 +7995,13 @@ la misma $4,020.03 $4,020.00
 
 b).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Por la expedición del título de
 
 concesión $5,901.48 $5,901.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- Por el estudio de la documentación
 
@@ -7355,27 +8013,27 @@ del título de concesión $2,009.96 $2,010.00
 
 II.- Por cada estudio de solicitud y documentación inherente a la misma, de cambios o modificaciones de características técnicas, administrativas o legales, correspondiente a:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Cambio de equipo transmisor
 
 principal o auxiliar $5,622.07 $5,622.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Cambio de canal $7,495.48 $7,495.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
-c).- Cambio de potencia radiada aparente $ 7,495.48
+c).- Cambio de potencia radiada aparente $ 7,495.48 $7,495.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- Cambio de ubicación de los
 
 estudios $1,873.71 $1,874.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 e).- Cambio de ubicación de la
 
@@ -7383,25 +8041,25 @@ planta transmisora $7,495.48 $7,495.00
 
 f).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 g).- Por estudio de mediciones de
 
 intensidad de campo $43,737.47 $43,737.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
-h).- Distintivo de llamada $ 1,873.64
+h).- Distintivo de llamada $ 1,873.64 $ 1,874.00
 
 i).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 j).- Escritura constitutiva de
 
 sociedades mercantiles $5,621.55 $5,622.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 k).- Representante o apoderado
 
@@ -7409,7 +8067,7 @@ legal, después del primeramente
 
 aceptado $1,873.64 $1,874.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 l).- Titularidad de acciones o partes
 
@@ -7419,13 +8077,13 @@ del capital social de sociedades
 
 mercantiles $3,747.54 $3,748.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 m).- Titularidad de los derechos
 
 de concesión $3,747.54 $3,748.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por el otorgamiento de prórroga
 
@@ -7437,7 +8095,7 @@ cumplir con la documentación fijada en
 
 dichas autorizaciones $5,833.11 $5,833.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Por el estudio de cada solicitud y de
 
@@ -7453,7 +8111,7 @@ para las transmisiones de la televisión
 
 digital terrestre $ 3,076.66 $3,077.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Por la revisión del cumplimiento de
 
@@ -7463,7 +8121,7 @@ incluida en la concesión que se pretende
 
 efrendar $ 7,290.43 $7,290.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Por la expedición del título de
 
@@ -7479,13 +8137,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por el estudio técnico y legal de
 
 la solicitud $2,998.90 $2,999.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por la expedición de la
 
@@ -7501,7 +8159,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por el estudio de la solicitud y
 
@@ -7509,7 +8167,7 @@ de la documentación inherente a
 
 la misma $3,973.77 $3,974.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por el estudio de la solicitud y
 
@@ -7613,7 +8271,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Estaciones de radiodifusión
 
@@ -7623,7 +8281,7 @@ II.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 III.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Subportadoras de radiodifusión
 
@@ -7649,13 +8307,13 @@ ajuste ajuste
 
 A.- Por el estudio de la solicitud y de la documentación técnica, administrativa, operativa y legal inherente a la misma y, en su caso, por el otorgamiento del certificado de homologación provisional:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- De conmutadores hasta
 
 de 30 líneas $2,947.79 $2,948.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- De equipo transreceptor de
 
@@ -7663,13 +8321,13 @@ radioenlace de hasta 30 canales
 
 o 2 megabits por segundo (mbps) $ 4,407.65 $4,408.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- De conmutadores de 31
 
 hasta 60 líneas $5,138.87 $5,139.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- De equipo transreceptor de
 
@@ -7679,13 +8337,13 @@ radioenlace de más de 30 y hasta
 
 segundo (mbps) $ 7,694.92 $7,695.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- De conmutadores de 61
 
 hasta 120 líneas $9,523.59 $9,524.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- De equipo transreceptor de
 
@@ -7695,13 +8353,13 @@ radioenlace de más de 60 y hasta
 
 segundo (mbps) $14,279.70 $14,280.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VII.- De conmutadores de 121
 
 hasta 240 líneas $13,914.72 $13,915.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VIII.- De equipo transreceptor de
 
@@ -7711,13 +8369,13 @@ radioenlace de más de 120 y hasta
 
 segundo (mbps) $20,855.51 $20,856.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IX.- De conmutadores de
 
 más de 240 líneas $23,050.43 $23,050.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 X.- De equipo transreceptor de radio
 
@@ -7725,91 +8383,91 @@ enlace de más de 240 canales o de más
 
 de 8x2 megabits por segundo (mbps) $ 34,567.38 $34,567.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XI.- De centrales telefónicas públicas $41,328.24 $41,328.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XII.- De centrales telefónicas
 
 privadas digitales $9,523.59 $9,524.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XIII.- De estaciones terrenas
 
 transreceptoras maestras $23,050.43 $23,050.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XIV.- De estaciones terrenas
 
 transreceptoras remotas $9,523.59 $9,524.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XV.- De estaciones terminales
 
 móviles terrestres por satélite $7,700.03 $7,700.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XVI.- De equipo terminal satelital $4,407.65 $4,408.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XVII.- De ruteadores de baja y
 
 mediana capacidad $6,537.47 $6,537.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XVIII.- De ruteadores de
 
 alta capacidad $23,050.43 $23,050.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XIX.- De conmutadores y multilíneas
 
 digitales de baja y mediana capacidad $6,537.47 $6,537.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XX.- De conmutadores y multilíneas
 
 digitales de alta capacidad $23,050.43 $23,050.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XXI.- De multiplexores digitales
 
 de baja y mediana capacidad $9,459.78 $9,460.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XXII.- De multiplexores digitales
 
 de alta capacidad $9,523.59 $9,524.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XXIII.- De terminal de datos $7,700.03 $7,700.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XXIV.- De transreceptores de
 
 facsímiles y de facsímil-modem $4,407.65 $4,408.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XXV.- De teléfonos analógicos
 
 alámbricos y accesorios telefónicos $4,407.65 $4,408.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XXVI.- De teléfonos inalámbricos,
 
@@ -7817,53 +8475,53 @@ digitales, celulares y sistemas
 
 personales de comunicación $4,407.65 $4,408.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XXVII.- De módem $4,407.65 $4,408.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XXVIII.- De equipo de fibra óptica $14,279.70 $14,280.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XXIX.- De centrales celulares $10,452.27 $10,452.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XXX.- De estación base celular $7,700.03 $7,700.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XXXI.- De equipo transreceptor
 
 monocanal base $7,700.03 $7,700.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XXXII.- De equipo transreceptor
 
 monocanal móvil $4,407.65 $4,408.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XXXIII.- De equipo transreceptor
 
 monocanal portáti $1,874.54 $1,875.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XXXIV.- De equipo repetidor fijo $7,700.03 $7,700.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XXXV.- De equipo receptor terminal $4,407.65 $4,408.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XXXVI.- De equipo transmisor terminal $4,407.65 $4,408.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XXXVII.- De equipo de
 
@@ -7871,7 +8529,7 @@ radiocomunicación que emplea
 
 la técnica de espectro disperso $4,531.43 $4,531.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XXXVIII.- De equipo conmutador
 
@@ -7879,11 +8537,11 @@ telefónico privado con acceso
 
 inalámbrico $7,700.03 $7,700.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XXXIX.- De equipos multilíneas $7,700.03 $7,700.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XL.- Otros equipos no contemplados
 
@@ -7893,7 +8551,7 @@ en este apartado $3,901.02 $3,901.00
 
 Por la expedición de un certificado de homologación definitivo, con antecedentes de homologación y el solicitante presente pruebas fehacientes del funcionamiento del equipo, estipulado en el proceso de homologación vigente, avaladas por dos peritos en telecomunicaciones o por un laboratorio autorizado por la autoridad competente, se pagará el equivalente al 50% de las cuotas establecidas según el producto a homologar establecido en este apartado.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 Por la primera o segunda renovación
 
@@ -7907,7 +8565,7 @@ y operativas autorizadas, se pagará la
 
 cuota de: $1,950.00 $1,950.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 Por la expedición de una ampliación a un
 
@@ -7945,15 +8603,15 @@ ajuste ajuste
 
 I.- Constancias de registro de peritos en telecomunicaciones:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Expedición $1,352.62 $1,353.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Revalidación $907.27 $907.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Modificaciones $907.27 $907.00
 
@@ -7963,15 +8621,15 @@ II.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
 III.- Certificados de aptitud para instalar y operar estaciones radioeléctricas del servicio de aficionados:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Expedición $907.27 $907.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Revalidación $464.44 $464.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Modificaciones $464.44 $464.00
 
@@ -7981,17 +8639,17 @@ IV.- Radioclubes:
 
 a).- Expedición:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 1.- Registro $1,792.90 $1,793.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 2.- Permiso para operar estaciones
 
 de servicio de aficionados $907.27 $907.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 3.- Permiso para instalar y operar
 
@@ -8001,17 +8659,17 @@ de aficionados $907.27 $907.00
 
 b).- Revalidación:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 1. Registro $907.27 $907.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 2. Permiso para operar estaciones
 
 del servicio de aficionados $464.44 $464.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 3. Permiso para instalar y operar
 
@@ -8019,7 +8677,7 @@ estaciones repetidoras del servicio
 
 de aficionados $464.44 $464.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Modificaciones $464.44 $464.00
 
@@ -8027,15 +8685,15 @@ c).- Modificaciones $464.44 $464.00
 
 V.- Constancia de registro de profesional técnico responsable y de radioperadores (sic) de estaciones radioeléctricas civiles:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Expedición $1,096.13 $1,096.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Revalidación $558.88 $559.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Responsiva, por cada estación
 
@@ -8055,23 +8713,23 @@ ajuste ajuste
 
 I.- Por ajustes de frecuencia, ancho de banda y modulación a estaciones radioeléctricas:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Radiodifusión $5,115.89 $5,116.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Servicios privados por cada
 
 transreceptor fijo $933.29 $933.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Servicios privados por cada
 
 transreceptor móvil $310.90 $311.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Medición de los parámetros técnicos
 
@@ -8139,7 +8797,7 @@ A. Por los servicios relacionados con la expedición de:
 
 I.- Permisos:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Para la operación y explotación
 
@@ -8189,7 +8847,7 @@ para operar servicios transfronterizos de
 
 turismo, por permiso. $ 402.00 $ 402.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Para la construcción, operación
 
@@ -8201,7 +8859,7 @@ por permiso. $ 1,277.00 $ 1,277.00
 
 II.- Autorizaciones:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Para la cesión de derechos y
 
@@ -8209,7 +8867,7 @@ obligaciones establecidos en los
 
 permisos, por trámite. $ 1,345.00 $ 1,345.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Para el traslado de mancuernas,
 
@@ -8219,17 +8877,17 @@ pentacuernas, por permiso. $ 1,186.00 $1,186.00
 
 c).- Para el inicio de operación de terminal de autotransporte de pasajeros, por autorización:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 1.- Central. $ 7,719.00 $7,719.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 2.- Individual. $ 1,376.00 $1,376.00
 
 III.- Placas metálicas, calcomanía de identificación vehicular y tarjeta de circulación:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Expedición o reposición de
 
@@ -8245,7 +8903,7 @@ auxiliares y de arrendamiento, por
 
 placa. $ 550.00 $ 550.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Expedición de calcomanía
 
@@ -8253,7 +8911,7 @@ de identificación vehicular, por
 
 calcomanía. $ 89.00 $ 89.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Expedición o revalidación de la
 
@@ -8269,7 +8927,7 @@ servicios auxiliares y de arrendamiento,
 
 por tarjeta. $ 319.00 $ 319.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 1.- Por la modificación o reposición
 
@@ -8277,7 +8935,7 @@ de la tarjeta de circulación, por tarjeta. $ 128.00 $ 128.00
 
 B. Canje de placas metálicas y calcomanías de identificación:
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Canje de placas metálicas y
 
@@ -8291,7 +8949,7 @@ auxiliares, arrendamiento y traslado,
 
 por vehículo. $ 1,122.00 $ 1,122.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Canje de placa metálica y
 
@@ -8303,25 +8961,25 @@ vehículo. $ 559.00 $ 559.00
 
 C. Licencias para conducir:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Expedición. $ 283.00 $ 283.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Refrendo. $ 76.00 $ 76.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Expedición de categoría
 
 adicional de licencia. $ 90.00 $ 90.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- Renovación. $ 171.00 $ 171.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 e).- Duplicado. $ 171.00 $ 171.00
 
@@ -8331,7 +8989,7 @@ D. Servicios diversos:
 
 I.- Alta de vehículos:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Alta de vehículo automotor,
 
@@ -8351,7 +9009,7 @@ uso particular en el registro de
 
 arrendamiento, por vehículo. $ 413.00 $ 413.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Alta de vehículo automotor,
 
@@ -8369,7 +9027,7 @@ por vehículo. $ 150.00 $ 150.00
 
 II.- (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2005)
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Suscripción de convenio anual
 
@@ -8385,13 +9043,13 @@ empresas trasladistas, por convenio. $ 90.00 $ 90.00
 
 IV.- Expedición y reposición de placas metálicas de identificación de traslado a empresas armadoras o distribuidoras trasladistas de vehículos nuevos:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Por el pago de la renta mensual
 
 de placas de traslado, por vehículo. $ 448.00 $ 448.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Expedición o reposición de placa
 
@@ -8399,7 +9057,7 @@ metálica de identificación de traslado,
 
 por vehículo. $ 544.00 $ 544.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Por el otorgamiento de cada
 
@@ -8415,7 +9073,7 @@ vehículos de pasaje y carga. $ 10.00 $ 10.00
 
 VI.- Registros:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- De horario para los servicios
 
@@ -8423,7 +9081,7 @@ de autotransporte federal de pasaje,
 
 por ruta. $ 100.00 $ 100.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- De escrituras constitutivas
 
@@ -8443,7 +9101,7 @@ del servicio de autotransporte
 
 federal, por empresa. $ 100.00 $ 100.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- De empresas fabricantes de
 
@@ -8453,7 +9111,7 @@ de número para su control, por
 
 empresa. $ 6,577.00 $ 6,577.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- Para la celebración de convenios
 
@@ -8467,7 +9125,7 @@ tengan autorizada, por convenio. $ 1,357.00 $ 1,357.00
 
 VII.- Reconocimientos:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Reconocimiento para instructores
 
@@ -8477,7 +9135,7 @@ autotransporte federal o transporte
 
 privado, por instructor. $ 139.00 $ 139.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Reconocimiento para operar un
 
@@ -8489,7 +9147,7 @@ autotransporte federal, y transporte
 
 privado, por centro. $ 734.00 $ 734.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VIII.- Por el estudio y, en su caso,
 
@@ -8509,13 +9167,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Expedición de permiso para
 
 transporte privado, por permiso. $ 1,145.00 $ 1,145.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Expedición de la tarjeta de
 
@@ -8523,7 +9181,7 @@ circulación para el transporte
 
 privado, por tarjeta. $ 671.00 $ 671.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Reposición o modificación de la
 
@@ -8531,7 +9189,7 @@ tarjeta de circulación para el transporte
 
 privado, por tarjeta. $ 205.00 $ 205.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Revalidación de la tarjeta de
 
@@ -8539,7 +9197,7 @@ circulación para el transporte privado,
 
 por tarjeta. $ 550.00 $ 550.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Alta de vehículo automotor,
 
@@ -8549,7 +9207,7 @@ permiso de transporte privado de
 
 personas o carga, por vehículo. $ 413.00 $ 413.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Permiso para el transporte de
 
@@ -8557,7 +9215,7 @@ materiales peligrosos y sus residuos,
 
 por permiso. $ 1,249.00 $ 1,249.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 VII.- Permiso especial por un año
 
@@ -8567,7 +9225,7 @@ del servicio privado, por vehículo, por
 
 permiso. $ 402.00 $ 402.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 VIII.- Permiso por un solo viaje para
 
@@ -8605,7 +9263,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por extensión de horario de los
 
@@ -8615,7 +9273,7 @@ por cada minuto o fracción, conforme
 
 a la cuota de $8.00 $8.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por extensión de horario de los
 
@@ -8645,13 +9303,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por instalación a la AFTN
 
 (incluye software) $4,411.75 $4,412.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por cada estación conectada
 
@@ -8661,19 +9319,19 @@ III.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2003)
 
 B. Servicios al Banco de Imágenes Meteorológicas (BIMA). Para la obtención de imágenes meteorológicas del satélite, se pagarán derechos conforme a las siguientes cuotas:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por el servicio de acceso hasta
 
 150 consultas mensuales $3,308.81 $3,309.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por cada consulta adicional $220.58 $221.00
 
 C. Por los servicios de asistencia técnica meteorológica, se pagarán previamente los derechos conforme a las siguientes cuotas:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por los datos estadísticos
 
@@ -8683,7 +9341,7 @@ aeropuerto correspondientes a un
 
 año, se pagará una cuota única de $2,682.24 $2,682.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por los datos estadísticos
 
@@ -8695,7 +9353,7 @@ apartado de 6 meses o menor, se
 
 pagará una cuota única de $1,308.92 $1,309.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por las tablas estadísticas
 
@@ -8707,7 +9365,7 @@ año de un solo aeropuerto,
 
 se pagará una cuota única de $2,682.24 $2,682.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Por las tablas estadísticas
 
@@ -8719,7 +9377,7 @@ de un solo aeropuerto, se pagará una
 
 cuota única de $1,308.92 $1,309.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Por cada imagen meteorológica de
 
@@ -8729,7 +9387,7 @@ CAPMA de SENEAM, se pagará una
 
 cuota única de $30.70 $31.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Por cada imagen meteorológica
 
@@ -8741,7 +9399,7 @@ SENEAM, se pagará una cuota
 
 única de $20.46 $20.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VII.- Por cada carpeta de información
 
@@ -8763,7 +9421,7 @@ se pagará una cuota única de $153.51 $154.00
 
 D. Por los servicios de asistencia técnica, se pagarán derechos conforme a las siguientes cuotas:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por la asistencia técnica a equipos
 
@@ -8777,7 +9435,7 @@ por cada equipo instalado una cuota
 
 mensual de $5,364.49 $5,364.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por la asistencia técnica a circuitos
 
@@ -8791,7 +9449,7 @@ cuota mensual de $14,376.87 $14,377.00
 
 E. Por los servicios de acceso al monitoreo visual de progreso de vuelo, se pagarán derechos conforme a las siguientes cuotas:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Cuota por instalación, software y
 
@@ -8799,7 +9457,7 @@ asistencia técnica de 40 horas de
 
 teoría y práctica, por una sola vez $12,700.00 $12,700.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Cuota mensual por acceso
 
@@ -8807,7 +9465,7 @@ a este sistema $26,822.53 $26,823.00
 
 F. Para la formación teórica y práctica de controladores de tránsito aéreo, previo a la prestación del servicio, se pagarán derechos por cada alumno y por hora de instrucción, las siguientes cuotas:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por la formación en el servicio
 
@@ -8815,7 +9473,7 @@ de control de tránsito aéreo de control
 
 de aeródromo $128.74 $129.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por la formación en el servicio de
 
@@ -8823,7 +9481,7 @@ control de tránsito aéreo de aproximación
 
 no radar y radar en áreas terminales $193.11 $193.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por la formación en el servicio de
 
@@ -8831,7 +9489,7 @@ control de tránsito aéreo de área no
 
 radar y radar $209.79 $210.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Por la formación de supervisores
 
@@ -8839,7 +9497,7 @@ en el servicio de control de tránsito
 
 aéreo de aeródromo $125.87 $126.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Por la formación de supervisores
 
@@ -8849,7 +9507,7 @@ aéreo de aproximación radar en áreas
 
 terminales $188.30 $188.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Por la formación de supervisores
 
@@ -8857,7 +9515,7 @@ en el servicio de control de tránsito
 
 aéreo de radar ruta $209.79 $210.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VII.- Por la actualización de habilidades
 
@@ -8869,7 +9527,7 @@ en las fracciones anteriores $160.92 $161.00
 
 G. Por los servicios de capacitación a personal técnico aeronáutico que se describe a continuación, previamente se pagarán los derechos conforme a las siguientes cuotas:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por la exposición, curso, conferencia
 
@@ -8891,7 +9549,7 @@ del niño (Enso), se pagarán derechos
 
 por cada hora $716.38 $716.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por la exposición, curso, conferencia
 
@@ -8961,11 +9619,11 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- De aeronaves $2,009.96 $2,010.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- De concesiones o permisos de
 
@@ -8977,7 +9635,7 @@ aeronaves y motores mexicanos y
 
 extranjeros $534.68 $535.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- De concesiones o permisos de
 
@@ -8985,23 +9643,23 @@ aeropuertos, helipuertos, aeródromos
 
 o hidroaeródromos $2,009.96 $2,010.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- De permisos de pistas
 
 Comunitarias $401.88 $402.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- De pólizas de seguros $1,004.93 $1,005.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- De resoluciones o acuerdos
 
 emitidos por autoridad competente $901.74 $902.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VII.- De contratos de prestación de
 
@@ -9011,7 +9669,7 @@ complementarios, así como sus
 
 modificaciones $326.50 $326.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VIII.- De las certificaciones relativas
 
@@ -9023,7 +9681,7 @@ incluyendo las visuales y las
 
 electrónicas $315.54 $316.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IX.- Por otros servicios
 
@@ -9043,19 +9701,17 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por cada concesión de
 
 Aeropuertos $20,100.64 $20,101.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
-
 a).- Por su modificación $2,512.50 $2,512.00
 
 II.- Por cada permiso de:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Construcción de aeródromos de
 
@@ -9073,7 +9729,7 @@ privado con contrato con terceros o
 
 hidroaeródromos $5,025.08 $5,025.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Explotación de aeródromos de
 
@@ -9091,7 +9747,7 @@ privado con contrato con terceros o
 
 hidroaeródromos $5,025.08 $5,025.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Ampliación o remodelación de la
 
@@ -9111,7 +9767,7 @@ servicio privado con contrato con
 
 terceros o hidroaeródromos $5,025.08 $5,025.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- Por la modificación de los permisos
 
@@ -9119,13 +9775,13 @@ a que se refiere esta fracción $2,512.50 $2,512.00
 
 III.- Por cada permiso de:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Construcción y explotación de
 
 aeródromos de servicio comunitario $502.41 $502.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Modificación a los aeródromos
 
@@ -9133,25 +9789,25 @@ de servicio comunitario $200.91 $201.00
 
 IV.- Por cada permiso para proporcionar servicios de almacenamiento y suministro de combustible de aviación:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- De uso privado $2,512.50 $2,512.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- De uso público $10,050.26 $10,050.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Para aviones agrícolas $1,004.93 $1,005.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- Para aerostatos, aviones
 
 ultraligeros u otros análogos $1,004.93 $1,005.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Por la autorización de extensión de
 
@@ -9175,7 +9831,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por verificación mayor o verificación
 
@@ -9183,11 +9839,11 @@ a las condiciones de concesiones
 
 y permisos $4,029.92 $4,030.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por verificación menor $803.92 $804.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por la certificación a las
 
@@ -9197,7 +9853,7 @@ unidades de verificación
 
 establecidas por terceros $4,020.03 $4,020.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Por verificación menor a los
 
@@ -9223,7 +9879,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 156.
 
@@ -9259,25 +9915,25 @@ ajuste ajuste
 
 I.- Por la expedición de la capacidad y licencia o permiso para:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Personal de vuelo $803.92 $804.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Personal de tierra $602.91 $603.00
 
 II.- Por la revalidación de licencia al:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Personal de vuelo $401.88 $402.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Personal de tierra $301.41 $301.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por reposición de la licencia $301.41 $301.00
 
@@ -9293,25 +9949,25 @@ ajuste ajuste
 
 I.- Por la expedición de los siguientes certificados:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- De aeronavegabilidad $1,004.93 $1,005.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- De matrícula $1,004.93 $1,005.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- De matrícula provisional $1,004.93 $1,005.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- De aeronavegabilidad o matrículas
 
 de aeronaves agrícolas $602.91 $603.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 e).- De aeronavegabilidad o matrícula
 
@@ -9323,13 +9979,13 @@ de las áreas geográficas autorizadas
 
 a sus clubes $602.91 $603.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por la expedición de certificados de
 
 homologación por emisión de ruido $602.91 $603.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por la renovación o reposición
 
@@ -9337,7 +9993,7 @@ del certificado de aeronavegabilidad
 
 o matrícula $1,004.93 $1,005.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Por la cancelación del certificado
 
@@ -9345,7 +10001,7 @@ de matrícula a petición de parte
 
 interesada $408.67 $409.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Por la asignación de marcas de
 
@@ -9365,27 +10021,27 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Concesión $20,100.64 $20,101.00
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Permiso $10,050.26 $10,050.00
 
 No se pagará el derecho establecido en esta fracción cuando los permisos se otorguen para talleres aeronáuticos o centros de capacitación o adiestramiento que los concesionarios, permisionarios, autorizados u operadores de servicios establezcan con motivo de su propia operación o de la Ley Federal del Trabajo.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Autorización $502.41 $502.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Permiso de aeronaves para
 
 uso agrícola $5,025.08 $5,025.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Autorización de clubes aéreos
 
@@ -9397,7 +10053,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 160.
 
@@ -9435,7 +10091,7 @@ ajuste ajuste
 
 A.- Tratándose de Buques:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por la inscripción de los certificados de
 
@@ -9443,7 +10099,7 @@ las matrículas de las embarcaciones y
 
 artefactos navales mexicanos $500.06 $500.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por contratos de adquisición,
 
@@ -9463,7 +10119,7 @@ embarcaciones y artefactos navales
 
 mexicanos $280.68 $281.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por contratos de arrendamiento
 
@@ -9471,7 +10127,7 @@ o fletamento a casco desnudo de
 
 embarcaciones mexicanas $302.40 $302.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Por contratos de construcción, de
 
@@ -9485,7 +10141,7 @@ como mexicanas $302.40 $302.00
 
 V.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1999)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Por la cancelación de cualquiera
 
@@ -9499,7 +10155,7 @@ VII.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
 
 Tratándose de embarcaciones menores cuando exista notoria diferencia entre el valor resultante de la operación y el estipulado en la factura y el valor comercial de la embarcación, se solicitará el avalúo correspondiente en los términos de la fracción I de este apartado.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 B. Por la inscripción de los navieros
 
@@ -9511,7 +10167,7 @@ derecho de Registro Marítimo Nacional
 
 la cuota de $934.06 $934.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 C. Cualquier contrato o documento
 
@@ -9593,39 +10249,39 @@ ajuste ajuste
 
 I.- Por el otorgamiento de abanderamiento y dimisión de bandera de embarcaciones, tomando en cuenta el arqueo bruto:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Hasta de 50 toneladas $380.28 $380.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- De más de 50 hasta 500 toneladas $760.86 $761.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- De más de 500 hasta
 
 5,000 toneladas $1,331.79 $1,332.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- De más de 5,000 hasta
 
 15,000 toneladas $1,902.75 $1,903.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 e).- De 15,000.01 hasta
 
 25,000.00 toneladas $4,757.23 $4,757.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 f).- De 25,000.01 hasta
 
 50,000.00 toneladas $6,660.13 $6,660.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 g).- De más 50,000.01 toneladas $7,611.67 $7,612.00
 
@@ -9635,19 +10291,19 @@ II.- Por la expedición, revalidación o reposición del certificado de matrícu
 
 a).- Tratándose de embarcaciones para tráfico de recreo:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 1.- Hasta de 5 toneladas brutas
 
 de arqueo $380.28 $380.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 2.- De 5.01 hasta 10 toneladas
 
 brutas de arqueo $571.16 $571.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 3.- De 10.01 hasta 20 toneladas
 
@@ -9655,19 +10311,19 @@ brutas de arqueo $760.63 $761.00
 
 b).- Embarcaciones para tráfico interior de carga, pasajeros o carga y pasajeros:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 1.- Hasta de 5 toneladas brutas
 
 de arqueo $189.35 $189.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 2.- De 5.01 hasta 10 toneladas
 
 brutas de arqueo $285.54 $286.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 3.- De 10.01 hasta 20 toneladas
 
@@ -9675,19 +10331,19 @@ brutas de arqueo $380.28 $380.00
 
 c).- Tratándose de embarcaciones para remolque, dragado, salvamento y demás relacionados con las comunicaciones por agua o con las obras de los puertos:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 1.- Hasta de 5 toneladas brutas
 
 de arqueo $285.54 $286.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 2.- De 5.01 hasta 10 toneladas
 
 brutas de arqueo $380.28 $380.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 3.- De 10.01 hasta 20 toneladas
 
@@ -9695,19 +10351,19 @@ brutas de arqueo $571.16 $571.00
 
 d).- Tratándose de embarcaciones pesqueras en cualquier clase de pesca:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 1.- Hasta de 5 toneladas brutas
 
 de arqueo $281.17 $281.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 2.- De 5.01 hasta 10 toneladas
 
 brutas de arqueo $469.17 $469.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 3.- De 10.01 hasta 20 toneladas
 
@@ -9715,49 +10371,49 @@ brutas de arqueo $657.15 $657.00
 
 e).- Para embarcaciones que efectúen en cualquier clase de tráfico, navegación de altura, cabotaje e interior:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 1. De 20.01 hasta 100 toneladas
 
 brutas de arqueo $773.28 $773.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 2. De 100.01 hasta 500 toneladas
 
 brutas de arqueo $920.02 $920.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 3. De 500.01 hasta 5,000 toneladas
 
 brutas de arqueo $1,065.50 $1,065.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 4.- De 5,000.01 hasta 15,000 toneladas
 
 brutas de arqueo $1,267.77 $1,268.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 5.- De 15,000.01 hasta 25,000
 
 toneladas brutas de arqueo $3,523.65 $3,524.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 6.- De 25,000.01 hasta 50,000
 
 toneladas brutas de arqueo $4,932.85 $4,933.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 7.- De más de 50,000.01 toneladas
 
 brutas de arqueo $5,638.21 $5,638.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 f).- Por la cancelación del certificado
 
@@ -9769,7 +10425,7 @@ señaladas en el siguiente párrafo,
 
 se pagará una cuota de $328.69 $329.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 Para el caso de las embarcaciones
 
@@ -9781,89 +10437,89 @@ ribereña, se pagará la cuota de $63.78 $64.00
 
 III.- Por la expedición de autorización para la permanencia de artefactos navales y dragas en zonas marinas nacionales, por tonelada bruta o fracción de registro internacional:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Hasta 500 toneladas $5.5353
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- De 500.01 hasta 1,000 toneladas $4.5765
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- De 1,000.01 hasta 5,000 toneladas $3.8024
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- De 5,000.01 hasta 15,000
 
 toneladas $2.8507
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 e).- De 15,000.01 en adelante $1.8989
 
 IV.- Por expedición de pasavantes por tonelaje bruto de arqueo:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Hasta de 5 toneladas $75.83 $76.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- De más de 5 hasta 10
 
 toneladas $132.92 $133.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- De más de 10 hasta 20
 
 toneladas $189.96 $190.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- De 20.01 hasta 100.00
 
 toneladas $475.46 $475.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 e).- De 100.01 hasta 500.00
 
 toneladas $570.59 $571.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 f).- De 500.01 hasta 1,000.00
 
 toneladas $760.86 $761.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 g).- De 1,000.01 hasta 5,000.00
 
 toneladas $1,331.79 $1,332.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 h).- De 5,000.01 hasta 15,000.00
 
 toneladas $1,712.34 $1,712.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 i).- De 15,000.01 hasta 25,000.00
 
 toneladas $2,283.29 $2,283.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 j).- De 25,000.01 hasta 50,000.00
 
 toneladas $2,854.20 $2,854.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 k) De más de 50,000.01
 
@@ -9873,13 +10529,13 @@ toneladas $3,805.69 $3,806.00
 
 V.- Por la revisión de los cálculos de arqueo y de la marca de máxima carga o francobordo:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Hasta 1,000 toneladas brutas
 
 de arqueo $1.8005
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- De más de 1,000 hasta 5,000
 
@@ -9891,7 +10547,7 @@ anterior, y por cada una o fracción
 
 de las excedentes $1.0783
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- De más de 5,000 hasta 15,000
 
@@ -9903,7 +10559,7 @@ y por cada una o fracción de las
 
 excedentes $0.8973
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- De más de 15,000 toneladas, por
 
@@ -9917,29 +10573,29 @@ fracción de las excedentes $0.7171
 
 VI.- Por la expedición del permiso de navegación para embarcaciones mercantes extranjeras de carga en general, o mixto incluyendo el de pasajeros, por tonelada bruta o fracción de registro internacional:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Hasta 500 toneladas $20.70 $21.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- De 500.01 hasta 1,000 toneladas $17.16 $17.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- De 1,000.01 hasta 5,000 toneladas $14.40 $14.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- De 5,000.01 hasta 15,000
 
 toneladas $10.80 $11.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 e).- De 15,000.01 en adelante $7.19 $7.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VII.- Por la expedición del permiso
 
@@ -9951,43 +10607,43 @@ bruta de arqueo o fracción $4.87 $5.00
 
 VIII.- La expedición de liberación de embarques de cargas a buques mercantes de tercera bandera, que realicen el transporte de mercancías con destino a los puertos de los países con los cuales los Estados Unidos Mexicanos han suscrito convenios bilaterales de transporte marítimo y que no sean operados por los armadores nacionales autorizados por sus respectivos gobiernos en ámbito del convenio que se trate, por toneladas de carga liberada:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Embarques de hasta 500
 
 toneladas de carga $8,830.33 $8,830.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Embarques de 500.01 hasta
 
 1000 toneladas de carga $13,269.87 $13,270.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Embarques de 1000.01 hasta
 
 3,000 toneladas de carga $17,854.04 $17,854.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- Embarques de 3,000.01 hasta
 
 9,000 toneladas de carga $22,197.05 $22,197.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 e).- Embarques de 9,000.01
 
 toneladas de carga en adelante $26,539.97 $26,540.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 IX.- Por la expedición de permisos
 
 de amarre temporal $499.40 $499.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 X.- Por la expedición de autorización
 
@@ -9997,7 +10653,7 @@ reflotación de embarcaciones,
 
 aeronaves o artefactos navales $2,915.70 $2,916.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XI.- Por asignación de la señal
 
@@ -10011,7 +10667,7 @@ convenios internacionales en los
 
 que México sea parte $547.84 $548.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XII.- Por la autorización para el
 
@@ -10019,7 +10675,7 @@ desguace de embarcaciones o
 
 artefactos navales $4,054.09 $4,054.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XIII.- Por autorizar el embarque de
 
@@ -10045,13 +10701,13 @@ I.- (DEROGADA, D.O.F. 1 DE ENERO DE 2002)
 
 II.- (DEROGADA, D.O.F. 1 DE ENERO DE 2002)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por autorizar la sustitución de
 
 cada embarcación inscrita $1,435.34 $1,435.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Por la cancelación de
 
@@ -10081,11 +10737,45 @@ II.- Las pertenecientes al Gobierno Federal, que estén dedicadas a servicios of
 
 Por el estudio, trámite y, en su caso, expedición de concesiones, permisos o autorizaciones para el uso o aprovechamiento de obras marítimo portuarias; así como para la prestación de servicios portuarios en las vías generales de comunicación por agua, se pagará el derecho de solicitud de concesión, permiso o autorización, conforme a las siguientes cuotas:
 
-I.- Concesión de bienes sujetos al régimen de dominio público de la Federación, destinados a la administración portuaria integral o a la construcción, operación y explotación de terminales marinas e instalaciones portuarias $ 37,400.00
+cuota sin cuota con
 
-II.- Permiso para la prestación de servicios portuarios o para la construcción y uso de embarcaderos, atracaderos, botaderos y demás similares en las vías generales de comunicación por agua $ 9,500.00
+ajuste ajuste
 
-III.- Autorización para la construcción de obras marítimas y de dragado $ 29,800.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
+
+I.- Concesión de bienes sujetos al
+
+régimen de dominio público de la
+
+Federación, destinados a la
+
+administración portuaria integral o
+
+a la construcción, operación y
+
+explotación de terminales marinas
+
+e instalaciones portuarias $ 37,400.00 $ 37,400.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
+
+II.- Permiso para la prestación de
+
+servicios portuarios o para la
+
+construcción y uso de embarcaderos,
+
+atracaderos, botaderos y demás
+
+similares en las vías generales de
+
+comunicación por agua $ 9,500.00 $ 9,500.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
+
+III.- Autorización para la construcción
+
+de obras marítimas y de dragado $ 29,800.00 $ 29,800.00
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -10111,7 +10801,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por el registro de bases tarifarias del
 
@@ -10119,7 +10809,7 @@ servicio regular de transporte de altura
 
 de líneas conferenciadas $525.92 $526.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por la autorización de bases
 
@@ -10143,7 +10833,7 @@ ajuste ajuste
 
 I.- Cruceros turísticos:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Embarcaciones menores de
 
@@ -10153,13 +10843,13 @@ servicios de pernocta, descanso y
 
 recreativos a bordo y en puerto $9,756.19 $9,756.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Embarcaciones de 500 hasta
 
 1,000 unidades de arqueo bruto $20,399.32 $20,399.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Embarcaciones de 1,000.01
 
@@ -10167,7 +10857,7 @@ hasta 5,000.00 unidades de
 
 arqueo bruto $27,051.80 $27,052.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- Embarcaciones de más de
 
@@ -10175,13 +10865,13 @@ d).- Embarcaciones de más de
 
 II.- Transporte de pasajeros:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Embarcaciones cuya capacidad sea
 
 hasta 3.5 unidades de arqueo bruto $433.58 $434.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Embarcaciones mayores a 3.5 y
 
@@ -10189,7 +10879,7 @@ menores de 500 unidades de
 
 arqueo bruto $867.16 $867.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Embarcaciones de 500 o más
 
@@ -10197,7 +10887,7 @@ unidades de arqueo bruto $1,734.33 $1,734.00
 
 III.- Turismo náutico:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Embarcaciones cuya capacidad
 
@@ -10205,7 +10895,7 @@ sea hasta 3.5 unidades de arqueo
 
 bruto $886.91 $887.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Embarcaciones mayores a 3.5 y
 
@@ -10213,7 +10903,7 @@ menores de 500 unidades de
 
 arqueo bruto $1,773.84 $1,774.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Embarcaciones de 500 o más
 
@@ -10221,7 +10911,7 @@ unidades de arqueo bruto $3,103.72 $3,104.00
 
 IV.- Seguridad, salvamento y auxilio a la navegación:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Embarcaciones cuya capacidad
 
@@ -10229,7 +10919,7 @@ sea hasta 3.5 unidades de arqueo
 
 bruto $867.16 $867.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Embarcaciones mayores a 3.5 y
 
@@ -10237,7 +10927,7 @@ menores de 500 unidades de arqueo
 
 bruto $1,734.33 $1,734.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Embarcaciones de 500 o más
 
@@ -10247,7 +10937,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 168-C.
 
@@ -10285,65 +10975,65 @@ ajuste ajuste
 
 I.- Por reconocimiento:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Hasta 10 toneladas $51.10 $51.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- De más de 10 y hasta 20
 
 toneladas $102.29 $102.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- De más de 20 y hasta 50
 
 toneladas $409.54 $410.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- De más de 50 y hasta 75
 
 toneladas $1,279.92 $1,280.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 e).- De más de 75 y hasta 100
 
 toneladas $1,535.96 $1,536.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 f).- De más de 100 y hasta 200
 
 toneladas $2,303.98 $2,304.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 g).- De más de 200 y hasta 300
 
 toneladas $2,815.97 $2,816.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 h).- De más de 300 y hasta 500
 
 toneladas $4,096.01 $4,096.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 i).- De más de 500 y hasta 1,000
 
 toneladas $5,632.05 $5,632.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 j).- De más de 1,000 y hasta 2,000
 
 toneladas $6,656.08 $6,656.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 k).- De más de 2,000 toneladas brutas
 
@@ -10361,79 +11051,87 @@ Si se efectúa a la embarcación un segundo o subsecuente reconocimiento, se pag
 
 II.- Por certificación o revalidación:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Hasta 10 toneladas $25.52 $26.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- De más de 10 y hasta 20
 
 toneladas $51.10 $51.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- De más de 20 y hasta 75
 
 toneladas $204.73 $205.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- De más de 75 y hasta 200
 
 toneladas $255.91 $256.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 e).- De más de 200 y hasta 1000
 
 toneladas $358.31 $358.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 f).- De más de 1000 y hasta 2000
 
 toneladas $409.54 $410.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
-g).- De más de 2000 toneladas brutas de arqueo, por las primeras 2000 la cuota señalada en el inciso anterior y por cada una o fracción de las excedentes $ 0.06
+g).- De más de 2000 toneladas brutas
+
+de arqueo, por las primeras 2000 la
+
+cuota señalada en el inciso anterior y
+
+por cada una o fracción de las
+
+excedentes $ 0.06
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 III.- Por estudio técnico de planos, proyectos y memorias de construcción:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- En barcos hasta de 100
 
 toneladas $1,673.46 $1,673.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- En barcos de más de 100 hasta
 
 500 toneladas $2,231.32 $2,231.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- En barcos de más de 500 hasta
 
 1,000 toneladas $2,789.26 $2,789.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- En barcos de 1,000 a 5,000
 
 toneladas $3,626.13 $3,626.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 e).- En barcos de 5,000 a 10,000
 
 toneladas $4,462.96 $4,463.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 f).- En barcos de más de 10,000
 
@@ -10443,37 +11141,37 @@ toneladas $5,578.75 $5,579.00
 
 IV.- Por estudio técnico de planos, proyectos y memorias que impliquen reformas o adiciones:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- En barcos hasta de 100
 
 toneladas $557.60 $558.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- En barcos de más de 100 hasta
 
 500 toneladas $1,115.51 $1,116.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- En barcos de más de 500 hasta
 
 1,000 toneladas $1,952.39 $1,952.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- En barcos de 1,000 a 5,000
 
 toneladas $2,789.26 $2,789.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 e).- En barcos de 5,000 a 10,000
 
 toneladas $3,905.12 $3,905.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 f).- En barcos de más de 10,000
 
@@ -10483,37 +11181,37 @@ toneladas $5,020.88 $5,021.00
 
 V.- Por nueva presentación para estudio técnico de planos, proyectos, memorias para construcción, reformas o adiciones.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- En barco hasta de 100
 
 toneladas $557.60 $558.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- En barcos de más de 100 hasta
 
 500 toneladas $1,115.51 $1,116.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- En barcos de más de 500 hasta
 
 1,000 toneladas $1,952.39 $1,952.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- En barcos de 1,000 a 5,000
 
 toneladas $2,789.26 $2,789.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 e).- En barcos de 5,000 a 10,000
 
 toneladas $3,905.12 $3,905.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 f).- En barcos de más de 10,000
 
@@ -10523,7 +11221,7 @@ toneladas $5,020.88 $5,021.00
 
 VI.- Por el reconocimiento total a una embarcación en construcción o en reparación para verificar su estado de avance y el cumplimiento de las especificaciones y normas que le son aplicables, se pagarán los derechos correspondientes de acuerdo al tonelaje bruto de arqueo conforme a las siguientes cuotas:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Hasta 50 toneladas brutas
 
@@ -10531,7 +11229,7 @@ de arqueo comprendiendo 3
 
 inspecciones parciales. $3,719.03 $3,719.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- De más de 50 hasta 100
 
@@ -10541,7 +11239,7 @@ comprendiendo 3 inspecciones
 
 parciales $5,578.75 $5,579.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- De más de 100 hasta 200
 
@@ -10551,7 +11249,7 @@ comprendiendo 4 inspecciones
 
 parciales $7,438.49 $7,438.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- De más de 200 hasta 300
 
@@ -10561,7 +11259,7 @@ comprendiendo 4 inspecciones
 
 parciales $9,298.16 $9,298.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 e).- De más de 300 hasta 500
 
@@ -10571,7 +11269,7 @@ comprendiendo 4 inspecciones
 
 parciales $11,157.91 $11,158.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 f).- De más de 500 hasta 1000
 
@@ -10581,7 +11279,7 @@ comprendiendo 4 inspecciones
 
 parciales $14,877.20 $14,877.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 g).- De más de 1000 hasta 5000
 
@@ -10591,7 +11289,7 @@ comprendiendo 4 inspecciones
 
 parciales $18,596.62 $18,597.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 h).- De más de 5000 hasta 15000
 
@@ -10601,7 +11299,7 @@ comprendiendo 5 inspecciones
 
 parciales $22,316.06 $22,316.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 i).- De más de 15000 hasta 25000
 
@@ -10611,7 +11309,7 @@ comprendiendo 5 reparaciones
 
 parciales $27,895.24 $27,895.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 j).- De más de 25000 hasta 50000
 
@@ -10621,9 +11319,9 @@ comprendiendo 6 inspecciones
 
 parciales $46,492.11 $46,492.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
-k).- De más de 50,000 toneladas brutas de arqueo en adelante, comprendiendo 6 inspecciones parciales, la cuota indicada en el inciso anterior, más 1.8555 por cada tonelada o fracción excedente.
+k).- De más de 50,000 toneladas brutas de arqueo en adelante, comprendiendo 6 inspecciones parciales, la cuota indicada en el inciso anterior, más $1.8555 por cada tonelada o fracción excedente.
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -10635,49 +11333,49 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Señales en escolleras $1,457.81 $1,458.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Señales en faros $5,831.55 $5,832.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Señales en muelles $1,457.81 $1,458.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Señales en atracaderos y peines
 
 de marinas turísticas $1,457.81 $1,458.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Señales de enfilaciones $2,915.70 $2,916.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Señales flotantes $1,166.20 $1,166.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VII.- Señales diurnas $1,457.81 $1,458.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VIII.- Señales laterales fijas $1,166.20 $1,166.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IX.- Señales acústicas $2,186.71 $2,187.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 X.- Señales radioeléctricas $3,498.88 $3,499.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XI.- Otras señales $3,936.29 $3,936.00
 
@@ -10691,31 +11389,31 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- De más de 3 hasta 20 unidades
 
 de arqueo bruto $162.70 $163.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- De más de 20 hasta 100 toneladas
 
 brutas de arqueo $245.12 $245.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- De más de 100 hasta 500 toneladas
 
 brutas de arqueo $401.88 $402.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- De más de 500 hasta 1,000
 
 toneladas brutas de arqueo $817.96 $818.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- De más de 1,000 toneladas
 
@@ -10751,41 +11449,41 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Hasta 200 unidades de arqueo bruto $3,046.90 $3,047.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- De más de 200 hasta 300
 
 unidades de arqueo bruto $3,323.90 $3,324.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- De más de 300 hasta
 
 1000 unidades de arqueo bruto $4,708.94 $4,709.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- De más de 1000 hasta
 
 5000 unidades de arqueo bruto $5,539.98 $5,540.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- De más de 5000 hasta 10000
 
 unidades de arqueo bruto $8,310.01 $8,310.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- De más de 10000 unidades
 
 de arqueo bruto $11,080.05 $11,080.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VII.- Por la revisión del protocolo de la
 
@@ -10807,37 +11505,37 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Hasta 200 unidades de arqueo
 
 Bruto $3,046.90 $3,047.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- De más de 200 hasta 300
 
 unidades de arqueo bruto $3,323.90 $3,324.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- De más de 300 hasta 1000
 
 unidades de arqueo bruto $4,708.94 $4,709.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- De más de 1000 hasta
 
 5000 unidades de arqueo bruto $5,539.98 $5,540.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- De más de 5000 hasta
 
 10000 unidades de arqueo bruto $8,310.01 $8,310.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- De más de 10000 unidades
 
@@ -10853,13 +11551,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Dique menor de 150 metros de
 
 eslora $11,080.05 $11,080.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Dique de 150 metros o más de
 
@@ -10869,7 +11567,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 170-D.
 
@@ -10913,11 +11611,11 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por persona moral $13,922.36 $13,922.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por persona física $1,276.05 $1,276.00
 
@@ -10925,7 +11623,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 170-F.
 
@@ -10961,37 +11659,37 @@ ajuste ajuste
 
 I.- Por la revisión de la evaluación de protección:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- De más de 10 hasta 200 unidades
 
 de arqueo bruto $2,556.00 $2,556.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- De más de 200 hasta 500 unidades
 
 de arqueo bruto $3,186.00 $3,186.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- De más de 500 hasta 1,000 unidades
 
 de arqueo bruto $3,811.00 $3,811.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- De más de 1,000 hasta 5,000
 
 unidades de arqueo bruto $5,428.00 $5,428.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 e).- De más de 5,000 hasta 10,000
 
 unidades de arqueo bruto $7,577.00 $7,577.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 f).- De más de 10,000 unidades
 
@@ -10999,37 +11697,37 @@ de arqueo bruto $12,552.00 $12,552.00
 
 II.- Por la revisión y, en su caso, aprobación del Plan de Protección:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- De más de 10 hasta 200 unidades
 
 de arqueo bruto $2,776.00 $2,776.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- De más de 200 hasta 500
 
 unidades de arqueo bruto $ 3,470.00 $ 3,470.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- De más de 500 hasta 1,000
 
 unidades de arqueo bruto $4,141.00 $4,141.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- De más de 1,000 hasta 5,000
 
 unidades de arqueo bruto $5,900.00 $5,900.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 e).- De más de 5,000 hasta 10,000
 
 unidades de arqueo bruto $8,237.00 $8,237.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 f).- De más de 10,000 unidades
 
@@ -11039,37 +11737,37 @@ También se pagarán los derechos establecidos en esta fracción, cuando se llev
 
 III.- Por la verificación de la implantación del Plan de Protección y, en su caso, certificación o renovación anual:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- De más de 10 y hasta 200
 
 unidades de arqueo bruto $2,603.00 $2,603.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- De más de 200 y hasta 500
 
 unidades de arqueo bruto $3,243.00 $3,243.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- De más de 500 y hasta 1,000
 
 unidades de arqueo bruto $3,880.00 $3,880.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- De más de 1,000 y hasta 5,000
 
 unidades de arqueo bruto $5,527.00 $5,527.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 e).- De más de 5,000 y hasta
 
 10,000 unidades de arqueo bruto $7,714.00 $7,714.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 f).- De más de 10,000 unidades
 
@@ -11087,43 +11785,43 @@ ajuste ajuste
 
 I.- Por la revisión de documentación y, en su caso, expedición de documento de cumplimiento o certificado, según corresponda:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Por empresa $5,859.00 $5,859.00
 
 b).- Por buque:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 1.- De 10 hasta 200 unidades
 
 de arqueo bruto $2,139.00 $2,139.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 2.- De más de 200 hasta 500
 
 unidades de arqueo bruto $2,844.00 $2,844.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 3.- De más de 500 hasta 1,000
 
 unidades de arqueo bruto $3,404.00 $3,404.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 4.- De más de 1,000 hasta 5,000
 
 unidades de arqueo bruto $4,244.00 $4,244.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 5.- De más de 5,000 hasta 10,000
 
 unidades de arqueo bruto $6,046.00 $6,046.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 6.- De más de 10,000 unidades
 
@@ -11133,41 +11831,43 @@ También se pagarán los derechos establecidos en esta fracción, cuando se llev
 
 II.- Por la verificación del cumplimiento del Código Internacional de Gestión de la Seguridad y, en su caso, expedición o renovación anual del documento de cumplimiento o certificado, según corresponda:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Por empresa $16,099.00 $16,099.00
 
 b).- Por buque:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 1.- De más de 10 y hasta 200
 
 unidades de arqueo bruto $2,603.00 $2,603.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 2.- De más de 200 y hasta 500
 
 unidades de arqueo bruto $3,243.00 $3,243.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 3.- De más de 500 y hasta 1,000
 
 unidades de arqueo bruto $3,880.00 $3,880.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
-4.- De más de 1,000 y hasta 5,000 unidades de arqueo bruto $ 5,527.00
+4.- De más de 1,000 y hasta 5,000
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+unidades de arqueo bruto $ 5,527.00 $ 5,527.00
+
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 5.- De más de 5,000 y hasta 10,000
 
 unidades de arqueo bruto $7,714.00 $7,714.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 6.- De más de 10,000 unidades
 
@@ -11177,7 +11877,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 170-I.
 
@@ -11215,7 +11915,7 @@ Por la expedición y en su caso reposición de los siguientes documentos, se pag
 
 cuota sin ajuste cuota con ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Expedición y reposición de
 
@@ -11223,7 +11923,7 @@ Libretas de mar e identidad
 
 Marítima $194.20 $194.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Títulos profesionales al
 
@@ -11233,7 +11933,7 @@ nacional, tanto de cubierta
 
 como de máquinas $583.15 $583.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Certificados de competencia
 
@@ -11243,7 +11943,7 @@ en el departamento de cubierta como
 
 en el de máquinas $388.68 $389.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Certificados de competencia
 
@@ -11255,15 +11955,15 @@ en buques especializados $777.66 $778.00
 
 V.- Documento oficial para poder ejercer como tripulante a bordo de las embarcaciones mercantes mexicanas:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Personal subalterno $388.68 $389.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Personal titulado $583.15 $583.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Expedición de refrendos de
 
@@ -11283,23 +11983,23 @@ ajuste ajuste
 
 I.- Por la expedición de la autorización de Agente Naviero Consignatario de Buques en:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Navegación de Altura $5,176.25 $5,176.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Navegación de Cabotaje $3,697.15 $3,697.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Pesca comercial $3,758.38 $3,758.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- Recreo $3,758.38 $3,758.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por la expedición de la
 
@@ -11311,7 +12011,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 171-B.
 
@@ -11331,7 +12031,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 171-C.
 
@@ -11347,7 +12047,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 171-D.
 
@@ -11367,7 +12067,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 171-E.
 
@@ -11393,7 +12093,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Estudios técnicos de planos,
 
@@ -11411,7 +12111,7 @@ metros o fracción que exceda de
 
 dicha longitud $1,416.41 $1,416.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Estudios técnicos de planos,
 
@@ -11437,7 +12137,7 @@ proyecto, supervisión y autorización
 
 de obras para paradores 1% sobre el costo total de la obra.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Por el estudio técnico
 
@@ -11465,7 +12165,7 @@ kilómetro o fracción $846.59 $847.00
 
 VI.- Por el permiso para la construcción de accesos que afecten el derecho de vía de un camino o puente de cuota, incluyendo la supervisión de la obra:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Proyecto a realizar en
 
@@ -11473,45 +12173,45 @@ terreno plano $13,869.42 $13,869.00
 
 b).- Proyecto a realizar en terreno de lomerío con:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 1.- Geometría en corte $15,276.46 $15,276.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 2.- Geometría en terraplén $16,683.49 $16,683.00
 
 c).- Proyecto a realizar en terreno montañoso con:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 1.- Geometría en corte $18,090.54 $18,091.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 2.- Geometría en terraplén $19,497.62 $19,498.00
 
 VII.- Por el estudio técnico del proyecto, supervisión y permiso de obras para paradores en caminos y puentes de cuota:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Con superficie total del proyecto
 
 hasta 3,000 M2 $32,563.10 $32,563.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Con superficie total del proyecto
 
 hasta 5,000 M2 $38,794.36 $38,794.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Con superficie total del proyecto
 
 hasta 10,000 M2 $45,427.57 $45,428.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- Con superficie mayor a los
 
@@ -11521,25 +12221,25 @@ adicionales $1,306.43 $1,306.00
 
 VIII.- Por la revisión, permiso y supervisión del proyecto geométrico, estructura de pavimentos, obras hidráulicas y otras que se requieran no contempladas en el proyecto original o que requieran modificación en los caminos y puentes de cuota:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Por obras desarrolladas en un
 
 tramo de 1 Km. de longitud $13,869.42 $13,869.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Por obras desarrolladas en un tramo
 
 no mayor de 5 Km. de longitud $16,683.49 $16,683.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Por obras desarrolladas en un tramo
 
 no mayor de 20 Km. de longitud $19,497.62 $19,498.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- Por obras desarrolladas en un tramo
 
@@ -11549,25 +12249,25 @@ adicional $200.91 $201.00
 
 IX.- Por la revisión, permiso y supervisión de señales y dispositivos para el control del tránsito no contempladas en el proyecto original o que requieran modificación en los caminos y puentes de cuota:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Proyecto comprendido en un tramo
 
 no mayor de 1 Km. $2,813.99 $2,814.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Proyecto comprendido en un tramo
 
 no mayor de 5 Km. $5,628.09 $5,628.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Proyecto comprendido en un tramo
 
 no mayor de 20 Km. $6,834.14 $6,834.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- Proyecto comprendido en un tramo
 
@@ -11577,25 +12277,25 @@ adicional $200.91 $201.00
 
 X.- Por la revisión, permiso y supervisión de forestación no contemplada en el proyecto original o que requiera modificación en los caminos y puentes de cuota:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Proyecto comprendido en un tramo
 
 no mayor de 1 Km $2,813.99 $2,814.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Proyecto comprendido en un tramo
 
 no mayor de 5 Km $4,582.86 $4,583.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Proyecto comprendido en un tramo
 
 no mayor de 20 Km $6,834.14 $6,834.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- Proyecto comprendido en un tramo
 
@@ -11605,13 +12305,13 @@ adicional $200.91 $201.00
 
 XI.- Por la revisión, permiso y supervisión de estación de casetas de cobro, edificios administrativos u otros servicios auxiliares no contemplados en el proyecto original o que requiera modificación en los caminos y puentes de cuota:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Con superficie total del proyecto
 
 no mayor de 100 M2 $15,276.46 $15,276.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Con superficie total del proyecto
 
@@ -11619,25 +12319,25 @@ mayor de 100 M2 $21,507.69 $21,508.00
 
 XII.- Por revisión, permiso y supervisión de proyectos de iluminación no contemplada en el proyecto original o que requiera modificación en los caminos y puentes de cuota:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Proyecto comprendido en un tramo
 
 no mayor de 1 Km $2,813.99 $2,814.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Proyecto comprendido en un tramo
 
 no mayor de 5 Km $5,628.09 $5,628.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Proyecto comprendido en un tramo
 
 no mayor de 20 Km $6,834.14 $6,834.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- Proyecto comprendido en un
 
@@ -11645,7 +12345,7 @@ tramo mayor de 20 Km., por
 
 kilómetro adicional $200.91 $201.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 XIII.- Por revisión, permiso y
 
@@ -11675,23 +12375,23 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Subterráneas $1,049.91 $1,050.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Aéreos $1,049.91 $1,050.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- A nivel $1,438.98 $1,439.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- A desnivel $3,578.24 $3,578.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Pasos superiores $7,117.89 $7,118.00
 
@@ -11705,27 +12405,27 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Laderas o escapes $1,438.98 $1,439.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Espuelas hasta 1,000 metros $2,139.02 $2,139.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Cortas vías $1,049.91 $1,050.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Patios y terminales $7,117.89 $7,118.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Vías particulares $3,500.46 $3,500.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Levantamientos de vías $3,500.46 $3,500.00
 
@@ -11739,23 +12439,23 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Arrendamientos $1,049.91 $1,050.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Enajenaciones $1,049.91 $1,050.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Donaciones $1,438.98 $1,439.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Permutas $1,436.45 $1,436.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Construcciones de edificios $3,500.46 $3,500.00
 
@@ -11763,7 +12463,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 172-D.
 
@@ -11785,13 +12485,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Para la prestación de servicios
 
 auxiliares, por cada uno $6,030.10 $6,030.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Para construir accesos, cruzamientos
 
@@ -11799,7 +12499,7 @@ e instalaciones marginales en el derecho
 
 de vía de las vías férreas $6,030.10 $6,030.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Para instalar anuncios y señales
 
@@ -11807,13 +12507,13 @@ publicitarias en el derecho de vía,
 
 por anuncio o señal publicitaria $5,115.07 $5,115.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Para construir y operar
 
 puentes sobre vías férreas $12,060.32 $12,060.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Por el otorgamiento de permisos
 
@@ -11827,7 +12527,7 @@ ejecuten en el derecho de vía de las
 
 vías férreas $7,420.56 $7,421.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Por asignación de inicial y
 
@@ -11845,11 +12545,11 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por la expedición $401.88 $402.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por la revalidación $401.88 $402.00
 
@@ -11863,13 +12563,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por verificación especial a los
 
 concesionarios e vías férreas $1,406.96 $1,407.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por la verificación técnica
 
@@ -11889,7 +12589,7 @@ a).- Por la expedición de la
 
 constancia de aprobación $120.49 $120.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por verificación para la
 
@@ -11897,9 +12597,13 @@ construcción o reconstrucción
 
 de obras ferroviarias $1,406.96 $1,407.00
 
-> <small>(ADICIONADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-IV.- Por la verificación de las instalaciones de los servicios auxiliares $ 1,407.03
+IV.- Por la verificación de las
+
+instalaciones de los servicios
+
+auxiliares $ 1,407.03 $ 1,407.00
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -11911,45 +12615,45 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Del equipo ferroviario, por unidad $1,406.96 $1,407.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- De gravámenes $1,406.96 $1,407.00
 
 III.- (DEROGADA, D.O.F. 1 DE ENERO DE 2002)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Del reglamento interno de
 
 transporte y horarios $1,406.96 $1,407.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- De las pólizas de seguros $1,406.96 $1,407.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Por modificación de la inscripción $1,406.96 $1,407.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VII.- Por cancelación de la inscripción $1,406.96 $1,407.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VIII.- Por expedición de constancias
 
 de inscripción $502.41 $502.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IX.- De la infraestructura ferroviaria $1,406.96 $1,407.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 X.- Clasificación de los servicios
 
@@ -11967,11 +12671,11 @@ ajuste ajuste
 
 I.- Para la prestación del servicio público de transporte ferroviario de pasajeros o de carga:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Por la expedición del título $1,406.96 $1,407.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Por la reposición del título $1,004.93 $1,005.00
 
@@ -11979,13 +12683,13 @@ II.- Para la construcción, operación y explotación de vías férreas, que sea
 
 a).- Por la expedición del título:
 
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
+
 Hasta 100 De más de De más de
 
 Kilómetros 100 a 500 500
 
 kilómetros kilómetros
-
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
 
 1.- Gobiernos estatales,
 
@@ -11997,11 +12701,9 @@ Administración Pública
 
 Federal $502.41 $703.38 $904.43
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
-
 2.- Particulares exclusivamente $2,210.96 $4,221.04 $6,231.14
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por la autorización para la
 
@@ -12011,7 +12713,7 @@ y obligaciones establecidos en las
 
 concesiones o permisos $1,205.92 $1,206.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Por prórroga de la vigencia $1,406.96 $1,407.00
 
@@ -12025,7 +12727,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Manuales de sistemas de control
 
@@ -12035,7 +12737,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 172-K.
 
@@ -12051,7 +12753,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 172-L.
 
@@ -12067,7 +12769,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 172-M.
 
@@ -12111,7 +12813,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 172-N.
 
@@ -12245,7 +12947,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 176-A.
 
@@ -12287,7 +12989,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Expedición de cédula individual
 
@@ -12301,7 +13003,7 @@ Se exceptúa del pago de derechos previsto en esta fracción a las asociaciones 
 
 II.- Permisos:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- De exportación de reproducciones
 
@@ -12315,7 +13017,7 @@ Historia, sin límite de objetos y por
 
 cada operación $74.77 $75.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- De exportación de reproducción
 
@@ -12327,7 +13029,7 @@ de empaque $749.34 $749.00
 
 III.- Dictámenes
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a) Para determinar que un objeto
 
@@ -12335,7 +13037,7 @@ o lote es reproducción, por unidad
 
 o empaque hasta veinticinco objetos $113.17 $113.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b) Para establecer delimitación de
 
@@ -12369,7 +13071,7 @@ ajuste ajuste
 
 I.- Del Registro Público de Monumentos y Zonas Históricas y Artísticas:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Inscripción de bien inmueble de
 
@@ -12381,7 +13083,7 @@ habitado por su propietario, por
 
 metro cuadrado $24.64 $25.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Inscripción de bien inmueble
 
@@ -12395,7 +13097,7 @@ cuadrado $24.64 $25.00
 
 c).- Inscripción de bien inmueble de propiedad particular considerado monumento histórico o artístico, cuando el área total del terreno donde se encuentre ubicado el inmueble sea mayor al área construida en planta baja:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 1.- Por áreas sin construir, por metro
 
@@ -12403,7 +13105,7 @@ cuadrado $9.67 $10.00
 
 2.- Por área construida establecida en los incisos a) y b).
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- Inscripción de bien inmueble de
 
@@ -12415,7 +13117,7 @@ monumentos históricos o artísticos,
 
 por metro cuadrado $9.67 $10.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 e).- Inscripción de bien inmueble de
 
@@ -12431,7 +13133,7 @@ metro cuadrado $9.67 $10.00
 
 f).- Inscripción de bienes inmuebles a que se refieren los incisos anteriores que requieran el servicio de elaboración de planos de localización y arquitectónicos, a solicitud de particular, además del pago de la cuota por inscripción:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 1.- Levantamiento y dibujo de planos
 
@@ -12439,7 +13141,7 @@ en el Distrito Federal, por metro
 
 cuadrado $9.67 $10.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 2.- Levantamiento y dibujo de planos
 
@@ -12449,7 +13151,7 @@ del Distrito Federal, por metro
 
 cuadrado $9.67 $10.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 3.- Levantamiento y dibujo de planos
 
@@ -12463,7 +13165,7 @@ encuentren en la misma, por metro
 
 cuadrado $9.67 $10.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 4.- Levantamiento y dibujo de planos
 
@@ -12477,7 +13179,7 @@ zona de monumentos históricos o
 
 artísticos, por metro cuadrado $34.71 $35.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 5.- Calca de planos de un inmueble
 
@@ -12485,7 +13187,7 @@ para su registro proporcionados por
 
 el propietario, por cada plano $227.09 $227.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 g).- Inscripción de bien inmueble
 
@@ -12493,7 +13195,7 @@ considerado monumento histórico
 
 o artístico $124.70 $125.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 h).- Inscripción de bien mueble
 
@@ -12501,13 +13203,13 @@ considerado monumento histórico
 
 o artístico $74.77 $75.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 i).- Constancia o certificado de
 
 inscripción de bien inmueble $29.71 $30.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 j).- Constancia o certificado de
 
@@ -12517,7 +13219,7 @@ colección $29.71 $30.00
 
 II.- Permisos.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- De exportación temporal
 
@@ -12537,7 +13239,7 @@ monumento histórico o artístico $249.61 $250.00
 
 b).- De exportación de reproducciones a persona física o moral:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 1.- Cuando los objetos tengan sello,
 
@@ -12551,7 +13253,7 @@ sin límite de objetos y por cada
 
 operación $74.77 $75.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 2.- Cuando carezcan de sello, marca
 
@@ -12559,7 +13261,7 @@ o registro por unidad de empaque,
 
 hasta 25 objetos $749.34 $749.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por el dictamen para certificar el
 
@@ -12579,13 +13281,13 @@ ajuste ajuste
 
 I.- Autorización para la realización de obra nueva:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Para casa habitación y
 
 escuelas $35.70 $36.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Para conjuntos de departamentos,
 
@@ -12593,7 +13295,7 @@ la cuota del inciso anterior y además,
 
 por cada unidad $35.70 $36.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Para conjunto de casas las
 
@@ -12601,13 +13303,13 @@ cuotas de los incisos a) y b) y
 
 además, por cada unidad $179.69 $180.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- Para edificios de oficinas o
 
 mixtos $44.65 $45.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 e).- Para edificios industriales,
 
@@ -12617,13 +13319,13 @@ servicios de automóviles y
 
 estacionamientos $54.69 $55.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 f).- Para restaurantes, hoteles,
 
 hospitales, teatros y cines $54.69 $55.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 g).- Para conjuntos comerciales,
 
@@ -12633,19 +13335,19 @@ similares $89.60 $90.00
 
 II.- Autorización para demolición, ampliación, modificación, restauración o rehabilitación, reestructuración y prórrogas de licencia:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Para demolición $17.66 $18.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Para ampliación $54.69 $55.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Para modificación $54.69 $55.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- Cualquier caso de obra no
 
@@ -12653,15 +13355,15 @@ especificado $54.69 $55.00
 
 III.-Autorización para la fijación de anuncios:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Adosados al muro $17.66 $18.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- En saliente $55.75 $56.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Cualquier caso de anuncio
 
@@ -12689,7 +13391,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Recepción, examen, estudio y,
 
@@ -12699,7 +13401,7 @@ literaria o artística, o de una obra
 
 derivada o versión $131.40 $131.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Recepción, examen, estudio y,
 
@@ -12709,7 +13411,7 @@ características gráficas y distintivas
 
 de cada obra $131.40 $131.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Recepción, examen, estudio y,
 
@@ -12717,7 +13419,7 @@ en su caso, registro de cada
 
 fonograma, videograma o libro $131.40 $131.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Búsqueda y expedición de
 
@@ -12725,7 +13427,7 @@ cada constancia de antecedentes
 
 o datos de registro o de inscripción $81.62 $82.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Recepción, examen, estudio y,
 
@@ -12733,7 +13435,7 @@ en su caso, inscripción de cada
 
 convenio o contrato $746.48 $746.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Inscripción de cada poder
 
@@ -12747,7 +13449,7 @@ conferida abarque todos los asuntos
 
 del mandante $746.48 $746.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VII.- Recepción, examen y estudio de
 
@@ -12763,7 +13465,7 @@ de autor y, en su caso, inscripción de
 
 la anotación marginal correspondiente $1,119.11 $1,119.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VIII.- Recepción, examen, estudio
 
@@ -12775,7 +13477,7 @@ estatutos de las sociedades de
 
 gestión colectiva $1,119.11 $1,119.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IX.- Recepción, examen, estudio y,
 
@@ -12785,7 +13487,7 @@ convenio o contrato celebrado por
 
 las sociedades de gestión colectiva $990.21 $990.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 X.- Inscripción de cada poder especial
 
@@ -12797,7 +13499,7 @@ percepciones derivadas de los derechos
 
 de autor o derechos conexos $470.82 $471.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XI.- Inscripción de cada poder que
 
@@ -12805,13 +13507,13 @@ autorice la gestión individual de
 
 derechos patrimoniales $937.90 $938.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XII.- Solicitud e inicio del
 
 procedimiento de avenencia $188.81 $189.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XIII.- Presentación del escrito que
 
@@ -12821,7 +13523,7 @@ infracción administrativa en materia
 
 de derechos de autor $1,125.48 $1,125.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XIV.- Solicitud y dictamen de reservas
 
@@ -12831,7 +13533,7 @@ de publicaciones o difusiones
 
 periódicas $1,125.48 $1,125.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XV.- Solicitud y dictamen de la
 
@@ -12841,7 +13543,7 @@ al uso exclusivo de títulos de
 
 publicaciones o difusiones periódicas $590.78 $591.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XVI.- Solicitud y dictamen de reservas
 
@@ -12857,7 +13559,7 @@ de grupos artísticos o promociones
 
 publicitarias $2,222.93 $2,223.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XVII.- Solicitud y dictamen de la
 
@@ -12873,7 +13575,7 @@ nombres artísticos y denominaciones
 
 de grupos artísticos $1,162.48 $1,162.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XVIII.- Solicitud de análisis y búsqueda
 
@@ -12887,7 +13589,7 @@ artísticos o denominaciones de
 
 grupos artísticos $108.41 $108.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XIX.- Solicitud de análisis y búsqueda
 
@@ -12901,7 +13603,7 @@ o simbólicos, o promociones
 
 publicitarias $191.38 $191.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XX.- Solicitud y dictamen de
 
@@ -12911,7 +13613,7 @@ expedientes de reservas de derechos
 
 al uso exclusivo $590.78 $591.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XXI.- Otorgamiento de números
 
@@ -12919,7 +13621,7 @@ relativos al Número Internacional
 
 Normalizado del Libro (ISBN) $95.67 $96.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XXII.- Solicitud de declaración
 
@@ -12927,7 +13629,7 @@ administrativa de nulidad de reservas
 
 de derechos al uso exclusivo $1,120.38 $1,120.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XXIII.- Solicitud de declaración
 
@@ -12941,7 +13643,7 @@ expedientes de reservas de derechos
 
 al uso exclusivo $1,121.65 $1,122.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XXIV.- Recepción, examen, estudio y,
 
@@ -12955,7 +13657,7 @@ tenga por efecto la revocación del
 
 poder otorgado, previamente inscrito $1,045.08 $1,045.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XXV.- Solicitud, dictamen y, en su
 
@@ -12981,13 +13683,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Registro de colegio de
 
 Profesionistas $5,095.14 $5,095.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Registro de establecimiento
 
@@ -12999,7 +13701,7 @@ diplomas de especialidad o grados
 
 académicos $5,095.14 $5,095.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Revalidación de título profesional,
 
@@ -13007,7 +13709,7 @@ de diploma de especialidad y de grado
 
 académico $1,018.74 $1,019.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Registro de título profesional,
 
@@ -13015,13 +13717,13 @@ de diploma de especialidad y de
 
 grado académico $509.25 $509.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Expedición de autorización para
 
 el ejercicio de una especialidad $510.51 $511.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Expedición de autorización
 
@@ -13033,25 +13735,25 @@ profesionistas $509.27 $509.00
 
 VII.- Enmiendas al registro profesional:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- En relación con colegios de
 
 profesionistas $509.27 $509.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- En relación con establecimiento
 
 educativo $509.27 $509.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- En relación con título profesional
 
 o grado académico $101.61 $102.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- Inscripción de asociado a un
 
@@ -13059,13 +13761,13 @@ colegio de profesionistas que no
 
 figuren en el registro original $20.03 $20.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 e).- En relación con Federaciones
 
 de Colegios de Profesionistas $614.24 $614.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 f).- Inscripción de asociado a una
 
@@ -13075,7 +13777,7 @@ Profesionistas que no figure en el
 
 registro original $614.24 $614.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VIII.- Expedición de duplicado de
 
@@ -13083,7 +13785,7 @@ cédula o de autorización para el
 
 ejercicio de una especialidad $204.50 $204.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IX.- Expedición de cédula profesional
 
@@ -13091,7 +13793,7 @@ con efectos de patente o de cédula
 
 de grado académico $203.49 $203.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 X.- Expedición de autorización
 
@@ -13101,17 +13803,17 @@ el título profesional en trámite o
 
 para ejercer como pasante $203.49 $203.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XI.- Consultas de archivo $92.84 $93.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XII.- Constancias de antecedentes
 
 Profesionales $202.25 $202.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XIII.- Registro de Federación de
 
@@ -13129,7 +13831,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Para el caso de profesionistas
 
@@ -13147,7 +13849,7 @@ Por la renovación anual se pagará
 
 la cuota de $1,622.72 $1,623.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Para el caso de profesionistas de
 
@@ -13185,13 +13887,13 @@ ajuste ajuste
 
 I.- Por solicitud, estudio y resolución del trámite de:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Reconocimiento de validez
 
 oficial de estudios de tipo superior $5,742.48 $5,742.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Cambios a cada plan y
 
@@ -13201,7 +13903,7 @@ superior con reconocimiento
 
 de validez oficial $2,482.00 $2,482.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Cambio o ampliación de domicilio,
 
@@ -13213,15 +13915,35 @@ estudios con reconocimiento de
 
 validez oficial $2,169.47 $2,169.00
 
-> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
-II.- Por solicitud, estudio y resolución del trámite de autorización para impartir educación preescolar, primaria, secundaria, normal y demás para la formación de maestros, sea cual fuere la modalidad $ 626.75
+II.- Por solicitud, estudio y resolución
 
-> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+del trámite de autorización para
 
-III.- Por solicitud, estudio y resolución del trámite de reconocimiento de validez oficial de estudios de los niveles medio superior o equivalente y de formación para el trabajo, sea cual fuere la modalidad $ 626.75
+impartir educación preescolar,
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+primaria, secundaria, normal y
+
+demás para la formación de
+
+maestros, sea cual fuere la modalidad $ 626.75 $ 627.00
+
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
+
+III.- Por solicitud, estudio y resolución
+
+del trámite de reconocimiento de validez
+
+oficial de estudios de los niveles medio
+
+superior o equivalente y de formación
+
+para el trabajo, sea cual fuere la
+
+modalidad $ 626.75 $ 627.00
+
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Acreditación y certificación a
 
@@ -13231,21 +13953,21 @@ por examen $39.22 $39.00
 
 V.- Exámenes profesionales o de grado:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a) De tipo superior $124.48 $124.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- De tipo medio superior $62.47 $62.00
 
 VI.- Exámenes a título de suficiencia:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a) De educación primaria $24.61 $25.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- De educación secundaria y de
 
@@ -13253,11 +13975,11 @@ educación media superior,
 
 por materia $14.00 $14.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- De tipo superior, por materia. $45.88 $46.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- Del Instituto Nacional de Bellas
 
@@ -13267,17 +13989,17 @@ e).- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2003)
 
 VII.- Exámenes extraordinarios, por materia:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- De educación secundaria y de
 
 educación media superior $11.42 $11.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- De tipo superior $45.90 $46.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Del Instituto Nacional de
 
@@ -13285,23 +14007,23 @@ Bellas Artes y Literatura $36.27 $36.00
 
 VIII.- Otorgamiento de diploma, título o grado:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- De tipo superior $121.12 $121.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- De educación secundaria y
 
 de educación media superior $29.29 $29.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- De capacitación para el trabajo
 
 industrial $20.01 $20.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IX.- Por la expedición del certificado de
 
@@ -13309,7 +14031,7 @@ terminación de estudios de tipo medio
 
 superior en la modalidad escolarizada $219.13 $219.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 X.- Por la solicitud de acreditación
 
@@ -13323,43 +14045,43 @@ trabajo industrial $326.73 $327.00
 
 XI.- Expedición de duplicado de certificados de terminación de estudios:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- De educación básica y de educación
 
 media superior $29.29 $29.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- De tipo superior $92.01 $92.00
 
 XII.- Por solicitud de revalidación de estudios:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- De educación básica $20.00 $20.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- De educación media-superior $200.91 $201.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- De educación superior $602.91 $603.00
 
 XIII.- Revisión de certificados de estudio, por grado escolar:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- De educación básica y
 
 educación media superior $7.59 $8.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- De tipo superior $24.09 $24.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Del Instituto Nacional de Bellas
 
@@ -13367,33 +14089,33 @@ Artes y Literatura $24.09 $24.00
 
 XIV.- Por solicitud de equivalencia de estudios:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- De educación básica $20.00 $20.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- De educación media-superior $200.91 $201.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- De educación superior $602.91 $603.00
 
 XV.- Inspección y vigilancia de establecimientos educativos particulares, por alumno inscrito en cada ejercicio escolar:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- De educación superior $48.42 $48.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- De educación media superior $21.64 $22.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- De educación secundaria $20.75 $21.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- De educación primaria $4.59 $5.00
 
@@ -13401,7 +14123,7 @@ d).- De educación primaria $4.59 $5.00
 
 Las escuelas de Instituciones de Asistencia Privada y las que impartan exclusivamente enseñanza especial a personas con o sin discapacidad no causarán el derecho a que se refiere esta fracción.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XVI.- Permiso provisional de
 
@@ -13413,35 +14135,35 @@ XVIII.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
 XIX.- Expedición de certificados de aptitud:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- De locutor $311.93 $312.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- De cronista o comentarista $513.64 $514.00
 
 XX.- Expedición de duplicado de certificados de aptitud:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- De locutor $311.93 $312.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- De cronista o comentarista $513.64 $514.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XXI.- Consultas o constancias de
 
 Archivo $93.12 $93.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XXII.- Cambio de carrera $49.55 $50.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XXIII.- Dictamen psicopedagógico
 
@@ -13449,27 +14171,27 @@ para cambio de carrera $74.64 $75.00
 
 XXIV.- Inscripción:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- En curso de verano $99.53 $100.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- En curso de regularización $99.53 $100.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Cursos de capacitación para el
 
 trabajo industrial $287.15 $287.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XXV.- Materias libres para alumnos
 
 Inscritos $46.00 $46.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XXVI.- Expedición de duplicado de
 
@@ -13479,19 +14201,19 @@ credencial de la preparatoria abierta $23.06 $23.00
 
 XXVII.- Por los cursos de formación y capacitación para profesionales en producción televisiva y audiovisual educativa:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Por cada hora o fracción de
 
 curso teórico $25.00 $25.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Por cada hora o fracción de
 
 curso práctico $30.00 $30.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Por cada hora o fracción de
 
@@ -13511,7 +14233,7 @@ ajuste ajuste
 
 A.- Por la inscripción de:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Documentos públicos o privados
 
@@ -13527,7 +14249,7 @@ del Programa de Certificación de Derechos
 
 Ejidales y Titulación de Solares $166.06 $166.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Cancelación o rectificación de
 
@@ -13535,7 +14257,7 @@ las inscripciones $30.14 $30.00
 
 III.- Acuerdo de asamblea que apruebe:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- El Reglamento Interno de las
 
@@ -13543,7 +14265,7 @@ Colonias Agrícolas y Ganaderas y sus
 
 Modificaciones $38.23 $38.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- La Adopción de Dominio Pleno de
 
@@ -13551,7 +14273,7 @@ Colonias, que no provengan del
 
 Programa de Regularización $80.34 $80.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Otorgamiento del usufructo de
 
@@ -13565,7 +14287,7 @@ refaccionarios, de habilitación o avío
 
 o cualquier otro acto u obligación $30.14 $30.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Documentos públicos o privados
 
@@ -13591,13 +14313,13 @@ explotación de parcelas con destino
 
 específico y sus modificaciones $75.70 $76.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Conversión del régimen de dominio
 
 pleno al ejidal $170.39 $170.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VII.- Planos generales e internos,
 
@@ -13611,7 +14333,7 @@ Certificación de Derechos Ejidales
 
 y Titulación de Solares $37.81 $38.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VIII.- Acuerdo de asamblea a que se
 
@@ -13621,7 +14343,7 @@ artículo 23 de la Ley Agraria, así como
 
 su modificación, por cada uno $37.73 $38.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IX.- Acuerdo de asamblea a que se
 
@@ -13633,7 +14355,7 @@ así como sus modificaciones, por
 
 cada uno $80.34 $80.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 X.- Documentos públicos o privados
 
@@ -13661,7 +14383,7 @@ y extinción $170.43 $170.00
 
 XI.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1999)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XII.- Escritura constitutiva de un
 
@@ -13673,7 +14395,7 @@ No se pagará el derecho establecido en la fracción I, de este Apartado, tratá
 
 B.- Por la expedición de los siguientes certificados y títulos de propiedad:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Certificados y títulos de propiedad
 
@@ -13685,7 +14407,7 @@ Derechos Ejidales y Titulación de
 
 Solares $75.70 $76.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Títulos de dominio pleno de colonias,
 
@@ -13695,7 +14417,7 @@ Programa de Regularización de
 
 Colonias $75.65 $76.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Títulos de propiedad de
 
@@ -13703,7 +14425,7 @@ origen parcelario $144.15 $144.00
 
 C.- Por la reposición de:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Certificados parcelarios o de
 
@@ -13717,19 +14439,19 @@ por resolución jurisdiccional $75.65 $76.00
 
 D.- Por la expedición de otros documentos:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Constancias $75.65 $76.00
 
 No se pagará el derecho establecido en esta fracción por la expedición de constancias que sean solicitadas por la Federación, estados y municipios y por las organizaciones campesinas, en este último caso, cuando acrediten que actúan en representación legal de los núcleos de población o de sus integrantes.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Oficios informativos sobre
 
 ubicación de predios $99.04 $99.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Listado de ejidatarios o comuneros
 
@@ -13741,35 +14463,35 @@ E.- Por la asistencia técnica y catastral:
 
 I.- Trabajos de campo, topográficos o fotogramétricos que no correspondan al Programa de Certificación de Derechos Ejidales y Titulación de Solares, o del Programa de Regularización de Colonias.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- De 0.1 a 10 hectáreas $426.59 por hectárea
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- De 10.1 a 50 hectáreas $375.38 por hectárea
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- De 50.1 a 100 hectáreas $307.09 por hectárea
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- De 100.1 a 500 hectáreas $255.91 por hectárea
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 e).- De 500.1 a 1,500 hectáreas $153.51 por hectárea
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 f).- De 1,500.1 a 10,000 hectáreas $102.29 por hectárea
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 g).- De 10,000.1 y más hectáreas $51.10 por hectárea
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Carta Catastral, en términos del
 
@@ -13779,7 +14501,7 @@ del Registro Agrario Nacional, por
 
 cada uno $75.65 $76.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Listados prediales referenciados
 
@@ -13789,7 +14511,7 @@ carta u oficio, por cada una $37.73 $38.00
 
 F.- Por otros servicios:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por el depósito de lista de sucesión
 
@@ -13797,19 +14519,19 @@ y expedición de la constancia
 
 correspondiente $22.06 $22.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por la apertura de lista de
 
 Sucesión $22.06 $22.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por las anotaciones preventivas,
 
 su rectificación o cancelación $37.73 $38.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Búsqueda, compulsa, y en su
 
@@ -13867,7 +14589,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Inscripción de enajenaciones
 
@@ -13875,7 +14597,7 @@ de inmuebles federales a favor
 
 de particulares $361.97 $362.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Inscripción de enajenaciones de
 
@@ -13887,7 +14609,7 @@ hipotecaria en favor del Gobierno
 
 Federal $361.88 $362.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Inscripción de demandas entabladas
 
@@ -13895,7 +14617,7 @@ por particulares relacionadas con bienes
 
 inmuebles federales $361.88 $362.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Inscripción de las resoluciones
 
@@ -13907,7 +14629,7 @@ particulares relacionadas con bienes
 
 inmuebles federales $361.88 $362.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Por calificación de documentos
 
@@ -13919,7 +14641,7 @@ impedimento legal o a petición del
 
 interesado $179.27 $179.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Cancelación de hipotecas otorgadas
 
@@ -13929,7 +14651,7 @@ que se ha cubierto el adeudo que dio
 
 origen a la garantía hipotecaria $251.13 $251.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VII.- Cancelación de la reserva de dominio
 
@@ -13941,7 +14663,7 @@ la Federación se reservó el
 
 dominio $251.13 $251.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VIII.- Cancelación en el Registro Público
 
@@ -13951,31 +14673,31 @@ la característica de bien del dominio
 
 público $251.13 $251.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IX.- Expedición de certificados de libertad
 
 o existencia de gravámenes $179.27 $179.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 X.- Expedición de certificados de inscripción
 
 de propiedad federal $299.10 $299.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XI.- Expedición de certificados de
 
 no inscripción federal $299.10 $299.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XII.- Expedición de certificados de
 
 no propiedad federal $448.73 $449.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 43 DE FEBRERO DE 2006)
 
 XIII.- Expedición de listados computarizados
 
@@ -13985,19 +14707,19 @@ Nacional de Información Inmobiliaria,
 
 por hoja $14.62 $15.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XIV.- Expedición de copia certificada
 
 de folio real $401.78 $402.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XV.- Expedición de copia certificada
 
 de documento inscrito $301.41 $301.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XVI.- Asiento en el folio real de
 
@@ -14011,7 +14733,7 @@ que no constituya novación del
 
 contrato $146.50 $146.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XVII.- Otros tipos de asientos
 
@@ -14035,7 +14757,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por recepción y estudio de solicitudes
 
@@ -14043,7 +14765,7 @@ de concesión o permiso sobre inmuebles
 
 del dominio público $2,133.29 $2,133.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por recepción y estudio de solicitudes
 
@@ -14051,7 +14773,7 @@ de enajenación de inmuebles de la
 
 Federación $583.01 $583.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por otorgamiento o prórroga de
 
@@ -14059,7 +14781,7 @@ concesión o permiso sobre bienes de
 
 dominio público de la Federación $1,066.58 $1,067.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Por recepción y estudio de solicitudes
 
@@ -14075,7 +14797,7 @@ templos de propiedad federal o sus
 
 anexidades $7,253.43 $7,253.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Por aprobación del proyecto de
 
@@ -14089,7 +14811,7 @@ de propiedad federal o sus
 
 anexidades $3,626.67 $3,627.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Por la recepción, estudio y, en su
 
@@ -14143,7 +14865,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por el otorgamiento o autorización
 
@@ -14155,11 +14877,11 @@ la pesca comercial $6,564.85 $6,565.00
 
 II.- Por la expedición de permisos para:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- La pesca comercial $598.42 $598.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Para realizar los trabajos pesqueros
 
@@ -14169,7 +14891,7 @@ de las concesiones de pesca
 
 comercial $358.93 $359.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- La pesca de fomento a personas
 
@@ -14185,13 +14907,13 @@ pesqueros $359.67 $360.00
 
 III.- Por el otorgamiento de autorizaciones para:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Instalar artes de pesca fija, en
 
 aguas de jurisdicción federal $360.83 $361.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Recolectar del medio natural
 
@@ -14201,13 +14923,13 @@ crías, huevos, semillas o alevines
 
 con fines de producción acuícola $572.18 $572.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- La transferencia de permisos
 
 de pesca comercial $580.99 $581.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- Desembarcar productos pesqueros
 
@@ -14217,25 +14939,25 @@ puertos mexicanos, por embarcaciones
 
 extranjeras $359.67 $360.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Por el otorgamiento de una
 
 concesión para acuacultura comercial $8,775.69 $8,776.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Por la expedición de permiso para
 
 acuacultura de fomento $4,517.81 $4,518.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Por el otorgamiento de autorización
 
 para acuacultura didáctica $1,528.46 $1,528.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VII.- Por el otorgamiento de
 
@@ -14245,13 +14967,13 @@ titular de los derechos de la concesión
 
 acuícola $1,128.06 $1,128.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VIII.- Por la expedición del certificado
 
 de sanidad acuícola, por lote $277.09 $277.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IX.- Por la expedición del certificado
 
@@ -14263,7 +14985,7 @@ vivos destinados a la acuacultura u
 
 ornato $2,131.53 $2,132.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 X.- Por la expedición del certificado
 
@@ -14295,7 +15017,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 191-C.
 
@@ -14323,15 +15045,15 @@ ajuste ajuste
 
 I.- Embarcaciones de propiedad y uso particular:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Hasta 7.00 metros de eslora $324.72 $325.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- De 7.01 a 9.00 metros de eslora $649.64 $650.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- De 9.01 metros de eslora
 
@@ -14343,23 +15065,23 @@ II.- Embarcaciones de prestadores de servicios:
 
 a).- En aguas marinas:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 1.- De hasta 3 toneladas brutas
 
 de registro $696.71 $697.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 2.- De más de 3 toneladas brutas
 
 de registro $2,090.91 $2,091.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- En aguas distintas de las marinas $696.71 $697.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Embarcaciones extranjeras
 
@@ -14371,7 +15093,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 191-E.
 
@@ -14409,7 +15131,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por cada título de asignación o
 
@@ -14419,7 +15141,7 @@ aprovechar aguas nacionales
 
 incluyendo su registro $2,201.40 $2,201.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por cada permiso de descarga
 
@@ -14431,7 +15153,7 @@ cuerpo receptor, incluyendo su
 
 registro $3,014.99 $3,015.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por cada permiso de descarga
 
@@ -14441,13 +15163,37 @@ que prevé la fracción anterior,
 
 incluyendo su registro $1,004.93 $1,005.00
 
-> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-IV.- Por cada prórroga o modificación, a petición de parte interesada, a las características de los títulos o permisos a que se refieren las fracciones I, II y III de este artículo, respecto a la extracción, derivación, a la explotación, uso o aprovechamiento de aguas nacionales, profundización, sustitución de usuarios, relocalización o reposición de pozos, punto o calidad de descarga o plazo $ 1,125.76
+IV.- Por cada prórroga o modificación,
 
-> <small>(ADICIONADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+a petición de parte interesada, a las
 
-V.- Por cada transmisión de títulos de concesión y permisos de descarga cuando se modifiquen las características del título $ 2,201.40
+características de los títulos o permisos
+
+a que se refieren las fracciones I, II y III
+
+de este artículo, respecto a la extracción,
+
+derivación, a la explotación, uso o
+
+aprovechamiento de aguas nacionales,
+
+profundización, sustitución de usuarios,
+
+relocalización o reposición de pozos,
+
+punto o calidad de descarga o plazo $ 1,125.76 $ 1,126.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
+
+V.- Por cada transmisión de títulos de
+
+concesión y permisos de descarga
+
+cuando se modifiquen las características
+
+del título $ 2,201.40 $ 2,201.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -14459,7 +15205,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por cada título de concesión para
 
@@ -14469,15 +15215,39 @@ vasos y depósitos de propiedad
 
 nacional $932.60 $933.00
 
-> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-II.- Por cada título de concesión para el uso o aprovechamiento de terrenos de cauces, vasos, lagos o lagunas, así como esteros, zonas federales y demás bienes nacionales regulados por la Ley de Aguas Nacionales $ 933.12
+II.- Por cada título de concesión para
 
-> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+el uso o aprovechamiento de terrenos
 
-III.- Por cada permiso para la construcción de obras hidráulicas destinadas a la explotación, uso o aprovechamiento de aguas nacionales o en zonas de veda y reglamentadas, para perforación de pozos para uso de aguas del subsuelo o para la construcción de obras en zona federal $ 2,848.95
+de cauces, vasos, lagos o lagunas,
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+así como esteros, zonas federales y
+
+demás bienes nacionales regulados por
+
+la Ley de Aguas Nacionales $ 933.12 $ 933.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
+
+III.- Por cada permiso para la construcción
+
+de obras hidráulicas destinadas a la
+
+explotación, uso o aprovechamiento de
+
+aguas nacionales o en zonas de veda y
+
+reglamentadas, para perforación de
+
+pozos para uso de aguas del subsuelo
+
+o para la construcción de obras en zona
+
+federal $ 2,848.95 $ 2,849.00
+
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Por cada título de concesión para
 
@@ -14489,9 +15259,23 @@ incluyendo la prestación de los
 
 servicios respectivos $2,998.29 $2,998.00
 
-> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-V.- Por la prórroga o modificación, a petición de parte interesada, a las características de los títulos o permisos a que se refieren las fracciones I a IV de este artículo, respecto a la explotación, uso o aprovechamiento, sustitución de usuario, ubicación o plazo, por cada uno $ 1,125.76
+V.- Por la prórroga o modificación,
+
+a petición de parte interesada, a las
+
+características de los títulos o permisos
+
+a que se refieren las fracciones I a IV
+
+de este artículo, respecto a la explotación,
+
+uso o aprovechamiento, sustitución de
+
+usuario, ubicación o plazo, por cada
+
+uno $ 1,125.76 $ 1,126.00
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -14507,7 +15291,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por la expedición del certificado de
 
@@ -14517,7 +15301,7 @@ las fracciones V del artículo 224 y
 
 IV del artículo 282, por cada uno $2,914.64 $2,915.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por la expedición del certificado
 
@@ -14539,7 +15323,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por el estudio y tramitación de
 
@@ -14555,7 +15339,7 @@ asignación o permiso, en los
 
 términos de Ley, por cada uno $440.05 $440.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por estudio y tramitación de
 
@@ -14573,7 +15357,7 @@ de los señalados en la fracción I de
 
 este artículo, por cada uno $109.89 $110.00
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por la constancia de búsqueda
 
@@ -14589,7 +15373,7 @@ Los usuarios que utilicen la página electrónica de la Comisión Nacional del A
 
 Por los servicios a que se refiere esta fracción, no se pagará el derecho establecido en la fracción IV de este artículo.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Por la expedición de certificados
 
@@ -14673,13 +15457,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por el otorgamiento de la
 
 concesión, anualmente $2,332.54 $2,333.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por el otorgamiento de permiso,
 
@@ -14689,15 +15473,15 @@ por cada uno $227.25 $227.00
 
 III.- Por el deslinde y levantamiento topográfico de la zona sujeta a concesión, por metro cuadrado:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Hasta 500 metros $291.45 $291.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- De 501 a 1000 metros $364.29 $364.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- De 1001 en adelante $408.07 $408.00
 
@@ -14713,11 +15497,11 @@ IV.- Por el otorgamiento de permisos para prestadores de servicios turísticos, 
 
 a).- Por unidad de transporte terrestre:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 1.- Motorizada $242.75 $243.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 2.- No motorizada $48.28 $48.00
 
@@ -14725,7 +15509,7 @@ a).- Por unidad de transporte terrestre:
 
 b).- Por unidad de transporte acuática, subacuática o anfibia:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 1.- Embarcaciones hasta de 12
 
@@ -14737,7 +15521,7 @@ o anfibios, tablas de oleaje y sus
 
 equivalentes $242.75 $243.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 2.- Embarcaciones mayores de 12
 
@@ -14747,7 +15531,7 @@ vehículos o aparatos sumergibles
 
 o anfibios y sus equivalentes $4,859.42 $4,859.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 3.- Motocicletas acuáticas y
 
@@ -14759,7 +15543,7 @@ diferentes a los enunciados en los
 
 numerales 1 y 2 de este inciso $341.26 $341.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Otros vehículos distintos a los
 
@@ -14779,7 +15563,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 194-C
 
@@ -14809,7 +15593,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por la recepción, estudio de la
 
@@ -14851,7 +15635,7 @@ La anterior disposición es aplicable a los establecimientos permanentes. En el 
 
 II.- Por la verificación en campo de levantamiento topográfico presentado por el solicitante de uso o aprovechamiento de las playas, la zona federal marítimo terrestre, los terrenos ganados al mar, o a cualquier otro depósito que se forme por aguas marítimas:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 Rango de Superficie
 
@@ -14889,7 +15673,7 @@ del límite inferior
 
 A partir del límite inferior, a los m2 adicionales se les aplicará el factor correspondiente hasta llegar al límite inferior del siguiente rango.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por la cesión de la concesión
 
@@ -14929,15 +15713,25 @@ A. (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2000)
 
 B. Por la expedición de permisos, autorizaciones y certificados:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-I.- Por el trámite y, en su caso, autorización de colecta científica, temporal o definitiva, de material biológico de flora y fauna silvestres, terrestres y acuáticas realizada en el país por extranjeros $ 9,674.36
+I.- Por el trámite y, en su caso,
+
+autorización de colecta científica,
+
+temporal o definitiva, de material
+
+biológico de flora y fauna silvestres,
+
+terrestres y acuáticas realizada en
+
+el país por extranjeros $ 9,674.36 $ 9,674.00
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 Las personas que realicen colecta científica en el país, bajo algún convenio con el Gobierno Federal o con alguna institución mexicana, así como con investigadores mexicanos registrados en el sistema nacional de investigadores, no pagarán los derechos a que se refieren las fracciones I y III de este apartado.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por la recepción y trámite de
 
@@ -14967,7 +15761,7 @@ forma parte, cualquiera que sea
 
 su resolución $340.93 $341.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Para colecta de material parental
 
@@ -14989,7 +15783,7 @@ parte, para su reproducción o
 
 propagación $405.74 $406.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Por la autorización de colecta
 
@@ -15011,7 +15805,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por el otorgamiento de
 
@@ -15021,19 +15815,31 @@ vida silvestre $300.00 $300.00
 
 No pagarán el derecho que se establece en esta fracción, cuando se trate del registro de unidades de manejo para la conservación de vida silvestre, así como el de colecciones científicas o museográficas públicas.
 
-> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-II.- Por el trámite y, en su caso, expedición de cada licencia de prestadores de servicios de aprovechamiento en caza deportiva $ 800.00
+II.- Por el trámite y, en su caso,
 
-Por la reposición de la licencia referida en esta fracción, se pagará la cuota de $ 350.00
+expedición de cada licencia de
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+prestadores de servicios de
+
+aprovechamiento en caza
+
+deportiva $ 800.00 $ 800.00
+
+Por la reposición de la licencia
+
+referida en esta fracción, se
+
+pagará la cuota de $ 350.00 $ 350.00
+
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por la expedición de cintillo
 
 de aprovechamiento cinegético $170.94 $171.00
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Por cada licencia de caza
 
@@ -15041,7 +15847,7 @@ Deportiva $350.00 $350.00
 
 Por la reposición de la licencia de caza deportiva se pagará la cuota a que se refiere esta fracción.
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Por el estudio de la solicitud
 
@@ -15095,13 +15901,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Distrito Federal, México, Morelos,
 
 Puebla, Tlaxcala, Hidalgo y Querétaro $11.88 $12.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Jalisco, Michoacán, Aguascalientes,
 
@@ -15109,7 +15915,7 @@ Guanajuato, Nuevo León, San Luis
 
 Potosí y Zacatecas $16.03 $16.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Baja California, Baja California Sur,
 
@@ -15123,7 +15929,7 @@ Campeche, Yucatán, Quintana Roo y
 
 Sinaloa $20.00 $20.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Por supervisión anual, por
 
@@ -15145,7 +15951,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por la recepción, evaluación
 
@@ -15157,39 +15963,39 @@ preventivo $7,340.00 $7,340.00
 
 II.- Por la recepción y evaluación de la manifestación de impacto ambiental:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- En su modalidad particular $10,572.00 $10,572.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- En su modalidad regional $13,835.00 $13,835.00
 
 III.- Por el otorgamiento de la resolución de la manifestación del impacto ambiental en su modalidad particular, de acuerdo con los criterios ambientales de la TABLA A y la clasificación de la TABLA B:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- $10,572.00 $10,572.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- $31,717.00 $31,717.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- $52,862.00 $52,862.00
 
 IV.- Por el otorgamiento de la resolución de la manifestación del impacto ambiental en su modalidad regional, de acuerdo con los criterios ambientales de la TABLA A y la clasificación de la TABLA B.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- $13,835.00 $13,835.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- $41,504.00 $41,504.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- $69,173.00 $69,173.00
 
@@ -15203,7 +16009,7 @@ El pago de los derechos de las fracciones III y IV de este artículo se hará co
 
 V.- (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2005)
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Por la evaluación y
 
@@ -15215,7 +16021,7 @@ autorizados en materia de
 
 impacto ambiental $5,289.00 $5,289.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VII.- Por la evaluación y
 
@@ -15229,7 +16035,7 @@ autorización de impacto
 
 ambiental $1,963.00 $1,963.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VIII.- Por la evaluación de la
 
@@ -15275,23 +16081,23 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Hasta 500 metros cúbicos EXENTO EXENTO
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- De más de 500 metros cúbicos
 
 hasta 1,000 metros cúbicos $3,000.00 $3,000.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- De más de 1,000 metros cúbicos
 
 hasta 5,000 metros cúbicos $4,100.00 $4,100.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- De más de 5,000 metros
 
@@ -15321,23 +16127,23 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Hasta 500 metros cúbicos EXENTO EXENTO
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- De más de 500 metros cúbicos
 
 hasta 1,500 metros cúbicos $2,000.00 $2,000.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- De más de 1,500 metros cúbicos
 
 hasta 3,000 metros cúbicos $2,700.00 $2,700.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- De más de 3,000 metros cúbicos $3,500.00 $3,500.00
 
@@ -15365,29 +16171,29 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I. Hasta 1 hectárea $650.00 $650.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II. De más de 1 hectárea hasta
 
 10 hectáreas $900.00 $900.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III. De más de 10 hectáreas hasta
 
 50 hectáreas $1,900.00 $1,900.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV. De más de 50 hectáreas
 
 hasta 200 hectáreas $3,800.00 $3,800.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V. De más de 200 hectáreas $5,800.00 $5,800.00
 
@@ -15395,17 +16201,39 @@ V. De más de 200 hectáreas $5,800.00 $5,800.00
 
 Cuando la solicitud se refiera a terrenos incendiados que requieran de un dictamen especial, se pagará adicionalmente el 20% de las cuotas establecidas en las fracciones anteriores.
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+cuota sin cuota con
+
+ajuste ajuste
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 194-N.
 
-Por la recepción, evaluación y dictamen del programa de manejo de plantación forestal comercial y, en su caso, autorización de plantación forestal comercial en terrenos preferentemente forestales, en superficies mayores a 800 hectáreas o, en su caso, en sustitución de vegetación nativa, se pagará la cuota de $ 4,100.00
+Por la recepción,
+
+evaluación y dictamen del programa
+
+de manejo de plantación forestal
+
+comercial y, en su caso, autorización
+
+de plantación forestal comercial en
+
+terrenos preferentemente forestales,
+
+en superficies mayores a 800
+
+hectáreas o, en su caso, en sustitución
+
+de vegetación nativa, se pagará la
+
+cuota de $ 4,100.00 $ 4,100.00
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 194-N
 
@@ -15429,7 +16257,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por la expedición de cada
 
@@ -15441,7 +16269,7 @@ subproductos forestales fuera de
 
 la región y franja fronteriza $750.00 $750.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por la verificación de la calidad
 
@@ -15455,15 +16283,23 @@ para la exportación de productos
 
 y subproductos forestales $600.00 $600.00
 
-> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-III.- Por la emisión del dictamen técnico de determinación taxonómica de muestras entomológicas o patológicas detectadas en productos y/o subproductos forestales de importación $ 850.00
+III.- Por la emisión del dictamen técnico
+
+de determinación taxonómica de
+
+muestras entomológicas o patológicas
+
+detectadas en productos y/o subproductos
+
+forestales de importación $ 850.00 $ 850.00
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 194-N
 
@@ -15487,13 +16323,23 @@ conforme a la cuota de $1,100.00 $1,100.00
 
 4.- Por la recepción y evaluación y, en su caso, la autorización para la colecta y uso de recursos biológicos forestales, se pagarán derechos conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+cuota sin cuota con
 
-I.- Por colecta de recursos biológicos forestales con fines biotecnológicos comerciales $ 9,579.00
+ajuste ajuste
 
-> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-II.- Por colecta de recursos biológicos forestales con fines científicos $ 1,100.00
+I.- Por colecta de recursos biológicos
+
+forestales con fines biotecnológicos
+
+comerciales $ 9,579.00 $ 9,579.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
+
+II.- Por colecta de recursos biológicos
+
+forestales con fines científicos $ 1,100.00 $ 1,100.00
 
 III.- (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2005)
 
@@ -15503,9 +16349,19 @@ III.- (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2005)
 
 5.- Por la expedición de formatos que deban utilizar los interesados para acreditar la legal procedencia de materias primas, productos y subproductos forestales, se pagará el derecho conforme a la cuota de:
 
-I.- De 1 a 3 formatos $ 9.00
+cuota sin cuota con
 
-II.- A partir del cuarto formato, por cada uno $ 3.00
+ajuste ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
+
+I.- De 1 a 3 formatos $ 9.00 $ 9.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
+
+II.- A partir del cuarto formato, por
+
+cada uno $ 3.00 $ 3.00
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -15519,13 +16375,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por la recepción y evaluación de
 
 solicitud de licencia $1,500.00 $1,500.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Actualización de la licencia de
 
@@ -15539,7 +16395,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 194-P.
 
@@ -15567,7 +16423,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 194-Q.
 
@@ -15593,7 +16449,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 194-R.
 
@@ -15633,7 +16489,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Operación de unidades para la
 
@@ -15641,7 +16497,7 @@ recolección y transporte de residuos
 
 peligrosos $2,377.36 $2,377.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Instalación y operación de
 
@@ -15649,7 +16505,7 @@ sistemas de acopio y almacenamiento
 
 de residuos peligrosos $2,376.08 $2,376.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Instalación y operación de
 
@@ -15657,7 +16513,7 @@ sistemas de reciclaje de residuos
 
 peligrosos $1,500.00 $1,500.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Instalación y operación de
 
@@ -15665,7 +16521,7 @@ sistemas de utilización y reutilización
 
 de residuos peligrosos $1,500.00 $1,500.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Instalación y operación de
 
@@ -15673,7 +16529,7 @@ sistemas de tratamiento de residuos
 
 peligrosos $3,916.33 $3,916.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Instalación y operación de
 
@@ -15681,7 +16537,7 @@ sistemas de incineración de
 
 residuos peligrosos $31,567.22 $31,567.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VII.- Instalación y operación de
 
@@ -15689,7 +16545,7 @@ sistemas para el confinamiento
 
 de residuos peligrosos $51,978.71 $51,979.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VIII.- Prestación de servicios de
 
@@ -15709,11 +16565,11 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Para importar residuos peligrosos $1,205.87 $1,206.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Para exportar residuos peligrosos $566.53 $567.00
 
@@ -15725,7 +16581,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 194-T
 
@@ -15753,19 +16609,19 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Estudio de riesgo Nivel 0 $684.67 $685.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Estudio de riesgo Nivel 1 $1,047.23 $1,047.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Estudio de riesgo Nivel 2 $1,635.00 $1,635.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Estudio de riesgo Nivel 3 $2,127.98 $2,128.00
 
@@ -15773,11 +16629,21 @@ IV.- Estudio de riesgo Nivel 3 $2,127.98 $2,128.00
 
 Por la solicitud de modificación o ampliación de las resoluciones del estudio de riesgo ambiental se pagará el 50% de la cuota establecida en las fracciones del presente artículo.
 
-> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+cuota sin cuota con
+
+ajuste ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 194-T
 
-4.- Por la recepción, análisis y, en su caso, autorización de la solicitud para exportar materiales peligrosos, se pagará la cuota de: $ 600.00
+4.- Por la recepción,
+
+análisis y, en su caso, autorización
+
+de la solicitud para exportar materiales
+
+peligrosos, se pagará la cuota de: $ 600.00 $ 600.00
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -15793,7 +16659,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por el registro de verificación
 
@@ -15817,7 +16683,7 @@ cuyo objetivo final es el comercio
 
 o la industrialización de los mismos $385.34 $385.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por el registro de verificación
 
@@ -15841,7 +16707,7 @@ objetivo final es distinto del comercio
 
 o la industrialización $103.31 $103.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por la constancia de cumplimiento
 
@@ -15853,7 +16719,7 @@ madera que se importan como soporte
 
 de mercancías $107.12 $107.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Por la expedición del acta para
 
@@ -15873,7 +16739,7 @@ que acrediten la debida instalación
 
 de los excluidores, por cada acta $1,075.12 $1,075.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Por la expedición de la constancia
 
@@ -15881,7 +16747,7 @@ de no daño ambiental en la zona federal
 
 marítimo terrestre $2,550.55 $2,551.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Por la revisión, evaluación y, en su
 
@@ -15889,7 +16755,7 @@ caso, certificación de vehículos nuevos
 
 en planta, por cada vehículo $12.47 $12.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VII.- Por la revisión, evaluación y
 
@@ -15897,7 +16763,7 @@ certificación excepcional de vehículos
 
 nuevos, por cada vehículo $267.21 $267.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VIII.- Por la expedición del certificado
 
@@ -15919,11 +16785,11 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Personas físicas $8,318.19 $8,318.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Personas morales $12,477.29 $12,477.00
 
@@ -15953,7 +16819,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Televisión, video en lugares
 
@@ -15961,25 +16827,25 @@ públicos cerrados y en medios de
 
 transporte público $4,600.00 $4,600.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Cine $1,900.00 $1,900.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Radio $1,350.00 $1,350.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- Prensa $450.00 $450.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 e).- Folletos, catálogos, carteles,
 
 internet y otros medios similares $310.00 $310.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 f).- Anuncios en exteriores $2,400.00 $2,400.00
 
@@ -15991,7 +16857,7 @@ Cuando la publicidad se refiera a suplementos alimenticios, se pagará el derech
 
 No pagarán los derechos a que se refiere esta fracción, la Federación, el Distrito Federal, los Estados y los Municipios, por la publicidad para programas o campañas para la prevención de riesgos en materia de salud.
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por el estudio y trámite y, en su caso,
 
@@ -16011,21 +16877,21 @@ Quedan exceptuados del pago del derecho establecido en esta fracción, las insti
 
 III.- Por cada solicitud y, en su caso, expedición de licencia sanitaria de establecimientos de insumos para la salud, se pagará el derecho conforme a las siguientes cuotas:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Por fábrica o laboratorio $15,000.00 $15,000.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Por almacén de depósito y
 
 distribución $3,500.00 $3,500.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Por farmacia o botica $800.00 $800.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- Droguerías $2,000.00 $2,000.00
 
@@ -16051,15 +16917,15 @@ ajuste ajuste
 
 I.- Por la solicitud y, en su caso, el registro de Medicamentos Alopáticos, se pagará por cada uno, el derecho conforme a las siguientes cuotas:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Medicamento nuevo $35,000.00 $35,000.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Medicamento genérico $25,400.00 $25,400.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por la solicitud y, en su caso,
 
@@ -16073,47 +16939,45 @@ uno, el derecho conforme a la cuota de $6,000.00 $6,000.00
 
 III.- Por la solicitud y, en su caso, el registro de equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, materiales quirúrgicos, de curación, productos higiénicos e insumos de uso odontológico que no sean medicamentos, se pagará por cada uno, el derecho conforme a las siguientes cuotas:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Clase I $4,000.00 $4,000.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Clase II $6,000.00 $6,000.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Clase III $8,000.00 $8,000.00
 
 IV.- Por la solicitud y, en su caso, el registro de plaguicidas, se pagará el derecho de registro por cada producto, conforme a las siguientes cuotas:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Categoría toxicológica I
 
 (Extremadamente Tóxico) $45,000.00 $45,000.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Categoría toxicológica II
 
 (Altamente Tóxico) $37,500.00 $37,500.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Categoría toxicológica III
 
 (Moderadamente Tóxico) $25,000.00 $25,000.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- Categoría toxicológica IV
 
 (Ligeramente Tóxico) $19,000.00 $19,000.00
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
-
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Por la solicitud y, en su caso,
 
@@ -16123,7 +16987,7 @@ contenga sustancias tóxicas de alto
 
 y mediano riesgo para la salud $4,696.95 $4,697.00
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Por la solicitud y, en su caso,
 
@@ -16141,25 +17005,25 @@ Por otras modificaciones, renovación o prórroga que se soliciten a los registr
 
 VII.- Por la solicitud y, en su caso, la autorización de permisos para la importación de plaguicidas, por cada permiso, se pagarán derechos conforme a las siguientes cuotas:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Categoría toxicológica I
 
 (Extremadamente Tóxico) $16,875.00 $16,875.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Categoría toxicológica II
 
 (Altamente Tóxico) $8,571.00 $8,571.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Categoría toxicológica III
 
 (Moderadamente Tóxico) $3,500.00 $3,500.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- Categoría toxicológica IV
 
@@ -16171,7 +17035,7 @@ No se pagarán los derechos a que se refiere esta fracción, cuando los permisos
 
 Por la modificación a la autorización de permiso para importación de plaguicidas, se pagará el 75% del derecho conforme a la categoría que corresponda.
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
 VIII.- Por la solicitud y, en su caso,
 
@@ -16185,7 +17049,7 @@ Por la modificación a la licencia sanitaria de bancos de sangre se pagará el 7
 
 No pagarán el derecho a que se refiere esta fracción, la Federación, el Distrito Federal, los Estados y los Municipios, así como sus organismos descentralizados.
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IX.- Por cada solicitud y, en su caso,
 
@@ -16213,7 +17077,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por el análisis de cada muestra que
 
@@ -16221,7 +17085,7 @@ requiera, para su estudio, de los servicios
 
 de laboratorio del tercer nivel $633.80 $634.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por el análisis de cada muestra que
 
@@ -16229,7 +17093,7 @@ requiera, para su estudio de los servicios
 
 de laboratorio del segundo nivel $316.80 $317.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por el análisis de cada muestra
 
@@ -16239,7 +17103,7 @@ servicios de laboratorio del primer
 
 nivel $158.21 $158.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Por el análisis de cada muestra que
 
@@ -16263,7 +17127,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por cada solicitud de visita de
 
@@ -16291,7 +17155,7 @@ por tipo de producto, se pagará la
 
 cuota de $1,400.00 $1,400.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por cada solicitud de visita de
 
@@ -16307,11 +17171,11 @@ autorizados $2,693.40 $2,693.00
 
 III.- Por cada solicitud de visita de verificación para estupefacientes o psicotrópicos por:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Destrucción $1,416.17 $1,416.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Enfajillamiento, sello y lacre
 
@@ -16329,29 +17193,29 @@ ajuste ajuste
 
 I.- Estudios sanitarios de carácter interdisciplinarios que requieren de la intervención de servicios de salud del tercer nivel.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- De alto riesgo sanitario $4,755.22 $4,755.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- De riesgo medio sanitario $3,170.10 $3,170.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- De riesgo bajo sanitario $1,584.91 $1,585.00
 
 II.- Estudios sanitarios interdisciplinarios que requieran de la intervención de servicios de salud del segundo o primer nivel.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- De alto riesgo sanitario $950.86 $951.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006))
 
 b).- De riesgo medio sanitario $792.26 $792.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- De riesgo bajo sanitario $633.80 $634.00
 
@@ -16373,7 +17237,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Libre venta para exportación de
 
@@ -16381,7 +17245,7 @@ insumos para la salud $1,148.46 $1,148.00
 
 II.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- De transportes, de riesgo alto
 
@@ -16389,7 +17253,7 @@ o medio, directo o indirecto, para
 
 la salud humana $1,267.90 $1,268.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- De transportes de riesgo bajo,
 
@@ -16397,7 +17261,7 @@ directo o indirecto, para la salud
 
 humana $633.80 $634.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Sobre pozos de agua para
 
@@ -16405,7 +17269,7 @@ abastecimiento privado, para
 
 determinar su calidad sanitaria $3,368.86 $3,369.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Sobre la calidad sanitaria
 
@@ -16413,7 +17277,7 @@ fisicoquímica y bactereológica del
 
 agua de uso y consumo humano $1,584.91 $1,585.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VII.- Sobre las condiciones sanitarias
 
@@ -16427,7 +17291,7 @@ utilicen como fuente de abastecimiento
 
 los pozos de carácter privado $4,755.22 $4,755.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VIII.- Equipos e instalaciones para el
 
@@ -16437,7 +17301,7 @@ humano e industrial $3,170.10 $3,170.00
 
 IX.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1999)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 X.- Por cada certificado de buenas
 
@@ -16463,13 +17327,13 @@ ajuste ajuste
 
 I.- De alimentos, bebidas, tabaco, productos de aseo, limpieza, perfumería y belleza, así como por las materias primas y aditivos que intervengan en su elaboración:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Por cada solicitud de permiso
 
 de importación $1,481.67 $1,482.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Por cada solicitud de prórroga,
 
@@ -16481,7 +17345,7 @@ permiso sanitario previo de
 
 importación $510.40 $510.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Por el muestreo de los productos
 
@@ -16489,7 +17353,7 @@ señalados en el permiso sanitario
 
 previo de importación $1,211.33 $1,211.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- Por cualquier otra modalidad
 
@@ -16503,7 +17367,7 @@ no especificada $181.96 $182.00
 
 II.- De materias primas y productos terminados de medicamentos:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Por cada solicitud del permiso
 
@@ -16511,7 +17375,7 @@ sanitario de importación de materia
 
 prima $2,599.43 $2,599.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Por cada solicitud de permiso
 
@@ -16519,7 +17383,7 @@ sanitario de importación de producto
 
 terminado $2,599.43 $2,599.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Por cada solicitud del permiso
 
@@ -16527,7 +17391,7 @@ sanitario de importación para uso
 
 personal o donación $170.60 $171.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- Por la modificación, corrección
 
@@ -16539,7 +17403,7 @@ importación $170.60 $171.00
 
 III.- De materias primas y productos terminados de equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, materiales quirúrgicos, de curación, y productos higiénicos:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Por cada solicitud del permiso
 
@@ -16547,7 +17411,7 @@ sanitario de importación en materia
 
 prima $1,207.17 $1,207.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Por cada solicitud del permiso
 
@@ -16555,7 +17419,7 @@ sanitario de importación de producto
 
 terminado $1,207.17 $1,207.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Por cada solicitud del permiso
 
@@ -16563,7 +17427,7 @@ sanitario de importación para uso
 
 personal o donación $170.60 $171.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- Por la modificación, corrección
 
@@ -16575,7 +17439,7 @@ importación $170.60 $171.00
 
 IV.- Por cada solicitud del permiso sanitario previo de exportación de insumos para la salud:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- De materia prima y producto
 
@@ -16585,13 +17449,13 @@ sean o contengan estupefacientes
 
 o sustancias psicotrópicas $1,207.17 $1,207.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- De materia prima y producto
 
 terminado de hemoderivados $1,207.17 $1,207.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Por la modificación, corrección
 
@@ -16613,7 +17477,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por cada uno de los trámites de
 
@@ -16625,7 +17489,7 @@ cualquier otra modalidad relacionada
 
 y no especificada $583.01 $583.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- En caso de certificados que
 
@@ -16635,7 +17499,7 @@ de laboratorio se pagará
 
 adicionalmente $946.65 $947.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por la corrección o modificación
 
@@ -16655,7 +17519,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por los servicios de trámite de
 
@@ -16671,7 +17535,7 @@ contengan estupefacientes o
 
 psicotrópicos $1,075.12 $1,075.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por el permiso sanitario de
 
@@ -16695,13 +17559,13 @@ III.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2003)
 
 IV.- Por los servicios de reposición de licencias sanitarias y registros sanitarios de insumos para la salud, con motivo de pérdida, robo o extravío, se pagará conforme a la siguiente cuota:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Por la reposición de cada
 
 licencia sanitaria $415.90 $416.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Por la reposición de cada
 
@@ -16709,7 +17573,7 @@ registro sanitario $831.81 $832.00
 
 V.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2003)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Por el servicio de trámite de
 
@@ -16723,7 +17587,7 @@ sanitario, se pagará por cada solicitud
 
 de protocolo de investigación $3,174.40 $3,174.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VII.- Por cada solicitud de
 
@@ -16743,17 +17607,17 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por la expedición $4,609.31 $4,609.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por la corrección del certificado
 
 sanitario $189.30 $189.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por cualquier otra modalidad
 
@@ -16769,13 +17633,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- De cesión de derechos de autorizaciones
 
 sanitarias entre personas físicas $78.01 $78.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- De cesión de derechos de
 
@@ -16797,17 +17661,17 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por dictamen provisional $2,458.21 $2,458.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por dictamen definitivo, incluida
 
 la visita de inspección y vigilancia $11,062.64 $11,063.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por dictamen anual, incluida la
 
@@ -16823,7 +17687,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por cada solicitud y, en su caso,
 
@@ -16831,7 +17695,7 @@ la expedición de licencia sanitaria
 
 de Servicios de Transfusión $574.04 $574.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por la solicitud de permiso de
 
@@ -16841,7 +17705,7 @@ sangre, componentes y células
 
 progenitoras hematopoyéticas $348.32 $348.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por la solicitud de autorización de
 
@@ -16857,7 +17721,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 195-K
 
@@ -16877,7 +17741,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 195-K
 
@@ -16897,7 +17761,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 195-K
 
@@ -16917,7 +17781,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 195-K
 
@@ -16935,7 +17799,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 195-K
 
@@ -16957,7 +17821,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por la licencia sanitaria para
 
@@ -16965,7 +17829,7 @@ servicios urbanos de fumigación y
 
 control de plagas $2,729.40 $2,729.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por la licencia sanitaria para
 
@@ -16975,7 +17839,7 @@ sustancias tóxicas o peligrosas
 
 para la salud $8,027.05 $8,027.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por la licencia sanitaria para
 
@@ -16991,7 +17855,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 195-K
 
@@ -17015,11 +17879,11 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por la expedición $1,564.86 $1,565.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por la modificación $857.81 $858.00
 
@@ -17033,11 +17897,11 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por la expedición $6,800.12 $6,800.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por la modificación $5,536.79 $5,537.00
 
@@ -17045,7 +17909,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 195-K
 
@@ -17091,7 +17955,7 @@ ajuste ajuste
 
 I.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2003)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Sustancias tóxicas y productos
 
@@ -17099,11 +17963,11 @@ que las contengan $11,973.74 $11,974.00
 
 III.- Nutrientes vegetales:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Productos técnicos $3,779.80 $3,780.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Productos formulados $4,003.13 $4,003.00
 
@@ -17121,11 +17985,11 @@ ajuste ajuste
 
 I.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2003)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Nutrientes vegetales $2,396.67 $2,397.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Sustancias tóxicas $2,381.08 $2,381.00
 
@@ -17137,7 +18001,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 195-L
 
@@ -17203,21 +18067,21 @@ ajuste ajuste
 
 I.- Por la inscripción de:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Establecimiento de alimentos
 
 y bebidas $508.59 $509.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Transportación turística $550.47 $550.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Agencias de viajes $406.82 $407.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- Establecimiento de hospedaje,
 
@@ -17225,23 +18089,23 @@ campamentos y paradores de casas
 
 rodantes $718.15 $718.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 e).- Operadores de marinas turísticas $1,077.32 $1,077.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 f).- Guías de turistas $299.11 $299.00
 
 g).- (DEROGADO D.O.F. 29 DE DICIEMBRE DE 1997)
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 h).- Empresas de sistemas de intercambio
 
 de servicios turísticos $405.34 $405.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 i).- Operadoras turísticas de
 
@@ -17249,17 +18113,17 @@ buceo $299.22 $299.00
 
 II.- Por la reposición de comprobantes de inscripción:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Establecimientos de alimentos
 
 y bebidas $329.04 $329.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Transportación turística $191.26 $191.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Agencias de viajes $227.23 $227.00
 
@@ -17271,25 +18135,25 @@ campamentos y paradores de casas
 
 rodantes $538.49 $538.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 e).- Operadores de marinas
 
 turísticas $598.42 $598.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 f).- Guías de turistas $179.27 $179.00
 
 g).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 h).- Empresas de sistemas de intercambio
 
 de servicios turísticos $227.23 $227.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 i).- Operadoras turísticas de buceo $177.92 $178.00
 
@@ -17303,21 +18167,21 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Establecimientos de alimentos
 
 y bebidas $508.59 $509.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Transportación turística $550.47 $550.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Agencias de viajes $410.24 $410.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Establecimientos de hospedaje,
 
@@ -17325,23 +18189,23 @@ campamentos y paradores de
 
 casas rodantes $718.15 $718.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Operadores de marinas turísticas $1,197.11 $1,197.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Guías de turistas $299.11 $299.00
 
 VII.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VIII.- Empresas de sistemas de
 
 intercambio de servicios turísticos $409.09 $409.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IX.- Operadoras turísticas de buceo $299.22 $299.00
 
@@ -17397,7 +18261,7 @@ ajuste ajuste
 
 A.- Por la expedición o revalidación de cada uno de los siguientes permisos generales:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Para la fabricación de armas de fuego,
 
@@ -17407,13 +18271,13 @@ armas deportivas o municiones esféricas
 
 de plomo $4,373.81 $4,374.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Para la fabricación, importación
 
 y exportación de partes de escopeta $4,373.81 $4,374.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Para la compra y consumo de
 
@@ -17421,7 +18285,7 @@ cartuchos industriales, de salva o
 
 deportivos $4,373.81 $4,374.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Para talleres dedicados a la
 
@@ -17429,7 +18293,7 @@ reparación de armas de fuego o gas $4,307.48 $4,307.00
 
 B.- Por la expedición de cada uno de los siguientes permisos ordinarios:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- De importación o exportación de
 
@@ -17437,7 +18301,7 @@ armas, cartuchos y elementos
 
 constitutivos $3,027.07 $3,027.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Para la compra de cartuchos
 
@@ -17445,7 +18309,7 @@ deportivos a los expendios
 
 autorizados $468.25 $468.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por la ampliación de vigencia
 
@@ -17455,7 +18319,7 @@ importación o exportación de armas
 
 y municiones $1,362.92 $1,363.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Por la modificación de un permiso
 
@@ -17469,19 +18333,19 @@ Para el caso de la modificación del permiso por cambio de destino, se pagará e
 
 C.- Por la expedición de cada uno de los siguientes permisos extraordinarios:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Para la importación o exportación
 
 de armas y cartuchos $2,717.50 $2,717.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Para la compra-venta, donación
 
 o permuta de armas o cartuchos $68.21 $68.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Para la importación o exportación
 
@@ -17495,15 +18359,15 @@ o de tiro $547.84 $548.00
 
 IV.- Para la transportación de armas:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Hasta por tres armas $266.10 $266.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Por cada arma adicional $88.50 $88.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Por la ampliación de vigencia de
 
@@ -17513,7 +18377,7 @@ importación o exportación de armas
 
 y municiones $1,362.92 $1,363.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Por la modificación de un permiso
 
@@ -17527,13 +18391,13 @@ Para el caso de la modificación del permiso por cambio de destino, se pagará e
 
 D.- Por los servicios prestados a coleccionistas o museos de armas de fuego:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por el permiso para coleccionista
 
 omuseo de armas de fuego $2,190.87 $2,191.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por la autorización para la adquisición
 
@@ -17547,7 +18411,7 @@ permiso $200.91 $201.00
 
 E.- Por el trámite de cada registro:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por el registro inicial para organizador
 
@@ -17555,19 +18419,19 @@ cinegético o criador de fauna silvestre $5,519.55 $5,520.00
 
 a).- Por su revalidación $2,824.03 $2,824.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Anual para club o asociación de
 
 deportistas de tiro y cacería $4,084.36 $4,084.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por el registro de un arma
 
 de fuego $28.05 $28.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Por la expedición de cada
 
@@ -17577,35 +18441,35 @@ F.- Por la expedición o revalidación de cada licencia para la portación de ar
 
 I.- Por la expedición de:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Licencia particular individual $1,322.49 $1,322.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Licencia particular colectiva $20,550.90 $20,551.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Licencia oficial colectiva $11,157.80 $11,158.00
 
 II.- Por la revalidación de:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Licencia particular individual $1,322.49 $1,322.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Licencia particular colectiva $20,550.90 $20,551.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por la modificación de licencia
 
 particular colectiva u oficial colectiva $1,555.70 $1,556.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Por baja de armamento de las
 
@@ -17615,7 +18479,7 @@ particulares colectivas, por robo,
 
 extravío o destrucción $3,119.89 $3,120.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Por baja de personal de las
 
@@ -17639,7 +18503,7 @@ ajuste ajuste
 
 A.- Por la expedición o revalidación de cada uno de los siguientes permisos generales:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Para la compra, almacenamiento y
 
@@ -17647,7 +18511,7 @@ consumo o compra-consumo de
 
 materiales explosivos $8,088.44 $8,088.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Para la fabricación de explosivos
 
@@ -17659,7 +18523,7 @@ y almacenamiento de materia prima
 
 y productos terminados $8,088.44 $8,088.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Para la compra-venta, compra-consumo
 
@@ -17669,7 +18533,7 @@ sustancias químicas relacionadas
 
 con éstos $8,247.22 $8,247.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Para la compra, almacenamiento
 
@@ -17679,7 +18543,7 @@ la fabricación y venta de artificios
 
 pirotécnicos $1,171.78 $1,172.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Por intervenciones para importación
 
@@ -17689,7 +18553,7 @@ explosivos y sustancias químicas, a
 
 partir de la segunda intervención $187.64 $188.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 Por la inspección para el reinicio de
 
@@ -17703,13 +18567,13 @@ cuota de $2,432.08 $2,432.00
 
 B.- Por la expedición de cada uno de los siguientes permisos ordinarios:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Para la compra de material explosivo
 
 o sustancias químicas $711.47 $711.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- De importación o exportación de
 
@@ -17721,7 +18585,7 @@ a).- Por su modificación $2,761.73 $2,762.00
 
 C.- Por la expedición de cada uno de los siguientes permisos extraordinarios:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Para la compra-consumo, importación
 
@@ -17729,7 +18593,7 @@ o exportación de material explosivo o
 
 sustancias químicas $8,088.44 $8,088.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por la modificación a un permiso
 
@@ -17739,7 +18603,7 @@ exportación de explosivos o sustancias
 
 químicas relacionados con éstos $2,761.73 $2,762.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Para la compra-venta de artificios
 
@@ -17755,7 +18619,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por la expedición de cada permiso
 
@@ -17769,7 +18633,7 @@ armamento o municiones $ 8,215.08 $8,215.00
 
 II.- Por el trámite de autorización:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- De libros de compras y ventas
 
@@ -17777,13 +18641,13 @@ a personas físicas o morales con
 
 permiso general $106.43 $106.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Para cambio de razón social a
 
 un permiso general $1,226.00 $1,226.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por la autorización para modificar
 
@@ -17809,13 +18673,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por el permiso para salir del país $116.49 $116.00
 
 II.- (DEROGADA, D.O.F. 1 DE ENERO DE 2002)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por corrección de los datos base
 
@@ -17823,13 +18687,13 @@ de la cartilla $116.49 $116.00
 
 IV.- (DEROGADA, D.O.F. 1 DE ENERO DE 2002)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Por expedición de duplicado
 
 de cartilla $116.49 $116.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Por la elaboración de oficios,
 
@@ -17859,13 +18723,13 @@ ajuste ajuste
 
 I.- Por el estudio y trámite de la solicitud para la autorización o para su revalidación:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Para prestar los servicios
 
 de vigilancia en inmuebles $10,050.26 $10,050.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Para prestar los servicios de
 
@@ -17873,13 +18737,13 @@ traslado y custodia de bienes o
 
 valores $9,886.07 $9,886.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Para prestar los servicios de
 
 traslado y protección de personas $10,050.26 $10,050.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 d).- Para prestar los servicios de
 
@@ -17887,7 +18751,7 @@ localización e información sobre
 
 personas físicas o morales y bienes $9,363.00 $9,363.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 e).- Para prestar los servicios de
 
@@ -17895,7 +18759,7 @@ establecimiento y operación de
 
 sistemas y equipos de seguridad $9,363.00 $9,363.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 f).- Por cada actividad distinta a
 
@@ -17905,13 +18769,13 @@ vinculada directamente con los
 
 servicios de seguridad privada $9,363.00 $9,363.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por la expedición de la autorización
 
 o de su revalidación $3,015.43 $3,015.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por la inscripción de cada
 
@@ -17923,11 +18787,19 @@ Registro Nacional del Personal de
 
 Seguridad Público (sic) $100.76 $101.00
 
-> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-IV.- Por la inscripción de cada arma de fuego o equipo utilizado por las personas físicas o morales a que se refiere este artículo, en el Registro Nacional de Empresas de Seguridad Privada $ 30.57
+IV.- Por la inscripción de cada arma de
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+fuego o equipo utilizado por las personas
+
+físicas o morales a que se refiere este
+
+artículo, en el Registro Nacional de
+
+Empresas de Seguridad Privada $30.57 $31.00
+
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Por la consulta de antecedentes
 
@@ -17943,7 +18815,7 @@ presten los servicios de seguridad
 
 privada, por cada integrante $30.00 $30.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Por la modificación de la
 
@@ -17953,7 +18825,7 @@ de la revalidación, a que se
 
 refiere este artículo $1,770.62 $1,771.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VII.- Por la expedición de cada
 
@@ -17963,13 +18835,13 @@ personal, con el registro asignado
 
 en su inscripción $28.47 $28.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VIII.- Por cambio de
 
 representante legal $4,481.42 $4,481.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IX.- Por cambio en la titularidad de
 
@@ -17979,7 +18851,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 195-X
 
@@ -18001,7 +18873,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 195-X
 
@@ -18071,7 +18943,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 195-Z.
 
@@ -18101,7 +18973,7 @@ ajuste ajuste
 
 I.- Por el aprovechamiento de la vegetación arbórea:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a) Maderas, por metro cúbico rollo fustal
 
@@ -18111,7 +18983,7 @@ rojo, primavera, fresno, nogal, guayacán
 
 y otras especies similares $1,614.32 $1,614.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b) Maderas, por metro cúbico rollo
 
@@ -18127,17 +18999,17 @@ c).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1983)
 
 d).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1983)
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 e) Chicle, por tonelada autorizada $4,193.23 $4,193.00
 
 II.- Por el aprovechamiento de la vegetación herbácea para pastoreo, por cabeza-mes.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a) De ganado mayor $10.16 $10.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b) De ganado menor $4.90 $5.00
 
@@ -18155,7 +19027,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 197-A.
 
@@ -18189,7 +19061,25 @@ Los ingresos que se obtengan por la recaudación de los derechos a que se refier
 
 Por el uso o aprovechamiento de los elementos naturales marinos e insulares sujetos al régimen de dominio público de la Federación existentes dentro de las Áreas Naturales Protegidas competencia de la Federación, derivado de actividades recreativas, turísticas y deportivas de buceo autónomo, buceo libre, esquí acuático, recorridos en embarcaciones motorizadas y no motorizadas, observación de fauna marina en general, pesca deportiva en cualquiera de sus modalidades, campismo, pernocta y la navegación en mares, canales, esteros, rías (sic) y lagunas costeras, se pagarán derechos, conforme a las siguientes cuotas:
 
-I.- Por persona, por día, por cada Área Natural Protegida o Zona de Área Natural Protegida, consideradas como de baja capacidad de carga de conformidad con la siguiente lista: $ 40.00
+cuota sin cuota con
+
+ajuste ajuste
+
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
+
+I.- Por persona, por día, por cada
+
+Área Natural Protegida o Zona de
+
+Área Natural Protegida,
+
+consideradas como de baja
+
+capacidad de carga de
+
+conformidad con la siguiente
+
+lista: $ 40.00 $ 40.00
 
 - Parque Nacional Cabo Pulmo
 
@@ -18219,11 +19109,29 @@ I.- Por persona, por día, por cada Área Natural Protegida o Zona de Área Natu
 
 - Reserva de la Biosfera Isla Guadalupe
 
-II.- Por las demás Áreas Naturales Protegidas no enlistadas en la fracción I, por persona, por día, por Área Natural Protegida: $ 20.32
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
+
+II.- Por las demás Áreas Naturales
+
+Protegidas no enlistadas en la
+
+fracción I, por persona, por día,
+
+por Área Natural Protegida: $20.32 $20.00
 
 No pagarán el derecho establecido en esta fracción, las personas que hayan pagado el derecho señalado en la fracción I de este artículo, siempre y cuando la visita se realice el mismo día.
 
-III.- Las personas podrán optar por pagar el derecho a que se refiere este artículo, por persona, por año, para todas las Áreas Naturales Protegidas: $ 250.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
+
+III.- Las personas podrán optar
+
+por pagar el derecho a que se
+
+refiere este artículo, por persona,
+
+por año, para todas las Áreas
+
+Naturales Protegidas: $250.00 $250.00
 
 La obligación del pago de los derechos previstos en las fracciones I y II de este artículo, será de los titulares de registros, autorizaciones, permisos o concesiones para la prestación de servicios náutico-recreativos o acuático-recreativos. En los casos en que las actividades a las que se refieren las fracciones de este artículo, se realicen sin la participación de los titulares mencionados, la obligación del pago será de cada individuo.
 
@@ -18239,9 +19147,27 @@ Los ingresos que se obtengan por la recaudación de los derechos a que se refier
 
 Por el uso o aprovechamiento no extractivo de elementos naturales y escénicos que se realiza dentro de las Áreas Naturales Protegidas terrestres, derivado de las actividades turísticas, deportivas y recreativas como ciclismo, paseo a caballo, rappel, montañismo, excursionismo, alta montaña, campismo, pernocta, observación de aves y otra fauna y flora silvestre, espeleología, escalada en roca, visitas guiadas y no guiadas, descenso de ríos, uso de kayak y otras embarcaciones a remo o motorizadas y recorridos en vehículos motorizados, pagarán este derecho, conforme a las siguientes cuotas:
 
-I.- Por día, por persona, por Área Natural Protegida: $ 10.39
+cuota sin cuota con
 
-II.- Las personas podrán optar por pagar el derecho a que se refiere este artículo, por persona, por año, para todas las Áreas Naturales Protegidas: $ 250.00
+ajuste ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
+
+I.- Por día, por persona, por Área
+
+Natural Protegida: $10.39 $10.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
+
+II.- Las personas podrán optar por
+
+pagar el derecho a que se refiere
+
+este artículo, por persona, por año,
+
+para todas las Áreas Naturales
+
+Protegidas: $250.00 $250.00
 
 La obligación del pago del derecho a que se refiere la fracción I, será de los titulares de registros, autorizaciones, permisos o concesiones para la prestación de servicios turísticos, deportivos y recreativos. En los casos en que las actividades a las que se refieren las fracciones de este artículo, se realicen sin la participación de los titulares mencionados, la obligación del pago será de cada individuo.
 
@@ -18269,11 +19195,11 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Por día $2,000.00 $2,000.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Por cada 7 días no fraccionables $10,000.00 $10,000.00
 
@@ -18295,7 +19221,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 199.
 
@@ -18359,19 +19285,19 @@ REGISTRO DE LA
 
 EMBARCACIÓN
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- ABULÓN $480.32
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- SARGAZO $64.20 $1,738.61
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- ALGAS MARINAS $2,954.69 $1,738.61
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- ALMEJAS $403.91 $1,738.61
 
@@ -18379,87 +19305,87 @@ IV.- ALMEJAS $403.91 $1,738.61
 
 V.- ANCHOVETA $44.10
 
-> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- CALAMAR $ 71.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VII.- CAMARÓN DE ALTAMAR $30.03
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VIII.- CAMARÓN DE AGUAS
 
 PROTEGIDAS $62.20
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IX.- CANGREJO $52.14
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 X.- CARACOL $218.98
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XI.- ERIZO $1,008.94
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XII.- JAIBA $34.06
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XIII.- ESPECIES MARINAS
 
 DE ESCAMA $44.10
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XIV.- ESPECIES DE ESCAMA
 
 DE AGUA DULCE $21.98
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XV.- LANGOSTA $208.91
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F.3 DE FEBRERO DE 2006)
 
 XVI.- LANGOSTINO $34.06
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XVII.- OSTIÓN $44.10
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XVIII.- PICUDOS $38.06
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XIX.- PULPO $124.52 $168.73
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XX.- SARDINA $44.10
 
-> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XXI.- TIBURÓN $ 12.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XXII.- TÚNIDOS $30.03
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XXIII.- OTRAS PESQUERÍAS
 
 MARINAS $40.10 $168.73
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XXIV.- OTRAS PESQUERÍAS
 
@@ -18467,7 +19393,7 @@ DE AGUA DULCE $21.98 $168.73
 
 XXV.- Por la extracción de organismos adultos de especies de la fauna acuática del medio natural, para utilizarlos como pie de cría o reproductores, se pagará la cuota anual por tonelada neta de registro establecida para la especie de que se trate.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XXVI.- Por la extracción de larvas y postlarvas de camarón del medio natural, para abastecer unidades de producción acuícola, se pagará la cuota de $ 462.18 por cada millón de organismos autorizados.
 
@@ -18487,23 +19413,23 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por un día $78.86 $79.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por una semana $197.69 $198.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por un mes $296.59 $297.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Por un año $395.56 $396.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Para excursiones de pesca
 
@@ -18525,7 +19451,7 @@ Las Entidades Federativas que hayan celebrado convenio de colaboración administ
 
 ### CAPITULO III. Puerto y Atraque
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 200.
 
@@ -18535,7 +19461,7 @@ Las personas físicas o morales que usen los puertos nacionales pagarán por cad
 
 Tratándose de embarcaciones que realicen tráfico mixto, se pagará el 90% de la cuota correspondiente al derecho de puerto de altura, por cada puerto en que entren.
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 200-A.
 
@@ -18545,7 +19471,7 @@ Las personas físicas o morales que entren a los puertos nacionales pagarán, po
 
 Por las embarcaciones que realicen exclusivamente actividades turísticas y que en un viaje, entren a diversos puertos nacionales, se pagará el 90% de la cuota a que se refiere el párrafo anterior, por cada uno de los puertos siguientes al primero.
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 201.
 
@@ -18571,19 +19497,19 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por embarcación comercial $0.39
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por yate $0.25
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por embarcación arrejerada $0.17
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Por embarcación local comercial $0.27
 
@@ -18657,15 +19583,15 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Mercancías de exportación $3.78 $4.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Mercancías de importación $8.15 $8.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Mercancías de tráfico de cabotaje $1.95 $2.00
 
@@ -18681,7 +19607,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- En instalaciones no dedicadas
 
@@ -18689,7 +19615,7 @@ exclusivamente al servicio de
 
 pasajeros $19.00 $19.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- En instalaciones exclusivas
 
@@ -18777,29 +19703,43 @@ Las autoridades portuarias, antes de expedir el despacho de salida de una embarc
 
 ### CAPITULO V. Salinas
 
-> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 211-A.
 
 Están obligados a pagar el derecho de explotación de sal, las personas físicas o morales, titulares de permisos, autorizaciones o concesiones mineras que al amparo de las mismas exploten las sales o subproductos que se obtengan de salinas formadas de aguas provenientes de mares actuales, en forma natural o artificial. El derecho se calculará aplicando la cantidad de $ 1.3568 por cada tonelada enajenada de sal o sus subproductos.
 
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
 El derecho se pagará semestralmente mediante declaración que se presentará ante las oficinas autorizadas por el Servicio de Administración Tributaria, dentro de los 5 días posteriores al último día del semestre al que corresponda el pago.
 
-> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 211-B.
 
 Las personas físicas o morales a que se refiere el artículo anterior, que para realizar las actividades descritas en este Capítulo usen o aprovechen la zona federal marítimo terrestre, adicionalmente al derecho previsto en el artículo 211-A de esta Ley, pagarán anualmente el derecho de uso de la zona federal marítimo terrestre para la explotación de salinas, por cada metro cuadrado, la cantidad de $ 0.084
 
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
 El derecho se determinará tomando como base únicamente la faja de 20 metros que corresponda a la zona federal marítimo terrestre utilizada.
+
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
 El derecho se calculará y pagará por ejercicios fiscales, mediante declaración que se presentará ante las oficinas autorizadas por el Servicio de Administración Tributaria, dentro de los tres meses siguientes a la fecha en que termine el ejercicio fiscal que corresponda.
 
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
 A cuenta del derecho anual, los contribuyentes efectuarán pagos provisionales bimestrales mediante declaración que se presentará ante las oficinas autorizadas por el Servicio de Administración Tributaria, a más tardar el día 17 de los meses de marzo, mayo, julio, septiembre y noviembre del mismo ejercicio fiscal y enero del siguiente. El pago provisional será una sexta parte del monto del derecho que corresponda al año.
+
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
 Los contribuyentes obligados al pago de este derecho, podrán optar por realizarlo por todo el ejercicio en la primera declaración bimestral y presentar posteriormente sólo la declaración anual del ejercicio o, en su caso, efectuar el pago conforme a lo señalado en los párrafos anteriores.
 
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+
 Al monto total del derecho que resulte por el ejercicio de que se trate en los términos de este artículo, se le restará el importe de los pagos provisionales cubiertos durante el ejercicio. La diferencia que resulte a su cargo se enterará conjuntamente con la declaración anual de derechos por el mismo ejercicio. Cuando resulte saldo a favor, éste podrá acreditarse contra los pagos provisionales del derecho que resulte a su cargo en el ejercicio siguiente, posteriores a la presentación de la declaración anual del ejercicio inmediato anterior.
+
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
 Los ingresos generados por la recaudación de este derecho, estarán a lo dispuesto en los párrafos quinto y sexto del artículo 232-C de esta Ley, cuando así proceda.
 
@@ -18917,39 +19857,39 @@ ajuste ajuste
 
 A.- Por las aguas provenientes de fuentes superficiales o extraídas del subsuelo, a excepción de las del mar, por cada metro cúbico:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Zona de disponibilidad 1 $14.6697
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Zona de disponibilidad 2 $11.7353
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Zona de disponibilidad 3 $9.7793
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Zona de disponibilidad 4 $8.0681
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Zona de disponibilidad 5 $6.3564
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Zona de disponibilidad 6 $5.7448
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VII.- Zona de disponibilidad 7 $4.3240
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VIII.- Zona de disponibilidad 8 $1.5363
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IX.- Zona de disponibilidad 9 $1.1513
 
@@ -18979,19 +19919,19 @@ c).- Concesionada a colonias constituidas como personas morales que por concesi�
 
 Para los efectos del uso de agua potable, se considerará:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 Zona de disponibilidad 1 a 6 $290.61
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 Zona de disponibilidad 7 $135.33
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 Zona de disponibilidad 8 $67.58
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 Zona de disponibilidad 9 $33.64
 
@@ -19007,19 +19947,19 @@ Las tarifas a que se refiere esta fracción, serán aplicables a los sujetos que
 
 En aquellos casos en que el consumo no exceda de los volúmenes a que se refiere el párrafo anterior, se aplicarán las siguientes tarifas:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 Zona de disponibilidad 1 a 6 $290.61
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 Zona de disponibilidad 7 $135.33
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 Zona de disponibilidad 8 $67.58
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 Zona de disponibilidad 9 $33.64
 
@@ -19027,23 +19967,23 @@ Zona de disponibilidad 9 $33.64
 
 En aquellos casos en que el consumo sea superior a los volúmenes que se mencionan en el párrafo anterior, se aplicarán las siguientes tarifas sobre el volumen de consumo excedente:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 Zona de disponibilidad 1 a 6 $581.22
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 Zona de disponibilidad 7 $270.66
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 Zona de disponibilidad 8 $135.17
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 Zona de disponibilidad 9 $67.30
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Generación Hidroeléctrica $3.0837
 
@@ -19051,19 +19991,19 @@ II.- Generación Hidroeléctrica $3.0837
 
 III.- Acuacultura:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 Zona de disponibilidad 1 a 6 $2.3953
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 Zona de disponibilidad 7 $1.1796
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 Zona de disponibilidad 8 $0.5547
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 Zona de disponibilidad 9 $0.2634
 
@@ -19071,19 +20011,19 @@ Zona de disponibilidad 9 $0.2634
 
 IV.- Balnearios y centros recreativos:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 Zona de disponibilidad 1 a 6 $8.3442
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 Zona de disponibilidad 7 $4.1109
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 Zona de disponibilidad 8 $1.9353
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 Zona de disponibilidad 9 $0.9202
 
@@ -19095,7 +20035,7 @@ Lo dispuesto en esta fracción no es aplicable a hoteles, centros recreativos de
 
 C. Por las aguas provenientes de fuentes superficiales o extraídas del subsuelo, a excepción de las del mar, destinadas a uso agropecuario, se pagará el derecho sobre agua por cada metro cúbico que exceda el volumen concesionado a cada distrito de riego o por cada metro cúbico que exceda el volumen concesionado a los usuarios agropecuarios restantes, conforme a las siguientes cuotas:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 Zona de disponibilidad 1 a 9 $0.1039
 
@@ -19187,7 +20127,7 @@ I.- El costo comprobado de los aparatos de medición y los gastos de su instalac
 
 A fin de hacer efectiva dicha disminución, los contribuyentes deberán presentar ante las oficinas de la Comisión Nacional del Agua, para su verificación y sellado, el original de la factura de compra del aparato de medición y de su instalación, que deberán cumplir con los requisitos fiscales a que se refiere el artículo 29-A del Código Fiscal de la Federación.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- $ 1.7089 por cada metro cúbico de agua potable que se proporcione al Distrito Federal o a los municipios del Valle de México, a través de su conexión transitoria a la respectiva red de agua potable, tratándose de pozos que no sean propiedad de dichas instancias de gobierno, pero que por necesidad pública las mismas requieran de su uso o aprovechamiento.
 
@@ -19691,7 +20631,7 @@ ajuste ajuste
 
 I.- El 7.5% anual del valor del inmueble concesionado o permisionado incluyendo terreno, áreas de agua ocupadas, obras e instalaciones, en su caso.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 Cuando se trate de bienes nacionales comprendidos en los artículos 113 y 114 de la Ley de Aguas Nacionales, distintos de los señalados en las fracciones IV y V de este artículo, pagarán anualmente por metro cuadrado de superficie, la siguiente cuota $ 1.8167
 
@@ -19707,19 +20647,19 @@ Para los efectos de las fracciones I, II y III que anteceden, el valor del inmue
 
 Cada cinco años como máximo deberá realizarse un nuevo avalúo, si el término de la concesión o permiso excede del periodo mencionado. Dicho avalúo únicamente deberá considerar el inmueble como originalmente se concesionó o permisionó, sin incluir las mejoras y adiciones que se hubieren efectuado durante la concesión o el permiso.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- De $ 0.0286 anual por metro cuadrado, cuando el uso o goce consista en la realización de actividades agrícolas o pecuarias, en el caso de los bienes nacionales comprendidos en los artículos 113 y 114 de la Ley de Aguas Nacionales.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- De $ 1.8425 anual por metro cuadrado, cuando el uso o goce consista en la realización de actividades de protección y ornato, no se realicen construcciones y el concesionario o permisionario sea propietario, poseedor o arrendatario del predio colindante a éste, respecto de aquellos bienes nacionales comprendidos en los artículos 113 y 114 de la Ley de Aguas Nacionales.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- De $ 1.8470 anual por metro cuadrado cuando el uso o goce consista en la realización de actividades pesqueras.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VII.- De $ 0.0728 anual por metro cuadrado, cuando el uso o goce consista en la realización de actividades de acuacultura.
 
@@ -19727,7 +20667,7 @@ VII.- De $ 0.0728 anual por metro cuadrado, cuando el uso o goce consista en la 
 
 VIII.- Por instalaciones de telecomunicación:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- En espacios cerrados, por cada
 
@@ -19737,15 +20677,15 @@ mensualmente $422.45 $422.00
 
 b).- En espacios abiertos, mensualmente:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 1.- Por cada antena instalada $203.23 $203.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 2.- Por cada torre instalada $422.45 $422.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 c).- Por el uso del derecho de vía de
 
@@ -19761,7 +20701,7 @@ telecomunicaciones, anualmente,
 
 por cada kilómetro o fracción $306.21 $306.00
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 IX.- Por los espacios dentro de
 
@@ -19785,7 +20725,7 @@ El derecho a que se refiere esta fracción, se efectuará anticipadamente median
 
 El derecho del ejercicio, deducidos los pagos provisionales semestrales, se pagará mediante declaración que se presentará en las oficinas autorizadas dentro de los dos meses siguientes al cierre del mismo ejercicio.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 X.- Por el depósito de restos humanos
 
@@ -19845,7 +20785,7 @@ Los bienes a que se refiere este artículo en ningún caso serán objeto de los 
 
 Están obligadas a pagar el derecho por el uso, goce o aprovechamiento de inmuebles, las personas físicas y las morales que usen, gocen o aprovechen las playas, la zona federal marítimo terrestre, y los terrenos ganados al mar o a cualquier otro depósito de aguas marítimas. El monto del derecho a pagar se determinará con los siguientes valores y las zonas a que se refiere el artículo 232-D de esta Ley:
 
-> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 Zonas Usos
 
@@ -19945,7 +20885,7 @@ ZONA X. Estado de Baja California Sur: Los Cabos; Estado de Guerrero: Acapulco d
 
 1.- Están obligadas a pagar el derecho por extracción de materiales pétreos, las personas físicas y morales que los extraigan de las playas, la zona federal marítimo terrestre y los terrenos ganados al mar o de cualquier otro depósito de aguas marítimas, así como del lecho marino, conforme a la cuota que resulte por metro cúbico:
 
-(ACTUALIZADA EN SUS MONTOS [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SUS MONTOS [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 Material $ /M3
 
@@ -19989,7 +20929,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO PRIMER PARRAFO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 232-D
 
@@ -20129,9 +21069,9 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REFORMADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
-I.- Zona 1
+I.- Zona 1 $/M3
 
 Estados de Baja California, Guanajuato, Sinaloa, Sonora, Tabasco, Veracruz y Zacatecas:
 
@@ -20149,7 +21089,7 @@ Piedra $ 12.00
 
 Otros $ 5.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REFORMADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Zona 2
 
@@ -20227,7 +21167,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Anuncios publicitarios que tienen
 
@@ -20235,7 +21175,7 @@ una superficie total hasta de 50 metros
 
 cuadrados $3,362.70 $3,363.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Anuncios publicitarios que tienen
 
@@ -20245,7 +21185,7 @@ metros cuadrados y de hasta 75
 
 metros cuadrados $5,044.15 $5,044.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Señales informativas $5,043.54 $5,044.00
 
@@ -20253,7 +21193,7 @@ III.- Señales informativas $5,043.54 $5,044.00
 
 El derecho a que se refiere este artículo se pagará por anualidades adelantadas mediante declaración que se presentará en las oficinas autorizadas por la Secretaría de Hacienda y Crédito Público.
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 237-A.
 
@@ -20303,31 +21243,31 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Borrego Cimarrón $295,840.06 $295,840.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Venado Bura en Sonora
 
 o Cola Blanca texano $30,000.00 $30,000.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Puma $10,957.03 $10,957.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Venado Bura Cola Blanca en
 
 el resto del país y Temazate $8,765.62 $8,766.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Faisán de Collar $5,478.51 $5,479.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Patos, palomas, codornices,
 
@@ -20337,29 +21277,29 @@ branta negra del pacífico y otras
 
 aves, por lote $17,000.00 $17,000.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VII.- Guajolote Silvestre
 
 y Pavo Ocelado $3,287.10 $3,287.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VIII.- Zorra gris y otros
 
 pequeños mamíferos $3,287.10 $3,287.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IX.- Gato Montés $2,191.40 $2,191.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 X.- Jabalí (de collar, labios
 
 blancos, europeo) $2,191.40 $2,191.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 XI.- Borrego Audat o Berberisco $547.84 $548.00
 
@@ -20393,7 +21333,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Águila arpía, real o dorada;
 
@@ -20411,7 +21351,7 @@ negro; pavón o gran cornudo, tapir
 
 y jaguar, por cada uno $117,534.83 $117,535.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Aguila solitaria; caimán;
 
@@ -20437,7 +21377,7 @@ tucán pico de canoa y de collar
 
 y zopilote rey, por cada uno $78,356.46 $78,356.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Aguila calva o cabeza
 
@@ -20453,7 +21393,7 @@ del desierto y tucan verde, por
 
 cada uno $39,178.08 $39,178.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Oso hormiguero, pelícano
 
@@ -20477,13 +21417,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 238-B.
 
 (DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 238-C.
 
@@ -20521,7 +21461,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 ###### ARTICULO 239.
 
@@ -20553,15 +21493,15 @@ ajuste ajuste
 
 I.- Para redes que cuenten con estaciones base o repetidoras:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Por cada estación base $5,537.65 $5,538.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Por cada estación repetidora $8,306.53 $8,307.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Para quienes únicamente cuenten
 
@@ -20575,7 +21515,7 @@ radiocomunicación privada de usuario $3,643.20 $3,643.00
 
 III.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Por cada frecuencia asignada a
 
@@ -20593,7 +21533,7 @@ Federativa, sin importar la cantidad
 
 de estaciones bases, móviles o fijas $35,920.48 $35,920.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Por los sistemas de alta frecuencia H.F.,
 
@@ -20605,7 +21545,7 @@ horas diarias, por equipo terminal base
 
 o móvil $779.27 $779.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI.- Por la autorización provisional
 
@@ -20621,19 +21561,19 @@ VII.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 2002)
 
 VIII.- Para sistemas que utilicen el espectro radioeléctrico con fines de pruebas, con autorizaciones temporales con vigencia máxima de 2 años, se pagarán los derechos por el uso del espectro radioeléctrico en los términos siguientes:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- En sistemas que operen en
 
 periodos de hasta seis meses $1,779.93 $1,780.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- En sistemas que operen en
 
 periodos superiores a seis meses $3,559.90 $3,560.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IX.- Para el servicio privado móvil
 
@@ -20647,7 +21587,7 @@ número de bases, móviles
 
 y repetidores $7,289.50 $7,289.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 X.- Por la expedición de licencias
 
@@ -20665,7 +21605,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por cada megahertz utilizado en
 
@@ -20675,7 +21615,7 @@ servicios de telecomunicaciones en
 
 la banda C: $58.91 $59.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por cada megahertz utilizado
 
@@ -20711,7 +21651,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por cada megahertz utilizado en
 
@@ -20721,7 +21661,7 @@ servicios de telecomunicaciones en
 
 la banda C: $58.91 $59.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por cada megahertz utilizado
 
@@ -20761,7 +21701,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por cada frecuencia que utilice
 
@@ -20775,7 +21715,7 @@ de estaciones de radiodifusión en
 
 A.M. y F.M. $4,247.31 $4,247.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por cada frecuencia que utilice
 
@@ -20789,7 +21729,7 @@ estaciones de radiodifusión de
 
 televisión $8,494.91 $8,495.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por cada frecuencia que se utilice
 
@@ -20803,7 +21743,7 @@ con señal digitalizada o de sistemas
 
 de música continua $4,373.66 $4,374.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- Por cada frecuencia que se
 
@@ -20851,11 +21791,11 @@ Cuando se reutilicen las frecuencias a que se refieren las fracciones anteriores
 
 El derecho por el uso del espectro radioeléctrico, por el servicio de televisión restringida de servicio fijo de distribución terrenal punto a multipunto, de señales codificadas de audio y video por microondas, por cada megahertz concesionado, se pagará de conformidad con la tabla siguiente:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REFORMADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 Área Básica de Servicio $ Cuota por Mhz concesionado
 
-denominada
+Denominada
 
 1. Culiacán $2,041.72
 
@@ -20903,7 +21843,7 @@ El área básica de servicio comprende a la zona geográfica especificada en los
 
 Para las concesiones que tengan un área de cobertura diferente a la señalada en la tabla anterior, se pagarán cuotas de acuerdo con la tabla siguiente:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 Entidad Cuota por cada
 
@@ -21003,7 +21943,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Para el servicio de radiotelefonía
 
@@ -21013,7 +21953,7 @@ concesionada o permisionada y por
 
 cada región $3,711.66 $3,712.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Para el servicio de radiotelefonía
 
@@ -21023,7 +21963,7 @@ asignada, concesionada o permisionada
 
 y por sistema $3,711.66 $3,712.00
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- Por los servicios de radiolocalización
 
@@ -21043,7 +21983,7 @@ y por sistema $3,711.66 $3,712.00
 
 Para los casos considerados en esta fracción se entenderá por sistema al área de cobertura del servicio concesionado, salvo para los casos de concesiones con cobertura nacional o regional en donde el sistema corresponde a cada entidad federativa involucrada dentro del área de concesión del servicio.
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV.- En servicio móvil especializado
 
@@ -21059,7 +21999,7 @@ y por sistema $401.88 $402.00
 
 Para fines de aplicación del derecho establecido en esta fracción se entenderá por sistema al área de cobertura servida por cada repetidor, sitio o base. Asimismo, en los sistemas en los que se reutilicen las frecuencias asignadas se aplicará en forma adicional, el derecho por cada frecuencia reutilizada y por sistema.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 V.- Por el servicio de radiocomunicación
 
@@ -21089,7 +22029,7 @@ De 1850 MHz a 1910 MHz
 
 De 1930 MHz a 1990 MHz
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REFORMADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 Tabla B
 
@@ -21105,7 +22045,7 @@ California, Baja California Sur
 
 y el municipio de San Luis Río
 
-Colorado del estado de Sonora. $2,251.56
+Colorado del estado de Sonora $2,251.56
 
 Todos los municipios de Sinaloa
 
@@ -21113,7 +22053,7 @@ y todos los de Sonora, excepto
 
 el municipio de San Luis Río
 
-Colorado. $333.77
+Colorado $333.77
 
 Todos los municipios de los estados
 
@@ -21123,7 +22063,7 @@ municipios de Francisco I. Madero,
 
 Matamoros, Torreón, San Pedro y
 
-Viesca del estado de Coahuila. $1,417.66
+Viesca del estado de Coahuila $1,417.66
 
 Todos los municipios de los estados
 
@@ -21135,7 +22075,7 @@ municipios de Francisco I. Madero,
 
 Matamoros, Torreón, San Pedro
 
-y Viesca. $7,051.21
+y Viesca $7,051.21
 
 Todos los municipios de los estados
 
@@ -21169,17 +22109,17 @@ Mezquitic, Ojuelos de Jalisco, Santa
 
 María de los Angeles, Teocal (sic) $1,142.53
 
-Todos los municipios de los Estados
+Todos los municipios de los estados
 
 de Guerrero, Oaxaca, Puebla,
 
-Tlaxcala y Veracruz. $195.18
+Tlaxcala y Veracruz $195.18
 
 Todos los municipios de los estados
 
 de Campeche, Chiapas, Quintana Roo,
 
-Tabasco y Yucatán. $ 131.93
+Tabasco y Yucatán $ 131.93
 
 Todos los municipios de los estados
 
@@ -21187,7 +22127,7 @@ de Hidalgo, Morelos y Estado de
 
 México, y todas las delegaciones del
 
-Distrito Federal. $ 10,255.74
+Distrito Federal $ 10,255.74
 
 Para las concesiones y permisos cuya área de cobertura sea menor que el área de la región en la que se ubique de acuerdo con la tabla B, la cuota del derecho que se deberá pagar será la que se obtenga de multiplicar la cuota que de conformidad con la tabla señalada corresponda a la región en la que se ubique la concesión o permiso, por la proporción que represente la población total del área concesionada o permisionada entre la población total del área en la que se ubique según la tabla mencionada. Para estos cálculos se deberá utilizar la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población provenientes de los conteos de Población y Vivienda publicados por el Instituto Nacional de Estadística, Geografía e Informática, o en su defecto provenientes del último Censo General de Población y Vivienda publicado por dicho Instituto.
 
@@ -21215,7 +22155,7 @@ De 929 MHz a 932 MHz
 
 De 940 MHz a 941 MHz
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REFORMADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 Tabla B
 
@@ -21223,7 +22163,7 @@ Cobertura Cuota por cada kilohertz
 
 concesionado o permisionada
 
-(1 MHz=1000 KHz)
+1 MHz=1000 KHz
 
 Todos los municipios de Baja
 
@@ -21231,7 +22171,7 @@ California, Baja California Sur
 
 y el municipio de San Luis Río
 
-Colorado del estado de Sonora. $ 11,458.45
+Colorado del estado de Sonora $ 11,458.45
 
 Todos los municipios de Sinaloa
 
@@ -21239,7 +22179,7 @@ y todos los de Sonora, excepto el
 
 municipio de San Luis Río
 
-Colorado. $ 9,700.07
+Colorado $ 9,700.07
 
 Todos los municipios de los estados
 
@@ -21247,9 +22187,9 @@ de Chihuahua y Durango y los
 
 municipios de Francisco I. Madero,
 
-Matamoros, Torreón, San Pedro, y
+Matamoros, Torreón, San Pedro y
 
-Viesca del estado de Coahuila. $ 2,591.67
+Viesca del estado de Coahuila $ 2,591.67
 
 Todos los municipios de los estados
 
@@ -21261,7 +22201,7 @@ municipios de Francisco I. Madero,
 
 Matamoros, Torreón, San Pedro y
 
-Viesca. $ 4,579.51
+Viesca $ 4,579.51
 
 Todos los municipios de los estados
 
@@ -21277,7 +22217,7 @@ Moreno, Mezquitic, Ojuelos de Jalisco,
 
 Santa María de los Angeles,
 
-Teocaltiche, V (sic). $ 6,753.34
+Teocaltiche, V (sic) $ 6,753.34
 
 Todos los municipios de
 
@@ -21295,19 +22235,19 @@ de Moreno, Mezquitic, Ojuelos de
 
 Jalisco, Santa María de los Angeles,
 
-Teocal (sic). $ 3,260.72
+Teocal (sic) $ 3,260.72
 
 Todos los municipios de los estados
 
 de Guerrero, Oaxaca, Puebla, Tlaxcala
 
-y Veracruz. $ 5,545.66
+y Veracruz $ 5,545.66
 
 Todos los municipios de los estados de
 
 Campeche, Chiapas, Quintana Roo,
 
-Tabasco y Yucatán. $ 2,712.43
+Tabasco y Yucatán $ 2,712.43
 
 Todos los municipios de los estados de
 
@@ -21315,7 +22255,7 @@ Hidalgo, Morelos y Estado de México,
 
 y todas las delegaciones del Distrito
 
-Federal. $ 9,380.03
+Federal $ 9,380.03
 
 Para las concesiones y permisos cuya área de cobertura sea menor que el área de la región en la que se ubique de acuerdo con la tabla B, la cuota del derecho que se deberá pagar será la que se obtenga de multiplicar la cuota que de conformidad con la tabla mencionada corresponda a la región en la que se ubique la concesión o permiso, por la proporción que represente la población total del área concesionada o permisionada entre la población total del área en la que se ubique según la tabla B. Para estos cálculos se deberá utilizar la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población provenientes de los conteos de Población y Vivienda publicados por el Instituto Nacional de Estadística, Geografía e Informática, o en su defecto provenientes del último Censo General de Población y Vivienda publicado por dicho Instituto.
 
@@ -21349,7 +22289,7 @@ De 896 MHz a 901 MHz
 
 De 935 MHz a 940 MHz
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 Tabla B
 
@@ -21463,11 +22403,17 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-I.- Por cada estación terminal de cada enlace multicanal o por cada punto extremo del mismo o antena y por cada repetidor $ 3,712.59
+I.- Por cada estación terminal de
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+cada enlace multicanal o por cada
+
+punto extremo del mismo o antena
+
+y por cada repetidor $ 3,712.59 $3,713.00
+
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- En cada canal de radiofrecuencia
 
@@ -21481,7 +22427,7 @@ equivalente para cualquier otro tipo
 
 de señales de telecomunicaciones $3,712.59 $3,713.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- En cada canal de radiofrecuencia
 
@@ -21515,13 +22461,13 @@ ajuste ajuste
 
 I.- Por telefonía rural comunal:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 a).- Por cada estación base
 
 o repetidor $757.73 $758.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 b).- Por estación terminal $284.04 $284.00
 
@@ -21533,13 +22479,31 @@ Tratándose de los servicios de telefonía rural proporcionados por los gobierno
 
 II.- Para servicios de voz o datos en sistemas punto a punto o punto a multipunto:
 
-a).- Por nodo, se pagará por cada frecuencia $ 3,887.81
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
 
-b).- Por cada estación fija, se pagará por cada frecuencia $ 1,943.62
+a).- Por nodo, se pagará por cada
 
-c).- Por frecuencia asignada a nivel regional se pagará por entidad federativa, sin importar la cantidad de estaciones o nodos $ 35,920.58
+frecuencia $3,887.81 $3,887.00
 
-d).- Por cada estación fija remota $ 1,943.62
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
+
+b).- Por cada estación fija, se pagará
+
+por cada frecuencia $1,943.62 $1,9414.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
+
+c).- Por frecuencia asignada a nivel
+
+regional se pagará por entidad
+
+federativa, sin importar la cantidad
+
+de estaciones o nodos $35,920.58 $35,921.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE FEBRERO DE 2006)
+
+d).- Por cada estación fija remota $1,943.62 $1,944.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -21551,11 +22515,11 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por cada estación terminal $3,889.41 $3,889.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por cada canal telefónico $7,779.10 $7,779.00
 
@@ -21837,15 +22801,27 @@ Los titulares de concesiones y asignaciones mineras pagarán semestralmente por 
 
 Concesiones y asignaciones mineras Cuota por hectárea
 
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
+
 I. Durante el primer y segundo año de vigencia $ 4.42
+
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II. Durante el tercero y cuarto año de vigencia $ 6.61
 
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
+
 III. Durante el quinto y sexto año de vigencia $ 13.68
+
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 IV. Durante el séptimo y octavo año de vigencia $ 27.51
 
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
+
 V. Durante el noveno y décimo año de vigencia $ 55.01
+
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 VI. A partir del décimo primer año de vigencia $ 96.83
 
@@ -22369,13 +23345,13 @@ Los reportes que presente el responsable de la descarga estarán basados en dete
 
 Para calcular el monto del derecho a pagar por cada tipo de contaminante que rebase los límites máximos permisibles, se considerará el volumen de aguas residuales descargadas por trimestre y la carga de los contaminantes respectivos, de la siguiente forma:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Para coliformes fecales, el importe del derecho se determinará conforme a lo siguiente: si la descarga presenta un valor que supere el límite máximo permisible de 1,000 como número más probable (NMP) de coliformes fecales por cada 100 mililitros, el volumen descargado a que se refiere la fracción I, del artículo 278-B, de esta Ley, se multiplicará cada metro cúbico descargado al trimestre por $ 1.0040 por metro cúbico, si se trata de un cuerpo receptor tipo A y por $ 0.5015 por metro cúbico, para un cuerpo receptor tipo B o C.
 
 II.- Para el potencial Hidrógeno (pH), el importe del derecho se determinará de acuerdo con las cuotas indicadas en la Tabla II de este Capítulo, para ello, si la descarga se encuentra fuera de los límites máximos permisibles, superior a 10 o inferior a 5 unidades, el volumen descargado a que se refiere la fracción I, del artículo 278-B de esta Ley, se multiplicará por la cuota que corresponda según el rango en unidades de pH a que se refiere la citada Tabla.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 TABLA II
 
@@ -22421,7 +23397,7 @@ c).- Para obtener el monto a pagar por cada contaminante, conforme al tipo de cu
 
 Para los contaminantes básicos, el resultado se multiplicará por 0.56 cuando la descarga sea a un cuerpo receptor tipo “A”; por 1.0 cuando la descarga sea a un cuerpo receptor tipo “B”; y por 1.2 cuando la descarga sea a un cuerpo receptor tipo “C”.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 TABLA III
 
@@ -22805,13 +23781,11 @@ Para efectos del presente Capítulo, la Comisión Nacional del Agua está facult
 
 Están obligadas al pago del derecho por el acceso a los museos, monumentos y zonas arqueológicas propiedad de la Federación, las personas que tengan acceso a las mismas, de las 9:00 a las 17:00 horas, conforme a las siguientes cuotas:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
-
 cuota sin cuota con
 
 ajuste ajuste
 
-> <small>(ADICIONADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 Áreas tipo AAA: $ 45.00
 
@@ -22871,7 +23845,7 @@ De las 9:00 horas a las 17:00 horas, no pagarán el derecho a que se refiere est
 
 Están obligadas a pagar el derecho por el uso o aprovechamiento de inmuebles, las personas físicas y morales que usen o aprovechen bienes sujetos al régimen del dominio público de la Federación en los museos, monumentos históricos y zonas arqueológicas administrados por el Instituto Nacional de Antropología e Historia, conforme a lo que a continuación se señala:
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- $ 30.00 mensuales por cada metro cuadrado o fracción, cuando el uso o goce consista en la realización de actividades comerciales y el espacio no exceda de 30 metros cuadrados.
 
@@ -22879,7 +23853,7 @@ I.- $ 30.00 mensuales por cada metro cuadrado o fracción, cuando el uso o goce 
 
 El pago del derecho a que se refiere esta fracción, se efectuará mensualmente mediante declaración que se presentará en las oficinas autorizadas a más tardar el día 17 del mes siguiente al que corresponda el pago.
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- $ 18.00 por cada metro cuadrado o fracción que se use, goce o aproveche para cada evento cultural de hasta cuatro horas de duración, incluido el tiempo de montaje y desmontaje de instalaciones, realizado en espacios exteriores de cualquier tipo.
 
@@ -22887,7 +23861,7 @@ II.- $ 18.00 por cada metro cuadrado o fracción que se use, goce o aproveche pa
 
 El pago del derecho a que se refiere esta fracción, se efectuará previamente a la realización del evento.
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE FEBRERO DE 2006)
 
 III.- $ 5,000.00 por evento cultural de hasta cuatro horas de duración, incluido el tiempo de montaje y desmontaje de equipos y accesorios, realizado en espacios cerrados, tales como auditorios, vestíbulos y salas.
 
@@ -22917,7 +23891,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por la reproducción fotográfica,
 
@@ -22925,7 +23899,7 @@ dibujo o ilustración, a cualquier
 
 escala, por pieza $1,135.31 $1,135.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por toma de molde, por pieza $3,027.76 $3,028.00
 
@@ -22939,7 +23913,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Reproducción fiel del monumento
 
@@ -22947,7 +23921,7 @@ independientemente de la escala y
 
 materiales $1,249.00 $1,249.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Reproducción basada en una
 
@@ -22969,11 +23943,11 @@ ajuste ajuste
 
 A. Filmaciones o videograbaciones:
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por día $6,498.94 $6,499.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Por cada 30 minutos o fracción de
 
@@ -22995,7 +23969,7 @@ III.- Las instituciones públicas dedicadas a la promoción, enseñanza o invest
 
 B. Tomas fotográficas:
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Por día en zona arqueológica, museo,
 
@@ -23019,7 +23993,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Instituciones públicas dedicadas
 
@@ -23029,7 +24003,7 @@ investigación de la cultura, la ciencia
 
 o el arte, por fotografía $199.67 $200.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Para instituciones o personas
 
@@ -23049,11 +24023,11 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 I.- Impreso de 1 a 1000 ejemplares $124.70 $125.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 II.- Impreso de 1001 ejemplares en
 
@@ -23083,7 +24057,7 @@ El derecho a que se refiere este artículo se calculará conforme a lo siguiente
 
 I.- Por el uso, goce o aprovechamiento del espacio aéreo mexicano que por el desplazamiento, de acuerdo a la envergadura de las aeronaves, realicen durante el vuelo en ruta, se pagará por cada kilómetro volado, conforme a la siguiente tabla:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 Cuotas por kilómetro volado
 
@@ -23107,8 +24081,6 @@ c).- Tratándose de sobrevuelos internacionales, se medirán por la distancia or
 
 El usuario que lleve a cabo vuelos locales, cualquiera que sea su finalidad y que regresen a aterrizar al aeropuerto de origen, la distancia ortodrómica por kilómetro volado, se calculará aplicando por cada minuto de vuelo 5 kilómetros de recorrido.
 
-> <small>(DEROGADO CUARTO PARRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
-
 Para los efectos de esta fracción, los contribuyentes deberán presentar ante las oficinas autorizadas por el Servicio de Administración Tributaria mediante reglas de carácter general, en un término de veinte días al inicio de cada año calendario, copia de la cédula de su Registro Federal de Contribuyentes (RFC) y una relación de las aeronaves por las que se pagará el derecho. Una vez que el contribuyente haya presentado copia de su RFC y de la relación, no podrá optar por pagar el derecho de dichas aeronaves conforme a las fracciones II y III a que se refiere este artículo, durante el año de que se trate.
 
 Los representantes legales de los usuarios de los servicios de navegación aérea, deberán reconocer en el poder notarial que al efecto presenten su responsabilidad solidaria en el cumplimiento de las obligaciones fiscales a cargo de sus representados.
@@ -23117,7 +24089,7 @@ Para el caso de que el contribuyente inicie operaciones o adquiera una nueva aer
 
 II.- Los contribuyentes podrán optar por pagar el derecho previsto en la fracción I de este artículo, para las aeronaves señaladas en la tabla contenida en la presente fracción, mediante una cuota única por cada vez que le sea suministrado el combustible a la aeronave de que se trate, conforme a la siguiente tabla:
 
-> <small>(REFORMADA, D.O.F. 13 DE MAYO DE 2005)</small>
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 Tipo de aeronaves Cuota
 
@@ -23135,7 +24107,7 @@ y hasta 16.7 metros $ 150.00
 
 III.- Tratándose de las siguientes aeronaves se podrá optar por pagar el derecho a que se refiere este artículo mediante una cuota única por cada vez que les sea suministrado combustible a la aeronave de que se trate, exceptuándose los sobrevuelos, conforme a la siguiente tabla:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 4 DE MARZO DE 2005)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE FEBRERO DE 2006)
 
 Aeronaves según envergadura Cuota
 
@@ -26692,3 +27664,7 @@ Las referencias que otras leyes, reglamentos o disposiciones administrativas hag
 Los valores inscritos exclusivamente en la sección especial del Registro Nacional de Valores, podrán ser objeto de intermediación en el territorio nacional, siempre que se dé cumplimiento a lo establecido en el artículo 9 de esta Ley.
 
 .
+
+D.O.F. 3 DE FEBRERO DE 2006.
+
+LA ACTUALIZACION POR MISCELANEA FISCAL CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
