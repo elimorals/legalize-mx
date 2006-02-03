@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-del-estado-de-puebla-7515"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-29"
-last_updated: "2005-08-05"
+last_updated: "2006-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO FISCAL DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 2006.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el martes 29 de diciembre de 1987.
 
@@ -1503,65 +1503,67 @@ La Autoridad Fiscal impondrá las sanciones por infracción a las disposiciones 
 
 A.- Por las infracciones señaladas en el artículo 58:
 
-(ACTUALIZADA, P.O. 5 DE AGOSTO DE 2005)
+A.- Por las infracciones señaladas en el artículo 58:
 
-I.- De $ 41.00 a $ 84.00 a la comprendida en la fracción VI.
+(ACTUALIZADA EN SU CANTIDAD, P.O. 3 DE FEBRERO DE 2006)
 
-(ACTUALIZADA, P.O. 5 DE AGOSTO DE 2005)
+I.- De $ 42.00 a $ 86.00 a la comprendida en la fracción VI.
 
-II.- De $ 123.00 a $ 250.00 a la comprendida en la fracción II.
+(ACTUALIZADA EN SU CANTIDAD, P.O. 3 DE FEBRERO DE 2006)
 
-(ACTUALIZADA, P.O. 5 DE AGOSTO DE 2005)
+II.- De $ 126.00 a $ 256.00 a la comprendida en la fracción II.
 
-III.- De $ 167.00 a $ 332.00 a la comprendida en la fracción III.
+(ACTUALIZADA EN SU CANTIDAD, P.O. 3 DE FEBRERO DE 2006)
 
-(ACTUALIZADA, P.O. 5 DE AGOSTO DE 2005)
+III.- De $ 171.00 a $ 340.00 a la comprendida en la fracción III.
 
-IV.- De $207.00 a $ 413.00 a la establecida en la fracción V. Tratándose de declaraciones correspondientes al Impuesto Sobre Erogaciones por remuneraciones al Trabajo Personal, la multa impuesta se reducirá en un 50%, al momento de efectuar su pago, cuando el contribuyente demuestre que únicamente tiene a su servicio hasta dos trabajadores, siempre que las erogaciones efectuadas por remuneraciones al trabajo personal en su totalidad, no excedan del equivalente a cuatro veces el salario mínimo vigente en el Estado.
+(ACTUALIZADA EN SU CANTIDAD, P.O. 3 DE FEBRERO DE 2006)
 
-(ACTUALIZADA, P.O. 5 DE AGOSTO DE 2005)
+IV.- De $212.00 a $ 423.00 a la establecida en la fracción V. Tratándose de declaraciones correspondientes al Impuesto Sobre Erogaciones por remuneraciones al Trabajo Personal, la multa impuesta se reducirá en un 50%, al momento de efectuar su pago, cuando el contribuyente demuestre que únicamente tiene a su servicio hasta dos trabajadores, siempre que las erogaciones efectuadas por remuneraciones al trabajo personal en su totalidad, no excedan del equivalente a cuatro veces el salario mínimo vigente en el Estado.
 
-V.- De $ 207.00 a $ 413.00 a la establecida en la fracción VII.
+(ACTUALIZADA EN SU CANTIDAD, P.O. 3 DE FEBRERO DE 2006)
 
-(ACTUALIZADA, P.O. 5 DE AGOSTO DE 2005)
+V.- De $ 212.00 a $ 423.00 a la establecida en la fracción VII.
 
-VI.- De $ 250.00 a $ 498.00 a la comprendida en la fracción XV.
+(ACTUALIZADA EN SU CANTIDAD, P.O. 3 DE FEBRERO DE 2006)
 
-(ACTUALIZADA, P.O. 5 DE AGOSTO DE 2005)
+VI.- De $ 256.00 a $ 510.00 a la comprendida en la fracción XV.
 
-VII.- De $ 332.00 a $ 662.00 a la señalada en la fracción XVIII.
+(ACTUALIZADA EN SU CANTIDAD, P.O. 3 DE FEBRERO DE 2006)
 
-(ACTUALIZADA, P.O. 5 DE AGOSTO DE 2005)
+VII.- De $ 340.00 a $ 679.00 a la señalada en la fracción XVIII.
 
-VIII.- De $ 414.00 a $ 832.00 a las comprendidas en las fracciones IX y XI.
+(ACTUALIZADA EN SU CANTIDAD, P.O. 3 DE FEBRERO DE 2006)
 
-(ACTUALIZADA, P.O. 5 DE AGOSTO DE 2005)
+VIII.- De $ 424.00 a $ 853.00 a las comprendidas en las fracciones IX y XI.
 
-IX.- De $ 621.00 a $ 1,244.00 a la establecida en la fracción X.
+(ACTUALIZADA, P.O. 3 DE FEBRERO DE 2006)
 
-(ACTUALIZADA, P.O. 5 DE AGOSTO DE 2005)
+IX.- De $ 637.00 a $ 1,275.00 a la establecida en la fracción X.
 
-X.- De $ 661.00 a $ 1,328.00 a la comprendida en la fracción IV.
+(ACTUALIZADA EN SU CANTIDAD, P.O. 3 DE FEBRERO DE 2006)
 
-(ACTUALIZADA, P.O. 5 DE AGOSTO DE 2005)
+X.- De $ 678.00 a $ 1,361.00 a la comprendida en la fracción IV.
 
-XI.- De $ 747.00 a $ 1,495.00 a las comprendidas en las fracciones I, VIII, XII y XIII.
+(ACTUALIZADA EN SU CANTIDAD, P.O. 3 DE FEBRERO DE 2006)
 
-(ACTUALIZADA, P.O. 5 DE AGOSTO DE 2005)
+XI.- De $ 766.00 a $ 1,533.00 a las comprendidas en las fracciones I, VIII, XII y XIII.
 
-XII.- De $ 832.00 a $ 1,660.00 a la señalada en la fracción XVII.
+(ACTUALIZADA EN SU CANTIDAD, P.O. 3 DE FEBRERO DE 2006)
 
-(ACTUALIZADA, P.O. 5 DE AGOSTO DE 2005)
+XII.- De $ 853.00 a $ 1,702.00 a la señalada en la fracción XVII.
 
-XIII.- De $ 2,074.00 a $ 4,151.00 a la comprendida en la fracción XIX.
+(ACTUALIZADA EN SU CANTIDAD, P.O. 3 DE FEBRERO DE 2006)
 
-(ACTUALIZADA, P.O. 5 DE AGOSTO DE 2005)
+XIII.- De $ 2,126.00 a $ 4,255.00 a la comprendida en la fracción XIX.
 
-XIV.- De $ 126.00 a $ 317.00 a quien cometa la comprendida en la fracción XX.
+(ACTUALIZADA EN SU CANTIDAD, P.O. 3 DE FEBRERO DE 2006)
 
-(ACTUALIZADA, P.O. 5 DE AGOSTO DE 2005)
+XIV.- De $ 129.00 a $ 325.00 a quien cometa la comprendida en la fracción XX.
 
-XV.- De $1,060.00 a $2,120.00 a la señalada en la fracción XXI.
+(ACTUALIZADA EN SU CANTIDAD, P.O. 3 DE FEBRERO DE 2006)
+
+XV.- De $1,087.00 a $2,173.00 a la señalada en la fracción XXI.
 
 B.- Cuando la comisión de la infracción señalada en el artículo 58-A sea descubierta por las Autoridades Fiscales mediante el ejercicio de sus facultades de comprobación, se aplicarán las siguientes sanciones:
 
@@ -2516,3 +2518,9 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 5 DE AGOSTO DE 2005.
 
 ÚNICO.- El presente Acuerdo entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE FEBRERO DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Acuerdo entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
