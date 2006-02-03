@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-23-2001-del-pleno-del-consejo-de-la-4493
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-04-25"
-last_updated: "2005-12-22"
+last_updated: "2006-02-03"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-04-16"
 
 ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE FEBRERO DE 2006.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2001.
 
@@ -465,17 +465,9 @@ TERCERO.- La jurisdicción territorial de los tribunales colegiados y unitarios 
 
 I.- PRIMER CIRCUITO: Distrito Federal.
 
-> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO DECIMOPRIMERO DEL ACUERDO GENERAL 27/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE JUNIO DE 2002)</small>
+> <small>(REFORMADA POR EL PUNTO CUARTO DEL ACUERDO GENERAL 8/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE FEBRERO DE 2006)</small>
 
-II.- SEGUNDO CIRCUITO: Respecto de los tribunales colegiados en materia penal, en materia civil y en materia de trabajo, es el Estado de México.
-
-> <small>(ADICIONADO POR EL PUNTO DECIMOPRIMERO DEL ACUERDO GENERAL 27/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE JUNIO DE 2002)</small>
-
-La del Primer Tribunal Colegiado en Materia Administrativa con residencia en Toluca, será igual a la establecida para los juzgados de Distrito en el Estado de México, con sede en dicha ciudad.
-
-> <small>(ADICIONADO POR EL PUNTO DECIMOPRIMERO DEL ACUERDO GENERAL 27/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE JUNIO DE 2002)</small>
-
-Por lo que hace al Segundo y Tercer Tribunales Colegiados en Materia Administrativa con residencia en Naucalpan de Juárez, será la misma que la establecida para los juzgados de Distrito en el Estado de México, con residencia en la citada ciudad y en Ciudad Nezahualcóyotl.
+II.- SEGUNDO CIRCUITO: Respecto de los tribunales colegiados en materia penal, en materia civil, en materia de trabajo y en materia administrativa, es el Estado de México.
 
 Por lo que toca a los tribunales unitarios con residencia en Toluca, su jurisdicción territorial será el Estado de México, con la excepción señalada en el párrafo siguiente.
 
@@ -1257,17 +1249,17 @@ PRIMERO.- Este acuerdo entrará en vigor el uno de marzo de dos mil cuatro.
 
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
-D.O.F. 12 DE MARZO DE 2004.
-
-PRIMERO.- Este acuerdo entrará en vigor el catorce de marzo de dos mil cuatro.
-
-SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
 D.O.F. 17 DE MAYO DE 2004.
 
 ACUERDO 29/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO APARTADO V, NUMERO 1.
 
 PRIMERO.- Este acuerdo entrará en vigor el uno de junio de dos mil cuatro.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 12 DE MARZO DE 2004.
+
+PRIMERO.- Este acuerdo entrará en vigor el catorce de marzo de dos mil cuatro.
 
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
@@ -1520,3 +1512,9 @@ D.O.F. 22 DE DICIEMBRE DE 2005.
 PRIMERO.- Este acuerdo entrará en vigor el veintitrés de enero de dos mil seis.
 
 SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 3 DE FEBRERO DE 2006.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
