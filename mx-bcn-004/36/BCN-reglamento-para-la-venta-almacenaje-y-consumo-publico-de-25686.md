@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-venta-almacenaje-y-consumo-publico-de-25686"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-03"
-last_updated: "2006-01-06"
+last_updated: "2006-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "BCN"
 
 REGLAMENTO PARA LA VENTA, ALMACENAJE Y CONSUMO PÚBLICO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2006.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 3 DE FEBRERO DE 2006.</small>
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 3 de mayo de 2002.
 
@@ -52,8 +54,6 @@ REGLAMENTO PARA LA VENTA, ALMACENAJE Y CONSUMO PUBLICO DE BEBIDAS ALCOHOLICAS EN
 ###### ARTICULO 1.
 
 Las disposiciones de este Reglamento son de orden público e interés social, y regularán la Venta, Almacenaje para su Venta y Venta para Consumo Público de Bebidas Alcohólicas en el Municipio de Tijuana, Baja California.
-
-> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 3 DE JUNIO DE 2005, SE ADVIERTE QUE NO APARECE EL CONTENIDO DEL TEXTO.</small>
 
 ###### ARTICULO 2.
 
@@ -299,7 +299,9 @@ Son obligaciones de los titulares de los permisos permanentes o eventuales a que
 
 I.- Contar con el permiso correspondiente, expedido por la Autoridad Municipal, antes de iniciar actividades, o llevar a cabo un evento;
 
-II.- Exhibir el original del permiso ó copia certificada del mismo, el cual deberán colocar debidamente enmarcado en un lugar visible dentro del establecimiento. Además deberán presentarlo ante las autoridades municipales, encargadas de la vigilancia y cumplimiento de la ley y este reglamento, cuando así lo requieran, previa identificación correspondiente;
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2006)</small>
+
+II.- Exhibir en original o copia certificada, el permiso y la revalidación, los cuales deberán colocarse debidamente enmarcados en la entrada del establecimiento. Además deberán presentarlos ante las autoridades municipales, encargadas de la vigilancia y cumplimiento de la ley y este reglamento, cuando así lo requieran, previa identificación correspondiente.
 
 III.- Exigir a todo el personal que labore en su establecimiento portar documento oficial con fotografía que acredite su mayoría de edad y mostrarla a la Autoridad Municipal cuando esta así se lo solicite;
 
@@ -1043,9 +1045,11 @@ En su caso si así lo determinan los inspectores que realizan la visita domicili
 
 La oposición, resistencia o impedimento para la práctica de visitas de inspección domiciliaria a los establecimientos o cualquier local en que se vendan o consuman bebidas alcohólicas, serán sancionados conforme a lo estipulado en este reglamento y demás disposiciones legales aplicables.
 
+> <small>(F. DE E., P.O. 3 DE FEBRERO DE 2006)</small>
+
 ###### ARTICULO 70.
 
-Los inspectores remitirán las actuaciones al Director de Regulación Municipal, quien calificará las omisiones o infracciones que resultaren en su caso, imponiendo las sanciones que resulten procedentes y ordenando las medidas que deban adoptarse para corregir las omisiones que se presenten, facultad que también corresponderá al Secretario del Ayuntamiento.
+Los inspectores remitirán las actuaciones al Director de Inspección y Verificación Municipal, quien calificará las omisiones o infracciones que resultaren en su caso, imponiendo las sanciones que resulten procedentes y ordenando las medidas que deban adoptarse para corregir las omisiones que se presenten, facultad que también corresponderá al Secretario de Desarrollo Económico.
 
 ###### ARTICULO 71.
 
@@ -1097,7 +1101,7 @@ Si dentro del establecimiento que deba ser clausurado se encuentra mercancía su
 
 > <small>(ADICIONADO, P.O. 6 DE ENERO DE 2006)</small>
 
-Así mismo se impondrá multa de cien a mil quinientos días de salario mínimo vigente a quien incurra en las infracciones previstas en las fracciones I y II de artículo 51 de este ordenamiento.
+Así mismo se impondrá multa de cien a mil quinientos días de salario mínimo vigente a quien incurra en las infracciones previstas en las fracciones I y II de (sic) artículo 51 de este ordenamiento.
 
 ###### ARTICULO 75.
 
@@ -1283,9 +1287,7 @@ SEGUNDO: La presente reforma entrará en vigor al día siguiente de su publicaci
 
 TERCERO: Publíquese en dos periódicos de mayor circulación en la localidad para conocimiento de los vecinos.
 
-CUARTO: Se derogan todas aquellas disposiciones que se opongan a la presente
-
-reforma.
+CUARTO: Se derogan todas aquellas disposiciones que se opongan a la presente reforma.
 
 P.O. 14 DE FEBRERO DE 2003.
 
@@ -1334,3 +1336,13 @@ Publíquense las presentes (sic) en la Gaceta Municipal y/o un diario de mayor c
 P.O. 6 DE ENERO DE 2006.
 
 LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL FEDERAL VIGENTE.
+
+P.O. 3 DE FEBRERO DE 2006.
+
+###### ARTICULO PRIMERO.
+
+La presente reforma entrara en vigor al momento de su aprobación y deberá publicarse en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente reforma.
