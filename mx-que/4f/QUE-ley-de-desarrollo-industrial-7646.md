@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-desarrollo-industrial-7646"
 country: "mx"
 rank: "ley"
 publication_date: "1989-05-18"
-last_updated: "1999-10-15"
+last_updated: "2006-02-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY DE DESARROLLO INDUSTRIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 1999.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY INDUSTRIAL DEL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. 3 DE FEBRERO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado "La Sombra de Arteaga" el 18 de mayo de 1989.
 
@@ -376,3 +378,21 @@ Se derogan todas las disposiciones que se opongan a la presente.
 ###### ARTICULO SEGUNDO.
 
 Esta Ley entrara en vigor al día siguiente de su publicación en el periódico oficial "La Sombra de Arteaga".
+
+P.O. 3 DE FEBRERO DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Desarrollo Industrial publicada en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga" el 18 de mayo de 1989.
+
+###### ARTÍCULO TERCERO.
+
+El titular del Poder Ejecutivo del Estado, reglamentariamente establecerá, y a propuesta del Secretario de Desarrollo Sustentable del Estado, lo siguiente; La organización administrativa, los procedimientos del Registro de Establecimientos Industriales, los datos complementarios de carácter obligatorio y el sistema de acceso a la información contenida en el mismo, así como las normas de confidencialidad aplicables en cada caso.
+
+###### ARTÍCULO CUARTO.
+
+En un plazo no mayor de noventa días naturales contados a partir de la fecha de publicación de la presente Ley, el Titular del Poder Ejecutivo del Estado emitirá el Reglamento de la misma. Los reglamentos y disposiciones derivadas de la ley que se abroga, continuarán surtiendo sus efectos en todo aquello que no se oponga a la presente, en tanto se expidan (sic) la nueva reglamentación.
