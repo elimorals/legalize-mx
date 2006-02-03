@@ -4,7 +4,7 @@ identifier: "LEBHN"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-08"
-last_updated: "2005-12-07"
+last_updated: "2006-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2564&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LEBHN"
 
 LEY SOBRE EL ESCUDO, LA BANDERA Y EL HIMNO NACIONALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE FEBRERO DE 2006.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 8 de febrero de 1984.
 
@@ -138,6 +138,12 @@ a) A toda asta en las siguientes fechas y conmemoraciones:
 
 Aniversario del nacimiento de Ignacio Allende, 1779.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 3 DE FEBRERO DE 2006)</small>
+
+1 de febrero:
+
+Apertura del segundo periodo de sesiones ordinarias del Congreso de la Unión.
+
 5 de febrero:
 
 Aniversario de la promulgación de las Constituciones de 1857 y 1917.
@@ -154,11 +160,7 @@ Aniversario de la promulgación de las Constituciones de 1857 y 1917.
 
 Aniversario de la Proclamación del Plan de Ayutla.
 
-> <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 1995)</small>
-
-15 de marzo:
-
-Apertura del segundo período de sesiones ordinarias del Congreso de la Unión.
+15 de marzo: (DEROGADO, D.O.F. 3 DE FEBRERO DE 2006)
 
 18 de marzo:
 
@@ -711,3 +713,7 @@ D.O.F. 7 DE DICIEMBRE DE 2005.
 DECRETO POR EL QUE SE REFORMA EL ARTICULO 46.
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 3 DE FEBRERO DE 2006.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
