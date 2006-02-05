@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-interno-de-la-secretaria-de-finanzas-y-de-32936"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-07-03"
-last_updated: "2003-07-03"
+last_updated: "2006-02-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32936&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 REGLAMENTO INTERNO DE LA SECRETARIA DE FINANZAS Y DE ADMINISTRACION DEL GOBIERNO DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE FEBRERO DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el jueves 3 de julio de 2003.
 
@@ -41,51 +41,59 @@ La Secretaría de Finanzas y de Administración es la dependencia responsable de
 
 La Secretaría de Finanzas y de Administración que en lo sucesivo se le denominará La Secretaría, conducirá sus actividades de planeación, coordinación, ejecución, evaluación y control con base a los objetivos, políticas, estrategias, prioridades y restricciones que establezcan el Plan Estatal de Desarrollo, el Ejecutivo del Estado y los programas del titular de la Secretaría.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE FEBRERO DE 2006)</small>
+
 ###### ARTÍCULO 3.
 
-Para el despacho de los asuntos de su competencia la Secretaría contara con las siguientes unidades administrativas.
+Para el despacho de los asuntos de su competencia, la Secretaría contará con las siguientes unidades administrativas.
 
-I. Subsecretaría de Ingresos
+I.- Subsecretaría de Ingresos
 
-II. Subsecretaría de Egresos
+II.- Subsecretaría de Egresos
 
-III. Subsecretaría de Administración
+III.- Subsecretaría de Administración
 
-IV. Procuraduría Fiscal
+IV.- Procuraduría Fiscal
 
-V. Subprocuraduría Fiscal
+V.- Subprocuraduría Fiscal
 
-VI. Dirección de Informática
+VI.- Coordinación de Normatividad, Registro y Seguimiento de Entidades Paraestatales
 
-VII. Contraloría Interna
+VII.- Dirección del Registro Público de Entidades Paraestatales
 
-VIII. Dirección de Gasto Educativo
+VIII.- Dirección de Análisis, Evaluación y Seguimiento
 
-IX. Dirección de Recaudación
+IX.- Dirección de Informática
 
-X. Dirección de Auditoria Fiscal
+X.- Contraloría Interna
 
-XI. Dirección de Catastro
+XI.- Dirección de Gasto Educativo y Salud
 
-XII. Dirección de Política y Análisis del Ingreso
+XII.- Dirección de Recaudación
 
-XIII. Dirección de Gasto Público
+XIII.- Dirección de Auditoría Fiscal
 
-XIV. Dirección de Programación y Presupuesto
+XIV.- Dirección de Catastro.
 
-XV. Dirección de Planeación Financiera
+XV.- Dirección de Política y Análisis del Ingreso
 
-XVI. Dirección Contabilidad y Evaluación
+XVI.- Dirección de Gasto Público.
 
-XVII. Dirección de Recursos Humanos
+XVII.- Dirección de Programación y Presupuesto
 
-XVIII. Dirección de Recursos Materiales
+XVIII.- Dirección de Planeación Financiera
 
-XIX. Dirección de Servicios Generales
+XIX.-Dirección de Contabilidad y Evaluación
 
-XX. Dirección de Control Patrimonial
+XX.- Dirección de Recursos Humanos
 
-XXI. Tesorería.
+XXI.- Dirección de Recursos Materiales
+
+XXII.- Dirección de Servicios Generales
+
+XXIII. Dirección de Control Patrimonial
+
+XXIV- Tesorería
 
 Los manuales de organización precisarán la estructura orgánica y las funciones específicas de las áreas que conforman las unidades administrativas a que se refiere este artículo.
 
@@ -651,6 +659,110 @@ XXIX. Cuidar el buen funcionamiento de los departamentos de lo contencioso, de t
 
 XXX. Las demás funciones que le confieran el presente Reglamento y demás disposiciones legales, así como las que le asigne el Secretario y el Procurador Fiscal.
 
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2006)</small>
+
+ARTÍCULO 14 A.- El Coordinador de Normatividad, Registro y Seguimiento de Entidades Paraestatales, tendrá las siguientes facultades y obligaciones, respecto a las Entidades Paraestatales:
+
+I.- Controlar y vigilar, financiera y administrativamente, la operación de aquellas que no estén expresamente encomendadas a otras dependencias.
+
+II.- Administrar la Dirección del Registro Público de Entidades Paraestatales.
+
+III.- Coordinar la participación de los representantes de la Secretaría de Finanzas y de Administración de los Órganos de Gobierno y Comités Técnicos de las Entidades o Representarla, cuando así lo determine el Titular de la Secretaría.
+
+IV.- Fijar los lineamientos y políticas, así como aprobar las condiciones generales de su financiamiento.
+
+V.- Autorizar se instruya el procedimiento para la contratación de sus financiamientos, de conformidad con las políticas que al efecto se establezcan, en los términos de la legislación aplicable.
+
+VI.- Aprobar los montos y llevar el registro y control de su deuda pública, de acuerdo a lo que disponga la Ley de la materia.
+
+VII.- Vigilar la utilización de recursos no presupuestales, que sean obtenidos, de acuerdo con las autorizaciones previstas en la Ley de Deuda Pública para el Estado de Durango.
+
+VIII.- Formular lineamientos y políticas para la emisión y suscripción de títulos de crédito y otros documentos, en que se hagan constar obligaciones a cargo de las mismas.
+
+IX.- Recabar de las Entidades, la información financiera indispensable para determinar su capacidad de pago y el tipo de gastos que se pretendan financiar con recursos crediticios.
+
+X.- Dictar lineamientos para la utilización de excedentes de recursos financieros.
+
+XI.- Practicar visitas a las Entidades, en el ámbito de su competencia, en términos de la legislación aplicable.
+
+XII.- Vigilar que los Acuerdos de Coordinación que se realicen con las Dependencias o Entidades Federales, dentro de su respectivo ámbito de competencia, se lleven a cabo en el marco de los convenios respectivos.
+
+XIII.- Establecer normas para el ejercicio de su gasto público.
+
+XIV.- Requerir la información financiera y contable de acuerdo a los lineamientos y formas de presentación establecidos por la propia Secretaría de Finanzas, para efectos de consolidación de estados financieros y preparación de la cuenta pública, conforme a la Ley de la materia.
+
+XV.- Vigilar que las Entidades Paraestatales cumplan con las disposiciones fiscales.
+
+XVI.- Emitir disposiciones administrativas y vigilar su cumplimiento.
+
+XVII.- Dictar las disposiciones administrativas, relativas a la adquisición, enajenación, arrendamiento y uso de bienes muebles e inmuebles y la contratación de los servicios necesarios para su operación y funcionamiento, así como para el manejo de almacenes, inventarios, avalúos y baja de maquinaria y equipo, en los términos de la Ley de la materia.
+
+XVIII.- En enlace con las Dependencias coordinadoras de sector, efectuar el control y seguimiento de los Órganos de Gobierno, Comités Técnicos, Consejos, contratos y fideicomisos.
+
+XIX.- Elaborar diagnósticos que permitan evaluar y determinar, en qué casos se amerita la desincorporación de Entidades Paraestatales o bien su reorientación o redimensionamiento.
+
+XX.- Emitir oficios y circulares para requerir a las Entidades, la documentación que se precise para el eficaz despacho de los asuntos y responsabilidades a su cargo.
+
+XXI.- Las demás que le sean asignadas en este Reglamento y los Manuales de Organización y Procedimientos respectivos.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2006)</small>
+
+ARTÍCULO 14 B.- El Director del Registro Público de Entidades Paraestatales, tendrá las siguientes facultades y obligaciones, respecto de las Entidades Paraestatales:
+
+I.- Inscribir los actos y documentos que tengan relación con la creación y modificación de su régimen jurídico.
+
+II.- Registrar las escrituras constitutivas, así como sus modificaciones y reformas.
+
+III.- Registrar los nombramientos y remociones de los integrantes propietarios y suplentes de los Órganos de Gobierno o Comités Técnicos de las Entidades.
+
+IV.- Registrar los poderes generales, los especiales y sus revocaciones.
+
+V.- Registrar los Decretos o Acuerdos de creación, modificación o desincorporación que se emitan para fusionar, suprimir o liquidar Entidades Paraestatales o revocar fideicomisos.
+
+VI.- Registrar los Programas Institucionales y los Programas Operativos Anuales de las Entidades y sus modificaciones.
+
+VII.- Expedir copias certificadas de documentos, así como certificar inscripciones y constancias, que obren en archivos y libros de registro y/o registros electrónicos.
+
+VIII.- Expedir certificaciones de no existencia de documentos y asientos de ninguna especie.
+
+IX.- Sólo se registrarán testimonios de escrituras públicas y otros documentos auténticos, así como resoluciones judiciales certificadas legalmente.
+
+X.- Cuando se trate de bienes inmuebles propiedad de la Entidad Paraestatal o fideicomitidos, se anexará a la escritura, un plano de los mismos.
+
+XI.- El Registro físico, se respaldará con un registro electrónico, integrando además un archivo de los documentos registrados para los efectos de ley.
+
+XII.- La inscripción en el Registro Público, no convalida los actos, contratos y documentos que sean nulos conforme a la ley.
+
+XIII.- Las demás que le sean asignadas por la Secretaría, por conducto de la Coordinación y por este Reglamento.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2006)</small>
+
+ARTÍCULO 14 C.- La dirección de Análisis, Evaluación y Seguimiento adscrita a la Coordinación tendrá las siguientes facultades y obligaciones respecto de las Entidades Paraestatales;
+
+I.- Realizar los procesos de análisis y diseño de normatividad y sistemas de control y evaluación financiera de las Entidades Paraestatales;
+
+II.- Definir, proponer, promover y evaluar el cumplimiento de las normas y directrices para asegurar la eficiencia, eficacia y economía de la gestión administrativa y financiera de las Entidades Paraestatales;
+
+III. Proponer los lineamientos y políticas, así como acordar con su superior jerárquico, la aprobación de las condiciones generales de los financiamientos;
+
+IV.- Recabar de las Entidades paraestatales, en coordinación con la Dirección del registro Público, Órganos de Gobierno y Comités Técnicos de Fideicomisos, la información financiera indispensable para determinar su capacidad de pago y el tipo de gastos que se pretendan financiar con recursos crediticios;
+
+V.- Elaborar y proponer, en coordinación con la Dirección del Registro Público, Órgano de Gobierno y Comités Técnicos de Fideicomisos, lineamientos para la utilización de excedentes de recursos financieros;
+
+VI.- Evaluar, Conjuntamente con la Dirección del Registro Público, Órganos de Gobierno y Comités Técnicos de Fideicomisos, que los acuerdos de coordinación que se realicen con las dependencias o entidades federales dentro de su ámbito de competencia, se lleven a cabo en el marco de los convenios respectivos;
+
+VII.- Proponer las normas para el ejercicio del gasto público y programas de inversión de las Entidades Paraestatales, así como vigilar y evaluar su cumplimiento;
+
+VIII.- Requerir y evaluar, en coordinación con la Dirección del Registro Público, Órganos de Gobierno y Comités Técnicos de Fideicomisos, la información financiera, contable de acuerdo a los lineamientos y formas de presentación establecidos para efectos de consolidación de estados financieros y preparación de la cuenta pública, conforme a la Ley de la materia.
+
+IX.- Elaborar y proponer disposiciones administrativas que deberán observar las Entidades Paraestatales, así como vigilar y evaluar su cumplimiento;
+
+X.- Elaborar y proponer las disposiciones administrativas, relativas a la adquisición enajenación, arrendamiento y uso de bienes mubles (sic) e inmuebles y la contratación de los servicios necesarios para su operación y funcionamiento, así como para el manejo de almacenes, inventarios, avalúos y baja de maquinaría y equipo en los términos de la ley de la materia;
+
+XI.- Practicar visitas de campo en el ámbito de su competencia en los término de la legislación aplicable, y
+
+XII.- Las demás que se asigne el Secretario del Ramo o el Coordinador General.
+
 ### CAPÍTULO V. DE LAS FACULTADES Y OBLIGACIONES DE LOS DIRECTORES
 
 ###### ARTÍCULO 15.
@@ -1190,3 +1302,9 @@ EL SECRETARIO DE FINANZAS Y DE ADMINISTRACIÓN
 LIC. JUAN MANUEL FLORES ÁLVAREZ
 
 (RÚBRICAS)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 5 DE FEBRERO DE 2006.
+
+UNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
