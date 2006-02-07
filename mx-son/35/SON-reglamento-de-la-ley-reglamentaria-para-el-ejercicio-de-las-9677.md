@@ -4,7 +4,7 @@ identifier: "SON-reglamento-de-la-ley-reglamentaria-para-el-ejercicio-de-las-967
 country: "mx"
 rank: "reglamento"
 publication_date: "1953-08-01"
-last_updated: "1953-08-01"
+last_updated: "2006-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO DE LA LEY REGLAMENTARIA PARA EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE FEBRERO DE 2006.
 
 Reglamento publicado en el Boletín Oficial del Estado de Sonora, el sábado 1 de agosto de 1953.
 
@@ -431,9 +431,23 @@ Se prohibe el uso de la denominación “Colegio de Profesionistas a cualquiera 
 
 Del Servicio Social de Profesionistas y Estudiantes.
 
+> <small>(REFORMADO, B.O. 7 DE FEBRERO DE 2006)</small>
+
 ###### ARTICULO 73.
 
-El servicio social de los estudiantes quedará al cuidado y responsabilidad de las escuelas de enseñanza profesional, conforme a sus planes de estudios.
+El servicio social de los estudiantes quedará al cuidado y responsabilidad de las escuelas de enseñanza profesional, en términos del presente Reglamento y demás disposiciones aplicables.
+
+Las instituciones educativas consideradas autónomas conforme la Ley, se ajustarán a sus respectivos ordenamientos en la materia.
+
+> <small>(ADICIONADO, B.O. 7 DE FEBRERO DE 2006)</small>
+
+###### ARTICULO 73 Bis.
+
+El Gobierno del Estado promoverá que sus dependencias y entidades cuenten con programas de servicio social; e impulsará la incorporación mediante convenios de los programas sociales de las instituciones del sector social a las dependencias y entidades competentes.
+
+Las escuelas de enseñanza profesional favorecerán los programas de servicio social de las dependencias y entidades estatales, debiendo promover lo necesario para que al menos una tercera parte de los alumnos que prestan su servicio social, lo lleven a cabo en dichos programas.
+
+En todo caso, la prestación de este servicio no podrá destinarse a cubrir necesidades de tipo laboral o institucional, ni otorgará categoría de trabajador al prestador del servicio.
 
 ###### ARTICULO 74.
 
@@ -588,3 +602,23 @@ IGNACIO SOTO.
 El Secretario de Gobierno,
 
 LIC. RAMON CORRAL DELGADO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+B. O. 7 DE FEBRERO DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Educación y Cultura hará del conocimiento de las escuelas de enseñanza profesional con reconocimiento de validez oficial de estudios en el Estado, los programas de servicio social de las dependencias y entidades estatales, dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Para el Ciclo Escolar 2005-2006, la Secretaría de Educación y Cultura promoverá lo necesario para que las escuelas de enseñanza profesional estén en posibilidad de iniciar con el cumplimiento de lo previsto en el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Durante el Ciclo Escolar 2005-2007, las escuelas de enseñanza profesional deberán promover lo necesario para que al menos una cuarta parte de los alumnos que prestan su servicio social, lo lleven a cabo en los programas de servicio social de las dependencias y entidades estatales, y para el Ciclo Escolar 2007-2008, habrán de hacer lo propio para que una tercera parte de sus alumnos presenten su servicio en los programas señalados.
