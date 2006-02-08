@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "2002-12-19"
+last_updated: "2006-02-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1934-08-23"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE FEBRERO DE 2006.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -2040,6 +2040,10 @@ I. Del Código Penal Federal, los delitos siguientes:
 > <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2001)</small>
 
 34) Desaparición forzada de personas previsto en el artículo 215-A.
+
+> <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 2006)</small>
+
+35) En materia de delitos ambientales, el previsto en la fracción II Bis del artículo 420.
 
 II. De la Ley Federal contra la Delincuencia Organizada, el previsto en el artículo 2.
 
@@ -4944,3 +4948,9 @@ Octavo. Los mandatos y demás operaciones que hasta antes de la fecha de entrada
 Dentro del plazo a que se refiere el Transitorio Primero de este Decreto, se deberán realizar todas las acciones conducentes a efecto de extinguir el Fideicomiso Liquidador de Instituciones y Organizaciones Auxiliares de Crédito.
 
 Noveno. Las referencias a la Ley Federal para la Administración de Bienes Asegurados, Decomisados y Abandonados que hagan las leyes y demás disposiciones, se entenderán hechas a la Ley Federal para la Administración y Enajenación de Bienes del Sector Público.
+
+D.O.F. 8 DE FEBRERO DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
