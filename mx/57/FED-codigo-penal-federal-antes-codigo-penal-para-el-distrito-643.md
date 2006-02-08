@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2005-08-23"
+last_updated: "2006-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE FEBRERO DE 2006.
 
 Código publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -2563,7 +2563,7 @@ Cuando alguno de los delitos comprendidos en este artículo se cometa en los sup
 
 Se impondrán de treinta a doscientas jornadas de trabajo en favor de la comunidad, al que sin justa causa, con perjuicio de alguien y sin consentimiento del que pueda resultar perjudicado, revele algún secreto o comunicación reservada que conoce o ha recibido con motivo de su empleo, cargo o puesto.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 211.
 
@@ -3801,7 +3801,7 @@ Delitos en materia de inhumaciones y exhumaciones
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE MAYO DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO D.O.F. 13 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 280.
 
@@ -4295,7 +4295,7 @@ Los ascendientes o tutores que entreguen en una casa de expósitos un niño que 
 
 ## TITULO VIGESIMO SEGUNDO. Delitos en contra de las personas en su patrimonio
 
-### CAPITULO I. De las actividades tecnológicas y peligrosas
+### CAPITULO PRIMERO. De las actividades tecnológicas y peligrosas
 
 > <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2002)</small>
 
@@ -4315,7 +4315,7 @@ Los ascendientes o tutores que entreguen en una casa de expósitos un niño que 
 
 (DEROGADO, D.O.F. 23 DE DICIEMBRE DE 1985)
 
-### CAPITULO II. De la biodiversidad
+### CAPITULO SEGUNDO. De la biodiversidad
 
 > <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2002)</small>
 
@@ -4381,7 +4381,7 @@ Cuando la queja fuere de calumnia, se permitirán al reo pruebas de su imputaci�
 
 No servirá de excusa de la difamación, ni de la calumnia: que el hecho imputado sea notorio, o que el reo no haya hecho más que reproducir lo ya publicado en la República o en otro país.
 
-### CAPITULO III. De la bioseguridad
+### CAPITULO TERCERO. De la bioseguridad
 
 > <small>(ADICIONADO, D.O.F. 6 DE FEBRERO DE 2002)</small>
 
@@ -4421,7 +4421,7 @@ No se admitirá prueba alguna de su imputación al acusado de calumnia, ni se li
 
 Cuando haya pendiente un juicio, en averiguación de un delito imputado a alguien calumniosamente, se suspenderá el ejercicio de la acción de calumnia hasta que dicho juicio termine. En este caso la prescripción comenzará a correr cuando termine el juicio.
 
-### CAPITULO IV. Delitos contra la gestión ambiental
+### CAPITULO CUARTO. Delitos contra la gestión ambiental
 
 > <small>(ADICIONADO, D.O.F. 6 DE FEBRERO DE 2002)</small>
 
@@ -4477,7 +4477,7 @@ Siempre que sea condenado el responsable de una injuria, de una difamación o de
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 6 DE FEBRERO DE 2002)</small>
 
-### CAPITULO V. Disposiciones comunes a los delitos contra el ambiente
+### CAPITULO QUINTO. Disposiciones comunes a los delitos contra el ambiente
 
 > <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2002)</small>
 
@@ -5443,6 +5443,10 @@ I. Capture, dañe o prive de la vida a algún ejemplar de tortuga o mamífero ma
 
 II. Capture, transforme, acopie, transporte o dañe ejemplares de especies acuáticas declaradas en veda;
 
+> <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 2006)</small>
+
+II Bis.- De manera dolosa capture, transforme, acopie, transporte, destruya o comercie con las especies acuáticas denominadas abulón y langosta, dentro o fuera de los periodos de veda, sin contar con la autorización que corresponda, en cantidad que exceda 10 kilogramos de peso y cuando las conductas a que se refiere la presente fracción se cometan por una asociación delictuosa, en los términos del artículo 164 de este Código, se estará a lo dispuesto en el artículo 194 del Código Federal de Procedimientos Penales;
+
 III. Realice actividades de caza, pesca o captura con un medio no permitido, de algún ejemplar de una especie de fauna silvestre, o ponga en riesgo la viabilidad biológica de una población o especie silvestres;
 
 IV. Realice cualquier actividad con fines de tráfico, o capture, posea, transporte, acopie, introduzca al país o extraiga del mismo, algún ejemplar, sus productos o subproductos y demás recursos genéticos, de una especie de flora o fauna silvestres, terrestres o acuáticas en veda, considerada endémica, amenazada, en peligro de extinción, sujeta a protección especial, o regulada por algún tratado internacional del que México sea parte, o
@@ -6194,3 +6198,9 @@ D.O.F. 23 DE AGOSTO DE 2005.
 Primero. Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A las personas que hayan cometido algún delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, les serán aplicables las disposiciones vigentes al momento de su comisión.
+
+D.O.F. 8 DE FEBRERO DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
