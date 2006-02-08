@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-sistema-nacional-para-el-desarrollo-14251
 country: "mx"
 rank: "estatuto"
 publication_date: "1999-06-01"
-last_updated: "2002-03-11"
+last_updated: "2006-02-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14251&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1999-05-17"
 
 ESTATUTO ORGANICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE MARZO DE 2002.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGANICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA, PUBLICADO EN EL D.O.F. DE 8 DE FEBRERO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 1 de junio de 1999.
 
@@ -709,7 +711,7 @@ XV. Intervenir en el diseño de modelos de atención de carácter integral orien
 
 > <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2002)</small>
 
-XVI.- Vigilar la debida aplicación de recursos federales en los programas de asistencia social alimentaria y de desarrollo familiar y comunitario a los que se encuentran destinados, y
+XVI. Vigilar la debida aplicación de recursos federales en los programas de asistencia social alimentaria y de desarrollo familiar y comunitario a los que se encuentran destinados, y
 
 XVII. Vigilar la debida aplicación de recursos federales en los programas de asistencia social para la infancia a los que se encuentran destinados; y
 
@@ -1022,3 +1024,11 @@ En los artículos 35 fracciones XIV y XV; 36 fracciones XI y XII; y 37 fraccione
 PRIMERO. El presente Acuerdo entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Los asuntos pendientes a la entrada en vigor de este Estatuto, que conforme al mismo deben transferirse de un área administrativa a otra, continuarán su trámite y serán resueltos por aquéllas a las que se les haya atribuido la competencia correspondiente.
+
+D.O.F. 8 DE FEBRERO DE 2006.
+
+PRIMERO. El presente Estatuto entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Estatuto Orgánico del Sistema Nacional para el Desarrollo Integral de la Familia, publicado en el Diario Oficial de la Federación el 1 de junio de 1999, así como las modificaciones del 18 de agosto de 1999 y 11 de marzo de 2002, y se derogan las disposiciones que se opongan al presente Estatuto.
+
+TERCERO. Los asuntos pendientes a la entrada en vigor de este Estatuto, que conforme al mismo deben transferirse de un área administrativa a otra, continuarán su trámite y serán resueltos por aquéllas a las que se les haya atribuido la competencia correspondiente.
