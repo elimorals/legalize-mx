@@ -4,7 +4,7 @@ identifier: "FED-ley-para-la-comprobacion-ajuste-y-computo-de-servicios-en-2550"
 country: "mx"
 rank: "ley"
 publication_date: "1943-12-31"
-last_updated: "1975-12-18"
+last_updated: "2006-02-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2550&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1943-11-29"
 
 LEY PARA LA COMPROBACION, AJUSTE Y COMPUTO DE SERVICIOS EN EL EJERCITO Y FUERZA AEREA MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE DICIEMBRE DE 1975.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY PARA LA COMPROBACION, AJUSTE Y COMPUTO DE SERVICIOS EN EL EJERCITO Y FUERZA AEREA MEXICANOS, PUBLICADA EN EL D.O.F. DE 9 DE FEBRERO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 31 de diciembre de 1943.
 
@@ -418,3 +420,15 @@ D.O.F. 18 DE DICIEMBRE DE 1975.
 Artículo Primero.- Se derogan todas las disposiciones que se opongan a lo dispuesto en este Decreto.
 
 Artículo Segundo.- Este Decreto entrará en vigor a los tres días siguientes a su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 9 DE FEBRERO DE 2006.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Para efectos de la presente Ley, se entenderá que el Ejército Nacional fue creado el 19 de febrero de 1913. No obstante, quedan comprendidos en éste los veteranos de la revolución de 1910, quienes tienen derecho al cómputo del tiempo de servicios desde el 20 de noviembre de ese mismo año, siempre y cuando no hayan militado en las filas del régimen de usurpación, en los años 1913 y 1914.
+
+Por ningún motivo se contará tiempo anterior al 20 de noviembre de 1910.
+
+TERCERO.- Se abroga la Ley para la Comprobación, Ajuste y Cómputo de Servicios, publicada en el Diario Oficial de la Federación el 31 de diciembre de 1943.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
