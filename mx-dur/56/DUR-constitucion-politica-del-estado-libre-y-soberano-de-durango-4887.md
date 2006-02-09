@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2005-11-20"
+last_updated: "2006-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 2006.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -331,9 +331,13 @@ III.- Tomar las armas en el Ejército o Guardia Nacional para asegurar y defende
 
 IV.- Asociarse individual, libre y pacíficamente para tratar los asuntos políticos del Estado;
 
-V.- Ejercer en toda clase de negocios el derecho de petición; y
+V.- Ejercer en toda clase de negocios el derecho de petición; y (sic)
 
-VI.- Ser preferido a los extranjeros, y aún a los mexicanos que no sean ciudadanos duranguenses en igualdad de circunstancias para toda clase de concesiones, y para todos los empleos, comisiones o cargos públicos.
+VI.- Ser preferido a los extranjeros, y aún a los mexicanos que no sean ciudadanos duranguenses en igualdad de circunstancias para toda clase de concesiones, y para todos los empleos, comisiones o cargos públicos;
+
+> <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 2006)</small>
+
+VII.- Iniciar leyes ante el Congreso del Estado y participar en los procesos de referéndum y plebiscito en los términos de esta Constitución y las leyes de la materia.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -343,7 +347,7 @@ VI.- Ser preferido a los extranjeros, y aún a los mexicanos que no sean ciudada
 
 #### SECCION C.- DE LA INICIATIVA Y FORMACION DE LAS LEYES
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2006)</small>
 
 ###### ARTICULO 18.
 
@@ -413,11 +417,11 @@ En los casos de pérdida de la calidad de duranguense o de ciudadano del Estado,
 
 El Estado de Durango es libre y soberano y en su régimen de Gobierno no reconoce más restricciones que las prescritas en la Constitución General de la República, a cuya observancia está obligado como Entidad Federativa de la Nación.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2006)</small>
 
 ###### ARTICULO 25.
 
-La soberanía del Estado reside esencial y originariamente en el pueblo y la ejerce por medio de sus legítimos representantes en los términos establecidos en esta Constitución. Todo poder público dimana del pueblo y se instituye para su beneficio. El pueblo tiene en todo tiempo el inalienable derecho de alterar o modificar esta Constitución, así como las demás leyes que de ella emanen.
+La soberanía del Estado reside esencial y originalmente en el pueblo, quien la ejerce por medio de sus legítimos representantes y a través de la iniciativa popular, referéndum y plebiscito, en los términos establecidos en esta Constitución y en las leyes respectivas. Todo poder público dimana del pueblo y se instituye para su beneficio. El pueblo tiene en todo tiempo el inalienable derecho de alterar o modificar esta Constitución, así como las demás leyes que de ella emanen.
 
 La renovación de los poderes Legislativo y Ejecutivo se realizará mediante elecciones libres, auténticas y periódicas, conforme a las siguientes bases:
 
@@ -429,7 +433,21 @@ Sólo los ciudadanos podrán afiliarse libre e individualmente a los partidos po
 
 Los partidos políticos nacionales y estatales registrados tendrán derecho a participar en las elecciones estatales y municipales. Así mismo tendrán derecho, a conservar su registro y a las prerrogativas que establezca la ley, todo aquel partido que alcance cuando menos el 1.5% de la votación emitida.
 
-La ley de la materia establecerá las reglas a que se sujetarán el financiamiento de los partidos políticos y sus campañas electorales, así como los límites a las erogaciones y los montos máximos que tengan las aportaciones pecuniarias de sus simpatizantes, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado y los procedimientos para el control y vigilancia del origen y uso de los recursos, estableciendo las sanciones correspondientes al incumplimiento. Igualmente fijará las condiciones de equidad para el acceso de los partidos políticos a los medios de comunicación social.
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2006)</small>
+
+Las leyes de la materia establecerán las reglas y procedimientos a que se sujetarán:
+
+a) El financiamiento público y privado de los partidos políticos y la fiscalización y control del origen y aplicación de los recursos que se utilicen en sus actividades ordinarias, precampañas y campañas electorales.
+
+b) Los límites y topes de las erogaciones realizadas en las actividades a que se refiere el inciso anterior, garantizando que los recursos públicos prevalezcan sobre los de origen privado;
+
+c) La transparencia y origen de las erogaciones realizadas por militantes o simpatizantes de los partidos en actividades político-electorales encaminadas a su postulación para cargos de elección popular;
+
+d) Las condiciones de equidad para el acceso de los partidos políticos a los medios de comunicación social.
+
+e) Las etapas y procesos de precampañas y campañas electorales a cargo de los partidos políticos, las que tendrán la duración estrictamente necesaria para el cumplimiento de su objeto; y
+
+f) Las sanciones por incumplimiento de las reglas de financiamiento, de los topes de gasto y demás disposiciones en materia electoral, garantizando que la debida concordancia entre la gravedad de la falta, la consecuencia electoral ocasionada y el rango de la sanción aplicable, preserven la eficacia de los principios constitucionales que rigen las elecciones.
 
 El financiamiento público para los partidos políticos que mantengan su registro después de cada elección se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes y las tendientes a la obtención del voto durante los procesos electorales y se otorgarán conforme a lo siguiente y a lo que disponga la ley:
 
@@ -441,23 +459,35 @@ c).- Se reintegrará un porcentaje de los gastos anuales que eroguen los partido
 
 La ley tipificará los delitos y las faltas en materia electoral y establecerá las sanciones que deban imponerse.
 
-La organización de las elecciones es una función estatal que se realiza a través de un organismo público autónomo, que se denominará Instituto Estatal Electoral de Durango, dotado de personalidad jurídica y patrimonio propios, en cuya integración concurrirán el Poder Legislativo del Estado, los partidos políticos y los ciudadanos según lo disponga la ley. En el ejercicio de esa función estatal, la certeza, legalidad, imparcialidad, objetividad e independencia serán principios rectores.
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2006)</small>
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+La organización de las elecciones es una función estatal que se realiza a través de un organismo público autónomo, que se denominará Instituto Estatal Electoral de Durango, dotado de personalidad jurídica y patrimonio propios, en cuya integración concurrirán el Poder Legislativo del Estado, los partidos políticos y los ciudadanos según lo disponga la ley. En el ejercicio de esta función estatal, la certeza, legalidad, imparcialidad, objetividad, equidad e independencia, serán principios rectores.
 
-El Instituto Estatal Electoral de Durango, será autoridad en la materia, profesional en su desempeño e independiente en su funcionamiento y decisiones; contará en su estructura con órganos de dirección, ejecutivos, técnicos y de vigilancia. El Órgano Superior de Dirección, denominado Consejo Estatal Electoral, se integrará por un Consejero Presidente, por consejeros electorales, designados en los términos que establezca la ley, con derecho a voz y voto; y, por los representantes del Poder Legislativo, quien designará uno por cada grupo parlamentario, por un representante nombrado por cada partido político con registro y un Secretario Ejecutivo, los que tendrán derecho a voz, de acuerdo con los requisitos y procedimientos que establezca la ley de la materia. Los órganos ejecutivos y técnicos, dispondrán del personal necesario para prestar el servicio profesional electoral. Los órganos de vigilancia se integrarán mayoritariamente por representantes de los partidos políticos con los requisitos y procedimientos que la ley establezca. Las mesas directivas de casillas estarán integradas por ciudadanos.
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2006)</small>
+
+El Instituto Estatal Electoral de Durango, será autoridad en la materia, profesional en su desempeño e independiente de su funcionamiento y decisiones; contará en su estructura con órganos de dirección, ejecutivos, técnicos y de vigilancia y control. El Órgano Superior de Dirección, denominado Consejo Electoral, se integrará por un Consejero Presidente, por consejeros electorales, designados en los términos que establezca la ley, con derecho a voz y voto; y, por los representantes del Poder Legislativo, quien designará uno por cada grupo parlamentario, por un representante nombrado por cada partido político con registro y un Secretario Ejecutivo, los que tendrán derecho a voz, de acuerdo con los requisitos y procedimientos que establezca la ley de la materia. Los órganos ejecutivos y técnicos, dispondrán del personal necesario para prestar el servicio profesional electoral. Los órganos de vigilancia se integrarán mayoritariamente por representantes de los Partidos Políticos con los requisitos y procedimientos que la Ley establezca. Las mesas directivas de casilla estarán integradas por ciudadanos.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2006)</small>
+
+La comisión especial de control y fiscalización de la transparencia, origen y aplicación del financiamiento público y privado actuará con las atribuciones técnicas y administrativas que determine la ley, la que señalará su forma de integración y garantizará su imparcialidad y objetividad como instancia de apoyo a las resoluciones que tome el Instituto en estas materias.
 
 El Instituto Estatal Electoral de Durango, tendrá a su cargo en forma integral y directa, además de las que le determine la ley, las actividades relativas al padrón y lista de electores, preparación de la jornada electoral, cómputos y otorgamiento de constancias, en los términos que señale la ley, capacitación electoral y educación cívica e impresión de materiales electorales, así como la regulación de la observación electoral, de las encuestas o sondeos de opinión con fines electorales. Asimismo, atenderá lo relativo a los derechos y prerrogativas de las agrupaciones y de los partidos políticos. Las sesiones de todos los órganos colegiados electorales serán públicas en los términos que determine la ley.
 
-Para garantizar el principio de legalidad de los actos y resoluciones electorales, la ley establecerá un sistema de medios de impugnación, en el cual se fijen los plazos convenientes para el desahogo de todas las instancias impugnativas. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará la protección de los derechos políticos de los ciudadanos de votar y ser votado y de asociación.
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2006)</small>
 
-En materia electoral la interposición de los recursos no producirá, en ningún caso, efectos suspensivos del acto o resolución impugnado.
+El Instituto Estatal Electoral organizará, desarrollará y vigilará los procesos de referéndum y plebiscito, en los términos de esta Constitución y de la Ley respectiva. Las autoridades estatales y municipales, según el caso, deberán proporcionar los medios para el cumplimiento de esta función de orden público.
 
-Los Consejeros Electorales del Instituto Estatal Electoral deberán satisfacer los requisitos que señale la ley y serán electos por el voto de las dos terceras partes de los miembros de la Cámara de Diputados de entre las propuestas presentadas por los grupos parlamentarios de la propia Cámara.
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2006)</small>
 
-La ley señalará las reglas y el procedimiento correspondientes.
+Para garantizar el principio de legalidad de los actos y resoluciones electorales, y de los procesos de referéndum y plebiscito, la ley establecerá un sistema de medios de impugnación, en el cual se fijen los plazos convenientes para el desahogo de todas las instancias impugnativas. El sistema dará definitividad a las distintas etapas de dichos procesos y garantizará la protección de los derechos políticos de los ciudadanos de votar y ser votado y de asociación.
 
-Durante los recesos del Congreso del Estado, para la elección a que se refieren los dos párrafos anteriores, se convocará a un período extraordinario de sesiones.
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2006)</small>
+
+En las materias a que se refiere el párrafo anterior, la interposición de los recursos no producirá, en ningún caso, efectos suspensivos del acto o resolución impugnado.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2006)</small>
+
+Los Consejeros Electorales del Instituto Estatal Electoral, deberán satisfacer los requisitos que señale la ley y serán electos por el voto de las dos terceras partes de los miembros de la legislatura, de entre los aspirantes que hayan atendido la convocatoria previamente emitida por el Congreso del Estado. La ley señalará las reglas y el procedimiento correspondientes. Durante los recesos del Congreso del Estado, para la elección de los Consejeros electorales se convocará a un periodo extraordinario de sesiones.
 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -469,7 +499,7 @@ El Estado de Durango está integrado por los siguientes Municipios: Canatlán, C
 
 ###### ARTICULO 27.
 
-El Estado de Durango reconoce y adopta en su régimen interior la forma de Gobierno republicano, representativo y popular, teniendo como base de su división territorial y de su organización política y administrativa el Municipio Libre, de acuerdo con las bases que señala la Constitución General de la República.
+El Estado de Durango reconoce y adopta en su régimen interior la forma de Gobierno republicano, democrático, representativo, participativo y popular, teniendo como base de su división territorial y de su organización política y administrativa el Municipio Libre, de acuerdo con las bases que señala la Constitución General de la República y en los términos de esta Constitución.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -493,17 +523,23 @@ El ejercicio de las funciones que ésta Constitución señala al Poder Legislati
 
 El Congreso se integra con Diputados electos popular y directamente cada tres años. Par (sic) cada Diputado Propietario se elegirá un Suplente.
 
-> <small>(REFORMADO, P.O. 19 DE MARZO DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2006)</small>
 
 ###### ARTICULO 31.
 
-El Congreso del Estado se integrará con 15 diputados electos según el principio de votación mayoritaria relativa en distritos electorales uninominales, y con 10 diputados que serán electos según el principio de representación proporcional, mediante listas votadas en la circunscripción plurinominal que corresponderá a la totalidad del territorio del Estado.
+El Congreso del Estado se integrará con treinta diputados, de los cuales diecisiete serán electos según el principio de votación mayoritaria relativa en distritos electorales uninominales, y trece que serán electos según el principio de representación proporcional, mediante listas votadas en la circunscripción plurinominal que corresponderá a la totalidad del territorio del Estado.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2006)</small>
+
+Los partidos políticos registrarán del total de sus candidatos, a por lo menos un representante de la población duranguense migrante del Estado, en los términos que establezca la legislación electoral.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 1989)</small>
 
 La elección de los diputados de representación proporcional, bajo el sistema de listas, deberá sujetarse a lo que en particular disponga la legislación electoral relativa, de conformidad con las siguientes bases:
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2006)</small>
 
-I.- Para obtener la inscripción de sus listas, el partido político que lo solicite, deberá acreditar que tiene su registro y que participa con candidatos a diputados por mayoría relativa en por lo menos dos terceras partes de los distritos electorales uninominales.
+I.- Para obtener la inscripción de sus listas, el partido político que lo solicite, deberá acreditar que tiene su registro y que participa con candidatos a diputados por mayoría relativa en por lo menos doce distritos electorales uninominales;
 
 > <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 1994)</small>
 
@@ -511,9 +547,15 @@ II.- Tendrá derecho a que le sean asignados diputados electos según el princip
 
 III.- Al partido que se encuentre dentro de los supuestos señalados en las fracciones I y II de este artículo, le serán asignados los diputados que correspondan de acuerdo al porcentaje de votos obtenidos en la circunscripción. La legislación electoral relativa, determinará las fórmulas electorales y los procedimientos que se observarán en dicha asignación; en todo caso, se seguirá el orden que tuviesen los candidatos en las listas correspondientes.
 
-La demarcación territorial de los quince distritos electorales uninominales, será la que resulte de dividir la población total del Estado entre los distritos señalados y será fijada en el Código Estatal Electoral.
+> <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 2006)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MAYO DE 1997)</small>
+IV.- Ningún partido político podrá contar con más de dieciocho diputados electos por ambos principios.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2006)</small>
+
+La demarcación territorial de los diecisiete distritos electorales uninominales, será la que resulte de dividir la población total del Estado entre los distritos señalados y será fijada en el Código Estatal Electoral.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2006)</small>
 
 #### SECCION C.- DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR
 
@@ -523,9 +565,11 @@ La demarcación territorial de los quince distritos electorales uninominales, se
 
 Para ser Diputado Propietario y Suplente se requiere:
 
-> <small>(REFORMADA, P.O. 19 DE MARZO DE 1989)</small>
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2006)</small>
 
-I.- Ser ciudadano duranguense por nacimiento, en pleno ejercicio de sus derechos, o ciudadano duranguense en pleno ejercicio de sus derechos con residencia efectiva dentro del territorio del Estado que no sea menor de seis años inmediatamente anteriores al día de la elección. Si es nativo del Estado, tener cuando menos dos años de residencia efectiva dentro del territorio del Estado inmediatamente anteriores al día de la elección;
+I.- Ser ciudadano duranguense por nacimiento, en pleno ejercicio de sus derechos, o ciudadano duranguense en pleno ejercicio de sus derechos con residencia efectiva dentro del territorio del Estado que no sea menor de seis años inmediatamente anteriores al día de la elección. Si es nativo del Estado, tener cuando menos dos años de residencia efectiva dentro del territorio del Estado inmediatamente anteriores al día de la elección.
+
+Los duranguenses que tengan la calidad de migrantes, no requerirán de la residencia efectiva dentro del territorio del Estado prevista en esta fracción: La ley de la materia establecerá los requisitos para ser considerado duranguense migrante;
 
 > <small>(REFORMADA, P.O. 19 DE MARZO DE 1989)</small>
 
@@ -651,7 +695,7 @@ En la Junta Preparatoria a que se refiere el Artículo anterior, los Diputados e
 
 ### CAPITULO TERCERO. DE LA FORMA DE GOBIERNO
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2006)</small>
 
 ###### ARTICULO 45.
 
@@ -697,17 +741,37 @@ A efecto de garantizar la libre expresión de las corrientes ideológicas, repre
 
 ###### ARTICULO 50.
 
-El derecho de iniciar leyes y decretos compete:
+El derecho de iniciar Leyes y Decretos compete:
 
-I.- A los Diputados al Congreso del Estado.
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+I.- A los Diputados al Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 II.- Al Gobernador del Estado;
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 1997)</small>
 
-III.- Al Tribunal Superior de Justicia; y
+III.- Al Tribunal Superior de Justicia; y (sic)
 
-IV.- A los Ayuntamientos en lo relativo a la Administración Municipal.
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+IV.- A los Ayuntamientos en lo relativo a la Administración Municipal;
+
+> <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 2006)</small>
+
+V.- A los ciudadanos duranguenses, en los términos de la ley respectiva.
+
+> <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 2006)</small>
+
+No podrán ser objeto de iniciativa popular las siguientes materias:
+
+a) Tributaria o fiscal, así como de egresos del Estado;
+
+b) Régimen interno de los poderes del Estado; y
+
+c) Las demás que determinen las leyes.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -771,15 +835,15 @@ I.- Resolver sobre los convenios que el Ejecutivo celebre con los Estados vecino
 
 II.- Legislar en lo relativo a la administración interior del Estado;
 
-(REFORMADO PRIMER PARRAFO, P.O. 20 DE NOVIEMBRE DE 2005) (F. DE E., P.O. 19 DE ENERO DE 2006)
+(REFORMADO PRIMER PARRAFO, P.O. 20 DE NOVIEMBRE DE 2005) (F. DE E. 19 DE ENERO DE 2006)
 
 III.- Aprobar y modificar el presupuesto de egresos del Estado y decretar contribuciones suficientes para cubrirlo, tomando en consideración las participaciones y subsidios federales y estatales, en su caso.
 
-(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2005) (F. DE E., P.O. 19 DE ENERO DE 2006)
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2005)</small>
 
 En el presupuesto de egresos, el Congreso deberá aprobar las partidas necesarias para solventar obligaciones que constituyan deuda pública del Estado y las demás entidades paraestatales que cuenten con la garantía del Estado, cuando dichas obligaciones hayan sido incurridas en ejercicios fiscales anteriores y comprendan dos o mas ejercicios fiscales, conforme a lo autorizado por las leyes y decretos correspondientes, así como las que se deriven de los Proyectos de Inversión y Prestación de Servicios aprobados por el Congreso conforme a la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Durango y las demás leyes aplicables;
 
-(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2005) (F. DE E., P.O. 19 DE ENERO DE 2006)
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2005)</small>
 
 Si el Congreso, dejare de aprobar para un ejercicio fiscal, la Ley de Ingresos del Estado y de los Municipios, así como la Ley de Egresos del Estado, continuarán rigiendo las leyes que estuvieran vigentes en ésta materia en el ejercicio inmediato anterior.
 
@@ -1634,6 +1698,10 @@ XVIII. Las demás que le confieren esta Constitución y las leyes.
 El Tribunal Estatal Electoral, será la máxima autoridad jurisdiccional en la materia y órgano especializado del Poder Judicial del Estado. Para el ejercicio de sus atribuciones, el Tribunal funcionará con una Sala Colegiada y sus sesiones de resolución serán públicas, en los términos que determine la ley. Contará con el personal jurídico y administrativo necesario para su adecuado funcionamiento. La Sala se integrará con tres magistrados electorales, que ejercerán el cargo por un período de cuatro años, en cuyo lapso, solamente desempeñarán su responsabilidad durante las fases en que deban verificarse procesos electorales, espacio que comprenderá todo el año respectivo y el mes de diciembre anterior al señalado para elecciones. Durante los períodos de receso, su Presidente quedará en funciones para en caso necesario, llamar para integrar la Sala del Tribunal a los Magistrados, para sustanciar y resolver el o los casos presentados, hecho lo cual, suspenderá las actividades. Los Magistrados Electorales gozarán de licencias, por el plazo que funjan como tales, en los cargos que vengan desempeñando cuando éstos tengan carácter de oficiales. El periodo de nombramiento, podrá ser prorrogado por una sola ocasión durante cuatro años. El Presidente del Tribunal, será elegido de entre sus miembros, para fungir durante cuatro años.
 
 El Tribunal Estatal Electoral, se organizará en los términos que señale la ley; realizará la declaración de validez de la elección de Gobernador y declarará electo como tal, al ciudadano que hubiese obtenido el mayor número de votos, una vez resueltas en su caso, las impugnaciones que se hubieren interpuesto sobre la misma; resolverá en forma definitiva, en los términos de esta Constitución y de la ley, las impugnaciones de que deba conocer y las que establece el artículo 37 de esta Constitución.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2006)</small>
+
+El Tribunal Estatal Electoral sustanciará y resolverá en forma definitiva las impugnaciones que se interpongan en los procesos de plebiscito y referéndum.
 
 Para el ejercicio de su competencia, los magistrados electorales serán independientes y responderán sólo al mandato de la ley. Serán electos por el voto de las dos terceras partes de los miembros del Congreso, de entre las ternas propuestas por el Tribunal Superior de Justicia, a través del Consejo de la Judicatura, las que integrará conforme a lo que disponga la Ley Orgánica del Poder Judicial. Si dicha mayoría no se logra en la primera votación, se presentarán nuevas ternas en los términos anteriores, hasta lograr la integración del órgano.
 
@@ -2688,3 +2756,17 @@ P.O. 20 DE NOVIEMBRE DE 2005.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones legales que se opongan al presente decreto.
+
+P.O. 9 DE FEBRERO DE 2006.
+
+PRIMERO.- El presente decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado.
+
+SEGUNDO.- El Congreso del Estado expedirá la ley o leyes que regulen el procedimiento en las materias a que se refieren las reformas contenidas en el presente decreto y llevará a cabo las modificaciones necesarias a los ordenamientos legales que correspondan; en un plazo no mayor de ciento ochenta días, a partir de la entrada en vigor del presente decreto.
+
+TERCERO.- El proceso de homologación de las elecciones federales con las elecciones locales, comenzará a partir del proceso electoral ordinario del año 2010, debiendo quedar igualados ambos comicios electorales en el año 2015, Para dar cumplimiento a lo anterior, por única ocasión el Gobernador Constitucional electo en el año 2010, durará en su encargo cinco años, hasta el día 15 del mes de septiembre del año 2015. Los Ayuntamientos y Diputados Locales que sean electos en el año 2010, por única ocasión, durarán en su encargo dos años, hasta el día 31 de agosto de 2012
+
+CUARTO.- Los derechos de los ciudadanos y procedimientos de participación, relativos a plebiscito, referéndum e iniciativa popular a que se refieren los artículos 17 fracción VII, y 50 fracción V de esta Constitución, se ejercerán y aplicarán en el Estado, una vez que el Congreso expida la ley de la materia, lo cual deberá realizarse en un plazo de un año a partir de la entrada vigor del presente decreto.
+
+QUINTO.- Las facultades establecidas al Consejo Estatal Electoral y al Comité de Supervisión del financiamiento de los partidos políticos y agrupaciones políticas en materia de financiamiento y fiscalización, permanecerán vigentes hasta en tanto el Congreso del Estado lleve a cabo las reformas correspondientes al Código Estatal Electoral, en los tiempos establecidos en el presente decreto.
+
+SEXTO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
