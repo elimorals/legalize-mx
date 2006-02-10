@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-administracion-publica-antes-17660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2005-09-30"
+last_updated: "2006-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2006.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -329,7 +329,7 @@ XXII.- Supervisar el buen uso y mantenimiento de los recursos materiales que ten
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE AGOSTO DE 2004)</small>
 
-XXIII.- Presentar la Declaración Patrimonial, conforme lo establece la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California;
+XXIII.- Presentar la Declaración Patrimonial, conforme lo establece la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
 
 > <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2004)</small>
 
@@ -433,7 +433,9 @@ VIII.- Dirección de Ecología;
 
 IX.- Dirección de Seguridad Pública;
 
-X.- Dirección de Bomberos y Protección Civil;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2006)</small>
+
+X.- Dirección del Heroico Cuerpo de Bomberos;
 
 XI.- Dirección de Comunicación Social;
 
@@ -511,7 +513,7 @@ I.- Organizar y conducir reuniones de gabinete o módulos por áreas, proyectos 
 
 II.- Revisar y opinar sobre convenios, acuerdos, iniciativas legislativas y de reglamentación, nuevos proyectos y asuntos diversos que solicite el Presidente Municipal, o que estén relacionados con su función;
 
-III.- Integrar opiniones e información de titulares de las dependencias y entidades en propuestas sobre proyectos, acuerdos y demás asuntos en los que deba asesorarse al Presidente Municipal;
+III.- Integrar opiniones e información de titulares de las depedencias y entidades en propuestas sobre proyectos, acuerdos y demás asuntos en los que deba asesorarse al Presidente Municipal;
 
 IV.- Conciliar las diferencias que se generen entre dependencias o entidades, en relación a sus competencias o al ejercicio de sus atribuciones; y,
 
@@ -653,7 +655,7 @@ XII.- Supervisar las actividades que desarrollen los Jueces Calificadores;
 
 XIII.- Ejercer las atribuciones que correspondan al gobierno municipal, en materia de control de la venta, almacenaje y consumo de bebidas con graduación alcohólica;
 
-XIV.- Controlar y autorizar el uso y ocupación de la vía pública por personas, para el desarrollo de actividades diversas al tránsito vehicular y peatonal; y (sic9,
+XIV.- Controlar y autorizar el uso y ocupación de la vía pública por personas, para el desarrollo de actividades diversas al tránsito vehicular y peatonal; y (sic),
 
 XV.- Presidir en representación del Presidente Municipal, organizar y vigilar el cumplimiento de las funciones de la Junta Municipal de Reclutamiento;
 
@@ -1527,9 +1529,9 @@ I.- Aplicar las disposiciones reglamentarias y normativas en materia de preserva
 
 II.- Detectar e intervenir fuentes contaminantes de relevancia a fin de priorizar recursos y dictar las medidas pertinentes para prevenir, corregir y/o subsanar cualquier impacto negativo al ambiente y a la salud pública.
 
-### CAPITULO DECIMO PRIMERO. DE LA DIRECCION DE BOMBEROS
+### CAPITULO DECIMO PRIMERO. DE LA DIRECCION DEL HEROICO CUERPO DE BOMBEROS
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2006)</small>
 
 ###### ARTICULO 90.
 
@@ -1867,31 +1869,45 @@ XII.- Formular, fomentar y desarrollar cursos para la población en general en m
 
 XIII.- Establecer coordinación con otras instancias, para promover el desarrollo escolar de los elementos de la corporación.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE FEBRERO DE 2006)</small>
 
 ### CAPITULO DECIMO SEGUNDO. DE LA DIRECCION DE COMUNICACION SOCIAL
 
 ###### ARTICULO 101.
 
-La Dirección de Bomberos tendrá las siguientes atribuciones:
+La Dirección del Heroico Cuerpo de Bomberos tendrá las siguientes atribuciones:
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2004)</small>
 
 I.- Vigilar el cumplimiento de la normatividad en relación con la prevención de incendios;
 
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2004)</small>
+
 II.- Implementar programas de inspección y revisión de edificaciones, a fin de verificar que cumplen con las disposiciones relativas a la prevención de incendios;
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2004)</small>
 
 III.- Desarrollar programas para instruir a la comunidad en materia de prevención de incendios;
 
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2004)</small>
+
 IV.- Implementar acciones para el control y extinción de incendios, rescate de personas y bienes, así como salvamento a personas en peligro de perder la vida en casos de siniestros;
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2004)</small>
 
 V.- Desarrollar y coordinar la implementación de los planes de contingencias para la atención y control de eventualidades con riesgo de siniestros.
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2006)</small>
 
 ###### ARTICULO 102.
 
-La Dirección de Bomberos para el cumplimiento de sus atribuciones contará con el apoyo de una coordinación administrativa, así mismo, tendrá bajo su cargo los siguientes departamentos:
+La Dirección del Heroico Cuerpo de Bomberos para el cumplimiento de sus atribuciones contará con el apoyo de una coordinación administrativa, asimismo, tendrá bajo su cargo los siguientes departamentos:
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2004)</small>
 
 I.- Técnico; y
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2004)</small>
 
 II.- Operativo.
 
@@ -2864,3 +2880,7 @@ P.O. 30 DE SEPTIEMBRE DE 2005.
 ###### ARTÍCULO ÚNICO.
 
 Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE FEBRERO DE 2006.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
