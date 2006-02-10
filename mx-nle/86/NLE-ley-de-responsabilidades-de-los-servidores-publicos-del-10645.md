@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-responsabilidades-de-los-servidores-publicos-del-10645"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-29"
-last_updated: "2006-01-25"
+last_updated: "2006-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 29 de enero de 1997.
 
@@ -517,9 +517,13 @@ LXIII.- Desempeñar su función pública sin solicitar ni aceptar compensaciones
 
 > <small>(REFORMADA, P.O. 25 DE ENERO DE 2006)</small>
 
-LXIV.- Abstenerse de otorgar licencias o permisos en materia de desarrollo urbano en contravención a las leyes, normas, sistemas y procedimientos establecidos en las zonas de riesgo determinadas en el Atlas de Riesgo. En los demás casos, se estará a lo que establezcan las disposiciones de esta Ley; y
+LXIV.- Abstenerse de otorgar licencias o permisos en materia de desarrollo urbano en contravención a las leyes, normas, sistemas y procedimientos establecidos en las zonas de riesgo determinadas en el Atlas de Riesgo. En los demás casos, se estará a lo que establezcan las disposiciones de esta Ley; y (sic)
 
-LXV.- Las demás que le impongan las leyes y disposiciones reglamentarias o administrativas.
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2006)</small>
+
+LXV.- Abstenerse de colaborar, participar, encubrir o facilitar la distribución, venta o comercialización de bebidas alcohólicas en contravención de las disposiciones establecidas en la Ley Estatal de Prevención y Combate al Abuso del Alcohol; y
+
+LXVI.- Las demás que le impongan las leyes y disposiciones reglamentarias o administrativas.
 
 ### CAPÍTULO II. DE LAS SANCIONES POR RESPONSABILIDAD ADMINISTRATIVA
 
@@ -1386,3 +1390,15 @@ P.O. 25 DE ENERO DE 2006.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Las normas, sistemas, procedimientos y sanciones establecidas por incumplimiento a lo dispuesto para las zonas de riesgo se aplicarán al día siguiente a la fecha en que se publique el Atlas de Riesgo en el Periódico Oficial del Estado.
+
+P.O. 10 DE FEBRERO DE 2006.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- El artículo 22 fracción XVII de la Ley Orgánica de la Administración Pública para el Estado de Nuevo León entrará en vigor el día 15 de febrero de 2006.
+
+Artículo Tercero.- El Ejecutivo del Estado y las autoridades municipales en el ámbito de su competencia, deberán expedir, en un término que no exceda de noventa días contados a partir de la entrada en vigor del presente decreto, las disposiciones reglamentarias que regulen el servicio comunitario.
+
+Artículo Cuarto.- El Ejecutivo del Estado deberá expedir en un plazo no mayor a 90 días hábiles contados a partir de la entrada en vigor del presente Decreto el Reglamento del Consejo Estatal de Salud, en el cual deberán regularse las funciones del Consejo y sus Comisiones, así como la integración de éstas.
+
+Artículo Quinto.- Se concede a las personas físicas y morales que transporten con fines comerciales bebidas alcohólicas dentro del Estado de Nuevo León, un plazo de 60 días hábiles a partir de la entrada en vigor del presente Decreto, para obtener la Autorización de Transporte de Bebidas Alcohólicas expedida por la Secretaría de Salud, en los términos de las disposiciones de este Decreto.
