@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interno-del-archivo-municipal-16603"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-06-16"
-last_updated: "2004-09-10"
+last_updated: "2006-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16603&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 REGLAMENTO INTERNO DEL ARCHIVO MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 16 de junio de 2000.
 
@@ -75,11 +75,19 @@ Para cumplir los objetivos anteriores, se podrán utilizar las técnicas, sistem
 
 El acervo del Archivo Municipal es de carácter público, y está constituido principalmente por la documentación concentrada de las dependencias del Municipio y las recibidas directamente del Estado o la Federación.
 
+> <small>N. DE E. DE CONFORMIDAD CON LAS MODIFICACIONES APROBADAS Y PUBLICADAS, SE SEÑALA QUE SE REFORMA EL ARTICULO 7; SIN EMBARGO, DEL CONTEXTO SE DESPRENDE QUE EL CAMBIO CITADO CORRESPONDE AL PRESENTE ARTICULO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2006)</small>
+
 ###### Artículo 4.
 
-La documentación será depurada por la Comisión Dictaminadora de Depuración de Documentos, la cual al analizarla, decidirá sobre su conservación o destrucción tomando en cuenta la siguiente información sobre la clasificación de la documentación:
+La Comisión Dictaminadora de Depuración de Documentos, analizará la documentación y resolverá sobre su conservación o destrucción, tomando en cuenta el tipo de información que contenga. La documentación se clasifica de la manera siguiente:
 
-I. Fondo Administrativo: su documentación tiene una vida útil de 30 años a partir de su expedición, dependiendo del documento que se trate, su consulta y utilización es necesaria para el trámite de asuntos relacionados con la gestión municipal. La consulta de este material queda reservada para el personal de la Dependencia que lo generó.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2006)</small>
+
+I. Fondo Administrativo: su documentación tiene una vida útil de 1 a 12 años a partir de su expedición, dependiendo del documento de que se trate; su consulta y utilización es necesaria para el trámite de asuntos relacionados con la gestión municipal.
+
+La consulta de este material queda reservada para consulta de la Dependencia generadora y a lo dispuesto por la Ley Estatal de Acceso a la Información Gubernamental en el Estado de Querétaro y disposiciones legales y administrativas aplicables.
 
 II. Fondo Histórico: está integrado por la documentación que concluyó su vida útil para la Administración Municipal, su consulta queda abierta a investigadores, servidores y público en general, no permitiendo la salida de ningún documento, salvo en casos especiales como exposiciones o intercambios culturales. Este fondo se enriquece con compras, donaciones y microfilms.
 
@@ -304,3 +312,11 @@ PRIMERO. Publíquese la presente reforma por una sola ocasión en la Gaceta Muni
 SEGUNDO. La presente reforma entrará en vigor el día siguiente al de su publicación en la Gaceta Municipal.
 
 TERCERO. Comuníquese al Titular de la Secretaría del Ayuntamiento, al Director del Archivo Municipal, al Titular de la Secretaría de la Contraloría Municipal.
+
+P.O. 10 DE FEBRERO DE 2006.
+
+PRIMERO. Publíquese el presente acuerdo en la Gaceta Municipal y en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO. La presente reforma entrará en vigor el día siguiente al de su publicación en los medios de difusión precisados en el transitorio anterior.
+
+TERCERO. Notifíquese a los titulares de las Dependencias, Organismos y Unidades Municipales, que conforman la presente Administración.
