@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-administracion-publica-para-el-estado-de-343
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-10-09"
-last_updated: "2003-10-09"
+last_updated: "2006-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA PARA EL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 9 de octubre de 2003.
 
@@ -273,9 +273,15 @@ XIV. Coordinarse con las instancias federales, estatales y municipales, dentro d
 
 XV. Ejercer las atribuciones establecidas en las disposiciones jurídicas relacionadas con los servicios privados de seguridad;
 
-XVI. Auxiliar al Ministerio Público, autoridades judiciales y administrativas cuando sea requerida para ello, y
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2006)</small>
 
-XVII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas vigentes en la materia.
+XVI. Auxiliar al Ministerio Público, autoridades judiciales y administrativas cuando sea requerida para ello;
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2006)</small>
+
+XVII. Colaborar con la autoridad competente en materia de expedición de licencias para conducir en la integración de un Sistema Único de Información de los antecedentes de los conductores de vehículos en el Estado; y
+
+XVIII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas en la materia.
 
 ###### Artículo 23.
 
@@ -327,9 +333,13 @@ III. Promover, organizar y realizar estudios con el fin de incrementar los ingre
 
 IV. Proponer al Gobernador las políticas de recaudación impositiva y, en su caso, velar por su aplicación;
 
-V. Ejercer las atribuciones derivadas de los convenios fiscales que celebre el Gobierno del Estado con el Gobierno Federal, con los municipios de la entidad y con los gobiernos de otros Estados de la República;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2006)</small>
 
-VI. Constituir y actualizar los padrones de contribuyentes, controlar el cumplimiento de sus obligaciones, ejercer la facultad económico-coactiva y las acciones de fiscalización tendientes a evitar la evasión y elusión por parte de los mismos, aplicando las sanciones que correspondan en caso de infracciones a las disposiciones tributarias;
+V. Ejercer en el ámbito de su competencia las atribuciones derivadas de los convenios fiscales que celebre el Gobierno del Estado con el Gobierno Federal, con los municipios de la entidad y con los gobiernos de otros Estados de la República;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2006)</small>
+
+VI. Constituir y actualizar los padrones de contribuyentes, controlar el cumplimiento de sus obligaciones, ejercer la facultad económica-coactiva y las acciones de fiscalización tendientes a evitar la evasión y elusión por parte de los mismos, aplicando las sanciones que correspondan en caso de infracciones a las disposiciones tributarias del ámbito de su competencia;
 
 VII. Instrumentar y vigilar la correcta aplicación de subsidios y exenciones fiscales;
 
@@ -363,7 +373,7 @@ XXI. Recibir los programas operativos anuales elaborados por las dependencias y 
 
 XXII. Elaborar, en coordinación con el responsable del área de Planeación Gubernamental, los programas estatales de inversión y someterlos al Ejecutivo para su aprobación, observando congruencia con los planes y estrategias de Gobierno;
 
-XXIII. Expedir licencias de conducir, placas y tarjetas de circulación de vehículos;
+XXIII. (DEROGADA, P.O. 10 DE FEBRERO DE 2006)
 
 XXIV. Integrar y mantener actualizada la información catastral del Estado en los términos de la Ley de la materia, y
 
@@ -986,3 +996,17 @@ JOSÉ NATIVIDAD GONZÁLEZ PARÁS
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 LIC. NAPOLEÓN CANTÚ CERNA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 10 DE FEBRERO DE 2006.
+
+Artículo Primero.- El presente Decreto entrada en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- El artículo 22 fracción XVII de la Ley Orgánica de la Administración Pública para el Estado de Nuevo León entrará en vigor el día 15 de febrero de 2006.
+
+Artículo Tercero.- El Ejecutivo del Estado y las autoridades municipales en el ámbito de su competencia, deberán expedir, en un término que no exceda de noventa días contados a partir de la entrada en vigor del presente decreto, las disposiciones reglamentarias que regulen el servicio comunitario.
+
+Artículo Cuarto.- El Ejecutivo del Estado deberá expedir en un plazo no mayor a 90 días hábiles contados a partir de la entrada en vigor del presente Decreto el Reglamento del Consejo Estatal de Salud, en el cual deberán regularse las funciones del Consejo y sus Comisiones, así como la integración de éstas.
+
+Artículo Quinto.- Se concede a las personas físicas y morales que transporten con fines comerciales bebidas alcohólicas dentro del Estado de Nuevo León, un plazo de 60 días hábiles a partir de la entrada en vigor del presente Decreto, para obtener la Autorización de transporte de Bebidas Alcohólicas expedida por la Secretaría de Salud, en los términos de las disposiciones de este Decreto.
