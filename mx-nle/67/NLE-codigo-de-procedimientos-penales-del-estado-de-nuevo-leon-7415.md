@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-penales-del-estado-de-nuevo-leon-7415"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-28"
-last_updated: "2005-12-07"
+last_updated: "2006-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de marzo de 1990.
 
@@ -1707,11 +1707,11 @@ El Ministerio Público estará obligado a precisar de una manera breve el hecho 
 
 En caso de que la detención de una persona exceda de los términos señalados en el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos y 3 fracción IV, tercer párrafo de este Código, se presumirá que estuvo incomunicada y las declaraciones que haya rendido no tendrán validez.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2006)</small>
 
 ###### ARTICULO 194.
 
-El Ministerio Público podrá otorgar la libertad bajo caución del inculpado en los supuestos previstos por el artículo 493, fijando la caución que corresponda conforme al artículo 20 fracción I de la Constitución Política de los Estados Unidos Mexicanos y 497 de este código, sin perjuicio de solicitar su Arraigo en caso necesario.
+El Ministerio Público no podrá otorgar la libertad bajo caución del inculpado cuando exista culpa grave por conducir en estado de voluntaria intoxicación que produzca homicidio o lesiones graves. Si podrá otorgarse la libertad provisional en los supuestos previstos por el artículo 493, fijando la caución que corresponda conforme al artículo 20 fracción I de la Constitución Política de los Estados Unidos Mexicanos y 497 de este Código, sin perjuicio de solicitar su Arraigo en caso necesario.
 
 > <small>(REFORMADO, P.O. 29 DE ENERO DE 1997)</small>
 
@@ -3783,7 +3783,7 @@ La resolución que declare procedente este incidente, tendrá los mismos efectos
 
 ### CAPITULO PRIMERO. LIBERTAD PROVISIONAL BAJO CAUCION
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2006)</small>
 
 ###### ARTICULO 487.
 
@@ -3829,9 +3829,13 @@ No procederá recurso alguno contra cualquier auto o resolución distintos a los
 
 ###### ARTICULO 493.
 
-Todo inculpado tendrá derecho durante la averiguación previa y en el proceso judicial, a ser puesto en libertad provisional bajo caución, inmediatamente que lo solicite, si se reúnen los siguientes requisitos:
+Con la excepción establecida en el artículo 194 de este Código, todo inculpado tendrá derecho durante la averiguación previa y en el proceso judicial, a ser puesto en libertad provisional bajo caución, inmediatamente que lo solicite, si se reúnen los siguientes requisitos:
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1994)</small>
 
 I.- Que garantice el monto estimado de la reparación del daño.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
 
 Tratándose de delitos que afecten la vida o la integridad corporal, el monto de la reparación no podrá ser menor del que resulte aplicándosele las disposiciones relativas a la Ley Federal del Trabajo.
 
@@ -3839,11 +3843,21 @@ Tratándose de delitos que afecten la vida o la integridad corporal, el monto de
 
 En el caso de delitos que afectan la vida, el monto de la reparación será de tres tantos de lo establecido por la Ley Federal del Trabajo;
 
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1994)</small>
+
 II.- Que garantice el monto estimado de las sanciones pecuniarias que, en su caso, puedan imponérsele;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1994)</small>
 
 III.- Que otorgue caución para el cumplimiento de las obligaciones que en términos de ley se deriven a su cargo en razón del proceso; y
 
-IV.- Que no se trate de los casos de delitos graves previstos en las tres fracciones del artículo 16 bis del código penal.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2006)</small>
+
+IV.- Que no se trate de los casos de delitos graves previstos en las cuatro fracciones del artículo 16 bis del Código Penal.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2006)</small>
+
+ARTICULO 493 bis.- En caso de delitos no graves, a solicitud del Ministerio Público, el Juez podrá negar la libertad provisional, cuando el inculpado haya sido condenado con anterioridad, por algún delito calificado como grave por la Ley, o cuando el Ministerio Público aporte elementos al Juez para establecer que la libertad del inculpado representa, por su conducta precedente o por las circunstancias y características del delito cometido, un riesgo para el ofendido o para la sociedad.
 
 ###### ARTICULO 494.
 
@@ -5322,3 +5336,15 @@ P.O. 7 DE DICIEMBRE DE 2005.
 Artículo Primero.- El Artículo Primero del presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- El Artículo Segundo del presente Decreto en lo relativo al artículo 553 fracciones II y III del Código de Procedimientos Penales, entrará en vigor a los ciento veinte días de su publicación en el Periódico Oficial del Estado y el resto de las reformas señaladas en el Artículo Segundo del presente Decreto, entrarán en vigor a los 30 días de su publicación en dicho medio de difusión.
+
+P.O. 10 DE FEBRERO DE 2006.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- El artículo 22 fracción XVII de la Ley Orgánica de la Administración Pública para el Estado de Nuevo León entrará en vigor el día 15 de febrero de 2006.
+
+Artículo Tercero.- El Ejecutivo del Estado y las autoridades municipales en el ámbito de su competencia, deberán expedir, en un término que no exceda de noventa días contados a partir de la entrada en vigor del presente decreto, las disposiciones reglamentarias que regulen el servicio comunitario.
+
+Artículo Cuarto.- El Ejecutivo del Estado deberá expedir en un plazo no mayor de 90 días hábiles contados a partir de la entrada en vigor del presente Decreto el Reglamento del Consejo Estatal de Salud, en el cual deberán regularse las funciones del Consejo y sus Comisiones, así como la integración de éstas.
+
+Artículo Quinto.- Se concede a las personas físicas y morales que transporten con fines comerciales bebidas alcohólicas dentro del Estado de Nuevo León, un plazo de 60 días hábiles a partir de la entrada en vigor del presente Decreto, para obtener la Autorización de Transporte de Bebidas Alcohólicas expedida por la Secretaría de Salud, en los términos de las disposiciones de este Decreto.
