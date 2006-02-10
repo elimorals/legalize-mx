@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-municipal-de-proteccion-civil-de-mexicali-baja-41981
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-12-03"
-last_updated: "2005-06-24"
+last_updated: "2006-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41981&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 3 de diciembre de 2004.
 
@@ -337,9 +337,9 @@ V. El Regidor que coordine la Comisión de Seguridad Pública, Tránsito y Trans
 
 VI. El Director de Seguridad Pública Municipal, con Carácter de Vocal;
 
-> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2006)</small>
 
-VII. El Director de Bomberos, con carácter de Vocal;
+VII.- El Director del Heroico Cuerpo de Bomberos, con carácter de Vocal;
 
 > <small>(REFORMADA, P.O. 24 DE JUNIO DE 2005)</small>
 
@@ -1407,9 +1407,7 @@ A T E N T A M E N T E
 
 LIC. LUIS CHIANG RODRÍGUEZ
 
-SECRETARIO DEL XVII AYUNTAMIENTO
-
-DE MEXICALI, BAJA CALIFORNIA.
+SECRETARIO DEL XVII AYUNTAMIENTO DE MEXICALI, BAJA CALIFORNIA.
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
@@ -1418,3 +1416,7 @@ P.O. 24 DE JUNIO DE 2005.
 Primero: Las presentes reformas entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo: Quedan abrogadas todas aquellas disposiciones municipales que se opongan a lo dispuesto por el presente reglamento.
+
+P.O. 10 DE FEBRERO DE 2006.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL.
