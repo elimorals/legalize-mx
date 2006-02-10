@@ -4,7 +4,7 @@ identifier: "NLE-ley-estatal-de-prevencion-y-combate-al-abuso-del-alcohol-33777"
 country: "mx"
 rank: "ley"
 publication_date: "2003-09-10"
-last_updated: "2004-03-05"
+last_updated: "2006-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ESTATAL DE PREVENCION Y COMBATE AL ABUSO DEL ALCOHOL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MARZO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 10 de septiembre de 2003.
 
@@ -169,7 +169,9 @@ A la Secretaría le compete:
 
 I. Aplicar las disposiciones de su competencia contenidas en esta Ley;
 
-II. Llevar a cabo el control sanitario, de conformidad con la Ley de Salud, de los establecimientos dedicados a la venta, consumo o expendio de bebidas alcohólicas;
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2006)</small>
+
+II. Llevar a cabo el control sanitario, de conformidad con la Ley Estatal de Salud, de los establecimientos dedicados a la venta, consumo o expendio de bebidas alcohólicas. Asimismo, en coordinación con los Municipios y previo convenio que éstos celebren con la Secretaría establecer los criterios de ubicación, distancia, publicidad, transportación y características de los establecimientos dedicados a la venta, distribución, consumo, anuncio y expendio de bebidas alcohólicas, además de los que en su caso, establezca esta Ley;
 
 III. Vigilar el cumplimiento de esta Ley, en el ámbito de su competencia;
 
@@ -287,27 +289,29 @@ El horario a que se refiere este artículo no será aplicable a quienes vendan y
 
 El horario establecido en este Artículo señala los límites máximos, por lo que los Ayuntamientos dentro de los parámetros establecidos en la presente Ley podrán reducir los horarios referidos de acuerdo a las circunstancias particulares de cada municipio.
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2004)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2006)</small>
 
-Fuera del horario establecido, dichos establecimientos deberán permanecer cerrados, a excepción de aquellos cuya actividad preponderante sea la preparación, expendio, venta y consumo de alimentos; hoteles; supermercados; tiendas de abarrotes, autoservicio y de conveniencia que operen las 24 horas; centros nocturnos y lugares públicos de reunión con variedad artística y similares; así como los establecimientos contratados para festejos privados, en los cuales los invitados no pagan la entrada ni consumo. En estos casos de excepción los establecimientos podrán permanecer abiertos, pero no podrán vender o expender bebidas alcohólicas fuera del horario que dispone este Artículo.
+Fuera del horario establecido, dichos establecimientos deberán permanecer cerrados, a excepción de aquellos cuya actividad preponderante sea la preparación, expendio, venta y consumo de alimentos; hoteles; supermercados; tiendas de abarrotes, autoservicio y de conveniencia que operen las 24 horas; centros nocturnos y lugares públicos de reunión con variedad artística y similares; así como los establecimientos contratados para festejos privados, en los cuales los invitados no pagan la entrada ni consumo. En estos casos de excepción los establecimientos podrán permanecer abiertos, pero no se podrán vender, expender o consumir bebidas alcohólicas en los mismos fuera del horario que dispone este Artículo.
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2004)</small>
 
 La Autoridad Municipal llevará un registro de los establecimientos que deberán estar cerrados y de los que se encuentren exceptuados de tal supuesto en los términos de esta disposición.
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2004)</small>
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2006)</small>
+
+Los dueños, encargados o empleados de los establecimientos, en forma preventiva, deberán tomar las medidas pertinentes para que al término del horario establecido en las fracciones I a IV del presente artículo, hayan sido retiradas las bebidas alcohólicas a los clientes y, en los casos que proceda, hayan sido desalojados éstos del establecimiento.
 
 Los Ayuntamientos de los municipios establecidos fuera del área conurbada podrán, por acuerdo de las dos terceras partes de sus integrantes, expedir permisos especiales para la venta o expendio de bebidas alcohólicas fuera de los horarios establecidos, en eventos o festejos tradicionales de su comunidad, mismos que deberán restringirse a períodos de tiempo claramente determinados.
-
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2004)</small>
 
 Lo determinado en el presente precepto se aplicará sin perjuicio de lo dispuesto por otras disposiciones legales.
 
 ### CAPÍTULO V. OBLIGACIONES, PROHIBICIONES Y SANCIONES EN MATERIA DE COMBATE AL ABUSO EN EL CONSUMO DEL ALCOHOL
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2006)</small>
+
 ###### Artículo 16.
 
-Las personas propietarias, responsables, encargadas, empleadas o administradoras de los establecimientos regidos por esta Ley, están obligadas a:
+Las personas propietarias, responsables, encargadas, empleadas o administradoras de los establecimientos y de aquellos cuya actividad preponderante sea la preparación expendio, venta y consumo de alimentos regidos por esta Ley, están obligadas a:
 
 I. Conservar en el domicilio legal, en original o copia certificada, los documentos que amparen la propiedad o la posesión de las bebidas alcohólicas, durante el plazo que establecen las disposiciones fiscales;
 
@@ -317,9 +321,17 @@ III. Permitir visitas de verificación o inspección, cuando se presente orden e
 
 IV. Colocar en un lugar visible el cartel oficial emitido por la Secretaría que contenga al menos la leyenda "El consumo abusivo de alcohol puede producir adicciones y graves problemas de salud";
 
-V. Solicitar la acreditación de la mayoría de edad a aquéllas personas que pretendan ingerir o adquirir bebidas alcohólicas; y
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2006)</small>
 
-VI. No condicionar la prestación de sus servicios a la venta, expendio o consumo de bebidas alcohólicas.
+V.- Solicitar la acreditación de la mayoría de edad a aquéllas personas que pretendan ingerir o adquirir bebidas alcohólicas;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2006)</small>
+
+VI.- No condicionar la prestación de sus servicios a la venta, expendio o consumo de bebidas alcohólicas; y
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2006)</small>
+
+VII.- No implementar ni publicitar sistemas de venta, consumo o expendio con descuento en precio, con excepción de las ventas realizadas por distribuidores sólo a establecimientos cuya actividad preponderante sea la preparación, expendio, venta y consumo de alimentos.
 
 ###### Artículo 17.
 
@@ -359,9 +371,9 @@ I. El consumo de bebidas alcohólicas en la vía pública, o en lugares de uso c
 
 II. Servir o vender bebidas alcohólicas a menores de edad o incapaces, independientemente de que sean para consumirse en el lugar o para llevarse, en envase abierto o cerrado;
 
-> <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2006)</small>
 
-III. Llevar a cabo sistemas de venta, consumo o expendio con descuentos en precio, con excepción de los descuentos realizados por distribuidores sólo a establecimientos autorizados;
+III. Publicitar o llevar a cabo sistemas de venta, consumo o expendio con descuento en precio, excepto lo dispuesto en el Artículo 16, fracción VII de esta Ley;
 
 IV. Los concursos, promociones o cualquier tipo de ofertas o prácticas comerciales mediante las cuales se ofrezcan reconocimientos, premios, descuentos o cualquier tipo de incentivo en función del volumen de consumo de bebidas alcohólicas;
 
@@ -395,21 +407,27 @@ I. Por incumplimiento a lo dispuesto por el Artículo 4, primer párrafo, multa 
 
 II. Por incumplimiento a lo dispuesto por el Artículo 4, segundo párrafo, clausura del establecimiento;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE MARZO DE 2004)</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2006)</small>
 
-III. Por incumplimiento a lo supuesto por los Artículos 15, párrafo primero y 19 fracción II, multa de 350 a 2,500 cuotas;
+III. Por incumplimiento a lo supuesto por los Artículos 15, párrafo primero y 19 fracción II, multa de 350 a 2,500 cuotas.
 
-En caso de reincidencia, se duplicará el monto de la multa impuesta previamente y se suspenderá la licencia por tres días.
+En el caso de reincidencia, se duplicará el monto de la multa impuesta previamente y se suspenderá la licencia por cinco días.
 
 En el caso de incurrir nuevamente en la violación se aplicará una multa igual que la determinada en el párrafo anterior y se clausurará el establecimiento;
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2004)</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2006)</small>
 
-IV. Por incumplimiento a lo dispuesto por el Artículo 15, párrafo segundo, multa de 250 a 1,500 cuotas. En caso de reincidencia se duplicará el monto de la multa impuesta previamente;
+IV. Por incumplimiento a lo dispuesto por el Artículo 15, párrafos cuarto y sexto, multa de 250 a 1,500 cuotas.
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2004)</small>
+En caso de reincidencia, se duplicará el monto de la multa impuesta previamente y se suspenderá la licencia por cinco días.
 
-V. Por incumplimiento a lo dispuesto por el Artículo 16, fracción II, multa de 250 a 1,500 cuotas. En caso de reincidencia se duplicará el monto de la multa impuesta previamente;
+En el caso de incurrir nuevamente en la violación se aplicará una multa igual que la determinada en el párrafo anterior y se clausurará el establecimiento;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2006)</small>
+
+V. Por incumplimiento a lo dispuesto por el Artículo 16, fracción II, multa de 250 a 1,500 cuotas y en el caso de la fracción VII, multa de 500 a 1500 cuotas, dándose vista a la autoridad competente para que proceda a sancionar conforme al Reglamento correspondiente.
+
+En caso de reincidencia se duplicará el monto de la multa impuesta previamente; en caso particular de reincidencia en la fracción VII por tercera ocasión se procederá al decomiso del producto, de presentarse reincidencia por cuarta ocasión ocasionará la clausura temporal del establecimiento o del establecimiento cuya actividad preponderante sea la preparación, expendio, venta y consumo de alimentos y para una quinta reincidencia se procederá a la clausura definitiva del establecimiento o del establecimiento cuya actividad preponderante sea la preparación expendio, venta y consumo de alimentos;
 
 VI. Por incumplimiento a lo dispuesto por el Artículo 16, fracciones I, III, IV, V y VI, multa de 50 a 200 cuotas. En caso de reincidencia se duplicará el monto de la multa impuesta previamente;
 
@@ -419,11 +437,21 @@ VII. Por incumplimiento a lo dispuesto por el Artículo 17, fracciones III y V, 
 
 VIII. Por incumplimiento a lo dispuesto por el Artículo 19, fracción IV, multa de 350 a 2,500 cuotas. En caso de reincidencia se duplicará el monto de la multa impuesta previamente;
 
-IX. Por incumplimiento a lo dispuesto por el Artículo 19, fracción VII, multa de 30 a 200 cuotas, tratamiento y suspensión de la licencia de conducir hasta por 3 meses.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2006)</small>
 
-En caso de reincidencia se duplicará el monto de la multa impuesta previamente, se ordenará tratamiento y la suspensión de la licencia será de hasta 18 meses; cuando el infractor sea un menor no emancipado, los padres, tutores, quienes ejerzan la patria potestad o tengan la custodia, deberán acompañar al infractor al tratamiento.
+IX. Por incumplimiento a lo dispuesto por el Artículo 19, fracción VII, las sanciones serán las siguientes:
 
-En el caso de estado de ebriedad la multa, en todos los casos, se incrementará en un 50 porciento;
+a) Por conducir en estado de ineptitud o de ebriedad multa de 50 a 200 cuotas, tratamiento, suspensión de la vigencia de la licencia hasta por tres meses y arresto administrativo de ocho a doce horas;
+
+b) Por conducir en estado de ineptitud o de ebriedad y cometer cualquier infracción administrativa una multa de 100 a 300 cuotas, tratamiento, suspensión de la vigencia de la licencia hasta por seis meses y arresto administrativo de doce a veinticuatro horas; o
+
+c) Por conducir en estado de ineptitud o de ebriedad en forma reincidente procederá multa de 200 a 600 cuotas; tratamiento; cancelación de la licencia para conducir e inhabilitación para obtenerla hasta por doce meses y arresto administrativo de veinticuatro a treinta y seis horas.
+
+En todos los casos se deberá comprometer al infractor a asistir a tratamiento o cursos de rehabilitación y acreditar su cumplimiento ante la autoridad competente.
+
+Tratándose de menores infractores no emancipados se les cancelará la licencia para conducir o estarán inhabilitados para obtenerla hasta por doce meses y el tratamiento o curso se acordará con quienes ejerzan la patria potestad o custodia, quienes deberán acompañar al infractor a dicho tratamiento o curso y tendrán a su cargo las responsabilidades patrimoniales correspondientes.
+
+Las anteriores sanciones son sin menoscabo de las responsabilidades civiles y penales que procedan;
 
 X. Por incumplimiento a lo dispuesto por el Artículo 19, fracción VIII en el caso de que la persona que se encuentre consumiendo sea menor de edad, multa de 30 a 200 cuotas y suspensión de la licencia de conducir hasta por 3 meses.
 
@@ -431,9 +459,9 @@ En caso de reincidencia se duplicará el monto de la multa impuesta previamente 
 
 XI. (DEROGADA, P.O. 5 DE MARZO DE 2004)
 
-> <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2006)</small>
 
-XII. Por incumplimiento a lo dispuesto por el Artículo 19, fracciones III, V, VI y IX, multa de 250 a 1,500. En caso de reincidencia se duplicará el monto de la multa impuesta previamente;
+XII. Por incumplimiento a lo dispuesto por el Artículo 19, fracciones V, VI y IX, multa de 250 a 1,500. En caso de reincidencia se duplicará el monto de la multa impuesta previamente;
 
 XIII. Por incumplimiento a lo dispuesto por el Artículo 19, fracción I, multa de 20 a 100 cuotas. En caso de reincidencia se duplicará el monto de la multa impuesta previamente;
 
@@ -445,7 +473,11 @@ XVI. Por incumplimiento a lo dispuesto por los Artículos 18 y 19 fracción IX, 
 
 > <small>(ADICIONADA, P.O. 5 DE MARZO DE 2004)</small>
 
-XVII. Por incumplimiento a lo dispuesto en el Artículo 19 fracción XII, multa de 20 a 100 cuotas.
+XVII. Por incumplimiento a lo dispuesto en el Artículo 19 fracción XII, multa de 20 a 100 cuotas;
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2006)</small>
+
+XVIII. Por incumplimiento a lo dispuesto por los artículos 16 fracción VII y 19 fracción III, multa de 500 a 2500 cuotas, dándose vista a la autoridad competente para que proceda a sancionar conforme al Reglamento correspondiente. En caso de reincidencia se duplicará el monto de la multa impuesta previamente, en caso de reincidencia por tercera ocasión se procederá a la clausura temporal del establecimiento o del establecimiento cuya actividad preponderante sea la preparación expendio, venta y consumo de alimentos, y de presentarse una cuarta reincidencia se procederá a la clausura definitiva del establecimiento o del establecimiento cuya actividad preponderante sea la preparación expendio, venta y consumo de alimentos.
 
 Al aplicarse las sanciones se tomarán en cuenta la capacidad económica del infractor, la gravedad de la infracción, las circunstancias particulares del caso y la reincidencia.
 
@@ -496,6 +528,14 @@ Cuando la sanción consista en multa, ésta será considerada como crédito fisc
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2004)</small>
 
 Tratándose de multas impuestas por infracción a lo dispuesto por los Artículos 17, fracciones III y V, y 19 fracciones I, VII y VIII, a fin de que ésta no le sea aplicada, el infractor podrá solicitar cubrir un servicio en la comunidad de una hora por cada 10 cuotas, debiendo acreditarlo ante la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2006)</small>
+
+###### Artículo 22 Bis.
+
+Cuando la sanción consista en arresto, a fin de que éste no le sea aplicado, el infractor podrá solicitar cubrir un servicio a la comunidad de una hora por cada hora de arresto, debiendo acreditarlo ante la autoridad competente, la cual determinará si lo concede o no, tomando en cuenta las circunstancias particulares del caso. Las primeras ocho horas de arresto no serán conmutables.
+
+Cuando el infractor no cumpla con el tiempo de servicio comunitario impuesto por la autoridad competente, deberá cumplir con una hora de arresto por cada hora de servicio no prestado, en los términos del reglamento correspondiente.
 
 ###### Artículo 23.
 
@@ -564,3 +604,15 @@ P.O. 5 DE MARZO DE 2004.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Los Ayuntamientos dentro de un plazo de treinta días naturales a partir de la entrada en vigor de este Decreto, deberán expedir, o en su caso, modificar sus reglamentos municipales adecuando sus disposiciones en lo conducente a lo previsto en la Ley Estatal de Prevención y Combate al Abuso del Alcohol.
+
+P.O. 10 DE FEBRERO DE 2006.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- El artículo 22 fracción XVII de la Ley Orgánica de la Administración Pública para el Estado de Nuevo León entrará en vigor el día 15 de febrero de 2006.
+
+Artículo Tercero.- El Ejecutivo del Estado y las autoridades municipales en el ámbito de su competencia, deberá expedir, en un término que no exceda de noventa días contados a partir de la entrada en vigor del presente decreto, las disposiciones reglamentarias que regulen el servicio comunitario.
+
+Artículo Cuarto.- El Ejecutivo del Estado deberá expedir en un plazo no mayor a 90 días hábiles contados a partir de la entrada en vigor del presente Decreto el Reglamento del Consejo Estatal de Salud, en el cual deberán regularse las funciones del Consejo y sus Comisiones, así como la integración de éstas.
+
+Artículo Quinto.- Se concede a las personas físicas y morales que transporten con fines comerciales bebidas alcohólicas dentro del Estado de Nuevo León, un plazo de 60 días hábiles a partir de la entrada en vigor del presente Decreto, para obtener la Autorización de Transporte de Bebidas Alcohólicas expedida por la Secretaría de Salud, en los términos de las disposiciones de este Decreto.
