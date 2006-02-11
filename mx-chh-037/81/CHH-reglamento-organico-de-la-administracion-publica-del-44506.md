@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-organico-de-la-administracion-publica-del-44506"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-09"
-last_updated: "2005-02-09"
+last_updated: "2006-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44506&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE JUAREZ, ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE FEBRERO DE 2006.
 
 Reglamento publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 9 de febrero de 2005.
 
@@ -1193,6 +1193,8 @@ Son atribuciones de la Dirección Operativa, manejar y operar la infraestructura
 
 UNIDADES DE COORDINACIÓN Y APOYO ADSCRITAS AL PRESIDENTE
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2006)</small>
+
 ###### Artículo 95.
 
 Para la planeación, organización, comunicación y difusión de las actividades de la Administración y del Presidente, éste tendrá adscritas las siguientes unidades de coordinación y apoyo técnico:
@@ -1203,31 +1205,45 @@ II. Secretaría Particular
 
 III. Secretaría Técnica
 
-IV. Secretaría de Comunicación Social, y
+IV. Secretaría de Comunicación Social
 
-V. Coordinadora de Atención Ciudadana de Zaragoza.
+V. Coordinadora de Atención Ciudadana de Zaragoza y
+
+VI. Coordinación General de Planeación y Evaluación
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 96.
 
-El Coordinador de Direcciones, para el desempeño de sus funciones tendrá las siguientes atribuciones:
+El Coordinador de Direcciones para el desempeño de sus funciones tendrá las siguientes atribuciones:
 
-I. Coordinar las actividades, operación, esfuerzos y el buen funcionamiento de las Direcciones y Dependencias Municipales, ejecutando las instrucciones expresas del Presidente en los asuntos determinados que este le encomiende.
+I.- Coordinar las actividades, operación, esfuerzos y el buen funcionamiento de las Direcciones y Dependencias Municipales, ejecutando las instrucciones expresas del Presidente en los asuntos determinados que este le encomiende.
 
-II. Dar seguimiento y evaluar el cumplimiento de las obligaciones que el Código Municipal, el presente reglamento y demás leyes y reglamentos aplicables, les imponen a las Direcciones y Dependencias Municipales, reportando para ello sus resultados al Presidente.
-
-III. Brindar apoyo y asesoría en los planes y proyectos emprendidos por las Direcciones y Dependencias Municipales.
+II.- Brindar apoyo y asesoría en los planes y proyectos emprendidos por las Direcciones y Dependencias Municipales.
 
 ###### Artículo 97.
 
 El Secretario Particular atenderá los asuntos relacionados con la actividad cotidiana del Presidente, las relaciones públicas y la instrumentación y vigilancia de los programas de atención a la ciudadanía.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2006)</small>
+
 ###### Artículo 98.
 
-El Secretario Técnico, coordinará las actividades de planeación de las Dependencias y la propuesta de contenidos del Plan Municipal de Desarrollo, programas anuales y especiales de la Administración. Así mismo dará seguimiento y evaluará el cumplimiento de los anteriores en la gestión administrativa en general, reportando sus resultados al Presidente.
+El Secretario Técnico, para el desempeño de sus funciones tendrá las siguientes atribuciones:
 
-Coordinará la elaboración de los manuales de organización y procedimiento de las Dependencias, turnando los mismos para su aprobación respectiva.
+I. Diseñar, ejecutar, evaluar y actualizar un sistema integral de facilitación, supervisión y control de programas y políticas públicas municipales.
 
-Atenderá además las funciones que dentro del marco de la Ley de Planeación del Estado, le encargue el Presidente.
+II. Coordinar la elaboración y actualización de los manuales de organización y procedimientos de las Dependencias y Organismos municipales, turnando los mismos para su aprobación respectiva.
+
+III. Analizar, diseñar, facilitar, canalizar, dar asesoría y seguimiento a proyectos específicos encomendados por el Presidente Municipal.
+
+IV. Participar en el seguimiento y evaluación del cumplimiento de las obligaciones que el Código Municipal, el Reglamento Orgánico y demás leyes y reglamentos les imponen a las Dependencias.
+
+V. Servir de enlace con grupos y organismos de la sociedad civil del Municipio de Juárez y facilitar su interacción con las Dependencias Municipales.
+
+VI. Servir de enlace con entidades de gobierno, grupos y organismos de la sociedad civil en el extranjero y facilitar su interacción con las Dependencias municipales.
+
+VII. Promover, en coordinación con las Dependencias municipales competentes, la búsqueda y/o establecimiento de programas de fondeo de recursos para Juárez con fundaciones y organismos nacionales e internacionales.
 
 ###### Artículo 99.
 
@@ -1237,9 +1253,35 @@ El Secretario de Comunicación Social procurará la identificación de la activi
 
 El Coordinador de Atención Ciudadana de Zaragoza, atenderá directamente a los ciudadanos de la zona urbana Oriente-Zaragoza y de los poblados cercanos que forman parte del municipio, para promover su participación en los planes, programas y acciones que lleve a cabo la Administración en beneficio de esas comunidades; coordinándose para ello con las Dependencias correspondientes.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2006)</small>
+
 ###### Artículo 101.
 
-El presidente podrá además auxiliarse de los asesores y coordinadores de programas especiales que considere convenientes, para apoyar el desempeño de las funciones de la Administración.
+A la Coordinación General de Planeación y Evaluación, corresponde el despacho de los siguientes asuntos:
+
+I. Coordinar la formulación del Plan Municipal de Desarrollo y la elaboración de los programas que de él se deriven, con la participación de las dependencias y entidades de la Administración Pública Municipal, Estatal y Federal, así como de organismos sociales y privados;
+
+II. Establecer la coordinación de los programas de desarrollo del Gobierno Municipal con los de los Gobiernos Estatal y Federal;
+
+III. Analizar e Integrar las propuestas de inversión que formulen las dependencias y entidades de la Administración Pública Municipal;
+
+IV. Evaluar la relación que guarden los programas y presupuestos de las diversas dependencias y entidades de la Administración Pública Municipal, así como los resultados de su ejecución, con los objetivos y metas del Plan Municipal de Desarrollo y sus programas operativos anuales;
+
+V. Apoyar las actividades que en materia de investigación y asesoría para la planeación, realicen las dependencias y entidades de la Administración Pública Municipal;
+
+VI. Gestionar ante la Federación y el Estado la autorización de inversiones que contribuyan a consolidar el desarrollo económico y social del municipio;
+
+VII. Cumplir con la normatividad en materia de planeación y programación del desarrollo social en la aplicación de los programas municipales directos y concertados;
+
+VIII. Participar en los programas de inversión que así determine la Tesorería, la que autorizará en su caso la afectación presupuestal correspondiente;
+
+IX. Las demás que le encomienden el Presidente Municipal, el ayuntamiento, este reglamento, otras disposiciones legales y reglamentarias, y manuales de organización.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2006)</small>
+
+###### Artículo 102.
+
+El Presidente podrá además auxiliarse de los asesores y coordinadores de programas especiales que considere convenientes, para apoyar el desempeño de las funciones de la Administración.
 
 ## TRANSITORIOS
 
@@ -1260,3 +1302,9 @@ DOY FE.
 EL SECRETARIO DEL AYUNTAMIENTO
 
 LIC. MIGUEL ÁNGEL CALDERÓN RODRÍGUEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 11 DE FEBRERO DE 2006.
+
+ÚNICO.- Las modificaciones al presente reglamento entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
