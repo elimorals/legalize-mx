@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-462
 country: "mx"
 rank: "otro"
 publication_date: "1995-03-13"
-last_updated: "2006-01-13"
+last_updated: "2006-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46227&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,91 +19,87 @@ issue_date: "1995-03-03"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO (MULTILATERAL, 1994)
 
-DECRETO QUE MODIFICA EL DIVERSO POR EL QUE SE ESTABLECE LA TASA APLICABLE A PARTIR DEL 1 DE ENERO DE 2005 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE LA REPUBLICA DE COLOMBIA Y LA REPUBLICA DE VENEZUELA
+ACUERDO POR EL QUE SE DA A CONOCER EL CUPO MINIMO PARA INTERNAR DURANTE EL AÑO 2006, A LA REPUBLICA DE COLOMBIA, VEHICULOS AUTOMOTORES NUEVOS, ORIGINARIOS Y PROVENIENTES DE LOS ESTADOS UNIDOS MEXICANOS, CONFORME A LA DECISION 42 DE LA COMISION ADMINISTRADORA DEL TRATADO, SUSCRITA ENTRE LA REPUBLICA DE COLOMBIA, LA REPUBLICA BOLIVARIANA DE VENEZUELA Y LOS ESTADOS UNIDOS MEXICANOS
 
-Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 13 de enero de 2006.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 14 de febrero de 2006.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, y 131 de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 2o., 4o. fracción I, y 14 de la Ley de Comercio Exterior; 31 y 34 de la Ley Orgánica de la Administración Pública Federal, y
+SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía, con fundamento en los artículos 4-03.2, inciso a), párrafo iii del Tratado de Libre Comercio entre los Estados Unidos Mexicanos, la República de Colombia y la República de Venezuela (el Tratado) y la Decisión 42 de la Comisión Administradora del Tratado, 34 fracción I de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracción V, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción V, y 26 al 36 del Reglamento de la Ley de Comercio Exterior; 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que el Tratado de Libre Comercio entre los Estados Unidos Mexicanos, la República de Colombia y la República de Venezuela (el Tratado) fue aprobado por el Senado de la República el 13 de junio de 1994, promulgado el 31 de diciembre del mismo año, para entrar en vigor al día siguiente, dicho Decreto promulgatorio fue publicado en el Diario Oficial de la Federación el día 9 de enero de 1995;
+Que el Tratado de Libre Comercio entre los Estados Unidos Mexicanos, la República de Colombia y la República Bolivariana de Venezuela (el Tratado) fue aprobado por el Senado de la República el 13 de junio de 1994 y publicado en el Diario Oficial de la Federación el 9 de enero de 1995;
 
-Que el Tratado prevé la eliminación de los aranceles para la mayor parte del universo de mercancías originarias que conforman el comercio trilateral de bienes originarios de la región conformada por México, Colombia y Venezuela;
+Que el Comité Automotor del Tratado negoció la incorporación del sector automotor en el marco del Tratado, lo cual fue ratificado por las partes a través de la firma de la Decisión 42 de la Comisión Administradora el 21 de febrero de 2005;
 
-Que el Decreto por el que se establece la tasa aplicable a partir del 1 de enero de 2005 del Impuesto General de Importación para las mercancías originarias de la República de Colombia y la República de Venezuela, publicado el 28 de diciembre de 2004 en el Diario Oficial de la Federación (en adelante el Decreto) establece la tasa aplicable a partir del 1 de enero de 2005 del Impuesto General de Importación para las mercancías originarias de la República de Colombia y la República de Venezuela;
+Que la Decisión mencionada fue aprobada por la Cámara de Senadores del Honorable Congreso de la Unión, el 6 de octubre de 2005, según Decreto publicado en el Diario Oficial de la Federación del 20 de diciembre del propio año;
 
-Que el 21 de febrero de 2005, la Comisión Administradora del Tratado adoptó la Decisión No. 42, mediante la cual, de acuerdo a la recomendación del Comité Automotor del Tratado, se incorpora el sector automotor al programa de desgravación del mismo, y se establecen las reglas de origen para ese sector, que fue aprobada por el Senado de la República el 6 de octubre de 2005, y publicada dicha aprobación el 20 de diciembre de 2005 en el Diario Oficial de la Federación;
+Que el Decreto Promulgatorio de la Decisión 42 de la Comisión Administradora del Tratado de Libre Comercio celebrado entre la República de Colombia, los Estados Unidos Mexicanos y la República Bolivariana de Venezuela, firmada el 21 de febrero de dos mil cinco, fue publicado en el Diario Oficial de la Federación el 13 de enero de 2006;
 
-Que el 21 de febrero de 2005 la Comisión Administradora del Tratado adoptó la Decisión No. 43 mediante la cual se modifican o adecuan ciertas reglas específicas de origen de la sección B del anexo al artículo 6-03 del Tratado, que fue aprobada por el Senado de la República el 6 de octubre de 2005, y publicada dicha aprobación el 20 de diciembre de 2005 en el Diario Oficial de la Federación;
+Que es una estrategia prioritaria del Gobierno Federal fortalecer los mecanismos regionales de diálogo político y de integración económica, así como establecer los mecanismos adecuados para la administración de los acuerdos comerciales internacionales suscritos por los Estados Unidos Mexicanos;
 
-Que de conformidad con lo establecido en los numerales 3 y 10 de las Decisiones Nos. 42 y 43, respectivamente, la República de Colombia y los Estados Unidos Mexicanos han intercambiado las comunicaciones en las que certifican que se han concluido las formalidades jurídicas necesarias para la implementación de las referidas Decisiones, por lo que, el intercambio de bienes originarios entre México y Colombia debe regirse por lo dispuesto en las mismas, y
+Que la asignación de cupos de exportación busca promover la competitividad de los sectores involucrados, así como establecer un marco regulatorio equitativo y transparente, y
 
-Que por lo anterior, es necesario adecuar el Decreto, con lo dispuesto en las Decisiones Nos. 42 y 43; y que es necesario dar a conocer lo anterior a los particulares y a las autoridades aduaneras, he tenido a bien expedir el siguiente
+Que la Comisión de Comercio Exterior dio opinión favorable sobre esta medida, he tenido a bien expedir el siguiente:
 
-DECRETO QUE MODIFICA EL DIVERSO POR EL QUE SE ESTABLECE LA TASA APLICABLE A PARTIR DEL 1 DE ENERO DE 2005 DEL IMPUESTO GENERAL DE IMPORTACIÓN PARA LAS MERCANCÍAS ORIGINARIAS DE LA REPÚBLICA DE COLOMBIA Y LA REPÚBLICA DE VENEZUELA
+ACUERDO POR EL QUE SE DA A CONOCER EL CUPO MINIMO PARA INTERNAR DURANTE EL AÑO 2006, A LA REPUBLICA DE COLOMBIA, VEHICULOS AUTOMOTORES NUEVOS, ORIGINARIOS Y PROVENIENTES DE LOS ESTADOS UNIDOS MEXICANOS, CONFORME A LA DECISION 42 DE LA COMISION ADMINISTRADORA DEL TRATADO, SUSCRITA ENTRE LA REPUBLICA DE COLOMBIA, LA REPUBLICA BOLIVARIANA DE VENEZUELA Y LOS ESTADOS UNIDOS MEXICANOS
 
-###### ARTÍCULO PRIMERO.
+###### ARTICULO 1o.
 
-Se modifica el artículo 2 del Decreto para quedar como sigue:
+El cupo mínimo para internar durante el año 2006, a la República de Colombia, vehículos automotores nuevos, originarios y provenientes de los Estados Unidos Mexicanos, con el arancel preferencial establecido en el artículo 4-02, párrafo 1, inciso a) de la Decisión 42 de la Comisión Administradora del Tratado, suscrita entre la República de Colombia, la República Bolivariana de Venezuela y los Estados Unidos Mexicanos, publicada en el Diario Oficial de la Federación el 13 de enero de 2006, es el que se determina en el cuadro siguiente:
 
-“ARTÍCULO 2.- Para los efectos del presente Decreto, se entiende por:
+Partida Descripción indicativa Cupo para internar
 
-a) Mercancías originarias de la región conformada por México, Colombia y Venezuela.- Las que cumplan con las reglas de origen establecidas en el Capítulo VI denominado “Reglas de Origen” del Tratado;
+Arancelaria a Colombia
 
-b) excl.- Abreviatura que señala las mercancías que se excluyeron de la negociación del Tratado para otorgarles trato arancelario preferencial, y que por lo tanto pagarán el arancel correspondiente tal y como lo señala el artículo 1 de la Ley de los Impuestos Generales de Importación y de Exportación.”
+8703 Vehículos con peso bruto 4,000 unidades
 
-###### ARTÍCULO SEGUNDO.
+8704 vehicular igual o menor a
 
-Se adiciona el artículo 14 al Decreto, para quedar como sigue:
+8.8 toneladas
 
-a) Colombia
+###### ARTICULO 2o.
 
-(VEASE ARCHIVO ANEXO)
+De conformidad con lo dispuesto en los artículos 24 segundo párrafo de la Ley de Comercio Exterior y 31 de su Reglamento, y con objeto de promover las corrientes comerciales entre los Estados Unidos Mexicanos y la República de Colombia y cumplir con lo establecido en el artículo 4-06, párrafo 3, de la Decisión 42, se aplica el mecanismo de asignación directa, a al cupo descrito en el cuadro anterior en beneficio de las personas señaladas en el artículo 3o. del presente Acuerdo.
 
-b) Venezuela
+###### ARTICULO 3o.
 
-(VEASE ARCHIVO ANEXO)
+Podrán solicitar asignación del cupo a que se refiere el presente Acuerdo, las personas morales establecidas en los Estados Unidos Mexicanos, que cuenten con Registro de Empresa Productora de Vehículos Automotores Ligeros Nuevos expedido por la Secretaría de Economía. La asignación será otorgada por la Dirección General de Comercio Exterior, previo dictamen favorable de la Dirección General de Industrias Pesadas y de Alta Tecnología, la cual tomará en cuenta lo siguiente:
 
-###### ARTÍCULO TERCERO.
+a) Se asignarán 3,300 unidades entre las empresas antes señaladas con base en sus antecedentes de exportación de vehículos automotores a Colombia durante 2005. En caso que una empresa solicite un monto menor al que tiene derecho, el monto remanente se distribuirá proporcionalmente entre las empresas de este inciso que así lo requieran desde el momento en que exista saldo para su distribución.
 
-Se adiciona el artículo 15 al Decreto, para quedar como se indica a continuación:
+b) Se asignarán 700 unidades por partes iguales entre las empresas señaladas en el primer párrafo del presente artículo que no cuenten con antecedentes de exportación de vehículos automotores a Colombia. En caso que una empresa solicite un monto menor al que le corresponde, el monto restante se distribuirá proporcionalmente entre las empresas de este inciso que así lo requieran desde el momento en que exista saldo para su distribución.
 
-“ARTÍCULO 15.- La importación de mercancías originarias provenientes de Colombia o Venezuela, comprendidas en las fracciones arancelarias que se señalan en este artículo, estará sujeta a la tasa arancelaria que se indica en la columna correspondiente para cada año.
+Las asignaciones para las empresas señaladas en este inciso, tendrán vigencia hasta el 30 de junio de 2006.
 
-a) Arancel aplicado a las mercancías originarias de Colombia o Venezuela.
+c) Los saldos no ejercidos y no solicitados al 30 de junio de las empresas señaladas en el inciso b) y los saldos no solicitados de las empresas señaladas en el inciso a); podrán ser asignados proporcionalmente entre los siguientes beneficiarios:
 
-(VEASE ARCHIVO ANEXO)
+I. Personas morales establecidas en los Estados Unidos Mexicanos, que cuenten con Registro de Empresa Productora de Vehículos Automotores Ligeros Nuevos expedido por la Secretaría de Economía, que no cuenten con antecedentes de exportación y que demuestren haber ejercido por lo menos el 50% de su asignación total de este cupo.
 
-b) Lo dispuesto en este apartado, sólo será aplicable a las importaciones de productos automotores de peso bruto vehicular menor o igual a 8.8 toneladas, que cuenten con certificado de cupo expedido por la Secretaría de Economía.
+II. Personas morales establecidas en los Estados Unidos Mexicanos, que cuenten con Registro de Empresa Productora de Vehículos Automotores Ligeros Nuevos, expedido por la Secretaría de Economía, y que cuenten con antecedentes de exportación.
 
-(VEASE ARCHIVO ANEXO)
+La asignación del saldo de este cupo se hará a través de la Dirección General de Comercio Exterior, previo dictamen favorable de la Dirección General de Industrias Pesadas y de Alta Tecnología.
 
-###### ARTÍCULO CUARTO.
+###### ARTICULO 4o.
 
-Se eliminan las siguientes fracciones del artículo 8 del Decreto:
+Las solicitudes de asignación de cupo a que se refiere este instrumento se deben presentar en el formato SE-03-011-1 “Solicitud de Asignación de Cupo”, en la representación federal de la Secretaría que le corresponda. La Secretaría a través de la Dirección General de Comercio Exterior resolverá en un plazo no mayor a siete días hábiles contados a partir de que cuente con todos los elementos necesarios para emitir dicha resolución. Este cupo no cuenta con hoja de requisitos específicos.
 
-“8413.50.99
+###### ARTICULO 5o.
 
-8421.39.99
+Las personas que hayan obtenido asignación de cupo deberán solicitar ante la oficina en la cual obtuvieron dicha asignación, la expedición del certificado de cupo correspondiente, previa solicitud del interesado en el formato SE-03-013-5 “Solicitud de certificado de cupo (obtenido por asignación directa)” acompañando escrito libre en papel membretado de la empresa en el que señale la razón social y domicilio del importador en la República de Colombia, según sea el caso. El certificado de cupo será expedido en un plazo no mayor a siete días hábiles siguientes a la fecha de recepción de la solicitud.
 
-8425.42.02
+###### ARTICULO 6o.
 
-8425.42.99
+Los formatos a que se hace referencia en este Acuerdo estarán a disposición de los interesados en la Dirección General de Comercio Exterior, en las representaciones federales de la Secretaría y en la página de Internet de la Comisión Federal de Mejora Regulatoria en las siguientes direcciones electrónicas:
 
-8481.80.99
+Para el caso del formato SE-03-011-1 “Solicitud de asignación de cupo”:
 
-8547.10.99.”
+http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-033-A
 
-###### ARTÍCULO QUINTO.
+Para el caso del formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”:
 
-Se modifica el artículo 10 del Decreto para quedar como sigue:
-
-“ARTÍCULO 10.- La importación de mercancías originarias, provenientes de Venezuela, comprendidas en las fracciones arancelarias identificadas en este artículo estará sujeta al arancel preferencial que se establece a continuación y estará exenta de arancel a partir del 1o. de enero de 2007, únicamente cuando se trate de la modalidad de la mercancía que se indica:
-
-…”
+http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042
 
 ###### ARTÍCULO 1.
 
@@ -229,16 +225,8 @@ VIII.- "Trato arancelario preferencial" y "tasa arancelaria preferencial", el ar
 
 3.- Para determinar la tasa arancelaria preferencial aplicable a un bien originario que se importa a territorio nacional deberá estarse a lo dispuesto en el artículo 3o. y demás disposiciones aplicables del "Decreto que establece la tasa aplicable para 1995 del Impuesto General de Importación para las mercancías originarias de Colombia, Venezuela, Costa Rica, Bolivia y Chile conforme a lo establecido en el Tratado de Libre Comercio entre México, Colombia y Venezuela, el Tratado de Libre Comercio entre México y Costa Rica, el Tratado de Libre Comercio entre México y Bolivia y el Acuerdo de Complementación Económica entre México y Chile", publicado en el Diario Oficial de la Federación el 29 de diciembre de 1994.
 
-## TRANSITORIOS
+## TRANSITORIO
 
-PRIMERO.- El presente Decreto entrará en vigor a partir del 15 de enero de 2006.
+UNICO.- El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 31 de diciembre de 2006.
 
-SEGUNDO.- A partir de la entrada en vigor de este Decreto y hasta que el gobierno de la República de Venezuela intercambie con los Estados Unidos Mexicanos y con la República de Colombia las comunicaciones en las que certifique que ha concluido las formalidades jurídicas necesarias para la implementación de las Decisiones Nos. 42 y 43, los artículos 4, 5, 10 y 11 del Decreto se aplicarán exclusivamente para las mercancías provenientes de Venezuela, y que sean originarias de conformidad con las condiciones establecidas en los mismos.
-
-TERCERO.- No obstante lo dispuesto en el artículo 1 de este Decreto, las disposiciones de los artículos segundo y tercero de este Decreto, mediante las cuales se adicionan los artículos 14 y 15, relativas a los bienes comprendidos en las Decisiones Nos. 42 y 43 originarios de la República de Venezuela, entrarán en vigor hasta el momento en que el gobierno de ese país intercambie con los Estados Unidos Mexicanos y la República de Colombia las comunicaciones en las que certifique que ha concluido las formalidades jurídicas necesarias para la implementación en su país de las referidas Decisiones.
-
-CUARTO.- No obstante lo dispuesto en el artículo 1 de este Decreto, los materiales de origen venezolano a ser incorporados en mercancías fabricadas en Colombia para ser exportadas a territorio de los Estados Unidos Mexicanos al amparo de las disposiciones de las Decisiones Nos. 42 y 43 serán considerados como no originarios de la región conformada por las Partes del Tratado hasta que el gobierno de la República de Venezuela intercambie con los Estados Unidos Mexicanos y con la República de Colombia las comunicaciones en las que certifique que ha concluido las formalidades jurídicas necesarias para la implementación de las Decisiones.
-
-QUINTO.- Una vez que la República de Venezuela y los Estados Unidos Mexicanos intercambien las comunicaciones a las que se refieren los artículos Segundo, Tercero y Cuarto Transitorios, la Secretaría de Economía publicará un aviso en el Diario Oficial de la Federación mediante el que notifique la entrada en vigor de las Decisiones Nos. 42 y 43 y por lo tanto, de las disposiciones de este Decreto en relación con los bienes y materiales originarios de Venezuela, comprendidos en las Decisiones.
-
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de enero de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
+México, D.F., a 8 de febrero de 2006.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
