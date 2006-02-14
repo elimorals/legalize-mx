@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-26-de-desarrollo-urbano-regional-y-vivienda-para-141
 country: "mx"
 rank: "ley"
 publication_date: "1999-04-17"
-last_updated: "2003-10-13"
+last_updated: "2006-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14180&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE DESARROLLO REGIONAL Y URBANO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE OCTUBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE FEBRERO DE 2006.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 17 de abril de 1999.
 
@@ -895,21 +895,33 @@ La solicitud para fusionar, subdividir, lotificar o relotificar terrenos, deber�
 
 Las autorizaciones a que se refiere este capítulo se otorgarán con base en lo dispuesto por el reglamento respectivo de esta Ley, con las excepciones que el mismo prevea.
 
-> <small>(REFORMADO, G.O. 13 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 81.
 
-Las disposiciones secundarias determinarán los tipos de fraccionamientos, los usos y destinos, los mínimos de superficies de lotes, frentes, vialidad, restricciones de ubicación y construcción, infraestructura necesaria, donaciones, mobiliario urbano, garantías, mecanismos de supervisión y recepción y demás elementos de la urbanización, de acuerdo con sus diferentes tipos; así como los requisitos, condiciones y procedimientos para la autorización de fraccionamientos, además de las obligaciones de los fraccionadores y de los adquirentes de lotes en los mismos.
+Las disposiciones secundarias determinarán los tipos de fraccionamientos, los usos y destinos, vialidad, restricciones de ubicación y construcción, infraestructura necesaria, donaciones, mobiliario urbano, mecanismos de supervisión y recepción y demás elementos de la urbanización, de acuerdo a sus diferentes tipos; así como a los requisitos, condiciones y procedimientos para la autorización de fraccionamientos, además de las obligaciones de los fraccionadores y los adquirentes de lotes en los mismos.
 
-Las dimensiones mínimas de lotes para vivienda unifamiliar serán de ciento cinco metros cuadrados con un frente de siete metros lineales y sólo en desarrollos habitacionales de interés social se permitirá el lote de ocupación unifamiliar cuyas dimensiones mínimas sean de sesenta y siete metros con cinco decímetros cuadrados de superficie y cuatro metros con cincuenta centímetros lineales de frente, siempre que sobre el mismo exista una vivienda estructuralmente independiente o, en su caso, se demuestre fehacientemente que el adquirente o el promotor ha recibido crédito para su constricción inminente.
+Las dimensiones mínimas de lotes para vivienda unifamiliar serán de ciento cinco metros cuadrados con un frente de siete metros lineales y sólo en desarrollos habitacionales de interés social se permitirá el lote de ocupación unifamiliar cuyas dimensiones mínimas sean de sesenta y siete metros con cincuenta decímetros cuadrados de superficie y cuatro metros con cincuenta centímetros lineales de frente, siempre que sobre el mismo exista una vivienda estructuralmente independiente o, en su caso, se demuestre fehacientemente que el adquirente o el desarrollador ha recibido crédito para su construcción inminente.
 
-No se permitirá el traslado de dominio de los lotes a que se refiere el párrafo anterior cuando:
+Las dimensiones mínimas de lotes para viviendas multifamiliares serán de ciento ochenta metros cuadrados con un frente de doce metros lineales, en agrupación de cuatro viviendas, dos en cada nivel; estos conjuntos contarán con un cajón de estacionamiento por vivienda, resueltos hacia el interior del lote. Para la enajenación de estas viviendas será necesario constituir régimen de condominio.
 
-I. No exista vivienda sobre él construida o no se demuestre la obtención de crédito con tal finalidad;
+Se entiende por desarrollo habitacional aquél en el que además de cumplirse los requisitos urbanos solicitados para los fraccionamientos de interés social, se ofrece como producto la vivienda.
 
-II. Se carezca de infraestructura básica en el sitio en que se ubique el lote; y
+Será improcedente la autorización de traslado de dominio de los lotes en desarrollos habitacionales cuando:
 
-III. Contándose con infraestructura básica en la zona, no se permita ampliar la cobertura del servicio por incremento de densidad y la mayor participación del suelo urbano.
+I. No exista vivienda construida sobre el lote o no se demuestre la obtención de crédito con tal finalidad;
+
+II. Se carezca de la infraestructura básica en el sitio en que se ubique el lote; y
+
+III. Contándose con la infraestructura básica en la zona, no se permita ampliar la cobertura del servicio por incremento de la densidad y la mayor participación del suelo urbano.
+
+Tratándose de desarrollos habitacionales, los tiempos de publicaciones se ajustarán a una sola exhibición, tanto en la Gaceta Oficial como en el periódico de mayor circulación del lugar donde se construya y por siete días consecutivos en la tabla de avisos del Palacio Municipal del lugar en que se ubique el proyecto.
+
+> <small>(F. DE E., G.O. 21 DE FEBRERO DE 2006)</small>
+
+En estos desarrollos habitacionales, para efectos de garantizar al estado la realización de las obras de urbanización, el desarrollador podrá optar por la constitución de fianza, hipoteca sobre el treinta por ciento de los lotes resultantes del proyecto autorizado o hipoteca equivalente al total del valor de la obra de urbanización sobre inmueble distinto.
+
+Los inmuebles a hipotecar deberán reportar al momento de constituir la garantía, libertad de gravamen y para su liberación se acreditará la recepción satisfactoria de los servicios públicos por parte de los órganos y entidades competentes, así como la exhibición de los instrumentos públicos, debidamente inscritos en el Registro Público de la Propiedad, en los que se consigne la donación a favor del Ayuntamiento de que se trate, de las áreas de vialidad, equipamiento y verdes.
 
 ###### Artículo 82.
 
@@ -1164,3 +1176,9 @@ G.O. 13 DE OCTUBRE DE 2003.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 14 DE FEBRERO DE 2006.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
