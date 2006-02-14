@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2006-01-12"
+last_updated: "2006-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE FEBRERO DE 2006.
 
 ULTIMA MODIFICACION AL LISTADO DE SUSTANCIAS PSICOTROPICAS: 9 DE JULIO DE 1996.
 
@@ -2566,15 +2566,13 @@ El control sanitario del proceso, importación y exportación de medicamentos, e
 
 Para los efectos de esta ley se consideran insumos para la salud: Los medicamentos, substancias psicotrópicas, estupefacientes y las materias primas y aditivos que intervengan para su elaboración; así como los equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, material quirúrgico, de curación y productos higiénicos, estos últimos en los términos de la fracción VI del artículo 262 de esta ley.
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 14 DE FEBRERO DE 2006)</small>
 
 ###### ARTICULO 195.
 
-La Secretaría de Salud emitirá las normas oficiales mexicanas a que deberá sujetarse el proceso y las especificaciones de los productos a que se refiere este título. Los medicamentos estarán normados por la Farmacopea de los Estados Unidos Mexicanos.
+La Secretaría de Salud emitirá las normas oficiales mexicanas a que deberá sujetarse el proceso y las especificaciones de los productos a que se refiere este Título. Los medicamentos y demás insumos para la salud estarán normados por la Farmacopea de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
-
-La Secretaría de Salud mantendrá permanentemente actualizada la Farmacopea de los Estados Unidos Mexicanos, para lo cual contará con un órgano asesor.
+La Secretaría de Salud mantendrá permanentemente actualizada la Farmacopea de los Estados Unidos Mexicanos, para lo cual contará con un órgano técnico asesor que será la Comisión Permanente de la Farmacopea de los Estados Unidos Mexicanos. Dicho órgano asesor, mediante acuerdos de colaboración que celebre con la Secretaría de Salud, a través de la Comisión Federal para la Protección contra Riesgos Sanitarios, elaborará, publicará y difundirá la Farmacopea de los Estados Unidos Mexicanos.
 
 ###### ARTICULO 196.
 
@@ -2666,11 +2664,11 @@ V.- Clave de la actividad del establecimiento, y
 
 VI.- Número de cédula profesional, en su caso, de responsable sanitario.
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 14 DE FEBRERO DE 2006)</small>
 
 ###### ARTICULO 201.
 
-La Secretaría de Salud, determinará los tipos de establecimientos dedicados al proceso de los productos a que se refiere este título, que deberán efectuar su control interno con base en las normas oficiales mexicanas que al efecto se expidan.
+La Secretaría de Salud, determinará los tipos de establecimientos dedicados al proceso de los productos a que se refiere este Título, que deberán efectuar su control interno con base en las normas oficiales mexicanas o las disposiciones aplicables que al efecto se expidan.
 
 > <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
@@ -2724,11 +2722,11 @@ III.- Modifiquen sus características, siempre que éstas tengan repercusión en
 
 Para expresar las unidades de medida y peso de los productos a que se refiere este Título, se usará el Sistema Internacional de Unidades.
 
-> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 14 DE FEBRERO DE 2006)</small>
 
 ###### ARTICULO 210.
 
-Los productos que deben expenderse empacados o envasados llevarán etiquetas que deberán cumplir con las normas oficiales mexicanas que al efecto se emitan, y en el caso de alimentos y bebidas no alcohólicas, éstas se emitirán a propuesta de la Secretaría de Salud, sin menoscabo de las atribuciones de otras dependencias competentes.
+Los productos que deben expenderse empacados o envasados llevarán etiquetas que deberán cumplir con las normas oficiales mexicanas o disposiciones aplicables, y en el caso de alimentos y bebidas no alcohólicas, éstas se emitirán a propuesta de la Secretaría de Salud, sin menoscabo de las atribuciones de otras dependencias competentes.
 
 ###### ARTICULO 211.
 
@@ -3618,7 +3616,9 @@ XII.- Los demás que determine el Consejo de Salubridad General.
 
 Los establecimientos a que se refieren las fracciones I, II, IV y XI, del artículo anterior y los relativos a las demás fracciones cuando se dediquen al proceso de los productos señalados en la fracción I del artículo 198 de esta Ley, deben contar con la licencia sanitaria correspondiente expedida por la Secretaría de Salud. Los establecimientos diversos a los referidos en el presente párrafo sólo requieren presentar aviso de funcionamiento ante la Secretaría de Salud.
 
-Los establecimientos a que se refieren las fracciones I, II, IV y XI, del artículo anterior y las relativas a las demás fracciones cuando se dediquen a la obtención, elaboración, fabricación, preparación, conservación, mezclado, acondicionamiento, envasado y manipulación de los productos señalados en la fracción I del artículo 198 de esta Ley, deben poseer y cumplir con lo establecido en la última edición de la Farmacopea de los Estados Unidos Mexicanos y sus suplementos oficiales elaborados por la propia Secretaría. Los diversos establecimientos a los contemplados en el presente párrafo únicamente deben poseer y cumplir con lo establecido en los suplementos de la Farmacopea de los Estados Unidos Mexicanos relativos a la venta y suministro de medicamentos.
+> <small>(REFORMADO, D.O.F. 14 DE FEBRERO DE 2006)</small>
+
+Los establecimientos a que se refieren las fracciones I, II, IV y XI, del artículo anterior y las relativas a las demás fracciones cuando se dediquen a la obtención, elaboración, fabricación, preparación, conservación, mezclado, acondicionamiento, envasado y manipulación de los productos señalados en la fracción I del artículo 198 de esta Ley, deben poseer y cumplir con lo establecido en la última edición de la Farmacopea de los Estados Unidos Mexicanos y sus suplementos oficiales para productos o actividades específicas, elaborados por la propia Secretaría. Los diversos establecimientos a los contemplados en el presente párrafo únicamente deben poseer y cumplir con lo establecido en los suplementos de la Farmacopea de los Estados Unidos Mexicanos relativos a la venta y suministro de medicamentos.
 
 > <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
@@ -3684,13 +3684,13 @@ VI.- Productos higiénicos: Los materiales y substancias que se apliquen en la s
 
 En el caso de equipos médicos, prótesis, órtesis y ayudas funcionales, deberán expresarse en la etiqueta o manual correspondiente las especificaciones de manejo y conservación, con las características que señale la Secretaría de Salud.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 14 DE FEBRERO DE 2006)</small>
 
 ###### ARTICULO 264.
 
-El proceso, uso y mantenimiento de equipos médicos y agentes de diagnóstico en los que intervengan fuentes de radiación, se ajustarán a las normas oficiales mexicanas dictadas por la Secretaría de Salud, incluso en la eliminación de desechos de tales materiales, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
+El proceso, uso y mantenimiento de equipos médicos y agentes de diagnóstico en los que intervengan fuentes de radiación, se ajustarán a las normas oficiales mexicanas o disposiciones aplicables, incluso en la eliminación de desechos de tales materiales, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
 
-Las etiquetas y contraetiquetas de los equipos y agentes de diagnóstico deberán ostentar, además de los requisitos establecidos en el artículo 210 de esta Ley, la leyenda: "Peligro, material radiactivo para uso exclusivo en medicinas"; la indicación de los isótopos que contienen actividad, vida media de los mismos y tipo de radiaciones que emiten, así como el logotipo internacional reconocido para indicar los materiales radiactivos.
+Las etiquetas y contraetiquetas de los equipos y agentes de diagnóstico deberán ostentar, además de los requisitos establecidos en el artículo 210 de esta Ley, la leyenda: "Peligro, material radiactivo para uso exclusivo en medicina"; la indicación de los isótopos que contienen actividad, vida media de los mismos y tipo de radiaciones que emiten, así como el logotipo internacional reconocido para indicar los materiales radiactivos.
 
 ###### ARTICULO 265.
 
@@ -3932,25 +3932,17 @@ El importador de los productos a que se refiere este Título, deberá estar domi
 
 En materia de alimentos, bebidas no alcohólicas, bebidas alcohólicas, productos de perfumería, belleza y aseo, tabaco, así como de las materias que se utilicen en su elaboración el Secretario de Salud, mediante acuerdo publicado en el Diario Oficial de la Federación, determinará con base en los riesgos para la salud qué productos o materias primas requieren autorización previa de importación.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 14 DE FEBRERO DE 2006)</small>
 
 ###### ARTICULO 286 Bis.
 
-La importación de los productos y materias primas comprendidos en este título que no requieran de autorización sanitaria previa de importación, se sujetará a las siguientes bases:
+La importación de los productos y materias primas comprendidos en este Título que no requieran de autorización sanitaria previa de importación, se sujetará a las siguientes bases:
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
+I.- Podrán importarse los productos, siempre que el importador exhiba la documentación establecida en las disposiciones reglamentarias de esta Ley, incluido el certificado sanitario expedido por la autoridad sanitaria del país de origen, de acuerdo con los convenios y tratados internacionales que se celebren o de laboratorios nacionales o extranjeros acreditados por las Secretarías de Salud o de Comercio y Fomento Industrial, conforme a los acuerdos de coordinación que celebren estas dependencias. Asimismo, deberá dar aviso a la Secretaría del arribo y destino de los productos;
 
-I.- Podrán importarse los productos, siempre que el importador exhiba la documentación establecida en las disposiciones reglamentarias de esta ley, incluido el certificado sanitario expedido por la autoridad sanitaria del país de origen, de acuerdo con los convenios y tratados internacionales que se celebren o de laboratorios nacionales o extranjeros acreditados por las Secretarías de Salud o de Comercio y Fomento Industrial, conforme a los acuerdos de coordinación que celebren estas dependencias. Asimismo, deberá dar aviso a la Secretaría del arribo y destino de los productos.
+II.- La Secretaría podrá aleatoriamente muestrear y analizar los productos importados, aún cuando cuenten con certificación sanitaria a fin de verificar el cumplimiento de las normas oficiales mexicanas o disposiciones aplicables. Cuando se encuentre que el producto muestreado no cumple con las normas o disposiciones citadas, la Secretaría podrá solicitar su acondicionamiento, y si esto no es posible, procederá en los términos de esta Ley. Además, en estos casos se revocará la autorización del laboratorio que expidió el certificado, y
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
-
-II.- La Secretaría podrá aleatoriamente muestrear y analizar los productos importados, aún cuando cuenten con certificación sanitaria a fin de verificar el cumplimiento de las normas oficiales mexicanas. Cuando se encuentre que el producto muestreado no cumple con las normas citadas, la Secretaría podrá solicitar su acondicionamiento, y si esto no es posible, procederá en los términos de esta ley. Además, en estos casos se revocará la autorización del laboratorio que expidió el certificado, y
-
-> <small>N. DE E. EN EL ARTICULO SEGUNDO DEL DECRETO DE FECHA 15 DE ABRIL DE 1997, PUBLICADO EN EL D.O.F. EL DIA 7 DE MAYO DEL MISMO AÑO, EL LEGISLADOR SEÑALA QUE SE REFORMAN LOS ARTICULOS EN CUANTO A LA SUSTITUCION DE LA EXPRESION “NORMAS TECNICAS” POR LA DE “NORMAS OFICIALES MEXICANAS”. DEL CONTEXTO DE LA FRACCION QUE A CONTINUACION SE SEÑALA SE DESPRENDE QUE LA MISMA CONTIENE DICHA EXPRESION SIN ESTAR CONTENIDO ESPECIFICAMENTE EN EL DECRETO DE REFERENCIA, POR LO QUE SE HACE LA ADECUACION CORRESPONDIENTE.</small>
-
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
-
-III.- Los productos nuevos o aquellos que vayan a ser introducidos por primera vez al país, previa su internación serán muestreados y analizados en laboratorios acreditados, para verificar que cumplan con las normas oficiales mexicanas.
+III.- Los productos nuevos o aquellos que vayan a ser introducidos por primera vez al país, previa su internación serán muestreados y analizados en laboratorios acreditados, para verificar que cumplan con las normas oficiales mexicanas o disposiciones aplicables.
 
 > <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
@@ -4812,11 +4804,11 @@ Las autorizaciones sanitarias tendrán el carácter de licencias, permisos, regi
 
 Las autorizaciones sanitarias serán otorgadas por la Secretaría de Salud o por los gobiernos de las entidades federativas, en el ámbito de sus respectivas competencias, en los términos de esta Ley y demás disposiciones aplicables.
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 14 DE FEBRERO DE 2006)</small>
 
 ###### ARTICULO 370.
 
-Las autorizaciones sanitarias serán otorgadas por tiempo indeterminado, con las excepciones que establezca esta ley. En caso de incumplimiento de las normas oficiales mexicanas las autorizaciones serán canceladas.
+Las autorizaciones sanitarias serán otorgadas por tiempo indeterminado, con las excepciones que establezca esta Ley. En caso de incumplimiento de lo establecido en esta ley, sus reglamentos, normas oficiales mexicanas, las demás disposiciones generales que emita la Secretaría de Salud, o de las aplicables de la Farmacopea de los Estados Unidos Mexicanos, las autorizaciones serán revocadas.
 
 ###### ARTICULO 371.
 
@@ -5995,5 +5987,9 @@ D.O.F. 26 DE DICIEMBRE DE 2005.
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 12 DE ENERO DE 2006.
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE FEBRERO DE 2006.
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
