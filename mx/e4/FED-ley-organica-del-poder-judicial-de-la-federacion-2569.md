@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-poder-judicial-de-la-federacion-2569"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-05-26"
-last_updated: "2005-01-31"
+last_updated: "2006-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2569&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOPJF"
 
 LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE FEBRERO DE 2006.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 26 de mayo de 1995.
 
@@ -332,7 +332,7 @@ b) De los amparos directos que por su interés y trascendencia así lo ameriten 
 
 > <small>(REFORMADA, D.O.F. 17 DE MAYO DE 2001)</small>
 
-IV. Del recurso de queja interpuesto en los casos a que se refieren las fracciones V, VII, VIII, IX y X del artículo 95 de la Ley de Amparo, siempre que el conocimiento del amparo en que la queja se haga valer sea competencia de una de las Salas, directamente o en revisión, en los términos del artículo 99, párrafos segundo y tercero, de la misma ley;
+IV. Del recurso de queja interpuesto en los casos a que se refieren las fracciones V, VII, VIII, IX y X del artículo 95 de la Ley de Amparo, siempre que el conocimiento del amparo en que la queja se haga valer sea competencia de una de las Salas, directamente o la revisión, en los términos del artículo 99, párrafos segundo y tercero, de la misma ley;
 
 V. Del recurso de reclamación contra los acuerdos de trámite dictados por su presidente;
 
@@ -1586,6 +1586,10 @@ En contra de las resoluciones dictadas por el ministro a quien conforme a lo dis
 
 Cuando el recurso de reclamación se interponga sin motivo, se impondrá al recurrente o a su representante, a su abogado o a ambos, una multa de diez a ciento veinte días de salario.
 
+## TITULO DECIMO SEGUNDO. DEL FONDO DE APOYO A LA ADMINISTRACION DE JUSTICIA
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 14 DE FEBRERO DE 2006)</small>
+
 ### CAPITULO V. DE LAS VACACIONES Y DIAS INHABILES
 
 ###### ARTICULO 144.
@@ -2264,6 +2268,10 @@ Cada magistrado de la Sala Superior y de las Salas Regionales contará permanent
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
+### CAPITULO I. DE LA ORGANIZACION
+
+> <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 2006)</small>
+
 ###### ARTICULO 200.
 
 Para el ejercicio de sus funciones la Sala Superior contará con un secretario general de acuerdos y un subsecretario general de acuerdos que serán nombrados en los términos del artículo 188 de esta ley.
@@ -2310,6 +2318,10 @@ El subsecretario general de acuerdos auxiliará y apoyará al secretario general
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
+### CAPITULO II. DE LA INTEGRACION
+
+> <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 2006)</small>
+
 ###### ARTICULO 203.
 
 Para el ejercicio de sus funciones cada una de las Salas Regionales nombrará a un secretario general, previa aprobación de la Comisión de Administración.
@@ -2349,6 +2361,10 @@ X.- Informar permanentemente al presidente de la Sala sobre el funcionamiento de
 XI.- Las demás que les señalen las leyes.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+
+### CAPITULO III. DE LA ADMINISTRACION Y OPERACION
+
+> <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 2006)</small>
 
 ###### ARTICULO 205.
 
@@ -2499,6 +2515,10 @@ DE LOS ORGANOS AUXILIARES
 La Comisión de Administración contará con una Secretaría Administrativa y con los órganos auxiliares necesarios para el adecuado ejercicio de las funciones que tiene encomendadas. Su estructura y funciones quedarán determinadas en el Reglamento Interno del Tribunal Electoral.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+
+### CAPITULO IV. DEL DESTINO
+
+> <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 2006)</small>
 
 ###### ARTICULO 212.
 
@@ -2824,6 +2844,94 @@ La Comisión Sustanciadora en los conflictos laborales se integrará por un repr
 
 Los servidores del Tribunal que sean destituidos podrán apelar tal decisión ante la Sala Superior del mismo.
 
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 14 DE FEBRERO DE 2006)</small>
+
+###### ARTICULO 242.
+
+El Poder Judicial de la Federación se auxiliará para el mejor desempeño de sus funciones de un fondo económico para el mejoramiento de la administración de justicia y administrar los recursos financieros que integren el mismo.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 14 DE FEBRERO DE 2006)</small>
+
+###### ARTICULO 243.
+
+El patrimonio del Fondo de Apoyo a la Administración de Justicia se integra con:
+
+I. Las donaciones o aportaciones hechas a su favor por terceros;
+
+II. Los ingresos provenientes de la enajenación de inmuebles en términos de lo dispuesto por el artículo 23, fracción II, de la Ley General de Bienes Nacionales, así como los obtenidos por la enajenación de bienes decomisados en procesos penales federales de conformidad con lo establecido en el artículo 182-R, del Código Federal de Procedimientos Penales;
+
+III. Los intereses que se generen por las inversiones que se hagan de los depósitos en dinero o en valores que se efectúen ante los órganos jurisdiccionales del Poder Judicial de la Federación, y
+
+IV. Los ingresos que se produzcan por la administración de valores o los depósitos en dinero, diversos a los que se refiere la fracción anterior.
+
+> <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 2006)</small>
+
+###### ARTICULO 244.
+
+Los recursos con los que se integre y opere el Fondo serán diferentes de aquellos que comprenda el presupuesto anual aprobado a favor del Poder Judicial de la Federación, y no afectarán las partidas que sean autorizadas mediante dicho presupuesto.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 14 DE FEBRERO DE 2006)</small>
+
+###### ARTICULO 245.
+
+El Fondo será manejado y operado por el Consejo de la Judicatura Federal, el cual fungirá como Comité Técnico del mismo.
+
+> <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 2006)</small>
+
+###### ARTICULO 246.
+
+El Consejo de la Judicatura Federal fungirá como Comité Técnico, el cual será integrado por siete consejeros de la Judicatura Federal para cuyo efecto se auxiliará con una Secretaría Técnica integrada por un profesionista especializado en finanzas y administración.
+
+La Presidencia del Comité Técnico corresponde al Presidente del Consejo de la Judicatura Federal.
+
+El Comité Técnico decidirá el destino específico de los rendimientos del Fondo.
+
+> <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 2006)</small>
+
+###### ARTICULO 247.
+
+La Secretaría Técnica del Fondo tendrá las obligaciones siguientes:
+
+I. Llevar la documentación relativa;
+
+II. Elaborar los informes periódicos sobre la situación contable y financiera que guarde el Fondo;
+
+III. Proponer con cargo a los rendimientos del Fondo las erogaciones y gastos necesarios para el mejoramiento de la administración de justicia, y
+
+IV. Las demás que señale el Comité.
+
+> <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 2006)</small>
+
+###### ARTICULO 248.
+
+Los recursos que integren el Fondo deberán ser administrados en valores de renta fija del más alto rendimiento, siempre que éstos permitan la disponibilidad inmediata y suficiente de las sumas que resulte necesario reintegrar a los depositantes o entregar a los particulares que tengan derecho a ellas.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 14 DE FEBRERO DE 2006)</small>
+
+###### Artículo 249.
+
+Los recursos del Fondo se destinarán a:
+
+I. Sufragar gastos que origine su administración;
+
+II. La adquisición, construcción y remodelación de bienes inmuebles destinados a sedes de órganos jurisdiccionales del Poder Judicial de la Federación;
+
+III. Comprar, rentar, reparar o mantener el mobiliario y el equipo necesario para el funcionamiento de las sedes jurisdiccionales del Poder Judicial de la Federación, y
+
+IV. La capacitación, mejoramiento y especialización profesional del personal del Poder Judicial de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 2006)</small>
+
+###### ARTICULO 250.
+
+Los recursos disponibles serán exclusivamente los provenientes del rendimiento que genere el Fondo.
+
+> <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 2006)</small>
+
+###### ARTICULO 251.
+
+La administración del Fondo se regirá por todas las disposiciones aplicables en esta Ley.
+
 ## ARTICULOS TRANSITORIOS
 
 PRIMERO. La presente ley entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -2971,3 +3079,9 @@ UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicaci�
 D.O.F. 31 DE ENERO DE 2005.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE FEBRERO DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El Fondo previsto en el artículo 246, deberá quedar formalmente constituido dentro de los sesenta días siguientes al inicio de la vigencia de este Decreto.
