@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-civiles-para-el-estado-de-veracruz-991
 country: "mx"
 rank: "codigo"
 publication_date: "1932-10-13"
-last_updated: "2004-11-04"
+last_updated: "2006-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE FEBRERO DE 2006.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 13 de octubre de 1932.
 
@@ -5201,7 +5201,9 @@ I.- Para justificar hechos y acreditar derechos;
 
 II.- Para acreditar residencia, buena conducta, dependencia económica o el dominio de construcciones de mejora a un inmueble;
 
-III.- Para acreditar hechos conocidos y sabidos por todos o acreditar situaciones jurídicas;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2006)</small>
+
+III.- Para acreditar hechos conocidos o acreditar situaciones jurídicas;
 
 IV.- Para comprobar la posesión de un derecho real;
 
@@ -5940,6 +5942,12 @@ G.O. 4 DE NOVIEMBRE DE 2004.
 PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE FEBRERO DE 2006.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 354: SE ADICIONA UN ARTÍCULO DÉCIMO PRIMERO AL DECRETO NÚMERO 152, QUE CONTIENE EL CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES”.]
 
