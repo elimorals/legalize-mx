@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-organico-de-la-administracion-publica-estatal-de-220
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-10-15"
-last_updated: "2006-02-01"
+last_updated: "2006-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA ESTATAL DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2006.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el viernes 15 de octubre de 1999.
 
@@ -973,11 +973,17 @@ V. La Coordinación General de Acceso a la Información Pública;
 
 VI. La Representación del Gobierno del Estado de Sinaloa en el Distrito Federal; y (sic),
 
-> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2002)</small>
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2006)</small>
 
-VII. La Unidad para el Fomento a la Vivienda; y,
+VII. La Unidad para el Fomento a la Vivienda;
 
-VIII. Las demás que establezcan las leyes, decretos y las que cree el Ejecutivo Estatal.
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2006)</small>
+
+VIII. La Unidad de Apoyo Técnico a Proyectos; y,
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2006)</small>
+
+IX. Las demás que establezcan las leyes y decretos, y las que cree el Ejecutivo Estatal.
 
 ### CAPÍTULO II. DE LA SECRETARÍA PARTICULAR DEL GOBERNADOR DEL ESTADO
 
@@ -1203,9 +1209,33 @@ VII. Los demás que se deriven de las leyes y reglamentos aplicables o que le en
 
 1.- Al titular de esta entidad administrativa se le denominará Vocal Ejecutivo de la Unidad para el Fomento a la Vivienda. Para el despacho de los asuntos de su competencia se auxiliará de los servidores públicos necesarios para el cumplimiento de sus funciones.
 
-### CAPÍTULO VII. DISPOSICIONES COMUNES A LAS ENTIDADES ADMINISTRATIVAS QUE DEPENDEN DEL EJECUTIVO
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 15 DE FEBRERO DE 2006)</small>
 
-### CAPÍTULO I. DE SU DENOMINACIÓN
+### CAPÍTULO VI TER. DE LA UNIDAD DE APOYO TÉCNICO A PROYECTOS
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
+
+###### Artículo 54 Ter.
+
+A la Unidad de Apoyo Técnico a Proyectos le corresponde el despacho de los siguientes asuntos:
+
+I. Auxiliar al titular del Poder Ejecutivo del Estado en la elaboración de proyectos en los distintos rubros de la administración pública, que permitan el crecimiento y desarrollo del Estado en sus diversos aspectos;
+
+II. Promover, gestionar y ejecutar las acciones necesarias para la implementación y desarrollo de los proyectos que determine el titular del Poder Ejecutivo del Estado;
+
+III. Realizar ante las autoridades de los distintos órdenes de gobierno, las gestiones necesarias para la ejecución de los proyectos y programas encomendados por el titular del Poder Ejecutivo Estatal;
+
+IV. Proporcionar asesoría técnica al titular del Poder Ejecutivo Estatal en todos aquellos asuntos que éste le encomiende; y,
+
+V. Las demás que le atribuyan expresamente las leyes y reglamentos, y las que le encomiende el titular del Poder Ejecutivo del Estado.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
+
+###### Artículo 54 Ter-A.
+
+Al titular de esta entidad administrativa se le denominará Coordinador de la Unidad de Apoyo Técnico a Proyectos. Para el despacho de los asuntos de su competencia, se auxiliará del personal técnico especializado y administrativo que señale su reglamento interior o que determine el presupuesto de egresos.
+
+### CAPÍTULO VII. DISPOSICIONES COMUNES A LAS ENTIDADES ADMINISTRATIVAS QUE DEPENDEN DEL EJECUTIVO
 
 ###### Artículo 55.
 
@@ -1229,7 +1259,7 @@ Son aplicables a las entidades administrativas a que se refieren los Capítulos 
 
 ## TÍTULO SEXTO. DE OTRAS ENTIDADES ADMINISTRATIVAS
 
-### CAPÍTULO II. DE LA PRESIDENCIA DE LA JUNTA LOCAL DE CONCILIACIÓN Y ARBITRAJE DEL ESTADO
+### CAPÍTULO I. DE SU DENOMINACIÓN
 
 ###### Artículo 60.
 
@@ -1243,17 +1273,19 @@ III. La Comisión Constructora de Sinaloa; y,
 
 IV. Las demás que establezcan las leyes, decretos y las que cree el Ejecutivo Estatal.
 
-### CAPÍTULO III. DEL CUERPO DE DEFENSORES DE OFICIO
+### CAPÍTULO II. DE LA PRESIDENCIA DE LA JUNTA LOCAL DE CONCILIACIÓN Y ARBITRAJE DEL ESTADO
 
 ###### Artículo 61.
 
 Corresponde al Presidente de la Junta Local de Conciliación y Arbitraje del Estado, representar al Gobierno Estatal ante ese tribunal de acuerdo con lo dispuesto en la Ley Federal del Trabajo, sus reglamentos y el propio reglamento interior de la Junta.
 
-### CAPÍTULO IV. DE LA COMISIÓN CONSTRUCTORA DE SINALOA
+### CAPÍTULO III. DEL CUERPO DE DEFENSORES DE OFICIO
 
 ###### Artículo 62.
 
 Corresponde al Cuerpo de Defensores de Oficio del Fuero Común, proporcionar, obligatoria y gratuitamente los servicios jurídicos de defensa a los indiciados en materia penal, a los menores sujetos a procedimiento en los términos de lo dispuesto en la ley de la materia, y a quienes lo soliciten en las materias civil y administrativa, de acuerdo con su Ley Orgánica.
+
+### CAPÍTULO IV. DE LA COMISIÓN CONSTRUCTORA DE SINALOA
 
 ###### Artículo 63.
 
@@ -1404,3 +1436,7 @@ Artículo Único. El presente Decreto entrará en vigor el día siguiente de su 
 P.O. 1 DE FEBRERO DE 2006.
 
 Artículo Único. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 15 DE FEBRERO DE 2006.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
