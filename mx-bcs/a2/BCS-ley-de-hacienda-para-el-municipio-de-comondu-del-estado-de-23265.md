@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-comondu-del-estado-de-2326
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2005-08-10"
+last_updated: "2006-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE COMONDU DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 15 DE FEBRERO DE 2006.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 5 de noviembre de 2001.
 
@@ -97,15 +97,21 @@ BASE Y TASA DEL IMPUESTO
 
 El impuesto sobre la propiedad rústica se causara sobre el valor catastral de los predios rústicos conforme a las siguientes tasas:
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, B.O. 15 DE FEBRERO DE 2006)</small>
 
-a). 1.19 al millar anual sí están explotados por su dueño.
+a). 3.1 al millar anual si están explotados por su dueño.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, B.O. 15 DE FEBRERO DE 2006)</small>
 
-b). 2.26 al millar anual sino están explotados por su dueño.
+b). 8.12 al millar anual si no están explotados por su dueño.
 
-c). En ningún caso el impuesto predial anual será inferior a un días (sic) de salario mínimo.
+> <small>(REFORMADO, B.O. 15 DE FEBRERO DE 2006)</small>
+
+c). En ningún caso el impuesto predial anual será inferior a tres días de salario mínimo.
+
+> <small>(ADICIONADO, B.O. 15 DE FEBRERO DE 2006)</small>
+
+d) Los Terrenos Ejidales que hayan sido objeto de parcelamientos y que sean colindantes con la Zona Federal Marítima Terrestre, en el momento en que se realice la enajenación al segundo propietario se aplicaran los valores catastrales del centro de población mas cercano y que tengan terrenos con la misma característica de colindancia con la Zona Federal, se les aplicará la tasa del 5.2%
 
 ###### Artículo 7.
 
@@ -137,9 +143,9 @@ c). A razón del 7.8 al millar anual sobre el valor catastral de los predios no 
 
 d). A razón de 6 al millar anual sobre el valor catastral de los predios no edificados o baldíos ubicados en fraccionamientos o en desarrollos urbanos legalmente autorizados, siempre y cuando dichos predios no sean enajenados a terceros, prometidos en venta o con reserva de dominio. Esta disposición no será aplicable a los predios no edificados o baldíos que sean producto de una subdivisión, fusión o relotificación común.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, B.O. 15 DE FEBRERO DE 2006)</small>
 
-e). En ningún caso el impuesto predial anual deberá ser inferior a tres días de salario mínimo.
+e). En ningún caso el impuesto predial anual deberá ser inferior a tres días de salario mínimo, salvo en los casos de la reducción establecida en el Título Séptimo de esta Ley.
 
 ###### Artículo 10.
 
@@ -173,7 +179,7 @@ I. Los bienes de dominio público de la Federación, Estados y Municipios, salvo
 
 II. Los bienes a que se refiere el párrafo anterior no quedarán liberados de la obligación de presentar las manifestaciones que establece la ley de catastro.
 
-III. Por un año, las fincas inutilizadas por incendio, derrumbe u otro hecho semejante ajena a la voluntad del dueño, siempre y cuando dentro del plazo señalado no se determinen nuevas construcciones o se dé en arrendamiento el predio.
+III. (DEROGADA, B.O. 15 DE FEBRERO DE 2006)
 
 ###### Artículo 12.
 
@@ -187,21 +193,29 @@ Los causantes no quedaran liberados de la obligación de presentar las manifesta
 
 Están obligados al pago del impuesto sobre adquisición de bienes inmuebles establecidos en esta ley, las personas físicas o morales que adquieran inmuebles que consistan en el suelo o en las construcciones adheridas a él, ubicados en el territorio del municipio de Comondú, así como los derechos relacionados con los mismos a que este capitulo se refiere.
 
-El impuesto se calculara a la tasa del 2% al valor del inmueble, después de reducirlo en cinco veces al salario mínimo general de la zona elevado al año.
+> <small>(REFORMADO, B.O. 15 DE FEBRERO DE 2006)</small>
 
-En caso de adquisición de casa-habitación de interés social, mediante otorgamiento de créditos de instituciones oficiales o de crédito, el impuesto se calculara aplicando la tasa del 2% al valor del inmueble después de reducirlo en veinte veces el salario mínimo general de la zona elevado al año.
+El impuesto se calculara a la tasa del 2% al valor de transacción comercial del inmueble.
 
-Esta misma disposición se observara para gravar la adquisición de casa habitación de interés social, entre particulares. en ambos casos se estará a lo dispuesto por el último párrafo de este mismo artículo.
+> <small>(REFORMADO, B.O. 15 DE FEBRERO DE 2006)</small>
+
+Cuando el bien que se adquiera sea terreno y construcción destinada a casa-habitación, el impuesto se calculará aplicando la tasa del 2% del valor del inmueble, después de reducirlo en cinco veces el salario mínimo general de la zona elevado al año.
+
+> <small>(REFORMADO, B.O. 15 DE FEBRERO DE 2006)</small>
+
+En caso de adquisición de casa-habitación de interés social, quedaran exentas del pago del impuesto siempre y cuando el adquiriente demuestre no tener el y o su cónyuge otra propiedad.
 
 En el caso de adquisición por donación o sucesión entre cónyuges o parientes en línea directa ascendente o descendente, el impuesto se calculara aplicando la tasa del 1% sobre el valor del avalúo.
 
 Al cederse los derechos hereditarios o enajenarse bienes de la sucesión, el impuesto correspondiente a la adquisición por causa de muerte se calculara aplicando la tasa prevista en el primer párrafo de este artículo, independientemente de que cause por el cesionario, por la sucesión o por el adquirente.
 
-Se considera vivienda de interés social aquella que su costo de adquisición no rebase 7,500 veces el salario mínimo general de la zona, siempre y cuando el adquirente demuestre no tener en propiedad él o su cónyuge, otra propiedad.
+> <small>(REFORMADO, B.O. 15 DE FEBRERO DE 206)</small>
+
+Se considera vivienda de interés social aquella que su costo de adquisición no rebase 5,625 veces el salario mínimo general de la zona.
 
 ###### Artículo 14.
 
-No se causara este impuesto en las adquisiciones de inmuebles del dominio público de la Federación, Estados extranjeros, Estados o los municipios en caso de reciprocidad.
+(DEROGADO, B.O. 15 DE FEBRERO DE 2006)
 
 ###### Artículo 15.
 
@@ -307,13 +321,21 @@ IV. No se considerarán departamentos habitacionales los que por sus caracterís
 
 Por espectáculo público debe entenderse toda función o acto de esparcimiento, sea teatral, cinematográfico, deportivo o de cualquier otra índole que se verifiquen en salones, teatros, calles, plazas, locales abiertos o cerrados, en donde se reúna un grupo de personas pagando por ello cierta cantidad de dinero.
 
-Debe entenderse por diversiones los juegos mecánicos, juegos electrónicos, tragamonedas o cualquier otra actividad similar que se verifique en los locales abiertos o cerrados o en la vía pública.
+> <small>(REFORMADO, B.O. 15 DE FEBRERO DE 2006)</small>
 
-Son causantes de este impuesto, las personas físicas, morales o unidades económicas sin personalidad jurídica que ordinaria o accidentalmente organicen o exploten espectáculos públicos o diversiones, con excepción de patronatos o sociedades de las instituciones educativas que promuevan estas actividades avaladas por la dirección de la institución correspondiente.
+Debe entenderse por diversiones, los juegos mecánicos, juegos electrónicos, tragamonedas, rodeos, jaripeos, tlacoachadas o carreras de caballos, arrancones y carreras de cualquier tipo de unidad automotriz, o cualquier otra actividad similar que se verifique en los locales abiertos o cerrados o en la vía pública.
 
-Los sujetos pagarán por concepto de este impuesto del 8% sobre el boletaje de entrada bruta al establecimiento en donde realice el espectáculo.
+> <small>(REFORMADO, B.O. 15 DE FEBRERO DE 2006)</small>
 
-Los sujetos por concepto de diversiones cubrirán el impuesto de la siguiente manera; los eventuales pagarán una cuota por día equivalente al importe de 3 a 10 días salario mínimo general, a juicio de la autoridad municipal.
+Igualmente es objeto de este impuesto, la explotación de billares, boliches, mesas de dominó, y otros juegos de estrado, squash, tenis, balnearios, salones de baile, discotecas, bailes públicos, kermeses, verbenas, ferias, juegos eléctricos, automáticos, musicales, equipos de sonido y otros similares, así como la realización de cualquiera otra actividad que tienda a proporcionar diversión al público.
+
+> <small>(REFORMADO, B.O. 15 DE FEBRERO DE 2006)</small>
+
+Son contribuyentes de este impuesto, las personas físicas, morales o unidades económicas sin personalidad jurídica que ordinaria o accidentalmente organicen o exploten espectáculos públicos o diversiones, con excepción de patronatos o sociedades de las instituciones educativas que promuevan estas actividades avaladas por la dirección de la institución correspondiente.
+
+> <small>(REFORMADO, B.O. 15 DE FEBRERO DE 2006)</small>
+
+Los sujetos pagarán por concepto de este impuesto el 10% sobre el boletaje de entrada bruta al establecimiento en donde realice el espectáculo.
 
 ###### Artículo 22.
 
@@ -323,9 +345,11 @@ I. Si se puede determinar previamente el monto del impuesto por adelantado, a m�
 
 II. Si no puede determinarse previamente el monto del impuesto, el representante de la autoridad, al finalizar el evento, formulará por triplicado la liquidación del impuesto para que sea pagado el día hábil siguiente o de inmediato al interventor, un ejemplar de la liquidación se entregará al empresario y los otros dos a la tesorería municipal.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 15 DE FEBRERO DE 2006)</small>
+
 ###### Artículo 23.
 
-Los empresarios a que se refiere el artículo 21 tendrán las siguientes obligaciones:
+Los contribuyentes a que se refiere el artículo 21 tendrán las siguientes obligaciones:
 
 I. Obtener la licencia respectiva antes de anunciar una función o serie de éstas.
 
@@ -357,9 +381,13 @@ Dicha explotación constituye el objeto del impuesto y requiere licencia previa 
 
 Este impuesto será cubierto conforme a lo siguiente:
 
-I. Rifas autorizadas por las autoridades competentes sobre el monto de las acciones, billetes o boletos de 10% a 15%.
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
 
-II. Loterías de tablas de números, etc. mensual 10 % a 15%
+I. Rifas autorizadas por las autoridades competentes sobre el monto de las acciones, billetes o boletos, el 10% sobre el ingreso bruto.
+
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
+
+II. Loterías de tablas de números, etc. mensual el 10% sobre el ingreso bruto.
 
 ###### Artículo 27.
 
@@ -459,7 +487,9 @@ Los servicios que preste el registro público de la propiedad causarán el pago 
 
 TARIFA
 
-I. El examen de todo documento público o privado que se presente para su inscripción 3 días salario mínimo.
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
+
+I.- El examen de todo documento público o privado que se presente para su inscripción, 3 salarios mínimos, excepto tratándose de los documentos a que se refieren los incisos c) y d) de la fracción II de este artículo.
 
 II. Por inscripción o registro de documentos públicos o privados de resoluciones judiciales, administrativas o de cualquier clase de títulos por virtud de los cuales se adquiera, trasmita, modifique o se extinga el domicilio, o la posesión de bienes inmuebles, además de la cuota fija, las cuotas acumulativas correspondientes a su valor.
 
@@ -467,81 +497,203 @@ a). Cuota fija para toda clase de inscripción, inclusive las de valor determina
 
 b). Por el valor de operación 2.5 al millar
 
-III. Por inscripción de la escritura constitutiva o de los aumentos de capital social de sociedades y asociaciones civiles, sobre el importe de capital social de los aumentos del mismo, en los términos de la fracción anterior.
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 15 DE FEBRERO DE 2006)</small>
 
-Cuando no tengan capital establecido o se trate de reformas al acta constitutiva 15 días salario mínimo.
+c). Tratándose de la Inscripción de títulos de propiedad expedidos por el Registro Agrario Nacional, a favor de ejidatarios, respecto a la titulación de los solares urbanos, 2 salarios mínimos.
 
-IV. Por inscripción de gravámenes sobre bienes inmuebles.
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 15 DE FEBRERO DE 2006)</small>
 
-a). Por contrato resolución judicial, por disposición testamentaria, la de los títulos por virtud de los cuales se adquieran, trasmitan, modifiquen o extingan derechos reales sobre inmuebles, distintos de dominio, de los que limiten el dominio del vendedor, a las de embargo, cédulas hipotecarias, servidumbres y fianzas 10 días salario mínimo por inmueble.
+d). Cuando la inscripción se refiera a títulos de propiedad expedidos por la misma autoridad agraria a que se refiere el párrafo anterior, en los que los ejidatarios adquieran el dominio pleno de la parcela ejidal, 4 salarios mínimos.
 
-V. Inscripciones de poderes, substitución o revocación de los mismos en forma total o parcial por cada poderdante o apoderado 5 días salario mínimo.
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 15 DE FEBRERO DE 2006)</small>
 
-VI. La inscripción de créditos hipotecarios, refaccionario o de habilitación o avío 1.25 al millar.
+Si los ejidatarios a que se refieren los dos párrafos que anteceden realizaran actos que implique el traslado del dominio sobre dichos inmuebles en un lapso menor de 5 años, estarán obligados a cubrir los derechos a que se refieren los incisos a) y b), que anteceden, tomando en cuenta como valor de operación el de la fecha en que se realice dicho acto. En este caso, se compensará con lo que ya hubieren cubierto según los dos párrafos anteriores. Queda exceptuada esta obligación cuando el traslado de dominio se realice por donación entre cónyuges, ascendientes o descendientes en línea recta o colateral hasta el cuarto grado, o en el caso de herencia. Dicha obligación subsistirá para los donatarios y herederos, hasta por un plazo igual que comprenda los 5 años desde que se hizo la primera inscripción.
 
-en los casos que se refiere esta fracción, las cancelaciones causarán pago de derechos. por cada cancelación 3 días salario mínimo.
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 15 DE FEBRERO DE 2006)</small>
 
-VII. La inscripción de las demandas a que se refiere el artículo 63 del reglamento del registro público de la propiedad 10 días salario mínimo.
+La tarifa a que se refieren los incisos a) y b), de esta fracción, no serán aplicables a los fideicomisos traslativos de dominio o transmisión de derechos del fideicomisario, debiéndose observar en su caso para su aplicación, lo dispuesto en las fracciones III y IV de este mismo artículo.
 
-VIII. Las inscripciones de la constitución del patrimonio de familia y las informaciones ad perpetuam conforme a la fracción II del presente artículo, 5 salarios mínimos.
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
 
-IX. La inscripción de testamentos, declaraciones de herederos, sentencias, declaraciones de concurso 5 días salario mínimo.
+III.- Inscripción de contratos que contengan la celebración de fideicomisos traslativos de dominio, causará los siguientes derechos:
 
-X. Si se trata de bienes muebles identificables por marcas y números, la inscripción de la condición resolutoria en los casos de venta, de pacto de reserva de dominio de la propiedad del bien mueble y constitución de reserva de dominio de la propiedad del bien mueble y constitución de prenda en general el 50% de la cuota que señala la fracción II.
+a).- Cuota fija de 15 salarios mínimos.
 
-XI. (DEROGADA, B.O. 31 DE DICIEMBRE DE 2002)
+b).- Por el valor de operación 2.5 al millar.
 
-XII. Por depósito de cualquier otro documento 5 días salario mínimo.
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
 
-XIII. Ratificación de documentos privados ante el registrador en el caso del artículo 2921 del Código Civil para el Estado de Baja California Sur, 10 días salario mínimo.
+IV.- Inscripción o registro de los contratos sobre transmisión de derechos de fideicomisario a que se refiere la fracción XIII del artículo 15 de esta ley, causará los derechos a que se refiere la fracción anterior.
 
-XIV. Por expedición de certificados por cada persona y/o predio
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
 
-a). Cuota fija por servicio hasta 10 años 5 días salario mínimo.
+V.- La inscripción de la constitución del patrimonio de familia y de informaciones ad perpetuam, causará los derechos a que se refieren los incisos a) y b) de la fracción II de este artículo.
 
-b). Cuota fija por servicio de más de 10 años 5 días salario mínimo.
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
 
-c). Por cada hoja 25 % salario mínimo diario.
+VI.- La inscripción de fraccionamientos o lotificación de terrenos, debidamente autorizados por la autoridad correspondiente, causará el 50 % de las cuotas que establecen los incisos a) y b) de la fracción II, por cada lote de terreno.
 
-XV. Por la expedición de constancias por cada persona: cuota fija por servicio 2 días salario mínimo diario.
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
 
-XVI. Las certificaciones o constancias son solicitadas con carácter de urgente, se causarán el doble de las cuotas aplicables, conforme a la fracción anterior.
+VII.- La inscripción de testamentos, declaraciones de herederos, nombramiento de albaceas, sentencias, declaraciones de concurso, 7.5 salarios mínimos.
 
-XVII. Por los informes que rinda por escrito a solicitud de las autoridades, a petición de parte interesada, que esté en posibilidad de obtenerlo directamente, las cuotas que correspondan conforme a las dos fracciones anteriores.
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
 
-XVIII. La cancelación de registro de sociedades civiles por extinción de las mismas 5 días salario mínimo.
+VIII.- La anotación preventiva a que se refiere la fracción V del artículo 2953 del Código Civil para el Estado de Baja California Sur, 10 salarios mínimos.
 
-XIX. La cancelación de las inscripciones en los casos a que se refieren las fracciones IV y VII causarán el 20% de las cuotas por su valor que señala la fracción II sin que pueda ser menos de 2 días salario mínimo.
+En caso de que la autoridad judicial ordene la inscripción definitiva, causará los derechos a que se refieren los incisos a) y b), de la fracción II si se trata del dominio de bienes inmuebles, o la que le resulte aplicable según el documento y acto que contenga; en este caso deberá compensarse el pago efectuado por la anotación preventiva, siempre y cuando los derechos causados sean mayores a la cuota establecida en el párrafo que antecede.
 
-XX. La cancelación de las inscripciones en los casos a que se refiere la fracción IX causarán el 10% de las cuotas por valor que establece la fracción II sin que pueda ser menos de 3 días salario mínimo.
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
 
-XXI. Inscripción o registro de los contratos sobre transmisión de derechos de fideicomisario o a que se refiere la fracción XIII del artículo 15 de esta ley.
+IX.- Si se trata de bienes muebles identificables por marcas y números, la inscripción de la condición resolutoria en los casos de venta, de pacto de reserva de dominio de la propiedad del bien mueble y constitución de reserva de dominio de la propiedad del bien mueble y constitución de prenda en general, se causarán derechos al 50% de la cuota que señalan los incisos a) y b) de la fracción II del presente artículo.
 
-a). Cuota fija para toda clase de inscripción 5 días salario mínimo.
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
 
-b). Por el valor de la operación 2.5 al millar
+X.- Por la inscripción de la escritura constitutiva o de los aumentos de capital social, de sociedades y asociaciones civiles, causará derechos sobre el importe de capital social o de los aumentos del mismo, en los términos de los incisos a) y b) de la fracción II de este mismo artículo.
 
-c). En ningún caso los derechos a que se refiere este artículo, podrán ser mayores a treinta veces el salario mínimo general elevado al año, del área geográfica del domicilio fiscal del contribuyente.
+Cuando no tengan capital establecido o se trate de reformas al acta constitutiva, causarán derechos por 10 salarios mínimos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 15 DE FEBRERO DE 2006)</small>
+
+XI.- Inscripción de poderes, substitución o revocación de los mismos en forma total o parcial, 7.5 salarios mínimos; cuando a su otorgamiento, substitución o revocación comparezcan más de un poderdante o apoderado, se aumentará en 5 salarios mínimos, por cada uno de ellos.
+
+Cuando el otorgamiento de poder se dé con el carácter de irrevocable o la substitución de este, causará los derechos a que se refieren los incisos a) y b) de la fracción II de este artículo, debiéndose tomar como valor para el cálculo de la cuota acumulativa, el que resulte mayor entre el valor comercial o catastral, que tenga el inmueble a la fecha de la inscripción del poder.
+
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
+
+XII.- Por la inscripción de gravámenes sobre bienes inmuebles, en los siguientes términos:
+
+a).- Por contrato, resolución judicial, disposición testamentaria, la que derive de los títulos por virtud de los cuales se adquieran, trasmitan, modifiquen o extingan derechos reales sobre inmuebles, distintos de dominio, de los que limiten el dominio del vendedor; actas de embargo, cédulas hipotecarias, servidumbres y fianzas, 15 salarios mínimos por inmueble; siendo aplicable además la cuota acumulativa a que se refiere el inciso b) de la fracción II de este mismo artículo.
+
+b).- Tratándose de la inscripción de embargos promovidos en juicios laborales o de alimentos, no causarán el pago de derechos. La cancelación de los embargos a que se refiere este inciso, causarán derechos por cuota fija de 18 salarios mínimos, adicionados de la cuota acumulativa a que se refiere el inciso b) de la fracción II de este artículo, sobre el monto de la obligación garantizada.
+
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
+
+XIII.- Por la inscripción de los siguientes tipos de crédito, tarifa fija de 5 salarios mínimos, más la siguiente cuota acumulativa:
+
+a).- Créditos hipotecarios, refaccionarios o de habilitación o avío, 1.25 al millar.
+
+b).- Créditos simples, en cuenta corriente y otros similares, 2.00 al millar.
+
+c).- Reconocimiento de adeudos y reestructuración de cartera, de los créditos a que se refieren los incisos a) y b) anteriores, causarán los derechos a que se refieren dichos incisos, según el crédito del cual se deriven.
+
+d).- La modificación a los créditos mencionados en los incisos a), b) y c), anteriores, 5 salarios mínimos. Cuando la modificación se refiera al incremento de capital, se aplicará además la tarifa acumulativa, según el crédito de que se trate.
+
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
+
+XIV.- La inscripción de las demandas a que se refiere el artículo 63 del reglamento del registro público de la propiedad, 15 salarios mínimos, además la cuota acumulativa correspondiente al inciso b) de la fracción II de este artículo, cuando en la demanda se reclamen prestaciones determinadas en cantidad líquida.
+
+Cuando en la demanda se reclamen prestaciones no determinadas o no se pueda determinar su cuantía, se causarán derechos por cuota fija de 18 salarios mínimos.
+
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
+
+XV.- Por el depósito de testamentos ológrafos:
+
+a).- Si se hace en las oficinas del Registro, 5 salarios mínimos.
+
+b).- Si se hace fuera de las oficinas del Registro, en horas ordinarias, 8 salarios mínimos.
+
+c).- Si se hace fuera de las oficinas del Registro, en horas extraordinarias, 10 salarios mínimos.
+
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
+
+XVI.- Por el depósito de cualquier otro documento, si se hace en la oficina del Registro, 1.5 salarios mínimos.
+
+Si el depósito se hace fuera de las oficinas del Registro, se causarán los derechos, en los términos de los incisos b) y c), de la fracción anterior, según corresponda.
+
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
+
+XVII.- Ratificación de documentos privados y firma, ante el Director o registrador, en el caso de la fracción III del artículo 2915 del Código Civil para el Estado de Baja California Sur, así como la constancia a que el mismo artículo se refiere, 5 salarios mínimos.
+
+Cuando a la ratificación del documento comparezcan más de dos personas, se aumentará en 1 salario mínimo por cada compareciente.
+
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
+
+XVIII.- Por expedición de certificados, por cada persona y/o predio, causará los siguientes derechos:
+
+a).- Cuota fija por servicio hasta 10 años, 5 salarios mínimos.
+
+b).- Cuota fija por servicio de más de 10 años, 6 salarios mínimos.
+
+c).- Por cada hoja adicional, 25 % de 1 salario mínimo.
+
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
+
+XIX.- Por la expedición de constancias por cada persona, cuota fija por servicio de 2 salarios mínimos.
+
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
+
+XX.- Las certificaciones o constancias que sean solicitadas con carácter de urgente, se causarán al doble de las cuotas aplicables, conforme a las dos fracciones anteriores.
+
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
+
+XXI.- Por los informes que se rindan por escrito a solicitud de las autoridades, a petición de parte interesada, que esté en posibilidad de obtenerlo directamente, las cuotas se causarán conforme a las fracciones XVIII, XIX y XX anteriores, según corresponda.
+
+> <small>(ADICIONADA, B.O. 15 DE FEBRERO DE 2006)</small>
+
+XXII.- La cancelación del registro de sociedades civiles por extinción de las mismas, 10 salarios mínimos.
+
+> <small>(ADICIONADA, B.O. 15 DE FEBRERO DE 2006)</small>
+
+XXIII.- La cancelación de las inscripciones en los casos a que se refieren las fracciones XII inciso a), y XIV, causarán el 20% de las cuotas por su valor que señala el inciso b) de la fracción II de este artículo, sin que pueda ser menos de 10 salarios mínimos.
+
+Tratándose del segundo párrafo de la fracción XIV, la cancelación causará derechos de 10 salarios mínimos.
+
+> <small>(ADICIONADA, B.O. 15 DE FEBRERO DE 2006)</small>
+
+XXIV.- La cancelación de los créditos a que se refiere la fracción XIII, causarán el pago de derechos de 3 salarios mínimos por cancelación; cuando en un mismo documento se cancelen más de tres créditos, se aumentarán en un 50% de 1 salario mínimo por cada crédito a cancelar, sin rebasar 10 salarios mínimos.
+
+> <small>(ADICIONADA, B.O. 15 DE FEBRERO DE 2006)</small>
+
+XXV.- La cancelación de las inscripciones en los casos a que se refiere la fracción VII, 5 salarios mínimos.
+
+> <small>(ADICIONADA, B.O. 15 DE FEBRERO DE 2006)</small>
+
+XXVI- Búsqueda de datos, que no sean para la expedición de constancias y certificaciones, 3 salarios mínimos.
+
+> <small>(ADICIONADA, B.O. 15 DE FEBRERO DE 2006)</small>
+
+XXVII.- La anotación marginal derivada de los avisos preventivos a que se refiere el artículo 2926 del Código Civil para el Estado de Baja California Sur, 5 salarios mínimos el primer aviso y 2.5 salarios mínimos el segundo aviso.
+
+> <small>(ADICIONADA, B.O. 15 DE FEBRERO DE 2006)</small>
+
+XXVIII.- Cuando se trate de sustitución de hojas de testimonios de notarios o pólizas de corredores, o de documentos privados, que ya hayan sido registradas y respecto de cuya inscripción no hayan transcurrido más de sesenta días naturales, y que contengan errores que no cambien o alteren la naturaleza jurídica de los actos respectivos, a solicitud expresa de los fedatarios, bajo su responsabilidad y explicación escrita de las causas de sustitución, podrán hacerse las sustituciones causando un derecho de 2 salarios mínimos por la primera hoja, y 1 salario mínimo por cada hoja adicional, sin que pueda exceder de 8 salarios mínimos.
+
+Cuando la sustitución de hojas se derive de documentos privados, la solicitud a que se refiere el párrafo anterior, deberán formularla las partes interesadas, así como el fedatario o autoridad, que haya certificado la constancia a que se refiere la fracción III del artículo 2915 del Código Civil para el Estado de Baja California Sur.
+
+> <small>(ADICIONADA, B.O. 15 DE FEBRERO DE 2006)</small>
+
+XXIX.- En ningún caso los derechos a que se refiere este artículo, podrán ser mayores a treinta veces el salario mínimo general elevado al año, del área geográfica del domicilio fiscal del contribuyente.
 
 ###### Artículo 39.
 
 Para el cobro de los derechos que establece el artículo que antecede, se observarán las siguientes reglas:
 
-I. Se tendrá como valor para los efectos de la aplicación de las tasas en los casos de las fracciones II, IV, VII, VIII, X, XIV, XVIII, XIX y XX, respectivamente del artículo anterior.
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 15 DE FEBRERO DE 2006)</small>
 
-a). Si se trata de patrimonio familiar el de los bienes que lo constituyan.
+I.- Se tendrá como valor para los efectos de la aplicación de las tasas en los casos de las fracciones II, III, IV, V, VI, IX, XI, XII, XIII, XIV, del artículo anterior, el que resulte mayor entre el valor de operación consignado en el documento, el del avalúo que se utilizó ante la autoridad Federal, Estatal o Municipal para cubrir el impuesto causado o el valor catastral.
+
+a). (DEROGADO, B.O. 15 DE FEBRERO DE 2006)
 
 b). En los arrendamientos de inmuebles por mas de seis años con anticipo de rentas por más de tres, el importe de las rentas estipuladas por el termino del contrato, o el monto de las rentas anticipadas.
 
-c). Cuando se trate de actos, contratos o resoluciones por los que se trasmita el dominio o la posesión de inmueble o derechos reales, el precio de la transmisión señalado en el título o documento en que se haga constar.
+c). DEROGADO, B.O. 15 DE FEBRERO DE 2006)
 
 d). En los contratos de garantía, en los embargos y otros gravámenes, el monto de las obligaciones garantizadas.
 
-e). En los casos de informaciones ad perpetuam y contratos privados el valor de los inmuebles según avalúo pericial o fiscal de impuestos prediales, ambos actualizados.
+> <small>(REFORMADO, B.O. 15 DE FEBRERO DE 2006)</small>
+
+e).- En los casos de informaciones ad perpetuam y contratos privados, el valor que resulte mayor, según lo dispuesto en la fracción I de este artículo.
+
+> <small>(ADICIONADO, B.O. 15 DE FEBRERO DE 2006)</small>
+
+f).- En los contratos que exista obligación futura de adquirir, trasmitir, modificar o extinguir el dominio o la posesión de bienes inmuebles, el que resulte mayor según lo dispuesto en la fracción I de este mismo artículo.
 
 II. En las emisiones de cédulas hipotecarias en que se constituya hipoteca a favor de una institución de crédito, por las comisiones, cuotas, derechos y otro concepto que no pueda determinarse al momento de realizarse la operación, se pagará por la inscripción de dicha hipoteca, independientemente de la que se constituya a favor de los tenedores de las cédulas, las cuotas correspondientes por cantidad indeterminada.
 
-III. En toda transmisión de bienes o derechos reales que se realice por contrato o por resolución judicial, cuando en ella queden comprendidos varios bienes, se pagará sobre el valor de cada uno de ellos, si la transmisión comprende varios bienes y se realiza por una suma alzada los interesados determinarán el valor que corresponda a cada uno de dichos bienes a efecto de que sirva de base para el cobro de los derechos.
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
+
+III.- En toda transmisión de bienes o derechos reales que se realice por contrato o por resolución judicial, cuando en ella queden comprendidos varios bienes, se pagará sobre el valor de cada uno de ellos, debiéndose observar lo dispuesto en la fracción I, de este artículo; si la transmisión comprende varios bienes y se realiza por una suma alzada, y no pudiera determinarse o conocer el valor de cada uno de ellos, los interesados determinarán el valor que corresponda a cada uno de dichos bienes a efecto de que sirva de base para el cobro de los derechos.
 
 IV. En las operaciones de bienes inmuebles sujetas a condiciones suspensivas, resolutorias, reserva de propiedad o cualquier otra que haya de dar lugar a una inscripción complementaria, se pagará el 75% de lo que correspondería con arreglo a la fracción II del artículo anterior y al practicarse la inscripción complementaria se cubrirá el 25% restante.
 
@@ -551,83 +703,131 @@ VI. En los casos de servicios que preste el registro público de la propiedad y 
 
 VII. Cuando se trate de contratos, demandas o resoluciones que se refieran a prestaciones periódicas, se tendrá como valor la suma total de estas, si se puede determinar exactamente su cuantía, en caso contrario se tomará como base la cantidad que resulte haciendo el cómputo por un año.
 
-VIII. No se causarán los derechos a que se refiere el artículo que antecede.
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
 
-a). Si se trata de inscripciones relativas a bienes inmuebles o derechos reales, pertenecientes a la nación, al Gobierno del estado o a los municipios cuando dichas entidades las soliciten.
+VIII.- Cuando por cualquier circunstancia no se pueda determinar o conocer los valores a que se refiere la fracción I de este artículo, podrá solicitarse a la Dirección de Catastro, que proporcione la cantidad que resulte mayor de los valores mencionados en dicha fracción. Esta misma disposición deberá observarse cuando el documento que se presente para su inscripción tenga una antigüedad mayor a dos años al día de su expedición.
 
-b). Por los informes o certificaciones que soliciten al Gobierno federal las autoridades del estado y las municipales para fines que no sean fiscales.
+> <small>(ADICIONADA, B.O. 15 DE FEBRERO DE 2006)</small>
 
-c). Por los informes solicitados para asuntos penales o para juicios de amparo.
+IX.- No se causarán los derechos a que se refiere el artículo que antecede.
+
+a).- Si se trata de inscripciones relativas a bienes inmuebles del dominio público o derechos reales, pertenecientes a la Federación, al Estado de Baja California Sur o a sus Municipios.
+
+b).- Por los informes o certificaciones que soliciten el Gobierno Federal, las autoridades del Estado de Baja California Sur y las Municipales, para fines que no sean fiscales.
+
+c).- Por los informes que soliciten las autoridades administrativas y judiciales para asuntos penales o juicios de amparo.
+
+> <small>(ADICIONADA, B.O. 15 DE FEBRERO DE 2006)</small>
+
+X.- Para la aplicación de la tarifa a que se refiere el presente capítulo, por salario mínimo deberá entenderse, el salario mínimo general diario vigente en el Estado de Baja California Sur, el día en que se preste el servicio.
 
 #### SECCIÓN SEGUNDA. REGISTRO DE COMERCIO
 
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], B.O. 15 DE FEBRERO DE 2006)</small>
+
 ###### Artículo 40.
 
-Los servicios que preste el registro público de comercio causarán derechos de acuerdo con la siguiente:
+Los servicios que preste el registro público de comercio causarán derechos fiscales de acuerdo con la siguiente:
 
 TARIFA
 
-I. Examen de todo documento público y privado que se presente al registro para su inscripción 3 días salario mínimo.
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
 
-II. Inscripción de matrícula
+I.- Examen de todo documento público y privado que se presente al registro para su inscripción 5 salarios mínimos.
 
-a). Por cada comerciante individual 3 días salario mínimo diario.
+II.- Inscripción de matrícula
 
-b). Por cada sociedad mercantil 3 días salario mínimo diario.
+> <small>(REFORMADO, B.O. 15 DE FEBRERO DE 2006)</small>
 
-III. Inscripción de la escritura constitutiva de sociedades mercantiles o en las relativas a aumentos de su capital social, se cobrará sobre el monto del capital social, o de sus aumentos el 100% de las cuotas que correspondan conforme a la fracción II del artículo 38.
+a).- Por cada comerciante individual, 5 salarios mínimos.
 
-IV. Inscripción de modificaciones a las escrituras constitutivas de sociedades mercantiles, que no se refieran a aumentos del capital social 10 días salario mínimo.
+> <small>(REFORMADO, B.O. 15 DE FEBRERO DE 2006)</small>
 
-V. Inscripción de actas de asambleas de socios o de juntas de administradores 10 días salario mínimo.
+b).- Por cada sociedad mercantil, 5 salarios mínimos.
 
-VI. Depósito del programa a que se refiere el artículo 92 de la ley general de sociedades mercantiles 10 días salario mínimo.
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
 
-VII. Inscripción del acta de emisión de bonos y obligaciones de sociedades anónimas el 100% de las cuotas que correspondan conforme a la fracción II del artículo 38.
+III.- Inscripción de la escritura constitutiva de sociedades mercantiles o en las relativas a aumentos de su capital social, se cobrará sobre el monto del capital social, o de sus aumentos el 100% de las cuotas que correspondan conforme a los incisos a) y b) de la fracción II del artículo 39.
 
-VIII. Inscripción de la disolución de sociedades mercantiles 10 días salario mínimo.
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
 
-IX. Inscripción de la liquidación de sociedades mercantiles 10 días salario mínimo.
+IV.- Inscripción de modificaciones a las escrituras constitutivas de sociedades mercantiles, que no se refieran a aumentos del capital social, 15 salarios mínimos.
 
-X. Inscripción de la disolución y liquidación de sociedades mercantiles cuando se lleven a efecto en un solo acto 15 días salario mínimo.
+V.- Inscripción de actas de asambleas de socios o de juntas de administradores 10 días salario mínimo.
 
-XI. Cancelación de la inscripción del contrato de sociedades 10 días salario mínimo.
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
 
-XII. Inscripción de poderes sustitución y revocación de los mismos en forma total o parcial, por cada poderdante y/o apoderado 5 días salario mínimo.
+VI.- Depósito del programa a que se refiere el artículo 92 de la ley general de sociedades mercantiles, 15 salarios mínimos.
 
-XIII. Inscripciones relativas a habilitación de edad, licencia o emancipación para ejercer comercio, licencia marital o el requisito que en derecho necesita la mujer para los mismos fines, la revocación de unos y otros, y las escrituras a que se refieren las fracciones X y XI del artículo 21 del código de comercio 3 días salario mínimo.
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
 
-XIV. Inscripción de contratos mercantiles de cualquier clase, enumerados en el artículo 75 del código de comercio, sobre el valor.
+VII.- Inscripción del acta de emisión de bonos y obligaciones de sociedades anónimas el 100% de las cuotas que correspondan conforme a los incisos a) y b) de la fracción II del artículo 39.
+
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
+
+VIII.- Inscripción de la disolución de sociedades mercantiles, 15 salarios mínimos.
+
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
+
+IX.- Inscripción de la liquidación de sociedades mercantiles, 15 salarios mínimos.
+
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
+
+X.- Inscripción de la disolución y liquidación de sociedades mercantiles cuando se lleven a efecto en un solo acto, 20 salarios mínimos.
+
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
+
+XI.- Cancelación de la inscripción del contrato de sociedades, 15 salarios mínimos.
+
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
+
+XII.- Inscripción de poderes sustitución y revocación de los mismos en forma total o parcial, 7.5 salarios mínimos; cuando a su otorgamiento, substitución o revocación, comparezcan más de un poderdante o apoderado, se aumentará en 5 salarios mínimos por cada uno de ellos.
+
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
+
+XIII.- Inscripciones relativas a habilitación de edad, licencia o emancipación para ejercer comercio, la revocación de unos y otros, y las escrituras a que se refieren las fracciones X y XI del artículo 21 del código de comercio, 5 salarios mínimos.
+
+XIV.- Inscripción de contratos mercantiles de cualquier clase, enumerados en el artículo 75 del código de comercio, sobre el valor.
 
 a). Cuota fija para toda clase de inscripciones, inclusive las de valor determinado 5 días salario mínimo.
 
 b). Por el valor de la operación 2.5 al millar
 
-XV. Inscripción de contratos de corresponsalía de instituciones de crédito.
+XV.- Inscripción de contratos de corresponsalía de instituciones de crédito.
 
 a). Por inscripción 15 días salario mínimo.
 
 b). Por cancelación 10 días salario mínimo.
 
-XVI. Inscripción de créditos hipotecarios, refaccionarios y de habilitación o avío 2.5 al millar, sobre su valor. su cancelación 3 días salario mínimo.
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
 
-XVII. Inscripción de resoluciones judiciales en que se declare una quiebra o se admita una liquidación judicial 10 días salario mínimo.
+XVI.- Inscripción de créditos hipotecarios, refaccionarios y de habilitación o avío, 2.5 al millar, sobre su valor. Su cancelación, 5 salarios mínimos.
 
-XVIII. Anotaciones marginales relativas a inscripciones principales 1 día salario mínimo.
+XVII.- Inscripción de resoluciones judiciales en que se declare una quiebra o se admita una liquidación judicial 10 días salario mínimo.
 
-XIX. Depósito y guarda de cualquier documento 1 día salario mínimo.
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
 
-XX. Ratificación de documentos y firmas ante registrador 5 días salario mínimo.
+XVIII.- Anotaciones marginales relativas a inscripciones principales, 2 salarios mínimos.
+
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
+
+XIX.- Depósito y guarda de cualquier documento, 5 salarios mínimos.
+
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
+
+XX.- Ratificación de documentos privados y firmas, ante el Director o Registrador, 5 salarios mínimos; cuando a la ratificación del documento comparezcan más de dos personas, se aumentará en 1 salario mínimo, por cada compareciente.
 
 XXI. Búsqueda de datos y revisión de libros para informes y certificados 3 días salario mínimo.
 
-XII. Expedición de certificados relativos a constancias de registro.
+XXII. Expedición de certificados relativos a constancias de registro.
 
 a). Por cada documento 5 días salario mínimo
 
 b). Por cada hoja adicional 1 día salario mínimo.
 
-en ningún caso los derechos a que se refiere este artículo podrán ser mayores a treinta veces el salario mínimo elevado al año, del área geográfica del domicilio del contribuyente.
+> <small>(ADICIONADA [N. DE E. ANTES ULTIMO PARRAFO DEL ARTICULO], B.O. 15 DE FEBRERO DE 2006)</small>
+
+XXIII. En ningún caso los derechos a que se refiere este artículo podrán ser mayores a treinta veces el salario mínimo elevado al año, del área geográfica del domicilio del contribuyente.
 
 ###### Artículo 41.
 
@@ -643,9 +843,11 @@ IV. Cuando deban hacerse inscripciones de distintas operaciones que deriven de l
 
 V. Los contratos en que se pacten prestaciones periódicas se valuarán en la suma de estas, si se puede terminar exactamente su cuantía y en caso contrario, por lo que resulta de hacer el cómputo correspondiente a un año.
 
-VI. En los casos no previstos expresamente en el artículo anterior los derechos por servicios que preste el registro público de comercio se causarán por asimilación de acuerdo con las fracciones relativas a casos con los que guarden semejanza; y
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
 
-VII. Se exceptúa del pago de derechos de inscripción en el registro público de comercio, a las sociedades cooperativas escolares que se establezcan en las escuelas de la Secretaría de Educación Pública y que estén bajo su vigilancia.
+VI. En los casos no previstos expresamente en el artículo anterior los derechos por servicios que preste el registro público de comercio se causarán por asimilación de acuerdo con las fracciones relativas a casos con los que guarden mayor semejanza; y en su defecto, con las que guarden mayor semejanza de la sección primera de este capítulo.
+
+VII. Se exceptúa del pago de derechos de inscripción en el registro público de comercio, a las sociedades cooperativas escolares que se establezcan en las escuelas de la Secretaria de Educación Pública y que estén bajo su vigilancia.
 
 ### CAPÍTULO SEGUNDO. SERVICIOS CATASTRALES
 
@@ -657,47 +859,133 @@ Los servicios prestados por las oficinas catastrales causarán un derecho que se
 
 TARIFA.
 
-I. Por cada copia de planos 3 días salario mínimo
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
 
-II. Avalúos periciales por cada predio sobre su valor, sin que pueda ser inferior a un día salario mínimo 0.5 al millar.
+I. Por cada copia de planos Incluida la Certificación 4 días salario mínimo
+
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
+
+II. Avalúos periciales por cada predio sobre su valor, sin que pueda ser inferior a dos días salario mínimo 1.0 al millar.
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2002)</small>
 
 III. Certificados por la primera hoja o fracción, un día de salario mínimo; por las subsecuentes .25 días de salario mínimo.
 
-IV. Otorgamiento de claves catastrales, por cada una 1 día salario mínimo.
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
 
-V. Por búsqueda de datos para proporcionar información económica y/o certificado 1 día salario mínimo por predio.
+IV. Otorgamiento de claves catastrales, por cada una 1.5 días de salario mínimo.
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
 
-VI. Por deslindes o levantamientos prediales que se realicen a solicitud de particulares se ajustarán a las siguientes cuotas:
+V. Por búsqueda de datos para proporcionar información y/o certificado 1.5 días de salario mínimo por predio.
 
-ZONA URBANA
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
 
-1. Deslinde en base de brigada. 4 días salario mínimo
+VI. Por deslindes o levantamientos prediales que se realicen a solicitud de particulares, se ajustarán a las siguientes cuotas:
 
-2. Deslinde fuera de base de brigada
+ZONA URBANA:
 
-a). De 1 a 25 Kilómetros. 8 días salario mínimo
+1. Deslinde en base de brigada. 5 días salario mínimo
 
-b). De 26 a 50 Kilómetros. 12 días salario mínimo
+2. Deslinde fuera de base de brigada:
 
-c). De 51 a 75 Kilómetros. 15 días salario mínimo
+a) De 1 a 25 kilómetros. 8 días salario mínimo
 
-d). De 76 a 125 Kilómetros. 20 días salario mínimo
+b) De 26 a 50 kilómetros. 12 días salario mínimo
 
-e). De 126 a 175 Kilómetros. 24 días salario mínimo
+c) De 51 a 75 kilómetros. 15 días salario mínimo.
 
-f). De 176 Kilómetros en adelante. 28 días salario mínimo
+d) De 76 a 125 kilómetros. 20 días salario mínimo.
 
-> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2002)</small>
+e) De 126 a 175 kilómetros. 28 días salario mínimo.
 
-VII. Servicios varios
+f) De 176 kilómetros en adelante 32 días salario mínimo.
 
-a). Autorización de fusión de predios por unidad 2 días salario mínimo
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
 
-b). Autorización de subdivisión, lotificación y relotificación de predios por unidad 2 días salario mínimo
+VII.- Servicios varios.
+
+a) Autorización de fusión de predios
+
+por unidad 3 días salario mínimo.
+
+b) Autorización de subdivisión,
+
+lotificación y relotificación de predios
+
+por unidad 3 días salario mínimo.
+
+c) Expedición de coordenadas U T M 5 días salario mínimo.
+
+> <small>(ADICIONADA, B.O. 15 DE FEBRERO DE 2006)</small>
+
+VIII.- Recepción de documentos en forma extemporánea:
+
+Hasta 15 días naturales 1 salario mínimo.
+
+de 16 a 30 días naturales 2 salarios mínimo.
+
+de 31 a 45 días naturales 3 salarios mínimo
+
+de 46 a 60 días naturales 4 salarios mínimo
+
+de 61 a 90 días naturales 5 salarios mínimo.
+
+de 91 días a 6 meses 10 salarios mínimo.
+
+de 6 meses un día a 1 año 20 salarios mínimo.
+
+de 1 año un día a 2 años 30 salarios mínimo.
+
+de 2 años más un día en adelante 50 salarios mínimo.
+
+> <small>(ADICIONADA, B.O. 15 DE FEBRERO DE 2006)</small>
+
+IX.- Por registro del perito valuador o topógrafo.
+
+a) Registro inicial 60 salarios mínimo.
+
+b) Revalidación de registro anual 30 salarios mínimo.
+
+Por acceso a los archivos y por registro de deslinde o levantamientos prediales que realicen peritos topógrafos acreditados en la Dirección de Catastro:
+
+A) En la zona urbana:
+
+Hasta 450 m2 2 salarios mínimo.
+
+De 451m2 hasta 900m2 3 salarios mínimo.
+
+De 901m2 hasta 10.000m2 15 salarios mínimo.
+
+(1 hectárea)
+
+De 10,001m2, en adelante. 15 a 19.15 salario mínimo.
+
+B) Predios rústicos y accidentados de más de 4 puntos
+
+01 hectárea 8.5 salarios mínimo.
+
+Hasta 10 hectáreas 19.25 salarios mínimo.
+
+De 11 hasta 50 hectáreas 57.75 salarios mínimo.
+
+Mayores de 50 hectáreas se caracteriza la diferencia de 50 hectáreas de acuerdo al grupo del inciso b) que pertenezca.
+
+> <small>(ADICIONADA, B.O. 15 DE FEBRERO DE 2006)</small>
+
+X. Emisión de certificado de no propiedad. 1.5 salarios mínimos.
+
+> <small>(ADICIONADA, B.O. 15 DE FEBRERO DE 2006)</small>
+
+XI.- Emisión de certificados de medidas y colindancias:
+
+Predios regulares hasta 4 puntos 1.5 salarios mínimo.
+
+Predios irregulares de 5 a 10 puntos 2 salarios mínimos.
+
+Predios de más de 11 puntos 3 salarios mínimos.
+
+Certificado especial. 3 salarios mínimos.
 
 ### CAPÍTULO TERCERO. LICENCIAS PARA CONSTRUCCIÓN
 
@@ -729,7 +1017,53 @@ La expedición de licencias de urbanización para los desarrollos urbanos, tales
 
 la dependencia municipal correspondiente podrá autorizar el registro del director responsable de obra, autorizar la fusión, subdivisión, lotificación o relotificación de predios, autorizar el uso del suelo para desarrollos urbanos y uso del suelo comercial urbano para giros comerciales, dar visto bueno de seguridad y operación de obra previo pago de acuerdo a la siguiente:
 
-(VEASE TABLA ANEXA)
+T A R I F A:
+
+Concepto días de salario
+
+mínimos
+
+a). registro anual de director
+
+responsables de obras 20
+
+b). autorización de fusión de
+
+predios por unidad 2
+
+c). autorización de subdivisión,
+
+lotificación y relotificación de predios
+
+por unidad 2
+
+d). inspección de terminación de obras 3
+
+e). inspección de avance de obra 2
+
+> <small>(REFORMADO, B.O. 15 DE FEBRERO DE 2006)</small>
+
+f). autorización del uso del suelo
+
+comercial en la zona centro 20
+
+> <small>(REFORMADO, B.O. 15 DE FEBRERO DE 2006)</small>
+
+h (sic). autorización del uso del suelo
+
+comercial en fraccionamientos y
+
+conjuntos habitacionales 10
+
+i). (DEROGADO, B.O. 15 DE FEBRERO DE 2006)
+
+> <small>(REFORMADO, B.O. 15 DE FEBRERO DE 2006)</small>
+
+j). autorización del uso del suelo
+
+comercial en el resto de la mancha
+
+urbana 5
 
 ### CAPÍTULO CUARTO. AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO
 
@@ -877,9 +1211,13 @@ III. Oficios de factibilidad de los servicios de agua potable y alcantarillado 1
 
 IV. Limitaciones, cortes y reconexiones 2 días de salario mínimo diario.
 
-V. Desasolves y limpieza de fosas sépticas 10 a 16 días salarios mínimos diarios.
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
 
-VI. Venta de agua a pipas m3 20% del salario mínimo diario.
+V. Desasolves y limpieza de fosas sépticas de 15 a 20 días de salario mínimo diario para servicios en el área urbana y de 20 a 35 días de salario mínimo diario para el área rural, exceptuándose casa habitación urbana o rural, mismas que serán consideradas con una tarifa de 5 salarios mínimos.
+
+> <small>(REFORMADA, 15 DE FEBRERO DE 2006)</small>
+
+VI. Venta de agua a pipas m3 30% del salario mínimo diario.
 
 VII. Reparaciones de tomas en pavimentos 05 días salario mínimo diario/m2
 
@@ -1235,31 +1573,53 @@ IV. II. De morada conyugal 1 día salario mínimo. (sic)
 
 Los derechos por servicios de control vehicular se pagarán anualmente en los meses de enero, febrero, marzo y abril, de acuerdo con el calendario que establezca la autoridad municipal correspondiente y conforme a la siguiente
 
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
+
 TARIFA
 
-I. Camiones, camionetas y similares 3 días salario mínimo
+I. Camiones, camionetas automóviles 4 días salario
 
-II. Automóviles 2 días salario mínimo
+y similares mínimo
 
-III. Motocicletas 1 día salario mínimo
+II. Motocicletas 1 día salario
 
-IV. Bicicletas 25% día salario mínimo
+mínimo
 
-V. Vehículos de tracción manual 50% día salario mínimo
+III. Bicicletas 25% día salario
 
-VI. Por la expedición de permisos provisionales diariamente, no menores de 15 días 10% día salario mínimo
+mínimo
 
-VII. por revisión electromecánica 1 día de salario mínimo
+IV. Vehículos de tracción manual 50% día salario
 
-VIII. Permiso para circular con una sola Exento placa, no mayor de 30 días
+mínimo
 
-IX. Permiso para circular con el parabrisas 1 día de salario mínimo estrellado
+V. Por la expedición de permisos 10% día salario
 
-X. Baja de placas 1 día de salario mínimo
+provisionales diariamente, no menores mínimo
 
-XI. Reporte de extravío de placas 1 día de salario mínimo
+de 15 días
 
-XII. Otro tipo no especificado 1 día de salario mínimo
+VI. (DEROGADA, B.O. 15 DE FEBRERO DE 2006)
+
+VII. Permiso para circular con una sola Exento
+
+placa, no mayor de 30 días
+
+VIII. Permiso para circular con el parabrisas 1 día de salario
+
+Estrellado mínimo
+
+X (sic). Baja de placas 1 día de salario
+
+mínimo
+
+XI. Reporte de extravío de placas 1 día de salario
+
+mínimo
+
+XII. Otro tipo no especificado 1 día de salario
+
+mínimo
 
 ###### Artículo 81.
 
@@ -1281,11 +1641,15 @@ V. Reposición de tarjeta de circulación 2 días salario mínimo.
 
 La dotación y reposición de placas de identificación del servicio de control vehicular tendrán un costo de acuerdo a la siguiente.
 
-TARIFA
+T A R I F A
 
-I. Camiones, automóviles y remolques 6 días salario mínimo
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
 
-II. Motocicletas, bicicletas y vehículos de tracción manual 2 días salario mínimo
+I. Camiones, automóviles y remolques 8 días salario mínimo
+
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2006)</small>
+
+II. Motocicletas, bicicletas y vehículos de tracción manual 4 días salario mínimo
 
 ###### Artículo 83.
 
@@ -1299,143 +1663,105 @@ II.- Automovilista 3 años 4 días salario mínimo
 
 III.- Motociclista 3 años 2 día (sic) salario mínimo
 
-IV.- Permiso provisional por 90 días a jóvenes mayores de 16 años y menores de 18 años, previo curso de educación vial. 2 día (sic) salario mínimo
+IV.- Permiso provisional 2 día (sic) salario mínimo
 
-Por el resello anual se causará el 20% de la tarifa anterior
+por 90 días a jóvenes
+
+mayores de 16 años y
+
+menores de 18 años, previo
+
+curso de educación vial.
+
+> <small>(REFORMADO, B.O. 15 DE FEBRERO DE 2006)</small>
+
+Por el resello anual se causará el 20% de la tarifa anterior y en la emisión de nuevas licencias se podrá pagar por anticipado el tiempo de vigencia por el resello de referencia de las licencias en una sola exhibición.
 
 ### CAPÍTULO DÉCIMO CUARTO. RECOLECCIÓN DE BASURA
-
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE JULIO DE 2002)</small>
 
 ###### Artículo 84.
 
 Es objeto de este derecho, el servicio que por limpia, recolección traslado, tratamiento y disposición de residuos presta el ayuntamiento a los establecimientos comerciales, industriales o de prestación de servicios, excepto los que presten los profesionistas en forma personal o bodegas cualquiera que sea su naturaleza, y los sujetos de estos derechos pagarán en el equivalente a los días de salario mínimo general correspondiente al Estado de Baja California Sur, que se señala en la siguiente
 
-(VEASE TABLA ANEXA)
+> <small>(REFORMADA [N. DE E. REPUBLICADA], B.O. 15 DE FEBRERO DE 2006)</small>
 
-### CAPÍTULO PRIMERO
+T A R I F A
+
+CONCEPTO Salarios mínimos
+
+Mensuales
+
+a).- Pequeño comercio que no
+
+genere alimentos como misceláneas de 2 a 5
+
+b).- Negocios que generen alimentos
+
+como pequeños restaurantes, fondas,
+
+puesto (sic) fijos y semifijos de 3 a 10
+
+c).- Almacenes comerciales,
+
+industriales, bancos De 10 a 15
+
+d).- Hoteles y maquiladoras De 5 a 20
+
+e).- Predios baldíos no limpios
+
+(limpieza por m2) .05
+
+Para la mejor administración de este derecho, el tesorero municipal será el encargado de calcularlos y podrá celebrar convenios con los contribuyentes que regulen la forma de pago mínimo.
+
+> <small>(ADICIONADO, B.O. 15 DE FEBRERO DE 2006)</small>
+
+### CAPÍTULO DÉCIMO QUINTO. OCUPACIÓN DE LA VÍA PÚBLICA
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 97], B.O. 15 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 85.
 
-La venta de bienes muebles e inmuebles pertenecientes al municipio solo podrá llevarse a cabo en subasta pública al mejor postor, la postura deberá ascender como mínimo a las dos terceras partes del valor comercial del bien fijado por el avalúo pericial ordenado por el ayuntamiento.
+Por la ocupación de la vía pública, el Ayuntamiento se reservará la facultad de otorgar, refrendar y/o revocar la autorización de su uso, y en todo caso se pagarán derechos de acuerdo a la siguiente.
 
-Solo se podrán explotar los bienes muebles e inmuebles del municipio por concesión o contrato legalmente otorgado y el producto se fijará y se cobrará de conformidad con el contrato o la concesión respectiva.
+T A R I F A
+
+I.- Automóviles de sitio o taxis por metro lineal anualmente 1 día salario mínimo.
+
+II.- Estacionamientos para particulares que vivan frente al estacionamiento solicitado, por metro lineal anualmente 1 día salario mínimo.
+
+III.- Estacionamientos exclusivos para uso comercial anualmente por metro lineal 3 días salario mínimo
+
+IV.- Estacionamiento o uso de la vía pública para carga y descarga en establecimientos comerciales, diariamente 0.5 día salario mínimo.
+
+V.- Por instalaciones visibles o no subterráneas por cada 10 metros lineales, anualmente 1 día salario mínimo.
+
+VI.- Por instalaciones subterráneas por cada 10 metros lineales anualmente 1 día de salario mínimo.
+
+VII.- Por instalaciones de registros, cajas de válvulas y otras estructuras anualmente 3 días salario mínimo.
+
+VIII.- Por postes de madera, metal, concreto o cualquier otro material que sean soportadores de líneas conductoras de energía o señales de cualquier índole anualmente 0.4 día de salario mínimo por cada uno.
+
+IX.- Vehículos automotores con amplificador de sonido, diariamente 1 día de salario mínimo.
+
+X.- Instalación de puestos:
+
+a) Semifijos en parques, plazas, tianguis y jardines que ocupen la vía pública por días determinados 0.5 día de salario mínimo por cada día.
+
+b) Semifijos en parques, plazas, tianguis y jardines que ocupen la vía pública por días indeterminados, hasta 8 metros cuadrados 0.13 día de salario mínimo diariamente, de 8 metros cuadrados en adelante 0.39 día de salario mínimo diariamente.
+
+XI. Por cada carro casa autopropulsado o de tracción de cualquier tipo que ocupe, y que sea estacionado en lugares no destinados para tal fin, deberá recabar autorización Municipal cubriendo una cuota diaria de 1.5 salarios mínimos.
+
+El pago se realizará anticipadamente y de manera anual, a más tardar el último día del mes de febrero, con excepción de las fracciones IV, IX, X Inciso a) y XI, que su pago se realizará en el momento que los contribuyentes estén en el hecho que indican estas fracciones.
+
+En el caso de nuevos contribuyentes, nuevas ocupaciones de la vía pública, o que por cualquier causa se haga exigible el cobro correspondiente, se pagará únicamente la proporción anual que corresponda dentro del término de 30 días hábiles a partir del hecho generador de la contribución.
+
+El pago del derecho se realizará mediante declaración que formule el contribuyente, la cual estará sujeta a comprobación por las autoridades fiscales municipales en términos de las leyes fiscales del Estado.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 98], B.O. 15 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 86.
 
-Con los mismos requisitos señalados en el artículo 83, se podrá dar en pago de crédito u obligaciones a cargo del municipio los bienes pertenecientes a la hacienda municipal.
-
-En todos los casos en que se autorice la enajenación de bienes del municipio y se estipule entre las condiciones, conforme a las cuales ha de llevarse a cabo, que el precio o parte que de él se pague a plazos, es requisito indispensable sin el cual será nula la operación, el otorgamiento de garantía real para asegurar el pago del crédito.
-
-## TÍTULO TERCERO. PRODUCTOS
-
-### CAPÍTULO SEGUNDO. BIENES MOSTRENCOS
-
-#### SECCIÓN I. DERECHOS POR SERVICIOS DE CONTROL VEHICULAR
-
-###### Artículo 87.
-
-Los bienes de uso común o destinados al servicio del municipio no podrán ser enajenados mientras tengan ese carácter, el que solo podrá cambiarse mediante autorización del Congreso del Estado.
-
-###### Artículo 88.
-
-Los propietarios de los vehículos que sean almacenados en los terrenos de los corralones de depósito, pagarán la cantidad equivalente a el 10% de un salario mínimo general por cada día de almacenaje a partir del séptimo día, siempre y cuando este el vehículo a disposición de propietario.
-
-###### Artículo 89.
-
-El servicio de grúa se cobrará de acuerdo a la siguiente.
-
-TARIFA
-
-de 1 a 5 cuadras 2 días salario mínimo
-
-de 5 a 10 cuadras 3 días salario mínimo
-
-de 10 a 20 cuadras 4 días salario mínimo
-
-de 20 en adelante 5 días salario mínimo
-
-I. Fuera de la zona urbana, será la tarifa establecida mas el 10% s. m. d. por km.
-
-II. Cuando el vehículo este en condiciones mecánicas para seguir operando, no se hará uso de la grúa, este será llevado al corralón o a la dirección de seguridad publica, bajo la responsabilidad del conductor o propietario.
-
-#### SECCIÓN PRIMERA. VENTA O EXPLOTACIÓN DE BIENES INMUEBLES
-
-###### Artículo 90.
-
-Constituyen ingresos en este ramo, el producto liquidado de los bienes mostrencos que sean rematados y vendidos de acuerdo con las disposiciones relativas.
-
-###### Artículo 91.
-
-Todas las personas con capacidad legal, tienen derecho a solicitar en compra sin perjuicio de terceros, un terreno en propiedad municipal susceptible de ser transmitidos (sic), si la enajenación es procedente, el valor unitario se aplicará conforme al avalúo pericial que en cada caso se practique.
-
-Por la expedición de títulos de propiedad, se pagará una cuota equivalente a cinco días salario mínimo.
-
-El que done, ceda, traspase, enajene o adquiera predios, en tanto no se otorgue la escritura o titulo de propiedad que el ayuntamiento tenga pleno dominio sobre los mismos, se le aplicará una sanción de 30 a 50 días salario mínimo por lote o fracción, sin perjuicio de que la operación será nula de pleno derecho y el inmueble se revertirá a favor del ayuntamiento.
-
-### CAPÍTULO TERCERO. VENTA DE SOLARES FUNDO LEGAL
-
-###### Artículo 92.
-
-Por la venta de papel para copias de actas de registro civil, se cobrará una cuota de 10 % salario mínimo diario.
-
-### CAPÍTULO CUARTO. PAPEL PARA COPIAS DE ACTAS DEL REGISTRO CIVIL
-
-###### Artículo 93.
-
-El papel para copias de actas del registro civil, será impreso en los términos del artículo 20 de la ley del registro civil para el estado de baja California Sur.
-
-### CAPÍTULO QUINTO. OCUPACIÓN DE LA VÍA PÚBLICA
-
-###### Artículo 94.
-
-Los encargados de las oficinas del registro civil podrán, en las hojas de papel de que se trate, que por cualquier circunstancia se inutilicen, una nota autorizada sobre el motivo de la inutilización y las cambiarán en la tesorería municipal por hojas utilizables.
-
-###### Artículo 95.
-
-Al concluir cada año fiscal serán devueltas a la tesorería municipal las hojas de papel en existencia, incluyendo las que hubieren inutilizado para que con las que tengan en su poder, las remitan al Presidente municipal para su destrucción.
-
-La tesorería municipal, al hacer la remisión dará cuenta del movimiento habido durante el año en este ramo.
-
-El ayuntamiento señalará las formalidades que deban observar para la destrucción.
-
-###### Artículo 96.
-
-Los oficiales del registro civil extenderán las certificaciones y copias certificadas exclusivamente en el papel autorizado, salvo en los casos expresamente exceptuados por la ley.
-
-En caso de que les sean presentadas hojas sin los requisitos indicados en el artículo 93, las recogerán y harán la consignación ante el ministerio público.
-
-###### Artículo 97.
-
-Por la ocupación de la vía pública o de otros bienes de uso común será pagada una renta de acuerdo a la siguiente.
-
-> <small>(REFORMADA, B.O. 10 DE JULIO DE 2005)</small>
-
-TARIFA
-
-I. Automóviles de sitio o taxis por metro lineal anualmente 1 día salario mínimo.
-
-II. Estacionamientos para particulares que vivan frente al estacionamiento solicitado, por metro lineal anualmente 0.5 día salario mínimo.
-
-III. Estacionamientos exclusivos para uso comercial anual por metro lineal 3 días salario mínimo
-
-IV. (DEROGADA, B.O. 10 DE JULIO DE 2005)
-
-V. Por instalaciones aéreas por cada 10 metros lineales anualmente 1 día salario mínimo.
-
-> <small>(REFORMADA, B.O. 10 DE AGOSTO DE 2005)</small>
-
-V (sic).- Por instalaciones visibles o no subterráneas por cada 10 metros lineales anualmente 1 día salario mínimo.
-
-VII. Por instalaciones de registros, cajas de válvulas y otras estructuras anualmente 3 días salario mínimo por cada uno.
-
-VIII. Por postes de madera, metal, concreto o cualquier otro material que sean soportadores de líneas conductoras de energía o señales de cualquier índole anualmente 0.4 día salario mínimo, por cada uno.
-
-El pago se realizará anticipadamente en los meses de enero y febrero de cada año, con excepción de la fracción IV. En el caso de nuevos contribuyentes, nuevas ocupaciones de la vía pública, o que por cualquier causa se haga exigible el cobro correspondiente, se pagará únicamente la proporción anual que corresponda.
-
-###### Artículo 98.
-
-por la ocupación de uso común, se aplicará una renta de acuerdo a la siguiente.
+Por la ocupación de locales, almacenes y/o el uso de cuartos fríos en los mercados municipales, será pagará un impuesto de acuerdo a la siguiente:
 
 TARIFA
 
@@ -1453,21 +1779,345 @@ a). Accesorios, locales, expendios y puestos según el giro:
 
 3. Otros (calzado, joyería etc.) 26 % salario mínimo.
 
-### CAPÍTULO SEXTO. LICENCIAS PARA ESTABLECIMIENTOS QUE EXPENDAN BEBIDAS ALCOHÓLICAS
+> <small>N. DE E. DE CONFORMIDAD CON LAS REFORMAS APROBADAS MEDIANTE EL DECRETO 1606, PUBLICADO EN EL B.O. DE 15 DE FEBRERO DE 2006, SE MODIFICA DE MANERA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE TITULO, DANDO COMO RESULTADO UN CONTENIDO DIFERENTE; MOTIVO POR EL CUAL, SE PRESENTA EL TEXTO APROBADO Y PUBLICADO EN LA FECHA QUE SE MENCIONA.</small>
+
+## TÍTULO TERCERO. PRODUCTOS
+
+### CAPÍTULO PRIMERO
+
+#### SECCIÓN I. DERECHOS POR SERVICIOS DE CONTROL VEHICULAR
+
+###### Artículo 87.
+
+La venta de bienes muebles e inmuebles pertenecientes al municipio solo podrá llevarse a cabo en subasta pública al mejor postor, la postura deberá ascender como mínimo a las dos terceras partes del valor comercial del bien fijado por el avalúo pericial ordenado por el ayuntamiento.
+
+Solo se podrán explotar los bienes muebles e inmuebles del municipio por concesión o contrato legalmente otorgado y el producto se fijará y se cobrará de conformidad con el contrato o la concesión respectiva.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 86], B.O. 15 DE FEBRERO DE 2006)
+
+###### Artículo 88.
+
+Con los mismos requisitos señalados en el artículo 83, se podrá dar en pago de crédito u obligaciones a cargo del municipio los bienes pertenecientes a la hacienda municipal.
+
+En todos los casos en que se autorice la enajenación de bienes del municipio y se estipule entre las condiciones, conforme a las cuales ha de llevarse a cabo, que el precio o parte que de él se pague a plazos, es requisito indispensable sin el cual será nula la operación, el otorgamiento de garantía real para asegurar el pago del crédito.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 87], B.O. 15 DE FEBRERO DE 2006)
+
+###### Artículo 89.
+
+Los bienes de uso común o destinados al servicio del municipio no podrán ser enajenados mientras tengan ese carácter, el que solo podrá cambiarse mediante autorización del Congreso del Estado.
+
+(REPUBLICADA, B.O. 15 DE FEBRERO DE 2006)
+
+#### SECCIÓN PRIMERA. VENTA O EXPLOTACIÓN DE BIENES INMUEBLES
+
+(REUBICADO [N. DE E. ANTES ARTICULO 85], B.O. 15 DE FEBRERO DE 2006)
+
+###### Artículo 90.
+
+Los propietarios de los vehículos que sean almacenados en los terrenos de los corralones de depósito, pagarán la cantidad equivalente a el 10% de un salario mínimo general por cada día de almacenaje a partir del séptimo día, siempre y cuando este el vehículo a disposición de propietario.
+
+TARIFA % de Salario Mínimo Diario
+
+I.- Automóviles, Camiones y Pick Ups 25%
+
+II.- Camiones Urbanos y Suburbanos 38%
+
+III.- Autobuses de Pasajeros 50%
+
+IV.- Camiones de Carga 50%
+
+V.- Tracto Camiones 50%
+
+VI.- Remolques 50%
+
+VII.- Motocicletas y Bicicletas 5%
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 89], B.O. 15 DE FEBRERO DE 2006)</small>
+
+###### Artículo 91.
+
+El servicio de grúa se cobrará de acuerdo a la siguiente.
+
+TARIFA
+
+I.- Dentro de la Zona Urbana de la Cabecera Municipal
+
+Tipo de Vehículo Salarios Mínimos Diarios
+
+a) Automóviles, Camiones y Pick Ups 8
+
+b) Camiones Urbanos y Suburbanos 12
+
+c) Autobuses de Pasajeros 12
+
+d) Camiones de Carga 12
+
+e) Tracto Camiones 12
+
+f) Remolques 12
+
+II.- Fuera de la zona urbana, será la tarifa establecida mas el 30% del salario mínimo diario por kilómetro.
+
+III.- Cuando el vehículo este en condiciones mecánicas para seguir operando, no se hará uso de la grúa, este será llevado al corralón o a la dirección de seguridad publica, bajo la responsabilidad del conductor o propietario.
+
+(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
+
+### CAPITULO SEGUNDO
+
+BIENES MOSTRENCOS.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 90], B.O. 15 DE FEBRERO DE 2006)
+
+###### Artículo 92.
+
+Constituyen ingresos en este ramo, el producto liquidado de los bienes mostrencos que sean rematados y vendidos de acuerdo con las disposiciones relativas.
+
+(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
+
+### CAPÍTULO TERCERO. VENTA DE SOLARES FUNDO LEGAL
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 91], B.O. 15 DE FEBRERO DE 2006)</small>
+
+###### Artículo 93.
+
+Todas las personas con capacidad legal, tienen derecho a solicitar en compra sin perjuicio de terceros, un terreno en propiedad municipal susceptible de ser transmitido, si la enajenación es procedente, el valor unitario se aplicará conforme al avalúo pericial que en cada caso se practique.
+
+Por la expedición de títulos de propiedad, se pagará una cuota equivalente a ocho días de salario mínimo.
+
+Por la expedición de duplicado de títulos de propiedad se pagará una cuota equivalente a 8 días de salario mínimo.
+
+Por la expedición de copias certificadas de títulos de propiedad, se pagará una cuota de 4 días de salario mínimo.
+
+El que done, ceda, traspase, enajene o adquiera predios, en tanto no se otorgue la escritura o titulo de propiedad que el ayuntamiento tenga pleno dominio sobre los mismos, se le aplicará una sanción de 40 días salario mínimo por lote o fracción, sin perjuicio de que la operación será nula de pleno derecho y el inmueble se revertirá a favor del Ayuntamiento.
+
+(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
+
+### CAPÍTULO CUARTO. PAPEL PARA COPIAS DE ACTAS DEL REGISTRO CIVIL
+
+(REUBICADO [N. DE E. ANTES ARTICULO 92], B.O. 15 DE FEBRERO DE 2006)
+
+###### Artículo 94.
+
+Por la venta de papel para copias de actas de registro civil, se cobrará una cuota de 10 % salario mínimo diario.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 93], B.O. 15 DE FEBRERO DE 2006)
+
+###### Artículo 95.
+
+El papel para copias de actas del registro civil, será impreso en los términos del artículo 20 de la ley del registro civil para el estado de baja California Sur.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 94], B.O. 15 DE FEBRERO DE 2006)
+
+###### Artículo 96.
+
+Los encargados de las oficinas del registro civil podrán, en las hojas de papel de que se trate, que por cualquier circunstancia se inutilicen, una nota autorizada sobre el motivo de la inutilización y las cambiarán en la tesorería municipal por hojas utilizables.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 95], B.O. 15 DE FEBRERO DE 2006)
+
+###### Artículo 97.
+
+Al concluir cada año fiscal serán devueltas a la tesorería municipal las hojas de papel en existencia, incluyendo las que hubieren inutilizado para que con las que tengan en su poder, las remitan al Presidente municipal para su destrucción.
+
+La tesorería municipal, al hacer la remisión dará cuenta del movimiento habido durante el año en este ramo.
+
+El ayuntamiento señalará las formalidades que deban observar para la destrucción.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 96], B.O. 15 DE FEBRERO DE 2006)
+
+###### Artículo 98.
+
+Los oficiales del registro civil extenderán las certificaciones y copias certificadas exclusivamente en el papel autorizado, salvo en los casos expresamente exceptuados por la ley.
+
+En caso de que les sean presentadas hojas sin los requisitos indicados en el artículo 93, las recogerán y harán la consignación ante el ministerio público.
+
+(REUBICADO [N. DE E. ANTES CAPITULO SEXTO], B.O. 15 DE FEBRERO DE 2006)
+
+### CAPÍTULO QUINTO. LICENCIAS PARA ESTABLECIMIENTOS QUE EXPENDAN BEBIDAS ALCOHÓLICAS
+
+(REUBICADO, B.O. 15 DE FEBRERO DE 2006)
 
 ###### Artículo 99.
 
 Objeto. es objeto de este derecho de servicios que presta el H. Ayuntamiento por la expedición de licencias para el funcionamiento de establecimientos o locales cuyos giros sean la enajenación de bebidas alcohólicas por la prestación de servicios que incluyan el expendio de dichas bebidas siempre que se efectúen total o parcialmente con el público en general.
 
+(REUBICADO, B.O. 15 DE FEBRERO DE 2006)
+
 ###### Artículo 100.
 
 Son sujetos de estos derechos las personas físicas o morales que se dediquen a vender bebidas alcohólicas o a la prestación de servicios que incluyen el expendio de dichas bebidas, siempre que se efectúe total o parcialmente con el público en general.
+
+> <small>(REFORMADO Y REUBICADO, B.O. 15 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 101.
 
 Tasa. por la expedición de licencias, refrendos, cambios de actividad, cambio de domicilio y horario extraordinario en su funcionamiento a que se refiere este artículo, se causarán los derechos como lo establecen las siguientes
 
-(VEASE TABLA ANEXA)
+TARIFAS
+
+I.- Expedición de licencias a giros comerciales con venta de bebidas alcohólicas por cada una.
+
+Establecimientos salarios
+
+mínimos
+
+Hoteles y moteles por 800
+
+cada establecimiento
+
+Súper mercado con 800
+
+venta de vino, licor y
+
+cerveza
+
+Minisuper o abarrotes 700
+
+con venta (sic) vino,
+
+licor y cerveza
+
+Minisuper o abarrotes 600
+
+con venta de cerveza
+
+Restaurante bar 700
+
+Bar 800
+
+Centros nocturnos 1,500
+
+Cabarets 1,000
+
+Salones de baile 800
+
+Discotecas 1,000
+
+Agencias 2,000
+
+Sub agencias 2,000
+
+Depósitos 500
+
+Cantinas 1,000
+
+Cervecerías 600
+
+Ultramarinos o licorería 700
+
+Distribuidora al mayoreo
+
+de vino y licor 1,500
+
+II.- Refrendo de licencias de funcionamiento y revalidación anual a giro para venta y consumo de bebidas alcohólicas por cada uno.
+
+Para efecto de la revalidación anual para operar locales destinados al almacenaje, distribución, venta y/o consumo de bebidas alcohólicas, se cobrará de acuerdo a la siguiente:
+
+TARIFA
+
+Establecimientos salarios
+
+mínimos
+
+Hoteles y moteles por 67.5
+
+cada establecimiento
+
+Súper mercado con venta 70
+
+de vino, licor y cerveza
+
+Minisuper o abarrotes 52.5
+
+con venta (sic) vino,
+
+licor y cerveza
+
+Minisuper o abarrotes
+
+con venta de cerveza 52.5
+
+Restaurante bar 67.5
+
+Bar 67.5
+
+Centros nocturnos 117.5
+
+Cabarets 117.5
+
+Salones de baile 70
+
+Discotecas 62.5
+
+Agencias 70
+
+Sub agencias 70
+
+Depósitos 52.5
+
+Cantinas 67.5
+
+Cervecerías 67.5
+
+Ultramarinos o licorería 52.5
+
+Distribuidora al
+
+mayoreo de vino y licor 293.8
+
+III. Cambio de domicilio de establecimiento con venta y consumo de bebidas alcohólicas.
+
+Para efectos de cambio de domicilio, previa autorización por parte del Ayuntamiento, se cobrará el 20% sobre el valor de la licencia según corresponda en la Fracción I del Artículo 115 de esta Ley.
+
+IV. Autorización de funcionamiento de horario extraordinario a giro con venta y consumo de bebidas alcohólicas por hora
+
+Establecimientos Costo por
+
+hora
+
+en Salarios
+
+Mínimos
+
+Hoteles y moteles por 1
+
+cada establecimiento
+
+Super mercado con venta 1
+
+de vino, licor y cerveza
+
+Minisuper o abarrotes con 1
+
+venta vino, licor y cerveza
+
+Minisuper o abarrotes con 1
+
+venta de cerveza
+
+Restaurante bar 1
+
+Bar 2
+
+Centros nocturnos 2
+
+Cabarets 2
+
+Salones de baile 2
+
+Discotecas 2
+
+Depósitos 1
+
+Cantinas 2
+
+Ultramarinos o licorería 1
+
+Cervecería 1
+
+A los establecimientos de distribución al mayoreo de cervezas, vinos y licores, agencias y sub-agencias no se les otorgará tiempo extraordinario para su funcionamiento.
+
+(REUBICADO, B.O. 15 DE FEBRERO DE 2006)
 
 ###### Artículo 102.
 
@@ -1475,57 +2125,79 @@ Los derechos por la expedición de licencia de giros comerciales a que se refier
 
 Las licencias de revalidación se pagarán durante los meses de enero, febrero y marzo de cada año y tratándose de licencias eventuales se cubrirán los derechos al momento de la prestación del servicio.
 
+(REUBICADO, B.O. 15 DE FEBRERO DE 2006)
+
 ###### Artículo 103.
 
 El pago de este derecho deberá realizarse en las oficinas recaudadoras de rentas del municipio.
+
+(REUBICADO, B.O. 15 DE FEBRERO DE 2006)
 
 ###### Artículo 104.
 
 Los sujetos a este derecho se apegarán al artículo 9 de la ley sobre el control de licencias a establecimientos destinados al almacén, distribución, venta y consumo de bebidas alcohólicas del estado de baja California Sur.
 
+(REUBICADO, B.O. 15 DE FEBRERO DE 2006)
+
 ###### Artículo 105.
 
 El ayuntamiento podrá cancelar la licencia para el funcionamiento de establecimientos a los que expendan bebidas alcohólicas por las siguientes faltas:
 
-a). aquellos establecimientos que en su funcionamiento o su ubicación ofendan la moral, las buenas costumbres o por así requerirlo el interés social.
+a) aquellos establecimientos que en su funcionamiento o su ubicación ofendan la moral, las buenas costumbres o por así requerirlo el interés social.
 
-b). al no solicitar su revalidación anual en los plazos señalados en el artículo 89 de esta ley.
+b) al no solicitar su revalidación anual en los plazos señalados en el articulo 89 de esta ley.
 
-c). que el establecimiento funcione en un lugar distinto al autorizado.
+c) que el establecimiento funcione en un lugar distinto al autorizado.
 
-d). los establecimientos que expendan bebidas alcohólicas a menores de edad.
+d) los establecimientos que expendan bebidas alcohólicas a menores de edad.
 
-e). los establecimientos que no reúnan los requisitos contemplados de la secretaría de salubridad y asistencia.
+e) los establecimientos que no reúnan los requisitos contemplados de la secretaría de salubridad y asistencia.
+
+(REUBICADO, B.O. 15 DE FEBRERO DE 2006)
 
 ###### Artículo 106.
 
 Los derechos por los servicios de inspección fiscal serán causados por los trabajos que se deriven de cualquier acto de inspección que se realice en el municipio a solicitud expresa hecha a cualquier dependencia municipal por cualquier persona física o moral que lo solicite y/o cuando la autoridad lo dicte conveniente. los derechos se cobrarán de 1 a 3 salarios mínimos.
 
-### CAPÍTULO SÉPTIMO. DE LAS LICENCIAS, PERMISOS O AUTORIZACIONES POR ANUNCIOS, CARTELES O PUBLICIDAD
+(REUBICADO, ANTES CAPITULO SEPTIMO, B.O. 15 DE FEBRERO DE 2006)
+
+### CAPÍTULO SEXTO. DE LAS LICENCIAS, PERMISOS O AUTORIZACIONES POR ANUNCIOS, CARTELES O PUBLICIDAD
+
+(REUBICADO, B.O. 15 DE FEBRERO DE 2006)
 
 ###### Artículo 107.
 
 Objeto. para efectos de este derecho, se entiende por anuncio en la vía pública a todo medio de publicidad que proporcione información, orientación e identifique un servicio profesional, marca, producto o establecimiento con fines de bienes o servicios.
 
+(REUBICADO, B.O. 15 DE FEBRERO DE 2006)
+
 ###### Artículo 108.
 
 Sujeto. son sujetos de este derecho las personas físicas o morales tenedoras o usuarias de anuncios, carteles o publicidad en la vía pública, requerirán de licencias, permisos o autorización para su instalación y uso de conformidad con la reglamentación municipal correspondiente.
+
+> <small>(REFORMADO Y REUBICADO, B.O. 15 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 109.
 
 Base. la base del pago de estos derechos será:
 
-En la vía pública anunciando bebidas alcohólicas 1.6 % diario del salario mínimo por metro cuadrado, en la vía pública anunciando no bebidas alcohólicas 1.0 % diario del salario mínimo por metro cuadrado.
+En la vía pública anunciando cualquier tipo de producto 1.3 % diario del salario mínimo por metro cuadrado.
+
+(REUBICADO, B.O. 15 DE FEBRERO DE 2006)
 
 ###### Artículo 110.
 
 Los anuncios semifijos o eventuales pagarán este derecho al equivalente a un 2% del salario mínimo diario por metro cuadrado.
 
+(REUBICADO, B.O. 15 DE FEBRERO DE 2006)
+
 ###### Artículo 111.
 
-Pago. Este derecho en anuncios fijos deberá pagarse anualmente en las oficinas recaudadoras del h. ayuntamiento, a más tardar en los primeros diez días del mes de febrero.
+Pago. Este derecho en anuncios fijos deberá pagarse anualmente en las oficinas recaudadoras del h. ayuntamiento, a mas tardar en los primeros diez días del mes de febrero.
 
 En anuncios semifijos o eventuales el pago será al otorgarse el permiso.
+
+(REUBICADO, B.O. 15 DE FEBRERO DE 2006)
 
 ###### Artículo 112.
 
@@ -1537,43 +2209,63 @@ b). Los que deriven de las entidades gubernamentales en sus funciones de derecho
 
 c). El anuncio principal del establecimiento destinado a anunciar su propio negocio y productos que expendan, a excepción de bebidas alcohólicas y/o cigarros.
 
-### CAPÍTULO OCTAVO. PRODUCTOS DIVERSOS
+(REUBICADO [N. DE E. ANTES CAPITULO OCTAVO], B.O. 15 DE FEBRERO DE 2006)
+
+### CAPÍTULO SÉPTIMO. PRODUCTOS DIVERSOS
+
+(REUBICADO, B.O. 15 DE FEBRERO DE 2006)
 
 #### SECCIÓN SEGUNDA. SERVICIO DE GRÚA Y ALMACENAJE DE VEHICULOS EN CORRALONES MUNICIPALES
 
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 88], B.O. 15 DE FEBRERO DE 2006)</small>
+
 ### CAPÍTULO PRIMERO. RECARGOS
+
+(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
 
 ###### Artículo 113.
 
 Productos diversos son todos aquellos productos no considerados en los términos de los artículos anteriores.
 
+(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
+
 ## TÍTULO CUARTO. APROVECHAMIENTOS
 
+(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
+
 ### CAPÍTULO SEGUNDO. MULTAS
+
+> <small>(REFORMADO, B.O. 15 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 114.
 
 La falta de pago oportuno de un crédito fiscal dará lugar al cobro de recargos en concepto de indemnización al fisco local y se cobrará a razón de un 50 % más del porcentaje que establezca la ley de ingresos para el caso de prórroga.
 
+(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
+
 ###### Artículo 115.
 
 El plazo para su cómputo no comenzará a correr si el causante no conoce por razones imputables a las autoridades fiscales el importe de los mismos en los casos en los que deba ser calificado o modificado previamente.
 
+(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
+
 ### CAPÍTULO TERCERO. APROVECHAMIENTOS DIVERSOS
+
+(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
 
 ###### Artículo 116.
 
 Las multas serán cobradas en los términos de las disposiciones legales que las establecen.
 
-> <small>(ADICIONADO, B.O. 10 DE JULIO DE 2005)</small>
+Por cada animal sacrificado clandestinamente se pagará una sanción equivalente a 50 veces los derechos establecidos en el Artículo 72 y será decomisado el producto.
 
-Las sanciones por desacato al Bando de Policía y Buen Gobierno, Reglamento de Tránsito, y demás disposiciones vigentes en el Municipio de Comondú, se impondrán de acuerdo a la siguiente clave, concepto y tarifa:
+Las sanciones por desacato al Bando de Policía y Buen Gobierno, Reglamento de Tránsito y demás disposiciones vigentes en el Municipio de Comondú, se impondrán de acuerdo a la siguiente clave, concepto y tarifa:
 
 No. CONCEPTO ART. SAL. MIN.
 
 1 MANEJAR SIN LICENCIA 60 6
 
-2 PERMIRIT MANEJAR SIN
+2 PERMITIR MANEJAR SIN
 
 LICENCIA 76 2
 
@@ -1631,9 +2323,9 @@ Y
 
 CON DAÑOS PERSONALES 143 10
 
-14 PRESTAR SERVICIO
+14 PRESTAR SERVICIO PUBLICO
 
-SIN AUTPRIZACION 19 6
+SIN AUTORIZACION 19 6
 
 15 CIRCULAR FUERA DE
 
@@ -1707,7 +2399,7 @@ VEHÍCULO EN BOCACALLE 135 3
 
 Y
 
-136
+116
 
 29 FALTA DE LUCES
 
@@ -1781,7 +2473,7 @@ Y 2
 
 CARGA, CARROTANQUE Y
 
-VOLTEO SOBRE ELBLVD.
+VOLTEO SOBRE EL BLVD.
 
 OLACHEA DURANTE LA
 
@@ -1793,15 +2485,13 @@ NOCHE 161 6
 
 ENBRIAGANTES DURANTE
 
-DURANTE LA CONDUCCIÓN
+LA CONDUCCIÓN DEL
 
-DELVEHÍCULO
+VEHÍCULO ASÍ COMO
 
-ASÍ COMO PERMITIR
+PERMITIR INGERIR
 
-INGERIR DICHAS
-
-BEBIDAS A SUS
+DICHAS BEBIDAS A SUS
 
 ACOMPAÑANTES 103 20
 
@@ -1809,9 +2499,9 @@ ACOMPAÑANTES 103 20
 
 LA LICENCIA 61 2
 
-49 CONDUCIR CON
+49 CONDUCIR CON MENORES
 
-MENORES EN LOS BRAZOS 103 2
+EN LOS BRAZOS 103 2
 
 50 CONDUCIR MOTOCICLETA
 
@@ -1827,7 +2517,7 @@ P/DISCAPACITADOS 161 3
 
 52 TRANSPORTAR PASAJE
 
-EN AUTOBÚS EN ESTADO
+EN AUTOBÚS EN ESTADO DE
 
 EBRIEDAD O DROGADO 103 80
 
@@ -1839,25 +2529,39 @@ LONA LA CARGA 103 3
 
 EL CINTURÓN DE SEGURIDAD BIS 3
 
-### CAPÍTULO CUARTO. REZAGOS
+(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
 
-###### Artículo 118.
+### CAPITULO CUARTO. REZAGOS
 
-Son rezagos los adeudos por concepto de impuestos, derechos y productos que pasen a ejercicios fiscales posteriores, a pesar de que debió hacerse su pago en aquel en que se causaron, los rezagos serán cubiertos en las oficinas en que debieron pagarse los impuestos, derechos y productos de los cuales provengan. Dichos adeudos prescribirían en un plazo de cinco años en los términos de los artículos 41, 42 y 43 del Código Fiscal para el Estado y Municipios de Baja California Sur
+(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
+
+Artículo118. Son rezagos los adeudos por concepto de impuestos, derechos y productos que pasen a ejercicios fiscales posteriores, a pesar de que debió hacerse su pago en aquel en que se causaron, los rezagos serán cubiertos en las oficinas en que debieron pagarse los impuestos, derechos y productos de los cuales provengan. Dichos adeudos prescribirían en un plazo de cinco años en los términos de los artículos 41, 42 y 43 del Código Fiscal para el Estado y Municipios de Baja California Sur.
+
+(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
 
 ###### Artículo 117.
 
 Los aprovechamientos no especificados en este titulo se recaudaran con las leyes o contratos que las establezcan.
 
+(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
+
 ### CAPÍTULO QUINTO. PARTICIPACIONES
 
+(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
+
 ### CAPÍTULO ÚNICO. FONDOS DE APORTACIONES FEDERALES
+
+(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
 
 ###### Artículo 119.
 
 Los municipios percibirán las participaciones en impuestos federales y locales que les otorguen las leyes respectivas.
 
+(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
+
 INGRESOS EXTRAORDINARIOS
+
+(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
 
 ###### Artículo 120.
 
@@ -1865,11 +2569,11 @@ El municipio percibirá como ingresos extraordinarios los obtenidos por:
 
 I. Subsidios:
 
-a). Que le conceda el Gobierno Federal por obtención de los servicios públicos tradicionales.
+a) Que le conceda el Gobierno Federal por obtención de los servicios públicos tradicionales.
 
-b). Concedidos por el Gobierno del Estado.
+b) Concedidos por el Gobierno del Estado.
 
-c). Extraordinarios.
+c) Extraordinarios.
 
 I (SIC). Herencias, legados, donaciones e indemnizaciones, conforme a las disposiciones del testador o del donante.
 
@@ -1881,47 +2585,67 @@ IV. De organismos descentralizados o participación municipal.
 
 V. Otros no especificados.
 
-## TÍTULO QUINTO
+(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
+
+## TÍTULO QUINTO. (REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
 
 ###### Artículo 121.
 
 Las aportaciones federales para fines específicos que a través de los diferentes fondos le correspondan al municipio de Comondú, se percibirán en los términos que establezcan el Presupuesto de Egresos de la Federación, la Ley de Coordinación Fiscal y los convenios respectivos.
 
+(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
+
 ## TÍTULO SEXTO. CONSTRIBUCIONES (SIC) ESPECIALES
 
-### CAPÍTULO ÚNICO
+(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
+
+### CAPÍTULO ÚNICO. (REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
 
 ###### Artículo 122.
 
 El gasto de energía eléctrica y fuerza motriz de los locales arrendados en los mercados, será calculado de acuerdo con el consumo visible cada uno y se acumulará al importe del arrendamiento que no se considerará cubierto íntegramente si no ha sido solventado lo correspondiente a este consumo.
 
+(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
+
 ###### Artículo 123.
 
 Los causantes sujetos a pagos periódicos presentarán al efectuar cualquier pago, el recibo anterior y en caso de ser requeridos para ello, hasta los tres últimos recibos.
 
-###### Artículo 124.
+(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
 
-La ocultación de fuentes gravadas por esta ley, que motiven omisión del pago del impuesto o derechos será sancionada hasta con tres tantos al importe de los mismos sin perjuicio de hacer efectivos los créditos fiscales originales.
+Artículo124. La ocultación de fuentes gravadas por esta ley, que motiven omisión del pago del impuesto o derechos será sancionada hasta con tres tantos al importe de los mismos sin perjuicio de hacer efectivos los créditos fiscales originales.
 
 Las personas que se dediquen a la venta de bienes raíces, notarios públicos, jueces, fraccionadores y en general, quienes directa o indirectamente intervengan en la celebración de contratos o convenios preparatorios o definitivos que impliquen la transmisión de la propiedad de inmuebles, deberán manifestarlo a la autoridad municipal en un plazo de treinta días, de no hacerlo, sin perjuicio de ser solidarios responsables de pago del impuesto y de sus recargos, se les impondrá una sanción hasta de 5 veces el importe de los mismos.
+
+(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
 
 ###### Artículo 125.
 
 Todos los propietarios o explotadores de giros o actividades comerciales, industriales y de servicios, deberán inscribirse en el padrón municipal, siempre que llenen los requisitos de registro que establecen las leyes y reglamentos respectivos y obtener antes de iniciar sus actividades la licencia correspondiente, misma que deberá obtenerse dentro de los 30 días siguientes a la fecha de inicio y la revalidación anual deberá realizarse dentro del mes de enero de cada año.
 
+(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
+
 ###### Artículo 126.
 
-El incumplimiento del artículo 125 será acreedor a una sanción de 3 a 50 días salario mínimo.
+El incumplimiento del articulo 125 será acreedor a una sanción de 3 a 50 días salario mínimo.
+
+(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
 
 ###### Artículo 127.
 
 Los giros que no estén inscritos en el padrón correspondiente o por los que no se hubiera obtenido licencia para su funcionamiento y operen infringiendo los términos de la licencia concedida serán clausurados por las autoridades fiscales sin perjuicio de las sanciones correspondientes.
 
+(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
+
 ###### Artículo 128.
 
 Las licencias no conceden al causante un derecho absoluto pues siempre se entenderá otorgada bajo el concepto de quedar sometido el establecimiento, persona y objeto de la licencia a las leyes o reglamentos y las disposiciones que demande el interés público.
+
+(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
 
 ###### Artículo 129.
 
@@ -1929,17 +2653,29 @@ Todo causante que marca el artículo 128 queda obligado a dar aviso a la oficina
 
 Tratándose de clausura se devolverá la licencia y placa de inscripción relativa, la falta de cumplimiento de esta disposición será sancionada con multa de 3 a 50 días salario mínimo.
 
+(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
+
 ###### Artículo 130.
 
-Las empresas de cualquier índole que por el desarrollo de sus actividades sea necesario nombrarles inspectores o interventores municipales o ambos a la vez, bien sea para la vigilancia o aplicación del reglamento o disposición gubernativas (sic) o para vigilar la recaudación del impuesto, pagarán los sueldos de los mismos, los que serán fijados por el Presidente Municipal.
+Las empresas de cualquier índole que por el desarrollo de sus actividades sea necesario nombrarles inspectores o interventores municipales o ambos a la vez, bien sea para la vigilancia o aplicación del reglamento o disposición (sic) gubernativas o para vigilar la recaudación del impuesto, pagarán los sueldos de los mismos, los que serán fijados por el Presidente Municipal.
+
+(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
 
 ###### Artículo 131.
 
 Para fijación de cuotas por impuesto, se tomará en cuenta la importancia comercial o industrial de los negocios, su ubicación, capital, ingresos y todos aquellos elementos que permitan estimarlos, de acuerdo con las tasas que fija la ley.
 
+(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
+
 ###### Artículo 132.
 
-Los causantes están obligados a colocar en lugar visible del establecimiento la licencia municipal para funcionamiento del giro, así como de la placa de inscripción relativa, y a mostrar a los inspectores y demás autoridades debidamente acreditados, la documentación que les soliciten para el desempeño de sus funciones, así como ministrarles toda información que sea necesaria para la revisión o investigación correspondiente, la violación a estas disposiciones será sancionada de conformidad con lo previsto en el artículo siguiente.
+Los causantes están obligados a colocar en lugar visible del establecimiento la licencia municipal para funcionamiento del giro, así como de la placa de inscripción relativa, y a mostrar a los inspectores y demás autoridades debidamente acreditados, la documentación que les soliciten para el desempeño de sus funciones, así como ministrarles toda información que sea necesaria para la revisión o investigación correspondiente, la violación a estas disposiciones será sancionada de conformidad con lo previsto en el articulo siguiente.
+
+(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
+
+Artículo133. La falta oportuna de las declaraciones, así como la falsedad de datos contenidos en las mismas, la resistencia a las visitas de inspección conducentes a la correcta determinación de la base gravada y en general el incumplimiento de las obligaciones fiscales serán sancionadas, independientemente de la responsabilidad en que se incurre, con multa de 50 a 300 días salario mínimo.
+
+(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
 
 ###### Artículo 133.
 
@@ -1951,6 +2687,8 @@ Los propietarios de dos o más cabezas de ganado están obligados a presentar pa
 
 Si en el plazo de 5 años consecutivos no se cumple con esta obligación, se cancelarán automáticamente los títulos de marcas y señales a herrar.
 
+(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
+
 ###### Artículo 135.
 
 Cuando los impuestos o derechos se acumulen por demora en la liquidación, que no sea atribuible al causante, este podrá pagar el adeudo en un plazo no mayor de 10 meses, a juicio de la autoridad fiscal competente, contado a partir de la fecha en que le sea notificada la liquidación respectiva. el monto del adeudo se dividirá, en su caso en tantas partes como bimestres comprende el plazo concedido, debiendo hacerse el pago en los meses en que no tengan que cubrirse los impuestos o derechos que por el mismo concepto se causen dentro de dicho plazo.
@@ -1959,15 +2697,23 @@ Los causantes que hayan pagado menor cantidad de la que corresponda conforme a l
 
 En los casos a que se refieren los párrafos que anteceden no se causarán recargos por el tiempo anterior al giro de las boletas respectivas, pero si se causará por las sumas que no sean cubiertas oportunamente según los plazos convenidos.
 
+(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
+
 ###### Artículo 136.
 
 Todas las liquidaciones de créditos fiscales se elevarán a múltiplos de $ 1.00
+
+(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
 
 ###### Artículo 137.
 
 El tesorero municipal tendrá todas las facultades para requerir a los contribuyentes el cumplimiento de los créditos y obligaciones fiscales, aplicar el procedimiento económico coactivo e imponer sanciones y todas las atribuciones que para el Secretario de Finanzas del Gobierno del Estado establece el Código Fiscal para el Estado y Municipios de Baja California Sur.
 
-## TÍTULO SÉPTIMO. DE LA REDUCCIÓN PARA PENSIONADOS, JUBILADOS, DISCAPACITADOS Y SENECTOS
+(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
+
+## TÍTULO SÉPTIMO. DE LA REDUCCION PARA PENSIONADOS, JUBILADOS, DISCAPACITADOS Y SENECTOS
+
+(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
 
 ###### Artículo 138.
 
@@ -1980,6 +2726,8 @@ II. Instituto mexicano del seguro social
 III. Instituto de seguridad y servicios sociales de las fuerzas armadas mexicanas de petróleos mexicanos y de la comisión federal de electricidad.
 
 IV. Otras instituciones de seguridad social que presten estos servicios en las diversas entidades federativas del país.
+
+(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
 
 ###### Artículo 139.
 
@@ -1997,7 +2745,11 @@ V. Derechos por servicios de control vehicular, únicamente en licencias de cond
 
 VI. En el pago de los derechos causados por la prestación del servicio de agua potable y alcantarillado.
 
+(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
+
 ## TÍTULO OCTAVO. DE LOS ESTÍMULOS FISCALES DESTINADOS AL FOMENTO DE LA INVERSIÓN PRODUCTIVA Y LA GENERACIÓN DE EMPLEOS
+
+(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
 
 ###### Artículo 140.
 
@@ -2021,9 +2773,13 @@ I (SIC). Reducción en el pago de derechos por expedición de licencias de const
 
 II. El acreditamiento del monto de la adquisición de predios donde el sujeto beneficiario vaya a realizar sus actividades económicas contra el pago de derechos de cooperación que le correspondiera cubrir en la ejecución de obras públicas que realice el municipio en esos predios establecidos en el capítulo quinto del título segundo de la presente ley.
 
+(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
+
 ###### Artículo 141.
 
 Para efectos de lo dispuesto en este capítulo, se considerarán sujetos beneficiarios para recibir estímulos fiscales, todas aquellas personas físicas o morales o unidades económicas que hayan obtenido resolución favorable a la solicitud de otorgamiento de éstos, conforme al procedimiento establecido en la ley de fomento económico del Estado de Baja California Sur.
+
+(REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
 
 ###### Artículo 142.
 
@@ -2086,3 +2842,7 @@ B.O. 10 DE AGOSTO DE 2005.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 15 DE FEBRERO DE 2006.
+
+Artículo Único.- El Presente Decreto entrar en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
