@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2004-05-17"
+last_updated: "2006-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MAYO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2006.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -773,7 +773,7 @@ Las leyes son obligatorias al día siguiente de su promulgación, con excepción
 
 ###### Art. 60.
 
-Durante los recesos de la Cámara funcionará la Diputación permanente con las facultades que le concede la fracción I del Artículo 40 de esta Constitución y las siguientes:
+Durante los recesos de la Cámara funcionará la Diputación permanente con las facultades que le concede la fracción I del artículo 40 de esta Constitución y las siguientes:
 
 I. Dictaminar sobre todos los asuntos pendientes al tiempo de receso, y proveer en los nuevos lo que fuera indispensable para dar cuenta de unos y otros a la Legislatura.
 
@@ -1295,9 +1295,11 @@ Los Agentes del Ministerio Público serán nombrados y removidos por el Procurad
 
 Sus labores en términos generales, serán las de velar por el exacto cumplimiento de la ley, procediendo en contra de los infractores de ella, cualquiera que sea su categoría; la de perseguir y ejercer ante los tribunales que corresponda, las acciones penales respectivas, y vigilar a los Agentes del Ministerio Público, para que cumplan fielmente su cometido.
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2006)</small>
+
 ###### Art. 99.
 
-El Procurador General de Justicia es el jefe de la Policía Judicial
+El Procurador General de Justicia es el Jefe de la Policía Estatal.
 
 > <small>(REFORMADO, P.O. 17 DE MAYO DE 2004)</small>
 
@@ -1991,7 +1993,7 @@ P.O. 14 DE MARZO DE 1934.
 
 Primero:- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-SEGUNDO:- Este Decreto comienza a surtir sus efectos a partir del día de su publicación.
+SEGUNDO:- Este Decreto comienza a surtir sus efectos a partir del día de su publicación..
 
 P.O. 11 DE SEPTIEMBRE DE 1935.
 
@@ -2441,7 +2443,7 @@ Por esta única vez y para los efectos del Artículo 85 de la reforma, los Conse
 
 P.O. 18 DE NOVIEMBRE DE 1995.
 
-DECRETO 7885 QUE REFORMA ARTS. 37, 38 Y 69.
+DECRETO 7885 QUE REFORMA ARTS 37, 38 Y 69.
 
 PRIMERO.- El presente decreto de reformas entrará en vigor, previos los trámites a que se refiere el artículo 131 de la Constitución Política, el día primero de enero de mil novecientos noventa y seis.
 
@@ -2586,3 +2588,9 @@ El plazo para la presentación de la iniciativa de Ley de Ingresos y de Presupue
 ###### ARTÍCULO TERCERO.
 
 Remítase el presente decreto a los H. Ayuntamientos Constitucionales del Estado de Nayarit para los efectos del artículo 131 de la Constitución Política del Estado.
+
+P.O. 15 DE FEBRERO DE 2006.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Artículo Segundo.- Remítase la presente Minuta de Proyecto de Decreto a los Honorables Ayuntamientos Constitucionales del Estado de Nayarit, para los efectos establecidos en el artículo 131 de la Constitución Política del Estado de Nayarit.
