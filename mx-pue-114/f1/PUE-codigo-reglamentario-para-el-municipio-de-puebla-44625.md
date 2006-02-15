@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2005-12-14"
+last_updated: "2006-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CODIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -2635,7 +2635,7 @@ Cuando algún vehículo sufra desperfectos en la vía pública, deberá ser reti
 
 ###### Artículo 296.
 
-Queda prohibido el estacionamiento de vehículos de toda clase en la vía pública por más de treinta minutos, para realizar trabajos de compostura de algún desperfecto o reparaciones motivadas por casos de emergencia o de fuerza mayor. Los talleres o particulares que se dedican a la reparación de automóviles, bajo ningún concepto podrán hacerlo en la vía pública.
+Queda prohibido el estacionamiento de vehículos de toda clase en la vía pública por mas de treinta minutos, para realizar trabajos de compostura de algún desperfecto o reparaciones motivadas por casos de emergencia o de fuerza mayor. Los talleres o particulares que se dedican a la reparación de automóviles, bajo ningún concepto podrán hacerlo en la vía pública.
 
 ###### Artículo 297.
 
@@ -10133,7 +10133,7 @@ Donde:
 
 Los coeficientes de proporcionalidad a1 y a2 están dados por las siguientes expresiones:
 
-a¡ = (1-r(1-q)W¡
+a¡ = (1-r(1-q)W¡)
 
 W¡h¡
 
@@ -10147,7 +10147,7 @@ III. Péndulos Invertidos.
 
 Los péndulos invertidos son estructuras en que 50 por ciento o más de su masa se halla en el extremo superior y tiene un solo elemento resistente en la dirección de análisis o una sola hilera de columnas perpendicular a esta. En el análisis estático de estas estructuras, además de la fuerza lateral estipulada se tendrá en cuenta la aceleración angular de la masa superior asociada al giro de dicha masa con respecto a un eje horizontal normal a la dirección de análisis y que pase por el punto de unión entre la masa y el elemento resistente. El efecto de dicha aceleración se tomará equivalente a un par aplicado en el extremo superior del elemento resistente, cuyo valor es igual a
 
-M=1.5Pr2°Q/X
+M = 1.5Pr2°Q/X
 
 donde r° es el radio de giro de la masa con respecto al eje en cuestión; x y f son el desplazamiento lateral y el giro, respectivamente, del extremo superior del elemento resistente bajo la acción de la fuerza lateral P que actúa sobre la masa de acuerdo con la fracción I de este artículo.
 
@@ -10255,7 +10255,7 @@ Para calcular la participación de cada modo natural en las fuerzas laterales qu
 
 Las respuestas modales Ri, donde Ri puede ser fuerza cortante, desplazamiento lateral, momento de volteo, etc., se combinarán para calcular las respuestas totales R de acuerdo con la expresión.
 
-R = (¡R2¡)1/2
+R=(¡R2¡)1/2
 
 Siempre que los períodos de los modos naturales difieran al menos 10 por ciento entre sí. Para las respuestas en modos naturales que no cumplen esta condición se tendrá en cuenta el acoplamiento entre ellos. Los desplazamientos laterales así calculados habrán de multiplicarse por o para calcular efectos de segundo orden, así como para verificar que la estructura no alcanza ninguno de los estados límite de servicio a los que hace referencia el presente Capítulo.
 
@@ -10479,7 +10479,7 @@ Siendo:
 
 P = Presión a succión del viento (kg/m²)
 
-c = Factor de empuje sin dimensiones)
+c = Factor de empuje (sin dimensiones)
 
 V = Velocidad de diseño (km/h)
 
@@ -16331,6 +16331,8 @@ III. Retiro del producto y multa equivalente a cinco días de salario mínimo, p
 
 DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2006)</small>
+
 ###### Artículo 1528.
 
 Las disposiciones del presente Capítulo son de orden público y observancia general dentro del Municipio y tienen por objeto regular el establecimiento, funcionamiento, conservación, operación y vigilancia, de los panteones municipales y concesionados.
@@ -17393,7 +17395,7 @@ VIII. Alterar o mutilar documentos oficiales que amparen la propiedad o legal pr
 
 IX. Los introductores que infrinjan las disposiciones del presente Capítulo se harán acreedores a las sanciones que al efecto se señalen.
 
-DEL SERVICIO DE REFRIGERACIÓN
+DEL SERVICIO DE REFIGERACIÓN
 
 ###### Artículo 1660.
 
@@ -17601,205 +17603,749 @@ Corresponde exclusivamente al C. Presidente Municipal la aplicación de las sanc
 
 Es facultad del C. Presidente Municipal, resolver cualquier duda respecto a la interpretación del presente Capítulo, la aplicación de (sic) mismo y sanciones que establece, así como delegar estas facultades en el funcionario que designe.
 
+> <small>(REFORMADO EN SU ESTRUCTURA, P.O. 15 DE FEBRERO DE 2006)</small>
+
 ### CAPÍTULO 28. DEL CONTROL PARA EL EXPENDIO DE PINTURAS EN AEROSOL Y
 
 SUBSTANCIAS CON EFECTOS TÓXICOS EN EL MUNICIPIO DE PUEBLA
 
 ###### Artículo 1688.
 
-El presente Capítulo establece las bases de organización y funcionamiento del Archivo del Honorable Ayuntamiento del Municipio de Puebla y de sus Juntas Auxiliares y sus disposiciones son de observancia general para todos los empleados y usuarios del Archivo Municipal.
+El presente Capítulo establece las bases de organización y funcionamiento del Archivo General del Honorable Ayuntamiento de Puebla, sus disposiciones son de observancia general para todos los empleados y usuarios del Archivo General Municipal.
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 1689.
 
-El Archivo Municipal es un órgano de la Secretaría General del Ayuntamiento, conforme a lo dispuesto por el artículo 138 fracciones XI y XV de la Ley Orgánica Municipal del Estado de Puebla y tiene como funciones prioritarias, impulsar el resguardo, preservación, control, manejo, depuración y aprovechamiento institucional y social del patrimonio documental municipal, comprendiendo éste los libros y documentos que forman el archivo histórico, los expedientes, documentos, registros de información semiactivos y administrativos, así como el material bibliohemerográfico.
+El Archivo General Municipal es un órgano de la Secretaría del Honorable Ayuntamiento, conforme a lo dispuesto por el articulo 138 fracciones XI y XV de la Ley Orgánica Municipal y tiene como funciones prioritarias, impulsar el resguardo, preservación, control, manejo, depuración y aprovechamiento institucional y social del patrimonio documental municipal, comprendiendo éste los libros, documentos y registros de información en los archivos administrativos, semiactivos e históricos.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
+
+###### Artículo 1689 Bis.
+
+El Archivo General Municipal dictará los lineamientos de administración documental, mismos que tendrán aplicación obligatoria en todas las dependencias y organismos descentralizados, así como de sus Juntas Auxiliares del Honorable Ayuntamiento; los cuales serán formalmente expresados a través de los “Lineamientos Generales para la Administración Documental y Transferencia de Archivos Administrativos al Archivo General Municipal de Puebla”.
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 1690.
 
-El Archivo General dictará los lineamientos de administración documental para el Honorable Ayuntamiento de Puebla, los cuales tendrán aplicación obligatoria en todas las dependencias municipales y en las Juntas Auxiliares. Dichos lineamientos deberán ser formalmente expresados a través del Manual de Administración Documental del Honorable Ayuntamiento de Puebla.
+Para los efectos del Presente Capítulo se considera Archivo General Municipal al conjunto de documentos acumulados, en un proceso natural,, por la Administración Municipal en el transcurso de su gestión sobre asuntos de cualquier índole, los producidos y los recibidos, de cualquier fecha, los cuales se conservan y custodian para servir de referencia como testimonio y fuente de información a las dependencias que los generaron, a los ciudadanos y/o como fuente primaria para la historia.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
+
+###### Artículo 1690 Bis.
+
+Se consideran documentos públicos aquéllos que fueron y son generados en acciones públicas, por las diferentes Dependencias y Entidades que conforman la Administración Publica y Municipal clasificados en:
+
+a) Documentación activa.- Aquélla necesaria para el ejercicio de las atribuciones de las unidades administrativas y de uso frecuente, que se conserva en el archivo de trámite;
+
+b) Documentación semiactiva.- Aquélla de uso esporádico que debe conservarse por razones administrativas, legales, fiscales o contables en el archivo de concentración; y
+
+c) Documentación histórica.- Aquélla que contiene evidencia y testimonio de las acciones de la dependencia, por lo que debe conservarse permanentemente.
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 1691.
 
-La prestación del servicio del Archivo Municipal, se llevará a cabo bajo la vigilancia y supervisión de la Secretaría General del H. Ayuntamiento, a través del Jefe de Departamento de Archivo y Correspondencia.
+La administración, mantenimiento y vigilancia del Archivo General Municipal, será ejecutada por el Honorable Ayuntamiento a través de la Secretaría del Honorable Ayuntamiento, la cual para tales fines podrá celebrar convenios con diversas instituciones públicas o privadas.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
+
+###### Artículo 1691 Bis.
+
+El servicio que preste por parte del Archivo General Municipal, estará bajo la vigilancia y supervisión de la Secretaría del Honorable Ayuntamiento a través de la Dirección del Archivo General, el cual para su desempeño contará con la siguiente estructura:
+
+I.- Un Director;
+
+II.- Un jefe de Departamento de Supervisión y Concentración; y
+
+III.- Un jefe de Departamento de Archivo Histórico.
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 1692.
 
-Para los efectos del presente Capítulo, se considera Archivo Municipal, al lugar donde se custodian el conjunto de documentos, libros, expedientes, carpetas, revistas y planos que conservan la historia y la actividad administrativa de este Ayuntamiento.
+Para los efectos de selección de documentos sujetos a baja, se reunirá el titular de la Unidad Administrativa de cuya documentación se trate, el Presidente de la Comisión de Transparencia y Acceso a la Información Pública del Gobierno Municipal o de las Entidades que ejerzan sus funciones y el Director del Archivo General Municipal.
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 1693.
 
-La administración, mantenimiento y vigilancia del Archivo Municipal, será ejecutada por el H. Ayuntamiento a través de la Secretaría General, la cual para tales fines podrá celebrar convenios con diversas instituciones públicas y privadas.
+El acervo del Archivo General Municipal sólo será manejado por el personal responsable y adscrito a esa unidad administrativa, quedando prohibida la participación de personal ajeno, y estarán sujetos a las disposiciones de este Capítulo.
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 1694.
 
-El horario de atención al público será de lunes a viernes de 9:00 a 16:00 horas y el horario de labores para el personal será de 9:00 a 16:00 y de 18:00 a 21:00 horas de lunes a viernes.
+Como órgano asesor y consultivo del Archivo Histórico fungirá el Consejo de la Crónica, de acuerdo a lo previsto pro el artículo 3 del Reglamento que crea el Consejo de la Crónica de la Ciudad de Puebla.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
+
+###### Artículo 1694 Bis.
+
+El Archivo General del H. Ayuntamiento de Puebla, deberá regirse por la normatividad Estatal y Nacional que sobre el tema exista.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE FEBRERO DE 2006)</small>
+
+DE LA ADMINISTRACIÓN Y ORGANIZACIÓN DEL ARCHIVO GENERAL DEL AYUNTAMIENTO DE PUEBLA
+
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 1695.
 
-Se pondrá a disposición de la autoridad competente, a toda persona que se sorprenda ocasionando algún daño a la documentación o mobiliario existente en el Archivo independientemente de las sanciones contempladas en el presente Capítulo.
+Para su administración y organización interna, el Archivo General Municipal, conforme al artículo 1691 Bis de este Capítulo, tendrá las siguientes atribuciones:
+
+I.- Planear, organizar y controlar la transferencia primaria que hagan las diferentes Dependencias y Organismos Descentralizados del Honorable Ayuntamiento al Archivo de concentración del Archivo General Municipal, en los términos señalados en los “Lineamientos Generales para la Administración Documental y Transferencia de Archivos Administrativos al Archivo General de Puebla”;
+
+II.- Coordinar la capacitación en materia de Administración Documental al personal encargado de los archivos administrativos;
+
+III.- Recibir de los archivos de trámite la documentación semiactiva;
+
+IV.- Conservar precautoriamente la documentación semiactiva hasta cumplir su vigencia documental conforme al Catálogo de Disposición Documental o al concluir su periodo de reserva;
+
+V.- Coadyuvar con las Dependencias y Organismos Descentralizados en la elaboración del Cuadro General de Clasificación y el Catálogo de Disposición Documental;
+
+VI.- Elaborar los inventarios de baja documental y de transferencia secundaria;
+
+VII.- Valorar en coordinación con el archivo histórico, en su caso, los documentos y expedientes de las series resguardadas conforme al Catálogo de Disposición Documental;
+
+VIII.- Realizar, en su caso la transferencia secundaria al archivo histórico del Archivo General Municipal;
+
+IX.- Estará organizado de la siguiente manera:
+
+a) Archivo Administrativo o Activo.- Cuya función es la recepción, clasificación, distribución y control de todos los documentos que entran y salgan de dicha Dependencia Administrativa;
+
+b) Archivo de Concentración.- Lo conforman los documentos cuyo trámite administrativo ya concluyó y fueron transferidos por las unidades administrativas y organismos descentralizados al Archivo General Municipal, la consulta de dichos documentos es esporádica y se concentran para su conservación y mantenimiento en tanto se determine su destino final; y
+
+c) Archivo Histórico.- Lo conforman los documentos que han perdido sus valores primarios (administrativo, contable y fiscal) para la unidad generadora, pero conservan sus valores secundarios (evidencial, testimonial e informativo). Su uso ya no es institucional, sino social, por lo tanto su conservación es permanente para recibir tratamiento especializado;
+
+X.- La función del Archivo Histórico es:
+
+a) Conservar, custodiar, organizar, describir y difundir los documentos que por su antigüedad y valor histórico permiten su conservación permanente;
+
+b) Coadyuvar en el archivo de concentración en la elaboración del Cuadro General de Clasificación, el Catálogo de Disposición Documental y el Inventario General;
+
+c) Validar la documentación que deba conservase permanentemente por tener valor histórico, con el dictamen del Archivo General Municipal;
+
+d) Establecer un programa que permita respaldar los documentos históricos a través de sistemas ópticos y electrónicos; y
+
+e) Estimular el uso y aprovechamiento social de la documentación difundiendo el acervo y sus instrumentos de consulta.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
+
+###### Artículo 1695 Bis.
+
+El cuidado y conservación del acervo documental del Archivo General es una obligación ineludible del Ayuntamiento, por lo tanto se observarán los siguientes criterios:
+
+I.- Los documentos no deberán resguardarse o colocarse par su almacenamiento en el suelo;
+
+II.- Lo documentos deberán estar en estantería en caso de ser madera, se recomienda el cedro u otra que tenga tratamiento contra agentes patógenos (polilla, pez plateado, etc); En caso de estantería metálica, conviene que esté prevista de una cubierta de esmalte horneado que previene la oxidación;
+
+III.- La estantería utilizada deberá estar ventilada por ambos lados y no deberá estar sujeta a la pared;
+
+IV.- Los documentos deberán estar lejos de la luz solar y del calor, procurando que la temperatura y humedad del local sean las adecuadas para la mejor conservación de los documentos existentes, teniendo como parámetros óptimos una temperatura de 18 a 22 grados centígrados y una humedad relativa de 40 a 60%;
+
+V.- La iluminación deberá ser con luz incandescente o fría;
+
+VI.- Deberá utilizarse una adecuada ventilación y circulación del aire;
+
+VII.- Se adoptarán las medidas de protección civil y prevención de incendios que determine el diagnóstico y dictamen técnico correspondiente, entre ellas contar con extintores especiales para el caso;
+
+VIII.- Evitar toda condición que propicie la infestación, o la presencia de roedores y alimañas nocivas al papel, para ello habrá que fumigar y realizar acciones de limpieza;
+
+IX.- El área de consulta deberá estar separada del acervo documental;
+
+X.- Organizar y controlar directamente el área o caja de seguridad para los documentos considerados de alto valor, pro su contenido administrativo, legal, fiscal o histórico; y
+
+XI.- Las demás que determinen las disposiciones aplicables y las autoridades competentes.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 1696.
 
-Para su administración y organización interna, el Archivo Municipal, se divide en:
+El Archivo General Municipal estará bajo la responsabilidad de una persona que se nombrará Director del Archivo General Municipal, mismo que será nombrado y removido libremente por el Secretario del Honorable Ayuntamiento, además tener estudios de Licenciatura en Archivística, Historia o carrera similar, con experiencia en administración documental y archivo, gozar de solvencia moral reconocida, conocer plenamente las norma y objetivos de la documentación que regula y generan las actividades de la dependencias del Municipio.
 
-I. Archivo Administrativo.- Cuya función es la recepción, clasificación, distribución y control de todos los documentos que entren y salgan de dicha dependencia administrativa o de la Secretaría General;
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
 
-II. Archivo de Concentración.- Integrado por los expedientes cuya consulta no es muy frecuente y que se concentran para su conservación y mantenimiento mientras vence su período de vida activa; y
+###### Artículo 1696 Bis.
 
-III. Archivo Histórico.- Integrado por los documentos cuya vida activa ha concluido y que por el valor de la información que contienen son seleccionados para su permanente conservación y consulta.
+El Secretario del Honorable Ayuntamiento es la autoridad superior del Archivo General Municipal, quien delegará atribuciones al Director del Archivo General, las resoluciones de los jefes de departamento y empleados, serán sometidos a su consideración, acuerdo o decisión. Dictará todas las medidas que estime eficaces para la observancia de este Capítulo.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
+
+###### Artículo 1696 Ter.
+
+En el ejercicio de sus atribuciones, el Director del Archivo General tendrá las siguientes funciones:
+
+I.- Conservación y custodia de los documentos, libros y expedientes del acervo, poniendo especial cuidado en los que integran el archivo histórico del Municipio;
+
+II.- Planear, programar, organizar, dirigir, controlar, y evaluar el desempeño de las funciones correspondientes al Archivo General Municipal;
+
+III.- Dictar políticas de funcionamiento del Archivo General;
+
+IV.- Dar cumplimiento a lo establecido en el artículo 1689 Bis de este Capítulo;
+
+V.- Organizar y describir los grupos documentales históricos que integran el acervo del Archivo y establecer las normas para su préstamo y custodia;
+
+VI.- Desarrollar programas y acciones de conservación para el mantenimiento físico del acervo que integra el Archivo General Municipal;
+
+VII.- Diseñar, proponer e implementar la organización y sistemas de registro de los documentos que sean depositados en el Archivo, con el fin de agilizar el manejo y localización de los mismos;
+
+VIII.- Reportar los libros y documentos que requieran de restauración o reproducción y proponer las medidas necesarias para su conservación;
+
+IX.- Recibir un ejemplar del inventario general de los Bienes Municipales que refiere el artículo 144 de la Ley Orgánica Municipal;
+
+X.- Establecer las medidas de higiene y prevención para la protección, integridad y salud de los empleados del Archivo General;
+
+XI.- Establecer los sistemas de protección, prevención y seguridad que se requieran para el acervo documental;
+
+XII.- Presidir el Comité Técnico de Archivos Administrativos y Semiactivos, de acuerdo a lo previsto en los artículos 1703 y 1703 Bis de este Capítulo;
+
+XIII.- Informa oportunamente al Secretario del Honorable Ayuntamiento, sobre las actividades realizadas y proponer la resolución de los asuntos cuya tramitación corresponda a su competencia;
+
+XIV.- Autorizar solicitudes de los usuarios externos e internos para consultar los documentos del Archivo General;
+
+XV.- Mantener actualizado el inventario general del acervo que custodia el Archivo General Municipal, en soporte electrónico y en papel;
+
+XVI.- Poner a disposición del público la Guía General del Archivo General Municipal;
+
+XVII.- Diseñar y llevar a la práctica planes y programas sobre capacitación archivística y/o profesionalización del personal para asegura la calidad de los servicios que ofrece el Archivo General Municipal;
+
+XVIII.- Autorizar previo acuerdo con el Secretario del Honorable Ayuntamiento la salida de documentos originales del acervo histórico cuando se requieran, haciendo que se guarden las medidas de conservación y seguridad para tal efecto;
+
+XIX.- Coordinar con el Jefe de Supervisión y Concentración la transferencia de la documentación de los archivos administrativos de las Dependencias y Organismos Descentralizados al Archivo General Municipal;
+
+XX.- Impulsar la investigación histórica a través del Archivo General, mediante la publicación de folletos, revistas y libros; y
+
+XXI.- Las demás que en el ámbito de su competencia, le atribuyan las disposiciones legales aplicables, y aquéllas que le asigne el Secretario del Honorable Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
+
+###### Artículo 1696 Quáter.
+
+El Jefe de Departamento del Archivo de Supervisión y Concentración tendrá las siguientes funciones:
+
+I.- Coadyuvar con la Dirección del Archivo General Municipal en la elaboración de los “Lineamientos Generales para la Administración Documental y Transferencia de Archivos Administrativos al Archivo General Municipal de Puebla”;
+
+II.- Ser el vínculo en materia archivística entre el Archivo General Municipal, Dependencias y Organismos Descentralizados que conforman la Administración Pública Municipal;
+
+III.- Ser el enlace con las Juntas Auxiliares, en lo referente a la administración de documentos;
+
+IV.- Aplicar los “Lineamientos Generales para la Administración Documental y Transferencia de Archivos Administrativos al Archivo General Municipal de Puebla”;
+
+V.- Formular los programas de capacitación sobre administración documental y gestión de la información;
+
+VI.- Capacitar y asesorar técnicamente a los responsables de archivos administrativos en aspectos de administración de documentos y transferencia primaria a las Dependencias, Organismos descentralizados y Juntas Auxiliares del Honorable Ayuntamiento, cuando éstos lo soliciten;
+
+VII.- Intervenir en la formulación de políticas y criterios que deban seguir los archivos administrativos en la aplicación de normas archivísticas para la selección documental;
+
+VIII.- Vigilar la recepción y orden de la documentación transferida al Archivo de Concentración, como lo refieren los “Lineamientos Generales para la administración Documental y Transferencia de Archivos Administrativos al archivo General Municipal de Puebla”;
+
+IX.- Dar trámite a las solicitudes que hagas las dependencias y organismos descentralizados, de consulta, y préstamo de documentación, conforme lo establecido en el artículo 1701 Ter de este Capítulo;
+
+X.- Implementar medidas preventivas que eviten el deterioro, pérdida o sustracción del acervo documental, así como el mobiliario y equipo técnico del Departamento a su cargo;
+
+XI.- Formar parte del Comité Técnico de Archivos Administrativos y Semiactivos, como lo establecen los artículos 1703 y 1703 Bis del presente Capítulo;
+
+XII.- Entregar informes mensuales de actividades al Director del Archivo General; y
+
+XIII.- Atender las demás funciones que asigne el Director del Archivo General.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
+
+###### Artículo 1696 Quinquies.
+
+El Jefe del Departamento del Archivo Histórico, tendrá las siguientes funciones:
+
+I.- Auspiciar y dirigir las investigaciones históricas que el Archivo General Municipal realice;
+
+II.- Generar programas y mecanismos en materia de conservación y restauración de documentos que aseguren la integridad del acervo histórico;
+
+III.- Implementar medidas preventivas que eviten el deterioro, pérdida o sustracción del acervo documental, así como el mobiliario y equipo técnico del Departamento a su cargo;
+
+IV.- Actualizar y sistematizar el inventario general del Acervo Histórico;
+
+V.- Implementar técnicas archivísticas para el desempeño adecuado de las funciones propias del Archivo Histórico;
+
+VI.- Coordinar los cursos de capacitación que en materia de conservación, restauración, microfilmaciones, vídeo filmación y reproducción de documentos se implanten para el personal del Archivo General Municipal;
+
+VII.- Controlar y supervisar el servicio de consulta del acervo histórico en los términos que establecen los artículos 1700 Bis, 1700 Ter y 1701 Bis de este Capítulo;
+
+VIII.- Otorgar los servicios de reproducción documental, con el fin de satisfacer las demandas de los usuarios internos y externos;
+
+IX.- Gestionar ante las instancias competentes el incremento del material bibliográfico por concepto de compra, donación o canje que lleguen al archivo;
+
+X.- Coordinar la clasificación y catalogación del acervo bibliográfico, fotográfico, cartográfico y hemerográfico del Archivo General Municipal;
+
+XI.- Otorgar las facilidades necesarias a los investigadores para la consulta del archivo sin más limitaciones que las establecidas en el presente Capítulo y las que se refieran a las medidas de conservación de los documentos;
+
+XII.- Coadyuvar con el archivo de concentración en la elaboración del Cuadro General de Clasificación y Catálogo de Disposición Documental;
+
+XIII.- Determinar las modalidades de acceso, consulta y permanencia por parte de los usuarios al acervo del archivo histórico, previo acuerdo con el Director del Archivo General Municipal;
+
+XIV.- Elaborar programas que permitan respaldar los documentos históricos a través de sistemas ópticos y electrónicos;
+
+XV.- Establecer los criterios para la transcripción paleográfica de documentos antiguos;
+
+XVI.- Establecer programas que permitan respaldar el acervo documental, las colecciones bibliohemerográficas, fotográficas y cartográficas a través de sistemas ópticos y electrónicos, que resguarda el Archivo General Municipal;
+
+XVII.- Estimular el uso y aprovechamiento social de la documentación, difundiendo el acervo y sus instrumentos de consulta;
+
+XVIII.- Realizar exposiciones documentales que difundan la historia del Municipio de la Ciudad de Puebla existentes en el acervo histórico, haciendo que se guarden las medidas de conservación y seguridad para tal efecto;
+
+XIX.- Entregar informes mensuales de actividades al Director del Archivo; y
+
+XX.- Atender las demás funciones que asigne el Director del Archivo General Municipal.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE FEBRERO DE 2006)</small>
+
+DE LOS FUNCIONARIOS, EMPLEADOS DEL ARCHIVO GENERAL Y USUARIOS
+
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 1697.
 
-El Jefe del Departamento de Archivo y Correspondencia, será considerado empleado de confianza, nombrado y removido libremente por la Secretaría General del H. Ayuntamiento.
+Los funcionarios del Honorable Ayuntamiento, de conformidad con la fracción I, del artículo 1695 del presente Capítulo deberán transferir al Archivo General Municipal, la documentación que generen, reciban o conserven en el ejercicio de sus funciones, competencia, o en el desarrollo de sus actividades, cuyo trámite Administrativo haya concluido, de acuerdo a los “Lineamientos Generales para la Administración Documental y Transferencia de Archivos Administrativos al Archivo General Municipal de Puebla”.
 
-DE LA ADMINISTRACIÓN Y ORGANIZACIÓN DEL ARCHIVO MUNICIPAL
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 1698.
 
-La Secretaría General ejercerá las siguientes facultades:
+Se consideran usuarios internos a los servidores públicos del Honorable Ayuntamiento, Organismos Descentralizados y Juntas Auxiliares.
 
-I. Recibir las solicitudes de investigación debidamente requisitazas;
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
 
-II. Actualizar y controlar el acervo bibliográfico y documental del Archivo Municipal;
+###### Artículo 1698 Bis.
 
-III. Coordinar programas y actividades que se realicen dentro del Archivo Municipal;
+Se consideran usuarios externos, los que no tengan la categoría de servidores públicos dentro del Honorable Ayuntamiento, así como los Organismos Descentralizados y Juntas Auxiliares.
 
-IV. Recibir los informes mensuales de actividades que rendirá el Jefe del Departamento de Archivo y Correspondencia;
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
 
-V. Mantener actualizado el inventario de todo lo que existe en el Archivo Municipal en cuanto a: documentos, expedientes, libros, mobiliario y equipo; y
+###### Artículo 1698 Ter.
 
-VI. Imponer por sí o a solicitud del Jefe del Departamento de Archivo y Correspondencia las sanciones a los empleados y el retiro de la autorización para investigar a los usuarios del Archivo en los casos que así lo ameriten.
+Se consideran investigadores permanentes, a las personas con capacidad académica para desarrollar dicha labor y que hacen de ella su ocupación ordinaria en los archivos y que obtienen de la Dirección del Archivo General, la autorización de consultar por un tiempo mayor a tres meses.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
+
+###### Artículo 1698 Quáter.
+
+Se consideran investigadores temporales los que obtengan de la Dirección del Archivo General el permiso para desarrollar su investigación por un tiempo menor a tres meses.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
+
+###### Artículo 1698 Quinquies.
+
+Para los escolares de los niveles de educación básica y media superior de instituciones tanto públicas como privadas que soliciten información, tendrán acceso al material Bibliográfico y Hemerográfico del Archivo, los que deberán presentar una identificación o credencial actualizada de su institución educativa o del Instituto Federal Electoral, según sea el caso.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 1699.
 
-En el ejercicio de sus atribuciones, el Jefe del Departamento de Archivo y Correspondencia tendrá las siguientes funciones:
+Los documentos transferidos al Archivo General por las Dependenciasy Entidades del Honorable Ayuntamiento, serán puestos a consulta pública cuando:
 
-I. Conservación y custodia de los documentos, libros y expedientes del acervo, poniendo especial cuidado en los que integran el archivo Histórico del Municipio;
+I.- No hayan sido clasificados, conforme lo establecido en el artículo 11 del Reglamento de Transparencia y Acceso a la Información del Gobierno Municipal de Puebla; y
 
-II. Elaboración de las actas de las sesiones de Cabildo, cuidando de consignar en las mismas en forma exacta los dictámenes, opiniones y resoluciones a que se lleguen en las sesiones de Cabildo, así como informar mensualmente a la Secretaría General del H. Ayuntamiento el estado que guarda el Archivo Municipal;
+II.- Cuando hayan sido transferidos al Archivo Histórico.
 
-III. Reunir, registrar y controlar los documentos que se reciben de la Secretaría General del H. Ayuntamiento;
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
 
-IV. Organizar y describir los grupos documentales históricos que integran el acervo del Archivo y establecer las normas para su préstamo y custodia;
+###### Artículo 1699 Bis.
 
-V. Desarrollar programas y acciones de conservación y restauración para el mantenimiento físico del acervo que integra el Archivo Municipal;
+Cualquier documento puede ser consultado cuando se requiera por mandamiento de autoridad competente.
 
-VI. Diseñar, proponer e implementar la organización y sistemas de registro de los documentos que sean depositados en el Archivo, con el fin de agilizar el manejo y localización de los mismos;
-
-VII. Supervisar que la Oficialía de Partes realice diariamente el acuerdo de la documentación que se recibe así como la notificación de la misma;
-
-VIII. Mantener permanentemente actualizada la sección de leyes, reglamentos, convenios y acuerdos para el uso de las dependencias oficiales y el servicio de consulta al público;
-
-IX. Reportar los libros y documentos que requieran de restauración o reproducción y proponer las medidas necesarias para su conservación; y
-
-X. Mantener actualizado el inventario del acervo y elaborar relaciones de expedientes, minutarios, libros de actas de Cabildo, índices y catálogos.
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 1700.
 
-El Jefe del Departamento de Archivo y Correspondencia deberá vigilar que se respete el horario y lo establecido en el presente Capítulo.
+Los empleados del Archivo General Municipal deberán desempeñar sus funciones,, otorgando las facilidades necesarias a los usuarios internos y/o externos para la consulta del Acervo, por lo tanto será responsabilidad del personal:
 
-DE LOS INVESTIGADORES Y EMPLEADOS DEL ARCHIVO
+I.- Velar por la integridad, autenticidad, veracidad y fidelidad de la información de los documentos del Archivo General Municipal;
+
+II.- Manipular con el debido cuidado los documentos que custodia el Archivo General Municipal;
+
+III.- Reintegrar al lugar asignado los documentos consultados;
+
+IV.- Conservar ordenados y clasificados los grupos documentales;
+
+V.- Asistir a los cursos de capacitación y actualización en la materia archivística y/o Administración Pública;
+
+VI.- Guardar discreción en los asuntos que sean de su conocimiento y estén contendidos en los documentos, sobre todo aquéllos que estén clasificados en reserva o confidencial;
+
+VII.- Revisar que la documentación que se devuelva al Archivo General Municipal, mantenga las condiciones en que se entrego al usuario;
+
+VIII.- Mantener ordenada y limpia el área de trabajo;
+
+IX.- Encontrarse siempre dentro del área de trabajo en el horario establecido de acuerdo a lo previsto por el artículo 1706 Ter de este Capítulo;
+
+X.- Acatar las órdenes de su jefe inmediato superior; y
+
+XI.- Cumplir con las tareas que por necesidades del servicio le sean encomendadas.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
+
+###### Artículo 1700 Bis.
+
+Son obligaciones de los usuarios externos:
+
+I.- Obtener la autorización del Secretario del Honorable Ayuntamiento y/o Director del Archivo General Municipal, para llevar a cabo su investigación, cumpliendo con la entrega de solicitud por escrito que deberá cubrir los siguientes requisitos:
+
+a) Papel membretado y sello en caso que alguna Institución legalmente constituida de Educación Superior Pública o Privada, avale la investigación;
+
+b) Tema y periodo que abarca la investigación;
+
+c) Documentos a consultar;
+
+d) Manifestar las razones que motivan la consulta del Archivo Histórico, responsabilizándose, bajo protesta de decir verdad, de dar un buen uso a los documentos consultados; y
+
+e) Duración de consulta en el Archivo General Municipal;
+
+II.- Comprometerse a otorgar los créditos correspondientes por la utilización de documentos textuales y gráficos del Archivo General Municipal, disponiendo que se donen dos ejemplares al Archivo General Municipal, y de esta manera contribuir a incrementar el acervo bibliográfico.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
+
+###### Artículo 1700 Ter.
+
+Los usuarios externos del Archivo General Municipal, se sujetarán conforme a las siguientes reglas en la sala de consulta:
+
+I.- Depositarán en la recepción: portafolios, mochilas o bolsas;
+
+II.- Únicamente podrán ingresar los siguientes objetos: lápiz y hojas blancas. En caso de utilizar computadora portátil, deberá avisar al personal de servicios;
+
+III.- Deberán anotar su nombre en el libre de registro, al entrar y salir de la sala de consulta;
+
+IV.- Solicitarán a los encargados del servicio los materiales que desee consultar;
+
+V.- Deberán portar guantes de algodón y cubre boca en los casos que por su naturaleza del documento así lo requiera;
+
+VI.- Llenar el formato correspondiente al recibir los documentos solicitados e informar inmediatamente al responsable de servicios, cualquier irregularidad que presenten los documentos;
+
+VII.- La consulta de los documentos, será dentro del horario establecido conforme al artículo 1706 Ter del presente Capítulo, en los espacios que se tengan establecidos para tal fin y a la vista del personal encargado del servicio;
+
+VIII.- Los daños que sufra un documento o el desorden en un expediente será responsabilidad del último usuario que lo haya consultado;
+
+IX.- El material de consulta deberá solicitarse con veinticuatro horas de anticipación, mismo que de no ser consultado en un término de doce horas, será incorporado a su serie correspondiente. Así mismo el usuario no podrá solicitar nuevo material en tanto no concluya la documentación en consulta;
+
+X.- Hacer buen uso del equipo de cómputo que forma parte del mobiliario del Archivo General Municipal; y
+
+XI.- Durante el tiempo de consulta evitarán hacer ruido o platicar en voz alta en forma prolongada, a fin de no distraer de sus actividades a los demás usuarios;
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 1701.
 
-Para los efectos del presente Capítulo, se considerarán como investigadores permanentes, a las personas con capacidad académica para desarrollar dicha labor y que hacen de ella su ocupación ordinaria en los archivos y Biblioteca, y que obtienen de la Secretaría General del H. Ayuntamiento, la autorización de laborar por un tiempo mayor a tres meses.
+El Archivo General Municipal se reserva el derecho de consulta de aquellos documentos que por su naturaleza y manipuleo presenten daños físicos.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
+
+###### Artículo 1701 Bis.
+
+Se pude fotocopiar o reproducir documentos que hayan sido autorizados, en cualquier medio idóneo que no signifique daño alguno, siempre y cuando su manejo esté supervisado por el personal del Archivo General Municipal.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
+
+###### Artículo 1701 Ter.
+
+Los usuarios internos que soliciten información o documentos del archivo de concentración se sujetarán a las reglas siguientes:
+
+I.- Solicitud por escrito dirigido al Director del Archivo General Municipal:
+
+a) Papel membretado, sello de la dependencia solicitante y firma del titular de la misma;
+
+b) Nombre de la Secretaría, Dirección y/o jefatura que generó y transfirió la documentación solicitada al Archivo General Municipal;
+
+c) Número y fecha de acta de transferencia;
+
+d) Descripción sucinta del documento solicitado; y
+
+e) Número de unidad de instalación (caja) y número de expediente que se asignó en la transferencia;
+
+II.- La consulta deberá realizarse en el área designada para tal fin, o en su caso en la dependencia solicitante;
+
+III.- El plazo de préstamo de los documentos será de 15 días a partir del día siguiente hábil que el solicitante reciba la documentación y en caso de requerir prórroga deberá solicitarlo por escrito al Director del Archivo refiriendo el motivo; y
+
+IV.- Las demás que establezca este Capítulo y la ley vigente.
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 1702.
 
-Se consideran investigadores temporales los que obtengan de la Secretaría General del H. Ayuntamiento el permiso para desarrollar su investigación por un tiempo menor a tres meses.
+Los documentos históricos que sean motivo de consulta por parte de usuarios externos, sólo se facilitarán en el área designada para tal fin y por ningún motivo saldrán al exterior.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
+
+DEL COMITÉ TÉCNICO DE ARCHIVOS ADMINISTRATIVOS Y SEMIACTIVOS
+
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 1703.
 
-Son obligaciones de los investigadores:
+Se conformará un Comité Técnico de Archivos Administrativos y Semiactivos para regular la administración de documentos y transferencia de archivos Administrativos de conformidad con lo que establece el artículo 1689 Bis de este Capítulo.
 
-I. Obtener la autorización de investigación de la Secretaría General cumpliendo con la entrega de una solicitud que deberá cubrir los siguientes requisitos:
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
 
-a) Materia objeto de investigación.
+###### Artículo 1703 Bis.
 
-b) Libros a consultar.
+Serán miembros del Comité Técnico de Archivos Administrativos y Semiactivos los siguientes funcionarios:
 
-c) Horario de investigación.
+I.- Un Presidente, que será el Director del Archivo General Municipal;
 
-d) Duración de investigación.
+II.- Un Secretario Técnico, que será el Jefe del Departamento de Supervisión y Concentración;
 
-e) Identificación personal
+III.- Un Coordinador Administrativo de cada dependencia y Organismo Descentralizado del Honorable Ayuntamiento; y
 
-f) Designar un responsable de parte de la institución o escuela a la que pertenece.
+IV.- Un Coordinador par las Juntas Auxiliares, que será nombrado por el Director del Archivo General Municipal.
 
-II. Realizar la investigación en forma personal o de grupo, trabajando en el Archivo con el material solicitado; si el investigador se ausentara por un tiempo indeterminado deberá comunicarlo al Jefe del Departamento de Archivo y Correspondencia;
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
 
-III. Registrarse en un libro de control de asistencia el cual estará bajo custodia del personal del Archivo;
+###### Artículo 1703 Ter.
 
-IV. Registrar el estado físico de la documentación que recibe, la cual estará bajo su responsabilidad durante el tiempo que esté en su poder;
+Los coordinadores administrativos que refiere la fracción III, del artículo anterior, nombrarán un suplente, el cual tendrá como responsabilidad cumplir con lo establecido por el artículo 1689 Bis de este Capítulo, así como coordinar su ejecución en cada una de la (sic) Direcciones y Jefaturas que conforman las Dependencias y Organismos Descentralizados. Las funciones que se refieran a la toma de decisiones quedan reservadas exclusivamente al Coordinador Administrativo.
 
-V. Solicitar con 24 horas de anticipación la documentación que desee consultar;
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
 
-VI. Renovar la autorización de investigación, siempre y cuando no haya terminado su trabajo y se cumpla el tiempo que le fue otorgado;
+###### Artículo 1703 Quáter.
 
-VII. Mantener limpia su área de trabajo y respetar el horario de consulta que es de lunes a viernes de 9:00 a 16:00 horas;
+Las funciones del Comité Técnico de los Archivos Administrativos y Semiactivos son:
 
-VIII. Devolver diariamente, independientemente del tiempo autorizado, la documentación que sea consultada; y
+I.- Vigilar que se cumplan los “Lineamientos Generales para la Administración Documental y Transferencia de Archivos Administrativos al Archivo General Municipal de Puebla”;
 
-IX. Hacer uso debido del sistema de cómputo, de acuerdo al manual que se le proporcione.
+II.- Acordar y orientar el personal administrativo del Honorable Ayuntamiento sobre el manejo que debe darse a los documentos, de acuerdo como lo establece el Archivo General Municipal, a través de los “Lineamientos Generales para la Administración Documental y Transferencia de Archivos Administrativos al Archivo General Municipal de Puebla”;
+
+III.- Promover y procurar en las unidades administrativas que conforman cada Dependencia y Organismo Descentralizado del Honorable Ayuntamiento, que los documentos se organicen por asunto, con la finalidad de integrar expedientes concluidos, para garantizar su fácil localización y consulta;
+
+IV.- Verificar que se cumpla el seguimiento y control de los documentos sujetos a trámite hasta su integración final al Archivo General garantizando que todas las piezas gestionadas sean conservadas de manera institucional;
+
+V.- Asesorar en la integración y transferencia de la documentación cuyo trámite haya concluido en las Dependencias y Organismos Descentralizados que conforman el Honorable Ayuntamiento;
+
+VI.- Apoyar en la capacitación y actualización de las Secretarias y/o responsables de archivos que asigne cada una de las dependencias del Honorable Ayuntamiento para la correcta administración documental;
+
+VII.- Las aclaraciones, recomendaciones y demás que en materia de administración de documentos o transferencia se dirigirán con el Jefe del Departamento de Archivo de Supervisión y Concentración y/o el Director del Archivo General;
+
+VIII.- Asistir a los cursos de capacitación, los miembros y/o suplentes que el Archivo General Municipal imparta sobre administración de documentos;
+
+IX.- Informar de manera oportuna al personal de todas las áreas que conforman las Dependencias y Organismos Descentralizados del Honorable Ayuntamiento, las decisiones en materia de administración documental que establezca el Archivo General Municipal;
+
+X.- Dar a conocer a las Dependencias y Organismos Descentralizados el calendario que establezca el Archivo General Municipal para la transferencia de Archivos Administrativos; y
+
+XI.- Coordinar conjuntamente con la Dirección del Archivo General Municipal el proceso de transferencia de Archivos Administrativos, en los términos que establecen los “Lineamientos Generales para la administración Documental y Transferencia de Archivos Administrativos al Archivo General Municipal de Puebla”.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
+
+###### Artículo 1703 Quinquies.
+
+Los Secretarios, Directores y Jefes de Departamento de conformidad con este Capítulo deberán apoyar a su personal perteneciente al Comité Técnico de Archivos Administrativos y Semiactivos, en difundir y acatar las disposiciones de los “Lineamientos Generales para la Administración Documental y Transferencia de Archivos Administrativos al Archivo General Municipal de Puebla”.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
+
+###### Artículo 1703 Sexies.
+
+Para una correcta organización y coordinación de las actividades de dicho Comité la Jefatura de Archivo de Supervisión y Concentración deberá:
+
+a) Mantener actualizado el padrón de sus miembros; y
+
+b) Programar curso de capacitación de sus miembros y personal encargado de archivos administrativos y/o Secretarias de las Dependencias del Honorable Ayuntamiento y Organismos Descentralizados.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
+
+DE LOS SERVICIOS
+
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 1704.
 
-Son empleados del Archivo, toda persona que se acredite como tal con la portación de su gafete mismos que deberán proporcionar los servicios y apoyos que le soliciten los investigadores.
+Toda persona que solicite consultar el Archivo General Municipal, deberá sujetarse a lo previsto en el presente Capítulo.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 1705.
 
-Son obligaciones de los empleados del Archivo:
+Todo documento original o copia auténtica únicamente podrá ser consultado en calidad de préstamo.
 
-I. Portar su gafete de identificación;
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
 
-II. Tener listo el material solicitado a tiempo;
+###### Artículo 1705 Bis.
 
-III. Mantener limpia el área de trabajo y en buen estado el material que se preste en el servicio;
+Los documentos que resguarda el archivo de concentración podrán ser consultados por usuarios externos, únicamente cuando sea autorizado por la unidad orgánica generadora.
 
-IV. Encontrarse siempre dentro del área de trabajo en el horario establecido en el presente Capítulo;
-
-V. Acatar las órdenes de su jefe inmediato superior; y
-
-VI. Brindar toda la información y apoyo que le sean solicitados por los usuarios del Archivo Municipal.
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 1706.
 
-Se prohíbe a los investigadores y empleados del Archivo:
+Los servicios que presta el Archivo General Municipal serán los siguientes:
 
-I. Introducir al Archivo Municipal alimentos, bolsas y objetos que no se relacionen con la actividad a desarrollar;
+I.- Asistencia referencial a los investigadores y público en general;
 
-II. Fumar en el Archivo Municipal o en cualquiera de sus áreas;
+II.- Consulta a las distintas series documentales del Acervo Municipal;
 
-III. Hacer un uso inadecuado del material y mobiliario del Archivo Municipal;
+III.- Repografía de documentos;
 
-IV. Platicar o hacer comentarios en voz alta o con palabras inadecuadas, que puedan afectar a los usuarios del Archivo Municipal; y
+IV.- Biblioteca especialidad en temas de Puebla;
 
-V. Permanecer más del tiempo establecido o de servicio en el Archivo Municipal, salvo autorización de la Secretaría General del H. Ayuntamiento o del Jefe del Departamento de Archivo y Correspondencia.
+V.- Hemeroteca;
+
+VI.- Material cartográfico;
+
+VII.- Material fotográfico;
+
+VIII.- Instrumentos de consulta;
+
+IX.- Comprobación de años de servicio a empleados municipales, conforme a lo establecido en el artículo 1991 del Código Reglamentario para el Municipio de Puebla; y
+
+X.- Visitas guiadas.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
+
+###### Artículo 1706 Bis.
+
+El servicio de consulta, será completamente gratuito y en las instalaciones del Archivo General Municipal.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
+
+###### Artículo 1706 Ter.
+
+El horario de servicio de consulta, será de 8:00 a 17:99 pm. de lunes a viernes.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
+
+###### Artículo 1706 Quáter.
+
+El uso del equipo de cómputo que forma parte del mobiliario del Archivo General Municipal será únicamente par consulta del acervo. Los usuarios no podrán hacer transferencia y procesamiento del acervo mediante el uso de medios electrónicos, esta función se reserva al Archivo General Municipal.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
+
+###### Artículo 1706 Quinquies.
+
+El Director del Archivo General Municipal podrá cerrar temporalmente el Archivo por razones de aseo y fumigación, inventario y acondicionamiento.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 1707.
 
-Los investigadores que deseen consultar la información que se encuentre almacenada en los discos ópticos, deberán solicitar autorización, en las formas y términos a que se refiere la fracción I del artículo 1703.
+El Archivo General Municipal, de conformidad con la Ley de Ingresos del Municipio de Puebla para el ejercicio fiscal correspondiente, podrá cobrar por los siguientes servicios:
+
+a) Reproducción de fichas descriptivas de cualquier documento del Archivo General Municipal, contenido en los discos compactos editados por el Honorable Ayuntamiento en disco compacto o en papel;
+
+b) Por impresión de imágenes de documentos en disquete del solicitante o impresión en papel;
+
+c) Venta de publicaciones y de discos compactos, editados por el Honorable Ayuntamiento;
+
+d) Reproducción fotográfica digital de documentos del archivo;
+
+e) Fotocopiado de documentos y libros;
+
+f) Por grabaciones en video cámara del espacio físico del archivo; y
+
+g) Las demás que establezca la Ley de Ingresos aplicable.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
+
+DE LA SEGURIDAD Y EMERGENCIA
+
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 1708.
 
-El equipo de cómputo estará bajo la supervisión, mantenimiento y vigilancia del personal que designe la Secretaría General en coordinación con la Dirección de Informática de este H. Ayuntamiento, quienes deberán informar periódicamente el uso y fallas que presente dicho sistema.
+La Secretaría de Seguridad Pública y Vialidad Municipal, será la responsable de la seguridad en el interior y exterior del edificio del Archivo General Municipal. Para ello designará el personal necesario que tendrá las siguientes obligaciones:
+
+I.- Asistir con puntualidad al cumplimiento de sus labores, portar el uniforme completo y sujetarse a los procedimientos de registro y control de usuarios;
+
+II.- Entregar la guardia al siguiente turno, dejando nota en la bitácora que al efecto se lleve, de los acontecimientos que se suscitaron durante su jornada de trabajo;
+
+III.- Notificar a la Dirección del Archivo General Municipal y a sus superiores las incapacidades médicas o inasistencias;
+
+IV.- Cumplir con las normas que señala para la protección de los acervos del Archivo General Municipal de este Capítulo;
+
+V.- Conocer y cumplir el Plan de Contingencia del Archivo General Municipal y las normas de protección civil;
+
+VI.- Informar al Director del Archivo General Municipal y a su superior de los acontecimientos que signifiquen peligro para la seguridad del personal, de los usuarios y del patrimonio del Archivo;
+
+VII.- Conocer y cumplir el Plan de Seguridad y Prevención de Delitos en el Archivo General Municipal;
+
+VIII.- Las demás que señalen el titular del Archivo General Municipal y el Secretario de Seguridad Pública y Vialidad Municipal.
+
+La Dirección de Protección Civil Municipal mantendrá actualizado un plan para atender las contingencias que se presenten, además conjuntamente con la Dirección del Archivo General Municipal integrará un Comité de Protección Civil.
+
+La Secretaría de Seguridad Pública y Vialidad Municipal pondrá a consideración del Director del Archivo General un programa de seguridad y prevención del delito para el acervo documental que resguarda el Archivo General Municipal. Una vez aprobada, su aplicación será responsabilidad de los elementos que sean asignados a las instalaciones.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
+
+DE LA PROPIEDAD INTELECTUAL
+
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 1709.
 
-Los investigadores harán uso del sistema de cómputo bajo la supervisión e instrucciones, que sobre él, efectúe el personal autorizado del Archivo Municipal.
+Los inventarios, catálogos, índices y otras guías similares, así como la información contenida en sistemas digitales y otros soportes quedarán protegidos por las Leyes de Derecho de Autor y estará prohibida la reproducción de los archivos que se contravenga a las disposiciones de la Ley o este Capítulo.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
+
+###### Artículo 1709 Bis.
+
+La publicación de documentos resguardados en el archivo se realizará con la necesaria autorización del titular del Archivo General Municipal. Quien reproduce deberá citar la procedencia del documento y dar los créditos al Archivo General Municipal.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
+
+###### Artículo 1709 Ter.
+
+El Archivo General Municipal contará con una publicación periódica denominada “Identidad Poblana”, órgano de difusión del Archivo General Municipal. Por este medio la institución promoverá el conocimiento de la historia de Puebla y las actividades propias del Archivo.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
+
+###### Artículo 1709 Quáter.
+
+El Archivo General Municipal contará con una publicación periódica denominada “Identidad Poblana”, órgano de difusión del Archivo General Municipal. Por este medio la institución promoverá el conocimiento de la historia de Puebla y las actividades propias del Archivo.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
+
+DE LAS PROHIBICIONES
+
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 1710.
 
-El H. Ayuntamiento podrá celebrar convenios, programas o proyectos en términos de las facultades establecidas en la Ley Orgánica Municipal, con escuelas e instituciones públicas o privadas para la preservación o proyección de las actividades del Archivo Municipal.
+Queda fuera del comercio y por ende prohibido la enajenación a cualquier título de los documentos que obren en el Archivo General Municipal.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
+
+###### Artículo 1710 Bis.
+
+Queda estrictamente prohibido atentar contra el patrimonio documental del acervo que resguarda el Archivo General Municipal en cualquiera de las siguientes formas:
+
+I.- Escribir, hacer ilegible, destruir, ocultar, inutilizar, alterar, manchar, raspar, mutilar total o parcialmente los documentos del Archivo General Municipal;
+
+II.- Extraer sin autorización documentos o información del Archivo General Municipal;
+
+III.- Trasladar fuera del inmueble del Archivo General Municipal documentos históricos, sin la anuencia del Director del Archivo General Municipal, Secretario del Honorable Ayuntamiento y/o Presidente Municipal Constitucional;
+
+IV.- Transferir a título oneroso o gratuito, la propiedad o posesión de los documentos o información de interés público, sin previa autorización del Director del Archivo General Municipal, Secretario del Honorable Ayuntamiento y/o Presidente Municipal Constitucional;
+
+V.- Transportar, exhibir o reproducir, sin autorización correspondiente documentos semiactivos e históricos;
+
+VI.- La sustracción temporal o permanente de cualquier documento o información del Archivo General Municipal sin la autorización correspondiente;
+
+VII.- El acceso a toda persona ajena a las áreas restringidas del Archivo General Municipal; y
+
+VIII.- Fumar, sin excepción de persona alguna en el interior del Archivo General Municipal.
 
 DE LAS SANCIONES
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2006)</small>
+
 ###### Artículo 1711.
 
-Se sancionará a quien contravenga lo estipulado por el presente Capítulo:
+Se sancionará a los Servidores Públicos que contravengan lo dispuesto en los artículos 1710 y 1710 Bis de este Capítulo, de acuerdo con lo previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla, independientemente de la aplicación de los ordenamientos legales a que haya lugar.
 
-I. A los investigadores.- Con la suspensión y retiro de la autorización de investigación que les fue otorgada.
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
 
-II. A los empleados del Archivo.- Con las medidas disciplinarias a que haya lugar, conforme a lo establecido por las disposiciones jurídicas aplicables.
+###### Artículo 1711 Bis.
+
+Los usuarios que contravengan lo dispuesto en los artículos 1710 y 1710 Bis, se harán acreedores a las sanciones que establece el Código de Defensa Social para el Estado Libre y Soberano de Puebla y serán denunciados ante la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
+
+###### Artículo 1711 Ter.
+
+Los usuarios internos y externos, así como los investigadores que no observen las disposiciones del presente Capítulo se le suspenderá el derecho de consultar en el Archivo General Municipal, boletinándolos al resto de los Archivos Municipales, Estatales y de la Nación.
 
 # LIBRO QUINTO. ECOLOGÍA
 
@@ -21599,8 +22145,6 @@ TERCERO.- Se incluye al Presidente y al Secretario General del Honorable Ayuntam
 
 P.O. 7 DE DICIEMBRE DE 2005.
 
-...
-
 SEGUNDO.- Se instruye al Secretario del Honorable Ayuntamiento del Puebla, para que realice todos los trámites necesarios y sea publicado por una sola vez la presente reforma en el Periódico Oficial del Estado.
 
 TERCERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -21612,3 +22156,17 @@ PRIMERO.- Las presentes modificaciones entrarán en vigor a partir del día sigu
 SEGUNDO.- Se derogan las demás disposiciones que sean incompatibles con el presente Acuerdo.
 
 TERCERO.- Los registros o refrendos pendientes de resolución, se tramitarán y resolverán de conformidad con las disposiciones jurídicas vigentes al momento de su solicitud.
+
+P.O. 15 DE FEBRERO DE 2006.
+
+PRIMERO.- La presente actualización del Capítulo 25 del Código Reglamentario para el Municipio de Puebla, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO.- Se abrogan todas las disposiciones que se opongan al presente Capítulo.
+
+TERCERO.- Se deberán elaborar los "Lineamientos Generales para la Administración Documental y Transferencia de Archivos Administrativos al Archivo General Municipal de Puebla".
+
+CUARTO.- Deberá integrarse el Comité de Protección Civil para el Archivo General Municipal, que hace referencia el párrafo segundo del artículo 1708 del Presente Capítulo.
+
+QUINTO.- Deberá conformarse el Comité Técnico de Archivos Administrativos y Semiactivos, referido en el artículo 1703 del presente Capítulo.
+
+SEXTO.- En caso de muda del acervo que resguarda el Archivo General Municipal, deberá trasladarse con la debida diligencia y medidas de seguridad y técnicas que para el caso se requiera, a fin de no poner en riesgo la integridad de los documentos, bajo la supervisión de la Secretaría General y con el visto bueno del Archivo de la Nación y del Estado.
