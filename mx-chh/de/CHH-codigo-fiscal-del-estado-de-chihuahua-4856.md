@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "2005-02-26"
+last_updated: "2006-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE FEBRERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2006.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -1921,7 +1921,7 @@ Para que los conceptos anteriores se excluyan como integrantes de la base del im
 
 173.- (DEROGADO, P.O. 29 DE SEPTIEMBRE DE 1979)
 
-174.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)(REPUBLICADO, P.O. 29 DE SEPTIEMBRE DE 1979)
+174.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972) (REPUBLICADO, P.O. 29 DE SEPTIEMBRE DE 1979)
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 9 DE FEBRERO DE 1994)</small>
 
@@ -3881,13 +3881,13 @@ B).- El 50% (cincuenta por ciento) restante, de acuerdo a los factores de increm
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-318.- La representación de las personas físicas o morales ante las autoridades fiscales, se acreditará en los términos de la legislación común.
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2006)</small>
 
-En ningún procedimiento fiscal se admitirá la gestión de negocios. Los interesados podrán autorizar por escrito, en cada caso, a persona que en su nombre reciba notificaciones, ofrezca y rinda pruebas e interponga recursos dentro del procedimiento administrativo.
+318.- La representación de las personas físicas o morales ante las autoridades fiscales, se acreditará en los términos que establezcan el Código Civil o el Código de Procedimientos Civiles del Estado, con las facultades que este último confiere en materia de personalidad y representación.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1973)</small>
+En ningún procedimiento fiscal se admitirá la gestión de negocios.
 
-319.- Los apoderados y representantes legítimos, deberán acreditar debidamente su personalidad al comparecer ante las autoridades fiscales del Estado. Su omisión faculta a éstas para desechar de plano su instancia.
+319.- (DEROGADO, P.O. 15 DE FEBRERO DE 2006)
 
 320.- Las notificaciones de los citatorios, emplazamientos, solicitudes de informes o documentos y las de acuerdos administrativos, destinados a los particulares, se harán:
 
@@ -4960,3 +4960,7 @@ Tratándose del Impuesto Adicional del 4% a que se refiere el segundo párrafo d
 ###### ARTÍCULO CUARTO.
 
 Los contribuyentes que antes de la entrada en vigor del presente Decreto hayan efectuado pagos por concepto del Impuesto a los Ingresos Derivados de la Enajenación de Inmuebles, tendrán derecho al estímulo fiscal a que se refiere el artículo tercero transitorio que antecede, para lo cual deberán solicitar la devolución o compensación, a través de los procedimientos que para tal efecto establece el Código Fiscal del Estado.
+
+P.O. 15 DE FEBRERO DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
