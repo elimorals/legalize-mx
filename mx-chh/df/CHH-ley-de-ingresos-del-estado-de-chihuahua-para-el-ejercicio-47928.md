@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ingresos-del-estado-de-chihuahua-para-el-ejercicio-47928
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2005-12-28"
-last_updated: "2005-12-28"
+last_updated: "2006-02-15"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE INGRESOS PARA EL EJERCICIO FISCAL DEL AÑO 2006
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2006.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 28 de diciembre de 2005.
 
@@ -847,17 +847,31 @@ solicitado en oficina distinta de aquella donde
 
 esté o deba estar inscrito el inmueble. 178.87
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2006)</small>
+
 32.1 Por cada certificado de existencia de
 
-inscripción, existencia o inexistencia de gravamen,
+bienes, existencia o inexistencia de gravamen,
 
-de sección séptima o cláusula agraria
+#### sección séptima o cláusula agraria, solicitado
 
-o de inexistencia de bienes solicitado a través
+a través de la red electrónica mundial,
 
-de Internet, independientemente de la oficina
+independientemente de la oficina
 
 donde se encuentre inscrito el inmueble. 145.00
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
+
+32.2 Por cada certificado de inexistencia de bienes,
+
+solicitado a través de la red electrónica mundial o en
+
+centros digitales de trámites y servicios,
+
+independientemente de la oficina donde se
+
+encuentre inscrito el inmueble. 55.00
 
 33 Por cada certificado de identificación de fincas, sólo en las oficinas en que el inmueble esté inscrito:
 
@@ -968,6 +982,10 @@ anterior, o bien por cada hoja respecto de
 los servicios a que se refiere el numeral 9,
 
 del Apartado II, de esta Tarifa. 9.06
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
+
+48 Por el depósito de testamento ológrafo 384.50
 
 III POR LOS SERVICIOS PRESTADOS POR LA DIRECCIÓN DEL REGISTRO CIVIL, SE COBRARÁN LAS SIGUIENTES CUOTAS:
 
@@ -2388,3 +2406,9 @@ XV POR LOS SERVICIOS PRESTADOS POR EL SUPREMO TRIBUNAL DE JUSTICIA, SE COBRARÁN
 en Juzgados y Salas, vía internet 312.00
 
 2 Ejemplar mensual del Boletín Judicial. 125.00
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE FEBRERO DE 2006
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
