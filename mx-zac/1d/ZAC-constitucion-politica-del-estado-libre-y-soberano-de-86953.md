@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2005-10-26"
+last_updated: "2006-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2006.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -873,7 +873,9 @@ X. Aprobar en forma definitiva, a más tardar el día quince de septiembre del a
 
 XI. Facultar al Ejecutivo del Estado para que realice transferencias presupuestales cuando exista causa grave a criterio de la Legislatura, y en los términos que disponga la ley reglamentaria;
 
-XII. Aprobar la Ley de Ingresos y el Presupuesto de Egresos del Estado que el Ejecutivo presentará a la Legislatura a más tardar el día quince de diciembre de cada año, requiriéndose previamente la comparecencia del Secretario del ramo.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE FEBRERO DE 2006)</small>
+
+XII. Aprobar, antes de que concluya el primer periodo ordinario de sesiones del año correspondiente, la Ley de Ingresos y el Presupuesto de Egresos del Estado que el Ejecutivo presentará a la Legislatura a más tardar el día treinta de noviembre de cada año, requiriéndose previamente la comparecencia del Secretario del ramo.
 
 Cuando por cualquier circunstancia no llegaren a aprobarse tales ordenamientos, se aplicarán la Ley de Ingresos o el Presupuesto de Egresos que rigieron en el año fiscal anterior;
 
@@ -1177,7 +1179,9 @@ II. Promulgar, publicar, cumplir y hacer cumplir las leyes y demás resoluciones
 
 III. Publicar, difundir y hacer cumplir las leyes federales;
 
-IV. Proponer a la Legislatura, a más tardar el quince de diciembre de cada año, las iniciativas de la Ley de Ingresos y el Presupuesto de Egresos e incluir en ellas la provisión de los recursos correspondientes al propio Legislativo y al Poder Judicial, de conformidad con los principios de equilibrio y separación de Poderes y mediante mecanismos que garanticen que, una vez aprobados, sean ejercidos con plena autonomía;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2006)</small>
+
+IV. Proponer a la Legislatura, a más tardar el treinta de noviembre de cada año, las iniciativas de la Ley de Ingresos y el Presupuesto de Egresos e incluir en ellas la provisión de los recursos correspondientes al propio Legislativo y al Poder Judicial, de conformidad con los principios de equilibrio y separación de Poderes y mediante mecanismos que garanticen que, una vez aprobados, sean ejercidos con plena autonomía;
 
 V. Conceder dispensa de leyes relativas al estado civil de las personas, facultad que puede delegar en los Presidentes Municipales;
 
@@ -2640,3 +2644,7 @@ DÉCIMO PRIMERO.- En el mismo plazo que no excederá de 180 días contados a par
 P.O. 26 DE OCTUBRE DE 2005.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 15 DE FEBRERO DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
