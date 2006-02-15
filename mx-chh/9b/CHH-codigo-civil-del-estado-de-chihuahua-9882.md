@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2005-01-01"
+last_updated: "2006-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ENERO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2006.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -5745,13 +5745,13 @@ La disposición testamentaria que esté sujeta a la condición de un suceso pasa
 
 1404.- El testamento, en cuanto a su forma, es público o privado.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2006)</small>
 
-1405.- El testamento público se otorga ante Notario y testigos, o únicamente ante Notario en los casos previstos legalmente.
+1405.- El testamento público se otorga ante Notario y testigos o únicamente ante Notario en los casos previstos legalmente o ante el Director del Registro Público de la Propiedad y del Notariado, por conducto de los Jefes de Departamento de los Registros Públicos en el Estado, tratándose del testamento ológrafo.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2006)</small>
 
-1406.- El testamento público puede ser abierto, cerrado o simplificado.
+1406.- El testamento público puede ser abierto, cerrado, simplificado u ológrafo.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
@@ -5760,6 +5760,10 @@ La disposición testamentaria que esté sujeta a la condición de un suceso pasa
 En el testamento público cerrado, el testador declara que su última voluntad se encuentra contenida en el pliego que presenta ante los testigos y el Notario que autoriza el acto.
 
 En el testamento público simplificado el testador declara su última voluntad en la forma establecida en los artículos 1468 y 1469 de este Código.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
+
+En el testamento público ológrafo, el testador declara que su última voluntad se encuentra contenida en el pliego que presenta en sobre cerrado ante el Director del Registro Público de la Propiedad y del Notariado, por conducto de los Jefes de Departamento de los Registros Públicos en el Estado.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
@@ -6063,11 +6067,67 @@ VIII.- Para el caso de que, al llevarse a cabo la protocolización notarial de l
 
 1468 (SIC).- En el instrumento en el que se haga constar el testamento público simplificado se observarán las formalidades que corresponden a una escritura pública.
 
-### CAPITULO V. DEL TESTAMENTO PRIVADO
+> <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], P.O. 15 DE FEBRERO DE 2006)</small>
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+### CAPITULO V. DEL TESTAMENTO OLOGRAFO
 
-1470.- El testamento podrá ser privado cuando no sea posible otorgarlo ante Notario, si además concurre cualquiera de las circunstancias siguientes:
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE FEBRERO DE 2006)</small>
+
+1470.- Se llama testamento ológrafo al escrito de puño y letra del testador. Este testamento sólo podrá ser otorgado por personas mayores de edad.
+
+Para que sea válido, deberá estar totalmente escrito y firmado por el testador, con expresión del día, mes y año en que se otorgue.
+
+Los extranjeros podrán otorgar este testamento en su propio idioma.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE FEBRERO DE 2006)</small>
+
+1471.- Si contuviere palabras tachadas, enmendadas o entre renglones, las salvará el testador bajo su firma.
+
+La omisión de esta formalidad por el testador sólo afecta la validez de las palabras tachadas, enmendadas o entre renglones, pero no al testamento íntegro.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE FEBRERO DE 2006)</small>
+
+1472.- El Testador hará por duplicado su testamento ológrafo e imprimirá en cada ejemplar su firma y su huella digital. Cada ejemplar se colocará dentro de un sobre cerrado y lacrado; el original será depositado en el Departamento del Registro Público de la Propiedad, llevándose a cabo la inscripción en la sección correspondiente; el duplicado se devolverá al interesado con la anotación a que hacen referencia los artículos 1473 y 1474 del presente Código.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE FEBRERO DE 2006)</small>
+
+1473.- El depósito en los Departamentos del Registro Público de la Propiedad se hará personalmente por el testador, identificándose indubitablemente a satisfacción del Registrador, en concordancia con lo dispuesto por el artículo 1411 del Código Civil del Estado. En el sobre que contenga el testamento original, el testador de su puño y letra, pondrá la siguiente constancia: “Dentro de este sobre se contiene mi testamento”. A continuación se expresará el lugar y la fecha en que se hace el depósito. La constancia será firmada por el testador y el Registrador.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE FEBRERO DE 2006)</small>
+
+1474.- En el sobre cerrado que contenga el duplicado del testamento ológrafo el Registrador pondrá la siguiente constancia: "Recibí el pliego cerrado que el señor: ..... afirma contiene original de su testamento ológrafo, del cual, según afirmación del mismo, existe dentro de este sobre un duplicado". Se asentará el lugar y la fecha en que se extiende la constancia que será firmada por el Registrador y el testador.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE FEBRERO DE 2006)</small>
+
+1475.- Hecho el depósito del testamento, el Registrador tomará razón del mismo en el libro respectivo, a fin de que pueda ser identificado, y conservará el original bajo su directa responsabilidad hasta que proceda hacer su entrega al testador o al juez competente.
+
+En cualquier tiempo el testador tendrá derecho a retirar del Archivo el testamento depositado, ya sea personalmente o por medio de mandatario con mandato especial. La entrega se hará constar en un acta que firmarán el interesado y el Registrador.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE FEBRERO DE 2006)</small>
+
+1476.- Cuando se otorgue un testamento ológrafo, los jefes de Departamento del Registro Público que lo reciba, dentro de los tres días hábiles siguientes darán aviso al Director del Registro Público de la Propiedad, por conducto del Departamento del Notariado, expresando la fecha, nombre, apellidos del testador y sus datos generales.
+
+El juez ante quien se promueva un juicio sucesorio pedirá informe a la Dirección del Registro Público de la Propiedad y del Notariado, por conducto del Departamento del Notariado, acerca del otorgamiento de testamento del autor de la sucesión y, en su caso, solicitará la remisión del mismo. Así mismo, la persona que guarde en su poder el duplicado del testamento lo deberá poner a disposición del juez respectivo.
+
+Ningún funcionario o empleado del Registro Público de la Propiedad y del Notariado proporcionarán informes acerca del testamento depositado, salvo al testador, previa identificación del mismo, o a los jueces competentes que oficialmente se lo requieran.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE FEBRERO DE 2006)</small>
+
+1477.- Recibido el testamento, el juez examinará la cubierta que lo contiene para cerciorarse de que no ha sido violada y, en presencia del Ministerio Público y de los que se hayan presentado como interesados, abrirá el sobre que contiene el testamento. Si éste llena los requisitos mencionados en el artículo 1470 y queda comprobado que es el mismo que depositó el testador, se declarará formal el testamento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE FEBRERO DE 2006)</small>
+
+1478.- El testamento ológrafo quedará sin efecto cuando el original y el duplicado, en su caso, estuvieren rotos, o el sobre que los cubre resultare abierto, o las firmas que los autoricen aparecieren borradas, raspadas o con enmendaduras, aun cuando el contenido del testamento no se encuentre viciado.
+
+Sólo cuando el original haya sido invalidado se tendrá como formal testamento el duplicado, siempre y cuando no se encuentre también viciado según lo establece el párrafo anterior, procediéndose para su apertura como se dispone en el artículo que precede.
+
+> <small>(REFORMADO [N. DE E. REUBICADO CON LOS ARTÍCULOS QUE LO INTEGRAN, ANTES CAPÍTULO V], P.O. 15 DE FEBRERO DE 2006)</small>
+
+### CAPITULO VI. DEL TESTAMENTO PRIVADO
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 1470], P.O. 15 DE FEBRERO DE 2006)</small>
+
+1479.- El testamento podrá ser privado cuando no sea posible otorgarlo ante Notario, si además concurre cualquiera de las circunstancias siguientes:
 
 I.- El testador sea atacado de una enfermedad o haya sufrido un accidente, tan violentos y graves, que no den tiempo para que concurra ante Notario;
 
@@ -6081,47 +6141,47 @@ V.- No haya en el lugar Notario o Juez que actúe por receptoría; o,
 
 VI.- Cuando, aunque haya Notario o Juez en el lugar, sea imposible, o extremadamente difícil que concurran al otorgamiento del testamento.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 1471], P.O. 15 DE FEBRERO DE 2006)</small>
 
-1471.- El testador que se encuentre en el caso de hacer testamento privado, redactará éste de su puño y letra y además declarará en presencia de tres testigos idóneos su última voluntad dando lectura al documento. Si el testador no pudiere o no supiere escribir, la redacción podrá efectuarla uno de los mencionados testigos, a quien el testador dictará su última voluntad en presencia de los otros dos.
+1480.- El testador que se encuentre en el caso de hacer testamento privado, redactará éste de su puño y letra y además declarará en presencia de tres testigos idóneos su última voluntad dando lectura al documento. Si el testador no pudiere o no supiere escribir, la redacción podrá efectuarla uno de los mencionados testigos, a quien el testador dictará su última voluntad en presencia de los otros dos.
 
 Al concluir el escrito, el testador lo leerá en voz alta en presencia de los testigos y si no pudiere o no supiere hacerlo, la lectura podrá hacerla un testigo que preferentemente no será el que lo hubiere escrito.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 1472], P.O. 15 DE FEBRERO DE 2006)</small>
 
-1472.- En el caso del artículo anterior, si supiere escribir y pudiere hacerlo, el testador firmará al calce, rubricará lo escrito e imprimirá su huella digital. Si no supiere o no pudiere escribir, imprimirá su huella digital a (sic) calce de cada una de las hojas y otro testigo más firmará a su ruego.
+1481.- En el caso del artículo anterior, si supiere escribir y pudiere hacerlo, el testador firmará al calce, rubricará lo escrito e imprimirá su huella digital. Si no supiere o no pudiere escribir, imprimirá su huella digital a (sic) calce de cada una de las hojas y otro testigo más firmará a su ruego.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 1473], P.O. 15 DE FEBRERO DE 2006)</small>
 
-1473.- Al otorgarse el testamento de que trata este capítulo, se observarán las disposiciones siguientes:
+1482.- Al otorgarse el testamento de que trata este capítulo, se observarán las disposiciones siguientes:
 
 I.- En el testamento se asentará el lugar, la hora, el día, el mes y el año en que hubiere sido otorgado.
 
 II.- Los testigos que requiere este testamento, deben saber leer y escribir.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 1474], P.O. 15 DE FEBRERO DE 2006)</small>
 
-1474.- Al otorgarse el testamento privado también se observarán en su caso, las disposiciones conducentes de los artículos del 1417 al 1423.
+1483.- Al otorgarse el testamento privado también se observarán en su caso, las disposiciones conducentes de los artículos del 1417 al 1423.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 1475], P.O. 15 DE FEBRERO DE 2006)</small>
 
-1475.- El testamento privado sólo surtirá efectos si el testador fallece por la causa que lo motivó, o dentro de un mes de desaparecida ésta.
+1484.- El testamento privado sólo surtirá efectos si el testador fallece por la causa que lo motivó, o dentro de un mes de desaparecida ésta.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO [N. DE E. Y REUBICADO ANTES ARTÍCULO 1476], P.O. 15 DE FEBRERO DE 2006)</small>
 
-1476.- El testamento privado necesita para su validez, la declaración judicial de ésta ajustado a derecho, se dictará conforme al artículo 1480, teniendo en cuenta las declaraciones de los testigos que firmaron u oyeron, en su caso, la voluntad del testador.
+1485.- El testamento privado necesita para su validez, la declaración judicial de estar ajustado a derecho, se dictará conforme al artículo 1489, teniendo en cuenta las declaraciones de los testigos que firmaron u oyeron, en su caso, la voluntad del testador.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 1477], P.O. 15 DE FEBRERO DE 2006)</small>
 
-1477.- La declaración a que se refiere el artículo anterior será pedida por los interesados, inmediatamente después que supieren la muerte del testador y la forma de su disposición.
+1486.- La declaración a que se refiere el artículo anterior será pedida por los interesados, inmediatamente después que supieren la muerte del testador y la forma de su disposición.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 1478], P.O. 15 DE FEBRERO DE 2006)</small>
 
-1478.- Si después de la muerte del testador y antes de elevarse a formal testamento la que se dice su última disposición, muriese alguno de los testigos o se declare su ausencia, se hará la protocolización con los restantes, con tal que no sean menos de dos, perfectamente contestes y a salvo de toda excepción.
+1487.- Si después de la muerte del testador y antes de elevarse a formal testamento la que se dice su última disposición, muriese alguno de los testigos o se declare su ausencia, se hará la protocolización con los restantes, con tal que no sean menos de dos, perfectamente contestes y a salvo de toda excepción.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO [N. DE E. Y REUBICADO ANTES ARTÍCULO 1479], P.O. 15 DE FEBRERO DE 2006)</small>
 
-1479.- Los testigos que autoricen un testamento otorgado en los casos que señala el artículo 1470, ante la autoridad judicial deberán declarar circunstancialmente y bajo protesta de decir verdad:
+1488.- Los testigos que autoricen un testamento otorgado en los casos que señala el artículo 1479, ante la autoridad judicial deberán declarar circunstancialmente y bajo protesta de decir verdad:
 
 I.- El lugar, la hora, el día, el mes y el año en que se otorgó el testamento.
 
@@ -6133,49 +6193,23 @@ IV.- Si el testador estaba en su cabal juicio y libre de cualquier coacción.
 
 V.- El motivo por el que se otorgó el testamento privado.
 
-VI.- En el caso del artículo 1471, quién fue el testigo que lo escribió.
+VI.- En el caso del artículo 1480, quién fue el testigo que lo escribió.
 
 VII.- Si saben que el testador falleció o no de la enfermedad, o en el peligro en que se hallaba.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 1480], P.O. 15 DE FEBRERO DE 2006)</small>
 
-1480.- Si los testigos fueron idóneos y estuvieron conformes en todas y cada una de las circunstancias enumeradas en el artículo que precede, el Juez declarará el contenido del documento como formal testamento de la persona de quien se trate; mandará protocolizar el escrito en el que conste el testamento, y dispondrá que se extiendan los testimonios respectivos a las personas que con derecho lo soliciten.
+1489.- Si los testigos fueron idóneos y estuvieron conformes en todas y cada una de las circunstancias enumeradas en el artículo que precede, el Juez declarará el contenido del documento como formal testamento de la persona de quien se trate; mandará protocolizar el escrito en el que conste el testamento, y dispondrá que se extiendan los testimonios respectivos a las personas que con derecho lo soliciten.
 
-1481.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
+> <small>(REFORMADO [N. DE E. REUBICADO CON EL ARTÍCULO QUE LO INTEGRA, ANTES CAPÍTULO VI], P.O. 15 DE FEBRERO DE 2006)</small>
 
-1482.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
+### CAPITULO VII. DEL TESTAMENTO MILITAR Y MARITIMO
 
-1483.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
+> <small>(REFORMADO [N. DE E. Y REUBICADO ANTES ARTÍCULO 1484], P.O. 15 DE FEBRERO DE 2006)</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2002)</small>
-
-### CAPITULO VI. DEL TESTAMENTO MILITAR Y MARITIMO
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
-
-1484.- El testamento militar y el marítimo, otorgados conforme a las disposiciones del Código Civil Federal, producirán efectos en el Estado de Chihuahua respecto a las disposiciones testamentarias que deban ejecutarse en éste.
-
-1485.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
-
-1486.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
-
-1487.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
-
-1488.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
-
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2002)</small>
-
-### CAPITULO VII. DEL TESTAMENTO MARITIMO
-
-1489.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
-
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2002)</small>
+1490.- El testamento militar y el marítimo, otorgados conforme a las disposiciones del Código Civil Federal, producirán efectos en el Estado de Chihuahua, respecto a las disposiciones testamentarias que deban ejecutarse en éste.
 
 ## TITULO CUARTO. DE LA SUCESION LEGITIMA
-
-### CAPITULO VIII. DEL TESTAMENTO HECHO FUERA DEL ESTADO
-
-1490.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -6331,8 +6365,6 @@ Si varias personas se encuentran en el supuesto previsto en el párrafo que ante
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-## TITULO QUINTO. DISPOSICIONES COMUNES A LAS SUCESIONES TESTAMENTARIA Y LEGITIMA
-
 ### CAPITULO VII. DE LA SUCESION DE LA BENEFICENCIA PUBLICA DEL ESTADO
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
@@ -6342,6 +6374,8 @@ Si varias personas se encuentran en el supuesto previsto en el párrafo que ante
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
 1529.- Cuando sea heredera la Beneficencia Pública y entre lo que le corresponda existen bienes raíces que no puede adquirir conforme a la ley, se venderán los bienes en pública subasta, antes de hacerse la adjudicación, aplicándose a la Beneficencia Pública el precio que se obtuviere.
+
+## TITULO QUINTO. DISPOSICIONES COMUNES A LAS SUCESIONES TESTAMENTARIA Y LEGITIMA
 
 ### CAPITULO I. DE LAS PRECAUCIONES QUE DEBEN ADOPTARSE CUANDO LA VIUDA QUEDE ENCINTA
 
@@ -6578,6 +6612,10 @@ En su caso, se observará lo dispuesto en el artículo 1553.
 1570.- La herencia se entiende aceptada a beneficio de inventario. Por tanto, en ningún caso produce confusión de los bienes del autor de la sucesión y de los herederos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+### CAPITULO IV. DE LOS ALBACEAS Y LOS INTERVENTORES
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
 #### SECCION PRIMERA. DE LOS ALBACEAS
 
@@ -6971,10 +7009,6 @@ III.- Cuando se hagan legados para objetos o establecimiento del Estado.
 
 1641.- Los interventores tendrán la retribución que acuerden los herederos que los nombren, y si los nombra el Juez, cobrarán conforme al arancel, como si fueran apoderados, sin que el importe exceda en una tercera parte de lo que deba percibir el albacea.
 
-### CAPITULO IV. DE LOS ALBACEAS Y LOS INTERVENTORES
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)</small>
-
 ### CAPITULO V. DEL INVENTARIO Y DE LA LIQUIDACION DE LA HERENCIA
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
@@ -7149,14 +7183,6 @@ Si se adjudica como cobrable un crédito, los coherederos no responden de la ins
 
 1679.- El heredero cuyos bienes hereditarios fueren embargados por créditos a cargo de la sucesión, y aquel contra quien se pronunciare sentencia en juicio por causa de ellos, tiene derecho de pedir que sus coherederos caucionen la responsabilidad que pueda resultarles y, en caso contrario, que se les prohíba enajenar los bienes que recibieron.
 
-# LIBRO CUARTO. DE LAS OBLIGACIONES
-
-PRIMERA PARTE
-
-DE LAS OBLIGACIONES EN GENERAL
-
-## TITULO PRIMERO. FUENTES DE LAS OBLIGACIONES
-
 ### CAPITULO VIII. DE LA RESCISION Y NULIDAD DE LAS PARTICIONES
 
 1680.- Las particiones pueden rescindirse o anularse por las mismas causas que las obligaciones.
@@ -7166,6 +7192,14 @@ DE LAS OBLIGACIONES EN GENERAL
 1682.- La partición hecha con un heredero falso, es nula en cuanto tenga relación con él, y la parte que se le aplicó se distribuirá entre los herederos.
 
 1683.- Si hecha la partición aparecieren algunos bienes omitidos en ella, se hará una división suplementaria, en la cual se observarán las disposiciones contenidas en este Título.
+
+# LIBRO CUARTO. DE LAS OBLIGACIONES
+
+PRIMERA PARTE
+
+DE LAS OBLIGACIONES EN GENERAL
+
+## TITULO PRIMERO. FUENTES DE LAS OBLIGACIONES
 
 ### CAPITULO I. CONTRATOS
 
@@ -7511,8 +7545,6 @@ Si no fuere posible dar ese aviso, el gestor debe continuar su gestión hasta qu
 
 1794.- Los gastos funerarios proporcionados a la condición de la persona y a los usos de la localidad deberán ser satisfechos al que los haga aunque el difunto no hubiese dejado bienes, por aquéllos que hubieren tenido la obligación de alimentarlo en vida.
 
-## TITULO SEGUNDO. MODALIDADES DE LAS OBLIGACIONES
-
 ### CAPITULO V. DE LAS OBLIGACIONES QUE NACEN DE LOS ACTOS ILICITOS
 
 1795.- El que obrando ilícitamente cause daño a otro, está obligado a repararlo, a menos que demuestre que el daño se produjo como consecuencia de culpa o negligencia inexcusable de la víctima.
@@ -7622,6 +7654,8 @@ VI.- Por el peso o movimiento de las máquinas, por las aglomeraciones de materi
 1818.- Los jefes de familia que habiten una casa o parte de ella, son responsables de los daños causados por las cosas que se arrojen o cayeren de la misma.
 
 1819.- La acción para exigir la reparación de los daños causados en los términos del presente capítulo, prescribe en dos años contados a partir del día en que se haya causado el daño.
+
+## TITULO SEGUNDO. MODALIDADES DE LAS OBLIGACIONES
 
 ### CAPITULO I. DE LAS OBLIGACIONES CONDICIONALES
 
@@ -7917,8 +7951,6 @@ III.- Cuando la obligación sea indivisible;
 
 IV.- Cuando por el contrato se ha determinado otra cosa.
 
-## TITULO TERCERO. DE LA TRASMISION DE LAS OBLIGACIONES
-
 ### CAPITULO VI. DE LAS OBLIGACIONES DE HACER O DE NO HACER
 
 1910.- Si el obligado a prestar un hecho, no lo hiciere, el acreedor tiene derecho de pedir que a costa de aquél se ejecute por otro, cuando la substitución sea posible.
@@ -7926,6 +7958,8 @@ IV.- Cuando por el contrato se ha determinado otra cosa.
 Esto mismo se observará si no lo hiciere de la manera convenida. En este caso el acreedor podrá pedir que se deshaga lo mal hecho.
 
 1911.- El que estuviere obligado a no hacer alguna cosa, quedará sujeto al pago de daños y perjuicios en caso de contravención. Si hubiere obra material, podrá exigir el acreedor que sea destruida a costa del obligado.
+
+## TITULO TERCERO. DE LA TRASMISION DE LAS OBLIGACIONES
 
 ### CAPITULO I. DE LA CESION DE DERECHOS
 
@@ -8005,12 +8039,6 @@ Si tiene contra el cedente un crédito todavía no exigible cuando se hace la ce
 
 1940.- Cuando se declare nula la sustitución de deudor, la antigua deuda renace con todos sus accesorios; pero con la reserva de derechos que pertenecen a tercero de buena fe.
 
-## TITULO CUARTO. EFECTOS DE LAS OBLIGACIONES
-
-I.- EFECTOS DE LAS OBLIGACIONES ENTRE LAS PARTES
-
-CUMPLIMIENTO DE LAS OBLIGACIONES
-
 ### CAPITULO III. DE LA SUBROGACION
 
 1941.- La subrogación se verifica por ministerio de la ley y sin necesidad de declaración alguna de los interesados:
@@ -8030,6 +8058,12 @@ IV.- Cuando el que adquiere un inmueble paga a un acreedor que tiene sobre él u
 1943.- No habrá subrogación parcial en deudas de solución indivisible.
 
 1944.- El pago de los subrogados en diversas porciones del mismo crédito, cuando no basten los bienes del deudor para cubrirlos todos, se hará a prorrata.
+
+## TITULO CUARTO. EFECTOS DE LAS OBLIGACIONES
+
+I.- EFECTOS DE LAS OBLIGACIONES ENTRE LAS PARTES
+
+CUMPLIMIENTO DE LAS OBLIGACIONES
 
 ### CAPITULO I. DEL PAGO
 
@@ -8355,8 +8389,6 @@ Si el deudor únicamente paga a un acreedor con preferencia indebida, la acción
 
 2062.- Se presumen fraudulentas las enajenaciones a título oneroso hechas por aquellas personas contra quienes se hubiese pronunciado antes sentencia condenatoria en cualquiera instancia, o expedido mandamiento de embargo de bienes, cuando estas enajenaciones perjudican los derechos de sus acreedores.
 
-## TITULO QUINTO. EXTINCION DE LAS OBLIGACIONES
-
 ### CAPITULO II. DE LA SIMULACION DE LOS ACTOS JURIDICOS
 
 2063.- Es simulado el acto en que las partes declaran o confiesan falsamente lo que en realidad no ha pasado o no se ha convenido entre ellas.
@@ -8370,6 +8402,8 @@ Si el deudor únicamente paga a un acreedor con preferencia indebida, la acción
 2067.- Luego que se anule un acto simulado, se restituirá la cosa o derechos a quien pertenezca, con sus frutos e intereses, si los hubiere; pero si la cosa o derecho ha pasado a título oneroso a un tercero de buena fe, no habrá lugar a la restitución.
 
 También subsistirán los gravámenes impuestos a favor de tercero de buena fe.
+
+## TITULO QUINTO. EXTINCION DE LAS OBLIGACIONES
 
 ### CAPITULO I. DE LA COMPENSACION
 
@@ -8457,6 +8491,30 @@ Si llegare a separarse el crédito y la deuda en patrimonios de sujetos distinto
 
 2095.- La devolución de la prenda es presunción de la remisión del derecho a la misma prenda, si el acreedor no prueba lo contrario.
 
+### CAPITULO IV. DE LA NOVACION
+
+2096.- Hay novación de contrato cuando las partes en él interesadas lo alteran substancialmente substituyendo una obligación nueva a la antigua.
+
+2097.- La novación es un contrato, y como tal, está sujeto a las disposiciones respectivas, salvo las modificaciones siguientes.
+
+2098.- La novación nunca se presume, debe constar expresamente.
+
+2099.- Aun cuando la obligación anterior esté subordinada a una condición suspensiva, solamente quedará la novación pendiente del cumplimiento de aquélla, si así se hubiere estipulado.
+
+2100.- Si la primera obligación se hubiere extinguido al tiempo en que se contrajere la segunda, quedará la novación sin efecto.
+
+2101.- La novación es nula si lo fuere también la obligación primitiva, salvo que la causa de nulidad solamente pueda ser invocada por el deudor, o que la ratificación convalide los actos nulos en su origen.
+
+2102.- Si la novación fuere nula, subsistirá la antigua obligación.
+
+2103.- La novación extingue la obligación principal y las obligaciones accesorias. El acreedor puede, por una reserva expresa, impedir la extinción de las obligaciones accesorias, que entonces pasan a la nueva.
+
+2104.- El acreedor no puede reservarse el derecho de prenda o hipoteca de la obligación extinguida, si los bienes hipotecados o empeñados pertenecieren a terceros que no hubieren tenido parte en la novación. Tampoco puede reservarse la fianza sin consentimiento del fiador.
+
+2105.- Cuando la novación se efectúe entre el acreedor y algún deudor solidario, los privilegios e hipotecas del antiguo crédito sólo pueden quedar reservados con relación a los bienes del deudor que contrae la nueva obligación.
+
+2106.- Por la novación hecha entre el acreedor y alguno de los deudores solidarios, quedan exonerados todos los demás codeudores, sin perjuicio de lo dispuesto en el artículo 1862.
+
 ## TITULO SEXTO. DE LA INEXISTENCIA Y DE LA NULIDAD
 
 2107.- El acto jurídico inexistente por la falta de consentimiento o de objeto que puede ser materia de él, no producirá efecto legal alguno. No es susceptible de valer por confirmación, ni por prescripción; su inexistencia puede invocarse por todo interesado.
@@ -8519,32 +8577,6 @@ DE LAS DIVERSAS ESPECIES DE CONTRATOS
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE JULIO DE 2002)</small>
 
-### CAPITULO IV. DE LA NOVACION
-
-2096.- Hay novación de contrato cuando las partes en él interesadas lo alteran substancialmente substituyendo una obligación nueva a la antigua.
-
-2097.- La novación es un contrato, y como tal, está sujeto a las disposiciones respectivas, salvo las modificaciones siguientes.
-
-2098.- La novación nunca se presume, debe constar expresamente.
-
-2099.- Aun cuando la obligación anterior esté subordinada a una condición suspensiva, solamente quedará la novación pendiente del cumplimiento de aquélla, si así se hubiere estipulado.
-
-2100.- Si la primera obligación se hubiere extinguido al tiempo en que se contrajere la segunda, quedará la novación sin efecto.
-
-2101.- La novación es nula si lo fuere también la obligación primitiva, salvo que la causa de nulidad solamente pueda ser invocada por el deudor, o que la ratificación convalide los actos nulos en su origen.
-
-2102.- Si la novación fuere nula, subsistirá la antigua obligación.
-
-2103.- La novación extingue la obligación principal y las obligaciones accesorias. El acreedor puede, por una reserva expresa, impedir la extinción de las obligaciones accesorias, que entonces pasan a la nueva.
-
-2104.- El acreedor no puede reservarse el derecho de prenda o hipoteca de la obligación extinguida, si los bienes hipotecados o empeñados pertenecieren a terceros que no hubieren tenido parte en la novación. Tampoco puede reservarse la fianza sin consentimiento del fiador.
-
-2105.- Cuando la novación se efectúe entre el acreedor y algún deudor solidario, los privilegios e hipotecas del antiguo crédito sólo pueden quedar reservados con relación a los bienes del deudor que contrae la nueva obligación.
-
-2106.- Por la novación hecha entre el acreedor y alguno de los deudores solidarios, quedan exonerados todos los demás codeudores, sin perjuicio de lo dispuesto en el artículo 1862.
-
-## TITULO SEGUNDO. DE LA COMPRAVENTA
-
 ### CAPITULO UNICO. DE LA PROMESA
 
 > <small>(REFORMADO, P.O. 26 DE ENERO DE 2000)</small>
@@ -8570,6 +8602,8 @@ DE LAS DIVERSAS ESPECIES DE CONTRATOS
 En este caso, el contrato de promesa deberá otorgarse en escritura pública, si el precio del inmueble o derecho real excede del equivalente a quinientas veces el salario mínimo. En caso contrario, bastará un escrito privado debidamente ratificado ante fedatario público.
 
 2131.- Si el promitente o el causahabiente, en caso de promesa inscrita en el Registro Público de la Propiedad, rehusan firmar los documentos necesarios para dar forma legal al contrato concertado, en su rebeldía los firmará el Juez; salvo el caso de que la celebración del contrato sea legalmente imposible, pues entonces la promesa quedará sin efecto, siendo responsable el que la hizo de todos los daños y perjuicios que se hayan originado a la otra parte.
+
+## TITULO SEGUNDO. DE LA COMPRAVENTA
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -8935,6 +8969,10 @@ Cuando los bienes vendidos son de los mencionados en los artículos 2203 y 2204,
 
 > <small>(DEROGADO, P.O. 30 DE ABRIL DE 2003)</small>
 
+### CAPITULO X. DE LAS VENTAS JUDICIALES
+
+(REUBICADO, P.O. 30 DE MARZO DE 2003)
+
 ## TITULO TERCERO. DE LA PERMUTA
 
 > <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2003)</small>
@@ -8962,10 +9000,6 @@ Cuando los bienes vendidos son de los mencionados en los artículos 2203 y 2204,
 ## TITULO CUARTO. DE LAS DONACIONES
 
 (REUBICADO, P.O. 30 DE ABRIL DE 2003)
-
-### CAPITULO X. DE LAS VENTAS JUDICIALES
-
-(REUBICADO, P.O. 30 DE MARZO DE 2003)
 
 ### CAPITULO I. DE LAS DONACIONES EN GENERAL
 
@@ -9091,8 +9125,6 @@ En las donaciones, los condueños no gozarán del derecho del tanto.
 
 (REUBICADO, P.O. 30 DE ABRIL DE 2003)
 
-## TITULO QUINTO. DEL MUTUO
-
 ### CAPITULO III. DE LA REVOCACION Y REDUCCION DE LAS DONACIONES
 
 > <small>(REFORMADO, P.O. 30 DE ABRIL DE 2003)</small>
@@ -9183,6 +9215,8 @@ II.- Si el donatario rehusa socorrer, según el valor de la donación, al donant
 
 2279.- Revocada o reducida una donación por inoficiosa, el donatario sólo responderá de los frutos desde que fuere demandado.
 
+## TITULO QUINTO. DEL MUTUO
+
 ### CAPITULO I. DEL MUTUO SIMPLE
 
 2280.- El mutuo es un contrato por el cual el mutuante se obliga a transferir la propiedad de una suma de dinero o de otras cosas fungibles al mutuario, quien se obliga a devolver otro tanto de la misma especie y calidad.
@@ -9223,8 +9257,6 @@ III.- En los demás casos, al igual que si se hubiere pactado que la restitució
 
 2288.- No se declararán nulas las deudas contraídas por el menor para proporcionarse los alimentos que necesite, cuando su representante legítimo se encuentre ausente.
 
-## TITULO SEXTO. DEL ARRENDAMIENTO
-
 ### CAPITULO II. DEL MUTUO CON INTERES
 
 2289.- Es permitido estipular interés por el mutuo, ya consista en dinero, ya en géneros.
@@ -9246,6 +9278,8 @@ III.- En los demás casos, al igual que si se hubiere pactado que la restitució
 2294.- Si el mutuario debe intereses y abona algunas cantidades, se aplicarán éstas a los vencidos; y lo que de ellas sobre se imputará al capital.
 
 2295.- El recibo del capital dado sin reserva de intereses, establece a favor del deudor la presunción de haberlos pagado.
+
+## TITULO SEXTO. DEL ARRENDAMIENTO
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -9681,6 +9715,8 @@ V.- En los demás casos previstos legalmente.
 
 > <small>(DEROGADO, P.O. 30 DE ABRIL DE 2003)</small>
 
+### CAPITULO IX. DEL MODO DE TERMINAR EL ARRENDAMIENTO
+
 ## TITULO SEPTIMO. DEL COMODATO
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1983)</small>
@@ -9732,8 +9768,6 @@ El contrato de comodato deberá otorgarse por escrito ante dos testigos. Si tien
 También termina por la enajenación del bien dado en comodato. En este caso, el comodatario deberá restituir dicho bien al comodante, aún cuando no hubiere terminado el plazo o uso convenidos, a menos que se hubiere pactado otra cosa.
 
 ## TITULO OCTAVO. DEL DEPOSITO Y DEL SECUESTRO
-
-### CAPITULO IX. DEL MODO DE TERMINAR EL ARRENDAMIENTO
 
 ### CAPITULO I. DEL DEPOSITO
 
@@ -9807,8 +9841,6 @@ La responsabilidad de que habla este artículo no excederá de cincuenta veces e
 
 2437.- Las fondas, cafés, casas de baño y otros establecimientos semejantes, no responden de los efectos que introduzcan los clientes, a menos que los pongan bajo la custodia de los empleados del establecimiento.
 
-## TITULO NOVENO. DEL MANDATO
-
 ### CAPITULO II. DEL SECUESTRO
 
 2438.- El secuestro es el depósito de una cosa litigiosa en poder de un tercero, hasta que se decida a quién debe entregarse.
@@ -9834,6 +9866,8 @@ El secuestro judicial es oponible a terceros que con posterioridad adquieran por
 Para que el secuestro de bienes inmuebles surta sus efectos respecto de terceros, deberá ser inscrito en el Registro Público de la Propiedad.
 
 2444.- El secuestro judicial se rige por las disposiciones del Código de Procedimientos Civiles, y, en su defecto, por las mismas del secuestro convencional.
+
+## TITULO NOVENO. DEL MANDATO
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -10063,8 +10097,6 @@ V.- Por nombrar el mandante otro procurador para el mismo negocio.
 
 2493.- La parte interesada puede ratificar antes de la sentencia que cause ejecutoria, lo que el procurador hubiere hecho excediéndose del mandato.
 
-## TITULO DECIMO. DEL CONTRATO DE PRESTACION DE SERVICIOS
-
 ### CAPITULO VI. DE LOS DIVERSOS MODOS DE TERMINAR EL MANDATO
 
 > <small>(REFORMADO, P.O. 30 DE ABRIL DE 2003)</small>
@@ -10118,6 +10150,8 @@ En el caso de que el mandato sea irrevocable, puede pactarse también que, aún 
 2502.- El mandatario que renuncie tiene obligación de seguir el negocio mientras el mandante no provee a la procuración, si de lo contrario se sigue algún perjuicio.
 
 2503.- Lo que el mandatario, sabiendo que ha cesado el mandato, hiciere con un tercero que ignora el término de la procuración, no obliga al mandante, fuera del caso previsto en el artículo 2496.
+
+## TITULO DECIMO. DEL CONTRATO DE PRESTACION DE SERVICIOS
 
 ### CAPITULO I. DE LA PRESTACION DE SERVICIOS PROFESIONALES
 
@@ -11415,8 +11449,6 @@ La declaración o reconocimiento de esos derechos no obliga al que lo hace a gar
 
 TERCERA PARTE
 
-## TITULO PRIMERO. DE LA CONCURRENCIA Y PRELACION DE LOS CREDITOS
-
 ### CAPITULO I. DISPOSICIONES GENERALES
 
 2857.- El deudor responde del cumplimiento de sus obligaciones con todos sus bienes, con excepción de aquéllos que, conforme a la ley, son inalienables o no embargables.
@@ -11466,6 +11498,8 @@ Si por el contrario, prefieren tener voz y voto en la mencionada junta, serán c
 2872.- Los pactos particulares entre el deudor y cualquiera de sus acreedores serán nulos.
 
 El crédito cuya preferencia provenga de convenio fraudulento entre el acreedor y el deudor, pierde toda preferencia, a no ser que el dolo provenga sólo del deudor, quien en este caso será responsable de los daños y perjuicios que se sigan a los demás acreedores, además de las medidas de defensa social que merezcan por el fraude.
+
+## TITULO PRIMERO. DE LA CONCURRENCIA Y PRELACION DE LOS CREDITOS
 
 ### CAPITULO II. DE LOS CREDITOS HIPOTECARIOS Y PIGNORATICIOS Y DE ALGUNOS OTROS PRIVILEGIOS
 
@@ -11573,8 +11607,6 @@ III.- Los créditos de los establecimientos de beneficencia pública o privada.
 
 2891.- Con los bienes restantes serán pagados todos los demás créditos que no estén comprendidos en las disposiciones anteriores. El pago se hará a prorrata y sin atender a las fechas, ni al origen de los créditos.
 
-## TITULO SEGUNDO. DEL REGISTRO PUBLICO
-
 ### CAPITULO I. DE LAS OFICINAS DEL REGISTRO
 
 2892.- Los lugares en que deba existir una Oficina del Registro Público serán fijados por el Código Administrativo del Estado, el cual determinará asimismo el número de secciones de que se componga el Registro y la sección en que deban inscribirse los títulos que se registren.
@@ -11586,6 +11618,8 @@ III.- Los créditos de los establecimientos de beneficencia pública o privada.
 También tienen obligación de expedir copias certificadas de las inscripciones o constancias que figuren en las diferentes secciones del Registro; así como certificaciones en caso de no existir asientos de ninguna especie o de especie determinada, sobre bienes señalados o a cargo de ciertas personas.
 
 La autoridad registral queda exceptuada de la obligación establecida en el párrafo anterior respecto a la información resguardada en la Sección Octava del Registro Público de la Propiedad y del Notariado.
+
+## TITULO SEGUNDO. DEL REGISTRO PUBLICO
 
 ### CAPITULO II. DE LOS TITULOS SUJETOS A REGISTRO Y DE LOS EFECTOS LEGALES DEL REGISTRO
 
@@ -11758,6 +11792,64 @@ Si el opositor deja transcurrir seis meses sin promover en el juicio de oposici�
 2919.- Transcurrido el plazo fijado en la parte final del artículo 2916 sin que en el Registro aparezca algún asiento que contradiga la posesión inscrita, tiene derecho el poseedor, comprobando este hecho mediante la presentación del certificado respectivo, a que el Juez competente declare que se ha convertido en propietario en virtud de la prescripción, y ordene que se haga en el registro la inscripción de dominio correspondiente.
 
 2920.- No podrán inscribirse mediante información posesoria, las servidumbres continuas no aparentes, ni las discontinuas, sean o no aparentes, ni tampoco el derecho hipotecario.
+
+### CAPITULO VI. DE LA EXTINCION DE LAS INSCRIPCIONES
+
+2921.- Las inscripciones no se extinguen en cuanto a tercero, sino por su cancelación, o por el registro de la transmisión del dominio, o derecho real inscrito a otra persona.
+
+2922.- Las inscripciones pueden cancelarse por consentimiento de las partes o por decisión judicial.
+
+2923.- La cancelación de las inscripciones podrá ser total o parcial.
+
+2924.- Podrá pedirse y deberá ordenarse en su caso, la cancelación total:
+
+I.- Cuando se extinga por completo el inmueble objeto de la inscripción;
+
+II.- Cuando se extinga también por completo el derecho inscrito;
+
+III.- Cuando se declare la nulidad del título en cuya virtud se haya hecho la inscripción;
+
+IV.- Cuando se declare la nulidad de la inscripción;
+
+V.- Cuando sea vendido judicialmente el inmueble que reporte el gravamen en el caso previsto en el artículo 2222;
+
+VI.- Cuando tratándose de una cédula hipotecaria o de un embargo, hayan transcurrido tres años desde la fecha de la inscripción.
+
+2925.- Podrá pedirse, y deberá decretarse, en su caso, la cancelación parcial:
+
+I.- Cuando se reduzca el inmueble objeto de la inscripción;
+
+II.- Cuando se reduzca el derecho inscrito a favor del dueño de la finca gravada.
+
+2926.- Para que el registro pueda ser cancelado por consentimiento de las partes, se requiere que éstas lo sean legítimas, tengan capacidad de contratar y hagan constar su voluntad de un modo auténtico.
+
+2927.- Si para cancelar el registro se pusiese alguna condición, se requiere, además, el cumplimiento de ésta.
+
+2928.- Cuando se registre la propiedad o cualquiera otro derecho real sobre inmuebles, en favor del que adquiere, se cancelará el registro relativo al que enajene.
+
+2929.- Cuando se registre una sentencia que declare haber cesado los efectos de otra que esté registrada, se cancelará ésta.
+
+2930.- Los padres, como administradores de los bienes de sus hijos, los tutores de menores o incapacitados, y cualesquiera otros administradores, aunque habilitados para recibir pagos y dar recibos, sólo pueden consentir en la cancelación del registro hecho en favor de sus representados, en el caso de pago o por sentencia judicial.
+
+2931.- La cancelación de las inscripciones de hipotecas constituidas en garantía de títulos transmisibles por endoso, puede hacerse:
+
+I.- Presentándose la escritura otorgada por los que hayan cobrado los créditos, en la cual debe constar haberse inutilizado en el acto de su otorgamiento los títulos endosables;
+
+II.- Por solicitud firmada por dichos interesados y por el deudor, a la cual se acompañan inutilizados los referidos títulos;
+
+III.- Por ofrecimiento de pago y consignación del importe de los títulos, hechos de acuerdo con las disposiciones relativas.
+
+2932.- Las inscripciones de hipotecas constituidas con el objeto de garantizar títulos al portador, se cancelarán totalmente si se hiciere constar por acta notarial, estar recogida y en poder del deudor toda la emisión de títulos debidamente inutilizados.
+
+2933.- Procederá también la cancelación total, si se presentasen, por lo menos, las tres cuartas partes de los títulos al portador emitidos y se asegurase el pago de los restantes, consignándose su importe y el de los intereses que procedan.
+
+La cancelación, en este caso, deberá acordarse por sentencia, previos los trámites fijados en el Código de Procedimientos Civiles.
+
+2934.- Podrán cancelarse parcialmente las inscripciones hipotecarias de que se trata, presentando acta notarial de estar recogidos y en poder del deudor, debidamente inutilizados, títulos por un valor equivalente al importe de la hipoteca parcial que se trata de extinguir, siempre que dichos títulos asciendan por lo menos a la décima parte del total de la emisión.
+
+2935.- Las cancelaciones se harán en la forma que fije el Código Administrativo; pero deberán contener para su validez, los datos necesarios a fin de que con toda exactitud se conozca cual es la inscripción que se cancela, la causa por la que se hace la cancelación y su fecha.
+
+2936.- Las inscripciones preventivas se cancelarán no solamente cuando se extinga el derecho inscrito, sino también cuando esa inscripción se convierta en definitiva.
 
 ### CAPITULO VI. DE LA EXTINCION DE LAS INSCRIPCIONES
 
@@ -12252,3 +12344,7 @@ P.O. 1 DE ENERO DE 2005.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE FEBRERO DE 2006.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
