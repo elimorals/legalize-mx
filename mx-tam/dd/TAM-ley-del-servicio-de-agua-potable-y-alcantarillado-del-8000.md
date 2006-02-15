@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-servicio-de-agua-potable-y-alcantarillado-del-8000"
 country: "mx"
 rank: "ley"
 publication_date: "1992-08-01"
-last_updated: "2002-12-05"
+last_updated: "2006-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 LEY DEL SERVICIO DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 2002.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS, PUBLICADA EN EL P.O. DE 15 DE FEBRERO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 1 de agosto de 1992.
 
@@ -293,7 +295,7 @@ VI.- Las demás que señale expresamente esta ley y demás legislación aplicabl
 
 Los reglamentos que deriven de esta ley, deberán establecer los procedimientos para cumplir con los requisitos mínimos permisibles para poder descargar al sistema de drenaje y alcantarillado, cuando no se cuente con sistemas públicos de tratamiento de aguas residuales. Cuando se cuente con sistema público, se podrán fijar requisitos diferentes a fin de igualar la descarga y proceder a su tratamiento en el sistema respectivo.
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTÍCULO 34.
 
@@ -303,7 +305,7 @@ Tratándose de usuarios domésticos, el Organismo Operador procederá a fijar la
 
 En los sistemas de tratamiento y disposición de aguas residuales que se pretendan construir, se consideraran y deberán realizar los proyectos para el manejo y disposición final de lodos, en los términos de los preceptos legales respectivos.
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTÍCULO 35.
 
@@ -1224,3 +1226,73 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 En la autorización de Organismos Descentralizados de la Administración Pública Municipal, se atenderá al cumplimiento de los principios establecidos en el artículo 2° de esta ley.
+
+P.O. 15 DE FEBRERO DE 2006.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley del Servicio Público de Agua Potable, Drenaje, Alcantarillado, Tratamiento y Disposición de las Aguas Tratadas del Estado de Tamaulipas, expedida mediante Decreto número 319 de la Quincuagésima Cuarta Legislatura del Estado, publicado en el Periódico Oficial del Estado anexo al número 62 del 1 de agosto de 1992, y reformada mediante el Decreto número 547 de la Quincuagésima Quinta Legislatura, publicado en el Periódico Oficial del Estado número 103 del 27 de diciembre de 1995 y mediante Decreto 124 de la Quincuagésima Octava Legislatura del Estado, publicado en el Periódico Oficial del Estado anexo al número 147 del 5 de diciembre de 2002.
+
+###### ARTICULO TERCERO.
+
+A partir de la entrada en vigor de la presente ley, el Ejecutivo del Estado contará con un plazo de noventa días para instalar formalmente la Comisión Estatal del Agua, debiendo proveerle de los recursos que requiera para su funcionamiento, de conformidad con el Decreto de Presupuesto de Egresos para el ejercicio fiscal de 2006. Una vez instalada, la Comisión Estatal de Agua contará con un plazo de 90 días para emitir su Estatuto Orgánico y formular la normatividad operativa para el Sector Agua del Estado.
+
+###### ARTICULO CUARTO.
+
+A partir de la entrada en vigor de la presente ley, continuarán prestando los servicios públicos a su cargo los organismos operadores descentralizados de los municipios creados conforme a la Ley del Servicio Público de Agua Potable, Drenaje, Alcantarillado, Tratamiento y Disposición de las Aguas Residuales del Estado de Tamaulipas que se abroga, o los procedimientos que precedieron a esta ley y bajo los cuales hubieren surgido organismos operadores municipales en función. Dichos organismos operadores se sujetarán a las disposiciones que para los organismos operadores municipales, intermunicipales o regionales, según sea el caso, prevé la ley que se expide, debiendo adecuar su estructura en un plazo de hasta cuarenta y cinco días naturales, contados a partir de la entrada en vigor de este ordenamiento.
+
+###### ARTICULO QUINTO.
+
+Los organismos operadores referidos en el artículo transitorio anterior, deberán publicar su Estatuto Orgánico dentro de un plazo no mayor de 180 días contados a partir de la entrada en vigor de esta ley. El Ejecutivo del Estado, por medio de la Comisión, dispondrá de lo necesario para asesorar a los ayuntamientos que lo soliciten, en la elaboración y publicación de esos ordenamientos internos.
+
+###### ARTICULO SEXTO.
+
+Los ayuntamientos donde los servicios públicos en su territorio estén a cargo del Gobierno del Estado al entrar en vigor esta Ley, tendrán 180 días para solicitar la transferencia o para realizar los convenios de colaboración correspondientes en términos de las disposiciones de la Constitución Política de los Estados Unidos Mexicanos, de la Constitución Política del Estado y de este ordenamiento. El Ejecutivo del Estado, por medio de la Comisión, dispondrá de lo necesario para que dicha transferencia se realice de manera ordenada, de acuerdo con el programa que para tal efecto se establezca por el Gobierno del Estado.
+
+###### ARTICULO SEPTIMO.
+
+Los ayuntamientos que tengan a su cargo los servicios públicos inherentes al agua al entrar en vigor esta ley, tendrán 180 días para realizar los convenios de colaboración correspondientes con el Ejecutivo del Estado, a través de la Comisión, si así lo consideran necesario. El Ejecutivo del Estado, por medio de la Comisión, dispondrá de lo pertinente para la suscripción ordenada de los convenios de colaboración.
+
+###### ARTICULO OCTAVO.
+
+El Ejecutivo del Estado tendrá 180 días a partir de la entrada en vigor de esta ley, para elaborar y presentar el Programa Estratégico de Desarrollo para el Sector Agua del Estado, y elaborar el Programa Hidráulico de la Administración para el presente periodo constitucional de gobierno. A su vez, determinará si es menester hacer adecuaciones al Plan Estatal de Desarrollo 2005-2010.
+
+###### ARTICULO NOVENO.
+
+En tanto se determinan los precios y tarifas por la prestación de los servicios públicos que se regulan en esta Ley, los prestadores de estos servicios públicos continuarán aplicando las cuotas y tarifas que hasta esta fecha se aplican.
+
+###### ARTICULO DECIMO.
+
+En tanto se formalizan nuevos contratos entre prestador y usuario para la prestación de los servicios conforme a esta ley, seguirán vigentes los celebrados con el organismo operador, mismos que para los servicios futuros se ajustarán a lo dispuesto en la presente ley.
+
+Los usuarios están obligados a celebrar un nuevo contrato con el prestador de los servicios a partir de la fecha en que sean requeridos para ello. Este acto jurídico no implicará costo alguno para el usuario.
+
+###### ARTICULO UNDECIMO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor de esta ley, serán resueltos conforme a las disposiciones del ordenamiento que se abroga.
+
+###### ARTICULO DUODECIMO.
+
+Cuando a la entrada en vigor de esta ley existan dos o más casas habitación o locales con diferentes usos del agua haciendo uso del servicio por medio de una sola toma de agua, el prestador de los servicios públicos deberá realizar convenios con los usuarios con la finalidad de cumplir con lo establecido en el artículo 121 párrafo 3 de este ordenamiento.
+
+###### ARTICULO DECIMO TERCERO.
+
+Los propietarios de los predios que a la entrada en vigor de esta Ley, tengan instalada la infraestructura mencionada en el artículo 123 párrafo 1 de este ordenamiento dentro de los predios, estarán obligados a aceptar la reubicación de dicha infraestructura para cumplir con lo establecido en ese precepto.
+
+###### ARTICULO DECIMO CUARTO.
+
+Cuando a la entrada en vigencia de esta ley existan tomas domiciliarias sin aparato medidor, se estimará un consumo promedio de acuerdo a las fórmulas que se establezcan en la normatividad operativa para el Estado, para efectos de aplicar los precios y tarifas para el cobro de los servicios públicos.
+
+Sin perjuicio de lo establecido en el párrafo anterior, el prestador de los servicios establecerá un tiempo determinado máximo para que se instale un aparato medidor y se cobren los servicios públicos en función al consumo realmente servido.
+
+###### ARTICULO DECIMO QUINTO.
+
+Los condóminos o aquellos usuarios que a la entrada en vigor de esta ley se surtan del servicio con una sola toma, estarán obligados a organizar un comité, el cual se encargará de recolectar el importe del recibo y pagarlo en las cajas autorizadas por el prestador de los servicios públicos. En el entendido que de no pagar en los tiempos establecidos, implicará ser acreedores a las sanciones previstas por esta ley.
+
+###### ARTICULO DECIMO SEXTO.
+
+A partir de la entrada en vigor de la presente ley, los prestadores de los servicios públicos deberán incluir en los programas mencionados en el Título Cuarto de este ordenamiento, la construcción de la infraestructura necesaria para dar cumplimiento a lo establecido en el artículo 160.
