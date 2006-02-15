@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-civiles-del-estado-de-chihuahua-9883"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2005-12-10"
+last_updated: "2006-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2006.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -361,11 +361,31 @@ Si la excepción es declarada procedente, se condenará en costas, daños y perj
 
 ## TITULO SEGUNDO. REGLAS GENERALES DEL PROCEDIMIENTO
 
-### CAPITULO I. De la personalidad y capacidad de las partes
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE FEBRERO DE 2006)</small>
 
-60.- Todo el que conforme a la ley esté en ejercicio de sus derechos civiles, puede comparecer en juicio por sí o por apoderado con poder bastante.
+### CAPITULO I. De la capacidad, la personalidad y la representación procesal
 
-Por los que no se hallen en el caso a que se refiere el párrafo que antecede comparecerán sus representantes legítimos, los que deban suplir su incapacidad conforme a derecho, o los apoderados de éstos nombrados con arreglo a la ley.
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2006)</small>
+
+60.- Quien tenga capacidad de ejercicio podrá autorizar para oír notificaciones en su nombre, a licenciado en derecho con título profesional registrado y autorizado por la Oficina Estatal de Profesiones o por la Secretaría de Educación Pública, para el ejercicio de su profesión, quien se entenderá investido de la personalidad del autorizante, con facultades para promover, ofrecer y desahogar pruebas, interponer los recursos que procedan, alegar en las audiencias, y todas las necesarias para realizar cualquier acto en el proceso en defensa de los derechos del autorizante, con excepción de las de substituir la autorización, delegar facultades, desistirse de la acción, de la demanda, excepciones, o recursos, transigir, comprometer en árbitros o de celebrar convenios, sean dentro o fuera del proceso.
+
+El o los profesionales acreditarán fehacientemente contar con la autorización a que se refiere el párrafo anterior; en caso contrario, el juez rechazará su intervención, subsistiendo las relativas al penúltimo párrafo de este artículo. En su caso, para tener por acreditada la autorización oficial, se anexará al expediente copia certificada de la cédula profesional correspondiente, dándose vista a la contraria por el término de tres días a efecto de que manifieste lo que a su interés convenga.
+
+De ser varios los autorizados, nombrarán un representante común; aquéllos podrán renunciar a la calidad otorgada, manifestando las causas que la provocaron.
+
+Así mismo, las partes podrán autorizar a personas solamente para oír notificaciones, recibir documentos e imponerse de los autos.
+
+Si alguna de las partes pertenece a un pueblo o comunidad indígena, cerciorado el juez de esta circunstancia, y de que no está asistido en el proceso, lo proveerá de un defensor de oficio, si lo hubiere, con las mismas facultades del segundo párrafo de este artículo, además de suplirle la deficiencia de la queja. Lo mismo se observará cuando se trate de personas en extrema pobreza.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
+
+60 Bis.- Por los incapaces comparecerán:
+
+I. Sus representantes legítimos;
+
+II. Quienes conforme a la ley tengan el deber de suplir la incapacidad;
+
+III. El licenciado en derecho mandatario o apoderado de los dos últimos señalados.
 
 61.- Los ausentes e ignorados serán representados como se previene en el título relativo del Código Civil; pero si a juicio del Tribunal el asunto de que se trate fuere urgente o perjudicial la dilación, el ausente será representado por el Ministerio Público. En este último caso, si se presentare por el ausente una persona que pueda comparecer en juicio, será admitida como gestor judicial.
 
@@ -2431,9 +2451,13 @@ En seguida, firmarán al margen del testamento las personas que hayan intervenid
 
 B.- Declaración de ser formal el testamento ológrafo
 
-535.- El Tribunal competente para conocer de una sucesión que tenga conocimiento de que el autor de la herencia depositó un testamento ológrafo como se dispone en el artículo 1458 del Código Civil, dirigirá oficio al encargado del Registro Público en que se hubiere hecho el depósito, a fin de que le remita el pliego cerrado en que el testador declaró que se contiene su última voluntad.
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2006)</small>
 
-536.- Recibido el pliego, procederá el Tribunal como dispone el artículo 1466 del Código Civil.
+535. El Tribunal competente para conocer de una sucesión que tenga conocimiento de que el autor de la herencia depositó un testamento ológrafo como se dispone en el artículo 1472 del Código Civil, dirigirá oficio al encargado del Registro Público en que se hubiere hecho el depósito, a fin de que le remita el pliego cerrado en que el testador declaró que se contiene su última voluntad.
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2006)</small>
+
+536. Recibido el pliego, procederá el Tribunal como dispone el artículo 1477 del Código Civil.
 
 537.- Si para la debida identificación fuere necesario reconocer la firma que calza el testamento, por no existir los testigos de identificación que hubieren intervenido, o por no estimarse bastante sus declaraciones, el Tribunal nombrará un perito para que confronte la firma con las indubitables que existan del testador, y teniendo en cuenta su dictamen, hará la declaración que corresponda.
 
@@ -2451,9 +2475,13 @@ II.- El que hubiere recibido en él algún encargo del testador.
 
 Para la información se citará al representante del Ministerio Público, quien tendrá obligación de asistir a las declaraciones de los testigos y repreguntarlos para asegurarse de su veracidad.
 
-Los testigos declararán al tenor del interrogatorio respectivo que se sujetará estrictamente a lo dispuesto en el artículo 1479 del Código Civil.
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2006)</small>
 
-Recibidas las declaraciones, el Tribunal procederá con arreglo al artículo 1480 del Código Civil.
+Los testigos declararán al tenor del interrogatorio respectivo que se sujetará estrictamente a lo dispuesto en el artículo 1488 del Código Civil.
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2006)</small>
+
+Recibidas las declaraciones, el Tribunal procederá con arreglo al artículo 1489 del Código Civil.
 
 541.- De la resolución que niegue la declaración solicitada, pueden apelar el promovente y cualquiera de las personas interesadas en la disposición testamentaria; de la que acuerde de conformidad la declaración, puede apelar el representante del Ministerio.
 
@@ -2471,13 +2499,17 @@ Para el examen de los testigos que hayan autorizado el testamento, procederá el
 
 F.- Del testamento hecho en país extranjero
 
-545.- Si el testamento fuere ológrafo, luego que lo reciba el encargado del Registro Público respectivo, tomará razón en el libro a que se refiere el artículo 1462 del Código Civil, asentando acta en que se hará constar haber recibido el pliego del Secretario de Legación, Cónsul o Vicecónsul, por conducto de la Secretaría de Relaciones Exteriores, así como las circunstancias en que se halle la cubierta. En todo lo demás, obrará como se dispone en el Código Civil respecto del testamento ológrafo.
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2006)</small>
+
+545.- Si el testamento fuere ológrafo, luego que lo reciba el encargado del Registro Público respectivo, tomará razón en el libro a que se refiere el artículo 1475 del Código Civil, asentando acta en que se hará constar haber recibido el pliego del Secretario de Legación, Cónsul o Vicecónsul, por conducto de la Secretaría de Relaciones Exteriores, así como las circunstancias en que se halle la cubierta. En todo lo demás, obrará como se dispone en el Código Civil respecto del testamento ológrafo.
 
 546.- El Tribunal competente, iniciado el asunto conforme a la ley, procederá con respecto al testamento público cerrado, al privado, o al ológrafo, con arreglo a las disposiciones que este Código establece para esas clases de testamentos otorgados en el país.
 
 G.- Iniciación del juicio
 
-547.- Presentado el testamento, o cumplidas que fueren las disposiciones anteriores relativas, el juez, sin más trámite, tendrá por radicado el juicio de testamentaria, convocando en el mismo auto a los interesados a una junta para que si hubiere albacea, nombrado en el testamento, se les dé a conocer, o si no lo hubiere, procedan a elegirlo con arreglo a lo prescrito en los artículos 1574, 1575, 1576, 1579 y 1580 del Código Civil.
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2006)</small>
+
+547. Presentado el testamento, o cumplidas que fueren las disposiciones anteriores relativas, el juez, sin más trámite, tendrá por radicado el juicio de testamentaria, convocando en el mismo auto a los interesados a una junta para que si hubiere albacea, nombrado en el testamento, se les dé a conocer, o si no lo hubiere procedan a elegirlo con arreglo a lo prescrito en el Código Civil.
 
 548.- La junta se verificará dentro de los ocho días siguientes a la citación, si la mayoría de los herederos reside en el lugar del juicio. Si la mayoría residiere fuera de dicho lugar, el juez señalará el plazo que crea prudente, atendidas las distancias. La citación se hará en la forma legal.
 
@@ -4696,3 +4728,15 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 10 DE DICIEMBRE DE 2005.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado.
+
+P.O. 15 DE FEBRERO DE 2006.
+
+DECRETO 361/05 I P.O.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE FEBRERO DE 2006.
+
+DECRETO 518/05 I P.O.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
