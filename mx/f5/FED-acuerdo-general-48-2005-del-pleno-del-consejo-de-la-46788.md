@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-48-2005-del-pleno-del-consejo-de-la-46788"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-11-09"
-last_updated: "2005-12-01"
+last_updated: "2006-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46788&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,15 +19,13 @@ issue_date: "2005-11-09"
 ---
 # ACUERDO GENERAL 48/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [BASES DEL PRIMER CONCURSO INTERNO DE OPOSICION PARA DESIGNACION DE JUECES DE DTO. ESPECIALIZADOS EN PENAL, ADMINISTRATIVA, Y COMPETENCIA MIXTA]
 
-ACUERDO GENERAL 48/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE FIJA LAS BASES DEL PRIMER CONCURSO INTERNO DE OPOSICIÓN PARA LA DESIGNACIÓN DE JUECES DE DISTRITO ESPECIALIZADOS EN MATERIA PENAL Y EN MATERIA ADMINISTRATIVA, ASÍ COMO PARA LA DESIGNACIÓN DE JUECES DE DISTRITO DE COMPETENCIA MIXTA, ES DECIR, QUE COMPRENDE TODAS LAS MATERIAS DEL CONOCIMIENTO DE LOS JUZGADOS DE DISTRITO
+ACUERDO GENERAL 48/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE FIJA LAS BASES DEL PRIMER CONCURSO INTERNO DE OPOSICION PARA LA DESIGNACION DE JUECES DE DISTRITO ESPECIALIZADOS EN MATERIA PENAL Y EN MATERIA ADMINISTRATIVA, ASI COMO PARA LA DESIGNACION DE JUECES DE DISTRITO DE COMPETENCIA MIXTA, ES DECIR, QUE COMPRENDE TODAS LAS MATERIAS DEL CONOCIMIENTO DE LOS JUZGADOS DE DISTRITO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO 14/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, SE MODIFICA EL ACUERDO GENERAL 48/2005, QUE FIJA LAS BASES DEL PRIMER CONCURSO INTERNO DE OPOSICION PARA LA DESIGNACION DE JUECES DE DISTRITO ESPECIALIZADOS EN MATERIA PENAL Y EN MATERIA ADMINISTRATIVA, ASI COMO PARA LA DESIGNACION DE JUECES DE DISTRITO DE COMPETENCIA MIXTA, A FIN DE CUBRIR, ADEMAS DE LAS DIEZ PLAZAS INDICADAS EN DICHO ACUERDO EN LA MATERIA PENAL, CATORCE PLAZAS MAS EN JUZGADOS ESPECIALIZADOS EN ESA MATERIA, DANDO UN TOTAL DE VEINTICUATRO PLAZAS SUJETAS A CONCURSO, CON MOTIVO DE LA CREACION DE NUEVOS JUZGADOS FEDERALES Y LA PROMOCION DE JUECES DE DISTRITO A LA CATEGORIA DE MAGISTRADOS DE CIRCUITO.</small>
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACIÓN DEL 1 DE DICIEMBRE DE 2005.</small>
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE FEBRERO DE 2006.
 
 Acuerdo publicado en la Novena Época, Tomo XXII, en la Sección tercera del Semanario Judicial de la Federación y su Gaceta, el miércoles 9 de noviembre de 2005.
-
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
 
 ACUERDO GENERAL 48/2005, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE FIJA LAS BASES DEL PRIMER CONCURSO INTERNO DE OPOSICION PARA LA DESIGNACION DE JUECES DE DISTRITO ESPECIALIZADOS EN MATERIA PENAL Y EN MATERIA ADMINISTRATIVA, ASI COMO PARA LA DESIGNACION DE JUECES DE DISTRITO DE COMPETENCIA MIXTA, ES DECIR, QUE COMPRENDE TODAS LAS MATERIAS DEL CONOCIMIENTO DE LOS JUZGADOS DE DISTRITO.
 
@@ -91,7 +89,7 @@ QUINTO.- Durante los días hábiles comprendidos del veintinueve de noviembre al
 
 2) Copia certificada del acta de nacimiento, del título y de la cédula profesionales, expedidos por las autoridades competentes;
 
-> <small>(F. DE E., D.O.F. 1 DE DICIEMBRE DE 2005)</small>
+> <small>(F. DE E., S.J.F. 1 DE DICIEMBRE DE 2005)</small>
 
 3) Constancia expedida por la Dirección General de Recursos Humanos del Consejo de la Judicatura Federal o por la correspondiente de la Suprema Corte de Justicia de la Nación en el ámbito de su respectiva competencia, que acredite la antigüedad del interesado en el Poder Judicial de la Federación, las categorías desempeñadas en él, así como el período en que se desempeñó en cada una de ellas;
 
@@ -198,3 +196,11 @@ PRIMERO.- Emítase la Convocatoria correspondiente.
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y en uno de los diarios de mayor circulación nacional.
 
 EL MAESTRO EN DERECHO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 48/2005 que fija las Bases del Primer Concurso Interno de Oposición para la Designación de Jueces de Distrito Especializados en materia Penal y en materia Administrativa, así como para la Designación de Jueces de Distrito de competencia mixta, es decir, que comprende todas las materias del conocimiento de los Juzgados de Distrito, fue aprobado por el Pleno del propio Consejo en sesión de nueve de noviembre de dos mil cinco, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Luis María Aguilar Morales, Adolfo O. Aragón Mendía, Constancio Carrasco Daza, Elvia Rosa Díaz de León D'Hers, María Teresa Herrera Tello y Miguel A. Quirós Pérez.- México, Distrito Federal, a diez de noviembre de dos mil cinco.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 16 DE FEBRERO DE 2006.
+
+PRIMERO.- Publíquese este acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y en uno de los diarios de mayor circulación nacional.
+
+SEGUNDO.- En la misma forma, publíquese la lista correspondiente.
