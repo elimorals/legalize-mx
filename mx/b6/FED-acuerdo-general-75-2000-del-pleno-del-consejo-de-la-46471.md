@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-75-2000-del-pleno-del-consejo-de-la-46471"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2000-11-17"
-last_updated: "2005-12-22"
+last_updated: "2006-02-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46471&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-11-10"
 
 ACUERDO GENERAL 75/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE FIJA LAS BASES PARA QUE LAS ADQUISICIONES, ARRENDAMIENTOS, PRESTACION DE SERVICIOS Y OBRA PUBLICA EN EL CONSEJO DE LA JUDICATURA FEDERAL, SE AJUSTEN A LOS CRITERIOS CONTEMPLADOS EN EL ARTICULO 134 CONSTITUCIONAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE FEBRERO DE 2006.
 
 Acuerdo publicado en la Primera Sección Diario Oficial de la Federación, el viernes 17 de noviembre de 2000.
 
@@ -141,7 +141,7 @@ COMPONENTES DE OBRA PUBLICA. Dentro de la obra pública se comprenden:
 
 > <small>(REFORMADA POR EL ARTICULO UNICO DEL ACUERDO GENERAL 53/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE DICIEMBRE DE 2005)</small>
 
-I. La construcción, adaptación, conservación, mantenimiento, reparación, demolición, remodelación, rehabilitación, instalación, ampliación, adecuación, restauración y modificación de bienes inmuebles, y
+I. La construcción, adaptación, conservación, mantenimiento, reparación, demolición, remodelación, rehabilitación, instalación, ampliación, adecuación, restauración y modificación de bienes inmuebles, y (sic)
 
 > <small>(REFORMADA POR EL ARTICULO UNICO DEL ACUERDO GENERAL 40/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE JUNIO DE 2004)</small>
 
@@ -157,7 +157,11 @@ Los estudios económicos y de planeación de preinversión, factibilidad técnic
 
 Los trabajos de coordinación, supervisión y control de obra; de laboratorio de análisis y control de calidad; de resistencia de materiales; de preparación de especificaciones de construcción, presupuestación o la elaboración de cualquier otro documento o trabajo para la adjudicación del contrato de obra correspondiente, y
 
-Todos aquellos análogos a los antes enunciados.
+Todos aquellos análogos a los antes enunciados;
+
+> <small>(ADICIONADA POR EL ARTICULO UNICO DEL ACUERDO GENERAL 11/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE FEBRERO DE 2006)</small>
+
+III. Los proyectos integrales o llave en mano, que son aquéllas contrataciones en las cuales el contratista se obliga desde la realización del proyecto ejecutivo de la obra, hasta su terminación total, incluyéndose, cuando se requiera, la transferencia de tecnología.
 
 ###### ARTICULO 9o.
 
@@ -1045,7 +1049,9 @@ Debiendo contarse con:
 
 8. Presupuesto obtenido por aplicación paramétrica de precios unitarios convencionales de obra.
 
-La persona física o moral a quien se haya adjudicado la elaboración de un proyecto ejecutivo o la supervisión de una obra, no podrá participar también en su ejecución material.
+> <small>(REFORMADO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 11/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE FEBRERO DE 2006)</small>
+
+La persona física o moral a quien se haya adjudicado la supervisión de una obra, o la elaboración del proyecto ejecutivo de la misma, no podrá participar también en su ejecución material. Quedan exceptuados de lo anterior los proyectos integrales o llave en mano, los que comprenderán solamente el diseño de la obra y su ejecución total, no así la supervisión.
 
 El área operativa propondrá al Comité el monto de los anticipos que deban otorgarse, presentando las justificaciones y soportes técnicos que se requieran y el Comité, previo informe que rinda a la Comisión, será quien determine lo procedente, siempre y cuando no rebasen los montos a que se refiere el artículo 80 de este Acuerdo.
 
@@ -1143,21 +1149,25 @@ IV. Su vigencia no excederá del ejercicio presupuestal correspondiente al en qu
 
 V. En los contratos se establecerá la periodicidad con que se efectuará el pago de los bienes entregados o de los servicios prestados.
 
+> <small>(REFORMADO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 11/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE FEBRERO DE 2006)</small>
+
 ###### ARTICULO 78.
 
-DE LOS CONTRATOS DE OBRA PUBLICA. Tratándose de obra pública, los contratos podrán ser de dos tipos:
+DE LOS CONTRATOS DE OBRA PUBLICA. Tratándose de obra pública, los contratos podrán ser de tres tipos:
 
-l. Sobre la base de precios unitarios y tiempo determinado, en cuyo caso, el importe de la remuneración o pago total que deba cubrirse al contratista se hará por unidad de concepto de trabajo terminado, ejecutado conforme al proyecto, especificaciones de construcción y normas de calidad; y,
+I. Sobre la bases de precios unitarios y tiempo determinado, en cuyo caso, el importe de la remuneración o pago total que deba cubrirse a la contratista se hará por unidad de concepto de trabajo terminado, ejecutado conforme al proyecto, especificaciones de construcción y normas de calidad;
 
-II. A precio alzado, en cuyo caso, el importe de la remuneración o pago total fijo que deba cubrirse al contratista deberá estar desglosado por actividades principales o por la obra totalmente terminada, ejecutada en el plazo establecido, conforme al proyecto, especificaciones y normas de calidad requeridas. Cuando se cuente con proyectos integrales, los contratos se celebrarán a precio alzado. Los contratos de este tipo no podrán ser modificados en cuanto a monto o plazo, ni estarán sujetos a ajustes de costos.
+II. A precio alzado, en cuyo caso, el importe de la remuneración o pago total fijo que deba cubrirse al contratista deberá estar desglosado por actividades principales o por la obra totalmente terminada, ejecutada en el plazo establecido, conforme al proyecto, especificaciones y normas de calidad requeridas; y
 
-> <small>(ADICIONADO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 40/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE JUNIO DE 2004)</small>
+III. Mixtos, cuando contengan una parte de los trabajos sobre la base de precios unitarios y otra a precio alzado.
 
-Sin embargo, cuando se presenten circunstancias no previstas por las partes con posterioridad a la adjudicación del contrato, que pudieran dar lugar a un aumento o reducción de los costos, la Comisión tomando en consideración las causas y razonamientos del caso, que le presente el Comité, resolverá lo procedente.
+En el contrato deberán indicarse las actividades que quedarán comprendidas en la modalidad de precios unitarios y las que correspondan a precio alzado, las cuales quedarán sujetas a las disposiciones que este Acuerdo establece para cada uno de este tipo de contratos.
 
-> <small>(REFORMADO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 53/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE DICIEMBRE DE 2005)</small>
+Los contratos a precio alzado o la parte de los mixtos de esta naturaleza, no podrán ser modificados en cuanto a monto o plazo, ni estarán sujetos a ajustes de costos. Sin embargo, cuando se presenten circunstancias no previstas por las partes con posterioridad a la adjudicación del contrato, que pudieran dar lugar a un aumento o reducción de los costos, la Comisión, tomando en consideración las causas y razonamientos del caso que le presente el Comité, resolverá lo procedente.
 
-Cuando se haya cumplido con lo estipulado en el artículo 91 de este Acuerdo, se procederá al pago restante del monto total del contrato, conforme a lo establecido en las bases.
+Los proyectos integrales o llave en mano, preferentemente se celebrarán bajo la modalidad de contratos mixtos y solamente se podrán llevar a cabo cuando se encuentren así considerados dentro del Programa Anual de Obra del Consejo.
+
+Cuando se haya cumplido con lo estipulado en el artículo 91 de este Acuerdo, se procederá al pago restante del monto total contratado, conforme a lo establecido en las bases.
 
 ###### ARTICULO 79.
 
@@ -1606,3 +1616,11 @@ SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación
 TERCERO.- Se deroga cualquier disposición emitida por este Consejo de la Judicatura Federal que se oponga al presente Acuerdo.
 
 CUARTO.- Los procedimientos adjudicatorios regulados por el presente Acuerdo que se hayan iniciado con anterioridad a la entrada en vigor de este Acuerdo, se regirán por la normativa que se venía aplicando.
+
+D.O.F. 17 DE FEBRERO DE 2006.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- Se deroga cualquier disposición emitida por este Consejo de la Judicatura Federal que se oponga al presente Acuerdo.
