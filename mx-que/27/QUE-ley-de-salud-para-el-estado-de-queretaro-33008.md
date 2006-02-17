@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-salud-para-el-estado-de-queretaro-33008"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-11"
-last_updated: "2003-07-11"
+last_updated: "2006-02-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE SALUD PARA EL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE FEBRERO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 11 de julio de 2003.
 
@@ -185,7 +185,11 @@ XXXVI.- Transporte urbano y suburbano, todo vehículo destinado al traslado de c
 
 XXXVII.- Usuario del servicio de salud, a toda persona que requiera y obtenga los servicios de salud que presten los sectores públicos, social y privado, en las condiciones y conforme a las bases que para cada modalidad se establezcan en esta Ley y demás disposiciones aplicables;
 
-XXXVIII.- Venta de alimentos en la vía pública, actividad que se realiza en calles, plazas públicas, en concentraciones por festividades populares y por comerciantes ambulantes.
+XXXVIII.- Venta de alimentos en la vía pública, actividad que se realiza en calles, plazas públicas, en concentraciones por festividades populares y por comerciantes ambulantes;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2006)</small>
+
+XXXIX.- Atención médica prehospitalaria, aquélla que brinda el sector público, privado y social, a través del técnico en urgencias médicas al identificar, evaluar e intervenir en situaciones de emergencia y/o urgencia médica para salvaguardar la vida de los usuarios y prevenirles lesiones subsecuentes, en el mismo sitio donde ocurre el incidente, así como durante su atención y traslado, en unidades móviles tipo ambulancia, hasta el servicio hospitalario que le prestará la atención médica definitiva, con base en el conocimiento, habilidades, destreza y aptitudes adquiridas, empleando para ello el equipo y tecnología vigente, y respetando la dignidad, costumbres y creencias del paciente.
 
 ###### ARTÍCULO 5.
 
@@ -393,9 +397,11 @@ Podrán asistir a las sesiones ordinarias, a invitación del Presidente del Cons
 
 El cargo de miembros del Consejo Estatal de Salud será honorífico, y en el caso de las fracciones I a III de este artículo, cada uno de los titulares tienen derecho a voz y voto y podrán nombrar a un suplente con carácter de permanente, quien contará con las facultades decisorias que le permitan adoptar los acuerdos que correspondan.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE FEBRERO DE 2006)</small>
+
 ###### ARTÍCULO 14.
 
-Para el Cumplimiento de su Objeto, el Consejo Estatal de Salud, tendrá las siguientes atribuciones:
+Para el cumplimiento de su objeto, El Consejo Estatal de Salud, tendrá las siguientes atribuciones:
 
 I.- Dirigir las acciones encaminadas a la realización y actualización del diagnóstico de salud estatal.
 
@@ -423,7 +429,11 @@ XII.- Vigilar el adecuado aprovechamiento de los recursos sectoriales y asistenc
 
 XIII.- Evaluar el impacto de las acciones sectoriales y de coordinación con los sectores público, social y privado tanto en el ámbito estatal como municipal.
 
-XIV.- Las demás que le asigne el Ejecutivo Estatal, de conformidad con las disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2006)</small>
+
+XIV.- Definir, en general, los mecanismos y acciones que permitan la creación y actualización del registro de los técnicos en urgencias médicas y de las unidades móviles tipo ambulancia, así como el control, la supervisión y la evaluación de sus actividades, en coordinación con los sectores público, privado y social.
+
+XV.- Las demás que le asigne el Ejecutivo Estatal, de conformidad con las disposiciones aplicables.
 
 ###### ARTÍCULO 15.
 
@@ -711,6 +721,10 @@ IV.- Otros que se presten de conformidad con lo que establezca la autoridad sani
 
 Son servicios públicos a la población en general los que se presten en establecimientos públicos de salud a los habitantes del Estado de Querétaro que así lo requieran, regidos por criterios de universalidad, equidad y beneficio social, fundada en las condiciones socioeconómicas de los usuarios.
 
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+ARTÍCULO 44 BIS.- Los servicios de atención médica prehospitalaria que presten los técnicos en urgencias médicas y las unidades móviles tipo ambulancias, se regirán por la norma oficial mexicana que corresponda.
+
 ###### ARTÍCULO 45.
 
 Las cuotas de recuperación que en su caso se recauden por la prestación de servicios de salud se ajustarán a lo que disponga la legislación fiscal aplicable del Estado y el acuerdo de coordinación celebrado en la materia con el Ejecutivo Federal.
@@ -803,7 +817,9 @@ II.- Una atención terminal humanitaria.
 
 Los usuarios tendrán derecho a obtener prestaciones de salud oportunas y de calidad idónea y a recibir atención profesional y éticamente responsable, así como trato respetuoso y digno de los profesionales, técnicos y auxiliares.
 
-Los grupos de urgencia y rescate privados que en casos de accidentes y desastres vienen prestando auxilio dentro del territorio del Estado deberán sujetar su labor altruista conforme lo establezca el reglamento que para tal efecto se emita.
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+Los técnicos en urgencias médicas y las unidades móviles tipo ambulancia, así como otros grupos de urgencia y rescate públicos, privados y sociales que presten servicios de atención médica prehospitalaria, en casos de accidentes y desastres, dentro del territorio del Estado, deberán sujetar su labor a lo que establezca el reglamento que para tal efecto se emita.
 
 ###### ARTÍCULO 59.
 
@@ -2602,3 +2618,19 @@ LIC. BERNARDO GARCIA CAMINO
 SECRETARIO DE GOBIERNO
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE FEBRERO DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+El Titular del Ejecutivo del Estado deberá, según sea el caso, realizar los cambios correspondientes al Reglamento interior del Organismo Público Descentralizado denominado Servicios de Salud del Estado de Querétaro (SESEQ), en un plazo no mayor de ciento ochenta días hábiles posteriores a la publicación de esta Ley.
+
+###### ARTÍCULO TERCERO.
+
+El Titular del Ejecutivo del Estado deberá expedir el Reglamento al que se hace referencia en el artículo 58 de la presente Ley, en un plazo no mayor de ciento ochenta días hábiles posteriores a la publicación de esta Ley.
