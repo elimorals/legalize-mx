@@ -4,7 +4,7 @@ identifier: "BCN-ley-contra-la-delincuencia-organizada-para-el-estado-de-36589"
 country: "mx"
 rank: "ley"
 publication_date: "2004-01-02"
-last_updated: "2005-11-18"
+last_updated: "2006-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36589&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY CONTRA LA DELINCUENCIA ORGANIZADA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE FEBRERO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 2 de enero de 2004.
 
@@ -61,15 +61,17 @@ VII. Subprocuraduría contra la Delincuencia Organizada: La unidad de la Procura
 
 IX. Subprocurador: El titular de la Subprocuraduría Contra la Delincuencia Organizada.
 
-###### ARTICULO 3.
+###### ARTÍCULO 3.
 
 Son aplicables supletoriamente a esta Ley, las disposiciones del Código Penal, Código de Procedimientos Penales, Ley de Ejecución, Ley Orgánica del Poder Judicial del Estado de Baja California, las comprendidas en leyes especiales.
 
 Asimismo, es aplicable supletoriamente a esta Ley, la Ley Federal Contra la Delincuencia Organizada y la Ley Orgánica del Poder Judicial de la Federación cuando intervengan autoridades jurisdiccionales federales, en materia de interposición de recursos, solicitud de intervención de comunicaciones, término para su resolución, negativa de la solicitud, características, modalidades, límites, prórroga, tipos de comunicaciones escuchadas o interceptadas, lugares que serán vigilados y período en que se realizarán las intervenciones.
 
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
 ###### ARTÍCULO 4.
 
-Cuando tres o más personas de manera conjunta acuerden organizarse o se organicen para realizar en forma reiterada o permanente conductas que por sí o unidas a otras, tengan como fin o resultado cometer alguno o algunos de los delitos siguientes, serán sancionados por ese solo hecho como Miembros de la Delincuencia Organizada:
+Cuando tres o más personas de manera conjunta acuerden organizarse o se organicen para realizar en forma reiterada o permanente, conductas que por sí o unidas a otras, tengan como fin o resultado cometer alguno o algunos de los delitos siguientes, serán sancionados por ese solo hecho como Miembros de la Delincuencia Organizada:
 
 I. Homicidio, previsto en los artículos 123 y 147 del Código Penal;
 
@@ -85,29 +87,19 @@ VI. Robo de Vehículo, previsto por el artículo 208 Bis del Código Penal;
 
 VII. Asalto, previsto en los artículos 172 y 173 del Código Penal;
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+VIII. Tráfico de menores, previsto en el artículo 238 en sus párrafos primero y quinto del Código Penal;
 
-VIII. Tráfico de personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho, descrito por el artículo 238 del Código Penal;
+IX. Lenocinio, previsto en los artículos 265, 266 y 267 del Código Penal;
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
-
-IX. Lenocinio previsto en los artículos 265, 265-BIS, 265-TER y 265-QUATER del Código Penal;
-
-X. Falsificación de documentos, previsto por el artículo 259 del Código Penal, y (sic)
+X. Falsificación de documentos, previsto por el artículo 259 del Código Penal;
 
 XI. Abigeato, previsto por los artículos 209 y 212 del Código Penal;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+XII. (DEROGADA, P.O. 17 DE FEBRERO DE 2006)
 
-XII. Pornografía de personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho, establecido en el artículo 261 TER del Código Penal;
+XIII. (DEROGADA, P.O. 17 DE FEBRERO DE 2006)
 
-> <small>(REFORMADA [N. DE E. ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
-
-XIII. Turismo Sexual con personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho, previsto en el artículo 261 QUATER del Código Penal;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
-
-XIV. Trata de personas, y trata de personas menores de dieciocho años de edad o de personas que no tengan la capacidad para comprender el significado del hecho, tipificado en los artículos 266 y 266-BOS del Código Penal; (sic)
+XIV. (DEROGADA, P.O. 17 DE FEBRERO DE 2006)
 
 ###### ARTÍCULO 5.
 
@@ -314,3 +306,11 @@ P.O. 18 DE NOVIEMBRE DE 2005.
 PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presentes reformas.
+
+P.O. 17 DE FEBRERO DE 2006.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones contrarias a las presentes reformas.
+
+TERCERO.- Esta nueva legislación podrá aplicarse a hechos surgidos bajo la vigencia de la reforma anterior, en lo que beneficie al responsable del delito, tal y como lo establece el artículo 8 del Código Penal del Estado de Baja California.
