@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2006-02-15"
+last_updated: "2006-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CODIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE FEBRERO DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -2635,7 +2635,7 @@ Cuando algún vehículo sufra desperfectos en la vía pública, deberá ser reti
 
 ###### Artículo 296.
 
-Queda prohibido el estacionamiento de vehículos de toda clase en la vía pública por mas de treinta minutos, para realizar trabajos de compostura de algún desperfecto o reparaciones motivadas por casos de emergencia o de fuerza mayor. Los talleres o particulares que se dedican a la reparación de automóviles, bajo ningún concepto podrán hacerlo en la vía pública.
+Queda prohibido el estacionamiento de vehículos de toda clase en la vía pública por más de treinta minutos, para realizar trabajos de compostura de algún desperfecto o reparaciones motivadas por casos de emergencia o de fuerza mayor. Los talleres o particulares que se dedican a la reparación de automóviles, bajo ningún concepto podrán hacerlo en la vía pública.
 
 ###### Artículo 297.
 
@@ -3485,7 +3485,7 @@ XXIV. INSTRUMENTOS DE PROTECCIÓN CIVIL: Toda aquella información contenida en 
 
 XXV. FONDO DE CONTINGENCIA: Recursos destinados al apoyo de damnificados;
 
-XXVI. GRUPOS VOLUNTARIOS: Las organizaciones, asociaciones o instituciones que prestan sus servicios en actividades de protección civil de manera solidaria, sin recibir renumeración (sic) alguna;
+XXVI. GRUPOS VOLUNTARIOS: Las organizaciones, asociaciones o instituciones que prestan sus servicios en actividades de protección civil de manera solidaria, sin recibir renumeración alguna;
 
 XXVII. INSPECTOR HONORARIO: El ciudadano que sin tener función administrativa ni remuneración presta colaboración a la sociedad, en coordinación con las autoridades respectivas para el cumplimiento del presente Capítulo;
 
@@ -5603,7 +5603,7 @@ Sólo serán refrendadas las licencias de funcionamiento de los establecimientos
 
 ###### Artículo 608.
 
-Es facultad del Presidente Municipal prohibir la venta, enajenación y consumo de bebidas alcohólicas en días y horas determinados, dando a conocer esta disposición, así como las sanciones en caso de incumplimiento que se aplicarán a quienes infrinjan las mismas, a través de los medios masivos de comunicación, al público en general, por lo menos con cuarenta y ocho horas de anticipación.
+Es facultad del Presidente Municipal prohibir la venta, enajenación y consumo de bebidas alcohólicas en días y horas determinados, dando a conocer esta disposición, así como las sanciones en caso de incumplimiento que se aplicarán a quienes infrinjan las mismas, a través de los medios masivos de comunicación, al publico en general, por lo menos con cuarenta y ocho horas de anticipación.
 
 La prohibición a que se refiere el párrafo anterior, se aplicará invariablemente el día en que se realicen elecciones Constitucionales o de Juntas Auxiliares.
 
@@ -8891,6 +8891,10 @@ Toda construcción contará con sistemas separados.
 
 c). La profundidad máxima será aquella que no ofrezca dificultades constructivas mayores, por virtud de las características físicas del terreno en que quedará alojado el conducto y por otra parte, que no obligue al tendido de ramales laterales, que le entreguen en el pozo de visita inmediato las aportaciones de las descargas domiciliarias, la cuantificación de la profundidad máxima, obliga a un estudio económico entre el costo de la instalación del conducto principal con sus albañales y el del ramal o ramales laterales incluyendo los albañales respectivos.
 
+## TÍTULO ÚNICO
+
+> <small>(ADICIONADO CON LOS TITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+
 ###### Artículo 914.
 
 Los sistemas de alcantarillado y drenaje se instalarán a la profundidad adecuada que permitan la libre conexión de sus interceptores correspondientes.
@@ -10133,7 +10137,7 @@ Donde:
 
 Los coeficientes de proporcionalidad a1 y a2 están dados por las siguientes expresiones:
 
-a¡ = (1-r(1-q)W¡)
+a¡ = (1-r(-q)W¡
 
 W¡h¡
 
@@ -10255,7 +10259,7 @@ Para calcular la participación de cada modo natural en las fuerzas laterales qu
 
 Las respuestas modales Ri, donde Ri puede ser fuerza cortante, desplazamiento lateral, momento de volteo, etc., se combinarán para calcular las respuestas totales R de acuerdo con la expresión.
 
-R=(¡R2¡)1/2
+R = (¡R2¡)1/2
 
 Siempre que los períodos de los modos naturales difieran al menos 10 por ciento entre sí. Para las respuestas en modos naturales que no cumplen esta condición se tendrá en cuenta el acoplamiento entre ellos. Los desplazamientos laterales así calculados habrán de multiplicarse por o para calcular efectos de segundo orden, así como para verificar que la estructura no alcanza ninguno de los estados límite de servicio a los que hace referencia el presente Capítulo.
 
@@ -14305,17 +14309,23 @@ III. Se aplicarán sin perjuicio de la responsabilidad civil o penal que pudiera
 
 DE LAS SANCIONES Y DE LOS MEDIOS DE DEFENSA
 
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
 ###### Artículo 1336.
 
-En el caso de que el retiro de un anuncio sea efectuado por la autoridad, el material que resulte quedará bajo resguardo de la misma en el lugar que para el efecto se destine, hasta por un plazo de 2 meses contados a partir de la fecha en que se realice el retiro, a cuyo vencimiento se estará a lo dispuesto en el Código Fiscal y presupuestario del Municipio de Puebla.
+La aplicación del presente apartado, estará a cargo de la Secretaría de Administración Urbana, Obra Pública y Ecología, a través de la Dirección de Administración Urbana y la Dirección de Imagen y Equipamiento Urbano.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+Artículo 1336 bis.- En el caso de que el retiro de un anuncio sea efectuado por la autoridad, el material que resulte quedará bajo resguardo de la misma en el lugar que para el efecto se destine, hasta por un plazo de 2 meses contados a partir de la fecha en que se realice el retiro, a cuyo vencimiento se estará a lo dispuesto en el Código Fiscal y Presupuestario del Municipio de Puebla.
 
 El material que resulte del retiro, podrá ser devuelto a quien lo solicite, debiendo acreditar:
 
 a) Ser su Legítimo propietario;
 
-b) Efectuar el pago de la(s) multa(s) impuesta(s), exhibiendo el recibo correspondiente; y
+b) Efectuar el pago de la(s) multa(s) impuesta(s), y los gastos erogados por el Ayuntamiento en virtud del retiro de anuncio(s); exhibiendo el recibo correspondiente; y
 
-c) Realizar el pago por servicio de almacenaje, en los términos establecidos en el Código Financiero del Municipio de Puebla.
+c) Realizar el pago por el servicio de almacenaje, en los términos establecidos en el Código Financiero del Municipio de Puebla.
 
 ###### Artículo 1337.
 
@@ -14361,6 +14371,12 @@ b) Carezca de licencia y/o permiso.
 
 c) Se determine que por su estado físico constituye un riesgo para la integridad física o los bienes de las personas.
 
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 1338 Bis.
+
+Toda persona Física o Jurídica que no dé cumplimiento a la sanción impuesta por la autoridad competente, en un término de cinco días hábiles, contados a partir del día siguiente al que le fue impuesta la sanción, se procederá a retirar su propaganda publicitaria y los gastos que genere, serán a cargo de los infractores.
+
 ###### Artículo 1339.
 
 Contra todos los actos de las autoridades competentes en relación con las disposiciones de este Capítulo, procederá el recurso de Inconformidad señalado en la Ley Orgánica Municipal.
@@ -14386,6 +14402,14 @@ DE LA PROPAGANDA POLÍTICA Y/O ELECTORAL
 ###### Artículo 1343.
 
 Los anuncios que se utilicen para propaganda política y/o electoral, se sujetarán a las disposiciones que al efecto disponga la Autoridad Municipal, de conformidad con los convenios que celebre con los diversos actores de este sector.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 1343 Bis.
+
+Queda estrictamente prohibido fijar, instalar, y ubicar propaganda político electoral dentro del primer cuadro de la ciudad comprendido -“entre la 13 norte-sur a 14 norte-sur y de 18 oriente-poniente a 11 oriente-poniente”-, aun y cuando sean tiempos electorales, con la finalidad de salvaguardar el patrimonio histórico de la Ciudad de Puebla.
+
+Quien infrinja lo dispuesto por el párrafo anterior, serán sancionados con una multa de 200 a 400 días de salario mínimo general vigente en el Municipio de Puebla.
 
 ###### Artículo 1344.
 
@@ -17395,7 +17419,7 @@ VIII. Alterar o mutilar documentos oficiales que amparen la propiedad o legal pr
 
 IX. Los introductores que infrinjan las disposiciones del presente Capítulo se harán acreedores a las sanciones que al efecto se señalen.
 
-DEL SERVICIO DE REFIGERACIÓN
+DEL SERVICIO DE REFRIGERACIÓN
 
 ###### Artículo 1660.
 
@@ -17957,7 +17981,7 @@ Cualquier documento puede ser consultado cuando se requiera por mandamiento de a
 
 ###### Artículo 1700.
 
-Los empleados del Archivo General Municipal deberán desempeñar sus funciones,, otorgando las facilidades necesarias a los usuarios internos y/o externos para la consulta del Acervo, por lo tanto será responsabilidad del personal:
+Los empleados del Archivo General Municipal deberán desempeñar sus funciones, otorgando las facilidades necesarias a los usuarios internos y/o externos para la consulta del Acervo, por lo tanto será responsabilidad del personal:
 
 I.- Velar por la integridad, autenticidad, veracidad y fidelidad de la información de los documentos del Archivo General Municipal;
 
@@ -18071,7 +18095,7 @@ IV.- Las demás que establezca este Capítulo y la ley vigente.
 
 Los documentos históricos que sean motivo de consulta por parte de usuarios externos, sólo se facilitarán en el área designada para tal fin y por ningún motivo saldrán al exterior.
 
-> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2006)</small>
 
 DEL COMITÉ TÉCNICO DE ARCHIVOS ADMINISTRATIVOS Y SEMIACTIVOS
 
@@ -21349,6 +21373,14 @@ Si un funcionario, Empleado o Trabajador del Municipio de Puebla que estando en 
 
 Si el interesado no gestiona su jubilación dentro de los dos años siguientes a la fecha en que haya dejado de prestar sus servicios al Ayuntamiento, prescribirá su derecho para recibir la pensión que le conceden las disposiciones de este reglamento.
 
+### CAPÍTULO 34. ESPECTÁCULOS DE BOX Y LUCHA LIBRE PARA EL MUNICIPIO DE PUEBLA
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+
+DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
 ###### Artículo 1998.
 
 El objeto del presente capítulo, es fijar las normas para la aplicación del derecho escalafonario de los Trabajadores de Base del Honorable Ayuntamiento de Puebla, regulando los procedimientos para efectuar su promoción de ascenso.
@@ -21616,6 +21648,14 @@ El catalogo de puestos contenido en el presente artículo, atenderá a la estruc
 ###### Artículo 2035.
 
 Los movimientos escalafonarios, serán operados tomando en cuenta el total del salario asignado a cada puesto y cada categoría en el tabulador correspondiente.
+
+### CAPÍTULO 35. "DE LA MEJORA REGULATORIA"
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+
+DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 2036.
 
@@ -22099,6 +22139,2322 @@ Para cubrir la vacante de un Servidor Público que haya obtenido la licencia, la
 
 Cuando por necesidades del servicio público se lleve a cabo una reestructuración o reorganización administrativa que implique supresión o modificación de áreas de las dependencias de la Administración Pública Municipal, el Servidor Público deberá ser reubicado en otra área, sin perjuicio de su Categoría Profesional y Nivel Personal, respetando la residencia de su adscripción.
 
+> <small>(ADICIONADO CON LOS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+
+# LIBRO SÉPTIMO
+
+> <small>(ADICIONADO CON LOS TITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2107.
+
+El presente Capítulo es de interés público, regirá en todos los espectáculos, exhibiciones y presentaciones en que tengan lugar encuentros de Box y Lucha Libre profesionales en el Municipio de Puebla y sus disposiciones se aplicarán por medio de la Comisión Municipal de Box y Lucha Libre, las cuales estarán revestidas de la autoridad necesaria para hacerlo cumplir.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2108.
+
+Son autoridades competentes para la aplicación del presente Capítulo:
+
+I. El Presidente Municipal, quien designará y podrá revocar en cualquier momento, a los miembros de la Comisión Municipal de Box, y Lucha Libre; así mismo tendrá facultades para resolver cualquier discrepancia que surja con motivo de la aplicación o interpretación del presente Capítulo;
+
+II. La Comisión Municipal de Box y Lucha Libre, es un cuerpo técnico en materia de ambos deportes y en su funcionamiento como Órgano Auxiliar será autónomo. Dependerá administrativamente de la Presidencia Municipal. Sus funciones se sujetarán a las prescripciones contenidas en el presente Capítulo y a las señaladas por el Departamento de Espectáculos, para efectos de expedición de las respectivas licencias que permitan la presentación de espectáculos y exhibiciones en que tengan lugar encuentros de Box y Lucha Libre en el Municipio;
+
+III. La Tesorería Municipal, cobrará el respectivo Impuesto Sobre Diversiones y Espectáculos Públicos, de acuerdo a lo establecido por el Título Segundo Capítulo III de la Ley de Ingresos del Municipio de Puebla y de lo establecido por el Título Segundo Capítulo III del Código Fiscal y Presupuestario para el Municipio de Puebla, así como de tener la legitima facultad de intervenir la taquilla, suspender o clausurar espectáculos, exhibiciones o presentaciones en que tengan lugar encuentros de Box y Lucha Libre, por la negativa del pago de este impuesto o cuando se violenten disposiciones previstas en la normatividad fiscal aplicable vigente, y
+
+IV. El Departamento de Espectáculos, quien será el encargado de la estricta observancia del presente Capítulo, del boletaje y precio de entrada, así como lo referente a la expedición de la correspondiente autorización a los lugares en los que se lleve a cabo la presentación de espectáculos y exhibiciones en que tengan lugar encuentros de Box y Lucha Libre en el Municipio.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2109.
+
+Para los efectos del presente Capítulo se entenderá por:
+
+I. La Comisión: La Comisión Municipal de Box y Lucha Libre: Es un cuerpo técnico en materia de ambos deportes. En su funcionamiento como Órgano Auxiliar será autónomo, facultado para expedir licencias que autoricen dentro del Municipio la actuación de los oficiales designados por la misma, así como de los empresarios, promotores, representantes, auxiliares, boxeadores y luchadores, sujetándose a las disposiciones contenidas en el presente Capítulo y demás ordenamientos legales aplicables;
+
+II. Comisionado: Es la persona física nombrada por la Comisión, siendo éste el responsable de cumplir y hacer cumplir las disposiciones del presente Capítulo, como máxima autoridad en los eventos de Box y Lucha Libre, además de que es el encargado de presidir el espectáculo cuyo programa haya sido aprobado con anterioridad por la Comisión;
+
+III. Oficiales: Personas físicas designadas por la Comisión, que son: El jefe del Servicio Médico, los médicos auxiliares, los jueces, los referis, los directores de encuentros, los tomadores de tiempo y los anunciadores, quienes ejercerán sus funciones de acuerdo con las facultades y obligaciones que les señale el presente Capítulo, debiendo contar con la licencia legalmente expedida por la Comisión, que les autorice actuar dentro del Municipio;
+
+IV. Servicio médico: Oficiales designados por la Comisión, encargados de practicar el examen físico completo a los boxeadores, manejadores, auxiliares, luchadores, expidiendo el certificado médico respectivo a su costa, ingresando dicho pago a la Tesorería Municipal;
+
+V. Director de encuentros: Oficial designado por la Comisión, que tiene a su cargo vigilar todas y cada una de las actividades relacionadas con la función de Box y Lucha Libre, salvaguardando el orden y disciplina necesarios;
+
+VI. Jueces: Oficiales designados por la Comisión, que durante la función de Box, llevan la respectiva puntuación del combate entre los contendientes, emitiendo en tarjetas al término de cada "asalto" el conteo de los puntos que a su juicio merezca cada boxeador, haciéndoselas llegar de inmediato al Comisionado en turno;
+
+VII. Referee: Oficiales designados por la Comisión, encargados de hacer cumplir las reglas por las que se rigen ambos deportes, por lo que tendrá supervisión sobre la contienda, actuando para ello dentro del "Cuadrilatero";
+
+VIII. Anunciador: Oficial designado por la Comisión, facultado para hacer la presentación de los oficiales del cuadrilátero nombrados para actuar, fichas técnicas de los contendientes, así como las características específicas de la pelea;
+
+IX. Tomador de tiempo: Oficial designado por la Comisión, encargado de indicar con un toque de campana o un silbato el inicio y fin exacto de cada asalto o caída según el deporte de que se trate;
+
+X. Empresa: Persona moral legalmente constituida, y que cuenta con medios propios y necesarios para presentar en forma permanente o eventual, espectáculos, exhibiciones o presentaciones en que tengan lugar encuentros de Box y Lucha Libre, debiendo contar con la licencia o autorización expedida por el Departamento de Espectáculos, estando obligada a cumplir con las disposiciones del presente Capítulo, y con los acuerdos y resoluciones que emanen de la propia Comisión;
+
+XI. Promotor: Persona física que deberá contar con licencia legalmente expedida por la Comisión que autorice dentro del Municipio permanente o eventualmente, a promover espectáculos de Box y Lucha Libre profesional, considerados como empleados de las empresas, y en consecuencia éstas serán responsables directas de cualquier falta o infracción que cometan;
+
+XII. Representante: Persona física que deberá contar con licencia legalmente expedida por la Comisión que les autorice actuar dentro del Municipio, y que tiene bajo su responsabilidad el impulso e imagen de un boxeador o luchador con la finalidad de buscar el mejor desempeño deportivo y que reditúe en beneficios económicos para los mismos;
+
+XIII. Manejador: Persona física que deberá contar con licencia legalmente expedida por la Comisión que le autorice actuar dentro del Municipio, y que será la encargada de cuidar la forma y condición física de los boxeadores y luchadores, proporcionándoles el adiestramiento técnico necesario;
+
+XIV. Auxiliar: Persona física que deberá contar con la licencia legalmente expedida por la Comisión para poder actuar dentro del Municipio, y que bajo las órdenes de un manejador, se encarga de la preparación, cuidado y atención de los boxeadores o luchadores;
+
+XV. Sparring: Persona física que cuenta con los conocimientos técnicos necesarios en boxeo, que participa en la preparación de un boxeador;
+
+XVI. Boxeador: Es aquella persona física que deberá contar con la licencia legalmente expedida por la Comisión, que le autorice actuar en encuentros o contiendas de Box, recibiendo un emolumento por su actividad;
+
+XVII. Luchador: Persona física que deberá contar con la licencia legalmente expedida por la Comisión, autorizándole a participar en contiendas de Lucha Libre, recibiendo un emolumento por su actividad;
+
+XVIII. Espectáculo de Box: Función deportiva basada en la utilización reglamentaria de los puños contra un adversario:
+
+XIX. Espectáculo de Lucha Libre: Función deportiva en la que se emplean técnicas de inmovilización y rendición, por dos o más personas, así como golpes dentro de ciertas reglas propias de este deporte;
+
+XX. Asalto.- Cada uno de los periodos de combate en un encuentro de boxeo, que consta de tres minutos de pelea efectiva por uno de descanso;
+
+XXI. Caída: Cada uno de los periodos de combate en un encuentro de Lucha Libre, el cual es sin limite de tiempo y termina cuando se logra rendición del oponente por cualquiera de las formas permitidas en este deporte, y
+
+XXII. Cuadrilátero: Es el lugar designado para que se lleven a cabo los encuentros de Box y Lucha Libre, los que contarán con los siguientes requisitos:
+
+a) No será menor de 5 metros ni mayor de 6 metros por cada lado dentro de las cuerdas, se prolongará, fuera de éstas por un espacio no menor de 50 centímetros, ni mayor de 60 centímetros, debiendo ser un cuadrado perfecto.
+
+b) La plataforma del cuadrilátero deberá ser de madera de triplay de pino de 19 milímetros, sólida y regular en su superficie, deberá de estar cubierta de un aglutinado de espuma de poliuretano de 2.5 centímetros, sobre el cual se extenderá una lona de algodón del número 8, que se tensará y sujetará firmemente a los lados y esquinas del cuadrilátero.
+
+c) Para cada una de las esquinas y dejando libre un espacio de 50 a 60 centímetros, contará con un poste metálico de 10 a 17 centímetros de diámetro, con una altura partiendo del piso del local, no menor de 2.40 metros y no mayor de 2.70 metros. En cada poste del cuadrilátero (en el Box), contará con la conexión de un embudo, el cual estará unido a una manguera que sirva de desagüe, debiendo estar sostenida a una altura apropiada a la posición de descanso del boxeador. En las esquinas deberá contar con escalerillas, que sirvan de acceso al mismo, así como en cada una de ellas, se deberá poner un respaldo para el descanso de los boxeadores, de 30 centímetros de ancho, por 1.20 metros de largo.
+
+d) El Cuadrilátero, deberá tener cuerdas de cable de acero de cada lado, cubiertas con manguera o poliducto, forradas de tela de cinta plástica y atadas sólidamente de poste a poste de la siguiente manera: la primera a una altura mínima de 35 centímetros sobre la plataforma del cuadrilátero; y la segunda y tercera a distancias equivalentes, entre la primera y la cuarta cuerda. Las uniones de las cuerdas en cada esquina contarán con protectores acojinados cubiertos de material suave.
+
+e) Deberá contar adicionalmente con el siguiente equipo: Una campana y un contacto de focos de color ámbar, instalados en el lugar que ocupa el tomador de tiempo; una mesa y un contacto para el encendido de los focos rojos y del timbre, instalados en el lugar del comisionado en turno; un banquillo y una jerga que deberán ubicarse en la esquina de cada uno de los boxeadores; un micrófono para el anunciador, conectado al equipo de sonido local; un cajón de madera de 50 centímetros por lado aproximadamente, conteniendo brea en polvo.
+
+Alrededor inmediato del cuadrilátero, se considera zona técnica y deberán instalarse en la misma las butacas que indique la Comisión.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+
+DE LAS LICENCIAS Y AUTORIZACIONES
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2110.
+
+Es facultad de la Comisión Municipal de Box y Lucha Libre, expedir las licencias que autoricen la actuación dentro del Municipio de los oficiales dependientes de la misma, así como la de los empresarios, promotores, representantes, auxiliares, boxeadores y luchadores.
+
+Las licencias expedidas por la Comisión, tendrán vigencia hasta de un año, cualquiera que sea la fecha de su expedición, los interesados deberán refrendarlas con cinco días hábiles de antelación, cubriendo los requisitos correspondientes entre otros, el valor consignado para tal efecto en la Ley de Ingresos del Municipio de Puebla, pudiendo la Comisión ampliar el plazo o revocar el refrendo cuando exista causa justificada.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2111.
+
+El H. Ayuntamiento del Municipio de Puebla, por conducto de la Tesorería Municipal, cobrará por la expedición de licencias y demás servicios que se presten a los boxeadores, luchadores, empresas, manejadores y auxiliares, así mismo, recibirá en resguardo, la retención de depósitos, fianzas y cauciones que se deriven de los diversos contratos autorizados por la Comisión.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2112.
+
+Los interesados en obtener licencia que les autorice actuar dentro del Municipio, deberán presentar ante la Comisión Municipal de Box y Lucha Libre, los siguientes documentos:
+
+I. Solicitud por escrito y por triplicado del interesado, debidamente firmada;
+
+II. Certificado de salud expedido por el Servicio Medico de la Comisión, en que conste que el solicitante se encuentra sin ninguna incapacidad física o mental para poder actuar en una función o desempeñar la respectiva actividad a que se refiere su petición;
+
+III. Certificado de “No antecedentes penales”, expedido por autoridad competente, relativo al solicitante;
+
+IV. Prueba de que sabe leer y escribir;
+
+V. Constancia de haber celebrado contrato o haber expedido carta poder a un representante autorizado por la Comisión Municipal de Box y Lucha Libre para actuar;
+
+VI. La cartilla que justifique que el interesado en edad de conscripción, cumplió el Servicio Militar Nacional (Hombres);
+
+VII. Tres fotografías de tamaño credencial;
+
+VIII. Autorización por escrito del padre o tutor cuando se trate de menores de edad, y
+
+IX. Cubrir el importe de la licencia en la Tesorería del Municipio.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2112 Bis.
+
+Una vez cubiertos los requisitos a que se refiere el artículo anterior, los interesados deberán sustentar el examen técnico respectivo, ante la Comisión Municipal de Box y Lucha Libre o persona que ésta designe. Tratándose de boxeadores, éstos serán examinados en una pelea a cuatro asaltos dentro de un programa regular.
+
+Si el resultado del examen es aprobatorio, el solicitante deberá pagar ante la propia Comisión el importe de la licencia que en cada caso se señale.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2112 Ter.
+
+La Comisión Municipal de Box y Lucha Libre, exceptuará de los requisitos a que se refieren los artículos 2112 y 2112 Bis del presente Capítulo, a los integrantes del Servicio Médico.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2112 Quáter.
+
+Para la revalidación anual de las licencias, será suficiente cubrir los requisitos señalados en las fracciones I, II, III y IX del artículo 2112 del presente Capítulo.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2112 Quinquies.
+
+Para la expedición de licencias que autoricen la presentación de espectáculos o exhibiciones en que tengan lugar encuentros de Box y Lucha Libre en el Municipio, se deberán observar los requisitos que para el efecto establezca el Departamento de Espectáculos del Municipio.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+
+DE LA COMISIÓN MUNICIPAL DE BOX Y LUCHA LIBRE
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2113.
+
+La Comisión Municipal de Box y Lucha Libre, es un cuerpo técnico en materia de ambos deportes y en su funcionamiento como Órgano Auxiliar será autónoma. Dependerá administrativamente de la Presidencia Municipal. Sus funciones se sujetarán a las prescripciones contenidas en este Capítulo y a las señaladas por el Departamento de Espectáculos para efectos de expedición de las respectivas autorizaciones que permitan la presentación de espectáculos y exhibiciones en que tengan lugar encuentros de Box y Lucha Libre en el Municipio.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### ARTÍCULO 2114.
+
+La Comisión Municipal de Box y Lucha Libre estará integrada por un Presidente, quien será el Regidor que presida la Comisión de Actividades Deportivas y Sociales, dos representantes de Box y dos de Lucha Libre que fungirán como vocales propuestos por las organizaciones de cada deporte, quienes serán designados y removidos por el Presidente Municipal, y que tiene por objeto supervisar el cumplimiento de las normas reglamentarias y técnicas de todos los espectáculos públicos en los que participen boxeadores y luchadores profesionales dentro del Municipio.
+
+Los integrantes de la Comisión Municipal de Box y Lucha Libre deberán contar con amplios conocimientos en la materia, el cargo es honorífico y no tendrán intereses de ninguna clase, con empresarios, promotores o cualquier otra persona conectada directamente con el Box o la Lucha Libre.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2114 Bis.
+
+La Comisión deberá auxiliarse para su funcionamiento, de un Comisionado, de un Servicio Médico y éste a su vez por dos auxiliares médicos, por jueces, referís, directores de encuentros, tomadores de tiempo y por un anunciador, mismos que se designarán antes de cualquier espectáculo.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2115.
+
+Los miembros de la Comisión sesionarán por lo menos una vez al mes en Sesión Ordinaria, y en forma Extraordinaria las veces que ésta estime necesarias, los miembros tendrán voz y voto, el quórum legal estará formado por el 50% más uno de sus miembros, y las votaciones se tomarán por mayoría de votos de los integrantes, en caso que haya empate el Presidente tendrá voto de calidad.
+
+Las decisiones de la Comisión, como cuerpo colegiado, tendrán validez plena, cuando éstas se tomen en Sesiones Ordinarias y Extraordinarias y por mayoría de votos. Las faltas definitivas de los miembros de la Comisión, serán cubiertas por designaciones que para el efecto haga el Presidente Municipal.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2116.
+
+La Comisión Municipal de Box y Lucha Libre tendrá facultades para resolver cualquier dificultad que surja con motivo de la aplicación o interpretación del presente Capítulo, siempre que el caso no esté claramente previsto en el mismo.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2117.
+
+Para mejor desarrollo de sus funciones, la Comisión Municipal de Box y Lucha Libre será auxiliada en sus labores, por el personal administrativo que sea necesario, quienes dependerán presupuestalmente de los ingresos de la Comisión.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2118.
+
+Con el objeto de que la Comisión Municipal de Box y Lucha Libre, tenga un control sobre la actuación y conducta en general de los elementos relacionados con el boxeo y lucha libre profesionales, mantendrá relaciones a base de la más estricta reciprocidad con las Comisiones o Consejos de Box y Lucha Libre de la República y Extranjeras.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2119.
+
+En todo espectáculo de Box y Lucha Libre profesionales, cuyo programa haya sido aprobado previamente por la Comisión Municipal de Box y Lucha Libre, ésta nombrará a uno de sus miembros para que lo presida en representación de la misma.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### ARTÍCULO 2120.
+
+La Policía Municipal o cualquier fuerza pública que esté en el local donde se desarrolle la función, quedarán bajo las órdenes inmediatas del Comisionado en turno que presida la función, quedando obligados a hacer cumplir sus órdenes y disposiciones.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2121.
+
+Es obligación esencial de la Comisión, impedir por todos los medios a su alcance, que las empresas, promotores, representantes, auxiliares, boxeadores y luchadores, traten de defraudar o defrauden los intereses del público en cualquier forma.
+
+Cuando no se obstaculicen las medidas tomadas que llevasen a un fraude, previa comprobación del mismo, se impondrán a los responsables las sanciones correspondientes, en el entendido de que será suficiente que la Comisión cuente con las pruebas presuncionales necesarias, para que pueda proceder en los términos antes señalados.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2121 Bis.
+
+El Comisionado que presida una función de Box o Lucha Libre, deberá cuidar que la misma se desarrolle de acuerdo con el programa anunciado al público, observándose !as normas establecidas por el presente Capítulo y las disposiciones dictadas por la Comisión Municipal de Box y Lucha Libre, cuando tenga conocimiento de que un boxeador, luchador, representante o auxiliar haya infringido algunas de las disposiciones mencionadas, estará autorizado para ordenar la retención del sueldo, debiendo informar sobre el asunto en la primera Sesión Ordinaria siguiente que celebre la Comisión, para que ésta resuelva en definitiva lo que proceda.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2122.
+
+La Comisión, tendrá facultades excepcionalmente, para revocar el fallo que se dicte en una pelea de Box o Lucha Libre, cuando haya error en el anuncio de la decisión o por ser notoriamente injusto, de acuerdo con el desarrollo general del encuentro.
+
+Para una revocación en estas circunstancias, se tomará en cuenta el informe que rinda el Comisionado que haya actuado en la función correspondiente, el cual no tendrá facultades de revocar las decisiones en los lugares donde se desarrolle el espectáculo.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2122 Bis.
+
+Queda estrictamente prohibido a los representantes, auxiliares, boxeadores y luchadores, protestar públicamente los fallos o decisiones que se dicten sobre el cuadrilátero, las protestas deberán presentarse por escrito en la Sesión Ordinaria o Extraordinaria que celebre la Comisión, inmediata a la función de que se trate.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2123.
+
+No se permitirán en el Municipio encuentros entre boxeadores profesionales anunciados como "exhibiciones" pues únicamente, se permitirán las peleas que se celebren bajo las prescripciones que fija el presente Capítulo, en relación con el peso de los guantes, vendajes y demás aditamentos necesarios para su celebración.
+
+Quedan exceptuadas las exhibiciones que den los Campeones Mundiales, las que podrán ser autorizadas por la Comisión en acuerdo con el Departamento de Espectáculos, bajo las condiciones que en cada caso se establezcan.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2124.
+
+Son facultades y obligaciones de la Comisión:
+
+I. Vigilar y cuidar el estricto cumplimiento del presente Capítulo, observando en todo momento, que no se violen los derechos de quienes intervienen, en la presentación y preparación de un espectáculo de Box y Lucha Libre;
+
+II. Imponer las sanciones correspondientes con relación al incumplimiento o faIta de observancia del presente Capítulo, fundando y motivando la resolución por la que se determina la sanción mencionada;
+
+III. Recibir y decidir sobre las protestas que le presenten con relación de las diversas funciones o programas, otorgando el visto bueno al Departamento de Espectáculos del Municipio, para los efectos que corresponda;
+
+IV. Expedir los nombramientos y licencias que autoricen la actuación de Oficiales, boxeadores y luchadores de ambos sexos, así como las de las personas que lo requieran y que intervengan en una función de Box o Lucha Libre dentro del Municipio;
+
+V. Expedir a través del Presidente, las autorizaciones para la actuación de los boxeadores y luchadores registrados fuera del Municipio;
+
+VI. Autorizar y vigilar a través de su Presidente, que los boxeadores y luchadores que actúen fuera del Municipio lo hagan con peleadores de su misma categoría;
+
+VII. Designar en Sesión Ordinaria o Extraordinaria de la Comisión, al Comisionado en turno, al Director de Encuentros y a los Oficiales de la misma;
+
+VIII. Fijar las contraprestaciones de los Oficiales, las cuales serán pagadas por la Empresa encargada de presentar la función, a través de la Comisión;
+
+IX. Autorizar las funciones, presentaciones y exhibiciones de Box y Lucha Libre que se realicen dentro del Municipio;
+
+X. Vigilar que los Oficiales, boxeadores y luchadores, den estricto cumplimiento a las disposiciones del presente Capítulo;
+
+XI. Sancionar las faltas o infracciones contrarias a la normatividad del presente Capitulo, cometidas por los Oficiales, boxeadores y luchadores;
+
+XII. Autorizar cambios de pelea o suspensión de la función ya programada, cuando exista causa justificada procedente;
+
+XIII. Realizar en cualquier momento a través del Servicio Médico, exámenes médicos, para verificar el estado físico y mental de los boxeadores y luchadores;
+
+XIV. Registrar y controlar la respectiva estadística de los boxeadores y luchadores que cuenten con licencia para actuar dentro del Municipio;
+
+XV. Tendrá facultades excepcionalmente, para revocar el fallo que se dicte en una pelea de Box o Lucha Libre, cuando haya error en el anuncio de la decisión o por ser notoriamente injusto, de acuerdo con el desarrollo general del encuentro. Para una revocación en estas circunstancias, se tomará en cuenta el informe que rinda el Comisionado que haya actuado en la función correspondiente, y
+
+XVI. Vigilar que la función de Box o Lucha Libre se desarrolle de acuerdo con el programa anunciado y autorizado por parte de la Comisión, en caso de existir cambio de algún luchador o boxeador, éste deberá ser sustituido por otro de igual peso y categoría debiéndolo anunciar al público asistente al inicio de la función.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+
+DE LAS EMPRESAS
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2125.
+
+Todo programa de Box o Lucha Libre profesional deberá ser presentado por la Empresa que promueva la función, ante la Comisión Municipal de Box y Lucha Libre para su aprobación.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2125 Bis.
+
+El programa deberá ser dado a conocer a la Comisión con tres días de anticipación a la fecha en que vaya a celebrarse la función, debiendo contener los siguientes datos:
+
+l. Nombre de los boxeadores o luchadores que vayan a tomar parte en la función, así como el de los emergentes y el de sus representantes legales;
+
+II. Número de "asaltos" en que vayan a desarrollarse las peleas de Box, así como el número de peleas que conforman el programa;
+
+III. Número de peleas que conforman el programa de Lucha Libre, incluyendo el número de "caídas" en que competirán los luchadores;
+
+IV. Especificar el peso y la categoría de los boxeadores o luchadores contendientes, así como señalar cuando se trate de peleas de exhibición o de campeonato;
+
+V. Los sueldos que éstos percibirán por su actuación y las especificaciones de la indumentaria a utilizar, y
+
+VI. Con el mismo programa se presentarán los contratos respectivos celebrados entre Empresas y los representantes de los boxeadores, o bien por éstos si están autorizados por sus representantes, debiendo contener los mismos datos generales que figuren en los programas, así como las firmas de los que hayan intervenido en ellos.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2126.
+
+Las partes contratantes podrán fijar libremente los sueldos que deberán percibir los boxeadores por sus actuaciones, con excepción de los relativos a peleas de Campeonato, pues éstos se ajustarán a lo dispuesto en los artículos relativos o (sic) peleas titulares.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2127.
+
+Las personas físicas o morales interesadas en obtener por parte del Departamento de Espectáculos, la autorización para celebrar eventos del Box y Lucha Libre, deberán contar con la aprobación de la Comisión, sin perjuicio de satisfacer los requisitos que señale al respecto dicho Departamento.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2128.
+
+Ninguna Empresa podrá ofrecer o presentar públicamente funciones de Box y Lucha Libre Profesionales, sin previa autorización del Departamento de Espectáculos y de la licencia legalmente expedida por la Comisión Municipal de Box y Lucha Libre, que permita la actuación de los que intervienen en dicha función.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2129.
+
+La persona física o moral que solicite y obtenga licencia para actuar como Empresa, estará obligada a cumplir las disposiciones de este Capitulo, así como los acuerdos y resoluciones dictados por la Comisión, en cuanto se relacione con su actuación.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2130.
+
+Para ser Empresario de Boxeo o Lucha Libre profesionales, se requiere:
+
+l. Ser mexicano por nacimiento o por naturalización;
+
+II. Contar con la mayoría de edad;
+
+III. Contar con licencia legalmente expedida por la Comisión Municipal de Box y Lucha Libre, en los términos de los Artículos 2112, 2112 Bis y 2112 Quinquies del presente Capítulo, y
+
+IV.- Tener en propiedad o en arrendamiento un local debidamente acondicionado para esta clase de espectáculos que cuente con la licencia de funcionamiento expedida por la Autoridad Competente que tenga a su cargo el despacho administrativo de los espectáculos públicos en el Municipio y del visto bueno de la Comisión por lo que respecta a las instalaciones técnicas relacionadas con el Box y Lucha Libre.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2131.
+
+Para que una Empresa permanente o eventual, pueda obtener de la Comisión autorización para celebrar funciones, ésta deberá previamente otorgar como garantía ante la misma, una fianza o depósito en efectivo, que garantice plenamente el pago de los elementos que en esa función tomen parte, bajo la consigna de que el programa se llevará a cabo en la forma anunciada, con estricta honradez y sin defraudar los intereses del público y efectuar un mínimo de 10 funciones al año.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2131 Bis.
+
+En el Municipio se podrá conceder autorización a más de una Empresa para promover funciones (sic) Box y Lucha Libre profesionales, pero no se autorizará que efectúen dos funciones en el mismo día.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2131 Ter.
+
+Las Empresas estarán obligadas a poner en conocimiento del público que asista a los espectáculos, funciones o presentaciones de Box o Lucha Libre, que se prohíbe cruzar apuestas, debiendo tomar las medidas conducentes para evitar esta práctica.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2132.
+
+Queda estrictamente prohibido que las Empresas contraten boxeadores o luchadores que se encuentren suspendidos por la Comisión Municipal de Box y Lucha Libre, o bien por cualquier otra Comisión o Consejo de Box o Lucha Libre Nacional o Internacional.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2132 Bis.
+
+Quedan obligadas las Empresas a presentar ante la Comisión, la autorización de salida de los Boxeadores programados, la cual deberá estar debidamente requisitada por la Comisión o Consejo de Box o Lucha Libre de origen, así mismo las Empresas presentarán junto al programa correspondiente, las licencias de los elementos que tomen parte en el mismo.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2133.
+
+Las Empresas no podrán anunciar ni llevar a efecto programas en los que figuren peleas que tengan un total menor de treinta o mayor de cincuenta "asaltos".
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2133 Bis.
+
+En todo programa que presenten las Empresas para su aprobación, deberán figurar dos peleas de emergencia; una para las preliminares y otra para la semifinal. Es obligación de las Empresas utilizar los servicios de los boxeadores contratados como emergentes, en la función inmediata posterior, de igual categoría que lleven a cabo, si no fueran utilizados sus servicios en la de la fecha.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2134.
+
+En caso de que por fuerza mayor debidamente comprobada alguno o los dos participantes de una pelea preliminar no puedan actuar en la función anunciada, se substituirá dicha pelea por la de emergencia de la misma categoría, que deberá subir al cuadrilátero íntegra, sólo en casos de excepción y previa autorización de la Comisión o del Comisionado en turno, podrá permitirse, que un boxeador faltante sea substituido por otro boxeador no incluido en el programa.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2134 Bis.
+
+En funciones de lucha libre, podrá autorizar el Comisionado en turno la substitución de un luchador que por causas de fuerza mayor no se haya presentado, por otro de igual categoría, pero será obligación de la Empresa anunciar por los medios que tenga a su alcance, al público asistente al evento, el cambio autorizado por la Comisión y si se tratara de la lucha estelar, deberá anunciarse al público que la persona que no este de acuerdo con el cambio, podrá solicitar la devolución del importe de su boleto.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2134 Ter.
+
+No podrá ser cambiada la pelea estrella o alguno de los boxeadores que participen en la misma después de aprobado el programa por la Comisión, y de que este se haya hecho del conocimiento del público, por anuncios, programas de mano o por cualquier otro medio publicitario.
+
+Solamente en casos de excepción, y por circunstancias perfectamente justificadas, podrán autorizarse los cambios a que se refiere él párrafo anterior, con setenta y dos horas de anticipación contadas a partir de aquélla en que deba efectuarse el peso de los boxeadores que van a tomar parte en la función correspondiente.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2134 Quáter.
+
+Cualquier cambio de última hora en el programa autorizado, que no haya sido posible anunciar previamente al público, al comenzar el espectáculo deberá hacerse del conocimiento del mismo por conducto del anunciador oficial o por algún medio que se juzgue adecuado.
+
+En caso de que algún espectador no estuviera conforme con el cambio, podrá reclamar de manera inmediata la devolución del importe de su boleto. Las Empresas tendrán la obligación de fijar avisos en las taquillas y en las puertas de entrada del establecimiento, el cambio que haya sido autorizado por el Comisionado en turno.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2134 Quinquies.
+
+Cuando por causa de fuerza mayor debidamente comprobada, se suspenda el espectáculo que ya se había iniciado, las Empresas no podrán disponer de! importe de las entradas hasta que la Comisión y el Departamento de Espectáculos Municipal, resuelvan lo procedente para lo cual tomará en cuenta todas las circunstancias que hubiesen mediado para la suspensión, en el concepto de que su resolución deberá dictarla dentro de las 48 horas hábiles siguientes a la suspensión del espectáculo.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2135.
+
+El Comisionado en turno quedará facultado en caso de excepción y de grave, y urgente resolución para ordenar la inmediata devolución de las entradas al público que así lo requiera, en los casos de la suspensión total del espectáculo, siempre y cuando éste no se hubiese iniciado.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2136.
+
+En todo local destinado a presentar funciones de Box o Lucha Libre profesionales, las Empresas estarán obligadas a contar con una dependencia para enfermería, la cual deberá tener todo lo necesario para una pronta y esmerada atención de los boxeadores o luchadores que requieran cuidado de urgencia. El Encargado del Servicio Médico de la Comisión deberá vigilar el cumplimiento de esta disposición y exigir de las Empresas cuenten con el instrumental mínimo indispensable, las medicinas y demás materiales necesarios para el caso.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2137.
+
+En los locales destinados para la presentación de funciones de Box o Lucha Libre, las Empresas que las explotan deberán acondicionar un vestidor con baño y servicios sanitarios para los oficiales que vayan a actuar. Quedando prohibida la entrada al mismo a toda persona que no tenga ingerencia oficial en el espectáculo.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2137 Bis.
+
+Las Empresas proporcionarán a los boxeadores y luchadores contendientes, vestidores amplios, ventilados y bien acondicionados debiendo además, proporcionar un vestidor o camerino especial para cada uno de los boxeadores de la pelea estrella. Todas estas dependencias deberán contar con baño y servicios sanitarios.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2137 Ter.
+
+Solamente están autorizados para entrar a los vestidores de los boxeadores que vayan a tomar parte en una función, los miembros de la Comisión, los representantes de las Empresas, así como los representantes y auxiliares de cada boxeador.
+
+Los periodistas y fotógrafos de prensa, podrán hacerlo después de que haya terminado la pelea estrella, siempre y cuando lo acepten los boxeadores que van a ser entrevistados.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2138.
+
+Los empresarios podrán desempeñar simultáneamente funciones de promotores, si cuentan para ello con la licencia legalmente expedida por la Comisión, pero les está estrictamente prohibido actuar al mismo tiempo como manejadores profesionales, directa o indirectamente.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+
+DE LOS PROMOTORES
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2139.
+
+Para ser promotor de Box o Lucha Libre, se requiere contar con la licencia respectiva expedida por la Comisión Municipal de Box y Lucha Libre, después de haber cumplido con lo dispuesto en los artículos 2112, 2112 Bis y 2112 Quinquies del presente Capítulo.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2139 Bis.
+
+La persona física o moral que obtenga licencia de promotor estará obligada a cumplir en todas sus partes las disposiciones de este Capítulo, así como los acuerdos y resoluciones que dicte la Comisión, en cuanto a su actuación.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2139 Ter.
+
+Los promotores de Box y Lucha Libre profesionales, serán considerados como empleados de las empresas y por lo tanto serán responsables directos de cualquier falta o infracción que ellos cometan.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2139 Quáter.
+
+Los promotores podrán desempeñar simultáneamente funciones de empresarios, si cuentan para ello con la licencia respectiva expedida por la Comisión, pero les queda estrictamente prohibido actuar al mismo tiempo, como representantes de boxeadores profesionales, directa o indirectamente.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+
+DE LOS OFICIALES
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2140.
+
+Son Oficiales de la Comisión, los Comisionados, el Jefe del Servicio Médico, los Médicos Auxiliares, los Jueces, los Directores de encuentros, los tomadores de tiempo y los anunciadores, para ser oficial, se requiere:
+
+l. Solicitud por escrito por triplicado, dirigida a la Comisión Municipal de Box y Lucha;
+
+II. 3 fotografías tamaño infantil;
+
+III. Constancia de vecindad expedida por el H. Ayuntamiento de Puebla;
+
+IV. Copia certificada del Acta de Nacimiento;
+
+V. Copia de la Cartilla del Servicio Militar Nacional (a petición de la Comisión);
+
+VI. Documentación que se (sic) acredite estudios de nivel medio superior o equivalente;
+
+\/II. Acreditar ante la Comisión tener conocimientos, y experiencia de 3 años en el Boxeo o Lucha Libre;
+
+VIII. Gozar de reconocida honorabilidad y buenas costumbres;
+
+IX. No tener intereses con empresarios, promotores, manejadores, auxiliares, boxeadores o con cualquier otra persona relacionada con el medio;
+
+X. Tomar los cursos de capacitación y actualización que indique la Comisión;
+
+XI. Aprobar los exámenes técnico, de capacitación y aptitud ante la Comisión;
+
+XII. Deberá exigírsele al solicitante de: réferi, tomador de tiempo, anunciador, juez, antes de ser admitido y para que demuestre su capacidad, que desempeñe el cargo en una pelea preliminar bajo la vigilancia del Comisionado en turno, y
+
+XIII. Presentar carta de Antecedentes no Penales expedida por la autoridad correspondiente con una antigüedad mínima de seis meses.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2141.
+
+Los Oficiales ejercerán sus funciones de acuerdo con las disposiciones que señale el presente Capítulo y su nombramiento es de la exclusiva competencia de la Comisión Municipal de Box y Lucha Libre.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2141 Bis.
+
+Se prohíbe a los Oficiales actuar en funciones cuyos programas no hayan sido aprobados y autorizados previamente por la Comisión, cuando dichas funciones vayan a celebrarse dentro de la jurisdicción.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2141 Ter.
+
+Los sueldos de los Oficiales serán fijados por la Comisión, y pagados por las Empresas que utilicen sus servicios.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2141 Quáter.
+
+El Comisionado en turno nombrará, para las funciones de Box que vaya a presidir, con la debida oportunidad, los siguientes oficiales: dos jueces, dos árbitros, uno para los eventos preliminares y otro para los semi-finales y estelares, un tomador de tiempo y un anunciador; estas designaciones se harán quince minutos antes de que dé comienzo la función.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2141 Quinquies.
+
+Los Oficiales a que se refiere el articulo 2140, del presente Capítulo, estarán obligados a presentarse invariablemente en todas las funciones, media hora antes de que éstas principien y solamente podrán faltar con previa autorización de la Comisión, los que vayan a intervenir en la función, serán designados por el Comisionado en turno 24 horas antes de que ésta inicie, con la excepción del Director de encuentros y del tomador de tiempo, que tendrán el rol previamente establecido por la Comisión. Los oficiales designados, deberán pasar examen médico antes de intervenir en la función.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+
+DEL COMISIONADO
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2142.
+
+Es la persona física nombrada por la Comisión, siendo responsable y encargada de cumplir y hacer cumplir el presente Capítulo como máxima autoridad en los eventos de Box y Lucha Libre, además de ser el encargado de presidir el Espectáculo cuyo programa haya sido aprobado anteriormente por la Comisión.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2143.
+
+Son facultades del Comisionado:
+
+I. Cuidar que la función se desarrolle de conformidad al programa anunciado al público;
+
+II. Disponer de la Policía Municipal o de cualquier fuerza pública a fin de garantizar la seguridad del público y la integridad física de quienes intervengan en la misma, así como del inspector autoridad;
+
+III. Designar para las funciones de Box que vaya a presidir, con un mínimo de 24 horas de anticipación, los siguientes oficiales: tres jueces, dos réferis, uno para los eventos preliminares y otro para los semifinales y estelares, un tomador de tiempo y un anunciador;
+
+IV. Informar en la Sesión Ordinaria o Extraordinaria que celebre la Comisión, cuando haya tenido conocimiento de que un boxeador, luchador, promotor, empresario, manejador o auxiliar infringió algunas de las disposiciones mencionadas, para que ésta resuelva lo procedente, y
+
+V. Ordenar la inmediata devolución de las entradas al público que así lo requiera, en los casos de la suspensión total del espectáculo, siempre y cuando éste no se hubiese iniciado.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2143 Bis.
+
+El Comisionado está facultado para autorizar la sustitución o cambio de boxeador o luchador en las funciones de Box y Lucha Libre, bajo las siguientes condiciones:
+
+I. En Box: en caso de fuerza mayor debidamente comprobada, si alguno de los participantes de una pelea preliminar o estelar no puede actuar en la función anunciada, se sustituirá dicho peleador por el emergente de la misma categoría y peso, si el boxeador fuese de la pelea estelar, además de anunciar el cambio autorizado, informará al público que la persona que no esté de acuerdo podrá solicitar la devolución del importe de su boleto, siempre que no haya iniciado la función;
+
+II. En la lucha libre: cuando un luchador por causa de fuerza mayor no se haya presentado, será sustituido por otro de la misma categoría y de igual peso, comunicándole a la empresa la obligación de avisar al público asistente, el cambio realizado y si éste es de algún luchador de la "Lucha Estelar", además de anunciar el cambio autorizado, informará al público que la persona que no esté de acuerdo podrá solicitar la devolución del importe de su boleto, siempre que no haya iniciado la función.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+
+DEL SERVICIO MÉDICO
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2144.
+
+La Comisión se auxiliará de un Servicio Médico, integrado por un Jefe y de los Auxiliares necesarios, debiendo ser todos médicos cirujanos y con conocimientos especializados en la materia. El Jefe del Servicio Médico, deberá tener una práctica no menor de dos años como Médico de Cuadrilátero.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2145.
+
+Las obligaciones del Jefe del Servicio Médico y de sus Auxiliares son:
+
+I. Formular y controlar la historia clínica de los boxeadores, a los cuales se les haya expedido licencia por la Comisión, para actuar como profesionales, llevando gráficas de los resultados de las peleas sostenidas por los boxeadores, con anotación especial de las derrotas que hayan sufrido por know out técnico o efectivo;
+
+II. Asistir a las Sesiones de la Comisión y a la ceremonia del peso de los boxeadores, para certificar sus condiciones de salud y dictaminar si se encuentran en condiciones de actuar, siendo su dictamen inapelable. Cuando el Jefe del Servicio Médico no pudiera asistir a las sesiones o al peso, designará a uno de los auxiliares para que lo substituya;
+
+III. Estar presentes en la función una hora antes de la señalada para que comience el espectáculo, con objeto de que realicen el último examen a los boxeadores y luchadores, y dictaminen si están en condiciones de actuar;
+
+IV. Estar presente en toda función de Box y Lucha Libre. En funciones de Box se sentarán en los asientos de primera fila que previamente se les asignen, para atender cualquier caso de emergencia que llegare a presentarse; en el entendido de que el primero de los citados invariablemente estará sentado a la derecha del Comisionado en turno. En funciones de Lucha Libre, bastará que esté presente un médico del Servicio de la Comisión;
+
+V. Subir al cuadrilátero y dictaminar bajo su estricta responsabilidad si el boxeador o el luchador, se encuentra en condiciones de continuar actuando, o si a su juicio es prudente suspender el encuentro, cuando sea requerido por el Comisionado en turno o el réferi. Su fallo será inapelable;
+
+VI. Indicar al Comisionado en turno o bien directamente al réferi, cuando la urgencia del caso así lo requiera, que procede la suspensión de la pelea o de la lucha, por considerar que es peligroso para alguno de los contendientes continuar combatiendo, y
+
+VII. Cuando por alguna circunstancia el Jefe del Servicio Médico, no pueda fungir como Médico de Cuadrilátero, el Presidente de la Comisión Municipal designará además del auxiliar, a otro médico auxiliar que en su ausencia lo substituya.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2145 Bis.
+
+En caso de que sufra un accidente cualquiera de los contendientes en una pelea, podrá reanudarse la actuación cuando a juicio del Médico de Cuadrilátero el accidentado pueda recuperarse en un tiempo no mayor de quince minutos. En caso de que esto no sea posible, se dará la victoria al boxeador que tenga mayor puntuación a su favor.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+
+DE LOS JUECES
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2146.
+
+En toda función, presentación o exhibición de Box, actuarán tres jueces que ocuparán los lugares opuestos en la zona técnica previamente designados por la Comisión.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2146 Bis.
+
+Los Jueces, deberán emitir al término de cada asalto, en las tarjetas correspondientes, la puntuación que a su juicio merezca cada boxeador, haciéndoselas llegar de inmediato al Comisionado en turno, el cual a su vez entregará al término de la pelea la puntación total al réferi.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2146 Ter.
+
+Los Jueces antes, durante el curso y después de la pelea, tienen prohibido:
+
+I. Hacer demostraciones de aprobación o desaprobación al darse a conocer al público el fallo que se dicte en la pelea;
+
+II. Dar a conocer a personas ajenas a la Comisión, la puntuación que haya dado, en relación a un asalto o a una pelea, y
+
+III. Abandonar sus asientos durante el desarrollo de la función, lo que podrá hacer sólo por causa de fuerza mayor y previa autorización del Comisionado.
+
+En caso de desacato a las fracciones anteriores, la Comisión, impondrá las sanciones correspondientes.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 17 DE FEBRERO DE 2006)</small>
+
+DE LOS DIRECTORES DE ENCUENTROS
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2147.
+
+Facultades del Director de Encuentros:
+
+I. Tendrá a su cargo la vigilancia de los vestidores de boxeadores y oficiales con objeto de que se guarden en los mismos, el orden y disciplina necesarios, cuidando además que sean ocupados por las personas a quienes correspondan;
+
+II. Queda bajo su responsabilidad vigilar que solamente entren a los vestidores, las personas autorizadas por la Comisión;
+
+III. Recabará oportunamente del Comisionado en turno, la documentación relativa de la función, en la cual estará incluida la lista oficial de los boxeadores que participen en las mismas y en la cual se anotará la hora en que aquéllos se presenten a los vestidores.
+
+Debiendo presentarse en el inmueble en que vaya a celebrarse la función una hora antes de la anunciada para que ésta dé comienzo;
+
+IV. Informar de inmediato al Comisionado en turno, la hora de llegada de los boxeadores al lugar designado para la función y si es que existe la falta de algún boxeador de los programados, para que sea substituido por otro de igual peso y categoría;
+
+V. Tomar nota de los Oficiales que estén presentes en el inmueble media hora antes de comenzar la función, haciendo del conocimiento del Comisionado en turno para los efectos de la designación de los que vayan a actuar;
+
+VI. Cuidar de que los boxeadores usen el calzón reglamentario y no permitirá que los contendientes suban al Cuadrilátero usando calzón del mismo color;
+
+VII. Vigilar que los boxeadores estén listos para subir al Cuadrilátero inmediatamente que les corresponda su turno;
+
+VIII. Vigilar que todos los boxeadores que vayan a tomar parte en una función, inclusive, los sustitutos de igual categoría y peso, cuenten con su equipo completo, sin llevar en el mismo, el escudo y colores del Emblema Nacional, y que los protectores que van a usar se encuentren en buen estado y sean del modelo aprobado por la Comisión;
+
+IX. Vigilar que los boxeadores se pongan los vendajes reglamentarios uno en presencia del otro o estando presentes los promotores o auxiliares de cada uno, cuidando que las vendas sean de la clase y medida que señala el presente Capítulo.
+
+Concluido el vendaje de cada boxeador, procederá a su examen para comprobar que es correcto y que no se usaron substancias u objetos extraños, marcando los vendajes con un sello que diga "REVISADO";
+
+X. Vigilar a los boxeadores cuando se calcen los guantes, con objeto de evitar que se introduzcan en ellos objetos extraños, quedando exceptuados de esta disposición, los boxeadores que figuren en las peleas estelares, pues éstos se pondrán los guantes en presencia de los auxiliares respectivos y bajo la vigilancia del réferi que actúe en el Cuadrilatero;
+
+XI. No permitirá que los boxeadores abandonen los vestidores hasta el momento de su turno y conocerá el sitio exacto en que se encuentren los boxeadores sustitutos, que deberán estar listos para actuar en caso necesario, y
+
+XII. La Comisión designará en su Sesión Ordinaria reglamentaria, al Director de Encuentros, que vaya a actuar, el que tendrá la obligación de estar presente a la hora de la ceremonia, del peso oficial de los boxeadores para recabar del Comisionado en turno, la documentación correspondiente a la función.
+
+El Director de Encuentros deberá presentarse en la arena con una hora antes de que dé comienzo el espectáculo.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+
+DEL ANUNCIADOR Y TOMADOR DE TIEMPO
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2148.
+
+Para ser Anunciador y Tomador de Tiempo en funciones de Lucha Libre, se requiere ser mexicano, mayor de edad y ser persona de reconocida honorabilidad, tener licencia legalmente expedida por la Comisión Municipal de Box y Lucha Libre en los términos de los artículos relativos al presente Capítulo.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2149.
+
+El Anunciador y Tomador de Tiempo, procurará estar cerca del cuadrilátero, para el efecto, la empresa le proporcionará un asiento en las primeras filas del cuadrilátero numerado, será la persona encargada de anunciar al público el desarrollo del programa e indicar con un toque de campana o de silbato, el principio de cada caída y el final del tiempo de las luchas con tiempo limitado. Los descansos serán de cinco minutos.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2150.
+
+El Anunciador o Tomador de Tiempo, no deberá hacer sonar la campana o silbato, nI permitirá que otra persona lo haga sonar, en el transcurso de una caída.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2151.
+
+El Anunciador o Tomador de Tiempo vigilará bajo su responsabilidad, que las luchas se sujeten al siguiente límite máximo de tiempo, según hayan sido contratados.
+
+Luchas de Campeonato o Estelares. Dos de tres caídas. Sin límite.
+
+Luchas semifinales. Dos de tres caídas. Sin límite.
+
+Luchas preliminares de una caída. De quince (15) minutos.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2152.
+
+Cuando una pelea finalice por Know-out efectivo, Know-out técnico o descalificación, el tomador de tiempo informará al Comisionado en turno, el tiempo transcurrido en el asalto que corresponde.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2153.
+
+Son las obligaciones del Anunciador, las siguientes:
+
+l. Anunciar al público con toda claridad, los nombres de los boxeadores contendientes, el peso oficial que hayan registrado y el número de asaltos a que van a pelear;
+
+II. Cuando se trate de peleas de Campeonato, anunciará el nombre del Campeón, de su retador y el titulo que vayan a disputar;
+
+III. Hacer, previa autorización del Comisionado en turno, la presentación ante el público de los boxeadores que vayan a actuar próximamente en otra función especial o importante;
+
+IV. Hacer del conocimiento del público, el resultado de las peleas que terminen por decisión, para lo cual, previamente recogerá del Comisionado en turno la papeleta respectiva;
+
+V. Si el Comisionado en turno lo estima conveniente anunciará en cada caso la puntuación que haya dado cada Oficial, haciendo del conocimiento del público todos aquellos avisos o asuntos ordenados por el Comisionado en turno, y
+
+VI. Para actuar en una función, deberá permanecer durante el desarrollo de la misma, en el asiento de primera fila que se le haya señalado previamente.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2154.
+
+Queda prohibido a los Anunciadores dar información al público sobre votaciones, comentar sobre el cuadrilátero ya sea por señas o ademanes el resultado de las decisiones, hacer anuncios de carácter comercial y del cualquier otra índole, que no hayan sido autorizados por el Comisionado en turno.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2155.
+
+Para poder actuar como auxiliar dentro de una función, se requiere ser mayor de edad, persona de reconocida honorabilidad y contar con la licencia legalmente expedida por la Comisión, en términos del presente Capítulo.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2156.
+
+Los auxiliares para las peleas preliminares, eventos especiales y semifinales serán en número de dos y sólo se permitirán tres para las peleas estelares.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2157.
+
+Durante el desarrollo de la función, los auxiliares no dirigirán palabra alguna a los contendientes y solamente prestarán ayuda al boxeador que atienden, durante los descansos de cada "asalto".
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2158.
+
+Una vez que la pelea dé comienzo, los auxiliares no podrán entrar al cuadrilátero antes de que el tomador de tiempo indique la terminación del "asalto".
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2159.
+
+Los auxiliares deberán abandonar el cuadrilátero inmediatamente después que el tomador de tiempo indique, haciendo sonar el silbato, diez segundos antes que dé comienzo el siguiente "asalto".
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2159 Bis.
+
+Al abandonar el cuadrilátero, quitarán rápidamente las cubetas, el banquillo y los demás objetos que utilicen para la atención del boxeador.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2160.
+
+Todo auxiliar que se encuentre suspendido por la Comisión, o por alguna Comisión o Consejo de Box o Lucha Libre, con la cual se tengan relaciones de reciprocidad, no podrá actuar mientras dure el tiempo de la suspensión.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2161.
+
+Los auxiliares solamente podrán usar para atender a los boxeadores durante los descansos, los medicamentos y substancias que previamente haya autorizado el Jefe de Servicio Médico de la Comisión, debiendo seguir para su uso, el procedimiento que el mismo haya señalado.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2162.
+
+Los auxiliares deberán presentarse en el cuadrilátero en forma decorosa, portando un equipo compuesto de camiseta blanca y pantalón oscuro. En la camiseta no llevarán anuncios, sólo podrán llevar el nombre del boxeador que atiendan.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2163.
+
+Queda prohibido a los auxiliares arrojar la toalla sobre el cuadrilátero para indicar de esa manera la derrota del boxeador que atiendan, pues el juzgar de las condiciones de éste y de la conveniencia de suspender el encuentro quedará al criterio según el caso, del médico del cuadrilátero, del Comisionado en turno o bien del réferi que esté actuando.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2164.
+
+Al concluir una pelea, los auxiliares no podrán entrar al cuadrilátero antes de que se haya dado la decisión correspondiente. Podrán estar en sus esquinas respectivas fuera de las cuerdas, desde donde atenderán a sus boxeadores, si fuera necesario y para cortar los vendajes que deberán ser entregados al Comisionado en Turno.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2165.
+
+No se permitirá que actúen como auxiliares en una pelea, los familiares de los boxeadores contendientes.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2166.
+
+Los auxiliares que infrinjan las disposiciones contenidas en los artículos del presente Capítulo, serán sancionados en la forma que resuelva la Comisión y de acuerdo con la gravedad de la falta cometida.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2166 Bis.
+
+Los auxiliares no deberán protestar las decisiones de los oficiales sobre el cuadrilátero ni en parte alguna de las Arenas, deberán presentar sus protestas en la Sesión Ordinaria o Extraordinaria inmediata de la Comisión.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+
+DEL INSPECTOR AUTORIDAD
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2167.
+
+El Inspector Autoridad será la persona que haya nombrado la Presidencia Municipal, para vigilar el orden en funciones de Box o Lucha Libre, estará a las órdenes directas del Comisionado en turno, debiendo cumplir y hacer cumplir las decisiones y acuerdos que éste dicte.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2167 Bis.
+
+El Inspector Autoridad, vigilará especialmente, que el público no altere el orden, que no se crucen apuestas que no se insulte o ataque, a los Comisionados Oficiales, Boxeadores y Luchadores y en general a toda persona que esté actuando en funciones de Box o Lucha Libre, consignando a las Autoridades competentes a quienes infrinjan estas disposiciones. El Inspector Autoridad dará instrucciones a la policía de servicio en el local donde se desarrolle la función, para el mejor cumplimiento de la misma.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2167 Ter.
+
+El Inspector Autoridad, al terminar la función informará al Comisionado en turno, de las novedades habidas durante la función en relación con el orden del espectáculo.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+
+DE LOS REFEREES
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2168.
+
+En todas las funciones de Box y Lucha Libre profesionales o no profesionales, serán designados uno o dos referees por la Comisión, los cuales se identificarán hasta al inicio de la lucha con gafete, y los cuales deberán sujetarse a las disposiciones que señale la Comisión y el presente Capítulo.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2169.
+
+Son obligaciones del Referee:
+
+I. Revisar la vestimenta y zapatillas de los luchadores, para certificar su estado;
+
+II. Hablar con los contendientes, y exhortarlos a:
+
+a) Una lucha deportiva;
+
+b) No luchar abajo del cuadrilátero;
+
+e) No faltar de palabra o de hecho al público;
+
+d) No faltar de palabra o de hecho al referee;
+
+e) No luchar sobre las butacas o gradas; y
+
+f) No continuar luchando después de que haya terminado la caída o la lucha.
+
+III. Usar durante el desarrollo de la lucha: pantalón negro con franja blanca o blanco con franja negra, camisa blanca o camisa rayada en blanco y negro; en las luchas de campeonato usará corbata de moño.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+
+DE LOS REPRESENTANTES
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2170.
+
+Para ser representante de boxeadores o luchadores, se requiere ser mayor de edad, persona de reconocida honorabilidad y tener licencia expedida por la Comisión, en los términos previstos por los artículos relativos del presente Capitulo.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2171.
+
+Todo representante que se encuentre suspendido por la Comisión Municipal de Box y Lucha Libre o por cualquier otra Comisión o Consejo de Box o Lucha Libre Nacional o Extranjera, con la cual la primera tenga relaciones de reciprocidad, no podrá actuar por sí o a través de otra persona, dentro del boxeo o lucha libre profesional, mientras dure el término de la suspensión.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2172.
+
+Quedan (sic) estrictamente prohibido a los representantes, ejercer al mismo tiempo funciones de empresarios o promotores.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2172 Bis.
+
+Los representantes estarán capacitados para actuar como auxiliares en aquellas peleas en que tomen parte los boxeadores o luchadores que tengan bajo contrato; en el concepto en que deberán observar en este caso, las disposiciones del presente Capítulo, aplicables a los auxiliares.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2173.
+
+Los representantes están obligados a solicitar de la Comisión, el permiso de salida para actuaciones fuera del Municipio de sus boxeadores o luchadores.
+
+La Comisión les proporcionará las formas oficiales para el trámite correspondiente de salidas.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2173 Bis.
+
+Los representantes no deberán contratar a sus boxeadores o luchadores para actuar en plazas donde no existen Comisiones de Box y Lucha Libre.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2173 Ter.
+
+La Comisión, no permitirá la salida de un boxeador, para actuar en un encuentro de categoría superior a la que ostente en el Municipio. Para este efecto se tomará en cuenta el récord del boxeador local y las referencias que se tengan de su rival.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+
+DE LOS BOXEADORES Y LUCHADORES PROFESIONALES
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2174.
+
+Para estar en la facultad de poder actuar en espectáculos, exhibiciones y presentaciones en que tengan lugar encuentros de Box y Lucha Libre profesionales dentro del Municipio, los boxeadores y luchadores profesionales, deberán contar como requisito indispensable, con licencia legalmente expedida por la Comisión Municipal de Box y Lucha Libre, en términos del presente Capítulo.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2175.
+
+Se considera como boxeador o luchador profesional a las personas físicas que participen practicando este deporte, en espectáculos exhibiciones y presentaciones en que tengan lugar encuentros de Box y Lucha Libre profesionales, recibiendo emolumentos por su actuación.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2176.
+
+La Comisión, no expedirá licencia para poder actuar en espectáculos, exhibiciones y presentaciones en que tengan lugar encuentros de Box y Lucha Libre profesionales en el Municipio, a menores de diecisiete años de edad. Los boxeadores tendrán obligación de contar con un representante legal reconocido por la Comisión.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2177.
+
+Los boxeadores o luchadores profesionales están obligados a no tomar parte en espectáculos exhibiciones y presentaciones en que tengan lugar encuentros de Box y Lucha Libre, que no cumplan con los requisitos que le señale la propia Comisión y el Departamento de Espectáculos del Municipio.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2178.
+
+Cuando un boxeador se presente a la ceremonia del peso y esté dispuesto a tomar parte de una función previamente autorizada y anunciada, y no se presentara su oponente, deberá ser indemnizado con una cantidad equivalente al 50% de los emolumentos que fije el contrato respectivo firmado con la Empresa.
+
+Esta indemnización será pagada por el contrincante en el plazo que fije la Comisión, quedando obligada la Empresa a utilizar sus servicios para que actúe en una función posterior de la misma categoría.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2179.
+
+Los boxeadores o sus representantes están obligados a comunicar a la Empresa y a la Comisión, si no pueden cumplir el compromiso contraído, por incapacidad física o causas graves.
+
+Si la Comisión, comprueba que el aviso dado es verídico, podrá autorizar el cambio de la pelea o la suspensión de la función según el caso sin que el boxeador contrario pueda exigir el pago de indemnización a que se refiere el artículo anterior.
+
+Si el boxeador no da aviso oportunamente, será suspendido por el término que fije la Comisión, tomando en cuenta las circunstancias de si la falta fue deliberada o bien, debida a una simple omisión.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2179 Bis.
+
+Es obligación para los boxeadores y los luchadores, inclusive los emergentes, presentarse en el local en que vaya a celebrarse la función para la que fueron contratados, con una hora de anticipación cuando menos a la fijada para que dé comienzo el espectáculo, debiendo presentarse ante el Director de Encuentros en el caso de los boxeadores para que registre su asistencia, estando prohibido abandonar el local antes de que su compromiso haya sido totalmente cumplido.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2179 Ter.
+
+Los boxeadores contendientes están obligados a subir al cuadrilátero, inmediatamente; que reciban indicaciones para ello del Director de Encuentros, no lo deberán abandonar, sino hasta después de que sea dada a conocer al público la decisión de la pelea.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2179 Quáter.
+
+Los boxeadores quedan obligados a no aceptar contrato de las Empresas para actuar en dos encuentros el mismo día, si entre ellos no media un descanso suficiente para su total recuperación física, debiendo procederse a este respecto y en términos generales en la siguiente forma:
+
+I. Para los boxeadores que toman parte en peleas preliminares, el descanso de un encuentro a otro, será de siete días;
+
+II. Para los boxeadores que tomen parte en eventos especiales, el descanso de una pelea a otra, será cuando menos de diez días, y
+
+III. Para los boxeadores que tornan parte en encuentros semifinales o estelares, el descanso entre una y otra pelea, será de catorce días,
+
+Solamente en casos de excepción previamente autorizados por la Comisión y con las recomendaciones pertinentes por parte del Servicio Médico de la misma, podrá permitirse que los boxeadores tomen parte en dos encuentros en los que medie un lapso menor del señalado en las fracciones anteriores.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2180.
+
+Si dentro de una función, es seriamente castigado durante el desarrollo de la pelea, no se observará lo dispuesto en el artículo anterior, y el plazo que medie entre una pelea y otra, será fijado a juicio del Jefe del Servicio Médico de la Comisión.
+
+Si el boxeador fue derrotado en tres ocasiones en funciones, presentaciones o exhibiciones consecutivas por golpe efectivo o sufre castigo innecesario, será retirado por el término de tres meses y solamente podrá volver a pelear, previo certificado médico expedido por el Jefe del Servicio Médico de la Comisión.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2181.
+
+Los boxeadores o luchadores dentro de una función, presentación o exhibición, podrán usar el seudónimo o nombre que deseen, siempre que éste, no se preste a confusiones o vaya en contra de las buenas costumbres y la moral, debiendo usar siempre el mismo en todas sus actuaciones y programaciones; pero estarán obligados a firmar sus contratos, recibos y documentos relacionados con el boxeo o la lucha libre profesional con su verdadero nombre, añadiendo al calce su seudónimo.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2181 Bis.
+
+El boxeador o luchador, no podrá usar un nombre de combate que no le haya sido autorizado por la Comisión y que no aparezca registrado en su credencial respectiva, en el concepto de que éste no podrá ser igual al que use otro boxeador o luchador profesional.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2182.
+
+En el boxeo profesional solamente se permitirán encuentros de cuatro, seis, ocho y diez "asaltos", con excepción de los Campeonatos Estatales y Nacionales que serán a doce "asaltos" y los Mundiales que serán a quince "asaltos", todos ellos serán de tres minutos de acción, por uno de descanso.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2183.
+
+Los boxeadores o luchadores profesionales mexicanos o extranjeros, que por primera vez vayan a actuar en el Municipio, para poder figurar en un programa, deberán previamente cubrir los siguientes requisitos:
+
+I. Presentar con cinco días de anticipación cuando menos a la fecha en que vayan a actuar personalmente o por conducto de su representante la licencia vigente legalmente expedida por alguna Comisión o Consejo de Box o Lucha Libre, con la cual el Municipio tenga relaciones de reciprocidad. Esta licencia deberá contener el récord completo del boxeador o luchador. Si la licencia no contara con el récord, deberá ser presentado este certificado por la Comisión a la que pertenezca el boxeador o luchador;
+
+II. Presentar en la sesión ordinaria de la Comisión en la que se haya discutido y aprobado el programa correspondiente; la autorización de salida de la Comisión a que pertenezca el boxeador, la cual deberá ser firmada además por el Jefe del Servicio Médico de la Comisión que la haya expedido, para comprobar que el boxeador al salir estaba en buenas condiciones para cumplir su compromiso, y
+
+III. Serán sancionados con un equivalente a 25 salarios mínimos vigentes en el Estado, los boxeadores o luchadores locales estelaristas, que no se presenten ante la Comisión en la Sesión Ordinaria en que se dicten y aprueben los programas de las funciones en los que vaya a tomar parte.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2184.
+
+Los boxeadores para actuar ante el público, deberán presentarse en forma adecuada para el caso, usarán zapatos de material suave, de color negro de preferencia y sin tacón; “concha” o protector; protector bucal hecho a al medida del boxeador y que haya sido aprobado por el Servicio Médico de la Comisión, calcetines blancos, calzón reglamentario y se tendrá especial cuidado de que los contendientes no usen calzón del mismo color.
+
+Quedan obligadas las Empresas a anunciar al público en los programas de mano, el color del calzón que vayan a usar los boxeadores para su fácil identificación.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2185.
+
+Queda prohibido a los boxeadores y luchadores ingerir estimulantes, drogas o bebidas embriagantes, antes o durante sus peleas. Se suspenderá por un año al boxeador o luchador, a su manejador y a su representante que violen este artículo.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2185 Bis.
+
+Queda prohibido a los boxeadores y luchadores, así como a sus auxiliares, usar substancias o elementos que pueden causar daño a sus adversarios durante los encuentros, la Comisión estará facultada para sancionar a los responsables, en el concepto de que, en caso de reincidencia podrá inclusive, cancelar la licencia del que haya cometido la falta si es elemento local, y si fuera del interior de la República o del extranjero, acordará la suspensión correspondiente, debiendo dar aviso a las Comisiones, o Consejos de Box o Lucha Libre con las que tenga relaciones.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2185 Ter.
+
+Queda estrictamente prohibido a los boxeadores y luchadores, subir al cuadrilátero portando en la indumentaria el escudo o colores de la Enseña Nacional, símbolos religiosos, comerciales o políticos, incluyendo las batas extravagantes o llamativas para el caso de los boxeadores con la finalidad de no restarle seriedad al boxeo.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2186.
+
+No serán pagadas las contraprestaciones o emolumentos de un boxeador o luchador por parte de las Empresas, hasta que el Comisionado en Turno haya decidido que la pelea fue honrada, limpia y ajustada al presente Capítulo, si por el contrario, cuando el Comisionado en turno considere que el encuentro no tuvo esas condiciones, ordenará a la Empresa la retención del sueldo del boxeador o luchador para ser entregado a la Comisión en donde quedará depositado hasta que la misma resuelva lo procedente.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2186 Bis.
+
+El procedimiento a que se refiere el artículo anterior, será igualmente aplicado en los casos en que el Comisionado en turno, se vea obligado a suspender una pelea por considerar que los contendientes o uno de ellos, están defraudando los intereses del público.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2186 Ter.
+
+Cuando el Comisionado en turno considere que el representante del boxeador, luchador o sus auxiliares son también responsables de que la pelea no haya sido honrada, limpia o ajustada al presente Capítulo, pondrá los hechos en conocimiento de la Comisión, para que ésta, previa la investigación procedente, imponga la sanción que corresponda.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2187.
+
+Cuando un boxeador o luchador profesional alegue incapacidad física para cumplir los términos de un contrato, deberá exhibir el certificado médico correspondiente expedido precisamente por el Jefe del Servicio Médico de la Comisión.
+
+Si presentare certificado de otro médico no oficial, deberá ser ratificado y firmado previo nuevo examen médico por el titular del Servicio Médico de la Comisión. Los boxeadores o luchadores emergentes, estarán sujetos también a las mismas obligaciones.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+
+DEL PESO DE LOS BOXEADORES
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2188.
+
+Oficialmente, para efectos del presente Capítulo, se aceptarán para los encuentros de boxeo profesional, dos clases de pesos, el peso de la Tabla de Divisiones y el peso de contrato.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2189.
+
+El peso de División se regirá por la siguiente:
+
+TABLA DE PESOS
+
+CATEGORÍA KILOS LIBRAS
+
+Mosca Hasta 50.802 112
+
+Gallo Hasta 53.524 118
+
+Pluma Hasta 57.152 126
+
+Ligero Hasta 61.237 135
+
+Welter Hasta 66.678 147
+
+Medio Hasta 72.574 160
+
+Semipesado Hasta 79.378 175
+
+Gran Peso De 79.378 175
+
+En adelante sin límite alguno.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2189 Bis.
+
+El peso del contrato será el estipulado en número determinado de kilos en la cláusula respectiva del contrato que celebren un empresario y un representante o el boxeador que represente, para la verificación de la pelea.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2189 Ter.
+
+En las peleas celebradas dentro del Municipio y las cuales, no sean de campeonato, se podrá conceder una tolerancia de peso hasta de quinientos gramos sobre el peso pactado en el contrato respectivo, sin que tenga que pagarse indemnización alguna al adversario.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2189 Quáter.
+
+En peso de división, la Comisión, no autorizará la celebración de un encuentro, cuando entre los contendientes haya una diferencia de peso mayor que la señalada en la Tabla de Diferencias, según la división de que se trate.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2189 Quinquies.
+
+En lo referente al Peso de contrato, la Comisión no autorizará la verificación de una pelea cuando entre los contendientes haya una diferencia mayor que la señalada en la Tabla de Diferencias, en la que ya estén incluidos los quinientos gramos a que se refiere el artículo 2234 del presente Capítulo.
+
+TABLA DE DIFERENCIAS
+
+CATEGORÍA KILOS LIBRAS
+
+Mosca 2.000 4 Lbs. 7 Onzas
+
+Gallo 2.500 5 Lbs. 11 Onzas
+
+Ligero 3.500 8 Lbs. 13 Onzas
+
+Welter 5.500 12 Lbs. 2 Onzas
+
+Medio 6.000 13 Lbs. 4 Onzas
+
+Semipesado 7.000 15 Lbs. 7 Onzas
+
+Gran Peso Sin Límite alguno.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2190.
+
+Si un boxeador se excede del peso de la división en que se haya contratado incluyendo los quinientos gramos de tolerancia a que se refiere el artículo 2189 Ter del presente Capítulo y la Comisión, autorizará la pelea por no haber en el peso una diferencia mayor que la correspondiente a la división de que se trata, estará obligado a pagar a su adversario una indemnización equivalente al 25% de los honorarios que vaya a percibir por la pelea.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2190 Bis.
+
+Cuando una pelea se haya pactado en un peso determinado de kilos (peso de contrato) y uno de los contendientes se excede de dicho peso incluyendo los quinientos gramos de tolerancia señalados en el artículo 2189 Ter del presente Capítulo, aun cuando la Comisión autorice el encuentro por no haber una diferencia de peso mayor que la señalada en la Tabla de Diferencias, el boxeador que se haya excedido de peso, estará obligado a indemnizar a su contrincante con el 25% de los sueldos que vaya a percibir por la pelea.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2190 Ter.
+
+Cuando tenga que suspenderse una pelea porque alguno de los boxeadores contendientes se presente en menos o bien, excedido del peso pactado, ya sea de división o de contrato, el boxeador responsable y su representante si lo tiene, estarán obligados a indemnizar justamente a quienes resulten perjudicados con la suspensión.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2191.
+
+Los boxeadores que vayan a tomar parte en una función de Box, serán pasados en el recinto oficial de la Comisión, una sola vez ocho horas antes de que dé comienzo el espectáculo; en el concepto de que la báscula oficial estará a su disposición dos horas antes del registro oficial del pesaje; para que si lo desean, controlen su peso.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2191 Bis.
+
+El peso de los boxeadores se verificará con toda exactitud estando únicamente en calzoncillo, y sólo se permitirá estar presentes a dicha ceremonia de pesaje al Comisionado en turno, el Jefe del Servicio Médico o el auxiliar que haya designado, el Secretario de la Comisión, el representante de la Empresa, los representantes de los boxeadores y los periodistas y fotógrafos de prensa que lo soliciten.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2192.
+
+Una vez terminado el peso de los boxeadores que figuren en un programa, el Secretario de la Comisión formulara la documentación relacionada con la función, la que entregará al Director de Encuentros, quien la distribuirá en la Arena en la forma que corresponde. Una vez terminada la función, dicha documentación será recogida pro el Comisionado en turno, para ser entregada a la Comisión en la Sesión inmediata posterior, con su informe respectivo.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2192 Bis.
+
+Cuando un boxeador que figure en el programa respectivo, inclusive los anunciados como emergentes no se presente a la ceremonia del peso, será multado o suspendido por la Comisión, según la categoría del faltante y la importancia de la pelea en que vaya a tomar parte.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2193.
+
+Los boxeadores que tomen parte en una función antes de pesarse, deberán ser examinados por el Jefe del Servicio Médico de la Comisión o el auxiliar que éste designe, con objeto de que dictamine sobre las condiciones físicas y de salud que guarden, expidiendo el certificado médico correspondiente.
+
+Los boxeadores por su parte, al momento de firmar el contrato o ratificar su firma si ya lo hubieran firmado, manifestarán bajo protesta de decir verdad y asentarán constancia en el mismo, de que se encuentran en buenas condiciones físicas y de salud, así como su aceptación de participar en la misma.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2194.
+
+El boxeador que dolosamente o de mala fe oculte al médico que practique el reconocimiento, su mala condición física, algún padecimiento que no presente signos exteriores, o bien que haya sido "noqueado" en los últimos catorce días, a juicio de la Comisión será multado o suspendido igual que a su representante, según la gravedad del caso.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+
+DEL ESPECTÁCULO DE LA LUCHA LIBRE Y PESO DE LOS LUCHADORES
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2195.
+
+Todo luchador o luchadora que tenga que participar en alguna función, deberá presentarse una hora antes del inicio de ésta, para pasar el examen médico y acreditarse ante el Comisionado en turno.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2196.
+
+Los luchadores o luchadoras deberán participar en la función para la que fueron contratados, con el nombre de cuadrilátero que tengan registrado, con licencia expedida por la Comisión, en caso contrario se harán acreedores a una sanción.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2196 Bis.
+
+Todo luchador o luchadora podrá usar máscara cuando cuente con la autorización de la Comisión, pero dejará de usarla cuando la pierda en una lucha en donde dicha máscara esté en juego.
+
+Para el caso que un luchador o luchadora haya perdido su máscara en una lucha de apuesta y hayan transcurrido cuatro años de esto, podrá volver a enmascararse con otro nombre de cuadrilátero, previa aprobación de la Comisión.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2197.
+
+La Lucha Libre como espectáculo deportivo dentro del Municipio, tendrá dentro de su desarrollo las siguientes modalidades:
+
+l. Mano a Mano: Lucha entre dos contendientes;
+
+II. Team Match: Lucha entre cuatro elementos, luchando dos contra dos, al mismo tiempo a dos o tres caídas sin límite de tiempo;
+
+III. Relevos: Participan cuatro elementos, debiendo participar solamente uno contra uno, pudiéndose relevar las veces que lo crean conveniente con el toque de mano dentro de su respectiva esquina; vencerán aquéllos que rindan a los dos contrarios;
+
+IV. Relevos Australianos: Es un encuentro de tres contra tres, lucha sólo uno por cada equipo, mientras los compañeros están fuera del cuadrilátero, se puede relevar las veces que lo crean conveniente, tocándose la palma de la mano sobre la cuerda de la esquina, ganarán aquéllos que logren eliminar a dos de ellos o al capitán del bando;
+
+V. Relevos Atómicos: Encuentro de cuatro contra cuatro, luchan dos contra dos, quedando fuera del cuadrilátero, dos de cada equipo, gana el que elimina a tres del equipo contrario;
+
+VI. Batalla Campal: Se efectúa entre seis o más elementos al mismo tiempo siendo enemigos todos ellos, conforme se van eliminando se va formando el programa, los dos primeros eliminados en tercero y cuarto lugar, también así sucesivamente;
+
+VII. Relevos Increíbles: Es la modalidad de combatir un rudo y un Técnico para enfrentarlos a una pareja similar, en caso de cambios a la hora del combate, el réferi será el único autorizado para conducir la contienda a su criterio; pero el ganador oficial será aquella pareja que no infrinja al final las reglas de la lucha;
+
+VIII. Relevos Suicidas: Modalidad en que los perdedores de un relevo de cualquier tipo se enfrente a una caída extra para ver quien es el suicida perdedor de máscara o de cabellera;
+
+IX. Ruleta de la Muerte: Es la participación de cuatro o más duetos, tercias o individualmente que tiene como objetivo encontrar un derrotado para que pierda la máscara o la cabellera;
+
+X. Triangular: Este tipo de lucha tiene como finalidad una apuesta, se inicia con un volado donde se .enfrentan a contra b el que pierde en esta etapa se enfrenta al que descansó, para que salga el perdedor del triangular;
+
+XI. Lucha en Jaula: Cualquiera de sus denominaciones: en esta lucha, los participantes en ella, deberán luchar técnicamente hasta que el réferi, quien se encuentra fuera de la jaula, haga sonar el silbato después de transcurridos diez minutos, cuando procedan los elementos a salir de la jaula, siendo el perdedor el último en salir de la misma;
+
+XII. Lucha de Correas: Los participantes en esta lucha sólo podrán luchar en el cuadrilátero, debajo de éste habrá otros luchadores quienes con cinturones o correas al momento que salgan del cuadrilátero, los obligarán a subir a él, y
+
+XIII. Bull Terrier Match: Los participantes en esta lucha estarán encadenados del cuello y lucharán entre sí, ganará quien toca consecutivamente las cuatro esquinas.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2198.
+
+Para efectos del presente Capítulo, oficialmente en el Municipio, se aceptan para los contendientes de la Lucha Libre los siguientes pesos:
+
+CATEGORÍA KILOS
+
+Mosca 52
+
+Gallo 57
+
+Pluma 63
+
+Ligero 70
+
+Welter 78
+
+Medio 87
+
+Semipesado 97
+
+Gran peso de 97
+
+En adelante sin límite alguno.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2199.
+
+En las funciones cuyas luchas que sean de campeonato, se podrá conceder una tolerancia de peso hasta de 10 kilogramos. En las luchas de relevos podrá haber libertad de pesos, siempre que los bandos estén nivelados.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2199 Bis.
+
+En las funciones cuyas luchas sean de campeonato, es obligación de los contendientes presentarse a la ceremonia de peso oficial antes de comenzar el espectáculo, en el concepto de que la báscula estará a su disposición dos horas antes del registro del peso para que si lo desean controlen su peso.
+
+Es indispensable para que se autorice una lucha de campeonato que ambos contendientes estén dentro del peso de la división correspondiente.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+
+BOX FEMENIL
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2200.
+
+En lo concerniente al box femenil, éste se regirá por las disposiciones señaladas en el presente Capitulo.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2201.
+
+Para obtener la licencia correspondiente que permita actuar en funciones de Box, las boxeadoras deberán aprobar los exámenes médicos que establezca el Servicio Médico de la Comisión, inclusive el examen correspondiente al de no gravidez, el cual será practicado bajo la supervisión de la Comisión para salvaguardar la integridad física de las boxeadoras.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2202.
+
+Las boxeadoras podrán actuar en una función en las categorías siguientes:
+
+l. Preliminares, boxeadoras de 4 asaltos;
+
+II Semifinalistas, boxeadoras de 6 asaltos, y
+
+III. Estelares, boxeadoras de 8 asaltos, autorizadas como tales por su elevada capacidad técnica o por estar en las clasificaciones estatales, nacionales a 10 asaltos, por ser campeón estatal, nacional o internacional.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2203.
+
+Las divisiones y el peso límite permitidas por la Comisión y las que regirán para las peleas de boxeo femenil, se consignan en la siguiente tabla de peso:
+
+DIVISIÓN PESO OFICIAL TOLERANCIA PESO MÁXIMO
+
+DE 500 GRAMOS
+
+Paja 45.700 46.200 46.700
+
+Mini mosca 47.000 47.500 48.200
+
+Mosca 49.000 49.500 50.200
+
+Súper
+
+Mosca 50.800 51.300 52.100
+
+Gallo 52.500 53.000 53.500
+
+Súper gallo 53.200 53.700 54.200
+
+Pluma 54.400 54.900 56.200
+
+Súper
+
+Pluma 56.700 57.200 58.500
+
+Lijero 59.000 59.500 60.800
+
+Súper
+
+Ligero 61.200 61.7 00 63.000
+
+Welter 63.500 64.000 65.800
+
+Súper
+
+Welter 66.700 67.200 69.100
+
+Medio 70.000 70.500 72.500
+
+Semi
+
+completo 73.500 74.000 76.000
+
+Crucero 77.000 77.500 80.000
+
+Completo 81 en adelante
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2203 Bis.
+
+El peso de los guantes que regirá las diferentes divisiones, en peleas de box, será:
+
+l. De paja a ligero 6 onzas;
+
+II. De welter a semi completo 8 onzas, y
+
+III. De completo en adelante 10 onzas.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2204.
+
+Cada asalto tendrá una duración de 2 minutos de combate por 1 de descanso.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2205.
+
+Las boxeadoras, para su adecuado desempeño, además del vendaje y los guantes deberán contar con los siguientes implementos:
+
+I. Protector brassier;
+
+II. Protector pélvico;
+
+III. Posicionador anatómico bucal;
+
+IV. Camiseta (top) y calzón de boxeo;
+
+V. Calcetas;
+
+VI. ZapatilIas profesionales de boxeo;
+
+VII. Bata o similar (opcional), y
+
+VIII. Toalla.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2206.
+
+En las funciones en las que vayan a actuar boxeadoras y boxeadores, la empresa deberá disponer de vestidores separados para el pesaje y examen médico correspondiente por parte del Servicio Médico de la Comisión.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2207.
+
+La Comisión en cualquier momento, ajustará los exámenes médicos para mujeres, conforme a un instructivo de aplicación obligatorio, previo a la expedición y/o renovación de licencia, así como para poder pelear o actuar en una función de box.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2208.
+
+Las boxeadoras programadas para tomar parte en la función de box, deberán presentarse 24 horas antes de la pelea en las oficinas de la Comisión, o en el lugar que ésta fije o señale para el efecto de:
+
+I. Realizar el pesaje oficial;
+
+II Pasar el examen médico;
+
+III. Presentar su licencia, y
+
+IV. Presentar su permiso único de salida de boxeador de la Comisión a que pertenezca.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2208 Bis.
+
+Es obligación de las boxeadoras programadas estar en el día de la función autorizada, 1 hora antes de su inicio, en el inmueble o arena donde se desarrolle la función, presentación, o exhibición, para el efecto de reportarse con el Director de Encuentros, y éste dé fe de su presencia y cheque en su programación, para que esté lista para subir al cuadrilátero para su pelea.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+
+DE LOS CONTRATOS
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2209.
+
+La Comisión, reconoce tres tipos de contratos o convenios celebrados por boxeadores:
+
+I. Los que celebre un promotor o representante con el boxeador, para fines de que lo maneje, entrene y administre de acuerdo con las cláusulas del propio contrato;
+
+II. Los que celebre un representante o promotor con una empresa, respecto a una determinada pelea o en su caso, el boxeador con la empresa o promotor, y
+
+III. Los de exclusividad, celebrados por un promotor o representante con una empresa para el efecto de que el boxeador actúe bajo su promoción por un tiempo determinado, de acuerdo con las cláusulas en el contrato respectivo, o entre éstos y el boxeador directamente en condiciones especiales.
+
+Todos los contratos o convenios en materia de Box o Lucha Libre celebrados dentro del Municipio, deberán ser presentados por triplicado para el respectivo registro ante la Comisión, para los efectos administrativos y legales que corresponda, estando obligadas las partes a ratificarlos ante la propia Comisión, para los efectos administrativos y legales que corresponda, estando obligadas las partes a ratificarlos ante la propia Comisión, en un plazo no mayor de 3 días a partir de aquél en se hayan presentado para su registro; no podrán contener cláusulas Leoninas.
+
+Una vez registrado y autorizado el contrato, se entregará un tanto al representante, otro al boxeador y el restante quedará depositado en el archivo de la Comisión.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2210.
+
+Para los efectos del registro de contratos o convenios en la Comisión, un promotor o representante, no podrá programar a más de 3 boxeadores que represente para actuar en una misma función.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2211.
+
+Todo contrato o convenio celebrado fuera de la jurisdicción de la Comisión, tendrá validez para ésta únicamente si éste se encuentra registrado legalmente ante otra Comisión o Consejo de Box o Lucha Libre Municipal, Estatal, Nacional e Internacional, siempre y cuando sus cláusulas no se contrapongan a las disposiciones del presente Capítulo.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2211 Bis.
+
+En caso de que el promotor o representante, realice una actividad ilegal o antideportiva, que motive la cancelación o suspensión definitiva de su licencia, el contrato celebrado se rescindirá y automáticamente quedará sin efectos legales el hecho ante la Comisión.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2211 Ter.
+
+Para los efectos de la garantía anual correspondiente del presente Capitulo, los boxeadores se clasificarán en las siguientes categorías: Estelares, Semifinalistas, Preliminares de 6 u 8 asaltos, Preliminares de 4 asaltos. Quedando a cargo de la Comisión, establecer el monto de dicha garantía.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2212.
+
+Todos los contratos o convenios que se celebren entre representantes y boxeadores, entre representantes y empresas o promotores y entre boxeadores y empresas, deberán contener una cláusula especial en la que se estipule que las partes contratantes. aceptan sin reserva alguna, respetar y cumplir las disposiciones contenidas en el presente Capítulo y a reconocer en igual forma la autoridad de la Comisión Municipal de Box y Lucha Libre, para la aplicación e interpretación de los contratos celebrados y acatar los fallos y decisiones que sobre los mismos dicte la propia Comisión.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2212 Bis.
+
+En los contratos o convenios celebrados entre los representantes con los boxeadores o luchadores, deberán estipularse con toda claridad las obligaciones que ambas partes contraen, así como los derechos que del mismo se deriven.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2213.
+
+Todos los contratos celebrados entre un representante y un boxeador o luchador, deberán contener los siguientes requisitos:
+
+l. Término y plazo por el cual se celebran;
+
+II. La participación exacta que percibirá el primero de los emolumentos que cobre el segundo por cada una de sus peleas, no debiendo exceder esta participación del 30% de la cantidad que el boxeador reciba por las peleas en actúe;
+
+III. La garantía mínima anual que el representante otorgue al boxeador o luchador, y que servirá de base para fijar la indemnización que le corresponde a éste, en los casos en que el representante no le consiga suficientes peleas con los emolumentos necesarios para cubrir el importe de la garantía otorgada;
+
+IV. La fianza que otorgue el representante para la garantía de lo estipulado en el inciso anterior y la cual deberá ser a satisfacción de la Comisión, y
+
+V. La autorización por escrito debidamente firmada por quien legalmente ejerza la patria potestad, ratificada personalmente ante la Comisión, cuando se trate de un menor de edad, o bien la constancia notarial de que se ha concedido dicha autorización.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2213 Bis.
+
+La falta de cumplimiento de alguno de los requisitos a que se refiere el artículo anterior, será motivo para declarar la nulidad absoluta en el contrato por parte de la Comisión.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2213 Ter.
+
+Cuando un contrato llegue al término de su vigencia, quedará sin validez alguna, obligándose el representante a no contratar los servicios del boxeador con ninguna empresa, a menos que obtenga la autorización por escrito del boxeador o luchador en ese sentido.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2214.
+
+Cuando un representante cobre un porcentaje mayor que el estipulado en el contrato respectivo, además de que estará obligado a devolver al boxeador o luchador la cantidad percibida indebidamente, se le impondrá una multa o suspensión, según lo amerite el caso y a juicio de la Comisión.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2214 Bis.
+
+Cuando un representante firme contrato con una empresa, aceptando que el boxeador o luchador que represente figure en determinado programa, el boxeador o luchador quedará obligado a respetar y cumplir el compromiso contraído.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2214 Ter.
+
+Si un boxeador o luchador, injustificadamente no respeta e incumple el compromiso contraído por su representante con una empresa, independientemente de que el sueldo que iba a percibir se tome en cuenta para los efectos de la garantía a que se refiere la fracción III del artículo 2203 del presente Capítulo, estará obligado a pagar a su representante el porcentaje que le correspondía por la pelea que no cumplió y a indemnizar a la empresa por los daños causados, siempre y cuando ésta lo solicite.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2214 Quáter.
+
+Cuando un representante sea suspendido por la Comisión, los boxeadores o luchadores que represente, quedarán suspendidos también, a menos que los contratos celebrados por ambas partes, sean rescindidos por los boxeadores o luchadores, siempre que esto sea aprobado por la Comisión.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2215.
+
+La Comisión, acepta por lo que se refiere a la vigencia o plazo por el cual se celebren los contratos de servicios profesionales, la libre contratación, con la limitante de que dichos contratos no podrán tener una vigencia menor de un año, ni mayor de tres.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2216.
+
+Para los efectos de la garantía mínima anual correspondiente del presente Capitulo, los boxeadores se clasificaran en las siguientes categorías:
+
+I. Estelaristas 250 salarios mínimos vigentes en el Estado.
+
+II. Semifinalistas 150 salarios mínimos vigentes en el Estado.
+
+III. Preliminares
+
+de 6 u 8 asaltos 100 salarios mínimos vigentes en el Estado.
+
+IV. Preliminares de 4 asaltos, podrán firmar si lo desean, únicamente carta poder a un representante, quedando obligadas ambas partes a suscribir el contrato correspondiente, con la garantía establecida cuando suban de categoría.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2216 Bis.
+
+En todos los contratos celebrados entre representantes y boxeadores, deberá especificarse que cuando éstos suban o bajen de categoría, a juicio de la Comisión, deberá firmarse nuevo contrato, con las estipulaciones que corresponda al monto de la nueva garantía.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2216 Ter.
+
+La Comisión, podrá aceptar la rescisión de un contrato a petición de una o de ambas partes, cuando ésta compruebe que el contrato ha sido violado por la otra, sirviendo de base para la indemnización de la contraparte, la garantía otorgada por el representante al boxeador o luchador, dividiéndola por meses y tomando en cuenta los que faltan para que la vigencia del contrato se dé por terminada.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2217.
+
+Los contratos que se celebren entre las empresas, los representantes, los boxeadores o luchadores, contendrán los siguientes datos: nombre de los contratantes; sueldos que percibirán los boxeadores o luchadores por su actuación; número de "asaltos" o "caídas" que durará la pelea y peso de los contendientes; fecha, hora y lugar en que se vaya a desarrollar el encuentro a que se refiere el contrato.
+
+En una de sus cláusulas se especificará en forma precisa la fecha en que se llevará a cabo la función, sin necesidad de nuevo contrato, en caso de que ésta llegaré a suspenderse por causa de fuerza mayor.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2217 Bis.
+
+Cuando por alguna causa determinada un representante no pueda firmar personalmente el contrato para la actuación de un boxeador o luchador, podrá autorizar a éste por escrito, a firmar el contrato respectivo y a cobrar sus emolumentos, quedando sujeto a convenio particular entre ambos, lo referente a porcentaje, que percibirá el representante en estos casos.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2217 Ter.
+
+Un representante no podrá contratar con una empresa, a más de tres boxeadores o luchadores que represente, para actuar en un mismo programa.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+
+DE LOS GUANTES DE LOS BOXEADORES
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2218.
+
+Los guantes que se usen en encuentros de boxeo profesional serán de cerda y hule espuma y de piel suave, tendrán un peso de seis onzas hasta la división de peso welter y de ocho onzas de peso medio en adelante.
+
+Las empresas están obligadas a proporcionar los juegos de guantes que se requieran en una función, debiendo ser nuevos para las peleas estelares y en perfecto estado los que se utilicen en las demás peleas aunque éstos hayan sido usados anteriormente.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2218 Bis.
+
+Queda estrictamente prohibido usar guantes quebrados o que tengan relleno defectuoso. Cuando esto suceda, serán responsables el Director de Encuentros y el auxiliar principal del boxeador, aplicándose la sanción que a juicio proceda por la Comisión.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2218 Ter.
+
+Las vendas para las manos de los boxeadores profesionales serán de gasa con una longitud máxima de nueve metros y con un ancho no mayor de cinco centímetros, para cada mano. Se sujetarán con tela adhesiva que no podrá tener una longitud mayor de un metro cincuenta centímetros y un ancho máximo de cuatro centímetros para cada mano. La tela adhesiva sólo podrá usarse sobre el dorso de la mano, alrededor de la muñeca y entre los dedos para sujetar el vendaje, quedando prohibido ponérsela sobre los nudillos.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2219.
+
+El boxeador, representante o auxiliar que infrinjan las anteriores disposiciones, será sancionado en la forma que estime procedente la Comisión.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+
+DE LOS CAMPEONATOS ESTATALES
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2220.
+
+Cuando alguna empresa de box profesional organice dentro del Municipio peleas de Campeonato Estatales, la Comisión, tendrá la obligación de comunicarlo a la Asociación o Consejo de Box correspondiente, para que ésta envíe un Comisionado que la represente en la función respectiva o para que delegue su representación en la Comisión Municipal. Sin este requisito no podrá permitirse una pelea titular.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2221.
+
+Cuando la Comisión, acepte un retador a un Título Estatal, deberá comunicarlo a la Asociación o Consejo de Box correspondiente, para su aprobación y notificación del reconocimiento del retador, la Asociación o Consejo de Box correspondiente emplazará al Campeón quien deberá exponer su título ante el retador en un plazo no mayor de cuarenta y cinco días a partir de la fecha en que fue emplazado.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2222.
+
+El Campeón Estatal y el retador deberán hacer un depósito equivalente a 200 salarios mínimos vigentes en el Estado, ante la Comisión, para garantizar que se llevará a efecto la pelea titular y los cuales serán devueltos al término de la función.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2223.
+
+En peleas de Campeonato Estatal será requisito indispensable que el Campeón y el retador estén dentro del peso de la división correspondiente.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2224.
+
+En una pelea de Campeonato Estatal, el peso de los contendientes se verificará por una sola vez ocho horas antes de que dé comienzo la función, permitiéndose a ambos contendientes, comprobar su peso desde cuatro horas antes de la ceremonia del peso oficial. Para este efecto, la Comisión, señalará lugar a los boxeadores donde puedan hacer esta comprobación.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2224 Bis.
+
+Si alguno de los boxeadores al verificar el peso oficial está fuera de la división correspondiente, se ordenará a la Empresa que promueva la función, que de los honorarios del boxeador se le descuente una cantidad equivalente al 25% de su sueldo y le sea entregado a su rival como indemnización por el sobrepeso.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### ARTÍCULO 2226.
+
+Si el Campeón no se encuentra dentro de la división correspondiente, perderá automáticamente el título, pero el encuentro se celebrará a doce "asaltos".
+
+Si al efectuarse la pelea, el retador resulta vencedor, será reconocido como nuevo campeón de la división, si el ex-campeón fuera el vencedor, el título será declarado vacante. Si el resultado del encuentro fuera de empate, el título también será declarado vacante.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2225.
+
+Si el retador a un título es quien se encuentre excedido de peso, el encuentro ya no será considerado como de Campeonato. Se procederá en este caso a hacer el anuncio al público, autorizándose el encuentro a diez "asaltos".
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2226 Bis.
+
+En caso de que el Campeón hubiere perdido el título en la báscula por exceso de peso, el cinturón emblemático de la división será presentado al público, por el Anunciador en turno, este Oficial informará al público de las circunstancias del caso y de las disposiciones que haya dictado la Comisión.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2227.
+
+Será obligación de la empresa que promueva un encuentro de Campeonato, consignar en los programas de mano, las disposiciones de la Comisión en materia de Campeonatos, para conocimiento del público.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2228.
+
+Las anteriores disposiciones serán aplicadas también en peleas de eliminatoria para buscar retadores a un titulo o de nuevos campeones cuando las divisiones se encuentren, sin titulares.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2229.
+
+Cuando el Campeón o el retador, se nieguen a pelear, se les considerará responsables de la suspensión del encuentro y el depósito que hayan hecho ante la Comisión lo perderán ingresando a la Tesorería Municipal como multa.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+
+DE LAS CLASIFICACIONES Y CAMPEONATOS MUNICIPALES
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2230.
+
+La Comisión será quien emita el boletín oficial mensual con las clasificaciones de los boxeadores o luchadores en las diferentes divisiones, así como de los más destacados en el mes.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2231.
+
+Como estímulo para los boxeadores y luchadores, se instituye en el Municipio, el título de Campeón Municipal de Box o Lucha Libre, para cada una de las divisiones señaladas en el presente Capítulo. Para poder ostentarlo, es necesario contar con licencia expedida por la Comisión, porque los cinturones que acrediten a los diferentes campeones, serán propiedad de la Comisión. Los campeones podrán solicitar por su cuenta réplicas de los cinturones respectivos.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2232.
+
+En el desarrollo de una Lucha de Campeonato, podrá haber empate, en este caso el campeón seguirá ostentando el título.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2233.
+
+El Campeón Municipal de Lucha Libre, estará obligado a exponer su título cuando sea emplazado por la Comisión, ante el retador que ésta designe, no debiendo excederse el término de cuarenta y cinco días.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2234.
+
+En cuanto a los contratos, se aplicará de forma supletoria, para todo aquello que no se encuentre preceptuado en el presente apartado.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+
+DE LOS CAMPEONATOS NACIONALES Y MUNDIALES DE LUCHA LIBRE
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2235.
+
+Como un estímulo para los luchadores, se constituye en el Municipio, el título de Campeón Estatal de Lucha Libre profesional para cada una de las ocho divisiones que señala el Artículo 2198 del presente Capítulo.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2236.
+
+Para poder ostentar cualquier título, será necesario contar con licencia legalmente expedida por la Comisión, o bien por alguna otra Comisión o Consejo de Lucha Libre Municipal, en los términos establecidos por el presente Capitulo.
+
+El Título de Campeón Estatal de Lucha Libre, se otorgará al que resulte vencedor de quien actualmente y de manera legal ostente un Campeonato, reconocido por las Comisiones o Consejos de Box y Lucha del Estado.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2237.
+
+En las luchas de Campeonatos Estatales, será requisito indispensable que los luchadores contendientes estén dentro del peso de división correspondiente.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2238.
+
+Es indispensable que los luchadores que se disputen un titulo, se presenten con ocho horas de anticipación a la ceremonia de pesaje oficial en el lugar que señale la Comisión.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2239.
+
+En las funciones realizadas en el Municipio, en las cuales tenga verificativo algún Campeonato Mundial de Lucha Libre, será necesario que los luchadores cuenten con licencia legalmente expedida por la Comisión, o bien por alguna otra Comisión o Consejo de Lucha Libre Nacional o Internacional, además de hacer del conocimiento al Consejo Mundial de Lucha Libre (CMLL), para efectos de que éste tome las medidas pertinentes, siempre y cuando no se contravengan las disposiciones establecidas en el presente Capítulo.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+
+DE LAS SANCIONES
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2240.
+
+La Comisión Municipal de Box y Lucha Libre, está facultada para imponer sanciones a las Empresas que estando bajo su jurisdicción y regidas por el presente Capítulo, ofrezcan espectáculos, exhibiciones y presentaciones en que tengan lugar encuentros de Box y Lucha Libre profesionales en el Municipio, que constituyan un fraude al público, o que por alguna situación especial provoquen con ello daño y desprestigio al Boxeo o a la Lucha Libre profesionales, aun cuando dichas presentaciones, se celebren fuera de la jurisdicción de la Comisión, si el elemento tiene licencia de la Comisión.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2241.
+
+La Comisión podrá imponer a los infractores de las disposiciones contenidas en el presente Capítulo:
+
+I. Amonestaciones públicas o privadas;
+
+II. Sanciones económicas, que puede ir de los diez a los cien días de salario mínimo general vigente de la zona tomando en cuanta los antecedentes de los infractores, la gravedad de la falta y de las circunstancias que hayan mediado el caso;
+
+III. Suspensión temporal de la licencia que pueden ser de quince días hasta un año, para poder presentar o actuar en espectáculos, exhibiciones y presentaciones en que tengan lugar encuentros de Box y Lucha Libre profesionales en el Municipio, a juicio de la Comisión y tomando en cuenta las circunstancias señaladas en la fracción anterior, y
+
+IV. Suspensión definitiva de la licencia para poder presentar o actuar en espectáculos, exhibiciones y presentaciones en que tengan lugar encuentros de Box y Lucha Libre profesionales en el Municipio, a juicio de la Comisión.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2242.
+
+La Comisión, tendrá facultades no sólo para controlar y vigilar la conducta de un elemento que tenga licencia expedida por la propia Comisión, que le permita actuar, presentar o actuar en espectáculos, exhibiciones y presentaciones en que tengan lugar encuentros de Box y Lucha Libre profesionales en el Municipio, sino también lo hará en los lugares destinados para su entrenamiento y acondicionamiento físico y en todas aquellas conductas personales relacionadas con sus actividades profesionales deportivas.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2243.
+
+Cuando las personas físicas o morales a que se refiere el presente Capítulo, infrinjan disposiciones de tal manera que ocasionen desprestigio a los espectáculos, exhibiciones y presentaciones en que tengan lugar encuentros de Box y Lucha Libre profesionales en el Municipio, así como a la Naturaleza misma del deporte, la Comisión Municipal de Box y Lucha Libre, estará facultada para cancelar las licencias que legalmente haya expedido a los responsables.
+
+En estos casos, la Comisión, notificará dicho acuerdo a las Comisiones o Consejos de Box y Lucha Libre de la República y del Extranjero con las que se tengan relaciones de estricta reciprocidad, a efecto de que no se permita la actuación del infractor en sus jurisdicciones.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2244.
+
+No se considerará como sanción la cancelación de licencias expedidas a Boxeadores. Representantes, Auxiliares, Oficiales y Luchadores, decretados por la Comisión Municipal de Box y Lucha Libre cuando el Jefe del Servicio Médico de la misma, certifique que alguno de ellos se encuentre imposibilitado físicamente para seguir actuando.
+
+> <small>(ADICIONADO CON LOS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+
+# LIBRO OCTAVO
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2245.
+
+El presente Capítulo es de observancia obligatoria para todos los servidores públicos de la Administración Pública Municipal, y tiene por objeto establecer las bases y lineamientos para la implementación, ejecución y evaluación de la Mejora Regulatoria Municipal, a efecto de promover la inversión productiva y social así como combatir la opacidad y la corrupción mediante la sistematización y tecnificación de los procedimientos administrativos bajo criterios de eficiencia, eficacia, transparencia y honestidad.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2246.
+
+El cumplimiento y aplicación del presente Capítulo corresponde a las dependencias y entidades de la Administración Pública Municipal.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2247.
+
+Para efectos de este Capítulo se entenderá por:
+
+I.- Ayuntamiento.- El Honorable Ayuntamiento del Municipio de Puebla;
+
+II.- Presidente.- El Presidente Constitucional del Honorable Ayuntamiento del Municipio de Puebla;
+
+III.- Contraloría.- La Contraloría del Honorable Ayuntamiento del Municipio de Puebla;
+
+IV.- Consejo.- El Consejo de Mejora Regulatoria del Honorable Ayuntamiento del Municipio de Puebla;
+
+V.- Dependencia.- Las Secretarías, Direcciones, Órganos Desconcentrados y Unidades Administrativas que integran la Administración Pública Municipal Centralizada;
+
+VI.- Desregulación.- Al componente de mejora Regulatoria que se refiere a la eliminación parcial o total de la regulación vigente de algún sector económico o giro específico, para facilitar el desarrollo de la actividad económica;
+
+VII.- Entidad.- Los organismos públicos descentralizados, fideicomisos públicos y empresas con participación municipal mayoritaria que integran la Administración Pública Descentralizada;
+
+VIII.- Mejora Regulatoria.- El conjunto de acciones gubernamentales que tienen como propósito desregular o actualizar el marco jurídico de la Administración Pública Municipal, para simplificar los trámites administrativos, con la finalidad de facilitar la apertura de empresas, fomentar la generación de empleos y lograr la simplificación administrativa en beneficio de los ciudadanos;
+
+IX. Regulación.- El conjunto de reglas establecidas en el marco jurídico de la Administración Pública Municipal, para la realización de trámites y obtención de servicios;
+
+X. Registro de Trámites y Servicios Municipales.- Es el catálogo informativo de los trámites y servicios que los ciudadanos realizan en las dependencias y entidades del Municipio. Dicho registro estará a cargo de la Secretaría de Fomento Económico, Turismo y Empleo, la cual diseñará las fichas informativas de cada uno de los trámites;
+
+XI. Servidores Públicos.- Las personas que desempeñen un empleo, cargo o comisión de cualquier naturaleza, en la Administración Pública Municipal centralizada y paramunicipal, así como las personas que administren, manejen, recauden, apliquen o resguarden recursos municipales, sea cual fuere la naturaleza de su nombramiento o elección; y
+
+XII. Simplificación.- Al procedimiento por el cual se propicia la reducción de plazos y requisitos de trámites.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2248.
+
+Para la ejecución de las acciones que en materia Regulatoria realice el Consejo, se deberán observar, además de los criterios señalados en los artículos precedentes, lo dispuesto en los acuerdos y convenios de colaboración que el Ayuntamiento haya celebrado con dependencias y entidades de los diferentes niveles de gobierno, así como con organizaciones no gubernamentales y universidades públicas y privadas.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+
+DEL CONSEJO DE MEJORA REGULATORIA
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2249.
+
+El consejo es un órgano colegiado de consulta, auxiliar de la administración Pública Municipal, encargado de promover la transparencia en la elaboración y aplicación de las regulaciones de carácter municipal, así como procurar que dichas regulaciones generen beneficios superiores a sus costos, a favor de la sociedad.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2250.
+
+El Consejo se integrará con los siguientes miembros:
+
+I.- Un Presidente, que será el Presidente Municipal;
+
+II.- Un Secretario Técnico, que será el Secretario de Fomento Económico, Turismo y Empleo;
+
+III.- Cinco vocales que serán:
+
+a) Vocal A: El Regidor Presidente de la Comisión de Gobernación, Justicia y Seguridad Pública;
+
+b) Vocal B: El Regidor Presidente de la Comisión de Industria y Comercio;
+
+c) Vocal C: El Presidente de la Comisión de Derechos Humanos;
+
+d) Vocal D: Un representante del sector empresarial, quien será invitado por el Presidente Municipal;
+
+e) Vocal E: Un representante del sector social, quien será invitado por el Presidente Municipal;
+
+IV. Un Asesor en materia de Transparencia que será el Contralor Municipal; y
+
+V. Un Asesor Jurídico que será el Síndico del Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2251.
+
+En Consejo tendrá las siguientes atribuciones:
+
+I. Realizar todas las acciones necesarias que contribuyan a que el Municipio de Puebla cuente con un marco regulatorio eficaz y eficiente para el adecuado funcionamiento e interacción de las actividades económicas presentes y futuras.
+
+II. Proveer la constante revisión y simplificación de los trámites y procedimientos administrativos;
+
+III. Realizar y someter a consideración del Ayuntamiento el Plan Municipal para la Mejora Regulatoria del Municipio de Puebla;
+
+IV. Realizar y proponer los Programas en materia de mejora regulatoria;
+
+V. Evaluar mensualmente el cumplimiento y consecución de metas establecidos en los Programas de Mejora Regulatoria;
+
+VI. Generar y proponer al Ayuntamiento políticas públicas en la materia cuyos horizontes busquen la generación de inversión productiva dentro del territorio del Municipio de Puebla;
+
+VII. Proponer al Ayuntamiento políticas públicas para el combate a la opacidad y la corrupción mediante la reducción, sistematización y tecnificación de los procedimientos y requisitos administrativos;
+
+VIII. Revisar y eliminar de los sistemas y procedimientos de atención al público, la duplicidad de funciones y requisitos legales innecesarios, promoviendo para tal efecto la actualización a las normas legales previamente establecidas;
+
+IX. Proponer la supresión de los excesos de información detallada en los formatos y solicitudes que utilicen las dependencias y organismos municipales en los trámites y servicios que realicen en el ejercicio de sus funciones; y
+
+X. Remitir a la Contraloría Municipal los acuerdos y resoluciones que se tomen en materia de mejora regulatoria.
+
+Los miembros enumerados en las fracciones I, II y III del artículo 2250, tendrán voz y voto en las decisiones que tome el Consejo, mientras que los miembros enumerados en las fracciones IV y V participarán con voz pero sin voto.
+
+A propuesta del Presidente Municipal se podrá invitar de manera específica a las sesiones del Consejo a otros titulares de dependencias u organismos, federales, estatales y municipales, regidores, diputados, especialistas, representantes de universidades, de los colegios de profesionistas y de diversos sectores económicos y sociales, para que aporten sus experiencias y conocimientos en la materia.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2252.
+
+El cargo de miembro del Consejo será honorífico y por tanto no percibirá remuneración económica. Los integrantes del Consejo podrán nombrar un suplente para asistir a las sesiones del mismo.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2253.
+
+Las facultades del Presidente del Consejo son las siguientes:
+
+I. Presidir y conducir las sesiones del Consejo;
+
+II. Representar al Consejo ante dependencias, instituciones y organismos de carácter público y privado;
+
+III. Apoyar y promover las iniciativas y propuestas del Consejo;
+
+IV. Convocar a los vocales por invitación al Consejo cuando sea necesario o a solicitud de alguno de sus miembros;
+
+V. Firmar, en forma conjunta con los vocales del Consejo, los acuerdos que se tomen;
+
+VI. Vigilar el cumplimiento de este Capítulo;
+
+VII. Calendarizar, en coordinación con los miembros del Consejo, la fecha y hora en que se celebrarán las reuniones de trabajo;
+
+VIII. Encomendar al Secretario Técnico la elaboración de estudios o iniciativas legales relacionados con los casos que sean presentados en el Consejo;
+
+IX. Promover la participación activa de los vocales en el Consejo, propiciando la asistencia y colaboración de los miembros titulares, a fin de facilitar que prosperen las propuestas que se formulen en el seno del organismo y;
+
+X. Las demás que determinen las disposiciones legales y reglamentarias correspondientes en la materia.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2254.
+
+Son facultades y obligaciones del Secretario Técnico las siguientes:
+
+I. Convocar, a solicitud del Presidente, a los miembros del Consejo de manera oportuna a las sesiones del organismo;
+
+II. Elaborar la propuesta de orden del día de cada sesión, dando seguimiento a los casos que se presenten y agregar los nuevos temas o asuntos que involucren la participación de los vocales;
+
+III. Levantar las actas de cada sesión del Consejo;
+
+IV. Dar seguimiento a los acuerdos y propuestas que surjan en las reuniones ordinarias y extraordinarias del Consejo;
+
+V. Rendir informe por escrito a los miembros del Consejo en cada reunión que se lleve a cabo, sobre los avances y asuntos pendientes, relacionados con las atribuciones del organismo;
+
+VI. Difundir las acciones, compromisos y logros obtenidos por el Consejo y sus grupos de trabajo; y
+
+VII. Las demás que determinen las disposiciones legales y reglamentarias correspondientes en la materia.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2255.
+
+A los vocales del Consejo les corresponde:
+
+I. Asistir a las reuniones a las que fueron convocados;
+
+II. Presentar propuestas relacionadas con el objetivo general y las atribuciones del Consejo;
+
+III. Colaborar en la elaboración de los estudios, proyectos e iniciativas cuya elaboración sea acordada en el Consejo;
+
+IV. Participar de manera directa o por medio de representante, en las reuniones de los grupos de trabajo que se formen par cumplir con los objetivos del Consejo; y
+
+V. Las demás que determinen las disposiciones legales y reglamentarias correspondientes en la materia.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2256.
+
+El Consejo sesionará cuantas veces considere necesario, debiendo hacerlo por lo menos una vez al mes.
+
+Para que una sesión se considere válidamente instalada, deberán concurrir por lo menos la mitad más uno de los vocales del Consejo, así como el Presidente y el Secretario Técnico.
+
+El Secretario Técnico deberá notificar, con al menos 48 horas de anticipación a todos los miembros del Consejo, el lugar y la hora en que se llevará a cabo la sesión, así como el orden del día que será tratado en la misma.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+
+DE LA MANIFESTACIÓN DE IMPACTO REGULATORIO
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2257.
+
+La manifestación de impacto regulatorio es el estudio en el que se justifica la creación o modificación de regulaciones que impliquen costos para el cumplimiento de los particulares.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2258.
+
+La Manifestación de Impacto Regulatorio se integrará siempre que se presente un proyecto de regulación, ya sea nuevo o de reformas a uno existente, que tenga incidencias en actividades económicas o imponga trámites a nuevos procedimientos vinculados a la economía.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2259.
+
+En la Manifestación de Impacto Regulatorio deberán especificarse los siguientes aspectos:
+
+I. Definición del problema;
+
+II. Alternativas consideradas y soluciones propuestas;
+
+III. Marco jurídico y antecedentes jurídicos;
+
+IV. Impacto anticipado de costos y beneficios;
+
+V. Instrumentación y aplicación;
+
+VI. Consulta; y
+
+VII. Identificación y descripción de trámites.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2260.
+
+En la manifestación del impacto regulatorio deberán indicarse las situaciones o las conductas que se pretenden normar o controlar, así como una explicación clara y sin tecnicismos de la problemática a resolver, las soluciones y propuestas que fueron consideradas.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2261.
+
+Las propuestas de nuevas regulaciones o de modificaciones de las existentes, harán siempre referencia al marco jurídico que se relacione con ellas. También especificarán si se requiere la eliminación de otras regulaciones y en su caso, indicar a qué instrumento legal de los diferentes niveles de gobierno da cumplimiento.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2262.
+
+El cálculo de los costos se hará atendiendo a:
+
+I. Los efectos positivos económicos y sociales potenciales de la propuesta y que tengan incidencia en la actividad económica del Municipio, así como la determinación de la naturaleza, contenido, alcance, beneficios directos e indirectos que resultarían de la instrumentación de la regulación propuesta, así como los sectores que resultarían beneficiados, directa o indirectamente, con la regulación propuesta; y
+
+II. Los efectos negativos en el entorno social y la actividad económica que pudieran ocasionarse por la regulación propuesta, que tengan incidencia en la actividad económica del Municipio.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2263.
+
+Los costos a considerar, serán los siguientes:
+
+I. Costos de capital, como lo son terrenos, infraestructura y equipo;
+
+III. Costos de transacción, incluyendo costos legales, de consultoría o de tiempo para cumplir con los requerimientos administrativos de la regulación;
+
+IV. Costos de salud, medio ambiente u otro de carácter social; y
+
+V. Costos administrativos que asuman las dependencias municipales, que se encargarían de instrumentar, y aplicar la regulación propuesta, como son los costos de personal, así como los derivados de inspecciones u otras actividades para asegurar el cumplimiento de las regulaciones.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2264.
+
+Las manifestaciones de impacto Regulatorio se remitirán al Consejo con copia del proyecto a través de la Secretaría de Fomento Económico, Turismo y Empleo, para su revisión.
+
+Si los proyectos o las manifestaciones de impacto Regulatorio no cumplen con las previsiones legales y reglamentarias, El Consejo dentro de los diez días hábiles siguientes a la presentación de los documentos prevendrá a la dependencia o entidad solicitante para que los corrija, o subsane las deficiencias, así como las recomendaciones que se estime pertinentes.
+
+El Consejo deberá indicar de manera concreta los puntos sobre los que versarán las deficiencias que contengan los proyectos y las manifestaciones de impacto regulatorio.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2265.
+
+Los proyectos de regulación y los manifiestos de impacto regulatorio que cumplan con los requisitos exigibles serán revisados por el Consejo, quien deberá emitir su dictamen dentro del plazo de 30 días contados a partir de la presentación de los documentos o de los escritos que en su caso, corrijan o subsanen deficiencias.
+
+Si el dictamen es favorable, el Consejo remitirá un dictamen de mejora regulatoria al Ayuntamiento para la aprobación, expedición y publicación de la regulación.
+
+Si el dictamen es desfavorable, la dependencia o entidad solicitante se sujetará a los términos que emita el Consejo.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+
+DE LAS CÉDULAS DE REGISTRO DE TRÁMITES Y SERVICIOS
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2266.
+
+Las cédulas de registro de trámites y servicios, serán documentos aprobados por el Ayuntamiento, en el cual se establecerán los requisitos necesarios para la gestión de servicios que realicen los particulares ante las dependencias y entidades de la Administración Pública Municipal. Las Cédulas de Registro deberán contener lo siguiente:
+
+I. Nombre y clave del trámite;
+
+II. Fecha de registro o actualización;
+
+III. Documento que se obtiene;
+
+IV. Fundamentación jurídica;
+
+V. Casos en los que se debe o puede realizarse el trámite;
+
+VI. Requisitos del trámite;
+
+VII. Datos y documentos específicos que se deban anexar a la Cédula;
+
+VIII. Plazo máximo que tiene la dependencia o entidad para resolver;
+
+IX. Monto de los derechos o costo del trámite;
+
+X. Vigencia de los permisos, licencias o autorizaciones, registros y demás resoluciones que se emitan;
+
+XI. Criterios de resolución de trámite;
+
+XII. Unidades administrativas en las que puede presentar el trámite;
+
+XIII. Días y horarios de atención al público;
+
+XIV. Número de teléfono, fax y correo electrónico, así como la dirección y demás datos relativos a cualquier otro medio, que permita el envío de consultas, documentos;
+
+XV. Apartado de observaciones; y
+
+XVI. Número de teléfono, fax y correo electrónico de la Contraloría Municipal para los casos de quejas o denuncias en contra de servidores públicos.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2267.
+
+La Secretaría de Fomento Económico, Turismo y Empleo llevará un registro de cédulas de trámites y servicios que se realicen en las dependencias y entidades de la Administración Pública Municipal; al cual se le denominará: Registro Municipal de Trámites y Servicios.
+
+Las dependencias o entidades, bajo su responsabilidad, deberán entregar a la Secretaría de Fomento Económico, Turismo y Empleo y a la Contraloría Municipal, la información actualizada de los trámites en los formatos que les sean proporcionados en un plazo no mayor de quince días hábiles, contados a partir de la fecha de solicitud correspondiente.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2268.
+
+No se podrán exigir trámites, requisitos o plazos distintos a los inscritos en el Registro Municipal de Trámites y Servicios, salvo lo previsto en disposiciones jurídicas expedidas con posterioridad.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+
+DE LOS PROGRAMAS DE MEJORA REGULATORIA
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2269.
+
+Los Programas de Mejora Regulatoria son instrumentos de ejecución de las acciones en materia de mejora regulatoria para el logro de los objetivos establecidos en el presente Reglamento; en ellos se precisan las acciones a realizar, se determinan los responsables y se establecen los plazos para su cumplimiento.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2270.
+
+Para la consecución de las metas establecidas en los Programas de Mejora Regulatoria podrán establecerse acuerdos de coordinación entre la autoridades responsables de su ejecución, así como convenios de colaboración con los sectores social y privado, en los que se establecerán los aspectos esenciales par la elaboración o cumplimiento de sus fines.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2271.
+
+Los Programas de Mejora Regulatoria deberán ser revisados anualmente, dentro de los treinta primeros días de cada año, a efecto de actualizarlo y adecuarlo a las necesidades imperantes dentro del Municipio.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2272.
+
+Los Programas de Mejora Regulatoria deberán ser congruentes con el Plan Municipal de Desarrollo y deberán contener por lo menos lo siguiente:
+
+I. Su ubicación en el contexto de la planeación del desarrollo económico y social del Municipio;
+
+II. Determinaciones específicas sobre:
+
+a) Los objetivos, políticas y metas para la mejora regulatoria del Municipio;
+
+b) La justificación del Programa;
+
+c) Las acciones específicas para la desregulación y simplificación administrativa;
+
+d) Las políticas para el combate a la corrupción y opacidad dentro de la gestión pública;
+
+e) Las políticas públicas y acciones tendientes a incrementar los proyectos de inversión social y productiva;
+
+f) Los esquemas de seguimiento y cumplimiento de metas y objetivos de los programas;
+
+g) Los indicadores de evaluación y su impacto socioeconómico;
+
+h) Las unidades administrativas responsables.
+
+i) El periodo total de ejecución para la puesta en operación de las acciones y metas establecidas en el Programa.
+
+III. El análisis de los costos y beneficios que se originen con la aplicación del programa;
+
+IV. Las metas hacia cuya realización estarán dirigidas las acciones de Mejora Regulatoria;
+
+V. Los instrumentos administrativos y jurídicos para la ejecución del programa; y
+
+VI. Las demás que dicta el Ayuntamiento y el Consejo.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2273.
+
+Corresponde a la Contraloría Municipal y a la Secretaría de Fomento Económico, Turismo y Empleo el seguimiento y consecución de las acciones y metas establecidas en los Programas de Mejora Regulatoria.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 17 DE FEBRERO DE 2006)</small>
+
+DE LA SUPERVISIÓN Y VIGILANCIA
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2274.
+
+La Contraloría Municipal tendrá la facultad de verificar el cumplimiento de las obligaciones de las dependencias y entidades en materia de mejora regulatoria, y en su caso, tendrá la facultad de emitir recomendaciones y aplicar las sanciones que correspondan por su incumplimiento.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 17 DE FEBRERO DE 2006)</small>
+
+DE LOS CONVENIOS DE COORDINACIÓN
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 2275.
+
+El Ayuntamiento podrá celebrar tonel Gobierno Federal, el Gobierno del Estado y con otros Municipios, organizaciones no gubernamentales y universidades públicas y privadas, convenios institucionales, con el propósito de intercambiar información y para fortalecer los procesos de mejora regulatoria.
+
 T R A N S I T O R I O S
 
 PRIMERO.- El presente Código Reglamentario para el Municipio de Puebla, entrará en vigor a partir del día primero de enero de dos mil cinco, a efecto de que se tomen las providencias jurídicas, operativas y administrativas, para que a partir de la fecha de entrada en vigor del Código Reglamentario para el Municipio de Puebla, los actos de autoridad se encuentren debidamente ajustados a los términos de este Código.
@@ -22145,6 +24501,8 @@ TERCERO.- Se incluye al Presidente y al Secretario General del Honorable Ayuntam
 
 P.O. 7 DE DICIEMBRE DE 2005.
 
+...
+
 SEGUNDO.- Se instruye al Secretario del Honorable Ayuntamiento del Puebla, para que realice todos los trámites necesarios y sea publicado por una sola vez la presente reforma en el Periódico Oficial del Estado.
 
 TERCERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -22170,3 +24528,33 @@ CUARTO.- Deberá integrarse el Comité de Protección Civil para el Archivo Gene
 QUINTO.- Deberá conformarse el Comité Técnico de Archivos Administrativos y Semiactivos, referido en el artículo 1703 del presente Capítulo.
 
 SEXTO.- En caso de muda del acervo que resguarda el Archivo General Municipal, deberá trasladarse con la debida diligencia y medidas de seguridad y técnicas que para el caso se requiera, a fin de no poner en riesgo la integridad de los documentos, bajo la supervisión de la Secretaría General y con el visto bueno del Archivo de la Nación y del Estado.
+
+P.O. 17 DE FEBRERO DE 2006.
+
+ACUERDO POR EL QUE SE REFORMA EL ARTICULO 1336 Y SE ADICIONAN LOS ARTICULOS 1336 BIS Y 1343 BIS.
+
+...
+
+SEGUNDO.- Se instruye al Secretario del Honorable Ayuntamiento para que la presente reforma y adición sean publicada (sic) por una sola vez en el Periódico Oficial del Estado.
+
+TERCERO.- La presente reforma y adiciones entrarán en vigor a partir del día siguiente de su publicación.
+
+P.O. 17 DE FEBRERO DE 2006.
+
+ACUERDO POR EL QUE SE ADICIONA EL CAPITULO 34.
+
+PRIMERO.- La presente adición al Código Reglamentario para el Municipio de Puebla, el Libro Séptimo, Capítulo 34 "ESPECTÁCULOS DE BOX y LUCHA LIBRE PARA EL MUNICIPIO DE PUEBLA", entrará en vigor a partir del día siguiente de la fecha de su aprobación.
+
+SEGUNDO.- Se derogan todas las disposiciones existentes que se opongan o sean contrarias al presente Capítulo.
+
+P.O. 17 DE FEBRERO DE 2006.
+
+ACUERDO POR EL QUE SE ADICIONA EL CAPITULO 35.
+
+PRIMERO.- El presente Capítulo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se crea el Consejo de Mejora Regulatoria del Honorable Ayuntamiento del Municipio de Puebla.
+
+TERCERO.- Se crea el Registro de Trámites y Servicios Municipales del Honorable Ayuntamiento del Municipio de Puebla.
+
+CUARTO.- Se instruye al Consejo de Mejora Regulatoria del Honorable Ayuntamiento del Municipio de Puebla, para que en el ámbito de sus atribuciones, realice en el plazo de cuarenta días hábiles el Programa de Mejora Regulatoria establecido en el cuerpo del Reglamento de la materia.
