@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-3404
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-09-19"
-last_updated: "2005-09-02"
+last_updated: "2006-02-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE FEBRERO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 19 de septiembre de 2003.
 
@@ -85,29 +85,31 @@ LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-###### ARTÍCULO 1.
+###### Artículo 1.
 
 (Objeto de la ley) Esta Ley tiene por objeto reglamentar la organización, funciones y atribuciones de la Legislatura del Estado y de sus órganos y dependencias; normar los procedimientos que derivan de esas atribuciones y definir los derechos y obligaciones de los integrantes de la Legislatura y de los servidores públicos del Poder Legislativo.
 
 Las disposiciones de esta Ley no son transigibles por vía de acuerdo de la Legislatura o de sus órganos, ni su vigencia u observancia podrán por este concepto suspenderse u obviarse.
 
-###### ARTÍCULO 2.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE FEBRERO DE 2006)</small>
 
-(Denominación y permanencia) El Poder Legislativo del Estado, es una institución permanente del Poder Público, independientemente de la renovación periódica de sus integrantes; se deposita en una asamblea denominada Legislatura del Estado, integrada por representantes populares denominados diputados, quienes serán electos cada tres años por sufragio popular directo. Por cada diputado propietario se elegirá un suplente.
+###### Artículo 2.
+
+(Denominación y permanencia) El Poder Legislativo del Estado, es una institución permanente del Poder Público, independientemente de la renovación periódica de sus integrantes; se deposita en una asamblea denominada Legislatura del Estado, integrada por representantes populares denominados diputados, quienes serán electos cada tres años mediante sufragio universal, libre, secreto y directo. Por cada diputado propietario se elegirá un suplente.
 
 El ejercicio de las funciones de dicha asamblea durante tres años constituye una Legislatura, cuyo número ordinal sucesivo se antepondrá al designarla.
 
-###### ARTÍCULO 3.
+###### Artículo 3.
 
 (Personalidad) La Legislatura del Estado cuenta con personalidad jurídica y patrimonio propio, y dispondrá del personal y los recursos financieros y materiales necesarios para el eficiente desempeño de sus atribuciones.
 
-###### ARTÍCULO 4.
+###### Artículo 4.
 
 (Residencia) La Legislatura tendrá su residencia oficial en la capital del Estado y sesionará en sus recintos oficiales. Sólo podrá trasladar su residencia a otro lugar, por acuerdo de la propia Legislatura mediante el voto de la mayoría de sus integrantes.
 
 Cuando por causa de siniestro u otra condición justificada no se pueda tener acceso a los recintos oficiales de la Legislatura, ésta, por acuerdo de la Mesa Directiva o de la Comisión Permanente, podrá constituirse para sesionar en lugar distinto, siempre y cuando se presente la mayoría de sus integrantes.
 
-###### ARTÍCULO 5.
+###### Artículo 5.
 
 (Inviolabilidad de los recintos oficiales del Poder Legislativo). Ninguna autoridad distinta a las del Poder Legislativo, podrá ejecutar mandatos administrativos o judiciales en las instalaciones oficiales de la Legislatura, sobre los bienes que le pertenezcan ni sobre las personas que la integran, en ejercicio de sus funciones.
 
@@ -117,7 +119,7 @@ El presidente de la Legislatura podrá requerir el auxilio de la fuerza pública
 
 ### CAPÍTULO II. FUERO CONSTITUCIONAL
 
-###### ARTÍCULO 6.
+###### Artículo 6.
 
 (Fuero e inviolabilidad de los diputados) Los diputados en funciones gozan de fuero constitucional. El goce de licencia o la renuncia al cargo, traen aparejada la pérdida del fuero constitucional.
 
@@ -127,7 +129,7 @@ Los diputados son responsables por los delitos que cometan durante el tiempo de 
 
 ### CAPÍTULO III. DERECHOS Y OBLIGACIONES DE LOS DIPUTADOS
 
-###### ARTÍCULO 7.
+###### Artículo 7.
 
 (Obligaciones de los diputados) Además de las obligaciones generales aplicables a todos los servidores públicos, corresponden a los diputados las siguientes:
 
@@ -155,13 +157,19 @@ X. Presentar la manifestación anual de bienes, de acuerdo con la ley de la mate
 
 XI. Mantener permanentemente, acercamiento con la población;
 
-XII. Observar estrictamente las disposiciones de esta ley y las normas que de ella emanen.
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2006)</small>
 
-###### ARTÍCULO 8.
+XII. Abstenerse de ejercer funciones administrativas, salvo las expresamente señaladas en la ley o por encomienda del Pleno de la Legislatura;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2006)</small>
+
+XIII. Observar estrictamente las disposiciones de esta ley y las normas que de ella emanen.
+
+###### Artículo 8.
 
 (Informe de actividades fuera del Estado) Siempre que los diputados participen fuera del territorio del Estado en actividades oficiales autorizadas por la Legislatura y con cargo a su presupuesto, a su regreso rendirán informe pormenorizado al pleno o la Comisión Permanente, sobre las actividades desarrolladas y los resultados obtenidos o que se espera obtener. Cuando el viaje se realice por dos o más diputados, podrá rendirse este informe en conjunto.
 
-###### ARTÍCULO 9.
+###### Artículo 9.
 
 (Derechos de los diputados) Son derechos de los diputados:
 
@@ -175,7 +183,7 @@ IV. Realizar encuestas de opinión, foros y consultas populares sobre los asunto
 
 Cuando con este propósito actúen por conducto de las Comisiones, será necesario el acuerdo respectivo en el seno del órgano correspondiente.
 
-###### ARTÍCULO 10.
+###### Artículo 10.
 
 (Deber de coadyuvar a la función legislativa) Todas las autoridades estatales y municipales, deberán coadyuvar al cumplimiento de las facultades de los diputados, respetar la investidura de su representación y proporcionar la información y documentación que se les solicite.
 
@@ -183,7 +191,7 @@ Si la información o documentación a que se refiere el párrafo anterior no fue
 
 ### CAPÍTULO IV. DE LAS ASISTENCIAS A SESIONES
 
-###### ARTÍCULO 11.
+###### Artículo 11.
 
 (Causas de justificación de inasistencia a las sesiones) Los diputados podrán justificar su inasistencia a las sesiones de la Legislatura o de los órganos a los que pertenezcan, por las siguientes causas:
 
@@ -195,13 +203,15 @@ III. Fallecer el cónyuge del diputado o alguno de sus parientes consanguíneos 
 
 IV. Ocurrir en el lugar donde habitualmente radique el diputado, algún desastre natural o circunstancia grave que impida su traslado a la residencia del Poder Legislativo; y
 
-V. Atender con el carácter de diputado, compromisos oficiales de carácter legislativo, de representación de la Legislatura, de Comisiones ordinarias o de Grupo Parlamentario, que por su naturaleza tengan prioridad, a juicio del presidente de la Legislatura.
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2006)</small>
 
-###### ARTÍCULO 12.
+V. Atender con el carácter de diputado, compromisos oficiales de carácter legislativo, de representación de la Legislatura, de Comisiones, ya sea ordinaria, de Grupo Parlamentario o Fracción Parlamentaria que por su naturaleza tengan prioridad, u otros asuntos de carácter personal justificados, a criterio del presidente de la Legislatura.
+
+###### Artículo 12.
 
 (Justificación de inasistencias) Los diputados podrán, en forma previa o posterior, solicitar justificación de falta para no asistir a una sesión de la Legislatura o de sus órganos, incorporarse después de iniciada o separarse de ella, mediante escrito con firma autógrafa en el que se expresarán y acreditarán las causas en que se funde. La autorización será valorada y en su caso concedida por el presidente de la Legislatura con acuerdo de la Mesa Directiva o del órgano correspondiente.
 
-###### ARTÍCULO 13.
+###### Artículo 13.
 
 (Descuento por inasistencias) Cuando sin causa justificada los diputados falten a las sesiones de la Legislatura o de sus órganos, provocará el descuento a su dieta con el acuerdo de la Mesa Directiva o de los órganos correspondientes, conforme a lo siguiente:
 
@@ -213,13 +223,13 @@ Sólo podrá aplicarse un descuento a cada diputado por cada sesión del Pleno o
 
 Se fijará una sanción genérica para el caso de los retardos, y una para el caso de las inasistencias.
 
-###### ARTÍCULO 14.
+###### Artículo 14.
 
 (Separación de funciones por inasistencia) Cuando sin causa justificada a juicio de la Legislatura, un diputado falte a tres sesiones ordinarias consecutivas en un mes, se entenderá que dicho diputado renuncia a concurrir hasta el siguiente período ordinario, llamándose en consecuencia al suplente.
 
 ### CAPÍTULO V. LICENCIAS
 
-###### ARTÍCULO 15.
+###### Artículo 15.
 
 (Licencia por causa de enfermedad) En el caso de enfermedad debidamente acreditada que impida al diputado el desempeño de sus funciones por más de 30 días naturales, a petición de éste o de cualquier otro diputado, la Legislatura o en su caso la Comisión Permanente, otorgará la licencia respectiva y llamará al suplente.
 
@@ -229,19 +239,19 @@ Si antes de concluir el ejercicio constitucional de la Legislatura, desaparecier
 
 Para valorar el grado del impedimento o su extinción, podrá requerirse la opinión de expertos en la materia.
 
-###### ARTÍCULO 16.
+###### Artículo 16.
 
 (Licencia por causa de embarazo) Si alguna diputada lo solicitara por causa de su embarazo, podrá disfrutar de licencia con el goce de dietas a que tenga derecho, por treinta días naturales anteriores a la fecha que médicamente se estime para el parto y por otros sesenta días posteriores al mismo.
 
 Durante el goce de la licencia se llamará al suplente, quien gozará de los derechos y tendrá las obligaciones inherentes al cargo.
 
-###### ARTÍCULO 17.
+###### Artículo 17.
 
 (Límite de otorgamiento de licencias) No podrán gozar de licencia más de ocho integrantes de la Legislatura, simultáneamente, a menos que existan causas excepcionales que deberán ser calificadas por la Legislatura.
 
 Si ocho integrantes de la Legislatura estuvieren gozando de licencia y fuese necesario concederla a otro por causa grave, antes de otorgarla se hará regresar al que hubiere comenzado primero a usar de ella, siempre y cuando no esté impedido físicamente, pues en tal caso se llamará al diputado que la recibió inmediatamente después, y así sucesivamente.
 
-###### ARTÍCULO 18.
+###### Artículo 18.
 
 (Defunción de legisladores) En caso de fallecimiento de un diputado, el oficial mayor dispondrá inmediatamente la publicación de una esquela y dará aviso al presidente de la Legislatura, para que éste exhorte a los diputados a asistir a los funerales. Asimismo, se informará al gobernador y al presidente del Tribunal Superior de Justicia para el mismo efecto.
 
@@ -253,7 +263,7 @@ El presupuesto anual de egresos del Poder Legislativo contendrá una partida esp
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-###### ARTÍCULO 19.
+###### Artículo 19.
 
 (Órganos) Son órganos del Poder Legislativo:
 
@@ -273,7 +283,7 @@ VII. La Comisión de Vigilancia; y
 
 VIII. La Comisión Instructora.
 
-###### ARTÍCULO 20.
+###### Artículo 20.
 
 (Dependencias) Son dependencias del Poder Legislativo:
 
@@ -299,27 +309,27 @@ VIII. Las unidades administrativas y técnicas que se establezcan.
 
 MESA DIRECTIVA
 
-###### ARTÍCULO 21.
+###### Artículo 21.
 
 (Elección y duración de la Mesa Directiva) Para la conducción de los trabajos legislativos, se elegirá mediante cédula y por mayoría de votos de los diputados presentes en la sesión, una Mesa Directiva cuya duración será la del período ordinario de sesiones para el cual fue electa, sin perjuicio de lo previsto por esta ley.
 
 En su actuación, la Mesa Directiva observará los principios de imparcialidad y objetividad, y hará prevalecer el interés general de la Legislatura sobre el particular de sus integrantes o sus órganos.
 
-###### ARTÍCULO 22.
+###### Artículo 22.
 
 (Tiempo de la elección) La Mesa Directiva será electa en las sesiones previas a la fecha en que inicie cada uno de los períodos ordinarios.
 
 Cuando por cualquier causa no se celebre esta elección, la Comisión Permanente que se encuentre funcionando al concluir el receso, pasará a integrar la Mesa Directiva del nuevo período ordinario, hasta en tanto se realice la elección.
 
-###### ARTÍCULO 23.
+###### Artículo 23.
 
 (Composición de la Mesa Directiva) La Mesa Directiva se compondrá de un presidente, un vicepresidente y dos secretarios; estos últimos se nombrarán primero y segundo, y tendrán sus respectivos suplentes.
 
-###### ARTÍCULO 24.
+###### Artículo 24.
 
 (Comunicación de la Mesa Directiva) La elección de la Mesa Directiva se comunicará a los titulares de los poderes Ejecutivo y Judicial del Estado.
 
-###### ARTÍCULO 25.
+###### Artículo 25.
 
 (Competencia de la Mesa Directiva) Corresponde a la Mesa Directiva:
 
@@ -351,13 +361,13 @@ XIII. Ordenar el trabajo de la Tesorería y de la Oficialía Mayor;
 
 XIV. Ejercer las demás atribuciones que le confiera este ordenamiento y las normas que de él se deriven.
 
-###### ARTÍCULO 26.
+###### Artículo 26.
 
 (Carácter del presidente) Para todos los efectos de esta Ley, se entiende por presidente de la Legislatura, el de la Mesa Directiva o el de la Comisión Permanente, indistintamente.
 
 El presidente de la Legislatura expresa la unidad institucional del Poder Legislativo.
 
-###### ARTÍCULO 27.
+###### Artículo 27.
 
 (Facultades y obligaciones del presidente) Corresponde al presidente de Mesa Directiva:
 
@@ -413,11 +423,11 @@ XXV. Rendir ante la Legislatura en el mes de septiembre, el informe anual de act
 
 XXVI. Las demás que le señalen la Legislatura, esta Ley y demás normas aplicables.
 
-###### ARTÍCULO 28.
+###### Artículo 28.
 
 (Imposibilidad de abandonar el territorio estatal) Durante su gestión, el presidente de la Legislatura no podrá abandonar el territorio del Estado por más de cuatro días naturales, sin mediar autorización del Pleno.
 
-###### ARTÍCULO 29.
+###### Artículo 29.
 
 (Consulta de resoluciones al Pleno) Las resoluciones que el presidente o la Mesa Directiva adopten en el ejercicio de sus funciones durante el curso de una sesión, estarán subordinadas al voto de la Legislatura cuando ésta o aquél lo juzgue necesario, a propuesta del propio presidente o de cualquier diputado, previa discusión y siempre que no haya mediado votación en el asunto.
 
@@ -477,9 +487,11 @@ Asimismo, podrán expedir constancias relativas a los cargos y nombramientos apr
 
 En ausencia de los secretarios propietarios, los suplentes podrán ejercer las facultades que otorga este artículo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE FEBRERO DE 2006)</small>
+
 ###### Artículo 35.
 
-(Sesiones de la Mesa Directiva) Para adoptar las resoluciones que deba acordar en forma colegiada, la Mesa Directiva sesionará a propuesta de su presidente, mediante convocatoria que remita a sus integrantes con 48 horas de anticipación a la sesión respectiva, o con un tiempo menor prudente a su juicio, en casos de urgencia.
+(Sesiones de la Mesa Directiva) Para adoptar las resoluciones que deba acordar en forma colegiada, la Mesa Directiva sesionará a propuesta de su presidente y ante la negativa de éste, de la mayoría de sus integrantes, mediante convocatoria expedida con 48 horas de anticipación a la sesión respectiva, o con un tiempo menor, en casos de urgencia.
 
 Cuando se trate de la resolución relativa a la programación del orden del día de las sesiones plenarias, la convocatoria a que se refiere el párrafo anterior se acompañará de una relación de todos los asuntos recibidos hasta la fecha, con la indicación sobre cuáles de ellos propone el presidente para su incorporación al orden del día correspondiente.
 
@@ -503,13 +515,17 @@ La elección de la Comisión Permanente se comunicará a los titulares de los po
 
 (Inicio de funciones) La Comisión Permanente iniciará sus funciones una vez que concluyan los períodos ordinarios, quedando instalada por la simple conclusión de estos. Emitirá el decreto para la apertura del periodo extraordinario de sesiones que corresponda, integrando sin excepción, todos los asuntos que se encuentren registrados ante la Oficialía de Partes del Poder Legislativo, incluyendo aquellos que por cualquier causa, se encontraran pendientes de trámite.
 
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
 ###### Artículo 38.
 
-(Frecuencia de las sesiones) La Comisión sesionará semanalmente y cuantas veces resulte necesario para cumplir con sus atribuciones constitucionales y legales, exceptuándose los períodos vacacionales autorizados por ésta para el personal de la Legislatura, de acuerdo a la Ley de los Trabajadores al Servicio del Estado y Municipios, solicitando la opinión de la Oficialía Mayor, comunicándolo a todos los integrantes de la Legislatura y al personal, una vez tomado el acuerdo.
+(Frecuencia de las sesiones) La Comisión sesionará semanalmente y cuantas veces resulte necesario para cumplir con sus atribuciones constitucionales y legales, exceptuándose los periodos vacacionales autorizados por la misma para el personal de la Legislatura, de acuerdo a la Ley de Trabajadores al Servicio del Estado y Municipios, solicitando la opinión de la Oficialía Mayor e instruyéndolo para que lo comunique a los diputados y al personal administrativo, una vez tomado el acuerdo.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 39.
 
-(Quórum y recinto para sesionar) La Comisión Permanente requerirá la asistencia de la mayoría de sus integrantes para sesionar válidamente, lo que hará a convocatoria del presidente. Las sesiones se celebrarán en los recintos oficiales del Poder Legislativo, sin perjuicio de habilitarse lugar distinto para casos extraordinarios.
+(Quórum y recinto para sesionar) La Comisión Permanente requerirá la asistencia de la mayoría de sus integrantes para sesionar válidamente, lo que hará a convocatoria del presidente y ante la negativa de éste, a solicitud de la mayoría de sus miembros. Las sesiones se celebrarán en los recintos oficiales del Poder Legislativo, sin perjuicio de habilitarse lugar distinto para casos extraordinarios.
 
 ###### Artículo 40.
 
@@ -543,21 +559,29 @@ Ningún diputado podrá tener a su cargo y al mismo tiempo, más de una de las s
 
 (Sustitución de Integrantes de la Junta de Concertación Política) Cada grupo o fracción designará por escrito libremente a su coordinador o representante ante la Junta; tratándose de grupos, en el escrito deberá constar la firma autógrafa de la mayoría de sus integrantes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE FEBRERO DE 2006)</small>
+
 ###### Artículo 45.
 
 (Competencia de la Junta de Concertación Política) Compete a la Junta de Concertación Política:
 
-I. Adoptar la toma de decisiones concertadas en todos los ámbitos y materias que al Poder Legislativo correspondan;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2006)</small>
+
+I. Adoptar la toma de decisiones concertadas en todos los ámbitos y materias que al Poder Legislativo correspondan, las cuales comunicará al órgano o dependencia para su debido cumplimiento.
 
 II. Proponer acuerdos al Pleno de la Legislatura sobre iniciativas presentadas, decisiones de gobierno interno, declaraciones institucionales de la Legislatura y cualquier decisión que sea de su competencia;
 
-III. Elaborar con apoyo del Oficial Mayor y el Tesorero, el proyecto del presupuesto de ingresos u egresos del Poder Legislativo, así como las políticas y lineamientos relativos al empleo de los recursos asignados
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2006)</small>
+
+III. Elaborar, con apoyo del Oficial Mayor y el Tesorero, el proyecto del presupuesto de ingresos y egresos del Poder Legislativo; así como realizar modificaciones al presupuesto de egresos y las políticas y lineamientos relativos al empleo de los recursos asignados;
 
 IV. Turnar al Ejecutivo del Estado el Proyecto de Presupuesto de Ingresos y Egresos del Poder Legislativo, para que lo incluya en las iniciativas correspondientes de cada ejercicio fiscal, en el que deberán incluirse partidas presupuestales para: capacitación a diputados y personal de la Legislatura, servicios de asesoría profesional, publicaciones institucionales y difusión del trabajo legislativo, considerando en cada una cuando menos el uno por ciento del total del Presupuesto que se proponga para el Poder Legislativo;
 
 V. Proponer a la Legislatura la integración de los órganos legislativos y la substitución de sus miembros;
 
-VI. Proponer a la Mesa Directiva de la Legislatura la inclusión de asuntos en el orden del día para las sesiones del pleno
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2006)</small>
+
+VI. Comunicar a la Mesa Directiva de la Legislatura la inclusión de asuntos en el orden del día para las sesiones del pleno;
 
 VII. Proponer al Pleno de la Legislatura, a los diputados que deban representar al Poder Legislativo ante organismos oficiales;
 
@@ -573,7 +597,9 @@ XI. Ejercer las demás atribuciones que le confiera esta Ley y demás disposicio
 
 (Facultades del presidente de la Junta) Corresponde al presidente de la Junta de Concertación Política, convocarla a sesionar, coordinar sus actividades y hacer cumplir sus acuerdos.
 
-Cada presidente de la Junta de Concertación Política rendirá al abandonar su cargo, un informe a Oficialía Mayor sobre el presupuesto ejercido durante su gestión.
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+Cada presidente de la Junta de Concertación Política rendirá, al abandonar su cargo, un informe a los integrantes de la misma Junta, sobre el presupuesto ejercido durante su gestión.
 
 ###### Artículo 47.
 
@@ -611,7 +637,9 @@ GRUPOS Y FRACCIONES PARLAMENTARIAS
 
 (Recursos asignables y rendición de cuentas) Los Grupos y las Fracciones Parlamentarias gozarán de los recursos que determine el presupuesto, en forma proporcional al número de integrantes que los constituyan.
 
-El ejercicio de los recursos por cada Grupo o Fracción se realizará de acuerdo con el presupuesto aprobado y cada uno rendirá a la Oficialía Mayor un informe anual sobre la aplicación de los mismos, acreditando su empleo de acuerdo con las políticas que dicha Comisión establezca, oyendo la opinión de la Junta de Concertación Política.
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+El ejercicio de los recursos por cada Grupo o Fracción se realizará de acuerdo con el presupuesto aprobado y cada uno rendirá a la Junta de Concertación Política un informe anual sobre la aplicación de los mismos, acreditando su empleo de acuerdo con las políticas que dicha Comisión establezca oyendo la opinión de la Mesa Directiva o Comisión Permanente, en su caso.
 
 El personal que lleguen a contratar los Grupos o Fracciones con los recursos de que dispongan, quedará bajo la responsabilidad laboral de éstos.
 
@@ -623,9 +651,11 @@ Los diputados que por cualquier causa queden separados de su Grupo Parlamentario
 
 Ningún diputado podrá formar parte de dos o más Grupos o Fracciones Parlamentarias.
 
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
 ###### Artículo 55.
 
-(Diputados independientes) Cuando se acredite que algún diputado ha dejado de pertenecer por causa de renuncia o expulsión, al partido político que lo postuló al cargo, o al Grupo Parlamentario o fracción parlamentaria al que pertenecía, perderá, sin necesidad de declaración expresa, su carácter de integrante de ese órgano legislativo y conservará las prerrogativas que correspondan a su investidura como diputado y las proporcionales como fracción o grupo.
+(Diputados independientes) Cuando se acredite que algún diputado ha dejado de pertenecer por causa de renuncia o expulsión, al partido político que lo postuló al cargo, al Grupo o Fracción Parlamentaria al que pertenecía, perderá, sin necesidad de declaración expresa, su carácter de integrante de ese órgano legislativo, debiendo conservar las prerrogativas que correspondan a su investidura de diputado y las proporcionales como Fracción o Grupo.
 
 5ª SECCIÓN
 
@@ -634,6 +664,10 @@ COMISION DE VIGILANCIA
 ###### Artículo 56.
 
 (Naturaleza) La Comisión de Vigilancia, es el órgano de la Legislatura, encargado de revisar el uso adecuado de los recursos humanos, materiales y financieros del Poder Legislativo, a fin de que sirvan de apoyo para el logro de sus planes, programas y metas, supervisando las actividades que realicen la Tesorería y la Oficialía Mayor.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+El ejercicio de la facultad de revisión no puede suspender los trabajos administrativos o incumplir con las obligaciones contraídas por cualquiera de los órganos del Poder Legislativo.
 
 ###### Artículo 57.
 
@@ -651,21 +685,21 @@ COMISION DE VIGILANCIA
 
 (Periodicidad de las sesiones) La Comisión de Vigilancia sesionará cuando menos una vez al mes.
 
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
 ###### Artículo 61.
 
 (Competencia) Corresponde a la Comisión de Vigilancia:
 
-I. Vigilar que todo el trabajo administrativo y gasto público que realicen la Oficialía Mayor, y Tesorería, se ejerza con base en los programas aprobados y el presupuesto de ingresos y egresos de la Legislatura;
+I. Vigilar todo el trabajo administrativo y gasto público que realicen la Oficialía Mayor y Tesorería, con base en los programas aprobados y el presupuesto de ingresos y egresos de la Legislatura, pero sin interrumpir el normal desarrollo de la institución;
 
-II. Proponer y autorizar los ajustes presupuestales que requiera el presupuesto de la Legislatura, de lo cual informará oportunamente al Pleno;
+II. Proponer los programas anuales de desarrollo del personal administrativo;
 
-III. Recibir toda la información que solicite de cualquier organismo, dependencia y unidades técnicas con que cuente la Legislatura;
+III. Recibir toda la información que solicite de cualquier organismo, dependencia y unidades técnicas con que cuente la Legislatura a través de la Mesa Directiva;
 
-IV. Supervisar y observar la rendición del informe de la cuenta pública de la Legislatura, a cargo de la Tesorería, en los términos de la ley de la materia;
+IV. Detectar y, en su caso, notificar a la contraloría interna de todas y cada una de las irregularidades e inconsistencias legales y administrativas, en que incurran los funcionarios de los organismos, dependencias y unidades técnicas que tenga el Poder Legislativo;
 
-V. Detectar y en su caso notificar a la contraloría interna de todas y cada una de las irregularidades e inconsistencias legales y jurídicas, en que incurran los funcionarios de los organismos, dependencias y unidades técnicas que tenga el Poder Legislativo.
-
-VI. Atender los demás asuntos que le encomiende esta Ley, el reglamento que la rija, el Pleno de la Legislatura y demás normas aplicables.
+V. Atender los demás asuntos que le encomiende esta Ley, el reglamento que la rija, el Pleno de la Legislatura y demás normas aplicables.
 
 ###### Artículo 62.
 
@@ -747,7 +781,9 @@ VIII. En las faltas del secretario, habilitar en esa función a un diputado inte
 
 IX. Representar a la Comisión ante otras autoridades;
 
-X. Rendir ante la Comisión de Vigilancia, informes anuales sobre el manejo de los recursos asignados a la comisión respectiva;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2006)</small>
+
+X. Rendir a la Junta de Concertación Política, informes anuales por escrito sobre el manejo de los recursos asignados a la comisión respectiva;
 
 XI. Ejercer las demás facultades que esta Ley, el Pleno de la Legislatura y las normas aplicables le confieran.
 
@@ -777,7 +813,7 @@ II. Asuntos indígenas: Tiene a su cargo la atención de asuntos en materia ind�
 
 > <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2005)</small>
 
-III.- Asuntos municipales y del migrante: Tiene a su cargo la atención de asuntos de índole municipal y de los trabajadores migrantes de los municipios del Estado.
+III. Asuntos municipales y del migrante: Tiene a su cargo la atención de asuntos de índole municipal y de los trabajadores migrantes de los municipios del Estado.
 
 IV. Derechos humanos: Tiene a su cargo la atención de asuntos en materia de derechos humanos.
 
@@ -911,9 +947,11 @@ Cuando la Comisión deba examinar una iniciativa o propuesta promovida por algú
 
 En caso de negativa por parte de éstos, se comunicará al Pleno de la Legislatura para que éste acuerde lo conducente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE FEBRERO DE 2006)</small>
+
 ###### Artículo 86.
 
-(Elaboración y archivo de las actas) La elaboración y firma de las actas corresponde al secretario y en su ausencia, al presidente de la Comisión, quienes podrán requerir el apoyo de la Dirección de Asuntos Legislativos y Jurídicos.
+(Elaboración y archivo de las actas) La elaboración y firma de las actas corresponde al secretario, quien podrá solicitar el apoyo de la Dirección de Asuntos Legislativos y Jurídicos.
 
 Las actas se levantarán en original y copia y requerirán la aprobación de la Comisión, y se deberán consultar a los integrantes de la Comisión las aclaraciones y rectificaciones sobre su contenido.
 
@@ -963,9 +1001,11 @@ Las adecuaciones podrán suprimir fragmentos de la iniciativa, hacer variaciones
 
 (Vista al autor) Las Comisiones deberán comunicar al autor de la iniciativa, las modificaciones que se acordaran en el dictamen respectivo, informándolo al Pleno para los efectos de lo dispuesto en la Constitución Política del Estado.
 
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
 ###### Artículo 92.
 
-(Votos disidentes en los dictámenes) Los integrantes de la Comisión que se opongan total o parcialmente al dictamen, podrán solicitar que las razones de su desacuerdo se consignen en éste, estampando su rúbrica al final del texto relativo.
+(Votos disidentes en los dictámenes) Los integrantes de la Comisión que se opongan total o parcialmente al dictamen, podrán solicitar que las razones de su desacuerdo se consignen en el mismo, por separado, estampando su rúbrica al final del texto relativo.
 
 ###### Artículo 93.
 
@@ -1007,11 +1047,13 @@ III. Procedimientos para suspender Ayuntamientos, declarar que éstos han desapa
 
 DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
 ###### Artículo 99.
 
-(Designación) Dentro de las tres primeras sesiones plenarias que lleve a cabo cada Legislatura entrante, posteriores a la de su instalación, se designarán a los titulares de sus dependencias, por el voto de la mayoría de los diputados integrantes de la Legislatura, mediante una terna propuesta por la Junta de Coordinación Política en los términos de esta ley, y podrán ser removidos por causa grave justificada, en los términos de la Legislación laboral aplicable, y en lo dispuesto por éste artículo.
+(Designación) Dentro de las tres primeras sesiones plenarias que lleve a cabo cada Legislatura entrante, posteriores a la de su instalación, se designarán a los titulares de sus dependencias, por el voto de la mayoría de los diputados integrantes de la Legislatura, mediante una terna propuesta por la Junta de Concertación Política en los términos de esta ley, y podrán ser removidos por causa grave justificada, en los términos de la Legislación laboral aplicable, y en lo dispuesto por este artículo.
 
-###### ARTÍCULO 100.
+###### Artículo 100.
 
 (Titulares) La titularidad de dos o más dependencias y demás cargos a que se refiere esta ley, no podrán recaer en una misma persona.
 
@@ -1101,7 +1143,9 @@ XVI. Ejecutar los acuerdos de la Mesa Directiva, o el Pleno de la Legislatura, e
 
 XVII. Requerir a los diputados electos, con anticipación suficiente, el currículum actualizado con sus datos generales y comunicarles en su momento, la fecha y hora en que se celebrará la junta preparatoria en la que se les entregarán las credenciales de identificación elaboradas por la Oficialía Mayor y autorizadas por la Presidencia de la Comisión Permanente;
 
-XVIII. Enviar copia de todos los escritos a la Comisión de Vigilancia que impliquen cambios en la estructura, modificación de presupuesto, y funcionalidad, así como cualquier orden de trabajo, que implique movimientos de recursos humanos, financieros y materiales del Poder Legislativo;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2006)</small>
+
+XVIII. Enviar copia de todos los escritos a la comisión de vigilancia que impliquen cambios en la estructura, modificación de presupuesto y funcionalidad, así como cualquier orden de trabajo, financieros y materiales, excepto los que implique movimientos de recursos humanos que serán informados a la Mesa Directiva;
 
 XIX. Tener bajo su responsabilidad en el ámbito administrativo, el uso de los recintos oficiales y demás instalaciones del Poder Legislativo, de acuerdo con los lineamientos que en su caso determine la Mesa Directiva y demás disposiciones que al efecto se establezcan;
 
@@ -1133,11 +1177,15 @@ III. Llevar el registro contable de los ingresos y egresos, de acuerdo a los pri
 
 IV. Tener el resguardo y archivo de los asuntos concernientes a su dependencia;
 
-V. Rendir ante la Comisión de Vigilancia cuantos informes y documentos le requiera sobre su gestión,
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2006)</small>
+
+V. Rendir ante la Comisión de Vigilancia cuantos informes y documentos le requiera sobre su gestión, a través de la Mesa Directiva;
 
 VI. Elaborar los informes de cuenta pública del Poder Legislativo y remitirlos a la Contaduría Mayor de Hacienda y a la Comisión de Vigilancia para su conocimiento;
 
-VII. Proponer ajustes presupuestales que se requieran en el presupuesto de ingresos y egresos de la Legislatura;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2006)</small>
+
+VII. Efectuar los ajustes presupuestales que se requieran en el presupuesto de ingresos y egresos de la Legislatura, a fin de que sirvan de apoyo para el logro de los planes, programas y metas que optimicen el trabajo de la Legislatura, previo acuerdo de la Junta de Concertación Política;
 
 VIII. Recibir la comprobación de la aplicación de los recursos que se otorguen a los Grupos o Fracciones Parlamentarias;
 
@@ -1149,9 +1197,15 @@ XI. Ejecutar los acuerdos de la Mesa Directiva, o el Pleno de la egislatura (sic
 
 XII. Conjuntamente con el Oficial Mayor, proponer a la Junta de Concertación Política, el proyecto de presupuesto de ingresos y egresos de la Legislatura;
 
-XIII. Enviar copia de todos los escritos a la Comisión de Vigilancia que impliquen cambios en la estructura, modificación de presupuesto, y funcionalidad, así como todas las órdenes de trabajo, que impliquen movimientos, financieros, de inversión, bancarias y de cualquier índole, realizados ante cualquier instancia pública o privada; y
+XIII. Enviar copia de todos los escritos a la Comisión de Vigilancia que impliquen cambios en la estructura, modificación de presupuesto, y funcionalidad, así como todas las órdenes de trabajo, que impliquen movimientos, financieros, de inversión, bancarias y de cualquier índole, realizados ante cualquier instancia pública o privada; y (sic)
 
-XIV. Ejercer las facultades y cumplir las obligaciones que señale esta Ley, el Pleno de la Legislatura y las demás normas aplicables.
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2006)</small>
+
+XIV. Enviar copia de todos los escritos a la Mesa Directiva que impliquen cambios en la estructura, modificación de presupuesto y funcionalidad, así como todas las órdenes de trabajo, que impliquen movimientos financieros, de inversión, bancarias y de cualquier índole, realizados ante cualquier instancia pública o privada; y
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2006)</small>
+
+XV. Ejercer las facultades y cumplir las obligaciones que le señale esta ley, el Pleno de la Legislatura y las demás disposiciones aplicables.
 
 4ª SECCIÓN
 
@@ -1191,13 +1245,17 @@ IX. Notificar a las partes, por acuerdo de los secretarios, en la substanciació
 
 X. Elaborar y mantener actualizado el libro de Leyes, Decretos y Acuerdos de la Legislatura.
 
-XI. Ejercer o delegar la representación legal que le delegue el presidente de la Legislatura;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2006)</small>
+
+XI. Ejercer o delegar, por acuerdo del Presidente de la Mesa Directiva o de la Comisión Permanente, la representación legal que le delegue el presidente de la Legislatura;
 
 XII. Fungir como asesor jurídico de la Mesa Directiva y Comisión Permanente de la Legislatura;
 
 XIII. Por instrucciones del presidente de la Legislatura, publicar en estrados la comunicación de la convocatoria a sesiones del Pleno de la Legislatura o de la Comisión Permanente;
 
-XIV. A solicitud de la Presidencia de las Comisiones Ordinarias y por acuerdo de éstas, participar y colaborar en la elaboración de los proyectos de dictamen y demás asuntos de que conozcan;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2006)</small>
+
+XIV. Auxiliar a las Comisiones Ordinarias, participar y colaborar en la elaboración de los proyectos de dictamen y demás asuntos de que conozcan;
 
 XV. Ejercer las facultades y cumplir las obligaciones que le señale esta ley, el Pleno de la Legislatura y las demás disposiciones aplicables.
 
@@ -1213,11 +1271,11 @@ Por medio de estas comisiones el Poder Legislativo ejecuta el cumplimiento de su
 
 Su conformación, funcionamiento y facultades se regularán por su Ley Orgánica y las demás disposiciones legales.
 
-###### ARTÍCULO 115.
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
-(Requisitos) Para ser titular de la Contaduría Mayor de Hacienda, se requiere poseer título a nivel de licenciatura en contaduría pública, administración, derecho o materia afín a las funciones, con experiencia comprobada de al menos cinco años en el ámbito profesional, ser de reconocida probidad en el ejercicio de su profesión y haberlo sido en el desempeño de las funciones públicas que le hayan sido encomendadas.
+###### Artículo 115.
 
-No podrá ocupar el cargo quien haya desempeñado en el período inmediato anterior puestos de responsabilidad administrativa sujetas a fiscalización del Poder Legislativo.
+(Requisitos) Para ser titular de la Contaduría Mayor de Hacienda se requiere poseer título a nivel de licenciatura en contaduría pública, administración, derecho o materia afín a las funciones, con experiencia comprobada de al menos cinco años en el ámbito profesional, ser de reconocida probidad en el ejercicio de su profesión y en el desempeño de las funciones públicas que le hayan sido encomendadas.
 
 6ª SECCIÓN
 
@@ -1227,9 +1285,11 @@ CONTRALORÍA INTERNA
 
 (Función y ubicación orgánica) La Contraloría Interna es la unidad técnica encargada de recibir quejas, denuncias e inconformidades de orden administrativo y substanciar los procedimientos de responsabilidad que en esa materia deban instaurarse en contra de los servidores públicos del Poder Legislativo, en los términos de la Ley de Responsabilidades de los Servidores Públicos, así como intervenir en los procedimientos de entrega y recepción administrativa, conforme a la ley de la materia. Dicha Unidad dependerá jerárquicamente de la Comisión de Vigilancia, debiendo contar con al menos dos personas como auxiliares.
 
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
 ###### Artículo 117.
 
-(Designación del titular) El titular de la Contraloría Interna será designado por el voto de la mayoría de los integrantes de la Legislatura, de una terna propuesta por la comisión de vigilancia.
+(Designación del titular) El titular de la Contraloría Interna será designado por el voto de la mayoría de los integrantes de la Legislatura, de una terna propuesta por la Junta de Concertación Política.
 
 ###### Artículo 118.
 
@@ -1267,9 +1327,15 @@ VII. Proponer, organizar y conducir programas y cursos de capacitación instituc
 
 VIII. Llevar, con el apoyo de la biblioteca, el archivo de los asuntos legislativos concluidos, para su consulta pública;
 
-IX. Tener a su cargo a los coordinadores, jefe del Diario de Debates, jefe de Biblioteca, investigadores y demás personal de apoyo de la dependencia; y
+IX. Tener a su cargo a los coordinadores, jefe del Diario de Debates, jefe de Biblioteca, investigadores y demás personal de apoyo de la dependencia; y (sic)
 
-X. Ejercer las facultades y cumplir las obligaciones que le señale esta Ley, el pleno de la Legislatura y las demás normas aplicables.
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2006)</small>
+
+X. Informar al presidente de la Legislatura, al término de los períodos ordinarios y de cada uno de los recesos, la publicación de las resoluciones del Poder Legislativo que correspondan a ese lapso en el periódico oficial del Gobierno del Estado “La Sombra de Arteaga”; si durante la revisión se detectaran diferencias entre lo enviado por la Legislatura y lo publicado por el Ejecutivo, el Instituto dará cuenta inmediata al presidente de la Legislatura, a efecto de que éste acuerde lo conducente; y
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2006)</small>
+
+XI. Ejercer las facultades de cumplir las obligaciones que le señale esta ley, el Pleno de la Legislatura y las demás normas aplicables.
 
 ###### Artículo 122.
 
@@ -1385,7 +1451,7 @@ El acuerdo que establezca la creación de unidades administrativas, definirá su
 
 SERVICIO PROFESIONAL DE CARRERA
 
-###### ARTÍCULO 134.
+###### Artículo 134.
 
 (Servicio profesional de carrera) El Sistema de Servicio Profesional de Carrera es un procedimiento administrativo de selección y capacitación de personal, que garantiza el ingreso, capacitación, desarrollo, promoción, y permanencia de los servidores públicos del Poder Legislativo que formen parte de este sistema, basado en el mérito y la igualdad de oportunidades, con el fin de impulsar la profesionalización de la función pública en beneficio de la sociedad y de la propia institución.
 
@@ -1417,7 +1483,7 @@ VIII. Asegurar a los trabajadores, el ejercicio de los derechos que les reconoce
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-###### ARTÍCULO 136.
+###### Artículo 136.
 
 (Cómputo de los plazos) Los plazos a que se refiere esta ley, se computarán por días hábiles, a partir del día siguiente en que se comuniquen, salvo disposición expresa en contrario.
 
@@ -1431,7 +1497,7 @@ Cuando se ponga en duda la eficacia de las comunicaciones a que se refiere este 
 
 ### CAPÍTULO II. INSTALACIÓN DE LA LEGISLATURA
 
-###### ARTÍCULO 138.
+###### Artículo 138.
 
 (Junta preparatoria) A las diez horas del primer viernes del mes de septiembre del año que corresponda a la renovación de la Legislatura, la Comisión Permanente celebrará con los diputados electos citados previamente, una junta preparatoria con la asistencia de cuando menos trece de ellos, que tendrá por objeto:
 
@@ -1441,7 +1507,7 @@ II. Recibir las acreditaciones de los coordinadores y representantes de los Grup
 
 III. Solicitar a los diputados electos presentes, elijan a la Mesa Directiva de la Legislatura entrante que fungirá con ese carácter en el acto de instalación, y que estará en funciones del 26 de septiembre al 31 de diciembre del año de la renovación.
 
-###### ARTÍCULO 139.
+###### Artículo 139.
 
 (Órgano competente para efectuar la instalación) La Legislatura será instalada el 26 de septiembre del año de su renovación, por la Mesa Directiva electa en la junta preparatoria, y a falta de ésta, por la Comisión Permanente de la Legislatura saliente.
 
@@ -1493,33 +1559,45 @@ V. Instalada la Legislatura, podrán los representantes de los Grupos y Fraccion
 
 ### CAPÍTULO III. PROCEDIMIENTO LEGISLATIVO
 
-###### ARTÍCULO 144.
+###### Artículo 144.
 
 (Generalidades) El procedimiento a que se someterán las iniciativas de ley, decreto o acuerdo será el que establece la Constitución Política del Estado, observándose además las disposiciones de esta ley.
 
 La elaboración de los acuerdos no requerirá de la intervención de la Comisión de Redacción y Estilo, salvo que así lo acuerde la Presidencia de la Mesa Directiva.
 
-###### ARTÍCULO 145.
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
-(Formalidades de la iniciativa) La iniciativa se presentará por escrito en la oficialía de partes del Poder Legislativo y contendrá la firma autógrafa de quien la promueva. Toda iniciativa o propuesta, solicitud y comunicaciones oficiales que se registren ante la Oficialía de Partes, a más tardar dentro de los tres días hábiles previos a la celebración de la sesión del Pleno de la Legislatura que corresponda, serán incluidos en el orden del día de ésta. Los dictámenes se presentarán por las Comisiones Ordinarias ante Oficialía de Partes al menos con cuatro días hábiles de anticipación, para que puedan ser integrados en la sesión plenaria y sus Presidentes los remitirán por los medios idóneos para que sean conocidos en tiempo por todos los integrantes de la Legislatura.
+###### Artículo 145.
 
-La iniciativa deberá ser clara y exponer los fundamentos en que se apoye, señalando si se refiere a una ley, decreto o acuerdo.
+(Formalidades de la iniciativa) La iniciativa deberá ser clara y exponer los fundamentos en que se apoye, señalando si se refiere a una ley, decreto o acuerdo; se presentará por escrito en la oficialía de partes del Poder Legislativo y contendrá la firma autógrafa de quien la promueva.
 
-###### ARTÍCULO 146.
+Para los efectos de la presente ley, se entiende por:
 
-(Iniciativas de particulares) La iniciativa que presenten los particulares seguirá el mismo trámite que se establece en el presente capítulo, pero deberá contener, además de lo señalado en el artículo anterior, la ubicación del domicilio para recibir notificaciones y la designación del representante común, cuando sean varios sus autores. Si el autor fuese una corporación, quien presente la iniciativa acreditará además la representación con que se ostente y anexará constancia del acuerdo relativo a ésta.
+a) Ley: La norma jurídica de carácter general, impersonal y abstracto, con efectos coercitivos, aprobada mediante el procedimiento legislativo.
 
-###### ARTÍCULO 147.
+b) Decreto: La resolución expedida por el Poder Legislativo, cuyos efectos normativos se contraen a tiempos, lugares, personas o corporaciones determinadas y concretas.
 
-(Aclaración de iniciativas) Antes de dar cuenta al Pleno de las iniciativas presentadas, el presidente de la Legislatura, en un plazo no mayor de cinco días naturales contados a partir de la recepción del documento en la oficialía de partes, podrá requerir al autor las aclaraciones que estime pertinentes o bien solicitar la documentación complementaria que resulte indispensable para abocarse a su estudio.
+c) Acuerdo: La resolución expedida por el Poder Legislativo, en materia de su administración, gobierno interior o procedimientos legislativos, la que contiene una declaración general de carácter político, o cualquier otra que se emita en ejercicio de sus funciones y no constituya ley o decreto.
 
-###### ARTÍCULO 148.
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 146.
+
+(Iniciativas de particulares) Las iniciativas de los particulares serán presentadas a través de un diputado, a excepción de los decretos del orden laboral que deberán ser presentados por la entidad que se le afecte su patrimonio y seguirán el mismo trámite que se establece en el presente capítulo, pero deberá contener, además de lo señalado en el artículo anterior, la ubicación del domicilio para recibir notificaciones y la designación del representante común, cuando sean varios sus autores. Si el autor fuese una corporación, quien presente la iniciativa acreditará además la representación con que se ostente y anexará constancia del acuerdo relativo a ésta.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+###### Artículo 147.
+
+(Aclaración de documentos para trámite legislativo) Antes de dar cuenta al Pleno o a la Comisión Permanente de la documentación que se presente para trámite legislativo, el presidente de la Legislatura, en un plazo no mayor de cinco días hábiles contados a partir de su recepción en la oficialía de partes, podrá requerir al autor las aclaraciones que estime pertinentes o bien solicitar la documentación complementaria que resulte indispensable para abocarse a su estudio.
+
+###### Artículo 148.
 
 (Turno de la iniciativa) Luego que se de cuenta de las Iniciativas ante el Pleno, previa verificación por parte del Presidente de la Legislatura de que éstas se encuentran integradas en la Gaceta Parlamentaria, y que éstas ya fueron entregadas y conocidas por los integrantes de la Legislatura, se turnarán para su dictamen a la Comisión que corresponda.
 
 Cuando en una misma iniciativa se propongan reformas a diversos ordenamientos y en distintas materias, ésta se turnará a la Comisión que en razón de su competencia sea la más adecuada al objeto principal de la iniciativa, a fin de emitir un solo dictamen.
 
-###### ARTÍCULO 149.
+###### Artículo 149.
 
 (Desistimiento de la iniciativa) Antes de su turno a Comisión, podrá el autor de una iniciativa, solicitud o proposición, retirarla.
 
@@ -1531,11 +1609,15 @@ Cuando en una misma iniciativa se propongan reformas a diversos ordenamientos y 
 
 (Reasignación de iniciativas) El presidente de la Legislatura podrá reasignar iniciativas para estudio y dictamen de una Comisión distinta a la que conozca de éstas, por inactividad legislativa de tres meses o más. En este caso, el presidente de la Legislatura solicitará a la Comisión respectiva, rinda un informe sobre el particular, a más tardar en cinco días hábiles a partir de recibir el requerimiento, a fin de determinar lo conducente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE FEBRERO DE 2006)</small>
+
 ###### Artículo 152.
 
-(Notificación de adecuaciones a la iniciativa) Cuando un dictamen proponga adecuaciones a la iniciativa, se notificará de éstas a su autor, en el domicilio oficial de la autoridad o en el que se señale en el escrito de iniciativa, cuando se trate de particulares.
+(Notificación de Adecuaciones o rechazo de la iniciativa) Cuando un dictamen proponga adecuaciones a la iniciativa o ésta última sea rechazada por la Legislatura, se notificará de ello al autor que la hubiere propuesto, en el domicilio oficial de la autoridad o en el que se señale en el escrito inicial, cuando se trate de particulares.
 
-Si el autor es un diputado, se entenderá notificado con su sola asistencia a la sesión en que se dé cuenta de las adecuaciones.
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+Si el autor es un diputado, se entenderá notificado con su sola asistencia a la sesión en que se dé cuenta de las adecuaciones o se apruebe el rechazo.
 
 Si el autor ya no ejerciera el cargo en cuyo ejercicio presentó la iniciativa, la notificación se realizará a la institución en la cual lo desempeñó.
 
@@ -1581,7 +1663,9 @@ VI. Si el dictamen propone rechazar la iniciativa y el Pleno lo rechaza, se devo
 
 I. Pasará a la Comisión de Redacción y Estilo para que en un plazo no mayor de 5 días hábiles, formule la minuta respectiva, que no contendrá más variaciones que las exigidas por el uso correcto del lenguaje, la semántica y la claridad de las leyes;
 
-II. La minuta que en su caso expida la Comisión, será remitida a la Presidencia en turno de la Legislatura, para que en un plazo no mayor de cinco días hábiles expida el proyecto correspondiente y se remita para su publicación oficial.
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2006)</small>
+
+II. La minuta que en su caso expida la Comisión, cumplirá las formalidades de las actas de Comisión y será remitida a la Presidencia en turno de la Legislatura, para que en un plazo no mayor de cinco días hábiles, expida el proyecto correspondiente y se remita para su publicación oficial;
 
 III. Feneciendo el plazo sin que la Presidencia en turno hubiere recibido la minuta correspondiente, expedirá de inmediato el proyecto respectivo.
 
@@ -1603,11 +1687,17 @@ Si al recibirse los votos de los ayuntamientos, existiera duda sobre su sentido 
 
 (Trámite de las observaciones del Ejecutivo) Las observaciones o modificaciones hechas a un proyecto de ley por el Ejecutivo, al volver a la Legislatura se turnarán a la Comisión que dictaminó, y el nuevo dictamen de ésta seguirá todos los trámites que prescribe esta Ley.
 
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+En los casos de observaciones realizadas a las iniciativas aprobadas, mediante la calificación de urgente o de obvia resolución, el Presidente de la Legislatura, las turnará a la Comisión de Dictamen que corresponda en razón de su competencia.
+
 ###### Artículo 160.
 
 (Asuntos inconclusos en el ejercicio constitucional) Si al finalizar el ejercicio de la Legislatura, las Comisiones ordinarias tuvieren asuntos inconclusos de resolución o dictamen, remitirán la documentación original que corresponda a la Dirección de Asuntos Legislativos y Jurídicos.
 
-Los dictámenes que expidan las Comisiones y no sean conocidos por el Pleno de la Legislatura, quedarán a disposición de la sucesora para que en el primer período ordinario de sesiones, se discutan y voten.
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+Los dictámenes que expidan las Comisiones y no sean conocidos por el Pleno de la Legislatura, así como los proyectos de ley o decreto que hubieran sido devueltos con observaciones por el Ejecutivo, quedarán a disposición de la sucesora para que, en el primer período ordinario de sesiones, se discutan y voten.
 
 Las iniciativas pendientes de dictaminarse al finalizar una Legislatura, serán reasignadas a las Comisiones que corresponda, para que se dictaminen en el primer año del ejercicio constitucional.
 
@@ -1659,11 +1749,19 @@ La convocatoria deberá ser remitida a sus destinatarios al menos con un día h�
 
 (Plazo para promover asuntos a integrarse en el orden del día) Para la integración del orden del día, la Mesa Directiva considerará exclusivamente los asuntos que hayan sido presentados en la oficialía de partes, con 48 horas de anticipación a la sesión correspondiente.
 
-Una vez circulada la convocatoria, no queda al arbitrio de la Directiva retirar o agregar asuntos del orden del día; pero en casos excepcionales y por acuerdo del Pleno, podrán retirarse o agregarse asuntos durante la sesión, a moción verbalmente planteada por alguno de los diputados.
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+El Pleno, a solicitud verbal de cualquier diputado y por mayoría de los presentes, podrá modificar el orden del día de la sesión, hasta antes de abrir el apartado de asuntos generales.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+Cuando un asunto agendado en la convocatoria a período extraordinario, se retire del orden del día conforme al procedimiento establecido en el párrafo anterior, el presidente de la Legislatura declarará si el efecto de la resolución es tener el asunto por desahogado de la agenda, o si consiste en reservar su trámite para sesión posterior.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 165.
 
-(Publicidad del orden del día) El orden del día de las sesiones plenarias se publicará el día de su celebración, en la Gaceta Parlamentaria y en el tablero que al efecto se coloque en las instalaciones de la Dirección de Asuntos Legislativos y Jurídicos.
+(Publicidad del orden del día) El orden del día de las sesiones plenarias se publicará en la Gaceta Parlamentaria y en el tablero que al efecto se coloque en las instalaciones de la Dirección de Asuntos Legislativos y Jurídicos.
 
 ###### Artículo 166.
 
@@ -1703,7 +1801,9 @@ Las comunicaciones oficiales que no se encuentren destinadas para su trámite an
 
 (Comunicaciones de particulares) Las comunicaciones que provengan de particulares, dirigidas a algún diputado o a dependencia del Poder Legislativo, serán remitidas a su destinatario por la oficialía de partes.
 
-Las que se dirijan a la Legislatura o a sus órganos, tendrán el curso que acuerde el presidente de la Legislatura.
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+Las que se dirijan a la Legislatura o a sus órganos y no constituyan iniciativa de ley, decreto o acuerdo, tendrán el curso que acuerde el presidente de la Legislatura.
 
 ###### Artículo 171.
 
@@ -1807,13 +1907,17 @@ Tratándose de alusiones personales, se concederá la intervención una vez agot
 
 (Prohibición de diálogos) El presidente de la Legislatura procurará que no se den las discusiones en forma de diálogo.
 
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
 ###### Artículo 189.
 
-(Moción suspensiva) Los diputados podrán solicitar la suspensión de alguna discusión, y otros impugnar dicha solicitud, bastando en cada caso que se explique la razón que los motive. En este caso se consultará al Pleno la procedencia de la solicitud, mediante votación económica.
+(Moción suspensiva) Los diputados, en cualquier momento, hasta antes de que se declare la apertura de la votación, podrán solicitar la suspensión de alguna discusión, y otros impugnar dicha solicitud, bastando en cada caso que se explique la razón que los motive. En este caso se consultará al Pleno la procedencia de la solicitud, mediante votación económica.
 
-El presidente de la Legislatura, al declarar la procedencia de la suspensión, establecerá si el efecto de la resolución es remitir el dictamen a la Comisión que lo propuso, para replantear su contenido, o si consiste solamente en prorrogar la discusión hasta una sesión posterior.
+El presidente de la Legislatura, al declarar la procedencia de la suspensión, establecerá si el efecto de la resolución es remitir el dictamen a la Comisión que lo propuso, para replantear su contenido, o si consiste solamente en prorrogar su lectura y discusión, en su caso, hasta una sesión posterior.
 
 No podrá presentarse más de una moción suspensiva en la discusión de cada asunto.
+
+Cuando en el curso de un período extraordinario de sesiones, se acuerde la devolución de algún dictamen a la Comisión que lo propuso, en los términos del segundo párrafo de este artículo y de las fracciones IV y VI del numeral 155, se entenderá que dicha circunstancia es suficiente para tener por desahogado el asunto de la convocatoria respectiva.
 
 ###### Artículo 190.
 
@@ -1927,9 +2031,19 @@ IV. Las cédulas faltantes o depositadas en blanco se entenderán como abstencio
 
 La nulidad de cédulas individuales no implica la nulidad de la elección, que sólo quedará sin efectos cuando se anule más de la mitad de los votos sufragados o si realizado el cómputo respectivo, aparezcan más cédulas que diputados participantes en la votación. En estos casos se repetirá la votación, y si ésta nuevamente debiera anularse, se votará de nuevo el asunto en la sesión inmediata posterior.
 
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
 ###### Artículo 204.
 
-(Regla general de mayoría) Todas las votaciones se verificarán por mayoría de los diputados presentes en la sesión, salvo que exista prevención especial.
+(Tipos de mayoría) Todas las resoluciones se aprobarán por mayoría simple, salvo que exista prevención especial. Para los efectos de la presente ley, se consideran los siguientes tipos de mayoría:
+
+a) Simple: La que representa la mitad más uno de los votos de los diputados presentes en una sesión.
+
+b) Absoluta: La que representa la mitad más uno del total de votos de los diputados integrantes de la Legislatura.
+
+c) Relativa: La que representa el mayor número de votos de los diputados presentes en una sesión respecto a los distintos resultados de las votaciones emitidas para un solo asunto.
+
+d) Calificada: La que la ley determina estableciendo un porcentaje, proporción o número de votos específico para aprobar un asunto.
 
 ###### Artículo 205.
 
@@ -2075,7 +2189,7 @@ III. Que sea o hubiere sido cónyuge de una de las partes o de su representante;
 
 IV. Que tenga en relación con el objeto del procedimiento, interés personal y directo de cualquier género o concurran circunstancias notorias que impidan el ejercicio de su imparcial y objetivo criterio.
 
-### CAPÍTULO VI. SUSPENSIÓN, DECLARATORIA DE DESAPARICIÓN DE AYUNTAMIENTOS Y SUSPENSIÓN, INHABILITACIÓN O REVOCACIÓN DE MANDATO DE ALGUNO DE SUS MIEMBROS
+### CAPÍTULO VI. SUSPENSIÓN, DECLARATORIA DE DESAPARICIÓN DE AYUNTAMIENTOS YSUSPENSIÓN, INHABILITACIÓN O REVOCACIÓN DE MANDATO DE ALGUNO DE SUS MIEMBROS
 
 ###### Artículo 228.
 
@@ -2163,9 +2277,13 @@ Ante el incumplimiento de la resolución, se incurrirá en responsabilidad y se 
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-###### ARTÍCULO 238.
+###### Artículo 238.
 
 (informes de los Poderes del Estado). Cuando la Legislatura celebre sesiones solemnes para recibir los informes de los Poderes Ejecutivo o Judicial, por acuerdo de la Mesa Directiva y por conducto de su presidente, comunicará a los titulares de éstos la sede, fecha y hora de la sesión respectiva.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+La Legislatura analizará el informe del Gobernador en el seno de las Comisiones, remitiendo al término de su primer periodo ordinario de sesiones, un documento con observaciones y comentarios.
 
 ###### Artículo 239.
 
@@ -2223,9 +2341,11 @@ V. Hecho lo anterior, el presidente de la Legislatura instruirá a las respectiv
 
 (Diario de Debates) La Legislatura del Estado editará y publicará anualmente el "Diario de Debates" cuya elaboración estará a cargo del jefe del Diario de los Debates, bajo la supervisión del director del Instituto de Investigación y Estadística Parlamentaria.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE FEBRERO DE 2006)</small>
+
 ###### Artículo 245.
 
-(Gaceta parlamentaria) La gaceta parlamentaria es la edición, para uso interno, que contiene la información sobre los asuntos y el trabajo parlamentario a realizarse en las sesiones del Pleno de la Legislatura. Su publicación se realizará por acuerdo del Presidente de la Legislatura, quien determinará el tipo y cantidad de información que se contenga y que podrá referirse a:
+(Gaceta parlamentaria) La gaceta parlamentaria es la publicación para uso interno, que contiene la información sobre los asuntos y el trabajo parlamentario a realizarse en las sesiones del Pleno de la Legislatura. Su edición corresponde a la Dirección de Asuntos Legislativos y Jurídicos, por acuerdo del presidente de la Legislatura, y contendrá en lo general:
 
 I. Las convocatorias y orden del día de las sesiones de la Legislatura;
 
@@ -2243,11 +2363,19 @@ VII. Los demás que a juicio de la Presidencia, deban hacerse del conocimiento d
 
 Los documentos que aparezcan en la Gaceta serán meramente informativos. Las modificaciones hechas a los mismos con posterioridad a la edición de la Gaceta, serán responsabilidad de sus autores.
 
-La Gaceta incluirá la información recibida hasta día hábil anterior al cierre de su edición. Ésta cerrará 48 horas antes de la sesión plenaria respectiva, en los términos del artículo 164 de esta Ley. Es responsabilidad de quienes requieran la publicación de documentos, hacerlos llegar con dicha anticipación a la Oficialía de Partes del Poder Legislativo.
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+La Gaceta incluirá la información recibida hasta el cierre de su edición, que se verificará los dos días hábiles anteriores a la sesión plenaria respectiva. Es responsabilidad de quienes requieran la publicación de documentos, hacerlos llegar con suficiente anticipación a la Oficialía de Partes del Poder Legislativo.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+La Gaceta se distribuirá a los diputados mediante correo electrónico, el día hábil anterior a aquel en que se celebre la sesión, salvo casos excepcionales que acuerde el presidente.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 246.
 
-(Revistas, carteles, folletos y demás publicaciones) Los órganos y dependencias del Poder Legislativo podrán editar y publicar con cargo a sus fondos, las publicaciones que contribuyan al mejor desarrollo de sus actividades. Si se requirieran recursos adicionales para este propósito, lo solicitarán a la Comisión de Vigilancia para que acuerde lo conducente.
+(Revistas, carteles, folletos y demás publicaciones) Los órganos y dependencias del Poder Legislativo podrán editar y publicar con cargo a sus fondos, las publicaciones que contribuyan al mejor desarrollo de sus actividades. Si requieran recursos adicionales para este propósito, lo solicitarán a la Junta de Concertación Política para que acuerde lo conducente, atendiendo a la disponibilidad presupuestal y prioridades de los programas institucionales, debiendo informar, en su caso, a la Comisión de Vigilancia.
 
 ###### Artículo 247.
 
@@ -2352,3 +2480,13 @@ Esta ley entrará en vigor el día de su aprobación y se ordenará su publicaci
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente.
+
+P.O. 17 DE FEBRERO DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor al día de su aprobación, se ordena su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan a la presente ley.
