@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-armeria-colima-26733"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2005-03-06"
+last_updated: "2006-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26733&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE ARMERIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2006.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -243,7 +243,9 @@ Los notarios públicos, para autorizar en forma definitiva escrituras en que se 
 
 Se concede el 12 por ciento de bonificación a los contribuyentes que paguen el impuesto predial por anualidad adelantada durante los meses de enero, febrero y marzo, siempre que el monto de dicho impuesto sea mayor a 2 unidades de salarios, en predios urbanos y 3 unidades de salarios en predios rústicos. Quienes cubran la anualidad por adelantado quedan liberados del pago de los incrementos que sufra el salario mínimo general durante el ejercicio correspondiente.
 
-En los casos en que el contribuyente acredite estar jubilado o pensionado por alguna institución pública o presente alguna discapacidad, la bonificación será del 50 por ciento en predios urbanos, siempre que el impuesto se refiera a un solo predio, éste sea de su propiedad y acredite la residencia en el mismo. A petición de parte, el mismo beneficio se acreditará a los contribuyentes mayores de 65 años. El descuento anterior se otorgará a los contribuyentes beneficiados por este artículo que paguen este impuesto por anualidad adelantada durante el primer bimestre del año.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2006)</small>
+
+En los casos en que el contribuyente acredite estar jubilado o pensionado por alguna institución pública o presente alguna discapacidad o ser un adulto mayor de escasos recursos con la edad de 65 años o más, la bonificación será del 50 por ciento en predios urbanos, siempre que el impuesto se refiera a un predio, este sea de su propiedad y acredite la residencia en el mismo. El descuento anterior se otorgará a los contribuyentes beneficiados por este artículo que paguen este impuesto por anualidad adelantada durante los meses de enero, febrero y marzo. A partir del mes de abril, el beneficio se seguirá otorgando, pero con los recargos y multas generados hasta que se efectúe el pago en los términos de lo dispuesto por el segundo párrafo del artículo 119 de esta Ley y 25 en su último párrafo del Código Fiscal Municipal.
 
 Cabe señalar que si al efectuar el cálculo del beneficio que se menciona en el párrafo anterior, da como resultado una cantidad menor a 2 unidades de salario, el contribuyente deberá pagar el importe de las dos unidades de salario.
 
@@ -1435,7 +1437,9 @@ hasta 2.00 M2 opaco 1.00
 
 mayor de 2.00 M2 y hasta 4.00 M2
 
-opaco 2.00
+opaco
+
+2.00
 
 9.- Colgante o voladizo con superficie
 
@@ -2799,6 +2803,8 @@ El cobro por la venta de productos procedentes de viveros y jardines públicos, 
 
 ### CAPITULO X. OTROS PRODUCTOS
 
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2006)</small>
+
 ###### ARTICULO 117.
 
 La venta de esquilmos, productos de aparcería, desechos y basura, será de conformidad con el acuerdo del Cabildo.
@@ -2880,6 +2886,10 @@ VIII. Depósitos.
 IX. Gastos de ejecución.
 
 X. Otros no especificados.
+
+(ADICIONADO, P.O. 18 DE FEBRERO DE 2006) (F. DE E., P.O. 15 DE MAYO DE 2006)
+
+En el supuesto del párrafo tercero del artículo 19 de ésta Ley, se cobrará a los contribuyentes ahí señalados, el 50 por ciento de los recargos y multas que se hayan generado hasta que se efectúe el pago correspondiente.
 
 ###### ARTICULO 121.
 
@@ -2998,3 +3008,9 @@ P.O. 25 DE DICIEMBRE DE 2004.
 P.O. 6 DE MARZO DE 2005.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 18 DE FEBRERO DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
