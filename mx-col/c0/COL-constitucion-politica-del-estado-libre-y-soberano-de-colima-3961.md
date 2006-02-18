@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2005-08-29"
+last_updated: "2006-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2006.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -471,9 +471,9 @@ II.- Al Gobernador;
 
 III.- Al Supremo Tribunal de Justicia en asuntos del Ramo de Justicia;
 
-> <small>(REFORMADA, P. O. 11 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2006)</small>
 
-IV.- A los Ayuntamientos en lo que se relaciona con asuntos de la administración municipal; y
+IV.- A los Ayuntamientos; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P. O. 11 DE DICIEMBRE DE 1999)</small>
 
@@ -2515,10 +2515,6 @@ P.O. 11 DE DICIEMBRE DE 1999.
 
 DECRETO No. 208, POR EL QUE SE REFORMA EL ARTICULO 144 Y SE DEROGA EL ARTICULO 6° TRANSITORIO DE LA CONSTITUCION DEL ESTADO.
 
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
-
-P.O. 6 DE MAYO DE 2000.
-
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
@@ -2529,11 +2525,11 @@ El Gobierno del Estado y los Ayuntamientos incluirán en sus respectivos presupu
 
 P.O. 22 DE JULIO DE 2000.
 
-###### ARTÍCULO ÚNICO.
+###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
-P.O. 30 DE SEPTIEMBRE DE 2000.
+P.O. 6 DE MAYO DE 2000.
 
 ###### ARTICULO PRIMERO.
 
@@ -2636,3 +2632,13 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 P.O. 29 DE AGOSTO DE 2005.
 
 UNICO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 18 DE FEBRERO DE 2006.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 30 DE SEPTIEMBRE DE 2000.
