@@ -4,7 +4,7 @@ identifier: "COL-codigo-fiscal-municipal-del-estado-de-colima-28572"
 country: "mx"
 rank: "codigo"
 publication_date: "2003-01-11"
-last_updated: "2004-10-16"
+last_updated: "2006-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28572&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO FISCAL MUNICIPAL DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2006.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 11 de enero de 2003.
 
@@ -342,6 +342,10 @@ Los recargos se causarán hasta por cinco años y se calcularán sobre el total 
 Cuando el pago hubiera sido menor al que corresponda, los recargos se computarán sobre la diferencia.
 
 Cuando los recargos determinados por el contribuyente sean inferiores a los que calcule la Tesorería, ésta deberá aceptar el pago y procederá a exigir el remanente.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2006)</small>
+
+En el supuesto del párrafo tercero del artículo 19 y su correlativo de las Leyes de Hacienda de los Municipios del Estado, se cobrará a los contribuyentes ahí señalados, el 50 por ciento de los recargos.
 
 ###### ARTICULO 26.
 
@@ -1389,8 +1393,14 @@ Dado en Palacio de Gobierno a los 10 días del mes de enero de 2003.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. JORGE HUMBERTO SILVA OCHOA.- Rúbrica.-
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO:</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
 
 P.O. 16 DE OCTUBRE DE 2004.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
+
+P.O. 18 DE FEBRERO DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
