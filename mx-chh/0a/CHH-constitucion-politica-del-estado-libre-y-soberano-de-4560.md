@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2005-09-10"
+last_updated: "2006-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2006.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -1357,9 +1357,11 @@ VI.- Para poder ser nombrado Gobernador Interino, cuando no lo sea por ministeri
 
 Nunca podrá ser electo para el período inmediato el ciudadano que haya desempeñado el cargo de Gobernador Provisional, el de Gobernador Substituto o el que haya sido designado para concluir el período en caso de falta absoluta del Gobernador Constitucional cualquiera que sea el nombre con que se le designe. Tampoco podrá ser electo para el período inmediato, el ciudadano que haya desempeñado el cargo de Gobernador con el carácter de Interino, o el que lo haya asumido por Ministerio de Ley, o con cualquiera otra denominación, durante los dos últimos años del período que precede al nuevo período constitucional.
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2006)</small>
+
 ###### Art. 91.
 
-El Gobernador no puede separarse por tiempo alguno del ejercicio de sus funciones ni ausentarse del territorio del Estado por más de cinco días sin licencia del Congreso o en su receso de la Diputación Permanente; cuando deba ausentarse por un término de cinco días o menos deberá simplemente dar aviso de su salida al Congreso y al Supremo Tribunal de Justicia; cuando salga de la Capital pero no fuera del territorio del Estado, el Gobernador no necesitará pedir licencia ni dar aviso a los otros Poderes.
+El Gobernador no puede separarse por tiempo alguno del ejercicio de sus funciones ni ausentarse del territorio del Estado por más de veintiún días sin licencia del Congreso o en su receso de la Diputación Permanente; cuando deba ausentarse por un término de veintiún días o menos deberá simplemente dar aviso de su salida al Congreso y al Supremo Tribunal de Justicia; cuando salga de la Capital pero no fuera del territorio del Estado, el Gobernador no necesitará pedir licencia ni dar aviso a los otros Poderes.
 
 ###### Art. 92.
 
@@ -3208,3 +3210,9 @@ QUINTO.- Para los efectos de la designación de los cinco primeros consejeros, s
 I.- De los consejeros propietarios, dos de ellos serán designados para un período de siete años y los tres restantes para un período de cuatro años.
 
 II.- Los consejeros que se nombren para períodos posteriores, durarán en su cargo siete años.
+
+P.O. 18 DE FEBRERO DE 2006.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para los efectos del artículo 202 de la Constitución Política del Estado, envíese a los 67 Ayuntamientos que conforman el Estado, el presente dictamen y la iniciativa que le dio origen, así como la parte relativa del Diario de los Debates.
