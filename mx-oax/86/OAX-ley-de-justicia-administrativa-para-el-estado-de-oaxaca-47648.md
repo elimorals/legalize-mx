@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-justicia-administrativa-para-el-estado-de-oaxaca-47648"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2005-12-31"
+last_updated: "2006-02-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47648&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2006.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 31 de diciembre de 2005.
 
@@ -1983,7 +1983,9 @@ SEGUNDO.- La presente Ley entrará en vigor el día 01 de Enero de 2006.
 
 TERCERO.- El Congreso del Estado tendrá el término de 180 días a partir de la entrada en vigor de la presente Ley, para adecuar las leyes, decretos y demás ordenamientos vigentes que se relacionen con la aplicación de esta Ley.
 
-CUARTO.- Dentro de los treinta días siguientes a la entrada en vigor de esta Ley, el Gobernador del Estado propondrá al Congreso del Estado la terna para el nombramiento de los Magistrados que deberán integrar el Tribunal Contencioso Administrativo en términos del artículo 97 de la presente Ley.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2006)</small>
+
+CUARTO.- El Gobernador del Estado, propondrá al Congreso las ternas para los nombramientos de los Magistrados que deberán integrar al Tribunal de lo Contencioso Administrativo, en términos del artículo 97 de la presente Ley, hasta antes de la conclusión del Primer Periodo Ordinario de Sesiones del Segundo Año de Ejercicio de la actual Legislatura.
 
 QUINTO.- En los procedimientos administrativos que se encuentren en trámite, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su inicio o por la aplicación de la presente Ley. Los recursos administrativos en trámite a la entrada en vigor de esta Ley, se resolverán conforme a la ley de la materia, pero una vez resuelto procederá el Juicio que corresponda ante el Tribunal de lo Contencioso Administrativo del Estado de Oaxaca, una vez instalado formal y materialmente, independientemente de la fecha en que se resuelva el recurso correspondiente.
 
@@ -2046,3 +2048,9 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. JORGE F. FRANCO VARGAS.
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE FEBRERO DE 2006.
+
+UNICO.- El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Gobierno del Estado.
