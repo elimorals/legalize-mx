@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2005-12-27"
+last_updated: "2006-02-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2006.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -823,7 +823,9 @@ V. No haber sido condenado por delito intencional que amerite pena de privación
 
 ###### Artículo 62.
 
-1. El Instituto de Investigación y Estudios Legislativos tiene las siguientes atribuciones:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE FEBRERO DE 2006)</small>
+
+1. El Instituto de Investigación y Estudios Legislativos tiene las siguientes obligaciones:
 
 I. Apoyar el trabajo de investigación legislativa del Pleno, de los diputados y de las comisiones;
 
@@ -831,9 +833,21 @@ II. Analizar y revisar en forma permanente la legislación estatal;
 
 III. Investigar los temas relacionados con la historia y el desarrollo legislativo del Estado de Jalisco y de otros cuerpos legislativos ya sean nacionales o internacionales;
 
-IV. Establecer mecanismos de intercambio de información con las demás legislaturas estatales y con el Congreso de la Unión, de acuerdo con las disposiciones que establezca el Comité de Relaciones Interparlamentarias y Asuntos Internacionales; y
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2006)</small>
 
-V. Las demás que le señale esta ley y las disposiciones reglamentarias.
+IV. Establecer mecanismos de intercambio de información con las demás legislaturas estatales y con el Congreso de la Unión, de acuerdo con las disposiciones que establezca el Comité de Relaciones Interparlamentarias y Asuntos Internacionales;
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2006)</small>
+
+V. Realizar comentarios acerca del impacto social de la aplicación de las normas vigentes o de proyectos de ley, a solicitud de los diputados o comisiones;
+
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2006)</small>
+
+VI. Rendir un informe mensual al Comité de Proceso Legislativo para los efectos del artículo 123; y
+
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2006)</small>
+
+VII. Las demás que señale esta Ley y las disposiciones reglamentarias.
 
 ### CAPÍTULO I. Comisiones Legislativas
 
@@ -949,7 +963,9 @@ V. Promover las visitas, entrevistas y acciones necesarias para el estudio y dic
 
 VI. Presentar a la Asamblea, los acuerdos, resoluciones o dictámenes de los asuntos que competan a su comisión;
 
-VII. Presentar al Comité de Proceso Legislativo el informe semestral de asistencias; y
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2006)</small>
+
+VII. Presentar al Comité de Proceso Legislativo, informe cada cuatro meses sobre reuniones de trabajo de comisión, asistencias de los diputados. Dicho informe deberá presentarse a más tardar quince días anteriores al término del ejercicio de la Mesa Directiva en funciones;
 
 VIII. Las demás que señala esta ley y las disposiciones reglamentarias aplicables.
 
@@ -2632,3 +2648,7 @@ P.O. 17 DE NOVIEMBRE DE 2005.
 P.O. 27 DE DICIEMBRE DE 2005.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 18 DE FEBRERO DE 2006.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
