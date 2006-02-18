@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40056"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2006-01-07"
+last_updated: "2006-02-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40056&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LEY ORGANICA DEL PODER LEGISLATIVO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2006.
 
 Reglamento publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 19 de junio de 2004.
 
@@ -230,6 +230,10 @@ IV. El Presidente de la Mesa Directiva da lectura al informe de actividades corr
 1. Se justificará la ausencia de un Diputado, cuando previamente a la sesión a que falte haya avisado y expuesto el motivo de su inasistencia al Presidente de la Mesa de Directiva y éste la haya calificado de justificada la cual someterá a aprobación de la Asamblea. Si la falta fuere del Presidente, el aviso deberá darlo al Vice-Presidente, o a la Secretaría, en ausencia de aquél. La falta sin previo aviso solamente se justificará en casos de fuerza mayor o caso fortuito que hayan imposibilitado dar dicho aviso.
 
 2. Los diputados podrán ausentarse de sus funciones sin goce de percepciones hasta por diez días hábiles, previo aviso por escrito al Presidente de la Mesa Directiva.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2006)</small>
+
+3. No podrán considerarse como faltas, ni contabilizarse como tales, las ausencias que hayan sido calificadas como justificadas en los términos del numeral 1 del presente artículo, considerándose estas como inasistencias justificadas.
 
 ###### Artículo 22.
 
@@ -631,7 +635,9 @@ V. Las demás que la Ley establezca.
 
 ###### Artículo 73.
 
-1. Por cada comisión habrá un secretario técnico, con las siguientes atribuciones:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE FEBRERO DE 2006)</small>
+
+1. Por cada Comisión habrá un Secretario Técnico, con las siguientes atribuciones:
 
 I. Realizar la minuta de la sesión;
 
@@ -639,9 +645,15 @@ II. Elaborar al libro de actas de la comisión;
 
 III. Llevar el seguimiento de los asuntos de la comisión a que sea adscrito;
 
-IV. Participar con voz en las sesiones siempre que lo autorice el presidente; y
+IV. Participar con voz en las sesiones siempre que lo autorice el presidente; y (sic)
 
-V. Las demás que le confiera, el presidente, la comisión, o las disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2006)</small>
+
+V. elaborar el proyecto de informe cuatrimestral a que se refiere el artículo 71 fracción VII, de la Ley y presentarlo al Presidente de la Comisión; y
+
+ADICIONADA, P.O. 18 DE FEBRERO DE 2006)
+
+VI. Las demás que le confiera, el Presidente, la Comisión o las disposiciones legales aplicables.
 
 ###### Artículo 74.
 
@@ -841,7 +853,47 @@ B) Los términos para la dictaminación a los que se refiere la ley, iniciaran a
 
 ### CAPÍTULO VI. DE LAS SANCIONES
 
-### CAPÍTULO ÚNICO. FINALIDAD Y FUNCIONES COMUNES
+### CAPÍTULO VI (SIC). DE LOS GASTOS DE COMISIONES Y COMITÉS
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2006)</small>
+
+Artículo 99 bis.
+
+1. Las comisiones de carácter permanente y los comités podrán disponer de recursos económicos para el cumplimiento de sus funciones, mismos que deberán estar contenidos en la partida respectiva que para tal efecto apruebe la Asamblea en el Presupuesto de Egresos del Poder Legislativo del ejercicio fiscal que corresponda.
+
+2. La asignación de dichos recursos deberá ser equitativa entre todas las comisiones de carácter permanente y los comités.
+
+3. Cuando el Congreso del Estado cree comisiones legislativas especiales de carácter temporal que auxilien a las de carácter permanente, la Asamblea podrá asignar recursos económicos a las mismas, siempre sujetos a la disponibilidad financiera de este Poder.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2006)</small>
+
+Artículo 99 ter.
+
+1. Con la finalidad de dar cumplimiento a los asuntos que les corresponden a las comisiones o comités, sus integrantes podrán proponer en cualquier momento, la utilización de los recursos asignados; la propuesta deberá ser analizada, discutida y aprobada por la mayoría de los miembros que componen la comisión o comité de que se trate y se presentará por escrito ante la Secretaría General del Congreso del Estado para la liberación del recurso.
+
+2. Las cantidades que no se hayan erogado por la comisión o comité que corresponda deberán ser reintegradas a la Secretaría General al término de la Legislatura.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2006)</small>
+
+Artículo 99 quater.
+
+1. El Presidente de la comisión o comité que corresponda, deberá rendir un informe trimestral de gastos a los vocales y un informe semestral a la Comisión de Administración, con la finalidad de que esta última tenga conocimiento de la aplicación y administración de los recursos económicos del Congreso del Estado. El Presidente de la comisión o comité de que se trate, deberá entregar un ejemplar del informe semestral a la Secretaría General del Congreso del Estado para que ésta publique, a través de medios electrónicos, la información contenida.
+
+2. Los gastos que se realicen con cargo al presupuesto asignado a cada comisión o comité, deberán ser comprobados ante la Secretaría General del Congreso del Estado, mediante facturas o recibos expedidos a nombre del Poder Legislativo.
+
+3. En caso de que al finalizar el ejercicio fiscal, las comisiones o comités de que se trate, no hubieran entregado las comprobaciones relativas a los gastos ejercidos de su presupuesto asignado anualmente, la Secretaría General del Congreso del Estado, descontará las cantidades no comprobadas de la dieta de quien las haya ejercido una vez agotado el esquema de comprobación.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2006)</small>
+
+Artículo 99 quinques (sic).
+
+1. Cuando por motivo del cumplimiento de las funciones propias de la comisión o comité, alguno de sus integrantes deba trasladarse a otro lugar, los gastos previstos para tal efecto, se harán con cargo al presupuesto asignado a la comisión o comité que corresponda, previa autorización de la mayoría de sus miembros.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2006)</small>
+
+Artículo 99 sexies.
+
+1. Cualquier acto contrario a lo dispuesto por este capítulo, será sancionado de conformidad a lo establecido por las disposiciones jurídicas aplicables.
 
 ###### Artículo 95.
 
@@ -877,11 +929,13 @@ V. Haber presentado a la Asamblea solicitud de separación del cargo de diputado
 
 1. Si fuere el caso, el legislador que faltare a reunión de comisión se podrá dirigir por escrito al presidente de la comisión de la que forma parte para que la posible justificación de su inasistencia se ponga a consideración de los miembros de la misma, la solicitud deberá quedar asentada en el acta.
 
-### CAPÍTULO I. DE LA SECRETARÍA GENERAL
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE FEBRERO DE 2006)</small>
+
+### CAPÍTULO ÚNICO. FINALIDAD Y FUNCIONES COMUNES
 
 ## TÍTULO OCTAVO. DE LOS ÓRGANOS ADMINISTRATIVOS Y AUXILIARES
 
-### CAPÍTULO II. DE LAS DIRECCIONES DE LA SECRETARÍA GENERAL
+### CAPÍTULO I. DE LA SECRETARÍA GENERAL
 
 ###### Artículo 100.
 
@@ -929,7 +983,7 @@ IX. Las demás que les sean encomendadas a través de los procedimientos y facul
 
 ## TÍTULO NOVENO. DE LA SECRETARÍA GENERAL
 
-### CAPÍTULO I. DE LA AUDITORÍA SUPERIOR
+### CAPÍTULO II. DE LAS DIRECCIONES DE LA SECRETARÍA GENERAL
 
 ###### Artículo 104.
 
@@ -1009,7 +1063,9 @@ XXII. Atender los asuntos administrativos del personal del Congreso, resolver lo
 
 XXIII. Actuar como jefe de personal de todos los servidores públicos que presten sus servicios en el Poder Legislativo del Estado;
 
-XXIV. Elaborar el anteproyecto de presupuesto anual del Congreso para presentarlo a la Comisión de Administración;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2006)</small>
+
+XXIV. Elaborar el anteproyecto de presupuesto anual del Congreso, en base a los programas anuales de trabajo de sus direcciones y de los órganos técnicos auxiliares, para presentarlo a la Comisión de Administración;
 
 XXV. Recibir los caudales correspondientes al presupuesto de egresos del poder legislativo, hacer los pagos de las dietas, gastos, sueldos de los diputados, y demás servidores del Congreso, los días designados para ese efecto y rendir cuentas del manejo de fondos bajo su más estricta responsabilidad a través de la Dirección de Control Presupuestal y Financiero;
 
@@ -1047,7 +1103,7 @@ XXXV. Las demás que señale este reglamento o acuerde la Asamblea.
 
 1. El Congreso editará el “Diario de los Debates”, el cual tendrá por objeto la conservación del archivo e historia del proceso legislativo estatal, contendrá la fecha, lugar en que se verifiquen las sesiones, el sumario, nombre de quien presida, acta circunstanciada de las sesiones y trascripción de la grabación magnetofónica de las discusiones, en el orden que se desarrollen e inserción de los documentos a los que se les dé lectura; pero en ningún caso deberán publicarse las discusiones ni los documentos que se relacionen a las sesiones reservadas que se verifiquen las cuales en su caso deberán de ser publicadas en los términos de la legislación en materia de transparencia.
 
-### CAPÍTULO II. DEL ÓRGANO TÉCNICO DE HACIENDA PÚBLICA
+### CAPÍTULO I. DE LA AUDITORÍA SUPERIOR
 
 ###### Artículo 109.
 
@@ -1109,29 +1165,39 @@ XIV. Apoyar en la grabación y reproducción de audio y video a petición de las
 
 XV. Elaboración de certificaciones, y en su caso verificar el pago de los derechos correspondientes;
 
-XVI. Compilar la información para la realización de los informes de la legislatura, la memoria legislativa y el registro de estadísticas; y
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2006)</small>
 
-XVII. Las demás que le sean asignadas por el Secretario General, y el Presidente de la Mesa Directiva.
+XVI. Compilar la información para la realización de los informes de la legislatura, la memoria legislativa y el registro de estadísticas;
+
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2006)</small>
+
+XVII. Informar mensualmente al Comité de Proceso Legislativo de los asuntos que le son encomendados para los efectos del artículo 123 de la Ley; y
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2006)</small>
+
+XVIII. Las demás que le sean asignadas por el Secretarios (sic) General, y el Presidente de la Mesa Directiva.
+
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 111.
 
 1. Corresponde a la Dirección de Asuntos Jurídicos y Dictamen Legislativo:
 
-I. Coadyuvar en el análisis y estudio de las leyes vigentes en el Estado;
+I. Formular comentarios jurídicos de las iniciativas de leyes, decretos y en su caso los acuerdos legislativos que sean turnados a las comisiones por el Pleno, cuando así lo soliciten los diputados o las comisiones; los cuales deberán presentar a más tardar 30 días posteriores a que hayan sido turnadas;
 
-II. Elaborar, analizar y formular comentarios sobre las iniciativas de leyes, decretos y acuerdos que se soliciten;
+II. Dar soporte jurídico a los asuntos legales en que sea parte el Congreso;
 
-III. Dar soporte jurídico a los asuntos legales en que sea parte el Congreso;
+III. Atender consultas y brindar asesoría jurídica a los diversos órganos legislativos, técnicos y de trabajo cuando así lo soliciten;
 
-IV. Atender Consultas y brindar asesoría jurídica a los diversos órganos legislativos, técnicos y de trabajo cuando así lo soliciten;
+IV. Proporcionar apoyo a los diputados, comisiones u órganos que así lo solicite, para la realización de proyectos de dictámenes;
 
-V. Proporcionar apoyo a las Comisiones que así lo soliciten, para la realización de los dictámenes;
+V. La realización de las notificaciones de los asuntos legales en que sea parte el Congreso;
 
-VI. La realización de las notificaciones de los asuntos legales en que sea parte el Congreso;
+VI. Informar mensualmente al Comité de Proceso Legislativo de los asuntos que le son encomendados para los efectos del artículo 123 de la Ley;
 
-VII. Participar con la Dirección de Procesos legislativo en la revisión de las minutas de ley o decreto;
+VII. Participar en coordinación con la Dirección de Procesos Legislativos en la revisión de minutas de ley o decreto y la concordancia de las mismas con la promulgación en el Periódico Oficial y en cualquier otro medio que resulte para tal fin. En caso de existir diferencias entre lo aprobado y lo publicado, notificará de manera inmediata a la Secretaría General y a la Mesa Directiva del Congreso para lo conducente;
 
-VIII. Ser la oficina encargada de recibir y dar tramite a las solicitudes de información del Congreso, en los términos de la Ley de Transparencia e Información del Estado de Jalisco; y
+VIII. Ser la oficina encargada de recibir y dar trámite a las solicitudes de información del Congreso, en los términos de la Ley de Transparencia e Información del Estado de Jalisco; y
 
 IX. Las demás que señale el Secretario General.
 
@@ -1335,13 +1401,13 @@ V. Las demás que le asigne el Secretario General.
 
 ## TÍTULO DÉCIMO. DE LOS ÓRGANOS TÉCNICOS AUXILIARES
 
-### CAPÍTULO III. DEL ÓRGANO TÉCNICO DE RESPONSABILIDADES
+### CAPÍTULO II. DEL ÓRGANO TÉCNICO DE HACIENDA PÚBLICA
 
 ###### Artículo 119.
 
 1. En todo lo relacionado a la Auditoria Superior, se estará a lo que señale la Ley de Fiscalización, la Ley Orgánica del Poder Legislativo, su reglamento interno y los acuerdos de la Asamblea.
 
-### CAPÍTULO IV. DEL INSTITUTO DE INVESTIGACIÓN JURÍDICA Y ESTUDIOS LEGISLATIVOS
+### CAPÍTULO III. DEL ÓRGANO TÉCNICO DE RESPONSABILIDADES
 
 ###### Artículo 120.
 
@@ -1393,7 +1459,7 @@ XII. Los demás que le instruya la Asamblea y la Comisión de Hacienda y Presupu
 
 1. El Órgano Técnico de Hacienda Pública podrá contar con un boletín de difusión en el que se publicarán análisis, informes, proyecciones y demás documentos relevantes, de conformidad con la disponibilidad presupuestal.
 
-### CAPÍTULO I. DE LAS OBLIGACIONES DE LOS SERVIDORES PÚBLICOS DEL CONGRESO DEL ESTADO
+### CAPÍTULO IV. DEL INSTITUTO DE INVESTIGACIÓN JURÍDICA Y ESTUDIOS LEGISLATIVOS
 
 ###### Artículo 125.
 
@@ -1419,7 +1485,7 @@ XII. Los demás que le instruya la Asamblea y la Comisión de Hacienda y Presupu
 
 2. Para el caso de responsabilidad administrativa de servidores públicos del Poder Legislativo, la Comisión de Responsabilidades instaura los procedimientos respectivos, con el apoyo de las áreas del Órgano Técnico.
 
-### CAPÍTULO II. DEL SERVICIO PROFESIONAL LEGISLATIVO
+### CAPÍTULO I. DE LAS OBLIGACIONES DE LOS SERVIDORES PÚBLICOS DEL CONGRESO DEL ESTADO
 
 ###### Artículo 130.
 
@@ -1431,7 +1497,9 @@ b) Área de Apoyo Legislativo.
 
 ###### Artículo 131.
 
-1. Son atribuciones y facultades del Instituto de Investigaciones y Estudios Legislativos además de las establecidas en la Ley, las siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE FEBRERO DE 2006)</small>
+
+1. Son atribuciones del Instituto de Investigaciones y Estudios Legislativos, además de las establecidas en la Ley, las siguientes:
 
 I. Realizar investigaciones y estudio a las comisiones, diputados y órganos auxiliares del Congreso que así lo soliciten en materia legislativa;
 
@@ -1439,7 +1507,9 @@ II. Investigar y difundir a través de publicaciones temas relacionados con el e
 
 III. Elaborar reportes analíticos, estadísticos y recomendaciones técnicas derivados de los programas de investigación;
 
-IV. Turnar a las comisiones correspondientes las conclusiones y recomendaciones técnicas que resulten de dichas consultas;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2006)</small>
+
+IV. Diseñar todo tipo de eventos académicos tendientes a la profesionalización y especialización en el ámbito legislativo;
 
 V. Colaborar con la Secretaría General en el diseño y programación de cursos relacionados con la función legislativa;
 
@@ -1447,21 +1517,41 @@ VI. En base a las investigaciones que realice, proponer a las comisiones modific
 
 VII. Proponer las directrices de investigación, difusión, conservación de documentos, intercambio de (sic) bibliográfico y de experiencia en investigación con los congresos locales, Congreso de la Unión e Instituciones académicas;
 
-VIII. Proponer a la Comisión de Administración los convenios de cooperación con otras instituciones y organismos para el mejor trabajo de investigación en la función legislativa, para que se presenten a la Asamblea para su aprobación; y
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2006)</small>
 
-IX. Presentar un proyecto de programa anual de investigación.
+VIII. Proponer a la Comisión de Administración los convenios de cooperación con otras instituciones y organismos para el mejor trabajo de investigación en la función legislativa, para que se presenten a la Asamblea para su aprobación;
+
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2006)</small>
+
+IX. Informar mensualmente al Comité de Proceso Legislativo sobre sus actividades, de conformidad al artículo 123 de la Ley; y
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2006)</small>
+
+X. Presentar un proyecto de programa anual de trabajo de todas sus áreas al Comité de Proceso Legislativo.
+
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 132.
 
-1. Corresponde al área de investigación:
+1. corresponde al área de investigación del Instituto:
 
-I. Realizar investigaciones que tiendan al mejoramiento de la legislación del Estado a mediano y largo plazo; y
+I. Realizar investigaciones, estudios y análisis que tiendan al mejoramiento de la legislación del Estado a corto, mediano y largo plazo;
 
-II. Efectuar estudios comparativos de la Legislación.
+II. Efectuar estudios comparativos de la Legislación; y
+
+III. La publicación de obras relativas a trabajos de investigación legislativa de conformidad con la disponibilidad presupuestal.
+
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 133.
 
-1. Corresponde al área de apoyo legislativo apoyar a las comisiones en el trabajo legislativo, a petición de éstas o de la Junta de Coordinación Política.
+1. Corresponde al área de apoyo legislativo del Instituto:
+
+I. Apoyar a los diputados y comisiones en el trabajo de análisis e investigación legislativa, a petición de estos o de la Junta de Coordinación Política;
+
+II. Diseñar eventos académicos tendientes a la profesionalización y especialización en el ámbito legislativo; y
+
+III. Realizar diagnósticos del impacto en la aplicación de las normas vigentes o proyectos de ley, a solicitud de diputados, comisiones o la propia Asamblea.
 
 ###### Artículo 134.
 
@@ -1477,11 +1567,11 @@ IV. Tener experiencia en la realización de Investigaciones; y
 
 V. Acreditar los exámenes que para el efecto se realicen.
 
-### CAPÍTULO I. DE LOS MANUALES DE OPERACIÓN
+### CAPÍTULO II. DEL SERVICIO PROFESIONAL LEGISLATIVO
 
 ## TÍTULO DÉCIMO PRIMERO. DE LOS SERVIDORES PÚBLICOS DEL CONGRESO DEL ESTADO
 
-### CAPÍTULO II. DEL MANEJO DE LOS RECURSOS DEL CONGRESO DEL ESTADO
+### CAPÍTULO I. DE LOS MANUALES DE OPERACIÓN
 
 ###### Artículo 135.
 
@@ -1499,9 +1589,7 @@ V. Abstenerse de ostentar su calidad de servidor público del Congreso, en el de
 
 2. El incumplimiento a lo dispuesto en este artículo será sancionado de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+### CAPÍTULO II. DEL MANEJO DE LOS RECURSOS DEL CONGRESO DEL ESTADO
 
 ###### Artículo 136.
 
@@ -1523,7 +1611,7 @@ c) Considerar el grado académico y la experiencia de los candidatos.
 
 ## TÍTULO DÉCIMO SEGUNDO. DEL FUNCIONAMIENTO ADMINISTRATIVO DEL CONGRESO DEL ESTADO
 
-### CAPÍTULO SEGUNDO. DEL FUNCIONAMIENTO
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
@@ -1567,7 +1655,7 @@ XI. Estrategia de comunicación; y
 
 XII. Catálogos de formato.
 
-### CAPÍTULO TERCERO. DE LAS FACULTADES DEL COMITÉ
+### CAPÍTULO SEGUNDO. DEL FUNCIONAMIENTO
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
@@ -1591,7 +1679,7 @@ Las bases, criterios y procedimientos de las adquisiciones de bienes, contrataci
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
-### CAPÍTULO CUARTO. DE LA ADQUISICIÓN DE LOS BIENES O SERVICIOS
+### CAPÍTULO TERCERO. DE LAS FACULTADES DEL COMITÉ
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
@@ -1667,7 +1755,7 @@ II. Los representantes del Consejo Económico Social y la Competitividad por su 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
-### CAPÍTULO QUINTO. DEL PADRÓN DE PROVEEDORES
+### CAPÍTULO CUARTO. DE LA ADQUISICIÓN DE LOS BIENES O SERVICIOS
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
@@ -1721,7 +1809,7 @@ VII. Cierre de la sesión.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
-### CAPÍTULO SEXTO. DE LOS PROCEDIMIENTOS DE ADQUISICIÓN
+### CAPÍTULO QUINTO. DEL PADRÓN DE PROVEEDORES
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
@@ -1785,7 +1873,7 @@ IV. Las demás que le sean asignadas por el Coordinador o por el propio Comité.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
-### CAPÍTULO SÉPTIMO. DE LAS SANCIONES
+### CAPÍTULO SEXTO. DE LOS PROCEDIMIENTOS DE ADQUISICIÓN
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
@@ -1903,7 +1991,7 @@ IV. Entidades públicas federales.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
-### CAPÍTULO OCTAVO. DE LA SUSPENSIÓN O CANCELACIÓN DE LAS ADJUDICACIONES
+### CAPÍTULO SÉPTIMO. DE LAS SANCIONES
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
@@ -1980,6 +2068,10 @@ IV. No informe oportunamente los cambios en la información proporcionada al mom
 1. La inscripción en el Padrón no es obligatoria, ya que cualesquier proveedor podrá participar en las adquisiciones, siempre y cuando cumpla con los requisitos establecidos en el presente título.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+### CAPÍTULO OCTAVO. DE LA SUSPENSIÓN O CANCELACIÓN DE LAS ADJUDICACIONES
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 176.
 
@@ -2168,5 +2260,25 @@ P.O. 22 DE NOVIEMBRE DE 2005.
 ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco.
 
 P.O. 7 DE ENERO DE 2006.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 18 DE FEBRERO DE 2006.
+
+DECRETO NUMERO 21215-LVII/06, POR EL QUE SE ADICIONA EL CAPITULO VI AL TITULO SEPTIMO DEL REGLAMENTO DE LEY ORGANICA DEL PODER LEGISLATIVO.
+
+PRIMERO. Se deja sin efectos el acuerdo legislativo 466/04 de 14 de septiembre del 2004, mediante el cual se establecen las reglas y lineamientos para la disposición, uso y rendición de cuentas de los recursos asignados a las comisiones y comités.
+
+SEGUNDO. El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 18 DE FEBRERO DE 2006.
+
+DECRETO NUMERO 21216-LVII/06, POR EL QUE SE MODIFICA EL ARTICULO 21 DEL REGLAMENTO DE LEY ORGANICA DEL PODER LEGISLATIVO.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 18 DE FEBRERO DE 2006.
+
+DECRETO NUMERO 21217-LVII/06, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 73, 106, 110, 111, 131, 132 Y 133 DEL REGLAMENTO DE LEY ORGANICA DEL PODER LEGISLATIVO.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
