@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-fomento-economico-del-estado-de-baja-california-sur-2928
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-20"
-last_updated: "2004-02-29"
+last_updated: "2006-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 LEY DE FOMENTO ECONOMICO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE FEBRERO DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DE LA LEY DE FOMENTO Y DESARROLLO ECOMONICO PARA EL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADA EN EL B.O. DE 20 DE FEBRERO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el miércoles 20 de diciembre de 1995.
 
@@ -169,17 +171,19 @@ A.- Además de los casos previstos para la condonación del impuesto sobre nómi
 
 ###### ARTICULO 8.
 
-B.- Para la obtención de la condonación del impuesto sobre nóminas aludido, las empresas deberán acompañar en la primera declaración para pagar este impuesto que se causará en el momento que se realicen las erogaciones por el trabajo personal subordinado del discapacitado, lo siguiente:
+D.- Este estímulo fiscal se otorgará directamente por la Secretaría de Finanzas sin mayores requisitos que cumplir con lo señalado en el artículo 8B de la presente Ley.
 
-I.- Una manifestación del contribuyente en el sentido de que tiene establecida una relación laboral con personas discapacitadas, expresando el nombre en cada una de ellas y las condiciones de dicha relación, y
-
-II.- Certificado que acredite la incapacidad parcial permanente, expedido por el Instituto Mexicano del Seguro Social, o del Sistema para el Desarrollo Integral de la Familia (DIF) tratándose de incapacidades congénitas o de nacimiento.
+La Secretaría de Finanzas tendrá la facultad de verificar en cualquier momento la información que le suministren las empresas que se acojan a este estímulo. Las empresas que se encuentren en este supuesto deberán otorgar las facilidades necesarias para la práctica de visitas de inspección.
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 8.
 
-C.- En todas las declaraciones que el contribuyente presente para el pago del impuesto sobre nóminas en la Secretaría de Finanzas, deberá precisar, en relación a los discapacitados, la cantidad de trabajadores por los cuales aplica la condonación, el monto mensual de sus remuneraciones, el importe condonado y el monto del impuesto resultante a pagar, utilizando para el efecto, los espacios preestablecidos en la forma oficial autorizada.
+B.- Para la obtención de la condonación del impuesto sobre nóminas aludido, las empresas deberán acompañar en la primera declaración para pagar este impuesto que se causará en el momento que se realicen las erogaciones por el trabajo personal subordinado del discapacitado, lo siguiente:
+
+I.- Una manifestación del contribuyente en el sentido de que tiene establecida una relación laboral con personas discapacitadas, expresando el nombre en cada una de ellas y las condiciones de dicha relación, y
+
+II.- Certificado que acredite la incapacidad parcial permanente, expedido por el Instituto Mexicano del Seguro Social, o del Sistema para el Desarrollo Integral de la Familia (DIF) tratándose de incapacidades congénitas o de nacimiento.
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -191,9 +195,7 @@ E.- Las empresas beneficiadas con este estímulo fiscal, deberán llevar un regi
 
 ###### ARTICULO 8.
 
-D.- Este estímulo fiscal se otorgará directamente por la Secretaría de Finanzas sin mayores requisitos que cumplir con lo señalado en el artículo 8B de la presente Ley.
-
-La Secretaría de Finanzas tendrá la facultad de verificar en cualquier momento la información que le suministren las empresas que se acojan a este estímulo. Las empresas que se encuentren en este supuesto deberán otorgar las facilidades necesarias para la práctica de visitas de inspección.
+C.- En todas las declaraciones que el contribuyente presente para el pago del impuesto sobre nóminas en la Secretaría de Finanzas, deberá precisar, en relación a los discapacitados, la cantidad de trabajadores por los cuales aplica la condonación, el monto mensual de sus remuneraciones, el importe condonado y el monto del impuesto resultante a pagar, utilizando para el efecto, los espacios preestablecidos en la forma oficial autorizada.
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -626,3 +628,21 @@ Las presentes adiciones entrarán en vigor y surtirán sus efectos a partir del 
 B.O. 29 DE FEBRERO DE 2004.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE FEBRERO DE 2006.
+
+PRIMERO.- Se abroga la Ley de Fomento Económico del Estado de Baja California Sur, expedida mediante decreto 1070 del Congreso del Estado de Baja California Sur, así como sus respectivas reformas y adiciones.
+
+SEGUNDO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+TERCERO.- Los asuntos que a la fecha de entrada en vigor de la presente Ley se encuentren pendientes en trámite, se sustanciarán y resolverán conforme a lo dispuesto en la Ley que se abroga.
+
+CUARTO.- El Gobernador del Estado expedirá y publicará el Reglamento de la presente Ley, dentro de los noventa días hábiles siguientes a la entrada en vigor de esta Ley.
+
+QUINTO.- El Consejo Consultivo Estatal de Desarrollo Económico, deberá Instalarse a más tardar dentro de los treinta días naturales siguientes a la entrada en vigor de esta Ley.
+
+SEXTO.- Los Comités de Estímulos Fiscales deberán instalarse en un plazo que no exceda de cuarenta y cinco días naturales siguientes a la entrada en vigor de esta Ley.
+
+SÉPTIMO.- Los Municipios instalarán expedirán y publicarán los Reglamentos Municipales derivados de la presente Ley, dentro de los cuarenta y cinto (sic) días hábiles siguientes a la entrada en vigor de esta Ley.
+
+OCTAVO.- La Secretaría de Promoción y Desarrollo Económico, ejercerá las funciones que le correspondan a la Secretaría de Pesca y Acuacultura, hasta en tanto no se lleve a cabo su instalación.
