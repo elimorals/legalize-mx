@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-libro-quinto-del-codigo-administrativo-del-24562
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-03-13"
-last_updated: "2004-04-16"
+last_updated: "2006-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24562&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL LIBRO QUINTO DEL CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE FEBRERO DE 2006.
 
 Reglamento publicado en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el miércoles 13 de marzo de 2002.
 
@@ -231,51 +231,39 @@ III. Fortalecer la actividad municipal en materia de desarrollo urbano y prestac
 
 DE LA INTEGRACION DE LA COMISION.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 21 DE FEBRERO DE 2006)</small>
+
 ###### ARTICULO 17.
 
-La Comisión a que se refiere el artículo 5.11 del Código, será presidida por el titular de la Secretaría, contará con un secretario técnico y estará integrada por representantes de:
+La Comisión a que se refiere el artículo 5.11 del Código, será presidida por el titular de la Secretaría y contará con un Secretario Técnico designado por él; cuando el titular del Ejecutivo asista a las sesiones de la Comisión, él la presidirá y fungirá como Secretario Técnico, el titular de la Secretaría.
 
-I. Las direcciones generales del Registro Público de la Propiedad y de Protección Civil, de la Secretaría General de Gobierno.
+> <small>(ADICIONADO PRIMER PARRAFO, G.G. 21 DE FEBRERO DE 2006)</small>
 
-II. (DEROGADA, G.G. 16 DE ABRIL DE 2004)
+La Comisión estará integrada por los titulares de:
 
-> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, G.G. 21 DE FEBRERO DE 2006)</small>
 
-III. Las direcciones generales de Administración Urbana y de Operación Urbana, de la Secretaría de Desarrollo Urbano y Vivienda.
+I.- Secretaría General de Gobierno;
 
-IV. La Dirección General de Ordenamiento e Impacto Ambiental, de la Secretaría de Ecología.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 21 DE FEBRERO DE 2006)</small>
 
-V. La Dirección General de Vialidad, de la Secretaría de Comunicaciones y Transportes.
+II.- Secretaría del Medio Ambiente;
 
-> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, G.G. 21 DE FEBRERO DE 2006)</small>
 
-VI. La Dirección General de Ingresos Coordinados y Recaudación, de la Secretaría de Finanzas, Planeación y Administración.
+III.- Secretaría de Agua y Obra Pública;
 
-> <small>(REFORMADA, G.G. 16 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, G.G. 21 DE FEBRERO DE 2006)</small>
 
-VII. Dirección General de Electrificación de la Secretaría de Agua, Obra Pública e Infraestructura para el Desarrollo.
+IV.- Secretaría de Comunicaciones.
 
-VIII. Los siguientes organismos:
+> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2006)</small>
 
-A) Comisión del Agua del Estado de México.
-
-> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2004)</small>
-
-B) Instituto Mexiquense de la Vivienda Social.
-
-C) (DEROGADO, G.G. 16 DE ABRIL DE 2004)
-
-D) Instituto de Información e Investigación Geográfica, Estadística y Catastral del Estado de México.
-
-E) Instituto de Salud del Estado de México.
-
-F) (DEROGADO, G.G. 16 DE ABRIL DE 2004)
-
-Contará con la intervención de los municipios respectivos, cuando se traten asuntos de su ámbito territorial de competencia, a través de representantes de la dependencia encargada del desarrollo urbano, el organismo operador de los servicios de agua potable y drenaje y la dependencia encargada del catastro.
+Contará con la intervención de los municipios respectivos, cuando se trate de asuntos de su ámbito territorial de competencia, a través de los Presidentes Municipales, y del Director General del Organismo Operador de los Servicios de Agua y Saneamiento.
 
 Cuando corresponda, se invitará a otras instancias gubernamentales federales y estatales, así como a organismos gremiales, asociaciones civiles, instituciones académicas o personas físicas o morales especialistas.
 
-El Colegio de Notarios del Estado de México podrá designar un representante para que asista de manera permanente a las sesiones de la Comisión Estatal de Desarrollo Urbano y Vivienda.
+> <small>(DEROGADO ULTIMO PARRAFO, G.G. 21 DE FEBRERO DE 2006)</small>
 
 DE LAS REGLAS GENERALES DE LA COMISION.
 
@@ -3574,3 +3562,11 @@ PRIMERO.- Publíquese el presente acuerdo en el periódico oficial "Gaceta del G
 SEGUNDO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
 
 TERCERO.- Los asuntos que se encuentren en trámite al momento de entrar en vigor el presente acuerdo, se sustanciarán y resolverán conforme las disposiciones legales anteriores.
+
+G.G. 21 DE FEBRERO DE 2006.
+
+PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de la fecha de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
