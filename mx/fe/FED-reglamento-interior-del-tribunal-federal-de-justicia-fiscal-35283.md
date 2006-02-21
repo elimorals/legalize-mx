@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-fiscal-352
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-19"
-last_updated: "2005-08-24"
+last_updated: "2006-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35283&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-12-08"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE FEBRERO DE 2006.
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 19 de diciembre de 2003.
 
@@ -431,11 +431,15 @@ III. Región del Noroeste III: Una Sala, que se denominará: Sala Regional del N
 
 IV. Región del Norte-Centro I: Una Sala, que se denominará: Sala Regional del Norte-Centro I, con sede en la Ciudad de Chihuahua, Estado de Chihuahua;
 
-V. Región del Norte-Centro II: Dos Salas, que se denominarán: Primera Sala Regional del Norte-Centro II y Segunda Sala Regional del Norte-Centro II, ambas con sede en la Ciudad de Torreón, Estado de Coahuila;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO G/14/2006 DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA, D.O.F. 21 DE FEBRERO DE 2006)</small>
+
+V. Región del Norte-Centro II: Tres Salas, que se denominarán: Primera Sala Regional del Norte-Centro II, Segunda Sala Regional del Norte-Centro II y Tercera Sala Regional del Norte-Centro II, todas con sede en la Ciudad de Torreón, Estado de Coahuila;
 
 VI. Región del Noreste: Dos Salas, que se denominarán: Primera Sala Regional del Noreste y Segunda Sala Regional del Noreste, ambas con sede en la Ciudad de Monterrey, Estado de Nuevo León;
 
-VII. Región de Occidente: Dos Salas, que se denominarán: Primera Sala Regional de Occidente y Segunda Sala Regional del Occidente, ambas con sede en la Ciudad de Guadalajara, Estado de Jalisco;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO G/15/2006 DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA, D.O.F. 21 DE FEBRERO DE 2006)</small>
+
+VII. Región de Occidente: Tres Salas, que se denominarán: Primera Sala Regional de Occidente, Segunda Sala Regional de Occidente y Tercera Sala Regional de Occidente, todas con sede en la Ciudad de Guadalajara, Estado de Jalisco;
 
 VIII. Región del Centro I: Una Sala, que se denominará: Sala Regional del Centro I, con sede en la Ciudad de Aguascalientes, Estado de Aguascalientes;
 
@@ -445,9 +449,13 @@ X. Región del Centro III: Una Sala, que se denominará: Sala Regional del Centr
 
 XI. Región Hidalgo-México: Tres Salas, que se denominarán: Primera Sala Regional Hidalgo-México, Segunda Sala Regional Hidalgo-México y Tercera Sala Regional Hidalgo-México, con sede en Tlalnepantla, Estado de México;
 
-XII. Región de Oriente: Dos Salas, que se denominarán: Primera Sala Regional de Oriente y Segunda Sala Regional de Oriente, ambas con sede en la Ciudad de Puebla, Estado de Puebla;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO G/16/2006 DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA, D.O.F. 21 DE FEBRERO DE 2006)</small>
 
-XIII. Región del Golfo: Una Sala, que se denominará: Sala Regional del Golfo, con sede en la Ciudad de Jalapa, Estado de Veracruz;
+XII. Región de Oriente: Tres Salas, que se denominarán: Primera Sala Regional de Oriente, Segunda Sala Regional de Oriente y Tercera Sala Regional de Oriente, todas con sede en la Ciudad de Puebla, Estado de Puebla;
+
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO G/17/2006 DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA, D.O.F. 21 DE FEBRERO DE 2006)</small>
+
+XIII. Región del Golfo: Dos Salas, que se denominarán: Primera Sala Regional del Golfo y Segunda Sala Regional del Golfo, ambas con sede en la Ciudad de Jalapa, Estado de Veracruz;
 
 XIV. Región del Pacífico: Una Sala, que se denominará: Sala Regional del Pacífico, con sede en la Ciudad de Acapulco, Estado de Guerrero;
 
@@ -463,7 +471,11 @@ XVIII. Región del Golfo Norte: Una Sala, que se denominará: Sala Regional del 
 
 XIX. Región Chiapas-Tabasco: Una Sala, que se denominará: Sala Regional Chiapas-Tabasco, con sede en la Ciudad de Tuxtla Gutiérrez, Estado de Chiapas;
 
-XX. Región del Caribe: Una Sala, que se denominará: Sala Regional del Caribe, con sede en la ciudad de Cancún, Municipio de Benito Juárez, Estado de Quintana Roo.
+XX. Región del Caribe: Una Sala, que se denominará: Sala Regional del Caribe, con sede en la ciudad de Cancún, Municipio de Benito Juárez, Estado de Quintana Roo;
+
+> <small>(ADICIONADA POR EL PUNTO PRIMERO DEL ACUERDO G/18/2006 DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA, D.O.F. 21 DE FEBRERO DE 2006)</small>
+
+XXI. Región del Pacífico-Centro: Una Sala, que se denominará: Sala Regional del Pacífico-Centro con sede en la ciudad de Morelia, Estado de Michoacán.
 
 ###### Artículo 25.
 
@@ -1844,5 +1856,35 @@ EL ACUERDO CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELAC
 D.O.F. 24 DE AGOSTO DE 2005.
 
 ACUERDO G/29/2005 DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
+
+EL ACUERDO CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+D.O.F. 21 DE FEBRERO DE 2006.
+
+ACUERDO G/14/2006 DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
+
+EL ACUERDO CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+D.O.F. 21 DE FEBRERO DE 2006.
+
+ACUERDO G/15/2006 DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
+
+EL ACUERDO CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+D.O.F. 21 DE FEBRERO DE 2006.
+
+ACUERDO G/16/2006 DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
+
+EL ACUERDO CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+D.O.F. 21 DE FEBRERO DE 2006.
+
+ACUERDO G/17/2006 DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
+
+EL ACUERDO CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+D.O.F. 21 DE FEBRERO DE 2006.
+
+ACUERDO G/18/2006 DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
 EL ACUERDO CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL FEDERAL VIGENTE.
