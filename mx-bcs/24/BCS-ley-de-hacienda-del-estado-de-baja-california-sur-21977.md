@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-del-estado-de-baja-california-sur-21977"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-29"
-last_updated: "2004-12-31"
+last_updated: "2006-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADA EN EL BOLETIN OFICIAL DE 21 DE FEBRERO DE 2006., EL PRESENTE ORDENAMIENTO FUE ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el viernes 29 de junio de 2001.
 
@@ -1504,3 +1506,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 La Ley de Ingresos del Gobierno del Estado de Baja California Sur, estará en vigor del periodo comprendido del primero de Enero al treinta y uno de Diciembre del 2005, previa publicación en el Boletín Oficial del Gobierno del estado de Baja California Sur.
+
+B.O. 21 DE FEBRERO DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+SEGUNDO: Se abroga la Ley de Hacienda del Estado de Baja California Sur, del 29 de junio de 2001.
+
+TERCERO: Se derogan todas las disposiciones fiscales que se opongan a la presente Ley.
