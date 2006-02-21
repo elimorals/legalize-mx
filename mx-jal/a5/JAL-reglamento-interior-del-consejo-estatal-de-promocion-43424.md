@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-del-consejo-estatal-de-promocion-43424"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-01-11"
-last_updated: "2005-01-11"
+last_updated: "2006-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE PROMOCION ECONOMICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 2006.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el martes 11 de enero de 2005.
 
@@ -248,9 +248,19 @@ VII. Notificar las resoluciones de la Junta y el Director General;
 
 VIII. Tramitar la efectividad de fianzas;
 
-IX. Analizar la situación jurídica de los bienes del Consejo y gestionar lo que resulte conducente, y
+IX. Analizar la situación jurídica de los bienes del Consejo y gestionar lo que resulte conducente, y (sic)
 
-X. Las demás que le confieran las disposiciones legales y reglamentarias que resulten aplicables, la Junta o el Director General.
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2006)</small>
+
+X. Fungir como Unidad de Transparencia e Información de conformidad con la Ley de Transparencia e Información Pública del Estado de Jalisco;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2006)</small>
+
+XI. Conocer y tramitar las solicitudes de información que se presenten al organismo de conformidad con lo establecido en la Ley de Transparencia e Información Pública del Estado de Jalisco, y
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2006)</small>
+
+XII. Las demás que el (sic) confieran las disposiciones legales y reglamentarias que resulten aplicables, la Junta o el Director General.
 
 ### Capítulo VIII. De la Dirección Administrativa
 
@@ -362,17 +372,43 @@ VI. Otorgar la asistencia técnica a las áreas internas del Consejo, y
 
 VII. Las demás que le confieran las disposiciones legales y reglamentarias que resulten aplicables, la Junta o el Director General.
 
-### Capítulo XI (sic). De las Suplencias
+> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE FEBRERO DE 2006)</small>
+
+### Capítulo XI (SIC). Del Comité de Clasificación de Información Pública
+
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 21.
 
-Las ausencias temporales del Director General serán suplidas por el titular de la Coordinación General, sólo en caso de que la ausencia sea mayor a 30 días naturales, se solicitará al Gobernador del Estado que designe el suplente.
+El Comité de Clasificación de Información Pública del Consejo estará integrado por:
+
+I. El Director General;
+
+II. El titular de la Unidad de Transparencia e Información, y
+
+III. Un secretario técnico que será designado por el Director General.
+
+El Comité contará con las facultades que le establece la Ley de Transparencia e Información Pública del Estado de Jalisco y demás disposiciones legales y reglamentarias aplicables.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2006)</small>
+
+### Capítulo XII. De las Suplencias
+
+> <small>(REFORMADO Y REUBICADO, P.O. 21 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 22.
 
-Las ausencias temporales de la Coordinación General serán suplidas por el titular de la Dirección Jurídica.
+Las ausencias temporales del Director serán suplidas por el titular de la Coordinación General, sólo en caso de que la ausencia sea mayor a 30 días naturales, se solicitará al Gobernador del Estado que designe el suplente.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 21 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 23.
+
+Las ausencias de la Coordinación General serán suplidas por el titular de la Dirección Jurídica.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2006)</small>
+
+###### Artículo 24.
 
 Los directores, serán suplidos en sus ausencias temporales por los servidores públicos de la jerarquía inmediata inferior de su respectiva adscripción y si tienen la misma jerarquía el que éstos designen.
 
@@ -383,3 +419,11 @@ Primero.- El presente Reglamento entrará en vigor al día siguiente de su publi
 Segundo.- Se derogan todas aquellas disposiciones reglamentarias que se opongan a lo dispuesto en el presente ordenamiento.
 
 Así lo acordó y firma el Gobernador Constitucional del Estado de Jalisco, ante el Secretario General de Gobierno quién lo refrenda para su validez.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 21 DE FEBRERO DE 2006.
+
+PRIMERO.- El presente Acuerdo entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Se derogan todas las disposiciones reglamentarias que se opongan al presente Acuerdo.
