@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-turismo-del-estado-de-campeche-3666"
 country: "mx"
 rank: "ley"
 publication_date: "1988-10-26"
-last_updated: "1995-03-11"
+last_updated: "2006-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3666&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "CAM"
 
 LEY DE TURISMO DEL ESTADO DE CAMPECHE
 
-N. DE. E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL DECRETO NUMERO 56, PUBLICADO EN EL P.O. DE 11 DE MARZO DE 1992, LAS REFERENCIAS Y ATRIBUCIONES QUE SE OTORGAN EN LAS LEYES Y REGLAMENTOS VIGENTES EN EL ESTADO A LA SECRETARIA DE DESARROLLO ECONOMICO SE ENTENDERAN HECHAS Y OTORGADAS A LA SECRETARIA DE DESARROLLO SOCIAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TURISMO PARA EL ESTADO DE CAMPECHE, PUBLICADA EN EL P.O. DE 22 DE FEBRERO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 26 de octubre de 1988.
 
@@ -606,3 +606,15 @@ Lo anterior se observará también con relación a los derechos y obligaciones q
 CUARTO.- El personal de base, así como los recursos financieros y materiales, incluidos mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo que las suprimidas Secretaría de Desarrollo Económico y la Oficialía Mayor utilizarán para la operación de los asuntos a su cargo, pasarán a las Dependencias que con motivo de este Decreto asumen las atribuciones de aquéllas. Lo anterior también regirá con respecto a las demás dependencias que afectan las modificaciones contenidas en el presente Decreto.
 
 QUINTO.- Los programas y asuntos a cargo de las dependencias que se suprimen, de las que se reestructuran y de las que sin reestructurarse fueron afectadas en sus atribuciones, que se encontraren en curso o pendientes de resolución en el momento de iniciar su vigencia el presente Decreto se continuarán o serán despachados por las dependencias a las que corresponda el conocimiento de las materias sobre las cuales aquéllos versen.
+
+P.O. 22 DE FEBRERO DE 2006.
+
+Primero.- La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo. Se abroga la Ley de Turismo del Estado de Campeche expedida el 21 de octubre de 1988 por la LII Legislatura del Congreso del Estado, mediante decreto número 151, publicado en el Periódico Oficial del Estado el 26 de ese mismo mes y año, y se derogan todas las demás disposiciones legales, administrativas y reglamentarias en lo que se opongan a la presente ley.
+
+Tercero.- El Consejo Consultivo se instalará dentro de los ciento cincuenta días hábiles siguientes a la entrada en vigor de la presente ley.
+
+El Consejo expedirá su Reglamento y el Código de Ética Turística dentro de los ciento sesenta días hábiles siguientes a la instalación del mismo.
+
+Cuarto.- Los actos y obligaciones adquiridas (sic) por la Secretaría dentro del marco de la ley vigente que se abroga con este ordenamiento siguen estando vigentes hasta su completo cumplimiento, o hasta que las modificaciones que se hagan se lleven a efecto de acuerdo a las nuevas disposiciones.
