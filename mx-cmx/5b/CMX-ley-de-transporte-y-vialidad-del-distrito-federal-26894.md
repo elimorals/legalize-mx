@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-transporte-y-vialidad-del-distrito-federal-26894"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-26"
-last_updated: "2006-01-25"
+last_updated: "2006-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26894&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-12"
 
 LEY DE TRANSPORTE Y VIALIDAD DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 25 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE FEBRERO DE 2006.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 26 de diciembre del 2002.
 
@@ -361,6 +361,20 @@ XIV.- Emitir Visto Bueno para la aprobación de bases, sitios y lanzaderas de tr
 XV.- Realizar la inspección, verificación y vigilancia del servicio de transporte de personas en bicicletas adaptadas, imponer las sanciones establecidas en la Normatividad aplicable y substanciar y resolver los procedimientos administrativos para la prorroga, revocación, caducidad, cancelación y rescisión de los permisos, cuando proceda conforme a la Ley y disposiciones reglamentarias;
 
 XVI.- Remitir en forma mensual a la Secretaría las actualizaciones para la integración del Padrón de Estacionamientos Públicos, con el número de Declaraciones de Apertura Presentadas y las sanciones que en su caso hayan sido aplicadas.
+
+> <small>(ADICIONADO, G.O. 22 DE FEBRERO DE 2006)</small>
+
+###### Artículo 9 Bis.
+
+En las vías secundarias, vías de tránsito peatonal y ciclo vías, las Delegaciones tendrán, además, las siguientes facultades:
+
+a) Remitir a los Depósitos vehiculares, los vehículos que se encuentren abandonados, deteriorados, inservibles destruidos e inutilizados en dichas vías.
+
+b) Trasladar a los depósitos correspondientes las cajas, remolques y vehículos de carga, que obstaculicen, limiten o impidan el uso adecuado de estas vías en términos de la normativa aplicable.
+
+c) Retirar de la vía publica todo tipo de objetos que obstaculicen, limiten o impidan el uso adecuado de estas vías y que hayan sido colocados sin el permiso correspondiente. Los objetos retirados se reputaran como mostrencos y su destino quedara al arbitrio de la delegación que los retiro.
+
+Para el cumplimiento de las facultades anteriores, las Delegaciones suscribirán los convenios correspondientes con la Secretaría de Seguridad Pública.
 
 ###### Artículo 10.
 
@@ -2041,3 +2055,13 @@ Artículo Primero.- Túrnese al Jefe de Gobierno del Distrito Federal para su pr
 Artículo Segundo.- El presente decreto entrará en vigor al día siguiente de su publicación.
 
 Artículo Tercero.- Se establecerá un plazo de 90 días naturales para que los prestadores del servicio cumplan con las adecuaciones correspondientes.
+
+G.O. 22 DE FEBRERO DE 2006.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+###### ARTICULO SEGUNDO.
+
+Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y aplicación.
