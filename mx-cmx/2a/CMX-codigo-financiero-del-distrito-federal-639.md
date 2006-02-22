@@ -4,7 +4,7 @@ identifier: "CMX-codigo-financiero-del-distrito-federal-639"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-12-31"
-last_updated: "2005-12-30"
+last_updated: "2006-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=639&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1994-12-30"
 
 CODIGO FINANCIERO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE FEBRERO DE 2006.
 
 Código publicado en la Segunda, Tercera y Cuarta Secciones del Diario Oficial de la Federación el sábado 31 de diciembre de 1994.
 
@@ -6200,8 +6200,6 @@ ARTICULO 264 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
 ARTICULO 265 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
-ARTICULO 265 BIS.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
-
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 265.
@@ -6239,6 +6237,8 @@ El pago de estos derechos se hará previamente a la recolección o a la recepci�
 > <small>(DEROGADO QUINTO PARRAFO, G.O. 30 DE DICIEMBRE DE 2005)</small>
 
 Cuando los mercados públicos celebren convenios con la autoridad competente para el depósito de residuos sólidos orgánicos generados en alto volumen y realicen el traslado de dichos residuos por cuenta propia al lugar autorizado por la Secretaría de Obras y Servicios quedarán exentos del pago a que se refiere la fracción II del presente artículo.
+
+ARTICULO 265 BIS.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
 ARTICULO 265 B.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
@@ -8237,6 +8237,10 @@ La publicación a que se refiere el párrafo anterior deberá cumplir los requis
 > <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2005)</small>
 
 IV. Transcurrido el plazo de un mes a que se refiere la fracción anterior, en el que quedará a disposición del titular del derecho de propiedad o posesión del vehículo de que se trate, sin que sea retirado, pasará a ser propiedad del Distrito Federal y deberá ser enajenado fuera de remate, en cuyo caso el procedimiento de enajenación, estará a cargo de la Secretaría de Seguridad Pública con la participación de la Oficialía Mayor del Distrito Federal, así como de la Contraloría.
+
+> <small>(ADICIONADO, G.O. 22 DE FEBRERO DE 2006)</small>
+
+El producto de la enajenación de los vehículos remitidos a los depósitos vehiculares por las Delegaciones en términos del artículo 9 bis de la Ley de Transporte y Vialidad del Distrito Federal, así como las multas que en su caso se hayan pagado respecto de dichos vehículos, se destinarán a la Delegación que los haya remitido como recursos de aplicación automática, de conformidad con la normatividad aplicable, para destinarlos a obras y trabajos para mejoramiento urbano de la demarcación.
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -16471,3 +16475,13 @@ La Secretaría presentará a la Asamblea durante el ejercicio fiscal 2006, previ
 ###### ARTÍCULO NOVENO.
 
 En tanto la Secretaría publique los horarios a que se refiere el artículo 278 de este Código, el horario de funcionamiento de los parquímetros será de Lunes a Viernes de 8:00 a 20:00 hrs.
+
+G.O. 22 DE FEBRERO DE 2006.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+###### ARTICULO SEGUNDO.
+
+Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y aplicación.
