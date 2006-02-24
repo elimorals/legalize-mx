@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-seguridad-publica-y-bases-de-coordinacion-para-el-12356"
 country: "mx"
 rank: "ley"
 publication_date: "1998-04-17"
-last_updated: "2004-01-16"
+last_updated: "2006-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SEGURIDAD PUBLICA Y BASES DE COORDINACION PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2006.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 17 de abril de 1998.
 
@@ -125,9 +125,11 @@ IV. Los Agentes de Seguridad y Custodia Tutelar o Penitenciaria, y
 
 V. Las demás que se constituyan con estricto apego a la Ley.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2006)</small>
+
 ###### ARTÍCULO 7.
 
-Son Cuerpos de Seguridad con carácter de auxiliar en la Entidad:
+Son auxiliares de los Cuerpos de Seguridad en la Entidad:
 
 I. Los Cuerpos Operativos de la Dirección de Protección Civil;
 
@@ -145,27 +147,23 @@ Los Cuerpos de Seguridad a que se refiere el artículo anterior, desempeñarán 
 
 Los mandos operativos en los Cuerpos de Seguridad se determinarán conforme a la Ley o Reglamento respectivo y tendrán el carácter de autoridad auxiliar cuando para ello sea requerido por la Autoridad competente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2006)</small>
 
 ###### ARTÍCULO 10.
 
-Se consideran elementos de seguridad pública, aquellos a quienes les atribuya ese carácter, mediante nombramiento otorgado por autoridad competente de los ayuntamientos o del Poder Ejecutivo del Estado, según sea el caso.
+Se consideran elementos de seguridad pública, los integrantes de los cuerpos de seguridad listados en el artículo sexto de la presente ley.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 2004)</small>
+La relación que surge de la prestación del servicio entre los elementos de los cuerpos de seguridad pública y el Estado o los Municipios, es de carácter administrativa, y se regirá por su propia ley y los reglamentos respectivos, de conformidad con lo dispuesto por el artículo 123 fracción XIII del Apartado B de la Constitución Política de los Estados Unidos Mexicanos.
 
-La relación que surge de la prestación del servicio entre los elementos de los cuerpos de seguridad pública y el Estado o los Municipios, es de carácter administrativo, y se regirá por su propia Ley y los reglamentos respectivos, de conformidad con lo dispuesto por el artículo 123 fracción XIII del Apartado B de la Constitución Política de los Estados Unidos Mexicanos.
-
-No formarán parte de los Cuerpos de Seguridad quienes desempeñen funciones de carácter estrictamente administrativo ajenas a la seguridad pública, aún cuando laboren en las dependencias encargadas de prestar dicho servicio.
+No formarán parte de los cuerpos de seguridad quienes desempeñen funciones de carácter estrictamente administrativo ajenas a la seguridad pública, aun cuando laboren en las dependencias encargadas de prestar dicho servicio.
 
 Los elementos de seguridad pública se clasificarán como sigue:
 
-I. De Apoyo Logístico y Administrativo;
+I. De apoyo Logístico y Administrativo;
 
-II. De Bomberos y Protección Civil;
+II. Policía Preventiva, y
 
-III. Policía Preventiva, y
-
-IV. Policía Ministerial.
+III. Policía Ministerial.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 2004)</small>
 
@@ -1096,3 +1094,7 @@ SEGUNDO.- Se abroga el Reglamento del Consejo de Honor y Justicia de la Procurad
 TERCERO.- Las atribuciones que le fueron concedidas al Consejo de Honor y Justicia dentro de esta Ley, se entenderán otorgadas ahora a las Contralorías Internas de cada una de las Instituciones Policiales.
 
 CUARTO.- Los procedimientos que se encuentren pendientes de resolución antes de la entrada en vigor de estas reformas, se sustanciarán conforme a las disposiciones que se encontraban vigentes al momento del inicio del procedimiento.
+
+P.O. 24 DE FEBRERO DE 2006.
+
+ÚNICO.- El presente decreto entrará en vigor un día después de su publicación en el Periódico Oficial del Estado.
