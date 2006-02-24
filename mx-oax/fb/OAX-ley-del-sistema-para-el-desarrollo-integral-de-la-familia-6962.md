@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-sistema-para-el-desarrollo-integral-de-la-familia-6962"
 country: "mx"
 rank: "ley"
 publication_date: "1993-02-04"
-last_updated: "1994-12-31"
+last_updated: "2006-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6962&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "OAX"
 
 LEY DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2006.
 
-Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de febrero de 1993.
+Ley publicada en el Periódico Oficial del Estado de Oaxaca, el jueves 4 de febrero de 1993.
 
 DECRETO NUM. 96.- Aprobado por la H. Legislatura del Estado que contiene la LEY DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE OAXACA.
 
@@ -133,7 +133,13 @@ V.- Las concesiones, permisos, licencias y autorizaciones que se le otorguen con
 
 VI.- Todos aquellos bienes que carezcan de herederos conocidos y que deban ser adjudicados a la beneficencia pública, se adjudicarán al DIF.
 
-VII.- En general, los demás bienes, derechos e ingresos que obtenga por cualquier título y aquellos que actualmente tenga en posesión.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+VII.- La Gasolinera DIF OAXACA, independientemente del número de registro que le otorgue la autoridad competente.
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+VIII.- En general, los demás bienes, derechos e ingresos que obtenga por cualquier título y aquéllos que actualmente tenga en posesión.
 
 ### CAPITULO I
 
@@ -576,3 +582,7 @@ LIC. AGUSTIN MARQUEZ URIBE.
 P.O. 31 DE DICIEMBRE DE 1994.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE FEBRERO DE 2006.
+
+UNICO.- El presente Decreto entrara en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado. Se faculta al Titular del Poder Ejecutivo, para que con fundamento en el artículo 61 de la Ley Orgánica del Poder Ejecutivo suscriba los instrumentos jurídicos necesarios para el exacto y estricto cumplimiento del presente decreto.
