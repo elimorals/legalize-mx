@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2006-02-17"
+last_updated: "2006-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2006.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -477,7 +477,7 @@ Reparación del daño moral.- La reparación del daño moral será fijada a prud
 
 Además de las penas señaladas en este Código, se impondrá sanción pecuniaria de cien hasta mil veces el salario mínimo vigente al momento de la comisión del delito, por concepto de reparación del daño moral, si de conformidad con las constancias procesales así como las pruebas aportadas, se determina que por la afectación psicológica de la victima resultare que deberá proporcionarse terapia de apoyo a corto plazo; si resulta que deberá proporcionarse psicoterapia a largo plazo, se impondrá sanción pecuniaria de trescientos a tres mil veces el salario mínimo.
 
-En los casos de los delitos contra la libertad y seguridad sexual de las personas la reparación del daño comprenderá además de las penas que correspondan, el pago de gastos médicos originados por el delito, incluyendo el pago de tratamientos psicoterapéutico para el sujeto pasivo y sus familiares que lo requieran.
+En los casos de los delitos contra la libertad y seguridad sexual de las personas la reparación del daño comprenderá además de las penas que correspondan, el pago de gastos médicos originados por el delito, incluyendo el pago de tratamientos psicoterapéutico para el sujeto pasivo y sus familiares que lo requieran
 
 Con independencia del que se pueda causar en otros, se presume la existencia de daño moral en los siguientes delitos:
 
@@ -1089,11 +1089,11 @@ III.- Desde el día en que se realizó la última conducta, tratándose de delit
 
 IV.- Desde la cesación de la consumación en el delito permanente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 114.
 
-Prescripción de la pretensión punitiva.- La pretensión punitiva prescribirá en un plazo igual al término medio aritmético de la pena privativa de libertad, señalada para el delito de que se trate, pero en ningún caso será menor de tres años ni mayor de quince.
+Prescripción de la pretensión punitiva.- La pretensión punitiva prescribirá en un plazo igual al término medio aritmético de la pena privativa de libertad, señalada para el delito de que se trate, pero en ningún caso será menor a tres años.
 
 Si el delito sólo mereciere multa, la pretensión punitiva prescribirá en un año.
 
@@ -1231,7 +1231,7 @@ Suspensión por participación,- Si en el infanticidio tomare participación un 
 
 ###### Artículo 131.
 
-Tipo y punibilidad.- Al que instigue o ayude a otro para que se prive de la vida, se le impondrá prisión de dos a ocho años, si el suicidio se consumare. Si el suicidio no se consuma, por causas ajenas a la voluntad del que instiga o ayuda, pero se causan lesiones, se le impondrá de uno a seis años de prisión, Si no se causan éstas, la pena será de seis meses a cuatro años de prisión.
+Tipo y punibilidad.- Al que instigue o ayude a otro para que se prive de la vida, se le impondrá prisión de dos a ocho años, si el suicidio se consumare. Si el suicidio no se consuma, por causas ajenas a la voluntad del que instiga o ayuda, pero se causan lesiones, se le impondrá de uno a seis años de prisión. Si no se causan éstas, la pena será de seis meses a cuatro años de prisión.
 
 Si la persona a quien se instiga o ayuda al suicidio fuere menor de edad o no tuviere capacidad de comprender la relevancia de su conducta o de determinarse de acuerdo a esa comprensión, la pena aplicable será la correspondiente al homicidio calificado.
 
@@ -1309,9 +1309,7 @@ Lesiones calificadas.- Cuando las lesiones sean calificadas, en términos del ar
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
-###### Artículo 143
-
-BIS.- Lesiones contra menores o incapaces o adultos mayores,- Al que dolosamente lesione a una persona menor de edad, incapaz y/o inimputable sujeto a su tutela, custodia, guarda-protección, educación, cuidado o instrucción, se le impondrá una pena de seis meses a dos años de prisión, si las lesiones inferidas son de las que no ponen en peligro la vida, cualquiera que sea el tiempo de su curación.
+Artículo 143 BIS.- Lesiones contra menores o incapaces o adultos mayores.- Al que dolosamente lesione a una persona menor de edad, incapaz y/o inimputable sujeto a su tutela, custodia, guarda-protección, educación, cuidado o instrucción, se le impondrá una pena de seis meses a dos años de prisión, si las lesiones inferidas son de las que no ponen en peligro la vida, cualquiera que sea el tiempo de su curación.
 
 Si las lesiones a que se refiere el párrafo anterior son inferidas a una persona menor de doce años o de sesenta años o más edad, se impondrá una pena de dos a cinco años de prisión y hasta ciento cincuenta días multa. Si las lesiones inferidas son de las señaladas en el artículo 139, o de las que ponen en peligro la vida, la pena correspondiente a la lesión inferida aumentará en dos terceras partes, y se privará al agente del derecho de ejercer la patria potestad, la tutela, custodia, guarda-protección, educación, cuidado o instrucción de menores, adultos mayores e incapaces y/o inimputables.
 
@@ -1697,7 +1695,7 @@ Querella.- El delito de revelación de secreto se perseguirá por querella de la
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 1998)</small>
 
-## TITULO CUARTO. DELITOS CONTRA LA LIBERTAD Y SEGURIDAD SEXUAL: DE LAS PERSONAS
+## TITULO CUARTO. DELITOS CONTRA LA LIBERTAD Y SEGURIDAD SEXUAL DE LAS PERSONAS
 
 ### CAPITULO IV. FRAUDE
 
@@ -1749,7 +1747,7 @@ Es aplicable para todos los casos de violación lo que para la reparación del d
 
 ###### Artículo 180.
 
-Tipo y punibilidad.- Al que sin consentimiento de una persona o con consentimiento de un o una menor de catorce años o que no tenga capacidad de comprender el hecho o que por cualquier causa no tenga la capacidad de resistirlo, ejecute en ella o lo haga ejecutar actos eróticos sexuales, sin el propósito de llegar a la cópula, se le aplicarán de dos a ocho años de prisión y hasta doscientos días multa.
+Tipo y punibilidad,- Al que sin consentimiento de una persona o con consentimiento de un o una menor de catorce años o que no tenga capacidad de comprender el hecho o que por cualquier causa no tenga la capacidad de resistirlo, ejecute en ella o lo haga ejecutar actos eróticos sexuales, sin el propósito de llegar a la cópula, se le aplicarán de dos a ocho años de prisión y hasta doscientos días multa.
 
 Si se hiciere uso de la violencia física o moral la pena se aumentará de uno a tres años.
 
@@ -2947,9 +2945,27 @@ VI.- Cuando abusando de su poder, haga que se le entreguen algunos fondos, valor
 
 VII.- Cuando con cualquier pretexto, obtenga de un subalterno parte de los sueldos de éste, dádivas u otro servicio;
 
-VIII.- El alcalde o encargado de cualquier establecimiento destinado a la ejecución de las sanciones privativas de libertad, que, sin requisitos legales reciba como presa o detenida una persona o lo mantenga privada de libertad y sin dar parte del hecho a la autoridad correspondiente; y
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
 
-IX.- El servidor que teniendo conocimiento de una privación ilegal de libertad no la denuncie a la autoridad competente o no la haga cesar, si ésto estuviere en sus atribuciones.
+VIII.- El Alcaide o encargado de cualquier establecimiento destinado a la ejecución de las sanciones privativas de la libertad, que, sin los requisitos legales reciba como presa o detenida una persona o lo mantenga privada de la libertad y sin dar parte del hecho a la autoridad correspondiente;
+
+IX.- El servidor que teniendo conocimiento de una privación ilegal de libertad no la denuncie a la autoridad competente o no la haga cesar, si ésto estuviere en sus atribuciones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE FEBRERO DE 2006)</small>
+
+X.- Cuanto obligue a declarar a las personas que se mencionan en el artículo 186 del Código de Procedimientos Penales para el Estado de Baja California;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE FEBRERO DE 2006)</small>
+
+XI.- Cuando en el ejercicio de sus funciones o con motivo de ellas, otorgue empleo, cargo o comisión públicos, o contratos de prestación de servicios profesionales o mercantiles o de cualquier otra naturaleza, que sean remunerados por el Estado, con el pleno conocimiento de que no prestara el servicio para el que se le nombró, o no cumplirá el contrato otorgado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE FEBRERO DE 2006)</small>
+
+XII.- Cuando autorice o contrate a quién se encuentre inhabilitado por resolución firme de autoridad competente para desempeñar un empleo, cargo o comisión en el servicio público, siempre que lo haga con conocimiento de tal situación; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE FEBRERO DE 2006)</small>
+
+XIII.- Cuando otorgue cualquier identificación en que se acredite como servidor público o cualquier persona que realmente no desempeñe el empleo, cargo o comisión a que se haga referencia en dicha identificación.
 
 Los delitos a que se refiere este capítulo producen acción popular.
 
@@ -3331,11 +3347,17 @@ Exclusión de pena en virtud del parentesco y otro vínculo.- No se impondrá pe
 
 I.- Los ascendientes o descendientes consanguíneos o por adopción;
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
 
-II.- El cónyuge, concubinario o concubina y parientes colaterales por consanguinidad hasta el cuarto grado y por afinidad hasta el segundo;
+II.- El cónyuge, concubinato o concubina y parientes colaterales por consanguinidad hasta el cuarto grado y por afinidad hasta el segundo;
 
-III.- (DEROGADA, P.O. 12 DE JUNIO DE 1998)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE FEBRERO DE 2006)</small>
+
+III.- Los que estén ligados al delincuente por amor, respeto, gratitud o estrecha amistad; o
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE FEBRERO DE 2006)</small>
+
+IV.- Los periodistas, reporteros o personal que preste sus servicios dentro de alguna empresa o medio de comunicación escrito o electrónico, respecto de los nombres o datos de identificación de las personas que con motivo del ejercicio de su actividad, les proporcionen como información de carácter reservada, en la cual sustenten cualquier publicación o comunicado.
 
 La excusa no favorecerá a quien obre por motivos reprochables o emplee medios delictuosos.
 
@@ -3894,3 +3916,15 @@ PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente al de su p
 SEGUNDO.- Se derogan todas aquellas disposiciones contrarias a las presentes reformas.
 
 TERCERO.- Esta nueva legislación podrá aplicarse a hechos surgidos bajo la vigencia de la reforma anterior, en lo que beneficie al responsable del delito, tal y como lo establece el artículo 8 del Código Penal del Estado de Baja California.
+
+P.O. 24 DE FEBRERO DE 2006.
+
+DECRETO No. 184
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 24 DE FEBRERO DE 2006.
+
+DECRETO No. 187
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
