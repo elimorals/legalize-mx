@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "2005-06-10"
+last_updated: "2006-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2006.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -1883,7 +1883,7 @@ V.- Aportaciones extraordinarias de los Entes Públicos.
 
 > <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
 
-###### ARTÍCULO 172.
+###### ARTICULO 172.
 
 Los jubilados, pensionados e indigentes mayores de sesenta años, personas viudas en situación de indigencia mayores de cincuenta años, personas con capacidades diferentes, y empresas, quedarán exentas del pago de contribuciones a que se refiere este Título, en los términos y condiciones que en el mismo se establecen.
 
@@ -1909,7 +1909,7 @@ IV.- Empresa: La definida como tal en la Ley de Fomento a la Competitividad y De
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JUNIO DE 2005)</small>
 
-###### ARTÍCULO 173.
+###### ARTICULO 173.
 
 Las exenciones que este Título otorga a los Jubilados y Pensionados, así como a las Personas con Capacidades Diferentes que realicen alguna actividad económicamente activa, siempre que sus ingresos no excedan de 5 veces el salario mínimo diario general vigente, serán del 50% del monto del crédito fiscal de las contribuciones reguladas por esta Ley, que a continuación se detallan y, se otorgarán dentro de los lineamientos siguientes:
 
@@ -1945,7 +1945,7 @@ VII.- IMPUESTO SOBRE SERVICIOS DE HOSPEDAJE.
 
 > <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
 
-###### ARTÍCULO 174.
+###### ARTICULO 174.
 
 En el caso de las personas indigentes mayores de 60 años, personas viudas en situación de indigencia, mayores de 50 años, y de las Personas con Capacidades Diferentes que no desempeñen actividades productivas, respecto a las contribuciones estatales señaladas en el artículo 173 de esta Ley, estarán exentas al 100%.
 
@@ -1953,35 +1953,57 @@ Para los efectos de las contribuciones de mejoras, se estará a lo dispuesto en 
 
 > <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
 
-###### ARTÍCULO 175.
+###### ARTICULO 175.
 
 Las Empresas que con motivo de la realización de un proyecto de inversión, y en términos de los rubros y esquemas previstos en la Ley de Fomento a la Competitividad y Desarrollo Económico para el Estado de Baja California, obtengan la puntuación prevista en alguno de los incisos de las fracciones I y II de este artículo, estarán exentas del pago de las contribuciones que a continuación se especifican, conforme a los porcentajes, períodos y lineamientos siguientes:
 
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
 I. Impuesto sobre remuneraciones al trabajo personal:
 
-a) De 32 a 44 puntos:
+a) De 28 a 29 puntos, en un 100% respecto del impuesto que le corresponda cubrir durante el primer año del estímulo fiscal, por los empleos nuevos que se generen con motivo del proyecto de inversión.
 
-1. En un 100% respecto del impuesto que le corresponda cubrir periódicamente, durante los dos primeros años del estímulo fiscal.
+b) De 30 a 31 puntos:
 
-2. En un 75% respecto del impuesto que le corresponda cubrir periódicamente, durante el tercer año del estímulo fiscal.
+1. En un 100%, respecto del impuesto que le corresponda cubrir periódicamente, durante el primer año del estímulo fiscal por los empleos nuevos que se generen con motivo del proyecto de inversión, y
 
-b) De 45 a 54 puntos:
+2. En un 50%, respecto del impuesto que le corresponda cubrir periódicamente, durante el segundo año del estímulo fiscal por los empleos nuevos que se generen con motivo del proyecto de inversión.
 
-1. En un 100% respecto del impuesto que le corresponda cubrir periódicamente, durante los dos primeros años del estímulo fiscal.
+c) De 32 a 44 puntos:
 
-2. En un 75% respecto del impuesto que le corresponda cubrir periódicamente, durante el tercer año del estímulo fiscal.
+1. En un 100% respecto del impuesto que le corresponda cubrir durante los dos primeros años del estímulo fiscal por los empleos nuevos que se generen con motivo del proyecto de inversión;
 
-3. En un 50% respecto del impuesto que le corresponda cubrir periódicamente, durante el cuarto año del estímulo fiscal.
+2. En un 75% respecto del impuesto que le corresponda cubrir durante el tercer año del estímulo fiscal por los empleos nuevos que se generen con motivo del proyecto de inversión, y
 
-c) De 55 puntos o más:
+3. En un 50% respecto del impuesto que le corresponda cubrir durante el primer, segundo y tercer año del estímulo fiscal por los empleos existentes, previos al proyecto de inversión.
 
-1. En un 100% respecto del impuesto que le corresponda cubrir periódicamente, durante los dos primeros años del estímulo fiscal.
+d) De 45 a 54 puntos:
 
-2. En un 75% respecto del impuesto que le corresponda cubrir periódicamente, durante el tercer año del estímulo fiscal.
+1. En un 100% respecto del impuesto que le corresponda cubrir durante los dos primeros años del estímulo fiscal por los empleos nuevos que se generen con motivo del proyecto de inversión;
 
-3. En un 50% respecto del impuesto que le corresponda cubrir periódicamente, durante el cuarto año del estímulo fiscal.
+2. En un 75% respecto del impuesto que le corresponda cubrir durante el tercer año del estímulo fiscal por los empleos nuevos que se generen con motivo del proyecto de inversión;
 
-4. En un 25% respecto del impuesto que le corresponda cubrir periódicamente, durante el quinto año del estímulo fiscal.
+3. En un 50% respecto del impuesto que le corresponda cubrir durante el cuarto año del estímulo fiscal por los empleos nuevos que se generen con motivo del proyecto de inversión, y
+
+4. En un 50% respecto del impuesto que le corresponda cubrir durante el primer, segundo, tercer y cuarto año del estímulo fiscal por los empleos existentes, previos al proyecto de inversión.
+
+e) De 55 puntos o más:
+
+1. En un 100% respecto del impuesto que le corresponda cubrir durante los dos primeros años del estímulo fiscal por los empleos nuevos que se generen con motivo del proyecto de inversión;
+
+2. En un 75% respecto del impuesto que le corresponda cubrir durante el tercer año del estímulo fiscal por los empleos nuevos que se generen con motivo del proyecto de inversión;
+
+3. En un 50% respecto del impuesto que le corresponda cubrir durante el cuarto año del estímulo fiscal por los empleos nuevos que se generen con motivo del proyecto de inversión;
+
+4. En un 25% respecto del impuesto que le corresponda cubrir durante el quinto año del estímulo fiscal por los empleos nuevos que se generen con motivo del proyecto de inversión;
+
+5. En un 50% respecto del impuesto que le corresponda cubrir durante el primero, segundo, tercer y cuarto año del estímulo fiscal por los empleos existentes, previos al proyecto de inversión, y
+
+6. En un 25% respecto del impuesto que le corresponda cubrir durante el quinto año del estímulo fiscal por los empleos existentes, previos al proyecto de inversión.
+
+Los empleos nuevos, se determinarán de acuerdo a los trabajadores que contrate la Empresa derivado del proyecto de inversión, adicionales a los que contaba con anterioridad al citado proyecto.
+
+Para calcular el importe de los pagos por remuneraciones al trabajo personal subordinado que corresponde a los empleos nuevos, se considerará el salario promedio manifestado por la Empresa para su proyecto de inversión, sin perjuicio de las facultades de la autoridad fiscal para verificar y comprobar la veracidad de dicha manifestación.
 
 II. Derechos de conexión al sistema de agua potable y alcantarillado sanitario:
 
@@ -1995,7 +2017,7 @@ Para que las Empresas puedan hacerse acreedoras de los estímulos fiscales previ
 
 > <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2005)</small>
 
-###### ARTÍCULO 176.
+###### ARTICULO 176.
 
 Para la solicitud y extinción de los estímulos fiscales a que se refiere el artículo anterior, se estará a lo dispuesto en la Ley de Fomento a la Competitividad y Desarrollo Económico para el Estado de Baja California y demás disposiciones aplicables.
 
@@ -2005,23 +2027,51 @@ En caso de que la fecha de inicio indicada por la empresa solicitante, sea anter
 
 > <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2005)</small>
 
-###### ARTÍCULO 177.
+###### ARTICULO 177.
 
 Las Empresas que contraten personas productivas con capacidades diferentes y/o personas adultas mayores, consideradas como tales en la Ley de Fomento a la Competitividad y Desarrollo Económico para el Estado de Baja California, estarán exentas del pago del impuesto sobre remuneraciones al trabajo personal que les corresponda cubrir periódicamente por las remuneraciones relativas a estos empleados, siempre que la Empresa no se encuentre recibiendo una exención sobre este impuesto en los términos del artículo 175 de esta Ley.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2006)</small>
+
+###### ARTICULO 178.
+
+A las empresas que operen plantas para el tratamiento de aguas residuales, las reutilicen y/o dispongan de ellas de conformidad con la normatividad aplicable al cuerpo receptor en donde se descarguen tales aguas, siempre que ello no se realice en el sistema de alcantarillado, se les otorgará una exención de hasta el 30% en el pago mensual de los derechos que por consumo de agua deban cubrir a la Comisión Estatal de Servicios Públicos que corresponda.
+
+Para determinar la exención se considerará el importe que represente el porcentaje del agua tratada respecto del total del agua suministrada, al cual se le aplicará el por ciento referido en el párrafo anterior.
+
+Para efectos de esta Ley, se entiende por:
+
+I.- Cuerpo Receptor.- La corriente o depósito natural de agua, presas, cauces, zonas marinas o bienes nacionales donde se descargan aguas residuales, así como los terrenos en donde se infiltran o inyectan dichas aguas.
+
+II.- Aguas Residuales.- Las aguas de composición variada provenientes de las descargas de usos comerciales, de servicios, agrícolas, pecuarios, domésticos y en general cualquier otro uso, así como la mezcla de ellas.
+
+III.- Aguas Residuales Tratadas.- Son aquellas que mediante procesos industriales o combinados de tipo fisicoquímicos, químicos, biológicos u otros, se han adecuado para hacerlas aptas para su reutilización.
+
+Las Comisiones Estatales de Servicios Público (sic) del Estado, tendrán facultades para verificar, inspeccionar y dictaminar, el cumplimiento de las condiciones establecidas en este artículo, así como determinar la base sobre la cual se aplicará la exención citada.
+
+La Secretaría de Planeación y Finanzas, considerando la opinión de la Comisión Estatal del Agua, podrá emitir reglas de carácter general relativas a los aspectos regulados en este artículo.
+
+La vigencia de este estímulo fiscal, iniciará a partir de que la autoridad competente, después de seguir el procedimiento respectivo, determine la procedencia de la exención, de acuerdo a lo establecido en el artículo 15 de la Ley de Fomento a la Competitividad y Desarrollo Económico para el Estado de Baja California.
+
 > <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2005)</small>
 
-###### ARTÍCULO 178.
-
-A las empresas que operen sistemas para el tratamiento de aguas residuales y las reutilicen totalmente, o bien disponga de ellas de conformidad con la normatividad aplicable siempre que su descarga final no se realice en el sistema de alcantarillado, se les otorgará una exención del 30%, en el pago mensual de los derechos que por consumo de agua deban cubrir a la Comisión Estatal de Servicios Públicos que corresponda, de acuerdo a la tarifa aplicable de la Ley de Ingresos del Estado de Baja California del ejercicio fiscal respectivo.
-
-> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2005)</small>
-
-###### ARTÍCULO 179.
+###### ARTICULO 179.
 
 Los recargos y gastos de ejecución originados por la falta de pago de un crédito fiscal en la fecha o plazo establecido o las multas determinadas sobre el monto del crédito fiscal por infracciones a las disposiciones fiscales, a cargo de jubilados, pensionados e indigentes mayores de 60 años, personas viudas en situación de indígena mayores de 50 años y personas con capacidades diferentes, se causará sobre la cantidad que éstos deban de cubrir, según lo estipulado en los artículos 173 y 174 de esta Ley.
 
 En el caso de las Empresas, el impuesto adicional para la educación media y superior y los accesorios que en su caso se generen, se determinará sobre el total del impuesto sobre remuneraciones al trabajo personal que se cause, sin considerar los estímulos fiscales otorgados en términos de los artículos 175 y 177 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2006)</small>
+
+###### ARTICULO 180.
+
+Estarán exentos del pago del impuesto sobre remuneraciones al trabajo personal, las personas que se dediquen exclusivamente a actividades agrícolas, ganaderas, pesqueras o silvícolas, y exporten sus productos derivados de esa actividad, en los términos de la legislación aduanera.
+
+Estas personas estarán exentas, en el porciento que representen sus exportaciones respecto del total de sus actividades realizadas en el período correspondiente.
+
+Las personas a que se refiere el primer párrafo de este artículo, deberán cubrir el impuesto adicional para la educación media y superior y los accesorios que en su caso se generen, sobre el total del impuesto sobre remuneraciones al trabajo personal que se cause, sin considerar la exención prevista en este artículo. Asimismo deberán cumplir las obligaciones previstas en el artículo 151-20 de esta Ley.
+
+Se entiende por actividades agrícolas, ganaderas, pesqueras y silvícolas, las referidas en el Código Fiscal de la Federación.
 
 TRANSITORIOS:
 
@@ -2397,15 +2447,7 @@ Las presentes reformas entrarán en vigor al día siguiente de su publicación e
 
 ###### ARTÍCULO SEGUNDO.
 
-Las personas físicas y morales, que con anterioridad a la entrada en vigor de las presentes reformas, hubieren sido sujetas de los beneficios que se encontraban previstos en los incisos a) y c) del artículo 151-13 de esta Ley, seguirán gozando del mismo, siempre y cuando continúen realizando las operaciones por las que les correspondió dicho beneficio, en los siguientes porcentajes:
-
-I. Durante el ejercicio fiscal 2005 en un 100%;
-
-II. Durante el ejercicio fiscal 2006 en un 60%, y
-
-III. Durante el ejercicio fiscal 2007 en un 20%.
-
-Estos beneficios no serán aplicables a las Empresas que reciban un estímulo fiscal en los términos del artículo 175 de las presentes reformas.
+(DEROGADO, P.O. 24 DE FEBRERO DE 2006)
 
 ###### ARTÍCULO TERCERO.
 
@@ -2418,3 +2460,37 @@ Las Empresas que inicien la ejecución de un Proyecto de Inversión durante el e
 ###### ARTÍCULO QUINTO.
 
 Asimismo las empresas que estén tratando aguas residuales y las reutilicen totalmente, durante el ejercicio fiscal en el que entre (sic) en vigor las presentes reformas, podrán ser sujetas al otorgamiento del Estímulo fiscal, previsto en el artículo 178 de esta Ley.
+
+P.O. 24 DE FEBRERO DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+Las personas físicas y morales, que con anterioridad a la entrada en vigor de las presentes reformas, hubieren sido sujetas de los beneficios que se encontraban previstos en el Artículo Segundo Transitorio, del Decreto No. 55, publicado en el Periódico Oficial del Estado, en fecha 10 de junio de 2005 seguirán gozando de los mismos, siempre y cuando continúen realizando las operaciones por las que les correspondió dicho beneficio, en los siguientes porcentajes:
+
+I. Durante el ejercicio fiscal 2006 en un 90%;
+
+II. Durante el ejercicio fiscal 2007 en un 80%, y
+
+III, Durante el ejercicio fiscal 2008 en un 70%.
+
+Estos beneficios no serán aplicables a las Empresas que reciban un estímulo fiscal, en los términos del artículo 175 de la Ley de Hacienda del Estado de Baja California.
+
+Se condona a los contribuyentes a que se refiere este artículo, del pago del impuesto sobre remuneraciones al trabajo personal causado del primero de enero de 2006 hasta la entrada en vigor de la presente reforma, en el porcentaje que sea necesario para alcanzar la exención establecida en la fracción I.
+
+###### ARTÍCULO TERCERO.
+
+Se deroga el Artículo Segundo Transitorio, del Decreto No. 55, publicado en el Periódico Oficial del Estado, en fecha 10 de junio de 2005.
+
+###### ARTÍCULO CUARTO.
+
+Las empresas que se encontraban gozando de la exención señalada en el artículo 178 del ordenamiento materia de esta reforma, deberán presentar dentro de los noventa días siguientes a la entrada en vigor del presente Decreto, la solicitud señalada en el artículo 14 de la Ley de Fomento a la Competitividad y Desarrollo Económico para el Estado de Baja California, para efecto de que la autoridad competente determine en su caso, la procedencia del estímulo fiscal en los términos de las disposiciones contenidas en el artículo 178 que se modifica mediante este Decreto. En tanto se resuelve la solicitud referida, las empresas continuarán gozando de la exención señalada.
+
+Una vez transcurrido el plazo de noventa días previstos en el párrafo anterior, se dejarán sin efectos las exenciones otorgadas a aquellas empresas que no hubieren presentado la solicitud correspondiente.
+
+###### ARTÍCULO QUINTO.
+
+Se condona a los contribuyentes a que se refiere el artículo 180 de esta reforma, del pago del impuesto sobre remuneraciones al trabajo personal causado del primero de enero de 2006 hasta la entrada en vigor de este Decreto, en los mismos términos y porcentajes que se establecen en dicho artículo.
