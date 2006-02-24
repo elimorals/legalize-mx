@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2006-02-01"
+last_updated: "2006-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-11"
 
 NUEVO CODIGO PENAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE FEBRERO DE 2006.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -290,11 +290,17 @@ V. Intervención.
 
 ### CAPÍTULO II. PRISIÓN
 
-ARTÍCULO 33 (Concepto y duración de la prisión). La prisión consiste en la privación de la libertad personal. Su duración no será menor de tres meses ni mayor de cincuenta años. Su ejecución se llevará a cabo en los establecimientos del Distrito Federal o del Ejecutivo Federal, conforme a lo dispuesto en la legislación correspondiente, en la resolución judicial respectiva o en los convenios celebrados.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE FEBRERO DE 2006)</small>
+
+###### ARTÍCULO 33.
+
+(Concepto y duración de la prisión). La prisión consiste en la privación de la libertad personal. Su duración no será menor de tres meses ni mayor de setenta años. Su ejecución se llevará a cabo en los establecimientos del Distrito Federal o del Ejecutivo Federal, conforme a lo dispuesto en la legislación correspondiente, en la resolución judicial respectiva o en los convenios celebrados.
 
 En toda pena de prisión que se imponga en una sentencia, se computará el tiempo de la detención o del arraigo.
 
-Si se trata de dos o más penas de prisión impuestas en sentencias diferentes, aquellas se cumplirán invariablemente de manera sucesiva, sin que la suma de ellas sea mayor de cincuenta años.
+> <small>(REFORMADO, G.O. 24 DE FEBRERO DE 2006)</small>
+
+Si se trata de dos o más penas de prisión impuestas en sentencias diferentes, aquellas se cumplirán invariablemente de manera sucesiva, sin que la suma de ellas sea mayor de setenta años.
 
 ### CAPÍTULO III. TRATAMIENTO EN LIBERTAD DE IMPUTABLES
 
@@ -1114,6 +1120,8 @@ En los casos contemplados en las fracciones I, II y III, los médicos tendrán l
 
 ### CAPÍTULO III. SECUESTRO
 
+> <small>(REFORMADO, G.O. 24 DE FEBRERO DE 2006)</small>
+
 ### CAPÍTULO IV. DESAPARICIÓN FORZADA DE PERSONAS
 
 ### CAPÍTULO V. TRÁFICO DE MENORES
@@ -1226,19 +1234,21 @@ Este delito se perseguirá por querella.
 
 ###### ARTÍCULO 163.
 
-Al que prive de la libertad a otro con el propósito de obtener rescate, algún beneficio económico, causar daño o perjuicio a la persona privada de la libertad o a cualquiera otra, se le impondrán de diez a cuarenta años de prisión y de cien a mil días multa.
+Al que prive de la libertad a otro con el propósito de obtener rescate, algún beneficio económico, causar daño o perjuicio a la persona privada de la libertad o a cualquiera otra, se le impondrán de cuarenta a sesenta años de prisión y de mil a tres mil días multa.
 
 > <small>(ADICIONADO, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
 
 ARTÍCULO 163 BIS. Comete el delito de privación de la libertad en su modalidad de secuestro express, el que prive de la libertad a otro por el tiempo estrictamente indispensable para cometer los delitos de robo o extorsión, previstos en los artículos 220 y 236 de este Código o para obtener algún beneficio económico.
 
-Se le impondrá de siete a veinte años de prisión y de cien a mil días multa, sin perjuicio de las penas que corresponden por los delitos de robo o extorsión y de las reglas de aplicación del concurso para la imposición de sanciones.
+> <small>(REFORMADO, G.O. 24 DE FEBRERO DE 2006)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
+Se le impondrá de veinte a cuarenta años de prisión y de quinientos a dos mil días multa, sin perjuicio de las penas que corresponden por los delitos de robo o extorsión y de las reglas de aplicación del concurso para la imposición de sanciones.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE FEBRERO DE 2006)</small>
 
 ###### ARTÍCULO 164.
 
-Se impondrán de quince a cuarenta años de prisión y de doscientos a mil quinientos días multa, si en la privación de la libertad a que se hace referencia en los dos artículos anteriores, concurre cualquiera de las circunstancias siguientes:
+Las penas previstas en los dos artículos anteriores se incrementarán en una tercera parte, si en la privación de la libertad a que se hace referencia en los mismos concurre cualquiera de las circunstancias siguientes:
 
 I. Que se realice en un domicilio particular, lugar de trabajo o a bordo de un vehículo;
 
@@ -1260,15 +1270,17 @@ VII. Que se cause un daño o alteración a la salud de la víctima conforme a lo
 
 Si se libera espontáneamente al secuestrado, dentro de las veinticuatro horas siguientes al de la privación de la libertad, sin lograr alguno de los propósitos a que se refiere el artículo anterior, las penas serán de una quinta parte.
 
+> <small>(REFORMADO, G.O. 24 DE FEBRERO DE 2006)</small>
+
 ###### ARTÍCULO 165.
 
-En caso de que el secuestrado fallezca durante el tiempo en que se encuentre privado de su libertad, se impondrá de veinte a cincuenta años de prisión.
+En caso de que el secuestrado sea privado de la vida por su o sus secuestradores, o que fallezca durante el tiempo en que se encuentre privado de su libertad, se impondrán de cincuenta a setenta años de prisión y de cinco mil a diez mil días multa.
 
-Si el secuestrado es privado de la vida por su o sus secuestradores, para la imposición de las sanciones, se estará a las reglas del concurso de delitos.
+> <small>(REFORMADO, G.O. 24 DE FEBRERO DE 2006)</small>
 
 ###### ARTÍCULO 166.
 
-Se impondrán las mismas penas señaladas en los artículos anteriores, cuando la privación de la libertad se efectúe para trasladar fuera del territorio del Distrito Federal, a un menor de edad o a quien por cualquier causa no tenga capacidad de comprender o resistir la conducta, con el propósito de obtener un lucro por su venta o entrega.
+Se impondrán las mismas penas señaladas en el artículo 165, cuando la privación de la libertad se realice en contra de un menor de edad ó de quien por cualquier causa no tenga capacidad de comprender ó resistir la conducta, con el propósito de obtener un lucro por su venta o entrega.
 
 > <small>(ADICIONADO, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
 
@@ -3679,3 +3691,11 @@ PRIMERO.- Túrnese al Jefe de Gobierno del Distrito Federal para su promulgació
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 TERCERO.- Se derogan todas las disposiciones que contravengan lo dispuesto por el presente decreto.
+
+G.O. 24 DE FEBRERO DE 2006.
+
+PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal para su respectiva promulgación y publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
