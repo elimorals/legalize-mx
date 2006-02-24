@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-para-la-transparencia-y-acceso-a-la-informacion-4969
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-02-17"
-last_updated: "2006-02-17"
+last_updated: "2006-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO PARA LA TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL PODER LEGISLATIVO DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2006.
 
 Reglamento publicado en la Séptima Sección del Periódico Oficial del Gobierno del Estado de Puebla, el viernes 17 de febrero de 2006.
 
@@ -123,9 +123,11 @@ El Poder Legislativo procurará la capacitación y actualización de sus Servido
 
 ### CAPÍTULO CUARTO. DE LA COMISIÓN DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL PODER LEGISLATIVO
 
+(REFORMADO PRIMER PARRAFO, P.O. 24 DE FEBRERO DE 2006) (F. DE E., P.O. 24 DE MAYO DE 2006)
+
 ###### ARTÍCULO 12.
 
-La Comisión de Transparencia y Acceso a la Información Pública del Poder Legislativo del Estado Libre y Soberano de Puebla, estará integrada por tres Diputados. Para la designación de los mismos, la forma de sesionar y su funcionamiento, se estará a lo dispuesto por la Ley Orgánica del Poder Legislativo y el Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla.
+La Comisión de Transparencia y Acceso a la Información Pública del Poder Legislativo del Estado Libre y Soberano de Puebla, estará integrada por Diputados. El número de miembros que la integran, la designación de los mismos, la forma de sesionar y su funcionamiento, se regirán por lo que establece la Ley Orgánica del Poder Legislativo y el Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla.
 
 La Comisión, para el debido ejercicio de sus funciones y la resolución de los recursos contará con la estructura orgánica necesaria.
 
@@ -432,3 +434,9 @@ SEGUNDO. La Gran Comisión del Honorable Congreso del Estado deberá proveer lo 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 EL GOBERNADOR, hará publicar la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Puebla de Zaragoza, a los dieciséis días del mes de febrero de dos mil seis.- Diputado Presidente.- PERlCLES OLIVARES FLORES.- Rúbrica.- Diputada Vicepresidenta.- ZENORINA GONZALEZ ORTEGA.- Rúbrica.- Diputada Secretaria.- MARÍA DE LOS ÁNGELES ELlZABETH GÓMEZ CORTÉS.- Rúbrica.- Diputado Secretario.- MARlANO HERNÁNDEZ REYES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 24 DE FEBRERO DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
