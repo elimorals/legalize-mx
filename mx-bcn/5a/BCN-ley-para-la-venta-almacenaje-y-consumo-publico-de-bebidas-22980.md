@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-venta-almacenaje-y-consumo-publico-de-bebidas-22980
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2005-11-18"
+last_updated: "2006-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22980&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA LA VENTA, ALMACENAJE Y CONSUMO PUBLICO DE BEBIDAS ALCOHOLICAS DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2006.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -297,9 +297,9 @@ III.- Se deteriore la calidad de vida de un determinado asentamiento humano;
 
 IV.- Se propicie la observación de conductas perniciosas para menores de edad o se perturbe la tranquilidad de los vecinos que asistan a algún establecimiento educativo, de salud, centro deportivo, religioso, recreativo u otros de reunión de menores, de conformidad con las condiciones que se establezcan en la reglamentación Municipal, y (sic)
 
-> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
 
-V.- Se lleven a cabo concursos, promociones o cualquier tipo de ofertas y prácticas comerciantes mediante las cuales se ofrecen reconocimientos, premios, descuentos o cualquier tipo de incentivo en función del volumen de consumo de bebidas alcohólicas, así como la publicación de precios regulares y de promoción de bebidas alcohólicas en el exterior del establecimiento, ya sea mediante la utilización de cualquier medio impreso, visual o auditivo; y
+V.- Se lleven a cabo en el exterior del establecimiento concursos, promociones o cualquier tipo de ofertas o prácticas comerciales mediante las cuales se ofrezcan reconocimientos, premios, descuentos o cualquier tipo de incentivo en función del volumen de consumo de bebidas alcohólicas, así como la publicación de precios regulares y de promoción de bebidas alcohólicas en el exterior de los establecimientos, ya sea mediante la utilización de cualquier medio impreso, visual o auditivo; y
 
 VI.- Se presenten los demás casos que prevengan las leyes y reglamentos.
 
@@ -409,9 +409,9 @@ VI.- Por actos graves que realicen el permisionario, los encargados, empleados o
 
 VII.- Por no informar a la autoridad municipal, de la suspensión de actividades o el cambio de denominación del establecimiento o giro; y (sic)
 
-> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
 
-VIII.- Por llevar a cabo concursos, promociones o cualquier tipo de ofertas o prácticas comerciantes mediante las cuales se ofrezcan reconocimientos, premios, descuentos o cualquier tipo de incentivo en función del volumen de consumo de bebidas alcohólicas, así como la publicación de precios regulares y de promoción de bebidas alcohólicas en el exterior de los establecimientos, ya sea mediante la utilización de cualquier medio impreso, visual o auditivo; y
+VIII.- Se lleven a cabo en el exterior del establecimiento concursos, promociones o cualquier tipo de ofertas o prácticas comerciales mediante las cuales se ofrezcan reconocimientos, premios, descuentos o cualquier tipo de incentivo en función del volumen de consumo de bebidas alcohólicas, así como la publicación de precios regulares y de promoción de bebidas alcohólicas en el exterior de los establecimientos, ya sea mediante la utilización de cualquier medio impreso, visual o auditivo;
 
 IX.- Las demás que determine el reglamento.
 
@@ -536,3 +536,7 @@ P.O. 18 DE NOVIEMBRE DE 2005.
 ###### ARTÍCULO ÚNICO.
 
 Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE FEBRERO DE 2006.
+
+ÚNICO.- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el periódico Oficial del Estado.
