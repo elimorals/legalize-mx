@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-del-codigo-fiscal-y-presupuestario-para-el-45303"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-06-13"
-last_updated: "2005-06-13"
+last_updated: "2006-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 REGLAMENTO DEL CODIGO FISCAL Y PRESUPUESTARIO PARA EL MUNICIPIO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2006.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 13 de junio de 2005.
 
@@ -87,7 +87,9 @@ VIII. Contraloría Interna.- El órgano de control de cada entidad auxiliar de l
 
 IX. Dependencias.- Las dependencias de la Administración Pública Centralizada del Honorable Ayuntamiento del Municipio de Puebla y sus órganos desconcentrados;
 
-X. DGDUE.- La Dirección General de Desarrollo Urbano y Ecología del Honorable Ayuntamiento del Municipio de Puebla;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+X. SAU.- Secretaria de Administración Urbana;
 
 XI. Dirección Jurídica.- La Dirección General Jurídica Consultiva del Honorable Ayuntamiento del Municipio de Puebla;
 
@@ -141,7 +143,9 @@ I. Tratándose de actos emanados por las autoridades fiscales, por el hecho de q
 
 II. En el caso de los actos previstos en los artículos 365, 366 y 368 del Código:
 
-a) Tratándose de actos del Presidente a través de la DGDUE. tendientes a la remoción de cualquier obstáculo creado natural o artificialmente para el uso y destino de los bienes del dominio público, por el hecho de que el escrito que contenga el recurso, sea depositado en la Oficialía de Partes de la Secretaria del Ayuntamiento o en la mesa receptora de correspondencia de la DGDUE.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2006)</small>
+
+a) Tratándose de actos del Presidente a través de la SAU tendientes a la remoción de cualquier obstáculo creado natural o artificialmente para el uso y destino de los bienes del dominio público, por el hecho de que el escrito que contenga el recurso, sea depositado en la Oficialía de Partes de la Secretaria del Ayuntamiento o en la mesa receptora de correspondencia de la SAU.
 
 b) En el caso de actos del titular de un organismo, tendientes a la remoción de cualquier obstáculo creado natural o artificialmente para el uso y destino de los bienes del dominio público, por el hecho de que el escrito que contenga el recurso, sea depositado en la mesa receptora de correspondencia del organismo.
 
@@ -393,17 +397,73 @@ XXXII. Proponer al Presidente, los términos en que deberán ser emitidos los ma
 
 XXXIII. Auxiliar al Presidente en la elaboración de la propuesta de zonificación catastral y valores unitarios de suelo y construcción que sirvan de base para el cálculo de los impuestos a la propiedad inmobiliaria y de otros conceptos de ingreso;
 
-XXXIV. Autorizar que la recepción del pago y la expedición de comprobantes, sea realizada por oficinas diversas de las extractoras, y
+XXXIV. Autorizar que la recepción del pago y la expedición de comprobantes, sea realizada por oficinas diversas de las extractoras, y (sic)
 
-XXXV. Las demás que establezca el Código a favor de las autoridades fiscales, así como las que contenga la ley, reglamentos, acuerdos, decretos, convenios y sus anexos, y las que le confiera el Ayuntamiento o el Presidente.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
 
-Las atribuciones no delegables del Tesorero, son las previstas en las fracciones I, III, IV, VI, X, XIV, XXI, XXIII, XXIX y XXXIV de este artículo.
+XXXV. Orientar y coordinar la planeación, programación, presupuestación y control contable del Gasto Publico Municipal;
 
-Competencia común de Directores de Ingresos y Fiscalización.
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+XXXVI. Asesorar al Presidente en aspectos relacionados a la planeación, la definición de la estrategia económica y social del Gobierno Municipal y en la formulación de los planes, programas y políticas consistentes con ella, así como en la elaboración de los proyectos de normatividad interna relacionada al presupuesto y rendición de cuentas que sean sometidos al Cabildo;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+XXXVII. Propiciar que los proyectos de las entidades se ejecuten previo análisis costo-beneficio o con la evaluación suficiente y que permita el gasto en inversión, incluyendo en lo conducente el gasto de capital diferido, definiendo el alcance de los mismos;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+XXXVIII. Proveer lo necesario para administrar un registro sistemático de proyectos de inversión considerables en el anteproyecto de presupuesto;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+XXXIX. Asesorar al Presidente y al Cabildo en la formulación de los programas de inversiones públicas y de su financiamiento, ajustándose a los límites de endeudamiento acordado por el Congreso;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+XL. Establecer los lineamientos internos a fin de que cada entidad previamente a la conformación del proyecto de presupuesto, identifique sus productos y objetivos estratégicos, a través del logro de metas anuales definidas;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+XLI. Proponer anualmente al Presidente los criterios y propiciar que, se realice una revisión de actividades y metas, para el o los ejercicios siguientes, que permita adecuar la distribución de las partidas presupuestales sobre la base de cambios o ajustes en las metas y actividades programadas, bajo una visión de planeación multianual;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+XLII. Proponer al Presidente las políticas de racionalización de la administración;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+XLIII. Proponer al Presidente la reducción proporcional del gasto en el caso de que los ingresos sean menores a los previstos;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+XLIV. Proponer al Presidente los mecanismos para reducir los costos de recaudación y cumplimiento, propiciando la modernización y el alimento de la eficiencia de la administración tributaria;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+XLV. Asignar los recursos que se obtengan en exceso de los previstos en el Presupuesto de Egresos del Municipio, a los programas que considere convenientes y autorizará los traspasos de Partidas y Capitulas. Tratándose de ingresos extraordinarios derivados de empréstitos se estará a lo establecido en el Código Fiscal y Presupuestario pira el Municipio de Puebla;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+XLVI. Expedir las licencias de funcionamiento municipales, previo cumplimiento de los requisitos exigidos por la reglamentación respectiva;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+XLVII. Las demás que establezca el Código a favor de las autoridades fiscales, así como las que contenga la Ley, Reglamentos, Acuerdos, Decretos, Convenios y sus anexos, y los que le confiera el Ayuntamiento o el Presidente;
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2006)</small>
+
+Las atribuciones no delegables del Tesorero, son las previstas en las fracciones I, III, IV, VI, X, XIV, XXI, XXIII, XXIX, XXXIV, XLV, XLVI de este artículo.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE FEBRERO DE 2006)</small>
+
+Competencia común del Director de Ingresos y el Director de Catastro.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 23.
 
-Es competencia común de los Directores de Ingresos y de Registro y Fiscalización:
+Es competencia común del Director de Ingresos y el Director de Catastro:
 
 I. Programar, organizar, dirigir y evaluar las actividades de la Dirección a su cargo;
 
@@ -439,7 +499,9 @@ XVI. Conocer y someter a la consideración del Tesorero las solicitudes de pago 
 
 XVII. Someter a consideración del Tesorero, previa propuesta del Jefe de la Oficina Jurídica, las formas oficiales de avisos, declaraciones y demás documentos requeridos por las disposiciones fiscales en el ámbito de su competencia, así como vigilar su publicación, reproducción y distribución, y
 
-XVIII. Las demás que les señale el Código, este Reglamento, las disposiciones legales y las que le confiera el Ayuntamiento o el Presidente.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+XVIII. Las demás que les señale el Código, este Reglamento, las disposiciones legales y las que le confiera el Ayuntamiento, el Presidente o el Tesorero.
 
 Competencia de la Dirección de Ingresos.
 
@@ -447,13 +509,17 @@ Competencia de la Dirección de Ingresos.
 
 Es competencia de la Dirección de Ingresos:
 
-I. Proponer al Tesorero los lineamientos, programas, normas, políticas y procedimientos relacionados a las materias de recaudación y administración de ingresos tributarios;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+I. Proponer al Tesorero los lineamientos, programas, normas, políticas y procedimientos relacionados a las materias de recaudación, fiscalización y administración de ingresos tributarios;
 
 II. Auxiliar al Tesorero en el diseño de los sistemas, métodos, procedimientos de recaudación y los demás de su competencia;
 
 III. Determinar los pronósticos anuales de ingresos, fijar y determinar las metas de recaudación para cada ejercicio fiscal;
 
-IV. Programar, organizar, dirigir y evaluar las actividades de las áreas a su cargo relacionadas a los actos de recaudación de ingresos, orientación al contribuyente, así como de estudios relacionados con los sistemas de coordinación fiscal en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+IV. Programar, organizar, dirigir y evaluar las actividades de las áreas a su cargo relacionadas a los actos de recaudación y fiscalización de ingresos, orientación al contribuyente, así como de estudios relacionados con los sistemas de coordinación fiscal en el ámbito de su competencia;
 
 V. Proponer al Tesorero los acuerdos de condonación o exención total o parcial de contribuciones y sus accesorios, pago a plazos, dispensa de la garantía del interés fiscal, prescripción de créditos, devolución de pagos realizados indebidamente al fisco, otorgamiento de estímulos o subsidios y los demás que sean de su competencia, así como las resoluciones a las consultas que presenten los interesados;
 
@@ -467,7 +533,9 @@ IX. Ejercer por sí o a través de sus áreas correspondientes, las atribuciones
 
 X. Ejercer en el área de su competencia, las facultades para vigilar el cumplimento y aplicación de la normatividad en materia de ingresos, conforme a la legislación aplicable, convenios y acuerdos que se celebren dentro del esquema de coordinación y en general de los convenios a que se refiere el artículo 280 del Código;
 
-XI. Aprobar el diseño, integración, mantenimiento, actualización y depuración de los registros de contribuyentes a cargo del Municipio;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+XI. Aprobar el diseño, integración, mantenimiento, actualización y depuración de los registros de contribuyentes a cargo del Municipio, a excepción de los que le competen a la Dirección de Catastro;
 
 XII. Proponer al Tesorero los documentos que deberán considerarse como formas oficiales valoradas, así como los lineamientos para su vigilancia, publicación, reproducción y distribución;
 
@@ -477,7 +545,9 @@ XIV. Coordinar los servicios de orientación y asistencia técnica que se propor
 
 XV. Fijar en cantidad liquida, el importe de los créditos provenientes de las contribuciones y aprovechamientos y demás ingresos municipales y coordinados:
 
-XVI. Determinar y emitir las diferencias aritméticas u omisiones que procedan respecto de contribuciones y demás ingresos municipales y coordinados, así como los productos y aprovechamientos a excepción de las que competan a la Dirección de Fiscalización;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+XVI. Determinar y emitir las diferencias aritméticas u omisiones que procedan respecto de contribuciones y demás ingresos municipales y coordinados, así como los productos y aprovechamientos a excepción de las que competan a la Dirección de Catastro;
 
 XVII. Integrar los expedientes respectivos para el cobro de fianzas y turnarlos a la Oficina Jurídica, para efectos de requerimiento a las Instituciones que las expidan;
 
@@ -489,7 +559,9 @@ XX. Recibir de los contribuyentes los avisos, declaraciones, manifestaciones y d
 
 XXI. Recaudar directamente o a través de las oficinas receptoras de pago, el impone de las contribuciones, productos, aprovechamientos, y sus accesorios derivados de ingresos municipales o coordinados, y las sanciones impuestas por autoridades administrativas no fiscales; así como vigilar que los créditos garantizados para pagarse a plazos se encuentren al corriente, de conformidad con las disposiciones fiscales aplicables y los convenios de coordinación que se encuentren vigentes;
 
-XXII. Vigilar la emisión de las diferencias aritméticas u omisiones respecto de contribuciones, productos o aprovechamientos municipales y demás ingresos coordinados, a excepción de las que corresponda emitir a la Dirección del Registro de Fiscalización;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+XXII. Vigilar la emisión de las diferencias aritméticas u omisiones respecto de contribuciones, productos o aprovechamientos municipales y demás ingresos coordinados;
 
 XXIII. Autorizar el catálogo de cuenta y el diseño del informe diario de recaudación;
 
@@ -509,17 +581,101 @@ XXX. Ordenar y supervisar la aplicación del procedimiento administrativo de eje
 
 XXXI. Proponer al Tesorero alternativas para la vigilancia del cumplimiento de obligaciones fiscales de los contribuyentes, estableciendo programas para la emisión de requerimientos;
 
-XXXII. Conocer y resolver las solicitudes que realicen los contribuyentes que conlleven a la depuración de los registros, competencia de la Tesorería;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+XXXII. Conocer y resolver las solicitudes que realicen los contribuyentes que conlleven a la depuración de los registros, competencia de la Tesorería, salvo el Registro Catastral y los Padrones de Predial e Impuesto Sobre Adquisición de Bienes Inmuebles;
 
 XXXIII. Proponer al Tesorero la cancelación de créditos fiscales incobrables municipales, así como los federales y estatales coordinados, cuando esta atribución corresponda al Municipio;
 
 XXXIV. Preparar o rendir, en el ámbito de su competencia, los informes que deba rendir la Tesorería, derivados de los convenios que celebre el Municipio en materia de coordinación;
 
-XXXV. Emitir y distribuir el boletaje del impuesto predial, y
+XXXV. Emitir y distribuir el boletaje del impuesto predial, y (sic)
 
-XXXVI. Las demás que se establezcan en el Código, la ley, reglamentos, acuerdos, decretos, convenios y sus anexos y las que le confiera el Ayuntamiento, el Presidente o el Tesorero.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
 
-La Dirección de Ingresos estará adscrita a la Tesorería y a cargo de un Titular, auxiliado par los Jefes de Departamento de Ejecución u Oficina Ejecutara y del Jefe del Departamento de Catastro Municipal, así como de los Jefes de las Oficinas Receptoras de Pago y demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas presupuestales respectivas.
+XXXVI. Proponer al Tesorero los acuerdos de caducidad de las facultades de las autoridades fiscales, y los demás que sean de su competencia, así como las resoluciones a las consultas que presenten los interesados;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+XXXVII. Conocer y resolver sobre las solicitudes de los contribuyentes, respecto a la expedición de certificaciones, constancias y demás vinculadas al ejercicio de sus atribuciones;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+XXXVIII. Expedir a solicitud del interesado de alguna autoridad, previo el pago de los derechos cuando corresponda, la constancia o certificación de documentos relativos a los asuntos que se tramiten en el área de su competencia;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+XXXIX. Registrar, actualizar y controlar la inscripción, refrendos y notificaciones de las licencias de funcionamiento de giros comerciales con o son venta de bebidas alcohólicas;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+XL. Autorizar mediante el sello correspondiente la emisión total del boletaje de entrada a la diversión o espectáculo Publico, debiendo reunir los requisitos establecidos en el Código Fiscal y Presupuestario para el Municipio de Puebla;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+XLI. Realizar el estudio y seguimiento relacionados al comportamiento de la fórmula de distribución de participaciones de los sistemas nacional y estatal de coordinación fiscal, de sus políticas de pago anticipado y las oportunidades de coordinación para el aprovechamiento de espacios impositivos o de los incentivos o apoyos para en desarrollo institucional del Municipio;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+XLII. Realizar el estudio, seguimiento y proyecciones presupuestarias derivadas de la pítica monetaria nacional, los fondos integrados por excedentes en ingresos de otros niveles de gobierno o derivados de los convenios de coordinación fiscal y el ajuste a los presupuestos federal y estatal;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+XLIII. Las demás que se establezcan en el Código, la Ley, Reglamentos, Acuerdos, Decretos, Convenios y Sus Anexos y las que le confiera el Ayuntamiento, el Presidente o el Tesorero.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2006)</small>
+
+La Dirección de Ingresos estará adscrita a la Tesorería y a cargo de un Titular, auxiliado por los Jefes de Departamento de Ejecución u Oficina Ejecutora y del Jefe del Departamento de Registro y Fiscalización, así como de los Jefes de las Oficinas Receptoras de Pago y demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas presupuestales respectivas.
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+Competencia del Departamento de Registro y Fiscalización.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2006)</small>
+
+Artículo 24 bis.- Es competencia del Departamento de Registro y Fiscalización:
+
+I. Vigilar que las Unidades Administrativas determinen en el ámbito de su competencia, mediante resolución y de acuerdo a los ordenamientos fiscales vigentes, la responsabilidad solidaria.
+
+II. Participar en la actualización de los Padrones de Contribuyentes de todas las actividades económicas del Municipio.
+
+III. Ordenar y practicar las visitas domiciliarias, inspecciones y verificaciones, realizar los demás actos que establezcan las Leyes Fiscales, los Convenios, sus anexos y las demás disposiciones que resulten aplicables, para comprobar el cumplimiento de las obligaciones fiscales de los contribuyentes, responsables solidarios y demás obligados en materia de contribuciones, productos, aprovechamientos y accesorios; practicar el embargo precautorio; así como expedir oficios de prórroga sobre el plazo en que se deban concluir los actos de fiscalización.
+
+IV. Requerir a los contribuyentes, responsables solidarios y demás obligados, las declaraciones correspondientes a los conceptos de ingresos coordinados, a fin de comprobar el cumplimiento de sus obligaciones fiscales.
+
+V. Requerir a los contribuyentes, responsables solidarios y a terceros con ellos relacionados, para que exhiban o proporcionen la contabilidad, declaraciones y avisos, documentos e informes, así como papeles de trabajo; recabar de los servidores públicos y de los fedatarios los informes y datos que tengan con motivo de sus funcione, para proceder a su revisión a fin de comprobar el cumplimiento de las obligaciones, así como autorizar o negar prorrogas para su presentación, Tratándose de las revisiones previstas en esta fracción; emitir los oficios de observaciones, el de conclusión de la revisión y en su caso el de prórroga de la revisión.
+
+VI. Habilitar días y horas inhábiles para el ejercicio de sus atribuciones.
+
+VII. Comunicar al Tesorero y a las demás áreas que legalmente lo soliciten, los resultados obtenidos en la revisión de la documentación e información, en las oficinas de las autoridades, así como de las visitas domiciliarias de auditoría, inspección y de verificación.
+
+VIII. Dar a conocer a los contribuyentes, responsables solidarios y demás obligados, los hechos u omisiones imputables a estos, conocidos con motivo de la revisión de dictámenes, de la revisión de la documentación e información en las oficinas de las autoridades o de las visitas domiciliarias, inspecciones y verificaciones que les practiquen, y hacer constar dichos hechos u omisiones en el oficio de observaciones o en la última acta parcial que se levante.
+
+IX. Recibir las promociones y documentos que presenten los contribuyentes, responsables solidarios y demás obligados, así como las pruebas que ofrezcan, respecto de los hechos consignados en las actas de visita domiciliaria, tomando en cuenta las mismas, en su caso, al practicar la liquidación de créditos fiscales.
+
+X. Determinar la existencia de créditos fiscales, precisar las bases para su liquidación y fijarlos en cantidad liquida, imponer las sanciones fiscales que correspondan, respecto de los ingresos municipales, así como de los coordinados y demás accesorios, a cargo de los contribuyentes obligados y responsables solidarios.
+
+XI. Verificar que los contribuyentes, responsables solidarios y terceros con ellos relacionados, cumplan con la obligación de observar los medios de control previstos en el Código y las leyes fiscales de la competencia del Municipio.
+
+XII. Investigar las denuncias de infracciones fiscales y tratándose de delitos fiscales, reunir los elementos necesarios para que la autoridad competente formule la denuncia o querella que corresponda.
+
+XIII. Remitir al Director de Ingresos las solicitudes que presenten los contribuyentes para declarar la caducidad de las facultades de las autoridades fiscales, para determinar contribuciones omitidas y sus accesorios, para imponer sanciones a dichas disposiciones, salvo que se haga valer como excepción, en cuyo caso se remitirá a la Dirección Jurídica para su resolución.
+
+XIV. Remitir al Director de Ingresos las solicitudes que presenten los contribuyentes para declarar la prescripción de los créditos fiscales, salvo que se haga valer como excepción, en cuyo caso se remitirá a la Dirección Jurídica para su resolución.
+
+XV. Colocar sellos y marcas oficiales, con el fin de identificar o asegurar documentación, negociones, o establecimientos sujetos a comprobación de obligaciones fiscales.
+
+XVI. Colocar sellos y marcas oficiales, con el fin de suspender o clausurar cualquier división o espectáculos públicos, cuando los sujetos de este impuesto se nieguen a permitir que los inspectores o interventores cumplan con su comisión, o cuando no se cumplan o se violen las disposiciones que al respecto estables el Código.
+
+XVII. Colocar sellos y marcas oficiales, con el fin de clausurar establecimientos que incumplan con la obligación de contar con licencia de funcionamiento, después de transcurrido el termino que establece el Código.
+
+XVIII. Colocar sellos y marcas oficiales, una vez que se haya dado cumplimiento a las disposiciones fiscales.
+
+XIX. Nombrar a los inspectores o inventores para que realicen los actos de inspección, verificación y clausura a que se refiere este artículo.
+
+XX. Las demás que se establezcan en el Código, la Ley, Reglamentos, Acuerdos, Decretos, Convenios y sus Anexos y las que le confiera el Ayuntamiento, el Presidente, el Tesorero o el Director de Ingresos.
+
+El Departamento de Registro y Fiscalización, estará adscrito a la Dirección de Ingresos y a cargo de un Titular, auxiliado por los servidores públicos que se requieran para el ejerció de sus funciones y que se autoricen conforme a las normas presupuestales respectivas.
 
 Competencia del Departamento de Ejecución u Oficina Ejecutora.
 
@@ -553,23 +709,35 @@ XII. Las demás que se establezcan en el Código, la ley, reglamentos, acuerdos,
 
 El Departamento de Ejecución u Oficina Ejecutora, estará adscrita a la Dirección de Ingresos y a cargo de un titular, auxiliado por los servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas presupuestales respectivas.
 
-Competencia del Departamento de Catastro Municipal.
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE FEBRERO DE 2006)</small>
+
+Competencia del Director de Catastro Municipal:
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 26.
 
-Es competencia del Departamento de Catastro Municipal.
+Es competencia del Director de Catastro Municipal:
 
-I. Determinar los valores catastrales correspondientes a cada predio, con apego a la zonificación catastral y a los valores unitarios que resulten aplicables;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
 
-II. Controlar y vigilar, que los valores catastrales de suelo y construcción de los predios, sean formulados y aplicados conforme a las normas técnicas y de actualización autorizadas;
+I. Proponer al Tesorero los lineamientos para realizar altas, bajas y cambios en materia de impuestos territoriales;
+
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+II. Calcular y determinar la base de los impuestos Predial y Sobre Adquisición de Bienes Inmuebles, a través de la determinación del valor catastral de los inmuebles con apego a la zonificación catastral y los valores unitarios para suelo y construcción que resulten aplicables, en los términos establecidos en el Código y sus disposiciones supletorias;
 
 III. Asignar valores provisionales, la determinación estimada de los mismos o su revaluación, en los casos previstos en la legislación en materia de catastro vigente y aplicable;
 
-IV. Ratificar o rectificar los datos proporcionados por los propietarios o poseedores, respecto de sus predios, para determinar y asentar los verdaderos datos catastrales;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+IV. Revisar o confrontar las manifestaciones o avisos presentados por los propietarios o poseedores de inmuebles, con los datos que obren en su poder o de terceros;
 
 V. Realizar la localización y levantamiento de predios para determinar sus características;
 
-VI. Practicar inspecciones a los predios y en su caso, expedir las rectificaciones e inscripciones correspondientes en los registros catastrales;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+VI. Practicar y ordenar inspecciones a predios con el objeto de obtener información para conformar el Catastro y determinar la base de las contribuciones sobre la propiedad inmobiliaria, y en su caso, expedir las rectificaciones e inscripciones correspondientes en los registros catastrales;
 
 VII. Practicar las operaciones de deslinde catastral y de rectificación o aclaración de linderos;
 
@@ -591,7 +759,9 @@ XV. Requerir para la corrección de las omisiones en que incurran quienes realic
 
 XVI. Realizar investigaciones directas en el caso de que los propietarios o poseedores de algún predio ubicado en el Municipio, omita realizar las manifestaciones a que se encuentra obligado;
 
-XVII. Autorizar a los servidores públicos del Departamento de Catastro o a los peritos valuadores, para que realicen actividades específicas en materia catastral;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+XVII. Autorizar a los servidores públicos de la Dirección de Catastro o a los peritos valuadores, para que realicen actividades específicas en materia catastral;
 
 XVIII. Solicitar a las dependencias, organismos federales y estatales, así como a los propietarios o poseedores de bienes inmuebles, los datos, documentos e informes que estime convenientes el Municipio, para lograr los objetivos del catastro;
 
@@ -599,67 +769,93 @@ XIX. Certificar copias de las manifestaciones, planos y demás documentos relaci
 
 XX. Imponer sanciones por infracciones a las disposiciones de la legislación en materia de catastro vigente y aplicable;
 
-XXI. Recibir y enviar al Director Jurídico el recurso de revisión, previsto en el artículo 2 del Código, y
+XXI. Recibir y enviar al Director Jurídico el recurso de revisión, previsto en el artículo 2 del Código, y (sic)
 
-XXII. Las demás que se establezcan en el Código, la ley, reglamentos, acuerdos, decretos, convenios y sus anexos y las que le confiera el Ayuntamiento, el Presidente o el Tesorero.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
 
-El Departamento de Catastro estará adscrito a la Dirección de Ingresos y a cargo de un Titular, los servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas presupuestales respectivas.
+XXII. Practicar u ordenar la verificación física de toda clase de bienes, así como determinar sus valores correspondientes y revisar o aprobar avalúos;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+XXIII. Calificar las manifestaciones o avisos y requerir a los interesados aclaraciones o comprobaciones;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+XXIV. Administrar el Sistema de Información Catastral;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+XXV. Administrar, conservar, actualizar y archivar los registros catastrales;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+XXVI. Realizar altas, bajas y cambios, en los registros catastrales;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+XXVII. Desarrollar acciones de:
+
+a) Identificación y clasificación.
+
+b) Valuación.
+
+c) Nueva valuación o reevaluación.
+
+d) Ordenar y ejecutar operaciones catastrales, que permitan obtener la descripción, clasificación, mensura, características físicas y de ubicación de cada predio, de su uso, valor y demás datos necesarios para el cumplimiento de los fines del catastro.
+
+e) Ordenar la inscripción de los bienes inmuebles en el padrón catastral y asignarles registro catastral.
+
+f) Y en general realizar acciones y trabajos para determinar sus características, tales como dimensiones, ubicación, uso y la información socioeconómica y estadística que requiere el catastro municipal.
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+XXVIII. Participar en la elaboración del proyecto de zonificación catastral y las tablas de valores unitarios de suelo y constricción, que serán aprobadas por el Ayuntamiento y sometidas anualmente a la consideración del Congreso, así como en sus actualizaciones;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+XXIX. Realizar la investigación e la infraestructura, equipamiento urbano, valor de zona, de los costos de mano de obra y materiales de construcción, así como los valores del mercado inmobiliario y los demás elementos que servirán de base a la propuesta de tablas de valores y zonificación;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+XXX. Proporcionar acceso a la información que administre a las diversas áreas del Ayuntamiento con el objeto de dar al Catastro un uso multifinalitario;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+XXXI. Participar en los términos del Código en el Consejo Municipal de Catastro;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+XXXII. Ejercer por si o a través de sus áreas de Catastro correspondientes, las atribuciones y funciones que se deriven de los Sistemas Nacional y Estatal de Coordinación Fiscal en materia catastral, así como las que se deriven de los Convenios y Acuerdos que se celebren dentro del esquema de dicha coordinación y en general de los Convenios a que se refiere el artículo 280 del Código;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+XXXIII. Coordinar los servicios de orientación y asistencia técnica en materia catastral que se proporcione a los contribuyentes para el cumplimiento de sus obligaciones fiscales, así como proponer o resolver las solicitudes y consultas que formulen los interesados individualmente y por escrito sobre las altas, bajas y cambios al Registro Catastral;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+XXXIV. Determinar y emitir las diferencias aritméticas u omisiones que procedan respecto de los impuestos de Predial y Sobre Adquisición de Bienes Inmuebles;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+XXXV. Recibir de los contribuyentes los avisos, declaraciones, manifestaciones y demás documentación en materia de impuestos territoriales que conforme a las leyes fiscales debe presentarse, e imponer cuando proceda, las medidas de apremio y sanciones que establece la legislación fiscal aplicable;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+XXXVI. Fijar en cantidad liquida, el importe de los créditos provenientes de los impuestos de Predial y Sobre Adquisición de Bienes Inmuebles, así como de derechos, productos y aprovechamientos relacionados con la función catastral;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+XXXVII. Las demás que se establezcan en el Código, la Ley, Reglamentos, Acuerdos, Decretos, Convenios y sus anexos y las que le confiere el Ayuntamiento, el Presidente o el Tesorero.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2006)</small>
+
+La Direccione Catastro estará adscrita a la Tesorería y a cargo de un Titular, auxiliado por los Jefes de Departamento de Actualizaciones de Predial y de Impuestos Inmobiliarios y demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conformes a las normas presupuestales respectivas.
 
 Competencia de la Dirección de Registro y Fiscalización.
 
 ###### Artículo 27.
 
-Es competencia de la Dirección de Registro y Fiscalización:
-
-I. Proponer al Tesorero los lineamientos, programas, normas, políticas y procedimientos relacionados con la materia de fiscalización de ingresos fiscales;
-
-II. Determinar los pronósticos anuales de ingresos, en el ámbito de su competencia, fijar y determinar las metas de fiscalización para cada ejercicio fiscal;
-
-III. Programar, organizar, dirigir y evaluar las actividades de las áreas a su cargo, relacionadas con los actos de fiscalización, así como de estudios relacionados con los sistemas de coordinación fiscal en el ámbito de su competencia:
-
-IV. Proponer al Tesorero los acuerdos de caducidad de las facultades de las autoridades fiscales, y los demás que sean de su competencia, así como las resoluciones a las consultas que presenten los interesados;
-
-V. Participar en los trabajos preparatorios para la celebración de convenios a que se refiere el artículo 280 del Código:
-
-VI. Participar por acuerdo del Tesorero ante las instancias, órganos y autoridades de Coordinación en materia Hacendaria del Estado y de la Federación;
-
-VII. Ejercer por si o a través de sus áreas correspondientes, las atribuciones y funciones que se deriven de los Sistemas Nacional y Estatal de Coordinación Fi iscal, así como las que se deriven de los convenios y acuerdos que se celebren dentro del esquema de dicha coordinación:
-
-VIII. Vigilar que las unidades administrativas determinen en el ámbito de su competencia, mediante resolución y de acuerdo a los ordenamientos fiscales vigentes, la responsabilidad solidaria;
-
-IX. Ordenar y practicar las visitas domiciliarias, inspecciones y verificaciones, realizar los demás actos que establezcan las leyes fiscales, los convenios, sus anexos y las demás disposiciones que resulten aplicables, para comprobar el cumplimiento de las obligaciones fiscales de los contribuyentes responsables solidarios y demás obligados en materia de contribuciones, productos, aprovechamientos y accesorios; practicar el embargo precautorio; así como expedir oficios de prórroga sobre el plazo en que se deban concluir los actos de fiscalización;
-
-X. Requerir a los contribuyentes, responsables solidarios y demás obligados, las declaraciones correspondientes a los conceptos de ingresos coordinados, a fin de comprobar el cumplimiento de sus obligaciones fiscales;
-
-XI. Requerir a los contribuyentes, responsables solidarios y a terceros con ellos relacionados, para que exhiban o proporcionen la contabilidad, declaraciones y avisos, documentos e informes, así como papeles de trabajo; recabar de los servidores públicos y de los fedatarios los informes y datos que tengan con motivo de sus funcione, para proceder a su revisión a fin de comprobar el cumplimiento de las obligaciones, así como autorizar o negar prorrogas para su presentación, Tratándose de las revisiones previstas en esta fracción; emitir los oficios de observaciones, el de conclusión de la revisión y en su caso el de prórroga de la revisión:
-
-XII. Habilitar días y horas inhábiles para el ejercicio de sus atribuciones;
-
-XIII. Comunicar al Tesorero y a las demás áreas que legalmente lo soliciten, los resultados obtenidos en la revisión de la documentación e información, en las oficinas de las autoridades, así como de las visitas domiciliarias de auditoría, inspección y de verificación;
-
-XIV. Dar a conocer a los contribuyentes, responsables solidarios y demás obligados, los hechos u omisiones imputables a estos, conocidos con motivo de la revisión de dictámenes, de la revisión de la documentación e información en las oficinas de las autoridades o de las visitas domiciliarias, inspecciones y verificaciones que les practiquen, y hacer constar dichos hechos u omisiones en el oficio de observaciones o en la última acta parcial que se levante;
-
-XV. Recibir las promociones y documentos que presenten los contribuyentes, responsables solidarios y demás obligados, así como las pruebas que ofrezcan, respecto de los hechos consignados en las actas de visita domiciliaria, tomando en cuenta las mismas, en su caso, al practicar la liquidación de créditos fiscales;
-
-XVI. Determinar la existencia de créditos fiscales, precisar las bases para su liquidación y fijarlos en cantidad liquida, imponer las sanciones fiscales que correspondan, respecto de los ingresos municipales, así como de los coordinados y demás accesorios, a cargo de los contribuyentes obligados y responsables solidarios;
-
-XVII. Verificar que los contribuyentes, responsables solidarios y terceros con ellos relacionados, cumplan con la obligación de observar los medios de control previstos en el Código y las leyes fiscales de la competencia del Municipio;
-
-XVIII. Investigar las denuncias de infracciones fiscales y tratándose de delitos fiscales, reunir los elementos necesarios para que la autoridad competente formule la denuncia o querella que corresponda;
-
-XIX. Conocer y resolver sobre las solicitudes de los contribuyentes, respecto a la expedición de certificaciones y demás vinculadas al ejercicio de sus atribuciones;
-
-XX. Expedir a solicitud del interesado o de alguna autoridad, previo el pago de los derechos cuando correspondan, la constancia o certificación de documentos relativos a los asuntos que se tramiten en el área de su competencia;
-
-XXI. Certificar documentación que se formule con motivo de las facultades de fiscalización;
-
-XXII. Remitir al Tesorero las solicitudes que presenten los contribuyentes para declarar la caducidad de las facultades de las autoridades fiscales; para determinar contribuciones omitidas y sus accesorios; para imponer sanciones a dichas disposiciones, salvo que se haga valer como excepción, en cuyo caso se remitirá a la Dirección Jurídica para su resolución;
-
-XXIII. Remitir al Tesorero las solicitudes que presenten los contribuyentes para declarar la prescripción de los créditos fiscales, salvo que se haga valer como excepción, en cuyo caso se remitirá a la Dirección Jurídica para su resolución, y
-
-XXIV. Las demás que se establezcan en el Código, la ley, reglamentos, acuerdos, decretos, convenios y sus anexos y las que le confiera el Ayuntamiento, el Presidente o el Tesorero.
-
-La Dirección de Registro y Fiscalización, estará adscrita al Tesorero y a cargo de un Titular, auxiliado por las áreas administrativas y demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas presupuestales respectivas.
+(DEROGADO, P.O. 24 DE FEBRERO DE 2006)
 
 Competencia del Jefe de la Oficina Jurídica.
 
@@ -694,6 +890,112 @@ XII. En general atender o auxiliar en los asuntos de naturaleza Jurídica de la 
 XIII. Las demás que se establezcan en el Código, la ley, reglamentos, acuerdos, decretos, convenios y sus anexos y las que le confiera el Ayuntamiento, el Presidente o el Tesorero.
 
 La Jefatura de la Oficina Jurídica, esta adscrita al Tesorero y a cargo de un Titular, auxiliado por las áreas administrativas y los demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas presupuestales respectivas.
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+Competencia de la Dirección de Egresos.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2006)</small>
+
+Artículo 28 bis 1.- Es competencia del Director de Egresos:
+
+I. Participar en la elaboración del Presupuesto de Egresos.
+
+II. Vigilar el correcto ejercicio del presupuesto de todas las dependencias de la Administración Pública Municipal.
+
+III. Evaluar y sistematizar el presupuesto anual de egresos del Municipio.
+
+IV. Analizar los estados financieros y elaboración de reportes financieros para la Tesorería.
+
+V. Elaborar y mantener actualizado un sistema de información de las finanzas municipales, cubriendo todas las etapas del proceso de ingreso-gasto.
+
+VI. Cancelar fianzas, una vez que la dependencia ejecutara emita la instrucción correspondiente.
+
+VII. Programar y calendarizar las erogaciones de acuerdo a las prioridades y liquidez del erario municipal.
+
+VIII. Realizar corte diario de caja y supervisar los depósitos efectuados a las cuentas bancarias.
+
+IX. Programar inversiones financieras a corto o a mediano plazo, asegurando el mejor rendimiento y menor riesgo en ellas.
+
+X. Registrar y controlar las inversiones bancarias, así como los intereses generados por las mismas.
+
+XI. Analizar con el Tesorero las variaciones importantes en las políticas presupuestales a fin de realizar las medidas correctivas pertinentes.
+
+XII. Coordinar los pagos correspondientes a la deuda pública y a cualquiera otra, de acuerdo a lo establecido en cada contrato.
+
+XIII. Controlar y reponer los fondos fijos autorizados a otras Direcciones de la Tesorería o a otras dependencias de acuerdo a los lineamientos establecidos para su manejo.
+
+XIV. Equilibrar y comprobar los presupuestos deficitarios.
+
+XV. Auxiliar al Tesorero en el control y debida aplicación de los ingresos recibidos por concepto de aportaciones y participaciones federales.
+
+XVI. Orientar a las dependencias y entidades de la Administración Pública Municipal, para que en la ejecución de sus programas y acciones concurran al cumplimiento de la normatividad presupuestal podrá Ejercicio del Gasto Público.
+
+XVII. Las demás que se establezcan en el Código, la Ley, Reglamentos, Acuerdos. Decretos, Convenios y sus anexos y las que le confiera el Ayuntamiento, el Presidente o el Tesorero.
+
+La Dirección de Egresos, estará adscrita al Tesorero y a cargo de un Titular, auxiliado por los servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas presupuestales respectivas.
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+Competencia de la Dirección de Contabilidad.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2006)</small>
+
+Artículo 28 bis 2.- Es competencia del Director de Contabilidad:
+
+I. Llevar la contabilidad que se derive de la aplicación de la Ley de Ingresos y del ejercicio del Presupuesto de Egresos.
+
+II. Organizar la contabilidad del Municipio de conformidad con el Código Fiscal y Presupuestario para el Municipio de Puebla.
+
+III. Registrar las operaciones de ingresos, egresos y movimientos de fondos públicos.
+
+IV. Conciliar los registros de las nominas.
+
+V. Determinar los ingresos obtenidos por el Ayuntamiento.
+
+VI. Registrar los ingresos y los depósitos.
+
+VII. Analizar los saldos de las cuentas que arrojan la balanza de comprobación.
+
+VIII. Vigilar y dar seguimiento a lo ejercido en las obras ejecutadas con recursos federales; así como realizar la comprobación de los recursos ante el Órgano de Fiscalización Superior.
+
+IX. Glosar con base en las leyes y en la normatividad para el ejercicio del gasto, los comprobantes de los egresos de las dependencias de la Administración Pública Municipal y solicitar a las dependencias la debida comprobación.
+
+X. Auxiliar al Tesorero en la solvencia de las observaciones y pliegos que le remite el Órgano de Fiscalización Superior.
+
+XI. Las demás que se establezcan en el Código, la Ley, Reglamentos, Acuerdos. Decretos, Convenios y sus anexos y las que le confiera el Ayuntamiento, el Presidente o el Tesorero.
+
+La Dirección de Contabilidad, estará adscrita a la Tesorería a cargo de un Titular, auxiliado por los servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas presupuestales respectivas.
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+Competencia de la Dirección de Financiamiento.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2006)</small>
+
+Artículo 28 bis 3.- Es competencia del Director de Financiamiento:
+
+I. Coordinar los trabajos para la definición de esquemas y estrategias para el Financiamiento de proyectos y programas municipales.
+
+II. Desarrollar instrumentos de captación de recursos financieros para el fortalecimiento de la Hacienda Municipal.
+
+III. Identificar y analizar fuentes de financiamiento público y privado.
+
+IV. Participar en la elaboración y estudio de programas de inversión que impulsen la participación comunitaria.
+
+V. Elaborar y diseñar las estrategias de financiamiento crediticio.
+
+VI. Participar en la creación y operación de los fideicomisos en que el Municipio sea fideicomitente.
+
+VII. Realizar el estudio a programas de apoyo financiero, programas que impliquen transferencias, subsidios, incentivos o reasignaciones a los municipios de recursos distintos de los derivados de los convenios de coordinación fiscal, así como las opciones para la obtención de ingresos de capital, y las demás fuentes de ingresos del erario municipal.
+
+VIII. Llevar a cabo el registro de proyectos de inversión.
+
+IX. Realizar el análisis costo-beneficio de los proyectos de inversión.
+
+X. Las demás que se establezcan en el Código, la Ley, Reglamentos, Acuerdos, Decretos, Convenios y sus anexos y las que le confiera el Ayuntamiento, el Presidente o el Tesorero.
+
+La Dirección de Financiamiento, estará adscrita a la Tesorería y a cargo de un Titular, auxiliado por los servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas presupuestales respectivas.
 
 Naturaleza de la Dirección Jurídica.
 
@@ -737,9 +1039,11 @@ El Tesorero será suplido en sus ausencias por el Director que ejerza la compete
 
 Suplencia de Directores de Ingresos y Fiscalización en ausencias.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2006)</small>
+
 ###### Artículo 32.
 
-Los Directores de Ingresos y fiscalización, serán suplidos en sus ausencias por los titulares de las unidades administrativas adscritas a la Dirección de que se trate, o por el servidor público que designe el Presidente o el Tesorero por acuerdo del Presidente.
+Los Directores de Ingresos, Catastro, Egresos, Contabilidad y Financiamiento serán suplidos en sus ausencias por los Titulares de las Unidades Administrativas adscritas a la Dirección de que se trate, o por el servidor público que designe el Presidente o el Tesorero por acuerdo del Presidente.
 
 Suplencia en ausencias de los Jefes de Departamento y Titulares de Oficinas Receptoras de pago.
 
@@ -925,19 +1229,29 @@ XVII. Los papeles de trabajo deberán ser firmados por el visitador, los testigo
 
 XVIII. El acta circunstanciada de la visita se debe levantar precisamente en el lugar visitado.
 
-Requisitos que debe contener la credencial oficial que contenga identificación de visitadores.
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE FEBRERO DE 2006)</small>
+
+Requisitos que debe Observar la Credencial Oficial que Contenga Identificación de Visitadores, Inspectores, Interventores y Notificadores.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 53.
 
-La credencial oficial que contenga la identificación de los visitadores deberá satisfacer los siguientes requisitos:
+La credencial oficial que contenga la identificación de los visitadores, inspectores, interventores y notificadores deberá satisfacer los siguientes requisitos:
 
-I. Será expedida por la Dirección de Recursos Humanos del Ayuntamiento;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
 
-II. Contendrá la fotografía, el nombre y la firma del visitador;
+I. Será expedida por el Tesorero;
+
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+II. Contendrá la fotografía, el nombre y la firma del visitador, inspector, interventor y notificador;
 
 III. Ostentará un número de credencial;
 
-IV. Señalará el cargo que desempeña el visitador, y
+REFORMADA, P.O. 24 DE FEBRERO DE 2006)
+
+IV. Señalara el cargo que desempeña el visitador, inspector, interventor y notificador;
 
 V. Indicara la vigencia del cargo y de la credencial.
 
@@ -1360,3 +1674,13 @@ Atentamente.- "Sufragio Efectivo. No Reelección".- H. Puebla de Z., a 28 de mar
 Al pie un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos Mexicanos.- H. Ayuntamiento del Municipio de Puebla.- Periodo 2005-2008.- Secretaria General.
 
 El suscrito IGNACIO MIER VELASCO Secretario General del Honorable Ayuntamiento del Municipio de Puebla, en uso de las facultades que me confiere el artículo 138 fracción VII, de la Ley Orgánica Municipal, CERTIFICA: Que las presentes copias fotostáticas, compuestas de cuarenta y dos fojas útiles por su frente, son copia fiel de sus originales, a las que me remito, tengo a la vista y cotejé, mismas que obran en el archivo de la Dirección Jurídica de la Secretaria General de este Honorable Ayuntamiento, expidiéndose la presente en la Heroica Puebla de Zaragoza, a los seis días del mes de abril del año dos mil cinco para los efectos legales a que haya lugar.- El Secretario General del H. Ayuntamiento del Municipio de Puebla.- IGNACIO MIER VELASCO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 24 DE FEBRERO DE 2006.
+
+PRIMERO.- Se derogan las disposiciones que se opongan a la presente reforma.
+
+SEGUNDO.- La Dirección de Catastro, a efecto de determinar la zonificación de todo conjunto habitacional nuevo que se encuentre construido y ubicado en zonas con clasificación I-1 a II-1 y que no aparezca en la Tabla de Valores Unitarios de Suelo Urbano para el año 2006 publicada en el Periódico Oficial del Estado, lo valuará como zona II-2.
+
+TERCERO.- Las credenciales oficiales de visitadores, inspectores e interventores, así como su refrendo, expedidas por la Dirección de Recursos Humanos del Ayuntamiento, surtirán sus efectos legales conforme al presente Reglamento. Una vez que finalice su vigencia se librara una nueva de acuerdo a las disposiciones del presente ordenamiento.
