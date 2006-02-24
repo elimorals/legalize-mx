@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interno-del-archivo-municipal-16603"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-06-16"
-last_updated: "2006-02-10"
+last_updated: "2006-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16603&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,35 +21,81 @@ state: "QUE"
 ---
 # REGLAMENTO INTERNO DEL ARCHIVO MUNICIPAL
 
-REGLAMENTO INTERNO DEL ARCHIVO MUNICIPAL
+ACUERDO DEL CONSEJO GENERAL POR EL CUAL SE EMITEN LOS LINEAMIENTOS PARA LA INSCRIPCIÓN EN EL PADRÓN DE REGISTRO VOLUNTARIO DE PERFILES DE REDES SOCIALES DE MUJERES QUE OCUPAN UN CARGO PÚBLICO FEDERAL DE ELECCIÓN POPULAR EN CUMPLIMIENTO A LO MANDATADO EN LA SENTENCIA SRE-PSC-47/2023
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2006.
+TEXTO ORIGINAL.
 
-Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 16 de junio de 2000.
+Acuerdo publicado en el Diario Oficial de la Federación, el jueves 15 de agosto de 2024.
 
-GOBIERNO MUNICIPAL
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Instituto Nacional Electoral.- Consejo General.- INE/CG2035/2024.
 
-FRANCISCO GARRIDO PATRÓN, Presidente Municipal de Querétaro, en ejercicio de las facultades que me confieren los artículos 169 de la Ley Orgánica Municipal del Estado de Querétaro y 57 del Código Municipal de Querétaro, y
+ACUERDO DEL CONSEJO GENERAL POR EL CUAL SE EMITEN LOS LINEAMIENTOS PARA LA INSCRIPCIÓN EN EL PADRÓN DE REGISTRO VOLUNTARIO DE PERFILES DE REDES SOCIALES DE MUJERES QUE OCUPAN UN CARGO PÚBLICO FEDERAL DE ELECCIÓN POPULAR EN CUMPLIMIENTO A LO MANDATADO EN LA SENTENCIA SRE-PSC-47/2023
 
-CONSIDERANDO:
+GLOSARIO
 
-El Archivo Municipal es la dependencia del H. Ayuntamiento de Querétaro encargada de resguardar, rescatar, recopilar y difundir el acervo histórico y administrativo que se genera durante las actividades diarias de las diferentes dependencias que conforman la Administración Pública Municipal.
+Consejo General/CG Consejo General del Instituto Nacional Electoral
 
-En Sesión Ordinaria de Cabildo de fecha 13 de febrero de 1995, el H. Ayuntamiento de Querétaro aprobó el Reglamento Interno del Archivo Municipal, el cual fue publicado en la Gaceta Municipal No. 3, de fecha 30 de marzo de 1995 y en fecha posterior pasó a formar parte del Código Municipal como el Apartado Séptimo del Libro Tercero.
+Constitución/CPEUM Constitución Política de los Estados Unidos Mexicano (sic)
 
-El propósito fundamental del Reglamento citado fue el de establecer las bases para la integración, organización, funcionamiento, constitución, clasificación y regularización del acervo existente y lograr, con ello, conservar y preservar los documentos que están bajo la custodia y administración del Archivo Municipal.
+INE/Instituto Instituto Nacional Electoral
 
-El Archivo Municipal ha servido de paradigma, apoyando y auxiliando a las áreas sustantivas y a los investigadores en sus consultas, toda vez que el acervo del mismo ha sido fuente primaria de la investigación y está destinado a servir de apoyo documental para nuestra historia local.
+LGIPE Ley General de Instituciones y Procedimientos Electorales
 
-Los integrantes de la Comisión de Educación y Cultura, al revisar el Capítulo respectivo del Código Municipal y el Reglamento Interno del Archivo Municipal, hemos concluido que a pesar de cumplir con las expectativas del momento, en algunos de sus Capítulos dejan sin fuerza legal al Archivo Municipal.
+Lineamientos Lineamientos para la Inscripción en el Padrón de Registro Voluntario de Perfiles de Redes Sociales de Mujeres que ocupan un cargo público de elección popular
 
-En consideración de lo antes descrito, creemos conveniente y necesario en que de manera tácita y formal, el Reglamento llene las expectativas para las cuales fue creado, para que de esta forma se logre tener un mejor control de los documentos que conforman el acervo del Archivo Municipal y, por ende, se asegure la supervivencia del mismo. El reto es, pues, conservar para la posteridad los documentos administrativos e históricos que dan vida legal al Ayuntamiento de Querétaro, y de entre los que destacan, principal pero no exclusivamente, las Actas levantadas con motivo de las Sesiones de Cabildo celebradas por el H. Ayuntamiento de Querétaro.
+UTCE Unidad Técnica de lo Contencioso Electoral
 
-Las normas propuestas en este Reglamento obedecen a la necesidad de salvaguardar los intereses de todos los habitantes del Municipio de Querétaro y de garantizar la conservación de los documentos que en lo futuro servirán a las generaciones siguientes como fuente de información y de conocimiento de nuestro actuar.
+ANTECEDENTES
 
-Por lo anteriormente fundado y motivado, y para los efectos del artículo 172 de la Ley Orgánica Municipal, la Comisión de Educación y Cultura tiene a bien someter a consideración del H. Ayuntamiento, para su aprobación, la siguiente Iniciativa de
+[…]
 
-REGLAMENTO INTERNO DEL ARCHIVO MUNICIPAL
+CONSIDERACIONES
+
+[…]
+
+Debido a los antecedentes y consideraciones anteriores, este Consejo General del Instituto Nacional Electoral emite el siguiente
+
+ACUERDO
+
+PRIMERO. Se aprueban los Lineamientos para la inscripción en el Padrón de registro voluntario de perfiles de redes sociales de mujeres que ocupan un cargo público federal de elección popular, de conformidad al anexo único que es parte integrante del presente Acuerdo.
+
+SEGUNDO. El presente acuerdo y los Lineamientos entrarán en vigor a partir del 1 de septiembre de 2024.
+
+TERCERO. Se instruye a la Unidad Técnica de lo Contencioso Electoral y a la Unidad Técnica de Servicios Informáticos llevar las acciones conducentes para la instauración, instrumentación, operación, funcionamiento y preservación del Padrón de registro voluntario de perfiles de redes sociales de mujeres que ocupan un cargo público federal de elección popular, en los términos de los propios lineamientos.
+
+CUARTO. En tanto la UTSI crea el sistema informático para el padrón de registro voluntario de perfiles de redes sociales de mujeres que ocupan un cargo público federal de elección popular, el INE, través (sic) de la UTCE, integrará el padrón, en los formatos que garanticen la integridad, actualización y exactitud de la información, conforme a lo previsto en los presentes lineamientos, salvaguardando los datos personales de las mujeres que ocupan un cargo público federal de elección popular.
+
+Para efectos de lo anterior, la UTCE deberá elaborar el formato respectivo.
+
+Una vez que se cuente con el sistema informático que soporte el padrón, la UTCE deberá migrar la información correspondiente. Los registros que deberán migrarse al sistema informático, una vez que este entre en operación, serán los que se hayan generado a la entrada en vigor de los presentes lineamientos, de conformidad con lo dispuesto en el artículo primero transitorio.
+
+QUINTO. La UTSI deberá emitir el manual de operación de la herramienta tecnológica que soporte el padrón.
+
+SEXTO. Se instruye a la Secretaría Ejecutiva del Instituto lleve a cabo las acciones necesarias para la publicación del presente Acuerdo en el Diario Oficial de la Federación.
+
+SÉPTIMO. Publíquense los Lineamientos para la inscripción en el Padrón de registro voluntario de perfiles de redes sociales de mujeres que ocupan un cargo público federal de elección popular, en el portal NormaINE, así como en el portal electrónico del Instituto Nacional Electoral.
+
+OCTAVO. Se instruye a la Dirección Jurídica, a fin de informar del cumplimiento a la Sala Regional Especializada del Tribunal Electoral del Poder Judicial de la Federación.
+
+El presente Acuerdo fue aprobado en lo general en sesión ordinaria del Consejo General celebrada el 31 de julio de 2024, por votación unánime de las y los Consejeros Electorales, Maestro Arturo Castillo Loza, Norma Irene De La Cruz Magaña, Doctor Uuc-kib Espadas Ancona, Maestro José Martín Fernando Faz Mora, Carla Astrid Humphrey Jordan, Maestra Rita Bell López Vences, Maestro Jorge Montaño Ventura, Maestra Dania Paola Ravel Cuevas, Maestro Jaime Rivera Velázquez, Maestra Beatriz Claudia Zavala Pérez y de la Consejera Presidenta, Licenciada Guadalupe Taddei Zavala.
+
+Se aprobó en lo particular la ampliación en la redacción de los derechos a mujeres que ocupen cargos públicos de elección popular, por votación unánime de las y los Consejeros Electorales, Maestro Arturo Castillo Loza, Norma Irene De La Cruz Magaña, Doctor Uuc-kib Espadas Ancona, Maestro José Martín Fernando Faz Mora, Carla Astrid Humphrey Jordan, Maestra Rita Bell López Vences, Maestro Jorge Montaño Ventura, Maestra Dania Paola Ravel Cuevas, Maestro Jaime Rivera Velázquez, Maestra Beatriz Claudia Zavala Pérez y de la Consejera Presidenta, Licenciada Guadalupe Taddei Zavala.
+
+Se aprobó en lo particular el artículo 13 de los Lineamientos para la inscripción en el padrón de registro voluntario de perfiles de redes sociales de mujeres que ocupan un cargo público de elección popular, en los términos del Proyecto de Acuerdo originalmente circulado, por nueve votos a favor de las y los Consejeros Electorales, Maestro Arturo Castillo Loza, Doctor Uuc-kib Espadas Ancona, Maestro José Martín Fernando Faz Mora, Carla Astrid Humphrey Jordan, Maestro Jorge Montaño Ventura, Maestra Dania Paola Ravel Cuevas, Maestro Jaime Rivera Velázquez, Maestra Beatriz Claudia Zavala Pérez y de la Consejera Presidenta, Licenciada Guadalupe Taddei Zavala y, dos votos en contra de las Consejeras Electorales, Norma Irene De La Cruz Magaña y Maestra Rita Bell López Vences.
+
+La Consejera Presidenta del Consejo General, Lic. Guadalupe Taddei Zavala.- Rúbrica.- De conformidad con lo dispuesto por los artículos 41, párrafo 2 y 44, párrafo 1, inciso d), de la Ley General de Instituciones y Procedimientos Electorales, así como 15, párrafo 6, del Reglamento de Sesiones del Consejo General, en Funciones de Secretario del Consejo General, Lic. Roberto Carlos Félix López.- Rúbrica.
+
+El Acuerdo y el anexo pueden ser consultados en las siguientes direcciones electrónicas:
+
+Página INE:
+
+https://www.ine.mx/sesion-ordinaria-del-consejo-general-31-de-julio-de-2024/
+
+Página DOF
+
+www.dof.gob.mx/2024/INE/CGord202407_31_ap_7.pdf
+
+> <small>[N. DE E. VÉASE INE/CG2035/2024 ACUERDO DEL CONSEJO GENERAL POR EL CUAL SE EMITEN LOS LINEAMIENTOS PARA LA INSCRIPCIÓN EN EL PADRÓN DE REGISTRO VOLUNTARIO DE PERFILES DE REDES SOCIALES DE MUJERES QUE OCUPAN UN CARGO PÚBLICO FEDERAL DE ELECCIÓN POPULAR EN CUMPLIMIENTO A LO MANDATADO EN LA SENTENCIA SRE-PSC-47/2023 EN EL D.O.F. DE 15 DE AGOSTO DE 2024, PÁGINAS DE LA 11 A LA 35.]</small>
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
