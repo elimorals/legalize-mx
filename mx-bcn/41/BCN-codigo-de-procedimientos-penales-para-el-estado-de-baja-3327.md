@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-3327"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2006-02-17"
+last_updated: "2006-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2006.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1571,17 +1571,37 @@ Deber de examinar los testigos.- El Juzgador debe de examinar a los testigos pre
 
 Interrogatorio de testigos.- El Juzgador no podrá dejar de interrogar durante la instrucción a los testigos que residan dentro de su jurisdicción y cuya declaración soliciten las partes. También, mandará interrogar, según corresponda, a los testigos que residan fuera de ésta y sin que ésto estorbe la marcha de la instrucción ni la facultad del Juzgador de darla por terminada.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE FEBRERO DE 2006)</small>
+
 ###### Artículo 186.
 
-Personas que no están obligadas a declarar.- No tienen obligación de declarar:
+Personas que no están obligadas a declarar:
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2006)</small>
+
+No estarán obligadas a declarar sobre la información que reciban, conozcan o tengan en su poder:
 
 I.- Los ascendientes o descendientes consanguíneos o por adopción;
 
-II.- El cónyuge, concubina y parientes colaterales por consanguinidad hasta el cuarto grado y por afinidad hasta el segundo, y
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
 
-III.- Los que estén ligados al inculpado por amor, respeto, gratitud o estrecha amistad.
+II.- El cónyuge, concubina y parientes colaterales por consanguinidad hasta el cuarto grado y por afinidad hasta el segundo;
 
-Si las personas mencionadas, con excepción de quienes deben guardar secreto profesional, tuvieren voluntad de declarar, se hará constar esta circunstancia y se recibirá su testimonio.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+III.- Los que estén ligados al inculpado por amor, respeto, gratitud o estrecha amistad, y;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+IV.- Los periodistas, reporteros o personal que preste sus servicios dentro de alguna empresa o medio de comunicación escrito o electrónico, respecto de los nombres o datos de identificación de las personas que con motivo del ejercicio de su actividad, les proporcionen como información de carácter reservada, en la cual sustenten cualquier publicación o comunicado.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2006)</small>
+
+En caso de que alguna o algunas personas comprendidas en las fracciones anteriores manifiesten su deseo de declarar y cuenten con el consentimiento expreso de quien les confió la información, se hará constar dicha circunstancia y se recibirá su declaración o testimonio.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2006)</small>
+
+Al servidor público que viole lo dispuesto en este artículo, se le aplicará la pena a que se refiere el artículo 292 del Código Penal para el Estado de Baja California.
 
 ###### Artículo 187.
 
@@ -1771,7 +1791,7 @@ Confesión.- La autoridad competente deberá valorar la confesión conforme los 
 
 > <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
-I.- Que esté acredito por otros medios probatorios el cuerpo del delito y siempre que no se trate de elementos subjetivos del tipo;
+I.- Que esté acreditado por otros medios probatorios el cuerpo del delito y siempre que no se trate de elementos subjetivos del tipo;
 
 > <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
@@ -3498,3 +3518,7 @@ PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente al de su p
 SEGUNDO.- Se derogan todas aquellas disposiciones contrarias a las presentes reformas.
 
 TERCERO.- Esta nueva legislación podrá aplicarse a hechos surgidos bajo la vigencia de la reforma anterior, en lo que beneficie al responsable del delito, tal y como lo establece el artículo 8 del Código Penal del Estado de Baja California.
+
+P.O. 24 DE FEBRERO DE 2006.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
