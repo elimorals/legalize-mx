@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interno-del-archivo-municipal-16603"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-06-16"
-last_updated: "2006-02-10"
+last_updated: "2006-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16603&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 REGLAMENTO INTERNO DEL ARCHIVO MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 16 de junio de 2000.
 
@@ -211,7 +211,11 @@ III. Los Regidores Integrantes de la Comisión de Educación y Cultura, como Voc
 
 IV. Titular de la Dependencia Generadora, como Vocal;
 
-V. Secretario de la Contraloría Municipal, como Vocal.
+> <small>N. DE E. DE CONFORMIDAD CON LAS MODIFICACIONES APROBADAS Y PUBLICADAS, SE SEÑALA QUE SE REFORMA EL ARTICULO 17; SIN EMBARGO, DEL CONTEXTO SE DESPRENDE QUE EL CAMBIO CITADO CORRESPONDE AL PRESENTE ARTICULO.</small>
+
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
+
+V. El Auditor Municipal de Fiscalización, como Vocal.
 
 ###### Artículo 15.
 
@@ -318,5 +322,13 @@ P.O. 10 DE FEBRERO DE 2006.
 PRIMERO. Publíquese el presente acuerdo en la Gaceta Municipal y en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
 
 SEGUNDO. La presente reforma entrará en vigor el día siguiente al de su publicación en los medios de difusión precisados en el transitorio anterior.
+
+TERCERO. Notifíquese a los titulares de las Dependencias, Organismos y Unidades Municipales, que conforman la presente Administración.
+
+P.O. 24 DE FEBRERO DE 2006.
+
+PRIMERO. Publíquese en la Gaceta Municipal y en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO. La presente reforma entrara en vigor el día siguiente al de su publicación en los medios de difusión precisados en el transitorio anterior.
 
 TERCERO. Notifíquese a los titulares de las Dependencias, Organismos y Unidades Municipales, que conforman la presente Administración.
