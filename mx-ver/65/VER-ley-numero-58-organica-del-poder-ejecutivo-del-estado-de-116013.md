@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2006-01-13"
+last_updated: "2006-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE ENERO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE FEBRERO DE 2006.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
@@ -1397,6 +1397,10 @@ XIII. Promover, organizar y participar en conferencias, convenciones, encuentros
 
 XIV. Coordinar y ejecutar las políticas y acciones que corresponden al Gobierno del Estado en relación al Seguro Popular.
 
+> <small>(ADICIONADA, G.O. 24 DE FEBRERO DE 2006)</small>
+
+XV. Establecer las normas para orientar los servicios de asistencia social en materia de salud, que presten los sectores público, social y privado y proveer su cumplimiento.
+
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 13 DE ENERO DE 2006)</small>
 
 De la Secretaría de Turismo y Cultura
@@ -1473,15 +1477,15 @@ XXIX. Incentivar, apoyar y coadyuvar con las autoridades federales de la materia
 
 XXX. Promover y difundir los recursos naturales, el patrimonio histórico y las manifestaciones culturales y artísticas en los medios masivos de comunicación y propiciar su uso como escenarios de eventos nacionales e internacionales, particularmente en relación con la industria fílmica, la Radio y la Televisión;
 
-XXXI. Realizar acciones de coordinación, apoyo técnico y asesoría para dar seguimiento a las prioridades gubernamentales y a los acuerdos e instrucciones del titular del Poder Ejecutivo en lo relacionado a la información pública, de conformidad con la ley de la materia;
+XXXI. (DEROGADA, G.O. 24 DE FEBRERO DE 2006)
 
-XXXII. Coordinar la realización de consultas ciudadanas que coadyuven a la formulación de planes y programas estatales;
+XXXII. (DEROGADA, G.O. 24 DE FEBRERO DE 2006)
 
-XXXIII. Hacer acopio y compilar los reportes y documentos de las diversas dependencias y entidades de la Administración Pública Estatal, para la preparación del Informe de Gobierno del Ejecutivo Estatal;
+XXXIII. (DEROGADA, G.O. 24 DE FEBRERO DE 2006)
 
-XXXIV. Fungir como Secretario Técnico de los Gabinetes legal, ampliado y especializados cuidando de proporcionar al Ejecutivo Estatal la información que requiera respecto al funcionamiento de los mismos;
+XXXIV. (DEROGADA, G.O. 24 DE FEBRERO DE 2006)
 
-XXXV. Asumir la representación que le encomiende el Titular del Poder Ejecutivo en los comités y grupos de trabajo internos y externos relacionados con la ejecución y seguimiento de programas y de los mecanismos implementados para la transparencia y el acceso a la información pública, de conformidad con la ley de la materia;
+XXXV. (DEROGADA, G.O. 24 DE FEBRERO DE 2006)
 
 XXXVI. Elaborar y coordinar de manera conjunta con miembros del sector la creación y revisión del Plan Estatal de Turismo alineado al Plan Nacional de Turismo.
 
@@ -1555,7 +1559,7 @@ XXVII. Revisar el desempeño de los servicios administrativos que proporciona el
 
 XXVIII. Supervisar que los recursos financieros otorgados por la Federación dentro de los convenios y programas que se establezcan con el Estado, sean canalizados hacia los objetivos propuestos en los mismos y se apliquen con honestidad y transparencia;
 
-XXIX. Llevar el registro y control de las propiedades inmuebles de la Administración Pública Estatal, así como elaborar y conservar actualizado su inventario general;
+XXIX. (DEROGADA, G.O. 24 DE FEBRERO DE 2006)
 
 XXX. Verificar que los arrendamientos inmobiliarios que celebre la Administración Pública Estatal estén sustentados en dictamen de justipreciación de rentas emitido por autoridad catastral;
 
@@ -2044,3 +2048,11 @@ Artículo segundo. Cuando alguna Unidad Administrativa de las Secretarías estab
 Artículo tercero. Cuando en leyes y ordenamientos diversos se aluda al nombre de una Dependencia cuya denominación haya variado por efecto de estas reformas o adiciones, las atribuciones, deberes y responsabilidades consecuentes, se entenderán conferidas automáticamente a la Dependencia que bajo un nuevo nombre sustituya en sus funciones relativas a la anterior.
 
 Artículo cuarto. La emisión de los reglamentos internos que correspondan a las nuevas dependencias y la adecuación a los reglamentos internos de las dependencias que modifican sus funciones se deberá efectuar en un término de noventa días a partir del inicio de vigencia de la presente reforma.
+
+G.O. 24 DE FEBRERO DE 2006.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 541 QUE ADICIONA Y DEROGA DISPOSICIONES A LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Las Unidades Administrativas de las Secretarías establecidas en el texto anterior a esta Ley, que se trasladen o transfieran a otra Secretaría u oficina dependiente directamente del Ejecutivo Estatal, pasarán a su nueva adscripción con los recursos materiales, humanos y financieros que estén a su cargo.
