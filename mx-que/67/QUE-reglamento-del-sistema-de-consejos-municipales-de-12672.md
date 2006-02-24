@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-del-sistema-de-consejos-municipales-de-12672"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-09-25"
-last_updated: "2004-09-24"
+last_updated: "2006-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12672&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 REGLAMENTO DEL SISTEMA DE CONSEJOS MUNICIPALES DE PARTICIPACION SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 25 de septiembre de 1998.
 
@@ -655,9 +655,9 @@ La Unidad de Control y Vigilancia es un órgano colegiado que dependerá directa
 
 I. Un Contralor Social, propietario y suplente, electos por mayoría de los Vocales de Control y Vigilancia de los Consejos Delegacionales.
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2006)</small>
 
-II. Un Secretario Técnico, que será el Secretario de la Contraloria Municipal; y
+II. Un Secretario Técnico, que será el Auditor Municipal de Fiscalización; y
 
 III. Los Vocales de Control y Vigilancia de los Consejos Delegacionales.
 
@@ -992,3 +992,11 @@ PRIMERO. Publíquese en la Gaceta Municipal y en el Periódico Oficial del Gobie
 SEGUNDO. La presente reforma entrará en vigor el día siguiente al de su publicación en los medios de difusión precisados en el transitorio anterior.
 
 TERCERO. Notifíquese a los titulares de la Secretaría de Desarrollo Sustentable del Municipio de Querétaro, Secretaría de Obras Públicas Municipales y Secretaría de la Contraloría Municipal.
+
+P.O. 24 DE FEBRERO DE 2006.
+
+PRIMERO. Publíquese en la Gaceta Municipal y en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO. La presente reforma entrará en vigor el día siguiente al de su publicación en los medios de difusión precisados en el transitorio anterior.
+
+TERCERO. Notifíquese a los titulares de las Dependencias, Organismos y Unidades Municipales, que conforman la presente Administración.
