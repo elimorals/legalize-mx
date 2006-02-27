@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-secretaria-de-turismo-20059"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-02-26"
-last_updated: "2001-02-26"
+last_updated: "2006-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20059&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE TURISMO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE TURISMO, PUBLICADO EN EL P.O. DE 27 DE FEBRERO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 26 de febrero de 2001.
 
@@ -374,3 +376,17 @@ CUARTO.- Cuando la competencia de alguna Unidad Administrativa establecida con a
 QUINTO.- En tanto se expidan los Manuales que este Reglamento menciona, el Titular de la Secretaría resolverá las cuestiones que conforme a dichos Manuales se deban regular.
 
 Dado en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Pachuca de Soto, Hidalgo a los 7 días del mes de febrero del año 2001.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. DE 27 DE FEBRERO DE 2006.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Turismo, Publicado en el Periódico Oficial del Estado de Hidalgo, el 26 de febrero del año 2001 y se derogan todas las disposiciones legales que se opongan al presente Reglamento.
+
+TERCERO.- Cuando el presente Reglamento confiera atribuciones a unidades administrativas con funciones equivalentes, que se encuentren señaladas en otras disposiciones con distinta denominación, se entenderá que corresponden a las unidades previstas en este Reglamento.
+
+CUARTO.- En tanto entren en vigor las normas reglamentarias de la Secretaría de Contraloría, las menciones que en el presente Reglamento se hagan a dichas normas, se entenderán referidas al Reglamento Interior de la Secretaría de Contraloría, Publicado el siete de junio de dos mil cuatro.
+
+QUINTO.- En tanto se expidan los Manuales de Organización, de Procedimientos y de Servicios al Público, el Secretario estará facultado para resolver lo que dichos Manuales deben regular.
