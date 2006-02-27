@@ -4,7 +4,7 @@ identifier: "PUE-acuerdo-que-crea-el-organismo-de-participacion-ciudadana-46495"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-09-28"
-last_updated: "2005-09-28"
+last_updated: "2006-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 ACUERDO QUE CREA EL ORGANISMO DE PARTICIPACION CIUDADANA DENOMINADO "CONSEJO ESTATAL CIUDADANO POR LA CULTURA DE LEGALIDAD Y TRANSPARENCIA"
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO QUE CREA EL ORGANO DESCONCENTRADO DE LA CONSEJERIA JURIDICA DEL EJECUTIVO ESTATAL DENOMINADO "CONSEJO CIUDADANO POR LA CULTURA DE LA LEGALIDAD" DEL ESTADO DE PUEBLA, PUBLICADO EN EL P.O. DE 27 DE FEBRERO DE 2006., EL PRESENTE ORDENAMIENTO FUE ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Acuerdo publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 28 de septiembre de 2005.
 
@@ -322,3 +324,13 @@ PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los integrantes del "Consejo" celebrarán sesión plenaria de constitución, dentro de los treinta días siguientes a la fecha de publicación de este Acuerdo.
 
 Dado en la sede del Poder Ejecutivo, a los seis días del mes de septiembre de dos mil cinco.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARIN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO JAVIER LÓPEZ ZAVALA.- Rúbrica.- El Consejero Jurídico del Ejecutivo Estatal.- DOCTOR RICARDO VELAZQUEZ CRUZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE FEBRERO DE 2006.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Acuerdo de fecha veintiocho de septiembre de dos mil cinco, expedido por el Titular del Poder Ejecutivo del Estado, a través del cual se establece el Consejo Estatal Ciudadano por la Cultura de Legalidad y Transparencia.
+
+TERCERO.- Los integrantes del Consejo celebrarán sesión plenaria de constitución, dentro de los treinta días siguientes a la fecha de publicación de este Acuerdo.
