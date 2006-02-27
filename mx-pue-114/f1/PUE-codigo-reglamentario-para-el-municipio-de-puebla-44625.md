@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2006-02-17"
+last_updated: "2006-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CODIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -5593,17 +5593,77 @@ Para la apertura y funcionamiento de establecimientos en los que se vendan, enaj
 
 Para el caso de eventos temporales que impliquen el proceso, almacenamiento, enajenación o venta de bebidas alcohólicas en botella abierta o cerrada, a solicitud del interesado y previo pago de los derechos correspondientes, la Tesorería Municipal a través de la Unidad Administrativa que tenga a su cargo la expedición de licencias de funcionamiento, otorgará una licencia provisional.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2006)</small>
+
 ###### Artículo 606.
 
-Las licencias de funcionamiento expedidas a favor de personas físicas o morales, sólo podrán ser transferidas si se encuentran funcionando los establecimientos y cumplen con los requisitos establecidos en el Código Fiscal y Presupuestario para el Municipio de Puebla, así como que la citada transferencia conste ante la Tesorería Municipal.
+Las licencias de funcionamiento expedidas a favor de personas físicas o morales, sólo podrán ser transferidas si se encuentran funcionando los establecimientos y cumplen con los requisitos establecidos en el Código Fiscal y Presupuestario para el Municipio de Puebla y su Reglamento, así como que la citada transferencia conste ante la Tesorería Municipal.
+
+Se hará constar la transferencia a que se refiere el párrafo anterior, ante la Tesorería Municipal, reuniendo el licenciatario los siguientes documentos:
+
+a) Formato de transferencia de propietario expedido por el Departamento de Padrón de Contribuyentes;
+
+b) Licencia de funcionamiento original, expedida por la Tesorería Municipal;
+
+c) Alta de Hacienda del nuevo propietario;
+
+d) Baja de Hacienda del anterior propietario;
+
+e) Identificación oficial de ambos contribuyentes. Para el caso de realizar el trámite a través de un gestor, éste deberá observar lo establecido en el Artículo 38 del Código Fiscal y Presupuestario para el Municipio de Puebla;
+
+f) Acta Constitutiva y Poder Notarial, para personas morales;
+
+g) Acta de Cesión de Derechos ante Notario Público; y
+
+h) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio aplicable.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 607.
 
-Sólo serán refrendadas las licencias de funcionamiento de los establecimientos que se encuentren funcionando o que hayan declarado en tiempo y forma legal, suspensión de actividades ante la Tesorería Municipal.
+Para realizar el trámite de refrendo anual o solicitar la suspensión o baja de la licencia de funcionamiento ante la Tesorería Municipal, los interesados deberán contar con los siguientes documentos:
+
+I. Para el refrendo de las licencias a que se refiere este Capítulo:
+
+a) Formato de Refrendo que será expedido por el Departamento de Padrón de Contribuyentes;
+
+b) Licencia de funcionamiento original, expedida por la Tesorería Municipal;
+
+c) Identificación oficial. Para el caso de realizar el trámite a través de un gestor, éste deberá observar lo establecido en el artículo 38 del Código Fiscal y Presupuestario para el Municipio de Puebla;
+
+d) Acta Constitutiva y Poder Notarial, para personas morales; y
+
+e) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio aplicable.
+
+La autoridad municipal, en un término no mayor a cinco días hábiles, deberá otorgar el tarjetón de refrendo correspondiente siempre que se cumplan con los requisitos señalados en el presente Capítulo.
+
+En caso de no otorgarse el refrendo se hará la devolución del pago de derechos a través de las cajas de la Tesorería Municipal. Los licenciatarios estarán obligados al pago de los gastos de trámite de refrendo, pagando el 2% sobre el importe total por el concepto de refrendo.
+
+Contra el acto que emita la autoridad municipal encargada del otorgamiento del tarjetón de refrendo, el licenciatario podrá interponer el recurso de Inconformidad previsto en la Ley Orgánica Municipal del Estado de Puebla.
+
+II. Para la constancia de suspensión temporal de la licencia:
+
+a) Licencia de funcionamiento original expedida por la Tesorería Municipal; y
+
+b) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio aplicable.
+
+III. Para la baja de la licencia de funcionamiento:
+
+a) Formato de baja de la licencia de funcionamiento:
+
+b) Licencia de funcionamiento original expedida por la Tesorería Municipal;
+
+c) Suspensión de actividades presentada ante la Secretaría de Hacienda y Crédito Público;
+
+d) Identificación oficial o Acta Constitutiva y Poder Notarial. Para el caso de realizar el trámite a través de un gestor, éste deberá observar lo establecido en el artículo 38 del Código Fiscal y Presupuestario para el Municipio de Puebla; y
+
+e) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio aplicable.
+
+Para la reposición del tarjetón de refrendo, constancia de suspensión temporal o constancia de baja de la licencia de funcionamiento, por extravío o destrucción parcial o total, se pagarán los derechos que contemple la Ley de Ingresos del Municipio vigente.
 
 ###### Artículo 608.
 
-Es facultad del Presidente Municipal prohibir la venta, enajenación y consumo de bebidas alcohólicas en días y horas determinados, dando a conocer esta disposición, así como las sanciones en caso de incumplimiento que se aplicarán a quienes infrinjan las mismas, a través de los medios masivos de comunicación, al publico en general, por lo menos con cuarenta y ocho horas de anticipación.
+Es facultad del Presidente Municipal prohibir la venta, enajenación y consumo de bebidas alcohólicas en días y horas determinados, dando a conocer esta disposición, así como las sanciones en caso de incumplimiento que se aplicarán a quienes infrinjan las mismas, a través de los medios masivos de comunicación, al público en general, por lo menos con cuarenta y ocho horas de anticipación.
 
 La prohibición a que se refiere el párrafo anterior, se aplicará invariablemente el día en que se realicen elecciones Constitucionales o de Juntas Auxiliares.
 
@@ -5689,7 +5749,35 @@ VI. En los lugares considerados en los programas de desarrollo urbano sectoriale
 
 VII. Estar incomunicados en su interior con habitaciones o cualquier otro local ajeno al establecimiento;
 
-VIII. Dar aviso a la autoridad municipal de la suspensión de actividades, cambio de propietario, de denominación o domicilio, aumento o disminución de giro del establecimiento mercantil dentro de los treinta días siguientes al trámite realizado ante la Secretaría de Hacienda y Crédito Público.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2006)</small>
+
+VIII. Dar aviso a la Tesorería Municipal de la suspensión de actividades, cambio de propietario, de denominación o domicilio, de giro comercial, aumento o disminución de giro del establecimiento mercantil dentro de los treinta días hábiles siguientes al trámite realizado ante la Secretaría de Hacienda y Crédito Público.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2006)</small>
+
+Para el cambio de domicilio y cambio de giro comercial a que se refiere la fracción anterior, deberán reunirse los siguientes requisitos:
+
+I. Por cambio de domicilio del giro comercial:
+
+a) Formato de cambio de domicilio del giro comercial;
+
+b) Dictamen de compatibilidad de Uso de Suelo expedido por la Unidad Administrativa competente;
+
+c) Comprobante del pago de derechos por el Uso de Suelo; y
+
+d) Licencia de funcionamiento original expedida por la Tesorería Municipal.
+
+II. Por cambio del giro comercial:
+
+a) Formato de cambio del giro comercial;
+
+b) Dictamen de Compatibilidad de Uso de Suelo expedido por la Unidad Administrativa competente;
+
+c) Licencia de funcionamiento original expedida por la Tesorería Municipal;
+
+d) Aviso en Hacienda de cambio de giro comercial; y
+
+e) Pago de derecho (sic) que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio aplicable.
 
 ###### Artículo 613.
 
@@ -5937,13 +6025,69 @@ III. Autorización de uso de suelo, emitida por la Dirección de Desarrollo Urba
 
 La Tesorería Municipal, en un término no mayor de 5 días hábiles deberá otorgar la licencia de funcionamiento correspondiente siempre que se cumplan los requisitos señalados en el artículo anterior.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2006)</small>
+
 ###### Artículo 631.
 
-El titular de la licencia podrá ceder la misma a cualquier persona, obligándose aquel, a dar aviso a la Tesorería Municipal.
+El titular de la licencia a que se refiere este Capítulo, podrá ceder la misma a cualquier persona o cambio de giro comercial, obligándose aquél, a dar aviso a la Tesorería Municipal, bajo los siguientes requisitos:
+
+I. Transferencia o cesión de la licencia de funcionamiento:
+
+a) Formato de transferencia de propietario expedido por el Departamento de Padrón de Contribuyentes;
+
+b) Licencia de funcionamiento original expedida por la Tesorería Municipal;
+
+c) Alta de Hacienda del nuevo propietario;
+
+d) Baja de Hacienda del anterior propietario;
+
+e) Identificación oficial de ambos contribuyentes. Para el caso de realizar el trámite a través de un gestor, éste deberá observar lo establecido en el Artículo 38 del Código Fiscal y Presupuestario para el Municipio de Puebla;
+
+f) Acta constitutiva y Poder Notarial, para personas morales;
+
+g) Acta de Cesión de derechos ante Notario Público; y
+
+h) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio aplicable.
+
+II. Cambio de giro comercial:
+
+a) Formato de cambio del giro comercial;
+
+b) Dictamen de Compatibilidad de Uso de Suelo. expedido por la Unidad Administrativa competente;
+
+c) Licencia de funcionamiento original expedida por la Tesorería Municipal;
+
+d) Aviso en Hacienda de cambio de giro comercial; y
+
+e) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio aplicable.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 632.
 
-Las modificaciones a la licencia de funcionamiento distintas al cambio de propietario o razón social, deberán contar con autorización del uso del suelo y el pago de los derechos que correspondan.
+las modificaciones que haga el titular de la licencia de funcionamiento, respecto al cambio de domicilio o baja del giro comercial, deberán realizarse ante la Tesorería Municipal, para lo cual se acompañará:
+
+I. Para cambio de domicilio del giro comercial:
+
+a) Formato de cambio de domicilio del giro comercial;
+
+b) Dictamen de Compatibilidad de Uso de Suelo expedido por la Unidad Administrativa competente;
+
+c) Comprobante del pago de derechos por el Uso de Suelo; y
+
+d) Licencia de funcionamiento original expedida por la Tesorería Municipal.
+
+II. Para la baja de la licencia de funcionamiento:
+
+a) Formato de baja de la licencia de funcionamiento;
+
+b) Licencia de funcionamiento original expedida por la Tesorería Municipal;
+
+c) Suspensión de actividades presentada ante la Secretaria de Hacienda y Crédito Público;
+
+d) Identificación oficial o Acta Constitutiva y Poder Notarial. Para el caso de realizar el trámite a través de un gestor, ése deberá observar lo establecido en el artículo 38 del Código Fiscal y Presupuestario para el Municipio de Puebla; y
+
+e) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio aplicable.
 
 ###### Artículo 633.
 
@@ -10097,11 +10241,11 @@ I. Fuerzas cortantes.- Para calcular las fuerzas cortantes a diferentes niveles 
 
 Esta expresión no se aplica directamente en edificios apéndices. En este caso de deberá emplear textualmente el párrafo anterior, en combinación con lo especificado en la fracción IV, de este artículo.
 
-Pi = Wihi (i Wi/c Q;c/Q>a)
+Pi= Wihi (i Wi/c Q;c/Q>a)
 
 Donde:
 
-Wi = Peso del nivel ¡
+Wi= Peso del nivel ¡
 
 h¡ = Altura del nivel ¡ sobre el desplante
 
@@ -10137,7 +10281,7 @@ Donde:
 
 Los coeficientes de proporcionalidad a1 y a2 están dados por las siguientes expresiones:
 
-a¡ = (1-r(-q)W¡
+a¡=(1 - r(1-q)W¡
 
 W¡h¡
 
@@ -10145,7 +10289,7 @@ a2 = 1.5r(1-q) W¡
 
 W¡h¡2
 
-Donde q = (Tb/T) r siendo r el exponente que se consigna en la tabla I. En este caso, los coeficientes a1, a2 son tales que la relación V/W es igual a a/Q cuando T es igual a y tiende a 1.25, 1.33 y 1.5 veces a/Q para terreno tipo I, II, III, respectivamente, cuando T tiende a infinitivo.
+Donde q =( Tb / T ) r siendo r el exponente que se consigna en la tabla I. En este caso, los coeficientes a1, a2 son tales que la relación V/W es igual a a/Q cuando T es igual a y tiende a 1.25, 1.33 y 1.5 veces a/Q para terreno tipo I, II, III, respectivamente, cuando T tiende a infinitivo.
 
 III. Péndulos Invertidos.
 
@@ -24558,3 +24702,9 @@ SEGUNDO.- Se crea el Consejo de Mejora Regulatoria del Honorable Ayuntamiento de
 TERCERO.- Se crea el Registro de Trámites y Servicios Municipales del Honorable Ayuntamiento del Municipio de Puebla.
 
 CUARTO.- Se instruye al Consejo de Mejora Regulatoria del Honorable Ayuntamiento del Municipio de Puebla, para que en el ámbito de sus atribuciones, realice en el plazo de cuarenta días hábiles el Programa de Mejora Regulatoria establecido en el cuerpo del Reglamento de la materia.
+
+P.O. 27 DE FEBRERO DE 2006.
+
+PRIMERO.- El presente Acuerdo surtirá sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Acuerdo.
