@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-del-estado-de-baja-california-sur-49474"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-21"
-last_updated: "2006-02-21"
+last_updated: "2006-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 2006.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 21 de febrero de 2006.
 
@@ -335,9 +335,11 @@ VII. Gastos funerarios.
 
 VIII. Viáticos.
 
+> <small>(REFORMADO, B.O. 28 DE FEBRERO DE 2006)</small>
+
 ###### Artículo 36.
 
-Este impuesto se causará, liquidará y pagará a razón del 3% sobre el monto total del los pagos a que se refiere el Artículo anterior, efectuados durante el mes calendario anterior a la fecha en que se realice el pago, aun cuando no exceda del salario mínimo correspondiente a la zona económica.
+Este impuesto se causará, liquidará y pagará a razón del 2.5% sobre el monto total del los pagos a que se refiere el artículo anterior, efectuados durante el mes calendario anterior a la fecha en que se realice el pago, aun cuando no exceda del salario mínimo correspondiente a la zona económica.
 
 ###### Artículo 37.
 
@@ -381,911 +383,233 @@ Para los efectos de la Fracción II de este artículo, se consideran institucion
 
 El 78% del ingreso que genere la recaudación proveniente del Impuesto Sobre Nóminas se destinará a obras de infraestructura social, el que será administrado por un Fideicomiso Público. El 22% restante será distribuido entre los municipios del Estado conforme a los porcentajes previstos en la Ley de Coordinación Fiscal del Estado de Baja California Sur. Los municipios deberán destinar estos recursos a obras de infraestructura social.
 
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, B.O. 28 DE FEBRERO DE 2006)</small>
+
 ### Capítulo Quinto. De los impuestos cedulares a los ingresos de las personas físicas
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LA INTEGRAN, B.O. 28 DE FEBRERO DE 2006)</small>
 
 Disposiciones Generales
 
 ###### Artículo 41.
 
-Están obligadas al pago de los impuestos cedulares establecidos en esta Ley, las personas físicas que en territorio del Estado perciban ingresos en efectivo, en bienes, en servicios, en crédito o de cualquier otro tipo, por la realización de las siguientes actividades:
-
-I. Por la prestación de servicios profesionales realizados dentro del territorio del Estado.
-
-II. Por el otorgamiento del uso o goce temporal de bienes inmuebles, ubicados en el territorio del Estado.
-
-III. Por la enajenación de bienes inmuebles, ubicados en el territorio del Estado.
-
-IV. Por la realización de actividades empresariales, en territorio del Estado.
-
-Para los efectos de esta Ley, se considera como establecimiento permanente cualquier lugar de negocios en el que se desarrollen, parcial o totalmente actividades empresariales entre otros las sucursales, agencias, oficinas, fábricas, talleres, instalaciones, minas, canteras o cualquier lugar de exploración, extracción o explotación de recursos naturales y por base fija, el local que utilicen las personas físicas para la prestación de los servicios profesionales personales independientes.
-
-Los residentes fuera del territorio del Estado de Baja California Sur, que obtengan ingresos provenientes de fuente de riqueza ubicada dentro del territorio del mismo, están obligados al pago de este impuesto, por los ingresos atribuibles a dicha fuente de riqueza.
-
-Para los efectos del párrafo anterior se entiende por fuente de riqueza los bienes muebles e inmuebles con los que se generen los ingresos gravados por este Capítulo.
-
-Para determinar el valor de un bien o de una operación al término de un periodo, se utilizará el factor de actualización que se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes más reciente del periodo, entre el citado índice correspondiente al mes más antiguo de dicho periodo.
-
-A los ingresos por prestación de servicios profesionales independientes.
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
 ###### Artículo 42.
 
-Están obligadas al pago del impuesto establecido en esta Sección, las personas físicas que perciban ingresos derivados de la realización de actividades profesionales dentro del territorio del Estado.
-
-Cuando un contribuyente tenga bases fijas en dos o más entidades federativas, para determinar el impuesto que corresponde al Estado, se deberá considerar la utilidad gravable obtenida por todas las bases fijas que tenga, y el resultado se dividirá entre éstas, en la proporción que representen los ingresos obtenidos por cada base fija, respecto de la totalidad de los ingresos.
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
 ###### Artículo 43.
 
-Para los efectos de esta Sección se consideran ingresos por actividades profesionales los provenientes de la prestación de un servicio personal independiente.
-
-No se considerarán ingresos para los efectos de esta Sección las remuneraciones que deriven de la prestación de servicios personales considerados subordinados bajo la dirección y dependencia de un patrón, ni aquéllos, que de conformidad con la Ley del Impuesto sobre la Renta se asimilen a los salarios.
-
-Se entiende que los ingresos por la prestación de un servicio profesional independiente, los obtiene en su totalidad quien presta el servicio.
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
 ###### Artículo 44.
 
-Para los efectos de esta Sección, se consideran ingresos por la realización de actividades profesionales, además de los señalados en el artículo anterior, los siguientes:
-
-I. Tratándose de condonaciones, quitas o remisiones de deudas relacionadas con la actividad profesional, así como de las deudas antes citadas que se dejen de pagar por prescripción de la acción del acreedor, la diferencia que resulte de restar del principal actualizado por la inflación, el monto de la quita, condonación o remisión, al momento de su liquidación o reestructuración, siempre y cuando la liquidación total sea menor al principal actualizado y se trate de quitas, condonaciones o remisiones otorgadas por instituciones del sistema financiero.
-
-En el caso de condonaciones, quitas o remisiones de deudas otorgadas por personas distintas a instituciones del sistema financiero, se considerará el monto total de dichas condonaciones, quitas o remisiones.
-
-II. Los provenientes de la enajenación de cuentas y documentos por cobrar y de títulos de crédito distintos de las acciones, relacionados con las actividades a que se refiere esta Sección.
-
-III. Las cantidades que se recuperen por seguros, fianzas o responsabilidades a cargo de terceros, en los casos de pérdida de bienes del contribuyente afectos a la actividad profesional.
-
-IV. Las cantidades que se perciban para efectuar gastos por cuenta de terceros, salvo que dichos gastos sean respaldados con documentación comprobatoria a nombre de aquel por cuenta de quien se efectúa el gasto.
-
-V. Los derivados de la enajenación de obras de arte hechas por el contribuyente.
-
-VI. Los intereses cobrados, sin ajuste alguno.
-
-VII. Las devoluciones que se efectúen o los descuentos o bonificaciones que se reciban, siempre que se hubiese efectuado la deducción correspondiente.
-
-VIII. Los obtenidos por agentes de instituciones de crédito, de seguros, de fianzas o de valores, por promotores de valores o de administradoras de fondos para el retiro, por los servicios prestados a dichas instituciones.
-
-IX. Los obtenidos mediante la explotación de una patente aduanal.
-
-X. Los obtenidos por la explotación de obras escritas, fotografías o dibujos, en libros, periódicos, revistas o en las páginas electrónicas vía Internet, o bien la reproducción en serie de grabaciones de obras musicales y en general cualquier otro que derive de la explotación de obras musicales o de la explotación de derechos de autor.
-
-XI. La ganancia derivada de la enajenación de activos afectos a la actividad.
-
-Los ingresos determinados presuntivamente por las autoridades fiscales, en los casos en que proceda conforme a esta Ley, se considerarán ingresos en los términos de esta Sección, cuando en el ejercicio de que se trate el contribuyente perciba preponderantemente ingresos que correspondan a actividades profesionales.
-
-Para los efectos del párrafo anterior, se considera que el contribuyente percibe ingresos preponderantemente por actividades profesionales, cuando dichos ingresos representen en el ejercicio de que se trate o en el anterior, más del 50% de los ingresos totales del contribuyente.
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
 ###### Artículo 45.
 
-Para los efectos de esta Sección, los ingresos se acumularán en el momento en que sean efectivamente percibidos.
-
-Los ingresos se consideran efectivamente percibidos cuando se reciban en efectivo, en bienes o en servicios, aún cuando aquéllos correspondan a anticipas, a depósitos o a cualquier otro concepto, sin importar el nombre con el que se les designe. Igualmente se considera percibido el ingreso cuando contribuyente reciba títulos de crédito emitidos por una persona distinta quien efectúa el pago. Cuando se perciban en cheque, se considera percibido el ingreso en la fecha de cobro del mismo o cuando los contribuyentes transmitan los cheques a un tercero, excepto cuando transmisión sea en procuración. También se entiende que es efectivamente percibido cuando el interés del acreedor quede satisfecho mediante cualquier forma de extinción de las obligaciones.
-
-Tratándose de los ingresos a que se refiere la Fracción I del Artículo 44 esta Ley, éstos se considerarán efectivamente percibidos en la fecha en que se convenga la condonación, la quita o la remisión, o en la que se consume prescripción.
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
 ###### Artículo 46.
 
-Las personas físicas que obtengan ingresos por actividades profesionales podrán efectuar las deducciones siguientes:
-
-I. las devoluciones, descuentos o bonificaciones, cuando se hubiese declarado el ingreso correspondiente.
-
-II. las adquisiciones de mercancías, así como de materias primas, productos semiterminados o terminados, que utilicen para prestar servicios.
-
-No serán deducibles conforme a esta Fracción los activos fijos, los terrenos, las acciones, partes sociales, obligaciones y otros valores mobiliarios, los títulos valor que representen la propiedad de bienes, excepto certificados de depósito de bienes o mercancías, la moneda extranjera, las piezas de oro o de plata que hubieran tenido el carácter de moneda nacional o extranjera, ni las piezas denominadas onzas troy.
-
-III. Los gastos.
-
-IV. Las inversiones.
-
-V. Los intereses pagados derivados de la actividad profesional, sin ajuste alguno, así como los que se generen por capitales tomados en préstamo siempre y cuando dichos capitales hayan sido invertidos en los fines de las actividades a que se refiere esta Sección.
-
-VI. las cuotas pagadas por los patrones al Instituto Mexicano del Seguro Social, incluso cuando éstas sean a cargo de sus trabajadores.
-
-Los contribuyentes a que se refiere esta Sección podrán optar por deducir una cantidad equivalente al 8% de la utilidad que resulte de restar de la totalidad de los ingresos obtenidos a que se refiere esta Sección las deducciones autorizadas a que se refiere la misma, sin que exceda de $25,000.00, en sustitución de la deducción de los gastos menores que se señalen en el Reglamento de la Ley del Impuesto sobre la Renta.
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
 ###### Artículo 47.
 
-Los contribuyentes a que se refiere esta Sección determinarán la deducción por inversiones aplicando lo dispuesto en el Artículo 84 de esta Ley.
-
-Los contribuyentes a que se refiere esta Sección que en el ejercicio inmediato anterior sus ingresos no hubiesen excedido de $840,000.00, en lugar de aplicar lo dispuesto en el párrafo anterior de este artículo, podrán deducir las erogaciones efectivamente realizadas en el ejercicio para la adquisición de activos fijos, gastos o cargos diferidos, hasta los por cientos autorizados en el Artículo 85 de esta Ley. Lo dispuesto en este párrafo no será aplicable tratándose de automóviles, terrenos y construcciones, respecto de los cuales se aplicará lo dispuesto en el primer párrafo de este Artículo.
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
 ###### Artículo 48.
 
-Los contribuyentes a que se refiere esta Sección, efectuarán pagos provisionales a cuenta del impuesto del ejercicio, en las formas oficiales, oficinas o instituciones bancarias, fechas y medios de pago indicados en los Artículos 4 y 5 de esta Ley.
-
-El pago se determinará restando de la totalidad de los ingresos a que se refiere este Capítulo obtenidos en el periodo comprendido del primero al último día del mes al que corresponde el pago, las deducciones autorizadas en esta Sección correspondientes al mismo periodo. Al resultado que se obtenga conforme al párrafo anterior, se le aplicará la tasa del 5%.
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
 ###### Artículo 49.
 
-Los contribuyentes a que se refiere esta Sección, deberán calcular el impuesto del ejercicio a su cargo.
-
-Para estos efectos, la utilidad fiscal del ejercicio se determinará disminuyendo de la totalidad de los ingresos acumulables obtenidos por las actividades profesionales correspondientes al ejercicio de que se trate, las deducciones autorizadas en esta Sección, correspondientes al mismo ejercicio. A la utilidad fiscal así determinada, se le aplicará la tasa señalada en el artículo anterior, pudiendo acreditársele los pagos provisionales efectivamente pagados.
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
 ###### Artículo 50.
 
-Los contribuyentes personas físicas sujetos al pago del impuesto establecido en esta Sección, además de las obligaciones establecidas en otros artículos de esta Ley y en las demás disposiciones fiscales, tendrán las siguientes:
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
-I. Solicitar su inscripción en el Registro Estatal de Contribuyentes.
-
-II. Llevar un libro de ingresos y egresos y de registro de inversiones y deducciones.
-
-III. Expedir y conservar comprobantes que acrediten los ingresos que perciban, mismos que deberán reunir los requisitos establecidos en el Código Fiscal del Estado y Municipios. Los comprobantes que se emitan deberán contener la leyenda "Efectos fiscales al pago".
-
-Cuando la contra prestación que ampare el comprobante se cobre en una sola exhibición, en él se deberá indicar el importe total de la operación. Si la contraprestación se cobró en parcialidades, en el comprobante se deberá indicar además el importe de la parcialidad que se cubre en ese momento.
-
-Cuando el cobro de la contra prestación se haga en parcialidades, por el cobro que de las mismas se haga con posterioridad a la fecha en que se hubiera expedido el comprobante a que se refiere el párrafo anterior, los contribuyentes deberán expedir un comprobante por cada una de esas parcialidades, el cual deberá contener los requisitos previstos en el Código Fiscal del Estado y Municipios, así como el importe de la parcialidad que ampare, la forma como se realizó el pago de la parcialidad y el número y fecha del documento que se hubiera expedido en los términos del párrafo anterior.
-
-IV. Conservar la contabilidad y los comprobantes de los asientos respectivos, así como aquéllos necesarios para acreditar que se ha cumplido con las obligaciones fiscales, de conformidad con lo previsto por el Código Fiscal del Estado y Municipios.
-
-V. Los contribuyentes que hagan pagos por los conceptos a que se refiere el Capítulo Cuarto de este Título, deberán cumplir con las obligaciones que se establecen en el mismo.
-
-VI. Presentar la declaración del ejercicio, a que se refiere esta Ley en la forma, lugar, fecha y medios de pago a que se refieren los Artículos 4 y 6 de esta Ley, en la que determinarán la utilidad fiscal y el impuesto causado durante el ejercicio;
-
-VII. Llevar un registro específico de las inversiones por las que se tomó la deducción en los términos del Artículo 87 de esta Ley.
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, B.O. 28 DE FEBRERO DE 2006)</small>
 
 #### Sección IV. A los ingresos por actividades empresariales
 
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, B.O. 28 DE FEBRERO DE 2006)</small>
+
 ###### Artículo 51.
 
-Están obligados al pago del impuesto establecido en esta Sección, las personas físicas que perciban ingresos en efectivo, bienes, servicios y crédito, por otorgar el uso o goce temporal de bienes inmuebles, ubicados dentro del territorio del Estado.
-
-Se consideran ingresos por otorgar el uso o goce temporal de bienes inmuebles:
-
-l. Los provenientes del arrendamiento o subarrendamiento y en genera por otorgar a título oneroso el uso o goce temporal de bienes inmuebles, en cualquier otra forma;
-
-II. Los rendimientos de certificados de participación inmobiliaria no amortizables;
-
-Los ingresos en crédito se declararán y se calculará el impuesto que le corresponda hasta el mes de calendario en el que sean cobrados.
-
-Los contribuyentes no estarán obligados a pagar este impuesto por los ingresos provenientes de contratos de arrendamiento prorrogados por disposición de ley.
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
 ###### Artículo 52
 
-Las personas que obtengan ingresos por los conceptos a que refiere esta Sección, podrán efectuar las siguientes deducciones:
-
-I. Los pagos efectuados por el impuesto predial correspondiente al año de calendario sobre dichos inmuebles, así como por las contribuciones locales que afecten a los mismos.
-
-II. Los intereses reales pagados por préstamos utilizados para la compra, construcción o mejoras de los bienes inmuebles. Se considera real, el monto en el que los intereses excedan al ajuste por inflación.
-
-Para estos efectos, el ajuste por inflación se determinará multiplicando el saldo promedio diario del préstamo o financiamiento que genere los intereses, por el factor que se obtenga de restar la unidad del cociente que resulte de dividir el Índice Nacional de Precios al Consumidor del mes más reciente del periodo de la inversión, entre el citado índice correspondiente al primer mes del periodo. Cuando el cálculo a que se refiere este párrafo se realice por un periodo inferior a un mes o abarque fracciones de mes, el incremento porcentual del citado índice para dicho periodo o fracción de mes se considerará en proporción al número de cifras por el que se efectúa el cálculo.
-
-III. Los gastos de mantenimiento que no impliquen adiciones o mejoras al bien de que se trate y por consumo de agua, siempre que no los paguen quienes usen o gocen del inmueble.
-
-IV. Los salarios, comisiones y honorarios pagados, así como los impuestos, cuotas o contribuciones que conforme a la ley les corresponda cubrir sobre dichos salarios, efectivamente pagados.
-
-V. El importe de las primas de seguros que amparen los bienes respectivos.
-
-VI. Las inversiones en construcciones, incluyendo adiciones y mejoras.
-
-Los contribuyentes que otorguen el uso o goce temporal de bienes inmuebles podrán optar por deducir el 35% de los ingresos a que se refiere esta Sección, en sustitución de las deducciones a que este artículo se refiere. Quienes ejerzan esta opción podrán deducir, además, el monto de las erogaciones por concepto del impuesto predial de dichos inmuebles correspondiente al ano de calendario o al periodo durante el cual se obtuvieron los ingresos según corresponda.
-
-Los contribuyentes que ejerzan la opción prevista en el párrafo anterior, lo deberán hacer por todos los inmuebles por los que otorguen el uso o goce temporal incluso por aquellos que tengan en copropiedad.
-
-Tratándose de subarrendamiento sólo se deducirá el importe de las rentas que pague el arrendatario al arrendador.
-
-Cuando el contribuyente ocupe parte del bien inmueble del cual derive el ingreso por otorgar el uso o goce temporal del mismo u otorgue su uso o goce temporal de manera gratuita, no podrá deducir la parte de los gastos, así como tampoco el impuesto predial y las contribuciones locales que afecten a los mismos que correspondan proporcionalmente a la unidad por él ocupada o de la otorgada gratuitamente. En los casos de subarrendamiento, el subarrendador no podrá deducir la parte proporcional del importe de las rentas pagadas que correspondan a la unidad que ocupe o que otorgue gratuitamente.
-
-La parte proporcional a que se refiere el párrafo que antecede, se calculará considerando el número de metros cuadrados de construcción de la unidad por él ocupada u otorgada de manera gratuita en relación con el total de metros cuadrados de construcción del bien inmueble.
-
-Cuando el uso o goce temporal del bien de que se trate no se hubiese otorgado por todo el ejercicio, las deducciones a que se refieren las Fracciones I a V de este Artículo, se aplicarán únicamente cuando correspondan al periodo por el cual se otorgó el uso o goce temporal del bien inmueble o a los tres meses inmediatos anteriores al que se otorgue dicho uso o goce.
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
 ###### Artículo 53.
 
-En las operaciones de fideicomiso por las que se otorgue el uso o goce temporal de bienes inmuebles, se considera que los rendimientos son ingresos del fideicomitente aún cuando el fideicomisario sea una persona distinta, a excepción de los fideicomisos irrevocables en los cuales el fideicomitente no tenga derecho a readquirir del fiduciario el bien inmueble, en cuyo caso se considera que los rendimientos son ingresos del fideicomisario desde el momento en que el fideicomitente pierda el derecho a readquirir el bien inmueble.
-
-La institución fiduciaria efectuará pagos provisionales de este impuesto por cuenta de aquel a quien corresponda el rendimiento en los términos del párrafo anterior, mediante declaración mensual, que presentará en la forma oficial, lugar fecha y medios de pago indicados en los Artículos 4 y 5 de esta Ley.
-
-La institución fiduciaria presentará ante las oficinas autorizadas a más tardar el último día de febrero de cada año, declaración informativa que contendrá el nombre, clave de registro estatal de contribuyentes, rendimientos, pagos efectuados de este impuesto y deducciones, relacionados con cada una de las personas a las que les correspondan los rendimientos, durante el año de calendario que corresponda.
-
-En las operaciones celebradas a través de terceros y de asociaciones de condóminos por las que se otorgue el uso o goce temporal de bienes inmuebles, se considera que el ingreso obtenido corresponde a la persona física condómina o propietaria del inmueble, en cuyo caso la asociación de condóminos, o en su caso el tercero deberá de retener el impuesto causado y efectuar los pagos provisionales del mismo por cuenta de aquel a quien corresponda el ingreso obtenido mediante declaración mensual, que presentará en los lugares, forma, fechas y medios de pago indicados en los Artículos 4 y 5 de esta Ley.
-
-El tercero y en su caso la asociación de condóminos presentará ante las oficinas autorizadas a más tardar el último día de febrero de cada año, declaración informativa que contendrá información sobre el nombre, clave de registro estatal de contribuyentes, ingreso obtenido, pagos efectuados por este impuesto y deducciones, relacionados con cada una de las personas que hayan obtenido el ingreso, durante el año de calendario que corresponda.
-
-Las personas obligadas a enterar el impuesto en los términos de este artículo, deberán proporcionar a la persona por cuenta de quien realicen el pago constancia de la retención y entero del impuesto a más tardar el 31 de enero de cada año.
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
 ###### Artículo 54.
 
-El impuesto se calculará anualmente y se pagará a una tasa del 5% que se aplicará a los ingresos por arrendamiento, subarrendamiento y en general por otorgar el uso o goce temporal de bienes inmuebles, disminuyendo las deducciones autorizadas por esta Ley en ese ejercicio, pudiendo acreditar contra el impuesto anual los pagos provisionales efectivamente pagados.
-
-La declaración del ejercicio deberá presentarse a más tardar en las fechas indicadas en el Artículo 6 de esta Ley, y en las formas oficiales, lugares y medios de pago indicados en los Artículos 4 Y 5 del mismo ordenamiento.
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
 ###### Artículo 55.
 
-Los contribuyentes que obtengan ingresos de los señalados en esta Sección efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio aplicando la tasa del 5% a los ingresos por arrendamiento y en general por otorgar el uso o goce temporal de bienes inmuebles disminuyendo las deducciones autorizadas por esta Ley en ese periodo. El entero de los pagos provisionales se realizará en las oficinas, instituciones bancarias y medios autorizados por la Secretaría de Finanzas, teniendo como fecha límite de presentación la señalada en el Artículo 5 de esta Ley.
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
 ###### Artículo 56.
 
-Los contribuyentes que obtengan ingresos de los señalados en esta Sección, además de efectuar los pagos de este impuesto, tendrán las siguientes obligaciones:
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
-I. Solicitar su inscripción en el registro estatal de contribuyentes.
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, B.O. 28 DE FEBRERO DE 2006)</small>
 
-II. Llevar contabilidad de conformidad con el Código Fiscal del Estado y Municipios. No quedan comprendidos en lo dispuesto en esta Fracción quienes opten por la deducción del 35% a que se refiere el Artículo 52 en su segundo párrafo.
-
-III. Expedir comprobantes que reúnan los requisitos fiscales previstos en el Código Fiscal del Estado y Municipios, por las contraprestaciones recibidas.
-
-IV. Presentar declaraciones en los términos de esta Ley.
-
-Cuando los ingresos a que se refiere este Capítulo sean percibidos a través de operaciones de fideicomiso, por conducto de una asociación de condóminos o de un tercero, será la institución fiduciaria, la citada asociación de condóminos o el tercero, según corresponda quien lleve los libros, expida los recibos y efectúe los pagos de este impuesto por cuenta del contribuyente.
-
-#### Sección IV.I. De las personas físicas con actividades empresariales
+#### Sección IV. I. De las personas físicas con actividades empresariales
 
 ###### Artículo 57.
 
-Pagarán este impuesto las personas físicas que perciban ingresos por la enajenación de inmuebles que se ubiquen en el territorio del Estado. Se consideran ingresos por enajenación de inmuebles, los que deriven de los casos previstos en el Código Fiscal del Estado y Municipios.
-
-En los casos de permuta se considerará que hay dos enajenaciones.
-
-Se considerará como ingreso el monto de la contraprestación obtenida en efectivo, bienes, servicio, inclusive en crédito, con motivo de la enajenación cuando por la naturaleza de la transmisión no haya contraprestación, se atenderá al valor de avalúo practicado por persona autorizada por las autoridades fiscales.
-
-No se considerarán ingresos por enajenación, los que deriven de la transmisión de propiedad de inmuebles por causa de muerte y donación.
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
 ###### Artículo 58.
 
-No se pagará este impuesto por los ingresos derivados de la enajenación de:
-
-a) La casa habitación del contribuyente.
-
-b) Los que deriven de la enajenación de derechos parcelarios, de las parcelas sobre las que hubiera adoptado el dominio pleno o de los derechos comuneros, siempre y cuando sea la primera transmisión que se efectúe por los ejidatarios o comuneros y la misma se realice en los términos de la legislación federal de la materia.
-
-En las enajenaciones de bienes inmuebles celebradas a través de fideicomisos, o cuando el bien inmueble sea adquirido por un nacional no residente en territorio mexicano, el fedatario público ante quien se lleve a cabo la enajenación recabará del adquirente la forma oficial aprobada por la Secretaría de Finanzas y publicada en el Boletín Oficial de Gobierno que contendrá la declaración bajo protesta de decir verdad del adquirente, respecto del cual será el destino del inmueble objeto de este impuesto.
-
-Dentro de los quince días hábiles siguientes a la fecha de autorización de la escritura que ampare la enajenación del inmueble, el fedatario público deberá remitir a la Oficina Recaudadora correspondiente al lugar donde se ubica el bien inmueble, la forma oficial a que se refiere el párrafo anterior en la misma fecha en que realicen el entero del impuesto.
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
 ###### Artículo 59.
 
-Las personas físicas que obtengan ingresos por la enajenación de inmuebles podrán efectuar las siguientes deducciones:
-
-I. El costo comprobado de adquisición que se actualizará en los términos del Artículo 61 de esta Ley y será cuando menos 10% del monto de la enajenación de que se trate.
-
-II. El importe de las inversiones hechas en construcciones, mejoras y ampliaciones. Estas inversiones no incluyen los gastos de conservación. El importe se actualizará en los términos del Artículo 61 de esta Ley.
-
-III. Los gastos notariales, impuestos y derechos, por escrituras de adquisición y de enajenación, pagados por el enajenante, salvo el Impuesto sobre la Renta federal. Asimismo, serán deducibles los pagos efectuados con motivo del avalúo de bienes inmuebles.
-
-IV. Las comisiones y mediaciones pagadas por el enajenante, con motivo de la adquisición o de la enajenación del bien.
-
-La diferencia entre el ingreso por enajenación y las deducciones a que se refiere este Artículo, será la ganancia sobre la cual, se calculará el impuesto.
-
-Las deducciones a que se refieren las Fracciones III y IV de este Artículo se actualizarán por el periodo comprendido desde el mes en el que se efectuó la erogación respectiva y hasta el mes inmediato anterior a aquél en el que se realice la enajenación.
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
 ###### Artículo 60.
 
-El costo de adquisición será igual a la contraprestación que se haya pagado para adquirir el bien sin incluir los intereses, cuando el bien se hubiese adquirido a título gratuito, se estará a lo dispuesto por el Artículo 57 de esta Ley.
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
 ###### Artículo 61.
 
-Para actualizar el costo comprobado de adquisición y, en su caso, el importe de las inversiones deducibles, se procederá como sigue:
-
-I. Se restará del costo comprobado de adquisición, la parte correspondiente al terreno y el resultado será el costo de construcción. Cuando no se pueda efectuar esta separación se considerará como costo del terreno el 20% del costo total.
-
-II. El costo de construcción deberá disminuirse a razón del 3% anual por cada año transcurrido entre la fecha de adquisición y la de enajenación; en ningún caso dicho costo será inferior al 20% del costo inicial. El costo resultante se actualizará por el periodo comprendido desde el mes en el que se realizó la adquisición y hasta el mes inmediato anterior a aquel en el que se efectúe la enajenación. Las mejoras o adaptaciones que implican inversiones deducibles deberán sujetarse al mismo tratamiento.
-
-En el caso de terrenos el costo de adquisición se actualizará por el periodo comprendido desde el mes en el que se realizó la adquisición y hasta el mes inmediato anterior a aquel en el que se efectúe la enajenación.
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
 ###### Artículo 62.
 
-Tratándose de bienes inmuebles adquiridos por herencia, legado o donación, se considerará como costo de adquisición, el que haya pagado el autor de la sucesión o el donante, y como fecha de adquisición, la que hubiere correspondido a estos últimos. Cuando a su vez el autor de la sucesión o el donante hubieran adquirido dichos bienes a título gratuito, se aplicará la misma regla. Tratándose de la donación por la que se haya pagado el Impuesto sobre la Renta, se considerará como costo de adquisición, el valor del avalúo que haya servido para calcular dicho impuesto y como fecha de adquisición aquella en que se pagó el impuesto mencionado.
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
 ###### Artículo 63.
 
-Los contribuyentes podrán solicitar la práctica de un avalúo por corredor público titulado o institución de crédito, autorizados por las autoridades fiscales. Dichas autoridades estarán facultadas para practicar, ordenar o tomar en cuenta, el avalúo del bien objeto de enajenación y cuando el valor del avalúo exceda en más de un 10% de la contraprestación pactada por la enajenación, se considerará ingreso del adquirente del bien la diferencia entre el valor del avalúo y el valor de la enajenación.
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
 ###### Artículo 64.
 
-Los contribuyentes que obtengan ingresos por la enajenación de bienes inmuebles, efectuarán el pago de este impuesto por cada una de las operaciones que realicen, el cual se determinará aplicando la tasa del 5%, sobre la ganancia obtenida en los términos de esta Sección, el cual se enterará mediante declaración que presentarán ante las oficinas autorizadas por la Secretaría de Finanzas del Estado.
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
-En el caso de operaciones consignadas en escrituras públicas, los notarios, corredores, jueces Y demás fedatarios, que por disposición legal tengan funciones notariales, calcularán el pago a que se refiere este Artículo, bajo su responsabilidad y lo enterarán dentro de los 15 días siguientes a la fecha en que se firme la escritura o minuta, en las oficinas o instituciones bancarias, formas oficiales y medios de pago indicados en los Artículos 4 y 5 de esta Ley, conjuntamente con la forma oficial a que se refiere el segundo párrafo del Artículo 58 de esta Sección.
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, B.O. 28 DE FEBRERO DE 2006)</small>
 
-Asimismo a más tardar el último día de febrero de cada año, deberán presentar ante las oficinas autorizadas por la Secretaría de Finanzas, la información de las operaciones realizadas en el año inmediato anterior, con los datos que indique la autoridad mediante reglas de carácter general.
+#### Sección IV. II. Del régimen intermedio
 
-#### Sección IV.II. Del régimen intermedio
-
-#### Sección IV.III. Del régimen de pequeños contribuyentes
+#### Sección IV. III. Del régimen de pequeños contribuyentes
 
 ###### Artículo 65.
 
-Están obligadas al pago del impuesto establecido en esta Sección, las personas físicas que perciban ingresos derivados de la realización de actividades empresariales.
-
-Cuando una persona física tenga establecimientos permanentes, en dos o más entidades federativas, únicamente deberá pagar en este Estado el impuesto que corresponda, para determinar el impuesto a que se refiere esta Sección, se deberá considerar la suma de la utilidad gravable obtenida por todos los establecimientos, sucursales o agencias que tenga, y el resultado se dividirá entre éstos en la proporción que representen los ingresos obtenidos por cada establecimiento, sucursal o agencia, respecto de la totalidad de los ingresos.
-
-Las personas físicas residentes en el extranjero que tengan uno o varios establecimientos permanentes en la entidad federativa, pagarán este impuesto en los términos de esta Sección por los ingresos atribuibles a los mismos, derivados de las actividades empresariales.
-
-Para los efectos de esta Sección se consideran ingresos por actividades empresariales, los provenientes de la realización de actividades comerciales, industriales, agrícolas, ganaderas, pesqueras incluyendo la acuacultura y silvícolas.
-
-Se entiende que los ingresos los obtienen en su totalidad las personas que realicen la actividad empresarial.
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
 ###### Artículo 66.
 
-Para los efectos de esta Sección, se consideran ingresos por la realización de actividades empresariales, además de los señalados en el artículo anterior, los siguientes:
-
-I. Tratándose de condonaciones, quitas o remisiones, de deudas relacionadas con la actividad empresarial, así como de las deudas antes citadas que se dejen de pagar por prescripción de la acción del acreedor, la diferencia que resulte de restar del principal actualizado por inflación, el monto de la quita, condonación o remisión, al momento de su liquidación o reestructuración, siempre y cuando la liquidación total sea menor al principal actualizado y se trate de quitas, condonaciones o remisiones otorgadas por instituciones del sistema financiero.
-
-En el caso de condonaciones, quitas o remisiones de deudas otorgadas por personas distintas a instituciones del sistema financiero, se considerará el monto total de dichas condonaciones, quitas o remisiones.
-
-II. Los provenientes de la enajenación de cuentas y documentos por cobrar y de títulos de crédito distintos de las acciones, relacionados con las actividades a que se refiere esta Sección.
-
-III. Las cantidades que se recuperen por seguros, fianzas o responsabilidades a cargo de terceros, tratándose de pérdidas de bienes del contribuyente afectos a la actividad empresarial.
-
-IV. Las cantidades que se perciban para efectuar gastos por cuenta de terceros, salvo que dichos gastos sean respaldados con documentación comprobatoria a nombre de aquél por cuenta de quien se efectúa el gasto.
-
-V. Los intereses cobrados derivados de la actividad empresarial, sin ajuste alguno.
-
-VI. Las devoluciones que se efectúen o los descuentos o bonificaciones que se reciban, siempre que se hubiese efectuado la deducción correspondiente.
-
-VII. La ganancia derivada de la enajenación de activos afectos a la actividad, salvo tratándose de los contribuyentes a que se refiere la Sección II de este Capítulo; en este último caso, se considerará como ganancia el total del ingreso obtenido en la enajenación.
-
-En el caso de enajenación de terrenos se estará a lo siguiente:
-
-Para determinar la ganancia de enajenación de terrenos, los contribuyentes restarán del ingreso obtenido por su enajenación el monto original de la inversión, el cual se podrá ajustar multiplicándolo por el factor de actualización correspondiente al periodo comprendido desde el mes en que se realizó la adquisición y hasta el mes inmediato anterior a aquél en que se realice la enajenación.
-
-Los ingresos determinados presuntivamente por las autoridades fiscales, en los casos en que proceda conforme a esta Ley, se considerarán ingresos en los términos de esta Sección, cuando en el ejercicio de que se trate el contribuyente perciba preponderantemente ingresos que correspondan a actividades empresariales.
-
-Para los efectos del párrafo anterior, se considera que el contribuyente percibe ingresos preponderantemente por actividades empresariales, cuando dichos ingresos representen en el ejercicio de que se trate o en el anterior, más del 50% de los ingresos totales del contribuyente.
-
-Las autoridades fiscales podrán determinar la utilidad de los establecimientos permanentes en el Estado de un residente en el extranjero, con base en las utilidades totales de dicho residente, considerando la proporción que los ingresos o los activos de los establecimientos en el Estado representen del total de los ingresos o de activos, respectivamente.
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
 ###### Artículo 67.
 
-Los contribuyentes sujetos a un procedimiento de concurso, podrán disminuir el monto de las deudas perdonadas conforme al convenio suscrito con sus acreedores reconocidos, en los términos establecidos en la Ley de Concursos Mercantiles.
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
 ###### Artículo 68.
 
-Para la determinación del impuesto previsto en esta Sección, los contribuyentes considerarán los ingresos en el momento en que sean efectivamente percibidos.
-
-Los ingresos se consideran efectivamente percibidos cuando se reciban en efectivo, en bienes o en servicios, aun cuando aquellos correspondan a anticipos, a depósitos o a cualquier otro concepto, sin importar el nombre con el que se les designe. Igualmente se considera percibido el ingreso cuando el contribuyente reciba títulos de crédito emitidos por una persona distinta de quien efectúa el pago. Cuando se perciban en cheque, se considerará percibido el ingreso en la fecha de cobro del mismo o cuando los contribuyentes transmitan los cheques a un tercero, excepto cuando dicha transmisión sea en procuración. También se entiende que es efectivamente percibido cuando el interés del acreedor queda satisfecho mediante cualquier forma de extinción de las obligaciones.
-
-Tratándose de los ingresos a que se refiere la Fracción I del Artículo 66 de esta Ley, éstos se considerarán efectivamente percibidos en la fecha en que se convenga la condonación, la quita o la remisión, o en la que se consume la prescripción.
-
-En el caso de enajenación de bienes que se exporten se deberá acumular el ingreso cuando efectivamente se perciba. En el caso de que no se perciba el ingreso dentro de los doce meses siguientes a aquél en el que se realice la exportación, se deberá considerar el ingreso una vez transcurrido dicho plazo.
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
 ###### Artículo 69.
 
-Las personas físicas que obtengan ingresos por actividades empresariales, podrán efectuar las deducciones siguientes:
-
-I. Las devoluciones que se reciban o los descuentos o bonificaciones que se hagan, siempre que se hubiese acumulado el ingreso correspondiente.
-
-II. Las adquisiciones de mercancías, así como de materias primas, productos semiterminados o terminados, que utilicen para fabricar bienes o para enajenarlos.
-
-No serán deducibles conforme a esta fracción los activos fijos, los terrenos, las acciones, partes sociales, obligaciones y otros valores mobiliarios, los títulos valor que representen la propiedad de bienes, excepto certificados de depósito de bienes o mercancías, la moneda extranjera, las piezas de oro o de plata que hubieran tenido el carácter de moneda nacional o extranjera ni, las piezas denominadas onzas troy.
-
-III. Las cuotas pagadas por los patrones al Instituto Mexicano del Seguro Social, incluso cuando éstas sean a cargo de sus trabajadores.
-
-IV. Los intereses pagados derivados de la actividad empresarial, sin ajuste alguno, así como los que se generen por capitales tomados en préstamo siempre y cuando dichos capitales hayan sido invertidos en los fines de las actividades a que se refiere esta Sección.
-
-V. Los gastos.
-
-VI. La participación de los trabajadores en las utilidades de la empresa en el año en que sean efectivamente pagadas.
-
-VII. Las inversiones.
-
-Tratándose de personas físicas residentes en el extranjero que tengan uno o varios establecimientos en el Estado, podrán efectuar las deducciones que correspondan a las actividades del establecimiento permanente, ya sea las erogadas en el Estado o en cualquier otra parte, aun cuando se prorrateen con algún establecimiento ubicado en el extranjero, de conformidad con los tratados para evitar la doble tributación y acuerdo amplio de intercambio de información, celebrado por nuestro país.
-
-Los contribuyentes a que se refiere esta Sección podrán optar por deducir una cantidad equivalente al 8% de la utilidad que resulte de restar de la totalidad de los ingresos obtenidos a que se refiere esta Sección las deducciones autorizadas a que se refiere la misma, sin que exceda de $25,000.00, en sustitución de la deducción de los gastos menores que se señalen en el Reglamento de la Ley del Impuesto sobre la Renta.
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
 ###### Artículo 70.
 
-Los contribuyentes a que se refiere esta Sección determinarán la deducción por inversiones aplicando lo dispuesto en el Artículo 84 de esta Ley.
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
 ###### Artículo 71.
 
-Tratándose de contratos de arrendamiento financiero, el arrendatario considerará como monto original de la inversión la cantidad que se hubiere pactado como valor del bien en el contrato respectivo.
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
 ###### Artículo 72.
 
-Los contribuyentes a que se refiere esta Sección, efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio, restando de la totalidad de los ingresos obtenidos en el mes al que corresponde el pago las deducciones autorizadas en esta Sección correspondientes al mismo período. Al resultado se le aplicará la tasa del 5%, el resultado será el impuesto mensual a enterar, el cual deberá enterarse mediante declaración, en las oficinas o instituciones bancarias autorizadas por la Secretaría de Finanzas del Estado que correspondan al domicilio fiscal del contribuyente, a más tardar el día 15 del mes inmediato posterior a aquél al que corresponda el pago, mediante alguno de los medios de pago a que se refiere el Código Fiscal del Estado y Municipios.
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
 ###### Artículo 73.
 
-Cuando se realicen actividades empresariales a través de una copropiedad, el representante común designado determinará, en los términos de esta Sección, la utilidad gravable de dichas actividades y cumplirá por cuenta de la totalidad de los copropietarios las obligaciones señaladas en esta Ley, incluso la de efectuar pagos provisionales. Para los efectos del impuesto del ejercicio, los copropietarios considerarán la utilidad gravable que se determine conforme al Artículo 74 de esta Ley, en la parte proporcional que de la misma les corresponda y acreditarán, en esa misma proporción, el monto de los pagos provisionales efectuados por dicho representante.
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
 ###### Artículo 74.
 
-Los contribuyentes a que se refiere esta Sección, deberán calcular el impuesto del ejercicio a su cargo. Para estos efectos, la utilidad gravable del ejercicio se determinará disminuyendo de la totalidad de los ingresos acumulables obtenidos por las actividades empresariales, las deducciones autorizadas en esta Sección, correspondientes al ejercicio de que se trate, el resultado será la utilidad gravable a la cual se le aplicará la tasa del 5%, el resultado será el impuesto del ejercicio, pudiendo acreditarse los pagos provisionales efectivamente pagados.
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
 ###### Artículo 75.
 
-Los contribuyentes personas físicas sujetos al régimen: establecido en esta Sección, además de las obligaciones establecidas en otros artículos de esta Ley y en las demás disposiciones fiscales, tendrán las siguientes:
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
-l. Solicitar su inscripción en el Registro Estatal de Contribuyentes.
-
-II. Llevar contabilidad de conformidad con el Código Fiscal del Estado y Municipios.
-
-Los contribuyentes que realicen actividades agrícolas, ganaderas, pesqueras incluida la acuacultura, silvícola y de auto transporte terrestre de carga o de pasajeros, cuyos ingresos obtenidos en el ejercicio inmediato anterior por dichas actividades no hubiesen excedido de $10'000,000.00, podrán llevar la contabilidad mediante un libro de ingresos y egresos y de registro de inversiones y deducciones.
-
-III. Expedir y conservar comprobantes que acrediten los ingresos que perciban, mismos que deberán reunir los requisitos establecidos en el Código Fiscal del Estado y Municipios. Los comprobantes que se emitan deberán contener la leyenda "Efectos fiscales al pago".
-
-Cuando la contraprestación que ampare el comprobante se cobre en una sola exhibición, en él se deberá indicar el importe total de la operación. Si la contraprestación se cobró en parcialidades, en el comprobante se deberá indicar además el importe de la parcialidad que se cubre en ese momento.
-
-Cuando el cobro de la contraprestación se haga en parcialidades, por el cobro que de las mismas se haga con posterioridad a la fecha en que se hubiera expedido el comprobante a que se refiere el párrafo anterior, los contribuyentes deberán expedir un comprobante por cada una de esas parcialidades, el cual deberá contener los requisitos previstos en el Código Fiscal del Estado y Municipios, así como el importe de la parcialidad que ampare, la forma como se realizó el pago de la parcialidad y el número y fecha del documento que se hubiera expedido en los términos del párrafo anterior.
-
-IV. Los contribuyentes que lleven a cabo actividades empresariales deberán formular un estado de posición financiera y levantar inventario de existencias al 31 de diciembre de cada año.
-
-V. Conservar la contabilidad y los comprobantes de los asientos respectivos, así como aquellos necesarios para acreditar que se ha cumplido con las obligaciones fiscales, de conformidad con lo previsto por el Código Fiscal del Estado y Municipios.
-
-Cuando el contribuyente inicie o deje de realizar actividades empresariales, deberá formular estado de posición financiera referido a cada uno de los momentos mencionados.
-
-VI. Los contribuyentes que hagan pagos por los conceptos a que se refiere el Capítulo IV de este Título, deberán cumplir con las obligaciones que se establecen en el mismo.
-
-VII. Presentar la declaración del ejercicio, a que se refiere esta Ley.
-
-En la declaración anual que se presente determinarán la utilidad gravable del ejercicio y el impuesto causado.
-
-VIII. Llevar un registro específico de las inversiones por las que se tomó la deducción inmediata en los términos del Artículo 85 de esta Ley.
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, B.O. 28 DE FEBRERO DE 2006)</small>
 
 #### Sección I. De los derechos por servicios prestados por las autoridades de la secretaría general de gobierno
 
 ###### Artículo 76.
 
-Los contribuyentes personas físicas que realicen exclusivamente actividades empresariales, cuyos ingresos obtenidos en el ejercicio inmediato anterior por dichas actividades no hubiesen excedido de $4'000,000.00, aplicarán las disposiciones de la Sección IV de este Capítulo y podrán estar a lo siguiente:
-
-I. Llevarán un solo libro de ingresos, egresos y de registro de inversiones y deducciones, en lugar de llevar la contabilidad a que se refiere la Fracción II del Artículo 75 de esta Ley.
-
-II. En lugar de aplicar lo dispuesto en el segundo párrafo de la Fracción III del Artículo 75 de esta Ley, podrán anotar el importe de las parcialidades que se paguen en el reverso del comprobante, si la contraprestación se paga en parcialidades.
-
-III. No aplicar la obligación dispuesta en la Fracción V del Artículo 75 de esta Ley.
-
-Para los efectos de este artículo, se considera que se obtienen ingresos exclusivamente por la realización de actividades empresariales cuando en el ejercicio inmediato anterior éstos hubieran representado por lo menos el 90% del total de sus ingresos.
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
 ###### Artículo 77.
 
-Los contribuyentes a que se refiere el Artículo 76 de esta Ley, que inicien actividades, podrán optar por lo dispuesto en el mismo, cuando estimen que sus ingresos del ejercicio no excederán del límite a que se refiere dicho artículo. Cuando en el ejercicio citado realicen operaciones por un periodo menor de doce meses, para determinar el monto a que se refiere el primer párrafo del citado artículo, dividirán los ingresos manifestados entre el número de días que comprende el periodo y el resultado se multiplicará por 365 días; si la cantidad obtenida excede del importe del monto citado, en el ejercicio siguiente no se podrá ejercer la opción a que se refiere el Artículo 76 de esta Ley.
-
-Asimismo, será aplicable la opción a que se refiere el Artículo 76 de esta Ley, cuando las personas físicas realicen actividades empresariales mediante copropiedad y siempre que la suma de los ingresos de todos los copropietarios por las actividades empresariales que realicen a través de la copropiedad, sin deducción alguna, no excedan en el ejercicio inmediato anterior de la cantidad establecida en el primer párrafo del artículo citado y siempre que el ingreso que en lo individual le corresponda a cada copropietario por dicha copropiedad, sin deducción alguna, adicionado de los intereses obtenidos y de los ingresos derivados de ventas de activos fijos propios de su actividad empresarial del mismo copropietario, en el ejercicio inmediato anterior, no hubieran excedido del límite a que se refiere el mismo artículo.
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
 ###### Artículo 78.
 
-Los contribuyentes a que se refiere el Artículo 76 de esta Ley, en lugar de aplicar lo dispuesto en el Artículo 85 de esta Ley, deducirán las erogaciones efectivamente realizadas en el ejercicio para la adquisición de activos fijos, gastos o cargos diferidos, excepto tratándose de automóviles, autobuses, camiones de carga, tractocamiones y remolques, los que deberán deducirse en los términos del Artículo 84 de este ordenamiento.
-
-Asimismo, los contribuyentes que se dediquen exclusivamente a actividades agrícolas, ganaderas, pesqueras incluida la acuacultura y silvícola, podrán aplicar las facilidades que emitan las autoridades fiscales del Estado.
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
 ###### Artículo 79.
 
-Los contribuyentes a que se refiere esta Sección, efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio, mediante declaración, restando de la totalidad de los ingresos obtenidos en el mes al que corresponde el pago las deducciones autorizadas en esta Sección correspondientes al mismo periodo. Al resultado se le aplicará la tasa del 5%, el resultado será el impuesto mensual a enterar, el cual deberá enterarse mediante declaración, en las oficinas o instituciones bancarias que al efecto autorice la Secretaría de Finanzas del Estado que correspondan al domicilio fiscal del contribuyente, a más tardar el día 15 del mes inmediato posterior a aquél al que corresponda el pago, mediante alguno de los medios de pago a que se refiere el Artículo 4 de esta Ley y el Código Fiscal del Estado y Municipios.
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
-El entero al que se refiere el párrafo anterior tendrá el carácter de provisional, por lo que los contribuyentes están obligados a presentar declaración anual en las oficinas recaudadoras de la Secretaría de Finanzas o en la instituciones autorizadas por dicha Secretaría, a más tardar el 30 de abril del año siguiente al que corresponda el impuesto.
-
-Para efectos del cálculo del impuesto anual aplicarán lo dispuesto en el Artículo 74 de esta Ley.
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, B.O. 28 DE FEBRERO DE 2006)</small>
 
 #### Sección II. De los derechos prestados por las autoridades fiscales
 
 ###### Artículo 80.
 
-Las personas físicas que realicen actividades empresariales, que únicamente enajenen bienes o presten servicios al público en general, podrán optar por pagar el impuesto en los términos establecidos en esta Sección, siempre que los ingresos propios de su actividad empresarial y los intereses obtenidos en el año de calendario anterior, no hubieran excedido de la cantidad de $2'000,000.00.
-
-Los contribuyentes que inicien actividades podrán optar por pagar el impuesto conforme a lo establecido en esta Sección, cuando estimen que sus ingresos del ejercicio no excederán del límite a que se refiere este Artículo. Cuando en el ejercicio citado realicen operaciones por un periodo menor de doce meses, para determinar el monto a que se refiere el párrafo anterior, dividirán los ingresos manifestados entre el número de días que comprende el período y el resultado se multiplicará por 365 días; si la cantidad obtenida excede del importe del monto citado, en el ejercicio siguiente no se podrá tributar conforme a esta Sección.
-
-Los copropietarios que realicen las actividades empresariales en los términos del primer párrafo de este artículo podrán tributar conforme a esta Sección, cuando no lleven a cabo otras actividades empresariales y siempre que la suma de los ingresos de todos los copropietarios por las actividades empresariales que realizan en copropiedad, sin deducción alguna, no excedan en el ejercicio inmediato anterior de la cantidad establecida en el primer párrafo de este artículo y siempre que el ingreso que en lo individual le corresponda a cada copropietario por dicha copropiedad, sin deducción alguna, en el ejercicio inmediato anterior, no hubieran excedido del límite a que se refiere este Artículo.
-
-No podrán pagar el impuesto en los términos de esta Sección quienes obtengan ingresos a que se refiere esta Sección por concepto de comisión, mediación, agencia, representación, correduría, consignación, distribución o espectáculos públicos.
-
-Cuando el autor de una sucesión haya sido contribuyente de esta Sección y, en tanto no se liquide la misma, el representante legal de ésta continuará cumpliendo con lo dispuesto en esta Sección.
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
 ###### Artículo 81.
 
-Las personas físicas que paguen el impuesto en los términos de esta Sección, calcularán el impuesto que les corresponda en los términos de la misma, aplicando la tasa del 5% al total de los ingresos que obtengan en el mes en efectivo, en bienes y/o en servicios, por su actividad empresarial.
-
-Los ingresos por operaciones en crédito se considerarán para el pago del impuesto hasta que se cobren en efectivo, en bienes o en servicios.
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
 ###### Artículo 82.
 
-Los contribuyentes sujetos al régimen previsto en esta Sección, tendrán las obligaciones siguientes:
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
-l. Solicitar su inscripción en el Registro Estatal de Contribuyentes.
-
-II. Presentar ante las autoridades fiscales a más tardar el 31 de marzo del ejercicio en el que comiencen a pagar el impuesto conforme a esta Sección o dentro del primer mes siguiente al de inicio de operaciones el aviso correspondiente. Asimismo, cuando dejen de pagar el impuesto conforme a esta Sección, deberán presentar el aviso correspondiente ante las autoridades fiscales, dentro del mes siguiente a la fecha en que se dé dicho supuesto.
-
-III. Conservar comprobantes que reúnan requisitos fiscales, por las compras de bienes nuevos de activó fijo que usen en su negocio cuando el precio sea superior a $2,000.00.
-
-IV. Llevar un registro de sus ingresos diarios.
-
-V. Entregar a sus clientes copias de las notas de venta y conservar originales de las mismas. Estas notas deberán reunir los requisitos previstos en el Código Fiscal del Estado y Municipios de Baja California Sur.
-
-En los casos en que los contribuyentes utilicen máquinas registradoras de comprobación fiscal, podrán expedir comprobantes simplificados, la copia de la parte de los registros de auditoria de dichas máquinas en la que aparezca el importe de la operación de que se trate.
-
-Las autoridades fiscales del Estado, mediante reglas de carácter general, podrán liberar de la obligación de expedir dichos comprobantes tratándose de operaciones menores a $100.00.
-
-VI. Presentar, a más tardar el día 15 del mes inmediato posterior a aquél al que corresponda el pago, declaraciones mensuales en las que se determinará y pagará el impuesto conforme a lo dispuesto en el Artículo 81 de esta Ley.
-
-VII. Los pagos mensuales a que se refiere esta fracción, tendrán el carácter de definitivos.
-
-Los pagos a que se refiere esta fracción, se enterarán ante las oficinas recaudadoras de la Secretaría de Finanzas o en las instituciones autorizadas por dicha Secretaría.
-
-Para los efectos de esta fracción cuando los contribuyentes a que se refiere esta Sección tengan establecimientos permanentes, en dos o más entidades federativas, enterarán los pagos mensuales en cada entidad considerando el impuesto que resulte por los ingresos obtenidos en la misma.
-
-VIII. Tratándose de las erogaciones por concepto de salarios, los contribuyentes deberán efectuar la retención y el entero por concepto del impuesto cedular de sus trabajadores, conforme a las disposiciones previstas en esta Ley.
-
-IX. No realizar actividades a través de fideicomisos.
-
-X. Los contribuyentes a que se refiere esta Sección presentarán ante las autoridades fiscales a más tardar el día último de febrero de cada año la declaración informativa de los ingresos obtenidos en el ejercicio inmediato anterior, en la forma que para el efecto publique la Secretaría de Finanzas.
-
-La Secretaría de Finanzas en los casos en que los contribuyentes de esta Sección así se lo soliciten, podrá estimar el ingreso gravable del contribuyente y determinar cuotas fijas para cobrar el impuesto respectivo.
-
-Para estimar los ingresos de los contribuyentes a que se refiere esta Sección, las autoridades fiscales tomarán en cuenta: el importe de las compras y gastos efectuados; los inventarios de mercancías, de maquinaria y equipo; el monto de la renta del local en que estén establecidos los negocios; el número de trabajadores que tengan a su servicio y los sueldos de que disfruten; el pago de las cuotas al Instituto Mexicano del Seguro Social; las contribuciones pagadas al Gobierno Federal, al Estado o Municipios; las cantidades que hayan cubierto por concepto de energía eléctrica, teléfonos y agua potable; los retiros en efectivo y en especie efectuados por el propietario del negocio para la atención de sus necesidades personales y de su familia; la zona comercial en que se encuentre ubicado el negocio; las modalidades de comercialización de bienes y servicios; la información recabada de terceros y, en general todos los elementos de juicio que puedan utilizarse para la estimación de los ingresos por actividades empresariales.
-
-Al ingreso estimado por la autoridad en los términos del párrafo anterior, se le aplicará la tasa del 5%.
-
-Las autoridades fiscales podrán modificar anualmente el monto del impuesto estimado a pagar por el contribuyente, aplicándole a los ingresos estimados del año calendario anterior, el factor que resulte de dividir el Índice Nacional de Precios al Consumidor del mes de noviembre de dicho año, entre el Índice Nacional de Precios al Consumidor del mes de noviembre del año precedente.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 28 DE FEBRERO DE 2006)</small>
 
 ### Capítulo Sexto. De los requisitos de las deducciones, de las inversiones y de la deducción inmediata
 
 ###### Artículo 83.
 
-Los contribuyentes a que se refieren las Secciones I, II y IV del Capítulo anterior, deberán cumplir con los requisitos siguientes para que las deducciones le sean autorizadas:
-
-I. Que sean estrictamente indispensables para la obtención de los ingresos por los que se está obligado al pago de este impuesto.
-
-II. Que tratándose de deducción de inversiones se proceda en los términos del Artículo 84. Tratándose de contratos de arrendamiento financiero consideren como monto original de la inversión, la cantidad que se hubiere pactado como valor del bien en contrato respectivo.
-
-III. Que se resten una sola vez, aun cuando estén relacionados con la obtención de diversos ingresos.
-
-IV. Estar amparada con documentación que reúna los requisitos que señalen las disposiciones fiscales relativas a la identidad y domicilio de quien los expida, así como de quien adquirió el bien de que se trate o recibió el servicio, y que los pagos cuyo monto exceda de $2,000.00, se efectúen mediante cheque nominativo del contribuyente, tarjeta de crédito, débito o de servicios, o a través de los monederos electrónicos que al efecto autorice el Servicio de Administración Tributaria, excepto cuando dichos pagos se hagan por la prestación de un servicio personal subordinado.
-
-Los pagos que en los términos de esta fracción deban efectuarse mediante cheque nominativo del contribuyente, también podrán realizarse mediante traspasos de cuentas en instituciones de crédito o casas de bolsa del propio contribuyente.
-
-Las autoridades fiscales podrán liberar de la obligación de pagar las erogaciones con cheques nominativos, tarjetas de crédito, débito, de servicios, monederos electrónicos o mediante traspasos de cuentas en instituciones de crédito o casas de bolsa a que se refiere esta fracción, cuando las mismas se efectúen en poblaciones o en zonas rurales, sin servicios bancarios.
-
-Cuando los pagos se efectúen mediante cheque nominativo éste deberá ser de la cuenta del contribuyente y contener, en el anverso del mismo, la expresión "para abono en cuenta del beneficiario".
-
-V. Que estén debidamente registradas en contabilidad.
-
-VI. Que los pagos de primas por seguros o fianzas se hagan conforme a las leyes de la materia y correspondan a conceptos que esta Ley señala como deducibles o que en otras leyes se establezca la obligación de contratarlos.
-
-VII. Que se cumplan las obligaciones establecidas en esta Ley en materia de retención y entero de impuestos a cargo de terceros o que, en su caso, se recabe de éstos copia de los documentos en que conste el pago de dichos impuestos.
-
-VIII. Cuando los pagos cuya deducción se pretenda, se efectúen a personas obligadas a solicitar su inscripción en el Registro Estatal y Municipal de Contribuyentes, se proporcione la clave respectiva en la documentación comprobatoria.
-
-IX. Que al realizar las operaciones correspondientes o a más tardar el último día del ejercicio, se reúnan los requisitos que para cada deducción en lo particular establece esta Ley. Tratándose únicamente de la documentación comprobatoria a que se refiere el primer párrafo de la Fracción IV de este artículo, ésta se obtenga a más tardar el día en que el contribuyente deba presentar su declaración.
-
-X. Que hayan sido efectivamente erogadas en el ejercicio de que se trate. Se consideran efectivamente erogadas cuando el pago haya sido realizado en efectivo, mediante traspasos de cuentas en instituciones de crédito o casas de bolsa, en servicios o en otros bienes que no sean títulos de crédito. Tratándose de pagos con cheque, se considerará efectivamente erogado en la fecha en la que el mismo haya sido cobrado o cuando los contribuyentes transmitan los cheques a un tercero, excepto cuando dicha transmisión sea en procuración.
-
-Cuando los pagos a que se refiere el párrafo anterior se efectúen con cheque, la deducción se efectuará en el ejercicio en que éste se cobre, siempre que entre la fecha consignada en la documentación comprobatoria que se haya expedido y la fecha en que efectivamente se cobre dicho cheque no hayan transcurrido más de cuatro meses.
-
-Tratándose de intereses pagados en los años anteriores a aquél en el que se inicie la explotación de los bienes dados en arrendamiento, éstos se podrán deducir, procediendo como sigue:
-
-Se sumarán los intereses pagados de cada mes del ejercicio correspondientes a cada uno de los ejercicios improductivos restándoles en su caso el ajuste anual por inflación deducible a que se refiere la Fracción XIV de este mismo artículo. La suma obtenida para cada ejercicio improductivo se actualizará con el factor de actualización correspondiente desde el último mes de la primera mitad del ejercicio de que se trate y hasta el último mes de la primera mitad del ejercicio en que empiecen a producir ingresos el bien o los bienes de que se trate.
-
-Los intereses actualizados para cada uno de los ejercicios, calculados conforme al párrafo anterior, se sumarán y el resultado así obtenido se dividirá entre el número de años improductivos. El cociente que se obtenga se adicionará a los intereses a cargo en cada uno de los años productivos y el resultado así obtenido será el monto de intereses deducibles en el ejercicio de que se trate.
-
-En los años siguientes al primer año productivo, el cociente obtenido conforme al párrafo anterior se actualizará desde el último mes de la primera mitad del ejercicio en que se empezó a tener ingresos y hasta el último mes de la primera mitad del ejercicio en el que se deducen. Este procedimiento se hará hasta amortizar el total de dichos intereses.
-
-XI. Que el costo de adquisición declarado o los intereses que se deriven de créditos recibidos por el contribuyente, correspondan a los de mercado. Cuando excedan del precio de mercado no será deducible el excedente.
-
-XII. Que tratándose de las inversiones no se les dé efectos fiscales a su reevaluación.
-
-XIII. Que en el caso de adquisición de bienes de importación, se compruebe que se cumplieron los requisitos legales para su importación definitiva. Cuando se trate de la adquisición de bienes que se encuentren sujetos al régimen de importación temporal, los mismos se deducirán hasta el momento en el que se retornen al extranjero en los términos de la Ley Aduanera o, tratándose de inversiones de activo fijo, en el momento en el que se cumplan los requisitos para su importación temporal. También se podrán deducir los bienes que se encuentren sujetos al régimen de depósito fiscal de conformidad con la legislación aduanera, cuando el contribuyente los enajene, los retorne al extranjero o sean retirados del depósito fiscal para ser importados definitivamente. El importe de los bienes o inversiones a que se refiere este párrafo no podrá ser superior al valor en aduanas del bien de que se trate.
-
-El contribuyente sólo podrá deducir las adquisiciones de los bienes que mantenga fuera del país, hasta el momento en el que se enajenen o se importen, salvo que dichos bienes se encuentren afectos a un establecimiento permanente que tenga en el extranjero.
-
-XIV. Que se deduzcan conforme se devenguen las pérdidas cambiarias provenientes de deudas o créditos en moneda extranjera.
-
-El monto del ajuste anual por inflación deducible en los términos del párrafo anterior, se determinará de conformidad con lo siguiente:
-
-a) Determinarán el saldo promedio anual de sus deudas y el saldo promedio anual de sus créditos.
-
-El saldo promedio anual de los créditos o deudas será la suma de los saldos al último día de cada uno de los meses del ejercicio, dividida entre el número de meses del ejercicio. No se incluirán en el saldo del último día de cada mes los intereses que se devenguen en el mes.
-
-b) Cuando el saldo promedio de las deudas sea mayor que el de los créditos, la diferencia se multiplicará por el factor de ajuste anual y el resultado será el ajuste anual por inflación acumulable.
-
-Cuando el saldo promedio anual de los créditos sea mayor que el de las deudas, la diferencia se multiplicará por el factor de ajuste anual y el resultado será el ajuste anual por inflación deducible.
-
-c) El factor de ajuste anual será el que se obtenga de dividir el Índice Nacional de Precios al Consumidor del último mes del ejercicio de que se trate entre el citado Índice del Índice Nacional de Precios al Consumidor (sic) del último mes del ejercicio de que se trate entre el citado índice del mes inmediato anterior al del primer mes del ejercicio de que se trate.
-
-Cuando el ejercicio sea menor de 12 meses, el factor de ajuste anual será el que se obtenga de restar la unidad al cociente que se obtenga de dividir en Índice Nacional de Precios al Consumidor del último mes del ejercicio de que se trate entre el citado índice del mes inmediato anterior al del primer mes del ejercicio de que se trate.
-
-Los créditos y deudas en moneda extranjera se valuarán a la paridad existente al primer día del mes.
-
-XV. Que cuando los pagos cuya deducción se pretenda, se hagan a contribuyentes que causen el impuesto al valor agregado, dicho impuesto se traslade en forma expresa y por separado en la documentación comprobatoria. Tratándose de los contribuyentes que ejerzan alguna de las opciones a que se refiere el último párrafo de la Fracción IV de este artículo, el impuesto al valor agregado, además, se deberá anotar en forma expresa y por separado en el reverso del cheque de que se trate o deberá constar en el estado de cuenta, según sea el caso.
-
-XVI. Que tratándose de pagos efectuados por concepto de salarios y en general por la prestación de un servicio personal subordinado se dé cumplimiento a los requisitos a que se refiere el Artículo 119 de la Ley del Impuesto sobre la Renta.
-
-XVII. No serán deducibles:
-
-a) Gastos de representación.
-
-b) Los viáticos o gastos de viaje, en el país o en el extranjero, cuando no se destinen al hospedaje, alimentación, transporte, uso o goce temporal de automóviles y pago de kilometraje, de la persona beneficiaria del viático o cuando se apliquen dentro de una faja de 50 kilómetros que circunde al establecimiento del contribuyente.
-
-c) Tratándose de gastos de viaje destinados a la alimentación, sólo será deducible hasta por un monto que no exceda de $750.00 diarios por cada beneficiario, cuando los mismos se eroguen en territorio nacional, o $1,500.00 cuando se eroguen en el extranjero, y el contribuyente acompañe a la documentación que los ampare la relativa al hospedaje o transporte.
-
-d) Los gastos de viaje destinados al uso o goce temporal de automóviles y gastos relacionados, serán deducibles hasta por un monto que no exceda de $850.00 diarios, cuando se eroguen en territorio nacional o en el extranjero, y el contribuyente acompañe a la documentación que los ampare la relativa al hospedaje o transporte.
-
-e) Los gastos de viaje destinados al hospedaje, sólo serán deducibles hasta por un monto que no exceda de $3,850.00 diarios, cuando se eroguen en el extranjero, y el contribuyente acompañe a la documentación que los ampare la relativa al transporte.
-
-f) Cuando el total o una parte de los viáticos o gastos de viaje con motivo de seminarios o convenciones, efectuados en el país o en el extranjero, formen parte de la cuota de recuperación que se establezca para tal efecto y en la documentación que los ampare no se desglose el importe correspondiente a tales erogaciones, sólo será deducible de dicha cuota, una cantidad que no exceda el límite de gastos de viaje por día destinado a la alimentación a que se refiere esta fracción. La diferencia que resulte conforme a este párrafo no será deducible en ningún caso.
-
-g) Los pagos por impuesto sobre la renta a cargo del propio contribuyente o de terceros ni los de contribuciones en la parte subsidiada o que originalmente correspondan a terceros, conforme a las disposiciones relativas, excepto tratándose de aportaciones al Instituto Mexicano del Seguro Social. Tampoco serán deducibles los pagos del impuesto al activo a cargo del contribuyente.
-
-h) Las inversiones en casas habitación, en comedores que por su naturaleza no estén a disposición de todos los trabajadores de la empresa, en aviones y embarcaciones, que no tengan concesión o permiso del Gobierno Federal para ser explotados comercialmente ni los pagos por el uso o goce temporal de dichos bienes.
-
-i) Los donativos y gastos de representación.
-
-j) En ningún caso serán deducibles las inversiones o los pagos por el uso o goce temporal de automóviles.
-
-k) Las sanciones, indemnizaciones por daños y perjuicios o las penas convencionales. Las indemnizaciones por daños y perjuicios y las penas convencionales, podrán deducirse cuando la Ley imponga la obligación de pagarlas por provenir de riesgos creados, responsabilidad objetiva, caso fortuito, fuerza mayor o por actos de terceros, salvo que los daños y los perjuicios o la causa que dio origen a la pena convencional, se haya originado por culpa imputable al contribuyente.
-
-l) Los salarios, comisiones y honorarios, pagados por quien concede el uso o goce temporal de bienes inmuebles en un año de calendario, en el monto en que excedan, en su conjunto, del 10% de los ingresos anuales obtenidos por conceder el uso o goce temporal de bienes inmuebles.
-
-m) Los intereses pagados por el contribuyente que correspondan a inversiones de las que no se estén derivando ingresos acumulables por los que se pueda efectuar esta deducción.
-
-n) En el caso de capitales tomados en préstamo para la adquisición de inversiones o la realización de gastos o cuando las inversiones o gastos se efectúen a crédito, y dichas inversiones o gastos no sean deducibles para los efectos de esta Ley, los intereses que se deriven de los capitales tomados en préstamo o de las operaciones a crédito, tampoco serán deducibles. Si las inversiones o los gastos, fueran parcialmente deducibles, los intereses sólo serán deducibles en esa proporción.
-
-o) Para los efectos de lo dispuesto en esta fracción, se considera pago de interés las cantidades que por concepto de impuestos, derechos o que por cualquier otro concepto se paguen por cuenta de quien obtiene el interés, o bien cualquier otro pago, en efectivo o en especie, que se haga por cualquier concepto a quien perciba el interés, siempre que dicho pago derive del mismo contrato que dio origen al pago de intereses.
-
-p) Los pagos por conceptos de Impuesto al Valor Agregado o del impuesto especial sobre producción y servicios que el contribuyente hubiese efectuado y el que le hubieran trasladado. No se aplicará lo dispuesto en este inciso, cuando el contribuyente no tenga derecho al acreditamiento de los mencionados impuestos que le hubieran sido trasladados o que se hubiese pagado con motivo de la importación de bienes o servicios, que corresponden a gastos o inversiones deducibles conforme a esta Ley.
-
-q) Tampoco será deducible el Impuesto al Valor Agregado o el impuesto especial sobre producción y servicios, trasladado al contribuyente o el que él hubiese pagado con motivo de la importación de bienes o servicios, cuando la erogación que dio origen al traslado o al pago no sea deducible en los términos de esta Ley.
-
-r) Las pérdidas derivadas de la enajenación, así como por caso fortuito o fuerza mayor, de los activos cuya inversión no es deducible conforme a lo dispuesto por esta Ley.
-
-s) Los gastos que se realicen en relación con las inversiones que no sean deducibles conforme a este Título.
-
-t) Las pérdidas que se obtengan en las operaciones financieras.
-
-u) Tampoco será deducible la pérdida derivada de la enajenación de títulos valor, siempre que sean de los que se coloquen entre el gran público inversionista, conforme a las reglas generales que al efecto expida el Servicio de Administración Tributaria.
-
-v) Los consumos en bares o restaurantes. Tampoco serán deducibles los gastos en comedores que por su naturaleza no estén a disposición de todos los trabajadores de la empresa y aun cuando lo estén, éstos excedan de un monto equivalente a un salario mínimo general diario del área geográfica del contribuyente por cada trabajador que haga uso de los mismos y por cada día en que se preste el servicio, adicionado con las cuotas de recuperación que pague el trabajador por este concepto.
-
-El límite que establece este inciso no incluye los gastos relacionados con la prestación de servicio de comedor como son, el mantenimiento de laboratorios o especialistas que estudien la calidad e idoneidad de los alimentos servidos en los comedores a que se refiere el párrafo anterior.
-
-w) Los pagos por servicios aduaneros, distintos de los honorarios de agentes aduanales y de los gastos en que incurran dichos agentes o la persona moral constituida por dichos agentes aduanales en los términos de la Ley Aduanera.
-
-x) Los pagos de cantidades iniciales por el derecho de adquirir o vender, bienes, divisas, acciones u otros títulos valor que no coticen en mercados reconocidos.
-
-y) La restitución efectuada por el prestatario por un monto equivalente a los derechos patrimoniales de los títulos recibidos en préstamo.
-
-z) Las cantidades que tengan el carácter de participación en la utilidad del contribuyente o estén condicionadas a la obtención de ésta, ya sea que correspondan a trabajadores, a miembros del consejo de administración, a obligacionistas o a otros.
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
 ###### Artículo 84.
 
-Las inversiones únicamente se podrán deducir mediante la aplicación en cada ejercicio, de los por cientos máximos autorizados por esta Ley, sobre el monto original de la inversión, con las limitaciones en deducciones que, en su caso, establezca esta Ley. Cuando (sic) el bien hayan sido adquiridos o se comience a utilizar después de iniciado el ejercicio y en el que se termine su deducción, ésta se efectuará parcialmente en el por ciento que represente el número de meses completos del ejercicio en los que el bien haya sido utilizado por el contribuyente, respecto de doce meses en cada ejercicio.
-
-El monto original de la inversión comprende, además del precio del bien, las contribuciones, cuotas compensatorias, fletes, transportes, acarreos, seguros, comisiones sobre compras, y honorarios a agentes aduanales efectivamente pagadas por la adquisición o importación del mismo, excepto el Impuesto al Valor Agregado.
-
-Las inversiones empezarán a deducirse, a elección del contribuyente, a partir del ejercicio en se (sic) inicie la utilización del bien, o desde el ejercicio siguiente; en caso de que no efectuará la deducción durante un ejercicio fiscal, podrá hacerlo con posterioridad, pero perderá el derecho a deducir las cantidades correspondientes a los ejercicios transcurridos desde que pudo efectuar la deducción y hasta que inicie la misma.
-
-Cuando el contribuyente enajene los bienes o cuando éstos dejen de ser útiles para obtener los ingresos, deducirá en el ejercicio en que esto ocurra, la parte aún no deducida. Si dejan de ser útiles para obtener los ingresos, el contribuyente deberá mantener sin deducción un peso en sus registros.
-
-La deducción determinada en los términos del primer y cuarto párrafo de este artículo se ajustará multiplicándola por el factor de actualización correspondiente al periodo comprendido desde el mes en que adquirió el bien y hasta el último mes de la primera mitad del periodo en que el bien haya sido utilizado durante el ejercicio. Cuando sea impar el número de meses comprendidos en el periodo en el que el bien haya sido utilizado en el ejercicio, se considerará como último mes de la primera mitad de dicho periodo, el mes inmediato anterior al que corresponda la mitad del periodo.
-
-Se consideran inversiones los activos fijos, los gastos y cargos diferidos y las erogaciones realizadas en periodos preoperativos, cuyos conceptos se señalan a continuación:
-
-Activo fijo conjunto de bienes tangibles que utilicen los contribuyentes para la realización de sus actividades y que se demeriten por el uso en el servicio y por el transcurso del tiempo.
-
-Gastos diferidos, son activos intangibles representados por bienes o derechos que permitan reducir costos de operación, mejorar la calidad o aceptación de un producto, usar, disfrutar o explorar un bien por un periodo limitado, o que permitan la explotación de bienes de dominio público o la prestación de un servicio público concesionado.
-
-Cargos diferidos, los que reúnan los requisitos señalados en el párrafo anterior, excepto los relativos a la explotación de bienes del dominio público o la prestación de un servicio público concesionado, pero cuyo beneficio sea por un periodo ilimitado.
-
-Para efecto de la deducción de las inversiones, se aplicarán las disposiciones y por cientos siguientes:
-
-"A" Bienes intangibles:
-
-I. 5% para cargos diferidos;
-
-II. 10% para erogaciones realizadas en periodos preoperativos;
-
-III. 15% para regalías, asistencia técnica, y otros cargos diferidos, a excepción de los señalados en la Fracción IV del presente artículo;
-
-IV. En el caso de activos intangibles que permitan la explotación de bienes del dominio público o la prestación de un servicio público concesionado, el por ciento máximo se calculará dividiendo la unidad entre el número de años por los cuales se otorgó la concesión, el cociente así obtenido se multiplicará por cien y el producto se expresará en por ciento.
-
-En el caso de que el beneficio de las inversiones a que se refieren las Fracciones II y III de este artículo se concrete en el mismo ejercicio en el que se realizó la erogación, la deducción podrá efectuarse en su totalidad en dicho ejercicio.
-
-Tratándose de contribuyentes que se dediquen a la explotación de yacimientos de mineral, éstos podrán optar por deducir las erogaciones realizadas en periodos preoperativos, en el ejercicio en que las mismas se realicen. Dicha opción deberá ejercerse para todos los gastos preoperativos que correspondan a cada yacimiento en el ejercicio de que se trate.
-
-"B" Bienes tangibles:
-
-l. Tratándose de construcciones:
-
-a) 10% para inmuebles declarados como monumentos arqueológicos, artísticos, históricos o patrimoniales, conforme a la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, que cuenten con el certificado de restauración expedido por el Instituto Nacional de Antropología e Historia o el Instituto Nacional de Bellas Artes.
-
-b) 5% en los demás casos.
-
-II. Tratándose de ferrocarriles:
-
-a) 3% para bombas de suministro de combustible a trenes.
-
-b) 5% para vías férreas.
-
-c) 6% para carros de ferrocarril, locomotoras, armones y autoarmones.
-
-d) 7% para maquinaria niveladora de vías, desclavadoras, esmeriles para vías, gatos de motor para levantar la vía, removedora, insertadora y taladradora de durmientes.
-
-e) 10% para el equipo de comunicación, señalización y telemando.
-
-III. 10% para mobiliario y equipo de oficina.
-
-IV. 6% para embarcaciones.
-
-V. Tratándose de aviones:
-
-a) 25% para los dedicados a la aerofumigación agrícola.
-
-b) 10% para los demás.
-
-VI. 25% para automóviles, autobuses, camiones de carga, tractocamiones y remolques.
-
-VII. 30% para computadoras personales de escritorio y portátiles; servidores; impresoras, lectores ópticos, graficadores, lectores de código de barras, digitalizadores, unidades de almacenamiento externo y concentradores de redes de cómputo.
-
-VIII. 35% para dados, troqueles, moldes, matrices y herramental.
-
-IX. 100% para semovientes, vegetales, máquinas registradoras de comprobación fiscal y equipos electrónicos de registro fiscal.
-
-X. Tratándose de comunicaciones telefónicas:
-
-a) 5% para torres de transmisión y cables, excepto los de fibra óptica.
-
-b) 8% para sistemas de radio, incluyendo equipo de transmisión y manejo que utiliza el espectro radioeléctrico, tales como el de radiotransmisión de microonda digital o analógica, torres de microondas y guías de onda.
-
-c) 10% para equipo utilizado en la transmisión, tales como circuitos de la planta interna que no forman parte de la conmutación y cuyas funciones se enfocan hacia las troncales que llegan a la central telefónica, incluye multiplexores, equipos concentradores y ruteadores.
-
-d) 25% para equipo de la central telefónica destinado a la conmutación de llamadas de tecnología distinta a la electromecánica.
-
-e) 10% para los demás.
-
-XI. Tratándose de comunicaciones satelitales:
-
-a) 8% para el segmento satelital en el espacio, incluyendo el cuerpo principal del satélite, los transpondedores, las antenas para la transmisión y recepción de comunicaciones digitales y análogas, y el equipo de monitoreo en el satélite.
-
-b) 10% para el equipo satelital en tierra, incluyendo las antenas para la transmisión y recepción de comunicaciones digitales y análogas y el equipo para el monitoreo del satélite.
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
 ###### Artículo 85.
 
-Para la maquinaria y equipo distintos de los señalados en el artículo anterior, se aplicarán, de acuerdo a la actividad en que sean utilizados, los por cientos siguientes:
-
-I. 5% en la generación, conducción, transformación y distribución de electricidad; en la molienda de granos; en la producción de azúcar y sus derivados; en la fabricación de aceites comestibles; en el transporte marítimo, fluvial y lacustre.
-
-II. 6% en la producción de metal obtenido en primer proceso; en la fabricación de productos de tabaco y derivados del carbón natural.
-
-III. 7% en la fabricación de pulpa, papel y productos similares; en la extracción y procesamiento de petróleo crudo y gas natural.
-
-IV. 8% en la fabricación de vehículos de motor y sus partes; en la construcción de ferrocarriles y navíos; en la fabricación de productos de metal, de maquinaria y de instrumentos profesionales y científicos; en la elaboración de productos alimenticios y de bebidas, excepto granos, azúcar, aceites comestibles y derivados.
-
-V. 9% en el curtido de piel y la fabricación de artículos de piel; en la elaboración de productos químicos, petroquímicos y fármaco biológicos; en la fabricación de productos de caucho y de plástico; en la impresión y publicación gráfica.
-
-VI. 10% en el transporte eléctrico.
-
-VII. 11% en la fabricación, acabado, teñido y estampado de productos textiles, así como de prendas para el vestido.
-
-VIII. 12% en la industria minera; en la construcción de aeronaves y en el transporte terrestre de carga y pasajeros. Lo dispuesto en esta fracción no será aplicable a la maquinaria y equipo señalada en la fracción II de este artículo.
-
-IX. 16% en el transporte aéreo; en la transmisión de los servicios de comunicación proporcionados por telégrafos y por las estaciones de radio y televisión.
-
-X. 20% en restaurantes.
-
-XI. 25% en la industria de la construcción; en actividades de agricultura, ganadería, silvicultura y pesca.
-
-XII. 35% para los destinados directamente a la investigación de nuevos productos o desarrollo de tecnología en el país.
-
-XIII. 50% en la manufactura, ensamble y transformación de componentes magnéticos para discos duros y tarjetas electrónicas para la industria de la computación.
-
-XIV. 100% en la conversión a consumo de gas natural y para prevenir y controlar la contaminación ambiental en cumplimiento de las disposiciones legales respectivas.
-
-XV. 10% en otras actividades no especificadas en este artículo.
-
-En el caso de que el contribuyente se dedique a dos o más actividades de las señaladas en este artículo, se aplicará el por ciento que le corresponda a la actividad en la que hubiera obtenido más ingresos en el ejercicio inmediato anterior.
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
 ###### Artículo 86.
 
-La deducción de las inversiones se sujetará a las reglas siguientes:
-
-l. Las reparaciones, así como las adaptaciones a las instalaciones se considerarán inversiones siempre que impliquen adiciones o mejoras al activo fijo.
-
-En ningún caso se considerarán inversiones los gastos por concepto de conservación, mantenimiento y reparación, que se eroguen con el objeto de mantener el bien de que se trate en condiciones de operación.
-
-II. Las inversiones en automóviles sólo serán deducibles hasta por un monto de $300,000.00.
-
-Lo dispuesto en esta fracción no será aplicable tratándose de contribuyentes cuya actividad consista en el otorgamiento del uso o goce temporal de automóviles, siempre y cuando los destinen exclusivamente a dicha actividad.
-
-III. Las inversiones en casas habitación y en comedores, que por su naturaleza no estén a disposición de todos los trabajadores de la empresa, así como en aviones y embarcaciones que no tengan concesión o permiso del Gobierno Federal para ser explotados comercialmente, sólo serán deducibles en los casos que reúnan los requisitos que señale el Reglamento de esta Ley. En el caso de aviones, la deducción se calculará considerando como monto original máximo de la inversión, una cantidad equivalente a $8´600,000.00.
-
-Tratándose de contribuyentes cuya actividad preponderante consista en el otorgamiento del uso o goce temporal de aviones o automóviles podrán efectuar la deducción total del monto original de la inversión del avión o del automóvil de que se trate excepto cuando dichos contribuyentes otorguen el uso o goce temporal de aviones o automóviles a otro contribuyente cuando alguno de ellos o sus socios o accionistas, sean a su vez socios o accionistas del otro, o exista una relación que de hecho le permita a uno de ellos ejercer una influencia preponderante en las operaciones del otro en cuyo caso la deducción se determinará en los términos del primer párrafo de esta fracción, para el caso de aviones y en los términos de la Fracción II de este artículo para el caso de automóviles.
-
-Las inversiones en casas de recreo en ningún caso serán deducibles.
-
-IV. Las comisiones y los gastos relacionados con la emisión de obligaciones o de cualquier otro título de crédito colocados entre el gran público inversionista o bonos de deuda pública se deducirán anualmente en proporción a los pagos efectuados para redimir dichas obligaciones o títulos en cada ejercicio. Cuando las obligaciones y los títulos a que se refiere esta fracción se rediman mediante un solo pago, las comisiones y los gastos se deducirán por partes iguales durante los ejercicios que transcurran hasta que se efectúe el pago.
-
-V. Las construcciones instalaciones o mejoras permanentes en activos fijos tangibles, propiedad de terceros que de conformidad con los contratos de arrendamiento o de concesión respectivos queden a beneficio del propietario y se hayan efectuado a partir de la fecha de celebración de los contratos mencionados, se deducirán en los términos de este Capítulo. Cuando la terminación del contrato ocurra sin que las inversiones deducibles hayan sido fiscalmente redimidas el valor por redimir podrá deducirse en la declaración del ejercicio respectivo.
-
-VI. Tratándose de regalías se podrá efectuar la deducción en los términos del Artículo 84 Apartado "A" Fracción III de esta Ley.
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
 ###### Artículo 87.
 
-Los contribuyentes de las Secciones I y IV del Capítulo V de este Título, podrán optar por efectuar la deducción inmediata de la inversión de bienes nuevos de activo fijo, en lugar de la prevista en los Artículos 84, 85 y 86, deduciendo en el ejercicio siguiente al en que se inicie su utilización, la cantidad que resulte de aplicar, al monto original de la inversión, únicamente los por cientos siguientes:
-
-I. Los por cientos por tipo de bien serán:
-
-a) Tratándose de construcciones:
-
-1. 74% para inmuebles declarados como monumentos arqueológicos, artísticos, históricos o patrimoniales, conforme a la Ley Federal sobre Monumentos y Zonas Arqueológicas, Artísticas e Históricas, que cuenten con el certificado de restauración expedido por el Instituto Nacional de Antropología e Historia o el Instituto Nacional de Bellas Artes.
-
-2. 57% en los demás casos.
-
-b) Tratándose de ferrocarriles:
-
-1. 43% para bombas de suministro de combustible a trenes.
-
-2. 57% para vías férreas.
-
-3. 62% para carros de ferrocarril, locomotoras, armones y autoarmones.
-
-4. 66% para maquinaria niveladora de vías, desclavadoras, esmeriles para vías, gatos de motor para levantar la vía, removedora, insertadora y taladradora de durmientes.
-
-5. 74% para el equipo de comunicación, señalización y telemando.
-
-c) 62% para embarcaciones.
-
-d) 87% para aviones dedicados a la aerofumigación agrícola.
-
-e) 88% para computadoras personales de escritorio y portátiles; servidores; impresoras, lectores ópticos, graficadores, lectores de código de barras, digitalizadores, unidades de almacenamiento externo y concentradores de redes de cómputo.
-
-f) 89% para dados, troqueles, moldes, matrices y herramental.
-
-g) Tratándose de comunicaciones telefónicas:
-
-1. 57% para torres de transmisión y cables, excepto los de fibra óptica.
-
-2. 69% para sistemas de radio, incluye equipo de transmisión y manejo que utiliza el espectro radioeléctrico, tales como el de radiotransmisión de microonda digital o analógica, torres de microondas y guías de onda.
-
-3. 74% para equipo utilizado en la transmisión, tales como circuitos de la planta interna que no forman parte de la conmutación y cuyas funciones se enfocan hacia las troncales que llegan a la central telefónica, incluye multiplexores, equipos concentradores y ruteadores.
-
-4. 87% para equipo de la central telefónica destinado a la conmutación de llamadas de tecnología distinta a la electromecánica.
-
-5.74% para los demás.
-
-h) Tratándose de comunicaciones satelitales:
-
-1. 69% para el segmento satelital en el espacio, incluyendo el cuerpo principal del satélite, los transpondedores, las antenas para la transmisión y recepción de comunicaciones digitales y análogas, y el equipo de monitoreo en el satélite.
-
-2. 74% para el equipo satelital en tierra, incluyendo las antenas para la transmisión y recepción de comunicaciones digitales y análogas y el equipo para el monitoreo del satélite.
-
-II. Para la maquinaria y equipo distintos de los señalados en la fracción anterior, se aplicarán, de acuerdo a la actividad en que sean utilizados, los por cientos siguientes:
-
-a) 57% en la generación, conducción, transformación y distribución de electricidad; en la molienda de granos; en la producción de azúcar y sus derivados; en la fabricación de aceites comestibles; y en el transporte marítimo, fluvial y lacustre.
-
-b) 62% en la producción de metal obtenido en primer proceso; en la fabricación de productos de tabaco y derivados del carbón natural.
-
-c) 66% en la fabricación de pulpa, papel y productos similares; en la extracción y procesamiento de petróleo crudo y gas natural.
-
-d) 69% en la fabricación de vehículos de motor y sus partes; en la construcción de ferrocarriles y navíos; en la fabricación de productos de metal, de maquinaria y de instrumentos profesionales y científicos; en la elaboración de productos alimenticios y de bebidas, excepto granos, azúcar, aceites comestibles y derivados.
-
-e) 71% en el curtido de piel y la fabricación de artículos de piel; en la elaboración de productos químicos, petroquímicos y fármaco biológicos; en la fabricación de productos de caucho y de plástico; en la impresión y publicación gráfica.
-
-f) 74% en el transporte eléctrico.
-
-g) 75% en la fabricación, acabado, teñido y estampado de productos textiles, así como de prendas para el vestido.
-
-h) 77% en la industria minera; en la construcción de aeronaves. Lo dispuesto en este inciso no será aplicable a la maquinaria y equipo señalado en el inciso b) de esta fracción.
-
-i) 81% en la transmisión de los servicios de comunicación proporcionados por las estaciones de radio y televisión.
-
-j) 84% en restaurantes.
-
-k) 87% en la industria de la construcción; en actividades de agricultura, ganadería, silvicultura y pesca.
-
-l) 89% para los destinados directamente a la investigación de nuevos productos o desarrollo de tecnología en el país.
-
-m) 92% en la manufactura, ensamble y transformación de componentes magnéticos para discos duros y tarjetas electrónicas para la industria de la computación.
-
-n) 74% en otras actividades no especificadas en esta fracción.
-
-o) 87% en la actividad del autotransporte Público Federal de carga o de pasajeros.
-
-En el caso de que el contribuyente se dedique a dos o más actividades de las señaladas en la Fracción II de este artículo, se aplicará el por ciento que le corresponda a la actividad en la que hubiera obtenido más ingresos en el ejercicio inmediato anterior a aquél en el que se realice la inversión.
-
-La opción a que se refiere este artículo, no podrá ejercerse cuando se trate de mobiliario y equipo de oficina, automóviles, equipo de blindaje de automóviles, o cualquier bien de activo fijo no identificable individualmente ni tratándose de aviones distintos de los dedicados a la aerofumigación agrícola.
-
-Para los efectos de este artículo, se consideran bienes nuevos los que se utilizan por primera vez en México.
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
 ###### Artículo 88.
 
-Los contribuyentes que ejerzan la opción prevista en el artículo anterior, por los bienes a los que la aplicaron, estarán a lo siguiente:
-
-I. El monto original de la inversión se podrá ajustar multiplicándolo por el factor de actualización correspondiente al periodo comprendido desde el mes en el que se adquirió el bien y hasta el último mes de la primera mitad del periodo que transcurra desde que se efectuó la inversión y hasta el cierre del ejercicio de que se trate.
-
-El producto que resulte conforme al párrafo anterior, se considerará como el monto original de la inversión al cual se aplica el por ciento a que se refiere el Articulo 91 de esta Ley por cada tipo de bien.
-
-II. Considerarán ganancia obtenida por la enajenación de los bienes, el total de los ingresos percibidos por la misma.
-
-III. Cuando los bienes se enajenen, se pierdan o dejen de ser útiles, se podrá efectuar una deducción por la cantidad que resulte de aplicar, al monto original de la inversión ajustado con el factor de actualización correspondiente al periodo comprendido desde el mes en el que se adquirió el bien y hasta el último mes de la primera mitad del periodo en el que se haya efectuado la deducción señalada en el Artículo 91 de esta Ley, los por cientos que resulten conforme al número de años transcurridos desde que se efectuó la deducción del Artículo 91 de la Ley citada y el por ciento de deducción inmediata aplicado al bien de que se trate, conforme a la siguiente:
-
-> <small>N. DE E. VER TABLA DE LA LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA SUR EN EL B.O. DE 21 DE FEBRERO DE 2006, PAGINAS 71 - 73.</small>
-
-Para los efectos de las Fracciones I y III de este artículo, cuando sea impar el número de meses del periodo a que se refieren dichas fracciones, se considerará como último mes de la primera mitad el mes inmediato anterior al que corresponda la mitad del periodo.
+(DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
 ### Capítulo VII (sic). De las facultades de las autoridades fiscales
 
@@ -2360,3 +1684,13 @@ NARCISO AGÚNDEZ MONTAÑO
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 VÍCTOR MANUEL GULUARTE CASTRO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 28 DE FEBRERO DE 2006.
+
+Artículo Primero.- El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Artículo Segundo.- Los créditos fiscales causados hasta la fecha, en virtud de las contribuciones a que se refieren los capítulos Quinto y Sexto que se derogan, así como sus accesorios, quedan extinguidos en virtud del presente decreto.
+
+Artículo Tercero.- Quedan derogadas aquellas disposiciones que se opongan al presente decreto.
