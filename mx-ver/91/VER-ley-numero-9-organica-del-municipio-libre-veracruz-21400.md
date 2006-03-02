@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2005-12-12"
+last_updated: "2006-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE MARZO DE 2006.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -441,7 +441,7 @@ XXIX. Otorgar, en el ámbito de su competencia, licencias para construcciones;
 
 > <small>(REFORMADA, G.O. 30 DE JULIO DE 2004)</small>
 
-XXX. Desarrollar planes y programas destinados a la preservación, restauración, aprovechamiento racional y mejoramiento de los recursos naturales, de la flora y la fauna existentes en su territorio, así como para la prevención y combate a la contaminación ambiental, y convocar, coordinar y apoyar a los ejidatarios, propietarios y comuneros, para que establezcan cercas vivas en las zonas limítrofes de sus predios y terrenos o reforestar las franjas de tierra al lado de los ríos y cañadas.
+XXX. Desarrollar planes y programas destinados a la preservación, restauración, aprovechamiento racional y mejoramiento de los recursos naturales, de la flora y la fauna existentes en su territorio, así como para la prevención y combate a la contaminación ambiental, y convocar, coordinar y apoyar a los ejidatarios, propietarios y comuneros, para que establezcan cercas vivas en las zonas limítrofes de sus predios o terrenos y reforestar las franjas de tierra al lado de los ríos y cañadas.
 
 XXXI. Participar en la creación y administración de zonas de reservas ecológicas, en la elaboración y aplicación de programas de ordenamiento en esta materia y en la formulación de programas de desarrollo regional;
 
@@ -543,9 +543,13 @@ XXIII. Presidir el Consejo Municipal de Protección Civil;
 
 XXIV. Asumir la representación jurídica del Ayuntamiento en los actos y hechos en que éste fuera parte, cuando el Síndico esté impedido legalmente para ello, se excuse o se niegue a asumirla, requiriéndose, en este último caso, la previa autorización del Cabildo; y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 22 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 2 DE MARZO DE 2006)</small>
 
-XXV. Las demás que expresamente le confieran esta ley y demás leyes del Estado.
+XXV. Tener bajo su mando al personal que preste en el municipio el servicio público de tránsito, cuando éste se encuentre a cargo del Ayuntamiento; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 2 DE MARZO DE 2006)</small>
+
+XXVI. Las demás que expresamente le confieran esta ley y demás leyes del Estado.
 
 ### CAPÍTULO VI. DE LOS REGIDORES
 
@@ -553,11 +557,15 @@ XXV. Las demás que expresamente le confieran esta ley y demás leyes del Estado
 
 Son atribuciones del Síndico:
 
-I. Procurar, defender y promover los intereses del municipio en los litigios en los que fuere parte, delegar poderes, comparecer a las diligencias, interponer recursos, ofrecer pruebas y formular alegatos, otorgar el perdón judicial, formular posiciones y, en su caso, rendir informes, promover y desistirse del juicio de amparo y del juicio de lesividad. En los casos de delegación de poderes, otorgamiento del perdón judicial y desistimiento en los juicios de amparo o de lesividad, se requerirá previa autorización del Ayuntamiento;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2006)</small>
+
+I. Procurar, defender y promover los intereses del municipio en los litigio (sic) en los que fuere parte, comparecer a las diligencias, interponer recursos, ofrecer pruebas y formular alegatos, formular posiciones y, en su caso, rendir informes, promover el juicio de amparo y el juicio de lesividad. Para delegar poderes, otorgar el perdón judicial, desistirse, transigir, comprometerse en árbitros o hacer cesión de bienes municipales, el Síndico requiere la autorización previa del Cabildo;
 
 II. Representar legalmente al Ayuntamiento;
 
-III. Vigilar las labores de la Tesorería y promover la gestión de los negocios de la Hacienda Municipal;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2006)</small>
+
+III. Vigilar las labores de la Tesorería y promover la gestión de los negocios de la Hacienda Municipal, así como coadyuvar con el órgano de control interno del Ayuntamiento en el ejercicio de las funciones de éste;
 
 > <small>(REFORMADA, G.O. 22 DE ABRIL DE 2003)</small>
 
@@ -831,9 +839,15 @@ II. Vigilar el cumplimiento de las disposiciones legales en materia de fusión, 
 
 III. Vigilar que las licencias del uso del suelo se apeguen a las disposiciones legales respectivas;
 
-IV. Supervisar el cumplimiento del reglamento de construcciones; y
+IV. Supervisar el cumplimiento del reglamento de construcciones; y (sic)
 
-V. Las demás que expresamente le señalen esta ley y demás leyes aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 2 DE MARZO DE 2006)</small>
+
+V. Intervenir en la regularización de la tenencia de la tierra urbana; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 2 DE MARZO DE 2006)</small>
+
+VI. Las demás que expresamente le señalen esta ley y demás leyes aplicables.
 
 ###### Artículo 52.
 
@@ -2542,3 +2556,9 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 G.O. 12 DE DICIEMBRE DE 2005.
 
 Primero. El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial.
+
+G.O. 2 DE MARZO DE 2006.
+
+Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones de observancia general que se opongan a este decreto.
