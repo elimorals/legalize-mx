@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-102-de-asistencia-social-y-proteccion-de-ninos-y-124
 country: "mx"
 rank: "ley"
 publication_date: "1998-09-08"
-last_updated: "1998-09-08"
+last_updated: "2006-03-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE ASISTENCIA SOCIAL Y PROTECCION DE NIÑOS Y NIÑAS DEL ESTADO DE VERACRUZ
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MARZO DE 2006.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 8 de septiembre de 1998.
 
@@ -232,6 +232,10 @@ Los niños y niñas con problemas de discapacidad gozan de todos los derechos co
 ###### Artículo 39.
 
 Las instituciones educativas deberán colaborar con el Estado en la difusión de la información relativa a los derechos de niños y niñas y contribuir a que gradualmente se vaya integrando a la educación una nueva cultura de respeto a los derechos humanos.
+
+> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2006)</small>
+
+El Congreso del Estado a través de las Comisiones Permanentes de Juventud y Deporte, de Derechos Humanos y Atención a Grupos Vulnerables y de Educación y Cultura, el Ejecutivo del Estado por conducto de la Secretaría de Educación, la Comisión Estatal de los Derechos Humanos y el Sistema para el Desarrollo Humano y Familiar de los Veracruzanos a través del Consejo Estatal de Asistencia Social y Protección de Niños y Niñas, se encargarán de la organización del Parlamento de Niñas y Niños de Veracruz, a efectuarse en forma anual, el mes de abril.
 
 ### CAPÍTULO CUARTO. De la cultura, esparcimiento y deportes
 
@@ -774,3 +778,11 @@ Secretaria de Salud y Asistencia
 GUILLERMO ZÚÑIGA MARTÍNEZ
 
 Secretario de Educación y Cultura
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 2 DE MARZO DE 2006.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente.
