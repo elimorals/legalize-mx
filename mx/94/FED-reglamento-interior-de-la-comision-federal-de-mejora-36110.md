@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-comision-federal-de-mejora-36110"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-01-28"
-last_updated: "2004-01-28"
+last_updated: "2006-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36110&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-01-22"
 
 REGLAMENTO INTERIOR DE LA COMISION FEDERAL DE MEJORA REGULATORIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE MARZO DE 2006.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 28 de enero de 2004.
 
@@ -91,13 +91,27 @@ III. Coordinación General de Mejora Regulatoria Institucional;
 
 IV. Coordinación General de Manifestaciones de Impacto Regulatorio;
 
-V. Coordinación General de Proyectos Especiales, y
+> <small>(REFORMADA, D.O.F. 3 DE MARZO DE 2006)</small>
 
-VI. Coordinación Ejecutiva.
+V. Coordinación General de Proyectos Especiales;
+
+> <small>(REFORMADA, D.O.F. 3 DE MARZO DE 2006)</small>
+
+VI. Coordinación de Estados y Municipios;
+
+> <small>(ADICIONADA, D.O.F. 3 DE MARZO DE 2006)</small>
+
+VII. Coordinación Ejecutiva, y
+
+> <small>(ADICIONADA, D.O.F. 3 DE MARZO DE 2006)</small>
+
+VIII. Dirección de Administración.
+
+> <small>(REFORMADO, D.O.F. 3 DE MARZO DE 2006)</small>
 
 ###### Artículo 8.
 
-Las Coordinaciones Generales y la Coordinación Ejecutiva de la Comisión estarán a cargo de los Coordinadores que al efecto nombre el Titular, quienes se auxiliarán de los Directores de Área, Subdirectores, Jefes de Departamento, Analistas y demás personal técnico y administrativo que sea requerido para el debido ejercicio de sus atribuciones y de conformidad con el presupuesto autorizado.
+Las Coordinaciones Generales, las Coordinaciones y la Dirección de Administración de la Comisión estarán a cargo de los Coordinadores y del Director de Administración, respectivamente, que al efecto nombre el Titular, quienes se auxiliarán de los Directores de Área, Subdirectores, Jefes de Departamento, Analistas y demás personal técnico y administrativo que sea requerido para el debido ejercicio de sus atribuciones y de conformidad con el presupuesto autorizado.
 
 ### CAPÍTULO II. De las atribuciones del Titular
 
@@ -105,7 +119,9 @@ Las Coordinaciones Generales y la Coordinación Ejecutiva de la Comisión estar�
 
 El trámite y resolución de los asuntos competencia de la Comisión, corresponden originariamente a su Titular, quien tiene las siguientes atribuciones:
 
-I. Interpretar para efectos administrativos el Título Tercero A de la Ley;
+> <small>(REFORMADA, D.O.F. 3 DE MARZO DE 2006)</small>
+
+I. Interpretar, para efectos administrativos, el Título Tercero A de la Ley y, en su caso, publicar los criterios correspondientes en el Diario Oficial de la Federación;
 
 II. Revisar el marco regulatorio nacional, diagnosticar su aplicación y elaborar para su propuesta al Titular del Ejecutivo Federal, proyectos de disposiciones legislativas y administrativas, así como programas para mejorar la regulación en actividades o sectores económicos específicos, tanto a nivel federal como estatal y municipal, conforme a los convenios de colaboración que, en su caso se celebren, en estos dos últimos casos;
 
@@ -117,7 +133,9 @@ V. Hacer públicos los programas de mejora regulatoria y los reportes periódico
 
 VI. Expedir el manual de elaboración de manifestaciones de impacto regulatorio;
 
-VII. Hacer públicos, a través de los medios idóneos y de acuerdo con lo que establece la Ley y la regulación aplicable en materia de acceso a la información pública gubernamental:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE MARZO DE 2006)</small>
+
+VII. Hacer públicos, a través de los medios idóneos y de acuerdo con lo que establece la Ley y las disposiciones aplicables en materia de acceso a la información pública gubernamental:
 
 a) Los anteproyectos y manifestaciones de impacto regulatorio que reciba;
 
@@ -173,17 +191,31 @@ XXVII. Tramitar el presupuesto aprobado a la Comisión, mediante su administraci
 
 XXVIII. Nombrar y remover a los servidores públicos de la Comisión, conforme a los ordenamientos legales aplicables;
 
-XXIX. Informar a la Secretaría de la Función Pública de los casos que tenga conocimiento sobre incumplimientos a lo previsto en la Ley y en los reglamentos y demás disposiciones aplicables sobre la materia, y
+> <small>(REFORMADA, D.O.F. 3 DE MARZO DE 2006)</small>
 
-XXX. Las demás que le señalen la Ley, este Reglamento y demás disposiciones jurídicas aplicables.
+XXIX. lmplementar las políticas de comunicación social de la Comisión de conformidad con los lineamientos establecidos por la Secretaría de Economía y las autoridades competentes en materia de comunicación social del Gobierno Federal;
 
-Salvo las facultades establecidas en las fracciones I; VI; XXI, en relación con la celebración de Acuerdos Interinstitucionales; XXII; XXIII; XXVI; XXVIII, y XXIX, el Titular de la Comisión podrá delegar las facultades a que se refiere este artículo, incluida la representación legal, en los servidores públicos que estime pertinentes, mediante acuerdo que será publicado en el Diario Oficial de la Federación.
+(REFORMADA (N. DE E. ADICIONADA), D.O.F. 3 DE MARZO DE 2006)
 
-### CAPÍTULO III. De las funciones de las Coordinaciones Generales de la Comisión y de la Coordinación Ejecutiva
+XXX. Informar a la Secretaría de la Función Pública de los casos que tenga conocimiento sobre incumplimientos a lo previsto en la Ley y en los reglamentos y demás disposiciones aplicables sobre la materia, y
+
+(ADICIONADA (N. DE E. REUBICADA), D.O.F. 3 DE MARZO DE 2006)
+
+XXXI. Las demás que le señalen la Ley, este Reglamento y demás disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, D.O.F. 3 DE MARZO DE 2006)</small>
+
+Salvo las facultades establecidas en las fracciones I; VI; XXI, en relación con la celebración de Acuerdos Interinstitucionales; XXII; XXIII; XXVI; XXVIII, y XXX, el Titular de la Comisión podrá delegar las facultades a que se refiere este artículo, incluida la representación legal, en los servidores públicos que estime pertinentes, mediante acuerdo que será publicado en el Diario Oficial de la Federación.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 3 DE MARZO DE 2006)</small>
+
+### CAPÍTULO III. De las funciones de las Coordinaciones de la Comisión y de la Dirección de Administración
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE MARZO DE 2006)</small>
 
 ###### Artículo 10.
 
-Son atribuciones de las Coordinaciones Generales de Mejora Regulatoria a que se refieren las fracciones I a III del artículo 7 de este Reglamento, las siguientes:
+Son atribuciones de las Coordinaciones Generales de Mejora Regulatoria, así como de la Coordinación Ejecutiva, las siguientes:
 
 I. Revisar y formular comentarios, así como emitir el diagnóstico de su aplicación, respecto del marco regulatorio nacional;
 
@@ -199,11 +231,15 @@ VI. Someter a la consideración del Titular, en su caso, los dictámenes parcial
 
 VII. Elaborar y proponer al Titular los proyectos de opinión sobre los tratados internacionales que México pretenda suscribir, en términos del tercer párrafo del artículo 69-H de la Ley;
 
-VIII. Opinar respecto de los trámites y servicios que las dependencias y organismos descentralizados entreguen a la Comisión, para su inscripción en el Registro;
+> <small>(REFORMADA, D.O.F. 3 DE MARZO DE 2006)</small>
+
+VIII. Opinar respecto de los trámites y servicios que las dependencias y organismos descentralizados entreguen a la Comisión, para su inscripción en el Registro e informar a la Coordinación General de Proyectos Especiales respecto de dicha opinión;
 
 IX. En su caso, proponer al Titular eximir a las dependencias u organismos descentralizados, de la obligación de proporcionar la información a que se refiere el artículo 69-M de la Ley, respecto de trámites específicos que se realicen exclusivamente por personas físicas, cuando éstos no se relacionen con el establecimiento o desarrollo de una actividad empresarial determinada;
 
-X. Proponer al Titular de la Comisión criterios de interpretación del Título Tercero A de la Ley;
+> <small>(REFORMADA, D.O.F. 3 DE MARZO DE 2006)</small>
+
+X. Proponer al Titular de la Comisión criterios de interpretación, para efectos administrativos, del Título Tercero A de la Ley;
 
 XI. Informar al Titular de la Comisión sobre el avance en el cumplimiento, por parte de las dependencias y organismos descentralizados, de las obligaciones previstas en el Título Tercero A de la Ley;
 
@@ -211,63 +247,129 @@ XII. Auxiliar a la Coordinación General de Manifestaciones de Impacto Regulator
 
 XIII. Informar al Titular de la Comisión para que éste a su vez informe a la Secretaría de la Función Pública, de los casos que tengan conocimiento sobre incumplimientos a lo previsto en la Ley y en los reglamentos y demás disposiciones aplicables sobre la materia;
 
-XIV. Expedir copias certificadas de los documentos que obren en los archivos respectivos, y
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 3 DE MARZO DE 2006)</small>
 
-XV. Las demás que les delegue o señale el Titular y las que les confieran otras disposiciones jurídicas aplicables.
+XIV. Estudiar y analizar las disposiciones jurídicas que integran el marco regulatorio nacional;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 3 DE MARZO DE 2006)</small>
+
+XV. Programar y supervisar la realización de estudios o investigaciones que contrate la Comisión en materia de mejora regulatoria federal, estatal o municipal, así como preparar las especificaciones técnicas y, en su caso, vigilar la ejecución de los contratos;
+
+> <small>(ADICIONADA, D.O.F. 3 DE MARZO DE 2006)</small>
+
+XVI. Brindar asesoría jurídica en materia de mejora regulatoria a las dependencias y organismos descentralizados;
+
+> <small>(ADICIONADA, D.O.F. 3 DE MARZO DE 2006)</small>
+
+XVII. Coadyuvar con las dependencias y organismos descentralizados para que los mismos, en el ámbito de sus respectivas competencias, contribuyan a mejorar el marco regulatorio nacional;
+
+> <small>(ADICIONADA, D.O.F. 3 DE MARZO DE 2006)</small>
+
+XVIII. Coadyuvar con las instancias competentes, cuando se les solicite, a efecto de que se brinde el apoyo que requieran los Poderes Legislativo y Judicial Federales en la mejora del marco regulatorio nacional;
+
+> <small>(ADICIONADA, D.O.F. 3 DE MARZO DE 2006)</small>
+
+XIX. Revisar anteproyectos de ordenamientos y disposiciones jurídicas, así como de programas para mejorar la regulación de actividades o sectores específicos, tanto a nivel federal como estatal y municipal, conforme a los convenios de colaboración que se celebren en estos dos últimos casos;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 3 DE MARZO DE 2006)</small>
+
+XX. Expedir copias certificadas de los documentos que obren en los archivos respectivos, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 3 DE MARZO DE 2006)</small>
+
+XXI. Las demás que les delegue o señale el Titular y las que les confieran otras disposiciones jurídicas aplicables.
 
 ###### Artículo 11.
 
 Son atribuciones de la Coordinación General de Manifestaciones de Impacto Regulatorio, además de las enumeradas en el artículo 10, salvo la indicada en la fracción XII, las siguientes:
 
-I. Coadyuvar con las Coordinaciones Generales a que se refiere el artículo 10, en la elaboración de los proyectos de dictámenes de las manifestaciones de impacto regulatorio que reciban;
+> <small>(REFORMADA, D.O.F. 3 DE MARZO DE 2006)</small>
 
-II. Auxiliar a las Coordinaciones Generales a que se refiere el artículo 10, en la elaboración de las solicitudes que formulen a las dependencias u organismos descentralizados, de ampliaciones o correcciones a las manifestaciones de impacto regulatorio que no cumplan con los requisitos mínimos que al efecto establezcan las disposiciones jurídicas aplicables;
+I. Coadyuvar con las demás Coordinaciones Generales y con la Coordinación Ejecutiva, en la elaboración de los proyectos de dictámenes de las manifestaciones del impacto regulatorio que reciban, así como en la integración de propuestas de criterios de interpretación, para efectos administrativos, del Título Tercero A de la Ley o de criterios relacionados con la operación interna de la Comisión;
+
+> <small>(REFORMADA, D.O.F. 3 DE MARZO DE 2006)</small>
+
+II. Auxiliar a las Coordinaciones Generales y a la Coordinación Ejecutiva, en la elaboración de las solicitudes que formulen a las dependencias u organismos descentralizados, de ampliaciones o correcciones a las manifestaciones de impacto regulatorio que no cumplan con los requisitos mínimos que al efecto establezcan las disposiciones jurídicas aplicables;
 
 III. Elaborar y proponer al Titular, el manual de elaboración de manifestaciones de impacto regulatorio y someter a la consideración de éste las modificaciones al mismo;
 
-IV. Operar el sistema electrónico de manifestaciones de impacto regulatorio;
+> <small>(REFORMADA, D.O.F. 3 DE MARZO DE 2006)</small>
+
+IV. Definir el contenido del sistema electrónico de manifestaciones de impacto regulatorio;
 
 V. Coordinar reuniones con las dependencias y organismos descentralizados a fin de prestarles asesoría y capacitación sobre la elaboración de las manifestaciones de impacto regulatorio;
 
 VI. Elaborar e integrar el informe anual que el Titular debe presentar ante el Congreso de la Unión sobre los avances de las dependencias y organismos descentralizados en sus programas de mejora regulatoria, así como elaborar los informes y preparar los asuntos que el Titular deba someter a la consideración del Consejo y auxiliar a éste en las sesiones de dicho órgano;
 
-VII. Coordinar la participación del Titular y de los demás servidores públicos de la Comisión en los diversos foros internacionales en materia de mejora regulatoria y temas afines, en coordinación con las instancias competentes, y
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 3 DE MARZO DE 2006)</small>
 
-VIII. Las demás que le delegue o señale el Titular y las que le confieran otras disposiciones jurídicas aplicables.
+VII. Llevar a cabo estudios de derecho comparado en materia de mejora regulatoria;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 3 DE MARZO DE 2006)</small>
+
+VIII. Participar en las actividades jurídicas de la Comisión, a nivel nacional e internacional, conjuntamente con la Coordinación General de Mejora Regulatoria respectiva y las demás instancias competentes;
+
+> <small>(ADICIONADA, D.O.F. 3 DE MARZO DE 2006)</small>
+
+IX. Apoyar al Titular en la celebración de acuerdos interinstitucionales en materia de mejora regulatoria y en su participación con las dependencias y organismos competentes respecto de la negociación y discusión de convenios o tratados internacionales en dicha materia;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 3 DE MARZO DE 2006)</small>
+
+X. Coordinar la participación del Titular y de los demás servidores públicos de la Comisión en los diversos foros internacionales en materia de mejora regulatoria y temas afines, en coordinación con las instancias competentes, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 3 DE MARZO DE 2006)</small>
+
+Xl. Las demás que le delegue o señale el Titular y las que confieran otras disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, D.O.F. 3 DE MARZO DE 2006)</small>
 
 ###### Artículo 12.
 
-Son atribuciones de la Coordinación General de Proyectos Especiales, además de las descritas en el artículo 10, las siguientes:
+Son atribuciones de la Coordinación General de Proyectos Especiales, además de las enumeradas en el artículo 10, las siguientes:
 
-I. Estudiar y analizar las disposiciones jurídicas que integran el marco regulatorio nacional;
+I. Compilar las disposiciones jurídicas de observancia general en materia de mejora regulatoria y coordinar la edición que se haga de dichas compilaciones, conjuntamente con la Coordinación General de Mejora Regulatoria respectiva;
 
-II. Llevar a cabo estudios de legislación extranjera a efectos de ser considerados en los trabajos de mejora regulatoria de la Comisión;
+II. Operar y administrar los sistemas electrónicos de almacenamiento y procesamiento de datos de la Comisión;
 
-III. Revisar anteproyectos de ordenamientos y disposiciones jurídicas, así como de programas para mejorar la regulación de actividades o sectores específicos en el ámbito nacional, tanto a nivel federal como estatal y municipal, conforme a los convenios de colaboración que se celebren en estos dos últimos casos;
+III. Integrar y custodiar el archivo de la Comisión en términos de la normatividad aplicable;
 
-IV. Programar y supervisar la realización de estudios o investigaciones que contrate la Comisión en materia de mejora regulatoria federal, estatal o municipal, así como preparar las especificaciones técnicas y, en su caso, vigilar la ejecución de los contratos;
+IV. Automatizar los procesos que lleve a cabo la Comisión y brindar la asesoría y soporte técnico que sobre dicha materia requieran sus diferentes unidades administrativas, para el buen desempeño de sus funciones;
 
-V. Brindar asesoría jurídica en materia de mejora regulatoria a las dependencias y organismos descentralizados;
+V. Apoyar al Titular de la Comisión en la implementación de las políticas de comunicación social, en los términos previstos en el artículo 9, fracción XXIX de este Reglamento;
 
-VI. Asesorar y capacitar en materia de mejora regulatoria a los estados y municipios que lo soliciten y celebrar convenios con éstos para tal efecto;
+VI. Actuar como instancia de coordinación, de conformidad con las disposiciones jurídicas aplicables, en las giras, reuniones de trabajo y presentaciones del Titular y de otros servidores públicos de la Comisión ante las dependencias y organismos descentralizados, Poderes Legislativo y Judicial y entidades de carácter privado;
 
-VII. Con base en los convenios de coordinación respectivos, difundir entre estados y municipios las acciones de mejora regulatoria del Gobierno Federal y promover entre éstos la adopción de medidas similares en sus respectivos ámbitos de competencia;
+VII. Tener a su cargo la oficialía de partes y recibir, turnar y dar seguimiento a las solicitudes e información que presenten a la Comisión las distintas dependencias y organismos descentralizados, para su trámite y resolución por parte de las diferentes unidades administrativas de ésta;
 
-VIII. Participar en las actividades jurídicas de la Comisión a nivel nacional e internacional, conjuntamente, en su caso, con la Coordinación General de Mejora Regulatoria respectiva y las demás instancias competentes;
+VIII. Fungir como unidad de enlace para efectos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
 
-IX. Compilar las disposiciones jurídicas de observancia general en materia de mejora regulatoria y coordinar la edición que se haga de dichas compilaciones, conjuntamente con la Coordinación General de Mejora Regulatoria respectiva;
+IX. Integrar y administrar el Registro con la información de los trámites y servicios que las dependencias y organismos descentralizados proporcionen a la Comisión, considerando la opinión que emitan las Coordinaciones, así como, determinar la forma en que éstas deberán presentarla para su inscripción en el citado Registro;
 
-X. En coordinación con las dependencias y organismos descentralizados, llevar a cabo las acciones que se requieran para que los mismos, en el ámbito de sus respectivas competencias, contribuyan a mejorar el marco regulatorio nacional;
+X. Llevar a cabo el desarrollo informático del sitio en Internet de la Comisión y actualizar e integrar al mismo la información que las dependencias y organismos descentralizados le presenten a la Comisión en términos del Título Tercero A de la Ley;
 
-XI. En coordinación con las instancias competentes, y cuando se solicite, coadyuvar con los Poderes Legislativo y Judicial Federales en la mejora del marco regulatorio nacional;
+XI. Hacer públicos los programas de mejora regulatoria y los reportes periódicos de avance en la ejecución de éstos que las dependencias y organismos descentralizados presenten a la Comisión y la opinión que sobre dichos programas y reportes formule ésta, así como los anteproyectos y manifestaciones de impacto regulatorio que reciba la Comisión, los dictámenes, autorizaciones y exenciones indicados en la fracción V del artículo 9 de este Reglamento, así como las opiniones que sobre dichos anteproyectos y manifestaciones formule el sector privado;
 
-XII. Apoyar al Titular de la Comisión en la celebración de acuerdos interinstitucionales en materia de mejora regulatoria y en la participación de éste, con las dependencias y organismos competentes, en la negociación y discusión de convenios o tratados internacionales en dicha materia, y
+XII. Presentar al Titular la lista de los títulos de los anteproyectos y manifestaciones de impacto regulatorio que reciba la Comisión, así como de los dictámenes, autorizaciones y exenciones que emita ésta para efectos de su envío a la Secretaría de Gobernación para su publicación en el Diario Oficial de la Federación, y
 
 XIII. Las demás que le delegue o señale el Titular y las que le confieran otras disposiciones jurídicas aplicables.
 
+> <small>(ADICIONADO, D.O.F. 3 DE MARZO DE 2006)</small>
+
+Artículo 12 bis.- Son atribuciones de la Coordinación de Estados y Municipios, además de las contempladas en las fracciones XV y XIX del artículo 10 de este Reglamento respecto de la materia de mejora regulatoria de las entidades federativas, municipios o delegaciones del Distrito Federal, las siguientes:
+
+I. Asesorar y capacitar en materia de mejora regulatoria a las entidades federativas, municipios o delegaciones del Distrito Federal que lo soliciten y celebrar convenios con éstos para tal efecto;
+
+II. Con base en los convenios de coordinación respectivos, difundir entre las entidades federativas, municipios o delegaciones del Distrito Federal las acciones de mejora regulatoria del Gobierno Federal y promover entre éstos la adopción de acciones similares en sus respectivos ámbitos de competencia;
+
+III. Actuar como instancia de coordinación, de conformidad con las disposiciones jurídicas aplicables, en las giras, reuniones de trabajo y presentaciones del Titular y de otros servidores públicos de la Comisión, ante los gobiernos de las entidades federativas, municipios o delegaciones del Distrito Federal, y
+
+IV. Las demás que le delegue o señale el Titular y las que le confieran otras disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE MARZO DE 2006)</small>
+
 ###### Artículo 13.
 
-Son atribuciones de la Coordinación Ejecutiva, además de las que se indican en el artículo 10:
+Son atribuciones de la Dirección de Administración, las siguientes:
 
 I. Someter a la consideración del Titular para su aprobación, el ejercicio del presupuesto autorizado a la Comisión;
 
@@ -279,43 +381,59 @@ IV. Elaborar los proyectos de manuales de organización y de procedimientos de l
 
 V. Expedir la documentación que soporte los nombramientos de los Directores, Subdirectores, Jefes de Departamento, Analistas y demás personal técnico y administrativo autorizado a la Comisión;
 
-VI. Auxiliar al Titular en la tramitación de los asuntos de carácter administrativo de la Comisión; integrar y custodiar el archivo de la Comisión, proporcionar el servicio de correspondencia y apoyar a las diferentes unidades de la Comisión en sus diversas actividades administrativas;
+> <small>(REFORMADA, D.O.F. 3 DE MARZO DE 2006)</small>
 
-VII. Automatizar los procesos que lleve a cabo la Comisión y brindar la asesoría y soporte técnico que sobre dicha materia requieran sus diferentes unidades para el buen desempeño de sus funciones;
+VI. Auxiliar al Titular en la tramitación de los asuntos de carácter administrativo de la Comisión, proporcionar el servicio de correspondencia y apoyar a las diferentes unidades de la Comisión en sus diversas actividades administrativas, y
 
-VIII. Establecer las políticas de comunicación social de la Comisión y coordinar el diseño y la aplicación de éstas, de acuerdo con los lineamientos establecidos por las autoridades competentes en materia de comunicación social del Gobierno Federal;
+> <small>(REFORMADA, D.O.F. 3 DE MARZO DE 2006)</small>
 
-IX. Actuar como instancia de coordinación, de conformidad con las disposiciones jurídicas aplicables, en las giras, reuniones de trabajo y presentaciones del Titular y de otros servidores públicos de la Comisión ante las dependencias y organismos descentralizados, Poderes Legislativo y Judicial, gobiernos estatales y municipales y entidades de carácter privado;
+VII. Las demás que le delegue o señale el Titular y las que le confieran otras disposiciones jurídicas aplicables.
 
-X. Tener a su cargo la oficialía de partes y recibir, turnar y dar seguimiento a las solicitudes e información que presenten a la Comisión las distintas dependencias y organismos descentralizados, para su trámite y resolución por parte de las diferentes unidades administrativas de ésta;
+VIII. (DEROGADA, D.O.F. 3 DE MARZO DE 2006)
 
-XI. Fungir como unidad de enlace para efectos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
+IX. (DEROGADA, D.O.F. 3 DE MARZO DE 2006)
 
-XII. Integrar y administrar el Registro con la información de los trámites y servicios que las dependencias y organismos descentralizados proporcionen a la Comisión y determinar la forma en que éstas deberán presentarla para su inscripción en el citado Registro;
+X. (DEROGADA, D.O.F. 3 DE MARZO DE 2006)
 
-XIII. Llevar a cabo el desarrollo informático del sitio en Internet de la Comisión e integrar al mismo y actualizar la información que las dependencias y organismos descentralizados le presenten a la Comisión en términos del Título Tercero A de la Ley;
+XI. (DEROGADA, D.O.F. 3 DE MARZO DE 2006)
 
-XIV. Hacer públicos los programas de mejora regulatoria y los reportes periódicos de avance en la ejecución de éstos que las dependencias y organismos descentralizados presenten a la Comisión y la opinión que sobre dichos programas y reportes formule ésta, así como los anteproyectos y manifestaciones de impacto regulatorio que reciba la Comisión, los dictámenes, autorizaciones y exenciones indicados en la fracción V del artículo 9, así como las opiniones que sobre dichos anteproyectos y manifestaciones formule el sector privado;
+XII. (DEROGADA, D.O.F. 3 DE MARZO DE 2006)
 
-XV. Presentar al Titular la lista de los títulos de los anteproyectos y manifestaciones de impacto regulatorio que reciba la Comisión, así como de los dictámenes, autorizaciones y exenciones que emita ésta para efectos de su envío a la Secretaría de Gobernación para su publicación en el Diario Oficial de la Federación, y
+XIII. (DEROGADA, D.O.F. 3 DE MARZO DE 2006)
 
-XVI. Las demás que le delegue o señale el Titular y las que le confieran otras disposiciones jurídicas aplicables.
+XIV. (DEROGADA, D.O.F. 3 DE MARZO DE 2006)
+
+XV. (DEROGADA, D.O.F. 3 DE MARZO DE 2006)
+
+XVI. (DEROGADA, D.O.F. 3 DE MARZO DE 2006)
+
+> <small>(REFORMADO, D.O.F. 3 DE MARZO DE 2006)</small>
 
 ###### Artículo 14.
 
-Para un mejor desempeño de las funciones de las Coordinaciones Generales de Mejora Regulatoria, el Titular de la Comisión podrá asignarles la ejecución de las tareas de mejora regulatoria de determinadas dependencias y entidades, agrupadas de acuerdo con los criterios que establezca el propio Titular de la Comisión.
+Para un mejor desempeño de las funciones de las Coordinaciones Generales y de las Coordinaciones, el Titular de la Comisión podrá asignarles la ejecución de las tareas de mejora regulatoria de determinadas dependencias y organismos descentralizados, agrupados de acuerdo con los criterios que establezca el propio Titular de la Comisión.
 
 ## TÍTULO TERCERO. DE LA SUPLENCIA
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, D.O.F. 3 DE MARZO DE 2006)</small>
+
 ###### Artículo 15.
 
-El Titular de la Comisión podrá ser suplido en sus ausencias temporales por el Coordinador General de Proyectos Especiales; por el Coordinador General de Mejora Regulatoria Sectorial; por el Coordinador General de Mejora Regulatoria de Servicios y Asuntos Jurídicos; por el Coordinador General de Mejora Regulatoria Institucional, y por el Coordinador General de Manifestaciones de Impacto Regulatorio; en ese mismo orden y, a falta de éstos, por el Coordinador Ejecutivo.
+El Titular de la Comisión podrá ser suplido en sus ausencias por el Coordinador General de Manifestaciones de Impacto Regulatorio; por el Coordinador General de Mejora Regulatoria de Servicios y de Asuntos Jurídicos; por el Coordinador General de Mejora Regulatoria Sectorial; por el Coordinador General de Mejora Regulatoria Institucional; y por el Coordinador General de Proyectos Especiales; en el orden indicado y, a falta de éstos, por el Coordinador Ejecutivo.
+
+> <small>(REFORMADO, D.O.F. 3 DE MARZO DE 2006)</small>
 
 ###### Artículo 16.
 
-Los Coordinadores Generales y el Coordinador Ejecutivo de la Comisión podrán suplirse entre ellos indistintamente.
+El Coordinador General de Manifestaciones de Impacto Regulatorio y el Coordinador General de Proyectos Especiales serán suplidos por el Coordinador General de Mejora Regulatoria de Servicios y de Asuntos Jurídicos.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MARZO DE 2006)</small>
+
+###### Artículo 17.
+
+El Director de Administración podrá ser suplido indistintamente por el Coordinador General de Manifestaciones de Impacto Regulatorio y por el Coordinador General de Proyectos Especiales.
 
 ## TRANSITORIOS
 
@@ -324,3 +442,13 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 SEGUNDO.- Se deroga el artículo 51 del Reglamento Interior de la Secretaría de Economía, publicado en el Diario Oficial de la Federación el 22 de noviembre de 2002, y las demás disposiciones que se opongan al presente Reglamento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintidós días del mes de enero de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 3 DE MARZO DE 2006
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las acciones que se implementen para la aplicación del presente Decreto, se sujetarán al presupuesto aprobado para la Comisión Federal de Mejora Regulatoria, sin que impliquen la asignación de recursos adicionales.
+
+Las modificaciones que la referida Comisión lleve a cabo a su estructura orgánica, se realizarán mediante movimientos compensados; por lo que no implicarán aumentos en el presupuesto regularizable de servicios personales respectivo, aprobado para el presente ejercicio fiscal y los subsecuentes.
