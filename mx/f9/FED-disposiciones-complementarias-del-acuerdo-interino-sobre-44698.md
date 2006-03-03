@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-acuerdo-interino-sobre-44698"
 country: "mx"
 rank: "otro"
 publication_date: "2000-06-26"
-last_updated: "2005-12-29"
+last_updated: "2006-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44698&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,27 +19,29 @@ issue_date: "2000-06-19"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL ACUERDO INTERINO SOBRE COMERCIO Y CUESTIONES RELACIONADAS CON EL COMERCIO (COMUNIDAD EUROPEA, 1997)
 
-ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA INTERNAR A LA COMUNIDAD EUROPEA, MATERIAS PECTICAS, PECTINATOS Y PECTATOS EN POLVO ORIGINARIOS DE LOS ESTADOS UNIDOS MEXICANOS
+DECRETO QUE MODIFICA AL DIVERSO POR EL QUE SE ESTABLECE LA TASA APLICABLE PARA EL 2006 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE LA COMUNIDAD EUROPEA, LOS ESTADOS DE LA ASOCIACION EUROPEA DE LIBRE COMERCIO, EL SALVADOR, GUATEMALA, HONDURAS Y NICARAGUA; ASI COMO LA TASA APLICABLE DEL 1 DE ABRIL DE 2006 AL 31 DE MARZO DE 2007 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DEL JAPON
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 29 de diciembre de 2005.
+Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de marzo de 2006.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía, con fundamento en los artículos 1 de la Decisión 2/2004 del Consejo Conjunto UE-México; 4o. fracción III, 5o. fracción V, 6o., 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26, 31, 32, 33 y 35 de su Reglamento; 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el Artículo 89 fracción I de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los Artículos 131 de la propia Constitución, 31 y 34 de la Ley Orgánica de la Administración Pública Federal; 2o., 4o. fracción I y 14 de la Ley de Comercio Exterior, y
 
 CONSIDERANDO
 
-Que para fortalecer y ampliar las relaciones comerciales con la Comunidad Europea y sus estados miembros, el 1 de julio de 2000 entró en vigor la Decisión 2/2000 del Consejo Conjunto UE-México que establece, entre otros, las disposiciones que regulan el comercio de bienes originarios entre las Partes;
+Que el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras (el Tratado), firmado el 29 de junio de 2000 y aprobado por el Senado de la República el 14 de diciembre del mismo año entró en vigor el 15 de julio de 2001 para el comercio entre los Estados Unidos Mexicanos y la República de Honduras;
 
-Que la Decisión mencionada en el considerando anterior, prevé en su artículo 3 la posibilidad de que las Partes acuerden reducir sus aranceles aduaneros más rápido de lo previsto y que en este supuesto el acuerdo alcanzado por las Partes prevalecerá sobre los términos establecidos en la propia Decisión y el artículo 10 establece que las Partes podrán examinar la posibilidad de que la Comunidad Europea otorgue a México un cupo con arancel preferencial para materias pécticas, pectinatos y pectatos en polvo;
+Que el 14 de abril de 2005, la Comisión Administradora del Tratado adoptó las Decisiones Nos. 10 y 11, mediante las cuales se incorpora al Programa de Desgravación del mismo el comercio entre los Estados Unidos Mexicanos y la República de Honduras de bienes de la cadena: fibras-textil-confección, clasificados en los capítulos 50 a 63 del Sistema Armonizado de Designación y Codificación de Mercancías, y se establecen las condiciones para su acceso;
 
-Que el 28 de abril de 2004 el Consejo Conjunto UE-México adoptó la Decisión 2/2004 por la que se introduce un cupo arancelario con tratamiento preferencial para determinados productos originarios de México y enumerados en el anexo I de la Decisión 2/2000 del Consejo Conjunto UE-México misma que se dio a conocer mediante Acuerdo publicado el 17 de mayo de 2004 en el Diario Oficial de la Federación;
+Que el 6 de octubre de 2005 el Senado de la República aprobó la Decisión No. 11 de la Comisión Administradora del Tratado y que el 16 de diciembre del mismo año se publicó en el Diario Oficial de la Federación el “Decreto por el que se aprueba la Decisión No. 11, Trato Nacional y Acceso de Bienes al Mercado, de la Comisión Administradora del Tratado de Libre Comercio entre los Estados Unidos Mexicanos, la República de El Salvador, la República de Guatemala y la República de Honduras, firmada el catorce de abril de dos mil cinco”;
 
-Que el procedimiento de asignación del cupo que se trata en el presente Acuerdo, es un instrumento de la política sectorial para promover la competitividad de los sectores involucrados, y
+Que de conformidad con lo establecido en los numerales IV y III de las Decisiones Nos. 10 y 11, respectivamente, los gobiernos de los Estados Unidos Mexicanos y la República de Honduras han intercambiado notificaciones en las que certifican la conclusión de las formalidades jurídicas necesarias en cada uno de ellos para la entrada en vigor de las mismas y que se ha acordado con las autoridades de la República de Honduras que éstas se apliquen a partir del próximo 22 de febrero;
 
-Que la medida a que se refiere el presente instrumento, cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
+Que el 12 de agosto de 2005, la Comisión Administradora del Tratado adoptó la Decisión No. 15, mediante la cual los Estados Unidos Mexicanos acordaron acelerar la desgravación de ciertos bienes del sector acero y eliminar el arancel aplicable a la importación de ciertos néctares originarios de la República de El Salvador y que de conformidad con lo establecido en el numeral 3 de la referida decisión ésta entrará en vigor una vez que los Estados Unidos Mexicanos y el Salvador se notifiquen la conclusión de sus respectivas formalidades jurídicas, y
 
-ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA INTERNAR A LA COMUNIDAD EUROPEA, MATERIAS PECTICAS, PECTINATOS Y PECTATOS EN POLVO ORIGINARIOS DE LOS ESTADOS UNIDOS MEXICANOS
+Que resulta necesario modificar el “Decreto por el que se establece la Tasa Aplicable para el 2006 del Impuesto General de Importación para las mercancías originarias de la Comunidad Europea, los Estados de la Asociación Europea de Libre Comercio, El Salvador, Guatemala, Honduras y Nicaragua; así como la Tasa aplicable del 1 de abril de 2006 al 31 de marzo de 2007 del Impuesto General de Importación para las mercancías originarias del Japón” publicado en el Diario Oficial de la Federación el 29 de diciembre de 2005 con objeto de reflejar lo establecido en las referidas decisiones, he tenido a bien expedir el siguiente
+
+DECRETO
 
 ###### ARTÍCULO DÉCIMO PRIMERO.
 
@@ -71,61 +73,91 @@ DECRETO
 
 ...
 
-###### ARTÍCULO 5.
+###### ARTÍCULO 1.
+
+Se adiciona con una fracción VI el artículo 3 del Decreto por el que se establece la Tasa Aplicable para el 2006 del Impuesto General de Importación para las mercancías originarias de la Comunidad Europea, los Estados de la Asociación Europea de Libre Comercio, El Salvador, Guatemala, Honduras y Nicaragua; así como la Tasa aplicable del 1 de abril de 2006 al 31 de marzo de 2007 del Impuesto General de Importación para las mercancías originarias del Japón, publicado en el Diario Oficial de la Federación el 29 de diciembre de 2005, para quedar como sigue:
+
+“ARTÍCULO 3.- . . .
 
 . . .
 
-III. . . .
+VI.- Se aplicará la tasa indicada en el Apéndice a las mercancías no originarias procedentes de Honduras, de conformidad con lo establecido en el Anexo 3-19 del Tratado de Libre Comercio entre México y El Salvador, Guatemala y Honduras, y que se clasifiquen en las partidas 55.12, 55.13, 55.14, 55.15, 55.16, 60.01, 60.02, 60.03, 60.04, 60.05, 60.06, siempre que el importador adjunte al pedimento de importación un certificado de elegibilidad expedido por la Secretaría de Economía.”
 
-Fracción Arancel
+###### ARTÍCULO 2.
 
-4412.13.01 10
+Se modifica el Apéndice del Decreto que se señala en el Artículo 1 del presente ordenamiento, únicamente para la columna aplicable a "Honduras", para las siguientes fracciones arancelarias de la Ley de los Impuestos Generales de Importación y de Exportación, para quedar como sigue:
 
-4412.13.99 5
+(VEASE ARCHIVO ANEXO)
 
-4412.14.99 5
+###### ARTÍCULO 3.
 
-4412.19.01 5
+Se modifica el artículo 21 del Decreto que se señala en el Artículo 1 del presente ordenamiento, únicamente para la siguiente fracción arancelaria de la Ley de los Impuestos Generales de Importación y de Exportación, para quedar como sigue:
 
-4412.19.99 10
+“Artículo 21.- . . .
 
-4412.22.01 10
+Fracción Arancel Nota Modalidad de la mercancía
 
-4412.23.99 5
+7216.21.01 5.8 CSA De espesor superior o igual a 1.8
 
-4412.29.99 10
+mm pero inferior o igual a 6.4
 
-4412.92.01 10
+mm y altura superior a 12 mm.”
 
-4412.93.99 5
+###### ARTÍCULO 4.
 
-4412.99.99 10
+Se adiciona un artículo 29 al Decreto que se señala en el Artículo 1 del presente ordenamiento, para quedar como sigue:
 
-XVII. . . .
+“ARTÍCULO 29.- La importación de mercancías originarias de la región conformada por México, El Salvador, Guatemala y Honduras comprendidas en las fracciones arancelarias que se señalan en este Artículo que correspondan a la columna “El Salvador” conforme al Artículo 3 fracción IV, inciso (a) de este Decreto, las cuales se identifican con el código “CSA” bajo el rubro “Nota” en el Apéndice o en el Artículo 21 de este Decreto, estará sujeta al arancel preferencial indicado a continuación para cada uno de ellas:
 
-Fracción Arancel
+Fracción Arancel Modalidad de la mercancía
 
-4412.13.01 10
+7214.20.01 2.5 Varilla corrugada o barras para
 
-4412.13.99 5
+armaduras, para cemento
 
-4412.14.99 5
+u hormigón.
 
-4412.19.01 5
+7216.21.01 2.5 De espesor superior o igual
 
-4412.19.99 10
+a 1.8 mm pero inferior o igual
 
-4412.22.01 10
+a 6.4 mm y altura superior a 12 mm.
 
-4412.23.99 5
+Lo dispuesto en este Artículo sólo será aplicable a mercancías que cuenten con un certificado de cupo expedido por la Secretaría de Economía.”
 
-4412.29.99 10
+###### ARTÍCULO 5.
 
-4412.92.01 10
+Se modifica el Apéndice del Decreto que se señala en el Artículo 1 del presente ordenamiento, únicamente para la columna aplicable a “El Salvador”, para las siguientes fracciones arancelarias de la Ley de los Impuestos Generales de Importación y de Exportación, para quedar como sigue:
 
-4412.93.99 5
+El Salvador
 
-4412.99.99 10
+Fracción Arancel Nota
+
+2202.90.99 Ex.
+
+7214.20.01 5.8 CSA
+
+###### ARTÍCULO 6.
+
+Se modifica el artículo 10 del Decreto mencionado en el artículo 1 del presente ordenamiento, para quedar como sigue:
+
+“Artículo 10.- La importación de mercancías originarias de un Estado de la AELC, comprendidas en las fracciones arancelarias que se señalan en este artículo que correspondan a las columnas “Suiza”, “Noruega” e “Islandia” conforme al artículo 3 de este Decreto, las cuales se identifican con el código “NAE” bajo el rubro “Nota” en el Apéndice de este Decreto, estarán sujetas al arancel preferencial que se indica a continuación, únicamente cuando el valor en aduanas al momento de la importación para cada uno de estos productos sea mayor a $40 dólares de los Estados Unidos de América:”
+
+. . .
+
+###### ARTÍCULO 7.
+
+Se modifica el rubro del Apéndice del Decreto que se señala en el Artículo 1 del presente ordenamiento, para quedar como sigue:
+
+“APENDICE DEL DECRETO POR EL QUE SE ESTABLECE LA TASA APLICABLE PARA EL 2006 DEL IMPUESTO GENERAL DE IMPORTACIÓN PARA LAS MERCANCÍAS ORIGINARIAS DE LA COMUNIDAD EUROPEA, LOS ESTADOS DE LA ASOCIACIÓN EUROPEA DE LIBRE COMERCIO, EL SALVADOR, GUATEMALA, HONDURAS Y NICARAGUA; ASI COMO LA TASA APLICABLE DEL 1 DE ABRIL DE 2006 AL 31 DE MARZO DE 2007 DEL IMPUESTO GENERAL DE IMPORTACIÓN PARA LAS MERCANCÍAS ORIGINARIAS DEL JAPÓN
+
+(VEASE ARCHIVO ANEXO)
+
+APENDICE DEL DECRETO POR EL QUE SE ESTABLECE LA TASA APLICABLE PARA EL 2006 DEL IMPUESTO GENERAL DE IMPORTACIÓN PARA LAS MERCANCÍAS ORIGINARIAS DE LA COMUNIDAD EUROPEA, LOS ESTADOS DE LA ASOCIACIÓN EUROPEA DE LIBRE COMERCIO, EL SALVADOR, GUATEMALA, HONDURAS Y NICARAGUA; ASI COMO LA TASA APLICABLE DEL 1 DE ABRIL DE 2006 AL 31 DE MARZO DE 2007 DEL IMPUESTO GENERAL DE IMPORTACIÓN PARA LAS MERCANCÍAS ORIGINARIAS DEL JAPÓN
+
+(VEASE ARCHIVO ANEXO)
+
+. . . ”
 
 ###### ARTICULO 8.
 
@@ -219,8 +251,16 @@ c) Para el caso del formato SE-03-013-5 “Solicitud de certificados de cupo (ob
 
 Una vez asignado el monto para importar dentro del arancel preferencial, la Secretaría, a través de la representación federal correspondiente, expedirá los certificados de cupo que correspondan, previa solicitud del interesado en el formato “Solicitud de certificados de cupo (obtenido por asignación directa)” SE-03-013-5. La expedición de los certificados de cupo se realizará dentro de los siete días hábiles siguientes a la fecha de recepción de las solicitudes.
 
-## TRANSITORIO
+## TRANSITORIOS
 
-UNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2006, y concluirá su vigencia el 31 de diciembre de 2006.
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los artículos segundo, tercero y cuarto transitorios.
 
-México, D.F., a 22 de diciembre de 2005.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
+SEGUNDO.- Lo dispuesto en los artículos 1 y 2 del presente ordenamiento entrarán en vigor el 22 de febrero del presente año.
+
+TERCERO.- Lo dispuesto en los artículos 3, 4 y 5 del presente ordenamiento entrarán en vigor una vez que los Estados Unidos Mexicanos y la República de El Salvador se notifiquen la conclusión de sus respectivas formalidades jurídicas. A tal efecto, la Secretaría de Economía publicará un aviso en el Diario Oficial de la Federación en el que se notifique la fecha de entrada en vigor de los mismos.
+
+CUARTO.- Lo dispuesto en el artículo 6 del presente ordenamiento será aplicable a las operaciones de importación efectuadas a partir del 1 de enero de 2006 con objeto de dar cumplimiento a lo establecido en el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y los Estados de la Asociación Europea de Libre Comercio.
+
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, al primer día del mes de marzo de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
+
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, al primer día del mes de marzo de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
