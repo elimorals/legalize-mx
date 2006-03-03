@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-municipal-del-estado-de-queretaro-antes-ley-23560"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-05-25"
-last_updated: "2005-10-21"
+last_updated: "2006-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY PARA LA ORGANIZACION POLITICA Y ADMINISTRATIVA DEL MUNICIPAL LIBRE DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MARZO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 25 de mayo del 2001.
 
@@ -583,11 +583,15 @@ III. DE OBRAS Y SERVICIOS PÚBLICOS.- Cuya competencia será: dotación, distrib
 
 IV. DE SEGURIDAD PÚBLICA, TRÁNSITO Y POLICÍA PREVENTIVA.- Cuya competencia será: supervisión de funciones, desarrollo y desempeño del cuerpo de seguridad pública, policía preventiva y tránsito municipal; vigilar el funcionamiento de comisarías de correccionales; emitir opinión sobre los programas de seguridad pública y tránsito; velar por la preservación del orden público, y los demás que le señalen las leyes y los reglamentos.
 
-V. DE DESARROLLO RURAL Y ECONÓMICO.- Cuya competencia será: coadyuvar con las autoridades competentes en la regulación, promoción y fomento del desarrollo, comercial, industrial, agroindustrial, minero artesanal y de servicios turísticos; la inspección de asuntos relacionados con el orden y funcionamiento de fondas, figones, restaurantes, bares, cantinas, centros nocturnos, moteles, hoteles, casas de huéspedes, mesones, salas de espectáculos y bazares; y en los demás asuntos previstos en las leyes y los reglamentos.
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2006)</small>
+
+V. DE DESARROLLO AGROPECUARIO Y ECONÓMICO.- Cuya competencia será: coadyuvar con las autoridades competentes en la regulación, promoción, fomento y mejoramiento del desarrollo agropecuario, así como lo relativo al desarrollo comercial, industrial, agroindustrial, minero artesanal y de servicios turísticos; la inspección de asuntos relacionados con el orden y funcionamiento de fondas, restaurantes, bares, cantinas, centros nocturnos, moteles, hoteles, casas de huéspedes, mesones, salas de espectáculos y bazares; y en los demás asuntos previstos en las leyes y los reglamentos.
 
 VI. DE SALUD PÚBLICA.- Cuya competencia será la higiene y la salubridad en el municipio, así como las demás que establezcan las leyes.
 
-VII. DE DESARROLLO SOCIAL Y DERECHOS HUMANOS.- Cuya competencia será asesoría, protección y auxilio a discapacitados, menores de edad y ancianos necesitados; protección y garantía de los derechos humanos y la equidad de género; y en general, las demás obligaciones que le señalen las leyes y los reglamentos.
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2006)</small>
+
+VII. DE DESARROLLO SOCIAL Y DERECHOS HUMANOS.- Cuya competencia será coadyuvar con las autoridades competentes en la regulación y protección de los derechos humanos, la equidad de género, los grupos vulnerables y, en general, las demás obligaciones que les señalen las leyes y los reglamentos.
 
 VIII. DE DESARROLLO URBANO Y ECOLOGÍA.- Cuya competencia será: la formulación del Plan de Desarrollo Urbano Municipal; la zonificación y determinación de las reservas territoriales y áreas de protección ecológica, arqueológica, arquitectónica e histórica; y, en general, las facultades derivadas de lo previsto en la fracción V del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -2090,3 +2094,13 @@ PRIMERO.- La presente Ley entrará en vigor a partir de su publicación en el Pe
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a la presente ley.
 
 TERCERO.- Las disposiciones legales que se refieran a la Ley Orgánica Municipal del Estado de Querétaro, se entenderán que se refieren a la Ley para la Organización Política y Administrativa del Municipio Libre del Estado de Querétaro.
+
+P.O. 3 DE MARZO DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente.
