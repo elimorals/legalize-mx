@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fomento-cultural-del-distrito-federal-34234"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-14"
-last_updated: "2006-01-13"
+last_updated: "2006-03-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34234&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-09-26"
 
 LEY DE FOMENTO CULTURAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE MARZO DE 2006.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 14 de octubre de 2003.
 
@@ -464,9 +464,11 @@ Los Consejeros integrantes de la comunidad artística y cultural deberán ser no
 
 Los titulares de cada una de las delegaciones podrán ser invitados a las reuniones del Consejo.
 
+> <small>(REFORMADO, G.O. 3 DE MARZO DE 2006)</small>
+
 ###### ARTÍCULO 26.
 
-La Secretaría convocará al menos dos veces al año, a las dependencias, titulares de las delegaciones y servidores públicos responsables en materia cultural, para establecer los lineamientos de coordinación de acciones de Fomento y de Desarrollo Cultural.
+La Secretaría convocará al menos cada dos meses, a los titulares de las delegaciones, servidores públicos y dependencias responsables en materia cultural, para establecer los lineamientos de coordinación de acciones de Fomento y Desarrollo Cultural.
 
 ###### ARTÍCULO 27.
 
@@ -488,9 +490,11 @@ Cuando el Consejo trate problemas que requieran opiniones especializadas, solici
 
 Los integrantes del Consejo a que se refiere la fracción V del artículo 25, no podrán durar en el encargo, más allá del periodo de la Administración que los eligió. El cargo de consejero tendrá carácter honorario. Para suplir las ausencias o separaciones, se atenderá lo establecido en el artículo 25.
 
+> <small>(REFORMADO, G.O. 3 DE MARZO DE 2006)</small>
+
 ###### ARTÍCULO 32.
 
-El Consejo se reunirá obligatoriamente dos veces al año de manera ordinaria, previa convocatoria de su Presidente y de manera extraordinaria cuando el Presidente lo estime conveniente o cuando las dos terceras partes de los integrantes del Consejo así lo consideren.
+El Consejo se reunirá de manera obligatoria cada dos meses de manera ordinaria, previa convocatoria de su Presidente y de manera extraordinaria cuando el Presidente lo estime conveniente o cuando las dos terceras partes de los integrantes del Consejo así lo consideren, con el objeto de darle seguimiento a los Programas Delegacionales de Fomento y Desarrollo Cultural.
 
 ### Capítulo I. Del reconocimiento de las formas de participación social
 
@@ -717,6 +721,14 @@ En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 13 DE ENERO DE 2006.
+
+PRIMERO.- Túrnese al Jefe de Gobierno del Distrito Federal para su promulgación y publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Se derogan todas las disposiciones que contravengan lo dispuesto por el presente decreto.
+
+G.O. 3 DE MARZO DE 2006.
 
 PRIMERO.- Túrnese al Jefe de Gobierno del Distrito Federal para su promulgación y publicación en la Gaceta Oficial del Distrito Federal.
 
