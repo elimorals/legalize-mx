@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-antes-ley-estatal-de-5890"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "2005-07-07"
+last_updated: "2006-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MARZO DE 2006.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -2165,6 +2165,10 @@ Art. 126 ter. Como órgano desconcentrado de la Secretaría de Salud Jalisco, se
 
 El Consejo Estatal Para la Prevención de las Adicciones a través de la Secretaría, podrá establecer convenios de colaboración con los municipios de Jalisco para la instalación de consejos municipales contra las adicciones.
 
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2006)</small>
+
+Al Instituto Jalisciense de Salud Mental le corresponde la coordinación para la prevención y atención de las adicciones sicológicas.
+
 > <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 114.
@@ -3756,3 +3760,7 @@ P.O. 7 DE JULIO DE 2005.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. Publíquese el presente decreto en uno de los diarios de mayor circulación en el Estado, de conformidad a lo previsto por el artículo 15 de la Ley para la Divulgación de la Legislación del Estado de Jalisco.
+
+P.O. 4 DE MARZO DE 2006.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
