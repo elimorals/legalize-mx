@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "2005-01-01"
+last_updated: "2006-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MARZO DE 2006.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -864,6 +864,10 @@ XXI. De Turismo.
 > <small>(ADICIONADA, P.O. 1 DE ENERO DE 2005)</small>
 
 XXII. De Vivienda.
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2006)</small>
+
+XXIII. Del agua y su sustentabilidad.
 
 Las comisiones tendrán a su cargo las cuestiones relacionadas con la materia propia de su denominación.
 
@@ -2004,3 +2008,9 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 1 DE ENERO DE 2005.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE MARZO DE 2006.
+
+PRIMERO.-Los integrantes de la Comisión serán designados por el Pleno a propuesta de la Junta de Coordinación Parlamentaria, y deberán reflejar la composición plural de la Legislatura.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
