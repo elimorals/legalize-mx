@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2005-12-31"
+last_updated: "2006-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MARZO DE 2006.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -1937,27 +1937,27 @@ Los derechos de tránsito, vistas, luces y otros semejantes se regirán por las 
 
 Al otorgamiento, ejecución, terminación y en general al régimen jurídico de las concesiones para el aprovechamiento de los bienes del dominio municipal, les serán aplicables en los (sic) conducente, las disposiciones de este Código, relativas a los contratos de obra y las concesiones de servicio público.
 
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2006)</small>
 
 ###### ARTICULO 110.
 
 Los bienes inmuebles destinados a oficinas de gobierno, así como las áreas culturales, deportivas y parques públicos municipales, que cuenten con infraestructura y estén en uso, requieren para su enajenación, la previa desafectación del régimen de dominio público decretada por el Congreso del Estado.
 
-En los demás casos, los bienes del dominio público de los municipios podrán ser enajenados, cumpliendo previamente con lo que dispone la fracción XX, del artículo 28, de este Código, siempre y cuando se observe el siguiente procedimiento:
+En los demás casos, los bienes de dominio público de los municipios podrán ser enajenados cumpliendo previamente con lo que dispone la fracción XX del artículo 28 de este Código, siempre y cuando se observe el siguiente procedimiento:
 
-I.- La Dirección de Desarrollo Urbano Municipal o la que corresponda, según el Ayuntamiento, emitirá un dictamen de factibilidad, aprobando o rechazando la solicitud, adjuntando al mismo lo siguiente:
+I.- La Dirección de Desarrollo Urbano Municipal o la que corresponda, según el ayuntamiento, emitirá un dictamen de factibilidad, aprobando o rechazando la solicitud, adjuntando al mismo lo siguiente:
 
 a) La documentación que acredite, indudablemente, la propiedad del inmueble a favor del municipio.
 
-b) La descripción y ubicación exacta del inmueble, con el plano catastral correspondiente.
+b) La descripción y ubicación exacta del inmueble, con el plano correspondiente.
 
 c) La naturaleza del régimen a que se encuentra afecto y su ubicación dentro de las hipótesis que se contemplan en este mismo Código.
 
-d) La justificación para incorporarlo, desincorporarlo, o cambiar su destino.
+d) La justificación para incorporarlo, desincorporarlo o cambiar su destino.
 
-> <small>(F. DE E., P.O. 25 DE OCTUBRE DE 2003)</small>
+II.- Así mismo, el Síndico Municipal emitirá un dictamen sobre la factibilidad o no de la desincorporación, en cumplimiento de las atribuciones de vigilancia que le corresponden.
 
-II.- Asimismo, el Síndico Municipal emitirá un dictamen sobre la factibilidad o no de la desincorporación, en cumplimiento de las atribuciones de vigilancia que le corresponden.
+Los bienes inmuebles donados al municipio, previstos en los artículos 165 y 166 de la ley de Desarrollo Urbano del Estado, además de cumplir con los requisitos antes señalados, será necesario la anuencia de las dos terceras partes de los propietarios de las casas o terrenos que conformen el fraccionamiento, a excepción de los constructores o fraccionadores.
 
 Los bienes municipales a que hacen referencia la Ley del Patrimonio Cultural y la Ley Ecológica, ambas del Estado de Chihuahua, se regularán de conformidad con lo previsto en dichos ordenamientos.
 
@@ -3720,3 +3720,7 @@ El presente Decreto entrará en vigor el 1º de enero de 2006.
 ###### ARTÍCULO SEGUNDO.
 
 Independientemente del impuesto que resulte de aplicar la tasa del artículo 149, fracción III del Código Municipal, en ningún caso el impuesto a pagar, durante el ejercicio fiscal de 2006, excederá al causado por el mismo bien durante el ejercicio 2005.
+
+P.O. 4 DE MARZO DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
