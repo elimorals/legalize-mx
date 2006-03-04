@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2006-02-15"
+last_updated: "2006-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2006.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -1209,7 +1209,9 @@ XV. Promover el desarrollo económico y social del Estado; iniciar e impulsar to
 
 XVI. Realizar visitas de trabajo a los Municipios del Estado, con el fin de evaluar su realidad política, económica y social e impulsar los programas de acciones que propicien su desarrollo integral;
 
-XVII. Cuidar de la recaudación y administración de los ingresos del Estado, presentando anualmente a la Legislatura, dentro de los primeros cinco meses del ejercicio fiscal, la cuenta pública estatal correspondiente al año anterior; asegurar el manejo honesto, limpio y transparente de los recursos públicos; informar a la población cada tres meses sobre la situación que guardan las finanzas del Estado;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2006)</small>
+
+XVII. Cuidar de la recaudación y administración de los ingresos del Estado, presentando anualmente a la Legislatura, dentro de los primeros dos meses del ejercicio fiscal, la cuenta pública estatal correspondiente al año anterior; asegurar el manejo honesto, limpio y transparente de los recursos públicos; informar a la población cada tres meses sobre la situación que guardan las finanzas del Estado;
 
 XVIII. Ordenar la inversión de los caudales públicos del Estado en los distintos ramos de la administración, de conformidad con lo prevenido por la ley;
 
@@ -1981,7 +1983,9 @@ Los Municipios podrán convenir con el gobierno del Estado, asumir la prestació
 
 Los Ayuntamientos someterán a la consideración de la Legislatura la aprobación de sus leyes de ingresos y tendrán facultades para aprobar los respectivos presupuestos de egresos con base en la disponibilidad de sus ingresos, tomando en cuenta las prioridades que fijen los planes de desarrollo y los programas operativos anuales del año que corresponda, debiendo observar las normas que expida el Poder Legislativo en cuanto a manejo presupuestal y cuenta pública.
 
-Dentro del mes de mayo siguiente a la conclusión del año fiscal, el Ayuntamiento enviará a la Legislatura la cuenta pública, junto con los informes y documentos que justifiquen la aplicación de los ingresos y egresos, el cumplimiento de las metas propuestas en el Plan Municipal y en los programas operativos anuales, así como el manejo del crédito y la situación de la deuda pública; lo anterior, sin perjuicio del informe trimestral que rendirá a la Legislatura.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2006)</small>
+
+Dentro del mes de febrero siguiente a la conclusión del año fiscal el Ayuntamiento enviará a la Legislatura la cuenta pública, junto con los informes y documentos que justifiquen la aplicación de los ingresos y egresos, el cumplimiento de las metas propuestas en el Plan Municipal y los Programas Operativos Anuales, así como en el manejo del crédito y la situación de la deuda pública; lo anterior, sin perjuicio del informe trimestral que rendirá a la Legislatura.
 
 ###### Artículo 122.
 
@@ -2648,3 +2652,7 @@ P.O. 26 DE OCTUBRE DE 2005.
 P.O. 15 DE FEBRERO DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+P.O. 4 DE MARZO DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
