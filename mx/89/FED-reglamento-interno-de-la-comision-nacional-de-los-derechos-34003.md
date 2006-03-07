@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-nacional-de-los-derechos-3400
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-29"
-last_updated: "2005-01-03"
+last_updated: "2006-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34003&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-08-12"
 
 REGLAMENTO INTERNO DE LA COMISION NACIONAL DE LOS DERECHOS HUMANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE MARZO DE 2006.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el lunes 29 de septiembre de 2003.
 
@@ -812,6 +812,10 @@ Además, para el ejercicio de sus facultades y atribuciones, contarán con el pe
 (Programas especiales)
 
 Con independencia del desarrollo del Programa de Quejas, las visitadurías generales tendrán a su cargo los programas especiales que, por acuerdo del presidente de la Comisión Nacional y aprobado por el Consejo Consultivo, les sean asignados.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MARZO DE 2006)</small>
+
+La observancia del seguimiento, evaluación y monitoreo en materia de igualdad entre mujeres y hombres, estará a cargo de un programa especial, el cual, para el ejercicio de sus atribuciones, contará con el personal profesional, técnico y administrativo autorizado en el presupuesto de la Comisión Nacional.
 
 ###### Artículo 60.
 
@@ -1926,3 +1930,9 @@ CUARTO. Los recursos humanos, materiales y financieros adscritos a la Secretarí
 QUINTO. La parte conducente del Manual de Organización General de la Comisión Nacional de los Derechos Humanos que refleje las modificaciones realizadas al Reglamento Interno, será expedida dentro de los seis meses siguientes a la entrada en vigor del presente Acuerdo, y deberá ser publicada en el Diario Oficial de la Federación.
 
 SEXTO. Este Acuerdo deberá ser publicado en la Gaceta de la Comisión Nacional de los Derechos Humanos y en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE MARZO DE 2006.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Este Acuerdo deberá ser publicado en el Diario Oficial de la Federación y en la Gaceta de la Comisión Nacional de los Derechos Humanos.
