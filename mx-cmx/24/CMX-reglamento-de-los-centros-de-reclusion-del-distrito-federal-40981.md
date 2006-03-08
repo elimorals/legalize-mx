@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-los-centros-de-reclusion-del-distrito-federal-409
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-09-24"
-last_updated: "2004-09-24"
+last_updated: "2006-03-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40981&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-08-30"
 
 REGLAMENTO DE LOS CENTROS DE RECLUSION DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE MARZO DE 2006.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el viernes 24 de septiembre de 2004.
 
@@ -284,11 +284,23 @@ La Administración Pública del Distrito Federal, a través de la Secretaría de
 
 Por lo que se refiere a la aplicación de la remuneración que obtengan los internos por su trabajo en reclusión, la Dirección General vigilará el cumplimiento de lo dispuesto por la Ley.
 
+> <small>(REFORMADO, G.O. 8 DE MARZO DE 2006)</small>
+
 ###### Artículo 28.
 
-En los Centros de Reclusión podrán funcionar tiendas que expendan artículos de uso o consumo, los cuales en ningún caso podrán ser alimentos preparados, mismas que deberán ser administradas por la Dirección del propio Centro de Reclusión, debiendo rendir informes periódicos al Consejo Técnico Interdisciplinario. Ésta actividad será supervisada y revisada por la Dirección General, así como por los órganos de control correspondientes.
+en los Centros de Reclusión podrán funcionar tiendas que expendan artículos de uso o consumo, mismas que serán administradas por la Dirección General, con la coadyuvancia, participación y opinión de la Dirección Ejecutiva de Administración, quien le rendirá informe mensual de actividades.
 
-En ningún caso tales expendios podrán estar a cargo de internos o concesionados a particulares, ni el precio de los artículos podrá ser superior a los oficiales establecidos.
+La Dirección General instrumentará, con la participación de la Dirección Ejecutiva de Administración, la emisión de lineamientos para la organización, funcionamiento y administración de las tiendas, los cuales regularán, entre otros, los siguientes aspectos:
+
+I. Mecanismos de supervisión y operación que garanticen el adecuado funcionamiento de las tiendas, con independencia de las revisiones que se efectúen por parte de los órganos de control;
+
+II. El precio de los artículos que se comercialicen, el cual no deberá ser superior a los oficialmente establecidos, de conformidad con las condiciones de mercado.
+
+Los responsables de la administración de las tiendas deben asegurarse que los alimentos preparados cumplan con las normas de higiene necesarias que impidan que se genere un problema de salud entre la población interna, así como que se observen las medidas de seguridad y de protección civil que resulten aplicables a las actividades que se desarrollan.
+
+Sólo mediante autorización por escrito del Director General, a propuesta del Consejo Técnico Interdisciplinario de cada Centro de Reclusión del Distrito Federal, en tales expendios podrán estar comisionados para el trabajo los internos.
+
+La Dirección General acordará el destino de los recursos producto de las tiendas.
 
 ###### Artículo 29.
 
@@ -1303,3 +1315,9 @@ CUARTO. En lo referente a la clasificación de los internos en Instituciones de 
 QUINTO. Todos los asuntos relativos al otorgamiento de la Libertad Anticipada, Correcciones Disciplinarias, procedimientos ante el Consejo Técnico Interdisciplinario, ubicación de los internos y demás que se encuentren en trámite, deberán concluirse conforme al Reglamento de Reclusorios y Centros de Readaptación Social del Distrito Federal, y tratándose del primero de los casos se estará también a lo dispuesto en la Ley de Ejecución de Sanciones Penales del Distrito Federal.
 
 Dado en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México a los 30 días del mes de agosto del año dos mil cuatro.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 8 DE MARZO DE 2006.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
