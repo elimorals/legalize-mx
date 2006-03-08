@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-integracion-social-de-discapacitados-16171"
 country: "mx"
 rank: "ley"
 publication_date: "1992-11-04"
-last_updated: "1992-11-04"
+last_updated: "2006-03-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16171&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 LEY DE INTEGRACION SOCIAL DE DISCAPACITADOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PROMOCION Y PROTECCION DE LA EQUIDAD Y ACCESIBILIDAD UNIVERSAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE NUEVO LEON, PUBLICADA EN EL P.O. DE 8 DE MARZO DE 2006., EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 4 de noviembre de 1992.
 
@@ -402,3 +404,21 @@ LIC. SOCRATES C. RIZZO GARCIA.
 EL C. SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. ALEJANDRO LAMBRETON NARRO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 8 DE MARZO DE 2006.
+
+Artículo Primero.- La presente Ley entrará en vigor a los 30 días posteriores a su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se deroga la Ley de Integración Social de Discapacitados del Estado de Nuevo León, además de las disposiciones legales y reglamentarias que se opongan a la presente Ley.
+
+Artículo Tercero.- El Comité Técnico se instalará en la sesión cuya fecha y lugar designe el Poder Ejecutivo Estatal, en un plazo no mayor a 90 días posteriores a la publicación de la presente Ley.
+
+Artículo Cuarto.- El Poder Ejecutivo del Estado y las autoridades municipales, en el ámbito de sus competencias, tendrán un plazo no mayor a los 120 días posteriores a la entrada en vigencia de la presente Ley, para adecuar su normatividad según lo estipulado en la misma.
+
+Artículo Quinto.- Las dependencias o entidades de gobierno previstas en la presente Ley, deberán establecer en el presupuesto de egresos del ejercicio inmediato siguiente a la publicación de la presente Ley, las necesidades presupuestarias en los programas respectivos para dar cumplimiento a las atribuciones y obligaciones previstas en la misma.
+
+Artículo Sexto.- El Comité Técnico una vez instalado, tendrá un plazo de hasta 30 días para establecer y difundir el calendario, los criterios de gradualidad para la aplicación de la presente Ley y el Reglamento Interno para su funcionamiento.
+
+Artículo Séptimo.- En todo lo no establecido en la presente Ley se estará a lo dispuesto en la Ley Estatal de Salud y el Código Civil para el Estado de Nuevo León.
