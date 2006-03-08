@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-organismo-publico-descentralizado-19735
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-01-31"
-last_updated: "2006-02-22"
+last_updated: "2006-03-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19735&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ REGLAMENTO INTERIOR DEL ORGANISMO PUBLICO DESCENTRALIZADO DEL GOBIERNO DEL ESTAD
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 2005.
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIODICO OFICIAL EL 22 DE FEBRERO DE 2006.</small>
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIODICO OFICIAL EL 8 DE MARZO DE 2006.</small>
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 31 de enero de 2001.
 
@@ -1353,8 +1353,8 @@ TERCERO. Los manuales y disposiciones administrativas correspondientes, seguirá
 
 P.O. 14 DE DICIEMBRE DE 2005.
 
-> <small>(F. DE E., P.O. 22 DE FEBRERO DE 2006)</small>
+> <small>(F. DE E., P.O. 8 DE MARZO DE 2006)</small>
 
 ###### ARTÍCULO PRIMERO.
 
-El presente decreto surte efecto a partir de la fecha en que fueron aprobadas las modificaciones al Reglamento Interior por la Junta de Gobierno de la Comisión Estatal del Agua y Medio Ambiente.
+El presente decreto surte efectos a partir de la fecha en que fueron aprobadas las modificaciones al Reglamento Interior por la Junta de Gobierno de la Comisión Estatal del Agua y Medio Ambiente.
