@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interno-de-la-comision-de-derechos-humanos-del-3485"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-10-20"
-last_updated: "2004-10-05"
+last_updated: "2006-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3485&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MARZO DE 2006.
 
 Reglamento publicado en la Sección Administrativa del Periódico Oficial del Estado de Campeche, el miércoles 20 de octubre de 1993.
 
@@ -165,7 +165,7 @@ Cuando en un mismo hecho o circunstancia estuvieren involucradas tanto autoridad
 
 ### CAPITULO I. INTEGRACIÓN
 
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2006)</small>
 
 ###### ARTÍCULO 20.
 
@@ -177,63 +177,37 @@ II.- El Consejo Consultivo;
 
 III.- Los Visitadores Generales; y
 
-IV.- La Secretaría Ejecutiva.
+IV.-La Secretaría Ejecutiva.
 
 La Comisión Estatal también contará con un órgano interno de control, el cual tendrá las atribuciones previstas en el presente Reglamento.
 
+La Comisión Estatal además contará con un órgano académico denominado Instituto de Estudios en Derechos Humanos.
+
 ### CAPITULO II. DE LA PRESIDENCIA
 
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MARZO DE 2006)</small>
 
 ###### ARTÍCULO 21.
 
 La Presidencia es el órgano ejecutivo de la Comisión Estatal; está a cargo de un Presidente a quien corresponde realizar, en los términos establecidos por la Ley, las funciones directivas del Organismo del cual es su representante legal.
 
-Para el despacho de los asuntos que directamente corresponden a la Presidencia de la Comisión, ésta contara con el apoyo de las siguientes unidades administrativas:
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2006)</small>
 
-I.- Centro Estatal de Estudios en Derechos Humanos;
+Para el despacho de los asuntos que directamente corresponden a la Presidencia de la Comisión, ésta contará con el apoyo de las siguientes unidades administrativas:
 
-II.- Unidad de Información Automatizada; y
+I.- (DEROGADA, P.O. 8 DE MARZO DE 2006)
 
-III.- Secretaría Particular.
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2006)</small>
 
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2004)</small>
+II.-.Unidad de Información Automatizada; y
 
-###### ARTICULO 21 Bis.
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2006)</small>
 
-El Centro Estatal de Estudios en Derechos Humanos, tendrá las siguientes atribuciones:
+III.-Secretaría Particular.
 
-I.- Diseñar y ejecutar programas de capacitación en materia de Derechos Humanos;
+###### ARTÍCULO 21 Bis.
 
-II.- Promover el estudio y enseñanza de los Derechos Humanos dentro del Sistema Educativo Estatal;
-
-III.- Elaborar materiales didácticos y de divulgación, en materia de derechos humanos, en coordinación con la Unidad de Información Automatizada;
-
-IV.- Realizar investigación académica e interdisciplinaria especializada en materia de derechos humanos;
-
-V.- Contribuir a la formación de investigadores en materia de derechos humanos;
-
-VI.- Dirigir, impulsar e incrementar el acervo de la Biblioteca de la Comisión Estatal, así como apoyar, a través de los servicios bibliotecarios con los que cuenta, a los órganos y unidades administrativas de la Comisión, investigadores, especialistas y público en general;
-
-VII.- Promover el intercambio académico con instituciones nacionales e internacionales; y
-
-VIII.- Fomentar el reconocimiento de los derechos humanos en el orden jurídico local;
-
-IX.- Promover el diseño e implementación de planes y políticas encaminadas a la efectiva observancia de los derechos humanos; y
-
-X. Procurar la protección, observancia, promoción, estudio y divulgación de los derechos humanos previstos por el orden jurídico mexicano, inherentes a los miembros de los pueblos indígenas establecidos en el Estado;
-
-XI.- Las demás que le confieran las disposiciones legales, así como aquellas que le asigne el Presidente de la Comisión Estatal;
-
-Para el desempeño de sus funciones, el Centro Estatal de Estudios en Derechos Humanos, contará con las siguientes áreas:
-
-I.- Visitaduría de Asuntos Indígenas;
-
-II.- Departamento de Capacitación y Divulgación; y
-
-III.- Departamento de Investigación y Análisis;
-
-Además contará con el personal profesional, técnico y administrativo autorizado en el presupuesto de egresos de la Comisión Estatal.
+(DEROGADO, P.O. 8 DE MARZO DE 2006)
 
 > <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2003)</small>
 
@@ -479,9 +453,13 @@ El Presidente de la Comisión Estatal determinará el orden en el que a los Visi
 
 El Presidente de la Comisión Estatal podrá delegar en uno o más de los Visitadores Generales la facultad de presentar denuncias penales cuando ello fuere necesario.
 
-###### ARTICULO 41.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2006)</small>
+
+###### ARTÍCULO 41.
 
 Tendrán el carácter de Visitadores Adjuntos los miembros del personal profesional que laboren en la Comisión, incluidos los peritos en medicina forense, en criminología o en otras disciplinas científicas o técnicas que resultan necesarias para el trabajo de la propia Comisión, que reciban el nombramiento específico como tales, y que se encarguen de auxiliar a los Visitadores Generales en la integración de los expedientes de queja y de su consecuente investigación.
+
+Para efectos de una mayor especialización en la atención de los asuntos en materia indígena de competencia de la Comisión de Derechos Humanos, ésta contará con una Visitaduría Adjunta para asuntos indígenas.
 
 ###### ARTICULO 42.
 
@@ -617,13 +595,53 @@ IX.- Acordar con el Presidente de la Comisión los asuntos de su competencia; y
 
 X.- Las demás que le confiera el presente reglamento y otras disposiciones legales aplicables, así como aquellas que le asigne el Presidente de la Comisión Estatal.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE OCTUBRE DE 2004)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 8 DE MARZO DE 2006)</small>
 
-### CAPITULO I. DE LA PRESENTACIÓN DE LA QUEJA
+### CAPITULO VII. DEL INSTITUTO DE ESTUDIOS EN DERECHOS HUMANOS
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2006)</small>
+
+ARTÍCULO 46 TER.-La Comisión de Derechos Humanos del Estado contará con un órgano académico denominado Instituto de Estudios en Derechos Humanos, que estará a cargo de un titular que será elegido por el Consejo Consultivo a propuesta del Presidente de la Comisión Estatal, y tendrá las siguientes atribuciones y obligaciones:
+
+I.- Promover el fortalecimiento de la cultura del respeto a los Derechos Humanos en el ámbito estatal, mediante el desarrollo de actividades de capacitación, divulgación y difusión;
+
+II.- Impartir estudios de posgrado en los niveles académicos de Especialidad, Maestría y Doctorado;
+
+III.- Fomentar la práctica de investigaciones académicas interdisciplinarias, especializadas en materia de Derechos Humanos;
+
+IV.- De conformidad con el artículo 14 fracción III de la Ley de la Comisión de Derechos Humanos del Estado de Campeche y previa autorización de la Presidencia, podrá firmar acuerdos, convenios y/o contratos con diferentes instituciones académicas, sociales o privadas, locales, nacionales e internacionales, que apoyen los proyectos de estudios en materia de capacitación, enseñanza, divulgación e investigación en Derechos Humanos;
+
+V.- Promover la celebración de intercambios académicos con instituciones nacionales e internacionales, públicas y privadas;
+
+VI.- Dirigir, impulsar e incrementar el acervo de la Biblioteca de la Comisión Estatal, así como apoyar a través de los servicios bibliotecarios con los que cuenta, a los órganos y a las unidades administrativas de la Comisión, investigadores, especialistas, estudiantes y público en general;
+
+VII. Elaborar materiales didácticos y de divulgación en materia de Derechos Humanos;
+
+VIII.- Gestionar, previa autorización de la Presidencia de la Comisión de Derechos Humanos del Estado, la obtención de apoyos humanos y financieros para el ejercicio de sus funciones; y
+
+IX.- Las demás que le confieran las disposiciones legales, así como aquellas que le asigne el Presidente de la Comisión Estatal.
+
+Para el desempeño de sus funciones, el Instituto de Estudios en Derechos Humanos contará con las siguientes áreas:
+
+I.- Centro de Estudios en Derechos Humanos;
+
+II.- Departamento de Capacitación y Divulgación;
+
+III.- Coordinación Académica de Estudios de Posgrado;
+
+IV.- Departamento de Control Escolar y Vinculación Académica;
+
+V.- Departamento de Investigación y Análisis; y
+
+VI.- Departamento de Recursos Humanos y Servicios Generales.
+
+Además contará con el personal profesional, académico, técnico y administrativo que le sea autorizado en el presupuesto de egresos de la Comisión Estatal.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE OCTUBRE DE 2004)</small>
 
 ## TITULO CUARTO. DE LAS EXCUSAS E IMPEDIMENTOS
 
-### CAPITULO II. DE LA CALIFICACIÓN DE LA QUEJA
+### CAPITULO I. DE LA PRESENTACIÓN DE LA QUEJA
 
 ###### ARTICULO 47.
 
@@ -701,7 +719,7 @@ No se admitirán quejas notoriamente improcedentes o infundadas, esto es, aquell
 
 Tampoco se radicarán como quejas aquellos escritos que vayan dirigidos a la Comisión Estatal, en los que no se pida de manera expresa la intervención de este organismo.
 
-### CAPITULO III. DE LA TRAMITACIÓN DE LA QUEJA
+### CAPITULO II. DE LA CALIFICACIÓN DE LA QUEJA
 
 ###### ARTICULO 60.
 
@@ -747,7 +765,7 @@ El Visitador tendrá la responsabilidad de integrar debidamente el expediente de
 
 En la integración e investigación de los expedientes de queja, los Visitadores Adjuntos auxiliarán a los Visitadores Generales.
 
-### CAPITULO IV. DE LA CONCILIACIÓN
+### CAPITULO III. DE LA TRAMITACIÓN DE LA QUEJA
 
 ###### ARTICULO 68.
 
@@ -849,9 +867,7 @@ Durante este lapso la Comisión Estatal deberá concluir el estudio de la queja 
 
 En el desempeño de sus funciones, los funcionarios de la Comisión Estatal estarán obligados a identificarse con la credencial que a su nombre se expida. En caso de que algún funcionario hiciere uso indebido de la credencial, será sujeto a responsabilidad administrativa y, en su caso, penal. Para tal efecto, el Visitador General, luego de escuchar al funcionario implicado y previo acuerdo del Presidente de la Comisión Estatal, podrá imponer la sanción que corresponda o presentar la denuncia ante el ministerio público respectivo.
 
-### CAPITULO V. DE LAS CAUSAS DE CONCLUSIÓN DE LOS EXPEDIENTES DE QUEJAS
-
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2004)</small>
+### CAPITULO IV. DE LA CONCILIACIÓN
 
 ###### ARTICULO 85.
 
@@ -881,7 +897,9 @@ Cuando la autoridad o servidor público correspondiente no acepte la propuesta d
 
 Durante el trámite conciliatorio la autoridad o servidor público correspondiente, podrá presentar a la Comisión Estatal las evidencias que considere pertinentes para comprobar que en el caso particular no existen violaciones a los Derechos Humanos, o para oponer alguna o algunas causas de incompetencia de la propia Comisión Estatal.
 
-### CAPITULO VI. DE LAS RECOMENDACIONES
+### CAPITULO V. DE LAS CAUSAS DE CONCLUSIÓN DE LOS EXPEDIENTES DE QUEJAS
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2004)</small>
 
 ###### ARTICULO 91.
 
@@ -939,7 +957,7 @@ Los acuerdos de conclusión de los expedientes de queja serán firmados por el V
 
 Sólo procederá notificar a la autoridad o servidor público que hubiese sido señalado como responsable de la conclusión de un expediente, cuando se le hubiere corrido traslado con la queja y solicitado los informes respectivos.
 
-### CAPITULO VII. DE LOS DOCUMENTOS DE NO RESPONSABILIDAD
+### CAPITULO VI. DE LAS RECOMENDACIONES
 
 ###### ARTICULO 97.
 
@@ -1025,31 +1043,7 @@ Una vez expedida la Recomendación, la competencia de la Comisión Estatal consi
 
 La Comisión Estatal también podrá emitir recomendaciones generales a las diversas autoridades del Estado, a fin de que se promuevan las modificaciones de disposiciones normativas y prácticas administrativas que constituyan o propicien violaciones a los derechos humanos. Estas recomendaciones se elaborarán de manera similar que las particulares y se fundamentarán en los estudios realizados por la propia Comisión Estatal a través de las visitadurías generales, previo acuerdo de presidente de la Comisión Estatal. Antes de su emisión estas recomendaciones se harán del conocimiento del Consejo Consultivo para su análisis y aprobación.
 
-### CAPITULO VIII
-
-> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2004)</small>
-
-> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2004)</small>
-
-ARTICULO 113 bis.- Los visitadores generales, adjuntos y demás personal de la Comisión, están impedidos para conocer de asuntos por alguna de las causas siguientes:
-
-I. Tener parentesco en línea recta sin limitación de grado, en la colateral por consanguinidad hasta el cuarto grado o por afinidad con alguno de los interesados o sus representantes, o con el servidor público involucrado como presunto responsable en el asunto;
-
-II. Tener amistad íntima o enemistad manifiesta con alguna de las personas a que se refiere la fracción anterior;
-
-III. Tener interés personal en el asunto, o tenerlo su cónyuge o sus familiares, en los grados que expresa la fracción primera de este artículo;
-
-IV. Tener familiaridad o vivir en familia con alguno de los interesados en el asunto que se encuentre en trámite o se pretenda tramitar ante la Comisión Estatal;
-
-V. Haber aceptado presentes o servicios de alguno de los interesados en el asunto;
-
-VI. Haber hecho promesas que impliquen parcialidad a favor o en contra de alguno de los interesados, sus representantes o haber amenazado de cualquier modo a alguno de ellos;
-
-VII. Haber sido agente del Ministerio Público, perito, testigo, apoderado, patrono o defensor en el asunto de que se trata, o haber gestionado o recomendado anteriormente a favor o en contra de alguno de los interesados, y
-
-VIII. Cualquier otro análogo a las anteriores.
-
-En caso de que un visitador general, visitador adjunto y demás personal de la Comisión Estatal tenga conocimiento de que se encuentra en alguna de las causas de impedimento deberá excusarse de inmediato del conocimiento del asunto y solicitar a su superior la calificación y determinación final sobre la excusa. De ser procedente el Presidente de la Comisión indicará sobre el servidor público que deba conocer el asunto.
+### CAPITULO VII. DE LOS DOCUMENTOS DE NO RESPONSABILIDAD
 
 ###### ARTICULO 108.
 
@@ -1085,15 +1079,37 @@ Cuando un quejoso de manera dolosa hubiese faltado a la verdad ante la Comisión
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-### CAPITULO UNICO
+### CAPITULO VIII
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2004)</small>
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2004)</small>
+
+ARTICULO 113 bis.- Los visitadores generales, adjuntos y demás personal de la Comisión, están impedidos para conocer de asuntos por alguna de las causas siguientes:
+
+I. Tener parentesco en línea recta sin limitación de grado, en la colateral por consanguinidad hasta el cuarto grado o por afinidad con alguno de los interesados o sus representantes, o con el servidor público involucrado como presunto responsable en el asunto;
+
+II. Tener amistad íntima o enemistad manifiesta con alguna de las personas a que se refiere la fracción anterior;
+
+III. Tener interés personal en el asunto, o tenerlo su cónyuge o sus familiares, en los grados que expresa la fracción primera de este artículo;
+
+IV. Tener familiaridad o vivir en familia con alguno de los interesados en el asunto que se encuentre en trámite o se pretenda tramitar ante la Comisión Estatal;
+
+V. Haber aceptado presentes o servicios de alguno de los interesados en el asunto;
+
+VI. Haber hecho promesas que impliquen parcialidad a favor o en contra de alguno de los interesados, sus representantes o haber amenazado de cualquier modo a alguno de ellos;
+
+VII. Haber sido agente del Ministerio Público, perito, testigo, apoderado, patrono o defensor en el asunto de que se trata, o haber gestionado o recomendado anteriormente a favor o en contra de alguno de los interesados, y
+
+VIII. Cualquier otro análogo a las anteriores.
+
+En caso de que un visitador general, visitador adjunto y demás personal de la Comisión Estatal tenga conocimiento de que se encuentra en alguna de las causas de impedimento deberá excusarse de inmediato del conocimiento del asunto y solicitar a su superior la calificación y determinación final sobre la excusa. De ser procedente el Presidente de la Comisión indicará sobre el servidor público que deba conocer el asunto.
 
 ## TITULO QUINTO. INFORMES ANUALES Y ESPECIALES
 
-### CAPITULO I. DE LOS NOMBRAMIENTOS
+### CAPITULO UNICO
 
-> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
 
 ###### ARTICULO 114.
 
@@ -1113,7 +1129,7 @@ Cuando la naturaleza del caso lo requiera, por su importancia o gravedad, el Pre
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-### CAPITULO II. DIAS DE DESCANSO OBLIGATORIO
+### CAPITULO I. DE LOS NOMBRAMIENTOS
 
 > <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2004)</small>
 
@@ -1169,9 +1185,7 @@ K) Las demás que dispongan la Ley Reglamentaria del Capitulo XVII de la Constit
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-### CAPITULO III
-
-VACACIONES, PERMISOS Y LICENCIAS.
+### CAPITULO II. DIAS DE DESCANSO OBLIGATORIO
 
 > <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2004)</small>
 
@@ -1185,7 +1199,9 @@ Durante la lactancia tendrá dos descansos extraordinarios por día de media hor
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-### CAPITULO IV. DE LA ASISTENCIA
+### CAPITULO III
+
+VACACIONES, PERMISOS Y LICENCIAS.
 
 > <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2004)</small>
 
@@ -1231,7 +1247,7 @@ En los casos de solicitud de permisos para realizar algún curso, taller, diplom
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-### CAPITULO V. CAPACITACION
+### CAPITULO IV. DE LA ASISTENCIA
 
 > <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2004)</small>
 
@@ -1263,11 +1279,15 @@ La tarjeta electrónica para registrar la asistencia laboral será proporcionada
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-###### Articulo 126.
+### CAPITULO V. CAPACITACION
 
-La Comisión de Derechos Humanos del Estado realizara un programa de capacitación para todos los Servidores Publias, al cual tendran acceso como una de sus acciones prioritarias La programación de los mismos estara a cargo del Centro Estatal de Estudios en Derechos Humanos, consistiendo en cuando menos dos cursos por año laboral impartidos el primero de ellos dentro del primer Semestre a costa del Organismo, quedando a cargo y elección del trabajador el segundo de ellos, teniendo como único requisito que sea acorde al fin de la Institución.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2006)</small>
 
-Para permanecer y tener derecho a aspirar a cualquier ascenso dentro del organismo es obligatorio para todos los trabajadores asistir puntualmente a los programas de capacitación, así como aprobar los exámenes correspondientes
+###### ARTÍCULO 126.
+
+El Instituto de Estudios en Derechos Humanos realizará programas de capacitación para todos los servidores públicos de la Comisión de Derechos Humanos del Estado de Campeche, teniendo el carácter de obligatorio al menos 1 curso por año laboral, el cual será impartido a costa del Organismo.
+
+Para que los trabajadores de la Comisión Estatal tengan derecho a aspirar a ascensos y/o promociones dentro del organismo, es obligatorio es obligatorio haber participado cuando menos en uno de los cursos de capacitación a que se refiere el párrafo anterior, así como aprobar los exámenes correspondientes.
 
 ## TRANSITORIOS
 
@@ -1304,3 +1324,11 @@ PRIMERO.- Las presentes reformas y adiciones al Reglamento Interno de la Comisi�
 SEGUNDO.- Se derogan todas aquellas disposiciones reglamentarias que se opongan al contenido del presente acuerdo.
 
 TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Campeche, de acuerdo a lo establecido en el Artículo 29 del Reglamento Interno de la Comisión Estatal.
+
+P.O. 8 DE MARZO DE 2006.
+
+PRIMERO.- Las presentes reformas y adiciones al Reglamento Interno de la Comisión de Derechos Humanos del Estado de Campeche, entrarán en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Se derogan todas las disposiciones reglamentarias que se opongan al contenido del presente acuerdo.
+
+TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Campeche, de acuerdo a lo establecido en el artículo 29 del Reglamento Interno de la Comisión Estatal.
