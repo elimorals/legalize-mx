@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-15-1997-del-pleno-del-consejo-de-la-2544
 country: "mx"
 rank: "acuerdo"
 publication_date: "1997-05-21"
-last_updated: "1997-05-21"
+last_updated: "2006-03-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25446&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1997-05-14"
 
 ACUERDO GENERAL NUMERO 15/1997, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PARA FIJAR LAS CONDICIONES Y LOS TERMINOS EN QUE LOS JUECES DE DISTRITO HABRAN DE LLEVAR A CABO VISITAS CARCELARIAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO DEL ACUERDO GENERAL 15/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 9 DE MARZO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 21 de mayo de 1997.
 
@@ -72,3 +74,11 @@ TERCERO.- Comuníquese el presente acuerdo a los titulares de los Juzgados de Di
 CUARTO.- Las circulares números 97 del once de marzo de mil novecientos veinticuatro y 48 del trece de mayo de mil novecientos treinta y siete, emitidas por la Suprema Corte de Justicia de la Nación, dejan de tener vigencia con la entrada en vigor del presente acuerdo general.
 
 LICENCIADO ADOLFO O. ARAGÓN MENDÍA, SECRETARIO EJECUTIVO DEL PLENO Y CARRERA JUDICIAL DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General Número 15/1997, para fijar las condiciones y los términos en que los Jueces de Distrito habrán de llevar a cabo visitas carcelarias, fue aprobado por el Pleno del Consejo de la Judicatura Federal, en sesión de catorce de mayo de mil novecientos noventa y siete, por unanimidad de votos de los consejeros, presidente Ministro José Vicente Aguinaco Alemán, Alonso Galván Villagómez, María Concepción Elisa Martín de Zúñiga, Ricardo Méndez Silva, Alfonso Oñate Laborde y Luis Gilberto Vargas Chávez; y, por mayoría de cinco votos en contra de la consejera María Concepción Elisa Martín de Zúñiga, por lo que hace exclusivamente al inciso a) del presente acuerdo.- México, Distrito Federal, a dieciséis de mayo de mil novecientos noventa y siete.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 9 DE MARZO DE 2006.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
