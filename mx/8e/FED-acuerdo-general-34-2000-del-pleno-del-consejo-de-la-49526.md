@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-34-2000-del-pleno-del-consejo-de-la-49526"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2000-07-26"
-last_updated: "2005-03-04"
+last_updated: "2006-03-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49526&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-07-19"
 
 ACUERDO GENERAL 34/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DE LOS LIBROS DE CONTROL QUE OBLIGATORIAMENTE DEBERAN LLEVAR LOS ORGANOS JURISDICCIONALES DEL PODER JUDICIAL DE LA FEDERACION, ASI COMO SU DESCRIPCION E INSTRUCTIVOS CORRESPONDIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE MARZO DE 2006.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 26 de julio de 2000.
 
@@ -128,6 +128,10 @@ Libro once: Control de armas de fuego;
 Libro doce: Control de narcóticos;
 
 Libro trece: Control de firmas de procesados en libertad provisional bajo caución.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] POR EL PUNTO TERCERO DEL ACUERDO GENERAL 15/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE MARZO DE 2006)</small>
+
+Libro Catorce: Control de audiencias de información a las partes sobre puntos del procedimiento.
 
 ###### Artículo 7o.
 
@@ -956,6 +960,46 @@ Observaciones. En la columna Observaciones, se deberá anotar el caso en que el 
 También se podrán anotar los datos relativos al supuesto en que se conceda algún permiso al inculpado y, todos aquellos que sin estar comprendidos en las columnas anteriores, resulten necesarios para un mejor control de las obligaciones de los inculpados que disfrutan del beneficio de la libertad provisional bajo caución.
 
 (Ver tabla número doce)
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL PUNTO TERCERO DEL ACUERDO GENERAL 15/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE MARZO DE 2006)</small>
+
+LIBRO CATORCE DE JUZGADO
+
+Libro de control de audiencias de información a las partes sobre puntos del procedimiento.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL 15/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE MARZO DE 2006)</small>
+
+###### Artículo 122 Bis.
+
+Contenido del Libro. Este Libro constará de cinco columnas con los rubros: Expediente, Solicitante, Consulta, Fecha de audiencia y Observaciones, los cuales se utilizarán en la forma que se describe en los siguientes artículos.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL 15/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE MARZO DE 2006)</small>
+
+###### Artículo 122 Ter.
+
+Expediente. En esta columna deberá anotarse el tipo de procedimiento de que se trate, seguido del número que identifique al expediente en que se actúa.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL 15/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE MARZO DE 2006)</small>
+
+###### Artículo 122 Quáter.
+
+Solicitante. En esta columna se asentará el nombre de la persona que hubiere requerido orientación en términos del Artículo 41 del Código Federal de Procedimientos Penales.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL 15/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE MARZO DE 2006)</small>
+
+Artículo 122 Quinter.- Consulta. Esta columna contendrá una breve reseña de la interrogante planteada.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL 15/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE MARZO DE 2006)</small>
+
+Artículo 122 Sexter.- Fecha de audiencia. En esta columna se asentará el día, mes y año de la audiencia pública en que se haya proporcionado la orientación requerida.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL 15/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE MARZO DE 2006)</small>
+
+Artículo 122 Sépter.- Observaciones. En esta columna deberá anotarse algún dato que se juzgue conveniente.
+
+(F. DE .E., D.O.F. 14 DE MARZO DE 2006)
+
+(VER TABLA DOCE BIS)
 
 ## TITULO TERCERO
 
@@ -2034,3 +2078,9 @@ D.O.F. 4 DE MARZO DE 2005.
 PRIMERO.- El presente Acuerdo entrará en vigor a partir de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 9 DE MARZO DE 2006.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
