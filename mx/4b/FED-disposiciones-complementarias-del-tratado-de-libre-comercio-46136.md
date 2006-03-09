@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-461
 country: "mx"
 rank: "otro"
 publication_date: "2004-12-29"
-last_updated: "2006-03-03"
+last_updated: "2006-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46136&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,29 +18,25 @@ scjn_last_update: "2010-11-12"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO (MULTILATERAL, 2000)
 
-DECRETO QUE MODIFICA AL DIVERSO POR EL QUE SE ESTABLECE LA TASA APLICABLE PARA EL 2006 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE LA COMUNIDAD EUROPEA, LOS ESTADOS DE LA ASOCIACION EUROPEA DE LIBRE COMERCIO, EL SALVADOR, GUATEMALA, HONDURAS Y NICARAGUA; ASI COMO LA TASA APLICABLE DEL 1 DE ABRIL DE 2006 AL 31 DE MARZO DE 2007 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DEL JAPON
+ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS Y EL PROCEDIMIENTO PARA SU ASIGNACION, PARA IMPORTAR A LOS ESTADOS UNIDOS MEXICANOS PROCEDENTES DE LA REPUBLICA DE HONDURAS E INTERNAR A LA REPUBLICA DE HONDURAS, BIENES TEXTILES Y DEL VESTIDO EN EL PERIODO 2006-2009, QUE CUMPLAN CON LO DISPUESTO EN EL TRATADO DE LIBRE COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LAS REPUBLICAS DE EL SALVADOR, GUATEMALA Y HONDURAS
 
-Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de marzo de 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS Y EL PROCEDIMIENTO PARA SU ASIGNACION, PARA IMPORTAR A LOS ESTADOS UNIDOS MEXICANOS PROCEDENTES DE LA REPUBLICA DE HONDURAS E INTERNAR A LA REPUBLICA DE HONDURAS, BIENES TEXTILES Y DEL VESTIDO EN EL PERIODO 2006-2009, QUE CUMPLAN CON LO DISPUESTO EN EL TRATADO DE LIBRE COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LAS REPUBLICAS DE EL SALVADOR, GUATEMALA Y HONDURAS, PUBLICADO EN EL D.O.F. DE 23 DE JULIO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 9 de marzo de 2006.
 
-VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el Artículo 89 fracción I de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los Artículos 131 de la propia Constitución, 31 y 34 de la Ley Orgánica de la Administración Pública Federal; 2o., 4o. fracción I y 14 de la Ley de Comercio Exterior, y
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
+
+SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía, con fundamento en los artículos 3-04 y 3-19 y el Anexo 3-19 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras; 34 de la Ley Orgánica de la Administración Pública Federal; 4 fracción III, 5 fracción V, 6, 15 fracción II, 16 fracción III, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9 fracciones III y V, 26, 31, 32, 33 y 35 de su Reglamento; 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras (el Tratado), firmado el 29 de junio de 2000 y aprobado por el Senado de la República el 14 de diciembre del mismo año entró en vigor el 15 de julio de 2001 para el comercio entre los Estados Unidos Mexicanos y la República de Honduras;
+Que el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras; firmado el 29 de junio de 2000, aprobado por la Cámara de Senadores del Honorable Congreso de la Unión, el 14 de diciembre de 2000, según Decreto publicado el 19 de enero de 2001 en el Diario Oficial de la Federación y publicado en este mismo órgano informativo el 14 de marzo de 2001, manifiesta la decisión de crear un mercado más extenso y seguro para bienes producidos en el territorio de las Partes; y establecer una zona de libre comercio entre los cuatro países a través de la eliminación de barreras comerciales;
 
-Que el 14 de abril de 2005, la Comisión Administradora del Tratado adoptó las Decisiones Nos. 10 y 11, mediante las cuales se incorpora al Programa de Desgravación del mismo el comercio entre los Estados Unidos Mexicanos y la República de Honduras de bienes de la cadena: fibras-textil-confección, clasificados en los capítulos 50 a 63 del Sistema Armonizado de Designación y Codificación de Mercancías, y se establecen las condiciones para su acceso;
+Que el artículo 3-19 del propio Tratado establece que se podrá otorgar trato arancelario preferencial conforme al Anexo 3-19 y que, con fecha 16 de diciembre de 2005, se publicó en el Diario Oficial de la Federación el Decreto por el que se aprueba la Decisión No. 11 de la Comisión Administradora de este Tratado, relativa al Trato Nacional y Acceso de Bienes al Mercado, mediante la cual se modifica el Anexo 3-19 citado, a efecto de incorporar al comercio entre México y Honduras ciertos bienes no originarios, clasificados en los capítulos 50 a 63 del Sistema Armonizado, conforme al Anexo I de la misma Decisión, y
 
-Que el 6 de octubre de 2005 el Senado de la República aprobó la Decisión No. 11 de la Comisión Administradora del Tratado y que el 16 de diciembre del mismo año se publicó en el Diario Oficial de la Federación el “Decreto por el que se aprueba la Decisión No. 11, Trato Nacional y Acceso de Bienes al Mercado, de la Comisión Administradora del Tratado de Libre Comercio entre los Estados Unidos Mexicanos, la República de El Salvador, la República de Guatemala y la República de Honduras, firmada el catorce de abril de dos mil cinco”;
+Que el mecanismo de asignación de los cupos de bienes textiles y del vestido otorgados por las Partes, es un instrumento de la política sectorial para promover la competitividad de los sectores involucrados y cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
 
-Que de conformidad con lo establecido en los numerales IV y III de las Decisiones Nos. 10 y 11, respectivamente, los gobiernos de los Estados Unidos Mexicanos y la República de Honduras han intercambiado notificaciones en las que certifican la conclusión de las formalidades jurídicas necesarias en cada uno de ellos para la entrada en vigor de las mismas y que se ha acordado con las autoridades de la República de Honduras que éstas se apliquen a partir del próximo 22 de febrero;
-
-Que el 12 de agosto de 2005, la Comisión Administradora del Tratado adoptó la Decisión No. 15, mediante la cual los Estados Unidos Mexicanos acordaron acelerar la desgravación de ciertos bienes del sector acero y eliminar el arancel aplicable a la importación de ciertos néctares originarios de la República de El Salvador y que de conformidad con lo establecido en el numeral 3 de la referida decisión ésta entrará en vigor una vez que los Estados Unidos Mexicanos y el Salvador se notifiquen la conclusión de sus respectivas formalidades jurídicas, y
-
-Que resulta necesario modificar el “Decreto por el que se establece la Tasa Aplicable para el 2006 del Impuesto General de Importación para las mercancías originarias de la Comunidad Europea, los Estados de la Asociación Europea de Libre Comercio, El Salvador, Guatemala, Honduras y Nicaragua; así como la Tasa aplicable del 1 de abril de 2006 al 31 de marzo de 2007 del Impuesto General de Importación para las mercancías originarias del Japón” publicado en el Diario Oficial de la Federación el 29 de diciembre de 2005 con objeto de reflejar lo establecido en las referidas decisiones, he tenido a bien expedir el siguiente
-
-DECRETO
+ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS Y EL PROCEDIMIENTO PARA SU ASIGNACION, PARA IMPORTAR A LOS ESTADOS UNIDOS MEXICANOS PROCEDENTES DE LA REPUBLICA DE HONDURAS E INTERNAR A LA REPUBLICA DE HONDURAS, BIENES TEXTILES Y DEL VESTIDO EN EL PERIODO 2006-2009, QUE CUMPLAN CON LO DISPUESTO EN EL TRATADO DE LIBRE COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LAS REPUBLICAS DE EL SALVADOR, GUATEMALA Y HONDURAS
 
 ###### ARTÍCULO DÉCIMO PRIMERO.
 
@@ -50,31 +46,47 @@ Se suprimen y se adicionan al Apéndice del Decreto por el que se establece la T
 
 ...
 
-###### ARTÍCULO PRIMERO.
+###### ARTICULO PRIMERO.
 
-Se crean y se modifican las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación:
-
-(VEASE ARCHIVO ANEXO)
-
-###### ARTÍCULO SEGUNDO.
-
-Se adiciona al artículo 5, fracciones III y XVII, del Decreto por el que se establecen diversos Programas de Promoción Sectorial publicado en el Diario Oficial de la Federación el 2 de agosto de 2002, las fracciones arancelarias que a continuación se indican, para quedar en los siguientes términos:
-
-###### ARTÍCULO TERCERO.
-
-Se adiciona al Apéndice del Decreto por el que se establece la Tasa Aplicable para el 2005 del Impuesto General de Importación para las mercancías originarias de la Comunidad Europea, los Estados de la Asociación Europea de Libre Comercio, El Salvador, Guatemala, Honduras y Nicaragua, publicado en el Diario Oficial de la Federación el 29 de diciembre de 2004, la siguiente fracción arancelaria de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que corresponde según su numeración:
+Los cupos para importar a los Estados Unidos Mexicanos procedentes de la República de Honduras y para internar a la República de Honduras, bienes textiles que cumplan con lo dispuesto en el Anexo 3-19 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras, durante el 1 de enero al 31 de diciembre de cada año, en el periodo 2006 a 2009, son los que se determinan a continuación:
 
 (VEASE ARCHIVO ANEXO)
 
-###### ARTÍCULO CUARTO.
+_1/ - En el caso de productos clasificados en el capítulo 60, el factor de conversión aplicable es de 0.235kg/m2.
 
-Se adiciona al Apéndice del Decreto por el que se establece la Tasa Aplicable del 1 de abril de 2005 al 31 de marzo de 2006 del Impuesto General de Importación para las mercancías originarias del área conformada por los Estados Unidos Mexicanos y el Japón, publicado en el Diario Oficial de la Federación el 31 de marzo de 2005, la siguiente fracción arancelaria de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que corresponde según su numeración:
+###### ARTICULO SEGUNDO.
 
-Japón
+De conformidad con lo dispuesto en los artículos 24 párrafo segundo de la Ley de Comercio Exterior y 31 de su Reglamento, y con el objeto de promover las corrientes comerciales entre las partes, el mecanismo a través del cual se asignarán los cupos descritos en el artículo anterior, es de asignación directa en la modalidad de "primero en tiempo, primero en derecho", que consiste en asignar los cupos conforme los interesados los soliciten. La vigencia de los certificados de cupo será al 31 de diciembre del año de su expedición.
 
-Fracción Arancel Nota
+###### ARTICULO TERCERO.
 
-85023903 11.7
+Podrán solicitar asignación de los cupos señalados en el artículo primero, las personas físicas o morales establecidas en los Estados Unidos Mexicanos que deseen exportar o importar bienes textiles bajo los niveles de flexibilidad temporal acordados entre México y Honduras dentro del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras, que cuenten con la inscripción vigente a que se refiere el artículo siguiente.
+
+###### ARTICULO CUARTO.
+
+Para la obtención de los certificados de cupo de exportación o de importación, según sea el caso, los interesados deberán obtener previamente la constancia de inscripción en el Registro de Bienes Textiles y del Vestido bajo los niveles de flexibilidad temporal dentro del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras, de la siguiente manera:
+
+a) Los interesados deberán presentar el formato SE-03-012-3, "Solicitud de Inscripción en el Registro de Bienes Textiles y del Vestido bajo los niveles de flexibilidad temporal dentro del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras" en la ventanilla de atención al público de la Dirección General de Comercio Exterior, en la planta baja del edificio ubicado en Insurgentes Sur 1940, colonia Florida, Delegación Alvaro Obregón, México, D.F., o bien en las representaciones federales de esta Secretaría en toda la República.
+
+b) El horario de recepción de dicho formato será de 9:00 a 14:00 horas, en días hábiles.
+
+c) La Secretaría expedirá la constancia de inscripción en un plazo no mayor a siete días hábiles contados a partir de la fecha de recepción de la solicitud. Este registro deberá solicitarse anualmente por grupo de productos, según la clasificación arancelaria que corresponda.
+
+###### ARTICULO QUINTO.
+
+Una vez obtenida la constancia de inscripción, se deberá solicitar, la expedición del certificado de cupo de exportación o importación correspondiente para cada embarque, presentando el formato SE-03-013-8 “Solicitud de certificado de elegibilidad para bienes textiles y del vestido bajo los niveles de flexibilidad temporal con la República de Honduras” acompañado de la factura comercial (original y copia), para el caso de la exportación y, para el caso de la importación, del original del documento proporcionado por la Secretaría de Industria y Comercio de Honduras, en horario de 9:00 a 10:00 horas, en la oficina donde se emitió la Constancia de inscripción a que se refiere el artículo anterior. El certificado será entregado en horario de 13:00 a 14:00 horas del mismo día de la presentación de la solicitud.
+
+###### ARTICULO SEXTO.
+
+Los formatos a que se hace referencia en este Acuerdo, estarán a disposición de los interesados en la Dirección General de Comercio Exterior, en las representaciones federales de la Secretaría y en la página de Internet de la Comisión Federal de Mejora Regulatoria en las siguientes direcciones electrónicas:
+
+a) Para el caso del formato SE-03-012-3 "Solicitud de Inscripción en el Registro de Bienes Textiles y del Vestido bajo los niveles de flexibilidad temporal dentro del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras":
+
+<http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-036-C>
+
+b) Para el caso del formato SE-03-013-8 “Solicitud de certificado de elegibilidad para bienes textiles y del vestido bajo los niveles de flexibilidad temporal con la República de Honduras”:
+
+<http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-041-C>
 
 ###### ARTÍCULO 1.
 
@@ -240,14 +252,20 @@ La importación de mercancías originarias del área conformada por los Estados 
 
 La importación de mercancías originarias del área conformada por los Estados Unidos Mexicanos y el Japón, comprendidas en las fracciones arancelarias que se identifican con el código “PXIX” bajo el rubro “Nota” en el Apéndice, estará libre de arancel siempre que el importador esté autorizado para operar bajo el Programa de Promoción Sectorial de la Industria Automotriz y de Autopartes de los Estados Unidos Mexicanos.
 
-## TRANSITORIOS
+## TRANSITORIO
 
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los artículos segundo, tercero y cuarto transitorios.
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 31 de diciembre de 2009.
 
-SEGUNDO.- Lo dispuesto en los artículos 1 y 2 del presente ordenamiento entrarán en vigor el 22 de febrero del presente año.
+México, D.F., a 28 de febrero de 2006.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
 
-TERCERO.- Lo dispuesto en los artículos 3, 4 y 5 del presente ordenamiento entrarán en vigor una vez que los Estados Unidos Mexicanos y la República de El Salvador se notifiquen la conclusión de sus respectivas formalidades jurídicas. A tal efecto, la Secretaría de Economía publicará un aviso en el Diario Oficial de la Federación en el que se notifique la fecha de entrada en vigor de los mismos.
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
 
-CUARTO.- Lo dispuesto en el artículo 6 del presente ordenamiento será aplicable a las operaciones de importación efectuadas a partir del 1 de enero de 2006 con objeto de dar cumplimiento a lo establecido en el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y los Estados de la Asociación Europea de Libre Comercio.
+D.O.F. 23 DE JULIO DE 2007.
 
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, al primer día del mes de marzo de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
+PRIMERO.- El presente Acuerdo entrará en vigor al día hábil siguiente de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 31 de diciembre de 2009.
+
+SEGUNDO.- Se abroga el Acuerdo por el que se dan a conocer los cupos y el procedimiento para su asignación, para importar a los Estados Unidos Mexicanos procedentes de la República de Honduras e internar a la República de Honduras, bienes textiles y del vestido en el periodo 2006-2009, que cumplan con lo dispuesto en el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras publicado en el Diario Oficial de la Federación el 9 de marzo de 2006.
+
+TERCERO.- Las asignaciones y los certificados de cupo expedidos al amparo del Acuerdo que se abroga en el artículo Transitorio anterior del presente Acuerdo, continuarán vigentes hasta la fecha que se indique en el documento correspondiente y por el saldo del monto autorizado, por lo que podrán continuar siendo utilizados para los efectos para los que fueron emitidos, por lo que los titulares de dichas autorizaciones no deberán realizar ningún trámite ante la SE y podrán ejercer dichas autorizaciones ante la aduana, de conformidad con la Tabla de Correlación TIGIE 2002-TIGIE 2007 que se establece como anexa al Acuerdo por el que se dan a conocer diversas disposiciones en materia de instrumentos y programas de comercio exterior, así como la Tabla de Correlación TIGIE 2002-TIGIE 2007, publicado el 28 de junio de 2007.
+
+CUARTO.- Al monto del cupo establecido en el presente Acuerdo le será descontado la cantidad que a la fecha de entrada en vigor de este ordenamiento, haya sido asignada al amparo de lo establecido en el Acuerdo que se abroga. Al efecto, la Secretaría de Economía dará a conocer en la página de Internet: www.siicex.gob.mx, el monto del cupo que a la entrada en vigor del presente Acuerdo esté disponible para ser asignado.
