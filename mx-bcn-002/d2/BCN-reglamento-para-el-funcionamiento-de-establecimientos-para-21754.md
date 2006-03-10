@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-el-funcionamiento-de-establecimientos-para-2175
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-07-13"
-last_updated: "2001-07-13"
+last_updated: "2006-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21754&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA EL FUNCIONAMIENTO DE ESTABLECIMIENTOS PARA EVENTOS SOCIALES O FIESTAS EN EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 13 de julio de 2001.
 
@@ -281,9 +281,11 @@ En este caso, el derecho del solicitante a recibir respuesta subsistirá, para t
 
 Si la resolución administrativa es favorable, la autoridad municipal expedirá por duplicado el permiso, dentro de los cinco días hábiles siguientes a la fecha de la misma, un tanto será para el interesado y el otro quedará en los archivos de la autoridad municipal.
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2006)</small>
+
 ###### ARTICULO 29.
 
-El permisionario que desee obtener un nuevo permiso bianual, en lo (sic) mismos términos y condiciones en que lo obtuvo, tendrá un término de treinta días hábiles siguientes al de vencimiento de su permiso anterior para solicitar la revalidación, debiendo presentar dicho permiso y cumplir los requisitos y condiciones previstos en este Reglamento, a excepción de los señalados en las fracciones V, VI, VII y VIII del artículo 24.
+El permisionario que desee obtener un permiso anual, en los mismos términos y condiciones en que lo obtuvo, tendrá un término de treinta días hábiles siguientes al del vencimiento de su permiso anterior para solicitar la revalidación, debiendo presentar dicho permiso y cumplir con los requisitos y condiciones previstos en este reglamento, a excepción de los señalados en las fracciones V, VI, VII y VIII del artículo 24, de este mismo ordenamiento.
 
 ###### ARTICULO 30.
 
@@ -480,3 +482,9 @@ II. A los establecimientos que se encuentren identificados, se les notificará d
 III. A quienes no puedan cumplir de inmediato con las condiciones que establece el presente ordenamiento, se le concederá el plazo que se estime pertinente, y en su caso se le expedirá el permiso condicionado al cumplimiento de los requisitos.
 
 IV. La Secretaría y la Dirección informarán a las comisiones de Gobernación y Legislación y de Desarrollo Urbano y Control Ecológico, del proceso de regularización y de la propuesta de tratamiento a las solicitudes que reciban.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE MARZO DE 2006.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
