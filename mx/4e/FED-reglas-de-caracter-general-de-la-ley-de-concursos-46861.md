@@ -4,7 +4,7 @@ identifier: "FED-reglas-de-caracter-general-de-la-ley-de-concursos-46861"
 country: "mx"
 rank: "reglas"
 publication_date: "2003-01-30"
-last_updated: "2005-11-23"
+last_updated: "2006-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46861&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-01-23"
 
 REGLAS DE CARACTER GENERAL DE LA LEY DE CONCURSOS MERCANTILES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE MARZO DE 2006.
 
 Reglas publicadas en la Primera Sección del Diario Oficial de la Federación, el jueves 30 de enero de 2003.
 
@@ -387,29 +387,29 @@ IV. Los gastos serán presentados para su aprobación al Instituto quien calific
 
 Regla 53.- Los Especialistas designados para la atención de un concurso, ya sea por el Instituto, conforme a los artículos 147 o 174 de la Ley, o en los supuestos del Título Octavo, deberán caucionar su correcto desempeño, como ordena el artículo 327 de la misma.
 
-Regla 54.- La caución del desempeño podrá realizarse a través de los tipos de fianzas o los seguros, individuales o grupales, o aquellos mecanismos que el Instituto autorice y dé a conocer a los Especialistas en los términos de la regla 2.
+> <small>(REFORMADA, D.O.F. 10 DE MARZO DE 2006)</small>
+
+Regla 54.- La caución del desempeño podrá realizarse a través de fianzas; seguros, individuales o grupales; constituyendo un depósito condicional en una institución fiduciaria, pudiendo los rendimientos del depósito quedar a favor del depositante; mediante certificados de depósito admitidos por los órganos jurisdiccionales o bien mediante aquellos mecanismos que el Instituto autorice y dé a conocer a los Especialistas en términos de la Regla 2.
 
 Regla 55.- Los Especialistas deberán hacer el trámite de la obtención de la caución dentro de los tres días siguientes a: el inicio de la visita, en el caso del Visitador; o de la notificación de su designación en el caso del Conciliador y del Síndico.
 
-Regla 56.- En defecto de la exhibición de una fianza o de una póliza de seguro, podrá caucionarse el desempeño ante el Juez constituyendo un depósito condicional en una institución fiduciaria, pudiendo los rendimientos del depósito quedar a favor del depositante, o bien mediante los certificados de depósito admitidos por los órganos jurisdiccionales.
+Regla 56.- (DEROGADA, D.O.F. 10 DE MARZO DE 2006)
 
-Regla 57.- Los montos que deberán quedar cubiertos por la caución serán los siguientes:
+> <small>(REFORMADA, D.O.F. 10 DE MARZO DE 2006)</small>
 
-I. Visitadores: caucionarán su manejo por un importe equivalente a mil quinientos días de salario mínimo vigente en el Distrito Federal.
+Regla 57.- El monto que deberá quedar cubierto por la caución de Visitadores, Conciliadores y Síndicos será por el importe equivalente a mil quinientos días de salario mínimo vigente en el Distrito Federal.
 
-II. Conciliadores: caucionarán su manejo por el valor que resulte de aplicar a la totalidad de los pasivos presentados en el dictamen del visitador, el factor de 0.25 por ciento, con un límite máximo para la base a caucionar de 70'000,000 de Udis. En el caso de un concurso que se abra sin haber habido dictamen del visitador, el Conciliador deberá caucionar con el importe equivalente a mil quinientos días de salario mínimo vigente en el Distrito Federal.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE MARZO DE 2006)</small>
 
-III. Síndicos: caucionarán su manejo por el valor que resulte de aplicar al total de los activos realizables que se desprendan del estado de contabilidad del Comerciante o del dictamen del Conciliador cuando éste haya tenido la administración a su cargo, el factor de 0.25 por ciento, con un límite máximo para la base a caucionar de 70'000,000 de Udis. En el caso de no contarse con el estado de contabilidad del Comerciante o del dictamen del Conciliador, el Síndico deberá caucionar con el importe equivalente a mil quinientos días de salario mínimo vigente en el Distrito Federal.
-
-IV. En los casos en que por no haberse llevado a cabo la fase de conciliación se designe un Síndico-Conciliador éste caucionará su manejo conforme la tarifa que resulte mayor entre las previstas en las fracciones II y III o, en caso de que no existan los elementos para fijar el valor, con el importe equivalente a mil quinientos días de salario mínimo vigente en el Distrito Federal.
-
-Regla 58.- Las cauciones otorgadas podrán cancelarse cuando transcurra el siguiente término contado a partir de su otorgamiento: para el Visitador, seis meses; para el Conciliador y para el Síndico, dieciocho meses; siempre que no haya quedado firme la sentencia que concluya la etapa en la que intervino el Especialista que la otorgó o el Especialista no haya entregado el informe final o no hayan quedado concluidos con resolución firme los incidentes iniciados con motivo de inconformidad con su actuación. En estos últimos casos, el Especialista deberá renovar su caución.
+Regla 58.- Las cauciones otorgadas podrán cancelarse cuando transcurra el siguiente término contado a partir de su otorgamiento: para el Visitador, seis meses; para el Conciliador y para el Síndico, dieciocho meses. Cuando no haya quedado firme la sentencia que concluya la etapa en la que intervino el Especialista que la otorgó o el Especialista no haya entregado el informe final o no hayan quedado concluidos con resolución firme los incidentes iniciados con motivo de inconformidad con su actuación, el Especialista deberá mantener vigente su caución hasta que hayan concluido los supuestos antes señalados.
 
 En el caso de Especialistas que sean sustituidos de su desempeño por cualquier razón, los plazos indicados se reducirán a la mitad.
 
-Regla 59.- En los casos en que el Conciliador, concluida su labor, sea designado Síndico servirá para esta segunda función la caución otorgada para la primera, ajustándose en su caso al valor que resulte de aplicar los cálculos hechos conforme a la fracción III de la Regla 57.
+> <small>(REFORMADA, D.O.F. 10 DE MARZO DE 2006)</small>
 
-Asimismo, en los casos en que un solo Especialista sea asignado al concurso de empresas controladora (sic) y controladas, bastará el otorgamiento de la caución por la empresa que ofrezca, conforme al cálculo de la Regla 57, el monto mayor.
+Regla 59.- En los casos en que el Conciliador, concluida su labor, sea designado Síndico en el mismo procedimiento concursal, servirá para esta segunda función la caución otorgada para la primera, ampliando su vigencia al plazo señalado en la Regla 58.
+
+Asimismo, en los casos en que un solo Especialista sea asignado al concurso de empresas controladora y controladas en los términos del artículo 15 de la Ley de Concursos Mercantiles, bastará el otorgamiento de una sola caución.
 
 ## TITULO VIII - PUBLICIDAD DE LA TRANSMISION DE CREDITOS Y DE LA CONVOCATORIA PARA SUBASTA
 
@@ -510,5 +510,13 @@ D.O.F. 23 DE NOVIEMBRE DE 2005.
 PRIMERO. Con independencia de lo dispuesto por la regla 2 de las Reglas de Carácter General de la Ley de Concursos Mercantiles, y sin perjuicio de ello, este acuerdo podrá ser publicado en el Diario Oficial de la Federación.
 
 SEGUNDO. Los honorarios de los conciliadores que han iniciado labores antes de la entrada en vigencia de esta reforma y adición, se determinarán conforme al texto de la regla 49 de las Reglas de Carácter General de la Ley de Concursos Mercantiles vigente al momento de su designación.
+
+TERCERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE MARZO DE 2006.
+
+PRIMERO. Con independencia de lo dispuesto por la regla 2 de las Reglas de Carácter General de la Ley de Concursos Mercantiles, y sin perjuicio de ello, este acuerdo se publicará en el Diario Oficial de la Federación.
+
+SEGUNDO. Las cauciones de correcto desempeño de los Especialistas que han iniciado sus labores antes de la entrada en vigencia de esta reforma, se determinarán conforme a las Reglas de Carácter General de la Ley de Concursos Mercantiles, vigentes al momento de su designación.
 
 TERCERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
