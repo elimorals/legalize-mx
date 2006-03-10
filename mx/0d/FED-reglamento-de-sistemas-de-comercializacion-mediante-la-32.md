@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-sistemas-de-comercializacion-mediante-la-32"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-05-17"
-last_updated: "1994-05-17"
+last_updated: "2006-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1994-05-13"
 
 REGLAMENTO DE SISTEMAS DE COMERCIALIZACION MEDIANTE LA INTEGRACION DE GRUPOS DE CONSUMIDORES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTICULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL REGLAMENTO DE SISTEMAS DE COMERCIALIZACION CONSISTENTES EN LA INTEGRACION DE GRUPOS DE CONSUMIDORES, PUBLICADO EN EL D.O.F. DE 10 DE MARZO DE 2006, EL PRESENTE ORDENAMIENTO SERA ABROGADO A LA ENTRADA EN VIGOR DEL NUEVO REGLAMENTO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE MARZO DE 2006.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 17 de mayo de 1994.
 
@@ -112,3 +114,17 @@ SEGUNDO.- Se abroga el Reglamento del Artículo 29 bis de la Ley Federal de Prot
 TERCERO.- En tanto se expida la norma oficial mexicana a que se refiere el artículo 8o. de este reglamento, se continuará aplicando el Reglamento del Artículo 29 bis de la Ley Federal de Protección al Consumidor, en lo que no se oponga al presente.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los trece días del mes de mayo de mil novecientos noventa y cuatro.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Jorge Carpizo McGregor.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Jaime Serra Puche.- Rúbrica.- El Secretario de Turismo, Jesús Silva Herzog.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 10 DE MARZO DE 2006.
+
+PRIMERO.- El presente Reglamento entrará en vigor a los 30 días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento de sistemas de comercialización mediante la integración de grupos de consumidores, publicado en el Diario Oficial de la Federación el 17 de mayo de 1994.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan a las disposiciones del presente Reglamento.
+
+CUARTO.- A las operaciones cuyos contratos de adhesión se hayan celebrado con fecha anterior a la entrada en vigor del presente Reglamento, les continuarán siendo aplicables las disposiciones contenidas en el Reglamento de sistemas de comercialización mediante la integración de grupos de consumidores, publicado en el Diario Oficial de la Federación el 17 de mayo de 1994 y las normas oficiales mexicanas vigentes al momento de su celebración, hasta el vencimiento de los contratos y la liquidación de grupos. Salvo por cesión de derechos, el proveedor no podrá integrar nuevos consumidores a los grupos que tenga abiertos al momento en que inicie la vigencia del presente Reglamento.
+
+QUINTO.- La Procuraduría Federal del Consumidor deberá emitir los lineamientos a que se refiere el artículo 52 en un plazo que no excederá de los 90 días posteriores a la entrada en vigor del presente reglamento.
