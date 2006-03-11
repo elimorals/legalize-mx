@@ -4,7 +4,7 @@ identifier: "COA-codigo-de-procedimientos-penales-de-coahuila-15147"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-25"
-last_updated: "2005-11-25"
+last_updated: "2006-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES DE COAHUILA
 
-CÓDIGO DE PROCEDIMIENTOS PENALES DE COAHUILA
+CODIGO DE PROCEDIMIENTOS PENALES DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el martes 25 de mayo de 1999.
 
@@ -284,10 +284,6 @@ DELITOS QUE SE EXCLUYEN DEL BENEFICIO PROCESAL DE PENALIDAD ALTERNATIVA. Se excl
 > <small>(REFORMADA, P.O. 14 DE JUNIO DE 2002)</small>
 
 I. CIERTOS DELITOS DOLOSOS CON PENA DE PRISIÓN INFERIOR A SEIS AÑOS. Los delitos tipificados en los artículos 187; 190; 197; 208 fracción I; 215; 216; 217; 224; 233 fracción VI; 235; 244 si es doloso; 273; 295; 297; 304; 306 fracción IV; 310; 311; 339; 345 salvo que las lesiones dolosas sean leves o levísimas; 348 salvo que las lesiones dolosas sean leves o levísimas; 385; 412; 416; 417; 419; 421; 422; 424 fracción I; 428; 430; 431; 438 y 442, todos del Código Penal.
-
-> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2004)</small>
-
-También se excluirá del beneficio procesal de penalidad alternativa el delito que prevé el artículo 438 bis del Código Penal.
 
 II. DELITOS CULPOSOS DE HOMICIDIO E INCENDIO. Los delitos culposos de homicidio y el de incendio del artículo 292 del código penal.
 
@@ -1605,15 +1601,7 @@ CASOS EN LOS QUE NO PROCEDE LA RETENCIÓN. No se retendrá al indiciado por deli
 
 LIBERTAD CAUCIONAL DEL RETENIDO. El indiciado que se encuentre retenido por el Ministerio Público podrá obtener su libertad caucional, en los casos que ella proceda ante el juez. Para fijar la caución y su monto, el Ministerio Público atenderá a las mismas condiciones que este código fija para la caución judicial. Tratándose de cauciones en efectivo, éstas se depositarán en cuenta bancaria del fondo para mejorar la procuración de justicia.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2004)</small>
-
-Será improcedente tal beneficio ante el Ministerio Público en los supuestos siguientes:
-
-a) Cuando se trate de delito culposo que se cometa con motivo del tránsito de vehículos que el indiciado cometa por ebriedad; o por el influjo de estupefacientes, psicotrópico u otra substancia que produzca efectos similares.
-
-b) Cuando se trate de delito Robo agravado o especialmente agravado por las modalidades previstas por la fracción VIII del Artículo 414 y la fracción X del Artículo 415 Código Penal.
-
-c) Cuando se trate de delito de Grafito previsto por el Artículo 438 Bis del Código Penal siempre y cuando se trate de reincidencia.
+Será improcedente tal beneficio ante el Ministerio Público cuando se trate de delito culposo que se cometa con motivo del tránsito de vehículos que el indiciado cometa por ebriedad; o por el influjo de estupefaciente, psicotrópico u otra sustancia que produzca efectos similares.
 
 ###### ARTÍCULO 217.
 
@@ -2691,7 +2679,9 @@ IDENTIFICACIÓN Y PROTESTA DE TESTIGOS. Antes de que el testigo comience a decla
 
 Igualmente, se aplicará a los testigos las prevenciones del artículo 108, en lo conducente.
 
-A los menores de dieciséis años, únicamente se les exhortará para que se conduzcan con verdad.
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2006)</small>
+
+A los menores de dieciocho años, únicamente se les exhortará para que se conduzcan con verdad.
 
 ###### ARTÍCULO 357.
 
@@ -3849,7 +3839,9 @@ I. DESISTIMIENTO DE LA ACCIÓN PENAL POR CAUSA LEGAL U OMISIÓN INDEBIDA DE CONC
 
 II. CAUSAS QUE EXTINGUEN LA ACCIÓN PENAL. Cuando se acredite la existencia de alguna causa que extinga la acción penal.
 
-III. MINORÍA DE EDAD DEL INCULPADO. Cuando se demuestre que el inculpado es menor de dieciséis años. En cuyo caso, el juzgador lo pondrá a disposición de las autoridades competentes que deban conocer del asunto; a las que remitirá el expediente o copia certificada del mismo.
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2006)</small>
+
+III. MINORÍA DE EDAD DEL INCULPADO. Cuando se demuestre que el inculpado es menor de dieciocho años. En cuyo caso, el juzgador lo pondrá a disposición de las autoridades competentes que deban conocer del asunto; a las que remitirá el expediente o copia certificada del mismo.
 
 IV. ERROR EN LA PERSONA. Cuando resulte evidente que se sigue proceso contra un inculpado por error de persona.
 
@@ -5614,3 +5606,21 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan a este decreto.
 P.O. 25 DE NOVIEMBRE DE 2005.
 
 ÚNICO. El presente Decreto entrará en vigor a los treinta días hábiles siguientes a su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 11 DE MARZO DE 2006.
+
+PRIMERO.- El presente decreto entrará en vigor el 12 de marzo de 2006.
+
+La Ley Para la Atención, Tratamiento y Adaptación de Menores para el Estado de Coahuila de Zaragoza, conjuntamente con las reformas a que se refiere este Decreto a tal ordenamiento, estará en vigor hasta en tanto se expidan los nuevos cuerpos legislativos en que se establezcan las instituciones y órganos, en los términos previstos por el Decreto que reforma el artículo 18 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el diario Oficial de la Federación el 12 de diciembre de 2005.
+
+SEGUNDO.- Las averiguaciones previas en que figuren como inculpados personas menores de dieciocho años y que se encuentren en integración al momento de entrar en vigor el presente decreto, deberán ser turnadas de inmediato al Comisionado de la Unidad encargada de la Prevención y Tratamiento de Menores correspondiente, a efecto de que dicha instancia continúe con los trámites procedentes. Si hubiere menores detenidos, los mismos deberán ser puestos, sin demora, a disposición de los centros de internación adscritos a la Unidad encargada de la Prevención y Tratamiento de Menores que corresponda.
+
+TERCERO.- Los procesos que se desarrollen contra personas que hubieren sido menores de dieciocho años al momento de la comisión del ilícito y que se encuentren en trámite ante los órganos jurisdiccionales a la entrada en vigor de este decreto, deberán sobreseerse; poniendo las constancias a disposición del Consejo Unitario de Menores competente o de la Sala Superior, según corresponda, para que procedan conforme a lo señalado en la Ley para la Atención, Tratamiento y Adaptación de Menores en el Estado de Coahuila de Zaragoza. Y a los detenidos, si los hubiere, serán remitidos al Centro de Internamiento más cercano a aquél en que se llevará a cabo el trámite de su expediente.
+
+CUARTO.- Los expedientes de las personas que hubieren sido sentenciadas como imputables por resoluciones que hayan quedado firmes y se encuentre compurgando pena de prisión o se encuentren sujetas a prisión intermitente o a régimen especial en libertad vigilada, a la entrada en vigor de este decreto serán puestos, a pedido de parte interesada, a disposición del Consejo Unitario más próximo al juzgado en que se le dictó sentencia condenatoria, a efecto de que, sin alterar la sentencia en sus términos, únicamente se les readecue la pena de conformidad con lo dispuesto por el párrafo segundo del artículo 116 de la Ley para la Atención, Tratamiento y Adaptación de Menores en el Estado de Coahuila de Zaragoza, reformado por este decreto.
+
+A quienes se les hubiere readecuado la pena de prisión, y sean mayores de dieciocho años permanecerán en el Centro de Readaptación Social que corresponda a efecto de que en un área especial de dicho Centro continúen el tratamiento respectivo, bajo la supervisión y seguimiento de las autoridades competentes. Si se trata de menores de dieciocho años serán remitidos al lugar que designe el Consejo Unitario respectivo.
+
+QUINTO.- Las autoridades penitenciarias y los titulares de los órganos jurisdiccionales, a la entrada en vigor del presente decreto, deberán proveer lo necesario para la cabal aplicación y observancia de las disposiciones contenidas en el presente decreto.
+
+SEXTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
