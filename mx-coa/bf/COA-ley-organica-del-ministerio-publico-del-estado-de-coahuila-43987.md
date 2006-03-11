@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-ministerio-publico-del-estado-de-coahuila-4398
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-03-11"
-last_updated: "2005-03-11"
+last_updated: "2006-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43987&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 11 de marzo de 2005.
 
@@ -103,7 +103,9 @@ XVII. Determinar el no ejercicio de la acción penal, en los casos previstos por
 
 En los delitos que se persigan de oficio, el denunciante que no tenga el carácter de ofendido o víctima del delito conforme al Código Penal, estará no obstante legitimado activamente como tal para presentar el recurso de inconformidad en los términos del Artículo 529 del Código de Procedimientos Penales del Estado de Coahuila, a fin de impugnar el no ejercicio de la acción penal, sus causas equivalentes y el desistimiento, en relación a los hechos y delitos de oficio que denunció en forma personal.
 
-XVIII. Poner a disposición del Consejo de Menores a los menores de dieciséis años que hubieran cometido infracciones correspondientes a ilícitos tipificados por las leyes penales.
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2006)</small>
+
+XVIII. Poner a disposición de las autoridades competentes a los menores de dieciocho años que hubieran cometido infracciones correspondientes a ilícitos tipificados por las leyes penales.
 
 XIX. Poner a los inimputables mayores de edad, a disposición del órgano jurisdiccional, cuando se deban aplicar medidas de seguridad, ejercitando las acciones correspondientes, en los términos establecidos por los ordenamientos jurídicos aplicables.
 
@@ -770,3 +772,23 @@ EL SECRETARIO DE SEGURIDAD PÚBLICA Y PROTECCIÓN CIUDADANA
 COMISARIO JEFE ANTONIO GARZA GARCÍA
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 11 DE MARZO DE 2006.
+
+PRIMERO.- El presente decreto entrará en vigor el 12 de marzo de 2006.
+
+La Ley Para la Atención, Tratamiento y Adaptación de Menores para el Estado de Coahuila de Zaragoza, conjuntamente con las reformas a que se refiere este Decreto a tal ordenamiento, estará en vigor hasta en tanto se expidan los nuevos cuerpos legislativos en que se establezcan las instituciones y órganos, en los términos previstos por el Decreto que reforma el artículo 18 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el diario Oficial de la Federación el 12 de diciembre de 2005.
+
+SEGUNDO.- Las averiguaciones previas en que figuren como inculpados personas menores de dieciocho años y que se encuentren en integración al momento de entrar en vigor el presente decreto, deberán ser turnadas de inmediato al Comisionado de la Unidad encargada de la Prevención y Tratamiento de Menores correspondiente, a efecto de que dicha instancia continúe con los trámites procedentes. Si hubiere menores detenidos, los mismos deberán ser puestos, sin demora, a disposición de los centros de internación adscritos a la Unidad encargada de la Prevención y Tratamiento de Menores que corresponda.
+
+TERCERO.- Los procesos que se desarrollen contra personas que hubieren sido menores de dieciocho años al momento de la comisión del ilícito y que se encuentren en trámite ante los órganos jurisdiccionales a la entrada en vigor de este decreto, deberán sobreseerse; poniendo las constancias a disposición del Consejo Unitario de Menores competente o de la Sala Superior, según corresponda, para que procedan conforme a lo señalado en la Ley para la Atención, Tratamiento y Adaptación de Menores en el Estado de Coahuila de Zaragoza. Y a los detenidos, si los hubiere, serán remitidos al Centro de Internamiento más cercano a aquél en que se llevará a cabo el trámite de su expediente.
+
+CUARTO.- Los expedientes de las personas que hubieren sido sentenciadas como imputables por resoluciones que hayan quedado firmes y se encuentren compurgando pena de prisión o se encuentren sujetas a prisión intermitente o a régimen especial en libertad vigilada, a la entrada en vigor de este decreto serán puestos, a pedido de parte interesada, a disposición del Consejo Unitario más próximo al juzgado en que se le dictó sentencia condenatoria, a efecto de que, sin alterar la sentencia en sus términos, únicamente se les readecue la pena de conformidad con lo dispuesto por el párrafo segundo del artículo 116 de la Ley para la Atención, Tratamiento y Adaptación de Menores en el Estado de Coahuila de Zaragoza, reformado por este decreto.
+
+A quienes se les hubiere readecuado la pena de prisión, y sean mayores de dieciocho años permanecerán en el Centro de Readaptación Social que corresponda a efecto de que en un área especial de dicho Centro continúen el tratamiento respectivo, bajo la supervisión y seguimiento de las autoridades competentes. Si se trata de menores de dieciocho años serán remitidos al lugar que designe el Consejo Unitario respectivo.
+
+QUINTO.- Las autoridades penitenciarias y los titulares de los órganos jurisdiccionales, a la entrada en vigor del presente decreto, deberán proveer lo necesario para la cabal aplicación y observancia de las disposiciones contenidas en el presente decreto.
+
+SEXTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
