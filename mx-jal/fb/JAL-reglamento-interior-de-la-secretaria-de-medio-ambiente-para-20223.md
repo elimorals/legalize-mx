@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-secretaria-de-medio-ambiente-para-202
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-03-01"
-last_updated: "2005-10-22"
+last_updated: "2006-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20223&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE MEDIO AMBIENTE PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 2006.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el jueves 1 de marzo de 2001.
 
@@ -141,9 +141,17 @@ VI. Coordinación Administrativa;
 
 VII. Consejo Consultivo y de Participación Social;
 
-VIII. Centro de Información Ambiental; y
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2005)</small>
 
-IX. Delegaciones Regionales.
+VIII. Centro de Información Ambiental;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2005)</small>
+
+IX. Delegaciones Regionales; y
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2005)</small>
+
+X. Dirección Operativa del Programa de Afinación Controlada.
 
 ###### Artículo 6.
 
@@ -833,9 +841,45 @@ III. Vincular e intercambiar información local, nacional e internacional en asu
 
 IV. Reunir y concentrar información sobre los resultados de la gestión ambiental en el Estado y sobre los valores y potencial ecoturístico de la Entidad, así como promover su difusión.
 
-### CAPÍTULO XII. De las Comunicaciones Oficiales
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2006)</small>
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO XII. De la Dirección Operativa del Programa de Afinación Controlada
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2006)</small>
+
+Artículo 47 bis.- A la Dirección Operativa del Programa de Afinación Controlada le corresponde:
+
+I. Coordinar, administrar, supervisar y vigilar el Programa de Afinación Controlada para el Estado de Jalisco.
+
+II. Registrar, acreditar, empadronar, visitar, vigilar, supervisar, sancionar, asesorar, capacitar y coordinar a los talleres acreditados con relación al Programa de Afinación Controlada.
+
+III. Registrar, controlar y coordinar folios y falderas entregadas a los patrulleros del escuadrón ecológico de la Secretaría de Vialidad y Transporte.
+
+IV. Calificar, registrar, controlar y sancionar las infracciones a la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente, al Reglamento del Programa de Afinación Controlada para el Estado de Jalisco, y a los demás ordenamientos relacionados con el Programa de Afinación Controlada.
+
+V. Controlar, registrar, entregar, canjear los hologramas que utilizan los talleres así como sus bitácoras una vez que estos afinan y retornan la información de gases correspondiente.
+
+VI. Promover la integración de nuevos talleres al padrón de talleres acreditados.
+
+VII. Coordinar las reuniones periódicas del Comité Ejecutivo del Programa de Afinación Controlada.
+
+VIII. Coordinar las reuniones periódicas del comité de calibradores de instrumentos de medición de gases y las reuniones de los talleres especializados en diesel, en gas L.P. Y los comercializadores de refacciones de calidad para la afinación así como las de proveedores de sistemas de escape y convertidores catalíticos.
+
+IX. Evaluar nuevas tecnologías para mejorar el medio ambiente en el rubro atmosférico.
+
+X. Sancionar, corregir y subsanar anomalías del Procedimiento de Afinación Controlada.
+
+XI. Revisar los vehículos que acuden al Centro Oficial de Medición y los que ingresan a otros centro de medición que determine la Secretaría.
+
+XII. Realizar periódicamente el Operativo Afinación Controlada Sale a La Calle que funciona en diferentes puntos de la ciudad a fin de impulsar la obligatoriedad y la conciencia ciudadana para afinar.
+
+XIII. Coordinar la capacitación y promoción a través de comités de vinculación en escuelas y universidades, así como participar en eventos culturales y tecnológicos en materia de sus atribuciones.
+
+XIV. Las demás que señale la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente. El Reglamento del Programa de Afinación Controlada para el Estado de Jalisco, y los demás ordenamientos relacionados con el Programa de Afinación Controlada, así como las que le sean delegadas y encomendadas por el Titular de la Secretaría.
+
+> <small>(REFORMADA SU DENOMINACION [N. DE E. REUBICADO, ANTES CAPITULO XII], P.O. 11 DE MARZO DE 2006)</small>
+
+### CAPÍTULO XIII. De las Comunicaciones Oficiales
 
 ###### Artículo 48.
 
@@ -860,6 +904,8 @@ Es facultad exclusiva del Secretario, en el área de su competencia, dictar y em
 Los Directores Generales y de Área, podrán girar circulares a sus unidades subalternas, con el objeto de difundir información inherente al mejor desarrollo de sus actividades.
 
 ## TÍTULO TERCERO. Disposiciones Complementarias
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 52.
 
@@ -920,3 +966,7 @@ TERCERO.- Se deroga el acuerdo DIGELAG ACU/32/2003, mediante el cual se delega e
 CUARTO.- Se deroga el acuerdo ACU/SE MADES/01/2003, mediante el cual se delega en el Director de Asuntos Jurídicos de la Secretaría de Medio Ambiente para el Desarrollo Sustentable, la facultad de tramitar y resolver los procedimientos administrativos en materia de información pública que sean competencia de esta Secretaría; publicado en el Periódico Oficial "El Estado de Jalisco" el día 19 de julio de 2003, sección II.
 
 QUINTO.- Se derogan todas las disposiciones reglamentarias que se opongan al presente Acuerdo.
+
+P.O. 11 DE MARZO DE 2006.
+
+ÚNICO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
