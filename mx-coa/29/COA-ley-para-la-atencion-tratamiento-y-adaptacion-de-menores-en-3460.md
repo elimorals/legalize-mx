@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-atencion-tratamiento-y-adaptacion-de-menores-en-346
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-14"
-last_updated: "2005-11-25"
+last_updated: "2006-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY PARA LA ATENCION, TRATAMIENTO Y ADAPTACION DE MENORES EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 2005.
+> <small>N. DE E. EN RELACION CON LA VIGENCIA DEL PRESENTE ORDENAMIENTO Y SUS REFORMAS, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO PUBLICADO EN EL P.O. DE 11 DE MARZO DE 2006.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 14 de junio de 1994.
 
@@ -57,11 +59,15 @@ En la aplicación e interpretación de esta ley se estará al principio del inte
 
 El menor a quien se atribuya la comisión de una infracción, recibirá un trato justo y humano, quedando prohibidos, en consecuencia, el maltrato, la incomunicación, la coacción psicológica o cualquier otra acción que atente contra su dignidad o su integridad física o mental.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MARZO DE 2006)</small>
+
 ###### ARTICULO 4.
 
-Serán sujetos de la presente ley, las personas mayores de diez años y menores de dieciséis, cuya conducta se encuentre tipificada por las leyes penales señaladas en el artículo 1o. de esta ley.
+Serán sujetos de la presente ley, las personas mayores de doce años y menores de dieciocho, cuya conductas se encuentre tipificada por las leyes penales señaladas en el artículo 1º de este ley.
 
-Los menores infractores de diez años, serán sujetos de asistencia social a través del Sistema para el Desarrollo Integral de la Familia, por sí o a través de las instituciones de los sectores públicos (sic), social y privado que se ocupen de esta materia.
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2006)</small>
+
+Los menores infractores de doce años serán sujetos de rehabilitación y asistencia social a través del Sistema para el Desarrollo Integral de la Familia, por sí o a través de las instituciones de los sectores públicos, social y privado que se ocupen de esta materia.
 
 La atención de los menores en situación extraordinaria que se encuentren en estado de abandono o peligro correrá a cargo del Sistema para el Desarrollo Integral de la Familia en los términos que su propia ley establezca y de acuerdo con los programas que para tal efecto implemente.
 
@@ -419,11 +425,11 @@ VI.- Los demás servidores públicos, por quien determine el Presidente del Cons
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2006)</small>
 
 ###### ARTICULO 29.
 
-La Dirección de Atención y Tratamiento de Menores Infractores, depende de la Secretaría de Seguridad Pública y Protección Ciudadana y realizará la representación social de las víctimas de los delitos cometidos por aquéllas personas mayores de 10 años y menores de 16. También le corresponde la ejecución de las medidas de internamiento en los Centros de Internación, Diagnóstico y Tratamiento de Menores a su cargo, ordenadas por el Consejo Unitario de Menores.
+La Dirección de Atención y Tratamiento de Menores Infractores, depende de la Secretaría de Seguridad Pública y Protección Ciudadana y realizará la representación social de las víctimas de los delitos cometidos por aquellas personas mayores de doce años y menores de dieciocho. También le corresponde la ejecución de las medidas de internamiento en los Centros de Internación, Diagnóstico y Tratamiento de Menores a su cargo, ordenadas por el Consejo Unitario de Menores.
 
 > <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
@@ -441,11 +447,11 @@ La Dirección de Atención de Tratamiento de Menores Infractores y sus Comisiona
 
 ARTICULO 30 TER.- Cuando el Ministerio Público tenga a su disposición a una persona que acredite su minoría de edad, de inmediato la pondrá a disposición del Comisionado de la Unidad de Menores, anexando el acuerdo de incompetencia legal, el parte informativo y demás actuaciones, debiendo ser este último quien continúe con las diligencias necesarias para la investigación correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MARZO DE 2006)</small>
 
 ###### ARTICULO 31.
 
-Por representación social se entenderá las funciones ejercidas por la Dirección o los comisionados para proteger los derechos y los intereses legítimos de las víctimas de los delitos cometidos por personas mayores de 10 años y menores de 16, así como los intereses de la sociedad en general, conforme a lo siguiente:
+Por representación social se entenderá las funciones ejercidas por la Dirección o los comisionados para proteger los derechos y los intereses legítimos de las víctimas de los delitos cometidos por personas mayores de doce años y menores de dieciocho, así como los intereses de la sociedad en general, conforme a lo siguiente:
 
 I.- La de prevención, que tiene por objeto realizar las actividades normativas y operativas de prevención en materia de menores infractores;
 
@@ -549,11 +555,11 @@ VIII.- Conclusión del tratamiento; y
 
 IX.- Seguimiento técnico ulterior.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2006)</small>
 
 ###### ARTICULO 34.
 
-El Consejero Unitario, cuando haya quedado acreditada la infracción y la participación del menor en la comisión de la misma, decretará la sujeción del menor al procedimiento y deberá determinar si el mismo se llevará a cabo estando el menor a disposición de los Consejeros Unitarios en el centro de internación que al efecto se designe, lo que únicamente sucederá cuando se trate de una conducta que la legislación penal califique como delito grave, o bien bajo la guarda y custodia de sus representantes legales o encargados, fijando en el mismo acto la garantía correspondiente para el pago de la reparación de los daños y perjuicios ocasionados. Los representantes legales o encargados quedarán obligados a presentar al menor ante el comisionado cuando para ello sean requeridos.
+El Consejo Unitario, cuando haya quedado acreditada la infracción y la participación del menor en la comisión de la misma, decretará la sujeción del menor al procedimiento y deberá determinar si el mismo se llevará a cabo estando el menor a disposición de los Consejeros Unitarios en el centro de internación que al efecto se designe, lo que únicamente sucederá cuando se trate de una conducta que la legislación penal califique como delito grave y cuando el menor sea mayor de catorce años, o bien bajo la guarda y custodia de sus representantes legales o encargados, fijando en el mismo acto la garantía correspondiente para el pago de la reparación de los daños y perjuicios ocasionados. Los representantes legales o encargados quedarán obligados a presentar al menor cuando para ello sean requeridos.
 
 ###### ARTICULO 35.
 
@@ -721,7 +727,13 @@ III.- Una relación sucinta de los hechos que hayan originado el procedimiento y
 
 IV.- Los considerandos, los motivos y fundamentos legales que la sustenten;
 
-V.- Los puntos resolutivos en los cuales se determinará si quedó o no acreditada la existencia de la infracción y la plena participación del menor en su comisión, en cuyo caso se individualizará la aplicación de las medidas conducentes a la adaptación social del menor, tomando en consideración el dictamen técnico emitido al efecto por el Comité Técnico Interdisciplinario. Cuando se declare que no quedó comprobada la infracción o la plena participación del menor, se ordenará que éste sea entregado a sus representantes legales o encargados, y a falta de éstos, a una institución de asistencia de menores, preferentemente del Estado; y
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2006)</small>
+
+V.- Los puntos resolutivos en los cuales se determinará si quedó o no acreditada la existencia de la infracción y la plena participación del menor en su comisión, en cuyo caso se individualizará la aplicación de las medidas conducentes a la adaptación social del menor, tomando en consideración el dictamen técnico emitido al efecto por el Comité Técnico Interdisciplinario.
+
+A los menores entre los doce años cumplidos y los catorce años, sólo se les aplicarán medidas de orientación y de protección. A los mayores entre catorce y dieciocho años de edad sólo podrá aplicárseles las medidas de internamiento por la comisión de conductas antisociales calificadas como graves.
+
+Cuando se declare que no quedó comprobada la infracción o la plena participación del menor, se ordenará que éste sea entregado a sus representantes legales o encargados, y la falta de éstos, a una institución de asistencia de menores, preferentemente del Estado; y
 
 VI.- El nombre y la firma del Consejero que la emita y los del Secretario de Acuerdos, quien dará fe.
 
@@ -957,6 +969,10 @@ El Consejo, a través de los órganos competentes, deberá determinar en cada ca
 
 Los Consejeros Unitarios ordenarán la aplicación conjunta o separada de las medidas de orientación, de protección y de tratamiento externo e interno, tomando en consideración la gravedad de la infracción y las circunstancias personales del menor, con base en el dictamen técnico respectivo.
 
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2006)</small>
+
+Tratándose de menores infractores de entre doce años cumplidos y menores de catorce años el Consejo Unitario sólo podrá determinar la aplicación de medidas de orientación, protección y tratamiento que amerite cada caso. Estos menores por ningún motivo serán sujetos de medidas de internamiento a que se refiere la presente ley.
+
 Se podrá autorizar la salida del menor de los centros de internación, sólo para atención médica hospitalaria que conforme al dictamen médico oficial respectivo deba suministrarse, o bien, para la práctica de estudios ordenados por la autoridad competente, así como cuando lo requieran las autoridades judiciales. En este caso el traslado del menor se llevará a cabo, tomando todas las medidas de seguridad que se estimen pertinentes, y que no sean ofensivas ni vejatorias.
 
 ### CAPITULO SEGUNDO. DEL DIAGNOSTICO
@@ -1175,11 +1191,15 @@ V.- Falta de apoyo familiar; y
 
 VI.- Ambiente social criminológico.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2006)</small>
 
 ###### ARTICULO 116.
 
-Los tratamientos externo y mixto no podrán exceder de un año y el tratamiento interno de cinco años.
+Los tratamientos externos y mixtos tendrán, al menos, una duración de entre uno y tres años.
+
+El tratamiento interno se impondrá considerando entre una tercera parte del mínimo y del máximo de la pena que corresponda al tipo penal que haya actualizado el menor de acuerdo con las sanciones que determina el Código Penal para el Estado de Coahuila de Zaragoza. Tratándose de los delitos de homicidio doloso; violación, violación equiparada, violación agravada o violación por instrumento distinto al natural; secuestro y terrorismo, se impondrá entre las dos terceras partes del mínimo y del máximo de la pena que para estos delitos determina el Código en cita. Pero dicho internamiento en ningún caso podrá exceder de quince años.
+
+Las personas que se encuentren en tratamiento dentro de los centros de internación, al alcanzar los dieciocho años de edad serán transferidos al Centro de Readaptación Social que corresponda, a efecto de que en un área especial de dicho Centro continúe con el tratamiento respectivo, bajo la supervisión y seguimiento de las autoridades competentes.
 
 ### CAPITULO QUINTO. DEL SEGUIMIENTO
 
@@ -1229,11 +1249,11 @@ En todo lo relativo al procedimiento así como a las notificaciones, impedimento
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2006)</small>
 
 ###### ARTICULO 126.
 
-Cuando un menor entre los diez y los dieciséis años, incurra en alguna infracción a leyes o reglamentos administrativos, será presentado o citado ante los Consejeros Unitarios, en los lugares donde éstos existan, y en su defecto, ante los Comisionados de la Dirección de Atención y Tratamiento de Menores Infractores o ante las autoridades administrativas competentes, quienes dentro del término o tres horas harán comparecer a sus representantes legítimos o personas a cuyo cuidado se encuentren. Si por razón de la hora, no les puede poner a disposición inmediata de las autoridades mencionadas, se les enviará provisionalmente a su hogar y a falta de éste a alguna institución propia para el internamiento de menores a disposición de aquéllas.
+Cuando un menor entre los doce y los dieciocho años, incurra en alguna infracción a leyes o reglamentos administrativos, será presentado o citado ante los Consejeros Unitarios, en los lugares donde éstos existan, y en su defecto, ante los Comisionados de la Unidad de Prevención o ante las autoridades administrativas competentes, quienes dentro del término de tres horas harán comparecer a sus representantes legítimos o personas a cuyo cuidado se encuentren. Si por razón de la hora, no les puede poner a disposición inmediata de las autoridades mencionadas, se les enviará provisionalmente a su hogar y a falta de éste a alguna institución propia para el internamiento de menores a disposición de aquéllas.
 
 > <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
@@ -1245,13 +1265,17 @@ En todos los casos en que sea procedente, se le dará intervención a la Direcci
 
 Lograda la comparecencia de los representantes legítimos del menor o de sus guardadores, en audiencia privada se les enterará de la infracción en que el menor incurrió y oída la versión de éste y el parecer de aquéllos, se dictará la medida que se considere conveniente.
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2006)</small>
+
 ###### ARTICULO 129.
 
-Para los efectos de este capítulo, se consideran inimputables a los menores de diez años y sólo se podrá aplicar sanciones a sus padres, tutores, encargados de la patria potestad o guardadores, en atención a la gravedad que revista el incumplimiento de sus deberes.
+Para los efectos de este capítulo, se consideran inimputables a los menores de doce años y sólo se podrá aplicar sanciones a sus padres, tutores, encargados de la patria potestad o guardadores, en atención a la gravedad que revista el incumplimiento de sus deberes.
 
-###### ARTICULO 130.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MARZO DE 2006)</small>
 
-Cuando el menor de diez a dieciséis años incurra en una infracción a una ley o reglamento administrativo, se aplicarán, en su caso, las medidas siguientes:
+###### ARTÍCULO 130.
+
+Cuando el menor de doce a dieciocho años incurra en una infracción a una ley o reglamento administrativo, se aplicarán, en su caso, las medidas siguientes:
 
 I.- Amonestación al menor, con vista a la infracción cometida, conminándolo a evitar su repetición;
 
@@ -1438,3 +1462,21 @@ El presente decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a este decreto.
+
+P.O. 11 DE MARZO DE 2006.
+
+PRIMERO. El presente decreto entrará en vigor el 12 de marzo de 2006.
+
+La Ley Para la Atención, Tratamiento y Adaptación de Menores para el Estado de Coahuila de Zaragoza, conjuntamente con las reformas a que se refiere este Decreto a tal ordenamiento, estará en vigor hasta en tanto se expidan los nuevos cuerpos legislativos en que se establezcan las instituciones y órganos, en los términos previstos por el Decreto que reforma el artículo 18 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el diario Oficial de la Federación el 12 de diciembre de 2005.
+
+SEGUNDO.- Las averiguaciones previas en que figuren como inculpados personas menores de dieciocho años y que se encuentren en integración al momento de entrar en vigor el presente decreto, deberán ser turnadas de inmediato al Comisionado de la Unidad encargada de la Prevención y Tratamiento de Menores correspondiente, a efecto de que dicha instancia continúe con los trámites procedentes. Si hubiere menores detenidos, los mismos deberán ser puestos, sin demora, a disposición de los centros de internación adscritos a la Unidad encargada de la Prevención y Tratamiento de Menores que corresponda.
+
+TERCERO.- Los procesos que se desarrollen contra personas que hubieren sido menores de dieciocho años al momento de la comisión del ilícito y que se encuentren en trámite ante los órganos jurisdiccionales a la entrada en vigor de este decreto, deberán sobreseerse; poniendo las constancias a disposición del Consejo Unitario de Menores competente o de la Sala Superior, según corresponda, para que procedan conforme a lo señalado en la Ley para la Atención, Tratamiento y Adaptación de Menores en el Estado de Coahuila de Zaragoza. Y a los detenidos, si los hubiere, serán remitidos al Centro de Internamiento más cercano a aquél en que se llevará a cabo el trámite de su expediente.
+
+CUARTO.- Los expedientes de las personas que hubieren sido sentenciadas como imputables por resoluciones que hayan quedado firmes y se encuentren compurgando pena de prisión o se encuentren sujetas a prisión intermitente o a régimen especial en libertad vigilada, a la entrada en vigor de este decreto serán puestos, a pedido de parte interesada, a disposición del Consejo Unitario más próximo al juzgado en que se le dictó sentencia condenatoria, a efecto de que, sin alterar la sentencia en sus términos, únicamente se les readecue la pena de conformidad con lo dispuesto por el párrafo segundo del artículo 116 de la Ley para la Atención, Tratamiento y Adaptación de Menores en el Estado de Coahuila de Zaragoza, reformado por este decreto.
+
+A quienes se les hubiere recaudado la pena de prisión, y sean mayores de dieciocho años permanecerán en el Centro de Readaptación Social que corresponda a efecto de que en un área especial de dicho Centro continúen el tratamiento respectivo, bajo la supervisión y seguimiento de las autoridades competentes. Si se trata de menores de dieciocho años serán remitidos al lugar que designe el Consejo Unitario respectivo.
+
+QUINTO.- Las autoridades penitenciarias y los titulares de los órganos jurisdiccionales, a la entrada en vigor del presente decreto, deberán proveer lo necesario para la cabal aplicación y observancia de las disposiciones contenidas en el presente decreto.
+
+SEXTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
