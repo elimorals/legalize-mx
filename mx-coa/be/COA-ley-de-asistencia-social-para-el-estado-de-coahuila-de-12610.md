@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asistencia-social-para-el-estado-de-coahuila-de-12610"
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-23"
-last_updated: "2004-07-13"
+last_updated: "2006-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 23 de enero de 1998.
 
@@ -79,7 +79,9 @@ III.- Establecer y llevar a cabo programas interinstitucionales, que aseguren la
 
 Son sujetos de la recepción de los servicios de asistencia social, preferentemente los siguientes:
 
-I.- Menores en situación extraordinaria, ya sea por encontrarse en estado de abandono, desamparo, desnutrición o sujetos a maltrato;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2006)</small>
+
+I.- Menores en situación extraordinaria, ya sea por encontrarse en estado de abandono, desamparo, desnutrición o sujetos a maltrato, así como aquellos menores de doce años que hayan realizado una conducta prevista como delito en la ley;
 
 II.- Mujeres en período de gestación o lactancia;
 
@@ -443,9 +445,13 @@ X.- Frecuenten cantinas, cabarets, centros de vicio u otros sitios semejantes;
 
 XI.- Presente el síndrome del niño maltratado a causa de lesiones orgánicas o psíquicas que reciban como consecuencia de la agresión directa, en forma constante o intermitente, por parte de una persona mayor;
 
-XII.- Padezcan desnutrición en tercer grado, según el dictamen de las autoridades sanitarias competentes; y
+XII.- Padezcan desnutrición en tercer grado, según el dictamen de las autoridades sanitarias competentes; y (sic)
 
-XIII.- Presenten otra situación análoga a juicio de la Procuraduría de la Familia.
+XIII.- Presenten otra situación análoga a juicio de la Procuraduría de la Familia;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2006)</small>
+
+XIV.- Siendo menores de doce años de edad, hayan realizado una conducta prevista como delito en la ley.
 
 ###### ARTICULO 29.
 
@@ -1170,3 +1176,21 @@ P.O. 13 DE JULIO DE 2004.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este decreto.
+
+P.O. 11 DE MARZO DE 2006.
+
+PRIMERO.- El presente decreto entrará en vigor el 12 de marzo de 2006.
+
+La Ley Para la Atención, Tratamiento y Adaptación de Menores para el Estado de Coahuila de Zaragoza, conjuntamente con las reformas a que se refiere este Decreto a tal ordenamiento, estará en vigor hasta en tanto se expidan los nuevos cuerpos legislativos en que se establezcan las instituciones y órganos, en los términos previstos por el Decreto que reforma el artículo 18 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el diario Oficial de la Federación el 12 de diciembre de 2005.
+
+SEGUNDO.- Las averiguaciones previas en que figuren como inculpados personas menores de dieciocho años y que se encuentren en integración al momento de entrar en vigor el presente decreto, deberán ser turnadas de inmediato al Comisionado de la Unidad encargada de la Prevención y Tratamiento de Menores correspondiente, a efecto de que dicha instancia continúe con los trámites procedentes. Si hubiere menores detenidos, los mismos deberán ser puestos, sin demora, a disposición de los centros de internación adscritos a la Unidad encargada de la Prevención y Tratamiento de Menores que corresponda.
+
+TERCERO.- Los procesos que se desarrollen contra personas que hubieren sido menores de dieciocho años al momento de la comisión del ilícito y que se encuentren en trámite ante los órganos jurisdiccionales a la entrada en vigor de este decreto, deberán sobreseerse; poniendo las constancias a disposición del Consejo Unitario de Menores competente o de la Sala Superior, según corresponda, para que procedan conforme a lo señalado en la Ley para la Atención, Tratamiento y Adaptación de Menores en el Estado de Coahuila de Zaragoza. Y a los detenidos, si los hubiere, serán remitidos al Centro de Internamiento más cercano a aquél en que se llevará a cabo el trámite de su expediente.
+
+CUARTO.- Los expedientes de las personas que hubieren sido sentenciadas como imputables por resoluciones que hayan quedado firmes y se encuentren compurgando pena de prisión o se encuentren sujetas a prisión intermitente o a régimen especial en libertad vigilada, a la entrada en vigor de este decreto serán puestos, a pedido de parte interesada, a disposición del Consejo Unitario más próximo al juzgado en que se le dictó sentencia condenatoria, a efecto de que, sin alterar la sentencia en sus términos, únicamente se les readecue la pena de conformidad con lo dispuesto por el párrafo segundo del artículo 116 de la Ley para la Atención, Tratamiento y Adaptación de Menores en el Estado de Coahuila de Zaragoza, reformado por este decreto.
+
+A quienes se les hubiere readecuado la pena de prisión, y sean mayores de dieciocho años permanecerán en el Centro de Readaptación Social que corresponda a efecto de que en un área especial de dicho Centro continúen el tratamiento respectivo, bajo la supervisión y seguimiento de las autoridades competentes. Si se trata de menores de dieciocho años serán remitidos al lugar que designe el Consejo Unitario respectivo.
+
+QUINTO.- Las autoridades penitenciarias y los titulares de los órganos jurisdiccionales, a la entrada en vigor del presente decreto, deberán proveer lo necesario para la cabal aplicación y observancia de las disposiciones contenidas en el presente decreto.
+
+SEXTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
