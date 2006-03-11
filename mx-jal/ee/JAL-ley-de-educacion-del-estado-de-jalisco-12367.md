@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2005-12-27"
+last_updated: "2006-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACION DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 2006.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -1179,9 +1179,15 @@ IV.- Planes y programas de estudios que la autoridad otorgante considere procede
 
 Los particulares que impartan servicios educativos con autorización o reconocimiento de validez oficial de estudios, deberán mencionar en la documentación que expidan y la publicidad que hagan, su calidad de autorización así como el número y fecha de acuerdo que se les concedió y el nombre de la autoridad otorgante.
 
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2006)</small>
+
+Así mismo, quienes impartan estudios para los que no sea necesario reconocimiento de validez oficial, deberán mencionarlo en su correspondiente documentación y publicidad.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2006)</small>
+
 ###### ARTICULO 122.
 
-La Secretaría de Educación del Estado publicará en la primera quincena de agosto de cada año, en el Periódico Oficial "El Estado de Jalisco", una relación de las instituciones educativas que conserven su autorización o reconocimiento de validez oficial de estudios. También se publicará oportunamente y en cada caso la inclusión o la supresión en dicha lista de las instituciones a las que se otorguen, revoquen o retiren las autorizaciones o reconocimientos respectivos.
+La Secretaría de Educación deberá publicar e informar, por los medios que considere idóneos y garanticen el acceso público a la información, la lista de escuelas que cuenten con reconocimiento oficial obligatorio.
 
 > <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2003)</small>
 
@@ -1766,5 +1772,9 @@ P.O. 12 DE NOVIEMBRE DE 2005.
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 27 DE DICIEMBRE DE 2005.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 11 DE MARZO DE 2006.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
