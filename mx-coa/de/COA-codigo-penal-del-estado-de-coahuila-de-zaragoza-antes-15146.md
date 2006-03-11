@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2005-12-30"
+last_updated: "2006-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO PENAL DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -75,13 +75,21 @@ LEY MÁS FAVORABLE POR MODIFICAR LAS SANCIONES. Cuando antes de sentencia ejecut
 
 Después de sentencia ejecutoria, el ejecutivo sólo reducirá la pena con base en el grado punible que se fijó en la sentencia. Si cambia la calidad de la pena y lo pide el sentenciado, se ejecutará la ulterior.
 
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2006)</small>
+
+ARTÍCULO 5º BIS. LEY NUEVA EMITIDA ANTES DEL CUMPLIMIENTO DE LA CONDENA. Si la entrada en vigor de una nueva Ley cuya aplicación resulta más favorable a la persona condenada, se produce antes del cumplimiento de la condena, el órgano competente, a petición de parte, deberá revisar la sentencia, de acuerdo con esa nueva ley.
+
 ### CAPÍTULO TERCERO. ÁMBITO PERSONAL
 
-###### ARTÍCULO 6°.
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2006)</small>
 
-PRINCIPIO DE IGUALDAD. Las disposiciones de la ley penal se aplicarán por igual a todas las personas, con las excepciones que se establezcan.
+###### ARTÍCULO 6º.
 
-Para que alguien sea sujeto de Derecho Penal es necesario que tenga 16 años de edad o más y, en caso de ser sordomudo de nacimiento o desde antes de cumplir tres años de edad, sepa leer y escribir.
+PRINCIPIO DE IGUALDAD Y RESPONSABILIDAD PENAL. La ley penal se aplicará a todos los individuos por igual, sin hacer distinción alguna entre ellos por motivo de sexo, raza, religión, preferencia política, condición social o cualquier otro factor que no se halle expresamente considerado en la descripción legal del delito o en los elementos para la individualización de las sanciones.
+
+La responsabilidad penal sólo es exigible a la persona que tenga dieciocho años de edad cumplidos en el momento en que ejecuta la acción u omite el acto que estaba obligado a efectuar. Cuando un menor realice una conducta prevista en la ley como delito, podrá ser enjuiciado con arreglo a lo dispuesto en la ley de la materia.
+
+Una persona sordomuda de nacimiento o que adquiera este padecimiento antes de cumplir tres años de edad, sólo será responsable con arreglo a este Código si sabe leer y escribir.
 
 ### CAPÍTULO CUARTO. APLICACIÓN DE LAS NORMAS DE LA PARTE GENERAL
 
@@ -99,11 +107,11 @@ CONCURSO APARENTE DE NORMAS INCOMPATIBLES ENTRE SÍ. Si aparentemente dos normas
 
 ### CAPÍTULO PRIMERO. IMPUTABILIDAD
 
-###### ARTÍCULO 9°.
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2006)</small>
+
+###### ARTÍCULO 9º.
 
 IMPUTABILIDAD DE LA CONDUCTA PENALMENTE RELEVANTE. Es penalmente imputable quien tiene capacidad para comprender la naturaleza de la conducta que realiza y su carácter ilícito, así como para decidir en razón de esa comprensión.
-
-Mas si quien comete el delito es menor de 18 años de edad, se le impondrá desde una tercera parte del mínimo, hasta las dos terceras partes del máximo de prisión y multa que corresponda; siempre y cuando no se encuentre dentro de los casos de reiteración delictiva que prevé este código.
 
 ###### ARTÍCULO 10.
 
@@ -1259,7 +1267,9 @@ REGLAS PARA FIJAR LOS LÍMITES LEGALES PUNIBLES DE LA PENA DE PRISIÓN. Para fij
 
 I. LÍMITES PUNIBLES MÍNIMO Y MÁXIMO. A la penalidad mínima y máxima legal que se señale para el tipo penal básico, complementado o privilegiado doloso de que se trate; según sea en grado de tentativa o consumado. O bien, a la penalidad mínima y máxima legal que se señale para el tipo penal culposo que corresponda.
 
-II. REDUCCIÓN O AUMENTO POR MODALIDAD ATENUANTE O AGRAVANTE. En su caso, dichos límites punibles se reducirán o aumentarán en la medida que la ley señale, cuando: Se trate de imputabilidad disminuida; modalidades del tipo penal; exceso; error vencible de tipo penal que admita la culpa; error vencible de prohibición o de exigibilidad; y, en los demás casos que prevea la ley.
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2006)</small>
+
+II. REDUCCIÓN O AUMENTO POR MODALIDAD ATENUANTE O AGRAVANTE. En su caso, dichos límites punibles se reducirán o aumentarán en la medida que la ley señale, cuando: Se trate de modalidades del tipo penal; exceso; error vencible de tipo penal que admita la culpa; error vencible de prohibición o de exigibilidad; y, en los demás casos que prevea la ley.
 
 III. CONCURSO DE MODALIDADES ATENUANTES O AGRAVANTES. Cuando aparezca que el delito se cometió bajo dos o más modalidades atenuantes, se atenderá a la que señale la menor penalidad mínima y máxima. Más si los límites mínimos y máximos son discrepantes, se estará al mínimo menor, con el máximo menor de ellos.
 
@@ -2025,9 +2035,9 @@ AUTONOMÍA DE LA VÍA CIVIL. Si quien se considere con derecho a la reparación 
 
 DELIMITACIÓN DE LOS TERCEROS OBLIGADOS A LA REPARACIÓN. Son terceros obligados a la reparación del daño:
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2006)</small>
 
-I. ASCENDIENTES, TUTORES O CUSTODIOS. Los ascendientes, tutores o custodios: Por los delitos culposos de sus descendientes mayores de dieciséis años de edad pero menores de dieciocho; también responderán los ascendientes, tutores o custodios, en el procedimiento de la ley correspondiente, por los hechos que se tipifiquen objetivamente como delitos que cometan los menores de dieciséis años de edad o incapacitados sujetos a su potestad, tutela o guarda.
+I. ASCENDIENTES, TUTORES O CUSTODIOS. Los ascendientes, tutores o custodios: en el procedimiento de la ley correspondiente, por los hechos que se tipifiquen objetivamente como delitos que cometan los menores de dieciocho años de edad o incapacitados sujetos a su potestad, tutela o guarda.
 
 II. DUEÑOS O ENCARGADOS DE NEGOCIACIONES. Los dueños o encargados de negociaciones, las empresas o establecimientos civiles y mercantiles de cualquier clase: Por los delitos que cometan culposamente sus aprendices, jornaleros, obreros, empleados o artesanos, con motivo o en el desempeño de su trabajo.
 
@@ -2239,11 +2249,11 @@ CONCEPTO DE DAÑO MORAL. Por daño moral se entiende: El sufrimiento que el deli
 
 AUTONOMÍA DEL DAÑO MORAL. Cuando un hecho u omisión ilícito produzca un daño moral, el responsable tendrá obligación de repararlo mediante una indemnización en dinero, con independencia de que se cause o no se cause daño material.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2006)</small>
 
 ###### ARTÍCULO 120.
 
-PRESUNCIÓN JURIS TANTUM DE DAÑO MORAL. Salvo prueba en contrario, se considera que siempre existe daño moral en los delitos siguientes: Corrupción de menores si se depravó sexualmente a menor de 16 años de edad. Actos de corrupción de menores de 16 años de edad. Violencia Intrafamiliar. Violación con o sin circunstancias calificativas, consumada o en grado de tentativa. Violación equiparada con o sin circunstancias calificativas; Violación impropia mediante violencia, que recaiga sobre incapaz con o sin circunstancias calificativas. Cualquiera de los supuestos que se previenen en el artículo 311. Rapto y equiparable al rapto. Atentados al pudor propio e impropio. Estupro. Difamación. Calumnia. Privación de la libertad, secuestro, secuestro equiparado o simulado; ya sea consumados o en grado de tentativa. Asalto. Extorsión. Robo con violencia, consumado o en grado de tentativa. Homicidio, se consume o en grado de tentativa y cualquier otro delito contra la vida; salvo el que se comete bajo emoción violenta. Lesiones cualquiera que sea su gravedad, con o sin circunstancias calificativas.
+PRESUNCIÓN JURIS TANTUM DE DAÑO MORAL. Salvo prueba en contrario, se considera que siempre existe daño moral en los delitos siguientes: Corrupción de menores si se depravó sexualmente a menor de dieciocho años de edad. Actos de corrupción de menores de dieciocho años de edad. Violencia Intrafamiliar. Violación con o sin circunstancias calificativas, consumada o en grado de tentativa. Violación equiparada con o sin circunstancias calificativas; Violación impropia mediante violencia, que recaiga sobre incapaz con o sin circunstancias calificativas. Cualquiera de los supuestos que se previenen en el artículo 311. Rapto y equiparable al rapto. Atentados al pudor propio e impropio. Estupro. Difamación. Calumnia. Privación de la libertad, secuestro, secuestro equiparado o simulado; ya sea consumados o en grado de tentativa. Asalto. Extorsión. Robo con violencia, consumado o en grado de tentativa. Homicidio, se consume o en grado de tentativa y cualquier otro delito contra la vida; salvo el que se comete bajo emoción violenta. Lesiones cualquiera que sea su gravedad, con o sin circunstancias calificativas.
 
 ###### ARTÍCULO 271.
 
@@ -2587,7 +2597,7 @@ La clausura del establecimiento o la cancelación del permiso, licencia o patent
 
 ### CAPÍTULO SEGUNDO. CORRUPCIÓN DE MENORES E INCAPACES Y PORNOGRAFÍA INFANTIL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MARZO DE 2006)</small>
 
 ###### ARTÍCULO 282.
 
@@ -2671,7 +2681,7 @@ SANCIONES Y FIGURA TÍPICA DEL DELITO CONTRA LA ECOLOGÍA. Se aplicará prisión
 
 ### CAPÍTULO CUARTO. SUSTRACCIÓN Y TRÁFICO DE MENORES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MARZO DE 2006)</small>
 
 ###### ARTÍCULO 292.
 
@@ -2761,21 +2771,23 @@ Las sanciones del párrafo anterior se aumentarán en un tanto más en sus míni
 
 SANCIONES Y FIGURA TÍPICA DE EXHIBICIONISMO OBSCENO. Se aplicará prisión de tres días a dos años y multa: A quien en público ejecute en su persona o haga ejecutar por otro en su persona o en la de aquél, exhibiciones que por su forma sean obscenas.
 
-Si a quien se le hace ejecutar los actos es un menor de dieciséis años de edad: Al sujeto activo se le aplicará prisión de cuatro a diez años y multa. Si el corruptor es ascendiente del menor; o al ejecutar los actos ejercía de cualquier forma autoridad sobre aquel: Las sanciones que señala este artículo serán de un tercio más del mínimo y máximo. Además, y en su caso, se le privará de la patria potestad, tutela o guarda que ejerza.
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2006)</small>
+
+Si a quien se le hace ejecutar los actos es un menor de dieciocho años de edad: Al sujeto activo se le aplicará prisión de cuatro a diez años y multa. Si el corruptor es ascendiente del menor; o al ejecutar los actos ejercía de cualquier forma autoridad sobre aquel: Las sanciones que señala este artículo serán de un tercio más del mínimo y máximo. Además, y en su caso, se le privará de la patria potestad, tutela o guarda que ejerza.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 300.
 
-SANCIONES Y FIGURAS TÍPICAS DE CORRUPCIÓN DE MENORES E INCAPACES. Se aplicará prisión de cuatro a nueve años y multa, a quien lleve acabo (sic) respecto de un menor de hasta 16 años de edad alguna de las siguientes conductas: 1) Lo inicie en la vida sexual. 2) Facilite o procure la depravación sexual. 3) Lo induzca a la práctica de la mendicidad, con el ánimo de explotarlo. 4) Facilite en forma reiterada a la ingesta de bebidas alcohólicas hasta que alcance estado de ebriedad. 5) Facilite el uso de estupefacientes o la prostitución. 6) Lo incite, instigue o induzca a formar parte de una asociación delictuosa o a cometer cualquier delito.
+SANCIONES Y FIGURAS TÍPICAS DE CORRUPCIÓN DE MENORES E INCAPACES. Se aplicará prisión de cuatro a nueve años y multa, a quien lleve a cabo respecto de un menor de hasta dieciséis años de edad alguna de las siguientes conductas: 1) Facilite o procure la depravación sexual. 2) Lo induzca a la práctica de la mendicidad, con el ánimo de explotarlo. 3) Facilite en forma reiterada a la ingesta de bebidas alcohólicas hasta que alcance estado de ebriedad. 4) Facilite el uso de estupefacientes o la prostitución. 5) Lo incite, instigue o induzca a formar parte de una asociación delictuosa o a cometer cualquier delito.
 
 Si el corruptor es ascendiente del menor; o al ejecutar los actos ejercía de cualquier forma autoridad sobre aquel: Las sanciones que señala este artículo serán de un tercio más del mínimo y máximo. Además, y en su caso, se le privará de la patria potestad, tutela o guarda que ejerza.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MARZO DE 2006)</small>
 
 ###### ARTÍCULO 301.
 
-SANCIONES Y FIGURA TÍPICA DE PORNOGRAFÍA INFANTIL Y DE INCAPACES. Se aplicará prisión de siete a once años y multa: A quien procure, obligue, facilite, induzca por cualquier medio o utilice a un menor de dieciséis años de edad o a una persona sin capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión; o por cualquier circunstancia personal no pueda resistirlo, para realizar actos de exhibicionismo corporal o sexuales, con el propósito de videograbarlo, audio grabarlo, fotografiarlo, filmarlo por cualquier medio. La prisión máxima se aumentará a quince años, si se difunde o publica cualquiera de los actos.
+SANCIONES Y FIGURA TÍPICA DE PORNOGRAFÍA INFANTIL, DE ADOLESCENTES Y DE INCAPACES. Se aplicará prisión de siete a once años y multa: A quien procure, obligue, facilite, induzca por cualquier medio o utilice a un menor de dieciséis años de edad o a una persona sin capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión; o por cualquier circunstancia personal no pueda resistirlo, para realizar actos de exhibicionismo corporal o sexuales, con el propósito de videograbarlo, audio grabarlo, fotografiarlo, filmarlo por cualquier medio. La prisión máxima se aumentará a quince años, si se difunde o publica cualquiera de los actos.
 
 Las sanciones que señala este artículo serán de un tercio más del mínimo y máximo, si el corruptor es ascendiente del menor o incapaz o si al ejercitar los actos, ejercía de cualquier forma autoridad sobre el menor o incapaz. Además y, en su caso, se le privará de la patria potestad, tutela o guarda que ejerza.
 
@@ -2789,11 +2801,11 @@ No constituyen pornografía infantil: las fotografías, videograbaciones, audiog
 
 SANCIONES Y FIGURAS TÍPICAS DE CORRUPCIÓN DE MENORES E INCAPCES (SIC) CON RESULTADO. Se aplicará prisión de seis a catorce años y multa, cuando los actos de corrupción a que se refiere el artículo 300; se realicen reiteradamente sobre el mismo menor de edad o a una persona sin capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión; o por cualquier circunstancia personal, no pueda resistirlo y por ello se vuelva alcohólico o adicto a estupefacientes o sustancias tóxicas; se dedique a la prostitución.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MARZO DE 2006)</small>
 
 ###### ARTÍCULO 303.
 
-SANCIONES Y FIGURA TÍPICA DE MANTENER LA CORRUPCIÓN DE UN MENOR INCAPAZ. Se aplicará de seis a catorce años de prisión y multa: A quien mantenga a un menor de dieciséis años o a una persona sin capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión o por cualquier circunstancia personal no pueda resistirlo en cualquiera de los estados de corrupción que señala en artículo anterior.
+SANCIONES Y FIGURA TÍPICA DE MANTENER EN CORRUPCIÓN A UN MENOR O INCAPAZ. Se aplicará de seis a catorce años de prisión y multa: A quien mantenga a un menor de dieciocho años, a una persona sin capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión, o a quien por cualquier circunstancia personal no pueda resistirlo; en cualquiera de los estados de corrupción que señala el artículo anterior.
 
 Si el corruptor es ascendiente o ejerce autoridad sobre el menor, además de las sanciones que señala este artículo, se le privará de la patria potestad, tutela o guarda que ejerza.
 
@@ -2837,11 +2849,11 @@ La pena máxima se agravará un tercio más: Si se emplea violencia o el sujeto 
 
 Se aplicará de tres a seis años de prisión y multa: A quien a sabiendas de que se trata de una persona menor de dieciséis años de edad o persona sin capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión o por cualquier circunstancia personal no pueda resistirlo, haya solicitado y consumado actos a que se refiere el primer párrafo de este artículo.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2006)</small>
 
 ###### ARTÍCULO 308.
 
-PENALIDAD Y FIGURA TÍPICA DE LENOCINIO CON MENORES O INCAPACES. Se aplicará prisión de siete a catorce años y multa: A quien explote por medio del comercio carnal a un menor de dieciséis años de edad o personal sin capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión o por cualquier circunstancia personal no pueda resistirlo.
+PENALIDAD Y FIGURA TÍPICA DE LENOCINIO CON MENORES O INCAPACES. Se aplicará prisión de siete a catorce años y multa: A quien explote por medio del comercio carnal a un menor de dieciocho años de edad, o persona sin capacidad de comprender el significado del hecho, o de decidir conforme a esa comprensión, o por cualquier circunstancia personal no pueda resistirlo.
 
 ## TÍTULO ÚNICO. DELITOS CONTRA EL ORDEN FAMILIAR
 
@@ -2925,7 +2937,7 @@ VI. USURPACIÓN DEL ESTADO CIVIL O LA FILIACIÓN DE OTRO. Usurpe el estado civil
 
 ###### ARTÍCULO 319.
 
-SANCIONES Y FIGURA TÍPICA DE SUSTRACCIÓN DE MENORES POR FAMILIARES. Se aplicará prisión de uno a cuatro años y multa: Al ascendiente o pariente consanguíneo hasta el cuarto grado de un menor de dieciséis años, que lo sustraiga sin causa justificada; o sin orden de autoridad competente, de la custodia de quien legítimamente la posea; o bien lo retenga sin la voluntad de aquél. Lo anterior procederá aun cuando la custodia se comparta, si la sustracción es sin consentimiento de alguno de quienes la posean.
+SANCIONES Y FIGURA TÍPICA DE SUSTRACCIÓN DE MENORES POR FAMILIARES. Se aplicará prisión de uno a cuatro años y multa: Al ascendiente o pariente consanguíneo hasta el cuarto grado de un menor de dieciocho años, que lo sustraiga sin causa justificada; o sin orden de autoridad competente, de la custodia de quien legítimamente la posea; o bien lo retenga sin la voluntad de aquél. Lo anterior procederá aún cuando la custodia se comparta, si la sustracción es sin consentimiento de alguno de quienes la posean.
 
 Si se reintegra al menor antes de tres días sin causarle ningún daño, se aplicará prisión de seis meses a un año y multa.
 
@@ -3199,7 +3211,7 @@ Lo que se prevé en la fracción anterior se podrá apreciar desde que se ejerci
 
 ### CAPÍTULO TERCERO. ESTUPRO
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2006)</small>
 
 ###### ARTÍCULO 357.
 
@@ -3259,11 +3271,11 @@ Se aplicarán iguales sanciones: A quien sin poder dar el auxilio, omita pedirlo
 
 SANCIONES Y FIGURA TÍPICA DE ABANDONO DE ATROPELLADOS. Se aplicará prisión de tres días y tres años y multa: A quien atropelle a una persona y la deje en estado de abandono, sin prestarle o procurarle asistencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MARZO DE 2006)</small>
 
 ###### ARTÍCULO 365.
 
-SANCIONES Y FIGURA TÍPICA DE PELIGRO DE CONTAGIO. Se aplicará prisión de tres meses a tres años y multa: A quien con conocimiento de que padece algún mal grave y transmisible, ponga a otro en peligro de contagio. Si el sujeto pasivo es menor de 16 años, la pena máxima de prisión se incrementará a 5 años además de la multa.
+SANCIONES Y FIGURA TÍPICA DE PELIGRO DE CONTAGIO. Se aplicará prisión de tres meses a tres años y multa: A quien con conocimiento de que padece algún mal grave y transmisible, ponga a otro en peligro de contagio. Si el sujeto pasivo es menor de dieciocho años, la pena máxima de prisión se incrementará a 5 años además de la multa.
 
 Además de la pena de prisión, se le aplicarán las medidas de seguridad que garanticen evitar el contagio de dicho padecimiento por el sujeto activo, comunicándolo a la autoridad de salud correspondiente para que ejecute esas medidas.
 
@@ -3581,25 +3593,25 @@ ARTÍCULO 388 BIS. ACCESO CARNAL VIOLENTO Y VIOLACIÓN CON RESULTADO DE MUERTE O
 
 SANCIONES Y FIGURAS TÍPICAS DE RAPTO. Se aplicará prisión de seis meses a seis años y multa: A quien por medio de violencia física o moral, o del engaño, sustraiga o retenga a una persona para satisfacer algún deseo erótico o para casarse.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2006)</small>
 
-Las mismas penas se aplicarán: A quien con cualquiera de los fines del párrafo anterior, por medio de la seducción o engaño sustraiga o retenga a un menor de dieciséis años o una persona sin capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión o por cualquier circunstancia personal no pueda resistirlo.
+Las misma (sic) penas se aplicarán: A quien con cualquiera de los fines del párrafo anterior, por medio de la seducción o engaño sustraiga o retenga a un menor de dieciocho años, salvo que se trate de emancipados conforme a la ley, o a una persona sin capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión, o por cualquier circunstancia personal no pueda resistirlo.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2006)</small>
 
 ###### ARTÍCULO 390.
 
-PRESUNCIÓN LEGAL DE SEDUCCIÓN. Por el sólo hecho de ser menor de dieciséis años de edad, el sujeto pasivo que voluntariamente siga a quien lo sustrae o retiene, se presumirá que el sujeto activo empleó la seducción salvo prueba en contrario.
+PRESUNCIÓN LEGAL DE SEDUCCIÓN. Por el sólo hecho de que el sujeto pasivo sea menor de dieciocho años de edad y voluntariamente siga a quien lo sustrae o retiene, se presumirá que el sujeto activo empleó la seducción salvo prueba en contrario. Esta presunción no tendrá lugar si el sujeto pasivo es menor emancipado.
 
 ###### ARTÍCULO 391.
 
 (DEROGADO, P.O. 25 DE NOVIEMBRE DE 2005)
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2006)</small>
 
 ###### ARTÍCULO 392.
 
-CONDICIÓN DE PROCEDIBILIDAD PARA LA PERSECUCIÓN DEL RAPTO. No se procederá contra el raptor sino por querella de la mujer ofendida; pero si es menor de dieciséis años de edad, el rapto se perseguirá de oficio.
+CONDICIÓN DE PROCEDIBILIDAD PARA LA PERSECUCIÓN DEL RAPTO. No se procederá contra el raptor sino por querella de la mujer ofendida; pero si es menor de dieciocho años de edad y no está emancipada, el rapto se perseguirá de oficio.
 
 ###### ARTÍCULO 393.
 
@@ -3805,9 +3817,9 @@ IX. POLICÍA O MIEMBRO DE SEGURIDAD PRIVADA. Cuando intervenga un policía o emp
 
 En estos casos, se le aplicará, además, destitución e inhabilitación definitiva para desempeñar empleo, cargo o comisión públicos.
 
-> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2006)</small>
 
-X. ROBO SIRVIÉNDOSE DE UN MENOR. Cuando el robo se cometa valiéndose de un menor de dieciséis años de edad si acaso éste realiza materialmente el apoderamiento de la cosa.
+X. ROBO SIRVIÉNDOSE DE UN MENOR. Cuando el robo se cometa valiéndose de una persona menor de dieciocho años de edad, si acaso ésta realiza materialmente el apoderamiento de la cosa.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
@@ -4184,3 +4196,21 @@ P.O. 30 DE DICIEMBRE DE 2005.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a este decreto. No obstante, se estará a lo dispuesto en los artículos 3º, 4º y 5º del Código Penal para el Estado de Coahuila, en cuanto al ámbito temporal de vigencia de las leyes penales.
+
+P.O. 11 DE MARZO DE 2006.
+
+PRIMERO.- El presente decreto entrará en vigor el 12 de marzo de 2006.
+
+La Ley Para la Atención, Tratamiento y Adaptación de Menores para el Estado de Coahuila de Zaragoza, conjuntamente con las reformas a que se refiere este Decreto a tal ordenamiento, estará en vigor hasta en tanto se expidan los nuevos cuerpos legislativos en que se establezcan las instituciones y órganos, en los términos previstos por el Decreto que reforma el artículo 18 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el diario Oficial de la Federación el 12 de diciembre de 2005.
+
+SEGUNDO.- Las averiguaciones previas en que figuren como inculpados personas menores de dieciocho años y que se encuentren en integración al momento de entrar en vigor el presente decreto, deberán ser turnadas de inmediato al Comisionado de la Unidad encargada de la Prevención y Tratamiento de Menores correspondiente, a efecto de que dicha instancia continúe con los trámites procedentes. Si hubiere menores detenidos, los mismos deberán ser puestos, sin demora, a disposición de los centros de internación adscritos a la Unidad encargada de la Prevención y Tratamiento de Menores que corresponda.
+
+TERCERO.- Los procesos que se desarrollen contra personas que hubieren sido menores de dieciocho años al momento de la comisión del ilícito y que se encuentren en trámite ante los órganos jurisdiccionales a la entrada en vigor de este decreto, deberán sobreseerse; poniendo las constancias a disposición del Consejo Unitario de Menores competente o de la Sala Superior, según corresponda, para que procedan conforme a lo señalado en la Ley para la Atención, Tratamiento y Adaptación de Menores en el Estado de Coahuila de Zaragoza. Y a los detenidos, si los hubiere, serán remitidos al Centro de Internamiento más cercano a aquel en que se llevará a cabo el trámite de su expediente.
+
+CUARTO.- Los expedientes de las personas que hubieren sido sentenciadas como imputables por resoluciones que hayan quedado firmes y se encuentren compurgando pena de prisión o se encuentren sujetas a prisión intermitente o a régimen especial en libertad vigilada, a la entrada en vigor de este decreto serán puestos, a pedido de parte interesada, a disposición del Consejo Unitario más próximo al juzgado en que se le dictó sentencia condenatoria, a efecto de que, sin alterar la sentencia en sus términos, únicamente se les readecue la pena de conformidad con lo dispuesto por el párrafo segundo del artículo 116 de la Ley para la Atención, Tratamiento y Adaptación de Menores en el Estado de Coahuila de Zaragoza, reformado por este decreto.
+
+A quienes se les hubiere readecuado la pena de prisión, y sean mayores de dieciocho años permanecerán en el Centro de Readaptación Social que corresponda a efecto de que en un área especial de dicho Centro continúen el tratamiento respectivo, bajo la supervisión y seguimiento de las autoridades competentes. Si se trata de menores de dieciocho años serán remitidos al lugar que designe el Consejo Unitario respectivo.
+
+QUINTO.- Las autoridades penitenciarias y los titulares de los órganos jurisdiccionales, a la entrada en vigor del presente decreto, deberán proveer lo necesario para la cabal aplicación y observancia de las disposiciones contenidas en el presente decreto.
+
+SEXTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
