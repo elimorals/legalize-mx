@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-tecnologico-de-estudios-superiores-4477
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-06"
-last_updated: "2005-05-06"
+last_updated: "2006-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44779&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE VALLE DE BRAVO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE MARZO DE 2006.
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el viernes 6 de mayo de 2005.
 
@@ -117,9 +117,15 @@ IV. División de Ingeniería en Sistemas Computacionales.
 
 V. División de Licenciatura en Administración.
 
-VI. División de Arquitectura.
+> <small>(REFORMADA, G.G. 13 DE MARZO DE 2006)</small>
+
+VI. División de Arquitectura e Ingeniería Eléctrica.
 
 VII. Unidad Jurídica.
+
+> <small>(ADICIONADA, G.G. 13 DE MARZO DE 2006)</small>
+
+VIII. Contraloría Interna.
 
 El Tecnológico contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en el Manual General de Organización de este Organismo. Asimismo, se auxiliará de los servidores públicos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la normatividad aplicable, estructura orgánica y presupuesto autorizado.
 
@@ -157,7 +163,9 @@ XI. Participar, en el ámbito de su competencia, en la elaboración, ejecución 
 
 XII. Las demás que les señalan otras disposiciones legales y aquellas que les encomiende su superior inmediato.
 
-### CAPITULO V. DE LAS SUBDIRECCIONES, DIVISIONES Y UNIDAD JURIDICA
+> <small>(REFORMADA SU DENOMINACION, G.G. 13 DE MARZO DE 2006)</small>
+
+### CAPITULO V. DE LAS SUBDIRECCIONES, DIVISIONES, UNIDAD JURIDICA Y CONTRALORIA INTERNA
 
 ###### Artículo 13.
 
@@ -169,7 +177,9 @@ I. División de Ingeniería en Sistemas Computacionales.
 
 II. División de Licenciatura en Administración.
 
-III. División de Arquitectura.
+> <small>(REFORMADA, G.G. 13 DE MARZO DE 2006)</small>
+
+III. División de Arquitectura e Ingeniería Eléctrica.
 
 ###### Artículo 14.
 
@@ -325,6 +335,30 @@ VIII. Compilar y difundir los ordenamientos jurídicos relacionados con el funci
 
 IX. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Director.
 
+> <small>(ADICIONADO, G.G. 13 DE MARZO DE 2006)</small>
+
+###### Artículo 18 Bis.
+
+Corresponde a la Contraloría Interna:
+
+I. Vigilar el cumplimiento de los programas y subprogramas de las unidades administrativas del Tecnológico y elaborar los reportes correspondientes.
+
+II. Vigilar el correcto ejercicio de los presupuestos autorizados al Tecnológico, en congruencia con el avance programático, atendiendo a los principios de racionalidad, austeridad y disciplina presupuestaria que fija la normatividad aplicable.
+
+III. Realizar operativos, supervisiones, revisiones, auditorías, evaluaciones y demás acciones de control y evaluación que le correspondan, a las unidades administrativas del Tecnológico, tendientes a verificar el cumplimiento de los objetivos, metas, normas y disposiciones relacionadas con los sistemas de registro y contabilidad, contratación y pago de personal; contratación de servicios, obra pública; programas de inversión, adquisiciones, arrendamiento, conservación, uso, destino, afectación, enajenación y baja de bienes y demás activos asignados al Tecnológico y dar seguimiento a la solventación de las observaciones derivadas de tales acciones.
+
+IV. Recibir los recursos administrativos de inconformidad que se interpongan en contra de las resoluciones que emita este órgano de control interno y remitirlos a la Secretaría de la Contraloría para su instrucción y resolución.
+
+V. Ordenar que se presenten las denuncias correspondientes y/o dar vista al Ministerio Público cuando en el trámite de un expediente de queja, denuncia o investigación por responsabilidad administrativa o en el ejercicio de sus facultades de control y evaluación, advierta que existen hechos o elementos que impliquen la probable responsabilidad penal de los servidores públicos del Tecnológico.
+
+VI. Verificar la presentación oportuna de las declaraciones de situación patrimonial de los servidores públicos del Tecnológico, sujetos a esta obligación.
+
+VII. Proponer al Director la aplicación de normas complementarias en materia de control.
+
+VIII. Difundir entre el personal del Tecnológico toda disposición en materia de control que incida en el desarrollo de sus labores.
+
+IX. Las demás que le señalan otros ordenamientos legales y aquellas que le encomiende la Secretaría de la Contraloría.
+
 ### CAPITULO VI. DEL CONSEJO CONSULTIVO ACADEMICO
 
 ###### Artículo 19.
@@ -400,3 +434,11 @@ ING. CARLOS RENAUD TOLEDO
 DIRECTOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE VALLE DE BRAVO Y SECRETARIO DE LA JUNTA DIRECTIVA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 13 DE MARZO DE 2006.
+
+PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial Gaceta del Gobierno.
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial Gaceta del Gobierno.
