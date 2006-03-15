@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2006-02-15"
+last_updated: "2006-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -602,6 +602,10 @@ b).- Se requerirá el acuerdo de las dos terceras partes de los miembros de los 
 9.- Todos aquellos convenios, contratos y negocios jurídicos que afecten el patrimonio del Municipio, cuando la duración de los mismos exceda el periodo del Ayuntamiento.
 
 En los casos a que se refiere este inciso, el Acuerdo de Cabildo se remitirá posteriormente, mediante la iniciativa correspondiente, al Congreso del Estado, para su autorización. También se requerirá ésta para la aceptación de herencias, legados y donaciones onerosas.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2006)</small>
+
+En los casos de donación condicionada o de comodato, si el beneficiario no destina los bienes para el fin señalado dentro de un año contado a partir de la entrega material del inmueble o si habiéndolo hecho diere a éste un uso distinto o suspenda sus actividades por más de un año, sin contar con la aprobación del Congreso del Estado a solicitud de la Dependencia correspondiente del Poder Ejecutivo o del Ayuntamiento, según el caso, la donación será revocada y tanto el bien como sus mejoras revertirán de plano a favor de la autoridad donante.
 
 ###### ARTICULO 52.
 
@@ -1983,7 +1987,7 @@ Las concesiones, los contratos de obra pública y suministros, así como la pres
 
 ###### ARTICULO 173.
 
-Se prohibe el otorgamiento de los actos a que se refiere el artículo anterior en favor de:
+Se prohíbe el otorgamiento de los actos a que se refiere el artículo anterior en favor de:
 
 Servidores públicos, su cónyuge, parientes consanguíneos en línea directa sin limitación de grado; los colaterales hasta el segundo grado y los parientes por afinidad, así como a las empresas en las cuales sean representantes o tengan intereses económicos las personas referidas.
 
@@ -2577,7 +2581,7 @@ En cada Ayuntamiento sólo podrá haber un sindicato de trabajadores. En el caso
 
 ###### ARTICULO 234.
 
-El trabajador de confianza no podrá formar parte de la organización sindical; si perteneciera a ésta por haber sido trabajador de base, quedarán en suspenso sus obligaciones y derechos para con el sindicato, mientras desempeña puesto de confianza, al concluir estas funciones podrá reintegrarse a su plaza de base.
+El trabajador de confianza no podrá formar parte de la organización sindical; si perteneciera a ésta por haber sido trabajador de base; quedarán en suspenso sus obligaciones y derechos para con el sindicato, mientras desempeña puesto de confianza, al concluir estas funciones podrá reintegrarse a su plaza de base.
 
 ###### ARTICULO 235.
 
@@ -3534,3 +3538,7 @@ Los condóminos o aquellos usuarios que a la entrada en vigor de esta ley se sur
 ###### ARTICULO DECIMO SEXTO.
 
 A partir de la entrada en vigor de la presente ley, los prestadores de los servicios públicos deberán incluir en los programas mencionados en el Título Cuarto de este ordenamiento, la construcción de la infraestructura necesaria para dar cumplimiento a lo establecido en el artículo 160.
+
+P.O. 15 DE MARZO DE 2006.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
