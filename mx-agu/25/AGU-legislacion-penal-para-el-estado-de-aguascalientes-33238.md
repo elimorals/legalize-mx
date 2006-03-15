@@ -4,7 +4,7 @@ identifier: "AGU-legislacion-penal-para-el-estado-de-aguascalientes-33238"
 country: "mx"
 rank: "otro"
 publication_date: "2003-07-21"
-last_updated: "2005-12-12"
+last_updated: "2006-03-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 2006.
 
 Legislación publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de julio de 2003.
 
@@ -157,7 +157,7 @@ VII. Cuando la víctima sea menor de 15 años de edad;
 
 > <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2005)</small>
 
-VIII. Cuando el responsable tenga relación de pareja o de carácter conyugal, sea pariente consanguíneo en línea recta, ascendiente o descendiente sin limitación de grado, pariente colateral consanguíneo o afín hasta el cuarto grado, con la víctima; o
+VIII. Cuando el responsable tenga relación de pareja o de carácter conyugal, sea pariente consanguíneo en línea recta, ascendiente o descendiente sin limitación de grado, pariente colateral consanguíneo o afin hasta el cuarto grado, con la víctima; o
 
 > <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2005)</small>
 
@@ -1261,31 +1261,9 @@ Para los efectos del presente título, actúa dolosamente el que conociendo los 
 
 ### CAPITULO DECIMO NOVENO. Tipos penales protectores de las personas
 
-> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2004)</small>
+Artículo 91 A. (DEROGADO, P.O. 15 DE MARZO DE 2006)
 
-Artículo 91 A. La Difamación consiste en la comunicación dolosa a una o más personas, de la imputación que se hace a otra persona física o colectiva, de un hecho cierto o falso, que le cause deshonra, descrédito o afecte su reputación.
-
-Al responsable de Difamación se le aplicarán de 1 a 3 años de prisión y de 100 a 200 días multa y al pago total de la reparación de los daños y perjuicios ocasionados.
-
-No se configura el tipo de Difamación si el inculpado prueba que:
-
-I. La imputación la hizo de manera cierta a un depositario o agente de la autoridad, o a cualquiera otra persona que haya obrado con carácter público, si la imputación fuere relativa al ejercicio de sus funciones; y
-
-II. Cuando el hecho imputado está declarado cierto por sentencia irrevocable y el inculpado obre por motivo de interés público o privado, pero legítimo y sin ánimo de dañar.
-
-Tampoco se integra el Tipo de Difamación si el inculpado:
-
-I. Manifiesta técnicamente su parecer sobre alguna producción literaria, artística, científica o industrial;
-
-II. Manifiesta su juicio sobre la capacidad, instrucción, aptitud o conducta de otro, si probare que obra en cumplimiento de un deber o de un interés público, o que, con la debida reserva, lo hizo por humanidad, por prestar un servicio a la persona con quien tenga parentesco o amistad, o dando informes que se le hubieran pedido, y no lo hiciera con el ánimo de dañar; y
-
-III. Presenta un escrito o pronuncia un discurso en los tribunales con el carácter de difamatorio, pues en este caso, los jueces podrán aplicar al inculpado alguna de las correcciones disciplinarias que permite la ley.
-
-> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2004)</small>
-
-Artículo 91 B. Las Injurias consisten en la formulación de toda clase de expresiones o realización de acciones destinadas a manifestar desprecio a otra persona, o con el fin de hacerle una ofensa, siempre y cuando de ello tengan conocimiento otras personas y se ponga al ofendido en una situación de notable humillación pública.
-
-Al responsable de Injurias se le aplicarán de 6 meses a 2 años de prisión y de 15 a 50 días multa, al pago total de la reparación de los daños y perjuicios ocasionados, así como el establecimiento de caución de no ofender.
+Artículo 91 B. (DEROGADO, P.O. 15 DE MARZO DE 2006)
 
 > <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2004)</small>
 
@@ -4980,3 +4958,9 @@ DECRETO NUMERO 85
 PRIMERO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- El artículo 13 de la Legislación Penal para el Estado de Aguascalientes, vigente hasta antes de la entrada en vigor del presente Decreto, seguirá aplicándose por los hechos realizados durante su vigencia y respecto a las personas procesadas o sentenciadas por la comisión del mismo.
+
+P.O. 15 DE MARZO DE 2006.
+
+###### ARTICULO UNICO.
+
+El Presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
