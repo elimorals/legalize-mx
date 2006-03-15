@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-de-becas-de-la-universidad-tecnologica-de-nayarit-23
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-16"
-last_updated: "2003-07-16"
+last_updated: "2006-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO DE BECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2003.
+REGLAMENTO PUBLICADO EN EL PERIODICO OFICIAL: 15 DE MARZO DE 2006.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el sábado 16 de febrero de 2002.
 
@@ -83,7 +83,11 @@ I.- Sobresalir en las actividades universitarias;
 
 II.- Observar excelente conducta;
 
-III.- Estar al corriente en sus pagos.
+III.- Estar al corriente en sus pagos;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2006)</small>
+
+IV.- Gestionar el otorgamiento de la beca en los primeros diez días hábiles a partir de la publicación de resultados.
 
 > <small>N. DE E. DE CONFORMIDAD CON LA REFORMA AL PRESENTE PARRAFO, SE MODIFICA LA ESTRUCTURA DEL MISMO.</small>
 
@@ -117,9 +121,11 @@ Las autoridades de la Universidad que intervienen en la formulación e integraci
 
 El número de becas por otorgarse cuatrimestralmente, no deberá rebasar el 10% de la población estudiantil por cada carrera, y la suma de las otorgadas en total, no excederá el 10% del alumnado. La universidad, en atención a su disponibilidad presupuestal o al aumento de la población estudiantil, podrá determinar el incremento o disminución del porcentaje de otorgamiento de las becas cada cuatrimestre.
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2006)</small>
+
 ###### ARTÍCULO 8o.
 
-Las becas para transporte se otorgarán de acuerdo a los lineamientos que para tal efecto nos indique la Coordinación General de Universidades Tecnológicas.
+Las becas federales para transporte, se otorgarán de acuerdo a los lineamientos que para tal efecto nos indique la Coordinación General de Universidades Tecnológicas.
 
 ### CAPÍTULO SEGUNDO. DEL COMITÉ DE BECAS
 
@@ -133,13 +139,23 @@ El Comité estará integrado por las siguientes personas:
 
 I.- El Rector, que fungirá como Presidente;
 
-II.- El Director de Administración y Finanzas y los Directores de Carrera, que actuarán como Vocales;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MARZO DE 2006)</small>
 
-III.- El Director de Vinculación, que se desempeñará como Secretario de Acuerdos;
+II.- El Secretario Académico que fungirá como Vocal;
 
-IV.- Un miembro del Consejo Directivo representante del sector productivo o social, nombrado por el Presidente del mismo.
+III.- El Director de Administración y Finanzas y los Directores de Carrera, que actuarán como Vocales;
 
-Todos tendrán voz y voto en las reuniones del Comité, y en caso de empate, el Presidente tendrá voto de calidad.
+IV.- El Director de Vinculación, que se desempeñará como Secretario de Acuerdos;
+
+V.- Un miembro del Consejo Directivo representante del sector productivo o social, nombrado por el Presidente del mismo;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2006)</small>
+
+VI.- Invitados especiales.
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2006)</small>
+
+Todos tendrán voz y voto en las reuniones del Comité, a excepción de los invitados especiales que solo tendrán voz. En caso de empate, el Presidente tendrá voto de calidad.
 
 ###### ARTÍCULO 11.
 
@@ -163,11 +179,11 @@ VII.- Evaluar las propuestas que hagan los Directores de Carrera, emitidas sobre
 
 VIII.- Las demás que establezca el presente Reglamento.
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2006)</small>
+
 ###### ARTÍCULO 12.
 
-El Comité se reunirá los primeros diez días de cada cuatrimestre o cuando se requiera previa convocatoria de su Presidente o Secretario de Acuerdos.
-
-Se levantará acta de cada una de las reuniones del Comité, y la firmarán sus integrantes.
+El Comité se reunirá los primeros días de cada cuatrimestre, o cuando se requiera previa convocatoria de su Presidente o Secretario de Acuerdos. Se levantará acta de cada una de las reuniones del Comité y la firmarán sus integrantes.
 
 ###### ARTÍCULO 13.
 
@@ -175,7 +191,7 @@ Habrá quórum para los acuerdos que tome el Comité, con el 50% más uno de los
 
 ###### ARTÍCULO 14.
 
-La carta-compromiso es el documento por el que el Comité formaliza el otorgamiento de una beca y será firmada de conformidad por el alumno.
+(DEROGADO, P.O. 15 DE MARZO DE 2006)
 
 ###### ARTÍCULO 15.
 
@@ -245,7 +261,7 @@ a).- Las bases y condiciones para el otorgamiento de becas.
 
 b).- Las carreras en que se otorgan las becas;
 
-c).- El número de becas por carrera;
+c).- (DEROGADO, P.O. 15 DE MARZO DE 2006)
 
 d).- Período que cubren las becas;
 
@@ -257,9 +273,13 @@ e).- Fecha, hora y lugar para la presentación de la documentación; (sic)
 
 Previa a las reuniones del Comité de Becas, la Dirección de Vinculación y el Departamento de Servicios Escolares, deberán analizar y revisar las solicitudes de becas.
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2006)</small>
+
 ###### ARTÍCULO 25.
 
-Después de revisar, analizar y aprobar, en su caso las propuestas, el Comité publicará la asignación de becas en lugar visible, dentro de las instalaciones de la Universidad, a los 15 días de la fecha de la convocatoria. El alumno beneficiado, se presentará ante el Secretario del Comité y firmará la carta-compromiso, de aceptación de la beca.
+Después de revisar, analizar y aprobar, en su caso las propuestas, el Comité publicará la asignación de becas en lugar visible dentro de las instalaciones de la Universidad. El alumno beneficiado se presentará ante el Secretario del Comité y firmará la aceptación de la beca.
+
+Una vez asignadas las becas, el Comité elaborará una relación de alumnos solicitantes que estarán en lista de espera, la cual se realizará en riguroso orden de prioridad de acuerdo al estudio socioeconómico realizado, para que en caso de que un alumno renuncie a su beca, no realice los trámites para su otorgamiento, o por algún motivo se le cancele la misma, ésta se reasignará a los solicitantes en lista de espera.
 
 ###### ARTÍCULO 26.
 
@@ -283,9 +303,13 @@ Los acuerdos que el Comité tome en relación con las becas a que hace referenci
 
 Tendrán derecho a ser considerados candidatos a beca, los alumnos de la Universidad que:
 
-I.- Cumplan todos los requisitos que establece la Universidad para la admisión de alumnos, sean regulares y cursen del segundo cuatrimestre en adelante; y
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2006)</small>
 
-II.-Estén al corriente de todos los pagos escolares.
+I.- Cumplan todos los requisitos que establece la Universidad para la admisión de alumnos. Tratándose de becas académicas, solamente podrán ser candidatos los alumnos que cursen del segundo cuatrimestre en adelante, con excepción de los alumnos que provengan de bachilleratos con los que la Universidad haya celebrado convenio especifico para ingreso directo;
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2006)</small>
+
+II.- Estén inscritos en el cuatrimestre en el que se convoca la beca.
 
 ###### ARTÍCULO 30.
 
@@ -352,5 +376,9 @@ Lic. Laura O. Bañuelos Q.
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 16 DE JULIO DE 2003.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NAYARIT.
+
+P.O. 15 DE MARZO DE 2006.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NAYARIT.
