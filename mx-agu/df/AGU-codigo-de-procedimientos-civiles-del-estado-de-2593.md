@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-procedimientos-civiles-del-estado-de-2593"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-16"
-last_updated: "2004-02-12"
+last_updated: "2006-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "AGU"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE AGUASCALIENTES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 29 DE OCTUBRE DE 2012 Y 5 DE NOVIEMBRE DE 2012 EN LOS P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR A LOS TEXTOS QUE SE VISUALIZAN DENTRO DE LAS CRONOLOGÍAS CORRESPONDIENTES A DICHAS FECHAS, EN LOS ÍNDICES RESPECTIVOS DE SUS HISTORIAS LEGISLATIVAS.</small>
-
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 2006.
 
 Código publicado en el Suplemento al Número. 29 del Periódico Oficial del Estado de Aguascalientes, el domingo 16 de julio de 1989.
 
@@ -649,31 +647,33 @@ V.- En los demás casos que la Ley lo disponga.
 
 Cuando variare el personal de un tribunal, no se proveerá decreto haciendo saber el cambio, sino que al margen del primer proveído que se dictare, después de ocurrido el cambio, se pondrán completos los nombres y apellidos de los nuevos servidores públicos.
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2006)</small>
+
 ###### ARTICULO 109.
 
-La primera notificación se hará personalmente al interesado o a su representante o procurador en la casa designada; y no encontrándolo el notificador, se dejará cédula en la que hará constar la fecha y hora en que la entregue, el nombre y apellido del promovente, el juez o tribunal que manda practicar la diligencia, la determinación que se manda notificar y el nombre y apellido de la persona a quien se entrega, recogiéndole la firma en la razón que se asentará del acto.
+Las notificaciones personales se harán al interesado o a su representante, en la casa designada, dejándole copia íntegra, autorizada, de la resolución que se notifica.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+Si se tratare de la notificación de la demanda, y a la primera busca no se encontrare a quien deba ser notificado, pero se encuentre en el domicilio persona mayor de edad, se le dejará con ésta citatorio para que espere, en la casa designada, a hora fija del día siguiente. Si no obstante el citatorio, no está presente el interesado o su representante, la notificación se hará a cualquier persona mayor de edad que se encuentre en la casa designada, y si estuviere ésta cerrada, se fijará una copia de la resolución en la puerta de entrada previa constancia y certificación que se levante suscrita por dos testigos debidamente identificados, quienes deberán ser vecinos del lugar.
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2006)</small>
 
 ###### ARTICULO 110.
 
-Si se tratare de la notificación de la demanda también se hará la notificación por cédula.
+Para hacer una notificación personal, se cerciorará el notificador, por los medios idóneos, legalmente reconocidos, de que la persona que debe ser notificada vive en la casa designada, y, después de ello, practicará la diligencia, de todo lo cual asentará razón en autos.
 
-La cédula, en los casos de este artículo y del anterior, se entregará a los parientes o domésticos del interesado o cualquier otra persona que viva en la casa después que el notificador se haya cerciorado de que allí vive la persona que debe ser citada, de todo lo cual se asentará razón en las diligencias.
+En caso de no poder cerciorarse el notificador, de que vive, en la casa designada, la persona que debe ser notificada, se abstendrá de practicar la notificación, y lo hará constar para dar cuenta al tribunal sin perjuicio de que pueda proceder en los términos del artículo 112.
 
-La cédula contendrá además una relación suscinta (sic) de la demanda, cuando no sea forzoso entregar las copias del traslado.
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2006)</small>
 
 ###### ARTICULO 111.
 
-Si después que el notificador se hubiere cerciorado de que la persona por notificar vive en la casa y se negare aquel con quien se entiende la notificación a recibir ésta, se hará en el lugar en que habitualmente trabaje, sin necesidad de que el juez dicte una determinación especial para ello.
+Si en la casa, se negare el interesado o la persona con quien se entienda la notificación, a recibir ésta, la hará el notificador por medio de instructivo que fijará en la puerta de la misma, y asentará razón de tal circunstancia, levantando constancia de ello certificada por dos testigos vecinos del lugar, claramente identificados. En igual forma se procederá si no ocurrieren al llamado del notificador.
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2006)</small>
 
 ###### ARTICULO 112.
 
-Cuando no se conociere el lugar en que la persona que debe notificarse tenga el principal asiento de sus negocios y en la habitación no se pudiere, conforme al artículo anterior hacer la notificación, se podrá hacer ésta en el lugar en donde se encuentre.
-
-En este caso, las notificaciones se firmarán por el notificador y por la persona a quien se hiciere. Si ésta no supiere o no pudiere firmar, lo hará a su ruego un testigo.
-
-Si no quisiere firmar o presentar testigo que lo haga por ella, firmarán dos testigos requeridos al efecto por el notificador. Estos testigos no podrán negarse a hacerlo, bajo la multa de un día de salario mínimo general vigente en el Estado.
+Cuando, a juicio del notificador, hubiere sospecha fundada de que se niegue que la personal por notificar vive en la casa designada, le hará notificación en el lugar en que habitualmente trabaje, si la encuentra, según los datos que proporcione el que hubiere promovido. Puede igualmente hacerse la notificación personalmente al interesado, en cualquier lugar en que se encuentre; pero, en los casos de este artículo, deberá certificar, el notificador, apoyado por el dicho de dos testigos debidamente identificados, ser la persona a notificar por conocimiento personal, o haberle sido identificada. Para hacer la notificación, en los casos de este artículo, lo mismo que cuando el promovente hiciere diversa designación del lugar en que ha de practicarse, deberá darse cuenta previa al juez de causa y solicitar la autorización respectiva en virtud a las constancias que se hubieren levantado por el notificador.
 
 ###### ARTICULO 113.
 
@@ -5630,3 +5630,9 @@ UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicaci�
 P.O. 12 DE FEBRERO DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE MARZO DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
