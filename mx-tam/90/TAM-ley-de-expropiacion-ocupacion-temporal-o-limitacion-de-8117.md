@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-expropiacion-ocupacion-temporal-o-limitacion-de-8117"
 country: "mx"
 rank: "ley"
 publication_date: "1992-04-25"
-last_updated: "2001-06-05"
+last_updated: "2006-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8117&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE EXPROPIACION, OCUPACION TEMPORAL O LIMITACION DE DOMINIO PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 25 de abril de 1992.
 
@@ -42,6 +42,10 @@ LEY DE EXPROPIACION, OCUPACION TEMPORAL O LIMITACION DE DOMINIO PARA EL ESTADO D
 ###### ARTICULO 1.
 
 Las disposiciones de esta Ley son de interés público y de observancia general en el Estado de Tamaulipas.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2006)</small>
+
+En lo no previsto por la presente ley y resulte conducente, supletoriamente se aplicará el Código de Procedimientos Civiles para el Estado.
 
 ###### ARTICULO 2.
 
@@ -87,9 +91,11 @@ XIV.- La superficie necesaria para la explotación, uso y aprovechamiento de las
 
 XV.- Los demás casos previstos por leyes especiales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE MARZO DE 2006)</small>
+
 ###### ARTICULO 5.
 
-Corresponde a la Secretaría de Asentamientos Humanos, Obras y Servicios Públicos y de Servicios Administrativos del Estado:
+Corresponde a la Secretaría de Obras Públicas, Desarrollo Urbano y Ecología del Gobierno del Estado.
 
 l.- Recabar la información y documentación tendientes a comprobar y, en su caso, a determinar la existencia de algunas de las causas que las leyes consideren de utilidad pública y ponerla a disposición del Ayuntamiento respectivo y de la Secretaría General de Gobierno para que en un plazo de 10 días emitan su opinión sobre si han sido satisfechos los requisitos legales;
 
@@ -119,9 +125,17 @@ Tan luego como cause estado la declaratoria de expropiación, ocupación tempora
 
 Los afectados después de la primera notificación personal están obligados a señalar domicilio en la capital del Estado, a efecto de que ahí se practiquen las ulteriores notificaciones; en caso de omisión, éstas se realizarán por edictos que se publicarán en el Periódico Oficial del Estado, por una sola vez.
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2006)</small>
+
 ###### ARTICULO 11.
 
-Contra el Acuerdo que contenga la declaratoria de expropiación, los afectados podrán interponer ante el Gobernador del Estado, por conducto de la Secretaría General de Gobierno, por escrito dentro de los 15 días hábiles siguientes a su notificación, recurso administrativo de revocación, con el que deberán exhibir y ofrecer las pruebas y el pliego de alegatos que a su interés convenga. La inconformidad deberá ser resuelta en un plazo no mayor de 30 días hábiles y contra la resolución no procederá recurso alguno.
+Contra el Acuerdo que contenga la declaratoria de expropiación, los afectados podrán interponer el recurso administrativo de revocación ante el Ejecutivo del Estado, por conducto de la Secretaría General de Gobierno, por escrito dentro de los quince días hábiles siguientes a su notificación, con el que deberán exhibir y ofrecer las pruebas que sean conducentes a excepción de la confesional, así como el pliego de agravios que a su interés convenga.
+
+El auto que provea sobre la admisión del recurso, también acordará sobre la admisión de las pruebas que sean ofrecidas, mismo que será notificado personalmente al recurrente.
+
+En caso de que se justifique el desahogo de alguna probanza, se señalará fecha y hora para la misma, dentro de un término que no exceda de veinte días hábiles.
+
+Una vez concluido el periodo de desahogo de pruebas, la inconformidad será resuelta en un plazo no mayor de treinta días hábiles y contra la resolución que se dicte, no procederá recurso alguno.
 
 ###### ARTICULO 12.
 
@@ -135,11 +149,25 @@ Cuando no se haya hecho valer el recurso administrativo de revocación a que se 
 
 En los casos a que se refiere las fracciones II, V, VI, X, XII y XIV del Artículo 4 de esta Ley, el Ejecutivo del Estado, hecha la declaratoria, podrá proceder a la ocupación de los bienes objeto de la expropiación o de la ocupación temporal o imponer la ejecución inmediata de las disposiciones de limitación de dominio, sin que la interposición del recurso administrativo de revocación suspenda la ocupación del bien o bienes de que se trate o la ejecución de las disposiciones de limitación de dominio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE MARZO DE 2006)</small>
+
 ###### ARTICULO 15.
 
-Si los bienes que han originado una declaratoria de expropiación, de ocupación temporal de limitación de dominio, no son destinados al fin que dio causa a la misma en un plazo de cinco años, el propietario afectado podrá ejercitar la reversión del bien de que se trate. En este caso, el importe de la indemnización recibida será conservado por el afectado y no estará obligado a restituirlo.
+Si los bienes que han originado una declaratoria, de expropiación, de ocupación temporal o de limitación de dominio, no son destinados al fin que dio causa a la misma en un plazo de cinco años, el propietario afectado podrá ejercitar la reversión total o parcial del bien de que se trate, o la insubsistencia de la ocupación temporal o limitación de dominio ante el Gobernador del Estado, por conducto de la Secretaría General de Gobierno.
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2006)</small>
+
+Dicha autoridad dictará resolución dentro de los cuarenta y cinco días hábiles siguientes a la presentación de la solicitud. En caso de determinarse la procedencia de la reversión total o parcial del bien, el propietario afectado procederá a la devolución de la indemnización que le hubiere sido cubierta, en la forma y términos fijados en la resolución.
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2006)</small>
+
+El derecho que se confiere al afectado en este artículo deberá ejercitarse dentro del plazo de dos años, contado a partir de la fecha en que sea exigible.
 
 Se considerará que ha sido destinado al fin que dio causa a la expropiación, ocupación temporal o limitación de dominio cualquier acto realizado para su ejecución aunque no haya sido efectuado totalmente.
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2006)</small>
+
+Como consecuencia de la declaración de procedencia de la reversión promovida, se ordenará la cancelación de la inscripción del decreto de expropiación en el Registro Público de la Propiedad, o bien se escriturará el bien de que se trata a favor del anterior propietario.
 
 ###### ARTICULO 16.
 
@@ -224,3 +252,7 @@ P.O. 5 DE JUNIO DE 2001
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE MARZO DE 2006.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
