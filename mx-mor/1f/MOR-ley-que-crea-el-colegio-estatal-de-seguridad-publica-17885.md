@@ -4,7 +4,7 @@ identifier: "MOR-ley-que-crea-el-colegio-estatal-de-seguridad-publica-17885"
 country: "mx"
 rank: "ley"
 publication_date: "2000-08-30"
-last_updated: "2001-10-03"
+last_updated: "2006-03-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY QUE CREA EL COLEGIO ESTATAL DE SEGURIDAD PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2001.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY DEL COLEGIO ESTATAL DE SEGURIDAD PUBLICA DEL ESTADO DE MORELOS, PUBLICADA EN EL P.O. DE 15 DE MARZO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 30 de agosto de 2000.
 
@@ -579,9 +581,7 @@ ATENTAMENTE
 
 "SUFRAGIO EFECTIVO. NO REELECCION".
 
-LOS CC. INTEGRANTES DE LA MESA DIRECTIVA
-
-DEL H. CONGRESO DEL ESTADO.
+LOS CC. INTEGRANTES DE LA MESA DIRECTIVA DEL H. CONGRESO DEL ESTADO.
 
 P R E S I D E N T E.
 
@@ -624,3 +624,11 @@ El presente Decreto, entrará en vigor al día siguiente de su publicación en e
 ###### ARTÍCULO SEGUNDO.
 
 Remítase el presente Decreto, al Titular del Poder Ejecutivo Estatal para los efectos correspondientes.
+
+P.O. 15 DE MARZO DE 2006.
+
+PRIMERO.- Aprobado que sea el presente Decreto, remítase al Titular del Poder Ejecutivo para los efectos constitucionales correspondientes.
+
+SEGUNDO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano Informativo del Gobierno del Estado.
+
+TERCERO.- Se abroga la Ley que crea el Colegio Estatal de Seguridad Pública del Estado, publicada en el Periódico Oficial "Tierra y Libertad", de fecha 30 de Agosto del año 2000.
