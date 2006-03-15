@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-19678"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-19"
-last_updated: "2003-11-13"
+last_updated: "2006-03-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
 
@@ -341,9 +341,11 @@ XXII.- Las demás atribuciones y obligaciones que ésta o cualquiera otra ley le
 
 ### CAPITULO IV. DE LAS SALAS DE NUMERO Y SUPERNUMERARIAS
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2006)</small>
+
 ###### ARTICULO 26.
 
-Para el ejercicio de su función jurisdiccional, el Supremo Tribunal de Justicia tendrá seis Salas que actuarán en forma unitaria, mas las Salas Auxiliares que determine el Pleno.
+Para el ejercicio de su función jurisdiccional, el Supremo Tribunal de Justicia tendrá ocho Salas que actuarán en forma unitaria, mas las Salas Auxiliares que determine el Pleno.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2003)</small>
 
@@ -1692,3 +1694,9 @@ Los asuntos de naturaleza familiar que se encuentren en trámite a la entrada en
 P.O. 13 DE NOVIEMBRE DE 2003.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE MARZO DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
