@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2005-12-29"
+last_updated: "2006-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,69 +18,49 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-ACUERDO POR EL QUE SE DA A CONOCER EL CUPO MINIMO PARA IMPORTAR EN 2006, LECHE EN POLVO ORIGINARIA DE LOS ESTADOS UNIDOS DE AMERICA, DENTRO DEL ARANCEL CUOTA, ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
+ACUERDO POR EL QUE SE MODIFICAN DIVERSOS CUPOS PARA IMPORTAR EN 2006 LECHE EN POLVO Y PREPARACIONES A BASE DE PRODUCTOS LACTEOS
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 29 de diciembre de 2005.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 15 de marzo de 2006.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía, con fundamento en los artículos 302 párrafo 4 del Tratado de Libre Comercio de América del Norte; 4o. fracción III; 5o. fracción V; 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26, 31, 32, 33 y 35 de su Reglamento, 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía, con fundamento en los artículos I y II del Acuerdo de Marrakech por el que se establece la Organización Mundial del Comercio y en la lista de concesiones de México (Lista LXXVII-México); en el artículo 302 párrafo 4 del Tratado de Libre Comercio de América del Norte; y en los artículos 4o. fracción III, 5o. fracción V, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26, 31, 32, 33 y 35 de su Reglamento, 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
+
+Que el Acuerdo de Marrakech por el que se establece la Organización Mundial del Comercio fue aprobado por el Senado de la República el 13 de julio de 1994 y el Decreto Promulgatorio, publicado en el Diario Oficial de la Federación el 30 de diciembre de ese mismo año;
+
+Que en el artículo 4 parte III del Acuerdo sobre la Agricultura de la Organización Mundial del Comercio se establece que México aplicará como parte de sus compromisos de acceso a los mercados, contingentes arancelarios de importación a bienes originarios de los países miembros de Organización Mundial del Comercio, conforme a lo dispuesto en la Lista LXXVII-México Sección I-B, en la que se incluye la leche en polvo o en pastillas;
 
 Que el Tratado de Libre Comercio de América del Norte, aprobado por el Senado de la República el 22 de noviembre de 1993, publicado en el Diario Oficial de la Federación el 20 de diciembre del mismo año, prevé entre sus objetivos, eliminar obstáculos al comercio y facilitar la circulación transfronteriza de bienes y servicios entre los territorios de las partes;
 
 Que el artículo 302 párrafo 4 del propio Tratado, establece que cada una de las partes podrá adoptar o mantener medidas sobre las importaciones con el fin de asignar el cupo de importaciones realizadas según una cuota mediante aranceles (arancel-cuota) establecidos en el anexo 302.2, siempre y cuando tales medidas no tengan efectos comerciales restrictivos sobre las importaciones, adicionales a los derivados de la imposición del arancel-cuota;
 
-Que el mecanismo de asignación del cupo de leche en polvo, es un instrumento de la política sectorial para complementar el abasto doméstico;
+Que el artículo 3o. del Decreto por el que se crean, modifican o suprimen diversos aranceles de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación publicado en el Diario Oficial de la Federación el 17 de abril de 2002, establece el arancel-cupo aplicable a diversas fracciones arancelarias, entre ellas la correspondiente a preparaciones a base de productos lácteos con un contenido de sólidos lácteos superior al 50% en peso, excepto las comprendidas en la fracción 1901.90.04, cuando el importador cuente con certificado de cupo expedido por la Secretaría de Economía;
 
-Que el 23 de diciembre de 2003 se publicó en el Diario Oficial de la Federación el Acuerdo por el que se da a conocer el cupo mínimo para importar en el periodo 2004-2007, leche en polvo originaria de los Estados Unidos de América, dentro del arancel-cuota, establecido en el Tratado de Libre Comercio de América del Norte, así como su modificación publicada el 29 de marzo de 2005;
+Que el mecanismo de asignación del contingente arancelario y del cupo de importación de leche en polvo, así como de preparaciones a base de productos lácteos con un contenido de sólidos lácteos superior al 50%, es un instrumento de la política sectorial para complementar el abasto doméstico;
 
-Que la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2006, establece disposiciones en materia de leche que implican adecuaciones a los criterios y mecanismos de asignación de las cuotas mínimas libres de arancel acordadas en los tratados de libre comercio, razón por la cual es necesario hacer compatible este ordenamiento con la citada ley, y
+Que durante los primeros meses del presente año, en varias zonas o cuencas lecheras del país se vienen presentando problemas de comercialización y/o colocación de excedentes de leche fluida nacional, los cuales han venido revisando con los integrantes de la cadena productiva, la Secretaría de Economía conjuntamente con la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
 
-Que la medida a que se refiere el presente instrumento cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
+Que en los siguientes meses las condiciones de producción de leche fluida nacional presentarán un repunte estacionalidad, propio del ciclo productivo del sistema bovino-leche de nuestro país;
 
-ACUERDO POR EL QUE SE DA A CONOCER EL CUPO MINIMO PARA IMPORTAR EN 2006, LECHE EN POLVO ORIGINARIA DE LOS ESTADOS UNIDOS DE AMERICA, DENTRO DEL ARANCEL CUOTA, ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE:
+Que las dependencias citadas tienen entre sus funciones promover la operación eficiente de las cadenas productivas, es que han estimado pertinente propiciar las condiciones de mercado que permitan dar cauce a la colocación de la producción nacional de leche fluida, por lo cual se considera necesario diferir el segundo periodo de recepción de solicitudes para la industria privada, de tal manera que sea congruente con el comportamiento estacional de la producción nacional de leche, y
+
+Que la medida a que se refiere el presente instrumento, es conforme con lo aprobado por la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
+
+ACUERDO POR EL QUE SE MODIFICAN DIVERSOS CUPOS PARA IMPORTAR EN 2006 LECHE EN POLVO Y PREPARACIONES A BASE DE PRODUCTOS LACTEOS
 
 ###### ARTICULO PRIMERO.
 
-Los cupos mínimos para importar en 2006, dentro del arancel-cuota establecido leche en polvo originaria de Estados Unidos de América, conforme a lo dispuesto en el artículo 302 párrafo 4 del Tratado de Libre Comercio de América del Norte, son los que se determinan a continuación:
+Se modifica el numeral 2o.) de los incisos B), C) y D) de la cuarta columna “Periodo de recepción de solicitudes” del cuadro del artículo segundo del Acuerdo por el que se da a conocer el contingente mínimo para importar en 2006, exenta de arancel, leche en polvo originaria de los países miembros de la Organización Mundial del Comercio, publicado en el Diario Oficial de la Federación el 29 de diciembre de 2005, para quedar como sigue:
 
 (VEASE ARCHIVO ANEXO)
 
 ###### ARTICULO UNICO.
 
-Se modifican los criterios segundo, quinto, sexto y séptimo del artículo 2o., y se adiciona un segundo párrafo al mismo artículo del Acuerdo que establece los criterios para otorgar permisos previos por parte de la Secretaría de Economía, a las importaciones definitivas de fructosa originarias de los Estados Unidos de América, publicado en Diario Oficial de la Federación el 20 de marzo de 2003 y modificado el 30 de septiembre de 2005, para quedar como sigue:
+El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 31 de diciembre de 2006.
 
-“ARTICULO 2o.- . . .
-
-PRIMERO: . . .
-
-SEGUNDO: Podrán solicitar la autorización de permisos previos, aquellos promoventes que cuenten con un certificado de contingentes arancelarios emitido por la Asociación de Refinadores de Maíz (Corn Refiners Association, Inc) de los Estados Unidos de América. El promovente deberá adjuntar a su(s) solicitud(es) de permiso previo de importación el (los) original(es) del (de los) certificado(s) de contingentes arancelarios que cubra(n) la cantidad total que solicita en dicho(s) permiso(s). La Dirección General de Comercio Exterior emitirá el (los) permiso(s) de importación por la cantidad de fructosa que el (los) certificado(s) de contingentes arancelarios presentado(s) por el promovente represente(n), en base comercial; utilizando, para la conversión de base seca a base comercial, los siguientes factores de conversión para cada fracción arancelaria:
-
-a) 1702.40.99, cantidad en base seca / 0.71;
-
-b) 1702.60.01, cantidad en base seca / 0.77;
-
-c) 1702.60.02, cantidad en base seca / 0.77 y,
-
-d) 1702.60.99, cantidad en base seca / 0.77.
-
-TERCERO: . . .
-
-CUARTO: . . .
-
-QUINTO: La autorización se realizará a través de la Dirección General de Comercio Exterior, considerando el criterio Segundo de este artículo.
-
-SEXTO: Los permisos previos de importación definitiva tendrán una vigencia al 30 de septiembre de 2006.
-
-SEPTIMO: Los promoventes a los que se les haya autorizado un permiso previo de importación podrán transferir la cantidad autorizada en dicho permiso de una fracción arancelaria a otra, siempre y cuando el titular del permiso previo presente a la Dirección General de Comercio Exterior una nueva solicitud de permiso y adjunte a dicha solicitud el permiso original vigente, en lugar del certificado de contingentes arancelarios. La Dirección General de Comercio Exterior emitirá un nuevo permiso en la fracción arancelaria solicitada por la cantidad correspondiente y el permiso previo de importación anterior será cancelado. Cualquier porción no utilizada de un permiso autorizado puede ser transferida a una solicitud de permiso de importación subsecuente, siempre que el promovente sea el titular del permiso de importación que contenga la porción no utilizada.
-
-OCTAVO: . . .
-
-NOVENO: . . .
-
-El volumen global a que se refiere este artículo son toneladas métricas en base seca.”
+México, D.F., a 14 de marzo de 2006.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
 
 ###### ARTICULO 15.
 
@@ -158,23 +138,9 @@ II.- Tratándose de productos calificados de Canadá, el criterio para trato pre
 
 ###### ARTICULO TERCERO.
 
-Podrán solicitar asignación del arancel-cuota de importación a que se refiere el presente Acuerdo:
+Se modifica el numeral 2o.) de los incisos B) y C) de la cuarta columna “Periodo de recepción de solicitudes” del cuadro del artículo segundo del Acuerdo por el que se da a conocer el cupo para importar en 2006 con el arancel-cupo establecido, preparaciones a base de productos lácteos con un contenido de sólidos lácteos superior al 50% en peso, excepto las comprendidas en la fracción 1901.90.04, publicado en el Diario Oficial de la Federación el 29 de diciembre de 2005, para quedar como sigue:
 
-A. La empresa del sector público encargada del programa de abasto social de leche, conforme a los requerimientos de su programa anual de compras de leche fluida y de leche en polvo;
-
-B. Empresas industriales del sector privado, con antecedentes de asignación directa en 2005 o 2004, que utilizan leche en polvo en sus procesos productivos y realizan una transformación sustancial de este insumo que cumplan la condición previa establecida en el Artículo sexto transitorio de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2006; considerando sus consumos auditados de materias primas lácteas (leche fluida, leche en polvo, suero de leche y crema de leche) y sus antecedentes de asignación de cupos, durante el periodo reportado, conforme a la hoja de requisitos anexa, y
-
-C. Empresas industriales del sector privado, con antecedentes de asignación directa en 2005 o 2004, que utilizan leche en polvo en sus procesos productivos y realizan una transformación sustancial de este insumo que no cumplan la condición previa establecida en el Artículo sexto transitorio la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2006, considerando sus consumos auditados de materias primas lácteas (leche fluida, leche en polvo, suero de leche y crema de leche)y sus antecedentes de asignación de cupos, durante el periodo reportado, conforme a la hoja de requisitos anexa.
-
-Para efecto del presente Acuerdo, se entenderá por transformación sustancial aquélla en donde la materia prima sufre un cambio importante a través de un proceso industrial, donde el producto que resulta de dicho proceso tiene características distintas a las de la materia prima de donde proviene. Dicha materia prima es un insumo importante dentro del proceso industrial pero no el único.
-
-Para la empresa mencionada en el inciso A) de este artículo la asignación directa se realizará a través de la Dirección General de Comercio Exterior (DGCE), de conformidad a lo señalado en los artículos segundo y tercero de este Acuerdo. Para las empresas señaladas en los incisos B) y C) la asignación directa se realizará a través de la DGCE, conforme a las fórmulas establecidas en el artículo cuarto y quinto, respectivamente, de este Acuerdo.
-
-Para la aplicación general de los criterios y fórmulas que se mencionan en este Acuerdo, la Dirección General de Comercio Exterior, podrá solicitar la opinión de la Dirección General de Industrias Básicas.
-
-La mercancía obtenida por asignación directa no podrá ser comercializada en el mismo estado físico en que se importe.
-
-La vigencia máxima de los certificados de cupo será al 31 de diciembre de 2006.
+(VEASE ARCHIVO ANEXO)
 
 ###### ARTICULO CUARTO.
 
@@ -232,7 +198,7 @@ La Dirección General de Industrias Básicas de esta Secretaría y la Dirección
 
 ###### ARTICULO SEGUNDO.
 
-Con el objeto de complementar el abasto doméstico de leche en polvo, para 2006 se aplicará el mecanismo de asignación directa al cupo mínimo, conforme al cuadro siguiente:
+Se modifica el numeral 2o.) de los incisos B) y C) de la cuarta columna “Periodo de recepción de solicitudes” del cuadro del artículo segundo del Acuerdo por el que se da a conocer el cupo mínimo para importar en 2006, leche en polvo originaria de los Estados Unidos de América, dentro del arancel cuota establecido en el Tratado de Libre Comercio de América del Norte, publicado en el Diario Oficial de la Federación el 29 de diciembre de 2005, para quedar como sigue:
 
 (VEASE ARCHIVO ANEXO)
 
@@ -374,20 +340,4 @@ III.- La Comunidad Europea, que califiquen como originarias conforme a la Decisi
 
 (VEASE ARCHIVO ANEXO)
 
-## TRANSITORIOS
-
-###### ARTICULO PRIMERO.
-
-El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 31 de diciembre de 2006.
-
-###### ARTICULO SEGUNDO.
-
-Se abroga el Acuerdo por el que se da a conocer el cupo mínimo para importar en el periodo 2004-2007, leche en polvo originaria de los Estados Unidos de América, dentro del arancel-cuota, establecido en el Tratado de Libre Comercio de América del Norte, publicado en el Diario Oficial de la Federación el 23 de diciembre de 2003; así como su modificación publicada el 29 de marzo de 2005.
-
-México, D.F., a 22 de diciembre de 2005.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
-
-SECRETARIA DE ECONOMIA
-
-DIRECCION GENERAL DE COMERCIO EXTERIOR
-
-(VEASE ARCHIVO ANEXO)
+## TRANSITORIO
