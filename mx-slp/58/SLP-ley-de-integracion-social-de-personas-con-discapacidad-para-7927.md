@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-integracion-social-de-personas-con-discapacidad-para-792
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-04"
-last_updated: "1997-04-07"
+last_updated: "2006-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7927&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY DE INTEGRACION SOCIAL DE PERSONAS CON DISCAPACIDAD PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 1997.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL PARA LAS PERSONAS CON DISCAPACIDAD, PUBLICADA EN EL P.O. DE 16 DE MARZO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de San Luis Potosí, el lunes 4 de diciembre de 1995.
 
@@ -750,3 +752,15 @@ P.O. 7 DE ABRIL DE 1997.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 16 DE MARZO DE 2006.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Integración Social de Personas con Discapacidad para el Estado de San Luis Potosí, publicada como Decreto No. 429 en el Periódico Oficial del Estado, el 4 de diciembre de 1995. Asimismo, se derogan todas las disposiciones legales que en el ámbito de su competencia, contravengan lo dispuesto por esta Ley.
+
+TERCERO. El Ejecutivo del Estado y los ayuntamientos de la Entidad, en el ámbito de sus respectivas competencias, deberán expedir los reglamentos de la presente Ley, dentro de los noventa días naturales siguientes a la entrada en vigor de la misma.
+
+CUARTO. En congruencia con lo establecido por esta Ley, para facilitar la movilidad de personas con discapacidades, en un plazo que no excederá de dos años contados a partir de la vigencia de la misma, se adoptarán paulatinamente las medidas de adecuación necesarias en los medios de transporte público colectivo, así como en los establecimientos e instituciones públicas y privadas, conforme a los lineamientos generales de accesibilidad. El Ejecutivo del Estado, a través de la dependencia competente, evaluará semestralmente los avances respectivos.
+
+QUINTO. Se faculta al titular del Poder Ejecutivo del Estado, y a las autoridades competentes de esta Ley, para que en un plazo no mayor a sesenta días contados a partir de la iniciación de la vigencia de la misma, realicen la difusión y aplicación de los Lineamientos Generales de Accesibilidad, publicados en el Diario Oficial de la Federación, el 12 de enero de 2004, por parte de la Secretaría de la Función Pública, en razón de las referencias establecidas en el presente Ordenamiento legal.
