@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-iv-2004-del-comite-de-38749"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2004-04-27"
-last_updated: "2004-04-27"
+last_updated: "2006-03-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38749&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2004-04-16"
 
 ACUERDO GENERAL DE ADMINISTRACION IV/2004, DEL DOCE DE ABRIL DE DOS MIL CUATRO, DEL COMITE DE PUBLICACIONES Y PROMOCION EDUCATIVA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO A LAS REGLAS PARA LA ELABORACION, REPRODUCCION, DISTRIBUCION, DONACION Y VENTA DE LAS PUBLICACIONES OFICIALES Y DE LOS DISCOS COMPACTOS QUE EDITA LA SUPREMA CORTE DE JUSTICIA DE LA NACION
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DE ADMINISTRACION V/2005, DEL COMITE DE PUBLICACIONES Y PROMOCION EDUCATIVA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL D.O.F. DE 17 DE MARZO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: DEROGADO.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el martes 27 de abril de 2004 y en el Semanario Judicial de la Federación y su Gaceta, Tomo XIX, Abril de 2004, página 1543.
 
@@ -220,3 +222,13 @@ Ministra Olga María del Carmen Sánchez Cordero de García Villegas
 Ministro Guillermo I. Ortiz Mayagoitia
 
 México, Distrito Federal, a doce de abril de dos mil cuatro.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 17 DE MARZO DE 2006.
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Se deroga lo previsto en el Acuerdo General de Administración IV/2004, del doce de abril de dos mil cuatro, del Comité de Publicaciones y Promoción Educativa de la Suprema Corte de Justicia de la Nación, relativo a las reglas para la elaboración, reproducción, distribución, donación y venta de las publicaciones oficiales y de los discos compactos que edita este Alto Tribunal, así como cualquier otra disposición de observancia general que se oponga a lo previsto en este Acuerdo General.
+
+TERCERO. Publíquese este Acuerdo en el Semanario, en el Diario Oficial de la Federación y, en términos de lo dispuesto en el artículo 7o. fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
