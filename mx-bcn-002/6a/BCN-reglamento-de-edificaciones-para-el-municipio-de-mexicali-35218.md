@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-edificaciones-para-el-municipio-de-mexicali-35218
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-12-18"
-last_updated: "2005-07-22"
+last_updated: "2006-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35218&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE EDIFICACIONES PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2006.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 18 de diciembre de 1998.
 
@@ -829,9 +829,13 @@ III.- Cajón de discapacitados.- De 6.00 mts. de largo y 3.60 mts. de ancho.
 
 Cuando el estacionamiento cuente con más de 20 cajones, el 30% podrá ser del tipo compacto.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2006)</small>
+
 ###### ARTICULO 125.
 
-Se acondicionarán cajones de estacionamiento para personas discapacitadas a razón de uno por cada 50 cajones o fracción, excepto en edificaciones que requieran menos de 12 cajones regulares, ubicándose en el punto que permita el menor recorrido al acceso de la edificación o instalación.
+Se acondicionarán cajones de estacionamiento para personas discapacitadas a razón de dos por cada 50 cajones o fracción. En edificaciones que requieran 6 a 12 cajones deberán destinar 1 para discapacitados, y menores de 6 quedarán exentos de esta obligación, ubicándose en el punto que permita el menor recorrido al acceso de la edificación o instalación.
+
+En edificios públicos o privados en donde se presuma una asistencia mayor de personas con discapacidad como las instalaciones de servicios médicos, clínicas, hospitales, centros de rehabilitación, oficinas públicas oficiales, la condición anterior podrá incrementarse a tres por cada 50 cajones.
 
 ###### ARTICULO 126.
 
@@ -1954,3 +1958,9 @@ P.O. 22 DE JULIO DE 2005.
 > <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL PUNTO DEL "ACUERDO DE CABILDO DE MEXICALI MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 5, CAPÍTULO PRIMERO, 243 Y 244 DEL CAPÍTULO NOVENO, TRÁMITES ADMINISTRATIVOS, SECCIÓN II, INSPECCIÓN Y VIGILANCIA, TODOS DEL REGLAMENTO DE EDIFICACIONES PARA EL MUNICIPIO DE MEXICALI, B.C.", QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
 
 TERCERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periodico Oficial Órgano de Gobierno del Estado.
+
+P.O. 17 DE MARZO DE 2006.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO QUE APRUEBA LA MODIFICACIÓN AL ARTÍCULO 125 DEL REGLAMENTO DE EDIFICACIONES PARA EL MUNICIPIO DE MEXICALI, B.C.".]
+
+ÚNICO: LA PRESENTE MODIFICACIÓN ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL, ÓRGANO DE GOBIERNO DEL ESTADO DE BAJA CALIFORNIA.
