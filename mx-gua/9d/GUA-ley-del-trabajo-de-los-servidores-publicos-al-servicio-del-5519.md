@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-trabajo-de-los-servidores-publicos-al-servicio-del-5519
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-04"
-last_updated: "2005-11-25"
+last_updated: "2006-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PUBLICOS AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MARZO DE 2006.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 4 de diciembre de 1992.
 
@@ -221,19 +221,25 @@ V.- TENDRAN DERECHO A REGRESAR AL PUESTO QUE DESEMPEÑABAN, COMPUTANDOSE EN SU A
 
 SERAN DIAS DE DESCANSO OBLIGATORIO:
 
-I.- 1o. DE ENERO;
+I.- 1O. DE ENERO;
 
-II.- 5 DE FEBRERO;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2006)</small>
 
-III.- 21 DE MARZO;
+II.- EL PRIMER LUNES DE FEBRERO EN CONMEMORACION DEL 5 DE FEBRERO;
 
-IV.- 1o. DE MAYO;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2006)</small>
+
+III.- EL TERCER LUNES DE MARZO EN CONMEMORACION DEL 21 DE MARZO;
+
+IV.- 1O. DE MAYO;
 
 V.- 16 DE SEPTIEMBRE;
 
-VI.- 20 DE NOVIEMBRE;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2006)</small>
 
-VII.- 1o. DE DICIEMBRE DE CADA SEIS AÑOS CUANDO CORRESPONDA A LA TRANSMISION DEL PODER EJECUTIVO FEDERAL;
+VI.- EL TERCER LUNES DE NOVIEMBRE EN CONMEMORACION DEL 20 DE NOVIEMBRE;
+
+VII.- 1O. DE DICIEMBRE DE CADA SEIS AÑOS CUANDO CORRESPONDA A LA TRANSMISION DEL PODER EJECUTIVO FEDERAL;
 
 VIII.- 25 DE DICIEMBRE;
 
@@ -1350,3 +1356,9 @@ EN TANTO SE INTEGRA LA COMISION SUSTANCIADORA, LOS CONFLICTOS LABORALES ENTRE EL
 P.O. 25 DE NOVIEMBRE DE 2005.
 
 Artículo Único.- El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 17 DE MARZO DE 2006.
+
+Artículo Primero. El presente Decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Por la conmemoración del Bicentenario en el año 2006 del Natalicio de Don Benito Juárez García, Benemérito de las Américas, la fracción III, tendrá vigencia a partir del año 2007 dos mil siete.
