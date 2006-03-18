@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2004-06-12"
+last_updated: "2006-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MARZO DE 2006.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -4343,11 +4343,7 @@ III.- Que fué a causa de la constitución física de la víctima o de las circu
 
 Reglas comunes para lesiones y homicidio.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2003)</small>
-
-293.- Se impondrán de las dos terceras partes del mínimo a las dos terceras partes del máximo de la sanción que corresponda a un homicidio simple intencional al que, sorprendiendo a su cónyuge, concubino o concubina en acto carnal o próximo a su consumación lo prive de la vida a él o a su acompañante o a ambos.
-
-Si sólo se causaron lesiones, se aplicará la sanción que corresponda a la clase de lesiones causadas en la proporción aquí establecida.
+293.- (DEROGADO, P.O. 18 DE MARZO DE 2006)
 
 294.- Se impondrán de tres días a tres años de prisión al ascendiente que mate o lesione al corruptor de su hija o de su nieta que estén bajo de su potestad, si lo hiciere en el momento de hallarlos en el acto carnal o en uno próximo a él; pero si lo hiciere después, sufrirá de cuatro a seis años de prisión, no mediando alevosía, ventaja o traición, en cuyo caso se le impondrá la pena correspondiente.
 
@@ -5510,6 +5506,10 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publica
 P.O. 12 DE JUNIO DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 18 DE MARZO DE 2006.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ###### Artículo 10.
 
