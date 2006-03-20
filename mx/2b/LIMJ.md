@@ -4,7 +4,7 @@ identifier: "LIMJ"
 country: "mx"
 rank: "ley"
 publication_date: "1999-01-06"
-last_updated: "1999-01-06"
+last_updated: "2006-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12843&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIMJ"
 
 LEY DEL INSTITUTO MEXICANO DE LA JUVENTUD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE MARZO DE 2006.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 6 de enero de 1999.
 
@@ -60,7 +60,9 @@ II. Asesorar al Ejecutivo Federal en la planeación y programación de las polí
 
 III. Actuar como órgano de consulta y asesoría de las dependencias y entidades de la Administración Pública Federal, así como de las autoridades estatales, municipales, y de los sectores social y privado cuando así lo requieran;
 
-IV. Promover coordinadamente con las dependencias y entidades de la Administración Pública Federal, en el ámbito de sus respectivas competencias, las acciones destinadas a mejorar el nivel de vida de la juventud, así como sus expectativas sociales, culturales y derechos, y
+> <small>(REFORMADA, D.O.F. 20 DE MARZO DE 2006)</small>
+
+IV. Promover coordinadamente con las dependencias y entidades de la Administración Pública Federal, en el ámbito de sus respectivas competencias, las acciones destinadas a mejorar el nivel de vida de la juventud, así como sus expectativas sociales, económicas, culturales y derechos, y
 
 V. Fungir como representante del Gobierno Federal en materia de juventud, ante los gobiernos estatales y municipales, organizaciones privadas, sociales y organismos internacionales, así como en foros, convenciones, encuentros y demás reuniones en las que el Ejecutivo solicite su participación.
 
@@ -84,7 +86,9 @@ VII. Prestar los servicios que se establezcan en los programas que formule el In
 
 VIII. Promover y ejecutar acciones para el reconocimiento público y difusión de las actividades sobresalientes de los jóvenes mexicanos en distintos ámbitos del acontecer nacional;
 
-IX. Elaborar, en coordinación con la Secretaría de Educación Pública, programas y cursos de capacitación y desarrollo destinados a jóvenes, y
+> <small>(REFORMADA, D.O.F. 20 DE MARZO DE 2006)</small>
+
+IX.- Elaborar, en coordinación con las dependencias y las entidades de la Administración Pública Federal, programas y cursos de orientación e información sobre adicciones, nutrición, educación sexual y salud reproductiva, medio ambiente, servicios culturales juveniles, género y equidad, apoyo a jóvenes en situación de exclusión, derechos humanos, incorporación laboral, autoempleo, vivienda, organización juvenil, liderazgo social y participación y en general todas aquellas actividades que de acuerdo a su competencia y a su capacidad presupuestal, estén orientados al desarrollo integral de la juventud, y
 
 X. Las demás que le otorguen la presente Ley y otros ordenamientos legales y reglamentarios.
 
@@ -271,3 +275,9 @@ Las bases para la convocatoria pública para seleccionar a los miembros de este 
 México, D.F., a 21 de diciembre de 1998.- Sen. Mario Vargas Aguiar, Presidente.- Dip. Jaime Moreno Garavilla, Presidente.- Sen. Víctor H. Islas Hernández, Secretario.- Dip. José Ernesto Manrique Villarreal, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta y un días del mes de diciembre de mil novecientos noventra (sic) y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Francisco Labastida Ochoa.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 20 DE MARZO DE 2006.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
