@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-33-2005-del-pleno-del-consejo-de-la-46167"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-09-09"
-last_updated: "2005-09-09"
+last_updated: "2006-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46167&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-08-31"
 
 ACUERDO GENERAL 33/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA DE MANERA TEMPORAL LA COMPETENCIA DE LOS TRIBUNALES COLEGIADOS EN MATERIA PENAL DEL CUARTO CIRCUITO Y ESTABLECE LAS REGLAS DE RECEPCION Y TURNO DE NUEVOS ASUNTOS DE LOS TRIBUNALES COLEGIADOS EN MATERIA DE TRABAJO, ASI COMO DE LOS TRIBUNALES COLEGIADOS EN MATERIA PENAL DEL REFERIDO CIRCUITO, CON RESIDENCIA EN MONTERREY, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE MARZO DE 2006.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 9 de septiembre de 2005.
 
@@ -45,6 +45,8 @@ ACUERDO
 
 PRIMERO.- Se modifica temporalmente la competencia del primer y segundo tribunales colegiados en materia penal del cuarto Circuito, con residencia en Monterrey, Nuevo León, conservando dichos órganos jurisdiccionales la denominación y jurisdicción territorial que tienen asignadas.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO CCNO/1/2006 DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 20 DE MARZO DE 2006, SE EXTIENDE POR UN TERMINO DE DOS MESES MAS EL PERIODO DE COMPETENCIA TEMPORAL DE LOS TRIBUNALES COLEGIADOS PRIMERO Y SEGUNDO EN MATERIA PENAL DEL CUARTO CIRCUITO, POR LO QUE EL PLAZO ESTABLECIDO EN EL MISMO CONCLUIRA HASTA EL ONCE DE MAYO DE DOS MIL SEIS.</small>
+
 SEGUNDO.- Los dos tribunales colegiados en materia penal del Cuarto Circuito conocerán, además de los asuntos propios de la competencia que tienen asignada, de aquellos asuntos a que se refiere el artículo 37, fracciones I, inciso d), II, III, IV, V, VI, VII, VIII y IX de la Ley Orgánica del Poder Judicial de la Federación, en materia de trabajo, dentro del periodo comprendido del doce de septiembre de dos mil cinco al once de marzo de dos mil seis, lapso en el cual todos los asuntos de la referida materia que se turnen a los tribunales colegiados en materia penal del propio Circuito, aun cuando no se hayan radicado, permanecerán en ellos hasta su conclusión.
 
 TERCERO.- Dentro de la temporalidad señalada en el punto de acuerdo precedente, la Oficina de Correspondencia Común de los Tribunales Colegiados en Materia de Trabajo del Cuarto Circuito, lo será también de los tribunales colegiados en materia penal del referido Circuito, únicamente por cuanto hace a la recepción y turno de asuntos de la materia de trabajo.
@@ -66,3 +68,11 @@ PRIMERO.- Este acuerdo entrará en vigor el doce de septiembre de dos mil cinco.
 SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL MAESTRO EN DERECHO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 33/2005, del Pleno del Consejo de la Judicatura Federal, que Modifica de Manera Temporal la Competencia de los Tribunales Colegiados en Materia Penal del Cuarto Circuito y Establece las Reglas de Recepción y Turno de Nuevos Asuntos de los Tribunales Colegiados en Materia de Trabajo, Así Como de los Tribunales Colegiados en Materia Penal del Referido Circuito, con Residencia en Monterrey, Nuevo León fue aprobado por el Pleno del propio Consejo, en sesión de treinta y uno de agosto de dos mil cinco, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Luis María Aguilar Morales, Adolfo O. Aragón Mendía, Constancio Carrasco Daza, Elvia Díaz de León D´Hers, María Teresa Herrera Tello y Miguel A. Quirós Pérez.- México, Distrito Federal, a treinta y uno de agosto de dos mil cinco.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. DE 20 DE MARZO DE 2006.
+
+PRIMERO.- Este acuerdo entrará en vigor el doce de marzo de dos mil seis.
+
+SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
