@@ -4,7 +4,7 @@ identifier: "COA-codigo-civil-para-el-estado-de-coahuila-de-zaragoza-15369"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-25"
-last_updated: "2005-08-19"
+last_updated: "2006-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MARZO DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 25 de junio de 1999.
 
@@ -1735,9 +1735,13 @@ El menor que con arreglo a la ley pueda contraer matrimonio, puede también otor
 
 Si la casa en la que se establezca el hogar conyugal no constituye patrimonio de familia, y es bien propio de uno de los cónyuges, o pertenece a ambos en copropiedad, o forma parte de la sociedad conyugal, no puede enajenarse sino con el consentimiento de los dos consortes.
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2006)</small>
+
 ###### ARTÍCULO 286.
 
-La casa a que se refiere el artículo anterior, sólo puede gravarse, cuando el crédito garantizado con el gravamen sea para mejorarla o para satisfacer gastos en caso de enfermedad o accidentes graves de algún miembro de la familia, y con consentimiento de ambos consortes.
+La casa a que se refiere el artículo anterior podrá gravarse cuando el crédito garantizado con el gravamen sea con fines de mejorarla, remodelarla o para satisfacer gastos en casos de enfermedad o accidentes graves de algún miembro de la familia; de igual manera, los cónyuges al adquirir una vivienda cuyo destino sea para establecer el hogar conyugal, podrán gravarla para obtener el crédito que garantice su adquisición. En todo caso se requiere el consentimiento de ambos consortes.
+
+En caso de que se haya obtenido un crédito para la adquisición o construcción de una casa, garantizado con el mismo inmueble, en la que se haya asentado el hogar conyugal, o bien, la casa se encuentre afectada por el gravamen a que se refiere el párrafo anterior, podrá contratarse nuevo crédito que tenga por objeto mejorar sustancialmente, para el deudor, las condiciones pactadas en el contrato de préstamo que sirvió para obtener el financiamiento, ya sea con la misma o con diferente entidad crediticia. En todo caso siempre se deberá contar con el consentimiento de ambos consortes.
 
 ###### ARTÍCULO 287.
 
@@ -20042,3 +20046,9 @@ P.O. 19 DE AGOSTO DE 2005.
 PRIMERO. El presente decreto entrará en vigor a los treinta días hábiles siguientes al día de su publicación.
 
 SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que contravengan este Decreto.
+
+P.O. 21 DE MARZO DE 2006.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
