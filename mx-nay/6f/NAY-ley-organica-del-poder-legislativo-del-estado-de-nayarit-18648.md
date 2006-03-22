@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-legislativo-del-estado-de-nayarit-18648"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-03-08"
-last_updated: "2005-04-09"
+last_updated: "2006-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18648&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2006.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Nayarit, el miércoles 8 de marzo de 2000.
 
@@ -1029,11 +1029,11 @@ El Congreso o la Diputación Permanente designarán de entre las propuestas de l
 
 En igual forma la Asamblea o la Diputación Permanente en su caso, designará o ratificará el nombramiento de otros funcionarios que requieran de su intervención.
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
+> <small>(DEROGADO [N. DE E. REFORMADO], P.O. 22 DE MARZO DE 2006)</small>
 
 ###### Artículo 112.
 
-La Asamblea o la Diputación Permanente otorgará o negará la ratificación del nombramiento del Procurador General de Justicia, conforme lo dispuesto en la Constitución Política del Estado; y en los términos de la presente Ley, designará al Titular de la Fiscalía contra Delitos Electorales en el Estado de Nayarit, quien será nombrado mediante convocatoria pública abierta que al efecto emita el Honorable Congreso del Estado, requiriéndose para su designación el voto de las dos terceras partes de los diputados presentes en la sesión que para con ese motivo se convoque y durará en su encargo cuatro años pudiendo ser ratificado por una sola vez.
+La Asamblea o la Diputación Permanente otorgará o negara la ratificación del nombramiento del Procurador General de Justicia, conforme lo dispuesto en la Constitución Política del Estado.
 
 > <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
 
@@ -1045,9 +1045,11 @@ II.- La Comisión competente radicará el procedimiento respectivo, requiriendo 
 
 III.- En todos los casos la Comisión competente recibirá la comparecencia de quienes han solicitado su ratificación o registro, o son propuestos para un cargo público de los que se reserva su nombramiento al Honorable Congreso del Estado de Nayarit.
 
-IV.- Tratándose del Titular de la Fiscalía contra Delitos Electorales en el Estado de Nayarit, así como de los demás nombramientos en que el Congreso del Estado este facultado para ese efecto, se emitirá convocatoria pública a los gremios, instituciones y profesionales en la materia de que se trate, para que acudan a presentar propuestas o a expresar su interés en ser incluidos como aspirantes al cargo, satisfaciéndose las formalidades previstas en las fracciones I, II y III de este artículo.
+> <small>(DEROGADA [N. DE E. REFORMADA], P.O. 22 DE MARZO DE 2006)</small>
 
-La convocatoria deberá publicarse con toda oportunidad cuando menos dos veces con un mínimo de tres y un máximo de ocho días entre una y la otra, en el Periódico Oficial del Gobierno del Estado de Nayarit, en la Gaceta Parlamentaria del Honorable Congreso del Estado y en dos diarios de circulación estatal, así como en los estrados de la Institución que corresponda y del Honorable Congreso del Estado de Nayarit.
+IV.- Tratándose los nombramientos en que el Congreso del Estado esté facultado para este efecto, se emitirá Convocatoria Pública a los gremios, instituciones y profesionales en la materia de que se trate, para que acudan a presentar propuestas o a expresar su interés en ser incluidos como aspirantes al cargo, satisfaciéndose las formalidades previstas en las fracciones I, II y III de este artículo.
+
+La convocatoria deberá publicarse con toda oportunidad cuando menos dos veces, con un mínimo de tres y un máximo de ocho días entre una y la otra, en el Periódico Oficial del Gobierno del Estado de Nayarit, en la Gaceta Parlamentaria del Honorable Congreso del Estado y en dos diarios de circulación estatal, así como en los estrados de la institución que corresponda y del Honorable Congreso del Estado de Nayarit.
 
 V.- La Comisión competente deberá emitir su dictamen, dentro de los diez días siguientes al de la comparecencia a que se refiere la fracción III, el que será sometido al Pleno del Congreso para los efectos de su discusión y aprobación en su caso.
 
@@ -1260,3 +1262,9 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- El Congreso procederá a elaborar, en un plazo que no deberá exceder al último día hábil del mes de abril de 2005, el estudio y proyecto de reforma a las Bases de Competencia aplicable a las comisiones legislativas, para incluir las atribuciones correspondientes a la Comisión de Transparencia e Información Gubernamental que se crea mediante este Decreto. La aprobación de dicho proyecto estará sujeto al trámite legislativo previsto en las normas internas del Congreso.
 
 Artículo Tercero.- De conformidad a lo dispuesto por el artículo 41 fracción VIII de la Ley Orgánica del Poder Legislativo, la Comisión de Gobierno Legislativo en un plazo que no exceda de 15 días contados a partir del día siguiente de la entrada en vigor del presente Decreto, propondrá al pleno el acuerdo que designe a los Diputados que integrarán la Comisión de Transparencia e Información Gubernamental.
+
+P.O. 22 DE MARZO DE 2006.
+
+Artículo Primero.- El presente Decreto entrará en vigor a partir de su aprobación y deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo.- Para su conocimiento y constancia de cumplimiento, notifíquese la presente resolución a la Suprema Corte de Justicia de la Nación.
