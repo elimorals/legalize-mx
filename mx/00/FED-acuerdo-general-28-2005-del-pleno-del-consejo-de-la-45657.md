@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-28-2005-del-pleno-del-consejo-de-la-45657"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-08-12"
-last_updated: "2005-08-12"
+last_updated: "2006-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45657&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-07-13"
 
 ACUERDO GENERAL 28/2005, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE MARZO DE 2006.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 12 de agosto de 2005.
 
@@ -85,7 +85,15 @@ XIV. Pensión por jubilación: Es la retribución mensual que se integra con la 
 
 XV. Plan: El Plan de Pensiones Complementarias de Magistrados de Circuito y Jueces de Distrito del Poder Judicial de la Federación, y
 
-XVI. Fondo: La cantidad de dinero de la que se dispone para el financiamiento del Plan, mediante el fideicomiso de inversión constituido para tal efecto.
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 20/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MARZO DE 2006)</small>
+
+XVI. Fondo: La cantidad de dinero de la que se dispone para el financiamiento del Plan, mediante el fideicomiso de inversión constituido para tal efecto o, de existir, la partida presupuestal correspondiente.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 20/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MARZO DE 2006)</small>
+
+###### Artículo 2 Bis.
+
+Los magistrados de Circuito y jueces de Distrito podrán, en cualquier momento, realizar donativos que permitan financiar el Plan regulado en este Acuerdo, en la forma y términos que a los donantes beneficie, previa aprobación del Consejo.
 
 ## TITULO SEGUNDO. Del los Beneficiarios de la Pensión Complementaria
 
@@ -93,7 +101,9 @@ XVI. Fondo: La cantidad de dinero de la que se dispone para el financiamiento de
 
 Serán beneficiarios de la pensión complementaria las siguientes personas:
 
-I. El servidor público que se hubiera jubilado o en el futuro se jubile del cargo de Magistrado de Circuito o Juez de Distrito;
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 20/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MARZO DE 2006)</small>
+
+I. El servidor público que se jubile del cargo de magistrado de Circuito o juez de Distrito;
 
 II. El cónyuge o concubino supérstite del servidor público mencionado en la fracción anterior, que hubiere fallecido ya jubilado, siempre y cuando no contraiga nuevo matrimonio, entre en concubinato o dependa económicamente de otra persona; circunstancias que podrán ser verificadas en cualquier momento por Recursos Humanos, y
 
@@ -371,6 +381,12 @@ El derecho a recibir la pensión complementaria se origina a partir de la fecha 
 
 El pago de las pensiones complementarias que sean procedentes, en su caso, se realizará dentro de los últimos tres días del mes vencido; tratándose del primer pago, éste se hará retroactivo a partir de la fecha de baja del servidor público.
 
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 20/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MARZO DE 2006)</small>
+
+###### Artículo 26 Bis.
+
+En caso de que el beneficiario de la pensión complementaria no cuente oportunamente con el documento que determine el monto de la pensión del ISSSTE, la Comisión podrá autorizar el pago anticipado de una cantidad equivalente al cincuenta por ciento de la pensión complementaria que aproximadamente se calcule le habrá de corresponder; este anticipo será con efectos a partir de la fecha de baja en el cargo de magistrado de Circuito o juez de Distrito. Cuando el ISSSTE cuantifique la pensión a su cargo, la Dirección General de Recursos Humanos realizará los ajustes pertinentes al monto definitivo de la pensión complementaria y pagará, en su caso, los remanentes a favor del jubilado, lo cual deberá informarse a la Comisión.
+
 ###### Artículo 27.
 
 Tratándose de los beneficiarios, el pago de la pensión complementaria se realizará a partir de la fecha de fallecimiento del servidor público beneficiado por el Plan.
@@ -414,3 +430,13 @@ TERCERO.- Los Jueces de Distrito, Magistrados de Circuito y demás funcionarios 
 CUARTO.- En caso de que los funcionarios mencionados en el artículo anterior, no reúnan los requisitos en él señalados, siempre que se encontraren en situación de retiro, por cualquier causa, al momento de entrada en vigor de este Acuerdo, tendrán derecho a recibir una cantidad igual a la que les correspondió conforme a lo dispuesto en el Plan de Pensiones Complementarias 8/2000 de la Suprema Corte de Justicia de la Nación, la que será incrementada conforme a los aumentos porcentuales que correspondan a los mismos funcionarios en activo.
 
 EL MAESTRO EN DERECHO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 28/2005, del Pleno del Consejo de la Judicatura Federal, que Regula el Plan de Pensiones Complementarias de Magistrados de Circuito y Jueces de Distrito, fue aprobado por el Pleno del Consejo de la Judicatura Federal, en sesión de trece de julio de dos mil cinco, por unanimidad de votos de los señores Consejeros: Presidente en funciones Ministro Juan Díaz Romero, Luis María Aguilar Morales, Adolfo O. Aragón Mendía, Constancio Carrasco Daza, María Teresa Herrera Tello y Miguel A. Quirós Pérez.- México, Distrito Federal, a trece de julio de dos mil cinco.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 23 DE MARZO DE 2006.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Se deroga cualquier disposición emitida por este Consejo de la Judicatura Federal que se oponga al presente Acuerdo.
+
+TERCERO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
