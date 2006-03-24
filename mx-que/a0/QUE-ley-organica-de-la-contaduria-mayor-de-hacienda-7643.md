@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-de-la-contaduria-mayor-de-hacienda-7643"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-12-11"
-last_updated: "1986-12-11"
+last_updated: "2006-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY ORGANICA DE LA CONTADURIA MAYOR DE HACIENDA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE 24 DE MARZO DE 2006., EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 11 de diciembre de 1986.
 
@@ -89,7 +91,9 @@ III. Igualmente rendirá informe semestral a la Legislatura respecto de las cuen
 
 IV. Ordenar visitas e inspecciones, practicar auditorias, solicitar informes, revisar libros y documentos para comprobar si las recaudaciones de ingresos se hicieron de conformidad con las leyes aplicables, inspeccionar obras, comprobar si las inversiones y gastos autorizados a las entidades se han aplicado eficientemente al logro de los objetivos y metas de los programas y sub-programas aprobados y en general realizar las investigaciones necesarias para el cabal cumplimiento de sus atribuciones.
 
-V. Solicitar a los Auditores externos de las Entidades copia de los informes o dictamenes de las auditorías por ellos practicadas y las aclaraciones que en su caso estimen pertinentes.
+V. Solicitar a los Auditores externos de las Entidades copia de los informes o dictamenes de las
+
+auditorías por ellos practicadas y las aclaraciones que en su caso estimen pertinentes.
 
 VI. Establecer coordinación permanente con la Secretaría de Finanzas del Gobierno del Estado y las Tesorerías Municipales a fin de unificar sistemas de contabilidad, nomas (sic) de auditoría y de archivo contable.
 
@@ -374,3 +378,23 @@ LIC. MARIANO PALACIOS ALCOCER
 EL SECRETARIO DE GOBIERNO
 
 LIC. JOSÉ MARÍA HERNÁNDEZ SOLIS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE MARZO DE 2006.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO. Se abroga la Ley Orgánica de la Contaduría Mayor de Hacienda, conforme a lo dispuesto en los transitorios subsecuentes y se derogarán todas las disposiciones legales, reglamentarias o administrativas que contravengan o se opongan a la Ley de Fiscalización Superior del Estado de Querétaro, y se aplicará lo dispuesto en los artículos transitorios siguientes.
+
+TERCERO. La Entidad Superior de Fiscalización del Estado iniciará sus funciones a la entrada en vigor de la presente Ley, siendo su titular temporalmente el actual Contador Mayor de Hacienda, hasta en tanto no se designe al Auditor Superior del Estado.
+
+CUARTO. Los asuntos que se encuentran en trámite o en proceso en la Contaduría Mayor de Hacienda al entrar en vigor esta Ley, continuarán tramitándose, por la Entidad Superior de Fiscalización del Estado, en los términos de la Ley Orgánica de la Contaduría Mayor de Hacienda.
+
+QUINTO. En todas las disposiciones legales o administrativas; resoluciones, contratos, convenios o actos expedidos o celebrados con anterioridad a la entrada en vigor de la presente Ley, en que se haga referencia a la Contaduría Mayor de Hacienda o al Órgano de Asesoría Técnica de la Comisión de Hacienda de la Legislatura, se entenderán referidos a la Entidad Superior de Fiscalización del Estado.
+
+SEXTO. Todos los bienes y presupuesto asignados a la Contaduría Mayor de Hacienda, pasarán a la Entidad Superior de Fiscalización del Estado quedando destinados y afectos a su servicio. La Entidad Superior de Fiscalización del Estado igualmente se subroga en todos los derechos y obligaciones de aquélla.
+
+Los servidores públicos actualmente adscritos a la Contaduría Mayor de Hacienda pasarán a formar parte de la Entidad Superior de Fiscalización del Estado.
+
+SÉPTIMO. Cuando en otras disposiciones legales aplicables a la materia de la presente Ley se mencione que, la rendición o presentación o fiscalización de la cuenta pública deba presentarse en un periodo determinado, se entenderá que éste será el señalado en la presente Ley.
