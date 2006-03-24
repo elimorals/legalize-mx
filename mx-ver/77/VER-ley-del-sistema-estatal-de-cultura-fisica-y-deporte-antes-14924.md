@@ -4,7 +4,7 @@ identifier: "VER-ley-del-sistema-estatal-de-cultura-fisica-y-deporte-antes-14924
 country: "mx"
 rank: "ley"
 publication_date: "1999-08-12"
-last_updated: "2005-05-26"
+last_updated: "2006-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14924&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DEL SISTEMA ESTATAL DEL DEPORTE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE MAYO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE MARZO DE 2006.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 12 de agosto de 1999.
 
@@ -194,6 +194,10 @@ VII. Conocer de los informes que presente el Director General del Instituto;
 VIII. Promover y propiciar la participación activa mediante la conjunción de esfuerzos entre los sectores social y privado;
 
 IX. Llevar el registro estatal del deporte y el de las instituciones deportivas;
+
+> <small>(ADICIONADO, G.O. 24 DE MARZO DE 2006)</small>
+
+Igualmente afiliar a todos los centros deportivos de las diversas especialidades de la iniciativa privada que desarrollan actividades deportivas y de acondicionamiento físico, a fin de que su forma de trabajo quede dentro del marco legal y de control, manteniendo supervisión permanente dentro de las instalaciones deportivas como del personal que emplea, elaborando las reglas de operación y aranceles para este fin;
 
 X. Evaluar permanentemente la práctica del deporte y la cultura física en el estado, proponiendo las recomendaciones que considere adecuadas para alcanzar los fines de esta ley, y
 
@@ -684,3 +688,9 @@ G.O. 26 MAYO DE 2005.
 Primero. El presente Decreto entrará en vigor tres días posteriores de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.O. 24 DE MARZO DE 2006.
+
+Primero. El presente Decreto entrará en vigor el mismo día de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
