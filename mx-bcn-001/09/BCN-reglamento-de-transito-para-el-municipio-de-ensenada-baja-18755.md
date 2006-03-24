@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transito-para-el-municipio-de-ensenada-baja-18755
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-22"
-last_updated: "2004-08-06"
+last_updated: "2006-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18755&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRANSITO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MARZO DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 22 de diciembre de 2000.
 
@@ -35,7 +35,7 @@ C E R T I F I C A,
 
 Que en Sesión Ordinaria de Cabildo, celebrada el día 07 de Diciembre del 2000, se tomó el siguiente Acuerdo:
 
-ACUERDO: SE APROBO POR UNANIMIDAD DE LOS PRESENTES CON QUINCE VOTOS A FAVOR, CORRESPONDIENTES A LOS CC. REGIDORES LIC. JUAN GABRIEL TOSCANO ALANIZ, PROFR. JOSE ALEJANDRO LOPEZ SALAS, LIC. JULIO FELIPE GARCIA MUÑOZ, LUIS MERCADO SOLIS, ENRIQUE LARIOS GARCIA, ING. CUAUHTEMOC GARZON ZATARAIN, PROFRA. TALPA GEORGINA MARQUEZ MAYORAL, LIC. SERGIO JAVIER BERREYEZ CHONG, PROFR. ONESIMO CONTRERAS CUELLAR, MARISELA LUNA SANCHEZ, AIDA AMADOR TAVAREZ, LIC. ANA MARIA FUENTES DIAZ Y CARLOS ALEJANDRO LEWIS CAMACHO, DR. DANIEL QUINTERO PEÑA, PRESIDENTE MUNICIPAL, DR. FRANCISCO COTA GOMEZ, SINDICO PROCURADOR. EL DICTAMEN EMITIDO POR LAS COMISIONES DE SEGURIDAD, TRANSITO Y TRANSPORTE Y GOBERNACION Y LEGISLACION, RELATIVO AL ANTEPROYECTO DEL REGLAMENTO DE TRANSITO PARA EL MUNICIPIO DE ENSENADA. DICTAMEN: PRIMERO. SE APRUEBA Y SE PRESENTA ANTE EL PLENO DEL CABILDO EL PROYECTO DEL REGLAMENTO DE TRANSITO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, QUE SE EXHIBE COMO UNICO ANEXO DE ESTE DICTAMEN, MISMO PARA DEBIDA PUBLICACION CON POSTERIORIDAD A SU APROBACION, DERIVANDOSE EL SIGUIENTE PUNTO DE ACUERDO: UNICO. SE APRUEBA EL PROYECTO DE REGLAMENTO DE TRANSITO PRESENTADO POR LA COMISION DE TRANSITO Y TRANSPORTES DEL XVI AYUNTAMIENTO; QUEDANDO ESTABLECIDO COMO "REGLAMENTO DE TRANSITO PARA EL MUNICIPIO DE ENSENADA", ASIMISMO SE ORDENA LA PUBLICACION EN EL PERÍODICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA, DE SU CONTENIDO DEL DOCUMENTO EN REFERENCIA PARA EFECTOS DE VIGENCIA Y APLICACION DEL MISMO.
+ACUERDO:- - SE APROBO POR UNANIMIDAD DE LOS PRESENTES CON QUINCE VOTOS A FAVOR, CORRESPONDIENTES A LOS CC. REGIDORES LIC. JUAN GABRIEL TOSCANO ALANIZ, PROFR. JOSE ALEJANDRO LOPEZ SALAS, LIC. JULIO FELIPE GARCIA MUÑOZ, LUIS MERCADO SOLIS, ENRIQUE LARIOS GARCIA, ING. CUAUHTEMOC GARZON ZATARAIN, PROFRA. TALPA GEORGINA MARQUEZ MAYORAL, LIC. SERGIO JAVIER BERREYEZ CHONG, PROFR. ONESIMO CONTRERAS CUELLAR, MARISELA LUNA SANCHEZ, AIDA AMADOR TAVAREZ, LIC. ANA MARIA FUENTES DIAZ Y CARLOS ALEJANDRO LEWIS CAMACHO, DR. DANIEL QUINTERO PEÑA, PRESIDENTE MUNICIPAL, DR. FRANCISCO COTA GOMEZ, SINDICO PROCURADOR. -- EL DICTAMEN EMITIDO POR LAS COMISIONES DE SEGURIDAD, TRANSITO Y TRANSPORTE Y GOBERNACION Y LEGISLACION, RELATIVO AL ANTEPROYECTO DEL REGLAMENTO DE TRANSITO PARA EL MUNICIPIO DE ENSENADA. -- DICTAMEN: -- PRIMERO. -- SE APRUEBA Y SE PRESENTA ANTE EL PLENO DEL CABILDO EL PROYECTO DEL REGLAMENTO DE TRANSITO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, QUE SE EXHIBE COMO UNICO ANEXO DE ESTE DICTAMEN, MISMO PARA DEBIDA PUBLICACION CON POSTERIORIDAD A SU APROBACION, DERIVANDOSE EL SIGUIENTE PUNTO DE ACUERDO: -- UNICO. -- SE APRUEBA EL PROYECTO DE REGLAMENTO DE TRANSITO PRESENTADO POR LA COMISION DE TRANSITO Y TRANSPORTES DEL XVI AYUNTAMIENTO; QUEDANDO ESTABLECIDO COMO "REGLAMENTO DE TRANSITO PARA EL MUNICIPIO DE ENSENADA", ASIMISMO SE ORDENA LA PUBLICACION EN EL PERÍODICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA, DE SU CONTENIDO DEL DOCUMENTO EN REFERENCIA PARA EFECTOS DE VIGENCIA Y APLICACION DEL MISMO.
 
 Se extiende la presente certificación para los usos legales a que haya lugar, el día doce de Diciembre del año dos mil.
 
@@ -485,9 +485,23 @@ Es motivo de infracción circular vehículos extranjeros sin llenar los requisit
 
 Los propietarios o conductores de vehículos que falsifiquen, alteren las placas, las usen alteradas, falsificadas o usen placas que correspondan a otro vehículo, serán turnados a la Agencia del Ministerio Público, sin perjuicio de que se les impongan las sanciones previstas en el presente Reglamento.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2006)</small>
+
 ###### ARTICULO 37.
 
-Es obligación de los conductores de vehículos mostrar y en su caso entregar la licencia de manejar y la Tarjeta de circulación cuando así lo soliciten los Oficiales de Policía y Tránsito Municipal en los términos del artículo 236 de este Reglamento.
+Los Oficiales de Policía y Tránsito Municipal al observar la infracción, indicarán al conductor que detengan su marcha y le señalará la infracción que ha cometido y el artículo del reglamento infringido, le solicitará muestre y entregue la licencia de conductor y tarjeta de circulación del vehículo, para proceder al levantar la boleta de infracción correspondiente, recabará la firma del conductor y entregándole copia, le señalará el plazo que tiene para pagarla; si el conductor desea que en la boleta se haga constar alguna observación de su parte, el agente estará obligado a consignarla.
+
+Le indicará que la boleta de infracción ampara la ausencia del documento retenido durante un plazo de quince días naturales, mismo que tiene para pagar la multa, sin causarle mayores recargos y que, en el caso de cometer una nueva infracción, después del plazo indicado y no haber recuperado los documentos retenidos, el vehículo podrá ser impedido para circular en los términos de los artículos 237 y 238, de este Reglamento.
+
+Cuando el conductor carezca de licencia de conducir, para seguridad de él mismo y de la ciudadanía, se retendrá el vehículo, salvo que alguno de sus acompañantes cuente con licencia de conducir vigente y este en disposición de conducir el vehículo, en tal caso, únicamente se aplicará la multa correspondiente.
+
+Si la persona que conduce es menor de edad y no cuenta con licencia de conducir se presentará al Juez Calificador junto con el vehículo, quien solicitará la presencia del padre o tutor para los efectos de la sanción respectiva, o en su caso, determinará lo correspondiente.
+
+En el caso de que el infractor hubiese tenido con anterioridad una o más boleta de infracción, sin que las mismas se hayan cancelado o bien no se encuentren cubiertas ante la dependencia recaudadora correspondiente, durante el término señalado en el párrafo segundo del presente artículo, el agente, con el debido respeto solicitará al conductor que lo acompañe a la comandancia que corresponda con el objeto de ponerlo a disposición del Juez Calificador en turno para que resuelva lo conducente.
+
+Si el vehículo en el que se cometió la infracción, resultase con denuncia, querella, reporte o imputación directa de algún ciudadano, respecto de que el vehículo es robado u objeto de averiguación previa, el agente deberá proceder conforme al artículo 236 del presente Reglamento.
+
+Será obligación de los agentes llevar consigo los formatos de boletas de infracción. Los agentes están impedidos para levantar la infracción por carecer de las boletas correspondientes.
 
 ###### ARTICULO 38.
 
@@ -1073,7 +1087,7 @@ Las señales de servicio son las siguientes:
 
 SI - 26 - Servicio telefónico.
 
-SI - 27 -Servicio Mecánico.
+SI - 27 - Servicio Mecánico.
 
 SI - 28 - Servicio de Combustible.
 
@@ -2137,11 +2151,21 @@ Cualquier otra infracción a las disposiciones de este Reglamento, que no esté 
 
 ## TITULO DECIMO. DE LAS SANCIONES
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2006)</small>
+
 ###### ARTICULO 244.
 
-El C. Presidente Municipal, el C. Director de Seguridad Pública Municipal, los Jueces calificadores, los C. Delegados municipales en su respectiva jurisdicción, calificarán las infracciones a éste Reglamento y aplicarán las multas que resulten conforme al siguiente tabular y de no ser pagadas de inmediato serán cobradas de acuerdo al procedimiento económico coactivo que señala la ley de Hacienda Municipal.
+El Presidente Municipal, el Secretario de Seguridad Pública Municipal, los Jueces Calificadores y, los Delegados Municipales en su respectiva Jurisdicción, calificarán las infracciones a este Reglamento y aplicarán las multas que resulten conforme al siguiente tabulador.
 
-> <small>N. DE E. VEASE TABULADOR EN EL P.O. DE 22 DE DICIEMBRE DE 2000, PAGINAS DE LA 63 A LA 81.</small>
+El infractor que cubra el importe de las multas que establece este Reglamento dentro de los Quince Días Naturales de haber sido impuesta, tiene derecho a que se le descuente un 50% del monto de la misma.
+
+La autoridad podrá conmutar la multa por trabajo comunitario o por asistir y acreditar el curso de manejo, siempre y cuando se trate de primo-infractores y lo solicite antes de los quince días de haber sido impuesta. Vencido este plazo no procederá descuento o conmutación alguna.
+
+La conmutación y el descuento de la multa no aplican si fue impuesta por conducir en estado de ebriedad o bajo el influjo de sustancias psicotrópicas, participar en competencias de velocidad o resultar responsable del accidente de tránsito, conforme a lo dispuesto en los artículos 40, 41, 94, 200 y 205.
+
+De no ser pagada dentro de los Treinta Días Naturales de haber sido impuesta, será cobrada de acuerdo al procedimiento económico coactivo que señala la Ley de Hacienda Municipal.
+
+> <small>N. DE E. VEASE REFORMAS AL TABULADOR EN EL P.O. DE 24 DE MARZO DE 2006, PAGINAS DE LA 125 A LA 131.</small>
 
 ###### ARTICULO 245.
 
@@ -2202,3 +2226,11 @@ SEGUNDO.- Se derogan los Reglamentos y demás disposiciones de Tránsito que se 
 P.O. 6 DE AGOSTO DE 2004.
 
 LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
+
+P.O. 24 DE MARZO DE 2006.
+
+Primero.- La presente reforma entrará en vigor a los tres días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El XVIII Ayuntamiento y las dependencias municipales indicadas, en la esfera de su competencia, deberán proveer lo necesario para el cumplimiento y observancia de la presente reforma.
+
+La Secretaría de Seguridad Pública, ampliará la cobertura de los programas de educación vial, cursos de manejo defensivo y registro de infractores, a fin de atender las solicitudes de conmutación de la multa impuesta, en los términos de la presente reforma.
