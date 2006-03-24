@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2006-02-24"
+last_updated: "2006-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MARZO DE 2006.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -2285,17 +2285,33 @@ La comisión de este delito se perseguirá de oficio por la Representación Soci
 
 Tipo y punibilidad.- Al que por cualquier medio cause daño, destrucción o deterioro de cosa ajena se le impondrá de tres meses a seis años de prisión y hasta trescientos días multa.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2006)</small>
 
 ###### Artículo 228.
 
-Daño Equiparado.- Se equipara al delito de daño en propiedad ajena y se castigará como tal, imponiéndose las penas previstas en el Artículo anterior:
+Daño equiparado.- Se equipara al delito de daño en propiedad ajena y se castigará como tal, imponiéndose las penas previstas en el artículo anterior:
 
-I.- Al que dañe, destruya o deteriore cosa propia en perjuicio de tercero o cuando esta se halle por cualquier título legítimo en poder de otra persona;
+I.- Al que dañe, destruya o deteriore cosa propia en perjuicio de tercero o cuando ésta se halle por cualquier título legítimo en poder de otra persona.
 
-II.- Al que sin consentimiento de quien legalmente lo puede otorgar, altere o modifique la prestación o imagen de bienes muebles o inmuebles, públicos o privados, a través de pintas, escrituras, dibujos, o signos de cualquier tipo.
+II.- (DEROGADA, P.O. 24 DE MARZO DE 2006)
 
-Cuando el daño recaiga sobre cualquier bien considerado patrimonio natural, se estará a lo dispuesto en el Artículo 97 de la Ley de Preservación del Patrimonio Cultural del Estado. Así mismo, tratándose de propaganda o promoción de partidos políticos, se estará a lo dispuesto por la Ley de la materia.
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2006)</small>
+
+Artículo 228 BIS.- Comete el delito de daño en contra de la imagen urbana, aquel individuo que por medio de pintas de signos grabados, mensajes o dibujos, sobre bienes muebles o inmuebles ajenos, o bienes propios, que no estén bajo posesión legal de quién los realiza y sin el consentimiento de quién esté facultado para otorgarlo conforme a la ley, y que con esto se altere la presentación en su imagen material y visual, se le impondrá prisión de dos a cinco años y hasta quinientos días de salario de multa.
+
+Se aplicará esta misma sanción a aquel individuo que incite, promueva, facilite a personas menores de edad los medios necesarios para llevar a cabo el delito de daño en contra de la imagen urbana.
+
+Cuando el daño recaiga sobre bienes considerados como patrimonio cultural, histórico, naturales y de protección ecológica, así como de propaganda y promoción de los partidos políticos, se estará a lo dispuesto en las leyes en la materia.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2006)</small>
+
+Artículo 228 TER.- Agravación de la penalidad.- Se le impondrá prisión de 3 a 9 años de prisión y hasta mil días de salario multa a quienes cometan el delito de daño en contra de la imagen urbana en afectación de los siguientes muebles e inmuebles:
+
+I.- Instituciones educativas y culturales tanto públicas como privadas;
+
+II.- Parques y Jardines públicos; y
+
+III.- Bienes del patrimonio cultural.
 
 ###### Artículo 229.
 
@@ -3926,5 +3942,11 @@ DECRETO No. 184
 P.O. 24 DE FEBRERO DE 2006.
 
 DECRETO No. 187
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 24 DE MARZO DE 2006.
+
+DECRETO No. 189
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
