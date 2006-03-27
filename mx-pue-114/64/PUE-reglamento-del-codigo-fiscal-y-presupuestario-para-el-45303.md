@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-del-codigo-fiscal-y-presupuestario-para-el-45303"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-06-13"
-last_updated: "2006-02-24"
+last_updated: "2006-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 REGLAMENTO DEL CODIGO FISCAL Y PRESUPUESTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MARZO DE 2006.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 13 de junio de 2005.
 
@@ -117,9 +117,15 @@ XXII. Sindico.- El Titular de la Sindicatura, del Honorable Ayuntamiento del Mun
 
 XXIII. Sindicatura.- La Sindicatura del Honorable Ayuntamiento del Municipio de Puebla;
 
-XXIV. Tesorería.- La Tesorería del Honorable Ayuntamiento del Municipio de Puebla, y
+XXIV. Tesorería.- La Tesorería del Honorable Ayuntamiento del Municipio de Puebla, y (sic)
 
-XXV. Tesorero.- El Titular de la Tesorería del Honorable Ayuntamiento del Municipio de Puebla.
+XXV. Tesorero.- El Titular de la Tesorería del Honorable Ayuntamiento del Municipio de Puebla;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2006)</small>
+
+XXVI. Código Reglamentario.- El Código Reglamentario para el Municipio de Puebla.
 
 Derecho a la legalidad.
 
@@ -677,6 +683,118 @@ XX. Las demás que se establezcan en el Código, la Ley, Reglamentos, Acuerdos, 
 
 El Departamento de Registro y Fiscalización, estará adscrito a la Dirección de Ingresos y a cargo de un Titular, auxiliado por los servidores públicos que se requieran para el ejerció de sus funciones y que se autoricen conforme a las normas presupuestales respectivas.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+
+Artículo 24 ter.- Además de las facultades señaladas en el artículo que antecede el Departamento de Registro y Fiscalización, con el fin de verificar el cumplimiento de obligaciones fiscales derivadas de diversas disposiciones reglamentarias, así como la presentación de documentos e informes relacionados con el cumplimiento de las mismas, es competente:
+
+I. En materia de protección civil, para:
+
+a) Verificar, en coordinación con la Unidad Operativa Municipal de Protección Civil que los propietarios, administradores o responsables de sitios públicos, cuenten con los equipos e instalaciones para prevenir y combatir incendios, en términos de lo establecido por el Código Reglamentario; y
+
+b) Ejercer las funciones de vigilancia e inspección en materia de Protección Civil en todo tipo de establecimientos tanto industriales como comerciales o de servicios, de conformidad al acuerdo de coordinación que en su caso se suscriba con la Unidad Operativa Municipal de Protección Civil.
+
+II. En materia de espectáculos, para:
+
+a) Otorgar la autorización escrita para la presentación de diversiones o espectáculos públicos eventual o habituales en el Municipio, debidamente firmada por el Tesorero, previo cumplimiento de los requisitos aplicables, establecidos en el Código, el Código Reglamentario y la Ley de Ingresos del Municipio;
+
+b) Una vez autorizada la presentación del espectáculo, remitir a la Dirección de Ingresos de la Tesorería, para el sellado, el boletaje y los pases o cortesías que la empresa utilizará en cada función, debiendo reunir los requisitos establecidos en el artículo 200 del Código;
+
+c) Vigilar e inspeccionar que las diversiones o espectáculos públicos, cumplan con lo establecido en el Código Reglamentario y la Ley de Ingresos del Municipio aplicable; y
+
+d) Intervenir, la taquilla, suspender o clausurar cualquier diversión o espectáculo público, cuando los responsables del espectáculo se nieguen a permitir que se desarrollen las actividades de fiscalización, o cuando no se cumplan o se violen las disposiciones que establece el Código, el Código Reglamentario y la Ley de Ingresos del Municipio aplicable.
+
+III. En materia de espectáculos taurinos, para:
+
+a) Otorgar el permiso para destinar una Plaza de Toros a cualquier otro espectáculo distinto al taurino, debidamente firmado por el Tesorero, previa verificación de que se ha cumplido con los requisitos previos establecidos en el artículo 510 del Código Reglamentario;
+
+b) Previo al inicio de cada temporada taurina, verificar que el Empresario de la Plaza de Toros cuente con el documento en el que se certifique que tiene las condiciones técnicas y de seguridad inherentes, expedido por la Autoridad Municipal;
+
+c) Revisar en todo momento, los documentos en que consten los nombres de los tenedores del derecho de abono o apartado para el espectáculo taurino y ordenar la cancelación de los derechos correspondientes, cuando compruebe que son o han sido de origen de una reventa ilegal observando la garantía de audiencia; y
+
+d) Otorgar a los Empresarios el permiso correspondiente, debidamente firmado por el Tesorero, cuando por causas de fuerza mayor sea necesario hacer algún cambio al programa correspondiente.
+
+IV. En materia de venta de bebidas alcohólicas, para:
+
+a) Verificar que no se lleve a cabo la venta, enajenación y consumo de bebidas alcohólicas en días y horarios prohibidos;
+
+b) Verificar que los establecimientos autorizados para la venta o consumo de bebidas alcohólicas cumplan las disposiciones, obligaciones, restricciones o condiciones especiales, que en la materia establece el Código Reglamentario;
+
+c) Verificar que los establecimientos autorizados para la venta o consumo de bebidas alcohólicas, no ocurran hechos que incidan en la seguridad de los clientes o personas que concurran al establecimiento que pudieran derivar en graves consecuencias para éstos; y
+
+d) Dar seguimiento a las denuncias populares relativas a los establecimientos que violen las disposiciones señaladas en el Código Reglamentario.
+
+V. En materia de Comercio Establecido, Ambulante, Semifijo y Prestadores Ambulantes de Servicios en la Vía Pública del Municipio de Puebla, para:
+
+a) Autorizar las licencias de funcionamiento de los establecimientos industriales, comerciales y de servicios en el Municipio de Puebla;
+
+b) Verificar que los establecimientos industriales, comerciales y de servicios en el Municipio de Puebla, cuenten con licencia vigente expedida por la Tesorería;
+
+c) Verificar que los establecimientos industriales, comerciales y de servicios, comercio ambulante, semifijo y prestadores ambulantes de servicios en la vía pública del Municipio cumplan con las disposiciones, obligaciones, restricciones o condiciones especiales, que en la materia establece el Código Reglamentario;
+
+d) Autorizar la expedición de permisos para la actividad comercial de vendedores ambulantes, semifijos y prestadores ambulantes de servicios en la vía pública; así como las credenciales correspondientes;
+
+e) Llevar a cabo las acciones que en materia de actividad comercial de vendedores ambulantes, semifijos y prestadores ambulantes de servicios en la vía pública, señala el artículo 641 del Código Reglamentario;
+
+f) Autorizar la expedición de permisos especiales, para la celebración de fiestas populares y eventos especiales (juegos deportivos o espectáculos extraordinarios);
+
+g) Verificar que los establecimientos comerciales y de servicios, comercio ambulante, semifijo y prestadores ambulantes de servicios en la vía pública del Municipio, que se dediquen a la distribución o comercialización de productos no tengan dicho material a la vista del público en general, ni realicen su distribución o comercialización a menores de edad, debiéndose entender por pornografía, toda representación, por cualquier medio, de hombres y/o mujeres dedicados a actividades sexuales explicitas, reales o simuladas, o toda representación de sus partes genitales fines primordialmente sexuales; y
+
+h) Verificar que los establecimientos comerciales y de servicios, comercio ambulante, semifijo y prestadores ambulantes de servicios en la vía pública del Municipio, no vendan, distribuyan o tengan en posesión productos de cualquier índole en donde se presente o reproduzca pornografía infantil, debiéndose entender por pornografía infantil, toda representación, por cualquier medio, de un niño o niña dedicado a actividades sexuales explicitas, reales o simuladas, o toda representación de las partes genitales de un niño o niña con fines primordialmente sexuales.
+
+VI. En materia de Mercados Municipales, para:
+
+a) Operar y vigilar el funcionamiento de los Mercados Municipales, en términos de lo establecido por el Código Reglamentario;
+
+b) Verificar que en los mercados y zonas de mercados no se ejerza el comercio sin la autorización correspondiente, se altere el orden público; se practique cualquier deporte, juegos de azar, con o sin cruce de apuestas; o se tire basura fuera de los depósitos respectivos;
+
+c) Verificar que los mercados se dividan en las zonas adecuadas para su mejor funcionamiento, exclusivamente y para efectos de regularización, se podrá autorizar el expendio de mercancías en zonas que no correspondan a lo señalado en el Código Reglamentario, siempre y cuando no afecte de forma alguna la naturaleza, salubridad y condiciones de cada zona;
+
+d) Determinar y autorizar en base al giro comercial, el lugar dentro del mercado municipal en donde operará cada comerciante;
+
+e) Vigilar que los prestadores de servicios dentro de los mercados proporcionen éstos de forma ininterrumpida y de manera adecuada, así como que mantengan en su caso las instalaciones en condiciones óptimas;
+
+f) Verificar que los servicios complementarios de carga y descarga, estiba, transporte de carga ligera y taxis, funcionen en los términos y condiciones que determine la normatividad aplicable;
+
+g) Verificar los locales que permanezcan cerrados o inactivos por un periodo consecutivo mayor de 30 días naturales y sin justificación procediéndose a la revocación de la licencia y a la cancelación en el registro del padrón correspondiente;
+
+h) Verificar que los comerciantes que ejerzan su actividad en los mercados sujetos al régimen de propiedad en condominio, cumplan con las obligaciones que se establecen en el Código Reglamentario, disposiciones civiles y demás aplicables;
+
+i) Verificar que los locatarios ocupantes de los locales en los mercados públicos, cumplan con las disposiciones, obligaciones, restricciones o condiciones establecidas en el Código Reglamentario; y
+
+j) Otorgar a los comerciantes de los mercados municipales y previo cumplimiento de las disposiciones señaladas en el Código Reglamentario, la autorización para traspasar sus derechos sobre locales y giros a que se destine, así como para cambiar el giro de las actividades comerciales que se les hubiere autorizado.
+
+VII. En materia de Estacionamientos, para:
+
+Verificar que los particulares que lleven a cabo el servicio de estacionamiento y guarda de vehículos en el municipio, cuenten con la licencia o concesión correspondiente y que cumplan con las disposiciones, obligaciones, restricciones o condiciones establecidas en el Código Reglamentario y el acto administrativo que les otorgue el derecho a la prestación del servicio.
+
+VIII. En materia de control para el expendio de pinturas en aerosol y substancias con efectos tóxicos en el Municipio.
+
+a) Dar seguimiento a las denuncias populares en la materia, conforme a lo establecido en el Código Reglamentario;
+
+b) Verificar que no se vendan, proporcionen u obsequien a un menor de edad, substancias de efectos tóxicos por inhalación que le puedan provocar una alteración en su estado físico o mental;
+
+c) Verificar que no se vendan, proporcionen u obsequien a un menor de edad pinturas en aerosol;
+
+d) Verificar que en los centros de trabajo que requieran para el desempeño de su trabajo del uso de alguna de las substancias de efectos tóxicos por inhalación señaladas en la fracción I del artículo 1930, del Código Reglamentario, éstas se encuentren bajo el control y vigilancia de los responsables o encargados;
+
+e) Verificar que el propietario o encargado de un establecimiento o la persona que se dedique a la comercialización de las substancias mencionadas en las fracciones I y II del artículo 1930, del Código Reglamentario, lleve un registro de la venta de dichos productos;
+
+f) Verificar que el propietario o encargado de un establecimiento mercantil o personas que expendan cualquiera de las substancias y pinturas en aerosol previstas en el artículo 1930, del Código Reglamentario, cuenten con la autorización para vender o distribuir dichas substancias emitida por el Ayuntamiento, y las licencias que deban expedirles las autoridades sanitarias federales y estatales;
+
+g) Verificar que todo establecimiento mercantil que venda o distribuya las substancias referidas en este inciso, tenga en un lugar visible al publico las autorizaciones correspondientes, así como un letrero con la leyenda: “PROHIBIDA LA VENTA U OBSEQUIO A MENORES DE EDAD DE PINTURAS EN AEROSOL, ASÍ COMO SUBSTANCIAS TÓXICAS CUYO CONSUMO POR CUALQUIER VÍA O INHALACIÓN PROLONGADA O REITERADA ORIGINE GRANDES DAÑO PARA LA SALUD”;
+
+h) Para conocer y verificar el cumplimiento de obligaciones fiscales derivadas de diversas disposiciones reglamentarias, que deriven de otros ordenamientos legales, o de los acuerdos o convenios de coordinación administrativa; y
+
+i) Para determinar infracciones, calificarlas e imponer las sanciones correspondientes por violaciones al marco normativo aplicable.
+
+El Jefe del Departamento de Registro y Fiscalización estará obligado a llevar un registro y control de todas y cada una de las licencias, permisos, autorizaciones o refrendos expresamente otorgados o negados, así como aquéllas otorgadas o negadas por falta de contestación a las solicitudes respectivas, en los plazos correspondientes, debiendo remitir mensualmente un reporte de dicho registro, al Tesorero Municipal, con copia al Contralor Municipal, la inobservancia a lo dispuesto en el presente artículo, será causa de responsabilidad administrativa.
+
+DE LAS NOTIFICACIONES
+
+Las notificaciones que deba realizar el Departamento de Registro y Fiscalización con motivo de la solicitud de licencias, permisos, autorizaciones o refrendos, se harán en los estrados que se colocarán por un término de tres días hábiles en lugar visible dentro de la Tesorería Municipal.
+
 Competencia del Departamento de Ejecución u Oficina Ejecutora.
 
 ###### Artículo 25.
@@ -711,7 +829,7 @@ El Departamento de Ejecución u Oficina Ejecutora, estará adscrita a la Direcci
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 24 DE FEBRERO DE 2006)</small>
 
-Competencia del Director de Catastro Municipal:
+Competencia del Director de Catastro Municipal.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE FEBRERO DE 2006)</small>
 
@@ -1229,6 +1347,34 @@ XVII. Los papeles de trabajo deberán ser firmados por el visitador, los testigo
 
 XVIII. El acta circunstanciada de la visita se debe levantar precisamente en el lugar visitado.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+
+Artículo 52 bis.- Para verificar el cumplimiento de las obligaciones fiscales derivadas de disposiciones reglamentarias a que se refiere el artículo 70 del Código, se regirá por las siguientes disposiciones:
+
+I. La orden de verificación deberá contener: la autoridad que lo emite, su competencia, la fecha y lugar en que se practicará la verificación y estar debidamente fundada y motivada;
+
+II. Una vez que se hayan identificado los verificadores ante la persona física propietaria o poseedora, representante legal, encargado o con quien se encuentre al frente del establecimiento, puestos fijos o semifijos en la vía pública o sucursales, se hará entrega de la Carta de Derechos del Visitado y procederá redactar acta circunstanciada;
+
+III. En los casos en que procede la sustitución de testigos, el personal autorizado deberá asentar en el acta respectiva el porqué de la sustitución;
+
+IV. En ningún caso los testigos pueden ser sustituidos al cerrar el acta;
+
+V. Los verificadores deben asentar en el acta que formulen, los pormenores del documento con el cual se identifiquen;
+
+VI. Las actas de verificación levantadas por el personal del Departamento de Registro y Fiscalización deberán ser firmadas por los verificadores, debiéndose considerar como tales, a quienes se hayan identificado debidamente al inicio de la diligencia administrativa, así como por los testigos designados, si los hubiera;
+
+VII. Las actas de verificación pueden conformarse por un número indeterminado de hojas o anexos. Los verificadores pueden elaborar cédulas o papeles de trabajo adjuntos en los que se detalle la documentación exhibida por el visitado, o bien, en los que sustenten sus observaciones, las cuales deberán ser firmadas por los que intervinieron en la verificación. Si alguna de las personas que intervino en la verificación se niega a firmar dichos documentos, los visitadores lo asentarán en el acta respectiva señalando las causas de tal situación;
+
+VIII. En el caso de que durante el periodo en que se desarrolle la verificación fuera sustituido alguna de los verificadores; quien debe firmar el acta es el verificador que legalmente se designe sustituto;
+
+IX. En el caso de que durante la práctica de una verificación aumente el personal actuante, la autoridad que expidió la orden de verificación debe comunicarlo por escrito a la persona visitada;
+
+X. En caso de resistencia o agresión por parte del visitado, el visitador puede pedir el auxilio de la fuerza pública para el eficaz desempeño de la visita; y
+
+XI. En caso de que durante la verificación, el verificador o verificadores observen en el lugar donde se realice la verificación, condiciones de riesgo para las personas o sus bienes, éstos requerirán a quien resulte responsable para que realice las medidas correctivas necesarias, y en caso de no encontrarse al responsable, el verificador dará aviso a la autoridad competente a costa del obligado, sin perjuicio de las sanciones administrativas que procedan, ni de la responsabilidad civil o penal en que éste incurra.
+
 > <small>(REFORMADA SU DENOMINACION, P.O. 24 DE FEBRERO DE 2006)</small>
 
 Requisitos que debe Observar la Credencial Oficial que Contenga Identificación de Visitadores, Inspectores, Interventores y Notificadores.
@@ -1675,7 +1821,7 @@ Al pie un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos Me
 
 El suscrito IGNACIO MIER VELASCO Secretario General del Honorable Ayuntamiento del Municipio de Puebla, en uso de las facultades que me confiere el artículo 138 fracción VII, de la Ley Orgánica Municipal, CERTIFICA: Que las presentes copias fotostáticas, compuestas de cuarenta y dos fojas útiles por su frente, son copia fiel de sus originales, a las que me remito, tengo a la vista y cotejé, mismas que obran en el archivo de la Dirección Jurídica de la Secretaria General de este Honorable Ayuntamiento, expidiéndose la presente en la Heroica Puebla de Zaragoza, a los seis días del mes de abril del año dos mil cinco para los efectos legales a que haya lugar.- El Secretario General del H. Ayuntamiento del Municipio de Puebla.- IGNACIO MIER VELASCO.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 24 DE FEBRERO DE 2006.
 
@@ -1684,3 +1830,25 @@ PRIMERO.- Se derogan las disposiciones que se opongan a la presente reforma.
 SEGUNDO.- La Dirección de Catastro, a efecto de determinar la zonificación de todo conjunto habitacional nuevo que se encuentre construido y ubicado en zonas con clasificación I-1 a II-1 y que no aparezca en la Tabla de Valores Unitarios de Suelo Urbano para el año 2006 publicada en el Periódico Oficial del Estado, lo valuará como zona II-2.
 
 TERCERO.- Las credenciales oficiales de visitadores, inspectores e interventores, así como su refrendo, expedidas por la Dirección de Recursos Humanos del Ayuntamiento, surtirán sus efectos legales conforme al presente Reglamento. Una vez que finalice su vigencia se librara una nueva de acuerdo a las disposiciones del presente ordenamiento.
+
+P.O. 27 DE MARZO DE 2006.
+
+PRIMERO. El presente Dictamen deberá publicarse en el Periódico Oficial del Estado y entrará en vigor sesenta días hábiles posteriores a su publicación.
+
+SEGUNDO. Se instruye al Tesorero Municipal, para que en un periodo máximo de sesenta días hábiles, contados a partir del día siguiente de la publicación del presente dictamen en el Periódico Oficial del Estado, remita a este Honorable Cabildo para su aprobación, la carta de derechos del visitado.
+
+TERCERO. Se instruye al Tesorero Municipal, para que en un periodo máximo de sesenta días hábiles, contados a partir del día siguiente de la publicación del presente Acuerdo en el Periódico Oficial del Estado, remita a este Honorable Cabildo para su aprobación, el Programa Integral, normas, políticas y procedimientos del Departamento de Registro y Fiscalización, adscrito a la Dirección de Ingresos de la Tesorería Municipal, departamento creado mediante Sesión Ordinaria de Cabildo de fecha catorce de diciembre de dos mil cinco y establecido en los artículos 24 y 24 bis del Reglamento del Código Fiscal y Presupuestario para el Municipio de Puebla. Así como la circunscripción territorial del Municipio de Puebla, dividida por zonas de fiscalización y el Programa de Capacitación del Personal Operativo de la Dirección citada.
+
+CUARTO. Corresponderá conocer y resolver de las solicitudes de condonación, exención total o parcial, reducciones o prorrogas en el pago de contribuciones, productos, aprovechamientos y sus accesorios, única y exclusivamente al Presidente Municipal Constitucional del Municipio de Puebla y a las Autoridades Fiscales señaladas en el artículo 53 del Código Fiscal y Presupuestario para el Municipio de Puebla, las cuales resolverán apreciando las circunstancias del caso que justifiquen la respectiva condonación. en atención a las especificas circunstancias de cada caso y a las causas que originaron los impuestos, derechos, aprovechamientos o sus accesorios, ajustándose a las reglas de la lógica y la razón, mediante el análisis de los motivos y fundamentos expresados como sustento de su decisión.
+
+La Contraloría Municipal, dará seguimiento a todas las condonaciones que realice el Presidente Municipal Constitucional del Municipio de Puebla o las Autoridades Fiscales, para lo cual éstas le remitirán en un término no mayor a diez días hábiles no prorrogables, el expediente respectivo, así como la resolución que haya recaído en la solicitud de condonación que se realice.
+
+Toda solicitud de condonación que sea no resuelta por las Autoridades Fiscales, será nula en todas y cada una de sus partes, en caso de que Otra Autoridad no fiscal realice algún tipo de condonación o prórroga de pago, será fuente de responsabilidad administrativa.
+
+QUINTO. Se revocan los acuerdos emitidos por autoridades municipales, en los cuales se delegan funciones a diversos titulares de las Dependencias y Entidades que integran la Administración Pública Municipal, Centralizada y Descentralizada, a efecto de que conozcan y resuelvan; las solicitudes de condonación, exención total o parcial, reducciones o prórrogas en el pago de contribuciones, productos, aprovechamientos, y sus accesorios y/o realicen funciones que competen de forma exclusiva a las Autoridades Fiscales Municipales, referidas en el Código Fiscal y Presupuestario para el Municipio de Puebla.
+
+Se instruye a la Contraloría Municipal, a efecto de que haga del conocimiento de las Dependencias y Entidades que integran la Administración Pública Municipal, Centralizada y Descentralizada, el contenido del presente artículo.
+
+SEXTO. Se incluye al Tesorero Municipal, para que en un periodo máximo de sesenta días hábiles, contados a partir del día siguiente de la publicación del presente Acuerdo en el Periódico Oficial del Estado, remita a este Honorable Cabildo para su aprobación, las bases, para crear uno o más Fondos de Productividad, distribuible entre los servidores públicos adscritos al Departamento de Registro y Fiscalización de la Dirección de ingresos de la Tesorería Municipal, que intervienen de forma directa o indirecta en el ejercicio de las facultades de comprobación, determinación, notificación y ejecución de multas fiscales o aquellas derivadas del incumplimiento a disposiciones reglamentarias. Departamento creado mediante Sesión Ordinaria de Cabildo de fecha catorce de diciembre de dos mil cinco y establecido en los artículos 24 párrafo primero, y 24 bis párrafo primero del Reglamento del Código Fiscal y Presupuestario para el Municipio de Puebla.
+
+SÉPTIMO. Se derogan las disposiciones que se opongan al presente Acuerdo.
