@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2006-02-27"
+last_updated: "2006-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CODIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MARZO DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -89,6 +89,12 @@ IX. Medio Ambiente; y
 
 X. Trabajo Municipal.
 
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+
+###### Artículo 5 Bis.
+
+Para los efectos del presente Código serán considerados días inhábiles los días sábados y domingos; el 1 de enero, el primer lunes de febrero en conmemoración del 5 de febrero, el tercer lunes de marzo en conmemoración del 21 de marzo, el 1 y 5 de mayo, el 16 de septiembre, el 12 de octubre, el 2 y el tercer lunes de noviembre en conmemoración del 20 de noviembre, el 1 de diciembre de cada seis años cuando corresponda a la transmisión del Poder Ejecutivo Federal, el 25 de diciembre y el que determinen las leyes federales y locales electorales, en el caso de elecciones ordinarias, para efectuar la jornada electoral.
+
 ###### Artículo 6.
 
 Es facultad del Presidente Municipal de Puebla, resolver cualquier duda respecto a la interpretación del presente Código Reglamentario, la aplicación del mismo y las sanciones que establece, así como delegar estas facultades en el funcionario que éste designe.
@@ -98,6 +104,76 @@ Es facultad del Presidente Municipal de Puebla, resolver cualquier duda respecto
 ###### Artículo 7.
 
 Para la actualización, modificación, reforma y/o adición, del presente ordenamiento jurídico, se requerirá seguir el procedimiento señalado en los artículos 84, 85, 86, 87, 88 y 89 de la Ley Orgánica Municipal del Estado de Puebla.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+
+DE LA DENUNCIA POPULAR
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+
+###### Artículo 7 Bis.
+
+La denuncia popular es el medio que establece el presente Código Reglamentario, por el cual, toda persona física, moral, de derecho público o privado, se encuentra facultada para hacer del conocimiento del Contralor Municipal, de cualquier infracción a las disposiciones del presente Código Reglamentario y demás ordenamientos en el ámbito de su competencia, o los hechos, actos u omisiones relacionados con las inspecciones, visitas y cualquier otro acto que realice la autoridad municipal, que violenten los principios del servicio público, previstos en el artículo 50 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+
+DE LA COORDINACIÓN ADMINISTRATIVA
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+
+###### Artículo 7 Bis 1.
+
+Las Autoridades Municipales en el ámbito de sus respectivas competencias, podrán celebrar acuerdos de coordinación administrativa entre ellas, para ejercer con eficacia la organización y funcionamiento del Municipio.
+
+Así mismo, el Municipio a través del Presidente Municipal, previo acuerdo del Ayuntamiento, podrá celebrar convenios de coordinación administrativa con la Federación, los Estados, Municipios y Entidades Auxiliares de la Administración Pública de estos niveles de Gobierno y Organismos no gubernamentales, para la definición, planeación y ejecución conjunta de políticas, estrategias, obras, servicios y acciones que tengan por objeto la atención a grupos con mayores niveles de rezago y marginación, elevar el nivel y calidad de la cobertura de servicios, promover el desarrollo municipal, regional, estatal o interestatal, la integración equilibrada de las regiones y en general de acciones que permitan la ejecución eficaz de obras, servicios y actividades de su competencia.
+
+Será objeto de los acuerdos y convenios antes referidos de manera enunciativa más no limitativa:
+
+l. La coordinación para la planeación y ejecución conjunta de programas y acciones que tengan por objeto la atención a grupos con mayores niveles de rezago y marginación, elevar el nivel y calidad de la cobertura de servicios, la integración equilibrada de las regiones y en general de acciones que permitan la ejecución de obras, servicios y actividades en materia de desarrollo social, política de desarrollo rural, fomento o desarrollo económico;
+
+II. Promover el desarrollo municipal, regional, estatal o interestatal, así como la definición y ejecución de políticas, estrategias, obras y servicios públicos;
+
+III. Impulsar proyectos productivos, así como de desarrollo urbano sustentable, distribución equilibrada de la población, incorporación al desarrollo urbano de los asentamientos humanos irregulares, ordenamiento territorial y vivienda, creación y administración de reservas territoriales;
+
+IV. Desarrollo de la actividad turística;
+
+V. La protección, restauración y conservación de los ecosistemas, recursos ambientales y bienes y servicios naturales, así como su aprovechamiento sustentable y demás actividades en la materia;
+
+VI. La observancia de los derechos humanos y garantías sociales;
+
+VII.- Capacitación, empleo y productividad, seguridad e higiene;
+
+VIII.- Desarrollo institucional, innovación gubernamental y desarrollo administrativo;
+
+IX. Transparencia, mejora regulatoria y procedimientos administrativos;
+
+X. Justicia, protección civil, seguridad pública, seguridad vial y tránsito municipal;
+
+XI. Salud, asistencia social, educación, investigación, deporte, arte y cultura;
+
+XII. Hacienda pública, libre hacienda, coordinación administrativa y fiscal, deuda pública directa o contingente y saneamiento financiero;
+
+XIII. La prevención y atención a los efectos de desastres, así como el establecimiento de programas, fondos y acciones de coordinación en la materia cuyo objeto será entre otros atender o mejorar: (a) La capacidad de respuesta de las autoridades, (b) El apoyo tecnológico y científico; (c) La capacitación y asesoría especializados, (d) La determinación y aplicación de medidas preventivas, (e) La elaboración de estudios de riesgo, (f) La intervención de otras autoridades o particulares, (g) La elaboración de estudios especializados, (h) La instrumentación de campañas de difusión, (i) La adquisición de insumos y la ejecución de obras y servicios, (j) La participación de brigadas de rescate y combate de siniestros, (k) La identificación de zonas de riesgo, (1) El monitoreo de puntos críticos, (m) La identificación y evaluación de daños, (n) La delimitación de zonas y el grado de afectación, (ñ) La atención de necesidades urgentes, (o) El establecimiento de criterios y programas de rescate, desalojo, rehabilitación, reconstrucción, reubicación y restauración, (p) Las demás que resulten necesarias;
+
+XIV. Evaluación, control, supervisión, vigilancia, fiscalización del manejo de recursos y de la gestión financiera y reducción de índices de opacidad;
+
+XV. La protección, conservación, restauración, mejoramiento y desarrollo de monumentos arqueológicos, artísticos, históricos y zonas de monumentos;
+
+XVI. Establecimiento de mecanismos que permitan la actualización, seguimiento y evaluación de los instrumentos estratégicos rectores acordados y para el intercambio de información sobre los avances y resultados de las acciones y trabajos realizados;
+
+XVII. Las relativas a la verificación del cumplimiento de obligaciones fiscales derivadas de disposiciones reglamentarias; y
+
+XVIII. Para la constitución de fondos y otros esquemas de aportación destinados a: (a) La atención a necesidades de servicios públicos e infraestructura; (b) La asignación de recursos, a favor de localidades con mayores necesidades de satisfactores básicos, bajo criterios redistributivos, destinados a contribuir a su desarrollo equilibrado; (c) El financiamiento de proyectos de carácter regional o intermunicipal, destinados a la realización de obras de infraestructura social y acciones de impacto regional o intermunicipal que beneficien a sectores que se encuentran en condiciones de rezago social y que logren un desarrollo regional equilibrado; (d) El saneamiento financiero del Municipio, el establecimiento de mecanismos que faciliten el otorgamiento de garantías y el pago de obligaciones derivadas de operaciones de financiamiento, la contratación de créditos y la creación de reservas contra la fluctuación en tasas de interés; (e) Orientar y cofinanciar obras y servicios contenidos en programas específicos; y (t) La prestación de servicios públicos del Municipio, regionales o intermunicipales.
+
+En la suscripción de los acuerdos y convenios referidos el Municipio a través del Presidente Municipal observará, en lo conducente, la responsabilidad de establecer las bases que permitan la participación conjunta de los sectores social y privado en la ejecución de los planes y programas de desarrollo regional y municipal, asimismo podrá incorporar la definición y establecimiento de los criterios, estrategias y bases para la aportación de recursos humanos, financieros y materiales, destinados a su ejecución.
+
+Los acuerdos y convenios que suscriban los particulares con el Municipio actuando éste en funciones de derecho público o privado y en su carácter de parte en la relación jurídico laboral con sus trabajadores, se sujetarán a la legislación que le resulte aplicable.
+
+La contratación de deuda pública directa o contingente, se sujetará a los requisitos que sobre la materia establece la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Puebla, el Código Fiscal y Presupuestario del Municipio de Puebla, los decretos específicos del Honorable Congreso del Estado y los demás ordenamientos aplicables.
+
+En los casos en que el Municipio suscriba acuerdos, convenios o contratos en materia de coordinación con otras entidades de derecho público, en los mismos, en cuanto resulte procedente, se acordarán los programas, acciones y recursos a cargo de cada ámbito de gobierno que deberán aplicarse coordinadamente y en su caso, los mecanismos de información, evaluación, seguimiento de las acciones y programas y solución de controversias.
+
+Asimismo, podrán acordarse los mecanismos para el saneamiento financiero de los municipios o la ejecución de obras y servicios públicos, proyectos productivos o cualquier otro fin de interés social en forma coordinada o el establecimiento de estrategias en materia de planeación, programación, contratación, ejercicio, control, pago y reestructuración de deuda pública.
 
 ### CAPÍTULO 2. DE LA EXTENSIÓN TERRITORIAL MUNICIPAL
 
@@ -2169,7 +2245,9 @@ El Ayuntamiento, a través de la Dirección General de Seguridad Pública y Vial
 
 La Secretaría General de Seguridad Pública y Vialidad Municipal, a través de la Dirección de Seguridad Vial, vigilará en forma permanente que el tránsito municipal se lleve a cabo conforme a las disposiciones de este Capítulo, para lo cual tendrá atribuciones:
 
-I. Realizar programas y acciones encaminados al mejoramiento, fluidez y progreso del tránsito vehicular y peatonal;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+
+I. Realizar programas y acciones encaminados al mejoramiento, control, fluidez y progreso del tránsito vehicular y peatonal;
 
 II. Evaluar y, en su caso, aprobar los estudios de impacto vial que realicen los interesados, a través del Departamento correspondiente, en asuntos relacionados al otorgamiento de uso de suelo, coadyuvando a definir las estrategias que permitan una mejor planeación en materia de estacionamientos, sitios, terminales y otras construcciones que repercutan directamente en el tránsito municipal;
 
@@ -2177,15 +2255,21 @@ III. Definir y realizar, en coordinación con las instancias respectivas del Gob
 
 IV. Fomentar e impartir los temas de educación vial y demás temas relativos al tránsito municipal, en coordinación con instituciones, planteles educativos y los demás sectores de la sociedad;
 
-V. Autorizar, proporcionar, instalar, fijar, mantener, reponer y coordinar las señales, los moderadores de velocidad y los demás dispositivos necesarios para regular el tránsito municipal;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
 
-VI. Vigilar la seguridad vial y la de los usuarios del transporte público, así como salvaguardar la integridad física de los peatones, en término del presente Capítulo.
+V. Autorizar, proporcionar, instalar, fijar, mantener, reponer y coordinar las señales, los moderadores de velocidad y los demás dispositivos necesarios para regular, controlar y proveer a la observancia de las normas en materia de tránsito municipal, haciendo uso de CINEMÓMETROS, que permitan obtener datos para conocer la velocidad de los vehículos automotores y el modo en que circulan en la vía pública, entre otras;
+
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+
+VI. Vigilar la seguridad vial y la de los usuarios del transporte público, así como salvaguardar la integridad física de los peatones y establecer medidas que permitan eliminar las conductas que violan las disposiciones en la materia, en términos del presente Capítulo;
 
 VII. Designar, con aprobación del Ayuntamiento, el número de agentes de vialidad que estime necesario para realizar las funciones de su competencia;
 
 VIII. Coordinar, a través del Departamento de Servicios Periciales, los trabajos periciales y la elaboración de dictámenes en materia de tránsito y seguridad vial, en el ámbito de su competencia;
 
-IX. Vigilar e inspeccionar los vehículos que circulen en las vías públicas del Municipio, pudiendo realizar los operativos conducentes;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+
+IX. Vigilar e inspeccionar los vehículos que circulen en las vías públicas del Municipio, pudiendo realizar los operativos conducentes e implementar tecnologías, mecanismos y metodologías que propicien la vigilancia de las disposiciones en la materia y en su caso la imposición de sanciones;
 
 X. Requerir y verificar la documentación que deben portar los conductores de los vehículos, para que aquellos puedan conducir y éstos circular;
 
@@ -2202,6 +2286,56 @@ XV. Proporcionar a las personas físicas o jurídicas colectivas que acrediten c
 XVI. Proponer al Ayuntamiento para su aprobación, a través del Presidente Municipal y por acuerdo del Secretario General de Seguridad Pública y Vialidad Municipal, el ordenamiento y los manuales necesarios para determinar y regular el funcionamiento interno de la dependencia, y
 
 XVII. Las demás que les confieran este Capítulo, así como las disposiciones que resulten aplicables y los convenios celebrados con aprobación del Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+
+###### Artículo 259 Bis.
+
+Para los efectos de la fracción V del artículo anterior se entiende por CINEMÓMETRO una cámara móvil para la detección de la velocidad.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+
+###### Artículo 259 Bis 1.
+
+La Dirección de Seguridad Vial, se encuentra facultada para instalar de manera discrecional CINEMÓMETROS, en las vialidades que para tal efecto designe, a fin de permitir la obtención de datos que conlleven a la identificación y control del cumplimiento de los límites de velocidad de los vehículos que sobre ellas circulen.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+
+###### Artículo 259 Bis 2.
+
+La Dirección de Seguridad Vial, se encuentra facultada para colocar CINEMÓMETROS, en el horario que para tal efecto designe, con base en la intensidad vehicular respectiva.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+
+###### Artículo 259 Bis 3.
+
+En la hipótesis de que la Secretaría General de Seguridad Pública y Vialidad Municipal, a través de la Dirección de Seguridad Vial, proceda a la instalación de CINEMÓMETROS, tendrá como objetivo salvaguardar la vida, salud, integridad física y propiedades de los conductores, de los pasajeros, de los transeúntes y en términos generales de cualquier otra persona que pudiera ser afectada por la inobservancia de las reglas relativas al límite de velocidad.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+
+###### Artículo 259 Bis 4.
+
+En cada caso, en que la infracción a las disposiciones de tránsito establecidas en el presente Capítulo, sea registrada a través de un CINEMÓMETRO, en ella se establecerá el vehículo, la velocidad y en su caso la placa respectiva.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+
+###### Artículo 259 Bis 5.
+
+Para los efectos del artículo anterior, será sancionada la persona que aparezca dada de alta en el Registro Estatal de Vehículos, observándose al respecto lo establecido por el artículo 361 Bis del presente ordenamiento legal.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+
+###### Artículo 259 Bis 6.
+
+Si en un mismo evento concurren dos o más infracciones al presente Capítulo, y una de ellas se derive de la aplicación de un CINEMÓMETRO, el Agente de Seguridad Vial, se encuentra facultado para dar alcance al vehículo automotor correspondiente, detenerlo, hacerle ver que ha sido detectado por el CINEMÓMETRO por exceder el límite de velocidad y que por ende llegará a su domicilio la infracción respectiva, conminándolo para que disminuya su velocidad, haciéndole saber que de no respetar el límite de velocidad será considerado reincidente y en su caso se procederá al aseguramiento del vehículo.
+
+Respecto a la infracción concurrente, el Agente de Seguridad Vial Municipal se encuentra facultado para proceder en términos del presente Capítulo determinando la infracción que en su caso hubiese cometido el conductor en términos del artículo 304 y demás relativos del presente ordenamiento legal.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+
+###### Artículo 259 Bis 7.
+
+Con independencia de lo señalado en los artículos 259 Bis, 259 Bis 1,259 Bis 2, 259 Bis 3, 259 Bis 4, 259 Bis 5 y 259 Bis 6, la Dirección de Seguridad Vial, a través de su personal, mantiene las facultades discrecionales en términos del presente Capítulo, a fin de cerciorarse de que un vehículo ha excedido el límite de velocidad en aquellas vialidades en donde no se encuentre un CINEMÓMETRO, conminando a los conductores a fin de que no incurran nuevamente en una falta por exceso de velocidad y realizando las acciones que en términos del presente Capítulo sean procedentes.
 
 ###### Artículo 260.
 
@@ -2705,7 +2839,9 @@ En estos casos los conductores de los vehículos deben circular con todas las pr
 
 Los conductores están obligados a respetar los límites de velocidad establecidos para cada vía pública mediante los señalamientos respectivos, siendo aplicables además las siguientes disposiciones:
 
-I. Cuando la vía pública carezca de señalamientos, la velocidad máxima será de sesenta kilómetros por hora si se trata de vías primarias, rápidas, bulevares o avenidas con camellón, o de cuarenta kilómetros por hora si se trata de vías secundarias, calles del Centro Histórico o avenidas sin camellón;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+
+I.- Cuando la vía pública carezca de señalamientos, la velocidad máxima será de sesenta kilómetros por hora, siendo aplicable el mismo límite si se trata de vías primarias, rápidas, bulevares o avenidas con camellón, y de cuarenta kilómetros por hora si se trata de vías secundarias, calles del Centro Histórico o avenidas sin camellón;
 
 II. En caso de que un vehículo sea conducido a una velocidad debajo de la mínima establecida, deberá circular siempre por su extrema derecha;
 
@@ -3301,7 +3437,15 @@ TABULADORES DE INFRACCIONES Y SANCIONES
 
 Una vez calificadas e impuestas las sanciones dentro de los términos respectivos, las autoridades municipales ejecutoras deberán proceder conforme a las disposiciones aplicables para su ejecución y las personas a quienes en su carácter de infractores y responsables solidarios se les impongan sanciones en los términos del presente Capítulo, tendrán la obligación de cumplir con las mismas.
 
-El Ayuntamiento, por conducto de la Dirección de Seguridad Vial y las demás instancias competentes, conminará a las personas sancionadas para que voluntariamente cumplan con las sanciones impuestas dentro de los plazos establecidos por este Capítulo, apercibiéndolos en su caso, de que si no efectúan el pago de las multas impuestas, éstas se volverán fiscalmente exigibles y se procederá a su ejecución forzosa en términos de la legislación aplicable.
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+
+El Ayuntamiento, por conducto de la Dirección de Seguridad Vial y las demás instancias competentes, señalará los plazos establecidos por este Capítulo, a las personas sancionadas a efecto de que cumplan con el pago respectivo, apercibiéndolos de que en caso de que no efectúen el pago de las multas impuestas, éstas se volverán fiscalmente exigibles y se procederá a su ejecución forzosa en términos de la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+
+###### Artículo 361 Bis.
+
+Cuando por el uso de CINEMÓMETROS se determine una infracción a las disposiciones del presente Capítulo y no se pueda identificar al conductor del vehículo infractor y sea distinto al propietario del mismo, este último será responsable solidario del conductor infractor, por motivo del tránsito de vehículos en atención a la responsabilidad objetiva en que incurre.
 
 ###### Artículo 362.
 
@@ -3891,9 +4035,11 @@ Las disposiciones establecidas en éste Capítulo, deberán ser observadas por l
 
 Se entiende como sitio público para los efectos de éste Capítulo, los edificios de departamentos, industriales, comercios, salas de espectáculos, hospitales, instalaciones deportivas o recreativas, laboratorios o cualquier otro semejante a los anteriores, a juicio del Ayuntamiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2006)</small>
+
 ###### Artículo 409.
 
-Corresponde a la Unidad Operativa Municipal de Protección Civil verificar el cumplimiento de lo establecido en el artículo que antecede, para lo cual todo establecimiento de acuerdo a sus características, debe contar con:
+Corresponde a la Unidad Operativa Municipal de Protección Civil en coordinación con el Departamento de Registro y Fiscalización verificar el cumplimiento de lo establecido en el artículo que antecede para lo cual todo establecimiento de acuerdo a sus características, debe contar con:
 
 I. Extintores;
 
@@ -4085,9 +4231,11 @@ Además, deberán contar con responsivas o certificados de riesgos, en los cuale
 
 DE LAS INSPECCIONES
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+
 ###### Artículo 439.
 
-La Unidad Operativa Municipal de Protección Civil ejercerá las funciones de vigilancia e inspección que le corresponda para asegurarse del estricto cumplimiento de lo dispuesto de lo dispuesto en este Capítulo, lo que hará en todo tipo de establecimiento tanto industriales como comerciales o de servicios, aplicando, en su caso, las sanciones que en este ordenamiento se establecen, cuando no se cumplan las prevenciones impuestas en el mismo; lo anterior sin perjuicio de las facultades que se confieren a otras dependencias federales o estatales en cuanto sus propios ordenamientos y sean aplicables a la materia.
+La Unidad Operativa Municipal de Protección Civil ejercerá las funciones de vigilancia e inspección que le corresponda para asegurarse del estricto cumplimiento de lo dispuesto en este Capítulo, lo que hará en todo tipo de establecimiento tanto industriales como comerciales o de servicios, independientemente de que se coordine con otras unidades municipales que realicen la misma función, aplicando, en su caso, las sanciones que en este ordenamiento se establecen, cuando no se cumplan las prevenciones impuestas en el mismo; lo anterior sin perjuicio de las facultades que se confieren a otras dependencias federales o estatales en cuanto sus propios ordenamientos y sean aplicables a la materia.
 
 ###### Artículo 440.
 
@@ -4327,7 +4475,7 @@ Por diversión o espectáculo público debe entenderse, toda función de esparci
 
 ###### Artículo 476.
 
-Es facultad del C. Presidente Municipal, resolver cualquier duda respecto a la interpretación del presente Capítulo, la aplicación del mismo y sanciones que establece, así como delegar estas facultades en el funcionario que designe.
+(DEROGADO, P.O. 27 DE MARZO DE 2006)
 
 ###### Artículo 477.
 
@@ -4339,9 +4487,11 @@ Todas las construcciones que se ocupen para la presentación de espectáculos p�
 
 DE LAS AUTORIZACIONES
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+
 ###### Artículo 479.
 
-Toda empresa dedicada a la promoción, patrocinio o explotación de espectáculos públicos, requiere para su presentación, de la autorización previa y por escrito de la Autoridad Municipal.
+Toda empresa dedicada a la promoción, patrocinio o explotación de espectáculos públicos, requiere para su presentación, de la autorización previa y por escrito de la Tesorería Municipal a través del Departamento de Registro y Fiscalización.
 
 ###### Artículo 480.
 
@@ -4379,13 +4529,21 @@ VII. Presentar el contrato de arrendamiento en su caso, del inmueble en el que s
 
 VIII. Exhibir los documentos que amparen la contratación de los servicios médicos y de seguridad y vigilancia.
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+
 ###### Artículo 481.
 
-La Autoridad Municipal con vista de la solicitud y demás requisitos contenidos en este Capítulo, dará contestación a la solicitud en un plazo máximo de 10 días hábiles.
+La Autoridad Municipal con vista de la solicitud y demás requisitos contenidos en este Capítulo, dará contestación en un plazo máximo de diez días hábiles contados a partir del día siguiente al que el solicitante exhiba la documentación completa para obtención del permiso, debiendo notificarse la resolución al solicitante.
+
+En caso de que transcurrido el término de referencia el Jefe del Departamento de Registro y Fiscalización no dé contestación por escrito al solicitante, se tendrá por otorgado el permiso, independientemente de la responsabilidad administrativa en que incurra el servidor público.
+
+Contra el acto que emita el Jefe del Departamento de Registro y Fiscalización que niegue el otorgamiento del permiso, el solicitante podrá interponer el recurso el Recurso (sic) de Revisión previsto en el Código Fiscal y Presupuestario para el Municipio de Puebla y su Reglamento.
+
+En el caso de que el Recurso de Revisión se interponga en contra de una negativa ficta, la Dirección General Jurídica Consultiva Municipal dará vista a la Contraloría Municipal.
 
 ###### Artículo 482.
 
-Una vez autorizada la presentación del espectáculo, la empresa con un mínimo de 72 horas de anticipación, presentará ante la Autoridad Municipal el boletaje y las tarjetas de abono que se utilizará en cada función a fin de que sean sellados y registrados.
+(DEROGADO, P.O. 27 DE MARZO DE 2006)
 
 ###### Artículo 483.
 
@@ -4397,13 +4555,15 @@ La Autoridad Municipal podrá autorizar también, por una sola vez el aumento de
 
 ###### Artículo 485.
 
-Las reducciones o subsidios para el pago del impuesto sobre espectáculos públicos sólo se concederán de conformidad con lo establecido en el Articulo 45 de la Ley de Hacienda del Municipio de puebla.
+(DEROGADO, P.O. 27 DE MARZO DE 2006)
 
 DE LOS ESPECTÁCULOS PROVISIONALES
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+
 ###### Artículo 486.
 
-La instalación de carpas, circos, plazas de toros portátiles, aparatos mecánicos y similares en parques, lotes o vía pública, requiere también de autorización de la Autoridad Municipal. Para el caso de los juegos mecánicos, se deberá presentar, a criterio de la Autoridad Municipal, un escrito de los vecinos, a través del cual, manifiesten que no existe inconveniente para la instalación de los aparatos; excepto en las fiestas profano religiosas tradicionales que tengan diez años o más de celebrarse.
+La instalación de carpas, circos, plazas de toros portátiles, aparatos mecánicos y similares en parques, lotes o vía pública, requiere de autorización de la Tesorería Municipal a través del Departamento de Registro y Fiscalización. Para el caso de los juegos mecánicos, se deberá presentar, al Departamento de Registro y Fiscalización, un escrito de los vecinos, a través del cual, manifiesten que no existe inconveniente para la instalación de los aparatos; excepto en las fiestas profano religiosas tradicionales que tengan diez años o más de celebrarse.
 
 ###### Artículo 487.
 
@@ -4473,9 +4633,11 @@ II. La reincidencia del infractor; y
 
 III. La (sic) circunstancias de tiempo, modo y lugar en que se (sic) haya sido cometida la infracción.
 
-### CAPÍTULO 15. ESTABLECIMIENTOS COMERCIALES, INDUSTRIALES Y DE SERVICIOS
+### CAPÍTULO 15. ESTABLECIMIENTOS DE GIROS COMERCIALES AUTORIZADOS
 
 DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
 
 ###### Artículo 493.
 
@@ -4747,9 +4909,11 @@ Las Plazas de Toros quedarán sujetas a la estricta vigilancia de la Autoridad M
 
 Cada Plaza deberá contar en el equipo mínimo indispensable para combatir incendios. El Departamento del Cuerpo de Bomberos vigilará el cumplimiento de esta disposición.
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+
 ###### Artículo 515.
 
-Las Plazas de Toros actualmente existentes, serán acondicionadas de acuerdo con lo que establece este Capítulo dentro del plazo que fije la Presidencia Municipal, ajustándose al dictamen que rinda la Dirección de Desarrollo Urbano y las demás Unidades Administrativas que resulten competentes.
+Las Plazas de Toros, deberán observar para su funcionamiento lo dispuesto en el presente Capitulo.
 
 DE LOS ESPECTÁCULOS TAURINOS
 
@@ -5393,7 +5557,9 @@ II. La venta de derechos de abono o apartado, se sujetará a las siguientes regl
 
 a). Se concederá preferencia para la adquisición del derecho de apartado de los tenedores de esa franquicia en la temporada anterior;
 
-b). La Secretaría de Gobernación del Ayuntamiento, podrá revisar en todo momento, los documentos en que consten los nombres de los tenedores del derecho de abono o apartado y ordenar la cancelación de los derechos correspondientes, cuando compruebe que son o han sido de origen de una reventa ilegal;
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+
+b). El Departamento de Registro y Fiscalización, podrá revisar en todo momento, los documentos en que consten los nombres de los tenedores del derecho de abono o apartado y ordenar la cancelación de los derechos correspondientes, cuando compruebe que son o han sido de origen de una reventa ilegal, observando la garantía de audiencia;
 
 c). Para poder vender el derecho de abono o apartado, deberá anunciarse completo el elenco de matadores con especificación del número de corridas que cada uno tenga contratadas, así como también las ganaderías contratadas, con especificación del número de encierros que a cada una corresponda, no pudiendo hacerse el anuncio de elementos no contratados, ni aún a título “pendientes de contrato“. Los contratos correspondientes al número de encierros enunciados en el derecho de apartado, deberán haber sido celebrados con los ganaderos, cuando menos con dos meses de anticipación a la venta del derecho de apartado. En tanto que los contratos de los actuantes deberán haber sido celebrados cuando menos quince días de anticipación a la venta señalada, lo que no tendrá efectos cuando se trate de novilladas;
 
@@ -5441,7 +5607,9 @@ d). Contratos respectivos celebrados con toreros y ganaderos.
 
 En ningún caso se permitirá la venta de boletos al público, si no ha sido aprobado el Programa en los términos de este Capítulo.
 
-En el caso de que por fuerza mayor, sea necesario hacer algún cambio, la Empresa recabará previamente el permiso de la Autoridad para realizarlo y si tiene tiempo para ello, lo anunciará por medio de la Prensa y de carteles murales; en caso contrario, lo hará con cuatro horas de anticipación, por lo menos, a la celebración del festejo por medio de carteles o pizarrones que se fijarán en el exterior de la Plaza; y forzosamente, en todas y cada una de las taquillas y puertas de entrada.
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+
+En el caso de que por fuerza mayor, sea necesario hacer algún cambio, la Empresa recabará previamente el permiso para realizarlo de la Tesorería Municipal a través del Departamento de Registro y Fiscalización, autoridad que además determinará, atendiendo a la fecha y hora del evento, su anuncio por cualquier medio de comunicación masiva y de carteles murales, pero en todo caso será forzoso dicho anuncio por medio de carteles o pizarrones que se fijarán en el exterior de la Plaza y en todas y cada una de las taquillas y puertas de entrada con cuatro horas de anticipación, por lo menos, a la celebración del evento.
 
 ###### Artículo 586.
 
@@ -5583,51 +5751,81 @@ La venta de bebidas alcohólicas sólo podrá realizarse en los tipos de estable
 
 Los establecimientos a que se refieren las fracciones I, II, III, VIII, XV y XVIII del artículo 611 del presente Código que menciona los tipos de establecimientos, no están autorizados para permitir el consumo de bebidas alcohólicas dentro de los mismos; por lo que el consumo de éstas sólo podrá realizarse en los locales o áreas en que operan los establecimientos que señale este Capítulo en las fracciones IV, V, VI, VII, IX, X, XI, XII, XIII, XIV, XVI, XVII y XIX del citado artículo.
 
-Para la venta y consumo de bebidas alcohólicas, permisos y horarios a que se refiere este Capítulo, los establecimientos a que se refiere la fracción XX del artículo mencionado, quedarán sujetos a las restricciones o condiciones especiales que determine en uso de sus facultades el C. Presidente Municipal o el funcionario designado por el mismo, en términos de lo dispuesto por el presente Capítulo.
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+
+Para la venta y consumo de bebidas alcohólicas, permisos y horarios a que se refiere este Capitulo, los establecimientos a que hace mención la fracción XX del artículo citado, quedarán sujetos a las restricciones y condiciones que se determinen para los establecimientos definidos en el artículo 611 del presente Código, que por sus características puedan homologarse al caso especifico de que se trate.
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
 
 ###### Artículo 604.
 
-Para la apertura y funcionamiento de establecimientos en los que se vendan, enajenen o consuman bebidas alcohólicas, se requiere licencia de funcionamiento expedida por la Tesorería Municipal, en los términos y condiciones señalados en el Código Fiscal y Presupuestario para el Municipio de Puebla; así como en la Ley de Ingresos del Municipio de Puebla para el Ejercicio Fiscal correspondiente, en el Capítulo de Construcciones y el presente capítulo del Código Reglamentario.
+Para la apertura y funcionamiento de establecimientos en los que se vendan, enajenen o consuman bebidas alcohólicas, se requiere licencia de funcionamiento expedida por la Tesorería Municipal a través del Departamento de Registro y Fiscalización, en los términos y condiciones señalados en el Código Fiscal y Presupuestario para el Municipio de Puebla; así como en la Ley de Ingresos del Municipio de Puebla para el Ejercicio Fiscal correspondiente, y en el presente Código Reglamentario.
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
 
 ###### Artículo 605.
 
-Para el caso de eventos temporales que impliquen el proceso, almacenamiento, enajenación o venta de bebidas alcohólicas en botella abierta o cerrada, a solicitud del interesado y previo pago de los derechos correspondientes, la Tesorería Municipal a través de la Unidad Administrativa que tenga a su cargo la expedición de licencias de funcionamiento, otorgará una licencia provisional.
+Para el caso de eventos temporales que impliquen el proceso, almacenamiento, enajenación o venta de bebidas alcohólicas en botella abierta o cerrada, a solicitud del interesado y previo pago de los derechos correspondientes, la Tesorería Municipal a través del Departamento de Registro y Fiscalización, otorgará una licencia provisional.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2006)</small>
 
 ###### Artículo 606.
 
-Las licencias de funcionamiento expedidas a favor de personas físicas o morales, sólo podrán ser transferidas si se encuentran funcionando los establecimientos y cumplen con los requisitos establecidos en el Código Fiscal y Presupuestario para el Municipio de Puebla y su Reglamento, así como que la citada transferencia conste ante la Tesorería Municipal.
+Las licencias de funcionamiento expedidas a favor de personas físicas o morales, sólo podrán ser transferidas si se encuentran funcionando los establecimientos y cumplen con los requisitos establecidos en el presente Capítulo.
 
-Se hará constar la transferencia a que se refiere el párrafo anterior, ante la Tesorería Municipal, reuniendo el licenciatario los siguientes documentos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2006)</small>
 
-a) Formato de transferencia de propietario expedido por el Departamento de Padrón de Contribuyentes;
+Se hará constar la transferencia a que se refiere el párrafo anterior, ante la Tesorería Municipal a través del Departamento de Registro y Fiscalización, reuniendo el licenciatario los siguientes documentos:
 
-b) Licencia de funcionamiento original, expedida por la Tesorería Municipal;
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
 
-c) Alta de Hacienda del nuevo propietario;
+a) Formato de transferencia de propietario;
 
-d) Baja de Hacienda del anterior propietario;
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
 
-e) Identificación oficial de ambos contribuyentes. Para el caso de realizar el trámite a través de un gestor, éste deberá observar lo establecido en el Artículo 38 del Código Fiscal y Presupuestario para el Municipio de Puebla;
-
-f) Acta Constitutiva y Poder Notarial, para personas morales;
-
-g) Acta de Cesión de Derechos ante Notario Público; y
-
-h) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio aplicable.
+b) Licencia de funcionamiento original, expedida por la Tesorería Municipal a través del Departamento de Registro y Fiscalización;
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2006)</small>
 
+c) Alta de Hacienda del nuevo propietario;
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2006)</small>
+
+d) Baja de Hacienda del anterior propietario;
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2006)</small>
+
+e) Identificación oficial de ambos contribuyentes. Para el caso de realizar el trámite a través de un gestor, éste deberá observar lo establecido en el Artículo 38 del Código Fiscal y Presupuestario para el Municipio de Puebla;
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2006)</small>
+
+f) Acta Constitutiva y Poder Notarial, para personas morales;
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2006)</small>
+
+g) Acta de Cesión de Derechos ante Notario Público; y
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2006)</small>
+
+h) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio aplicable.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2006)</small>
+
 ###### Artículo 607.
 
-Para realizar el trámite de refrendo anual o solicitar la suspensión o baja de la licencia de funcionamiento ante la Tesorería Municipal, los interesados deberán contar con los siguientes documentos:
+Para realizar el trámite de refrendo anual o solicitar la suspensión o baja de la licencia de funcionamiento ante la Tesorería Municipal a través del Departamento de Registro y Fiscalización, los interesados deberán reunir y presentar los siguientes documentos:
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2006)</small>
 
 I. Para el refrendo de las licencias a que se refiere este Capítulo:
 
-a) Formato de Refrendo que será expedido por el Departamento de Padrón de Contribuyentes;
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
 
-b) Licencia de funcionamiento original, expedida por la Tesorería Municipal;
+a) Formato de Refrendo;
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+
+b) Licencia de funcionamiento original, expedida por la Tesorería Municipal a través del Departamento de Registro y Fiscalización;
 
 c) Identificación oficial. Para el caso de realizar el trámite a través de un gestor, éste deberá observar lo establecido en el artículo 38 del Código Fiscal y Presupuestario para el Municipio de Puebla;
 
@@ -5635,23 +5833,45 @@ d) Acta Constitutiva y Poder Notarial, para personas morales; y
 
 e) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio aplicable.
 
-La autoridad municipal, en un término no mayor a cinco días hábiles, deberá otorgar el tarjetón de refrendo correspondiente siempre que se cumplan con los requisitos señalados en el presente Capítulo.
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
 
-En caso de no otorgarse el refrendo se hará la devolución del pago de derechos a través de las cajas de la Tesorería Municipal. Los licenciatarios estarán obligados al pago de los gastos de trámite de refrendo, pagando el 2% sobre el importe total por el concepto de refrendo.
+El Jefe del Departamento de Registro y Fiscalización, en un término no mayor a diez días hábiles contados a partir del día hábil siguiente en que reciba la solicitud, deberá otorgar el tarjetón de refrendo correspondiente, siempre que se cumplan con los requisitos señalados anteriormente, debiendo notificarse la resolución al solicitante.
 
-Contra el acto que emita la autoridad municipal encargada del otorgamiento del tarjetón de refrendo, el licenciatario podrá interponer el recurso de Inconformidad previsto en la Ley Orgánica Municipal del Estado de Puebla.
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+
+En caso de que transcurrido el término de referencia el Jefe del Departamento de Registro y Fiscalización no dé contestación por escrito al solicitante, se tendrá por negada la solicitud, independientemente de la responsabilidad administrativa en que incurra el servidor público.
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+
+Contra el acto que emita el Jefe del Departamento de Registro y Fiscalización que niegue el otorgamiento del tarjetón de refrendo, el licenciatario podrá interponer el Recurso de Revisión previsto en el Código Fiscal y Presupuestario para el Municipio de Puebla y su Reglamento.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+
+En el caso de que el Recurso de Revisión se interponga en contra de una negativa ficta, la Dirección General Jurídica Consultiva Municipal dará vista a la Contraloría Municipal.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+
+De no otorgarse el tarjetón de refrendo la Tesorería Municipal hará la devolución al solicitante del pago de derechos a través de las cajas a su cargo. Los licenciatarios estarán obligados al pago de los gastos de trámite del tarjetón de refrendo negado, pagando el 2% sobre el importe total por el concepto del mismo.
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2006)</small>
 
 II. Para la constancia de suspensión temporal de la licencia:
 
-a) Licencia de funcionamiento original expedida por la Tesorería Municipal; y
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+
+a) Licencia de funcionamiento original expedida por la Tesorería Municipal a través del Departamento de Registro y Fiscalización; y
 
 b) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio aplicable.
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2006)</small>
 
 III. Para la baja de la licencia de funcionamiento:
 
 a) Formato de baja de la licencia de funcionamiento:
 
-b) Licencia de funcionamiento original expedida por la Tesorería Municipal;
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+
+b) Licencia de funcionamiento original expedida por la Tesorería Municipal a través del Departamento de Registro y Fiscalización;
 
 c) Suspensión de actividades presentada ante la Secretaría de Hacienda y Crédito Público;
 
@@ -5659,7 +5879,13 @@ d) Identificación oficial o Acta Constitutiva y Poder Notarial. Para el caso de
 
 e) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio aplicable.
 
-Para la reposición del tarjetón de refrendo, constancia de suspensión temporal o constancia de baja de la licencia de funcionamiento, por extravío o destrucción parcial o total, se pagarán los derechos que contemple la Ley de Ingresos del Municipio vigente.
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+
+La Tesorería Municipal a través del Departamento de Registro y Fiscalización entregará los formatos a que se refiere el presente artículo, no pudiendo solicitar requisito adicional alguno a los expresamente mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+
+Para la reposición del tarjetón de refrendo, constancia de suspensión temporal o constancia de baja de la licencia de funcionamiento, por extravío o destrucción parcial o total, se pagarán los derechos que contemple la Ley de Ingresos del Municipio vigente. En este caso el solicitante deberá proporcionar sus datos personales, los de la negociación y la fecha de expedición de la licencia.
 
 ###### Artículo 608.
 
@@ -5677,9 +5903,11 @@ II. Restringir, ampliar o sujetar a condiciones especiales las licencias, autori
 
 III. Las demás que le confiera el presente ordenamiento.
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+
 ###### Artículo 610.
 
-La Dirección de Padrón de Contribuyentes, debe llevar un registro mensual sobre las altas, bajas y suspensiones de las Licencias y autorizaciones de funcionamiento de los giros mercantiles que enajenen o expendan bebidas alcohólicas en forma total o parcial, con público en general a que se refiere este Capítulo, respecto del cual rendirá por escrito un informe mensual al Ayuntamiento, en cada Sesión Ordinaria de Cabildo.
+El Departamento de Registro y Fiscalización, debe llevar un registro actualizado sobre las altas, bajas y suspensiones de las licencias de funcionamiento de los giros mercantiles que enajenen o expendan bebidas alcohólicas en forma total o parcial, con público en general a que se refiere este Capítulo, respecto del cual rendirá por escrito un informe mensual al Ayuntamiento, en cada Sesión Ordinaria de Cabildo.
 
 DE LOS ESTABLECIMIENTOS
 
@@ -5715,7 +5943,9 @@ XIII. HOTEL Y MOTEL CON SERVICIO DE RESTAURANTE BAR. Establecimiento mercantil q
 
 XIV. SALÓN SOCIAL. Establecimiento mercantil cuya actividad preponderante es la renta para cualquier evento y que cuenta con pista para bailar e instalaciones para presentación de espectáculos o variedades, orquesta, conjunto musical, música grabada o videograbada y tiene servicio de restaurante. Queda estrictamente prohibido en este tipo de establecimientos, la venta al público en general de bebidas alcohólicas, salvo cuando presenten espectáculos autorizados por el Ayuntamiento, de conformidad con las disposiciones señaladas en el Capítulo de Espectáculos de este Código Reglamentario;
 
-XV. TIENDA DE AUTOSERVICIO O DEPARTAMENTAL CON VENTA DE BEBIDAS ALCOHOLICAS EN BOTELLA CERRADA. Establecimiento mercantil que además de contar con diferentes departamentos, expende bebidas alcohólicas en botella cerrada;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+
+XV. TIENDA DE AUTOSERVICIO O DEPARTAMENTAL CON VENTA DE BEBIDAS ALCOHÓLICAS EN BOTELLA CERRADA LAS 24 HORAS. Establecimiento mercantil que además de contar con diferentes departamentos, expende bebidas alcohólicas en botella cerrada las 24 horas;
 
 XVI. DISCOTECA. Establecimiento mercantil que cuenta con pista para bailar con música en vivo, grabada o videograbada, y cuenta además con servicio de bar y opcionalmente restaurante;
 
@@ -5743,21 +5973,25 @@ III. Cumplir con todos los requisitos establecidos por el Código Fiscal y Presu
 
 IV. Que la Licencia sea explotada por la persona física o moral a favor de quien se expidió la misma;
 
-V. Estar a una distancia mayor a 200 metros de centros educativos, salvo los establecimientos señalados en las fracciones I, II, III, V, VI, VIII, IX, XII, XIII, XIV, XV, XVIII y XIX del artículo 611 del presente Código;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+
+V. Estar a una distancia mayor de 200 metros de centros educativos, salvo el establecimiento señalado en la fracción XIV del artículo 611 del presente Código;
 
 VI. En los lugares considerados en los programas de desarrollo urbano sectoriales o parciales, se tomará en cuenta la zonificación prevista en ellos;
 
 VII. Estar incomunicados en su interior con habitaciones o cualquier otro local ajeno al establecimiento;
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
 
-VIII. Dar aviso a la Tesorería Municipal de la suspensión de actividades, cambio de propietario, de denominación o domicilio, de giro comercial, aumento o disminución de giro del establecimiento mercantil dentro de los treinta días hábiles siguientes al trámite realizado ante la Secretaría de Hacienda y Crédito Público.
+VIII. Dar aviso a la Tesorería Municipal a través del Departamento de Registro y Fiscalización de la suspensión de actividades, cambio de propietario, de denominación o domicilio, de giro comercial, aumento o disminución de giro del establecimiento mercantil dentro de los treinta días hábiles siguientes al trámite realizado ante la Secretaría de Hacienda y Crédito Público.
 
 > <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2006)</small>
 
 Para el cambio de domicilio y cambio de giro comercial a que se refiere la fracción anterior, deberán reunirse los siguientes requisitos:
 
-I. Por cambio de domicilio del giro comercial:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2006)</small>
+
+A. Por cambio de domicilio del giro comercial:
 
 a) Formato de cambio de domicilio del giro comercial;
 
@@ -5765,19 +5999,29 @@ b) Dictamen de compatibilidad de Uso de Suelo expedido por la Unidad Administrat
 
 c) Comprobante del pago de derechos por el Uso de Suelo; y
 
-d) Licencia de funcionamiento original expedida por la Tesorería Municipal.
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
 
-II. Por cambio del giro comercial:
+d) Licencia de funcionamiento original expedida por la Tesorería Municipal a través del Departamento de Registro y Fiscalización.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2006)</small>
+
+B. Por cambio de giro comercial:
 
 a) Formato de cambio del giro comercial;
 
 b) Dictamen de Compatibilidad de Uso de Suelo expedido por la Unidad Administrativa competente;
 
-c) Licencia de funcionamiento original expedida por la Tesorería Municipal;
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+
+c) Licencia de funcionamiento original expedida por la Tesorería Municipal a través del Departamento de Registro y Fiscalización;
 
 d) Aviso en Hacienda de cambio de giro comercial; y
 
 e) Pago de derecho (sic) que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio aplicable.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+
+La Tesorería Municipal a través del Departamento de Registro y Fiscalización entregará los formatos a que se refiere el presente artículo, no pudiendo solicitar requisito adicional alguno a los expresamente mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
 
 ###### Artículo 613.
 
@@ -5789,11 +6033,15 @@ DE LAS OBLIGACIONES Y PROHIBICIONES DE LOS TITULARES DE LAS LICENCIAS
 
 Son obligaciones de los licenciatarios:
 
-I. Contar con la licencia de funcionamiento correspondiente, expedida por la Tesorería Municipal antes de iniciar sus actividades o llevar a cabo un evento temporal.
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+
+I. Contar con la licencia de funcionamiento correspondiente, expedida por la Tesorería Municipal a través del Departamento de Registro y Fiscalización antes de iniciar sus actividades o llevar a cabo un evento temporal;
 
 II. Destinar el establecimiento únicamente al giro autorizado en la licencia de funcionamiento;
 
-III. Tener en un lugar visible del establecimiento, el original de la licencia de funcionamiento expedida por la Tesorería Municipal, y en su caso, del comprobante que demuestre que se encuentra al corriente del refrendo;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+
+III. Tener en un lugar visible del establecimiento, el original de la licencia de funcionamiento expedida por la Tesorería Municipal a través del Departamento de Registro y Fiscalización, y en su caso, del comprobante que demuestre que se encuentra al corriente del refrendo;
 
 IV. Contar con el dictamen de Medidas Preventivas Contra Incendios expedido por el Departamento de Bomberos y fijarlo en un lugar visible dentro del establecimiento;
 
@@ -5811,9 +6059,17 @@ X. Solicitar al cliente que consuma bebidas alcohólicas en los establecimientos
 
 XI. Notificar oportunamente a la autoridad competente, de cualquier escándalo o riña que se registre en el interior o exterior de su local;
 
-XII. Cuando por cualquier circunstancia, no se inicien las actividades del establecimiento o éstas sean suspendidas, el licenciatario dentro de los 120 días naturales siguientes, deberá dar aviso a la Tesorería Municipal, manifestando el motivo, así como el tiempo durante el cual permanecerá sin funcionar; y
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
 
-XIII. Las demás que se señalan en este Capítulo y otras disposiciones legales aplicables.
+XII. Cuando por cualquier circunstancia, no se inicien las actividades del establecimiento o éstas sean suspendidas, el licenciatario dentro de los 120 días naturales siguientes, deberá dar aviso a la Tesorería Municipal a través del Departamento de Registro y Fiscalización, manifestando el motivo, así como el tiempo durante el cual permanecerá sin funcionar;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MARZO DE 2006)</small>
+
+XIII. Los establecimientos a que hace referencia las fracciones I, II y XV del artículo 611 del presente Capítulo, deberán contar con licencia de sustancias susceptibles de inhalación y efectos tóxicos, expedida por la Tesorería Municipal a través del Departamento de Registro y Fiscalización. Para la obtención de la misma, los licenciatarios deberán cumplir con lo establecido en el artículo 1932 del presente ordenamiento legal;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE MARZO DE 2006)</small>
+
+XIV. Las demás que se señalan en este Capítulo y otras disposiciones legales aplicables.
 
 ###### Artículo 615.
 
@@ -5951,9 +6207,11 @@ IV. Clausura definitiva y cancelación de la licencia de funcionamiento.
 
 A las personas que vendan o enajenen bebidas alcohólicas en la vía pública se les sancionará con arresto hasta por treinta y seis horas no conmutable con multa, así como decomiso de la mercancía.
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+
 ###### Artículo 619.
 
-Los establecimientos que expendan bebidas alcohólicas sin licencia de funcionamiento como tales, serán sancionados con multa de 500 días de salario mínimo y además serán clausurados de inmediato, cancelándose la licencia que se hubiere otorgado por un giro diverso.
+Los establecimientos que expendan bebidas alcohólicas sin licencia de funcionamiento, serán sancionados por el Departamento de Registro y Fiscalización con multa de 100 a 500 días de salario mínimo general diario vigente para el Estado de Puebla y además serán clausurados en forma definitiva.
 
 ###### Artículo 620.
 
@@ -5969,7 +6227,7 @@ IV. Las circunstancias de tiempo y lugar en que haya sido cometida la infracció
 
 ###### Artículo 621.
 
-Para proceder a la cancelación de cualquier licencia de funcionamiento de un establecimiento se requiere de audiencia previa del interesado, en la que se concederá al licenciatario oportunidad de presentación de pruebas y alegatos.
+(DEROGADO, P.O. 27 DE MARZO DE 2006)
 
 ###### Artículo 622.
 
@@ -5983,7 +6241,7 @@ Para los efectos de este Capítulo, será considerado como reincidente aquel est
 
 Los establecimientos a los que se refiere este Capítulo, en los que ocurran hechos que incidan en la seguridad de los clientes o personas que concurran al establecimiento y representen graves consecuencias, deberán ser clausurados y/o se cancelará su licencia de funcionamiento.
 
-Queda a juicio del Presidente Municipal determinar si la clausura es definitiva o temporal, según estudio y resolución en cada caso, pudiendo delegar esta facultad en el funcionario que para tal efecto designe.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 27 DE MARZO DE 2006)</small>
 
 ###### Artículo 625.
 
@@ -5993,9 +6251,13 @@ Se concede acción popular para denunciar ante las Autoridades Municipales, a lo
 
 El Presidente Municipal a través de la dependencia correspondiente implementará los operativos dirigidos a verificar que los establecimientos a que se refiere el presente Capítulo respeten los horarios establecidos en el mismo.
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+
 ###### Artículo 626.
 
-Contra cualquier acto de las autoridades municipales encargadas de la aplicación del presente ordenamiento, el particular podrá interponer el recurso de Inconformidad previsto en la Ley Orgánica Municipal del Estado de Puebla.
+Contra cualquier acto de las autoridades fiscales municipales encargadas de la aplicación del presente ordenamiento, el particular podrá interponer el Recurso de Revisión previsto en el Código Fiscal y Presupuestario para el Municipio de Puebla y su Reglamento.
+
+> <small>(REFORMADO EN SU DENOMINACION, P.O. 27 DE MARZO DE 2006)</small>
 
 ### CAPÍTULO 17. CONSTRUCCIONES
 
@@ -6003,39 +6265,1045 @@ DISPOSICIONES GENERALES
 
 ###### Artículo 627.
 
-El presente Capítulo tiene por objeto regular el funcionamiento de los establecimientos industriales, comerciales y de servicios en el Municipio de Puebla.
+El presente Capítulo tiene por objeto regular el funcionamiento de los establecimientos de giros comerciales complementarios, industriales y de servicios en el Municipio de Puebla.
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
 
 ###### Artículo 628.
 
-Se exceptúan de este Capítulo, todos los establecimientos que sean objeto de Capítulo específico dentro del presente Código Reglamentario.
+Son sujetos del presente Capítulo, los siguientes establecimientos:
+
+I.- COMERCIOS COMPLEMENTARlOS:
+
+1. AGROPECUARIO
+
+2. COMPRA VENTA DE ABONOS, FERTILIZANTES E INSECTICIDAS
+
+3. COMPRA VENTA DE ALIMENTOS PARA ANIMALES
+
+4. COMPRA VENTA DE ARTÍCULOS AGROPECUARIOS EN GENERAL
+
+5. COMPRA VENTA DE SEMILLAS Y FORRAJES
+
+6. ALIMENTOS
+
+7. ABARROTES
+
+8. ANTOJITOS
+
+9. ANTOJITOS, JUGOS y LlCUADOS
+
+10. CAFETERÍA Y FUENTE DE SODAS
+
+11. CAFETERÍA Y FARMACIA
+
+12. CAFETERÍA Y LIBRERÍA
+
+13. CARNES FRÍAS Y EMBUTIDOS
+
+14. CARNICERÍA Y RECAUDERÍA
+
+15. CARNICERÍA Y POLLERÍA
+
+16. COCINA ECONÓMICA
+
+17. DlSTRIBUIDORA Y COMERCIALIZADORA DE PRODUCTOS ALIMENTICIOS
+
+18. DULCERÍA Y REGALOS
+
+19. DULCERÍA, CONFITERÍA Y TÍPICOS
+
+20. EXPENDIO DE GRANOS, SEMILLAS Y CONDIMENTOS
+
+21. EXPENDIO DE HUEVO
+
+22. EXPENDIO DE MATERIAS PRIMAS ALIMENTICIAS
+
+23. EXPENDIO DE PRODUCTOS LÁCTEOS Y EMBUTIDOS
+
+24. FONDA
+
+25. FUENTE DE SODAS
+
+26. MARlSQUERÍA
+
+27. MISCELÁNEA
+
+28. PALETERÍA Y HELADOS
+
+29. PANADERÍA
+
+30. PANADERÍA Y PASTELERÍA
+
+31. PASTELERÍA Y CONFITERÍA
+
+32. PESCADERÍA Y RECAUDERÍA
+
+33. PIZZERÍA
+
+34. POLLERÍA Y RECAUDERÍA
+
+35. POLLERÍA Y ROSTICERÍA
+
+36. RECAUDERÍA
+
+37. RESTAURANTE SIN VENTA DE BEBIDAS ALCOHÓLICAS
+
+38. RESTAURANTE VEGETARIANO
+
+39. ROSTICERÍA
+
+40. TIENDA DE PRODUCTOS NATURlSTAS
+
+41. ULTRAMARINOS
+
+42. OTROS COMERCIOS ALIMENTICIOS
+
+43. APARATOS
+
+44. COMPRA VENTA DE APARATOS E INSTRUMENTOS AGRÍCOLAS
+
+45. COMPRA VENTA DE APARATOS E INSTRUMENTOS CIENTÍFICOS
+
+46. COMPRA VENTA DE APARATOS E INSTRUMENTOS DE PRECISIÓN
+
+47. COMPRA VENTA DE APARATOS E INSTRUMENTOS MÉDICOS Y DE LABORATORIO
+
+48. COMPRA VENTA DE APARATOS E INSTRUMENTOS ORTOPÉDICOS
+
+49. COMPRA VENTA DE APARATOS ELECTROMECÁNICOS
+
+50. COMPRA VENTA DE APARATOS ELECTRÓNICOS Y ELECTRODOMÉSTICOS
+
+51. COMPRA VENTA DE APARATOS Y ACCESORIOS DE TELEFONÍA E INSTRUMENTOS
+
+52. COMPRA VENTA DE APARATOS Y ACCESORIOS DENTALES
+
+53. COMPRA VENTA DE OTROS APARATOS E INSTRUMENTOS
+
+54. BODEGAS
+
+55. BODEGA DE DISTRIBUCIÓN
+
+56. BODEGA DE EXHIBICIÓN
+
+57. BODEGA DE EXPLOSIVOS, CORROSIVOS, INFLAMABLES Y/O TÓXICOS
+
+58. BODEGA DE NO PERECEDEROS
+
+59. BODEGA DE PERECEDEROS
+
+60. BODEGA DE PRODUCTOS E INSUMOS AGROPECUARIOS
+
+61. BODEGA DE PRODUCTOS E INSUMOS INDUSTRIALES
+
+62. BODEGA SIN INGRESOS
+
+63. OTRO TIPO DE BODEGA
+
+64. MAQUINARIA Y EQUIPO
+
+65. COMPRA VENTA DE EQUIPO FOTOGRÁFICO, ELECTRÓNICO Y ELECTRODOMÉSTICO
+
+66. COMPRA VENTA DE EQUIPO FOTOGRÁFICO, REVELADO E IMPRESIÓN
+
+67. COMPRA VENTA DE EQUIPO PARA COMERCIO Y OFICINA
+
+68. COMPRA VENTA DE EQUIPOS Y ACCESORIOS INDUSTRIALES
+
+69. COMPRA VENTA DE EQUIPOS Y SISTEMAS DE CONTROL AMBIENTAL
+
+70. COMPRA VENTA, CONSIGNACIÓN DE EQUIPO DE CÓMPUTO
+
+71. COMPRA VENTA, CONSIGNACIÓN DE MAQUINARIA Y EQUIPO AGROPECUARIO
+
+72. COMPRA VENTA, CONSIGNACIÓN DE MAQUINARIA Y EQUIPO PESADO
+
+73. EQUIPAMIENTO y SERVICIO DE ALBERCAS
+
+74. OTRO TIPO DE MAQUINARIA Y EQUIPO
+
+75. MASCOTAS
+
+76. ACUARIO
+
+77. FARMACIA VETERINARIA
+
+78. ESTÉTICA VETERINARIA
+
+79. TIENDA DE ANIMALES Y ACCESORIOS
+
+80. REFACCIONARIA
+
+81. COMPRA VENTA DE AMORTIGUADORES
+
+82. COMPRA VENTA DE MOTORES NUEVOS Y USADOS
+
+83. COMPRA VENTA DE RADIADORES Y MOFLES
+
+84. PARTES PARA AUTOMÓVILES
+
+85. PARTES PARA BICICLETAS Y MOTOCICLETAS
+
+86. PARTES PARA ELECTRÓNICOS Y ELECTRODOMÉSTICOS
+
+87. PARTES PARA EQUIPO DE CÓMPUTO
+
+88. PARTES PARA MÁQUINAS Y HERRAMIENTAS
+
+89. PARTES PARA MOTORES Y BOMBAS
+
+90. REFACCIONARIA EN GENERAL
+
+91. OTRAS REFACCIONARIAS
+
+92. TRANSPORTES
+
+93. AGENCIA DE AUTOS, REFACCIONES Y SERVICIOS
+
+94. AGENCIA DE AUTOS SEMINUEVOS
+
+95. AGENCIA DE AUTOS Y CAMIONES
+
+96. AGENCIA DE BICICLETAS
+
+97. AGENCIA DE CAMIONES Y TRAILERS
+
+98. AGENCIA DE MOTOCICLETAS
+
+99. COMPRA VENTA DE CAMPERS, CASETAS y REDILAS
+
+100. OTRO TIPO DE TRANSPORTE
+
+101. OTROS COMERCIOS
+
+102. ACCESORIOS PARA ARTES GRÁFICAS
+
+103. BAZAR DE ANTIGÜEDADES Y ARTESANÍAS
+
+104. BISUTERÍA
+
+105. BONETERÍA, CORSETERÍA y MERCERÍA
+
+106. BOTICA
+
+107. BOUTIQUE
+
+108. COMPRA VENTA DE ABRASIVOS Y CORROSIVOS
+
+109. COMPRA VENTA DE ACCESORIOS PARA AUTOMÓVILES
+
+110. COMPRA VENTA DE ARTESANÍAS
+
+111. COMPRA VENTA DE ARTÍCULOS DE CERA Y PARAFINA
+
+112. COMPRA VENTA DE ARTÍCULOS DE ÓNIX, MÁRMOL, GRANITO Y BARRO
+
+113. COMPRA VENTA DE ARTÍCULOS DEPORTIVOS Y ARMERÍA
+
+114. COMPRA VENTA DE ARTÍCULOS DEPORTIVOS Y EQUIPO MILITAR
+
+115. COMPRA VENTA DE ARTÍCULOS DESECHABLES
+
+116. COMPRA VENTA DE ARTÍCULOS PARA DECORACIÓN
+
+117. COMPRA VENTA DE ARTÍCULOS PARA MANUALIDADES
+
+118. COMPRA VENTA DE ARTÍCULOS RELIGIOSOS Y VINOS PARA CONSAGRAR
+
+119. COMPRA VENTA DE ARTÍCULOS Y ACCESORIOS PARA COCINAS Y BAÑOS
+
+120. COMPRA VENTA DE ARTÍCULOS Y UTENSILIOS PARA EL HOGAR
+
+121. CRISTALERÍA
+
+122. COMPRA VENTA DE CANDILES, LÁMPARAS Y ARBOTANTES
+
+123. COMPRA VENTA DE COMBUSTIBLES Y LUBRICANTES
+
+124. OTROS COMERCIOS
+
+125. COMPRA VENTA DE EMPAQUES Y ENVASES DE TODO TIPO
+
+126. COMPRA VENTA DE ESTAMBRE
+
+127. COMPRA VENTA DE HULE ESPUMA Y BORRA
+
+128. COMPRA VENTA DE IMPERMEABILIZANTES y ADITIVOS PARA CONCRETO
+
+129. COMPRA VENTA DE INSTRUMENTOS MUSICALES
+
+130. COMPRA VENTA DE LONAS Y PLÁSTICOS EN GENERAL
+
+131. COMPRA VENTA DE MATERIAL DE EMPAQUE
+
+132. COMPRA VENTA DE MATERIAL ELÉCTRICO
+
+133. COMPRA VENTA DE MATERIALES PARA LA CONSTRUCCIÓN
+
+134. COMPRA VENTA DE PAPEL Y CARTÓN NUEVO
+
+135. COMPRA VENTA DE PINTURAS, SOLVENTES E IMPERMEABILIZANTES
+
+136. COMPRA VENTA DE PISOS Y TECHOS
+
+137. COMPRA VENTA DE PLÁSTICO Y HULE
+
+138. COMPRA VENTA DE PRODUCTOS POPULARES
+
+139. COMPRA VENTA DE PRODUCTOS QUÍMICOS
+
+140. COMPRA VENTA DE REGALOS E IMPORTACIONES
+
+141. COMPRA VENTA, REPARACIÓN DE PLUMAS FUENTE Y ACCESORIOS
+
+142. CENTRO DE ACOPIO
+
+143. CENTRO DE COPIADO Y PAPELERÍA
+
+144. COLCHONERA
+
+145. CONDONERÍA
+
+146. OTROS COMERCIOS
+
+147.CORSETERÍA Y LENCERÍA
+
+148. DESHUESADERO Y PARTES USADAS
+
+149. DISCOS Y CASSETTES
+
+150. EXPENDIO DE CARBÓN Y PETRÓLEO
+
+151. FARMACIA
+
+152. FARMACIA Y DROGUERÍA
+
+153. FARMACIA Y PERFUMERÍA
+
+154. FERRETERÍA
+
+155. FERRETERÍA Y TLAPALERÍA
+
+156. FLORERÍA
+
+157.JARCERÍA
+
+158. JUGUETERÍA y REGALOS
+
+159. LIBRERÍA
+
+160. LIBRERÍA Y PAPELERÍA
+
+161. LOTERÍA NACIONAL Y PRONÓSTICOS DEPORTIVOS
+
+162. LLANTERA Y VITALIZADORA
+
+163. MADERERÍA Y LEÑERÍA
+
+164. MARCOS Y MOLDURAS
+
+165. MERCERÍA Y SEDERIA
+
+166. MUEBLERÍA
+
+167. OTROS COMERCIOS
+
+168. ÓPTICA
+
+169. ORFEBRERÍA Y COBRERÍA
+
+170. PAÑALES DESECHABLES
+
+171. PAPELERÍA
+
+172. PAPELERÍA Y ESCRITORIO PÚBLICO
+
+173. PAPELERÍA, MERCERÍA Y REGALOS
+
+174. PELETERÍA
+
+175. PERFUMERÍA, ARTÍCULOS DE BELLEZA Y REGALOS
+
+176. PERIÓDICOS, LIBROS Y REVISTAS
+
+177. REGALOS Y NOVEDADES
+
+178. SOMBRERERÍA
+
+179. TABAQUERÍA
+
+180. TELAS Y BLANCOS
+
+181. TIENDA DE AUTOSERVICIO SIN VENTA DE BEBIDAS ALCOHÓLICAS
+
+182. TIENDA DE ROPA
+
+183. TIENDA DEPARTAMENTAL SIN VENTA DE BEBIDAS ALCOHÓLICAS
+
+184. TLAPALERÍA
+
+185. TORNILLERA
+
+186. VIDRIERÍA
+
+187. VIVERO
+
+188. OTROS COMERCIOS
+
+189. ZAPATERÍA Y ARTÍCULOS DE PIEL
+
+190. OTROS COMERCIOS AL MAYOREO
+
+191. OTROS COMERCIOS AL MENUDEO
+
+192. COMPRA VENTA DE ARTÍCULOS DE PIEL
+
+193. PRUEBA
+
+II. INDUSTRIAS:
+
+1. INDUSTRIA ALIMENTICIA
+
+2. EMBOTELLADORA DE BEBIDAS
+
+3. EMPACADORA
+
+4. ENVASADORA
+
+5. ENVASADORA DE ALIMENTOS
+
+6. FÁBRICA DE ACEITES Y GRASAS COMESTIBLES
+
+7. FÁBRICA DE ALIMENTOS PREPARADOS PARA ANIMALES
+
+8. FÁBRICA DE DULCES Y ARTÍCULOS DE CONFITERÍA
+
+9. FÁBRICA DE HIELO
+
+10. HARINERA
+
+11. MOLINO Y TOSTADOR DE CAFÉ
+
+12. MOLINO Y TORTILLERÍA
+
+13. PRODUCTOS DE PANADERÍA
+
+14. PRODUCTOS LÁCTEOS
+
+15. PURlFICADORA DE AGUA
+
+16. RASTRO
+
+17. REFINADORA DE AZÚCAR
+
+18. TORTILLERÍA
+
+19. FABRICACIÓN DE OTROS ALIMENTOS PARA CONSUMO HUMANO
+
+20. INDUSTRIA ARTESANAL
+
+21. ALFARERÍA
+
+22. FÁBRICA DE ÓNIX, MÁRMOL Y GRANITO
+
+23. FÁBRICA DE TALAVERA
+
+24. FÁBRICA DE VITRALES
+
+25. FABRICACIÓN Y VENTA DE MUEBLES
+
+26. GRABADO E IMPRESIÓN
+
+27. FABRICACIÓN DE OTROS PRODUCTOS ARTESANALES
+
+28. INDUSTRIA MADERERA
+
+29. ASERRADERO
+
+30. CARPINTERÍA
+
+31. CARPINTERÍA Y TAPICERÍA
+
+32. FABRICACIÓN y VENTA DE MUEBLES DE MADERA
+
+33. FABRICACIÓN DE OTROS PRODUCTOS MADEREROS
+
+34. INDUSTRIA METÁLICA
+
+35. ENSAMBLADORA
+
+36. FÁBRICA DE EQUIPOS DE AIRE ACONDICIONADO
+
+37. FÁBRICA DE ESTRUCTURAS METÁLICAS
+
+38. FUNDIDORA
+
+39. HERRERÍA Y PAILERÍA
+
+40. SIDERÚRGICA
+
+41. TROQUELADORA
+
+42. FABRICACIÓN DE OTROS PRODUCTOS METÁLICOS
+
+43. INDUSTRIA MINERAL
+
+44. CALERA
+
+45. EXTRUIDO Y MOLDEADO DE FIBRA DE VIDRIO Y PLÁSTICO
+
+46. FÁBRICA DE CEMENTO
+
+47. FÁBRICA DE VIDRIO
+
+48. FÁBRICA DE YESO
+
+49. LADRILLERA
+
+50. MATERIALES PARA CONSTRUCCIÓN
+
+51. MATERIALES PARA PAVIMENTACIÓN
+
+52. FÁBRICA DE OTROS PRODUCTOS MINERALES
+
+53. INDUSTRIA PAPELERA
+
+54. COMPAÑÍA PERIODÍSTICA
+
+55. IMPRENTA
+
+56. EDITORIAL
+
+57. IMPRENTA Y PAPELERÍA
+
+58. MANUFACTURA DE CELULOSA, PAPEL Y SUS PRODUCTOS
+
+59. FABRICACIÓN DE OTROS PRODUCTOS PAPELEROS
+
+60. INDUSTRIA QUÍMICA
+
+61. DESTILACIÓN DE ALCOHOLES Y VINOS
+
+62. DESTILACIÓN Y VENTA DE ALCOHOL INDUSTRIAL Y MEDICINAL
+
+63. ELABORACIÓN DE ARTÍCULOS FARMACÉUTICOS
+
+64. ELABORACIÓN Y VENTA DE ARTÍCULOS DE PERFUMERÍA
+
+65. EMBOTELLADORA O FÁBRICA DE GASES
+
+66. FÁBRICA DE COMBUSTIBLES
+
+67. FÁBRICA DE PRODUCTOS DE LIMPIEZA
+
+68. FÁBRICA DE PRODUCTOS DE PLÁSTICO
+
+69. PLANTA DE TRATAMIENTO DE AGUAS RESIDUALES
+
+70. PLANTA DE TRATAMIENTO DE RESIDUOS SÓLIDOS
+
+71. FÁBRICA DE OTROS PRODUCTOS QUÍMICOS
+
+72. INDUSTRIA TEXTIL Y DE CUERO
+
+73. CONFECCIÓN DE MATERIALES TEXTILES
+
+74. CONFECCIÓN DE PRENDAS DE VESTIR
+
+75. CORDELERÍA
+
+76. CURTIDORA
+
+77. FÁBRICA DE CALZADO
+
+78. FÁBRICA DE PRODUCTOS DE PIEL
+
+79. FÁBRICA DE TEJIDOS DE PUNTO
+
+80. HILADO, TEJIDO Y ACABADO
+
+81. MAQUILADORA TEXTIL
+
+82. FÁBRICA DE OTROS PRODUCTOS TEXTILES Y DE CUERO
+
+83. OTRAS INDUSTRIAS
+
+84. CONSTRUCTORA
+
+85. FÁBRICA DE ARTÍCULOS PARA EL HOGAR
+
+86. FÁBRICA DE CANCELES, VITRINAS EN ALUMINIO Y VIDRIO
+
+87. MAQUILADORA
+
+88. OTRAS INDUSTRIAS
+
+III. SERVICIOS:
+
+1. ESTACIÓN DE SERVICIO DE GAS LICUADO DE PETRÓLEO
+
+2. HORNO CREMATORIO
+
+3. AGROPECUARIOS
+
+4. FUMIGADORAS
+
+5. PERFORADORA Y SISTEMAS DE RIEGO
+
+6. OTROS SERVICIOS AGROPECUARIOS
+
+7. ALQUILER
+
+8. ALQUILER DE APARATOS DE AUDIO, VÍDEO y COMUNICACIONES
+
+9. ALQUILER DE APARATOS E INSTRUMENTOS CIENTÍFICOS, MÉDICOS Y ORTOPÉDICOS
+
+10. ALQUILER DE BÁSCULAS Y EQUIPO DE MEDICIÓN
+
+11. ALQUILER DE EQUIPO PARA FIESTAS Y EVENTOS SOCIALES
+
+12. ALQUILER DE EQUIPOS E INSTRUMENTOS MUSICALES
+
+13. ALQUILER DE MAQUINARIA INDUSTRIAL PESADA Y PARA CONSTRUCCIÓN
+
+14. ALQUILER DE ROPA Y DISFRACES
+
+15. ALQUILER Y VENTA DE SANITARIOS PÚBLICOS MÓVILES
+
+16. ESTACIONAMIENTO
+
+17. INMOBILIARIA
+
+18. PENSIÓN DE VEHÍCULOS
+
+19. RENTA DE ACCESORIOS Y EQUIPO DEPORTIVO
+
+20. RENTA DE AUTOS Y CAMIONES
+
+21. RENTA DE BICICLETAS, MOTOS Y LANCHAS
+
+22. RENTA DE EQUIPO DE CÓMPUTO
+
+23. RENTA DE MÁQUINAS DE VIDEOJUEGOS
+
+24. RENTA Y VENTA DE PELÍCULAS Y VIDEOJUEGOS
+
+25. RENTA Y VENTA DE VIDEOJUEGOS, CARTUCHOS y COMPACT (SIC) DISC
+
+26. SALÓN PARA EVENTOS SOCIALES SIN VENTA DE BEBIDAS ALCOHÓLICAS
+
+27. CENTRO DE ENTRETENIMIENTO
+
+28. OTROS SERVICIOS DE ALQUILER
+
+29. ASISTENCIA SOCIAL
+
+30. ASILO DE ANCIANOS
+
+31. CASA HOGAR
+
+32. CEMENTERIO
+
+33. CENTRO DE INTEGRACIÓN JUVENIL
+
+34. OTROS SERVICIOS DE ASISTENCIA SOCIAL
+
+35. COMUNICACIONES
+
+36. CASETAS TELEFÓNICAS
+
+37. CENTRO DE MONITOREO DE AIRE Y SÍSMICO
+
+38. COLOCACIÓN Y COMPRA VENTA DE ANTENAS PARABÓLICAS
+
+39. DIFUSORAS DE RADIO
+
+40. DIFUSORAS DE TELEVISIÓN
+
+41. EQUIPOS DE SEGURIDAD, ALARMAS Y CIRCUITO CERRADO
+
+42. TELEFONÍA CELULAR Y ACCESORIOS
+
+43. OTROS SERVICIOS DE COMUNICACIÓN
+
+44. CONSULTORIOS Y DESPACHOS
+
+45. AGENCIAS DE DISEÑO Y PUBLICIDAD
+
+46. CLÍNICA VETERINARIA CON VENTA DE MASCOTAS, ALIMENTOS y ACCESORIOS
+
+47. CLÍNICA, SANATORIO U HOSPITAL
+
+48. CONSULTA, REHABILITACIÓN MUSCULAR Y MASAJES TERAPÉUTICOS
+
+49. CONSULTORIO DENTAL
+
+50. CONSULTORIO MÉDICO
+
+51. CONSULTORIO Y TIENDA NATURISTA
+
+52. DESPACHOS PROFESIONALES
+
+53. DISEÑO Y DECORACIÓN
+
+54. DISPENSARIO MÉDICO
+
+55. LABORATORIO DE ANÁLISIS CLÍNICOS Y QUÍMICOS
+
+56. LABORATORIO DE INVESTIGACIÓN
+
+57. OFICINAS ADMINISTRATIVAS
+
+58. UNIDAD RADIOLÓGICA Y DE ULTRASONIDO
+
+59. OTROS CONSULTORIOS
+
+60. OTROS DESPACHOS
+
+61. CULTURALES, DEPORTIVOS Y DE ESPARCIMIENTO
+
+62. BIBLIOTECA
+
+63. BILLARES Y BOLICHE
+
+64. CENTRO DEPORTIVO Y SOCIAL
+
+65. CINE, TEATRO Y AUDITORIO
+
+66. ESTADIO
+
+67. GALERÍA DE ARTE
+
+68. GIMNASIO
+
+69. JUEGOS ELECTROMECÁNICOS Y VIDEOJUEGOS
+
+70. MUSEO Y SALA DE EXHIBICIÓN
+
+71. PISTA DE PATINAJE
+
+72. ZOOLÓGICO
+
+73. OTROS SERVICIOS CULTURALES Y DE ESPARCIMIENTO
+
+74. EDUCATIVOS
+
+75. ESCUELA DE EDUCACIÓN BÁSICA
+
+76. ESCUELA DE EDUCACIÓN BÁSICA Y MEDIA
+
+77. ESCUELA DE EDUCACIÓN ESPECIALIZADA
+
+78. ESCUELA DE EDUCACIÓN MEDIA
+
+79. ESCUELA DE EDUCACIÓN MEDIA Y SUPERIOR
+
+80. ESCUELA DE EDUCACIÓN MEDIA Y TÉCNICA
+
+81. ESCUELA DE EDUCACIÓN SUPERIOR
+
+82. ESCUELA DE EDUCACIÓN TÉCNICA
+
+83. ESCUELA DEPORTIVA
+
+84. ESCUELAS, INSTITUTOS Y UNIVERSIDADES
+
+85. OTROS SERVICIOS EDUCATIVOS
+
+86. FINANCIEROS
+
+87. AFIANZADORA
+
+88. ARRENDADORA
+
+89. ASEGURADORA
+
+90. BANCO
+
+91. CAJERO AUTOMÁTICO
+
+92. CASA DE BOLSA
+
+93. CASA DE CAMBIO
+
+94. COMPRA VENTA DE MONEDAS Y METALES
+
+95. TRANSPORTE DE VALORES
+
+96. OTROS SERVICIOS FINANCIEROS
+
+97. TALLERES
+
+98. AFILADORAS
+
+99. AFINACIONES ELECTRÓNICAS
+
+100. ELABORACIÓN DE PRODUCTOS Y ACCESORIOS DENTALES
+
+101. ELABORACIÓN, VENTA Y ALQUILER DE LONAS Y TOLDOS
+
+102. INSTALACIÓN DE ALARMAS y AUTO ESTÉREOS
+
+103. INSTALACIÓN DE GAS Y ACCESORIOS
+
+104. JOYERÍA, RELOJERÍA Y COMPRA VENTA DE ORO
+
+105. LAVADO, PULIDO Y ENCERADO DE AUTOS EN FORMA MANUAL
+
+106. LAVADO, PULIDO Y ENGRASADO
+
+107. LLANTERA, ALINEACIÓN Y BALANCEO
+
+108. MANTENIMIENTO DE EXTINGUIDORES
+
+109. MODISTA
+
+110. PLOMERÍA
+
+111. RECTIFICADORA DE MOTORES DIESEL Y GASOLINA
+
+112. REPARACIÓN DE AMORTIGUADORES
+
+113. REPARACIÓN DE ANUNCIOS
+
+114. REPARACIÓN DE APARATOS ELECTRÓNICOS Y ELECTRODOMÉSTICOS
+
+115. REPARACIÓN DE ARTÍCULOS DE PIEL
+
+116. REPARACIÓN DE BÁSCULAS
+
+117. REPARACIÓN DE BICICLETAS Y MOTOCICLETAS
+
+118. REPARACIÓN DE BOMBAS DE AGUA
+
+119. REPARACIÓN DE BOMBAS E INYECTORES
+
+120. REPARACIÓN DE CALZADO
+
+121. REPARACIÓN DE CLUTCH Y FRENOS
+
+122. REPARACIÓN DE EMBOBINADOS ELÉCTRICOS
+
+123. REPARACIÓN DE EQUIPOS DE AUTÓGENA
+
+124. REPARACIÓN DE EQUIPOS INDUSTRIALES
+
+125. REPARACIÓN DE HERRAMIENTA
+
+126. REPARACIÓN DE INSTRUMENTOS MUSICALES
+
+127. REPARACIÓN DE LÁMPARAS Y CANDILES
+
+128. REPARACIÓN DE MÁQUINAS Y EQUIPO DE OFICINA
+
+129. REPARACIÓN DE MARCOS
+
+130. REPARACIÓN DE PARRILLAS
+
+131. REPARACIÓN DE RADIADORES
+
+132. REPARACIÓN DE REFACCIONES PARA FRENOS DE AIRE
+
+133. TALLERES
+
+134. REPARACIÓN E INSTALACIÓN DE ALFOMBRAS, TAPETES Y TAPICES
+
+135. REPARACIÓN E INSTALACIÓN DE MOFLES Y MUELLES
+
+136. REPARACIÓN Y MANTENIMIENTO DE EQUIPO DE CÓMPUTO
+
+137. SASTRERÍA
+
+138. SERVICIO AUTOMOTRIZ CON VENTA DE REFACCIONES
+
+139. SERVICIO DE HOJALATERÍA y PINTURA
+
+140. SERVICIO DE REFRIGERACIÓN Y AIRE ACONDICIONADO
+
+141. SERVICIO DE VERIFICACIÓN DE GASES
+
+142. SERVICIO ELÉCTRICO, AUTOMOTRIZ E INDUSTRIAL
+
+143. SERVICIO ELECTROMECÁNICO
+
+144. SERVICIO MECÁNICO AUTOMOTRIZ
+
+145. SERVICIO MECÁNICO, HOJALATERÍA y PINTURA
+
+146. TALACHERÍA
+
+147. TALLER DE ESCULTURA Y PINTURA
+
+148. TALLER DE RÓTULOS
+
+149. TALLER DE SUAJES
+
+150. TALLER DE TORNO
+
+151. TALLER MECÁNICO SIN INGRESOS
+
+152. TAPICERÍA
+
+153. OTROS SERVICIOS AUTOMOTRICES
+
+154. OTROS TALLERES
+
+155. TRANSPORTES
+
+156. CENTRAL CAMIONERA
+
+157. CENTRAL DE TAXIS
+
+158. ENCIERRO DE AUTOBUSES
+
+159. GRÚAS
+
+160. MENSAJERÍA y PAQUETERÍA
+
+161. PIPAS DE AGUA Y POZOS
+
+162. TERMINAL Y TRANSPORTE DE PASAJEROS
+
+163. TRANSPORTE AERONAVAL
+
+164. TRANSPORTE DE CARGA
+
+165. OTROS SERVICIOS DE TRANSPORTACIÓN
+
+166. TURÍSTICOS
+
+167. AGENCIA DE VIAJES
+
+168. AGENCIA DE MODELOS Y EDECANES
+
+169. HOTEL SIN SERVICIO DE RESTAURANTE BAR
+
+170. MOTEL SIN SERVICIO DE RESTAURANTE BAR
+
+171. OTROS SERVICIOS TURÍSTICOS
+
+172. OTROS SERVICIOS
+
+173. AGENCIA DE INHUMACIONES Y CREMATORIOS
+
+174. BAÑOS PÚBLICOS SIN VENTA DE CERVEZA
+
+175. BOLERÍA
+
+176. CAFETERÍA Y FUENTE DE SODAS
+
+177. CAFETERÍA, FUENTE DE SODAS, LIBRERÍA y PAPELERÍA
+
+178. CERRAJERÍA
+
+179. CASA DE HUÉSPEDES
+
+180. CROMADOS
+
+181. EDICIÓN DE VÍDEOS
+
+182. ESTÉTICA, PELUQUERÍA Y SALÓN DE BELLEZA
+
+183. ESTUDIO FOTOGRÁFICO
+
+184. FUNERARIA
+
+185. HORNO CREMATORIO
+
+186. GASOLlNERÍA
+
+187. ESTACIÓN DE SERVICIO DE GAS LICUADO DE PETRÓLEO
+
+188. IMPRESIÓN DE PLANOS
+
+189. LAVANDERÍA
+
+190. SALA DE BELLEZA Y COSMETOLOGÍA
+
+191. SANITARIOS PÚBLICOS
+
+192. SANITARIOS PÚBLICOS CON TABAQUERÍA Y MISCELÁNEA
+
+193. SERVICIO DE BANQUETES A DOMICILIO
+
+194. SERVICIO DE VALET PARKING
+
+195. TINTORERÍA Y PLANCHADURÍA
+
+196. TlRADERO DE BASURA
 
 DE LAS LICENCIAS DE FUNCIONAMIENTO
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+
 ###### Artículo 629.
 
-Para obtener la licencia de funcionamiento el interesado deberá presentar solicitud por escrito ante la Tesorería Municipal acompañado de:
+Para obtener la licencia de funcionamiento y su actualización el interesado deberá presentar ante la Tesorería Municipal a través del Departamento de Registro y Fiscalización los siguientes documentos:
 
-I. Identificación oficial o acta constitutiva en su caso;
+A. Licencia de funcionamiento:
 
-II. Copia certificada del Registro Federal de Contribuyentes, o justificante de que se encuentra en trámite de inscripción; y
+I. Formato de empadronamiento;
 
-III. Autorización de uso de suelo, emitida por la Dirección de Desarrollo Urbano de la Secretaría de Administración Urbana, o la Unidad Administrativa que resulte similar.
+II. Identificación oficial y comprobante domiciliario; las personas morales además deben exhibir acta constitutiva y poder notarial. Para el caso de realizar el trámite a través de un gestor, éste deberá observar lo establecido en el artículo 38 del Código Fiscal y Presupuestario para el Municipio de Puebla;
+
+III. Copia certificada de la Cédula de Identificación Fiscal, expedida por el Registro Federal de Contribuyentes de la Secretaría de Hacienda y Crédito Público o justificante de que se encuentra en trámite de inscripción;
+
+IV. Autorización de uso de suelo, emitida por la Dirección de Desarrollo Urbano de la Secretaría de Administración Urbana; y
+
+V. Pago de derechos que procedan conforme a lo establecido en la Ley de Ingresos del Municipio aplicable.
+
+B. Actualización de licencia de funcionamiento:
+
+I. Formato de actualización de licencia de funcionamiento;
+
+II Licencia de funcionamiento original expedida por la Tesorería Municipal a través del Departamento de Registro y Fiscalización;
+
+III. Identificación oficial. Para el caso de realizar el trámite a través de un gestor, éste deberá observar lo establecido en el artículo 38 del Código Fiscal y Presupuestario para el Municipio de Puebla;
+
+IV. Acta constitutiva y poder notarial, para personas morales; y
+
+V. Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio de Puebla vigente.
+
+La Tesorería Municipal a través del Departamento de Registro y Fiscalización entregará los formatos a que se refiere el presente artículo, no pudiendo solicitar requisito adicional alguno a los expresamente mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
+
+La actualización de las licencias a que se refiere el presente Capítulo, se realizarán siguiendo el calendario que establezca la Tesorería Municipal, con la aprobación del Cabildo.
+
+Para la reposición de licencia de funcionamiento por extravío o destrucción parcial o total, se pagarán los derechos que contemple la Ley de Ingresos del Municipio vigente. En este caso el solicitante deberá proporcionar sus datos personales, los de la negociación y la fecha de expedición de la licencia.
+
+El pago de derechos que no este contemplado en el presente artículo estará sujeto a lo dispuesto en el Código Fiscal y Presupuestario para el Municipio de Puebla y la Ley de Ingresos del Municipio vigente.
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
 
 ###### Artículo 630.
 
-La Tesorería Municipal, en un término no mayor de 5 días hábiles deberá otorgar la licencia de funcionamiento correspondiente siempre que se cumplan los requisitos señalados en el artículo anterior.
+La Tesorería Municipal a través del Departamento de Registro y Fiscalización, en un término no mayor de diez días hábiles contados a partir del día siguiente al que se reciba la solicitud deberá otorgar la licencia de funcionamiento correspondiente siempre que se cumplan los requisitos señalados en el artículo anterior.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2006)</small>
+En caso de que .transcurrido el término de referencia el Jefe del Departamento de Registro y Fiscalización no dé contestación por escrito al solicitante, se tendrá por otorgada la licencia, independientemente de la responsabilidad administrativa en que incurra el servidor público.
+
+Se exceptúa de lo establecido en el párrafo anterior, cuando se formule solicitud de cambio de giro comercial, y la nueva actividad incluya la venta, consumo o enajenación de bebidas alcohólicas, o expendio de sustancias susceptibles de inhalación y efectos tóxicos, en cuyo caso procederá, ante el silencio de la autoridad, la negativa ficta del cambio de giro comercial.
+
+Contra el acto que emita el Jefe del Departamento de Registro y Fiscalización, que niegue el otorgamiento o actualización de la licencia de funcionamiento, o cambio de giro comercial, el contribuyente podrá interponer el Recurso de Revisión previsto en el Código Fiscal y Presupuestario para el Municipio de Puebla.
+
+De no otorgarse la licencia de funcionamiento la Tesorería Municipal hará la devolución al solicitante del pago de derechos a través de las cajas a su cargo. Los licenciatarios estarán obligados al pago de los gastos de trámite de la licencia negada, pagando el 2% sobre el importe total por el concepto de la misma.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2006)</small>
 
 ###### Artículo 631.
 
-El titular de la licencia a que se refiere este Capítulo, podrá ceder la misma a cualquier persona o cambio de giro comercial, obligándose aquél, a dar aviso a la Tesorería Municipal, bajo los siguientes requisitos:
+El titular de la licencia a que se refiere este Capítulo, podrá cederla a cualquier persona que reúna los requisitos inherentes, o cambiar de giro comercial, obligándose aquél, a dar aviso a la Tesorería Municipal a través del Departamento de Registro y Fiscalización, bajo los siguientes requisitos:
 
-I. Transferencia o cesión de la licencia de funcionamiento:
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2006)</small>
 
-a) Formato de transferencia de propietario expedido por el Departamento de Padrón de Contribuyentes;
+l. Transferencia o cesión de la licencia de funcionamiento:
 
-b) Licencia de funcionamiento original expedida por la Tesorería Municipal;
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+
+a) Formato de transferencia de propietario;
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+
+b) Licencia de funcionamiento original expedida por la Tesorería Municipal a través del Departamento de Registro y Fiscalización;
 
 c) Alta de Hacienda del nuevo propietario;
 
@@ -6049,23 +7317,33 @@ g) Acta de Cesión de derechos ante Notario Público; y
 
 h) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio aplicable.
 
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2006)</small>
+
 II. Cambio de giro comercial:
 
 a) Formato de cambio del giro comercial;
 
 b) Dictamen de Compatibilidad de Uso de Suelo. expedido por la Unidad Administrativa competente;
 
-c) Licencia de funcionamiento original expedida por la Tesorería Municipal;
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+
+c) Licencia de funcionamiento original expedida por la Tesorería Municipal a través del Departamento de Registro y Fiscalización;
 
 d) Aviso en Hacienda de cambio de giro comercial; y
 
 e) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio aplicable.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+
+La Tesorería Municipal a través del Departamento de Registro y Fiscalización entregará los formatos a que se refiere el presente artículo, no pudiendo solicitar requisito adicional alguno a los expresamente mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2006)</small>
 
 ###### Artículo 632.
 
-las modificaciones que haga el titular de la licencia de funcionamiento, respecto al cambio de domicilio o baja del giro comercial, deberán realizarse ante la Tesorería Municipal, para lo cual se acompañará:
+Las modificaciones que haga el titular de la licencia de funcionamiento, respecto al cambio de domicilio o baja del giro comercial, deberán realizarse ante la Tesorería Municipal a través del Departamento de Registro y Fiscalización, para lo cual se acompañará:
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2006)</small>
 
 I. Para cambio de domicilio del giro comercial:
 
@@ -6075,13 +7353,19 @@ b) Dictamen de Compatibilidad de Uso de Suelo expedido por la Unidad Administrat
 
 c) Comprobante del pago de derechos por el Uso de Suelo; y
 
-d) Licencia de funcionamiento original expedida por la Tesorería Municipal.
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+
+d) Licencia de funcionamiento original expedida por la Tesorería Municipal a través del Departamento de Registro y Fiscalización.
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2006)</small>
 
 II. Para la baja de la licencia de funcionamiento:
 
 a) Formato de baja de la licencia de funcionamiento;
 
-b) Licencia de funcionamiento original expedida por la Tesorería Municipal;
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+
+b) Licencia de funcionamiento original expedida por la Tesorería Municipal a través del Departamento de Registro y Fiscalización;
 
 c) Suspensión de actividades presentada ante la Secretaria de Hacienda y Crédito Público;
 
@@ -6089,9 +7373,15 @@ d) Identificación oficial o Acta Constitutiva y Poder Notarial. Para el caso de
 
 e) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio aplicable.
 
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+
+La Tesorería Municipal a través del Departamento de Registro y Fiscalización entregará los formatos a que se refiere el presente artículo, no pudiendo solicitar requisito adicional alguno a los expresamente mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+
 ###### Artículo 633.
 
-Es obligación del titular de cualquier licencia de funcionamiento cumplir con todas y cada una de las disposiciones aplicables a la actividad que desarrolle.
+Es obligación del titular de cualquier licencia de funcionamiento, cumplir con todas y cada una de las disposiciones aplicables a la actividad que desarrolle. Los giros comerciales a que hace referencia el Capítulo 28 de este ordenamiento legal, deberán contar además con la licencia de sustancias susceptibles de inhalación y efectos tóxicos para su funcionamiento.
 
 DEL HORARIO
 
@@ -6163,9 +7453,11 @@ Fecha 11 y 12 de diciembre de cada año
 
 Lugar Paseo Bravo y Seminario Palafoxiano.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2006)</small>
+
 ###### Artículo 638.
 
-Corresponde exclusivamente al C. Presidente Municipal imponer a quienes violen el presente Capítulo y los que resulten aplicables en la materia, indistintamente las siguientes sanciones:
+Corresponde al Departamento de Registro y Fiscalización determinar, calificar e imponer a quienes violen el presente Capítulo y los que resulten aplicables en la materia, indistintamente las siguientes sanciones:
 
 I. Multa equivalente al importe de 5 a 500 días de salario mínimo vigente en el Municipio de Puebla en el momento de la infracción;
 
@@ -6197,9 +7489,11 @@ DISPOSICIONES GENERALES
 
 El presente Capítulo tiene por objeto regular la actividad Comercial de Vendedores Ambulantes, Semifijos y Prestadores Ambulantes de Servicios en la Vía Pública.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2006)</small>
+
 ###### Artículo 641.
 
-Corresponde al C. Presidente Municipal o a los funcionarios que él designe, las siguientes atribuciones:
+Corresponde al Departamento de Registro y Fiscalización, las siguientes atribuciones:
 
 I. Expedir las credenciales y permisos correspondientes para el ejercicio del Comercio Ambulante, Semifijo y Prestación Ambulante de Servicios en la Vía Pública.
 
@@ -6213,9 +7507,9 @@ V. Organización de sorteos públicos de los lugares disponibles para ejercer la
 
 VI. Elaborar y mantener actualizado el padrón de Comerciantes Ambulantes, Semifijos y Prestadores de Ambulantes de Servicios en la Vía Pública;
 
-VII. Nombrar a los representantes del H. Ayuntamiento, para ejercer sus actividades de control y supervisión en lo que a este Capítulo compete; y
+VII. (DEROGADA, P.O. 27 DE MARZO DE 2006)
 
-VIII. Establecer las cuotas respectivas que deberán cumplirse en cada caso, de conformidad con las leyes y reglamentos aplicables. Dichas cuotas sólo se enterarán a la autoridad competente previo recibo oficial correspondiente.
+VIII. (DEROGADA, P.O. 27 DE MARZO DE 2006)
 
 ###### Artículo 642.
 
@@ -6255,11 +7549,17 @@ DE LA ORGANIZACIÓN, FUNCIONAMIENTO Y ADMINISTRACIÓN
 
 Sólo podrán ejercer su actividad en la Vía Pública, aquellos vendedores Ambulantes, Semifijos y prestadores Ambulantes de Servicios, que cumplan con los siguientes requisitos:
 
-I. Encontrarse inscritos por el padrón del sistema de comercialización y abasto del Municipio de Puebla;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
 
-II. Contar con credencial personalizada y vigente, expedida por la autoridad competente que deberá portar permanentemente, a la vista del consumidor y de la autoridad;
+I. Encontrarse inscritos por el padrón que al efecto lleve el Departamento de Registro y Fiscalización;
 
-III. Contar con el permiso especial expedido por la Autoridad Municipal para los siguientes casos:
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+
+II. Contar con credencial personalizada y vigente, expedida por el Departamento de Registro y Fiscalización;
+
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 27 DE MARZO DE 2006)</small>
+
+III. Contar con el permiso especial expedido por el Departamento de Registro y Fiscalización la Autoridad Municipal para los siguientes casos:
 
 a) Fiestas populares;
 
@@ -6280,6 +7580,10 @@ VI. Cumplir con todas las leyes y disposiciones Municipales aplicables;
 VII. Cumplir con las leyes y disposiciones sanitarias aplicables; y
 
 VIII. Contratar y pagar el suministro de energía eléctrica, agua y recolección de basura correspondiente.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+
+La Tesorería Municipal a través del Departamento de Registro y Fiscalización no podrá solicitar requisitos adicionales a los mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
 
 ###### Artículo 646.
 
@@ -6361,7 +7665,9 @@ III. Ejercer su actividad en estado de ebriedad o bajo influjo de alguna substan
 
 IV. Ejercer su actividad con mala presentación o desaseado;
 
-V. Transferir su permiso a otro individuo sin el consentimiento o autorización previa de la autoridad Municipal;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+
+V. Transferir su permiso a otro individuo sin el consentimiento o autorización previa del Departamento de Registro y Fiscalización;
 
 VI. Obstaculizar al peatón, vehículos, entradas particulares o comerciales, y obras Municipales;
 
@@ -6371,21 +7677,23 @@ VIII. Utilizar sus casetas, kioscos, carros, vehículos o bienes muebles, como c
 
 SANCIONES
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+
 ###### Artículo 652.
 
-Las infracciones al presente Capitulo, se sancionarán atendiendo a las sanciones contenidas en los Capítulos de Policía y Gobierno; mercados y central de abasto; establecimientos Industriales, Comerciales y de Servicios del presente Código Reglamentario para el Municipio de Puebla; y demás disposiciones jurídicas aplicables en razón de las materias de las infracciones.
+Las infracciones al presente Capítulo, se sancionarán atendiendo a las sanciones contenidas en los Capítulos de Policía y Gobierno; mercados y central de abasto; establecimientos Industriales, Comerciales y de Servicios del presente Código Reglamentario para el Municipio de Puebla; sin perjuicio de las contenidas en otros ordenamientos.
+
+En caso de reincidencia, dentro de un periodo de cuarenta y cinco días naturales, independientemente de la multa a que se refiere el párrafo anterior, el Departamento de Registro y Fiscalización impondrá la suspensión temporal del permiso, por el lapso de uno a quince días hábiles.
+
+Si persistiera en reincidir, el Departamento de Registro y Fiscalización procederá a la cancelación por un periodo de seis a doce meses del permiso correspondiente.
 
 ###### Artículo 653.
 
-Como sanciones especiales para violaciones o infracciones cometidas en contra de las disposiciones contenidas en este Capítulo, y que no estén contempladas en el artículo anterior, al infractor para la zona económica del Municipio de Puebla, se le aplicará multa hasta por el importe de un día de salario mínimo general vigente al momento de la infracción.
-
-En caso de reincidencia, dentro de un período de cuarenta y cinco días, independientemente de la multa a que se refiere la fracción anterior, se impondrá la suspensión temporal del permiso de infractor, por el lapso de quince días.
-
-Si persistiera en reincidir violando las disposiciones aplicables, se procederá a la cancelación durante un año de la licencia o permiso correspondiente.
+(DEROGADO, P.O. 27 DE MARZO DE 2006)
 
 ###### Artículo 654.
 
-Es facultad del C Presidente Municipal restringir, ampliar o sujetar a condiciones específicas las licencias, autorizaciones y permisos a que se refiere su contenido, según cada caso en particular, y delegar éstas facultades en el funcionario que se designe.
+(DEROGADO, P.O. 27 DE MARZO DE 2006)
 
 # LIBRO TERCERO. URBANÍSTICA DEL MUNICIPIO DE PUEBLA
 
@@ -10241,11 +11549,11 @@ I. Fuerzas cortantes.- Para calcular las fuerzas cortantes a diferentes niveles 
 
 Esta expresión no se aplica directamente en edificios apéndices. En este caso de deberá emplear textualmente el párrafo anterior, en combinación con lo especificado en la fracción IV, de este artículo.
 
-Pi= Wihi (i Wi/c Q;c/Q>a)
+Pi = Wihi (i Wi/c Q;c/Q>a)
 
 Donde:
 
-Wi= Peso del nivel ¡
+Wi = Peso del nivel ¡
 
 h¡ = Altura del nivel ¡ sobre el desplante
 
@@ -10281,7 +11589,7 @@ Donde:
 
 Los coeficientes de proporcionalidad a1 y a2 están dados por las siguientes expresiones:
 
-a¡=(1 - r(1-q)W¡
+a¡ = (1-r(1-q)W¡)
 
 W¡h¡
 
@@ -10289,7 +11597,7 @@ a2 = 1.5r(1-q) W¡
 
 W¡h¡2
 
-Donde q =( Tb / T ) r siendo r el exponente que se consigna en la tabla I. En este caso, los coeficientes a1, a2 son tales que la relación V/W es igual a a/Q cuando T es igual a y tiende a 1.25, 1.33 y 1.5 veces a/Q para terreno tipo I, II, III, respectivamente, cuando T tiende a infinitivo.
+Donde q = (Tb/T) r siendo r el exponente que se consigna en la tabla I. En este caso, los coeficientes a1, a2 son tales que la relación V/W es igual a a/Q cuando T es igual a y tiende a 1.25, 1.33 y 1.5 veces a/Q para terreno tipo I, II, III, respectivamente, cuando T tiende a infinitivo.
 
 III. Péndulos Invertidos.
 
@@ -13405,7 +14713,9 @@ XXXI. Responsable Solidario: Toda persona física o moral que se obliga mancomun
 
 XXXII. Secretaría: La Secretaria de Administración Urbana;
 
-XXXIII. Mercadotecnia Urbana: El Departamento de Mercadotecnia Urbana;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+
+XXXIII.- Mercadotecnia Urbana: El Departamento de Imagen y Equipamiento Urbano;
 
 XXXIV. Tapiales: Elementos de seguridad que sirven para cubrir y proteger perimetralmente y a nivel de banqueta, una obra en construcción, durante el tiempo que marque la respectiva licencia de construcción; los cuales pueden ser de madera, lámina, concreto, mampostería o de otro material que ofrezca las mismas garantías de seguridad;
 
@@ -13833,15 +15143,19 @@ VII. Sea publicidad de tipo político o electoral, fuera de plazos y fechas de e
 
 VIII. Se empleen materiales adhesivos, pegotes, carteles o cualquier otro tipo de materia que al colocarse requiera de algún pegamento especial y acelere el detrimento de la imagen urbana y del mismo mobiliario.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2006)</small>
+
 ###### Artículo 1279.
 
-Sólo podrán instalar anuncios en mobiliario urbano, las personas físicas o morales que cuenten con la autorización correspondiente para explotar dichos espacios, emitida por el Departamento de Mercadotecnia Urbana o de la Unidad Administrativa que tenga a su cargo dicha función, de conformidad con lo establecido en el presente Capítulo.
+Sólo podrán instalar anuncios en mobiliario urbano, las personas físicas o morales que cuenten con la autorización correspondiente para explotar dichos espacios, emitida por el Departamento de Imagen y Equipamiento Urbano, de conformidad con lo establecido en el presente Capítulo.
 
 Se considera también mobiliario urbano, todos aquellos muebles y equipamiento que se encuentre concesionado, rentado o administrado a una persona o empresa. De igual manera deberán sujetarse al presente Capítulo todo aquel mobiliario o equipamiento ubicado en la vía pública municipal o áreas de uso común, que contengan publicidad o anuncio alguno.
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+
 ###### Artículo 1280.
 
-Para la instalación de anuncios y publicidad sobre los espacios destinados en el mobiliario urbano distintos a lo señalado en el presente Capítulo, el Ayuntamiento, a través del Departamento de Mercadotecnia Urbana o de la Unidad Administrativa que tenga a su cargo dicha función, valorará y en su caso, aprobará dicha colocación, previo dictamen técnico de La Secretaría de Imagen o la Unidad Administrativa que realice funciones similares.
+Para la instalación de anuncios y publicidad sobre los espacios destinados en el mobiliario urbano, distintos a lo señalado en el presente Capítulo, el Ayuntamiento, a través del Departamento de Imagen y Equipamiento Urbano, valorará y en su caso, aprobará dicha colocación, previo dictamen técnico.
 
 DE LAS ESPECIFICACIONES TÉCNICAS EN VEHÍCULOS PARTICULARES Y DEL SERVICIO DE TRANSPORTE
 
@@ -14145,7 +15459,13 @@ XIII. Memoria descriptiva de todos los elementos de la estructura, que incluya a
 
 XIV. Para la entrega de la licencia se deberá presentar el comprobante de pago de derechos, de conformidad con lo establecido en el Código fiscal y Presupuestario, así como la Ley de Ingresos Vigente, a excepción de los anuncios propios del establecimiento que se publicite, siempre que se encuentren instalados, fijados, adosados y cualquier otra forma de anuncio, en el mobiliario del establecimiento publicitado por el anuncio correspondiente, en cuyo caso no será necesario realizar el pago de los derechos a que se refiere esta fracción.
 
-XVII (sic). Presentar carta dirigida a la autoridad competente, en la que se asuma el compromiso y la responsabilidad civil y/o de cualquier otra índole para responder por daños causados a terceros;
+XV.- (DEROGADA, P.O. 27 DE MARZO DE 2006)
+
+XVI.- (DEROGADA, P.O. 27 DE MARZO DE 2006)
+
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+
+XVII.- Presentar póliza de seguro de responsabilidad civil y daños causados a terceros;
 
 XVIII. El dictamen técnico favorable en materia de protección civil, emitido por autoridad competente para los anuncios referidos en las fracciones I, III, IV, VIII y X del artículo 1299 de este Capítulo;
 
@@ -14153,17 +15473,25 @@ XIX. El dictamen estructural favorable por parte del Ayuntamiento, tratándose d
 
 XX. El dictamen estructural favorable por parte la (sic) Dirección de Desarrollo Urbano, en todos los demás casos de anuncios fijos.
 
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+
+La Dirección de Desarrollo Urbano no podrá solicitar requisitos adicionales a los mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
+
 LOS ANUNCIOS QUE PUBLICITEN
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2006)</small>
 
 ###### Artículo 1303.
 
-Las licencias tendrán una vigencia de hasta 1 año y podrán ser revalidadas.
+Las licencias tendrán una vigencia de hasta un año a partir de su otorgamiento y podrán ser revalidadas por la Dirección de Desarrollo Urbano previa inspección que realice dentro de los cinco días hábiles siguientes a la solicitud en la que se corrobore que no han cambiado las condiciones que originaron la expedición de la misma.
 
 La revalidación deberá solicitarse dentro de los quince días hábiles previos a la conclusión de la vigencia de la licencia.
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+
 ###### Artículo 1304.
 
-Cuando la solicitud no reúna los requisitos previstos por este Capítulo, la autoridad prevendrá al interesado.
+Cuando la solicitud no reúna los requisitos previstos por este Capítulo, la Dirección de Desarrollo Urbano prevendrá al interesado para que en un término de cinco días hábiles, acredite el cumplimiento de los requisitos omitidos, debiendo notificarse la resolución al solicitante. Después del término señalado, si el interesado no da cumplimiento al requerimiento de la autoridad, la solicitud se tendrá por no presentada.
 
 ###### Artículo 1305.
 
@@ -14255,7 +15583,13 @@ b) Información gráfica que describa la forma, dimensiones y demás elementos q
 
 c) Para la entrega del permiso se debe presentar el comprobante de pago de derechos, a excepción de los anuncios propios del establecimiento que se publicite, siempre que se encuentren instalados, fijados, adosados y cualquier otra forma de anuncio, en el mobiliario del establecimiento publicitado por el anuncio correspondiente, en cuyo caso no será necesario realizar el pago de los derechos a que se refiere este inciso.
 
-d) Presentar carta dirigida a la autoridad competente, en la que se asuma el compromiso y la responsabilidad civil y/o de cualquier otra índole para responder por daños causados a terceros.
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+
+d) Presentar póliza de seguro de responsabilidad civil y daños causados a terceros;
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+
+La Dirección de Desarrollo Urbano no podrá solicitar requisitos adicionales a los mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
 
 ###### Artículo 1313.
 
@@ -14285,9 +15619,13 @@ DE LOS PERMISOS PUBLICITARIOS EN VEHÍCULOS DEL SERVICIO DE TRANSPORTE
 
 Las empresas interesadas en colocar publicidad en vehículos del servicio de transporte público o privado, deberán tramitar el permiso correspondiente ante el Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+
 ###### Artículo 1318.
 
-Recibida la solicitud con los requisitos, se calificarán los documentos anexados a la misma, dentro de los 5 días hábiles contados a partir del día siguiente de la recepción de la misma. En caso de que el interesado no cumpla con los requisitos establecidos, se le prevendrá para que desahogue los mismos en un término de cinco días hábiles, contados a partir del día siguiente de su notificación.
+Recibida la solicitud con los requisitos, se calificarán los documentos anexados a la misma, dentro de los cinco días hábiles contados a partir del día siguiente de su recepción, emitiendo la respuesta correspondiente, dentro de un término no mayor a diez días hábiles, la cual deberá ser notificada al solicitante, en caso contrario la autoridad incurrirá en responsabilidad administrativa.
+
+En caso de que el interesado no cumpla con los requisitos establecidos, se le prevendrá para que desahogue los mismos en un término de cinco días hábiles, contados a partir del día siguiente de su notificación. Después del término señalado, si el interesado no da cumplimiento al requerimiento de la autoridad, la solicitud se tendrá por no presentada.
 
 ###### Artículo 1319.
 
@@ -14327,7 +15665,9 @@ Los titulares de los permisos publicitarios tendrán las obligaciones siguientes
 
 I. Contar con instalaciones adecuadas para la colocación y mantenimiento de los anuncios;
 
-II. Presentar carta dirigida a la autoridad competente, en la que se asuma el compromiso y la responsabilidad civil y/o de cualquier otra índole para responder por daños causados a terceros;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+
+II. Presentar póliza de seguro de responsabilidad civil y daños causados a terceros;
 
 III. Efectuar mantenimiento necesario al anuncio y medios de fijación para garantizar su seguridad, limpieza y funcionamiento durante el tiempo durante el que se encuentre instalado;
 
@@ -14338,6 +15678,10 @@ V. Anotar en el cuerpo del anuncio y en forma visible el número del permiso pub
 VI. Mantener actualizados los datos inscritos ante al Ayuntamiento; y
 
 VII. Informar al Ayuntamiento, del retiro de los anuncios.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+
+La Dirección de Desarrollo Urbano no podrá solicitar requisitos adicionales a los mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
 
 ###### Artículo 1328.
 
@@ -14939,7 +16283,9 @@ V. Separar los residuos sólidos en biodegradables y no biodegradables.
 
 Los representantes reconocidos de los comerciantes de cualquier giro, agrupados en los tianguis, están obligados a vigilar que los comerciantes dejen limpio y aseado en el momento que se retiren del lugar que ocupen en los mismos.
 
-El incumplimiento a lo señalado dará lugar a la multa que se establezca, independientemente que la dirección de mercados revoque la autorización correspondiente. Igualmente se obligan a sufragar los costos de recolección, transportación y confinamiento de los residuos sólidos que generen.
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+
+El incumplimiento a lo señalado dará lugar a la multa que establezca el Titular del Organismo, independientemente que el Departamento de Registro y Fiscalización revoque la autorización correspondiente. Igualmente se obligan a sufragar los costos de recolección, transportación y confinamiento de los residuos sólidos que generen.
 
 ###### Artículo 1369.
 
@@ -15081,7 +16427,9 @@ I. Recibir o solicitar regalos o dádivas de cualquier especie en relación a su
 
 II. Comercializar, él o sus familiares en primer grado, con residuos reciclables; y
 
-III. Ejecutar embargos sin orden escrita del Titular del Organismo Operador de Limpia.
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+
+III. Ejecutar embargos.
 
 A quienes infrinjan las disposiciones anteriores se harán acreedores a las sanciones establecidas en los ordenamientos legales que resulten aplicables.
 
@@ -15255,7 +16603,9 @@ e) 5,000 (DSM).- No cumplir con los requisitos solicitados en el Manifiesto de I
 
 El listado anterior es enunciativo más no limitativo. Las infracciones al presente Capítulo, serán sancionadas de manera análoga a las anteriormente señaladas, tomando en consideración lo dispuesto por el artículo 1389 del presente Capítulo.
 
-El pago de cualquier multa de las enumeradas en las fracciones anteriores, no libera al infractor de las sanciones que además, por infracciones y/o delitos de orden Municipal, Estatal y/o Federal incurra. Si el concesionario no cubre la multa a la que se hizo acreedor ante el Organismo, dentro del término de cinco días naturales a partir de su notificación, ésta se le hará efectiva a través del procedimiento administrativo de ejecución.
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+
+El pago de cualquier multa de las enumeradas en las fracciones anteriores, no libera al infractor de las sanciones que además, por infracciones y/o delitos de orden Municipal, Estatal y/o Federal incurra. Si el concesionario no cubre la multa a la que se hizo acreedor ante el Organismo, dentro del término de cinco días naturales a partir de su notificación, ésta se le hará efectiva mediante el procedimiento administrativo de ejecución que llevará a cabo la Tesorería Municipal a través del Departamento de Ejecución u Oficina Ejecutora de la Dirección de Ingresos.
 
 V. Arresto hasta por 36 horas;
 
@@ -15355,9 +16705,11 @@ DISPOSICIONES GENERALES
 
 El presente Capítulo tiene por objeto regular la actividad comercial, la organización, vigilancia y administración de los mercados del Municipio de Puebla.
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+
 ###### Artículo 1399.
 
-El funcionamiento de los Mercados Municipales, será operado y vigilado por conducto de la Dirección de Servicios Públicos del H. Ayuntamiento de Puebla. El servicio de los Mercados, podrá ser prestado por los particulares, previo acuerdo del H. Ayuntamiento de Puebla, por el cual se otorgue la concesión respectiva.
+El funcionamiento de los Mercados Municipales, será operado y vigilado por conducto del Departamento de Registro y Fiscalización de la Tesorería Municipal. El servicio de los Mercados, podrá ser prestado por los particulares, previo acuerdo del Honorable Ayuntamiento de Puebla, por el cual se otorgue la concesión respectiva.
 
 ###### Artículo 1400.
 
@@ -15365,7 +16717,9 @@ Para los efectos de este Capítulo, se considerará:
 
 I. MERCADO PÚBLICO: Al lugar o local que sea propiedad del Municipio, donde concurra una diversidad de comerciantes y consumidores en libre competencia, cuya oferta y demanda se refieren primordialmente a los artículos de primera necesidad, con excepción de la venta de artículos explosivos o combustibles;
 
-II. LICENCIA: Documento expedido por el Presidente Municipal a favor de un particular, a través del cual se autoriza el ejercicio del comercio en un lugar o local específico de un mercado en concreto y en el que se señala de manera puntual y limitativa, el tipo de productos o servicios que se pondrán al servicio de la ciudadanía;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+
+II. LICENCIA: Documento expedido por el Tesorero Municipal a través del Departamento de Registro y Fiscalización a favor de un particular, a través del cual se autoriza el ejercicio del comercio en un lugar o local específico de un mercado en concreto y en el que se señala de manera puntual y limitativa, el tipo de productos o servicios que se pondrán al servicio de la ciudadanía;
 
 III. COMERCIANTE: A la persona física o moral que dentro de los mercados públicos, hace del comercio su ocupación habitual;
 
@@ -15415,15 +16769,21 @@ III. Zona semihúmeda: Aquella en la que se expedirán toda clase de alimentos p
 
 IV. Zona de tianguis: Aquella en la que se expedirán artículos no perecederos, como ropa, calzado, plásticos, orfebrería, jarciería y similares a éstos.
 
-Excepcionalmente y por exclusivos efectos de regularización, la Dirección de Servicios Públicos podrá autorizar el expendio de mercancías en zonas que no correspondan a lo señalado en el presente artículo, siempre y cuando no afecte de forma alguna la naturaleza, salubridad y condiciones de cada zona.
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+
+Excepcionalmente y para efectos exclusivos de regularización, la Tesorería Municipal a través del Departamento de Registro y Fiscalización podrá autorizar el expendio de mercancías en zonas que no correspondan a lo señalado en el presente artículo, siempre y cuando no afecte de forma alguna la naturaleza, salubridad y condiciones de cada zona.
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
 
 ###### Artículo 1405.
 
-En la solicitud que formule el comerciante, deberá señalar el giro comercial para guardar el orden correspondiente, que quedará debidamente determinado en la autorización; reservándose la Dirección de Servicios Públicos, la facultad para señalar el lugar dentro del mercado municipal, en el que se pueda operar.
+En la solicitud que formule el comerciante, deberá señalar el giro comercial para guardar el orden correspondiente, que quedará debidamente determinado en la autorización; reservándose el Departamento de Registro y Fiscalización de la Tesorería Municipal, la facultad para señalar el lugar dentro del Mercado Municipal, en el que se pueda operar, lo cual informará a la Contraloría Municipal para los efectos que resulten procedentes.
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
 
 ###### Artículo 1406.
 
-Toda suspensión temporal de actividades por el comerciante a quien se la (sic) haya concedido la licencia u otorgamiento del contrato respectivo, deberá ser avisada con oportunidad a la Dirección de Servicios Públicos.
+Toda suspensión temporal de actividades por el comerciante a quien se la haya concedido la licencia u otorgamiento del contrato respectivo, deberá ser avisada al Departamento de Registro y Fiscalización de la Tesorería Municipal.
 
 DE LOS PRESTADORES DE SERVICIOS
 
@@ -15431,13 +16791,17 @@ DE LOS PRESTADORES DE SERVICIOS
 
 Dentro de los mercados públicos, se podrán prestar los servicios de sanitarios, báscula, refrigeración y los demás que el Ayuntamiento considere necesarios para cada uno de los mercados.
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+
 ###### Artículo 1408.
 
-La prestación de los servicios mencionados en el artículo anterior, estará a cargo de los propietarios que tengan el uso de suelo debidamente autorizado y en su caso por las personas que sin ser propietarios y contando con el uso del suelo, tenga la autorización del representante del Ayuntamiento respectivo, en los términos y condiciones que los mismos determinen.
+La prestación de los servicios mencionados en el articulo anterior, estará a cargo de los propietarios que tengan el uso de suelo debidamente autorizado y en su caso por las personas que sin ser propietarios y contando con el uso del suelo, tenga la autorización del Departamento de Registro y Fiscalización de la Tesorería Municipal.
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
 
 ###### Artículo 1409.
 
-Las cuotas que se cobren por la utilización de los servicios mencionados con antelación, serán propuestas por la Dirección de Servicios Públicos y enviadas a los integrantes del Ayuntamiento para el trámite jurídico correspondiente. Todo Pago de cuotas, deberá realizarse por los locatarios directamente en las oficinas recaudadoras, en la fecha y hora que señale la Tesorería Municipal; autoridad ésta que entregará el recibo correspondiente para que los locatarios presenten copia simple del mismo, a la Dirección de Servicios Públicos. Las cuotas serán ajustadas anualmente, de conformidad con las políticas financieras del Municipio, atendiendo en todo momento a la realidad social y al fomento del progreso económico y social del Municipio.
+Las cuotas y tarifas que se cobren por la prestación de los servicios mencionados con antelación, serán propuestas por la Dirección de Ingresos de la Tesorería Municipal y enviadas a los integrantes del Ayuntamiento para su aprobación. Todo pago de cuotas, deberá realizarse por los locatarios directamente en las oficinas recaudadoras de la Tesorería Municipal; autoridad que entregará el recibo correspondiente. Las cuotas y tarifas serán ajustadas anualmente por el Cabildo, de conformidad con las políticas financieras del Municipio, atendiendo en todo momento a la realidad social y al fomento del progreso económico y social del Municipio.
 
 ###### Artículo 1410.
 
@@ -15449,51 +16813,45 @@ Los prestadores de servicios tendrán la obligación de proporcionar el servicio
 
 ###### Artículo 1412.
 
-Todas las tarifas establecidas para el cobro de cualquier servicio de los antes señalados, deberán ser autorizados por el Presidente Municipal.
+(DEROGADO, P.O. 27 DE MARZO DE 2006)
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
 
 ###### Artículo 1413.
 
-Los servicios complementarios de carga y descarga, estiba, transporte de carga ligera y taxis, funcionarán en los términos y condiciones que determinen el Presidente Municipal o el representante del Ayuntamiento, en su caso.
+Los servicios complementarios de carga y descarga, estiba, transporte de carga ligera y taxis, funcionarán en los términos y condiciones que proponga el Departamento de Registro y Fiscalización de la Tesorería Municipal y sean aprobados por el Ayuntamiento.
 
 DEL EMPADRONAMIENTO
 
 ###### Artículo 1414.
 
-Todos los comerciantes deberán quedar empadronados ante la Tesorería Municipal, la que entregará constancia de ello, debiendo el empadronado, enviar copia de su cédula a la Dirección de Servicios Públicos para efectos de censo, verificación o cualesquiera otras diligencias que dicha autoridad estime convenientes, para el ejercicio de las facultades que le otorga el presente Capítulo y las que en su caso, ordene el Presidente Municipal.
+(DEROGADO, P.O. 27 DE MARZO DE 2006)
 
-###### Artículo 1415.
+###### Articulo 1415.
 
-Para obtener el empadronamiento a que se refiere el artículo anterior, se requiere cubrir los requisitos siguientes:
-
-I. Presentar ante la Dirección de Servicios Públicos y la tesorería Municipal una solicitud, en las formas aprobadas por el Municipio, cumpliendo con la manifestación verídica y exacta de los datos que se exigen en la misma;
-
-II. Comprobar ser mexicano por nacimiento y haber cumplido 18 años;
-
-III. Presentar constancia de no infracciones administrativas, expedida por la Dirección de Servicios Públicos;
-
-IV. Estar en pleno goce de los derechos políticos y civiles; y
-
-V. Someterse a estudios socioeconómicos.
-
-La solicitud podrá ser negada por resolución debidamente motivada y fundada que dicte la Dirección de Servicios Públicos.
+(DEROGADO, P.O. 27 DE MARZO DE 2006)
 
 ###### Artículo 1416.
 
-Los comerciantes deberán refrendar el empadronamiento durante el mes de enero de cada año.
+(DEROGADO, P.O. 27 DE MARZO DE 2006)
 
 ###### Artículo 1417.
 
-Se concede un plazo de veinte hábiles días a los locatarios u ocupantes de mercados municipales para que procedan a regularizar su situación respecto de su empadronamiento; por lo que deberán acudir a empadronarse a la Tesorería Municipal y a la Dirección de Servicios Públicos. En caso de no hacerlo, se procederá al desalojo conforme a la (sic) previsto por el presente capítulo.
+(DEROGADO, P.O. 27 DE MARZO DE 2006)
 
 DE LAS LICENCIAS
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+
 ###### Artículo 1418.
 
-Los comerciantes que operen en los Mercados Municipales, deberán solicitar la licencia correspondiente o celebrar contratos con el Municipio, a través de la Tesorería Municipal, cubriendo su respectiva cuota, de acuerdo con el tabulador y atendiendo a la superficie del local que se ocupe. De la licencia correspondiente, deberán remitir copia a la Dirección de Servicios Públicos, para los efectos administrativos necesarios.
+Los comerciantes que operen en los Mercados Municipales, deberán solicitar la licencia de funcionamiento o celebrar contratos de compraventa con el Municipio, a través del Departamento de Registro y Fiscalización de la Tesorería Municipal, cubriendo los derechos, productos o aprovechamientos de acuerdo a la de Ley de Ingresos vigente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2006)</small>
 
 ###### Artículo 1419.
 
-Para obtener la licencia y/o contrato, el interesado deberá presentar solicitud por escrito ante la Tesorería Municipal, acompañado de la documentación siguiente:
+Para obtener la licencia de funcionamiento o contrato de compraventa, el interesado deberá presentar solicitud por escrito ante el Departamento de Registro y Fiscalización, acompañado de la documentación siguiente:
 
 I. Identificación oficial o acta constitutiva en su caso;
 
@@ -15503,23 +16861,33 @@ III. Autorización de uso de suelo; y
 
 IV. Los demás que requiera la Tesorería para efectos de ubicación, censo o cualquier otro rubro.
 
-La respuesta de la Autoridad competente, se otorgará en un plazo no mayor a 7 días hábiles posteriores al día en que se presente la solicitud para la obtención de la licencia y/o contrato correspondiente, pudiendo ser negada por escrito debidamente fundado y motivado.
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+
+La respuesta a la solicitud se otorgará en un plazo no mayor a diez días hábiles posteriores al día en que se presente la solicitud para la obtención de la licencia de funcionamiento o contrato de compraventa correspondiente, pudiendo ser negada por escrito debidamente fundada y motivada, la cual deberá ser notificada al solicitante. En caso de no dar contestación por escrito en el término de referencia el Jefe del Departamento de Registro y Fiscalización incurrirá en responsabilidad administrativa.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+
+La Tesorería Municipal a través del Departamento de Registro y Fiscalización no podrá solicitar requisitos adicionales a los mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
 
 ###### Artículo 1420.
 
 En los mercados públicos municipales, las licencias de funcionamiento podrán incluir hasta tres locales en el mismo mercado, siempre que sean colindantes y operen dentro de la misma zona y hasta dos en distinta.
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+
 ###### Artículo 1421.
 
-Cuando un local permanezca cerrado o inactivo durante un lapso consecutivo de 30 días naturales y sin justificación, a juicio de la Dirección de Servicios Públicos, se procederá a la revocación de la licencia correspondiente y la correspondiente cancelación de su registro en el padrón de la Dirección de Servicios Públicos.
+Cuando un local permanezca cerrado o inactivo durante un lapso consecutivo de treinta días naturales y sin justificación, previo estudio fundado y motivado del Departamento de Registro y Fiscalización, se procederá a la revocación de la licencia y la cancelación de su registro en el padrón que al efecto lleve el propio Departamento de Registro y Fiscalización, debiendo al efecto observar la garantía de audiencia.
 
 ###### Artículo 1422.
 
 La Autoridad Municipal dará preferencia en el otorgamiento de licencias y/o contratos en los Mercados públicos, a las personas de escasos recursos que no puedan desempeñar otras labores, a los desempleados, a los discapacitados, a las viudas y a las madres de familia que sean el sostén del hogar.
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+
 ###### Artículo 1423.
 
-La Autoridad Municipal revisará o refrendará anualmente las licencias otorgadas, atendiendo a las disposiciones que al efecto expida la Dirección de Servicios Públicos y las que se desprendan del presente Capítulo.
+La Tesorería Municipal a través del Departamento de Registro y Fiscalización refrendará anualmente las licencias otorgadas, atendiendo a las disposiciones que se desprenden del presente Capítulo.
 
 MERCADOS TEMPORALES
 
@@ -15535,6 +16903,10 @@ III. Manifestación de voluntad de los vecinos donde se pretenda establecer el m
 
 IV. Fianza por la cantidad que a juicio de la autoridad competente, garantice que al fenecimiento de la autorización correspondiente, se realice la limpieza total del lugar donde se hubiere instalado. La autoridad, previa comprobación de que el lugar donde se instaló el mercado temporal se encuentra debidamente aseado, devolverá la cantidad de dinero que hubiere sido entregada para cumplimiento de esta fracción.
 
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+
+La respuesta a la solicitud se otorgará en un plazo no mayor a diez días hábiles posteriores al día en que se presente la solicitud para el establecimiento de un mercado temporal, pudiendo ser negada por escrito debidamente fundado y motivado debiendo notificarse la resolución al solicitante. En caso de no dar contestación por escrito en el término de referencia el Jefe del Departamento de Registro y Fiscalización incurrirá en responsabilidad administrativa.
+
 DE LAS AUTORIDADES COMPETENTES
 
 ###### Artículo 1425.
@@ -15545,9 +16917,13 @@ I. El Presidente Municipal;
 
 II. El Tesorero Municipal;
 
-III. El (sic) Dirección de Servicios Públicos; y
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
 
-IV. El funcionario que el Director de Servicios Públicos, con aprobación del Presidente Municipal, sea designado para la administración de los mercados municipales.
+III. El Jefe del Departamento de Registro y Fiscalización; y
+
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+
+IV. El funcionario que el Tesorero Municipal, con aprobación del Presidente Municipal, designe para la administración de los Mercados Municipales.
 
 ###### Artículo 1426.
 
@@ -15579,13 +16955,15 @@ I. Recaudar las cuotas, rentas y contribuciones que deben cubrir los locatarios 
 
 II. Requerir de pago a quienes incumplan con las obligaciones a que se requiere (sic) el inciso anterior e iniciar en su caso, las diligencias correspondientes para la recuperación de créditos fiscales vencidos o determinados por virtud de obligaciones tributarias;
 
-III. Expedir la cédula de empadronamiento o número de cuenta a los locatarios u ocupantes de los Mercados Municipales.
+III.- (DEROGADA, P.O. 27 DE MARZO DE 2006)
 
 IV. Las demás que se desprendan de la Ley Orgánica Municipal para el Estado de Puebla y del presente Capítulo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2006)</small>
+
 ###### Artículo 1428.
 
-Compete a la Dirección de Servicios Públicos:
+Compete al Departamento de Registro y Fiscalización;
 
 I. Llevar el padrón de los comerciantes que acudan u ocupen los Mercados Municipales;
 
@@ -15597,15 +16975,21 @@ IV. Expedir las credenciales con fotografía en la que se identifique al titular
 
 V. Solicitar el auxilio de la fuerza pública para el desarrollo de las actividades derivadas del cumplimiento del presente Capítulo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2006)</small>
+
 ###### Artículo 1429.
 
-Compete al funcionario que el Director de Servicios Públicos con la aprobación del Presidente Municipal designe, para la administración de los mercados municipales:
+Compete al funcionario que el Tesorero Municipal con la aprobación del Presidente Municipal designe, para la administración de los Mercados Municipales:
 
-I. Remitir las solicitudes para la expedición de las licencias;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+
+I. Remitir las solicitudes para la expedición de las licencias al Departamento de Registro y Fiscalización;
 
 II. Enviar a la Tesorería Municipal lo recaudado por concepto de pago de derecho de piso y concesiones de servicios adjuntando los recibos correspondientes, en los que debe constar con número y letra la cantidad que amparen y su concepto;
 
-III. Informar al Presidente o al Director de Servicios Públicos, respecto de las obras de mejoramiento, mantenimiento y remozamiento del mercado público o central de abastos a su cargo, que se pretendan llevar a cabo por parte de los comerciantes;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+
+III. Informar al Presidente o al Jefe del Departamento de Registro y Fiscalización, respecto de las obras de mejoramiento, mantenimiento y remozamiento del mercado público o central de abastos a su cargo, que se pretendan llevar a cabo por parte de los comerciantes;
 
 IV. Vigilar que en los Mercados del Municipio, prive la sana convivencia y la libre concurrencia para el desarrollo de la actividad comercial y beneficio de la ciudadanía en general; y
 
@@ -15625,27 +17009,37 @@ I. Contratar y pagar el suministro de energía eléctrica, combustible, agua pot
 
 II. Asear los puestos, plataformas, locales o bodegas y sus áreas comunes, debiendo depositar los desechos que ello genere en el camión recolector;
 
-III. Realizar ininterrumpidamente la comercialización de sus productos, salvo en los casos en que cuente con permiso expreso de la Autoridad Municipal, el cual no podrá exceder de 30 días por una sola vez;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+
+III. Realizar ininterrumpidamente la comercialización de sus productos, salvo en los casos en que cuente con permiso expreso del Departamento de Registro y Fiscalización, el cual no podrá exceder de 30 días por una sola vez;
 
 IV. Sujetarse al horario que determine el Presidente Municipal, para realizar las operaciones comerciales, maniobra de carga y descarga, registro, entrada y salida de vehículos, limpieza y recolección de desechos y cualquier otro servicio;
 
 V. Operar exclusivamente conforme al giro autorizado;
 
-VI. Pagar oportunamente las cuotas, rentas o precios asignados en los permisos, licencias o contratos de locales, gozando como término hasta 5 días hábiles para pagarlas, en caso contrario de aplicará una sanción pecuniaria que será fijada por la autoridad competente, independientemente del ejercicio de las acciones correspondientes;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+
+VI. Pagar oportunamente las contribuciones, cuotas, rentas o precios asignados en los permisos, licencias o contratos de locales, en caso contrario se aplicará una sanción pecuniaria en los términos del presente Capítulo;
 
 VII. Destinar el local al comercio directo y al menudeo de productos básicos, manteniéndolo en buen estado y observando las normas de higiene, aseo, limpieza y seguridad impuestas por las autoridades competentes;
 
-VIII. Observar las indicaciones que la Autoridad Municipal dicte en materia de ubicación, reubicación, dimensión y color de los locales;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+
+VIII. Observar las indicaciones que, de manera fundada y motivada, el Departamento de Registro y Fiscalización dicte en materia de ubicación, reubicación, dimensión y color de los locales;
 
 IX. Respetar las normas del comercio y salud pública;
 
-X. Manifestar su giro ante la Tesorería Municipal, remitiendo copia a la Dirección de Servicios Públicos, para los efectos que correspondan;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+
+X. Manifestar su giro ante el Departamento de Registro y Fiscalización;
 
 XI. Refrendar los permisos, licencias y/o contratos, en los términos que señale la autoridad competente;
 
 XII. Ejercer personalmente el comercio y atendiendo directamente al consumidor; y
 
-XIII. Realizar la devolución tanto material como jurídica del local a la Dirección de Servicios Públicos cuando:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2006)</small>
+
+XlII. Realizar la devolución tanto material como jurídica del local al Departamento de Registro y Fiscalización cuando:
 
 a) El locatario ya no desee seguir explotándolo;
 
@@ -15655,7 +17049,9 @@ b) La autoridad Municipal competente así lo determine, en términos de lo dispu
 
 Los locatarios ocupantes de los locales en los mercados municipales, tendrán las siguientes prohibiciones:
 
-I. Efectuar cambios de giros, sin la autorización de la Dirección de Servicios Públicos;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+
+I. Efectuar cambios de giros, sin la autorización del Departamento de Registro y Fiscalización;
 
 II. Almacenar, vender y/o introducir materiales inflamables, explosivos, contaminantes y los que pudiera representar peligro para las personas o bienes que se encuentran dentro de las áreas o zonas de los mercados municipales, así como utilizar el mercado como bodega;
 
@@ -15679,9 +17075,11 @@ XI. Destinar para fines habitacionales o cualquier otro similar que no sea el de
 
 DE LOS TRASPASOS Y CAMBIOS DE GIRO
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+
 ###### Artículo 1433.
 
-Los comerciantes a que se refiere este capítulo, deberán solicitar por escrito a la Dirección de Servicios Públicos, la autorización para traspasar sus derechos sobre los locales y giros a que se destine, así como para cambiar el giro de las actividades comerciales a las cuales se le hubiere autorizado.
+Los comerciantes a que se refiere este Capítulo, deberán solicitar por escrito al Departamento de Registro y Fiscalización, la autorización para traspasar sus derechos sobre los locales y giros a que se destine, así como para cambiar el giro de las actividades comerciales a las cuales se le hubiere autorizado.
 
 ###### Artículo 1434.
 
@@ -15691,31 +17089,53 @@ I. Presentar solicitud por escrito tanto del cedente como del cesionario;
 
 II. Demostrar que el cesionario tiene capacidad jurídica, ser de nacionalidad mexicana, o en su caso demostrar su legal estancia en el país, para los efectos del presente capítulo;
 
-III. Acompañar a la solicitud la cédula de empadronamiento que se expidió, así como los comprobantes de pagos al corriente, de las obligaciones fiscales contractuales, reglamentarias y legales, derivadas de su actividad;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+
+III. Acompañar a la solicitud la licencia de funcionamiento que se expidió, así como los comprobantes de pagos al corriente, de las obligaciones fiscales contractuales, reglamentarias y legales, derivadas de su actividad;
 
 IV. Obtener la autorización sanitaria de la autoridad competente; y
 
 V. Presentar tres fotografías.
 
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
+
+La Tesorería Municipal a través del Departamento de Registro y Fiscalización no podrá solicitar requisitos adicionales a los mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+
 ###### Artículo 1435.
 
-Para cambio de giro, se deberán cumplir con los requisitos exigidos para la obtención del permiso y estos podrían realizarse, sobre todo tomando en cuenta que en los mercados municipales se expenden productos de temporada, pero en cualquier caso deberá notificarse a la autoridad municipal.
+Para cambio de giro, se deberá cumplir con los requisitos exigidos para la obtención del permiso y éste podrá realizarse, tomando en cuenta que los Mercados Municipales expenden productos de temporada, debiendo notificarse al Departamento de Registro y Fiscalización.
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
 
 ###### Artículo 1436.
 
-La Tesorería Municipal y la Dirección de Servicios Públicos, una vez que hayan cumplido los requisitos administrativos y legales, autorizarán el traspaso o el cambio de giro y la Tesorería expedirá la cédula de empadronamiento y número de cuenta, en un término no mayor a diez días hábiles.
+El Departamento de Registro y Fiscalización, una vez que hayan cumplido los requisitos administrativos y legales, autorizará el traspaso o el cambio de giro y expedirá la licencia de funcionamiento, en un término no mayor a diez días hábiles.
+
+En caso de que transcurrido el término de referencia el Jefe del Departamento de Registro y Fiscalización no de contestación por escrito al solicitante, se tendrá por otorgada la licencia, independientemente de la responsabilidad administrativa en que incurra el servidor público.
+
+Se exceptúa de lo establecido en el párrafo anterior, cuando se formule solicitud de cambio de giro comercial, y la nueva actividad incluya la venta, consumo o enajenación de bebidas alcohólicas, o expendio de sustancias susceptibles de inhalación y efectos tóxicos, en cuyo caso procederá, ante el silencio de la autoridad, la negativa ficta del cambio de giro.
+
+Contra el acto que emita el Jefe del Departamento de Registro y Fiscalización, que niegue el traspaso o cambio de giro, el solicitante podrá interponer el Recurso de Revisión previsto en el Código Fiscal y Presupuestario para el Municipio de Puebla.
+
+De no otorgarse el traspaso o cambio de giro, la Tesorería Municipal hará la devolución al solicitante del pago de derechos a través de las cajas a su cargo. Los licenciatarios estarán obligados al pago de los gastos de trámite de la licencia negada, pagando el 2% sobre el importe total por el concepto de la misma.
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
 
 ###### Artículo 1437.
 
-Todo traspaso o cambio de giro no autorizado, se considera nulo de pleno derecho y la Dirección de Servicios Públicos procederá al desalojo del local correspondiente, en forma inmediata.
+Todo traspaso no autorizado, propiciará la clausura temporal de uno a treinta días naturales, el cambio de giro no autorizado propiciará la clausura definitiva, la cual será decretada por el Departamento de Registro y Fiscalización debidamente fundada y motiva, en cualquier caso se preservará la garantía de audiencia correspondiente.
 
 ###### Artículo 1438.
 
-Serán nulos de pleno derecho los usos, intercambios familiares, cambios de giro por actos de persona a persona, por causa de muerte, si no se cuenta con la previa autorización de la Dirección de Servicios Públicos, en la forma y términos previstos en el presente Capítulo.
+(DEROGADO, P.O. 27 DE MARZO DE 2006)
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
 
 ###### Artículo 1439.
 
-En caso de fallecimiento de algún locatario, los herederos que lo sean en línea directa o consanguínea, gozarán del derecho de preferencia para que se les otorgue el contrato, licencia o permiso del local. Los herederos que se encuentren en el supuesto anterior, tendrán el derecho de preferencia principalmente, pero en caso de que no existan estos, será aquel que a falta del titular haya trabajado el local objeto de la controversia, con el simple hecho de notificarlo a la autoridad municipal.
+En caso de fallecimiento de algún locatario, los herederos que lo sean en línea directa o consanguínea, gozarán del derecho de preferencia para que se les otorgue el contrato, licencia o permiso del local. Los herederos que se encuentren en el supuesto anterior, tendrán el derecho de preferencia principalmente, pero en caso de que no existan éstos, será aquél que a falta del titular compruebe que ha trabajado el local objeto de la controversia, y manifieste bajo protesta de decir verdad ante el Jefe del Departamento de Registro y Fiscalización que no existen familiares que puedan ejercer el derecho de preferencia.
 
 ###### Artículo 1440.
 
@@ -15727,9 +17147,11 @@ DE LAS SANCIONES
 
 La autoridad municipal tendrá atribuciones para sancionar con el retiro de mercancías en caso de evidente insalubridad.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2006)</small>
+
 ###### Artículo 1442.
 
-Corresponde al Presidente Municipal y al Director de Servicios Públicos en forma exclusiva, imponer indistintamente a los comerciantes que violen el presente capítulo, las siguientes sanciones:
+Corresponde al Presidente Municipal por conducto del Jefe del Departamento de Registro y Fiscalización en forma exclusiva, imponer indistintamente a los comerciantes que violen el presente Capítulo, las siguientes sanciones:
 
 I. Amonestación;
 
@@ -15743,9 +17165,13 @@ V. Clausura definitiva y cancelación de la licencia; y
 
 VI. Arresto administrativos hasta por 18 horas.
 
-Cuando se imponga una multa económica, el comerciante deberá regularizar inmediatamente la situación por la que se generó la sanción, en la inteligencia de que, sin perjuicio de la obligación de pago de la sanción impuesta en las oficinas recaudadoras de la Tesorería Municipal y la suspensión inmediata de tales actos; de continuar con las conductas que constituyan infracción al presente Capítulo, la Dirección de Servicios Públicos procederá a la clausura temporal señalada en la fracción III de este artículo, considerando como reincidencia, a la mencionada continuidad de conductas constitutivas de infracción.
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
 
-Lo dispuesto en este artículo, se aplicará sin perjuicio de la obligación de dar vista al Ministerio Público de actos que a juicio de la Dirección de Servicios Públicos, puedan resultar constitutivos de delitos.
+Cuando imponga una multa económica el Jefe del Departamento de Registro y Fiscalización, el comerciante deberá regularizar en un termino no mayor a quince días naturales la situación por la que se generó la sanción, en la inteligencia de que, sin perjuicio de la obligación de pago de la sanción impuesta en las oficinas recaudadoras de la Tesorería Municipal y la suspensión inmediata de tales actos; de continuar con las conductas que constituyan infracción al presente Capítulo, el Departamento de Registro y Fiscalización procederá a la clausura temporal de uno a treinta días naturales, considerando como reincidencia, a la mencionada continuidad de conductas constitutivas de infracción.
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+
+Lo dispuesto en este articulo, se aplicará sin perjuicio de la obligación del Departamento de Registro y Fiscalización, por conducto de la Sindicatura Municipal, de dar vista al Ministerio Público de actos que puedan resultar constitutivos de delitos.
 
 ###### Artículo 1443.
 
@@ -15761,9 +17187,11 @@ IV. Las circunstancias de tiempo y lugar en que haya sido cometida la infracció
 
 Para los efectos de este capítulo, será considerado como reincidente el comerciante que cometa dos o más infracciones; y de conformidad con el artículo anterior, la falta de suspensión inmediata de actos que constituyan infracciones al presente Capítulo.
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+
 ###### Artículo 1444.
 
-Contra los actos de las autoridades señaladas en el presente Capítulo, procederá el recurso de inconformidad señalado en la Ley Orgánica Municipal para el Estado de Puebla.
+Contra los actos de las autoridades señaladas en el presente Capítulo, procederá el Recurso de Revisión señalado en el Código Fiscal y Presupuestario para el Municipio de Puebla y su Reglamento.
 
 ### CAPÍTULO 24. ESTACIONAMIENTOS
 
@@ -19851,6 +21279,86 @@ VII. Suspensión de la licencia, permiso, concesión o autorización, según el 
 
 VIII. Arresto administrativo hasta por treinta y seis horas.
 
+###### Artículo 1821.
+
+Las sanciones por infracción a las disposiciones que se disponen en el presente Capítulo serán impuestas por el Director de Ecología. Las sanciones que se aplicarán por violación a las disposiciones contenidas en el presente Capítulo, consistirán en:
+
+I. Amonestación;
+
+II. Apercibimiento;
+
+III. Multa, conforme a la siguiente tabla:
+
+SUPUESTO NORMATIVO INFRACCIÓN
+
+1.- Por carecer del dictamen favorable de la Dirección de Ecología, en los giros comerciales para los que se requiera, de conformidad con el presente Capítulo y las disposiciones de este Código Reglamentario Municipal
+
+De 10 a 175 días de Salario Mínimo Vigente en el Municipio de Puebla
+
+2.- Por sobrepasar los límites establecidos en la normatividad ambiental vigente o causar molestias a la ciudadanía, al no controlar las emisiones contaminantes a la atmósfera procedente de fuentes fijas de competencia municipal
+
+De 10 a 350 días de Salario Mínimo Vigente en el Municipio de Puebla
+
+3.- Por no dar aviso a la autoridad competente de las fallas en los equipos de control de contaminantes a la atmósfera en fuentes fijas de competencia municipal
+
+De 20 a 350 días de Salario Mínimo Vigente en el Municipio de Puebla
+
+4.- Por falta de permiso de la Dirección de Ecología para efectuar combustión a cielo abierto
+
+De 20 a 350 días de Salario Mínimo Vigente en el Municipio de Puebla
+
+5.- Por carecer de inscripción en el Padrón Municipal de giros de competencia municipal potencialmente emisores de contaminación ostensible a la atmósfera
+
+De 20 a 175 días de Salario Mínimo Vigente en el Municipio de Puebla
+
+6.- Por descarga al sistema de drenaje municipal, cauces naturales o al subsuelo aguas, productos o líquidos residuales provenientes de procesos cuyos parámetros estén fuera de las normas contempladas en la legislación y reglamentación ambiental vigente
+
+De 20 a 1500 días de Salario Mínimo Vigente en el Municipio de Puebla
+
+SUPUESTO NORMATIVO INFRACCIÓN
+
+7.- Por contaminar con residuos y no manejarlos, transportarlos y disponerlos adecuadamente de conformidad con la legislación ambiental vigente
+
+De 15 a 50 días de Salario Mínimo Vigente en el Municipio de Puebla
+
+8.- Por realizar poda o derribo sin la autorización municipal, por unidad, independientemente de reparar el daño causado
+
+De 20 a 175 días de Salario Mínimo Vigente en el Municipio de Puebla
+
+9.- Los giros comerciales, industriales o de servicios que emitan ruido o vibraciones a la atmósfera que rebasen los niveles máximos permisibles de la normatividad vigente, o que causen molestias a la ciudadanía
+
+De 15 a 65 días de Salario Mínimo Vigente en el Municipio de Puebla
+
+10.- Por carecer de bitácora de operación y mantenimiento de sus equipos de control anticontaminantes
+
+De 10 a 20 días de Salario Mínimo Vigente en el Municipio de Puebla
+
+11.- Por almacenar inadecuadamente o sin permiso de la autoridad competente residuos o substancias consideradas como peligrosas o contaminantes, así como abandonar en la vía pública o sitios públicos residuos provenientes de clínicas u hospitales
+
+De 35 a 300 días de Salario Mínimo Vigente en el Municipio de Puebla
+
+12.- Por carecer de equipo y autorización para la incineración o traslado de residuos y sustancias peligrosas por parte de la autoridad competente
+
++¿
+
+De 10 a 200 días de Salario Mínimo Vigente en el Municipio de Puebla
+
+13.- Cuando las contravenciones a la reglamentación municipal vigente a que se refiere esta fracción, conlleven un riesgo de desequilibrio ecológico por casos de contaminación con repercusiones peligrosas para los ecosistemas, sus componentes o la salud pública, la sanción aplicable será
+
+De 50 a 3000 días de Salario Mínimo Vigente en el Municipio de Puebla
+
+Las multas señaladas en esta fracción, se aplicarán sin perjuicio de lo que señalan otros capítulos del presente Código Reglamentario y las demás leyes y demás disposiciones jurídicas que resulten aplicables al caso concreto;
+
+IV. Clausura parcial o total, temporal o definitiva;
+
+V. Revocación de la licencia, permiso, concesión o autorización, según el caso;
+
+VI. Cancelación de la licencia, permiso, concesión, registro o autorización, según el caso;
+
+VII. Suspensión de la licencia, permiso, concesión o autorización, según el caso; y
+
+VIII. Arresto administrativo hasta por treinta y seis horas.
+
 ###### Artículo 1822.
 
 En caso de no contar con autorización expresa por parte de la Dirección conforme a lo establecido en el artículo 1741 del presente ordenamiento, el responsable se hará acreedor a las sanciones que se establecerán conforme a los siguientes criterios:
@@ -21007,6 +22515,246 @@ V. ESTABLECIMIENTO.- Los locales, sus instalaciones y anexos, estén cubiertos o
 
 Quedan sujetos al presente Capítulo, los propietarios, encargados de establecimientos o personas que expendan o utilicen las substancias previstas en las fracciones I y II del artículo 1930.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE MARZO DE 2006)</small>
+
+Los establecimientos comerciales a que se refiere el presente artículo son los siguientes:
+
+1. MISCELÁNEA CON VENTA DE CERVEZA EN BOTELLA CERRADA
+
+2. MISCELÁNEA CON VENTA DE BEBIDAS ALCOHÓLICAS EN BOTELLA CERRADA
+
+3. ULTRAMARINOS CON VENTA DE CERVEZA EN BOTELLA CERRADA
+
+4. ULTRAMARINOS CON VENTA DE BEBIDAS ALCOHÓLICAS EN BOTELLA CERRADA
+
+5. BODEGA CON VENTA DE ABARROTES, BEBIDAS ALCOHÓLICAS EN BOTELLA CERRADA
+
+6. TIENDA DE AUTOSERVICIO CON VENTA DE VINOS Y LICORES EN BOTELLA CERRADA
+
+7. TIENDA DE AUTOSERVICIO CON VENTA DE BEBIDAS ALCOHÓLICAS LAS 24 HRS. EN BOTELLA CERRADA
+
+8. TIENDA DE AUTOSERVICIO CON VENTA DE BEBIDAS ALCOHÓLICAS EN BOTELLA CERRADA
+
+9. FABRICACIÓN Y VENTA DE MUEBLES
+
+10. CARPINTERÍA
+
+11. CARPINTERÍA Y TAPICERÍA
+
+12. FABRICACIÓN Y VENTA DE MUEBLES DE MADERA
+
+13. HERRERÍA Y PAILERÍA
+
+14. MATERIALES PARA CONSTRUCCIÓN
+
+15. MATERIALES PARA PAVIMENTACIÓN
+
+16. IMPRENTA
+
+17. IMPRENTA Y PAPELERÍA
+
+18. MANUFACTURA DE CELULOSA, PAPEL Y SUS PRODUCTOS
+
+19. DESTILACIÓN DE ALCOHOLES Y VINOS
+
+20. DESTILACIÓN Y VENTA DE ALCOHOL INDUSTRIAL Y MEDICINAL
+
+21. ELABORACIÓN DE ARTÍCULOS FARMACÉUTICOS
+
+22. ELABORACIÓN Y VENTA DE ARTÍCULOS DE PERFUMERÍA
+
+23. EMBOTELLADORA O FÁBRICA DE GASES
+
+24. FÁBRICA DE COMBUSTIBLES
+
+25. FÁBRICA DE PRODUCTOS DE LIMPIEZA
+
+26. FÁBRICA DE OTROS PRODUCTOS QUÍMICOS
+
+27. FÁBRICA DE CALZADO
+
+28. FÁBRICA DE ARTÍCULOS PARA EL HOGAR
+
+29. OTRAS INDUSTRIAS
+
+30. FUMIGADORAS
+
+31. OTROS SERVICIOS AGROPECUARIOS
+
+32. EQUIPOS DE SEGURIDAD, ALARMAS Y CIRCUITO CERRADO
+
+33. CLÍNICA VETERINARIA CON VENTA DE MASCOTAS, ALIMENTOS Y ACCESORIOS
+
+34. CLÍNICA, SANATORIO U HOSPITAL
+
+35. CONSULTORIO y TIENDA NATURISTA
+
+36. LABORATORIO DE ANÁLISIS CLÍNICOS Y QUÍMICOS
+
+37. ELABORACIÓN DE PRODUCTOS Y ACCESORIOS DENTALES
+
+38. INSTALACIÓN DE GAS Y ACCESORIOS
+
+39. MANTENIMIENTO DE EXTINGUIDORES
+
+40. REPARACIÓN DE ARTÍCULOS DE PIEL
+
+41. REPARACIÓN DE CALZADO
+
+42. REPARACIÓN DE EQUIPOS DE AUTÓGENA
+
+43. REPARACIÓN DE EQUIPOS INDUSTRIALES
+
+44. REPARACIÓN E INSTALACIÓN DE ALFOMBRAS, TAPETES Y TAPICES
+
+45. SERVICIO AUTOMOTRIZ CON VENTA DE REFACCIONES
+
+46. SERVICIO DE HOJALATERÍA Y PINTURA
+
+47. SERVICIO MECÁNICO AUTOMOTRIZ
+
+48. SERVICIO MECÁNICO, HOJALATERÍA Y PINTURA
+
+49. TALACHERÍA
+
+50. TALLER DE ESCULTURA Y PINTURA
+
+51. TALLER DE RÓTULOS
+
+52. TALLER MECÁNICO SIN INGRESOS
+
+53. TAPICERÍA
+
+54. OTROS SERVICIOS AUTOMOTRICES
+
+55. OTROS TALLERES
+
+56. CROMADOS
+
+57. ESTÉTICAS
+
+58. ESTUDIO FOTOGRÁFICO
+
+59. GASOLINERÍA
+
+60. LAVANDERÍA
+
+61. SALA DE BELLEZA Y COSMETOLOGÍA
+
+62. COMPRA VENTA DE ABONOS, FERTILIZANTES E INSECTICIDAS
+
+63. ABARROTES
+
+64. CAFETERÍA Y FARMACIA
+
+65. MISCELÁNEA
+
+66. TIENDA DE PRODUCTOS NATURISTAS
+
+67. ULTRAMARINOS
+
+68. COMPRA VENTA DE APARATOS E INSTRUMENTOS AGRÍCOLAS
+
+69. COMPRA VENTA DE APARATOS E INSTRUMENTOS MÉDICOS Y DE LABORATORIO
+
+70. COMPRA VENTA DE APARATOS Y ACCESORIOS DENTALES
+
+71. BODEGA DE EXPLOSIVOS, CORROSIVOS, INFLAMABLES Y/O TÓXICOS
+
+72. BODEGA DE PRODUCTOS E INSUMOS AGROPECUARIOS
+
+73. BODEGA DE PRODUCTOS E INSUMOS INDUSTRIALES
+
+74. COMPRA VENTA DE EQUIPO FOTOGRÁFICO, ELECTRÓNICO Y ELECTRODOMÉSTICO
+
+75. COMPRA VENTA DE EQUIPO FOTOGRÁFICO, REVELADO E IMPRESIÓN
+
+76. COMPRA VENTA DE EQUIPO PARA COMERCIO, OFICINA Y COPIADORA
+
+77. COMPRA VENTA DE EQUIPOS Y ACCESORIOS INDUSTRIALES
+
+78. COMPRA VENTA DE EQUIPOS Y SISTEMAS DE CONTROL AMBIENTAL
+
+79. COMPRA VENTA CONSIGNACIÓN DE MAQUINARIA Y EQUIPO PESADO
+
+80. EQUIPAMIENTO Y SERVICIO DE ALBERCAS
+
+81. FARMACIA VETERINARIA
+
+82. ESTÉTICA VETERINARIA
+
+83. TIENDA DE ANIMALES Y ACCESORIOS
+
+84. PARTES PARA AUTOMÓVILES
+
+85. REFACCIONARIA EN GENERAL
+
+86. OTRAS REFACCIONARIAS
+
+87. AGENCIA DE AUTOS, REFACCIONES Y SERVICIOS
+
+88. ACCESORIOS PARA ARTES GRÁFICAS
+
+89. BOTICA
+
+90. COMPRA VENTA DE ABRASIVOS Y CORROSIVOS
+
+91. COMPRA VENTA DE ACCESORIOS PARA AUTOMÓVILES
+
+92. COMPRA VENTA DE ARTÍCULOS DEPORTIVOS Y ARMERÍA
+
+93. COMPRA VENTA DE ARTÍCULOS DEPORTIVOS Y EQUIPO MILITAR
+
+94. COMPRA VENTA DE ARTÍCULOS PARA DECORACIÓN
+
+95. COMPRA VENTA DE ARTÍCULOS PARA MANUALIDADES
+
+96. COMPRA VENTA DE ARTÍCULOS Y ACCESORIOS PARA COCINAS Y BAÑOS
+
+97. COMPRA VENTA DE COMBUSTIBLES Y LUBRICANTES
+
+98. COMPRA VENTA DE IMPERMEABILIZANTES Y ADITIVOS PARA CONCRETO
+
+99. COMPRA VENTA DE MATERIAL PARA CONSTRUCCIÓN
+
+100. COMPRA VENTA DE PINTURAS, SOLVENTES E IMPERMEABILIZANTES
+
+101. COMPRA VENTA DE PRODUCTOS POPULARES
+
+102. COMPRA VENTA DE PRODUCTOS QUÍMICOS
+
+103. CENTRO DE COPIADO Y PAPELERÍA
+
+104. EXPENDIO DE CARBÓN Y PETRÓLEO
+
+105. FARMACIA
+
+106. FARMACIA Y DROGUERÍA
+
+107. FARMACIA Y PERFUMERÍA
+
+108. FERRETERÍA
+
+109. FERRETERÍA Y TLAPALERÍA
+
+110. LIBRERÍA y PAPELERÍA
+
+111. PAPELERÍA
+
+112. PAPELERÍA Y ESCRITORIO PÚBLICO
+
+113. PAPELERÍA, MERCERÍA Y REGALOS
+
+114. PELETERÍA
+
+115. PERFUMERÍA, ARTÍCULOS DE BELLEZA Y REGALOS
+
+116. TIENDA DE AUTOSERVICIO SIN VENTA DE VINOS Y LICORES
+
+117. TIENDA DEPARTAMENTAL SIN VENTA DE VINOS Y LICORES
+
+118. TLAPALERÍA
+
 ###### Artículo 1932.
 
 El Honorable Ayuntamiento de Puebla a fin de combatir y prevenir el mal uso de las sustancias a que se refiere este Capítulo, así como evitar la proliferación de graffitis a través de las pinturas en aerosol, establece las siguientes medidas:
@@ -21019,7 +22767,41 @@ III. En los centros de trabajo que requieran para el desempeño de su trabajo de
 
 IV. El propietario o encargado del establecimiento o la persona que se dedique a la comercialización de las sustancias mencionadas en las fracciones I y II del artículo 1930, llevará un registro de la venta de dichos productos, el cual deberá ser exhibido a los inspectores municipales cuando lo requieran;
 
-V. Todo propietario o encargado de un establecimiento mercantil o personas que expendan cualquiera de las substancias y pinturas en aerosol previstas en el artículo 1930, deberán contar con la autorización para vender o distribuir dichas substancias la que se solicitará por escrito ante el Ayuntamiento, independientemente de las licencias que deben expedirles las autoridades sanitarias federales, estatales y/o el propio Ayuntamiento;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+
+V.- Todo propietario o encargado de un establecimiento mercantil o personas que expendan cualquiera de las substancias y pinturas en aerosol previstas en el artículo 1930 y 1931, deberán contar con licencia de sustancias susceptibles de inhalación y efectos tóxicos, expedida por la Tesorería Municipal a través del Departamento de Registro y Fiscalización, para vender o distribuir dichas substancias, independientemente de las licencias que deben expedirles las autoridades federales, estatales y/o el propio Ayuntamiento.
+
+Para el trámite de licencia de sustancias susceptibles de inhalación y efectos tóxicos y su actualización, los titulares de las licencias deberán cumplir los siguientes requisitos:
+
+A. Licencia de sustancias susceptibles de inhalación y efectos tóxicos:
+
+a) Formato de licencia de sustancias susceptibles de inhalación y efectos tóxicos, el formato de actualización de la misma, según el caso, expedidos por el Departamento de Registro y Fiscalización;
+
+b) Licencia de funcionamiento original expedida por la Tesorería Municipal a través del Departamento de Registro y Fiscalización;
+
+c) Identificación oficial. Para el caso de realizar el trámite a través de un gestor éste deberá observar lo establecido en el artículo 38 del Código Fiscal y Presupuestario para el Municipio de Puebla;
+
+d) Acta constitutiva y poder notarial, para personas morales; y
+
+e) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio de Puebla vigente.
+
+Para el caso de actualización de la licencia, además se acompañara la licencia de sustancias susceptibles de inhalación y efectos tóxicos original expedida por la Tesorería Municipal a través del Departamento de Registro y Fiscalización.
+
+La Tesorería Municipal a través del Departamento de Registro y Fiscalización no podrá solicitar requisitos adicionales a los mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
+
+El Jefe del Departamento de Registro y Fiscalización, en un término no mayor de diez días hábiles contados a partir del día siguiente en que reciba la solicitud deberá otorgar la licencia de sustancias susceptibles de inhalación y efectos tóxicos siempre que se cumplan los requisitos señalados anteriormente.
+
+En caso de que transcurrido el término de referencia el Jefe del Departamento de Registro y Fiscalización no dé contestación por escrito al solicitante, se tendrá por negada la solicitud.
+
+Contra el acto que emita el Jefe del Departamento de Registro y Fiscalización, que niegue el otorgamiento y actualización de la licencia de sustancias susceptibles de inhalación y efectos tóxicos, el contribuyente podrá interponer el Recurso de Revisión previsto en el Código Fiscal y Presupuestario para el Municipio de Puebla y su Reglamento.
+
+En el caso de que el Recurso de Revisión se interponga en contra de una negativa ficta, la Dirección General Jurídica Consultiva Municipal dará vista a la Contraloría Municipal.
+
+De no otorgarse la licencia de sustancias susceptibles de inhalación y efectos tóxicos la Tesorería Municipal hará la devolución al solicitante del pago de derechos a través de las cajas a su cargo. En este caso, los solicitantes estarán obligados al pago de los gastos de trámite de la licencia negada, pagando el 2% sobre el importe total por el concepto de la misma.
+
+La actualización de la licencia a que se refiere el presente Capítulo, se realizará siguiendo el calendario que establezca la Tesorería Municipal, con la aprobación del Cabildo.
+
+Para la reposición de licencia de sustancias susceptibles de inhalación y efectos tóxicos por extravío o destrucción parcial o total, se pagarán los derechos que contemple la Ley de Ingresos del Municipio vigente. En este caso el solicitante deberá proporcionar sus datos personales, los de la negociación y la fecha de expedición de la licencia;
 
 VI. Todo establecimiento mercantil que venda o distribuya las substancias, materia de este Capítulo, deberá tener en un lugar visible al público la autorización a la que se contrae el artículo anterior; y
 
@@ -21033,7 +22815,9 @@ I. Al Honorable Ayuntamiento;
 
 II. Al Presidente Municipal;
 
-III. Al Director de Normatividad Comercial e Industrial de la Secretaría de Gobernación del Honorable Ayuntamiento del Municipio de Puebla o cualquier Unidad Administrativa, sea cual fuere su denominación, encargada de dar cumplimiento al presente Capítulo; y
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+
+III. Al Jefe del Departamento de Registro y Fiscalización, adscrito a la Dirección de Ingresos de la Tesorería Municipal;
 
 IV. Al Director General del DIF Municipal.
 
@@ -21041,9 +22825,11 @@ IV. Al Director General del DIF Municipal.
 
 El Honorable Ayuntamiento tendrá la obligación de salvaguardar los intereses de la población que comprende a los menores de edad a través de las campañas de educación preventiva que coordinará conjuntamente con el DIF Municipal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2006)</small>
+
 ###### Artículo 1935.
 
-La Dirección de Normatividad Comercial e Industrial de la Secretaría de Gobernación del Honorable Ayuntamiento del Municipio de Puebla deberá:
+El Departamento de Registro y Fiscalización deberá:
 
 I. Establecer mecanismos para la vigilancia permanente en las inmediaciones de zonas escolares y dentro de parques públicos donde se tenga noticia del uso o del abuso de las substancias materia de este Capítulo;
 
@@ -21051,15 +22837,23 @@ II. Informar al Presidente Municipal, de las revisiones que hagan a los registro
 
 III. Levantar inmediatamente un acta circunstanciada resaltando todos los hechos en caso de flagrancia, al propietario o encargado del establecimiento o persona en general vendiendo a un menor substancias de efectos tóxicos por inhalación o pinturas en aerosol, debiendo turnarla a la autoridad municipal que corresponda para los fines pertinentes; y
 
-IV. Vigilar y supervisar a los establecimientos con venta de substancias tóxicas o pinturas en aerosol, que cuenten con la autorización de la autoridad municipal, en caso contrario lo harán del conocimiento de la misma para los fines respectivos.
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+
+IV. Vigilar y supervisar a los establecimientos con venta de substancias tóxicas o pinturas en aerosol, que cuenten con la licencia de sustancias susceptibles de inhalación y efectos tóxicos, expedida por la Tesorería Municipal a través del Departamento de Registro y Fiscalización, en caso contrario lo harán del conocimiento de la misma para los fines respectivos.
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
 
 ###### Artículo 1936.
 
-El Presidente Municipal a través de la Dirección de Normatividad Comercial e Industrial de la Secretaría de Gobernación del Honorable Ayuntamiento del Municipio de Puebla, se encargará de sancionar a los infractores del presente Capítulo.
+El Departamento de Registro y Fiscalización, se encargará de determinar y calificar una infracción e imponer sanciones a los infractores de las disposiciones previstas en el presente Capítulo.
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
 
 ###### Artículo 1937.
 
-Cualquier persona podrá denunciar ante la autoridad municipal, las violaciones de las disposiciones de este Capítulo; así como denunciar a los individuos que comercien ilícitamente con las substancias inhalantes y pinturas en aerosol a que se contrae este Capítulo.
+Cualquier persona podrá denunciar ante el Departamento de Registro y Fiscalización, las violaciones de las disposiciones de este Capítulo; así como denunciar a los individuos que comercien ilícitamente con las substancias inhalantes y pinturas en aerosol a que se contrae este Capítulo.
+
+El Jefe del Departamento de Registro y Fiscalización en cualquier momento, cuando lo solicite el denunciante, le informará de las acciones realizadas y resultados una vez que hayan sido determinadas.
 
 ###### Artículo 1938.
 
@@ -21093,9 +22887,11 @@ III. Las condiciones socioeconómicas del infractor; y
 
 IV. La calidad de reincidente del infractor.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2006)</small>
+
 ###### Artículo 1941.
 
-En el caso de que al aplicar la multa ésta no sea pagada en el término concedido por la autoridad municipal, se procederá al arresto administrativo que conmutará el importe de la multa, sin que aquél pueda exceder de treinta y seis horas.
+En el caso de que al aplicar la multa ésta no sea pagada en el término de 15 días hábiles siguientes a su determinación, el Jefe del Departamento de Registro y Fiscalización la remitirá al Departamento de Ejecución u Oficina Ejecutora para el trámite legal correspondiente.
 
 El importe de las multas ingresará a la Tesorería Municipal, el cual deberá de destinarse preferentemente a:
 
@@ -22881,7 +24677,7 @@ El Comisionado está facultado para autorizar la sustitución o cambio de boxead
 
 I. En Box: en caso de fuerza mayor debidamente comprobada, si alguno de los participantes de una pelea preliminar o estelar no puede actuar en la función anunciada, se sustituirá dicho peleador por el emergente de la misma categoría y peso, si el boxeador fuese de la pelea estelar, además de anunciar el cambio autorizado, informará al público que la persona que no esté de acuerdo podrá solicitar la devolución del importe de su boleto, siempre que no haya iniciado la función;
 
-II. En la lucha libre: cuando un luchador por causa de fuerza mayor no se haya presentado, será sustituido por otro de la misma categoría y de igual peso, comunicándole a la empresa la obligación de avisar al público asistente, el cambio realizado y si éste es de algún luchador de la "Lucha Estelar", además de anunciar el cambio autorizado, informará al público que la persona que no esté de acuerdo podrá solicitar la devolución del importe de su boleto, siempre que no haya iniciado la función.
+III. En la lucha libre: cuando un luchador por causa de fuerza mayor no se haya presentado, será sustituido por otro de la misma categoría y de igual peso, comunicándole a la empresa la obligación de avisar al público asistente, el cambio realizado y si éste es de algún luchador de la "Lucha Estelar", además de anunciar el cambio autorizado, informará al público que la persona que no esté de acuerdo podrá solicitar la devolución del importe de su boleto, siempre que no haya iniciado la función.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -24708,3 +26504,43 @@ P.O. 27 DE FEBRERO DE 2006.
 PRIMERO.- El presente Acuerdo surtirá sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+P.O. 27 DE MARZO DE 2006.
+
+PRIMERO. El presente Acuerdo deberá publicarse en el Periódico Oficial del Estado y entrará en vigor sesenta días hábiles posteriores a su publicación.
+
+SEGUNDO. Se instruye al Presidente Municipal para el efecto de realizar las acciones tendientes a fin de celebrar el convenio de colaboración con el Gobierno del Estado de Puebla, respecto al Registro Estatal de Vehículos.
+
+TERCERO. Se extingue la Dirección de Normatividad Comercial e Industrial, y su Unidad Administrativa; adscrita a la Secretaría de Gobernación Municipal; transfiriendo las funciones, así como los recursos humanos, financieros y materiales que haya utilizado para la atención de sus asuntos, al Departamento de Registro y Fiscalización adscrito a la Dirección de Ingresos de la Tesorería Municipal. El Síndico Municipal proveerá lo necesario para preservar los derechos
+
+constitucionales de los trabajadores, ordenando en su caso, la indemnización que proceda.
+
+CUARTO. Se extingue el Departamento de Espectáculos, adscrito a la Dirección de Asuntos Jurídicos de la Secretaría de Gobernación Municipal; transfiriendo las funciones, así como los recursos humanos, financieros y materiales que haya utilizado para la atención de sus asuntos, al Departamento de Registro y Fiscalización adscrito a la Dirección de Ingresos de la Tesorería Municipal. El Síndico Municipal proveerá lo necesario para preservar los derechos constitucionales de los trabajadores, ordenando en su caso, la indemnización que proceda.
+
+QUINTO. Se extingue el Departamento de Reordenamiento Comercial adscrito a la Dirección de Comercialización Abasto y Vía Pública de la Secretaría de Fomento Económico, Turismo y Empleo; transfiriendo las funciones, así como los recursos humanos, financieros y materiales que haya utilizado para la atención de sus asuntos, al Departamento de Registro y Fiscalización, adscrito a la Dirección de Ingresos de la Tesorería Municipal. El Síndico Municipal proveerá lo necesario para preservar los derechos constitucionales de los trabajadores, ordenando en su caso, la indemnización que proceda.
+
+SEXTO. Se extingue el Departamento de Mercados, adscrito a la Dirección de Comercialización Abasto y Vía Pública de la Secretaría de Fomento Económico, Turismo y Empleo; transfiriendo las funciones, así como los recursos humanos, financieros y materiales que haya utilizado para la atención de sus asuntos, al Departamento de Registro y Fiscalización, adscrito a la Dirección de Ingresos de la Tesorería Municipal. El Síndico Municipal proveerá lo necesario para preservar los derechos constitucionales de los trabajadores ordenando, en su caso, la indemnización que proceda.
+
+SÉPTIMO. Se extingue el Departamento de Promoción de Ventas de la Dirección de Comercialización Abasto y Vía Pública de la Secretaría de Fomento Económico, Turismo y Empleo; transfiriendo las funciones, así como los recursos humanos, financieros y materiales que haya utilizado para la atención de sus asuntos, al Departamento de Bienes Inmuebles, adscrito a la Dirección de Bienes Patrimoniales de la Secretaría General. El Síndico Municipal proveerá lo necesario para preservar los derechos constitucionales de los trabajadores, ordenando en su caso, la indemnización que proceda.
+
+OCTAVO. Se extingue el Departamento del Padrón de Contribuyentes adscrito a la Dirección de Ingresos de la Tesorería Municipal, transfiriendo las funciones, así como los recursos humanos, financieros y materiales que haya utilizado para la atención de sus asuntos al Departamento de Registro y Fiscalización adscrito a la Dirección de Ingresos de la Tesorería Municipal. El Síndico Municipal proveerá lo necesario para preservar los derechos constitucionales de los trabajadores, ordenando en su caso, la indemnización que proceda.
+
+NOVENO. Las licencias, permisos, autorizaciones refrendos y en su caso las credenciales para el ejercicio de actividades comerciales, expedidas por la Dirección o los Departamentos que se extinguen con el presente Acuerdo, tendrán la vigencia que para efecto hayan sido otorgadas.
+
+DÉCIMO. Se instruye al Tesorero Municipal, para que en un periodo máximo de sesenta días hábiles, contados a partir del día siguiente de la publicación del presente Acuerdo en el Periódico Oficial del Estado, remita a este Honorable Cabildo para su aprobación, los formatos únicos de fiscalización por materia, que serán empleados en el Departamento de Registro y Fiscalización, adscrito a la Dirección de Ingresos de la Tesorería Municipal.
+
+DÉCIMO PRIMERO. Todos los Servidores de la Administración Pública Municipal Centralizada o Descentralizada, que lleven a cabo acciones de supervisión, inspección, auditoria o fiscalización, deberán presentar ante la Contraloría Municipal, declaración patrimonial de apertura o su correspondiente actualización anual, de conformidad con lo establecido por la fracción VI del artículo 82 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla.
+
+DÉCIMO SEGUNDO. Se derogan las disposiciones que se opongan al presente Acuerdo.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, SE TRANSCRIBE EL DICTAMEN DEL ACUERDO POR EL QUE SE MODIFICA EL PRESENTE CODIGO.</small>
+
+Por todo lo antes expuesto y debidamente fundado, sometemos a la Consideración de este Cuerpo Edilicio, para su discusión y aprobación, el siguiente:
+
+DICTAMEN
+
+PRIMERO.- Se aprueba en lo general y en lo particular el Dictamen por el que se reforman, derogan y adicionan diversas disposiciones del Código Reglamentario para el Municipio de Puebla, en términos que se desprenden del considerando XXII del presente.
+
+SEGUNDO.- Se instruye al Síndico Municipal a fin de iniciar las acciones tanto formales o materialmente judiciales y administrativas que en derecho procedan, a partir de lo asentado en el presente Dictamen.
+
+TERCERO.- Se Instruye al Presidente Municipal y al Secretario del Honorable Ayuntamiento del Municipio de Puebla, para que realicen las gestiones necesarias tendientes a que el presente documento se envíe al Ejecutivo del Estado para su publicación en el Periódico Oficial del Estado.
