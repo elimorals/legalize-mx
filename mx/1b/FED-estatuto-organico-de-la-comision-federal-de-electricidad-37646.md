@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-federal-de-electricidad-37646"
 country: "mx"
 rank: "estatuto"
 publication_date: "2004-03-10"
-last_updated: "2005-07-12"
+last_updated: "2006-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37646&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-01-08"
 
 ESTATUTO ORGANICO DE LA COMISION FEDERAL DE ELECTRICIDAD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE JULIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE MARZO DE 2006.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 10 de marzo de 2004.
 
@@ -349,7 +349,9 @@ IX. Las demás facultades que le confieran la Junta de Gobierno, el Director Gen
 
 A la Dirección de Operación le corresponden, además de las facultades genéricas señaladas en el artículo anterior, las siguientes:
 
-I. Determinar las políticas, planes y programas en materia de generación, transmisión, transformación, control, distribución y comercialización de la energía eléctrica, así como los aspectos técnicos de calidad, diseño, y operación de sistemas informáticos, y
+> <small>(REFORMADA, D.O.F. 28 DE MARZO DE 2006)</small>
+
+I. Determinar las políticas, planes y programas en materia de generación, transmisión, transformación, control, distribución y comercialización de la energía eléctrica, así como de las actividades conexas para aprovechamiento integral de la infraestructura de fibra óptica interestatal y nacional de la Comisión y realizar los actos que sean necesarios para tal efecto y la de los aspectos técnicos de calidad, diseño y operación de sistemas informáticos, y
 
 II. Atender los aspectos técnico-operativos relacionados con la generación, transmisión, transformación, control y distribución de energía eléctrica.
 
@@ -509,7 +511,9 @@ III. Instrumentar y coordinar las acciones tácticas para salvaguardar las insta
 
 A la Subdirección de Transmisión le corresponden, además de las facultades genéricas señaladas en el artículo 15 de este Estatuto, las siguientes:
 
-I. Establecer y coordinar la elaboración de las políticas, normas y lineamientos generales del proceso de transmisión de la energía eléctrica.
+> <small>(REFORMADA, D.O.F. 28 DE MARZO DE 2006)</small>
+
+I. Establecer y coordinar la elaboración de las políticas, normas y lineamientos generales del proceso de transmisión de la energía eléctrica, así como de las actividades conexas para aprovechamiento integral de la infraestructura de fibra óptica interestatal y nacional de la Comisión y realizar los actos que sean necesarios para tal efecto.
 
 II. Establecer y supervisar los programas relacionados con la operación y mantenimiento de las líneas de transmisión y subestaciones que integran el Sistema Eléctrico Nacional.
 
@@ -827,15 +831,21 @@ IV. Coordinar el análisis de las estadísticas de falla, de comportamiento de e
 
 V. Coordinar los programas de desarrollo, mejora y modernización en los procesos de subestaciones y líneas de transmisión.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE MARZO DE 2006)</small>
+
 ###### Artículo 40.
 
-A la Coordinación de Protecciones, Comunicación y Control le corresponden, además de las facultades genéricas señaladas en el artículo 31 de este Estatuto, las siguientes:
+A la Coordinación de Protecciones, Comunicación y Control le corresponde, además de las facultades genéricas señaladas en el artículo 31 de este Estatuto, las siguientes:
 
 I. Coordinar la aplicación de las políticas, estrategias y especificaciones en las especialidades de protecciones, comunicaciones y control.
 
-II. Coordinar el análisis de las estadísticas de falla, de comportamiento de equipos y sistemas de protecciones, comunicaciones y control, y
+II. Coordinar el análisis de las estadísticas de falla, de comportamiento de equipos y sistemas de protecciones, comunicaciones y control, y (sic)
 
 III. Coordinar los estudios para mejorar los sistemas de protecciones, comunicaciones y control.
+
+> <small>(ADICIONADA, D.O.F. 28 DE MARZO DE 2006)</small>
+
+IV. Coordinar el control, administración, gestión y operación de las actividades conexas para aprovechamiento de la infraestructura de fibra óptica interestatal y nacional de la Comisión y realizar los actos que sean necesarios para tal efecto.
 
 ###### Artículo 41.
 
@@ -1276,3 +1286,7 @@ Primero. El presente Acuerdo entrará en vigor al día siguiente al de su public
 Segundo. Se derogan todas las disposiciones administrativas internas que se opongan al presente Acuerdo.
 
 Tercero. Los derechos de los trabajadores no se verán afectados por la reestructuración orgánica que se autoriza por el presente Acuerdo.
+
+D.O.F. 28 DE MARZO DE 2006.
+
+Unico. El presente acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
