@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2006-03-15"
+last_updated: "2006-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,37 +18,55 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-ACUERDO POR EL QUE SE MODIFICAN DIVERSOS CUPOS PARA IMPORTAR EN 2006 LECHE EN POLVO Y PREPARACIONES A BASE DE PRODUCTOS LACTEOS
+ACUERDO QUE MODIFICA EL SIMILAR POR EL QUE SE ESTABLECE LA CLASIFICACION Y CODIFICACION DE MERCANCIAS CUYA IMPORTACION Y EXPORTACION ESTA SUJETA AL REQUISITO DE PERMISO PREVIO POR PARTE DE LA SECRETARIA DE ECONOMIA
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 15 de marzo de 2006.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 29 de marzo de 2006.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía, con fundamento en los artículos I y II del Acuerdo de Marrakech por el que se establece la Organización Mundial del Comercio y en la lista de concesiones de México (Lista LXXVII-México); en el artículo 302 párrafo 4 del Tratado de Libre Comercio de América del Norte; y en los artículos 4o. fracción III, 5o. fracción V, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26, 31, 32, 33 y 35 de su Reglamento, 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía, con fundamento en los artículos 34 de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracciones III, V y X, 15 fracción II, 16, 17, 20 y 21 de la Ley de Comercio Exterior; 36 fracciones I inciso c) y II inciso b) y 104 fracción II de la Ley Aduanera; 1, 2 y 5 del Acuerdo sobre Procedimientos para el Trámite de Licencias de Importación de la Organización Mundial del Comercio; 21 del Reglamento de la Ley de Comercio Exterior; 1, 4, 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que el Acuerdo de Marrakech por el que se establece la Organización Mundial del Comercio fue aprobado por el Senado de la República el 13 de julio de 1994 y el Decreto Promulgatorio, publicado en el Diario Oficial de la Federación el 30 de diciembre de ese mismo año;
+Que el 9 de noviembre de 2005 se publicó en el Diario Oficial de la Federación el Acuerdo que establece la clasificación y codificación de mercancías cuya importación y exportación está sujeta al requisito de permiso previo por parte de la Secretaría de Economía, modificado mediante diverso dado a conocer en el mismo medio informativo el 20 de diciembre de 2005;
 
-Que en el artículo 4 parte III del Acuerdo sobre la Agricultura de la Organización Mundial del Comercio se establece que México aplicará como parte de sus compromisos de acceso a los mercados, contingentes arancelarios de importación a bienes originarios de los países miembros de Organización Mundial del Comercio, conforme a lo dispuesto en la Lista LXXVII-México Sección I-B, en la que se incluye la leche en polvo o en pastillas;
+Que el 30 de agosto de 1990 el Departamento de Comercio de los Estados Unidos de América emitió una orden por la cual impuso derechos antidumping a las importaciones procedentes de México de cemento gris portland y cemento clinker;
 
-Que el Tratado de Libre Comercio de América del Norte, aprobado por el Senado de la República el 22 de noviembre de 1993, publicado en el Diario Oficial de la Federación el 20 de diciembre del mismo año, prevé entre sus objetivos, eliminar obstáculos al comercio y facilitar la circulación transfronteriza de bienes y servicios entre los territorios de las partes;
+Que el Tratado de Libre Comercio de América del Norte (TLCAN) fue aprobado por el Senado de la República el 22 de noviembre de 1993, publicado en el Diario Oficial de la Federación el 20 de diciembre del mismo año y entró en vigor el 1 de enero de 1994;
 
-Que el artículo 302 párrafo 4 del propio Tratado, establece que cada una de las partes podrá adoptar o mantener medidas sobre las importaciones con el fin de asignar el cupo de importaciones realizadas según una cuota mediante aranceles (arancel-cuota) establecidos en el anexo 302.2, siempre y cuando tales medidas no tengan efectos comerciales restrictivos sobre las importaciones, adicionales a los derivados de la imposición del arancel-cuota;
+Que el artículo 102 del TLCAN señala que uno de sus objetivos es eliminar obstáculos al comercio y facilitar la circulación transfronteriza de bienes y de servicios entre los territorios de las Partes;
 
-Que el artículo 3o. del Decreto por el que se crean, modifican o suprimen diversos aranceles de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación publicado en el Diario Oficial de la Federación el 17 de abril de 2002, establece el arancel-cupo aplicable a diversas fracciones arancelarias, entre ellas la correspondiente a preparaciones a base de productos lácteos con un contenido de sólidos lácteos superior al 50% en peso, excepto las comprendidas en la fracción 1901.90.04, cuando el importador cuente con certificado de cupo expedido por la Secretaría de Economía;
+Que el artículo 1904 del TLCAN establece que cada una de las Partes reemplazará la revisión judicial interna de las resoluciones definitivas sobre cuotas antidumping y compensatorias con la revisión que lleve a cabo un panel binacional;
 
-Que el mecanismo de asignación del contingente arancelario y del cupo de importación de leche en polvo, así como de preparaciones a base de productos lácteos con un contenido de sólidos lácteos superior al 50%, es un instrumento de la política sectorial para complementar el abasto doméstico;
+Que el 13 de julio de 1994 el Senado de la República aprobó el Acta Final de la Ronda Uruguay de Negociaciones Comerciales Multilaterales y, por lo tanto, el Acuerdo de Marrakech por el que se establece la Organización Mundial del Comercio (el Acuerdo por el que se establece la OMC), mismo que fue publicado en el Diario Oficial de la Federación el 30 de diciembre de 1994 y entró en vigor el 1 de enero de 1995;
 
-Que durante los primeros meses del presente año, en varias zonas o cuencas lecheras del país se vienen presentando problemas de comercialización y/o colocación de excedentes de leche fluida nacional, los cuales han venido revisando con los integrantes de la cadena productiva, la Secretaría de Economía conjuntamente con la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+Que el Acuerdo por el que se establece la OMC contiene, entre otros, el Acuerdo relativo a la Aplicación del Artículo VI del Acuerdo General sobre Aranceles Aduaneros y Comercio de 1994 (el Acuerdo Antidumping) y el Entendimiento relativo a las normas y procedimientos por los que se rige la solución de diferencias (el Entendimiento);
 
-Que en los siguientes meses las condiciones de producción de leche fluida nacional presentarán un repunte estacionalidad, propio del ciclo productivo del sistema bovino-leche de nuestro país;
+Que desde la imposición de la orden antidumping por parte de los Estados Unidos de América a las importaciones de cemento gris portland y cemento clinker procedentes de México, el Gobierno mexicano ha impugnado dicha orden en la OMC, y se han establecido diversos procedimientos de solución de controversias ante paneles binacionales conforme al artículo 1904 del TLCAN;
 
-Que las dependencias citadas tienen entre sus funciones promover la operación eficiente de las cadenas productivas, es que han estimado pertinente propiciar las condiciones de mercado que permitan dar cauce a la colocación de la producción nacional de leche fluida, por lo cual se considera necesario diferir el segundo periodo de recepción de solicitudes para la industria privada, de tal manera que sea congruente con el comportamiento estacional de la producción nacional de leche, y
+Que el párrafo primero del artículo 8 del Acuerdo Antidumping señala que se podrán suspender o dar por terminados los procedimientos sin derechos antidumping si el exportador comunica que asume voluntariamente compromisos de poner fin a las exportaciones a la zona en cuestión a precios de dumping, de modo que las autoridades, en este caso de los Estados Unidos de América, queden convencidas de que se elimina el efecto perjudicial del dumping;
 
-Que la medida a que se refiere el presente instrumento, es conforme con lo aprobado por la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
+Que el párrafo sexto y séptimo del artículo 3 del Entendimiento prevé que las Partes en una diferencia pueden llegar a soluciones mutuamente convenidas de los asuntos planteados formalmente ante el Organo de Solución de Diferencias de la OMC y que se debe dar siempre preferencia a una solución mutuamente aceptable para las partes en la diferencia y que esté de conformidad con los acuerdos de la OMC;
 
-ACUERDO POR EL QUE SE MODIFICAN DIVERSOS CUPOS PARA IMPORTAR EN 2006 LECHE EN POLVO Y PREPARACIONES A BASE DE PRODUCTOS LACTEOS
+Que la Regla 71 (2) de las Reglas de Procedimiento del Artículo 1904 y del Comité de Impugnación Extraordinaria del TLCAN publicadas en el Diario Oficial de la Federación el 20 de junio de 1994 establece que un procedimiento de revisión ante el panel concluye cuando algún participante presente una petición incidental de terminación de la revisión;
+
+Que el artículo 1 de la Ley Sobre la Celebración de Tratados publicada en el Diario Oficial de la Federación el 21 de enero de 1992 establece que los acuerdos interinstitucionales podrán ser celebrados entre una dependencia u organismos descentralizados de la Administración Pública Federal, Estatal o Municipal y uno o varios órganos gubernamentales extranjeros u organizaciones internacionales;
+
+Que el 6 de marzo de 2006 los titulares de la Secretaría de Economía de México, del Departamento de Comercio de los Estados Unidos de América y de la Oficina del Representante Comercial de los Estados Unidos de América suscribieron un acuerdo interinstitucional sobre el comercio de cemento (el Acuerdo sobre Comercio de Cemento), con el objetivo de finalizar el procedimiento de solución de diferencias ante la OMC y diversos litigios conforme al artículo 1904 del TLCAN y en consecuencia eliminar en un periodo de tres años el derecho antidumping impuesto por los Estados Unidos de América;
+
+Que el Acuerdo Sobre Comercio de Cemento establece en sus párrafos II.A.1, III y IV, que durante la vigencia del mismo las exportaciones de cemento mexicano a los Estados Unidos de América se regularán mediante cupos de exportación administrados por medio de permisos previos a la exportación;
+
+Que el Acuerdo Sobre Comercio de Cemento establece en su párrafo III.A que la Secretaría de Economía se asegurará que no se exporte cemento mexicano de México a los Estados Unidos de América sin que vaya acompañado de un permiso de exportación;
+
+Que el Acuerdo Sobre Comercio de Cemento señala en su párrafo II.A.1 que el límite inicial del cupo para exportaciones de cemento mexicano a los Estados Unidos de América será de 3,000,000 de toneladas métricas anuales, mismo que deberá dividirse en ocho subregiones establecidas de conformidad con el párrafo I.V de dicho Acuerdo;
+
+Que así mismo el Acuerdo Sobre Comercio de Cemento establece en su párrafo II.A.3 la posibilidad de que el Departamento de Comercio de los Estados Unidos de América y la Secretaría de Economía liberen un cupo adicional a la exportación de cemento mexicano a los Estados Unidos de América por una cantidad de 200,000 toneladas métricas, por evento, en casos de una declaración de estado de emergencia como resultado de un desastre;
+
+Que con la misma fecha de publicación del presente Acuerdo, se publicó en el Diario Oficial de la Federación el Acuerdo por el cual se da a conocer el cupo máximo para exportar a los Estados Unidos de América, cemento gris portland y cemento clinker, originarios de los Estados Unidos Mexicanos durante 2006 a 2009, al amparo del Acuerdo Sobre Comercio de Cemento celebrado entre la Secretaría de Economía de los Estados Unidos Mexicanos y la Oficina del Representante Comercial de los Estados Unidos de América y el Departamento de Comercio de los Estados Unidos de América, y
+
+Que conforme a lo dispuesto en la Ley de Comercio Exterior, el presente Acuerdo cuenta con opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
+
+ACUERDO QUE MODIFICA EL SIMILAR POR EL QUE SE ESTABLECE LA CLASIFICACION Y CODIFICACION DE MERCANCIAS CUYA IMPORTACION Y EXPORTACION ESTA SUJETA AL REQUISITO DE PERMISO PREVIO POR PARTE DE LA SECRETARIA DE ECONOMIA
 
 ###### ARTICULO PRIMERO.
 
@@ -58,9 +76,11 @@ Se modifica el numeral 2o.) de los incisos B), C) y D) de la cuarta columna “P
 
 ###### ARTICULO UNICO.
 
-El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 31 de diciembre de 2006.
+Se adiciona el artículo 7 bis del Acuerdo que establece la clasificación y codificación de mercancías cuya importación y exportación está sujeta al requisito de permiso previo por parte de la Secretaría de Economía, modificado mediante diverso dado a conocer en el mismo medio informativo el 20 de diciembre de 2005, para quedar como sigue:
 
-México, D.F., a 14 de marzo de 2006.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
+ARTICULO 7 bis.- Se sujetan al requisito de permiso previo de exportación por parte de la Secretaría de Economía, las mercancías comprendidas en las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación que a continuación se indican, únicamente cuando se destinen a los regímenes aduaneros de exportación definitiva o temporal y se trate de mercancías con destino a los Estados Unidos de América:
+
+(VEASE ARCHIVO ANEXO)
 
 ###### ARTICULO 15.
 
@@ -341,3 +361,7 @@ III.- La Comunidad Europea, que califiquen como originarias conforme a la Decisi
 (VEASE ARCHIVO ANEXO)
 
 ## TRANSITORIO
+
+UNICO.- El presente Acuerdo entrará en vigor el 3 de abril de 2006, y concluirá su vigencia el 31 de marzo de 2009.
+
+México, D.F., a 22 de marzo de 2006.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
