@@ -1,0 +1,996 @@
+---
+title: "LEY GENERAL DE TRANSITO Y VIALIDAD DEL ESTADO DE TABASCO"
+identifier: "TAB-ley-general-de-transito-y-vialidad-del-estado-de-tabasco-50298"
+country: "mx"
+rank: "ley_general"
+publication_date: "2006-03-29"
+last_updated: "2006-03-29"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50298&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-tab"
+scjn_id: "50298"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "6632 SUPLEMENTO D"
+reform_count: "15"
+scjn_last_update: "2026-05-16"
+issue_date: "2006-03-17"
+state: "TAB"
+---
+# LEY GENERAL DE TRANSITO Y VIALIDAD DEL ESTADO DE TABASCO
+
+LEY GENERAL DE TRANSITO Y VIALlDAD DEL ESTADO DE TABASCO
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 29 de marzo de 2006.
+
+LIC. MANUEL ANDRADE DÍAZ, GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE TABASCO, CON FUNDAMENTO EN LO DISPUESTO POR EL ARTÍCULO 51, FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA LOCAL; A SUS HABITANTES SABED:
+
+Que el H. Congreso del Estado, se ha servido dirigirme lo siguiente:
+
+LA QUINCUAGÉSIMA OCTAVA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 25 Y 36, FRACCIÓN I, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TABASCO;
+
+.
+
+Por lo que se emite el siguiente:
+
+DECRETO 134
+
+###### ARTÍCULO ÚNICO
+
+Se emite la Ley General de Tránsito y Vialidad del Estado de Tabasco:
+
+LEY GENERAL DE TRÁNSITO Y VIALlDAD DEL ESTADO DE TABASCO
+
+## TÍTULO PRIMERO. ÁMBITOS DE APLICACIÓN Y COMPETENCIA DE AUTORIDADES
+
+### Capítulo Único
+
+###### ARTÍCULO 1.
+
+La presente Ley es de orden público e interés social en el Estado de Tabasco; tiene por objeto regular y ordenar la circulación de vehículos, peatones y animales en el uso de la vía pública, carreteras, puentes estatales y caminos rurales, así como la estructura vial y el medio ambiente en cuanto fueren las causas de tránsito.
+
+###### ARTÍCULO 2.
+
+Para los efectos de esta Ley se entenderá por:
+
+Vehículo: Todo medio de tracción mecánica, humana o animal, que se utiliza para transportar personas, animales o cosas.
+
+Peatón: Toda persona que transita a pie por la vía pública.
+
+Vía pública: Todo espacio de uso común destinado al tránsito, entre los que se encuentran autopistas, carreteras, puentes, avenidas, calles, andadores, brechas, caminos pavimentados o de terracería, banquetas, pasos de circulación temporal o permanente de competencia estatal o municipal.
+
+Vialidad: Es el sistema de vías públicas utilizado para el tránsito de vehículos, peatones y animales.
+
+Conductor: Toda persona que maneje un vehículo por la vía pública.
+
+Prescripción: Extinción de una acción o sanción por el efecto del paso del tiempo.
+
+Sanción: Pena corporal, administrativa o pecuniaria aplicada por actos u omisiones que infrinjan la normatividad en materia de tránsito y vialidad.
+
+Infracción: Conducta realizada por el usuario de la vía pública que transgrede alguna disposición de esta Ley y su Reglamento, y que tiene como consecuencia una sanción.
+
+Tránsito: Es la acción o efecto de trasladarse por la vía pública.
+
+###### ARTÍCULO 3.
+
+Son autoridades estatales y municipales, en materia de tránsito, vialidad y control vehicular, en sus respectivas competencias y jurisdicciones, las siguientes:
+
+I.- Autoridad Estatal:
+
+a) El Gobernador del Estado;
+
+b) El Secretario de Gobierno;
+
+c) El Subsecretario de Transporte, Tránsito y Vialidad; y
+
+d) El Director General de la Policía Estatal de Caminos.
+
+II.- Autoridad Municipal:
+
+a) El Ayuntamiento;
+
+b) El Presidente Municipal o Primer Concejal; y
+
+c) La Policía de Tránsito y Vialidad Municipal.
+
+###### ARTÍCULO 4.
+
+La autoridad facultada para expedir, suspender, revocar o cancelar definitivamente la licencia o permiso de manejo a persona determinada, será la Secretaría de Gobierno, a través de la Subsecretaría de Transporte, Tránsito y Vialidad, de manera acorde a las demás facultades y obligaciones que le confiere esta misma Ley, su Reglamento, la Ley Orgánica del Poder Ejecutivo del Estado y demás normatividad en vigor que le resulte aplicable.
+
+###### ARTÍCULO 5.
+
+En materia de tránsito, vialidad y control de vehículos, peatones y animales, corresponde a la autoridad Estatal en el ámbito de su respectiva competencia:
+
+I. Realizar acciones de planeación, regulación, ordenamiento, y vigilancia en las carreteras y puentes estatales, caminos pavimentados o de terracería, brechas y pasos de circulación temporales o permanentes, e imponer en su caso las sanciones a que se hagan acreedores los que violen las disposiciones en la materia;
+
+II. Establecer las políticas y lineamientos técnicos en la materia, en términos de esta misma Ley, su Reglamento y demás legislación relativa aplicable;
+
+III Administrar y dirigir a la Policía Estatal de Caminos, así como coordinar sus acciones con las demás autoridades federales, estatales y municipales, a efecto de garantizar la debida circulación y organización del tránsito de vehículos, peatones y animales en el territorio del Estado, e igualmente en la procuración y salvaguarda del orden e interés público;
+
+IV. Conocer de los ilícitos, incidentes o faltas administrativas cometidas en la vía pública de comunicación terrestre. En su caso, dar aviso inmediato y remitir a las autoridades federales, estatales y municipales, los asuntos de su competencia en los términos jurisdiccionales y legales correspondientes, poniendo a su disposición a personas, elementos materiales y probatorios que en razón de flagrancia y de colaboración institucional obren o se encuentren en su poder; y
+
+V. Las demás que le confiera expresamente esta Ley y demás ordenamientos legales.
+
+El Poder Ejecutivo del Estado concertará y coordinará con las dependencias de su estructura y con las diversas autoridades competentes las medidas tendientes al efectivo cumplimiento de la presente Ley. Asimismo, deberá asignar funciones de prevención y control del tránsito en las vías estatales y otros espacios del dominio público, acorde a los convenios celebrados al respecto, sin que el ejercicio de estas desconozcan o alteren las jurisdicciones municipales.
+
+###### ARTÍCULO 6.
+
+Corresponde a los municipios del Estado de Tabasco, en materia de tránsito, vialidad y control vehicular en el ámbito de sus respectivas competencias:
+
+I. Realizar acciones de vigilancia sobre el tránsito y transporte de vehículos, peatones y animales en las carreteras, caminos pavimentados o de terracería, brechas y pasos de circulación temporales o permanentes, e imponer en su caso las sanciones a que se hagan acreedores los que violen las disposiciones de la materia;
+
+II. Construir y dar mantenimiento a las vías públicas de comunicación terrestre, distintas de las carreteras y caminos estatales o federales, sin perjuicio de la participación que pueda tener en la construcción de obra pública de comunicaciones el Gobierno Estatal y el Gobierno Federal;
+
+III. Definir y organizar en sus extensiones territoriales el sentido de la vialidad y preferencias de paso en sus calles, andadores, avenidas, libramientos, periféricos y demás caminos de la vía pública, pavimentados o de terracería; esas definiciones no podrán alterar o modificar el adecuado funcionamiento y sentido de circulación de las vías que converjan con las federales, estatales y de otros municipios;
+
+IV. Conocer y resolver las faltas o infracciones de tránsito consideradas en el reglamento de esta Ley, cometidas dentro de su jurisdicción;
+
+V. Dirigir y administrar a la Policía de Tránsito y Vialidad Municipal, así como coordinar sus acciones con las demás autoridades federales, estatales y municipales, a efecto de garantizar la debida circulación y organización del tránsito de vehículos, peatones y animales en el municipio, de igual manera coadyuvará en la procuración y salvaguarda del orden e interés público; y
+
+VI. Las demás que les confiera expresamente esta Ley y demás ordenamientos legales.
+
+###### ARTÍCULO 7.
+
+Corresponde a la Secretaría de Gobierno establecer las medidas que requiera en caso de urgencia o necesidad que se susciten en la jurisdicción local; siempre que éstas sean accesorias a las ya previstas en esta Ley y se refieran al tránsito, vialidad y control vehicular.
+
+###### ARTÍCULO 8.
+
+Las autoridades estatales y municipales podrán celebrar acuerdos con municipios, entidades federativas y la federación, para la debida aplicación de esta Ley y otras disposiciones sobre tránsito y vialidad, aún fuera de su ámbito territorial de validez.
+
+## TÍTULO SEGUNDO. DE LA VÍA PÚBLICA
+
+### Capítulo I. Disposiciones Generales
+
+###### ARTÍCULO 9.
+
+Toda obra que se construya, instale o que afecte la circulación de vehículos o peatones en la vía pública, debe ajustarse a las normas básicas de seguridad vial que especifique el reglamento, considerando la diversidad de vías para cada tipo de tránsito, debiendo otorgar facilidades a personas con discapacidad.
+
+Cuando la infraestructura no pueda adaptarse a las necesidades de la circulación, ésta deberá desenvolverse en las condiciones de seguridad preventiva que imponga el reglamento de esta ley.
+
+Iguales circunstancias se observarán en la red carretera estatal, caminos rurales pavimentados o de terracería, en que el Estado y los municipios tengan jurisdicción; procurando además la instalación y desarrollo de sistemas de comunicación para que el usuario cuente con los auxilios necesarios para casos de emergencia y desperfectos mecánicos.
+
+###### ARTÍCULO 10.
+
+Son exigibles al usuario el cumplimiento de las reglas de circulación, expresadas a través de las señales, símbolos y marcas de señalamiento vial, sujetas a las características y especificaciones que usualmente se han practicado y se tienen previstas a nivel nacional, y de las que el Estado y los municipios son responsables de colocar, dar mantenimiento y verificar su debido funcionamiento en la vía pública, en los ámbitos de sus respectivas jurisdicciones.
+
+Igualmente son exigibles las disposiciones generales que conforme a las normas legales de la materia aplican en caso de no existir señalamientos específicos.
+
+Los particulares no podrán colocar ningún tipo de señalamiento en la vía pública, sin previa autorización de la autoridad competente.
+
+###### ARTÍCULO 11.
+
+Cuando la seguridad y/o fluidez de la circulación estén afectadas por hechos de tránsito, causas de fuerza mayor, o casos fortuitos sobre la vía pública; la autoridad competente debe actuar de inmediato según su función, advirtiendo del riesgo a los usuarios y coordinando sus actos a efectos de dar solución de continuidad al tránsito vehicular.
+
+Toda obra en la vía pública destinada a reconstruir o mejorar la misma, a la instalación o reparación de servicios, ya sean en zona rural o urbana, en la calle o banqueta, deberá contar con la autorización previa de la autoridad competente, debiendo colocar antes del comienzo de las obras que se realicen los dispositivos de advertencia necesarios.
+
+Cuando por razones de urgencia en la reparación del servicio no pueda tramitarse el permiso correspondiente, la empresa que realice los trabajos y la autoridad misma, tratándose de obra pública, deberán instalar los dispositivos de advertencia adecuados, conforme a los trabajos que se lleven a cabo, debiendo sujetarse la empresa y el responsable de la ejecución de las obras, a las consecuencias civiles, penales y administrativas a que hubiere lugar por los hechos o incidentes que resultaren de dicha omisión.
+
+Durante la ejecución de obras en la vía pública debe preverse cuando así sea posible, paso alterno que garantice el tránsito de vehículos y peatones y no presente perjuicio o riesgo alguno.
+
+###### ARTÍCULO 12.
+
+La autoridad competente a fin de preservar la seguridad vial, al medio ambiente, la estructura y la fluidez de la circulación, puede fijar en zona urbana, dando preferencia al transporte colectivo:
+
+I. Carriles para la circulación exclusiva u obligatoria de vehículos del transporte público de pasajeros o de carga, con las restricciones de horarios o fechas que sean convenientes, previendo las vías alternas y los desvíos pertinentes; y
+
+II. Zonas de circulación vehicular, de estacionamiento o de paso peatonal exclusivo.
+
+###### ARTÍCULO 13.
+
+Es obligatorio para propietarios de inmuebles con accesos y salidas a la vía pública:
+
+l. Permitir la colocación de señales o indicadores necesarios al tránsito vehicular y de personas;
+
+II. No colocar luces ni carteles que puedan confundirse con indicadores del tránsito o que por su intensidad o tamaño puedan perturbarlos; y
+
+III. Solicitar autorización para colocar anuncios visibles en las vías de comunicación terrestre, a fin de que sus características y ubicación, no confundan ni distraigan al conductor, debiendo observar lo siguiente:
+
+a) Ser de lectura simple y rápida, sin tener movimientos;
+
+b) Estar a una distancia prudente de la vía y debiendo contemplar la distancia que establezca el reglamento entre un anuncio y otro;
+
+c) No confundir ni obstruir la visión de señales, curvas, puentes, encrucijadas u otros lugares, pasos o entronques peligrosos; y
+
+d) Cubrir el pago de derechos correspondientes al Estado y a los municipios en cuya jurisdicción se pretenda la instalación de los mismos.
+
+###### ARTÍCULO 14.
+
+Con excepción de las señales de tránsito y obras de la estructura vial, todos los demás carteles, luces, obras y leyendas, sólo podrán ubicarse en lugares que no afecten la visibilidad de las señales de tránsito, que pueda constituir causa de contaminación visual, o que no tengan como soporte los árboles, los elementos ya existentes de señalización, semáforos, alumbrado, transmisión de energía, estatuas u obras de arte en la vía pública.
+
+Por las infracciones a este artículo y al que le antecede, responderán solidariamente, propietarios, publicistas y anunciantes que no tengan o violenten el permiso que otorgue previamente la autoridad local, teniendo especialmente en cuenta la seguridad del usuario de la vía pública.
+
+###### ARTÍCULO 15.
+
+Toda construcción a realizarse dentro de la zona de circulación en la vía pública deberá contar con la autorización previa de la autoridad competente y tratándose de ésta por sí o mediante contratista, en ejecución de construcción de obra pública, mantenimiento o mejoras de servicios públicos, deberá realizarse en horarios y fechas que no causen obstáculos a la circulación de vehículos y peatones, a excepción de las obras en las que por motivo de la urgencia o naturaleza de éstas, no sea posible sujetarse a esta disposición, deberá darse la mayor celeridad en la ejecución de los trabajos.
+
+La autoridad competente podrá realizar o autorizar construcciones de obras permanentes utilizando el espacio aéreo de la zona de tránsito en la vía pública, fijadas sobre estructuras seguras y que no representen un peligro para la circulación. A efectos de no entorpecer la vialidad, la autoridad competente deberá fijar las alturas libres entre el suelo y las construcciones a ejecutar. Para este tipo de edificaciones se podrán prever y autorizar desvíos y zonas de estacionamiento fuera de los caminos.
+
+La edificación de oficinas o locales para puestos de primeros auxilios, comunicaciones o abastecimientos, deberá ser prevista al formularse el proyecto de trazo de una carretera o camino pavimentado.
+
+Salvo casos de urgencias o cuando así lo considere necesario la autoridad competente, no será permitida la instalación de puestos de control de tránsito permanentes en las zonas de circulación en la vía pública, pudiendo establecerse unidades o puestos de primeros auxilios o de comunicaciones, siempre que no se les considere un obstáculo para el tránsito y la seguridad del usuario.
+
+Para aquellos caminos con construcciones existentes, la autoridad competente deberá estudiar y aplicar las medidas pertinentes para la obtención de las máximas garantías de seguridad al usuario.
+
+### Capítulo II
+
+Del usuario de la vía pública.
+
+###### ARTÍCULO 16.
+
+Se considerará usuario de la vía pública además de los peatones y pasajeros, a todo conductor de vehículo de tracción mecánica, humana o animal que independientemente de sus dimensiones, usos o características, se desplace sobre la red carretera estatal, avenidas, calles, boulevards, o caminos pavimentados o de terracería en zonas urbanas, y caminos pavimentados o de terracería en zonas rurales.
+
+Quien acceda a la vía pública, automáticamente se convierte en usuario y por ende, sea peatón, conductor o pasajero, está obligado a respetar las disposiciones de esta Ley, su Reglamento y demás disposiciones aplicables.
+
+###### ARTÍCULO 17.
+
+Para el correcto uso de la vía pública, se fomentará a nivel Estatal y Municipal:
+
+I. La educación vial en los niveles de enseñanza preescolar, primaria y secundaria;
+
+II. En la enseñanza técnica, preparatoria y universitaria, instituir orientaciones útiles a los fines de la presente Ley;
+
+III. La difusión de la presente ley en los medios para el conocimiento de la ciudadanía y aplicación permanente de medidas y formas de prevención de accidentes de Tránsito;
+
+IV. La ubicación de predios o zonas determinadas especialmente para la enseñanza y prácticas iniciales de la conducción; y
+
+V. La prohibición de la publicidad favoreciendo, en cualquiera de sus formas, conductas contrarias a los fines de esta Ley.
+
+###### ARTÍCULO 18.
+
+Para los fines de esta Ley, las autoridades competentes estarán obligadas a impartir en forma periódica, cursos especiales de enseñanza y actualización sobre la aplicación, y la comprobación de faltas administrativas a los servidores públicos estatales y municipales, para una correcta aplicación de la legislación.
+
+## TÍTULO TERCERO. DE LAS LICENCIAS Y PERMISOS PARA CONDUCIR
+
+### Capítulo I. De la expedición de licencias y permisos para conducir
+
+###### ARTÍCULO 19.
+
+Toda persona que conduzca un vehículo por las vías públicas del Estado, deberá obtener y portar una licencia de manejo: de automovilista, motociclista o chofer, según corresponda al tipo y características de vehículo que conduzca, observando los siguientes criterios:
+
+I. Las licencias podrán otorgarse por una validez de 2 a 5 años, debiendo en cada renovación aprobar el examen de aptitud física y de valoración psicológica. En los casos de registrar antecedentes por infracciones de tránsito, prescritas o no, el conductor deberá revalidar los exámenes teórico-prácticos;
+
+II. A partir de la edad de 65 años podrán expedirse licencias únicamente por 2 años siempre y cuando el conductor apruebe los exámenes de aptitud física y psicológicos correspondientes; y
+
+III. Todo titular de una licencia de manejo deberá acatar las disposiciones normativas sobre su expedición, renovación y reposición, así como los controles y ordenes que imparta la autoridad de tránsito en el ejercicio de sus funciones.
+
+###### ARTÍCULO 20.
+
+Para expedir una licencia de manejo por primera vez, la autoridad competente deberá exigir al solicitante los siguientes requisitos:
+
+I. Que sea apto física y mentalmente para conducir el vehículo que corresponde a la modalidad de la licencia, solicitando por escrito mediante los formatos respectivos, la emisión de la licencia;
+
+II. En los casos de personas con discapacidad que puedan conducir con las adaptaciones pertinentes a sus vehículos, la autoridad deberá asegurarse mediante perito o especialista en la materia, que el estado físico del solicitante no constituye un impedimento insalvable que ponga en riesgo la vida e integridad corporal del conductor, sus pasajeros y demás conductores y peatones que hagan uso de la vía pública;
+
+III. Que el solicitante sepa leer y escribir, que apruebe los exámenes físicos, (aptitud visual, auditiva y motriz), psicológicos, de manejo en tres modalidades (conducción en circuito de prueba o en área urbana de bajo riesgo, conducción en área urbana de tránsito medio y conducción nocturna); y de conocimiento sobre las disposiciones normativas de circulación en la vía pública y carreteras, prevención de accidentes de tránsito y naturaleza de las señales viales; y
+
+IV. Una declaración bajo protesta de decir verdad sobre el padecimiento de afecciones a su salud.
+
+###### ARTÍCULO 21.
+
+La licencia de manejo de automovilista, motociclista o chofer, deberá contener indistintamente los siguientes datos:
+
+I. Apellidos, nombre, fecha de nacimiento y nacionalidad del Titular;
+
+II. Domicilio y RFC del Titular;
+
+III. Fotografía y firma del Titular;
+
+IV. Número de identificación del Titular;
+
+V. Clase de licencia especificando los tipos de vehículos que le autorizan a conducir, y restricciones;
+
+VI. Fecha de otorgamiento y vencimiento;
+
+VII. Apellidos, nombre, firma, cargo del responsable de autorizar la licencia y Dependencia expedidora; y
+
+VIII. Grupo y factor sanguíneo del Titular.
+
+###### ARTÍCULO 22.
+
+Las clases de licencias para manejo de vehículos automotores son:
+
+I. Motociclista: se otorgará a personas que pretendan conducir cualquier tipo de motocicleta;
+
+II. Automovilista: se otorgará a personas que pretendan manejar cualquier tipo de vehículo del servicio particular; y
+
+III. Chofer: se expedirá a personas que pretendan conducir vehículos del servicio público de transporte de pasajeros y de carga.
+
+La expedición de licencias y permisos para conducir en el Estado, es una facultad que corresponde a la Subsecretaría de Transporte, Tránsito y Vialidad; habilitarán a su titular para conducir cualquier tipo de vehículo que corresponda a su modalidad de licencia en toda la red carretera estatal.
+
+###### ARTÍCULO 23.
+
+Vencido el plazo de vigencia de una licencia de manejo, el titular de la misma deberá hacer el trámite de renovación presentando la licencia anterior vencida, cumplir con lo exigido en el artículo 20 de esta ley y efectuar el pago de los derechos correspondientes ante la Secretaría de Finanzas; cuando no se presente el documento se procederá a la reposición del mismo, sin más requisitos que el pago de los derechos correspondientes. Cuando existan antecedentes de adeudo de infracciones, suspensiones o cancelaciones, el titular de la licencia deberá sujetarse al cumplimiento de las disposiciones que para cada caso se hayan determinado.
+
+### Capítulo II
+
+De las edades mínimas y condiciones limitantes para conducir.
+
+###### ARTÍCULO 24.
+
+Para conducir vehículos en la vía pública se deben tener cumplidas las siguientes edades, según corresponda:
+
+A partir de los dieciocho años para todas las clases y usos de vehículos de tracción mecánica; pudiendo otorgarse permisos provisionales de manejo a los menores de edad que cuenten con dieciséis años cumplidos, que sean sujetos de tutela y patria potestad de quien habrá de representarlos para efectos del permiso, y que aprueben las certificaciones de conocimientos de conducción del vehículo que pretenda conducir y la valoración psicológica que a tal efecto practique la autoridad responsable.
+
+Los menores de edad que cuenten con un permiso podrán conducir vehículos de servicio particular hasta de una tonelada, para manejo exclusivamente en zonas urbanas y fuera de estas, en compañía de un mayor de edad en aptitud de conducir.
+
+La autoridad podrá establecer en razón de fundadas características locales, excepciones restrictivas, mas no permisivas, a las edades mínimas para conducir, las que sólo serán válidas con relación al tipo de vehículo y a las zonas o vías que determinen en el ámbito de su jurisdicción.
+
+### Capítulo III. De los permisos para conducir
+
+###### ARTÍCULO 25.
+
+Los permisos para conducir relativos a los menores de edad pero mayores de 16 años, deberán ser solicitados por su padre o tutor, quienes serán responsables solidariamente con el titular del permiso, respecto de las sanciones administrativas a que se haga acreedor; la retractación del padre o tutor por escrito implica, para la autoridad expedidora, la obligación de anular el permiso.
+
+###### ARTÍCULO 26.
+
+La autoridad competente podrá otorgar permisos para conducir a menores de edad, mayores a 16 años pero menores de 18 años, por seis meses renovables en tanto cumpla la mayoría de edad, observando el artículo anterior y exigiendo el cumplimiento de los siguientes requisitos:
+
+l. Petición por escrito dirigida a la autoridad competente, por el padre o tutor del menor que pretende autorizarse, previa identificación del parentesco;
+
+II. Aprobar el menor los exámenes correspondientes que la autoridad determine;
+
+III. Declaración bajo protesta de decir verdad, sobre sus padecimientos de salud;
+
+IV. En caso de personas con discapacidad, se aplicarán los mismos criterios que para la expedición de la licencia de manejo; y
+
+V. Datos de identificación general y de notificación en casos de urgencia o accidentes.
+
+En ningún caso podrá la autoridad expedir permiso a persona menor de edad para efectos de conducir vehículos del servicio público, aún cuando sea a solicitud del padre o tutor.
+
+###### ARTÍCULO 27.
+
+la autoridad competente podrá expedir permisos para conducir para extranjeros que acrediten su legal estancia en el país, con una vigencia de seis meses, previo el pago de los derechos. Para tal efecto deberán cumplir con los requisitos administrativos que le soliciten y realizar los cursos especiales que para tal efecto determine la propia autoridad. Asimismo las licencias que se expidan en otras entidades federativas o en el extranjero, tendrán plena validez dentro de la jurisdicción estatal, siempre y cuando corresponda al tipo de vehículo de que se trate y tenga dentro del estado una actividad transitoria.
+
+### Capítulo IV
+
+De la suspensión y cancelación de la licencia de manejo.
+
+###### ARTÍCULO 28.
+
+La autoridad competente de la expedición de las licencias de manejo podrá suspender la vigencia de las mismas, quedando el titular imposibilitado legalmente a conducir cualquier vehículo durante el tiempo de la suspensión, que procederá como consecuencia de los siguientes casos:
+
+I. Cuando la autoridad hubiere multado al titular de la licencia hasta en 3 ocasiones dentro del periodo de un año por cualquier infracción a las disposiciones de esta Ley y su Reglamento, la licencia le será suspendida por 6 meses contados a partir del momento de la última infracción; en los casos de conducción con exceso de velocidad, en estado de ebriedad o bajo efectos de drogas o estupefacientes, la suspensión surtirá efectos desde la primera infracción por 3 meses, y por 6 meses bajo el mismo supuesto, si el vehículo corresponde al servicio público de transporte de personas; y
+
+II. Cuando el titular de la licencia omita cubrir sus adeudos de multas por infracciones de tránsito, teniendo efectos la suspensión hasta el momento de su saldo total.
+
+Para los efectos de esta Ley y su Reglamento no se considerará habilitado al conductor suspendido que circule en el Estado de Tabasco, que hubiere adquirido una licencia de manejo expedida por otra Entidad Federativa durante el tiempo de la vigencia de la suspensión.
+
+###### ARTÍCULO 29.
+
+En los casos de suspensión, el titular de la licencia deberá aprobar los exámenes que determine la Subsecretaría de Transporte, Tránsito y Vialidad, para la reactivación de la misma.
+
+###### ARTÍCULO 30.
+
+La autoridad competente de la expedición de la licencia de manejo podrá cancelar la vigencia de la misma, bajo los siguientes supuestos:
+
+l. Cuando se compruebe que la información proporcionada para su expedición sea falsa, o bien algunos de los documentos o constancias exhibidas sean apócrifas;
+
+II. Por incapacidad física y/o mental del titular, superveniente a la expedición de la licencia;
+
+III. Por resolución judicial;
+
+IV. Por conducir con exceso de velocidad, en estado de ebriedad o bajo efectos de drogas o estupefacientes, en el primer caso cuando incurra por tercera ocasión durante el periodo de un año; y
+
+V. En los demás casos que las leyes en la materia señalen o en consecución del interés y la seguridad públicas.
+
+###### ARTÍCULO 31.
+
+El titular de una licencia que sea cancelada, quedará inhabilitado para conducir vehículos por el término de cinco años.
+
+###### ARTÍCULO 32.
+
+En materia de suspensión y cancelación de permisos para conducir para menores de edad o extranjeros, se estará a lo dispuesto por los artículos anteriores, tomando en cuenta las circunstancias del caso en lo relativo a la minoría de edad y la legislación federal.
+
+### Capítulo V
+
+De los establecimientos o particulares que impartan enseñanza para conducción de vehículos.
+
+###### ARTÍCULO 33.
+
+Los establecimientos o particulares que con fines de lucro impartan enseñanza sobre la conducción de vehículos, además de que deberán contar con la aprobación de su programa de capacitación por la autoridad correspondiente, cumplirán con los siguientes requisitos:
+
+I. Tener autorización de la Subsecretaría de Transporte, Tránsito y Vialidad;
+
+II. Estar inscrito en el Registro Federal de Contribuyentes;
+
+III. Estar al corriente del pago de sus impuestos de tenencia y refrendo de la unidad o unidades automotoras que se ocupen para realizar dicha enseñanza;
+
+IV. Contar con instructores que hayan acreditado los cursos especiales para impartir clases de manejo y cuenten con la autorización de la Subsecretaría de Transporte, Tránsito y Vialidad, para realizar dicha actividad;
+
+V. Los instructores de manejo deberán contar con licencia de conducir vigente;
+
+VI. Tener vigente un seguro de cobertura amplia sobre responsabilidad civil y daños a terceros;
+
+VII. Impartir los cursos de manejo a personas cuya edad no sea inferior en más de seis meses al límite mínimo de la clase de licencia o permiso que aspira obtener;
+
+VIII. Que la unidad o unidades automotores tengan las adecuaciones técnicas necesarias para impartir las enseñanzas conforme a las especificaciones que para tal efecto disponga el Reglamento del presente ordenamiento; y
+
+IX. Las demás que establezca la autoridad competente y la normatividad aplicable.
+
+###### ARTÍCULO 34.
+
+La instrucción privada sin fines lucrativos no tendrá mayor requisito en términos de esta Ley y su Reglamento, que las previstas en las fracciones III, VI, y IX del artículo anterior.
+
+## TÍTULO CUARTO. DE LOS VEHÍCULOS
+
+### Capítulo I. Disposiciones generales
+
+###### ARTÍCULO 35.
+
+Todo vehículo, para poder circular por las vías públicas de comunicación terrestre en el Estado, requiere del correspondiente registro e inscripción en el Padrón Vehicular Estatal y deberá portar placas metálicas, calcomanías de identificación y tarjeta de circulación, todos ellos vigentes, independientemente de que cumpla con las disposiciones relativas a las medidas de seguridad, preservación del medio ambiente y protección ecológica que a tal efecto determine la autoridad competente y la legislación aplicable en la materia.
+
+Los vehículos que utilicen gas L. P. como combustible deberán contar con la autorización correspondiente, así como dictamen vigente expedido por una unidad de verificación acreditada por la autoridad en materia.
+
+###### ARTÍCULO 36.
+
+Para los efectos de esta Ley los vehículos se clasifican:
+
+I. Por su peso:
+
+a) Ligeros, los que reportan hasta tres y media tonelada de peso bruto, entre otros:
+
+1. Bicicletas y triciclos;
+
+2. Bicimotos y triciclos automotores;
+
+3. Motocicletas y motonetas;
+
+4. Automóviles;
+
+5. Camionetas pick up;
+
+6. Remolques;
+
+7. Carros de propulsión humana; y
+
+8. Vehículos de tracción animal.
+
+b) Pesados, los que reportan más de tres y media tonelada de peso bruto vehicular, entre otros:
+
+1. Minibuses;
+
+2. Autobuses;
+
+3. Camiones de dos o más ejes;
+
+4. Tractores con semiremolque;
+
+5. Camiones con remolque;
+
+6. Trailers ligeros;
+
+7. Equipo especial móvil de la industria del comercio y de la agricultura;
+
+8. Vehículos con grúa; y
+
+9. Vehículos utilizados en servicio de bomberos.
+
+II.- En función de su uso:
+
+1. Servicio particular y mercantil;
+
+2. Servicio Público;
+
+3. Servicio Social; y
+
+4. Servicio Especializado.
+
+La diversidad de los vehículos que se derivan de la anterior clasificación, se regirán por el Reglamento respectivo.
+
+###### ARTÍCULO 37.
+
+Todos los vehículos que circulan por la vía pública del Estado y que en razón de su actividad y domicilio no pertenezcan a esta entidad federativa, deberán efectuar su registro ante la autoridad competente; las condiciones y requisitos para cada tipo y clase de vehículo son las que al respecto señalen esta Ley y su Reglamento.
+
+Las Secretarías de Gobierno y Finanzas del Estado establecerán los mecanismos de coordinación para eficientar el Padrón Vehicular Estatal.
+
+### Capítulo II. De los vehículos automotrices de servicio particular y de servicio público de transporte de personas
+
+###### ARTÍCULO 38.
+
+En términos de esta Ley se entenderá que un vehículo es de servicio particular, cuando está destinado al uso de su propietario, familiares u ocupantes de la unidad, sin que medie a tal efecto lucro o especulación comercial alguna; indistintamente de las características de la unidad respecto a su número de plazas y características estructurales.
+
+Los vehículos de transporte público de personas serán aquellas unidades que presten el servicio de traslado de pasajeros, mediante pago o remuneración autorizada; y que sean concesionarios o permisionarios del servicio conforme a la normatividad en materia de transporte público, indistintamente de las características de la unidad respecto a su capacidad de ocupantes y características estructurales.
+
+### Capítulo III. Del mantenimiento y funcionalidad de los vehículos
+
+###### ARTÍCULO 39.
+
+Todos los vehículos automotores, acoplados y semiremolques destinados a circular por la vía pública estarán sujetos a la revisión técnica periódica a fin de determinar el estado de funcionamiento y sistemas que garanticen su seguridad.
+
+El funcionamiento y sistemas a examinar, la periodicidad de revisión, el procedimiento a emplear, el criterio de evaluación de resultados y el lugar donde se efectúe, serán establecidos por la reglamentación y cumplimentados por la autoridad competente. Esta podrá delegar la verificación a las concesionarias oficiales de los fabricantes o importadores o a talleres habilitados a estos efectos manteniendo un estricto control.
+
+En cuanto al control de emisión de contaminantes, la autoridad de tránsito coadyuvará con la autoridad competente de conformidad con la legislación aplicable.
+
+## TÍTULO QUINTO. DE LA CIRCULACIÓN
+
+### Capítulo I. Reglas Generales
+
+###### ARTÍCULO 40.
+
+En la vía pública, entendida en los términos de esta ley, se debe circular respetando las indicaciones de la autoridad competente, las señales de tránsito y las normas legales aplicables en la materia.
+
+Todo vehículo automotor, acoplado o semiacoplado para poder circular, debe estar cubierto por un seguro vigente que cubra al menos la responsabilidad civil por daños causados a terceros.
+
+Igualmente resultará obligatorio el seguro para las motocicletas en las mismas condiciones que rige para los automotores.
+
+###### ARTÍCULO 41.
+
+Cuando por causa legalmente sustentada, la autoridad competente Estatal o Municipal, a través de las corporaciones policiales respectivas, solicite la licencia para conducir u otra documentación exigible, éstas deberán ser devueltas inmediatamente después de verificadas, no pudiendo retenerse sino en los casos que esta Ley lo contemple.
+
+###### ARTÍCULO 42.
+
+Son responsabilidad del conductor, y solidariamente del concesionario o permisionario transportista, los resultados que se den con motivo de accidentes de tránsito, la distribución o descarga de mercancías fuera de la vía pública, y la que exceda las dimensiones o peso máximo permitidos.
+
+Cuando una carga excepcional no pueda ser transportada en otra forma o por otro medio, la autoridad competente, con intervención de la autoridad responsable en materia de transportes, así como de obra pública, determinarán la procedencia del tránsito en el modo solicitado, otorgando un permiso provisional para exceder los pesos y dimensiones máximos permitidos, lo cual no exime de responsabilidad por los daños que se causen a terceros y a la vía pública.
+
+La autoridad Estatal o Municipal, dentro del ámbito de su competencia, será la facultada para expedir los permisos a los que se refiere el párrafo anterior.
+
+###### ARTÍCULO 43.
+
+Los agentes de la Policía Estatal de Caminos y la Municipal en materia de tránsito, en sus respectivas jurisdicciones ante la comisión de infracciones de tránsito, podrán detener un vehículo de pasajeros y de carga, particulares o de servicio público y verificar la debida acreditación de la unidad y su conductor, en términos de la presente Ley, su reglamento y demás normatividad relativa aplicable.
+
+### Capítulo II
+
+De los peatones, escolares y personas con discapacidad.
+
+###### ARTÍCULO 44.
+
+Todas las personas que en su calidad de peatones transiten por la vía pública, están obligadas a cumplir en lo que a ellos concierne, con las disposiciones de esta Ley y su reglamento, así como las indicaciones que hagan los oficiales o agentes cuando dirijan el tránsito.
+
+###### ARTÍCULO 45.
+
+Los peatones y personas con discapacidad tendrán siempre paso preferencial en las zonas donde se determine mediante el respectivo señalamiento, así como en aquellos lugares en que el tránsito sea controlado por los oficiales o agentes, quienes en todo momento deberán cuidar por su seguridad.
+
+###### ARTÍCULO 46.
+
+Los peatones no deberán transitar por las superficies de rodamiento de las vías públicas destinadas a la circulación vehicular, ni cruzar las vías rápidas por lugares no autorizados para tal efecto.
+
+###### ARTÍCULO 47.
+
+Las personas con discapacidad o enfermos que utilicen sillas de ruedas o aparatos similares, por sí o con el auxilio de otra persona, tendrán preferencia para transitar por las aceras; los demás peatones, así como las autoridades de tránsito correspondientes, deberán brindar auxilio, cuando lo soliciten, para su libre desplazamiento por la vía pública.
+
+###### ARTÍCULO 48.
+
+Los escolares tendrán preferencia en las zonas señaladas para su paso, por lo que el ascenso y descenso de los vehículos utilizados para trasladarse deberá realizarse en los lugares previamente autorizados. En consecuencia, las autoridades competentes deberán proteger el tránsito de los escolares en los horarios establecidos.
+
+### Capítulo III. De los conductores
+
+###### ARTÍCULO 49.
+
+Los conductores, indistintamente del vehículo que manejen, deberán:
+
+I. Antes de circular en la vía pública, verificar que el vehículo se encuentre en adecuado funcionamiento, condiciones de seguridad y con los requisitos legales bajo su responsabilidad. No obstante, en caso de vehículos del servicio de transporte, la responsabilidad por sus condiciones de seguridad se ajustará a lo dispuesto en la normatividad sobre transporte público, esta Ley, su reglamento y demás legislación que le resulte aplicable;
+
+II. En la vía pública, circular con cuidado y prevención, conservando en todo momento el dominio efectivo del vehículo, teniendo en cuenta los riesgos propios de la circulación y demás circunstancias del tránsito; y
+
+III. Utilizar únicamente la calle sobre la derecha y en el sentido señalizado, respetando las vías o carriles exclusivos y los horarios de tránsito establecidos por la autoridad estatal o municipal competente.
+
+###### ARTÍCULO 50.
+
+Para poder circular con vehículo automotor es indispensable:
+
+I. Que su conductor esté en aptitud de conducir el vehículo y que lleve consigo la licencia correspondiente;
+
+II. Que porte la tarjeta de circulación del mismo;
+
+III. Que lleve el comprobante de seguro de responsabilidad frente a terceros por daños resultantes de accidentes, en vigencia;
+
+IV. Que el vehículo, incluyendo acoplados y semirremolques, tenga colocadas las placas de identificación, con las características y en los lugares que establece el reglamento;
+
+V. Que tratándose de un vehículo de servicio de transporte o maquinaria especial, cumpla con las condiciones requeridas para cada tipo de vehículo y su conductor porte la documentación especial prevista en la ley de la materia y demás disposiciones legales aplicables;
+
+VI. Que el número de ocupantes guarde relación con la capacidad con la que fue autorizado el vehículo y no estorben al conductor. Los menores de 10 años deben viajar en el asiento trasero;
+
+VII. Que el vehículo y lo que transporta tenga las dimensiones, peso y potencia adecuados a la vía transitada y las restricciones establecidas por la autoridad competente, la ley y su reglamento;
+
+VIII. Que posea los sistemas de seguridad originales, en buen estado de funcionamiento;
+
+IX. Que sus ocupantes usen los cinturones de seguridad en los vehículos. En caso de vehículos destinados al servicio público, se estará a lo dispuesto por la ley y ordenamientos en la materia; y
+
+X. Que tratándose de una motocicleta, sus ocupantes lleven puestos cascos normalizados, y si la misma no tiene parabrisa, que su conductor use anteojos.
+
+###### ARTÍCULO 51.
+
+Todo conductor deberá, al circular por la vía pública, cumplir con todas y cada una de las disposiciones que esta Ley y su reglamento establecen, procurando la fluidez vial, el respeto a las señales de tránsito y a la autoridad competente, la conservación de su vida e integridad corporal, así como la de sus pasajeros, demás conductores y peatones que igualmente se encuentren haciendo uso de la vía pública.
+
+Los conductores deberán ceder el paso cuando los peatones se encuentren cruzando las calles y sobrevenga un cambio de señal en los semáforos que regulan la circulación.
+
+### Capítulo IV. De las restricciones a la circulación en la vía publica
+
+###### ARTÍCULO 52.
+
+Esta prohibido en la vía pública:
+
+I. Conducir con los impedimentos físicos o psíquicos, sin la licencia especial correspondiente, en estado de intoxicación alcohólica o habiendo tomado estupefacientes o medicamentos que disminuyan la aptitud para conducir;
+
+II. Ceder o permitir la conducción a personas sin habilitación para ello;
+
+III. A los conductores de vehículos, circular en sentido contrario, sobre los separadores de tránsito o fuera de la calzada, salvo en caso de emergencia;
+
+IV. Disminuir arbitraria y bruscamente la velocidad, realizar movimientos zigzagueantes o maniobras intempestivas;
+
+V. Conducir a exceso de velocidad, excepto los vehículos de rescate, emergencia y seguridad en el desempeño de sus funciones;
+
+VI. Obstruir el paso preferencial de peatones u otros vehículos;
+
+VII. Conducir a una distancia menor de la prudente del vehículo que lo precede, de acuerdo a la velocidad de marcha permitida por el reglamento de tránsito;
+
+VIII. Circular un vehículo marcha atrás, excepto para estacionarlo, procedente de un estacionamiento o de una calle sin salida;
+
+IX. La detención irregular sobre la vía publica, el estacionamiento sobre la banqueta y la detención intempestiva sin ocurrir emergencia;
+
+X. En curvas, cruces y otras zonas peligrosas, cambiar de carril o fila, adelantarse, no respetar la velocidad precautoria y detenerse;
+
+XI. Cruzar un paso a nivel si se percibiera la proximidad de un vehículo ferroviario, si desde el cruce se estuvieran haciendo señales de advertencia, si las barreras estuviesen bajas o en movimiento, o la salida no estuviese expedita. También está prohibido detenerse sobre los rieles o a menos de cinco metros de ellos cuando no hubiere barreras o señalamientos, así como quedarse en posición que pudiere obstaculizar el libre movimiento de las barreras;
+
+XII. A los conductores de bicicletas, ciclomotores y motocicletas, circular asidos de otros vehículos o enfilados inmediatamente tras otros automotores;
+
+XIII. A los omnibuses, microbuses, camiones, combis y taxis, transitar entre sí a una distancia que ponga en riesgo a pasajeros y peatones;
+
+XIV. El uso innecesario del claxon, así como el uso inmoderado del equipo de audio de las unidades automotrices, debiendo permitirse en todo momento la senso-percepción de ruidos en el exterior;
+
+XV. Remolcar automotores, salvo para casos de auxilio urgente y por los vehículos destinados a tal fin. Los demás vehículos podrán hacerlo en caso de fuerza mayor utilizando elementos rígidos de acople y la debida precaución;
+
+XVI. Circular con un tren de vehículos integrado con más de un acoplado, salvo lo dispuesto para la maquinaria especial y agrícola;
+
+XVII. Transportar residuos, escombros, tierra, arena, grava, aserrín u otra carga a granel y animales, cuando se causen daños a terceros o a la misma vía pública;
+
+XVIII. Transportar cualquier carga o elemento que perturbe la visibilidad, afecte peligrosamente las condiciones aerodinámicas del vehículo, oculte placas de circulación, luces o indicadores o sobresalga de los límites permitidos;
+
+XIX. Efectuar reparaciones, salvo arreglos circunstanciales, en cualquier tipo de vehículo;
+
+XX. Dejar animales sueltos y arrear ganado, sin el señalamiento correspondiente;
+
+XXI. Estorbar u obstaculizar de cualquier forma la calzada, calle o la banqueta y hacer construcciones, instalarse o realizar venta de productos en zona alguna del camino;
+
+XXII. Circular en vehículo con bandas de rodamiento metálicas o con grapas, tetones, cadenas, uñas, u otro elemento que dañe el pavimento;
+
+XXIII. Usar la bocina, luces y señales acústicas, sin permiso de la autoridad correspondiente; salvo en casos de peligro o en zonas rurales;
+
+XXIV. Que los vehículos tengan sirena, luces o bocina no autorizadas;
+
+XXV. Circular con vehículo que emitan gases, humos, ruidos, radiaciones u otras emanaciones contaminantes del ambiente, que excedan los limites reglamentarios;
+
+XXVI. Conducir utilizando audífonos y sistemas de comunicación de operación manual continua;
+
+XXVII. Circular con vehículos que utilicen gas L. P. como combustible, sin contar con dictamen vigente expedido por una unidad de verificación acreditada por la autoridad en la materia;
+
+XXVIII. Tirar o arrojar basura u objetos desde el interior del vehículo; y
+
+XXIX. Demás prohibiciones que al efecto establezca la autoridad competente y de acuerdo a la normatividad aplicable.
+
+### Capítulo V. De las reglas de velocidad
+
+###### ARTÍCULO 53.
+
+Los limites máximos de velocidad para cualquier tipo de vehículo:
+
+I. En Calles: 30 Km/hr.;
+
+II. En avenidas: 40 Km/hr.;
+
+III. En vías rápidas, libramientos o periféricos: 60 Km/hr.;
+
+IV. En vías con semaforización: la velocidad precautoria, nunca superior a 30 Km/hr.;
+
+V. En los cruces urbanos sin semáforos: la velocidad precautoria, nunca superior a 30 Km/hr.;
+
+VI. En los pasos peatonales a nivel sin barrera ni semáforos: la velocidad precautoria no superior a 20 km/hr.;
+
+VII. En proximidad de establecimientos escolares, deportivas y de gran afluencia de personas: velocidad precautoria no mayor a 20 Km/hr., durante su funcionamiento;
+
+VIII. En rutas que atraviesan zonas urbanas, 60 Km/hr., salvo en señalizaciones contrarias; y
+
+IX. En carreteras y caminos estatales: los límites establecidos por la señalización, conforme a las características de cada carretera.
+
+### Capítulo VI. Reglas para casos especiales
+
+###### ARTÍCULO 54.
+
+La detención de todo vehículo o la presencia de carga u objetos sobre la calle o banqueta debido a caso fortuito o fuerza mayor, debe ser advertida a los usuarios de la vía pública al menos con la inmediata colocación de señalizaciones reglamentarias.
+
+La autoridad presente debe remover el obstáculo sin dilación, por sí sola o con la colaboración del responsable, si lo hubiere y si estuviere en posibilidad de hacerlo.
+
+Asimismo, los trabajadores que cumplen tareas sobre la calle o banqueta y los servidores públicos responsables deberán utilizar vestimenta que por su color los destaque suficientemente de día y por su reflejancia de noche.
+
+La autoridad competente puede disponer la suspensión temporal de la circulación, cuando situaciones de emergencia lo hagan necesario.
+
+###### ARTÍCULO 55.
+
+El uso de la vía pública para fines ajenos al tránsito, tales como desfiles, manifestaciones, mítines, exhibiciones, competencias de velocidad pedestre, ciclísticas, ecuestres, automovilísticas, entre otras, deben ser notificados con antelación a la autoridad correspondiente, a efecto de evitar congestionamientos viales mayores e implementar operativos que permitan proteger la integridad física de quienes intervengan en esos eventos.
+
+Respecto a manifestaciones, mítines o similares, cuando estas se realicen de forma tal que hagan imposible el uso de vías alternas para vehículos y peatones, quienes intervengan en estas movilizaciones, con la debida protección de las autoridades competentes, deberán desplazarse sobre la derecha de la vía permitiendo, al menos el libre paso de un vehículo sobre la extrema izquierda de la vía, y no podrán impedir el libre paso de peatones.
+
+###### ARTÍCULO 56.
+
+Los organizadores o quienes tomen parte en los actos o evento descritos en el artículo que antecede, prevendrán adicionalmente la implementación de las medidas necesarias de seguridad para personas o cosas propias y ajenas a la movilización, siendo responsables por los eventuales daños a terceros o a la estructura vial.
+
+###### ARTÍCULO 57.
+
+Los vehículos de los servicios de emergencia pueden, excepcionalmente y en cumplimiento estricto de su misión especifica no respetar las normas referentes a la circulación, velocidad y estacionamiento, si ello les fuera absolutamente imprescindible, observando las medidas de seguridad.
+
+Estos vehículos tendrán habilitación técnica especial, debiendo encontrarse en óptimas condiciones de funcionamiento.
+
+Estas unidades deberán circular con sus luces de emergencia en funcionamiento y agregando el sonido de una sirena si su cometido requiriera emergencia.
+
+Los demás usuarios de la vía pública tienen la obligación de tomar todas las medidas necesarias a su alcance para facilitar el avance de esos vehículos en tales circunstancias y no podrán seguirlos tratando de beneficiarse de la preferencia de paso que les corresponde sobre la vía.
+
+La sirena debe usarse simultáneamente con las luces y señalizaciones distintivas, con la máxima moderación posible. Todo exceso de los vehículos de emergencia, será sancionado en términos de esta ley y su reglamento.
+
+###### ARTÍCULO 58.
+
+El propietario y/o chofer de la unidad de emergencia que sea detenida conforme a esta ley y su reglamento, deberán responder de los gastos originados por el depósito vehicular, arrastre de grúa y demás servicios.
+
+## TÍTULO SEXTO. DE LOS ACCIDENTES E INCIDENTES DE TRÁNSITO
+
+### Capítulo I. Disposiciones generales
+
+###### ARTÍCULO 59.
+
+Se considera accidente de tránsito todo hecho que produzca daño físico y/o moral en persona; físicos y estructurales en bienes muebles e inmuebles, cosas o mercancías; como consecuencia de la circulación de todo tipo de vehículo, incluidos los de tracción animal y humana, en las vías públicas de comunicación terrestre.
+
+###### ARTÍCULO 60.
+
+Se presume responsable de un incidente de tránsito al conductor que cometió dolosa o culposamente una infracción, hecho o acto relacionados con la causa del mismo.
+
+El propietario y el conductor del vehículo involucrado que resulte culpable de un accidente de tránsito, serán solidariamente responsables civil y administrativamente por ellos, en la reparación de daños materiales, gastos médicos y funerarios, daño moral y lo que resulte a la misma y deudo del accidente. Si por causa de la presencia de un semoviente en la carretera o en caminos estatales o municipales, que causen un accidente de tránsito, este será imputable para el propietario del animal, quien será el responsable directo, identificándose por cualquier medio de prueba legal.
+
+###### ARTÍCULO 61.
+
+Los accidentes del tránsito serán estudiados y analizados por la autoridad competente para establecer su causalidad y obtener conclusiones que permitan señalar entre los implicados la presunción de la responsabilidad. Cuando como resultado del accidente se presuma la comisión de algún delito, se dará vista de inmediato a la autoridad que corresponda.
+
+###### ARTÍCULO 62.
+
+Es obligatorio para partícipes de un accidente de tránsito:
+
+l. Detenerse inmediatamente;
+
+II. Suministrar los datos de su licencia de conductor y del seguro obligatorio a la otra parte y/o a la autoridad interviniente; y
+
+III. Denunciar el hecho ante cualquiera de las autoridades competentes.
+
+###### ARTÍCULO 63.
+
+Las autoridades competentes, al tener conocimiento de que se ha presentado un percance o incidente de tránsito, deberán con toda oportunidad y eficacia, apersonar a los agentes policiales, patrullas o unidades de emergencia que se requiera en el lugar.
+
+En el sitio del percance el comandante u oficial de mayor jerarquía, proveerá levantar un acta circunstanciada sobre el hecho, donde deberán constar los datos generales de identificación de los conductores, pasajeros y peatones que resulten implicados, así como de los vehículos involucrados, lugar hora y fecha del incidente; y las observaciones que consideren pertinentes.
+
+Ordenará se extiendan entonces las boletas de infracción que correspondan y dispondrá conforme a la ley la detención que proceda y la remisión de vehículos a los depósitos vehiculares. En caso de la comisión de algún delito, pondrá además a disposición del Ministerio Público los informes relativos, personas y vehículos involucrados.
+
+Igualmente, deberá presentarse al sitio un perito calificado por parte de la autoridad correspondiente, para los fines legales a que haya lugar, en términos del artículo 60 de esta ley.
+
+###### ARTÍCULO 64.
+
+Si en razón de cercanía del lugar de un accidente de tránsito, la autoridad más cercana es distinta de la competente, y la atención del caso no permite demora, ésta primera deberá atender el percance en tanto acuda la responsable a la que deberá dar aviso del hecho inmediatamente; asegurará los vehículos y personas involucradas en el lugar de los hechos, permitiendo y apoyando el traslado de lesionados.
+
+###### ARTÍCULO 65.
+
+Las autoridades competentes locales organizarán un sistema de auxilio para emergencia, prestando, requiriendo y coordinando los apoyos necesarios mediante la armonización de los medios de comunicación, de transporte y asistenciales.
+
+Centralizarán igualmente el intercambio de datos para la atención de heridos en el lugar del accidente y su forma de traslado hacia los centros médicos.
+
+Igualmente tendrán previstos operativos institucionales para ubicar, perseguir y detener a los presuntos responsables de incidentes de tránsito y su remisión a la autoridad competente.
+
+### Capítulo II. De los incidentes de tránsito de vehículos y peatones
+
+### Capítulo I. Disposiciones generales
+
+###### ARTÍCULO 66.
+
+Los incidentes que ocurran entre vehículos de tracción mecánica, humana o animal, o de estos con peatones, serán competencia de la autoridad estatal o municipal, sin importar el origen del registro o procedencia de los vehículos implicados, cuando se presenten en la red de carretera estatal, caminos pavimentados o de terracería, fuera de asentamientos humanos, colonias poblados (sic), zonas urbanas o urbanizadas de los municipios; sobre las cuales la autoridad competente será la facultada para conocer y resolver de los hechos e incidentes de tránsito; independientemente de la responsabilidad civil o penal que pueda acumulársele al presunto responsable.
+
+## TÍTULO SÉPTIMO. DE LAS BASES PARA EL PROCEDIMIENTO ADMINISTRATIVO RESULTANTE DE INCIDENTES E INFRACCIONES DE TRÁNSITO
+
+### Capítulo II. Medidas cautelares
+
+###### ARTÍCULO 67.
+
+El procedimiento administrativo que de origen a la aplicación de sanciones por violaciones a esta ley, su reglamento y demás legislación aplicable en la materia, será el previsto en la legislación relativa vigente en el Estado.
+
+### Capítulo I. Principios Generales
+
+###### ARTÍCULO 68.
+
+La autoridad en la materia deberá detener o retener según corresponda, en términos de ley, dando inmediato conocimiento a la autoridad competente Federal, Estatal o Municipal, en los siguiente (sic) casos;
+
+I. A los conductores cuando:
+
+a) Sean sorprendidos en estado de intoxicación alcohólica, por estupefacientes u otra sustancia que disminuya las condiciones psicofísicas normales, o en su defecto ante la presunción de alguno de los estados anteriormente enumerados; se requiere al momento de la retención, comprobante médico o de dispositivo instrumento analizador de aliento o medidor etílico que acredite tal estado. La retención será por el tiempo necesario para recuperar el estado normal, misma que no deberá exceder de treinta y seis horas;
+
+b) En casos de flagrancia en la comisión de un delito; hasta que sean puestos a disposición de la autoridad competente; y
+
+c) Se den a la fuga habiendo participando (sic) en un accidente o habiendo cometido alguna infracción, por el tiempo necesario para llevar a cabo las actuaciones policiales y ministeriales correspondientes.
+
+II. Las licencias de conducir, cuando:
+
+a) Estuvieren vencidas;
+
+b) No se ajusten a los límites de edad correspondientes;
+
+c) Hayan sido alteradas o surja una evidente violación a los requisitos exigidos en esa Ley y su Reglamento;
+
+d) Sea evidente la disminución de las condiciones psicofísicas del titular, con relación a la exigible al serle otorgada; y
+
+e) El titular se encuentre inhabilitado o suspendido para conducir.
+
+III. Los vehículos:
+
+a) Que no cumplan con las medidas de seguridad exigidas por esta Ley, elaborándose un acta circunstanciada del hecho y del automotor, remitiéndolo mediante arrastre con grúa, al depósito vehicular que corresponda;
+
+b) Si son conducidos por personas no habilitadas para el tipo de vehículos que conducen, inhabilitadas, con habilitación suspendida o que no cumplan con las edades reglamentarias para cada tipo de vehículo;
+
+c) Cuando se compruebe que el automotor circule excedido en peso o en sus dimensiones o en infracción a la normatividad vigente sobre transporte de carga en general o de sustancias peligrosas;
+
+d) Cuando estén prestando un servicio de transporte público de pasajeros o de carga, careciendo del permiso, autorización, concesión, habilitación o inscripción exigidos o en excesos de los mismos, previa solicitud de la autoridad competente en la materia;
+
+e) Que estando mal estacionados obstruyan la circulación o la visibilidad, los que ocupen lugares destinados a vehículos de emergencias, cajones de estacionamiento y rampas para personas con discapacidad o de servicio público de pasajeros; los abandonados en la vía pública y los que por haber sufrido deterioros no pueden circular y no fueren reparados o retirados de inmediato, serán remitidos a depósitos que indique la autoridad competente;
+
+f) Cuando hayan sido reportados como robados, debiendo poner al conductor del vehículo a disposición del Ministerio Público, a efecto de deslindar responsabilidades; y
+
+g) Cuando no acrediten haber cumplido con las normas oficiales mexicanas y demás disposiciones que regulan el uso del gas L. P. como combustible, emitidas por las autoridades competentes en la materia.
+
+IV. Los objetos que impliquen riesgos en la vía pública o se encuentren abandonados;
+
+V. La documentación de los vehículos particulares, de transporte de pasajeros público o privado o de carga, cuando:
+
+a) No cumplan con los requisitos exigidos por la normativa vigente;
+
+b) Esté alterada o no haya congruencia entre lo declarado y las condiciones reales del automotor;
+
+c) Se infrinjan normas referidas especialmente a la circulación de los mismos o su habilitación; y
+
+d) Cuando esté prestando un servicio de transporte público de pasajeros careciendo de permiso, autorización, concesión, habilitación o inscripción exigidos en la normatividad vigente sin prejuicio de la sanción pertinente.
+
+###### ARTÍCULO 69.
+
+La liberación de un vehículo detenido por la autoridad competente, en términos del artículo anterior, deberá realizarse previa resolución de aquélla, y toda vez que el propietario del vehículo hubiere cubierto los gastos de arrastre y depósito del vehículo a que se hubiere hecho acreedor.
+
+## TÍTULO OCTAVO. DEL RÉGIMEN DE SANCIONES
+
+### Capítulo II. De las naturalezas de las sanciones
+
+###### ARTÍCULO 70.
+
+Las sanciones previstas en esta Ley y su reglamento, son de observancia general y obligatoria para todos los ciudadanos del Estado y las autoridades Estatal y Municipales en la materia.
+
+###### ARTÍCULO 71.
+
+Son autoridades facultadas para ordenar y ejecutar las sanciones correspondientes en la materia, la Estatal y Municipal, así como la Judicial del Estado, conforme a sus facultades y competencias respectivas, contenidas en el título primero de esta Ley.
+
+###### ARTÍCULO 72.
+
+Son responsables de infracciones, delitos, faltas, actos u omisiones en materia de tránsito para esta ley:
+
+I. Las personas que incurran en las conductas antijurídicas previstas, aun sin intencionalidad;
+
+II. Los mayores de edad. Los comprendidos entre 14 y 17 años, serán juzgados o sujetos a procedimiento administrativo en base a la normatividad sobre menores infractores en el Estado de Tabasco. Sus representantes legales serán solidariamente responsables por las multas que se le apliquen; y
+
+III. Cuando no se identifique al conductor infractor, recaerá la comisión de la infracción en el propietario del vehículo, a no ser que compruebe que lo había enajenado o no estaba, bajo su tenencia o custodia, denunciando al comprador, tenedor, custodio o usufructuario.
+
+###### ARTÍCULO 73.
+
+También son sancionables las personas jurídicas colectivas por sus propias faltas, pero no por las de sus dependientes respecto de las reglas de circulación. No obstante deben individualizar a éstos a pedido de a (sic) la autoridad.
+
+###### ARTÍCULO 74.
+
+Constituyen faltas graves en materia de tránsito y vialidad las siguientes:
+
+I. Las violaciones genéricas y específicas a esta ley, su reglamento y demás legislación relativa aplicable;
+
+II. La falta de precaución y previsión personal que deriven en incidentes de tránsito que ocasiones (sic) daños materiales a bienes privados o públicos, de cuantía mayor al equivalente a doscientos días de salario mínimo, lesiones simples, graves o la muerte de otro conductor, pasajero y/o peatón. Los salarios mínimos serán los vigentes en la zona;
+
+III. Las que significan obstrucción a la circulación, y por lo tanto, ataques a las vías generales de comunicación terrestre;
+
+IV. Las que dificulten e impidan el estacionamiento y/o la detención de vehículos del servicio público de pasajeros y de emergencia en los lugares reservados y especialmente en casos de urgencia;
+
+V. Ocupen espacios reservados por razones de visibilidad y/o seguridad;
+
+VI. Las que afecten por contaminación al medio ambiente;
+
+VII. La conducción de vehículos sin estar debidamente habilitados para hacerla;
+
+VIII. Darse a la fuga o negarse a proporcionar documentación o información quienes estén obligados a hacerlo;
+
+IX. No cumplir con lo exigido en caso de accidente;
+
+X. Circular con vehículos de transporte de pasajeros o carga, sin contar con la habilitación extendida por autoridad competente o que teniéndola no cumpliera con lo exigido;
+
+XI. La falsedad en declaraciones y/o pruebas de presuntos responsables en incidentes de tránsito ante la autoridad responsable, o su intento de cohecho, sobornos y dádivas a peritos, a los integrantes de las corporaciones policiales o de la autoridad ordenadora en la materia; funcionarios públicos que igualmente deberán responder en la gravedad de esta falta en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Tabasco; y
+
+XII. Las que violando las disposiciones vigentes en la presente ley y su reglamento, impliquen riesgo a la vida e integridad corporal y patrimonial de conductores, pasajeros y peatones, y en general a la seguridad del tránsito y vialidad, contraponiéndose al interés y orden público.
+
+###### ARTÍCULO 75.
+
+Se refutarán como faltas graves en la materia, las atribuibles, al desempeño de sus funciones tanto al personal de la Policía Estatal de Caminos como del personal de Tránsito de los municipios, todas aquellas omisiones o actos que violenten los supuestos normativos de esta ley, su reglamento y demás legislaciones que resulten aplicables, sin detrimento de las faltas en que incurran en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado.
+
+###### ARTÍCULO 76.
+
+La autoridad administrativa competente podrá eximir de responsabilidad por resolución en ese sentido, al conductor o conductores responsables de un percance de tránsito o de violaciones graves a esta ley, cuando se den las siguientes situaciones:
+
+I. Una necesidad debidamente acreditada; y
+
+II. Cuando el presunto infractor no pudo evitar cometer la falta y que así sea demostrado fehacientemente en el procedimiento respectivo.
+
+###### ARTÍCULO 77.
+
+La sanción administrativa que corresponda al conductor o conductores responsables de un percance de tránsito o de violaciones graves a su normatividad podrá aumentarse en la proporción que corresponda a los casos equiparables previstos en esta ley con otros supuestos legales del orden penal y hasta el triple de las sanciones ordinarias establecidas, cuando:
+
+I. EL (sic) infractor haya cometido la falta fingiendo la prestación de un servicio de emergencia u oficial o utilizando una franquicia indebidamente o que no le correspondía;
+
+II. La haya cometido abusando de reales situaciones de emergencia o del cumplimiento de un servicio público u oficial;
+
+III. El infractor sea funcionario público y cometa la falta abusando de tal carácter; y
+
+IV. Sea reincidente en una falta grave.
+
+###### ARTÍCULO 78.
+
+En caso de concurso de infracciones, las sanciones se acumularán aun cuando sean distintas y resulten de un mismo hecho.
+
+###### ARTÍCULO 79.
+
+Se considerará como reincidencia, la infracción a una misma disposición en dos o más ocasiones diversas durante el lapso de dos años contados a partir de la primera infracción.
+
+### Capítulo III. Extinción de acciones y sanciones
+
+###### ARTÍCULO 80.
+
+Las sanciones administrativas a que esta Ley de origen, son de cumplimiento coercible y obligatorio, no pudiendo ser aplicadas con carácter condicional ni en suspensión y consisten en:
+
+I. Arresto por 36 horas;
+
+II. Inhabilitación para conducir vehículos o determinada categoría de ellos en cuyo caso se debe suspender o cancelar la vigencia de la licencia de manejo según corresponda;
+
+III. Multa; y
+
+IV. Concurrencia a cursos especiales de educación y capacitación para el correcto uso de la vía pública. Esta sanción puede ser aplicada como alternativa de la multa para infracciones leves y como adicional a la multa en infracciones graves.
+
+La normatividad reglamentaria en la materia establecerá el procedimiento para la aplicación de sanciones, de cada infracción, en términos de esta ley.
+
+Contra los actos y resoluciones que se dicten en materia de tránsito, se estará a lo previsto en la Ley de Justicia Administrativa del Estado de Tabasco.
+
+###### ARTÍCULO 81.
+
+Son causa de la extinción de acciones y sanciones administrativas las siguientes:
+
+I. Muerte del imputado o responsable;
+
+II. Prescripción, y
+
+III. Las demás causas que establece esta ley y su reglamento.
+
+###### ARTÍCULO 82.
+
+La prescripción de acciones y sanciones administrativas aplica a los tres años de la comisión de infracciones.
+
+## TRANSITORIOS
+
+PRIMERO. El presente Decreto entrará en vigor a los sesenta días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que en materia de tránsito y vialidad se establecen en la Ley de Seguridad Pública y Tránsito del Estado; así como todas aquellas que se opongan a la presente Ley.
+
+TERCERO. Los ciudadanos del Estado de Tabasco contarán con un año de gracia computado a partir de la publicación de esta Ley en el Periódico Oficial del Estado, respecto a la obligatoriedad de contar con un seguro vehicular de cobertura de daños a terceros por responsabilidad civil y diversa.
+
+CUARTO. Los ciudadanos del Estado de Tabasco contarán con un año de gracia computado a partir de la publicación de esta Ley en el Periódico Oficial del Estado, respecto a la obligatoriedad de cumplir con el artículo 52 fracción XXVII.
+
+DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO DEL ESTADO,
+
+EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO; A LOS DOS DÍAS DEL MES DE MARZO DEL AÑO DOS MIL SEIS, DIP. CARLOS MARIO OCAMPO CANO, PRESIDENTE; DIP. MIGUEL SALlM NAZUR RIVERA, SECRETARIO.- RÚBRICAS.
+
+Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+EXPEDIDO EN EL PALACIO DE GOBIERNO, RECINTO OFICIAL DEL PODER EJECUTIVO, EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO; A LOS DIECISIETE DIAS DEL MES DE MARZO DEL AÑO DOS MIL SEIS.
+
+"SUFRAGIO EFECTIVO. NO REELECCIÓN"
+
+LIC. MANUEL ANDRADE DÍAZ
+
+GOBERNADOR DEL ESTADO DE TABASCO.
+
+LIC. JAIME HUMBERTO LASTRA BASTAR
+
+SECRETARIO DE GOBIERNO.
