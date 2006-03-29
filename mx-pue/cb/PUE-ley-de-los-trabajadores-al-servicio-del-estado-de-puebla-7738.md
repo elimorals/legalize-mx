@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-los-trabajadores-al-servicio-del-estado-de-puebla-7738"
 country: "mx"
 rank: "ley"
 publication_date: "1966-11-18"
-last_updated: "1983-08-12"
+last_updated: "2006-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE AGOSTO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2006.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Puebla, el viernes 18 de noviembre de 1966.
 
@@ -291,9 +291,11 @@ Por cada seis días de trabajo, disfrutará el trabajador de un día de descanso
 
 Las mujeres embarazadas, disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el alumbramiento y de un mes y medio después del mismo, con goce de sueldo íntegro en ambos casos. Durante la lactancia, tendrán dos descansos extraordinarios al día, de media hora cada uno, para amamantar a sus hijos, previos dictámenes médicos oficiales.
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2006)</small>
+
 ###### ARTICULO 27.
 
-Se consideran d´as (sic) de descanso obligatorio con goce de sueldo íntegro, los que señalan para el Estado los correspondientes decretos; los contenidos específicamente en la Ley Federal del Trabajo y el 8 de agosto, que se instituye como Día del Burócrata.
+Se consideran días de descanso obligatorio con goce de sueldo íntegro, los contenidos específicamente en la Ley Federal del Trabajo; el 5 de mayo; el segundo lunes de agosto en conmemoración del 8 de agosto, que se instituye como Día del Servidor Público; el viernes previo al tercer lunes de noviembre en conmemoración del 18 de noviembre; los que señalen para el Estado los correspondientes decretos, así como los fijados por los órganos competentes de cada Poder en los respectivos calendarios o acuerdos de días festivos e inhábiles.
 
 ###### ARTICULO 28.
 
@@ -1022,3 +1024,13 @@ P.O. 12 DE AGOSTO DE 1983.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE MARZO DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Por la conmemoración en el año dos mil seis del bicentenario del natalicio de Don Benito Juárez García, Benemérito de las Américas, en el año en curso será día de descanso obligatorio para lo Trabajadores al Servicio del Estado, inhábil para el despacho de los Tribunales del Poder Judicial del Estado y no se contará en los plazos fijados en días por la legislación fiscal del Estado, el día martes 21 de marzo, en lugar del tercer lunes de marzo, por lo que la reforma relativa a este día, tendrá vigencia a partir del año dos mil siete.
