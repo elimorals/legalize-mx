@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-judicial-del-estado-27748"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-30"
-last_updated: "2005-11-16"
+last_updated: "2006-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2006.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 30 de diciembre de 2002.
 
@@ -205,7 +205,9 @@ Son horas hábiles las que median entre las siete y las dieciocho. Los Tribunale
 
 Son inhábiles los sábados, los domingos y los días en que se suspendan las labores por orden del Tribunal Superior o del Presidente, en su caso. También son inhábiles los siguientes días:
 
-PRIMERO DE ENERO, CINCO DE FEBRERO, VEINTIUNO DE MARZO, PRIMERO, CINCO Y DIEZ DE MAYO, OCHO DE AGOSTO, DIECISÉIS DE SEPTIEMBRE, DIECIOCHO Y VEINTE DE NOVIEMBRE, PRIMERO DE DICIEMBRE, DEL AÑO EN QUE SE HAGA EL CAMBIO DEL TITULAR DEL PODER EJECUTIVO FEDERAL, DOCE Y VEINTICINCO DE DICIEMBRE.
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2006)</small>
+
+Primero de enero; primer lunes de febrero en conmemoración del cinco de febrero; tercer lunes de marzo en conmemoración del veintiuno de marzo; primero de mayo; cinco de mayo; diez de mayo; segundo lunes de agosto en conmemoración del ocho de agosto; dieciséis de septiembre; viernes previo al tercer lunes de noviembre en conmemoración del dieciocho de noviembre; tercer lunes de noviembre en conmemoración del veinte de noviembre; primero de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal; doce de diciembre, veinticinco de diciembre; los que señalen para el Estado los correspondientes decretos, y el que determinen las leyes federales y locales electorales, en el caso de elecciones ordinarias, para efectuar la jornada electoral.
 
 En materia civil, los Tribunales respectivos podrán habilitar los días y horas inhábiles para actuar o para que se practiquen diligencias, cuando hubiere causa urgente que lo exija, expresando ésta y las diligencias que hayan de practicarse.
 
@@ -2454,3 +2456,13 @@ P.O. 16 DE NOVIEMBRE DE 2005.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE MARZO DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Por la conmemoración en el año dos mil seis del bicentenario del natalicio de Don Benito Juárez García, Benemérito de las Américas, en el año en curso será día de descanso obligatorio para los Trabajadores al Servicio del Estado, inhábil para el despacho de los Tribunales del Poder Judicial del Estado y no se contará en los plazos fijados en días por la legislación fiscal del Estado, el día martes 21 de marzo, en lugar del tercer lunes de marzo, por lo que la reforma relativa a este día, tendrá vigencia a partir del año dos mil siete.
