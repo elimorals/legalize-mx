@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-del-estado-de-puebla-7515"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-29"
-last_updated: "2006-02-03"
+last_updated: "2006-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO FISCAL DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2006.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el martes 29 de diciembre de 1987.
 
@@ -261,9 +261,9 @@ Los contratos, concesiones, acuerdos y cualesquiera otros actos en los que se af
 
 En los términos fijados en días, por disposición de la Ley o por las autoridades fiscales, se computarán sólo los días hábiles, considerándose así, aquellos en que se encuentren abiertas al público las oficinas, durante el horario de las 8:00 a las 13:30 horas. En los términos fijados en períodos y aquéllos en que se señala una fecha para su extinción, se comprenderán para su cómputo todos los días.
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2006)</small>
 
-En los plazos fijados en días no se contarán los sábados, los domingos ni el 1 de enero; el 5 de febrero; el 21 de marzo; el 1 y el 5 de mayo; el 16 de septiembre; el 20 de noviembre; el 1 de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal; el 25 de diciembre y los que señale el Ejecutivo del Estado.
+En los plazos fijados en días no se contarán los sábados, los domingos ni el 1 de enero; el primer lunes de febrero en conmemoración 5 de febrero; el tercer lunes de marzo, en conmemoración del 21 de marzo; el 1 y el 5 de mayo; el 16 de septiembre; el viernes previo al tercer l unes de noviembre, en conmemoración del 18 de noviembre; el tercer lunes de noviembre, en conmemoración del 20 de noviembre; el 1 de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal; el 25 de diciembre; los que determinen las leyes federales y locales, en el caso de elecciones ordinarias, para efectuar la jornada electoral, y los que señale el Ejecutivo del Estado.
 
 > <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
@@ -2524,3 +2524,13 @@ P.O. 3 DE FEBRERO DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 El presente Acuerdo entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE MARZO DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Por la conmemoración en el año dos mil seis del bicentenario del natalicio de Don Benito Juárez García, Benemérito de las Américas, en el año en curso será día de descanso obligatorio para los Trabajadores al Servicio del Estado, inhábil para el despacho de los Tribunales del Poder Judicial del Estado y no se contará en los plazos fijados en días por la legislación fiscal del Estado, el día martes 21 de marzo, en lugar del tercer lunes de marzo, por lo que la reforma relativa a este día, tendrá vigencia a partir del año dos mil siete.
