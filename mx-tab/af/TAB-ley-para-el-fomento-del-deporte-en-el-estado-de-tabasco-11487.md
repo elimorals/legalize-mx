@@ -4,7 +4,7 @@ identifier: "TAB-ley-para-el-fomento-del-deporte-en-el-estado-de-tabasco-11487"
 country: "mx"
 rank: "ley"
 publication_date: "1989-11-15"
-last_updated: "1989-11-15"
+last_updated: "2006-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11487&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 LEY PARA EL FOMENTO DEL DEPORTE EN EL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE TABASCO, PUBLICADA EN EL P.O. DE 29 DE MARZO DE 2006., EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el suplemento al Periódico Oficial del Estado de Tabasco, el miércoles 15 de noviembre de 1989.
 
@@ -288,3 +290,17 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO.
 LIC. FERNANDO SANCHEZ DE LA CRUZ.
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE MARZO DE 2006.
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+Artículo Segundo.- Se abroga la Ley para el Fomento del Deporte en el Estado de Tabasco publicada en el Periódico Oficial de fecha 15 de noviembre de 1989 y se derogan todas aquellas disposiciones que se opongan al contenido de la presente Ley.
+
+Artículo Tercero.- El Reglamento de la presente Ley, deberá expedirse dentro de un plazo no mayor a ciento ochenta días siguientes a la fecha en que ésta entre en vigor.
+
+Artículo Cuarto.- Las disposiciones jurídicas previstas en el Acuerdo de creación del Instituto del Deporte de Tabasco, publicado en el Periódico Oficial de fecha 23 de octubre de 2002, así como en su Reglamento Interior, publicado en el Periódico Oficial de fecha 12 de marzo de 2005, seguirán vigentes en tanto no se opongan a la presente Ley.
+
+Artículo Quinto.- Los asuntos y trámites legales que se hayan interpuestos y se encuentren pendientes de resolver al momento de entrar en vigor esta Ley, continuarán hasta su resolución definitiva, bajo la Unidad Jurídica del Instituto.
