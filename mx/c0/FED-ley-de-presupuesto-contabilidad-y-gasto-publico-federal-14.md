@@ -4,7 +4,7 @@ identifier: "FED-ley-de-presupuesto-contabilidad-y-gasto-publico-federal-14"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2003-04-10"
+last_updated: "2006-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1976-12-30"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE ABRIL DE 2003.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA, PUBLICADA EN EL D.O.F. DE 30 DE MARZO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADA.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 31 de diciembre de 1976
 
@@ -512,3 +514,21 @@ UNICO.- El presente Decreto entrará en vigor el día 1o. de enero de 1996.
 D.O.F. 10 DE ABRIL DE 2003.
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE MARZO DE 2006.
+
+PRIMERO. El presente Decreto entrará en vigor el 1 de abril de 2006.
+
+SEGUNDO. Se abroga la Ley de Presupuesto, Contabilidad y Gasto Público Federal y se derogan todas las disposiciones que se opongan a lo dispuesto en la presente Ley.
+
+TERCERO. Las disposiciones del Decreto de Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2006, serán aplicables durante dicho año en lo que no se contrapongan a esta Ley. Los destinos previstos para los ingresos excedentes a que se refieren las fracciones IV, incisos a) a d) y V, incisos a) a d), del artículo 19 de la Ley, serán aplicables a partir del ejercicio fiscal 2007, por lo que, durante el ejercicio fiscal 2006 serán aplicables los destinos señalados en los artículos 23-Bis, 24 y 25 del Decreto referido.
+
+CUARTO. En tanto se expida el Reglamento de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, se continuará aplicando el Reglamento de la Ley de Presupuesto, Contabilidad y Gasto Público Federal, así como las demás disposiciones vigentes en la materia, en lo que no se opongan a la presente Ley. Dicho reglamento deberá expedirse a más tardar a los 90 días naturales posteriores a la publicación de la presente Ley en el Diario Oficial de la Federación y se sujetará estrictamente a las disposiciones que esta Ley establece.
+
+QUINTO. El sistema de administración financiera federal y el sistema para el control presupuestario de los servicios personales a que se refieren, respectivamente, los artículos 14 y 70 de la Ley, deberán concluir su implantación a más tardar en el ejercicio fiscal 2007.
+
+SEXTO. El Ejecutivo Federal, por conducto de la Secretaría y la Función Pública, en el ámbito de sus respectivas competencias deberá concluir la implantación del sistema de evaluación del desempeño a que se refiere el artículo 111 de la Ley, a más tardar en el ejercicio fiscal 2008. Este sistema deberá incluir mecanismos de participación de la Cámara de Diputados, a través de sus Comisiones Ordinarias, coordinadas por la Comisión de Presupuesto y Cuenta Pública. Para los efectos de este artículo, la Secretaría deberá presentar a la Cámara su propuesta del sistema de evaluación del desempeño a más tardar en marzo de 2007. La Comisión de Presupuesto y Cuenta Pública entregará sus observaciones a la propuesta a más tardar en junio de 2007, para lo cual realizará consultas con las distintas Comisiones ordinarias de la Cámara.
+
+SÉPTIMO. El Ejecutivo Federal, por conducto de la Secretaría, deberá realizar los ajustes necesarios a los sistemas y registros de contabilidad a que se refiere el Título Quinto de la Ley, con el objeto de que se implante a más tardar en el ejercicio fiscal 2007.
+
+OCTAVO. Las unidades de administración de los Poderes Legislativo y Judicial y de los entes autónomos, así como la Secretaría, deberán concluir la suscripción de los convenios de coordinación a que se refieren los artículos 13, 14, 70, 94, 95 y 98 de esta Ley, durante el ejercicio fiscal 2006.
