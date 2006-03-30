@@ -4,7 +4,7 @@ identifier: "LOCG"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-09-03"
-last_updated: "2006-01-23"
+last_updated: "2006-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOCG"
 
 LEY ORGANICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE MARZO DE 2006.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de septiembre de 1999.
 
@@ -358,7 +358,17 @@ b) Las normas acordadas por los miembros del Grupo para su funcionamiento intern
 
 c) Nombre del diputado que haya sido designado como Coordinador del Grupo Parlamentario y los nombres de quienes desempeñen otras actividades directivas.
 
-4. El Secretario General hará publicar los documentos constitutivos de los Grupos Parlamentarios.
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2006)</small>
+
+4. En la primera sesión de cada periodo ordinario, cada grupo parlamentario presentará la agenda legislativa que abordará durante el transcurso de éste.
+
+> <small>(ADICIONADO, D.O.F. 30 DE MARZO DE 2006)</small>
+
+5. El Secretario General hará publicar los documentos constitutivos de los grupos parlamentarios y, al inicio de cada periodo de sesiones, la agenda legislativa de los temas que cada uno pretenda abordar durante el transcurso de éste.
+
+> <small>(ADICIONADO, D.O.F. 30 DE MARZO DE 2006)</small>
+
+6. Los grupos parlamentarios con base en la similitud de sus agendas o en la comunión de sus principios ideológicos, podrán formular acuerdos que se traduzcan en la conformación de mayorías parlamentarias.
 
 ###### ARTICULO 27.
 
@@ -410,7 +420,9 @@ c) Nombre del diputado que haya sido designado como Coordinador del Grupo Parlam
 
 1. A la Junta le corresponden las atribuciones siguientes:
 
-a) Impulsar la conformación de acuerdos relacionados con el contenido de las propuestas, iniciativas o minutas que requieran de su votación en el Pleno, a fin de agilizar el trabajo legislativo;
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2006)</small>
+
+a) Impulsar la conformación de acuerdos relacionados con el contenido de las agendas presentadas por los distintos grupos parlamentarios y con el contenido de las propuestas, iniciativas o minutas que requieran de su votación en el pleno, a fin de agilizar el trabajo legislativo;
 
 b) Presentar a la Mesa Directiva y al Pleno proyectos de puntos de acuerdo, pronunciamientos y declaraciones de la Cámara que entrañen una posición política del órgano colegiado;
 
@@ -450,7 +462,9 @@ a) Convocar y conducir las reuniones de trabajo que celebre;
 
 b) Velar por el cumplimiento de las decisiones y acuerdos que se adopten;
 
-c) Poner a consideración de la Conferencia para la Dirección y Programación de los Trabajos Legislativos criterios para la elaboración del programa de cada periodo de sesiones, el calendario para su desahogo, y puntos del orden del día de las sesiones del Pleno;
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2006)</small>
+
+c) Poner a consideración de la Conferencia para la Dirección y Programación de los Trabajos Legislativos criterios para la elaboración del programa de cada periodo de sesiones, teniendo como base la agenda presentada por los diferentes grupos parlamentarios, el calendario para su desahogo y puntos del orden del día de las sesiones del pleno;
 
 d) Disponer la elaboración del anteproyecto de presupuesto anual; y
 
@@ -474,7 +488,9 @@ e) Las demás que se deriven de esta ley o que le sean conferidas por la propia 
 
 1. La Conferencia tiene las siguientes atribuciones:
 
-a) Establecer el programa legislativo de los periodos de sesiones, el calendario para su desahogo, la integración básica del orden del día de cada sesión, así como las formas que seguirán los debates, discusiones y deliberaciones;
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2006)</small>
+
+a) Establecer el programa legislativo de los periodos de sesiones, teniendo como base las agendas presentadas por los grupos parlamentarios, el calendario para su desahogo, la integración básica del orden del día de cada sesión, así como las formas que seguirán los debates, las discusiones y deliberaciones;
 
 b) Proponer al Pleno el proyecto de Estatuto que regirá la organización y funcionamiento de la Secretaría General, de las Secretarías de Servicios Parlamentarios y de Servicios Administrativos y Financieros, y demás centros y unidades, así como lo relativo a los servicios de carrera, en los términos previstos en esta ley;
 
@@ -1977,3 +1993,7 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 D.O.F. 23 DE ENERO DE 2006.
 
 Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE MARZO DE 2006.
+
+Unico.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
