@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-hacienda-del-estado-de-puebla-7540"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-31"
-last_updated: "2004-12-15"
+last_updated: "2006-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7540&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE HACIENDA DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 1993.
 
@@ -67,11 +67,11 @@ LEY DE HACIENDA DEL ESTADO DE PUEBLA
 
 ### CAPITULO I. DEL IMPUESTO SOBRE EROGACIONES POR REMUNERACIONES AL TRABAJO PERSONAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MARZO DE 2006)</small>
 
 ###### ARTICULO 1°.
 
-Es objeto de este impuesto la realización de pagos por concepto de remuneraciones por servicios personales subordinados a un patrón y las remuneraciones por servicios personales independientes, entregadas a miembros de consejos directivos, de vigilancia, consultivos o de cualquier otra índole, así como a comisarios, administradores, gerentes generales y personas que presten servicios preponderantemente a un prestatario; tratándose de estas últimas en términos de la Ley del Impuesto Sobre la Renta.
+Es objeto de este impuesto la realización de pagos por concepto de remuneraciones por servicios personales subordinados a un patrón; los rendimientos y anticipos que reciban los miembros de las sociedades y asociaciones civiles; las remuneraciones por servicios personales independientes entregadas a miembros de consejos directivos, de vigilancia, consultivos o de cualquier otra índole; comisarios, administradores, gerentes generales y personas que presten servicios preponderantemente a un prestatario, tratándose de estas últimas en términos de la Ley del Impuesto Sobre la Renta; así como los honorarios que perciban las personas físicas de personas morales o de personas físicas con actividades empresariales a las que prestan servicios personales independientes, cuando comuniquen por escrito al prestatario que optan por asimilar sus ingresos a salarios.
 
 > <small>(ADICIONADO, P.O. DE 17 DE DICIEMBRE DE 2001)</small>
 
@@ -153,11 +153,11 @@ El impuesto sobre erogaciones por remuneraciones al trabajo personal se causará
 
 Cuando ocasionalmente se realicen las actividades que den lugar al pago de este impuesto, el contribuyente estará obligado a presentar declaraciones dentro de los cinco días hábiles siguientes a aquél en que se cause dicho impuesto. En este caso los contribuyentes quedan relevados de cumplir con la obligación a que se refiere la fracción I del artículo 8° de esta Ley.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2006)</small>
 
 ###### ARTICULO 6°.
 
-Los contribuyentes presentarán las declaraciones y efectuarán el entero del impuesto a que se refiere este capítulo, en cualquiera de las Oficinas Recaudadoras u Oficinas Receptoras de Pago de la Secretaría de Finanzas y Administración del Gobierno del Estado, en las Instituciones Bancarias que éste autorice para tal efecto, a través del Portal Digital del Estado de Puebla en Internet y cualquier otro lugar de pago, mediante las formas oficiales o medios electrónicos que apruebe la misma Dependencia, en términos del Código Fiscal del Estado.
+Los contribuyentes presentarán las declaraciones y efectuarán el entero del impuesto a que se refiere este capítulo, en cualquiera de las Oficinas Recaudadoras y de Asistencia al Contribuyente o Receptoras de Pago de la Secretaría de Finanzas y Administración del Gobierno del Estado, en las Instituciones Bancarias que éste autorice para tal efecto, a través del Portal Digital del Estado de Puebla en Internet y cualquier otro lugar de pago, mediante las formas oficiales o medios electrónicos que apruebe la misma Dependencia, en términos del Código Fiscal del Estado.
 
 ###### ARTICULO 7°.
 
@@ -167,13 +167,15 @@ Las declaraciones deberán de hacerse de acuerdo con las formas o sistemas ofici
 
 Los sujetos de este impuesto están obligados a:
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
 
-I.- Inscribirse en el registro de contribuyentes de este impuesto ante cualquiera de las Oficinas Recaudadoras de la Secretaría de Finanzas y Administración del Gobierno del Estado, dentro del mes siguiente a la fecha en que se coloquen en la hipótesis de causación del impuesto, haciendo uso de las formas oficiales y con los datos y documentos que en ellas se exijan.
+I.- Solicitar la Inscripción en el registro de contribuyentes de este impuesto, ante cualquiera de las Oficinas Recaudadoras y de Asistencia al Contribuyente, dentro del mes siguiente a la fecha en que se coloquen en la hipótesis de causación del impuesto, haciendo uso de las formas oficiales y con los datos y documentos que en ellas se exijan.
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
 
-II.- Presentar ante cualquiera de las Oficinas Recaudadoras de la Secretaría de Finanzas y Administración del Gobierno del Estado, el aviso respectivo de cambio de nombre o razón social, de domicilio fiscal, de actividad preponderante, de modificación del registro estatal o del registro federal de contribuyentes; así como de suspensión o reanudación de actividades, fusiones, escisiones y los de cancelación del registro de contribuyentes de este impuesto en matriz y sucursales domiciliadas en el Estado de Puebla, dentro del plazo señalado en la fracción anterior.
+II.- Presentar ante las Oficinas Recaudadoras y de Asistencia al Contribuyente, los avisos respectivos de cambio de nombre o razón social, de domicilio fiscal, de actividad preponderante; así como de apertura o cierre de establecimientos, sucursales, locales, puestos fijos o semifijos; de suspensión o reanudación de actividades, fusiones, escisiones y los de cancelación del registro de contribuyentes de este impuesto.
+
+Asimismo, presentar ante las Oficinas Recaudadoras y de Asistencia al Contribuyente o Receptoras de Pago o Instituciones Bancarias que ésta autorice para tal efecto, las declaraciones normales, complementarias, provisionales e informativas, manifiestos y cualquier otro documento de naturaleza análoga que dispongan las Leyes Fiscales del Estado, en las formas autorizadas, con los requisitos y en los plazos que en las mismas se establezcan.
 
 III.- Presentar los avisos, documentos, datos o información que les soliciten las autoridades fiscales en relación con este impuesto dentro de los plazos y lugares señalados al efecto.
 
@@ -207,6 +209,10 @@ k) Total de erogaciones del período.
 
 l) Clave Única del Registro de Población, tratándose de personas físicas.
 
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2006)</small>
+
+Para estos efectos, se considera documentación comprobatoria las nóminas, listas de raya, recibos o cualquier otro documento en el que consten las erogaciones gravadas por esta Ley.
+
 > <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
 V.- Llevar contabilidad conforme a lo estipulado en el Código Fiscal del Estado.
@@ -231,7 +237,9 @@ V.- (DEROGADA, P.O. DE 17 DE DICIEMBRE DE 2001)
 
 VI.- Contraprestaciones a que se refiere el artículo 1º de esta Ley, cubiertas por instituciones que agrupen a empresarios.
 
-VII.- Contraprestaciones a que se refiere el artículo 1º de esta Ley, cubiertas por asociaciones y sociedades políticas debidamente registradas conforme a la Ley de la materia.
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+
+VII.- Contraprestaciones a que se refiere el artículo 1 de esta Ley, cubiertas por organizaciones políticas debidamente registradas conforme a la Ley de la materia.
 
 > <small>(REFORMADA, P.O. DE 17 DE DICIEMBRE DE 2001)</small>
 
@@ -293,21 +301,21 @@ Para determinar la base gravable de este impuesto se considerará:
 
 I.- El cilindraje o centímetros cúbicos del motor.
 
-II.- La capacidad de carga.
+II.- (DEROGADA, P.O. 31 DE MARZO DE 2006)
 
 III.- El servicio que realice.
 
-IV.- El origen o procedencia.
+IV.- (DEROGADA, P.O. 31 DE MARZO DE 2006)
 
 ###### ARTICULO 14.
 
 El impuesto estatal sobre tenencia o uso de vehículos se causará y pagará conforme a la tarifa que anualmente señale la Ley de Ingresos del Estado.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2006)</small>
 
 ###### ARTICULO 15.
 
-Los sujetos del Impuesto Estatal Sobre Tenencia o Uso de Vehículos lo pagarán anualmente durante los primeros tres meses de cada ejercicio fiscal, en cualquiera de las Oficinas Recaudadoras u Oficinas Receptoras de Pago de la Secretaría de Finanzas y Administración del Gobierno del Estado, en las Instituciones Bancarias que ésta autorice para tal efecto, a través del Portal Digital del Estado de Puebla en Internet y cualquier otro lugar de pago, mediante las formas oficiales autorizadas o medios electrónicos que apruebe la misma Dependencia, en términos del Código Fiscal del Estado.
+Los sujetos del Impuesto Estatal Sobre Tenencia o Uso de Vehículos lo pagarán anualmente durante los primeros tres meses de cada ejercicio fiscal, en cualquiera de las Oficinas Recaudadoras y de Asistencia al Contribuyente o Receptoras de Pago, en las Instituciones Bancarias que esta autorice para tal efecto, a través del Portal Digital del Estado de Puebla en Internet y cualquier otro lugar de pago, mediante las formas oficiales autorizadas o medios electrónicos que apruebe la misma Dependencia, en términos del Código Fiscal del Estado.
 
 ###### ARTICULO 16.
 
@@ -318,6 +326,10 @@ I.- Los vehículos que exclusivamente estén al servicio de los cuerpos diplomá
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2004)</small>
 
 II.- Los vehículos de la Federación, Estado y Municipios que sean utilizados para la prestación de los servicios de rescate, patrullas, transportes de limpia, pipas de agua, servicios funerarios y ambulancias dependientes de cualquiera de estas entidades o de instituciones de beneficencia autorizada por la Ley de la materia y los destinados a los cuerpos de bomberos.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2006)</small>
+
+Los tenedores o usuarios de los vehículos a que se refiere este artículo, para gozar del beneficio que el mismo establece, al momento de solicitarlo deberán comprobar ante las Oficinas Recaudadoras y de Asistencia al Contribuyente que se encuentran comprendidos en dichos supuestos.
 
 Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo, deberá pagar el impuesto correspondiente dentro de los 15 días siguientes a aquel en que tenga lugar el hecho de que se trate.
 
@@ -417,11 +429,11 @@ La base gravable a que se refiere la Ley de Ingresos del Estado de Puebla, será
 
 Este impuesto se pagará conforme a las tasas y tarifas que anualmente fije la Ley de Ingresos del Estado de Puebla.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MARZO DE 2006)</small>
 
 ###### ARTICULO 24.
 
-El pago de este impuesto deberá efectuarse en la oficina recaudadora correspondiente al domicilio fiscal del sujeto del impuesto, dentro de los 15 días siguientes a la celebración de la operación, mediante declaración en la forma aprobada por la Secretaría de Finanzas y Administración, acompañando la documentación que en la misma se especifique y que mediante Reglas de Carácter General se den a conocer al contribuyente.
+El pago de este impuesto deberá efectuarse en cualquiera de las Oficinas Recaudadoras y de Asistencia al Contribuyente, dentro de los 15 días siguientes a la celebración de la operación mediante declaración en la forma aprobada por la citada Dependencia, acompañando la documentación que en la misma se especifique y que mediante Reglas de Carácter General se dé a conocer al contribuyente.
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2004)</small>
 
@@ -457,7 +469,9 @@ Las infracciones a las disposiciones relativas al impuesto sobre adquisición de
 
 ARTICULO 26 A.- Es objeto del impuesto sobre servicios de hospedaje el pago por la prestación de servicios de hospedaje que realicen las personas físicas y las morales, siempre que los bienes materia de los servicios se encuentren en el Estado de Puebla, independientemente del lugar en que se realice el pago.
 
-Para los efectos de este impuesto se consideran servicios de hospedaje, la prestación de alojamiento o albergue temporal de personas a cambio de un pago dentro de los que quedan comprendidos, entre otros, los servicios prestados por hoteles, moteles, campamentos, paraderos de casas rodantes y de tiempo compartido.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2006)</small>
+
+Para los efectos de este impuesto se consideran servicios de hospedaje, la prestación de alojamiento o albergue temporal de personas a cambio de un pago dentro de los que quedan comprendidos, entre otros, los servicios prestados por hoteles, moteles, casas de huéspedes, instituciones de enseñanza, campamentos, paraderos de casas rodantes y de tiempo compartido.
 
 No se considerarán servicios gravados por este impuesto los de hospedaje, albergue o alojamiento prestados por hospitales, clínicas, así como los conventos asilos, seminarios e internados y casas de beneficencia o asistencia social.
 
@@ -489,9 +503,9 @@ ARTICULO 26 E.- El impuesto a que se refiere este Capítulo se causará al momen
 
 ARTICULO 26 F.- Cuando ocasionalmente se realicen las actividades que den lugar al pago de este impuesto, el contribuyente deberá presentar declaración dentro de los cinco días hábiles siguientes a aquél en que se cause dicho impuesto. En este caso el contribuyente queda relevado de cumplir con la obligación a que se refiere la Fracción I del Artículo 26 I de esta Ley.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2006)</small>
 
-ARTICULO 26 G.- Los contribuyentes presentarán las declaraciones y efectuarán el pago del impuesto en cualquiera de las Oficinas Recaudadoras u Oficinas Receptoras de Pago de la Secretaría de Finanzas y Administración del Gobierno del Estado, en las Instituciones Bancarias que ésta autorice para tal efecto, a través del Portal Digital del Estado de Puebla en Internet y cualquier otro lugar de pago, mediante las formas oficiales o medios electrónicos de pago que apruebe la misma dependencia, en términos del Código Fiscal del Estado.
+ARTICULO 26 G.- Los contribuyentes presentarán las declaraciones y efectuarán el pago del impuesto en cualquiera de las Oficinas Recaudadoras y de Asistencia al Contribuyente o Receptoras de Pago o en las Instituciones Bancarias que ésta autorice para tal efecto, a través del Portal Digital del Estado de Puebla en Internet y cualquier otro lugar de pago, mediante las formas oficiales o medios electrónicos de pago que apruebe la misma Dependencia, en términos del Código Fiscal del Estado.
 
 > <small>(ADICIONADO P.O. 4 DE JUNIO DE 1996)</small>
 
@@ -501,15 +515,17 @@ ARTICULO 26 H.- Las declaraciones deberán hacerse de acuerdo con las formas o s
 
 ARTICULO 26 I.- Los contribuyentes de este impuesto están obligados a:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 31 DE MARZO DE 2006)</small>
 
-I.- Inscribirse en el registro de contribuyentes de este impuesto ante cualquiera de las Oficinas Recaudadoras de la Secretaría de Finanzas y Administración del Gobierno del Estado, dentro del mes siguiente a la fecha en que se coloquen en las hipótesis de causación del impuesto, haciendo uso de las formas oficiales y con los datos y documentos que en ellas se exijan.
+I.- Solicitar la inscripción en el Registro de Contribuyentes de este impuesto, ante cualquiera de las Oficinas Recaudadoras y de Asistencia al Contribuyente, dentro del mes siguiente a la fecha en que se coloquen en la hipótesis de causación del impuesto, haciendo uso de las formas oficiales y con los datos y documentos que en ellas se exijan.
 
 Los obligados al pago de este impuesto que no se hubieran inscrito en el registro de contribuyentes, que presenten una o más declaraciones, quedarán automáticamente inscritos en el mismo; con excepción de aquéllos a que se refiere el Artículo 26 F de esta Ley.
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
 
-II.- Presentar ante cualquiera de las Oficinas Recaudadoras de la Secretaría de Finanzas y Administración del Gobierno del Estado, el aviso respectivo de cambio de nombre o razón social, de domicilio fiscal, de actividad preponderante, de modificación del registro estatal o del registro federal de contribuyentes; así como de suspensión o reanudación de actividades y fusiones y los de cancelación del registro de contribuyentes de este impuesto, dentro del mismo plazo señalado en la fracción anterior.
+II.- Presentar ante las Oficinas Recaudadoras y de Asistencia al Contribuyente, los avisos respectivos de cambio de nombre o razón social, de domicilio fiscal, de actividad preponderante; así como de apertura o cierre de establecimientos, sucursales, locales, puestos fijos o semifijos; de suspensión o reanudación de actividades, fusiones, escisiones y los de cancelación del registro de contribuyentes de este impuesto.
+
+Asimismo, presentar ante las Oficinas Recaudadoras y de Asistencia al Contribuyente o Receptoras de Pago o Instituciones Bancarias que esta autorice para tal efecto, las declaraciones normales, complementarias, provisionales e informativas, manifiestos y cualquier otro documento de naturaleza análoga que dispongan las Leyes Fiscales del Estado, en las formas autorizadas, con los requisitos y en los plazos que en las mismas se establezcan.
 
 III.- Presentar los avisos, documentos, datos o información que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y lugares señalados al efecto.
 
@@ -595,9 +611,9 @@ ARTICULO 26 Ñ.- El impuesto estatal sobre loterías, rifas, sorteos y concursos
 
 ARTICULO 26 O.- El impuesto estatal sobre loterías, rifas, sorteos y concursos se causará en el momento que los sujetos reciban el pago o entrega del premio derivado de eventos organizados por organismos públicos descentralizados de la Administración Pública Federal, cuyo objeto social sea la obtención de recursos destinados a la asistencia pública.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2006)</small>
 
-ARTICULO 26 P.- El pago del Impuesto Estatal Sobre Loterías, Rifas, Sorteos y Concursos se realizará en cualquiera de las Oficinas Recaudadoras u Oficinas Receptoras de Pago de la Secretaría de Finanzas y Administración del Gobierno del Estado, en Instituciones Bancarias que ésta autorice para tal efecto, a través del Portal Digital del Estado de Puebla en Internet y cualquier otro lugar de pago, mediante las formas oficiales o medios electrónicos que apruebe la misma Dependencia, en términos del Código Fiscal del Estado que presente el retenedor al que se refiere el artículo 26 Q de esta Ley, a más tardar el día 17 del mes siguiente al de su causación.
+ARTICULO 26 P.- El pago del Impuesto Estatal Sobre Loterías, Rifas, Sorteos y Concursos se realizará en cualquiera de las Oficinas Recaudadoras y de Asistencia al Contribuyente o Receptoras de Pago, en Instituciones Bancarias que ésta autorice para tal efecto, a través del Portal Digital del Estado de Puebla en Internet y cualquier otro lugar de pago, mediante las formas oficiales o medios electrónicos que apruebe la misma Dependencia en términos del Código Fiscal del Estado que presente el retenedor a que se refiere el artículo 26 Q de esta Ley, a más tardar el día 17 del mes siguiente al de su causación.
 
 > <small>(ADICIONADO, P.O. 19 DE MARZO 1997)</small>
 
@@ -729,11 +745,11 @@ Son aprovechamientos, los ingresos ordinarios del Estado, no clasificables como 
 
 Las participaciones en ingresos federales, incentivos económicos, fondos de aportaciones federales, reasignaciones y demás ingresos que correspondan al Estado, se recibirán y ejercerán con arreglo a las disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2006)</small>
 
 ###### ARTICULO 33.
 
-Son ingresos extraordinarios, aquéllos cuya percepción se decreta excepcionalmente como consecuencia de nuevas disposiciones legislativas o administrativas de carácter federal o estatal, los que se ejercerán, causarán y cobrarán en los términos que decrete el Congreso Local, o en su caso, los que autorice el Ejecutivo del Estado. Dentro de esta categoría quedan comprendidos los que se deriven de financiamientos que obtenga el Gobierno del Estado, así como de los programas especiales que instrumente el mismo.
+Son ingresos extraordinarios, aquéllos cuya percepción se decreta excepcionalmente como consecuencia de nuevas disposiciones legislativas o administrativas de carácter federal o estatal, los que se ejercerán causarán y cobrarán en los términos que decrete el Congreso Local o en su caso, los que autorice el Ejecutivo del Estado y previo acuerdo con éste, el Secretario de Finanzas y Administración. Dentro de esta categoría quedan comprendidos los que se deriven de financiamientos que obtenga el Gobierno del Estado, así como de los programas especiales que instrumente el mismo.
 
 > <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
@@ -745,7 +761,9 @@ I.- Los empréstitos.
 
 II.- Los impuestos extraordinarios.
 
-III.- Los derechos extraordinarios por la prestación de servicios.
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+
+III.- Los derechos y productos extraordinarios por la prestación de servicios.
 
 IV.- Las donaciones, legados, herencias y reintegros.
 
@@ -942,3 +960,15 @@ PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial de Est
 SEGUNDO.- Los contribuyentes obligados a expedir y conservar la documentación comprobatoria de los conceptos gravados por el Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal, con el requisito a que se refiere el artículo 8 fracción IV inciso l, así como de las operaciones gravadas por el Impuesto Sobre Servicios de Hospedaje, con el requisito a que se refiere el artículo 26 I fracción V inciso j de la Ley de Hacienda del Estado, gozarán de un plazo de tres meses, contados a partir de la entrada en vigor el presente Decreto, para incluir en su documentación comprobatoria dicho requisito.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE MARZO DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Cuando en las Leyes, Códigos, Reglamentos, Decretos, Acuerdos y demás disposiciones en las que se haga alusión a las "Oficinas Recaudadoras" de la Secretaría de Finanzas y Administración se entenderá que se está haciendo referencia a las "Oficinas Recaudadoras y de Asistencia al Contribuyente" de la citada Dependencia a que se refiere esta Ley, hasta en tanto se realicen las adecuaciones respectivas.
+
+TERCERO.- En tanto se realizan las modificaciones conducentes en los formatos, sellos y demás documentos y actos jurídicos en que se haga alusión a las "Oficinas Recaudadoras" de la Secretaría de Finanzas y Administración se entenderá que se está haciendo referencia a las "Oficinas Recaudadoras y de Asistencia al Contribuyente" de la citada Dependencia a que se refiere esta Ley.
+
+CUARTO.- Los actos y procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto ante las "Oficinas Recaudadoras" de la Secretaría de Finanzas y Administración, se desahogarán hasta su total conclusión por las "Oficinas Recaudadoras y de Asistencia al Contribuyente" de la citada Dependencia a que se refiere esta Ley.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
