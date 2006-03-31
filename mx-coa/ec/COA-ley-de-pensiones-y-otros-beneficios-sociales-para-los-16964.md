@@ -4,7 +4,7 @@ identifier: "COA-ley-de-pensiones-y-otros-beneficios-sociales-para-los-16964"
 country: "mx"
 rank: "ley"
 publication_date: "1999-11-19"
-last_updated: "2005-01-11"
+last_updated: "2006-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16964&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES DE LA EDUCACION PUBLICA DEL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 19 de noviembre de 1999.
 
@@ -1293,35 +1293,77 @@ En todo lo previsto en los artículos transitorios relativos a la aplicación de
 
 Las aportaciones que realicen los pensionados conforme al artículo 11, fracción I inciso a) de la Ley, formarán parte del fondo global del que son beneficiarios, sin que en ningún caso formen cuentas individuales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2006)</small>
 
-TERCERO. Para los trabajadores a que se refiere el artículo que antecede que pertenezcan a la Universidad Autónoma de Coahuila y a la Universidad Autónoma Agraria "Antonio Narro" y que decidan acogerse voluntariamente a las disposiciones de la ley que se abroga, se seguirán aplicando ultraactivamente las disposiciones anteriores hasta en tanto se cubra al último de los pensionados o beneficiarios que se acojan a ella. Por el contrario, para los trabajadores a que se refiere el artículo que antecede y que sean afiliados a la Sección 38 del SNTE, y que desean acogerse voluntariamente a las disposiciones del ordenamiento que se abroga, se aplicarán, a partir de la fecha en que entre en vigor esta ley, los siguientes lineamientos:
+TERCERO. Para los trabajadores a que se refiere el artículo que antecede que pertenezcan a la Universidad Autónoma de Coahuila y a la Universidad Autónoma Agraria "Antonio Narro" y que decidan acogerse voluntariamente a las disposiciones de la ley que se abroga, se seguirán aplicando ultraactivamente las disposiciones anteriores hasta en tanto se cubra al último de los pensionados o beneficiarios que se aojan a ella, los beneficios a que tengan derecho.
 
-I. Las aportaciones a la Dirección de Pensiones por parte de las entidades y organismos a que se refiere el artículo 2° de la ley que entra en vigor, serán equivalentes al 20 % de la percepción mensual de sus trabajadores; más 2% del Sistema del Ahorro para el Retiro o su equivalente que sustituya a este último.
+I. Tratándose de los trabajadores de la Universidad Autónoma de Coahuila, afiliados a la Dirección de Pensiones de la Educación, se aplicarán los lineamientos siguientes:
 
-II. La contribución mensual obligatoria de los trabajadores a la Dirección de Pensiones, será igual a un 6.5% de la percepción mensual que tengan asignada en nómina, así como al 6.5% de las prestaciones vigentes al 18 de diciembre de 1996;
+a. La edad mínima para la pensión por vejez será de 60 años.
 
-III. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2000)
+b. Respecto de la antigüedad mínima de servicios para la pensión por vejez, la misma será de 20 años.
 
-IV. El monto de la pensión de retiro por antigüedad en el servicio se establecerá con base en el último sueldo percibido para los trabajadores que durante los cinco años anteriores a su retiro, venían desempeñando el mismo puesto.
+c. La pensión por antigüedad en el servicio se otorgará a quien hubiere permanecido en activo, siendo hombre por 34 años y siendo mujer por 32 años. Para ese efecto, el aumento en los años de servicio, con referencia a los previstos en la ley que se abroga, se incrementará hasta las cantidades anteriormente señaladas, conforme a la tabla siguiente, considerando la antigüedad al año de 2003:
 
-Para los trabajadores que presten sus servicios en varias de las entidades u organismos afiliados al sistema pensionario a que se refiere esta ley, que invariablemente no deberán rebasar los límites de compatibilidad existentes en el sistema educativo, se observarán los siguientes criterios para establecer su pensión por antigüedad en el servicio o, en su caso, por vejez:
+HOMBRES MUJERES
 
-1°. Se considerará como base del cálculo de la pensión correspondiente el 100% de las percepciones del puesto o puestos desempeñados en la entidad o institución en la que cumplió los requisitos de retiro, conforme a las disposiciones de la ley; y
+AÑOS DE ANTIGÜEDAD AÑOS DE ANTIGÜEDAD
 
-2°. Se considerará como base del cálculo de la pensión correspondiente el 3.33% para los varones y el 3.57% para las mujeres de las percepciones al momento del retiro por cada año de servicio en cada uno de los puestos restantes.
+ANTIGÜEDAD MÍNIMA ANTIGÜEDAD MÍNIMA
 
-Para los trabajadores que desempeñaron distintos puestos durante los últimos cinco años anteriores a su retiro, el monto de su pensión se establecerá tomando en cuenta los sueldos vigentes al momento del retiro de todos los puestos desempeñados y se promediarán los sueldos vigentes que correspondan a cada uno de los puestos ocupados, en relación al tiempo durante el cual dichos puestos fueron desempeñados.
+AL AÑO 2003 al 2003
+
+De 0 a 8 años 34 años De 0 a 6 años 32
+
+De 9 a 24 años 34 menos De 7 a 22 años 32 menos
+
+0.25 por 0.25 por
+
+cada año cada año
+
+en exceso de 9 en exceso
+
+de 7
+
+De 25 o más años 30 años De 23 o 28 años
+
+más años
+
+d. Las aportaciones ordinarias a la Dirección de Pensiones por parte de los trabajadores universitarios, se incrementarán anualmente del 6.5% que a partir de la segunda catorcena del mes de agosto de 2002 y hasta el mes de agosto de 2003 fueron aportadas y hasta por diez años contados a partir de esa última fecha, en forma acumulativa con un 0.5% de manera que en el año 2012, la aportación de los trabajadores sea por un total de 11.5%.
+
+e. El monto de la pensión de retiro por antigüedad en el servicio, se establecerá con base en la última percepción de los trabajadores que durante los seis años anteriores a su retiro venían desempeñando el mismo puesto. Si en el periodo anteriormente señalado, ocurrió algún cambio de categoría, el monto de la pensión se calculará promediando los salarios percibidos durante los seis años anteriores, con base en el salario de la última categoría desempeñada, a la fecha de la determinación de la pensión.
+
+f. Las aportaciones de la Universidad Autónoma de Coahuila se incrementarán anualmente, del 22% que a partir de la segunda catorcena del mes de agosto de 2002 hasta el mes de agosto de 2003 aportó y hasta por diez años consecutivos contados a partir de esa última fecha, en forma acumulativa con un 0.5 de manera que en el año 2012, la aportación de la Universidad sea por un total del 27%. Ese porcentaje se adicionará, en los casos que corresponda, con el 2% que representa la aportación que venía depositando a la Cuenta Concentradora para el retiro para conformar un total del 29%.
+
+g. Con cargo a la Cuenta Institucional de la Universidad Autónoma de Coahuila, se pagará a los trabajadores que, reuniendo los requisitos exigidos para jubilarse permanezcan en servicio activo, un estímulo económico, que será estimado y pagado anualmente, consistente en una cantidad equivalente al 25% sobre el suelo tubular y la prima de antigüedad.
+
+h. Con relación al concepto de Ahorro para el Retiro, la Universidad Autónoma de Coahuila, entregará al fondo solidario de su cuenta institucional, las cantidades que, desde el año de 2002 depositaba a favor de sus trabajadores, por concepto de aportación a la cuenta concentradora del Ahorro para el Retiro.
+
+II.- Para los trabajadores a que se refiere el artículo que antecede y que sean afiliados a la Sección 38 del SNTE, y que desean acogerse voluntariamente a las disposiciones del ordenamiento que se abroga, se aplicarán, a partir de la fecha en que entre en vigor esta ley, los siguientes lineamientos:
+
+a. Las aportaciones a la Dirección de Pensiones por parte de las entidades y organismos a que se refiere el artículo 2º de la ley que entra en vigor, serán equivalentes al 20% de la percepción mensual de sus trabajadores; más 2% del Sistema del Ahorro para el Retiro o su equivalente que sustituya a este último.
+
+b. La contribución mensual obligatoria de los trabajadores a la Dirección de Pensiones, será igual a un 6.5% de la percepción mensual que tenga asignada en nómina, así como al 6.5% de las prestaciones vigentes al 18 de diciembre de 1996.
+
+c. El monto de la pensión de retiro por antigüedad en el servicio se establecerá con base en el último sueldo percibido para los trabajadores que durante los cinco años anteriores a su retiro, venían desempeñando el mismo puesto.
+
+III. Para los trabajadores que presten sus servicios en varias de las entidades u organismos afiliados al sistema pensionario a que se refiere esta ley, que invariablemente no deberán rebasar los límites de compatibilidad existentes en el sistema educativo, se observarán los siguientes criterios para establecer su pensión por antigüedad en el servicio o, en su caso, por vejez:
+
+a. Se considerará como base del cálculo de la pensión correspondiente el 100% de las percepciones del puesto o puestos desempeñados en la entidad o institución en la que cumplió los requisitos de retiro, conforme a las disposiciones de la ley; y
+
+b. Se considerará como base del cálculo de la pensión correspondiente el 3.33% para los varones y el 3.57% para las mujeres de las percepciones al momento del retiro por cada año de servicio en cada uno de los puestos restantes.
+
+IV. Para los trabajadores que desempeñaron distintos puestos durante los últimos cinco años anteriores a su retiro, el monto de su pensión se establecerá tomando en cuenta los sueldos vigentes al momento del retiro de todos los puestos desempeñados y se promediarán los sueldos vigentes que correspondan a cada uno de los puestos ocupados, en relación al tiempo durante el cual dichos puestos fueron desempeñados.
 
 V. Los préstamos a corto plazo que se hagan a los trabajadores y pensionados causarán intereses de cuando menos el 75% de la tasa pasiva líder anual que rija en el mercado.
 
 En caso de incumplimiento culpable por parte del trabajador o pensionado, se causarán intereses moratorios a razón de 1.5 veces la tasa a que se refiere el párrafo anterior.
 
-VI. Para los trabajadores que hayan cubierto los requisitos para obtener su pensión por antigüedad en el servicio, 28 años en el caso de las mujeres y 30 años tratándose de los hombres, y decidan permanecer voluntariamente en el ejercicio profesional del magisterio en cualquiera de las entidades y organismos a que se refiere el artículo 2° de esta ley, se les cubrirá un bono anual del 10% del sueldo integrado (sueldo base, quinquenio, prima de antigüedad en su caso, compensación especial, material didáctico, estímulos, titulación, asignación docente, previsión social múltiple y despensa), pagadero en dos emisiones: una en la segunda quincena del mes de agosto y la otra, en la segunda quincena del mes de febrero.
+VI. Para los trabajadores que hayan cubierto los requisitos para obtener su pensión por antigüedad en el servicio, 28 años en el caso de las mujeres y 30 años tratándose de los hombres y decidan permanecer voluntariamente en el ejercicio profesional del magisterio en cualquiera de las entidades y organismos a que se refiere el artículo 2º de esta ley, se les cubrirá un bono anual del 10% del sueldo integrado (sueldo base, quinquenio, prima de antigüedad en su caso, compensación especial, material didáctico, estímulos, titulación, asignación docente, previsión social múltiple y despensa), pagadero en dos emisiones: una en la segunda quincena del mes de agosto y la otra, en la segunda quincena del mes de febrero.
 
-El 10% a que alude el párrafo que antecede se integrará con el 70% que aporten las entidades y organismos a que se refiere el artículo 2° de esta ley y con el 30% que aporte la Dirección de Pensiones de los Trabajadores de la Educación de la sección 38 del SNTE.
+El 10% a que alude el párrafo que antecede se integrará con el 70% que aporten las entidades y organismos a que se refiere el artículo 2º de esta ley y con el 30% que aporte la Dirección de Pensiones de los Trabajadores de la Educación de la Sección 38 del SNTE.
 
-El bono a que se refiere esta fracción no será considerado para efectos de pensión, cuando ésta proceda, de conformidad con la solicitud del interesado, ni tendrá efectos retroactivos para el caso de quienes a la entrada en vigor de esta disposición tengan uno o más años adicionales al límite del ejercicio profesional establecido en la ley.
+El bono a que se refiere esta fracción no será considerado para efectos de pensión, cuando ésta proceda, de conformidad con la solicitud del interesado, ni tendrá efectos retroactivos para el caso de quienes a la entrada en vigor de esta disposición tenga uno o más años adicionales al límite del ejercicio profesional establecido en la ley.
 
 CUARTO. Los recursos que integren el patrimonio de la Dirección de Pensiones a que se refiere el artículo 11 de la presente ley, podrán destinarse a las pensiones en curso de pago, siempre que no se afecte el pago de las cuentas individuales de los trabajadores.
 
@@ -1392,3 +1434,9 @@ P.O. 22 DE DICIEMBRE DE 2000.
 P.O. 11 DE ENERO DE 2005.
 
 ÚNICO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 31 DE MARZO DE 2006.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
