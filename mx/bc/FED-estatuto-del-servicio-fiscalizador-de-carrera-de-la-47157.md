@@ -4,7 +4,7 @@ identifier: "FED-estatuto-del-servicio-fiscalizador-de-carrera-de-la-47157"
 country: "mx"
 rank: "estatuto"
 publication_date: "2005-12-29"
-last_updated: "2005-12-29"
+last_updated: "2006-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47157&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-12-15"
 
 ESTATUTO DEL SERVICIO FISCALIZADOR DE CARRERA DE LA AUDITORIA SUPERIOR DE LA FEDERACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE MARZO DE 2006.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 29 de diciembre de 2005.
 
@@ -441,9 +441,11 @@ IV. Rama Administrativa.
 
 Del total de las plazas para el servicio a las que se refiere el artículo 5o., el 70% será considerado personal de carrera conforme a lo establecido en el Artículo 47 y el 30% restante será de libre designación, el cual no formará parte del Servicio por lo que no estará regulado por el presente Estatuto.
 
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2006)</small>
+
 ###### Artículo 30.
 
-El personal de designación temporal es el que autorice el Comité para cubrir vacantes del Servicio de urgente ocupación o el que se contrate para cubrir un interinato por otorgamiento de una licencia conforme lo establece el artículo 69 de este Estatuto, y estará sujeto a las mismas obligaciones que el personal de carrera; su encargo no podrá durar más de dos años, ni será prorrogable.
+El personal de designación temporal es el que autorice el Comité para cubrir vacantes del Servicio de urgente ocupación o el que se contrate para cubrir un interinato por otorgamiento de una licencia conforme lo establece el artículo 70 de este Estatuto, y estará sujeto a las mismas obligaciones que el personal de carrera; su encargo no podrá durar más de dos años, ni será prorrogable.
 
 ###### Artículo 31.
 
@@ -467,9 +469,11 @@ II. Evaluación del Desempeño.
 
 La DGA, previo acuerdo del Comité, dispondrá las medidas pertinentes para que se diseñe y opere un tabulador salarial para cada puesto.
 
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2006)</small>
+
 ###### Artículo 33.
 
-El personal que llegue a ocupar el grado salarial más alto de su puesto, deberá de participar en las convocatorias que se emitan para concursar por una plaza vacante de jerarquía inmediata superior dentro de su rama, a menos que no exista disponibilidad de plazas, podrá permanecer en su puesto, siempre y cuando cumpla con los requisitos de permanencia en el Servicio, establecidos en el artículo 68 de este Estatuto.
+El personal que llegue a ocupar el grado salarial más alto de su puesto, deberá de participar en las convocatorias que se emitan para concursar por una plaza vacante de jerarquía inmediata superior dentro de su rama, a menos que no exista disponibilidad de plazas, podrá permanecer en su puesto, siempre y cuando cumpla con los requisitos de permanencia en el Servicio, establecidos en el artículo 69 de este Estatuto.
 
 ### CAPITULO SEGUNDO. DEL CATALOGO DE PUESTOS
 
@@ -625,6 +629,8 @@ En caso de empate se decidirá en el orden de prelación siguiente:
 
 1. Si el empate se presenta entre un candidato interno y un candidato externo, se dará preferencia al interno.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 2006)</small>
+
 2. Si el empate se presenta entre candidatos internos, se considerará el siguiente orden de prelación:
 
 a) Mayor nivel académico.
@@ -668,6 +674,8 @@ II. Se señalará que los resultados de cada fase del proceso de selección, se 
 III. El procedimiento de atención de aclaraciones será desahogado por la Dirección de Recursos Humanos, mediante el trámite al que haga referencia la convocatoria.
 
 IV. La obligatoriedad de cumplir con todos los requisitos sin excepción, señalados en la convocatoria, estableciendo que, en su caso, se descalificará al participante que no cumpla con alguno o varios de ellos.
+
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2006)</small>
 
 V. Se informará que el nombramiento será temporal hasta por seis meses, sujeto a evaluación de desempeño.
 
@@ -729,7 +737,9 @@ X. Cuando se efectúe una reestructuración administrativa que implique la supre
 
 XI. Por sentencia ejecutoriada que imponga al servidor público una pena que implique la privación de su libertad.
 
-XII. Por resolución del Tribunal Federal de Conciliación y Arbitraje, en los casos señalados en el artículo 46, fracción V, de la Ley Federal de los Trabajadores al Servicio del Estado.
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2006)</small>
+
+XII. Por resolución definitiva de autoridad competente.
 
 ###### Artículo 68.
 
@@ -953,11 +963,15 @@ Los procedimientos para la aplicación de las sanciones administrativas los desa
 
 ### CAPITULO SEGUNDO. DEL PROCEDIMIENTO ADMINISTRATIVO PARA LA APLICACION DE SANCIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 2006)</small>
+
 ###### Artículo 91.
 
-El procedimiento administrativo se iniciará como consecuencia de lo que establece el artículo 90 del presente Estatuto, por no haber superado las evaluaciones de desempeño o por una denuncia que formule contra un miembro del Servicio cualquier persona con interés jurídico que formule en contra de algún miembro del servicio para ello.
+El procedimiento administrativo se iniciará como consecuencia de lo que establece el artículo 90 del presente Estatuto, por no haber superado las evaluaciones de desempeño o por una denuncia que formule en contra de un miembro del Servicio cualquier persona con interés jurídico para ello.
 
-Cuando el origen del procedimiento administrativo sea por no haber superado las evaluaciones de desempeño, deberá ser tramitado por la Unidad de Administrativa ante la Unidad General de Administración.
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2006)</small>
+
+Cuando el origen del procedimiento administrativo sea por no haber superado las evaluaciones de desempeño, deberá ser tramitado por la Unidad Administrativa ante la Unidad General de Administración.
 
 El procedimiento se tramitará de conformidad con lo siguiente:
 
@@ -1051,9 +1065,11 @@ II. Las notificaciones por estrados a partir del día hábil siguiente al de su 
 
 III. Las notificaciones por correo certificado a partir del día hábil siguiente al día que se consigne en el acuse de recibo correspondiente.
 
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2006)</small>
+
 ###### Artículo 98.
 
-La facultad de la UGA para imponer las sanciones a que se refiere el artículo 89 prescribirá en tres años, contados a partir del día siguiente al que se hubieren cometido las infracciones o a partir del momento en que hubiere cesado, si fueren de carácter continuo. La prescripción se interrumpe al notificar el inicio del procedimiento administrativo a que se refiere el artículo 96 de este Estatuto.
+La facultad de la UGA para imponer las sanciones a que se refiere el artículo 89 prescribirá en tres años, contados a partir del día siguiente al que se hubieren cometido las infracciones o a partir del momento en que hubiere cesado, si fueren de carácter continuo. La prescripción se interrumpe al notificar el inicio del procedimiento administrativo a que se refiere el artículo 91 de este Estatuto.
 
 ###### Artículo 99.
 
@@ -1075,9 +1091,11 @@ Interpuesto el recurso dentro del término establecido, la UGA lo registrará y 
 
 El recurso de revocación administrativa será resuelto por la DGJ en el término de treinta días hábiles, contados a partir de aquél en que se tengan por desahogadas las pruebas admitidas.
 
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2006)</small>
+
 ###### Artículo 102.
 
-Los recursos se tendrán por no interpuestos cuando se presenten fuera del término establecido, cuando el recurrente haya sido el denunciante en el procedimiento administrativo a que se refiere el artículo 96 de este Estatuto y cuando el recurrente no acredite su personalidad o no firme el escrito.
+Los recursos se tendrán por no interpuestos cuando se presenten fuera del término establecido, cuando el recurrente haya sido el denunciante en el procedimiento administrativo a que se refiere el artículo 91 de este Estatuto y cuando el recurrente no acredite su personalidad o no firme el escrito.
 
 ###### Artículo 103.
 
@@ -1199,7 +1217,9 @@ c) Cuando no se afecte el plan de carrera del recurrente.
 
 d) Cuando no se exprese agravio alguno en el escrito de interposición del recurso.
 
-II. La UGA acordará sobre la admisión de las pruebas ofrecidas, y desechará las que no sean procedentes dentro del plazo de tres días, contados a partir de la fecha en que se presente el recurso de reconsideración.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 2006)</small>
+
+II. La UGA acordará sobre la admisión de las pruebas ofrecidas, y desechará las que no sean procedentes dentro del plazo de tres días, contados a partir de la fecha en que se presente el recurso de inconformidad.
 
 Se admitirán sólo las pruebas documentales que tengan relación con los hechos controvertidos y los informes solicitados a otras autoridades y unidades administrativas de la ASF que consten en sus expedientes.
 
@@ -1225,9 +1245,11 @@ II. Confirmar el acto impugnado.
 
 III. Mandar reponer el acto o concurso de oposición impugnado.
 
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2006)</small>
+
 ###### Artículo 118.
 
-En todas las cuestiones relativas al desahogo del recurso de reconsideración no previstas en este título, así como en la apreciación de las pruebas, se observarán en lo conducente las disposiciones del Código Federal de Procedimientos Civiles.
+En todas las cuestiones relativas al desahogo del recurso de inconformidad no prevista en este título, así como en la apreciación de las pruebas, se observarán en lo conducente las disposiciones del Código Federal de Procedimientos Civiles.
 
 ## TRANSITORIOS
 
@@ -1238,3 +1260,9 @@ Artículo Segundo.- A los 30 días hábiles posteriores a la publicación del pr
 Artículo Tercero.- El Comité Directivo del Servicio Fiscalizador de Carrera, determinará la gradualidad en que irá operando el Servicio, conforme a las propuestas que presente la Unidad General de Administración y a las disponibilidades presupuestales.
 
 Dado en la Ciudad de México, Distrito Federal, a los quince días del mes de diciembre del año de dos mil cinco.- El Auditor Superior de la Federación, Arturo González de Aragón O.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 31 DE MARZO DE 2006.
+
+Unico.- El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
