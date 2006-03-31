@@ -4,7 +4,7 @@ identifier: "LOCG"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-09-03"
-last_updated: "2006-03-30"
+last_updated: "2006-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOCG"
 
 LEY ORGANICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE MARZO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE MARZO DE 2006.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de septiembre de 1999.
 
@@ -666,11 +666,15 @@ XXXIX. Vivienda.
 
 1. Las comisiones ordinarias que se establecen en este artículo desarrollan las tareas específicas que en cada caso se señalan.
 
-2. La Comisión de Reglamentos y Prácticas Parlamentarias se integra con veinte miembros de entre los diputados de mayor experiencia legislativa y todos los Grupos Parlamentarios estarán representados en la misma. Se encargará de:
+> <small>(REFORMADO PRIMER PARRAFO D.O.F. 31 DE MARZO DE 2006)</small>
+
+2. La Comisión de Régimen, Reglamentos y Prácticas Parlamentarias se integra con veinte miembros de entre los diputados de mayor experiencia legislativa y todos los Grupos Parlamentarios estarán representados en la misma. Se encargará de:
 
 a) Preparar proyectos de ley o de decreto para adecuar las normas que rigen las actividades camarales;
 
-b) Dictaminar las propuestas que se presenten en esta materia y de resolver las consultas que en el mismo ámbito decidan plantearle los órganos de legisladores constituidos en virtud de este ordenamiento; y
+> <small>(REFORMADO D.O.F., 31 DE MARZO DE 2006)</small>
+
+b) Dictaminar las propuestas que se presenten en esta materia y en lo referente a las distinciones que se otorguen en nombre de la Cámara de Diputados, así como de resolver las consultas que en el mismo ámbito decidan plantearle los órganos de legisladores constituidos en virtud de este ordenamiento; y
 
 c) Impulsar y realizar los estudios que versen sobre disposiciones normativas, regímenes y prácticas parlamentarias.
 
@@ -1995,5 +1999,9 @@ D.O.F. 23 DE ENERO DE 2006.
 Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 30 DE MARZO DE 2006.
+
+Unico.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 31 DE MARZO DE 2006.
 
 Unico.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
