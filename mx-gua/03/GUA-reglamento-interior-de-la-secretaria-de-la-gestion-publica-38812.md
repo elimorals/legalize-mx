@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-secretaria-de-la-gestion-publica-3881
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-20"
-last_updated: "2005-06-07"
+last_updated: "2006-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE LA GESTION PUBLICA
 
-ULTIMA REFORMADA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 2005.
+ULTIMA REFORMADA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2006.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 20 de abril de 2004.
 
@@ -65,11 +65,13 @@ b) Dirección General de Asuntos Jurídicos:
 
 2. Dirección de Responsabilidades e Inconformidades;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2006)</small>
 
-3. Dirección de Quejas, Denuncias y Responsabilidad Patrimonial; y
+3. Dirección de Quejas, Denuncias y Responsabilidad Patrimonial;
+
+A. Unidad de Quejas y Denuncias para la Secretaría de Educación de Guanajuato; y
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -169,11 +171,31 @@ XIV. Representar al Gobernador del Estado ante la Secretaría de la Función Pú
 
 XV. Establecer los criterios de interpretación y aplicación de las disposiciones legales que norman los actos administrativos relativos a las atribuciones de la Secretaría;
 
-XVI. Fijar las normas, criterios y mecanismos necesarios para el eficaz cumplimiento en la presentación y recepción de los informes de situación patrimonial de los servidores públicos del Poder Ejecutivo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-XVII. Verificar la correcta realización de auditorías, evaluaciones y demás procedimientos ejecutados por la Secretaría; y
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
 
-XVIII. Las demás que le confieran las disposiciones legales y reglamentarias o el Gobernador del Estado.
+XVI. Fijar las normas, criterios, mecanismos y requisitos necesarios para la presentación de la declaración de situación patrimonial de los servidores públicos de la Administración Pública Estatal;
+
+XVII. Verificar la correcta realización de auditorías, evaluaciones y demás procedimientos ejecutados por la Secretaría; y (sic)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+
+XVIII. Someter al acuerdo del titular del Poder Ejecutivo, para su publicación en el Periódico Oficial del Gobierno del Estado, los listados de los cargos afectos a la obligación de presentar declaración de situación patrimonial, correspondiente a los servidores públicos de la Administración Pública Estatal;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2006)</small>
+
+XIX. Ejercer de manera directa cualquiera de las atribuciones encomendadas a las unidades administrativas de la Secretaría cuando lo considere necesario; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2006)</small>
+
+XX. Las demás que le confieran las disposiciones legales y reglamentarias o el Gobernador del Estado.
 
 ### CAPÍTULO SEGUNDO. DE LAS ATRIBUCIONES GENERALES DE LAS SUBSECRETARÍAS
 
@@ -251,9 +273,19 @@ II. Participar en la contratación, desarrollo, capacitación, evaluación y pro
 
 III. Suscribir los documentos relativos al ejercicio de sus atribuciones, aquellos que les sean señalados por delegación o les correspondan por suplencia;
 
-IV. Delegar las atribuciones que le correspondan en el personal de su adscripción, cuando lo considere necesario; y
+IV. Delegar las atribuciones que le correspondan en el personal de su adscripción, cuando lo considere necesario; y (sic)
 
-V. Las demás que les señalen otras disposiciones legales y reglamentarias aplicables, o les confieran su superior jerárquico.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+
+V. Ejercer de manera directa cualquiera de las atribuciones encomendadas a las unidades administrativas de su adscripción cuando lo consideren necesario; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2006)</small>
+
+VI. Las demás que les señalen otras disposiciones legales y reglamentarias aplicables, o les confiera su superior jerárquico.
 
 ## TÍTULO TERCERO. DE LAS UNIDADES ADMINISTRATIVAS ADSCRITAS AL SECRETARIO
 
@@ -301,7 +333,13 @@ II. Dirección de Responsabilidades e Inconformidades; y (sic)
 
 > <small>(REFORMADA, P.O. 7 DE JUNIO DE 2005)</small>
 
-III. Dirección de Quejas, Denuncias y Responsabilidad Patrimonial; y
+III. Dirección de Quejas, Denuncias y Responsabilidad Patrimonial; y (sic)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2006)</small>
+
+a) Unidad de Quejas y Denuncias para la Secretaría de Educación de Guanajuato; y
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -315,23 +353,43 @@ La Dirección General de Asuntos Jurídicos tendrá las siguientes atribuciones:
 
 I. Turnar a las autoridades competentes los casos en que se presuma la existencia de responsabilidad penal, así como interponer las impugnaciones en contra de las resoluciones que aquéllas dicten al respecto;
 
-II. Instaurar los procedimientos administrativos disciplinarios y emitir las resoluciones derivadas de los mismos y, en su caso, turnarlas para su ejecución a las áreas competentes;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+
+II. Proponer al Secretario de la Gestión Pública los listados de los cargos afectos a la obligación de presentar declaración de situación patrimonial;
 
 III. Emitirlas resoluciones derivadas de los medios de impugnación de la competencia de la Secretaría; y (sic)
 
-IV. Instrumentar mecanismos de difusión y atención a usuarios a fin de facilitar la presentación, recepción y verificación de los informes de situación patrimonial de los servidores públicos del Poder Ejecutivo, y fijar criterios al interior de la Dirección General para el control y registro de dicha información;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
 
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2005)</small>
+IV. Instrumentar mecanismos de atención a usuarios a fin de facilitar la presentación, recepción y verificación de las declaraciones de situación patrimonial de los servidores públicos de la Administración Pública Estatal y fijar criterios al interior de la Dirección General para el control y registro de dicha información;
 
-V.- Tramitar y resolver los procedimientos administrativos de responsabilidad patrimonial del Estado así como los tendientes a repetir de los servidores públicos el pago de las indemnizaciones cubiertas a los particulares, y emitir las resoluciones de los mismos, de conformidad con las disposiciones legales aplicables; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+
+V.- Establecer criterios para la resolución de los procedimientos administrativos de su competencia;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2005)</small>
 
 VI.- Coordinar el enlace entre la Secretaría y la Unidad de Acceso a la Información Pública del Poder Ejecutivo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2006)</small>
+
+VII. Acordar, con la Dirección de Área que corresponda, la atracción de aquellos asuntos, en materia de responsabilidades administrativas, que por su naturaleza revistan interés para la Administración Pública Estatal; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2006)</small>
+
+VIII. Resolver, en caso de duda, la competencia que corresponde a cada Dirección de Área adscrita a la Dirección General de Asuntos Jurídicos, en la tramitación y resolución de los procedimientos de responsabilidad administrativa.
 
 #### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE ASESORÍA LEGAL Y SITUACIÓN PATRIMONIAL
 
@@ -347,35 +405,119 @@ III. Elaborar, proponer y, en su caso, revisar los proyectos de leyes, reglament
 
 IV. Organizar y difundir el acervo jurídico bibliográfico y hemerográfico de la Secretaría, y actualizarlo conforme a sus reformas, modificaciones y nuevas publicaciones, así como prestar el servicio de biblioteca jurídica;
 
-V. Proponer, compilar y difundir los criterios de interpretación y aplicación de las disposiciones legales que norman los actos administrativos relativos a las facultades de la Secretaría;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-VI. Elaborar y someter a aprobación del Director General de Asuntos Jurídicos, las estrategias, normas, criterios y mecanismos necesarios para el eficaz cumplimiento en la presentación y recepción de los informes de situación patrimonial de los servidores públicos del Poder Ejecutivo, así como la instrumentación de los operativos de difusión y de atención a usuarios que se diseñen para facilitar la prestación del servicio;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
 
-VII Recibir, registrar y verificar los informes que sobre su situación patrimonial, presenten los servidores públicos del Poder Ejecutivo en los plazos, términos, mecanismos y condiciones señalados por la legislación vigente y la normatividad administrativa establecida por la Secretaría, procurando la utilización de tecnología de vanguardia;
+V. Proponer, sistematizar, unificar y difundir los criterios de interpretación y aplicación de las disposiciones legales que norman el funcionamiento de la Secretaría;
 
-VIII. Mantener actualizado el padrón de servidores públicos obligados a presentar los informes de situación patrimonial establecidos por la Ley de acuerdo con los movimientos de personal que reporten las áreas de administración o de recursos humanos de la Administración Pública Estatal;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-IX. Prestar asesoría en materia de normatividad, criterios y mecanismos relativos a la presentación, recepción, registro, control y verificación de la información patrimonial, a los órganos internos de control, áreas de administración y de recursos humanos de las dependencias y entidades de la Administración Pública Estatal, así como a los servidores públicos que así lo soliciten;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
 
-X. Requerir a los servidores públicos del Poder Ejecutivo omisos en el cumplimiento oportuno de sus informes de situación patrimonial, así como integrar y turnar al área correspondiente la documentación necesaria para el fincamiento de las responsabilidades que resulten por este motivo;
+VI. Elaborar y someter a aprobación del Director General de Asuntos Jurídicos, las estrategias, normas, criterios y mecanismos necesarios para el eficaz cumplimiento en la presentación y recepción de las declaraciones de situación patrimonial de los servidores públicos de la Administración Pública Estatal, así como la instrumentación de los operativos de atención a usuarios que se diseñen para facilitar la prestación del servicio;
 
-XI. Verificar a través de los medios que autorice la legislación vigente los datos vertidos por los servidores públicos en sus informes de situación patrimonial requerirles información adicional y la exhibición de los documentos relativos a su patrimonio, así como citarlos para que realicen las aclaraciones que estimen convenientes; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-XII. Colaborar con las instancias federales, estatales o municipales, en los términos de los convenios y acuerdos que se suscriban, y previo acuerdo del Secretario, en la instrumentación, seguimiento, intercambio de información y evaluación de los sistemas de verificación del desarrollo patrimonial de los servidores públicos.
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+
+VII. Recibir, registrar y, en su caso, requerir la presentación de las declaraciones de situación patrimonial de los servidores públicos de la Administración Pública Estatal, en los plazos, términos, mecanismos y condiciones señalados por la legislación vigente y la normatividad administrativa establecida por la Secretaría, procurando la utilización de tecnología de vanguardia;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+
+VIII. Actualizar de manera permanente el padrón de servidores públicos obligados a presentar declaración de situación patrimonial, de acuerdo con los movimientos de personal que reporten las áreas de administración o de recursos humanos de la Administración Pública Estatal, y requerir a éstas la presentación de los informes respectivos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+
+IX. Prestar la asesoría que sea solicitada a la Secretaría en materia de normatividad, criterios y mecanismos relativos a la presentación, recepción, registro, control y verificación de la declaración de situación patrimonial;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+
+X. Coadyuvar en el seguimiento de los proyectos de leyes, reglamentos y otras disposiciones normativas relacionadas con la competencia de la Secretaría;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+
+XI. Verificar los datos vertidos por los servidores públicos en sus declaraciones de situación patrimonial, requerirles información adicional y la exhibición de los documentos relativos a su patrimonio, citarlos para que realicen las aclaraciones que se estimen convenientes, así como determinar, en su caso, la existencia de inconsistencias o irregularidades en la información verificada;
+
+XII. Colaborar con las instancias federales, estatales o municipales, en los términos de los convenios y acuerdos que se suscriban, y previo acuerdo del Secretario, en la instrumentación, seguimiento, intercambio de información y evaluación de los sistemas de verificación del desarrollo patrimonial de los servidores públicos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2006)</small>
+
+XIII. Realizar los estudios e investigaciones jurídicas que requiera el desarrollo de las atribuciones de la Secretaría;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2006)</small>
+
+XIV. Recibir, analizar y determinar la procedencia de prórrogas para la presentación de la declaración de situación patrimonial que soliciten los servidores públicos de la Administración Pública Estatal, en los términos de la Ley de la materia;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2006)</small>
+
+XV. Instaurar, sustanciar y resolver los procedimientos de responsabilidad administrativa, ejerciendo las facultades y funciones que, de conformidad con la Ley de la materia, corresponden a las autoridades sustanciadoras en los siguientes supuestos:
+
+a) Por incumplimiento de los servidores públicos en la presentación de las declaraciones de situación patrimonial en los plazos previstos por la Ley de la materia;
+
+b) Cuando, con motivo de las inconsistencias o irregularidades detectadas en el procedimiento de verificación, exista presunción de omisiones en la declaración de situación patrimonial rendida por los servidores públicos, que se traduzcan en incumplimiento de las disposiciones legales aplicables;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2006)</small>
+
+XVI. Imponer y ejecutar las sanciones que deriven de los procedimientos de su competencia, en los términos de la Ley de la materia; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2006)</small>
+
+XVII. Intervenir en el trámite de los juicios, procedimientos y medios de impugnación en los que la Secretaría sea parte y que sean competencia de la Dirección.
 
 ###### Artículo 16.
 
 La Dirección de Asesoría Legal y Situación Patrimonial para el desahogo de los asuntos de su competencia contará con los Coordinadores Operativos, Jefes de Departamento "A" y "B" y demás personal que el presupuesto permita y demanden las necesidades del servicio organizado en coordinaciones, jefaturas o unidades según se establezca, quienes tendrán las siguientes atribuciones:
 
-I. Recibir y controlar la información sobre situación patrimonial que presenten los senadores públicos obligados, así como otorgar asesoría sobre el particular a aquéllos que así lo soliciten;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+
+I. Recibir y controlar la información sobre situación patrimonial que presenten los servidores públicos obligados;
 
 II. Verificar la información patrimonial de los servidores públicos;
 
-III. Otorgar asesorías personales y telefónicas respecto a las consultas que les sean planteadas;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-IV. Levantar y suscribir las actas correspondientes a las diligencias que se practiquen y de todos aquellos actos que por su naturaleza así lo requieran; y
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
 
-V. Todas aquellas que el Director de Asesoría Legal y Situación Patrimonial delegue o encomiende a dicho personal.
+III. Otorgar asesorías en las materias competencia de la Secretaría, respecto a las consultas que les sean planteadas por servidores públicos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+
+IV. Desahogar las actuaciones y diligencias necesarias en la sustanciación de los procedimientos competencia de la Dirección de Asesoría Legal y Situación Patrimonial, así como levantar y suscribir las actas que correspondan a aquéllas y de todos los actos que por su naturaleza así lo requieran;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+
+V. Practicar las notificaciones que deben realizarse con motivo de las atribuciones que competan a la Dirección de Asesoría Legal y Situación Patrimonial; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2006)</small>
+
+VI. Todas aquellas que el Director de Asesoría Legal y Situación Patrimonial delegue o encomiende a dicho personal.
 
 #### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE RESPONSABILIDADES E INCONFORMIDADES
 
@@ -383,43 +525,85 @@ V. Todas aquellas que el Director de Asesoría Legal y Situación Patrimonial de
 
 La Dirección de Responsabilidades e Inconformidades, tendrá las siguientes atribuciones:
 
-I. Realizar oficiosamente las investigaciones sobre los actos y omisiones de los servidores públicos que pueden constituir responsabilidad administrativa en los términos de la ley de la materia, ordenando el inicio de procedimiento disciplinario, o en su caso el archivo provisional o definitivo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-II. Instaurar y substanciar los procedimientos administrativos disciplinarios contra servidores públicos de la Administración Pública Estatal por la comisión de conductas que pudieren constituir responsabilidad administrativa en los términos de la legislación aplicable y que tengan su origen en alguno de los siguientes supuestos generales:
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
 
-a) Por incumplimiento de las obligaciones y prohibiciones de los servidores públicos establecidas por las leyes, decretos, reglamentos y, en general por cualquier ordenamiento jurídico o administrativo que en razón de la naturaleza de sus funciones les corresponda acatar;
+I. Realizar oficiosamente las investigaciones sobre los actos y omisiones de los servidores públicos de la Administración Pública Estatal que puedan constituir responsabilidad administrativa en los términos de la Ley de la materia, ordenando el inicio del procedimiento respectivo o, en su caso, el archivo provisional o definitivo;
 
-b) Por la causación de daños, perjuicios o menoscabos ocasionados al patrimonio de la Hacienda Pública Estatal de otros órdenes de Gobierno y de los particulares con motivo del desempeño de sus funciones; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-c) Por incumplimiento en la presentación de los informes de situación patrimonial.
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
 
-III. Substanciar el procedimiento administrativo respectivo, para la determinación de los daños perjuicios patrimoniales ocasionados al Estado por los servidores públicos del Poder Ejecutivo, así como su resarcimiento a la Hacienda Pública Estatal;
+II. Instaurar, sustanciar y resolver los procedimientos de responsabilidad administrativa, para lo cual ejercerá las facultades y funciones que, de conformidad con la Ley de la materia, corresponden a las autoridades sustanciadoras; por conductas que pudieren significar el incumplimiento de las obligaciones y prohibiciones de los servidores públicos establecidas por los ordenamientos jurídicos o administrativos que en razón de la naturaleza de sus funciones les corresponda acatar;
 
-IV. Tramitar el recurso de reconsideración interpuesto en contra de las resoluciones recaídas en los procedimientos administrativos disciplinarios instaurados por la Secretaría en aquellos procedimientos disciplinarios de su competencia;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-V. Tramitar los medios de impugnación que presenten los particulares, previstos por las leyes en materia de adquisiciones, enajenaciones, arrendamientos y contratación de servicios, así como los previstos en otros ordenamientos;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
 
-VI. Emitir los acuerdos que recaigan a las promociones presentadas en la Dirección General de Asuntos Jurídicos dentro de los procedimientos de investigación o disciplinarios cuyo conocimiento corresponda a la Dirección;
+III. Instaurar, sustanciar y resolver el procedimiento administrativo respectivo, para la determinación de los daños y perjuicios patrimoniales ocasionados al Estado por los servidores públicos de la Administración Pública Estatal, así como su resarcimiento a la Hacienda Pública Estatal;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+
+IV. Atraer para conocimiento de la Secretaría, previo acuerdo del Director General de Asuntos Jurídicos, aquellos procedimientos de responsabilidad administrativa que por su naturaleza, revistan interés para la Administración Pública Estatal, requiriendo para tal efecto la remisión de los documentos y actuaciones respectivas;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+
+V. Tramitar y resolver los medios de impugnación que presenten los particulares, previstos por las leyes en materia de adquisiciones, enajenaciones, arrendamientos y contratación de servicios, así como los previstos en otros ordenamientos y que sean competencia de la Secretaría;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+
+VI. Imponer y ejecutar las sanciones que deriven de los procedimientos de su competencia, en los términos de la Ley de la materia;
 
 VII. Canalizar las inconformidades que se reciban en contra de actos de concursos de obra pública y adquisiciones en que se apliquen recursos federales con las instancias federales correspondientes, de conformidad con los convenios y acuerdos de coordinación que al efecto celebren los Ejecutivos Federal y Estatal;
 
 VIII. Intervenir en el trámite de los juicios, procedimientos y medios de impugnación en los que la Secretaría sea parte y que sean materia de competencia de la Dirección;
 
-IX. Elaborar y presentar las denuncias o querellas respecto a los asuntos competencia de la Secretaría, cuando se presuma la existencia de hechos que pudieren configurar la comisión de ilícitos penales y coadyuvar con las autoridades de la procuración de justicia, a efecto de agilizar y complementar las investigaciones respectivas;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-X. Notificar las resoluciones recaídas en tos procedimientos administrativos y la aplicación de las sanciones administrativas disciplinarias, así como las obligaciones resarcitorias; y
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
 
-XI. Llevar a cabo el registro de los servidores públicos sancionados y proporcionar la información que se solicite al respecto, en términos de las leyes y de los convenios y acuerdos de coordinación.
+IX. Elaborar y presentar las denuncias o querellas que correspondan, en aquellos casos en los que, derivado de los asuntos competencia de la Secretaría, se presuma la existencia de hechos que pudieren configurar la comisión de ilícitos penales, coadyuvar con las autoridades de procuración de justicia, a efecto de agilizar y complementar las investigaciones y, en su caso, interponer los medios de impugnación que correspondan;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+
+X. Tramitar y resolver las solicitudes de cancelación de antecedentes disciplinarios que le sean sometidas; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+
+XI. Llevar a cabo el registro de los servidores públicos sancionados y proporcionar la información que se solicite al respecto, en términos de las leyes y de los convenios y acuerdos respectivos.
 
 ###### Artículo 18.
 
 La Dirección de Responsabilidades e Inconformidades para el desahogo de los asuntos de su competencia, contará con los Coordinadores Operativos, Jefes de Departamento "A" y "B" y demás personal que el presupuesto permita y demanden las necesidades del servicio, organizado en coordinaciones, jefaturas o unidades, según se establezca quienes tendrán las siguientes atribuciones:
 
-I. Desahogar las actuaciones y diligencias que acuerde el Director de Responsabilidades e Inconformidades en la investigación y substanciación de los procedimientos disciplinarios y del recurso de inconformidad;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-II. Notificar las resoluciones que se emitan en los procedimientos administrativos, y del recurso de inconformidad;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
 
-III. Levantar las actas correspondientes a las diligencias que se practiquen y de todos aquellos actos que así lo requieran; y
+I. Desahogar las actuaciones y diligencias que acuerde el Director de Responsabilidades e Inconformidades en la investigación y substanciación de los procedimientos de su competencia;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+
+II. Practicar las notificaciones que deben realizarse con motivo de las atribuciones que competan a la Dirección de Responsabilidades e Inconformidades;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+
+III. Levantar y suscribir las actas correspondientes a las diligencias que se practiquen y de todos aquellos actos que así lo requieran; y
 
 IV. Todas aquellas acciones que el Director de Responsabilidades e Inconformidades delegue o encomiende a dicho personal.
 
@@ -437,39 +621,59 @@ IV. Todas aquellas acciones que el Director de Responsabilidades e Inconformidad
 
 La Dirección de Quejas, Denuncias y Responsabilidad Patrimonial, tendrá las siguientes atribuciones:
 
-I. Realizar investigaciones de oficio, o derivadas de quejas o denuncias debidamente fundadas, sobre la probable existencia de irregularidades administrativas cometidas por los servidores públicos de la Administración Pública Estatal, en los términos de la ley de la materia, ordenando el inicio de procedimiento disciplinario, o en su caso, el archivo provisional o definitivo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-II. Tramitar las quejas y denuncias que formulen los particulares con motivo de los acuerdos, convenios o contratos celebrados con las dependencias y entidades de la Administración Pública Estatal;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
 
-III. Conocer y tramitar las quejas por deficiencias en la ejecución de programas de inversión en obras y servicios públicos;
+I. Investigar los actos y omisiones que puedan constituir responsabilidades administrativas de los servidores públicos de la Administración Pública Estatal, de los cuales tenga conocimiento con motivo de su competencia;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+
+II. Atender y dar trámite a las sugerencias, planteamientos, quejas y denuncias de los ciudadanos con respecto a la actuación de los servidores de la Administración Pública Estatal, realizando las gestiones y actuaciones necesarias para recabar los elementos pertinentes para el debido seguimiento y aclaración de tales asuntos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+
+III. Atraer para conocimiento de la Secretaría, previo acuerdo del Director General de Asuntos Jurídicos, aquellos procedimientos de responsabilidad administrativa, que por su naturaleza, revistan interés para la Administración Pública Estatal, requiriendo para tal efecto la remisión de los documentos y actuaciones respectivas;
 
 IV. Recibir y coordinar las quejas y denuncias originadas por la indebida aplicación de los fondos destinados a los programas sociales de inversión, de conformidad con los convenios y acuerdos de coordinación que al efecto celebren los gobiernos Federal, Estatal y Municipales;
 
 V. Implementar u ordenar la realización de evaluaciones operativas a las diferentes dependencias y entidades de la Administración Pública Estatal, a efecto de verificar su correcto desempeño en la atención de trámites y servicios a la ciudadanía;
 
-VI. Instaurar, substanciar y resolver los procedimientos administrativos disciplinarios contra servidores públicos de la Administración Pública Estatal, cuando derivado de las actividades de investigación y evaluación operativa de la Dirección pudiera existir responsabilidad administrativa en los términos de la legislación aplicable;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2005)</small>
+VI. Instaurar, sustanciar y resolver los procedimientos de responsabilidad administrativa por quejas o denuncias, o bien de oficio, cuando con motivo de su actividad tenga conocimiento de actos u omisiones que puedan constituir responsabilidad administrativa, ejerciendo las facultades y funciones que de conformidad con la Ley de la materia, corresponden a las autoridades sustanciadoras;
 
-VII.- Emitir los acuerdos que recaigan a las promociones presentadas en la Dirección General de Asuntos Jurídicos dentro de los procedimientos administrativos cuyo conocimiento corresponda a la Dirección;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+
+VII. Imponer y ejecutar las sanciones que deriven de los procedimientos de su competencia, en los términos de la Ley de la materia;
 
 VIII. Intervenir en el trámite de los juicios, procedimientos y medios de impugnación en los que la Secretaría sea parte y que sean materia de competencia de la Dirección;
 
-IX. Notificar las resoluciones recaídas en los procedimientos administrativos y la aplicación de las sanciones administrativas disciplinarias, así como las obligaciones resarcitorias;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-X. Tramitar el recurso de reconsideración interpuesto en contra de las resoluciones recaídas en los procedimientos administrativos disciplinarios instaurados por la Secretaría con motivo de la presentación de quejas o denuncias;
+IX. (DEROGADA, P.O. 31 DE MARZO DE 2006)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+X. (DEROGADA, P.O. 31 DE MARZO DE 2006)
 
 XI. Instrumentar y operar los mecanismos técnicos y administrativos necesarios a fin de dar a conocer los indicadores sobre las quejas y denuncias que formulen los particulares, a los titulares de las diversas dependencias y entidades de la Administración Pública Estatal; y (sic)
 
 XII. Establecer y operar un sistema de información de quejas y denuncias con el objeto de definir indicadores que permitan evaluar el servicio y la gestión gubernamental;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
 
-XIII.- Sugerir, a los titulares de las dependencias y entidades de la Administración Pública Estatal, lineamientos y medidas de prevención y auto corrección, tendientes a eficientar los sistemas y procesos que realicen con motivo de sus facultades legales y reglamentarias;
+XIII. Recomendar a los titulares de las dependencias y entidades de la Administración Pública Estatal, lineamientos y medidas de prevención y auto corrección, tendientes a optimizar los sistemas y procesos que realicen con motivo de sus facultades legales y reglamentarias;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -477,35 +681,47 @@ XIII.- Sugerir, a los titulares de las dependencias y entidades de la Administra
 
 XIV.- Conocer de las reclamaciones que realicen los particulares respecto de la responsabilidad patrimonial que se le impute al Estado, para tal efecto instaurará, substanciará, desahogará, resolverá y notificará el procedimiento correspondiente de acuerdo con la legislación vigente; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
 
-XV.- Instaurar, substanciar y resolver los procedimientos administrativos disciplinarios tendientes a repetir en contra de los servidores públicos de la Administración Pública, que hubieren dado lugar a la responsabilidad patrimonial del Estado.
+XV. Instaurar, substanciar y resolver los procedimientos administrativos tendientes a repetir en contra de los servidores públicos de la Administración Pública Estatal que hubieren dado lugar a la responsabilidad patrimonial del Estado, así como todos aquellos trámites complementarios para lograr el resarcimiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE JUNIO DE 2005)</small>
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2006)</small>
+
+###### Artículo 19 Bis.
+
+La Dirección de Quejas, Denuncias y Responsabilidad Patrimonial contará con una Unidad de Quejas y Denuncias para la Secretaría de Educación de Guanajuato, la cual estará a cargo de un Coordinador Operativo y tendrá las siguientes atribuciones:
+
+I. Atender y dar trámite a las sugerencias y planteamientos ciudadanos con respecto a la actuación de los servidores públicos de la Secretaría de Educación de Guanajuato, realizando las gestiones y actuaciones necesarias para recabar los elementos pertinentes para el debido seguimiento y aclaración de tales asuntos;
+
+II. Investigar los actos y omisiones que puedan constituir responsabilidades administrativas de los servidores públicos adscritos a la Secretaría de Educación de Guanajuato, de los cuales tenga conocimiento con motivo de su competencia;
+
+III. Instaurar y tramitar los procedimientos de responsabilidad administrativa por quejas o denuncias, o bien de oficio, en contra de los servidores públicos de la Secretaría de Educación de Guanajuato, ejerciendo las facultades y funciones que, de conformidad con la Ley de la materia, corresponden a las autoridades sustanciadoras, turnándolos para su resolución al Director de Quejas, Denuncias y Responsabilidad Patrimonial;
+
+IV. Conocer de las reclamaciones que realicen los particulares respecto de la responsabilidad patrimonial relacionada con la actividad que desarrolle la Secretaría de Educación de Guanajuato, e instaurar, substanciar, desahogar y notificar el procedimiento correspondiente de acuerdo con la legislación de la materia, turnándolo para su resolución al Director de Quejas, Denuncias y Responsabilidad Patrimonial;
+
+V. Instaurar y substanciar los procedimientos administrativos disciplinarios tendientes a repetir en contra de los servidores públicos de la Secretaría de Educación de Guanajuato que hubieren dado lugar a la responsabilidad patrimonial del Estado, así como todos aquellos trámites complementarios para lograr el resarcimiento, turnando los procedimientos respectivos para su resolución al Director de Quejas, Denuncias y Responsabilidad Patrimonial; y
+
+VI. Intervenir en el trámite de los juicios, procedimientos y medios de impugnación en los que la Secretaría de la Gestión Pública sea parte y que sean competencia de la Unidad.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2006)</small>
 
 ###### Artículo 20.
 
-La Dirección de Quejas, Denuncias y Responsabilidad Patrimonial, para el desahogo de los asuntos de su competencia, contará con los Coordinadores Operativos, Jefes de Departamento "A" y "B" y demás personal que el presupuesto permita y demanden las necesidades del servicio, organizado en coordinaciones, jefaturas o unidades, quienes tendrán las siguientes atribuciones:
+La Dirección de Quejas, Denuncias y Responsabilidad Patrimonial y la Unidad de Quejas y Denuncias para la Secretaría de Educación de Guanajuato, para el desahogo de los asuntos de su competencia, contarán con los Coordinadores Operativos, Jefes de Departamento “A” y “B” y demás personal que el presupuesto permita y demanden las necesidades del servicio, organizado en coordinaciones, jefaturas o unidades, quienes tendrán las siguientes atribuciones:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+I. Desahogar las actuaciones y diligencias en la investigación, recepción, trámite y seguimiento de los planteamientos ciudadanos, quejas y denuncias o bien, actuar oficiosamente; así como, en la sustanciación de los procedimientos administrativos competencia de la Dirección o la Unidad, según corresponda;
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2005)</small>
+II. Practicar las notificaciones que deban realizarse con motivo de las actividades que competan a la Dirección o a la Unidad, según corresponda;
 
-I. Desahogar las actuaciones y diligencias que acuerde el Director de Quejas, Denuncias y Responsabilidad Patrimonial en la investigación de quejas y denuncias y substanciación de los procedimientos;
+III. Levantar y suscribir las actas correspondientes a las diligencias y evaluaciones operativas que se practiquen y de todos aquellos actos que por su naturaleza así lo requieran; y
 
-II. Notificar las resoluciones que se emitan en los procedimientos administrativos;
-
-III. Levantar las actas correspondientes a las diligencias y evaluaciones operativas que se practiquen y de todos aquellos actos que por su naturaleza así lo requieran; y
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2005)</small>
-
-IV. Todas aquellas que el Director de Quejas, Denuncias y Responsabilidad Patrimonial delegue o encomiende a dicho personal.
+IV. Todas aquellas que su superior jerárquico delegue o encomiende a dicho personal.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -967,9 +1183,7 @@ IX.- Apoyar en el diagnóstico y propuestas de solución de problemas organizaci
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2005)</small>
 
-X.- Proponer políticas y lineamientos para el desarrollo de la administración pública, mediante procesos de modernización y adecuación del orden organizacional relativo a su
-
-funcionamiento;
+X.- Proponer políticas y lineamientos para el desarrollo de la administración pública, mediante procesos de modernización y adecuación del orden organizacional relativo a su funcionamiento;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -1098,3 +1312,11 @@ JORGE ALBERTO ROMERO HIDALGO
 P.O. 7 DE JUNIO DE 2005.
 
 Artículo Único.- El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 31 DE MARZO DE 2006.
+
+Artículo Primero.- El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan aquellas disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- Los actos y procedimientos administrativos que se hayan iniciado hasta antes de la entrada en vigencia de la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios se tramitarán hasta su total conclusión de conformidad con las disposiciones reglamentarias vigentes al momento en que se iniciaron.
