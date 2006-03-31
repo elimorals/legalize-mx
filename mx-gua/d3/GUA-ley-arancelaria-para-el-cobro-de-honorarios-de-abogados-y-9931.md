@@ -4,7 +4,7 @@ identifier: "GUA-ley-arancelaria-para-el-cobro-de-honorarios-de-abogados-y-9931"
 country: "mx"
 rank: "ley"
 publication_date: "1953-03-08"
-last_updated: "1956-09-09"
+last_updated: "2006-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 LEY ARANCELARIA PARA EL COBRO DE HONORARIOS DE ABOGADOS Y NOTARIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE SEPTIEMBRE DE 1956.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ARANCELARIA PARA PARA EL COBRO DE HONORARIOS PROFESIONALES DE ABOGADOS Y NOTARIOS Y DE COSTAS PROCESALES PARA EL ESTADO DE GUANAJUATO, PUBLICADA EN EL P.O. DE 31 DE MARZO DE 2006, EL PRESENTE ORDENAMIENTO FUE ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Guanajuato, el 8 de marzo de 1953.
 
@@ -450,3 +452,11 @@ LIC. ENRIQUE MENDOZA ORTIZ.
 P.O. 9 DE SEPTIEMBRE DE 1956.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL CODIGO CIVIL VIGENTE.
+
+P.O. 31 DE MARZO DE 2006.
+
+Artículo primero. Esta Ley entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo segundo. Con la entrada en vigor de la presente Ley se abroga la Ley Arancelaria para el Cobro de Honorarios de Abogados y Notarios, contenida en el Decreto número 228 publicado en el Periódico Oficial del Gobierno del Estado, de fecha 8 de marzo de 1953.
+
+Artículo tercero. A los juicios sobre honorarios profesionales y a los incidentes de liquidación de costas que se hubieren iniciado antes de la entrada en vigor de la presente Ley, les serán aplicables las normas de la Ley Arancelaria para el Cobro de Honorarios de Abogados y Notarios, publicada en el decreto número 228 del 8 de marzo de 1953, en el Periódico Oficial del Gobierno del Estado.
