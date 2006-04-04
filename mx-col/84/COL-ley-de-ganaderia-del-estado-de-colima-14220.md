@@ -4,7 +4,7 @@ identifier: "COL-ley-de-ganaderia-del-estado-de-colima-14220"
 country: "mx"
 rank: "ley"
 publication_date: "1999-04-10"
-last_updated: "2002-01-19"
+last_updated: "2006-04-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14220&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE GANADERIA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 2006.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 10 de abril de 1999.
 
@@ -207,7 +207,9 @@ XII.- Expedir las guías de tránsito para controlar la movilización de ganado 
 
 XIII.- Nombrar a los inspectores y auxiliares de los rastros municipales;
 
-XIV.- Aplicar las sanciones establecidas por esta Ley y su Reglamento, por las infracciones que se denuncien, comunicando a la Secretaría de Finanzas las multas que imponga para su liquidación y ejecución en su caso;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2006)</small>
+
+XIV.- Aplicar las sanciones establecidas por esta Ley y su Reglamento, con excepción de las que corresponda imponer a los Ayuntamientos, por las infracciones que se denuncien, comunicando a la Secretaría de Finanzas las multas que imponga para su liquidación y ejecución en su caso;
 
 > <small>(ADICIONADA, P.O. 19 DE ENERO DE 2002)</small>
 
@@ -272,6 +274,10 @@ Los Inspectores Honorarios tendrán las siguientes atribuciones:
 I.- Vigilar el fiel cumplimiento de las disposiciones de esta Ley, dentro de su jurisdicción; y
 
 II.- Coadyuvar en las funciones que conforme a esta Ley, competen a la Secretaría y a los Inspectores de Ganadería, siempre con sujeción a las órdenes que directamente reciban de éstos.
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2006)</small>
+
+Con independencia de lo anterior, los Ayuntamientos podrán nombrar personal con el único propósito de vigilar que los animales no obstruyan las calles, jardines, derechos de vía y demás lugares públicos, procediendo a recogerlos y resguardarlos en los lugares destinados para ellos.
 
 ###### ARTICULO 26.
 
@@ -407,21 +413,27 @@ Cuando los inspectores de ganado o autoridades municipales encuentren o tengan c
 
 Si no aparecieren registrados, se girará aviso inmediato a la Unión, dando a conocer fierros y señales, con el fin de determinar nombre y lugar de residencia del propietario, a quien se dará aviso para que mande a recoger los animales en un plazo no mayor de 15 días naturales, pagando los gastos que se hubieren originado.
 
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 52.
 
-Si de las investigaciones practicadas, no apareciere el dueño o éste se negara a pagar los gastos correspondientes, los animales serán sacados a remate en subasta pública por la Secretaría, con la intervención de un representante de la Secretaría de Finanzas; un representante de la Asociación Ganadera Local y un representante del municipio respectivo, aplicándose en lo conducente el procedimiento fijado por el Código Civil vigente en el Estado.
+Si de las investigaciones practicadas, o posterior al plazo señalado en el artículo anterior, no apareciere el dueño o éste se negara a pagar los gastos correspondientes, los animales serán sacados a remate en subasta pública por la dependencia que haya resguardado y cuidado del animal, con la intervención de un representante de la Secretaría de Finanzas o Tesorería para el caso de los Ayuntamientos y un representante de la Asociación Ganadera Local, aplicándose en lo conducente el procedimiento fijado por el Código Civil vigente en el Estado.
 
 ###### ARTICULO 53.
 
 Los animales considerados mostrencos, que sufran una enfermedad contagiosa, previa certificación de un médico veterinario oficial, se sacrificarán cumpliendo con las normas que establece la legislación respectiva.
 
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 54.
 
-El producto de la venta de los animales mostrencos, deducidos los gastos, será aplicado de la siguiente forma: Cuarenta por ciento para el Gobierno del Estado, cuarenta por ciento para el municipio que corresponda y veinte por ciento para la o las Asociaciones Ganaderas Locales legalmente constituidas en el mismo.
+El producto de la venta de los animales mostrencos, deducidos de los gastos, será aplicado de la siguiente forma: Ochenta por ciento para el Gobierno del Estado o Ayuntamiento, según corresponda, y veinte por ciento para la o las Asociaciones Ganaderas Locales legalmente constituidas en el mismo.
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 55.
 
-Los animales mostrencos que sean rescatados de acuerdo con lo que previene el artículo 51 de esta Ley, serán herrados con la marca estatal.
+Los animales mostrencos que sean rescatados de acuerdo con lo que previene el artículo 51 de esta Ley, serán subastados en los términos de los artículos 52 y 54 de esta ley.
 
 ###### ARTICULO 56.
 
@@ -443,9 +455,17 @@ Los animales recogidos pastando en las áreas señaladas por el artículo 58, se
 
 En caso de que la persona que recoja el ganado, lo traslade o deposite en el rastro de otro municipio diferente en que fue detenido, se hará acreedor a una sanción, además de pagar los daños y perjuicios que ocasione.
 
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 60.
 
-La Secretaría, será la encargada de calificar las multas que imponga a los propietarios de los animales que sean recogidos, dependiendo ésta de la especie y edad del animal, debiendo enviar al Presidente Municipal, a la Asociación Ganadera Local y a la Secretaría de Finanzas, la relación de las multas impuestas para los efectos legales conducentes.
+La Secretaría, será la encargada de clasificar las multas que imponga a los propietarios de los animales que sean recogidos, dependiendo de la especie y edad del animal, siempre que el personal de la misma los haya retirado, resguardado y cuidado, debiendo enviar al Presidente Municipal, a la Asociación Ganadera Local y a la Secretaría de Finanzas, la relación de las multas impuestas para los efectos legales conducentes.
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2006)</small>
+
+ARTICULO 60 BIS.- El Ayuntamiento establecerá y cobrará las multas a que se refriere el artículo anterior, cuando los animales sean retirados por el personal del mismo, debidamente autorizado. En este caso se impondrá una multa por cada día que transcurra sin que el propietario se presente a reclamar su devolución, con independencia de los gastos que origine su cuidado y alimentación que serán exigibles antes de entregar el animal por parte del ayuntamiento.
+
+El ayuntamiento deberá observar lo dispuesto por este Capítulo.
 
 ###### ARTICULO 61.
 
@@ -889,9 +909,11 @@ Cuando las sanciones no estén específicamente señaladas, las faltas se castig
 
 En caso de reincidencia, la multa que corresponda por la falta cometida se aumentará en un cincuenta por ciento la primera vez; en un cien por ciento la segunda vez y así progresivamente. Será considerado como reincidente quien incurra en una misma falta administrativa en dos o más ocasiones.
 
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 143.
 
-Las multas impuestas por violaciones a esta ley, serán hechas efectivas por la Secretaría de Finanzas.
+Las multas impuestas por violaciones a esta ley, se harán efectivas por la Secretaría de Finanzas, con excepción de lo dispuesto por el artículo 60 Bis de esta ley.
 
 ###### ARTICULO 144.
 
@@ -932,3 +954,7 @@ P.O. 19 DE ENERO DE 2002.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE ABRIL DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
