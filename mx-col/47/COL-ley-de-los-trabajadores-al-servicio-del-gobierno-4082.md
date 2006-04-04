@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-trabajadores-al-servicio-del-gobierno-4082"
 country: "mx"
 rank: "ley"
 publication_date: "1992-01-04"
-last_updated: "2001-06-16"
+last_updated: "2006-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 4 de enero de 1992.
 
@@ -45,11 +45,13 @@ Principios Generales del Trabajo Burocrático.
 
 Disposiciones Generales.
 
-> <small>(REFORMADO, P. O. 26 DE OCTUBRE 1996)</small>
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 1.
 
-La presente Ley es reglamentaria del a (sic) fracción IX del artículo 87 de la Constitución Política del Estado Libre y Soberano de Colima y tiene por objeto normar la relación de trabajo entre el Gobierno del Estado, los Ayuntamientos y los Organismos Descentralizados con sus respectivos trabajadores, así como determinar sus derechos y obligaciones. Se excluyen los trabajadores de la educación que estén sujetos a la Ley de Educación del Estado y los trabajadores de los servicios públicos de salud que estén sujetos a la Ley de Salud del Estado.
+La presente Ley es reglamentaria de los artículos 116, fracción VI, y 123, apartado “B” de la Constitución Política de los Estados Unidos Mexicanos y tiene por objeto normar la relación de trabajo entre el Gobierno del Estado, los Ayuntamientos y los Organismos Descentralizados del Estado de Colima con sus respectivos trabajadores, así como determinar sus derechos y obligaciones.
+
+En el caso de los Trabajadores de la Educación y de los Trabajadores de los Servicios de Salud del Estado de Colima, sus relaciones laborales se regirán de conformidad con las disposiciones y procedimientos establecidos en las leyes estatales a las que estén sujetos.
 
 ###### ARTICULO 2.
 
@@ -155,7 +157,9 @@ Los trabajadores de confianza disfrutarán de las medidas de protección al suel
 
 Para los efectos de esta Ley, se entenderán como Titulares:
 
-I.- En el Poder Legislativo, el Coordinador General del Congreso;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2006)</small>
+
+I.- En el Poder Legislativo, la Comisión de Gobierno Interno y Acuerdos Parlamentarios del Congreso del Estado de Colima, por conducto de su Presidente;
 
 II.- En el Poder Ejecutivo, el Gobernador del Estado, por conducto del Oficial Mayor; y en sus dependencias, los servidores públicos de mayor jerarquía, conforme lo disponga la Ley Orgánica de la Administración Pública;
 
@@ -615,6 +619,26 @@ XV.- Contribuir al fomento de las actividades cívicas, culturales y deportivas 
 
 XVI.- No distraer a trabajadores de la Entidad para realizar actividades propias de Partidos Políticos dentro del horario de trabajo.
 
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2006)</small>
+
+ARTICULO 69 BIS.- El Titular de la entidad pública o funcionario de la misma, en ningún caso podrá:
+
+I.- Exigir la presentación de certificados médicos de ingravidez a las mujeres que aspiren a un empleo en el servicio público, salvo cuando se trate de actividades o trabajos en los que se pueda poner en riesgo su vida o su integridad física o la del producto;
+
+II.- Negar la admisión a un empleo solo por el hecho de ser mujer, estar embarazada, pertenecer a un estado civil determinado o estar al cuidado de sus hijos menores.
+
+No se entenderá como negativa para los efectos de esta fracción, cuando la mujer esté embarazada y se trate de actividades o trabajos en los que se pueda poner en riesgo la vida o integridad física de la mujer o del producto;
+
+III.- Provocar el despido o la renuncia de las mujeres trabajadoras por cualquier causa distinta a las mencionadas en el artículo 26;
+
+IV.- Ejecutar cualquier acto que restrinja a los trabajadores el derecho a realizar sus funciones normales para las que fueron nombrados, así como el ejercicio de sus derechos sindicales y de los demás que otorga la presente Ley;
+
+V.- Realizar actos de represión de cualquier índole, en contra de sus trabajadores, familias o dependientes económicos;
+
+VI.- Hacer propaganda política o religiosa dentro de sus dependencias, y
+
+VII.- Obligar a los trabajadores de la entidad para afiliarse a un partido político y a participar en actos partidistas incluso fuera del horario de trabajo.
+
 ### CAPITULO VI
 
 De las obligaciones de los trabajadores.
@@ -863,7 +887,9 @@ I.- Hacer propaganda de carácter religioso;
 
 II.- Ejercer actividades propias de comerciantes, con fines de lucro dentro de los centros de trabajo; y
 
-III.- Usar la violencia con los trabajadores libres para obligarlos a que se sindicalicen o ejercer hostigamiento en contra de los expulsados.
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2006)</small>
+
+III.- Usar la violencia con los trabajadores no agremiados para obligarlos a que se sindicalicen o ejercer hostigamiento en contra de los expulsados.
 
 ###### ARTICULO 106.
 
@@ -1366,3 +1392,9 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 16 DE JUNIO DE 2001.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE ABRIL DE 2006.
+
+###### ARTICULO ÚNICO
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
