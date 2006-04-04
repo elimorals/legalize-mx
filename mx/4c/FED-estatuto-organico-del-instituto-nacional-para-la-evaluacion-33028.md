@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-para-la-evaluacion-330
 country: "mx"
 rank: "estatuto"
 publication_date: "2003-08-04"
-last_updated: "2003-08-04"
+last_updated: "2006-04-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33028&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-04-08"
 
 ESTATUTO ORGANICO DEL INSTITUTO NACIONAL PARA LA EVALUACION DE LA EDUCACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ABRIL DE 2006.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 4 de agosto de 2003.
 
@@ -259,7 +259,7 @@ I. Proponer elementos para la definición de la política nacional de evaluació
 
 II. Proponer criterios y lineamientos para las actividades de difusión de los resultados del trabajo del Instituto;
 
-III. Definir los criterios y procedimientos que deberán utilizarse para el ingreso, promoción y permanencia del personal del Instituto que tenga carácter académico; dichos procedimientos comprenderán concursos de oposición, ante un jurado formado por especialistas, cuyos integrantes serán designados por el propio Consejo Técnico, y
+III. (DEROGADA, D.O.F. 4 DE ABRIL DE 2006)
 
 IV. Dar lineamientos para las actividades de capacitación del Instituto.
 
@@ -347,9 +347,11 @@ De ser el caso, procederá a la designación del Director General, a cuyo efecto
 
 VI. La persona que hubiere resultado electa será nombrada por la Junta Directiva como Director General del Instituto, con la suma de facultades que las disposiciones jurídicas le confieren.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 35.
 
-El Director General del Instituto, además de las facultades y atribuciones que le confieren las disposiciones legales aplicables y el Decreto de Creación del Instituto, tendrá las siguientes:
+El Director General del Instituto, además de las facultades y atribuciones que le confieren las disposiciones legales aplicables y el Decreto de Creación del Instituto, deberá:
 
 I. Planear, programar, organizar, dirigir, coordinar y evaluar las acciones que el Instituto realice para el debido cumplimiento de las funciones que le competen, de conformidad con lo establecido en su Decreto de Creación y otros ordenamientos;
 
@@ -373,7 +375,7 @@ X. Acordar los nombramientos, contratos y remociones de los servidores públicos
 
 XI. Establecer las relaciones laborales del Instituto sometiéndolas, en su caso, a la aprobación de la Junta Directiva;
 
-XII. Elaborar y proponer a la Junta Directiva, para su aprobación, el Reglamento de Personal Académico de la Institución;
+XII. (DEROGADA, D.O.F. 4 DE ABRIL DE 2006)
 
 XIII. Ordenar que se proporcione oportunamente la información solicitada por los comisarios públicos;
 
@@ -391,13 +393,17 @@ XVII. Las demás que tengan que ver con la marcha general del Instituto y establ
 
 Para el ejercicio de las atribuciones que le confiere el Decreto de Creación, el Instituto contará con la estructura orgánica de dirección que corresponde a los cargos comprendidos dentro de las dos jerarquías administrativas inferiores a la de Dirección General.
 
-En el primer nivel jerárquico inferior a la Dirección General habrá una Dirección General Adjunta. En el segundo nivel jerárquico inferior habrá ocho direcciones de área. Las cinco primeras dependerán de la Dirección General y su personal podrá ser científico y tecnológico o administrativo y de apoyo; las tres últimas dependerán de la Dirección General Adjunta y su personal será científico y tecnológico. En el Manual de Organización se establecerán las subdirecciones y áreas de nivel jerárquico inferior que tendrá cada una de las direcciones, y se precisarán en detalle las actividades y funciones de cada una de ellas.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ABRIL DE 2006)</small>
+
+En el primer nivel jerárquico inferior a la Dirección General habrá una Dirección General Adjunta. En el segundo nivel jerárquico inferior habrá nueve Direcciones de Area. Las cinco primeras dependerán de la Dirección General; las cuatro últimas dependerán de la Dirección General Adjunta. En el Manual de Organización se establecerán las subdirecciones y áreas de nivel jerárquico inferior que tendrá cada una de las Direcciones, y se precisarán en detalle las actividades y funciones de cada una de ellas.
 
 I. Dirección de Comunicación y Difusión;
 
 II. Dirección de Relaciones Nacionales y Logística;
 
-III. Dirección de Proyectos Internacionales y Especiales;
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2006)</small>
+
+III. Dirección de Asuntos Jurídicos;
 
 IV. Dirección de Informática;
 
@@ -405,9 +411,17 @@ V. Dirección de Administración y Finanzas;
 
 VI. Dirección de Indicadores Educativos;
 
-VII. Dirección de Pruebas y Medición, y
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2006)</small>
 
-VIII. Dirección de Evaluación de Escuelas.
+VII. Dirección de Pruebas y Medición;
+
+> <small>(REFORMADA, D.O.F. 4 DE ABRIL DE 2006)</small>
+
+VIII. Dirección de Evaluación de Escuelas, y
+
+> <small>(ADICIONADA, D.O.F. 4 DE ABRIL DE 2006)</small>
+
+IX. Dirección de Proyectos Internacionales y Especiales.
 
 ###### ARTICULO 37.
 
@@ -453,13 +467,17 @@ El Director General presidirá una Comisión Ejecutiva, integrada por los titula
 
 Las designaciones que, a propuesta del Director General del Instituto, acuerde la Junta Directiva respecto de los servidores públicos que ocupen cargos con las dos jerarquías administrativas inferiores al de aquél podrán ser renovadas, a propuesta del Director General, tantas veces como la Junta Directiva lo considere pertinente.
 
+> <small>(REFORMADO, D.O.F. 4 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 40.
 
-La Dirección General contará con el apoyo directo de una Secretaría Particular y un área de Control de Gestión, así como de una Asesoría Jurídica y las direcciones de Comunicación y Difusión, Relaciones Nacionales y Logística, Proyectos Internacionales y Especiales, Informática y Administración y Finanzas.
+La Dirección General contará con el apoyo directo de una Subdirección de Control de Gestión, así como de las Direcciones de Asuntos Jurídicos, de Comunicación y Difusión, Relaciones Nacionales y Logística, Informática, y Administración y Finanzas.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 41.
 
-La Asesoría Jurídica apoyará en su ámbito a la Dirección General y en particular:
+La Dirección de Asuntos Jurídicos apoyará en su ámbito a la Dirección General y en particular:
 
 I. Acordará con el Director General la intervención que corresponda al Instituto en los anteproyectos de leyes, reglamentos, decretos, acuerdos y convenios, nacionales e internacionales, relacionados con su ámbito de competencia;
 
@@ -525,9 +543,11 @@ VIII. En coordinación con la Dirección de Pruebas y con las áreas de evaluaci
 
 IX. Atenderá los demás asuntos que las disposiciones legales y administrativas le confieran y que le encomiende el Director General.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 44.
 
-La Dirección de Proyectos Internacionales y Especiales, en coordinación con las áreas que proceda, apoyará a la Dirección General coordinando la participación de México en proyectos internacionales de evaluación en el ámbito de competencia del Instituto y encargándose de proyectos especiales que le encomiende la propia Dirección General. Le corresponderá en particular:
+La Dirección de Proyectos Internacionales y Especiales, en coordinación con las áreas que proceda, coordinará la participación de México en proyectos internacionales de evaluación en el ámbito de competencia del Instituto y encargándose de proyectos especiales que le encomiende la propia Dirección General. Le corresponderá en particular:
 
 I. Vigilar que se cumplan los compromisos derivados de los convenios internacionales suscritos por el Instituto;
 
@@ -593,9 +613,11 @@ IV. Administrará los recursos materiales del Instituto de acuerdo con las norma
 
 V. Atenderá los demás asuntos que las disposiciones legales y administrativas le confieran y que le encomiende el Director General.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 48.
 
-El titular de la Dirección General Adjunta ocupará el segundo lugar jerárquico en el Instituto y sustituirá al Director General en ausencias no mayores de 90 días. Apoyará a la Dirección General coordinando el trabajo de las Direcciones de Indicadores Educativos, Pruebas y Medición y de Evaluación de Escuelas. Con autorización de la Dirección General del Instituto y por su conducto podrá contratar asesorías cuando sea necesario. En particular:
+El titular de la Dirección General Adjunta ocupará el segundo lugar jerárquico en el Instituto y sustituirá al Director General en ausencias no mayores de 90 días. Apoyará a la Dirección General coordinando el trabajo de las Direcciones de Indicadores Educativos, Pruebas y Medición, Evaluación de Escuelas, y Proyectos Internacionales y Especiales. Con autorización de la Dirección General del Instituto y por su conducto podrá contratar asesorías cuando sea necesario. En particular:
 
 I. Coordinará la planeación del trabajo de las áreas a su cargo y supervisará su realización, buscando que mantenga los más altos niveles de calidad;
 
@@ -716,3 +738,9 @@ SEGUNDO.- El Director General, en un plazo que no exceda de seis meses, contados
 TERCERO.- Los puestos de la estructura orgánica del Instituto se irán cubriendo progresivamente, en función de las necesidades y de los recursos disponibles.
 
 En la Ciudad de México, D.F., a 8 de abril de 2003.- El Presidente de la Junta Directiva, Reyes S. Tamez Guerra.- Rúbrica.- El Secretario de la Junta Directiva, Ramón Díaz de León Espino.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE ESTATUTO.</small>
+
+D.O.F. 4 DE ABRIL DE 2006.
+
+EL DECRETO DE REFORMAS CON ATELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE.
