@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-civiles-para-el-estado-de-colima-9881"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2004-05-08"
+last_updated: "2006-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MAYO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 2006.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado Colima, el sábado 25 de septiembre de 1954.
 
@@ -313,7 +313,7 @@ ART. 16.- Al perturbarlo en la posesión jurídica o derivada de un bien inmuebl
 
 La procedencia de esta acción requiere: que la perturbación consista en actos preparatorios tendientes directamente a la usurpación violenta o a impedir el ejercicio del derecho; que se reclame dentro de un año y el poseedor no haya obtenido la posesión de su contrario por fuerza, clandestinamente o a ruegos.
 
-ART. 17.- El que es despojado de la posesión jurídica o derivada de un bien inmueble, debe ser ante todo restituído y le compete la ación de recobrar contra el despojador, contra el que ha mandado el despojo, contra el que a sabiendas y directamente se aprovecha del despojo y contra el sucesor del despojante. Tiene por objeto reponer al despojado en la posesión, indemnizarlo de los daños y perjuicios, obtener del demandado que afiance su abstención y a la vez conminarlo con multa y arresto para el caso de reincidencia.
+ART. 17.- El que es despojado de la posesión jurídica o derivada de un bien inmueble, debe ser ante todo restituído y le compete la acción de recobrar contra el despojador, contra el que ha mandado el despojo, contra el que a sabiendas y directamente se aprovecha del despojo y contra el sucesor del despojante. Tiene por objeto reponer al despojado en la posesión, indemnizarlo de los daños y perjuicios, obtener del demandado que afiance su abstención y a la vez conminarlo con multa y arresto para el caso de reincidencia.
 
 ART. 18.- La acción de recuperar la posesión se deducirá dentro del año siguiente a los actos violentos o vías de hecho causantes del despojo. No procede en favor de aquel que, con relación al demandado, poseía clandestinamente, por la fuerza o a ruego, pero si contra el propietario despojante que transfirió el uso y aprovechamiento de la cosa por medio de contrato.
 
@@ -379,7 +379,9 @@ ART. 33.- Las acciones duran lo que la obligación que representan, menos en los
 
 ART. 34.- Intentada la acción y fijados los puntos cuestionados, no podrán modificarse ni alterarse, salvo en los casos en que la Ley lo permita. El desistimiento de la demanda sólo importa la pérdida de la instancia y requiere el consentimiento del demandado. El desistimiento de la acción extingue ésta aun sin consentirlo el reo. En todos los casos el desistimiento produce el efecto de que las cosas vuelvan al estado que tenían antes de la presentación de la demanda y obligan al que lo hizo a pagar las costas y daños y perjuicios a la contraparte, salvo convenio en contrario "o de que el desistimiento se haya producido antes del emplazamiento de la demanda".
 
-La acción ejercitada en juicio caducará en el término de un año en primera instancia o de seis meses en segunda instancia, contados por días naturales, si dentro de dichos términos las partes no promueven la normal consecución de la misma.
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2006)</small>
+
+La caducidad operara en el término de un año en primera instancia o de seis meses en segunda instancia, contados por días naturales, si dentro de dichos términos las partes no promueven la normal consecución de la misma.
 
 ### CAPITULO II. De las excepciones
 
@@ -491,7 +493,7 @@ ART. 64.- Las actuaciones judiciales se practicarán en días y horas hábiles. 
 
 Se entienden horas hábiles las comprendidas entre las siete y las diecinueve horas. En los juicios sobre alimentos, impedimentos de matrimonio, y en general, todas las cuestiones familiares que reclamen la intervención judicial; así como en los juicios sumarios sobre servidumbres legales, interdictos posesorios y los demás que determinen las leyes no hay ni días ni horas inhábiles. En los demás casos, el juez puede habilitar los días y horas inhábiles para actuar o para que se practiquen diligencias, cuando hubiere causa urgente que lo exija, expresando cual sea ésta y las diligencias que hayan de practicarse.
 
-> <small>(REFORMADO [ N. DE E. ADICIONADO], P.O. 25 DE MARZO DE 2000)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE MARZO DE 2000)</small>
 
 En las diligencias o actuaciones en materia familiar, que se practiquen fuera del juzgado, se observará lo dispuesto por el artículo 14 de la Ley para la Prevención y Atención a la Violencia Intrafamiliar.
 
@@ -2873,9 +2875,9 @@ ART. 632.- Es competente para todos los actos relativos al juicio arbitral en lo
 
 ART. 633.- Los jueces ordinarios están obligados a impartir el auxilio de su jurisdicción a los árbitros.
 
-ART. 634.- La apelación sólo será admisible conforme a las reglas del derecho común.
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2006)</small>
 
-Contra las resoluciones del árbitro designado por el juez cabe el amparo de garantías conforme a las leyes respectivas.
+ART. 634.- La apelación sólo será en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
 
 ART. 635.- El juez debe compeler a los árbitros a cumplir con sus obligaciones.
 
@@ -3141,7 +3143,7 @@ I.- Salir al pleito en cualquier estado en que se encuentre, con tal de que no s
 
 II.- Hacer las gestiones que estimen oportunas dentro del juicio, siempre que no deduciendo la misma acción u oponiendo la misma excepción que actor o reo, respectivamente, no hubieren designado representante común;
 
-III.- Continuar su ación y defensa aun cuando el principal desistiere;
+III.- Continuar su acción y defensa aun cuando el principal desistiere;
 
 IV.- Apelar e interponer los recursos procedentes.
 
@@ -4860,3 +4862,7 @@ P.O. 8 DE MAYO DE 2004.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Los juicios sobre rectificación de actas del estado civil que se encuentren en trámite ante los tribunales del Estado al momento de entrar en vigor el Presente Decreto, continuarán substanciándose conforme a las disposiciones vigentes al momento de iniciarse el juicio.
+
+P.O. 4 DE ABRIL DE 2006.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
