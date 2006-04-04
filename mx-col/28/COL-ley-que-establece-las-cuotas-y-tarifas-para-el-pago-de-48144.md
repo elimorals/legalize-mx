@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48144"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2005-12-31"
+last_updated: "2006-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48144&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE Y ALCANTARILLADO DE LOS MUNICIPIOS DE COLIMA Y VILLA DE ALVAREZ EN EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 2006.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre del 2005.
 
@@ -61,7 +61,7 @@ Las cuotas y tarifas establecidas en la presente Ley, están determinadas en for
 
 ###### ARTÍCULO 3.
 
-Por los servicios de agua potable en "servicio medido" y alcantarillado para uso doméstico, se pagarán los derechos de conformidad con las siguientes tarifas:
+Por los servicios de agua potable en “servicio medido” y alcantarillado para uso doméstico, se pagarán los derechos de conformidad con las siguientes tarifas:
 
 I.- Popular.- Comprende:
 
@@ -115,7 +115,7 @@ Por los servicios de agua potable y alcantarillado prestados a instituciones o d
 
 ###### ARTÍCULO 7.
 
-Por los servicios de agua potable y alcantarillado en “servicio medido” para uso Mixto, se pagarán los derechos de conformidad con las siguientes tarifas:
+Por los servicios de agua potable y alcantarillado en "servicio medido" para uso Mixto, se pagarán los derechos de conformidad con las siguientes tarifas:
 
 I.- Popular.- Comprende a los usuarios propietarios o poseedores de predios señalados en el artículo 3, fracción I incisos a) y b) de esta Ley, que en la vivienda que habitan, tengan establecido un negocio o industria, abastecidos del servicio de agua potable y alcantarillado de la misma toma y descarga.
 
@@ -283,7 +283,7 @@ POTABLE ALCANTARILLADO TOTAL
 
 2.45158 0.61290 3.06448
 
-Los usuarios a que se refiere este artículo cubrirán adicionalmente, el importe del IVA de conformidad con la Ley del Impuesto al Valor Agregado
+Los usuarios a que se refiere este artículo cubrirán adicionalmente, el importe del IVA de conformidad con la Ley del Impuesto al Valor Agregado.
 
 ###### ARTÍCULO 12.
 
@@ -373,27 +373,21 @@ I.- La calidad del agua que se descargue al sistema de alcantarillado o drenaje,
 
 II.- En el caso de descargas que contengan desechos tales como lodos, ácidos, grasas, substancias químicas y de cualquier otra clase que puedan perjudicar las instalaciones del servicio, se pagarán además, las cuotas establecidas para las descargas contaminantes, las cuales se determinarán en función de las descargas contaminantes por Demanda Bioquímica de Oxígeno (DBO5) y Demanda Química de Oxígeno (DQO) en función del tiempo que excedan sus límites de descarga al sistema de drenaje, de conformidad con la siguiente tarifa:
 
-Parámetro Límite de Diseño Cuotas por kilogramo
+Parámetro Límite de Diseño de Cuotas por kilogramo excedentes de acuerdo al tiempo Operación de planta de de permanencia de la descarga
 
-de Operación de excedentes de acuerdo
+Aguas Residuales ($/kg)
 
-planta de al tiempo de
-
-Aguas Residuales permanencia de
-
-(mg/l) la descarga
-
-($/kg)
-
-(Meses)
+(mg/l) (Meses)
 
 0-3 4-6 7-12 3-24
 
 (Salarios Mínimos)
 
-DBO5 0.020 0.040 0.122 0.418
+DBO5
 
-DQO 0.010 0.040 0.092 0.387
+DQO 0.020 0.040 0.122 0.418
+
+0.010 0.040 0.092 0.387
 
 La aplicación de las cuotas y tarifas de la tabla anterior, quedará sujeta a las siguientes bases generales:
 
@@ -723,7 +717,9 @@ Los pensionados, jubilados, adultos mayores y personas con capacidades diferente
 
 Obtendrán un descuento del 30 por ciento en el pago bimestral o anual adelantado de los servicios de agua potable y alcantarillado, si los consumos rebasan los 20 metros cúbicos mensuales.
 
-Este beneficio se otorgará a los usuarios que tengan el servicio de uso doméstico, respecto de la casa que habiten y que comprueben ser propietarios o poseedores de de (sic) dicho predio, con una percepción no mayor a cuatro salarios mínimos del área geográfica en que se ubica el Estado de Colima, debiendo además cumplir con los siguientes requisitos:
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2006)</small>
+
+Este beneficio se otorgará a los usuarios que tengan el servicio de uso doméstico, respecto de la casa que habiten y que comprueben ser propietarios o poseedores de dicho predio, debiendo además cumplir con los siguientes requisitos:
 
 I. Que se encuentren al corriente en el pago de los derechos establecidos en la presente Ley.
 
@@ -744,6 +740,36 @@ En caso de que el usuario sujeto al beneficio establecido en este artículo, rea
 El Director General de “LA CIAPACOV” está facultado para realizar ajustes a la facturación por lecturas incorrectamente tomadas, por fugas, problemas de presión y aire en la red, tarifas incorrectamente aplicadas y medidores descalibrados, previo dictamen técnico del área competente de “LA CIAPACOV”.
 
 TRANSITORIOS:
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2006)</small>
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1º de Enero de 2006, previa su publicación en el Periódico Oficial "EL ESTADO DE COLIMA"
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2006)</small>
+
+###### ARTÍCULO SEGUNDO.
+
+Para el ejercicio fiscal 2006, el beneficio a que se refiere el artículo 38 de esta Ley podrá efectuarse sin recargos hasta el 30 de abril del citado año".
+
+El Gobernador del Estado dispondrá se publique, circule y observe."
+
+Dado en el Recinto Oficial del Poder Legislativo a los veintiocho días del mes de diciembre del año dos mil cinco.
+
+C. Florencio Llamas Acosta, Diputado Presidente. Rúbrica. C. Beatriz de la Mora de la Mora, Diputada Secretaria. Rúbrica. C. Margarita Ramírez Sánchez, Diputada Secretaria. Rúbrica.
+
+Por lo tanto mando se imprima, publique, circule y observe.
+
+Dado en Palacio de Gobierno, a los 31 días del mes de diciembre del año dos mil cinco.
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JUAN JOSÉ SEVILLA SOLÓRZANO. Rúbrica. EL SECRETARIO DE FINANZAS, ING. HUGO A. VÁZQUEZ MONTES. Rúbrica. EL SECRETARIO DE DESARROLLO URBANO, ING. EDUARDO GUTIÉRREZ NAVARRETE. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE ABRIL DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 ###### ARTICULO UNICO.
 
