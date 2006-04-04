@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-armeria-colima-26733"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2006-02-18"
+last_updated: "2006-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26733&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE ARMERIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 2006.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -1589,7 +1589,7 @@ pública 2.00
 
 pública 2.00
 
-45.- Pintado en puesto semifijo en la vía pública 2.00
+45.-Pintado en puesto semifijo en la vía pública 2.00
 
 46.- Adosado en puesto semifijo en la vía
 
@@ -2969,6 +2969,12 @@ AÑO 2003 2004 2005 2006 2007
 
 BASE 60% 70% 80% 90% 100%
 
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2006)</small>
+
+###### ARTICULO SEPTIMO.
+
+Para el ejercicio fiscal 2006, se amplía el plazo hasta el 30 de Abril del citado año, para los casos a que se refiere el Artículo 19 de la presente Ley.
+
 El Gobernador del Estado dispondrá se imprima, publique, circule y observe.
 
 Dado en el Recinto Oficial del Poder Legislativo a los once días del mes de noviembre del año dos mil dos.
@@ -3014,3 +3020,7 @@ P.O. 18 DE FEBRERO DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 4 DE ABRIL DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
