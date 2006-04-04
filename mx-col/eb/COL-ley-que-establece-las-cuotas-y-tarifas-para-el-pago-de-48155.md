@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48155"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2005-12-31"
+last_updated: "2006-04-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48155&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,9 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE IXTLAHUACAN, COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 2006.
 
-Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
+Ley publicada en el Suplemento No.80 del Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
 DEL GOBIERNO DEL ESTADO PODER LEGISLATIVO
 
@@ -225,9 +225,11 @@ II.- A los usuarios de servicio que sin tener adeudos de ejercicios anteriores p
 
 A los usuarios de cuota mínima que paguen por anualidad en los términos de la fracción I de este artículo y que posteriormente se les instale medidor, se les ajustará su facturación en los términos de la fracción anterior.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ABRIL DE 2006)</small>
+
 ###### ARTÍCULO 22º.
 
-Los usuarios que acrediten ser ciudadanos mexicanos y tener la calidad de pensionados o jubilados con una percepción no mayor a 3 salarios mínimos de la zona económica del Estado de Colima, tendrán derecho a un descuento del 50 por ciento en el pago de los derechos por servicios públicos de agua potable y alcantarillado, respecto de la casa que habitan y que comprueben ser propietarios, debiendo exhibir los siguientes documentos:
+Los usuarios que acrediten ser ciudadanos mexicanos y tener la calidad de pensionados o jubilados tendrán derecho a un descuento del 50 por ciento en el pago de los derechos por servicios públicos de agua potable y alcantarillado, respecto de la casa que habitan y que comprueben ser propietarios debiendo exhibir los siguientes documentos.
 
 a) Original y copia del talón o recibo de ingresos y credencial que lo acredite como pensionado o jubilado expedidos por institución oficial mexicana; y
 
@@ -243,9 +245,17 @@ El Director General de la CAPAI, bajo su estricta responsabilidad, estará facul
 
 T R A N S I T O R I O S :
 
-###### ARTÍCULO UNICO.
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2006)</small>
 
-El presente Decreto entrará en vigor el día 1º de Enero de 2006. Previa su publicación en el Periódico Oficial del Estado.
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1º de Enero de 2006, previa su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2006)</small>
+
+###### ARTÍCULO SEGUNDO.
+
+Para el ejercicio fiscal 2006, el beneficio a que se refiere el artículo 22 de esta Ley, podrá efectuarse sin recargos hasta el 30 de abril del citado año".
 
 El Gobernador del Estado dispondrá se publique, circule y observe."
 
@@ -258,3 +268,9 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, a los 31 días del mes de diciembre del año dos mil cinco.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JUAN JOSÉ SEVILLA SOLÓRZANO. Rúbrica. EL SECRETARIO DE FINANZAS, ING. HUGO A. VÁZQUEZ MONTES. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE ABRIL DE 2006.
+
+Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
