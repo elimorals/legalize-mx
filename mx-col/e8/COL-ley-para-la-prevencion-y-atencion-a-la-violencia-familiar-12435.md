@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-prevencion-y-atencion-a-la-violencia-familiar-12435
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-14"
-last_updated: "2005-11-26"
+last_updated: "2006-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12435&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA LA PREVENCION Y ATENCION A LA VIOLENCIA INTRAFAMILIAR
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 14 de febrero de 1998.
 
@@ -283,11 +283,25 @@ En los órganos competentes correspondientes a las Policías Preventivas de los 
 
 Se considera como:
 
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2006)</small>
+
 I.- VIOLENCIA INTRAFAMILIAR:
 
-a).- Todo delito en el que el activo tenga una relación de familia, en los términos de esta ley, con el pasivo, o algún miembro de ella corra el peligro de daño;
+Aquel acto de poder u omisión intencional, recurrente o cíclico, dirigido a dominar, someter, controlar o agredir física, verbal, psicoemocional, económica y sexualmente a cualquiera de las personas citadas en la fracción II de este artículo, que tiene por efecto causar daño, y que puede ser de cualquiera de las siguientes clases:
 
-b).- La utilización de la violencia, de modo constante, recurrente, cíclico o que ocurra tres veces o más, constituyendo un patrón de conducta de un miembro de la familia, entendida en los términos de esta Ley, hacia otro miembro de ella, con el propósito de o que pueda, causarle daños físicos o psicológicos o impedirles su sano desarrollo psicosomático.
+a) Maltrato Físico: Todo acto de agresión intencional en el que se utilice alguna parte del cuerpo, objeto, arma sustancia o parte corporal para sujetar, inmovilizar o causar daño a la integridad física del otro, encaminado hacia su sometimiento y control;
+
+b) Maltrato Psicoemocional: Al padrón de conducta consistente en actos u omisiones repetitivos, cuya forma de expresión puede ser: prohibiciones, coacciones, condicionamientos, intimidaciones, amenazas, actitudes devaluatorias de la conducta humana, de abandono físico y moral; que provoquen en quien las recibe, deterioro, disminución o afectación a su estructura de personalidad. De igual forma será considerado maltrato psicoemocional, todo acto que se realice con la intención de causar daño en su integridad psicológica a un menor de edad, sin que sea válido el argumento de que la actitud realizada es justificante para la educación y formación de aquel, en el uso del derecho de corregir;
+
+c) Maltrato Verbal: Todo acto de agresión intencional, ejecutado a través de lenguaje, con el propósito de ofender, agredir, menospreciar, denigrar o humillar a cualquier persona.
+
+d) Celotipia: Los celos dirigidos a controlar y someter la voluntad de una persona a la propia;
+
+e) Maltrato Económico: Incluye todos los actos que implican aprobación o destrucción del patrimonio de alguna o algunas de las personas señaladas en la fracción II de este artículo, puede manifestarse en el ejercicio del control de los ingresos de la relación, o bien apoderarse de los bienes propiedad de la otra parte, por su compra o titularidad o por el despojo directo u oculto de los mismos, y por la utilización, menoscabo, destrucción o desaparición de objetos personales de la pareja o de algún familiar;
+
+f) Maltrato sexual: El patrón de conductas consistente en actos u omisiones únicas o reiteradas y cuyas formas de expresión pueden ser: inducir a la realización u observación de prácticas sexuales no deseadas o que generen dolor, practicar la celotipia para el control, manipulación o dominio de la pareja y que generen un daño; y
+
+g) Vínculo Familiar: Es la relación existente entre las personas que tengan algún parentesco consanguíneo por afinidad o civil, así como entre los que tengan o hayan tenido alguna relación conyugal, de concubinato o de pareja.
 
 II.- MIEMBROS DE LA FAMILIA:
 
@@ -534,3 +548,7 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA.- Rúbrica.-
 P.O. 26 DE NOVIEMBRE DE 2005.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 4 DE ABRIL DE 2006.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
