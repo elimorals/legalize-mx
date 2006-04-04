@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48157"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2005-12-31"
+last_updated: "2006-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS, PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE MINATITLAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 2006.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -291,9 +291,13 @@ El organismo podrá realizar descuentos en el pago de los derechos, de conformid
 
 I.- 4 por ciento de descuento a los usuarios de cuota fija que paguen el servicio de agua potable, alcantarillado por anualidad durante los meses de enero y febrero.
 
-II.- Los usuarios que acrediten ser ciudadanos mexicanos y tener la calidad de Pensionados, Jubilados y Discapacitados con una percepción no mayor a 3 salarios mínimos diarios de la zona económica del Estado de Colima, tendrán derecho a un descuento del 50 por ciento en el pago de los derechos por servicios públicos de agua potable, alcantarillado y saneamiento, respecto de la casa que habitan, para lo cual deberán exhibir a el Organismo previamente los siguientes documentos:
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2006)</small>
 
-III.- 50 por ciento de descuento a los usuarios mayores de 60 años que de acuerdo a un estudio socioeconómico y que el resultado del mismo obtenga un máximo de tres salarios mínimos de ingreso, se hará valido únicamente a la casa donde viven y que comprueben que el contrato de agua esté a su nombre.
+II.- Los usuarios que acrediten ser mexicanos y tener la calidad de Pensionados, Jubilados y Discapacitados tendrán derecho a un descuento del 50 por ciento en el pago de los derechos por servicios públicos de agua potable, alcantarillado y saneamiento, respecto de la casa que habitan, para lo cual deberán exhibir a el Organismo previamente los siguientes documentos:
+
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 4 DE ABRIL DE 2006)</small>
+
+III.- 50 por ciento de descuentos a los usuarios mayores de 60 años que se hará valido únicamente a la casa donde viven y que comprueben que el contrato de agua esté a su nombre.
 
 a).- Original y copia del talón o recibo de ingresos y credencial que lo acredite como pensionado o jubilado expedidos por institución oficial mexicana.
 
@@ -350,6 +354,36 @@ e) Daños a la red, más el importe de los trabajos de reparación y cuantificac
 El Director General del Organismo, bajo su responsabilidad, estará facultado para realizar ajustes a los cobros realizados por anualidad incorrectamente tomada, por fugas, problemas de facturación, tarifas incorrectamente aplicadas.
 
 TRANSITORIOS:
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2006)</small>
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1º de Enero de 2006, previa su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2006)</small>
+
+###### ARTÍCULO SEGUNDO.
+
+Para el ejercicio fiscal 2006, el beneficio a que se refieren las fracciones II y III del artículo 17 de esta Ley, podrá efectuarse sin recargos hasta el 30 de abril del citado año".
+
+El Gobernador del Estado dispondrá se publique, circule y observe."
+
+Dado en el Recinto Oficial del Poder Legislativo a los veintiocho días del mes de diciembre del año dos mil cinco.
+
+C. Florencio Llamas Acosta, Diputado Presidente. Rúbrica. C. Beatriz de la Mora de la Mora, Diputada Secretaria. Rúbrica. C. Margarita Ramírez Sánchez, Diputada Secretaria. Rúbrica.
+
+Por lo tanto mando se imprima, publique, circule y observe.
+
+Dado en Palacio de Gobierno, a los 31 días del mes de diciembre del año dos mil cinco.
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JUAN JOSÉ SEVILLA SOLÓRZANO. Rúbrica. EL SECRETARIO DE FINANZAS, ING. HUGO A. VÁZQUEZ MONTES. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE ABRIL DE 2006.
+
+Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 ###### ARTICULO UNICO.
 
