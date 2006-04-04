@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48149"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2005-12-31"
+last_updated: "2006-04-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE COQUIMATLAN, COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 2006.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -273,7 +273,9 @@ I.- Se concede un 12% de descuento en el pago de los derechos por el servicio de
 
 II.- Se concede un 8 por ciento de descuento a los usuarios de cuota fija que paguen el servicio de agua potable y alcantarillado por anualidad durante los meses de marzo y abril.
 
-III.- Los usuarios que acrediten ser ciudadanos mexicanos y tener la calidad de pensionados o jubilados con una percepción no mayor a 3 salarios mínimos diarios de la zona económica del Estado de Colima, tendrán derecho a un descuento del 50 por ciento en el pago de los derechos por servicios públicos de agua potable y alcantarillado, respecto de la casa que habitan, para lo cual deberán exhibir a La Comisión previamente los siguientes documentos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ABRIL DE 2006)</small>
+
+III.- Los usuarios que acrediten ser ciudadanos mexicanos y tener la calidad de pensionados o jubilados tendrán derecho a un descuento del 50 por ciento en el pago de los derechos por servicios públicos de agua potable y alcantarillado, respecto de la casa que habitan, para lo cual deberán exhibir a La Comisión previamente los siguientes documentos:
 
 a).- Original y copia del talón o recibo de ingresos y credencial que lo acredite como pensionado o jubilado expedidos por institución oficial mexicana; y,
 
@@ -292,6 +294,36 @@ VI.- Tratándose de los servicios medio y mixto se estará a lo dispuesto por la
 El Director de la Comisión, bajo su estricta responsabilidad, estará facultado para realizar ajustes a la facturación por tarifas incorrectamente aplicadas.
 
 T R A N S I T O R I O S :
+
+> <small>(REFORMADO, P.O., 4 DE ABRIL DE 2006)</small>
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1º de Enero de 2006, previa su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+> <small>(ADICIONADO, P.O., 4 DE ABRIL DE 2006)</small>
+
+###### ARTÍCULO SEGUNDO.
+
+Para el ejercicio fiscal 2006, el beneficio a que se refiere la fracción III del artículo 23 de esta Ley, podrá efectuarse sin recargos hasta el 30 de abril del citado año".
+
+El Gobernador del Estado dispondrá se publique, circule y observe."
+
+Dado en el Recinto Oficial del Poder Legislativo a los veintiocho días del mes de diciembre del año dos mil cinco.
+
+C. Florencio Llamas Acosta, Diputado Presidente. Rúbrica. C. Beatriz de la Mora de la Mora, Diputada Secretaria. Rúbrica. C. Margarita Ramírez Sánchez, Diputada Secretaria. Rúbrica.
+
+Por lo tanto mando se imprima, publique, circule y observe.
+
+Dado en Palacio de Gobierno, a los 31 días del mes de diciembre del año dos mil cinco.
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JUAN JOSÉ SEVILLA SOLÓRZANO. Rúbrica. EL SECRETARIO DE FINANZAS, ING. HUGO A. VÁZQUEZ MONTES. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE ABRIL DE 2006.
+
+Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 ###### ARTÍCULO UNICO.
 
