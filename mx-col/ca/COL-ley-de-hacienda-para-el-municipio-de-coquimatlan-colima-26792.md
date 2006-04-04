@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-coquimatlan-colima-26792"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2006-02-18"
+last_updated: "2006-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE COQUIMATLAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 2006.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -1611,13 +1611,13 @@ Unidades de salario
 
 26.- Tiendas de abarrotes con venta de cerveza 30.00 a 60.00
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2004)</small>
+(REFORMADO, P.O. 10 DE ABRIL DE 2004) (F. DE E., P.O. 15 DE MAYO DE 2006)
 
-27.- Tienda de autoservicio con venta de cerveza, vinos y licores 150.00 a 300.00
+27.- Tienda de autoservicio con venta de cerveza vinos y licores 150.00 a 300.00
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2004)</small>
+(REFORMADO, P.O. 10 DE ABRIL DE 2004) (F. DE E., P.O. 15 DE MAYO DE 2006)
 
-28.- Tiendas departamentales 250.00 a 500
+28.- Tiendas departamentales 250.00 a 500.00
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -1625,9 +1625,9 @@ Unidades de salario
 
 En zona rural, por cada uno:
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2004)</small>
+(REFORMADO, P.O. 10 DE ABRIL DE 2004) (F. DE E., P.O. 15 DE MAYO DE 2006)
 
-1.- Tienda de abarrotes con venta de cerveza y mezcal 30.00 A 60.00
+1.- Tiendas de abarrotes con venta de cerveza y mezcal 30.00 a 60.00
 
 2.- Autoservicio 75.00
 
@@ -2723,7 +2723,7 @@ XII. Otros no especificados.
 
 (ADICIONADO, P.O. 18 DE FEBRERO DE 2006) (F. DE E., P.O. 15 DE MAYO DE 2006)
 
-En el supuesto del párrafo tercero del artículo esta Ley, se cobrará a los contribuyentes ahí señalados, el 50 por ciento de los recargos y multas que se hayan generado hasta que se efectúe el pago correspondiente.
+En el supuesto del párrafo tercero del artículo 19 de ésta Ley, se cobrará a los contribuyentes ahí señalados, el 50 por ciento de los recargos y multas que se hayan generado hasta que se efectúe el pago correspondiente.
 
 ###### ARTICULO 121.
 
@@ -2803,6 +2803,12 @@ AÑO 2003 2004 2005 2006 2007
 
 BASE 60% 70% 80% 90% 100%
 
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2006)</small>
+
+###### ARTICULO SEPTIMO.
+
+Para el ejercicio fiscal 2006, se amplia el plazo hasta el 30 de Abril del citado año, para los casos a que se refiere el Artículo 19 de la presente Ley.
+
 El Gobernador del Estado dispondrá se imprima, publique, circule y observe.
 
 Dado en el Recinto Oficial del Poder Legislativo a los once días del mes de noviembre del año dos mil dos.
@@ -2854,3 +2860,7 @@ P.O. 18 DE FEBRERO DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 4 DE ABRIL DE 2006.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
