@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "2005-07-11"
+last_updated: "2006-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE JULIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 5 DE ABRIL DE 2006.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -199,9 +199,9 @@ Son derechos y prerrogativas del ciudadano sonorense:
 
 I. Votar en las elecciones populares y en los procesos de participación ciudadana, en los términos que señalen las leyes respectivas.
 
-(REFORMADA, B.O. 23 DE OCTUBRE DE 2003) (REPUBLICADA, B.O. 15 DE MARZO DE 2004)
+> <small>(REFORMADA, B.O. 5 DE ABRIL DE 2006)</small>
 
-II. Ser votado para los cargos de elección popular del Estado y los municipios en igualdad de oportunidades y equidad entre las mujeres y los hombres; así como ser nombrado para desempeñar cualquier otro empleo, cargo o comisión.
+II. Poder ser votado para los cargos de elección popular en el Estado y los municipios y nombrado para cualquier otro empleo o comisión en igualdad de oportunidades y equidad entre mujeres y hombres, salvo las modalidades y excepciones que se encuentran previstas en esta Constitución.
 
 > <small>(REFORMADA, B.O. 19 DE FEBRERO DE 1977)</small>
 
@@ -481,7 +481,7 @@ Para ser diputado propietario o suplente al Congreso del Estado se requiere:
 
 I. Ser ciudadano sonorense en ejercicio de sus derechos políticos.
 
-II. Tener veintiún años cumplidos, por lo menos, el día de la elección.
+II. (DEROGADA, B.O. 5 DE ABRIL DE 2006)
 
 > <small>(REFORMADA, B.O. 30 DE ENERO DE 1984)</small>
 
@@ -1067,9 +1067,7 @@ I. Ser mexicano por nacimiento, hijo de padres mexicanos y nativo del Estado; y 
 
 II. Ser ciudadano del Estado en pleno ejercicio de sus derechos políticos.
 
-> <small>(REFORMADA, B.O. 23 DE DICIEMBRE DE 1972)</small>
-
-III. Tener treinta años cumplidos, por lo menos, el día de la elección.
+III. (DEROGADA, B.O. 5 DE ABRIL DE 2006)
 
 IV. No pertenecer al estado eclesiástico ni ser ministro de ningún culto.
 
@@ -1327,9 +1325,9 @@ Habrá un Secretario de Gobierno, quien tendrá las facultades y obligaciones qu
 
 Los Subsecretarios de Gobierno auxiliarán en sus funciones y suplirán en sus ausencias temporales al Secretario de Gobierno y tendrán las facultades y obligaciones que les señale la Ley Orgánica del Poder Ejecutivo.
 
-> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, B.O. 5 DE ABRIL DE 2006)</small>
 
-Artículo 81 A. Para ser Secretario de Gobierno se deben reunir los mismos requisitos que para ser Gobernador del Estado. Para ser Secretario de Despacho, se requiere ser mexicano por nacimiento, mayor de treinta años de edad y estar en ejercicio de sus derechos.
+Artículo 81 A. Para ser Secretario de Gobierno deben reunirse los mismos requisitos que para ser Gobernador del Estado. Para ser Secretario de Despacho se requiere ser mexicano por nacimiento, estar en ejercicio de sus derechos y acreditar que, después de haber adquirido la ciudadanía, durante un plazo mínimo de cinco años, se ha desempeñado en la academia, ha ejercido una profesión liberal o técnica, un oficio privado o un cargo público.
 
 > <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
@@ -1621,13 +1619,21 @@ Los nombramientos de los magistrados del Supremo Tribunal de Justicia serán hec
 
 En el caso de que el Congreso no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Gobernador hará un tercer nombramiento que surtirá sus efectos desde luego, como provisional, y que será sometido a la aprobación del Congreso en el siguiente período ordinario de sesiones. En este período ordinario de sesiones, dentro de los primeros tres días, el Congreso deberá aprobar o reprobar el nombramiento y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente, continuará en sus funciones con el carácter de definitivo. Si el Congreso rechaza el nombramiento, cesará desde luego en sus funciones de Magistrado Provisional y el Gobernador del Estado someterá nuevo nombramiento, para su aprobación en los términos señalados.
 
-> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, B.O. 5 DE ABRIL DE 2006)</small>
 
 ###### Artículo 114.
 
-Para ser Magistrado del Supremo Tribunal de Justicia se requiere reunir los requisitos señalados en las fracciones I a V del artículo 95 de la Constitución Política de los Estados Unidos Mexicanos. No podrán ser Magistrados del Supremo Tribunal de Justicia, las personas que hayan ocupado en el Estado el cargo de Secretario o su equivalente en la administración pública estatal, de Procurador General de Justicia o de Diputado local, durante el año previo al día de su designación.
+Para ser Magistrado del Supremo Tribunal de Justicia se requiere:
 
-Los Magistrados del Supremo Tribunal de Justicia se distinguirán entre sí por el calificativo numérico que corresponda al orden en que hayan sido designados.
+I.- Ser mexicano por nacimiento y estar en pleno ejercicio de sus derechos políticos y civiles;
+
+II.- Contar con título profesional de licenciado en derecho, expedido por autoridad o institución legalmente facultada para ello, y contar con una experiencia mínima de 5 años en el ejercicio de dicha profesión al día de la designación;
+
+III.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
+
+IV.- Haber residido en el Estado durante los dos años anteriores al día de la designación y, no siendo originario de Sonora, haber residido en el Estado durante los cinco años inmediatamente anteriores al día de la designación; y
+
+V.- No haber ocupado el cargo de Secretario o su equivalente en la administración pública estatal, de Procurador General de Justicia o de diputado local, durante el año previo al día de su designación.
 
 > <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
 
@@ -1711,23 +1717,25 @@ Los Magistrados del Supremo Tribunal de Justicia, los Magistrados Regionales de 
 
 La ley establecerá las bases para la formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, profesionalismo, imparcialidad, independencia y antigüedad, en su caso, y bajo los criterios de igualdad de oportunidades, méritos y capacidad.
 
-> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, B.O. 5 DE ABRIL DE 2006)</small>
 
 ###### Artículo 125.
 
-Para ser Magistrado Regional de Circuito se requiere ser ciudadano mexicano en pleno ejercicio de sus derechos, mayor de treinta años, gozar de buena reputación, no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año, contar con título de Licenciado en Derecho expedido legalmente y práctica profesional, de cuando menos cinco años; además se deberá observar lo que prevenga la ley de la materia para la carrera judicial.
+Para ser Magistrado Regional de Circuito se requiere ser ciudadano mexicano en pleno ejercicio de sus derechos, gozar de buena reputación, no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año, contar con título de Licenciado en Derecho expedido legalmente y práctica profesional, de cuando menos cinco años; además se deberá observar lo que prevenga la ley de la materia para la carrera judicial.
 
-> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, B.O. 5 DE ABRIL DE 2006)</small>
 
 ###### Artículo 126.
 
-Para ser Juez de Primera Instancia se requiere ser ciudadano mexicano en pleno ejercicio de sus derechos, mayor de veintiséis años, contar con título de Licenciado en Derecho expedido legalmente, un mínimo de tres años de ejercicio profesional, gozar de buena reputación y no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año.
+Para ser Juez de Primera Instancia se requiere ser ciudadano mexicano en pleno ejercicio de sus derechos, contar con título de Licenciado en Derecho expedido legalmente, un mínimo de tres años de ejercicio profesional, gozar de buena reputación y no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año.
 
-> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 5 DE ABRIL DE 2006)</small>
 
 ###### Artículo 127.
 
-Para ser Juez Local se requiere ser ciudadano mexicano en pleno ejercicio de sus derechos, mayor de veintiún años, gozar de buena reputación, no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año y tener la competencia necesaria para el desempeño del cargo, a juicio del Juez que lo nombre.
+Para ser Juez Local se requiere ser ciudadano mexicano en pleno ejercicio de sus derechos, gozar de buena reputación, no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año y tener la competencia necesaria para el desempeño del cargo, a juicio del Juez que lo nombre.
+
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
 
 Los jueces locales serán nombrados cada dos años por los Jueces de Primera Instancia. El nombramiento será sometido a la aprobación del Pleno del Supremo Tribunal de Justicia.
 
@@ -1785,9 +1793,7 @@ III. No desempeñar ningún cargo público en el Municipio donde se hace la elec
 
 IV. No haber sido condenado por la Comisión de un delito intencional, aún cuando se haya cumplido la condena o extinguido la pena.
 
-> <small>(ADICIONADA, B.O. 8 DE NOVIEMBRE DE 1993)</small>
-
-V. En el caso del Presidente Municipal y el Síndico, tener 21 años cumplidos; tratándose de los Regidores, tener 18 años cumplidos.
+V. (DEROGADA, B.O. 5 DE ABRIL DE 2006)
 
 > <small>(REFORMADA, B.O. 7 DE OCTUBRE DE 2004)</small>
 
@@ -3018,6 +3024,18 @@ Las referencias de otras disposiciones legales y reglamentarias o administrativa
 ###### ARTICULO CUARTO.
 
 El Congreso del Estado expedirá la legislación secundaria que corresponda a estas disposiciones constitucionales dentro de un plazo no mayor a seis meses contado desde la fecha en que entre en vigor la presente Ley.
+
+B.O. 5 DE ABRIL DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado, previo cómputo que se realice de la aprobación o rechazo que emitan los ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente ley para los efectos dispuestos por el artículo 163 de la Constitución Política Local.
+
+Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto de que lleve el cómputo respectivo y la remita al Titular del Poder Ejecutivo en caso de resultar aprobada, para su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones normativas de naturaleza inferior que se opongan a la presente reforma constitucional.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
 
