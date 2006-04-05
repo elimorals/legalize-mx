@@ -4,7 +4,7 @@ identifier: "NLE-ley-estatal-de-prevencion-y-combate-al-abuso-del-alcohol-33777"
 country: "mx"
 rank: "ley"
 publication_date: "2003-09-10"
-last_updated: "2006-02-10"
+last_updated: "2006-04-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ESTATAL DE PREVENCION Y COMBATE AL ABUSO DEL ALCOHOL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 10 de septiembre de 2003.
 
@@ -423,11 +423,9 @@ En caso de reincidencia, se duplicará el monto de la multa impuesta previamente
 
 En el caso de incurrir nuevamente en la violación se aplicará una multa igual que la determinada en el párrafo anterior y se clausurará el establecimiento;
 
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2006)</small>
 
-V. Por incumplimiento a lo dispuesto por el Artículo 16, fracción II, multa de 250 a 1,500 cuotas y en el caso de la fracción VII, multa de 500 a 1500 cuotas, dándose vista a la autoridad competente para que proceda a sancionar conforme al Reglamento correspondiente.
-
-En caso de reincidencia se duplicará el monto de la multa impuesta previamente; en caso particular de reincidencia en la fracción VII por tercera ocasión se procederá al decomiso del producto, de presentarse reincidencia por cuarta ocasión ocasionará la clausura temporal del establecimiento o del establecimiento cuya actividad preponderante sea la preparación, expendio, venta y consumo de alimentos y para una quinta reincidencia se procederá a la clausura definitiva del establecimiento o del establecimiento cuya actividad preponderante sea la preparación expendio, venta y consumo de alimentos;
+V. Por incumplimiento a lo dispuesto por el Artículo 16, fracción II, multa de 250 a 1,500 cuotas. En caso de reincidencia se duplicará el monto de la multa impuesta previamente;
 
 VI. Por incumplimiento a lo dispuesto por el Artículo 16, fracciones I, III, IV, V y VI, multa de 50 a 200 cuotas. En caso de reincidencia se duplicará el monto de la multa impuesta previamente;
 
@@ -616,3 +614,7 @@ Artículo Tercero.- El Ejecutivo del Estado y las autoridades municipales en el 
 Artículo Cuarto.- El Ejecutivo del Estado deberá expedir en un plazo no mayor a 90 días hábiles contados a partir de la entrada en vigor del presente Decreto el Reglamento del Consejo Estatal de Salud, en el cual deberán regularse las funciones del Consejo y sus Comisiones, así como la integración de éstas.
 
 Artículo Quinto.- Se concede a las personas físicas y morales que transporten con fines comerciales bebidas alcohólicas dentro del Estado de Nuevo León, un plazo de 60 días hábiles a partir de la entrada en vigor del presente Decreto, para obtener la Autorización de Transporte de Bebidas Alcohólicas expedida por la Secretaría de Salud, en los términos de las disposiciones de este Decreto.
+
+P.O. 5 DE ABRIL DE 2006.
+
+Artículo único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
