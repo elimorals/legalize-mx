@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-control-sanitario-de-productos-y-servicios-14576"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-09"
-last_updated: "1999-08-09"
+last_updated: "2006-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14576&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1999-07-29"
 
 REGLAMENTO DE CONTROL SANITARIO DE PRODUCTOS Y SERVICIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE ABRIL DE 2006.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 9 de agosto de 1999.
 
@@ -894,6 +894,10 @@ Para efectos de este Reglamento, dentro de las bebidas no alcohólicas, producto
 I. Aguas envasadas;
 
 II. Bebidas saborizadas no alcohólicas;
+
+> <small>(ADICIONADA, D.O.F. 6 DE ABRIL DE 2006)</small>
+
+II. Bis. Bebidas adicionadas con cafeína, entendidas éstas como aquéllas que contienen más de 20 miligramos de cafeína por 100 mililitros de producto;
 
 III. Congelados de las anteriores;
 
@@ -3169,7 +3173,7 @@ VI.4.7. El abdomen será terso, sin diferencia externa con la línea ventral; al
 
 VI.4.8. Los músculos presentarán elasticidad marcada, firmemente adheridos a los huesos y que no se desprendan de ellos al ejercer presión digital; con el color natural característico, al primer corte; y con el color propio con superficie de corte brillante.
 
-VI.5. El flujo de productos deberá ser continuo, sin demoras, ni almacenajes intermedios, ni descongelamiento y congelamiento durante una línea de proceso con el fin de mantener la calidad sanitaria, de acuerdo con las características propias del producto y del proceso, así como con su riesgo sanitario.
+VI.5. El flujo de productos deberá ser continuo, sin demoras, ni almacen ajes intermedios, ni descongelamiento y congelamiento durante una línea de proceso con el fin de mantener la calidad sanitaria, de acuerdo con las características propias del producto y del proceso, así como con su riesgo sanitario.
 
 VI.6. Los crustáceos muertos, frescos deberán presentar las siguientes características:
 
@@ -3385,7 +3389,7 @@ VI.48. El tratamiento térmico o esterilización de los productos enlatados debe
 
 VI.49. En la elaboración de la harina de pescado, además del pescado, podrán utilizarse partes aprovechables de moluscos, crustáceos u otras especies acuáticas, destinadas al consumo humano, las cuales deberán cumplir con los requisitos sanitarios establecidos para dichos productos.
 
-VI.50. El área de empaque de los establecimientos que se dedican a la refrigeración y congelación de productos de la pesca, deberá mantenerse a una temperatura máxima de 15°C.
+VI.50. El á rea de empaque de los establecimientos que se dedican a la refrigeración y congelación de productos de la pesca, deberá mantenerse a una temperatura máxima de 15°C.
 
 VI.51. Los embalajes diseñados para ser reutilizados, deberán sanearse antes de volverse a usar.
 
@@ -4037,9 +4041,9 @@ IX.7.2. Contaminantes:
 
 a. Aflatoxinas 15 µg/kg, y
 
-IX.7.3.Microbiológicas:
+IX.7.3. Microbiológicas:
 
-a.No deberán contener microorganismos patógenos.
+a. No deberán contener microorganismos patógenos.
 
 IX.8. Las botanas elaboradas con semillas deberán cumplir con las siguientes especificaciones:
 
@@ -4047,19 +4051,19 @@ IX.8.1. Fisicoquímicas:
 
 MÁXIMO
 
-a.Humedad en semillas secas 7,0 %,
+a. Humedad en semillas secas 7,0 %,
 
-b.Humedad en castañas secas 8,5 %,
+b. Humedad en castañas secas 8,5 %,
 
-c.Humedad en garbanzos secos 11,0 %,
+c. Humedad en garbanzos secos 11,0 %,
 
-d.Humedad en habas secas 12,0 %,
+d. Humedad en habas secas 12,0 %,
 
-e.Acidez como ácido cítrico,
+e. Acidez como ácido cítrico,
 
 en su caso 1,0% y
 
-f.Indice de peróxido 70 meq/kg;
+f. Indice de peróxido 70 meq/kg;
 
 IX.8.2. Contaminantes:
 
@@ -4461,13 +4465,13 @@ XII.8. Los caldos o consomés deshidratados no deberán exceder los límites mic
 
 MÁXIMO
 
-XII.8.1.Mesofílicos aerobios 500 000 UFC/g;
+XII.8.1. Mesofílicos aerobios 500 000 UFC/g;
 
-XII.8.2.Coliformes totales 100 UFC/g
+XII.8.2. Coliformes totales 100 UFC/g
 
-XII.8.3.Staphylococcus aureus 100 UFC/g, y
+XII.8.3. Staphylococcus aureus 100 UFC/g, y
 
-XII.8.4.Salmonella spp Negativa en 25g.
+XII.8.4. Salmonella spp Negativa en 25g.
 
 XII.9. En las sopas que contengan ingredientes que hayan sido tratados con dióxido de azufre (SO2) u otras sustancias sulfurantes, la cantidad residual en el producto listo para su consumo no deberá exceder de 20mg/l como SO2.
 
@@ -5039,7 +5043,7 @@ a. Autobronceador, al producto que produce una pigmentación temporal similar al
 
 b. Bloqueador solar, al producto que se aplica a la piel produciendo una capa continua cuya finalidad es impedir el paso de las radiaciones solares,
 
-c. Bronceador, al producto que acelera la pigmentación de la piel, por efecto de los rayos solares, mezclados o no, adicionados o no de filtros solares y
+c. Bronceador, al producto que acelera la pigmentación de la piel, por efecto de los rayos solares, mezclados o no, adicionados o no de filtros sol ares y
 
 d. Protector o filtro solar, al producto que contiene uno o más filtros solares en un vehículo que determina su presentación y que se aplica a la piel, y produce una película para prevenir o disminuir los efectos perjudiciales de la radiación solar o coadyuvar con el bronceado de la piel, sin ningún efecto adverso sobre ésta;
 
@@ -5287,7 +5291,7 @@ XXIII.2. La radiación ionizante aplicable a los productos, materias primas y ad
 
 XXIII.2.1. De rayos gamma, provenientes de fuentes selladas conteniendo el isótopo Cobalto 60 (Co-60) o el isótopo Cesio 137 (Cs-137);
 
-XXIII.2.2. De haz de electrones, generados por un acelerador de electrones a niveles de energía que no excedan de 10 millones de electrón-volts(10 Mev), y
+XXIII.2.2. De haz de electrones, generados por un acelerador de electrones a niveles de energía que no excedan de 10 millones de electrón-volts (10 Mev), y
 
 XXIII.2.3. De rayos X, generados por máquinas que trabajen a energías de 5 millones de electrón-volts (5 Mev), o inferiores.
 
@@ -5314,3 +5318,13 @@ XXIII.3.8. La dosimetría;
 XXIII.3.9. La distribución de la dosis en el producto, y
 
 XXIII.3.10. La fecha de irradiación.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 6 DE ABRIL DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto se atenderán hasta su conclusión conforme a las disposiciones vigentes al momento de su presentación.
+
+TERCERO.- Se establece un plazo de cuatro meses a partir de la entrada en vigor del presente Decreto para incluir en el etiquetado de las bebidas adicionadas con cafeína a que se refiere la fracción II Bis del artículo 101 del Reglamento de Control Sanitario de Productos y Servicios, el término "bebidas adicionadas con cafeína", conforme a lo establecido por el artículo 25 del mismo Reglamento.
