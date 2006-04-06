@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-de-salud-en-materia-de-16088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-05-04"
-last_updated: "2000-05-04"
+last_updated: "2006-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16088&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-05-02"
 
 REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE PUBLICIDAD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE ABRIL DE 2006.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 4 de mayo de 2000.
 
@@ -831,13 +831,15 @@ Requiere presentar aviso ante la Secretaría la publicidad relativa a:
 
 I. Actividades profesionales, técnicas, auxiliares y las especialidades a que se refiere el Capítulo I del Título Cuarto de la Ley;
 
-II. Alimentos;
+II. (DEROGADA, D.O.F. 6 DE ABRIL DE 2006)
 
-III. Bebidas no alcohólicas;
+> <small>(REFORMADA, D.O.F. 6 DE ABRIL DE 2006)</small>
+
+III. Bebidas adicionadas con cafeína, a las que se refiere el Reglamento de Control Sanitario de Productos y Servicios;
 
 IV. Insumos para la salud, cuando se dirija a profesionales de la salud, y
 
-V. Productos de perfumería y belleza y de aseo.
+V. (DEROGADA, D.O.F. 6 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 87.
 
@@ -1086,3 +1088,13 @@ QUINTO. Los permisos de publicidad expedidos con anterioridad a la vigencia del 
 SEXTO. El Consejo Consultivo de la Publicidad sesionará por primera vez a los noventa días contados a partir de la entrada en vigor del presente Reglamento y expedirá su Reglamento Interno en un plazo de sesenta días contados a partir de la primera vez en que se reúna.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dos días del mes de mayo de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Salud, José Antonio González Fernández.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 6 DE ABRIL DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto se atenderán hasta su conclusión conforme a las disposiciones vigentes al momento de su presentación.
+
+TERCERO.- Se establece un plazo de cuatro meses a partir de la entrada en vigor del presente Decreto para incluir en el etiquetado de las bebidas adicionadas con cafeína a que se refiere la fracción II Bis del artículo 101 del Reglamento de Control Sanitario de Productos y Servicios, el término "bebidas adicionadas con cafeína", conforme a lo establecido por el artículo 25 del mismo Reglamento.
