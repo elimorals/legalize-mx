@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-investigaciones-228
 country: "mx"
 rank: "estatuto"
 publication_date: "2002-01-15"
-last_updated: "2005-12-13"
+last_updated: "2006-04-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22830&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-12-13"
 
 ESTATUTO ORGANICO DEL INSTITUTO NACIONAL DE INVESTIGACIONES FORESTALES, AGRICOLAS Y PECUARIAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE ABRIL DE 2006.
 
 Estatuto publicado el la Primera Sección del Diario Oficial de la Federación, el martes 15 de enero de 2002.
 
@@ -51,8 +51,6 @@ En tal sentido, las atribuciones que se plantean en el estatuto pretenden manten
 
 Que en dicho contexto el Instituto ha tenido a bien expedir el siguiente Estatuto Orgánico del Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias.
 
-> <small>N. DE E. LAS REFORMAS APROBADAS EN LA 10a. REUNION EXTRAORDINARIA POR LA H. JUNTA DE GOBIERNO DEL INSTITUTO NACIONAL DE INVESTIGACIONES FORESTALES, AGRICOLAS Y PECUARIAS, MODIFICO DE MANERA SUSTANCIAL PRACTICAMENTE TODO EL TEXTO DEL ESTATUTO, DANDO COMO RESULTADO UN TEXTO DIFERENTE AL ORIGINAL, Y SI BIEN DIVERSOS ARTICULOS QUEDARON INTACTOS POR LA REFORMA, DEBIDO A LO ANTERIOR SE CONSERVA EL TEXTO APROBADO Y PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION DE 13 DE DICIEMBRE DE 2005.</small>
-
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 ESTATUTO ORGANICO DEL INSTITUTO NACIONAL DE INVESTIGACIONES FORESTALES, AGRICOLAS Y PECUARIAS
@@ -73,11 +71,17 @@ El Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias, es 
 
 Para los efectos de este ordenamiento se entiende por:
 
-I. Ley, la Ley Federal de las Entidades Paraestatales;
+> <small>(REFORMADA, D.O.F. 6 DE ABRIL DE 2006)</small>
 
-II. Ley de Ciencia y Tecnología;
+I. Ley, la Ley de Ciencia y Tecnología;
 
-III. Reglamento, al Reglamento de la Ley Federal de las Entidades Paraestatales;
+> <small>(REFORMADA, D.O.F. 6 DE ABRIL DE 2006)</small>
+
+II. LEFEP, la Ley Federal de las Entidades Paraestatales;
+
+> <small>(REFORMADA, D.O.F. 6 DE ABRIL DE 2006)</small>
+
+III. RLEFEP, al Reglamento de la Ley Federal de las Entidades Paraestatales;
 
 IV. Coordinadora de sector, a la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
 
@@ -85,11 +89,11 @@ V. Instituto, al Instituto Nacional de Investigaciones Forestales, Agrícolas y 
 
 VI. Decreto, al decreto de creación del Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias.
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 6 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 3o.
 
-Este ordenamiento jurídico contiene las atribuciones y funciones de cada una de las Unidades Administrativas que conforman los primeros niveles de la estructura central y foránea del Instituto, así como las funciones previstas en la Ley, el Reglamento, el Decreto y demás disposiciones aplicables.
+Este ordenamiento jurídico contiene las atribuciones y funciones de cada una de las Unidades Administrativas que conforman los primeros niveles de la estructura central y foránea del Instituto, así como las funciones previstas en la Ley, Decreto, de manera supletoria la LEFEP y RLEFEP en términos de lo previsto por el artículo 53 de la Ley y demás disposiciones aplicables.
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
@@ -143,11 +147,11 @@ XX. Las demás actividades relacionadas con la investigación básica o aplicada
 
 Quedan exceptuadas de lo dispuesto por este artículo, salvo convenio expreso con la Secretaría de Medio Ambiente y Recursos Naturales, las atribuciones relacionadas con la investigación en materia de recursos forestales que constituyan especies y poblaciones en riesgo y prioritarias para la conservación, referidas en los artículos 1o., segundo párrafo, 56 y 58 de la Ley General de Vida Silvestre, así como aquellas cuya importación, exportación y tránsito por el territorio nacional estén regulados por la Ley General del Equilibrio Ecológico y la Protección al Ambiente y las convenciones internacionales de las que México sea parte.
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 6 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 5o.
 
-Las atribuciones del artículo anterior son sin perjuicio de las que le confiere la Ley, el Reglamento, el Decreto y demás disposiciones aplicables.
+Las atribuciones del artículo anterior son sin perjuicio de las que le confiere la Ley, Decreto, de manera supletoria la LEFEP y RLEFEP en términos de lo previsto por el artículo 53 de la Ley.
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
@@ -177,9 +181,13 @@ a. Unidad Jurídica
 
 b. Organo Interno de Control
 
-V. Direcciones de área Foráneas:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 6 DE ABRIL DE 2006)</small>
 
-a. Ocho Centros de Investigación Regional
+V. Dirección:
+
+> <small>(REFORMADA, D.O.F. 6 DE ABRIL DE 2006)</small>
+
+a. Unidad de Apoyo Técnico
 
 b. Cinco Centros Nacionales de Investigación Disciplinaria
 
@@ -191,7 +199,25 @@ e. Ocho de Administración
 
 f. Veinticuatro de Coordinación y Vinculación Estatal
 
-VI. Los titulares de los puestos señalados en los puntos del II al V, para el cabal cumplimiento de sus atribuciones, se podrán auxiliar de los directores, subdirectores, jefes de departamento y personal de apoyo autorizados de acuerdo a la estructura y plantilla de personal.
+> <small>(REFORMADA, D.O.F. 6 DE ABRIL DE 2006)</small>
+
+VI. Direcciones de área Foráneas
+
+a. Centros de Investigación Regional
+
+b. Centros Nacionales de Investigación Disciplinaria
+
+c. De Investigación
+
+d. De Planeación y Desarrollo
+
+e. De Administración
+
+f. De Coordinación y Vinculación Estatal
+
+> <small>(ADICIONADA, D.O.F. 6 DE ABRIL DE 2006)</small>
+
+VII. Los titulares de los puestos señalados en los puntos II al VI, para el cabal cumplimiento de sus atribuciones, se podrán auxiliar de los directores, subdirectores, jefes de departamento y personal de apoyo autorizados de acuerdo a la estructura y plantilla de personal.
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
@@ -209,11 +235,11 @@ Las relaciones laborales del Instituto con sus empleados se regirán por lo disp
 
 La Junta de Gobierno se integrará en los términos previstos en su decreto de creación.
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 6 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 9o.
 
-La Junta de Gobierno del Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias, tendrá las facultades indelegables que le confiere los artículos 58 de la Ley Federal de las Entidades Paraestatales, 56 de la Ley de Ciencia y Tecnología y su decreto de creación.
+La Junta de Gobierno del Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias, tendrá las facultades indelegables que le confiere los artículos 56 de la Ley, Decreto, de manera supletoria el 58 de la LEFEP en términos de lo previsto por el artículo 53 de la Ley.
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
@@ -265,99 +291,167 @@ A las reuniones de la Junta de Gobierno podrán asistir, como invitados con voz 
 
 El Director General del Organismo, el Secretario y el Prosecretario de la Junta de Gobierno asistirán a las reuniones con voz pero sin voto.
 
-Lo no previsto en el presente artículo, será resuelto de conformidad con lo dispuesto en la Ley, el Reglamento, el Decreto y los Lineamientos para su funcionamiento que autorice la misma Junta de Gobierno.
+> <small>(REFORMADO, D.O.F. 6 DE ABRIL DE 2006)</small>
+
+Lo no previsto en el presente artículo, será resuelto de conformidad con lo dispuesto en la Ley, Decreto, de manera supletoria la LEFEP y RLEFEP en términos de lo previsto por el artículo 53 de la Ley, así como los Lineamientos para su funcionamiento que autorice la misma Junta de Gobierno.
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO QUINTO. DEL DIRECTOR GENERAL
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 6 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 12o.
 
-El Director General del Instituto, sin perjuicio de las facultades y obligaciones previstas en los artículos 22 y 59 de la Ley Federal de las Entidades Paraestatales y demás disposiciones jurídicas y administrativas aplicables, estará facultado expresamente para:
+El Director General del Instituto, sin perjuicio de las facultades y obligaciones previstas de manera supletoria en los artículos 22 y 59 de la LEFEP en términos de lo previsto por el artículo 53 de la Ley y demás disposiciones jurídicas y administrativas aplicables, estará facultado expresamente para:
+
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 I. Adscribir orgánicamente las áreas administrativas del Instituto, así como expedir el Manual de Organización, necesario para el funcionamiento del Instituto;
 
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
+
 II. Expedir las condiciones generales de trabajo del Instituto con la intervención que legalmente le corresponda al Sindicato;
+
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 III. Nombrar y remover al personal del Instituto cuya aprobación no sea de la competencia de la Junta de Gobierno;
 
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
+
 IV. Informar en términos de las disposiciones jurídicas y administrativas aplicables, al Titular de la Coordinadora Sectorial y a la Junta de Gobierno del Instituto sobre los asuntos de competencia de éste;
+
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 V. Dirigir el Proceso de Planeación Estratégica del Instituto;
 
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
+
 VI. Establecer el Plan Estratégico en el Instituto y alinearlo a la estrategia del Sistema Nacional de Investigación y Transferencia Tecnológica para el Desarrollo Rural Sustentable (SNITT), así como con el Programa Nacional de Investigación y Desarrollo Tecnológico Forestal;
+
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 VII. Asegurar en términos operativos la congruencia y vinculación del Plan estratégico y operativo institucional con los planes operativos de los Centros Nacionales de Investigación Disciplinaria y Centros de Investigación Regional;
 
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
+
 VIII. Determinar los compromisos que asumen de manera específica las Coordinaciones de la estructura central, los Centros Nacionales de Investigación Disciplinaria y Centros de Investigación Regional, con el Plan estratégico sus componentes, visión, misión, objetivos estratégicos, líneas estratégicas, indicadores y metas;
+
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 IX. Establecer mecanismos que permitan evaluar el comportamiento operativo de los planes estratégicos y operativos de los Centros Nacionales de Investigación Disciplinaria y Centros de Investigación Regional y asegurar su congruencia y alineamiento con el Plan estratégico y sus componentes;
 
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
+
 X. Implementar lineamientos, políticas, metodologías y criterios que en materia de administración deben observar las áreas centrales y unidades administrativas foráneas del Instituto, que aseguren su cumplimiento y congruencia con las disposiciones jurídicas aplicables, el plan estratégico y planes operativos;
+
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 XI. Determinar que los planes operativos de los Centros Nacionales de Investigación Disciplinaria y Centros de Investigación Regional establezcan la vinculación con el plan estratégico y sus componentes y vigilar y evaluar su cumplimiento;
 
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
+
 XII. Evaluar el desempeño de los Centros Nacionales de Investigación Disciplinaria y Centros de Investigación Regional en el cumplimiento de sus planes operativos, programas y presupuestos de corto, mediano y largo plazo, e instruir en su caso las modificaciones o ajustes a los mismos;
+
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 XIII. Determinar estrategias que favorezcan la coordinación y vinculación con instituciones públicas, privadas y con la sociedad, que permitan la creación de instancias de liderazgo, conducción e integración de esfuerzos e instruir su implementación en el nivel central y foráneo;
 
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
+
 XIV. Establecer las políticas a que se deben sujetar los procesos productivos, líneas de investigación, estándares de calidad, utilización de nuevas tecnologías y materiales, procesos de producción de bienes y servicios en el Instituto, así como controlar y evaluar su cumplimiento;
+
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 XV. Establecer mecanismos de coordinación institucional que propicien y aseguren la vinculación entre los Centros Nacionales de Investigación Disciplinaria y Centros de Investigación Regional y de éstos con el nivel central, así como la articulación y coherencia de éstos con los programas y proyectos institucionales;
 
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
+
 XVI. Establecer políticas y lineamientos a que quedarán sujetos los programas y proyectos institucionales, así como proveer a su cumplimiento;
+
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 XVII. Instrumentar y supervisar el cumplimiento de programas de modernización, desconcentración y simplificación administrativa;
 
-XVIII. En concordancia con los lineamientos generales y específicos que en materia de gasto establezcan las autoridades c (sic)
+> <small>(REFORMADA, D.O.F. 6 DE ABRIL DE 2006)</small>
+
+XVIII.- En concordancia con los lineamientos generales y específicos que en materia de gasto establezcan las autoridades normativas y fiscalizadoras, establecer los criterios de formulación del presupuesto del Instituto;
+
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 XIX. Las demás que se deriven de los acuerdos de la Junta de Gobierno, las que el Titular de la Coordinadora Sectorial le encomiende y todas aquellas necesarias para dar cabal cumplimiento a las anteriores.
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 6 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 13o.
 
-El Director General dispondrá de asesoría y del personal técnico y administrativo que requiera para la atención de los asuntos de su competencia, conforme a los presupuestos y tabuladores aprobados. Así mismo designará un Secretario Particular, quien desempeñará las funciones que le encomiende.
+El Director General contará con una Unidad de Apoyo Técnico para la atención de los asuntos de su competencia, conforme a los presupuestos y tabuladores aprobados.
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO SEXTO. DE LAS UNIDADES ADMINISTRATIVAS
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 6 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 14o.
 
-Los Coordinadores, Directores Generales Adjuntos, Directores de Centro de Investigación Regional y Directores de Centro Nacional de Investigación Disciplinaria, para el efecto de cumplir y desarrollar su función tendrán en lo que corresponda las siguientes atribuciones genéricas:
+Los Coordinadores, Directores Generales Adjuntos, Unidad de Apoyo Técnico, Directores de Centro de Investigación Regional y Directores de Centro Nacional de Investigación Disciplinaria, para el efecto de cumplir y desarrollar su función tendrán en lo que corresponda las siguientes atribuciones genéricas:
+
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 I. Asistir a las reuniones de la Junta de Gobierno, con voz pero sin voto, a indicación del Director General;
 
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
+
 II. Asistir a las reuniones del Comité de Control de Auditoría, con voz pero sin voto, a indicación del Director General;
+
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 III. Solicitar la incorporación de asuntos de su competencia, en el orden del día de la Junta de Gobierno y del Comité de Control de Auditoría;
 
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
+
 IV. Plantear políticas y criterios, así como coordinar y recopilar las opiniones y sugerencias que realice el personal a su cargo, relacionados con el área de su competencia para coadyuvar a la mejor realización de la misión y objetivos del Instituto;
+
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 V. Cumplir y vigilar que se cumpla con las disposiciones legales, administrativas y de control de los asuntos de su competencia;
 
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
+
 VI. Proponer el nombramiento y remoción de su personal de apoyo, así como de los servidores públicos de las unidades subalternas de su adscripción;
+
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 VII. Suscribir los documentos relativos al ejercicio de sus facultades y aquellos que le sean señalados por delegación, poder o les correspondan por suplencia;
 
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
+
 VIII. Acordar y suscribir los convenios y contratos relativos a su competencia, de conformidad con las disposiciones y lineamientos que fije el Director General;
+
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 IX. Coordinarse con las diferentes áreas técnicas, administrativas, jurídicas y de control del Instituto que tengan relación con sus atribuciones específicas;
 
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
+
 X. Participar en la formulación del anteproyecto del programa del presupuesto anual conforme a los lineamientos establecidos y una vez aprobado, verificar su correcta y oportuna ejecución;
+
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 XI. Expedir las certificaciones de los documentos que obren en las Unidades Administrativas de su jurisdicción o competencia;
 
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
+
 XII. Todas aquellas necesarias y relativas al debido cumplimiento de la misión y objetivos del Instituto, relacionadas con su competencia;
+
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 XIII. Las demás que le asignen el Director General, las normas y disposiciones aplicables.
 
-Los titulares de las Coordinaciones de las Direcciones Generales Adjuntas, de los Centros de Investigación Regional y de los Centros Nacionales de Investigación Disciplinaria, acordarán con el Director General el despacho de los asuntos de su competencia.
+> <small>(REFORMADO, D.O.F. 6 DE ABRIL DE 2006)</small>
+
+Los titulares de las Coordinaciones de las Direcciones Generales Adjuntas, Unidad de Apoyo Técnico, de los Centros de Investigación Regional y de los Centros Nacionales de Investigación Disciplinaria, acordarán con el Director General el despacho de los asuntos de su competencia.
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
@@ -593,7 +687,9 @@ II. Imponer sanciones;
 
 III. Realizar la defensa jurídica de las resoluciones;
 
-IV. Implementar el sistema integral de control;
+> <small>(REFORMADA, D.O.F. 6 DE ABRIL DE 2006)</small>
+
+IV. Implementar el Sistema Integral de Control Gubernamental y coadyuvar con el Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias a su debido funcionamiento;
 
 V. Vigilar el cumplimiento de las normas de control;
 
@@ -604,6 +700,30 @@ VII. Brindar la asesoría que se le requiera en el ámbito de su competencia;
 VIII. Requerir a las unidades administrativas información;
 
 IX. Todas las demás que establecen la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y el Reglamento Interior de la Secretaría de la Función Pública.
+
+> <small>(ADICIONADO, D.O.F. 6 DE ABRIL DE 2006)</small>
+
+###### ARTICULO 19o.
+
+bis.- La Unidad de Apoyo Técnico, estará a cargo de un Director que tendrá las atribuciones siguientes:
+
+I. Asesorar a la Dirección General en la Dirección del proceso de Planeación Estratégica del Instituto y verificar su instrumentación.
+
+II. Revisar el alineamiento del Plan Estratégico con la estrategia de Sistema Nacional de Investigación y Transferencia Tecnológica para el desarrollo Rural Sustentable (SNITT).
+
+III. Desarrollar el plan de cabildeo y asegurar el establecimiento de las acciones aprobadas.
+
+IV. Asegurar el enlace de las estrategias y políticas establecidas por la Dirección General con las estrategias regionales.
+
+V. Recomendar políticas que aseguren la vinculación con las diversas áreas administrativas con los programas y proyectos institucionales.
+
+VI. Analizar y recomendar al Director General el establecimiento de políticas técnicas y administrativas que conduzcan al cumplimiento de los objetivos institucionales.
+
+VII. Recomendar el establecimiento de mecanismos de evaluación de los planes estratégicos y operativos institucionales.
+
+VIII. Desarrollar mecanismos de coordinación y vinculación institucional.
+
+IX. Las demás que le asigne el Director General.
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
@@ -619,7 +739,9 @@ I. Coordinar el proceso de planeación estratégica del Centro de Investigación
 
 II. Implementar y evaluar al programa de investigación y transferencia de tecnología del Centro de Investigación Regional así como dar seguimiento al mismo;
 
-III. Coordinar y evaluar el Programa Operativo Anual de Campos Experimentales y Direcciones Estatales así como dar seguimiento a los mismos;
+> <small>(REFORMADA, D.O.F. 6 DE ABRIL DE 2006)</small>
+
+III. Coordinar y evaluar el Programa Operativo Anual de las diferentes unidades administrativas, así como dar seguimiento a los mismos;
 
 IV. Implementar los mecanismos que permitan obtener recursos públicos y privados de las fuentes de financiamiento relevantes para la ejecución de investigación científica, transferencia de tecnología y formación de recursos humanos;
 
@@ -777,6 +899,12 @@ A la Unidad Jurídica, estarán directamente adscritas la Subdirección de Coord
 
 Al Organo Interno de Control, estarán directamente adscritos los Titulares de Auditoría Interna; Area de Control y Evaluación y Apoyo al Buen Gobierno, y Area de Responsabilidades y Quejas.
 
+> <small>(ADICIONADO, D.O.F. 6 DE ABRIL DE 2006)</small>
+
+###### ARTICULO 28o.
+
+bis.- A la Unidad de Apoyo Técnico, estarán directamente adscritas las Direcciones de Soporte Agrícola, Soporte Pecuario, Soporte Forestal, Soporte de Gestión Estratégica y el Departamento de Consolidación de Información Estratégica.
+
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 29o.
@@ -847,11 +975,11 @@ IV. Asesorar en la integración de los programas de investigación a corto, medi
 
 V. Las demás que el Director General o la Junta de Gobierno le encomienden.
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 6 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 36o.
 
-El Instituto podrá contar además con los comités o subcomités que autorice constituir la Junta de Gobierno, quienes tendrán las atribuciones genéricas y específicas a que se refiere el artículo 56 de la Ley Federal de las Entidades Paraestatales y 21 de su Reglamento.
+El Instituto podrá contar además con los comités o subcomités que autorice constituir la Junta de Gobierno, quienes tendrán las atribuciones genéricas y específicas a que se refiere de manera supletoria el artículo 56 de la LEFEP y 21 del RLEFEP en términos de lo previsto por el artículo 53 de la Ley.
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2005)</small>
 
@@ -906,3 +1034,7 @@ SEGUNDO. Los artículos 1o. al 5o., 7o. al 11o. y 13o. del Estatuto Orgánico si
 D.O.F. 13 DE DICIEMBRE DE 2005
 
 PRIMERO. El presente Estatuto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 6 DE ABRIL DE 2006
+
+PRIMERO.- Las presentes modificaciones al Estatuto entrarán en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
