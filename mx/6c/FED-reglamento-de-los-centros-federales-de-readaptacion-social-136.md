@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-los-centros-federales-de-readaptacion-social-136"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-08-30"
-last_updated: "1992-08-31"
+last_updated: "2006-04-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1991-08-28"
 
 REGLAMENTO DE LOS CENTROS FEDERALES DE READAPTACION SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE AGOSTO DE 1992.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTICULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL REGLAMENTO DE LOS CENTROS FEDERALES DE READAPTACION SOCIAL, PUBLICADO EN EL D.O.F. DE 6 DE ABRIL DE 2006, EL PRESENTE ORDENAMIENTO SERA ABROGADO A LOS 30 DIAS DE LA PUBLICACION DEL CITADO REGLAMENTO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación el viernes 30 de agosto de 1991.
 
@@ -848,3 +850,15 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 D.O.F. 31 DE AGOSTO DE 1992.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 6 DE ABRIL DE 2006.
+
+PRIMERO.- El Reglamento entrará en vigor 30 días después de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento de los Centros Federales de Readaptación Social, publicado en el Diario Oficial de la Federación el 30 de agosto de 1991.
+
+TERCERO.- La Secretaría, a través de Prevención y Readaptación Social, expedirá en un plazo que no exceda de ciento ochenta días a partir de la fecha de la entrada en vigor del Reglamento, los Manuales que se deriven del mismo.
+
+CUARTO.- Los manuales e instructivos vigentes continuarán aplicándose en lo que no se opongan al presente Reglamento, hasta en tanto se emitan nuevas disposiciones.
+
+QUINTO.- En la Colonia Penal Federal de Islas Marías y en el Centro Federal de Rehabilitación Psicosocial se continuarán aplicando sus propios ordenamientos.
