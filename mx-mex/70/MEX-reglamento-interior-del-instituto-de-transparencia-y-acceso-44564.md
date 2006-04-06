@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-instituto-de-transparencia-y-acceso-445
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-12-01"
-last_updated: "2005-08-18"
+last_updated: "2006-04-06"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44564&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE AGOSTO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE MEXICO, PUBLICADO EN LA G.G. DE 6 DE ABRIL DEL 2006, EL PRESENTE ORDENAMIENTO SE DEJA SIN EFECTOS.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: SIN EFECTOS.
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el miércoles 1 de diciembre de 2004.
 
@@ -316,3 +318,11 @@ G.G. 18 DE AGOSTO DE 2005.
 PRIMERO.- Publíquense en el Periódico Oficial del Gobierno del Estado de México "Gaceta del Gobierno".
 
 SEGUNDO.- Las presentes modificaciones entrarán en vigor al día siguiente de su publicación.
+
+P.O. 6 DE ABRIL DE 2006.
+
+PRIMERO.- El presente Reglamento Interior entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de México, "Gaceta del Gobierno", y/o en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se dejan (sic) sin efectos el Reglamento Interior del Instituto de Transparencia y Acceso a la Información Pública del Estado de México, publicado en el Periódico Oficial del Gobierno del Estado de México, "Gaceta del Gobierno", con fecha primero de diciembre de 2004.
+
+TERCERO.- Se dejan (sic) sin efectos cualquier disposición que establezca lo contrario al presente Reglamento Interior.
