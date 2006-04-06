@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-contraloria-del-estado-de-jalisco-400
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-17"
-last_updated: "2005-12-01"
+last_updated: "2006-04-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40040&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # REGLAMENTO INTERIOR DE LA CONTRALORIA DEL ESTADO DE JALISCO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE ABRIL DE 2006 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO INTERIOR DE LA CONTRALORÍA DEL ESTADO DE JALISCO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2005.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 6 DE ABRIL DE 2016 NO APLICA AL ARTICULADO DEL ACUERDO PUBLICADO EN EL P.O. DE 1 DE DICIEMBRE DE 2005.]</small>
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el jueves 17 de junio de 2004.
 
