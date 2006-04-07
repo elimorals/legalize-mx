@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-de-la-ronda-uruguay-de-44809"
 country: "mx"
 rank: "otro"
 publication_date: "2005-01-24"
-last_updated: "2006-03-29"
+last_updated: "2006-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44809&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,63 +19,31 @@ issue_date: "2005-01-21"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DE LA RONDA URUGUAY DE NEGOCIACIONES COMERCIALES MULTILATERALES Y, EL ACUERDO POR EL QUE SE ESTABLECE LA ORGANIZACION MUNDIAL DEL COMERCIO (MULTILATERAL, 1994)
 
-ACUERDO QUE MODIFICA EL SIMILAR POR EL QUE SE ESTABLECE LA CLASIFICACION Y CODIFICACION DE MERCANCIAS CUYA IMPORTACION Y EXPORTACION ESTA SUJETA AL REQUISITO DE PERMISO PREVIO POR PARTE DE LA SECRETARIA DE ECONOMIA
+ACUERDO QUE REFORMA EL DIVERSO POR EL QUE SE ESTABLECEN LAS DISPOSICIONES DE CARACTER ADMINISTRATIVO PARA INSTRUMENTAR EL MECANISMO DE SALVAGUARDIA DE TRANSICION PREVISTO EN EL PROTOCOLO DE ADHESION DE LA REPUBLICA POPULAR CHINA A LA ORGANIZACION MUNDIAL DEL COMERCIO
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 29 de marzo de 2006.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 7 de abril de 2006.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía, con fundamento en los artículos 34 de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracciones III, V y X, 15 fracción II, 16, 17, 20 y 21 de la Ley de Comercio Exterior; 36 fracciones I inciso c) y II inciso b) y 104 fracción II de la Ley Aduanera; 1, 2 y 5 del Acuerdo sobre Procedimientos para el Trámite de Licencias de Importación de la Organización Mundial del Comercio; 21 del Reglamento de la Ley de Comercio Exterior; 1, 4, 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+ACUERDO QUE REFORMA EL DIVERSO POR EL QUE SE ESTABLECEN LAS DISPOSICIONES DE CARACTER ADMINISTRATIVO PARA INSTRUMENTAR EL MECANISMO DE SALVAGUARDIA DE TRANSICION PREVISTO EN EL PROTOCOLO DE ADHESION DE LA REPUBLICA POPULAR CHINA A LA ORGANIZACION MUNDIAL DEL COMERCIO.
+
+SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía, con fundamento en los artículos 34 de la Ley Orgánica de la Administración Pública Federal; 2o. y 5o. fracciones II y X de la Ley de Comercio Exterior; 1, 5 fracción XVI y 16 fracción I del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que el 9 de noviembre de 2005 se publicó en el Diario Oficial de la Federación el Acuerdo que establece la clasificación y codificación de mercancías cuya importación y exportación está sujeta al requisito de permiso previo por parte de la Secretaría de Economía, modificado mediante diverso dado a conocer en el mismo medio informativo el 20 de diciembre de 2005;
+Que el 23 de agosto de 2005, se publicó en el Diario Oficial de la Federación el Acuerdo por el que se establecen las disposiciones de carácter administrativo para instrumentar el mecanismo de salvaguardia de transición previsto en el Protocolo de Adhesión de la República Popular China a la Organización Mundial del Comercio;
 
-Que el 30 de agosto de 1990 el Departamento de Comercio de los Estados Unidos de América emitió una orden por la cual impuso derechos antidumping a las importaciones procedentes de México de cemento gris portland y cemento clinker;
+Que el 24 de enero de 2006, se publicó en el Diario Oficial de la Federación el Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Comercio Exterior, y
 
-Que el Tratado de Libre Comercio de América del Norte (TLCAN) fue aprobado por el Senado de la República el 22 de noviembre de 1993, publicado en el Diario Oficial de la Federación el 20 de diciembre del mismo año y entró en vigor el 1 de enero de 1994;
+Que con objeto de hacer consistente el Acuerdo mencionado con las reformas a la Ley de Comercio Exterior señaladas en el párrafo anterior, he tenido a bien expedir el siguiente:
 
-Que el artículo 102 del TLCAN señala que uno de sus objetivos es eliminar obstáculos al comercio y facilitar la circulación transfronteriza de bienes y de servicios entre los territorios de las Partes;
-
-Que el artículo 1904 del TLCAN establece que cada una de las Partes reemplazará la revisión judicial interna de las resoluciones definitivas sobre cuotas antidumping y compensatorias con la revisión que lleve a cabo un panel binacional;
-
-Que el 13 de julio de 1994 el Senado de la República aprobó el Acta Final de la Ronda Uruguay de Negociaciones Comerciales Multilaterales y, por lo tanto, el Acuerdo de Marrakech por el que se establece la Organización Mundial del Comercio (el Acuerdo por el que se establece la OMC), mismo que fue publicado en el Diario Oficial de la Federación el 30 de diciembre de 1994 y entró en vigor el 1 de enero de 1995;
-
-Que el Acuerdo por el que se establece la OMC contiene, entre otros, el Acuerdo relativo a la Aplicación del Artículo VI del Acuerdo General sobre Aranceles Aduaneros y Comercio de 1994 (el Acuerdo Antidumping) y el Entendimiento relativo a las normas y procedimientos por los que se rige la solución de diferencias (el Entendimiento);
-
-Que desde la imposición de la orden antidumping por parte de los Estados Unidos de América a las importaciones de cemento gris portland y cemento clinker procedentes de México, el Gobierno mexicano ha impugnado dicha orden en la OMC, y se han establecido diversos procedimientos de solución de controversias ante paneles binacionales conforme al artículo 1904 del TLCAN;
-
-Que el párrafo primero del artículo 8 del Acuerdo Antidumping señala que se podrán suspender o dar por terminados los procedimientos sin derechos antidumping si el exportador comunica que asume voluntariamente compromisos de poner fin a las exportaciones a la zona en cuestión a precios de dumping, de modo que las autoridades, en este caso de los Estados Unidos de América, queden convencidas de que se elimina el efecto perjudicial del dumping;
-
-Que el párrafo sexto y séptimo del artículo 3 del Entendimiento prevé que las Partes en una diferencia pueden llegar a soluciones mutuamente convenidas de los asuntos planteados formalmente ante el Organo de Solución de Diferencias de la OMC y que se debe dar siempre preferencia a una solución mutuamente aceptable para las partes en la diferencia y que esté de conformidad con los acuerdos de la OMC;
-
-Que la Regla 71 (2) de las Reglas de Procedimiento del Artículo 1904 y del Comité de Impugnación Extraordinaria del TLCAN publicadas en el Diario Oficial de la Federación el 20 de junio de 1994 establece que un procedimiento de revisión ante el panel concluye cuando algún participante presente una petición incidental de terminación de la revisión;
-
-Que el artículo 1 de la Ley Sobre la Celebración de Tratados publicada en el Diario Oficial de la Federación el 21 de enero de 1992 establece que los acuerdos interinstitucionales podrán ser celebrados entre una dependencia u organismos descentralizados de la Administración Pública Federal, Estatal o Municipal y uno o varios órganos gubernamentales extranjeros u organizaciones internacionales;
-
-Que el 6 de marzo de 2006 los titulares de la Secretaría de Economía de México, del Departamento de Comercio de los Estados Unidos de América y de la Oficina del Representante Comercial de los Estados Unidos de América suscribieron un acuerdo interinstitucional sobre el comercio de cemento (el Acuerdo sobre Comercio de Cemento), con el objetivo de finalizar el procedimiento de solución de diferencias ante la OMC y diversos litigios conforme al artículo 1904 del TLCAN y en consecuencia eliminar en un periodo de tres años el derecho antidumping impuesto por los Estados Unidos de América;
-
-Que el Acuerdo Sobre Comercio de Cemento establece en sus párrafos II.A.1, III y IV, que durante la vigencia del mismo las exportaciones de cemento mexicano a los Estados Unidos de América se regularán mediante cupos de exportación administrados por medio de permisos previos a la exportación;
-
-Que el Acuerdo Sobre Comercio de Cemento establece en su párrafo III.A que la Secretaría de Economía se asegurará que no se exporte cemento mexicano de México a los Estados Unidos de América sin que vaya acompañado de un permiso de exportación;
-
-Que el Acuerdo Sobre Comercio de Cemento señala en su párrafo II.A.1 que el límite inicial del cupo para exportaciones de cemento mexicano a los Estados Unidos de América será de 3,000,000 de toneladas métricas anuales, mismo que deberá dividirse en ocho subregiones establecidas de conformidad con el párrafo I.V de dicho Acuerdo;
-
-Que así mismo el Acuerdo Sobre Comercio de Cemento establece en su párrafo II.A.3 la posibilidad de que el Departamento de Comercio de los Estados Unidos de América y la Secretaría de Economía liberen un cupo adicional a la exportación de cemento mexicano a los Estados Unidos de América por una cantidad de 200,000 toneladas métricas, por evento, en casos de una declaración de estado de emergencia como resultado de un desastre;
-
-Que con la misma fecha de publicación del presente Acuerdo, se publicó en el Diario Oficial de la Federación el Acuerdo por el cual se da a conocer el cupo máximo para exportar a los Estados Unidos de América, cemento gris portland y cemento clinker, originarios de los Estados Unidos Mexicanos durante 2006 a 2009, al amparo del Acuerdo Sobre Comercio de Cemento celebrado entre la Secretaría de Economía de los Estados Unidos Mexicanos y la Oficina del Representante Comercial de los Estados Unidos de América y el Departamento de Comercio de los Estados Unidos de América, y
-
-Que conforme a lo dispuesto en la Ley de Comercio Exterior, el presente Acuerdo cuenta con opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
-
-ACUERDO QUE MODIFICA EL SIMILAR POR EL QUE SE ESTABLECE LA CLASIFICACION Y CODIFICACION DE MERCANCIAS CUYA IMPORTACION Y EXPORTACION ESTA SUJETA AL REQUISITO DE PERMISO PREVIO POR PARTE DE LA SECRETARIA DE ECONOMIA
+ACUERDO
 
 ###### ARTICULO UNICO.
 
-Se adiciona el artículo 7 bis del Acuerdo que establece la clasificación y codificación de mercancías cuya importación y exportación está sujeta al requisito de permiso previo por parte de la Secretaría de Economía, modificado mediante diverso dado a conocer en el mismo medio informativo el 20 de diciembre de 2005, para quedar como sigue:
+Se reforman los artículos 1, 3, 10, 16, 17, 20 y 25 del Acuerdo por el que se establecen las disposiciones de carácter administrativo para instrumentar el mecanismo de salvaguardia de transición previsto en el Protocolo de Adhesión de la República Popular China a la Organización Mundial del Comercio, para quedar como sigue:
 
-ARTICULO 7 bis.- Se sujetan al requisito de permiso previo de exportación por parte de la Secretaría de Economía, las mercancías comprendidas en las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación que a continuación se indican, únicamente cuando se destinen a los regímenes aduaneros de exportación definitiva o temporal y se trate de mercancías con destino a los Estados Unidos de América:
-
-(VEASE ARCHIVO ANEXO)
+“Artículo 1.- El presente Acuerdo tiene por objeto establecer las disposiciones de carácter administrativo conforme a las cuales la Secretaría de Economía, por conducto de la Unidad de Prácticas Comerciales Internacionales, tramitará y resolverá las investigaciones derivadas del mecanismo de salvaguardia de transición previsto en el Protocolo de Adhesión de la República Popular China a la Organización Mundial del Comercio y, en su caso, impondrá las medidas de salvaguardia de transición que correspondan.
 
 ###### Artículo 1.
 
@@ -99,11 +67,7 @@ VI. Unidad, la Unidad de Prácticas Comerciales Internacionales.
 
 ###### Artículo 3.
 
-La Secretaría propondrá al titular del Ejecutivo Federal la imposición de una medida de salvaguardia de transición en los términos previstos en el presente Acuerdo, en los siguientes casos:
-
-I. Cuando las importaciones de mercancías originarias de la República Popular China similares o directamente competidoras con mercancías de fabricación nacional, se estén importando a territorio mexicano en tal cantidad y en condiciones tales que causen o amenacen causar una desorganización del mercado, o
-
-II. Cuando una medida adoptada por la República Popular China o por un Miembro de la Organización Mundial del Comercio para prevenir o reparar una desorganización del mercado, cause o amenace causar una desviación importante del comercio hacia el mercado mexicano.
+La Secretaría impondrá una medida de salvaguardia de transición en los términos previstos en el presente Acuerdo, en los siguientes casos: …
 
 ###### Artículo 4.
 
@@ -153,9 +117,7 @@ Las consultas se celebrarán en un plazo de 30 días naturales contados a partir
 
 ###### Artículo 10.
 
-En caso de que se haya solicitado la celebración de consultas y éstas no hayan permitido llegar a un acuerdo en un plazo de 60 días naturales contados a partir de la notificación de la solicitud de las mismas al Comité, el Ejecutivo Federal podrá retirar concesiones o regular o restringir de otro modo las importaciones de las mercancías objeto de investigación originarias de la República Popular China en la medida necesaria para prevenir o reparar la desorganización del mercado o la desviación importante del comercio, de conformidad con el procedimiento previsto en este Acuerdo.
-
-Procedimiento
+En caso de que se haya solicitado la celebración de consultas y éstas no hayan permitido llegar a un acuerdo en un plazo de 60 días naturales contados a partir de la notificación de la solicitud de las mismas al Comité, la Secretaría podrá retirar concesiones o regular o restringir de otro modo las importaciones de las mercancías objeto de investigación originarias de la República Popular China en la medida necesaria para prevenir o reparar la desorganización del mercado o la desviación importante del comercio, de conformidad con el procedimiento previsto en este Acuerdo.
 
 ###### Artículo 11.
 
@@ -191,25 +153,23 @@ Con el objeto de esclarecer los hechos controvertidos en la investigación, la U
 
 ###### Artículo 16.
 
-El proyecto de resolución final que proponga al Ejecutivo Federal la imposición de una medida de salvaguardia de transición será enviado a la Comisión de Comercio Exterior para que emita opinión.
+El proyecto de resolución final que imponga una medida de salvaguardia de transición será enviado a la Comisión de Comercio Exterior para que emita opinión.
 
 ###### Artículo 17.
 
-La Secretaría recomendará al titular del Ejecutivo Federal la imposición de una medida de salvaguardia de transición dentro de los 200 días naturales contados a partir de la publicación de la resolución de inicio. Dicho plazo podrá ampliarse a juicio de la Secretaría.
+La Secretaría impondrá una medida de salvaguardia de transición dentro de los 200 días naturales contados a partir de la publicación de la resolución de inicio. Dicho plazo podrá ampliarse a juicio de la Secretaría.
 
-En su caso, el titular del Ejecutivo Federal impondrá las medidas de salvaguardia de transición mediante decreto publicado en el Diario Oficial de la Federación. La Secretaría notificará la imposición de dichas medidas al Comité y a las partes interesadas de que se tenga conocimiento.
+La Secretaría notificará la imposición de dichas medidas al Comité y a las partes interesadas de que se tenga conocimiento.
 
 En caso de que la Secretaría concluya que no es procedente la imposición de una medida de salvaguardia de transición, emitirá una resolución final que deberá publicarse en el Diario Oficial de la Federación y notificarse a las partes interesadas de que se tenga conocimiento.
 
-Vigencia
-
 ###### Artículo 20.
 
-En circunstancias críticas en las que cualquier demora entrañaría un perjuicio difícilmente reparable para la rama de producción nacional, el titular del Ejecutivo Federal podrá imponer una medida de salvaguardia de transición provisional en virtud de una determinación preliminar de que las importaciones han causado o amenazan causar una desorganización del mercado. En su caso, el titular del Ejecutivo Federal impondrá las medidas de salvaguardia de transición provisional mediante decreto publicado en el Diario Oficial de la Federación.
+En circunstancias críticas en las que cualquier demora entrañaría un perjuicio difícilmente reparable para la rama de producción nacional, la Secretaría podrá imponer una medida de salvaguardia de transición provisional en virtud de una determinación preliminar de que las importaciones han causado o amenazan causar una desorganización del mercado.
 
 ###### Artículo 25.
 
-Las medidas de salvaguardia de transición que la Secretaría recomiende al titular del Ejecutivo Federal de conformidad con el presente Acuerdo podrán consistir, entre otras, en aranceles específicos o ad-valorem, permisos previos, cupos o alguna combinación de las anteriores.
+Las medidas de salvaguardia de transición que imponga la Secretaría de conformidad con el presente Acuerdo podrán consistir, entre otras, en aranceles específicos o ad-valorem, permisos previos, cupos o alguna combinación de las anteriores.”
 
 ###### Artículo 18.
 
@@ -237,7 +197,7 @@ la Ronda Uruguay.
 
 Azúcar refinada. 2,954
 
-México, D.F., a 22 de marzo de 2006.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
+México, D.F., a 2 de marzo de 2006.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
 
 ###### ARTICULO SEGUNDO.
 
@@ -307,7 +267,7 @@ Para llevar a cabo el canje de los certificados de cupo los beneficiarios deber�
 
 ## TRANSITORIO
 
-UNICO.- El presente Acuerdo entrará en vigor el 3 de abril de 2006, y concluirá su vigencia el 31 de marzo de 2009.
+UNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 ###### ARTICULO PRIMERO.
 
