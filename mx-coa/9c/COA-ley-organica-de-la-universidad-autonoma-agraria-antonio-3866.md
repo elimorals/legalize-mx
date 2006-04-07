@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-universidad-autonoma-agraria-antonio-3866"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-04-04"
-last_updated: "1991-06-11"
+last_updated: "2006-04-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3866&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA AGRARIA "ANTONIO NARRO"
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 1991.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO DEL DECRETO NUMERO 17 PUBLICADO EN EL P.O. DE 7 DE ABRIL DE 2006., EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 4 de abril de 1989.
 
@@ -378,3 +380,11 @@ P.O. 11 DE JUNIO DE 1991.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE ABRIL DE 2006.
+
+PRIMERO.- El presente decreto entrará en vigor una vez que se publique en el Diario Oficial de la Federación la Nueva Ley Orgánica de la Universidad Autónoma Agraria Antonio Narro, expedida por el congreso de la Unión en sesión de la Cámara de Senadores de fecha 7 de marzo del año 2006.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Publiquese este Decreto en el Periódico Oficial del Estado.
