@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2005-12-12"
+last_updated: "2006-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,49 +20,19 @@ abbreviation: "CPEUM"
 ---
 # CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ACUERDO CCNO/9/2011, DE LA COMISIÓN DE CREACIÓN DE NUEVOS ÓRGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA EXCLUSIÓN DE TURNO DE NUEVOS ASUNTOS AL JUZGADO QUINTO DE DISTRITO EN EL ESTADO DE GUERRERO, CON RESIDENCIA EN IGUALA
+CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE ABRIL DE 2006.
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 15 de diciembre de 2011.
+Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos.
+El C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Nación, con esta fecha se ha servido dirigirme el siguiente decreto:
 
-ACUERDO CCNO/9/2011, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA EXCLUSION DE TURNO DE NUEVOS ASUNTOS AL JUZGADO QUINTO DE DISTRITO EN EL ESTADO DE GUERRERO, CON RESIDENCIA EN IGUALA.
+VENUSTIANO CARRANZA, Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de los Estados Unidos Mexicanos, hago saber:
 
-CONSIDERANDO
+Que el Congreso Constituyente reunido en esta ciudad el 1o. de diciembre de 1916, en virtud del decreto de convocatoria de 19 de septiembre del mismo año, expedido por la Primera Jefatura, de conformidad con lo prevenido en el artículo 4o. de las modificaciones que el 14 del citado mes se hicieron al decreto de 12 de diciembre de 1914, dado en la H. Veracruz, adicionando el Plan de Guadalupe, de 26 de marzo de 1913, ha tenido a bien expedir la siguiente:
 
-PRIMERO. En términos de lo dispuesto por los artículos 94, párrafo segundo; 100, párrafos primero y octavo, de la Constitución Política de los Estados Unidos Mexicanos; 68 y 81, fracción II, de la Ley Orgánica del Poder Judicial de la Federación, el Consejo de la Judicatura Federal es el órgano encargado de la administración, vigilancia y disciplina de los tribunales de circuito y juzgados de distrito, con independencia técnica, de gestión y para emitir sus resoluciones; además, está facultado para expedir acuerdos generales que permitan el adecuado ejercicio de sus funciones;
-
-SEGUNDO. El artículo 17 de la Constitución Federal establece que toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes;
-
-TERCERO. El artículo 81, fracción XXIV, de la citada Ley Orgánica, otorga facultades al Consejo de la Judicatura Federal para dictar las disposiciones necesarias para regular el turno de los asuntos de la competencia de los tribunales de circuito o de los juzgados de distrito, cuando en un mismo lugar haya varios de ellos; atribución que ejerce a través de la Comisión de Creación de Nuevos Organos, mediante el artículo 57, fracción III, del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo;
-
-CUARTO. Mediante Acuerdo General 36/2011 del Pleno del Consejo de la Judicatura Federal, inició de funciones el Juzgado Noveno de Distrito en el Estado de Guerrero, con residencia en Iguala. En el punto QUINTO del acuerdo general referido se ordenó la exclusión del turno de nuevos asuntos que se presenten en la oficina de correspondencia común, del uno al trece de noviembre de dos mil once, al Juzgado Quinto de Distrito en el Estado de Guerrero, con residencia en Iguala. En ese periodo los asuntos nuevos se remitirían al Juzgado Noveno de Distrito en el Estado Guerrero, con residencia en Iguala, conforme al sistema computarizado que se utiliza para esos efectos;
-
-QUINTO. En términos de lo dispuesto por el artículo 72, fracción XXX, del Acuerdo General que reglamenta la organización y funcionamiento del propio Consejo, corresponde a la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos proponer a la Comisión de Creación de Nuevos Organos, la aplicación de las disposiciones necesarias para regular el turno de los asuntos de la competencia de los juzgados de distrito, cuando en un mismo lugar haya varios de ellos;
-
-SEXTO. La Comisión de Creación de Nuevos Organos, advierte que el número de asuntos radicados y en trámite en el Juzgado Quinto de Distrito en el Estado de Guerrero, con residencia en Iguala, es elevado, lo cual repercute en el despacho oportuno de los expedientes, además de exceder la carga de trabajo a la que presenta el juzgado noveno de distrito en la entidad y sede de que se trata.
-
-Lo que hace necesario adoptar medidas conducentes a una administración pronta, completa y eficaz de la justicia federal, mediante el equilibrio de las cargas de trabajo en los órganos jurisdiccionales, razón por la que se considera conveniente excluir de turno de asuntos nuevos al Juzgado Quinto de Distrito en el Estado de Guerrero, con residencia en Iguala.
-
-En consecuencia, con fundamento en las disposiciones constitucionales y legales citadas, la Comisión de Creación de Nuevos Organos del Consejo de la Judicatura Federal expide el siguiente
-
-ACUERDO
-
-PRIMERO. Se excluye del turno de nuevos asuntos al Juzgado Quinto de Distrito en el Estado de Guerrero, con residencia en Iguala, por catorce días.
-
-Por lo anterior, los nuevos asuntos que se presenten en la Oficina de Correspondencia Común de los Juzgados de Distrito en el Estado de Guerrero, con residencia en Iguala, en el periodo del doce al veinticinco de diciembre de dos mil once, se remitirán conforme al sistema computarizado que se utiliza para esos efectos al Juzgado Noveno de Distrito en el Estado de Guerrero, con residencia en Iguala, con excepción de los asuntos relacionados a que refiere el artículo 9 del Acuerdo General 13/2007 modificado por el diverso Acuerdo General 48/2008, ambos del Pleno del Consejo de la Judicatura Federal.
-
-Al concluir la medida temporal de exclusión otorgada, los nuevos asuntos que se presenten en días y horas hábiles se distribuirán entre los juzgados de distrito en estudio, conforme al sistema computarizado que se utiliza para esos efectos.
-
-SEGUNDO. En el lapso indicado en el punto que antecede, el Juzgado Noveno de Distrito en el Estado de Guerrero, con residencia en Iguala, recibirá los asuntos que se presenten en horas y días inhábiles.
-
-TERCERO. Concluido el periodo de exclusión indicado en el punto Primero de este acuerdo, los Juzgados de Distrito en el Estado Guerrero, con residencia en Iguala, estarán de turno en su orden durante catorce días para recibir asuntos que se presenten en días y horas inhábiles; por lo que del veintiséis de diciembre de dos mil once al ocho de enero de dos mil doce estará de turno el Juzgado Quinto de Distrito en el Estado de Guerrero, con residencia en Iguala; del nueve al veintidós de enero de dos mil doce, estará de guardia el Juzgado Noveno de Distrito en el Estado de Guerrero, con residencia en Iguala, y así sucesivamente.
-
-CUARTO. Al finalizar el periodo de exclusión de turno otorgado, los titulares de los juzgados de distrito en estudio deberán informar sobre los resultados de la exclusión de turno a la Comisión de Creación de Nuevos Organos y a la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos del Consejo de la Judicatura Federal.
-
-QUINTO. El Pleno y la Comisión de Creación de Nuevos Organos del Consejo de la Judicatura Federal, en el ámbito de sus respectivas competencias, están facultados para interpretar y resolverán las cuestiones administrativas que se susciten con motivo de la aplicación de este acuerdo, así como cualquier cuestión relacionada con la conclusión anticipada o extensión del plazo previsto en el punto primero de este acuerdo.
+CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, QUE REFORMA LA DE 5 DE FEBRERO DE 1857.
 
 # LIBRO PRIMERO. DISPOSICIONES GENERALES
 
@@ -464,7 +434,17 @@ Los Gobiernos de la Federación y de los Estados organizarán el sistema penal, 
 
 Los Gobernadores de los Estados, sujetándose a lo que establezcan las leyes locales respectivas, podrán celebrar con la Federación convenios de carácter general, para que los reos sentenciados por delitos del orden común extingan su condena en establecimientos dependientes del Ejecutivo Federal.
 
-La Federación y los Gobiernos de los Estados establecerán instituciones especiales para el tratamiento de menores infractores.
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2005)</small>
+
+La Federación, los Estados y el Distrito Federal establecerán, en el ámbito de sus respectivas competencias, un sistema integral de justicia que será aplicable a quienes se atribuya la realización de una conducta tipificada como delito por las leyes penales y tengan entre doce años cumplidos y menos de dieciocho años de edad, en el que se garanticen los derechos fundamentales que reconoce esta Constitución para todo individuo, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos. Las personas menores de doce años que hayan realizado una conducta prevista como delito en la ley, solo serán sujetos a rehabilitación y asistencia social.
+
+> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2005)</small>
+
+La operación del sistema en cada orden de gobierno estará a cargo de instituciones, tribunales y autoridades especializados en la procuración e impartición de justicia para adolescentes. Se podrán aplicar las medidas de orientación, protección y tratamiento que amerite cada caso, atendiendo a la protección integral y el interés superior del adolescente.
+
+> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2005)</small>
+
+Las formas alternativas de justicia deberán observarse en la aplicación de este sistema, siempre que resulte procedente. En todos los procedimientos seguidos a los adolescentes se observará la garantía del debido proceso legal, así como la independencia entre las autoridades que efectúen la remisión y las que impongan las medidas. Éstas deberán ser proporcionales a la conducta realizada y tendrán como fin la reintegración social y familiar del adolescente, así como el pleno desarrollo de su persona y capacidades. El internamiento se utilizará solo como medida extrema y por el tiempo más breve que proceda, y podrá aplicarse únicamente a los adolescentes mayores de catorce años de edad, por la comisión de conductas antisociales calificadas como graves.
 
 > <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 1977)</small>
 
@@ -662,17 +642,27 @@ La ley establecerá los mecanismos que faciliten la organización y la expansió
 
 La ley alentará y protegerá la actividad económica que realicen los particulares y proveerá las condiciones para que el desenvolvimiento del sector privado contribuya al desarrollo económico nacional, en los términos que establece esta Constitución.
 
-> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 2006)</small>
 
 ###### Art. 26.
 
-El Estado organizará un sistema de planeación democrática del desarrollo nacional que imprima solidez, dinamismo, permanencia y equidad al crecimiento de la economía para la independencia y la democratización política, social y cultural de la Nación.
+A. El Estado organizará un sistema de planeación democrática del desarrollo nacional que imprima solidez, dinamismo, permanencia y equidad al crecimiento de la economía para la independencia y la democratización política, social y cultural de la Nación.
 
-Los fines del proyecto nacional contenidos en esta Constitución determinarán los objetivos de la planeación. La planeación será democrática. Mediante la participación de los diversos sectores sociales recogerá las aspiraciones y demandas de la sociedad para incorporarlas al plan y los programas de desarrollo. Habrá un plan nacional de desarrollo al que se sujetarán obligatoriamente los programas de la administración Pública Federal.
+Los fines del proyecto nacional contenidos en esta Constitución determinarán los objetivos de la planeación. La planeación será democrática. Mediante la participación de los diversos sectores sociales recogerá las aspiraciones y demandas de la sociedad para incorporarlas al plan y los programas de desarrollo. Habrá un plan nacional de desarrollo al que se sujetarán obligatoriamente los programas de la Administración Pública Federal.
 
-La ley facultará al Ejecutivo para que establezca los procedimientos de participación y consulta popular en el sistema nacional de planeación democrática, y los criterios para la formulación, instrumentación, control y evaluación del plan y los programas de desarrollo. Asimismo determinará los órganos responsables del proceso de planeación y las bases para que el Ejecutivo Federal coordine mediante convenios con los gobiernos de las entidades federativas e induzca y concierte con los particulares las acciones a realizar para su elaboración y ejecución.
+La ley facultará al Ejecutivo para que establezca los procedimientos de participación y consulta popular en el sistema nacional de planeación democrática, y los criterios para la formulación, instrumentación, control y evaluación del plan y los programas de desarrollo. Asimismo, determinará los órganos responsables del proceso de planeación y las bases para que el Ejecutivo Federal coordine mediante convenios con los gobiernos de las entidades federativas e induzca y concierte con los particulares las acciones a realizar para su elaboración y ejecución.
 
 En el sistema de planeación democrática, el Congreso de la Unión tendrá la intervención que señale la ley.
+
+B. El Estado contará con un Sistema Nacional de Información Estadística y Geográfica cuyos datos serán considerados oficiales. Para la Federación, estados, Distrito Federal y municipios, los datos contenidos en el Sistema serán de uso obligatorio en los términos que establezca la ley.
+
+La responsabilidad de normar y coordinar dicho Sistema estará a cargo de un organismo con autonomía técnica y de gestión, personalidad jurídica y patrimonio propios, con las facultades necesarias para regular la captación, procesamiento y publicación de la información que se genere y proveer a su observancia.
+
+El organismo tendrá una Junta de Gobierno integrada por cinco miembros, uno de los cuales fungirá como Presidente de ésta y del propio organismo; serán designados por el Presidente de la República con la aprobación de la Cámara de Senadores o en sus recesos por la Comisión Permanente del Congreso de la Unión.
+
+La ley establecerá las bases de organización y funcionamiento del Sistema Nacional de Información Estadística y Geográfica, de acuerdo con los principios de accesibilidad a la información, transparencia, objetividad e independencia; los requisitos que deberán cumplir los miembros de la Junta de Gobierno, la duración y escalonamiento de su encargo.
+
+Los miembros de la Junta de Gobierno sólo podrán ser removidos por causa grave y no podrán tener ningún otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones docentes, científicas, culturales o de beneficencia; y estarán sujetos a lo dispuesto por el Título Cuarto de esta Constitución.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1934)</small>
 
@@ -1760,9 +1750,9 @@ XXIX-B.- Para legislar sobre las características y uso de la Bandera, Escudo e 
 
 XXIX-C.- Para expedir las leyes que establezcan la concurrencia del Gobierno Federal, de los Estados y de los Municipios, en el ámbito de sus respectivas competencias, en materia de asentamientos humanos, con objeto de cumplir los fines previstos en el párrafo tercero del artículo 27 de esta Constitución.
 
-> <small>(ADICIONADA, D.O.F. 3 DE FEBRERO DE 1983)</small>
+> <small>(REFORMADA, D.O.F. 7 DE ABRIL DE 2006)</small>
 
-XXIX-D.- Para expedir leyes sobre planeación nacional del desarrollo económico y social.
+XXIX-D.- Para expedir leyes sobre planeación nacional del desarrollo económico y social, así como en materia de información estadística y geográfica de interés nacional.
 
 > <small>(ADICIONADA, D.O.F. 3 DE FEBRERO DE 1983)</small>
 
@@ -7378,13 +7368,7 @@ El Impuesto Sobre Traslación de Dominio de Bienes Inmuebles, se causará en tod
 
 Esta Constitución no perderá su fuerza y vigor, aun cuando por alguna rebelión se interrumpa su observancia. En caso de que por cualquier trastorno público, se establezca un gobierno contrario a los principios que ella sanciona, tan luego como el pueblo recobre su libertad, se restablecerá su observancia, y con arreglo a ella y a las leyes que en su virtud se hubieren expedido, serán juzgados, así los que hubieren figurado en el gobierno emanado de la rebelión, como los que hubieren cooperado a ésta.
 
-## TRANSITORIOS
-
-PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO. Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
-
-EL MAGISTRADO EDWIN NOE GARCIA BAEZA, SECRETARIO EJECUTIVO DE CARRERA JUDICIAL, ADSCRIPCION Y CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo CCNO/9/2011, de la Comisión de Creación de Nuevos Organos del Consejo de la Judicatura Federal, relativo a la exclusión de turno de nuevos asuntos al Juzgado Quinto de Distrito en el Estado de Guerrero, con residencia en Iguala, fue aprobado por la propia Comisión en sesión privada ordinaria celebrada el cinco de diciembre de dos mil once, por los señores Consejeros: Presidente César Alejandro Jáuregui Robles, Daniel Francisco Cabeza de Vaca Hernández y Jorge Moreno Collado.- México, Distrito Federal, a cinco de diciembre de dos mil once.- Conste.- Rúbrica.
+## ARTICULOS TRANSITORIOS.
 
 ###### Art. 1o.
 
@@ -8939,6 +8923,28 @@ TERCERO.- Las controversias que a la entrada en vigor de este decreto se encuent
 D.O.F. 9 DE DICIEMBRE DE 2005.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 12 DE DICIEMBRE DE 2005.
+
+PRIMERO. El presente Decreto entrará en vigor a los tres meses siguientes de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Los Estados de la Federación y el Distrito Federal contarán con seis meses a partir de la entrada en vigor del Decreto, para crear las leyes, instituciones y órganos que se requieran para la aplicación del presente Decreto.
+
+D.O.F. 7 DE ABRIL DE 2006.
+
+Primero.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- En tanto se expide la Ley general a que se refiere el apartado B del Artículo 26 de esta Constitución, continuará en vigor la Ley de Información Estadística y Geográfica, y demás disposiciones legales y administrativas aplicables. Asimismo, subsistirán los nombramientos, poderes, mandatos, comisiones y, en general, las delegaciones y facultades concedidas, a los servidores públicos del Instituto Nacional de Estadística, Geografía e Informática.
+
+Tercero.- A la entrada en vigor de la Ley a que se refiere el apartado B del Artículo 26 de esta Constitución, los recursos financieros y materiales, así como los trabajadores adscritos al Instituto Nacional de Estadística, Geografía e Informática, órgano desconcentrado de la Secretaría de Hacienda y Crédito Público, se transferirán al organismo creado en los términos del presente Decreto. Los trabajadores que pasen a formar parte del nuevo organismo se seguirán rigiendo por el apartado B del Artículo 123 de esta Constitución y de ninguna forma resultarán afectados en sus derechos laborales y de seguridad social.
+
+Cuarto.- Conforme a las disposiciones aplicables, el régimen presupuestario del organismo creado en los términos del presente Decreto, deberá garantizar la libre administración, la no-transferencia y la suficiencia de recursos públicos. Lo anterior, a efecto de que el organismo esté en condiciones de dar cumplimiento a los planes y programas que formule en observancia de la Ley a que se refiere el apartado B del Artículo 26 de esta Constitución.
+
+Quinto.- Los asuntos que se encuentren en trámite o pendientes de resolución a la entrada en vigor de este Decreto, se seguirán substanciando ante el Instituto Nacional de Estadística, Geografía e Informática, y posteriormente ante el organismo creado en los términos del presente Decreto.
+
+Sexto.- Dentro de los 180 días naturales, posteriores a la entrada en vigor del presente Decreto, el Congreso de la Unión deberá emitir la Ley a la que se refiere el apartado B del Artículo 26 de esta Constitución.
+
+Séptimo.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 
 ###### ARTICULO PRIMERO.
 
