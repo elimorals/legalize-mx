@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-2-2006-del-pleno-del-consejo-de-la-48230"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-01-31"
-last_updated: "2006-01-31"
+last_updated: "2006-04-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48230&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-01-19"
 
 ACUERDO GENERAL 2/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA REESTRUCTURACION DE LA UNIDAD DE NOTIFICADORES DE LOS JUZGADOS DE DISTRITO EN MATERIA ADMINISTRATIVA EN EL DISTRITO FEDERAL, PARA INCORPORAR A LOS TRIBUNALES COLEGIADOS EN MATERIA ADMINISTRATIVA DEL PRIMER CIRCUITO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE ABRIL DE 2006.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 31 de enero de 2006.
 
@@ -51,11 +51,17 @@ SEGUNDO.- Se erige una nueva unidad de notificadores, la cual continuará apoyan
 
 TERCERO.- La nueva unidad se denominará “Unidad de Notificadores Común a los Tribunales Colegiados de Circuito y Juzgados de Distrito en Materia Administrativa en el Distrito Federal”, y continuará con las funciones que la antigua unidad de notificadores venía realizando a los citados juzgados de Distrito, consistentes en: la concentración, clasificación, entrega inmediata y devolución de las notificaciones por oficio. Adicionalmente, llevará a cabo esas mismas funciones respecto a los Tribunales Colegiados en Materia Administrativa del Primer Circuito, con residencia en México, Distrito Federal.
 
-CUARTO.- La unidad de nueva creación contará con el personal y los medios materiales necesarios para cumplir sus funciones eficientemente. Se conservará el personal con que ya cuenta la actual Unidad de Notificadores de los Juzgados de Distrito en Materia Administrativa en el Distrito Federal, que continuará sus funciones habituales mientras no quede totalmente implementada la nueva unidad y, adicionalmente, se le dotará de 10 plazas que originalmente fueron asignadas a Juzgados de Distrito Itinerantes en el Distrito Federal, que cesaron funciones y que ahora se encuentran adscritas a otros órganos jurisdiccionales, para lo cual, se dará preferencia a los servidores públicos que cuenten con mayor antigüedad en el cargo.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 21/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 7 DE ABRIL DEL 2006)</small>
 
-QUINTO.- La Unidad de Notificadores Común a los Tribunales Colegiados de Circuito y Juzgados de Distrito en Materia Administrativa en el Distrito Federal, estará a cargo del actual jefe de la unidad, quien tendrá la categoría a que se refiere la fracción X del artículo 110 de la Ley Orgánica del Poder Judicial de la Federación, y será responsable de establecer los mecanismos de clasificación de la correspondencia y división del Circuito por zonas geográficas, de tal manera que se agilice la entrega y devolución a los órganos jurisdiccionales de las constancias relativas a las notificaciones por oficio, sin exceder los plazos legales; de todo lo cual, dará cuenta a los Coordinadores de Magistrados de Circuito y Jueces de Distrito en Materia Administrativa en el Distrito Federal, según corresponda.
+CUARTO.- La unidad de nueva creación contará con el personal y los medios materiales necesarios para cumplir sus funciones eficientemente, de acuerdo a lo que disponga la Comisión de Administración, tomando en consideración las cargas de trabajo y a las posibilidades presupuestales.
 
-En caso de que por alguna causa el actual jefe de la unidad deje el cargo, los Coordinadores a los que se alude en el párrafo que precede, propondrán al Pleno del Consejo de la Judicatura Federal, una sola terna para que se pronuncie respecto de los candidatos propuestos a ocupar el puesto, previa opinión de la Comisión de Carrera Judicial.
+Los notificadores tendrán la categoría de “auxiliar de actuario” y recibirán las percepciones que se fijen en el presupuesto para ese cargo.
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 21/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 7 DE ABRIL DEL 2006)</small>
+
+QUINTO.- La Unidad de Notificadores Común a los Tribunales Colegiados de Circuito y Juzgados de Distrito en Materia Administrativa en el Distrito Federal, estará a cargo de un jefe de la unidad, quien será responsable de establecer los mecanismos de clasificación de la correspondencia y división del Circuito por zonas geográficas, de tal manera que se agilice la entrega y devolución a los órganos jurisdiccionales de las constancias relativas a las notificaciones por oficio, sin exceder los plazos legales; de todo lo cual, dará cuenta a los Coordinadores de Magistrados de Circuito y Jueces de Distrito en Materia Administrativa en el Distrito Federal, según corresponda. El jefe de la unidad tendrá la categoría y percepciones que disponga, mediante acuerdo, la Comisión de Administración; y le corresponderá el nombramiento de los notificadores.
+
+En caso de que por alguna causa el jefe de la unidad deje el cargo, los Coordinadores a los que se alude en el párrafo que precede, propondrán al Pleno del Consejo de la Judicatura Federal, una sola terna para que se pronuncie respecto de los candidatos propuestos a ocupar el puesto, previa opinión de la Comisión de Carrera Judicial.
 
 SEXTO.- La creación de la nueva unidad de notificadores no impedirá que los titulares de los órganos jurisdiccionales puedan ordenar la entrega directa por conducto del personal a su cargo, de los oficios dirigidos a las autoridades responsables y las que tengan el carácter de terceras perjudicadas, en caso de que lo consideren conveniente.
 
@@ -73,4 +79,18 @@ CUARTO.- La Secretaría Ejecutiva de Obra, Recursos Materiales y Servicios Gener
 
 QUINTO.- La Secretaría Ejecutiva de Administración realizará las gestiones conducentes, para readscribir al personal al que se hace referencia en el punto Cuarto del presente Acuerdo; así como, renivelar la plaza del actual jefe de la unidad en cita.
 
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 21/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 7 DE ABRIL DEL 2006)</small>
+
+SEXTO.- La Unidad de Notificadores Común a los Tribunales Colegiados de Circuito y Juzgados de Distrito en Materia Administrativa en el Distrito Federal, continuará a cargo del actual jefe de la unidad con el nivel que determine la Comisión de Administración, según el perfil del puesto y las posibilidades presupuestales, a efecto de salvaguardar los derechos adquiridos por dicho servidor público.
+
+Se conservará el personal con que ya cuenta la actual Unidad de Notificadores de los Juzgados de Distrito en Materia Administrativa en el Distrito Federal, que continuará sus funciones habituales mientras no quede totalmente implementada la nueva unidad y, adicionalmente, se le dotará, al menos, de las 10 plazas que originalmente fueron asignadas a Juzgados de Distrito Itinerantes en el Distrito Federal, que cesaron funciones y que ahora se encuentran adscritas a otros órganos jurisdiccionales, para lo cual, se dará preferencia a los servidores públicos que cuenten con mayor antigüedad en el cargo, sin perjuicio de lo que disponga la Comisión de Administración.
+
 EL MAESTRO EN DERECHO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 2/2006, del Pleno del Consejo de la Judicatura Federal, Relativo a la Reestructuración de la Unidad de Notificadores de los Juzgados de Distrito en Materia Administrativa en el Distrito Federal, para Incorporar a los Tribunales Colegiados en Materia Administrativa del Primer Circuito, fue aprobado por el Pleno del propio Consejo en sesión de diecinueve de enero de dos mil seis, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Luis María Aguilar Morales, Adolfo O. Aragón Mendía, Constancio Carrasco Daza, Elvia Díaz de León D'Hers, María Teresa Herrera Tello y Miguel A. Quirós Pérez.- México, Distrito Federal, a diecinueve de enero de dos mil seis.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 7 DE ABRIL DEL 2006.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
