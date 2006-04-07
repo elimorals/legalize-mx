@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-administracion-publica-antes-17660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2006-02-10"
+last_updated: "2006-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 2006.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -407,7 +407,9 @@ X.- Supervisar y mantener en buen estado de funcionalidad los bienes muebles e i
 
 XI.- Las demás que le señalen los titulares de la dependencia.
 
-## TITULO SEGUNDO. DE LA ADMINISTRACION PUBLICA MUNICIPAL CENTRALIZADA
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE FEBRERO DE 2006)</small>
+
+## TITULO SEGUNDO. DE LA ADMINISTRACION CENTRALIZADA
 
 ### CAPITULO SEGUNDO. DE LA OFICINA DE LA PRESIDENCIA MUNICIPAL
 
@@ -513,7 +515,7 @@ I.- Organizar y conducir reuniones de gabinete o módulos por áreas, proyectos 
 
 II.- Revisar y opinar sobre convenios, acuerdos, iniciativas legislativas y de reglamentación, nuevos proyectos y asuntos diversos que solicite el Presidente Municipal, o que estén relacionados con su función;
 
-III.- Integrar opiniones e información de titulares de las depedencias y entidades en propuestas sobre proyectos, acuerdos y demás asuntos en los que deba asesorarse al Presidente Municipal;
+III.- Integrar opiniones e información de titulares de las dependencias y entidades en propuestas sobre proyectos, acuerdos y demás asuntos en los que deba asesorarse al Presidente Municipal;
 
 IV.- Conciliar las diferencias que se generen entre dependencias o entidades, en relación a sus competencias o al ejercicio de sus atribuciones; y,
 
@@ -1265,9 +1267,13 @@ III.- Prestar servicios de salud a la comunidad en casos de emergencia, privileg
 
 IV.- Brindar asistencia técnica al Departamento de Jueces Calificadores, en la expedición de certificados de esencia y psicofisiológicos, a las personas que les sean presentadas;
 
-V.- Desarrollar programas de vigilancia epidemiológica de las enfermedades de transmisión sexual en población de alto riesgo; y,
+V.- Desarrollar programas de vigilancia epidemiológica de las enfermedades de transmisión sexual en población de alto riesgo; y (sic),
 
-VI.- Expedir certificados de salud prenupciales y de discapacidad.
+VI.- Expedir certificados de salud prenupciales y de discapacidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE ABRIL DE 2006)</small>
+
+VII.- Desarrollar e implementar programas en materia de Control Animal a través del Centro de Control Animal de Mexicali, Baja California.
 
 ###### ARTICULO 64.
 
@@ -2884,3 +2890,9 @@ Las presentes reformas entrarán en vigor al día siguiente al de su publicació
 P.O. 10 DE FEBRERO DE 2006.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+P.O. 7 DE ABRIL DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Baja California.
