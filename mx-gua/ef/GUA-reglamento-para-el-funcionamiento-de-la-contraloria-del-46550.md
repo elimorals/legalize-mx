@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-para-el-funcionamiento-de-la-contraloria-del-46550"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-10-04"
-last_updated: "2005-10-04"
+last_updated: "2006-04-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO PARA EL FUNCIONAMIENTO DE LA CONTRALORIA DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 2006.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 4 de octubre del 2005.
 
@@ -83,6 +83,8 @@ Para los efectos de este reglamento, se entenderá por:
 
 I.- Código: Código de Instituciones y Procedimientos Electorales para el Estado de Guanajuato;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 7 DE ABRIL DE 2006)</small>
+
 II.- Comité: Comité de adquisiciones, enajenaciones, arrendamientos y contratación de servicios del Instituto Electoral del Estado de Guanajuato;
 
 III.- Consejo: Consejo General del Instituto Electoral del Estado de Guanajuato;
@@ -133,7 +135,9 @@ IV.- Fijar las normas, criterios y requisitos para rendir la información a que 
 
 V.- Inspeccionar y vigilar el cumplimiento de las normas y disposiciones relativas a los sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios y recursos materiales del Instituto;
 
-VI.- Analizar y evaluar los procesos de administración, contabilización, ejecución y aplicación del presupuesto, vigilando la normatividad establecida en la Ley del Presupuesto General de Egresos para el Estado de Guanajuato que corresponda, en la Ley para el Ejercicio y Control de los Recursos Públicos para el Estado y los Municipios de Guanajuato, en el Reglamento Interior del Instituto en materia de adquisiciones, enajenaciones, arrendamiento y contratación de servicios relacionados con bienes muebles e inmuebles, y en las demás leyes, manuales y reglamentos de su competencia;
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2006)</small>
+
+VI.- Analizar y evaluar los procesos de administración, contabilización, ejecución y aplicación del presupuesto, vigilando la normatividad establecida en la Ley del Presupuesto General de Egresos para el Estado de Guanajuato que corresponda, en la Ley para el Ejercicio y Control de los Recursos Públicos para el Estado y los Municipios de Guanajuato, en el Reglamento del Instituto en materia de adquisiciones, enajenaciones, arrendamiento y contratación de servicios, y en las demás leyes, manuales y reglamentos de su competencia;
 
 VII.- Proponer al Consejo para su aprobación, manuales, reglamentos y el programa anual de auditorías, ordenando, en su caso, la ejecución de éstas;
 
@@ -333,81 +337,111 @@ En caso de que se interponga el recurso de revisión, se suspenderá la ejecuci�
 
 ### CAPÍTULO SEXTO. DE LAS INCONFORMIDADES
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2006)</small>
+
 ###### Artículo 30.
 
-La Contraloría será competente para resolver las inconformidades a que se refiere el capítulo décimo de la Ley de adquisiciones, enajenaciones, arrendamientos y contratación de servicios relacionados con bienes muebles e inmuebles del Estado de Guanajuato, que presenten los proveedores y/o prestadores de servicios por actos relacionados con licitaciones públicas o adjudicaciones directas, que realice el Comité o las unidades administrativas del Instituto.
+Las personas interesadas podrán inconformarse por escrito ante la Contraloría, por las resoluciones o los actos que contravengan las disposiciones de la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Sector Público en el Estado de Guanajuato, dentro de los diez días hábiles siguientes a aquél en que éstos se realicen o notifiquen, o el inconforme tenga conocimiento de los mismos.
+
+Transcurrido el plazo referido, precluye para los interesados el término para interponer el recurso de inconformidad.
+
+Cuando el interesado tenga su domicilio fuera de la ciudad de Guanajuato, el escrito de inconformidad podrá remitirse por correo certificado con acuse de recibo, considerándose en este supuesto como fecha de presentación del recurso de inconformidad aquella en la cual se haya presentado en la oficina de correos correspondiente.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2006)</small>
 
 ###### Artículo 31.
 
-La inconformidad deberá presentarse por escrito ante la Contraloría dentro de los cinco días hábiles siguientes a aquél en que ocurra el acto o el inconforme tenga conocimiento del acto impugnado.
+El recurso de inconformidad deberá contener como mínimo:
 
-Transcurrido el plazo referido, precluye el derecho a interponer la inconformidad, sin perjuicio de que la Contraloría pueda de oficio actuar en cualquier momento.
+I.- Nombre o razón social de la parte inconforme, y en su caso, los documentos que acrediten la personalidad jurídica de quien promueve;
 
-Cuando la inconformidad sea presentada ante un órgano incompetente del Instituto, será remitida a la Contraloría, en un plazo no mayor de tres días hábiles, a partir del día siguiente a su recepción.
+II.- Domicilio para recibir notificaciones;
+
+III.- Nombre de la autoridad que emitió el acto;
+
+IV.- El acto motivo de la inconformidad;
+
+V.- Los hechos en los que base su inconformidad; y
+
+VI.- Las pruebas que ofrezca.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2006)</small>
 
 ###### Artículo 32.
 
-Cuando el proveedor y/o prestador de servicio tenga su domicilio fuera de la ciudad de Guanajuato, el escrito de inconformidad podrá remitirse por correo certificado con acuse de recibo.
+En el recurso de inconformidad que se presente en los términos a que se refiere este capítulo, el inconforme deberá manifestar, bajo protesta de decir verdad, los hechos que le consten relativos al acto o actos que aduce son irregulares y acompañar la documentación que sustente su petición. La manifestación de hechos falsos se sancionará conforme a las disposiciones de la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Sector Público en el Estado de Guanajuato y a las demás que resulten aplicables.
+
+Cuando el recurso de inconformidad se declare improcedente y se advierta que se interpuso con el único propósito de retrasar o entorpecer el procedimiento de contratación, se impondrá al inconforme una multa con arreglo a lo establecido por el artículo 118 de la ley referida en el párrafo anterior.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2006)</small>
 
 ###### Artículo 33.
 
-El escrito de inconformidad deberá contener como mínimo:
+Presentado el recurso de inconformidad, la Contraloría podrá decretar la suspensión del procedimiento de adjudicación hasta en tanto se resuelva lo conducente. Una vez notificada la suspensión, cualquier acto que contravenga dicha medida cautelar será nulo.
 
-I.- Órgano al que se dirige;
+La Contraloría, en un plazo no mayor a cinco días hábiles contados a partir de la recepción del informe justificado previsto en el artículo 35 de este reglamento, podrá decretar la suspensión del procedimiento de contratación, cuando:
 
-II.- Nombre o razón del inconforme, y en su caso, los documentos que acrediten su personalidad;
+I.- Se advierta que existan o pudieran existir actos contrarios a las disposiciones de la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Sector Público en el Estado de Guanajuato o a las disposiciones que de ella deriven, o bien, que de continuarse con el procedimiento de contratación pudieran producirse daños o perjuicios al patrimonio o presupuesto del Instituto;
 
-III.- Domicilio para oír y recibir notificaciones en la ciudad de Guanajuato;
+II.- Con la suspensión no se cause perjuicio al interés público y no se contravengan disposiciones de orden público; y
 
-IV.- Nombre de la unidad administrativa que emitió el acto o en su caso, el Comité;
+III.- Cuando sea el inconforme quien solicite la suspensión, éste deberá garantizar los daños y perjuicios que pudiera ocasionar a la convocante o a otro proveedor, mediante fianza por el monto que fije la Contraloría; sin embargo, otro proveedor interesado podrá otorgar contrafianza equivalente a la que corresponda a la fianza, en cuyo caso quedará sin efectos la suspensión.
 
-V.- El acto o fallo motivo de la inconformidad;
-
-VI.- Hechos en los que base su inconformidad; y
-
-VII.- Las pruebas con que cuente para sustentar la misma.
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2006)</small>
 
 ###### Artículo 34.
 
-Presentada la inconformidad, la Contraloría podrá decretar la suspensión del proceso de adjudicación en los siguientes casos:
+Recibido el recurso de inconformidad, se correrá traslado con copia del mismo al tercero o terceros proveedores interesados para que en el término de cinco días hábiles, manifiesten lo que a su interés convenga.
 
-I.- Si de la documentación remitida por el Comité o la unidad administrativa o de la investigación realizada se advierte que existen o pueden existir datos contrarios a las disposiciones del Código, de la Ley de adquisiciones, enajenaciones, arrendamientos y contratación de servicios relacionados con bienes muebles e inmuebles del Estado de Guanajuato, a los acuerdos del Consejo o da algún otro ordenamiento jurídico aplicable; y
-
-II.- Si de continuarse con el procedimiento de la licitación pública o adjudicación directa, pudieran producirse daños o perjuicios al Instituto.
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2006)</small>
 
 ###### Artículo 35.
 
-La Contraloría no podrá decretar la suspensión, si con ello se causa perjuicio y se afecta la organización, desarrollo y vigilancia de los procesos electorales, responsabilidad del Instituto.
+La Contraloría solicitará a la autoridad emisora del acto motivo de la inconformidad un informe justificado en el que dé respuesta a los puntos del recurso de inconformidad presentado, proporcione la documentación requerida y manifieste si a su parecer se reúnen los requisitos contenidos en el artículo 33 de este reglamento para otorgar la suspensión; dicho informe deberá rendirse en un plazo de cinco días hábiles contados a partir del día hábil siguiente a aquel en que se le corra traslado del escrito de inconformidad.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2006)</small>
 
 ###### Artículo 36.
 
-La Contraloría al día hábil siguiente de la presentación del escrito de inconformidad, dictará el acuerdo de radicación ordenando el registro en el libro que se lleve para tal efecto. En el mismo acuerdo se admitirán o desecharán las pruebas ofrecidas, o en su caso se desechará la inconformidad por encontrar motivo manifiesto de improcedencia.
+Rendido el informe de la autoridad, la Contraloría abrirá un periodo probatorio de diez días hábiles, en el que podrán presentarse todas las pruebas que sean pertinentes, en términos de lo previsto por la Ley de Justicia Administrativa del Estado de Guanajuato.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2006)</small>
 
 ###### Artículo 37.
 
-Admitida la inconformidad se correrá traslado con copia de la misma, al tercero o terceros perjudicados para que en el plazo de cinco días hábiles siguientes a aquél en que surta efectos la notificación, manifiesten lo que a su interés convenga.
+La Contraloría, al concluir el periodo probatorio, resolverá lo procedente dentro de los cinco días hábiles siguientes.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2006)</small>
 
 ###### Artículo 38.
 
-De la misma forma la Contraloría solicitará al Comité o unidad administrativa un informe justificado en el que dé respuesta a los puntos de la inconformidad y le proporcione la documentación requerida, el cual deberá rendirse en un plazo de cinco días hábiles siguientes a aquél en que surta efectos la notificación.
+La resolución que emita la Contraloría podrá determinar:
 
-Rendido el informe se abrirá un periodo probatorio de diez días hábiles.
+I.- La nulidad del procedimiento a partir del acto o actos irregulares, estableciendo la forma o modalidades necesarias para que el mismo se realice conforme a la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Sector Público en el Estado de Guanajuato;
+
+II.- La nulidad total del procedimiento;
+
+III.- La declaración de improcedencia de la inconformidad; o
+
+IV.- El reconocimiento de la validez del procedimiento o acto impugnado.
+
+En los supuestos previstos por las fracciones I y II, cuando existan elementos que hagan presumir fundadamente la existencia de alguna responsabilidad respecto de los servidores públicos que hayan intervenido, se determinará también el inicio del procedimiento de responsabilidad administrativa.
+
+En el supuesto previsto por la fracción III, deberá determinarse lo conducente sobre la posible responsabilidad del inconforme, en los términos del artículo 32 de este reglamento.
+
+La resolución que ponga fin al recurso de inconformidad podrá ser impugnada ante el Tribunal de lo Contencioso Administrativo del Estado de Guanajuato.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2006)</small>
 
 ###### Artículo 39.
 
-La Contraloría al concluir el periodo probatorio resolverá lo procedente, dentro de los cinco días hábiles siguientes.
+La resolución deberá ser notificada por escrito al inconforme, al tercero o terceros proveedores interesados y por oficio a la autoridad emisora del acto motivo de la inconformidad en un plazo de cinco días hábiles.
 
-La resolución que emita la Contraloría será notificada personalmente al inconforme dentro de los dos días siguientes a aquél en que se haya dictado, en el domicilio que señaló para tal efecto, así como mediante oficio al tercero o terceros perjudicados y al Comité o a la unidad administrativa del Instituto.
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2006)</small>
 
 ###### Artículo 40.
 
-La resolución que emita la Contraloría, sin perjuicio de la responsabilidad que procede respecto a los Servidores Públicos que hayan intervenido, tendrá como consecuencia:
-
-I.- La nulidad del procedimiento a partir del acto o actos irregulares, estableciendo las directrices necesarias para que el mismo se realice conforme a la ley;
-
-II.- La nulidad total del procedimiento; o
-
-III.- La declaración de improcedencia de la inconformidad.
+Dictada la resolución del recurso de inconformidad en el supuesto de la fracción II del artículo 38 de este reglamento, el Comité deberá proceder a verificar conforme al criterio de adjudicación, si dentro de la licitación, concurso o subasta existe otra oferta o postura que resulte aceptable, en cuyo caso, el contrato se celebrará con el proveedor respectivo que ofrezca las mejores condiciones para el Instituto.
 
 ### CAPÍTULO SÉPTIMO. DEL RECURSO DE REVISIÓN
 
@@ -450,3 +484,13 @@ Primero.- El presente reglamento entrará en vigor el cuarto día siguiente al d
 Segundo.- Los Consejeros Ciudadanos y los demás Servidores Públicos que determine el Consejo General del Instituto Electoral del Estado de Guanajuato, deberán presentar su informe inicial de situación patrimonial dentro de los treinta días naturales siguientes a la entrada en vigor del presente reglamento.
 
 Tercero.- Lo dispuesto en el artículo 28 de este reglamento se aplicará una vez que la Unidad de Defensoría Administrativa del Servidor Público entre en funciones.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 7 DE ABRIL DE 2006.
+
+PRIMERO.- Las reformas al presente reglamento entrarán en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Notifíquese por estrados.
+
+TERCERO.- Publíquese el presente acuerdo en el Periódico Oficial del Gobierno del Estado de Guanajuato.
