@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-para-las-visitas-de-verificacion-y-auditorias-49714"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-02-28"
-last_updated: "2006-02-28"
+last_updated: "2006-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO PARA LAS VISITAS DE VERIFICACION Y AUDITORIAS QUE SE PRACTIQUEN A LOS PARTIDOS POLITICOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 2006.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 28 de febrero de 2006.
 
@@ -101,9 +101,7 @@ En el ejercicio de sus atribuciones, de conformidad con las disposiciones legale
 
 ###### Artículo 4.
 
-De las resoluciones favorables que dicten la Comisión y el Consejo respecto de las consultas que planteen los Partidos Políticos sobre situaciones reales y concretas, respecto a la aplicación de las disposiciones del presente Reglamento, derivan derechos, siempre que la consulta se haya formulado por escrito.
-
-Las consultas referidas en el párrafo anterior, que se formulen a la Comisión o al Consejo, deberán ser resueltas en un plazo de cuarenta y cinco días hábiles. Transcurrido dicho plazo sin que se notifique la resolución, el Partido Político podrá considerar que la Comisión o el Consejo, según sea el caso, resolvió negativamente.
+(DEROGADO, P.O. 7 DE ABRIL DE 2006)
 
 ###### Artículo 5.
 
@@ -414,3 +412,19 @@ AUDITORÍAS Y SU DESARROLLO 18 AL 26
 ### CAPÍTULO VIII. DEL CÓMPUTO DE LOS PLAZOS 30 AL 31
 
 ### CAPÍTULO IX. DE LAS IMPUGNACIONES 32 AL 33
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 7 DE ABRIL DE 2006.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE GUANAJUATO.
+
+SE TRANSCRIBEN UNICAMENTE LOS PUNTO DEL ACUERDO DE REFORMAS QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+PRIMERO.- Se deroga el artículo cuarto del Reglamento para las visitas de verificación y auditorías que se practiquen a los partidos políticos.
+
+SEGUNDO.- La derogación surte efectos a partir del 24 de febrero de 2006, fecha en que se dictó la resolución en la que fue decretada.
+
+TERCERO.- Notifíquese por estrados.
+
+CUARTO.- Publíquese el presente acuerdo en el Periódico Oficial del Gobierno del Estado de Guanajuato.
