@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2005-12-12"
+last_updated: "2006-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE ABRIL DE 2006.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -558,17 +558,27 @@ La ley establecerá los mecanismos que faciliten la organización y la expansió
 
 La ley alentará y protegerá la actividad económica que realicen los particulares y proveerá las condiciones para que el desenvolvimiento del sector privado contribuya al desarrollo económico nacional, en los términos que establece esta Constitución.
 
-> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 2006)</small>
 
 ###### Art. 26.
 
-El Estado organizará un sistema de planeación democrática del desarrollo nacional que imprima solidez, dinamismo, permanencia y equidad al crecimiento de la economía para la independencia y la democratización política, social y cultural de la Nación.
+A. El Estado organizará un sistema de planeación democrática del desarrollo nacional que imprima solidez, dinamismo, permanencia y equidad al crecimiento de la economía para la independencia y la democratización política, social y cultural de la Nación.
 
-Los fines del proyecto nacional contenidos en esta Constitución determinarán los objetivos de la planeación. La planeación será democrática. Mediante la participación de los diversos sectores sociales recogerá las aspiraciones y demandas de la sociedad para incorporarlas al plan y los programas de desarrollo. Habrá un plan nacional de desarrollo al que se sujetarán obligatoriamente los programas de la administración Pública Federal.
+Los fines del proyecto nacional contenidos en esta Constitución determinarán los objetivos de la planeación. La planeación será democrática. Mediante la participación de los diversos sectores sociales recogerá las aspiraciones y demandas de la sociedad para incorporarlas al plan y los programas de desarrollo. Habrá un plan nacional de desarrollo al que se sujetarán obligatoriamente los programas de la Administración Pública Federal.
 
-La ley facultará al Ejecutivo para que establezca los procedimientos de participación y consulta popular en el sistema nacional de planeación democrática, y los criterios para la formulación, instrumentación, control y evaluación del plan y los programas de desarrollo. Asimismo determinará los órganos responsables del proceso de planeación y las bases para que el Ejecutivo Federal coordine mediante convenios con los gobiernos de las entidades federativas e induzca y concierte con los particulares las acciones a realizar para su elaboración y ejecución.
+La ley facultará al Ejecutivo para que establezca los procedimientos de participación y consulta popular en el sistema nacional de planeación democrática, y los criterios para la formulación, instrumentación, control y evaluación del plan y los programas de desarrollo. Asimismo, determinará los órganos responsables del proceso de planeación y las bases para que el Ejecutivo Federal coordine mediante convenios con los gobiernos de las entidades federativas e induzca y concierte con los particulares las acciones a realizar para su elaboración y ejecución.
 
 En el sistema de planeación democrática, el Congreso de la Unión tendrá la intervención que señale la ley.
+
+B. El Estado contará con un Sistema Nacional de Información Estadística y Geográfica cuyos datos serán considerados oficiales. Para la Federación, estados, Distrito Federal y municipios, los datos contenidos en el Sistema serán de uso obligatorio en los términos que establezca la ley.
+
+La responsabilidad de normar y coordinar dicho Sistema estará a cargo de un organismo con autonomía técnica y de gestión, personalidad jurídica y patrimonio propios, con las facultades necesarias para regular la captación, procesamiento y publicación de la información que se genere y proveer a su observancia.
+
+El organismo tendrá una Junta de Gobierno integrada por cinco miembros, uno de los cuales fungirá como Presidente de ésta y del propio organismo; serán designados por el Presidente de la República con la aprobación de la Cámara de Senadores o en sus recesos por la Comisión Permanente del Congreso de la Unión.
+
+La ley establecerá las bases de organización y funcionamiento del Sistema Nacional de Información Estadística y Geográfica, de acuerdo con los principios de accesibilidad a la información, transparencia, objetividad e independencia; los requisitos que deberán cumplir los miembros de la Junta de Gobierno, la duración y escalonamiento de su encargo.
+
+Los miembros de la Junta de Gobierno sólo podrán ser removidos por causa grave y no podrán tener ningún otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones docentes, científicas, culturales o de beneficencia; y estarán sujetos a lo dispuesto por el Título Cuarto de esta Constitución.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1934)</small>
 
@@ -1520,9 +1530,9 @@ XXIX-B.- Para legislar sobre las características y uso de la Bandera, Escudo e 
 
 XXIX-C.- Para expedir las leyes que establezcan la concurrencia del Gobierno Federal, de los Estados y de los Municipios, en el ámbito de sus respectivas competencias, en materia de asentamientos humanos, con objeto de cumplir los fines previstos en el párrafo tercero del artículo 27 de esta Constitución.
 
-> <small>(ADICIONADA, D.O.F. 3 DE FEBRERO DE 1983)</small>
+> <small>(REFORMADA, D.O.F. 7 DE ABRIL DE 2006)</small>
 
-XXIX-D.- Para expedir leyes sobre planeación nacional del desarrollo económico y social.
+XXIX-D.- Para expedir leyes sobre planeación nacional del desarrollo económico y social, así como en materia de información estadística y geográfica de interés nacional.
 
 > <small>(ADICIONADA, D.O.F. 3 DE FEBRERO DE 1983)</small>
 
@@ -2500,7 +2510,9 @@ Para los efectos de las responsabilidades a que alude este Título se reputarán
 
 El Presidente de la República, durante el tiempo de su encargo, sólo podrá ser acusado por traición a la patria y delitos graves del orden común.
 
-(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994) (F. DE E., D.O.F. 3 DE ENERO DE 1995)Los Gobernadores de los Estados, los Diputados a las Legislaturas Locales, los Magistrados de los Tribunales Superiores de Justicia Locales y, en su caso, los miembros de los Consejos de las Judicaturas Locales, serán responsables por violaciones a esta Constitución y a las leyes federales, así como por el manejo indebido de fondos y recursos federales.
+(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994) (F. DE E., D.O.F. 3 DE ENERO DE 1995)
+
+Los Gobernadores de los Estados, los Diputados a las Legislaturas Locales, los Magistrados de los Tribunales Superiores de Justicia Locales y, en su caso, los miembros de los Consejos de las Judicaturas Locales, serán responsables por violaciones a esta Constitución y a las leyes federales, así como por el manejo indebido de fondos y recursos federales.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
@@ -5095,6 +5107,22 @@ D.O.F. 12 DE DICIEMBRE DE 2005.
 PRIMERO. El presente Decreto entrará en vigor a los tres meses siguientes de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Los Estados de la Federación y el Distrito Federal contarán con seis meses a partir de la entrada en vigor del Decreto, para crear las leyes, instituciones y órganos que se requieran para la aplicación del presente Decreto.
+
+D.O.F. 7 DE ABRIL DE 2006.
+
+Primero.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- En tanto se expide la Ley general a que se refiere el apartado B del Artículo 26 de esta Constitución, continuará en vigor la Ley de Información Estadística y Geográfica, y demás disposiciones legales y administrativas aplicables. Asimismo, subsistirán los nombramientos, poderes, mandatos, comisiones y, en general, las delegaciones y facultades concedidas, a los servidores públicos del Instituto Nacional de Estadística, Geografía e Informática.
+
+Tercero.- A la entrada en vigor de la Ley a que se refiere el apartado B del Artículo 26 de esta Constitución, los recursos financieros y materiales, así como los trabajadores adscritos al Instituto Nacional de Estadística, Geografía e Informática, órgano desconcentrado de la Secretaría de Hacienda y Crédito Público, se transferirán al organismo creado en los términos del presente Decreto. Los trabajadores que pasen a formar parte del nuevo organismo se seguirán rigiendo por el apartado B del Artículo 123 de esta Constitución y de ninguna forma resultarán afectados en sus derechos laborales y de seguridad social.
+
+Cuarto.- Conforme a las disposiciones aplicables, el régimen presupuestario del organismo creado en los términos del presente Decreto, deberá garantizar la libre administración, la no-transferencia y la suficiencia de recursos públicos. Lo anterior, a efecto de que el organismo esté en condiciones de dar cumplimiento a los planes y programas que formule en observancia de la Ley a que se refiere el apartado B del Artículo 26 de esta Constitución.
+
+Quinto.- Los asuntos que se encuentren en trámite o pendientes de resolución a la entrada en vigor de este Decreto, se seguirán substanciando ante el Instituto Nacional de Estadística, Geografía e Informática, y posteriormente ante el organismo creado en los términos del presente Decreto.
+
+Sexto.- Dentro de los 180 días naturales, posteriores a la entrada en vigor del presente Decreto, el Congreso de la Unión deberá emitir la Ley a la que se refiere el apartado B del Artículo 26 de esta Constitución.
+
+Séptimo.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 
 ###### ARTICULO PRIMERO.
 
