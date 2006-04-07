@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2005-06-21"
+last_updated: "2006-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2006.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -2934,6 +2934,10 @@ Las leyes sobre responsabilidades administrativas de los servidores públicos, d
 
 Dichas sanciones, además de las que señalen las leyes, consistirán en suspensión, destitución, inhabilitación y sanción económica las que deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones que queden comprendidos dentro de aquellos a que se refiere la fracción III, del artículo 160, de esta Constitución, pero no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
 
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2006)</small>
+
+El Estado y los Municipios son responsables por los daños que con motivo de su actividad administrativa irregular cause en los bienes o derechos de los particulares. Esta responsabilidad es objetiva y directa. Los particulares tendrán derecho a la indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
+
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Artículo 168.
@@ -3771,3 +3775,9 @@ TERCERO. Las impugnaciones, a través de las acciones de inconstitucionalidad a 
 CUARTO. Hasta en tanto el Congreso del Estado expida un ordenamiento legal para regular las figuras a que se refieren los artículos 154, fracción II, numerales 1 y 11, y 156 de este Decreto, el Pleno del Tribunal Superior de Justicia y el Consejo de la Judicatura, en el ámbito de sus respectivas atribuciones, emitirán los acuerdos generales en los plazos y bajo las modalidades que estimen convenientes conforme a esta Constitución.
 
 QUINTO. Se derogan todas las disposiciones legales y reglamentarias que contravengan este Decreto.
+
+P.O. 7 DE ABRIL DE 2006.
+
+PRIMERO. El presente decreto entrará en vigor el día primero de enero del año 2007; misma fecha en que a más tardar deberán ser publicadas en el Periódico Oficial del Gobierno del Estado, las reformas a las disposiciones legales estatales y municipales de Coahuila, que regulen sobre la materia de responsabilidad del Estado.
+
+SEGUNDO. Publíquese este Decreto en el Periódico Oficial del Gobierno del Estado.
