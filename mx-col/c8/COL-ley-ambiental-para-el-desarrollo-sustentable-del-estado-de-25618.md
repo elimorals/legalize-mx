@@ -4,7 +4,7 @@ identifier: "COL-ley-ambiental-para-el-desarrollo-sustentable-del-estado-de-2561
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-15"
-last_updated: "2002-06-15"
+last_updated: "2006-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ABRIL DE 2006.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 15 de junio de 2002.
 
@@ -2033,341 +2033,129 @@ Los equipos de tratamiento de las aguas residuales de origen urbano que diseñen
 
 Las autoridades estatales y municipales, en los casos de aguas de su competencia, se coordinarán con la Federación, a efecto de realizar un sistemático y permanente monitoreo de la calidad de las aguas, para detectar la presencia de contaminantes o excesos de desechos orgánicos y aplicar las medidas que procedan o, en su caso, promover su ejecución. Igualmente cuando las aguas residuales afecten o puedan afectar fuentes de abastecimiento de agua.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)</small>
+
 ### CAPÍTULO IX. DISPOSICIONES COMPLEMENTARIAS RELATIVAS A MATERIALES Y RESIDUOS PELIGROSOS
 
 ###### ARTÍCULO 157.
 
-Para la prevención y control de la contaminación del suelo, se consideran los siguientes criterios:
-
-I. Corresponde al Gobierno del Estado, a los ayuntamientos y a la sociedad en general, prevenir la contaminación de los suelos;
-
-II. Deben instaurarse medidas para minimizar la generación de residuos sólidos así como para regular su manejo integral;
-
-III. Promover que en la pavimentación de calles y caminos se utilicen materiales no contaminantes y permeables al agua de manera que contribuya a la recarga de los mantos acuíferos;
-
-IV. La utilización de plaguicidas, fertilizantes y sustancias que sean ambientalmente adecuadas, compatible con el equilibrio ecológico y considerar sus efectos sobre la salud humana a fin de prevenir los daños que pudieran ocasionar; y
-
-V. En los suelos contaminados por la presencia de residuos sólidos, deberán llevarse a cabo las acciones necesarias para recuperar o restablecer sus condiciones.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 158.
 
-Los criterios establecidos en el artículo anterior deberán ser considerados en:
-
-I. La ordenación y regulación del desarrollo urbano;
-
-II. La autorización para la instalación y operación de los sistemas de limpia; y
-
-III. La generación, manejo y disposición final de residuos sólidos, así como en las autorizaciones y permisos que al efecto se otorguen.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 159.
 
-Quienes en la realización de obras o proyectos, o en el desarrollo de actividades relacionadas con la exploración, explotación, extracción y aprovechamiento de materiales o sustancias no reservadas a la federación produzcan contaminación o degradación de los suelos, están obligados a:
-
-I. Implantar prácticas y aplicar tecnologías que eviten los impactos ambientales negativos;
-
-II. Cumplir con las normas oficiales mexicanas y normas técnicas ambientales estatales;
-
-III. Restaurar y reforestar las áreas utilizadas una vez concluidos los trabajos respectivos; y
-
-IV. Tramitar y obtener las autorizaciones correspondientes a que se refiere este capítulo.
-
-Al momento de expedir la autorización a que se refiere la fracción anterior, la autoridad ordenará el establecimiento de un gravamen sobre el predio de que se trate ante el Registro Público de la Propiedad y del Comercio, a fin de garantizar la conservación o restauración del suelo dañado por la actividad de que se trate.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 160.
 
-La generación y separación de residuos sólidos y la prestación del servicio de limpia estarán sujetas a las disposiciones del presente Capítulo, el Reglamento, las normas oficiales mexicanas, las normas técnicas ambientales estatales y demás disposiciones que resulten aplicables.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 161.
 
-Corresponde a la Secretaría el ejercicio de las siguientes atribuciones:
-
-I. Incorporar en la política ambiental para el desarrollo sustentable las disposiciones para la gestión integral de los residuos sólidos;
-
-II. Formular, ejecutar y evaluar el Programa de Gestión Integral de Residuos Sólidos;
-
-III. Promover la investigación, desarrollo y aplicación de tecnologías, equipos, sistemas y procesos que eliminen, reduzcan o minimicen la liberación al ambiente y la transferencia de uno a otro de sus elementos, de contaminantes provenientes del manejo integral de los residuos sólidos;
-
-IV. Autorizar los sitios de disposición final;
-
-V. Regular las condiciones a que deberán sujetarse el diseño, la construcción y operación de las instalaciones destinadas al tratamiento y disposición final de residuos sólidos, apoyándose en las normas oficiales mexicanas, las normas técnicas ambientales estatales y demás disposiciones jurídicas aplicables; y
-
-VI. Promover la fabricación y utilización de empaques y envases para todo tipo de productos, cuyos materiales permitan reducir la generación de residuos sólidos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 162.
 
-Corresponde a los ayuntamientos el ejercicio de las siguientes atribuciones:
-
-I. Formular, ejecutar, vigilar y evaluar el programa municipal de prestación del servicio de limpia con base en el Programa Integral que al efecto expida la Secretaría;
-
-II. Prestar el servicio de limpia;
-
-III. Diseñar, construir y operar instalaciones para el composteo de residuos sólidos orgánicos;
-
-IV. Instrumentar sistemas de separación de residuos sólidos en orgánicos e inorgánicos, así como de manejo especial;
-
-V. Coordinar la colaboración de los vecinos y de organizaciones no gubernamentales, comerciales y de cualquier sector legalmente organizado, en el manejo y recolección de los residuos sólidos urbanos;
-
-VI. Erradicar la existencia de tiraderos clandestinos;
-
-VII. Orientar a la población sobre las prácticas de separación en la fuente y aprovechamiento y valorización de los residuos sólidos;
-
-VIII. Vigilar el cumplimiento de las normas técnicas ambientales estatales y demás disposiciones de la presente Ley, materia de su competencia; y
-
-IX. Aplicar las sanciones que correspondan, en el ámbito de su competencia, por violaciones al presente capítulo y demás ordenamientos jurídicos aplicables.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 163.
 
-Para los efectos de este Capítulo, los residuos sólidos se clasifican en:
-
-I. Urbanos; y
-
-II. De manejo especial no peligrosos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 164.
 
-Son residuos urbanos los generados en casas habitación, unidad habitacional o similares que resultan de la eliminación de los materiales y subproductos que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques, que provienen de cualquier otra actividad que genere residuos sólidos con características domiciliarias, los resultantes de la limpieza de las vías públicas y áreas comunes, siempre que no estén considerados por esta Ley como residuos de manejo especial no peligrosos, así como los residuos provenientes de las actividades de limpieza y cuidado de áreas verdes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 165.
 
-Son residuos de manejo especial, siempre y cuando no estén considerados como peligrosos por las disposiciones jurídicas federales aplicables:
-
-I. Los provenientes de los servicios de salud, generados por establecimientos que realicen actividades médico-asistenciales a las poblaciones humanas o animales, centros de investigación, desarrollo o experimentación en el área de farmacología y salud;
-
-II. Los cosméticos, medicinas y alimentos no aptos para el consumo generados por establecimientos comerciales, de servicios o industriales;
-
-III. Los generados por las actividades agrícolas, forestales y pecuarias, incluyendo los residuos de insumos utilizados en esas actividades;
-
-IV. Los de servicios de transporte, generados como consecuencia de las actividades que se realizan en terminales de transporte;
-
-V. Los residuos de la demolición, mantenimiento y construcción civil en general;
-
-VI. Los residuos tecnológicos provenientes de las industrias de informática, fabricantes de productos electrónicos o de vehículos automotores y otros que al transcurrir su vida útil y que por sus características, requieran de un manejo específico;
-
-VII. Los lodos deshidratados;
-
-VIII. Los neumáticos usados, muebles, enseres domésticos usados en gran volumen, plásticos y otros materiales de lenta degradación;
-
-IX. Los de laboratorios industriales, químicos, biológicos, de producción o de investigación;
-
-X. Los demás que determine el Reglamento.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 166.
 
-En materia de residuos de manejo especial no peligrosos, las personas que los generen están obligadas a prevenir y minimizar su generación, así como separarlos y reutilizarlos o reciclarlos.
-
-Quienes realicen alguna obra o actividad en la que se produzcan residuos de manejo especial no peligrosos de alto volumen, deberán presentar un informe a la Secretaría sobre el destino que le darán a dichos residuos. El cumplimiento de esta obligación deberá ser considerado por las autoridades competentes en la expedición de las autorizaciones necesarias para el inicio de la obra o actividad respectiva.
-
-Los residuos de manejo especial están sujetos a las disposiciones que establezcan esta Ley, su reglamento y los ordenamientos jurídicos de carácter federal y estatal que al efecto se expidan.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 167.
 
-En la formulación, ejecución y evaluación del Programa de Gestión Integral de Residuos Sólidos, la Secretaría incluirá los lineamientos, acciones y metas en materia de prestación del servicio de limpia y el manejo integral de los residuos sólidos con base en los siguientes criterios:
-
-I. La adopción de medidas de minimización de residuos sólidos;
-
-II. El fomento para la reducción y la separación de los residuos sólidos en el lugar de su generación, recolección y estaciones de transferencia;
-
-III. La disposición segura de los residuos sólidos;
-
-IV. La reducción de los residuos sólidos que llegan a los rellenos sanitarios;
-
-V. La adopción de medidas preventivas, considerando los costos y beneficios de la acción u omisión, cuando exista evidencia científica, para sospechar que la liberación al ambiente de residuos sólidos pueda causar daños a la salud o al ambiente;
-
-VI. El manejo integral de los residuos sólidos debe realizarse con un enfoque multimedios para evitar la transferencia de contaminantes de un medio a otro;
-
-VII. La necesidad de contar con infraestructura necesaria para asegurar que los residuos sólidos generados se manejen de manera ambientalmente adecuada;
-
-VIII. La consideración del ordenamiento ecológico y territorial, los programas de desarrollo urbano y las normas oficiales mexicanas;
-
-IX. El desarrollo de acciones de educación y capacitación para la generación y manejo integral de los residuos sólidos;
-
-X. El establecimiento de un sistema de responsabilidad compartida para la generación y el manejo integral de los residuos sólidos, a fin de evitar situaciones de riesgo e impactos negativos a la salud humana y el ambiente, sin perjuicio de las medidas técnicamente necesarias para el mejor manejo de los residuos sólidos;
-
-XI. La participación activa de los individuos, la sociedad civil organizada y el sector privado en el manejo integral de los residuos sólidos;
-
-XII. La armonización de las políticas del manejo integral de los residuos sólidos con los programas de ordenamiento ecológico y territorial, así como la identificación de áreas apropiadas para la ubicación de infraestructura para su manejo integral;
-
-XIII. El fomento para la generación, sistematización y difusión de información del manejo de los residuos sólidos para la toma de decisiones;
-
-XIV. La definición de estrategias y acciones intersectoriales para la prevención de la generación y para el manejo integral de residuos sólidos, conjugando las variables económicas, sociales, culturales, tecnológicas, sanitarias y ambientales;
-
-XV. El establecimiento de acciones que eviten el arrojo de residuos sólidos en cuerpos o cursos de agua;
-
-XVI. El establecimiento de medidas adecuadas para reincorporar al ciclo productivo materiales o sustancias reutilizables o reciclables;
-
-XVII. El depósito en forma ambientalmente adecuada los residuos sólidos;
-
-XVIII. El desarrollo y uso tecnologías, métodos, prácticas y procesos de producción y comercialización que favorezcan la minimización o reaprovechamiento de los residuos sólidos y su manejo adecuado;
-
-XIX. El establecimiento de acciones orientadas a recuperar las áreas degradadas por la descarga inapropiada e incontrolada de los residuos sólidos y los sitios contaminados, de conformidad con lo que establezcan las disposiciones jurídicas aplicables; y
-
-XX. Los demás que establezca el Reglamento.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 168.
 
-La Secretaría elaborará el Inventario de Residuos Sólidos y sus Fuentes Generadoras con base en la información proporcionada por quienes presten los servicios y operen los sistemas de limpia, con la finalidad de:
-
-I. Orientar la toma de decisiones tendientes a la prevención, control y minimización de dicha generación;
-
-II. Proporcionar a las generadoras o a quienes manejen o disponen finalmente de los residuos sólidos, indicadores acerca de su estado físico y propiedades o características inherentes que permitan anticipar su comportamiento en el ambiente;
-
-III. Dar a conocer la relación existente entre las características físicas, químicas o biológicas inherentes a los residuos sólidos, y la probabilidad de que ocasionen o puedan ocasionar efectos adversos a la salud humana, al ambiente o a los bienes en función de sus volúmenes, sus formas de manejo y la exposición que de éste se derive; y
-
-IV. Identificar las fuentes generadoras, los diferentes tipos de residuos sólidos, los distintos materiales que los constituyen y los aspectos relacionados con los mercados de los materiales valorizables, entre otros aspectos, con base a la información proporcionada por los ayuntamientos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 169.
 
-Toda persona tiene la obligación de separar selectivamente los residuos sólidos en orgánicos e inorgánicos que genere dentro de sus domicilios, empresas, establecimientos mercantiles, instituciones públicas y privadas, centros educativos, dependencias gubernamentales y en general todo generador de residuos urbanos y de manejo especial, y depositarlos en contenedores independientes con su señalamiento pertinente, con el fin de facilitar su recolección o bien llevar aquellos valorizables directamente a los establecimientos de reutilización y reciclaje.
-
-La administración pública promoverá permanentemente programas de educación formal y no formal, así como programas de difusión que desarrollen en los centros de trabajo e instituciones educativas, mecanismos orientados a fomentar una cultura de manejo integral de los residuos sólidos y promuevan la separación de dichos residuos y su valorización.
-
-Es obligación de las escuelas públicas y privadas, así como centros de trabajo, establecer contenedores para la separación selectiva de residuos sólidos en orgánicos e inorgánicos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 170.
 
-Con la finalidad de alcanzar los objetivos y metas del presente Capítulo, la Secretaría requerirá al productor, distribuidor, comerciante o cualquier otra persona que genere residuos sólidos en alto volumen, el cumplimiento de las siguientes obligaciones:
-
-I. Instrumentar planes de manejo de residuos sólidos en sus procesos de producción, prestación de servicios o en la utilización de envases y embalajes, así como su fabricación o diseño, comercialización o utilización, contribuyan a la minimización de residuos sólidos y promuevan su reutilización, reciclaje, incineración u otro tipo de disposición final, ocasionando el menor deterioro ambiental;
-
-II. Hacer un manejo integral de los residuos sólidos derivados de sus productos, o contribuir económicamente a los sistemas públicos de manejo de residuos sólidos, en medida tal que se cubran los costos atribuibles a su manejo;
-
-III. Adoptar sistemas eficientes de recuperación o retorno de los residuos derivados de sus productos finales; y
-
-IV. Sustituir el uso de envases y embalajes desechables por los de retorno-reembolso, para minimizar la generación de residuos sólidos o facilitar su reutilización o disposición final, en sujeción con los objetivos de la presente Ley.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 171.
 
-Queda prohibido por cualquier motivo:
-
-I. Arrojar o abandonar residuos sólidos de cualquier tipo en la vía pública, áreas comunes, parques, barrancas, y en general en sitios no autorizados;
-
-II. Depositar en los recipientes de almacenamiento de uso público o privado, animales muertos, parte de ellos o residuos sólidos y sustancias tóxicas o peligrosas para la salud pública o aquellos que despidan olores desagradables, así como los residuos de la construcción;
-
-III. Quemar a cielo abierto o en lugares no autorizados, cualquier tipo de residuos sólidos;
-
-IV. Arrojar o abandonar en lotes baldíos, a cielo abierto o en cuerpos de aguas superficiales o subterráneas, sistemas de drenaje, alcantarillado o en fuentes públicas, residuos sólidos de cualquier especie;
-
-V. Pepenar residuos sólidos de los contenedores instalados en la vía pública por personas no autorizadas, así como dentro de los sitios de disposición final y sus alrededores;
-
-VI. Establecer depósitos de residuos sólidos en lugares no autorizados;
-
-VII. Colocar propaganda comercial o política en el equipamiento urbano destinado a la recolección de residuos sólidos;
-
-VIII. El fomento o creación de basureros clandestinos;
-
-IX. El depósito o confinamiento de residuos sólidos fuera de los sitios destinados para dicho fin, en parques, áreas verdes, áreas de valor ambiental, áreas naturales protegidas, zonas rurales o áreas de conservación ecológica;
-
-X. El tratamiento térmico de residuos sólidos recolectados, sin considerar las disposiciones de la normatividad aplicable;
-
-XI. La dilución o mezcla de residuos sólidos o industriales en cualquier líquido y su vertimiento al sistema de alcantarillado, a cualquier cuerpo de agua o sobre suelos con o sin cubierta vegetal;
-
-XII. La mezcla de residuos peligrosos con residuos sólidos e industriales no peligrosos;
-
-XIII. El confinamiento o depósito final de residuos en estado líquido o con contenidos líquidos que excedan los máximos permitidos por las normas oficiales mexicanas o las normas técnicas ambientales. La mezcla de residuos no peligrosos con peligrosos, se considerará como un residuo peligroso; y
-
-XIV. Todo acto u omisión que contribuya al desaseo de las vías públicas y áreas comunes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 172.
 
-Se presume, salvo prueba en contrario, que son responsables de los daños y perjuicios que ocasionen los residuos sólidos, sus propietarios o poseedores, según corresponda. Las personas que manejan residuos sólidos se consideran poseedores durante el tiempo que los hayan tenido bajo su custodia o responsabilidad.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 173.
 
-Para la obtención de las autorizaciones a que se refiere el presente Capítulo, los interesados deberán presentar la solicitud correspondiente ante la Secretaría, en los formatos que ésta determine para tal efecto. Una vez presentada la solicitud, dicha autoridad deberá resolver en un plazo no mayor a 30 días hábiles, transcurrido el cual sin que medie resolución, se entenderá negada la autorización.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 174.
 
-Cuando la generación, manejo y disposición final de residuos sólidos y de manejo especial no peligrosos produzca contaminación del suelo, independientemente de las sanciones penales o administrativas que procedan, los responsables estarán obligados a:
-
-I. Llevar a cabo las acciones necesarias para recuperar y restablecer las condiciones del suelo; y
-
-II. En caso de que la recuperación y restablecimiento no sean factibles, a indemnizar los daños causados de conformidad con la legislación civil aplicable.
-
-La responsabilidad a que se refiere este precepto es de carácter objetivo y para su actualización no requiere que medie culpa o negligencia del demandado.
-
-Son responsables solidarios por los daños que produzcan tanto el generador como quienes presten los servicios de limpia.
-
-Los residuos sólidos de manejo especial no peligrosos que sean usados, tratados o reciclados en un proceso distinto al que los generó dentro del mismo predio, serán sujetos a un control interno por parte del generador, de acuerdo con las formalidades que establezca el reglamento de la presente Ley.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 175.
 
-La administración pública, el Congreso del Estado, el Supremo Tribunal de Justicia, los ayuntamientos y sus organismos incluirán dentro de sus sistemas de manejo ambiental medidas para prevenir, minimizar y evitar la generación de residuos sólidos y aprovechar su valor.
-
-Asimismo, están obligados a que en sus procesos de adquisiciones de bienes para la prestación de sus servicios y cumplimiento de sus funciones, se promueva la utilización y el consumo de productos compuestos total o parcialmente de materiales valorizables.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 176.
 
-Toda empresa o industria que se dedique a la reutilización o reciclaje de residuos sólidos deberán:
-
-I. Obtener autorización de las autoridades competentes;
-
-II. Ubicarse en lugares que reúnan los criterios que establezca la normatividad aplicable;
-
-III. Operar de manera segura y ambientalmente adecuada;
-
-IV. Contar con programas para prevenir y responder a contingencias o emergencias ambientales y accidentes;
-
-V. Contar con personal capacitado y continuamente actualizado; y
-
-VI. Contar con garantías financieras para asegurar que al cierre de las operaciones en sus instalaciones, éstas queden libres de residuos y no presenten niveles de contaminación que puedan representar un riesgo para la salud humana y el ambiente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 177.
 
-Las autoridades fomentarán programas para que en los establecimientos de mayoristas, tiendas de departamentos y centros comerciales se cuente con espacios y servicios destinados a la recepción de materiales y subproductos de residuos sólidos valorizables.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 178.
 
-Las empresas de mayoristas, tiendas de departamentos y centros comerciales en general, tienen la obligación de separar todo el material y subproductos de residuos sólidos valorizables, colocándolos en contenedores selectivos para facilitar su recolección o aprovechamiento.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 179.
 
-Los residuos sólidos que hayan sido seleccionados y remitidos a los mercados de valorización y que por sus características no puedan ser procesados, deberán enviarse para su disposición final.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 180.
 
-Los ayuntamientos diseñarán, construirán, operarán y mantendrán directamente o por adjudicación a particulares, los centros de composteo de residuos urbanos orgánicos, derivados de la prestación del servicio de limpia.
-
-Los ayuntamientos, en coordinación con la dependencia estatal competente, promoverán el desarrollo de mercados para la comercialización o mecanismos de donación del material que resulte de los composteros.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 181.
 
-La norma técnica ambiental estatal en materia de composteo deberá incluir, entre otros, los siguientes criterios:
-
-I. La garantía de un adecuado manejo y control de calidad de los materiales empleados para compostar;
-
-II. El estímulo y facilitación del uso de los materiales compostados, como productos orgánicos y mejoradores del suelo;
-
-III. Establecer niveles mínimos de calidad para la producción de composta comercializable o para donación, con el fin de no afectar al medio en que se aplique, las condiciones naturales del suelo o la fisiología de plantas y otros organismo vivos;
-
-IV. Establecer criterios y procedimientos para la certificación de la calidad de la composta comercializable o para donación según su destino final;
-
-V. Establecer criterios para la ubicación del sitio de la composta y el tipo de manejo, para evitar situaciones de peligro ambiental y de salud pública; y
-
-VI. Los controles sobre las características apropiadas de los materiales para la producción de composta y los límites para cada tipo de composta.
-
-Los procesos de análisis sobre la composición de la composta generada en los centros de composteo deberán identificar aquella que por sus características pueda ser comercializada o donada. La composta que no pueda ser aprovechada deberá ser enviada a los rellenos sanitarios para su disposición final.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 182.
 
-Toda empresa agrícola, industrial o agroindustrial podrá procesar los residuos biodegradables generados en sus procesos productivos en tratamientos, bajo la supervisión de la Secretaría.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 183.
 
-Las instalaciones de tratamiento térmico autorizadas deberán cumplir con lo establecido por la legislación vigente, sus reglamentos, las normas oficiales mexicanas y demás ordenamientos jurídicos aplicables.
-
-Los administradores o propietarios de dichas plantas deberán realizar reportes mensuales y enviar dicha información a la autoridad competente para su evaluación y control.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 184.
 
-Los rellenos sanitarios tendrán un acceso restringido a materiales reutilizables o reciclables y deberá recibir un menor porcentaje de residuos orgánicos. Además, emplearán mecanismos para instalar sistemas de extracción de biogás y lixiviados para su recolección.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 185.
 
-Las personas que administren los rellenos sanitarios deberán establecer programas de capacitación periódica para los operadores de los sitios de disposición final.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 186.
 
-En los rellenos sanitarios que hayan cumplido su vida útil sólo se destinarán como parques, jardines, centros de educación ambiental o sitios para el fomento de la recreación y la cultura.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ### CAPÍTULO X. ACTIVIDADES NO CONSIDERADAS ALTAMENTE RIESGOSAS
 
@@ -2986,3 +2774,23 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, a los 14 días del mes de junio del año dos mil dos.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JORGE HUMBERTO SILVA OCHOA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 8 DE ABRIL DE 2006.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente Ley, y en específico se deroga el Capítulo VIII del Título Quinto denominado "De la Normatividad de la Protección Ambiental", que, comprende los artículos del 157 al 186 de la Ley Ambiental para el Desarrollo Sustentable del Estado de Colima.
+
+TERCERO.- La Secretaría, y los Ayuntamientos iniciarán paulatinamente la implantación de medidas y mecanismos tendientes a organizar la estructura e instalar la infraestructura necesaria para cumplir estas disposiciones e iniciarán una campaña masiva para difundir entre la población las disposiciones de esta Ley y educar cívicamente a la población en cuanto a las ventajas de su cumplimiento, de acuerdo a los recursos presupuestales asignados.
+
+El calendario de aplicación de estas disposiciones deberá publicarse en el Programa al que se refiere el artículo 11 de la presente Ley.
+
+CUARTO.- En tanto se expidan las disposiciones administrativas que se deriven de la presente Ley, seguirán en vigor las que han regido hasta ahora en lo que no la contravengan.
+
+QUINTO.- Todos los actos, procedimientos y recursos administrativos relacionados con la materia de esta Ley, que se hubieren iniciado bajo la vigencia de otros ordenamientos, se tramitarán y resolverán conforme a los mismos.
+
+SEXTO.- El Ejecutivo del Estado expedirá el Reglamento de la presente Ley a más tardar 90 días después de su publicación.
+
+SÉPTIMO.- LA Secretaría, deberá expedir a más tardar 90 días después de la publicación, los programas que esta Ley establece.
