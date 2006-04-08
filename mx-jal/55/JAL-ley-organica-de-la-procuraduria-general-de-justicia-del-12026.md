@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-procuraduria-general-de-justicia-del-12026"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-02-05"
-last_updated: "2004-09-30"
+last_updated: "2006-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ABRIL DE 2006.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de febrero de 1998.
 
@@ -131,7 +131,9 @@ III. Poner a disposición de la autoridad judicial, a las personas detenidas y a
 
 IV. Solicitar el aseguramiento precautorio de bienes o la constitución de garantías para los efectos de la reparación de los daños y perjuicios, salvo que el inculpado los hubiese garantizado previamente;
 
-V. Aportar las pruebas pertinentes y promover las diligencias conducentes para la debida acreditación de los elementos del tipo penal del delito de que se trate, de la responsabilidad penal, de la existencia de los daños y perjuicios y para la fijación del monto de su reparación;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2006)</small>
+
+V. Aportar las pruebas pertinentes y promover las diligencias conducentes para la debida acreditación del cuerpo del delito de que se trate, de la responsabilidad penal, de la existencia de los daños y perjuicios para la fijación del monto de su reparación. Cuando el Ministerio Público considere que no es necesario el desahogo de la diligencia, deberá fundar y motivar su negativa;
 
 > <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2004)</small>
 
@@ -263,9 +265,13 @@ XI. Jefes de Unidad Departamental;
 
 XII. Agentes del Ministerio Público;
 
-XIII. Agentes de la Policía Investigadora; y
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2006)</small>
 
-XIV. El personal administrativo de apoyo que sea necesario.
+XIII. Secretarios;
+
+XIV. Agentes de la Policía Investigadora; y
+
+XV. El personal administrativo de apoyo que sea necesario.
 
 ###### Artículo 14.
 
@@ -477,17 +483,21 @@ Igualmente, se les podrá encomendar el estudio, dictamen y actuaciones que en c
 
 Para permanecer al servicio de la Procuraduría como agente del Ministerio Público o agente de la Policía Investigadora, dentro del Servicio Civil de Carrera, los interesados deberán participar en los programas de formación profesional y en los concursos de promoción a que se convoque.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2006)</small>
+
 ###### Artículo 38.
 
-Los oficiales secretarios, los mecanógrafos y el personal administrativo en general, para ingresar y permanecer en la Procuraduría, deberán presentar y aprobar los exámenes de selección, las evaluaciones psicosociales y acreditar los cursos de capacitación y actualización que prevean las normas reglamentarias y demás disposiciones aplicables.
+Los secretarios, los mecanógrafos y el personal administrativo en general, para ingresar y permanecer en la Procuraduría, deberán presentar y aprobar los exámenes de selección, las evaluaciones psicosociales y acreditar los cursos de capacitación y actualización que prevean las normas reglamentarias y demás disposiciones aplicables.
 
 ###### Artículo 39.
 
 Quienes formen parte del Servicio Civil de Carrera serán ascendidos previa evaluación que se realice al efecto, de conformidad con las normas reglamentarias y demás disposición aplicables.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2006)</small>
+
 ###### Artículo 40.
 
-Se procurará que los oficiales secretarios, mediante las evaluaciones correspondientes, sean promovidos a agentes del Ministerio Público; en igualdad de circunstancias tendrán preferencia para ello. En todo caso, deberán reunir los requisitos establecidos en el artículo 30 de esta Ley.
+Se procurará que los secretarios, mediante las evaluaciones correspondientes, sean promovidos a agentes del Ministerio Público, en igualdad de circunstancias tendrán preferencia para ello. En todo caso, deberán reunir los requisitos establecidos en el artículo 30 de esta Ley.
 
 ###### Artículo 41.
 
@@ -519,9 +529,11 @@ En el ejercicio de sus funciones, el personal de la Procuraduría observará las
 
 Los agentes del Ministerio Público y sus auxiliares no son recusables, pero deben excusarse del conocimiento de los asuntos en que intervengan cuando exista alguna de las causas de impedimento que la ley señala en los casos de los magistrados y jueces del orden común.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE ABRIL DE 2006)</small>
+
 ###### Artículo 46.
 
-Los agentes del Ministerio Público, los agentes de la Policía Investigadora, los peritos y los oficiales secretarios no podrán:
+Los agentes del Ministerio Público, los agentes de la Policía Investigadora, los peritos y los secretarios no podrán:
 
 I. Desempeñar otro empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Federal, Estatal, del Distrito Federal o de otra entidades federativas y municipios, así como trabajos o servicios en instituciones privadas, salvo los de carácter docente y aquéllos que autorice la Procuraduría, siempre y cuando no sean incompatibles con sus funciones en la Institución;
 
@@ -650,3 +662,7 @@ TERCERO.- Las disposiciones relativas a la Unidad Especializada, en el combate a
 P.O. 30 DE SEPTIEMBRE DE 2004.
 
 ÚNICO. El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco". La publicación oficial contendrá la exposición de motivos de la presente ley.
+
+P.O. 8 DE ABRIL DE 2006.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
