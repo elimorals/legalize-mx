@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-instituto-del-deporte-de-tabasco-44300"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-03-12"
-last_updated: "2005-03-12"
+last_updated: "2006-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DEL DEPORTE DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ABRIL DE 2006.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 12 de marzo de 2005.
 
@@ -49,9 +49,17 @@ a) INSTITUTO: Instituto del Deporte de Tabasco;
 
 b) DIRECTOR GENERAL: Director General del Instituto del Deporte de Tabasco;
 
-c) SECRETARÍA: Secretaría de Cultura, Recreación y Deporte; y
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2006)</small>
 
-d) REGLAMENTO: Reglamento Interior del Instituto del Deporte de Tabasco.
+c) SECRETARÍA: Secretaría de Cultura, Recreación y Deporte;
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2006)</small>
+
+d) REGLAMENTO: Reglamento Interior del Instituto del Deporte de Tabasco, y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE ABRIL DE 2006)</small>
+
+e) UNIDAD DEPORTIVA: Unidad Deportiva Olimpia XXI.
 
 ###### ARTÍCULO 3.
 
@@ -87,11 +95,15 @@ d) Unidad Jurídica; y
 
 e) Unidad de Infraestructura Básica Deportiva.
 
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2006)</small>
+
 II. UNIDADES ADMINISTRATIVAS
 
-a) Dirección de Desarrollo del Deporte; y
+a) Dirección de Desarrollo del Deporte;
 
-b) Dirección de Administración, Calidad e Innovación Gubernamental.
+b) Dirección de Administración, Calidad e Innovación Gubernamental, y
+
+c) Dirección de la Unidad Deportiva "Olimpia XXI".
 
 ### CAPÍTULO II. DE LAS ATRIBUCIONES DEL DIRECTOR GENERAL
 
@@ -138,6 +150,10 @@ XVI. Revisar y en su caso, proponer adecuaciones a la estructura orgánica del I
 XVII. Proporcionar los apoyos de becas deportivas y académicas a los atletas tabasqueños, jóvenes destacados, deportistas de alto rendimiento y con necesidades especiales;
 
 XVIII. Otorgar apoyos y estímulos deportivos a las Asociaciones Estatales y talentos deportivos;
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2006)</small>
+
+XVIII A. Otorgar apoyos económicos a las personas que coadyuven a las actividades deportivas y/o administrativas del lnstituto;
 
 XIX. Promover la creación de clubes deportivos populares en el Estado de Tabasco;
 
@@ -447,6 +463,34 @@ XXIX. Elaborar informes mensual, trimestral y anual de la situación financiera 
 
 XXX. Las demás que las Disposiciones Legales y Administrativas le confieran y no se contrapongan a este Reglamento.
 
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2006)</small>
+
+ARTÍCULO 19 BIS.- Corresponde al Director de la Unidad Deportiva, el ejercicio de las siguientes atribuciones:
+
+I. Planear, organizar, y supervisar los programas de las instalaciones de las diferentes disciplinas de la Unidad Deportiva para el desarrollo del deporte.
+
+II. Proponer políticas, estrategias y proyectos de factibilidad que permita incorporar a la población a la práctica deportiva.
+
+III. Aplicar las políticas generales de trabajo asegurando el cumplimiento de los objetivos y metas establecidos en el Plan Estatal de Desarrollo.
+
+IV. Elaborar, implementar y difundir el reglamento deportivo para el uso de las instalaciones deportivas y del comportamiento de los deportistas, dentro de la Unidad.
+
+V. Recepcionar y coordinar las solicitudes de asociaciones deportivas, clubes deportivos, ligas, escuelas y deportistas para elaborar la agenda de servicios de infraestructura deportiva.
+
+VI. Fomentar el buen uso de las instalaciones para la práctica del deporte.
+
+VII. Coordinar y supervisar con los responsables y con las personas solicitantes, la entrega-recepción de las instalaciones deportivas.
+
+VIII. Coadyuvar a la organización y evaluación de las actividades administrativas; así como de establecer la coordinación para la contabilidad de los costos de mantenimiento y operación de las unidades deportivas.
+
+IX. Realizar e implementar los planes y programas de mantenimiento preventivo y correctivo dentro de las instalaciones para asegurar que estas se mantengan en óptimas condiciones para su utilización.
+
+X. Supervisar el funcionamiento de los servicios de instalaciones eléctricas, hidráulicas y sanitarias; así como de seleccionar los equipos y herramientas requeridos.
+
+XI. Gestionar ante la Dirección de Administración, Calidad e Innovación Gubernamental, toda la documentación soporte para la operatividad y funcionamiento de la Unidad, y
+
+XII. Las demás que le señalen otros Ordenamientos Aplicables y las que le encomiende el Director General y no contravengan las Disposiciones del presente Reglamento.
+
 ### CAPÍTULO VI. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS
 
 ###### ARTÍCULO 20.
@@ -510,3 +554,11 @@ SECRETARIO DE GOBIERNO
 LIC. MÁXIMO EVIA RAMÍREZ
 
 SECRETARIO DE CULTURA, RECREACIÓN Y DEPORTE
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 8 DE ABRIL DE 2006.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Los asuntos pendientes al entrar en vigor este Acuerdo, que conforme al mismo deban pasar de una Unidad Administrativa a otra u otras, continuarán su trámite y serán resueltos por aquella o aquellas unidades a las que se le haya atribuido la competencia en el presente Acuerdo.
