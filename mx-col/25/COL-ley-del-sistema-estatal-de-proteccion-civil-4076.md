@@ -4,7 +4,7 @@ identifier: "COL-ley-del-sistema-estatal-de-proteccion-civil-4076"
 country: "mx"
 rank: "ley"
 publication_date: "1992-05-23"
-last_updated: "1992-05-23"
+last_updated: "2006-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 LEY DEL SISTEMA ESTATAL DE PROTECCION CIVIL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEXTO TRANSITORIO DE LA LEY DEL SISTEMA ESTATAL DE PROTECCION CIVIL DEL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 8 DE ABRIL DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DEROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 23 de mayo de 1992.
 
@@ -440,3 +442,19 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, a los dieciocho días del mes de mayo de 1992.
 
 El Gobernador Constitucional del Estado, Lic. Carlos De la Madrid Virgen.- Rúbrica.- El Secretario General de Gobierno, Lic. José Delgado Magaña.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 8 DE ABRIL DE 2006.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El Consejo Estatal de Protección Civil, se deberá instalar en un plazo no mayor de sesenta días a partir del día siguiente al de la publicación de esta Ley.
+
+TERCERO.- El Programa Estatal de Protección Civil deberá aprobarse en un plazo no mayor de noventa días a partir del día siguiente en que se instale el Consejo Estatal de Protección Civil.
+
+CUARTO.- En tanto no se expidan los reglamentos previstos en esta Ley, seguirán vigentes las disposiciones que regulan la integración y operación del Sistema Estatal de Protección Civil, en tanto no se opongan a la presente ley.
+
+QUINTO.- Los municipios dispondrán de un plazo de un año, a partir de la publicación de esta Ley, a fin de integrar sus sistemas municipales de protección civil, expedir el Programa y Reglamento Municipal de protección civil.
+
+SEXTO.- Se deroga la Ley del Sistema Estatal de Protección Civil publicada mediante decreto número 55 en el periódico oficial "El Estado de Colima" de fecha 23 de mayo de 1992, y cualquier disposición estatal en vigor que se oponga a la presente Ley.
