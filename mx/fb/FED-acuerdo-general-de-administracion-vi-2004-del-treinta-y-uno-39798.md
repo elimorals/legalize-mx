@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-vi-2004-del-treinta-y-uno-397
 country: "mx"
 rank: "acuerdo"
 publication_date: "2004-06-15"
-last_updated: "2004-06-15"
+last_updated: "2006-04-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39798&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2004-05-31"
 
 ACUERDO GENERAL DE ADMINISTRACION VI/2004, DEL TREINTA Y UNO DE MAYO DE DOS MIL CUATRO, DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE REGULA EL PLAN DE PRESTACIONES MEDICAS COMPLEMENTARIAS Y DE APOYO ECONOMICO EXTRAORDINARIO A LOS TRABAJADORES DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DE ADMINISTRACION III/2006, DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL S.J.F.G., TOMO XXIII, ABRIL DE 2006, PAGINA 1261, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el martes 15 de junio de 2004.
 
@@ -220,3 +222,17 @@ CUARTO.- Los casos no previstos en este acuerdo serán resueltos por el Comité.
 QUINTO.- Publíquese este acuerdo en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
 
 Así lo acordaron y firman los señores Ministros Mariano Azuela Güitrón, Sergio Salvador Aguirre Anguiano y Juan Díaz Romero, integrantes del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+S.J.F.G., TOMO XXIII, ABRIL DE 2006, PAGINA 1261.
+
+PRIMERO.-El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.-Se abrogan el Acuerdo General de Administración VI/2004 del treinta y uno de mayo de dos mil cuatro, del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación, por el que se regula el Plan de Prestaciones Médicas Complementarias y de Apoyo Económico Extraordinario a los Trabajadores de la Suprema Corte de Justicia de la Nación; el Acuerdo General de Administración 14/98, por el que se otorga a los trabajadores de la Suprema Corte de Justicia de la Nación, prestación para la adquisición de lentes graduados, así como todas aquellas disposiciones administrativas que se opongan a lo señalado en este acuerdo.
+
+TERCERO.-Las personas que a la entrada en vigor del presente acuerdo hayan recibido una prestación médica económica la seguirán recibiendo bajo los términos, condiciones y regulación con la que les fue otorgada.
+
+CUARTO.-Los casos no previstos en este acuerdo general serán resueltos por el Comité Operativo, el cual tendrá amplias facultades para interpretar el mismo.
+
+QUINTO.-Publíquese este acuerdo en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
