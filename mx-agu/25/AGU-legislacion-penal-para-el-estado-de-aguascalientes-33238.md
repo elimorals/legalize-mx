@@ -4,7 +4,7 @@ identifier: "AGU-legislacion-penal-para-el-estado-de-aguascalientes-33238"
 country: "mx"
 rank: "otro"
 publication_date: "2003-07-21"
-last_updated: "2006-03-15"
+last_updated: "2006-04-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ABRIL DE 2006.
 
 Legislación publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de julio de 2003.
 
@@ -157,7 +157,7 @@ VII. Cuando la víctima sea menor de 15 años de edad;
 
 > <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2005)</small>
 
-VIII. Cuando el responsable tenga relación de pareja o de carácter conyugal, sea pariente consanguíneo en línea recta, ascendiente o descendiente sin limitación de grado, pariente colateral consanguíneo o afin hasta el cuarto grado, con la víctima; o
+VIII. Cuando el responsable tenga relación de pareja o de carácter conyugal, sea pariente consanguíneo en línea recta, ascendiente o descendiente sin limitación de grado, pariente colateral consanguíneo o afín hasta el cuarto grado, con la víctima; o
 
 > <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2005)</small>
 
@@ -401,25 +401,71 @@ Tales acciones solo podrán imputarse a los servidores públicos del Estado de A
 
 Al responsable de la Desaparición Forzada de Personas se le aplicarán de 10 a 30 años de prisión, de 150 a 500 días multa, al pago total de la reparación de los daños y perjuicios ocasionados, y con inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
+
 ###### Artículo 40.
 
-El Secuestro consiste en la privación ilegal de la libertad de cualquier persona, mediante el uso de la violencia física o moral, y con el fin manifiesto y expreso de:
+El secuestro consisten (sic) en privar ilegalmente de su libertad a otro, si se efectúa con el propósito de:
 
-I. Obtener algún beneficio económico directamente de la víctima o de un tercero relacionado con ella;
+I. Obtener un beneficio económico o cualquier otra prestación;
 
-II. Que la autoridad estatal realice o deje de hacer un acto de cualquier índole;
+II. Que la autoridad, la víctima o un particular realice o deje de realizar un acto de cualquier índole; o
 
-III. Causar daño o perjuicio a la víctima o a persona distinta relacionada con ella; o
+III. Causar daño o perjuicio a la víctima o a persona distinta.
 
-IV. Obligar a la víctima a hacer o dejar de hacer un acto de cualquier índole, que no sea de contenido económico, o para que un tercero lo haga o lo omita.
+El delito de secuestro en cualquiera de sus modalidades no se sujetará a las reglas de la prescripción, por lo que no prescribirá bajo los supuestos a que éstas se refieren.
 
-Al responsable de Secuestro se le aplicarán de 10 a 40 años de prisión y de 25 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+Al responsable del secuestro, se le aplicarán de 15 a 40 años de prisión y de 250 a 1000 días de multa, y el pago total de la reparación de los daños y perjuicios ocasionados.
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2006)</small>
+
+Artículo 40 A.- Al responsable de secuestro se le sancionará con una pena de 20 a 50 años de prisión y de 400 a 2000 mil días multa, y el pago total de la reparación de los daños y perjuicios ocasionados, si en la privación de la libertad a que se refiere el artículo anterior concurre alguna o algunas de la (sic) circunstancias siguientes:
+
+I. Que se realice en lugar desprotegido y solitario;
+
+II. Que quienes lo lleven a cabo obren en grupo de dos o más personas;
+
+III. Que quien o quienes lo lleven a cabo se ostenten como autoridad sin serlo;
+
+IV. Que el o los que lo realizan, hayan sido servidor o funcionario público y se ostente como tal;
+
+V. Cuando quien participe de cualquier manera en la comisión de este ilícito, aun sin ostentarse como tal y sea servidor público encargado de prevenir, anunciar, investigar o juzgar la comisión de delitos,
+
+VI. Que el autor, aun sin ostentarse como tal sea o haya sido integrante de las autoridades encargadas de impartir justicia o de algún organismo protector de los derechos humanos;
+
+VII. Que el autor tenga vínculos de parentesco en cualquier línea hasta el cuarto grado, amistad, gratitud, confianza o relación laboral con las víctimas o personas relacionadas con éstas;
+
+VIII. Que se realice con violencia física o moral, vejación o tortura;
+
+IX. Cuando de esta conducta resulten graves daños físicos o mentales al ofendido, o muera durante el secuestro o a consecuencia de dicho acto, sin perjuicio de las reglas de concurso;
+
+X. Que la víctima sea menor de 16 años, o mayor de 60 años, o que por cualquier otra circunstancia esté en situación de inferioridad física o mental respecto del autor del secuestro; o
+
+XI. Que la víctima se encuentre embarazada.
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2006)</small>
+
+Artículo 40 B.- Se impondrá pena de 4 a 9 años de prisión y de 200 a 500 días multa, al que en relación con las conductas sancionadas por el artículo 40 y fuera de las causas de exclusión del delito previstas por la ley:
+
+I. Actúe como intermediario en las negociaciones del rescate, sin el acuerdo de quienes representen o gestionen en favor de la víctima;
+
+II. Colabore en la difusión pública de las pretensiones o mensajes de los secuestradores, fuera del estricto derecho a la información;
+
+III. Actúe como asesor con fines lucrativos de quienes representen o gestionen a favor de la víctima, y evite informar o colaborar con la autoridad competente en el conocimiento de la comisión del secuestro;
+
+IV. Aconseje el no presentar la denuncia del secuestro cometido, o bien en no colaborar o el obstruir la actuación de las autoridades;
+
+V. Efectúe el cambio de moneda nacional por divisas, o de éstas por moneda nacional sabiendo que es con el propósito directo de pagar el rescate a que se refiere la fracción I del artículo 40; o
+
+VI. Intimide a la víctima, a sus familiares o a sus representantes o gestores, durante o después del secuestro, para que no colaboren con las autoridades competentes.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
 
 ###### Artículo 41.
 
-La punibilidad será de 12 a 50 años de prisión y de 30 a 250 días multa, y pago total de la reparación de los daños y perjuicios ocasionados, cuando la privación de la libertad descrita para la configuración del hecho previsto en el artículo 40, se realice en lugar desprotegido o solitario, u ostentando el cargo de autoridad estatal sin serlo.
+Comete secuestro exprés el que para ejecutar los delitos de robo, extorsión, prive de la libertad a otro.
 
-Esta misma punibilidad se tendrá en cuenta cuando la víctima sea tratada con vejación, sea objeto de tortura, o la víctima sea menor de 16 años o mayor de 70 o que por cualquier otra circunstancia esté en situación de inferioridad física respecto del o de los inculpados.
+Al responsable de secuestro exprés se le impondrá de 7 a 20 años de prisión y de cien a cuatrocientos días multa, y el pago total de la reparación de los daños y perjuicios ocasionados, sin perjuicio de las penas que corresponden por los delitos de robo o extorsión y de las reglas de aplicación del concurso para la imposición de sanciones.
 
 ###### Artículo 42.
 
@@ -569,15 +615,17 @@ III. 4 a 10 años de prisión y de 150 a 200 días multa, y al pago total de la 
 
 La valoración que se haga de la afectación patrimonial tomará en consideración el salario mínimo general vigente en el Estado en el momento en que se concreticen los hechos descritos en el presente artículo.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
+
 ###### Artículo 48.
 
-La Usura consiste en el aprovechamiento de las malas condiciones económicas de una persona:
+La Usura consiste en:
 
-I. Para obtener para sí o para otro, un interés o ganancia, evidentes o encubiertas, superiores a lo permitido en el artículo 2,226 del Código Civil Vigente para el Estado, al realizar cualquier tipo de contrato o convenio de carácter civil; o
+I. Obtener para sí o para otro, al celebrar un acto jurídico de carácter económico independientemente de su naturaleza, un interés convencional evidente o encubierto, que exceda en más de diez por ciento a la tasa de interés más alta para instrumentos bancarios de tipo crediticio que estén vigentes en el mes inmediato anterior al día en que se pacte la obligación; o bien
 
-II. Para obtener para sí o para otro, una comisión evidentemente desproporcionada al procurarle o conseguirle un préstamo.
+II. Obtener del deudor o sus garantes, al celebrar un acto jurídico accesorio derivado del negocio principal, un interés evidente o encubierto, que por sí o sumando al principal resulte superior en más de diez por ciento a la tasa de interés más alta para instrumentos bancarios de tipo crediticio que estén vigentes en el mes inmediato anterior al día en que se pacte la obligación.
 
-Al responsable de Usura se le aplicarán de 2 a 8 años de prisión y de 25 a 250 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+AL responsable del delito de usura se le aplicarán de 2 a 8 años de prisión y de 25 a 250 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
 ###### Artículo 49.
 
@@ -2919,9 +2967,13 @@ XXI. Homicidio Culposo, prevista en los párrafos primero y segundo del artícul
 
 XXII. Aborto Culposo, previsto en los párrafos primero y segundo el artículo 93;
 
-XXIII. Lesiones Culposos, previstas los párrafos primero y segundo, fracciones I y II, del artículo 94; y
+XXIII. Lesiones Culposos, previstas los párrafos primero y segundo, fracciones I y II, del artículo 94; y (sic)
 
-XXIV. Daño en las Cosas Culposo, prevista en los párrafos primero y segundo, del artículo 95.
+XXIV. Daño en las Cosas Culposo, prevista en los párrafos primero y segundo, del artículo 95;
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2006)</small>
+
+XXV.- Usura, previsto en el Artículo 48.
 
 ###### Artículo 309.
 
@@ -4609,9 +4661,11 @@ La autoridad de los Centros de Reeducación Social concederá discrecionalmente 
 
 ###### Artículo 557.
 
-La libertad preparatoria se otorgará al sentenciado cuando se cumplan los siguientes requisitos:
+La Libertad preparatoria se otorgará al sentenciado cuando se cumplan los siguientes requisitos:
 
-I. Que no se trate de interno reincidente;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2006)</small>
+
+I. Que no se trate de interno reincidente, o que no haya sido sentenciado por el delito de secuestro en cualquiera de sus modalidades;
 
 II. Haber cumplido las tres quintas partes de la pena de prisión que se haya aplicado por comisión de delito grave, y las dos quintas partes, en caso de comisión de delito no grave;
 
@@ -4964,3 +5018,17 @@ P.O. 15 DE MARZO DE 2006.
 ###### ARTICULO UNICO.
 
 El Presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE ABRIL DE 2006.
+
+DECRETO NUMERO 80
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 10 DE ABRIL DE 2006.
+
+DECRETO NUMERO 153
+
+UNICO.- El presente decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
