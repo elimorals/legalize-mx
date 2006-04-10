@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2005-12-12"
+last_updated: "2006-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ABRIL DE 2006.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -12189,11 +12189,11 @@ Es permitido estipular interés por el mutuo, ya consista en dinero, ya en géne
 
 El interés es legal o convencional.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 1997)</small>
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
 
 ###### Artículo 2266.
 
-El interés legal es del nueve por ciento anual. El interés convencional es el que fijen los contratantes y puede ser menor que el interés legal, pero no podrá exceder en más de un treinta por ciento a la tasa de interés de instrumentos de captación bancaria, a sesenta días para personas físicas, que publique el Banco de México en el último ejemplar del Diario Oficial de la Federación, del mes inmediato anterior al día en que se pacte o genere la obligación a pagar dicho interés. Lo anterior, de ninguna manera será aplicable a las operaciones que celebren los integrantes del sistema financiero mexicano, ni para aquéllas operaciones que la ley estime como mercantiles.
+El interés legal es del nueve por ciento anual. El interés convencional es el que fijen los contratantes y puede ser menor al interés legal, pero no podrá exceder en más de un diez por ciento a la tasa de interés más alta para instrumentos bancarios de tipo crediticio que estén vigentes en el mes inmediato anterior al día en que se pacte la obligación. En caso de exceder la tasa de interés convencional, el Juez de oficio, deberá desminuirla hasta establecerla dentro de los límites del presente artículo.
 
 ###### Artículo 2267.
 
@@ -12267,7 +12267,7 @@ El contrato de arrendamiento no se rescinde por la muerte del arrendador ni del 
 
 Con exclusión de cualquier otra persona, el cónyuge, el o la concubina, los hijos, los ascendientes en línea consanguínea o por afinidad del arrendatario fallecido, se subrogarán en los derechos y obligaciones de éste, en los mismos términos del contrato, siempre y cuando hubieran habitado real y permanentemente el inmueble en vida del arrendatario.
 
-No es aplicable lo dispuesto en el párrafo anterior a las personas que ocupen el inmueble como subarrendatarias, cesionarias o por otro título semejante que no sea la situación prevista en esta artículo.
+No es aplicable lo dispuesto en el párrafo anterior a las personas que ocupen el inmueble como subarrendatarias, cesionarias o por otro título semejante que no sea la situación prevista en este artículo.
 
 ###### Artículo 2280.
 
@@ -13523,7 +13523,7 @@ Recibida y aprobada la obra por el que la encargó, el empresario es responsable
 
 ###### Artículo 2508.
 
-El dueño de una obra ajustada por un preCio fijo, puede desistir de la empresa comenzada, con tal que indemnice al empresario de todos los gastos y trabajos de la utilidad que pudiera haber sacado de la obra.
+El dueño de una obra ajustada por un precio fijo, puede desistir de la empresa comenzada, con tal que indemnice al empresario de todos los gastos y trabajos de la utilidad que pudiera haber sacado de la obra.
 
 ###### Artículo 2509.
 
@@ -15978,3 +15978,9 @@ P.O. 12 DE DICIEMBRE DE 2005.
 DECRETO No. 84.
 
 UNICO.- El Presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE ABRIL DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
