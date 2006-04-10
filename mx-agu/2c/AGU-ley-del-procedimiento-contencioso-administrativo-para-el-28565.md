@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-procedimiento-contencioso-administrativo-para-el-28565"
 country: "mx"
 rank: "ley"
 publication_date: "1999-09-19"
-last_updated: "1999-09-19"
+last_updated: "2006-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28565&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ABRIL DE 2006.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 19 de septiembre de 1999.
 
@@ -145,43 +145,23 @@ En los juicios que se tramiten ante el Tribunal, no habrá lugar a condenación 
 
 ### CAPITULO II. De las Notificaciones y de los Términos
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 13.
 
-Toda resolución durante el procedimiento debe notificarse, a más tardar, al tercer día siguiente a aquél en que el expediente se haya turnado al Actuario para ese efecto. A continuación de la resolución, se asentará la razón respectiva.
+Toda resolución durante el procedimiento debe notificarse, a más tardar, al día siguiente a aquél en que el expediente se haya turnado al Actuario para ese efecto. A continuación de la resolución, se asentará la razón respectiva.
 
-Al Actuario que si (sic) causa justificada no cumpla con esta obligación, se le impondrá una multa que no excederá del treinta por ciento de su salario mensual; en caso de reincidencia, se le impondrá una sanción hasta por treinta días de suspensión, de persistir en la omisión, será destituido sin responsabilidad para el Estado.
+Al Actuario que sin causa justificada incumpla con esta obligación o practique notificaciones en forma contraria a las formalidades conducentes, se le impondrá una multa que no excederá del treinta por ciento de su salario mensual; en caso de reincidencia, se dará vista al Consejo de la Judicatura Estatal, el cual, previa audiencia del Actuario, podrá imponerle una sanción hasta por treinta días de suspensión. De persistir en la omisión, el Consejo determinará la destitución del Actuario, sin responsabilidad para el Estado.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 14.
 
-Las notificaciones se harán:
-
-I.- Personalmente cuando se trate de las siguientes resoluciones:
-
-a).- La que admita o deseche la demanda, la contestación, y en su caso la ampliación;
-
-b).- La que señale fecha para la audiencia;
-
-c).- La que mande citar a los testigos, peritos, o a un tercero;
-
-d).- El requerimiento de un acto a la parte que deba cumplirlo;
-
-e).- La que admita, deseche o resuelva un incidente;
-
-f).- La que decrete un sobreseimiento;
-
-g).- La sentencia definitiva; y
-
-h).- La dictada en algún recurso;
-
-Las notificaciones personales a las autoridades, se realizarán por medio de oficio, por vía telegráfica, en casos urgentes, o por correo certificado con acuse de recibo.
-
-II.- Fuera de los casos señalados en la fracción anterior, las notificaciones que deban hacerse a las partes, se harán personalmente en el local del Tribunal, si se presentan dentro de las veinticuatro horas siguientes a aquella en que se haya dictado el acuerdo o resolución.
-
-Cuando no se presenten, se hará por lista autorizada, que se fijará en sitio visible del local del Tribunal. La lista contendrá el nombre de la persona a quien se notifica, el tipo de acuerdo y la fecha del mismo, asentándose en autos la fecha de la lista.
+Las notificaciones se practicarán siguiendo las reglas del Código de Procedimientos Civiles del Estado.
 
 ###### ARTICULO 15.
 
-El Actuario deberá asentar la razón del envío por correo o entrega de los oficios de notificación, así como de las notificaciones personales y por lista. Los acuses postales de recibo y las piezas certificadas devueltas se agregarán como constancias a dichas actuaciones.
+(DEROGADO, P.O. 10 DE ABRIL DE 2006)
 
 ###### ARTICULO 16.
 
@@ -205,7 +185,9 @@ El cómputo de los plazos se sujetará a las reglas siguientes:
 
 I.- Comenzarán a correr, a partir del día siguiente a aquél en que surta efectos la notificación;
 
-II.- Si están fijados en días, se computarán sólo los hábiles, entendiéndose por éstos aquellos en que se encuentren abiertas al público las oficinas del Tribunal, durante el horario normal de labores, la presencia del personal de guardia no habilita los días en que se suspendan éstas;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2006)</small>
+
+II.- Si están fijados en días, se computarán sólo los hábiles, entendiéndose por estos aquellos en que se encuentren abiertas al público las oficinas del Tribunal;
 
 III.- Si están señalados en período, o tienen una fecha determinada para su extinción, se comprenderán los días inhábiles; no obstante, si el último día de plazo o la fecha determinada fuere inhábil, el término se prorrogará hasta el día siguiente hábil; y
 
@@ -213,15 +195,17 @@ IV.- Para fijar la duración de los términos, los meses se regularán por el n�
 
 ###### ARTICULO 20.
 
-Son días inhábiles los que determine el Tribunal y dé a conocer mediante publicación en el Periódico Oficial del Estado.
+(DEROGADO, P.O. 10 DE ABRIL DE 2006)
 
 ### CAPITULO III. De los Impedimentos, Excusas y Recusaciones
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 21.
 
-Los Magistrados del Tribunal estarán impedidos para conocer en los siguientes casos:
+El Magistrado estará impedido para conocer en los siguientes casos:
 
-I.- Si son parientes consanguíneos, afines o civiles de alguna de las partes, en línea recta, sin limitación de grado; dentro del cuarto grado en la colateral, por consanguinidad, o del segundo en la colateral por afinidad; o de sus patronos o representantes;
+I.- Si tienen parentesco por consanguinidad, afinidad o civil con alguna de las partes, en línea recta, sin limitación de grado; dentro del cuarto grado en la colateral, por consanguinidad, o del segundo en la colateral por afinidad; o de sus patronos o representantes;
 
 II.- Si tienen interés personal en el asunto que haya motivado el juicio;
 
@@ -229,27 +213,37 @@ III.- Si han sido abogados o apoderados de alguna de las partes, en el mismo asu
 
 IV.- Si tienen amistad estrecha o enemistad manifiesta con alguna de las partes, sus abogados o representantes;
 
-V.- Si han emitido el acto impugnando o han intervenido, con cualquier carácter, en la fase oficiosa del procedimiento o en la ejecución; y
+V.- Si han emitido el acto impugnado o han intervenido, con cualquier carácter, en la fase oficiosa del procedimiento o en la ejecución; y
 
 VI.- Si son parte en un juicio similar, pendiente de resolución por el Tribunal.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 22.
 
-Los Magistrados tienen el deber de excusarse del conocimiento de los juicios en los que ocurra alguno de los impedimentos señalados en el Artículo anterior, y expresar de manera concreta en qué consiste el impedimento.
+El Magistrado tiene el deber de excusarse del conocimiento de los juicios en el que se presente alguno de los impedimentos señalados en el artículo anterior, y expresar de manera concreta en qué consiste el impedimento.
 
-Cuando un Magistrado se excuse de algún asunto sin causa legítima, cualquiera de las partes podrá interponer el recurso de reclamación.
+Cuando el Magistrado se excuse de algún asunto sin causa legitima, cualquiera de las partes podrá interponer el recurso de reclamación.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 23.
 
-Las partes podrán recusar a un Magistrado cuando esté en alguno de los casos de impedimento y podrán hacerlo hasta el momento de empezar la audiencia final.
+Las partes podrán recusar al Magistrado o a los Secretarios cuando estén en alguno de los casos de impedimento y podrán hacerlo hasta el momento de empezar la audiencia final.
+
+El Magistrado resolverá de plano la procedencia de la recusación; en contra de esta resolución no procede recurso alguno.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 24.
 
-Manifestada por un Magistrado la causa de impedimento, o habiendo sido recusado, pasará el asunto al Pleno, el que calificará la excusa o recusación y designará, en su caso, al Magistrado que deba sustituir al impedido.
+En caso de que la excusa o la recusación del Magistrado sea procedente, el asunto será enviado al Pleno del H. Supremo Tribunal de Justicia del Estado para la continuación y resolución del mismo.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 25.
 
-Si Se declara improcedente o no probada la causa de recusación, se impondrá al recusante una multa hasta por el equivalente a veinte días de salario mínimo general vigente en el Estado de Aguascalientes.
+Si se declara improcedente o no probada la causa de recusación, se impondrá al recusante una multa hasta por el equivalente a veinte días de salario mínimo general vigente en el Estado de Aguascalientes.
 
 ### CAPITULO IV. De la Improcedencia y de Sobreseimiento
 
@@ -343,7 +337,9 @@ Si la notificación fue por edictos, deberá señalar la fecha de la última pub
 
 Cuando las pruebas documentales no obren en poder del actor o cuando no hubiera podido obtenerlas, a pesar de tratarse de documentos que de manera legal se encuentren a su disposición, éste deberá señalar el archivo o ligar en que se hallen para que, a su costa, se mande expedir copia de ellos o se requiera su remisión, cuando ésta sea legalmente posible. Para este efecto, deberá identificar con toda precisión los documentos y, tratándose de los que pueda tener a su disposición, bastará con que se acompañe copia de la solicitud debidamente presentada. Se entiende que el demandante tiene a su disposición los documentos, cuando legalmente pueda obtener copia autorizada de los originales o de las constancias. En ningún caso se requerirá el envío de un expediente administrativo.
 
-Si al examinarse la demanda, se advierte que ésta es oscura, irregular o incompleta, o que no se adjuntaron los documentos señalados en el presente Artículo, el Magistrado instructor requerirá, mediante notificación personal al actor para que la aclare, corrija, complete o exhiba los documentos aludidos, en un plazo de cinco días, apercibiéndolo de que, de no hacerlo, se desechará de plano la demanda o se tendrán por no ofrecidas las pruebas, en su caso.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
+
+Si al examinarse la demanda o su ampliación en casos de negativa ficta, se advierte que ésta es oscura, irregular o incompleta, o que no se adjuntaron los documentos señalados en el presente artículo, se requerirá mediante notificación personal al actor para que la aclare, corrija, complete o exhiba los documentos aludidos, en un plazo de tres días, apercibiéndolo que de no hacerlo, se desechará de plano la demanda o se tendrán por no ofrecidas las pruebas.
 
 ###### ARTICULO 31.
 
@@ -411,7 +407,9 @@ En el caso de resolución negativa ficta, la autoridad expresará los hechos y e
 
 El demandado deberá adjuntar a su contestación:
 
-I.- Copias de la misma y de los documentos que acompañe, para cada una de las partes cuando éstos no excedan de 25 hojas. Su omisión dará lugar a que el Magistrado instructor lo requiera para que los exhiba, dentro de un término de cinco días, apercibiéndolo de que se tendrá por no contestada la demanda, en caso de incumplimiento;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2006)</small>
+
+I.- Copias de la misma y de los documentos que acompañe, para cada una de las partes cuando éstos no excedan de 25 hojas. Su omisión dará lugar a que el Magistrado lo requiera para que los exhiba, dentro de un término de cinco días, apercibiéndolo de que se tendrá por no contestada la demanda, en caso de incumplimiento;
 
 II.- El documento en que acredite su personalidad, cuando el demandado sea un particular y no gestione en nombre propio;
 
@@ -433,23 +431,33 @@ En los juicios que se tramiten ante el Tribunal, serán admisibles toda clase de
 
 Las pruebas supervenientes podrán presentarse, siempre que no se haya dictado sentencia.
 
-En este caso, el Magistrado instructor ordenará dar vista a la contraparte, para que, en el plazo de cinco días, exprese lo que a su derecho convenga, reservándose su admisión y valoración hasta la sentencia definitiva.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
+
+En este caso, se ordenará dar vista a la contraparte, para que, en el plazo de tres días, exprese lo que a su derecho convenga, reservándose su admisión y valoración hasta la sentencia definitiva.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 41.
 
-El Magistrado instructor podrá ordenar, de oficio, la práctica de cualquier diligencia que tenga relación con los puntos controvertidos o para acordar la exhibición de cualquier documento, notificando oportunamente a las partes, a fin de que puedan intervenir, si así conviene a sus intereses.
+Podrá ordenarse de oficio, la práctica de cualquier diligencia que tenga relación con los puntos controvertidos o para acordar la exhibición de cualquier documento, notificando oportunamente a las partes, a fin de que puedan intervenir, si así conviene a sus intereses.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 42.
 
-El Magistrado instructor podrá convocar a los peritos, para que comparezcan y respondan a las preguntas que él mismo y las partes les formulen, siempre que tengan relación directa con los puntos sobre los que verse el dictamen.
+Podrá convocarse a los peritos, para que comparezcan y respondan a las preguntas que el Magistrado y las partes les formulen, siempre que tengan relación directa con los puntos sobre los que verse el dictamen.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 43.
 
-Cuando los peritos de las partes no coincidan en los resultados y conclusiones en sus dictámenes, el Magistrado instructor designará perito tercero, de entre los que estén registrados en la Secretaría General de Acuerdos del Tribunal. En el caso de que no lo hubiese en la ciencia o arte sobre el cual verse el peritaje, el Magistrado instructor designará, bajo su responsabilidad, a la persona que deba rendir dicho dictamen.
+Cuando los peritos de las partes no coincidan en los resultados y conclusiones en sus dictámenes, el Magistrado designará perito tercero, de entre los que estén registrados en la Secretaría General del Tribunal.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 44.
 
-El perito tercero en discordia designado por el Magistrado instructor no será recusable, pero deberá excusarse, cuando se encuentre en alguno de los casos siguientes:
+El perito tercero en discordia designado por el Magistrado no será recusable, pero deberá excusarse, cuando se encuentre en alguno de los casos siguientes:
 
 I.- Consanguinidad, dentro del cuarto grado, con alguna de las partes o parentesco por afinidad;
 
@@ -457,27 +465,33 @@ II.- Interés directo o indirecto en el litigio; y
 
 III.- Ser acreedor, deudor, inquilino, arrendador, tener amistad estrecha o enemistad manifiesta con las partes, o tener dependencia económica con cualquiera de ellas.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 45.
 
-Para desahogar la prueba testimonial, el Magistrado instructor requerirá a la parte que la hubiera ofrecido, para que presente a sus testigos. Cuando el oferente manifieste no poder presentar a sus testigos, se citará a los mismos por conducto del Actuario, para que comparezcan el día y hora señalados para la celebración de la audiencia.
+Los testigos serán citados a declarar sólo cuando la parte que ofrezca su testimonio manifieste, desde el momento de ofrecer la prueba, no poder por sí misma hacer que se presenten.
 
-En la audiencia en la que se habrá de desahogar la prueba testimonial, se levantará acta pormenorizada de las declaraciones de los testigos, sin que se pueda formular por las partes ninguna otra pregunta que no obre en los interrogatorios exhibidos. El Magistrado instructor podrá formular preguntas a dichos testigos, no obstante que no se encuentren incluidas en los expresados interrogatorios.
+En la audiencia en la que se habrá de desahogar la prueba testimonial, se levantará acta pormenorizada de las declaraciones de los testigos, sin que se pueda formular por las partes ninguna otra pregunta que no obre en los interrogatorios exhibidos. El Magistrado podrá formular preguntas a dichos testigos, no obstante que no se encuentren incluidas en los expresados interrogatorios.
 
-Al Gobernador del Estado, Diputados, Magistrados, Jueces, Generales en servicio activo y Presidentes Municipales, se les pedirá su declaración por oficio y en esa forma la rendirán. En casos urgentes podrán declarar personalmente, para lo cual el juzgador se trasladará al lugar en que se encuentren.
+Al Gobernador del Estado, Diputados, Magistrados, Jueces, Generales en servicio activo y Presidentes Municipales, se les pedirá su declaración por oficio y en esa forma la rendirán. En casos urgentes podrán declarar personalmente, para lo cual el Magistrado se trasladará al lugar en que se encuentren.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 46.
 
-A fin de que las partes puedan rendir sus pruebas, las autoridades tienen la obligación de expedir, con toda oportunidad, las copias de los documentos que les soliciten; si dichas autoridades no cumplieran con esta obligación, la parte interesada solicitará al Magistrado instructor que requiera a las mismas. Se aplazará la audiencia, por un término que no exceda de diez días, pero si no obstante dicho requerimiento no se expidiere, se hará uso de los medios de apremio que establece esta ley. Si aún así no se cumpliere se pondrá en conocimiento del Ministerio Público.
+A fin de que las partes puedan rendir sus pruebas, las autoridades tienen la obligación de expedir, con toda la oportunidad, las copias de los documentos que les soliciten; si dichas autoridades no cumplieran con esta obligación, la parte interesada solicitará al Magistrado que requiera a las mismas. Se aplazará la audiencia, por un término que exceda de diez días, pero si no obstante dicho requerimiento no se expidiere, se hará uso de los medios de apremio que establece esta ley. Si aún así no se cumpliere se pondrá en conocimiento del Ministerio Público.
 
-En los casos en que la autoridad requerida no sea parte, el Magistrado procederá en los mismos términos del párrafo anterior.
+En los casos en que la autoridad requerida no sea pare, el Magistrado procederá en los mismos términos del párrafo anterior.
 
-Al interesado que de manera maliciosa, o con el solo propósito de obtener la prórroga de la audiencia, ocurra quejándose de la falta de expedición de las copias de los documentos solicitados a que se refiere el primer párrafo de este Artículo, o informe al Magistrado instructor que se le ha negado la expedición, se le impondrá multa de hasta el equivalente de un mes del salario mínimo general vigente en el Estado de Aguascalientes.
+Al interesado que de manera maliciosa, o con el solo propósito de obtener la prórroga de la audiencia, ocurra quejándose de la falta de expedición de las copias de los documentos solicitados a que se refiere el primer párrafo de este artículo, o informe al Magistrado que se le ha negado la expedición, se le impondrá multa de hasta el equivalente de un mes de salario mínimo general vigente en el Estado de Aguascalientes.
 
 ###### ARTICULO 47.
 
 La valoración de las pruebas se hará de acuerdo con las disposiciones relativas del Código de Procedimientos Civiles del Estado.
 
-Cuando por el enlace de las pruebas rendidas y de las presunciones resultantes, la Sala adquiera convicción distinta acerca de los hechos materia del litigio, podrá valorar las pruebas sin sujetarse a lo dispuesto en el párrafo anterior, debiendo fundar razonadamente esta parte de su sentencia.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
+
+Cuando por el enlace de las pruebas rendidas y de las presunciones resultantes, el Magistrado adquiera convicción distinta acerca de los hechos materia del litigio, podrá valorar las pruebas sin sujetarse a lo dispuesto en el párrafo anterior, debiendo fundar razonadamente esta parte de su sentencia.
 
 ### CAPITULO VIII. De los Incidentes
 
@@ -489,7 +503,9 @@ I.- El de acumulación de autos; y
 
 II.- El de nulidad de notificaciones.
 
-Mientras estén pendientes de resolución los incidentes mencionados, el juicio continuará hasta. antes de la celebración de la audiencia, si el incidente hecho valer es notoriamente frívolo e improcedente, se desechará de plano y se impondrá, a quien lo promueva, una multa hasta por el equivalente a un mes del salario mínimo general vigente en el Estado de Aguascalientes.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
+
+Mientras estén pendientes de resolución los incidentes mencionados, el juicio continuará hasta antes de la de la celebración de la audiencia, si el incidente hecho valer es notoriamente frívolo e improcedente, se desechará de plano y se impondrá, a quien lo promueva, una multa hasta por el equivalente a un mes del salario mínimo general vigente en el Estado.
 
 ###### ARTICULO 49.
 
@@ -503,29 +519,35 @@ II.- Independientemente de que las partes y los agravios sean o no diversos, se 
 
 Las partes podrán hacer valer el incidente a que se refiere el Artículo anterior, hasta antes de la celebración de la audiencia.
 
-La acumulación se tramitará de oficio o a petición de parte, ante el Magistrado instructor que conozca del juicio más antiguo, dicho Magistrado citará a las partes a una audiencia que se celebrará dentro de un plazo de ocho días, en la que se hará la relación de los autos, se presentarán alegatos y se formulará el proyecto de resolución que proceda, a más tardar a los cinco días siguientes.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
+
+La acumulación se tramitará de oficio o a petición de parte y se sustanciará citando a las partes a una audiencia que se celebrará dentro de un plazo de cinco días, en la que se hará la relación de los autos, se presentarán alegatos y se emitirá la resolución que proceda.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 51.
 
-Una vez decretada la acumulación, la Sala ordenará al Magistrado instructor que conozca del juicio más reciente, que envíe en un plazo que no excederá de cinco días, los autos al Magistrado que conoció el primer juicio.
+Una vez decretada la acumulación, el juicio más reciente se acumulará al más antiguo.
 
-Cuando no pueda decretarse la acumulación porque en alguno de los juicios se hubiese celebrado la audiencia, a petición de parte, o de oficio, se decretará la suspensión del procedimiento en el juicio en trámite; la suspensión subsistirá hasta que se pronuncie la resolución definitiva en el otro negocio.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 52.
 
-Las notificaciones que no fueren hechas conforme a lo dispuesto en esta Ley o, en su caso, de acuerdo con las disposiciones supletorias, serán nulas. El perjudicado podrá pedir que se declare la nulidad, dentro de los cinco días siguientes a aquel en que conoció el hecho, ofreciendo las pruebas pertinentes, en el mismo escrito en el que se promueva la nulidad.
+Las notificaciones que no fueren hechas conforme a lo dispuesto en esta Ley o, en su caso, de acuerdo con las disposiciones supletorias, serán nulas. El perjudicado podrá pedir que se declare la nulidad, dentro de los tres días siguientes a aquel en que conoció el hecho, ofreciendo las pruebas pertinentes, en el mismo escrito en el que se promueva la nulidad.
 
-Si se admite el incidente, se dará vista a las demás partes, por el término de cinco días, para que expongan lo que a su derecho convenga y ofrezcan pruebas; transcurrido dicho plazo, el Magistrado dictará la interlocutoria respectiva.
+Si se admite el incidente, se dará vista a las demás partes, por el término de tres días, para que expongan lo que a su derecho convenga y ofrezcan pruebas; transcurrido dicho plazo, el Magistrado dictará la interlocutoria respectiva.
 
-Si se declara la nulidad, el Magistrado ordenará reponer el procedimiento, desde la fecha de la notificación anulada. Asimismo, se impondrá al actuario una multa que no excederá de diez días del salario mínimo general vigente en el Estado; en caso de reincidencia, se le impondrá una sanción hasta por treinta días de suspensión; de persistir en la omisión, será destituido sin responsabilidad para el Estado, después de haber oído y recibido las pruebas que desee aportar en su defensa.
+Si se declara la nulidad, el Magistrado ordenará reponer el procedimiento, desde la fecha de la notificación anulada.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 53.
 
-Cuando alguna de las partes sostenga la falsedad de un documento, incluidas las promociones y actuaciones en Juicio, promoverá incidente que se hará valer ante el Magistrado instructor, antes del cierre de instrucción. Se correrá traslado de la promoción a las partes por el término de tres días. Con el escrito por el que se promueva el incidente o se desahogue el traslado del mismo, se ofrecerán las pruebas pertinentes y se presentarán los documentos, los cuestionarios e interrogatorios de testigos y peritos, siendo aplicables para las pruebas pericial y testimonial, las reglas relativas del principal.
+Cuando alguna de las pares sostenga la falsedad de un documento, incluidas las promociones y actuaciones en Juicio, promoverá incidente que se hará valer entes del cierre de la instrucción. Se correrá traslado de la promoción a las partes por el término de tres días. Con el escrito por el que se promueva el incidente o se desahogue el traslado del mismo, se ofrecerán las pruebas pertinentes y se presentarán los documentos, los cuestionarios e interrogatorios de testigos y peritos, siendo aplicables para las pruebas pericial y testimonial, las reglas relativas del principal.
 
-Las pruebas se desahogarán en la misma audiencia del principal, la cual, en virtud de la fecha previamente señalada, podrá suspenderse en caso necesario, y señalarse nueva fecha.
+Las pruebas se desahogarán en la misma audiencia del principal.
 
-El Magistrado instructor resolverá sobre la autenticidad del documento, exclusivamente para efectos de dicho juicio.
+El Magistrado resolverá sobre la autenticidad del documento en la sentencia definitiva, exclusivamente para efectos del juicio de que se trate.
 
 ### CAPITULO IX. De la Suspensión
 
@@ -533,11 +555,17 @@ El Magistrado instructor resolverá sobre la autenticidad del documento, exclusi
 
 El actor podrá solicitar la suspensión de la resolución o del acto administrativo, que tendrá por efecto mantener las cosas en el estado en que se encuentren, en tanto se pronuncia sentencia. La podrá solicitar el actor en su demanda o en cualquier momento del juicio antes de la sentencia.
 
-Cuando la suspensión se pida en la demanda, si procede, deberá concederse por el Magistrado instructor en el mismo auto en que la admita, haciéndolo saber de inmediato a la autoridad demandada, para su cumplimiento sin demora.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
+
+Cuando la suspensión se pida en la demanda, si procede, deberá concederse en el auto admisorio, haciéndolo saber de inmediato a la autoridad demandad para su cumplimiento.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
 
 No se otorgará la suspensión, si de concederse se sigue perjuicio a un evidente interés social o se contravienen disposiciones de orden público.
 
-La suspensión podrá ser revocada por el Magistrado instructor en cualquier etapa del juicio, si varían las condiciones por las cuales se otorgó.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
+
+La suspensión podrá ser revocada en cualquier etapa del juicio, si varían las condiciones por las cuales se otorgó.
 
 ###### ARTICULO 55.
 
@@ -547,7 +575,9 @@ En los casos en que proceda la suspensión, pero que pueda ocasionar daños y pe
 
 Si la suspensión fue concedida, dejará de surtir efectos si la garantía no se otorga dentro de los cinco días siguientes a la que quede notificado el auto que la hubiere concedido.
 
-Para hacer efectivas las garantías otorgadas con motivo de la suspensión, el interesado deberá solicitarlo ante el Magistrado instructor, dentro de los treinta días siguientes a la notificación de la sentencia, y se dará vista a las demás partes por un término de cinco días, para ofrecimiento de pruebas y alegatos, y se licitará la sentencia interlocutoria que corresponda.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
+
+Para hacer efectivas las garantías otorgadas con motivo de la suspensión, el interesado deberá solicitarlo dentro de los treinta días siguientes a la notificación de la sentencia; con la petición se dará vista a las partes por un término de cinco días, para ofrecimiento de pruebas y alegatos, transcurrido el cual, se dictará la sentencia interlocutoria que corresponda.
 
 ###### ARTICULO 56.
 
@@ -555,43 +585,47 @@ La suspensión otorgada conforme al Artículo anterior, quedará sin efecto si e
 
 No procederá lo señalado en esta disposición, si en virtud de la naturaleza del acto impugnado, el actor pudiera sufrir perjuicios irreparables al no suspender su ejecución y si las cosas no fueran posibles de restituirse a su estado inicial.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 57.
 
-Cuando los actos que se impugnan hubieran sido ejecutados y afecten a los actores, impidiéndoles el ejercicio de su única actividad de subsistencia o el acceso a su domicilio particular, el Magistrado instructor podrá dictar las medidas cautelares que estime pertinentes para preservar dicho medio de subsistencia.
+Cuando los actos que se impugnan hubieran sido ejecutados y afecten a los actores, impidiéndoles el ejercicio de su única actividad de subsistencia o el acceso a su domicilio particular, podrán dictarse las medidas cautelares que se estimen pertinentes para preservar dicho medio de subsistencia.
 
 ### CAPITULO X. De la Audiencia
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 58.
 
-La audiencia se celebrará ante el Magistrado instructor que corresponda, concurran o no las partes, y su orden será el siguiente:
+La audiencia se celebrara concurran o no las partes, y su orden será el siguiente:
 
-I.- Se dará cuenta con las reclamaciones de las partes, y con cualquier cuestión incidental suscitada durante la tramitación del juicio; al efecto, se recibirán las pruebas y los alegatos de las partes, sobre el particular. Acto continuo, el Secretario pronunciará la resolución que proceda, ordenando, en su caso, que se practiquen las diligencias omitidas;
+I.- Se dará cuenta con las reclamaciones de las partes, y con cualquier cuestión incidental suscitada durante la tramitación del juicio; al efecto, se recibirán las pruebas y los alegatos de las partes, sobre el particular. Acto continuo, se pronunciará la resolución que proceda, ordenando, en su caso, que se practiquen las diligencias omitidas;
 
-II.- Si la resolución de las reclamaciones o de los incidentes no trae como consecuencia el que deba suspender la audiencia, se leerán la demanda, su contestación y las demás constancias de autos;
+II.- Si la resolución de las reclamaciones o de los incidentes no trae como consecuencia el que deba suspenderse la audiencia, se leerán la demanda, su contestación y las demás constancias de autos;
 
-III- Se estudiarán, aún de oficio, los sobreseimientos que procedan, respecto de las cuestiones que impidan que se emita una decisión en cuanto al fondo, y se dictará la resolución que corresponda;
+III.- Se estudiarán, aún de oficio, los sobreseimientos que procedan, respecto de las cuestiones que impidan que se emita una decisión en cuanto al fondo, y se dictará la resolución que corresponda;
 
 IV.- En su caso, se desahogarán las pruebas que hayan sido ofrecidas, con relación a la validez o nulidad de la resolución o acto impugnado.
 
-El Magistrado podrá formular a las partes, a sus representantes, a los testigos y peritos, toda clase de preguntas respecto a las cuestiones debatidas.
+El Magistrado en la audiencia podrá formular a las partes, a sus representantes, a los testigos y peritos, toda clase de preguntas respecto a las cuestiones debatidas;
 
 V.- Se oirán los alegatos del actor, de la parte demandada, del tercero interesado y del coadyuvante, los que se pronunciarán en ese orden.
 
-Las partes podrán presentar sus alegatos por escrito o verbalmente. En este último caso, no podrán exceder de media hora, por cada parte.
+Las partes podrán presentar sus alegatos por escrito o verbalmente. En este último caso, no podrán exceder de diez minutos por cada parte.
 
 Las promociones que las partes formulen en la audiencia, así como sus oposiciones contra los acuerdos que en ella se dicten, se resolverán de plano; y
 
-VI.- Se dará por concluida la audiencia, y el Magistrado instructor emitirá el proyecto de sentencia.
+VI.- Se dará por concluida la audiencia y se citará a las partes para oír sentencia.
 
 ### CAPITULO XI. De la Sentencia
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 59.
 
-La sentencia deberá ser dictada por el Tribunal dentro de los 10 días siguientes a aquel en que se celebró la audiencia.
+La sentencia deberá ser dictada dentro de los10 días siguientes a aquel en que se celebró la audiencia.
 
-Para ello el Secretario correspondiente formulará el proyecto de sentencia dentro de los cinco días siguientes a la audiencia y lo turnará al Magistrado, quien tendrá un plazo de cinco días para revisar el proyecto, en su caso hacer las correcciones y modificaciones que considere pertinentes y emitir la sentencia definitiva.
-
-Para dictar resolución en los casos de sobreseimiento, por alguna de las causas previstas en el Artículo 26 de esta Ley, no será necesario que se celebre la audiencia en el juicio.
+Para dictar resolución en los casos de sobreseimiento previstos en el Artículo 26 de esta Ley, no será necesario que se celebre la audiencia en el juicio.
 
 ###### ARTICULO 60.
 
@@ -639,9 +673,11 @@ Las sentencias del Tribunal, no recurridas en tiempo y forma, tendrán fuerza de
 
 La cosa juzgada es la verdad legal y contra ella no es admisible recurso, ni prueba alguna, salvo los casos expresamente determinados por la ley. Hay cosa juzgada cuando la sentencia ha causado ejecutoria.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 65.
 
-Causan ejecutoria las sentencias dictadas por la Sala del Tribunal, en los siguientes casos:
+Las sentencias causan ejecutoria en los siguientes casos:
 
 I.- Cuando no admiten ningún medio de impugnación;
 
@@ -667,7 +703,9 @@ Si no se da cumplimiento a la resolución, no obstante los requerimientos anteri
 
 Cuando la autoridad demandada goce de fuero constitucional, el Tribunal formulará la excitativa de declaración de procedencia, de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado, ante la Legislatura Local.
 
-Si la ejecución consiste en la realización de un acto material, la Sala podrá realizarlo, en rebeldía de la demandada.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
+
+Si la ejecución consiste en la realización de un acto material, el Magistrado podrá realizarlo, en rebeldía de la demandada.
 
 ###### ARTICULO 69.
 
@@ -681,7 +719,9 @@ Las sanciones mencionadas en este capítulo, también serán procedentes cuando 
 
 El recurso de aclaración de sentencia tendrá por objeto esclarecer algún concepto o suplir cualquier omisión que contenga la sentencia sobre puntos discutidos en el litigio.
 
-Estas aclaraciones podrán hacerse de oficio, dentro del día hábil siguiente al de la publicación de la sentencia, o a instancia de parte, que deberá solicitarse al día siguiente al de la notificación. En éste último caso, el Magistrado instructor resolverá lo que estime procedente dentro de los cinco días siguientes al de la presentación del escrito en el que se solicite la aclaración.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
+
+Estas aclaraciones podrán hacerse de oficio, dentro del día hábil siguiente al de la publicación de la sentencia, o a instancia de parte, que deberá solicitarse al día siguiente al de la notificación. En este último caso, el Magistrado resolverá lo que estime procedente dentro de los cinco días siguientes al de la presentación del escrito en el que se solicite la aclaración.
 
 #### SECCION SEGUNDA. De la Reclamación
 
@@ -697,49 +737,55 @@ III.- Las que admitan o rechacen la intervención del coadyuvante o del tercero;
 
 IV.- Las que concedan o nieguen la suspensión solicitada;
 
-V.- La excusa de un Magistrado para conocer de algún asunto, si se considera que no existe causa legal para ello; y
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2006)</small>
+
+V.- La excusa del Magistrado para conocer de algún asunto, si se considera que no existe causa legal para ello; y
 
 VI.- Los acuerdos de mero trámite.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 72.
 
-La reclamación se interpondrá ante el propio Tribunal, dentro de los cinco días siguientes a aquél en que surta efectos la notificación de la resolución recurrida, expresando los agravios y exhibiendo copias de ellos para la parte contraria; si fueran varias, exhibirá una copia para cada una de ellas, de otra manera, no será admitido el recurso.
-
-Tratándose de la reclamación contra acuerdos de mero trámite, ésta se interpondrá dentro del término de tres días y se resolverá de plano en un término igual.
+La reclamación se interpondrá dentro de los tres días siguientes a aquel en que surta efectos la notificación de la resolución recurrida y se resolverá de plano.
 
 ###### ARTICULO 73.
 
-Interpuesto el recurso, el Magistrado instructor ordenará correr trasladado a las partes, para que, en el término de cinco días expresen lo que a su derecho convenga; y sin más trámite, dará cuenta a la Sala para que dentro de un término igual, se dicte la resolución correspondiente.
+(DEROGADO, P.O. 10 DE ABRIL DE 2006)
 
 #### SECCION TERCERA. De la Excitativa de Justicia
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 74.
 
-Las partes podrán formular excitativa de justicia ante el Pleno, cuando el Magistrado instructor no formule el proyecto respectivo, dentro del plazo señalado en esta ley.
+Las partes podrán formular excitativa de justicia ante el Consejo de la Judicatura Estatal, cuando el Magistrado no emita la resolución definitiva dentro del plazo señalado en esta Ley.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 75.
 
-Recibida la excitativa de justicia, el Presidente del Tribunal solicitará el informe al Magistrado instructor que corresponda, quien deberá rendirlo en el plazo de 24 horas. Si se encuentra fundada la excitativa, se otorgará un plazo, que no excederá de cinco días para que el Magistrado instructor formule el proyecto respectivo. Sí éste no cumpliere con dicha obligación, será subtituido (sic) en la forma que lo acuerde el Pleno.
+Recibida la excitativa de justicia, el Presidente del Consejo solicitará un informe al Magistrado que deberá rendirse en el plazo de 24 horas.
+
+Si se encuentra fundada la excitativa, se otorgará un plazo de cinco días para que el Magistrado emita la resolución de que se trate.
 
 ### CAPITULO XIV. De la Jurisprudencia
 
 ###### ARTICULO 76.
 
-Las sentencias del Tribunal constituirán jurisprudencia, que será obligatoria para éste, siempre que lo resuelto en ellas se sustente en cinco ejecutorias, no interrumpirlas por otra en contrario y que hayan sido aprobadas por unanimidad de votos de los Magistrados.
+(DEROGADO, P.O. 10 DE ABRIL DE 2006)
 
 ###### ARTICULO 77.
 
-La jurisprudencia se suspenderá cuando se pronuncie una resolución en contrario, debiendo expresarse en ella las razones que funden el cambio de criterio, las cuales deberán referirse a las que se tuvieron en consideración al establecerlas.
-
-Para la fijación de un nuevo criterio jurisprudencia¡ obligatorio, será necesario que se reúnan los requisitos señalados en el artículo anterior.
+(DEROGADO, P.O. 10 DE ABRIL DE 2006)
 
 ###### ARTICULO 78.
 
-Cuando las partes invoquen en el Juicio Contencioso Administrativo la jurisprudencia del Tribunal, lo harán por escrito, expresando el sentido de aquélla y designando, con precisión, las sentencias que la sustenten.
+(DEROGADO, P.O. 10 DE ABRIL DE 2006)
 
 ###### ARTICULO 79.
 
-El Secretario General de Acuerdos del Tribunal remitirá al Periódico Oficial del Estado, para su publicación, las tesis jurisprudenciales sustentadas por el Tribunal, así como las que sólo constituyan precedente.
+(DEROGADO, P.O. 10 DE ABRIL DE 2006)
 
 TRANSITORIOS:
 
@@ -788,3 +834,15 @@ Felipe González González
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 10 DE ABRIL DE 2006.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los procedimientos que actualmente se encuentren en trámite, se sujetarán para su continuación, en lo conducente, a las disposiciones de este Decreto.
