@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-telecomunicaciones-2611"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1995-06-07"
-last_updated: "1995-06-07"
+last_updated: "2006-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2611&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1995-06-06"
 
 LEY FEDERAL DE TELECOMUNICACIONES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE ABRIL DEL 2006.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 7 de junio de 1995.
 
@@ -77,9 +77,17 @@ XI. Secretaría: la Secretaría de Comunicaciones y Transportes;
 
 XII. Servicios de valor agregado: los que emplean una red pública de telecomunicaciones y que tienen efecto en el formato, contenido, código, protocolo, almacenaje o aspectos similares de la información transmitida por algún usuario y que comercializan a los usuarios información adicional, diferente o reestructurada, o que implican interacción del usuario con información almacenada;
 
-XIII. Sistema de comunicación vía satélite: el que permite el envío de señales de microondas a través de una estación transmisora a un satélite que las recibe, amplifica y envía de regreso a la Tierra para ser captadas por estación receptora, y
+XIII. Sistema de comunicación vía satélite: el que permite el envío de señales de microondas a través de una estación transmisora a un satélite que las recibe, amplifica y envía de regreso a la Tierra para ser captadas por estación receptora, y (sic)
 
-XIV. Telecomunicaciones: toda emisión, transmisión o recepción de signos, señales, escritos, imágenes, voz, sonidos o información de cualquier naturaleza que se efectúa a través de hilos, radioelectricidad, medios ópticos, físicos, u otros sistemas electromagnéticos.
+XIV. Telecomunicaciones: toda emisión, transmisión o recepción de signos, señales, escritos, imágenes, voz, sonidos o información de cualquier naturaleza que se efectúa a través de hilos, radioelectricidad, medios ópticos, físicos, u otros sistemas electromagnéticos;
+
+> <small>(ADICIONADA, D.O.F. 11 DE ABRIL DEL 2006)</small>
+
+XV. Servicio de radiodifusión: servicio de telecomunicaciones definido por el artículo 2 de la Ley Federal de Radio y Televisión, y
+
+> <small>(ADICIONADA, D.O.F. 11 DE ABRIL DEL 2006)</small>
+
+XVI. Servicio de radio y televisión: el servicio de audio o de audio y video asociado que se presta a través de redes públicas de telecomunicaciones, así como el servicio de radiodifusión.
 
 ###### Artículo 4.
 
@@ -149,6 +157,98 @@ VII. La Ley Federal de Radio y Televisión.
 
 La prestación de los servicios públicos de telégrafos y radiotelegrafía, queda reservada exclusivamente al Estado.
 
+> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DEL 2006)</small>
+
+###### Artículo 9-A.
+
+La Comisión Federal de Telecomunicaciones es el órgano administrativo desconcentrado de la Secretaría, con autonomía técnica, operativa, de gasto y de gestión, encargado de regular, promover y supervisar el desarrollo eficiente y la cobertura social amplia de las telecomunicaciones y la radiodifusión en México, y tendrá autonomía plena para dictar sus resoluciones. Para el logro de estos objetivos, corresponde a la citada Comisión el ejercicio de las siguientes atribuciones:
+
+I. Expedir disposiciones administrativas, elaborar y administrar los planes técnicos fundamentales y expedir las normas oficiales mexicanas en materia de telecomunicaciones;
+
+II. Realizar estudios e investigaciones en materia de telecomunicaciones, así como elaborar anteproyectos de adecuación, modificación y actualización de las disposiciones legales y reglamentarias que resulten pertinentes;
+
+III. Promover, en coordinación con las dependencias y entidades competentes, así como con las instituciones académicas y los particulares, el desarrollo de las actividades encaminadas a la formación de recursos humanos en materia de telecomunicaciones, así como el desarrollo tecnológico en el sector;
+
+IV. Opinar respecto de las solicitudes para el otorgamiento, modificación, prórroga y cesión de concesiones y permisos en materia de telecomunicaciones, así como de su revocación;
+
+V. Someter a la aprobación de la Secretaría, el programa sobre bandas de frecuencias del espectro radioeléctrico para usos determinados, con sus correspondientes modalidades de uso y coberturas geográficas que serán materia de licitación pública; así como coordinar los procesos de licitación correspondientes;
+
+VI. Coordinar los procesos de licitación para ocupar y explotar posiciones orbítales geoestacionarias y órbitas satelitales asignadas al país, con sus respectivas bandas de frecuencias y derechos de emisión y recepción de señales;
+
+VII. Establecer los procedimientos para la adecuada homologación de equipos, así como otorgar la certificación correspondiente o autorizar a terceros para que emitan dicha certificación, y acreditar peritos y unidades de verificación en materia de telecomunicaciones;
+
+VIII. Administrar el espectro radioeléctrico y promover su uso eficiente, y elaborar y mantener actualizado el Cuadro Nacional de Atribución de Frecuencias;
+
+IX. Llevar el registro de telecomunicaciones previsto en el Capítulo VI de la Ley Federal de Telecomunicaciones;
+
+X. Promover y vigilar la eficiente interconexión de los equipos y redes públicas de telecomunicaciones, incluyendo la que se realice con redes extranjeras, y determinar las condiciones que, en materia de interconexión, no hayan podido convenirse entre los concesionarios de redes públicas de telecomunicaciones;
+
+XI. Registrar las tarifas de los servicios de telecomunicaciones, y establecer obligaciones específicas, relacionadas con tarifas, calidad de servicio e información incorporando criterios sociales y estándares internacionales, a los concesionarios de redes públicas de telecomunicaciones que tengan poder sustancial en el mercado relevante, de conformidad con la Ley Federal de Competencia Económica;
+
+XII. Recibir el pago por concepto de derechos, productos o aprovechamientos, que procedan en materia de telecomunicaciones, conforme a las disposiciones legales aplicables;
+
+XIII. Vigilar la debida observancia a lo dispuesto en los títulos de concesión y permisos otorgados en la materia, y ejercer las facultades de supervisión y verificación, a fin de asegurar que la prestación de los servicios de telecomunicaciones se realice con apego a las disposiciones legales, reglamentarias y administrativas aplicables;
+
+XIV. Intervenir en asuntos internacionales en el ámbito de su competencia;
+
+XV. Proponer al titular de la Secretaría de Comunicaciones y Transportes la imposición de sanciones por infracciones a las disposiciones legales, reglamentarias y administrativas aplicables;
+
+XVI. De manera exclusiva, las facultades que en materia de radio y televisión le confieren a la Secretaría de Comunicaciones y Transportes la Ley Federal de Radio y Televisión, los tratados y acuerdos internacionales, las demás leyes, reglamentos y cualesquiera otras disposiciones administrativas aplicables, y
+
+XVII. Las demás que le confieran otras leyes, reglamentos y demás disposiciones aplicables.
+
+Para los fines de la presente Ley, al órgano desconcentrado a que se refiere este artículo se le podrá denominar también como la Comisión.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DEL 2006)</small>
+
+###### Artículo 9-B.
+
+El órgano de gobierno de la Comisión es el Pleno, que se integra por cinco comisionados, incluido su Presidente.
+
+Los comisionados deliberarán en forma colegiada y decidirán los asuntos por mayoría de votos, teniendo el Presidente voto de calidad en caso de empate.
+
+Para que el Pleno pueda sesionar deberán estar presentes, cuando menos, tres comisionados.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DEL 2006)</small>
+
+###### Artículo 9-C.
+
+Los comisionados serán designados por el Titular del Ejecutivo Federal y deberán cumplir los siguientes requisitos:
+
+I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
+
+II. Ser mayor de 35 y menor de 75 años, y
+
+III. Haberse desempeñado en forma destacada en actividades profesionales, de servicio público o académicas relacionadas sustancialmente con el sector telecomunicaciones.
+
+Los comisionados se abstendrán de desempeñar cualquier otro empleo, trabajo o comisión públicos o privados, con excepción de los cargos docentes. Asimismo, estarán impedidos para conocer asuntos en que tengan interés directo o indirecto.
+
+La Cámara de Senadores podrá objetar dichos nombramientos o la renovación respectiva por mayoría, y cuando ésta se encuentre en receso, la objeción podrá realizarla la Comisión Permanente, con la misma votación. En todo caso, la instancia legislativa tendrá treinta días para resolver a partir de la fecha en que sea notificada de los nombramientos; vencido este plazo sin que se emita resolución al respecto, se entenderán como no objetados los nombramientos del Ejecutivo Federal. Los comisionados asumirán el cargo una vez que su nombramiento no sea objetado conforme al procedimiento descrito.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DEL 2006)</small>
+
+###### Artículo 9-D.
+
+Los comisionados serán designados para desempeñar sus cargos por periodos de ocho años, renovables por un solo período, y sólo podrán ser removidos por causa grave debidamente justificada.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DEL 2006)</small>
+
+###### Artículo 9-E.
+
+Los comisionados elegirán de, entre ellos mismos y por mayoría de votos, al Presidente de la Comisión, quien tendrá este encargo por un período de cuatro años renovable, y a quien le corresponderá el ejercicio de las siguientes facultades, sin perjuicio de lo que establezca el Reglamento Interior de la Comisión:
+
+I. Planear, organizar, coordinar, dirigir, controlar y evaluar el funcionamiento de la Comisión, con sujeción a las disposiciones aplicables;
+
+II. Formular anualmente los anteproyectos de programas y presupuestos de la Comisión, para proponerlos directamente a la Secretaría de Hacienda y Crédito Público;
+
+III. Actuar como representante legal de la Comisión y celebrar los actos y convenios inherentes al objeto de la misma, o designar representantes para tal efecto;
+
+IV. Ejecutar las resoluciones de la Comisión y proveer lo necesario para su debido cumplimiento;
+
+V. Expedir y publicar un informe anual sobre el desempeño de las funciones de la Comisión, que incluya los resultados de sus acciones y los criterios que al efecto se hubieren aplicado, y
+
+VI. Resolver los recursos administrativos que se promuevan en contra de los actos y resoluciones que emitan las unidades administrativas de la Comisión, con excepción de los que emita el Pleno de la Comisión.
+
 ### CAPÍTULO II. DEL ESPECTRO RADIOELÉCTRICO
 
 ###### Artículo 10.
@@ -187,9 +287,13 @@ Las concesiones a que se refiere esta Ley sólo se otorgarán a personas física
 
 La participación de la inversión extranjera, en ningún caso podrá exceder del 49 por ciento, excepto en tratándose del servicio de telefonía celular. En este caso, se requerirá resolución favorable de la Comisión Nacional de Inversiones Extranjeras, para que la inversión extranjera participe en un porcentaje mayor.
 
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DEL 2006)</small>
+
 ###### Artículo 13.
 
-Las concesiones o permisos para el uso, aprovechamiento o explotación de bandas de frecuencias atribuidas a los servicios de radiodifusión de radio y televisión abierta, y su programación, estarán sujetas a lo dispuesto en la Ley Federal de Radio y Televisión.
+El servicio de radiodifusión, incluyendo el otorgamiento, prórroga, terminación de concesiones, permisos y asignaciones, para usar, aprovechar y explotar bandas de frecuencias atribuidas a tal servicio, se sujetará a lo dispuesto por la Ley Federal de Radio y Televisión.
+
+Los servicios de telecomunicaciones que se presten a través de las bandas de frecuencias atribuidas a los servicios de radiodifusión se regirán por lo dispuesto en la presente Ley.
 
 #### SECCIÓN II. DE LAS CONCESIONES SOBRE EL ESPECTRO RADIOELÉCTRICO
 
@@ -623,29 +727,53 @@ La regulación tarifaria que se aplique buscará que las tarifas de cada servici
 
 ### CAPÍTULO VI. DEL REGISTRO DE TELECOMUNICACIONES
 
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DEL 2006)</small>
+
 ###### Artículo 64.
 
-La Secretaría llevará el Registro de Telecomunicaciones, en el que se inscribirán:
+La Secretaria llevará el Registro de Telecomunicaciones, que incluirá el servicio de radiodifusión, en el que se inscribirán:
 
-I. Los títulos de concesión, los permisos y las asignaciones otorgadas y, en su caso, las modificaciones autorizadas a los mismos;
+I. Los títulos de concesión, los permisos y las asignaciones otorgadas; en su caso, las modificaciones de carácter legal o técnico de las concesiones o permisos y los datos generales por categoría, modalidad y distribución geográfica;
 
-II. Los servicios de valor agregado;
+II. El Cuadro Nacional de Atribución de Frecuencias y sus actualizaciones, así como la información relativa a los usuarios de cada segmento por región, con excepción de las bandas utilizadas para fines de seguridad pública y nacional;
 
-III. Los gravámenes impuestos a las concesiones y permisos;
+III. Los servicios de valor agregado;
 
-IV. La cesión de derechos y obligaciones a que se refiere esta Ley;
+IV. Los gravámenes impuestos a las concesiones y permisos;
 
-V. Las bandas de frecuencias otorgadas en las distintas zonas del país;
+V. La cesión de derechos y obligaciones;
 
-VI. Los convenios de interconexión con otras redes;
+VI. Las bandas de frecuencias otorgadas en las distintas zonas del país;
 
-VII. Las tarifas al público de los servicios de telecomunicaciones, y
+VII. Los convenios de interconexión con otras redes;
 
-VIII. Cualquier otro documento relativo a las operaciones de los concesionarios o permisionarios, cuando los reglamentos de esta Ley exijan dicha formalidad.
+VIII. Las tarifas al público de los servicios de telecomunicaciones;
+
+IX. Las tarifas mínimas autorizadas a que se refiere el artículo 53 de la Ley Federal de Radio y Televisión;
+
+X. Las disposiciones legales, reglamentarias y administrativas aplicables a los servicios de telecomunicaciones;
+
+XI. Los criterios adoptados por el Pleno relacionados con la interpretación administrativa de las disposiciones aplicables. Esta información deberá actualizarla la Comisión trimestralmente;
+
+XII. El informe anual de la Comisión;
+
+XIII. Los acuerdos internacionales suscritos por los Estados Unidos Mexicanos en materia de telecomunicaciones;
+
+XIV. Estadísticas actualizadas de los servicios de telecomunicaciones, acorde con la metodología de medición reconocida o recomendada por la Unión Internacional de Telecomunicaciones;
+
+XV. Las sanciones que imponga la Secretaría y, tratándose de radiodifusión, las que imponga la Secretaría de Gobernación inclusive, que hubieren quedado firmes, y
+
+XVI. Cualquier otro documento relativo a las operaciones de los concesionarios, permisionarios o asignatarios, cuando los reglamentos y demás disposiciones de carácter general derivados de esta Ley, de la Ley Federal de Radio y Televisión, u otras disposiciones legales o reglamentarias exijan dicha formalidad.
+
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DEL 2006)</small>
 
 ###### Artículo 65.
 
-La información contenida en el registro a que se refiere el artículo anterior podrá ser consultada por el público en general, salvo aquella que, por sus propias características, se considere legalmente de carácter confidencial.
+La información contenida en el Registro a que se refiere el artículo anterior podrá ser consultada por el público en general, salvo aquélla que, por sus propias características, se considere legalmente de carácter confidencial; dentro de ésta se incluirá la información referente a las bandas de frecuencias de uso oficial.
+
+Al Registro se tendrá acceso en forma remota por vía electrónica, conforme lo establezca el Reglamento respectivo.
+
+La Comisión inscribirá la información de que se trate dentro de los 60 días naturales siguientes a la fecha en que haya autorizado el acto materia de Registro, sin costo alguno para los concesionarios, permisionarios o registratarios, salvo en el caso de la fracción III del artículo 64 de esta Ley.
 
 ### CAPÍTULO VII. DE LA REQUISA
 
@@ -778,3 +906,27 @@ DECIMO PRIMERO.- A más tardar el 10 de agosto de 1996, el Ejecutivo Federal con
 México, D.F., a 18 de mayo de 1995.- Sen. Germán Sierra Sánchez, Presidente.- Dip. Lauro Rendón Castrejón, Presidente.- Sen. Angel Ventura Valle, Secretario.- Dip. Sergio Ramírez Vargas, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los seis días del mes de junio de mil novecientos noventa y cinco.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Esteban Moctezuma Barragán.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 11 DE ABRIL DEL 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La primera designación de los comisionados a que se refiere este Decreto, por única vez, se hará mediante nombramientos por plazos de cinco, seis, siete y, en dos casos, por ocho años, respectivamente. Los comisionados designados conforme a este artículo podrán ser designados para ocupar el mismo cargo por una segunda y única ocasión, por un periodo de ocho años.
+
+Los nombramientos a que se refiere el párrafo anterior serán realizados en un plazo no mayor de 30 días naturales a partir de la entrada en vigor del presente Decreto.
+
+No serán elegibles para ser comisionados o Presidente de la Comisión, las personas que ocupen dichos cargos a la entrada en vigor del presente Decreto, por lo que hace a la primera designación de los comisionados y del Presidente de la Comisión.
+
+TERCERO.- La primera designación del Presidente de la Comisión se hará mediante nombramiento por cuatro años, y la hará por única vez el Titular del Ejecutivo Federal, siguiendo el procedimiento a que se refiere el último párrafo del artículo 9 E de esta Ley.
+
+El nombramiento de Presidente de la Comisión se hará de entre los comisionados designados por un plazo de ocho años, de acuerdo con el artículo inmediato anterior.
+
+CUARTO.- Las referencias que, con anterioridad a la entrada en vigor del presente Decreto, se hacen en las leyes, tratados y acuerdos internacionales, reglamentos y demás ordenamientos a la Secretaría respecto de las atribuciones señaladas en el artículo 9 A de esta Ley, en lo futuro se entenderán hechas a la Comisión.
+
+Las atribuciones de la Dirección General de Sistemas de Radio y Televisión previstas en el artículo 24 del Reglamento Interior de la Secretaría de Comunicaciones y Transportes, a los 30 días naturales a partir de la entrada en vigor de este Decreto, serán ejercidas por la Comisión a través de la unidad administrativa que al efecto prevea su Reglamento Interno y, en su oportunidad, el Reglamento Interior a que se refiere el artículo quinto transitorio de este Decreto. Los recursos humanos, financieros y materiales de la Dirección General mencionada en este párrafo serán transferidos a la Comisión en un plazo de 30 días naturales a partir de la entrada en vigor de este Decreto.
+
+QUINTO.- El Reglamento Interior de la Comisión deberá ser expedido por el Titular del Ejecutivo Federal en un plazo no mayor a 90 días naturales, contado a partir de la entrada en vigor del presente Decreto.
+
+Los asuntos en trámite a cargo de unidades administrativas cuyas funciones sean transferidas a la Comisión por virtud del presente Decreto, deberán ser remitidos a esta última en un plazo máximo de 30 días a partir de la entrada en vigor del propio ordenamiento.
