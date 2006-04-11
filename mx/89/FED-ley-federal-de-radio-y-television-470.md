@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-radio-y-television-470"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1960-01-19"
-last_updated: "2000-11-30"
+last_updated: "2006-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=470&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1960-01-08"
 
 LEY FEDERAL DE RADIO Y TELEVISION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE NOVIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE ABRIL DE 2006.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 19 de enero de 1960.
 
@@ -45,13 +45,23 @@ LEY FEDERAL DE RADIO Y TELEVISION
 
 Corresponde a la Nación el dominio directo de su espacio territorial y, en consecuencia, del medio en que se propagan las ondas electromagnéticas. Dicho dominio es inalienable e imprescriptible.
 
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DEL 2006)</small>
+
 ###### ARTICULO 2o.
 
-El uso del espacio a que se refiere el artículo anterior, mediante canales para la difusión de noticias, ideas e imágenes, como vehículos de información y de expresión, sólo podrá hacerse previos concesión o permiso que el Ejecutivo Federal otorgue en los términos de la presente ley.
+La presente Ley es de orden público y tiene por objeto regular el servicio de radiodifusión.
+
+El servicio de radiodifusión es aquél que se presta mediante la propagación de ondas electromagnéticas de señales de audio o de audio y video asociado, haciendo uso, aprovechamiento o explotación de las bandas de frecuencias del espectro radioeléctrico atribuido por el Estado precisamente a tal servicio; con el que la población puede recibir de manera directa y gratuita las señales de su emisor utilizando los dispositivos idóneos para ello.
+
+El uso, aprovechamiento o explotación de las bandas de frecuencias del espectro radioeléctrico para prestar el servicio de radiodifusión sólo podrá hacerse previos concesión o permiso que el Ejecutivo Federal otorgue en los términos de la presente ley.
+
+Para los efectos de la presente ley, se entiende por radio y televisión al servicio de radiodifusión.
+
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DEL 2006)</small>
 
 ###### ARTICULO 3o.
 
-La industria de la radio y la televisión comprende el aprovechamiento de las ondas electromagnéticas, mediante la instalación, funcionamiento y operación de estaciones radiodifusoras por los sistemas de modulación, amplitud o frecuencia, televisión, facsímile o cualquier otro procedimiento técnico posible.
+La industria de la radio y la televisión comprende el aprovechamiento de las ondas electromagnéticas, mediante la instalación, funcionamiento y operación de estaciones radiodifusoras por los sistemas de modulación, amplitud o frecuencia, televisión, facsímile o cualquier otro procedimiento técnico posible, dentro de las bandas de frecuencias del espectro radioeléctrico atribuidas a tal servicio.
 
 ###### ARTICULO 4o.
 
@@ -77,6 +87,26 @@ En relación con el artículo anterior, el Ejecutivo Federal por conducto de las
 
 El Estado otorgará facilidades para su operación a las estaciones difusoras que, por su potencia, frecuencia o ubicación, sean susceptibles de ser captadas en el extranjero, para divulgar las manifestaciones de la cultura mexicana, fomentar las relaciones comerciales del país, intensificar la propaganda turística y transmitir informaciones sobre los acontecimientos de la vida nacional.
 
+> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DEL 2006)</small>
+
+###### ARTICULO 7-A.
+
+A falta de disposición expresa en esta Ley, en su Reglamento o en los Tratados Internacionales, se aplicarán:
+
+I. La Ley Federal de Telecomunicaciones;
+
+II. La Ley de Vías Generales de Comunicación;
+
+III. La Ley General de Bienes Nacionales;
+
+IV. El Código Civil Federal;
+
+V. El Código de Comercio;
+
+VI. La Ley Federal de Procedimiento Administrativo, y
+
+VII. El Código Federal de Procedimientos Civiles.
+
 ## TITULO SEGUNDO. Jurisdicción y competencias
 
 ### CAPITULO UNICO
@@ -85,25 +115,25 @@ El Estado otorgará facilidades para su operación a las estaciones difusoras qu
 
 Es de jurisdicción federal todo lo relativo a la radio y la televisión.
 
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DEL 2006)</small>
+
 ###### ARTICULO 9o.
 
-A la Secretaría de Comunicaciones y Transportes corresponde:
+A la Secretaría de Comunicaciones y Transportes, por conducto de la Comisión Federal de Telecomunicaciones, corresponde:
 
-I.- Otorgar y revocar concesiones y permisos para estaciones de radio y televisión, asignándoles la frecuencia respectiva;
+I. Ejercer las facultades que le confiere la Ley Federal de Telecomunicaciones, promoviendo la más amplia cobertura geográfica y de acceso a sectores sociales de menores ingresos;
 
-> <small>(REFORMADA, D.O.F. 10 DE NOVIEMBRE DE 1980)</small>
+II. Promover las inversiones en infraestructura y servicios de radio y televisión en el país, impulsando su desarrollo regional;
 
-II.- Declarar el abandono de trámite de las solicitudes de concesión o permiso, así como declarar la nulidad o la caducidad de las concesiones o permisos y modificarlos en los casos previstos en esta Ley.
+III. Promover la investigación y el desarrollo tecnológico en materia de radiodifusión, la capacitación y el empleo de mexicanos;
 
-III.- Autorizar y vigilar, desde el punto de vista técnico, el funcionamiento y operación de las estaciones y sus servicios;
+IV. Interpretar esta Ley para efectos administrativos en el ámbito de su competencia, y
 
-IV.- Fijar el mínimo de las tarifas para las estaciones comerciales;
+V. Las demás facultades que le confieren la presente Ley y demás disposiciones legales y reglamentarias aplicables.
 
-V.- Intervenir en el arrendamiento, venta y otros actos que afecten al régimen de propiedad de las emisoras;
+Para los fines de la presente Ley, a la Dependencia a que se refiere este artículo se le podrá denominar también como la Secretaría.
 
-VI.- Imponer las sanciones que correspondan a la esfera de sus atribuciones, y
-
-VII.- Las demás facultades que le confieren las leyes.
+La resolución sobre el rescate de frecuencias queda reservada al Secretario de Comunicaciones y Transportes.
 
 ###### ARTICULO 10.
 
@@ -181,103 +211,277 @@ Las concesiones para usar comercialmente canales de radio y televisión, en cual
 
 La instalación de una difusora de radio que vaya a operar retransmitiendo o enlazada permanentemente a otra que no era recibida anteriormente en la localidad en que pretenda ubicarse, será considerada como una estación nueva y, en consecuencia, deberá llenar todos los requisitos respectivos.
 
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DEL 2006)</small>
+
 ###### ARTICULO 16.
 
-El término de una concesión no podrá exceder de 30 años y podrá ser refrendada al mismo concesionario que tendrá preferencia sobre terceros.
+El término de una concesión será de 20 años y podrá ser refrendada al mismo concesionario que tendrá preferencia sobre terceros. El refrendo de las concesiones, salvo en el caso de renuncia, no estará sujeto al procedimiento del artículo 17 de esta ley.
 
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DEL 2006)</small>
 
 ###### ARTICULO 17.
 
-Sólo se admitirán solicitudes para el otorgamiento de concesiones para usar comercialmente canales de radio y televisión, cuando el Ejecutivo Federal por conducto de la Secretaría de Comunicaciones y Transportes, previamente determine que pueden destinarse para tal fin, lo que hará del conocimiento general por medio de una publicación en el "Diario Oficial". Las solicitudes de concesión deberán llenar los siguientes requisitos:
+Las concesiones previstas en la presente ley se otorgarán mediante licitación pública. El Gobierno Federal tendrá derecho a recibir una contraprestación económica por el otorgamiento de la concesión correspondiente.
 
-I.- Nombre o razón social del interesado y comprobación de su nacionalidad mexicana;
+> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DEL 2006)</small>
 
-II.- Justificación de que la sociedad, en su caso, está constituida legalmente; y
+###### ARTICULO 17-A.
 
-III.- Información detallada de las inversiones en proyecto.
+La Secretaría publicará en el Diario Oficial de la Federación el programa de concesionamiento de frecuencias de radiodifusión.
 
-> <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 1980)</small>
+Para determinar la ubicación de las estaciones de radiodifusión y las demás características de las frecuencias que serán licitadas, la Secretaría considerará:
+
+I. Los fines de la radio y televisión previstos por el artículo 5 de la presente ley;
+
+II. Las condiciones del mercado del servicio de radiodifusión en la plaza o región de que se trate, y
+
+III. Las solicitudes que, en su caso, le hayan sido presentadas previamente por los interesados.
+
+Cualquier interesado podrá solicitar dentro de los 30 días naturales siguientes a la publicación del programa, que se liciten frecuencias y coberturas geográficas adicionales o distintas de las ahí contempladas. En estos casos, la Secretaría resolverá lo conducente en un plazo que no excederá de 30 días naturales.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DEL 2006)</small>
+
+###### ARTICULO 17-B.
+
+La Comisión deberá publicar la convocatoria para la licitación de nuevas concesiones en el Diario Oficial de la Federación, poniendo a disposición de los interesados las bases de la licitación en un plazo máximo de 30 días naturales contados a partir de la citada publicación.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DEL 2006)</small>
+
+###### ARTICULO 17-C.
+
+La convocatoria deberá contener:
+
+I. Frecuencia a través de la cual se prestara el servicio objeto de la licitación, potencia y zona geográfica de cobertura;
+
+II. Los requisitos y plazos que deberán cumplir los interesados en participar en la licitación; y
+
+III. Formas de adquisición de las bases de licitación.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DEL 2006)</small>
+
+###### ARTICULO 17-D.
+
+Las bases de licitación deberán contener:
+
+I. Procedimiento y plazos;
+
+II. Información y documentación que se requerirá de los solicitantes;
+
+III. Montos y formas de las garantías y derechos que deberán cubrir los participantes;
+
+IV. Especificaciones de los requisitos señalados en el artículo 17-E, y
+
+V. Modelo del título que será otorgado.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DEL 2006)</small>
+
+###### ARTICULO 17-E.
+
+Los requisitos que deberán llenar los interesados son:
+
+I. Datos generales del solicitante y acreditamiento su nacionalidad mexicana;
+
+II. Plan de negocios que deberá contener como mínimo, los siguientes apartados:
+
+a) Descripción y especificaciones técnicas:
+
+b) Programa de cobertura;
+
+c) Programa de Inversión;
+
+d) Programa Financiero, y
+
+e) Programa de actualización y desarrollo tecnológico.
+
+III. Proyecto de producción y programación;
+
+IV. Constituir garantía para asegurar la continuación de los trámites hasta que la concesión sea otorgada o negada, y
+
+V. Solicitud de opinión favorable presentada a la Comisión Federal de Competencia.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DEL 2006)</small>
+
+###### ARTICULO 17-F.
+
+Dentro de los 15 días hábiles siguientes a la fecha de recepción, se prevendrá al solicitante de la información faltante o de aquella que no cumpla con los requisitos exigibles, quien tendrá un plazo de hasta 15 días hábiles, a partir de la prevención de la Comisión, para la entrega de la información requerida.
+
+Si no se hace requerimiento alguno de información dentro del plazo señalado, no se podrá descalificar al solicitante argumentándose falta de información.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DEL 2006)</small>
+
+###### ARTICULO 17-G.
+
+La Comisión valorará, para definir el otorgamiento de la concesión, la congruencia entre el Programa a que se refiere el artículo 17-A de esta ley y los fines expresados por el interesado para utilizar la frecuencia para prestar el servicio de radiodifusión, así como el resultado de la licitación a través de subasta pública.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DEL 2006)</small>
+
+###### ARTICULO 17-H.
+
+Concluido el procedimiento de licitación, quedará sin efecto la garantía que se hubiera constituido para asegurar la continuidad del trámite de solicitud.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DEL 2006)</small>
+
+###### ARTICULO 17-I.
+
+Dentro de los 30 días siguientes a la notificación de la resolución que declare al ganador de la licitación, éste deberá acreditar el pago de la contraprestación a que se refiere el artículo 17 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DEL 2006)</small>
+
+###### ARTICULO 17-J.
+
+Una vez acreditado el pago a que se refiere el artículo anterior, la resolución que declare al ganador de la licitación deberá ser presentada al Secretario de Comunicaciones y Transportes para la emisión del título de concesión. A su vez, se deberá notificar a los participantes que no hubiesen sido seleccionados, con fundamento en la misma resolución.
+
+El título de concesión será publicado, a costa del interesado, en el Diario Oficial de la Federación.
 
 ###### ARTICULO 18.
 
-La Secretaría de Comunicaciones y Transportes señalará al solicitante el monto del depósito o de la fianza que deberá constituir, para garantizar que se continuarán los trámites hasta que la concesión sea otorgada o negada.
+(DEROGADO, D.O.F. 11 DE ABRIL DEL 2006)
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
-
-De acuerdo con la categoría de la estación radiodifusora en proyecto, el monto del depósito o de la fianza no podrá ser menor de 10,000 ni exceder de 30,000 pesos.
-
-Si el interesado abandona el trámite la garantía se aplicará en favor del erario federal.
-
-Procede la declaración de abandono de trámite, cuando el interesado no cumpla con cualquiera de los requisitos técnicos, jurídicos o administrativos dentro del plazo que señale la Secretaría de Comunicaciones y Transportes. Para tal efecto se seguirá el procedimiento a que alude el artículo 35 de esta Ley.
-
-En todo caso, el plazo real para el cumplimiento de la totalidad de los requisitos citados en el párrafo precedente, será de un año; sin embargo, a juicio de la Secretaría, dicho plazo podrá prorrogarse hasta por un período igual, si existen causas que así lo ameriten.
-
-> <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DEL 2006)</small>
 
 ###### ARTICULO 19.
 
-Constituido el depósito u otorgada la fianza, el Ejecutivo Federal por conducto de la Secretaría de Comunicaciones y Transportes, estudiará cada solicitud que exista con relación a un mismo canal y calificando el interés social, resolverá a su libre juicio, si alguna de ellas debe seleccionarse para la continuación de su trámite, en cuyo caso dispondrá que se publique, a costa del interesado, una síntesis de la solicitud, con las modificaciones que acuerde, por dos veces y con intervalo de diez días, en el "Diario Oficial" y en otro periódico de los de mayor circulación en la zona donde debe operarse el canal, señalando un plazo de treinta días contados a partir de la última publicación, para que las personas o instituciones que pudieran resultar afectadas presenten objeciones.
+Cuando a juicio de la Secretaría las solicitudes presentadas no aseguren las mejores condiciones para la prestación de los servicios de radiodifusión, las contraprestaciones ofrecidas no sean satisfactorias o ninguna de las solicitudes cumpla con los requisitos exigidos en la convocatoria o las bases de licitación, declarará desierto el procedimiento concesionario a que se refiere el artículo 17-B, sin responsabilidad alguna para esa Dependencia.
 
-Si transcurrido el plazo de oposición no se presentan objeciones, previo cumplimiento de los requisitos técnicos, administrativos y legales que fije la Secretaría, se otorgará la concesión. Cuando se presenten objeciones, la Secretaría oirá en defensa a los interesados, les recibirá las pruebas que ofrezcan en un término de quince días y dictará la resolución que a su juicio proceda, en un plazo que no exceda de treinta días, oyendo a la Comisión Técnica Consultiva establecida por la Ley de Vías Generales de Comunicación.
-
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
-
-Otorgada la concesión, será publicada, a costa del interesado, en el "Diario Oficial" de la Federación y se fijará el monto de la garantía que asegure el cumplimiento de las obligaciones que imponga dicha concesión. Esta garantía no será inferior de diez mil pesos, ni excederá de quinientos mil.
-
-Una vez otorgada la garantía antes citada, quedará sin efecto el depósito o la fianza que se hubiere constituido para garantizar el trámite de concesión.
-
-Los solicitantes que no hayan sido seleccionados, tendrán derecho a la devolución del depósito o fianza que hubieren otorgado para garantizar el trámite de su solicitud.
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DEL 2006)</small>
 
 ###### ARTICULO 20.
 
-Las garantías que deben otorgar los concesionarios en cumplimiento de las obligaciones que contraigan de acuerdo con las concesiones y permisos respectivos, y las demás que fijen las leyes o reglamentos, se constituirán en la Nacional Financiera, S. A., cuando sean en efectivo. La calificación de las fianzas u otras garantías será hecha por la Secretaría ante la que deban prestarse.
+Los permisos a que se refiere la presente Ley se otorgarán conforme al siguiente procedimiento:
+
+I. Los solicitantes deberán presentar, cuando menos, la información a que se refieren las fracciones I, III, IV y V del artículo 17-E de esta Ley, así como un programa de desarrollo y servicio de la estación;
+
+II. De considerarlo necesario, la Secretaría podrá sostener entrevistas con los interesados que hubiesen cumplido, en su caso, con los requisitos exigidos, para que aporten información adicional con relación a su solicitud. Lo anterior, sin perjuicio de la demás información que la Secretaría considere necesario recabar de otras autoridades o instancias, para el cabal conocimiento de las características de cada solicitud, del solicitante y de su idoneidad para recibir el permiso de que se trate.
+
+III. Cumplidos los requisitos exigidos y considerando la función social de la radiodifusión, la Secretaría resolverá a su juicio sobre el otorgamiento del permiso.
+
+La duración de los permisos no excederá de 20 años, renovables por plazos iguales.
+
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DEL 2006)</small>
 
 ###### ARTICULO 21.
 
-Las concesiones contendrán, cuando menos, lo siguiente:
+Las concesiones y permisos contendrán, cuando menos, lo siguiente:
 
-a).- Canal asignado;
+I. El nombre del concesionario o permisionario;
 
-b).- Ubicación del equipo transmisor;
+II. El canal asignado;
 
-c).- Potencia autorizada;
+III. La ubicación del equipo transmisor;
 
-d).- Sistema de radiación y sus especificaciones técnicas;
+IV. La potencia autorizada;
 
-e).- Horario de funcionamiento;
+V. El sistema de radiación y sus especificaciones técnicas;
 
-f).- Nombre, clave o indicativo;
+VI. El horario de funcionamiento;
 
-g).- Término de su duración.
+VII. El nombre, clave o indicativo;
+
+VIII. Término de su duración;
+
+IX. Área de cobertura;
+
+X. Las contraprestaciones que, en su caso, el concesionario se hubiere obligado a pagar como consecuencia de la licitación pública prevista en el artículo 17 de esta ley, así como las demás contraprestaciones que se hubieren previsto en las bases de la licitación del procedimiento concesionario;
+
+XI. La garantía de cumplimiento de obligaciones, y
+
+XII. Los demás derechos y obligaciones de los concesionarios o permisionarios.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DEL 2006)</small>
+
+###### ARTICULO 21-A.
+
+La Secretaría podrá otorgar permisos de estaciones oficiales a dependencias de la Administración Pública Federal Centralizada, a las entidades a que se refieren los artículos 2, 3 y 5 de la Ley Federal de las Entidades Paraestatales, a los gobiernos estatales y municipales y a las instituciones educativas públicas.
+
+En adición a lo señalado en el artículo 20 de esta ley, para otorgar permisos a estaciones oficiales, se requerirá lo siguiente:
+
+I. Que dentro de los fines de la estación se encuentre:
+
+a) Coadyuvar al fortalecimiento de la participación democrática de la sociedad, garantizando mecanismos de acceso público en la programación;
+
+b) Difundir información de interés público;
+
+c) Fortalecer la identidad regional en el marco de la unidad nacional;
+
+d) Transparentar la gestión pública e informar a la ciudadanía sobre sus programas y acciones;
+
+e) Privilegiar en sus contenidos la producción de origen nacional;
+
+f) Fomentar los valores y creatividad artísticos locales y nacionales a través de la difusión de la producción independiente, y
+
+g) Los demás que señalen los ordenamientos específicos de la materia.
+
+II. Que dentro de sus facultades u objeto se encuentra previsto el instalar y operar estaciones de radio y televisión;
+
+III. Tratándose de dependencias de la Administración Pública Federal, acuerdo favorable del titular de la dependencia;
+
+IV. En el caso de los gobiernos estatales y municipales, acuerdo del titular del poder ejecutivo del Estado o del presidente municipal, según corresponda;
+
+V. En los demás casos, acuerdo favorable del órgano de gobierno de que se trate, y
+
+VI. En todos los casos, documentación que acredite que el solicitante cuenta con la autorización de las partidas presupuéstales necesarias para llevar a cabo la instalación y operación de la estación, de conformidad con la legislación que le resulte aplicable.
+
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DEL 2006)</small>
 
 ###### ARTICULO 22.
 
-No podrán alterarse las características de la concesión sino por resolución administrativa en los términos de esta ley o en cumplimiento de resoluciones judiciales.
+No podrán alterarse las características de la concesión o permiso sino por resolución administrativa en los términos de esta ley o en cumplimiento de resoluciones judiciales.
+
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DEL 2006)</small>
 
 ###### ARTICULO 23.
 
-No se podrá ceder ni en manera alguna gravar, dar en fideicomiso o enajenar total o parcialmente la concesión, los derechos en ella conferidos, instalaciones, servicios auxiliares, dependencias o accesorios, a un gobierno o persona extranjeros, ni admitirlos como socios de la empresa concesionaria.
+No se podrá ceder ni en manera alguna gravar, dar en fideicomiso o enajenar total o parcialmente la concesión o permiso, los derechos en ellas conferidos, instalaciones, servicios auxiliares, dependencias o accesorios, a un gobierno o persona extranjeros, ni admitirlos como socios o asociados de la sociedad concesionaria o permisionaria, según corresponda.
 
 ###### ARTICULO 24.
 
 Las acciones y participaciones emitidas por las empresas que exploten una estación radiodifusora, que fueren adquiridas por un gobierno o persona extranjeros, desde el momento de la adquisición quedarán sin efecto para el tenedor de ellas y pasarán al dominio de la nación los derechos que representen, sin que proceda indemnización alguna.
 
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DEL 2006)</small>
+
 ###### ARTICULO 25.
 
-Los permisos para las estaciones oficiales, culturales y de experimentación y para las escuelas radiofónicas, sólo podrán otorgarse a ciudadanos mexicanos y entidades u organismos públicos o sociedades cuyos socios sean mexicanos. Si se tratara de sociedades por acciones, éstas tendrán precisamente el carácter de nominativas y aquéllas quedarán obligadas a proporcionar anualmente a la Secretaría de Comunicaciones y Transportes la lista general de sus socios.
+Los permisos para las estaciones culturales y de experimentación y para las escuelas radiofónicas sólo podrán otorgarse a ciudadanos mexicanos o sociedades mexicanas sin fines de lucro.
+
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DEL 2006)</small>
 
 ###### ARTICULO 26.
 
-Sólo se autorizará el traspaso de concesiones de estaciones comerciales y de permisos de estaciones culturales, de experimentación y de escuelas radiofónicas, a entidades, personas físicas o morales de orden privado o público que estén capacitados conforme esta ley para obtenerlos y siempre que hubieren estado vigentes dichas concesiones y permisos por un término no menor de tres años y que el beneficiario hubiese cumplido con todas sus obligaciones.
+Sólo se autorizará el traspaso de concesiones de estaciones comerciales y de permisos a entidades, personas físicas o morales de orden privado o público que estén capacitados conforme esta ley para obtenerlos y siempre que hubieren estado vigentes dichas concesiones y permisos por un término no menor de tres años; que el beneficiario hubiese cumplido con todas sus obligaciones y se obtenga opinión favorable de la Comisión Federal de Competencia.
 
 ###### ARTICULO 27.
 
 Para que una concesión pueda ser transmitida por herencia o adjudicación judicial o cualquier otro título, se requerirá que los causahabientes reúnan la calidad de mexicanos.
 
+> <small>(REFORMADO, D.O.F. 11 DE ABRIL DEL 2006)</small>
+
 ###### ARTICULO 28.
 
-Cuando por efecto de un convenio internacional, sea indispensable suprimir o restringir el empleo de un canal originalmente asignado a una radiodifusora, el concesionario o permisionario tendrá derecho a un canal equivalente entre los disponibles y lo más próximo al suprimido o afectado.
+Los concesionarios que deseen prestar servicios de telecomunicaciones adicionales a los de radiodifusión a través de las bandas de frecuencias concesionadas deberán presentar solicitud a la Secretaría.
+
+Para tal efecto, la Secretaría podrá requerir el pago de una contraprestación, cuyo monto se determinará tomando en cuenta la amplitud de la banda del espectro radioeléctrico en la que se prestarán los servicios de telecomunicaciones adicionales a los de radiodifusión, la cobertura geográfica que utilizará el concesionario para proveer el nuevo servicio y el pago que hayan realizado otros concesionarios en la obtención de bandas de frecuencias para usos similares, en los términos de la Ley Federal de Telecomunicaciones.
+
+En el mismo acto administrativo por el que la Secretaría autorice los servicios de telecomunicaciones, otorgará título de concesión para usar, aprovechar o explotar una banda de frecuencias en el territorio nacional, así como para instalar, operar o explotar redes públicas de telecomunicaciones, a que se refieren las fracciones I y II, respectivamente, del artículo 11 de la Ley Federal de Telecomunicaciones. Estos títulos sustituirán la concesión a que se refiere el artículo 21 de la presente Ley.
+
+Los concesionarios a quienes se hubiese otorgado la autorización a que se refiere este artículo deberán observar lo siguiente:
+
+I. Las bandas de frecuencias del espectro radioeléctrico y los servicios de telecomunicaciones que se presten en ellas, se regirán por las disposiciones aplicables en materia de telecomunicaciones;
+
+II. El servicio de radiodifusión se regirá por las disposiciones de la presente ley, en lo que no se oponga a la Ley Federal de Telecomunicaciones.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DEL 2006)</small>
+
+###### ARTICULO 28-A.
+
+La Secretaría emitirá disposiciones administrativas de carácter general para fines de lo previsto en el artículo 28 de esta ley atendiendo, entre otros, a los siguientes criterios:
+
+I. El uso eficiente del espectro radioeléctrico y de la infraestructura existente;
+
+II. La promoción de la competitividad, diversidad, calidad y mejores precios de los servicios, y
+
+III. El impulso de la penetración y cobertura de servicios.
+
+La Secretaría vigilará que no se afecten en forma alguna los servicios de radiodifusión, ni la implantación futura de la digitalización de los propios servicios.
 
 ### CAPITULO SEGUNDO. Nulidad, caducidad y revocación
 
@@ -571,6 +775,14 @@ Los programas comerciales de concursos, los de preguntas y respuestas y otros se
 
 Para los efectos de la fracción II del artículo 5o. de la presente ley, independientemente de las demás disposiciones relativas, la transmisión de programas y publicidad impropios para la niñez y la juventud, en su caso, deberán anunciarse como tales al público en el momento de iniciar la transmisión respectiva.
 
+> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DEL 2006)</small>
+
+###### ARTICULO 72-A.
+
+Los concesionarios que cubran con producción nacional independiente cuando menos un veinte por ciento de su programación, podrán incrementar el porcentaje de tiempo de publicidad a que se refiere el Reglamento de esta ley, hasta en un cinco por ciento.
+
+Este incentivo se aplicará de manera directamente proporcional al porcentaje de producción nacional independiente con el que se dé cumplimiento a lo establecido en el párrafo anterior.
+
 ###### ARTICULO 73.
 
 Las difusoras deberán aprovechar y estimular los valores artísticos locales y nacionales y las expresiones de arte mexicano, dedicando como programación viva el mínimo que en cada caso fije la Secretaría de Gobernación, de acuerdo con las peculiaridades de las difusoras y oyendo la opinión del Consejo Nacional de Radio y Televisión. La programación diaria que utilice la actuación personal, deberá incluir un mayor tiempo cubierto por mexicanos.
@@ -606,6 +818,22 @@ I.- Que se trate de un servicio de interés público, a juicio de la Secretaría
 II.- Que se garantice la regularidad y eficiencia del servicio, y
 
 III.- Que no se cree una innecesaria multiplicación del mismo servicio.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO FAVOR DE CONSULTAR EL ARTICULO TERCERO TRANSITORIO DEL PRESENTE DECRETO DE REFORMAS.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DEL 2006)</small>
+
+###### ARTICULO 79-A.
+
+En cumplimiento de la función social de la radiodifusión a que se refiere el artículo 5 de esta ley, en la difusión de propaganda electoral, los concesionarios observarán las siguientes disposiciones:
+
+I. Tratándose de elecciones federales, deberán informar al Instituto Federal Electoral sobre la propaganda que hubiese sido contratada por los partidos políticos o por los candidatos a cualquier puesto de elección, así como los ingresos derivados de dicha contratación, conforme a la metodología y formatos que al efecto emita ese Instituto en el Reglamento de Fiscalización respectivo;
+
+II. Atenderán los requerimientos de información en la materia que les formule el Instituto Federal Electoral;
+
+III. Tratándose de concesionarios, éstos ofrecerán tarifas equivalentes a la publicidad comercial, y
+
+IV. El Instituto Federal Electoral, durante los procesos electorales federales, será la instancia encargada de pagar la publicidad electoral de los partidos políticos con cargo a sus prerrogativas, y dictará las medidas necesarias para ello.
 
 ###### ARTICULO 80.
 
@@ -904,3 +1132,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO DÉCIMO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 11 DE ABRIL DEL 2006.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El Poder Ejecutivo Federal cuenta con 30 días para realizar las modificaciones correspondientes al Reglamento de la Ley Federal de Radio y Televisión, en Materia de Concesiones, Permisos y Contenido de las Transmisiones de Radio y Televisión, de acuerdo con lo previsto en el presente Decreto.
+
+TERCERO.- Las disposiciones contenidas en el artículo 79-A, entrarán en vigor a partir del 1° de enero de 2007.
