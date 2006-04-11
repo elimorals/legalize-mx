@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-5-2000-del-pleno-del-consejo-de-la-50060
 country: "mx"
 rank: "acuerdo"
 publication_date: "2000-02-16"
-last_updated: "2005-03-04"
+last_updated: "2006-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50060&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-02-08"
 
 ACUERDO GENERAL NUMERO 5/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE DETERMINA LA ADSCRIPCION DE DIVERSAS UNIDADES ADMINISTRATIVAS A LA PRESIDENCIA DEL MISMO, Y ACTUALIZA LAS ATRIBUCIONES DEL SECRETARIADO EJECUTIVO, CON LAS DIRECCIONES GENERALES QUE LES CORRESPONDEN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE ABRIL DE 2006.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 16 de febrero de 2000.
 
@@ -473,11 +473,15 @@ I. Recursos Humanos;
 
 II. Informática;
 
-III. Seguridad y Protección Civil;
+> <small>(ADICIONADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 25/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE ABRIL DE 2006)</small>
 
-IV. Servicios Médicos y Desarrollo Infantil; y
+III. Sistemas de Redes Informáticas;
 
-V. Las demás que determine el Pleno.
+IV. Seguridad y Protección Civil;
+
+V. Servicios Médicos y Desarrollo Infantil; y,
+
+VI. Las demás que determine el Pleno.
 
 > <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 54/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE SEPTIEMBRE DE 2004)</small>
 
@@ -559,15 +563,23 @@ Objetivo. La Dirección General de Informática impulsará la operación eficien
 
 Atribuciones. La Dirección General de Informática tendrá las siguientes atribuciones:
 
-I. Establecer lineamientos generales de informática para integrar e instrumentar una política, con apoyos técnicos, que permitan al Consejo establecer lineamientos adecuados en materia de informática y de telecomunicaciones para beneficio del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia y del Tribunal Electoral;
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 25/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE ABRIL DE 2006)</small>
+
+I. Establecer lineamientos generales de informática para integrar e instrumentar una política con apoyos técnicos, que permitan al Consejo establecer lineamientos adecuados en materia de informática para beneficio del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral;
 
 II. Formular, someter y difundir las normas y las disposiciones técnicas y administrativas a las que deberán ajustarse las unidades administrativas y órganos jurisdiccionales del Poder Judicial de la Federación para la planeación, organización, desarrollo, operación, supervisión y evaluación de las herramientas informáticas;
 
-III. Ejecutar y actualizar anualmente el plan estratégico de desarrollo informático, así como informar de sus avances a la Comisión de Administración y al Pleno del Consejo;
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 25/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE ABRIL DE 2006)</small>
 
-IV. Realizar la investigación tecnológica y elaborar los estudios correspondientes para la evaluación, selección e implantación de tecnologías, sistemas y bancos de información institucionales, telecomunicaciones, servicios profesionales e insumos en materia de informática;
+III. Ejecutar y actualizar anualmente el plan estratégico de desarrollo informático, junto con la Dirección General de Sistemas de Redes Informáticas, así como informar de sus avances a la Comisión de Administración y al Pleno del Consejo;
 
-V. Elaborar el anteproyecto de presupuesto anual en materia informática y telecomunicaciones, de conformidad con el plan estratégico de desarrollo informático y mediante el análisis e integración de los requerimientos de las unidades administrativas que forman el Consejo y los de los órganos jurisdiccionales del Poder Judicial de la Federación;
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 25/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE ABRIL DE 2006)</small>
+
+IV. Realizar la investigación tecnológica y elaborar los estudios correspondientes para la evaluación, selección e implantación de tecnologías, sistemas y bancos de información institucionales, servicios profesionales e insumos en materia de informática;
+
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 25/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE ABRIL DE 2006)</small>
+
+V. Elaborar, junto con la Dirección General de Sistemas de Redes Informáticas, el anteproyecto de presupuesto anual en materia informática y telecomunicaciones, de conformidad con el plan estratégico de desarrollo informático y mediante el análisis e integración de los requerimientos de las unidades administrativas que forman el Consejo y los de los órganos jurisdiccionales del Poder Judicial de la Federación;
 
 VI. Elaborar e implementar en coordinación con la Dirección General de Recursos Humanos, el programa de capacitación informática para el personal del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia y del Tribunal Electoral;
 
@@ -577,17 +589,21 @@ VIII. Diseñar, desarrollar, programar, implantar y mantener los sistemas inform
 
 IX. Diseñar, desarrollar, programar, implantar y mantener los sistemas informáticos que requieran los Organos del Consejo, para la administración de los recursos humanos, financieros y materiales, y otros servicios o proyectos específicos;
 
-X. Planear, implantar y mantener la infraestructura de telecomunicaciones y redes convergentes de voz y datos que aseguren el buen funcionamiento, la conectividad y la interoperabilidad de las aplicaciones informáticas del Poder Judicial de la Federación;
+X. (DEROGADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 25/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE ABRIL DE 2006)
 
 XI. Apoyar a la Dirección General de Recursos Materiales y Servicios Generales en la planeación, diseño, implantación y mantenimiento de la infraestructura de telefonía que asegure el buen funcionamiento y la comunicación de las personas que laboran en el Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia y del Tribunal Electoral;
 
-XII. Participar con la Dirección General de Recursos Materiales y Servicios Generales en el diseño e implantación de los sistemas de transporte de cableado estructurado para transporte de datos, así como para el suministro de energía eléctrica en la construcción y remodelación de inmuebles, a fin de asegurar el servicio y funcionamiento adecuado de la infraestructura informática y de telecomunicaciones del Poder Judicial de la Federación;
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 25/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE ABRIL DE 2006)</small>
+
+XII. Participar con la Dirección General de Recursos Materiales y Servicios Generales en el suministro de energía eléctrica en la construcción y remodelación de inmuebles, a fin de asegurar el servicio y funcionamiento adecuado de la infraestructura informática del Poder Judicial de la Federación;
 
 XIII. Seleccionar, proponer, difundir y estandarizar el uso de tecnologías informáticas en los Organos del Poder Judicial de la Federación, así como formular y difundir las normas a las que deberán ajustarse;
 
 XIV. Proporcionar los servicios informáticos que garanticen la continuidad operativa de los bienes y aplicaciones del Poder Judicial de la Federación, mediante el desarrollo de programas de distribución, mantenimiento preventivo y correctivo, así como de soporte técnico;
 
-XV. Formular y aplicar la normatividad necesaria para resguardar y proteger los equipos informáticos, de seguridad y de telecomunicaciones, así como garantizar la seguridad e integridad de la información que se genere en los mismos;
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 25/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE ABRIL DE 2006)</small>
+
+XV. Formular y aplicar la normatividad necesaria para resguardar y proteger los equipos informáticos y de seguridad, así como garantizar la seguridad e integridad de la información que se genere en los mismos;
 
 XVI. Brindar apoyo y asesoría informática a órganos jurisdiccionales, oficinas de correspondencia común a éstos, a las unidades administrativas y demás áreas del Poder Judicial de la Federación; desarrollar programas de soporte y asesoría técnica y vigilar y evaluar su aplicación y funcionalidad;
 
@@ -614,6 +630,68 @@ XXVI. Formular y proponer su respectivo anteproyecto de presupuesto con apego a 
 XXVII. Elaborar y presentar los informes de actividades con la periodicidad que le sean requeridos, y
 
 XXVIII. Las demás que le atribuyan el Secretario Ejecutivo de Administración, la Comisión de Administración y el Pleno del Consejo.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 25/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE ABRIL DE 2006)</small>
+
+Artículo 19 bis.- La Dirección General de Sistemas de Redes Informáticas será la responsable del mantenimiento y administración de la Intranet, del sitio Web y de las redes de telecomunicaciones.
+
+Esta dirección tendrá funciones consultivas y propositivas en relación con la adquisición de bienes o servicios de informática, por lo que las adquisiciones deberán contar con la opinión previa de ésta y realizarse por conducto de las áreas correspondientes del Consejo, con cargo a los recursos presupuestales correspondientes.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 25/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE ABRIL DE 2006)</small>
+
+Artículo 19 ter.- La Dirección General de Sistemas de Redes Informáticas tendrá las siguientes atribuciones:
+
+I. Ejecutar y actualizar anualmente el plan estratégico de desarrollo informático, junto con la Dirección General Informática, así como informar de sus avances a la Comisión de Administración y al Pleno del Consejo;
+
+II. Realizar los estudios y análisis técnicos necesarios para renovar permanentemente la tecnología de las comunicaciones del Poder Judicial de la Federación;
+
+III. Brindar un nivel de servicio de la red con excelencia a los empleados del Poder Judicial de la Federación;
+
+IV. Racionalizar el gasto en la infraestructura informática;
+
+V. Proporcionar seguridad en la transmisión, almacenamiento y acceso a la información jurídica o administrativa;
+
+VI. Coadyuvar en el control de inventario de los bienes informáticos utilizados para este propósito, que lleven las áreas de adquisiciones y servicios de la Suprema Corte de Justicia de la Nación y de recursos materiales del Consejo, informando de ello a la Secretaría Ejecutiva de Administración del Consejo;
+
+VII. Hacer la planeación rigurosa de la red que evite, oportunamente, la obsolescencia o su saturación, considerando su crecimiento en forma controlada;
+
+VIII. Establecer un Programa de Recuperación de Desastres Informáticos, mediante un centro de respaldo y operación alterno que permita subsanar cualquier contingencia que se presente, y evitar, con ello, que se interrumpa la continuidad de los servicios de la red;
+
+IX. Proponer, oportunamente, a la Comisión de Administración el cambio de tecnología para que los servicios integrados de datos, videoconferencia y telefonía puedan brindarse de una manera más eficiente;
+
+X. Opinar sobre la mejora y cambio de los equipos de comunicación que sirvan para la transmisión de información por la red, tomando en consideración la actualización de aquellos que sean compatibles con las más avanzadas tecnologías de operación;
+
+XI. Aumentar la seguridad en los sistemas de comunicaciones y de cómputo, para proteger la información que en ellos se difunde, así como para evitar la infiltración de intrusos (hackers);
+
+XII. Realizar el análisis y propuestas para concentrar las comunicaciones en un solo edificio, y poder instalar y mantener, además, otro de características similares como sitio alterno;
+
+XIII. Evaluar y proponer uso de tecnología que permita disminuir los costos de adquisición y mantenimiento de redes informáticas y de telefonía al Poder Judicial de la Federación;
+
+XIV. Establecer grupos de monitoreo de la red con software de uso específico y con procedimientos de respuesta de alta eficiencia;
+
+XV. Establecer programas de capacitación permanentes para el personal involucrado, enfocados a cubrir un plan de carrera y orientado tanto al aspecto técnico como al organizacional;
+
+XVI. Proponer la contratación, renovación, uso y aprovechamiento de licencias de software, de uso en la red, en las condiciones más favorables para el Poder Judicial de la Federación, conforme al artículo 134 constitucional y al acuerdo general que regule las adquisiciones del Consejo;
+
+XVII. Planear, implantar y mantener la infraestructura de telecomunicaciones y redes convergentes de voz y datos que aseguren el buen funcionamiento, la conectividad y la interoperabilidad de las aplicaciones informáticas del Poder Judicial de la Federación;
+
+XVIII. Formular y proponer su respectivo anteproyecto de presupuesto con apego a las políticas y lineamientos vigentes en la materia;
+
+XIX. Elaborar y presentar los informes de actividades con la periodicidad que le sean requeridos;
+
+XX. Participar con la Dirección General de Recursos Materiales y Servicios Generales en el diseño e implantación de los sistemas de transporte de cableado estructurado para transporte de datos, a fin de asegurar el servicio y funcionamiento adecuado de las telecomunicaciones del Poder Judicial de la Federación;
+
+XXI. Apoyar a la Dirección General de Recursos Materiales y Servicios Generales en la planeación, diseño, implantación y mantenimiento de la infraestructura de telefonía que asegure el buen funcionamiento y la comunicación de las personas que laboran en el Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral;
+
+XXII. Establecer y mantener en funcionamiento un grupo especializado de personal que permita la operación continua e ininterrumpida de la red y la telefonía por la Intranet, las veinticuatro horas del día de los trescientos sesenta y cinco días del año;
+
+XXIII. Instalar y mantener un centro de atención para la consulta y resolución de problemas de la red o de la telefonía por Intranet, al servicio de los servidores públicos del Poder Judicial de la Federación como usuarios finales;
+
+XXIV. Coordinarse con la Dirección General de Informática con el fin de que las actividades de ambas direcciones permitan establecer el mejor servicio, con los mejores equipos y la más adecuada tecnología informática a favor de los usuarios del Poder Judicial de la Federación y la más oportuna y completa información al público en general;
+
+XXV. Participar en los comités y grupos de trabajo que la Comisión de Administración y el Pleno del Consejo determinen; y
+
+XXVI. Las demás que le atribuyan el Secretario Ejecutivo de Administración, la Comisión de Administración y el Pleno del Consejo.
 
 > <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 54/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE SEPTIEMBRE DE 2004)</small>
 
@@ -715,7 +793,7 @@ XVIII. Formular y proponer su respectivo anteproyecto de presupuesto con apego a
 
 XIX. Elaborar y presentar los informes de actividades con la periodicidad que le sean requeridos; y,
 
-XX. Las demás que le atribuyan el secretario ejecutivo de Administración, la Comisión de Administración y el Pleno del consejo
+XX. Las demás que le atribuyan el secretario ejecutivo de Administración, la Comisión de Administración y el Pleno del consejo.
 
 Artículo 23 bis.- (DEROGADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 54/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE SEPTIEMBRE DE 2004)
 
@@ -1540,3 +1618,11 @@ SEGUNDO.-Publíquese el presente acuerdo en el Diario Oficial de la Federación,
 TERCERO.-Se deroga cualquier disposición emitida por este Consejo de la Judicatura Federal que se oponga al presente acuerdo.
 
 CUARTO.-La Secretaría Ejecutiva de Finanzas realizará las modificaciones a las estructuras orgánicas y a los manuales de organización que correspondan.
+
+D.O.F. 11 DE ABRIL DEL 2006.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se deroga cualquier disposición emitida por este Consejo de la Judicatura Federal que se oponga al presente Acuerdo.
+
+TERCERO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
