@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-32-2005-del-pleno-del-consejo-de-la-45755"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-08-19"
-last_updated: "2005-08-19"
+last_updated: "2006-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45755&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-08-10"
 
 ACUERDO GENERAL 32/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PRESTACIONES MEDICAS COMPLEMENTARIAS Y DE APOYO ECONOMICO EXTRAORDINARIO A LOS SERVIDORES PUBLICOS DEL PODER JUDICIAL DE LA FEDERACION, CON EXCEPCION DE LOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION Y DEL TRIBUNAL ELECTORAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE ABRIL DE 2006.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 19 de agosto de 2005.
 
@@ -93,7 +93,11 @@ XVII. Seguro de Gastos Médicos Mayores: El Seguro de Gastos Médicos Mayores co
 
 XVIII. ISSSTE: El Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; y,
 
-XIX. Plan: El Plan de Prestaciones Médicas Complementarias y de Apoyo Económico Extraordinario a los Servidores Públicos del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral.
+XIX. Plan: El Plan de Prestaciones Médicas Complementarias y de Apoyo Económico Extraordinario a los Servidores Públicos del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral;
+
+> <small>(ADICIONADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 23/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE ABRIL DE 2006)</small>
+
+XX. Fondo: La cantidad de dinero de la que se dispone para el financiamiento del Plan, mediante el fideicomiso de inversión constituido para tal efecto.
 
 ###### Artículo 3.
 
@@ -132,6 +136,12 @@ b. Discapacidad motora, visual, auditiva, de lenguaje o mental;
 c. Enfermedades incurables o padecimientos crónicos o degenerativos; y,
 
 d. Enfermedades, padecimientos o lesiones que no sean tratados adecuadamente en tiempo o en calidad en el ISSSTE o, en su caso, no estén cubiertos o excedan la suma asegurada por el Seguro de Gastos Médicos Mayores una vez utilizada.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 23/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE ABRIL DE 2006)</small>
+
+###### Artículo 4 Bis.
+
+Para el otorgamiento de prestaciones médicas complementarias y apoyos económicos extraordinarios, únicamente se podrá disponer de los intereses que hayan sido generados por el fondo del fideicomiso, descontándose la pérdida inflacionaria acumulada.
 
 ###### Artículo 5.
 
@@ -267,7 +277,17 @@ II. Una valoración médica del apoyo solicitado por parte del Director de Servi
 
 El titular de Recursos Humanos, con base en la solicitud e información referida en el artículo anterior y dentro de los quince días siguientes a la recepción de la solicitud, deberá elaborar un proyecto de resolución en el que proponga a la Comisión el sentido de la resolución que determine sobre la procedencia o no del apoyo solicitado. En caso de estimar procedente su otorgamiento deberá proponer el monto, condiciones y tiempo durante el cual se proporcionará.
 
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 23/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE ABRIL DE 2006)</small>
+
+Tratándose de apoyos económicos extraordinarios Recursos Humanos deberá señalar el monto máximo a pagar de conformidad con las condiciones establecidas en la póliza del Seguro de Gastos Médicos Mayores y con los porcentajes establecidos en la Tabla de Intervenciones Quirúrgicas para Pago de Honorarios por Reembolso, que en dicho seguro se maneje para cubrir siniestros, así como el monto que considere pertinente, tomando en consideración lo dispuesto en el artículo 4 Bis de este ordenamiento. En los casos no previstos en los mencionados instrumentos, Recursos Humanos deberá proponer la cantidad del beneficio de acuerdo con los antecedentes, características y situaciones propias del siniestro, atendiendo en todo momento a lo previsto en el artículo 4 Bis de este Acuerdo.
+
 De toda resolución que dicte la Comisión deberá informar al Pleno en la siguiente sesión ordinaria; así como a la Suprema Corte de Justicia de la Nación para su conocimiento.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 23/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE ABRIL DE 2006)</small>
+
+###### Artículo 14 Bis.
+
+Al momento de presentar la propuesta de resolución correspondiente, Recursos Humanos deberá exhibir un estado de cuenta actualizado del fondo del fideicomiso, con el objeto de que los Consejeros integrantes de la Comisión tengan conocimiento exacto de la situación presupuestal del fondo y así estén en condiciones de determinar lo que consideren pertinente en relación con la prestación médica complementaria o el apoyo económico extraordinario solicitado.
 
 ###### Artículo 15.
 
@@ -296,6 +316,10 @@ III. Que se estime que el paciente pueda recuperar o mejorar la salud y las capa
 ###### Artículo 19.
 
 En caso de que se otorgue la prestación médica complementaria o el apoyo económico extraordinario, el servidor público deberá entregar los recibos originales y la documentación comprobatoria a su nombre que amparen los gastos efectuados, dentro de los quince días hábiles siguientes al en que se le hubiera entregado el apoyo. En caso de que requiera más tiempo, tendrá que solicitar por escrito a la Comisión la ampliación de dicho plazo, el que no podrá exceder de diez días hábiles más.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 23/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE ABRIL DE 2006)</small>
+
+Recursos Humanos deberá remitir los recibos originales y demás documentación que ampare los gastos realizados por el servidor público al que se hubiera otorgado el beneficio, a la Dirección General de Programación y Presupuesto del Consejo de la Judicatura Federal, para que aleatoria y conjuntamente con la Contraloría del Poder Judicial de la Federación califiquen su validez y autenticidad.
 
 ###### Artículo 20.
 
@@ -372,3 +396,15 @@ TERCERO. Se abroga el Acuerdo General 71/2004 del Pleno del Consejo de la Judica
 CUARTO. Se derogan todas aquellas disposiciones administrativas que se opongan a lo señalado en este Acuerdo.
 
 EL MAESTRO EN DERECHO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 32/2005, del Pleno del Consejo de la Judicatura Federal que Regula el Plan de Prestaciones Médicas Complementarias y de Apoyo Económico Extraordinario a los Servidores Públicos del Poder Judicial de la Federación, con Excepción de los de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral, fue aprobado por el Pleno del Consejo de la Judicatura Federal, en sesión de diez de agosto de dos mil cinco, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Luis María Aguilar Morales, Adolfo O. Aragón Mendía, Constancio Carrasco Daza, Elvia Díaz de León D´Hers, María Teresa Herrera Tello y Miguel A. Quirós Pérez.- México, Distrito Federal, a diez de agosto de dos mil cinco.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 11 DE ABRIL DEL 2006.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El texto de esta reforma deberá integrarse, una vez publicado en el medio de difusión citado en el punto anterior, al Acuerdo General del Pleno del Consejo de la Judicatura Federal número 32/2005.
+
+TERCERO.- Se deroga cualquier disposición emitida por este Consejo de la Judicatura Federal que se oponga al presente Acuerdo.
+
+CUARTO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
