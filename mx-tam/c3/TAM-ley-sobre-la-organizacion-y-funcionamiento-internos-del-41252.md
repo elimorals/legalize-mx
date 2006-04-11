@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2005-10-12"
+last_updated: "2006-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACION Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ABRIL DE 2006.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -807,6 +807,14 @@ d) Cumplir las demás funciones que le confieren esta ley, los ordenamientos rel
 
 2. La Contraloría Interna depende de la Junta de Coordinación Política.
 
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2006)</small>
+
+ARTICULO 66 BIS.
+
+1. La Unidad de Información Pública del Congreso del Estado realizará sus funciones con base en la Ley de Información Pública del Estado de Tamaulipas, y ejercerá sus atribuciones legales orientada por las bases regulatorias que establezca el Reglamento que al efecto se expida en esta materia.
+
+2. La Unidad de Información Pública dependerá del Presidente de la Mesa Directiva y, en los recesos, del Presidente de la Diputación Permanente, debiendo desarrollar sus funciones bajo el acuerdo y supervisión de dichos titulares, en los términos que establezcan las disposiciones legales y reglamentarias respectivas.
+
 ## TITULO TERCERO. DEL FUNCIONAMIENTO INTERNO DEL CONGRESO
 
 ### CAPITULO TERCERO. DE LOS PROCEDIMIENTOS
@@ -1349,7 +1357,9 @@ DE LAS VOTACIONES
 
 1. Cuando llegue el momento de votar, los secretarios lo anunciarán en el Salón y mandarán efectuar dicho anuncio en las inmediaciones del mismo por conducto de la Secretaría General. Enseguida se iniciará la votación.
 
-2. Mientras se verifica la votación, ningún miembro del Pleno deberá salir del Salón de Sesiones, a menos que ya hubiere votado, ni excusarse de votar.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2006)</small>
+
+2.- Mientras se verifica la votación, ningún miembro del Pleno deberá salir del Salón de Sesiones, a menos que ya hubiere votado o procediera a excusarse en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas.
 
 ###### ARTICULO 111.
 
@@ -2050,5 +2060,11 @@ SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Victoria, Tam., a 6 de julio de 2
 P.O. 12 DE OCTUBRE DE 2005.
 
 ###### ARTICULO UNICO
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE ABRIL DE 2006.
+
+###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
