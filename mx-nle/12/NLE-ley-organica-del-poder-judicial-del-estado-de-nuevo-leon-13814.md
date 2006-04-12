@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-judicial-del-estado-de-nuevo-leon-13814"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-08"
-last_updated: "2004-06-21"
+last_updated: "2006-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 8 de febrero de 1999.
 
@@ -55,33 +55,45 @@ I. El Tribunal Superior de Justicia;
 
 II. Los Juzgados de lo Civil;
 
-III. Los Juzgados de lo Familiar;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2006)</small>
 
-IV. Los Juzgados de lo Penal;
+III. Los Juzgados de Juicio Civil Oral;
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2006)</small>
 
-V. Los Juzgados de Preparación de lo Penal;
+IV. Los Juzgados de lo Familiar;
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2006)</small>
 
-VI. Los Juzgados del Juicio Oral Penal;
+V. Los Juzgados de Juicio Familiar Oral;
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2006)</small>
 
-VII. Los Juzgados de Jurisdicción Concurrente;
+VI. Los Juzgados de lo Penal;
 
-> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2006)</small>
 
-VIII. Los Juzgados de Jurisdicción Mixta;
+VII. Los Juzgados de Preparación de lo Penal;
 
-> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2006)</small>
 
-IX Los Juzgados Supernumerarios; y
+VIII. Los Juzgados de Juicio Oral Penal;
 
-> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2006)</small>
 
-X. Los Juzgados Menores.
+IX. Los Juzgados de Jurisdicción Concurrente;
+
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2006)</small>
+
+X. Los Juzgados de Jurisdicción Mixta;
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2006)</small>
+
+XI. Los juzgados Supernumerarios; y
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2006)</small>
+
+XII. Los Juzgados Menores.
 
 En el Poder Judicial habrá un Consejo de la Judicatura del Estado el cual tendrá las atribuciones que le señala la Constitución Política del Estado y esta Ley.
 
@@ -495,29 +507,41 @@ Para los efectos que establezcan la Constitución y demás leyes secundarias, so
 
 I. Los Jueces de lo Civil;
 
-II. Los Jueces de lo Familiar;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2006)</small>
 
-III. Los Jueces de lo Penal;
+II. Los Jueces de Juicio Civil Oral;
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2006)</small>
 
-IV. Los Jueces de Preparación de lo Penal;
+III. Los Jueces de lo Familiar;
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2006)</small>
 
-V. Los Jueces del Juicio Oral Penal;
+IV. Los Jueces de Juicio Familiar Oral;
 
-> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2006)</small>
 
-VI. Los Jueces de Jurisdicción Concurrente;
+V. Los Jueces de lo Penal;
 
-> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2006)</small>
 
-VII. Los Jueces Mixtos que funcionen en los diversos Distritos Judiciales donde no existan Juzgados para cada una de las materias; y
+VI. Los Jueces de Preparación de lo Penal;
 
-> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2006)</small>
 
-VIII. Jueces Supernumerarios.
+VII. Los Jueces del Juicio Oral Penal;
+
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2006)</small>
+
+VIII. Los Jueces de Jurisdicción Concurrente;
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2006)</small>
+
+IX. Los Jueces Mixtos que funcionen en los diversos Distritos Judiciales donde no existan Juzgados para cada una de las materias; y
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2006)</small>
+
+X. Jueces Supernumerarios.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2004)</small>
 
@@ -609,6 +633,12 @@ VIII. De la elaboración de los registros en que consten los discernimientos de 
 
 IX. De los demás asuntos que determinen las leyes y otros ordenamientos jurídicos.
 
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2006)</small>
+
+###### ARTÍCULO 35 Bis.
+
+Los Jueces de Juicio Civil Oral y los Jueces de Juicio Familiar Oral conocerán de los asuntos relativos a su materia que de acuerdo con el Código de Procedimientos Civiles deban tramitarse conforme al procedimiento oral.
+
 ###### ARTÍCULO 36.
 
 Corresponde a los Jueces de lo Penal:
@@ -653,9 +683,11 @@ Corresponde a los Jueces del Juicio Oral Penal conocer del juicio oral penal en 
 
 Los Jueces de Jurisdicción Concurrente conocerán:
 
-I. De las controversias que se susciten con motivo del cumplimiento y aplicación de leyes federales, cuando las mismas sólo afecten intereses particulares;
+(REFORMADA, P.O. 12 DE ABRIL DE 2006) (F. DE E., P.O. 16 DE JUNIO DE 2006)
 
-II. De los negocios de jurisdicción concurrente que no sean competencia exclusiva de la Federación o de los Jueces Menores;
+I. De las controversias que se susciten con motivo del cumplimiento y aplicación de leyes federales, cuando las mismas sólo afecten intereses particulares y que deriven de actos de comercio, sujetos a las leyes mercantiles que no sean competencia de los Juzgados Menores:
+
+II. (DEROGADA, P.O. 12 DE ABRIL DE 2006)
 
 III. De la atención y trámite de los exhortos que les dirijan los Jueces de Primera Instancia del Estado, los demás jueces y tribunales de la República; y
 
@@ -885,7 +917,9 @@ Son aplicables para los juzgados menores lo dispuesto en los artículos del 39 a
 
 Habrá una Oficialía de Partes encargada de distribuir los negocios que se inicien en los Juzgados de Primera Instancia de lo Civil, Familiar y de Jurisdicción Concurrente, en aquellos distritos en los que haya más de dos juzgados en cada una de estas materias.
 
-Los Juzgados Menores tendrán Oficialía de Partes en aquellos distritos, o municipios en su caso, en los que haya más de dos juzgados de este tipo.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2006)</small>
+
+Los Juzgados Menores tendrán Oficialía de Partes en aquellos distritos, o municipios en su caso, en los que haya más de dos juzgados de esta instancia.
 
 ###### ARTÍCULO 54.
 
@@ -1974,3 +2008,11 @@ Artículo Quinto.- El Consejo de la Judicatura queda facultado para proveer lo n
 Artículo Sexto.- La especialización de los juzgados, en los términos de la presente Ley, iniciará su vigencia dentro de los treinta días hábiles siguientes a la fecha de publicación en el Periódico Oficial del Estado, de este Decreto.
 
 Artículo Séptimo.- Los Juzgados del Juicio Oral Penal y los Juzgados de Preparación de lo Penal funcionarán una vez que hayan entrado en vigor las leyes que regulen su operación.
+
+P.O. 12 DE ABRIL DE 2006.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día 1º de febrero del año 2007.
+
+Artículo Segundo.- A los procedimientos judiciales que estén tramitándose con anterioridad a la vigencia de este Decreto, no les serán aplicables las disposiciones que en éste se prevén.
+
+Artículo Tercero.- En el Presupuesto de Egresos para el año 2007, deberán considerarse las prevenciones presupuestales para garantizar la aplicación de lo dispuesto por el presente Decreto.
