@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2006-01-19"
+last_updated: "2006-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2006.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -389,11 +389,13 @@ No podrán reunirse dos o más Poderes en una sola persona o corporación, ni de
 
 ### CAPITULO X. Residencia de los Poderes
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 28.
 
-Los Poderes residirán en la Ciudad de Campeche, Capital del Estado, salvo en el caso de que, por razones fundadas decrete el Congreso cambiar la residencia de los mismos, de acuerdo con lo dispuesto por la fracción II del Artículo 54 de esta Constitución.
+Los Poderes residirán en la Ciudad de San Francisco de Campeche, Capital del Estado, salvo en el caso de que, por razones fundadas decrete el Congreso cambiar la residencia de los mismos de acuerdo a lo dispuesto por la fracción II del artículo 54 de esta Constitución.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -779,8 +781,6 @@ XXVIII.- Autorizar al Gobernador para enajenar o gravar los bienes del Estado o 
 
 XXIX.- Reclamar ante la Suprema Corte de Justicia de la Nación, cuando alguna ley o acto del Gobierno Federal constituya violación alguna a la soberanía del Estado o a la Constitución General de la República;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 XXX.- Citar por conducto del Gobernador o del Pleno del H. Tribunal Superior de Justicia del Estado, a los titulares de las dependencias y entidades de la administración pública estatal, centralizada y descentralizada, a los Magistrados y a los demás miembros y servidores públicos del Poder Judicial, respectivamente, para que informen cuando se estudie y discuta una ley o asunto relativo a su dependencia, entidad, cargo o comisión.
@@ -973,7 +973,7 @@ El Gobernador al tomar posesión de su cargo, prestará ante el Congreso del Est
 
 El Gobernador del Estado no podrá ausentarse del territorio del mismo sin permiso del Congreso si estuviere reunido, o en su caso de la Diputación Permanente, a menos que la ausencia no exceda de sesenta días; en tal caso, se estará a lo dispuesto por el segundo párrafo del artículo 67.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MARZO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MARZO DE 1997)</small>
 
 ###### ARTICULO 71.
 
@@ -1711,8 +1711,6 @@ Todos los servidores públicos del Estado y de los Municipios, de elección popu
 
 Los funcionarios o empleados públicos que aceptaren su encargo faltándoles algunos de los requisitos que se señalan en esta Constitución, serán suspensos en el ejercicio de sus derechos de ciudadanos por un año.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 19 DE ENERO DE 2006)</small>
 
 ###### ARTICULO 121.
@@ -2001,7 +1999,7 @@ Artículo Segundo.- Serán Cabeceras de los ocho Distritos Electorales q (sic) s
 
 Artículo Tercero.- En cumplimiento de lo dispuesto por el artículo 6o., reformado de la Ley Electoral del Estado, cada Ayuntamiento procederá, en atención a la división que en ocho Distritos Electorales se hace en el artículo primero del presente Decreto, a dividir sus respectivas municipalidades en secciones numeradas, progresivamente, en los términos que dispone dicho artículo 6o.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA ESTADO DE CAMPECHE.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA ESTADO DE CAMPECHE.
 
 P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957.
 
@@ -2034,8 +2032,6 @@ P.O. 31 DE DICIEMBRE DE 1964.
 UNICO.- El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 29 DE MAYO DE 1965.
-
-> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO 104, EMITIDO POR LA LIII LEGISLATURA DEL CONGRESO DEL ESTADO PUBLICADO EN EL P.O. DE 27 DE DICIEMBRE DE 1990, SE DEROGA EL ARTICULO SEGUNDO DEL DECRETO NUMERO 104 EXPEDIDO POR LA LII LEGISLATURA DEL CONGRESO DEL ESTADO, PUBLICADO EN EL P.O. DE 30 DE DICIEMBRE DE 1987, MOTIVO POR EL QUE SE PRESENTA EL TEXTO ORIGINAL.</small>
 
 UNICO.- El presente Decreto de adiciones y reformas de la Constitución Política del Estado entrará en vigor el día 10 de julio de 1965.
 
@@ -2249,7 +2245,7 @@ DECRETO NUMERO 261
 
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-Segundo.- Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan al contenido del presente decreto.
+Segundo.- Se derogan todas auqellas disposiciones legales y reglamentarias que se opongan al contenido del presente decreto.
 
 P.O. 19 DE ENERO DE 2006.
 
@@ -2258,3 +2254,15 @@ DECRETO NUMERO 262
 Primero.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 12 DE ABRIL DE 2006.
+
+PRIMERO.- El presente decreto entrará en vigor 60 días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido de este decreto.
+
+TERCERO.- Con relación a lo ordenado por este decreto, deberán realizarse todas las adecuaciones necesarias al marco jurídico y reglamentario del Estado.
+
+CUARTO.- Para los efectos legales que correspondan, comuníquese lo ordenado por este decreto a los Poderes Ejecutivo, Legislativo y Judicial de la Federación, a los Organismos Federales Constitucionalmente Autónomos y a las Entidades Federativas del país.
+
+QUINTO.- Notifíquese al H. Ayuntamiento del Municipio de Campeche, para que en su oportunidad haga de conocimiento público el contenido de este decreto mediante bando solemne, en el que participarán los representantes de los Poderes del Estado.
