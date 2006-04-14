@@ -4,7 +4,7 @@ identifier: "COA-ley-del-instituto-coahuilense-de-ecologia-21267"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-30"
-last_updated: "2005-12-07"
+last_updated: "2006-04-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21267&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COA"
 
 LEY DEL INSTITUTO COAHUILENSE DE ECOLOGIA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 7 DE DICIEMBRE DE 2005, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE MEDIO AMBIENTE Y RECURSOS NATURALES DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 14 DE ABRIL DE 2006., EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DEROGADA.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 30 de marzo de 2001.
 
@@ -590,3 +590,11 @@ DECIMOSEGUNDO. Las Juntas Locales de Conciliación y las Juntas de Conciliación
 DECIMOTERCERO. Las facultades en materia de Archivos Públicos serán ejercidas de conformidad a la legislación vigente hasta en tanto no se realicen los ajustes normativos correspondientes.
 
 Las disposiciones legales expedidas en materia, vigentes al momento de la publicación del presente ordenamiento, se seguirán aplicando en todo lo que no se oponga a la presente Ley, en tanto no se expiden las que deban sustituirlas.
+
+P.O. 14 DE ABRIL DE 2006.
+
+PRIMERO.- El presente reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentos que se opongan al presente Reglamento.
+
+TERCERO.- Se abroga el Derecho que crea el Instituto Coahuilense de Ecología como organismo público descentralizado de la Administración Pública del Estado, así como su Reglamento Interior.
