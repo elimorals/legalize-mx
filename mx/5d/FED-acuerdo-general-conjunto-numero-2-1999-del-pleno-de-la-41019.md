@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-conjunto-numero-2-1999-del-pleno-de-la-41019"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1999-11-22"
-last_updated: "1999-11-22"
+last_updated: "2006-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41019&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "1999-11-15"
 
 ACUERDO GENERAL CONJUNTO NUMERO 2/1999 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION Y DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LINEAMIENTOS PARA LA TRANSFERENCIA DE RECURSOS ENTRE AMBOS ORGANOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE ABRIL DE 2006.
 
-Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo X, Noviembre de 1999, página 1043.
+Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo X, Noviembre de 1999, página1043.
 
 ACUERDO GENERAL CONJUNTO NÚMERO 2/1999 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN Y DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LINEAMIENTOS PARA LA TRANSFERENCIA DE RECURSOS ENTRE AMBOS ÓRGANOS.
 
@@ -75,17 +75,29 @@ En consecuencia, con fundamento en el artículo 100, párrafo octavo, de la Cons
 
 ACUERDO GENERAL:
 
-PRIMERO. RECURSOS FINANCIEROS: La Suprema Corte de Justicia de la Nación y el Consejo de la Judicatura Federal podrán autorizar la transferencia entre sí de aquellos recursos financieros que formen parte de su presupuesto, así como de otros recursos que por circunstancias diversas conserven.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL CONJUNTO NUMERO 2/2006, DE LOS PLENOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION Y DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE ABRIL DE 2006)</small>
 
-SEGUNDO. RECURSOS MATERIALES: La Suprema Corte de Justicia de la Nación y el Consejo de la Judicatura Federal podrán transferir entre sí aquellos recursos materiales, tales como: mobiliario y equipo de oficina, equipo de informática, programas y, en su caso, licencias, obras bibliográficas propias o las que adquieran de terceros, discos compactos, cintas o cualquier otro material, impreso o grabado o susceptible de ser apreciado a través de los sentidos, a fin de que la función jurisdiccional se desarrolle de manera óptima.
+PRIMERO. RECURSOS FINANCIEROS: La Suprema Corte de Justicia de la Nación, el Consejo de la Judicatura Federal y el Tribunal Electoral del Poder Judicial de la Federación podrán autorizar la transferencia entre sí de aquellos recursos financieros que formen parte de su presupuesto, así como de otros recursos.
 
-TERCERO. PLAZAS: La Suprema Corte de Justicia de la Nación y el Consejo de la Judicatura Federal, podrán transferir entre sí aquellas plazas relativas al personal que resulten necesarias para fortalecer la función jurisdiccional.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL CONJUNTO NUMERO 2/2006, DE LOS PLENOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION Y DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE ABRIL DE 2006)</small>
 
-CUARTO. DERECHOS LABORALES DEL PERSONAL TRANSFERIDO: Las plazas del personal que la Suprema Corte de Justicia de la Nación transfiera al Consejo de la Judicatura Federal deberán ser asignadas por éste, fundamentalmente, a los Tribunales de Circuito y Juzgados de Distrito, pasando a formar parte de la plantilla de dichos órganos, sin afectar los derechos laborales del personal transferido. El mismo trato se dará a las plazas que el Consejo de la Judicatura Federal transfiera a la Suprema Corte de Justicia de la Nación.
+SEGUNDO. RECURSOS MATERIALES: La Suprema Corte de Justicia de la Nación, el Consejo de la Judicatura Federal y el Tribunal Electoral del Poder Judicial de la Federación podrán transferir entre sí aquellos recursos materiales, tales como: mobiliario y equipo de oficina, equipo de informática, programas y, en su caso, licencias, obras bibliográficas propias o las que adquieran de terceros, discos compactos, cintas o cualquier otro material, impreso o grabado o susceptible de ser apreciado a través de los sentidos, a fin de que la función jurisdiccional se desarrolle de manera óptima.
 
-QUINTO. Se determina que los remanentes presupuestarios de ambos órganos, correspondientes a los años de mil novecientos noventa y ocho y anteriores, no aplicados ya a otros programas prioritarios, se ejerzan, de acuerdo con los planes y proyectos debidamente aprobados, en la instalación de nuevos órganos jurisdiccionales federales y órganos conexos, así como al mantenimiento de los ya instalados, entendiendo para esta finalidad como instalación y mantenimiento: la adquisición o arrendamiento de inmuebles, así como la construcción, reconstrucción, conservación, reparación, remodelación por causas de funcionalidad y demolición de inmuebles; la realización de proyectos integrales que comprendan desde el diseño de la obra hasta su terminación total y, por último, los servicios relacionados con las mismas.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL CONJUNTO NUMERO 2/2006, DE LOS PLENOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION Y DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE ABRIL DE 2006)</small>
 
-SEXTO. Los recursos que la Suprema Corte de Justicia de la Nación transfiera al Consejo de la Judicatura Federal, o éste a aquélla, en su caso, se destinarán a la adquisición de activos fijos, tales como: inmuebles y equipos, así como a la remodelación, reparación y mantenimiento de dichos activos, con el propósito de que la función jurisdiccional a cargo de los Tribunales de Circuito y los Juzgados de Distrito se lleve a cabo en las mejores condiciones posibles. Asimismo, los recursos podrán aplicarse para satisfacer las necesidades urgentes o imprevistas que se presenten en el Poder Judicial de la Federación.
+TERCERO. PLAZAS: Las suprema Corte de Justicia de la Nación, el Consejo de la Judicatura Federal y el Tribunal Electoral del Poder Judicial de la Federación podrán transferir entre sí las plazas relativas al personal que resulten necesarias para fortalecer la función jurisdiccional.
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL CONJUNTO NUMERO 2/2006, DE LOS PLENOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION Y DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE ABRIL DE 2006)</small>
+
+CUARTO. DERECHOS LABORALES DEL PERSONAL TRANSFERIDO: Las plazas del personal que la Suprema Corte de Justicia de la Nación, Consejo de la Judicatura Federal y el Tribunal Electoral del Poder Judicial de la Federación se transfieran entre sí pasarán a formar parte de sus respectivas plantillas, sin afectar los derechos laborales del personal transferido.
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL CONJUNTO NUMERO 2/2006, DE LOS PLENOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION Y DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE ABRIL DE 2006)</small>
+
+QUINTO. DESTINO DE LOS RECURSOS FINANCIEROS. Los recursos financieros que de la Suprema Corte de Justicia de la Nación, el Consejo de la Judicatura Federal y el Tribunal Electoral del Poder Judicial de la Federación se transfieran entre sí, se destinarán a la adquisición de activos fijos, tales como: inmuebles y equipos, así como a la remodelación, reparación y mantenimiento de dichos activos, con el propósito de que las funciones jurisdiccionales a su cargo se lleve a cabo en las mejores condiciones posibles. Asimismo, los recursos podrán aplicarse para satisfacer las necesidades urgentes o imprevistas que se presenten en el Poder Judicial de la Federación.
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL CONJUNTO NUMERO 2/2006, DE LOS PLENOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION Y DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE ABRIL DE 2006)</small>
+
+SEXTO. EJECUCION: La ejecución de este acuerdo corresponderá al Presidente de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal y a la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación, en la esfera de sus respectivas competencias; las transferencias de recursos deberán ser previamente aprobadas, en su caso, por el Pleno de la Suprema Corte de Justicia de la Nación, por el Pleno del Consejo de la Judicatura Federal o por la mencionada Comisión.
 
 SÉPTIMO. La ejecución del presente acuerdo corresponde al presidente de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal, en la esfera de su competencia; las transferencias de recursos deberán ser previamente aprobadas, en su caso, por el Pleno de la Suprema Corte de Justicia de la Nación o por el Pleno del Consejo de la Judicatura Federal.
 
@@ -98,3 +110,13 @@ SEGUNDO.-Se derogan todos aquellos acuerdos que se opongan al presente.
 TERCERO.-Publíquese este acuerdo en el Semanario Judicial de la Federación y su Gaceta, así como en el Diario Oficial de la Federación.
 
 Así lo acordaron, los señores Ministros presidente Genaro David Góngora Pimentel, Sergio Salvador Aguirre Anguiano, Mariano Azuela Güitrón, Juventino V. Castro y Castro, Juan Díaz Romero, José Vicente Aguinaco Alemán, José de Jesús Gudiño Pelayo, Guillermo I. Ortiz Mayagoitia, Humberto Román Palacios, Olga María Sánchez Cordero y Juan N. Silva Meza, así como los señores consejeros Adolfo O. Aragón Mendía, Manuel Barquín Álvarez, Jaime Manuel Marroquín Zaleta, Enrique Sánchez Bringas, José Guadalupe Torres Morales, Sergio Armando Valls Hernández, ante el secretario general de Acuerdos de la Suprema Corte de Justicia de la Nación y el secretario ejecutivo de Pleno y Carrera Judicial del Consejo de la Judicatura Federal, quienes dan fe.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 14 DE ABRIL DE 2006.
+
+PRIMERO. Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Se derogan todos aquellos acuerdos que se opongan al presente.
+
+TERCERO. Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
