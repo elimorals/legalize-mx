@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "2004-04-18"
+last_updated: "2006-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 2006.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -295,7 +295,7 @@ ART. 54.- Las declaraciones de nacimiento se harán presentando al niño ante el
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE ABRIL DE 2004)</small>
 
-ART. 55 .- Tienen obligación de declarar el nacimiento, el padre, la madre o ambos, a falta de éstos, los ascendientes dentro de los ciento ochenta días de ocurrido.
+ART. 55.- Tienen obligación de declarar el nacimiento, el padre, la madre o ambos, a falta de éstos, los ascendientes dentro de los ciento ochenta días de ocurrido.
 
 > <small>(REFORMADO, P.O. 18 DE ABRIL DE 2004)</small>
 
@@ -1369,9 +1369,19 @@ X. Las demás que considere necesarias.
 
 ART. 278.- La sentencia de divorcio fijará la situación de los hijos, conforme a las reglas siguientes:
 
-Primera.- Cuando la causa del divorcio estuviere comprendida en las fracciones I, II, III, IV, V, VIII, XIII y XIV del artículo 262, los hijos quedarán bajo la patria potestad del cónyuge no culpable. Si los dos fueren culpables, quedarán bajo la patria potestad del ascendiente que corresponda, y si no lo hubiere se nombrará tutor
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2006)</small>
 
-Segunda.- Cuando la causa del divorcio estuviere comprendida en las fracciones IX, X, XI, XII y XV del artículo 262, los hijos quedarán bajo la patria potestad del cónyuge inocente; pero a la muerte de éste, el cónyuge culpable recuperará la patria potestad. Si los dos cónyuges fueren culpables, se les suspenderá en el ejercicio de la patria potestad hasta la muerte de uno de ellos, recobrándola el otro al acaecer ésta. Entretanto, los hijos quedarán bajo la patria potestad del ascendiente que corresponda, y si no hay quien la ejerza, se les nombrará tutor.
+Primera.- Cuando la causa del divorcio estuviere comprendida en las fracciones I, II, III, IV, V, VIII, XIII y XIV del artículo 262, los hijos quedarán bajo la custodia del cónyuge no culpable. Si los dos fueren culpables, quedarán bajo la custodia del ascendiente que corresponda, y si no lo hubiere se nombrará tutor.
+
+En los casos particulares de las causales de divorcio arriba señaladas, el Juez deberá analizar las consideraciones particulares de cada caso, para ver si es pertinente declarar la pérdida de la patria potestad al cónyuge culpable.
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2006)</small>
+
+Segunda.- Cuando la causa del divorcio estuviere comprendida en las fracciones IX, X, XI, XII y XV del artículo 262, los hijos quedarán bajo la custodia del cónyuge inocente; pero a la muerte de éste, el cónyuge culpable recuperará la custodia.
+
+En los casos particulares de las causales de divorcio arriba señaladas, el Juez deberá analizar las consideraciones particulares de cada caso, para ver si es pertinente declarar la pérdida de la patria potestad al cónyuge culpable.
+
+Si los dos cónyuges fueren culpables y existan elementos para ello, el Juez les suspenderá el ejercicio de la patria potestad hasta la muerte de uno de ellos, recobrándola el otro al acaecer ésta. Entretanto, los hijos quedarán bajo la patria potestad del ascendiente que corresponda, y si no hay quien la ejerza, se les nombrará tutor.
 
 Tercera.- En caso de las fracciones VI y VII del artículo 262, los hijos quedarán en poder del cónyuge sano; pero el consorte enfermo conservará los demás derechos sobre la persona y bienes de sus hijos.
 
@@ -1689,7 +1699,7 @@ II.- Que el padre lo haya tratado como a hijo nacido de su matrimonio, proveyend
 
 III.- Que el presunto padre tenga la edad exigida por el artículo 356.
 
-ART. 339 .- Declarado nulo un matrimonio, haya habido buena o mala fe en los cónyuges al celebrarlo, los hijos tenidos durante él se consideran como hijos de matrimonio.
+ART. 339.- Declarado nulo un matrimonio, haya habido buena o mala fe en los cónyuges al celebrarlo, los hijos tenidos durante él se consideran como hijos de matrimonio.
 
 ART. 340.- No basta el dicho de la madre para excluir la paternidad al marido. Mientras que éste viva, únicamente él podrá reclamar contra la filiación del hijo concebido durante el matrimonio.
 
@@ -2167,7 +2177,7 @@ ART. 430.- Cuando por la ley o por la voluntad del padre, el hijo tenga la admin
 
 ART. 431.- Los que ejercen la patria potestad no pueden enajenar ni gravar de ningún modo los bienes inmuebles y los muebles preciosos que correspondan al hijo, sino por causa de absoluta necesidad o de evidente beneficio, y previa la autorización del juez competente.
 
-Tampoco podrán celebrar contrato de arrendamiento, por más de cinco años, ni recibir la renta anticipada por más de dos años; vender valores comerciales, industriales, títulos de rentas, acciones, frutos y ganados, por menor valor del que se cotice en la plaza el día de la venta; hacer donación de los bienes de los hijos o remisión voluntaria de los derechos de éstos; ni dar fianza en representación de los hijos.
+Tampoco podrán celebrar contrato de arrendamiento, por más de cinco años, ni recibir la renta anticipada por más de dos años; vender valores comerciales, industriales, títulos de rentas, acciones, frutos y ganados, por menor valor del que se cotice en la plaza el día de la venta, hacer donación de los bienes de los hijos o remisión voluntaria de los derechos de éstos; ni dar fianza en representación de los hijos.
 
 ART. 432.- Siempre que el juez conceda licencia a los que ejercen la patria potestad, para enajenar un bien inmueble o un mueble precioso perteneciente al menor, tomarán las medidas necesarias para hacer que el producto de la venta se dedique al objeto a que se destinó, y para que el resto se invierta en la adquisición de un inmueble o se imponga con segura hipoteca en favor del menor.
 
@@ -2283,7 +2293,7 @@ ART. 445.- Tienen incapacidad natural y legal:
 
 I.- Los menores de edad;
 
-II.- Los mayores de edad disminuidos o perturbados en su inteligencia, aunque tengan intervalos lúcidos; y aquellos que padezcan alguna afección originada por enfermedad o deficiencia persistente de carácter físico, mental, psicológico o sensorial o por la adicción a sustancias tóxicas como el alcohol, los psicotrópicos o los estupefacientes; siempre que debido a la limitación o la alteración en la inteligencia que esto los provoque, no puedan gobernarse y obligarse por si mismos; o manifestar su voluntad por algún medio.
+II.- Los mayores de edad disminuidos o perturbados en su inteligencia, aunque tengan intervalos lúcidos; y aquellos que padezcan alguna afección originada por enfermedad o deficiencia persistente de carácter físico, mental, psicológico o sensorial o por la adicción a sustancias tóxicas como el alcohol, los psicotrópicos o los estupefacientes; siempre que debido a la limitación, o la alteración en la inteligencia que esto los provoque, no puedan gobernarse y obligarse por si mismos; o manifestar su voluntad por algún medio.
 
 > <small>(REFORMADO, P.O. 17 DE ENERO DE 1971)</small>
 
@@ -2751,7 +2761,7 @@ ART. 553.- Si para hacer la imposición dentro del término señalado en el art�
 
 ART. 554.- El tutor que no haga las imposiciones dentro de los plazos señalados en los dos artículos anteriores, pagará los réditos legales mientras que los capitales no sean impuestos.
 
-ART. 555.- Mientras que hacen las imposiciones a que se refieren los artículo 552 y 553, el tutor depositará las cantidades que perciba, en el establecimiento público destinado al efecto.
+ART. 555.- Mientras que hacen las imposiciones a que se refieren los artículos 552 y 553, el tutor depositará las cantidades que perciba, en el establecimiento público destinado al efecto.
 
 > <small>(REFORMADO, P.O. 18 DE ABRIL DE 2004)</small>
 
@@ -4881,7 +4891,7 @@ ART. 1255.- No hay obligación de dar alimentos a las personas que tengan bienes
 
 ART. 1256.- Para tener derecho de ser alimentado se necesita encontrarse al tiempo de la muerte del testador en alguno de los casos fijados en el artículo 1253 y cesa ese derecho tan luego como el interesado deje de estar en las condiciones a que se refiere el mismo artículo, observe mala conducta o adquiera bienes, aplicándose en este caso lo dispuesto en el artículo anterior.
 
-ART. 1257.- El derecho de percibir alimentos no es renunciable ni puede ser objeto de transacción. La pensión alimenticia se fijará y asegurara conforme a lo dispuesto en los artículo 303, 309, 311 y 312 de este Código, y por ningún motivo excederá de los productos de la porción que en caso de sucesión intestada corresponderían al que tenga derecho a dicha pensión, ni bajará de la mitad de dichos productos. Si el testador hubiere fijado la pensión alimenticia, subsistirá su designación, cualquiera que sea, siempre que no baje del mínimum (sic) antes establecido. Con excepción de los artículos citados en el presente Capítulo, no son aplicables a los alimentos debidos por sucesión, las disposiciones del Capítulo II, Título VI, Libro I.
+ART. 1257.- El derecho de percibir alimentos no es renunciable ni puede ser objeto de transacción. La pensión alimenticia se fijará y asegurará conforme a lo dispuesto en los artículos 303, 309, 311 y 312 de este Código, y por ningún motivo excederá de los productos de la porción que en caso de sucesión intestada corresponderían al que tenga derecho a dicha pensión, ni bajará de la mitad de dichos productos. Si el testador hubiere fijado la pensión alimenticia, subsistirá su designación, cualquiera que sea, siempre que no baje del mínimum (sic) antes establecido. Con excepción de los artículos citados en el presente Capítulo, no son aplicables a los alimentos debidos por sucesión, las disposiciones del Capítulo II, Título VI, Libro I.
 
 ART. 1258.- Cuando el caudal hereditario no fuere suficiente para dar alimentos a todas las personas enumeradas en el artículo 1253, se observarán las reglas siguientes:
 
@@ -5129,7 +5139,7 @@ ART. 1362.- Si los herederos instituídos en partes desiguales fueren substituí
 
 ART. 1363.- La nulidad de la substitución fideicomisaria no importa la de la institución, ni la del legado teniéndose únicamente por no escrita la cláusula fideicomisaria.
 
-ART. 1364.- No se reputa fideicomisaria la disposición en que el testador deja la propiedad del todo o de parte de sus bienes a una persona y el usufructo o otra; a no ser que el propietario o el usufructuario queden obligados a transferir a su muerte la propiedad o el usufructo a un tercero.
+ART. 1364.- No se reputa fideicomisaria la disposición en que el testador deja la propiedad del todo o de parte de sus bienes a una persona y el usufructo o (sic) otra; a no ser que el propietario o el usufructuario queden obligados a transferir a su muerte la propiedad o el usufructo a un tercero.
 
 ART. 1365.- Puede el padre dejar una parte o la totalidad de sus bienes a su hijo, con la carga de transferirles al hijo o hijos que tuviere hasta la muerte del testador, teniéndose en cuenta lo dispuesto en el artículo 1200 en cuyo caso el heredero se considerará como usufructuario.
 
@@ -5281,7 +5291,7 @@ Si el testador no puede o no sabe leer, dictará en su idioma el testamento a un
 
 > <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2004)</small>
 
-En este caso los intérpretes podrán intervenir, además como testigos a que se refiere el artículo 1398.
+En éste caso los intérpretes podrán intervenir, además como testigos a que se refiere el artículo 1398.
 
 > <small>(REFORMADO, P.O. 18 DE ABRIL DE 2004)</small>
 
@@ -5565,7 +5575,7 @@ ART. 1501.- Si sólo hubiere ascendientes de ulterior grado por una línea se di
 
 ART. 1502.- Si hubiere ascendientes por ambas líneas, se dividirá la herencia en dos partes iguales y se aplicará una a los ascendientes de línea paterna y otra a los de la materna.
 
-ART. 1503.- Los miembros de cada línea dividirá entre sí por partes iguales la porción que les corresponda.
+ART. 1503.- Los miembros de cada línea dividirá entre si por partes iguales la porción que les corresponda.
 
 > <small>(REFORMADO, P.O. 21 DE MAYO DE 1998)</small>
 
@@ -5887,9 +5897,7 @@ ART. 1604.- El albacea no puede transigir ni comprometer en árbitros los negoci
 
 ART. 1605.- El albacea sólo puede dar en arrendamiento hasta por un año los bienes de la herencia. Para arrendarlos por mayor tiempo necesita del consentimiento de los herederos o de los legatarios en su caso.
 
-ART. 1606.- El albacea está abligado (sic) a rendir cada año cuenta de su albaceazgo. No podrá ser nuevamente nombrado, sin que antes haya sido aprobada su cuenta anual. Además, rendirá la cuenta general de albaceazgo.
-
-También rendirá cuenta de su administración, cuando por cualquiera causa deje de ser albacea.
+ART. 1606.- El albacea está abligado (sic) a rendir cada año cuenta de su albaceazgo. No podrá ser nuevamente nombrado, sin que antes haya sido aprobada su cuenta anual. Además, rendirá la cuenta general de albaceazgo. También rendirá cuenta de su administración, cuando por cualquiera causa deje de ser albacea.
 
 ART. 1607.- La obligación que de dar cuentas tiene el albacea, pasa a sus herederos.
 
@@ -6029,7 +6037,7 @@ ART. 1658.- Si el testador hubiere legado alguna pensión o renta vitalicia, sin
 
 ART. 1659.- En el proyecto de partición se expresará la parte que del capital o fondo afecto a la pensión corresponderá a cada uno de los herederos luego que aquella se extinga.
 
-ART. 1660.- Cuando todos los herederos sean mayores y el interés del Fisco, si lo hubiere, está cubierto, podrán los interesados separarse de la prosecución del juicio y adoptar los acuerdos que estimen convenientes para el arreglo o terminación de la testamentaría o del intestado.
+ART. 1660.- Cuando todos los herederos sean mayores y el interés del Fisco, si lo hubiere, esté cubierto, podrán los interesados separarse de la prosecución del juicio y adoptar los acuerdos que estimen convenientes para el arreglo o terminación de la testamentaría o del intestado.
 
 Cuando haya menores, podrán separarse, si están debidamente representados y el Ministerio Público da su conformidad. En este caso, los acuerdos que se tomen se denunciarán al juez, y éste, oyendo al Ministerio Público, dará us (sic) aprobación, si no se lesionan los derechos de los menores.
 
@@ -6697,7 +6705,7 @@ ART. 1887.- Cada uno de los que han contraído conjuntamente una deuda indivisib
 
 La misma tiene lugar respecto de los herederos de aquel que haya contraído una obligación indivisible.
 
-ART. 1888.- Cada uno de los herederos del acreedor puede exigir la completa ejecución indivisible obligándose a dar suficiente garantía para la indemnización de los demás coherederos, pero no puede por sí solo perdonar el débito total ni recibir el valor en lugar de la cosa.
+ART. 1888.- Cada uno de los herederos del acreedor puede exigir la completa ejecución indivisible obligándose a dar suficiente garantía para la indemnización de los demás coherederos, pero no puede por si solo perdonar el débito total ni recibir el valor en lugar de la cosa.
 
 Si uno sool (sic) de los herederos ha perdonado la deuda o recibido el valor de la cosa, el coheredero no puede pedir la cosa indivisible sino devolviendo la porción del heredero que haya perdonado o que haya recibido el valor.
 
@@ -6991,7 +6999,7 @@ ART. 1978.- El ofrecimiento seguido de la consignación hace veces de pago, si r
 
 ART. 1979.- Si el acreedor rehusare sin justa causa recibir la prestación debida, o dar el documento justificativo de pago, o si fuere persona incierta o incapaz de recibir, podrá el deudor librarse de la obligación haciendo consignación de la cosa.
 
-ART. 1980.- Si el acreedor fuere conocido, pero dudosos sus derechos podrá el deudor depositar la cosa debida, con citación del interesado, a fin de que justifique sus derechos por los medios legales.
+ART. 1980.- Si el acreedor fuere conocido, pero dudosos sus derechos podrá el deudor depositar la cosa debida concitación del interesado, a fin de que justifique sus derechos por los medios legales.
 
 ART. 1981.- La consignación se hará siguiéndose el procedimiento que establezca el Código de la materia.
 
@@ -7987,7 +7995,7 @@ ART. 2327.- Si la misma cosa se ha dado en arrendamiento separadamente a dos o m
 
 Si el arrendamiento debe ser inscrito en el Registro, sólo vale el inscrito.
 
-ART. 2328.- En los arrendamientos que han durado más de cinco años y cuando el arrendatario ha hecho mejorar (sic) de importancia en la finca arrendada, tiene éste derecho, si está al corriente en el pago de la renta, a que en igualdad de condiciones, se le prefiera a otro interesado en el nuevo arrndamiento d (sic) la finca . También gozará del derecho del tanto si el propietario quiere vender la finca arrendada, aplicándose en lo conducente lo dispuesto en los artículos 2185 y 2186.
+ART. 2328.- En los arrendamientos que han durado más de cinco años y cuando el arrendatario ha hecho mejorar (sic) de importancia en la finca arrendada, tiene éste derecho, si está al corriente en el pago de la renta, a que en igualdad de condiciones, se le prefiera a otro interesado en el nuevo arrndamiento d (sic) la finca. También gozará del derecho del tanto si el propietario quiere vender la finca arrendada, aplicándose en lo conducente lo dispuesto en los artículos 2185 y 2186.
 
 ### CAPITULO IV.
 
@@ -10150,3 +10158,13 @@ P.O. 18 DE ABRIL DE 2004.
 PRIMERO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones legales que se opongan al presente.
+
+P.O. 16 DE ABRIL DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al presente Decreto.
