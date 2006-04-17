@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-2-2004-de-tres-de-febrero-de-dos-mil-cuatro-4089
 country: "mx"
 rank: "acuerdo"
 publication_date: "2004-02-10"
-last_updated: "2004-02-10"
+last_updated: "2006-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40893&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2004-02-10"
 
 ACUERDO NUMERO 2/2004, DE TRES DE FEBRERO DE DOS MIL CUATRO, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, SOBRE LA CREACION DE PLAZAS, OCUPACION DE LAS MISMAS Y SEGURIDAD EN EL TRABAJO DEL PERSONAL DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO NUMERO 5/2006 DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL S.J.F.G., TOMO XXIII, ABRIL DE 2006, PAGINA 1183, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo XIX, Febrero de 2004, página 1183.
 
@@ -100,3 +102,13 @@ LICENCIADO JOSÉ JAVIER AGUILAR DOMÍNGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA
 CERTIFICA:
 
 Que este Acuerdo Número 2/2004, sobre la creación de plazas, ocupación de las mismas y seguridad en el trabajo del personal de la Suprema Corte de Justicia de la Nación, fue emitido por el Tribunal Pleno en su sesión privada celebrada el tres de febrero de dos mil cuatro, por unanimidad de ocho votos de los señores Ministros presidente Mariano Azuela Güitrón, Sergio Salvador Aguirre Anguiano, José Ramón Cossío Díaz, Juan Díaz Romero, Genaro David Góngora Pimentel, José de Jesús Gudiño Pelayo, Olga Sánchez Cordero de García Villegas y Juan N. Silva Meza; ausentes los señores Ministros Guillermo I. Ortiz Mayagoitia y Humberto Román Palacios; y que en la sesión privada celebrada hoy el Tribunal Pleno aprobó el acuerdo formal por unanimidad de diez votos de los señores Ministros presidente Mariano Azuela Güitrón, Sergio Salvador Aguirre Anguiano, José Ramón Cossío Díaz, Juan Díaz Romero, Genaro David Góngora Pimentel, José de Jesús Gudiño Pelayo, Guillermo I. Ortiz Mayagoitia, Humberto Román Palacios, Olga Sánchez Cordero de García Villegas y Juan N. Silva Meza.- México, Distrito Federal, a diez de febrero de dos mil cuatro.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+S.J.F.G., TOMO XXIII, ABRIL DE 2006, PAGINA 1183.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Se abroga lo previsto en el Acuerdo Número 2/2004, del tres de febrero de dos mil cuatro, del Pleno de la Suprema Corte de Justicia de la Nación, sobre la creación de plazas, ocupación de las mismas y seguridad en el trabajo del personal de la Suprema Corte de Justicia de la Nación.
+
+TERCERO. Publíquese este Acuerdo en el Semanario Judicial de la Federación y su Gaceta.
