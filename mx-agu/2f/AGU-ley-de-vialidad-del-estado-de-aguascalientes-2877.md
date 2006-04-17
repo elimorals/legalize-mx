@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-vialidad-del-estado-de-aguascalientes-2877"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-29"
-last_updated: "2005-08-08"
+last_updated: "2006-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE VIALIDAD DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ABRIL DE 2006.
 
 Ley publicada en el Suplemento a la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de mayo de 1994.
 
@@ -1877,6 +1877,14 @@ Los conductores de vehículos implicados en un accidente, tendrán la obligació
 
 En todos los casos, en que se requiera retirar de la circulación algún vehículo, el agente deberá conceder a su propietario o conductor, la libertad de decidir sobre el medio utilizable para remitirlo al depósito vehicular correspondiente, excepto los casos que ameriten consignación de los hechos al Ministerio Público, donde el agente deberá solicitar el servicio de grúa que le corresponda.
 
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2006)</small>
+
+###### ARTICULO 128 Bis.
+
+En cualquier accidente de tránsito en el que no exista convenio entre las partes, el agente estará obligado a entregarles a los implicados, en el lugar del suceso, copia del parte informativo de accidente que contenga el diagrama de colisión, mismo que deberá estar firmado por el agente y por los conductores; en caso que alguno de los implicados se negaren a hacerlo se recabará la firma de dos testigos y se sentará en el parte informativo la negación. Si alguno de los conductores no pudiera hacerlo, además se recabará preferentemente la firma de un tercero que conozca éste, en tal caso el agente estará obligado a entregarle la copia del parte de accidente a este tercero.
+
+Así mismo el agente tendrá la obligación de entregarles copia de los inventarios de las pertenencias y del general del vehículo, en caso que sea ingresado a la pensión, mismo que deberá ser firmado por el agente y por el conductor, si éste no pudiera o no quisiera hacerlo, se recabará la firma de dos testigos.
+
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
 ### CAPITULO IX. De la Protección al Medio Ambiente
@@ -1975,9 +1983,9 @@ b) Responsables de accidentes por la comisión de una infracción.
 
 c) Padrón de operadores del servicio público.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2006)</small>
 
-d) Responsables de accidentes por conducir bajo los efectos de bebidas embriagantes, estupefacientes, psicotrópicos o sustancias tóxicas.
+d).- Responsables de accidentes o sancionados por conducir bajo los efectos de bebidas embriagantes, estupefacientes psicotrópicos o sustancias tóxicas.
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
 
@@ -2037,6 +2045,14 @@ VI.- Entregar el acta de infracción a la autoridad competente para que ésta, l
 
 VII.- Presentar a la persona que sea sorprendida conduciendo con aliento alcohólico a las instituciones de apoyo establecidas para el efecto, para la realización de los exámenes a que haya lugar, para elaborar con los resultados que se obtengan, las boletas de infracción correspondientes;
 
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2006)</small>
+
+En este caso los agentes deberán impedir la circulación del vehículo y si se comprueba que el conductor se encuentra en estado de ebriedad el agente deberá remitir el vehículo al depósito vehicular.
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2006)</small>
+
+Para el caso del párrafo anterior el vehículo no será remitido al depósito vehicular si se cuenta con alguna persona que lo conduzca en términos de esta Ley;
+
 VIII.- Retener algún documento al levantar las infracciones, tratándose de vehículos no registrados en el Estado, con los que se cometan infracciones a la presente Ley, hasta en tanto no se cumplan las sanciones correspondientes; y
 
 IX.- Mantener en todo momento de la diligencia absoluto respeto hacia el reconvenido.
@@ -2065,21 +2081,27 @@ IV.- En caso de accidente en que se causen lesiones, homicidio o daños en propi
 
 En los supuestos establecidos en el presente artículo, los agentes de vialidad también se encontrarán sujetos a disposiciones que para el efecto se establecen en la Legislación Penal del Estado de Aguascalientes.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 145 Bis.
 
-Los agentes podrán impedir que alguna persona aborde su vehículo para circular en él, cuando se determine que presumiblemente se encuentra en estado de ebriedad y sus condiciones no son óptimas para conducir con responsabilidad y seguridad su vehículo por la vía pública.
+Los agentes podrán detener la marcha de un vehículo cuando se lleven a cabo operativos preventivos de conducción de vehículos, en estado de ebriedad u otras sustancias tóxicas.
 
-En el caso de que el vehículo ya se encuentre en circulación y sea detenido por el agente en virtud de un operativo, luego de la revisión del conductor si se detecta que éste se encuentra presumiblemente en estado de ebriedad, se impedirá que el vehículo continúe circulando y el conductor sea remitido de manera inmediata ante la autoridad de salud correspondiente para que se le practique examen de alcoholemia.
+Si al detener la marcha de un vehículo, el agente percibe que el conductor se encuentra presumiblemente en estado de ebriedad y sus condiciones no son óptimas para conducir con responsabilidad y seguridad su vehículo por la vía pública, se procederá a examinarlo a través de la prueba de alcohol en aire aspirado, que consistirá en solicitar a la persona que realice una exhalación profunda en una boquilla de plástico esterilizada que estará conectada al “Alcoholímetro”.
 
-Para determinar si la persona que pretenda conducir o conductor en el caso del segundo párrafo del presente artículo, se encuentra en probable estado de ebriedad, se procederá a examinarla a través de la prueba de alcohol en aire espirado, que consistirá en solicitar a la persona que realice una exhalación profunda en una boquilla de plástico esterilizada que estará conectada al "Alcoholímetro".
+El alcoholímetro es un instrumento de medición que permitirá determinar cuantitativamente si la persona se encuentra bajo el influjo de bebidas alcohólicas.
 
-El "Alcoholímetro" es un instrumento de medición que permitirá determinar cuantitativa si la persona se encuentra bajo el influjo de bebidas alcohólicas y el grado de toxicidad.
+Se considera que una persona se encuentra probablemente en estado de ebriedad, si el resultado arrojado por el alcoholímetro es mayor a 0.4 miligramos de alcohol por litro de aire respirado.
 
-Se considerará que una persona se encuentra probablemente en estado de ebriedad, si el resultado arrojado por el alcoholímetro es mayor de 0.4 miligramos por litro de alcohol en aire espirado
+En caso de que el conductor rebase la cantidad de alcohol establecida en el párrafo anterior o se resista a que se le realice la prueba del alcoholímetro y muestre síntomas claros de encontrarse en estado de ebriedad, se impedirá que continúe conduciendo y será remitido de manera inmediata ante la autoridad competente para los exámenes a que haya lugar; si del resultado de éstos exámenes se determina que se encuentra en estado de ebriedad, se le aplicarán las sanciones que señala la presente Ley y el vehículo será enviado al depósito vehicular.
 
-Los operativos que realice la autoridad deberán garantizar condiciones de estricta higiene, seguridad y control en la utilización del alcoholímetro; asimismo, garantizar la transparencia, legalidad, imparcialidad y respeto de las garantías y derechos fundamentales de los conductores, los operativos deberán integrarse con personal interdisciplinario, de las áreas de seguridad pública y tránsito, personal médico, agentes del sexo masculino y femenino y personal derechos humanos.
+Para el caso del párrafo anterior el vehículo no será remitido al depósito vehicular si se cuenta con alguna persona que lo conduzca en términos de esta Ley.
+
+Tratándose de conductores de vehículos destinados al servicio público de transporte de pasajeros y de carga, bastará únicamente que muestren aliento alcohólico y/o síntomas claros de consumo de estupefacientes, psicotrópicos u otras sustancias tóxicas, para su presentación inmediata ante las autoridades competentes a efecto de que se le apliquen los exámenes correspondientes y de ser positivos se hará acreedor a las sanciones establecidas en la fracción II del Artículo 157 de la presente Ley y el vehículo será remitido al depósito vehicular.
+
+Los operativos que realice la autoridad deberán garantizar condiciones de estricta higiene, seguridad y control en la utilización del alcoholímetro; así mismo garantizar la transparencia, legalidad, imparcialidad y respeto de las garantías y derechos fundamentales de los conductores. Los operativos deberán integrarse con agentes de sexo masculino y femenino.
+
+En caso de actualizarse alguno de los supuestos contenidos en el párrafo quinto o séptimo del presente artículo, los agentes deberán levantar acta circunstanciada firmada por dos testigos propuestos por el conductor del vehículo o ante su negativa nombrados por los propios agentes, de la cual, se entregará una copia al conductor.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
 
@@ -2139,9 +2161,7 @@ VIII.- Cuando el vehículo tenga defecto en su sistema de frenado.
 
 IX.- Cuando exista requerimiento para su detención por parte de autoridad competente policiaca, judicial, fiscal o de tránsito; y (sic)
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2004)</small>
-
-X.- Cuando el conductor se encuentre en estado de ebriedad, previa valoración a través del alcoholímetro y ratificación por el correspondiente examen de alcoholemia; y
+X.- (DEROGADA, P.O. 17 DE ABRIL DE 2006)
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
@@ -2163,9 +2183,15 @@ II.- Prestar el servicio público de transporte de pasajeros o de carga sin port
 
 III.- Prestar servicio público de transporte de pasajeros con itinerarios fijos, fuera de la ruta autorizada o en lugares no autorizados previamente.
 
-IV.- Cuando lo establezcan las normativas aplicables por falta de taxímetro, por exceso de cobro o por traer el vehículo en mal estado; y
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2006)</small>
+
+IV.- Cuando lo establezcan las normativas aplicables por falte de taxímetro, por exceso de cobro o por traer el vehículo en mal estado.
 
 V.- No contar con póliza de seguro del vehículo.
+
+> <small>(ADICIONADA, P.O. 17 DE ABRIL DE 2006)</small>
+
+VI.- Cuando su conductor se encuentre con síntomas simples de aliento alcohólico, o bajo el influjo de enervantes, estupefacientes o sustancias psicotrópicas o tóxicas.
 
 En los casos antes mencionados, la autoridad competente una vez terminados los trámites relativos a la infracción, procederán a la entrega inmediata del vehículo cuando se cubran previamente los derechos del traslados (sic) si los hubiere, el pago de la multa y se acredita su propiedad o posesión legal.
 
@@ -2193,9 +2219,9 @@ Los agentes únicamente podrán detener la marcha de un vehículo, cuando su con
 
 Cuando se implementen campañas especiales, previo anuncio y publicidad de éstas, los agentes podrán detener la marcha de un vehículo, para revisar la documentación o efectuar la inspección del mismo.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2006)</small>
 
-Los municipios implementaran campañas permanentes antialcohólicas a través de operativos en las salidas de los establecimientos en donde se consuman bebidas alcohólicas, o en lugares estratégicos previamente determinados, a efecto de verificar el estado físico de los conductores o personas que patenten conducir, con la utilización del alcoholímetro, en los términos del artículo 145 Bis.
+Los municipios implementarán campañas permanentes antialcohólicas a través de operativos previamente determinados, con la utilización del alcoholímetro, a efecto de verificar el estado físico de los conductores o personas que pretenden conducir, en términos del artículo 145 Bis.
 
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
@@ -2227,11 +2253,23 @@ III.- Solidariamente, los propietarios de negociaciones o establecimientos; y
 
 IV.- Los titulares de autorizaciones para operar las escuelas de manejo.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 157.
 
-Quien conduzca en estado de ebriedad o bajo el efecto de estupefacientes, psicotrópicos u otras sustancias tóxicas, será sancionado con arresto administrativo inconmutable hasta por treinta y seis horas, independientemente de la multa a que se haga merecedor por las demás infracciones que se cometan.
+Quien conduzca en estado de ebriedad será sancionado de acuerdo a lo siguiente:
+
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2006)</small>
+
+I.- Tratándose de la primera vez se le aplicarán (sic) la multa correspondiente de acuerdo a la clasificación de las infracciones cometidas.
+
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2006)</small>
+
+II.- En caso de reincidencia será sancionado con arresto administrativo inconmutable hasta por treinta y seis horas, independientemente de las multas a que se haga merecedor por las demás infracciones que se cometan.
+
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2006)</small>
+
+III.- Tratándose de conductores del transporte público, bastará únicamente que las pruebas determinen que muestra aliento alcohólico para que se le aplique arresto administrativo inconmutable hasta por 36 horas.
 
 Las demás infracciones a la presente Ley, serán sancionadas de acuerdo con la falta cometida, con multa de uno a veinte días de salario mínimo general vigente en el Estado.
 
@@ -2593,6 +2631,16 @@ a) Todo tipo de vehículo:
 
 2. Cometer una infracción a la presente Ley o causar un accidente, conduciendo cualquier tipo de vehículo en estado de ebriedad, bajo la influencia de estupefacientes, psicotrópicos u otras substancias tóxicas.
 
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2006)</small>
+
+3.- Conducir cualquier tipo de vehículo cuando se encuentre suspendida o cancelada la licencia de conducir.
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2006)</small>
+
+b).- Vehículos de transporte público de pasajeros y de carga:
+
+1.- Conducir con aliento alcohólico bajo la influencia de estupefacientes, psicotrópicos u otras sustancias tóxicas.
+
 ###### ARTICULO 158.
 
 (DEROGADO, P.O. 29 DE SEPTIEMBRE DE 2003)
@@ -2802,3 +2850,13 @@ El presente Decreto entrara en vigencia al día siguiente de su publicación en 
 ###### ARTICULO SEGUNDO.
 
 Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuaran su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
+
+P.O. 17 DE ABRIL DE 2006.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigencia a los noventa días siguientes de su publicación en el Periódico Oficial del Estado De Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Las autoridades competentes, previamente a la aplicación de los operativos de prevención de conducción de vehículos, en estado de ebriedad, deberán difundirlos a la población.
