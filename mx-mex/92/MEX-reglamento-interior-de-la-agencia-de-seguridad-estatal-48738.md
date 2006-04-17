@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-agencia-de-seguridad-estatal-48738"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-02-01"
-last_updated: "2006-02-01"
+last_updated: "2006-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA AGENCIA DE SEGURIDAD ESTATAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE ABRIL DE 2006.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 1 de febrero de 2006.
 
@@ -495,9 +495,13 @@ VIII. Las demás que les señalen otras disposiciones legales y administrativas 
 
 Los Titulares de las Unidades Administrativas podrán expedir copias certificadas de constancias o registros que obren en su poder, para el ejercicio de derechos o el cumplimiento de obligaciones, previstos por la ley.
 
+> <small>(REFORMADO, G.G. 17 DE ABRIL DE 2006)</small>
+
 ###### Artículo 20.
 
-El Comisionado de la Agencia de Seguridad Estatal será suplido en sus ausencias temporales de hasta 15 días, por el Director General de Inteligencia e Investigación para la Prevención o por servidor público que éste designe. En las mayores de 15 días, por el servidor público que designe el Secretario.
+El Comisionado de la Agencia de Seguridad Estatal será suplido en sus ausencias temporales de hasta 15 días, por el Director General de Inteligencia e Investigación para la Prevención o por el servidor público que designe el propio Comisionado. En las mayores de 15 días, por el servidor público que designe el Secretario General de Gobierno.
+
+La ausencia temporal o definitiva de Directores Generales, Directores y Subdirectores de la Agencia de Seguridad Estatal será suplida por el servidor público que designe el Comisionado y, en su ausencia, por el Director General de Inteligencia e Investigación para la Prevención.
 
 T R A N S I T O R I O S
 
@@ -528,3 +532,11 @@ EL COMISIONADO DE LA AGENCIA DE SEGURIDAD ESTATAL
 VICEALMIRANTE WILFRIDO ROBLEDO MADRID
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+G.G. 17 DE ABRIL DE 2006.
+
+PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
