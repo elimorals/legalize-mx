@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-registro-civil-del-distrito-federal-25421"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-07-30"
-last_updated: "2004-03-11"
+last_updated: "2006-04-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25421&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-28"
 
 REGLAMENTO DEL REGISTRO CIVIL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE MARZO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE ABRIL DE 2006.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 30 de julio de 2002.
 
@@ -1284,7 +1284,9 @@ Lo anterior, siempre y cuando la muerte no sea violenta o (sic) ocurrida en la v
 
 Artículo 95 bis. Para autorizar la inscripción de una acta de defunción expedida en el extranjero, se requiere:
 
-I. Copia certificada del acta de Defunción a inscribir apostillada o legalizada; si está asentada en idioma distinto al castellano, deberá acompañarse su correspondiente traducción realizada por perito traductor autorizado por el Tribunal Superior de Justicia del Distrito Federal. En caso de que no exista perito traductor autorizado por el referido Tribunal, se estará a lo dispuesto en la Ley Orgánica de dicho órgano jurisdiccional;
+> <small>(REFORMADA, G.O. 19 DE ABRIL DE 2006)</small>
+
+I. Copia certificada el acta de Defunción a inscribir apostillada o legalizada por el funcionario que autorice la Ley del Servicio Exterior Mexicano; si está asentada en idioma distinto al castellano, deberá acompañarse su correspondiente traducción certificada por la oficina consular de México en el extranjero o bien, traducción realizada por perito traductor autorizado por el Tribunal Superior de Justicia del Distrito Federal. En caso de que no exista perito traductor autorizado por el referido tribunal, se estará a lo dispuesto en la Ley Orgánica de dicho órgano jurisdiccional;
 
 II. Autorización para el traslado del cadáver expedida por autoridad competente del lugar donde se levantó el acta a inscribir;
 
@@ -1571,3 +1573,7 @@ Tercero.- La expedición de los extractos a que se refiere este Reglamento queda
 Cuarto.- En tanto se realizan los cambios a las Formas del Registro Civil para adecuarse al contenido del presente decreto, continuarán utilizándose las existentes en el Registro Civil, debiéndose testar los espacios que ya no deban utilizarse en virtud de lo dispuesto por este decreto, sin que esto afecte la validez del hecho o acto registral.
 
 Quinto.- En los casos de reconocimientos realizados con anterioridad a la entrada en vigor del Decreto por el que se reforman, adicionan y derogan diversas disposiciones del Código Civil para el Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal del día 13 de enero de 2004 y que estén pendientes de inscripción en el Registro Civil, los interesados podrán acogerse al beneficio que les otorga el texto del artículo 78 del Código Civil reformado en dicho decreto y solicitar la expedición de una nueva acta de nacimiento.
+
+G.O. 19 DE ABRIL DE 2006.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
