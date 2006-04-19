@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-comite-para-la-planeacion-del-24327"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-03-06"
-last_updated: "2002-03-06"
+last_updated: "2006-04-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DEL COMITE PARA LA PLANEACION DEL DESARROLLO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 6 de marzo de 2002.
 
@@ -69,7 +69,9 @@ II. Un Coordinador General, que será el Secretario de Hacienda del Gobierno del
 
 III. Un Secretario Técnico, que será el titular de la Delegación Estatal de la Secretaría de Desarrollo Social;
 
-IV. Un Coordinador Operativo, que será el Director General de Planeación y Desarrollo de la Secretaría de Hacienda;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2006)</small>
+
+IV. Un Coordinador Operativo, que será el Subsecretario de Planeación y Desarrollo de la Secretaría de Finanzas y Planeación;
 
 V. Los titulares de las dependencias del Ejecutivo Estatal que señale el Gobernador del Estado;
 
@@ -247,9 +249,17 @@ VI. Verificar que los planes y programas que se generan en el Sistema Estatal de
 
 VII. Organizar las reuniones plenarias del COPLADE;
 
-VIII. Dar seguimiento y evaluar los resultados de los acuerdos del COPLADE, y
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2006)</small>
 
-IX. Las demás que le confieran las disposiciones legales aplicables.
+VIII. Suscribir anexos técnicos y de ejecución que deriven de los programas de desarrollo social;
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2006)</small>
+
+IX. Dar seguimiento y evaluar los resultados de los acuerdos del COPLADE, y
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2006)</small>
+
+X. Las demás que le confieran las disposiciones legales aplicables.
 
 ###### Artículo 10.
 
@@ -607,7 +617,7 @@ i) Asuntos Generales, y
 
 j) Clausura de la reunión;
 
-I (sic). De cada acta de las sesiones se formará un apéndice, que se integrará con todos los documentos que se relacionan con ella, dicho apéndice deberá también estar foliado en orden progresivo, indicando la sesión a que corresponda, y
+I (sic). De cada acta de las sesiones se formará un apéndice, que se integrará con todos los documentos que se relacionan con ella, dicho apéndice deberá también estar foliado en orden progresivo, indicando la sesión a Que corresponda, y
 
 XIV (sic). El Coordinador del Subcomité deberá llevar un registro que contenga la síntesis de todos los acuerdos emanados en las sesiones respectivas, insertando la fecha, lugar y hora de la sesión, el tema o asunto tratado y el acuerdo que autorizó el Subcomité.
 
@@ -785,7 +795,7 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MORELOS.
 
 LIC. SERGIO ALBERTO ESTRADA CAJIGAL RAMÍREZ.
 
-EL SECRETARIO DE GOBIERNO.
+El SECRETARIO DE GOBIERNO.
 
 EDUARDO BECERRA PÉREZ.
 
@@ -794,3 +804,9 @@ LA SECRETARIA DE HACIENDA.
 LIC. CLAUDIA MARISCAL VEGA.
 
 RÚBRICAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 19 DE ABRIL DE 2006.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
