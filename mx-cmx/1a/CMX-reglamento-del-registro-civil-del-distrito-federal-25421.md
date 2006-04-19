@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-registro-civil-del-distrito-federal-25421"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-07-30"
-last_updated: "2004-03-11"
+last_updated: "2006-04-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25421&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,159 +20,27 @@ issue_date: "2002-07-28"
 ---
 # REGLAMENTO DEL REGISTRO CIVIL DEL DISTRITO FEDERAL
 
-LEY DE DEUDA PÚBLICA PARA EL ESTADO DE MORELOS
+REGLAMENTO DEL REGISTRO CIVIL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2016.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE ABRIL DE 2006.
 
-Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 16 de julio de 2008.
+Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 30 de julio de 2002.
 
-Al margen izquierdo un Escudo del Estado de Morelos que dice: "Tierra y Libertad".- La Tierra volverá a quienes la trabajan con sus manos. Poder Legislativo.- L Legislatura.- 2006-2009.
+(Al margen superior izquierdo un escudo que dice: CIUDAD DE MÉXICO.- JEFE DE GOBIERNO DEL DISTRITO FEDERAL)
 
-DR. MARCO ANTONIO ADAME CASTILLO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED:
+ANDRÉS MANUEL LÓPEZ OBRADOR, Jefe de Gobierno del Distrito Federal, con fundamento en los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 8°, fracción II, 67, fracción II y 90 del Estatuto de Gobierno del Distrito Federal; 5°,12, 14, 15 fracciones I, VII y XVI, 23, 29 y 35 de la Ley Orgánica de la Administración Pública del Distrito Federal y las disposiciones del Libro Primero, "De las personas", Título Cuarto "Del Registro Civil", del Código Civil para el Distrito Federal, he tenido a bien expedir el siguiente:
 
-Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo siguiente:
+REGLAMENTO DEL REGISTRO CIVIL DEL DISTRITO FEDERAL
 
-LA QUINCUAGÉSIMA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE LE OTORGA EL ARTÍCULO 40, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA LOCAL, Y, CON LOS SIGUIENTES:
-
-I. Antecedentes de la Iniciativa
-
-...
-
-Por lo anteriormente expuesto esta Soberanía ha tenido a bien expedir la siguiente:
-
-LEY DE DEUDA PÚBLICA PARA EL ESTADO DE MORELOS
-
-### Capítulo Primero. De las Disposiciones Generales
-
-###### Artículo 1.
-
-La presente Ley es de orden público y tiene por objeto establecer las bases a que deberán sujetarse el Estado de Morelos, los Municipios, los organismos descentralizados estatales o municipales, las empresas de participación estatal o municipal mayoritaria y los fideicomisos públicos estatales o municipales, que formen parte de la administración pública paraestatal o paramunicipal, para contraer obligaciones o celebrar empréstitos o créditos que deriven del crédito público y que en términos de lo previsto por esta ley, constituyan deuda pública, así como regular lo relativo a su presupuestación, administración, garantías, mecanismos de pago, registro y control.
-
-###### Artículo 2.
-
-La deuda pública se constituye por las obligaciones de pasivo, directas o contingentes, que resulten de operaciones de crédito público a cargo de las siguientes entidades:
-
-I.- El Estado;
-
-II.- Los Municipios;
-
-III.- Los organismos descentralizados estatales o municipales;
-
-IV.- Las empresas de participación estatal o municipal mayoritaria;
-
-V.- Los fideicomisos públicos Estatales o Municipales que formen parte de la administración pública paraestatal o paramunicipal, en los que el fideicomitente sea alguna de las entidades señaladas en las fracciones anteriores.
-
-###### Artículo 3.
-
-Para los efectos de la presente ley se entiende por:
-
-I.- Entidades: Las señaladas en el Artículo 2 de esta Ley;
-
-II.- Entidades de la Administración Pública Paraestatal: Los organismos descentralizados estatales, gocen o no de autonomía, las empresas de participación estatal mayoritaria y los fideicomisos públicos estatales que formen parte de la misma;
-
-III.- Entidades de la Administración Pública Paramunicipal: Los organismos descentralizados municipales, las empresas de participación municipal mayoritaria y los fideicomisos públicos municipales que formen parte de la misma;
-
-IV.- Crédito Público: La aptitud jurídica, política, económica y moral de las entidades para, basadas en la confianza de que gozan por su administración, patrimonio e historial crediticio, endeudarse con el objeto de obtener ingresos destinados a realizar inversiones públicas productivas;
-
-V.- Deuda Pública: Las obligaciones de pasivo, directas o contingentes, que resulten de operaciones de endeudamiento sobre el crédito público de las entidades;
-
-VI.- Deuda Pública Directa del Estado: La que contraiga el Estado como responsable directo;
-
-VII.- Deuda Pública Indirecta del Estado: La que contraigan las entidades de la administración pública paraestatal;
-
-VIII.- Deuda Contingente del Estado: La que derive de operaciones de endeudamiento en las cuales el Estado funja como garante, avalista, deudor solidario, subsidiario o sustituto de los Municipios, de las entidades de la administración pública paraestatal o paramunicipal;
-
-IX.- Deuda Pública Estatal o Deuda Pública del Estado: La que contraiga el Estado, por conducto del Poder Ejecutivo, como responsable directo o como garante, avalista, deudor solidario, subsidiario o sustituto de los Municipios, de las entidades de la administración pública paraestatal o paramunicipal;
-
-X.- Deuda Pública Directa de los Municipios: La que contraigan los Municipios como responsables directos;
-
-XI.- Deuda Pública Indirecta de los Municipios: La que contraigan las entidades de la administración pública paramunicipal;
-
-XII.- Deuda Contingente de los Municipios: La que derive de operaciones de endeudamiento en las cuales los Municipios funjan como garantes, avalistas, deudores solidarios, subsidiarios o sustitutos de las entidades de la administración pública paramunicipal a su cargo;
-
-XIII.- Deuda Pública Municipal: La que contraigan los Municipios, por conducto de sus ayuntamientos, como responsables directos o como garantes, avalistas, deudores solidarios, subsidiarios o sustitutos de las entidades de la administración pública paramunicipal a su cargo;
-
-XIV.- Deuda Pública de las Entidades de la Administración Pública Paraestatal: La que contraigan las entidades de la administración pública paraestatal como responsables directas;
-
-XV.- Deuda Pública de las Entidades de la Administración Pública Paramunicipal: La que contraigan las entidades de la administración pública paramunicipal como responsables directas;
-
-XVI.- Empréstitos: Las operaciones de endeudamiento que resulten del crédito público que celebren el Estado o los Municipios;
-
-XVII.- Créditos: Las operaciones de endeudamiento que resulten del crédito público que celebren las entidades señaladas en las fracciones III, IV y V del Artículo 2 de esta Ley;
-
-XVIII.- Financiamientos: Las operaciones de endeudamiento referidas en las fracciones XVI y XVII anteriores, consideradas desde el punto de vista del ingreso que generan a las entidades, mismas que pueden derivar de:
-
-a).- La contratación de préstamos;
-
-b).- La suscripción o emisión de valores, títulos de crédito o de cualquier otro documento pagadero a plazos;
-
-c).- Operaciones de refinanciamiento y reestructuración de empréstitos o créditos;
-
-d).- Contratos de colaboración público privada, mismos que no constituirán deuda pública en los casos en que así lo disponga expresamente la ley de la materia;
-
-e).- La adquisición de bienes o contratación de obras, adquisiciones, servicios, o cualesquier otro acto jurídico cuyo pago se pacte a plazos;
-
-f).- Pasivos contingentes relacionados con los actos mencionados en las fracciones anteriores; y
-
-g).- En general, de operaciones financieras, bajo cualquier modalidad, que comprendan obligaciones a plazo, así como obligaciones de exigibilidad contingente, derivadas de actos jurídicos, independientemente de la forma en que se les documente, contraídas a través o a cargo de las entidades;
-
-XIX.- Valores: Son los bonos, obligaciones, certificados y demás títulos de crédito, nominados o innominados, representativos de la parte alícuota de un bien o de la participación en un crédito colectivo o de cualquier derecho de crédito individual, susceptibles de circular en el mercado de valores, que emitan, en serie o en masa, en términos de la legislación aplicable, las entidades señaladas en el Artículo 2 de esta Ley.
-
-XX.- Servicio de la Deuda Pública: Son los importes de dinero que se destinen a la amortización de capital y al pago de intereses, comisiones y demás accesorios legales y contractuales derivados de las operaciones de financiamiento, incluyendo los fondos de reserva y de provisión, los gastos de implementación y mantenimiento y demás costos que correspondan según la forma de financiamiento de que se trate. Asimismo, se consideran parte del servicio de la deuda pública, para efectos de esta Ley, los relativos a las operaciones financieras de cobertura que tiendan a evitar o reducir riesgos económico financieros a las entidades derivados de créditos o empréstitos constitutivos de deuda pública, celebrados con base en la misma y el pago de comisiones por garantías de terceros;
-
-XXI.- Inversiones Públicas Productivas: Las destinadas a la ejecución de obras públicas, a la adquisición o manufactura de bienes, a la prestación de servicios públicos, al mejoramiento de las condiciones, estructura o perfil de la deuda pública vigente o de la que se pretenda contraer o a cualquier otra finalidad de interés público o social, siempre que en forma directa o indirecta, inmediata o mediata, generen un incremento en los ingresos de las entidades;
-
-XXII.- Montos y Conceptos de Endeudamiento Autorizado: Son los montos y conceptos derivados de operaciones de endeudamiento, directo o contingente, autorizados en las partidas respectivas de la Ley de Ingresos del Estado y de las Leyes de Ingresos de los Municipios, según corresponda;
-
-XXIII.- Operaciones de Refinanciamiento: Son los empréstitos o créditos que se celebren por las entidades, bajo cualquier modalidad, a efecto de mejorar las condiciones de tasa de interés, plazo, perfil de amortización, garantías u otras condiciones originalmente pactadas de uno o varios financiamientos a su cargo, substituyendo o novando las obligaciones del financiamiento original, por uno o varios nuevos financiamientos con el mismo o con diferente acreedor;
-
-XXIV.- Operaciones de Reestructuración: Son los empréstitos o créditos que celebren las entidades, a efecto de mejorar las condiciones de tasa de interés, plazo, perfil de amortización, garantías u otras condiciones originalmente pactadas de uno o varios financiamientos a su cargo, con el mismo acreedor, que no impliquen novación;
-
-XXV.- Congreso o Congreso del Estado: El Congreso del Estado de Morelos;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-XXVI.- Secretaría: La Secretaría de Hacienda del Estado de Morelos;
-
-XXVII.- Órganos de Gobierno: Los consejos, juntas directivas, comités técnicos o equivalentes, de las entidades de la administración pública paraestatal y paramunicipal; y
-
-XXVIII.- Registro: El Registro de Obligaciones y Empréstitos del Estado de Morelos.
-
-> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2016)</small>
-
-XXIX.- Gasto corriente: Erogación que no tiene como contrapartida la creación de un activo, sino que constituye un acto de consumo y se utiliza para el pago de remuneraciones, sueldos o salarios, seguridad social de los trabajadores, la compra de insumos, bienes y servicios, prestación de subsidios y transferencias, servicios de la deuda, deuda, así como pago de laudos laborales.
-
-###### Artículo 4.
-
-Los recursos obtenidos por las entidades mediante operaciones de deuda pública, únicamente podrán ser destinados a inversiones públicas productivas.
-
-La aplicación de los recursos derivados de operaciones de deuda pública, podrá ser realizada en forma directa por la entidad que en cada caso hubiere contraído el endeudamiento de que se trate o previa autorización del Congreso, en forma indirecta, a través de fondos o fideicomisos públicos constituidos al efecto, de los que la entidad que corresponda forme parte en virtud de sus atribuciones u objeto.
-
-###### Artículo 5.
-
-Queda prohibido a las entidades contraer obligaciones de pasivo, que constituyan deuda pública, para financiar gasto corriente.
-
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2016)</small>
-
-En ningún caso y bajo ninguna circunstancia el monto de la deuda podrá destinarse para gasto corriente; en caso de que se utilice para gasto corriente, el funcionario público pagara de su propio peculio el monto erogado por este concepto.
-
-###### Artículo 6.
-
-Las entidades no podrán, en ningún caso, contraer directa o indirectamente obligaciones, créditos o empréstitos con gobiernos de otras naciones, con sociedades o particulares extranjeros o cuando deban pagarse en moneda extranjera o fuera del territorio nacional.
-
-Las obligaciones de pago que contraigan las entidades al amparo de esta Ley, podrán denominarse en la unidad de cuenta, llamada Unidad de Inversión o “UDI”, cuyo valor en pesos para cada día publica periódicamente el Banco de México en el Diario Oficial de la Federación. Dichas obligaciones se considerarán de monto determinado.
-
-###### Artículo 7.
-
-Los actos realizados en contravención a las disposiciones previstas en la presente Ley, serán nulos de pleno derecho. Lo anterior, sin perjuicio de las responsabilidades en que incurran quienes los lleven a cabo.
-
-El desvío de los recursos a un destino distinto al aprobado por el Congreso y establecido en los actos jurídicos que documenten los financiamientos, será considerado como incumplimiento de los mismos y no acarreará su nulidad.
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 1º.
 
 Las disposiciones del presente ordenamiento son de orden público e interés social y tienen por objeto regular la organización, funciones y procedimientos del Registro Civil del Distrito Federal, a cargo de la Administración Pública del Distrito Federal.
 
-El Registro Civil es la Institución que tiene como finalidad conocer, autorizar, inscribir, resguardar y dar constancia de los hechos y actos del estado civil de las personas, que dispone el Código Civil para el Distrito Federal, con legalidad, honradez, lealtad, imparcialidad y eficiencia, por conducto de los Jueces del Registro Civil, debidamente autorizados para dichos fines.
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
+
+El Registro Civil es la Institución de buena fe, cuya función pública es conocer, autorizar, inscribir, resguardar y dar constancia de los hechos y actos del estado civil de las personas, que dispone el Código Civil para el Distrito Federal, con legalidad, honradez, lealtad, imparcialidad y eficiencia, por conducto de los Jueces del Registro Civil, debidamente autorizados para dichos fines.
 
 ###### Artículo 2º.
 
@@ -182,7 +50,9 @@ I. Acta: Forma debidamente autorizada por el Juez y firmada por quienes en ella 
 
 II. Archivo Judicial: al Archivo Judicial del Tribunal Superior de Justicia del Distrito Federal;
 
-III. Certificado de Nacimiento: al Certificado de Nacimiento para el Distrito Federal;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+III. Certificado de Nacimiento: el documento suscrito por médico autorizado para el ejercicio de su profesión o persona legalmente autorizada que haya asistido el parto, en el formato expedido por la Secretaría de Salud del Distrito Federal, en el que se hacen constar las circunstancias del nacimiento;
 
 IV. Código Civil: al Código Civil para el Distrito Federal;
 
@@ -192,15 +62,21 @@ VI. Delegación: a los Órganos Político-Administrativos de cada demarcación t
 
 VII. Dirección: a la Dirección General del Registro Civil del Distrito Federal;
 
-VIII. Formas: a las Formas donde se asientan los hechos y actos del estado civil;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+VIII. Formas: a las Formas del Registro Civil, impresas en papel seguridad, en las que se asientan los hechos y actos del estado civil y aquellas en las que se expiden las certificaciones de éstos;
 
 IX. Juez: al Juez del Registro Civil;
 
 X. Juzgado: a los Juzgados del Registro Civil del Distrito Federal;
 
-XI. Módulos Registrales: a los Módulos de Registro encargados de autorizar las Actas de Nacimiento y Defunción;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
 
-XII. Oficina Central: a la Oficina Central del Registro Civil del Distrito Federal;
+XI. Módulo Registral: oficina dependiente de un Juzgado del Registro Civil, en la que se realizan registros de nacimiento y defunción;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+XII. Oficina Central: a la sede de la Dirección General del Registro Civil del Distrito Federal;
 
 XIII. Registro Civil: al Registro Civil del Distrito Federal;
 
@@ -208,13 +84,31 @@ XIV. Reglamento: al presente Reglamento del Registro Civil del Distrito Federal;
 
 XV. Secretario: al Secretario de Juzgado del Registro Civil; y
 
-XVI. Titular: al Director General del Registro Civil del Distrito Federal.
+XVI. Titular: al Director General del Registro Civil del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2004)</small>
+
+XVII. Copia Certificada de reciente expedición: A la certificación expedida, con antigüedad no mayor de un año a la fecha de su presentación, para realizar el trámite de que se trate;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2004)</small>
+
+XVIII. Extractos: constancias parciales de las actas registrales, con plena validez jurídica respecto de la información que contengan.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 3º.
 
-Los hechos que se declaren y actos que se realicen ante el Registro Civil, en las oficinas de la propia Institución, se efectuarán en días y horas hábiles. Son horas hábiles, las que medien desde las ocho hasta las quince horas. Son días hábiles todos los del año excepto los sábados, domingos y días festivos.
+Los hechos que se declaren y actos que se realicen ante el Registro Civil, en las oficinas de la propia Institución, se efectuarán en días y horas hábiles. Son horas hábiles, las que medien desde las ocho hasta las quince horas. Son días hábiles todos los del año, excepto los sábados, domingos y días festivos, así como aquellos en que las oficinas del Registro Civil suspendan sus labores por causas de fuerza mayor.
 
 Tratándose de nacimientos, reconocimientos y matrimonios, podrán celebrarse fuera de las oficinas del Registro Civil, cuando así sea requerido en términos de lo dispuesto por las disposiciones jurídicas aplicables. Por lo que hace a defunciones, éstas únicamente podrán ser tramitadas en las instalaciones del Registro Civil de conformidad con el presente Reglamento.
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2004)</small>
+
+Tratándose del levantamiento de actas de defunción y nacimiento, en los módulos y juzgados que cuenten con guardias para tal efecto, serán hábiles todos los días del año, con horario de atención de las ocho a las veinte horas.
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2004)</small>
+
+El Titular podrá habilitar días y horas para el desempeño de las funciones del Registro Civil, cuando las circunstancias lo ameriten.
 
 ###### Artículo 4º.
 
@@ -228,887 +122,1363 @@ El Registro Civil tiene a su cargo, por conducto de los Jueces, el desempeño de
 
 Los hechos y actos registrales que se efectúen respecto del estado civil de las personas ante el Registro Civil, causarán los derechos que establezca el Código Financiero del Distrito Federal. Queda prohibido cobrar cualquier tipo de emolumento o pago que no esté previsto expresamente.
 
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
+
 ###### Artículo 7º.
 
-Los pagos por concepto de derechos deberán efectuarse por el interesado a través de los formatos de pago de la Tesorería del Distrito Federal; por ningún motivo se harán a través de los empleados del Registro Civil. Toda infracción a lo dispuesto en el presente artículo, así como en el anterior, dará lugar a iniciar los procedimientos de responsabilidad que procedan conforme a lo establecido en las Leyes aplicables.
+Los pagos por concepto de derechos deben efectuarse por el interesado a través de los formatos de pago expedidos por la Tesorería del Distrito Federal, en los lugares designados previamente por la Secretaría de Finanzas del Distrito Federal; por ningún motivo se harán a través de los empleados del Registro Civil que no estén autorizados para ello.
 
-###### Artículo 8.
+Toda infracción a lo dispuesto en el presente artículo, así como en el anterior, dará lugar a iniciar los procedimientos de responsabilidad que procedan conforme a las Leyes aplicables.
 
-El desvío de los recursos procedentes de financiamientos constitutivos de deuda pública, será responsabilidad de los servidores públicos que incurran en ella, ya sea que ordenen o ejecuten los actos que resulten en el desvío correspondiente. Dicho desvío, se sancionará de conformidad con las leyes aplicables.
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+###### Artículo 8°.
 
-### Capítulo Segundo. De las Facultades y Obligaciones de los Órganos en Materia de Deuda Pública
+Los servidores públicos adscritos al Registro Civil están impedidos para patrocinar o asesorar, por sí o por interpósita persona, juicios respecto del estado civil.
 
-###### Artículo 9.
+### CAPÍTULO II. DE LA ORGANIZACIÓN Y ATRIBUCIONES DEL REGISTRO CIVIL
 
-No constituirán deuda pública, las obligaciones directas a corto plazo que se contraigan por las entidades, cuando se cumplan los siguientes requisitos:
+###### Artículo 9°.
 
-I.- Se trate de créditos o empréstitos quirografarios;
-
-II.- Se contraten a un plazo menor o igual a un año;
-
-III.- Estos créditos o empréstitos queden totalmente pagados a más tardar tres meses antes de que concluya el periodo de gobierno de la administración correspondiente; y
-
-IV.- El saldo total acumulado de estos créditos o empréstitos no exceda el 5% (cinco por ciento) de los ingresos ordinarios del ejercicio fiscal correspondiente.
-
-Las obligaciones a que se refiere el presente artículo, quedarán sujetas a los requisitos de información previstos en esta Ley.
-
-Las entidades no podrán contratar créditos o empréstitos en los términos establecidos en el presente artículo durante los últimos tres meses de su administración.
+El Registro Civil contará con los Juzgados necesarios en el Distrito Federal, de acuerdo a la situación sociodemográfica de cada Delegación para el debido cumplimiento de sus funciones, de conformidad al contenido de los ordenamientos jurídicos correspondientes.
 
 ###### Artículo 10.
 
-La Secretaría es la dependencia del Poder Ejecutivo del Estado, encargada de interpretar esta ley para efectos administrativos y de expedir las disposiciones necesarias para su debida observancia. En el ámbito municipal, estas atribuciones corresponderán a la Tesorería Municipal.
+Corresponde al Jefe de Gobierno del Distrito Federal:
 
-Los titulares de las entidades a que se refiere el Artículo 2 de esta Ley, serán responsables del estricto cumplimiento de la misma, así como de las disposiciones que con base en ésta se emitan. Las infracciones a la presente Ley y a sus disposiciones administrativas se sancionarán en los términos que legalmente correspondan y de conformidad con el régimen de responsabilidades de los servidores públicos.
+I. Nombrar y remover libremente al Titular;
+
+II. Nombrar y remover libremente a los Jueces;
+
+III. Autorizar el funcionamiento de nuevos Juzgados, la adscripción y reubicación de los mismos, así como el cierre temporal o definitivo de los ya existentes, tomando en cuenta las necesidades del servicio registral; y
+
+IV. Proponer la celebración de Convenios de Coordinación en materia registral, con las autoridades Federales, Estatales y Municipales.
 
 ###### Artículo 11.
 
-Son órganos en materia de deuda pública dentro del ámbito de sus respectivas competencias:
+Corresponde al titular de la Consejería Jurídica y de Servicios Legales:
 
-I.- El Congreso del Estado de Morelos;
+I. Emitir los criterios normativos para el buen funcionamiento del Registro Civil, conforme a las disposiciones jurídicas aplicables;
 
-II.- El Poder Ejecutivo del Estado;
+II. Coordinar las funciones del Registro Civil, promoviendo planes, programas y métodos que contribuyan a la mejor aplicación y empleo de los elementos jurídicos, técnicos y humanos, para el eficaz funcionamiento del mismo;
 
-III.- La Secretaría;
+III. Gestionar ante las Delegaciones los recursos humanos y materiales necesarios en los Juzgados para la prestación óptima del servicio registral, a efecto de que aquéllas proporcionen a éstos los requerimientos que sean formulados;
 
-IV.- Los Ayuntamientos; y
+IV. Coordinar y supervisar, por conducto de la Dirección, el funcionamiento de los Juzgados y Módulos Registrales;
 
-V.- Los Órganos de Gobierno de las entidades a que aluden las fracciones III, IV y V del Artículo 2 de esta Ley.
+V. Celebrar convenios con las Instituciones públicas del Sector Salud, para la apertura de Módulos Registrales en las instalaciones de éstas, así como el cierre temporal o definitivo de los mismos;
+
+VI. Proponer al Jefe de Gobierno la adscripción territorial de los Juzgados a las Delegaciones; y
+
+VII. Expedir los Manuales del Registro Civil de conformidad con las disposiciones jurídicas aplicables.
 
 ###### Artículo 12.
 
-Son atribuciones del Congreso del Estado de Morelos:
+Corresponde al Titular:
 
-I.- Analizar y en su caso, autorizar anualmente en la Ley de Ingresos del Estado y en las Leyes de Ingresos Municipales, los montos y conceptos de endeudamiento, directo y contingente, que sean necesarios para el financiamiento de las entidades durante el ejercicio fiscal correspondiente, en términos de lo dispuesto por el Artículo 117, fracción VIII, de la Constitución Política de los Estados Unidos Mexicanos;
+I. Dirigir, organizar, coordinar, inspeccionar y supervisar, el debido cumplimiento de las funciones a cargo del Registro Civil;
 
-II.- Analizar y en su caso, autorizar, previa solicitud debidamente justificada del Poder Ejecutivo del Estado, de los ayuntamientos o de las entidades de la administración pública paraestatal y paramunicipal, el ejercicio de montos y conceptos de endeudamiento no previstos o adicionales a los autorizados en la Ley de Ingresos del Estado y en las Leyes de Ingresos Municipales, que sean necesarios para su financiamiento, cuando a juicio del propio Congreso se presenten circunstancias extraordinarias que así lo requieran;
+II. Ser depositario de los libros que contienen las actas, documentos y apuntes que se relacionen con los asientos registrales, así como aquellos medios que los contengan y que el avance tecnológico pudiera ofrecer;
 
-III.- Autorizar a las entidades para contratar créditos o empréstitos con base en su crédito público;
+III. Verificar el debido cumplimiento de las diversas disposiciones jurídicas aplicables al Registro Civil;
 
-IV.- Autorizar a las entidades la emisión y colocación de valores, en los términos de esta Ley;
+IV. Implementar e instrumentar cursos de capacitación al personal, tendientes a mejorar el funcionamiento de la Institución;
 
-V.- Autorizar a las entidades, en los supuestos previstos por esta Ley, la celebración de operaciones de refinanciamiento y reestructuración de deuda pública;
+V. Administrar el archivo del Registro Civil, así como tener actualizados los índices y catálogos de las actas del estado civil de las personas, procurando su incorporación a aquellos medios que los contengan y que el avance tecnológico pudiera ofrecer;
 
-VI.- Solicitar a las entidades la documentación e información complementaria que requiera para el análisis de las solicitudes de autorización de endeudamiento;
+VI. Recibir y revisar los tantos de las Formas que contengan las actas que remitan los Jueces y ordenar su encuadernación;
 
-VII.- Autorizar al Poder Ejecutivo para que, en representación del Estado, se constituya en garante, avalista, deudor solidario, subsidiario o sustituto de las entidades señaladas en las fracciones II, III, IV y V del Artículo 2 de esta Ley;
+VII. Ordenar, y en su caso, autorizar la reposición de las actas del estado civil de las personas que se deterioren, destruyan, mutilen o extravíen;
 
-VIII.- Autorizar a los ayuntamientos para que, en representación de los Municipios, se constituyan en garantes, avalistas, deudores solidarios, subsidiarios o sustitutos, de las entidades de la administración pública paramunicipal;
+VIII. Dar cumplimiento a las resoluciones judiciales que reciba, ya sea directamente o remitiéndolas al Juez correspondiente, para que sean debidamente cumplimentadas;
 
-IX.- Autorizar al Estado y a los Municipios a afectar como fuente o garantía de pago, o ambas, de los financiamientos que celebren directamente, así como de aquellos en los que funjan como garantes, avalistas, deudores solidarios, subsidiarios o sustitutos, los bienes del dominio privado de su propiedad o sus derechos al cobro e ingresos derivados de contribuciones, cobranza de cuotas, cooperaciones, derechos, productos, aprovechamientos, participaciones federales o cualesquier otros ingresos de los que puedan disponer de conformidad con la legislación aplicable;
+IX. Autorizar la inscripción de las anotaciones que modifiquen, rectifiquen, aclaren, complementen, revoquen o anulen el contenido de las actas del estado civil de las personas, procurando su incorporación a aquellos medios que las contengan y que el avance tecnológico pudiera ofrecer;
 
-X.- Autorizar al Estado y a los Municipios a afectar como fuente o garantía de pago, o ambas, de financiamientos que celebren directamente, las aportaciones federales que en términos de la legislación federal sean susceptibles de afectación;
+X. Distribuir a los Juzgados las Formas en que deban constar las actas del Registro Civil, así como el papel seguridad para la expedición de copias certificadas;
 
-XI.- Autorizar a las entidades de la administración pública paraestatal y paramunicipal a afectar como fuente o garantía de pago, o ambas, de los financiamientos que celebren, los bienes de su propiedad o sus derechos al cobro e ingresos derivados de la cobranza de cuotas, derechos, productos o cualesquier otros ingresos de los que puedan disponer de conformidad con la legislación aplicable;
+XI. Nombrar y remover libremente a los supervisores de los Juzgados;
 
-XII.- Autorizar la celebración de los mecanismos legales que, bajo cualquier modalidad o forma, se propongan implementar las entidades, a efecto de garantizar o realizar el pago de financiamientos;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
 
-XIII.- Autorizar, en los casos en que así se requiera, de acuerdo con lo previsto en esta Ley, la celebración de operaciones financieras de cobertura que tiendan a evitar o reducir riesgos económico financieros, derivados de créditos o empréstitos obtenidos por las entidades con base en esta Ley;
+XII. Rotar a los Jueces de adscripción, atendiendo a las necesidades del servicio;
 
-XIV.- Vigilar que los recursos obtenidos de las operaciones a que se refiere esta Ley sean destinados a las inversiones públicas productivas autorizadas;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
 
-XV.- Vigilar que se incluyan anualmente, dentro del Presupuesto de Egresos del Estado y autorizar, la o las partidas presupuestales necesarias y suficientes para cubrir el pago del servicio de la deuda pública directa del Estado, correspondiente al ejercicio fiscal de que se trate;
+XIII. Rotar a los Secretarios de adscripción, atendiendo a las necesidades del servicio;
 
-XVI.- Solicitar de las entidades los informes necesarios, para verificar que las operaciones de endeudamiento sean realizadas conforme a las disposiciones legales aplicables y a las autorizaciones respectivas, formulando, en su caso, las observaciones que de ello se deriven, sin perjuicio de las responsabilidades a que hubiere lugar;
+XIV. Autorizar a los Jueces por escrito, en su caso, el registro de nacimiento, reconocimiento o la celebración de matrimonio fuera de su competencia territorial, siempre y cuando se cumpla con las disposiciones jurídicas aplicables;
 
-XVII.- Autorizar al Estado, los Municipios y las entidades de la administración pública paraestatal y paramunicipal para contratar, bajo cualquier forma legal, el otorgamiento de garantías de terceros, totales o parciales, a efecto de mejorar la calidad crediticia de los financiamientos que celebren de manera directa; y
+XV. Instruir a los Jueces, para llevar a cabo el registro de nacimientos, reconocimientos o la celebración de matrimonios, en días y horas inhábiles, dentro o fuera de la jurisdicción a la que se encuentren adscritos, conforme a las disposiciones jurídicas aplicables;
 
-XVIII.- Las demás que, en materia de deuda pública, le confieran la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Morelos, esta Ley u otras disposiciones legales.
+XVI. Coordinar y supervisar el cumplimiento de las guardias que realicen los Juzgados y Módulos Registrales, relativos a los trámites de Actas de Defunción los sábados, domingos y días festivos con un horario de ocho a veinte horas;
+
+XVII. Recibir las opiniones y sugerencias del público sobre la prestación del servicio del Registro Civil;
+
+XVIII. Conocer de las quejas sobre faltas u omisiones cometidas por los servidores públicos adscritos al Registro Civil, haciéndolo de conocimiento de la autoridad competente;
+
+XIX. Autorizar, en su caso, las ausencias o suplencias temporales que soliciten los Jueces. Para cubrir dichas inasistencias, la Dirección contará con el número de Jueces con carácter de interinos, atendiendo en todo momento a su disponibilidad presupuestal;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+XX. Sancionar las faltas u omisiones de los Jueces y demás servidores públicos del Registro Civil, de conformidad con la normativa aplicable;
+
+XXI. Promover campañas tendientes a regularizar los diversos hechos y actos del estado civil, así como difundir el servicio del Registro Civil entre los habitantes del Distrito Federal; y
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+XXII. Emitir lineamientos y criterios operativos para el buen funcionamiento del Registro Civil, conforme a las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2004)</small>
+
+XXIII. Delegar sus atribuciones de Juez Central, en el Juez del Registro Civil que al efecto autorice, y
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2004)</small>
+
+XXIV. Las demás que establezca el presente Reglamento y otros ordenamientos jurídicos aplicables.
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2004)</small>
+
+Artículo 12 bis. El Titular podrá representar al Registro Civil en los juicios y procedimientos relativos al Estado Civil en los que sea parte, sin perjuicio de las facultades de representación que otorga el Reglamento Interior de la Administración Pública del Distrito Federal al Director General de Servicios Legales.
+
+El Titular podrá delegar mediante oficio, en servidores públicos del registro civil, la facultad de representación a que se refiere la fracción que antecede, así como revocar dichas delegaciones en los casos que estime procedente.
 
 ###### Artículo 13.
 
-Al Poder Ejecutivo del Estado le compete:
+Son atribuciones del Titular, en su carácter de Juez Central:
 
-I.- Presentar anualmente al Congreso la iniciativa de Ley de Ingresos del Estado, proponiendo en su caso, los montos y conceptos de endeudamiento, directo y contingente, que sean necesarios para el financiamiento del Estado y de las entidades de la administración pública paraestatal en el ejercicio fiscal correspondiente, en términos de lo dispuesto por el Artículo 117, fracción VIII, de la Constitución Política de los Estados Unidos Mexicanos;
+I. Fungir como Juez Central dotado de competencia territorial en todo el Distrito Federal;
 
-II.- Solicitar al Congreso la reforma o adición de la Ley de Ingresos del Estado, para incluir montos y conceptos de endeudamiento no previstos o adicionales a los autorizados, que sean necesarios para el financiamiento del Estado y en su caso, de las entidades de la administración pública paraestatal a su cargo cuando considere que existen circunstancias extraordinarias que así lo justifiquen;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
 
-III.- Presentar y gestionar ante el Congreso las solicitudes de autorización de endeudamiento en términos de lo previsto por esta Ley;
+II. Autorizar con firma autógrafa las actas del estado civil de los mexicanos y extranjeros en el Distrito Federal;
 
-IV.- Contratar, previa autorización del Congreso, empréstitos en representación del Estado;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
 
-V.- Negociar, aprobar, celebrar y suscribir, en el ámbito de su competencia, los actos jurídicos, títulos de crédito y demás instrumentos legales necesarios, directa o indirectamente, para la obtención, manejo, operación y gestión de los financiamientos a cargo del Estado, autorizados conforme a lo previsto en esta Ley;
+III. Autorizar por escrito, por sí o por conducto de los jueces que para tal efecto autorice, la inhumación o cremación de los cadáveres que sean internados en el Distrito Federal, así como la inscripción respectiva de conformidad con las Leyes aplicables;
 
-VI.- Emitir, previa autorización del Congreso, valores en representación del Estado y colocarlos entre el gran público inversionista, en los términos de esta Ley y de la legislación aplicable;
+IV. Autorizar la inscripción de los actos del estado civil que realicen en el extranjero los mexicanos residentes en los perímetros de las demarcaciones territoriales del Distrito Federal;
 
-VII.- Celebrar, previa autorización, en su caso, del Congreso, operaciones de refinanciamiento y reestructuración de la deuda pública a cargo del Estado;
+V. Autorizar la inscripción de las resoluciones judiciales incidentales, provisionales o definitivas relativas a la separación de cuerpos; a la pérdida de patria potestad o tutela; otorgamiento, cesación, incremento o disminución de alimentos; celebración de convenios que regulen régimen de visitas; y, las que determinen los órganos jurisdiccionales competentes en materia del estado civil;
 
-VIII.- Constituir al Estado, previa autorización del Congreso y sujeto a lo establecido en esta Ley, en garante, avalista, deudor solidario, subsidiario o sustituto de las entidades señaladas en el Artículo 2, fracciones II, III, IV y V de esta Ley;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
 
-IX.- Afectar, previa autorización del Congreso, como fuente o garantía de pago, o ambas, de los financiamientos que contrate directamente el Estado o de aquellos en los que funja como garante, avalista, deudor solidario, subsidiario o sustituto, los bienes del dominio privado de su propiedad o sus derechos al cobro e ingresos derivados de contribuciones, cobranza de cuotas, cooperaciones, derechos, productos, aprovechamientos, participaciones federales o cualesquier otros ingresos de los que pueda disponer de conformidad con la legislación aplicable y realizar en su caso, los pagos que correspondan mediante dichas garantías o fuentes de pago;
+VI. Autorizar la inscripción de las resoluciones judiciales que declaren la ausencia, la presunción de muerte, el divorcio judicial, la tutela o que se ha perdido la capacidad legal para administrar bienes, así como la inscripción de anotaciones derivadas de instrumentos notariales o cualquier otra resolución que anule, revoque o modifique el estado civil, siempre y cuando se cumplan las formalidades exigidas por los ordenamientos jurídicos aplicables;
 
-X.- Afectar, previa autorización del Congreso, como fuente o garantía de pago, o ambas, de financiamientos que celebre directamente el Estado, las aportaciones federales que en términos de la legislación federal sean susceptibles de afectación;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
 
-XI.- Negociar, previa autorización del Congreso, los términos y condiciones, así como celebrar los actos jurídicos que formalicen los mecanismos legales de garantía o pago de los financiamientos que celebre directamente el Estado o de aquellos en los que funja como garante, avalista, deudor solidario, subsidiario o sustituto;
+VII. Expedir las copias certificadas de las actas del estado civil de las personas que lo soliciten, o constancias parciales que contengan extractos de las actas registrales.
 
-XII.- Realizar, en su caso, a través de los mecanismos legales a que se refiere la fracción XI anterior, el pago de obligaciones y empréstitos contraídos por el Estado;
+Las copias o extractos podrán certificarse por medio de firma autógrafa o electrónica conforme al procedimiento que establezca el Titular de acuerdo a los avances tecnológicos;
 
-XIII.- Realizar, previa instrucción de los ayuntamientos, pagos por cuenta y orden de los Municipios, con cargo a las participaciones u otros ingresos federales que les correspondan;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
 
-XIV.- Solicitar a las entidades la documentación e información complementaria que requiera, para el análisis de las solicitudes de autorización de endeudamiento, cuando se solicite al Estado fungir como garante, avalista, deudor solidario, subsidiario o sustituto;
+VIII. Efectuar las anotaciones que establece el Código Civil, y remitirlas a los archivos correspondientes, de conformidad con las disposiciones jurídicas aplicables;
 
-XV.- Celebrar, de acuerdo a lo previsto en esta Ley, operaciones financieras de cobertura que tiendan a evitar o reducir riesgos económico financieros derivados de créditos o empréstitos obtenidos por el Estado con base en esta Ley;
+IX. Cuidar que las Formas en que se asienten los actos del estado civil, no lleven raspaduras, enmendaduras o tachaduras, procediendo en estos casos a testarlas y a levantar inmediatamente otra acta con el número consecutivo correspondiente;
 
-XVI.- Destinar los recursos obtenidos con motivo de las operaciones a que se refiere esta Ley, de acuerdo con lo autorizado por el Congreso;
+X. Remitir, en términos de las disposiciones jurídicas aplicables, la información que en materia registral del estado civil requieran las Instituciones correspondientes;
 
-XVII.- Incluir anualmente dentro de la iniciativa de Presupuesto de Egresos del Estado, la o las partidas presupuestales necesarias y suficientes para cubrir, en su totalidad, el pago del servicio de la deuda pública a cargo del Estado, correspondiente al ejercicio fiscal de que se trate;
+XI. Responder las peticiones que se le formulen, inherentes a sus funciones y atribuciones;
 
-XVIII.- Vigilar que se incluyan anualmente dentro de los presupuestos de egresos de las entidades de la administración pública paraestatal, la o las partidas presupuestales necesarias y suficientes para cubrir, en su totalidad, el pago del servicio de la deuda pública a cargo de las mismas correspondiente al ejercicio fiscal de que se trate;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
 
-XIX.- Realizar oportunamente los pagos del servicio de la deuda pública directa del Estado y vigilar que se hagan oportunamente los pagos del servicio de la deuda pública contingente e indirecta del Estado;
+XII. Expedir copias certificadas de las constancias que obren en los expedientes del archivo del Registro Civil, excepto de los documentos de carácter jurisdiccional, de los cuales únicamente podrá expedirse copia certificada por mandamiento de juez competente;
 
-XX.- Aprobar, previamente a la autorización por el Congreso, los montos y conceptos de endeudamiento, directo y contingente, que sean necesarios para el financiamiento de las entidades de la administración pública paraestatal, cuya inclusión en la Ley de Ingresos del Estado soliciten dichas entidades y en su oportunidad, la celebración de las operaciones de endeudamiento que se propongan contraer dichas entidades;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
 
-XXI.- Informar trimestralmente al Congreso, sobre el ejercicio de las partidas correspondientes a los montos y conceptos de endeudamiento autorizado y con relación a la situación de la deuda pública estatal, al rendir la cuenta pública;
+XIII. Expedir las constancias de inexistencia de registros de nacimiento, matrimonio o defunción;
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+XIV. Autorizar con firma autógrafa el cierre de los libros que se hayan integrado en el año inmediato anterior, relativos a los actos del estado civil pasados ante él;
 
-XXII.- Proporcionar al Congreso, por conducto de la Auditoría Superior de Fiscalización, la información que éste le requiera de acuerdo con la Ley, en relación con las operaciones de deuda pública que celebre;
+XV. Resolver administrativamente las aclaraciones de actas del estado civil de las personas que le sean solicitadas, de conformidad a lo establecido en el Código Civil, así como por lo dispuesto en el presente Reglamento; y
 
-XXIII.- Contratar a instituciones calificadoras de valores debidamente autorizadas en México, a efecto de que emitan la calificación sobre la calidad crediticia del Estado y las calificaciones sobre la calidad crediticia de los financiamientos bancarios, bursátiles o de cualquier otra naturaleza, que en su caso, se proponga implementar el Estado y para que realicen la revisión periódica de las calificaciones respectivas;
-
-XXIV.- Solicitar la inscripción de los financiamientos que contrate, cuando los mismos se contraigan con afectación de sus participaciones o aportaciones federales, en el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios, que al efecto lleva la Secretaría de Hacienda y Crédito Público e informar a dicha dependencia, sobre la situación que guarden sus obligaciones inscritas en el citado registro, de acuerdo a lo previsto en la normatividad aplicable;
-
-XXV.- Llevar el Registro de Obligaciones y Empréstitos del Estado de Morelos, de acuerdo a lo previsto en esta Ley;
-
-XXVI.- Inscribir los financiamientos que celebre en el Registro de Obligaciones y Empréstitos del Estado de Morelos, así como mantener actualizada la información sobre la situación que guarden sus obligaciones inscritas y cancelar en su oportunidad, las inscripciones correspondientes;
-
-XXVII.- Expedir a través del Registro de Obligaciones y Empréstitos del Estado de Morelos, las certificaciones que correspondan, con relación a las obligaciones que se encuentren inscritas en dicho registro;
-
-XXVIII.- Publicar, a más tardar treinta días después de concluido cada semestre calendario, en un diario de circulación local y en un diario de circulación nacional, la información fiscal y financiera que el Estado considere relevante, incluyendo el saldo actualizado de la deuda pública estatal;
-
-XXIX.- Publicar anualmente, en el Periódico Oficial del Estado de Morelos, la información relativa a los registros de la deuda pública estatal, que consten en el Registro de Obligaciones y Empréstitos del Estado de Morelos;
-
-XXX.- Asesorar a las entidades señaladas en las fracciones II, III, IV y V del Artículo 2 de esta Ley, en la formulación de sus proyectos financieros y en todo lo relativo a las operaciones que pretendan realizar en materia de deuda pública;
-
-XXXI.- Contratar en representación del Estado, bajo cualquier forma legal, previa autorización del Congreso emitida mediante ley o decreto, el otorgamiento de garantías de terceros, totales o parciales, a efecto de mejorar la calidad crediticia de los financiamientos que de manera directa celebre el Estado; y
-
-XXXII.- Las demás que, en materia de deuda pública, le confieran la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Morelos, esta Ley u otras disposiciones legales.
+XVI. Las demás que le confieran las Leyes que correspondan, así como el presente ordenamiento.
 
 ###### Artículo 14.
 
-Los derechos y obligaciones a que se refieren las fracciones IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX, XXX y XXXI del Artículo 13 de esta Ley, podrán ser ejercidos y cumplidas respectivamente, por conducto de la Secretaría.
+Para ser Titular de la Dirección General del Registro Civil se requiere:
+
+I. Ser mexicano por nacimiento, en pleno goce y ejercicio de sus derechos civiles y políticos;
+
+II. Ser originario o vecino del Distrito Federal, con residencia efectiva de seis meses anteriores al día de su designación;
+
+III. No haber sido condenado por sentencia irrevocable como responsable de un delito doloso o culposo calificado como grave por la Ley, ni estar sujeto a proceso penal;
+
+IV. Ser licenciado en Derecho, con cédula profesional expedida por autoridad competente, y tener por lo menos, hasta el día de la designación, cinco años de práctica profesional; y
+
+V. No ser ministro de algún culto religioso.
 
 ###### Artículo 15.
 
-Los Ayuntamientos tendrán las facultades y obligaciones siguientes:
+Para actuar fuera de su competencia territorial, los Jueces requerirán presentar por escrito al Titular, solicitud de autorización para desempeñar sus funciones en perímetro distinto al que se encuentren adscritos, siempre y cuando éste se ubique en el Distrito Federal.
 
-I.- Presentar anualmente al Congreso las iniciativas de Leyes de Ingresos Municipales, proponiendo en su caso, los montos y conceptos de endeudamiento, directo y contingente, que sean necesarios para el financiamiento del Municipio respectivo y de las entidades de la administración pública paramunicipal a su cargo, en el ejercicio fiscal correspondiente, en términos de lo dispuesto por el Artículo 117, fracción VIII, de la Constitución Política de los Estados Unidos Mexicanos;
+Para los casos de autorización de registro a domicilio de nacimiento, reconocimiento o de celebración de matrimonio, se deberá especificar en la solicitud la fecha de ésta; la clase de hecho o acto; el o los nombres de los interesados; y, el día, hora y ubicación específica del lugar en donde tendrá verificativo el mismo.
 
-II.- Solicitar al Congreso la reforma o adición de las Leyes de Ingresos Municipales, para incluir montos y conceptos de endeudamiento no previstos o adicionales a los autorizados, que sean necesarios para el financiamiento de los Municipios y en su caso, de las entidades de la administración pública paramunicipal a su cargo, cuando se considere que existen circunstancias extraordinarias que así lo justifiquen;
+A la solicitud se adjuntará copia certificada del o los recibos oficiales que acrediten fehacientemente el o los pagos efectuados a la Tesorería del Distrito Federal.
 
-III.- Presentar y gestionar ante el Congreso las solicitudes de autorización de endeudamiento en términos de lo previsto por esta Ley;
+Dicha solicitud de autorización deberá ser tramitada en un término de tres días hábiles previos a la autorización y registro o celebración del evento.
 
-IV.- Contratar, previa autorización del Congreso del Estado, empréstitos en representación de los Municipios;
+La autorización para actuar fuera de competencia territorial se entenderá por no concedida cuando no se encuentre depositada en las oficinas de la Oficina Central en el término establecido, o bien, cuando la solicitud no satisfaga alguno de los requisitos anteriormente señalados, salvo autorización extraordinaria que por escrito realice el Titular.
 
-V.- Negociar, aprobar, celebrar y suscribir, en el ámbito de su competencia, los actos jurídicos, títulos de crédito y demás instrumentos legales necesarios, directa o indirectamente, para la obtención, manejo, operación y gestión de los financiamientos a cargo de los Municipios, autorizados conforme a lo previsto en esta Ley;
+Para la autorización de registro de nacimiento a domicilio, cuando se imposibilite la presentación de la persona a registrar en algún Juzgado por causa debidamente justificada, se eximirá la presentación de la solicitud y aprobación de la prórroga de competencia territorial, debiendo en todo caso rendir informe por escrito al Titular.
 
-VI.- Emitir, previa autorización del Congreso, valores en representación de los Municipios y colocarlos entre el gran público inversionista, en los términos de esta Ley y de la legislación aplicable;
-
-VII.- Celebrar, previa autorización, en su caso, del Congreso del Estado, operaciones de refinanciamiento y reestructuración de la deuda pública a cargo de los Municipios;
-
-VIII.- Constituir a los Municipios, previa autorización del Congreso y sujeto a lo establecido en esta Ley, en garantes, avalistas, deudores solidarios, subsidiarios o sustitutos de las entidades de la administración pública paramunicipal;
-
-IX.- Solicitar, en su caso, al Estado que se constituya en garante, avalista, deudor solidario, subsidiario o sustituto de los Municipios con relación a financiamientos que se propongan celebrar de acuerdo a lo estipulado en esta Ley;
-
-X.- Afectar, previa autorización del Congreso, como fuente o garantía de pago, o ambas, de los financiamientos que celebren directamente los Municipios o de aquellos en los que funjan como garantes, avalistas, deudores solidarios, subsidiarios o sustitutos, los bienes del dominio privado de su propiedad o sus derechos al cobro e ingresos derivados de contribuciones, cobranza de cuotas, cooperaciones, derechos, productos, aprovechamientos, participaciones federales o cualesquier otros ingresos de los que puedan disponer de conformidad con la legislación aplicable y realizar, en su caso, los pagos que correspondan mediante dichas garantías o fuentes de pago;
-
-XI.- Afectar, previa autorización del Congreso, como fuente o garantía de pago, o ambas, de financiamientos que celebre directamente el Municipio, las aportaciones federales que en términos de la legislación federal sean susceptibles de afectación;
-
-XII.- Negociar, previa autorización del Congreso, los términos y condiciones y celebrar los actos jurídicos que formalicen los mecanismos legales de garantía o pago de los financiamientos que celebren directamente los Municipios o de aquellos en los que funjan como garantes, avalistas, deudores solidarios, subsidiarios o sustitutos;
-
-XIII.- Realizar, en su caso, a través de los mecanismos legales a que se refiere la fracción XII anterior, el pago de obligaciones y empréstitos contraídos por los Municipios;
-
-XIV.- Instruir al Poder Ejecutivo del Estado para que realice pagos por cuenta y orden de los Municipios con cargo a las participaciones u otros ingresos federales que les correspondan;
-
-XV.- Solicitar a las entidades de la administración pública paramunicipal la documentación e información complementaria que requiera para el análisis de las solicitudes de autorización de endeudamiento cuando se les solicite fungir como garantes, avalistas, deudores solidarios, subsidiarios o sustitutos;
-
-XVI.- Celebrar, de acuerdo con lo previsto en esta Ley, operaciones financieras de cobertura que tiendan a evitar o reducir riesgos económico financieros derivados de créditos o empréstitos obtenidos por los Municipios con base en esta Ley;
-
-XVII.- Destinar los recursos obtenidos con motivo de las operaciones a que se refiere esta Ley, de acuerdo con lo autorizado por el Congreso;
-
-XVIII.- Incluir anualmente en los presupuestos de egresos municipales, la o las partidas presupuestales necesarias y suficientes para cubrir, en su totalidad, el pago del servicio de la deuda pública a cargo de los Municipios, correspondiente al ejercicio fiscal de que se trate;
-
-XIX.- Vigilar que se incluyan anualmente dentro de los presupuestos de egresos de las entidades de la administración pública paramunicipal, la o las partidas presupuestales necesarias y suficientes para cubrir, en su totalidad, el pago del servicio de la deuda pública a cargo de las mismas, correspondiente al ejercicio fiscal de que se trate;
-
-XX.- Realizar oportunamente los pagos del servicio de la deuda pública directa del Municipio y vigilar que se hagan oportunamente los pagos de la deuda pública contingente e indirecta del Municipio;
-
-XXI.- Aprobar, previamente a su autorización por el Congreso, los montos y conceptos de endeudamiento, directo y contingente, que sean necesarios para el financiamiento de las entidades de la administración pública paramunicipal, cuya inclusión en la Ley de Ingresos del Municipio soliciten dichas entidades y en su oportunidad, la celebración de las operaciones de endeudamiento que se propongan contraer dichas entidades;
-
-XXII.- Informar al Congreso sobre el ejercicio de las partidas correspondientes a los montos y conceptos de endeudamiento autorizado y con relación a la situación de su deuda pública, al rendir la cuenta pública municipal en los plazos establecidos por el Artículo 32 de la Constitución Política del Estado;
-
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2008)</small>
-
-XXIII.- Proporcionar al Congreso, por conducto de la Auditoría Superior de Fiscalización y al Poder Ejecutivo por conducto de la Secretaría, cuando el Estado funja corno garante, avalista, deudor solidario, subsidiario o sustituto, la información que éstos le requieran en relación con las operaciones de deuda pública que celebren;
-
-XXIV.- Contratar, en caso de que a juicio del ayuntamiento, así convenga a los intereses del Municipio de que se trate, a instituciones calificadoras de valores debidamente autorizadas en México, a efecto de que emitan la calificación sobre la calidad crediticia del Municipio y las calificaciones sobre la calidad crediticia de los financiamientos bancarios, bursátiles o de cualquier otra naturaleza que, en su caso, se proponga implementar el Municipio y para que realicen la revisión periódica de las calificaciones respectivas;
-
-XXV.- Solicitar la inscripción de los financiamientos que celebren, cuando los mismos se contraigan con afectación de sus participaciones o aportaciones federales, en el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios que al efecto lleva la Secretaría de Hacienda y Crédito Público e informar a dicha dependencia sobre la situación que guarden sus obligaciones inscritas en el citado registro, de acuerdo a lo previsto en la normatividad aplicable;
-
-XXVI.- Inscribir los financiamientos que celebren en el Registro de Obligaciones y Empréstitos del Estado de Morelos; informar a dicha dependencia sobre la situación que guarden sus obligaciones inscritas en el registro de acuerdo a lo previsto en esta Ley y notificar, en su caso, el pago de las obligaciones inscritas para efectos de la cancelación de las inscripciones correspondientes;
-
-XXVII.- Solicitar al Registro de Obligaciones y Empréstitos del Estado de Morelos, la expedición de las certificaciones correspondientes con relación a las obligaciones a cargo de los Municipios que se encuentren inscritas en dicho registro;
-
-XXVIII.- Llevar un Registro Municipal de Obligaciones y Empréstitos e inscribir en el mismo las operaciones de endeudamiento correspondientes a la deuda pública municipal, mantener actualizada la información sobre la situación que guarden las obligaciones inscritas y cancelar en su oportunidad, las inscripciones correspondientes;
-
-XXIX.- Publicar, a más tardar treinta días después de concluido cada semestre calendario, en un diario de circulación local y en un diario de circulación nacional, la información fiscal y financiera que el Municipio considere relevante, incluyendo el saldo actualizado de la deuda pública municipal;
-
-XXX.- Contratar en representación de los Municipios, bajo cualquier forma legal, previa autorización del Congreso emitida mediante Ley o Decreto, el otorgamiento de garantías de terceros, totales o parciales, a efecto de mejorar la calidad crediticia de los financiamientos que de manera directa obtengan; y
-
-XXXI.- Las demás que, en materia de deuda pública, les confieran la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Morelos, esta Ley u otras disposiciones legales.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 16.
 
-Los actos de los ayuntamientos a que se refieren las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIV, XVI, XXI, XXIV y XXX del Artículo 15 de esta Ley deberán ser autorizados, previamente a su sometimiento para la aprobación del Congreso, mediante el acuerdo de la mayoría de sus miembros.
+Corresponde a los Jueces, desempeñar las funciones públicas del Registro Civil a que se refiere el artículo 35 del Código Civil para el Distrito Federal, así como realizar funciones de dirección, organización, coordinación e inspección en el Juzgado a su cargo, como consecuencia del ejercicio de sus atribuciones legales, que de manera permanente y general le confieren la representatividad e implican poder de decisión en el ejercicio del mando y dentro del perímetro de la Delegación en la cual se encuentre adscrito.
 
-En el caso de que los actos de los ayuntamientos a que se refieren las fracciones III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIV, XVI, XXI, XXIV y XXX del Artículo 15 de esta ley impliquen obligaciones por virtud de las cuales se afecte el patrimonio inmobiliario municipal o comprometan al Municipio por un plazo mayor al período para el que fue electo el ayuntamiento, dichos actos deberán ser autorizados, previamente a su sometimiento para la aprobación del Congreso, mediante el acuerdo de las dos terceras partes de sus miembros.
+Específicamente cuentan con las atribuciones siguientes:
+
+I. Autorizar con firma autógrafa las actas del estado civil de los mexicanos y extranjeros residentes en el Distrito Federal;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+II. Proporcionar información al público en general, respecto de los actos del estado civil, cuando así se solicite;
+
+III. Coordinar y supervisar las funciones del personal a su cargo, de conformidad con la normatividad aplicable;
+
+IV. Autorizar la inscripción de las resoluciones judiciales incidentales, provisionales o definitivas relativas a la separación de cuerpos; a la pérdida de patria potestad o tutela; otorgamiento, cesación, incremento o disminución de alimentos; celebración de convenios que regulen régimen de visitas; y, las que determinen los órganos jurisdiccionales competentes en materia del estado civil;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+V. Autorizar la inscripción de las resoluciones jurisdiccionales que declaren la ausencia, la presunción de muerte, el divorcio judicial, la tutela o que se ha perdido la capacidad legal para administrar bienes, así como la inscripción de anotaciones derivadas de instrumentos notariales o cualquier otra resolución que anule, revoque o modifique el estado civil, siempre y cuando se cumplan las formalidades exigidas por los ordenamientos jurídicos aplicables;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+VI. Expedir copias certificadas de las actas del estado civil, o constancias parciales que contengan extractos de las actas regístrales, en un término máximo de tres días hábiles. Asimismo, expedir copias de los apuntes y los documentos relacionados con las actas del registro civil debidamente compulsados, excepto de los documentos de carácter jurisdiccional, de los cuales únicamente podrá expedirse copia certificada por mandamiento judicial:
+
+La emisión de copias certificadas o extractos de registros que obren en juzgados diferentes a aquel en que se emitan, será responsabilidad exclusiva del juez certificante.
+
+Las copias podrán certificarse por medio de firma autógrafa o electrónica conforme al procedimiento que establezca el Titular de acuerdo a los avances tecnológicos;
+
+VII. Expedir las constancias de inexistencia relativas a registro de nacimiento, registro de matrimonio, así como de extemporaneidad;
+
+VIII. Custodiar los sellos oficiales del Juzgado;
+
+IX. Resguardar y disponer del papel seguridad en el que se expiden las copias certificadas de las actas del estado civil de las personas;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+X. Efectuar las anotaciones que establece el Código Civil y remitirlas a los archivos respectivos, de conformidad con las normas jurídicas correspondientes;
+
+XI. Cuidar que las Formas en que se asientan los hechos y actos del estado civil no lleven raspaduras, enmendaduras o tachaduras, procediendo en estos casos a testarlas y levantar inmediatamente otra acta con el número consecutivo correspondiente;
+
+XII. Administrar el archivo del Juzgado a su cargo, así como tener actualizados los índices y catálogos de las actas del estado civil de las personas, procurando su incorporación a los sistemas que los contengan y que el avance tecnológico pudiera ofrecer;
+
+XIII. Remitir, en términos de la legislación aplicable, la información que en materia registral del estado civil requieran las Instituciones correspondientes, haciéndolo del conocimiento del Titular;
+
+XIV. Responder las peticiones que se le formulen inherentes a sus funciones y atribuciones;
+
+XV. Rendir al Titular, informe de actividades efectuadas en el Juzgado a su cargo, así como de los Módulos Registrales que estén bajo su adscripción, en los cinco primeros días hábiles de cada mes, enviando copia del mismo a las autoridades correspondientes;
+
+XVI. Remitir al Titular, en los cinco primeros días hábiles de cada mes, un informe por escrito de los folios que fueron testados;
+
+XVII. Remitir en el transcurso del primer mes del año, un ejemplar de las actas del estado civil de las personas del año inmediato anterior al archivo de la Dirección; otro al Archivo Judicial y el otro, con los documentos que le correspondan, quedará en el archivo del Juzgado en que se haya actuado;
+
+XVIII. Notificar con oportunidad al Titular, de sus faltas temporales o definitivas, a efecto de que se designe la suplencia correspondiente;
+
+XIX. Solicitar a la Delegación en que se encuentre adscrito, el requerimiento de recursos humanos y materiales para el buen funcionamiento del Juzgado, notificando por escrito al Titular;
+
+XX. Facilitar la práctica de las supervisiones que señala el presente ordenamiento;
+
+XXI. Coordinar y supervisar el cumplimiento de las guardias que realice el personal del Juzgado y Módulos Registrales de su adscripción, relativos a los trámites de Actas de Defunción los sábados, domingos y días festivos con un horario de ocho a veinte horas;
+
+XXII. Formular la denuncia respectiva ante la autoridad competente, cuando se presenten dudas fundadas sobre la autenticidad de algún documento del estado civil exhibido ante su Juzgado, debiendo en todo caso, notificar por escrito de dicha actuación al Titular;
+
+XXIII. Acordar con el Titular, respecto de los asuntos de su competencia;
+
+XXIV. Realizar jornadas jurídico-informativas del estado civil de las personas residentes en la Delegación en donde se encuentre adscrito el Juzgado a su cargo;
+
+XXV. Comunicar a la Secretaría de Gobernación los cambios que modifiquen el estado civil de los extranjeros dentro de los cinco días hábiles siguientes de los hechos que se declaren y actos que se realicen;
+
+XXVI. Desempeñar sus funciones dentro del perímetro territorial de la Delegación en la cual se encuentre adscrito el Juzgado a su cargo, siempre y cuando se encuentren debidamente acreditados los pagos de derechos correspondientes, cuando el hecho o acto sea a domicilio. En tal caso serán hábiles todos los días y horas; y
+
+XXVII. Las demás que les confiere el Reglamento y otras disposiciones jurídicas aplicables.
 
 ###### Artículo 17.
 
-Los derechos y obligaciones a que se refieren las fracciones IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX y XXX del Artículo 15 de esta Ley, podrán ser ejercidos por conducto del Presidente Municipal del Municipio que corresponda.
+Son atribuciones de los Secretarios:
+
+I. Desempeñar funciones de organización, coordinación e inspección de forma exclusiva y permanente como consecuencia del ejercicio de sus atribuciones legales, con relación al personal del Juzgado en que se encuentren adscritos;
+
+II. Ejecutar y hacer que se cumplan las órdenes e instrucciones encomendadas por el Juez, inherentes al funcionamiento del Juzgado;
+
+III. Reportar al Juez el número de formas para el registro del estado civil de las personas, así como llevar el control de las mismas y hacer su distribución entre los registradores;
+
+IV. Ordenar y organizar las formas que contengan las actas del estado civil de las personas para su remisión a la Oficina Central del Registro Civil con el fin de que sean debidamente encuadernadas;
+
+V. Auxiliar al Juez para que en el mes de enero de cada año, sean remitidas las Formas que contengan las actas del estado civil de las personas, a los archivos Judicial y de la Oficina Central del Registro Civil, para su debido resguardo;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+VI. Dar cuenta al Juez de la correspondencia que sea remitida al Juzgado para su debido despacho; así como revisar que los documentos presentados por los usuarios cumplan con las disposiciones legales para celebrar el acto o registrar el hecho que pretenden y dar cuenta al juez con los mismos, señalando en su caso, sus deficiencias;
+
+VII. Elaborar las estadísticas, informes y documentos relativos a los actos del estado civil de las personas que sean requeridos por las autoridades competentes;
+
+VIII. Informar al Juez de los permisos, licencias, vacaciones, faltas y ausencias del personal, para los efectos administrativos conducentes;
+
+IX. Elaborar el asentamiento de las anotaciones marginales administrativas o judiciales para la debida autorización del Juez;
+
+X. Ordenar y organizar el manejo de las Formas, libros, expedientes y demás apuntes y documentos que se encuentren en el Juzgado;
+
+XI. Inspeccionar que las Formas donde se asienten las actas del estado civil de las personas, no lleven raspaduras, enmendaduras o tachaduras, y en caso de que exista una de éstas, dará aviso al Juez para que se proceda en consecuencia; y
+
+XII. Las demás que les confiere el presente Reglamento y otras disposiciones jurídicas aplicables.
 
 ###### Artículo 18.
 
-Los Órganos de Gobierno de las entidades de la administración pública paraestatal y paramunicipal tendrán las siguientes facultades y obligaciones:
+Corresponde a las Delegaciones proveer a los Juzgados de su adscripción los recursos humanos y materiales para el óptimo desempeño de sus funciones.
 
-I.- Incluir anualmente en sus proyectos de presupuesto de ingresos, para efectos de su propuesta e inclusión en las iniciativas de Ley de Ingresos del Estado o en las iniciativas de Leyes de Ingresos de los Municipios, según corresponda, los montos y conceptos de endeudamiento, que sean necesarios para su financiamiento en el ejercicio fiscal correspondiente, en términos de lo dispuesto por el Artículo 117, fracción VIII, de la Constitución Política de los Estados Unidos Mexicanos;
-
-II.- Solicitar a la Secretaría o al ayuntamiento del cual dependan, la autorización e inclusión en la iniciativa de Ley de Ingresos del Estado o en las iniciativas de Leyes de Ingresos Municipales, de los montos y conceptos de endeudamiento considerados en sus respectivos presupuestos de ingresos en términos de la fracción I anterior;
-
-III.- Solicitar, en su caso, autorización al Congreso para ejercer montos y conceptos de endeudamiento no previstos o adicionales a los autorizados en la Ley de Ingresos del Estado o en las Leyes de Ingresos de los Municipios, según corresponda, que sean necesarios para el financiamiento de las entidades de la administración pública paraestatal y paramunicipal, cuando se considere que existen circunstancias extraordinarias que así lo justifiquen;
-
-IV.- Presentar y gestionar ante el Congreso, las solicitudes de autorización de endeudamiento en términos de lo previsto por esta Ley;
-
-V.- Contratar créditos, en representación de las entidades de la administración pública paraestatal y paramunicipal, según corresponda, previa autorización del Congreso;
-
-VI.- Negociar, aprobar, celebrar y suscribir en el ámbito de su competencia, los actos jurídicos, títulos de crédito y demás instrumentos legales necesarios, directa o indirectamente, para la obtención, manejo, operación y gestión de los financiamientos a cargo de las entidades de la administración pública paraestatal y paramunicipal, autorizados conforme a lo previsto en esta Ley;
-
-VII.- Emitir, previa autorización del Congreso, valores en representación de las entidades de la administración pública paraestatal y paramunicipal y colocarlos entre el gran público inversionista, en los términos de esta Ley;
-
-VIII.- Celebrar, previa autorización, en su caso, del Congreso, operaciones de refinanciamiento y reestructuración de la deuda pública a cargo de las entidades de la administración pública paraestatal o paramunicipal, según corresponda;
-
-IX.- Afectar, previa autorización del Congreso, como fuente o garantía de pago, o ambas, de los financiamientos que celebren las entidades de la administración pública paraestatal y paramunicipal, los bienes de su propiedad o sus derechos al cobro e ingresos derivados de la cobranza de cuotas, derechos, productos o cualesquier otros ingresos de los que puedan disponer de conformidad con la legislación aplicable;
-
-X.- Solicitar, en su caso, al Estado o a los Municipios de los cuales dependan, que se constituyan en sus garantes, avalistas, deudores solidarios, subsidiarios o sustitutos con relación a financiamientos que se propongan celebrar las entidades de la administración pública paraestatal y paramunicipal de acuerdo a lo estipulado en esta Ley;
-
-XI.- Celebrar, de acuerdo a lo previsto en esta Ley, operaciones financieras de cobertura que tiendan a evitar o reducir riesgos económico financieros derivados de créditos o empréstitos obtenidos por las entidades de la administración pública paraestatal y paramunicipal con base en esta Ley;
-
-XII.- Destinar los recursos obtenidos con motivo de las operaciones a que se refiere esta Ley de acuerdo con lo autorizado por el Congreso;
-
-XIII.- Incluir anualmente dentro de los presupuestos de egresos de las entidades de la administración pública paraestatal y paramunicipal, la o las partidas presupuestales necesarias y suficientes para cubrir en su totalidad, el pago del servicio de la deuda pública a su cargo correspondiente al ejercicio fiscal de que se trate;
-
-XIV.- Realizar oportunamente los pagos del servicio de la deuda pública a cargo de las entidades de la administración pública paraestatal y paramunicipal;
-
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2008)</small>
-
-XV.- Proporcionar al Congreso, por conducto de la Auditoría Superior de Fiscalización; al Poder Ejecutivo, por conducto de la Secretaría; y a los ayuntamientos, según corresponda, la información que éstos les requieran en relación con las operaciones de deuda pública que celebren las entidades de la administración pública paraestatal y paramunicipal;
-
-XVI.- Contratar, en caso de que a su juicio así convenga a los intereses de la entidad de que se trate, a instituciones calificadoras de valores debidamente autorizadas en México, a efecto de que emitan la calificación sobre la calidad crediticia de las entidades y la calificación sobre la calidad crediticia de los financiamientos bancarios, bursátiles o de cualquier otra naturaleza que en su caso, se propongan implementar las entidades de la administración pública paraestatal y paramunicipal y para que realicen la revisión periódica de las calificaciones respectivas;
-
-XVII.- Solicitar la inscripción de los financiamientos que celebren las entidades de la administración pública paraestatal y paramunicipal, cuando como fuente o garantía de pago de los mismos se hubieren afectado participaciones federales, en el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios que al efecto lleva la Secretaría de Hacienda y Crédito Público e informar a dicha dependencia sobre la situación que guarden sus obligaciones inscritas en el citado registro, de acuerdo a lo previsto en la normatividad aplicable;
-
-XVIII.- Inscribir los financiamientos que celebren las entidades de la administración pública paraestatal y paramunicipal en el Registro de Obligaciones y Empréstitos del Estado de Morelos, informar a dicha dependencia sobre la situación que guarden sus obligaciones inscritas en el registro de acuerdo a lo previsto en esta Ley y notificar en su caso, el pago de las obligaciones inscritas para efectos de la cancelación de la inscripción correspondiente;
-
-XIX.- Solicitar al Registro de Obligaciones y Empréstitos del Estado de Morelos, la expedición de las certificaciones correspondientes con relación a las obligaciones a cargo de las entidades de la administración pública paraestatal y paramunicipal, que se encuentren inscritas en dicho registro;
-
-XX.- Llevar un Registro de Obligaciones y Empréstitos de la entidad correspondiente e inscribir en el mismo las operaciones de endeudamiento correspondientes a la deuda pública a su cargo;
-
-XXI.- Publicar, a más tardar treinta días después de concluido cada semestre calendario, en un diario de circulación local y en un diario de circulación nacional, la información fiscal y financiera de la entidad de la administración pública paraestatal y paramunicipal respectiva, que dichos Órganos de Gobierno consideren relevante, incluyendo el saldo actualizado de la deuda pública paraestatal o paramunicipal, según corresponda;
-
-XXII.- Contratar en representación de las entidades de la administración pública paraestatal y paramunicipal, bajo cualquier forma legal, previa autorización del Congreso emitida mediante Ley o Decreto, el otorgamiento de garantías de terceros, totales o parciales, a efecto de mejorar la calidad crediticia de los financiamientos que de manera directa celebren dichas entidades; y
-
-XXIII.- Las demás que, en materia de deuda pública, se les confieran en esta Ley o en otras disposiciones legales.
-
-### Capítulo Tercero. De la Presupuestación de la Deuda Pública
+### CAPÍTULO III. DE LA PROFESIONALIZACIÓN DE LOS JUECES Y SECRETARIOS DEL REGISTRO CIVIL
 
 ###### Artículo 19.
 
-Los actos de los Órganos de Gobierno de las entidades de la administración pública paraestatal a que se refiere el Artículo 18, fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XVI y XXII deberán ser autorizados, mediante el acuerdo de la mayoría de sus miembros y por la Secretaría, previamente a su sometimiento para la aprobación del Congreso.
+Se crea el Consejo del Registro Civil del Distrito Federal, como cuerpo colegiado encargado de vigilar y evaluar la selección, profesionalización y capacitación de los Jueces y Secretarios del Registro Civil.
+
+El Consejo estará integrado por:
+
+I. El titular de la Consejería Jurídica y de Servicios Legales;
+
+II. El titular de la Dirección General de Servicios Legales;
+
+III. El titular de la Dirección General Jurídica y de Estudios Legislativos;
+
+IV. El Titular de la Dirección General del Registro Civil; y
+
+V. Un Juez del Registro Civil de reconocida experiencia y probidad, designado por el titular de la Consejería Jurídica y de Servicios Legales.
+
+Los miembros del Consejo citados en las fracciones I a III contarán con suplente designado por ellos mismos, los suplentes que en su caso se designen deberán ser servidores públicos de nivel inmediato inferior de aquél a quien suplan.
+
+El Consejo contará con un Secretario Técnico, que será un funcionario de la Dirección designado por el Titular, el cual asistirá a las sesiones con voz, pero sin voto.
 
 ###### Artículo 20.
 
-Los actos de los Órganos de Gobierno de las entidades de la administración pública paramunicipal a que se refiere el Artículo 18, fracciones II, III, IV, V, VI, VII, VIII, IX, X, XI, XVI y XXII deberán ser autorizados, mediante el acuerdo de la mayoría de sus miembros y por el ayuntamiento correspondiente, previamente a su sometimiento para la aprobación del Congreso.
+Le corresponderá al Consejo del Registro Civil, el diseño de normas internas de evaluación en materia de ingreso y profesionalización de los Jueces y Secretarios de los Juzgados.
 
-En el caso de que los actos de los Órganos de Gobierno de las entidades de la administración pública paramunicipal a que se refiere el Artículo 18, fracciones II, III, IV, V, VI, VII, VIII, IX, X, XI, XVI y XXII impliquen obligaciones por virtud de las cuales se afecte el patrimonio inmobiliario paramunicipal o comprometan a la entidad de la administración pública paramunicipal por un plazo mayor al período para el que fue electo el ayuntamiento del Municipio al que pertenezcan, dichos actos deberán ser autorizados, previamente a su sometimiento para la aprobación del Congreso, mediante el acuerdo de las dos terceras partes de los miembros del ayuntamiento correspondiente.
+El Consejo tendrá las siguientes atribuciones:
+
+I. Estructurar, organizar, aplicar y evaluar los exámenes y cursos propedéuticos destinados a los aspirantes convocados para ingresar a la Iinstitución (sic) como Jueces o Secretarios del Registro Civil, así como los cursos de actualización y profesionalización, al personal de los Juzgados y Supervisores;
+
+II. Evaluar el desempeño de las funciones de los Jueces, Secretarios y demás personal de los Juzgados, así como el aprovechamiento en los cursos de actualización y profesionalización que les sean impartidos; y
+
+III. Las demás que le señale el presente Reglamento.
 
 ###### Artículo 21.
 
-Las facultades y obligaciones establecidas en el Artículo 18, en favor o a cargo, de los órganos de gobierno de las entidades de la administración pública paraestatal y paramunicipal, serán ejercidas directamente por dichos órganos de gobierno o por sus respectivos titulares de acuerdo a lo que establezcan sus respectivos decretos constitutivos, estatutos, fideicomisos o cualesquier otra normatividad que los rija en cuanto a su estructura y facultades.
+El Consejo aprobará sus reglas de operación interna que contendrán las normas concernientes a la convocatoria, quórum, periodicidad y forma de celebrar sus sesiones; aprobación y seguimiento de sus acuerdos, suplencia de sus miembros y las demás necesarias para el adecuado ejercicio de sus atribuciones.
+
+El Consejo funcionará en pleno; las decisiones se tomarán por mayoría de votos.
+
+Las decisiones del Consejo, dentro del ámbito de sus atribuciones, serán definitivas e inapelables.
+
+Todos los integrantes del Consejo ejercerán sus funciones con objetividad e imparcialidad.
 
 ###### Artículo 22.
 
-Los montos y conceptos de endeudamiento, directo y contingente que en su caso, sean necesarios para el financiamiento del Estado, los Municipios y las entidades de la administración pública paraestatal y paramunicipal, deberán ser incluidos anualmente por el Poder Ejecutivo del Estado y por los ayuntamientos, en la iniciativa de Ley de Ingresos del Estado y en las iniciativas de Leyes de Ingresos de los Municipios, según corresponda.
+Cuando una o varias plazas de Juez o Secretario de Juzgado estuvieran vacantes, o se determinara crear una o más, el Consejo publicará la Convocatoria para que los aspirantes a Juez o Secretario presenten el examen correspondiente. Dicha convocatoria señalará los requisitos a cubrir, según el caso, el día, hora y lugar de celebración del examen y será publicada por una sola vez en la Gaceta Oficial del Distrito Federal, y por dos veces consecutivas, con intervalo de tres días, en dos de los periódicos de mayor circulación en el Distrito Federal, así como en los Juzgados.
 
-Los montos y conceptos de endeudamiento necesarios para el financiamiento de las entidades de la administración pública paraestatal y paramunicipal, deberán ser autorizados anualmente en sus proyectos de presupuestos de ingresos para efectos de su propuesta e inclusión en la iniciativa de Ley de Ingresos del Estado o en las iniciativas de Leyes de Ingresos de los Municipios, según corresponda.
-
-Dentro del plazo comprendido del primero al treinta de agosto de cada año, las entidades de la administración pública paraestatal y paramunicipal deberán solicitar a la Secretaría o al ayuntamiento respectivo, según corresponda, la autorización de los montos y conceptos de endeudamiento considerados en sus respectivos proyectos de presupuestos de ingresos y su inclusión en la iniciativa de Ley de Ingresos del Estado o en las iniciativas de Leyes de Ingresos Municipales, según sea pertinente.
+El examen de admisión al Registro Civil para ocupar vacantes de Juez o Secretario que se describa en la Convocatoria que al efecto se publique, se presentará ante el Consejo, ajustándose, en todo caso, a lo previsto en el artículo 98 del presente Reglamento.
 
 ###### Artículo 23.
 
-Los montos y conceptos de endeudamiento que sean necesarios para el financiamiento de las entidades a que hace referencia el Artículo anterior, serán autorizados por el Congreso, anualmente, en la Ley de Ingresos del Estado y en las Leyes de Ingresos de los Municipios, en su caso.
+Para ser Juez, se deben reunir los siguientes requisitos:
+
+I. Ser ciudadano mexicano por nacimiento y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+
+II. Ser vecino del Distrito Federal en términos del artículo 5º del Estatuto de Gobierno del Distrito Federal;
+
+III. No haber sido condenado por sentencia irrevocable como responsable de un delito doloso o culposo calificado como grave por la Ley, ni estar sujeto a proceso penal;
+
+IV. No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público en términos de las normas aplicables;
+
+V. Ser mayor de edad;
+
+VI. Contar con título y cédula profesional de licenciado en Derecho;
+
+VII. Tener, por lo menos, tres años de experiencia profesional como licenciado en Derecho;
+
+VIII. No ser ministro de algún culto religioso; y
+
+IX. Aprobar los exámenes y el curso propedéutico a que se refiere el Reglamento.
 
 ###### Artículo 24.
 
-La autorización de montos y conceptos de endeudamiento en las partidas correspondientes de la Ley de Ingresos del Estado y en las Leyes de Ingresos de los Municipios, no autoriza al Poder Ejecutivo del Estado, a los ayuntamientos, ni a las entidades de la administración pública paraestatal o paramunicipal, para la contratación de los créditos o empréstitos cuyos montos y conceptos se encuentren amparados bajo tales partidas, sino que, para que éstos puedan obtener dichos financiamientos deberán presentar y gestionar ante el Congreso, las solicitudes de autorización de endeudamiento correspondientes de acuerdo con lo previsto en el Capítulo Cuarto de esta Ley.
+Los aspirantes a Juez que cubran los requisitos antes señalados, presentarán un examen de conocimientos en Derecho Civil, Familiar, Registral y demás relativos a estas materias, por medio de una prueba teórica y una práctica que se realizarán el día y hora que al efecto se señale en la convocatoria.
+
+El examen teórico comprenderá conocimientos generales de Derecho en las materias anteriormente citadas.
+
+El examen práctico consistirá en el levantamiento de cualquier acta del estado civil o anotación e inscripción que se efectúe en el Registro Civil.
+
+En ningún caso, el sustentante conocerá la identidad de quien o quienes califiquen los exámenes. Se hará lo mismo en sentido inverso. La violación a esta disposición dará lugar a procedimiento de responsabilidad administrativa para el servidor público o cancelación definitiva de oportunidad de ingreso al aspirante, según sea el caso.
 
 ###### Artículo 25.
 
-Los montos relativos a los empréstitos y créditos que se propongan celebrar las entidades, deberán encontrarse considerados en las partidas correspondientes a los montos y conceptos de endeudamiento autorizado, incluidas en la Ley de Ingresos del Estado, en las Leyes de Ingresos de los Municipios y en los presupuestos de ingresos de las entidades de la administración pública paraestatal y paramunicipal, según corresponda, de acuerdo con lo previsto por esta Ley.
+Los aspirantes que hayan aprobado de manera satisfactoria el examen de conocimientos, presentarán un examen psicométrico cuyo contenido será aprobado y evaluado por el Consejo.
 
 ###### Artículo 26.
 
-El Congreso podrá, previa solicitud debidamente justificada de las entidades, autorizar el ejercicio de montos y conceptos de endeudamiento no previstos o adicionales a los autorizados en la Ley de Ingresos del Estado o en las Leyes de Ingresos de los Municipios, cuando a juicio del Congreso se presenten circunstancias extraordinarias que así lo requieran.
+Los aspirantes que hayan aprobado de manera satisfactoria los exámenes de conocimientos y psicométrico, deberán cumplir también con un curso propedéutico, cuya duración, planes y programas, serán aprobados y evaluados por el Consejo en una escala de diez a cien, siendo el mínimo aprobatorio de ochenta.
+
+De no obtenerse el mínimo citado, la plaza concursada quedará vacante y, de prevalecer las necesidades de servicio del Registro Civil, será publicada en la Gaceta Oficial del Distrito Federal una nueva Convocatoria para los fines que en ella se precisen, la cual contendrá la exposición de su publicación.
 
 ###### Artículo 27.
 
-En los casos en que el Congreso del Estado autorice la contratación de créditos o empréstitos que impliquen el ejercicio de montos y conceptos de endeudamiento no previstos o adicionales a los autorizados en la Ley de Ingresos del Estado o en las Leyes de Ingresos Municipales, dichos ordenamientos deberán reformarse o adicionarse a fin de incluir los nuevos montos y conceptos de endeudamiento. En todo caso, en términos de lo previsto por el Artículo 117, fracción VIII de la Constitución Política de los Estados Unidos Mexicanos, las reformas o adiciones antes señaladas deberán realizarse previamente a que las entidades contraigan los empréstitos o créditos de que se trate.
+Quienes hayan aprobado los exámenes y reúnan los requisitos a que se refieren los artículos 23 y 26 del presente Reglamento, serán nombrados Jueces, conforme a las vacantes que se vayan generando en los Juzgados existentes y en aquellos cuya creación se autorice. En todos los casos se nombrará a quienes hayan obtenido las calificaciones más altas en los exámenes, así como en los cursos propedéuticos.
 
-En adición a lo anterior, previamente a la contratación de los empréstitos respectivos, el Estado y los Municipios, por conducto del Poder Ejecutivo del Estado o de los ayuntamientos, según proceda, deberán realizar los ajustes correspondientes en sus presupuestos de egresos; y en lo relativo a las entidades de la administración pública paraestatal y paramunicipal, antes de contraer los créditos respectivos, deberán realizar los ajustes pertinentes a sus presupuestos de ingresos y de egresos, notificando de ello a la Secretaría y a los ayuntamientos, según corresponda.
+En igualdad de circunstancias serán preferidos los aspirantes que laboren o hayan laborado satisfactoriamente por mayor tiempo en el Registro Civil.
 
 ###### Artículo 28.
 
-Los financiamientos cuya autorización soliciten las entidades, deberán ser en todo caso, acordes con la capacidad de pago de las mismas.
+Para ser Secretario se deben reunir los siguientes requisitos:
 
-En los casos en que la magnitud de los proyectos de inversión pública productiva lo ameriten, el Congreso podrá autorizar la implementación de programas de financiamiento, que impliquen la obtención de créditos o empréstitos en uno o en varios ejercicios presupuestales. En tal caso, los ingresos y erogaciones que deriven de los financiamientos que se celebren durante ejercicios fiscales posteriores al del programa de financiamiento que contenga su autorización, deberán ser incluidos en las leyes de ingresos y presupuestos de egresos correspondientes a dichos ejercicios.
+I. Ser ciudadano mexicano por nacimiento y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+
+II. Ser vecino del Distrito Federal en términos del artículo 5º del Estatuto de Gobierno del Distrito Federal;
+
+III. No haber sido condenado por sentencia irrevocable como responsable de un delito doloso o culposo calificado como grave por la Ley, ni estar sujeto a proceso penal;
+
+IV. No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público en los términos de las normas aplicables;
+
+V. Ser mayor de edad;
+
+VI. Contar con el 70% de los créditos de la licenciatura en Derecho;
+
+VII. Tener por lo menos un año de experiencia laboral, en materia de Derecho;
+
+VIII. No ser ministro de algún culto religioso; y
+
+IX. Aprobar los exámenes y el curso propedéutico a que se refiere el presente Reglamento.
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2004)</small>
+
+El titular podrá otorgar dispensa del requisito señalado en la fracción VI, al personal del Registro Civil, siempre y cuando se aprueben las evaluaciones realizadas por el Titular y la Oficialía Mayor del Gobierno del Distrito Federal que acrediten los conocimientos teórico-prácticos de la materia y la aptitud para desempeñar el cargo.
 
 ###### Artículo 29.
 
-El Poder Ejecutivo del Estado deberá incluir anualmente dentro de la iniciativa de Presupuesto de Egresos del Estado, la o las partidas presupuestales necesarias y suficientes para cubrir en su totalidad, el pago del servicio de la deuda pública a cargo del Estado, correspondiente al ejercicio fiscal de que se trate, lo cual deberá ser verificado por el Congreso, en el entendido de que, en caso de no incluirse la o las partidas correspondientes, el Congreso deberá incluirlas y autorizarlas.
+Los aspirantes a Secretario que cubran los requisitos antes señalados, presentarán un examen de conocimientos generales en Derecho y también deberán sustentar un examen psicométrico, los cuales serán elaborados, aplicados y evaluados por el Consejo.
 
-En términos de lo previsto por el tercer párrafo del Artículo 32 de la Constitución Política del Estado Libre y Soberano de Morelos, en caso de que, por cualquier circunstancia, se omita incluir y autorizar en el Presupuesto de Egresos del Estado, las partidas necesarias y suficientes para cubrir, en su totalidad, el pago del servicio de la deuda pública vigente a cargo del Estado, correspondiente al ejercicio fiscal de que se trate, se entenderán por incluidas y autorizadas las partidas que hubieren sido autorizadas en el Presupuesto anterior, ajustándose su monto de manera automática en función de las obligaciones contraídas.
+En igualdad de circunstancias serán preferidos los aspirantes que laboren o hayan laborado satisfactoriamente por mayor tiempo en el Registro Civil.
 
-De la misma forma, en términos de lo previsto por los párrafos séptimo y octavo del Artículo 32 de la Constitución Política del Estado Libre y Soberano de Morelos, en caso de que, por cualquier circunstancia, el Congreso dejare de aprobar el Presupuesto de Egresos del Estado, continuará rigiendo el presupuesto de egresos aprobado para el ejercicio fiscal del año anterior, hasta en tanto éste se apruebe. En este supuesto, las partidas correspondientes al pago de obligaciones derivadas de empréstitos que hubiesen sido autorizadas en el presupuesto anterior se ajustarán en su monto, de manera automática, en función de las obligaciones contraídas.
-
-Los Presidentes Municipales deberán incluir, dentro de las iniciativas de presupuestos de egresos municipales, la o las partidas presupuestales necesarias y suficientes para cubrir en su totalidad, el pago del servicio de la deuda pública a cargo del Municipio, correspondiente al ejercicio fiscal de que se trate, lo cual será verificado por los Ayuntamientos, en el entendido de que, en caso de no incluirse, el Ayuntamiento respectivo deberá incluirlas y autorizarlas.
-
-En términos de lo previsto por el octavo párrafo del Artículo 115 de la Constitución Política del Estado Libre y Soberano de Morelos, en caso de que, por cualquier circunstancia, se omita incluir y autorizar en los Presupuestos de Egresos de los Municipios, las partidas necesarias y suficientes para cubrir, en su totalidad, el pago del servicio de la deuda pública vigente a cargo del Municipio, correspondiente al ejercicio fiscal de que se trate, se entenderán por incluidas y autorizadas las partidas que hubieren sido autorizadas en el presupuesto anterior, ajustándose su monto de manera automática en función de las obligaciones contraídas.
-
-Los titulares de las entidades de la administración pública paraestatal y paramunicipal deberán incluir, dentro de sus proyectos de presupuesto de egresos, la o las partidas presupuestales necesarias y suficientes para cubrir en su totalidad, el pago del servicio de la deuda pública a cargo de dichas entidades, correspondiente al ejercicio fiscal de que se trate, lo cual será vigilado por los Órganos de Gobierno correspondientes, la Secretaría y por los ayuntamientos, respectivamente.
-
-### Capítulo Cuarto. De la Contratación de Empréstitos y Créditos
+### CAPÍTULO IV. DEL PROCEDIMIENTO PARA SUPLIR LAS AUSENCIAS DE LOS JUECES
 
 ###### Artículo 30.
 
-El Poder Ejecutivo del Estado y los Ayuntamientos, deberán informar al Congreso sobre el ejercicio de las partidas correspondientes a los montos y conceptos de endeudamiento autorizado y con relación a la situación de su deuda pública al rendir la cuenta pública estatal o municipal en términos de lo previsto por el Artículo 32 de la Constitución Política del Estado Libre y Soberano de Morelos.
+Los Jueces se suplirán en sus ausencias temporales o definitivas:
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+I. Por el más cercano de la Delegación en que se encuentren adscritos;
+
+II. A falta de éste, por el más próximo de la Delegación colindante;
+
+III. Por el Juzgado que se encuentre considerado como de menor carga de trabajo, atendiendo a los criterios estadísticos reportados a la Dirección; y
+
+IV. Por el Juez interino que al efecto sea designado por el Titular.
 
 ###### Artículo 31.
 
-Sin perjuicio de lo señalado en el Artículo anterior, el Poder Ejecutivo del Estado, los ayuntamientos y las entidades de la administración pública paraestatal y paramunicipal deberán proporcionar al Congreso, directamente o por conducto de la Auditoría Superior de Fiscalización, la información que éste les requiera de acuerdo con la Ley, en relación con las operaciones de deuda pública que celebren.
+Las ausencias temporales de los Jueces, que excedan de tres meses, serán cubiertas mediante nombramiento que con carácter de interino expida el Titular.
 
 ###### Artículo 32.
 
-La contratación de empréstitos o créditos a cargo de las entidades, deberá ser previamente autorizada por el Congreso de acuerdo con lo previsto por el Artículo 12, fracciones III, IV y V de esta Ley.
+En caso de ausencia definitiva de los Jueces, el Consejo deberá expedir Convocatoria de conformidad con lo señalado en el artículo 22 del presente Reglamento, a efecto de que el Jefe de Gobierno otorgue el nombramiento correspondiente.
 
 ###### Artículo 33.
 
-La contratación de empréstitos a cargo de los Municipios, deberá ser previamente autorizada por sus respectivos ayuntamientos de acuerdo con lo previsto por los Artículos 15 y 16 de esta Ley. Dicha autorización será requisito necesario para gestionar la autorización de los mismos ante el Congreso.
+Las ausencias de los Jueces se clasificarán en:
+
+I. Temporales Previsibles: Vacaciones, incapacidades médicas, suspensiones judiciales o administrativas y permisos administrativos;
+
+II. Temporales Imprevisibles: Inasistencias derivadas de caso fortuito o fuerza mayor; y
+
+III. Definitivas: Renuncia, muerte, resolución administrativa o judicial que los destituya o inhabilite del cargo.
 
 ###### Artículo 34.
 
-Las entidades de la administración pública paraestatal, sólo podrán contratar créditos si cuentan con la autorización previa de sus Órganos de Gobierno y de la Secretaría, otorgada de acuerdo con lo previsto por los Artículos 13 fracción XX y 19 de esta Ley. Dichas autorizaciones serán requisito necesario para gestionar la autorización de los créditos respectivos ante el Congreso.
+En caso de ausencias temporales previsibles, los Jueces deberán notificar por escrito y con la debida anticipación al Titular, a efecto de determinar la suplencia y medidas correspondientes.
 
-Las entidades de la administración pública paramunicipal, únicamente podrán contratar créditos si cuentan con la autorización previa de sus Órganos de Gobierno y del ayuntamiento correspondiente, otorgadas de acuerdo con lo previsto por los Artículos 15 fracción XXI y 20 de esta Ley. Dichas autorizaciones serán requisito necesario para gestionar la autorización de los créditos respectivos ante el Congreso.
+Si se tratare de vacaciones, se deberá atender al programa que para tal efecto formule la Dirección, debiendo los Jueces presentar sus solicitudes respectivas por escrito al Titular.
 
-### Capítulo Quinto. De la Emisión y Colocación de Valores
+En todos los casos a que se refiere el presente Capítulo, los Jueces también notificarán a la Delegación en que se encuentren adscritos, para su conocimiento.
+
+### CAPÍTULO V. DE LAS SUPERVISIONES
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 35.
 
-En todos los casos en que las entidades se propongan celebrar créditos o empréstitos, incluida la emisión de valores, deberán formular una solicitud de autorización de endeudamiento, en términos del Artículo 36 de esta Ley, a sus Órganos de Gobierno, a los ayuntamientos, a la Secretaría y al Congreso, según corresponda.
-
-En el caso de las solicitudes de autorización de endeudamiento que presenten ante el Congreso, el Poder Ejecutivo del Estado y los ayuntamientos, las mismas deberán presentarse bajo la forma de iniciativas de Ley o Decreto, según corresponda.
+Las visitas de supervisión se efectuarán, cuando menos, una vez al mes en cada juzgado, módulo registral y en las diversas áreas de la Dirección; en aquellos actos que sean celebrados fuera de éstos, podrán ser realizadas en cualquier tiempo, con el objeto de verificar el debido cumplimiento de las obligaciones y facultades de los jueces y demás personal a su cargo.
 
 ###### Artículo 36.
 
-Las solicitudes de autorización de endeudamiento referidas en el Artículo anterior, deberán incluir:
-
-I.- La información relativa al crédito o empréstito que se proponga celebrar la entidad de que se trate, indicando, según resulte aplicable: monto, destino, plazo máximo, mecanismo de pago y demás datos que en su caso, se consideren relevantes. En el caso de emisiones de valores, se deberá señalar según resulte aplicable: Importe de la emisión o programa de valores, destino, plazo máximo de la emisión o programa de valores, mecanismo de pago y demás datos que se consideren relevantes;
-
-II.- La información que permita determinar la capacidad de pago de la entidad de que se trate y la necesidad debidamente razonada de la inversión que se pretenda realizar o destino que se pretenda dar a los recursos provenientes del financiamiento. En tratándose de reestructuraciones o refinanciamientos para los que se requiera autorización del Congreso, se deberán señalar de manera general los beneficios que se espera lograr en caso de realizarse la reestructuración o refinanciamiento correspondientes; y
-
-III.- En su caso, las autorizaciones que previamente se hubieren obtenido de los Órganos de Gobierno, de los ayuntamientos y de la Secretaría, según corresponda.
-
-La Secretaría o el ayuntamiento respectivo, comunicarán oficialmente su resolución a las entidades solicitantes, dentro de los veinte días hábiles siguientes a la fecha en que reciban la solicitud de que se trate, precisando, en caso de que la celebración del financiamiento sea aprobada, las características y condiciones bajo las cuales podrá ser concertado.
-
-En los actos jurídicos, valores o títulos de crédito con que se documenten las operaciones de endeudamiento se deberán incluir los datos de la o las autorizaciones respectivas.
+El Juez y todo el personal a su cargo, deberán facilitar la práctica de las supervisiones, proporcionando la información y documentación requerida para la debida integración del acta circunstanciada.
 
 ###### Artículo 37.
 
-Una vez que las entidades cuenten con las aprobaciones de los Órganos de Gobierno, de los ayuntamientos y de la Secretaría, según corresponda, podrán gestionar en forma directa ante el Congreso, la autorización para la obtención de los créditos o empréstitos que se propongan celebrar.
+Las supervisiones serán realizadas por personal designado por el Titular, quienes inspeccionarán y vigilarán de forma exclusiva y permanente, en el desempeño del ejercicio de sus atribuciones legales, el debido cumplimiento de las funciones y facultades de los Jueces y personal a su cargo.
+
+El personal encargado de realizar las supervisiones a que se refiere el presente Reglamento deberá ser licenciado en Derecho.
 
 ###### Artículo 38.
 
-El Congreso podrá solicitar a las entidades la documentación e información complementaria que requiera para el análisis de las solicitudes de autorización de endeudamiento que se le presenten.
+El personal a que se refiere el artículo anterior, supervisará cuando menos:
+
+I. Que exista un estricto control del uso de las Formas para la autorización de las actas del estado civil de las personas;
+
+II. Que exista un estricto control del papel seguridad proporcionado para la expedición de copias certificadas;
+
+III. Revisar que los libros y expedientes que obren en los archivos de los Juzgados se encuentren en buen estado;
+
+IV. Vigilar que el personal del Juzgado cumpla con las disposiciones jurídicas, así como con los criterios técnico-jurídicos que se dicten por las autoridades competentes;
+
+V. Que se exhiba en lugares visibles al público, la leyenda siguiente: "Por los servicios que se prestan en los Juzgados, no se causarán honorarios ni cualquier otro tipo de retribución, sólo aquellos pagos de derechos que establezca el Código Financiero del Distrito Federal";
+
+VI. Que se exhiban en lugares visibles al público, los requisitos y cuotas por pago de derechos necesarios para la procedencia del registro de los hechos y actos del estado civil de las personas, conforme a los lineamientos que marque el Titular;
+
+VII. Que se establezca un lugar para la recepción de quejas o sugerencias relacionadas con el funcionamiento del Juzgado;
+
+VIII. Que los informes que rindan los Juzgados, sean presentados dentro de los términos que establezcan las disposiciones aplicables;
+
+IX. Que se verifiquen las condiciones en que se presta el servicio en el Juzgado respecto de los recursos humanos y materiales, a fin de que la Dirección realice las gestiones a que haya lugar;
+
+X. Que las actas de los registros correspondientes coincidan con la documentación contenida en los apéndices;
+
+XI. Que el personal adscrito al Juzgado, cumpla con el horario establecido para el servicio;
+
+XII. Que se cumplan con todos los requisitos señalados por la legislación aplicable para la autorización de los diversos actos registrales;
+
+XIII. Que en las Formas donde se asienten las actas del estado civil de las personas, se realicen las anotaciones que conforme a la Ley correspondan;
+
+XIV. Que los folios que fueron testados por el Juzgado coincidan con el informe que se remita al Titular; y
+
+XV. Que los documentos que integran los apéndices de las actas del estado civil de las personas, sean los exigidos por las disposiciones jurídicas aplicables, verificando en todo tiempo la autenticidad de los mismos; y para el caso de que exista duda fundada sobre la autenticidad de algún documento exhibido, deberá notificar por escrito dicha circunstancia al Titular, para que éste efectúe el cotejo correspondiente.
 
 ###### Artículo 39.
 
-Las entidades negociarán, aprobarán y suscribirán, en el ámbito de su competencia y por conducto de sus funcionarios legalmente autorizados al efecto, los actos jurídicos, títulos de crédito y demás instrumentos legales necesarios, directa o indirectamente, para la obtención, manejo, operación y gestión de los financiamientos y demás operaciones de endeudamiento a su cargo autorizadas conforme a lo previsto en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Morelos y en esta Ley.
+La supervisión a que se refiere el presente Reglamento se realizará de conformidad con los siguientes lineamientos:
 
-### Capítulo Sexto. De las Garantías, Avales y Mecanismos de Pago
+I. En toda supervisión se levantará acta circunstanciada que deberá contener el lugar, día y hora en que inicie y termine la supervisión, asentándose de manera precisa las observaciones que se consideren necesarias, y una vez concluida la misma, deberá ser sellada y firmada por quienes hayan intervenido. En caso de que el Juez o personal del Juzgado se negare a firmar ésta, se hará constar dicha situación y se recabará la firma de dos testigos de asistencia;
+
+II. Se incorporarán al acta circunstanciada, además, las quejas o denuncias presentadas por los ciudadanos en contra del servidor público del Juzgado de que se trate, así como las manifestaciones que respecto de la visita o del contenido del acta quisiera realizar el Juez o servidor público del Juzgado;
+
+III. Las actas circunstanciadas serán remitidas por los supervisores al Jefe de la Unidad de Supervisión a Juzgados;
+
+IV. De existir presuntas irregularidades en contravención con las Leyes aplicables de la materia, el Jefe de Supervisión a Juzgados turnará el acta circunstanciada al responsable del Área Jurídica del Registro Civil, quien abrirá expediente, asignándole número consecutivo y radicándolo mediante un acuerdo fundado y motivado; y
+
+V. El Titular citará por escrito en la Dirección, al personal relacionado con los hechos que originaron la instrumentación del acta circunstanciada que contenga presuntas irregularidades, a efecto de levantar el acta administrativa correspondiente. Lo anterior sin perjuicio de las responsabilidades que conforme a la Ley resulten aplicables.
+
+### CAPÍTULO VI. DE LA AUTORIZACIÓN DEL ESTADO CIVIL
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 40.
 
-Las entidades deberán remitir al Congreso del Estado, dentro de un plazo de sesenta días naturales, contados a partir de la celebración de cualquier crédito o empréstito, un informe escrito que refleje el monto, forma y términos de los mismos, incluyendo plazo, gracia, tasas de interés ordinaria y moratoria, así como información sobre la aplicación de los recursos correspondientes, acompañando copia de los documentos en los que consten los actos jurídicos, valores o títulos de crédito que las documenten.
+Estará a cargo de los jueces, la autorización de las actas del estado civil de las personas relativas al nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio administrativo y defunción de mexicanos y extranjeros en el Distrito Federal; la inscripción de las ejecutorias que declaren la ausencia, presunción de muerte, el divorcio judicial, la tutela o que se ha perdido la capacidad legal para administrar bienes; así como autorizar la inscripción de anotaciones derivadas de instrumentos notariales o cualquier otra resolución que anule, revoque o modifique actos del estado civil, siempre y cuando se cumplan las formalidades exigidas por el Código Civil y por los ordenamientos jurídicos aplicables.
 
 ###### Artículo 41.
 
-Las entidades que se propongan contraer deuda pública, deberán analizar las diferentes opciones de financiamiento disponibles en el mercado para los conceptos a que se destinarán los empréstitos o créditos y optar por la que ofrezca las condiciones más favorables al interés público.
+La autorización de las actas del estado civil de las personas se efectuará en los Juzgados, Módulos Registrales, en las Oficinas Consulares del Servicio Exterior Mexicano, y en su caso, en el domicilio que para el efecto señalen las personas o autoridades de conformidad con las Leyes correspondientes.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 42.
 
-Las operaciones de endeudamiento que celebren las entidades, deberán apegarse a las autorizaciones otorgadas por el Congreso y los recursos provenientes de las mismas, aplicarse de acuerdo al destino autorizado en el decreto correspondiente. Cualquier modificación al destino de un crédito o empréstito o a las demás condiciones autorizadas por el Congreso en el decreto respectivo, requerirá de una nueva autorización de dicho Congreso.
+Para la autorización de las actas del estado civil de las personas, se deberán satisfacer los requisitos y disposiciones jurídicas aplicables. El incumplimiento de lo anterior, dará lugar a la nulidad del acto en términos de lo dispuesto por el Código Civil. Lo anterior, sin perjuicio de la responsabilidad penal o administrativa que resulte, conforme a la legislación aplicable.
 
 ###### Artículo 43.
 
-El Congreso vigilará, a través de sus órganos facultados al efecto, que los recursos obtenidos por las entidades con motivo de las operaciones a que se refiere esta Ley, sean destinados de acuerdo a lo autorizado por el propio Congreso.
+En la autorización de las actas del estado civil de las personas y antes de que sea firmada por los que en ella intervengan, el Juez o quien éste habilite deberá dar lectura en voz alta a dicha acta y pondrá a la vista del o los interesados la misma para su revisión; en caso de detectarse error ortográfico, gramatical o de omisión, se procederá a efectuar la corrección correspondiente. Quien o quienes hayan proporcionado los datos para el levantamiento del acta asentarán su firma o huella digital en un recibo de conformidad, respecto de los datos contenidos en el acta.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 44.
 
-El Congreso verificará que las operaciones de endeudamiento sean realizadas conforme a las disposiciones constitucionales y legales aplicables, formulando en su caso, las observaciones que de ello se deriven, sin perjuicio de las responsabilidades a que hubiere lugar.
+Cuando en las actas del estado civil de las personas se adviertan alteraciones, borraduras, tachaduras o enmendaduras, deberá ordenarse el cotejo correspondiente con los tantos que obren en el Archivo Judicial o el Juzgado respectivo, procediendo a realizar la aclaración o reposición a que hubiere lugar, o en su caso, a hacerlo del conocimiento de las autoridades competentes, a fin de que éstas determinen las responsabilidades que procedan.
+
+En caso de que se presuma la existencia de falsificación de las actas del estado civil de las personas, por ningún motivo se expedirán copias certificadas de éstas, y se procederá a presentar denuncia ante el Ministerio Público, sin perjuicio de las responsabilidades que señalen las Leyes aplicables.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 45.
 
-El Poder Ejecutivo del Estado, los ayuntamientos y los Órganos de Gobierno de las entidades de la administración pública paraestatal y paramunicipal, deberán realizar oportunamente los pagos de la deuda pública a su cargo.
+En cualquier acto del estado civil que intervenga algún extranjero será necesario que acredite su legal estancia en el país, así como su calidad migratoria; excepto el menor y el difunto, cuando se trate de registro de nacimiento de menor de seis meses de vida y levantamiento de acta de defunción de un extranjero, respectivamente.
 
-El Poder Ejecutivo del Estado y los ayuntamientos, deberán vigilar que se hagan oportunamente los pagos del servicio de su deuda pública contingente e indirecta.
+DE LAS ACTAS DE NACIMIENTO
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 46.
 
-Las entidades podrán celebrar operaciones financieras de cobertura, que tiendan a evitar o reducir riesgos económico financieros derivados de créditos o empréstitos obtenidos con base en esta Ley. En los casos en que el plazo de las operaciones financieras de cobertura exceda de tres años su contratación, requerirá de la previa autorización del Congreso.
+Para la autorización de las actas relativas al registro de nacimientos que se realicen dentro de los seis meses siguientes al alumbramiento, los interesados deberán presentar:
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+I. Solicitud de registro debidamente requisitada;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+II. El menor a registrar, por conducto de su padre y madre, o cualquiera de ellos, a falta de éstos, los abuelos y demás ascendientes en línea recta, los hermanos o los tíos;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+III. Certificado de Nacimiento en el formato que al efecto expida la Secretaría de Salud del Distrito Federal de conformidad con este reglamento, que contenga nombre completo de la madre; huella plantar del recién nacido, sexo del menor, así como huella digital del pulgar y firma de la madre; fecha y hora del nacimiento; domicilio en que ocurrió y sello de la Institución pública, privada o social del Sector Salud; nombre y firma del médico, así como, número de cédula profesional de éste.
+
+Lo anterior sin perjuicio de los demás requisitos solicitados en el Código y demás normas aplicables.
+
+Para los efectos del artículo 75 del Código Civil, se exceptúa la obligación de estampar la huella digital en el acta de nacimiento del menor fallecido.
+
+En todos los casos en que se presente el certificado de nacimiento, éste hará prueba plena del día, hora y lugar en que ocurrió el nacimiento, del sexo del recién nacido y de la identidad de su madre.
+
+En su caso, Constancia de Parto que contenga el nombre y firma del médico cirujano o partera debidamente registrada ante la Secretaría de Salud, que haya asistido el alumbramiento; lugar, fecha y hora de nacimiento; y nombre completo de la madre;
+
+Cuando no exista el certificado o la constancia antes señalada, o por causas de fuerza mayor no se tuvieran, el declarante deberá presentar ante el Juez del Registro Civil denuncia de hechos realizada ante la Procuraduría de Justicia del Distrito Federal, en la que se haga constar la razón de la falta de documentos y las circunstancias en que ocurrió el nacimiento. Dicha denuncia se anexará al expediente.
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+IV. Copia certificada del Acta de Matrimonio de los padres; en caso de no ser casados, deberán presentar sus Actas de Nacimiento para el efecto de que se haga constar la filiación de ambos en el acta del registrado;
+
+V. Identificación oficial de los presentantes;
+
+VI. (DEROGADA, G.O. 11 DE MARZO DE 2004)
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+VII. Comprobante del domicilio declarado por él o los presentantes del menor a registrar.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 47.
 
-El Poder Ejecutivo del Estado deberá contratar a instituciones calificadoras de valores, a efecto de que emitan la calificación sobre la calidad crediticia del Estado y para que realicen en su caso, la revisión periódica de dicha calificación. Asimismo, podrá contratar a dichas instituciones, con la finalidad de que califiquen la calidad crediticia de los financiamientos bancarios, bursátiles o de cualquier otra naturaleza que, en su caso, implemente y para que realicen la revisión periódica de dichas calificaciones.
+Para los efectos de los artículos 133 de la Constitución Política de los Estados Unidos Mexicanos; 3.1, 7.1, 8.1 de la Convención sobre los Derechos del Niño, 7, 22 A de la Ley para la Protección de Niñas, Niños y Adolescentes y 60 del Código Civil, cuando la madre y/o el padre del registrado, sean menores de edad no emancipados, y exhiban los documentos señalados en el artículo 46 de este ordenamiento, pero carezcan del consentimiento de quienes ejerzan sobre ellos la patria potestad o tutela, el Juez, procederá a autorizar el registro, asentando el nombre del presentado con los apellidos que correspondan atendiendo al derecho superior del niño a tener nombre, nacionalidad y en la medida de lo posible a conocer a sus padres.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 48.
 
-Los Municipios y los órganos de gobierno de las entidades de la administración pública paraestatal y paramunicipal podrán, en los casos en que así lo estimen justificado, contratar a instituciones calificadoras de valores a efecto de que califiquen la calidad crediticia de los Municipios y de las entidades de la administración pública paraestatal y paramunicipal o la de los financiamientos bancarios, bursátiles o de cualquier otra naturaleza que en su caso, implementen y para que realicen la revisión periódica de dichas calificaciones.
+Tratándose de menores expósitos o abandonados, podrán ser presentados ante el Juez para la autorización del acta respectiva por el Ministerio Público, o en su caso, por el director, administrador, apoderado legal o responsable de la institución o casa de asistencia ya sea pública o privada, donde se encuentre institucionalizado el menor para sus cuidados o atenciones.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 49.
 
-Las entidades estarán facultadas para contratar a auditores externos, a efecto de que dictaminen sus estados financieros.
+En los casos en que uno o ambos padres del registrado, sean de nacionalidad distinta a la mexicana, además de dar cumplimiento a lo señalado para la autorización de los registros de nacimiento ordinario o extemporáneo que se regulan en el presente Reglamento, el Juez solicitará se acredite la nacionalidad e identidad del extranjero, y dará aviso a la Secretaría de Gobernación dentro de los tres días hábiles siguientes a la fecha en que se efectuó el registro para los efectos a que haya lugar.
 
 ###### Artículo 50.
 
-El Estado, por conducto de la Secretaría, podrá otorgar a los Municipios y a las entidades de la administración pública paraestatal y paramunicipal, empréstitos o créditos de los previstos en el Artículo 9 de esta Ley.
+El Juez deberá autorizar el registro de nacimiento, cuando los padres carezcan de Acta de Nacimiento y presenten los demás requisitos señalados en el artículo 46 del presente Reglamento; con la salvedad de que en el registro que se autorice no será asentada la filiación correspondiente a los abuelos y únicamente constará la de la madre y/o padre que comparezcan y se identifiquen en dicho acto. Lo anterior, sin perjuicio de que el Juez bajo su más estricta responsabilidad, tome las medidas jurídicas que sean necesarias, a efecto de que quien o quienes hayan presentado al registrado obtengan también el registro de su nacimiento.
 
-Asimismo, los Municipios podrán otorgar créditos de los anteriormente señalados, a las entidades de la administración pública paramunicipal.
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2004)</small>
+
+Artículo 50 bis. Si al dar aviso de un nacimiento, se comunica también la muerte del recién nacido, se extenderán dos actas, una de nacimiento y otra de defunción las cuales se correlacionarán entre sí.
+
+Lo anterior, sin perjuicio de los demás requisitos solicitados en el Código y demás normas aplicables.
+
+DEL REGISTRO EXTEMPORÁNEO DE NACIMIENTO
 
 ###### Artículo 51.
 
-El Poder Ejecutivo del Estado asesorará por conducto de la Secretaría, en los casos en que así se lo requieran, a los Municipios, a las entidades de la administración pública paraestatal y paramunicipal, en la formulación de sus proyectos financieros y en lo relativo a las operaciones que pretendan realizar en materia de deuda pública.
+Se considera registro extemporáneo de nacimiento aquél que se efectúe con posterioridad a los seis meses en que ocurrió el alumbramiento.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 52.
 
-Sujeto a lo previsto en esta Ley, las entidades podrán ocurrir al mercado de valores, para captar recursos mediante la emisión de valores.
+Para autorizar el registro extemporáneo de nacimiento de personas mayores de seis meses y menores de dieciocho años, se requiere lo señalado en el artículo 46 del presente Reglamento, así como:
+
+I. Constancia de inexistencia de registro de nacimiento que comprenda por lo menos un año anterior a la fecha de nacimiento o en su caso, dos años posteriores a ésta como máximo, de acuerdo a la edad del menor, emitida por la Oficina Central. En los casos en que en los archivos de dicha Oficina no se localicen los soportes documentales correspondientes, será necesaria la del Juzgado más cercano al lugar en donde ocurrió el nacimiento;
+
+II. En caso de no ser originario del Distrito Federal, además, será necesaria la presentación de la Constancia de Inexistencia de Registro de Nacimiento, que comprenda por lo menos un año anterior a la fecha de nacimiento y dos años posteriores a ésta, como máximo, de acuerdo a la edad del menor, emitida por el Juzgado u Oficialía del Registro Civil más cercano al lugar donde ocurrió el alumbramiento, y
+
+III. En su caso, identificaciones y/o documentos públicos, así como aquellos complementarios, privados o de carácter religioso que acrediten el uso del nombre. Cuando exista duda fundada por parte del Juez, respecto de la idoneidad o suficiencia de los documentos presentados, será el Titular quien resuelva de manera inmediata sobre la procedencia del registro.
+
+Cuando no exista el certificado de nacimiento o la constancia de parto antes señalada, o por causas de fuerza mayor no se tuvieran, el declarante deberá presentar ante el Juez del Registro Civil denuncia de hechos realizada ante la Procuraduría General de Justicia del Distrito Federal en la que se haga constar la razón de la falta de documentos y las circunstancias del nacimiento. Dicha denuncia se anexará al expediente.
+
+Las Constancias de Inexistencia de Registro tendrán vigencia de 3 meses contados a partir de la fecha de su expedición.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 53.
 
-La celebración de empréstitos o créditos mediante la emisión de valores, con base en el crédito público de las entidades y su colocación entre el gran público inversionista, a través del mercado de valores, estará sujeta en todos los casos, a la autorización previa del Congreso, debiéndose cumplir con los requisitos que para las operaciones de endeudamiento se establecen en esta Ley.
+Para autorizar el registro extemporáneo de nacimiento de mayores de dieciocho años y menores de sesenta años, se requiere lo señalado en las fracciones I, IV, VI y VII del artículo 46 del presente Reglamento, así como:
 
-El Congreso podrá autorizar la implementación de programas de colocación de valores, que impliquen una o más emisiones a realizarse, en forma sucesiva, durante un plazo que podrá abarcar uno o más ejercicios presupuestales.
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
 
-Los montos y conceptos de endeudamiento autorizado correspondientes a emisiones de valores que se realicen al amparo de programas de colocación autorizados, que abarquen más de un ejercicio presupuestal, deberán ser incluidos en los ejercicios fiscales posteriores al de su autorización, en la Ley de Ingresos del Estado, en las Leyes de Ingresos y en los presupuestos de egresos municipales y en los presupuestos de ingresos y de egresos de las entidades de la administración pública paraestatal y paramunicipal, correspondientes a dichos ejercicios, según sea aplicable.
+I. Comparecencia de la persona a registrar, y en su caso, la de los presentantes con identificación oficial;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+II. Constancia de inexistencia de registro de nacimiento, que comprenda por lo menos un año anterior a la fecha de nacimiento y dos años posteriores a ésta, emitida por la Oficina Central; en los casos en que no se localicen los soportes documentales correspondientes en los archivos de dicha Oficina, será necesaria la del Juzgado más cercano al lugar en donde ocurrió el nacimiento;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+III. En caso de no ser originario del Distrito Federal, además, será necesaria la presentación de la Constancia de Inexistencia de Registro de Nacimiento, que comprenda por lo menos un año anterior a la fecha de nacimiento y dos años posteriores a ésta, emitida por el Juzgado u Oficialía del Registro Civil más cercano al lugar donde ocurrió el alumbramiento;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+IV. En su caso, Identificaciones y/o documentos públicos, así como aquellos complementarios, privados o de carácter religioso que acrediten el uso del nombre con el cual se pretende registrar. Cuando exista duda fundada por parte del Juez, respecto de la idoneidad o suficiencia de los documentos presentados por el solicitante a registrar, será el Titular quien resuelva de manera inmediata la procedencia del registro;
+
+V. (DEROGADA, G.O. 11 DE MARZO DE 2004)
+
+VI. Denuncia de Hechos rendida ante el Ministerio Público correspondiente; y
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+VII. Comprobante del domicilio declarado.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 54.
 
-Los valores que emitan las entidades son títulos de deuda pública.
+Para autorizar el registro extemporáneo de nacimiento de personas de sesenta años en adelante, se requiere lo señalado en las fracciones I y VI del artículo 46 del presente Reglamento, así como:
+
+I. Comparecencia de la persona a registrar con identificación oficial o, en su caso, constancia domiciliaria o equivalente, expedida por la Autoridad competente;
+
+II. Constancia de inexistencia de registro de nacimiento, que comprenda por lo menos un año anterior a le fecha de nacimiento y dos años posteriores a ésta emitida por la Oficina Central; en los casos en que no se localicen los soportes documentales correspondientes en los archivos de dicha Oficina, será necesaria la del Juzgado más cercano al lugar en donde ocurrió el nacimiento;
+
+III. En caso de no ser originario del Distrito Federal, además, será necesaria la presentación de la Constancia de Inexistencia de Registro de Nacimiento, que comprenda por lo menos un año anterior a la fecha de nacimiento y dos años posteriores a ésta, emitida por el Juzgado u Oficialía del Registro Civil más cercano al lugar donde ocurrió el alumbramiento;
+
+IV. Identificaciones y/o documentos públicos, así como aquellos complementarios, privados o de carácter religioso que acrediten el uso del nombre con el cual se pretenda registrar. Cuando exista duda fundada por parte del Juez, respecto de la idoneidad o suficiencia de los documentos presentados, será el Titular quien resuelva de manera inmediata la procedencia del registro;
+
+V. Denuncia de hechos rendida ante el Ministerio Público correspondiente;
+
+VI. Comprobante del domicilio declarado.
+
+VII. (DEROGADA, G.O. 11 DE MARZO DE 2004)
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 55.
 
-Los valores serán colocados entre el gran público inversionista, por un intermediario del mercado de valores legalmente autorizado, a través de una bolsa de valores mexicana legalmente autorizada para operar.
+Para autorizar el registro extemporáneo de nacimiento de las niñas y niños en circunstancias de desventaja social, se requiere:
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+I. Solicitud debidamente requisitada;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+II. Presentación del menor de edad por el Ministerio Público, en coordinación con las Instituciones de carácter público que cuenten con programas de integración o reintegración social;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+III. Constancia de inexistencia de registro de nacimiento, que comprenda por lo menos un año anterior a la fecha de nacimiento y como máximo dos años posteriores a ésta, dependiendo de la edad del menor emitida por la Oficina Central; en los casos en que no se localicen los soportes documentales correspondientes en los archivos de dicha Oficina, será necesaria la del Juzgado más cercano al lugar en donde ocurrió el nacimiento;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+IV. En caso de no ser originario del Distrito Federal, además, será necesaria la presentación de la Constancia de Inexistencia de Registro de Nacimiento, que comprenda por lo menos un año anterior a le (sic) fecha de nacimiento y como máximo dos años posteriores a esta dependiendo de la edad del menor, emitida por el Juzgado u Oficialía del Registro Civil más cercano al lugar donde ocurrió el alumbramiento;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+V. Denuncia de hechos ante la Procuraduría General de Justicia del Distrito Federal; y
+
+VI. (DEROGADA, G.O. 11 DE MARZO DE 2004)
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
+
+Para los casos en que se exhiba Certificado de Nacimiento, Constancia de Alumbramiento o Constancia de Parto debidamente requisitados, se establecerá la filiación materna, dejando a salvo los derechos para demandar la paternidad.
+
+Para los efectos del presente Reglamento, se entenderá por niñas y niños en circunstancias de desventaja social, aquellos menores de dieciocho años que dentro o fuera del ámbito familiar, y en especial por causas de pobreza o miseria, estén temporal o permanentemente sujetos a abandono; maltrato psicoemocional; desintegración familiar; enfermedades severas, físicas o emocionales; padezcan algún tipo de discapacidad; padres privados de la libertad; víctimas de cualquier abuso, explotación laboral o sexual; o cualquier otra situación, contingencia o actividad que ponga en riesgo o impida su desarrollo integral.
 
 ###### Artículo 56.
 
-Las entidades sólo podrán emitir valores pagaderos en moneda nacional y dentro del territorio de la República. En los títulos respectivos y en su caso, en el acta de emisión, deberán citarse los datos fundamentales de su autorización, así como la prohibición de su venta a extranjeros, sean estos gobiernos, entidades gubernamentales, organismos internacionales, sociedades o particulares. Los títulos no tendrán validez si no consignan dichos datos. Lo dispuesto en este Artículo será aplicable a los demás títulos de crédito que suscriban, avalen o acepten las entidades.
+Para autorizar el registro extemporáneo de nacimiento de alguna persona perteneciente a cualquier pueblo o comunidad indígena del país, se requiere:
+
+I. Solicitud de Registro debidamente requisitada;
+
+II. Comparecencia de la persona a registrar, y en su caso, la de los presentantes con identificación oficial;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+III. Constancia de inexistencia de registro de nacimiento emitida por la Oficina Central que comprenda por lo menos un año anterior a le (sic) fecha de nacimiento y como máximo dos años posteriores a esta dependiendo de la edad del registrado; en los casos en que no se localicen los soportes documentales correspondientes en los archivos de dicha Oficina, será necesaria la del Juzgado más cercano al lugar en donde ocurrió el nacimiento;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+IV. En caso de no ser originario del Distrito Federal, además, será necesaria la presentación de la Constancia de Inexistencia de Registro de Nacimiento emitida por el Juzgado u Oficialía del Registro Civil más cercano al lugar donde ocurrió el alumbramiento que comprenda por lo menos un año anterior a le (sic) fecha de nacimiento y como máximo dos años posteriores a esta, dependiendo de la edad del registrado;
+
+V. Documentos que sirvan para acreditar la identidad de la persona, así como del lugar y fecha de nacimiento, los cuales podrán ser, indistintamente Certificado de Nacimiento, constancia de parto, constancia de origen o de identidad étnica; fe de bautismo; identificaciones oficiales diversas y demás constancias de las cuales se pueda desprender el uso del nombre; y
+
+VI. En caso de que la documentación presentada sea insuficiente para acreditar el uso del nombre de la persona a registrar, el Juez solicitará, como documento complementario, la Denuncia de Hechos rendida ante la Procuraduría General de Justicia del Distrito Federal.
+
+Para los efectos del presente Reglamento, se entenderá por comunidades integrantes de un pueblo indígena del país, aquellas que formen una unidad social, económica y cultural, asentada en un territorio y que reconocen autoridades propias de acuerdo con sus usos y costumbres.
 
 ###### Artículo 57.
 
-Los valores que emitan las entidades, deberán inscribirse en la Sección de Valores del Registro Nacional de Valores y en su caso, en una bolsa de valores mexicana legalmente autorizada para operar.
+En las Actas de Nacimiento a que se refiere el presente Capítulo, se relacionarán todos los hechos y actos posteriores que modifiquen, rectifiquen, aclaren, complementen, revoquen o anulen el contenido en todo o en parte del acta respectiva, agregándose un extracto del acta relacionada de que se trate que indique el Juzgado, año de registro, partida, foja o número de acta en que consten las mismas, salvo que la Ley o providencia dictada en juicio, dispongan lo contrario.
+
+En todos los casos en que el Juez autorice el registro de nacimiento, la filiación respecto a los padres y abuelos únicamente se hará constar cuando se acredite fehacientemente el entroncamiento.
+
+DE LAS ACTAS DE RECONOCIMIENTO
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 58.
 
-La emisión de valores podrá ser realizada directamente por las entidades o en su caso, de manera indirecta, mediante fideicomisos, a través de instituciones fiduciarias y al amparo en su caso, de un acta de emisión, cuando por disposición de la Ley o de la naturaleza de los títulos correspondientes, así se requiera. Los fideicomisos a que hace mención el párrafo que precede no serán considerados, en ningún caso, parte de la administración pública paraestatal ni paramunicipal.
+Para autorizar un Reconocimiento ante el Juez, se requiere:
+
+I. Solicitud de registro de reconocimiento debidamente requisitada;
+
+II. Presentación del menor a reconocer. En caso de que se trate de mayor de edad, será necesaria la comparecencia de éste con el propósito de que exprese su consentimiento;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+III. Comparecencia de quien deba otorgar el reconocimiento con identificación oficial;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+IV. En su caso, comparecencia con identificación oficial de quien ejerza la patria potestad o tutela del menor a reconocer, a fin de que otorgue su consentimiento;
+
+V. En su caso, documento público o privado mediante el cual se acredite la personalidad del o los mandatarios, cuando el que deba otorgar el reconocimiento no pueda concurrir personalmente a celebrar el acto, firmado por el otorgante y dos testigos y ratificadas las firmas ante Notario Público o autoridad judicial;
+
+VI. Copia certificada de reciente expedición del Acta de Nacimiento de la persona que va ser reconocida;
+
+VII. Copia certificada del Acta de Nacimiento de la persona que va a efectuar el reconocimiento, con el fin de asentar la filiación correspondiente de la persona a reconocer;
+
+VIII. (DEROGADA, G.O. 11 DE MARZO DE 2004)
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+IX. Comprobante del domicilio declarado por él o los presentantes de la persona a reconocer.
 
 ###### Artículo 59.
 
-Las entidades podrán, previa autorización del Congreso, realizar emisiones conjuntas de valores.
+Para el reconocimiento de un hijo, en la partida de nacimiento ante el Juez, se estará a lo dispuesto en el artículo 46 del presente Reglamento.
 
 ###### Artículo 60.
 
-En los actos jurídicos que documenten las emisiones conjuntas de valores, se deberán establecer separadamente las obligaciones a cargo de cada emisora, quedando expresamente prohibido a las entidades garantizar o avalar, en cualquier forma, obligaciones de las demás emisoras, en los casos en que esta Ley no los faculte expresamente para fungir como garantes, avalistas, deudores solidarios, subsidiarios o sustitutos de las entidades de que se trate.
+En caso de que el reconocimiento se haga por escritura pública, por testamento o por confesión judicial directa y expresa para autorizar el acta respectiva, se requiere:
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+I. Presentar ante el Juez del Registro Civil donde se levantó el acta de nacimiento, solicitud de registro de reconocimiento debidamente requisitada;
+
+II. Presentación de la persona reconocida;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+III. En su caso, comparecencia de quien ejerza la patria potestad o tutela del menor reconocido, a fin de que otorgue su consentimiento; el compareciente deberá presentarse con identificación oficial;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+IV. Copia certificada, de reciente expedición del acta de nacimiento de la persona que va a ser reconocida;
+
+V. (DEROGADA, G.O. 11 DE MARZO DE 2004)
+
+VI. Copia certificada del documento respectivo, mediante el cual se haya hecho el reconocimiento.
 
 ###### Artículo 61.
 
-En todo lo referente a la emisión, colocación y operación de los valores, las entidades se sujetarán a lo previsto por la Ley de Mercado de Valores y demás disposiciones legales aplicables.
+Podrán reconocer a su hijo, el padre y la madre que no vivan juntos, conviniendo en el acto, cuál de los dos ejercerá la guarda y custodia.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 62.
 
-Las garantías y avales que se otorguen para la celebración de operaciones de endeudamiento que realicen las entidades, se regirán por las disposiciones legales de la materia, así como por esta Ley y por las demás normas y disposiciones administrativas que en su caso, expidan la Secretaría y los ayuntamientos.
+Pueden reconocer a sus hijos, los que tengan la edad exigida para contraer matrimonio.
 
 ###### Artículo 63.
 
-El Estado podrá, previa autorización del Congreso, constituirse en garante, avalista, deudor solidario, subsidiario o sustituto de las entidades señaladas en las fracciones II, III, IV y V del Artículo 2 de esta Ley.
+El menor de edad podrá reconocer a un hijo, previo consentimiento de quien o quienes ejerzan sobre él la patria potestad, o de la persona bajo cuya tutela se encuentre; y a falta de dicha autorización, ésta será suplida por la autoridad jurisdiccional competente.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 64.
 
-Los Municipios podrán constituirse en garantes, avalistas, deudores solidarios, subsidiarios o sustitutos de las entidades de la administración pública paramunicipal a su cargo.
+En el caso de reconocimiento hecho con posterioridad al registro de nacimiento, se harán las anotaciones correspondientes en el acta de nacimiento primigenia y deberá levantarse nueva acta de nacimiento; por lo que, se hará en aquélla la anotación correspondiente, la cual quedará reservada y no se publicará ni se expedirá constancia alguna salvo mandato judicial.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 65.
 
-Cuando los Municipios, las entidades de la administración pública paraestatal o paramunicipal requieran el aval o garantía del Estado, la contratación de empréstitos o créditos se realizará con la autorización e intervención de la Secretaría.
+Si el reconocimiento se hiciere en lugar distinto de aquél en que se levantó el Acta de Nacimiento, el Juez que lo autorice, remitirá copia de ambas actas al Juez del Registro Civil que haya registrado el nacimiento, para que éste efectúe la anotación en el acta respectiva y haga la reserva a que se refiere el artículo anterior.
+
+DE LAS ACTAS DE ADOPCIÓN
 
 ###### Artículo 66.
 
-El Estado únicamente podrá constituirse en garante, avalista, deudor solidario, subsidiario o sustituto de los Municipios o de las entidades de la administración pública paramunicipal, en los casos en que la magnitud o el impacto social del proyecto que se pretenda financiar así lo amerite o cuando existan circunstancias extraordinarias plenamente justificadas que así lo requieran, a juicio de la Secretaría y del Congreso.
+Para autorizar el Acta de Adopción, se requiere:
+
+I. Solicitud de registro de adopción debidamente requisitada;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+II. Copia certificada de la sentencia definitiva y del auto que la declara firme; así como oficio de autoridad jurisdiccional competente que ordene el levantamiento del acta correspondiente;
+
+III. Copia certificada del Acta de Nacimiento del adoptado y del o los adoptantes; y
+
+IV. Comparecencia del o los adoptantes, así como del adoptado.
+
+Reunidos los requisitos para la autorización del acta, se harán las anotaciones en los tantos que contengan el Acta de Nacimiento, la cual quedará reservada. No se publicará ni se expedirá constancia alguna que revele el origen del adoptado ni su condición de tal, salvo providencia dictada en juicio.
+
+Se levantará el acta como si fuera de nacimiento en los mismos términos que la que se expide para los hijos consanguíneos.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 67.
 
-Los Municipios únicamente podrán constituirse en garantes, avalistas, deudores solidarios, subsidiarios o sustitutos de las entidades de la administración pública paramunicipal, en los casos en que la magnitud o el impacto social del proyecto que se pretenda financiar así lo amerite o cuando existan circunstancias extraordinarias plenamente justificadas que así lo requieran, a juicio del ayuntamiento y del Congreso.
+Si la adopción se hiciere en el mismo Juzgado en que se autorizó el Acta de Nacimiento, se procederá de inmediato a hacer la anotación correspondiente. Si la adopción se hiciere en Juzgado distinto, se dará aviso mediante escrito al Juzgado en que se haya levantado el Acta de Nacimiento, para que se efectúe la reserva correspondiente. En ambos casos, se dará aviso también mediante escrito a la Dirección y en su caso, al Archivo Judicial, para los efectos anteriormente señalados.
 
 ###### Artículo 68.
 
-Los Municipios, las entidades de la administración pública paraestatal y paramunicipal que requieran el aval o la garantía del Estado, deberán señalarlo expresamente al Poder Ejecutivo del Estado en la solicitud de autorización de endeudamiento relativa a los financiamientos correspondientes, debidamente requisitada de acuerdo a lo previsto por el Artículo 36 de esta Ley y entregar en su caso, la documentación e información complementaria que la Secretaría les requiera para el análisis respectivo.
-
-Los Municipios y las entidades de la administración pública paramunicipal que soliciten la garantía o aval del Estado, deberán contar previamente con la autorización de los ayuntamientos, para la celebración de los financiamientos para los cuales se requiera la garantía o aval respectivo y en su caso, de los órganos de gobierno, según corresponda.
+Para el caso de que sea declarada judicialmente la impugnación o revocación de la adopción, se estará a lo ordenado por la sentencia definitiva correspondiente, a fin de realizar las anotaciones o inscripciones que procedan.
 
 ###### Artículo 69.
 
-Las entidades de la administración pública paramunicipal que requieran el aval o la garantía de los Municipios, deberán señalarlo expresamente al ayuntamiento de que se trate, en la solicitud de autorización de endeudamiento relativa al o los financiamientos correspondientes, debidamente requisitada de acuerdo a lo previsto por el Artículo 36 de esta Ley y entregar en su caso, la documentación e información complementaria que el ayuntamiento correspondiente les requiera para el análisis respectivo.
+En el caso de adopción a que se refiere el artículo 410-D del Código Civil, se autorizará el Acta de Adopción insertando en ésta los datos esenciales de la resolución judicial; asimismo, se anotará en el Acta de Nacimiento del adoptado y se archivará la copia de las diligencias relativas relacionándola con el mismo número del Acta de Adopción.
 
-Las entidades de la administración pública paramunicipal que soliciten la garantía o aval de los Municipios, deberán contar previamente con la autorización de su Organo de Gobierno, para la celebración de los financiamientos para los cuales se requiera la garantía o aval respectivo.
+DE LAS ACTAS DE MATRIMONIO
 
 ###### Artículo 70.
 
-Una vez que los Municipios o las entidades de la administración pública paraestatal y paramunicipal que requieran la garantía o aval del Estado cuenten con las autorizaciones de sus órganos de gobierno, de los ayuntamientos y de la Secretaría, según corresponda, gestionarán la autorización del Congreso para la celebración de los financiamientos y el otorgamiento de las garantías o avales respectivos, apegándose a los procedimientos establecidos.
+Para contraer matrimonio se requiere:
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+I. Presentar solicitud de matrimonio debidamente requisitada ante el Juez del Registro Civil de su elección, que exprese lo señalado por los artículos 97 y 98 del Código Civil;
+
+II. Copia certificada del Acta de Nacimiento de los pretendientes, y en su caso, dictamen médico que compruebe la edad del o los contrayentes, cuando por sus aspectos físicos sea notorio que son menores de dieciséis años;
+
+III. (DEROGADA, G.O. 11 DE MARZO DE 2004)
+
+IV. Convenio sobre el régimen patrimonial a que deberán sujetarse los bienes presentes y los que se adquieran durante el matrimonio;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+V. Comprobante del domicilio que declaren los contrayentes;
+
+VI. Cuando alguno o ambos contrayentes no puedan concurrir personalmente a la celebración del acto, se deberá exhibir documento público o privado, mediante el cual se acredite la representación del o los mandatarios; dicho documento deberá estar firmado por el otorgante, aceptante y dos testigos, ratificadas las firmas ante Notario Público, Embajador, Cónsul o autoridad judicial;
+
+VII. (DEROGADA, G.O. 11 DE MARZO DE 2004)
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+VIII. Cuando uno o ambos pretendientes hayan sido casados con anterioridad, exhibirán copia certificada del Acta de Matrimonio con la inscripción del divorcio, o copia certificada del acta respectiva o copia certificada de la parte resolutiva de la sentencia de divorcio o nulidad de matrimonio y del auto que la declare firme. Para el caso de que alguno de los pretendientes sea viudo, deberá presentar copia certificada del Acta de Defunción correspondiente; y
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+IX. Cuando se trate de menores de edad, siempre que ambos hayan cumplido dieciséis años, deberán presentarse a otorgar su consentimiento:
+
+a) El padre o la madre del menor;
+
+b) A falta de padres, el tutor;
+
+c) A falta, negativa o imposibilidad de las personas mencionadas en las fracciones anteriores, el Juez de lo familiar suplirá el consentimiento.
+
+En el caso de que la contrayente sea mayor de catorce años y se encuentre embarazada, acreditando a través de certificado médico esta última circunstancia, el Juez del Registro Civil, a petición del padre o la madre podrá dispensar el requisito de la edad para celebrar el matrimonio.
+
+Todos los comparecientes deberán presentar identificación oficial.
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2004)</small>
+
+Artículo 70 bis. Los contrayentes que así lo deseen podrán anexar voluntariamente a la solicitud de matrimonio, certificado médico en el que conste su estado de salud, el cual se agregará al apéndice que se integre con motivo de dicho matrimonio. La presentación de dicho certificado no es requisito para contraer matrimonio, por lo que queda prohibido al Juez exigir la presentación de certificado alguno, si los contrayentes no lo anexan voluntariamente.
+
+Se prohíbe absolutamente al Juez, al Secretario o a los comparecientes al acto, hacer inquisición sobre los resultados del certificado médico en caso de ser anexado.
+
+Los contrayentes que así lo deseen, podrán proponer voluntariamente la presencia de testigos de honor en la celebración del matrimonio; en tal caso éstos podrán asentar su nombre y firma en la hoja previa que se entregará en el momento de la celebración del acto, pero no aparecerán en el acta de matrimonio respectiva. El Juez no podrá exigir la presencia de testigos ni su falta afectará la validez del acto.
 
 ###### Artículo 71.
 
-El Estado y los Municipios podrán, con la autorización previa del Congreso emitida mediante ley o decreto, afectar como fuente o garantía de pago, o ambas, de los financiamientos que contraten directamente o de aquellos en los que funjan como garantes, avalistas, deudores solidarios, subsidiarios o sustitutos, los bienes del dominio privado de su propiedad o sus ingresos derivados de contribuciones, cobranza de cuotas, cooperaciones, derechos, productos, aprovechamientos, participaciones federales o cualesquier otros ingresos de los que puedan disponer de conformidad con la legislación aplicable, incluidos sus accesorios. Asimismo, el Estado y los Municipios podrán afectar en los términos señalados, los derechos al cobro de los ingresos antes referidos.
+Los extranjeros que pretendan contraer matrimonio con mexicanos, deberán presentar, independientemente de lo señalado en el artículo anterior, lo siguiente:
 
-Igualmente, sujeto a las limitaciones previstas en la ley de la materia, el Estado y los Municipios podrán, con la autorización previa del Congreso emitida mediante ley o decreto, afectar como fuente o garantía de pago de financiamientos que contraten directamente, las aportaciones federales que en términos de la legislación federal sean susceptibles de afectación, incluidos sus accesorios. Asimismo, el Estado y los Municipios podrán afectar en los términos señalados, los derechos al cobro de las aportaciones federales antes referidas.
+I. Acta de nacimiento apostillada o legalizada; y en caso de que ésta se encuentre asentada en un idioma distinto al castellano, deberá acompañarse su correspondiente traducción realizada por perito traductor autorizado por el Tribunal Superior de Justicia del Distrito Federal. En caso de que no exista perito traductor autorizado por el referido Tribunal, se estará a lo dispuesto en la Ley Orgánica de dicho órgano jurisdiccional;
 
-En el caso de financiamientos cuya garantía o fuente de pago sean las aportaciones federales, los recursos correspondientes únicamente podrán destinarse a los fines previstos en la ley federal que las regula, siempre que los mismos sean, adicionalmente, considerados inversiones públicas productivas en términos de lo previsto por esta ley.
+II. Permiso vigente otorgado por la Secretaría de Gobernación; y
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+III. Comprobante de su legal estancia en el país, así como de su identidad y calidad migratoria.
 
 ###### Artículo 72.
 
-Las entidades de la administración pública paraestatal podrán, con la autorización previa de sus Órganos de Gobierno, de la Secretaría y del Congreso, emitida por éste último mediante Ley o Decreto, afectar como fuente o garantía de pago, o ambas, de los financiamientos que celebren directamente, los bienes de su propiedad o sus ingresos derivados de la cobranza de cuotas, derechos, productos o cualesquier otros ingresos de los que puedan disponer de conformidad con la legislación aplicable. Asimismo, las entidades de la administración pública paraestatal, podrán afectar en los términos señalados, los derechos al cobro de los ingresos antes referidos.
+En caso de que un extranjero obtenga de la Secretaría de Relaciones Exteriores carta de naturalización de mexicano, no será necesaria la presentación del Acta de Nacimiento del país del que es originario.
 
 ###### Artículo 73.
 
-Las entidades de la administración pública paramunicipal podrán, con la autorización previa de sus Órganos de Gobierno, de los ayuntamientos y del Congreso, emitida por éste último mediante ley o decreto, afectar como fuente o garantía de pago, o ambas, de los financiamientos que celebren directamente, los bienes de su propiedad o sus ingresos derivados de la cobranza de cuotas, derechos, productos o cualesquier otros ingresos de los que puedan disponer de conformidad con la legislación aplicable. Asimismo, las entidades de la administración pública paramunicipal podrán afectar en los términos señalados, los derechos al cobro de los ingresos antes referidos.
+Cuando ambos pretendientes sean extranjeros, deberán presentar los requisitos que señalan los artículos 70 y 71 fracciones I y III del presente Reglamento, acreditando su legal estancia en el país, así como su calidad migratoria, en términos de la Ley General de Población.
 
 ###### Artículo 74.
 
-Con excepción de los casos previstos en el Artículo 9 de esta Ley, el otorgamiento de garantías, las afectaciones de ingresos, la implementación de los mecanismos de pago y, en general, la celebración de los actos jurídicos a que se refiere este Capítulo, podrá realizarse respecto de cualesquier financiamientos ya sea que constituyan, o no, deuda pública, en términos de la misma.
+Cuando alguno o ambos contrayentes no hable o comprendan el idioma castellano, deberán presentarse acompañados por perito intérprete a su costa, que haga saber los derechos y obligaciones a que se hacen sujetos con la celebración del acto.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
+
+Para el caso de los indígenas, tienen obligación de presentar al perito intérprete, las Instituciones del Gobierno del Distrito Federal correspondientes.
 
 ###### Artículo 75.
 
-Las participaciones federales y las aportaciones federales únicamente podrán ser afectadas, en los términos del Artículo 71 de esta Ley, para el pago de obligaciones, directas o contingentes, según corresponda, que contraigan el Estado o los Municipios con autorización del Congreso e inscritas a petición de dichas entidades en el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios que lleva la Secretaría de Hacienda y Crédito Público y en el Registro de Obligaciones y Empréstitos del Estado de Morelos, en favor de la Federación, de instituciones de crédito que operen en territorio nacional, así como de personas físicas o morales de nacionalidad mexicana.
+(DEROGADO, G.O. 11 DE MARZO DE 2004)
 
-Los Municipios podrán afectar en favor del Estado las participaciones que en ingresos federales les correspondan, en los casos en que así lo acuerden, por escrito.
+DE LAS ACTAS DE DIVORCIO ADMINISTRATIVO
 
 ###### Artículo 76.
 
-La celebración de los mecanismos legales que bajo cualquier modalidad o forma, se propongan implementar las entidades, a efecto de garantizar o realizar el pago de financiamientos, deberá ser previamente autorizada por el Congreso.
+Procede el Divorcio Administrativo, cuando haya transcurrido un año o más de la celebración del matrimonio; ambos cónyuges convengan en divorciarse; sean mayores de edad; hayan liquidado la sociedad conyugal de bienes, si están casados bajo ese régimen patrimonial; la cónyuge no esté embarazada, no tengan hijos en común, o teniéndolos, sean mayores de edad, y éstos o alguno de los cónyuges no requieran alimentos.
 
-En los casos en que los mecanismos legales antes referidos se implementen bajo la forma de fideicomisos, los mismos no serán considerados, en ningún caso, parte de la administración pública paraestatal o paramunicipal.
+Cuando los interesados no puedan concurrir personalmente, podrán hacerse representar por un mandatario expreso para el acto, otorgado ante Notario Público, o bien, ratificadas las firmas ante autoridad judicial.
 
-En los casos en que los mecanismos legales que implemente el Estado como medio para cumplir obligaciones de pago a su cargo, impliquen la notificación de la afectación correspondiente y el otorgamiento de un mandato a la Tesorería de la Federación, para que entregue a una institución bancaria o fiduciaria un porcentaje de las participaciones que en ingresos federales le correspondan al Estado o de las aportaciones federales que en términos de la legislación federal sean susceptibles de afectación, ya sea bajo la forma de una instrucción irrevocable o en cualquier otra forma, los términos de dicho mandato, únicamente podrán ser modificados por el Poder Ejecutivo del Estado, si en adición al consentimiento que en su caso, deba obtener de los acreedores que correspondan, cuenta con la autorización previa del Congreso, otorgada de acuerdo a los términos establecidos en el decreto que incluya la autorización del mecanismo respectivo.
-
-En los casos en que los mecanismos legales que implementen los Municipios, como medio para cumplir obligaciones de pago a su cargo, impliquen la notificación de la afectación correspondiente y el otorgamiento de un mandato a la Secretaría para que entregue a una institución bancaria o fiduciaria un porcentaje de las participaciones que en ingresos federales le correspondan al Municipio o de las aportaciones federales que en términos de la legislación federal sean susceptibles de afectación, ya sea bajo la forma de una instrucción irrevocable o en cualquier otra forma, los términos de dicho mandato únicamente podrán ser modificados por el ayuntamiento correspondiente, si en adición al consentimiento que en su caso, deba obtener de los acreedores que correspondan, cuenta con la autorización previa del Congreso, otorgada de acuerdo a los términos establecidos en el decreto que incluya la autorización del mecanismo respectivo.
+Si se comprueba que los cónyuges no cumplen con los supuestos exigidos, el divorcio así obtenido, no producirá efectos, independientemente de las sanciones previstas en las Leyes.
 
 ###### Artículo 77.
 
-Una vez autorizada por el Congreso la celebración de los mecanismos a que hace mención el Artículo anterior, el Estado y los Municipios podrán celebrar, por conducto de sus funcionarios legalmente autorizados al efecto, los actos jurídicos y demás instrumentos legales que los formalicen.
+Para autorizar el Acta de Divorcio Administrativo, se requiere:
+
+I. Solicitud debidamente requisitada;
+
+II. Copia certificada del Acta de Matrimonio de reciente expedición;
+
+III. Declaración por escrito, bajo protesta de decir verdad, de no haber procreado hijos durante el matrimonio, o teniéndolos, sean mayores de edad y no sean acreedores alimentarios, comprobando de manera fehaciente dicha circunstancia;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+IV. Manifestación expresa y bajo protesta de decir verdad, que la divorciante no está embarazada, o Constancia Médica que acredite que ha sido sometida a intervención quirúrgica que la imposibilite definitivamente para procrear hijos;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+V. Comprobante del domicilio declarado por los divorciantes;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+VI. Si el matrimonio se contrajo bajo el régimen de sociedad conyugal y durante el matrimonio se adquirieron bienes, derechos, cargas u obligaciones, se debe presentar convenio de liquidación de la sociedad conyugal, efectuado ante autoridad jurisdiccional competente o Notario Público. En el caso, de que los solicitantes no hayan obtenido bienes, derechos, cargas u obligaciones susceptibles de liquidación lo manifestarán bajo protesta de decir verdad, bastará con su manifestación firmada y ratificada ante el Juez; y
+
+VII. En su caso, documento público mediante el cual se acredite la personalidad del o los mandatarios.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 78.
 
-El pago de obligaciones a través de mecanismos legales de garantía o fuente de pago implementados mediante la afectación de participaciones y aportaciones federales a que aluden los Artículos 76 y 77 de esta Ley, únicamente podrá ser realizado a través de dichos mecanismos, cuando las obligaciones correspondientes hayan sido previamente autorizadas por el Congreso y se encuentren inscritas en el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios que lleva la Secretaría de Hacienda y Crédito Público y en el Registro de Obligaciones y Empréstitos del Estado de Morelos.
+El Juez, previa identificación de los cónyuges, levantará un acta en la que hará constar la Solicitud de Divorcio y citará a éstos para que la ratifiquen a los quince días hábiles contados a partir del día siguiente de la autorización del acta; si así lo hicieran, el Juez los declarará divorciados.
 
 ###### Artículo 79.
 
-Las entidades no podrán, en ningún caso, otorgar mandatos irrevocables para que sus ingresos sean depositados en cuentas determinadas, abiertas en entidades financieras, si no tienen la autorización previa del Congreso del Estado. Tampoco podrán, en ningún caso, autorizar a las entidades financieras en las que tengan cuentas para que cobren, con cargo a las mismas, cantidades derivadas de financiamientos, compensen adeudos o, en cualquier forma, dispongan de los recursos correspondientes, si no tienen la autorización previa del Congreso del Estado para afectar, como garantía o fuente de pago, dichos ingresos en términos de lo previsto en esta ley.
+Una vez ratificada la voluntad de los cónyuges divorciantes, el Juez procederá a autorizar el Acta de Divorcio y efectuará la anotación respectiva en el Acta de Matrimonio de éstos.
+
+Si la autorización del Acta de Divorcio se hiciere en Juzgado distinto de aquél en que se levantó el Acta de Matrimonio, el Juez que declare el divorcio, remitirá copia del acta que autorice al Juez u Oficial que haya registrado el matrimonio para los efectos antes apuntados.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
+
+En ambos casos, se remitirá copia a la Dirección y, en su caso, al Archivo Judicial, para que fectúen (sic) la anotación en el acta respectiva.
 
 ###### Artículo 80.
 
-Las entidades a cuyo favor se otorgue alguna garantía o aval, en su caso, estarán obligadas a proporcionar a sus garantes, avalistas, deudores solidarios, subsidiarios o sustitutos la información que éstos les requieran, sobre la situación de las operaciones de deuda pública respectivas.
+Tratándose de extranjeros, deberán presentar certificación de su legal estancia en el país expedida por la Secretaría de Gobernación, y de que sus condiciones y calidad migratoria les permitan realizar el Divorcio Administrativo.
 
 ###### Artículo 81.
 
-Con excepción de los casos expresamente previstos en otras leyes, queda prohibido al Estado y a los Municipios otorgar garantía o aval fuera de los casos previstos en esta Ley. El servidor público que viole esta disposición incurrirá en responsabilidad oficial.
+En el caso de que el matrimonio haya sido celebrado en el extranjero, los divorciantes deberán acompañar, además de los requisitos que prevé el Reglamento, el Acta de Inscripción respectiva.
 
 ###### Artículo 82.
 
-El Estado, los Municipios y las entidades de la administración pública paraestatal y paramunicipal podrán, con la autorización previa del Congreso emitida mediante Ley o Decreto, contratar bajo cualquier forma legal, el otorgamiento de garantías de terceros, totales o parciales, a efecto de mejorar la calidad crediticia de los financiamientos que celebren de manera directa.
+Si dentro del término establecido, los solicitantes no se presentaran a ratificar el Acta de la Solicitud de Divorcio, se dejará sin efectos la solicitud y se procederá a testar la relativa a la de ratificación, debiéndose relacionar ambas.
+
+Los cónyuges que reiteren su decisión de divorciarse a través de la vía administrativa, podrán volver a presentar su Solicitud de Divorcio a partir del día hábil siguiente, previo cumplimiento de los requisitos señalados en este Capítulo.
 
 ###### Artículo 83.
 
-Las entidades podrán en cualquier tiempo, realizar operaciones de refinanciamiento o reestructuración, total o parcial, de los créditos o empréstitos a su cargo, con la finalidad de mejorar las condiciones de plazo, tasas de interés, garantías u otras condiciones originalmente pactadas sujetándose a las disposiciones de esta Ley.
+(DEROGADO, G.O. 11 DE MARZO DE 2004)
+
+DE LAS ACTAS DE DEFUNCIÓN
 
 ###### Artículo 84.
 
-Las entidades únicamente podrán celebrar operaciones de refinanciamiento de los empréstitos o créditos a su cargo, con la autorización previa del Congreso.
+Para autorizar el Acta de Defunción, se requiere:
+
+I. Certificado de Defunción requisitado de conformidad con la normatividad aplicable en materia de Salud;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+II. Comparencia del interesado o mandatario, con identificación oficial;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2004)</small>
+
+III. Autorización por escrito del Ministerio Público para que se realice la inhumación o cremación, siempre que se trate de muerte violenta o en vía pública;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2004)</small>
+
+IV. En su caso, autorización expedida por la Autoridad Sanitaria competente cuando así lo requiera la normativa aplicable.
 
 ###### Artículo 85.
 
-Las entidades podrán celebrar operaciones de reestructuración de los empréstitos o créditos a su cargo, cuando el objeto de las mismas sea el mejoramiento de las condiciones originales de los financiamientos consistente en la reducción del plazo, la disminución de la tasa de interés o la reducción de las garantías, sin necesidad de autorización por el Congreso. En el supuesto anterior, las entidades deberán cumplir con lo previsto en el Artículo 40 de esta Ley dentro de un plazo de quince días naturales, contados a partir de la celebración del crédito o empréstito correspondiente.
-
-Las operaciones de reestructuración que no requieran autorización del Congreso deberán ser autorizadas por los ayuntamientos en el caso de empréstitos a cargo de los Municipios o por los Órganos de Gobierno, la Secretaría y los ayuntamientos, según corresponda, en el caso de créditos a cargo de entidades de la administración pública paraestatal o paramunicipal.
+En toda autorización del Acta de Defunción, será competente el Juzgado más cercano en la Delegación donde haya tenido su residencia el fallecido o el lugar donde hubiere acaecido el deceso.
 
 ###### Artículo 86.
 
-El Estado y los Municipios podrán con la autorización previa del Congreso, celebrar operaciones de reestructuración de los empréstitos a su cargo, cuando el objeto de las mismas sea la ampliación del plazo o cualquier otra modificación o modificaciones, distintas de las señaladas en el Artículo 85.
+En la autorización de las Actas de Defunción, los Juzgados o Módulos Registrales tendrán la competencia territorial y atribuciones que le confieran las normas jurídicas aplicables, y cuando menos existirá un Juzgado de turno en cada Delegación, de conformidad con las reglas que al efecto expida la Dirección, debiendo garantizar con dichas reglas, objetividad e imparcialidad en los turnos, así como el equilibrio en las cargas de trabajo entre los distintos Juzgados.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 87.
 
-Las entidades de la administración pública paraestatal podrán, con la autorización previa de sus Órganos de Gobierno, de la Secretaría y del Congreso, celebrar operaciones de reestructuración de los créditos a su cargo, cuando el objeto de las mismas sea la ampliación del plazo o cualquier otra modificación o modificaciones, distintas de las señaladas en el Artículo 85.
+Ninguna inhumación o cremación se hará sin autorización escrita dada por el Juez, quien constatará el fallecimiento mediante Certificado de Defunción en formato expedido por la Secretaría de Salud y suscrito por médico legalmente autorizado.
+
+Para autorizar la inhumación o cremación será necesaria autorización expedida por la Autoridad Sanitaria competente, cuando el cadáver se traslade a otra entidad federativa, a otro país, o se trate de la internación del cadáver al Distrito Federal.
+
+No se procederá a la inhumación o cremación, sino hasta después de que transcurran doce horas y hasta antes de las cuarenta y ocho horas del fallecimiento, excepto en los casos que se ordene otra cosa por la autoridad que corresponda.
+
+En el caso de que el fallecimiento se relacione con una averiguación previa, el juez estará impedido de otorgar la autorización para cremar el cadáver, con la finalidad de no extinguir los elementos de prueba para el posterior esclarecimiento de los hechos que motivaron la muerte, excepto en los casos que se ordene otra cosa por la autoridad que corresponda.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 88.
 
-Las entidades de la administración pública paramunicipal podrán, con la autorización previa de sus Órganos de Gobierno, de los ayuntamientos y del Congreso, celebrar operaciones de reestructuración de los créditos a su cargo, cuando el objeto de las mismas sea la ampliación del plazo o cualquier otra modificación o modificaciones, distintas de las señaladas en el Artículo 85.
+El certificado de defunción hace prueba plena del día, hora, lugar y causas del fallecimiento, así como del sexo del fallecido.
+
+Si al momento de levantar el Acta de Defunción, se acredita con documentos públicos anteriores al deceso, que algún dato contenido en el certificado de defunción distinto de los mencionados en el párrafo anterior es incorrecto, se procederá a asentar el dato correcto en el acta correspondiente, conforme a la documentación que se acompañe, la cual se integrará al expediente respectivo.
+
+En caso de omisión de datos en el certificado de defunción, la manifestación de los datos al momento del levantamiento del acta será responsabilidad de quien los declare.
 
 ###### Artículo 89.
 
-Siempre que el objeto de una reestructuración o refinanciamiento implique la modificación de una garantía o aval, se requerirá contar con la autorización del garante, avalista, deudor solidario, subsidiario o sustituto correspondiente.
+En los casos de inundación, incendio, explosión, terremoto o cualquier otro siniestro en que no sea posible identificar el cadáver, se levantará el acta con los datos que aporte la autoridad competente, o en su caso, quien lo recogiere, expresando las señas del mismo, las de los vestidos y objetos que con él se hayan encontrado y, en general, todo lo que pueda conducir a identificar a la persona; y siempre que se alleguen mayores datos, se comunicarán al Juez para que los anote en el acta.
+
+DE LAS ACTAS EXTEMPORÁNEAS DE DEFUNCIÓN
 
 ###### Artículo 90.
 
-Las operaciones de refinanciamiento y reestructuración de deuda pública a que se refiere este capítulo, estarán sujetas a los requisitos de información y registro previstos en esta Ley.
+Se considera registro extemporáneo de defunción, aquél que se efectúe con posterioridad a los siete días hábiles, contados a partir del momento en que ocurrió el fallecimiento.
 
 ###### Artículo 91.
 
-Queda prohibida la celebración de operaciones de consolidación de deuda, respecto de obligaciones contraídas en términos de lo previsto por el Artículo 9 de esta Ley. Se entiende por consolidación, la conversión de deuda de corto plazo contraída por las entidades, en términos de lo previsto por el Artículo 9 precitado, en deuda de largo plazo.
+Los registros extemporáneos de defunción, serán notificados al Titular mediante escrito del Juez de la Delegación en donde hubiere tenido su residencia o acaecido el deceso del finado.
 
 ###### Artículo 92.
 
-La deuda pública contratada por el Estado y por los Municipios para la ejecución de obras, adquisición o manufactura de bienes o prestación de servicios, cuyo uso o explotación se enajene o se concesione con posterioridad, podrá subrogarse, en los casos en que así lo consideren conveniente el Poder Ejecutivo del Estado o los ayuntamientos respectivos, al adquirente o al concesionario, a partir de la fecha de enajenación o del otorgamiento de la concesión, en los términos y condiciones que la misma establezca.
+El Juez se asegurará del fallecimiento, por cualquiera de los siguientes medios:
+
+I. Certificado de Defunción requisitado de conformidad con la normatividad aplicable en materia de Salud;
+
+II. Constancias documentales expedidas por la Dirección General Jurídica y de Estudios Legislativos, de acuerdo a lo dispuesto en la fracción XVIII del artículo 114 del Reglamento Interior de la Administración Pública del Distrito Federal; y
+
+III. Las constancias relativas al último domicilio que en vida tenía el fallecido.
+
+En caso de no contar con la documentación anterior, el Juez se abstendrá de autorizar el registro y lo hará del conocimiento del Ministerio Público para los efectos legales a que haya lugar.
 
 ###### Artículo 93.
 
-En los casos de subrogación a los que se refiere el párrafo que precede, al enajenar un activo u otorgar una concesión, se deberá proceder a la sustitución de las garantías otorgadas por el Estado o el Municipio de que se trate, por las que ponga a disposición el adquirente o concesionario, salvo en aquellos casos en que las garantías originales de los créditos sean los propios bienes, sus rendimientos, o los ingresos derivados de la prestación de los servicios objeto de la enajenación o concesión.
-
-En ningún caso podrán permanecer o darse como garantía de créditos que se subroguen o adquieran con motivo de una enajenación o concesión a particulares, las participaciones en ingresos federales y otros ingresos que no provengan de la prestación de los servicios objeto de la enajenación o concesión.
+El término para la autorización del Acta Extemporánea de Defunción será de un año contado a partir de los siete días hábiles que se computarán desde el momento en que ocurrió el fallecimiento, o de la orden de autoridad judicial que lo indique; transcurrido dicho término, deberá ordenarse por la autoridad judicial competente.
 
 ###### Artículo 94.
 
-En el Registro de Obligaciones y Empréstitos del Estado de Morelos se inscribirán, para efectos declarativos, a solicitud de las entidades, los financiamientos que constituyan deuda pública, directa o contingente, contraídos por las mismas conforme a lo establecido en esta Ley.
+Cuando una persona falleciere en lugar distinto a su domicilio, se remitirá al Juez u Oficial del Registro Civil más cercano a su domicilio copia certificada del acta para que se asiente en el libro respectivo.
 
-La inscripción en el Registro de Obligaciones y Empréstitos del Estado de Morelos, es independiente de aquella que las entidades deban realizar, conforme a la legislación aplicable, en el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios de la Secretaría de Hacienda y Crédito Público y de las inscripciones en los registros que de acuerdo a lo previsto en esta Ley, lleven cada una de las entidades.
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 95.
 
-Para que proceda la inscripción de los financiamientos en el Registro de Obligaciones y Empréstitos del Estado de Morelos, se deberá cumplir con los siguientes requisitos:
+Para autorizar la inscripción de un acta de defunción expedida en alguna Entidad Federativa de la República Mexicana se requiere:
 
-I.- Que la entidad solicitante, bajo protesta de decir verdad, manifieste que se trata de obligaciones pagaderas en México y en moneda nacional, contraídas con la Federación, con instituciones de crédito que operen en territorio nacional o con personas físicas o morales de nacionalidad mexicana, conforme a las bases establecidas en esta Ley, por los conceptos y hasta por los montos autorizados conforme a la misma.
+I. Copia certificada del acta de Defunción a inscribir;
 
-Tratándose de obligaciones que se hagan constar en títulos de crédito nominativos, se incluya en el texto de los mismos que sólo podrán ser negociados dentro del territorio nacional con la Federación, con las instituciones de crédito que operen en territorio nacional o con personas físicas o morales de nacionalidad mexicana;
+II. Autorización para el traslado del cadáver expedida por autoridad competente del lugar donde se levantó el acta a inscribir;
 
-II.- Que la entidad solicitante acredite en su caso, que el Congreso autorizó, previamente a su celebración, la obligación correspondiente;
+III. Autorización para la internación a la Ciudad de México del cadáver, expedida por autoridad competente;
 
-III.- Que la entidad solicitante acredite la publicación, de acuerdo a lo establecido en los Artículos 13 fracción XXVIII, 15 fracción XXIX y 18 fracción XXI de esta Ley, de la información fiscal y financiera que la entidad solicitante considere relevante. Para tal efecto, al momento de entregar la solicitud, deberá presentarse copia de la publicación de la información correspondiente al año calendario precedente al de la solicitud de inscripción y de estar disponible, la del primer semestre del año en que se realice la solicitud de inscripción; y
+IV. Identificación oficial del declarante, y
 
-IV.- Que la entidad solicitante acredite que se encuentra al corriente en el pago de los empréstitos o créditos que tenga contratados a la fecha de la solicitud de inscripción.
+V. Pago de los derechos correspondientes.
 
-Además de lo señalado en este Artículo, a la solicitud de inscripción que se presente, se deberá acompañar la documentación a que se refiere el Artículo 96 siguiente.
+En caso de no contar con la documentación anterior, el Juez se abstendrá de autorizar la inscripción e inhumación o cremación del cadáver y de advertirse algún ilícito, lo hará del conocimiento del Ministerio Público para los efectos legales a que haya lugar.
 
-### Capítulo Séptimo. De las Operaciones de Refinanciamiento y Reestructuración de la Deuda Pública
+El juez podrá autorizar el cambio de panteón, horno crematorio, inhumación o cremación del cadáver, siempre que medie solicitud por escrito de quien acredite interés jurídico, haciendo constar tal autorización en vía de nota en el acta de inscripción.
+
+Lo anterior, siempre y cuando la muerte no sea violenta o (sic) ocurrida en la vía pública; en tal caso, se requerirá autorización de la autoridad investigadora.
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2004)</small>
+
+Artículo 95 bis. Para autorizar la inscripción de una acta de defunción expedida en el extranjero, se requiere:
+
+> <small>(REFORMADA, G.O. 19 DE ABRIL DE 2006)</small>
+
+I. Copia certificada el acta de Defunción a inscribir apostillada o legalizada por el funcionario que autorice la Ley del Servicio Exterior Mexicano; si está asentada en idioma distinto al castellano, deberá acompañarse su correspondiente traducción certificada por la oficina consular de México en el extranjero o bien, traducción realizada por perito traductor autorizado por el Tribunal Superior de Justicia del Distrito Federal. En caso de que no exista perito traductor autorizado por el referido tribunal, se estará a lo dispuesto en la Ley Orgánica de dicho órgano jurisdiccional;
+
+II. Autorización para el traslado del cadáver expedida por autoridad competente del lugar donde se levantó el acta a inscribir;
+
+III. Autorización para la internación a la Ciudad de México del cadáver expedida por autoridad competente;
+
+IV. Comparencia del interesado con identificación oficial, y
+
+V. Pago de los derechos correspondientes.
+
+De no contar con la documentación anterior, el Juez se abstendrá de autorizar la inscripción e inhumación o cremación del cadáver y de advertirse algún ilícito lo hará del conocimiento del Ministerio Público para los efectos legales a que haya lugar.
+
+El juez podrá autorizar el cambio de panteón, horno crematorio, inhumación o cremación del cadáver, siempre que medie solicitud por escrito de quien acredite interés jurídico, haciendo constar tal autorización en vía de nota en el acta de inscripción.
+
+Lo anterior, siempre y cuando la muerte no sea violenta o (sic) ocurrida en la vía pública, en tal caso se requerirá autorización de la autoridad investigadora.
+
+### CAPÍTULO VII. DE LA ACLARACIÓN DE LAS ACTAS DEL ESTADO CIVIL
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 96.
 
-Las solicitudes de inscripción en el Registro de Obligaciones y Empréstitos del Estado de Morelos, deberán incluir un resumen de los principales datos del financiamiento cuya inscripción se solicite y deberán acompañarse de un ejemplar en fotocopia del instrumento o instrumentos jurídicos en los que se haga constar la obligación directa o contingente cuya inscripción se solicite.
+La aclaración de las actas del estado civil de las personas, procede cuando en el levantamiento del acta correspondiente, existan errores mecanográficos, ortográficos, o de otra índole, que no afecten los datos esenciales de aquéllas. Debe tramitarse únicamente ante la Dirección, de conformidad con lo previsto por el artículo 138 Bis del Código Civil.
 
 ###### Artículo 97.
 
-La Secretaría, una vez cumplidos los requisitos a que se refiere este capítulo, procederá a la inscripción solicitada y notificará a la entidad solicitante lo conducente. Si no se cumplen los requisitos para la inscripción, la propia Secretaría lo notificará a la entidad solicitante para que, en su caso, subsane la omisión en un término no mayor de diez días hábiles contados a partir de la recepción de la notificación.
+Pueden pedir la aclaración de un acta del estado civil:
+
+I. El registrado;
+
+II. Las personas que se mencionan en el acta como relacionadas con el estado civil de alguno;
+
+III. Los herederos de las personas comprendidas en las dos fracciones anteriores;
+
+IV. Los que de conformidad con los artículos 348, 349 y 350 del Código Civil pueden continuar o intentar la acción de que en ellos se trata;
+
+V. Los que ejerzan la patria potestad o tutela; y
+
+VI. El mandatario expreso para el acto mediante poder simple o notarial, o quien acredite un interés jurídico.
 
 ###### Artículo 98.
 
-En la inscripción al registro se anotará lo siguiente:
+Para los efectos del presente Reglamento, los extremos a que se refiere el artículo 138 Bis del Código Civil se entenderán como:
 
-I.- El número y fecha de inscripción; y
+I. Errores mecanográficos: Los manchones, imprecisiones, letras o números encimados, enlazados o remarcados, realizados por el sistema que se haya utilizado para el llenado de las Formas que no afecten datos esenciales del registro;
 
-II.- Las principales características y condiciones del financiamiento de que se trate.
+II. Errores ortográficos: Por regla general los nombres incorrectamente escritos acordes con el acertado empleo de las letras, de los signos de la escritura y gramática, y por excepción, en contra de las reglas ortográficas, en virtud del uso del nombre; y
+
+III. Errores de otra índole:
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
+
+a) Las omisiones o errores en: fechas de nacimiento, defunción, o de registro; así como de nombres, apellidos o preposiciones del nombre que se adviertan del cotejo efectuado con los expedientes formados con motivo del levantamiento del acta que se pretende aclarar que se encuentren en resguardo de los archivos del Registro Civil o con documental pública;
+
+b) Aquellos hechos o actos asentados de imposible realización en tiempo, lugar o circunstancia;
+
+c) La supresión o inclusión de la conjunción copulativa entre los apellidos paterno y materno de la persona de que se trate;
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
+
+d) La aclaración en las actas del estado civil de los descendientes, cuando sus ascendientes hayan rectificado o aclarado sus respectivas actas de nacimiento, respecto de los datos aclarados o rectificados;
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
+
+e) Cualquier error contenido en el acta de defunción, cuando se acredite con documentos públicos anteriores al deceso, que los datos contenidos en el certificado de defunción son incorrectos;
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
+
+f) Cuando en el Acta de Nacimiento aparezca una fecha distinta a la del alumbramiento y se acredite con el certificado de nacimiento o la constancia de parto;
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2004)</small>
+
+g) La indicación equivocada de sexo, cuando no haya duda sobre la identidad del nacido por las demás circunstancias de la inscripción y se acredite con el certificado de nacimiento o la constancia de parto;
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2004)</small>
+
+h) La aclaración en las actas de matrimonio, divorcio administrativo o defunción, cuando el solicitante haya rectificado o aclarado su acta de nacimiento, respecto de los datos aclarados o rectificados;
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2004)</small>
+
+i) Cuando se trate de meras discrepancias entre el duplicado y el libro original;
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2004)</small>
+
+j) El uso de abreviaturas o guarismos no permitidos, el empleo de idioma distinto al español, la difícil legibilidad de caracteres, así como la defectuosa expresión de conceptos, cuando por el contexto de la inscripción o de otras inscripciones no haya duda de su contenido.
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2004)</small>
+
+Artículo 98 bis.- El trámite de aclaración de actas del registro civil se ajustará a lo siguiente:
+
+I. El interesado deberá llenar y suscribir el formato de solicitud de aclaración conforme al formato que le proporcione el Registro Civil.
+
+Tratándose de menores de edad la solicitud deberá suscribirse por quien ejerza la patria potestad o tutela. En caso de aclaración de actas de matrimonio, la solicitud deberá ser suscrita por ambos cónyuges.
+
+El formato de solicitud también podrá ser llenado y suscrito por mandatario especial cuyo mandato conste, al menos en carta poder firmada ante dos testigos.
+
+II. Presentar la solicitud, personalmente o por conducto de su mandatario en la Oficina Central del Registro Civil y anexar la siguiente documentación:
+
+a) Identificación oficial con fotografía del interesado y del mandatario, en su caso;
+
+b) En su caso, documento que acredite la calidad del Mandatario;
+
+c) Copia certificada de reciente expedición del acta que se desea aclarar, y
+
+d) La documentación probatoria de los datos que se quieren aclarar, enumerándola y describiéndola.
+
+III. Recibida la solicitud, se le asignará un número progresivo y se le entregará al solicitante citatorio para que comparezca a la Oficina a notificarse de la resolución el día y hora que al efecto se señale.
+
+Ningún servidor público encargado de la recepción de las solicitudes podrá negarse a recibirlas.
+
+IV. El Registro Civil procederá al análisis de la solicitud y sus anexos y de estimar procedente la aclaración proveerá lo conducente, dejando a salvo los derechos de terceros.
+
+En caso de que se estimara que falta algún requisito o documento para la procedencia de la aclaración, se requerirá al interesado o al mandatario por una sola vez, para que proporcione la información o documento faltante, debiendo señalar las razones del requerimiento y apercibiéndolo que de no presentar la documentación en un plazo que no exceda de diez días hábiles a partir de la notificación, se declarará improcedente la aclaración. Se le entregará copia del requerimiento y cumplido que sea, se proveerá lo conducente.
+
+En caso de que la aclaración se declare improcedente, se dejarán a salvo los derechos del interesado para hacerlos valer ante el juez de lo familiar competente.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 99.
 
-La inscripción de obligaciones, créditos y empréstitos en el registro, sólo podrá modificarse previa solicitud de la entidad interesada, a la cual se deberá acompañar un ejemplar en fotocopia del instrumento jurídico en el que se haga constar la modificación de la obligación y la declaratoria, bajo protesta de decir verdad, de que se ha cumplido con los requisitos legales necesarios para realizarla.
+Sólo son admisibles como medios de prueba para el trámite de aclaración las documentales públicas o privadas, que acrediten fehacientemente la procedencia de la aclaración.
+
+A efecto de mejor proveer, la Dirección queda facultada para allegarse de los elementos de convicción que estime pertinentes para determinar la procedencia de la aclaración.
+
+Con la resolución administrativa de aclaración de Acta, se ordenará que se hagan las anotaciones correspondientes.
 
 ###### Artículo 100.
 
-Las entidades deberán informar semestralmente a la Secretaría, la situación que guarden sus obligaciones inscritas en el registro.
-
-Al efectuarse el pago total de una obligación inscrita en el registro, la entidad de que se trate, deberá informarlo a la Secretaría, presentando la documentación respectiva, para que se proceda a la cancelación de la inscripción correspondiente.
+El expediente o apéndice de las actas del estado civil de las personas que obren en los archivos del Registro Civil, así como los que se encuentren bajo el resguardo del Archivo Judicial, se tomarán como medios de prueba en el procedimiento de aclaración administrativa.
 
 ###### Artículo 101.
 
-La Secretaría proporcionará a las entidades, a los acreditantes de éstas o a sus legítimos representantes, las certificaciones procedentes que soliciten respecto a las obligaciones inscritas en el registro.
-
-Con base en los datos del registro, la Secretaría podrá dar a conocer información agregada de las obligaciones crediticias de las entidades.
+En el procedimiento de aclaración administrativa de las actas del estado civil de las personas, el interesado deberá presentar copia certificada de reciente expedición a la fecha en que ingrese su solicitud.
 
 ###### Artículo 102.
 
-La Secretaría proporcionará la información relativa a los registros de la deuda pública que consten en el registro y que correspondan a financiamientos celebrados por las entidades a las instituciones calificadoras de valores contratadas por las mismas, para calificar su calidad crediticia o la de los valores que en su caso emitan, cuando estas así lo soliciten.
+No podrán expedirse copias certificadas de las actas del estado civil de las personas que contengan alteraciones que cambien en éstas los datos esenciales o accidentales, ya sea añadiendo, enmendando o borrando en todo o en parte una o más palabras, números o signos.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2009)</small>
+Lo anterior, sin perjuicio de las responsabilidades que sean determinadas por la autoridad correspondiente.
 
-### Capítulo Octavo. De la Subrogación de la Deuda Pública Derivada de Activos que se Enajenen o Concesionen
+### CAPÍTULO VIII. DE LAS INSCRIPCIONES
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 103.
 
-El objeto del presente Capítulo es normar y establecer las bases a que deberán sujetarse el Poder Ejecutivo del Estado de Morelos y sus municipios, para contraer obligaciones o celebrar empréstitos o créditos que deriven del crédito público y que en términos de lo previsto por esta Ley, constituyan deuda pública, en esquemas globales de financiamiento, en los que se involucren dos o más municipios del Estado o bien, el Estado y dos o más de sus municipios.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+Las inscripciones que señalan los artículos 35 y 180 del Código Civil, así como el numeral 166 de la Ley del Notariado del Distrito Federal, se tramitarán ante la Dirección, transcribiendo los puntos resolutivos de la sentencia judicial firme o la parte relativa de la escritura pública que los contenga.
 
 ###### Artículo 104.
 
-En lo no previsto en el presente Capítulo se aplicará lo establecido en las demás disposiciones de la presente Ley.
+Se inscribirán ante la Dirección, la rectificación, modificación y aclaración de las actas del estado civil de las personas que señalan los artículos 134 y 138 Bis del Código Civil.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 105.
 
-Además de las disposiciones establecidas en el artículo 3 de la presente Ley, para efectos del presente Capítulo se entenderá por:
+Las inscripciones de hechos o actos del estado civil de los habitantes del Distrito Federal, ocurridos en el extranjero, se inscribirán ante el Juez Central, mismas que deberán contener la trascripción íntegra del documento presentado, el cual deberá presentarse debidamente apostillada o legalizada, en caso de estar redactado éste en idioma distinto al castellano, se requerirá traducción realizada por perito autorizado por el Tribunal Superior de Justicia del Distrito Federal.
 
-I.- Esquemas globales de financiamiento: Las operaciones de Deuda Pública que se promuevan por dos o más municipios del Estado, o bien, el Estado y dos o más de sus municipios, a favor del propio Estado en su caso, y de todos los municipios del Estado para la instrumentación de estructuras jurídico - financieras calificadas, para la obtención de mejores condiciones de financiamiento a su favor, respondiendo cada entidad por las obligaciones de deuda que, en su caso considere conveniente contraer, y
+Tratándose de divorcios ocurridos en el extranjero, además de los requisitos antes señalados, la resolución que ordene el divorcio deberá presentarse debidamente homologada por el Tribunal Superior de Justicia del Distrito Federal.
 
-II.- Autorización global: La autorización a que se refiere (sic) fracción X del artículo 40 de la Constitución Política del Estado Libre y Soberano de Morelos, cuando ésta se expida en un sólo decreto para el Poder Ejecutivo del Estado y dos o más de sus municipios, o solamente para dos o más municipios, para la instrumentación de esquemas globales de financiamiento.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 106.
 
-Para efectos de lo establecido en el presente Capítulo, el Congreso podrá autorizar los actos a que se refieren las fracciones II, III, V, VII, IX, X y XII del artículo 12 de la presente Ley, a través de Decretos de Autorización Global.
+Una vez recibida por la Dirección la sentencia firme que ordene la inscripción o anotación que corresponda, se verificará que ésta cumpla con los requisitos de Ley, remitiéndose por escrito la misma al Juzgado respectivo para que el Juez, de resultar procedente, efectúe la inscripción o anotación en el acta correspondiente y envíe un ejemplar a la Oficina Central y otro, en su caso, al Archivo Judicial para los efectos conducentes.
 
-La solicitud que realice el Poder Ejecutivo del Estado con cuando menos dos o más municipios, o dos o más municipios conjuntamente, para instrumentar un esquema global de financiamiento, se realizará a través de una iniciativa con proyecto de decreto que deberá contener como mínimo lo siguiente:
-
-I.- La información relativa al crédito o empréstito que sea susceptible de celebrar cada entidad de que se trate, indicando, según resulte aplicable: monto, destino, plazo máximo, mecanismo de pago, los derechos e ingresos que serán afectados en garantía o fuente de pago para respaldar el cumplimiento de las obligaciones de los créditos que contraten, y demás datos que en su caso, se consideren relevantes;
-
-II.- La información que permita determinar la capacidad de pago de las entidades involucradas en la autorización y la necesidad debidamente razonada de la inversión que se pretenda realizar, o destino que se pretenda dar a los recursos provenientes del financiamiento. Tratándose de reestructuraciones o refinanciamientos para los que se requiera autorización del Congreso, se deberán señalar de manera general, los beneficios que se espera lograr en caso de realizarse la reestructuración o refinanciamiento correspondientes;
-
-III.- En su caso, la solicitud de dos o más municipios hacia el Estado para efectos de que concurran conjuntamente a realizar la solicitud de autorización global ante el Congreso; dicha solicitud deberá emitirse por acuerdo de los Ayuntamientos, y
-
-IV.- El proyecto de reformas y/o adiciones a la Ley de Ingresos del Estado y a las Leyes de Ingresos de los Municipios, según corresponda, así como la mención de entrada en vigor de dichas reformas y/o adiciones en la fecha en la que se perfeccione por cada entidad el acto de endeudamiento, que en su caso se celebre.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 107.
 
-El titular del Poder Ejecutivo del Estado podrá promover la iniciativa a que se refiere el artículo 106 de la presente Ley, cuando dos o más municipios del Estado se lo soliciten. Por su parte dos o más municipios también podrán promover de manera conjunta dicha iniciativa.
+El Juez dará aviso por escrito al órgano jurisdiccional competente y al Titular cuando se ejecute en lo conducente la sentencia firme.
 
-Únicamente los municipios que promuevan la iniciativa de decreto, requerirán previamente la autorización de sus Ayuntamientos, sin embargo, en caso de que el Congreso apruebe el proyecto de iniciativa y emita el Decreto de Autorización Global, cada municipio que decida adherirse deberá obtener la autorización de su Ayuntamiento, previamente a la celebración de los actos jurídicos que impliquen el esquema global de financiamiento que se contenga en el Decreto. Cuando las operaciones que se pretendan realizar, comprometan al municipio por un plazo mayor al período para el que fue electo, el Ayuntamiento deberá contar con el acuerdo de las dos terceras partes de sus miembros.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+En el caso de que la inscripción o anotación que corresponda, no proceda o no pueda realizarse, el Juez dará aviso por escrito al órgano jurisdiccional competente y al Titular, señalando las causas por las cuales no pueda realizar la inscripción o anotación que corresponda.
 
 ###### Artículo 108.
 
-Los Municipios incluidos en el Decreto de Autorización Global que expida el Congreso podrán, si así lo consideran conveniente, adherirse al esquema global de financiamiento promovido por el Poder Ejecutivo del Estado con cuando menos dos municipios o conjuntamente promovido por dos o más municipios, con la afectación en garantía o fuente de pago de sus respectivos derechos e ingresos derivados de sus participaciones y/o aportaciones federales susceptibles de afectar en términos de la legislación aplicable, celebrando los actos jurídicos autorizados por el Congreso que deban formalizarse para garantizar o pagar las obligaciones derivadas de los financiamientos que decidan contratar, siempre que previamente a la formalización de los actos jurídicos que se requieran formalizar, cuenten con la aprobación de sus respectivos Ayuntamientos.
+Las inscripciones de hechos o actos del estado civil de las personas, a que se refiere el presente Capítulo, se deberán relacionar y autorizar en las Actas a que se refiere el presente Reglamento.
 
-En caso de que el Decreto de Autorización Global autorice que el Estado funja como aval de los municipios, éstos también deberán contar con la autorización de la Secretaría.
+De manera conjunta, el Juez observará lo dispuesto en el artículo 57 del presente Reglamento.
 
-Ante las solicitudes de autorización, la Secretaría o el Ayuntamiento respectivo, comunicarán oficialmente su resolución a los solicitantes, dentro de los veinte días hábiles siguientes a la fecha en que reciban la solicitud de que se trate, precisando, las características y condiciones bajo las cuales se podrá contratar el financiamiento o se otorgará el aval respectivo.
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2004)</small>
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+Artículo 108 BIS.- Para los efectos del artículo 89 del Código Civil, para realizar la anotación en las actas de nacimiento o matrimonio, si el pupilo es casado, se requiere:
 
-### Capítulo Noveno. Del Registro de Obligaciones y Empréstitos del Estado de Morelos
+I. Copia certificada del auto de discernimiento de la tutela;
+
+II. Oficio por el cual, el juez que dicto el auto de discernimiento de la tutela, ordena el asentamiento de la inscripción en el acta de nacimiento o matrimonio del pupilo según sea el caso.
+
+### CAPÍTULO IX. DE LA REPOSICIÓN DE LAS ACTAS DEL ESTADO CIVIL
 
 ###### Artículo 109.
 
-La celebración de los mecanismos legales que bajo cualquier modalidad o forma, se propongan implementar las entidades a que se refiere este Capítulo, a efecto de garantizar o realizar el pago de sus respectivos financiamientos dentro de los esquemas globales de financiamiento, deberá ser previamente autorizada por el Congreso. En caso de que los mecanismos legales a que se refiere este artículo se perfeccionen a través de la constitución de un fideicomiso, éste podrá ser también utilizado como medio de captación de la totalidad de las participaciones o aportaciones federales que en términos de la legislación aplicable sean susceptibles de afectación, mismo que podrá constituir el Poder Ejecutivo al cual se puedan adherir los municipios que les resulte conveniente y cuenten con las respectivas autorizaciones.
-
-T R A N S I T O R I O S
-
-Artículo Primero.- La presente Ley entrará en vigor a los treinta días naturales siguientes al de su Publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
-
-Artículo Segundo.- Se abroga la Ley de Deuda Pública para el Estado de Morelos de fecha 19 de enero de 1995, publicada en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos, Número 3729, el día 1º. de febrero del mismo año.
-
-Artículo Tercero.- Se abroga el Reglamento del Registro de la Deuda Pública del Estado de Morelos de fecha 20 de marzo del año 2000, publicado en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos, Número 4045, el día 19 de abril del mismo año.
-
-Artículo Cuarto.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o de cualquier forma contravengan lo previsto en la presente Ley.
-
-Artículo Quinto.- Los empréstitos o créditos; el otorgamiento de garantías y avales; y, en general, cualesquier actos jurídicos, principales o accesorios, en materia de deuda pública, que se celebren al amparo de autorizaciones del Congreso del Estado otorgadas con anterioridad a la fecha de entrada en vigor de esta Ley, se regirán por la Ley de Deuda Pública para el Estado de Morelos vigente en la fecha de su autorización.
-
-Artículo Sexto.- La modificación de los mecanismos legales que bajo cualquier modalidad o forma, se hubiesen celebrado por las entidades con anterioridad a la fecha de entrada en vigor de esta ley a efecto de garantizar o realizar el pago de financiamientos, no requerirá de la autorización del Congreso.
-
-La modificación de los mandatos otorgados a la Tesorería de la Federación, bajo la forma de instrucciones irrevocables o en cualquier otra forma, celebrados, otorgados o notificados con anterioridad a la fecha de entrada en vigor de esta Ley, no estará sujeta a lo previsto en el Artículo 75 segundo y tercer párrafos de la misma, debiendo regirse para su modificación por la legislación y los decretos correspondientes a su autorización.
-
-Artículo Séptimo.- Las entidades a que se refiere el Artículo 2 de esta Ley, deberán inscribir todos sus empréstitos o créditos vigentes en el Registro de Obligaciones y Empréstitos del Estado de Morelos, dentro de un plazo de noventa días a partir de la fecha de su publicación.
-
-Recinto Legislativo al primer día del mes de julio de dos mil ocho.
-
-ATENTAMENTE.
-
-"SUFRAGIO EFECTIVO. NO REELECCIÓN". LOS CC. DIPUTADOS INTEGRANTES DE LA MESA DIRECTIVA DEL CONGRESO DEL ESTADO.
-
-DIP. MARTHA PATRICIA FRANCO GUTIÉRREZ
-
-PRESIDENTA
-
-DIP. PEDRO DELGADO SALGADO
-
-VICEPRESIDENTE
-
-DIP. FRANCISCO LEÓN Y VÉLEZ RIVERA
-
-SECRETARIO
-
-DIP. JAIME SÁNCHEZ VÉLEZ
-
-SECRETARIO
-
-RÚBRICAS.
-
-Por tanto mando se imprima, publique circule y se le dé el debido cumplimiento.
-
-Dado en la Residencia del Poder Ejecutivo en la Ciudad de Cuernavaca, Capital del Estado de Morelos, a los catorce días del mes de Julio de dos mil ocho.
-
-"SUFRAGIO EFECTIVO. NO REELECCIÓN".
-
-GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS
-
-DR. MARCO ANTONIO ADAME CASTILLO
-
-SECRETARIO DE GOBIERNO
-
-LIC. SERGIO ALVAREZ MATA RÚBRICAS.
-
-RÚBRICAS.
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
-
-P.O. 5 DE NOVIEMBRE DE 2008.
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
-
-###### ARTÍCULO SEGUNDO.
-
-Remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos previstos en los artículos 44 y 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
-
-###### ARTÍCULO TERCERO.
-
-Para los efectos del reglamento del Congreso del estado la presente reforma entrará en vigor el mismo día de su aprobación por el Pleno de la Asamblea.
-
-P.O. 30 DE DICIEMBRE DE 2009.
-
-###### ARTÍCULO PRIMERO.
-
-Remítase al titular del Poder Ejecutivo para su promulgación y publicación en el Periódico Oficial, "Tierra y Libertad" Órgano de difusión del Gobierno del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-El presente decreto, entrará en vigor al día siguiente de su publicación.
-
-P.O. 31 DE DICIEMBRE DE 2014.
-
-PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
-
-SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
-
-P.O. 8 DE DICIEMBRE DE 2015.
+Procederá la reposición de las actas del estado civil de las personas, en términos de lo dispuesto por el artículo 38 del Código Civil.
 
 ###### Artículo 110.
 
@@ -1122,9 +1492,7 @@ Una vez realizada la reposición del acta correspondiente, en su caso, el Juez t
 
 En los casos de las actas del estado civil de las personas que se pierdan, destruyan o mutilen y no exista, además el libro que obra en el Archivo Judicial o en el Juzgado correspondiente, podrán reponerse de conformidad con lo señalado en los artículos 39 y 40 del Código Civil.
 
-### Capítulo Décimo. De la solicitud, autorización, contratación, garantías y pago en esquemas globales de financiamiento
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+### CAPÍTULO X. DE LOS ARCHIVOS DEL REGISTRO CIVIL
 
 ###### Artículo 113.
 
@@ -1134,9 +1502,11 @@ Los archivos del Registro Civil, son considerados repositorios de la memoria de 
 
 Los archivos del Registro Civil se dividirán en sustantivos y de gestión; los sustantivos serán todas las actas del estado civil de las personas autorizadas por los Jueces, así como los documentos y apuntes que con ellas se relacionen; y de gestión, toda la documentación generada por las unidades administrativas de la Dirección y Juzgados, para este efecto se contará con instalaciones adecuadas para resguardar la documentación que conforman los fondos sustantivos y de gestión durante las tres edades del documento.
 
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
+
 ###### Artículo 115.
 
-Toda persona puede pedir testimonio de las actas del estado civil de las personas, así como de los apuntes y documentos con ellas relacionados que obren en los archivos, y el Juez estará obligado a expedirlo.
+Toda persona puede pedir testimonio o extracto de las actas del estado civil de las personas, así como de los apuntes y documentos con ellas relacionados que obren en los archivos, y el Juez estará obligado a expedirlos; excepto de las resoluciones judiciales o instrumentos notariales, de los cuales únicamente se podrá expedir copia certificada mediante mandamiento Judicial.
 
 ###### Artículo 116.
 
@@ -1172,7 +1542,7 @@ PRIMERO.- El presente Reglamento entrará en vigor a los treinta días naturales
 
 SEGUNDO.- A la entrada en vigor del presente Reglamento queda abrogado el Reglamento del Registro Civil publicado en el Diario Oficial de la Federación el veintiuno de septiembre de mil novecientos ochenta y siete.
 
-TERCERO.- Se abrogan todas (sic) los ordenamientos jurídicos y administrativos de jerarquía igual o inferior y que se opongan al presente Reglamento.
+TERCERO.- Se abrogan todas(sic) los ordenamientos jurídicos y administrativos de jerarquía igual o inferior y que se opongan al presente Reglamento.
 
 CUARTO.- El Manual de Organización del Registro Civil, deberá expedirse dentro de los ciento veinte días siguientes a la entrada en vigor del presente Reglamento.
 
@@ -1189,6 +1559,24 @@ OCTAVO.- Los Secretarios, que a la entrada en vigor del presente Reglamento se e
 NOVENO.- Publíquese el presente Reglamento en la Gaceta Oficial del Distrito Federal.
 
 Dado en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México a los veintiocho días del mes de julio del año dos mil dos.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ AGUSTÍN ORTÍZ PINCHETTI.- FIRMA.- LA SECRETARIA DE SALUD, ASA EBBA CHRISTINA LAURELL.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 11 DE MARZO DE 2004.
+
+Primero.- El presente Decreto entrará en vigor el 13 de marzo de 2004.
+
+Segundo.- Se derogan todos los ordenamientos jurídicos y administrativos de jerarquía igual o inferior y que se opongan al presente decreto.
+
+Tercero.- La expedición de los extractos a que se refiere este Reglamento queda sujeta a los plazos y procedimientos que establezca el titular.
+
+Cuarto.- En tanto se realizan los cambios a las Formas del Registro Civil para adecuarse al contenido del presente decreto, continuarán utilizándose las existentes en el Registro Civil, debiéndose testar los espacios que ya no deban utilizarse en virtud de lo dispuesto por este decreto, sin que esto afecte la validez del hecho o acto registral.
+
+Quinto.- En los casos de reconocimientos realizados con anterioridad a la entrada en vigor del Decreto por el que se reforman, adicionan y derogan diversas disposiciones del Código Civil para el Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal del día 13 de enero de 2004 y que estén pendientes de inscripción en el Registro Civil, los interesados podrán acogerse al beneficio que les otorga el texto del artículo 78 del Código Civil reformado en dicho decreto y solicitar la expedición de una nueva acta de nacimiento.
+
+G.O. 19 DE ABRIL DE 2006.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CIENTO VEINTISÉIS POR EL QUE SE REFORMA EL ARTÍCULO 9 DE LA LEY DE DEUDA PÚBLICA PARA EL ESTADO DE MORELOS”.]
 
