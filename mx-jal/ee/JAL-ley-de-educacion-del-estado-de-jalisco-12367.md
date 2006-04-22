@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2006-03-11"
+last_updated: "2006-04-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACION DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ABRIL DE 2006.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -137,11 +137,15 @@ XVII.- Impulsar la educación para la paz y la convivencia ciudadana a través d
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 8 DE JULIO DE 2004)</small>
 
-XVIII. Fomentar el desarrollo de habilidades para afrontar los casos de emergencia que se desprendan de los fenómenos destructivos de origen natural o aquellos generados por la actividad humana;
+XVIII.- Fomentar el desarrollo de habilidades para afrontar los casos de emergencia que se desprendan de los fenómenos destructivos de origen natural o aquellos generados por la actividad humana;
 
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2005)</small>
 
-XIX. Prevenir y combatir la drogadicción, el alcoholismo, el tabaquismo y otras adiciones que afecten la salud física y mental del individuo y que dañen las estructuras sociales.
+XIX. Prevenir y combatir la drogadicción, el alcoholismo, el tabaquismo y otras adiciones que afecten la salud física y mental del individuo y que dañen las estructuras sociales;
+
+(ADICIONADA, P.O. 22 DE ABRIL DE 2006) (F. DE E., P.O. 30 DE DICIEMBRE DE 2006)
+
+XX. Fomentar la cultura de transparencia y acceso a la información pública, con la finalidad de propiciar el ejercicio de un derecho fundamental y consolidar el avance democrático en el Estado de Jalisco.
 
 ###### ARTICULO 8o.
 
@@ -1776,5 +1780,9 @@ P.O. 27 DE DICIEMBRE DE 2005.
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 11 DE MARZO DE 2006.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 22 DE ABRIL DE 2006.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
