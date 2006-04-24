@@ -4,7 +4,7 @@ identifier: "FED-ley-de-ciencia-y-tecnologia-24877"
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-05"
-last_updated: "2004-09-01"
+last_updated: "2006-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24877&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-06-03"
 
 LEY DE CIENCIA Y TECNOLOGIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE ABRIL DE 2006.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el miércoles 5 de junio de 2002.
 
@@ -143,9 +143,17 @@ IX. El titular de la Secretaría de Educación Pública;
 
 X. El titular de la Secretaría de Salud;
 
-XI. El Director General del CONACyT en su carácter de Secretario Ejecutivo del propio Consejo General, y
+XI. El Director General del CONACyT en su carácter de Secretario Ejecutivo del propio Consejo General, y (sic)
 
-XII. El Coordinador General del Foro Consultivo Científico y Tecnológico.
+XII. El Coordinador General del Foro Consultivo Científico y Tecnológico;
+
+> <small>(ADICIONADA, D.O.F. 24 DE ABRIL DE 2006)</small>
+
+XIII. El Presidente de la Academia Mexicana de Ciencias, y
+
+> <small>(ADICIONADA, D.O.F. 24 DE ABRIL DE 2006)</small>
+
+XIV. El Secretario General Ejecutivo de la Asociación Nacional de Universidades e Instituciones de Educación Superior.
 
 Asimismo, el Consejo General contará con la participación a título personal de cuatro miembros que se renovarán cada tres años y que serán invitados por el Presidente de la República, a propuesta del Secretario Ejecutivo. Estos miembros tendrán derecho a voz y voto y podrán ser integrantes del Foro Consultivo Científico y Tecnológico. Para formular dichas propuestas, el Secretario Ejecutivo llevará a cabo un procedimiento de auscultación, conjuntamente con el Coordinador General del Foro Consultivo, de tal manera que cada una de dichas personas cuenten con la trayectoria, méritos y sean representativos de los ámbitos científico, tecnológico y empresarial.
 
@@ -838,3 +846,7 @@ D.O.F. 1 DE SEPTIEMBRE DE 2004.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Para dar cabal cumplimiento a esta disposición, y en atención al principio de subsidiariedad, los presupuestos de ingresos y egresos del Estado - Federación, entidades federativas y municipios - contemplarán un incremento gradual anual, a fin de alcanzar en el año 2006, recursos equivalentes al uno por ciento del producto interno bruto que considera el presente Decreto.
+
+D.O.F. 24 DE ABRIL DE 2006.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
