@@ -4,7 +4,7 @@ identifier: "LCS"
 country: "mx"
 rank: "ley"
 publication_date: "1935-08-31"
-last_updated: "2002-01-02"
+last_updated: "2006-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2591&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCS"
 
 LEY SOBRE EL CONTRATO DE SEGURO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE ENERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE ABRIL DE 2006.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de agosto de 1935.
 
@@ -816,15 +816,29 @@ El asegurado no tendrá obligación de avisar la enajenación de la cosa asegura
 
 En el seguro contra la responsabilidad, la empresa se obliga hasta el límite de la suma asegurada a pagar la indemnización que el asegurado deba a un tercero a consecuencia de un hecho que cause un daño previsto en el contrato de seguro.
 
-Tratándose de los seguros obligatorios a que hace referencia el artículo 150 Bis de esta Ley, la empresa estará obligada a cubrir hasta la suma asegurada que se establezca en las disposiciones legales respectivas o en las que deriven de las mismas, vigentes al celebrarse el contrato.
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2006)</small>
 
-> <small>(ADICIONADO, D.O.F. 2 DE ENERO DE 2002)</small>
+Tratándose de los seguros obligatorios a que hace referencia el artículo 150 Bis de esta Ley, la empresa estará obligada a cubrir los riesgos asegurados hasta los montos indemnizatorios o las sumas aseguradas por persona o por bien, así como, en su caso, los acumulados por evento, que se establezcan en las disposiciones legales respectivas o en las administrativas de carácter general que se deriven de las mismas, vigentes al celebrarse el contrato.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2006)</small>
+
+Para los riesgos respecto de los cuales las disposiciones a que se refiere el párrafo anterior no determinen el monto indemnizatorio o la suma asegurada obligatorios, se estará a lo dispuesto en el artículo 86 de la presente Ley para determinar el límite de la suma asegurada.
+
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 145 Bis.
 
-En el seguro contra la responsabilidad, podrá pactarse que la empresa aseguradora, se responsabilice de las indemnizaciones que el asegurado deba a un tercero por hechos ocurridos durante la vigencia y dentro de los dos años anteriores a la misma, sólo si la reclamación por esos hechos se formula al asegurado o a la empresa durante la vigencia y dentro de los dos años siguientes a su terminación.
+En el seguro contra la responsabilidad, podrá pactarse que la empresa aseguradora se responsabilice de las indemnizaciones que el asegurado deba a un tercero en cualquiera de las siguientes formas:
 
-Será nulo cualquier convenio que pretenda reducir los plazos a que se refiere el párrafo anterior, pero podrán ampliarse expresamente mediante pacto.
+a).- Por hechos ocurridos durante la vigencia de la póliza respectiva o en el año anterior, siempre que la reclamación se formule por primera vez y por escrito al asegurado o a la empresa durante la vigencia de dicha póliza, o bien
+
+b).- Por hechos ocurridos durante la vigencia de la póliza, siempre que la reclamación se formule por primera vez y por escrito al asegurado o a la empresa en el curso de dicha vigencia o dentro del año siguiente a su terminación.
+
+No serán admisibles otras formas de limitación temporal de la cobertura, pero sí la ampliación de cualquiera de los plazos indicados.
+
+La limitación temporal de la cobertura será oponible tanto al asegurado como al tercero dañado, aun cuando desconozcan el derecho constituido a su favor por la existencia del seguro, la ocurrencia del hecho generador de la responsabilidad o la materialización del daño.
+
+Si se diere la acumulación de sumas aseguradas, será aplicable lo dispuesto por los artículos 102 y 103 de la presente Ley.
 
 ###### ARTICULO 146.
 
@@ -1161,3 +1175,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 D.O.F. 2 DE ENERO DE 2002.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE ABRIL DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- A las instituciones de seguros que a la entrada en vigor del presente Decreto cuenten con la autorización a que se refiere el artículo 7o. de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, para practicar el ramo de seguro de crédito y otras operaciones o ramos, no les será aplicable la limitación prevista en el penúltimo párrafo que se adiciona al artículo 7o. citado. A las instituciones de seguros que se encuentren en este supuesto no se les podrá autorizar la operación de los ramos de seguro de crédito a la vivienda o de seguro de garantía financiera.
+
+TERCERO.- En tanto no se deroguen o modifiquen las reglas y disposiciones de carácter general vigentes, se continuarán aplicando en lo que no se opongan al presente Decreto.
+
+CUARTO.- A las personas que hubieren cometido infracciones con anterioridad a la entrada en vigor del presente Decreto, les serán aplicables las disposiciones vigentes al momento en que se hubieren realizado dichas conductas, salvo que las disposiciones de este Decreto les resulten favorables, en cuyo caso se aplicarán éstas.
+
+QUINTO.- Las instituciones de seguros deberán adecuar sus productos de seguro, así como los contratos de prestación de servicios, según corresponda, a lo previsto en la fracción I del artículo 41 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, dentro de un plazo de noventa días naturales contados a partir de la entrada en vigor del presente Decreto en el Diario Oficial de la Federación.
