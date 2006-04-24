@@ -4,7 +4,7 @@ identifier: "FED-ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-9"
 country: "mx"
 rank: "ley"
 publication_date: "1936-01-10"
-last_updated: "2005-08-16"
+last_updated: "2006-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-12-30"
 
 LEY DE AMPARO, REGLAMENTARIA DE LOS ARTICULOS 103 Y 107 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE ABRIL DE 2006.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 10 de enero de 1936.
 
@@ -1501,9 +1501,23 @@ I.- Que la solicite el agraviado.
 
 II.- Que no se siga perjuicio al interés social, ni se contravengan disposiciones de orden público.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2006)</small>
 
-Se considerará, entre otros casos, que si se siguen esos perjuicios o se realizan esas contravenciones, cuando, de concederse la suspensión se continúe el funcionamiento de centros de vicio, de lenocinios, la producción y el comercio de drogas enervantes; se permita la consumación o continuación de delitos o de sus efectos, o el alza de precios con relación a artículos de primera necesidad o bien de consumo necesario; se impida la ejecución de medidas para combatir epidemias de carácter grave, el peligro de invasión de enfermedades exóticas en el país, o la campaña contra el alcoholismo y la venta de substancias que envenenen al individuo o degeneren la raza; o se permita el incumplimiento de las órdenes militares.
+Se considera, entre otros casos, que sí se siguen esos perjuicios o se realizan esas contravenciones, cuando de concederse la suspensión:
+
+a) Se continúe el funcionamiento de centros de vicio, de lenocinios, la producción y el comercio de drogas enervantes;
+
+b) Se permita la consumación o continuación de delitos o de sus efectos;
+
+c) Se permita el alza de precios con relación a artículos de primera necesidad o bien de consumo necesario;
+
+d) Se impida la ejecución de medidas para combatir epidemias de carácter grave, el peligro de invasión de enfermedades exóticas en el país, o la campaña contra el alcoholismo y la venta de sustancias que envenenen al individuo o degeneren la raza;
+
+e) Se permita el incumplimiento de las órdenes militares;
+
+f) Se produzca daño al medio ambiente, al equilibrio ecológico o que por ese motivo afecte la salud de las personas, y
+
+g) Se permita el ingreso en el país de mercancías cuya introducción esté prohibida en términos de Ley o bien se encuentre en alguno de lo (sic) supuestos previstos en el artículo 131 párrafo segundo de la Constitución Política de los Estados Unidos Mexicanos; se incumplan con las normas relativas a regulaciones y restricciones no arancelarias a la exportación o importación, salvo el caso de las cuotas compensatorias, las cuales se apegarán a lo regulado en el artículo 135 de esta Ley; se incumplan con las Normas Oficiales Mexicanas; se afecte la producción nacional.
 
 III.- Que sean de difícil reparación los daños y perjuicios que se causen al agraviado con la ejecución del acto.
 
@@ -1597,13 +1611,11 @@ Cuando alguna o algunas de las autoridades responsables funcionen fuera del luga
 
 Cuando al celebrarse la audiencia a que se refieren los artículos 131 y 133 de esta ley, apareciere debidamente probado que ya se resolvió sobre la suspensión definitiva en otro juicio de amparo promovido por el mismo quejoso o por otra persona, en su nombre o representación, ante otro juez de Distrito, contra el mismo acto reclamado y contra las propias autoridades, se declarará sin materia el incidente de suspensión, y se impondrá a dicho quejoso, a su representante o a ambos, una multa de treinta a ciento ochenta días de salario.
 
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 135.
 
-Cuando el amparo se pida contra el cobro de contribuciones, podrá concederse discrecionalmente la suspensión del acto reclamado, la que surtirá efectos previo depósito de la cantidad que se cobra ante la Tesorería de la Federación o la de la entidad federativa o municipio que corresponda.
-
-El depósito no se exigirá cuando se trate del cobro de sumas que excedan de la posibilidad del quejoso, según apreciación del juez, o cuando previamente se haya constituido la garantía del interés fiscal ante la autoridad exactora, o cuando se trate de persona distinta del causante obligado directamente al pago; en este último caso, se asegurará el interés fiscal por cualquiera de los medios de garantía permitidos por las leyes fiscales aplicables.
+Cuando el amparo se pida contra el cobro de contribuciones y aprovechamientos, podrá concederse discrecionalmente la suspensión del acto reclamado, la que surtirá efectos previo depósito del total en efectivo de la cantidad a nombre de la Tesorería de la Federación o la de la entidad federativa o municipio que corresponda, depósito que tendrá que cubrir el monto de las contribuciones, aprovechamientos, multas y accesorios que se lleguen a causar, asegurando con ello el interés fiscal. En los casos en que se niegue el amparo, cuando exista sobreseimiento del mismo o bien cuando por alguna circunstancia se deje sin efectos la suspensión en el amparo, la autoridad responsable hará efectivos los depósitos.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -2867,7 +2879,7 @@ El presente Decreto entrará en vigor quince días después de su publicación e
 
 D.O.F. 5 DE ENERO DE 1988.
 
-REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988.
+REPUBLICADO: D.O.F. 11 DE ENERO DE 1988 Y 1 DE FEBRERO DE 1988
 
 PRIMERO.- El presente Decreto entrará en vigor el día 15 de enero de 1988, previa su publicación en el Diario Oficial de la Federación.
 
@@ -2912,5 +2924,9 @@ D.O.F. 17 DE MAYO DE 2001.
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 16 DE AGOSTO DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE ABRIL DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
