@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-instituciones-de-fianzas-443"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1950-12-29"
-last_updated: "2004-01-28"
+last_updated: "2006-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=443&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1950-12-26"
 
 LEY FEDERAL DE INSTITUCIONES DE FIANZAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE ABRIL DE 2006.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1950.
 
@@ -393,9 +393,11 @@ a).- De capital total o mayoritariamente mexicano;
 
 b).- De capital extranjero, en cuyo caso se les considerará como Filiales de Instituciones Financieras del Exterior.
 
-En ningún caso podrán participar en el capital de dichas instituciones, ya sea directamente o a través de interpósita persona, gobiernos o dependencias oficiales extranjeros.
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2006)</small>
 
-En todo lo relativo a su organización, las instituciones a que se refiere el inciso a) de esta fracción, se regirán por lo dispuesto en el presente capítulo, en tanto que a las instituciones a que se refiere el inciso b) de la misma, les será aplicable, además de lo dispuesto en este mismo capítulo, con excepción de la fracción III de este artículo, lo que se establece en el Capítulo I Bis del Título Primero de esta Ley.
+No podrán participar en forma alguna en el capital de dichas instituciones, personas morales extranjeras que ejerzan funciones de autoridad.
+
+En todo lo relativo a su organización, las instituciones a que se refiere el inciso a) de esta fracción, se regirán por lo dispuesto en el presente capítulo, en tanto que a las instituciones a que se refiere el inciso b) de la misma, les será aplicable, además de lo dispuesto en este mismo capítulo, con excepción de la fracción III de este artículo, lo que se establece en el Capítulo I Bis del Título Primero de esta Ley;
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
 
@@ -477,7 +479,9 @@ e).- La demás documentación conexa que requiera la Secretaría de Hacienda y C
 
 Para efectos de lo dispuesto en esta Ley, se entenderá que se obtiene el control de una institución de fianzas cuando se adquiera el treinta por ciento o más de las acciones representativas del capital social pagado de la propia institución, se tenga el control de la asamblea general de accionistas, se esté en posibilidad de nombrar a la mayoría de los miembros del consejo de administración, o por cualquier otro medio se controle a la institución de fianzas de que se trate.
 
-Salvo lo dispuesto en la Ley para Regular las Agrupaciones Financieras, las sociedades que tengan el control de una institución de fianzas estarán sometidas a la inspección y vigilancia de la Comisión Nacional de Seguros y Fianzas y les será aplicable, al igual que a sus accionistas, lo dispuesto en esta fracción y en la IV de este artículo, así como la fracción III del artículo 111 de esta Ley.
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2006)</small>
+
+Salvo lo dispuesto en la Ley para Regular las Agrupaciones Financieras, las sociedades que tengan el control de una institución de fianzas estarán sometidas a la inspección y vigilancia de la Comisión Nacional de Seguros y Fianzas y les será aplicable, al igual que a sus accionistas, lo dispuesto en esta fracción y en las fracciones I Bis, penúltimo párrafo, y IV de este artículo, así como el artículo 110 Bis de esta Ley.
 
 Las personas que aporten acciones de una o varias instituciones de fianzas al capital de una de las sociedades a que se refiere el párrafo anterior, podrán mantener la participación que resulte en el capital de la misma, por el valor de las acciones que cada una de ellas aporte.
 
@@ -489,7 +493,7 @@ Lo dispuesto en los cuatro párrafos anteriores deberá hacerse constar en los e
 
 Las personas que adquieran o transmitan acciones por más del dos por ciento del capital social pagado de una institución de seguros, deberán dar aviso a la Secretaría de Hacienda y Crédito Público, dentro de los tres días hábiles siguientes a la adquisición o transmisión.
 
-Las instituciones deberán proporcionar a la Secretaría de Hacienda y Crédito Público y a la Comisión Nacional de Seguros y Fianzas, la información que ésta les requiera con respecto a las personas que directa o indirectamente hayan adquirido las acciones representativas de su capital social pagado, en la forma y sujetándose a las condiciones que establezca la propia Comisión mediante disposiciones de carácter general.
+Las instituciones deberán proporcionar a la Secretaría de Hacienda y Crédito Público y a la Comisión Nacional de Seguros y Fianzas, la información que ésta les requiera con respecto a las personas que directa o indirectamente hayan adquirido las acciones representativas de su capital social pagado, en la forma y sujetándose a las condiciones que establezca la propia Comisión mediante disposiciones de carácter general;
 
 > <small>(REFORMADA, D.O.F. 16 DE ENERO DE 2002)</small>
 
@@ -501,7 +505,7 @@ b).- Manifestar por escrito el nombre de la o las personas a quienes pertenezcan
 
 Los escrutadores estarán obligados a cerciorarse de la observancia de lo dispuesto en esta fracción e informar sobre ello a la asamblea, lo que se hará constar en el acta respectiva.
 
-La Secretaría de Hacienda y Crédito Público estará facultada para dictar reglas de carácter general con vistas a procurar el estricto cumplimiento de lo dispuesto en esta fracción y la que antecede.
+La Secretaría de Hacienda y Crédito Público estará facultada para dictar reglas de carácter general con vistas a procurar el estricto cumplimiento de lo dispuesto en esta fracción y la que antecede;
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
@@ -525,7 +529,7 @@ La convocatoria contendrá la respectiva orden del día. En la orden del día se
 
 > <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2002)</small>
 
-La documentación e información relacionada con los temas a tratar en la correspondiente asamblea de accionistas, deberán ponerse a disposición de los accionistas por lo menos con quince días de anticipación a su celebración.
+La documentación e información relacionada con los temas a tratar en la correspondiente asamblea de accionistas, deberán ponerse a disposición de los accionistas por lo menos con quince días de anticipación a su celebración;
 
 > <small>(REFORMADA, D.O.F. 16 DE ENERO DE 2002)</small>
 
@@ -549,7 +553,7 @@ En el ejercicio de sus funciones, el consejo de administración deberá observar
 
 El director general deberá elaborar y presentar al consejo de administración, para su aprobación, las políticas para el adecuado empleo y aprovechamiento de los recursos humanos y materiales de la institución, los cuales deberán considerar el uso racional de los mismos, restricciones para el empleo de ciertos bienes, mecanismos de supervisión y control, en general, la aplicación de los recursos a las actividades propias de la institución y a la consecución de sus fines.
 
-El director general deberá en todos los casos proporcionar datos e informes precisos para auxiliar al consejo de administración en la adecuada toma de decisiones.
+El director general deberá en todos los casos proporcionar datos e informes precisos para auxiliar al consejo de administración en la adecuada toma de decisiones;
 
 > <small>(REFORMADA, D.O.F. 16 DE ENERO DE 2002)</small>
 
@@ -605,7 +609,7 @@ g).- Cónyuges o concubinarios, así como los parientes por consanguinidad, afin
 
 h).- Quienes hayan ocupado un cargo de dirección o administrativo en la institución o en el grupo financiero o económico al que, en su caso, pertenezca la propia institución, durante el año anterior al momento en que se pretende hacer su designación, e
 
-i).- Agentes o apoderados de agentes persona moral.
+i).- Agentes o apoderados de agentes persona moral;
 
 > <small>(REFORMADA, D.O.F. 16 DE ENERO DE 2002)</small>
 
@@ -633,11 +637,11 @@ El director general de las instituciones nacionales de fianzas será designado p
 
 Los servidores públicos de la institución que ocupen cargos con las dos jerarquías inferiores a la del director general, además de cumplir los requisitos previstos en el primer párrafo y en los incisos a), c) y d), de la fracción VIII Bis-1 del presente artículo, deberán acreditar conocimientos y experiencia de al menos cinco años en las materias que se relacionen con las funciones que le sean asignadas.
 
-La Comisión Nacional de Seguros y Fianzas, con acuerdo de su Junta de Gobierno podrá determinar que se proceda a la remoción, suspensión, destitución e inhabilitación de los servidores públicos que puedan obligar con su firma a una institución nacional de fianzas, con excepción del director general o equivalente, cuando considere que tales personas no cuentan con la suficiente calidad técnica o moral para el desempeño de sus funciones o que en el desempeño de éstas no se hayan ajustado a las disposiciones legales y administrativas aplicables, procediendo, en su caso, en los términos del artículo 82 de la presente Ley. Asimismo, la propia Comisión podrá recomendar al Ejecutivo Federal, a través de la mencionada Secretaría, la remoción del director general de la institución, cuando considere que éste, en el desempeño de sus funciones, no se ha ajustado a las disposiciones legales y administrativas aplicables.
+La Comisión Nacional de Seguros y Fianzas, con acuerdo de su Junta de Gobierno podrá determinar que se proceda a la remoción, suspensión, destitución e inhabilitación de los servidores públicos que puedan obligar con su firma a una institución nacional de fianzas, con excepción del director general o equivalente, cuando considere que tales personas no cuentan con la suficiente calidad técnica o moral para el desempeño de sus funciones o que en el desempeño de éstas no se hayan ajustado a las disposiciones legales y administrativas aplicables, procediendo, en su caso, en los términos del artículo 82 de la presente Ley. Asimismo, la propia Comisión podrá recomendar al Ejecutivo Federal, a través de la mencionada Secretaría, la remoción del director general de la institución, cuando considere que éste, en el desempeño de sus funciones, no se ha ajustado a las disposiciones legales y administrativas aplicables;
 
 > <small>(ADICIONADA, D.O.F. 16 DE ENERO DE 2002)</small>
 
-VIII Bis-3.- En cada institución de fianzas existirá un contralor normativo responsable de vigilar el cumplimiento de la normatividad externa e interna aplicable, conforme a lo previsto en el artículo 15 Bis-1 de esta Ley.
+VIII Bis-3.- En cada institución de fianzas existirá un contralor normativo responsable de vigilar el cumplimiento de la normatividad externa e interna aplicable, conforme a lo previsto en el artículo 15 Bis-1 de esta Ley;
 
 > <small>(ADICIONADA, D.O.F. 16 DE ENERO DE 2002)</small>
 
@@ -679,7 +683,7 @@ XII.- La liquidación administrativa se regirá por lo dispuesto en el Capítulo
 
 1.- El cargo de síndico y liquidador, en la liquidación voluntaria, siempre corresponderá a alguna institución de crédito facultada para efectuar operaciones fiduciarias, y
 
-2.- La Comisión Nacional de Seguros y Fianzas ejercerá, respecto a los síndicos y a los liquidadores, las funciones de vigilancia que tiene atribuidas en relación a las instituciones de fianzas.
+2.- La Comisión Nacional de Seguros y Fianzas ejercerá, respecto a los síndicos y a los liquidadores, las funciones de vigilancia que tiene atribuidas en relación a las instituciones de fianzas;
 
 XIII.- (DEROGADA, D.O.F. 23 DE DICIEMBRE DE 1993)
 
@@ -1365,17 +1369,25 @@ La Secretaría de Hacienda y Crédito Público mediante disposiciones de caráct
 
 ### CAPITULO III. Activo Computable
 
-> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 40.
 
-El importe de los recursos de capital con el que las instituciones de fianzas cubran el requerimiento mínimo de capital base de operaciones a que se refiere el artículo 18 de esta Ley, deberá mantenerse en los renglones de activo y en los porcentajes que la Secretaría de Hacienda y Crédito Público determine mediante reglas de carácter general, previa opinión de la Comisión Nacional de Seguros y Fianzas, tomando en consideración lo siguiente:
+El importe de los recursos de capital con el que las instituciones de fianzas cubran el requerimiento mínimo de capital base de operaciones a que se refiere el artículo 18 de esta Ley, en todo momento deberá mantenerse invertido conforme al régimen de inversión que la Secretaría de Hacienda y Crédito Público determine mediante reglas de carácter general, previa opinión de la Comisión Nacional de Seguros y Fianzas, tomando en consideración lo siguiente:
+
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2002)</small>
 
 a) La situación que al respecto guarden en general las instituciones de fianzas y la composición y estabilidad de sus recursos, señalándoles plazos para ajustarse a las modificaciones que se hagan a dichos activos o porcentajes, en caso de ser necesario; y
 
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2002)</small>
+
 b) Los plazos de las operaciones y el riesgo a que esté expuesto el cumplimiento oportuno de las mismas.
 
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2002)</small>
+
 Los recursos de capital que excedan el requerimiento mínimo de capital base de operaciones podrán ser invertidos libremente, siempre que no contravengan las prohibiciones del artículo 60 de esta Ley; además, cuando dichos excedentes se inviertan en el capital pagado de intermediarios financieros, deberá obtenerse la autorización previa a que se refiere el artículo 79 Bis-1 de esta Ley, así como cualquier otra autorización que ésta u otras leyes establezcan para que realicen alguna inversión y siempre que esos excedentes no formen parte del capital mínimo pagado a que se refiere el primer párrafo de la fracción II del artículo 15 de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2002)</small>
 
 Cuando una institución de fianzas no mantenga los recursos de capital necesarios para la cobertura del requerimiento mínimo de capital base de operaciones a que se refiere el artículo 18 de esta Ley, se aplicará lo dispuesto por el artículo 104 de esta Ley.
 
@@ -1499,47 +1511,31 @@ La Secretaría de Hacienda y Crédito Público, mediante reglas de carácter gen
 
 (DEROGADO, D.O.F. 3 DE ENERO DE 1997)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 59.
 
-Las reservas a que se refiere el artículo 46 de esta Ley, se invertirán en los bienes y valores que señale la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general.
+Las reservas a que se refiere el artículo 46 de esta Ley, en todo momento deberán mantenerse invertidas conforme al régimen de inversión que señale la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general, previa opinión de la Comisión Nacional de Seguros y Fianzas.
 
-(REFORMADO, D.O.F. 14 DE JULIO DE 1993)En la inversión de estos recursos, las instituciones de fianzas deberán observar lo siguiente:
+En la inversión de estos recursos, las instituciones de fianzas deberán observar lo siguiente:
 
-> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 1993)</small>
-
-I.- El monto de las reservas determinado conforme a esta Ley, se incrementará durante el ejercicio en la forma y con la periodicidad que para tal efecto se les señale en las citadas reglas, tomando en cuenta la conveniencia de propiciar que las instituciones mantengan las reservas en proporción a las operaciones realizadas, de manera que durante todo el ejercicio cuenten con los recursos necesarios para garantizar sus responsabilidades y con vista a que su monto se incremente en forma gradual y oportuna.
-
-> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 1993)</small>
+I.- El monto de las reservas determinado conforme a esta Ley, se incrementará durante el ejercicio en la forma y con la periodicidad que para tal efecto se les señale en las citadas reglas, tomando en cuenta la conveniencia de propiciar que las instituciones mantengan las reservas en proporción a las operaciones realizadas, de manera que durante todo el ejercicio cuenten con los recursos necesarios para garantizar sus responsabilidades y con vista a que su monto se incremente en forma gradual y oportuna;
 
 II.- La inversión de las reservas y de sus incrementos periódicos deberán ajustarse a las proporciones y demás requisitos que exige esta Ley, y efectuarse en el término que al efecto se señale en las reglas mencionadas.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1997)</small>
-
-La citada Secretaría podrá ordenar en cualquier tiempo que se haga un nuevo cálculo de las reservas a que se refiere el artículo 46 de esta Ley y la institución estará obligada a realizar las inversiones correspondientes, dentro del plazo que fije la propia Secretaría, el cual no excederá de treinta días; y
-
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1997)</small>
+La citada Secretaría podrá ordenar en cualquier tiempo que se haga un nuevo cálculo de las reservas a que se refiere el artículo 46 de esta Ley y la institución estará obligada a realizar las inversiones correspondientes, dentro del plazo que fije la propia Secretaría, el cual no excederá de treinta días, y
 
 III.- Las citadas reservas podrán mantenerse en los renglones de activo con las limitaciones establecidas por esta Ley o por lo señalado en las reglas a que se refiere este artículo.
 
-> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2002)</small>
+Cuando las instituciones de fianzas presenten faltantes en las coberturas de las reservas a que se refiere el artículo 46 de esta Ley, así como en la cobertura del requerimiento mínimo de capital base de operaciones establecido conforme a los artículos 18 y 40 de la misma, la Comisión Nacional de Seguros y Fianzas impondrá sanciones por cada faltante que se determine para cada cobertura, cuyos montos se calcularán aplicando a cada uno de los faltantes correspondientes al período previsto en las reglas de carácter general sobre la materia expedidas por la Secretaría de Hacienda y Crédito Público, los siguientes factores sobre la tasa de referencia que resulte del promedio aritmético de las tasas de recargos aplicables en los casos de prórroga para el pago de créditos fiscales derivados de contribuciones federales, vigentes para dicho período:
 
-Cuando las instituciones de fianzas presenten faltantes en los diversos renglones de activos que deban mantener conforme al presente artículo, así como en el monto del requerimiento mínimo de capital base de operaciones establecido conforme al artículo 18 de esta Ley, la Comisión Nacional de Seguros y Fianzas impondrá una sanción cuyo monto se determinará aplicando al total de los faltantes los siguientes factores sobre la tasa promedio ponderada de rendimiento equivalente a la de descuento de los Certificados de la Tesorería de la Federación a veintiocho días o al plazo que sustituya a éste en caso de días inhábiles, en colocación primaria, emitidos en el mes de que se trate. En el caso de que se dejen de emitir dichos Certificados, se deberá utilizar como referencia el instrumento que los sustituya:
+1. De 1 a 1.5 veces la tasa de referencia, cuando se trate de faltantes en la cobertura de reservas técnicas previstas en el artículo 46 de esta Ley, y
 
-1.- De 1 a 1.5 veces la tasa promedio, cuando se trate de faltantes en la cobertura de reservas técnicas previstas en el artículo 46 de esta Ley, y
+2. De 1 a 1.25 veces la tasa de referencia, cuando se trate de faltantes en la cobertura del requerimiento mínimo de capital base de operaciones a que se refiere el artículo 18 de esta Ley.
 
-2.- De 1 a 1.25 veces la tasa promedio, cuando se trate de faltantes en la cobertura del requerimiento mínimo de capital base de operaciones a que se refiere el artículo 18 de esta Ley.
+Se entenderá que los faltantes a los que se refiere este artículo se presentan cuando las instituciones de fianzas no cuenten con los recursos suficientes para respaldar, según corresponda, las coberturas de sus reservas técnicas o la cobertura del requerimiento mínimo de capital base de operaciones a que se refiere el artículo 18 de esta Ley, o bien, cuando los recursos no se mantengan invertidos conforme a los regímenes de inversión a que se refieren este artículo y el artículo 40 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 1993)</small>
-
-La propia Comisión podrá disminuir la sanción a que se refiere el párrafo anterior, en caso de que los faltantes se originen por situaciones críticas de las instituciones o por errores u omisiones de carácter administrativo en los que a su criterio no haya mediado mala fe.
-
-> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 1993)</small>
-
-La citada Comisión podrá ordenar a la institución de crédito que corresponda, la reducción de los rendimientos de las inversiones a que se refiere este artículo, o bien que separe valores de la institución infractora, suficientes para cubrir los intereses penales respectivos, ya sea con el importe de la redención o de su remate en la bolsa de valores.
-
-> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2002)</small>
+La propia Comisión podrá disminuir la sanción a que se refiere este artículo, en caso de que los faltantes se originen por errores u omisiones de carácter administrativo en la información que las instituciones proporcionen a la Comisión.
 
 La Secretaría de Hacienda y Crédito Público, cuando así se justifique otorgará plazos adecuados que en ningún caso serán mayores a noventa días para que las instituciones ajusten sus inversiones a las disposiciones que dicte. Con independencia de las sanciones a que se refiere este artículo, cuando las instituciones presenten faltantes en la cobertura de sus reservas técnicas se procederá de acuerdo a lo dispuesto en el artículo 104 de esta Ley.
 
@@ -1557,9 +1553,9 @@ A las instituciones de fianzas les está prohibido:
 
 I.- Otorgar garantías en forma de aval, salvo aquellos casos que autorice la Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general, oyendo la opinión de la Comisión Nacional de Seguros y Fianzas y del Banco de México;
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2006)</small>
 
-II.- Gravar en cualquier forma los bienes de su activo;
+II.- Gravar en cualquier forma los bienes de su activo, con la excepción de dar en garantía efectivo o valores que requieran para asegurar el cumplimiento de las obligaciones derivadas de los contratos de futuro o de opción, así como de las operaciones de reporto y de préstamo de valores, que las instituciones de fianzas celebren con apego a las disposiciones de carácter general que para tal efecto emita la Comisión Nacional de Seguros y Fianzas;
 
 > <small>(REFORMADA, D.O.F. 16 DE ENERO DE 2002)</small>
 
@@ -2663,7 +2659,9 @@ No estarán sujetas a las sanciones previstas en esta Ley, las irregularidades q
 
 Si una vez transcurrido el plazo otorgado dentro del plan de regularización la institución no hubiere subsanado la irregularidad que dio origen al plan, la Comisión Nacional de Seguros y Fianzas concederá a la sociedad un plazo de diez días naturales a partir de la fecha de la notificación para que ésta exponga lo que a su derecho convenga y someta a su aprobación las acciones complementarias que adoptará para subsanar la problemática determinada dentro de un plazo que no podrá exceder de treinta días naturales, contados a partir de la fecha en que dichas acciones hubiesen sido aprobadas por la Comisión.
 
-Si transcurridos los plazos a que se refiere el párrafo anterior no se hubieren subsanado las irregularidades detectadas que motivaron el plan, la Comisión Nacional de Seguros y Fianzas, lo hará del conocimiento de la Secretaría de Hacienda y Crédito Publico, la cual concederá a la institución un plazo no menor de treinta ni mayor de sesenta días naturales para que lleve a cabo las acciones necesarias para corregir dichas irregularidades o, en protección del interés público, dará inicio al proceso de revocación de la autorización respectiva para operar como institución de fianzas. Con independencia de lo anterior, la Comisión Nacional de Seguros y Fianzas podrá ordenar la adopción de una o varias de las medidas a que se refiere el artículo 104 Bis-1 de esta Ley, o bien proceder conforme a lo que establece el artículo 73 de esta Ley.
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2006)</small>
+
+Si transcurridos los plazos a que se refiere el párrafo anterior no se hubieren subsanado las irregularidades detectadas que motivaron el plan, la Comisión Nacional de Seguros y Fianzas lo hará del conocimiento de la Secretaría de Hacienda y Crédito Público, la cual, en protección del interés público, dará inicio al proceso de revocación de la autorización respectiva para operar como institución de fianzas. Con independencia de lo anterior, la Comisión Nacional de Seguros y Fianzas podrá ordenar la adopción de una o varias de las medidas a que se refiere el artículo 104 Bis 1, o bien proceder conforme a lo que establece el artículo 73 de esta Ley.
 
 Independientemente de las sanciones que proceda imponer, la Comisión Nacional de Seguros y Fianzas podrá, en protección del interés público, ordenar a la institución que informe a sus fiados y beneficiarios sobre el incumplimiento del plan, en la forma y términos que la propia Comisión determine.
 
@@ -2705,9 +2703,17 @@ c) Faltante en los recursos de capital necesarios para la cobertura del requerim
 
 d) Faltante en la cobertura del capital mínimo pagado, a que se refiere el primer párrafo de la fracción II del artículo 15 de esta Ley, superior al 15% de dicho requerimiento;
 
-e) Resultado neto del ejercicio de que se trate, que represente una pérdida acumulada en cuantía superior al 25% de su capital social pagado y reservas de capital, o
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2006)</small>
 
-f) Irregularidades en su contabilidad o administración que impidan o dificulten notablemente conocer la verdadera situación financiera o la cobertura de los parámetros regulatorios de la institución.
+e) Resultado neto del ejercicio de que se trate, que represente una pérdida acumulada en cuantía superior al 25% de su capital social pagado y reservas de capital;
+
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2006)</small>
+
+f) Irregularidades en su contabilidad o administración que impidan o dificulten notablemente conocer la verdadera situación financiera o la cobertura de los parámetros regulatorios de la institución, o
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2006)</small>
+
+g) Incumplimiento a un plan de regularización de los previstos en los artículos 104 y 104 Bis de esta Ley.
 
 En cualquiera de los casos antes señalados y con independencia de las sanciones que, en su caso, proceda imponer, la Comisión Nacional de Seguros y Fianzas podrá ordenar a la institución la adopción de una o varias de las siguientes medidas:
 
@@ -2781,9 +2787,9 @@ I.- Si la sociedad respectiva no presenta para la aprobación de la Secretaría 
 
 II.- Si no mantiene adecuadamente constituidas las reservas técnicas en los términos de esta Ley; cubierto el requerimiento mínimo de capital base de operaciones a que se refieren los artículos 18 y 40 de esta Ley; cubiertas las reservas técnicas en los términos del artículo 59 de esta Ley; o debidamente cubierto el capital mínimo pagado en los términos previstos en la fracción II del artículo 15 con independencia de los plazos a que se refieren los artículos 15, fracción II y 104 de la misma;
 
-> <small>(REFORMADA, D.O.F. 16 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2006)</small>
 
-III.- Si se infringe lo establecido en el penúltimo párrafo de la fracción I Bis del artículo 15 de esta Ley, o si la institución establece con las entidades o grupos mencionados en dicho párrafo, relaciones evidentes de dependencia;
+III.- Si la institución establece relaciones de dependencia con gobiernos o dependencias oficiales extranjeros;
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
@@ -2933,7 +2939,9 @@ Las multas correspondientes a sanciones por las infracciones previstas en esta L
 
 Al imponer la sanción que corresponda, la citada Comisión siempre deberá oír previamente al interesado y tomará en cuenta las condiciones económicas e intención del infractor, la importancia de la infracción y sus antecedentes en relación con el cumplimiento de esta Ley o de las disposiciones que emanen de ella.
 
-En el caso de las instituciones de fianzas, la condición económica se medirá en función del capital contable al término del ejercicio anterior a la imposición de la infracción.
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2006)</small>
+
+En el caso de las instituciones de fianzas, la condición económica se medirá en función del capital contable o del fondo social al término del ejercicio anterior a la comisión de la infracción.
 
 Para oír previamente al presunto infractor, la Comisión deberá otorgarle un plazo de diez días hábiles que podrá prorrogar por una sola vez, para que el interesado manifieste lo que a su derecho convenga, ofreciendo o acompañando, en su caso, las pruebas que considere convenientes. Agotado el plazo o la prórroga señalados, si el interesado no ejerció su derecho de audiencia se tendrá por precluido el derecho y con los elementos existentes en el expediente administrativo correspondiente, se procederá a emitir la resolución que corresponda, ajustándose a lo dispuesto en el presente artículo.
 
@@ -2953,6 +2961,14 @@ Lo dispuesto en este artículo no excluye la imposición de las sanciones que co
 
 En protección del interés público, la Comisión divulgará las sanciones que al efecto imponga por infracciones a esta Ley o a las disposiciones que emanen de ella, una vez que dichas resoluciones hayan quedado firmes o sean cosa juzgada, señalando exclusivamente la persona sancionada, el precepto infringido y la sanción.
 
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2006)</small>
+
+###### ARTICULO 110 Bis.
+
+Las instituciones de fianzas se abstendrán, sin causa de responsabilidad, de efectuar la inscripción en el registro a que se refieren los artículos 128 y 129 de la Ley General de Sociedades Mercantiles, de aquellas transmisiones de acciones que se efectúen en contravención de lo dispuesto por los artículos 15, fracciones I Bis, penúltimo párrafo, II Bis y III, 15 G y 15 H de esta Ley, debiendo informar tal circunstancia a la Comisión Nacional de Seguros y Fianzas, dentro de los cinco días hábiles siguientes a la fecha en que tengan conocimiento de ello.
+
+Las adquisiciones que contravengan lo previsto en los artículos 15, fracciones I Bis, penúltimo párrafo, II Bis y III, 15 G y 15 H de esta Ley estarán afectadas de nulidad relativa, en cuyo caso las personas que hubieren adquirido las acciones no podrán ejercer los derechos sociales y económicos derivados de las acciones de que se trate.
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 111.
@@ -2967,11 +2983,9 @@ I.- Multa de 1,500 a 5,000 días de salario, por violación al primer párrafo d
 
 II.- Multa de 1,500 a 5,000 días de salario o la pérdida de su cargo, según la gravedad del caso, a los notarios, registradores o corredores que autoricen las escrituras o que inscriban actas en que se consigne alguna operación de las que esta Ley prohíbe expresamente, o para celebrar aquéllas para las cuales no esté facultado alguno de los otorgantes;
 
-> <small>(REFORMADA, D.O.F. 16 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2006)</small>
 
-III.- Multa por el importe equivalente al quince ciento (sic) del valor de las acciones que excedan del porcentaje autorizado o de las acciones con el que se participe en la Asamblea, según sea el caso, conforme a la valuación que de esas mismas acciones se haga de acuerdo con lo previsto en la fracción III del artículo 62 de esta Ley, a las personas que infringiendo lo dispuesto en las fracciones I, I Bis y III del artículo 15 y los artículos 15-G y 15-H de la misma Ley lleguen a ser propietarios de acciones de una institución de fianzas o de una de las sociedades controladoras a que se refiere la fracción IV del artículo 15, en exceso de los porcentajes autorizados, así como a los que al participar en las Asambleas incurran en falsedad al buscar las manifestaciones a que se refieren los incisos a) y b) de la fracción IV del citado artículo 15.
-
-En este caso los infractores tendrán un plazo de tres meses contados a partir de la imposición de la referida multa para corregir tal situación, vencido el cual, si no lo han hecho, podrán imponérseles nueva sanción por tres tantos del importe de la multa anterior. La Comisión Nacional de Seguros y Fianzas podrá seguir imponiendo multas sucesivas al infractor por tres tantos de la multa que antecede, cuantas veces, vencidos plazos iguales al señalado, deje de corregir la situación irregular;
+III.- Multa por el importe equivalente al quince por ciento del valor de las acciones con el que se participe en la Asamblea, conforme a la valuación que de esas mismas acciones se haga de acuerdo con lo previsto en la fracción III del artículo 62 de esta Ley, a los que al participar en las Asambleas incurran en falsedad en las manifestaciones a que se refieren los incisos a) y b) de la fracción IV del artículo 15 de esta Ley;
 
 > <small>(ADICIONADA, D.O.F. 16 DE ENERO DE 2002)</small>
 
@@ -2985,9 +2999,13 @@ III Bis-1.- Multa por el importe equivalente de uno al quince por ciento del mon
 
 III Bis-2.- Multa por el importe equivalente del uno al diez por ciento del monto del financiamiento concedido en violación a lo previsto por el artículo 60, fracción III Bis-1;
 
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1997)</small>
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2006)</small>
 
-IV.- Pérdida de la participación del capital de que se trate en favor del Gobierno Federal, cuando se viole lo dispuesto en el segundo párrafo de la fracción I Bis del artículo 15 de esta Ley;
+IV.- Multa de 200 a 10,000 días de salario, a las instituciones de fianzas que omitan informar a la Comisión Nacional de Seguros y Fianzas, respecto de la adquisición de acciones a que se refiere el artículo 110 Bis de esta Ley;
+
+> <small>(ADICIONADA, D.O.F. 24 DE ABRIL DE 2006)</small>
+
+IV Bis.- Multa de 3,000 a 20,000 días de salario, a las personas que adquieran acciones de una institución de fianzas en contravención de lo establecido en alguno de los artículos 15, fracciones I Bis, penúltimo párrafo, II Bis y III, 15 G y 15 H de esta Ley;
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
@@ -4282,3 +4300,17 @@ Las disposiciones de este Decreto no serán aplicables a los créditos contratad
 D.O.F. 28 DE ENERO DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE ABRIL DE 2006.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+...
+
+TERCERO.- En tanto no se deroguen o modifiquen las reglas y disposiciones de carácter general vigentes, se continuarán aplicando en lo que no se opongan al presente Decreto.
+
+CUARTO.- A las personas que hubieren cometido infracciones con anterioridad a la entrada en vigor del presente Decreto, les serán aplicables las disposiciones vigentes al momento en que se hubieren realizado dichas conductas, salvo que las disposiciones de este Decreto les resulten favorables, en cuyo caso se aplicarán éstas.
+
+...
