@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "2005-12-08"
+last_updated: "2006-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAPF"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE ABRIL DE 2006.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 29 de diciembre de 1976.
 
@@ -510,7 +510,11 @@ XXIV. Participar, conforme a los tratados respectivos, en el traslado de los reo
 
 XXV. Administrar el sistema federal para el tratamiento de menores infractores, en términos de la política especial correspondiente y con estricto apego a los derechos humanos; y
 
-XXVI. Las demás que le atribuyan expresamente las leyes y reglamentos.
+> <small>(ADICIONADA, D.O.F. 24 DE ABRIL DE 2006)</small>
+
+XXVI. Promover la celebración de convenios entre las autoridades federales, y de éstas, con aquéllas estatales, municipales y del Distrito Federal competentes, en aras de lograr la efectiva coordinación y funcionamiento del Sistema Nacional de Seguridad Pública y el combate a la delincuencia, y
+
+XXVII. Las demás que le atribuyan expresamente las leyes y reglamentos.
 
 > <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 1992)</small>
 
@@ -2077,5 +2081,9 @@ D.O.F. 10 DE JUNIO DE 2005.
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 8 DE DICIEMBRE DE 2005.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE ABRIL DE 2006.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
