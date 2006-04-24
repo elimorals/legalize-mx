@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-consejo-nacional-de-ciencia-y-tecnologia-24878
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-05"
-last_updated: "2002-06-05"
+last_updated: "2006-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24878&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-06-03"
 
 LEY ORGANICA DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE ABRIL DEL 2006.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el miércoles 5 de junio de 2002.
 
@@ -299,6 +299,10 @@ II. Los beneficiarios o contrapartes de los contratos o convenios rendirán al C
 
 III. Los derechos de propiedad intelectual respecto de los resultados obtenidos por las personas físicas o morales que reciban ayuda del CONACyT, serán materia de regulación específica en los contratos que al efecto se celebren, los que incluirán las reglas y los porcentajes para la participación de regalías que correspondan a las partes, en los que se protegerán y promoverán los intereses del país, los del CONACyT, los de los investigadores y, en caso de que los hubiere, de otros aportantes.
 
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2006)</small>
+
+Los contratos o convenios celebrados con personas físicas para apoyar su formación de alto nivel o de posgrado en instituciones de educación superior o de investigación, públicas o privadas, que se encuentren en el país o en el extranjero, no podrán sujetarse a requerimientos que obliguen o condicionen a garantizar el pago del monto económico a ejercerse.
+
 ###### ARTÍCULO 14.
 
 Los trabajadores del CONACyT continuarán incorporados al régimen de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
@@ -348,3 +352,9 @@ El plazo para presentar las reglas de operación y reglamentación interna a que
 México, D.F., a 30 de abril de 2002.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen. Diego Fernández de Cevallos Ramos, Presidente.- Dip. Adrián Rivera Pérez, Secretario.- Sen. Yolanda González Hernández, Secretaria.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los tres días del mes de junio de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 24 DE ABRIL DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
