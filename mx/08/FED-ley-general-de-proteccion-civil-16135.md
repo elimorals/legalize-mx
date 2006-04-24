@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-proteccion-civil-16135"
 country: "mx"
 rank: "ley_general"
 publication_date: "2000-05-12"
-last_updated: "2004-06-15"
+last_updated: "2006-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16135&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGPC"
 
 LEY GENERAL DE PROTECCION CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE ABRIL DE 2006.
 
 Ley publicada en la Sección Primera del Diario Oficial de la Federación, el viernes 12 de mayo de 2000.
 
@@ -150,13 +150,17 @@ Las disposiciones en materia de protección civil que se contengan en otros orde
 
 ### CAPITULO II. DEL SISTEMA NACIONAL
 
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2006)</small>
+
 ###### Artículo 9.
 
-El Sistema Nacional de Protección Civil es un conjunto orgánico y articulado de estructuras, relaciones funcionales, métodos y procedimientos que establecen las dependencias y entidades del sector público entre sí, con las organizaciones de los diversos grupos voluntarios, sociales, privados y con las autoridades de los estados, el Distrito Federal y los municipios, a fin de efectuar acciones coordinadas, destinadas a la protección de la población, contra los peligros y riesgos que se presentan en la eventualidad de un desastre.
+El Sistema Nacional de Protección Civil es un conjunto orgánico y articulado de estructuras, relaciones funcionales, métodos y procedimientos que establecen las dependencias y entidades del sector público entre sí, con las organizaciones de los diversos grupos voluntarios, sociales, privados y con las autoridades de los estados, el Distrito Federal y los municipios, a fin de efectuar acciones coordinadas, destinadas a la protección contra los peligros que se presenten y a la recuperación de la población, en la eventualidad de un desastre.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE ABRIL DE 2006)</small>
 
 ###### Artículo 10.
 
-El objetivo del Sistema Nacional es el de proteger a la persona y a la sociedad ante la eventualidad de un desastre, provocado por agentes naturales o humanos, a través de acciones que reduzcan o eliminen la pérdida de vidas, la afectación de la planta productiva, la destrucción de bienes materiales y el daño a la naturaleza, así como la interrupción de las funciones esenciales de la sociedad.
+El objetivo del Sistema Nacional es el de proteger a la persona y a la sociedad ante la eventualidad de un desastre, provocado por agentes naturales o humanos, a través de acciones que reduzcan o eliminen la pérdida de vidas, la afectación de la planta productiva, la destrucción de bienes materiales, el daño a la naturaleza y la interrupción de las funciones esenciales de la sociedad, así como el de procurar la recuperación de la población y su entorno a las condiciones de vida que tenían antes del desastre.
 
 Es propósito primordial del Sistema Nacional promover la educación para la autoprotección que convoque y sume el interés de la población en general, así como su participación individual y colectiva.
 
@@ -242,6 +246,10 @@ La primera instancia de actuación especializada, corresponde a la autoridad mun
 
 Si ésta resulta insuficiente, se procederá a informar a las instancias federales correspondientes, quienes actuarán de acuerdo con los programas establecidos al efecto, en los términos de esta Ley y de las demás disposiciones jurídicas aplicables.
 
+> <small>(ADICIONADO., D.O.F. 24 DE ABRIL DE 2006)</small>
+
+En las actividades de atención de desastres y recuperación se dará prioridad a los grupos sociales vulnerables y de escasos recursos económicos.
+
 ###### Artículo 15.
 
 Es responsabilidad de los Gobernadores de los Estados, del Jefe de Gobierno del Distrito Federal y de los Presidentes Municipales, la integración y funcionamiento de los Sistemas de Protección Civil de las Entidades Federativas y de los Municipios respectivamente, conforme a lo que establezca la legislación local en la materia.
@@ -274,9 +282,11 @@ VIII. Evaluar anualmente el cumplimiento de los objetivos del Programa Nacional,
 
 IX. Las demás atribuciones afines a éstas que le encomiende el Titular del Ejecutivo Federal.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE ABRIL DE 2006)</small>
+
 ###### Artículo 17.
 
-El Consejo Nacional estará integrado por el Presidente de la República, quien lo presidirá y por los titulares de las Secretarías de Gobernación; Relaciones Exteriores; Defensa Nacional; Marina; Hacienda y Crédito Público; Desarrollo Social; Medio Ambiente, Recursos Naturales y Pesca; Energía; Agricultura, Ganadería y Desarrollo Rural; Comunicaciones y Transportes; Contraloría y Desarrollo Administrativo; Educación Pública; Salud; por los Gobernadores de los Estados y del Jefe de Gobierno del Distrito Federal. Cada titular designará un suplente, siendo para el caso de los Secretarios un Subsecretario, y de los Gobernadores y del Jefe de Gobierno del Distrito Federal, el Secretario General de Gobierno. En el caso del Secretario de Gobernación, lo suplirá el Coordinador General de Protección Civil.
+El Consejo Nacional estará integrado por el Presidente de la República, quien lo presidirá y por los titulares de las Secretarías de Gobernación; Relaciones Exteriores; Defensa Nacional; Marina; Hacienda y Crédito Público; Desarrollo Social; Medio Ambiente y Recursos Naturales; Energía; Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; Comunicaciones y Transportes; Función Pública; Educación Pública; Salud; por los Gobernadores de los Estados y del Jefe de Gobierno del Distrito Federal. Cada titular designará un suplente, siendo para el caso de los Secretarios un Subsecretario; para los Gobernadores y Jefe de Gobierno del Distrito Federal, el Secretario General de Gobierno. En el caso del Secretario de Gobernación, lo suplirá el Coordinador General de Protección Civil.
 
 Podrán ser convocados a las sesiones del Consejo Nacional, por invitación que formule el Secretario Ejecutivo, representantes de los organismos, entidades y agrupaciones de carácter público, privado y social, así como de los sectores académico y profesional, y de los medios masivos de comunicación.
 
@@ -404,9 +414,11 @@ III. Destinar recursos del Fondo de Desastres autorizado para la atención de em
 
 IV. Las demás que determinen las leyes, reglamentos y otras disposiciones administrativas.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE ABRIL DE 2006)</small>
+
 ###### Artículo 31.
 
-La coordinación de acciones en materia de atención de desastres se apoyará en los convenios que al efecto celebre la Federación, a través de la Secretaría de Gobernación con cada una de las entidades federativas.
+La coordinación de acciones en materia de atención de desastres y la recuperación de la población y su entorno se apoyarán en los convenios que al efecto celebre la Federación, a través de la Secretaría de Gobernación, con cada una de las entidades federativas.
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2001)</small>
 
@@ -551,3 +563,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 El Ejecutivo Federal realizará las modificaciones correspondientes en las reglas de operación del Fondo de Desastres Naturales dentro de los 120 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+D.O.F. 24 DE ABRIL DE 2006.
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
