@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-instituciones-y-sociedades-mutualistas-de-691"
 country: "mx"
 rank: "ley_general"
 publication_date: "1935-08-31"
-last_updated: "2005-05-13"
+last_updated: "2006-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=691&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-08-26"
 
 LEY GENERAL DE INSTITUCIONES Y SOCIEDADES MUTUALISTAS DE SEGUROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE MAYO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE ABRIL DE 2006.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de agosto de 1935.
 
@@ -165,7 +165,11 @@ II.- Se prohíbe contratar con empresas extranjeras:
 
 3).- Seguros de cascos de naves o aeronaves y de cualquier clase de vehículos, contra riesgos propios del ramo marítimo y de transportes, siempre que dichas naves, aeronaves o vehículos sean de matrícula mexicana o propiedad de personas domiciliadas en la República;
 
-4).- Seguros de crédito, cuando el asegurado esté sujeto a la legislación mexicana;
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2006)</small>
+
+4).- Seguros de crédito, seguros de crédito a la vivienda y seguros de garantía financiera, cuando el asegurado esté sujeto a la legislación mexicana.
+
+En el caso de los seguros de garantía financiera, no será aplicable la prohibición señalada en el párrafo anterior cuando los valores, títulos de crédito o documentos emitidos que sean materia del seguro, sean objeto de oferta exclusivamente en mercados del exterior;
 
 5).- Seguros contra la responsabilidad civil, derivada de eventos que puedan ocurrir en la República; y
 
@@ -257,17 +261,25 @@ e).- Automóviles;
 
 f).- Crédito;
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1997)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 24 DE ABRIL DE 2006)</small>
 
-g).- Diversos;
+g).- Crédito a la vivienda;
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1997)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 24 DE ABRIL DE 2006)</small>
 
-h).- Terremoto y otros riesgos catastróficos; y
+h).- Garantía financiera;
 
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2006)</small>
 
-i).- Los especiales que declare la Secretaría de Hacienda y Crédito Público, conforme a lo dispuesto por el artículo 9o. de esta Ley.
+i).- Diversos;
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2006)</small>
+
+j).- Terremoto y otros riesgos catastróficos, y
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2006)</small>
+
+k).- Los especiales que declare la Secretaría de Hacienda y Crédito Público, conforme a lo dispuesto por el artículo 9o. de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 14 DE JULIO DE 1993)</small>
 
@@ -284,6 +296,10 @@ Tratándose de los seguros relacionados con contratos de seguros que tengan como
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 El ramo de salud a que se refieren el inciso c) fracción II de este artículo y la fracción V del artículo 8o. de esta Ley sólo deberá practicarse por instituciones de seguros autorizadas exclusivamente para ese efecto y a las cuales únicamente se les podrá autorizar a practicar, de manera adicional, el ramo de gastos médicos. La operación y desarrollo del ramo de salud estará sujeto a las disposiciones de carácter general que emita la Secretaría de Hacienda y Crédito Público, previa opinión de la Comisión Nacional de Seguros y Fianzas y de la Secretaría de Salud, según corresponda.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2006)</small>
+
+Los ramos de seguro de crédito, de seguro de crédito a la vivienda y de seguro de garantía financiera a que se refieren los incisos f), g) y h) de la fracción III de este artículo, deberán practicarse por instituciones de seguros autorizadas exclusivamente para operar sólo uno de dichos ramos. La operación y desarrollo de los ramos de crédito a la vivienda y de garantía financiera estarán sujetos a las disposiciones de carácter general que emita la Secretaría de Hacienda y Crédito Público, previa opinión de la Comisión Nacional de Seguros y Fianzas.
 
 > <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -318,6 +334,14 @@ IX.- Para el ramo agrícola y de animales, el pago de indemnizaciones o resarcim
 X.- Para el ramo de automóviles, el pago de la indemnización que corresponda a los daños o pérdida del automóvil y a los daños o perjuicios causados a la propiedad ajena o a terceras personas con motivo del uso del automóvil. Las instituciones y sociedades mutualistas de seguros, que se dediquen a este ramo, podrán en consecuencia, incluir en las pólizas regulares que expidan, el beneficio adicional de responsabilidad civil;
 
 XI.- Para el ramo de seguro de crédito, el pago de la indemnización de una parte proporcional de las pérdidas que sufra el asegurado como consecuencia de la insolvencia total o parcial de sus clientes deudores por créditos comerciales;
+
+> <small>(ADICIONADA, D.O.F. 24 DE ABRIL DE 2006)</small>
+
+XI Bis.- Para el ramo de seguro de crédito a la vivienda, el pago por incumplimiento de los deudores, de créditos a la vivienda otorgados por intermediarios financieros o por entidades dedicadas al financiamiento a la vivienda;
+
+> <small>(ADICIONADA, D.O.F. 24 DE ABRIL DE 2006)</small>
+
+XI Bis-1.- Para el ramo de seguro de garantía financiera, el pago por incumplimiento de los emisores de valores, títulos de crédito o documentos que sean objeto de oferta pública o de intermediación en mercados de valores;
 
 XII.- Para el ramo de diversos, el pago de la indemnización debida por daños y perjuicios ocasionados a personas o cosas por cualquiera otra eventualidad; y
 
@@ -375,9 +399,9 @@ Las instituciones aseguradoras que formen un consorcio, se obligarán en los té
 
 Los seguros de grupo o de empresa y popular, así como los que la ley establezca como obligatorios, los practicarán las instituciones y sociedades mutualistas de seguros de acuerdo con esta Ley y las demás disposiciones legales y administrativas respectivas.
 
-> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2006)</small>
 
-En los seguros de responsabilidad que por disposición legal tengan el carácter de obligatorios, las instituciones deberán dar cumplimiento a lo dispuesto por la Ley sobre el Contrato de Seguro a fin de cubrir hasta la suma asegurada que se establezca en las disposiciones legales respectivas o en las que deriven de las mismas, vigentes al celebrarse el contrato.
+En los seguros de responsabilidad que por disposición legal tengan el carácter de obligatorios, las instituciones deberán dar cumplimiento a lo dispuesto por la Ley sobre el Contrato de Seguro.
 
 > <small>(REFORMADO, D.O.F. 13 DE MAYO DE 2005)</small>
 
@@ -679,7 +703,9 @@ b).- De capital total o mayoritariamente extranjero, en cuyo caso se les conside
 
 En todo lo relativo a su organización, las instituciones a que se refiere el inciso a) de esta fracción, se regirán por lo dispuesto en el presente capítulo, en tanto que a las instituciones a que se refiere el inciso b) de la misma, les será aplicable, además de lo dispuesto en este mismo capítulo, con excepción de la fracción II de este artículo, lo que se establece en el Capítulo I Bis del Título Primero de esta Ley.
 
-En ningún momento podrán participar en el capital de las instituciones de seguros, ya sea directamente o a través de interpósita persona, gobiernos o dependencias oficiales extranjeros.
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2006)</small>
+
+No podrán participar en forma alguna en el capital de las instituciones de seguros, personas morales extranjeras que ejerzan funciones de autoridad;
 
 > <small>(REFORMADA, D.O.F. 16 DE ENERO DE 2002)</small>
 
@@ -711,7 +737,9 @@ e) La demás documentación conexa que requiera la Secretaría de Hacienda y Cr�
 
 Para efectos de lo dispuesto en esta Ley, se entenderá que se obtiene el control de una institución de seguros cuando se adquiera el treinta por ciento o más de las acciones representativas del capital social pagado de la propia institución, se tenga el control de la asamblea general de accionistas, se esté en posibilidad de nombrar a la mayoría de los miembros del consejo de administración, o por cualquier otro medio se controle a la institución de seguros de que se trate.
 
-Salvo lo dispuesto en la Ley para Regular las Agrupaciones Financieras, las sociedades que tengan el control de una institución de seguros estarán sometidas a la inspección y vigilancia de la Comisión Nacional de Seguros y Fianzas y les será aplicable al igual que a sus accionistas lo dispuesto en esta fracción, en la fracción III de este artículo y en las fracciones III y IV del artículo 139 de esta Ley.
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2006)</small>
+
+Salvo lo dispuesto en la Ley para Regular las Agrupaciones Financieras, las sociedades que tengan el control de una institución de seguros estarán sometidas a la inspección y vigilancia de la Comisión Nacional de Seguros y Fianzas y les será aplicable al igual que a sus accionistas lo dispuesto en esta fracción, en las fracciones I Bis, último párrafo, y III de este artículo, así como el artículo 138 Bis de esta Ley.
 
 Las personas que aporten acciones de una o varias instituciones de seguros al capital de una de las sociedades a que se refiere el párrafo anterior, podrán mantener la participación que resulte en el capital de la misma, por el valor de las acciones que cada una de ellas aporte.
 
@@ -1697,6 +1725,34 @@ Las instituciones de seguros podrán tomando en cuenta las condiciones de contra
 
 En los seguros que se formalicen a través de contratos de adhesión, excepto los que se refieran a seguros de pensiones derivados de las leyes de seguridad social, la contratación podrá realizarse a través de una persona moral, sin la intervención de un agente de seguros. Las instituciones podrán pagar o compensar a las citadas personas morales servicios distintos a los que esta Ley reserva a los agentes de seguros; para ello deberán suscribir contratos de prestación de servicios cuyos textos deberán registrarse previamente ante la Comisión Nacional de Seguros y Fianzas, la que dentro de un plazo de quince días hábiles siguientes a la recepción de la documentación podrá negar el registro, cuando a su juicio los contratos no se apeguen a las disposiciones jurídicas aplicables y podrá ordenar las modificaciones o correcciones necesarias, prohibiendo su utilización hasta en tanto no se lleven a cabo los cambios ordenados. En caso de que la citada Comisión no formule observaciones dentro del plazo señalado, se entenderá que los documentos han quedado registrados y no existirá inconveniente para su utilización.
 
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2006)</small>
+
+La operación de las personas morales a que se refiere el párrafo anterior, deberá ajustarse a las siguientes bases:
+
+I.- Tratándose de intermediarios financieros sujetos a la inspección y vigilancia por parte de las autoridades financieras, y que celebren con el público operaciones de promoción o venta de productos de seguros para una sola institución aseguradora, para instituciones integrantes de un mismo grupo financiero o para instituciones de seguros que practiquen operaciones o ramos distintos entre sí, su operación se sujetará a lo siguiente:
+
+a).- En el caso de productos de seguros con componentes de ahorro o inversión, la institución de seguros con la cual el intermediario financiero tenga celebrado un contrato de prestación de servicios conforme a lo dispuesto en el tercer párrafo de este artículo, deberá registrar ante la Comisión Nacional de Seguros y Fianzas en los términos previstos en el artículo 36-D de esta Ley, como parte de la documentación contractual del producto de seguro, un programa de capacitación especializada que deberá aplicarse a los empleados y apoderados del intermediario financiero que participará en la comercialización del producto de seguro de que se trate tomando en consideración las características y naturaleza del mismo, y
+
+b).- En el caso de productos de seguros distintos a los señalados en el inciso anterior, la institución de seguros con la cual el intermediario financiero tenga celebrado un contrato de prestación de servicios en términos de lo previsto en el tercer párrafo de este artículo, deberá establecer en el propio contrato los programas de capacitación que, en su caso, se requieran en función de las características o complejidad de los productos de seguros de que se trate;
+
+II.- Tratándose de personas morales que no se ubiquen en el supuesto señalado en la fracción anterior, su operación se sujetará a las disposiciones de carácter general que al efecto expida la Comisión Nacional de Seguros y Fianzas, conforme a lo siguiente:
+
+a).- Establecerán los casos en que los empleados o apoderados de la persona moral que celebren con el público operaciones de promoción o venta de productos de seguros, deban recibir capacitación por parte de las instituciones de seguros, o bien obtener la evaluación y certificación correspondiente ante la propia Comisión, considerando para ello la naturaleza de las actividades que conforme a su objeto social realice la persona moral y las características o complejidad de los productos de seguros de que se trate, y
+
+b).- Determinarán los requisitos y medidas que deberán cumplir para prevenir y evitar conflictos de interés, que puedan derivarse de la venta de productos de seguros de más de una institución por parte de una misma persona moral, o de varias personas morales cuando se encuentren bajo el control patrimonial o administrativo de una misma persona o grupo de personas.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2006)</small>
+
+Las instituciones de seguros serán responsables de los daños y perjuicios que se lleguen a ocasionar a los asegurados, contratantes o beneficiarios, con la actuación de las personas morales con las que celebren contratos en los términos del tercer párrafo de este artículo.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2006)</small>
+
+Las instituciones, los agentes de seguros personas morales y las personas morales a que se refiere el tercer párrafo de este artículo, deberán dar a conocer al público información sobre su operación, en la forma y términos que determine la Comisión Nacional de Seguros y Fianzas mediante disposiciones de carácter general.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2006)</small>
+
+Las personas morales a que se refiere el tercer párrafo de este artículo estarán sujetas a la inspección y vigilancia de la Comisión Nacional de Seguros y Fianzas, respecto de las operaciones a que se refiere dicho párrafo.
+
 > <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1981)</small>
 
 ###### ARTICULO 42.
@@ -1771,7 +1827,9 @@ II.- Para los seguros de vida temporales a un año, el monto de recursos suficie
 
 II Bis.- Para los seguros de pensiones o de supervivencia relacionados con la edad, jubilación o retiro de personas, bajo esquemas privados complementarios a la seguridad social:
 
-a).- En el seguro directo, la reserva matemática de primas correspondientes a las pólizas en vigor al momento de su valuación, calculada de acuerdo con los métodos actuariales que determine la Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general; y
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2006)</small>
+
+a).- En el seguro directo, la reserva matemática de primas correspondientes a las pólizas en vigor al momento de su valuación, así como los gastos de administración derivados del manejo de la cartera, calculada de acuerdo con métodos actuariales basados en la aplicación de estándares generalmente aceptados. Las instituciones de seguros deberán registrar dichos métodos ante la Comisión Nacional de Seguros y Fianzas, de acuerdo a las disposiciones de carácter general que al efecto emita la propia Comisión, y
 
 b).- En el caso del reaseguro, tanto cedido como tomado, esta reserva se constituirá de conformidad con las reglas de carácter general que al efecto emita la Secretaría de Hacienda y Crédito Público y que tomará en cuenta, entre otros elementos, la calidad de las reaseguradoras empleadas;
 
@@ -2025,39 +2083,29 @@ c).- Las clasificaciones y porcentajes mencionados podrán ser determinados para
 
 El presente artículo no será aplicable respecto a las inversiones con cargo a la suma del capital pagado, reservas de capital y los demás rubros de capital que determine el catálogo de cuentas a que se refiere el artículo 101 de esta Ley, computables para el capital mínimo de garantía.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 57.
 
-El importe total de las reservas técnicas previstas en esta Ley, así como los demás recursos a que se refiere el artículo anterior, deberán mantenerse en los renglones de activo que la Secretaría de Hacienda y Crédito Público determine mediante reglas de carácter general, las cuales deberán ajustarse al régimen siguiente:
+El importe total de las reservas técnicas previstas en esta Ley, así como los demás recursos a que se refiere el artículo anterior, en todo momento deberán mantenerse invertidos conforme al régimen de inversión que la Secretaría de Hacienda y Crédito Público determine mediante reglas de carácter general, previa opinión de la Comisión Nacional de Seguros y Fianzas, el cual deberá ajustarse a lo siguiente:
 
-> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 1993)</small>
+a).- Considerará la situación que al respecto guarden en general las instituciones a que se apliquen, señalándoles el plazo para ajustarse a las modificaciones que se hagan, en su caso;
 
-a). Considerarán la situación que al respecto guarden en general las instituciones a que se apliquen, señalándoles plazo para ajustarse a las modificaciones que se hagan, en su caso;
+b).- Tomará en cuenta la liquidez que deban mantener las reservas de acuerdo al destino previsto y su aplicación respecto al cumplimiento de las obligaciones para las que fueron constituidas, y
 
-> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 1993)</small>
+c).- Podrá referirse a diferentes tipos de reservas así como a su magnitud, o bien, a uno o varios tipos de instituciones clasificadas según las operaciones para las que estén autorizadas, su ubicación u otros criterios.
 
-b). Tomarán en cuenta la liquidez que deban mantener las reservas de acuerdo al destino previsto y su aplicación respecto al cumplimiento de las obligaciones para las que fueron constituidas; y
+Cuando las instituciones de seguros presenten faltantes en las coberturas de las reservas técnicas y de los demás recursos previstos en el artículo 56 de esta Ley, o en la cobertura del capital mínimo de garantía conforme a lo previsto en los artículos 60 y 61 de la misma, la Comisión Nacional de Seguros y Fianzas impondrá sanciones por cada faltante que se determine para cada cobertura, cuyos montos se calcularán aplicando a cada uno de los faltantes correspondientes al período previsto en las reglas de carácter general sobre la materia expedidas por la Secretaría de Hacienda y Crédito Público, los siguientes factores sobre la tasa de referencia que resulte del promedio aritmético de las tasas de recargos aplicables en los casos de prórroga para el pago de créditos fiscales derivados de contribuciones federales, vigentes para dicho período:
 
-> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 1993)</small>
+1. De 1 a 1.5 veces la tasa de referencia, cuando se trate de faltantes en la cobertura de reservas técnicas previstas en el artículo 46 de esta Ley, así como en los demás recursos a que se refiere el artículo 56 de la misma, y
 
-c). Podrán referirse a diferentes tipos de reservas así como a su magnitud, o bien a uno o varios tipos de instituciones clasificadas según las operaciones para las que estén autorizadas, su ubicación u otros criterios.
+2. De 1 a 1.25 veces la tasa de referencia cuando se trate de faltantes en la cobertura del requerimiento del capital mínimo de garantía a que se refiere el artículo 60 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2002)</small>
+Se entenderá que los faltantes a los que se refiere este artículo se presentan cuando las instituciones de seguros no cuenten con los recursos suficientes para respaldar, según corresponda, las coberturas de sus reservas técnicas y demás recursos a que se refiere el artículo 56 de esta Ley, o la cobertura del requerimiento de capital mínimo de garantía en términos de lo señalado en los artículos 60 y 61 de la misma, o bien, cuando los recursos no se mantengan invertidos conforme a los regímenes de inversión a que se refieren este artículo y el artículo 61 de esta Ley.
 
-Cuando las instituciones de seguros presenten faltantes en los diversos renglones de activos que deban mantener conforme al presente artículo, así como en el monto del capital mínimo de garantía requerido conforme al artículo 60 de esta Ley, la Comisión Nacional de Seguros y Fianzas impondrá una sanción cuyo monto se determinará aplicando al total de los faltantes los siguientes factores sobre la tasa promedio ponderada de rendimiento equivalente a la de descuento de los Certificados de la Tesorería de la Federación a veintiocho días o al plazo que sustituya a éste en caso de días inhábiles, en colocación primaria, emitidos en el mes de que se trate. En caso de que se dejen de emitir dichos certificados, se deberá utilizar como referencia el instrumento que los sustituya:
+La propia Comisión podrá disminuir la sanción a que se refiere este artículo, en caso de que los faltantes se originen por errores u omisiones de carácter administrativo en la información que las instituciones proporcionen a la Comisión.
 
-1.- De 1 a 1.5 veces la tasa promedio, cuando se trate de faltantes en la cobertura de reservas técnicas previstas en el artículo 46 de esta Ley, y
-
-2.- De 1 a 1.25 veces la tasa promedio, cuando se trate de faltantes en la cobertura del requerimiento de capital mínimo de garantía a que se refiere el artículo 60 de esta Ley.
-
-> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 1993)</small>
-
-La propia Comisión podrá disminuir la sanción a que se refiere el párrafo anterior, en caso de que los faltantes se originen por situaciones críticas de las instituciones, o por errores u omisiones de carácter administrativo en los que a su criterio no haya mediado mala fe.
-
-> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2002)</small>
-
-La Secretaría de Hacienda y Crédito Público, cuando así se justifique, otorgará plazos adecuados que en ningún caso serán mayores a noventa días para que las instituciones ajusten sus inversiones a las disposiciones que dicte. Con independencia de las sanciones a que se refiere este artículo, cuando las instituciones presenten faltantes en la cobertura de sus reservas técnicas se procederá de acuerdo a lo dispuesto en el artículo 74 de esta Ley.
+La Secretaría de Hacienda y Crédito Público, cuando así se justifique, otorgará plazos adecuados que en ningún caso serán mayores a 90 días para que las instituciones ajusten sus inversiones a las disposiciones que dicte. Con independencia de las sanciones a que se refiere este artículo, cuando las instituciones presenten faltantes en la cobertura de sus reservas técnicas se procederá de acuerdo a lo dispuesto en el artículo 74 de esta Ley.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
 
@@ -2115,13 +2163,17 @@ III.- El apropiado nivel de recursos patrimoniales, en relación a los riesgos f
 
 IV.- La determinación de los supuestos y de los recursos de capital que las instituciones deberán mantener con el propósito de hacer frente a situaciones de carácter excepcional que pongan en riesgo su solvencia o estabilidad, derivadas tanto de la operación particular de las instituciones como de condiciones de mercado.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 61.
 
-El importe de los recursos de capital con el que las instituciones de seguros cubran el requerimiento de capital mínimo de garantía a que se refiere el artículo 60 de esta Ley, deberá mantenerse en los renglones de activo y en los porcentajes que la Secretaría de Hacienda y Crédito Público determine mediante reglas de carácter general, previa opinión de la Comisión Nacional de Seguros y Fianzas, tomando en consideración lo siguiente:
+El importe de los recursos de capital con el que las instituciones de seguros cubran el requerimiento de capital mínimo de garantía a que se refiere el artículo 60 de esta Ley, en todo momento deberá mantenerse invertido conforme al régimen de inversión que la Secretaría de Hacienda y Crédito Público determine mediante reglas de carácter general, previa opinión de la Comisión Nacional de Seguros y Fianzas, tomando en consideración lo siguiente:
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 a).- La situación que al respecto guarden en general las instituciones de seguros y la composición y estabilidad de sus recursos, señalándoles plazos para ajustarse a las modificaciones que se hagan a dichos activos o porcentajes, en caso de ser necesario; y
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 b).- Los plazos de las operaciones y el riesgo a que esté expuesto el cumplimiento oportuno de las mismas.
 
@@ -2139,7 +2191,9 @@ Cuando una institución de seguros no mantenga los recursos de capital necesario
 
 A las instituciones de seguros les estará prohibido:
 
-I.- Dar en garantía sus propiedades;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2006)</small>
+
+I.- Dar en garantía sus propiedades, a excepción del efectivo o valores que requieran para asegurar el cumplimiento de las obligaciones derivadas de los contratos de futuro o de opción, así como de las operaciones de reporto y de préstamo de valores, que las instituciones de seguros celebren con apego a las disposiciones de carácter general que para tal efecto emita la Comisión Nacional de Seguros y Fianzas;
 
 > <small>(REFORMADA, D.O.F. 16 DE ENERO DE 2002)</small>
 
@@ -2213,15 +2267,19 @@ Expirados los plazos o, en su caso, las renovaciones que de ellos se concedan, l
 
 XII.- Celebrar operaciones en virtud de las cuales resulten o puedan resultar deudores de la institución, los directores generales o sus equivalentes y las personas que ocupen cargos con las dos jerarquías inferiores a las de aquéllos, salvo que correspondan a prestaciones de carácter laboral otorgadas de manera general; los comisarios propietarios o suplentes, estén o no en funciones; los auditores externos de la institución; o los ascendientes o descendientes en primer grado o cónyuges de las personas anteriores.
 
-> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2006)</small>
 
-Lo dispuesto en esta fracción no se aplicará cuando se trate de préstamos con garantía de las reservas matemáticas de primas de la operación de vida, con excepción a los contratos de seguros de pensiones derivados de las leyes de seguridad social; y
+Lo dispuesto en esta fracción no se aplicará cuando se trate de préstamos con garantía de las reservas matemáticas de primas de la operación de vida, con excepción a los contratos de seguros de pensiones derivados de las leyes de seguridad social;
 
 XIII.- Repartir dividendos con los fondos de las reservas que hayan constituido por disposición legal o de otras reservas creadas para compensar o absorber pérdidas futuras.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2006)</small>
 
-Tampoco podrán repartir dividendos, sin haber constituido debidamente tales reservas o mientras haya déficit en las mismas, o la institución tenga faltantes del capital mínimo o del capital mínimo de garantía que exige esta Ley, ni en el caso a que se refiere el artículo 105 de esta Ley.
+Tampoco podrán repartir dividendos, sin haber constituido debidamente tales reservas o mientras haya déficit en las mismas, o la institución tenga faltantes del capital mínimo o del capital mínimo de garantía que exige esta Ley, ni en el caso a que se refiere el artículo 105 de esta Ley, y
+
+> <small>(ADICIONADA, D.O.F. 24 DE ABRIL DE 2006)</small>
+
+XIV.- En las operaciones a que se refieren los incisos g) y h) de la fracción III del artículo 7o. de esta Ley, celebrar contratos de seguro con intermediarios financieros integrantes del grupo financiero del que formen parte, o con aquellos intermediarios financieros con los que mantengan nexos patrimoniales.
 
 > <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 1981)</small>
 
@@ -2403,7 +2461,9 @@ No estarán sujetas a las sanciones previstas en esta Ley, las irregularidades q
 
 Si una vez transcurrido el plazo otorgado dentro del plan de regularización la institución no hubiere subsanado la irregularidad que dio origen al plan, la Comisión Nacional de Seguros y Fianzas concederá a la sociedad un plazo de diez días naturales a partir de la fecha de la notificación, para que ésta exponga lo que a su derecho convenga y someta a su aprobación las acciones complementarias que adoptará para subsanar la problemática determinada dentro de un plazo que no podrá exceder de treinta días naturales, contados a partir de la fecha en que dichas acciones hubiesen sido aprobadas por la Comisión.
 
-Si transcurridos los plazos a que se refiere el párrafo anterior no se hubieren subsanado las irregularidades detectadas que motivaron el plan, la Comisión Nacional de Seguros y Fianzas lo hará del conocimiento de la Secretaría de Hacienda y Crédito Público, la cual concederá a la institución un plazo no menor de treinta ni mayor de sesenta días naturales para que lleve a cabo las acciones necesarias para corregir dichas irregularidades o, en protección del interés público, dará inicio al proceso de revocación de la autorización respectiva para operar como institución de seguros. Con independencia de lo anterior, la Comisión Nacional de Seguros y Fianzas podrá ordenar la adopción de una o varias de las medidas a que se refiere el artículo 74 Bis-1, o bien proceder conforme a lo que establece el artículo 113 de esta Ley.
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2006)</small>
+
+Si transcurridos los plazos a que se refiere el párrafo anterior no se hubieren subsanado las irregularidades detectadas que motivaron el plan, la Comisión Nacional de Seguros y Fianzas lo hará del conocimiento de la Secretaría de Hacienda y Crédito Público, la cual, en protección del interés público, dará inicio al proceso de revocación de la autorización respectiva para operar como institución de seguros. Con independencia de lo anterior, la Comisión Nacional de Seguros y Fianzas podrá ordenar la adopción de una o varias de las medidas a que se refiere el artículo 74 Bis-1, o bien proceder conforme a lo que establece el artículo 113 de esta Ley.
 
 Independientemente de las sanciones que proceda imponer, la Comisión Nacional de Seguros y Fianzas podrá, en protección del interés público, ordenar a la institución que informe a sus asegurados sobre el incumplimiento del plan, en la forma y términos que la propia Comisión determine.
 
@@ -2445,9 +2505,17 @@ c) Faltante en los recursos de capital necesarios para la cobertura del requerim
 
 d) Faltante en la cobertura del capital mínimo pagado, a que se refiere el primer párrafo de la fracción I del artículo 29 de esta Ley, superior al 15% de dicho requerimiento;
 
-e) Resultado neto del ejercicio de que se trate, que represente una pérdida acumulada en cuantía superior al 25% de su capital social pagado y reservas de capital, o
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2006)</small>
 
-f) Irregularidades en su contabilidad o administración que impidan o dificulten notablemente conocer la verdadera situación financiera o la cobertura de los parámetros regulatorios de la institución.
+e) Resultado neto del ejercicio de que se trate, que represente una pérdida acumulada en cuantía superior al 25% de su capital social pagado y reservas de capital;
+
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2006)</small>
+
+f) Irregularidades en su contabilidad o administración que impidan o dificulten notablemente conocer la verdadera situación financiera o la cobertura de los parámetros regulatorios de la institución, o
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2006)</small>
+
+g) Incumplimiento a un plan de regularización de los previstos en los artículos 74 y 74 Bis de esta Ley.
 
 En cualquiera de los casos antes señalados y con independencia de las sanciones que, en su caso, proceda imponer, la Comisión Nacional de Seguros y Fianzas podrá ordenar a la institución la adopción de una o varias de las siguientes medidas:
 
@@ -2529,9 +2597,9 @@ b).- Si no presenta a la Comisión Nacional de Seguros y Fianzas, el dictamen de
 
 c).- Si en cualquier momento la Secretaría de Hacienda y Crédito Público o la Comisión Nacional de Seguros y Fianzas tienen conocimiento de que dichas instituciones no mantienen los elementos necesarios para prestar los servicios materia de los contratos de seguro a que se refiere el artículo 8o., fracción V, de esta Ley. Para este efecto, la Comisión Nacional de Seguros y Fianzas solicitará la opinión previa de la Secretaría de Salud;
 
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1997)</small>
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2006)</small>
 
-III.- Si se infringe lo establecido en el último párrafo de la fracción I Bis del artículo 29 de esta Ley o si la institución de seguros establece relaciones de dependencia con los gobiernos o dependencias oficiales extranjeras;
+III.- Si la institución de seguros establece relaciones de dependencia con gobiernos o dependencias oficiales extranjeros;
 
 > <small>(REFORMADA, D.O.F. 7 DE ENERO DE 1981)</small>
 
@@ -2913,7 +2981,9 @@ IV.- Obtener préstamos, a excepción de líneas de crédito otorgadas por las i
 
 V.- Dar en reporto títulos de crédito;
 
-VI.- Dar en garantía sus propiedades;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2006)</small>
+
+VI.- Dar en garantía sus propiedades, a excepción del efectivo o valores que requieran para asegurar el cumplimiento de las obligaciones derivadas de los contratos de futuro o de opción, así como de las operaciones de reporto y de préstamo de valores, que las sociedades mutualistas de seguros celebren con apego a las disposiciones de carácter general que para tal efecto emita la Comisión Nacional de Seguros y Fianzas;
 
 VII.- Dar en prenda los títulos o valores de su cartera;
 
@@ -2984,6 +3054,8 @@ II.- Si no mantiene las reservas que exige esta Ley, sin perjuicio de los plazos
 III.- Si se infringe lo establecido en la fracción XI del artículo 78 de esta Ley, o si la sociedad establece con las entidades o grupos mencionados en dicha fracción, relaciones evidentes de dependencia;
 
 IV.- (DEROGADA, D.O.F. 16 DE ENERO DE 2002)
+
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
 V.- Si reiteradamente, a pesar de las observaciones de la Comisión Nacional de Seguros y Fianzas, la sociedad excede los límites de las obligaciones que pueda contraer, ejecuta operaciones distintas de las permitidas por la autorización y por la ley o no mantiene las proporciones del activo establecidas en esta Ley;
 
@@ -3324,6 +3396,18 @@ Habrá quórum con la presencia de por lo menos ocho de sus integrantes. Las res
 Las resoluciones y recomendaciones que apruebe la Junta serán comunicadas después de cada sesión a la Secretaría de Hacienda y Crédito Público.
 
 Los acuerdos de la Junta de Gobierno serán ejecutivos en los términos expresados anteriormente y corresponderá al Presidente, en ejercicio de sus atribuciones, darles oportuno cumplimiento.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2006)</small>
+
+###### ARTICULO 108-D.
+
+La Comisión prestará los servicios de asistencia y defensa legal a los integrantes de su Junta de Gobierno y a los servidores públicos que laboren en la propia Comisión, con respecto a los actos que las personas antes referidas lleven a cabo en el ejercicio de las funciones que por ley les estén encomendadas.
+
+Los interventores de entidades financieras que sean designados por la Comisión en términos de las leyes aplicables, así como de lo dispuesto en esta Ley y el personal auxiliar al cual los propios interventores les otorguen poderes porque sea necesario para el desempeño de sus funciones, también serán sujetos de asistencia y defensa legal por actos que desempeñen en el ejercicio de las facultades que las leyes les encomienden derivados de la intervención, cuando la entidad de que se trate no cuente con recursos líquidos suficientes para hacer frente a dicha asistencia y defensa legal.
+
+La asistencia y defensa legal se proporcionará con cargo a los recursos con los que para estos fines cuente la Comisión, de acuerdo con los lineamientos de carácter general que apruebe la Junta de Gobierno de la propia Comisión en los cuales deberá preverse el supuesto de que si la autoridad competente le dicta al sujeto de la asistencia legal resolución definitiva que cause ejecutoria en su contra, dicho sujeto deberá reembolsar a la Comisión los gastos y cualquier otra erogación en que se hubiere incurrido con motivo de la asistencia y defensa legal.
+
+Para tales efectos, la Secretaría de Hacienda y Crédito Público oyendo la opinión de la Comisión, establecerá los mecanismos necesarios para cubrir los gastos que deriven de la asistencia y defensa legal previstos en este artículo.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -3703,7 +3787,9 @@ Las multas correspondientes a sanciones por las infracciones previstas en esta L
 
 Al imponer la sanción que corresponda, la citada Comisión siempre deberá oír previamente al interesado y tomará en cuenta las condiciones económicas e intención del infractor, la importancia de la infracción y sus antecedentes en relación con el cumplimiento de esta Ley o de las disposiciones que emanen de ella.
 
-En el caso de las instituciones y sociedades mutualistas de seguros, la condición económica se medirá en función del capital contable o del fondo social al término del ejercicio anterior a la imposición de la infracción.
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2006)</small>
+
+En el caso de las instituciones y sociedades mutualistas de seguros, la condición económica se medirá en función del capital contable o del fondo social al término del ejercicio anterior a la comisión de la infracción.
 
 Para oír previamente al presunto infractor, la Comisión deberá otorgarle un plazo de diez días hábiles que podrá prorrogar por una sola vez, para que el interesado manifieste lo que a su derecho convenga, ofreciendo o acompañando, en su caso, las pruebas que considere convenientes. Agotado el plazo o la prórroga señalados, si el interesado no ejerció su derecho de audiencia se tendrá por precluido el derecho y con los elementos existentes en el expediente administrativo correspondiente, se procederá a emitir la resolución que corresponda, ajustándose a lo dispuesto en el presente artículo.
 
@@ -3723,6 +3809,14 @@ Lo dispuesto en este artículo no excluye la imposición de las sanciones que co
 
 En protección del interés público, la Comisión divulgará las sanciones que al efecto imponga por infracciones a esta Ley o a las disposiciones que emanen de ella, una vez que dichas resoluciones hayan quedado firmes o sean cosa juzgada, señalando exclusivamente la persona sancionada, el precepto infringido y la sanción.
 
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2006)</small>
+
+###### ARTICULO 138 Bis.
+
+Las instituciones de seguros se abstendrán, sin causa de responsabilidad, de efectuar la inscripción en el registro a que se refieren los artículos 128 y 129 de la Ley General de Sociedades Mercantiles, de aquellas transmisiones de acciones que se efectúen en contravención de lo dispuesto por los artículos 29, fracciones I Bis, último párrafo, y II, 33 G y 33 H de esta Ley, debiendo informar tal circunstancia a la Comisión Nacional de Seguros y Fianzas, dentro de los cinco días hábiles siguientes a la fecha en que tengan conocimiento de ello.
+
+Las adquisiciones que contravengan lo previsto en los artículos 29, fracciones I Bis, último párrafo, y II, 33 G y 33 H de esta Ley estarán afectadas de nulidad relativa, en cuyo caso las personas que hubieren adquirido las acciones no podrán ejercer los derechos sociales y económicos derivados de las acciones de que se trate.
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 139.
@@ -3735,17 +3829,17 @@ I.- (DEROGADA, D.O.F. 16 DE ENERO DE 2002)
 
 II.- Multa de 1500 a 5000 días de salario, por violación al artículo 20 de esta Ley. En este caso la Comisión Nacional de Seguros y Fianzas la impondrá al propietario y a cada uno de los administradores o miembros del consejo de administración, directores o gerentes del establecimiento o de la sociedad, y además, será clausurado administrativamente por dicha Comisión hasta que el nombre, denominación o razón social sea cambiado;
 
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1997)</small>
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2006)</small>
 
-III.- Pérdida de la participación del capital de que se trate en favor del Gobierno Federal, cuando se viole lo dispuesto en el último párrafo de la fracción I Bis del artículo 29 de esta Ley;
+III.- Multa de 200 a 10,000 días de salario, a las instituciones de seguros que omitan informar a la Comisión Nacional de Seguros y Fianzas, respecto de la adquisición de acciones a que se refiere el artículo 138 Bis de esta Ley;
 
-> <small>(REFORMADA, D.O.F. 16 DE ENERO DE 2002)</small>
+> <small>(ADICIONADA, D.O.F. 24 DE ABRIL DE 2006)</small>
 
-IV.- Multa por el importe equivalente al quince por ciento del valor de las acciones que excedan del porcentaje autorizado o de las acciones con que se participe en la Asamblea, según sea el caso, conforme a la valuación que de esas mismas acciones se haga de acuerdo con lo previsto en la fracción tercera del artículo 99 de esta Ley, a las personas que infringiendo lo dispuesto en las fracciones I, I Bis y II del artículo 29 y los artículos 33-G y 33-H de la misma Ley, lleguen a ser propietarias de acciones de una institución de seguros de cualquier tipo o de una de las sociedades controladoras a que se refiere la fracción III del artículo 29, en exceso de los porcentajes autorizados, así como los que al participar en las Asambleas incurran en falsedad al buscar las manifestaciones a que se refieren los incisos a) y b) de la fracción III del citado artículo.
+III Bis.- Multa de 3,000 a 20,000 días de salario, a las personas que adquieran acciones de una institución de seguros en contravención de lo establecido en alguno de los artículos 29, fracciones I Bis, último párrafo, y II, 33 G y 33 H de esta Ley;
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2006)</small>
 
-En este caso los infractores tendrán un plazo de tres meses contado a partir de la imposición de la referida multa para corregir tal situación, vencido el cual, si no lo han hecho, podrá imponérseles nueva sanción por tres tantos del importe de la multa anterior. La Comisión Nacional de Seguros y Fianzas podrá seguir imponiendo multas sucesivas al infractor por tres tantos de la multa que antecede, cuantas veces, vencidos plazos iguales al señalado, deje de corregir la situación irregular;
+IV.- Multa por el importe equivalente al quince por ciento del valor de las acciones con que se participe en la Asamblea, conforme a la valuación que de esas mismas acciones se haga de acuerdo con lo previsto en la fracción tercera del artículo 99 de esta Ley, a las personas que al participar en las Asambleas incurran en falsedad en las manifestaciones a que se refieren los incisos a) y b) de la fracción III del artículo 29 de esta Ley;
 
 > <small>(ADICIONADA, D.O.F. 16 DE ENERO DE 2002)</small>
 
@@ -3873,13 +3967,19 @@ b).- Altere, borre, enmiende o destruya un documento de elegibilidad;
 
 c).- Realice actividades tendientes al ofrecimiento de seguros de pensiones, en instalaciones del Instituto Mexicano del Seguro Social; y
 
-d).- Al momento de ofrecer la contratación de seguros de pensiones, utilice cualquier medio de presión o simulaciones en contra de los asegurados o beneficiarios; y
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2006)</small>
 
-II.- Inhabilitación para contratar, en cualquier tiempo, con las personas que conforme a las Reglas de Operación para los Seguros de Pensiones, derivados de las Leyes de Seguridad Social, aparezcan relacionadas en el listado de un día de la base de prospectación que distribuya el Instituto Mexicano del Seguro Social; esta inhabilitación no será menor de dos ni mayor a cinco días de los listados correspondientes a cada uno de los días de la sanción, a la institución que:
+d).- Al momento de ofrecer la contratación de seguros de pensiones, utilice cualquier medio de presión o simulaciones en contra de quienes puedan llegar a ser los asegurados o beneficiarios;
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE ABRIL DE 2006)</small>
+
+II.- Multa de mil a ocho mil días de salario, a la institución que:
 
 a).- Efectúe pagos de rentas anticipados u otorgue financiamientos a los asegurados o beneficiarios, con los que celebre un contrato de seguro de pensiones;
 
-b).- Efectúe pagos, otorgue beneficios adicionales o cualquier otra prestación al asegurado o beneficiario de un contrato de seguro de pensiones, con anterioridad al plazo establecido en la póliza para el pago de la primera renta o pensión;
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2006)</small>
+
+b).- Efectúe pagos, otorgue beneficios adicionales o cualquier otra prestación al asegurado o beneficiario, o a quienes puedan llegar a serlo, en un contrato de seguro de pensiones, con anterioridad al plazo establecido en la póliza para el pago de la primera renta o pensión;
 
 c).- Efectúe pagos vencidos a los asegurados o beneficiarios con anterioridad a la fecha de emisión de la póliza respectiva;
 
@@ -3893,7 +3993,9 @@ g).- Tenga acceso parcial o total a la información contenida en la base de pros
 
 A los agentes de seguros que incurran en alguna de las infracciones a que se refiere la fracción I anterior, en forma individual o conjuntamente con las instituciones de seguros, se les aplicará una multa de doscientos cincuenta a tres mil días de salario.
 
-Los agentes de seguros que cometan alguna de las infracciones previstas en la fracción II de este artículo, en forma individual o conjuntamente con las instituciones de seguros, serán sancionados con inhabilitación para intermediar, en cualquier tiempo, con las personas que conforme a las Reglas de Operación para los Seguros de Pensiones, derivados de las Leyes de Seguridad Social, aparezcan relacionadas en el listado de un día de la base de prospectación que distribuya el Instituto Mexicano del Seguro Social; esta inhabilitación no será menor de dos ni mayor a cinco días de los listados correspondientes a cada uno de los días de la sanción.
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2006)</small>
+
+Los agentes de seguros que cometan alguna de las infracciones previstas en la fracción II de este artículo, en forma individual o conjuntamente con las instituciones de seguros, serán sancionados con multa de quinientos a cinco mil días de salario.
 
 En caso de que un agente de seguros acumule cinco infracciones por los conceptos señalados en la fracción II de este artículo, durante un lapso de doscientos días naturales, se le revocará la autorización para operar como agente de seguros, en los términos del reglamento respectivo
 
@@ -4936,3 +5038,15 @@ SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 ...
+
+D.O.F. 24 DE ABRIL DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- A las instituciones de seguros que a la entrada en vigor del presente Decreto cuenten con la autorización a que se refiere el artículo 7o. de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, para practicar el ramo de seguro de crédito y otras operaciones o ramos, no les será aplicable la limitación prevista en el penúltimo párrafo que se adiciona al artículo 7o. citado. A las instituciones de seguros que se encuentren en este supuesto no se les podrá autorizar la operación de los ramos de seguro de crédito a la vivienda o de seguro de garantía financiera.
+
+TERCERO.- En tanto no se deroguen o modifiquen las reglas y disposiciones de carácter general vigentes, se continuarán aplicando en lo que no se opongan al presente Decreto.
+
+CUARTO.- A las personas que hubieren cometido infracciones con anterioridad a la entrada en vigor del presente Decreto, les serán aplicables las disposiciones vigentes al momento en que se hubieren realizado dichas conductas, salvo que las disposiciones de este Decreto les resulten favorables, en cuyo caso se aplicarán éstas.
+
+QUINTO.- Las instituciones de seguros deberán adecuar sus productos de seguro, así como los contratos de prestación de servicios, según corresponda, a lo previsto en la fracción I del artículo 41 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, dentro de un plazo de noventa días naturales contados a partir de la entrada en vigor del presente Decreto en el Diario Oficial de la Federación.
