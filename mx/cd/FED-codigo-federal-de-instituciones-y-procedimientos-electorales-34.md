@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-instituciones-y-procedimientos-electorales-34
 country: "mx"
 rank: "codigo"
 publication_date: "1990-08-15"
-last_updated: "2005-06-30"
+last_updated: "2006-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1990-08-14"
 
 CODIGO FEDERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE ABRIL DE 2006.
 
 Código publicado en el Diario Oficial de la Federación, el miércoles 15 de agosto de 1990.
 
@@ -779,7 +779,7 @@ q) Abstenerse de utilizar símbolos religiosos, así como expresiones, alusiones
 
 > <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-r) Abstenerse de realizar afiliaciones colectivas de ciudadanos; y
+r) Abstenerse de realizar afiliaciones colectivas de ciudadanos; y (sic)
 
 > <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 2002)</small>
 
@@ -4977,7 +4977,9 @@ ARTICULO 239
 
 1. Para asegurar el orden y garantizar el desarrollo de la jornada electoral, los cuerpos de seguridad pública de la Federación, de los estados y de los municipios o, en su caso, las fuerzas armadas, deben prestar el auxilio que les requieran los órganos del Instituto Federal Electoral y los Presidentes de las mesas directivas de casilla, en el ámbito de sus respectivas competencias, conforme a las disposiciones de este Código.
 
-2. El día de la elección y el precedente permanecerán cerrados todos los establecimientos que, en cualesquiera de sus giros, expendan bebidas embriagantes.
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2006)</small>
+
+2. El día de la elección y el precedente, a juicio de las autoridades competentes y de acuerdo a la normatividad que exista en cada entidad federativa, se ordenará, cuando sea indispensable para preservar el orden de la jornada, el cierre de los establecimientos que expendan bebidas embriagantes.
 
 3. El día de la elección exclusivamente pueden portar armas los miembros uniformados de las fuerzas públicas encargadas del orden.
 
@@ -5275,7 +5277,7 @@ ARTICULO 256
 
 a) Se tomará nota de los resultados que consten en cada una de las actas de cómputo distrital;
 
-b) La suma de esos resultados constituirá el cómputo de entidad federativa de la elección de senador; y
+b) La suma de esos resultados constituirá el cómputo de entidad federativa de la elección de senador; y (sic)
 
 > <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
@@ -6384,3 +6386,7 @@ El Instituto Federal Electoral rendirá un informe de las adjudicaciones directa
 Artículo Sexto.- El Instituto Federal Electoral establecerá, en su caso, con el organismo público descentralizado denominado Servicio Postal Mexicano, y con los servicios postales del extranjero, los acuerdos necesarios para asegurar el eficiente, seguro y oportuno manejo, despacho, recepción y entrega de los documentos y materiales que se requieran para el ejercicio del derecho al voto de los mexicanos residentes en el extranjero.
 
 Artículo Séptimo.- De ser necesario, con la participación del Instituto, el Titular del Poder Ejecutivo Federal por conducto de la Secretaría de Relaciones Exteriores, establecerá los acuerdos necesarios para coadyuvar al cumplimiento de lo establecido en el Artículo Transitorio anterior.
+
+D.O.F. 24 DE ABRIL DE 2006.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
