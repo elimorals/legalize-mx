@@ -4,7 +4,7 @@ identifier: "LARCP"
 country: "mx"
 rank: "ley"
 publication_date: "1992-07-15"
-last_updated: "1992-07-15"
+last_updated: "2006-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=646&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LARCP"
 
 LEY DE ASOCIACIONES RELIGIOSAS Y CULTO PUBLICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE ABRIL DE 2006.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 15 de julio de 1992.
 
@@ -112,9 +112,17 @@ Un extracto de la solicitud del registro al que se refiere este precepto deberá
 
 Las asociaciones religiosas deberán:
 
-I. Sujetarse siempre a la Constitución y a las leyes que de ella emanan, y respetar las instituciones del país; y,
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2006)</small>
 
-II. Abstenerse de perseguir fines de lucro o preponderantemente económicos.
+I. Sujetarse siempre a la Constitución y a las leyes que de ella emanan, y respetar las instituciones del país;
+
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2006)</small>
+
+II. Abstenerse de perseguir fines de lucro o preponderantemente económicos, y
+
+> <small>(ADICIONADA, D.O.F. 24 DE ABRIL DE 2006)</small>
+
+III. Respetar en todo momento los cultos y doctrinas ajenos a su religión, así como fomentar el diálogo, la tolerancia y la convivencia entre las distintas religiones y credos con presencia en el país.
 
 ###### ARTICULO 9o.
 
@@ -413,3 +421,9 @@ La Secretaría de Gobernación, en un plazo no mayor de seis meses a partir de l
 México, D.F., 13 de julio de 1992.- Dip. Gustavo Carvajal Moreno, Presidente.- Sen. Manuel Aguilera Goméz, Presidente.- Dip. Jaime Rodríguez Calderón, Secretario.- Sen. Oscar Ramírez Mijares, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los catorce días del mes de julio de mil novecientos noventa y dos. Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación.- Fernando Gutiérrez Barrios.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 24 DE ABRIL DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
