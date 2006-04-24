@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2006-02-14"
+last_updated: "2006-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE ABRIL DE 2006.
 
 ULTIMA MODIFICACION AL LISTADO DE SUSTANCIAS PSICOTROPICAS: 9 DE JULIO DE 1996.
 
@@ -292,6 +292,8 @@ VI.- Promover y programar el alcance y las modalidades del Sistema Nacional de S
 
 VII.- Coordinar el Sistema Nacional de Salud;
 
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
 > <small>(ADICIONADA, D.O.F. 15 DE MAYO DE 2003)</small>
 
 VII bis.- Regular, desarrollar, coordinar, evaluar y supervisar las acciones de protección social en salud;
@@ -542,6 +544,8 @@ IX.- La promoción del mejoramiento de la nutrición, y
 
 X.- La asistencia social a los grupos más vulnerables.
 
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
 > <small>(REFORMADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 28.
@@ -597,6 +601,8 @@ II.- Servicios a derechohabientes de instituciones públicas de seguridad social
 III.- Servicios sociales y privados, sea cual fuere la forma en que se contraten, y
 
 IV.- Otros que se presten de conformidad con lo que establezca la autoridad sanitaria.
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
 > <small>(REFORMADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -3714,6 +3720,28 @@ Los insumos para la salud comprendidos en el artículo 262 de esta ley no podrá
 
 El proceso de los materiales quirúrgicos, de curación y productos higiénicos, quedará sujeto, en lo conducente, a las disposiciones del Capítulo IV de este Título.
 
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2006)</small>
+
+###### ARTICULO 268 Bis.
+
+Los tatuadores, perforadores o micropigmentadores, deberán contar con autorización sanitaria de acuerdo con los términos del Capítulo I del Título Décimo Sexto de esta Ley y las demás disposiciones aplicables.
+
+Se entenderá por:
+
+Tatuador: Persona que graba dibujos, figuras o marcas en la piel humana, introduciendo colorantes bajo la epidermis con agujas, punzones u otro instrumento por las punzadas previamente dispuestas.
+
+Perforador: Persona que introduce algún objeto decorativo de material de implantación hipoalergénico en la piel o mucosa con un instrumento punzo cortante.
+
+Micropigmentador: Persona que deposita pigmentos en áreas específicas de la piel humana, bajo la epidermis, en la capa capilar de la dermis con agujas accionadas mediante un instrumento manual o electromecánico.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2006)</small>
+
+###### ARTICULO 268 Bis 1.
+
+Queda prohibido realizar tatuajes, micro pigmentaciones y perforaciones a personas menores de 18 años de edad, así como aquellas que no se encuentren en pleno goce de sus facultades mentales. En el caso de las acciones antes mencionadas, sólo podrá exceptuarse lo anterior cuando los menores de 18 años estén acompañados de uno de sus padres o tutor previa acreditación de tal carácter, o cuenten con la autorización por escrito.
+
+La violación de esta disposición se sancionará en los términos previstos en el artículo 419 de esta Ley, y conllevará a la revocación definitiva de la autorización respectiva.
+
 ### CAPITULO I. Disposiciones comunes
 
 > <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
@@ -5354,11 +5382,11 @@ IV.- La calidad de reincidente del infractor;
 
 V.- El beneficio obtenido por el infractor como resultado de la infracción.
 
-> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 419.
 
-Se sancionará con multa hasta mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 55, 56, 83, 103, 107, 137, 138, 139, 161, 200 bis, 202, 259, 260, 263, 282 bis 1, 342, 346, 348, segundo párrafo, 350 bis 6, 391 y 392 de esta Ley.
+Se sancionará con multa hasta mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 55, 56, 83, 103, 107, 137, 138, 139, 161, 200 Bis, 202, 259, 260, 263, 268 Bis-1, 282 Bis-1, 342, 346, 348, segundo párrafo, 350 Bis-6, 391 y 392 de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2005)</small>
 
@@ -5993,3 +6021,9 @@ Artículo Único. El presente Decreto entrará en vigor al día siguiente de su 
 D.O.F. 14 DE FEBRERO DE 2006.
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE ABRIL DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El Ejecutivo Federal contará con sesenta días a partir de la entrada en vigor de este Decreto para emitir el Reglamento en Materia de Tatuajes, Micropigmentaciones y Perforaciones.
