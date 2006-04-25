@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-del-estado-de-guerrero-5098"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-14"
-last_updated: "2005-11-08"
+last_updated: "2006-04-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO PENAL DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ABRIL DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 14 de noviembre de 1986.
 
@@ -1835,17 +1835,17 @@ VIII.- Declare falsamente el fallecimiento de una persona en el acta respectiva.
 
 ### CAPITULO VII. VIOLENCIA INTRAFAMILIAR
 
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2006)</small>
 
-194 A.- Se entiende por violencia intrafamiliar el acto u omisión recurrente e intencional realizado con el fin de dominar, someter o controlar, o maltratar física, verbal, psico-emocional o sexualmente a cualquiera de las personas señaladas en las fracciones del artículo 194-B del presente Código, independientemente de que pueda o no producir otro delito.
+194 A.- Se entiende por violencia intrafamiliar el acto u omisión intencional realizada con el fin de dominar, someter o controlar, o maltratar física, verbal, psico-emocional o sexualmente a cualquiera de las personas señaladas en las fracciones del artículo 194-B del presente Código, independientemente de que pueda o no producir otro delito.
 
 Para los efectos de este capítulo se entiende por:
 
-Maltrato físico.- Toda agresión intencional y reiterada, en la que se utilice alguna parte del cuerpo, algún objeto, arma o sustancia para sujetar, inmovilizar o causar daño a la integridad física de otro.
+I. Maltrato físico.- Toda agresión intencional, en la que se utilice alguna parte del cuerpo, algún objeto, arma o sustancia para sujetar, inmovilizar o causar daño a la integridad física de otro;
 
-Maltrato psico-emocional.- Al patrón de conducta consistente en actos u omisiones, cuyas formas de expresión pueden ser prohibiciones, condicionamientos, coacciones, intimidaciones, amenazas, actitudes devaluatorias o de abandono, que provoquen en quien las reciba deterioro, disminución o afectación a su personalidad.
+II. Maltrato psico-emocional.- Al patrón de conducta consistente en actos u omisiones, cuyas formas de expresión pueden ser prohibiciones, condicionamientos, coacciones, intimidaciones, amenazas, actitudes devaluatorias o de abandono, que provoquen en quien las reciba deterioro, disminución o afectación a su personalidad; y
 
-Maltrato Sexual.- Los actos u omisiones reiteradas para el control, manipulación o dominio de la pareja que generen un daño, cuyas formas de expresión pueden ser entre otras: negar las necesidades afectivas, inducir a la realización de prácticas sexuales no deseadas o que generen dolor.
+III. Maltrato Sexual.- Los actos u omisiones intencionales para el control, manipulación o dominio de la pareja que generen un daño, cuyas formas de expresión pueden ser entre otras: negar las necesidades afectivas, inducir a la realización de prácticas sexuales no deseadas o que generen dolor.
 
 > <small>(ADICIONADO, P.O. 20 DE ABRIL DE 1999)</small>
 
@@ -3150,3 +3150,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se deroga el Capítulo VI del Título VI que contiene los Artículos 159, 160, 161, 162, 163 y 164 de la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado de Guerrero, publicada en el Periódico Oficial del Gobierno del Estado de fecha 19 de Marzo de 1991.
 
 SEGUNDO.- Se derogan los Artículos 74 y 75 contenidos en el Capítulo II del Título Quinto de la Ley de Protección a los Animales, publicada en el Periódico Oficial del Gobierno del Estado de fecha 8 de Marzo de 1991.
+
+P.O. 25 DE ABRIL DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado, para su conocimiento general.
