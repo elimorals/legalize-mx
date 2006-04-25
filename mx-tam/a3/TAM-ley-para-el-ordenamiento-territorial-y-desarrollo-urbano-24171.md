@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-ordenamiento-territorial-y-desarrollo-urbano-24171"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-25"
-last_updated: "2005-10-12"
+last_updated: "2006-04-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24171&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 LEY PARA EL ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA EL DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS, PUBLICADA EN EL P.O. DE 25 DE ABRIL DE 2006., EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 25 de octubre de 2001.
 
@@ -1820,3 +1822,31 @@ P.O. 12 DE OCTUBRE DE 2005.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE ABRIL DE 2006.
+
+###### ARTICULO PRIMERO.
+
+La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley para el Ordenamiento Territorial y Desarrollo Urbano del Estado de Tamaulipas, expedida mediante el Decreto número 468, publicado en el Periódico Oficial del Estado el día 25 de Octubre de 2001.
+
+###### ARTICULO TERCERO.
+
+El Sistema Estatal de Información Geográfica previsto en el artículo 57 de la ley que se abroga quedará a cargo del Sistema Estatal de Planeación e Información Geográfica para el Desarrollo Urbano que se establece en la presente ley. Los recursos humanos y materiales a cargo de aquél y su acervo documental e informativo de todo tipo pasarán a ser responsabilidad de éste. Esta transferencia no implicará cambio ni disminución en la esfera de los derechos de los trabajadores del Sistema Estatal de Información Geográfica.
+
+###### ARTICULO CUARTO.
+
+Continúan vigentes los decretos, planes que integran el Sistema Estatal, reglamentos y autorizaciones expedidas o aprobadas por el Ejecutivo del Estado, los Ayuntamientos o las autoridades competentes que actuaron conforme a la ley que se abroga, en todo lo que no se oponga a la presente.
+
+En tanto se expiden los programas a que se refieren las fracciones XL a la XLV del artículo 5 de este ordenamiento, se atenderá lo previsto en los planes aludidos en el artículo 6 de la ley que se abroga.
+
+###### ARTICULO QUINTO.
+
+El Consejo Estatal para el Desarrollo de las Ciudades se integrará con base en la convocatoria inicial que formule el Gobernador del Estado y celebrará su sesión inicial en la fecha que éste señale. Con posterioridad a esa sesión, se reunirá conforme a lo dispuesto por el artículo 15 párrafo 3 de la presente ley y las reglas de operación del Consejo.
+
+###### ARTICULO SEXTO.
+
+Los Comités Municipales para el Desarrollo Urbano se integrarán con base en las convocatorias iniciales que respectivamente formulen el Presidente Municipal de cada Ayuntamiento y celebrará su sesión inicial en la fecha que dicho servidor público señale. Con posterioridad a esa sesión, se reunirá conforme a lo dispuesto por el artículo 16 párrafo 3 de la presente ley y las reglas de operación del Comité.
