@@ -4,7 +4,7 @@ identifier: "CCOM"
 country: "mx"
 rank: "codigo"
 publication_date: "1889-10-07"
-last_updated: "2006-01-26"
+last_updated: "2006-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=467&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CCOM"
 
 CODIGO DE COMERCIO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE ABRIL DE 2006.
 
 Código publicado en el Diario Oficial de la Federación, del lunes 7 de octubre al viernes 13 de diciembre de 1889.
 
@@ -6032,9 +6032,9 @@ Art. 1,414.- Cualquier incidente o cuestión que se suscite en los juicios ejecu
 
 De la capacidad y personalidad.
 
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 26 DE ABRIL DE 2006)</small>
 
-Art. 1,056. Todo el que, conforme a la ley esté en el pleno ejercicio de sus derechos puede comparecer en juicio. Aquellos que no se hallen en el caso anterior, comparecerán a juicio por medio de sus representantes legítimos o los que deban suplir su incapacidad conforme a derecho. Los ausentes e ignorados serán representados como se previene en el Código Civil para el Distrito Federal.
+Art. 1,056. Todo el que, conforme a la ley esté en el pleno ejercicio de sus derechos puede comparecer en juicio. Aquellos que no se hallen en el caso anterior, comparecerán a juicio por medio de sus representantes legítimos o los que deban suplir su incapacidad conforme a derecho. Los ausentes e ignorados serán representados como se previene en el Código Civil Federal.
 
 > <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
 
@@ -6154,13 +6154,13 @@ III. Por los estrados, en aquellos lugares destinados para tal efecto en los loc
 
 IV. Por edictos que se hagan ostensibles en los sitios públicos de costumbre o que se manden publicar en los periódicos que al efecto se precisen por el tribunal;
 
-> <small>(ADICIONADA, D.O.F. 24 DE MAYO DE 1996)</small>
+> <small>(REFORMADA, D.O.F. 26 DE ABRIL DE 2006)</small>
 
-V. Por correo, y
+V. Por correo certificado, y
 
-> <small>(ADICIONADA, D.O.F. 24 DE MAYO DE 1996)</small>
+> <small>(REFORMADA, D.O.F. 26 DE ABRIL DE 2006)</small>
 
-VI. Por telégrafo.
+VI. Por telégrafo certificado.
 
 > <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
 
@@ -8978,7 +8978,7 @@ Las disposiciones de este Decreto no serán aplicables a los créditos contratad
 
 D.O.F. 29 DE AGOSTO DE 2003.
 
-PRIMERO. El presente Decreto comenzara su vigencia 90 días después de su publicación en el Diario Oficial de la Federación.
+PRIMERO. El presente Decreto comenzará su vigencia 90 días después de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Dentro del plazo de 90 días posteriores a la entrada en vigor del presente Decreto, el Ejecutivo emitirá las reglas generales a que se refieren las presentes disposiciones.
 
@@ -8993,3 +8993,15 @@ UNICO: El presente Decreto entrará en vigor al día siguiente de su publicació
 D.O.F. 26 DE ENERO DE 2006.
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 26 DE ABRIL DE 2006.
+
+DECRETO POR EL QUE SE REFORMA EL ARTICULO 1056 DEL CODIGO DE COMERCIO.
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 26 DE ABRIL DE 2006.
+
+DECRETO QUE REFORMA LAS FRACCIONES V Y VI DEL ARTICULO 1068 DEL CODIGO DE COMERCIO.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
