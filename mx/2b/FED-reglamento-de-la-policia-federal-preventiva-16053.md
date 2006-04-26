@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-policia-federal-preventiva-16053"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-04-26"
-last_updated: "2001-02-06"
+last_updated: "2006-04-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16053&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-04-17"
 
 REGLAMENTO DE LA POLICIA FEDERAL PREVENTIVA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE FEBRERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE ABRIL DE 2006.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 26 de abril de 2000.
 
@@ -47,7 +47,9 @@ La Policía Federal Preventiva tiene a su cargo el ejercicio de las facultades y
 
 Para los efectos de este reglamento, se entenderá por:
 
-I. Secretaría, a la Secretaría de Gobernación;
+> <small>(REFORMADA, D.O.F. 26 DE ABRIL DE 2006)</small>
+
+I. Secretaría, a la Secretaría de Seguridad Pública;
 
 II. Institución, a la Policía Federal Preventiva;
 
@@ -233,7 +235,9 @@ VI. Celebrar contratos, convenios y, en general, toda clase de actos jurídicos 
 
 VII. Participar en las negociaciones de los tratados internacionales que lleve a cabo el Ejecutivo Federal en materia de prevención de delitos cuando así se requiera;
 
-VIII. Autorizar a los servidores públicos para que realicen actas y suscriban documentos específicos;
+> <small>(REFORMADA, D.O.F. 26 DE ABRIL DE 2006)</small>
+
+VIII. Expedir los acuerdos que autoricen a los integrantes de la Institución para que elaboren actas y suscriban los documentos específicos que requiera el ejercicio de sus funciones;
 
 IX. Ordenar y practicar para fines de seguridad pública, visitas de verificación, vigilancias e inspecciones sobre el manejo, transporte o tenencia de mercancías de comercio exterior y de los medios que las transportan en todo el territorio nacional;
 
@@ -245,7 +249,9 @@ XII. Expedir las órdenes para llevar a cabo las diligencias establecidas en el 
 
 XIII. Dictar la política operativa, normativa y funcional, así como los programas que deben seguir las unidades administrativas de la Institución;
 
-XIV. Establecer las políticas de control y dispositivos de vigilancia para expedir infracciones por violación a las disposiciones legales y reglamentarias relativas al uso y aprovechamiento de la zona terrestre de las vías generales de comunicación, remitiéndolas a la dependencia correspondiente para su trámite;
+> <small>(REFORMADA, D.O.F. 26 DE ABRIL DE 2006)</small>
+
+XIV. Establecer las políticas de control y los dispositivos de vigilancia para que los integrantes de la Institución impongan las sanciones por violaciones a las disposiciones legales y reglamentarias relativas al tránsito de vehículos en caminos y puentes federales, así como a la operación de los servicios de autotransporte federal, sus servicios auxiliares y transporte privado cuando circulen en la zona terrestre de las vías generales de comunicación;
 
 XV. Resolver las dudas que se susciten internamente sobre las competencias de las unidades administrativas de la Institución, con motivo de la interpretación o aplicación del presente reglamento y sobre las situaciones no previstas en el mismo, así como establecer los lineamientos y procedimientos conforme a los cuales deben actuar;
 
@@ -261,9 +267,21 @@ XX. Proponer al Secretario de Gobernación los nombramientos de los dos niveles 
 
 XXI. Suscribir las constancias de grado a los integrantes mediante el procedimiento establecido en el manual respectivo;
 
-XXII. Someter a consideración del Secretario de Gobernación la expedición de los manuales que se deriven del presente reglamento;
+> <small>(REFORMADA, D.O.F. 26 DE ABRIL DE 2006)</small>
 
-XXIII. Delegar atribuciones a las unidades administrativas de la Institución, siempre y cuando no sean de las que este reglamento les señale como indelegables, y
+XXII. Someter a consideración del Secretario de Seguridad Pública la expedición de:
+
+a) El Manual de Organización General de la Institución, así como cualquier otro que derive de las disposiciones aplicables, y
+
+b) Los formatos que los integrantes de la Institución utilizarán para el ejercicio de sus funciones.
+
+> <small>(REFORMADA, D.O.F. 26 DE ABRIL DE 2006)</small>
+
+XXIII. Delegar por cargo, grado o materia, así como autorizar de manera específica a determinado integrante de la Institución, la realización de los actos jurídicos inherentes a las atribuciones delegables que este artículo le otorga, incluyendo:
+
+a) Aquéllos necesarios para administrar y preservar los recursos humanos, materiales y financieros que la Institución tenga asignados, salvo lo relativo a la celebración de convenios y contratos, y
+
+b) El trámite y resolución de las impugnaciones que presenten los particulares con motivo de la imposición de sanciones por violaciones a la normatividad que regule el tránsito en caminos y puentes federales, así como aquéllas en materia de operación de los servicios de autotransporte federal, sus servicios auxiliares y transporte privado, cuando los vehículos circulen en la zona terrestre de las vías generales de comunicación;
 
 XXIV. Las demás que le confieran otras disposiciones legales y reglamentarias aplicables.
 
@@ -451,15 +469,73 @@ XII. Ejercer las atribuciones que sobre migración le confieren a la Institució
 
 XIII. Coordinar y planear la actuación del personal de su área, para colaborar, a solicitud de la autoridad que corresponda y en el ámbito de su competencia, con los servicios de protección civil en ocasión de casos fortuitos, desastres, o riesgos inminentes de peligro;
 
-XIV. Aplicar las políticas de control y dispositivos de vigilancia para expedir infracciones por violación a las disposiciones legales y reglamentarias relativas al uso y aprovechamiento de la zona terrestre de las vías generales de comunicación, remitiéndolas a la dependencia correspondiente para su trámite;
+XIV. (DEROGADA, D.O.F. 26 DE ABRIL DE 2006)
 
 XV. Participar, con las autoridades competentes, en la realización de estudios para señalizar la zona federal terrestre con motivo de la prevención de delitos o eventualidades de tránsito;
 
 XVI. Coordinar con el Estado Mayor, desde el punto de vista operativo, la administración de los recursos humanos y materiales asignados a su área;
 
-XVII. Acordar con los titulares de las comandancias regionales el desahogo de los asuntos relacionados con el servicio, y
+> <small>(REFORMADA, D.O.F. 26 DE ABRIL DE 2006)</small>
 
-XVIII. Transmitir información de valor policiaco a la Coordinación de Inteligencia para la Prevención.
+XVII. Acordar con los titulares de las comandancias regionales el desahogo de los asuntos relacionados con el servicio;
+
+> <small>(REFORMADA, D.O.F. 26 DE ABRIL DE 2006)</small>
+
+XVIII. Transmitir información de valor policial a la Coordinación de Inteligencia para la Prevención;
+
+> <small>(ADICIONADA, D.O.F. 26 DE ABRIL DE 2006)</small>
+
+XIX. Proponer a la superioridad el establecimiento de las líneas estratégicas y las tácticas nacionales para cumplir operativamente con la misión de inspección, seguridad, verificación, vigilancia, prevención del delito y combate a la delincuencia, en el ámbito de competencia de la Institución, en los caminos y puentes federales y en la zona terrestre de las vías generales de comunicación;
+
+> <small>(ADICIONADA, D.O.F. 26 DE ABRIL DE 2006)</small>
+
+XX. Expedir y aplicar lineamientos de operación conforme a los cuales los integrantes bajo su mando impongan las sanciones por violación a las disposiciones que regulan el tránsito en caminos y puentes federales, así como la operación de los servicios de autotransporte federal, sus servicios auxiliares y transporte privado cuando los vehículos circulen en la zona terrestre de las vías generales de comunicación.
+
+Los integrantes bajo el mando de la Coordinación, en ejercicio de las funciones de inspección, seguridad, verificación, vigilancia, prevención del delito y combate a la delincuencia, y de conformidad con las disposiciones aplicables, podrán:
+
+a) Ordenar a los conductores de vehículos que detengan su circulación y le exhiban la documentación que establezcan las disposiciones legales y reglamentarias aplicables;
+
+b) Determinar los preceptos legales y reglamentarios que hayan sido violados e imponer las sanciones aplicables, cuantificando las que sean de orden pecuniario;
+
+c) Requisitar la Boleta de Infracción y entregarla al conductor, previa explicación de las reducciones que establezcan las disposiciones aplicables, en su caso, así como de las vías de impugnación administrativa o jurisdiccional a su alcance, y
+
+d) Retirar los vehículos de la circulación en los supuestos que establezcan las disposiciones aplicables, y remitirlos a los depósitos autorizados;
+
+> <small>(ADICIONADA, D.O.F. 26 DE ABRIL DE 2006)</small>
+
+XXI. Expedir y aplicar los lineamientos para el retiro de la circulación de los vehículos que se encuentren en alguno de los supuestos que establecen las disposiciones aplicables;
+
+> <small>(ADICIONADA, D.O.F. 26 DE ABRIL DE 2006)</small>
+
+XXII. Conocer de los hechos de tránsito en caminos y puentes federales, así como en la zona terrestre de las vías generales de comunicación, y formular el Dictamen Técnico a que haya lugar, así como proporcionar informes, orientación y auxilio a los involucrados en los mismos;
+
+> <small>(ADICIONADA, D.O.F. 26 DE ABRIL DE 2006)</small>
+
+XXIII. Procurar, a través de los integrantes bajo su mando o que le estén adscritos, la conciliación de las partes involucradas en un hecho de tránsito en caminos y puentes federales, así como en la zona terrestre de las vías generales de comunicación, en su caso, mediante la celebración de un Acta-Convenio, en términos de las disposiciones aplicables;
+
+> <small>(ADICIONADA, D.O.F. 26 DE ABRIL DE 2006)</small>
+
+XXIV. Proporcionar informes, orientación y auxilio a los usuarios de los caminos y puentes federales, así como en la zona terrestre de las vías generales de comunicación;
+
+> <small>(ADICIONADA, D.O.F. 26 DE ABRIL DE 2006)</small>
+
+XXV. Aprovechar el sistema de acopio de información sobre tránsito en caminos y puentes federales, así como en la zona terrestre de las vías generales de comunicación, a fin de generar las estadísticas, los dictámenes y las propuestas que tiendan a mejorar el orden y la seguridad;
+
+> <small>(ADICIONADA, D.O.F. 26 DE ABRIL DE 2006)</small>
+
+XXVI. Ordenar, en términos de las disposiciones aplicables y por conducto de los titulares de las comisarías de sector, la liberación de los vehículos que hayan sido remitidos por los integrantes a los depósitos autorizados;
+
+> <small>(ADICIONADA, D.O.F. 26 DE ABRIL DE 2006)</small>
+
+XXVII. Establecer, con la Unidad Administrativa de Asuntos Jurídicos, los procedimientos para la adecuada aplicación de las disposiciones legales y reglamentarias relativas al tránsito y seguridad en caminos y puentes federales, así como en la zona terrestre de las vías generales de comunicación;
+
+> <small>(ADICIONADA, D.O.F. 26 DE ABRIL DE 2006)</small>
+
+XXVIII. Establecer, con la Unidad Administrativa de Asuntos Jurídicos, los criterios y lineamientos que las autoridades responsables bajo su mando o que le estén adscritas, deberán aplicar para resolver los recursos de revisión que se interpongan con motivo de la imposición de sanciones, y
+
+> <small>(ADICIONADA, D.O.F. 26 DE ABRIL DE 2006)</small>
+
+XXIX. Formular las liquidaciones por las sanciones administrativas de carácter pecuniario que no hayan sido cubiertas en el plazo correspondiente y turnarlas a la autoridad fiscal competente para su cobro.
 
 #### Sección Séptima. Del Instituto de Formación de la Policía Federal Preventiva
 
@@ -539,9 +615,21 @@ XVI. Elaborar y difundir los programas relativos a las prestaciones sociales, cu
 
 XVII. Aplicar las políticas para gestionar la contratación de los seguros y fianzas de los recursos humanos y materiales de la Institución, así como llevar el control de inventarios de los mismos;
 
-XVIII. Elaborar el Programa Operativo Anual de la institución e integrar el Programa Anual de Adquisiciones de la misma, y
+> <small>(REFORMADA, D.O.F. 26 DE ABRIL DE 2006)</small>
 
-XIX. Autorizar las adquisiciones con cargo al presupuesto, así como presentar al Comisionado las erogaciones que deban ser autorizadas por él.
+XVIII. Elaborar el Programa Operativo Anual de la Institución e integrar el Programa Anual de Adquisiciones de la misma;
+
+> <small>(REFORMADA, D.O.F. 26 DE ABRIL DE 2006)</small>
+
+XIX. Gestionar ante la Secretaría la entrega de los ingresos que se perciban por concepto de multas impuestas, con motivo de infracciones por violaciones a las disposiciones legales y reglamentarias relativas al tránsito de vehículos en caminos y puentes federales, así como en la zona terrestre de las vías generales de comunicación;
+
+> <small>(ADICIONADA, D.O.F. 26 DE ABRIL DE 2006)</small>
+
+XX. Vigilar que los ingresos a que se refiere la fracción anterior se destinen a los fines que establecen las disposiciones legales aplicables, y
+
+> <small>(ADICIONADA, D.O.F. 26 DE ABRIL DE 2006)</small>
+
+XXI. Autorizar las adquisiciones con cargo al presupuesto, así como presentar al Comisionado la documentación relativa a las erogaciones que deban ser autorizadas por él.
 
 #### Sección Novena. De la unidad administrativa de Servicios Técnicos
 
@@ -549,7 +637,13 @@ XIX. Autorizar las adquisiciones con cargo al presupuesto, así como presentar a
 
 Corresponde a la unidad administrativa de Servicios Técnicos:
 
-I. Planear, establecer y crear los sistemas que permitan la explotación de la información relacionada con la materia de prevención del delito y seguridad pública mediante las tecnologías que garanticen a la Institución la seguridad de la información albergada y establecer los vínculos que determine el Sistema;
+> <small>(REFORMADA, D.O.F. 26 DE ABRIL DE 2006)</small>
+
+I. Planear, establecer y crear los sistemas que permitan la explotación de la información relacionada con la materia de prevención del delito y seguridad pública, conjuntamente con la Coordinación General de Información Criminal y Estratégica de la Secretaría de Seguridad Pública;
+
+> <small>(ADICIONADA, D.O.F. 26 DE ABRIL DE 2006)</small>
+
+I bis. Diseñar y establecer sistemas de información derivada de la imposición de sanciones por infracciones en materia de tránsito de vehículos, en el ámbito de competencia de la Institución, así como de aquellas relativas a la operación de los servicios de autotransporte federal, sus servicios auxiliares y transporte privado;
 
 II. Establecer y operar las redes de datos interdepartamentales de la Institución en el ámbito nacional, así como proporcionar los apoyos logísticos de las comunicaciones institucionales;
 
@@ -561,9 +655,17 @@ V. Realizar auditorías a los sistemas de informática de la Institución, e inf
 
 VI. Coordinar la operación de las frecuencias del espectro radioeléctrico asignadas a la Institución;
 
-VII. Elaborar y ejecutar los programas de mantenimiento del equipo de comunicaciones e informático, así como efectuar el registro y la asignación del mismo a las unidades administrativas, y
+> <small>(REFORMADA, D.O.F. 26 DE ABRIL DE 2006)</small>
 
-VIII. Proponer al Comisionado, previo acuerdo con el Jefe de Estado Mayor la celebración de convenios de colaboración científica y tecnológica que permitan elevar el desempeño de sus actividades.
+VII. Elaborar y ejecutar los programas de mantenimiento del equipo de comunicaciones e informático, así como efectuar el registro y la asignación del mismo a las unidades administrativas;
+
+> <small>(REFORMADA, D.O.F. 26 DE ABRIL DE 2006)</small>
+
+VIII. Proponer al Comisionado, previo acuerdo con el Jefe de Estado Mayor, la celebración de convenios de colaboración científica y tecnológica que permitan elevar el desempeño de sus actividades, y
+
+> <small>(ADICIONADA, D.O.F. 26 DE ABRIL DE 2006)</small>
+
+IX. Utilizar para el ejercicio de sus atribuciones la tecnología que garantice a la Institución la seguridad de la información albergada, su adecuada clasificación y el tiempo de respuesta que se requiera para la rendición de informes, la evaluación de resultados y el establecimiento de los vínculos que requiera la naturaleza de la información que se administre.
 
 #### Sección Décima. De la unidad administrativa de Transportes Aéreos
 
@@ -639,7 +741,9 @@ I. Representar legalmente al Comisionado y, en su caso, a los titulares de las u
 
 II. Interponer juicios de amparo, así como intervenir y rendir los informes correspondientes en los mismos, y verificar que las demás unidades administrativas cumplan con las resoluciones que en ellos se pronuncien, prestando la asesoría que se requiera e informando al superior jerárquico de aquéllas en caso de incumplimiento;
 
-III. Formular, a nombre de la Institución, las denuncias y querellas que legalmente procedan, desistirse de las primeras y otorgar el perdón en aquellos delitos que se persigan a petición de parte, previo acuerdo del Comisionado;
+> <small>(REFORMADA, D.O.F. 26 DE ABRIL DE 2006)</small>
+
+III. Formular y ratificar a nombre de la Institución las denuncias y querellas que legalmente procedan, intervenir en averiguaciones previas y procesos penales en su representación y, en su caso, desistirse de las querellas y otorgar el perdón correspondiente;
 
 IV. Presentar demandas y contestarlas, reconvenir a la contraparte, ejercitar acciones y oponer excepciones; así como ofrecer pruebas, formular alegatos, interponer toda clase de recursos, y en general vigilar y atender la tramitación de los juicios y procedimientos judiciales, laborales o contencioso-administrativos, y en aquellos asuntos en los que la Institución tenga interés;
 
@@ -667,11 +771,17 @@ XV. Compilar y sistematizar las leyes, reglamentos, decretos, acuerdos federales
 
 XVI. Participar en los procesos de actualización y adecuación del orden jurídico-normativo que rige el funcionamiento de la Institución;
 
-XVII. Elaborar estudios comparados sobre las legislaciones de las entidades federativas en materia de Seguridad Pública, reglamentos, bandos de policía y gobierno, y
+> <small>(REFORMADA, D.O.F. 26 DE ABRIL DE 2006)</small>
 
-XVIII. Por virtud de esta disposición, se entenderá ratificado por el titular de la Institución, todo lo que se haga, en los términos de Ley, por esta unidad administrativa y los representantes que acredite, en cada uno de los casos que intervengan.
+XVII. Elaborar estudios comparados sobre la normatividad de las entidades federativas y las de otros países en materia de seguridad pública;
 
-En los juicios de amparo en los que deba intervenir el Comisionado, sus ausencias serán suplidas por el titular de esta unidad administrativa y en ausencia de éste por el servidor público inmediato inferior con mayor antigüedad en el grado.
+> <small>(REFORMADA, D.O.F. 26 DE ABRIL DE 2006)</small>
+
+XVIII. Asesorar y supervisar a las unidades jurídicas regionales en el trámite de los asuntos que les corresponda despachar, y
+
+> <small>(ADICIONADA, D.O.F. 26 DE ABRIL DE 2006)</small>
+
+XIX. Elaborar y proponer los informes previos y justificados que en materia de amparo deban rendir el Comisionado, así como los relativos a los demás servidores públicos que sean señalados como autoridades responsables; promover y desistirse, en su caso, de los juicios de amparo cuando la Institución tenga el carácter de quejosa, intervenir como tercero perjudicado y, en general, ejercitar todos los actos procesales que a dicha materia se refiera.
 
 Sección Decimotercera
 
@@ -785,11 +895,35 @@ VII. Vigilar que los integrantes de su comandancia regional, dentro de los plazo
 
 VIII. Coordinar y supervisar la actuación del personal adscrito a la comandancia, e inspeccionar periódicamente las unidades administrativas bajo su mando;
 
+> <small>(ADICIONADA, D.O.F. 26 DE ABRIL DE 2006)</small>
+
+VIII bis. Resolver los recursos de revisión que se promuevan en contra de las sanciones que impongan los integrantes de la Institución bajo su mando;
+
 IX. Presidir el Comité de su región, tramitando los procedimientos respectivos, relativos a los asuntos de su competencia;
 
 X. Ejercer adecuadamente los recursos presupuestales asignados a las unidades adscritas, y
 
 XI. Ejercer las funciones previstas en el artículo 4 de la Ley, distintas a las mencionadas en el presente artículo, previo acuerdo del Comisionado.
+
+> <small>(ADICIONADO, D.O.F. 26 DE ABRIL DE 2006)</small>
+
+Artículo 28 bis. Las unidades jurídicas regionales dependerán técnicamente de la Unidad Administrativa de Asuntos Jurídicos en la atención y despacho de los asuntos de su competencia que surjan dentro de la circunscripción territorial de la Comandancia Regional a la que estén adscritos, y les corresponderán las siguientes atribuciones:
+
+I. Ejercer la representación legal de la Comandancia Regional a que estén adscritos y, tratándose de los actos a que se refiere la fracción III del artículo 22 del presente Reglamento, ejercer los derechos de intervención procesal, previo acuerdo general que expida el Comisionado o, en su defecto, el acreditamiento de las facultades inherentes otorgadas en casos específicos por el titular de la Unidad Administrativa de Asuntos Jurídicos;
+
+II. Intervenir en los procedimientos disciplinarios o de baja de los integrantes de la Comandancia Regional a la que estén adscritos;
+
+III. Dictaminar los casos en los que no proceda formular denuncia o querella, fundando y motivando las razones que existan sobre el particular;
+
+IV. Tramitar los recursos de revisión que se hayan interpuesto en contra de las sanciones impuestas por los integrantes de la Institución bajo el mando de la Comandancia Regional a la que estén adscritos;
+
+V. Asistir y apoyar jurídicamente las acciones que las unidades operativas lleven a cabo en la circunscripción territorial de su competencia;
+
+VI. Coadyuvar con el Ministerio Público en los procedimientos instruidos por hechos que impliquen la probable comisión de delitos en los que la Institución haya presentado denuncia o querella;
+
+VII. Expedir copias certificadas de los documentos que obren en el archivo de la Comandancia Regional a la que estén adscritos, y
+
+VIII. Las demás que les confieran otras disposiciones legales aplicables o aquéllas que le encomienden en el ámbito de sus respectivas competencias, el Comisionado, el titular de la Comandancia Regional a la que estén adscritos y el de la Unidad Administrativa de Asuntos Jurídicos.
 
 ###### Artículo 29.
 
@@ -821,9 +955,21 @@ XI. Establecer en los estados costeros los servicios de vigilancia e inspección
 
 XII. Proponer el establecimiento de los puntos fijos de verificación de mercancías y de personas en los puntos autorizados para tráfico internacional;
 
-XIII. Recibir y tramitar los avisos sobre denuncias que los particulares formulen ante las autoridades competentes sobre robo de vehículos y expedir las constancias correspondientes, y
+> <small>(REFORMADA, D.O.F. 26 DE ABRIL DE 2006)</small>
 
-XIV. Ejercer las funciones previstas en el artículo 4 de la Ley, distintas a las mencionadas en el presente artículo, previo acuerdo del Comisionado.
+XIII. Recibir y tramitar los avisos sobre denuncias que los particulares formulen ante las autoridades competentes sobre robo de vehículos y expedir las constancias correspondientes;
+
+> <small>(REFORMADA, D.O.F. 26 DE ABRIL DE 2006)</small>
+
+XIV. Recabar la información sobre las actuaciones de los integrantes en materia de aplicación de las disposiciones legales y reglamentarias en materia de tránsito de vehículos en caminos y puentes federales, así como en la zona terrestre de las vías generales de comunicación y, en su caso, de las demás disposiciones que regulen el autotransporte federal, a fin de verificarla, procesarla y remitirla al sistema central de información;
+
+> <small>(ADICIONADA, D.O.F. 26 DE ABRIL DE 2006)</small>
+
+XV. Ordenar la liberación de los vehículos remitidos por los integrantes a los depósitos autorizados, previo el cumplimiento de los requisitos señalados en las disposiciones aplicables, y
+
+> <small>(ADICIONADA, D.O.F. 26 DE ABRIL DE 2006)</small>
+
+XVI. Ejercer las funciones previstas en el artículo 4 de la Ley, distintas a las mencionadas en el presente artículo, previo acuerdo del Comisionado.
 
 ###### Artículo 30.
 
@@ -874,6 +1020,12 @@ Las fuerzas de tarea estarán a las órdenes del Comisionado o a las de quien é
 Son oficiales de caso los integrantes de la Coordinación de Inteligencia para la Prevención a quienes se les encomienda una misión específica, recabando y analizando la información necesaria para encauzar su investigación.
 
 Los oficiales de caso contarán con el personal especializado y el equipo que de acuerdo con la misión se requiera y estarán a las órdenes del Comisionado, o a las de quien él disponga.
+
+> <small>(ADICIONADO, D.O.F. 26 DE ABRIL DE 2006)</small>
+
+Artículo 33 bis. Los integrantes tendrán las atribuciones propias de la unidad operativa o administrativa a la que estén adscritos y que sean congruentes con su grado, cargo y ubicación institucional y territorial.
+
+En situaciones u operaciones especiales, los integrantes deberán desempeñar las funciones que se les encomienden por sus respectivos superiores jerárquicos, mediante oficio de comisión.
 
 ## TÍTULO SEGUNDO. DE LA INTEGRACIÓN Y MANDO
 
@@ -2066,3 +2218,9 @@ D.O.F. 6 DE FEBRERO DE 2001.
 PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se deroga la fracción II del artículo 152 del Reglamento de la Policía Federal Preventiva, así como todas aquellas disposiciones que se opongan al presente Reglamento.
+
+D.O.F. 26 DE ABRIL DE 2006.
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
