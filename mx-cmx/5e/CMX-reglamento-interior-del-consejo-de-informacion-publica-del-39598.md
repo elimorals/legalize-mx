@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-consejo-de-informacion-publica-del-3959
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-02"
-last_updated: "2004-06-02"
+last_updated: "2006-04-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39598&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2004-05-31"
 
 REGLAMENTO INTERIOR DEL CONSEJO DE INFORMACION PUBLICA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 28 DE ABRIL DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el miércoles 2 de junio de 2004.
 
@@ -681,3 +683,11 @@ EL PRESIDENTE DEL CONSEJO DE INFORMACIÓN PÚBLICA DEL DISTRITO FEDERAL
 (Firma)
 
 ING. GUSTAVO VELÁSQUEZ DE LA FUENTE
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. DE 28 DE ABRIL DE 2006.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Se abroga el Reglamento Interior del Consejo de Información Pública del Distrito Federal, aprobado el treinta y uno de mayo de dos mil cuatro.
