@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2005-11-18"
+last_updated: "2006-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE ABRIL DE 2006.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -537,7 +537,7 @@ En ningún caso la Legislatura del Estado podrá sesionar sin la concurrencia de
 
 Los diputados que asistan tanto a las juntas preparatorias como a las sesiones ordinarias y extraordinarias, y éstas excepcionalmente no pudieran celebrarse por falta de quórum, deberán compeler a los ausentes a que se presenten en un plazo que no exceda de 48 horas, apercibiéndolos de que, si no lo hacen, se llamará desde luego a los suplentes; y si éstos no se presentaran después de haber sido apercibidos, se declarará vacante la diputación y, si procede, se convocará a elecciones extraordinarias.
 
-Los diputados que falten a tres sesiones consecutivas sin previa licencia del Presidente de la Legislatura, perderán el derecho de ejercer sus funciones durante el período en que ocurran las faltas y se llamará desde luego a los suplentes.
+Los diputados que falten a tres sesiones consecutivas sin previa licencia del Presidente de la Legislatura, perderán el derecho de ejercer sus funciones durante el periodo en que ocurran las faltas y se llamará desde luego a los suplentes.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
@@ -715,9 +715,13 @@ Para los efectos de esta fracción, se consideran temporales las ausencias que e
 
 XVIII. Conocer y resolver de las solicitudes de destitución de los Magistrados del Tribunal de lo Contencioso Administrativo y del Tribunal Superior de Justicia en términos de la presente Constitución;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADA, G.G. 28 DE ABRIL DE 2006)</small>
 
-XIX. Recibir el aviso del Ejecutivo del Estado cuando salga al extranjero o se ausente de la entidad hasta por 15 días;
+XIX. Autorizar al Ejecutivo del Estado para que salga al extranjero.
+
+Lo anterior, será aplicable, tratándose de misiones oficiales.
+
+En aquellos casos que por urgencia el Ejecutivo del Estado requiera salir en misión oficial del territorio nacional, previa justificación, la Junta de Coordinación Política podrá autorizar su salida;
 
 XX. Nombrar y remover al personal del Poder Legislativo y de sus dependencias en los términos de la Legislación respectiva;
 
@@ -875,9 +879,13 @@ III. Recibir la protesta de los servidores públicos que deban rendirla ante la 
 
 IV. Resolver sobre las renuncias, licencias o permisos que competan a la Legislatura;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADA, G.G. 28 DE ABRIL DE 2006)</small>
 
-V. Recibir el aviso del Ejecutivo del Estado cuando salga al extranjero o para ausentarse del territorio de la entidad hasta por 15 días;
+V. Autorizar al Ejecutivo del Estado para que salga al extranjero.
+
+Lo anterior, será aplicable, tratándose de misiones oficiales.
+
+En aquellos casos que por urgencia el Ejecutivo del Estado requiera salir en misión oficial del territorio nacional, previa justificación, la Junta de Coordinación Política podrá autorizar su salida;
 
 VI. Dictaminar sobre todos los asuntos que queden pendientes de resolución en los recesos, a fin de que continúen sus trámites al abrirse los períodos de sesiones; y
 
@@ -1105,9 +1113,11 @@ XXXIX. Convenir con los municipios, para que el Gobierno del Estado, de manera d
 
 XL. Girar órdenes a la policía preventiva municipal en aquéllos casos en que juzgue como de fuerza mayor o alteración grave del orden público;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADA, G.G. 28 DE ABRIL DE 2006)</small>
 
-XLI. Comunicar por escrito a la Legislatura de su salida al extranjero o su ausencia de la entidad hasta por 15 días, e informar al Congreso Local de las acciones realizadas;
+XLI. Solicitar por escrito a la Legislatura o en su caso a la Diputación Permanente, con 10 días de anticipación autorización para salir al extranjero, en misiones oficiales, e informar a la misma sobre las acciones realizadas dentro de los 10 días siguientes de su regreso, rindiendo un informe detallado sobre los temas o asuntos abordados durante el viaje, así como los beneficios obtenidos con él.
+
+En aquellos casos que por urgencia el Ejecutivo del Estado requiera salir en misión oficial del territorio nacional, previa justificación, podrá solicitar la autorización a la Junta de Coordinación Política, debiendo a su regreso presentar informe detallado sobre el asunto abordado durante el viaje;
 
 > <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2003)</small>
 
@@ -1225,7 +1235,7 @@ Las leyes determinarán los procedimientos que habrán de seguirse para sustanci
 
 La ley establecerá las bases para la formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cuál se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
 
-> <small>(ADICIONADO, G.G. 12 DE JULIO DE 2004)</small>
+> <small>(ADICIONADO, G.G.12 DE JULIO DE 2004)</small>
 
 ###### Artículo 88
 
@@ -1313,7 +1323,7 @@ Aunque los magistrados no se presenten a tomar posesión de sus cargos en el té
 
 El Pleno estará integrado por todos los magistrados; la Sala Constitucional, por cinco magistrados; las Salas Colegiadas, por tres magistrados cada una; y las Unitarias, por un magistrado en cada Sala.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 95.
 
@@ -1329,21 +1339,21 @@ IV. Expedir y modificar el Reglamento Interior del Tribunal; y
 
 V. Ejercer las atribuciones que le señalen la Ley Orgánica del Poder Judicial y otros ordenamientos legales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE ABRIL DE 2003)</small>
 
 ###### Artículo 96.
 
 Corresponde a las salas colegiadas y unitarias regionales del Tribunal Superior de Justicia conocer y resolver:
 
-> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1995)</small>
 
 I. En segunda instancia, los asuntos que determinen los ordenamientos legales aplicables;
 
-> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1995)</small>
 
 II. Los conflictos de competencia que se susciten entre los jueces del Estado; y
 
-> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1995)</small>
 
 III. Los demás asuntos que les confieran las leyes.
 
@@ -2659,8 +2669,18 @@ G.G. 18 DE NOVIEMBRE DE 2005.
 
 DECRETO NUMERO 185 POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 102 DE LA CONSTITUCION POLÍTICA DEL ESTADO LIBRE Y SOBERNO DE MEXICO.
 
-PRIMERO.- Publíquese el presente decreto en el Periódico Oficial “Gaceta del Gobierno”.
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 28 DE ABRIL DE 2006.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
