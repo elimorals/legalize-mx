@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "2003-06-17"
+last_updated: "2006-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -693,11 +693,17 @@ I. Realizar estudios económicos relacionados con las finanzas municipales;
 
 II. Celebrar convenios con el Gobierno del Estado en materia fiscal relacionadas con la administración de contribuciones;
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO NUMERO 621.</small>
 
-III.- Formular y remitir al Congreso del Estado a más tardar el 30 de noviembre, sus presupuestos anuales de ingresos, y en su caso, la Iniciativa de Ley de Ingresos del año siguiente. El Congreso del Estado está facultado para incorporar a la Iniciativa de ingresos municipales que al efecto presente el Ejecutivo del Estado, el monto total de ingresos autorizado por Municipio, siempre y cuando los presupuestos se hayan remitido previo acuerdo de los Ayuntamientos. En el caso de que un Ayuntamiento no presente su presupuesto de ingresos, el Ejecutivo del Estado y el Congreso suplirán esa deficiencia en los términos de Ley;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-IV. Preparar, examinar y presentar anualmente al Congreso del Estado, durante los primeros noventa días del año, la cuenta pública para su revisión, acompañadas del Presupuesto de Ingresos y Egresos aprobados y ejercidos y con el envío del avance de las metas propuestas en el Programa Operativo Anual y en el Plan Municipal que corresponda;
+III.- Formular y remitir al Congreso del Estado a más tardar el 15 de octubre, sus presupuestos anuales de ingresos, para expedir en su caso, la Ley de Ingresos, junto con la Tabla de Valores Unitarios de Suelo y Construcción del año siguiente. El Congreso del Estado está facultado para incorporar a la Iniciativa de ingresos municipales que al efecto presente el Ejecutivo del Estado, el monto total de ingresos autorizado por Municipio, siempre y cuando los presupuestos se hayan remitido previo acuerdo de los Ayuntamientos. En el caso de que un Ayuntamiento no presente su presupuesto de ingresos, el Congreso suplirá esta deficiencia en los términos de Ley;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO NUMERO 621.</small>
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+IV.- Presentar al Congreso del Estado, a más tardar el último día del mes de enero de cada año, la Cuenta de la Hacienda Pública Municipal, la que contendrá el Informe Financiero correspondiente al tercer cuatrimestre del ejercicio fiscal anterior, consolidando el resultado de las operaciones de ingresos y gastos que se hayan realizado, en los términos que señale la Ley de Fiscalización Superior del Estado de Guerrero;
 
 V. Recaudar y administrar los ingresos correspondientes a la Hacienda Pública Municipal;
 
@@ -1351,9 +1357,11 @@ III. Otorgar fianza por el manejo de los recursos a su cargo, y a cargo de los e
 
 IV. Imponer las sanciones que correspondan por infracciones a los ordenamientos fiscales, cuya aplicación esté encomendada a la propia Tesorería;
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO NUMERO 621.</small>
 
-V.- Llevar la contabilidad del Ayuntamiento y formular la cuenta pública en los términos de Ley;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+V.- Llevar la contabilidad del Ayuntamiento y formular la Cuenta Anual de la Hacienda Pública Municipal, así como elaborar los Informes Financieros cuatrimestrales en los términos de Ley;
 
 VI. Intervenir en los estudios financieros, evaluando las necesidades de financiamiento de los programas operativos y de inversión;
 
@@ -1377,9 +1385,11 @@ XIV.- Permitir y facilitar la práctica de auditorías provenientes de la Audito
 
 XV. Glosar oportunamente las cuentas del Ayuntamiento;
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO NUMERO 621.</small>
 
-XVI.- Remitir conjuntamente con el Presidente Municipal a la Auditoría General del Estado, las cuentas, informes contables y en los términos establecidos en la legislación aplicable a la Materia;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+XVI.- Remitir conjuntamente con el Presidente Municipal al Congreso del Estado, la Cuenta Anual de la Hacienda Pública Municipal y los Informes Financieros cuatrimestrales, en los términos establecidos en la legislación aplicable a la materia;
 
 XVII. Presentar mensualmente al Ayuntamiento el corte de caja de la Tesorería Municipal con el visto bueno del Síndico Procurador;
 
@@ -1781,9 +1791,13 @@ Los Ayuntamientos informarán al Congreso del Estado de las erogaciones que haya
 
 Los Ayuntamientos no podrán otorgar garantías ni efectuar depósitos para el cumplimiento de sus obligaciones, con cargo al presupuesto de egresos de los Municipios, del ejercicio fiscal en curso sin autorización del Congreso.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO NUMERO 621.</small>
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 164.
 
-Los Ayuntamientos están obligados a proporcionar a la Secretaría de Desarrollo Administrativo y Control Gubernamental, la información que se les solicite y permitir la práctica de visitas y auditorías para comprobar la correcta aplicación de los recursos provenientes del erario estatal y federal.
+Los Ayuntamientos están obligados a proporcionar a la Contraloría General del Estado, y a la Auditoría General del Estado, la información que se les solicite y permitir la práctica de visitas y auditorías para comprobar la correcta aplicación de los recursos provenientes del erario estatal y federal.
 
 ### CAPITULO II. DE LAS COMISARIAS Y DELEGACIONES MUNICIPALES
 
@@ -1803,11 +1817,13 @@ Los sistemas de contabilidad municipal deberán diseñarse y operarse en forma t
 
 Para efectos de la revisión de las cuentas públicas municipales, los Ayuntamientos informarán al Congreso del Estado durante los primeros quince días de cada ejercicio fiscal o durante el mes siguiente a su implantación o modificación, sobre las normas, procedimientos y sistemas de control interno que en materia contable implanten.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO NUMERO 621.</small>
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 169.
 
-Los Ayuntamientos deberán remitir al Congreso del Estado en los términos establecidos en la legislación aplicable, la información relativa a las cuentas públicas del Municipio para su revisión y fiscalización.
+Los Ayuntamientos deberán remitir al Congreso del Estado en los términos establecidos en la legislación aplicable, la Cuenta Anual de la Hacienda Pública Municipal y los Informes Financieros cuatrimestrales para su revisión y fiscalización.
 
 ## TITULO SEXTO. DEL DESARROLLO MUNICIPAL
 
@@ -2980,3 +2996,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Los Ayuntamientos que hayan de instalarse el 2 de diciembre del 2005 durarán en su encargo hasta el 31 de diciembre del 2008.
+
+P.O. 28 DE ABRIL DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir de la fecha en que entre en vigor el Decreto número 619 de reformas y adiciones a diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese el presente Decreto al Gobernador del Estado para los efectos constitucionales procedentes y su publicación en el Periódico Oficial del Gobierno del Estado.
