@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-regula-la-ejecucion-de-las-sanciones-penales-7487"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-01"
-last_updated: "2005-08-17"
+last_updated: "2006-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7487&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE REGULA LA EJECUCION DE LAS SANCIONES PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 1 de junio de 1994.
 
@@ -145,7 +145,11 @@ XVIII.- Vigilar la conducta de los inculpados que en el caso del delito de viole
 
 > <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-XIX.- Informar al Ministerio Público o al Juez, según sea el caso, si los inculpados a que se refieren las fracciones XVI, XVII y XVIII de este artículo, reiteraron o no su conducta delictiva;
+XIX.- Informar:
+
+a) Al Ministerio Público o al Juez, según sea el caso, si los inculpados a que se refieren las fracciones XVI, XVII y XVIII de este artículo, reiteraron o no su conducta delictiva; y
+
+b) A la autoridad competente en materia de expedición de licencias para conducir y de la Base de Datos de Conductores y Vehículos Automotores en el Estado de Nuevo León, sobre las sentencias que dispongan como medidas de vigilancia o como pena, limitaciones o prohibiciones para conducir vehículos automotores;
 
 > <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2004)</small>
 
@@ -556,3 +560,9 @@ Artículo Tercero.- Se derogan todas las disposiciones legales que se opongan a 
 P.O. 17 DE AGOSTO DE 2005.
 
 Artículo Único.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 28 DE ABRIL DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
