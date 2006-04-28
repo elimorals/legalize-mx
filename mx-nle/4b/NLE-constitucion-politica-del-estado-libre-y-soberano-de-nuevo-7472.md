@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2005-08-17"
+last_updated: "2006-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 2006.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -879,9 +879,9 @@ XVI.- Pasar al Procurador General de Justicia los asuntos que deban ventilarse a
 
 XVII.- (DEROGADA, P.O. 15 DE JUNIO DE 1968)
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-XVIII.- El Ejecutivo del Estado tendrá el mando de la fuerza pública en el municipio donde residiere habitual o transitorio.
+XVIII.- Ordenar el uso de la fuerza pública municipal en los términos de lo dispuesto por el Artículo 132 inciso h) de ésta Constitución, en aquellos casos que juzgue como de fuerza mayor o alteración grave del orden público;
 
 XIX.- Expedir los títulos profesionales con arreglo a las leyes.
 
@@ -1939,7 +1939,11 @@ P.O. 11 DE JUNIO DE 1927.
 
 Toda persona tiene derecho al trabajo digno y socialmente útil; al efecto se promoverán la creación de empleos y la organización social para el trabajo, conforme a las leyes.
 
-A ninguna persona podrá impedirse que se dedique a a (sic) profesión, industria, comercio o trabajo que le acomode, siendo lícitos. El ejercicio de ésta libertad sólo podrá vedarse por determinación judicial, cuando se ataquen los derechos de tercero, o por resolución gubernativa dictada en los términos que marque la ley, cuando se ofendan los derechos de la sociedad. Nadie puede ser privado del producto de su trabajo, sino por resolución judicial.
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2006)</small>
+
+En materia laboral debe existir igualdad de oportunidades para todas las personas. Queda prohibida cualquier tipo de discriminación que atente contra los derechos y libertad de las personas a mantener o acceder a algún empleo.
+
+A ninguna persona podrá impedirse que se dedique a a (sic) profesión, industria, comercio o trabajo que le acomode, siendo lícitos. El ejercicio de esta libertad sólo podrá vedarse por determinación judicial, cuando se ataquen los derechos de tercero, o por resolución gubernativa dictada en los términos que marque la ley, cuando se ofendan los derechos de la sociedad. Nadie puede ser privado del producto de su trabajo, sino por resolución judicial.
 
 Una ley del Congreso determinará qué profesiones necesitan título para su ejercicio, las condiciones que se deben llenar para obtenerlo y con qué requisitos se deben expedir.
 
@@ -2974,5 +2978,17 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se deroga el Decreto número 49 emitido por la LXIX Legislatura al Congreso del Estado y publicado en el Periódico Oficial de fecha 11 de mayo de 2001.
 
 P.O. 17 DE AGOSTO DE 2005.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE ABRIL DE 2006.
+
+DECRETO NUMERO 366, QUE REFORMA EL ARTICULO 85.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE ABRIL DE 2006.
+
+DECRETO NUMERO 367, QUE REFORMA EL ARTICULO 4.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
