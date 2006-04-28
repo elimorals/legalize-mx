@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-255-del-presupuesto-de-egresos-y-la-contabilidad-147
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-28"
-last_updated: "2005-11-11"
+last_updated: "2006-04-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUMERO 255 DEL PRESUPUESTO DE EGRESOS, CONTABILIDAD GUBERNAMENTAL Y DEUDA PUBLICA DEL GOBIERNO DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el miércoles 28 de diciembre de 1988.
 
@@ -65,99 +65,155 @@ El Ejecutivo Estatal autorizará, por conducto de la Secretaría de Finanzas, la
 
 El gasto público estatal se basará en presupuestos que se formularán para cada año calendario.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 6o.
 
-Se entiende por presupuesto de egresos del Gobierno del Estado, la autorización expedida por el H. Congreso del Estado, a iniciativa del Ejecutivo Estatal, para sufragar las erogaciones por concepto de gasto corriente, transferencias, inversiones y deuda pública a cargo del Gobierno Estatal, durante el período de un año a partir del día 1o. de enero.
+Se entiende por presupuesto de egresos del Gobierno del Estado, la autorización expedida por el Congreso del Estado, a iniciativa del Ejecutivo Estatal, para sufragar las erogaciones por concepto de gasto corriente, transferencias, inversiones y deuda pública a cargo del Gobierno Estatal, durante el período de un año a partir del día 1º de enero, previstas en los programas a cargo de las dependencias y entidades que en el propio presupuesto se señalen.
 
 ###### ARTICULO 7o.
 
 El presupuesto de egresos del Gobierno del Estado comprenderá las previsiones de gasto público que habrán de realizar las dependencias y entidades a que se refiere el artículo 2o. de esta Ley.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 8o.
 
-Las previsiones de egresos, se clasificarán por ramos de la administración y comprenderán por separado a los poderes Legislativo y Judicial; a las dependencias y entidades del Poder Ejecutivo, así como a las inversiones, erogaciones adicionales y deuda pública.
+Las previsiones de egresos, serán desagregadas conforme a una clasificación económica, administrativa, programática y por objeto del gasto, y comprenderán por separado a los poderes Legislativo y Judicial; a las dependencias y entidades del Poder Ejecutivo, así como a las inversiones, erogaciones adicionales y deuda pública.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 9o.
 
-En la elaboración del presupuesto de egresos deberán observarse las políticas y lineamientos generales, sectoriales y regionales que señala el Plan Estatal de Desarrollo de conformidad con la Ley de Planeación.
+En la elaboración del presupuesto de egresos deberán observarse las políticas, estrategias, metas, objetivos y lineamientos generales, sectoriales y regionales que señala el Plan Estatal de Desarrollo de conformidad con la Ley de Planeación.
 
 ###### ARTICULO 10.
 
-Corresponde a la Secretaría de Finanzas de conformidad con las competencias que le señala la Ley Orgánica de la Administración Pública y la presente Ley, la presupuestación, el control y la asignación del gasto público y a la Secretaría de Planeación y Presupuesto, el desarrollo de las mismas funciones con respecto a la inversión y transferencias. Dichas dependencias dictarán las disposiciones procedentes para el eficaz cumplimiento de sus funciones y de las disposiciones contenidas en esta Ley.
+(DEROGADO, P.O. 28 DE ABRIL DE 2006)
 
 ###### ARTICULO 11.
 
 Es competencia de la Secretaría de Finanzas, lo siguiente:
 
-I.- De acuerdo con las instrucciones del Ejecutivo, determinar, anualmente, las sumas definitivas que habrán de incluirse en el Proyecto de Presupuesto de Egresos de cada uno de los ramos de la Administración Pública, tomando en consideración la previsión de ingresos anuales, en coordinación con la Secretaría de Planeación y Presupuesto;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+I.- De acuerdo con las instrucciones del Ejecutivo, determinar, anualmente, las sumas definitivas que habrán de incluirse en el Proyecto de Presupuesto de Egresos de cada uno de los ramos de la Administración Pública, tomando en consideración la previsión de ingresos anuales;
 
 II.- Establecer la metodología para la formulación del proyecto de presupuesto de egresos y de los programas que lo integran;
 
 III.- Revisar los proyectos de presupuesto de egresos que le presenten los ramos de la administración pública;
 
-IV.- Preparar y formular el proyecto de presupuesto de egresos del Gobierno del Estado de Guerrero; y
+IV.- Preparar y formular el proyecto de presupuesto de egresos del Gobierno del Estado de Guerrero; y (sic)
 
-V.- Las demás que le confiere esta Ley y su reglamento.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+V.- Atendiendo a las disposiciones de esta misma Ley, dictará los lineamientos y la metodología a los que habrá de sujetarse la integración de los presupuestos de las dependencias y entidades señaladas en el artículo 2 de este ordenamiento;
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+VI.- Las demás que le confiere esta Ley y su reglamento.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 12.
 
-Las actividades de planeación, programación, presupuestación, control y evaluación en materia de inversión, incluyendo los programas que se concerten con la Federación y los municipios, así como la autorización de transferencias de recursos financieros a las Entidades Paraestatales, corresponderán a la Secretaría de Planeación y Presupuesto.
+Las actividades de coordinación para la planeación, programación, presupuestación, control y evaluación en materia de inversión, corresponderán a la Secretaría de Desarrollo Social.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 13.
 
-La Secretaría de Desarrollo Administrativo y Control Gubernamental, comprobará el cumplimiento de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, así como, inspeccionará y vigilará la aplicación de las normas y lineamientos en materia de sistemas de registro y contabilidad de la Administración Central y Paraestatal.
+La Contraloría General del Estado de Guerrero, comprobará el cumplimiento de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, así como, inspeccionará y vigilará la aplicación de las normas y lineamientos en materia de sistemas de registro y contabilidad de la Administración Central y Paraestatal.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 14.
 
-Las entidades paraestatales someterán sus proyectos de presupuesto a la Secretaría de Planeación y Presupuesto por conducto de las Dependencias Coordinadoras del Sector a que corresponda. Las Coordinadoras del Sector orientarán y coordinarán la planeación, programación, presupuestación, control y evaluación del gasto de las entidades que queden ubicadas en el sector que está bajo su tutela.
+Las entidades paraestatales someterán sus proyectos de presupuesto a la Secretaría de Finanzas y Administración por conducto de las Dependencias Coordinadoras del Sector a que corresponda. Las Coordinadoras del Sector orientarán y coordinarán la planeación, programación, presupuestación, control y evaluación del gasto de las entidades que queden ubicadas en el sector que está bajo su tutela.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 15.
 
-El Ejecutivo Estatal, por conducto de la Secretaría de Finanzas, dará a conocer a las entidades a más tardar el último día del mes de septiembre de cada año, los lineamientos generales para la preparación de los respectivos proyectos de presupuesto.
+El Ejecutivo Estatal, por conducto de la Secretaría de Finanzas y Administración, dará a conocer a las entidades a más tardar el último día del mes de julio de cada año, los lineamientos generales para la preparación de los respectivos proyectos de presupuesto.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 16.
 
-Para la formulación del proyecto de presupuesto de egresos, las Dependencias y Entidades que deban quedar comprendidas en el mismo, elaborarán sus anteproyectos de presupuesto con base a los lineamientos generales, mismos que deberán remitir a la Secretaría de Finanzas, a más tardar el día 15 del mes de octubre de cada año.
+Para la formulación del proyecto de presupuesto de egresos, las Dependencias y Entidades que deban quedar comprendidas en el mismo, elaborarán sus anteproyectos de presupuesto con base a los lineamientos generales, mismos que deberán remitir a la Secretaría de Finanzas y Administración, a más tardar el primer día del mes de septiembre de cada año.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 17.
 
-Después de realizar los estudios que se estimen necesarios, se resolverá sobre la procedencia de los proyectos de presupuesto presentados conforme al artículo anterior y se notificará a las Entidades y Dependencias, para que a más tardar el día 15 de noviembre de cada año, remitan a la Secretaría de Finanzas los proyectos definitivos.
+Después de realizar los estudios que se estimen necesarios, se resolverá sobre la procedencia de los proyectos de presupuesto presentados conforme al artículo anterior y se notificará a las Entidades y Dependencias, para que a más tardar el día 15 de septiembre de cada año, remitan a la Secretaría de Finanzas y Administración los proyectos definitivos.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 18.
 
-La Secretaría de Finanzas integrará globalmente y formulará el proyecto de presupuesto de egresos y junto con la Secretaría de Planeación y Presupuesto, lo someterá a la aprobación del Gobernador del Estado.
+La Secretaría de Finanzas y Administración integrará globalmente y formulará el proyecto de presupuesto de egresos y los someterá a la aprobación del Gobernador del Estado.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 19.
 
-Si alguna de las dependencias o entidades dejara de presentar su proyecto de presupuesto en los plazos que fija la presente Ley, la Secretaría de Finanzas o en su caso la Secretaría de Planeación y Presupuesto, quedarán facultadas para formularlo, a efecto de que se presente con oportunidad a la Legislatura del Estado.
+Si alguna de las dependencias o entidades dejara de presentar su proyecto de presupuesto en los plazos que fija la presente Ley, la Secretaría de Finanzas y Administración, quedará facultada para formularlo, a efecto de que se presente con oportunidad a la Legislatura del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 20.
 
-El proyecto de presupuesto de egresos del Estado se integrará con los documentos que se refieren a:
+El proyecto de presupuesto anual de egresos del Estado se desglosará en forma cuatrimestral y conforme a una clasificación económica, administrativa, programática y por objeto del gasto, y se integrará con los documentos que se refieren a:
 
-I.- Descripción de los programas que sean base del proyecto, en los que se señalarán objetivos, metas y unidades responsables de su ejecución, así como su valuación estimada por cada programa;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-II.- Estimación de ingresos y proposición de gastos del ejercicio fiscal para el que se propone, con la indicación de los empleos que incluye;
+I.- La descripción clara y suficiente de los programas que sean base del proyecto, en los que se señalarán objetivos, metas y unidades responsables de su ejecución y su valuación financiera estimada por cada programa; así mismo, de manera especial, se explicarán y comentarán los programas que abarquen dos o más ejercicios fiscales;
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+II.- Estimación de ingresos y proposición de gastos del ejercicio fiscal para el que se propone;
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+II- Bis.- Los montos y clasificación correspondiente a las percepciones que se cubren a favor de los servidores públicos. Dichas percepciones incluirán lo relativo a sueldos, prestaciones y estímulos por cumplimiento de metas, recompensas, incentivos o conceptos equivalentes a éstos;
 
 III.- Ingresos y gastos reales del último ejercicio fiscal;
 
 IV.- Estimación de los ingresos y gastos del ejercicio fiscal en curso;
 
-V.- Situación de la deuda pública al final del último ejercicio fiscal y estimación de la que se tendrá al fin de los ejercicios fiscales en curso o inmediato siguiente.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+V.- Situación de la deuda pública al final del último ejercicio fiscal y estimación de la que se tendrá al fin de los ejercicios fiscales en curso e inmediato siguiente;
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+VI.- Explicación de la situación que guardan las finanzas públicas al final del último ejercicio fiscal y estimación de la que se tendrá al fin de los ejercicios fiscales en curso e inmediato siguiente; y
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+VII.- Descripción del panorama económico, financiero y hacendario actual y el que se prevé para el futuro.
 
 ### CAPITULO TERCERO. DE LA INICIATIVA, DICTAMEN, DISCUSION Y APROBACION DEL PRESUPUESTO DE EGRESOS
 
+> <small>N. DE E. EN RELACION CON SU VIGENCIA, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO No. 624.</small>
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 21.
 
-El Gobernador del Estado, presentará al H. Congreso del Estado para su consideración, dictamen, discusión y aprobación, en su caso, a más tardar el día 15 de diciembre de cada año, la iniciativa del presupuesto de egresos del Gobierno del Estado, elaborado en los términos de esta Ley.
+El Gobernador del Estado, presentará al Congreso del Estado para su análisis, emisión del dictamen, discusión y aprobación, en su caso, a más tardar el día 15 de octubre de cada año, la iniciativa del presupuesto de egresos del Gobierno del Estado, elaborado en los términos de esta Ley.
 
 ###### ARTICULO 22.
 
 Las proposiciones que hagan los miembros del H. Congreso del Estado para modificar el proyecto de presupuesto de egresos presentado por el Ejecutivo, serán sometidas a la Comisión respectiva. A ninguna proposición de esta índole se dará curso una vez iniciada la discusión de los dictámenes de las comisiones.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 23.
 
-La Secretaría de Finanzas y la Secretaría de Planeación y Presupuesto en lo referente a inversión y transferencias estarán obligadas a proporcionar, a solicitud de los diputados del H. Congreso del Estado, todos los datos estadísticos e información general que puedan contribuir a una mejor comprensión de las disposiciones contenidas en el proyecto de presupuesto de egresos del Estado.
+La Secretaría de Finanzas y Administración estará obligada a proporcionar, a solicitud de los diputados del Congreso del Estado, todos los datos estadísticos e información general que puedan contribuir a una mejor comprensión de las disposiciones contenidas en el proyecto de presupuesto de egresos del Estado.
 
 ###### ARTICULO 24.
 
@@ -167,9 +223,13 @@ A toda proposición de aumento o creación de partidas al proyecto de presupuest
 
 Las dependencias y entidades del Gobierno no podrán hacer gestiones ante el H. Congreso del Estado o de sus Comisiones, con el propósito de modificar el proyecto del Ejecutivo.
 
+> <small>N. DE E. EN RELACION CON SU VIGENCIA, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO No. 624.</small>
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 26.
 
-El H. Congreso del Estado, podrá solicitar la comparecencia del Secretario de Finanzas y del de Planeación y Presupuesto, en los términos del artículo 47 fracciones IV y XVIII de la Constitución Política del Estado, en las sesiones en que se discuta el proyecto de presupuesto.
+El Congreso del Estado, podrá solicitar la comparecencia del Secretario de Finanzas y Administración y de los titulares de aquellas dependencias o entidades de la administración pública que considere necesario, en los términos del artículo 47 fracciones IV y XVIII de la Constitución Política del Estado, en las sesiones en que se discuta el proyecto de presupuesto.
 
 ###### ARTICULO 27.
 
@@ -181,9 +241,11 @@ El H. Congreso del Estado no podrá modificar las asignaciones de presupuesto qu
 
 La asignación de los recursos que establezca el Decreto que autorice el presupuesto del Gobierno del Estado correrá a cargo de la Secretaría de Finanzas.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 29.
 
-Cuando la Secretaría de Finanzas disponga de recursos económicos cuyo monto supere la cobertura del gasto público autorizado para el ejercicio fiscal, el Ejecutivo del Estado queda facultado para aplicarlos dentro de la programación general de las actividades oficiales, y de las obras y servicios públicos a cargo del Gobierno del Estado, sin perjuicio de la revisión, glosa, y control que debe practicar el H. Congreso Local, en los términos constitucionales, al revisar las cuentas de la inversión y gasto de los fondos públicos del Gobierno del Estado.
+Cuando la Secretaría de Finanzas y Administración disponga de recursos económicos cuyo monto supere la cobertura del gasto público autorizado para el ejercicio fiscal, el Ejecutivo del Estado, previa autorización del Honorable Congreso del Estado, podrá aplicarlos dentro de la programación general de actividades oficiales, y de las obras y servicios públicos a cargo del Gobierno del Estado, sin perjuicio de la revisión, glosa, y control que debe practicar el Honorable Congreso Local, en los términos constitucionales.
 
 ###### ARTICULO 30.
 
@@ -199,9 +261,11 @@ La Secretaría de Finanzas, efectuará los pagos correspondientes al presupuesto
 
 Concluída la vigencia anual de un presupuesto de egresos del Estado solo procederá hacer pagos con base en él, por los conceptos efectivamente devengados en el año que corresponda y siempre que se hubieran contabilizado oportunamente los compromisos y, en su caso, si se presentó el informe a que se refiere el artículo 40 de esta Ley.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 33.
 
-El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones presupuestarias, estará obligado a guardar absoluta reserva en lo concerniente a la documentación y demás datos que se relacionen con la función que desempeñe. Dicha reserva no comprenderá los casos que señalen las Leyes y aquéllos en que deban suministrarse datos a los funcionarios encargados de la administración de la defensa de los intereses fiscales estatales, a las autoridades judiciales en proceso del orden penal, a los tribunales competentes que conozcan de pensiones alimenticias.
+Los entes fiscalizables, públicos o privados, deberán poner a disposición del público y actualizar la información sobre el presupuesto asignado; así como los informes sobre su ejecución; la situación económica, las finanzas públicas y la deuda pública, en los términos que establezca el propio presupuesto.
 
 ###### ARTICULO 34.
 
@@ -223,13 +287,17 @@ La asignación de las partidas fija el límite máximo de las erogaciones, a men
 
 Solo por acuerdo del Gobernador del Estado, podrán ser autorizados los pagos de cantidades con cargo a las partidas de subvenciones y subsidios, excepto en los casos en que otras leyes autoricen a determinados funcionarios el otorgarlos.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 39.
 
-Corresponderá a la Secretaría de Finanzas llevar a cabo la glosa preventiva de los egresos y solventar las observaciones que finque la Contaduría Mayor de Glosa, dependiente del Poder Legislativo.
+Corresponderá a la Secretaría de Finanzas y Administración presentar los Informes Financieros cuatrimestrales, llevar a cabo la glosa preventiva de los egresos y solventar las observaciones que finque la Auditoría General del Estado.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 40.
 
-Todas las Dependencias y Entidades a que se refiere el artículo 2o., de esta Ley informarán a la Secretaría de Finanzas, a más tardar el día 15 de noviembre de cada año, el monto y características de su deuda pública.
+Todas las Dependencias y Entidades a que se refiere el artículo 2 de esta Ley en sus respectivos Informes Financieros cuatrimestrales, darán cuenta a la Secretaría de Finanzas y Administración, el monto y características de su deuda pública.
 
 ###### ARTICULO 41.
 
@@ -255,17 +323,41 @@ El sistema de contabilidad debe diseñarse y operarse en forma que facilite la f
 
 Cada una de las dependencias llevará su propia contabilidad que se sujetará a lo dispuesto en este Capítulo.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 45.
 
-Cada una de las Entidades llevará su propia contabilidad, la cual incluirá las cuentas para registrar tanto los activos, pasivos, capital o patrimonio, ingresos, costos correspondientes a los programas y partidas de su propio presupuesto.
+Cada una de las Entidades llevará su propia contabilidad, la cual incluirá las cuentas para registrar tanto los activos, pasivos, capital o patrimonio, ingresos y costos correspondientes a los programas y partidas de su propio presupuesto.
 
 ###### ARTICULO 46.
 
 Las dependencias y entidades suministrarán a la Secretaría de Finanzas, con la periodicidad que éste determine, la información presupuestal, contable, financiera y de otra índole que requiera.
 
+> <small>N. DE E. EN RELACION CON SU VIGENCIA, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO No. 624.</small>
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 47.
 
-Los estados financieros y demás información que emane de las contabilidades de las dependencias y entidades comprendidas en el presupuesto de egresos, serán consolidados por la Secretaría de finanzas, la que será responsable de formular la cuenta anual de la Hacienda Pública Estatal y someterá a la consideración del Gobernador del Estado, para su presentación ante el H. Congreso del Estado, a más tardar el 31 de mayo de cada año, fecha en la que debe rendirse la Cuenta Pública.
+Los estados financieros y demás información financiera, presupuestal y contable que emane de las contabilidades de las dependencias y entidades comprendidas en el presupuesto de egresos, serán consolidados por la Secretaría de Finanzas y Administración, la que será responsable de formular la Cuenta Anual de la Hacienda Pública Estatal y someterá a la consideración del Gobernador del Estado, para su presentación ante el Congreso del Estado, a más tardar el último día del mes de enero de cada año, fecha en la que debe rendirse la Cuenta Pública.
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+###### ARTICULO 47
+
+Bis.- Los Informes de Resultados derivados de la fiscalización de las Cuentas de las Haciendas Públicas Estatal y Municipales, en el ámbito de su competencia y aplicación, estarán constituidas por:
+
+I.- Los estados financieros, contables, programáticos, económicos y presupuestarios;
+
+II.- El registro de las operaciones derivadas de la aplicación de las respectivas leyes de ingresos y del ejercicio de los presupuestos de egresos estatal y municipales, según corresponda;
+
+III.- El origen y aplicación de los recursos y la información que muestre los efectos o consecuencias de las mismas operaciones, y de otras cuentas, en el activo y pasivo totales de las haciendas públicas estatal y municipales y en su patrimonio neto;
+
+IV.- La descripción pormenorizada del estado que guarda el patrimonio del dominio público y privado estatal y municipal, respectivamente;
+
+V.- El resultado de las operaciones de los Poderes del Estado, Ayuntamientos y Entes Públicos Estatales y Municipales; y
+
+VI.- Los estados detallados de la deuda pública estatal y municipal, según sea el caso.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY NUMERO 616 DE DEUDA PUBLICA PARA EL ESTADO DE GUERRERO, P.O. 11 DE NOVIEMBRE DE 2005)</small>
 
@@ -283,9 +375,11 @@ Los estados financieros y demás información que emane de las contabilidades de
 
 (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY NUMERO 616 DE DEUDA PUBLICA PARA EL ESTADO DE GUERRERO, P.O. 11 DE NOVIEMBRE DE 2005)
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 51.
 
-(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY NUMERO 616 DE DEUDA PUBLICA PARA EL ESTADO DE GUERRERO, P.O. 11 DE NOVIEMBRE DE 2005)
+La Secretaría de Finanzas y Administración, de conformidad con lo dispuesto por el artículo 22 de la Ley Orgánica de la Administración Pública del Estado de Guerrero, es la dependencia del Ejecutivo Estatal facultada para aplicar e interpretar, para efectos administrativos, las disposiciones en materia de deuda pública que establece la presente Ley y expedir las disposiciones necesarias para su debido cumplimiento.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY NUMERO 616 DE DEUDA PUBLICA PARA EL ESTADO DE GUERRERO, P.O. 11 DE NOVIEMBRE DE 2005)</small>
 
@@ -319,9 +413,27 @@ Los estados financieros y demás información que emane de las contabilidades de
 
 (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY NUMERO 616 DE DEUDA PUBLICA PARA EL ESTADO DE GUERRERO, P.O. 11 DE NOVIEMBRE DE 2005)
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY NUMERO 616 DE DEUDA PUBLICA PARA EL ESTADO DE GUERRERO, PUBLICADA EN EL P.O. DE 11 DE NOVIEMBRE DE2005, EL ARTÍCULO 59 QUEDO DEROGADO; SIN EMBARGO, MEDIANTE DECRETO 624, PUBLICADO EN EL P.O. DE 28 DE ABRIL DE 2006, SE REFORMAN DIVERSOS ARTICULOS, ENTRE ELLOS EL 59, CUANDO HABIA SIDO DEROGADO ANTERIORMENTE; POR TAL MOTIVO, SE DEJA EL TEXTO PUBLICADO EN ESTA ULTIMA FECHA.</small>
+
 ###### ARTICULO 59.
 
-(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY NUMERO 616 DE DEUDA PUBLICA PARA EL ESTADO DE GUERRERO, P.O. 11 DE NOVIEMBRE DE 2005)
+...
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE ABRIL DE 2006)</small>
+
+I.- Secretaría de Finanzas y Administración;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE ABRIL DE 2006)</small>
+
+II.- Secretaría de Desarrollo Social;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE ABRIL DE 2006)</small>
+
+III.- La Contraloría General del Estado, y
+
+IV.- …
+
+… (sic)
 
 ###### ARTICULO 60.
 
@@ -430,3 +542,17 @@ SEGUNDO.- Comuníquese la presente Ley al Gobernador del Estado para los efectos
 TERCERO.- Se derogan los Capítulos Sexto, Séptimo, Octavo y Noveno con sus respectivos artículos de la Ley Número 255 de Presupuesto, Contabilidad Gubernamental y Deuda Pública del Gobierno del Estado de Guerrero, publicada en el Periódico Oficial del Gobierno del Estado Número 108 el 28 de Diciembre de 1988.
 
 CUARTO.- La Secretaría de Finanzas y Administración del Gobierno del Estado, deberá ajustar su Reglamento Interior en un Plazo no mayor a 45 días hábiles a la publicación de la presente Ley, con la finalidad de cumplir fielmente este ordenamiento.
+
+P.O. 28 DE ABRIL DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, con las modalidades que en los Artículos Transitorios siguientes se contemplan.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese el presente Decreto al Gobernador del Estado para los efectos constitucionales procedentes.
+
+###### ARTÍCULO TERCERO.
+
+Las reformas realizadas a los artículos 21, 26 y 47 de la Ley Número 255 del Presupuesto de Egresos, Contabilidad Gubernamental y Deuda Pública, entrarán en vigor a partir de la fecha en que entre en vigor el Decreto número 619 por el que se reforman y adicionan diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Guerrero.
