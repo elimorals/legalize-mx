@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-fiscalizacion-superior-del-estado-de-guerrero-numero-263
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-06"
-last_updated: "2002-11-06"
+last_updated: "2006-04-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE GUERRERO NUMERO 564
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el miércoles 6 de noviembre de 2002.
 
@@ -127,7 +127,9 @@ I. Fijar las bases y términos para la competencia, organización, funcionamient
 
 II. Normar la fiscalización superior que realice la Auditoría General del Estado, así como la rendición de cuentas de los Poderes del Estado, Ayuntamientos y Entes Públicos Estatales y Municipales; y
 
-III. Establecer el procedimiento para la determinación de daños y perjuicios causados a las Entidades Fiscalizadas en su hacienda o patrimonio, así como la promoción o fincamiento de responsabilidades, indemnizaciones y sanciones pecuniarias, precisando los medios de defensa correspondientes.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+III. Establecer el procedimiento para fincar las responsabilidades administrativas previstas por esta Ley, derivadas de la fiscalización de las Cuentas Anuales de la Hacienda Pública Estatal y Municipales.
 
 ###### ARTICULO 2.
 
@@ -145,19 +147,25 @@ V. COMISION DE VIGILANCIA: La Comisión de Vigilancia y Evaluación de la Audito
 
 VI. CONGRESO: El Congreso del Estado;
 
-VII. CUENTA PUBLICA: El informe que de manera consolidada, a través del Ejecutivo del Estado, rinden sobre su gestión financiera al Congreso, los Poderes del Estado y los Entes Públicos Estatales. Así como el que rinden los Ayuntamientos y los Entes Públicos Municipales a través de éstos, a efecto de comprobar que la captación, recaudación, administración, custodia y aplicación de los ingresos y egresos estatales y municipales, se realizaron en los términos de las disposiciones legales y administrativas aplicables, conforme a los criterios normativos, planes y programas aprobados;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+VII. CUENTA PUBLICA: Se integra por los estados financieros, presupuestarios, programáticos y demás información que muestre el registro de las operaciones derivadas de la aplicación de las respectivas leyes de ingresos y del ejercicio de los presupuestos de egresos estatal y municipales, los efectos o consecuencias de las mismas operaciones y de otras cuentas en el activo y pasivo totales de las haciendas públicas estatal y municipales, y en su patrimonio neto, incluyendo el origen y aplicación de los recursos, así como el resultado de las operaciones de las Entidades Fiscalizadas, además de los estados detallados de la deuda pública estatal y municipal, por el período comprendido del primero de enero al treinta y uno de diciembre de cada ejercicio fiscal;
 
 VIII. ENTES PUBLICOS ESTATALES: Los organismos públicos autónomos, organismos públicos descentralizados, empresas de participación estatal y fideicomisos públicos estatales; las demás personas del derecho público de carácter estatal, autónomas por disposición legal, así como los órganos jurisdiccionales que determinen las leyes;
 
 IX. ENTES PUBLICOS MUNICIPALES: Los organismos públicos autónomos municipales, organismos públicos descentralizados del municipio, empresas de participación municipal, fideicomisos públicos municipales y las demás personas de derecho público de carácter municipal;
 
-X. ENTIDADES FISCALIZADAS: Los Poderes del Estado, Ayuntamientos, Entes Públicos Estatales y Municipales y, en general, cualquier persona física o moral pública o privada que capte, recaude, administre, custodie o aplique recursos públicos, sobre quienes la Auditoría General haya o esté efectuando la fiscalización superior;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+X. ENTIDADES FISCALIZADAS: Los Poderes del Estado, Ayuntamientos, Entes Públicos Estatales y Municipales, el Consejo Estatal Electoral, el Tribunal Estatal Electoral, la Comisión de Defensa de los Derechos Humanos, la Universidad Autónoma de Guerrero, el Tribunal de lo Contencioso Administrativo, el Tribunal de Conciliación y Arbitraje, los Fideicomisos Públicos y Privados que hayan recibido por cualquier título recursos públicos y, en general, cualquier persona física o moral, pública o privada que reciba, recaude, administre, custodie o aplique recursos públicos;
 
 XI. ESTADO: El Estado Libre y Soberano de Guerrero;
 
 XII. FISCALIZACION SUPERIOR: La atribución que realiza el Congreso a través de la Auditoría General del Estado;
 
-XIII. INFORMES: Los que en base a su competencia en cualquier momento solicite la Auditoría General del Estado a las Entidades Fiscalizadas y a los Sujetos de Fiscalización Superior;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+XIII.- INFORME FINANCIERO CUATRIMESTRAL: Para efectos de la presente Ley, deberá entenderse como el conjunto de datos que se emiten de manera cuatrimestral, en relación con las actividades derivadas del uso y manejo de los recursos financieros asignados a una Entidad Fiscalizada; la información que muestra la relación entre los derechos y obligaciones de las Entidades Fiscalizadas, así como la composición y variación de su patrimonio en el período que se informa;
 
 XIV. LEY ORGANICA: La Ley Orgánica del Poder Legislativo del Estado de Guerrero;
 
@@ -171,59 +179,97 @@ XVIII. PROGRAMAS: Los que se derivan de los planes de desarrollo, de carácter s
 
 XIX. REGLAMENTO: El Reglamento Interior de la Auditoría General del Estado;
 
-XX. SECRETARIA: La Secretaría de Finanzas y Administración del Poder Ejecutivo del Estado; y
+XX. SECRETARIA: La Secretaría de Finanzas y Administración del Poder Ejecutivo del Estado; y (sic)
 
-XXI. SERVIDORES PUBLICOS: Los que se consideran como tales en la Constitución Política del Estado Libre y Soberano de Guerrero.
+XXI. SERVIDORES PUBLICOS: Los que se consideran como tales en la Constitución Política del Estado Libre y Soberano de Guerrero;
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+XXII. LEY DE RESPONSABILIDADES: La Ley Número 674 de Responsabilidades de los Servidores Públicos del Estado de Guerrero;
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+XXIII. INFORME DE RESULTADOS: Es el medio por el cual la Auditoria General del Estado, informa al Congreso a través de la Comisión de Presupuesto, el resultado obtenido del examen y evaluación de la cuenta pública anual del Estado, de sus Entes Públicos y Ayuntamientos, conforme a los objetivos de fiscalización ordenados por esta Ley;
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+XXIV. PLIEGO DE OBSERVACIONES: Es el documento mediante el cual se da a conocer a las Entidades Fiscalizadas, las irregularidades de las operaciones contables, financieras, presupuestarias, programáticas y de obra pública derivadas del proceso de fiscalización, determinando en cantidad líquida el monto de la afectación y la presunta responsabilidad de los infractores.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 3.
 
-Los Poderes del Estado, Ayuntamientos, Entes Públicos Estatales y Municipales y, en general, cualquier persona física o moral pública o privada que capte, recaude, administre, custodie o aplique recursos públicos, son Sujetos de Fiscalización Superior.
+Los Poderes del Estado, Ayuntamientos, Entes Públicos Estatales y Municipales, el Consejo Estatal Electoral, el Tribunal Estatal Electoral, la Comisión de Defensa de los Derechos Humanos, la Universidad Autónoma de Guerrero, el Tribunal de lo Contencioso Administrativo, el Tribunal de Conciliación y Arbitraje, los Fideicomisos Públicos y Privados que hayan recibido por cualquier titulo recursos públicos y, en general, cualquier persona física o moral pública o privada que reciba, recaude, administre, custodie o aplique recursos públicos son Entidades Fiscalizadas.
+
+También son sujetos de fiscalización, aquellas personas físicas o morales que celebren cualquier tipo de actos, civiles o mercantiles o de prestación de bienes o servicios con las Entidades Fiscalizadas señaladas en el párrafo anterior.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 4.
 
-A falta de disposición expresa en esta Ley se aplicarán en forma supletoria y en lo conducente los ordenamientos jurídicos federales y estatales, así como las disposiciones administrativas de la materia.
+A falta de disposición expresa en esta Ley se aplicarán en forma supletoria y en lo conducente, la Ley de Ingresos del Estado, la Ley del Presupuesto de Egresos, Contabilidad Gubernamental y Deuda Pública, los Códigos Fiscales del Estado de Guerrero y Municipal y, la Ley de Responsabilidades de los Servidores Públicos, así como las disposiciones relativas del Derecho común, sustantivo y procesal.
 
 ## TITULO SEGUNDO. DE LA AUDITORIA GENERAL DEL ESTADO
 
 ### CAPITULO I. DE SU COMPETENCIA
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 5.
 
-La Auditoría General del Estado tendrá a su cargo el control y fiscalización de la Administración Hacendaria de los Sujetos de Fiscalización Superior. Gozará de autonomía financiera, técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y emisión de sus resoluciones de conformidad con las facultades que le confiere esta Ley.
+El Honorable Congreso del Estado, a través de la Auditoría General del Estado, tendrá a su cargo la revisión de los Informes Financieros cuatrimestrales, así como de la Cuenta Anual de la Hacienda Pública de las Entidades Fiscalizadas señaladas en el artículo 2 fracción X de la presente Ley.
+
+La Auditoría General del Estado, gozará de autonomía financiera, técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y emisión de sus resoluciones de conformidad con las facultades que le confiere esta Ley.
 
 ###### ARTICULO 6.
 
 La Auditoría General del Estado será competente para:
 
-I. Controlar y fiscalizar la Cuenta Pública;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-II. Establecer criterios para llevar a cabo auditorías, determinando los procedimientos, métodos y sistemas necesarios para la fiscalización de las Cuentas Públicas, verificando que se presenten en los términos de esta Ley y demás normatividad aplicable;
+I. Fiscalizar los Informes Financieros y las Cuentas Públicas de las Entidades Fiscalizadas. La Fiscalización se llevará a cabo mediante la ejecución de la auditoria gubernamental;
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+II. Llevar a cabo auditorías, determinando los criterios, procedimientos, métodos y sistemas necesarios para la fiscalización de los Informes Financieros cuatrimestrales y de las Cuentas Públicas, verificando que se presenten en los términos de esta Ley y demás normatividad aplicable;
 
 III. Proporcionar a los Sujetos de Fiscalización Superior y a las Entidades Fiscalizadas, la asesoría y asistencia técnica que le requieran para la administración y control de sus recursos, así como para la integración de las Cuentas Públicas;
 
-IV. Diseñar y ejecutar programas de capacitación y actualización dirigidos a su personal, así como al de los Sujetos de Fiscalización Superior, a efecto de homologar los conocimientos y garantizar el cumplimiento de la normatividad vigente;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-V. Solicitar la información necesaria para el cumplimiento de sus funciones, atendiendo las disposiciones legales que al efecto considere. El manejo de dicha información tendrá carácter reservado hasta en tanto se emita el dictamen respectivo;
+IV. Diseñar y ejecutar programas de capacitación y actualización dirigidas a su personal, así como al de las Entidades Fiscalizadas, a efecto de homologar los conocimientos y garantizar el cumplimiento de la normatividad vigente;
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+V. Solicitar y obtener la información necesaria de las Entidades Fiscalizadas para el cumplimiento de sus funciones, atendiendo las disposiciones legales que al efecto sean aplicables;
 
 VI. Revisar y evaluar la Cuenta Pública mediante visitas de inspección y la aplicación de procedimientos de auditoría, generando los informes correspondientes;
 
 VII. Verificar que las operaciones contables, financieras, presupuestarias, económicas y programáticas que realicen los Sujetos de Fiscalización Superior y las Entidades Fiscalizadas, sean acordes con las Leyes de Ingresos y los Presupuestos de Egresos del Estado y Municipios y se efectúen con apego a las disposiciones administrativas y demás normas jurídicas aplicables;
 
-VIII. Inspeccionar obras, bienes adquiridos y servicios contratados para comprobar si las inversiones y gastos autorizados a los Sujetos de Fiscalización Superior se han aplicado legal y eficientemente al cumplimiento de las metas de los programas aprobados;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-IX. Fiscalizar los subsidios que los Sujetos de Fiscalización Superior hayan otorgado con cargo a su presupuesto a Entidades particulares, en general, a cualquier Ente Público o Privado, cualesquiera que sean sus fines y destino, así como verificar su aplicación al objeto autorizado;
+VIII. Inspeccionar obras, bienes adquiridos y servicios contratados para comprobar si las inversiones y gastos autorizados a las Entidades Fiscalizadas se han aplicado legal y eficientemente al cumplimiento de las metas de los programas aprobados;
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+IX. Fiscalizar los subsidios que las Entidades hayan otorgado con cargo a su presupuesto a entidades particulares, o en general, a cualquier ente público o privado, cualesquiera que sean sus fines y destino, así como verificar su aplicación al objeto autorizado;
 
 X. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, custodia, administración y aplicación de fondos y recursos públicos;
 
 XI. Efectuar visitas domiciliarias a particulares para solicitar la exhibición de la documentación comprobatoria, con la finalidad de realizar sus investigaciones, sujetándose a las leyes respectivas y a las formalidades prescritas en la ley de la materia;
 
-XII. Emitir las recomendaciones y pliegos de observaciones que se deriven de la revisión de la Cuenta Pública, así como los informes y dictámenes de las auditorías practicadas;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-XIII. Determinar los daños y perjuicios que afecten al Estado y Municipios en su hacienda pública o al patrimonio de sus Entes Públicos, y, fincar directamente a los responsables las indemnizaciones, sanciones pecuniarias y responsabilidad resarcitoria correspondientes;
+XII. Emitir las recomendaciones y pliegos de observaciones que se deriven de la fiscalización de los Informes Financieros cuatrimestrales y de la Cuenta Anual de la Hacienda Pública Estatal y Municipales, así como los informes de Resultados y dictámenes de las auditorías practicadas;
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+XIII. Determinar los daños y perjuicios que afecten a las Entidades Fiscalizadas en su patrimonio o hacienda pública, derivados de la auditoria de las Cuentas Públicas y fincar directamente a los responsables las sanciones administrativas previstas en esta Ley y en la Ley de Responsabilidades;
 
 XIV. Promover y notificar el fincamiento de las responsabilidades ante las autoridades e instancias competentes;
 
-XV. Fincar la responsabilidad e imponer las sanciones correspondientes a quienes incurran en los supuestos del artículo 62 de esta Ley, así como a los responsables por el incumplimiento a sus requerimientos de información tratándose de las denuncias sobre el presunto manejo o aplicación irregular de los recursos públicos;
+XV. (DEROGADA, P.O. 28 DE ABRIL DE 2006)
 
 XVI. Conocer y resolver sobre el recurso de reconsideración que se interponga en contra de las resoluciones y sanciones que aplique, así como condonar total o parcialmente las multas de acuerdo al Reglamento;
 
@@ -235,13 +281,19 @@ XVIII. Elaborar y publicar estudios relacionados con las materias de su competen
 
 XIX. Celebrar Convenios o Acuerdos de Coordinación con la Auditoría Superior de la Federación y con Organismos de Fiscalización que cumplan funciones similares dentro y fuera del Estado, para el mejor cumplimiento de sus fines;
 
-XX. Establecer las bases para la entrega-recepción de la documentación comprobatoria y justificativa de las Cuentas Públicas del Estado y Municipios;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+XX. Establecer los criterios para la entrega recepción de las Cuentas Públicas de las Entidades Fiscalizadas;
 
 XXI. Recibir y resguardar las declaraciones de situación patrimonial inicial, anual y final, que deben presentar los Diputados y Servidores Públicos del Poder Legislativo del Estado, así como los de los Ayuntamientos, en los términos de la Ley Orgánica y de la Ley de Responsabilidades de los Servidores Públicos del Estado de Guerrero;
 
-XXII. Vigilar que los Sujetos de Fiscalización Superior cumplan oportunamente con el procedimiento de entrega-recepción a la separación del cargo;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-XXIII. Establecer en coordinación con las dependencias competentes la unificación de criterios en las normas, procedimientos, métodos y sistemas de contabilidad, así como en las normas de auditoría gubernamental y de archivo de libros y documentos justificativos y comprobatorios del ingreso y del gasto público;
+XXII. Vigilar que los titulares de las Entidades Fiscalizadas cumplan oportunamente con el procedimiento de entrega-recepción al separarse del cargo;
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+XXIII. Establecer en coordinación con las entidades fiscalizadas, la unificación de criterios en las normas, procedimientos, métodos y sistemas de contabilidad; así como en las normas de auditoría gubernamental y de archivo de libros y documentos justificativos y comprobatorios del ingreso y del gasto público;
 
 XXIV. Requerir a los Auditores Externos de las Entidades Fiscalizadas copias de los informes o dictámenes de las auditorías y revisiones por ellos practicadas y las aclaraciones que se estimen pertinentes. A los Comisarios en su caso, les requerirá información necesaria con motivo del desempeño de sus funciones dentro de la Administración Pública Paraestatal;
 
@@ -249,21 +301,51 @@ XXV. Requerir a terceros que hubieren contratado bienes o servicios mediante cua
 
 XXVI. Emitir dictamen técnico de opinión sobre la constitución y operación de los fondos y fideicomisos en los que intervengan el Estado, los Municipios o los Organismos Descentralizados;
 
-XXVII. Verificar el otorgamiento de las fianzas de los servidores públicos que tengan a su cargo la custodia y administración de fondos públicos, así como de que se ajusten a los criterios de la Secretaría a efecto de garantizar el buen manejo de los recursos públicos;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+XXVII. Establecer los criterios y montos a los que debe sujetarse el otorgamiento de fianzas de los servidores públicos que tengan a su cargo la custodia y administración de fondos públicos, verificando su cumplimiento e (sic) efecto de garantizar el buen manejo de los recursos públicos;
 
 XXVIII. Apoyar al Comité de Administración en la evaluación del gasto público del Congreso;
 
-XXIX. Presentar a la Comisión de Presupuesto los informes sobre el ejercicio del gasto de la Administración Pública Centralizada y Paraestatal, así como los relativos a la presentación y revisión de las Cuentas Públicas Estatal y Municipales;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-XXX. Informar a las Comisiones de Presupuesto y de Vigilancia sobre la contratación de los servicios de Auditores Externos para la práctica de auditorías, cuando así se requiera;
+XXIX. Presentar a la Comisión de Presupuesto los Informes de Resultados Anuales relativos a la presentación y revisión de las Cuentas Públicas de las Entidades Fiscalizadas, así como de aquellos que se desprendan de la fiscalización de los Informes Financieros cuatrimestrales;
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+XXIX Bis.- Informar permanentemente a la ciudadanía, a través de medios electrónicos y escritos, acerca de su Programa de Trabajo, las acciones derivadas de éste y de los Informes de Resultados de la revisión de las Cuentas Públicas que haya turnado, respectivamente, a las Comisiones de Presupuesto y la de Vigilancia;
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+XXX. Informar a las Comisiones de Presupuesto y de Vigilancia sobre la contratación y resultado de las actuaciones de los servicios de Auditores Externos para la práctica de auditorías;
 
 XXXI. Elaborar su Reglamento;
 
 XXXII. Interpretar esta Ley para efectos administrativos, así como aclarar y resolver las consultas sobre la aplicación del Reglamento;
 
-XXXIII. Evaluar el cumplimiento final de los objetivos y metas fijados en los programas estatales y municipales, conforme a los indicadores estratégicos aprobados en sus presupuestos, a efecto de verificar el desempeño de los mismos y la legalidad en el uso de los recursos públicos; y
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-XXXIV. Las demás que le correspondan de acuerdo con esta Ley, el Reglamento, así como las disposiciones que dicte el Congreso.
+XXXIII. Evaluar el cumplimiento final de los objetivos y metas fijados en los programas estatales y municipales, a efecto de verificar el desempeño de los mismos y la legalidad en el uso de los recursos públicos;
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+XXXIV. Solicitar el apoyo a las entidades y dependencias del Gobierno Federal, Estatal y/o Municipal, para el cumplimiento de los objetivos que establece esta Ley;
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+XXXV. Reglamentar el registro y la contratación de despachos externos de auditores independientes para lograr el cumplimiento de sus objetivos;
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+XXXVI. Expedir la reglamentación necesaria para el cumplimiento de la presente Ley;
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+XXXVII. Verificar el Marco Integrado de Control Interno, para la organización y funcionamiento de las Entidades Fiscalizadas; y
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+XXXVIII. Las demás que le correspondan de acuerdo con esta Ley y su reglamento.
 
 ### CAPITULO II. DE SU INTEGRACION Y ORGANIZACION
 
@@ -275,15 +357,25 @@ I. Un Auditor General;
 
 II. Tres Auditores Especiales;
 
-III. Un Director General de Asuntos Jurídicos; y
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-IV. Un Director General de Administración y Finanzas.
+III. Un Director de Asuntos Jurídicos;
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+IV. Un Director de Administración y Finanzas, y
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+V. Los demás servidores públicos necesarios para el cumplimiento de sus objetivos, de conformidad con el presupuesto autorizado.
 
 Además, tendrá el apoyo de Directores, Subdirectores, Jefes de Departamento, Auditores, Supervisores y las unidades administrativas adscritas a los mismos, así como de los Servidores Públicos que al efecto señale el Reglamento, de conformidad con el presupuesto autorizado.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 8.
 
-La Auditoría General del Estado promoverá el servicio civil con sujeción a lo dispuesto en la Ley Orgánica del Poder Legislativo y al Reglamento que para el efecto se expida.
+La Auditoria General del Estado establecerá el Servicio Civil de Carrera, cuya premisa básica será la profesionalización del servidor público de Carrera, a fin de garantizar la continuidad y funcionamiento eficaz y eficiente de los programas, planes y procesos sustantivos para la Auditoria General; asegurando que el desempeño de sus miembros se apegue a los principios de legalidad, honradez, imparcialidad y profesionalismo y otorgue permanencia, estabilidad y certeza jurídica a sus miembros.
 
 ###### ARTICULO 9.
 
@@ -329,23 +421,35 @@ Una vez nombrado el Auditor General, éste no podrá desempeñar ningún otro em
 
 El Auditor General durará en su encargo ocho años y podrá ser nombrado nuevamente por una sola ocasión. Asimismo, podrá ser removido del cargo por las causas a que se refiere el artículo 16 de esta Ley o por las causas y conforme a los procedimientos previstos en el Título Décimo Tercero de la Constitución Política del Estado.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 13.
 
-Al Auditor General lo suplirá en sus ausencias temporales el Auditor Especial que señale el Reglamento, siempre y cuando éstas no excedan de quince días hábiles; si la ausencia por causas justificadas fuere mayor, y en caso de que la Cámara de Diputados se encontrara en receso, la Comisión de Gobierno del Congreso dará cuenta a la Comisión Permanente para que el Auditor Especial continúe en el encargo. Tratándose de ausencia definitiva se procederá al nombramiento del Auditor General, en base al procedimiento establecido en el artículo 10 de esta Ley, en el siguiente período ordinario de sesiones.
+Al Auditor General lo suplirá en sus ausencias temporales el Auditor Especial que el mismo designe, siempre y cuando éstas no excedan de quince días hábiles. Si la ausencia por causas justificadas fuere mayor, se dará aviso a la Comisión de Gobierno del Congreso, para que el Auditor Especial continúe en el encargo. Tratándose de ausencia definitiva, se procederá a la selección y nombramiento del Auditor General, con base al procedimiento establecido en el artículo 10 de esta Ley, en el siguiente período ordinario de sesiones.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 14.
 
-Los Auditores Especiales y los Directores Generales de Asuntos Jurídicos y de Administración y Finanzas serán nombrados por el Presidente de la Comisión de Gobierno del Congreso, a propuesta del Auditor General y con la opinión de la Comisión de Vigilancia. Para ejercer el cargo de Auditor Especial se deberán cubrir los mismos requisitos exigidos para ser Auditor General.
+Los Auditores Especiales y los Directores de Asuntos Jurídicos y de Administración y Finanzas serán nombrados a propuesta del Auditor General y con la opinión de la Comisión de Vigilancia, atendiendo lo dispuesto (sic) los artículos 5 segundo párrafo y 24 de la presente Ley. Para ejercer el cargo de Auditor Especial se deberán cubrir los mismos requisitos exigidos para ser Auditor General. Los Directores de Asuntos Jurídicos y de Administración y Finanzas, deberán reunir los requisitos que al efecto establezca el Reglamento Interior de la Auditoria General del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 15.
 
-El Auditor General, los Auditores Especiales, los Directores Generales de Asuntos Jurídicos y de Administración y Finanzas, los Directores, Subdirectores, los Jefes de Departamento y demás personal de la Auditoría General del Estado durante el ejercicio de su cargo tendrán prohibido:
+Los servidores públicos de la Auditoria General del Estado durante el ejercicio de su cargo tendrán prohibido:
 
 I. Participar en actos políticos partidistas y hacer cualquier tipo de propaganda y promoción partidista en días y horas hábiles;
 
-II. Desempeñar otro empleo o cargo en los sectores público, privado o social, salvo los de docencia y los no remunerados en asociaciones científicas, artísticas o de beneficencia; y
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-III. Hacer del conocimiento de terceros o difundir de cualquier forma la información confidencial o reservada que tenga bajo su custodia la Auditoría General del Estado para el ejercicio de sus atribuciones, la cual deberá utilizarse sólo para los fines a que se encuentra afecta.
+II. Desempeñar otro empleo o cargo en los sectores público, privado o social, salvo los de docencia, los no remunerados en asociaciones civiles en general y agrupaciones artísticas o de beneficencia;
+
+III. Hacer del conocimiento de terceros o difundir de cualquier forma la información confidencial o reservada que tenga bajo su custodia la Auditoría General del Estado para el ejercicio de sus atribuciones, la cual deberá utilizarse sólo para los fines a que se encuentra afecta;
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+IV. Omitir la formulación de observaciones sobre las situaciones irregulares que detecten, con motivo de la fiscalización de los Informes Financieros cuatrimestrales y de las Cuentas Públicas de las Entidades Fiscalizadas.
 
 ###### ARTICULO 16.
 
@@ -355,11 +459,15 @@ I. Incurrir en alguno de los supuestos establecidos en el artículo 15 de esta L
 
 II. Utilizar en beneficio propio o de terceros la documentación e información confidencial en los términos de la presente Ley y sus disposiciones reglamentarias;
 
-III. Sin causa justificada no fincar indemnizaciones, sanciones pecuniarias o responsabilidad resarcitoria en el ámbito de su competencia y en los casos previstos por la Ley y demás disposiciones reglamentarias, cuando esté debidamente comprobada la responsabilidad e identificado el responsable;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+III. Sin causa justificada no fincar indemnizaciones, sanciones pecuniarias o responsabilidad resarcitoria en el ámbito de su competencia y en los casos previstos por la Ley y demás disposiciones reglamentarias, cuando esté debidamente comprobada la responsabilidad e identificado el responsable de aquellas Entidades Fiscalizadas que hayan sido sujetos a revisión, además de considerar los alcances de revisión de conformidad a las normas de auditoría generalmente aceptadas;
 
 IV. Ausentarse de sus labores sin causa justificada por más de tres días hábiles en un período de treinta;
 
-V. Abstenerse de presentar en el año correspondiente y en los términos de la presente Ley sin causa justificada los informes de resultados de las revisiones de las Cuentas Públicas;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+V. Abstenerse de presentar en los términos de la presente Ley, sin causa justificada, los Informes de Resultados de las revisiones de las Cuentas Públicas;
 
 VI. Sustraer, destruir, ocultar, difundir o utilizar indebidamente la documentación e información que por razón de su cargo tenga a su cuidado o que exista en la Auditoría General del Estado, con motivo del ejercicio de sus atribuciones; y
 
@@ -369,7 +477,9 @@ VII. Aceptar la injerencia de los miembros de los partidos políticos, en el eje
 
 El Congreso dictaminará sobre la existencia de los motivos de la remoción del Auditor General por las causas señaladas en esta Ley, dándoselas a conocer y otorgándole el derecho de audiencia. La remoción requerirá del voto de la mayoría de los Diputados presentes en la Sesión respectiva.
 
-Los Auditores Especiales, los Directores Generales de Asuntos Jurídicos y de Administración y Finanzas y Directores podrán ser removidos por la Comisión de Gobierno del Congreso, previa opinión de la Comisión de Vigilancia.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+
+Los Auditores Especiales, los Directores de Asuntos Jurídicos y de Administración y Finanzas, y demás servidores públicos podrán ser removidos por causa justificada, por el Auditor General contando con la opinión de la Comisión de Vigilancia, de acuerdo a lo establecido por los artículos 5 y 24 de la presente Ley.
 
 ### CAPITULO III. DE SU FUNCIONAMIENTO
 
@@ -395,7 +505,9 @@ V. Administrar los bienes y recursos a cargo de la Auditoría General del Estado
 
 VI. Formular y ejecutar el programa anual de actividades de la Auditoría General del Estado;
 
-VII. Requerir por escrito a los Sujetos de Fiscalización Superior y a las Entidades Fiscalizadas para que proporcionen en tiempo y forma toda la información necesaria para cumplir con los objetivos de la Auditoría General del Estado; imponiendo en su caso, las medidas de apremio a quienes no cumplan;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+VII. Requerir por escrito a las Entidades Fiscalizadas para que proporcionen en tiempo y forma toda la documentación o información necesaria para cumplir con los objetivos de la Auditoría General del Estado, imponiendo las medidas de apremio establecidas por esta Ley a quienes no cumplan;
 
 VIII. Autorizar las nóminas y movimientos del personal de la Auditoría General del Estado;
 
@@ -407,7 +519,9 @@ XI. Proponer al Congreso para su aprobación el Reglamento Interior de la Audito
 
 XII. Expedir los manuales de organización y de procedimientos administrativos necesarios para el funcionamiento de la Auditoría General del Estado;
 
-XIII. Proponer al Presidente de la Comisión de Gobierno del Congreso, con la opinión de la Comisión de Vigilancia, los nombramientos de los Auditores Especiales y los Directores Generales de Asuntos Jurídicos y de Administración y Finanzas, así como formular ante la Comisión de Vigilancia, la solicitud de remoción de estos Servidores Públicos;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+XIII. Nombrar y remover, contando con la opinión de la Comisión de Vigilancia, a los Auditores Especiales, a los Directores de Asuntos Jurídicos y de Administración y Finanzas, mismos que serán seleccionados mediante concurso de méritos, atendiendo lo dispuesto por los artículos 5, 14, 17 y 24 de la presente Ley;
 
 XIV. Nombrar y remover al resto del personal técnico, administrativo y de apoyo de la Auditoría General del Estado;
 
@@ -417,19 +531,29 @@ XVI. Participar en foros, asambleas, congresos, cursos, talleres y demás reunio
 
 XVII. Entregar al Congreso por conducto de la Comisión de Vigilancia, dentro de los treinta días siguientes al término del ejercicio del año inmediato anterior, la comprobación del presupuesto ejercido por la Auditoría General del Estado;
 
-XVIII. Establecer conjuntamente con los Sujetos de Fiscalización Superior las reglas técnicas, procedimientos, métodos, sistemas de contabilidad y archivo de los libros y documentos justificativos y comprobatorios del ingreso y del gasto público, así como todos aquellos elementos que permitan la práctica idónea de las auditorías y revisiones;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+XVIII. Establecer las reglas técnicas, procedimientos, métodos, sistemas de contabilidad y archivo de los libros y documentos justificativos y comprobatorios del ingreso y del gasto público, que deberán observar las Entidades Fiscalizadas;
 
 XIX. Solicitar a los Sujetos de Fiscalización Superior y a las Entidades Fiscalizadas la información y el auxilio que se requiera para el ejercicio de la función de fiscalización superior;
 
-XX. Ordenar, en su caso, la práctica de visitas, auditorías e inspecciones necesarias para sustentar sus investigaciones;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-XXI. Formular y entregar el Informe de Resultados de la revisión de las Cuentas Públicas Estatal y Municipales a la Comisión de Presupuesto, dentro de los ciento cinco días naturales posteriores a la fecha en que fueron presentadas;
+XX. Ordenar la práctica de auditorías, así como la realización de visitas e inspecciones necesarias para la fiscalización de los Informes Financieros cuatrimestrales y de la cuenta pública;
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+XXI. Formular y entregar a la Comisión de Presupuesto los Informes Anuales del Resultado de la fiscalización de las Cuentas Públicas, dentro de los ciento veinte días naturales posteriores a la fecha en que le fueron turnadas;
 
 XXII. Formular informes y pliegos de observaciones sobre los daños y perjuicios que afecten a las haciendas públicas estatal y municipales o al patrimonio de los Entes Públicos;
 
-XXIII. Fincar para los efectos de la fracción anterior, directamente a los responsables, según sea el caso, las indemnizaciones, sanciones pecuniarias y responsabilidad resarcitoria correspondientes;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-XXIV. Celebrar convenios de coordinación o colaboración con los Poderes del Estado y los Gobiernos Municipales, así como con organismos que agrupen a Entidades de Fiscalización Superior homólogas y con el sector privado;
+XXIII. Fincar directamente a los responsables, según sea el caso, las indemnizaciones, multas y sanciones por las responsabilidades administrativas en que incurran, determinadas con motivo de la fiscalización de las cuentas públicas;
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+XXIV. Celebrar convenios de coordinación o colaboración para el cumplimiento de sus objetivos con los Poderes Federal, Estatales, así como con los Gobiernos Municipales y organismos que agrupen a Entidades de Fiscalización Superior homólogas y con el sector privado;
 
 XXV. Conocer y resolver sobre el recurso de reconsideración que se interponga en contra de los actos o resoluciones de la Auditoría General del Estado;
 
@@ -439,9 +563,19 @@ XXVII. Promover las acciones de responsabilidad a que se refiere el Título Déc
 
 XXVIII. Presentar, en su caso, denuncias o querellas, siendo coadyuvante con el representante social en los casos de presuntas conductas delictivas de servidores públicos o de particulares, relacionadas con daños o perjuicios ocasionados al Estado o Municipios en sus haciendas públicas o al patrimonio de los Entes Públicos Estatales y Municipales;
 
-XXIX. Formular denuncias de juicio político, de conformidad con lo señalado en el Título Décimo Tercero de la Constitución Política del Estado; y
+XXIX. Formular denuncias de juicio político, de conformidad con lo señalado en el Título Décimo Tercero de la Constitución Política del Estado; y (sic)
 
-XXX. Las demás que señale esta Ley y las disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE ABRIL DE 2006)</small>
+
+XXX. Imponer las medidas de apremio establecidas en la presente Ley;
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+XXXI. Imponer las sanciones administrativas al personal de la Auditoria General del Estado, por faltas a la presente Ley, a su reglamento, a la Ley de Responsabilidades y demás normatividad aplicable. Para este efecto, se observará en lo conducente el procedimiento establecido en el título séptimo de esta Ley; y
+
+> <small>(ADICIONADA (N. DE E. REUBICADA], P.O. 28 DE ABRIL DE 2006)</small>
+
+XXXII. Las demás que señale esta Ley y otras disposiciones legales aplicables.
 
 ###### ARTICULO 20.
 
@@ -449,7 +583,9 @@ Los Auditores Especiales tendrán las facultades siguientes:
 
 I. Planear conforme a los programas aprobados por el Auditor General las actividades relacionadas con la revisión de las Cuentas Públicas y elaborar los análisis temáticos que sirvan de insumos para la preparación de los informes de resultados;
 
-II. Revisar las Cuentas Públicas cuatrimestrales que rindan los Gobiernos Estatal y Municipal;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+II. Revisar los Informes Financieros cuatrimestrales y las Cuentas Públicas que rindan las Entidades Fiscalizadas;
 
 III. Requerir a los Sujetos de Fiscalización Superior, a las Entidades Fiscalizadas y a los terceros que hubieren celebrado operaciones con aquéllas, la información y documentación que sean necesarias para realizar la función de fiscalización;
 
@@ -461,13 +597,23 @@ VI. Revisar, analizar y evaluar la información incluida en las Cuentas Pública
 
 VII. Formular y someter al acuerdo del Auditor General las recomendaciones y los pliegos de observaciones que deriven de los resultados de su revisión de las auditorías, visitas o investigaciones, las que se remitirán a los Poderes del Estado, Municipios y demás Entidades Fiscalizadas según corresponda;
 
-VIII. Promover, previo acuerdo del Auditor General, ante la Dirección General de Asuntos Jurídicos el fincamiento de las responsabilidad resarcitoria en que incurran los servidores públicos o quienes dejaron de serlo, por actos u omisiones de los que resulte un daño o perjuicio estimable en dinero, que afecten al Estado o Municipios en sus haciendas públicas o al patrimonio de los Entes Públicos Estatales y Municipales conforme a los ordenamientos legales;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-IX. Recabar e integrar la documentación y comprobación necesaria, para que previo acuerdo del Auditor General, la Dirección General de Asuntos Jurídicos promueva el ejercicio de las acciones o fincamiento de responsabilidades en el ámbito que procedan, como resultado de las irregularidades que se detecten en las revisiones, auditorías o visitas que se practiquen a las Entidades Fiscalizadas;
+VIII. Informar al Auditor General sobre las observaciones no solventadas, para la determinación de las responsabilidades establecidas en esta Ley;
 
-X. Formular y presentar al Auditor General los proyectos de informes de resultados, así como los demás documentos que se les indiquen; y
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-XI. Las demás que señalen esta Ley, el Reglamento y demás disposiciones aplicables.
+IX. Recabar e integrar la documentación y comprobación necesaria, para que previo acuerdo del Auditor General, la Dirección de Asuntos Jurídicos promueva el ejercicio de las acciones legales o el fincamiento de responsabilidades en el ámbito que procedan, como resultado de las irregularidades que se detecten en las revisiones, auditorias o visitas que se practiquen a las Entidades Fiscalizadas;
+
+X. Formular y presentar al Auditor General los proyectos de informes de resultados, así como los demás documentos que se les indiquen; y (sic)
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+XI. Promover, mediante dictamen técnico, previo acuerdo del Auditor General, ante la Dirección de Asuntos Jurídicos el fincamiento de las responsabilidades en que incurran los servidores públicos, o quienes dejaron de serlo, los particulares personas físicas o morales, por actos u omisiones de los que resulte un daño o perjuicio estimable en dinero, que afecten al Estado o Municipios en sus haciendas públicas o al patrimonio de las Entidades Fiscalizadas conforme a los ordenamientos legales; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE ABRIL DE 2006)</small>
+
+XII. Las demás que señalen esta Ley, el Reglamento y demás disposiciones aplicables.
 
 ###### ARTICULO 21.
 
@@ -475,7 +621,9 @@ El Director General de Asuntos Jurídicos tendrá las facultades siguientes:
 
 I. Actuar como órgano de consulta y asesoría jurídica de la Auditoría General del Estado;
 
-II. Instruir los procedimientos administrativos para el fincamiento de la responsabilidad resarcitoria a que se refiere esta Ley, por acuerdo del Auditor General;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+II. Instruir los procedimientos para el fincamiento de las responsabilidades administrativas a que se refiere esta Ley, por acuerdo del Auditor General;
 
 III. Instruir el recurso de reconsideración previsto en esta Ley por acuerdo del Auditor General;
 
@@ -497,11 +645,19 @@ II. Realizar previo acuerdo del Auditor General las adquisiciones, proporcionar 
 
 III. Elaborar e integrar el proyecto de presupuesto anual de la Auditoría General del Estado;
 
-IV. Ejercer y contabilizar el ejercicio del presupuesto autorizado y elaborar la cuenta comprobatoria de su aplicación;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-V. Establecer y mantener un sistema de contabilidad que permita registrar el conjunto de operaciones que requiera la administración; y
+IV. Ejercer y contabilizar el ejercicio del presupuesto autorizado y elaborar la cuenta comprobatoria de su aplicación, previa autorización del Auditor General;
 
-VI. Las demás que le señale el Auditor General, las disposiciones legales y administrativas respectivas.
+V. Establecer y mantener un sistema de contabilidad que permita registrar el conjunto de operaciones que requiera la administración; y (sic)
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+VI. Administrar, con la autorización del Auditor General, los recursos económicos que se obtengan del Fondo para el Fortalecimiento de la Fiscalización de la Auditoría General del Estado; y
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+VII. Las demás que le señale el Auditor General, las disposiciones legales y administrativas respectivas.
 
 El Director General de Administración y Finanzas antes de asumir el cargo, depositará una fianza para garantizar los recursos que se le confíen.
 
@@ -509,15 +665,19 @@ El Director General de Administración y Finanzas antes de asumir el cargo, depo
 
 ### CAPITULO I. DE LA COORDINACION
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 23.
 
-Para los efectos de lo dispuesto en la fracción XLVII del artículo 8 y 204 de la Ley Orgánica, el Congreso cuenta con las Comisiones de Presupuesto y de Vigilancia que tendrán por objeto coordinar las relaciones entre éste y la Auditoría General del Estado, vigilar y evaluar el desempeño de esta última y constituir el enlace que permita garantizar la debida coordinación entre ambos órganos.
+Para los efectos de lo dispuesto en la fracción XLVII del artículo 8 y 204 de la Ley Orgánica, el Congreso cuenta con la Comisión de Vigilancia que tendrá por objeto coordinar las relaciones entre éste y la Auditoria General del Estado, y constituir el enlace que permita garantizar la debida comunicación entre ambos órganos, así como vigilar y evaluar el desempeño de esta última.
 
 ###### ARTICULO 24.
 
 La Comisión de Vigilancia tendrá las atribuciones siguientes:
 
-I. Ser el conducto de coordinación entre el Congreso y la Auditoría General del Estado;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+I. Ser el conducto de coordinación y comunicación entre el Congreso y la Auditoria General del Estado;
 
 II. Conocer el programa anual de actividades de la Auditoría General del Estado, así como sus modificaciones y evaluar su cumplimiento;
 
@@ -527,17 +687,25 @@ IV. Recibir el proyecto de presupuesto anual de la Auditoría General del Estado
 
 V. Evaluar si la Auditoría General del Estado cumple con las funciones que conforme a la Constitución Política del Estado y esta Ley le corresponden;
 
-VI. Proponer las medidas necesarias para el buen funcionamiento de la Auditoría General del Estado;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-VII. Opinar sobre los nombramientos y remoción de los Auditores Especiales y los Directores Generales de Asuntos Jurídicos y de Administración y Finanzas de la Auditoría General del Estado; y
+VI. Proponer a la Auditoria General del Estado las medidas necesarias para su buen funcionamiento;
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+VII. Opinar sobre los nombramientos y remoción de los Auditores Especiales y los Directores de Asuntos Jurídicos y de Administración y Finanzas de la Auditoria General del Estado;
 
 VIII. Las demás que establezca esta Ley y otras disposiciones legales aplicables.
 
 ### CAPITULO II. DE LA VIGILANCIA Y EVALUACION
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 25.
 
-La vigilancia y evaluación de las funciones a cargo de los Servidores Públicos de la Auditoría General del Estado, a fin de aplicar, en su caso, las medidas disciplinarias y sanciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Guerrero, estará a cargo de la Comisión de Vigilancia.
+La vigilancia y evaluación del desempeño de la Auditoria General del Estado, así como de las funciones a cargo de los Servidores Públicos de la misma, estarán a cargo de la Comisión de Vigilancia.
+
+La aplicación de medidas disciplinarias y sanciones a que haya lugar, se hará conforme a lo establecido en la presente Ley, la Ley de Responsabilidades de los Servidores Públicos y demás ordenamientos aplicables.
 
 ###### ARTICULO 26.
 
@@ -545,95 +713,141 @@ La Comisión de Vigilancia tendrá competencia para:
 
 I. Vigilar que el funcionamiento y los procedimientos, métodos y sistemas necesarios para la fiscalización de las cuentas públicas de la Auditoría General del Estado se apeguen en términos de lo dispuesto por esta Ley y demás disposiciones legales aplicables;
 
-II. Vigilar que los Servidores Públicos de la Auditoría General del Estado se conduzcan en términos de lo dispuesto por esta Ley y demás disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+II. Citar a comparecer al Auditor General, cuando en el ejercicio de sus facultades de evaluación y seguimiento, as i se requiera;
 
 III. Evaluar el cumplimiento de los objetivos y metas del programa operativo anual de la Auditoría General del Estado, así como fiscalizar por sí o a través de servicios de auditoría externos, la debida aplicación de los recursos a cargo de ésta;
 
 IV. Planear, programar, ordenar y efectuar inspecciones o visitas a las diversas unidades administrativas que integran la Auditoría General del Estado, cumpliendo con las formalidades legales;
 
-V. Practicar por sí o a través de Auditores Externos, auditorías para verificar el desempeño, el cumplimiento de los objetivos y metas del programa anual de la Auditoría General del Estado, así como la debida aplicación de los recursos a cargo de ésta;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+V. Practicar por si o a través de Auditores Externos, auditorias para verificar y evaluar el desempeño, el cumplimiento de los objetivos y metas del programa anual de la Auditoria General del Estado, así como la debida aplicación de los recursos a cargo de ésta;
 
 VI. Iniciar el procedimiento correspondiente por las quejas y denuncias derivadas del incumplimiento de las obligaciones por parte de los Servidores Públicos de la Auditoría General del Estado, para determinar la probable responsabilidad administrativa y, en su caso, proponer a la autoridad competente las sanciones aplicables;
 
 VII. Presentar denuncias o querellas ante la autoridad competente, en caso de detectar conductas presumiblemente constitutivas de delito imputables a los Servidores Públicos de la Auditoría General del Estado;
 
-VIII. Llevar el registro y análisis de la situación patrimonial de los Servidores Públicos adscritos a la Auditoría General del Estado; y
+VIII. Llevar el registro y análisis de la situación patrimonial de los Servidores Públicos adscritos a la Auditoría General del Estado; y (sic)
 
-IX. Las demás que le atribuyan expresamente las disposiciones legales y reglamentarias aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE ABRIL DE 2006)</small>
+
+IX. Rendir al Congreso un Informe cuatrimestral del seguimiento y evaluación del desempeño de la Auditoria General del Estado, en un plazo que no exceda los treinta días naturales al término del período que se informa;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE ABRIL DE 2006)</small>
+
+X. Las demás que le atribuyen expresamente las disposiciones legales y reglamentarias aplicables.
 
 ## TITULO CUARTO. DE LAS CUENTAS PUBLICAS, SU REVISION Y FISCALIZACION SUPERIOR
 
 ### CAPITULO I. DE LAS CUENTAS PUBLICAS
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 27.
 
-Las Cuentas Públicas estarán constituidas por los estados contables, financieros, presupuestarios, programáticos y demás información que muestre el registro de las operaciones derivadas de la aplicación de las respectivas leyes de ingresos y del ejercicio de los presupuestos de egresos estatal y municipales, los efectos o consecuencias de las mismas operaciones y de otras cuentas en el activo y pasivo totales de las haciendas públicas estatal y municipales, y en su patrimonio neto, incluyendo el origen y aplicación de los recursos, así como el resultado de las operaciones de los Poderes del Estado, Ayuntamientos y Entes Públicos Estatales y Municipales, además de los estados detallados de la deuda pública estatal y municipal.
+Las Cuentas Públicas estarán constituidas por los estados, financieros, presupuestarios, programáticos y demás información que muestre el registro de las operaciones derivadas de la aplicación de las respectivas leyes de ingresos y del ejercicio de los presupuestos de egresos estatal y municipales, los efectos o consecuencias de las mismas operaciones y de otras cuentas en el activo y pasivo totales de las haciendas públicas estatal y municipales, y en su patrimonio neto, incluyendo el origen y aplicación de los recursos, así como el resultado de las operaciones de las Entidades Fiscalizadas, además de los estados detallados de la deuda pública estatal y municipal. Dichas Cuentas Públicas deberán ser respaldadas en medios magnéticos en términos de los lineamientos que emita la Auditoría General del Estado.
+
+En cumplimiento de lo dispuesto en el párrafo anterior, sin menoscabo de lo señalado en la Ley del Presupuesto de Egresos, Contabilidad Gubernamental y Deuda Pública, las Cuentas Públicas incluirán los siguientes temas en la secuencia señalada:
+
+I. El panorama económico y social prevaleciente;
+
+II. Los resultados presupuestarios;
+
+III. Las políticas de ingreso y gasto;
+
+IV. La orientación funcional del gasto;
+
+V. La política de Deuda;
+
+VI. Los estados financieros, presupuestarios y económicos; y
+
+VII. Los apéndices estadísticos respectivos.
+
+Las Cuentas Públicas deberán reportar la información presupuestaria y financiera, comparadas con lo aprobado por el Congreso del Estado, debiéndose desagregar conforme a una clasificación económica, administrativa, programática y por objeto del gasto; también deberán presentar las variaciones financieras y presupuestales detalladas y comentadas, que dan origen al presupuesto modificado al período que se informa.
+
+Para los efectos de lo señalado en el presente artículo, la Auditoría General del Estado remitirá a las Entidades Fiscalizadas, a más tardar el último día del mes de noviembre de cada año, los formatos, criterios y lineamientos correspondientes.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 28.
 
-Los Ayuntamientos deberán remitir a la Auditoría General del Estado toda la documentación comprobatoria de la Cuenta Pública. En relación al Poder Ejecutivo del Estado, la Secretaría conservará en custodia y a disposición de la Auditoría General del Estado la documentación comprobatoria correspondiente. Los Organismos Públicos Descentralizados serán depositarios de su documentación comprobatoria.
+Los Ayuntamientos deberán remitir a la Auditoría General del Estado toda la documentación comprobatoria de sus Cuentas Públicas, para los efectos de su revisión, la cual una vez que la Auditoría General emita su Informe Anual de Resultados, deberá devolverse al Ayuntamiento dejándolo en calidad de depositario de la misma, quien tendrá la obligación en todo tiempo de proporcionar información parcial o total cuantas veces sea requerido por el Órgano Superior de Fiscalización para el cumplimiento de sus fines. En relación con las demás Entidades Fiscalizadas señaladas en el artículo 2 fracción X de esta Ley, conservarán en custodia y a disposición de la Auditoría General del Estado su documentación comprobatoria.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 29.
 
-Las Cuentas Públicas que el Poder Ejecutivo del Estado y los Ayuntamientos presenten al Congreso y a la Auditoría General del Estado, respectivamente, deberán estar integradas de acuerdo con la normatividad prevista en los manuales vigentes. Para ello, la Auditoría Superior les remitirá a más tardar en el mes de enero de cada año los formatos y lineamientos correspondientes.
+Forman parte de las Cuentas Públicas, los Informes Financieros cuatrimestrales que rindan las Entidades Fiscalizadas, las cuales deberán estar integradas de acuerdo con los formatos, criterios y lineamientos que al efecto expida la Auditoría General del Estado, procurando mostrar las desagregaciones señaladas en el artículo 27 de la presente Ley.
+
+Cuando la Cuenta Pública se entregue sin apego a las normas establecidas en esta Ley o a los formatos y lineamientos establecidos por la Auditoría General del Estado, ésta será rechazada, imponiendo, en su caso, la sanción que corresponda.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 30.
 
-El Poder Ejecutivo del Estado presentará al Congreso la Cuenta Pública Estatal cuatrimestral de la siguiente forma:
+Las Entidades Fiscalizadas que al efecto señala el artículo 2 fracción X, así como cualquier otro órgano de carácter autónomo, deberán entregar al Congreso un Informe Financiero cuatrimestral del ejercicio de sus recursos presupuestarios a más tardar en la segunda quincena del siguiente mes al que concluya el cuatrimestre respectivo. Los cuatrimestres comprenderán los períodos siguientes:
 
-I. Primer cuatrimestre, en la segunda quincena del mes de mayo;
+Primer Cuatrimestre: Enero-Abril.
 
-II. Segundo cuatrimestre, en la segunda quincena del mes de septiembre; y
+Segundo Cuatrimestre: Mayo-Agosto.
 
-III. Tercer cuatrimestre, en la segunda quincena del mes de enero.
+Tercer Cuatrimestre: Septiembre-Diciembre.
 
-Las Cuentas Públicas concernientes al inicio y terminación de la Administración Pública Estatal comprenderán los períodos abril a agosto y enero a marzo, respectivamente; siendo los períodos de entrega al Congreso del Estado las segundas quincenas de los meses de septiembre y marzo en forma correspondiente.
+La presentación de las Cuentas Anuales de la Hacienda Pública Estatal y Municipales, contendrán el Informe Financiero del tercer cuatrimestre del ejercicio fiscal que corresponda, consolidando el resultado de las operaciones de los ingresos y gastos que se hayan realizado, debiéndose presentar al Congreso del Estado a más tardar el último día del mes de enero del año siguiente al ejercicio fiscal que se informe.
 
-Las Entidades de la Administración Pública Estatal deberán entregar al Congreso un informe cuatrimestral del ejercicio de sus recursos presupuestarios dentro del término de cuarenta y cinco días naturales, contados a partir del día siguiente al en que se concluya el cuatrimestre al que se refiera el informe.
+Los Informes Financieros concernientes al inicio y terminación del Poder Ejecutivo Estatal, comprenderán los períodos abril a agosto y enero a marzo, respectivamente; siendo los períodos de entrega al Congreso del Estado a más tardar el treinta de septiembre y el treinta y uno de marzo en forma correspondiente.
+
+Los Informes Financieros concernientes al inicio y terminación de la Administración Municipal, comprenderán los periodos de uno de enero al treinta de abril y del uno de septiembre al treinta y uno de diciembre, respectivamente; siendo los períodos de entrega a la Auditoria General del Estado a más tardar las segundas quincenas de los meses de mayo y diciembre en forma correspondiente.
 
 ###### ARTICULO 31.
 
-El Poder Judicial, el Consejo Estatal Electoral, el Tribunal Estatal Electoral y la Comisión Estatal para la Defensa de los Derechos Humanos, así como cualquier otro órgano de carácter autónomo, deberán entregar al Congreso un informe cuatrimestral del ejercicio de sus recursos presupuestarios dentro del término de cuarenta y cinco días naturales, contados a partir del día siguiente al en que se concluya el cuatrimestre al que se refiera el informe.
+(DEROGADO, P.O. 28 DE ABRIL DE 2006)
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 32.
 
-El Poder Legislativo del Estado deberá entregar a la Auditoría General del Estado un informe cuatrimestral del ejercicio de sus recursos; esta última deberá emitir el Informe de Resultados correspondiente a la Comisión de Vigilancia del Congreso. El informe cuatrimestral deberá remitirse en un lapso no mayor a cuarenta y cinco días naturales, contados a partir del día siguiente al en que se concluya el cuatrimestre al que se refiera el informe.
+El Poder Legislativo del Estado deberá entregar a la Auditoria General del Estado un Informe Financiero cuatrimestral del ejercicio de sus recursos; y en los plazos y condiciones que esta Ley establece presentará su Cuenta Pública Anual; la Auditoria General del Estado deberá emitir un Informe de Resultados Anual correspondiente a la Comisión de Vigilancia del Congreso. El Informe Financiero cuatrimestral deberá remitirse a más tardar en la segunda quincena del siguiente mes al que concluya el cuatrimestre respectivo.
+
+Los Informes Financieros concernientes al inicio y terminación del Poder Legislativo Estatal comprenderán los periodos del quince de noviembre al treinta y uno de diciembre y del primero de septiembre al catorce de noviembre, respectivamente; siendo los periodos de entrega a la Auditoría General del Estado a más tardar la segunda quincena del mes de enero y la primera quincena de noviembre en forma correspondiente.
 
 ###### ARTICULO 33.
 
-Los Ayuntamientos y sus Entes Públicos presentarán a la Auditoría General del Estado la Cuenta Pública Municipal cuatrimestral de la siguiente forma:
+(DEROGADO, P.O. 28 DE ABRIL DE 2006)
 
-I. Primer cuatrimestre, en la segunda quincena del mes de mayo;
-
-II. Segundo cuatrimestre, en la segunda quincena del mes de septiembre; y
-
-III. Tercer cuatrimestre, en la segunda quincena del mes de enero.
-
-Las Cuentas Públicas concernientes al inicio y terminación de la Administración Municipal, comprenderán los períodos del uno al treinta y uno de diciembre y de septiembre a noviembre, respectivamente; siendo los períodos de entrega a la Auditoría General del Estado las segundas quincenas de los meses de enero y noviembre en forma correspondiente.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 34.
 
-La Auditoría General del Estado, en su caso la Secretaría y los Ayuntamientos, en el ámbito de sus respectivas competencias expedirán las bases y normas para la baja de documentos justificativos y comprobatorios para efecto de su destrucción, guarda o custodia de los que deban conservarse, microfilmarse o procesarse electrónicamente, sujetándose a las disposiciones legales vigentes.
+La Auditoria General del Estado expedirá las bases y normas para la baja de documentos justificativos y comprobatorios para efecto de su destrucción, guarda y custodia de los que deben conservarse, microfilmarse o procesarse electrónicamente, sujetándose a las disposiciones legales vigentes.
 
 Los microfilmes y los archivos guardados mediante procesamiento electrónico a que se refiere el párrafo anterior tendrán el valor que, en su caso, establezcan las disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 35.
 
-La Auditoría General del Estado conservará en su poder las Cuentas Públicas del Estado y Ayuntamientos de cada cuatrimestre, así como los Informes de Resultados de su revisión, mientras no prescriban sus facultades para fincar las responsabilidades derivadas de las irregularidades que se detecten; asimismo conservarán las copias autógrafas de las resoluciones en las que se finquen responsabilidades y documentos que contengan las denuncias o querellas que se hubieren formulado y presentado.
+La Auditoría General del Estado conservará en su poder las Cuentas Públicas e Informes Financieros cuatrimestrales de las Entidades Fiscalizadas, así como los Informes de Resultados de su fiscalización, mientras no prescriban sus facultades para fincar las responsabilidades derivadas de las irregularidades que se detecten; asimismo conservarán las copias autógrafas de las resoluciones en las que se finquen responsabilidades y documentos que contengan las denuncias o querellas que se hubieren formulado y presentado.
 
 ### CAPITULO II. DE LA REVISION Y FISCALIZACION SUPERIOR DE LAS CUENTAS PUBLICAS
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 36.
 
-La revisión y auditoría de los informes y de las Cuentas Públicas está a cargo del Congreso, el cual se apoya para tales efectos en la Auditoría General del Estado.
+La Fiscalización Superior de las Cuentas Públicas e Informes Financieros cuatrimestrales, están a cargo del Congreso, el cual se apoya para tales efectos en la Auditoria General del Estado.
 
 ###### ARTICULO 37.
 
 La Fiscalización Superior tiene carácter externo y, por lo tanto, se lleva a cabo de manera independiente y autónoma de cualquier otra forma de control o fiscalización interna de los Poderes del Estado, los Ayuntamientos y los Entes Públicos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 38.
 
-La fiscalización superior de las Cuentas Públicas tiene por objeto determinar:
+La fiscalización superior de los Informes Financieros cuatrimestrales y de las Cuentas Públicas tiene por objeto determinar:
 
 I. Si los programas y su ejecución se ajustan a los términos y montos aprobados;
 
@@ -641,31 +855,51 @@ II. Si existen discrepancias entre las cantidades correspondientes a los ingreso
 
 III. Si los recursos provenientes del financiamiento se obtuvieron en los términos autorizados, y si se aplicaron con la periodicidad y forma establecidas por las leyes y disposiciones aplicables;
 
-IV. Si la captación, recaudación, administración, custodia y aplicación de recursos estatales y municipales, así como los actos, contratos, convenios, concesiones u operaciones que los Sujetos de Fiscalización Superior celebren o realicen, se ajustan a la legalidad y si no han causado daños o perjuicios en contra del Estado y Municipios en su hacienda pública o al patrimonio de los Entes Públicos;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-V. Si se aplicaron y cumplieron los sistemas de control interno, administrativo y de registro en el ejercicio, tanto del ingreso como del egreso;
+IV. Si la captación, recaudación, administración, custodia y aplicación de recursos estatales y municipales, así como los actos, contratos, convenios, concesiones u operaciones que las Entidades Fiscalizadas celebren o realicen, se ajustan a la legalidad y si no han causado daños o perjuicios en contra del Estado y Municipios en su hacienda pública o al patrimonio de los Entes Públicos;
 
-VI. Las aclaraciones y, en su caso las responsabilidades a que haya lugar; y
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-VII. La imposición de las sanciones resarcitorias correspondientes, en los términos de esta Ley.
+V. Si se aplicaron y cumplieron los sistemas de control interno, administrativo, financiero y operativo en el ejercicio, tanto del ingreso como del egreso y si en los registros contables se observaron los Principios de Contabilidad Gubernamental;
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+VI. Si el sujeto de fiscalización cumplió con eficiencia, eficacia el desempeño de sus actividades y objetivos; y
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+VII. Las responsabilidades a que haya lugar, en su caso.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 39.
 
-Las observaciones que realice la Auditoría General del Estado deberán notificarse a las Entidades Fiscalizadas dentro de los quince días hábiles siguientes al de la conclusión de la revisión de que se trate, con el propósito de que sus aclaraciones se integren al Informe de Resultados de la revisión de la Cuenta Pública correspondiente.
+Las observaciones que realice la Auditoría General del Estado deberán notificarse a las Entidades Fiscalizadas, a la conclusión de la revisión de que se trate, con el propósito de que sus aclaraciones se integren al Informe de Resultados de la revisión de la Cuenta Pública correspondiente.
+
+La Auditoria General del Estado, podrá emitir pliegos de observaciones derivados de la fiscalización de los Informes Financieros cuatrimestrales y de las cuentas públicas, sin perjuicio de lo que señala el artículo 66 de esta Ley, mismos que serán aclarados o solventados dentro del término de quince días hábiles contados a partir del día siguiente de su notificación.
 
 ###### ARTICULO 40.
 
 La Auditoría General del Estado en ejercicio de sus facultades de fiscalización podrá realizar visitas y auditorías durante el ejercicio fiscal en curso, sin menoscabo de la fiscalización que en su oportunidad realice sobre la Cuenta Pública.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 41.
 
-La fiscalización de las Cuentas Públicas está limitada al principio de anualidad, no obstante que su presentación sea cuatrimestral, por lo que un proceso que abarque en su ejecución dos o más cuatrimestres sólo podrá ser revisado y fiscalizado en la parte ejecutada precisamente en ese período, al rendirse la Cuenta Pública correspondiente.
+La fiscalización de los Informes Financieros cuatrimestrales y de las Cuentas Públicas está limitada al principio de anualidad, por lo que en un proceso que abarque en su ejecución dos o más ejercicios fiscales, sólo podrá ser revisado y fiscalizado en la parte ejecutada precisamente en ese periodo, al rendirse la Cuenta Pública correspondiente.
 
-Sin perjuicio del principio de anualidad a que se refiere el párrafo anterior, la Auditoría General del Estado podrá revisar de manera casuística y concreta información y documentos relacionados con conceptos específicos de gasto, correspondientes a períodos anteriores al de la Cuenta Pública en revisión, cuando el programa o proyecto contenido en el presupuesto aprobado abarque, para su ejecución y pago, diversos cuatrimestres, sin que con este motivo se entienda abierta nuevamente la Cuenta Pública del período correspondiente a la revisión específica señalada, salvo que exista la presunción fundada de ilícitos perseguibles de oficio o que no hayan prescrito.
+Sin perjuicio del principio de anualidad a que se refiere el párrafo anterior, la Auditoría General del Estado podrá revisar de manera casuística y concreta información y documentos relacionados con conceptos específicos de gasto, correspondientes a ejercicios anteriores al de la Cuenta Pública en revisión, cuando el programa o proyecto contenido en el presupuesto aprobado abarque, para su ejecución y pago, diversos ejercicios fiscales, sin que con este motivo se entienda abierta nuevamente la Cuenta Pública del ejercicio correspondiente a la revisión específica señalada, salvo que exista la presunción fundada de ilícitos perseguibles de oficio o que hayan prescrito.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2006)</small>
+
+ARTICULO 41 BIS.- Para la Auditoria General del Estado, el acta final es el documento que servirá de complemento para la iniciación del procedimiento resarcitorio a través del dictamen técnico correspondiente.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 42.
 
-Los Poderes del Estado, Ayuntamientos y demás Entes Públicos Estatales y Municipales están obligados a entregar a la Auditoría General del Estado los datos, libros, informes, documentos comprobatorios del ingreso y gasto público y demás información que resulte necesaria, siempre que se expresen los fines a que se destinará dicha información, cumplimentando para tal efecto las disposiciones legales que específicamente consideren dicha información como de carácter reservado.
+Las Entidades Fiscalizadas están obligadas a entregar a la Auditoría General del Estado los datos, libros, informes, documentos comprobatorios del ingreso y gastos públicos y demás información que resulte necesaria, siempre que se expresen los fines a que se destinará dicha información, cumpliendo para tal efecto las disposiciones legales que específicamente consideren dicha información como de carácter reservado, la cual una vez que se cumplan los fines para la que se solicitó, deberá devolverse al Ente Público que la entregó en calidad de depositario de la misma.
 
 ###### ARTICULO 43.
 
@@ -685,9 +919,11 @@ Las personas a que se refiere el párrafo anterior tendrán el carácter de dele
 
 Durante sus actuaciones los auditores que hubieren intervenido en las revisiones deberán levantar actas circunstanciadas en presencia de dos testigos, en las que harán constar hechos u omisiones que hubieren encontrado. Las actas, declaraciones, manifestaciones o hechos en ellas contenidos harán prueba en los términos de ley.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 47.
 
-Los Servidores Públicos de la Auditoría General del Estado y, en su caso, los despachos contratados para la práctica de auditorías y los Diputados al Congreso deberán guardar estricta reserva sobre la información y documentos que con motivo del objeto de esta Ley conozcan, así como de sus actuaciones y observaciones.
+Los Servidores Públicos de la Auditoría General del Estado y, en su caso, los despachos contratados para la práctica de auditorías, deberán guardar estricta reserva sobre la información y documentos que por disposición legal tengan ese carácter, hasta en tanto no se derive de su revisión el fincamiento de responsabilidades o el señalamiento de las observaciones que correspondan en el Informe de Resultados.
 
 ###### ARTICULO 48.
 
@@ -695,13 +931,19 @@ Los Servidores Públicos de la Auditoría General del Estado, cualquiera que sea
 
 ### CAPITULO III. DEL INFORME DEL RESULTADO DE LA REVISION Y FISCALIZACION SUPERIOR DE LAS CUENTAS PUBLICAS
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 49.
 
-La Auditoría General del Estado tendrá un plazo no mayor a ciento cinco días naturales posteriores a la fecha en que fueron presentadas las Cuentas Públicas Cuatrimestrales del Estado y Ayuntamientos para realizar su examen y rendir al Congreso por conducto de la Comisión de Presupuesto, el Informe de Resultados de que se trate, mismo que tendrá carácter público; mientras ello no suceda, la Auditoría General del Estado deberá guardar reserva de sus actuaciones e informes.
+La Auditoría General del Estado tendrá un plazo no mayor a ciento veinte días naturales posteriores a la fecha en que fueron presentadas las Cuentas Públicas del Estado y Ayuntamientos para realizar su examen y rendir al Congreso por conducto de la Comisión de Presupuesto, el Informe Anual de Resultados de que se trate, mismo que tendrá carácter público.
+
+En los casos en que las Entidades Fiscalizadas no entreguen la Cuenta Pública en los términos establecidos por esta Ley, el Auditor General del Estado informará a la Comisión de Presupuesto, para que determine lo conducente, con independencia de los procedimientos que se instruyan por la Auditoria General del Estado.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 50.
 
-La Comisión de Presupuesto, con base en el Informe de Resultados emitido por la Auditoría General del Estado, formulará los dictámenes de las Cuentas Públicas. Dichos documentos se someterán a la discusión y, en su caso, aprobación por el Pleno del Congreso.
+La Comisión de Presupuesto, tomando en cuenta el Informe de Resultados emitido por la Auditoría General del Estado, formulará los dictámenes de las Cuentas Públicas. Dichos documentos se someterán a la discusión y, en su caso, aprobación por el Pleno del Congreso; con independencia de los procedimientos que se instruyan por la autoría General del Estado.
 
 ###### ARTICULO 51.
 
@@ -711,9 +953,11 @@ El Congreso deberá resolver lo concerniente en cada una de las Cuentas Pública
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 52.
 
-Para efecto de la fiscalización de recursos federales que se ejerzan por las Entidades Fiscalizadas, el Congreso a través de la Auditoría General del Estado podrá celebrar Convenios o Acuerdos de Coordinación con la Entidad de Fiscalización Superior de la Federación y con la Secretaría de Contraloría y Desarrollo Administrativo Federal.
+La Auditoría General del Estado, podrá celebrar convenios con la Entidad de Fiscalización Superior de la Federación y con organismos que cumplan funciones similares dentro y fuera de la entidad federativa, para el mejor cumplimiento de sus fines.
 
 ###### ARTICULO 53.
 
@@ -761,9 +1005,17 @@ Si transcurrido el plazo señalado en el artículo anterior sin causa justificad
 
 Si de la revisión, denuncia o fiscalización superior de las Cuentas Públicas aparecieran irregularidades que permitan presumir la existencia de hechos u omisiones que produzcan daños y perjuicios a las haciendas públicas estatal o municipales o al patrimonio de los Entes Públicos Estatales o Municipales la Auditoría General del Estado procederá a:
 
-I. Establecer la presunción de responsabilidades, el señalamiento de los presuntos responsables y la determinación del monto de los daños y perjuicios; y
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-II. Fincar directamente, previo el establecimiento de la responsabilidad, las indemnizaciones y sanciones pecuniarias respectivas.
+I. Establecer la presunción de responsabilidades, el señalamiento de los presuntos responsables y la determinación del monto de los presuntos daños y perjuicios;
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+II. Requerir, en su caso, a las Entidades Fiscalizadas la revisión de conceptos específicos vinculados de manera directa con sus investigaciones o con las denuncias presentadas;
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+III. Fincar directamente, previo el desahogo de la Audiencia de Ley, que prevé el artículo 68 de esta Ley, el establecimiento de la responsabilidad, las indemnizaciones y sanciones pecuniarias respectivas.
 
 ###### ARTICULO 61.
 
@@ -779,61 +1031,105 @@ I. Los servidores públicos y los particulares, personas físicas o morales por 
 
 II. Los servidores públicos de los Poderes del Estado, Municipios y Entes Públicos Estatales y Municipales que no cumplan con la solventación de los pliegos de observaciones e irregularidades formulados y remitidos por la Auditoría General del Estado; y
 
-III. Los servidores públicos de la Auditoría General del Estado cuando al revisar las Cuentas Públicas no formulen las observaciones sobre las situaciones irregulares que detecten.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+III. Los servidores públicos o aquellos que dejaron de serlo, de los Poderes del Estado, Municipios y Entes Públicos Estatales o Municipales en los términos que establezca la Ley de Responsabilidades.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2006)</small>
+
+ARTICULO 62 BIS.- Las sanciones que con motivo de las responsabilidades administrativas imponga la Auditoria General del Estado, serán las siguientes:
+
+I. Apercibimiento,
+
+II. Amonestación,
+
+III. Suspensión hasta por tres meses, en no tratándose de servidores públicos de elección popular,
+
+IV. Multa que puede ir de cien a seiscientos días de salarios mínimos vigente en la capital del Estado,
+
+V. Separación del cargo, en no tratándose de servidores públicos de elección popular,
+
+VI. Inhabilitación temporal para desempeñar cargos o empleos en el servicio público, y
+
+VII. Indemnización.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 63.
 
-La responsabilidad que conforme a esta Ley se finque tiene por objeto resarcir al Estado, a los Municipios y a los Entes Públicos Estatales y Municipales, el monto de los daños y perjuicios estimables en dinero que se hayan causado, respectivamente, a sus haciendas públicas o a su patrimonio.
+La indemnización que conforme a esta Ley se determine, tiene por objeto resarcir al Estado, a los Municipios y a los Entes Públicos Estatales y Municipales, el monto de los daños y perjuicios estimables en dinero que se hayan causado a sus haciendas públicas o a su patrimonio.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 64.
 
-La responsabilidad resarcitoria a que se refiere este Capítulo se constituirá en primer término a los servidores públicos y personas físicas o morales que directamente hayan ejecutado los actos o incurran en las omisiones que las hayan originado subsidiariamente y, en ese orden, al servidor público jerárquicamente inmediato que por índole de sus funciones haya omitido la revisión o autorizado tales actos por causas que impliquen dolo, culpa o negligencia.
+La responsabilidad administrativa resarcitoria a que se refiere este capítulo se constituirá en primer término a los servidores públicos y personas físicas o morales que directamente hayan ejecutado actos o incurran en las omisiones que las hayan originado subsidiariamente, y en ese orden, al servidor público que por índole de sus funciones haya omitido la fiscalización o autorizado tales actos, por causas que impliquen dolo, culpa o negligencia.
 
-Serán responsables solidarios con los servidores públicos las personas físicas o morales que hayan participado u originado una responsabilidad resarcitoria.
+Serán responsables solidarios con los servidores públicos las personas físicas o morales que hayan participado u originado la responsabilidad administrativa determinada.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 65.
 
-La responsabilidad que se finque no exime a los servidores públicos de las Entidades Fiscalizadas, de la Auditoría General del Estado, a las empresas privadas o a los particulares de sus obligaciones, cuyo cumplimiento se les exigirá aún cuando la responsabilidad se hubiere hecho efectiva total o parcialmente.
+La responsabilidad que se finque no exime a los servidores públicos señalados en el artículo 62 de esta Ley, a las empresas privadas o a los particulares, de sus obligaciones, cuyo cumplimiento se les exigirá aun cuando la responsabilidad se hubiere hecho efectiva total o parcialmente.
 
 ### CAPITULO III. DEL PROCEDIMIENTO PARA EL FINCAMIENTO DE RESPONSABILIDAD RESARCITORIA
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 66.
 
-La Auditoría General del Estado formulará a las Entidades Fiscalizadas los pliegos de observaciones a que haya lugar, determinando en cantidad líquida el monto de la afectación, la cual deberá contabilizarse de inmediato y la presunta responsabilidad de los infractores.
+La auditoría General del Estado formulará a las Entidades Fiscalizadas los pliegos de observaciones derivados de la fiscalización de las Cuentas Públicas, determinado en cantidad liquida el monto de la afectación y la presunta responsabilidad de los infractores.
+
+Los servidores públicos de las Entidades Fiscalizadas o quienes lo hayan sido, contarán con un plazo de 45 días naturales contados a partir del día siguiente al que surte efectos la notificación de los pliegos de observaciones para solventarlos. En la solventación se acompañarán los documentos justificativos y aclaratorios correspondientes.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 67.
 
-Las Entidades Fiscalizadas dentro de un plazo improrrogable de quince días hábiles, contados a partir de la fecha de recibo de los pliegos de observaciones, deberán solventar los mismos ante la Auditoría General del Estado. Cuando los pliegos de observaciones no sean solventados dentro del término señalado, iniciará el procedimiento para el fincamiento de responsabilidad resarcitoria y, en su caso, aplicará las sanciones pecuniarias a que haya lugar, en los términos de esta Ley.
+Cuando los pliegos de observaciones no sean solventados dentro del término establecido en el artículo anterior, así como aquellas Entidades que fueron objeto de visitas domiciliarias y no hallan aclarado o solventado las observaciones o irregularidades subsistentes, derivadas de los hechos u omisiones determinadas en el acta final, la Autoría General del Estado, procederá a cuantificar, mediante dictamen técnico, las observaciones subsistentes, determinando los daños o perjuicios ocasionados a la hacienda pública o al patrimonio de los Sujetos de Fiscalización, así como la presunta responsabilidad de los infractores; el monto de la afectación deberá contabilizarse de inmediato.
 
-Cuando la documentación y argumentos presentados no sean suficientes a juicio de la Auditoría General del Estado para solventar las observaciones, procederá a la emisión de un nuevo pliego de observaciones que contemplará la insuficiencia referida, disponiendo la Entidad Fiscalizada de un término no mayor de cinco días hábiles contados a partir de su notificación para otorgar la respuesta correspondiente.
+El dictamen técnico respectivo se turnará a la Dirección de Asuntos Jurídicos para el inicio del procedimiento de responsabilidad administrativa resarcitoria a que se refiere el artículo siguiente.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 68.
 
-Si a juicio de la Auditoría General del Estado persisten las observaciones o no se otorgó respuesta en el término concedido para ello, se iniciará el procedimiento para el fincamiento de responsabilidad resarcitoria en los términos siguientes:
+El procedimiento para el fincamiento de responsabilidades administrativas resarcitorias, se sujetará a lo siguiente:
 
-I. Se citará personalmente al presunto o presuntos responsables a una audiencia en la sede de la Auditoria General del Estado, haciéndoles saber los hechos que se les imputan y que sean causa de responsabilidad en los términos de esta Ley, señalando el lugar, día y hora en que tendrá verificativo dicha audiencia y su derecho a ofrecer pruebas y alegar lo que a su derecho convenga, por sí o por medio de un defensor, apercibidos que de no comparecer sin causa justificada se tendrá por precluido su derecho para ofrecer pruebas o formular alegatos y se resolverá con los elementos que obren en el expediente respectivo;
+I. La Dirección de Asuntos Jurídicos, radicará el procedimiento respectivo, señalando las causas que dan origen a la responsabilidad, e identificará debidamente a los presuntos responsables, emplazándolos para que en un término de diez días hábiles contados a partir del día siguiente en que surta efectos la notificación, produzcan contestación por escrito o comparezcan para manifestar lo que a su derecho convenga y ofrecer pruebas, apercibiéndole de que de no hacerlo sin causa justificada, se tendrá por no contestada la misma, y a la Entidad Fiscalizada, por rebelde;
 
-II. A la audiencia podrá asistir, según sea el caso, el representante o delegado de los Poderes del Estado, Municipios o Entes Públicos Estatales y Municipales que para tal efecto designen;
+II. En el mismo escrito de contestación, se deberán ofrecer las pruebas que a su derecho corresponda;
 
-III. Entre la fecha de citación y la de la audiencia deberá mediar un plazo no menor de cinco ni mayor de diez días hábiles; y
+III. Recibida la contestación o comparecencia, se resolverá sobre la admisión de pruebas, señalándose día y hora en que tendrá verificativo su desahogo;
 
-IV. Desahogadas las pruebas, la Auditoría General del Estado dentro de los sesenta días hábiles siguientes, resolverá en definitiva sobre la existencia o inexistencia de responsabilidad, determinando cuando sea procedente la indemnización y sanción correspondientes a él o los sujetos responsables y notificará a éstos dicha resolución, remitiéndoles un tanto autógrafo del mismo a la Secretaría o a la Tesorería Municipal, si así corresponde, para el efecto de que si en un plazo de quince días naturales contados a partir de la notificación el crédito no es cubierto, se haga efectivo en términos de ley mediante el procedimiento administrativo de ejecución. Cuando los responsables sean servidores públicos dicha resolución será también notificada al Titular de la Entidad Fiscalizada, según corresponda y al órgano de control interno respectivo.
+IV. A las audiencias podrá asistir el presunto responsable o su representante legal;
 
-Si en la audiencia la Auditoría General del Estado encontrara que los elementos con que cuenta son insuficientes para resolver, advierta elementos que impliquen nueva responsabilidad a cargo del presunto o presuntos responsables o de otras personas, podrá disponer la práctica de investigaciones y citar para otras audiencias.
+V. Desahogadas las pruebas, se concederán tres días hábiles a los presuntos responsables, para formular alegatos;
+
+VI. Concluida la etapa de formulación de alegatos se dictará la resolución respectiva dentro de los sesenta días hábiles siguientes.
+
+En el fallo se determinará la existencia o inexistencia de responsabilidades administrativas, y en su caso, el importe de la indemnización y sanciones correspondientes a cargo de los sujetos responsables, estableciendo el plazo para su cumplimiento voluntario. La notificación de la resolución se hará personalmente. Cuando las multas o sanciones pecuniarias no sean cubiertas dentro del término concedido, la Auditoría General del Estado dará aviso a la Secretaría o a las Tesorerías Municipales, según corresponda, para que inicie el procedimiento administrativo de ejecución.
+
+VII. Si la Auditoría General del Estado encontrara que los elementos con que cuenta son insuficientes para resolver, advierta elementos que impliquen nueva responsabilidad a cargo del presunto o presuntos responsables o de otras personas, de oficio ordenará la práctica de nuevas diligencias.
 
 ###### ARTICULO 69.
 
 La indemnización invariablemente deberá ser suficiente para cubrir los daños y perjuicios causados y se actualizará para efectos de su pago en la forma y términos que establecen los Códigos Fiscales Estatal o Municipal, en tratándose de contribuciones y aprovechamientos y la sanción pecuniaria consistirá en una multa de uno hasta tres tantos del monto de los daños y perjuicios causados.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 70.
 
-La Auditoría General del Estado podrá solicitar a la Secretaría o a las Tesorerías Municipales, según corresponda, se proceda al embargo precautorio de los bienes de los responsables a efecto de garantizar el cobro de la sanción impuesta, sólo cuando haya sido determinado en cantidad líquida el monto de la responsabilidad resarcitoria respectiva.
+La Auditoría General del Estado dará aviso a la Secretaría o a las Tesorerías Municipales, según corresponda, para que ésta proceda al embargo precautorio de los bienes de los responsables a efecto de garantizar el cobro de la sanción impuesta, solo cuando haya sido determinado en cantidad líquida el monto de la responsabilidad respectiva.
 
 Los responsables podrán solicitar la sustitución del embargo precautorio por cualesquiera de las garantías que establece la Legislación Fiscal a satisfacción de la Auditoría General del Estado.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 71.
 
-En todas las cuestiones relativas al procedimiento no previstas en este Capítulo, se aplicarán supletoriamente las disposiciones del Código Procesal Civil del Estado.
+En todas las cuestiones relativas al procedimiento no previstas en este Capítulo se aplicarán supletoriamente las disposiciones del Código Fiscal del Estado de Guerrero, del Código Fiscal Municipal, del Código de Procedimientos Contenciosos Administrativos del Estado y en su defecto, el Código Procesal Civil del Estado.
 
 ###### ARTICULO 72.
 
@@ -847,33 +1143,193 @@ El importe de la sanción resarcitoria que se recuperen en los términos de esta
 
 La Auditoría General del Estado podrá abstenerse de sancionar al infractor por una sola vez cuando lo estime pertinente, justificando las causas de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor y el daño causado por éste no exceda de cien veces el salario mínimo general diario vigente en la Capital del Estado, en la fecha en que se cometa la infracción.
 
-### CAPITULO IV. DE OTRAS RESPONSABILIDADES
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 2006)</small>
 
-### CAPITULO I. DEL RECURSO DE RECONSIDERACION
+### CAPITULO III BIS. PROCEDIMIENTO ADMINISTRATIVO DISCIPLINARIO
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2006)</small>
+
+ARTICULO 74 BIS 1.- En la Auditoria General del Estado, se establecerá una Unidad específica, a las que el público tenga fácil acceso, para que cualquier interesado pueda presentar quejas y denuncias por incumplimiento de las obligaciones de los servidores públicos sujetos a esta Ley, con las que se iniciará en su caso, el procedimiento disciplinario correspondiente.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2006)</small>
+
+ARTICULO 74 BIS 2.- El Auditor General del Estado, los Auditores Especiales y los Directores de Asuntos Jurídicos, de Administración y Finanzas así como todos los servidores públicos de dicha Dependencia, tienen la obligación de respetar el derecho a la formulación de quejas y denuncias a que se refiere el artículo anterior y de evitar que con motivos de éstas se causan molestias indebidas al quejoso.
+
+Incurre en responsabilidad, el servidor público que por sí o por interpósita persona, utilizando cualquier medio, inhiba al quejoso para evitar la formulación o presentación de quejas y denuncias o que, con motivo de ello, realice cualquier conducta injusta u omita una justa y debida, que lesione los intereses de quien las formule o presente.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2006)</small>
+
+ARTICULO 74 BIS 3.- La Auditoria General del Estado, establecerá un órgano para identificar, investigar y determinar las responsabilidades derivadas del incumplimiento de las obligaciones establecidas en esta Ley, o en la Ley de Responsabilidades, así como para aplicar las sanciones establecidas en el presente capítulo, respecto de los servidores públicos pertenecientes a la Auditoria General del Estado y de las Entidades Fiscalizadas.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2006)</small>
+
+ARTICULO 74 BIS 4.- Los servidores públicos de la Auditoria General del Estado que incurran en responsabilidad por incumplimiento de las obligaciones establecidas en esta Ley o en la Ley de Responsabilidades, serán sancionados conforme al presente capítulo por el titular de la Auditoria o por el Congreso.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2006)</small>
+
+ARTICULO 74 BIS 5.- Las sanciones por faltas administrativas consistirán en:
+
+I. Apercibimiento privado o público;
+
+II. Amonestación privada o pública;
+
+III. Suspensión;
+
+IV. Destitución del puesto;
+
+V. Sanción económica, e
+
+VI. Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público.
+
+Cuando la falta administrativa implique lucro o cause daños o perjuicios, se impondrá inhabilitación de seis meses a tres años, si el monto de aquellos no exceden de cien veces el salario mínimo general de la región y de tres a diez años si exceden de dicho límite.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2006)</small>
+
+ARTICULO 74 BIS 6.- Las sanciones administrativas se impondrán tomando en cuenta los siguientes elementos:
+
+I. La gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir prácticas que infrinjan, en cualquier forma, las disposiciones de esta Ley o las que se dicten con base en ella;
+
+II. Las circunstancias socio-económicas del servidor público;
+
+III. El nivel jerárquico, los antecedentes y las condiciones del infractor;
+
+IV. Las condiciones exteriores y los medios de ejecución;
+
+V. La antigüedad en el servicio;
+
+VI. La reincidencia en el incumplimiento de obligaciones, y
+
+VII. El monto del beneficio, daño o perjuicio económico derivados del incumplimiento de obligaciones.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2006)</small>
+
+ARTICULO 74 BIS 7.- En caso de aplicación de sanciones económicas por beneficios obtenidos y daños en perjuicios causados por incumplimiento de las obligaciones establecidas en esta Ley, se aplicarán tres tantos más por el lucro obtenido y por los daños y perjuicios causados.
+
+Las sanciones económicas señaladas en este artículo se pagarán una vez determinadas en cantidad líquida, en su equivalencia en salarios mínimos generales vigentes al día de su pago, conforme al siguiente procedimiento:
+
+I. La sanción económica impuesta se dividirá entre la cantidad líquida que corresponda y el salario mínimo general de la región al día de su imposición, y
+
+II. El cociente se multiplicará por el salario mínimo general de la región mensual vigente al día del pago de la sanción.
+
+Para los efectos de esta Ley se entenderá por salario mínimo general de la región mensual, el equivalente a treinta veces el salario mínimo general regional diario vigente.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2006)</small>
+
+ARTICULO 74 BIS 8.- Para la aplicación de las sanciones a que hace referencia el artículo 74 BIS 5, se observarán las siguientes reglas:
+
+I. El apercibimiento, la amonestación y la suspensión del empleo, cargo o comisión por un período no menor de tres días ni mayor de tres meses, serán aplicables por el titular de la dependencia;
+
+II. La destitución del empleo, cargo o comisión de los servidores públicos, se demandará por el titular de la dependencia de acuerdo con los procedimientos consecuentes con la naturaleza de la relación y en los términos de las Leyes respectivas;
+
+III. La suspensión del empleo, cargo o comisión durante el período al que se refiere la fracción I, y la destitución de los servidores públicos de confianza, se aplicarán por el titular de la dependencia;
+
+IV. La Auditoria General del Estado promoverá los procedimientos a que hacen referencia las fracciones II y III, demandando la destitución del servidor público responsable o procediendo a la suspensión de éste, cuando el superior jerárquico no lo haga. En este caso, la Dirección de Asuntos Jurídicos desahogará el procedimiento y exhibirá las constancias respectivas al titular de la dependencia;
+
+V. La inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público será aplicable por el órgano que corresponda según las Leyes aplicables, y
+
+Las sanciones económicas serán aplicadas por el titular de la dependencia, cuando no excedan de un monto equivalente a mil veces el salario mínimo general de la región vigente. Y por el Congreso cuando sean superiores a esta cantidad.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2006)</small>
+
+ARTICULO 74 BIS 9.- Todo servidor público deberá denunciar por escrito a su superior jerárquico los hechos que, a su juicio, sean causa de responsabilidad administrativa imputable a servidores públicos sujetos a su dirección.
+
+El Auditor General del Estado o el Congreso determinarán si existe o no, responsabilidad administrativa por el incumplimiento de las obligaciones de los servidores públicos, y aplicará, las sanciones disciplinarias correspondientes.
+
+El Auditor General del Estado enviará al Congreso copia de las denuncias cuando se trate de infracciones graves o cuando en su concepto y habida cuenta de la naturaleza de los hechos denunciados, la Auditoria General del Estado deba conocer el caso o participar en las investigaciones.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2006)</small>
+
+ARTICULO 74 BIS 10.- Incurrirán en responsabilidad administrativa, los titulares de las Entidades Fiscalizadas o de la Auditoria General del Estado que se abstengan injustificadamente de sancionar a los infractores o que, al hacerlo, no se ajusten a lo previsto por esta Ley. La Auditoria General del Estado informará de ello al Congreso.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2006)</small>
+
+ARTICULO 74 BIS 11.- Si el titular de la Auditoria General del Estado tuviera conocimiento de hechos que impliquen responsabilidad penal, dará vista de ellos al Congreso y a la autoridad competente para conocer del ilícito.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2006)</small>
+
+ARTICULO 74 BIS 12.- Si de las investigaciones y auditorias que realice la Auditoria apareciera la responsabilidad de los servidores públicos, los responsables lo informarán al Auditor General del Estado, para que proceda a la investigación y sanción disciplinaria por dicha responsabilidad, si fuera de su competencia.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2006)</small>
+
+ARTICULO 74 BIS 13.- En los procedimientos que se sigan para investigación y aplicación de sanciones ante los titulares de las dependencias, se observarán, en todo cuando sea aplicable a las reglas contenidas en el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2006)</small>
+
+ARTICULO 74 BIS 14.- La Auditoria General del Estado impondrá las sanciones administrativas a que se refiere este capítulo mediante el siguiente procedimiento.
+
+I. Citará al presunto responsable a una audiencia, haciéndole saber la responsabilidad o responsabilidades que se le imputen, el lugar, día y hora en que tendrá verificativo dicha audiencia y su derecho a ofrecer pruebas y alegar en la misma, lo que a su derecho convenga por sí o por medio de su defensor.
+
+También asistirá a la audiencia el representante de la dependencia que para tal efecto se designe.
+
+Entre la fecha de la citación y la de la audiencia deberá mediar un plazo no menor de cinco días ni mayor de quince días hábiles.
+
+II. Al concluir la audiencia o dentro de los tres días hábiles siguientes, la Auditoria General del Estado resolverá sobre la existencia o inexistencia de responsabilidad, imponiendo en su caso al infractor las sanciones administrativas correspondientes y notificará la resolución dentro de los tres días hábiles siguientes al interesado, a su jefe inmediato, al representante designado por la dependencia y al superior jerárquico.
+
+III. Si en la audiencia la Auditoria General del Estado encontrara que no cuenta con elementos suficientes para resolver o advierta elementos que impliquen nueva responsabilidad administrativa a cargo del presunto responsable o de otras personas, podrá disponer la práctica de investigación y citar para otra u otras audiencias, y
+
+IV. En cualquier momento previo o posteriormente al citatorio al que se refiere la fracción I, la Auditoria podrá determinar la suspensión temporal de los presuntos responsables de sus cargos, empleos o comisiones, si a su juicio así conviene para la conducción o continuación de las investigaciones. La suspensión temporal no prejuzga sobre la responsabilidad que se impute. La determinación de la Auditoria General del Estado hará constar expresamente esta salvedad.
+
+La suspensión temporal a que se refiere el párrafo anterior, regirá desde el momento en que sea notificada al interesado o éste quede enterado de la resolución por cualquier medio. La suspensión cesará cuando así lo resuelva la Auditoria General del Estado independientemente de la iniciación, continuación o conclusión del procedimiento a que se refiere el presente artículo.
+
+Si los servidores suspendidos temporalmente no resultaren responsables de la falta que se les imputa, serán restituidos en el goce de sus derechos y se les cubrirán las percepciones que debieran percibir durante el tiempo en que se hallaron suspendidos.
+
+Se requerirá autorización del Congreso para dicha suspensión, si el nombramiento del servidor público de que se trate incumbe al titular del Poder Ejecutivo. Igualmente se requerirá autorización del Congreso del Estado o en su caso de la Comisión Permanente, si dicho nombramiento requirió ratificación de éste en los términos de la Constitución Política del Estado.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2006)</small>
+
+ARTICULO 74 BIS 15.- La Auditoria o el Congreso, en los ámbitos de sus respectivas competencias, podrán abstenerse de sancionar al infractor, por una sola vez, cuando lo estime pertinente, justificando la causa de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delitos, cuando lo ameriten los antecedentes y circunstancias del infractor y el daño causado por éste no exceda de cien veces al salario mínimo general regional vigente.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2006)</small>
+
+ARTICULO 74 BIS 16.- Se levantará acta circunstanciada de todas las diligencias que se practiquen, que suscribirán quienes intervengan en ellas, apercibidos de las sanciones en que incurran quienes falten a la verdad.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2006)</small>
+
+ARTICULO 74 BIS 17.- De todas las actuaciones se dará vista a la Entidad Fiscalizada en la que el presunto responsable preste sus servicios.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2006)</small>
+
+ARTICULO 74 BIS 18.- Las resoluciones y acuerdos de la Auditoria General del Estado durante el procedimiento al que se refiere este capítulo constarán por escrito, y se asentarán en el registro respectivo, que comprenderá las sanciones correspondientes a los procedimientos disciplinarios y a las sanciones impuestas, entre ellas, en todo caso, las de inhabilitación.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2006)</small>
+
+ARTICULO 74 BIS 19.- La Auditoria General del Estado expedirá constancias que acrediten la no existencia de registro de inhabilitación, que serán exhibidas, para los efectos pertinentes, por las personas que sean requeridas para desempeñar un empleo, cargo o comisión en el servicio público.
+
+### CAPITULO IV. DE OTRAS RESPONSABILIDADES
 
 ###### ARTICULO 75.
 
 Si del acto u omisión imputable a los presuntos responsables se advierte que incurren en otras responsabilidades que procedan de acuerdo a la legislación vigente, la Auditoría General del Estado estará obligada a:
 
-I. Promover ante las autoridades competentes el fincamiento de esas responsabilidades;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-II. Promover las acciones de responsabilidad a que se refiere el Título Décimo Tercero de la Constitución Política del Estado;
+I. Promover ante las autoridades federales, estatales y municipales competentes el fincamiento de esas responsabilidades;
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+II. Promover las acciones de responsabilidad a que se refiere el Titulo Décimo Tercero de la Constitución Política del Estado y ante el Congreso la de suspender o revocar el cargo del Mandato de los miembros de los Ayuntamientos cuando incurran en alguno de los supuestos del artículo 95 de la Ley Orgánica del Municipio Libre del Estado de Guerrero;
 
 III. Presentar las denuncias o querellas a que haya lugar; y
 
 IV. Coadyuvar, con el Ministerio Público en la integración de las averiguaciones previas y en los procesos penales a que haya lugar.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 76.
 
-La responsabilidad que resulte con base en otras leyes se fincará independientemente de la responsabilidad resarcitoria.
+La Auditoría General del Estado podrá promover las responsabilidades civil, penal y otras que resulten con base en otras leyes, independientemente de las responsabilidades administrativas contempladas en esta Ley.
 
 ## TITULO OCTAVO. DE LOS MEDIOS DE DEFENSA Y DE LA PRESCRIPCION
 
-### CAPITULO II. DE LA PRESCRIPCION
+### CAPITULO I. DEL RECURSO DE RECONSIDERACION
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 77.
 
-Los actos y demás resoluciones que emita la Auditoría General del Estado conforme a esta Ley, podrán ser impugnados por el servidor público o por particulares, personas físicas o morales ante la propia Auditoría General del Estado mediante el recurso de reconsideración o bien mediante Juicio de Nulidad ante el Tribunal de lo Contencioso Administrativo. El recurso de reconsideración se interpondrá dentro de los diez días hábiles siguientes a la fecha en que surta efectos la notificación del pliego o resolución recurrida.
+Los actos y demás resoluciones que emita la Auditoría General del Estado conforme a esta Ley, podrán ser impugnados por el servidor público o por particulares, personas físicas o morales ante la propia Auditoría General del Estado mediante el recurso de reconsideración. El recurso de reconsideración se interpondrá dentro de los diez días hábiles siguientes a la fecha en que surta efectos la notificación de la resolución recurrida.
+
+En las cuestiones relativas a la substanciación y resolución del Juicio de Nulidad, se observarán las disposiciones del Código de Procedimientos Contenciosos Administrativos del Estado. Tratándose de denominación, instancia, discusión y votación, se observarán, en lo aplicable, las reglas parlamentarias.
 
 ###### ARTICULO 78.
 
@@ -915,9 +1371,13 @@ I. Contra actos que sean materia de otro recurso que se encuentre pendiente de r
 
 II. Contra actos consumados de modo irreparable;
 
-III. Contra actos consentidos expresamente; o
+III. Contra actos consentidos expresamente; o (sic)
 
-IV. Fuera del término previsto por esta Ley.
+IV. Fuera del término previsto por esta Ley;
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+V. Contra el Pliego de Observaciones.
 
 ###### ARTICULO 82.
 
@@ -957,15 +1417,19 @@ V. Ordenar la reposición del procedimiento.
 
 ###### ARTICULO 85.
 
-La resolución que recaiga al recurso de reconsideración podrá ser impugnada ante el Tribunal de lo Contencioso Administrativo.
+(DEROGADO, P.O. 28 DE ABRIL DE 2006)
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 86.
 
-Quienes estén sujetos al procedimiento a que se refiere el artículo 70 de esta Ley o para la interposición del recurso de reconsideración, podrán consultar los expedientes administrativos donde consten los hechos que se les imputen y obtener, a su costa, copias certificadas de los documentos correspondientes.
+Quienes estén sujetos a los procedimientos a que se refiere esta Ley, o para la interposición del recurso de reconsideración, podrán consultar los expedientes administrativos donde consten los hechos que se les imputen y obtener, a su costa, copias simples o certificadas de los documentos correspondientes, de conformidad a los lineamientos establecidos por la Auditoría General del Estado.
 
 ###### ARTICULO 87.
 
 En todas las cuestiones relativas al procedimiento del recurso de reconsideración no previstas en este Capítulo se aplicarán supletoriamente las disposiciones del Código Procesal Civil del Estado.
+
+### CAPITULO II. DE LA PRESCRIPCION
 
 ###### ARTICULO 88.
 
@@ -973,7 +1437,9 @@ Las facultades de la Auditoría General del Estado para fincar responsabilidades
 
 El plazo de prescripción se contará a partir del día siguiente al en que se hubiere incurrido en la responsabilidad o a partir del momento en que hubiere cesado, si fue de carácter continuo.
 
-En todos los casos, la prescripción a que alude este precepto se interrumpirá al notificarse el procedimiento establecido en el artículo 70 de esta Ley.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+
+En todos los casos, la prescripción a que alude este precepto se interrumpirá al notificarse el procedimiento establecido en el artículo 68 de esta Ley.
 
 ###### ARTICULO 89.
 
@@ -982,6 +1448,58 @@ Otras responsabilidades de carácter político, civil, administrativo o penal pr
 ###### ARTICULO 90.
 
 Cualquier gestión de cobro que haga la autoridad competente al responsable, interrumpe la prescripción de la sanción impuesta. Prescripción que en su caso, comenzará a computarse a partir de dicha gestión.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2006)</small>
+
+###### ARTÍCULO 91.
+
+La Auditoria General del Estado para hacer cumplir sus determinaciones podrá imponer a los sujetos de fiscalización, como medidas de apremio, las siguientes:
+
+I. Amonestación privada o pública;
+
+II. Suspensión temporal hasta por tres meses, en no tratándose de servidores públicos de elección popular;
+
+III. Multa equivalente de cien a seiscientos días de salario mínimo general vigente en la capital del Estado; y
+
+IV. El auxilio de la fuerza pública.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2006)</small>
+
+###### ARTICULO 92.
+
+Las multas que como medida de apremio imponga la Auditoria General del Estado, serán a cargo del servidor público. En caso de reincidencia se duplicarán.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2006)</small>
+
+###### ARTICULO 93.
+
+Las multas que imponga la Auditoria General del Estado tendrán el carácter de crédito fiscal y se harán efectivas a través de la Secretaría.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2006)</small>
+
+###### ARTICULO 94.
+
+El Fondo para el Fortalecimiento de la Fiscalización, se formará con:
+
+I. Las multas que imponga la Auditoria General del Estado;
+
+II. Los intereses que generen los depósitos que como garantías reciba con motivo de la (sic) suspensiones otorgadas; y
+
+III. Cualquier otro ingreso estipulado en esta u otras leyes.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2006)</small>
+
+###### ARTICULO 95.
+
+Los recursos del Fondo se utilizarán preferentemente para:
+
+I. Programas de capacitación al personal de la Auditoria General;
+
+II. Modernización de la Auditoria General;
+
+III. Equipamiento; y
+
+IV. Incentivos al personal.
 
 ## TRANSITORIOS
 
@@ -1032,3 +1550,21 @@ El Secretario General de Gobierno.
 C. MARCELINO MIRANDA AÑORVE.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE ABRIL DE 2006.
+
+Artículo Primero.- El presente Decreto entrará en vigor en la misma fecha en que entre en vigor el Decreto número 619 por el que se reforman diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Guerrero.
+
+Artículo Segundo.- En su oportunidad comuníquese el presente Decreto al Gobernador del Estado para su conocimiento y efectos constitucionales procedentes.
+
+Artículo Tercero.- Los procedimientos administrativos que se encuentren en trámite a la entrada en vigor del presente Decreto, se desahogarán conforme al procedimiento vigente en su inicio. Los procedimientos administrativos que no se hayan radicado a la entrada en vigor de las presentes reformas y adiciones, se desahogarán conforme a lo estipulado en el presente Decreto.
+
+Artículo Cuarto.- La documentación comprobatoria de las Cuentas Públicas que a la fecha tenga en su poder la Auditoria General del Estado, por transmisión que le realizó la extinta Contaduría Mayor de Hacienda, deberán devolverse a los Ayuntamientos en un plazo máximo de noventa días contados a partir de la entrada en vigor del presente Decreto, dejándolos en calidad de depositarios de la misma, los cuales tendrán la obligación en todo tiempo de mantenerla a disposición de la Auditoria General del Estado.
+
+Artículo Quinto.- A partir de las auditorias practicadas a las Cuentas Públicas del ejercicio fiscal 2006, los Informes de Resultados de la fiscalización de las Cuentas Públicas, de ser el caso, se remitirán a la Comisión de Presupuesto, en forma anual, conforme a lo previsto en la presente reforma.
+
+Artículo Sexto.- Las Cuentas Públicas concernientes a la terminación e inicio de las Administraciones Municipales 2002-2005, comprenderán los períodos septiembre a noviembre y del primero al treinta y uno de diciembre del 2005; siendo los períodos de entrega a la Auditoria General del Estado las segundas quincenas de los meses de noviembre y diciembre del 2005, respectivamente.
+
+Artículo Séptimo.- El Congreso del Estado a propuesta de la Auditoria General del Estado, expedirá el Reglamento de la presente Ley, en un plazo no mayor de noventa días contados a partir de la entrada en vigor del presente Decreto.
