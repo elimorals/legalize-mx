@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-deporte-para-el-distrito-federal-835"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-06"
-last_updated: "2006-01-25"
+last_updated: "2006-04-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=835&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1995-10-31"
 
 LEY DEL DEPORTE PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 25 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE ABRIL DE 2006.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 13 de noviembre de 1995.
 
@@ -40,15 +40,17 @@ LEY DEL DEPORTE PARA EL DISTRITO FEDERAL
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 1o.
 
-Las disposiciones de la presente Ley son de orden público e interés social y tienen por objeto normar las actividades tendientes a fomentar y desarrollar el deporte en el Distrito Federal y establecer el Sistema del Deporte del Distrito Federal, así como las bases para su funcionamiento.
+Las disposiciones de la presente Ley son de orden público e interés social y tienen por objeto normar las actividades tendientes a fomentar, organizar, coordinar, promocionar y desarrollar el deporte en el Distrito Federal y establecer el Sistema del Deporte del Distrito Federal, así como las bases para su funcionamiento.
 
-> <small>(REFORMADO, G.O. 13 DE MAYO DE 1999)</small>
+> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 2o.
 
-Se entiende por deporte: la práctica de actividades físicas e intelectuales que las personas, de manera individual o en conjunto, realicen con propósitos competitivos o de esparcimiento en apego a su reglamentación. Dicha práctica propiciará el desarrollo de las aptitudes del individuo, el cuidado de su salud y promoverá su integración a la sociedad.
+Se entiende por deporte: la práctica de actividades físicas e intelectuales que las personas, de manera individual o en conjunto, realicen con propósitos competitivos o de esparcimiento en apego a su reglamentación. Dicha práctica propiciará el desarrollo de las aptitudes del individuo, el cuidado de su salud y promoverá su integración y desarrollo en la sociedad.
 
 ###### ARTICULO 3o.
 
@@ -60,31 +62,29 @@ La función social del deporte es la de fortalecer la interacción e integració
 
 Son sujetos de la presente ley, los deportistas, los organismos deportivos de los sectores público, social y privado en el Distrito Federal y demás personas que por su naturaleza o funciones sean susceptibles de integrarse al Sistema del Deporte en esta Ciudad.
 
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2002)</small>
-
-###### ARTICULO 5.
-
-Se reconoce el derecho de todo individuo al conocimiento, difusión y práctica del deporte sin distinción de sexo, militancia o creencia religiosa.
-
-El Gobierno del Distrito Federal y los Órganos Político-Administrativos de cada una de las Demarcaciones territoriales del Distrito Federal, en el ámbito de sus respectivas competencias, deberán incluir dentro de sus planes, programas, presupuestos, acciones y recursos destinados al impulso de las prácticas deportivas. Asimismo, se promoverá la incorporación de los deportistas con discapacidad.
-
-> <small>(REFORMADO, G.O. 13 DE MAYO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 5o.
 
-Se reconoce el derecho de todo individuo al conocimiento, difusión y práctica del deporte sin distinción de sexo, militancia política o creencia religiosa.
+Se reconoce el derecho de todo individuo al conocimiento, difusión y práctica del deporte sin distinción, exclusión o restricción basada en cualquier origen étnico, sexo, edad, discapacidad, condición social o económica, condiciones de salud, lengua, opiniones, preferencias sexuales, estado civil, militancia o creencia religiosa.
 
-> <small>(REFORMADO, G.O. 13 DE MAYO DE 1999)</small>
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2002)</small>
+
+El Gobierno del Distrito Federal y los Órganos Político-Administrativos de cada una de las Demarcaciones territoriales del Distrito Federal, en el ámbito de sus respectivas competencias, deberán incluir dentro de sus planes, programas, presupuestos, acciones y recursos destinados al impulso de las prácticas deportivas. Asimismo, se promoverá la incorporación de los deportistas con discapacidad.
+
+> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 6o.
 
-Corresponde al Jefe de Gobierno del Distrito Federal ser el órgano rector de la política deportiva en esta entidad. Para ello contará con las facultades que le otorga esta Ley, así como las que le otorguen otras disposiciones legales para el mejor desarrollo del deporte en el Distrito Federal.
+Corresponde al Jefe de Gobierno del Distrito Federal ser el órgano rector de la política deportiva en esta entidad. Para ello contará con las facultades que le otorga esta Ley, así como las que le otorguen otras disposiciones legales para el mejor desarrollo fomento y promoción del deporte en el Distrito Federal.
 
 ## TITULO SEGUNDO. DEL SISTEMA DEL DEPORTE DEL DISTRITO FEDERAL
 
+> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 7o.
 
-Se establece el Sistema del Deporte del Distrito Federal que estará constituido por el conjunto de acciones, recursos y procedimientos que los individuos, agrupaciones sociales y organismos deportivos de los sectores público, social y privado del Distrito Federal establezcan y lleven a cabo entre sí y con los diversos organismos que conforman el Sistema Nacional del Deporte.
+Se establece el Sistema del Deporte del Distrito Federal que estará constituido por el conjunto de instrumentos, métodos, acciones, recursos y procedimientos que los individuos, agrupaciones sociales y organismos deportivos de los sectores público, social y privado del Distrito Federal establezcan y lleven a cabo entre sí y con los diversos organismos que conforman el Sistema Nacional del Deporte.
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2002)</small>
 
@@ -100,57 +100,67 @@ Las funciones que conforme a esta Ley corresponden al Sistema del Deporte del Di
 
 Las principales funciones a desarrollar dentro del Sistema del Deporte del Distrito Federal son:
 
-> <small>(REFORMADA, G.O. 13 DE MAYO DE 1999)</small>
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2006)</small>
 
-I.- Proponer, formular y ejecutar coordinadamente políticas que fomenten y desarrollen la práctica del deporte y la recreación a través del mismo, enfatizando la atención en los sectores de la educación básica e instituciones de educación especial.
+I.- Proponer, formular y ejecutar coordinadamente políticas que fomenten y desarrollen la práctica del deporte y la recreación a través del mismo, enfatizando la atención en los sectores de la educación básica e instituciones de educación especial;
 
-> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2006)</small>
 
-II.- Establecer el procedimiento de coordinación en materia deportiva entre el Jefe de Gobierno del Distrito Federal y los Órganos Político-Administrativos de cada una de las Demarcaciones Territoriales del Distrito Federal.
+II.- Establecer el procedimiento de coordinación en materia deportiva entre el Jefe de Gobierno del Distrito Federal y los Órganos Político-Administrativos de cada una de las Demarcaciones Territoriales del Distrito Federal;
 
-> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2006)</small>
 
 III.- Determinar las necesidades y requerimiento de equipamiento, organización y seguridad, entre otros, para la práctica y desarrollo del deporte, incluido el deporte adaptado, así como su alternativa y medios para satisfacerlos.
 
-En lo referente al deporte adaptado se observarán en todo momento, los requerimientos específicos para su práctica, y se contemplarán las adecuaciones necesarias a la infraestructura deportiva, las cuales serán tomadas en cuenta en toda instalación deportiva que se construya y/o se remodele.
+En lo referente al deporte adaptado se observarán en todo momento, los requerimientos específicos para su práctica, y se contemplarán las adecuaciones necesarias a la infraestructura deportiva, las cuales serán tomadas en cuenta en toda instalación deportiva que se construya y/o se remodele;
 
-IV.- Promover la conjunción de esfuerzos en materia deportiva entre los sectores público, social y privado;
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2006)</small>
 
-V.- Formular el Programa del Deporte del Distrito Federal y llevar a cabo las acciones que se derivan del mismo, y
+IV.- Promover la participación y conjunción de esfuerzos en materia deportiva entre los sectores público, social y privado;
 
-VI.- Propiciar la participación de los organismos deportivos y de los deportistas en la determinación y ejecución de las políticas a que se refiere la fracción I, estableciendo los procedimientos para ello.
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2006)</small>
 
-> <small>(ADICIONADA, G.O. 26 DE DICIEMBRE DE 2002)</small>
+V.- Formular el Programa del Deporte del Distrito Federal y llevar a cabo las acciones que se derivan del mismo;
 
-VII.- Formular programas tendientes a apoyar, promover y fomentar el deporte realizado por personas con necesidades especiales.
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2006)</small>
 
-> <small>(ADICIONADA, G.O. 26 DE DICIEMBRE DE 2002)</small>
+VI.- Propiciar la participación de los organismos deportivos y de los deportistas en la determinación y ejecución de las políticas a que se refiere la fracción I, estableciendo los procedimientos para ello;
 
-VIII.- Coadyuvar en el fortalecimiento de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con el deporte, que redunden en el bienestar físico, intelectual y social de los habitantes del Distrito Federal.
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2006)</small>
 
-> <small>(ADICIONADA, G.O. 26 DE DICIEMBRE DE 2002)</small>
+VII.- Formular programas tendientes a apoyar, promover y fomentar el deporte realizado por personas con necesidades especiales;
 
-IX.- Determinar a los legítimos representantes del deporte en el Distrito Federal para las competencias nacionales e internacionales.
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2006)</small>
 
-> <small>(ADICIONADA, G.O. 14 DE AGOSTO DE 2003)</small>
+VIII.- Coadyuvar en el fortalecimiento de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con el deporte, que redunden en el bienestar físico, intelectual y social de los habitantes del Distrito Federal;
 
-X.- Emitir opiniones en materia sanitaria y educativa, relacionada con la práctica del deporte en el Distrito Federal.
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2006)</small>
 
-> <small>(ADICIONADA, G.O. 14 DE AGOSTO DE 2003)</small>
+IX.- Determinar a los legítimos representantes del deporte en el Distrito Federal para las competencias nacionales e internacionales;
 
-XI.- Establecer mecanismos de difusión para el conocimiento, práctica y cultura deportiva.
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2006)</small>
 
-> <small>(ADICIONADA, G.O. 14 DE AGOSTO DE 2003)</small>
+X.- Emitir opiniones en materia sanitaria y educativa, relacionada con la práctica del deporte en el Distrito Federal;
 
-XII.- Establecer mecanismos de vinculación con organismos y entidades públicas y privadas para la difusión, promoción, fomento e investigación en materia deportiva.
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2006)</small>
 
-> <small>(ADICIONADA, G.O. 14 DE AGOSTO DE 2003)</small>
+XI.- Establecer mecanismos de difusión para el conocimiento, práctica y cultura deportiva;
 
-XIII.- Emitir recomendaciones y opiniones en materia de espectáculos deportivos.
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2006)</small>
 
-> <small>(ADICIONADA, G.O. 14 DE AGOSTO DE 2003)</small>
+XII.- Establecer mecanismos de vinculación con organismos y entidades públicas y privadas para la difusión, promoción, capacitación, fomento e investigación en materia deportiva;
 
-XIV.- Todas las demás que se deriven del Sistema y Programas Nacionales del Deporte y de la operación y funcionamiento del Sistema.
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2006)</small>
+
+XIII.- Emitir recomendaciones y opiniones en materia de espectáculos deportivos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA] G.O. 28 DE ABRIL DE 2006)</small>
+
+XIV.- Realizar campañas para prevenir y combatir el uso de estimulantes, sustancias o métodos prohibidos y restringidos; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 28 DE ABRIL DE 2006)</small>
+
+XV.- Todas las demás que deriven del Sistema y Programas Nacionales del Deporte y de la operación y funcionamiento del Sistema.
 
 ###### ARTICULO 10.
 
@@ -164,47 +174,43 @@ Como instrumento del Sistema del Deporte del Distrito Federal, se crea el Regist
 
 ## TITULO TERCERO. DE LOS INTEGRANTES DEL SISTEMA DEL DEPORTE
 
+> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 12.
 
 Se consideran integrantes del Sistema del Deporte:
 
-a) (DEROGADO, G.O. 13 DE MAYO DE 1999)
+a) Deportista: Las personas que realicen actividades deportivas de orden competitivo o recreativo bajo reglamentación establecida;
 
-> <small>(REFORMADO, G.O. 13 DE MAYO DE 1999)</small>
-
-b) Deportista: Las personas que realicen actividades deportivas de orden competitivo o recreativo bajo reglamentación establecida;
-
-c) (DEROGADO, G.O. 13 DE MAYO DE 1999)
-
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2002)</small>
-
-d) Órganos Deportivos: La agrupación formada libremente por individuos, personas morales u organizaciones deportivas reconociendo como tales a:
+b) Órganos deportivos: La agrupación formada libremente por individuos, personas morales u organizaciones deportivas reconociendo como tales a:
 
 I.- Equipos y Clubes;
 
 II.- Ligas;
 
-III.- Asociaciones Deportivas;
+III.- Asociaciones deportivas;
 
 IV.- Unión Deportiva;
 
 V.- Comités Delegacionales del Deporte;
 
-VI.- (DEROGADA, G.O. 13 DE MAYO DE 1999)
+VI.- Consejo del Deporte que incluirá a los siguientes:
 
-VII.- (DEROGADA, G.O. 13 DE MAYO DE 1999)
+1) Órganos de representación ciudadana que establezca la Ley de Participación Ciudadana;
 
-VIII.- Consejo del Deporte.
+2) Entrenadores deportivos, Educadores Físicos y demás profesionales de la materia;
 
-> <small>(ADICIONADA, G.O. 26 DE DICIEMBRE DE 2002)</small>
+3) Especialistas en medicina deportiva; y
 
-IX.- Comité del Deporte Adaptado del Distrito Federal.
+4) Personas que por su naturaleza y funciones sean susceptibles de integrarse al Sistema del Deporte del Distrito Federal.
 
-> <small>(ADICIONADO, G.O. 13 DE MAYO DE 1999)</small>
+VII.- Comité del Deporte Adaptado del Distrito Federal.
+
+> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 12 Bis.
 
-Los organismos deportivos previamente incorporados al Sistema del Deporte del Distrito Federal, deberán registrar ante la autoridad deportiva del deporte del Distrito Federal, su programa anual de actividades para su inclusión y seguimiento en el Programa del Deporte del Distrito Federal.
+Los organismos deportivos previamente incorporados al Sistema del Deporte del Distrito Federal, deberán registrar ante la autoridad del deporte del Distrito Federal, su programa anual de actividades para su inclusión y seguimiento en el Programa del Deporte del Distrito Federal.
 
 ###### ARTICULO 13.
 
@@ -246,27 +252,27 @@ VI.- Elegir y, en su caso, ser electos para cargos directivos en los organismos 
 
 > <small>(REFORMADA, G.O. 14 DE AGOSTO DE 2003)</small>
 
-VII.- Recibir los premios y estímulos, en dinero o en especie, ofrecidos en las competencias o eventos deportivos de que se trate, o los que determine esta ley; y
+VII.- Recibir los premios y estímulos, en dinero o en especie, ofrecidos en las competencias o eventos deportivos de que se trate, o los que determine esta ley; y (sic)
 
-> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2006)</small>
 
-VIII.- Recibir apoyo logístico en aquellas competencias que organicen, previo informe al Instituto del Deporte del Distrito Federal y al Órgano Político-Administrativo de la Demarcación Territorial del Distrito Federal. El apoyo logístico se otorgará de acuerdo a la suficiencia presupuestal con que se cuente.
+VIII.- Recibir apoyo logístico en aquellas competencias que organicen, previo informe al Instituto del Deporte del Distrito Federal y al Órgano Político-Administrativo de la Demarcación Territorial del Distrito Federal. El apoyo logístico se otorgará de acuerdo a la suficiencia presupuestal con que se cuente;
 
-> <small>(ADICIONADA, G.O. 26 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2006)</small>
 
-IX.- Representar a su Club, Asociación, Demarcación Territorial del Distrito Federal, al Distrito Federal o al país, en competencias deportivas oficiales.
+IX.- Representar a su Club, Asociación, Demarcación Territorial del Distrito Federal, al Distrito Federal o al país, en competencias deportivas oficiales;
 
-> <small>(ADICIONADA, G.O. 26 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2006)</small>
 
-X.- Participar en la elaboración del programa del deporte, así como de programas y reglamentos deportivos a convocatoria de la autoridad rectora.
+X.- Participar en la elaboración del programa del deporte, así como de programas y reglamentos deportivos a convocatoria de la autoridad rectora;
 
-> <small>(ADICIONADA, G.O. 26 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2006)</small>
 
-XI.- Obtener de las autoridades correspondientes el registro que lo acredite como deportista.
+XI.- Obtener de las autoridades correspondientes el registro que lo acredite como deportista;
 
-> <small>(ADICIONADA, G.O. 14 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2006)</small>
 
-XII.- Proponer candidatos al Premio al Mérito Deportivo.
+XII.- Proponer candidatos al Premio al Mérito Deportivo; y
 
 > <small>(ADICIONADA, G.O. 26 DE DICIEMBRE DE 2002)</small>
 
@@ -286,7 +292,9 @@ IV.- Informar a la Institución competente sobre el uso de los apoyos materiales
 
 V.- Fomentar la participación organizada de la sociedad a través del deporte;
 
-VI.- Participar en el desarrollo de la cultura del deporte, conforme a lo dispuesto en esta Ley, y
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2006)</small>
+
+VI.- Participar en el desarrollo de la cultura del deporte, conforme a lo dispuesto en esta Ley; y
 
 VII.- Las contenidas en el texto de esta Ley y demás disposiciones aplicables.
 
@@ -316,11 +324,11 @@ La incorporación del Distrito Federal al Sistema Nacional del Deporte se realiz
 
 ### CAPITULO II. DE LA PARTICIPACION DE LOS SECTORES PUBLICO, PRIVADO Y SOCIAL
 
-> <small>(REFORMADO, G.O. 13 DE MAYO DE 1999)</small>
+> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 22.
 
-El Jefe de Gobierno del Distrito Federal promoverá la participación de los sectores social y privado, entidades de la Administración Pública Federal, así como de los organismos deportivos, con el fin de integrarlos al Sistema de Deporte mediante convenios de concertación que al efecto se celebre.
+El Jefe de Gobierno del Distrito Federal promoverá la participación de los sectores social y privado, entidades de la Administración Pública Federal, así como de los organismos deportivos, con el fin de integrarlos al Sistema del Deporte mediante convenios de concertación que se celebren para tal efecto.
 
 ###### ARTICULO 23.
 
@@ -328,7 +336,9 @@ Los convenios a que se refiere el artículo anterior deberán tener como objetiv
 
 I.- La forma en que se desarrollarán las actividades deportivas que se realicen dentro del Sistema del Deporte del Distrito Federal;
 
-II.- Los apoyos que, en su caso, les sean destinados para el desarrollo y fomento del deporte, comprendiendo las actividades científicas y técnicas que se relacionen con el mismo, y
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2006)</small>
+
+II.- Los apoyos que, en su caso, les sean destinados para el desarrollo y fomento del deporte, comprendiendo las actividades científicas y técnicas que se relacionen con el mismo; y
 
 III.- Las acciones y recursos que aporten para la promoción y fomento del deporte, así como el uso de su infraestructura.
 
@@ -364,9 +374,9 @@ VII.- Prever anualmente, dentro de su presupuesto autorizado, los recursos neces
 
 VIII.- Llevar, mantener y actualizar un censo de sus usuarios e instalaciones deportivas; y expedir periódicamente, según la disciplina y modalidad deportiva de que se trate, las guías técnicas que contengan las características de las instalaciones y las normas de seguridad;
 
-> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2006)</small>
 
-IX.- Contemplar las adecuaciones necesarias en sus instalaciones deportivas de acuerdo a la normatividad respectiva, para la práctica y desarrollo del deporte adaptado, así como el equipamiento, mediadas de seguridad e implementos que requiere la práctica de este deporte, mismos que deberán ser previstos anualmente como parte de los programas que establece la fracción VII que antecede.
+IX.- Contemplar las adecuaciones necesarias en sus instalaciones deportivas de acuerdo a la normatividad respectiva, para la práctica y desarrollo del deporte adaptado, así como el equipamiento, medidas de seguridad e implementos que requiere la práctica de este deporte, mismos que deberán ser previstos anualmente como parte de los programas que establece la fracción VII que antecede;
 
 > <small>(REFORMADA, G.O. 14 DE AGOSTO DE 2003)</small>
 
@@ -412,7 +422,9 @@ Los Comités Deportivos de los Órganos Político-Administrativos de cada una de
 
 I.- Coordinar y ejecutar los planes y programas en materia deportiva y recreativa que apruebe la Delegación;
 
-II.- Difundir, promover y fomentar el deporte entre los habitantes de la Delegación;
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2006)</small>
+
+II.- Difundir, promover y fomentar el deporte entre todos los sectores y habitantes de la Delegación;
 
 III.- Promover la creación, mantenimiento y preservación de instalaciones y espacios deportivos;
 
@@ -424,7 +436,13 @@ VI.- Promover la realización de convenios de coordinación o colaboración en m
 
 VII.- Promover la difusión del deporte, a través de diversos medios de comunicación;
 
-VIII.- Las demás que le otorgue esta Ley u otros ordenamientos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE ABRIL DE 2006)</small>
+
+VIII.- Realizar competencias periódicamente entre las cuales tengan como finalidad, difundir la importancia y trascendencia del deporte para todos los habitantes de la sociedad; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 28 DE ABRIL DE 2006)</small>
+
+IX.- Las demás que le otorgue esta Ley u otros ordenamientos.
 
 ## TITULO QUINTO. DEL PROGRAMA DEL DEPORTE DEL DISTRITO FEDERAL
 
@@ -444,7 +462,9 @@ I.- La política del deporte;
 
 II.- Los objetivos, prioridades, estrategias y metas para el desarrollo del deporte en el Distrito Federal, acordes con el Plan Nacional de Desarrollo y los Programas Sectoriales correspondientes;
 
-III.- Los proyectos y acciones específicas en virtud de los cuales se instrumentará la ejecución del Programa, y
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2006)</small>
+
+III.- Los proyectos y acciones específicas en virtud de los cuales se instrumentará la ejecución del Programa; y
 
 IV.- Las acciones que cada uno de los integrantes del Sistema deberá realizar de acuerdo a su ámbito de competencia y naturaleza.
 
@@ -486,9 +506,11 @@ VI.- Deporte asociado;
 
 VII.- Deporte Autóctono y Tradicional;
 
-VIII.- Preparación y profesionalización de entrenadores deportivos; e
+VIII.- Preparación y profesionalización de entrenadores deportivos; e (sic)
 
-IX.- Instalaciones deportivas.
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2006)</small>
+
+IX.- Instalaciones deportivas; y
 
 > <small>(ADICIONADA, G.O. 14 DE AGOSTO DE 2003)</small>
 
@@ -516,11 +538,11 @@ El Jefe de Gobierno del Distrito Federal, deberá enviar trimestralmente a la Co
 
 La autoridad competente del Gobierno del Distrito Federal, gestionará ante las autoridades fiscales federales la deducibilidad de los donativos de las personas físicas o morales de los sectores social y privado destinados en favor del fomento del deporte en el Distrito Federal.
 
-> <small>(REFORMADO, G.O. 13 DE MAYO DE 1999)</small>
+> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 30.
 
-Los deportistas, organismos deportivos y demás personas que se encuentren inscritos en el Registro del Deporte del Distrito Federal, podrán gozar de los apoyos y estímulos se otorgarán con base en los criterios que defina el Consejo del Deporte y que serán aplicados por el Gobierno del Distrito Federal, por conducto de su órgano competente y conforme a los recursos del Fondo.
+Los deportistas, organismos deportivos y demás personas que se encuentren inscritos en el Registro del Deporte del Distrito Federal, podrán gozar de los apoyos y estímulos que se otorgarán con base en los criterios que defina el Consejo del Deporte y que serán aplicados por el Gobierno del Distrito Federal, por conducto de su órgano competente y conforme a los recursos del Fondo.
 
 > <small>(REFORMADO, G.O. 13 DE MAYO DE 1999)</small>
 
@@ -576,7 +598,9 @@ V.- Suspensión hasta por cinco años en la participación de competencias y act
 
 VI.- Cancelación del registro;
 
-VII.- Anulación de reconocimientos, premios o incentivos derivados de las competencias deportivas organizadas por las autoridades deportivas del Gobierno del Distrito Federal, y
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2006)</small>
+
+VII.- Anulación de reconocimientos, premios o incentivos derivados de las competencias deportivas organizadas por las autoridades deportivas del Gobierno del Distrito Federal; y
 
 VIII.- Anulación del carácter de representante deportivo estatal, hasta por un periodo de tres años.
 
@@ -594,11 +618,11 @@ Las resoluciones que impongan sanciones, agotada la reconsideración podrán imp
 
 ## TITULO NOVENO. DE LAS INSTALACIONES DEPORTIVAS
 
-> <small>(ADICIONADO, G.O. 13 DE MAYO DE 1999)</small>
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 40.
 
-Para los efectos de esta ley se entiende por instalación deportiva, los deportivos, complejos deportivos o unidades deportivas independientemente de la denominación que adopten y en general todo inmuebles (sic) construido o adecuado para la práctica de actividades físicas e intelectuales, que realicen las personas con propósitos competitivos o de esparcimiento.
+Para los efectos de esta ley se entiende por instalación deportiva, los deportivos, complejos deportivos o unidades deportivas independientemente de la denominación que adopten y en general todo inmueble construido o adecuado para la práctica de actividades físicas e intelectuales, que realicen las personas con propósitos competitivos o de esparcimiento.
 
 > <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2002)</small>
 
@@ -636,7 +660,7 @@ Las instalaciones deportivas propiedad del Gobierno del Distrito Federal deberá
 
 El uso de las instalaciones deportivas debe ser preferentemente para eventos deportivos, cuando se utilicen para otros fines deberán respetarse los programas y calendarios deportivos previamente establecidos.
 
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 42 Ter.
 
@@ -646,7 +670,7 @@ Los responsables administrativos de las instalaciones deportivas realizadas con 
 
 ARTICULO 42 Cuater (sic).- Los responsables o administradores de toda instalación deportiva deberán tramitar su registro ante la dependencia responsable del deporte en el Distrito Federal, que verificará que sean las adecuadas para la práctica del deporte, con la calidad y seguridad que se requiere. Debiendo realizarse verificaciones anuales o con anterioridad a petición de los interesados. La dependencia responsable del deporte en el Distrito Federal podrá vetar el uso de cualquier instalación deportiva que no cumpla con los requisitos señalados.
 
-> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 43.
 
@@ -682,7 +706,7 @@ Toda persona que participe en las competencias deportivas oficiales organizadas 
 
 La autoridad deportiva del Gobierno del Distrito Federal en coordinación con los miembros del Sistema Nacional del Deporte y de la autoridad a cargo de la Salud en el Distrito Federal, se encargará de:
 
-I.- Emitir y difundir periódicamente el listado oficial y actualizado de las sustancias y métodos cuyo uso o empleo en las competencias deportivas oficiales se prohiba, por ser considerados generadores de modificación, alteración o incremento artificial o no fisiológico de la capacidad de rendimiento mental o físico del deportista;
+I.- Emitir y difundir periódicamente el listado oficial y actualizado de las sustancias y métodos cuyo uso o empleo en las competencias deportivas oficiales se prohíba, por ser considerados generadores de modificación, alteración o incremento artificial o no fisiológico de la capacidad de rendimiento mental o físico del deportista;
 
 II.- Estipular el tipo de exámenes que han de aplicarse para determinar si existió dopaje, así como su procedimiento de aplicación; y
 
@@ -750,7 +774,9 @@ I.- Desarrollar la práctica ordenada de los deportes de conjunto;
 
 II.- Fomentar la sana competencia;
 
-III.- Responder a la demanda social como un satisfactor para la práctica deportiva.
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2006)</small>
+
+III.- Responder a la demanda social como un satisfactor para la práctica deportiva; y
 
 > <small>(ADICIONADA, G.O. 14 DE AGOSTO DE 2003)</small>
 
@@ -917,3 +943,11 @@ G.O. 25 DE ENERO DE 2006.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Túrnese al Jefe de Gobierno del Distrito Federal para su promulgación y publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 28 DE ABRIL DE 2006.
+
+PRIMERO.- Túrnese al Jefe de Gobierno del Distrito Federal para su promulgación y publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese también en el Diario Oficial de la Federación.
+
+TERCERO.- Se derogan todas las disposiciones que contravengan lo dispuesto por el presente Decreto.
