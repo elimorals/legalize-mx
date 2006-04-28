@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-planeacion-para-el-estado-de-guerrero-5170"
 country: "mx"
 rank: "ley"
 publication_date: "1991-03-09"
-last_updated: "1991-03-09"
+last_updated: "2006-04-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE PLANEACION PARA EL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL DEL ESTADO: 28 DE ABRIL DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el sábado 8 de marzo de 1991.
 
@@ -79,11 +79,11 @@ A través de la planeación se fijarán objetivos, metas, estrategias, prioridad
 
 La planeación estatal del desarrollo se realizará con base en el ejercicio de las atribuciones del Ejecutivo Estatal en materia de regulación y promoción de la actividad económica, social, política y cultural de la entidad.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 4o.
 
-Es responsabilidad del Ejecutivo del Estado y de los Municipios en la esfera de sus respectivas jurisdicciones conducir la planeación del desarrollo de la entidad con la participación responsable y democrática de los grupos sociales, de conformidad con lo dispuesto en la presente Ley, así como aprobar y coordinar la ejecución del Plan Sexenal del Estado.
-
-Para el cumplimiento de esta responsabilidad, el Ejecutivo del Estado se apoyará en las dependencias y órganos auxiliares de la Administración Pública que designe para ello.
+Es responsabilidad del Ejecutivo del Estado y de los Municipios en la esfera de sus respectivas jurisdicciones conducir la planeación del desarrollo de la entidad con la participación responsable y democrática de los grupos sociales, de conformidad con lo dispuesto en la presente Ley.
 
 ###### ARTICULO 5o.
 
@@ -91,13 +91,17 @@ Las Dependencias y Entidades de la Administración Pública Estatal, deberán pl
 
 A este efecto los titulares de las dependencias proveerán lo conducente en el ejercicio de las atribuciones que como coordinadores de sector les confiere la Ley.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO TERCERO TRANSITORIO DEL DECRETO NUMERO 623.</small>
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 6o.
 
-El Gobernador del Estado remitirá el Plan Estatal de Desarrollo al Congreso del Estado para su examen y opinión, en un plazo que no exceda de 6 meses a partir del inicio de su gestión.
+Sin menoscabo de sus atribuciones en materia de planeación, el Gobernador del Estado remitirá el Plan Estatal de Desarrollo al Congreso del Estado para su examen y aprobación, en un plazo que no exceda de cuatro meses a partir del inicio de su gestión.
 
-El Gobernador del Estado tomando en cuenta las opiniones del Congreso del Estado dará vigencia al Plan Estatal de Desarrollo, para proceder a su ejecución.
+El Congreso del Estado, en un plazo que no exceda de treinta días a partir de su recepción, aprobará y remitirá el Plan Estatal de Desarrollo al Ejecutivo Estatal, a fin de que se le otorgue vigencia, ordene su publicación y proceda a su ejecución.
 
-El Poder Legislativo formulará las observaciones que estime pertinentes durante la ejecución, revisión y adecuaciones del propio Plan.
+El Poder Legislativo, independientemente de sus facultades para revisar el Plan Estatal de Desarrollo con la periodicidad que establece el presente ordenamiento, formulará las observaciones y adecuaciones que estime pertinentes durante la ejecución del propio Plan.
 
 ###### ARTICULO 7o.
 
@@ -141,15 +145,19 @@ V. Los Comités de Planeación para el Desarrollo Municipal, y
 
 VI. Las Dependencias y Entidades de las Administraciones Públicas Estatal y Municipal.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 14.
 
-El Sistema Estatal de Planeación está constituído por las autoridades y órganos responsables señalados en el Artículo 13, las Dependencias y Entidades de la Administración Pública Federal que tienen representación en el Estado, los Sectores Social y Privado y la Sociedad Civil. Los integrantes del sistema participan en el proceso de planeación mediante las siguientes vertientes:
+El Sistema Estatal de Planeación está constituido por las autoridades y órganos responsables señalados en el Artículo 13, las Dependencias y Entidades de la Administración Pública Federal que tienen representación en el Estado, los Sectores Social y Privado y la Sociedad Civil, así como las normas, instrumentos y procedimientos técnicos que se emitan para la ejecución de la planeación.
 
-I. Obligatoria. Para las Dependencias y Entidades de la Administración Pública Estatal;
+Los integrantes del sistema participan en el proceso de planeación mediante las siguientes vertientes:
+
+I.- Obligatoria. Para las Dependencias y Entidades de la administración Pública Estatal;
 
 II. Coordinación. Para las Dependencias y Entidades de las Administraciones Públicas Federales y Municipales, y
 
-III. Concertación e Inducción. Para los Sectores Social y Privado, y para la Sociedad Civil en general.
+III. Concertación e Inducción. Para los Sectores Social y Privado, y para la sociedad civil en general.
 
 ###### ARTICULO 15.
 
@@ -247,9 +255,11 @@ IV. Considerar el ámbito territorial de las acciones previstas en su programa, 
 
 V. Verificar periódicamente la relación que guarden sus actividades, así como los resultados de su ejecución, con los objetivos y prioridades del programa institucional.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 26.
 
-A la Secretaría de Planeación, Presupuesto y Desarrollo Urbano le corresponde:
+A la Secretaría de Desarrollo Social le corresponde:
 
 I. Integrar en congruencia con el Plan Nacional de Desarrollo, el Plan Estatal de Desarrollo así como el programa operativo anual para la ejecución del mismo, tomando en cuenta los planes municipales de desarrollo y las propuestas de las Dependencias y Entidades de la Administración Pública Federal, Estatal y Municipal, así como las de los grupos sociales organizados y de los particulares, a través de los foros de consulta popular o por medio del Comité de Planeación para el Desarrollo del Estado de Guerrero;
 
@@ -303,7 +313,9 @@ I. Por un Presidente, que será el Gobernador del Estado;
 
 II. Por un Coordinador, quien será designado por el Gobernador del Estado;
 
-III. Por un Secretario Técnico, quien será el Delegado Regional de la Secretaría de Programación y Presupuesto;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+III.- Por un Secretario Técnico, quien será el Delegado Estatal de la Secretaría de Desarrollo Social del gobierno federal;
 
 IV. Por los titulares de las dependencias del Ejecutivo Estatal que señale el Gobernador del Estado;
 
@@ -331,7 +343,9 @@ II. Fomentar la coordinación entre los gobiernos federal, estatal y municipal, 
 
 III. Coordinar el control y evaluación del Plan Estatal de Desarrollo para adecuarlo al cumplimiento de sus objetivos y metas, así como a las previsiones de los planes que formule el sector público federal e incidan en el nivel estatal;
 
-IV. Promover la coordinación con los comités de otras entidades federativas para coadyuvar en la definición, instrumentación y evaluación de planes para el desarrollo de regiones interestatales, solicitando a través de la Secretaría de Programación y Presupuesto, la intervención de la Federación para tales efectos.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+lV.- Promover la coordinación con los comités de otras entidades federativas para coadyuvar en la definición, instrumentación y evaluación de planes para el desarrollo de regiones interestatales, solicitando a través de la Secretaría de Desarrollo Social del gobierno federal, la intervención de la Federación para tales efectos.
 
 ###### ARTICULO 35.
 
@@ -341,7 +355,9 @@ I. Formular y proponer a los Ejecutivos Federal y Estatal programas de inversió
 
 II. Sugerir a los Ejecutivos Federal y Estatal, programas y acciones a concertar en el marco del Convenio Unico de Coordinación, con el propósito de coadyuvar a alcanzar los objetivos del desarrollo del Estado;
 
-III. Sugerir a los Ayuntamientos y al Gobierno Estatal a través de la Delegación Regional de la Secretaría de Programación y Presupuesto la concertación de convenios de coordinación entre el Estado y los Municipios;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+III.- Sugerir a los Ayuntamientos y al Gobierno Estatal a través de la Delegación Estatal de la Secretaría de Desarrollo Social del gobierno federal la concertación de convenios de coordinación entre el Estado y los Municipios;
 
 IV. Promover la celebración de acuerdos de cooperación entre el sector público y los sectores social y privado que actúen a nivel estatal, tendientes a orientar sus esfuerzos al logro de los objetivos del desarrollo de la entidad;
 
@@ -349,13 +365,19 @@ V. Fungir como órgano de consulta tanto del Gobierno Estatal como de los Gobier
 
 VI. Auxiliar al Ejecutivo Estatal en las acciones que éste realice, tendientes a la descentralización y desconcentración de la función pública, así como en aquellas que amplíen la participación de los Municipios en la programación, evaluación y ejecución directa de programas y obras;
 
-VII. Evaluar el desarrollo de los programas y acciones concertados en el marco del Convenio Unico de Coordinación, entre la Federación y el Estado e informar periódicamente de los resultados al Ejecutivo Estatal, y por conducto de la Secretaría de Programación y Presupuesto, al Ejecutivo Federal;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+VII.- Evaluar el desarrollo de los programas y acciones concertados en el marco del Convenio Único de Coordinación, entre la Federación y el Estado e informar periódicamente de los resultados al Ejecutivo Estatal, y por conducto de la Secretaría de Desarrollo Social del gobierno federal, al Ejecutivo Federal;
 
 VIII. Evaluar el desarrollo de los programas y acciones convenidos con los Ayuntamientos en los convenios de coordinación del Estado y los Municipios;
 
-IX. Evaluar el desarrollo de los programas y acciones concertados entre la Federación y el Estado a través del Convenio Unico de Desarrollo y el Programa Nacional de Solidaridad, informando de los resultados a los Ejecutivos Federal y Estatal por conducto de la Delegación Regional de la Secretaría de Programación y Presupuesto, y
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-X. El Comité coordinará sus actividades con las de la Secretaría de Programación y Presupuesto del Gobierno Federal, a fin de que sus acciones coincidan con las políticas generales de desarrollo nacional, regional y sectorial.
+IX.- Evaluar el desarrollo de los programas y acciones concertados entre la Federación y el Estado, informando de los resultados a los Ejecutivos Federal y Estatal por conducto de la Secretaría de Desarrollo Social del gobierno federal, y
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+X.- El Comité coordinará sus actividades con las de la Secretaría de Desarrollo Social del Gobierno Federal, a fin de que sus acciones coincidan con las políticas generales de desarrollo nacional, regional y sectorial.
 
 ### CAPITULO VII. DE LA CONCERTACION E INDUCCION
 
@@ -385,37 +407,39 @@ Las políticas que normen el ejercicio de las atribuciones que las leyes confier
 
 Las políticas que normen el ejercicio de las atribuciones que las Leyes confieren a los Ayuntamientos para fomentar, promover, regular, restringir, orientar y en general; inducir acciones de los particulares en materia económica y social, se ajustarán a los objetivos y prioridades de los planes municipales y de los programas que de ellos deriven.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO TERCERO TRANSITORIO DEL DECRETO NUMERO 623.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2006)</small>
+
+###### ARTICULO 41
+
+BIS.- El Plan Estatal de Desarrollo será el documento rector que contendrá las directrices generales del desarrollo social, desarrollo económico y del ordenamiento territorial de la entidad, con proyecciones y previsiones para un plazo de 20 años. Su vigencia no excederá del período constitucional que le corresponda al Jefe del Ejecutivo Estatal que lo emita, y su revisión, y en su caso, modificación o actualización, deberá realizarse por lo menos cada tres años.
+
+En la formulación del Plan Estatal de Desarrollo, deberán evaluarse y considerarse las proyecciones y previsiones de largo plazo del Plan Estatal anterior, así como el impacto de la ejecución de acciones y el logro de objetivos y metas de la planeación del desarrollo de la demarcación territorial, para que, en su caso, se motiven debidamente las modificaciones que se tuvieran que realizar.
+
+El Congreso del Estado, conforme al procedimiento establecido en la Ley Orgánica del Poder Legislativo, aprobará por el voto de las dos terceras partes de sus miembros presentes en sesión, el Plan Estatal de Desarrollo propuesto por el Ejecutivo del Estado.
+
 ### CAPITULO VIII. DEL PLAN Y LOS PROGRAMAS
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 42.
 
-Dentro de los Programas Estatales de mediano plazo se establecerán por lo menos los de:
+Los Programas de mediano plazo derivados del Plan Estatal de Desarrollo serán sectoriales, institucionales, regionales y especiales.
 
-A) Desarrollo rural integral.
-
-B) Desarrollo urbano, vivienda y ecología.
-
-C) Comunicaciones y transportes.
-
-D) Comercio y abasto.
-
-E) Educación.
-
-F) Cultura y deporte.
-
-G) Justicia y seguridad pública.
-
-H) Fomento al desarrollo industrial.
-
-I) Salud y asistencia social.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 43.
 
-Para las actividades estatales de planeación se prevé un proceso que lo constituyen cinco etapas fundamentales: formulación, instrumentación, ejecución, control y evaluación.
+Para las actividades estatales de planeación se prevé un proceso que lo constituyan cinco etapas fundamentales: formulación y aprobación, instrumentación, ejecución, control y evaluación.
 
-I. De formulación, se refiere a la elaboración del Plan Estatal y los programas de mediano y largo plazo;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-II. De instrumentación, en la que se procederá a la elaboración de los programas operativos de corto plazo expresados en términos de metas específicas o cuantificables; así como de los requerimientos físicos, materiales, técnicos, humanos y recursos de toda índole para el cumplimiento de las mismas;
+I.- De formulación y aprobación se refiere a la elaboración por parte del Ejecutivo Estatal y a la aprobación por parte del Congreso del Estado, del Plan Estatal y los programas de mediano y largo plazo;
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+II.- De instrumentación, en la que se procederá a la elaboración de los programas operativos anuales de corto plazo expresados en términos de metas específicas o cuantificables; así como de los requerimientos físicos, materiales, técnicos, humanos y recursos de toda índole para el cumplimiento de las mismas;
 
 III. De ejecución, es la puesta en marcha del Plan estatal y los programas emanados del mismo, de acuerdo con la asignación de recursos y responsabilidades a las dependencias y entidades ejecutoras;
 
@@ -423,43 +447,103 @@ IV. De control, es la captación permanente de información sobre la ejecución 
 
 V. En la evaluación, se efectuará la revisión periódica de resultados para obtener conclusiones cuantitativas y cualitativas sobre el cumplimiento de los objetivos del plan y de los programas; a partir de los resultados obtenidos se incorporarán los cambios y reorientaciones que resulten convenientes para mantener flexibles y vigentes el plan y los programas.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 44.
 
-El Plan Estatal de Desarrollo deberá elaborarse, aprobarse y publicarse dentro del plazo que marquen los instrumentos reglamentarios de esta Ley y su vigencia no excederá del período constitucional que le corresponda, aunque podrá contener consideraciones y proyecciones a más largo plazo.
+Los Planes de Desarrollo Municipales contendrán las directrices generales del desarrollo social, económico y de ordenamiento territorial en el ámbito de la jurisdicción que les corresponda con proyecciones y previsiones para un plazo de veinte años. Así mismo, deberán elaborarse, aprobarse y enviarse al Ejecutivo Estatal para su integración al Plan Estatal, dentro del plazo señalado en los instrumentos reglamentarios de esta Ley y su vigencia no excederá del período constitucional que le corresponda.
 
-Los Planes de Desarrollo Municipales deberán elaborarse, aprobarse y enviarse al Ejecutivo Estatal para su integración al Plan Estatal, dentro del plazo señalado en las disposiciones reglamentarias y su vigencia no excederá del período constitucional que les corresponda.
+La categoría de Plan queda reservada tanto para el Plan Estatal como para cada uno de los planes municipales.
 
-La categoría de Plan queda reservada tanto para el Plan Estatal como para cada uno de los planes municipales; aquel será el documento principal orientador del Sistema Estatal de Planeación Democrática.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 45.
 
-En el Plan Estatal de Desarrollo, se precisará el diagnóstico socio-económico, así como los objetivos generales, estrategias y prioridades del desarrollo integral del Estado; determinando los instrumentos y los responsables de su ejecución y se establecerán los lineamientos de política económica y social de carácter global, sectorial y municipal; sus previsiones se referirán al conjunto de la actividad económica y social y regirán el contenido de los programas que se generen.
+En el Plan Estatal de Desarrollo contendrá como mínimo, la siguiente información:
+
+I.- Los antecedentes; el diagnóstico económico, social y territorial del desarrollo; la proyección de tendencias y los escenarios previsibles; el contexto regional y nacional del desarrollo, así como los lineamientos del Plan Nacional de Desarrollo y de los programas de carácter nacional que incidan en la entidad;
+
+II.- La imagen objetivo que consistirá en lo que el Plan Estatal de Desarrollo pretende lograr en su ámbito espacial y temporal de validez;
+
+III.- La estrategia del desarrollo económico, social y de ordenamiento territorial;
+
+IV.- La definición de objetivos y prioridades del desarrollo de mediano y largo plazo;
+
+V. - Las metas generales que permitan la evaluación sobre el grado de avance en la ejecución del Plan Estatal de Desarrollo; y
+
+VI. - Las bases de coordinación del Gobierno del Estado con la Federación, Entidades y Municipios.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 46.
 
-Los Planes Municipales de Desarrollo precisarán el diagnóstico socio-económico, los objetivos generales, estrategias y prioridades del desarrollo integral del Municipio, contendrán previsiones sobre recursos que serán asignados a tales fines; determinarán los instrumentos y los responsables de ejecución, establecerán los lineamientos de política económica y social de carácter global, sectorial y de servicios municipales. Sus previsiones se referirán al conjunto de la actividad económica y social y regirán el contenido de los programas operativos anuales, siempre en concordancia con el Plan Estatal y con el Plan Nacional de Desarrollo.
+Los Planes Municipales de Desarrollo contendrán, como mínimo, la siguiente información:
+
+I.- Los antecedentes; el diagnóstico económico, social y territorial del desarrollo de sus respectivas jurisdicciones; la proyección de tendencias y los escenarios previsibles; así como el contexto regional y nacional del desarrollo;
+
+II.- Los lineamientos contenidos en el Plan Estatal de Desarrollo y los Programas que deben ser observados por el municipio correspondiente;
+
+III.- La imagen objetivo que consistirá en lo que el propio Plan Municipal pretende lograr en su ámbito espacial y temporal de validez;
+
+IV.- La estrategia del órgano político administrativo con base en la orientación establecida en los componentes rectores contenidos en el Plan Estatal de Desarrollo;
+
+V.- La definición de objetivos y prioridades del desarrollo de mediano y largo plazo;
+
+VI.- Las metas generales que permitan la evaluación sobre el grado de avance en la ejecución del Plan Municipal de Desarrollo;
+
+VII.- La definición de los programas parciales que deban realizarse en sus respectivas jurisdicciones; y
+
+VIII.- La previsión de programas especiales para la coordinación con otros órganos político administrativos y las responsabilidades para su instrumentación.
 
 Los Comisarios Municipales y los Presidentes de los Comisariados Ejidales y de Bienes Comunales, cuando no se observe lo prevenido en el Artículo 102 de la Constitución Política del Estado, podrán acudir al Tribunal de lo Contencioso Administrativo en los términos de la propia Ley; para que imponga las sanciones que contempla la Ley de Justicia Administrativa y la Ley de Responsabilidades de los Servidores Públicos.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 47.
 
-Los programas sectoriales se sujetarán a las previsiones contenidas en el Plan y tomarán en cuenta las incluídas en los Planes Municipales. Especificarán los objetivos, prioridades y políticas que regirán el desempeño de las actividades del sector administrativo de que se trate. Asimismo, contendrán estimaciones de recursos y de terminaciones de metas propuestas y señalarán responsables de su ejecución.
+Los programas sectoriales se sujetarán a las previsiones contenidas en el Plan y tomarán en cuenta las incluidas en los Planes Municipales. Especificarán los objetivos, prioridades y políticas que regirán el desempeño de las actividades del sector administrativo de que se trate. Asimismo, contendrán estimaciones de recursos y determinaciones de metas propuestas y señalarán responsables de su ejecución. Su vigencia será de seis años y su revisión, y en su caso, modificación o actualización deberá realizarse por lo menos cada tres años.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 48.
 
-Los programas institucionales que deban elaborar las entidades paraestatales y paramunicipales, se sujetarán a las previsiones contenidas en el Plan Estatal, en los planes municipales y en el programa sectorial correspondientes. Las entidades al elaborar sus programas institucionales, se sujetarán en lo conducente, a la Ley que regule su organización y funcionamiento.
+Los programas institucionales que deban elaborar las entidades paraestatales y paramunicipales, se sujetarán a las previsiones contenidas en el Plan Estatal, en los planes municipales y en el programa sectorial correspondientes. Las entidades al elaborar sus programas institucionales, se sujetarán en lo conducente, a la Ley que regule su organización y funcionamiento. Su vigencia será de seis años y su revisión, y en su caso, modificación o actualización será trienal.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 49.
 
-Los programas regionales se referirán a las zonas que se consideren prioritarias o estratégicas, tanto en lo que atañe al Municipio como al Estado, en función de los objetivos generales fijados en el Plan Estatal o Municipal.
+Los programas regionales se referirán a las zonas que se consideren prioritarias o estratégicas, tanto en lo que atañe al Municipio como al Estado, en función de los objetivos generales fijados en el Plan Estatal o Municipal. Los programas regionales serán formulados al interior del Comité de Planeación, con la participación de las entidades, dependencias y, en su caso, los municipios que se encuentren involucrados. Su vigencia y evaluación serán determinadas por los propios programas.
 
 ###### ARTICULO 50.
 
 Los planes municipales se referirán exclusivamente al ámbito territorial y competencia del Municipio de que se trate y se sujetarán a las previsiones contenidas en el Plan Sexenal. Los programas de un Municipio en cuyas acciones participen tanto la Administración Pública Estatal como la Municipal serán elaborados en conjunto y coordinadamente por las dependencias y organismos auxiliares involucrados, procurando la concurrencia de las dependencias federales que operen en la jurisdicción.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 51.
 
-Los programas especiales se referirán a las prioridades del desarrollo integral del Estado, fijados en el Plan Estatal o a las actividades relacionadas con dos o más dependencias coordinadoras de sector.
+Los programas especiales se referirán a las prioridades del desarrollo integral del Estado, fijados en el Plan Estatal o a las actividades relacionadas con dos o más dependencias coordinadoras de sector. Los programas especiales serán formulados por el Comité de Planeación, quien establecerá la dependencia que coordinará su ejecución. Su vigencia y evaluación serán determinadas por los propios programas.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2006)</small>
+
+###### ARTICULO 51
+
+Bis.- En todo caso, los programas sectoriales, institucionales, regionales y especiales contendrán, como mínimo:
+
+I.- El diagnóstico;
+
+II. Las metas y objetivos específicos en función de las prioridades establecidas en el Plan Estatal de Desarrollo;
+
+III. Los subprogramas, líneas programáticas y acciones, que especifiquen la forma en que contribuirán a la conducción del desarrollo de la entidad;
+
+IV. La relación con otros instrumentos de planeación;
+
+V.- Las responsabilidades que registrarán el desempeño en su ejecución;
+
+VI. Las acciones de coordinación, en su caso, con dependencias federales y otras entidades o municipios; y
+
+VII. Los mecanismos específicos para la evaluación, actualización y, en su caso, corrección del programa.
 
 ###### ARTICULO 52.
 
@@ -469,35 +553,51 @@ Las dependencias y entidades encargadas de la ejecución del Plan Estatal y de l
 
 Los planes y programas a que se refiere la presente Ley, especificarán las acciones que serán objeto de coordinación entre los gobiernos de los Municipios del Estado, de la Federación, así como de inducción o concertación con los grupos sociales y privados interesados.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 54.
 
-El Plan Estatal y los programas regionales y especiales, deberán ser sometidos por la Secretaría de Planeación, Presupuesto y Desarrollo Urbano en el seno del Comité de Planeación para el Desarrollo del Estado de Guerrero, a la consideración y aprobación del Gobierno Constitucional del Estado.
+Los programas regionales y especiales, deberán ser sometidos por la Secretaría de Desarrollo Social en el seno del Comité de Planeación para el Desarrollo del Estado de Guerrero, a la consideración y aprobación del Gobernador del Estado.
 
-Los programas institucionales aprobados por el órgano de gobierno y administración de la entidad paraestatal respectiva, serán presentados a la Secretaría de Planeación, Presupuesto y Desarrollo Urbano, a través de la dependencia coordinadora del sector, o del Ayuntamiento en su caso.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
-Si la entidad paraestatal no estuviera agrupada en un sector específico, su presentación será directamente a la Secretaría de Planeación, Presupuesto y Desarrollo Urbano.
+Los programas institucionales aprobados por el órgano de gobierno y administración de la entidad paraestatal respectiva, serán presentados a la Secretaría de Desarrollo Social, a través de la dependencia coordinadora del sector, o del Ayuntamiento en su caso.
 
-Los programas sectoriales deberán ser sometidos a la consideración y aprobación del Gobernador del Estado, en el seno del Comité de Planeación para el Desarrollo del Estado de Guerrero, por la Secretaría de Planeación, Presupuesto y Desarrollo Urbano, quien lo recibirá de las dependencias coordinadoras del sector.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+
+Si la entidad paraestatal no estuviera agrupada en un sector específico, su presentación será directamente a la Secretaría de Desarrollo Social.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+
+Los programas sectoriales deberán ser sometidos a la consideración y aprobación del Gobernador del Estado, en el seno del Comité de Planeación para el Desarrollo del Estado de Guerrero, por la Secretaría de Desarrollo Social, quien lo recibirá de las dependencias coordinadoras del sector.
 
 Los programas municipales, serán responsabilidad de los Ayuntamientos; su elaboración se sujetará a los lineamientos del Plan Estatal.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 55.
 
-El Plan Estatal de Desarrollo y todos los programas que de él se deriven, una vez aprobados por el Gobernador del Estado, se publicarán en el Periódico Oficial del Estado.
+El Plan Estatal de Desarrollo y todos los programas que de él se deriven, una vez aprobados, se publicarán en el Periódico Oficial del Gobierno del Estado.
 
 ###### ARTICULO 56.
 
 Los planes municipales y los programas que de ellos se desprendan serán publicados en la Gaceta Municipal respectiva.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 57.
 
-Los planes y programas serán revisados con la periodicidad que determinen las disposiciones reglamentarias. Los resultados que se obtengan del control y evaluación de los mismos, y las adecuaciones que impongan como necesarias tanto al Plan Estatal como a los programas que de él se deriven, se publicarán anualmente en el Periódico Oficial del Estado previa su aprobación por parte del titular del Ejecutivo.
+El Plan Estatal de Desarrollo y los Programas de mediano plazo, señalados en el artículo 42 del presente ordenamiento, serán revisados con la periodicidad que determinen las disposiciones reglamentarias. Los resultados que se obtengan del control y evaluación de los mismos, y las adecuaciones que impongan como necesarias tanto el Plan Estatal como a los programas de mediano plazo que de él se deriven, se publicarán anualmente en el Periódico Oficial del Gobierno del Estado previa su autorización por parte del titular del Ejecutivo.
+
+Para el efecto de la revisión a la que alude el párrafo anterior, se estará al mismo procedimiento que para la aprobación del Plan Estatal de Desarrollo se señala en la Ley Orgánica del Poder Legislativo.
 
 Los resultados de las revisiones, y en su caso las adecuaciones consecuentes a los planes municipales y a los programas que de ellos se deriven, se publicarán en los Municipios, en la Gaceta Municipal respectiva.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 58.
 
-Una vez aprobados por el Ejecutivo, el Plan Estatal y los programas que de él se deriven, su cumplimiento será obligatorio para las Dependencias de la Administración Pública, en el ámbito de sus respectivas competencias.
+Una vez aprobados, el Plan Estatal y los programas que de él se deriven, su cumplimiento será obligatorio para las Dependencias de la Administración Pública, en el ámbito de sus respectivas competencias.
 
 Conforme a las disposiciones legales que resulten aplicables, la obligatoriedad del Plan y los Programas será extensiva a las entidades paraestatales. Para estos efectos, los titulares de las dependencias, en el ejercicio de las atribuciones de coordinadores de sector que les confiere la Ley, proveerán lo conducente ante los órganos de gobierno y administración de las propias entidades.
 
@@ -531,7 +631,9 @@ V. La asesoría técnica para la formulación, instrumentación y evaluación de
 
 VI. La ejecución de las acciones que deban realizarse en cada Municipio y que competen a ambos niveles de gobierno, considerando la participación que corresponda a los diferentes sectores de la sociedad.
 
-Para este efecto, la Secretaría de Planeación, Presupuesto y Desarrollo Urbano, propondrá en el seno del Comité de Planeación para el Desarrollo del Estado, los procedimientos conforme a los cuales se convendrá la ejecución de estas acciones, tomando en consideración los criterios que señalen las dependencias coordinadoras de sector conforme a sus atribuciones.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+
+Para este efecto, la Secretaría de Desarrollo Social, propondrá en el seno del Comité de Planeación para el Desarrollo del Estado, los procedimientos conforme a los cuales se convendrá la ejecución de estas acciones, tomando en consideración los criterios que señalen las dependencias coordinadoras de sector conforme a sus atribuciones.
 
 ###### ARTICULO 63.
 
@@ -600,3 +702,19 @@ Rúbrica.
 El Secretario General de Gobierno.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE ABRIL DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo para los efectos constitucionales procedentes.
+
+###### ARTÍCULO TERCERO.
+
+La reforma realizada al artículo 6° y el artículo 41-Bis de la Ley de Planeación para el Estado de Guerrero, entrarán en vigor a partir de la fecha en que entre en vigor el Decreto número 619 por el que se reforman y adicionan diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Guerrero.
