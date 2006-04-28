@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-administracion-publica-municipal-del-7428"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-01-28"
-last_updated: "2005-07-22"
+last_updated: "2006-04-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 28 de enero de 1991.
 
@@ -1423,6 +1423,10 @@ A través de sistemas de información y orientación idóneos, los Ayuntamientos
 
 Con la normatividad que acuerde el Ayuntamiento, se podrán modificar los reglamentos municipales cumpliendo con las disposiciones contenidas en la presente Ley y con los procedimientos que se establezcan en los mismos.
 
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2006)</small>
+
+Corresponderá al Ayuntamiento regular lo referente a la administración, organización, planeación y operación del servicio público de tránsito en congruencia con las disposiciones legales y administrativas aplicables.
+
 ###### ARTICULO 165.
 
 Los Ayuntamientos tendrán la facultad de expedir circulares y disposiciones administrativas de observancia general en su circunscripción territorial, cuya aplicación redunde en beneficio de la comunidad y de la administración municipal.
@@ -1550,3 +1554,7 @@ P.O. 22 DE JULIO DE 2005.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se deroga el Decreto número 49 emitido por la LXIX Legislatura al Congreso del Estado y publicado en el Periódico Oficial de fecha 11 de mayo de 2001.
+
+P.O. 28 DE ABRIL DE 2006.
+
+Artículo Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
