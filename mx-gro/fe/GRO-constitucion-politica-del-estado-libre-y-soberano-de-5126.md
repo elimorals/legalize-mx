@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "2005-11-25"
+last_updated: "2006-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 2006.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -933,15 +933,19 @@ XVI.- Dictar las Leyes necesarias en el ramo de educación pública que no sean 
 
 XVII.- Excitar a los Poderes de la Unión a que protejan al Estado en los casos a que hace referencia el artículo 122 de la Constitución General de la República.
 
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2006)</small>
 
-XVIII.- Examinar, discutir y aprobar, a más tardar en el mes de diciembre de cada año, el Presupuesto de Egresos del Estado y expedir su Ley relativa. El Congreso no podrá dejar de señalar la retribución que corresponda a un empleo que esté establecido por la Ley. En caso de que por cualquier circunstancia se omita fijar dicha remuneración, se tendrá por señalada la que hubiese sido fijada en el presupuesto del año anterior o al de la Ley que estableció el empleo.
+XVIII.- Examinar, discutir y aprobar, en su caso, el Presupuesto Anual de Egresos del Estado y expedir el Decreto correspondiente. El Congreso no podrá dejar de señalar la retribución que corresponda a un empleo que esté establecido por la Ley. En caso de que por cualquier circunstancia se omita fijar dicha remuneración, se tendrá por señalada la que hubiese sido fijada en el presupuesto del año anterior o al de la Ley que estableció el empleo.
+
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2002)</small>
 
 En el caso de que el Presupuesto de Egresos propuesto por el Ejecutivo no fuese aprobado, a más tardar el día 31 de diciembre de cada año, seguirá vigente el aprobado el año inmediato anterior.
 
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-XIX.- Revisar los ingresos y egresos públicos estatales del cuatrimestre correspondiente, otorgando constancia definitiva de aprobación, en su caso, o exigiendo las responsabilidades a que haya lugar.
+XIX.- Revisar los Informes Financieros cuatrimestrales así como las Cuentas Públicas estatal y municipales del ejercicio fiscal correspondiente, con el objeto de conocer los resultados de la gestión financiera, comprobar si se han ajustado a los criterios señalados por las leyes de la materia y el Presupuesto de Egresos y, si se cumplieron los objetivos y metas contenidos en los programas.
+
+Si del examen que se realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas, o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley.
 
 XX.- Convocar a elecciones extraordinarias para Diputados cuando no se hubieren realizado en el período respectivo o hubiesen sido declaradas nulas las efectuadas, y proveer lo conducente.
 
@@ -1001,9 +1005,9 @@ XXXII.- Ejercer ante la Suprema Corte de Justicia de la Nación, la representaci
 
 XXXIII.- Autorizar al Ejecutivo para negociar empréstitos sobre el crédito del Estado, aprobarlos y decretar la manera de pagar la deuda.
 
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-XXXIV.- Nombrar y remover al Oficial Mayor del Congreso del Estado y al Titular del Organo de Fiscalización Superior en los términos que marque la Ley.
+XXXIV.- Nombrar y remover al Oficial Mayor del Congreso y al Titular de la Auditoría General del Estado en los términos que marque la Ley.
 
 XXXV.- Cambiar la residencia de los Poderes del Estado.
 
@@ -1032,6 +1036,10 @@ XLIII.- Establecer en favor de los Municipios las contribuciones, rendimientos d
 XLIV.- Autorizar en su caso, lo previsto en el artículo 28 párrafo sexto de la Constitución Federal de la República.
 
 XLV.- Expedir la Ley de Planeación del Estado.
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+XLV-Bis.- Aprobar, con el voto de las dos terceras partes de los miembros presentes de la Legislatura, el Plan Estatal de Desarrollo del Estado de Guerrero, en un término que no exceda de treinta días contados a partir de la recepción del mismo.
 
 > <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 1989)</small>
 
@@ -1323,7 +1331,15 @@ V.- Proveer por todos los medios de que disponga la tranquilidad, seguridad y sa
 
 VI.- Vetar por una sola vez en el término improrrogable de diez días hábiles, a partir del día en que los reciba, las Leyes y Decretos aprobados por el Congreso del Estado.
 
-VII.- Presentar al Congreso a más tardar el día quince de diciembre de cada año para su discusión y aprobación en su caso, los proyectos de Ley de Ingresos y del Presupuesto de egresos para el ejercicio fiscal siguiente.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+VII.- Presentar al Congreso a más tardar el día quince de octubre de cada año para su análisis, emisión del dictamen, discusión y aprobación, en su caso, las Iniciativas de Ley de Ingresos y del Presupuesto de Egresos para el ejercicio fiscal siguiente.
+
+En el año de cambio de ejercicio constitucional, la Legislatura saliente recepcionará las Iniciativas referidas en el párrafo anterior y las dejará bajo resguardo de la Comisión Instaladora, para que sean entregadas a la Mesa Directiva del primer mes del primer periodo ordinario de sesiones del primer año de ejercicio constitucional de la Legislatura entrante, para su trámite correspondiente.
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+VII.-Bis.- Poner a consideración del Congreso del Estado, para su aprobación, el Plan Estatal de Desarrollo, en un término que no exceda de cuatro meses contados a partir del inicio de su gestión.
 
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 1992)</small>
 
@@ -1409,7 +1425,7 @@ XXXVII.- Celebrar convenios con la Federación y los Ayuntamientos para la reali
 
 > <small>(ADICIONADA, P.O. 11 DE MARZO DE 2005)</small>
 
-XXXVIII.- Establecer políticas públicas en materia de derechos humanos, promoviendo la cultura de su respeto y la del cumplimiento de las recomendaciones que emitan los Organismos Públicos de Protección de los Derechos Humanos, de lo cual informará al Congreso del Estado;
+XXXVIII.- Establecer políticas públicas en materia de derechos humanos, promoviendo la cultura de su respeto y la del cumplimiento de las recomendaciones que emitan los Organismos Públicos de Protección de los Derechos Humanos, de lo cual informará al Congreso del Estado.
 
 XXXIX.- Las demás que se deriven de las Constituciones Federal y Local, así como de las Leyes que de ellas emanen.
 
@@ -1875,15 +1891,11 @@ Los recursos que integran la hacienda municipal serán ejercidos en forma direct
 
 Todos los miembros del Ayuntamiento y el Tesorero Municipal serán responsables solidariamente de los actos y hechos ilícitos que se cometan con la Administración de los fondos municipales estando obligados a su vigilancia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 102.
 
-Los Ayuntamientos aprobarán los presupuestos de egresos que regirán en el ejercicio fiscal inmediato siguiente con base en sus ingresos disponibles, y sus cuentas serán glosadas preventivamente por el Síndico y Regidor comisionado para el efecto y por el Tesorero Municipal. Las cuentas públicas se presentarán en forma cuatrimestral y en los plazos que determine la Ley de Fiscalización Superior, ante la Auditoría General del Estado, el que comprobará la exactitud de la aplicación de los fondos o, en su caso, determinará las responsabilidades a que haya lugar.
-
-> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 1988)</small>
-
-Los Consejos Consultivos de Comisarios Municipales, así como los Consejos Consultivos de Presidentes o Comisariados Ejidales y de Bienes Comunales, deberán rendir opinión, previamente a su aprobación, de los presupuestos de egresos para cada ejercicio fiscal y los programas trianuales que conforme a las Leyes expidan los Ayuntamientos.
+Los Ayuntamientos aprobarán los Presupuestos de Egresos que regirán en el Ejercicio Fiscal inmediato siguiente con base en sus ingresos disponibles, y sus cuentas serán glosadas preventivamente por el Síndico y Regidor comisionado para el efecto y por el Tesorero Municipal. Los Informes Financieros cuatrimestrales así como la Cuenta Anual de la Hacienda Pública Municipal se remitirán al Congreso del Estado en la forma y en los plazos que determine la Ley de Fiscalización Superior, con el objeto de comprobar la exactitud de la aplicación de los fondos o, en su caso, determinar las responsabilidades a que haya lugar.
 
 > <small>(REFORMADO, P.O. 27 DE JULIO DE 2004)</small>
 
@@ -1931,19 +1943,21 @@ La Hacienda Pública del Estado será administrada por el Jefe del Ejecutivo en 
 
 Todo servidor público o empleado que tenga que manejar fondos, ya sea del Estado o del Municipio, deberá otorgar fianza en términos de Ley.
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 106.
 
-Ninguna cuenta perteneciente a caudales públicos dejará de concluirse y glosarse dentro del cuatrimestre siguiente a aquél en que corresponda. Para tal efecto, las dependencias respectivas enviarán mensualmente la información relativa a los ingresos obtenidos y los egresos ejercidos; asimismo prepararán la cuenta pública del Gobierno Estatal correspondiente al cuatrimestre anterior, integrando la información en forma cuatrimestral de acuerdo al año natural. La Ley de Fiscalización Superior del Estado, establecerá los plazos en los que se deberán entregar las cuentas de la Hacienda Pública Estatal
+Ninguna Cuenta Pública dejará de concluirse y glosarse dentro del ejercicio fiscal siguiente a aquél en que corresponda. Para tal efecto, las Entidades Fiscalizadas respectivas, remitirán los Informes Financieros cuatrimestrales relativos a los ingresos obtenidos y los egresos ejercidos a la Secretaría de Finanzas del Gobierno del Estado, misma que preparará la Cuenta Anual de la Hacienda Pública Estatal correspondiente al ejercicio fiscal anterior. La Ley de Fiscalización Superior del Estado, establecerá los plazos en los que se deberán entregar los Informes Financieros cuatrimestrales y la Cuenta Anual de la Hacienda Pública Estatal.
 
-La información comprobatoria de los ingresos y egresos, se conservará en depósito del Ejecutivo Estatal y a disposición del Órgano de Fiscalización Superior.
+La información comprobatoria de los ingresos y egresos, se conservará en depósito de las Entidades Fiscalizadas y a disposición de la Auditoría General del Estado.
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 107.
 
-El Organo de Fiscalización Superior del Congreso del Estado tendrá autonomía financiera, técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y emisión de sus resoluciones, en los términos que exponga la Ley y tendrá a su cargo:
+La Auditoría General del Estado es el Órgano Técnico Auxiliar del Poder Legislativo. En cuanto a la designación y remoción de los Auditores Especiales y de los Directores de Asuntos Jurídicos y de Administración y Finanzas, deberá contar, previamente, con la opinión de la Comisión de Vigilancia y Evaluación de la Auditoría General del Estado del Congreso del Estado. Así mismo, gozará de autonomía financiera, técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre sus programas de trabajo, funcionamiento y emisión de sus resoluciones, en los términos que establezca la Ley de Fiscalización Superior, y tendrá a su cargo:
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2002)</small>
 
 I.- El control y fiscalización de: los ingresos, los egresos, el manejo, la custodia y la aplicación de fondos y recursos de los Poderes del Estado, de los Municipios y de los Entes Públicos Estatales y Municipales; así como el cumplimiento de los objetivos contenidos en los programas estatales y municipales a través de los informes que se rendirán en los términos que disponga la Ley.
 
@@ -1951,19 +1965,33 @@ De acuerdo con las Leyes Federales y los Convenios respectivos, también fiscali
 
 Sin perjuicio de los informes a que se refiere el primer párrafo de esta fracción, en las situaciones excepcionales que determine la Ley, podrá requerir a los sujetos de fiscalización que procedan, la revisión de los conceptos que estime pertinente y la rendición de un informe. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la Ley, dará lugar al fincamiento de las responsabilidades que corresponda;
 
-II.- Entregar al Congreso del Estado los informes de los resultados de la revisión de las Cuentas de las Haciendas Públicas Estatal y Municipales, en los plazos que establezca la Ley. Dentro de dichos informes que tendrán carácter público, se incluirán los resolutivos de su revisión y el apartado correspondiente a la fiscalización y verificación del cumplimiento de los programas, comprendiendo las observaciones y recomendaciones a los auditados.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-El Organo de Fiscalización Superior deberá guardar reserva de sus actuaciones y observaciones hasta que rinda los informes a que se refiere este artículo; esta Constitución y las Leyes respectivas, establecerán las sanciones aplicables a quienes infrinjan esta disposición;
+II.- Entregar al Congreso del Estado los Informes de Resultados de la revisión de la Cuenta Anual de las Haciendas Públicas Estatal y Municipales, en los plazos que establezca la Ley. Dentro de dichos informes, que tendrán carácter público, se incluirán los resolutivos de su revisión y el apartado correspondiente a la fiscalización y verificación del cumplimiento de los programas, comprendiendo las observaciones y recomendaciones a los auditados.
+
+La Auditoría General del Estado deberá guardar reserva de sus actuaciones y observaciones hasta que rinda los informes a que se refiere este artículo; esta Constitución y las Leyes respectivas, establecerán las sanciones aplicables a quienes infrinjan esta disposición.
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2002)</small>
 
 III.- Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, administración, custodia y aplicación de recursos estatales, municipales y federales, así como efectuar visitas domiciliarias únicamente para exigir la exhibición de libros, papeles o archivos indispensable para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas para los cateos; y
 
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2002)</small>
+
 IV.- Determinar los daños y perjuicios que afecten a la Hacienda Pública del Estado, de los Municipios o al patrimonio de los Entes Públicos Estatales y Municipales y en su caso, fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades; promover las acciones de responsabilidad a que se refiere el Título Décimo Tercero de esta Constitución y presentar las denuncias y querellas, en cuyos procedimientos tendrá la intervención que la Ley le señale.
 
-El Congreso del Estado designará al Titular del Organo de Fiscalización Superior, por el voto de la mayoría de sus integrantes. La Ley determinará el procedimiento para su designación. Dicho titular durará en su encargo ocho años y podrá ser nombrado nuevamente por una sola ocasión; asimismo con la votación requerida para su nombramiento, podrá ser removido exclusivamente por las causas graves que la Ley señale o por las causas y conforme a los procedimientos previstos en el Título Décimo Tercero de esta Constitución.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
-Para ser Titular del Organo de Fiscalización Superior se requiere cumplir con los requisitos establecidos en las fracciones I, II, IV, V y VI del artículo 88 de esta Constitución y con los que la Ley señale. Durante el ejercicio de su encargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
+El Congreso del Estado designará al Titular de la Auditoría General del Estado, por el voto de la mayoría de sus integrantes. La Ley determinará el procedimiento para su designación. Dicho Titular durará en su encargo ocho años y podrá ser nombrado nuevamente por una sola ocasión; así mismo con la votación requerida para su nombramiento, podrá ser removido exclusivamente por las causas graves que la Ley señale o por las causas y conforme a los procedimientos previstos en el Título Décimo Tercero de esta Constitución.
 
-Los Poderes del Estado, los Gobiernos Municipales y los Entes Públicos Estatales y Municipales proporcionaran la información y los medios que requiera el Organo de Fiscalización Superior para el ejercicio de sus funciones.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+
+Para ser Titular de la Auditoría General del Estado, se requiere cumplir con los requisitos establecidos en las fracciones I, II, IV y V del artículo 88 de esta Constitución y con los que la Ley señale. Durante el ejercicio de su encargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+
+Los Poderes del Estado, los Gobiernos Municipales y los Entes Públicos Estatales y Municipales proporcionarán la información y los medios que requiera la Auditoría General del Estado para el ejercicio de sus funciones.
+
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2002)</small>
 
 El Poder Ejecutivo del Estado aplicará el procedimiento administrativo de ejecución para el cobro de las indemnizaciones y sanciones pecuniarias a que se refiere la fracción IV de este artículo.
 
@@ -2011,11 +2039,11 @@ Las Leyes determinarán los casos y las circunstancias en los que se deba sancio
 
 Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Congreso del Estado respecto de las conductas a las que se refiere el presente artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 112.
 
-Podrán ser sujetos de Juicio Político: los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Jueces de Primera Instancia y de Paz, los Consejeros de la Judicatura Estatal, los Magistrados del Tribunal Electoral; los Consejeros Electorales del Consejo Estatal Electoral; los Secretarios del Despacho Auxiliares del Titular del Ejecutivo y el Consejero Jurídico del Poder Ejecutivo; los Coordinadores, el Contralor General del Estado, el Procurador General de Justicia, los Presidentes Municipales, los Síndicos Procuradores y los Regidores, así como los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Estatal Mayoritaria, Sociedades o Asociaciones asimiladas a éstas, y Fideicomisos Públicos Estatales.
+Podrán ser sujetos de Juicio Político: los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Jueces de Primera Instancia y de Paz, los Consejeros de la Judicatura Estatal, los Magistrados del Tribunal Electoral; los Consejeros Electorales del Consejo Estatal Electoral; los Secretarios del Despacho Auxiliares del Titular del Ejecutivo y el Consejero Jurídico del Poder Ejecutivo; los Coordinadores, el Contralor General del Estado, el Procurador General de Justicia, el Auditor General del Estado y los Auditores Especiales de la Auditoría General del Estado; los Presidentes Municipales, los Síndicos Procuradores y los Regidores, así como los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Estatal Mayoritaria, Sociedades o Asociaciones asimiladas a éstas, y Fideicomisos Públicos Estatales.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -2029,13 +2057,13 @@ Para la aplicación de las sanciones a que se refiere este precepto, la Comisió
 
 Las declaraciones y resoluciones del Congreso del Estado son inatacables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 113.
 
-Para proceder penalmente en contra de los Diputados al Congreso del Estado, Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal Electoral del Estado, Consejeros de la Judicatura Estatal, Consejeros Electorales del Consejo Estatal Electoral; Secretarios del Despacho Auxiliares del Titular del Ejecutivo, Coordinadores, Contralor General del Estado, Procurador General de Justicia, Consejero Jurídico del Poder Ejecutivo, Presidentes, Síndicos y Regidores de los Ayuntamientos, por la comisión de delitos durante el tiempo de su encargo; el Congreso del Estado declarará por mayoría absoluta de sus miembros presentes en sesión si ha o no lugar a proceder contra el inculpado.
+Para proceder penalmente en contra de los Diputados al Congreso del Estado, Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal Electoral del Estado, Consejeros de la Judicatura Estatal, Consejeros Electorales del Consejo Estatal Electoral; Secretarios del Despacho Auxiliares del Titular del Ejecutivo, Coordinadores, Contralor General del Estado, Procurador General de Justicia, Auditor General del Estado, Consejero Jurídico del Poder Ejecutivo, Presidentes, Síndicos y Regidores de los Ayuntamientos, por la comisión de delitos durante el tiempo de su encargo; el Congreso del Estado declarará por mayoría absoluta de sus miembros presentes en sesión si ha o no lugar a proceder contra el inculpado.
 
-(REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
+(REFORMADO, P.O. 31 DE ENERO DE 1984) (F. DE E., P.O. 3 DE FEBRERO DE 1984)
 
 Si la resolución del Congreso fuese negativa, se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la Comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
 
@@ -2071,7 +2099,7 @@ Los Jueces y los Agentes del Ministerio Público, serán responsables de los del
 
 ###### ARTICULO 114.
 
-No se requerirá declaración de procedencia del Congreso del Estado cuando alguno de los servidores públicos a que hace referencia el párrafo primero del articulo 113, cometa un delito durante el tiempo en que se encuentre separado de su encargo.
+No se requerirá declaración de procedencia del Congreso del Estado cuando alguno de los servidores públicos a que hace referencia el párrafo primero del artículo 113, cometa un delito durante el tiempo en que se encuentre separado de su encargo.
 
 En caso de que el servidor público vuelva a desempeñar sus funciones propias o sea nombrado o electo para desempeñar otro cargo distinto de los enumerados por el artículo 113, se procederá de acuerdo con lo dispuesto en dicho precepto.
 
@@ -3140,3 +3168,13 @@ PRIMERO.- Para dar cumplimiento a lo establecido en la Fracción III del Artícu
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
 TERCERO.- En su oportunidad remítase el presente Decreto al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE ABRIL DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto a los Honorables Ayuntamientos de la Entidad, para los efectos de lo dispuesto por el artículo 125 fracción III de la Constitución Política del Estado Libre y Soberano de Guerrero y oportunamente expídase el Acuerdo de Validación respectivo.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
