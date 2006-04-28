@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-proteccion-de-los-derechos-de-las-ninas-ninos-y-49290"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-17"
-last_updated: "2006-02-17"
+last_updated: "2006-04-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49290&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 
 LEY DE PROTECCION DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEON
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DE ESTE ORDENAMIENTO SU ENTRADA EN VIGOR SURTIRA EFECTOS A LOS CIENTO VEINTE DIAS POSTERIORES A SU PUBLICACION EN EL P.O. DEL ESTADO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DE ESTE ORDENAMIENTO SU ENTRADA EN VIGOR SURTIRA EFECTOS A LOS CIENTO VEINTE DIAS POSTERIORES A SU PUBLICACION EN EL P.O.</small>
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 17 de febrero de 2006.
 
@@ -969,7 +969,9 @@ e) Garantía de oralidad del procedimiento, que lleva a que se escuche directame
 
 IX. Se garantizará que las sanciones que se impongan a los adolescentes en situación de conflicto con la ley penal estén claramente establecidas y limitadas en tiempo; su contenido, su duración y su intensidad atiendan a la naturaleza del hecho cometido y a la edad y la madurez de quien las recibe; contribuyan de preferencia a reparar el daño causado; y respondan al objetivo de que el o la responsable logre apreciar que es debido y conveniente vivir en la sociedad sin transgredir los límites impuestos por la ley ni faltar al respeto de los derechos de las personas;
 
-X. Se impondrá la privación de la libertad a un adolescente, solamente por delitos graves y por el menor tiempo que se requiera para cumplir el objetivo señalado en el artículo anterior; y
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+X. Se impondrá la privación de la libertad a un adolescente, mayor de catorce años, solamente por delitos graves y por el menor tiempo que se requiera para cumplir el objetivo señalado en el artículo anterior; y
 
 XI. Se preverán, para el caso de la comisión de delitos que no sean graves, sanciones que permitan la permanencia del adolescente responsable en su domicilio habitual.
 
@@ -1362,3 +1364,9 @@ MARIA YOLANDA BLANCO GARCÍA
 EL C. SECRETARIO DE SALUD
 
 GILBERTO MONTIEL AMOROSO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE ABRIL DE 2006.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente al de su aplicación en el Periódico Oficial del Estado.
