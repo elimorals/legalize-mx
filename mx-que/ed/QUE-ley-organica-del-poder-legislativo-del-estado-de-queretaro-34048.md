@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-3404
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-09-19"
-last_updated: "2006-02-17"
+last_updated: "2006-04-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 19 de septiembre de 2003.
 
@@ -567,13 +567,13 @@ Ningún diputado podrá tener a su cargo y al mismo tiempo, más de una de las s
 
 > <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2006)</small>
 
-I. Adoptar la toma de decisiones concertadas en todos los ámbitos y materias que al Poder Legislativo correspondan, las cuales comunicará al órgano o dependencia para su debido cumplimiento.
+I. Adoptar la toma de decisiones concertadas en todos los ámbitos y materias que al Poder Legislativo correspondan, las cuales comunicará al órgano o dependencia para su debido cumplimiento;
 
 II. Proponer acuerdos al Pleno de la Legislatura sobre iniciativas presentadas, decisiones de gobierno interno, declaraciones institucionales de la Legislatura y cualquier decisión que sea de su competencia;
 
-> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-III. Elaborar, con apoyo del Oficial Mayor y el Tesorero, el proyecto del presupuesto de ingresos y egresos del Poder Legislativo; así como realizar modificaciones al presupuesto de egresos y las políticas y lineamientos relativos al empleo de los recursos asignados;
+III. Elaborar con apoyo del Oficial Mayor y el Tesorero, el proyecto del presupuesto de ingresos y egresos del Poder Legislativo, así como las políticas y lineamientos relativos a la aplicación de los recursos asignados;
 
 IV. Turnar al Ejecutivo del Estado el Proyecto de Presupuesto de Ingresos y Egresos del Poder Legislativo, para que lo incluya en las iniciativas correspondientes de cada ejercicio fiscal, en el que deberán incluirse partidas presupuestales para: capacitación a diputados y personal de la Legislatura, servicios de asesoría profesional, publicaciones institucionales y difusión del trabajo legislativo, considerando en cada una cuando menos el uno por ciento del total del Presupuesto que se proponga para el Poder Legislativo;
 
@@ -697,9 +697,17 @@ II. Proponer los programas anuales de desarrollo del personal administrativo;
 
 III. Recibir toda la información que solicite de cualquier organismo, dependencia y unidades técnicas con que cuente la Legislatura a través de la Mesa Directiva;
 
-IV. Detectar y, en su caso, notificar a la contraloría interna de todas y cada una de las irregularidades e inconsistencias legales y administrativas, en que incurran los funcionarios de los organismos, dependencias y unidades técnicas que tenga el Poder Legislativo;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-V. Atender los demás asuntos que le encomiende esta Ley, el reglamento que la rija, el Pleno de la Legislatura y demás normas aplicables.
+IV. Supervisar y observar la rendición del informe de la cuenta pública de la Legislatura, a cargo de la Tesorería, en los términos de la ley de la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE ABRIL DE 2006)</small>
+
+V. Detectar y, en su caso, notificar a la contraloría interna de todas y cada una de las irregularidades e inconsistencias legales y jurídicas en que incurran los funcionarios de los organismos, dependencias y unidades técnicas del Poder Legislativo; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+VI. Atender los demás asuntos que le encomiende esta Ley, el reglamento que la rija, el Pleno de la Legislatura y demás normas aplicables.
 
 ###### Artículo 62.
 
@@ -781,9 +789,9 @@ VIII. En las faltas del secretario, habilitar en esa función a un diputado inte
 
 IX. Representar a la Comisión ante otras autoridades;
 
-> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-X. Rendir a la Junta de Concertación Política, informes anuales por escrito sobre el manejo de los recursos asignados a la comisión respectiva;
+X. Rendir ante la Comisión de Vigilancia, informes anuales sobre el manejo de los recursos asignados a la comisión respectiva;
 
 XI. Ejercer las demás facultades que esta Ley, el Pleno de la Legislatura y las normas aplicables le confieran.
 
@@ -843,7 +851,9 @@ XVI. Juventud y deporte: Tiene a su cargo la atención de asuntos en materia de 
 
 XVII. Participación ciudadana: Tiene a su cargo la atención de asuntos en materia de atención ciudadana y participación de la sociedad.
 
-XVIII. Planeación y presupuesto: Tiene a su cargo la atención de asuntos en materia de legislación fiscal estatal y municipal. Además estudiará y dictaminará el presupuesto de egresos y las iniciativas de ley de ingresos del Gobierno del Estado de Querétaro y de los municipios.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+XVIII. Planeación y Presupuesto: Tiene a su cargo la atención de asuntos en materia de legislación fiscal estatal y municipal, así como realizar el estudio y dictamen del presupuesto de egresos y las iniciativas de Ley de ingresos de Gobierno del Estado y de los Municipios. Asimismo, es competente para realizar modificaciones al presupuesto de egresos de la Legislatura y a las políticas y lineamientos relativos al empleo de los recursos asignados.
 
 XIX. Puntos constitucionales: Tiene a su cargo la atención de asuntos en materia de reformas a la Constitución Federal y la Estatal.
 
@@ -1057,6 +1067,8 @@ DISPOSICIONES GENERALES
 
 (Titulares) La titularidad de dos o más dependencias y demás cargos a que se refiere esta ley, no podrán recaer en una misma persona.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+
 ###### Artículo 101.
 
 (Requisitos generales para los titulares de las dependencias) Independientemente de los requisitos específicos que esta Ley exige en cada caso, para ser titular de cualquier dependencia del Poder Legislativo se necesita:
@@ -1065,17 +1077,11 @@ I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos, co
 
 II. Poseer título profesional a nivel licenciatura afín a las funciones del cargo, expedido con al menos cinco años anteriores al día de la designación;
 
-> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2005)</small>
+III. No haber sido sentenciado por delito doloso que amerite pena privativa de libertad;
 
-III. No haber sido dirigente, funcionario o candidato de partido político u ocupado algún cargo de elección popular en el último año;
+IV. No haber sido destituido o inhabilitado para ejercer algún cargo público por resolución relativa a responsabilidad administrativa; y
 
-IV. No haber sido sentenciado por delito doloso que amerite pena privativa de libertad o haber sido destituido de algún cargo público por resolución relativa a responsabilidad administrativa;
-
-V. Gozar de reconocida probidad en el ejercicio de su profesión; y
-
-VI. Durante el desempeño de su cargo les está expresamente prohibido estar al servicio de personas físicas o morales, públicas o privadas.
-
-Lo establecido en la fracción VI de este numeral aplica también para los Subdirectores, coordinadores, jefes de departamento, asesores, investigadores, auditores y demás personal cuyo nombramiento así lo establezca.
+V. Gozar de reconocida probidad en el ejercicio de su profesión.
 
 ###### Artículo 102.
 
@@ -1143,11 +1149,13 @@ XVI. Ejecutar los acuerdos de la Mesa Directiva, o el Pleno de la Legislatura, e
 
 XVII. Requerir a los diputados electos, con anticipación suficiente, el currículum actualizado con sus datos generales y comunicarles en su momento, la fecha y hora en que se celebrará la junta preparatoria en la que se les entregarán las credenciales de identificación elaboradas por la Oficialía Mayor y autorizadas por la Presidencia de la Comisión Permanente;
 
-> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-XVIII. Enviar copia de todos los escritos a la comisión de vigilancia que impliquen cambios en la estructura, modificación de presupuesto y funcionalidad, así como cualquier orden de trabajo, financieros y materiales, excepto los que implique movimientos de recursos humanos que serán informados a la Mesa Directiva;
+XVIII. Enviar copia de todos los escritos a la Comisión de Planeación y Presupuesto que impliquen cambios en la estructura, modificación de presupuesto y funcionalidad, así como cualquier orden de trabajo, que implique movimientos de recursos humanos, financieros y materiales del Poder Legislativo;
 
-XIX. Tener bajo su responsabilidad en el ámbito administrativo, el uso de los recintos oficiales y demás instalaciones del Poder Legislativo, de acuerdo con los lineamientos que en su caso determine la Mesa Directiva y demás disposiciones que al efecto se establezcan;
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2006)</small>
+
+XIX. Tener bajo su responsabilidad, en el ámbito administrativo, el uso de los recintos oficiales y demás instalaciones del Poder Legislativo, de acuerdo con los lineamientos que en su caso determine la Mesa Directiva y demás disposiciones que al efecto se establezcan; y
 
 XX. Ejercer las facultades y cumplir las obligaciones que señale esta Ley, el Pleno de la Legislatura y las demás normas aplicables.
 
@@ -1169,23 +1177,23 @@ TESORERÍA
 
 I. Auxiliar a la Junta de Coordinación Política en la elaboración del presupuesto de ingresos y egresos de la Legislatura;
 
-> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-II.- Administrar los recursos financieros, autorizados. De forma conjunta con el Oficial Mayor y en caso de ausencia de éste o el Tesorero, o ambos, el Presidente y Secretario de la Comisión de Vigilancia, por causa justificada, podrán librar los documentos de carácter mercantil que se requieran para el cumplimiento de las obligaciones económicas del Poder Legislativo.
+II. Administrar los recursos financieros autorizados, de forma conjunta con el Oficial Mayor y en caso de ausencia de éste o el Tesorero, o ambos, el Presidente y Secretario de la Comisión de de (sic) Planeación y Presupuesto, por causa justificada, podrán librar los documentos de carácter mercantil que se requieran para el cumplimiento de las obligaciones económicas del Poder Legislativo;
 
 III. Llevar el registro contable de los ingresos y egresos, de acuerdo a los principios de contabilidad gubernamental;
 
 IV. Tener el resguardo y archivo de los asuntos concernientes a su dependencia;
 
-> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-V. Rendir ante la Comisión de Vigilancia cuantos informes y documentos le requiera sobre su gestión, a través de la Mesa Directiva;
+V. Rendir ante las Comisiones de Planeación y Presupuesto y de Vigilancia cuantos informes y documentos le requiera sobre su gestión;
 
 VI. Elaborar los informes de cuenta pública del Poder Legislativo y remitirlos a la Contaduría Mayor de Hacienda y a la Comisión de Vigilancia para su conocimiento;
 
-> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-VII. Efectuar los ajustes presupuestales que se requieran en el presupuesto de ingresos y egresos de la Legislatura, a fin de que sirvan de apoyo para el logro de los planes, programas y metas que optimicen el trabajo de la Legislatura, previo acuerdo de la Junta de Concertación Política;
+VII. Proponer a la Comisión de Planeación y Presupuesto los ajustes presupuestales que se requieran en el presupuesto de ingresos y egresos de la Legislatura, a fin de que sirvan de apoyo para el logro de los planes, programas y metas que optimicen el trabajo de la Legislatura;
 
 VIII. Recibir la comprobación de la aplicación de los recursos que se otorguen a los Grupos o Fracciones Parlamentarias;
 
@@ -1197,15 +1205,15 @@ XI. Ejecutar los acuerdos de la Mesa Directiva, o el Pleno de la egislatura (sic
 
 XII. Conjuntamente con el Oficial Mayor, proponer a la Junta de Concertación Política, el proyecto de presupuesto de ingresos y egresos de la Legislatura;
 
-XIII. Enviar copia de todos los escritos a la Comisión de Vigilancia que impliquen cambios en la estructura, modificación de presupuesto, y funcionalidad, así como todas las órdenes de trabajo, que impliquen movimientos, financieros, de inversión, bancarias y de cualquier índole, realizados ante cualquier instancia pública o privada; y (sic)
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2006)</small>
+XIII. Enviar copia de todos los escritos a la Mesa Directiva y a la Comisión de Planeación y Presupuesto, que impliquen cambios en la estructura, modificación de presupuesto, y funcionalidad, así como todas las órdenes de trabajo, que impliquen movimientos, financieros, de inversión, bancarias y de cualquier índole, realizados ante cualquier instancia pública o privada; y
 
-XIV. Enviar copia de todos los escritos a la Mesa Directiva que impliquen cambios en la estructura, modificación de presupuesto y funcionalidad, así como todas las órdenes de trabajo, que impliquen movimientos financieros, de inversión, bancarias y de cualquier índole, realizados ante cualquier instancia pública o privada; y
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
-> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2006)</small>
+XIV. Ejercer las facultades y cumplir las obligaciones que señale esta Ley, el Pleno de la Legislatura y las demás normas aplicables.
 
-XV. Ejercer las facultades y cumplir las obligaciones que le señale esta ley, el Pleno de la Legislatura y las demás disposiciones aplicables.
+XV. (DEROGADA, P.O. 28 DE ABRIL DE 2006)
 
 4ª SECCIÓN
 
@@ -1285,11 +1293,11 @@ CONTRALORÍA INTERNA
 
 (Función y ubicación orgánica) La Contraloría Interna es la unidad técnica encargada de recibir quejas, denuncias e inconformidades de orden administrativo y substanciar los procedimientos de responsabilidad que en esa materia deban instaurarse en contra de los servidores públicos del Poder Legislativo, en los términos de la Ley de Responsabilidades de los Servidores Públicos, así como intervenir en los procedimientos de entrega y recepción administrativa, conforme a la ley de la materia. Dicha Unidad dependerá jerárquicamente de la Comisión de Vigilancia, debiendo contar con al menos dos personas como auxiliares.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### Artículo 117.
 
-(Designación del titular) El titular de la Contraloría Interna será designado por el voto de la mayoría de los integrantes de la Legislatura, de una terna propuesta por la Junta de Concertación Política.
+(Designación del titular) El titular de la Contraloría Interna será designado por el voto de la mayoría de los integrantes de la Legislatura, de una terna propuesta por la Comisión de Vigilancia.
 
 ###### Artículo 118.
 
@@ -1303,9 +1311,11 @@ INSTITUTO DE INVESTIGACIÓN Y ESTADISTICA PARLAMENTARIA
 
 (Función y ubicación orgánica) El Instituto de Investigación y Estadística Parlamentaria es la dependencia establecida para fortalecer el trabajo parlamentario mediante la difusión e investigación de los temas que le son afines y la formación y capacitación en materia legislativa. Orgánicamente se encuentra subordinado a la Junta de Concertación Política.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+
 ###### Artículo 120.
 
-(Requisitos) Para ser director del Instituto de Investigación y Estadística Parlamentaria se requiere acreditar estudios concluidos de maestría en el ámbito jurídico, con experiencia de al menos cinco años en el área profesional.
+(Requisitos del titular) Para ser director del Instituto de Investigación y Estadística Parlamentaria, se requiere acreditar experiencia o conocimientos técnicos o profesionales de al menos cinco años en trabajos legislativos a áreas afines.
 
 ###### Artículo 121.
 
@@ -1677,9 +1687,13 @@ Se expedirán tantos ejemplares como resulte necesario para su inserción en el 
 
 (Oposición a la firma de proyectos) Los diputados que indebidamente se nieguen a firmar los proyectos aprobados por la Legislatura, serán sujetos de juicio político y a la responsabilidad penal que corresponda. En este caso, los proyectos podrán suscribirse por el Vice-presidente y otro de los secretarios, haciéndose la anotación marginal que corresponda en el texto.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
+
 ###### Artículo 158.
 
-(Minuta proyecto de ley con reforma constitucional) Cuando la Legislatura apruebe reformas o adiciones a la Constitución Política del Estado, se remitirá a los Ayuntamientos copia certificada del dictamen aprobado.
+(Minuta proyecto de ley con reforma constitucional) Cuando la Legislatura apruebe reformas o adiciones a la Constitución Política del Estado Libre y Soberano de Querétaro Arteaga, se remitirá a los Ayuntamientos copia certificada del proyecto de ley aprobado, previos trabajos de la Comisión de Redacción y Estilo.
+
+Los ayuntamientos podrán fundar y motivar el sentido de su voto, pero siempre será contundente al señalar “se aprueba” o “se rechaza” la reforma constitucional que corresponda.
 
 Si al recibirse los votos de los ayuntamientos, existiera duda sobre su sentido o contenido, la Mesa Directiva podrá solicitar al remitente las aclaraciones pertinentes, en un plazo no mayor de cinco días hábiles.
 
@@ -2189,7 +2203,7 @@ III. Que sea o hubiere sido cónyuge de una de las partes o de su representante;
 
 IV. Que tenga en relación con el objeto del procedimiento, interés personal y directo de cualquier género o concurran circunstancias notorias que impidan el ejercicio de su imparcial y objetivo criterio.
 
-### CAPÍTULO VI. SUSPENSIÓN, DECLARATORIA DE DESAPARICIÓN DE AYUNTAMIENTOS YSUSPENSIÓN, INHABILITACIÓN O REVOCACIÓN DE MANDATO DE ALGUNO DE SUS MIEMBROS
+### CAPÍTULO VI. SUSPENSIÓN, DECLARATORIA DE DESAPARICIÓN DE AYUNTAMIENTOS Y SUSPENSIÓN, INHABILITACIÓN O REVOCACIÓN DE MANDATO DE ALGUNO DE SUS MIEMBROS
 
 ###### Artículo 228.
 
@@ -2371,11 +2385,11 @@ La Gaceta incluirá la información recibida hasta el cierre de su edición, que
 
 La Gaceta se distribuirá a los diputados mediante correo electrónico, el día hábil anterior a aquel en que se celebre la sesión, salvo casos excepcionales que acuerde el presidente.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
 ###### Artículo 246.
 
-(Revistas, carteles, folletos y demás publicaciones) Los órganos y dependencias del Poder Legislativo podrán editar y publicar con cargo a sus fondos, las publicaciones que contribuyan al mejor desarrollo de sus actividades. Si requieran recursos adicionales para este propósito, lo solicitarán a la Junta de Concertación Política para que acuerde lo conducente, atendiendo a la disponibilidad presupuestal y prioridades de los programas institucionales, debiendo informar, en su caso, a la Comisión de Vigilancia.
+(Revistas, carteles, folletos y demás publicaciones) Los órganos y dependencias del Poder Legislativo podrán editar y publicar con cargo a sus fondos, las publicaciones que contribuyan al mejor desarrollo de sus actividades. Si requieran recursos adicionales para este propósito, lo solicitarán a la Comisión de Planeación y Presupuesto para que acuerde lo conducente, atendiendo a la disponibilidad presupuestal y prioridades de los programas institucionales, debiendo informar, en su caso, a la Mesa Directiva.
 
 ###### Artículo 247.
 
@@ -2490,3 +2504,31 @@ Esta Ley entrará en vigor al día de su aprobación, se ordena su publicación 
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan a la presente ley.
+
+P.O. 28 DE ABRIL DE 2006.
+
+LEY QUE REFORMA LOS ARTICULOS 101, 120 Y 158 DE LA LEY.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor el día de su aprobación por el Pleno de la LIV Legislatura y se ordena su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan a la presente Ley.
+
+P.O. 28 DE ABRIL DE 2006.
+
+LEY QUE REFORMA DIVERSOS ARTICULOS DE LA LEY.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día de su aprobación por el Pleno de la LIV Legislatura del Estado de Querétaro.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
