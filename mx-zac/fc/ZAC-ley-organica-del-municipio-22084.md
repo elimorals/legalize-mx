@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-municipio-22084"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-09-14"
-last_updated: "2004-07-17"
+last_updated: "2006-04-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22084&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGANICA DEL MUNICIPIO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ABRIL DE 2006.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el viernes 14 de septiembre de 2001.
 
@@ -475,7 +475,9 @@ Aprobar sus presupuestos de Egresos, a más tardar el treinta de enero de cada a
 
 Enviar a la Legislatura del Estado el informe trimestralmente de avance de gestión financiera sobre los resultados físicos y financieros de los programas a su cargo, que contenga además, una relación detallada del ejercicio presupuestal que se lleve a la fecha, especificando los convenios celebrados que signifiquen modificación a lo presupuestado.
 
-Rendir a la Legislatura del Estado dentro del mes de mayo siguiente a la conclusión del año fiscal, la cuenta pública pormenorizada de su manejo hacendario, para su revisión y fiscalización.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2006)</small>
+
+Rendir a la Legislatura del Estado dentro del mes de Febrero siguiente a la conclusión del año fiscal, la cuenta pública pormenorizada de su manejo hacendario, para su revisión y fiscalización.
 
 Asimismo deberán remitir oportunamente la documentación e informes que les sean requeridos por la Auditoría Superior del Estado.
 
@@ -2272,3 +2274,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 17 DE JULIO DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 29 DE ABRIL DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
