@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-fomento-a-la-ganaderia-para-el-estado-de-zacatecas-22253
 country: "mx"
 rank: "ley"
 publication_date: "1996-07-03"
-last_updated: "1996-07-03"
+last_updated: "2006-04-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22253&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 LEY DE FOMENTO A LA GANADERIA PARA EL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE FOMENTO A LA GANADERIA DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 29 DE ABRIL DE 2006., EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el miércoles 3 de julio de 1996.
 
@@ -1066,3 +1068,15 @@ LIC. ARTURO ROMO GUTIERREZ
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ESAU HERNANDEZ HERRERA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE ABRIL DE 2006.
+
+Primero.- La presente Ley entrara en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se abroga la Ley de Fomento a la Ganadería para el Estado de Zacatecas, contenida en el Decreto número 70 publicado en el Periódico Oficial, Órgano del Gobierno del Estado número 53, de fecha 3 de julio de 1996.
+
+Tercero.- Se derogan las disposiciones que contravengan a la presente Ley.
+
+Cuarto.- En un término que no exceda de 90 días naturales, el Ejecutivo del Estado deberá expedir el Reglamento de la presente Ley y demás disposiciones administrativas necesarias para su cumplimiento.
