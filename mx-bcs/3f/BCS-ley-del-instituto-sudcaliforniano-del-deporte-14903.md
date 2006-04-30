@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-instituto-sudcaliforniano-del-deporte-14903"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-20"
-last_updated: "1999-06-20"
+last_updated: "2006-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14903&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 LEY DEL INSTITUTO SUDCALIFORNIANO DEL DEPORTE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTICULOS SEGUNDO Y TERCERO TRANSITORIOS DE LA LEY DEL INSTITUTO SUDCALIFORNIANO DEL DEPORTE, PUBLICADA EN EL B.O. DE 30 DE ABRIL DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DEROGADA.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 20 de junio de 1999.
 
@@ -166,3 +168,15 @@ LIC. LEONEL EFRAIN COTA MONTAÑO.
 SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RODIMIRO AMAYA TELLEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 30 DE ABRIL DE 2006.
+
+PRIMERO.- El presente ordenamiento legal entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se deroga el Artículo Segundo del Decreto 1219, publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur de fecha 20 de Junio de 1999.
+
+TERCERO.- Se deroga la Fe de Erratas al decreto 1219 en lo referente al Instituto Sudcaliforniano del Deporte publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur, número 35 de fecha 31 de julio de 1999.
+
+CUARTA (SIC) .- La Junta de Gobierno del Instituto contará con un plazo no mayor a 60 días para aprobar su Reglamento Interior y con 90 días para aprobar sus Manuales de Organización y de Procedimientos.
