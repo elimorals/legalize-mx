@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-prevencion-asistencia-y-atencion-de-la-violencia-12649"
 country: "mx"
 rank: "ley"
 publication_date: "1998-07-08"
-last_updated: "2004-01-07"
+last_updated: "2006-05-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12649&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY DE PREVENCION, ASISTENCIA Y ATENCION DE VIOLENCIA INTRAFAMILIAR DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON LO SEÑALADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO DE ATENCION A LA FAMILIA Y GRUPOS VULNERABLES PARA EL ESTADO LIBRE Y SOBERANO DE CHIAPAS, PUBLICADA EN P.O. DE 2 DE MAYO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 8 de julio de 1998.
 
@@ -750,3 +752,13 @@ LOS PROCEDIMIENTOS ADMINISTRATIVOS QUE SE ENCUENTREN EN TRAMITE ANTES DE LA ENTR
 ###### ARTICULO TERCERO.
 
 SE DEROGAN TODAS AQUELLAS DISPOSICIONES ADMINISTRATIVAS QUE SE OPONGAN AL CONTENIDO AL PRESENTE DECRETO.
+
+P.O. 2 DE MAYO DE 2006.
+
+Artículo Primero.- El presente Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- El Consejo para la Integración de las Personas Adultas Mayores del Estado, deberá quedar constituido en un plazo no mayor de noventa días naturales, contados a partir de de la entrada en vigor del presente Código.
+
+Artículo Tercero.- Los Presidentes Municipales de os Ayuntamientos del Estado en un término de noventa días, contados a partir de la entrada en vigor del presente Código, integrarán los Consejos y Comités correspondientes.
+
+Artículo Cuarto.- Se abrogan: la Ley sobre el Sistema Estatal de Asistencia Social, publicada en el Periódico Oficial del Estado número 48, Decreto 3, de fecha 26 de noviembre de 1986; la Ley para la Protección de Niñas, Niños y Adolescentes del Estado de Chiapas, publicada en el Periódico Oficial del Estado, número 133, Decreto número 208, de fecha 24 de octubre de 2002; la Ley para la Prevención, Asistencia y Atención para la Violencia familiar del Estado de Chiapas publicada en el Periódico Oficial Número 55, 2da. Sección, de fecha 22 de agosto de 2001, y reformada mediante Decreto número 141, de fecha 6 de enero de 2004; las Ley para las personas Discapacidad del Estado de Chiapas, publicada mediante Decreto 191, del Periódico Oficial del Estado 037, de fecha 20 de agosto de 1997, y reformada por Decreto 248, del Periódico Oficial del Estado 267, de fecha 5 de noviembre de 2004, y la Ley para la Protección de los Derechos de las Personas Adultas Mayores del Estado de Chiapas, publicada por Decreto 245 del Periódico Oficial del Estado 267, de fecha 5 de noviembre de 2004; y sus respectivos reglamentos, además de todas las disposiciones Legislativas y Reglamentarias que se opongan al presente Código.
