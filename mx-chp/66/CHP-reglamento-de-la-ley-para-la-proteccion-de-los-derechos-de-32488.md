@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-de-la-ley-para-la-proteccion-de-los-derechos-de-3248
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-25"
-last_updated: "2003-06-25"
+last_updated: "2006-05-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO DE LA LEY PARA LA PROTECCION DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS
 
-REGLAMENTO DE LA LEY PARA LA PROTECCION DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS
+REGLAMENTO DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE ATENCIÓN A LA FAMILIA Y GRUPOS VULNERABLES PARA EL ESTADO LIBRE Y SOBERANO DE CHIAPAS, PUBLICADO EN EL P.O. 2 DE MAYO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 REGLAMENTO PUBLICADO EN EL PERIODICO OFICIAL DEL ESTADO DE CHIAPAS, EL MIERCOLES 25 DE JUNIO DE 2003.
 
@@ -270,3 +272,15 @@ CONFORME AL ARTICULO 16 DE ESTE REGLAMENTO, SE LES CONCEDE UN TERMINO DE 15 DIAS
 DADO EN LA PRESIDENCIA DEL PODER EJECUTIVO ESTATAL EN LA CIUDAD DE TUXTLA GUTIERREZ, CHIAPAS, A LOS VEINTIDOS DIAS DEL MES DE MAYO DE DOS MIL TRES.
 
 PABLO SALAZAR MENDIGUCHIA, GOBERNADOR DEL ESTADO.- RUBEN F. VELAZQUEZ LOPEZ, SECRETARIO DE GOBIERNO.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE MAYO DE 2006.
+
+Artículo Primero.- El presente Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- El Consejo para la Integración de las Personas Adultas Mayores del Estado, deberá quedar constituido en un plazo no mayor de noventa días naturales, contados a partir de la entrada en vigor del presente Código.
+
+Artículo Tercero.- Los Presidentes Municipales de los Ayuntamientos del Estado, en un término de noventa días, contados a partir de la entrada en vigor del presente Código, integrarán los Consejos y Comités correspondientes.
+
+Artículo Cuarto.- Se abrogan: la Ley sobre el Sistema Estatal de Asistencia Social, publicada en el Periódico Oficial del Estado número 48, Decreto 3, de fecha 26 de noviembre de 1986; la Ley para la Protección de Niñas, Niños y Adolescentes del Estado de Chiapas, publicada en el Periódico Oficial del Estado, número 133, Decreto número 308, de fecha 24 de octubre de 2002; la Ley para la Prevención, Asistencia y Atención para la Violencia familiar del Estado de Chiapas, publicada en el Periódico Oficial del Estado Número 55, 2da. Sección, de fecha 22 de agosto de 2001, y reformada mediante Decreto número 141, de fecha 6 de enero de 2004; la Ley para las personas con Discapacidad del Estado de Chiapas, publicada mediante Decreto 191, del Periódico Oficial del Estado 037, de fecha 20 de agosto de 1997, y reformada por Decreto 248, del Periódico Oficial del Estado 267, de fecha 5 de noviembre de 2004, y la Ley para la Protección de los Derechos de las Personas Adultas Mayores del Estado de Chiapas, publicada por Decreto 245 del Periódico Oficial del Estado 267, de fecha 5 de noviembre de 2004; y sus respectivos reglamentos, además de todas las disposiciones Legislativas y Reglamentarias que se opongan al presente Código.
