@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fomento-cultural-del-distrito-federal-34234"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-14"
-last_updated: "2006-03-03"
+last_updated: "2006-05-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34234&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-09-26"
 
 LEY DE FOMENTO CULTURAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE MARZO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE MAYO DE 2006.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 14 de octubre de 2003.
 
@@ -392,7 +392,9 @@ VII. Otorgar premios, reconocimientos o estímulos a los individuos, organizacio
 
 VIII. Promover, en el ámbito de su competencia, las modalidades de descuento, pago de medio boleto o ingreso gratuito un día por semana a las exhibiciones teatrales, cinematográficas, de ballet, danza y demás espectáculos públicos de carácter artístico o cultural;
 
-IX. Integrar los Consejos Delegacionales para el Fomento de la Cultura con la participación de la comunidad cultural y los sectores sociales, privado y público;
+> <small>(REFORMADA, G.O. 3 DE MAYO DE 2006)</small>
+
+IX. Integrar en un plazo no mayor de treinta días, contados a partir de la fecha del inicio de cada administración, los Consejos Delegacionales para el Fomento de la Cultura con la participación de la comunidad cultural y los sectores sociales, privado y público;
 
 X. Elaborar y mantener actualizado un inventario de los espacios públicos con que cuenta la delegación para la realización de actividades culturales y artísticas;
 
@@ -502,9 +504,11 @@ El Consejo se reunirá de manera obligatoria cada dos meses de manera ordinaria,
 
 Los Consejos Delegacionales serán el órgano asesor de los Jefes Delegacionales para el cumplimiento de la política cultural planteada en el Programa Delegacional de Fomento y Desarrollo Cultural.
 
+> <small>(REFORMADO, G.O. 3 DE MAYO DE 2006)</small>
+
 ###### ARTÍCULO 34.
 
-Los Consejos Delegacionales colaborarán con el Jefe Delegacional en la elaboración del Programa Delegacional, planteando opiniones o sugerencias concretas que sirvan para promover el fomento cultural de la demarcación, conforme al Programa General de Fomento y Desarrollo Cultural del Distrito Federal.
+Los Consejos Delegacionales colaborarán con el Jefe Delegacional en la elaboración del Programa Delegacional, planteando opiniones o sugerencias concretas que sirvan para promover el fomento cultural de la demarcación, conforme al Programa General de Fomento y Desarrollo Cultural del Distrito Federal, debiendo sesionar trimestralmente mediante convocatoria del Jefe Delegacional, con un quórum de las dos terceras partes del total de los integrantes, sin perjuicio de que sean convocadas las sesiones extraordinarias que se consideren pertinentes.
 
 ###### ARTÍCULO 35.
 
@@ -542,9 +546,11 @@ II. Para efectos de la representación social, se integrarán al Consejo Delegac
 
 III. Los Consejeros Delegacionales representantes de la comunidad artística y cultural, se integrarán a invitación expresa del Jefe Delegacional y ratificados por los Consejeros Delegacionales a que se refieren los incisos a, b, c y d de la fracción I de este artículo.
 
+> <small>(REFORMADO, G.O. 3 DE MAYO DE 2006)</small>
+
 ###### ARTÍCULO 40.
 
-Los integrantes de los Consejos Delegacionales, a que se refiere el inciso e de la fracción I del artículo anterior, se renovarán cada tres años. El cargo de Consejero Delegacional será de carácter honorario.
+Los integrantes de los Consejos Delegacionales, a que se refiere el inciso e de la fracción I del artículo anterior, se renovarán cada tres años, entendiéndose que los consejeros han cumplido con el encargo de tres años al término de la administración para el efecto de ser relevados por quienes sean designados al inicio de la siguiente, sin perjuicio de que puedan ser confirmados en su representación tras una consulta a la comunidad artística y cultural con presencia en la Delegación, coincidente con la propuesta de nuevos consejeros. El cargo de Consejero Delegacional será de carácter honorario.
 
 ## TITULO QUINTO. De la Participación Social
 
@@ -735,3 +741,9 @@ PRIMERO.- Túrnese al Jefe de Gobierno del Distrito Federal para su promulgació
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 TERCERO.- Se derogan todas las disposiciones que contravengan lo dispuesto por el presente decreto.
+
+G.O. 3 DE MAYO DE 2006.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión también publíquese en el Diario Oficial de la Federación.
+
+SEGUNDO.- Dentro de los treinta días siguientes al de aquel de entrada en vigor del presente decreto, cada uno de los 16 Jefes Delegacionales integrará formalmente el Consejo Delegacional de Fomento y Desarrollo Cultural respectivo, estableciendo en la primera sesión la fecha para cada una de las sesiones ordinarias trimestrales que deberán celebrarse en el ejercicio 2006. Del acta correspondiente se elaborará minuta que será remitida a la Secretaría de Cultura para conocimiento de esa dependencia y del Consejo de Fomento y Desarrollo Cultural del Distrito Federal.
