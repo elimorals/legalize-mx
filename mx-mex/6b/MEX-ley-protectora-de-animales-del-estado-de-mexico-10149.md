@@ -4,7 +4,7 @@ identifier: "MEX-ley-protectora-de-animales-del-estado-de-mexico-10149"
 country: "mx"
 rank: "ley"
 publication_date: "1985-09-04"
-last_updated: "1997-02-07"
+last_updated: "2006-05-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 LEY PROTECTORA DE ANIMALES DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL LA GACETA DEL GOBIERNO: 7 DE FEBRERO DE 1997.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL DECRETO NUMERO 183, PUBLICADO EN LA G.G. DE 3 DE MAYO DE 2006. LA PRESENTE LEY QUEDARA ABROGADA; PARA SU ENTRADA EN VIGOR VEASE ARTICULO SEGUNDO TRANSITORIO DEL CITADO DECRETO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL LA GACETA DEL GOBIERNO: 3 DE MAYO DE 2006.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 4 de septiembre de 1985.
 
@@ -458,3 +460,51 @@ Este Código entrará en vigor a los 30 días naturales siguientes al de su publ
 ###### ARTÍCULO QUINTO.
 
 Se reforman los artículos...45 de la Ley Protectora de Animales del Estado de México...
+
+G.G. 3 DE MAYO DE 2006.
+
+CODIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MEXICO.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial Gaceta del Gobierno.
+
+SEGUNDO. El Código para la Bioversidad del Estado de México y las reformas y derogaciones al Código Administrativo del Estado de México, entrarán en vigor a los ciento ochenta días hábiles siguientes al de su publicación en la Gaceta del Gobierno.
+
+TERCERO. Se abroga la Ley Protectora de Animales del Estado de México.
+
+CUARTO. El Ejecutivo del Estado expedirá a los ciento ochenta días hábiles siguientes a la publicación de este Código los reglamentos necesarios para la aplicación del presente Ordenamiento. Asimismo el Ejecutivo procurará que los reglamentos contengan un glosario de los términos técnicos empleados por el presente Código. Además las autoridades estatales y municipales en el ámbito de su competencia emitirán las normas ambientales a las que hacen referencia los Libros que conforman este Código en un plazo no mayor de noventa días hábiles posteriores a la entrada en vigor de los reglamentos que se señalan.
+
+QUINTO. En tanto se expiden los reglamentos a que se refiere el artículo anterior se aplicarán las disposiciones reglamentarias en vigor que no sean contrarias a las previsiones del presente Código.
+
+SEXTO. Los procedimientos y recursos administrativos iniciados al amparo de la ley que se abroga, libros y artículos que se reforman y derogan que se encuentren en trámite al entrar en vigor el presente Ordenamiento se sustanciarán y resolverán conforme las disposiciones legales anteriores.
+
+SEPTIMO. En relación con las disposiciones del Libro Segundo, Del Equilibrio Ecológico, la Protección al Ambiente y el Fomento al Desarrollo Sostenible se estará a lo siguiente:
+
+La administración de los parques estatales y municipales existentes deberá ajustarse a lo dispuesto en el Libro Segundo sin perjuicio de que se observen las disposiciones legales aplicables en materia de bienes del dominio público del Estado y los Municipios.
+
+En tanto se expiden los ordenamientos ecológicos municipales serán de observancia obligatoria los ordenamientos ecológicos regionales.
+
+En tanto se expide el acuerdo mediante el cual se determina la clasificación de las actividades que deban considerarse riesgosas a que se refiere el artículo 2.185 deberá estarse a los listados que hasta el momento aplique la Secretaría del Medio Ambiente.
+
+OCTAVO. El segundo párrafo del artículo 2.307 se contemplará en el Presupuesto de Egresos correspondiente y entrará en vigor el primero de enero de 2007.
+
+NOVENO. El Estado en coordinación con las autoridades municipales según corresponda aplicarán lo dispuesto en este Código en aquellas materias cuya competencia no corresponda a dichos órdenes de gobierno antes de la entrada en vigor del presente Código hasta en tanto sean expedidos o modificados los ordenamientos señalados en el artículo quinto transitorio.
+
+DECIMO. Las licencias, permisos y autorizaciones otorgadas con anterioridad a la fecha de entada en vigor de este Código seguirán vigentes, su prorroga e inspección se sujetarán a las disposiciones del presente Código.
+
+DECIMO PRIMERO. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan al presente Código.
+
+DECIMO SEGUNDO. Para los efectos de lo previsto por el Libro Tercero, Del Fomento para el Desarrollo Forestal Sostenible, el Servicio Estatal Forestal se instalará a convocatoria del titular de la Secretaría dentro de un término que no exceda a los seis meses siguientes a la entrada en vigor del presente Código.
+
+DECIMO TERCERO. Para los efectos de lo previsto por el Libro Cuarto, De la Prevención y Gestión Integral de Residuos se estará a lo siguiente:
+
+La obligación de implantar sistemas de recolección selectiva y demás obligaciones establecidas al Estado y Municipios serán exigibles gradualmente de acuerdo a los programas que cada Municipio presente de acuerdo a sus capacidades presupuestarias y financieras de conformidad con lo que establezcan los reglamentos respectivos.
+
+DECIMO CUARTO. Para los efectos de lo previsto por el Libro Quinto, De la Preservación, Fomento y Aprovechamiento Sostenible de la Vida Silvestre se estará a lo siguiente:
+
+La Secretaría en los términos previstos por este Ordenamiento participará en un plazo máximo de noventa días a partir de la entrada en vigor del presente Código en el Consejo Consultivo Nacional para la Conservación y Aprovechamiento Sustentable de la Vida Silvestre.
+
+En tanto se establecen los registros estatales y municipales de prestadores de servicios vinculados a la transformación, tratamiento, preparación, transporte y comercialización de ejemplares, partes y derivados de la vida silvestre la Secretaría llevará un registro a nivel estatal.
+
+En tanto se establezcan los registros para la tenencia de mascotas de especies silvestres la Secretaría llevará un registro a nivel estatal para la regularización voluntaria de su legal detentación para lo cual se dará un plazo de dos años.
+
+DECIMO QUINTO. Para los efectos de lo previsto por el Libro Sexto, De la Protección y Bienestar Animal se concede a los propietarios o arrendatarios de ranchos o haciendas, expendios de animales, centros de exhibición y exposición de especies de animales domésticos un plazo de seis meses para que se cumplimenten las obligaciones que les impone el presente Ordenamiento. Asimismo el Ejecutivo Estatal expedirá los reglamentos correspondientes dentro de los ciento veinte días hábiles posteriores a la entrada en vigor del Libro Sexto y por lo que hace a las normas técnicas estatales se expedirán dentro de los ciento ochenta días naturales a la fecha de la entrada en vigor del presente Decreto.
