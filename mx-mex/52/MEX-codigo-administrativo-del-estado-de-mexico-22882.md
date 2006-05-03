@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2006-01-05"
+last_updated: "2006-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ENERO DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 183, PUBLICADO EN LA G.G. DE 3 DE MAYO DE 2006, LAS MODIFICACIONES AL PRESENTE ORDENAMIENTO ENTRARAN EN VIGOR A LOS 180 DIAS HABILES SIGUIENTES AL DE SU PUBLICACION.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE MAYO DE 2006.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -51,7 +53,7 @@ I. Salud;
 
 II. Educación, ejercicio profesional, investigación científica y tecnológica, cultura, deporte, juventud y mérito civil;
 
-III. Conservación ecológica y protección al ambiente;
+III. (DEROGADA, G.G. 3 DE MAYO DE 2006)
 
 IV. Ordenamiento territorial de los asentamientos humanos y del desarrollo urbano de los centros de población;
 
@@ -1349,95 +1351,57 @@ Impuesto el arresto, se comunicará la resolución a la autoridad correspondient
 
 ###### Artículo 4.
 
-29.- Las áreas naturales protegidas de competencia estatal se establecerán mediante declaratoria expedida por el Gobernador del Estado, con la participación de los municipios.
-
-Las zonas de preservación ecológica de los centros de población se establecerán en los planes municipales de desarrollo urbano.
+29.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-30.- Previamente a la expedición de la declaratoria a que se refiere el artículo anterior, la Secretaría de Ecología o los interesados en su caso, realizarán los estudios que la justifiquen, los que una vez concluidos deberán ser puestos a disposición del público para su consulta por un plazo no menor de treinta días naturales.
-
-La Secretaría de Ecología deberá tomar en cuenta los comentarios recibidos y poner a disposición de los interesados en su caso, la respuesta a dichos comentarios.
+30.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-31.- La declaratoria para el establecimiento de las áreas naturales protegidas a que se refiere este Capítulo contendrá, por lo menos, los aspectos siguientes:
-
-I. La delimitación precisa del área, señalando la superficie, ubicación y deslinde, así como la zonificación correspondiente;
-
-II. Las modalidades a que se sujetará, dentro del área, el uso o aprovechamiento de los elementos y recursos naturales en general, o específicamente de aquellos sujetos a protección;
-
-III. La descripción de actividades que podrán llevarse a cabo en el área correspondiente y las modalidades y limitaciones a que se sujetarán;
-
-IV. La causa de utilidad pública que en su caso fundamente la expropiación de terrenos para que el Estado o municipio adquiera su dominio, cuando así fuere necesario;
-
-V. Los lineamientos generales para la administración, el establecimiento de comités técnicos representativos y la creación de fondos o fideicomisos;
-
-VI. Los lineamientos para la realización de las acciones de preservación, restauración y aprovechamiento de los recursos naturales dentro de las áreas naturales protegidas, para su administración y vigilancia, así como para la elaboración de las reglas administrativas a que se sujetarán las actividades dentro del área respectiva;
-
-VII. Los lineamientos para la elaboración del programa de manejo del área.
+31.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-32.- En la declaratoria a que se refiere el artículo anterior, se determinará la forma como deban realizarse las acciones y medidas de protección al ambiente; de preservación y restauración del equilibrio ecológico; y, en su caso, los límites y condiciones a los que deberá sujetarse el aprovechamiento de los recursos y elementos naturales dentro de las áreas naturales protegidas, así como los lineamientos para su administración y vigilancia.
+32.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-33.- La declaratoria deberá publicarse en la Gaceta del Gobierno e inscribirse posteriormente en el Registro Público de la Propiedad.
+33.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-34.- Las áreas naturales protegidas establecidas podrán comprender predios sujetos a cualquier régimen de propiedad.
-
-La Secretaría de Ecología promoverá que las autoridades federales, estatales y municipales, dentro del ámbito de sus competencias y en los términos que establezcan las disposiciones jurídicas aplicables y, en su caso, los programas de manejo, den prioridad a proyectos productivos dentro de las áreas naturales protegidas.
+34.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-35.- Una vez establecida un área natural protegida, sólo podrá ser modificada su extensión y, en su caso, los usos del suelo permitidos o cualquiera de sus disposiciones por la autoridad que la haya establecido.
+35.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-36.- En el otorgamiento o expedición de concesiones, permisos, licencias y, en general, cualquier autorización en las áreas naturales protegidas a que se refiere este Capítulo, la autoridad competente observará las disposiciones de este Libro, las declaratorias de creación de dichas áreas y programas de manejo correspondientes.
+36.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-37.- La Secretaría de Ecología o el ayuntamiento, según corresponda, formulará, dentro del plazo de un año contado a partir del establecimiento de un área natural protegida, el programa de manejo correspondiente, dando participación a los habitantes, propietarios y poseedores de los predios en ella incluidos, a las demás dependencias competentes, los gobiernos municipales, en su caso, así como a organizaciones sociales, públicas o privadas, y demás personas interesadas.
-
-El programa de manejo deberá contener, por lo menos, lo siguiente:
-
-I. La descripción general de las características físicas, biológicas, sociales, culturales e históricas del área natural protegida, así como el análisis de la situación que guarda la tenencia de la tierra en la superficie respectiva;
-
-II. Las acciones a realizar a corto, mediano y largo plazos, estableciendo su vinculación con el Plan Estatal de Desarrollo, así como con los programas sectoriales correspondientes. Dichas acciones comprenderán, entre otras las siguientes: de investigación y educación ambientales; protección y aprovechamiento sustentable de los recursos naturales, la flora y la fauna; para el desarrollo de actividades recreativas, turísticas, obras de infraestructura y demás actividades productivas; de financiamiento para la administración del área natural; de prevención y control de contingencias; de vigilancia y las demás que por las características propias del área natural protegida se requieran;
-
-III. La forma en que se organizará la administración del área y los mecanismos de participación de los individuos y comunidades asentadas en la misma, así como de todas aquellas personas, instituciones y organizaciones interesadas en su protección y aprovechamiento sustentable;
-
-IV. Los objetivos específicos del área natural protegida;
-
-V. La referencia a las normas oficiales mexicanas, normas técnicas estatales y demás disposiciones legales aplicables a todas y cada una de las actividades a que esté sujeta el área;
-
-VI. Los inventarios biológicos existentes y los que se prevea realizar;
-
-VII. Las reglas de carácter administrativo a que se sujetarán las actividades que se desarrollen en el área natural protegida de que se trate.
-
-La Secretaría de Ecología y los ayuntamientos, según corresponda, deberán publicar en la Gaceta del Gobierno un resumen del programa de manejo respectivo y el plano de localización del área natural protegida.
+37.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-38.- La Secretaría de Ecología podrá, una vez que cuente con el programa de manejo respectivo, otorgar a los gobiernos municipales, así como a ejidos, comunidades agrarias, pueblos autóctonos, grupos y organizaciones sociales y demás personas físicas o morales interesadas, la administración de las áreas naturales protegidas. Asimismo, para tal efecto, se deberán suscribir los convenios o acuerdos correspondientes.
+38.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-39.- En el establecimiento, administración, manejo y desarrollo de las áreas naturales protegidas se impulsará la participación de las organizaciones sociales y privadas, dando preferencia a los propietarios o poseedores.
+39.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-40.- Todos los actos, convenios y contratos relativos a la propiedad, posesión o cualquier derecho relacionado con bienes inmuebles ubicados en áreas naturales protegidas deberán contener referencia de la declaratoria correspondiente y de sus datos de inscripción en el Registro Público de la Propiedad.
-
-Los notarios y cualesquiera otros fedatarios públicos sólo podrán autorizar las escrituras públicas, actos, convenios o contratos en los que intervengan, cuando se cumpla con lo dispuesto en el presente artículo.
+40.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-41.- Los ingresos que el Estado y los municipios recauden por concepto de otorgamiento de concesiones, permisos, licencias y en general cualquier autorización en materia de áreas naturales protegidas, conforme a las disposiciones fiscales aplicables, se destinarán a la realización de acciones de conservación de la biodiversidad, dentro de las áreas en las que se generen dichos ingresos.
+41.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
+
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, G.G. 3 DE MAYO DE 2006)</small>
 
 ## TITULO SEGUNDO. De la educación
 
@@ -1451,43 +1415,41 @@ Los notarios y cualesquiera otros fedatarios públicos sólo podrán autorizar l
 
 ###### Artículo 4.
 
-120.- La Secretaría de Ecología llevará un registro de todas las personas físicas o morales, en el Estado de México, que se dediquen de manera habitual a las actividades a que se refiere el presente capítulo; dicho registro será voluntario para las personas señaladas y tendrá como finalidad contar con un listado de organizaciones sociales y privadas, empresas, colegios de profesionistas e instituciones de educación superior e investigación, con el fin de hacer efectivos los derechos de participación social establecidos en este ordenamiento.
+120.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-121.- Las personas morales que deseen obtener el registro al que se refiere este capítulo deberán constituirse como asociaciones civiles en términos de lo dispuesto por el Código Civil de la entidad y estar inscritas en el Registro Público de la Propiedad; dichas asociaciones se regirán por sus estatutos; sin embargo, en éstos deberá constar de manera expresa y principal la realización de algunos de los fines establecidos en este ordenamiento, para ser sujeto del registro respectivo ante la Secretaría, sin perjuicio de otros fines diversos autorizados por las leyes aplicables para las asociaciones civiles.
+121.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-122.- Las personas morales cuyo domicilio se encuentre fuera del Estado de México, podrán darse de alta en el registro, siempre y cuando cumplan con los requisitos señalados en el artículo anterior.
+122.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
 #### Sección Segunda. Estímulos
 
 ###### Artículo 4.
 
-123.- El Ejecutivo Estatal instrumentará, en el ámbito de su competencia, en la Ley de Ingresos del Estado, los estímulos fiscales que deban obtener las personas físicas o morales y las organizaciones sociales o privadas, que cumplan con los requisitos establecidos en este Libro, que realicen actividades relacionadas con la protección del ambiente y la preservación del equilibrio ecológico.
-
-La Secretaría de Ecología asesorará a toda persona que realice actividades ambientalistas determinadas en este Libro, para obtener estímulos fiscales subsidiados por el Estado en la Ley de Ingresos del Estado.
+123.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-124.- En los programas ambientales del Ejecutivo Estatal, necesariamente se incluirán como apoyos y estímulos para las organizaciones sociales a que se refiere este capítulo, los siguientes:
-
-I. Podrán recibir financiamiento público directo del Gobierno del Estado de México, o privado de cualquier especie, para la implementación y operación de programas de preservación o restauración del equilibrio ecológico; uso o aprovechamiento sustentable de elementos naturales; de educación o difusión de la cultura ambientalista; o de cualquier otra clase que tenga por objeto la consecución de los fines de interés público regulados por este Libro y que, eventualmente, sea autofinanciable. A tal financiamiento tendrán derecho, en la forma y términos que disponga el reglamento respectivo, siempre y cuando estén registradas y cumplan con las disposiciones de este Libro;
-
-II. Dentro de los tiempos oficiales a los que tenga derecho el Gobierno del Estado en los medios electrónicos de comunicación local, tendrán acceso de manera conjunta y en la manera y términos establecidos en el reglamento respectivo, a un tiempo suficiente en televisión y radio, para difundir libre y responsablemente los programas que estimen convenientes para la realización de sus fines.
+124.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-125.- Las personas físicas o morales que se dediquen de manera habitual a las actividades ambientales reconocidas en este Libro, no podrán obtener el derecho al beneficio de los estímulos fiscales, cuando realicen de manera sistemática conductas prohibidas por este Libro.
+125.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
-La Secretaría gestionará ante las autoridades fiscales correspondientes la pérdida de estímulos cuando se viole este Libro o sus reglamentos, sin perjuicio de hacer la denuncia pública ante los medios de comunicación.
+> <small>(DEROGADA CON EL ARTICULO QUE LA INTEGRA, G.G. 3 DE MAYO DE 2006)</small>
 
 #### Sección Tercera. Del Fondo de Apoyo a Proyectos Ambientales
 
 ###### Artículo 4.
 
-126.- El Ejecutivo Estatal a través de la Secretaría de Ecología, promoverá con los sectores social, privado y público, así como con el Consejo Consultivo para el Desarrollo Sustentable de la Entidad, la constitución de un Fondo que esté destinado a apoyar e impulsar los proyectos que se sometan a su consideración y que, por su vinculación con las estrategias estatales de desarrollo sustentable resulten seleccionadas.
+126.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
 # LIBRO TERCERO. De la educación, ejercicio profesional, investigación científica y tecnológica, cultura, deporte, juventud, instalaciones educativas y mérito civil
 
@@ -1766,6 +1728,8 @@ VII. Publicar anualmente en la Gaceta del Gobierno una relación de las asociaci
 30.- El Gobernador del Estado, previo dictamen de la Secretaría de Educación, Cultura y Bienestar Social y oyendo la opinión de las instituciones de educación media superior y superior, de las asociaciones de profesionistas, y del Consejo Técnico de Educación, expedirá los reglamentos correspondientes a los distintos campos de acción profesional.
 
 ### CAPITULO CUARTO. De la información ambiental
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
 ###### Artículo 3.
 
@@ -2193,6 +2157,8 @@ Los ingresos del Comité, así como los productos e instrumentos financieros aut
 
 ## TITULO PRIMERO. Disposiciones generales
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
+
 ### CAPITULO TERCERO. De los programas de ordenamiento ecológico
 
 ###### Artículo 3.
@@ -2291,6 +2257,8 @@ VII. Incumplir cualesquiera de los preceptos de este Libro, así como, las demá
 
 ## TITULO SEGUNDO. De la política ambiental y sus instrumentos
 
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, G.G. 3 DE MAYO DE 2006)</small>
+
 ###### Artículo 3.
 
 70.- La revocación de la autorización otorgada a particulares producirá efectos de clausura del servicio educativo de que se trate.
@@ -2325,1033 +2293,561 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 76.- Las asociaciones de profesionistas que se ostenten con el carácter de colegios, sin contar con registro de la Secretaría de Educación, Cultura y Bienestar Social, serán sancionadas con multa de cien a mil veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción.
 
+> <small>(DEROGADO CON LOS TITULOS, CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
+
 # LIBRO CUARTO. De la conservación ecológica y protección al ambiente para el desarrollo sustentable
+
+> <small>(DEROGADO CON LOS CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
 ## TITULO TERCERO. De la conservación ecológica
 
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
+
 ### CAPITULO PRIMERO. De las áreas naturales protegidas
 
-###### Artículo 4.
-
-1.- Este Libro tiene por objeto regular las acciones a cargo del Estado y los municipios en materia de conservación ecológica y protección al ambiente en el marco de las políticas establecidas para el desarrollo sustentable.
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
 ###### Artículo 4.
 
-2.- Las disposiciones de este Libro tienen como finalidad:
+1.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
-I. Garantizar el derecho de toda persona a vivir en un ambiente adecuado para su desarrollo y bienestar;
+###### Artículo 4.
 
-II. Realizar un aprovechamiento sustentable de los recursos naturales;
-
-III. Fomentar la participación corresponsable de la sociedad en la preservación y restauración del equilibrio ecológico.
+2.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ### CAPITULO SEGUNDO. De las áreas voluntarias de conservación ecológica
 
 ###### Artículo 4.
 
-42.- Las personas interesadas podrán destinar voluntariamente sus predios a acciones de conservación ecológica de los ecosistemas y su biodiversidad representativos del Estado. Para tal efecto, solicitarán a la Secretaría de Ecología la expedición del certificado que reconozca sus predios como área voluntaria de conservación ecológica.
+42.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
 ###### Artículo 4.
 
-3.- Son aplicables a este Libro los conceptos previstos en la Ley General del Equilibrio Ecológico y la Protección al Ambiente y los que se establezcan en la reglamentación correspondiente.
+3.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
+
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, G.G. 3 DE MAYO DE 2006)</small>
 
 ### CAPITULO TERCERO. De la flora y la fauna silvestres
 
 ###### Artículo 4.
 
-43.- La Secretaría de Ecología y los Ayuntamientos, en coordinación con las autoridades federales competentes, coordinarán y promoverán acciones sobre vedas, conservación, repoblamiento y aprovechamiento racional de la flora y fauna silvestres.
+43.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-44.- Queda prohibido en la entidad el tráfico de especies y subespecies silvestres de flora y fauna, terrestres o acuáticas, de conformidad con lo dispuesto por las normas oficiales mexicanas y demás disposiciones aplicables.
+44.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-45.- Para el manejo, control y remediación de los problemas asociados a ejemplares y poblaciones ferales se estará a lo dispuesto en las normas técnicas estatales que al efecto se dicten, así como en las demás disposiciones aplicables.
-
-Para efectos de este artículo se entiende por ejemplares o poblaciones ferales, aquellos pertenecientes a especies domésticas que al quedar fuera del control del hombre, se establecen en el hábitat de la vida silvestre.
+45.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-46.- El Ejecutivo Estatal promoverá el establecimiento de zoológicos, jardines botánicos, viveros, criaderos y granjas piscícolas, con la participación de los ayuntamientos, los propietarios o poseedores del predio en cuestión y organismos sociales.
+46.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
 ###### Artículo 4.
 
-4.- Son autoridades para la aplicación de este Libro la Secretaría de Ecología y los ayuntamientos, a quienes competen el ejercicio de las atribuciones señaladas en la Ley General del Equilibrio Ecológico y la Protección al Ambiente y demás ordenamientos en la materia.
+4.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
 ###### Artículo 4.
 
-5.- El Consejo Consultivo para el Desarrollo Sustentable del Estado de México es un órgano de asesoría, consulta, estudio y opinión del Ejecutivo en materia de conservación ecológica y protección al ambiente en la entidad, así como de promoción de acciones de coordinación y concertación entre los sectores público, social y privado.
+5.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-6.- El Consejo se integra por los representantes de instituciones educativas y de investigación, de organizaciones sociales y no gubernamentales, del sector privado, legisladores locales y federales, delegados de dependencias y entidades federales, presidentes municipales, ambientalistas distinguidos y especialistas en la materia que designe o invite a participar el Gobernador del Estado. Fungirá como presidente un ciudadano que no tenga el carácter de servidor público y sea reconocido por sus conocimientos o actividades relacionadas con el objeto de este Libro.
-
-El Consejo contará con un secretario técnico, designado por el Secretario de Ecología, y con los comités, comisiones y grupos de trabajo necesarios para el cumplimiento de su objeto, y operará en términos del reglamento interno que aprueben sus integrantes.
+6.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-7.- La Secretaría de Ecología otorgará al Consejo, los apoyos necesarios para el cumplimiento de su objeto.
+7.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ### CAPITULO CUARTO. Del aprovechamiento sustentable del agua
 
 ###### Artículo 4.
 
-47.- El Estado y los municipios observarán los criterios señalados en la Ley General del Equilibrio Ecológico y la Protección al Ambiente en:
-
-I. Los planes y programas estatales;
-
-II. El otorgamiento de concesiones, permisos y, en general, toda clase de autorizaciones para el aprovechamiento del agua o la realización de actividades que puedan afectar el ciclo hidrológico y los mantos acuíferos, así como para el establecimiento de plantas de tratamiento, reciclaje y reuso de aguas residuales;
-
-III. La operación y administración de los sistemas de agua potable, drenaje, alcantarillado y tratamiento y disposición final de aguas residuales;
-
-IV. Las medidas que adopte el Ejecutivo Estatal para evitar el deterioro de la calidad del agua;
-
-V. Las regulaciones de las descargas de aguas residuales de carácter municipal, de origen industrial o de actividades agropecuarias o de servicios.
+47.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-48.- Con objeto de garantizar el uso y disponibilidad del agua, así como el de abatir su desperdicio, la Secretaría de Ecología y los ayuntamientos promoverán el ahorro del agua potable, el reuso de aguas residuales tratadas, la realización de obras destinadas a la captación y utilización de aguas pluviales, y la recarga de mantos acuíferos.
+48.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-49.- La Secretaría de Ecología promoverá acciones para evitar y, en su caso, controlar los procesos de deterioro y de contaminación en las corrientes y cuerpos de agua en la entidad.
+49.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
+
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
 ###### Artículo 4.
 
-8.- La Secretaría de Ecología promoverá ante los ayuntamientos de la entidad la creación de consejos municipales de protección al ambiente, a fin de que les sirvan como órganos de apoyo para el mejor desempeño de sus funciones. Así mismo se fomentará la constitución de comités comunitarios o vecinales con objeto de alentar la participación social en el cuidado, conservación y restauración del ambiente en sus localidades.
+8.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
+
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
 ## TITULO CUARTO. De la protección al ambiente
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
 ### CAPITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 4.
 
-50.- Para la prevención y control de la contaminación de la atmósfera, del agua, de los ecosistemas acuáticos y del suelo, así como de la contaminación visual, por emisiones de ruido, vibraciones, energía térmica y lumínica, radiaciones electromagnéticas y olores perjudiciales, y el aprovechamiento de sustancias no reservadas a la Federación que constituyan depósitos de naturaleza similar a los componentes de los terrenos, tales como rocas o productos de su descomposición que sólo puedan utilizarse para la fabricación de materiales para la construcción u ornamento de obras, se estará a lo dispuesto en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, este Libro, la Ley del Agua del Estado de México, la reglamentación estatal, las normas oficiales mexicanas y normas técnicas estatales y demás disposiciones aplicables.
-
-Las actividades riesgosas, los residuos sólidos municipales e industriales no peligrosos y las contingencias ambientales estarán a lo dispuesto en este Título y, en su caso, a las normas oficiales mexicanas y normas técnicas estatales correspondientes.
-
-La prevención y control de la contaminación generada por la prestación de los servicios públicos municipales, se sujetará a las disposiciones de carácter general que emitan los ayuntamientos.
+50.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-51.- El Gobernador del Estado podrá declarar una zona crítica cuando los niveles de contaminación imperantes en un área determinada pongan en riesgo la salud de la población o los ecosistemas.
+51.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-52.- Corresponderá a la Secretaría de Ecología, emitir dictámenes de factibilidad en materia ambiental de conformidad con lo que establezca el programa de ordenamiento ecológico.
+52.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-53.- La Secretaría de Ecología deberá llevar un inventario de emisiones atmosféricas y de residuos industriales no peligrosos. Los ayuntamientos llevarán el inventario de emisiones atmosféricas de las fuentes fijas de su competencia.
+53.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
 ###### Artículo 4.
 
-9.- La Secretaría de Ecología organizará el Sistema Estatal de Información Ambiental y coordinará el Centro Geomático Ambiental, con el objeto de obtener, generar y procesar la información relativa al agua, aire, suelo, flora, fauna y recursos naturales en general.
+9.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-10.- La Secretaría de Ecología establecerá el Registro Estatal Ambiental, en el que inscribirá la información que obtenga a través del sistema y centro a que se refiere el artículo anterior.
+10.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
-El registro será público, no tendrá efectos constitutivos ni surtirá efectos contra terceros.
+> <small>(DEROGADA CON EL ARTICULO QUE LA INTEGRA, G.G. 3 DE MAYO DE 2006)</small>
 
 ## TITULO QUINTO. De los prestadores de servicios ambientales
 
 ###### Artículo 4.
 
-78.- Las empresas o particulares que presten servicios ambientales deberán obtener su registro ante la Secretaría de Ecología.
+78.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-79.- La Secretaría de Ecología tendrá a disposición del público una lista de las empresas o particulares que presten servicios ambientales y que cuenten con el registro correspondiente.
+79.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
 ### CAPITULO SEGUNDO. De la prevención y control de la contaminación atmosférica
 
 ###### Artículo 4.
 
-54.- La Secretaría de Ecología, en materia de prevención y control de la contaminación atmosférica:
-
-I. Establecerá medidas de prevención y control para reducir las emisiones contaminantes a la atmósfera y exigirá su cumplimiento;
-
-II. Vigilará el cumplimiento de las normas oficiales mexicanas, así como los criterios y normas técnicas estatales que emita para la protección de la atmósfera;
-
-III. Además de lo anterior, en caso de contaminación producida por fuentes fijas:
-
-a) Requerirá, en caso de considerarlo necesario, la instalación de equipos o sistemas de control de emisiones contaminantes y el uso de combustibles;
-
-b) Vigilará el cumplimiento de los criterios ecológicos en los planes de desarrollo urbano estatal, regionales y municipales para el mejoramiento de la calidad del aire;
-
-c) Autorizará los servicios de instalación, mantenimiento, verificación y suministro de equipo y sistemas de recuperación de vapores de gasolina para estaciones de servicio y autoconsumo.
-
-IV. En caso de fuentes móviles, además de lo dispuesto en las fracciones I y II de este artículo:
-
-a) Autorizará y regulará el establecimiento y operación de sistemas de verificación de emisiones de vehículos automotores en circulación;
-
-b) Exigirá a los propietarios o poseedores de vehículos automotores el cumplimiento de las medidas de control dispuestas y en su caso, retirará de la circulación a aquellos vehículos que no acaten la normatividad;
-
-c) Implementará las medidas necesarias para el mejoramiento de la vialidad y transporte colectivo, con el fin de evitar la concentración de emisiones contaminantes, y en caso necesario se coordinará para lograrlo con otras dependencias y entidades federales, estatales y municipales.
-
-Tratándose de prevención y control de la contaminación producida por fuentes móviles, la Secretaría según sea el caso, directamente o mediante acuerdos de colaboración que celebre con los ayuntamientos observará lo dispuesto en este artículo en sus fracciones I y IV.
+54.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-55.- Los propietarios de los vehículos automotores de uso privado o de servicio público deberán:
-
-I. Observar los límites permitidos de emisiones señalados en la normatividad aplicable;
-
-II. Verificar periódicamente las emisiones de contaminantes a la atmósfera, de acuerdo con los programas, mecanismos y disposiciones establecidos;
-
-III. Observar las medidas y restricciones que las autoridades competentes dicten para prevenir y controlar emergencias y contingencias ambientales.
+55.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-56.- Se considerarán fuentes fijas y móviles de jurisdicción municipal:
-
-I. Los hornos o mecanismos de incineración de residuos derivados de los servicios de limpia, cuya regulación no corresponda al gobierno federal, así como los depósitos para el confinamiento de dichos residuos;
-
-II. Los hornos o mecanismos de incineración de residuos producidos en mercados públicos, tiendas de autoservicio, centrales de abasto y los residuos producidos en estos establecimientos;
-
-III. Los trabajos de pavimentación de calles y construcción de obras públicas y privadas de competencia municipal;
-
-IV. Los baños, balnearios, instalaciones o clubes deportivos, públicos o privados;
-
-V. Los hoteles y establecimientos que presten servicios similares o conexos;
-
-VI. Los restaurantes, panaderías, tortillerías, molinos de nixtamal y, en general, toda clase de establecimientos fijos o móviles que expendan, procesen, produzcan o comercialicen de cualquier manera, al mayoreo o menudeo, alimentos o bebidas al público, directa o indirectamente;
-
-VII. Los hornos de producción de ladrillos, tabiques o similares y aquellos en los que se produzca cerámica de cualquier tipo;
-
-VIII. Los criaderos de todo tipo de aves o de ganado;
-
-IX. Los talleres mecánicos automotrices, de hojalatería y pintura, vulcanizadoras y demás similares o conexos;
-
-X. Los fuegos artificiales en fiestas y celebraciones públicas;
-
-XI. Los espectáculos públicos culturales, artísticos o deportivos de cualquier clase;
-
-XII. Las instalaciones y establecimientos de cualquier clase en ferias populares;
-
-XIII. Las demás fuentes fijas que funcionen como establecimientos comerciales o de servicios al público en los que se emitan olores, gases o partículas sólidas o líquidas a la atmósfera.
+56.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-57.- La Secretaría y los ayuntamientos correspondientes, en materia de contaminación atmosférica, en el ámbito de su competencia, tendrán las siguientes atribuciones:
-
-I. Aplicará los criterios generales para la protección a la atmósfera, en los planes de desarrollo urbano de su competencia, definiendo las zonas en que sea permitida la instalación de industrias contaminantes;
-
-II. Requerirán a los responsables de la operación de fuentes fijas de su jurisdicción, el cumplimiento de los límites máximos permisibles de emisión de contaminantes, de conformidad con lo establecido por las disposiciones jurídicas que resulten aplicables en las normas oficiales mexicanas;
-
-III. Integrarán y mantendrán actualizado el inventario de fuentes de contaminación atmosférica;
-
-IV. Establecerán y operarán, con el apoyo técnico, en su caso, de la Secretaría del ramo a nivel federal, sistemas de monitoreo de la calidad del aire; y remitirán los reportes locales de monitoreo atmosférico a dicha dependencia para integrarlos al Sistema Nacional de Información Ambiental;
-
-V. Establecerán requisitos y procedimientos para regular las emisiones de transporte público dentro del ámbito de sus respectivas competencias, así como las medidas de tránsito respectivas; y, en su caso, la suspensión de la circulación de vehículos automotores, en casos de contingencia ambiental en las fases de grave contaminación;
-
-VI. Tomarán las medidas preventivas necesarias para evitar contingencias ambientales por contaminación atmosférica;
-
-VII. Elaborarán los informes sobre el estado del medio ambiente en su ámbito jurisdiccional según se convenga con la Secretaría del ramo a nivel federal, a través de los acuerdos de coordinación que se celebren;
-
-VIII. Impondrán las sanciones y medidas correctivas de su competencia por infracciones a esta ley, sus reglamentos y los bandos municipales respectivos;
-
-IX. Formularán y aplicarán, con base en las normas oficiales mexicanas emitidas para establecer la calidad ambiental en el territorio nacional, programas de gestión de calidad del aire.
+57.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-58.- Requieren de permiso de la Secretaría de Ecología las personas que realicen quema de materiales a cielo abierto.
+58.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
 ###### Artículo 4.
 
-11.- Toda persona tiene derecho a que las autoridades, en las materias reguladas en este Libro, le proporcionen los datos contenidos en el Sistema Estatal de Información Ambiental, con las excepciones a que se refiere el artículo 1.41 de este Código, y a las siguientes:
+11.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
-I. Se trate de información relativa a procedimientos administrativos en donde la autoridad no ha emitido resolución o dictamen definitivo, salvo en los casos de manifestaciones de impacto ambiental, informes preventivos y denuncia popular;
-
-II. Se trate de información sobre inventarios e insumos y tecnologías de proceso, incluyendo la descripción del mismo.
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
 ###### Artículo 4.
 
-12.- Para la formulación y conducción de la política ambiental estatal y municipal, la Secretaría de Ecología y los gobiernos municipales observarán y aplicarán los principios que al respecto prevé la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+12.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
-Son instrumentos de política ambiental:
-
-I. Los programas en la materia;
-
-II. La regulación ambiental de los asentamientos humanos;
-
-III. Las normas técnicas estatales;
-
-IV. La evaluación del impacto ambiental;
-
-V. Los instrumentos económicos;
-
-VI. La autorregulación y auditorias ambientales;
-
-VII. La educación, cultura e investigación ambiental.
-
-Los instrumentos previstos en las fracciones I, IV y VI, se aplicarán de conformidad con lo dispuesto en los Capítulos correspondientes de este Título; las normas técnicas a que se refiere la fracción III se sujetarán a lo previsto en el Título Sexto del Libro Primero de este Código, así como en este Libro, y los demás instrumentos se regirán por lo establecido en la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, G.G. 3 DE MAYO DE 2006)</small>
 
 ### CAPITULO TERCERO. De las actividades riesgosas
 
 ###### Artículo 4.
 
-59.- La Secretaría de Ecología, mediante acuerdo publicado en la Gaceta del Gobierno, establecerá la clasificación de las actividades que deban considerarse riesgosas para el equilibrio ecológico o el ambiente, en virtud de las características de los materiales que se generen o manejen en establecimientos industriales, comerciales o de servicios, tomando en cuenta los volúmenes de manejo y la ubicación del establecimiento.
+59.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-60.- Cuando se realicen actividades riesgosas, los programas para la prevención en caso de accidentes, se deberán sujetar a la aprobación de la Secretaría de Ecología y de la autoridad de protección civil.
+60.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-61.- Para la determinación de los usos del suelo en los planes de desarrollo urbano, la Secretaría de Ecología promoverá la especificación de las áreas en las que se permitirá el establecimiento de industrias o servicios considerados riesgosos, por los efectos que puedan generar en el ambiente, para lo cual se considerarán:
-
-I. Las condiciones geológicas y meteorológicas de las zonas, de manera que se facilite la rápida dispersión de contaminantes;
-
-II. Su proximidad a centros de población, previendo las tendencias de expansión o de creación de nuevos asentamientos;
-
-III. Los impactos que tendría un posible evento extraordinario de la industria, comercio o servicio de que se trate, sobre los centros de población y los recursos naturales;
-
-IV. La compatibilidad con otras actividades de las zonas;
-
-V. La infraestructura existente y necesaria para la atención de emergencias ambientales;
-
-VI. La infraestructura para la dotación de servicios básicos.
+61.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-62.- Cuando cambien las condiciones en las que se otorgó una autorización para el establecimiento de una fuente fija que lleve a cabo actividades consideradas riesgosas, la Secretaría de Ecología podrá requerir información adicional para ser evaluada y, en su caso, determinar las acciones y medidas para reducir los riesgos que impliquen.
+62.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-63.- La Secretaría de Ecología promoverá ante la autoridad competente que en los programas de desarrollo urbano se disponga que en las zonas intermedias de salvaguarda decretadas no se permitan los usos habitacionales, comerciales y otros que pongan en riesgo a la población.
+63.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
+
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, G.G. 3 DE MAYO DE 2006)</small>
 
 ###### Artículo 4.
 
-13.- El Ejecutivo Estatal en el ámbito de su competencia, incorporará en los diversos niveles, tipos y modalidades educativas contenidos ecológicos y ambientales, teórico-práctico, en los programas de los diversos ciclos educativos, hasta el medio superior, así como en la formación cultural de la niñez y la juventud, dentro de las facultades que les correspondan.
+13.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
-El Ejecutivo Estatal promoverá ante las instituciones de enseñanza media y superior o de investigación científica y tecnológica desarrollen planes y programas de educación ambiental, incorporando criterios y metas de desarrollo sustentable.
-
-Para los fines establecidos en el párrafo anterior se podrán celebrar acuerdos con instituciones de educación superior, centros de investigación, organismos del sector social y privado, organizaciones no gubernamentales, investigadores y especialistas de la materia que operen dentro o fuera del territorio del Estado de México.
-
-El Ejecutivo Estatal desarrollará políticas de comunicación social a través de los medios de comunicación y organismos del sector social y privado, con el objeto de fortalecer la conciencia ecológica de todos los sectores de la población.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
 ###### Artículo 4.
 
-14.- La Secretaría de Ecología elaborará, actualizará y gestionará el programa de ordenamiento ecológico del Estado de México y los programas de ordenamiento ecológico regionales, sujetándose a las disposiciones de la legislación en materia de planeación y a la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
-
-Los Ayuntamientos expedirán su programa de ordenamiento ecológico local que, a diferencia de los mencionados en el párrafo anterior, son de carácter obligatorio para los particulares y, serán congruentes con el programa de ordenamiento ecológico estatal y los regionales.
-
-Su actualización y elaboración deberá regirse bajo la guía metodológica que expida la Secretaría de Ecología.
+14.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ### CAPITULO CUARTO. Prevención y control de la contaminación por ruido, vibraciones, energía térmica y lumínica, olores, vapores, gases y contaminación visual
 
 ###### Artículo 4.
 
-64.- Quedan prohibidas las emisiones de ruido, vibraciones, energía térmica y lumínica, olores, vapores, gases y la generación de contaminación visual, en cuanto rebase los límites máximos establecidos en las Normas Oficiales Mexicanas y en los criterios y normas estatales que para ese efecto se expidan, considerando los valores de concentración máxima permisibles para el ser humano, de contaminación en el ambiente que se determinen. La Secretaría y las autoridades de los municipios del Estado de México, en términos de lo dispuesto por este Libro y los bandos municipales, adoptarán las medidas para impedir que se transgredan dichos límites y aplicarán las sanciones correspondientes.
+64.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
-En la construcción de obras o instalaciones que generen energía térmica o lumínica, ruido o vibraciones, así como en la operación o funcionamiento de las existentes, deben llevarse a cabo acciones preventivas y correctivas para evitar los efectos nocivos de tales contaminantes en el equilibrio ecológico y el ambiente.
-
-###### Artículo 4.
-
-15.- Los programas de ordenamiento ecológico local se sujetarán a las reglas siguientes:
-
-I. La autoridad municipal competente formulará el proyecto de programa de ordenamientos ecológicos o sus modificaciones, y dará aviso público del inicio del proceso de consulta;
-
-II. En el aviso a que se refiere la fracción anterior, se deberá establecer el plazo y el calendario de audiencias públicas para que los particulares presenten por escrito los planteamientos que consideren respecto del proyecto de ordenamiento o de sus modificaciones. Dicho plazo no podrá ser inferior a treinta días naturales y las audiencias correspondientes deberán realizarse, por lo menos, una vez por semana;
-
-III. Se analizarán las opiniones recibidas y las modificaciones del proyecto deberán fundamentarse y estarán a disposición de los interesados en las oficinas de la autoridad correspondiente durante un plazo que no podrá ser menor a un mes;
-
-IV. Cumplidas las formalidades anteriores, el programa de ordenamiento local o sus modificaciones se aprobarán y expedirán, en su caso, por el ayuntamiento correspondiente y se publicarán en la Gaceta del Gobierno, así como en los periódicos de mayor circulación del municipio respectivo;
-
-V. Una vez publicado el programa de ordenamiento local o sus modificaciones, éste y sus documentos integrantes se inscribirán en el Registro Público de la Propiedad y en el Registro Estatal Ambiental;
-
-VI. Los particulares podrán auxiliar a las autoridades municipales correspondientes en la ejecución, vigilancia y evaluación de los programas de ordenamiento a través de los consejos municipales de protección al ambiente.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
 ###### Artículo 4.
 
-16.- Los programas de ordenamiento ecológico regional se sujetarán a las siguientes disposiciones:
+15.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
-I. La Secretaría de Ecología participará en la elaboración, actualización y/o modificación de los ordenamientos ecológicos regionales que involucren dos o más municipios;
+###### Artículo 4.
 
-II. Los ordenamientos ecológicos regionales tendrán que considerar como base las unidades ambientales establecidas en el Programa de Ordenamiento Ecológico Estatal;
+16.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
-III. El Ejecutivo Estatal a través de la Secretaría de Ecología podrá celebrar convenios con las entidades federativas para la realización de ordenamientos regionales.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
 ### CAPITULO QUINTO. De los residuos sólidos municipales e industriales no peligrosos
 
 ###### Artículo 4.
 
-65.- La Secretaría de Ecología emitirá las normas técnicas estatales que regularán la localización, instalación y funcionamiento de los sistemas de recolección, transporte, almacenamiento, manejo, separación, tratamiento y disposición final de residuos sólidos municipales e industriales no peligrosos.
-
-Para efectos de este Capítulo, se entiende por residuos sólidos municipales a aquellos que se generan en casas habitación, parques, jardines, vía pública, oficinas, sitios de reunión, mercados, comercios y establecimientos de servicios y no sean considerados como peligrosos, conforme a la normatividad ambiental.
+65.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-66.- Queda sujeto a la autorización de la Secretaría de Ecología el manejo, transporte, tratamiento y disposición final de residuos industriales no peligrosos.
-
-Para la utilización de residuos industriales no peligrosos se requerirá llevar un control interno por el responsable, así como la presentación de un informe semestral a la Secretaría de Ecología. Para estos efectos, se entenderá por residuo industrial no peligroso, a aquel material derivado de un proceso productivo, que no rebase los parámetros establecidos en el Código CRETIB (corrosivo, reactivo, explosivo, tóxico, inflamable y biológico infeccioso).
+66.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-67.- Para la localización, instalación y funcionamiento de sistemas de manejo, separación, tratamiento y disposición final de residuos sólidos municipales e industriales no peligrosos se tomarán en cuenta las normas oficiales mexicanas, normas técnicas estatales, los ordenamientos ecológicos y los planes estatales y municipales de desarrollo urbano.
+67.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-68.- Los ayuntamientos, directamente o bajo el régimen de concesión a particulares, construirán y operarán estaciones de transferencia, plantas de selección y tratamiento, y sitios de disposición final de residuos sólidos municipales e industriales no peligrosos.
+68.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-69.- El establecimiento de sitios de disposición final de residuos sólidos municipales e industriales no peligrosos, es de utilidad pública, por lo que el Gobernador del Estado podrá declarar la expropiación de terrenos para este fin y establecer medidas para restringir el uso del suelo dentro de estas zonas, previa la comprobación técnica a cargo de los interesados, de que el sitio elegido es el que reúne las condiciones para realizar un confinamiento controlado que garantice la no afectación al ambiente.
+69.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-70.- Cuando se trate de residuos industriales no peligrosos, que provengan de un tratamiento efectuado a un residuo peligroso, eliminando su peligrosidad, éstos serán manejados conforme a lo dispuesto en este Libro, el reglamento que al efecto se expida y las normas oficiales mexicanas y las normas técnicas estatales.
+70.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-71.- La Secretaría de Ecología y los ayuntamientos podrán celebrar convenios o acuerdos de coordinación, colaboración y asesoría, con la participación de las dependencias y entidades de la administración pública estatal y municipales competentes, así como con instituciones públicas o privadas de enseñanza superior, para promover:
-
-I. El establecimiento y mejoramiento de sistemas de recolección, tratamiento y disposición final de residuos sólidos municipales e industriales no peligrosos;
-
-II. El uso y la fabricación de empaques y embalajes de toda clase de productos, cuyos materiales permitan minimizar la generación de residuos sólidos municipales e industriales no peligrosos y facilitar su reutilización y reciclaje, así como su disposición final; o
-
-III. El establecimiento de rellenos sanitarios para el tratamiento y disposición final de residuos sólidos municipales e industriales no peligrosos.
+71.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-72.- Con el objeto de prevenir y controlar los efectos nocivos que puedan ocasionar los residuos sólidos municipales e industriales no peligrosos depositados en predios baldíos, vía pública y en general en terrenos o áreas utilizadas como tiraderos a cielo abierto, los municipios deberán promover y establecer programas de limpieza y control para su erradicación y evitar que se transformen en lugares permanentes de disposición irregular de dichos residuos, así como en focos de insalubridad pública y contaminación ambiental.
+72.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-73.- En ningún caso podrán introducirse residuos peligrosos o no peligrosos para su derrame, depósito, confinamiento, almacenamiento, incineración o cualquier otro tratamiento para su destrucción o disposición final en el territorio del Estado sin contar con el previo consentimiento de la Secretaría de Ecología y de la autoridad municipal correspondiente.
+73.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
 ###### Artículo 4.
 
-17.- La evaluación del impacto ambiental es el procedimiento a través del cual la Secretaría de Ecología autoriza la procedencia ambiental de proyectos específicos, así como las condiciones a que se sujetarán los mismos para la realización de obras o actividades, a fin de evitar o reducir al mínimo sus efectos negativos en el equilibrio ecológico o el ambiente.
-
-Están sujetos a evaluación del impacto ambiental los proyectos que impliquen la realización de las obras y actividades siguientes:
-
-I. Obra pública estatal y municipal;
-
-II. Procesadoras de alimentos, rastros y frigoríficos; procesadoras de bebidas, ladrilleras, textiles, maquiladoras y curtidurías;
-
-III. Corredores, parques y zonas industriales, a excepción de aquellas en las que se prevean la realización de actividades altamente riesgosas de competencia federal;
-
-IV. Exploración, explotación, extracción y procesamiento físico de sustancias minerales que constituyan depósitos de naturaleza semejante a los componentes de los terrenos, tales como la roca y demás materiales pétreos, o productos de su descomposición que sólo puedan utilizarse para la fabricación de materiales, construcción u ornamento de obras;
-
-V. Sistemas de manejo y disposición de residuos sólidos e industriales no peligrosos;
-
-VI. Confinamientos, rellenos sanitarios, estaciones de transferencia, e instalaciones de tratamiento o de eliminación de residuos sólidos municipales e industriales no peligrosos;
-
-VII. Conjuntos urbanos, nuevos centros de población y los usos de suelo que requieran de dictamen de impacto regional en términos del Libro Quinto de este Código;
-
-VIII. Terminales de transporte para pasajeros y de carga, de carácter estatal o municipal;
-
-IX. Clínicas y hospitales;
-
-X. Plantas de tratamiento o eliminación de aguas residuales, sistemas de drenaje y alcantarillado, represamientos y plantas de potabilización de aguas;
-
-XI. Granjas agrícolas o pecuarias de explotación intensiva;
-
-XII. Obras y actividades en áreas naturales protegidas de competencia estatal o municipal;
-
-XIII. Centrales de abasto y mercados;
-
-XIV. Panteones y crematorios;
-
-XV. Estaciones de servicios o gasolineras y estaciones de carburación de gas, bodegas de almacenamiento de cilindros y contenedores de gas y actividades donde se manejen sustancias riesgosas, cuando no sean competencia del Gobierno Federal;
-
-XVI. Las demás que se establezcan en el reglamento de este Libro que puedan causar impactos ambientales significativos de carácter adverso y que, por razón de la obra o actividad de que se trate no sean de jurisdicción federal.
-
-La reglamentación de este Libro podrá eximir de la evaluación del impacto ambiental a aquellos proyectos que, si bien se encuentren previstos en este artículo, no produzcan impactos ambientales significativos de carácter adverso o no causen desequilibrios ambientales debido a su ubicación, dimensiones o características.
+17.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-18.- Para obtener la autorización a que se refiere el artículo anterior, los interesados presentarán a la Secretaría de Ecología una manifestación de impacto ambiental, la cual será elaborada por un prestador de servicios ambientales. Dicha manifestación deberá contener, por lo menos, una descripción y evaluación de los efectos que previsiblemente podrá tener el proyecto específico en el o los ecosistemas, considerando el conjunto de los elementos que los conforman, así como las medidas preventivas, de mitigación y las necesarias para evitar y reducir al mínimo los efectos negativos sobre el ambiente. En el caso de las actividades riesgosas a que se refiere el artículo 4.59, la manifestación de impacto ambiental deberá de acompañarse de un estudio de riesgo.
-
-Una vez recibida la manifestación de impacto ambiental, la Secretaría de Ecología la pondrá a disposición del público, en los términos que se establezcan en el reglamento correspondiente.
-
-La Secretaría de Ecología, a solicitud del promovente, integrará en la resolución de la autorización en materia de impacto ambiental los demás permisos, licencias y autorizaciones de su competencia que se requieran para la realización del proyecto correspondiente.
+18.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-19.- Cuando los interesados consideren que la obra o actividad que realizarán no producirá impactos ambientales significativos de carácter adverso, podrán exhibir ante la Secretaría de Ecología un informe previo que permita establecer en forma mínima las condiciones, objetivos e infraestructura del proyecto correspondiente. La Secretaría elaborará y publicará las guías generales y específicas a las que deberá ajustarse la presentación del informe previo.
-
-Mediante la evaluación y análisis del informe previo, la Secretaría de Ecología determinará si es necesario o no elaborar y exhibir la manifestación de impacto ambiental para la autorización del proyecto respectivo, así como la modalidad en la que, en su caso, deberá formularse, y señalará los lineamientos, condiciones y normas oficiales mexicanas y normas técnicas estatales aplicables para la obra o actividad de que se trate.
-
-En todo caso, se presentará un informe previo cuando:
-
-I. Existan normas oficiales mexicanas o normas técnicas estatales que regulen las emisiones, descargas, aprovechamiento de recursos naturales y, en general, todos los impactos ambientales relevantes que puedan producir las obras o actividades;
-
-II. Las obras o actividades de que se trate estén expresamente previstas en un plan o programa de desarrollo urbano o de centro de población, o en un ordenamiento ecológico que haya sido evaluado por la Secretaría de Ecología;
-
-III. Se trate de instalaciones ubicadas en parques industriales previamente autorizados.
+19.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ## TITULO SEXTO. De los proveedores de equipos y servicios de verificación
 
 ###### Artículo 4.
 
-80.- Los proveedores de equipos y servicios para la operación de los centros de verificación vehicular, deberán contar con autorización de la Secretaría de Ecología.
+80.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-81.- Los proveedores de equipos, programas de cómputo y servicios para la operación de los centros de verificación de emisiones generadas por fuentes móviles están obligados a:
+81.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
-I. Suministrar equipos, programas de cómputo y servicios que cumplan con la normatividad aplicable y proporcionar los manuales de operación;
-
-II. Que el personal que efectúe la instalación, suministro y mantenimiento esté debidamente capacitado;
-
-III. En su caso, prestar los servicios de mantenimiento a los equipos instalados cerciorándose de que éstos cumplan con los requisitos previstos en las disposiciones aplicables;
-
-IV. Llevar un registro con la información de las operaciones de mantenimiento y reparación de equipos, remitiendo un informe mensual a la Secretaría de Ecología;
-
-V. Dar aviso a la Secretaría de Ecología cuando dejen de prestar el servicio de suministro y mantenimiento de equipos y programas de cómputo;
-
-VI. Mantener en vigor la fianza para garantizar el cumplimiento de las obligaciones y la confidencialidad durante la vigencia de la autorización correspondiente. La fianza se hará efectiva en caso de que la prestación del servicio contravenga las disposiciones aplicables.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
 ### CAPITULO SEXTO. De las contingencias ambientales
 
 ###### Artículo 4.
 
-74.- Las autoridades competentes declararán contingencia ambiental cuando se presente o se prevea, con base en análisis objetivos y en el monitoreo de la contaminación ambiental, una concentración de contaminantes o un riesgo ecológico derivado de actividades humanas o fenómenos naturales que pueden afectar la salud de la población o al ambiente, de acuerdo con las normas oficiales mexicanas, en cuyo caso se aplicarán las medidas establecidas en este Libro, en la propia declaratoria y en el Programa de Contingencia Ambiental publicado en la Gaceta del Gobierno.
+74.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-75.- La declaratoria deberá darse a conocer conjuntamente con las medidas correspondientes, a través de los medios de comunicación masiva y de los instrumentos que se establezcan para tal efecto. Dichas medidas entrarán en vigor:
-
-I. Tratándose de fuentes fijas localizadas en el Estado de México y sus municipios, en el momento en que se den a conocer;
-
-II. Tratándose de los vehículos automotores que circulen en el Estado de México y sus municipios, al día siguiente al que se den a conocer.
+75.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-76.- Las declaratorias de contingencia ambiental especificarán el plazo durante el cual permanecerán vigentes las medidas establecidas conforme a lo dispuesto en este Libro, así como los términos que, en su caso, podrán prorrogarse.
-
-La Secretaría de Ecología o los ayuntamientos, para controlar una situación de emergencia ecológica o de contingencia ambiental, podrán aplicar las medidas siguientes:
-
-I. Tratándose de fuentes móviles:
-
-a) Restringir o suspender la circulación de vehículos automotores, incluidos los de servicio público local y federal, y los que cuenten con placas de otras entidades federativas o del extranjero, en términos del programa de emergencia o de contingencia y de la declaratoria respectiva, conforme a los criterios siguientes:
-
-1. Número de placas de circulación;
-
-2. Zonas o vías determinadas;
-
-3. Engomado, por día o período determinado.
-
-b) Retirar de la circulación los vehículos que no respeten las limitaciones, suspensiones o restricciones establecidas, e imponer las sanciones correspondientes.
-
-II. Tratándose de fuentes fijas, determinar la reducción o en su caso suspensión de actividades, en los términos y porcentajes indicados en el programa de emergencia o contingencia y en la declaratoria correspondiente;
-
-III. Las demás que se establezcan en los programas de emergencia o contingencia y en la declaratoria respectiva.
-
-La Secretaría de Ecología o el ayuntamiento, según corresponda, podrán exentar a los particulares que lo soliciten del programa de contingencia ambiental, de conformidad con lo que se establezca en la reglamentación correspondiente.
+76.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-77.- Las limitaciones a la circulación de los vehículos automotores previstas en caso de contingencia ambiental, no serán aplicables a los vehículos siguientes:
+77.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
-I. Servicio médico;
-
-II. Seguridad pública;
-
-III. Bomberos y rescate;
-
-IV. Servicio público de transporte de pasajeros;
-
-V. Servicio de transporte de carga, cuando utilicen fuentes de energía, sistemas y equipos anticontaminantes, que así determine la Secretaría de Ecología para minimizar o prevenir sus emisiones;
-
-VI. Cualquier servicio, tratándose de vehículos que no emitan contaminantes o que usen para su locomoción energía solar, eléctrica, gas, gasolina, diesel o cualquier otra fuente de energía, siempre que no excedan los límites de emisiones contaminantes establecidos por las normas oficiales mexicanas o normas técnicas estatales que al efecto se expidan;
-
-VII. Servicio particular en casos en que se acredite o sea manifiesta una emergencia médica;
-
-VIII. En caso de que el vehículo sea utilizado para transportar a una o varias personas con capacidades diferentes.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
 ###### Artículo 4.
 
-20.- Si después de la presentación de una manifestación de impacto ambiental se realizan modificaciones al proyecto de la obra o actividad, los interesados deberán hacerlas del conocimiento de la Secretaría de Ecología, a fin de que ésta determine si es necesaria la presentación de información adicional para evaluar los efectos al ambiente.
-
-Asimismo, si después de obtenida la autorización en materia de impacto ambiental, el titular o responsable de la obra o actividad deciden no ejercerla, deberán comunicarlo por escrito a la Secretaría de Ecología.
+20.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ### CAPITULO PRIMERO. De las medidas de seguridad
 
 ###### Artículo 4.
 
-90.- Cuando la Secretaría de Ecología o la autoridad municipal competente observen que exista riesgo inminente de desequilibrio ecológico o de daño o deterioro graves a los recursos naturales, casos de contaminación con repercusiones peligrosas para los ecosistemas, sus componentes o para la salud pública, u operación indebida de programas de cómputo y equipos que alteren la verificación vehicular, permitiendo la circulación de vehículos que emitan contaminantes excediendo la norma, podrán ordenar alguna o algunas de las medidas de seguridad siguientes:
-
-I. La clausura temporal, parcial o total de las fuentes contaminantes, así como de las instalaciones en que se manejen o almacenen productos o subproductos de sustancias contaminantes o residuos peligrosos o se desarrollen las actividades que den lugar a los supuestos a que se refiere este artículo;
-
-II. El aseguramiento precautorio de materiales que se manejen en la realización de actividades riesgosas, así como de especimenes, bienes, vehículos, utensilios e instrumentos directamente relacionados con la conducta que dé lugar a la imposición de la medida de seguridad;
-
-III. La neutralización o cualquier acción análoga para impedir que materiales que se manejen en la realización de actividades riesgosas generen los efectos previstos en este artículo;
-
-IV. La suspensión de obras o actividades.
-
-La Secretaría de Ecología o la autoridad municipal podrán promover ante la autoridad competente la ejecución de alguna o algunas de las medidas de seguridad que se establezcan en otros ordenamientos.
+90.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-91.- Cuando la autoridad competente ordene alguna de las medidas de seguridad a que se refiere el artículo anterior indicará al interesado, cuando proceda, las acciones que debe llevar a cabo para subsanar las irregularidades, así como los plazos para su realización, a fin de que una vez cumplidas, se ordene el retiro de la medida de seguridad impuesta.
+91.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
 ###### Artículo 4.
 
-21.- Quienes suscriban los informes previos, manifestaciones de impacto ambiental y estudios de riesgo serán responsables ante la Secretaría de Ecología. Asimismo, declararán bajo protesta de decir verdad que en ellos se incorporaron las mejores técnicas y metodologías existentes, así como la información y medidas de prevención y mitigación más efectivas.
+21.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
 ## TITULO SEPTIMO. De los verificadores y laboratorios ambientales
 
 ###### Artículo 4.
 
-82.- La Secretaría atendiendo las necesidades de los servicios de verificación de fuentes de su competencia, expedirá autorizaciones a los interesados que cumplan los requisitos correspondientes. Para tal efecto, emitirá previamente convocatoria pública en la Gaceta del Gobierno, en la cual se determinará la capacidad técnica y financiera y demás condiciones que se deberán reunir para obtener la autorización, las normas y procedimientos de verificación que se deberán observar, así como el número y ubicación de las instalaciones de los verificadores ambientales a ser autorizados.
+82.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-83.- La Secretaría podrá autorizar las siguientes clases de verificadores ambientales:
-
-I. De fuentes fijas;
-
-II. De fuentes móviles.
+83.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-84.- Quienes realicen verificaciones y entreguen los documentos que acrediten su aprobación sin contar con la autorización correspondiente, serán sancionados en los términos de este Libro y las demás disposiciones jurídicas aplicables.
+84.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-85.- Otorgada la autorización para prestar el servicio de verificación de emisiones contaminantes, el interesado contará con el plazo que se fije en la autorización, para iniciar la operación, garantizando previamente el cumplimiento de las obligaciones y condiciones establecidas. El interesado deberá presentar una fianza, cuyo monto será fijado por la Secretaría, tomando en cuenta las circunstancias particulares de los servicios que prestará el propio interesado, misma que deberá ser expedida por compañía autorizada. La fianza deberá permanecer en vigor durante el tiempo que dure la autorización.
+85.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-86.- La autorización para prestar el servicio de verificación de emisiones contaminantes tendrá la vigencia que señale en la autorización respectiva, la que podrá revalidarse en términos del Reglamento correspondiente. La Secretaría podrá revocar la autorización anticipadamente por resolución fundada y motivada, oyendo previamente al interesado. A quien se le revoque la autorización, no podrá volver a otorgársele.
+86.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-87.- Los verificadores ambientales están obligados a:
-
-I. Operar conforme a los sistemas, procedimientos, instalaciones, equipos, plazos y condiciones establecidos en este Libro, las normas oficiales mexicanas, normas técnicas estatales, el programa de verificación, la convocatoria, circulares y autorización correspondientes;
-
-II. Que el personal que efectúe las verificaciones esté debidamente capacitado;
-
-III. Mantener sus instalaciones y equipos calibrados y en óptimas condiciones, así como observar los requisitos señalados en la autorización que otorgue la Secretaría de Ecología para la debida prestación del servicio de verificación;
-
-IV. Destinar exclusivamente a la verificación de emisiones contaminantes sus establecimientos, sin efectuar en éstos reparaciones mecánicas, venta de refacciones automotrices o cualquier otra actividad industrial, comercial o de servicios distinta a la verificación;
-
-V. Llevar un registro con la información de las verificaciones efectuadas y remitir a la Secretaría de Ecología los datos obtenidos en términos de la reglamentación correspondiente;
-
-VI. Dar aviso inmediato a la Secretaría de Ecología cuando dejen de prestar el servicio de verificación o los equipos e instalaciones no funcionen adecuadamente, en cuyo caso se abstendrán de realizar verificaciones hasta en tanto funcionen correctamente;
-
-VII. Conservar en depósito y manejar debidamente los documentos que reciban de la Secretaría de Ecología para acreditar la aprobación de la verificación, hasta que éstos sean entregados al interesado y, en su caso, adheridos a la fuente emisora de contaminantes;
-
-VIII. Dar aviso inmediato a la Secretaría de Ecología en caso de robo o uso indebido de los documentos utilizados para acreditar la aprobación de la verificación, independientemente de la denuncia ante el ministerio público;
-
-IX. Enviar a la Secretaría de Ecología, en los términos establecidos en la reglamentación correspondiente, la documentación requerida para la supervisión y control de la verificación;
-
-X. Que sus establecimientos cuenten con los elementos distintivos determinados por la Secretaría de Ecología;
-
-XI. Cobrar las tarifas autorizadas por la Secretaría de Ecología por la prestación del servicio de verificación;
-
-XII. Mantener en vigor la fianza correspondiente durante la vigencia de la autorización para prestar el servicio de verificación.
+87.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-88.- La Secretaría de Ecología autorizará a los centros de educación superior e investigación, empresas y particulares que realicen servicios de laboratorio que demuestren contar con los recursos humanos y materiales necesarios para realizar análisis de contaminantes en el aire, agua, suelo, subsuelo, materiales o residuos sólidos, ruido, vibraciones, energía térmica y lumínica, olores y vapores, y contaminación visual.
+88.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-89.- Para los efectos del artículo anterior serán reconocidos los laboratorios acreditados de conformidad con la Ley Federal sobre Metrología y Normalización. La Secretaría de Ecología llevará el registro correspondiente.
+89.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
+
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
 ### CAPITULO SEGUNDO. De las infracciones y sanciones
 
 ###### Artículo 4.
 
-92.- Las sanciones por faltas administrativas que impongan la Secretaría de Ecología y las autoridades municipales, en las materias de su competencia, son:
-
-I. Apercibimiento;
-
-II. Amonestación;
-
-III. Multa;
-
-IV. Impedir la circulación de vehículos, remitiéndolos en su caso a los depósitos correspondientes;
-
-V. Suspensión o revocación de concesiones, permisos o autorizaciones;
-
-VI. Arresto administrativo;
-
-VII. Clausura temporal o definitiva, parcial o total;
-
-VIII. Reparación del daño ambiental.
+92.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-93.- Para la imposición de las sanciones a que se refiere el artículo anterior se observarán las reglas siguientes:
-
-I. El apercibimiento, amonestación, remisión de vehículos a depósitos y el arresto administrativo serán aplicadas por la Secretaría de Ecología o la autoridad municipal, pero nunca por ambos a la vez;
-
-II. El apercibimiento y la amonestación constarán por escrito y se aplicarán preferentemente antes de cualquier tipo de sanción, según la gravedad de la infracción cometida;
-
-III. Las multas serán aplicadas por la Secretaría de Ecología o la autoridad municipal, en el ámbito de su competencia, por los montos y bajo las condiciones establecidas en este Libro y demás disposiciones que resulten aplicables;
-
-IV. La suspensión y clausura de actividades y obras, y la suspensión o revocación de concesiones, permisos o autorizaciones, serán aplicadas por la Secretaría de Ecología o la autoridad municipal en su ámbito de competencia;
-
-V. La reparación del daño ambiental será impuesta por autoridad competente previo dictamen técnico.
+93.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-94.- Se sancionará con multa por el equivalente de cuarenta a cien días de salario mínimo general vigente en el área geográfica que corresponda al momento de cometer la infracción, a quien:
-
-I. Genere residuos sólidos de origen doméstico sin atender las disposiciones dictadas por los ayuntamientos;
-
-II. No cumpla con las medidas de ahorro de agua potable;
-
-III. Genere emisiones contaminantes por ruido, vibraciones o energía térmica, lumínica o visual que rebasen los límites fijados en las normas ambientales aplicables;
-
-IV. Pode o trasplante un árbol público o afecte negativamente áreas verdes o jardineras públicas, incluyendo las localizadas en banquetas y camellones, sin la autorización previa de la autoridad competente;
-
-V. Realice actividades que puedan afectar considerablemente la calidad del suelo, porque no apliquen medidas de conservación, protección o restauración dictadas por la autoridad;
-
-VI. No observe los límites permitidos de emisiones señalados en los reglamentos y normas ambientales aplicables a vehículos automotores, ni su periodicidad para verificar;
-
-VII. Derribe un árbol perteneciente a un área natural protegida o en zonas colindantes con ésta, sin la autorización previa de la autoridad competente.
+94.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-95.- Se sancionará con multa de cien a mil días de salario mínimo general vigente en el área geográfica que corresponda al momento de cometer la infracción, cuando se:
-
-I. Impida al personal autorizado el acceso al lugar o lugares sujetos a inspección ambiental, en los términos previstos en la orden escrita;
-
-II. Rebase los límites máximos permitidos de emisiones contaminantes en fuentes fijas o impida la verificación de sus emisiones, salvo tratándose del supuesto a que se refiere la fracción III del artículo anterior;
-
-III. Construya una obra nueva, amplíe una existente o realice nuevas actividades industriales, comerciales o de servicios que puedan afectar al ambiente, sin contar previamente con la autorización del informe preventivo, en los casos en que éste se requiera, así como, a quien contando con autorización, no dé cumplimiento a los requisitos y condiciones establecidos en la misma;
-
-IV. Realice quemas de materiales a cielo abierto sin contar con el permiso correspondiente o que, contando con él, no cumpla con las condicionantes del mismo;
-
-V. Deposite o arroje residuos en la infraestructura vial o queme éstos o cualquier material no peligroso al aire libre;
-
-VI. Genere descargas de agua residual sin cumplir las normas ambientales aplicables;
-
-VII. Realice el manejo y disposición final de residuos sin contar con la autorización respectiva;
-
-VIII. Rebase los límites máximos permisibles contenidos en las normas ambientales aplicables para fuentes móviles, de conformidad con la constancia respectiva;
-
-IX. Deposite materiales o residuos que obstruyan las redes de drenaje y alcantarillado o cuerpos receptores de los municipios;
-
-X. No cumpla con las medidas de tratamiento y reuso de aguas tratadas;
-
-XI. Sea propietaria o poseedora de un vehículo retirado de la circulación por rebasar los límites contenidos en las normas oficiales mexicanas o en los criterios y normas técnicas estatales, de conformidad con la constancia respectiva;
-
-XII. Realice actividades que puedan afectar considerablemente la calidad del suelo, por que no aplique las medidas de conservación, protección, restauración y recuperación dictadas por la autoridad correspondiente;
-
-XIII. Generen descargas domésticas de agua residual o emisiones contaminantes a la atmósfera, agua, suelo o subsuelo, rebasando los límites establecidos en las normas oficiales mexicanas, los criterios y normas técnicas estatales o condiciones particulares de descarga.
+95.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-96.- Se sancionará con multa por el equivalente de mil a cinco mil días de salario mínimo general vigente en el área geográfica que corresponda al momento de cometer la infracción, a quien:
-
-I. Realice obras de actividades de explotación o aprovechamiento de recursos en áreas naturales protegidas, sin sujetarse al programa de manejo del área respectiva;
-
-II. Opere sistemas o plantas de tratamiento sin cumplir con las condiciones particulares de descarga de aguas residuales, así como suspender su operación sin dar aviso a la Secretaría de Ecología, cuando menos con diez días hábiles de anticipación si la suspensión estaba prevista o programada, o dentro de los cinco días hábiles siguientes si la suspensión fue imprevisible;
-
-III. Incumpla las medidas que apliquen las autoridades competentes para limitar, suspender o restringir la circulación vehicular en caso de contingencia ambiental;
-
-IV. No cumpla con los términos y condiciones establecidos en la autorización de la manifestación de impacto ambiental correspondiente;
-
-V. No cuente con la autorización para proveer de equipos y servicios para la operación de los centros de verificación vehicular o, contando con ella, no cumpla con las obligaciones establecidas en el Título Sexto de este Libro;
-
-VI. Siendo propietaria o poseedora de fuentes fijas:
-
-a) No cuente con las autorizaciones en materia de prevención y control de la contaminación a la atmósfera o para el manejo y disposición final de residuos industriales no peligrosos o que, contando con ellas, incumpla los términos y condiciones establecidos en las mismas;
-
-b) Incumpla con los requisitos, procedimientos y métodos de medición y análisis establecidos en las normas ambientales aplicables;
-
-c) No realice la verificación periódica de emisiones contaminantes que le corresponda;
-
-d) No cuente con plataformas o puertos de muestreo para la medición y análisis de emisiones contaminantes, cuando así lo determinen las normas ambientales aplicables;
-
-e) No minimice el consumo de energía o agua, o no restaure la calidad de ésta, de acuerdo con el presente Libro y las normas ambientales aplicables;
-
-f) No cumpla con los programas de prevención, minimización, reciclaje, tratamiento, reuso y disposición de contaminantes y residuos, cuando éstos se requieran por la cantidad o naturaleza de los contaminantes o residuos generados, de conformidad con las normas ambientales aplicables;
-
-g) No de aviso inmediato a las autoridades competentes o no tome las medidas conducentes en caso de emisiones contaminantes por accidentes, fugas, derrames, explosiones o incendios que pongan en peligro o afecten la integridad de las personas o causen un daño ambiental;
-
-h) No acate las medidas que establezcan la Secretaría de Ecología y las demás autoridades competentes en caso de contingencia ambiental o emergencia ecológica, o sean impuestas como medidas de seguridad;
-
-i) Preste el servicio público de transporte de pasajeros en vehículos que no utilicen las fuentes de energía, sistemas y equipos determinados por la autoridad competente, para prevenir o minimizar sus emisiones contaminantes.
+96.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-97.- Se sancionará con multa por el equivalente de mil a cinco mil días de salario mínimo general vigente en el área geográfica que corresponda al momento de cometer la infracción, a quienes verifiquen fuentes móviles que no cumplan con las obligaciones establecidas en el Título Séptimo de este Libro, o que:
-
-I. Expidan constancias o reportes de verificación alteradas, o que no reúnan los requisitos correspondientes;
-
-II. No entreguen al propietario o poseedor de una fuente emisora de contaminantes la constancia correspondiente o, en caso de ser aprobatoria, no adhiera la calcomanía o el documento respectivo en dicha fuente;
-
-III. Realicen verificaciones para las cuales no estén autorizados;
-
-IV. Usen o entreguen constancias, calcomanías o documentos que acrediten la aprobación de la verificación de emisiones contaminantes, sin haber aprobado la verificación correspondiente.
-
-Sin perjuicio de lo anterior, quien incumpla cualquiera de las obligaciones establecidas en el Título Séptimo de este Libro, será sancionado con la revocación de la autorización correspondiente.
+97.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-98.- Se sancionará con multa por el equivalente de mil a cinco mil días de salario mínimo general vigente en el área geográfica que corresponda al momento de cometer la infracción, a verificadores de fuentes fijas que:
-
-I. No cuente con la autorización correspondiente;
-
-I. No mantenga sus instalaciones y equipos calibrados y en las condiciones de funcionamiento establecidas en las disposiciones aplicables;
-
-II. No lleve el registro con la información de las verificaciones efectuadas o no remita a la Secretaría de Ecología los datos obtenidos en los términos fijados por ésta;
-
-III. No de aviso inmediato a la Secretaría de Ecología cuando por cualquier causa se dejen de prestar los servicios de verificación o cuando los equipos e instalaciones no funcionen debidamente o se realicen verificaciones no obstante esto último;
-
-IV. Expida o emita reportes de verificación alterados o que no reúnan los requisitos correspondientes;
-
-V. Realice actividades para las cuales no esté autorizado;
-
-VII. No opere conforme a los sistemas, procedimientos, instalaciones, equipos y plazos de verificación establecidos en las normas ambientales aplicables o los determinados por la Secretaría de Ecología en el programa, convocatoria y autorización respectivos.
+98.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-99.- Se sancionará con multa por el equivalente de cuatrocientos a siete mil quinientos días de salario mínimo general vigente en el área geográfica que corresponda al momento de cometer la infracción, a quien:
-
-I. Construya una obra nueva, amplíe una existente realizando actividades que puedan resultar riesgosas sin contar previamente con la autorización del estudio de riesgo en los casos en que éste se requiera o que, contando con esa autorización, incumpla los requisitos y condiciones establecidos en la misma;
-
-II. Realice actividades no riesgosas contraviniendo las medidas preventivas, de control o correctivas establecidas en las normas ambientales aplicables para prevenir y controlar accidentes;
-
-III. Trafique, en los asuntos no reservados a la Federación, con una o más especies o subespecies silvestres de flora o fauna terrestre o acuática en peligro de extinción, amenazadas, raras o sujetas a protección especial de conformidad con las normas ambientales aplicables, sin perjuicio de la denuncia ante el ministerio público.
+99.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-100.- Quien realice obras, actividades o aprovechamientos sin contar con la previa autorización de la manifestación de impacto ambiental, en los casos en que ésta sea exigible, se hará acreedor a una multa de tres mil a cinco mil días de salario mínimo general vigente en el área geográfica que corresponda al momento de cometer la infracción. En caso de que ya se hubiere iniciado el procedimiento de evaluación de impacto ambiental, la Secretaría de Ecología, además de imponer la sanción correspondiente, podrá negar la autorización respectiva.
+100.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-101.- Se considerará que incurre en ecocidio y se sancionará con multa de cuatro mil a veinte mil días de salario mínimo general vigente en el área geográfica que corresponda al momento de cometer la infracción, a quien:
-
-I. Realice actividades que puedan afectar la salud o integridad de las personas o al ambiente;
-
-II. Ocupe, use, aproveche o deteriore sin derecho un área natural protegida;
-
-III. No repare los daños ecológicos que ocasione al ambiente, recursos naturales o áreas naturales protegidas. Lo dispuesto en esta fracción será aplicable a la exploración, explotación o manejo de minerales o cualquier depósito del subsuelo, cuando no se reforeste el área o no se restaure el suelo, subsuelo, entornos volcánicos y estructuras geomorfológicas afectadas;
-
-IV. En los casos no reservados a la Federación, transporte materiales o residuos peligrosos contraviniendo lo establecido en las disposiciones aplicables y se afecte con este motivo la integridad de las personas o se cause un daño al ambiente.
+101.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-102.- Quien incurra en falsedad en los informes preventivos, manifestaciones de impacto ambiental y estudios de riesgo que elabore, será sancionado con:
-
-I. Amonestación y multa de trescientos a mil quinientos días de salario mínimo general vigente en el área geográfica que corresponda al momento de cometer la infracción;
-
-II. Arresto de hasta treinta y seis horas y multa de mil quinientos a siete mil quinientos días de salario mínimo general vigente en el área geográfica que corresponda al momento de cometer la infracción;
-
-III. La pérdida del registro y multa de tres mil a quince mil días de salario mínimo general vigente en el área geográfica que corresponda al momento de cometer la infracción.
+102.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-103.- Tratándose de fuentes fijas, si persiste la infracción una vez vencido el plazo concedido por la Secretaría de Ecología o las autoridades municipales correspondientes para corregir las irregularidades detectadas, podrán imponerse multas adicionales por cada día que subsista la contravención, sin perjuicio de la multa originalmente impuesta. El monto total de las multas no podrá exceder del equivalente a cuarenta mil días de salario mínimo general vigente en el área geográfica que corresponda al momento de cometer la infracción.
+103.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-104.- El infractor que pague la multa dentro de los cinco días hábiles siguientes a la fecha de su imposición, tendrá derecho a un descuento cuyo monto determinará la Secretaría de Ecología, siempre que no se trate de una reincidencia, el que en ningún caso será mayor al cincuenta por ciento de la multa impuesta.
+104.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-105.- Sin perjuicio de la aplicación de las multas establecidas en los artículos anteriores, se aplicarán las siguientes sanciones cuando se incurra en las infracciones referidas a continuación:
-
-I. Clausura total y definitiva de la obra o actividad cuando ésta requiera autorización en materia de impacto ambiental y carezca de la misma, en cuyo caso el infractor deberá reparar los daños ambientales causados;
-
-II. Clausura temporal, parcial o total, de la obra o actividad, en caso de incumplimiento de los requisitos y condiciones establecidos en la autorización en materia de impacto ambiental, hasta que los mismos se cumplan;
-
-III. Retiro de la circulación y remisión de los vehículos respectivos a los depósitos autorizados durante veinticuatro horas:
-
-a) En caso de incumplimiento a las limitaciones establecidas por las autoridades competentes para la circulación de vehículos automotores;
-
-b) Cuando no se acate lo establecido en los programas, mecanismos o disposiciones, para disminuir la emisión de contaminantes provenientes de vehículos automotores ostensiblemente contaminantes.
-
-IV. Revocación de las autorizaciones otorgadas por la Secretaría de Ecología de conformidad con este Libro, en caso de:
-
-a) Modificación o desistimiento del proyecto presentado en el informe preventivo, manifestación o estudio de impacto ambiental o de riesgo, con anterioridad a que la Secretaría dicte la resolución correspondiente y sin dar el aviso respectivo;
-
-b) Que el informe preventivo, manifestación o estudio de impacto ambiental o de riesgo conforme a los cuales se haya dictado la autorización respectiva, contenga información falsa o incorrecta u omita la identificación de impactos negativos por impericia, negligencia, mala fe o dolo;
-
-c) Que después de otorgada la autorización de impacto ambiental, la obra o actividad respectiva se amplíe o modifique respecto de la generación de contaminantes o del uso o afectación de recursos naturales, sin la previa autorización de la Secretaría;
-
-d) Que no se cumpla con los requisitos y condiciones establecidos en este Libro o en la autorización de impacto ambiental.
+105.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-106.- A los terceros autorizados se aplicará, además de lo establecido en los artículos precedentes, la suspensión de la autorización para verificar emisiones contaminantes por treinta días hábiles, en los casos siguientes:
-
-I. Que no se inicie la prestación del servicio de verificación dentro del plazo establecido en la autorización;
-
-II. Que no se presente a la Secretaría de Ecología, previamente al inicio de la operación del servicio de verificación, la fianza establecida en este Libro;
-
-III. Que en cualquier tiempo y por cualquier causa no permanezca en vigor la fianza durante la vigencia de la autorización;
-
-IV. Que no se envíe a la Secretaría de Ecología en los términos establecidos por ésta, la documentación requerida para la supervisión y control de la verificación;
-
-V. Que los establecimientos de verificación no cuenten con los elementos distintivos determinados por la Secretaría de Ecología para su identificación;
-
-VI. Que realicen verificaciones para las cuales no estén autorizados;
-
-VII. Que no operen conforme a los sistemas, procedimientos, instalaciones, equipos y personal técnico de verificación establecidos en este Libro y en las normas técnicas o determinados por la Secretaría de Ecología en el programa, convocatoria, circulares n respectivos, así como cuando se alteren los sistemas, procedimientos, instalaciones y equipos de verificación;
-
-VIII. Que usen o entreguen indebidamente constancias, calcomanías o documentos que acrediten la aprobación de la verificación de emisiones contaminantes;
-
-IX. Que cobren por la verificación una cantidad superior a la autorizada por la Secretaría de Ecología.
+106.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-107.- Las infracciones a las disposiciones de este Libro que no tengan sanción específica, serán sancionadas mediante amonestación con apercibimiento de que en caso de incurrir nuevamente en la misma infracción, se aplicará multa por el equivalente a veinte días de salario mínimo general vigente en el área geográfica que corresponda al momento de cometer la infracción. Si aplicada la multa se comete nuevamente la misma infracción, se estará a lo dispuesto en este Capítulo en materia de reincidencia.
+107.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-108.- Cuando el infractor en uno o más hechos viole varias disposiciones de este Libro, se acumularán y aplicarán las sanciones correspondientes a cada una de ellas.
+108.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-109.- La reincidencia se sancionará con multa por dos tantos de la originalmente impuesta. Se considerará que hay reincidencia cuando una persona haya sido sancionada por contravenir una disposición de este Libro e infringir nuevamente la misma en un período de tres años.
-
-En caso de reincidencia tratándose de fuentes fijas, además de lo dispuesto en este artículo, se aplicará como sanción la clausura total por treinta días naturales de la actividad o fuente específica que haya dado lugar a la infracción. Asimismo, si se contraviene por tercera ocasión en un lapso de dos años la misma disposición, se aplicará como sanción la clausura total y definitiva.
-
-Lo dispuesto en el párrafo anterior será aplicable en caso de infracciones que tengan sanción específica.
+109.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-110.- Para la ejecución de las órdenes expedidas por la Secretaría de Ecología o las autoridades municipales competentes, podrá hacerse uso de la fuerza pública. Quien se oponga o impida el cumplimiento de dichas órdenes será sancionado con multa por el equivalente de doscientos a mil días de salario mínimo general vigente en el área geográfica que corresponda al momento de cometer la infracción, o arresto administrativo hasta por treinta y seis horas, pero si el infractor no pagare la multa impuesta, se permutará ésta por el arresto.
+110.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-111.- No se impondrá sanción cuando se haya incurrido en infracción a este Libro por caso fortuito o fuerza mayor, así como cuando se cumplan espontáneamente las obligaciones respectivas y se reparen los daños causados al ambiente previamente a que la Secretaría de Ecología o la autoridad municipal competente descubran la infracción.
+111.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-112.- Procede la suspensión parcial o temporal y/o la clausura contra quien:
-
-I. Realice obras o actividades que pudieran causar una alteración significativa en el ambiente;
-
-II. Realice actividades u obras riesgosas sin presentar el estudio de impacto y/o riesgo ambiental y un programa que establezca las acciones de prevención y control en caso de emergencia o contingencias ambientales;
-
-III. Omita la instalación de equipos y sistemas de control de emisiones contaminantes, provenientes de fuentes fijas y/o no adopten las medidas establecidas para el control de emisiones;
-
-IV. Rebase los límites permitidos de emisiones contaminantes de fuentes fijas;
-
-V. Descargue al suelo sustancias, residuos o materiales que rebasen los límites permitidos;
-
-VI. Incumpla las normas ambientales aplicables relativas a las condiciones particulares de descarga;
-
-VII. Omita la instalación de plataformas o puertos de muestreo en fuentes fijas;
-
-VIII. Omita la instalación de sistemas o plantas de tratamiento de aguas residuales, cuando se rebasen los límites permitidos de contaminantes.
+112.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-113.- Procede la retención o remisión de depósitos de vehículos, a quienes no acaten lo establecido en los programas, mecanismos o disposiciones para disminuir la emisión de contaminantes provenientes de vehículos automotores que ostensiblemente contaminan, para lo cual se deberá coordinar con la autoridad estatal o municipal competente que realicen las funciones de vialidad y tránsito.
+113.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-114.- Procede el arresto administrativo por desacato a las disposiciones de la autoridad en esta materia o por obstaculizar las funciones de la misma. Impuesto el arresto, la autoridad lo hará del conocimiento de la unidad administrativa correspondiente a efecto de que proceda a su ejecución.
+114.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-115.- Procede la reparación del daño causado al ambiente, previo dictamen técnico emitido por la autoridad competente.
+115.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
+
+> <small>(DEROGADO CON LOS CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
 ###### Artículo 4.
 
-22.- La Secretaría de Ecología y los ayuntamientos promoverán acciones que induzcan a las empresas a alcanzar objetivos superiores a los previstos en la normatividad ambiental establecida, así como para que, de manera voluntaria, realicen auditorias ambientales, generando un beneficio en materia de protección al ambiente.
+22.-(DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ### CAPITULO PRIMERO. Disposiciones Generales
 
 ###### Artículo 4.
 
-116.- El Ejecutivo Estatal, por conducto de la Secretaría de Ecología y las demás dependencias públicas, deberá promover la participación corresponsable de la sociedad en planeación, ejecución y evaluación de la política ambiental y de recursos naturales, la cual deberá fomentar, de forma fundamental, la protección al ambiente y el equilibrio de los ecosistemas.
+116.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-117.- Para los efectos de lo previsto en el artículo anterior, la Secretaría deberá:
+117.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
-I. Convocar a los representantes de las organizaciones obreras, empresariales, de las instituciones educativas y demás organizaciones representativas de la sociedad; así como otras instituciones privadas con fines no lucrativos y de asistencia privada, para que manifiesten sus opiniones y formulen propuestas concretas;
-
-II. Celebrar convenios de concertación con los diversos grupos sociales con objeto de establecer, controlar y administrar áreas naturales protegidas ubicadas en el territorio del Estado de México, así como para brindar asesoría en las actividades relacionadas con el aprovechamiento racional de recursos naturales;
-
-III. Promover la celebración de convenios y acuerdos con los diversos medios de comunicación masiva para la difusión, información y promoción de acciones ecológicas. Para tales efectos, se buscará la participación de grupos de intelectuales, artistas, científicos e investigadores, así como todas aquellas personalidades cuyos conocimientos contribuyan a formar y orientar a la opinión pública;
-
-IV. Promover el establecimiento de reconocimientos a quienes hayan realizado los esfuerzos y contribuciones más destacados de la sociedad, con miras a preservar y restaurar el equilibrio ecológico y proteger el medio ambiente.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
 ###### Artículo 4.
 
-23.- Quienes realicen auditorias ambientales podrán practicar el examen metodológico de sus operaciones, respecto de la contaminación y el riesgo que generen, así como el grado de cumplimiento de la normatividad ambiental y de los parámetros internacionales y de buenas prácticas de operación e ingeniería aplicables, con el objeto de definir las medidas preventivas y correctivas necesarias para proteger al ambiente.
+23.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
+
+> <small>(DEROGADO CON LOS CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
 ## TITULO OCTAVO. De la vigilancia
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
 ### CAPITULO SEGUNDO. Personas Físicas y Morales con fines ambientalistas
 
 ###### Artículo 4.
 
-118.- Toda persona física o moral que se dedique de manera habitual a actividades relacionadas con la protección al ambiente, la preservación del equilibrio ecológico, defensa y protección de los animales, la difusión de una cultura ambiental de respeto y armonía con la naturaleza o, en general, a cualquier actividad análoga que no tenga como objeto la realización de un fin económico de lucro tendrá derecho a los estímulos establecidos en este Libro.
+118.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-119.- La Secretaría de Ecología y las autoridades municipales en el Estado de México respetarán y fomentarán la independencia y posiciones críticas de las personas físicas o morales a que se refiere el artículo anterior, para lo cual facilitarán y cooperarán con todos los medios necesarios, en la medida de sus posibilidades, de conformidad con lo dispuesto en este Libro y sus reglamentos, para la realización plena de sus objetivos, sin perjuicio de dar a todo interesado en asuntos ambientales, aún cuando sea de carácter eventual, la oportunidad de participar en los procedimientos establecidos en este ordenamiento.
+119.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
 ###### Artículo 4.
 
-24.- Son áreas naturales protegidas de competencia estatal las reservas y parques estatales; y, de competencia municipal las zonas de preservación ecológica de los centros de población.
+24.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-25.- Las reservas estatales se constituirán en áreas biogeográficas relevantes a nivel estatal, representativas de uno o más ecosistemas no alterados significativamente por la acción del ser humano o que requieran ser preservados o restaurados, o en los que habiten especies representativas de la biodiversidad estatal o nacional, incluyendo a las consideradas endémicas, amenazadas o en peligro de extinción.
-
-En tales reservas podrá determinarse la existencia de la superficie o superficies mejor conservadas o no alteradas que alojen ecosistemas o fenómenos naturales de especial importancia, o especies de flora y fauna que requieran protección especial, y que serán conceptuadas como zona o zonas núcleo. En estas zonas sólo podrá autorizarse la realización de actividades de preservación de los ecosistemas y sus elementos, de investigación científica y educación ambiental, y limitarse o prohibirse aprovechamientos que alteren los ecosistemas.
-
-En las propias reservas deberán determinarse la superficie o superficies que protejan la zona núcleo del impacto exterior, que serán conceptuadas como zonas de amortiguamiento, en donde sólo podrán realizarse actividades productivas emprendidas por las comunidades que ahí habiten al momento de la expedición de la declaratoria respectiva o con su participación, que sean estrictamente compatibles con los objetivos, criterios y programas de aprovechamiento sustentable, en los términos de la declaratoria respectiva y del programa de manejo que se formule y expida, considerando las previsiones de los programas de ordenamiento ecológico que resulten aplicables.
+25.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-26.- En las zonas núcleo a que se refiere el artículo anterior, quedará expresamente prohibido:
-
-I. Verter o descargar contaminantes en el suelo, subsuelo y cualquier clase de cauce, vaso o acuífero, así como desarrollar cualquier actividad contaminante;
-
-II. Interrumpir, rellenar, desecar o desviar los flujos hidráulicos;
-
-III. Realizar actividades cinegéticas o de explotación y aprovechamiento de especies de flora y fauna silvestres;
-
-IV. Ejecutar acciones que contravengan lo dispuesto en este Libro, la declaración respectiva y las demás disposiciones que de ellas se deriven.
+26.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ### CAPITULO TERCERO. Denuncia Popular
 
 ###### Artículo 4.
 
-127.- Es derecho de toda persona u organización social denunciar de manera pacífica y respetuosa ante la Secretaría de Ecología o ante las autoridades municipales, según el caso, los hechos, actos u omisiones que puedan producir desequilibrio ecológico, daños al ambiente o alteraciones en la salud o calidad de vida de la población.
-
-Si en la localidad no existiere representación de la Secretaría o de la dependencia que resulte competente, la denuncia se podrá formular ante cualquier otra autoridad estatal o municipal o, a elección del denunciante, ante las oficinas más próximas de dicha representación.
-
-Si la denuncia fuera presentada ante diversas autoridades estatales o ante la autoridad municipal, estas deberán remitirla sin demora a la Secretaría y podrán imponer las medidas de seguridad que resulten urgentes y que sean necesarias, en auxilio de dicha autoridad.
+127.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-128.- Cuando se ejercite la denuncia popular, las facultades de la autoridad competente en materia de inspección, verificación, vigilancia y sanción, así como de imposición de las medidas de seguridad que procedan, respecto de los hechos denunciados, se considerarán ejercidas de oficio por la autoridad, sin perjuicio de que el denunciante pueda coadyuvar en las diligencias indagatorias aportando los elementos de convicción y alegatos que estime convenientes.
-
-En los procedimientos administrativos derivados de una denuncia popular se aplicarán, en lo conducente, las disposiciones del Código de Procedimientos Administrativos del Estado de México y los reglamentos respectivos.
+128.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-129.- Cuando por infracción a las disposiciones de este Libro se hubieren ocasionado daños o perjuicios, el o los interesados podrán solicitar a la Secretaría de Ecología, la formulación de un dictamen técnico al respecto, el cual tendrá el valor de prueba, en caso de ser promovido el juicio respectivo.
+129.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-130.- Sin perjuicio de las sanciones penales o administrativas que resulten procedentes, toda persona que contamine, deteriore el ambiente o afecte los recursos naturales o la biodiversidad, será responsable y estará obligado a reparar los daños causados, de conformidad con la legislación civil aplicable.
+130.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-27.- Los parques estatales se constituirán, tratándose de representaciones biogeográficas a nivel estatal o municipal, de uno o más ecosistemas que se signifiquen por su belleza escénica, su valor científico, educativo o de recreo, su valor histórico, por la existencia de flora y fauna representativa del Estado, por los servicios ambientales que proporcionen, por su aptitud para el desarrollo del turismo o bien, por otras razones análogas de interés general.
-
-En los parques estatales sólo podrá permitirse la realización de actividades relacionadas con la protección de sus recursos naturales, el incremento de su flora y fauna y, en general, con la preservación de los ecosistemas y de sus elementos, así como con la investigación y educación ambiental, y proyectos productivos sustentables, conforme al programa de manejo.
+27.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 4.
 
-28.- Las zonas de preservación ecológica de los centros de población se integran por los parques, corredores, andadores, camellones y, en general, cualquier área de uso público en zonas industriales o circunvecinas de los asentamientos humanos, en las que existan ecosistemas, que se destinen a preservar los elementos naturales indispensables para el equilibrio ecológico y el bienestar de la población.
+28.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
 # LIBRO QUINTO. Del ordenamiento territorial de los asentamientos humanos y del desarrollo urbano de los centros de población
 
 ## TITULO NOVENO. De la Participación Social
+
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
 ### CAPITULO PRIMERO. Del objeto y finalidad
 
@@ -5609,7 +5105,11 @@ X. Multa de cuarenta a cien veces el salario mínimo general vigente en el área
 
 ### CAPITULO PRIMERO. Del objeto y finalidad
 
+> <small>(REFORMADO, G.G. 3 DE MAYO DE 2006)</small>
+
 ### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+
+> <small>(REFORMADO, G.G. 3 DE MAYO DE 2006)</small>
 
 ## TITULO CUARTO. Disposiciones comunes en materia de infraestructura vial y transporte
 
@@ -5853,9 +5353,11 @@ III. Una vez remitido el vehículo al depósito correspondiente, los agentes deb
 
 22.- Sólo después de haberse cubierto el importe de las multas, traslado y depósito, si los hubiere, se procederá a la entrega de los vehículos.
 
+> <small>(REFORMADA SU DENOMINACION, G.G. 3 DE MAYO DE 2006)</small>
+
 ## TITULO TERCERO. De los estacionamientos de servicio al público
 
-# LIBRO NOVENO. Del fomento y desarrollo agropecuario, acuícola y forestal
+# LIBRO NOVENO. Del fomento y desarrollo agropecuario y acuícola
 
 ## TITULO CUARTO. De las infracciones y sanciones
 
@@ -5863,17 +5365,19 @@ III. Una vez remitido el vehículo al depósito correspondiente, los agentes deb
 
 ###### Artículo 9.
 
-1.- Este Libro tiene por objeto regular el fomento y desarrollo de las actividades agropecuarias, acuícolas y forestales.
+1.- Este Libro tiene por objeto regular el fomento y desarrollo de las actividades agropecuarias y acuícolas.
+
+> <small>(REFORMADO, G.G. 3 DE MAYO DE 2006)</small>
 
 ###### Artículo 9.
 
-2.- Las disposiciones de este Libro tienen como finalidad lograr en la entidad un incremento sostenido de las actividades agropecuarias, acuícolas y forestales para contribuir al desarrollo rural del Estado.
+2.- Las disposiciones de este Libro tienen como finalidad lograr en la Entidad un incremento sostenido de las actividades agropecuarias y acuícolas para contribuir al desarrollo rural del Estado.
 
 ### CAPITULO SEGUNDO. Del Instituto de Investigación y Fomento de las Artesanías del Estado de México
 
 ###### Artículo 9.
 
-3.- Corresponde a la Secretaría de Desarrollo Agropecuario el fomento y desarrollo de las actividades agropecuarias, acuícolas y forestales, en los términos de este Libro.
+3.- Corresponde a la Secretaría de Desarrollo Agropecuario el fomento y desarrollo de las actividades agropecuarias y acuícolas, en los términos de este Libro.
 
 ###### Artículo 9.
 
@@ -5886,6 +5390,8 @@ III. Una vez remitido el vehículo al depósito correspondiente, los agentes deb
 5.- Los productores podrán constituirse en Asociaciones Locales de Productores Rurales y éstas, en Asociaciones Municipales, Uniones Regionales y Federaciones Estatales de Productores Rurales, mediante su registro en la Secretaría de Desarrollo Agropecuario, en los términos de la reglamentación correspondiente, fecha a partir de la cual tendrán personalidad jurídica.
 
 Se entiende por productor rural la persona física que directa o indirectamente se dedique a la producción de especies vegetales o animales, o quienes agreguen valor a su producción mediante procesos de transformación y comercialización.
+
+> <small>(REFORMADA SU DENOMINACION, G.G. 3 DE MAYO DE 2006)</small>
 
 ## TITULO PRIMERO. Disposiciones generales
 
@@ -6033,61 +5539,15 @@ Los ingresos del Instituto, así como los productos e instrumentos financieros a
 
 ###### Artículo 9.
 
-13.- La Protectora de Bosques del Estado de México es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, que tiene por objeto la protección, conservación, reforestación, fomento y vigilancia de los recursos forestales en el Estado de México.
-
-La Protectora de Bosques del Estado de México, para el cumplimiento de su objeto, se coordinará con las autoridades federales en la materia y tendrá las atribuciones siguientes:
-
-I. Planear y programar la protección, conservación, reforestación, fomento y vigilancia de los recursos forestales del Estado;
-
-II. Realizar el estudio dasonómico que permita clasificar los bosques y suelos de vocación forestal en el territorio estatal; formular y actualizar permanentemente el inventario forestal;
-
-III. Proponer, para el fomento y desarrollo de los recursos forestales, el establecimiento de áreas de reserva para proteger la biosfera, de monumentos naturales, así como de zonas de protección forestal para la conservación de los ecosistemas;
-
-IV. Organizar la limpieza y saneamiento de los bosques y el control de los aprovechamientos forestales para el abastecimiento de los núcleos de población rural;
-
-V. Organizar campañas permanentes para prevención y combate de incendios, plagas y enfermedades, así como controlar el pastoreo de zonas forestales;
-
-VI. Realizar trabajos de reestructuración y reforestación, defensas de suelos y otros encaminados a proteger y utilizar con mayor provecho los bosques, los suelos y las aguas, así como organizar a la sociedad en general para estos fines;
-
-VII. Realizar programas de investigación para el desarrollo de los recursos y especies forestales y para el perfeccionamiento de sus técnicas, sistemas y procedimientos;
-
-VIII. Promover y coordinar con los sectores público, social y privado, la creación de viveros y zonas de reforestación;
-
-IX. Inspeccionar y vigilar las zonas forestales, así como los aprovechamientos autorizados;
-
-X. Organizar los servicios técnicos, así como el registro y control de los peritos forestales;
-
-XI. Adquirir toda clase de bienes y realizar los actos que se requieran para el cumplimiento de su objeto;
-
-XII. Las demás que le atribuyan las disposiciones legales y los convenios o acuerdos en la materia.
+13.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 9.
 
-14.- La dirección y administración de la Protectora de Bosques está a cargo de un consejo directivo y un director general.
-
-El consejo directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares y Fideicomisos del Estado de México y cuenta con cuatro vocales, que son los representantes de las secretarías de Finanzas y Planeación, de Administración, de Desarrollo Urbano y Obras Públicas, y de Ecología.
-
-El director general será nombrado por el Gobernador del Estado, a propuesta del presidente del consejo directivo.
-
-La organización y funcionamiento del organismo se rige por el reglamento interno que expida el consejo directivo.
+14.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ###### Artículo 9.
 
-15.- El patrimonio de la Protectora de Bosques se integra con:
-
-I. Los bienes con los que actualmente cuenta;
-
-II. Los ingresos que obtenga en el ejercicio de sus atribuciones;
-
-III. Las aportaciones, participaciones, subsidios y apoyos que le otorguen los gobiernos federal, estatal y municipal;
-
-IV. Los legados, asignaciones, donaciones y demás bienes otorgados en su favor;
-
-V. Los bienes que adquiera por cualquier título legal para el cumplimento de su objeto;
-
-VI. Las utilidades, intereses, dividendos, rendimientos de bienes, derechos y demás ingresos que adquiera por cualquier título legal o que provengan de sus actividades.
-
-Los ingresos del organismo, así como los productos e instrumentos financieros autorizados, serán destinados y aplicados a las actividades señaladas en los programas aprobados por el consejo directivo.
+15.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
 ### CAPITULO CUARTO. Del Consejo Estatal para la Protección de las Personas con Capacidades Diferentes y su Integración al Desarrollo Social
 
@@ -6113,15 +5573,17 @@ VI. Los mecanismos de responsabilidad de los productores respecto a la utilizaci
 
 VII. Considerar a quienes no puedan por sí mismos llevar a cabo las inversiones necesarias.
 
-## TITULO SEGUNDO. Del fomento y desarrollo de las actividades agropecuarias, acuícolas y forestales
+> <small>(REFORMADA SU DENOMINACION, G.G. 3 DE MAYO DE 2006)</small>
+
+## TITULO SEGUNDO. Del fomento y desarrollo de las actividades agropecuarias y acuícolas
 
 ###### Artículo 9.
 
-18.- La Secretaría de Desarrollo Agropecuario organizará y coordinará el sistema estatal de información de desarrollo agropecuario, acuícola y forestal, con el objeto de obtener, generar y procesar la información necesaria para planear el fomento y evaluar el desarrollo de las actividades a que se refiere este Libro, así como para proveer de información oportuna a quienes participan en dichas actividades y al público en general.
+18.- La Secretaría de Desarrollo Agropecuario organizará y coordinará el sistema estatal de información de desarrollo agropecuario y acuícola, con el objeto de obtener, generar y procesar la información necesaria para planear el fomento y evaluar el desarrollo de las actividades a que se refiere este Libro, así como para proveer de información oportuna a quienes participan en dichas actividades y al público en general.
 
-Las dependencias y organismos de la administración pública estatal y municipal, así como las empresas del sector agropecuario que cuenten con el certificado de empresa mexiquense deberán proporcionar a la Secretaría de Desarrollo Agropecuario los informes que les requiera.
+## TITULO TERCERO. Del Sistema Estatal de Información de Desarrollo Agropecuario y Acuícola
 
-## TITULO TERCERO. Del Sistema Estatal de Información de Desarrollo Agropecuario, Acuícola y Forestal
+> <small>(REFORMADO, G.G. 3 DE MAYO DE 2006)</small>
 
 ### CAPÍTULO PRIMERO. Disposiciones generales
 
@@ -10066,3 +9528,49 @@ G.G. 5 DE ENERO DE 2006.
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente decreto entrará en vigor el primer día hábil del mes de enero del año 2006.
+
+G.G. 3 DE MAYO DE 2006.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial Gaceta del Gobierno.
+
+SEGUNDO. El Código para la Biodiversidad del Estado de México y las reformas y derogaciones al Código Administrativo del Estado de México, entrarán en vigor a los ciento ochenta días hábiles siguientes al de su publicación en la Gaceta del Gobierno.
+
+TERCERO. Se abroga la Ley Protectora de Animales del Estado de México.
+
+CUARTO. El Ejecutivo del Estado expedirá a los ciento ochenta días hábiles siguientes a la publicación de este Código los reglamentos necesarios para la aplicación del presente Ordenamiento. Asimismo el Ejecutivo procurará que los reglamentos contengan un glosario de los términos técnicos empleados por el presente Código. Además las autoridades estatales y municipales en el ámbito de su competencia emitirán las normas ambientales a las que hacen referencia los Libros que conforman este Código en un plazo no mayor de noventa días hábiles posteriores a la entrada en vigor de los reglamentos que se señalan.
+
+QUINTO. En tanto se expiden los reglamentos a que se refiere el artículo anterior se aplicarán las disposiciones reglamentarias en vigor que no sean contrarias a las previsiones del presente Código.
+
+SEXTO. Los procedimientos y recursos administrativos iniciados al amparo de la ley que se abroga, libros y artículos que se reforman y derogan que se encuentren en trámite al entrar en vigor el presente Ordenamiento se sustanciarán y resolverán conforme las disposiciones legales anteriores.
+
+SEPTIMO. En relación con las disposiciones del Libro Segundo, Del Equilibrio Ecológico, la Protección al Ambiente y el Fomento al Desarrollo Sostenible se estará a lo siguiente:
+
+La administración de los parques estatales y municipales existentes deberá ajustarse a lo dispuesto en el Libro Segundo sin perjuicio de que se observen las disposiciones legales aplicables en materia de bienes del dominio público del Estado y los Municipios.
+
+En tanto se expiden los ordenamientos ecológicos municipales serán de observancia obligatoria los ordenamientos ecológicos regionales.
+
+En tanto se expide el acuerdo mediante el cual se determina la clasificación de las actividades que deban considerarse riesgosas a que se refiere el artículo 2.185 deberá estarse a los listados que hasta el momento aplique la Secretaría del Medio Ambiente.
+
+OCTAVO. El segundo párrafo del artículo 2.307 se contemplará en el Presupuesto de Egresos correspondiente y entrará en vigor el primero de enero de 2007.
+
+NOVENO. El Estado en coordinación con las autoridades municipales según corresponda aplicarán lo dispuesto en este Código en aquellas materias cuya competencia no corresponda a dichos órdenes de gobierno antes de la entrada en vigor del presente Código hasta en tanto sean expedidos o modificados los ordenamientos señalados en el artículo quinto transitorio.
+
+DECIMO. Las licencias, permisos y autorizaciones otorgadas con anterioridad a la fecha de entada en vigor de este Código seguirán vigentes, su prorroga e inspección se sujetarán a las disposiciones del presente Código.
+
+DECIMO PRIMERO. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan al presente Código.
+
+DECIMO SEGUNDO. Para los efectos de lo previsto por el Libro Tercero, Del Fomento para el Desarrollo Forestal Sostenible, el Servicio Estatal Forestal se instalará a convocatoria del titular de la Secretaría dentro de un término que no exceda a los seis meses siguientes a la entrada en vigor del presente Código.
+
+DECIMO TERCERO. Para los efectos de lo previsto por el Libro Cuarto, De la Prevención y Gestión Integral de Residuos se estará a lo siguiente:
+
+La obligación de implantar sistemas de recolección selectiva y demás obligaciones establecidas al Estado y Municipios serán exigibles gradualmente de acuerdo a los programas que cada Municipio presente de acuerdo a sus capacidades presupuestarias y financieras de conformidad con lo que establezcan los reglamentos respectivos.
+
+DECIMO CUARTO. Para los efectos de lo previsto por el Libro Quinto, De la Preservación, Fomento y Aprovechamiento Sostenible de la Vida Silvestre se estará a lo siguiente:
+
+La Secretaría en los términos previstos por este Ordenamiento participará en un plazo máximo de noventa días a partir de la entrada en vigor del presente Código en el Consejo Consultivo Nacional para la Conservación y Aprovechamiento Sustentable de la Vida Silvestre.
+
+En tanto se establecen los registros estatales y municipales de prestadores de servicios vinculados a la transformación, tratamiento, preparación, transporte y comercialización de ejemplares, partes y derivados de la vida silvestre la Secretaría llevará un registro a nivel estatal.
+
+En tanto se establezcan los registros para la tenencia de mascotas de especies silvestres la Secretaría llevará un registro a nivel estatal para la regularización voluntaria de su legal detentación para lo cual se dará un plazo de dos años.
+
+DECIMO QUINTO. Para los efectos de lo previsto por el Libro Sexto, De la Protección y Bienestar Animal se concede a los propietarios o arrendatarios de ranchos o haciendas, expendios de animales, centros de exhibición y exposición de especies de animales domésticos un plazo de seis meses para que se cumplimenten las obligaciones que les impone el presente Ordenamiento. Asimismo el Ejecutivo Estatal expedirá los reglamentos correspondientes dentro de los ciento veinte días hábiles posteriores a la entrada en vigor del Libro Sexto y por lo que hace a las normas técnicas estatales se expedirán dentro de los ciento ochenta días naturales a la fecha de la entrada en vigor del presente Decreto.
