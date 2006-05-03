@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2006-03-27"
+last_updated: "2006-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CODIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MARZO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MAYO DE 2006.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -5889,7 +5889,7 @@ Para la reposición del tarjetón de refrendo, constancia de suspensión tempora
 
 ###### Artículo 608.
 
-Es facultad del Presidente Municipal prohibir la venta, enajenación y consumo de bebidas alcohólicas en días y horas determinados, dando a conocer esta disposición, así como las sanciones en caso de incumplimiento que se aplicarán a quienes infrinjan las mismas, a través de los medios masivos de comunicación, al público en general, por lo menos con cuarenta y ocho horas de anticipación.
+Es facultad del Presidente Municipal prohibir la venta, enajenación y consumo de bebidas alcohólicas en días y horas determinados, dando a conocer esta disposición, así como las sanciones en caso de incumplimiento que se aplicarán a quienes infrinjan las mismas, a través de los medios masivos de comunicación, al publico en general, por lo menos con cuarenta y ocho horas de anticipación.
 
 La prohibición a que se refiere el párrafo anterior, se aplicará invariablemente el día en que se realicen elecciones Constitucionales o de Juntas Auxiliares.
 
@@ -11589,7 +11589,7 @@ Donde:
 
 Los coeficientes de proporcionalidad a1 y a2 están dados por las siguientes expresiones:
 
-a¡ = (1-r(1-q)W¡)
+a¡ = (1-r(-q)W¡
 
 W¡h¡
 
@@ -21279,86 +21279,6 @@ VII. Suspensión de la licencia, permiso, concesión o autorización, según el 
 
 VIII. Arresto administrativo hasta por treinta y seis horas.
 
-###### Artículo 1821.
-
-Las sanciones por infracción a las disposiciones que se disponen en el presente Capítulo serán impuestas por el Director de Ecología. Las sanciones que se aplicarán por violación a las disposiciones contenidas en el presente Capítulo, consistirán en:
-
-I. Amonestación;
-
-II. Apercibimiento;
-
-III. Multa, conforme a la siguiente tabla:
-
-SUPUESTO NORMATIVO INFRACCIÓN
-
-1.- Por carecer del dictamen favorable de la Dirección de Ecología, en los giros comerciales para los que se requiera, de conformidad con el presente Capítulo y las disposiciones de este Código Reglamentario Municipal
-
-De 10 a 175 días de Salario Mínimo Vigente en el Municipio de Puebla
-
-2.- Por sobrepasar los límites establecidos en la normatividad ambiental vigente o causar molestias a la ciudadanía, al no controlar las emisiones contaminantes a la atmósfera procedente de fuentes fijas de competencia municipal
-
-De 10 a 350 días de Salario Mínimo Vigente en el Municipio de Puebla
-
-3.- Por no dar aviso a la autoridad competente de las fallas en los equipos de control de contaminantes a la atmósfera en fuentes fijas de competencia municipal
-
-De 20 a 350 días de Salario Mínimo Vigente en el Municipio de Puebla
-
-4.- Por falta de permiso de la Dirección de Ecología para efectuar combustión a cielo abierto
-
-De 20 a 350 días de Salario Mínimo Vigente en el Municipio de Puebla
-
-5.- Por carecer de inscripción en el Padrón Municipal de giros de competencia municipal potencialmente emisores de contaminación ostensible a la atmósfera
-
-De 20 a 175 días de Salario Mínimo Vigente en el Municipio de Puebla
-
-6.- Por descarga al sistema de drenaje municipal, cauces naturales o al subsuelo aguas, productos o líquidos residuales provenientes de procesos cuyos parámetros estén fuera de las normas contempladas en la legislación y reglamentación ambiental vigente
-
-De 20 a 1500 días de Salario Mínimo Vigente en el Municipio de Puebla
-
-SUPUESTO NORMATIVO INFRACCIÓN
-
-7.- Por contaminar con residuos y no manejarlos, transportarlos y disponerlos adecuadamente de conformidad con la legislación ambiental vigente
-
-De 15 a 50 días de Salario Mínimo Vigente en el Municipio de Puebla
-
-8.- Por realizar poda o derribo sin la autorización municipal, por unidad, independientemente de reparar el daño causado
-
-De 20 a 175 días de Salario Mínimo Vigente en el Municipio de Puebla
-
-9.- Los giros comerciales, industriales o de servicios que emitan ruido o vibraciones a la atmósfera que rebasen los niveles máximos permisibles de la normatividad vigente, o que causen molestias a la ciudadanía
-
-De 15 a 65 días de Salario Mínimo Vigente en el Municipio de Puebla
-
-10.- Por carecer de bitácora de operación y mantenimiento de sus equipos de control anticontaminantes
-
-De 10 a 20 días de Salario Mínimo Vigente en el Municipio de Puebla
-
-11.- Por almacenar inadecuadamente o sin permiso de la autoridad competente residuos o substancias consideradas como peligrosas o contaminantes, así como abandonar en la vía pública o sitios públicos residuos provenientes de clínicas u hospitales
-
-De 35 a 300 días de Salario Mínimo Vigente en el Municipio de Puebla
-
-12.- Por carecer de equipo y autorización para la incineración o traslado de residuos y sustancias peligrosas por parte de la autoridad competente
-
-+¿
-
-De 10 a 200 días de Salario Mínimo Vigente en el Municipio de Puebla
-
-13.- Cuando las contravenciones a la reglamentación municipal vigente a que se refiere esta fracción, conlleven un riesgo de desequilibrio ecológico por casos de contaminación con repercusiones peligrosas para los ecosistemas, sus componentes o la salud pública, la sanción aplicable será
-
-De 50 a 3000 días de Salario Mínimo Vigente en el Municipio de Puebla
-
-Las multas señaladas en esta fracción, se aplicarán sin perjuicio de lo que señalan otros capítulos del presente Código Reglamentario y las demás leyes y demás disposiciones jurídicas que resulten aplicables al caso concreto;
-
-IV. Clausura parcial o total, temporal o definitiva;
-
-V. Revocación de la licencia, permiso, concesión o autorización, según el caso;
-
-VI. Cancelación de la licencia, permiso, concesión, registro o autorización, según el caso;
-
-VII. Suspensión de la licencia, permiso, concesión o autorización, según el caso; y
-
-VIII. Arresto administrativo hasta por treinta y seis horas.
-
 ###### Artículo 1822.
 
 En caso de no contar con autorización expresa por parte de la Dirección conforme a lo establecido en el artículo 1741 del presente ordenamiento, el responsable se hará acreedor a las sanciones que se establecerán conforme a los siguientes criterios:
@@ -24677,7 +24597,7 @@ El Comisionado está facultado para autorizar la sustitución o cambio de boxead
 
 I. En Box: en caso de fuerza mayor debidamente comprobada, si alguno de los participantes de una pelea preliminar o estelar no puede actuar en la función anunciada, se sustituirá dicho peleador por el emergente de la misma categoría y peso, si el boxeador fuese de la pelea estelar, además de anunciar el cambio autorizado, informará al público que la persona que no esté de acuerdo podrá solicitar la devolución del importe de su boleto, siempre que no haya iniciado la función;
 
-III. En la lucha libre: cuando un luchador por causa de fuerza mayor no se haya presentado, será sustituido por otro de la misma categoría y de igual peso, comunicándole a la empresa la obligación de avisar al público asistente, el cambio realizado y si éste es de algún luchador de la "Lucha Estelar", además de anunciar el cambio autorizado, informará al público que la persona que no esté de acuerdo podrá solicitar la devolución del importe de su boleto, siempre que no haya iniciado la función.
+II. En la lucha libre: cuando un luchador por causa de fuerza mayor no se haya presentado, será sustituido por otro de la misma categoría y de igual peso, comunicándole a la empresa la obligación de avisar al público asistente, el cambio realizado y si éste es de algún luchador de la "Lucha Estelar", además de anunciar el cambio autorizado, informará al público que la persona que no esté de acuerdo podrá solicitar la devolución del importe de su boleto, siempre que no haya iniciado la función.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -26507,7 +26427,9 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Acuerdo.
 
 P.O. 27 DE MARZO DE 2006.
 
-PRIMERO. El presente Acuerdo deberá publicarse en el Periódico Oficial del Estado y entrará en vigor sesenta días hábiles posteriores a su publicación.
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2006)</small>
+
+PRIMERO. El presente Acuerdo deberá publicarse en el Periódico Oficial del Estado y entrará en vigor a un término de treinta días posteriores a la fecha de aprobación de Cabildo.
 
 SEGUNDO. Se instruye al Presidente Municipal para el efecto de realizar las acciones tendientes a fin de celebrar el convenio de colaboración con el Gobierno del Estado de Puebla, respecto al Registro Estatal de Vehículos.
 
@@ -26544,3 +26466,7 @@ PRIMERO.- Se aprueba en lo general y en lo particular el Dictamen por el que se 
 SEGUNDO.- Se instruye al Síndico Municipal a fin de iniciar las acciones tanto formales o materialmente judiciales y administrativas que en derecho procedan, a partir de lo asentado en el presente Dictamen.
 
 TERCERO.- Se Instruye al Presidente Municipal y al Secretario del Honorable Ayuntamiento del Municipio de Puebla, para que realicen las gestiones necesarias tendientes a que el presente documento se envíe al Ejecutivo del Estado para su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE MAYO DE 2006.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL FEDERAL VIGENTE.
