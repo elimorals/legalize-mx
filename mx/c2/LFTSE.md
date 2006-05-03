@@ -4,7 +4,7 @@ identifier: "LFTSE"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1963-12-28"
-last_updated: "1998-01-23"
+last_updated: "2006-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFTSE"
 
 LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTICULO 123 CONSTITUCIONAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE MAYO DE 2006.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 28 de diciembre de 1963.
 
@@ -46,9 +46,11 @@ LEY FEDERAL DE LO (SIC) TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL A
 
 La presente Ley es de observancia general para los titulares y trabajadores de las dependencias de los Poderes de la Unión, del Gobierno del Distrito Federal, de las Instituciones que a continuación se enumeran: Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, Juntas Federales de Mejoras Materiales, Instituto Nacional de la Vivienda, Lotería Nacional, Instituto Nacional de Protección a la Infancia, Instituto Nacional Indigenista, Comisión Nacional Bancaria y de Seguros, Comisión Nacional de Valores, Comisión de Tarifas de Electricidad y Gas, Centro Materno-Infantil Maximino Avila Camacho y Hospital Infantil; así como de los otros organismos descentralizados, similares a los anteriores que tengan a su cargo función de servicios públicos.
 
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2006)</small>
+
 ###### ARTICULO 2o.
 
-Para los efectos de esta ley, la relación jurídica de trabajo se entiende establecida entre los titulares de las dependencias e instituciones citadas y los trabajadores de base a su servicio. En el Poder Legislativo las directivas de la Gran Comisión de cada Cámara asumirán dicha relación.
+Para los efectos de esta ley, la relación jurídica de trabajo se entiende establecida entre los titulares de las dependencias e instituciones citadas y los trabajadores de base a su servicio. En el Poder Legislativo los órganos competentes de cada Cámara asumirán dicha relación.
 
 ###### ARTICULO 3o.
 
@@ -98,13 +100,31 @@ Han de considerarse de base todas las categorías que con aquella clasificación
 
 La clasificación de los puestos de confianza en cada una de las dependencias o entidades, formará parte de su catálogo de puestos.
 
-III.- En el Poder Legislativo: en la Cámara de Diputados: el Oficial Mayor, el Director General de Departamentos y Oficinas, el Tesorero General, los Cajeros de la Tesorería, Director General de Administración, el Oficial Mayor de la Gran Comisión, el Director Industrial de la Imprenta y Encuadernación y el Director de la Biblioteca del Congreso.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2006)</small>
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1978)</small>
+III.- En el Poder Legislativo:
 
-En la Contaduría Mayor de Hacienda: el Contador y el Subcontador Mayor, los Directores y Subdirectores, los Jefes de Departamento, los Auditores, los Asesores y los Secretarios Particulares de los funcionarios mencionados.
+A. En la Cámara de Diputados: Secretario General, Secretarios de Servicios, Coordinadores, Contralor Interno, Directores Generales, Directores, Subdirectores, Jefes de Departamento, Secretarios Particulares, Secretarías Privadas, Subcontralores, Auditores, Secretarios Técnicos, Asesores, Consultores, Investigadores, Secretarios de Enlace, Titulares de la Unidad o Centro de Estudios, Agentes de Resguardo Parlamentario, Agentes de Protección Civil, Supervisores de las áreas administrativas, técnicas y parlamentarias, y el personal del Servicio de Carrera.
 
-En la Cámara de Senadores: Oficial Mayor, Tesorero y Subtesorero;
+B. En la Auditoría Superior de la Federación: Auditor Superior, Auditores Especiales, Titulares de las Unidades, Directores Generales, Directores, Subdirectores, Jefes de Departamento, Auditores, Visitadores, Inspectores, Asesores y Secretarios Particulares, Vigilantes, Supervisores de las áreas administrativas y técnicas.
+
+C. En la Cámara de Senadores: Secretarios Generales, Tesorero, Coordinadores, Contralor Interno, Directores Generales, Directores, Subdirectores, Jefes de Departamento, Secretarios Técnicos, Secretarios Particulares, Subcontralores, Auditores, Asesores, Consultores, Investigadores, Agentes de Resguardo Parlamentario, Agentes de Protección Civil, Supervisores de las áreas administrativas, técnicas y parlamentarias, Enlaces y Secretarías Privadas.
+
+Con independencia del nombramiento expedido, en todos los casos a que se refiere esta fracción, será considerado trabajador de confianza cualquiera que desempeñe las siguientes funciones:
+
+a) Dirección, como consecuencia del ejercicio de sus atribuciones legales, que de manera permanente y general le confieren la representatividad e implican poder de decisión en el ejercicio del mando.
+
+b) Inspección, vigilancia y fiscalización: cuando estén considerados en el presupuesto de la Cámara de Diputados, así como el personal técnico que en forma exclusiva y permanente esté desempeñando tales funciones ocupando puestos que a la fecha son de confianza.
+
+c) Manejo de fondos o valores, cuando implique la facultad legal de disponer de éstos, determinando su aplicación o destino.
+
+d) Auditoría: a nivel de auditores y subauditores generales, así como el personal técnico que en forma exclusiva y permanente desempeñe tales funciones, siempre que presupuestalmente dependa de la Contraloría o de las áreas de Auditoría.
+
+e) Control directo de adquisiciones: cuando tengan la representación de la Cámara de Diputados con facultades para tomar decisiones sobre las adquisiciones y compras, así como el personal encargado de apoyar con elementos técnicos estas decisiones y que ocupe puestos presupuestalmente considerados en estas áreas de la Cámara de Diputados con tales características.
+
+f) En almacén e inventarios, el responsable de autorizar el ingreso o salida de bienes o valores y su destino o la baja y alta en inventarios;
+
+g) Todos aquellos trabajadores que desempeñen funciones que por su naturaleza sean análogas a las anteriores.
 
 > <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
@@ -216,11 +236,11 @@ El nombramiento aceptado obliga a cumplir con los deberes inherentes al mismo y 
 
 En ningún caso el cambio de funcionarios de una dependencia podrá afectar los derechos de los trabajadores.
 
-> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2006)</small>
 
 ###### ARTICULO 20.
 
-Los trabajadores de los Poderes de la Unión y del Gobierno del Distrito Federal, se clasificarán conforme a lo señalado por el Catálogo General de Puestos del Gobierno Federal. Los trabajadores de las entidades sometidas al régimen de esta Ley se clasificarán conforme a sus propios catálogos que establezcan dentro de su régimen interno. En la formulación, aplicación y actualización de los catálogos de puestos, participarán conjuntamente los titulares o sus representantes de las dependencias y de los sindicatos respectivos.
+Los trabajadores de los Poderes de la Unión y del Gobierno del Distrito Federal, se clasificarán conforme a lo señalado por el Catálogo General de Puestos del Gobierno Federal, el cual deberá contener los Catálogos de Puestos que definan los Órganos competentes de cada uno de los Poderes y del Gobierno del Distrito Federal. Los trabajadores de las entidades sometidas al régimen de esta Ley se clasificarán conforme a sus propios catálogos que establezcan dentro de su régimen interno. En la formulación, aplicación y actualización de los catálogos de puestos, participarán conjuntamente los titulares o los representantes de las dependencias y de los sindicatos respectivos, en los temas que les sean aplicables.
 
 ### CAPITULO II
 
@@ -284,9 +304,13 @@ El sueldo o salario que se asigna en los tabuladores regionales para cada puesto
 
 Los niveles de sueldo del tabulador que consignen sueldos equivalentes al salario mínimo deberán incrementarse en el mismo porcentaje en que se aumente éste.
 
-> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2006)</small>
 
-La Secretaría de Programación y Presupuesto, tomando en cuenta la opinión de la Federación de Sindicatos de Trabajadores al Servicio del Estado, fijará las normas, lineamientos y políticas que permitan establecer las diferencias en las remuneraciones asignadas para los casos de alcances en los niveles de tabulador que se originen con motivo de los incrementos a que se refiere el párrafo anterior.
+La Secretaría de Hacienda y Crédito Público, tomando en cuenta la opinión de la Federación de Sindicatos de Trabajadores al Servicio del Estado, fijará las normas, lineamientos y políticas que permitan establecer las diferencias en las remuneraciones asignadas para los casos de alcances en los niveles de tabulador que se originen con motivo de los incrementos a que se refiere el párrafo anterior.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2006)</small>
+
+En los Poderes de la Unión, los tabuladores salariales serán determinados por sus respectivos órganos competentes, de conformidad con su régimen interno y se integrarán a sus respectivos presupuestos anuales de egresos.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
@@ -1621,3 +1645,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 D.O.F. 23 DE ENERO DE 1998.
 
 ÚNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
+
+D.O.F. 3 DE MAYO DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
