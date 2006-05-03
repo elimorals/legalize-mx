@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2005-11-09"
+last_updated: "2006-05-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE MAYO DE 2006.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -2110,9 +2110,11 @@ XVII. Promover el intercambio científico con la comunidad nacional e internacio
 
 XVIII. Realizar las visitas relacionadas con las solicitudes de autorización o revalidación en el ámbito de su competencia.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 3 DE MAYO DE 2006)</small>
+
 ###### Artículo 55.
 
-Corresponde a la Dirección General de Regulación y Gestión Ambiental del Agua, Suelo y Residuos:
+Corresponde a la Dirección General de Regulación y Vigilancia Ambiental:
 
 > <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2001)</small>
 
@@ -2122,7 +2124,9 @@ II. Realizar acciones para la protección, restauración y mejoramiento ambienta
 
 III. Formular proyectos y programas, encaminados al diseño de estrategias para la prevención y control de la contaminación del suelo, subsuelo, manto freático y cuerpos acuáticos receptores en el Distrito Federal;
 
-IV. Dar seguimiento permanente y evaluar los resultados de las acciones derivadas de los programas de prevención y control de la contaminación del suelo, subsuelo, manto friático (sic) y cuerpos acuáticos receptores;
+> <small>(REFORMADA, G.O. 3 DE MAYO DE 2006)</small>
+
+IV. Dar seguimiento permanente y evaluar los resultados de las acciones derivadas de los Programas de Prevención y Control de la Contaminación del Suelo, Subsuelo, Manto Freático y Cuerpos Acuáticos Receptores;
 
 V. Coordinar y vigilar el registro de descargas de aguas residuales de fuentes fijas que se vierten a los sistemas de drenaje, alcantarillado y demás cuerpos receptores;
 
@@ -2130,17 +2134,25 @@ VI. Proporcionar los fundamentos técnicos para el diseño y aplicación de leye
 
 VII. Vigilar y aplicar, en el ámbito de la competencia del Distrito Federal, la observancia de las normas oficiales mexicanas y demás normatividad en materia ambiental;
 
-VIII. Integrar en coordinación con los órganos administrativos y demás autoridades competentes, los comités de normalización en los que deba participar la Administración Pública en materia ambiental;
+> <small>(REFORMADA, G.O. 3 DE MAYO DE 2006)</small>
 
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2001)</small>
+VIII. Integrar en coordinación con las Unidades Administrativas de la Secretaría del Medio Ambiente y demás autoridades competentes, el Comité de Normalización Ambiental y grupos de trabajo para elaboración de normas en las que deba participar la Administración Pública en materia ambiental;
 
-IX. Tramitar los procedimientos por infracciones a la normatividad en materia de contaminación ambiental, autorizaciones de impacto y riesgo ambiental y funcionamiento de los establecimientos autorizados para la realización de verificaciones vehiculares y prestadores de servicios ambientales e imponer las sanciones administrativas y medidas de seguridad que procedan;
+> <small>(REFORMADA, G.O. 3 DE MAYO DE 2006)</small>
 
-X. Controlar la circulación de vehículos cuyos niveles de emisión de contaminantes rebasen los límites máximos permisibles establecidos en las normas oficiales mexicanas aplicables, o aquellos determinados por las autoridades competentes;
+IX. Tramitar los procedimientos por infracciones a la normatividad en materia de contaminación ambiental, áreas verdes urbanas, áreas de valor ambiental, autorizaciones de impacto y riesgo ambiental y funcionamiento de los establecimientos autorizados para la realización de verificaciones vehiculares y prestadores de servicios ambientales, así como imponer las sanciones administrativas y mediadas de seguridad que procedan;
+
+> <small>(REFORMADA, G.O. 3 DE MAYO DE 2006)</small>
+
+X. Realizar la inspección y control de la circulación de los vehículos cuyos niveles de emisión de contaminantes rebasen los limites máximos permisibles establecidos en las Normas Oficiales Mexicanas aplicables, o aquellos determinados por las autoridades competentes y en su caso aplicar la sanción correspondiente;
 
 XI. Aplicar mecanismos y programas de vigilancia, seguimiento y cumplimiento de acciones dirigidas al funcionamiento normativo de los centros de verificación vehicular. En caso de incumplimiento, suspender o cancelar las autorizaciones otorgadas;
 
-XII. Establecer condiciones particulares de descarga de aguas residuales al sistema de drenaje, alcantarillado y demás cuerpos receptores del Distrito Federal;
+> <small>(REFORMADA, G.O. 3 DE MAYO DE 2006)</small>
+
+XII. Establecer a las fuentes fijas, condiciones particulares de descargas de aguas residuales al sistema de drenaje, alcantarillado y demás cuerpos receptores del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 3 DE MAYO DE 2006)</small>
 
 XIII. Promover el reuso del agua, la implantación y operación de sistemas de tratamiento de aguas residuales y aprovechamiento de aguas pluviales, así como la restauración y protección de los mantos freáticos;
 
@@ -2148,11 +2160,13 @@ XIV. Participar con las autoridades competentes, en el establecimiento de los si
 
 XV. Evaluar y, en su caso, otorgar autorizaciones en materia de impacto y riesgo ambiental;
 
-XVI. Evaluar, y en su caso, otorgar las licencias de funcionamiento de fuentes fijas competencia del Distrito Federal;
+> <small>(REFORMADA, G.O. 3 DE MAYO DE 2006)</small>
 
-> <small>(REFORMADA, G.O. 19 DE MAYO DE 2004)</small>
+XVI. Evaluar, y en su caso, otorgar la licencia ambiental única a las fuentes fijas en la materia ambiental de competencia del Distrito Federal;
 
-XVII. Vigilar en coordinación con la Dirección General de la Comisión de Recursos Naturales y Desarrollo Rural, órganos político administrativos y demás autoridades competentes, la observancia de las declaraciones que se expidan en materia ambiental;
+> <small>(REFORMADA, G.O. 3 DE MAYO DE 2006)</small>
+
+XVII. Vigilar en coordinación con la Dirección General de la Comisión de Recursos Naturales y Desarrollo Rural, órganos político administrativos y demás autoridades competentes, la observancia de las declaratorias que se expidan en materia ambiental;
 
 XVIII. Elaborar y participar en la formulación y ejecución de programas para la protección, restauración y mejoramiento del ambiente, así como para la prevención y control de riesgos ambientales en el Distrito Federal;
 
@@ -2170,11 +2184,29 @@ XXIII. Proporcionar ayuda técnica y estímulos a productores y grupos empresari
 
 XXIV. Promover y aplicar estándares e indicadores de calidad ambiental;
 
-> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, G.O. 3 DE MAYO DE 2006)</small>
 
-XXV. Establecer, coordinar y desarrollar las actividades de inspección y vigilancia ambiental; así como ordenar la realización de visitas y (sic) inspección correspondientes, y
+XXV. Establecer, coordinar y desarrollar las actividades de inspección y vigilancia ambiental; así como ordenar la realización de visitas y actos de inspección correspondientes;
 
-XXVI. Elaborar, aprobar, publicar y aplicar, en el ámbito de su competencia, en coordinación y con la participación que corresponda a las demás autoridades competentes, programas y medidas para prevenir y controlar contingencias ambientales y emergencias ecológicas ocasionadas por la contaminación del suelo, subsuelo, manto freático y cuerpos acuáticos receptores en el Distrito Federal.
+> <small>(REFORMADA, G.O. 3 DE MAYO DE 2006)</small>
+
+XXVI. Elaborar, aprobar, publicar y aplicar, en el ámbito de su competencia, en coordinación y con la participación de las autoridades competentes, programas y medidas para prevenir y controlar contingencias ambientales y emergencias ecológicas ocasionadas por la contaminación del aire, suelo, subsuelo, manto freático y cuerpos acuáticos receptores en el Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 3 DE MAYO DE 2006)</small>
+
+XXVII. Vigilar el cumplimiento estricto de las disposiciones jurídicas y administrativas de las áreas de valor ambiental y de las áreas verdes urbanas del Distrito Federal, así como aplicar las sanciones administrativas y medidas correctivas, de seguridad y de resarcimiento de daño, que de ellas emanen;
+
+> <small>(ADICIONADA, G.O. 3 DE MAYO DE 2006)</small>
+
+XXVIII. Evaluar y, en su caso, otorgar las autorizaciones en materia de planes de manejo para los residuos sólidos;
+
+> <small>(ADICIONADA, G.O. 3 DE MAYO DE 2006)</small>
+
+XXIX. Establecer y mantener actualizado el Padrón de las Asociaciones Protectoras de Animales y de Organizaciones Sociales dedicadas al mismo objeto, así como el Padrón de Animales del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 3 DE MAYO DE 2006)</small>
+
+XXX. Establecer y mantener actualizado el registro de emisiones y transferencia de contaminantes con base en la información que proporcionen las fuentes fijas de competencia del Distrito Federal.
 
 ###### Artículo 56.
 
@@ -2422,7 +2454,7 @@ XVI. Elaborar, coordinar y ejecutar los trabajos de desarrollo de las áreas de 
 
 XVII. Determinar y aplicar en conjunto con las demás autoridades competentes los programas y medidas para prevenir y controlar contingencias y emergencias ambientales, así como las de seguridad, en las áreas de valor ambiental;
 
-XVIII. Vigilar el cumplimiento estricto de las disposiciones jurídicas y administrativas de las áreas de valor ambiental y de las áreas verdes urbanas del Distrito Federal y así como aplicar las sanciones administrativas y medidas correctivas o de seguridad que de ellas emanen;
+XVIII.- (DEROGADA, G.O. 3 DE MAYO DE 2006)
 
 XIX. Establecer los medios para reciclar y aprovechar los residuos vegetales que se generan de las actividades de producción y transformación pública o privada del Distrito Federal;
 
@@ -4638,7 +4670,7 @@ XIX. Solicitar a las Dependencias, Órganos Desconcentrados, Órganos Político-
 
 > <small>(REFORMADO, G.O. 9 DE NOVIEMBRE DE 2005)</small>
 
-Las atribuciones relativas a la realización de auditorías, formulación de observaciones, emisión de recomendaciones, seguimiento para la solventación de recomendaciones, emisión de dictámenes de auditoría, asistencia y participación en Comités y Subcomités en materia de Obra Pública, realización de inspecciones y verificación del correcto ejercicio y aplicación de recursos, requerimiento, aseguramiento, resguardo y custodia de información y documentación a que se refieren las fracciones I, III, IV, V, VIII, IX, X, XI, XIV, XVII y XVIII, podrán ser ejercidas por las Unidades Administrativas Técnico-Operativas de la Dirección General de Auditoría, así como por las Unidades Administrativas Técnico Operativas que determine el titular de la Contraloría General, sin perjuicio de que éste asuma el ejercicio directo de dichas atribuciones.sin perjuicio de que éste asuma el ejercicio directo de dichas atribuciones.
+Las atribuciones relativas a la realización de auditorías, formulación de observaciones, emisión de recomendaciones, seguimiento para la solventación de recomendaciones, emisión de dictámenes de auditoría, asistencia y participación en Comités y Subcomités en materia de Obra Pública, realización de inspecciones y verificación del correcto ejercicio y aplicación de recursos, requerimiento, aseguramiento, resguardo y custodia de información y documentación a que se refieren las fracciones I, III, IV, V, VIII, IX, X, XI, XIV, XVII y XVIII, podrán ser ejercidas por las Unidades Administrativas Técnico-Operativas de la Dirección General de Auditoría, así como por las Unidades Administrativas Técnico Operativas que determine el titular de la Contraloría General, sin perjuicio de que éste asuma el ejercicio directo de dichas atribuciones sin perjuicio de que éste asuma el ejercicio directo de dichas atribuciones.
 
 ###### Artículo 103.
 
@@ -8833,3 +8865,7 @@ G.O. 9 DE NOVIEMBRE DE 2005.
 PRIMERO.- El presente decreto entrará en vigor a partir de la fecha de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+G.O. 3 DE MAYO DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
