@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2005-10-28"
+last_updated: "2006-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE MAYO DE 2006.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -9795,7 +9795,7 @@ ARTICULO 2,106.- La responsabilidad procedente de dolo es exigible en todas las 
 
 ARTICULO 2,107.- La responsabilidad de que se trata en este Título, además de importar la devolución de la cosa o su precio, o la de entrambos (sic), en su caso, importará la reparación de los daños y la indemnización de los perjuicios.
 
-ARTICULO 2,108.- Se entiende por daño la pérdida o menoscabo sufrido en el patrimonio por la falta de cumplimiento de una obligación.
+ARTICULO 2,108.- Se entiende por daño la perdida o menoscabo sufrido en el patrimonio por la falta de cumplimiento de una obligación.
 
 ARTICULO 2,109.- Se reputa perjuicio la privación de cualquiera ganancia lícita, que debiera haberse obtenido con el cumplimiento de la obligación.
 
@@ -11775,7 +11775,7 @@ III.- Para tomar capitales prestados.
 
 ARTICULO 2,713.- Las facultades que no se hayan concedido a los administradores, serán ejercitadas por todos los socios, resolviéndose los asuntos por mayoría de votos. La mayoría se computará por cantidades, pero cuando una sola persona represente el mayor interés y se trate de sociedades de más de tres socios, se necesita por lo menos el voto de la tercera parte de los socios.
 
-ARTICULO 2,714.- Siendo varios los socios encargados indistintamente de la administración, sin declaración de que deberán proceder de acuerdo, podrá cada uno de éllos practicar separadamente los actos administrativos que crea oportunos.
+ARTICULO 2,714.- Siendo varios los socios encargados indistintamente de la administración, sin declaración de que deberán proceder de acuerdo, podrá cada uno de ´rllos practicar separadamente los actos administrativos que crea oportunos.
 
 ARTICULO 2,715.- Si se ha convenido en que un administrador nada pueda practicar sin concurso de otro, solamente podrá proceder de otra manera, en caso de que pueda resultar perjuicio grave e irreparable a la sociedad.
 
@@ -12745,6 +12745,10 @@ ARTICULO 2,999.- Las oficinas del Registro Público se establecerán en el Distr
 
 ARTICULO 3,000.- El Registro Público funcionará conforme al sistema y métodos que determine el Reglamento.
 
+> <small>(ADICIONADO, G.O. 3 DE MAYO DE 2006)</small>
+
+Entre ellos, se deberá establecer un sistema informático mediante el cual se genere, concentre y explote la información registral.
+
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ARTICULO 3,001.- El Registro será Público. Los encargados del mismo tienen la obligación de permitir a las personas que lo soliciten, que se enteren de los asientos que obren en los folios del Registro Público y de los documentos relacionados con las inscripciones que estén archivados. También tienen la obligación de expedir copias certificadas de las inscripciones o constancias que figuren en los folios del Registro Público, así como certificaciones de existir o no asientos relativos a los bienes que se señalen.
@@ -13243,6 +13247,12 @@ Del sistema registral
 
 ARTICULO 3,059.- El Reglamento establecerá el sistema conforme al cual deberán llevarse los folios del Registro Público y practicarse los asientos.
 
+> <small>(ADICIONADO, G.O. 3 DE MAYO DE 2006)</small>
+
+El Registro Público deberá operar con un Sistema Informático, mediante el cual se generen, concentren y exploten los asientos registrales; cuyo alcance deberá establecerse en el Reglamento del Registro Público de la Propiedad del Distrito Federal.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+
 La primera inscripción de cada finca será de dominio o de posesión.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
@@ -13557,7 +13567,7 @@ Segundo.- Se derogan las disposiciones legales que se opongan al presente Decret
 
 D.O.F. 17 DE ENERO DE 1970.
 
-DECRETO QUE REFORMA LOS ARTÍCULOS 77, 78, 79, 363, 368, 390, 391, 397 FRACCIÓN III, 398, 403, 405 FRACCIÓN I Y 406 FRACCIONES I Y II DEL CÓDIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
+DECRETO QUE REFORMA LOS ARTICULOS 77, 78, 79, 363, 368, 390, 391, 397 FRACCION III, 398, 403, 405 FRACCION I Y 406 FRACCIONES I Y II DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
 UNICO.- Este Decreto entrará en vigor tres días después de la fecha de su publicación en el "Diario Oficial" de la Federación.
 
@@ -13872,6 +13882,12 @@ PRIMERO.- El presente Decreto entrará en vigor a los quince días de su publica
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial del Distrito Federal.
 
 G.O. 28 DE OCTUBRE DE 2005.
+
+PRIMERO.- Remítase al Jefe de Gobierno para su debida promulgación y publicación en la Gaceta Oficial del Distrito Federal y para mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO.- La presente reforma entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 3 DE MAYO DE 2006.
 
 PRIMERO.- Remítase al Jefe de Gobierno para su debida promulgación y publicación en la Gaceta Oficial del Distrito Federal y para mayor difusión en el Diario Oficial de la Federación.
 
