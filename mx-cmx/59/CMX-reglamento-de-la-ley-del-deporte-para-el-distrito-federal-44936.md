@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-del-deporte-para-el-distrito-federal-44936
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-06-10"
-last_updated: "2005-06-10"
+last_updated: "2006-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44936&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2005-05-23"
 
 REGLAMENTO DE LA LEY DEL DEPORTE PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE MAYO DE 2006.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el viernes 10 de junio de 2005.
 
@@ -42,6 +42,8 @@ El presente Reglamento es de orden público e interés social y de observancia o
 
 Este ordenamiento tiene por objeto reglamentar las disposiciones de la Ley del Deporte para el Distrito Federal.
 
+> <small>(REFORMADO, G.O. 3 DE MAYO DE 2006)</small>
+
 ###### Artículo 3°.
 
 Para los efectos del presente Reglamento, se entenderá por:
@@ -56,43 +58,55 @@ IV. CODEP: El Consejo del Deporte del Distrito Federal;
 
 V. Comité Delegacional: Se entenderá al Comité Delegacional del Deporte;
 
-VI. Delegación: Órgano Político Administrativo en cada demarcación territorial;
+VI. Coordinador de plan vacacional: Es el responsable de coordinar las actividades del plan vacacional, y deberá ser titulado o pasante de cualquiera de las licenciaturas en educación física, entrenamiento deportivo o administración del tiempo libre;
 
-VII. Deportista: Las personas que realicen actividades deportivas de orden competitivo o recreativo bajo reglamentación establecida;
+VII. Delegación: Órgano Político Administrativo en cada demarcación territorial;
 
-VIII. Entrenador: El profesional o técnico en entrenamiento deportivo, capacitado científicamente para desarrollar y provocar cambios morfofisiológicos y psicológicos en el individuo con fines competitivos, que posee conocimientos amplios en aspectos técnico-tácticos, metodología deportiva y básicos sobre medicina y ciencias aplicadas al deporte de acuerdo a la disciplina deportiva en la que se ha especializado;
+VIII. Educador físico: Es el profesional que cuenta con preparación pedagógica para lograr el desarrollo positivo de habilidades, hábitos y actitudes, contribuyendo al desarrollo armónico e integral del educando a través de la aplicación de actividades motrices sin ser objetivo principal la competencia deportiva o el alto rendimiento;
 
-IX. Fondo: El Fondo del Distrito Federal para el Fomento y Apoyo del Deporte;
+IX. Deportistas: Las personas que realicen actividades deportivas de orden competitivo o recreativo bajo reglamentación establecida;
 
-X. Guardavidas: Persona que cuenta con conocimientos específicos en salvamento acuático y es responsable de la seguridad de los usuarios durante el desarrollo del programa;
+X. Entrenador: El profesional o técnico en entrenamiento deportivo, capacitado científicamente para desarrollar y provocar cambios morfofisiológicos y psicológicos en el individuo con fines competitivos, que posee conocimientos amplios en aspectos técnico-tácticos, metodología deportiva y básicos sobre medicina y ciencias aplicadas al deporte de acuerdo a la disciplina deportiva en la que se ha especializado;
 
-XI. Instalaciones: Las Instalaciones Deportivas del Distrito Federal;
+XI. Fondo: El Fondo del Distrito Federal para el Fomento y Apoyo del Deporte;
 
-XII. Instituto: El Instituto del Deporte del Distrito Federal;
+XII. Guardavidas: Persona que cuenta con conocimientos específicos en salvamento acuático y es responsable de la seguridad de los usuarios durante el desarrollo del programa;
 
-XIII. Instructor: Persona capacitada para entrenar y aplicar cargas de trabajo con la finalidad de desarrollar y mantener las capacidades físicas a un nivel óptimo sin ser su objetivo principal la actividad competitiva, siendo su finalidad principal la de preservar la salud;
+XIII. Instalaciones: Las Instalaciones Deportivas del Distrito Federal;
 
-XIV. Ley: La Ley del Deporte para el Distrito Federal;
+XIV. Instituto: El Instituto del Deporte del Distrito Federal;
 
-XV. Ligas: Las Ligas Deportivas del Distrito Federal;
+XV. Instructor: Persona capacitada para entrenar y aplicar cargas de trabajo con la finalidad de desarrollar y mantener las capacidades físicas a un nivel óptimo sin ser su objetivo principal la actividad competitiva, siendo su finalidad principal la de preservar la salud;
 
-XVI. Monitor: Persona que cuenta con conocimientos y capacitación básica en liderazgo, recreación, predeporte, manejo y control de grupo, que presta su servicio como apoyo en las actividades relacionadas con la activación física, la recreación, el deporte y las expresiones culturales;
+XVI. Lineamientos para planes vacacionales: Documento oficial emitido por el Instituto en él se se (sic) establecerán las directrices para su aplicación;
 
-XVII. Preparador físico: Persona capacitada y que cuenta con conocimientos sobre desarrollo de capacidades físicas, métodos de entrenamiento, dosificación de cargas de entrenamiento y planificación, generalmente colabora en deportes de conjunto, donde existe otro especialista para los aspectos técnico-tácticos de acuerdo a la disciplina deportiva de que se trate;
+XVII. Ley: La Ley del Deporte para el Distrito Federal;
 
-XVIII. Programa: Programa del Deporte del Distrito Federal;
+XVIII. Plan Vacacional: Es la integración de actividades físicas, deportivas, recreativas y culturales dirigidas a la utilización positiva del tiempo libre y constituye acciones organizadas y estructuradas de tal forma que favorezcan el desarrollo de diferentes capacidades psicomotrices considerando la edad, género, nivel de maduración motriz y psicológica de los participantes;
 
-XIX. Promotor deportivo: Persona física voluntaria y capacitada que presta sus servicios de apoyo en actividades de activación física, predeporte y organización de eventos deportivos;
+XIX. Ligas: Las Ligas Deportivas del Distrito Federal;
 
-XX. Registro: El Registro del Deporte del Distrito Federal;
+XX. Monitor: Persona que cuenta con conocimientos y capacitación básica en liderazgo, recreación, predeporte, manejo y control de grupo, que presta su servicio como apoyo en las actividades relacionadas con la activación física, la recreación, el deporte y las expresiones culturales;
 
-XXI. Secretaría: La Secretaría de Desarrollo Social del Distrito Federal;
+XXI. Preparador físico: Persona capacitada y que cuenta con conocimientos sobre desarrollo de capacidades físicas, métodos de entrenamiento, dosificación de cargas de entrenamiento y planificación, generalmente colabora en deportes de conjunto, donde existe otro especialista para los aspectos técnico-tácticos de acuerdo a la disciplina deportiva de que se trate;
 
-XXII. Seleccionado: Persona que ha alcanzado un nivel de rendimiento óptimo dentro del plano competitivo y, que en justas deportivas de carácter selectivo rumbo a eventos regionales, nacionales e internacionales ha logrado obtener un lugar para representar al Club, Liga, Asociación, Delegación, Distrito Federal, Federación y País al que pertenece;
+XXII. Programa: Programa del Deporte del Distrito Federal;
 
-XXIII. Sistema: El Sistema del Deporte del Distrito Federal; y,
+XXIII. Programas: Los programas que en materia de capacitación para la cultura física y deporte aplique, formule y desarrolle el Instituto del Deporte del Distrito Federal, en cumplimiento de las disposiciones jurídicas aplicables;
 
-XXIV. Usuario: Persona física o moral autorizada para recibir servicios o realizar actividades físicas, recreativas y deportivas en cada instalación.
+XXIV. Promotor deportivo: Persona física voluntaria y capacitada que presta sus servicios de apoyo en actividades de activación física, deporte y organización de eventos deportivos.
+
+XXV. Registro: El Registro del Deporte del Distrito Federal;
+
+XXVI. Secretaría: La Secretaría de Desarrollo Social del Distrito Federal;
+
+XXVII. Seleccionado: Persona que ha alcanzado un nivel de rendimiento óptimo dentro del plano competitivo y, que en justas deportivas de carácter selectivo rumbo a eventos regionales, nacionales e internacionales ha logrado obtener un lugar para representar al Club, Liga, Asociación, Delegación, Distrito Federal, Federación y País al que pertenece;
+
+XXVIII. Sistema: El Sistema del Deporte del Distrito Federal;
+
+XXIX. Técnico de Plan Vacacional: Es la persona que desempeña las actividades específicas del Plan vacacional, contará con conocimientos y habilidades especializados en cualquier expresión cultural, recreativa y del deporte, y deberá ser titulado o pasante de cualquiera de las licenciaturas en educación física, entrenamiento deportivo o administración del tiempo libre u otras similares según la disciplina a desarrollar, y
+
+XXX. Usuario: Persona física o moral autorizada para recibir servicios o realizar actividades físicas, recreativas y deportivas en cada instalación.
 
 ###### Artículo 4°.
 
@@ -142,9 +156,11 @@ Las personas físicas y las organizaciones que desarrollen actividades deportiva
 
 ### CAPÍTULO TERCERO. Del Consejo del Deporte
 
+> <small>(REFORMADO, G.O. 3 DE MAYO DE 2006)</small>
+
 ###### Artículo 11.
 
-El Consejo del Deporte del Distrito Federal es el órgano consultivo y de propuesta que tiene por objeto opinar y coordinar acciones específicas de colaboración, difusión, promoción, desarrollo y estímulo en las tareas necesarias para crear y consolidar condiciones que favorezcan el derecho de los habitantes del Distrito Federal al conocimiento y práctica del deporte.
+El Consejo del Deporte del Distrito Federal es el órgano consultivo y de propuesta que tiene por objeto opinar y coordinar acciones específicas de colaboración, difusión, promoción, desarrollo y estímulo en las tareas necesarias para crear y consolidar condiciones que favorezcan el derecho de los habitantes del Distrito Federal al conocimiento y práctica de la activación física, el deporte y la recreación.
 
 ###### Artículo 12.
 
@@ -160,9 +176,11 @@ IV. Un representante de organismos que presidan deportes de conjunto;
 
 V. Un representante de organismos que manejen deportes individuales;
 
-VI. Un representante de organismos para individuos con capacidades diferentes.
+VI. Un representante de organismos para individuos con capacidades diferentes;
 
-VII. Un representante del sector estudiantil;
+> <small>(REFORMADA, G.O. 3 DE MAYO DE 2006)</small>
+
+VII. Un representante del sector escolar y estudiantil;
 
 VIII. Dos representantes de la iniciativa privada que se hayan distinguido por el apoyo brindado económica o técnicamente al fomento del deporte y la cultura física; y,
 
@@ -320,9 +338,17 @@ b) Actividades de apoyo al deporte y cultura física para niños y jóvenes;
 
 c) Actividades deportivas para la tercera edad;
 
-d) Acciones de fomento del deporte y cultura física dirigidas a personas con capacidades diferentes, las cuales deberán incluir las facilidades y el equipamiento correspondiente en las Instalaciones Deportivas; y,
+d) Acciones de fomento del deporte y cultura física dirigidas a personas con capacidades diferentes, las cuales deberán incluir las facilidades y el equipamiento correspondiente en las Instalaciones Deportivas; y, (sic)
 
 e) Acciones de vigilancia, conservación y mantenimiento de áreas deportivas;
+
+> <small>(ADICIONADO, G.O. 3 DE MAYO DE 2006)</small>
+
+f) Actividades de promoción y desarrollo de los Planes Vacacionales;
+
+> <small>(ADICIONADO, G.O. 3 DE MAYO DE 2006)</small>
+
+g) Acciones de fomento y desarrollo de investigación de la cultura física y deportiva;
 
 III. La evaluación de las necesidades del Instituto respecto del equipamiento, mantenimiento, diversificación, adaptación y conservación de la infraestructura deportiva que tenga a su cargo;
 
@@ -332,9 +358,11 @@ V. Los proyectos de acciones específicas de los programas o subprogramas, en vi
 
 El Programa será elaborado por el Instituto, revisado por el CODEP y puesto a consideración de la Secretaría. Una vez que la Secretaría lo apruebe, será enviado para su publicación en la Gaceta Oficial del Distrito Federal.
 
+> <small>(REFORMADO, G.O. 3 DE MAYO DE 2006)</small>
+
 ###### Artículo 28.
 
-En la elaboración del Programa y subprogramas deberán considerarse aspectos vinculados a la promoción, rendimiento, competitividad, salud, educación y capacitación deportiva.
+En la elaboración del programa y subprogramas deberán considerarse aspectos vinculados a la promoción, rendimiento, competitividad, salud, educación, capacitación, actualización deportiva e investigación.
 
 ###### Artículo 29.
 
@@ -370,13 +398,23 @@ V. Recibir los reportes que cada Delegación le entregue cada tres meses;
 
 VI. Realizar estudios comparados en políticas públicas sobre asuntos deportivos, analizando la viabilidad de implementarlos para el desarrollo de la actividad;
 
-VII. Desarrollar y controlar el Sistema de informática.
+VII. Desarrollar y controlar el Sistema de informática;
+
+> <small>(ADICIONADA, G.O. 3 DE MAYO DE 2006)</small>
+
+VIII.- Diseñar y enviar a las delegaciones y clubes privados los lineamientos para planes vacacionales, y
+
+> <small>(ADICIONADA, G.O. 3 DE MAYO DE 2006)</small>
+
+IX.- Realizar la revisión técnica y emitir el aval correspondiente para impartir cursos de capacitación en cualquiera de las áreas del ámbito de la cultura física y deportiva que promuevan empresas privadas.
 
 ### CAPÍTULO SEXTO. Del Registro del Deporte
 
+> <small>(REFORMADO, G.O. 3 DE MAYO DE 2006)</small>
+
 ###### Artículo 33.
 
-El Registro del Deporte del Distrito Federal es el instrumento mediante el cual se llevará de manera organizada, un registro general obtenido de la inscripción de usuarios internos y externos, instalaciones deportivas en cada Delegación, organizaciones y clubes deportivos y organismos dedicados a la investigación, así como de entrenadores, preparadores físicos, monitores, guardavidas, promotores deportivos, jueces, árbitros, instructores, técnicos, trabajadores, prestadores de servicios y funcionarios que dependan del deporte.
+El Registro del Deporte del Distrito Federal es el instrumento mediante el cual se llevará de manera organizada, un registro general obtenido de la inscripción de usuarios internos y externos, instalaciones deportivas en cada Delegación, organizaciones y clubes deportivos y organismos gubernamentales o privados dedicados a la investigación y a la capacitación, así como de entrenadores, preparadores físicos, monitores, guardavidas, promotores deportivos, jueces, árbitros, instructores, técnicos, coordinadores y técnicos de planes vacacionales, trabajadores, prestadores de servicios y funcionarios que dependan del deporte.
 
 ###### Artículo 34.
 
@@ -580,9 +618,11 @@ En relación con la captación de recursos, el Instituto deberá mantener estrec
 
 En cuanto a la captación y aplicación de los recursos, el Instituto se apegará a lo establecido en la fracción VIII del artículo 204 del Reglamento Interior de la Administración Pública del Distrito Federal, y al Código Financiero del Distrito Federal.
 
+> <small>(REFORMADO, G.O. 3 DE MAYO DE 2006)</small>
+
 ###### Artículo 55.
 
-Todos los recursos distintos a los de orden presupuestal que la Secretaría o el Instituto capten para el apoyo o fomento de las actividades deportivas, se integrarán al Fondo que tendrá como finalidad aplicar dichos recursos al desarrollo, apoyo y fomento del deporte en el Distrito Federal.
+Todos los recursos distintos al presupuestal, que la Secretaría o el Instituto capten para el apoyo o fomento de las actividades de la cultura física y deportiva, se integrarán al Fondo que tendrá como finalidad aplicar dichos recursos al desarrollo, apoyo y fomento de la práctica deportiva, recreativa, así como de la capacitación, actualización e investigación de la cultura física y deportiva.
 
 ###### Artículo 56.
 
@@ -746,9 +786,11 @@ Con base en el expediente de queja, se deberá analizar de manera expedita e imp
 
 Conforme a los artículos 38 y 39 de la Ley, las resoluciones que dicten las autoridades podrán ser apelables mediante el recurso de reconsideración.
 
+> <small>(REFORMADO, G.O. 3 DE MAYO DE 2006)</small>
+
 ###### Artículo 79.
 
-Serán sujetos de sanciones: los dirigentes deportivos, deportistas, usuarios, entrenadores, instructores, preparadores físicos, técnicos, monitores, guardavidas, promotores deportivos, jueces, árbitros, prestadores de servicios, trabajadores y funcionarios que dependan del deporte y cualquier otro personal vinculado a la cultura física y al deporte de organizaciones, clubes deportivos y organismos dedicados a la investigación.
+Serán sujetos de sanciones los dirigentes deportivos, deportistas, usuarios, entrenadores, instructores, preparadores físicos, técnicos, monitores, guardavidas, promotores deportivos, jueces, árbitros, coordinadores y técnicos de planes vacacionales, prestadores de servicios, trabajadores y funcionarios que dependan del deporte y cualquier otro personal vinculado a la cultura física y al deporte independientemente de que pertenezcan o no a organismos dedicados a la investigación.
 
 ###### Artículo 80.
 
@@ -774,7 +816,9 @@ h) El quebrantamiento de la sanción impuesta por falta muy grave o grave;
 
 i) Los actos de discriminación hacia algún usuario, deportista o autoridad deportiva, en razón de su condición social, física o intelectual dentro de alguna Instalación Deportiva;
 
-j) Carecer de certificación de capacidades y conocimientos emitidas por el Instituto o por Institución en la materia con validez oficial para aquellas personas que impartan clases técnicas o prácticas de cultura física o deporte en forma pública o privada;
+> <small>(REFORMADO, G.O. 3 DE MAYO DE 2006)</small>
+
+j) Carecer de cerficación de capacidades y conocimientos emitidas por el Instituto en cumplimiento a los programas o por Institución en la materia con validez oficial, que avale por escrito la aptitud y capacitación adquirida para la enseñanza del deporte y la cultura física en una especialidad o área específica, y que se encuentre en condiciones de transmitir sus conocimientos para el desarrollo de la cultura física y el deporte;
 
 k) La falta de verificación por parte de los administradores de instalaciones deportivas y presidentes de asociaciones sobre instructores, entrenadores y técnicos para que cuenten con la certificación emitida por el Instituto o por Instituciones en la materia con validez oficial; y,
 
@@ -866,13 +910,17 @@ Para la imposición de sanciones por infracciones a la Ley y a este Reglamento, 
 
 ### CAPÍTULO DÉCIMO PRIMERO. De las Certificaciones
 
+> <small>(REFORMADO, G.O. 3 DE MAYO DE 2006)</small>
+
 ###### Artículo 87.
 
-Se entenderá por certificación, aquella aprobación que el Instituto o institución de la materia que cuente con reconocimiento oficial extienda o avale por escrito en virtud de la aptitud y capacitación adquirida para la enseñanza del deporte y la cultura física en una especialidad o área específica, y que se encuentre en condiciones de trasmitir sus conocimientos para el desarrollo de la cultura física y el deporte.
+Se entenderá por certificación, la aprobación por escrito en la que el Instituto en cumplimiento a los programas, o Institución que cuente con reconocimiento oficial, avale la aptitud y capacitación adquirida por una persona para la enseñanza del deporte y la cultura física en una especialidad o área específica, y que se encuentre en condiciones de transmitir sus conocimientos para el desarrollo de la cultura física y el deporte.
+
+> <small>(REFORMADO, G.O. 3 DE MAYO DE 2006)</small>
 
 ###### Artículo 88.
 
-Serán objeto de certificación los deportistas, entrenadores, técnicos, instructores y demás personal avocado o que pretenda la enseñanza de la cultura física y el deporte dentro de una Instalación Deportiva, pública o privada.
+Serán objeto de certificación los deportistas, entrenadores, técnicos, instructores y demás personal avocado o que pretenda la enseñanza de la cultura física y el deporte dentro de una instalación deportiva, pública o privada; así como las que se desarrollen en parques y jardines por iniciativa propia.
 
 ###### Artículo 89.
 
@@ -909,3 +957,9 @@ TERCERO.- Se derogan todas aquellas disposiciones jurídicas y administrativas q
 CUARTO.- A más tardar en treinta días naturales posteriores a la entrada en vigencia del presente Reglamento deberán instalarse el Consejo del Deporte del Distrito Federal y en sesenta días naturales los Comités Delegacionales para el Deporte.
 
 Dado en la Residencia del Jefe de Gobierno del Distrito Federal, en la Ciudad de México a los veintitrés días de mes de mayo de dos mil cinco.- ANDRÉS MANUEL LÓPEZ OBRADOR, JEFE DE GOBIERNO DEL DISTRITO FEDERAL.- FIRMA.- EL SECRETARIO DE GOBIERNO, ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, MARCELO EBRARD CASAUBÓN.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 3 DE MAYO DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
