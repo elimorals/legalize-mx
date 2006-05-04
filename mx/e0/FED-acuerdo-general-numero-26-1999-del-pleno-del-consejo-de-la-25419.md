@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-26-1999-del-pleno-del-consejo-de-la-2541
 country: "mx"
 rank: "acuerdo"
 publication_date: "1999-09-17"
-last_updated: "1999-09-17"
+last_updated: "2006-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25419&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1999-09-06"
 
 ACUERDO GENERAL NUMERO 26/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREA LA COMISION DE VIGILANCIA, INFORMACION Y EVALUACION DEL CONSEJO DE LA JUDICATURA FEDERAL Y LA SECRETARIA EJECUTIVA CORRESPONDIENTE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE MAYO DE 2006.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 17 de septiembre de 1999.
 
@@ -61,9 +61,13 @@ V.- Participar en la esfera de su competencia en la preparación de criterios de
 
 VI.- Coordinar la elaboración de estudios así como la instrumentación y seguimiento de las acciones que se requieran en materia judicial para el adecuado desarrollo de las funciones del Consejo de la Judicatura Federal;
 
-VII.- Actuar como instancia consultiva en los asuntos a que se refieren las fracciones IV y V de este artículo, con el propósito de proveer a las áreas competentes de los elementos necesarios para la toma de decisiones, y;
+VII.- Actuar como instancia consultiva en los asuntos a que se refieren las fracciones IV y V de este artículo, con el propósito de proveer a las áreas competentes de los elementos necesarios para la toma de decisiones, y; (sic)
 
-VIII.- Las demás que determine el Pleno del Consejo de la Judicatura Federal.
+> <small>(ADICIONADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 27/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE MAYO DE 2006)</small>
+
+VIII.- Determinar las políticas y criterios inherentes a la organización, funcionamiento y desarrollo del Archivo General del Consejo de la Judicatura Federal; y
+
+IX.- Las demás que determine el Pleno del Consejo de la Judicatura Federal.
 
 TERCERO.- La Comisión de Vigilancia, Información y Evaluación, contará con el personal de apoyo que el Pleno del Consejo de la Judicatura Federal autorizó a las comisiones permanentes a que se refiere el artículo 77 de la Ley Orgánica del Poder Judicial de la Federación.
 
@@ -104,3 +108,15 @@ PRIMERO.- El presente Acuerdo entrará en vigor en la fecha de su aprobación.
 SEGUNDO.- Publíquese en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMENEZ, SECRETARIO EJECUTIVO DEL PLENO Y CARRERA JUDICIAL DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General número 26/1999, por el que se crea la Comisión de Vigilancia, Información y Evaluación del Consejo de la Judicatura Federal y la Secretaría Ejecutiva correspondiente, fue aprobado por el Pleno del Consejo de la Judicatura Federal, en sesión extraordinaria de seis de septiembre de mil novecientos noventa y nueve, por unanimidad de votos de los señores Consejeros: Presidente ministro Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Jaime Manuel Marroquín Zaleta, Enrique Sánchez Bringas, José Guadalupe Torres Morales y Sergio Armando Valls Hernández.- México, Distrito Federal, a trece de septiembre de mil novecientos noventa y nueve.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 4 DE MAYO DE 2006.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- Se deroga cualquier disposición emitida con anterioridad que se oponga al presente Acuerdo.
+
+CUARTO.- La documentación a cargo de las unidades administrativas y los órganos auxiliares del Consejo, deberá sujetarse a los lineamientos que al efecto se emitan.
