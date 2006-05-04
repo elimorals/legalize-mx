@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "2006-04-24"
+last_updated: "2006-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAPF"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE MAYO DE 2006.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 29 de diciembre de 1976.
 
@@ -424,13 +424,29 @@ II.- Manejar el activo y las reservas de la Armada en todos sus aspectos;
 
 III.- Conceder licencias y retiros, e intervenir en las pensiones de los miembros de la Armada;
 
-IV.- Ejercer la soberanía en aguas territoriales, así como la vigilancia de las costas del territorio, vías navegables, islas nacionales y la zona económica exclusiva;
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2006)</small>
 
-V.- Organizar, administrar y operar el servicio de aeronáutica naval militar;
+IV.- Ejercer:
+
+a. La soberanía en el mar territorial, su espacio aéreo y costas del territorio;
+
+b. Vigilancia de las zonas marinas mexicanas, sin perjuicio de las atribuciones que correspondan a otras dependencias, y
+
+c. Las medidas y competencias que le otorguen los ordenamientos legales y los instrumentos internacionales de los que México sea parte, en la Zona Contigua y en la Zona Económica Exclusiva;
+
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2006)</small>
+
+V.- Ejercer la autoridad para garantizar el cumplimiento del orden jurídico en las zonas marinas mexicanas, proteger el tráfico marítimo y salvaguardar la vida humana en la mar, sin perjuicio de las atribuciones que correspondan a otras dependencias;
 
 VI.- Dirigir la educación pública naval;
 
-VII.- Organizar y administrar el servicio de policía marítima;
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2006)</small>
+
+VII.- Ejercer funciones de policía marítima para mantener el estado de derecho en las zonas marinas mexicanas;
+
+> <small>(ADICIONADA, D.O.F. 4 DE MAYO DE 2006)</small>
+
+VII bis.- Llevar a cabo la búsqueda, rescate, salvamento y auxilio en las zonas marinas mexicanas de conformidad con las normas nacionales e internacionales, en su caso, en coordinación con las demás autoridades competentes;
 
 VIII.- Inspeccionar los servicios de la Armada;
 
@@ -438,23 +454,61 @@ IX.- Construir, reconstruir y conservar las obras portuarias que requiera la Arm
 
 X.- Establecer y administrar los almacenes y estaciones de combustibles y lubricantes de la Armada;
 
-XI.- Ejecutar los trabajos topohidrográficos de las costas, islas, puertos y vías navegables, así como organizar el archivo de cartas marítimas y las estadísticas relativas;
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2006)</small>
+
+XI.- Ejecutar los trabajos hidrográficos de las costas, islas, puertos y vías navegables, así como organizar el archivo de cartas marítimas y las estadísticas relativas;
 
 XII.- Intervenir en el otorgamiento de permisos para expediciones o exploraciones científicas extranjeras o internacionales en aguas nacionales;
 
 XIII.- Intervenir en la administración de la justicia militar;
 
-XIV.- Construir, mantener y operar, astilleros, diques, varaderos y establecimientos navales destinados a los buques de la Armada de México;
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2006)</small>
 
-XV.- Asesorar militarmente a los proyectos de construcción de toda clase de vías generales de comunicación por agua y sus partes integrantes;
+XIV.- Construir, mantener y operar astilleros, diques, varaderos, dragas, unidades y establecimientos navales y aeronavales, para el cumplimiento de la misión de la Armada de México, así como prestar servicios en el ámbito de su competencia que coadyuven al desarrollo marítimo nacional, de conformidad con las disposiciones aplicables y en concordancia con las políticas y programas que para dicho desarrollo determine la Secretaría de Comunicaciones y Transportes y las demás dependencias que tengan relación con el mismo;
+
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2006)</small>
+
+XV.- Emitir opinión con fines de seguridad nacional en los proyectos de construcción de toda clase de vías generales de comunicación por agua y sus partes, relacionados con la ingeniería portuaria marítima y señalamiento marino;
 
 XVI.- Organizar y prestar los servicios de sanidad naval;
 
-XVII.- Programar y ejecutar, directamente o en colaboración con otras dependencias e instituciones, los trabajos de investigación oceanográfica en las aguas de jurisdicción federal;
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2006)</small>
+
+XVII.- Programar, fomentar, desarrollar y ejecutar, sin perjuicio de las atribuciones que correspondan a otras dependencias, los trabajos de investigación científica y tecnológica en las ciencias marítimas, creando los institutos de investigación necesarios;
 
 XVIII.- Integrar el archivo de información oceanográfica nacional, y
 
-XIX.- Los demás que le atribuyan expresamente las leyes o reglamentos.
+> <small>(ADICIONADA, D.O.F. 4 DE MAYO DE 2006)</small>
+
+XIX.- Celebrar acuerdos en el ámbito de su competencia con otras dependencias e instituciones nacionales o extranjeras, en los términos de los tratados internacionales y conforme a la legislación vigente;
+
+> <small>(ADICIONADA, D.O.F. 4 DE MAYO DE 2006)</small>
+
+XX.- Ejercer acciones para llevar a cabo la defensa y seguridad nacionales en el ámbito de su responsabilidad, así como coordinar con las autoridades competentes nacionales el control del tráfico marítimo cuando las circunstancias así lo lleguen a requerir, de acuerdo con los instrumentos jurídicos internacionales y la legislación nacional;
+
+> <small>(ADICIONADA, D.O.F. 4 DE MAYO DE 2006)</small>
+
+XXI.- Participar y llevar a cabo las acciones que le corresponden dentro del marco del sistema nacional de protección civil para la prevención, auxilio, recuperación y apoyo a la población en situaciones de desastre;
+
+> <small>(ADICIONADA, D.O.F. 4 DE MAYO DE 2006)</small>
+
+XXII.- Adquirir, diseñar y fabricar armamento, municiones, vestuario, y toda clase de medios navales e ingenios materiales, así como intervenir en la importación y exportación de éstos, cuando, sean de uso exclusivo de la Secretaría de Marina-Armada de México;
+
+> <small>(ADICIONADA, D.O.F. 4 DE MAYO DE 2006)</small>
+
+XXIII.- Prestar los servicios auxiliares que requiera la Armada, así como los servicios de apoyo a otras dependencias federales, de las entidades federativas y de los municipios que lo soliciten o cuando así lo señale el titular del Ejecutivo Federal;
+
+> <small>(ADICIONADA, D.O.F. 4 DE MAYO DE 2006)</small>
+
+XXIV.- Intervenir, en el ámbito de su responsabilidad, en la protección y conservación del medio ambiente marino sin perjuicio de las atribuciones que correspondan a otras dependencias;
+
+> <small>(ADICIONADA, D.O.F. 4 DE MAYO DE 2006)</small>
+
+XXV.- Inspeccionar, patrullar y llevar a cabo labores de reconocimiento y vigilancia para preservar, las Áreas Naturales Protegidas, en coordinación con las autoridades competentes y de conformidad con las disposiciones aplicables, y
+
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2006)</small>
+
+XXVI.- Las demás que le atribuyan expresamente las leyes y reglamentos.
 
 > <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2000)</small>
 
@@ -2087,3 +2141,9 @@ D.O.F. 8 DE DICIEMBRE DE 2005.
 D.O.F. 24 DE ABRIL DE 2006.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 4 DE MAYO DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
