@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-de-desarrollo-social-46705
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-09-16"
-last_updated: "2005-09-16"
+last_updated: "2006-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE MAYO DE 2006.
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el viernes 16 de septiembre de 2005.
 
@@ -91,15 +91,21 @@ I. Fijar y dirigir la política general de la Secretaría;
 
 II. Representar legalmente a la Secretaría con las facultades de un apoderado general para pleitos y cobranzas; actos de administración y para actos de dominio, con todas las facultades que requieran cláusula especial conforme a las disposiciones en la materia y sustituir y delegar esta representación en uno o más apoderados para que las ejerzan individual o conjuntamente. Para actos de dominio requerirá de la autorización expresa de la Secretaría de Finanzas, Planeación y Administración, de acuerdo con la legislación vigente;
 
-III. Conducir la política de desarrollo social, desarrollo regional e infraestructura para el desarrollo en la entidad, atendiendo a las características propias de cada una de las regiones de la Entidad;
+> <small>(REFORMADA, G.G. 4 DE MAYO DE 2006)</small>
+
+III. Conducir la política de desarrollo social y desarrollo regional en la entidad, atendiendo a las características propias de cada una de las regiones de la Entidad;
 
 IV. Coordinar el Sistema Estatal de Desarrollo Social;
 
 V. Proponer al Gobernador del Estado políticas, programas, proyectos, obras y acciones para el desarrollo social y regional de la entidad;
 
-VI. Coordinar los programas, proyectos y acciones estatales de desarrollo social, regional y de infraestructura para el desarrollo, así como aquellos de carácter prioritario;
+> <small>(REFORMADA, G.G. 4 DE MAYO DE 2006)</small>
 
-VII. Establecer mecanismos que promuevan la participación y colaboración de los sectores público, social y privado en la ejecución, seguimiento y evaluación de programas, proyectos y acciones de desarrollo social, regional, especial y de infraestructura para el desarrollo;
+VI. Coordinar los programas, proyectos y acciones estatales de desarrollo social y regional, así como de aquellos de carácter prioritario;
+
+> <small>(REFORMADA, G.G. 4 DE MAYO DE 2006)</small>
+
+VII. Establecer mecanismos que promuevan la participación y colaboración de los sectores público, social y privado en la ejecución, seguimiento y evaluación de programas, proyectos y acciones de desarrollo social, regional y especial;
 
 VIII. Establecer mecanismos que promuevan la participación y colaboración de las dependencias y organismos auxiliares de la administración pública y de los ayuntamientos, para la integración y actualización del Registro Social Estatal y del Padrón de Beneficiarios de programas sociales;
 
@@ -285,21 +291,35 @@ I. Dictaminar la orientación del gasto de inversión para el desarrollo social 
 
 II. Dictaminar respecto de las solicitudes de modificaciones presupuestales del gasto e inversión para el desarrollo social que propongan las dependencias y organismos auxiliares del Ejecutivo Estatal y los ayuntamientos cuando se trate de recursos estatales, en las regiones del Estado, atendiendo a las prioridades sociales y sectoriales;
 
-III. Autorizar la liberación de recursos para los programas de inversión para el desarrollo social que presenten a la Secretaría de Finanzas, Planeación y Administración, las dependencias y organismos auxiliares del Ejecutivo Estatal, en las regiones del Estado, atendiendo a las prioridades sociales y sectoriales;
+> <small>(REFORMADA, G.G. 4 DE MAYO DE 2006)</small>
 
-IV. Autorizar la liberación de recursos para la ejecución de la obra pública de los ayuntamientos, cuando se trate de recursos estatales;
+III. Dictaminar la liberación de recursos para los programas de inversión para el desarrollo social que presenten a la Secretaría de Finanzas, las dependencias y organismos auxiliares del Ejecutivo Estatal, en las regiones del Estado, atendiendo a las prioridades sociales y sectoriales;
 
-V. Emitir previo acuerdo con los subsecretarios de desarrollo regional, las autorizaciones de inversión correspondientes a los recursos estatales, incluidos los del ramo administrativo treinta y tres, de las dependencias y organismos auxiliares, con el objeto de garantizar la continuidad de las obras prioritarias y autorizar los programas de inversión definitivos, una vez aprobado el Presupuesto de Egresos del Estado de México y Municipios, en términos de la normatividad vigente;
+> <small>(REFORMADA, G.G. 4 DE MAYO DE 2006)</small>
 
-VI. Orientar el gasto de inversión para el desarrollo social en las distintas regiones del Estado, en coordinación con la Secretaría de Finanzas, Planeación y Administración, de conformidad con las prioridades sectoriales y sociales;
+IV. Dictaminar la liberación de recursos para la ejecución de la obra pública de los ayuntamientos, cuando se trate de recursos estatales;
 
-VII. Proponer la programación del gasto público acorde con los objetivos y necesidades del desarrollo social y regional de la entidad;
+> <small>(REFORMADA, G.G. 4 DE MAYO DE 2006)</small>
 
-VIII. Aprobar la integración de los programas-presupuesto, objeto de los convenios de desarrollo que celebre el Ejecutivo Estatal con los municipios, para llevar a cabo su seguimiento y evaluación, de acuerdo a los mecanismos que se establezcan en los convenios;
+V. Emitir previo acuerdo con los subsecretarios de desarrollo regional, los dictámenes de inversión correspondiente a los recursos federales y estatales, incluidos los del ramo administrativo treinta y tres, de las dependencias y organismos auxiliares, con el objeto de garantizar la continuidad de las obras prioritarias y dictaminar los programas de inversión definitivos, una vez aprobado el Presupuesto de Egresos del Gobierno del Estado de México, en términos de la normatividad vigente;
+
+> <small>(REFORMADA, G.G. 4 DE MAYO DE 2006)</small>
+
+VI. Dictaminar la orientación del gasto de inversión para el desarrollo social en las distintas regiones del Estado, en coordinación con la Secretaría de Finanzas, de conformidad con las prioridades sociales y sectoriales;
+
+> <small>(REFORMADA, G.G. 4 DE MAYO DE 2006)</small>
+
+VII. Proponer a la Secretaría de Finanzas, la programación del gasto público, acorde a los objetivos y necesidades del desarrollo social y regional de la entidad;
+
+> <small>(REFORMADA, G.G. 4 DE MAYO DE 2006)</small>
+
+VIII. Dictaminar la integración de los programas - presupuesto, objeto de los convenios de desarrollo que celebre el Ejecutivo Estatal con los municipios, para llevar a cabo su seguimiento y evaluación, de acuerdo a los mecanismos que se establezcan en los convenios;
 
 IX. Elaborar programas locales, regionales y especiales de desarrollo social y combate a la pobreza y diseñar mecanismos para su seguimiento y evaluación;
 
-X. Establecer las políticas para verificar que el gasto de inversión dictaminado, de las dependencias y organismos auxiliares del Ejecutivo Estatal, se ejerza en los proyectos y estrategias prioritarias de desarrollo social, de conformidad con los programas establecidos; y
+> <small>(REFORMADA, G.G. 4 DE MAYO DE 2006)</small>
+
+X. Proponer las políticas para verificar que el gasto de inversión dictaminado, de las dependencias y organismos auxiliares del Ejecutivo Estatal, se ejerza en los proyectos y estrategias prioritarias de desarrollo social, de conformidad con los programas establecidos; y
 
 XI. Las demás que le confieren otros ordenamientos legales y las que le señale el Secretario; (sic)
 
@@ -470,3 +490,11 @@ EL SECRETARIO GENERAL DE GOBIERNO
 HUMBERTO BENÍTEZ TREVIÑO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.G. 4 DE MAYO DE 2006.
+
+PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
