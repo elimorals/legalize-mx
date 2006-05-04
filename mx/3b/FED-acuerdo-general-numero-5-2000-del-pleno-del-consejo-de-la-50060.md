@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-5-2000-del-pleno-del-consejo-de-la-50060
 country: "mx"
 rank: "acuerdo"
 publication_date: "2000-02-16"
-last_updated: "2006-04-11"
+last_updated: "2006-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50060&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-02-08"
 
 ACUERDO GENERAL NUMERO 5/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE DETERMINA LA ADSCRIPCION DE DIVERSAS UNIDADES ADMINISTRATIVAS A LA PRESIDENCIA DEL MISMO, Y ACTUALIZA LAS ATRIBUCIONES DEL SECRETARIADO EJECUTIVO, CON LAS DIRECCIONES GENERALES QUE LES CORRESPONDEN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE MAYO DE 2006.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 16 de febrero de 2000.
 
@@ -967,7 +967,7 @@ VI. Determinar las previsiones presupuestales para el Programa de Ejecución Anu
 
 VII. Llevar a cabo el Programa de Ejecución de Adquisiciones, Obras, Mantenimiento, Arrendamientos y Prestación de Servicios, conforme a lo establecido en los acuerdos generales correspondientes;
 
-VIII. Proponer las políticas para la administración y manejo de los archivos del consejo, con excepción del archivo judicial, estableciendo sistemas de acervo, conservación y difusión documental;
+VIII. (DEROGADA POR EL PUNTO CUARTO DEL ACUERDO GENERAL 27/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE MAYO DE 2006)
 
 IX. Establecer las políticas de organización y funcionamiento de los almacenes y sub-almacenes del consejo, coordinar su funcionamiento y evaluar su operación, de conformidad con las normas y procedimientos autorizados;
 
@@ -1403,9 +1403,51 @@ IX. Preparar para la consideración de la comisión respectiva, las políticas d
 
 X. Coordinar sus acciones con las de la Contraloría del Poder Judicial de la Federación, para su oportuno y eficaz cumplimiento de las atribuciones que le son propias;
 
-XI. Verificar que los informes que presenten los diferentes Organos y miembros del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral, cumplan con los requisitos de veracidad, exactitud y buena fe, y
+XI. Verificar que los informes que presenten los diferentes Organos y miembros del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral, cumplan con los requisitos de veracidad, exactitud y buena fe, y (sic)
 
-XII. Las demás que determinen el Pleno del Consejo de la Judicatura Federal y la Comisión de Vigilancia, Información y Evaluación.
+> <small>(ADICIONADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 27/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE MAYO DE 2006)</small>
+
+XII. Coadyuvar con la Comisión de Vigilancia, Información y Evaluación, en la revisión de las políticas y criterios inherentes a la organización y desarrollo del Archivo General del Consejo de la Judicatura Federal, así como velar por su correcto funcionamiento; y
+
+XIII. Las demás que determine el Pleno del Consejo de la Judicatura Federal y la Comisión de Vigilancia, Información y Evaluación.
+
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 27/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE MAYO DE 2006)</small>
+
+Artículo 35 bis.- Estructura. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación contará con la unidad administrativa denominada Archivo General del Consejo de la Judicatura Federal.
+
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 27/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE MAYO DE 2006)</small>
+
+Artículo 35 ter.- Objetivo. El Archivo General del Consejo de la Judicatura Federal será la unidad encargada de desarrollar e implementar el sistema de administración de documentación de las Unidades Administrativas y Organos Auxiliares del Consejo de la Judicatura Federal, que permita planear, dirigir y controlar la producción, circulación, organización, conservación, uso, selección y destino final de sus documentos para archivo.
+
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 27/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE MAYO DE 2006)</small>
+
+Artículo 35 quater.- Atribuciones. El Archivo General del Consejo de la Judicatura Federal, tendrá las siguientes atribuciones:
+
+I.- Proponer las normas, políticas y directrices para la operación del sistema de administración documental, así como para la organización de los archivos de las Unidades Administrativas y Organos Auxiliares del Consejo de la Judicatura Federal;
+
+II.- Establecer sistemas de clasificación, conservación y difusión documental, considerando los estándares nacionales e internacionales de calidad y de mejora continua de los procesos de trabajo, de conformidad con los criterios, políticas y lineamientos que en materia de transparencia y acceso a la información establezcan los órganos competentes del propio Consejo;
+
+III.- Custodiar, organizar y conservar los documentos y expedientes administrativos que conforman sus archivos de concentración e históricos, para facilitar su localización, promover su consulta y aprovechamiento público, de conformidad con las disposiciones jurídicas aplicables;
+
+IV.- Incorporar en sus acervos, los documentos que posean interés histórico para la institución y promover su difusión;
+
+V.- Establecer un Centro de Documentación y fijar los mecanismos idóneos para proporcionar el servicio de consulta y reproducción de documentos administrativos;
+
+VI.- Promover la celebración de convenios con instituciones nacionales e internacionales, públicas o privadas, con el propósito de mejorar y modernizar los servicios archivísticos, incorporando los avances tecnológicos en su campo; para el intercambio de información y para el rescate, organización, conservación y aprovechamiento del patrimonio documental del Consejo de la Judicatura Federal, de conformidad con la normativa aplicable;
+
+VII.- Proponer las políticas para reunir, organizar y difundir el acervo documental gráfico, bibliográfico y hemerográfico necesario para apoyar el desarrollo archivístico y la investigación histórica del Consejo de la Judicatura Federal;
+
+VIII.- Proporcionar capacitación técnica en la organización de archivos, sistemas y métodos para el control de documentos, así como asesorar en los asuntos de su competencia a los órganos jurisdiccionales, unidades administrativas y órganos auxiliares del Consejo de la Judicatura Federal;
+
+IX.- Expedir, de conformidad con las disposiciones jurídicas aplicables, constancia de la existencia de los documentos que obren en sus acervos, así como remitir los expedientes administrativos que requieran los titulares de las unidades administrativas y órganos auxiliares del Consejo de la Judicatura Federal;
+
+X.- Elaborar los manuales de organización, procedimientos y de servicios al público, de conformidad con las disposiciones normativas aplicables;
+
+XI.- Rendir informes sobre el estado que guarda su funcionamiento, con la periodicidad que determine la Comisión de Vigilancia, Información y Evaluación;
+
+XII.- Informar a la Secretaría Ejecutiva de Vigilancia, Información y Evaluación, sobre cualquier dificultad que en el desarrollo de sus funciones se presente; y
+
+XIII.- Las demás que expresamente le confieran las disposiciones legales, reglamentarias o normativas correspondientes o que le asigne el Pleno del Consejo de la Judicatura Federal, la Comisión de Vigilancia, Información y Evaluación o la Secretaría Ejecutiva de Vigilancia, Información y Evaluación.
 
 > <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 25/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE MAYO DE 2004)</small>
 
@@ -1626,3 +1668,13 @@ PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se deroga cualquier disposición emitida por este Consejo de la Judicatura Federal que se oponga al presente Acuerdo.
 
 TERCERO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 4 DE MAYO DE 2006.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- Se deroga cualquier disposición emitida con anterioridad que se oponga al presente Acuerdo.
+
+CUARTO.- La documentación a cargo de las unidades administrativas y los órganos auxiliares del Consejo, deberá sujetarse a los lineamientos que al efecto se emitan.
