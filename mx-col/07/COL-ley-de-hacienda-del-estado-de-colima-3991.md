@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2006-04-04"
+last_updated: "2006-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MAYO DE 2006.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -371,15 +371,15 @@ II.- La prestación de servicios mediante el sistema de tiempo compartido o de c
 
 III.- La prestación de servicios de paraderos de casas rodantes, móviles o autotransportables, mediante los cuales se otorga el espacio e instalaciones para el estacionamiento temporal de éstas; así como los servicios de campamento a través de los que se otorga espacio para acampar.
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
-
-Artículo 41 A BIS.- Están obligados al pago de este impuesto, las personas físicas y morales que presten los servicios a que se refiere el artículo anterior, quienes podrán trasladar su importe a las personas que reciban dichos servicios.
-
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
 Artículo 41 B.- Es base para el cálculo de este impuesto el importe total de la contraprestación por concepto de hospedaje, sin incluir otros impuestos, alimentos, y demás servicios accesorios.
 
 Tratándose de servicios de hospedaje prestados bajo el sistema o modalidad de uso en tiempo compartido, será base del impuesto, el ingreso que se obtenga por concepto de cuotas para el uso de las instalaciones.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+
+Artículo 41 A BIS.- Están obligados al pago de este impuesto, las personas físicas y morales que presten los servicios a que se refiere el artículo anterior, quienes podrán trasladar su importe a las personas que reciban dichos servicios.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
@@ -387,13 +387,13 @@ Artículo 41 C.- Este impuesto se determinará y liquidará, aplicando a la base
 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
-Artículo 41 C BIS.- El impuesto establecido en este capítulo se causará en el momento en que se perciba el importe de las contraprestaciones por el servicio de hospedaje.
-
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
-
 Artículo 41 C BIS-1.- Los contribuyentes enterarán el impuesto mensualmente mediante declaración definitiva que presentarán en la Receptoría de Rentas correspondiente a su domicilio o en las instituciones bancarias autorizadas, en las formas oficiales aprobadas para el efecto, a mas tardar el día 15 del mes siguiente a aquel en que se perciban las contraprestaciones.
 
 Si el contribuyente opera en dos o mas establecimientos, presentará declaración por cada uno de ellos, sustituyendo la homoclave del Registro Federal de Contribuyentes por una determinante numérica de tres dígitos diferente para cada establecimiento, la cual será progresiva, a partir del 001.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+
+Artículo 41 C BIS.- El impuesto establecido en este capítulo se causará en el momento en que se perciba el importe de las contraprestaciones por el servicio de hospedaje.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
@@ -841,7 +841,9 @@ d).- (DEROGADO, P.O. 5 DE ENERO DE 1999)
 
 e).- (DEROGADO, P.O. 30 DE DICIEMBRE DE 2000)
 
-Los derechos consignados en el inciso d), deberán pagarse durante los meses de enero a junio.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE MAYO DE 2006)</small>
+
+Por los conceptos consignados en los incisos a), b) y c) a que se refiere esta fracción, los que acrediten ser jubilados o pensionados por una institución pública, discapacitados acreditados por una institución de salud pública y adultos en plenitud de escasos recursos previo estudio socioeconómico, tendrán derecho a un descuento del 50 por ciento de la tarifa establecida, únicamente para el caso de vehículos de uso particular.
 
 > <small>(REFORMADA PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2005)</small>
 
@@ -969,9 +971,9 @@ i).- Placas para vehículos antiguos 15.000
 
 j).- Placas de demostración motocicletas 10.570
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2006)</small>
 
-Los derechos consignados en los incisos a), b), c). d), e), i), y j), tratándose de canje o renovación por término del periodo de vigencia, deberán pagarse durante los meses de enero a marzo.
+Los Derechos consignados en los incisos a), b), c) d), e), f), h), e i), tratándose de canje o renovación, por término del período de vigencia, deberán pagarse durante los meses de enero a junio. Los que acrediten ser jubilados o pensionados por una institución pública, discapacitados acreditados por una institución de salud pública y adultos en plenitud de escasos recursos previo estudio socioeconómico, tendrán derecho a un descuento del 50 por ciento de la tarifa establecida en los incisos a), c), f) g) y h) únicamente respecto a un solo vehículo que acredite ser propietario y que éste sea de uso particular.
 
 V.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2000)
 
@@ -1538,6 +1540,10 @@ IV.- Por la expedición, renovación anual o reposición de la calcomanía fisca
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
 El derecho por la renovación anual de la calcomanía fiscal vehicular, deberán pagarlo las personas físicas y morales y las unidades económicas sin personalidad jurídica, que al 1° de enero del ejercicio fiscal de que se trate, mantengan inscritos vehículos en el Registro Estatal Vehicular, debiéndose realizar el pago a más tardar el día 31 de marzo.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2006)</small>
+
+Por los conceptos a que se refiere esta fracción, los que acrediten ser jubilados o pensionados por una institución pública, discapacitados acreditados por una institución de salud pública y adultos en plenitud de escasos recursos previo estudio socioeconómico, tendrán derecho a un descuento del 50 por ciento de la tarifa establecida, únicamente respecto a un solo vehículo que acredite ser propietario y que éste sea de uso particular.
 
 > <small>(ADICIONADA, P.O. 5 DE ENERO DE 1999)</small>
 
@@ -3508,3 +3514,7 @@ Para los efectos del ajuste monetario en el pago de las contribuciones a que se 
 P.O. 4 DE ABRIL DE 2006.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 6 DE MAYO DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
