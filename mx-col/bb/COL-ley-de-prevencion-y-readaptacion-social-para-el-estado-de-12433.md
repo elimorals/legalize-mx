@@ -4,7 +4,7 @@ identifier: "COL-ley-de-prevencion-y-readaptacion-social-para-el-estado-de-12433
 country: "mx"
 rank: "ley"
 publication_date: "1997-08-02"
-last_updated: "2003-02-15"
+last_updated: "2006-05-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PREVENCION Y READAPTACION SOCIAL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MAYO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 2 de agosto de 1997.
 
@@ -407,6 +407,20 @@ Queda estrictamente prohibida la existencia de pabellones o sectores de distinci
 
 Queda prohibido que los internos posean libros, revistas, periódicos, textos, fotografías o dibujos que provoquen directa o indirectamente, desdén hacia el pueblo mexicano o sus instituciones o que actúen negativamente, a juicio del Consejo Técnico, en su proceso de readaptación.
 
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2006)</small>
+
+ARTICULO 53 BIS.- Queda prohibida la introducción, posesión y utilización de cualquier tipo de radio de comunicación, teléfonos celulares, computadoras, agendas electrónicas, localizadores, equipos fotográficos o de video así como cualquier otro medio de comunicación que a juicio de la autoridad ponga en riesgo la seguridad de la Institución o afecte a la ciudadanía en general.
+
+La televisión, grabadoras y videocaseteras propiedad del Centro y particulares se usarán solamente de conformidad con la reglamentación de esta Ley.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2006)</small>
+
+ARTICULO 53 BIS 1.- Las llamadas realizadas por medio de los teléfonos públicos que operen dentro de los Centros de Readaptación Social del Estado, deberán contar con una grabación de tal manera que permita identificar que la misma proviene de un Centro de Reclusión.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2006)</small>
+
+ARTICULO 53 BIS 2.- La revisión que se efectúe en los Centros tanto de las personas como de los objetos que porten, o que se pretendan introducir al mismo se practicará en los lugares específicamente destinados para ello, por personas del mismo sexo que la persona revisada, y de conformidad con el reglamento de esta Ley.
+
 ### CAPITULO V. DE LOS BENEFICIOS INSTITUCIONALES
 
 #### SECCION I. DE LA SUSPENSION CONDICIONAL DE LA PENA
@@ -726,3 +740,7 @@ P.O. 15 DE FEBRERO DE 2003.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- El titular del Poder Ejecutivo, dentro de los 30 días siguientes a la entrada en vigor del presente Decreto, dará cumplimiento a lo dispuesto por el segundo párrafo del artículo 16 BIS del presente ordenamiento. Los vocales seleccionados por primera vez durarán en el cargo hasta el mes de febrero del año 2004.
+
+P.O. 6 DE MAYO DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
