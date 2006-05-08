@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2004-04-19"
+last_updated: "2006-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MAYO DE 2006.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -116,6 +116,10 @@ Es deber de los padres preservar el derecho de los menores a la satisfacción de
 > <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 1991)</small>
 
 El Estado de Hidalgo tiene una composición pluricultural y reconoce los derechos a preservar la forma de vida y el bienestar y desarrollo de los grupos sociales de culturas autóctonas, dentro de sus propios patrones de conducta, en cuanto no contraríen normas de orden público, así como a que se consideren tales rasgos culturales en la justipreciación de los hechos en que participen, mediante criterios de equidad. La ley protegerá y promoverá el desarrollo de las lenguas, usos, costumbres, recursos y formas específicas de organización social de las diversas comunidades que lo integran y garantizará a sus componentes el efectivo acceso a la jurisdicción del Estado. Los Poderes del Estado, en el ámbito de sus respectivas competencias, tomarán en cuenta las prácticas y las costumbres jurídicas de las comunidades indígenas en los términos que las propias leyes establezcan.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2006)</small>
+
+Toda persona tiene derecho a un medio ambiente adecuado para su desarrollo y bienestar, así como el deber de conservarlo. Las Autoridades Estatales y Municipales instrumentarán y aplicarán en el ámbito de su competencia los planes, programas y acciones destinadas a la preservación, aprovechamiento racional, protección y resarcimiento de los recursos naturales en su Territorio, así como para prevenir y sancionar toda forma de contaminación ambiental.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -341,7 +345,7 @@ V. Desempeñar los cargos de elección popular que en ningún caso serán gratui
 
 VI. Desempeñar gratuitamente los cargos consejiles (sic) del Municipio donde resida, así como las funciones electorales y censales.
 
-> <small>(REFORMADO [ N. DE E. ADICIONADO], P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE ENERO DE 1987)</small>
 
 El incumplimiento de alguna de estas obligaciones se sancionará con suspensión de la ciudadanía hasta por un año.
 
@@ -815,7 +819,7 @@ XXI. Hacer comparecer a los servidores públicos titulares de dependencias o dir
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE SEPTIEMBRE DE 1987)</small>
 
-XXII. Expedir las leyes que rijan las relaciones de trabajo entre el estado y sus trabajadores y entre los Municipios y sus respectivos trabajadores con base en lo dispuesto en el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias; y
+XXII. Expedir las leyes que rijan las relaciones de trabajo entre el estado y sus trabajadores y entre los Municipios y sus respectivos trabajadores con base en lo dispuesto en el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias; y (sic)
 
 (ADICIONADA, P.O. 1 DE OCTUBRE DE 1987) (F. DE. E., P.O. 30 DE DICIEMBRE DE 1987)
 
@@ -823,7 +827,7 @@ XXIII. Expedir leyes sobre planeación del desarrollo estatal, y (sic)
 
 > <small>(ADICIONADA, P.O. 16 DE JUNIO DE 1988)</small>
 
-XXIV. Legislar en materia de protección al ambiente y preservación y restauración del equilibrio ecológico, en el ámbito de competencia del Estado y de sus Municipios; y
+XXIV. Legislar en materia de protección al ambiente y preservación y restauración del equilibrio ecológico, en el ámbito de competencia del Estado y de sus Municipios; y (sic)
 
 > <small>(REFORMADA, P.O. 9 DE MAYO DE 1998)</small>
 
@@ -839,7 +843,7 @@ XXVII. Declarar si ha lugar o no a proceder penalmente contra los servidores pú
 
 > <small>(ADICIONADA, P.O. 9 DE MAYO DE 1998)</small>
 
-XXVIII. Constituirse en órgano de acusación para conocer de las faltas graves administrativas cometidas por los servidores públicos y,
+XXVIII. Constituirse en órgano de acusación para conocer de las faltas graves administrativas cometidas por los servidores públicos y (sic),
 
 > <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2001)</small>
 
@@ -855,23 +859,27 @@ d) El procedimiento y condiciones para que el gobierno estatal asuma una funció
 
 e) Las disposiciones aplicables en aquellos municipios que no cuenten con los bandos o reglamentos correspondientes y
 
-f) Las normas que regulen los procedimientos para la solución de los conflictos que surjan entre los municipios y el Ejecutivo del Estado o entre aquellos, con motivo de los actos derivados de los incisos c) y d) de esta fracción.
+f) Las normas que regulen los procedimientos para la solución de los conflictos que surjan entre los municipios y el Ejecutivo del Estado o entre aquellos, con motivo de los actos derivados de los incisos c) y d) de esta fracción;
 
 > <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2001)</small>
 
-XXX. Aprobar, por el voto de las dos terceras partes del total de sus miembros, los convenios de asociación que suscriban los municipios del Estado de Hidalgo con aquellos que pertenezcan a otra entidad federativa,
+XXX. Aprobar, por el voto de las dos terceras partes del total de sus miembros, los convenios de asociación que suscriban los municipios del Estado de Hidalgo con aquellos que pertenezcan a otra entidad federativa;
 
-> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2006)</small>
 
-XXXI. Revisar y fiscalizar las cuentas públicas del Estado y de los Municipios.
+XXXI. Revisar, fiscalizar y dictaminar las Cuentas Públicas de los Poderes del Estado, de los Ayuntamientos, de los Entes Públicos Paraestatales y Paramunicipales y demás sujetos de revisión.
 
-> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
+Para la revisión y fiscalización de la Cuenta Pública, el Congreso se apoyará en el Órgano de Fiscalización Superior, el cual cuenta con autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna y funcionamiento. Se encargará de revisar sin excepción, la Cuenta de las Haciendas Públicas; el manejo, custodia y la aplicación de fondos y recursos de los Poderes del Estado, a través de la Cuenta Pública Estatal, de los Ayuntamientos y demás sujetos de revisión, así como de verificar el cumplimiento de los objetivos contenidos en los planes y programas establecidos en los términos de las Leyes respectivas.
 
-Para la revisión y fiscalización de la Cuenta Publica, tanto del Estado como de los Municipios, el Congreso se apoyará en el Organo de Fiscalización Superior. Si del examen que ésta realice, aparecieren discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley.
+El Órgano de Fiscalización Superior, establecerá y difundirá las normas, procedimientos, métodos y sistemas contables y de auditoria para la revisión de las cuentas Públicas, asimismo formulará las recomendaciones, que sobre el particular procedan a los sujetos de revisión.
 
-> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
+En el cumplimiento de sus funciones, tendrá atribuciones para investigar los actos u omisiones que impliquen irregularidad o conducta ilícita en el ingreso, egreso, control, administración y aplicación de fondos y recursos Federales en los términos convenidos con dicho ámbito, de los Poderes del Estado, de los Ayuntamientos y demás organismos autónomos del Estado y sujetos de revisión establecidos en la Legislación aplicable: Efectuará visitas domiciliarias, únicamente para exigir la exhibición de los documentos indispensables para la realización de sus investigaciones.
 
-El Organo de Fiscalización Superior del Congreso del Estado, determinará los daños y perjuicios que afecten a las Haciendas Públicas Estatal o Municipales o al Patrimonio de las Entidades Estatales o Municipales y fincará a los responsables las indemnizaciones y sanciones pecuniarias correspondientes; en su caso, promoverá ante las Autoridades competentes, el fincamiento de otras responsabilidades o las acciones a que se refiere el Título Décimo de esta Constitución y podrá presentar denuncias y querellas penales conforme a la Ley de la materia y
+Determinará los daños y perjuicios que afecten a las Haciendas Públicas Estatales o al patrimonio de las Entidades Estatales o Municipales y fincará a los responsables, las indemnizaciones y sanciones correspondientes; en su caso, promoverá ante autoridades competentes el fincamiento de otras responsabilidades o las acciones a que se refiere el Título Décimo de esta Constitución y podrá presentar denuncias y querellas penales, conforme a la Ley de la materia.
+
+La revisión de Cuenta Pública, tendrá por objeto determinar los resultados de la gestión financiera, verificar si se ha ajustado a los criterios señalados en el presupuesto aprobado, conforme a las disposiciones aplicables, así como comprobar el cumplimiento de los objetivos contenidos en los planes, programas y subprogramas. El Órgano de Fiscalización Superior tiene la obligación de entregar al Congreso del Estado, el informe del resultado de la revisión de la Cuenta Pública, a más tardar en la segunda quincena del mes de junio, del año siguiente al de su Ejercicio. Si de la Revisión que se realice aparecieren diferencias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, habrá lugar a determinar la responsabilidad de acuerdo con la Ley.
+
+El Órgano de Fiscalización Superior, también informará al Pleno del Congreso, a través de la Comisión inspectora, de las Cuentas que se encuentren pendientes o en el proceso de revisión, explicando la razón por la que no se han concluido;
 
 > <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2001)</small>
 
@@ -913,7 +921,7 @@ II. Conceder licencia al Gobernador del Estado cuando sea por un lapso mayor de 
 
 > <small>(REFORMADA, P.O. 2 DE AGOSTO DE 1995)</small>
 
-III. Recibir la protesta al cargo de Gobernador, Magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo y del Tribunal Electoral, así como al Procurador General de Justicia y al Subprocurador de Asuntos Electorales;
+III. Recibir la protesta al Cargo de Gobernador y Magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo y del Tribunal Electoral, así como al Procurador General de Justicia y al Subprocurador de Asuntos Electorales;
 
 > <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -2277,9 +2285,15 @@ En las faltas graves administrativas cometidas por los mismos funcionarios a que
 
 En las demandas del orden civil no hay fuero ni inmunidad para ningún servidor público del Estado.
 
-El procedimiento de juicio político, solo podrá iniciarse durante el período en que el servidor público desempeñe su cargo y dentro de un año después. Cuando se expida el finiquito por el H, Congreso del Estado a los funcionarios que manejen fondos públicos, quedarán exentos de toda responsabilidad. Las sanciones correspondientes se aplicarán en un período no mayor de un año a partir de iniciado el procedimiento.
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2006)</small>
 
-La responsabilidad por delito del orden común, cometido durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la ley penal, que nunca serán inferiores a tres años. Los plazos de prescripción se interrumpen en tanto el servidor público desempeña alguno de los cargos a que hacen referencia los artículos 149 y 150 de esta Constitución.
+El procedimiento de juicio político, sólo podrá iniciarse durante el período en que el servidor público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en un período no mayor de un año, a partir de iniciado el procedimiento.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2006)</small>
+
+El finiquito que expida el Congreso del Estado, a los funcionarios que manejen fondos públicos, se otorgará a través del Órgano de Fiscalización Superior dentro del plazo de cinco años, una vez aprobada la Cuenta Pública y sin causas de responsabilidad supervenientes.
+
+La responsabilidad por delito del orden común, cometido durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la ley penal, que nunca serán inferiores a los tres años. Los plazos de prescripción se interrumpen en tanto el servidor público desempeña alguno de los cargos a que hacen referencia los artículos 149 y 150 de esta Constitución.
 
 La Ley de Responsabilidades de los servidores públicos del Estado, señalará los casos de prescripción de la responsabilidad administrativa, tomando en cuentta (sic) la naturaleza y consecuencia de los actos u omisiones ilícitos. Cuando dichos actos u omisiones fueran graves, los plazos de prescripción no serán inferiores a tres años.
 
@@ -2812,3 +2826,15 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de
 SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 TERCERO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE MAYO DE 2006.
+
+DECRETO NUM. 168 QUE ADICIONA EL ARTICULO 5 DE LA CONSTITUCION.
+
+ÚNICO.- El presente Decreto entrará en vigor, al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 8 DE MAYO DE 2006.
+
+DECRETO NUM. 169 QUE REFORMA LOS ARTICULOS 56 Y 154 DE LA CONSTITUCION.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
