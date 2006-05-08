@@ -4,7 +4,7 @@ identifier: "LISSFAM"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-09"
-last_updated: "2003-07-09"
+last_updated: "2006-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32514&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISSFAM"
 
 LEY DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE MAYO DE 2006.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 9 de julio de 2003.
 
@@ -154,17 +154,21 @@ Los demás funcionarios y empleados serán designados por la Junta Directiva, a 
 
 Serán considerados trabajadores de confianza los que desempeñan funciones similares a las señaladas para los del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, mencionadas en la fracción II del artículo 5o. de la Ley Federal de los Trabajadores al Servicio del Estado.
 
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2006)</small>
+
 ###### Artículo 8o.
 
-El Instituto cuenta con un órgano de vigilancia integrado por un comisario público propietario y un suplente, designados por la Secretaría de Contraloría y Desarrollo Administrativo, quienes asistirán con voz, pero sin voto, a las sesiones ordinarias y extraordinarias de la Junta Directiva del Instituto y tendrán las atribuciones que les confieren los artículos 60 de la Ley Federal de las Entidades Paraestatales, 29 y 30 de su Reglamento y demás disposiciones aplicables.
+El Instituto cuenta con un órgano de vigilancia integrado por un comisario público propietario y un suplente, designados por la Secretaría de la Función Pública, quienes asistirán con voz pero sin voto, a las sesiones ordinarias y extraordinarias de la Junta Directiva del Instituto y tendrán las atribuciones que les confieren los artículos 60 de la Ley Federal de las Entidades Paraestatales, 29 y 30 de su Reglamento y demás disposiciones aplicables.
+
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2006)</small>
 
 ###### Artículo 9o.
 
-El Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas tiene una Contraloría Interna, órgano interno de control, al frente del cual el Contralor Interno, designado en los términos del artículo 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal, en el ejercicio de sus facultades se auxiliará de los titulares de las áreas de auditoría, quejas y responsabilidades designados en los mismos términos.
+El Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas tiene un órgano interno de control, al frente del cual el titular del mismo, designado en los términos del artículo 37, fracción XII de la Ley Orgánica de la Administración Pública Federal, en el ejercicio de sus facultades se auxiliará de los titulares de las áreas de auditoría, quejas y responsabilidades designados en los mismos términos.
 
-Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercen las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto en el artículo 47, fracciones III y IV, del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo.
+Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercen las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto en los artículos 66 y 67 del Reglamento Interior de la Secretaría de la Función Pública.
 
-Las ausencias del contralor interno, así como la de los titulares de las áreas de responsabilidades, auditoría y quejas, serán suplidas conforme a lo dispuesto por el artículo 54, segundo y tercer párrafos, del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo.
+Las ausencias del contralor interno, así como la de los titulares de las áreas de responsabilidades, auditoría y quejas, serán suplidas conforme a lo dispuesto por el artículo 74 del Reglamento Interior de la Secretaría de la Función Pública.
 
 ###### Artículo 10.
 
@@ -208,7 +212,9 @@ XIII. Conceder licencias a los miembros de la Junta Directiva;
 
 XIV. Proponer al Ejecutivo Federal los proyectos de reformas a esta Ley;
 
-XV. Ordenar se practique auditoría, cuando lo estime conveniente, para determinar la exactitud de los estados financieros y comprobar los avalúos de los bienes materia de operaciones del Instituto. Dichas auditorías se practicarán con independencia de las que, en el ámbito de sus atribuciones, corresponde realizar a la Secretaría de Contraloría y Desarrollo Administrativo, por sí o a través del órgano interno de control en el Instituto, de conformidad con lo dispuesto por las normas aplicables, y
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2006)</small>
+
+XV. Ordenar se practique auditoría, cuando lo estime conveniente, para determinar la exactitud de los estados financieros y comprobar los avalúos de los bienes materia de operaciones del Instituto. Dichas auditorías se practicarán con independencia de las que, en el ámbito de sus atribuciones, corresponde realizar a la Secretaría de la Función Pública, por sí o a través del órgano interno de control en el Instituto, de conformidad con lo dispuesto por las normas aplicables, y
 
 XVI. En general, realizar todos aquellos actos y operaciones legalmente autorizados y los que fuesen necesarios para la mejor administración o gobierno del Instituto.
 
@@ -1422,9 +1428,11 @@ El Instituto cooperará con las Secretarías de la Defensa Nacional y de Marina 
 
 ### Capítulo Sexto: Servicio Médico Integral.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE MAYO DE 2006)</small>
+
 ###### Artículo 142.
 
-La atención médica quirúrgica es el sistema por el cual se trata de conservar la salud de las personas, entendiéndose por este concepto no sólo la ausencia de enfermedad, sino también el bienestar físico y mental.
+La atención médica quirúrgica es el sistema por el cual se trata de conservar y preservar la salud de las personas, entendiéndose por este concepto no sólo el bienestar físico y mental, sino también la ausencia de enfermedad.
 
 La atención médico-quirúrgica a los militares con haber de retiro y a los familiares de los militares que perciban haberes y haber de retiro, se prestará por el Instituto en sus propias instalaciones o como servicio subrogado, con base en la aportación del Gobierno Federal especificada en el artículo 221 de esta Ley.
 
@@ -1438,7 +1446,9 @@ II. Los hijos solteros menores de 18 años;
 
 III. Los hijos mayores de edad que se encuentren estudiando en planteles oficiales incorporados, con límite hasta de 25 años, excepcionalmente y a juicio del Instituto, podrá extenderse este beneficio hasta los 30 años de edad, si además de cubrir los requisitos mencionados, están realizando estudios a nivel licenciatura o superiores y demuestran su dependencia económica;
 
-IV. Los hijos incapacitados o imposibilitados para trabajar en forma total y permanente, y
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2006)</small>
+
+IV. Los hijos discapacitados o incapacitados para trabajar en forma temporal o total y permanente, y
 
 V. El padre y la madre.
 
@@ -1472,9 +1482,11 @@ Cuando el estado del paciente demande la observación constante o examen que só
 
 En casos graves de urgencia o emergencia.
 
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2006)</small>
+
 ###### Artículo 147.
 
-Tratándose de menores de edad o incapacitados, no podrá ordenarse la hospitalización sin el consentimiento de los padres o quienes legalmente los representen.
+Tratándose de menores de edad, discapacitados mental o sensorialmente, incapacitados y personas adultas mayores con alguna discapacidad mental, sensorial o alguna incapacidad física, no podrá ordenarse la hospitalización sin el consentimiento de los padres o quienes legalmente los representen.
 
 ###### Artículo 148.
 
@@ -1486,9 +1498,11 @@ El servicio materno infantil se impartirá al personal militar femenino y a la e
 
 Consulta y tratamiento ginecológico, obstétrico y prenatal; atención del parto; atención del infante y ayuda a la lactancia.
 
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2006)</small>
+
 ###### Artículo 150.
 
-La ayuda en la lactancia se proporcionará a la madre que demuestre la incapacidad para amamantar a su hijo, o la persona que la sustituya, en caso de fallecimiento de ésta, por medio del certificado médico correspondiente, y consistirá en la ministración de leche durante un periodo no mayor de seis meses a partir del nacimiento del infante.
+La ayuda en la lactancia se proporcionará a la madre que demuestre la incapacidad para amamantar a su hijo, o la persona que la sustituya, en caso de fallecimiento de ésta, por medio del certificado médico correspondiente o acta de defunción, según sea el caso, y consistirá en la ministración de leche durante un periodo no mayor de seis meses a partir del nacimiento del infante.
 
 ###### Artículo 151.
 
@@ -1722,9 +1736,17 @@ V. Antigüedad;
 
 VI. Corporaciones y dependencias en que ha servido;
 
-VII. Tiempo de servicios efectivos, abonos y deducciones, y
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2006)</small>
 
-VIII. Total de servicios con abonos.
+VII. Tiempo de servicios efectivos, abonos y deducciones;
+
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2006)</small>
+
+VIII. Total de servicios con abonos, y
+
+> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2006)</small>
+
+IX. Clave Única de Registro de Población.
 
 ###### Artículo 181.
 
@@ -2533,3 +2555,9 @@ El aumento se hará efectivo a partir del día primero de septiembre del present
 México, D.F., a 30 de abril de 2003.- Dip. Armando Salinas Torre, Presidente.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Adela Cerezo Bautista, Secretario.- Sen. Sara I. Castellanos Cortés, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los siete días del mes de julio de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 8 DE MAYO DE 2006.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
