@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-una-institucion-publica-descentralizada-con-13566"
 country: "mx"
 rank: "ley"
 publication_date: "1956-05-09"
-last_updated: "2000-08-16"
+last_updated: "2006-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA UNA INSTITUCION PUBLICA DESCENTRALIZADA CON PERSONALIDAD JURIDICA PROPIA Y CON DOMICILIO EN LA CIUDAD DE MONTERREY QUE SE DENOMINARA "SERVICIOS DE AGUA Y DRENAJE DE MONTERREY"
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 9 de mayo de 1956.
 
@@ -111,9 +111,11 @@ Los consejeros desempeñarán su cargo honoríficamente, es decir sin retribuci�
 
 (DEROGADO, P.O. 16 DE AGOSTO DE 2000)
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2006)</small>
+
 ###### ARTICULO 8o.
 
-El Consejo se reunirá por lo menos una vez al mes y cuantas veces fuere convocado por el Presidente, por propia iniciativa o a petición de dos consejeros. El Consejo funcionará legalmente con la asistencia de la mitad más uno de los consejeros y sus resoluciones serán válidas cuando fueren adoptadas por el voto de la mayoría de los presentes.
+El Consejo de Administración se reunirá por lo menos cada dos meses y cuantas veces fuera convocado por el Presidente, o a petición de dos consejeros. El Consejo funcionará legalmente con la asistencia de la mitad más uno de los consejeros y sus resoluciones serán válidas cuando fueren adoptadas por el voto de la mayoría de los presentes.
 
 En caso de empate, el Presidente del Consejo tendrá voto de calidad para deducir la cuestión.
 
@@ -292,3 +294,7 @@ P.O. 16 DE AGOSTO DE 2000.
 Artículo Primero.- Este Decreto entrará en vigor en la fecha de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todos los decretos y disposiciones que se opongan a la presente reforma.
+
+P.O. 10 DE MAYO DE 2006.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
