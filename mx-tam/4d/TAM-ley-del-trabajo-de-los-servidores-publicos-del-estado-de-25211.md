@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-trabajo-de-los-servidores-publicos-del-estado-de-25211"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2001-12-06"
+last_updated: "2006-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PUBLICOS DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2006.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre de 2001.
 
@@ -455,7 +455,9 @@ XI.- Cuando rehúse o se niegue sin causa justificada a la práctica del examen 
 
 XII.- Cuando haya sido sancionado por el órgano de control mediante resolución ejecutoriada con la destitución del cargo con fundamento en la Ley de Responsabilidades de los Servidores Públicos.
 
-El Gobierno del Estado por conducto de la dependencia autorizada, deberá comunicar por escrito al trabajador la fecha y causa o causas de la rescisión, especificando el puesto desempeñado. Si el trabajador se negare a recibir la comunicación, dentro de los quince días siguientes, el Gobierno del Estado deberá solicitar la notificación del aviso al Tribunal de Arbitraje, proporcionando a éste el último domicilio del trabajador que tenga registrado.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2006)</small>
+
+El Gobierno del Estado por conducto de la dependencia autorizada, deberá comunicar por escrito al trabajador la fecha y causa o causas de la rescisión, especificando el puesto desempeñado. Si el trabajador se negare a recibir la comunicación, dentro de los cinco días siguientes a la fecha de la rescisión, el Gobierno del Estado deberá solicitar la notificación del aviso al Tribunal de Arbitraje, proporcionando a éste el último domicilio del trabajador que tenga registrado.
 
 ###### ARTICULO 39.
 
@@ -999,6 +1001,12 @@ Las resoluciones dictadas por el Tribunal de Arbitraje se tomarán por mayoría 
 
 Las autoridades están obligadas a prestar auxilio al Tribunal de Arbitraje para hacer respetar sus resoluciones cuando fueren requeridas para ello.
 
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2006)</small>
+
+###### ARTICULO 120.
+
+Cualquiera de las partes que advierta en el laudo un error o considere que algún punto debe precisarse, podrá proponer su aclaración por escrito, dentro del término de tres días contados a partir de la notificación del laudo respectivo, con el objeto de subsanar algún error o precisar un punto en particular, en el entendido de que el sentido del laudo no debe cambiar.
+
 T R A N S I T O R I O S
 
 ###### ARTICULO PRIMERO.
@@ -1038,3 +1046,9 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los seis días del mes de diciembre del año dos mil uno.-
 
 ATENTAMENTE -"SUFRAGIO EFECTIVO. NO REELECCIÓN". EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. TOMAS YARRINGTON RUVALCABA.- Rubrica.- El SECRETARIO GENERAL DE GOBIERNO.- HOMERO DIAZ RODRÍGUEZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 11 DE MAYO DE 2006.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
