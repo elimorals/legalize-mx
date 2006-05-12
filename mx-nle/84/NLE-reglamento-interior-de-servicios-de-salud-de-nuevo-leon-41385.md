@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-servicios-de-salud-de-nuevo-leon-41385"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-12"
-last_updated: "2004-10-12"
+last_updated: "2006-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE "SERVICIOS DE SALUD DE NUEVO LEON" ORGANISMO PUBLICO DESCENTRALIZADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el martes 12 de octubre de 2004.
 
@@ -95,15 +95,23 @@ VII. Dirección de Innovación y Calidad;
 
 VIII. Dirección Sectorial de Salud y Bienestar Social;
 
-IX. Unidades Desconcentradas:
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2006)</small>
+
+IX. Dirección del Régimen de Protección Social en Salud;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2006)</small>
+
+X. Unidades Desconcentradas:
 
 - Jurisdicciones Sanitarias
 
 - Hospitales Regionales, Estatales y Generales
 
-- Centros de Especialidad; y
+- Centros de Especialidad, y
 
-X. Las demás Unidades que a propuesta del Director General apruebe la "Junta".
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2006)</small>
+
+X. Las demás Unidades que a propuesta del "Director" apruebe la "Junta".
 
 ###### Artículo 6.
 
@@ -285,7 +293,9 @@ XVII. Instrumentar con el apoyo de la Dirección Jurídica, los procedimientos a
 
 XVIII. Instrumentar con el apoyo de la Dirección Jurídica, los procedimientos administrativos que resulten de la responsabilidad de los servidores públicos del "Organismo", cuando esta facultad le sea delegada;
 
-XIX. Coordinar en términos de las disposiciones aplicables, la operación del componente de salud del Programa Oportunidades, y los demás que el Gobierno Federal acuerde con el "Organismo"; y
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2006)</small>
+
+XIX. Coordinar programas que el "Organismo" acuerde con el Gobierno Federal, en los términos de las disposiciones aplicables;
 
 XX. Las demás que le correspondan de acuerdo a la normatividad aplicable.
 
@@ -472,6 +482,30 @@ XII. Informar al "Director" las acciones que realice en el cumplimiento de sus f
 XIII. Delimitar previo acuerdo con el "Director" la circunscripción de las jurisdicciones sanitarias del "Organismo"; y
 
 XIV. Las demás funciones que le sean encomendadas.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2006)</small>
+
+###### Artículo 25 Bis.
+
+El Titular de la Dirección del Régimen de Protección Social en Salud tendrá las siguientes atribuciones:
+
+I. Realizar las acciones inherentes al Régimen Estatal de Protección Social en Salud en Nuevo León, de conformidad con las disposiciones legales aplicables;
+
+II. Desarrollar acciones de protección social en salud, mediante el financiamiento y la coordinación eficiente, oportuna y sistemática de la provisión de los servicios de salud a la persona en el Sistema de Protección Social en Salud, las que deberán realizarse de manera independiente de la provisión de servicios de salud;
+
+III. Promover la afiliación y verificación de la vigencia y tutela de derechos de los beneficiarios del Sistema de Protección Social en Salud, así como la administración de los recursos financieros asignados, la verificación de que los prestadores de servicios cumplan con los requisitos legales y la rendición de cuentas;
+
+IV. Gestionar la prestación de los servicios de salud a la persona de forma directa a través de las unidades médicas del "Organismo", y/o de forma indirecta a través de las unidades médicas de otras entidades federativas o de instituciones del sector público y privado, de conformidad con la legislación aplicable;
+
+V. Brindar apoyo a la Comisión Nacional de Protección Social en Salud, en las actividades de evaluación, supervisión, seguimiento en el ámbito estatal, así como de programas coordinados;
+
+VI. Recibir, administrar y aplicar las cuotas familiares específicamente para lo establecido en las disposiciones jurídicas relativas, y destinar los recursos necesarios para la inversión en infraestructura médica en el Estado, de conformidad con el plan maestro elaborado por la Secretaría de Salud Federal;
+
+VII. Informar de la evaluación y rendición de cuentas, a la Secretaría de Salud Federal y al "Director", sobre el ejercicio de los recursos asignados a la persona y respecto del destino y manejo de las cuotas familiares;
+
+VIII. Difundir, a través del "Organismo", toda la información relacionada con el Régimen de Protección Social en Salud, a los ciudadanos, de conformidad con las normas sobre transparencia y acceso a la información pública gubernamental, y
+
+IX. Las atribuciones contenidas en el artículo 15 de este reglamento, las que le confieran otras disposiciones jurídicas y aquellas que le encomiende el "Director".
 
 ### Capítulo VI. De las Jurisdicciones Sanitarias, Unidades Hospitalarias y Los Centros de Especialidad
 
@@ -674,3 +708,9 @@ NAPOLEÓN CANTÚ CERNA
 EL C. SECRETARIO DE SALUD Y DIRECTOR GENERAL DE SERVICIOS DE SALUD DE NUEVO LEÓN. O. P. D.
 
 GILBERTO MONTIEL AMOROSO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 12 DE MAYO DE 2006.
+
+Único. Las modificaciones al Reglamento Interior de Servicios de Salud de Nuevo León, Organismo Público Descentralizado, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
