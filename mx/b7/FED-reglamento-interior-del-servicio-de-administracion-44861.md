@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-servicio-de-administracion-44861"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-06-06"
-last_updated: "2005-06-06"
+last_updated: "2006-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44861&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-05-27"
 
 REGLAMENTO INTERIOR DEL SERVICIO DE ADMINISTRACION TRIBUTARIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE MAYO DE 2006.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 6 de junio de 2005.
 
@@ -40,6 +40,8 @@ Se expide el Reglamento Interior del Servicio de Administración Tributaria, par
 ###### Artículo 1.
 
 El Servicio de Administración Tributaria, como órgano desconcentrado de la Secretaría de Hacienda y Crédito Público, tiene a su cargo el ejercicio de las facultades y el despacho de los asuntos que le encomiendan la Ley del Servicio de Administración Tributaria y los distintos ordenamientos legales aplicables, así como los reglamentos, decretos, acuerdos y órdenes del Presidente de la República y los programas especiales y asuntos que el Secretario de Hacienda y Crédito Público le encomiende ejecutar y coordinar en las materias de su competencia.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE MAYO DE 2006)</small>
 
 ###### Artículo 2.
 
@@ -163,19 +165,21 @@ Administración Central de Devoluciones y Compensaciones.
 
 Administración General de Innovación y Calidad:
 
+Administración de Planeación y Proyectos.
+
+Administración de Gestión Interna.
+
 Administración Central de Recursos Financieros.
 
-Administración Central de Recursos Humanos.
+Administración Central de Capital Humano.
 
-Administración Central de Recursos Materiales y Servicios Generales.
+Administración Central de Recursos Materiales.
 
 Administración Central de Apoyo Jurídico.
 
 Administración Central de Capacitación Fiscal.
 
-Coordinación de Servicios Administrativos.
-
-Coordinación de las Subadministraciones de Innovación y Calidad en las Administraciones Locales y en las Aduanas.
+Administración Central de Operaciones Administrativas.
 
 Administración General de Comunicaciones y Tecnologías de Información:
 
@@ -219,9 +223,9 @@ Las Administraciones Generales y las unidades de Plan Estratégico y Mejora Cont
 
 El Órgano Interno de Control estará integrado de conformidad con lo establecido en la Ley Orgánica de la Administración Pública Federal y el Reglamento Interior de la Secretaría de la Función Pública.
 
-Las Administraciones Generales y la Unidad de Plan Estratégico y Mejora Continua contarán con una Coordinación de Servicios Administrativos al frente de la cual habrá un Coordinador quien podrá ejercer, respecto de la Administración General que le corresponda o, en su caso, de la citada Unidad, las facultades previstas en las fracciones I, III, V, VI, VII, VIII, XII, XIII, XIV, XV, XVI, XIX, XX, XXI, XXII, XXIII, XXIV y XXVI, del artículo 9 de este Reglamento.
+> <small>(DEROGADO ANTEPENULTIMO PARRAFO, D.O.F. 12 DE MAYO DE 2006)</small>
 
-La Coordinación de Servicios Administrativos de la Administración General de Innovación y Calidad ejercerá las facultades a que se refiere el párrafo anterior respecto de la Unidad de Programas Especiales.
+> <small>(DEROGADO PENULTIMO PARRAFO, D.O.F. 12 DE MAYO DE 2006)</small>
 
 En cada circunscripción territorial, el Administrador General de Comunicaciones y Tecnologías de Información designará a un servidor público quien coordinará la implementación de los sistemas, métodos, procedimientos, medidas y proyectos competencia de la citada Administración General.
 
@@ -323,9 +327,13 @@ Los Administradores Generales serán suplidos por los Administradores Centrales 
 
 Los Administradores Centrales serán suplidos por los Coordinadores o Administradores que de ellos dependan, en el orden que se establece para cada Administración Central en los artículos 10, 13, 16, 19, 22, 25, 28, 30 y 32 de este Reglamento.
 
-Los Administradores Locales, Regionales y de Aduanas o Coordinadores serán suplidos por los Administradores, Subadministradores que de ellos dependan, en el orden en que se mencionan en este Reglamento.
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 2006)</small>
 
-Los Administradores de Aduanas, en las salas de atención a pasajeros y en las secciones aduaneras, serán suplidos por los Jefes de las Salas y los Jefes de Sección, respectivamente, o por los Subadministradores o Jefes de Departamento que de ellos dependan, indistintamente.
+Los Administradores Locales y Regionales y los Coordinadores serán suplidos por los Administradores y Subadministradores que de ellos dependan, en el orden en que se mencionan en este Reglamento.
+
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 2006)</small>
+
+Los Administradores de las Aduanas y los Subadministradores de las mismas, serán suplidos indistintamente por los Jefes de Departamento adscritos a ellas. En las salas de atención a pasajeros y en las secciones aduaneras, los citados Administradores y Subadministradores serán suplidos por los Jefes de las Salas y los Jefes de Sección, respectivamente.
 
 El Titular del Órgano Interno de Control y los titulares de las áreas que lo integren, serán suplidos conforme a lo previsto por el Reglamento Interior de la Secretaría de la Función Pública.
 
@@ -349,9 +357,11 @@ IV.- Coordinarse con las demás unidades administrativas del Servicio de Adminis
 
 V.- Certificar hechos y expedir las constancias correspondientes, así como expedir certificaciones de los documentos y expedientes relativos a los asuntos de su competencia.
 
-VI.- Administrar los recursos humanos, materiales y financieros de las unidades administrativas a sus respectivos cargos; ejercer, rembolsar y pagar el presupuesto asignado a dichas unidades administrativas y celebrar los contratos y convenios de cuya ejecución se desprendan obligaciones con cargo al presupuesto asignado a las mismas, incluyendo los contratos de prestación de servicios profesionales, así como promover las acciones e instrumentos de control que hagan más eficiente la atención de su personal.
+VI.- (DEROGADA, D.O.F. 12 DE MAYO DE 2006)
 
-VII.- Expedir las constancias de identificación del personal a su cargo.
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
+
+VII.- Expedir las constancias de identificación del personal a su cargo, a fin de habilitarlos para la práctica de actos relacionados con el desempeño de sus facultades.
 
 VIII.- Informar a la autoridad competente de los hechos de que tengan conocimiento que puedan constituir infracciones administrativas, delitos fiscales o delitos de los servidores públicos del Servicio de Administración Tributaria en el desempeño de sus respectivas funciones; formular o, en su caso, ordenar la elaboración de las actas de constancias de hechos correspondientes, dando la intervención que corresponda al Órgano Interno de Control, así como asesorar y coadyuvar con las demás unidades administrativas del Servicio de Administración Tributaria respecto de la investigación de los hechos, del trámite y del procedimiento de las actuaciones, y proporcionar a la Administración General de Evaluación la información y documentación necesaria para el ejercicio de las atribuciones de la misma, incluido el acceso a las bases de datos que contengan la referida información.
 
@@ -381,7 +391,7 @@ XX.- Elaborar y proponer a la unidad administrativa competente, el anteproyecto 
 
 XXI.- Elaborar y proponer el apartado específico de las unidades administrativas a sus respectivos cargos que se deba integrar al Manual de Organización General del Servicio de Administración Tributaria, así como formular y aprobar los manuales de organización específicos de las áreas administrativas que le sean adscritas.
 
-XXII.- Llevar a cabo las políticas, sistemas y procedimientos emitidos por la unidad administrativa competente, para la adquisición, arrendamiento o contratación de bienes y servicios que requieran sus unidades administrativas, de acuerdo con el presupuesto que les sea asignado y suscribir los convenios y contratos correspondientes.
+XXII.- (DEROGADA, D.O.F. 12 DE MAYO DE 2006)
 
 XXIII.- Aplicar las normas y lineamientos emitidos por la unidad administrativa competente, en materia de contabilidad y movimientos de fondos.
 
@@ -397,9 +407,13 @@ XXVIII.- Coordinarse con las unidades administrativas de la Secretaría de Hacie
 
 XXIX.- Las demás facultades que en el ámbito de sus respectivas competencias atribuyan al Servicio de Administración Tributaria las leyes, reglamentos y demás disposiciones aplicables o que les confiera el Jefe del Servicio de Administración Tributaria.
 
-Las unidades de Plan Estratégico y Mejora Continua y de Programas Especiales, las Administraciones Generales y las Administraciones Centrales que de ellas dependan, así como las Coordinaciones y las Administraciones que dependan de éstas, tendrán su sede en la Ciudad de México, Distrito Federal y ejercerán sus facultades en todo el territorio nacional, excepto la Administración Central de Capacitación Fiscal y las Administraciones para el Destino de Bienes cuyas sedes podrán ubicarse fuera de la Ciudad de México.
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 2006)</small>
 
-Las unidades administrativas regionales tendrán la sede que se establece en el artículo 37 de este Reglamento y ejercerán su competencia dentro de la circunscripción territorial que al efecto se determine en el acuerdo correspondiente. Sin embargo, dichas unidades podrán solicitar a otras unidades con circunscripción territorial distinta, iniciar, continuar o concluir cualquier procedimiento y, en su caso, realizar los actos jurídicos correspondientes.
+Las unidades de Plan Estratégico y Mejora Continua y de Programas Especiales, las Administraciones Generales y las Administraciones Centrales que de ellas dependan, así como las Coordinaciones y las Administraciones que dependan de éstas, tendrán su sede en la Ciudad de México, Distrito Federal y ejercerán sus facultades en todo el territorio nacional, excepto la Administración Central de Capacitación Fiscal, las Administraciones para el Destino de Bienes, las Administraciones de Servicios y Subadministraciones de los Centros de Servicios Administrativos, así como la Administración Central de Servicios Institucionales, cuyas sedes podrán ubicarse fuera de la Ciudad de México.
+
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 2006)</small>
+
+Las unidades administrativas regionales tendrán la sede que se establezca en el artículo 37 de este Reglamento y ejercerán su competencia dentro de la circunscripción territorial que al efecto se determine en acuerdo correspondiente, con excepción de la facultad de notificar, la cual podrán ejercer en todo el territorio nacional. Asimismo, dichas unidades podrán solicitar a otras unidades con circunscripción territorial distinta, iniciar, continuar o concluir cualquier procedimiento y, en su caso, realizar los actos jurídicos correspondientes.
 
 ### Capítulo II. De la Administración General de Aduanas
 
@@ -583,7 +597,9 @@ LXXXVII.- Verificar el saldo a favor por compensar, determinar las cantidades co
 
 LXXXVIII.- Realizar el procedimiento de inscripción, suspensión, modificación y cancelación de los registros en los padrones de importadores, de exportadores sectorial y de importadores de sectores específicos, así como dejar sin efectos la suspensión de dichos padrones.
 
-LXXXIX.- Transferir a la instancia competente, a petición de alguna unidad administrativa del Servicio de Administración Tributaria, los bienes o las mercancías de comercio exterior que hayan pasado a propiedad del Fisco Federal como consecuencia de un procedimiento fiscal o aduanero, o que todavía estén sujetos a estos últimos.
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
+
+LXXXIX.- Abstenerse de llevar a cabo la determinación de contribuciones y sus accesorios, así como de imponer las sanciones correspondientes a las infracciones descubiertas con motivo del ejercicio de sus facultades de comprobación, en términos de lo dispuesto por el artículo 20-A de la Ley del Servicio de Administración Tributaria.
 
 XC.- Clausurar los establecimientos de depósitos fiscales para la exposición y venta de mercancías extranjeras y nacionales libres de impuestos.
 
@@ -797,9 +813,11 @@ I.- Las establecidas en las fracciones II, V, VIII, X, XI y XVIII del artículo 
 
 II.- Las señaladas en las fracciones X, XV, LXVI, LXVIII, LXXI, LXXII, LXXIII, LXXVII, LXXXV y LXXXIX del artículo anterior de este Reglamento.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE MAYO DE 2006)</small>
+
 ###### Artículo 12.
 
-Compete a las Aduanas, dentro de la circunscripción territorial que a cada una corresponda, ejercer las facultades siguientes:
+Compete a las Administraciones y Subadministraciones de las Aduanas, dentro de la circunscripción territorial que les corresponda, ejercer las facultades que a continuación se precisan:
 
 I.- Las establecidas en las fracciones II, V, VII, VIII, X, XI, XV, XVI, XVIII y XX del artículo 9 de este Reglamento.
 
@@ -1021,7 +1039,9 @@ XXII.- Imponer las sanciones por infracción a las disposiciones fiscales o adua
 
 XXIII.- Informar a la autoridad competente de los hechos de que tenga conocimiento con motivo de sus actuaciones que puedan constituir delitos fiscales acompañando, en su caso, la cuantificación del perjuicio sufrido por el Fisco Federal; de aquellos delitos en que incurran servidores públicos del Servicio de Administración Tributaria en el desempeño de sus funciones, así como proporcionarle a dicha autoridad, en su carácter de coadyuvante del Ministerio Público el apoyo técnico y contable en los procesos penales que deriven de dichas actuaciones.
 
-XXIV.- Poner a disposición de la unidad administrativa competente de la Administración General de Aduanas, para su transferencia a la instancia competente, la mercancía de procedencia extranjera que haya pasado a propiedad del Fisco Federal, como consecuencia de un procedimiento aduanero que sea de su competencia, o que estando sujeta a dicho procedimiento se encuentre en los casos previstos en el artículo 157 de la Ley Aduanera.
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
+
+XXIV.- Transferir a la instancia competente la mercancía de procedencia extranjera que haya pasado a propiedad del Fisco Federal como consecuencia de un procedimiento aduanero que sea de su competencia, o que estando sujeta a dicho procedimiento se encuentre en los casos previstos en el artículo 157 de la Ley Aduanera.
 
 XXV.- Participar en la formulación, en materia de su competencia, de los convenios y acuerdos de coordinación con las autoridades fiscales de las entidades federativas, y evaluar sus resultados.
 
@@ -1177,13 +1197,17 @@ C. Administración Central de Análisis Técnico Fiscal:
 
 I.- Las establecidas en las fracciones II, V, VII, VIII, X, XI, XIV, XVII y XVIII del artículo 9 de este Reglamento.
 
-II.- Las señaladas en las fracciones IV, VI, VII, VIII, XI, XII, XVI, XIX, XX, XXII, XXIII, XXVII, XXIX, XXXI, XXXIII y XXXVII del artículo anterior de este Reglamento.
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
+
+II.- Las señaladas en las fracciones IV, VI, VII, VIII, XI, XII, XVI, XIX, XX, XXII, XXIII, XXVII, XXIX, XXXI, XXXIII, XXXVII y XXXIX del artículo anterior de este Reglamento.
 
 D. Administraciones de Análisis Técnico Fiscal "1", "2", "3" y "4":
 
 I.- Las establecidas en las fracciones V, VIII, XI, XIV y XVIII del artículo 9 de este Reglamento.
 
-II.- Las señaladas en las fracciones IV, VI, XXXIII y XXXVII del artículo anterior de este Reglamento.
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
+
+II.- Las señaladas en las fracciones IV, VI, XXXIII, XXXVII y XXXIX del artículo anterior de este Reglamento.
 
 E. Administración Central de Planeación y Sistemas de la Fiscalización Nacional:
 
@@ -1411,7 +1435,9 @@ XLVII.- Ordenar y practicar actos de comprobación necesarios para la obtención
 
 XLVIII.- Fungir como autoridad competente en la interpretación y aplicación de los acuerdos, convenios o tratados de los que México sea parte en materia fiscal o aduanera, u otros que contengan disposiciones sobre dichas materias, así como resolver los problemas específicos y consultas de interpretación y aplicación que se susciten de acuerdo con los procedimientos establecidos en los mismos.
 
-XLIX.- Poner a disposición de la unidad administrativa competente de la Administración General de Aduanas, para su transferencia a la instancia competente, la mercancía de procedencia extranjera que haya pasado a propiedad del Fisco Federal, como consecuencia de un procedimiento aduanero que sea de su competencia, o que estando sujeta a dicho procedimiento se encuentre en los casos previstos en el artículo 157 de la Ley Aduanera.
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
+
+XLIX.- Transferir a la instancia competente la mercancía de procedencia extranjera que haya pasado a propiedad del Fisco Federal como consecuencia de un procedimiento aduanero que sea de su competencia, o que estando sujeta a dicho procedimiento se encuentre en los casos previstos en el artículo 157 de la Ley Aduanera.
 
 L.- Revisar las declaraciones de los contribuyentes, responsables solidarios y demás obligados, para comprobar el cumplimiento de sus obligaciones fiscales en materia de impuestos, derechos, contribuciones de mejoras, aprovechamientos y accesorios de carácter federal en el ámbito de su competencia.
 
@@ -1483,7 +1509,9 @@ LXXXIII.- Fungir como autoridad competente en la interpretación y aplicación d
 
 LXXXIV.- Condonar parcialmente los créditos fiscales relativos a contribuciones que se hubieran determinado con anterioridad a la fecha de inicio del concurso mercantil, en términos del artículo 146-B del Código Fiscal de la Federación.
 
-LXXXV.- Poner a disposición de la unidad administrativa competente de la Administración General de Aduanas, para su transferencia a la instancia competente, los bienes que hayan pasado a propiedad del Fisco Federal en virtud de un procedimiento fiscal de su competencia.
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
+
+LXXXV.- Transferir a la instancia competente los bienes que hayan pasado a propiedad del Fisco Federal en virtud de un procedimiento fiscal de su competencia.
 
 LXXXVI.- Poner a consideración de la unidad administrativa competente asuntos en los que se debe formular la declaratoria de que el Fisco Federal ha sufrido perjuicio o querella, por considerarse que respecto de los mismos se cometió un delito fiscal; presentar denuncia de hechos ante el Ministerio Público, así como establecer las políticas para determinar esos asuntos.
 
@@ -1961,7 +1989,9 @@ Las facultades a que se refiere este apartado serán ejercidas cuando se trate d
 
 V. Administración Central de lo Contencioso de Grandes Contribuyentes:
 
-I.- Las establecidas en las fracciones II, V, VI, VII, VIII, IX, X, XV, XVI, XVIII y XXV del artículo 9 de este Reglamento.
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
+
+I.- Las establecidas en las fracciones II, V, VII, VIII, IX, X, XV, XVI, XVIII y XXV del artículo 9 de este Reglamento.
 
 II.- Las señaladas en el apartado A, fracciones XIV, XV, XVII, XVIII, XXIII, L, LVI, LVII, LVIII, LIX, LX, LXI, LXVII, LXXII, LXXIII y LXXXIX del artículo anterior de este Reglamento.
 
@@ -2066,6 +2096,10 @@ XXVI.- Representar al Servicio de Administración Tributaria y a las autoridades
 XXVII.- Abstenerse de presentar denuncias, querellas, declaratorias de perjuicio o posible perjuicio cuando, de conformidad con el dictamen correspondiente que al efecto elabore, exista impedimento legal o material para ello.
 
 XXVIII.- Resolver, previa opinión de la unidad administrativa competente de la Secretaria de Hacienda y Crédito Público, las consultas que formulen los contribuyentes respecto de situaciones reales y concretas relacionadas con la aplicación e interpretación del artículo 95-Bis de la Ley General de Organizaciones y Actividades Auxiliares del Crédito y de las disposiciones de carácter general a que se refiere dicho artículo, que no sean competencia de otra unidad administrativa del Servicio de Administración Tributaria.
+
+> <small>(ADICIONADA, D.O.F. 12 DE MAYO DE 2006)</small>
+
+XXIX.- Resolver las autorizaciones para recibir donativos deducibles del impuesto sobre la renta y las consultas que sean formuladas sobre dicha materia, inclusive tratándose de los sujetos a que se refiere el Apartado B del artículo 19 de este Reglamento, siempre que no impliquen la interpretación de un tratado en materia internacional.
 
 La Administración General Jurídica estará a cargo de un Administrador General, auxiliado en el ejercicio de sus facultades por los servidores públicos que en adelante se señalan.
 
@@ -2187,7 +2221,9 @@ E. Administración Central de Normatividad de Impuestos Internos:
 
 I.- Las establecidas en las fracciones II, V, VII, VIII, X, XI, XV, XVI, XVIII y XIX del artículo 9 de este Reglamento.
 
-II.- Las señaladas en las fracciones II, III, V, VI, VII, VIII, XI, XIV, XXI y XXVIII del artículo anterior de este Reglamento.
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
+
+II.- Las señaladas en las fracciones II, III, V, VI, VII, VIII, XI, XIV, XXI, XXVIII y XXIX del artículo anterior de este Reglamento.
 
 III.- Imponer multas por el incumplimiento o cumplimiento extemporáneo de los requerimientos que formule en materia de su competencia.
 
@@ -2214,6 +2250,14 @@ I.- Las establecidas en las fracciones II, V, VII, VIII, XI, XV, XVI y XIX del a
 II.- Las señaladas en las fracciones III, VII, IX, XI, XX, XXII, XXIII, XXIV y XXVII del artículo anterior de este Reglamento.
 
 III.- Imponer multas por el incumplimiento o cumplimiento extemporáneo de los requerimientos que formule en materia de su competencia.
+
+> <small>(ADICIONADO, D.O.F. 12 DE MAYO DE 2006)</small>
+
+I. Administración Central de Operación:
+
+I.- Las establecidas en las fracciones I, III, IV, V, VII, VIII, XII, XIII, XIV, XV, XVIII, XXI y XXIV del artículo 9 de este Reglamento.
+
+II.- Las señaladas en las fracciones III, VII y XI del artículo anterior de este Reglamento.
 
 ###### Artículo 24.
 
@@ -2281,7 +2325,9 @@ XX.- Vigilar que los contribuyentes, responsables solidarios y demás obligados 
 
 XXI.- Exigir la presentación de declaraciones, avisos, documentos e instrumentos autorizados, cuando los obligados no lo hagan en los plazos respectivos, que no sean competencia de otras unidades administrativas del Servicio de Administración Tributaria y, simultánea o sucesivamente, hacer efectiva una cantidad igual a la determinada en la última o en cualquiera de las seis últimas declaraciones de que se trate o a la que resulte determinada por la autoridad; practicar el embargo precautorio de los bienes o de la negociación del contribuyente; imponer la multa que corresponda; requerir la rectificación de errores u omisiones contenidos en las declaraciones, solicitudes, avisos, documentos e instrumentos autorizados; dejar sin efectos los avisos presentados cuando al revisarse o verificarse no correspondan a lo manifestado.
 
-XXII.- Notificar sus actos que determinen créditos fiscales, citatorios, requerimientos, solicitud de informes y otros actos administrativos, que no sean competencia de otras unidades administrativas del Servicio de Administración Tributaria; notificar los actos administrativos antes referidos, que emitan la Administración General de Grandes Contribuyentes y las unidades administrativas que dependan de ésta; notificar las resoluciones administrativas que emitan la Administración General de Auditoría Fiscal Federal y las unidades administrativas que dependan de ésta, que sean susceptibles de impugnarse mediante recurso administrativo o juicio contencioso administrativo ante el Tribunal Federal de Justicia Fiscal y Administrativa.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE MAYO DE 2006)</small>
+
+XXII.- Notificar todo tipo de actos administrativos, incluyendo los que determinen créditos fiscales, citatorios, requerimientos y solicitud de informes; notificar los actos administrativos antes referidos, que emitan la Administración General de Grandes Contribuyentes y las unidades administrativas que dependan de ésta; notificar las resoluciones administrativas que emitan la Administración General de Auditoría Fiscal Federal y las unidades administrativas que dependan de ésta, que sean susceptibles de impugnarse mediante recurso administrativo o juicio contencioso administrativo ante el Tribunal Federal de Justicia Fiscal y Administrativa.
 
 Lo anterior, sin perjuicio de las facultades que en el mismo sentido se otorgan en los artículos 16, fracción VIII, 18, apartados A y B, fracción II, 19, 20 y 21 del presente Reglamento.
 
@@ -2349,11 +2395,17 @@ LIII.- Proporcionar a las sociedades de información crediticia que obtengan aut
 
 LIV.- Realizar, acordar y promover programas relativos al intercambio de información con autoridades y organismos públicos y privados, que controlen padrones con información genérica de personas físicas y morales, de conformidad con las disposiciones legales aplicables, para la actualización del Registro Federal de Contribuyentes, así como colaborar en el diseño, generación y mantenimiento de los registros, incluidos los geográficos.
 
-LV.- Poner a disposición de la unidad administrativa de la Administración General de Aduanas que corresponda, para su transferencia a la instancia competente, los bienes que hayan pasado a propiedad del Fisco Federal.
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
+
+LV.-Transferir a la instancia competente los bienes que hayan pasado a propiedad del Fisco Federal.
 
 LVI.- Establecer, en el ámbito de su competencia, los esquemas de control y supervisión necesarios para eficientar la operación de las unidades administrativas de su adscripción.
 
 LVII.- Recibir, requerir y recabar de las personas que realicen las actividades a que se refiere el artículo 81-A de la Ley General de Organizaciones y Actividades Auxiliares del Crédito y de los transmisores de dinero a que se refiere la citada Ley, la información y documentación relacionada con los actos, operaciones y servicios a que se refiere la fracción II del artículo 95-Bis de dicha Ley; supervisar, vigilar e inspeccionar el cumplimiento y observancia de lo dispuesto por el artículo 95-Bis de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, así como por las disposiciones de carácter general que emita la Secretaría de Hacienda y Crédito Público en términos de dicho artículo; imponer las sanciones correspondientes a las personas que realicen las actividades a que se refiere el artículo 81-A de la Ley General de Organizaciones y Actividades Auxiliares del Crédito y a los transmisores de dinero y, según corresponda, a los miembros de su consejo de administración, administradores, directivos, funcionarios, empleados, factores y apoderados, así como a las personas físicas y morales que, en razón de sus actos, hayan ocasionado o intervenido para que dichas entidades financieras incurran en irregularidades o resulten responsables de las mismas.
+
+> <small>(ADICIONADA, D.O.F. 12 DE MAYO DE 2006)</small>
+
+LVIII.- Expedir los marbetes y los precintos que los contribuyentes deban utilizar cuando las leyes fiscales los obliguen.
 
 Respecto de las entidades y sujetos a que se refiere el artículo 19, apartado B de este Reglamento, la Administración General de Recaudación, sus unidades administrativas centrales y Administraciones Locales ejercerán las facultades contenidas en este artículo, sin perjuicio de lo establecido en el penúltimo párrafo del artículo 27 de este Reglamento.
 
@@ -2487,7 +2539,9 @@ Compete a las Administraciones Locales de Recaudación, dentro de la circunscrip
 
 I.- Las establecidas en las fracciones II, V, VII, VIII, X, XI, XIV, XV, XVII, XVIII y XXV del artículo 9 de este Reglamento.
 
-II.- Las señaladas en las fracciones II, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII, XXXVIII, XXXIX, XLII, XLIII, XLV, XLVII y XLIX del artículo 25 de este Reglamento.
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
+
+II.- Las señaladas en las fracciones II, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII, XXXVIII, XXXIX, XLII, XLIII, XLV, XLVII, XLIX y LVII del artículo 25 de este Reglamento.
 
 III.- Dejar sin efectos sus propias resoluciones, cuando se hayan emitido en contravención a las disposiciones fiscales, siempre que la resolución no se encuentre firme por haberse interpuesto algún medio de defensa.
 
@@ -2503,9 +2557,13 @@ Compete a la Administración General de Innovación y Calidad:
 
 I.- Proporcionar apoyo a las unidades administrativas del Servicio de Administración Tributaria para programar, presupuestar, organizar, controlar y evaluar sus actividades respecto al gasto público que ejercen.
 
-II.- Proponer el anteproyecto de presupuesto anual del Servicio de Administración Tributaria, con base en los anteproyectos de presupuesto y de programas presentados por las unidades administrativas; ejercer, reembolsar, pagar, contabilizar y vigilar el ejercicio del presupuesto asignado al Servicio de Administración Tributaria, así como autorizar las erogaciones con cargo al mismo.
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
 
-III.- Proporcionar el apoyo administrativo necesario en materia de recursos humanos, recursos materiales, servicios generales, recursos financieros, capacitación, actividades sociales y de los demás servicios de carácter administrativo que sean necesarios para el despacho de los asuntos del Servicio de Administración Tributaria.
+II.- Proponer el anteproyecto de presupuesto anual del Servicio de Administración Tributaria, con base en los anteproyectos de presupuesto y de programas presentados por las unidades administrativas, así como de los Fideicomisos Públicos que administre y autorizar las erogaciones con cargo a los mismos; ejercer, reembolsar, pagar, contabilizar y vigilar el ejercicio del presupuesto asignado al Servicio de Administración Tributaria.
+
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
+
+III.- Administrar y proporcionar el apoyo administrativo necesario en materia de recursos humanos, recursos materiales, servicios generales, recursos financieros, capacitación, actividades sociales y de los demás servicios de carácter administrativo que sean necesarios para el despacho de los asuntos del Servicio de Administración Tributaria.
 
 IV.- Realizar estudios sobre la organización administrativa de las unidades administrativas del Servicio de Administración Tributaria y proponer las medidas que procedan.
 
@@ -2513,7 +2571,9 @@ V.- Diseñar, desarrollar, revisar, actualizar y operar la normatividad interna 
 
 VI.- Establecer, conforme a las disposiciones que señalen las Secretarías de Hacienda y Crédito Público y de la Función Pública, así como las unidades administrativas competentes del Servicio de Administración Tributaria, las normas y procedimientos para la operación del sistema de contabilidad, tanto del presupuesto del citado órgano desconcentrado como de sus activos, pasivos, ingresos, costos y gastos; someter al superior jerárquico y a la Secretaría de Hacienda y Crédito Público, los informes y estados financieros correspondientes.
 
-VII.- Coordinar la instrumentación de las normas de contabilidad; diseñar y emitir lineamientos sobre rendición de cuenta comprobada de los movimientos presupuestales, en coordinación con las unidades administrativas del Servicio de Administración Tributaria.
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
+
+VII.- Instrumentar la aplicación de las normas de contabilidad; diseñar y emitir lineamientos sobre rendición de cuenta comprobada de los movimientos presupuestales del Servicio de Administración Tributaria.
 
 VIII.- Analizar el desarrollo de sus programas e informar al Jefe del Servicio de Administración Tributaria sobre el cumplimiento de los mismos y del ejercicio del presupuesto.
 
@@ -2525,155 +2585,223 @@ XI.- Implementar, en coordinación con la unidad administrativa que corresponda,
 
 XII.- Fijar lineamientos para la formulación del Manual de Organización General del Servicio de Administración Tributaria y de los manuales de organización específicos y de procedimientos de las unidades administrativas del Servicio de Administración Tributaria.
 
-XIII.- Validar la información contenida en el nombramiento del personal del Servicio de Administración Tributaria, cambiarlo de adscripción de una Administración General a otra y ejercer las demás acciones previstas en los ordenamientos aplicables y en las Condiciones Generales de Trabajo, así como removerlo o cesarlo cuando corresponda; resolver, con base en los lineamientos que fije el Jefe del Servicio de Administración Tributaria, lo relativo al personal al servicio de dicho órgano desconcentrado; establecer y ejecutar la política laboral de los empleados de confianza; conducir las relaciones sindicales y participar en el establecimiento, modificación y revisión de las Condiciones Generales de Trabajo, así como vigilar su cumplimiento y difusión entre el personal de base.
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
 
-XIV.- Proponer al Jefe del Servicio de Administración Tributaria la designación de representantes ante la Comisión Mixta de Escalafón, así como mantener actualizado el escalafón y difundirlo entre los trabajadores.
+XIII.- Validar la información contenida en el nombramiento del personal del Servicio de Administración Tributaria, cambiarlo de adscripción de una Administración General a otra y ejercer las demás acciones previstas en los ordenamientos aplicables y en las Condiciones Generales de Trabajo.
 
-XV.- Otorgar al personal, en coordinación con las unidades administrativas del Servicio de Administración Tributaria, los estímulos, recompensas y prestaciones que establezca la ley de la materia, así como las licencias y prestaciones que prevean la legislación laboral, las Condiciones Generales de Trabajo, el Estatuto del Servicio Fiscal de Carrera y demás disposiciones aplicables, así como imponer y revocar las sanciones por incumplimiento a sus obligaciones en materia laboral.
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
 
-XVI.- Proponer al Jefe del Servicio de Administración Tributaria, para aprobación de la Junta de Gobierno, el tabulador de sueldos y el esquema de prestaciones aplicables al personal y tramitar su registro ante las autoridades correspondientes, de conformidad con las disposiciones aplicables.
+XIV.- Remover y cesar al personal del Servicio de Administración Tributaria, cuando corresponda.
 
-XVII.- Normar, operar y difundir los sistemas, procesos y procedimientos en materia de administración de personal y capacitación, que deberán observar las unidades administrativas del Servicio de Administración Tributaria y proponer lo conducente a la Comisión del Servicio Fiscal de Carrera, así como supervisar y evaluar los resultados de los mismos.
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
 
-XVIII.- Evaluar la gestión administrativa en materia de recursos humanos, financieros, materiales y servicios generales en las unidades administrativas centrales y regionales.
+XV.- Establecer y ejecutar la política laboral de los empleados de confianza del Servicio de Administración Tributaria; conducir las relaciones sindicales y participar en el establecimiento, modificación y revisión de las Condiciones Generales de Trabajo, así como vigilar su cumplimiento y difusión entre el personal de base.
 
-XIX.- Suscribir el nombramiento de los servidores públicos del Servicio de Administración Tributaria.
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
 
-XX.- Promover y aplicar el Programa de Servicio Social de Pasantes y evaluar periódicamente sus resultados.
+XVI.- Proponer al Jefe del Servicio de Administración Tributaria la designación de representantes ante la Comisión Mixta de Escalafón, así como mantener actualizado el escalafón y difundirlo entre los trabajadores.
 
-XXI.- Celebrar, en representación del Servicio de Administración Tributaria, contratos de prestación de servicios profesionales, así como contratos, convenios y acuerdos necesarios para el desarrollo de programas relativos a las actividades sociales, culturales, deportivas y recreativas a que tenga derecho el personal y sus familiares derechohabientes, conforme a las leyes de la materia y los lineamientos que emita el Titular.
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
 
-XXII.- Diseñar e instrumentar el Programa de Desarrollo del Personal del Servicio de Administración Tributaria, que coadyuve al adecuado desempeño de las funciones de sus puestos, así como a la promoción y ascenso dentro del Plan de Carrera y Certificación de los servidores públicos.
+XVII.- Otorgar al personal, en coordinación con las unidades administrativas del Servicio de Administración Tributaria, los estímulos, recompensas y prestaciones que establezca la ley de la materia, así como las licencias y prestaciones que prevean la legislación laboral, las Condiciones Generales de Trabajo, el Estatuto del Servicio Fiscal de Carrera y demás disposiciones aplicables, así como imponer y revocar las sanciones por incumplimiento a sus obligaciones en materia laboral.
 
-XXIII.- Emitir acuerdo para formalizar la terminación de la relación de trabajo en los casos de invalidez o incapacidad total y permanente y gestionar ante el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado los dictámenes correspondientes, así como para dar cumplimiento a laudos, resoluciones o sentencias.
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
 
-XXIV.- Proporcionar la información que soliciten las autoridades competentes, respecto a los trámites y autorizaciones relacionados con el Servicio Fiscal de Carrera.
+XVIII.- Proponer al Jefe del Servicio de Administración Tributaria, para aprobación de la Junta de Gobierno, el tabulador de sueldos y el esquema de prestaciones aplicables al personal, así como, en su caso, tramitar el registro ante las autoridades correspondientes.
 
-XXV.- Definir los procesos, acciones y programas en materia de organización y modernización administrativa del Servicio de Administración Tributaria, con el propósito de asegurar su vinculación con las políticas y sistemas del Servicio Fiscal de Carrera, así como participar en foros, organismos, instituciones y asociaciones internacionales en materia del Servicio Fiscal de Carrera.
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
 
-XXVI.- Proponer la actualización del Estatuto del Servicio Fiscal de Carrera y de las disposiciones de carácter general en la materia, así como de los procedimientos relativos a éste; dar seguimiento a su operación y evaluar permanentemente su funcionamiento.
+XIX.- Normar, operar y difundir los sistemas, procesos y procedimientos en materia de administración de personal y capacitación, que deberán observar las unidades administrativas del Servicio de Administración Tributaria y proponer lo conducente a la Comisión del Servicio Fiscal de Carrera, así como supervisar y evaluar los resultados de los mismos.
 
-XXVII.- Revisar y actualizar las disposiciones reglamentarias y los procedimientos de los subsistemas que conforman el Sistema de Profesionalización y Certificación de Competencias Laborales y el Sistema de Certificación de Calidad del Servicio de Administración Tributaria.
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
 
-XXVIII.- Investigar y analizar las prácticas administrativas nacionales e internacionales y celebrar convenios con instituciones, tendientes a fortalecer la protección del capital intelectual y el desarrollo de los recursos humanos del Servicio de Administración Tributaria.
+XX.- Evaluar los niveles de servicio en materia de recursos humanos, financieros y materiales que proporcionen las unidades administrativas que le sean adscritas.
 
-XXIX.- Establecer las políticas, lineamientos y procedimientos para la contratación de la obra pública y adquisición, arrendamiento o contratación de bienes y servicios que requiera el Servicio de Administración Tributaria.
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
 
-XXX.- Establecer políticas, directrices, normas y criterios jurídicos para la celebración de contratos, convenios y demás actos relacionados con las materias de su competencia; suscribir, en representación del Servicio de Administración Tributaria, los convenios y contratos que el mismo celebre y que no sean de responsabilidad directa de otra unidad administrativa, conforme a los lineamientos que emita su Titular y de cuya ejecución se desprendan obligaciones patrimoniales a cargo del Servicio de Administración Tributaria, incluso los relativos a la celebración de rifas, sorteos o loterías cuyo objeto sea incentivar el cumplimiento voluntario de las disposiciones fiscales y aduaneras, así como apoyar las funciones recaudatorias, fiscalizadoras y aduaneras, previa solicitud de la Unidad de Programas Especiales; suscribir los demás documentos que impliquen actos de administración; llevar a cabo los procesos de adquisición y arrendamiento de bienes y servicios; supervisar arrendamientos y adquisiciones que lleve a cabo el Servicio de Administración Tributaria, la prestación de servicios que contrate y la adecuada conservación de los bienes muebles e inmuebles que bajo cualquier título tenga en su posesión; realizar las acciones necesarias para la regularización jurídica y administrativa de los bienes inmuebles; aplicar las normas para la administración y baja de bienes muebles de las dependencias de la Administración Pública Federal.
+XXI.- Suscribir el nombramiento de los servidores públicos del Servicio de Administración Tributaria.
 
-XXXI.- Proponer al Jefe del Servicio de Administración Tributaria los proyectos de programas que establece el Sistema Nacional de Protección Civil; evaluar los resultados de los programas en ejecución y llevar a cabo la comunicación y coordinación permanentes con el citado Sistema.
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
 
-XXXII.- Coadyuvar con las unidades administrativas competentes en la preservación de las mercancías de procedencia extranjera que se encuentren sujetas a un procedimiento aduanero, hasta que sean puestas a disposición de la instancia competente.
+XXII.- Promover y aplicar el Programa de Servicio Social de Pasantes y evaluar periódicamente sus resultados.
 
-XXXIII.- Coadyuvar en la custodia, preservación y adjudicación o enajenación de los bienes embargados por las autoridades fiscales.
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
 
-XXXIV.- Asesorar a las unidades administrativas del Servicio de Administración Tributaria en los asuntos laborales relativos a su personal, incluso en la práctica y levantamiento de constancias y actas administrativas en esta materia, así como conocer del debido cumplimiento de las obligaciones laborales del personal del Servicio de Administración Tributaria para el ejercicio de sus facultades.
+XXIII.- Celebrar, en representación del Servicio de Administración Tributaria, contratos de prestación de servicios profesionales, así como los contratos, convenios y acuerdos necesarios para el desarrollo de programas relativos a las actividades sociales, culturales, deportivas y recreativas a que tenga derecho el personal y sus familiares derechohabientes, conforme a las leyes de la materia y los lineamientos que emita su Titular.
 
-XXXV.- Representar al Secretario de Hacienda y Crédito Público y al Jefe del Servicio de Administración Tributaria ante el Tribunal Federal de Conciliación y Arbitraje y demás autoridades del trabajo, en las controversias y juicios laborales que se susciten con el personal que le preste sus servicios; formular las demandas y contestaciones; allanarse, transigir, abstenerse de ejercitar acciones y desistirse de ellas; celebrar convenios, conciliar en los juicios laborales y ejercer dicha representación inclusive respecto de las acciones relativas a la ejecución de los laudos, resoluciones o sentencias; interponer los recursos que procedan y absolver posiciones; formular las demandas de amparo que procedan en contra de los laudos, resoluciones, sentencias y acuerdos que en dichos juicios se dicten; asistir legalmente en materia laboral a las unidades administrativas del Servicio de Administración Tributaria; efectuar el pago de salarios caídos y otras prestaciones de carácter económico determinadas en laudos, sentencias, resoluciones y acuerdos definitivos y en aquellos otros casos que corresponda conforme a la ley, incluyendo la restitución en el goce de derechos.
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
 
-XXXVI.- Designar a los servidores públicos de la Administración General de Innovación y Calidad que representen al Servicio de Administración Tributaria, en los juicios, controversias y asuntos de su competencia, así como revocar dicha designación.
+XXIV.- Diseñar e instrumentar el Programa de Desarrollo del Personal del Servicio de Administración Tributaria, que coadyuve al adecuado desempeño de las funciones de sus puestos, así como a la promoción y ascenso dentro del Plan de Carrera y Certificación de los servidores públicos.
 
-XXXVII.- Coadyuvar con la Procuraduría General de la República en la integración de las averiguaciones previas y en el trámite de los procesos que afecten al Servicio de Administración Tributaria o en los que tenga interés jurídico, en el ámbito de su competencia, así como solicitar la intervención del Procurador General de la República en todos aquellos asuntos contenciosos que le competan en los términos del artículo 102 de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
 
-XXXVIII.- Comparecer y representar al Servicio de Administración Tributaria ante las autoridades de carácter administrativo o judicial en los juicios o procedimientos en que sea parte; ejercer toda clase de acciones, defensas y excepciones que correspondan al órgano desconcentrado; vigilar la continuidad de los juicios, procedimientos y diligencias respectivas, así como formular las demandas, contestaciones y, en general, todas las promociones que se requieran para la prosecución de los juicios o recursos interpuestos ante dichas autoridades y vigilar el cumplimiento de las resoluciones correspondientes.
+XXV.- Emitir acuerdo para formalizar la terminación de la relación de trabajo en los casos de invalidez o incapacidad total y permanente y gestionar ante el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado los dictámenes correspondientes.
 
-XXXIX.- Comparecer ante las procuradurías General de la República, General de Justicia del Distrito Federal y de los Estados de la República, en las averiguaciones relacionadas con los vehículos asignados a este órgano desconcentrado, para formular denuncias de hechos y querellas y, en su caso, otorgar el perdón en los términos de las disposiciones aplicables, cuando el daño causado haya sido reparado plenamente y a entera satisfacción; recibir el importe de los daños que se causen a los propios vehículos y retirarlos de los lugares en que se encuentren depositados, en el ámbito de su competencia.
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
 
-XL.- Suscribir, en representación del Servicio de Administración Tributaria, los informes que se deban rendir ante la autoridad judicial, así como los recursos, demandas y promociones de término en procedimientos judiciales, con excepción de lo expresamente encomendado a la Administración General Jurídica.
+XXVI.- Dar cumplimiento a laudos, resoluciones y sentencias, en las materias de su competencia.
 
-XLI.- Realizar el diagnóstico periódico del clima organizacional y desarrollar estrategias para su optimización, así como para la sensibilización y motivación del personal y el reforzamiento de una cultura laboral orientada a la eficiencia, productividad y calidad.
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
 
-XLII.- Elaborar y aplicar las políticas, normas y programas de becas para el personal del Servicio de Administración Tributaria y celebrar contratos con los becarios, a fin de que se garantice la debida observancia de las mismas.
+XXVII.- Proporcionar la información que soliciten las autoridades competentes, respecto a los trámites y autorizaciones relacionados con el Servicio Fiscal de Carrera.
 
-XLIII.- Diseñar, organizar e instrumentar programas de capacitación afines a la administración tributaria y aduanera.
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
 
-XLIV.- Desarrollar programas que permitan evaluar y mejorar la cultura organizacional, fomentando los valores y principios del Servicio de Administración Tributaria.
+XXVIII.- Definir los procesos, acciones y programas en materia de organización y modernización administrativa del Servicio de Administración Tributaria, con el propósito de asegurar su vinculación con las políticas y sistemas del Servicio Fiscal de Carrera, así como participar en foros, organismos, instituciones y asociaciones internacionales en materia del Servicio Fiscal de Carrera.
 
-XLV.- Convocar a los miembros de la Comisión del Servicio Fiscal de Carrera a las sesiones que se requieran, en términos del Estatuto del Servicio Fiscal de Carrera; levantar las actas correspondientes; formular y someter a la aprobación de ésta, las propuestas relativas al Servicio Fiscal de Carrera, tomando las medidas para que se cumplan los acuerdos de la citada Comisión.
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
 
-XLVI.- Establecer la política y los lineamientos que deben seguir las Subadministraciones de Innovación y Calidad en las Administraciones Locales y en las Aduanas.
+XXIX.- Proponer la actualización del Estatuto del Servicio Fiscal de Carrera y de las disposiciones de carácter general en la materia, así como de los procedimientos relativos a éste; dar seguimiento a su operación y evaluar permanentemente su funcionamiento.
 
-XLVII.- Establecer los lineamientos y procedimientos de seguridad para el ingreso, permanencia y salida de personas y bienes de los inmuebles del Servicio de Administración Tributaria, así como adoptar las medidas necesarias para evitar el comercio informal dentro de dichas instalaciones, excepto en los casos de la competencia de la Administración General de Aduanas.
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
 
-XLVIII.- Adoptar las medidas necesarias para resguardar los bienes muebles e inmuebles que ocupe el Servicio de Administración Tributaria, así como para salvaguardar la integridad física de las personas que se encuentren dentro de las instalaciones; coordinar la atención de emergencia en todos los inmuebles, salvo en los casos de la competencia de la Administración General de Aduanas.
+XXX.- Revisar y actualizar las disposiciones reglamentarias y los procedimientos de los subsistemas que conforman el Sistema de Profesionalización del Servicio de Administración Tributaria.
 
-XLIX.- Entrevistar, aplicar pruebas y practicar la investigación socioeconómica que se requiera a los candidatos a servidores públicos del Servicio de Administración Tributaria, así como verificar sus antecedentes académicos y laborales.
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
 
-L.- Otorgar y cancelar autorizaciones, así como suscribir los contratos e instrumentos relacionados con los servicios a que se refiere el primer párrafo del artículo 16 de la Ley Aduanera; otorgar y cancelar autorizaciones para la prestación de servicios de segundo reconocimiento aduanero, previa opinión de la Administración General de Aduanas.
+XXXI.- Revisar y actualizar las disposiciones reglamentarias y los procedimientos de los subsistemas que conforman el Sistema de Certificación de Competencias Laborales del Servicio de Administración Tributaria.
+
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
+
+XXXII.- Revisar y actualizar las disposiciones reglamentarias y los procedimientos de los subsistemas que conforman el Sistema de Certificación de Calidad del Servicio de Administración Tributaria.
+
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
+
+XXXIII.- Investigar y analizar las prácticas administrativas nacionales e internacionales y celebrar convenios con instituciones, tendientes a fortalecer la protección del capital intelectual y el desarrollo de los recursos humanos del Servicio de Administración Tributaria.
+
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
+
+XXXIV.- Establecer y aplicar las políticas, lineamientos y procedimientos para la contratación de la obra pública y la adquisición, arrendamiento o contratación de bienes y servicios que requiera el Servicio de Administración Tributaria.
+
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
+
+XXXV.- Establecer políticas, directrices, normas y criterios jurídicos para la celebración de contratos, convenios y demás actos relacionados con las materias de su competencia; suscribir, en representación del Servicio de Administración Tributaria, los convenios y contratos que el mismo celebre y que no sean de responsabilidad directa de otra unidad administrativa, conforme a los lineamientos que emita su Titular y de cuya ejecución se desprendan obligaciones patrimoniales a cargo del Servicio de Administración Tributaria, incluso los relativos a la celebración de rifas, sorteos o loterías cuyo objeto sea incentivar el cumplimiento voluntario de las disposiciones fiscales y aduaneras, así como apoyar las funciones recaudatorias, fiscalizadoras y aduaneras, previa solicitud de la Unidad de Programas Especiales; suscribir los demás documentos que impliquen actos de administración; llevar a cabo los procesos de adquisición y arrendamiento de bienes y servicios; supervisar la prestación de servicios que contrate y la adecuada conservación de los bienes muebles e inmuebles que bajo cualquier título tenga en su posesión; realizar las acciones necesarias para la regularización jurídica y administrativa de los bienes inmuebles; así como aplicar las normas para la administración y baja de bienes muebles de las dependencias de la Administración Pública Federal.
+
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
+
+XXXVI.- Proponer al Jefe del Servicio de Administración Tributaria los proyectos de programas que establece el Sistema Nacional de Protección Civil; evaluar los resultados de los programas en ejecución y llevar a cabo la comunicación y coordinación permanentes con el citado Sistema.
+
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
+
+XXXVII.- Coadyuvar con las unidades administrativas competentes en la preservación de las mercancías de procedencia extranjera que se encuentren sujetas a un procedimiento aduanero, hasta que sean transferidas a la instancia competente.
+
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
+
+XXXVIII.- Coadyuvar en la custodia, preservación y adjudicación o enajenación de los bienes embargados por las autoridades fiscales.
+
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
+
+XXXIX.- Asesorar a las unidades administrativas del Servicio de Administración Tributaria en los asuntos laborales relativos a su personal, incluso en la práctica y levantamiento de constancias y actas administrativas en esta materia, así como conocer del incumplimiento de las obligaciones laborales del personal del Servicio de Administración Tributaria para el ejercicio de sus facultades.
+
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
+
+XL.- Representar al Secretario de Hacienda y Crédito Público y al Jefe del Servicio de Administración Tributaria ante el Tribunal Federal de Conciliación y Arbitraje y demás autoridades del trabajo, en las controversias y juicios laborales que se susciten con el personal que le preste sus servicios; formular las demandas y contestaciones; allanarse, transigir, abstenerse de ejercitar acciones y desistirse de ellas; celebrar convenios, conciliar en los juicios laborales y ejercer dicha representación inclusive respecto de las acciones relativas a la ejecución de los laudos, resoluciones o sentencias; interponer los recursos que procedan y absolver posiciones; formular las demandas de amparo que procedan en contra de los laudos, resoluciones, sentencias y acuerdos que en dichos juicios se dicten; asistir legalmente en materia laboral a las unidades administrativas del Servicio de Administración Tributaria; efectuar el pago de salarios caídos y otras prestaciones de carácter económico determinadas en laudos, sentencias, resoluciones y acuerdos definitivos y en aquellos otros casos que corresponda conforme a la ley, incluyendo la restitución en el goce de derechos.
+
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
+
+XLI.- Designar a los servidores públicos que le estén adscritos para que representen al Servicio de Administración Tributaria en los juicios, controversias y asuntos de su competencia, así como revocar dicha designación.
+
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
+
+XLII.- Coadyuvar con la Procuraduría General de la República en la integración de las averiguaciones previas y en el trámite de los procesos que afecten al Servicio de Administración Tributaria o en los que tenga interés jurídico, en el ámbito de su competencia, así como solicitar la intervención del Procurador General de la República en todos aquellos asuntos contenciosos que le competan en los términos del artículo 102 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
+
+XLIII.- Comparecer y representar al Servicio de Administración Tributaria ante las autoridades de carácter administrativo o judicial en los juicios o procedimientos en que sea parte; ejercer toda clase de acciones, defensas y excepciones que correspondan al órgano desconcentrado; vigilar la continuidad de los juicios, procedimientos y diligencias respectivas, así como formular las demandas, contestaciones y, en general, todas las promociones que se requieran para la prosecución de los juicios o recursos interpuestos ante dichas autoridades y vigilar el cumplimiento de las resoluciones correspondientes.
+
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
+
+XLIV.- Comparecer ante las procuradurías General de la República, General de Justicia del Distrito Federal y de los Estados de la República, en las averiguaciones relacionadas con los vehículos asignados al órgano desconcentrado, para formular denuncias de hechos y querellas y, en su caso, otorgar el perdón en los términos de las disposiciones aplicables, cuando el daño causado haya sido reparado plenamente y a entera satisfacción; recibir el importe de los daños que se causen a los propios vehículos y retirarlos de los lugares en que se encuentren depositados, en el ámbito de su competencia.
+
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
+
+XLV.- Suscribir, en representación del Servicio de Administración Tributaria, los informes que se deban rendir ante la autoridad judicial, así como los recursos, demandas y promociones de término en procedimientos judiciales, con excepción de lo expresamente encomendado a la Administración General Jurídica.
+
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
+
+XLVI.- Realizar el diagnóstico periódico del clima organizacional y desarrollar estrategias para su optimización, así como para la sensibilización y motivación del personal y el reforzamiento de una cultura laboral orientada a la eficiencia, productividad y calidad.
+
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
+
+XLVII.- Elaborar y aplicar las políticas, normas y programas de becas para el personal del Servicio de Administración Tributaria y celebrar contratos con los becarios, a fin de que se garantice la debida observancia de las mismas.
+
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
+
+XLVIII.- Diseñar, organizar e instrumentar programas de capacitación afines a la administración tributaria y aduanera.
+
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
+
+XLIX.- Desarrollar programas que permitan evaluar y mejorar la cultura organizacional, fomentando los valores y principios del Servicio de Administración Tributaria.
+
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
+
+L.- Convocar a los miembros de la Comisión del Servicio Fiscal de Carrera a las sesiones que se requieran, en términos del Estatuto del Servicio Fiscal de Carrera; levantar las actas correspondientes; formular y someter a la aprobación de la citada Comisión las propuestas relativas al Servicio Fiscal de Carrera tomando las medidas para que se cumplan los acuerdos de la misma.
+
+> <small>(ADICIONADA, D.O.F. 12 DE MAYO DE 2006)</small>
+
+LI.- Establecer la política y los lineamientos que deben seguir los Administradores de Servicios y Subadministradores de los Centros de Servicios Administrativos en las Administraciones Locales y en las Aduanas.
+
+> <small>(ADICIONADA, D.O.F. 12 DE MAYO DE 2006)</small>
+
+LII.- Establecer los lineamientos y procedimientos de seguridad para el ingreso, permanencia y salida de personas y bienes de los inmuebles del Servicio de Administración Tributaria, así como adoptar las medidas necesarias para evitar el comercio informal dentro de dichas instalaciones, excepto en los casos de la competencia de la Administración General de Aduanas.
+
+> <small>(ADICIONADA, D.O.F. 12 DE MAYO DE 2006)</small>
+
+LIII.- Adoptar las medidas necesarias para resguardar los bienes muebles e inmuebles que ocupe el Servicio de Administración Tributaria, así como para salvaguardar la integridad física de las personas que se encuentren dentro de las instalaciones; coordinar la atención de emergencia en todos los inmuebles, salvo en los casos de la competencia de la Administración General de Aduanas.
+
+> <small>(ADICIONADA, D.O.F. 12 DE MAYO DE 2006)</small>
+
+LIV.- Entrevistar y aplicar las pruebas que se requieran a los candidatos a servidores públicos del Servicio de Administración Tributaria, así como verificar sus antecedentes académicos y laborales conforme a los lineamientos que se establezcan para esos efectos.
+
+> <small>(ADICIONADA, D.O.F. 12 DE MAYO DE 2006)</small>
+
+LV.- Otorgar y cancelar autorizaciones, así como suscribir los contratos e instrumentos relacionados con los servicios a que se refiere el primer párrafo del artículo 16 de la Ley Aduanera; así como otorgar y cancelar autorizaciones para la prestación de servicios de segundo reconocimiento aduanero, previa opinión de la Administración General de Aduanas.
+
+> <small>(ADICIONADA, D.O.F. 12 DE MAYO DE 2006)</small>
+
+LVI.- Expedir y suscribir las credenciales oficiales de identificación del personal del Servicio de Administración Tributaria, así como validar los formatos de gafetes de identificación que emiten los Administradores Generales del Servicio de Administración Tributaria.
 
 La Administración General de Innovación y Calidad estará a cargo de un Administrador General, auxiliado en el ejercicio de sus facultades por los servidores públicos que en adelante se señalan.
 
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 2006)</small>
+
 Las unidades administrativas de las que sean titulares los servidores públicos que a continuación se indican estarán adscritos a la Administración General de Innovación y Calidad.
 
-Coordinador de Servicios Administrativos.
+Administrador de Planeación y Proyectos.
 
-Coordinador de las Subadministraciones de Innovación y Calidad en las Administraciones Locales y en las Aduanas.
+Administrador de Gestión Interna.
 
 Administrador Central de Recursos Financieros:
 
-Administrador de Costos y Estudios de Mejora.
+Administrador de Presupuestos.
 
-Administrador de Presupuesto.
+Administrador de Tesorería.
 
-Administrador de Contabilidad y Estados Financieros.
+Administrador de Costos.
 
-Administrador de Finanzas y Tesorería.
+Administrador Central de Capital Humano:
 
-Administrador de Planeación.
-
-Administrador de Atención a Órganos Fiscalizadores.
-
-Administrador Central de Recursos Humanos:
-
-Coordinador de Reclutamiento, Selección y Relaciones Interinstitucionales.
-
-Administrador de Reclutamiento.
-
-Administrador de Selección.
-
-Administrador de Relaciones Sindicales.
-
-Administrador de Relaciones Interinstitucionales.
-
-Coordinador de Operación.
+Administrador de Desarrollo Personal.
 
 Administrador de Organización.
 
-Administrador de Presupuesto de Servicios Personales.
+Administrador de Evaluación.
 
-Administrador de Pagos y Servicios.
+Administrador de Relaciones Laborales.
 
-Coordinador del Servicio Fiscal de Carrera.
+Administrador del Cambio.
 
-Administrador de Evaluación del Desempeño.
-
-Administrador del Servicio Fiscal de Carrera.
-
-Administrador de Plan de Carrera.
-
-Administrador Central de Recursos Materiales y Servicios Generales:
-
-Coordinador de Servicios Generales.
-
-Coordinador de Proyectos Especiales.
-
-Administrador de Operación de Servicios.
+Administrador Central de Recursos Materiales:
 
 Administrador de Proyectos y Obra Pública.
 
-Administrador de Adquisiciones.
+Administrador de Adquisiciones de Bienes y Servicios.
 
-Administrador de Bienes Muebles y Almacenes.
+Administrador de Bienes.
 
-Administrador de Inmuebles Centrales.
-
-Administrador de Seguridad, Vigilancia y Protección Civil.
+Administrador de Seguridad y Vigilancia.
 
 Administrador Central de Apoyo Jurídico:
-
-Coordinador de Operación de Apoyo Jurídico.
-
-Administrador de Relaciones Laborales.
 
 Administrador de Juicios Laborales y Amparos.
 
@@ -2681,21 +2809,41 @@ Administrador de Contratos.
 
 Administrador de Normatividad.
 
+Administrador Jurídico Consultivo.
+
+Administrador de Seguimiento de Procesos de Fideicomiso.
+
 Administrador Central de Capacitación Fiscal:
 
-Coordinador de Procesos Educativos.
+Administrador de Planeación Educativa.
 
-Coordinador de Cultura y Desarrollo Gerencial.
+Administrador de Procesos Educativos.
 
-Coordinador de Extensión y Vinculación.
+Administrador de Tecnología Educativa.
 
-Coordinador de Estudios y Competencias.
+Administrador de Investigación Tributaria y Obra Editorial.
 
-Coordinador de Telecomunicación Educativa.
+Administrador Central de Operaciones Administrativas:
 
-Coordinador de Tecnología Educativa.
+Administrador del Centro Transaccional.
 
-Subadministradores de Innovación y Calidad en las Administraciones Locales y en las Aduanas.
+Administrador de Niveles de Servicio y Eficiencia Operativa.
+
+Administrador de Servicios del Distrito Federal.
+
+Administrador de Servicios de Monterrey.
+
+Administrador de Servicios de Guadalajara.
+
+Administrador de Servicios de Tijuana.
+
+Administrador de Servicios Norte.
+
+Administrador de Servicios Centro.
+
+Administrador de Servicios Sur.
+
+Subadministradores de los Centros de Servicios Administrativos.
 
 La Administración General de Innovación y Calidad también contará con el personal que se requiera para satisfacer las necesidades del servicio.
 
@@ -2705,37 +2853,71 @@ Compete a las siguientes unidades administrativas de la Administración General 
 
 A. Administración Central de Recursos Financieros:
 
-I.- Las establecidas en las fracciones II, V, VII, XIV, XV, XVIII, XIX, XX, XXIII y XXIV del artículo 9 de este Reglamento.
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
 
-II.- Las señaladas en las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X y XI del artículo anterior de este Reglamento.
+I.- Las establecidas en las fracciones II, V, VII, XIV, XV, XVIII, XIX, XX y XXIV del artículo 9 de este Reglamento.
 
-B. Administración Central de Recursos Humanos:
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
+
+II.- Las señaladas en las fracciones I, II, III, V, VI, VII, VIII, IX, XI y LI del artículo anterior de este Reglamento.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE MAYO DE 2006)</small>
+
+B. Administración Central de Capital Humano:
 
 I.- Las establecidas en las fracciones II, III, V, VII, XIV, XV, XVIII, XXI, XXIV y XXV del artículo 9 de este Reglamento.
 
-II.- Las señaladas en las fracciones III, IV, V, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXXV y XLIX del artículo anterior de este Reglamento.
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
 
-C. Administración Central de Recursos Materiales y Servicios Generales:
+II.- Las señaladas en las fracciones III, IV, V, XII, XIV, XV, XVI, XVII, XVIII, XIX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXIII, XXXIX, XL, LI y LVI del artículo anterior de este Reglamento.
 
-I.- Las establecidas en las fracciones II, V, VII, XIV, XV, XVIII, XXII y XXV del artículo 9 de este Reglamento.
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 2006)</small>
 
-II.- Las señaladas en las fracciones III, V, XVIII, XXIX, XXX, XXXI, XXXII, XXXIII y XLVIII del artículo anterior de este Reglamento.
+C. Administración Central de Recursos Materiales:
+
+I.- Las establecidas en las fracciones II, V, VII, XIV, XV, XVIII y XXV del artículo 9 de este Reglamento.
+
+II.- Las señaladas en las fracciones III, V, XXXIV, XXXV, XXXVI, XXXVII, XXXVIII, LI, LII, LIII y LV del artículo anterior de este Reglamento.
 
 D. Administración Central de Apoyo Jurídico:
 
 I.- Las establecidas en las fracciones II, V, VII, XIV, XV y XVIII del artículo 9 de este Reglamento.
 
-II.- Las señaladas en las fracciones XII, XXX, XXXIV, XXXV, XXXVI, XXXVII, XXXVIII, XXXIX y XL del artículo anterior de este Reglamento.
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
+
+II.- Las señaladas en las fracciones X, XII, XIV, XV, XXVI, XXXV, XXXIX, XL, XLI, XLII, XLIII, XLIV, XLV y LI del artículo anterior de este Reglamento.
 
 E. Administración Central de Capacitación Fiscal:
 
 I.- Las establecidas en las fracciones II, V, VII, XIV, XV y XVIII del artículo 9 de este Reglamento.
 
-II.- Las señaladas en las fracciones III, IV, V, XVII, XXII, XXVII, XLI, XLII, XLIII y XLIV del artículo anterior de este Reglamento.
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
 
-F. La Coordinación de las Subadministraciones de Innovación y Calidad en las Administraciones Locales y en las Aduanas ejercerá la facultad que establece la fracción XLVI del artículo anterior de este Reglamento.
+II.- Las señaladas en las fracciones III, V, XIX, XXIV, XXX, XXXIII, XLVII, XLVIII y LI del artículo anterior de este Reglamento.
 
-G. Las Subadministraciones de Innovación y Calidad auxiliarán a las Administraciones Locales y a las Aduanas en términos de lo dispuesto por el artículo 38 de este Reglamento.
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 2006)</small>
+
+F. Administración Central de Operaciones Administrativas:
+
+I.- Las establecidas en las fracciones II, III, V, VII, XIV, XV, XVIII XXIII y XXIV del artículo 9 de este Reglamento.
+
+II.- Las señaladas en las fracciones III, V, VI, VII, IX, XIII, XX, XXI, XXII, XXIII, XXV, XXVII, XXXV, XXXVII, XXXVIII, XXXIX, XL, XLII, XLIII, LII, LIII y LIV del artículo anterior de este Reglamento.
+
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 2006)</small>
+
+G. Las Administraciones de Servicios y Subadministraciones de los Centros de Servicios Administrativos:
+
+I.- Las establecidas en las fracciones II, III, V, VII, XIV, XV, XVIII, XXIII y XXIV del artículo 9 de este Reglamento.
+
+II.- Las señaladas en las fracciones III, V, VI, VII, IX, XIII, XX, XXI, XXII, XXIII, XXV, XXVII, XXXV, XXXVII, XXXVIII, XXXIX, XL, XLII, XLIII, LII, LIII y LIV del artículo anterior de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 12 DE MAYO DE 2006)</small>
+
+H. Administración de Planeación y Proyectos:
+
+I.- Las establecidas en las fracciones II, III, V, XIV y XV del artículo 9 de este Reglamento.
+
+II.- Las señaladas en las fracciones II, III, V, VIII, XVIII, XXXII y XLIX del artículo anterior de este Reglamento.
 
 ### Capítulo IX. De la Administración General de Comunicaciones y Tecnologías de Información
 
@@ -2841,7 +3023,9 @@ Compete a las siguientes unidades administrativas de la Administración General 
 
 A. Administrador Central de Programación Informática:
 
-I.- Las establecidas en las fracciones I, III, IV, V, VII, VIII, XII, XV, XVIII, XX, XXI, XXII, XXIV y XXVII del artículo 9 de este Reglamento.
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2006)</small>
+
+I.- Las establecidas en las fracciones I, III, IV, V, VII, VIII, XII, XV, XVIII, XX, XXI, XXIV y XXVII del artículo 9 de este Reglamento.
 
 II.- Las señaladas en las fracciones I, II, V, XIII, XV, XVI, XX, XXI, XXII, XXIII, XXIV, XXIX y XXXI del artículo anterior de este Reglamento.
 
@@ -3087,353 +3271,283 @@ El titular de la Unidad de Programas Especiales será auxiliado en el ejercicio 
 
 ### Capítulo XIII. Del Nombre y Sede de las Unidades Administrativas Regionales
 
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 2006)</small>
+
 ###### Artículo 37.
 
-El nombre y sede de las unidades administrativas regionales es el que a continuación se señala. Cada una de ellas tendrá la circunscripción territorial que se determine mediante acuerdo del Jefe del Servicio de Administración Tributaria.
+El nombre y sede de las unidades administrativas regionales será el que le corresponda conforme a las fracciones de los apartados que a continuación se señalan. Cada una de ellas tendrá la circunscripción territorial que se determine mediante acuerdo del Jefe del Servicio de Administración Tributaria.
 
-A. Administraciones Locales de Asistencia al Contribuyente, Jurídicas, de Recaudación y de Auditoría Fiscal:
+A.Administraciones Locales de Asistencia al Contribuyente, Jurídicas, de Recaudación y de Auditoría Fiscal:
 
-En el Estado de Aguascalientes:
+I.- De Aguascalientes, con sede en Aguascalientes, Aguascalientes.
 
-- De Aguascalientes, con sede en Aguascalientes.
+II.- De Ensenada, con sede en Ensenada, Baja California.
 
-En el Estado de Baja California:
+III.- De Mexicali, con sede en Mexicali, Baja California.
 
-- De Ensenada, con sede en Ensenada.
+IV.- De Tijuana, con sede en Tijuana, Baja California.
 
-- De Mexicali, con sede en Mexicali.
+V.- De La Paz, con sede en La Paz, Baja California Sur.
 
-- De Tijuana, con sede en Tijuana.
+VI.- De Campeche, con sede en Campeche, Campeche.
 
-En el Estado de Baja California Sur:
+VII.- De Piedras Negras, con sede en Piedras Negras, Coahuila.
 
-- De La Paz, con sede en La Paz.
+VIII.- De Saltillo, con sede en Saltillo, Coahuila.
 
-En el Estado de Campeche:
+IX.- De Torreón, con sede en Torreón, Coahuila.
 
-- De Campeche, con sede en Campeche.
+X.- De Colima, con sede en Colima, Colima.
 
-En el Estado de Coahuila:
+XI.- De Tapachula, con sede en Tapachula, Chiapas.
 
-- De Piedras Negras, con sede en Piedras Negras.
+XII.- De Tuxtla Gutiérrez, con sede en Tuxtla Gutiérrez, Chiapas.
 
-- De Saltillo, con sede en Saltillo.
+XIII.- De Ciudad Juárez, con sede en Ciudad Juárez, Chihuahua.
 
-- De Torreón, con sede en Torreón.
+XIV.- De Chihuahua, con sede en Chihuahua, Chihuahua.
 
-En el Estado de Colima:
+XV.- De Durango, con sede en Victoria de Durango, Durango.
 
-- De Colima, con sede en Colima.
+XVI.- De Celaya, con sede en Celaya, Guanajuato.
 
-En el Estado de Chiapas:
+XVII.- De Irapuato, con sede en Irapuato, Guanajuato.
 
-- De Tapachula, con sede en Tapachula.
+XVIII.- De León, con sede en León, Guanajuato.
 
-- De Tuxtla Gutiérrez, con sede en Tuxtla Gutiérrez.
+XIX.- De Acapulco, con sede en Acapulco de Juárez, Guerrero.
 
-En el Estado de Chihuahua:
+XX.- De Iguala, con sede en Iguala de la Independencia, Guerrero.
 
-- De Ciudad Juárez, con sede en Ciudad Juárez.
+XXI.- De Pachuca, con sede en Pachuca, Hidalgo.
 
-- De Chihuahua, con sede en Chihuahua.
+XXII.- De Ciudad Guzmán, con sede en Ciudad Guzmán, Jalisco.
 
-En el Estado de Durango:
+XXIII.- De Guadalajara, con sede en Guadalajara, Jalisco.
 
-- De Durango, con sede en Victoria de Durango.
+XXIV.- De Guadalajara Sur, con sede en Guadalajara, Jalisco.
 
-En el Estado de Guanajuato:
+XXV.- De Puerto Vallarta, con sede en Puerto Vallarta, Jalisco.
 
-- De Celaya, con sede en Celaya.
+XXVI.- De Zapopan, con sede en Zapopan, Jalisco.
 
-- De Irapuato, con sede en Irapuato.
+XXVII.- De Naucalpan, con sede en cualquiera de los siguientes municipios: de Naucalpan de Juárez o Tlalnepantla de Baz, Estado de México.
 
-- De León, con sede en León.
+XXVIII.- De Toluca, con sede en Metepec, Estado de México.
 
-En el Estado de Guerrero:
+XXIX.- De Morelia, con sede en Morelia, Michoacán.
 
-- De Acapulco, con sede en Acapulco de Juárez.
+XXX.- De Uruapan, con sede en Uruapan, Michoacán.
 
-- De Iguala, con sede en Iguala de la Independencia.
+XXXI.- De Cuernavaca, con sede en Cuernavaca, Morelos.
 
-En el Estado de Hidalgo:
+XXXII.- De Tepic, con sede en Tepic, Nayarit.
 
-- De Pachuca, con sede en Pachuca.
+XXXIII.- De Guadalupe, con sede en Ciudad Guadalupe, Nuevo León.
 
-En el Estado de Jalisco:
+XXXIV.- De Monterrey, con sede en Monterrey, Nuevo León.
 
-- De Ciudad Guzmán, con sede en Ciudad Guzmán.
+XXXV.- De San Pedro Garza García, con sede en San Pedro Garza García, Nuevo León.
 
-- De Guadalajara, con sede en Guadalajara.
+XXXVI.- De Oaxaca, con sede en Oaxaca de Juárez, Oaxaca.
 
-- De Guadalajara Sur, con sede en Guadalajara.
+XXXVII.-De Puebla Norte, con sede en Heroica Puebla de Zaragoza, Puebla.
 
-- De Puerto Vallarta, con sede en Puerto Vallarta.
+XXXVIII.- De Puebla Sur, con sede en Heroica Puebla de Zaragoza, Puebla.
 
-- De Zapopan, con sede en Zapopan.
+XXXIX.- De Querétaro, con sede en Santiago de Querétaro, Querétaro.
 
-En el Estado de México:
+XL.- De Cancún, con sede en Cancún, Quintana Roo.
 
-- De Naucalpan, con sede en cualquiera de los siguientes municipios, de Naucalpan de Juárez o Tlalnepantla de Baz.
+XLI.- De Chetumal, con sede en Chetumal, Quintana Roo.
 
-- De Toluca, con sede en Metepec.
+XLII.- De San Luis Potosí, con sede en San Luis Potosí, San Luis Potosí.
 
-En el Estado de Michoacán:
+XLIII.- De Culiacán, con sede en Culiacán Rosales, Sinaloa.
 
-- De Morelia, con sede en Morelia.
+XLIV.- De Los Mochis, con sede en Los Mochis, Sinaloa.
 
-- De Uruapan, con sede en Uruapan.
+XLV.- De Mazatlán, con sede en Mazatlán, Sinaloa.
 
-En el Estado de Morelos:
+XLVI.- De Ciudad Obregón, con sede en Ciudad Obregón, Sonora.
 
-- De Cuernavaca, con sede en Cuernavaca.
+XLVII.- De Hermosillo, con sede en Hermosillo, Sonora.
 
-En el Estado de Nayarit:
+XLVIII.- De Nogales, con sede en Nogales, Sonora.
 
-- De Tepic, con sede en Tepic.
+XLIX.- De Villahermosa, con sede en Villahermosa, Tabasco.
 
-En el Estado de Nuevo León:
+L.- De Ciudad Victoria, con sede en Ciudad Victoria, Tamaulipas.
 
-- De Guadalupe, con sede en Ciudad Guadalupe.
+LI.- De Matamoros, con sede en Matamoros, Tamaulipas.
 
-- De Monterrey, con sede en Monterrey.
+LII.- De Nuevo Laredo, con sede en Nuevo Laredo, Tamaulipas.
 
-- De San Pedro Garza García, con sede en San Pedro Garza García.
+LIII.- De Reynosa, con sede en Reynosa, Tamaulipas.
 
-En el Estado de Oaxaca:
+LIV.- De Tampico, con sede en Tampico, Tamaulipas.
 
-- De Oaxaca, con sede en Oaxaca de Juárez.
+LV.- De Tlaxcala, con sede en Tlaxcala de Xicohténcatl, Tlaxcala.
 
-En el Estado de Puebla:
+LVI.- De Coatzacoalcos, con sede en Coatzacoalcos, Veracruz.
 
-- De Puebla Norte, con sede en Heroica Puebla de Zaragoza.
+LVII.- De Córdoba, con sede en Córdoba, Veracruz.
 
-- De Puebla Sur, con sede en Heroica Puebla de Zaragoza.
+LVIII.- De Tuxpan, con sede en Tuxpan de Rodríguez Cano, Veracruz.
 
-En el Estado de Querétaro:
+LIX.- De Veracruz, con sede en Veracruz, Veracruz.
 
-- De Querétaro, con sede en Santiago de Querétaro.
+LX.- De Xalapa, con sede en Xalapa, Veracruz.
 
-En el Estado de Quintana Roo:
+LXI.- De Mérida, con sede en Mérida, Yucatán.
 
-- De Cancún, con sede en Cancún.
+LXII.- De Zacatecas, con sede en Zacatecas, Zacatecas.
 
-- De Chetumal, con sede en Chetumal.
+LXIII.- Del Centro del Distrito Federal, con sede en el Distrito Federal.
 
-En el Estado de San Luis Potosí:
+LXIV.- Del Norte del Distrito Federal, con sede en el Distrito Federal.
 
-- De San Luis Potosí, con sede en San Luis Potosí.
+LXV.- Del Oriente del Distrito Federal, con sede en el Distrito Federal.
 
-En el Estado de Sinaloa:
+LXVI.- Del Sur del Distrito Federal, con sede en el Distrito Federal.
 
-- De Culiacán, con sede en Culiacán Rosales.
-
-- De Los Mochis, con sede en Los Mochis.
-
-- De Mazatlán, con sede en Mazatlán.
-
-En el Estado de Sonora:
-
-- De Ciudad Obregón, con sede en Ciudad Obregón.
-
-- De Hermosillo, con sede en Hermosillo.
-
-- De Nogales, con sede en Nogales.
-
-En el Estado de Tabasco:
-
-- De Villahermosa, con sede en Villahermosa.
-
-En el Estado de Tamaulipas:
-
-- De Ciudad Victoria, con sede en Ciudad Victoria.
-
-- De Matamoros, con sede en Matamoros.
-
-- De Nuevo Laredo, con sede en Nuevo Laredo.
-
-- De Reynosa, con sede en Reynosa.
-
-- De Tampico, con sede en Tampico.
-
-En el Estado de Tlaxcala:
-
-- De Tlaxcala, con sede en Tlaxcala de Xicohténcatl.
-
-En el Estado de Veracruz:
-
-- De Coatzacoalcos, con sede en Coatzacoalcos.
-
-- De Córdoba, con sede en Córdoba.
-
-- De Tuxpan, con sede en Tuxpan de Rodríguez Cano.
-
-- De Veracruz, con sede en Veracruz.
-
-- De Xalapa, con sede en Xalapa.
-
-En el Estado de Yucatán:
-
-- De Mérida, con sede en Mérida.
-
-En el Estado de Zacatecas:
-
-- De Zacatecas, con sede en Zacatecas.
-
-En el Distrito Federal:
-
-- Del Centro del Distrito Federal, con sede en el Distrito Federal.
-
-- Del Norte del Distrito Federal, con sede en el Distrito Federal.
-
-- Del Oriente del Distrito Federal, con sede en el Distrito Federal.
-
-- Del Sur del Distrito Federal, con sede en el Distrito Federal.
-
-Fuera de la sede de la Administración Local podrán establecerse Subadministraciones de Recaudación, de Auditoría Fiscal, Jurídicas y de Asistencia al Contribuyente, mediante acuerdo del Jefe del Servicio de Administración Tributaria, en el que se determinará la Subadministración de que se trate y su circunscripción territorial. La Administración Local de la sede conservará la competencia sobre los contribuyentes cuyo domicilio fiscal se encuentre dentro de la circunscripción territorial que señale el respectivo acuerdo.
+Fuera de la sedes de las administraciones locales a que se refieren las fracciones anteriores, podrán establecerse Subadministraciones de Recaudación, de Auditoría Fiscal, Jurídicas y de Asistencia al Contribuyente, mediante acuerdo del Jefe del Servicio de Administración Tributaria, en el que se determinará la Subadministración de que se trate y su circunscripción territorial. La Administración Local de la sede conservará la competencia sobre los contribuyentes cuyo domicilio fiscal se encuentre dentro de la circunscripción territorial que señale el respectivo acuerdo.
 
 B. Administraciones Regionales de Grandes Contribuyentes:
 
-- De la Zona Sur, con sede en Veracruz, Veracruz.
+I.- De la Zona Sur, con sede en Veracruz, Veracruz.
 
-- De la Zona Centro, con sede en Guadalajara, Jalisco.
+II.- De la Zona Centro, con sede en Guadalajara, Jalisco.
 
-- De la Zona Norte, con sede en Ciudad Guadalupe, Nuevo León.
+III.- De la Zona Norte, con sede en Ciudad Guadalupe, Nuevo León.
 
-- De la Zona Noroeste, con sede en Hermosillo, Sonora.
+IV.- De la Zona Noroeste, con sede en Hermosillo, Sonora.
 
-Fuera de la sede de la Administración Regional podrán establecerse Subadministraciones de Grandes Contribuyentes, mediante acuerdo del Jefe del Servicio de Administración Tributaria, en el que se determinará la Subadministración de que se trate y su circunscripción territorial. La Administración Regional de la sede conservará la competencia sobre los contribuyentes cuyo domicilio fiscal se encuentre dentro de la circunscripción territorial que señale el respectivo acuerdo.
+Fuera de la sede de las administraciones regionales a que se refieren las fracciones anteriores, podrán establecerse Subadministraciones de Grandes Contribuyentes, mediante acuerdo del Jefe del Servicio de Administración Tributaria, en el que se determinará la Subadministración de que se trate y su circunscripción territorial. La Administración Regional de la sede conservará la competencia sobre los contribuyentes cuyo domicilio fiscal se encuentre dentro de la circunscripción territorial que señale el respectivo acuerdo.
 
 C. Aduanas:
 
-- Aduana de Agua Prieta, con sede en Agua Prieta, Sonora.
+I.- Aduana de Aguascalientes, con sede en Aguascalientes, Aguascalientes.
 
-- Aduana de Ensenada, con sede en Ensenada, Baja California.
+II.- Aduana de Ensenada, con sede en Ensenada, Baja California.
 
-- Aduana de Guaymas, con sede en Guaymas, Sonora.
+III.- Aduana de Mexicali, con sede en Mexicali, Baja California.
 
-- Aduana de La Paz, con sede en La Paz, Baja California Sur.
+IV.- Aduana de Tecate, con sede en Tecate, Baja California.
 
-- Aduana de Mazatlán, con sede en Mazatlán, Sinaloa.
+V.- Aduana de Tijuana, con sede en Tijuana, Baja California.
 
-- Aduana de Mexicali, con sede en Mexicali, Baja California.
+VI.- Aduana de La Paz, con sede en La Paz, Baja California Sur.
 
-- Aduana de Naco, con sede en Naco, Sonora.
+VII.- Aduana de Ciudad del Carmen, con sede en Ciudad del Carmen, Campeche.
 
-- Aduana de Nogales, con sede en Nogales, Sonora.
+VIII.- Aduana de Ciudad Acuña, con sede en Ciudad Acuña, Coahuila.
 
-- Aduana de San Luis Río Colorado, con sede en San Luis Río Colorado, Sonora.
+IX.- Aduana de Piedras Negras, con sede en Piedras Negras, Coahuila.
 
-- Aduana de Sonoyta, con sede en Sonoyta, Sonora.
+X.- Aduana de Torreón, con sede en Torreón, Coahuila.
 
-- Aduana de Tecate, con sede en Tecate, Baja California.
+XI.- Aduana de Manzanillo, con sede en Manzanillo, Colima.
 
-- Aduana de Tijuana, con sede en Tijuana, Baja California.
+XII.- Aduana de Ciudad Hidalgo, con sede en Ciudad Hidalgo, Chiapas.
 
-- Aduana de Ciudad Acuña, con sede en Ciudad Acuña, Coahuila.
+XIII.- Aduana de Ciudad Juárez, con sede en Ciudad Juárez, Chihuahua.
 
-- Aduana de Chihuahua, con sede en Chihuahua, Chihuahua.
+XIV.- Aduana de Chihuahua, con sede en Chihuahua, Chihuahua.
 
-- Aduana de Puerto Palomas, con sede en Puerto Palomas, Chihuahua.
+XV.- Aduana de Ojinaga, con sede en Ojinaga, Chihuahua.
 
-- Aduana de Ciudad Juárez, con sede en Ciudad Juárez, Chihuahua.
+XVI.- Aduana de Puerto Palomas, con sede en Puerto Palomas, Chihuahua.
 
-- Aduana de Ojinaga, con sede en Ojinaga, Chihuahua.
+XVII.- Aduana del Aeropuerto Internacional de la Ciudad de México, con sede en el Aeropuerto Internacional de la Ciudad de México.
 
-- Aduana de Piedras Negras, con sede en Piedras Negras, Coahuila.
+XVIII.- Aduana de México, con sede en México, Distrito Federal.
 
-- Aduana de Torreón, con sede en Torreón, Coahuila.
+XIX.- Aduana de Acapulco, con sede en Acapulco de Juárez, Guerrero.
 
-- Aduana de Colombia, con sede en Colombia, Nuevo León.
+XX.- Aduana de Guadalajara, con sede en Tlajomulco de Zúñiga, Jalisco.
 
-- Aduana de Monterrey, con sede en General Mariano Escobedo, Nuevo León.
+XXI.- Aduana de Toluca, con sede en Toluca, Estado de México.
 
-- Aduana de Matamoros, con sede en Matamoros, Tamaulipas.
+XXII.- Aduana de Lázaro Cárdenas, con sede en Lázaro Cárdenas, Michoacán.
 
-- Aduana de Ciudad Miguel Alemán, con sede en Ciudad Miguel Alemán, Tamaulipas.
+XXIII.- Aduana de Colombia, con sede en Colombia, Nuevo León.
 
-- Aduana de Nuevo Laredo, con sede en Nuevo Laredo, Tamaulipas.
+XXIV.- Aduana de Monterrey, con sede en General Mariano Escobedo, Nuevo León.
 
-- Aduana de Ciudad Reynosa, con sede en Ciudad Reynosa, Tamaulipas.
+XXV.- Aduana de Salina Cruz, con sede en Salina Cruz, Oaxaca.
 
-- Aduana de Tampico, con sede en Tampico, Tamaulipas.
+XXVI.- Aduana de Puebla, con sede en Heroica Puebla de Zaragoza, Puebla.
 
-- Aduana de Tuxpan, con sede en Tuxpan de Rodríguez Cano, Veracruz.
+XXVII.-Aduana de Guanajuato, con sede en Silao, Guanajuato.
 
-- Aduana de Aguascalientes, con sede en Aguascalientes, Aguascalientes.
+XXVIII.- Aduana de Querétaro, con sede en Santiago de Querétaro, Querétaro.
 
-- Aduana de Guadalajara, con sede en Tlajomulco de Zúñiga, Jalisco.
+XXIX.- Aduana de Cancún, con sede en Cancún, Quintana Roo.
 
-- Aduana de Manzanillo, con sede en Manzanillo, Colima.
+XXX.- Aduana de Subteniente López, con sede en Subteniente López, Quintana Roo.
 
-- Aduana de Lázaro Cárdenas, con sede en Lázaro Cárdenas, Michoacán.
+XXXI.- Aduana de Mazatlán, con sede en Mazatlán, Sinaloa.
 
-- Aduana de Querétaro, con sede en Santiago de Querétaro, Querétaro.
+XXXII.- Aduana de Agua Prieta, con sede en Agua Prieta, Sonora.
 
-- Aduana de Toluca, con sede en Toluca, Estado de México.
+XXXIII.- Aduana de Guaymas, con sede en Guaymas, Sonora.
 
-- Aduana de Acapulco, con sede en Acapulco de Juárez, Guerrero.
+XXXIV.- Aduana de Naco, con sede en Naco, Sonora.
 
-- Aduana de Coatzacoalcos, con sede en Coatzacoalcos, Veracruz.
+XXXV.- Aduana de Nogales, con sede en Nogales, Sonora.
 
-- Aduana de Puebla, con sede en Heroica Puebla de Zaragoza, Puebla.
+XXXVI.- Aduana de San Luis Río Colorado, con sede en San Luis Río Colorado, Sonora.
 
-- Aduana de Veracruz, con sede en Veracruz, Veracruz.
+XXXVII.- Aduana de Sonoyta, con sede en Sonoyta, Sonora.
 
-- Aduana de Cancún, con sede en Cancún, Quintana Roo.
+XXXVIII.- Aduana de Dos Bocas, con sede en Paraíso, Tabasco.
 
-- Aduana de Ciudad del Carmen, con sede en Ciudad del Carmen, Campeche.
+XXXIX.- Aduana de Altamira, con sede en Altamira, Tamaulipas.
 
-- Aduana de Ciudad Hidalgo, con sede en Ciudad Hidalgo, Chiapas.
+XL.- Aduana de Ciudad Camargo, con sede en Ciudad Camargo, Tamaulipas.
 
-- Aduana de Progreso, con sede en Progreso, Yucatán.
+XLI.- Aduana de Ciudad Miguel Alemán, con sede en Ciudad Miguel Alemán, Tamaulipas.
 
-- Aduana de Subteniente López, con sede en Subteniente López, Quintana Roo.
+XLII.- Aduana de Ciudad Reynosa, con sede en Ciudad Reynosa, Tamaulipas.
 
-- Aduana de Salina Cruz, con sede en Salina Cruz, Oaxaca.
+XLIII.- Aduana de Matamoros, con sede en Matamoros, Tamaulipas.
 
-- Aduana del Aeropuerto Internacional de la Ciudad de México, con sede en el Aeropuerto Internacional de la Ciudad de México.
+XLIV.- Aduana de Nuevo Laredo, con sede en Nuevo Laredo, Tamaulipas.
 
-- Aduana de México, con sede en México, Distrito Federal.
+XLV.- Aduana de Tampico, con sede en Tampico, Tamaulipas.
 
-- Aduana de Altamira, con sede en Altamira, Tamaulipas.
+XLVI.- Aduana de Tuxpan, con sede en Tuxpan de Rodríguez Cano, Veracruz.
 
-- Aduana de Ciudad Camargo, con sede en Ciudad Camargo, Tamaulipas.
+XLVII.- Aduana de Veracruz, con sede en Veracruz, Veracruz.
 
-- Aduana de Dos Bocas, con sede en Paraíso, Tabasco.
+XLVIII.- Aduana de Coatzacoalcos, con sede en Coatzacoalcos, Veracruz.
 
-El Jefe del Servicio de Administración Tributaria establecerá o suprimirá las secciones aduaneras correspondientes. Las unidades administrativas citadas podrán estar en el municipio que corresponda a la ciudad que identifique la Aduana, en cualquiera de los municipios colindantes, así como en el Aeropuerto Internacional o en el puerto que corresponda a esa ciudad. Tratándose de la Ciudad de México, las Aduanas podrán estar ubicadas en el Distrito Federal o en cualquiera de los municipios que forman su área conurbada.
+XLIX.- Aduana de Progreso, con sede en Progreso, Yucatán.
+
+El Jefe del Servicio de Administración Tributaria establecerá o suprimirá las secciones aduaneras correspondientes. Las unidades administrativas citadas en las fracciones que anteceden, podrán estar en el municipio que corresponda a la ciudad que identifique la Aduana, en cualquiera de los municipios colindantes, así como en el Aeropuerto Internacional o en el puerto que corresponda a esa ciudad. Tratándose de la Ciudad de México, las Aduanas podrán estar ubicadas en el Distrito Federal o en cualquiera de los municipios que forman su área conurbada.
 
 D. Administraciones Regionales de Evaluación:
 
-- Del Noreste, con sede en Ciudad Guadalupe, Nuevo León.
+I.- Del Noreste, con sede en Ciudad Guadalupe, Nuevo León.
 
-- Del Noroeste, con sede en Hermosillo, Sonora.
+II.- Del Noroeste, con sede en Hermosillo, Sonora.
 
-- Del Norte Centro, con sede en Torreón, Coahuila.
+III.- Del Norte Centro, con sede en Torreón, Coahuila.
 
-- Del Centro, con sede en Santiago de Querétaro, Querétaro.
+IV.- Del Centro, con sede en Santiago de Querétaro, Querétaro.
 
-- Del Occidente, con sede en Zapopan, Jalisco.
+V.- Del Occidente, con sede en Zapopan, Jalisco.
 
-- Del Pacífico Centro, con sede en Heroica Puebla de Zaragoza, Puebla.
+VI.- Del Pacífico Centro, con sede en Heroica Puebla de Zaragoza, Puebla.
 
-- Del Sur, con sede en Veracruz, Veracruz.
+VII.- Del Sur, con sede en Veracruz, Veracruz.
 
-- Del Sureste, con sede en Mérida, Yucatán.
+VIII.- Del Sureste, con sede en Mérida, Yucatán.
 
 ###### Artículo 38.
 
-En cada circunscripción territorial el Administrador Local de Asistencia al Contribuyente, de Recaudación, de Auditoría Fiscal o Jurídico, que designe el Jefe del Servicio de Administración Tributaria ejercerá, respecto de las Administraciones Locales de la circunscripción territorial que corresponda, así como de las Aduanas que determine el Jefe del Servicio de Administración Tributaria, las facultades que a continuación se precisan:
-
-I.- Las establecidas en las fracciones II, V, VII, VIII, XIV, XV y XVIII del artículo 9 de este Reglamento.
-
-II.- Las conferidas en las fracciones XV, XX, XXI, XXXII, XXXIII, XXXIV, XXXIX y XL del artículo 28 de este Reglamento.
-
-III.- Aplicar las facultades señaladas en las fracciones I, XVII, XXIX, XXX, XXXI, XLVI y XLIX del artículo 28 de este Reglamento.
-
-IV.- Aplicar los programas de capacitación que expidan las unidades administrativas competentes.
-
-El Administrador Local designado en los términos del presente artículo, será auxiliado en el ejercicio de las facultades a que se refieren las fracciones anteriores por el Subadministrador de Innovación y Calidad, así como por el personal que se requiera para satisfacer las necesidades del servicio.
+(DEROGADO, D.O.F. 12 DE MAYO DE 2006)
 
 ###### Artículo 39.
 
@@ -3490,3 +3604,15 @@ VIII. Para los efectos de lo dispuesto en las fracciones LXXIX del apartado A y 
 IX. En tanto se expidan los acuerdos y demás disposiciones administrativas que deriven del Reglamento a que se refiere el artículo primero de este Decreto, continuarán siendo aplicables, en lo conducente, los acuerdos expedidos con anterioridad a la entrada en vigor del citado Reglamento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de mayo de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 12 DE MAYO DE 2006.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga el Acuerdo por el que se delegan las facultades que se indican en favor de diversos servidores públicos del Servicio de Administración Tributaria, publicado en el Diario Oficial de la Federación el 29 de junio de 2005.
+
+Tercero. Las referencias que se hagan y las atribuciones que se otorgan a la Administración Central de Recursos Humanos y a la Administración Central de Recursos Materiales y Servicios Generales en leyes, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones, se entenderán hechas a la Administración Central de Capital Humano y a la Administración Central de Recursos Materiales, respectivamente.
+
+Cuarto. La Aduana de Guanajuato iniciará sus actividades una vez que entre en vigor el Acuerdo por el que se establezca su circunscripción territorial.
