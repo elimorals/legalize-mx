@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-5-2000-del-pleno-del-consejo-de-la-50060
 country: "mx"
 rank: "acuerdo"
 publication_date: "2000-02-16"
-last_updated: "2006-05-04"
+last_updated: "2006-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50060&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-02-08"
 
 ACUERDO GENERAL NUMERO 5/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE DETERMINA LA ADSCRIPCION DE DIVERSAS UNIDADES ADMINISTRATIVAS A LA PRESIDENCIA DEL MISMO, Y ACTUALIZA LAS ATRIBUCIONES DEL SECRETARIADO EJECUTIVO, CON LAS DIRECCIONES GENERALES QUE LES CORRESPONDEN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE MAYO DE 2006.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 16 de febrero de 2000.
 
@@ -311,17 +311,17 @@ XXXIII. Coordinar las acciones que sean necesarias, dentro del ámbito de la com
 
 XXXIV. Evaluar el funcionamiento del órgano creado, a fin de verificar si cumple con las expectativas consideradas para su creación;
 
-XXXV. Supervisar el funcionamiento de la Unidad de Estadística del Poder Judicial de la Federación y dar cuenta con ello a la Comisión de Creación de Nuevos Organos;
+XXXV. (DEROGADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 28/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MAYO DE 2006)
 
 XXXVI. Elaborar y presentar informes con la periodicidad que le sean requeridos por el Pleno y las Comisiones de Carrera Judicial, Adscripción y Creación de Nuevos Organos;
 
-XXXVII. Recibir y capturar los datos estadísticos de cada órgano jurisdiccional relativos al movimiento de asuntos de los que les corresponde conocer;
+XXXVII. (DEROGADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 28/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MAYO DE 2006)
 
-XXXVIII. Formular el reporte estadístico integrado;
+XXXVIII. (DEROGADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 28/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MAYO DE 2006)
 
-XXXIX. Remitir el reporte estadístico autorizado a las áreas que así lo requieran;
+XXXIX. (DEROGADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 28/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MAYO DE 2006)
 
-XL. Diseñar y elaborar reportes que integren la información procesada, en forma tal que permitan canalizar la atención de los usuarios hacia puntos específicos de interés, y (sic)
+XL. (DEROGADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 28/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MAYO DE 2006)
 
 > <small>(ADICIONADA POR EL PUNTO CUARTO DEL ACUERDO GENERAL 56/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2004)</small>
 
@@ -1449,11 +1449,13 @@ XII.- Informar a la Secretaría Ejecutiva de Vigilancia, Información y Evaluaci
 
 XIII.- Las demás que expresamente le confieran las disposiciones legales, reglamentarias o normativas correspondientes o que le asigne el Pleno del Consejo de la Judicatura Federal, la Comisión de Vigilancia, Información y Evaluación o la Secretaría Ejecutiva de Vigilancia, Información y Evaluación.
 
-> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 25/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE MAYO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 28/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MAYO DE 2006)</small>
 
 ###### Artículo 36.
 
-La Dirección General de Asuntos Jurídicos y la Dirección General de Comunicación Social dependerán directamente del Pleno del Consejo de la Judicatura Federal, a través de la Comisión de Administración y de la de Vigilancia, Información y Evaluación, respectivamente.
+La Dirección General de Asuntos Jurídicos, la Dirección General de Comunicación Social y la Dirección General de Estadística y Planeación Judicial dependerán directamente del Pleno del Consejo de la Judicatura Federal, a través de la Comisión de Administración, la primera; de la Comisión de Vigilancia, Información y Evaluación, la segunda; y de las Comisiones de Administración y de Carrera Judicial, la tercera, de conformidad con las competencias y facultades de cada una.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 25/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE MAYO DE 2004)</small>
 
 Los titulares de las referidas direcciones generales serán nombrados por mayoría calificada de cinco votos de los consejeros, a propuesta que haga el presidente.
 
@@ -1548,6 +1550,64 @@ IX. Formular y proponer a la Comisión de Administración a través de la Secret
 X. Elaborar y presentar su programa anual de trabajo, de actividades y los reportes de evaluación administrativa, con la periodicidad que le sean requeridos; y,
 
 XI. Las demás que le atribuya expresamente el Pleno o la Comisión de Vigilancia, Información y Evaluación del Consejo de la Judicatura Federal.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 28/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MAYO DE 2006)</small>
+
+###### Artículo 41.
+
+La Dirección General de Estadística y Planeación Judicial será la encargada de proveer a las distintas áreas del Consejo respecto de la información estadística relevante, oportuna y confiable que generan los tribunales de Circuito y juzgados de Distrito con motivo de su actividad jurisdiccional, así como de elaborar los estudios y proyectos de carácter técnico vinculados con la planeación judicial.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 28/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MAYO DE 2006)</small>
+
+###### Artículo 42.
+
+La Dirección General de Estadística y Planeación Judicial tendrá las siguientes atribuciones:
+
+I. Captar, validar, sistematizar, analizar e interpretar la información estadística que con motivo de sus actividades generan los tribunales de Circuito, juzgados de Distrito y oficinas de correspondencia común a éstos;
+
+II. Efectuar investigaciones econométricas considerando elementos socio-estadísticos que coadyuven a la evaluación de la actividad jurisdiccional y apoyen la identificación y desarrollo de diversos indicadores estadísticos, según lo requieran las distintas áreas del Consejo;
+
+III. Proporcionar información estadística y realizar los estudios específicos que las secretarías ejecutivas y las distintas áreas del Consejo le soliciten, como los referentes a cargas de trabajo y a la capacidad para hacerles frente, a la productividad y desempeño de los órganos jurisdiccionales y sus titulares, para que sirvan de apoyo en la toma de decisiones para resolver quejas, investigaciones, adscripciones, ratificaciones y creación de nuevos órganos, entre otras;
+
+IV. Proponer la normatividad, esquemas y criterios para el manejo y uso interno de la información estadística, así como para su divulgación pública, garantizando la transparencia y accesibilidad;
+
+V. Someter a la consideración del Consejo medidas que fortalezcan el funcionamiento de los órganos jurisdiccionales y promuevan el mejoramiento de la impartición de justicia;
+
+VI. Mantener actualizado el Sistema Integral de Seguimiento de Expedientes, a través de las modificaciones de los esquemas y normatividad para la captura de datos, con base en las reformas legales, criterios de jurisprudencia o contenido de los acuerdos generales de la Suprema Corte de Justicia de la Nación y del Consejo, cuando incidan en los procedimientos que se tramitan en los órganos jurisdiccionales o modifiquen su competencia;
+
+VII. Revisar y validar la congruencia, con criterio jurídico, de la captura de datos de los expedientes que se tramitan en los órganos jurisdiccionales;
+
+VIII. Proponer al Pleno la implantación de nuevos módulos, esquemas y normatividad que deban agregarse al Sistema Integral de Seguimiento de Expedientes;
+
+IX. Verificar físicamente y de manera aleatoria la coincidencia en la captura de datos en el Sistema Integral de Seguimiento de Expedientes, respecto de los diferentes tipos de asuntos del conocimiento de los órganos jurisdiccionales;
+
+X. Mantener actualizado el padrón de analistas jurídicos encargados de la operación del Sistema Integral de Seguimiento de Expedientes, y corroborar su capacitación y actualización para el cumplimiento de las funciones que tienen encomendadas;
+
+XI. Informar a las áreas correspondientes, acerca del seguimiento de las observaciones y manifestaciones contenidas en las actas de visita de inspección practicadas e informes circunstanciados de los órganos jurisdiccionales, en relación con la supervisión de los reportes estadísticos;
+
+XII. Inspeccionar el funcionamiento de las oficinas de correspondencia común, vigilar el correcto turno de los asuntos a los órganos jurisdiccionales y supervisar el desempeño de los servidores públicos adscritos a éstas, así como proponer a la Comisión de Creación de Nuevos Organos las medidas necesarias para el mejoramiento del sistema de distribución de asuntos o implementarlas en casos urgentes;
+
+XIII. Proponer a la Comisión de Administración a los candidatos para ocupar las plazas vacantes de las oficinas de correspondencia común;
+
+XIV. Desarrollar actividades de planeación estratégica mediante el análisis conjunto de los resultados de la actividad jurisdiccional y los elementos que influyen en el contexto en que se brinda el servicio de impartición de justicia federal, con el fin de prevenir acciones en el corto, mediano y largo plazo;
+
+XV. Solicitar, concentrar y analizar la información administrativa de aplicación estadística que generen los órganos que integran el Consejo, para la elaboración de los estudios que las distintas áreas de éste le soliciten;
+
+XVI. Colaborar en el diseño e integración del anexo estadístico del Informe Anual de Labores del Presidente de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal;
+
+XVII. Proporcionar la capacitación, asesoría y orientación necesarias para el uso y operación de los diferentes módulos que integran el Sistema Integral de Seguimiento de Expedientes;
+
+XVIII. Expedir copias certificadas de los reportes estadísticos rendidos por los órganos jurisdiccionales que sean solicitadas por las unidades administrativas y órganos auxiliares del Consejo;
+
+XIX. Establecer comunicación y coordinación con los tribunales superiores de justicia de las Entidades Federativas del país, y diversas instancias gubernamentales, con el objeto de recabar la información necesaria para la realización de análisis y estudios comparativos sobre la administración de justicia;
+
+XX. Asesorar al Comité Técnico del Fondo de Apoyo a la Administración de Justicia, en relación con los datos obtenidos del Sistema Integral de Seguimiento de Expedientes;
+
+XXI. Las inherentes al cargo de prosecretario del Comité Técnico Especial de Estadística y de Información Geográfica;
+
+XXII. Mantener actualizado el sitio de Internet dentro de la página del Consejo de la Judicatura Federal; y
+
+XXIII. Las demás que le atribuya expresamente el Pleno o cualquiera de las Comisiones.
 
 ## TRANSITORIOS
 
@@ -1678,3 +1738,13 @@ SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así 
 TERCERO.- Se deroga cualquier disposición emitida con anterioridad que se oponga al presente Acuerdo.
 
 CUARTO.- La documentación a cargo de las unidades administrativas y los órganos auxiliares del Consejo, deberá sujetarse a los lineamientos que al efecto se emitan.
+
+D.O.F. 12 DE MAYO DE 2006.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El texto de esta reforma deberá integrase (sic), de inmediato, al Acuerdo General 5/2000, del Pleno del Consejo de la Judicatura Federal.
+
+TERCERO.- Se deroga cualquier disposición emitida por este Consejo de la Judicatura Federal que se oponga al presente Acuerdo.
+
+CUARTO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
