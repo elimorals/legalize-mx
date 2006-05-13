@@ -4,7 +4,7 @@ identifier: "ZAC-ley-que-crea-el-consejo-zacatecano-de-ciencia-y-tecnologia-2504
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-05"
-last_updated: "2002-06-05"
+last_updated: "2006-05-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25046&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 LEY QUE CREA EL CONSEJO ZACATECANO DE CIENCIA Y TECNOLOGIA DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE CIENCIA Y TECNOLOGIA DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 13 DE MAYO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 5 de junio de 2002.
 
@@ -316,3 +318,19 @@ LIC. RICARDO MONREAL AVILA.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. ARTURO NAHLE GARCIA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE MAYO DE 2006.
+
+Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se abroga la Ley que crea el Consejo Zacatecano de Ciencia y Tecnología, publicada en. Suplemento 1 al número 45 del Periódico Oficial, Órgano del Gobierno del Estado, el día cinco de junio del año dos mil dos.
+
+Se derogan todas las disposiciones que contravengan al presente ordenamiento.
+
+Tercero.- En un plazo no mayor de 180 días contados a partir de la entrada en vigor del presente Decreto, el Ejecutivo Estatal deberá expedir el Programa Especial de Ciencia y Tecnología del Estado de Zacatecas.
+
+Cuarto.- En un término que no excederá de 60 días posteriores a la entrada en vigor de la presente Ley, la Junta Directiva deberá aprobar el Estatuto Orgánico del COZCYT, el que deberá ser publicado en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Quinto.- Dentro del término de 60 días posteriores a la publicación del Estado Orgánico del COZCYT deberán constituirse y reglamentarse, los Sistemas de Investigadores, de Información Científica y Tecnológica y el Registro Estatal de Infraestructura Científica y Tecnológica.
