@@ -4,7 +4,7 @@ identifier: "COL-ley-de-la-defensoria-de-oficio-3965"
 country: "mx"
 rank: "ley"
 publication_date: "1988-08-20"
-last_updated: "1988-08-20"
+last_updated: "2006-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 LEY DE LA DEFENSORIA DE OFICIO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LO SEÑALADO POR EL ARTICULO SEGUNDO TRANSITORIOS DE LA LEY DE LA DEFENSORIA DE OFICIO Y ASESORIA JURIDICA DEL ESTADO DE COLIMA, PUBLICADA EN P.O. DE 15 DE MAYO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 20 de agosto de 1988.
 
@@ -298,3 +300,21 @@ Diputado Presidente, PROFR. MANUEL EDMUNDO LLERENAS IBARRA.- Rúbrica.- Diputado
 Por tanto mando se imprima, publique, circule y observe.
 
 Palacio de Gobierno, Colima, Col., 8 de agosto de 1988.- El Gobernador Const. del Estado, LIC. ELIAS ZAMORA VERDUZCO.- Rúbrica.- El Director de Gobierno en ausencia del C. Secretario General de Gobierno, LIC. ROGELIO A. GAITAN Y GAITAN.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE MAYO DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se abroga la Ley de la Defensoría de Oficio del Estado, contenida en el Decreto número 157, publicada en el Periódico Oficial "El Estado de Colima", de fecha 20 de agosto de 1998.
+
+TERCERO.- Se derogan todas las disposiciones legales que se opongan a la presente ley.
+
+CUARTO.- Todos los recursos, instalaciones y mobiliario pertenecientes a las Defensorías de Oficio del Estado se entregarán, previo inventario de la Dirección de Patrimonio del Gobierno del Estado, a la Dirección de Defensoría de Oficio del Estado.
+
+QUINTO.- Sin perjuicio de sus derechos laborales, se incorporarán a la Dirección los Defensores de Oficio adscritos a la Dirección de prevención y Readaptación Social del Gobierno del Estado, a la Procuraduría General de Justicia del Estado, al Tribunal de lo Contencioso Administrativo del Estado, así como el personal de la Procuraduría de la Defensa del Trabajo.
+
+SEXTO.- El Ejecutivo del Estado expedirá las disposiciones reglamentarias conducentes para la debida aplicación de esta ley, dentro de los seis meses siguientes a la entrada en vigor de la misma.
+
+SÉPTIMO.- Las obligaciones presupuestarias que se consignan en la presente Ley, serán obligatorias a partir del Presupuesto de Egresos correspondiente al ejercicio fiscal 2007.
