@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-vii-2004-del-nueve-de-40877"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2004-08-09"
-last_updated: "2004-08-09"
+last_updated: "2006-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40877&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,11 @@ issue_date: "2004-08-09"
 
 ACUERDO GENERAL DE ADMINISTRACION VII/2004, DEL NUEVE DE AGOSTO DE DOS MIL CUATRO, DEL COMITE DE PUBLICACIONES Y PROMOCION EDUCATIVA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE REGULA EL APOYO ECONOMICO PARA LA CAPACITACION, PROFESIONALIZACION Y ACTUALIZACION DE LOS SERVIDORES PUBLICOS DE ESTE ALTO TRIBUNAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DE ADMINISTRACION V/2006 DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL S.J.F.G., TOMO XXIII, MAYO DE 2006, PAGINA 1963, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo XX, Agosto de 2004, página 1729 y Tomo XX, Octubre de 2004, página 2441.
+ULTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACION: ABROGADO.
+
+Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo XX, Agosto de 2004, página 1729.
 
 ACUERDO GENERAL DE ADMINISTRACIÓN VII/2004, DEL NUEVE DE AGOSTO DE DOS MIL CUATRO, DEL COMITÉ DE PUBLICACIONES Y PROMOCIÓN EDUCATIVA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA EL APOYO ECONÓMICO PARA LA CAPACITACIÓN, PROFESIONALIZACIÓN Y ACTUALIZACIÓN DE LOS SERVIDORES PÚBLICOS DE ESTE ALTO TRIBUNAL.
 
@@ -274,3 +276,13 @@ PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese este acuerdo en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
 
 Así lo acordaron y firman los señores Ministros Mariano Azuela Güitrón, Guillermo I. Ortiz Mayagoitia y Olga Sánchez Cordero de García Villegas, integrantes del Comité de Publicaciones y Promoción Educativa de la Suprema Corte de Justicia de la Nación.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+S.J.F.G., TOMO XXIII, MAYO DE 2006, PAGINA 1963.
+
+PRIMERO. Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Se abroga el Acuerdo General de Administración VII/2004, del nueve de agosto de dos mil cuatro, del Comité de Publicaciones y Promoción Educativa de la Suprema Corte de Justicia de la Nación, por el que se regula el apoyo económico para la capacitación, profesionalización y actualización de los servidores públicos de ese Alto Tribunal.
+
+TERCERO. Publíquese este Acuerdo en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7°, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
