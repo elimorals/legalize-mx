@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-vialidad-del-estado-de-aguascalientes-2877"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-29"
-last_updated: "2006-04-17"
+last_updated: "2006-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE VIALIDAD DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MAYO DE 2006.
 
 Ley publicada en el Suplemento a la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de mayo de 1994.
 
@@ -149,9 +149,9 @@ El Secretario de Seguridad Pública propondrá al Gobernador del Estado, los pro
 
 ARTICULO 8o BIS.- El Secretario de Seguridad Pública tiene las siguientes facultades:
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2006)</small>
 
-I.- Proponer al acuerdo del Secretario General de Gobierno, la aplicación de programas, medidas, políticas y estrategias para el buen funcionamiento administrativo y operativo de las distintas dependencias del ramo.
+I.- Proponer al acuerdo del Titular del Poder Ejecutivo, la aplicación de programas, medidas, políticas y estrategias para el buen funcionamiento administrativo y operativo de las distintas dependencias del ramo.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
@@ -161,9 +161,9 @@ II.- Dictar providencias de carácter general, que sean de utilidad para mejorar
 
 III.- Vigilar que haya un buen trato por parte de los empleados administrativos para todos los ciudadanos que tramiten asuntos en sus oficinas.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2006)</small>
 
-IV.- Fungir como Vocal Ejecutivo del Consejo Estatal de Transporte Público.
+IV.- Fungir como Presidente del Consejo Consultivo de Transporte Público.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
@@ -2860,3 +2860,13 @@ El presente Decreto entrará en vigencia a los noventa días siguientes de su pu
 ###### ARTICULO SEGUNDO.
 
 Las autoridades competentes, previamente a la aplicación de los operativos de prevención de conducción de vehículos, en estado de ebriedad, deberán difundirlos a la población.
+
+P.O. 15 DE MAYO DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+TERCERO.- Los reglamentos y demás disposiciones complementarias que se refieran a las disposiciones de la presente Ley, deberán ser modificados en un plazo no mayor de sesenta días posteriores a la entrada en vigencia de la misma.
+
+CUARTO.- El Secretario Ejecutivo del Consejo Estatal de Seguridad Pública, deberá ser nombrado en un plazo no mayor a sesenta días contados a partir de la publicación del presente decreto. En tanto se nombra, continuará el Secretario de Seguridad Pública, ejerciendo las funciones del Secretario Ejecutivo.
