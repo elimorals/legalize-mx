@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2006-02-18"
+last_updated: "2006-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MAYO DE 2006.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -1501,11 +1501,11 @@ Los actos de gobierno de las autoridades municipales podrán ser sometidos a ple
 
 De los Servicios de Educación.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2006)</small>
 
 ###### Artículo 97.
 
-El Estado -gobiernos estatal y municipales- impartirá la educación de tipo básico comprendiendo los niveles de preescolar, primaria y secundaria, en coordinación con el gobierno federal y de conformidad a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución y las leyes y reglamentos relativos a la materia. La educación primaria y secundaria son obligatorias.
+El Estado -gobierno (sic) estatal y municipales- impartirá la educación de tipo básico comprendiendo los niveles de preescolar, primaria y secundaria, en coordinación con el gobierno federal y de conformidad a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución y las leyes y reglamentos relativos a la materia. La educación preescolar, primaria y secundaria son obligatorias.
 
 > <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
 
@@ -1908,6 +1908,10 @@ El Congreso del Estado no podrá reconocer, bajo ningún concepto a los militare
 ###### Artículo 1°.
 
 El Estado de Colima reconoce, protege y garantiza a toda persona, el goce de sus derechos consignados en la Constitución General de la República y los establecidos en esta Constitución.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2006)</small>
+
+Esta Constitución, para todos los efectos legales a que diere lugar, cuando haga referencia a los vocablos persona, individuo u hombre, incluyendo en su respectivo plural, así como, a la calidad de su función, se entenderá indistintamente al género femenino o masculino. De igual forma, cuando sea el caso de denominaciones a cargos públicos, se enunciarán en el género femenino o masculino que corresponda con el propio de quienes los ocupen o desempeñen.
 
 Con respecto a la libertad, igualdad y seguridad jurídica, se establecen las siguientes declaraciones:
 
@@ -2515,6 +2519,10 @@ P.O. 11 DE DICIEMBRE DE 1999.
 
 DECRETO No. 208, POR EL QUE SE REFORMA EL ARTICULO 144 Y SE DEROGA EL ARTICULO 6° TRANSITORIO DE LA CONSTITUCION DEL ESTADO.
 
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 6 DE MAYO DE 2000.
+
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
@@ -2525,11 +2533,11 @@ El Gobierno del Estado y los Ayuntamientos incluirán en sus respectivos presupu
 
 P.O. 22 DE JULIO DE 2000.
 
-###### ARTICULO UNICO.
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
-P.O. 6 DE MAYO DE 2000.
+P.O. 30 DE SEPTIEMBRE DE 2000.
 
 ###### ARTICULO PRIMERO.
 
@@ -2636,6 +2644,10 @@ UNICO.- El presente decreto entrará en vigor el día de su publicación en el P
 P.O. 18 DE FEBRERO DE 2006.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE MAYO DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO ÚNICO.
 
