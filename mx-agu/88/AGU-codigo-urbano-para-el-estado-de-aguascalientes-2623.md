@@ -4,7 +4,7 @@ identifier: "AGU-codigo-urbano-para-el-estado-de-aguascalientes-2623"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-05-29"
-last_updated: "2005-08-08"
+last_updated: "2006-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO URBANO PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MAYO DE 2006.
 
 Código publicado en la Sección Primera del Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de mayo de 1994.
 
@@ -1017,11 +1017,13 @@ XXIII.- Las demás funciones que las disposiciones legales y reglamentarias le a
 
 El Consejo Consultivo del Transporte Público del Estado es un organismo de consulta y decisión en materia del transporte de pasajeros y de carga, en vialidades o caminos de jurisdicción local y se integrará por:
 
-I.- Un Presidente, que será el Secretario General de Gobierno;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2006)</small>
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
+I.- Un Presidente, que será el Secretario de Seguridad Pública;
 
-II.- Un Secretario, que será el Secretario de Seguridad Pública;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2006)</small>
+
+II.- Un Secretario, que será el Director General de Transporte Público de la Secretaría de Seguridad Pública;
 
 III.- Un vocal, que será el Director General de Seguridad Pública y Vialidad;
 
@@ -7118,3 +7120,13 @@ El presente Decreto entrara en vigencia al día siguiente de su publicación en 
 ###### ARTICULO SEGUNDO.
 
 Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuaran su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
+
+P.O. 15 DE MAYO DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+TERCERO.- Los reglamentos y demás disposiciones complementarias que se refieran a posiciones complementarias que se refieran a las disposiciones de la presente Ley, deberán ser modificados en un plazo no mayor de sesenta días posteriores a la entrada en vigencia de la misma.
+
+CUARTO.- El Secretario Ejecutivo del Consejo Estatal de Seguridad Pública, deberá ser nombrado en un plazo no mayor a sesenta días contados a partir de la publicación del presente decreto. En tanto se nombra, continuará el Secretario de Seguridad Pública, ejerciendo las funciones del Secretario Ejecutivo.
