@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-seguridad-publica-para-el-estado-de-aguascalientes-22010
 country: "mx"
 rank: "ley"
 publication_date: "2001-07-16"
-last_updated: "2005-08-08"
+last_updated: "2006-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22010&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MAYO DE 2006.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de julio de 2001.
 
@@ -81,7 +81,7 @@ Estatales:
 
 1.- El Titular del Poder Ejecutivo;
 
-2.- El Secretario General de Gobierno;
+2.- (DEROGADO, P.O. 15 DE MAYO DE 2006)
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
 
@@ -99,9 +99,9 @@ Municipales:
 
 3.- El titular de la dependencia que de acuerdo con la normatividad municipal realice las funciones de Policía Preventiva y Tránsito.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2006)</small>
 
-El Secretario General de Gobierno, el Procurador General de Justicia, el Secretario de Seguridad Pública, el Director General de Seguridad Pública y Vialidad y el titular de la dependencia que de acuerdo con la normatividad municipal realice las funciones de policía preventiva y tránsito, serán nombrados y removidos libremente por su superior jerárquico.
+El Secretario de Seguridad Pública, el Director General de Seguridad Pública y Vialidad y el titular de la dependencia que de acuerdo con la normatividad municipal realice las funciones de policía preventiva y tránsito, serán nombrados y removidos libremente por su superior jerárquico.
 
 ###### ARTICULO 5o.
 
@@ -147,7 +147,9 @@ I.- Las Instituciones de Prevención del Delito del Estado y de los Municipios, 
 
 II.- La Policía Ministerial del Estado, con el personal que prevean las leyes y reglamentos;
 
-III.- La Unidad Administrativa encargada de la coordinación del personal de Seguridad y Custodia de los Centros de Readaptación Social del Estado; y
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2006)</small>
+
+III.- La Unidad Administrativa encargada de la coordinación del personal de Seguridad y Custodia de los Centros de Reeducación Social del Estado; y
 
 IV.- Las demás que se constituyan con estricto apego a la ley.
 
@@ -277,17 +279,31 @@ El Consejo, para la organización, supervisión, dirección y ejecución de sus 
 
 I.- El titular del Poder Ejecutivo del Estado, quien lo presidirá;
 
-II.- El Secretario General de Gobierno del Estado;
+II.- (DEROGADA, P.O. 15 DE MAYO DE 2006)
 
-III.- El Procurador General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2006)</small>
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
+III.- El Presidente de la Comisión de Seguridad Pública del Congreso del Estado;
 
-IV.- El Secretario de Seguridad Pública del Estado;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2006)</small>
 
-V.- El Director General de Seguridad Pública y Vialidad del Estado;
+IV.- El Procurador General de Justicia del Estado;
 
-VI.- El Director General de Prevención y Readaptación Social del Estado;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2006)</small>
+
+V.- El Secretario de Seguridad Pública del Estado;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2006)</small>
+
+VI.- Los Titulares de las siguientes áreas, dependientes de la Secretaría de Seguridad Pública:
+
+a).- Dirección General de Seguridad Pública y Vialidad del Estado;
+
+b) Dirección General de Reeducación Social del Estado:
+
+c) Dirección General de Prevención del Delito y Política Criminal;
+
+d) Dirección de Prevención al Narcotráfico;
 
 VII.- El Director General de la Policía Ministerial del Estado;
 
@@ -309,11 +325,15 @@ XI.- El Secretario Ejecutivo; y
 
 XII.- Quien, por razón de sus atribuciones, esté vinculado con los fines de la Seguridad Pública, a propuesta del Presidente del Consejo.
 
-El Magistrado Presidente del Supremo Tribunal de Justicia del Estado y el Presidente de la Comisión correspondiente del Congreso del Estado, podrán asistir previa invitación del Consejo a sus sesiones, con derecho a voz.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2006)</small>
+
+El Magistrado Presidente del Supremo Tribunal de Justicia del Estado podrá asistir previa invitación del Consejo a sus sesiones, con derecho a voz.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2006)</small>
 
 ###### ARTICULO 22.
 
-En ausencia del Presidente, el Secretario General de Gobierno del Estado presidirá el Consejo.
+En ausencia del Presidente, el Secretario presidirá el Consejo.
 
 ###### ARTICULO 23.
 
@@ -363,15 +383,33 @@ Cuando para la aprobación y ejecución de las resoluciones o acuerdos se compre
 
 ### CAPITULO III. De la Secretaría Ejecutiva del Consejo Estatal de Seguridad Pública
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2006)</small>
 
 ###### ARTICULO 28.
 
-El Consejo tendrá un Secretario Ejecutivo que será el Secretario de Seguridad Pública, quien participará sólo con voz en las sesiones del mismo.
+El Consejo tendrá un Secretario Ejecutivo quien participará sólo con voz en las sesiones del mismo; será nombrado y removido por el Presidente del mismo, y ratificado por los miembros del Consejo.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2006)</small>
 
 ###### ARTICULO 29.
 
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 2002)
+El Titular de la Secretaría Ejecutiva deberá cumplir con los siguientes requisitos:
+
+I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+
+II.- Tener más de treinta años de edad;
+
+III.- Contar con título de licenciado en derecho;
+
+IV.- Ser de reconocida capacidad profesional y probidad;
+
+V.- No tener antecedentes penales;
+
+VI.- Tener cinco años de experiencia en áreas relacionadas con la Seguridad Pública;
+
+VII.- Contar con residencia mínima en el estado de tres años, y
+
+VIII.- No ser miembro del Consejo Estatal de Seguridad Pública.
 
 ###### ARTICULO 30.
 
@@ -431,17 +469,31 @@ El Gabinete de Seguridad Pública estará compuesto por:
 
 I.- El titular del Poder Ejecutivo del Estado, quien lo presidirá;
 
-II.- El Secretario General de Gobierno del Estado;
+II.- (DEROGADA, P.O. 15 DE MAYO DE 2006)
 
-III.- El Procurador General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2006)</small>
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
+III.- El Presidente de la Comisión de Seguridad Pública del Congreso del Estado;
 
-IV.- El Secretario de Seguridad Pública;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2006)</small>
 
-V.- El Director General de Seguridad Pública y Vialidad del Estado;
+IV.- El Procurador General de Justicia del Estado;
 
-VI.- El Director General de Prevención y Readaptación Social del Estado;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2006)</small>
+
+V.- El Secretario de Seguridad Pública del Estado;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2006)</small>
+
+VI.- Los Titulares de las siguientes áreas, dependientes de la Secretaría de Seguridad Pública:
+
+a) Dirección General de Seguridad Pública y Vialidad del Estado;
+
+b). Dirección General de Reeducación Social del Estado;
+
+c) Dirección General de Prevención del Delito y Política Criminal;
+
+d) Dirección de Prevención al Narcotráfico;
 
 VII.- El Director General de Gobernación Estatal;
 
@@ -459,9 +511,9 @@ XIII.- El Secretario Ejecutivo del Consejo Estatal de Seguridad Pública, quien 
 
 XIV.- Aquellos funcionarios que a juicio del Presidente deban participar.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2006)</small>
 
-El Magistrado Presidente del Supremo Tribunal de Justicia del Estado y el Presidente de la Comisión correspondiente del Congreso del Estado, podrán asistir a invitación del Presidente, con derecho a voz.
+El Magistrado Presidente del Supremo Tribunal de Justicia del Estado, podrá asistir a invitación del Presidente, con derecho a voz.
 
 ### CAPITULO V. De los Consejos Municipales de Seguridad Pública
 
@@ -569,9 +621,11 @@ VII.- Las demás que determinen las leyes que sean necesarias para incrementar l
 
 Las autoridades estatales y municipales encargadas de la Seguridad Pública dentro del ámbito de sus respectivas competencias, coordinarán operativa y administrativamente las materias y actividades señaladas en el artículo anterior mediante convenios generales o específicos de coordinación.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2006)</small>
+
 ###### ARTICULO 47.
 
-Las Corporaciones de Seguridad deberán coadyuvar con las autoridades penitenciarias en los operativos que sean requeridos por la Dirección General de Prevención y Readaptación Social del Estado a fin de garantizar la seguridad de los Centros de Readaptación Social Estatales.
+Las Corporaciones de Seguridad deberán coadyuvar con las autoridades penitenciarias en los operativos que sean requeridos por la Dirección General de Reeducación Social del Estado a fin de garantizar la seguridad de los Centros de Reeducación Social.
 
 ###### ARTICULO 48.
 
@@ -603,9 +657,9 @@ ARTICULO 50 A.- La Secretaría de Seguridad Pública es la autoridad con funcion
 
 ARTICULO 50 B.- Son atribuciones de la Secretaría las siguientes:
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2006)</small>
 
-I.- Acordar con el Secretario General de Gobierno lo relacionado con el cumplimiento de los programas, objetivos y estrategias correspondientes a las unidades administrativas bajo su adscripción;
+I.- Acordar con el Titular del Poder Ejecutivo lo relacionado con el cumplimiento de los programas, objetivos y estrategias correspondientes a las unidades administrativas bajo su adscripción;
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -623,9 +677,7 @@ IV.- Establecer las estrategias operativas para la prevención del delito confor
 
 V.- Coordinar las acciones que en materia de seguridad pública y vialidad el titular del Poder Ejecutivo del Estado convenga con los municipios, las autoridades federales, y las de otras Entidades Federativas, a efecto de cumplir con las disposiciones legales y programas aplicables;
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
-
-VI.- Participar, en su calidad de Secretaría Ejecutiva en el Consejo y en la Junta de Gobierno del Instituto;
+VI.- (DEROGADA, P.O. 15 DE MAYO DE 2006)
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -767,9 +819,11 @@ Cuando los Servidores Públicos expidan credenciales a personas que no pertenezc
 
 Queda estrictamente prohibida la portación de armas de fuego de propiedad particular para el ejercicio de la función de prevención del delito, vialidad y tránsito, lo que se sancionará conforme a las disposiciones legales correspondientes.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2006)</small>
+
 ###### ARTICULO 61.
 
-Las armas de fuego de propiedad o posesión tanto de la Dirección General como de las Direcciones Municipales, el Instituto, la Dirección General de Prevención y Readaptación Social y el Cuerpo de Guardias Forestales contempladas en la Licencia oficial colectiva número treinta, deberán manifestarse a la Secretaría de la Defensa Nacional para su inscripción en el Registro Federal de Armas de Fuego en los términos señalados en la Ley Federal de Armas de Fuego y Control de Explosivos. De igual manera, deberá informarse al C-4 para su registro correspondiente.
+Las armas de fuego de propiedad o posesión tanto de la Dirección General como de las Direcciones Municipales, el Instituto, la Dirección General de Reeducación Social y el Cuerpo de Guardias Forestales contempladas en la Licencia oficial colectiva número treinta, deberán manifestarse a la Secretaría de la Defensa Nacional para su inscripción en el Registro Federal de Armas de Fuego en los términos señalados en la Ley Federal de Armas de Fuego y Explosivos. De igual manera, deberá informarse al C-4 para su registro correspondiente.
 
 ###### ARTICULO 62.
 
@@ -1418,3 +1472,13 @@ El presente Decreto entrara en vigencia al día siguiente de su publicación en 
 ###### ARTICULO SEGUNDO.
 
 Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuaran su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
+
+P.O. 15 DE MAYO DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+TERCERO.- Los reglamentos y demás disposiciones complementarias que se refieran a las disposiciones de la presente Ley, deberán ser modificados en un plazo no mayor de sesenta días posteriores a la entrada en vigencia de la misma.
+
+CUARTO.- El Secretario Ejecutivo del Consejo Estatal de Seguridad Pública, deberá ser nombrado en un plazo no mayor a sesenta días contados a partir de la publicación del presente decreto. En tanto se nombra, continuará el Secretario de Seguridad Pública, ejerciendo las funciones del Secretario Ejecutivo.
