@@ -4,7 +4,7 @@ identifier: "SON-ley-que-crea-la-comision-estatal-de-derechos-humanos-del-8500"
 country: "mx"
 rank: "ley"
 publication_date: "1992-10-08"
-last_updated: "2005-03-31"
+last_updated: "2006-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8500&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY QUE CREA LA COMISION ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 15 DE MAYO DE 2006.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 8 de octubre de 1992.
 
@@ -69,9 +69,11 @@ El personal de la Comisión deberá manejar de manera confidencial la informaci�
 
 ### CAPITULO I. DE LA INTEGRACION Y ATRIBUCIONES DE LA COMISION
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 15 DE MAYO DE 2006)</small>
+
 ###### ARTICULO 6.
 
-La Comisión se integrará con un Presidente, una Secretaría Ejecutiva, hasta tres Visitadores, así como el número de Visitadores adjuntos y el personal profesional, técnico y administrativo necesario para la realización de sus funciones.
+La Comisión se integrará con un Presidente, una Secretaría Ejecutiva, el número de Visitadores Generales que determine el Consejo, así como los Visitadores adjuntos y el personal profesional técnico y administrativo necesario para la realización de sus funciones.
 
 La Comisión para el mejor desempeño de sus responsabilidades contará con un Consejo.
 
@@ -626,3 +628,7 @@ El presente decreto entrará en vigor el día de su publicación en el Boletín 
 ###### ARTÍCULO SEGUNDO.
 
 Dentro de un plazo de quince días hábiles a partir del inicio de la vigencia del presente Decreto, el Titular del Poder Ejecutivo deberá remitir al Congreso del Estado los nombres de las seis personas que se propongan para integrar al Consejo de la Comisión Estatal de Derechos Humanos en substitución de los que actualmente desempeñan dichos cargos, y en su caso, ratificados que fueren los correspondientes nombramientos, las personas que resulten designadas resolverán por sorteo, ante la presencia del Presidente de la Comisión, el orden en que serán substituidos para cumplir con la forma escalonada de dos, cuatro y seis años de las subsecuentes designaciones en los términos del artículo 18 de la ley, comunicándose lo conducente tanto al titular del Poder Ejecutivo como al Congreso del Estado. Si concluye dicho plazo de quince días sin recibirse la propuesta del Gobernador, el Congreso procederá en los términos del último párrafo del artículo 19 de la ley.
+
+B.O. 15 DE MAYO DE 2006.
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
