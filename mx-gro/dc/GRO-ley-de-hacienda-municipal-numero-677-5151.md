@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-hacienda-municipal-numero-677-5151"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-03"
-last_updated: "2004-12-24"
+last_updated: "2006-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE HACIENDA MUNICIPAL NUMERO 677
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DE 2006.
 
 Ley publicada en el Alcance al Número 1 del Periódico Oficial del Estado de Guerrero, el martes 3 de enero de 1984.
 
@@ -496,6 +496,10 @@ d) Copia de escritura pública o privada.
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
 e) Plano de construcción si el terreno estuviere edificado.
+
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2006)</small>
+
+f) Constancia de no adeudo por los servicio de Agua Potable y Alcantarillado o en su caso de la no existencia de contrato con el organismo operador correspondiente.
 
 Los documentos de referencia incluirán hasta el mes en que los notarios o funcionarios que hagan sus veces, autoricen la escritura, o al mes que se produzca el contrato privado.
 
@@ -1630,3 +1634,9 @@ P.O. 24 DE DICIEMBRE DE 2004.
 Primero.- El presente Decreto entrará en vigor el día primero de enero del año dos mil cinco.
 
 Segundo.- Publíquese el presente en el Periódico Oficial del Gobierno del Estado, para su conocimiento general.
+
+P.O. 16 DE MAYO DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación en el Periódico Oficial del Gobierno del Estado.
