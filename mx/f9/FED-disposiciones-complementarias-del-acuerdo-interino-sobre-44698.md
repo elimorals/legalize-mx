@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-acuerdo-interino-sobre-44698"
 country: "mx"
 rank: "otro"
 publication_date: "2000-06-26"
-last_updated: "2006-03-03"
+last_updated: "2006-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44698&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,29 +19,27 @@ issue_date: "2000-06-19"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL ACUERDO INTERINO SOBRE COMERCIO Y CUESTIONES RELACIONADAS CON EL COMERCIO (COMUNIDAD EUROPEA, 1997)
 
-DECRETO QUE MODIFICA AL DIVERSO POR EL QUE SE ESTABLECE LA TASA APLICABLE PARA EL 2006 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE LA COMUNIDAD EUROPEA, LOS ESTADOS DE LA ASOCIACION EUROPEA DE LIBRE COMERCIO, EL SALVADOR, GUATEMALA, HONDURAS Y NICARAGUA; ASI COMO LA TASA APLICABLE DEL 1 DE ABRIL DE 2006 AL 31 DE MARZO DE 2007 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DEL JAPON
+AVISO POR EL QUE SE DA A CONOCER LA ENTRADA EN VIGOR DE LOS ARTICULOS 3, 4 Y 5 DEL DECRETO QUE MODIFICA AL DIVERSO POR EL QUE SE ESTABLECE LA TASA APLICABLE PARA EL 2006 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE LA COMUNIDAD EUROPEA, LOS ESTADOS DE LA ASOCIACION EUROPEA DE LIBRE COMERCIO, EL SALVADOR, GUATEMALA, HONDURAS Y NICARAGUA; ASÍ COMO LA TASA APLICABLE DEL 1 DE ABRIL DE 2006 AL 31 DE MARZO DE 2007 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DEL JAPON
 
-Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de marzo de 2006.
+Aviso publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 17 de mayo de 2006.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el Artículo 89 fracción I de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los Artículos 131 de la propia Constitución, 31 y 34 de la Ley Orgánica de la Administración Pública Federal; 2o., 4o. fracción I y 14 de la Ley de Comercio Exterior, y
+SERGIO ALEJANDRO GARCIA DE ALBA ZEPEDA, Secretario de Economía con fundamento en los artículos 34 de la Ley Orgánica de la Administración Pública Federal, 5o. fracción X y 14 de la Ley de Comercio Exterior, 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras (el Tratado), firmado el 29 de junio de 2000 y aprobado por el Senado de la República el 14 de diciembre del mismo año entró en vigor el 15 de julio de 2001 para el comercio entre los Estados Unidos Mexicanos y la República de Honduras;
+Que el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras (el Tratado), firmado el 29 de junio de 2000 y aprobado por el Senado de la República el 14 de diciembre del mismo año, entró en vigor el 15 de marzo de 2001 para el comercio entre los Estados Unidos Mexicanos y las Repúblicas de Guatemala y El Salvador;
 
-Que el 14 de abril de 2005, la Comisión Administradora del Tratado adoptó las Decisiones Nos. 10 y 11, mediante las cuales se incorpora al Programa de Desgravación del mismo el comercio entre los Estados Unidos Mexicanos y la República de Honduras de bienes de la cadena: fibras-textil-confección, clasificados en los capítulos 50 a 63 del Sistema Armonizado de Designación y Codificación de Mercancías, y se establecen las condiciones para su acceso;
+Que el 12 de agosto de 2005, la Comisión Administradora del Tratado adoptó la Decisión No. 15 mediante la cual los Estados Unidos Mexicanos acordaron acelerar la desgravación de ciertos bienes del sector acero y eliminar el arancel aplicable a la importación de ciertos néctares originarios de la República de El Salvador; y que de conformidad con lo establecido en el numeral 3 de la referida Decisión ésta entrará en vigor una vez que los Estados Unidos Mexicanos y la República de El Salvador se notifiquen la conclusión de sus respectivas formalidades jurídicas;
 
-Que el 6 de octubre de 2005 el Senado de la República aprobó la Decisión No. 11 de la Comisión Administradora del Tratado y que el 16 de diciembre del mismo año se publicó en el Diario Oficial de la Federación el “Decreto por el que se aprueba la Decisión No. 11, Trato Nacional y Acceso de Bienes al Mercado, de la Comisión Administradora del Tratado de Libre Comercio entre los Estados Unidos Mexicanos, la República de El Salvador, la República de Guatemala y la República de Honduras, firmada el catorce de abril de dos mil cinco”;
+Que el 3 de marzo del presente año se publicó en el Diario Oficial de la Federación el Decreto que modifica al diverso por el que se establece la Tasa aplicable para el 2006 del Impuesto General de Importación para las mercancías originarias de la Comunidad Europea, los Estados de la Asociación Europea de Libre Comercio, El Salvador, Guatemala, Honduras y Nicaragua; así como la Tasa aplicable del 1 de abril de 2006 al 31 de marzo de 2007 del Impuesto General de Importación para las mercancías originarias del Japón (el Decreto);
 
-Que de conformidad con lo establecido en los numerales IV y III de las Decisiones Nos. 10 y 11, respectivamente, los gobiernos de los Estados Unidos Mexicanos y la República de Honduras han intercambiado notificaciones en las que certifican la conclusión de las formalidades jurídicas necesarias en cada uno de ellos para la entrada en vigor de las mismas y que se ha acordado con las autoridades de la República de Honduras que éstas se apliquen a partir del próximo 22 de febrero;
+Que el artículo tercero transitorio del Decreto establece que la aceleración de la desgravación de ciertos néctares y el cupo de acero previstos en los artículos 3, 4 y 5 del mismo entrarán en vigor una vez que los Estados Unidos Mexicanos y la República de El Salvador se notifiquen entre sí la conclusión de sus respectivas formalidades jurídicas necesarias. A tal efecto la Secretaría de Economía publicará un aviso notificando su entrada en vigor, y
 
-Que el 12 de agosto de 2005, la Comisión Administradora del Tratado adoptó la Decisión No. 15, mediante la cual los Estados Unidos Mexicanos acordaron acelerar la desgravación de ciertos bienes del sector acero y eliminar el arancel aplicable a la importación de ciertos néctares originarios de la República de El Salvador y que de conformidad con lo establecido en el numeral 3 de la referida decisión ésta entrará en vigor una vez que los Estados Unidos Mexicanos y el Salvador se notifiquen la conclusión de sus respectivas formalidades jurídicas, y
+Que los gobiernos de los Estados Unidos Mexicanos y de la República de El Salvador, se han notificado la conclusión de sus respectivas formalidades jurídicas para la entrada en vigor de la Decisión No. 15, he tenido a bien expedir el siguiente:
 
-Que resulta necesario modificar el “Decreto por el que se establece la Tasa Aplicable para el 2006 del Impuesto General de Importación para las mercancías originarias de la Comunidad Europea, los Estados de la Asociación Europea de Libre Comercio, El Salvador, Guatemala, Honduras y Nicaragua; así como la Tasa aplicable del 1 de abril de 2006 al 31 de marzo de 2007 del Impuesto General de Importación para las mercancías originarias del Japón” publicado en el Diario Oficial de la Federación el 29 de diciembre de 2005 con objeto de reflejar lo establecido en las referidas decisiones, he tenido a bien expedir el siguiente
-
-DECRETO
+AVISO POR EL QUE SE DA A CONOCER LA ENTRADA EN VIGOR DE LOS ARTICULOS 3, 4 Y 5 DEL DECRETO QUE MODIFICA AL DIVERSO POR EL QUE SE ESTABLECE LA TASA APLICABLE PARA EL 2006 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE LA COMUNIDAD EUROPEA, LOS ESTADOS DE LA ASOCIACION EUROPEA DE LIBRE COMERCIO, EL SALVADOR, GUATEMALA, HONDURAS Y NICARAGUA; ASI COMO LA TASA APLICABLE DEL 1 DE ABRIL DE 2006 AL 31 DE MARZO DE 2007 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DEL JAPON
 
 ###### ARTÍCULO DÉCIMO PRIMERO.
 
@@ -199,7 +197,7 @@ III. Las importaciones de vehículos cuyo número de serie o año-modelo tenga u
 
 ###### ARTICULO UNICO.
 
-Se extiende la aplicación de las normas de origen para productos químicos clasificados en las partidas 2914 y 2915 establecidas en las notas 2 y 3 del apéndice II (A) del anexo III de la Decisión a partir del 1 de julio de 2003 y hasta el 30 de junio de 2006.
+Los artículos 3, 4 y 5 del Decreto que modifica al diverso por el que se establece la Tasa aplicable para el 2006 del Impuesto General de Importación para las mercancías originarias de la Comunidad Europea, los Estados de la Asociación Europea de Libre Comercio, El Salvador, Guatemala, Honduras y Nicaragua; así como la Tasa aplicable del 1 de abril de 2006 al 31 de marzo de 2007 del Impuesto General de Importación para las mercancías originarias del Japón, publicado en el Diario Oficial de la Federación el 3 de marzo del presente año, entrarán en vigor el próximo 1 de junio.
 
 ###### ARTICULO PRIMERO.
 
@@ -251,16 +249,8 @@ c) Para el caso del formato SE-03-013-5 “Solicitud de certificados de cupo (ob
 
 Una vez asignado el monto para importar dentro del arancel preferencial, la Secretaría, a través de la representación federal correspondiente, expedirá los certificados de cupo que correspondan, previa solicitud del interesado en el formato “Solicitud de certificados de cupo (obtenido por asignación directa)” SE-03-013-5. La expedición de los certificados de cupo se realizará dentro de los siete días hábiles siguientes a la fecha de recepción de las solicitudes.
 
-## TRANSITORIOS
+## TRANSITORIO
 
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los artículos segundo, tercero y cuarto transitorios.
+UNICO.- El presente Aviso entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
-SEGUNDO.- Lo dispuesto en los artículos 1 y 2 del presente ordenamiento entrarán en vigor el 22 de febrero del presente año.
-
-TERCERO.- Lo dispuesto en los artículos 3, 4 y 5 del presente ordenamiento entrarán en vigor una vez que los Estados Unidos Mexicanos y la República de El Salvador se notifiquen la conclusión de sus respectivas formalidades jurídicas. A tal efecto, la Secretaría de Economía publicará un aviso en el Diario Oficial de la Federación en el que se notifique la fecha de entrada en vigor de los mismos.
-
-CUARTO.- Lo dispuesto en el artículo 6 del presente ordenamiento será aplicable a las operaciones de importación efectuadas a partir del 1 de enero de 2006 con objeto de dar cumplimiento a lo establecido en el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y los Estados de la Asociación Europea de Libre Comercio.
-
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, al primer día del mes de marzo de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
-
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, al primer día del mes de marzo de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
+México, D.F., a 10 de mayo de 2006.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.
