@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-ii-2004-del-comite-de-40896"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2004-02-16"
-last_updated: "2004-02-16"
+last_updated: "2006-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40896&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2004-02-16"
 
 ACUERDO GENERAL DE ADMINISTRACION II/2004, DEL DIECISEIS DE FEBRERO DE DOS MIL CUATRO, DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE VINCULA A LAS DIVERSAS AREAS DE ESTE ALTO TRIBUNAL, DIFERENTES A SUS SALAS, CON LOS COMITES CREADOS EN EL ACUERDO GENERAL PLENARIO 2/2003
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DE ADMINISTRACION IV/2006 DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL D.O.F. DE 17 DE MAYO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo XIX, Febrero de 2004, página 1193.
 
@@ -102,3 +104,13 @@ TERCERO.- La Dirección de Administración de Personal, conjuntamente con la Dir
 CUARTO.- Publíquese este acuerdo en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
 
 Así lo acordaron y firman los señores Ministros Mariano Azuela Güitrón y Juan Díaz Romero, integrantes del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación. Ausente el señor Ministro Sergio Salvador Aguirre Anguiano por licencia concedida por el Pleno de este Alto Tribunal.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. DE 17 DE MAYO DE 2006.
+
+PRIMERO. Este Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Se abrogan los Acuerdos Generales de Administración II/2004, del dieciséis de febrero de dos mil cuatro, emitido por el Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación, por el que se vincula a las diversas áreas de este Alto Tribunal, diferentes a sus Salas, con los respectivos Comités de Ministros; el V/2004, del treinta y uno de mayo de dos mil cuatro, emitido por el Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación, por el que se establecen los requisitos y los procedimientos para la creación de plazas, el otorgamiento de nombramientos y de licencias de los servidores públicos de este Alto Tribunal, salvo los de sus Salas; y, el Acuerdo General de Administración XX/2003, del diecisiete de noviembre de dos mil tres, del Comité de Gobierno y Administración, por el que se regulan los órganos facultados para elaborar, ordenar y aplicar los exámenes de ingreso, promoción y permanencia del personal administrativo de este Alto Tribunal; así como cualquier otra disposición que se oponga a lo previsto en este Acuerdo General.
+
+TERCERO. Publíquese este Acuerdo en el Semanario Judicial de la Federación y su Gaceta, en el Diario Oficial de la Federación y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
