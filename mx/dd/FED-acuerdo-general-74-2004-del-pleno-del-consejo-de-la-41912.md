@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-74-2004-del-pleno-del-consejo-de-la-41912"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2004-12-14"
-last_updated: "2004-12-14"
+last_updated: "2006-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41912&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-12-01"
 
 ACUERDO GENERAL 74/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE EL PROCEDIMIENTO ESPECIAL PARA LA SEPARACIÓN DE LOS FUNCIONARIOS POR INCAPACIDAD FÍSICA O MENTAL PARA EL EJERCICIO DE SUS CARGOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE MAYO DE 2006.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federacion, el martes 14 de diciembre de 2004.
 
@@ -77,7 +77,9 @@ DÉCIMO.-Los dictámenes periciales deberán informar si el funcionario afectado
 
 DÉCIMO PRIMERO.-Si el funcionario se niega a someterse a revisión médica o a los estudios clínicos solicitados por el perito designado por la Dirección General de Servicios Médicos y Desarrollo Infantil, se sobreseerá el procedimiento especial, con la consecuencia prevista en el punto décimo octavo del presente acuerdo general.
 
-DÉCIMO SEGUNDO.-Si los dictámenes emitidos por los peritos designados por la Dirección General de Servicios Médicos y Desarrollo Infantil y por el funcionario afectado, respectivamente, fueran contradictorios, el presidente del consejo, solicitará a la Comisión Nacional de Arbitraje Médico, la designación de un perito tercero en discordia.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 26/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE MAYO DE 2006)</small>
+
+DÉCIMO SEGUNDO.- Si los dictámenes emitidos por los peritos designados por la Dirección General de Servicios Médicos y Desarrollo Infantil y por el funcionario afectado, respectivamente, fueran contradictorios, el Presidente del Consejo solicitará al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado o a la Procuraduría General de la República, en su caso, la designación de un perito tercero en discordia. En caso de que el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y la Procuraduría General de la República no estén en posibilidad de proporcionar el perito correspondiente, podrá solicitarlo a otros organismos públicos.
 
 DÉCIMO TERCERO.-Una vez rendidos los respectivos peritajes, se turnará el expediente al consejero que por turno corresponda, a fin de que presente a la consideración del Pleno del Consejo, un proyecto de resolución, ajustándose a lo previsto en los puntos décimo cuarto, décimo quinto y décimo sexto del presente Acuerdo General.
 
@@ -110,3 +112,11 @@ PRIMERO.-El presente acuerdo entrará en vigor el día de su publicación en el 
 SEGUNDO.-Publíquese este acuerdo en el Diario Oficial de la Federación; así como en el Semanario Judicial de la Federación y su Gaceta.
 
 MAESTRO EN DERECHO GONZALO MOCTEZUMA BARRAGÁN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 74/2004 del Pleno del Consejo de la Judicatura Federal, que establece el procedimiento especial para la separación de los funcionarios por incapacidad física o mental para el ejercicio de sus cargos, fue aprobado por el Pleno del propio consejo, en sesión de uno de diciembre de dos mil cuatro, por unanimidad de votos de los señores consejeros: presidente Ministro Mariano Azuela Güitrón, Luis María Aguilar Morales, Adolfo O. Aragón Mendía, Constancio Carrasco Daza, Elvia Díaz de León D'Hers y María Teresa Herrera Tello.-México, Distrito Federal, a uno de diciembre de dos mil cuatro.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 18 DE MAYO DE 2006.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación; así como en el Semanario Judicial de la Federación y su Gaceta.
