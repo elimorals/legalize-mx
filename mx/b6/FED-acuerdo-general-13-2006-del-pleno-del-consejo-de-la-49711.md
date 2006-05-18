@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-13-2006-del-pleno-del-consejo-de-la-49711"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-03-24"
-last_updated: "2006-03-24"
+last_updated: "2006-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49711&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-02-15"
 
 ACUERDO GENERAL 13/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE DETERMINA LA FUNCION, DESIGNACION, SUPERVISION Y REMOCION DEL ANALISTA JURIDICO ENCARGADO DE LA CAPTURA Y ACTUALIZACION DE DATOS EN EL SISTEMA INTEGRAL DE SEGUIMIENTO DE EXPEDIENTES DE LOS ASUNTOS DEL CONOCIMIENTO DE LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE MAYO DE 2006.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 24 de marzo de 2006.
 
@@ -103,7 +103,9 @@ SEXTO.- Designación. La designación del analista jurídico encargado del Siste
 
 SEPTIMO.- Supervisión. La supervisión del registro diario de movimientos de los juicios de amparo, procesos federales y recursos que se tramiten ante los órganos jurisdiccionales, que asegure la permanente actualización y veracidad de la información, estará a cargo del secretario que al efecto designen los titulares o presidentes de los órganos jurisdiccionales.
 
-OCTAVO.- Remoción. El analista jurídico que no cumpla con las funciones encomendadas para el desempeño de su actividad será removido de su cargo, por la Comisión de Administración del Consejo de la Judicatura Federal, a propuesta del titular o presidente del órgano jurisdiccional de que se trate, quien con autorización de ésta suscribirá y tramitará el aviso de baja correspondiente ante la Dirección General de Recursos Humanos, en su caso, a través de la administración regional o delegación administrativa respectiva, y lo hará del conocimiento de la Unidad de Estadística y Planeación Judicial.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 30/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE MAYO DE 2006)</small>
+
+OCTAVO.- El Analista Jurídico que no cumpla con las funciones encomendadas para el desempeño de su actividad, será removido de su cargo, por el titular o presidente del órgano jurisdiccional de que se trate, quien suscribirá y tramitará el aviso de baja correspondiente ante la Dirección General de Recursos Humanos, o en su caso, a través de la Administración Regional o Delegación Administrativa respectiva, y lo hará del conocimiento de la Dirección General de Estadística y Planeación Judicial.
 
 ## TRANSITORIOS
 
@@ -114,3 +116,15 @@ SEGUNDO.- Las personas que al inicio de la vigencia de este acuerdo se encuentre
 TERCERO.- Publíquese este acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta.
 
 EL MAESTRO EN DERECHO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 13/2006, del Pleno del Consejo de la Judicatura Federal, que Determina la Función, Designación, Supervisión y Remoción del Analista Jurídico Encargado de la Captura y Actualización de Datos en el Sistema Integral de Seguimiento de Expedientes de los Asuntos del Conocimiento de los Tribunales de Circuito y Juzgados de Distrito del Poder Judicial de la Federación, fue aprobado por el Pleno del propio Consejo, en sesión de quince de febrero de dos mil seis, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Luis María Aguilar Morales, Adolfo O. Aragón Mendía, Constancio Carrasco Daza, Elvia Díaz de León D´Hers, María Teresa Herrera Tello y Miguel A. Quirós Pérez.- México, Distrito Federal, a quince de febrero de dos mil seis.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 18 DE MAYO DE 2006.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El texto de esta reforma deberá integrarse, de inmediato, al Acuerdo General 13/2006, del Pleno del Consejo de la Judicatura Federal.
+
+TERCERO.- Se deroga cualquier disposición emitida por este Consejo de la Judicatura Federal que se oponga al presente Acuerdo.
+
+CUARTO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
