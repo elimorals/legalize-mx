@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2005-07-26"
+last_updated: "2006-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JULIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 2006.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -257,13 +257,13 @@ El Estado de San Luis Potosí reconoce y respeta la supremacía de la vida human
 
 ### CAPÍTULO I. De la Comisión Estatal de Derechos Humanos
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2006)</small>
 
 ###### ARTÍCULO 17.
 
-La Comisión Estatal de Derechos Humanos es el organismo público encargado de conocer de las quejas en contra de los actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público, que violen los derechos humanos que otorga el orden jurídico mexicano. Sus recomendaciones serán públicas, autónomas y no vinculatorias, y podrá presentar denuncias y quejas ante las autoridades respectivas.
+La Comisión Estatal de Derechos Humanos es un organismo público, de participación ciudadana y de servicio gratuito; dotado de plena autonomía presupuestal, técnica y de gestión; que tiene por objeto esencial la protección, observancia, promoción, estudio y difusión de los derechos humanos.
 
-La Comisión no será competente para conocer de asuntos electorales, jurisdiccionales y laborales.
+La Comisión será la encargada de conocer de las peticiones, quejas y denuncias en contra de los actos y omisiones de naturaleza administrativa, provenientes de cualquier autoridad o servidor público, estatal o municipal, que violen los derechos humanos reconocidos por el orden jurídico mexicano e internacional; pero no será competente para conocer de asuntos electorales, jurisdiccionales y laborales. Sus recomendaciones serán públicas, autónomas y no vinculatorias; y podrá presentar denuncias y quejas ante las autoridades respectivas.
 
 La ley determinará la organización, integración y atribuciones de la Comisión.
 
@@ -677,13 +677,31 @@ En el primer período ordinario de sesiones, el Congreso del Estado se ocupará 
 
 En el segundo se ocupará, con la misma preferencia, de revisar y aprobar, en su caso, las cuentas públicas del Estado, de los Municipios y de sus organismos descentralizados y entidades, relativas al año próximo anterior.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-###### ARTÍCULO 54.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2006)</small>
 
-La revisión de las cuentas públicas tendrá como objeto conocer los resultados de la gestión financiera, comprobar si están ajustadas a los criterios señalados por el presupuesto y el cumplimiento de los programas respectivos.
+###### ARTICULO 54.
 
-Si del examen que realice el Congreso del Estado, a través de la Contaduría Mayor de Hacienda, aparecen discrepancias entre las cantidades gastadas y las partidas respectivas del presupuesto, o no existe exactitud o justificación en los gastos hechos, así lo hará constar para que la autoridad competente proceda a fincar las responsabilidades de acuerdo con la ley.
+Corresponde al Congreso del Estado, a través de la Auditoría Superior del Estado, el examen y la revisión de las cuentas públicas de los poderes del Estado, los municipios y sus entidades, así como de los organismos constitucionales autónomos y demás entes auditables; que tendrá por objeto conocer los resultados de la gestión financiera, y comprobar si están ajustadas a las normas y criterios señalados por las leyes y los presupuestos respectivos, así como el cumplimiento de los objetivos contenidos en los programas de gobierno, estatales y municipales.
+
+La Auditoría Superior del Estado contará con autonomía administrativa, técnica y de gestión, para llevar a cabo la función de fiscalización superior, para lo cual contará con las atribuciones que la ley señale.
+
+La Auditoría Superior del Estado deberá entregar al Congreso del Estado, el informe final de auditoría correspondiente a las cuentas públicas de los poderes del Estado, a más tardar el quince de junio del año en que éstas hayan sido presentadas; y los informes relativos a las cuentas públicas de los demás entes auditables, a más tardar el último día de mayo del año de su presentación, a efecto de que éste revise que los informes se realizaron apegados a las disposiciones legales aplicables y emita, en su caso, las observaciones correspondientes. Dentro de dichos informes se incluirán los resultados de la revisión de las cuentas públicas, y el apartado correspondiente a la fiscalización y verificación del cumplimiento de los objetivos contenidos en los programas estatales y municipales, que comprenderá los comentarios y observaciones de los auditados.
+
+Si del examen que se realice aparecieren discrepancias entre las cantidades presupuestadas y las ejercidas, o no existiera exactitud o justificación de los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la ley.
+
+Corresponde a la Auditoría Superior del Estado, determinar conforme al procedimiento señalado en la ley, los daños y perjuicios que afecten a la Hacienda Pública Estatal o de los municipios, o al patrimonio de otros sujetos de fiscalización; y fincar directamente a los servidores públicos la responsabilidad que proceda, determinando la reparación del daño o indemnización que corresponda, e imponer las sanciones pecuniarias por irregularidades administrativas; así como promover ante las autoridades competentes, el fincamiento de otras responsabilidades; promover las acciones de responsabilidad a que se refiere el Título Décimo Segundo de esta Constitución; y presentar denuncias y querellas penales, en términos de la legislación aplicable.
+
+La Auditoría Superior del Estado deberá guardar reserva de sus actuaciones y observaciones, hasta que rinda los informes a que se refiere este artículo; la ley establecerá las sanciones aplicables a quienes infrinjan esta disposición.
+
+Al frente de la Auditoría Superior del Estado estará el Auditor Superior del Estado, quien será nombrado por el Congreso del Estado, por el voto de las dos terceras partes de sus miembros presentes.
+
+El Auditor Superior del Estado durará en su cargo cuatro años y podrá ser ratificado por una sola vez. No será removido sino exclusivamente por las causas graves a que se refiere la ley y con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título Décimo Segundo de la presente Constitución.
+
+Para ser titular de la Auditoría Superior del Estado, se requiere cumplir, además de los requisitos establecidos en las fracciones I, II, IV, V y VI del artículo 99 de esta Constitución, los que señale la ley. Durante el ejercicio de su encargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
+
+El Auditor Superior del Estado tendrá la facultad de nombrar, promover, suspender y remover al personal a su cargo, conforme a la ley.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -729,7 +747,11 @@ X.- Elaborar su respectivo presupuesto de egresos, remitiéndolo al Ejecutivo pa
 
 XI.- Fijar los ingresos y egresos del Estado con base en los presupuestos anuales que el Ejecutivo deberá presentar;
 
-XII.- Examinar y en su caso aprobar las cuentas de la administración e inversión de los caudales públicos del Estado;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2006)</small>
+
+XII.- Revisar y examinar, por conducto de la Auditoría Superior del Estado y, en su caso, señalar las irregularidades en las cuentas y actos relativos a la administración, inversión y aplicación de fondos públicos del Estado, de los municipios y sus entidades, así como de los organismos constitucionales autónomos, y proceder en los términos de ley;
 
 XIII.- Crear y suprimir empleos públicos del Estado. Al aprobar el presupuesto general no podrá dejar de fijar la remuneración que corresponda a un empleo que esté establecido por la ley; y en el caso de que por cualquier circunstancia omita fijar dicha remuneración, se entenderá por señalada la que hubiere tenido en el presupuesto anterior o en la ley que estableció el empleo;
 
@@ -747,7 +769,9 @@ XVIII.- Aprobar el Plan Estatal de Desarrollo;
 
 XIX.- Fijar las contribuciones que deban recibir los municipios; establecer anualmente las bases, montos y plazos para la entrega de las participaciones federales que les corresponden y aprobar sus leyes de ingresos, cuotas y tarifas de los servicios públicos, conforme lo establezcan las leyes respectivas;
 
-XX.- Revisar y examinar, por conducto de la Contaduría Mayor de Hacienda y, en su caso, aprobar las cuentas y actos relativos a la aplicación de fondos públicos del Estado, de los municipios y sus entidades;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+XX.- (DEROGADA, P.O. 18 DE MAYO DE 2006)
 
 XXI.- Otorgar al Gobernador, por tiempo limitado, facultades extraordinarias en casos de desastre o perturbación grave de la paz pública. Las facultades extraordinarias quedarán precisadas en el decreto respectivo, debiendo aprobar o reprobar los actos emanados del uso de las mismas;
 
@@ -805,7 +829,11 @@ XLI.- Conceder premios y reconocimientos por servicios eminentes e importantes p
 
 XLII.- Trasladar, a solicitud del Ejecutivo, la residencia de los Poderes del Estado cuando sea necesario por circunstancias extraordinarias;
 
-XLIII.- Nombrar y remover libremente al Oficial Mayor y al Contador Mayor de Hacienda y, en general, a los empleados del Congreso;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2006)</small>
+
+XLIII.- Nombrar y remover libremente al Oficial Mayor y a los empleados del Congreso; así como nombrar y remover al Auditor Superior del Estado, en los términos y conforme a los procedimientos previstos en esta Constitución y en la ley;
 
 XLIV.- Calificar las excusas que expongan el Gobernador, diputados al Congreso local y miembros de los ayuntamientos de los municipios del Estado, para no desempeñar los cargos para los que han sido electos;
 
@@ -1047,7 +1075,11 @@ IV.- Concurrir a la apertura y clausura de los períodos ordinarios y extraordin
 
 V.- Presentar ante el Congreso del Estado, durante la segunda quincena de septiembre de cada año, un informe por escrito en el que manifieste el estado que guarda la administración pública y comparecer posteriormente, cuando así lo acuerde con el Poder Legislativo, a fin de responder a las observaciones que los Diputados le presenten sobre el particular;
 
-VI.- Rendir al Congreso, en forma mensual y por escrito, un estado de información financiera que refleje la situación que guarda la hacienda pública del Estado y, en forma trimestral, su cuenta pública;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2006)</small>
+
+VI.- Rendir al Congreso del Estado, en forma trimestral y por escrito, a más tardar el día quince del mes siguiente al periodo de que se trate, un estado de información financiera que refleje la situación que guarda la hacienda pública del Estado y, en forma anual, su cuenta pública, la que presentará a más tardar el último día de febrero del año siguiente al que corresponda su ejercicio;
 
 VII.- Presentar a la Legislatura del Estado, a más tardar el día quince de noviembre de cada año, las correspondientes iniciativas de Leyes de Ingresos y del Presupuesto de Egresos para el siguiente año;
 
@@ -1851,11 +1883,13 @@ III.- Se aplicarán sanciones administrativas a los servidores públicos por los
 
 Se concede acción popular para denunciar los supuestos anteriores.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JULIO DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MAYO DE 2006)</small>
 
 ###### ARTÍCULO 126.
 
-Podrán ser sujetos de Juicio Político en el Estado, los diputados, magistrados, consejeros de la Judicatura, jueces de Primera Instancia, secretarios de Despacho, Procurador General de Justicia, subsecretarios, directores generales o sus equivalentes de las dependencias y entidades paraestatales y paramunicipales, el Presidente de la Comisión Estatal de Derechos Humanos, así como los presidentes municipales, regidores y síndicos.
+Podrán ser sujetos de Juicio Político en el Estado, los diputados, magistrados, consejeros de la Judicatura, jueces de Primera Instancia, secretarios de Despacho, Procurador General de Justicia, subsecretarios, directores generales o sus equivalentes de las dependencias y entidades paraestatales y paramunicipales, titulares de los organismos constitucionales autónomos, así como los presidentes municipales, regidores y síndicos.
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1873,19 +1907,31 @@ En los casos a que se refiere el segundo párrafo del Artículo 110 de la Consti
 
 Las declaraciones y resoluciones del Congreso no son recurribles.
 
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MAYO DE 2006)</small>
 
 ###### ARTÍCULO 127.
 
-Para proceder penalmente contra los Secretarios de Despacho, Procurador General de Justicia, Diputados, Magistrados del Supremo Tribunal de Justicia y Presidentes Municipales, por la presunta comisión de delitos durante el tiempo y sólo en el ejercicio de su encargo, el Congreso del Estado declarará, por el voto de cuando menos las dos terceras partes de sus miembros, si ha o no lugar a proceder contra el presunto responsable; si la resolución del Congreso fuese negativa, se suspenderá todo trámite ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga sobre los fundamentos de la imputación.
+Para proceder penalmente contra los secretarios de Despacho, Procurador General de Justicia, diputados, magistrados del Supremo Tribunal de Justicia, presidentes municipales y Auditor Superior del Estado, por la presunta comisión de delitos durante el tiempo y sólo en el ejercicio de su encargo, el Congreso del Estado declarará, por el voto de cuando menos las dos terceras partes de sus miembros, si ha o no lugar a proceder contra el presunto responsable; si la resolución del Congreso fuese negativa, se suspenderá todo trámite ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga sobre los fundamentos de la imputación.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 Si el Congreso declara que ha lugar a proceder, el sujeto quedará a disposición de las autoridades competentes para que actúen con arreglo a la ley.
 
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+
 En los casos a que se refiere el artículo 111, párrafo quinto, de la Constitución Política de los Estados Unidos Mexicanos, recibidas las constancias por el Congreso y previa la integración de cualquier otro elemento pertinente, se remitirán a las autoridades federales competentes para que actúen conforme a la ley. Tratándose del Gobernador del Estado, se procederá en los términos del artículo 128 de esta Constitución.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 Las declaraciones y resoluciones del Congreso no son recurribles.
 
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+
 El efecto de la declaración de que ha lugar a proceder contra el inculpado, será separarlo de su encargo. Si la sentencia fuese absolutoria, será rehabilitado en los términos que disponga la ley.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 En las demandas del orden civil no se requerirá declaración de procedencia.
 
@@ -1959,7 +2005,11 @@ Todo funcionario, antes de tomar posesión de su empleo, hará la protesta de gu
 
 Las adquisiciones, arrendamientos y enajenaciones de toda clase de bienes, la prestación de servicios de cualquier naturaleza y la contratación de obra se llevarán a cabo y adjudicarán, de manera que se garanticen al Estado y sus municipios las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, según las leyes respectivas.
 
-La Contaduría Mayor de Hacienda del Congreso del Estado y las Contralorías de los Poderes Ejecutivo y Judicial, así como de los ayuntamientos, en el ámbito de sus competencias, vigilarán el estricto cumplimiento de esta disposición.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2006)</small>
+
+La Auditoría Superior del Estado y las contralorías de los poderes Legislativo, Ejecutivo y Judicial, así como de los ayuntamientos, en el ámbito de sus competencias, vigilarán el estricto cumplimiento de esta disposición.
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -2364,3 +2414,23 @@ F) En caso de no reelección, se notificará al Ejecutivo para que formule las p
 SEPTIMO. Se faculta al Ejecutivo para disponer las ministraciones respectivas del Presupuesto de Egresos del Estado, a fin de dar suficiencia presupuestaria al Consejo de la Judicatura.
 
 OCTAVO. Instalado el Consejo de la Judicatura, se coordinará con el Supremo Tribunal de Justicia del Estado, a efecto de definir las cuestiones relativas a la adscripción del personal de carácter administrativo.
+
+P.O. 18 DE MAYO DE 2006.
+
+DECRETO No. 496, POR EL QUE SE REFORMA EL ARTICULO 17 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI.
+
+PRIMERO. Una vez ratificado por los ayuntamientos de la Entidad conforme lo establecido en el artículo 138 de la Constitución Local, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abrogan todas las disposiciones que se opongan a este decreto.
+
+P.O. 18 DE MAYO DE 2006.
+
+DECRETO No. 497, POR EL QUE SE REFORMAN LOS ARTICULOS 54; 57 FRACCIONES XII Y XLIII; 80 FRACCION VI; 126 PRIMER PARRAFO; 127 PRIMER PARRAFO; Y 135 SEGUNDO PARRAFO. Y SE DEROGA LA FRACCION XX DEL ARTICULO 57, DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI.
+
+PRIMERO. Una vez ratificado por los ayuntamientos de la Entidad conforme lo establecido en el artículo 138 de la Constitución Local, y previa publicación en el Periódico Oficial de Estado, el presente Decreto entrará en vigor el día uno de enero del año dos mil siete.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+TERCERO. En tanto se reforman las leyes secundarias, las referencias a la Contaduría Mayor de Hacienda se entenderán hechas a la Auditoría Superior del Estado; y las del Contador Mayor de Hacienda al Auditor Superior del Estado.
+
+CUARTO. El Congreso del Estado expedirá la Ley de la Auditoría Superior del Estado, para que entre en vigor el día uno de enero del año dos mil siete.
