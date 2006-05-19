@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-notariado-para-el-distrito-federal-15943"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-28"
-last_updated: "2006-01-25"
+last_updated: "2006-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15943&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-02-14"
 
 LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 25 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE MAYO DE 2006.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 28 de marzo de 2000.
 
@@ -1106,9 +1106,11 @@ IV. Si el poder o mandato renunciado o revocado constare en protocolo fuera del 
 
 Cuando se revoque, rescinda o modifique un acto contenido en una escritura, se deberá extender una nueva escritura y se realizará la anotación o la comunicación que procedan en los términos previstos en el artículo anterior, para que se haga la anotación correspondiente.
 
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2006)</small>
+
 ###### Artículo 121.
 
-Siempre que ante un notario se otorgue un testamento, éste dará aviso al Archivo, dentro de los cinco días hábiles siguientes, en el que expresará la fecha del otorgamiento, el nombre y demás generales del testador, y recabará la constancia correspondiente. En caso de que el testador manifieste en su testamento los nombres de sus padres, se incluirán éstos en el aviso.
+Siempre que ante un notario se otorgue un testamento, éste dará aviso al Archivo, dentro de los cinco días hábiles siguientes, en el que expresará la fecha del otorgamiento, el número de notaría, nombre completo del notario, tipo de testamento, número de escritura, volumen o tomo, el nombre, sus demás generales, en su caso cualquier otro dato que requiera el formato para integrar los avisos de testamento, y recabará la constancia correspondiente. En caso de que el testador manifieste en su testamento los nombres de sus padres, se incluirán éstos en el aviso.
 
 ###### Artículo 122.
 
@@ -2325,5 +2327,11 @@ TERCERO.- Para los efectos de lo dispuesto en el tercer párrafo de este artícu
 G.O. 25 DE ENERO DE 2006.
 
 PRIMERO.- Remítase al Jefe de Gobierno para su debida promulgación y publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las presentes reformas entrarán en vigor a los treinta días naturales siguientes de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 19 DE MAYO DE 2006.
+
+PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal para su debida promulgación y publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
 
 SEGUNDO.- Las presentes reformas entrarán en vigor a los treinta días naturales siguientes de su publicación en la Gaceta Oficial del Distrito Federal.
