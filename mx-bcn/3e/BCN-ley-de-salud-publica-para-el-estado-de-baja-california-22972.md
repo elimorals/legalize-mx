@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2005-08-12"
+last_updated: "2006-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SALUD PUBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MAYO DE 2006.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -321,7 +321,7 @@ VIII.- La prevención y el control de las enfermedades transmisibles de atenció
 
 > <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2005)</small>
 
-IX.- La prevención y control de las enfermedades bucodentales, visulaes y auditivas.
+IX.- La prevención y control de las enfermedades bucodentales, visuales y auditivas.
 
 X.- La disponibilidad de medicamentos y otros insumos esenciales para la salud; y
 
@@ -379,9 +379,15 @@ I.- Los programas para padres destinados a promover la atención materno infanti
 
 II.- Las actividades recreativas, de esparcimiento y culturales destinadas a fortalecer el núcleo familiar y promover la salud física y mental de sus integrantes;
 
-III.- La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas; y
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2006)</small>
 
-IV.- Las demás que coadyuven a la protección de la salud materno-infantil.
+III.- La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE MAYO DE 2006)</small>
+
+IV.- La suspensión de la calidad nutricional de los alimentos que se proporcionan o venden a los niños en las instituciones educativas de conformidad a lo dispuesto en las Normas Oficiales Mexicanas, a fin de evitar aquellos, que a criterio de la propia Secretaría de Salud del Estado, causen daño a la salud ya sea por su contenido o por las prácticas de higiene y sanidad en su preparación, de conformidad con los lineamientos que en la materia se expidan; y,
+
+V.- Las demás que coadyuven a la protección de la salud materno-infantil.
 
 ###### ARTÍCULO 25.
 
@@ -1746,3 +1752,13 @@ P.O. 12 DE AGOSTO DE 2005.
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- El Ejecutivo del Estado por conducto de la Secretaría de Salud del Estado, promoverá la creación de Programas de Salud Bucodental, auditiva y visual, dentro de un término no mayor a seis meses, contados a partir de la entrada en vigor de estas reformas, para dicho efecto tomará en cuanta los programas ya existentes, adecuando su contenido.
+
+P.O. 19 DE MAYO DE 2006.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- El Congreso del Estado deberá realizar las adecuaciones presupuestales necesarias a fin de destinar los recursos económicos suficientes para el cumplimiento de la presente reforma.
+
+TERCERO.- Para el debido a (sic) cumplimiento de la presente reforma, y en caso de no existir Norma Oficial Mexicana aplicable al propósito de la misma, se emplearán los criterios o lineamientos que en materia de nutrición sean aplicables, o al efecto se expidan por la propia Secretaría de Salud del Estado.
+
+CUARTO.- La Secretaría de Salud del Estado deberá remitir los lineamientos y criterios al Sistema Estatal de Educación y Bienestar Social para su conocimiento.
