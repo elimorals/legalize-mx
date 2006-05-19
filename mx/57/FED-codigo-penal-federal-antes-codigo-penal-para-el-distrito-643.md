@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2006-02-08"
+last_updated: "2006-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE MAYO DE 2006.
 
 Código publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -4485,21 +4485,17 @@ Siempre que sea condenado el responsable de una injuria, de una difamación o de
 
 Se impondrá de seis meses a tres años de prisión y de veinticinco a cien días multa:
 
-> <small>(REFORMADA, D.O.F. 13 DE MAYO DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE MAYO DE 2006)</small>
 
-I.- Al particular que prive a otro de su libertad hasta por cinco días. Si la privación de la libertad excede de cinco días, la pena de prisión será de un mes más por cada día.
+I.- Al particular que prive a otro de su libertad. Si la privación de la libertad excede de veinticuatro horas, la pena de prisión se incrementará de un mes más por cada día.
 
 > <small>(ADICIONADO, D.O.F. 13 DE MAYO DE 1996)</small>
 
 La pena de prisión se aumentará hasta en una mitad, cuando la privación de la libertad se realice con violencia, cuando la víctima sea menor de dieciséis o mayor de sesenta años de edad, o cuando por cualquier circunstancia, la víctima esté en situación de inferioridad física o mental respecto de quien la ejecuta.
 
-> <small>(ADICIONADO, D.O.F. 13 DE MAYO DE 1996)</small>
+> <small>(DEROGADO TERCER PARRAFO, D.O.F. 19 DE MAYO DE 2006)</small>
 
-Si el agente espontáneamente libera a la víctima dentro de los tres días siguientes al de la privación de la libertad, la pena de prisión será de hasta la mitad, y
-
-> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
-
-II.- Al que de alguna manera viole, con perjuicio de otro, los derechos y garantías establecidos por la Constitución General de la República en favor de las personas.
+II.- (DEROGADA, D.O.F. 19 DE MAYO DE 2006)
 
 > <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
@@ -6204,3 +6200,7 @@ D.O.F. 8 DE FEBRERO DE 2006.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
+
+D.O.F. 19 DE MAYO DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
