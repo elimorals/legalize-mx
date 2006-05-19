@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-la-defensoria-de-oficio-del-estado-de-baja-california-33
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-22"
-last_updated: "2003-08-22"
+last_updated: "2006-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33620&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LA DEFENSORIA DE OFICIO DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MAYO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 22 de agosto de 2003.
 
@@ -39,13 +39,17 @@ LEY DE LA DEFENSORIA DE OFICIO DEL ESTADO DE BAJA CALIFORNIA
 
 La presente ley es de interés social y tiene por objeto regular el funcionamiento y la organización de la Defensoría de Oficio del Estado de Baja California.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE MAYO DE 2006)</small>
+
 ###### Artículo 2.
 
-La Defensoría de Oficio es una Institución de orden público e interés social que tiene como fin garantizar el acceso a la defensa jurídica, patrocinio y asesoría gratuita, a personas de escasos recursos económicos, para la adecuada defensa y protección de sus derechos y garantías individuales a través de los siguientes servicios:
+La Defensoría de Oficio es una Institución de orden público e Interés social que tiene como fin garantizar el acceso a la defensa jurídica, patrocinio y asesoría gratuita, a personas de escasos recursos económicos, para la adecuada defensa y protección de sus derechos y garantías individuales a través de los siguientes servicios:
 
 I.- Defender jurídicamente en materia penal, en cualquier etapa del procedimiento a las personas que lo soliciten, o cuando a falta de un defensor particular, el ministerio público o el juez designe al de oficio;
 
-II.- Patrocinar en materia familiar y civil, a las personas que no cuenten con los recursos económicos necesarios para contratar o continuar con los servicios de un abogado particular, debiendo al interesado demostrar su situación patrimonial en términos del Reglamento;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2006)</small>
+
+II.- Patrocinar en materia familiar, civil y administrativa, a las personas que no cuenten con los recursos económicos necesarios para contratar o continuar con los servicios de un abogado particular, debiendo el interesado demostrar su situación patrimonial en términos del Reglamento;
 
 III.- Orientar y asesorar en materia jurídica a las personas que lo soliciten;
 
@@ -85,9 +89,11 @@ II.- Un cuerpo de defensores de Oficio; y,
 
 III.- El personal Administrativo que determine su Reglamento Interno.
 
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2006)</small>
+
 ###### Artículo 6.
 
-La Defensoría, contará con defensores de oficio en el Tribunal Superior de Justicia del Estado, Procuraduría General de Justicia del Estado, Centros de Readaptación Social, Consejos de Menores y en los juzgados calificadores conforme a los requerimientos del servicio, cuya adscripción se determinará en los términos del Reglamento.
+La Defensoría, contará con defensores de oficio en el Tribunal Superior de Justicia del Estado, Procuraduría General de Justicia del Estado, Tribunal de lo Contencioso Administrativo, Centros de Readaptación Social, Consejos de Menores y en los juzgados calificadores conforme a los requerimientos del servicio, cuya adscripción se determinará en los términos del Reglamento.
 
 ###### Artículo 7.
 
@@ -191,15 +197,21 @@ IV.- Hacer valer las causas excluyentes de responsabilidad a favor de los inculp
 
 V.- Tramitar ante el ministerio público, el juez correspondiente, la libertad provisional bajo caución de los inculpados, en los casos en que proceda;
 
-VI.- Tramitar los recursos de apelación correspondientes en contra de resoluciones dictadas en materia penal, civil y familiar, expresando oportunamente los agravios que procedan;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2006)</small>
+
+VI.- Tramitar los recursos de apelación correspondientes en contra de resoluciones dictadas en materia penal, civil y familiar y de revisión en materia administrativa, expresando oportunamente los agravios que procedan;
 
 VII.- Solicitar la inmediata comunicación con el detenido al ministerio público, juzgados calificadores o comandancias de las direcciones de seguridad pública municipal, cuando por cualquier medio se entere que una persona se encuentra detenida por la posible comisión de un delito, no así cuando se trate de infracciones de cualquier naturaleza;
 
 VIII.- Concurrir periódicamente, a los centros preventivos a efecto de atender a las personas acusadas de la comisión de un delito, y a los centros de readaptación social de su adscripción a entrevistarse con los inculpados, debiendo recabar constancia de cada entrevista;
 
-IX.- Elaborar las demandas y contestaciones en materia civil y familiar, así como cualquier otra promoción que se requiera;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2006)</small>
 
-X.- Asumir el patrocinio de los asuntos del orden civil y familiar que les sean asignados;
+IX.- Elaborar las demandas y contestaciones en materia civil y familiar y administrativa, así como cualquier otra promoción que se requiera;
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2006)</small>
+
+X.- Asumir el patrocinio de los asuntos del orden civil; familiar y administrativo que les sean asignados;
 
 XI.- Promover oportunamente en todas las etapas procedimentales el ofrecimiento y desahogo de las pruebas necesarias; así como la interposición de los recursos e incidentes que procedan y en su caso, el juicio de amparo;
 
@@ -275,9 +287,11 @@ Si existe un motivo para que el defensor de oficio se excuse y no lo hace, el ti
 
 #### SECCION II. De las Abstenciones del Servicio
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE MAYO DE 2006)</small>
+
 ###### Artículo 16.
 
-Se abstendrá de proporcionar el servicio de Defensoría en asuntos del orden civil o familiar en los casos siguientes:
+Se abstendrá de proporcionar el servicio de Defensoría en asuntos del orden civil; familiar o administrativo en los casos siguientes:
 
 I.- Cuando por las condiciones socioeconómicas del solicitante no requiera prestación del servicio, conforme a lo dispuesto en el Reglamento;
 
@@ -291,21 +305,27 @@ IV.- Cuando el solicitante haya sido previamente contraparte de la Defensoría e
 
 Cuando dos partes en un mismo conflicto soliciten el servicio de la Defensoría, ésta, tratará de avenir a las partes, de lo contrario, se le prestará a la que lo haya solicitado en primer término, y se canalizará a la otra, para que sea patrocinada por instituciones académicas, o asociaciones o colegios de profesionistas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE MAYO DE 2006)</small>
+
 ###### Artículo 18.
 
-No se permitirán ni resolverán asuntos del ramo civil por conducto de interpósitas personas, sino que se entenderán con los propios interesados.
+No se permitirán ni resolverán asuntos del ramo civil o administrativo por conducto de interpósitas personas, sino que se entenderán con los propios interesados.
 
 Solo por incapacidad física de éstos para ocurrir a la Defensoría, se podrá tratar de resolver la consulta con algún familiar o pariente cercano del interesado.
 
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2006)</small>
+
 ###### Artículo 19.
 
-Cuando los servicios del defensor de Oficio del ramo civil, sean solicitados por persona respecto de quien haya motivo para creer que no se encuentra en el caso de recibirlos, no se le negará el servicio, pero se comunicará esa circunstancia al titular, para los efectos de que se practique un estudio socioeconómico a dicha persona y de resultar que esta se encuentra en posibilidad de pagar los honorarios de un abogado particular, se abstendrá de seguir prestándole los servicios.
+Cuando los servicios del defensor de Oficio del ramo civil o administrativo, sean solicitados por persona respecto de quien haya motivo para creer que no se encuentra en el caso de recibirlos, no se le negará el servicio, pero se comunicará esa circunstancia al titular, para los efectos de que se practique un estudio socioeconómico a dicha persona y de resultar que esta se encuentra en posibilidad de pagar los honorarios de un abogado particular, se abstendrá de seguir prestándole los servicios.
 
 #### SECCION III. De la Suspensión del Servicio
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE MAYO DE 2006)</small>
+
 ###### Artículo 20.
 
-La Defensoría podrá suspender en forma definitiva el servicio en los asuntos del orden civil y familiar, cuando:
+La Defensoría podrá suspender en forma definitiva el servicio en los asuntos del orden civil y familiar o administrativo, cuando:
 
 I.- El usuario manifieste en forma fehaciente que no tiene interés en que se le siga prestando el servicio de Defensoría;
 
@@ -432,3 +452,11 @@ EUGENIO ELORDUY WALTHER.
 SECRETARIO GENERAL DE GOBIERNO.
 
 BERNARDO H. MARTINEZ AGUIRRE.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE MAYO DE 2006.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Defensoría de oficio del Estado de Baja California preverá lo conducente en su presupuesto de egresos para el funcionamiento de los defensores de oficio de lo contencioso.
