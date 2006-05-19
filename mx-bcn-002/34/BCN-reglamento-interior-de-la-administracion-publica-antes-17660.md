@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-administracion-publica-antes-17660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2006-04-07"
+last_updated: "2006-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MAYO DE 2006.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -735,6 +735,10 @@ c) Junta Municipal de Reclutamiento.
 
 III.- Unidad Municipal de Protección Civil.
 
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2006)</small>
+
+IV.- Unidad Municipal de Acceso a la Información.
+
 ###### ARTICULO 42.
 
 La Subdirección Jurídica tendrá a su cargo apoyar al Secretario del Ayuntamiento en la supervisión del cumplimiento y aplicación de las normas y políticas que correspondan a cada uno de los departamentos a su cargo, así como en atención y seguimiento de los asuntos competencia de éstos que se le encomienden.
@@ -914,6 +918,42 @@ XIII.- Fomentar la cultura de protección civil, a través de la realización de
 > <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
 
 ARTICULO 50 TER.- La Unidad Municipal de Protección Civil, para el cumplimiento de sus atribuciones, contará con una Secretaría Técnica, una Secretaría Técnica Adjunta, una Coordinación del Área de Asesoría Técnica y Planeación de la cual dependerán los Asesores Técnicos e Inspectores, una Coordinación del Área Administrativa de la que dependerán el Auxiliar Administrativo de Recursos Materiales y Humanos, el Auxiliar Administrativo de Recursos Financieros y una Coordinación del Área Preventiva y Educativa.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2006)</small>
+
+ARTICULO 50 QUATER.- La Unidad Municipal de Acceso a la Información, será el vínculo entre el gobierno municipal y el peticionario para la atención de las solicitudes de información, asimismo será la responsable de hacer los requerimientos de la información solicitada a las dependencias y las notificaciones necesarias a la ciudadanía, para ello la Unidad tendrá las siguientes atribuciones:
+
+I.- Recabar, difundir y actualizar en coordinación con los sujetos obligados, la información pública de oficio a que se refiere el presente Reglamento, tramitando su publicación en los medios electrónicos correspondientes del Ayuntamiento, así como el propiciar que las dependencias y entidades de la Administración Pública, la actualicen según un calendario establecido por el Comité;
+
+II.- Contar con una dirección electrónica para asesorar sobre el acceso a la información, así como para recibir comentarios y sugerencias acerca del sistema;
+
+III.- Elaborar formatos de solicitudes de acceso a la información pública, así como los de acceso y corrección de datos personales;
+
+IV.- Recibir y dar trámite a las solicitudes de acceso a la información que no esté disponible en los medios electrónicos respectivos;
+
+V.- Entregar, en su caso, a los peticionarios, la información solicitada;
+
+VI.- Auxiliar a los peticionarios en la elaboración de solicitudes de acceso a la información y de ser necesario, en caso de que la información solicitada corresponda a otra instancia de gobierno, orientarlos sobre el lugar donde se la puedan proporcionar;
+
+VII.- Realizar al interior de la Administración Pública, los trámites necesarios para integrar la información solicitada, además de efectuar las notificaciones a los peticionarios respecto del trámite;
+
+VIII.- Proponer al Comité los procedimientos internos de administración de la información que contribuyan a la mayor eficiencia y eficacia en la atención de las peticiones de acceso a la información;
+
+IX.- Coadyuvar en el diseño de sistemas fáciles de operar para el acceso a la información, para garantizar que la información presentada en los medios electrónicos correspondientes sea comprensible y actualizada;
+
+X.- Proporcionar asesoría a los particulares y servidores públicos del Ayuntamiento sobre la información solicitada cuando sea necesario;
+
+XI.- Llevar un registro de las solicitudes de acceso a la información y sus resultados;
+
+XII.- Elaborar un catálogo de información de expedientes clasificados en primera instancia por los servidores públicos, que será del conocimiento público;
+
+XIII.- Coadyuvar con el Comité, para la elaboración del proyecto de aprobación, modificación o revocación de la clasificación de la información realizada en primera instancia por los servidores públicos;
+
+XIV.- Coadyuvar en la capacitación de los servidores públicos del Ayuntamiento respecto a su participación en asuntos de transparencia, atención ciudadana e información pública;
+
+XV.- Acatar las recomendaciones y requerimientos de informes que realice el Consejo, así como los lineamientos y criterios que determine el Ayuntamiento; y
+
+XVI.- Las demás necesarias para facilitar, agilizar y garantizar el acceso a la información, las que disponga el presente Reglamento y las disposiciones jurídicas aplicables.
 
 ### CAPITULO QUINTO. DE LA OFICIALIA MAYOR
 
@@ -2896,5 +2936,11 @@ P.O. 7 DE ABRIL DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Baja California.
+
+P.O. 19 DE MAYO DE 2006.
+
+PRIMERO.- LAS PRESENTES REFORMAS ENTRARÁN EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.
+
+SEGUNDO.- QUE EL ESQUEMA FUNCIONAL SERÁ ANALIZADO POR LAS COMISIONES CONJUNTAS DE ADMINISTRACIÓN PÚBLICA Y HACIENDA.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 238, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ASISTENCIA SOCIAL, DE LA LEY DE HACIENDA DEL ESTADO Y DE LA LEY PARA EL FOMENTO Y LA PARTICIPACIÓN DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL PARA EL ESTADO DE SONORA”.]
