@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-valladolid-yucatan-36795"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-31"
-last_updated: "2006-01-24"
+last_updated: "2006-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE VALLADOLID, YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE MAYO DE 2006.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el miércoles 31 de diciembre de 2003.
 
@@ -1119,9 +1119,15 @@ Las personas físicas y morales que soliciten los servicios que a continuación 
 
 SERVICIO FACTOR SALARIO MÍNIMO
 
-a) Por certificaciones y constancias expedidas 3.0
+> <small>(REFORMADO, D.O. 19 DE MAYO DE 2006)</small>
 
-b) Por formas oficiales impresas 3.0
+a) Por certificaciones y constancias expedidas
+
+por el Ayuntamiento 1.50
+
+> <small>(REFORMADO, D.O. 19 DE MAYO DE 2006)</small>
+
+b) Por venta de formas oficiales impresas 1.00
 
 c) Por bases de concursos y licitaciones 30.0
 
@@ -1892,3 +1898,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 D.O. 24 DE ENERO DE 2006.
 
 Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 19 DE MAYO DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
