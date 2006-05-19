@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2005-11-25"
+last_updated: "2006-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MAYO DE 2006.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -1979,9 +1979,11 @@ Los cónyuges deben darse alimentos. La Ley determinará cuando queda subsistent
 
 Los padres están obligados a dar alimentos a sus hijos. A falta o por imposibilidad de los padres, la obligación recae en los demás ascendientes por ambas líneas que estuvieren más próximas en grado.
 
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2006)</small>
+
 ###### ARTICULO 301.
 
-Los hijos están obligados a dar alimentos a los padres. A falta o por imposibilidad de los hijos, lo están los descendientes más próximos en grado.
+Los hijos están obligados a dar alimentos a los padres. A falta o por imposibilidad de los hijos, lo están los descendientes más próximos en grado. En el caso de aquellos adultos mayores de sesenta años de edad, que carezcan de capacidad económica, deberán proporcionarles, dentro de sus posibilidades económicas, lo necesario para su atención geriátrica, de preferencia integrándolos a la familia.
 
 ###### ARTICULO 302.
 
@@ -15816,3 +15818,7 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presentes refo
 P.O. 25 DE NOVIEMBRE DE 2005.
 
 ÚNICO.- Las presentes reformas, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE MAYO DE 2006.
+
+ÚNICO.- La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
