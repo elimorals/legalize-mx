@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-administracion-publica-del-distrito-12954"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-29"
-last_updated: "2005-06-15"
+last_updated: "2006-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12954&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-12-14"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE MAYO DE 2006.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 1998.
 
@@ -976,9 +976,13 @@ XXXII. Intervenir directamente o como coadyuvante, ante las autoridades administ
 
 XXXIII. Las demás que le atribuyan expresamente las leyes y reglamentos.
 
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE MAYO DE 2006)</small>
+
 ###### Artículo 35.
 
-A la Consejería Jurídica y de Servicios Legales corresponde el despacho de las materias relativas a las funciones de orientación, asistencia, publicación oficial, y coordinación de asuntos jurídicos; revisión y elaboración de los proyectos de iniciativas de leyes y decretos que presente el Jefe de Gobierno a la Asamblea Legislativa; revisión y elaboración de los proyectos de reglamentos, decretos, acuerdos y demás instrumentos jurídicos y administrativos que se sometan a consideración del Jefe de Gobierno de los servicios relacionados con el Registro Civil, El Registro Público de la Propiedad y de Comercio, y del Archivo General de Notarías.
+A la Consejería Jurídica y de Servicios Legales corresponde el despacho de las materias relativas a las funciones de orientación, asistencia, publicación oficial, y coordinación de asuntos jurídicos; revisión y elaboración de los proyectos de iniciativas de leyes y decretos que presente el Jefe de Gobierno a la Asamblea Legislativa; revisión y elaboración de los proyectos de reglamentos, decretos, acuerdos y demás instrumentos jurídicos y administrativos que se sometan a consideración del Jefe de Gobierno de los servicios relacionados con el Registro Civil, el Registro Público de la Propiedad y de Comercio y del Archivo General de Notarías.
 
 Específicamente cuenta con las siguientes atribuciones:
 
@@ -1020,7 +1024,11 @@ XVIII. Prestar los servicios relacionados con las funciones encomendadas por las
 
 XIX. Prestar los servicios relacionados con las funciones encomendadas por las disposiciones jurídicas al Registro Público de la Propiedad y de Comercio;
 
-XX. Dirigir, organizar y supervisar el Archivo General de Notarías, así como elaborar los lineamientos y criterios técnico-jurídicos a los que se sujetará el mismo, en general, prestar los servicios relacionados con éste;
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO.</small>
+
+> <small>(REFORMADA, G.O. 19 DE MAYO DE 2006)</small>
+
+XX.- Dirigir, organizar y supervisar el Archivo General de Notarías; elaborar los lineamientos y criterios técnico-jurídicos a los que se sujetará el mismo, en general, prestar los servicios relacionados con éste, así como crear, administrar y resguardar la base de datos que contenga los avisos de testamento otorgados en el Distrito Federal o ante cónsul, proporcionando dicha información al Registro Nacional de Avisos de Testamento y remitir a los jueces y notarios los resultados de las búsquedas que a su vez expida el Registro Nacional de Avisos de Testamento;
 
 XXI. Coordinar y vigilar el cumplimiento de las disposiciones jurídicas en materia de jurados, panteones, consejos de tutelas, registro público de la propiedad y de comercio, registro civil, archivo general de notarías, legalizaciones, exhortos y bienes mostrencos, así como intervenir en materia de cultos conforme a las leyes de la materia;
 
@@ -1601,3 +1609,9 @@ TERCERO.- Inscríbase el Decreto y sus anexos en el Registro de los Planes y Pro
 CUARTO.- Los órganos político-administrativos cuyos límites territoriales se modifican, contarán con un término de 180 días naturales contados a partir de la publicación del presente decreto, para trasladar los archivos, documentos y/o procedimientos a la delegación correspondiente.
 
 QUINTO.- Hágase del conocimiento el presente decreto al Instituto Federal Electoral, al Instituto Electoral del Distrito Federal, a la Procuraduría General de Justicia del Distrito Federal, al Tribunal Superior de Justicia del Distrito Federal, y al Tribunal de lo Contencioso Administrativo del Distrito Federal, para los efectos conducentes.
+
+G.O. 19 DE MAYO DE 2006.
+
+PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal para su debida promulgación y publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las presentes reformas entrarán en vigor a los treinta días naturales siguientes de su publicación en la Gaceta Oficial del Distrito Federal.
