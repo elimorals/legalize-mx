@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-acceso-a-la-informacion-publica-para-el-estado-y-los-330
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-29"
-last_updated: "2003-07-29"
+last_updated: "2006-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33056&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE ACCESO A LA INFORMACION PUBLICA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MAYO DE 2006.
 
 Ley Publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el lunes 29 de julio del 2003.
 
@@ -109,7 +109,7 @@ Quien tenga acceso a la información pública sólo podrá utilizarla lícitamen
 
 Para los efectos de esta Ley se entenderá por:
 
-I.- Datos Personales: La información concerniente a una persona física identificada o identificable; entre otra, la relativa a su origen racial o étnico, o que esté referida a sus características físicas, morales o emocionales, a su vida afectiva o familiar, domicilio, número telefónico, patrimonio, ideología, creencias o convicciones religiosas o filosóficas, su estado de salud físico o mental, sus preferencias sexuales, claves informáticas o cibernéticas, códigos personales encriptados u otras análogas que afecten su intimidad;
+I.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 19 DE MAYO DE 2006)
 
 II.- Organismos Autónomos: El Instituto Electoral del Estado de Guanajuato, el Tribunal Estatal Electoral, el Tribunal de lo Contencioso Administrativo, la Procuraduría de los Derechos Humanos, la Universidad de Guanajuato y cualquier otro establecido en la Constitución Política del Estado de Guanajuato o en la legislación estatal;
 
@@ -291,59 +291,33 @@ En el caso de que exista una solicitud de acceso que incluya información confid
 
 En ningún caso podrá calificarse como de carácter personal y por tanto reservada o confidencial, la información relativa a las dietas, sueldos, salarios o remuneraciones percibidas con motivo del ejercicio de cargos, empleos o comisiones de carácter público.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 19 DE MAYO DE 2006)</small>
+
 ### CAPÍTULO QUINTO. DE LA PROTECCIÓN DE DATOS PERSONALES
 
 ###### Artículo 21.
 
-El titular de los datos personales tiene derecho a:
-
-I.- Conocer, actualizar y completar la información referente a ella contenida en bancos de datos y en archivos de los sujetos obligados;
-
-II.- Obtener la corrección o supresión de la información archivada cuando sea incorrecta o cuando los registros sean ilícitos o injustificados;
-
-III.- Solicitar de los sujetos obligados el que se abstengan de otorgar o difundir información que esté protegida por el derecho a la privacidad; y
-
-IV.- Conocer los destinatarios de la información cuando ésta sea entregada, así como las razones que motivaron el pedimento de la misma.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 19 DE MAYO DE 2006)
 
 ###### Artículo 22.
 
-Los sujetos obligados serán responsables de la debida protección de los datos personales que se encuentren en sus archivos; en relación con éstos, deberán:
-
-I.- Adoptar los procedimientos adecuados para recibir y responder las solicitudes de acceso y corrección de datos, así como capacitar a los servidores públicos encargados para tal efecto;
-
-II.- Utilizar los datos personales sólo cuando éstos sean adecuados, pertinentes y no excesivos en relación con los propósitos para los cuales se hayan obtenido;
-
-III.- Informar a los individuos el propósito por el cual se recaban sus datos personales;
-
-IV.- Procurar que los datos personales sean exactos y actualizados. Para ello deberán sustituir, rectificar o completar de oficio, los datos personales que fueren inexactos o incompletos; y
-
-V.- Adoptar las medidas necesarias que garanticen la seguridad de los datos personales y eviten su alteración, pérdida, transmisión y acceso no autorizado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 19 DE MAYO DE 2006)
 
 ###### Artículo 23.
 
-Los sujetos obligados no podrán difundir, distribuir o comercializar los datos personales contenidos en los sistemas de acceso a la información pública, desarrollados en el ejercicio de sus funciones, salvo que haya mediado el consentimiento expreso de los individuos a que haga referencia la información pública.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 19 DE MAYO DE 2006)
 
 ###### Artículo 24.
 
-No se requerirá el consentimiento de los titulares de los datos personales para proporcionarlos en los siguientes casos:
-
-I.- Cuando en situaciones de urgencia, peligre la vida o la integridad personal y se requieran para la prestación de asistencia en salud;
-
-II.- Cuando se entreguen por razones estadísticas, científicas o de interés general previstas en Ley. En estos casos los sujetos obligados entregarán la información de tal manera que no puedan asociarse los datos personales con el individuo a quien se refieran;
-
-III.- Cuando se transmitan entre sujetos obligados en términos de las leyes aplicables;
-
-IV.- Cuando exista una orden judicial; y
-
-V.- Cuando el sujeto obligado contrate a terceros para la prestación de un servicio que requiera el tratamiento de datos personales. Dichos terceros no podrán utilizar los datos personales para propósitos distintos a aquellos para los cuales se les hubieren transmitido.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 19 DE MAYO DE 2006)
 
 ###### Artículo 25.
 
-Sin perjuicio de lo que dispongan otras leyes, sólo el titular de los datos personales o su representante podrá solicitar a la unidad de acceso a la información pública respectiva, previa acreditación, que le proporcione dichos datos personales que obren en un archivo o sistema determinado. Aquélla deberá entregarle la información pública correspondiente en los plazos establecidos en el artículo 42, o bien, le comunicará por escrito que ese archivo o sistema de datos personales no contiene los solicitados.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 19 DE MAYO DE 2006)
 
 ###### Artículo 26.
 
-Sin perjuicio de lo que dispongan otras leyes, la persona interesada o su representante podrá solicitar, previa acreditación, ante la unidad de acceso a la información pública respectiva, que modifique sus datos que obren en cualquier archivo o sistema de datos determinado. La unidad de acceso a la información pública comunicará al solicitante, en un plazo de treinta días hábiles desde la presentación de la solicitud, las modificaciones o, en su caso, las razones y fundamentos por las cuales no procedieron dichas modificaciones.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 19 DE MAYO DE 2006)
 
 ## TÍTULO SEGUNDO. ACCESO A LA INFORMACIÓN PÚBLICA
 
@@ -553,7 +527,7 @@ Contra las resoluciones de las unidades de acceso a la información pública que
 
 El recurso de inconformidad también podrá ser interpuesto cuando:
 
-I.- El sujeto obligado se niegue a efectuar modificaciones o correcciones a los datos personales; y
+I.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 19 DE MAYO DE 2006)
 
 II.- El solicitante considere que la información pública entregada es incompleta o no corresponda a la requerida en la solicitud.
 
@@ -637,7 +611,7 @@ VIII.- La demora injustificada para proporcionar la información pública;
 
 IX.- Proporcionar información falsa; y
 
-X.- Negar la rectificación de los datos o documentos, en los casos en que ésta proceda conforme a lo dispuesto por esta Ley.
+X.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 19 DE MAYO DE 2006)
 
 ### CAPÍTULO SEGUNDO. DE LAS SANCIONES
 
@@ -690,3 +664,21 @@ JUAN CARLOS ROMERO HICKS.
 EL SECRETARIO DE GOBIERNO.
 
 JUAN MANUEL OLIVA RAMÍREZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE MAYO DE 2006.
+
+LEY DE PROTECCION DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO.
+
+Artículo Primero. La presente Ley iniciará su vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Se deroga el Capítulo Quinto del Título Primero que comprende los artículos 21 a 26, la fracción I del artículo 8, la fracción I del artículo 45 y la fracción X del artículo 54, de la Ley de Acceso a la Información Pública para el Estado y los Municipios de Guanajuato.
+
+Artículo Tercero. Cada sujeto obligado expedirá (sic) el Reglamento relativo a los procedimientos para dar trámite a las solicitudes de información, corrección y cancelación de datos personales, así como para ceder los mismos, dentro de un plazo de ciento ochenta días contados a partir de la entrada en vigencia del presente Decreto.
+
+Las solicitudes que antes de la entrada en vigencia de la presente Ley, hayan presentado los particulares ante la Unidad de Acceso, para que les proporcionen o modifiquen sus datos personales que obren en archivo o sistema determinado, deberán concluir observándose las disposiciones contenidas en la Ley de Acceso a la Información Pública para el Estado y los Municipios de Guanajuato, derogadas en el Artículo Segundo Transitorio de este Decreto.
+
+Artículo Cuarto. Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+Artículo Quinto. El Instituto contará con un plazo de noventa días contados a partir de la entrada en vigencia de la presente Ley, para conformar el Registro Estatal de Protección de Datos Personales.
