@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "2005-12-19"
+last_updated: "2006-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE MAYO DE 2006.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -1500,7 +1500,7 @@ a).- De las acciones de petición de herencia;
 
 b).- De las acciones contra la sucesión antes de la partición y adjudicación de los bienes;
 
-c).- De las acciones de nulidad, rescisión y evicción de la partición hereditaria;
+c).- De las acciones de nulidad, rescisión y evicción de la partición hereditaria.
 
 VII.- En los concursos de acreedores el juez del domicilio del deudor;
 
@@ -3544,7 +3544,9 @@ ARTICULO 435
 
 Contra la Sentencia que se dicte procede la apelación en ambos efectos.
 
-ARTICULO 436 (DEROGADO, D.O.F. 21 DE ENERO DE 1967)
+ARTICULO 436
+
+> <small>(DEROGADO, D.O.F. 21 DE ENERO DE 1967)</small>
 
 ARTICULO 437 (DEROGADO, D.O.F. 14 DE MARZO DE 1973)
 
@@ -6012,6 +6014,12 @@ ARTICULO 789
 
 Si durante la tramitación de un intestado apareciere el testamento, se sobreseerá aquél, para abrir el juicio de testamentaría, a no ser que las disposiciones testamentarias se refieran sólo a una parte de los bienes hereditarios. En este caso se acumularán los juicios bajo la representación del ejecutor testamentario y la liquidación y partición serán siempre comunes; los inventarios lo serán también cuando los juicios se acumularen antes de su facción.
 
+> <small>(ADICIONADO, G.O. 19 DE MAYO DE 2006)</small>
+
+ARTICULO 789 BIS
+
+Inmediatamente que se inicie el procedimiento sucesorio, el juez o el notario ante quien se tramite deberá obtener el informe de existencia o inexistencia de alguna disposición testamentaria otorgada por el autor de la sucesión, ante el Archivo Judicial del Tribunal Superior de Justicia y en el Archivo General de Notarías, ambos del Distrito Federal, siendo esta última dependencia la encargada de solicitar la información al Registro Nacional de Avisos de Testamento, sobre la existencia o inexistencia de alguna disposición testamentaria en entidad federativa.
+
 ### CAPITULO II. De las testamentarías
 
 ARTICULO 790
@@ -8130,8 +8138,6 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 
 ...
 
-D.O.F. 24 DE MAYO DE 1996.
-
 SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON EL CODIGO.
 
 PRIMERO.- Las reformas previstas en los artículos 1o. y 3o., del presente decreto, entrarán en vigor sesenta días después de su publicación en el Diario Oficial de la Federación y no serán aplicables a persona alguna que tenga contratados créditos con anterioridad a la entrada en vigor del presente decreto. Tampoco serán aplicables tratándose de la novación o reestructuración de créditos contraídos con anterioridad a la entrada en vigor de este decreto.
@@ -8267,3 +8273,9 @@ PRIMERO. Remítase al Jefe de Gobierno del Distrito Federal para su respectiva p
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 TERCERO. Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 19 DE MAYO DE 2006.
+
+PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal para su debida promulgación y publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las presentes reformas entrarán en vigor a los treinta días naturales siguientes de su publicación en la Gaceta Oficial del Distrito Federal.
