@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2006-02-24"
+last_updated: "2006-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-11"
 
 NUEVO CODIGO PENAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE MAYO DE 2006.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -1790,6 +1790,8 @@ Se impondrán las penas previstas en el artículo anterior, al que se introduzca
 
 Los delitos previstos en este Capítulo, se perseguirán por querella.
 
+> <small>(DEROGADO [N. DE E. REFORMADA SU DENOMINACION] POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCION DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL, G.O. 19 DE MAYO DE 2006)</small>
+
 ### CAPÍTULO I. DISPOSICIONES GENERALES SOBRE SERVIDORES PÚBLICOS
 
 ### CAPÍTULO II. EJERCICIO ILEGAL Y ABANDONO DEL SERVICIO PÚBLICO
@@ -1798,19 +1800,13 @@ Los delitos previstos en este Capítulo, se perseguirán por querella.
 
 ### CAPÍTULO III. ABUSO DE AUTORIDAD Y USO ILEGAL DE LA FUERZA PÚBLICA
 
-## TÍTULO DÉCIMO TERCERO. DELITOS CONTRA LA INTIMIDAD PERSONAL Y LA INVIOLABILIDAD DEL SECRETO
+## TÍTULO DÉCIMO TERCERO. INVIOLABILIDAD DEL SECRETO
 
 ### CAPÍTULO IV. COALICIÓN DE SERVIDORES PÚBLICOS
 
 ###### ARTÍCULO 212.
 
-Se impondrá de seis meses a tres años de prisión, al que sin consentimiento de quien esté legitimado para otorgarlo y, para conocer asuntos relacionados con la intimidad de la persona:
-
-I. Se apodere de documentos u objetos de cualquier clase; o
-
-II. Utilice medios técnicos para escuchar, observar, grabar la imagen o el sonido.
-
-Este delito se perseguirá por querella.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCION DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL, G.O. 19 DE MAYO DE 2006)
 
 ### CAPÍTULO V. USO ILEGAL DE ATRIBUCIONES Y FACULTADES
 
@@ -1824,55 +1820,45 @@ Si el agente conoció o recibió el secreto o comunicación reservada con motivo
 
 Cuando el agente sea servidor público, se le impondrá, además, destitución e inhabilitación de seis meses a tres años.
 
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCION DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL, G.O. 19 DE MAYO DE 2006)</small>
+
 ## TÍTULO DÉCIMO CUARTO. DELITOS CONTRA EL HONOR
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCION DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL, G.O. 19 DE MAYO DE 2006)</small>
 
 ### CAPÍTULO VI. INTIMIDACIÓN
 
 ###### ARTÍCULO 214.
 
-Al que con ánimo de dañar, comunique a una o más personas, la imputación que se hace a otra persona física o moral de un hecho cierto o falso, determinado o indeterminado, que pueda causar o cause a ésta una afectación en su honor, dignidad o reputación, se impondrá prisión de seis meses a dos años o cien a seiscientos días multa o ambas sanciones, a juicio del Juez.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCION DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL, G.O. 19 DE MAYO DE 2006)
 
 ###### ARTÍCULO 215.
 
-No se comete el delito de difamación, cuando:
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCION DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL, G.O. 19 DE MAYO DE 2006)
 
-I. Se manifieste técnicamente un parecer sobre alguna producción literaria, artística, científica o industrial;
-
-II. Se manifieste un juicio sobre la capacidad, instrucción, aptitud o conducta de otro, si se probare que se actuó en cumplimiento de un deber o por interés público o que, con la debida reserva, se hizo por humanidad, por prestar un servicio a persona con quien se tenga parentesco o amistad, o dándose informaciones que se le hubieren pedido; o
-
-III. Se presente un escrito ante el Ministerio Público o tribunales, o se pronuncie un discurso ante los tribunales, que contengan expresiones difamatorias, relacionadas con el asunto que se ventile, pues en tal caso, según la gravedad del hecho, podrá aplicársele al autor alguna de las correcciones disciplinarias permitidas por la ley, siempre y cuando no se extienda a personas extrañas al litigio ni a hechos no relacionados con el asunto de que se trate.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCION DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL, G.O. 19 DE MAYO DE 2006)</small>
 
 ### CAPÍTULO VII. NEGACIÓN DEL SERVICIO PÚBLICO
 
 ###### ARTÍCULO 216.
 
-Al que impute falsamente a otro la comisión de un hecho que la ley califique como delito, a sabiendas de que éste no existe o de que el imputado no es el que lo cometió, se le impondrá prisión de dos a seis años.
-
-Cuando el delito imputado sea grave la pena será de tres a siete años de prisión.
-
-Si el calumniado es condenado por sentencia irrevocable, se impondrá al calumniador la misma sanción que a aquél, pero en ningún caso será menor a las previstas en este precepto.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCION DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL, G.O. 19 DE MAYO DE 2006)
 
 ###### ARTÍCULO 217.
 
-Aunque se acredite la inocencia del calumniado, o que son falsos los hechos en que se apoya la denuncia o querella, no se castigará como calumniador al que las hizo, si probare plenamente haber tenido causas bastantes para incurrir en error.
-
-Tampoco se impondrá sanción alguna al autor de una denuncia o querella, si los hechos que en ellas se imputan son ciertos, aunque no constituyan un delito, y él erróneamente les haya atribuido ese carácter.
-
-Cuando exista una sentencia irrevocable que haya absuelto al calumniado del delito que aquél le imputa, o en que hubiere procedido reconocimiento de inocencia, no se admitirá prueba alguna de su imputación al acusado de calumnia, ni se liberará de la sanción correspondiente.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCION DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL, G.O. 19 DE MAYO DE 2006)
 
 ###### ARTÍCULO 218.
 
-Cuando esté pendiente el proceso seguido por un delito imputado calumniosamente, no correrá la prescripción para la persecución de la calumnia o, en su caso, se suspenderá el procedimiento iniciado por esta última, hasta que se dicte resolución irrevocable que ponga fin al primer proceso.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCION DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL, G.O. 19 DE MAYO DE 2006)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCION DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL, G.O. 19 DE MAYO DE 2006)</small>
 
 ### CAPÍTULO VIII. TRÁFICO DE INFLUENCIA
 
 ###### ARTÍCULO 219.
 
-Los delitos de difamación y calumnia se perseguirán por querella.
-
-Cuando la difamación o la calumnia se refieran a persona ya fallecida, se procederá por querella del cónyuge, concubina o concubinario, pareja permanente, ascendientes, descendientes o hermanos.
-
-Cuando la difamación o la calumnia se hubiese cometido con anterioridad al fallecimiento del ofendido, no procederá la querella de las personas mencionadas, si aquél hubiere permitido la ofensa y pudiendo hacerlo no hubiese presentado la querella, salvo que hubiere prevenido que lo hicieren sus herederos.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCION DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL, G.O. 19 DE MAYO DE 2006)
 
 ## TÍTULO DÉCIMO QUINTO. DELITOS CONTRA EL PATRIMONIO
 
@@ -3699,3 +3685,15 @@ PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal para su respectiva 
 SEGUNDO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
 
 TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 19 DE MAYO DE 2006.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Se deroga el último párrafo del artículo 1916 y el artículo 1916 bis del Código Civil para el Distrito Federal.
+
+TERCERO.- Se deroga el Título Décimo Tercero referente a "Delitos contra la intimidad personal y la inviolabilidad del secreto" Capítulo I "Violación de la Intimidad personal", Artículo 212 sin menoscabo de lo establecido en el 213 quedando el Título como "Inviolabilidad del secreto" y el Título Décimo Cuarto del Código Penal para el Distrito Federal nominado: "Delitos contra el honor" Artículos 214, 215, 216, 217, 218 y 219.
+
+CUARTO.- Los juicios en materia civil que se estén tramitando antes de la entrada en vigor de la presente ley se sujetarán en los sustantivo a la ley vigente al momento en que ocurrieron los hechos. Los de materia penal se sobreseerán al momento de la entrada en vigor de la presente ley. En cuanto al procedimiento las partes de común acuerdo podrán solicitar al Juez que tenga a su cargo el caso, la continuación del procedimiento en los términos de la presente ley.
+
+QUINTO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
