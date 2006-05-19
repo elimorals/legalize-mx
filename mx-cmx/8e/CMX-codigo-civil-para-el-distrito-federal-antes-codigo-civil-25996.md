@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2006-05-03"
+last_updated: "2006-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE MAYO DE 2006.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -9215,15 +9215,9 @@ La acción de reparación no es transmisible a terceros por acto entre vivos y s
 
 El monto de la indemnización lo determinará el juez tomando en cuenta los derechos lesionados, el grado de responsabilidad, la situación económica del responsable, y la de la víctima, así como las demás circunstancias del caso.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(DEROGADO ULTIMO PARRAFO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCION DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL, G.O. 19 DE MAYO DE 2006)</small>
 
-Cuando el daño moral haya afectado a la víctima en su decoro, honor, reputación o consideración, el juez ordenará, a petición de ésta y con cargo al responsable, la publicación de un extracto de la sentencia que refleje adecuadamente la naturaleza y alcance de la misma, a través de los medios informativos que considere convenientes. En los casos en que el daño derive de un acto que haya tenido difusión en los medios informativos, el juez ordenará que los mismos den publicidad al extracto de la sentencia, con la misma relevancia que hubiere tenido la difusión original.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-ARTICULO 1,916 Bis.- No estará obligado a la reparación del daño moral quien ejerza sus derechos de opinión, crítica, expresión e información, en los términos y con las limitaciones de los artículos 6o. y 7o. de la Constitución General de la República.
-
-En todo caso, quien demande la reparación del daño moral por responsabilidad contractual o extracontractual deberá acreditar plenamente la ilicitud de la conducta del demandado y el daño que directamente le hubiere causado tal conducta.
+ARTICULO 1,916 Bis.- (DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCION DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL, G.O. 19 DE MAYO DE 2006)
 
 ARTICULO 1,917.- Las personas que han causado en común un daño, son responsables solidariamente hacia la víctima por la reparación a que están obligadas de acuerdo con las disposiciones de este Capítulo.
 
@@ -9795,7 +9789,7 @@ ARTICULO 2,106.- La responsabilidad procedente de dolo es exigible en todas las 
 
 ARTICULO 2,107.- La responsabilidad de que se trata en este Título, además de importar la devolución de la cosa o su precio, o la de entrambos (sic), en su caso, importará la reparación de los daños y la indemnización de los perjuicios.
 
-ARTICULO 2,108.- Se entiende por daño la perdida o menoscabo sufrido en el patrimonio por la falta de cumplimiento de una obligación.
+ARTICULO 2,108.- Se entiende por daño la pérdida o menoscabo sufrido en el patrimonio por la falta de cumplimiento de una obligación.
 
 ARTICULO 2,109.- Se reputa perjuicio la privación de cualquiera ganancia lícita, que debiera haberse obtenido con el cumplimiento de la obligación.
 
@@ -11775,7 +11769,7 @@ III.- Para tomar capitales prestados.
 
 ARTICULO 2,713.- Las facultades que no se hayan concedido a los administradores, serán ejercitadas por todos los socios, resolviéndose los asuntos por mayoría de votos. La mayoría se computará por cantidades, pero cuando una sola persona represente el mayor interés y se trate de sociedades de más de tres socios, se necesita por lo menos el voto de la tercera parte de los socios.
 
-ARTICULO 2,714.- Siendo varios los socios encargados indistintamente de la administración, sin declaración de que deberán proceder de acuerdo, podrá cada uno de ´rllos practicar separadamente los actos administrativos que crea oportunos.
+ARTICULO 2,714.- Siendo varios los socios encargados indistintamente de la administración, sin declaración de que deberán proceder de acuerdo, podrá cada uno de éllos practicar separadamente los actos administrativos que crea oportunos.
 
 ARTICULO 2,715.- Si se ha convenido en que un administrador nada pueda practicar sin concurso de otro, solamente podrá proceder de otra manera, en caso de que pueda resultar perjuicio grave e irreparable a la sociedad.
 
@@ -13892,3 +13886,15 @@ G.O. 3 DE MAYO DE 2006.
 PRIMERO.- Remítase al Jefe de Gobierno para su debida promulgación y publicación en la Gaceta Oficial del Distrito Federal y para mayor difusión en el Diario Oficial de la Federación.
 
 SEGUNDO.- La presente reforma entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 19 DE MAYO DE 2006.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Se deroga el último párrafo del artículo 1916 y el artículo 1916 bis del Código Civil para el Distrito Federal.
+
+TERCERO.- Se deroga el Título Décimo Tercero referente a "Delitos contra la intimidad personal y la inviolabilidad del secreto" Capítulo I "Violación de la Intimidad personal", Artículo 212 sin menoscabo de lo establecido en el 213 quedando el Título como "Inviolabilidad del secreto" y el Título Décimo Cuarto del Código Penal para el Distrito Federal nominado: "Delitos contra el honor" Artículos 214, 215, 216, 217, 218 y 219.
+
+CUARTO.- Los juicios en materia civil que se estén tramitando antes de la entrada en vigor de la presente ley se sujetarán en los sustantivo a la ley vigente al momento en que ocurrieron los hechos. Los de materia penal se sobreseerán al momento de la entrada en vigor de la presente ley. En cuanto al procedimiento las partes de común acuerdo podrán solicitar al Juez que tenga a su cargo el caso, la continuación del procedimiento en los términos de la presente ley.
+
+QUINTO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
