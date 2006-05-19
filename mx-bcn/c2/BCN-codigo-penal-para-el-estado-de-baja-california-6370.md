@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2006-03-24"
+last_updated: "2006-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MARZO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MAYO DE 2006.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1877,7 +1877,7 @@ Suspensión de la acción.- Cuando haya pendiente un juicio en averiguación de 
 
 ### CAPITULO I. INCUMPLIMIENTO DE LAS OBLIGACIONES DE ASISTENCIA FAMILIAR
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE MAYO DE 2006)</small>
 
 ###### Artículo 195.
 
@@ -2371,9 +2371,17 @@ Exención o disminución de pena o de arrepentimiento post-factum.- En los casos
 
 ###### Artículo 235.
 
-Tipo y punibilidad.- Al que no proporcione los recursos indispensables de subsistencia de las personas con las que tenga ese deber legal, se le impondrá prisión de seis meses a cuatro años y suspensión o privación de los derechos de familia, en relación con el ofendido las concubinas quedan comprendidos en las disposiciones de este párrafo.
+Tipo y punibilidad.- Al que no proporcione los recursos indispensables de subsistencia de las personas con las que tenga ese deber legal, se le impondrá prisión de tres meses a cuatro años y suspensión o privación de los derechos de familia, en relación con la víctima o el ofendido. Los concubinos quedan comprendidos en las disposiciones de este párrafo.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2006)</small>
+
+Igual pena se impondrá a las personas que no proporcionen atención geriátrica a los adultos mayores de sesenta años con las que tengan ese deber legal, en relación con el artículo 301 del Código Civil para el Estado de Baja California.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
 El delito se perseguirá por querella del ofendido o de su legítimo representante y, a falta de éste, el Ministerio Público procederá de oficio, a reserva de que se promueva la designación de un tutor especial.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
 No se impondrá pena alguna o se dejará de aplicar la impuesta, cuando el obligado a proporcionar los medios indispensables de subsistencia pague todas las cantidades que hubiere dejado de ministrar por el concepto de alimentos o se someta al régimen de pago que el Juez o la autoridad ejecutora en su caso, determinen, garantizando el pago de las cantidades que en el futuro le corresponda satisfacer.
 
@@ -3950,3 +3958,7 @@ P.O. 24 DE MARZO DE 2006.
 DECRETO No. 189
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 19 DE MAYO DE 2006.
+
+ÚNICO.- La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
