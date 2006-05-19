@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-crea-las-promotoras-para-el-desarrollo-de-las-18081"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-20"
-last_updated: "2003-06-13"
+last_updated: "2006-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE CREA LAS PROMOTORAS PARA EL DESARROLLO DE LAS COMUNIDADES RURALES Y POPULARES DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MAYO DE 2006.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 20 de octubre de 2000.
 
@@ -59,7 +59,9 @@ Para los efectos de esta Ley, se entenderá por:
 
 I.- Las Promotoras o Promotoras, a las Promotoras para el Desarrollo de las Comunidades Rurales y Populares Mexicali y Tijuana;
 
-II.- Los Consejos de Administración, a los Consejos de Administración, de las Promotoras para el Desarrollo de las Comunidades Rurales y Populares Mexicali y Tijuana; y
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2006)</small>
+
+II.- Juntas Directivas, a los órganos de gobierno de las Promotoras para el Desarrollo de las Comunidades Rurales y Populares Mexicali y Tijuana; y
 
 III.- Los Directores Generales, a los Directores Generales de las Promotoras para el Desarrollo de las Comunidades Rurales y Populares Mexicali y Tijuana.
 
@@ -119,13 +121,17 @@ III.- Las aportaciones y créditos que en su favor efectúen organismos público
 
 IV.- Los demás ingresos que adquieran por cualquier otro medio legal permisible, para el cumplimiento de su objetivo.
 
-### CAPITULO CUARTO. DE LOS CONSEJOS DE ADMINISTRACION
+> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE MAYO DE 2006)</small>
+
+### CAPITULO CUARTO. DE LAS JUNTAS DIRECTIVAS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE MAYO DE 2006)</small>
 
 ###### ARTICULO 11.
 
-Cada Promotora, será administrada por un Consejo de Administración, que se integrará por:
+Cada Promotora, será administrada por un Junta Directiva, que se integrará por:
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 19 DE MAYO DE 2006)</small>
 
 I.- El Secretario de Infraestructura y Desarrollo Urbano;
 
@@ -139,33 +145,49 @@ IV.- El Secretario de Planeación y Finanzas;
 
 V.- El Director de Control y Evaluación Gubernamental;
 
-VI.- El Presidente Municipal del Municipio en el que tengan competencia;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE MAYO DE 2006)</small>
 
-VII.- Por cuatro representantes de las organizaciones campesinas mayoritarias del Estado, que serán nombrados por el Gobernador del Estado de las ternas que propongan tales organizaciones; y
+VI. El Oficial Mayor de Gobierno;
 
-VIII.- Por representantes de los habitantes de las colonias populares del Estado que serán designados por el Gobernador del Estado y que intervendrán respecto de los programas a efectuarse en su colonia.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE MAYO DE 2006)</small>
+
+VII.- El Presidente Municipal del Municipio en el que tengan competencia;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE MAYO DE 2006)</small>
+
+VIII.- Por cuatro representantes de las organizaciones campesinas mayoritarias del Estado, que serán nombrados por el Gobernador del Estado de las ternas que propongan tales organizaciones; y
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2006)</small>
+
+VIII.- Por representantes de los habitantes de las colonias populares del Estado que serán designados por el gobernador del Estado y que intervendrán respecto de los programas a efectuarse en su colonia.
 
 En caso de que las organizaciones campesinas omitan hacer las proposiciones de los representantes, el Gobernador del Estado hará libremente las designaciones de dichos representantes.
 
 En el caso de la Promotora Tijuana intervendrá el o los Presidentes Municipales respecto a los programas a efectuarse en sus respectivos municipios.
 
-El Consejo de Administración, queda facultado para incluir la participación especial con voz pero sin voto, de cualquier representación del sector público o privado, quienes a invitación expresa del Consejo, podrán asistir a las reuniones en que tengan interés o conocimiento del tema de que se trate.
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2006)</small>
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2003)</small>
+La Junta Directiva, queda facultado (sic) para incluir la participación especial con voz pero sin voto, de cualquier representación del sector público o privado, quienes a invitación expresa de la Junta, podrán asistir a las reuniones en que tengan interés o conocimiento del tema de que se trate.
+
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2006)</small>
 
 ###### ARTICULO 12.
 
-El cargo de Presidente de cada Consejo de Administración, recaerá en el Titular de la Dependencia que coordine el sector al cual pertenezcan las Promotoras, en términos de la Ley Orgánica de la Administración Pública del Estado de Baja California, quien podrá designar por escrito un suplente para cubrir sus ausencias temporales.
+El cargo de Presidente de cada Junta Directiva, recaerá en el Titular de la Secretaría de Infraestructura y Desarrollo Urbano del Estado, quien podrá designar por escrito un suplente para cubrir sus ausencias temporales.
+
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2006)</small>
 
 ###### ARTICULO 13.
 
-Los integrantes de cada Consejo de Administración, tendrán la facultad de designar a su respectivo suplente.
+Los integrantes de cada Junta Directiva, tendrán la facultad de designar a su respectivo suplente.
 
-La designación de los suplentes deberá acreditarse ante el consejo respectivo. La acreditación deberá hacerse antes o durante la sesión en que pretendan participar. Los suplentes ejercerán las mismas facultades y obligaciones que los titulares.
+La designación de los suplentes deberá acreditarse ante la Junta Directiva respectiva. La acreditación deberá hacerse antes o durante la sesión en que pretendan participar. Los suplentes ejercerán las mismas facultades y obligaciones que los titulares.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE MAYO DE 2006)</small>
 
 ###### ARTICULO 14.
 
-Son facultades y obligaciones de los Consejos de Administración, en sus respectivos ámbitos de competencia las siguientes:
+Son atribuciones de las Juntas Directivas, en sus respectivos ámbitos de competencia las siguientes:
 
 I.- Aprobar los Programas de Desarrollo Regional para las comunidades rurales y populares del Estado, en los cuales se contemplen las acciones de gobierno; así como los programas institucionales que promuevan el desarrollo de grupos sociales; y aquellos que sean necesarios para el cumplimiento de sus objetivos;
 
@@ -177,57 +199,75 @@ IV.- Examinar, y, en su caso, aprobar el anteproyecto de presupuesto anual de in
 
 V.- Aprobar las (sic) estructura administrativa necesaria para su operación, así como las políticas generales para la contratación, ejecución y supervisión de las obras de infraestructura a realizar;
 
-VI.- Proponer al Director General, otorgándole poderes generales y especiales necesarios para cumplimentar su objeto, con las limitaciones que establezcan las disposiciones legales aplicables, así como aquellas que se considere necesario determinar;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2006)</small>
+
+VI.- Otorgar al Director General, poderes suficientes generales y especiales, necesarios para cumplimentar el objeto de las promotoras, con las limitaciones que establezcan las disposiciones legales aplicables, así como aquellas que se considere necesario determinar;
 
 VII.- Aprobar el Reglamento Interior;
 
 VIII.- Establecer los términos y condiciones para la celebración de contratos de crédito o empréstitos, que resulten necesarios para el cumplimiento de su objeto; así como del otorgamiento de garantías en caso de que sea necesario;
 
-IX.- Conocer y, en su caso, aprobar los informes de actividades, que en forma permanente y constante le presente el Director General;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2006)</small>
+
+IX.- Conocer y, en su caso, aprobar los informes de actividades, que sean presentados por los Directores Generales en el ámbito de su competencia;
 
 X.- Vigilar el adecuado funcionamiento y administración, ordenando las medidas que sean necesarias para evitar cualquier perjuicio; y
 
 XI.- Las demás que señalen las leyes y reglamentos respectivos.
 
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2006)</small>
+
 ###### ARTICULO 15.
 
-Los Consejos de Administración sesionarán de manera ordinaria cuando menos una vez cada cuatro meses, y de forma extraordinaria en cualquier tiempo, cuando así se requiera.
+Las Juntas Directivas sesionarán de manera ordinaria cuando menos una vez cada tres meses, y de forma extraordinaria en cualquier tiempo, cuando así se requiera.
 
-El Presidente del Consejo de Administración tendrá la facultad de convocar a sesión ordinaria o extraordinaria.
+El Presidente de la Junta Directiva tendrá la facultad de convocar a sesiones ordinarias o extraordinarias.
 
-El Director General de cada Promotora podrá convocar a sesión ordinaria o extraordinaria, previa anuencia del Presidente del Consejo.
+El Director General de cada Promotora podrá convocar a sesión ordinaria o extraordinaria, previa anuencia del Presidente de la Junta Directiva.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE MAYO DE 2006)</small>
 
 ###### ARTICULO 16.
 
-La convocatoria para las sesiones, deberá hacerse por escrito y notificarse a los miembros del Consejo de Administración respectivo, con una anticipación de por lo menos tres días hábiles.
+La convocatoria para las sesiones, deberá hacerse por escrito y notificarse a los miembros de la Junta Directiva respectiva, con una anticipación de por lo menos tres días hábiles.
 
 La convocatoria deberá contener el Orden del Día y la firma de quien la formule; debiendo acompañarse a la misma, el expediente que contenga la información de los asuntos a tratar en la sesión.
 
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2006)</small>
+
 ###### ARTICULO 17.
 
-Para la celebración de las sesiones se requerirá la mitad más uno de los integrantes del Consejo de Administración que corresponda, constituyendo así el quórum legal, siempre que entre ellos esté el Presidente del Consejo o quien ejerza sus funciones.
+Para la celebración de las sesiones se requerirá la mitad más uno de los integrantes de la Junta Directiva que corresponda, constituyendo así el quórum legal, siempre que entre ellos esté el Presidente de la Junta Directiva o quien ejerza sus funciones.
+
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2006)</small>
 
 ###### ARTICULO 18.
 
-Las decisiones de los Consejos de Administración se tomarán por mayoría de votos de sus integrantes presentes en la sesión, quienes tendrán la obligación de pronunciarse en las votaciones, a favor o en contra.
+Las decisiones de las Juntas Directivas se tomarán por mayoría de votos de sus integrantes presentes en la sesión, quienes tendrán la obligación de pronunciarse en las votaciones, a favor o en contra.
 
-El Presidente del Consejo gozará de voto de calidad para el caso de empate.
+El Presidente de la Junta Directiva gozará de voto de calidad para el caso de empate.
+
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2006)</small>
 
 ###### ARTICULO 19.
 
-Las resoluciones legalmente adoptadas por el Consejo de Administración respectivo, tendrán el carácter de obligatorias aún para los integrantes que no hayan asistido a la sesión correspondiente.
+Las resoluciones legalmente adoptadas por la Junta Directiva respectiva, tendrán el carácter de obligatorias aún para los integrantes que no hayan asistido a la sesión correspondiente.
+
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2006)</small>
 
 ###### ARTICULO 20.
 
-Los Directores Generales, fungirán como Secretarios Técnicos de los Consejos de Administración respectivos, y levantarán las actas de las sesiones correspondientes; llevarán el seguimiento de los acuerdos e informarán el grado de cumplimiento en cada sesión.
+Los Directores Generales, fungirán como Secretarios Técnicos de las Juntas Directivas respectivas, y levantarán las actas de las sesiones correspondientes; llevarán el seguimiento de los acuerdos e informarán el grado de cumplimiento en cada sesión.
 
-Cuando por cualquier causa no haya Director General, actuará provisionalmente como Secretario Técnico del Consejo de Administración respectivo, la persona que designe su Presidente.
+Cuando por cualquier causa no haya Director General, actuará provisionalmente como Secretario Técnico de la Junta Directiva respectiva, la persona que designe su Presidente.
 
 ### CAPITULO QUINTO. DE LAS DIRECCIONES GENERALES
 
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2006)</small>
+
 ###### ARTICULO 21.
 
-Para el cumplimiento de su objeto cada una de las Promotoras, contarán con un Director General, que será nombrado y removido por el Gobernador del Estado a propuesta de los Consejos de Administración respectivos.
+Para el cumplimiento de su objeto cada una de las Promotoras, contarán con un Director General, que será nombrado y removido por el Gobernador del Estado.
 
 ###### ARTICULO 22.
 
@@ -235,27 +275,49 @@ Son facultades y obligaciones de los Directores Generales, en sus respectivos á
 
 I.- Promover, coordinar y ejecutar los programas y acciones para el cumplimiento del objeto de la Promotora respectiva;
 
-II.- Ejecutar los programas, acuerdos y disposiciones que apruebe el Consejo de Administración respectivo;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2006)</small>
 
-III.- Formular y presentar al respectivo Consejo de Administración para su análisis, discusión y aprobación en su caso, los anteproyectos de presupuestos anuales de ingresos y egresos, así como el programa anual de actividades;
+II.- Ejecutar los programas, acuerdos y disposiciones que apruebe la Junta Directiva respectiva;
 
-IV.- Administrar los bienes, de conformidad con las resoluciones del Consejo de Administración respectivo y disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2006)</small>
 
-V.- Fungir como Representante Legal, ante particulares y toda clase de Autoridades Judiciales o Administrativas, sean éstas del orden Federal, Estatal o Municipal, con las facultades que les sean otorgadas por parte del Consejo de Administración respectivo;
+III.- Formular y presentar a la respectiva Junta Directiva para su análisis, discusión y aprobación en su caso, los anteproyectos de presupuestos anuales de ingresos y egresos, así como el programa anual de actividades;
 
-VI.- Rendir anualmente al Consejo de Administración respectivo, un informe general de actividades;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2006)</small>
 
-VII.- Presentar al Consejo de Administración correspondiente, los estados financieros e informes complementarios que les sean solicitados;
+IV.- Administrar los bienes, de conformidad con las resoluciones de la Junta Directiva respectiva y disposiciones legales aplicables;
 
-VIII.- Convocar a reuniones ordinarias y extraordinarias del Consejo de Administración respectivo, previa anuencia de su Presidente;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2006)</small>
 
-IX.- Proponer al Consejo de Administración respectivo, el nombramiento o la remoción de los servidores públicos de la Promotora a que pertenezcan;
+V.- Fungir como Representante Legal, ante particulares y toda clase de Autoridades Judiciales o Administrativas, sean éstas del orden Federal, Estatal o Municipal, con las Facultades que les sean otorgadas por parte de la Junta Directiva respectiva;
 
-X.- Presentar por lo menos cada dos meses al Consejo de Administración respectivo, los avances en las metas, objetivos y acciones de los programas correspondientes; el ejercicio del presupuesto de egresos y la presentación de los estados financieros;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2006)</small>
 
-XI.- Someter a consideración del Consejo de Administración el Reglamento Interno correspondiente, sus reformas o adiciones, así como las modificaciones a la estructura administrativa, en caso de ser necesario; y
+VI.- Rendir anualmente a la Junta Directiva respectiva, un informe general de actividades;
 
-XII.- Las demás que les establezcan el Consejo de Administración respectivo y las disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2006)</small>
+
+VII.- Presentar a la Junta Directiva respectiva, los estados financieros e informes complementarios que les sean solicitados;
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2006)</small>
+
+VIII.- Convocar a reuniones ordinarias y extraordinarias de la Junta Directiva, previa anuencia de su Presidente;
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2006)</small>
+
+IX.- Proponer a la Junta Directiva respectiva, el nombramiento o la remoción de los servidores públicos de la Promotora a que pertenezcan;
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2006)</small>
+
+X.- Presentar por lo menos cada tres meses a la Junta Directiva respectiva, los avances en las metas, objetivos y acciones de los programas correspondientes; el ejercicio del presupuesto de egresos y la presentación de los estados financieros;
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2006)</small>
+
+XI.- Someter a consideración de la Junta Directiva el Reglamento Interno correspondiente, sus reformas o adiciones, así como las modificaciones a la estructura administrativa, en caso de ser necesario; y
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2006)</small>
+
+XII.- Las demás que les establezcan la Junta Directiva respectiva y las disposiciones legales aplicables.
 
 ###### ARTICULO 23.
 
@@ -283,13 +345,27 @@ I.- Vigilar que la administración de los recursos y el funcionamiento de la Pro
 
 II.- Practicar la auditoría interna de los estados financieros y las de carácter administrativo que se requieran;
 
-III.- Recomendar al Consejo de Administración respectivo las medidas correctivas que sean convenientes para el mejoramiento de la organización y funcionamiento administrativo de la Promotora que corresponda;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2006)</small>
 
-IV.- Asistir a las sesiones del Consejo de Administración respectivo con derecho a voz exclusivamente;
+III.- Recomendar a la Junta Directiva respectiva las medidas correctivas que sean convenientes para el mejoramiento de la organización y funcionamiento administrativo de la Promotora que corresponda;
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2006)</small>
+
+IV.- Asistir a las sesiones de la Junta Directiva respectivoa con derecho a voz exclusivamente;
 
 V.- Brindar el apoyo técnico que el Director General respectivo requiera en cumplimiento de la Ley para el Control y Vigilancia de los Organismos Descentralizados, Empresas de Participación Estatal y Fideicomisos del Estado; y
 
 VI.- Las demás que en materia de control y vigilancia les confiera el Reglamento Interno respectivo y las leyes de la materia.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 19 DE MAYO DE 2006)</small>
+
+### CAPITULO SEPTIMO. DE SU EXTINCION O FUSION
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2006)</small>
+
+###### ARTICULO 26.
+
+Cuando las Promotoras dejen de cumplir con el objeto para el que fueron creadas o su funcionamiento no resulte ya conveniente desde el punto de vista de la economía del Estado o del interés público, la Secretaría de Planeación y Finanzas, atendiendo a la opinión de la Dependencia Coordinadora del Sector que corresponda, propondrá al Ejecutivo Estatal la disolución, liquidación o extinción de este organismo. Asimismo podrá proponer su fusión, cuando su actividad combinada redunde en un incremento de eficiencia y productividad.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -402,3 +478,7 @@ P.O. 13 DE JUNIO DE 2003.
 ###### ARTICULO UNICO.
 
 Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE MAYO DE 2006.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
