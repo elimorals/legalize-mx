@@ -4,7 +4,7 @@ identifier: "YUC-codigo-civil-del-estado-de-yucatan-14490"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-12-31"
-last_updated: "2006-01-23"
+last_updated: "2006-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CODIGO CIVIL DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE MAYO DE 2006.
 
 Código publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 31 de diciembre de 1993.
 
@@ -1757,9 +1757,9 @@ Artículo 309 C.- Un cónyuge puede adoptar a los hijos del otro con la autoriza
 
 Artículo 309 D.- Los hijos adoptivos de un mismo adoptante, serán considerados hermanos entre sí.
 
-> <small>(ADICIONADO, D.O. 16 DE MAYO DE 2005)</small>
+> <small>(REFORMADO, D.O. 19 DE MAYO DE 2006)</small>
 
-Artículo 309 E.- Los adoptantes podrán solicitar al Oficial del Registro Civil, el cambio del nombre propio de quien se pretenda adoptar, hasta antes de que el adoptado obtenga la mayoría de edad. Cuando sea mayor de un año, podrá solicitarse que se añada un nombre, al que originalmente tenga.
+Artículo 309 E.- La Procuraduría de la Defensa del Menor y la Familia, a petición de los interesados en adoptar, podrá solicitar al Juez, durante el trámite de adopción, el cambio de nombre propio del menor que se pretenda adoptar, siempre que éste no haya cumplido un año de edad; cuando sea mayor de dicha edad, sólo podrá solicitarse que se añada un nombre al que originalmente tenga.
 
 > <small>(REFORMADO, D.O. 16 DE MAYO DE 2005)</small>
 
@@ -13510,3 +13510,9 @@ D.O. 23 DE ENERO DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 19 DE MAYO DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del gobierno del Estado de Yucatán.
