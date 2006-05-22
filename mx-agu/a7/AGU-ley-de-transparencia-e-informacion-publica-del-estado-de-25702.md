@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-transparencia-e-informacion-publica-del-estado-de-25702"
 country: "mx"
 rank: "ley"
 publication_date: "2002-08-26"
-last_updated: "2002-08-26"
+last_updated: "2006-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25702&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 LEY DE TRANSPARENCIA E INFORMACION PUBLICA DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LO SEÑALADO POR EL ARTICULO OCTAVO TRANSITORIO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN P.O. DE 22 DE MAYO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el 26 de agosto de 2002.
 
@@ -308,3 +310,27 @@ Felipe González González.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE MAYO DE 2006.
+
+PRIMERO.- La presente Ley entrará en vigor el primero de agosto de 2006, con las excepciones de inicio de vigencia que se determinan en los presentes Artículos Transitorios.
+
+SEGUNDO.- El Instituto iniciará sus funciones a los ciento ochenta días de la entrada en vigor de la presente Ley.
+
+TERCERO.- La designación de los comisionados deberá de hacerse dentro de los sesenta días de vigencia de la presente Ley.
+
+CUARTO.- Para dar cumplimiento al Artículo 9º de la Ley, los sujetos obligados cuentan con un plazo de 60 días contados a partir del día siguiente de entrada en vigor de la presente Ley. Asimismo, los sujetos obligados deberán establecer la Unidad de Enlace a que se refiere el Artículo 30 de esta Ley, a más tardar a la entrada en funciones del instituto.
+
+QUINTO.- El Congreso del Estado deberá de realizar previa iniciativa del Ejecutivo la modificación al Presupuesto de Egresos del Estado para el Ejercicio 2006 a efecto de dotar de recursos al Instituto.
+
+SEXTO.- El Instituto de Transparencia del Estado de Aguascalientes deberá expedir su reglamento interior y normas de operación antes del inicio de sus funciones.
+
+SEPTIMO.- En tanto comienza a operar al Instituto, el Tribunal de lo Contencioso Administrativo, conocerá y resolverá de las inconformidades aplicando la Ley del procedimiento Administrativo.
+
+OCTAVO.- Se abroga la Ley de Transparencia e Información Pública del Estado de Aguascalientes, publicada el 26 de agosto del 2002, a la entrada en vigencia del presente Decreto.
+
+NOVENO.- A partir de su nombramiento, los miembros del Instituto deberán instrumentar las acciones concernientes para que la presente Ley sea conocida y difundida entre los diversos sectores sociales, así como a concienciar a los ciudadanos y servidores públicos de la importancia que reviste el derecho de acceso a la información, en una sociedad democrática. Para lo anterior podrán atraer el concurso de instituciones de educación superior, así como de organismos especializados en el tema.
+
+DECIMO.- Para el cumplimiento del deber establecido en la fracción XX del Artículo 9º de la presente Ley, se otorga un plazo de un año, contado a partir de la entrada en vigencia de la presente Ley.
