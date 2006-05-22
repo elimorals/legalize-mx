@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-administracion-publica-del-estado-de-17112"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-09-08"
-last_updated: "2005-03-17"
+last_updated: "2006-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17112&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 8 de septiembre de 2000.
 
@@ -293,7 +293,7 @@ VIII. Coadyuvar en la elaboración de los convenios, contratos y demás instrume
 
 IX. Ejercer, por acuerdo del Gobernador del Estado, y en su caso, con la participación que corresponda a otras autoridades competentes, el derecho de expropiación, ocupación temporal y limitación de dominio en los casos de utilidad pública, así como, refrendar los títulos de propiedad que expida el Gobierno del Estado;
 
-X. Organizar, coordinar, dirigir y vigilar el ejercicio de las funciones del registro público de la propiedad y del comercio, asegurando la adecuada distribución, funcionamiento y modernización de sus servicios; así como coordinar programas de cooperación técnica con los Servicios Catastrales;
+X. (DEROGADA, P.O. 22 DE MAYO DE 2006)
 
 XI. Regular y coordinar la organización y el funcionamiento del sistema notarial del Estado; asimismo organizar, conducir y supervisar el funcionamiento del Archivo General de Notarías;
 
@@ -443,7 +443,9 @@ XXI. Fungir como representante del Gobierno del Estado ante el Sistema Nacional 
 
 XXII. Intervenir en los juicios que se ventilen ante cualquier tribunal cuando tenga interés la Hacienda Pública del Estado;
 
-XXIII. Administrar, normar, conducir y supervisar los servicios catastrales en el Estado; así como establecer programas de coordinación técnica con el Registro Público de la Propiedad y del Comercio del Estado;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2006)</small>
+
+XXIII. Administrar, normar, conducir, coordinar y supervisar los servicios catastrales y del registro público de la propiedad y del comercio en el Estado; asegurando la adecuada distribución, funcionamiento y modernización de los mismos;
 
 XXIV. Fungir como fideicomitente único del Gobierno del Estado en la constitución de fideicomisos públicos y cuidar que en los contratos queden debidamente precisados los derechos y acciones que corresponda ejercitar al fiduciario sobre bienes fideicomitidos, las limitaciones que establezca o que se derive de derechos de terceros, así como los derechos de terceros que el fideicomitente se reserve y las facultades que fije en su caso el Comité Técnico;
 
@@ -1308,3 +1310,19 @@ Artículo Noveno.- Se derogan todas las disposiciones legales que se opongan al 
 Artículo Décimo.- Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de las Secretarías o entidades paraestatales cuyas funciones se reforman por virtud de este Decreto, se entenderán referidas a las dependencias o entidad que, respectivamente, asuman tales funciones.
 
 Artículo Décimo Primero.- Para los efectos del Presente Decreto, se entenderá como "Centro de Observación y Diagnóstico para Menores Infractores" al Consejo Tutelar para Menores Infractores, y en tanto, no se expidan las disposiciones legales del citado Centro, serán aplicables las establecidas en la Ley del Consejo Tutelar para Menores Infractores del Estado de Quintana Roo.
+
+P.O. 22 DE MAYO DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+SEGUNDO.- Todos los asuntos que a la fecha de entrará en vigor del presente Decreto, se encuentren pendientes de solución serán atraídos y resueltos por la Secretaría de Hacienda.
+
+TERCERO.- La Secretaría de Hacienda, se subroga en todos los derechos y obligaciones que la Secretaría de Gobierno tenga por el ejercicio de la facultad derogada mediante el presente Decreto.
+
+CUARTO.- Cuando en otras disposiciones legales se haga referencia a atribuciones que venían ejerciendo la Secretaría de Gobierno relacionadas con el presente Decreto, se entenderán concedidas a la Secretaría de Hacienda.
+
+QUINTO.- La Dirección General del Registro Público de la Propiedad y del Comercio y sus Delegaciones en el Estado estarán jerárquicamente subordinadas a la Subsecretaría de Ingresos de la Secretaría de Hacienda.
+
+SEXTO.- La Secretaría de Hacienda contará con un plazo de 30 días para reformar su Reglamento Interior a efecto de que se consideren las atribuciones que le deban corresponder a la Subsecretaría de Ingresos, derivada de su función jerárquica sobre el Registro Público de la Propiedad y del Comercio, mismo plazo tendrá para modificar el Reglamento del Registro Público de la Propiedad y del Comercio.
+
+SÉPTIMO.- Quedan sin efecto todas las disposiciones que se opongan al presente Decreto.
