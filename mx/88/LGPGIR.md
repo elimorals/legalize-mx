@@ -4,7 +4,7 @@ identifier: "LGPGIR"
 country: "mx"
 rank: "ley_general"
 publication_date: "2003-10-08"
-last_updated: "2003-10-08"
+last_updated: "2006-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34141&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGPGIR"
 
 LEY GENERAL PARA LA PREVENCION Y GESTION INTEGRAL DE LOS RESIDUOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE MAYO DE 2006.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 8 de octubre de 2003.
 
@@ -72,7 +72,9 @@ XI. Regular la importación y exportación de residuos;
 
 XII. Fortalecer la investigación y desarrollo científico, así como la innovación tecnológica, para reducir la generación de residuos y diseñar alternativas para su tratamiento, orientadas a procesos productivos más limpios, y
 
-XIII. Establecer medidas de control y de seguridad para garantizar el cumplimiento y la aplicación de esta Ley y las disposiciones que de ella se deriven, así como para la imposición de las sanciones que correspondan.
+> <small>(REFORMADA, D.O.F. 22 DE MAYO DE 2006)</small>
+
+XIII. Establecer medidas de control, medidas correctivas y de seguridad para garantizar el cumplimiento y la aplicación de esta Ley y las disposiciones que de ella se deriven, así como para la imposición de las sanciones que correspondan.
 
 ###### Artículo 2.
 
@@ -242,7 +244,9 @@ VI. La regulación y control de los residuos peligrosos provenientes de pequeño
 
 VII. Regular los aspectos ambientales relativos al transporte de los residuos peligrosos;
 
-VIII. Verificar el cumplimiento de la normatividad en las materias de su competencia, e imponer las medidas de seguridad y sanciones que en su caso correspondan;
+> <small>(REFORMADA, D.O.F. 22 DE MAYO DE 2006)</small>
+
+VIII. Verificar el cumplimiento de la normatividad en las materias de su competencia, e imponer las medidas correctivas, de seguridad y sanciones que en su caso correspondan;
 
 IX. Celebrar convenios con los gobiernos de las entidades federativas para participar en la autorización y el control de los residuos peligrosos generados por microgeneradores, y brindarles asistencia técnica para ello;
 
@@ -1110,9 +1114,11 @@ III. Abrir nuevos tiraderos a cielo abierto.
 
 ### CAPÍTULO I. VISITAS DE INSPECCIÓN
 
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2006)</small>
+
 ###### Artículo 101.
 
-La Secretaría realizará los actos de inspección y vigilancia del cumplimiento de las disposiciones contenidas en el presente ordenamiento, en materia de residuos peligrosos e impondrá las medidas de seguridad y sanciones que resulten procedentes, de conformidad con lo que establece esta Ley y la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+La Secretaría realizará los actos de inspección y vigilancia del cumplimiento de las disposiciones contenidas en el presente ordenamiento, en materia de residuos peligrosos e impondrá las medidas correctivas, de seguridad y sanciones que resulten procedentes, de conformidad con lo que establece esta Ley y la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
 
 ###### Artículo 102.
 
@@ -1124,7 +1130,11 @@ Si como resultado de una visita de inspección se detecta la comisión de un del
 
 ### CAPÍTULO II. MEDIDAS DE SEGURIDAD
 
+> <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 22 DE MAYO DE 2006)</small>
+
 ###### Artículo 104.
+
+Si de estas visitas de inspección se desprenden infracciones a la presente Ley, en el emplazamiento respectivo la autoridad ordenadora requerirá al interesado, cuando proceda, mediante notificación personal o por correo certificado con acuse de recibo, para que adopte de inmediato las medidas correctivas que, en su caso, resulten necesarias para cumplir con las disposiciones jurídicas aplicables, así como con los permisos, licencias, autorizaciones o concesiones respectivas, señalando el plazo que corresponda para su cumplimiento, fundado y motivado el requerimiento.
 
 En caso de riesgo inminente para la salud o el medio ambiente derivado del manejo de residuos peligrosos, la Secretaría, de manera fundada y motivada, podrá ordenar alguna o algunas de las siguientes medidas de seguridad:
 
@@ -1224,6 +1234,14 @@ Sin perjuicio de la obligación de remediar el sitio a que se refiere esta Ley, 
 
 En el caso en que el infractor realice las medidas correctivas o de urgente aplicación o subsane las irregularidades en que hubiere incurrido previamente a que la Secretaría imponga una sanción, dicha autoridad deberá considerar tal situación como atenuante de la infracción cometida.
 
+> <small>(ADICIONADO, D.O.F. 22 DE MAYO DE 2006)</small>
+
+En la resolución administrativa correspondiente, se señalarán o, en su caso, adicionarán, las medidas que deberán llevarse a cabo para corregir las deficiencias o irregularidades observadas, el plazo otorgado al infractor para satisfacerlas y las sanciones a que se hubiere hecho acreedor.
+
+> <small>(ADICIONADO, D.O.F. 22 DE MAYO DE 2006)</small>
+
+Dentro de los cinco días hábiles que sigan al vencimiento del plazo otorgado al infractor para subsanar las deficiencias e irregularidades observadas, éste deberá comunicar por escrito y en forma detallada a la autoridad ordenadora, haber dado cumplimiento a las mediadas en los términos del requerimiento respectivo.
+
 ###### Artículo 112.
 
 Las violaciones a los preceptos de esta Ley, y disposiciones que de ella emanen serán sancionadas administrativamente por la Secretaría, con una o más de las siguientes sanciones:
@@ -1238,9 +1256,17 @@ c) Se trate de desobediencia reiterada, en tres o más ocasiones, al cumplimient
 
 II. Arresto administrativo hasta por treinta y seis horas;
 
-III. La suspensión o revocación de las concesiones, licencias, permisos o autorizaciones correspondientes, y
+> <small>(REFORMADA, D.O.F. 22 DE MAYO DE 2006)</small>
 
-IV. La remediación de sitios contaminados.
+III. La suspensión o revocación de las concesiones, licencias, permisos o autorizaciones correspondientes;
+
+> <small>(REFORMADA, D.O.F. 22 DE MAYO DE 2006)</small>
+
+IV. La remediación de sitios contaminado, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE MAYO DE 2006)</small>
+
+V. Multa por el equivalente de veinte a cincuenta mil días de salario mínimo general vigente en el Distrito Federal al momento de imponer la sanción.
 
 ###### Artículo 113.
 
@@ -1397,3 +1423,9 @@ DÉCIMO TERCERO.- Para los efectos de la expedición de autorizaciones, hasta en
 México, D.F., a 28 de abril de 2003.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Armando Salinas Torre, Presidente.- Sen. Yolanda González Hernández, Secretario.- Dip. Ma. de las Nieves García Fernández, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los tres días del mes de octubre de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 22 DE MAYO DE 2006.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
