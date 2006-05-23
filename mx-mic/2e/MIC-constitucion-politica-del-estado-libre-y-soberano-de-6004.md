@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2005-10-21"
+last_updated: "2006-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DEL 2006.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -357,9 +357,9 @@ No podrán ser electos diputados:
 
 I.- Los ciudadanos que tengan mando de fuerza pública en el Estado;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
+> <small>(REFORMADA, P.O. 23 DE MAYO DEL 2006)</small>
 
-II.- Los funcionarios de la Federación, los titulares de las dependencias básicas y de las entidades de la organización administrativa del Ejecutivo y de los ayuntamientos, y los Magistrados del Supremo Tribunal de Justicia;
+II.- Los funcionarios de la Federación, los titulares de las dependencias básicas y de las entidades de la organización administrativa del Ejecutivo y los ayuntamientos, los Consejeros del Poder Judicial, los Magistrados del Supremo Tribunal de Justicia, del Tribunal Electoral y del Tribunal de Justicia Administrativa;
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
 
@@ -405,9 +405,9 @@ Los diputados propietarios, durante el período de su encargo, no podrán desemp
 
 La misma regla se observará con los diputados suplentes cuando estuvieren en ejercicio. La infracción a esta prohibición, se castigará con la pérdida del carácter de Diputado.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE MARZO DE 2003)</small>
 
-#### SECCIÓN II. De la Reunión y Renovación del Congreso
+#### SECCION II. De la reunión y renovación del Congreso
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
 
@@ -687,9 +687,17 @@ En caso de declararse desaparecido un ayuntamiento o por renuncia o falta absolu
 
 XX.- Designar a las personas que han de integrar los ayuntamientos o los concejos municipales, en su caso, cuando falte definitivamente alguna de ellas, por cualquier causa, y no sea posible que los suplentes electos entren en funciones. Los ciudadanos designados deberán cumplir los requisitos de elegibilidad que para el cargo respectivo establezca esta Constitución y las leyes de la materia;
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2006)</small>
 
-XXI.- Elegir o reelegir a los magistrados del Supremo Tribunal de Justicia y, aprobar o desaprobar las solicitudes de licencia y renuncias de los mismos;
+XXI.- Elegir, reelegir y privar de su encargo a los Magistrados del Supremo Tribunal de Justicia, aprobar o desaprobar las solicitudes de licencia y renuncia de los mismos;
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2006)</small>
+
+XXI A.- Elegir al integrante del Consejo del Poder Judicial que le compete;
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2006)</small>
+
+XXI B.- Privar del cargo a los integrantes del Consejo del Poder Judicial, por las causas establecidas en el artículo 77 de esta Constitución;
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
 
@@ -699,9 +707,11 @@ XXII.- Privar de su puesto a los magistrados reelectos del Supremo Tribunal de J
 
 XXIII.- Nombrar a los consejeros electorales del Instituto Electoral de Michoacán y a los magistrados del Tribunal Electoral del Estado, conforme al procedimiento que establezca la ley;
 
-> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2005)</small>
+XXIII bis.- (DEROGADA, P.O. 23 DE MAYO DE 2006)
 
-XXIII bis.- Elegir o reelegir a los magistrados del Tribunal de lo Contencioso Administrativo del Estado y, aprobar o desaprobar las solicitudes de licencia y renuncias de los mismos;
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2006)</small>
+
+XXIII A.- Elegir, reelegir y privar del encargo, a los Magistrados del Tribunal de Justicia Administrativa, aprobar o negar las solicitudes de licencia y renuncia de los mismos;
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
 
@@ -825,9 +835,9 @@ a).- Los que tengan mando de fuerza pública;
 
 b).- Aquellos que desempeñen algún cargo o comisión del Gobierno Federal, y
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
 
-c) Los titulares de las dependencias básicas del Ejecutivo y los Magistrados del Supremo Tribunal de Justicia; y,
+c) Los titulares de las dependencias básicas del Ejecutivo, los Magistrados del Supremo Tribunal de Justicia, del Tribunal de Justicia Administrativa y del Tribunal Electoral; los Consejeros del Poder Judicial; y,
 
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
@@ -913,9 +923,9 @@ I.- Promulgar y ejecutar las leyes y decretos que expida el Congreso del Estado,
 
 II.- Poner a la disposición del Poder Judicial los medios necesarios para el ejercicio expedito de sus funciones;
 
-> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2006)</small>
 
-III.- Comunicar al Pleno del Supremo Tribunal de Justicia del Estado, los nombres de los Magistrados numerarios y supernumerarios que deban ser renovados o, en su caso, reelectos o privados de su cargo a la conclusión de su ejercicio constitucional. Del Padrón de Aspirantes a Magistrados que el Tribunal proporcione al Gobernador, este inmediatamente después, someterá al Congreso del Estado, una lista que deberá contener el triple de aspirantes a Magistrados, con la propuesta para la elección o reelección respectiva, debiendo ser tomados del Padrón cuando menos dos terceras partes de los integrantes de la lista;
+III.- Designar al integrante del Consejo del Poder Judicial que le compete;
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
 
@@ -1083,447 +1093,389 @@ La promulgación y la orden de publicación de las leyes se harán constar media
 
 Los titulares de las dependencias serán responsables con el Gobernador en todos aquellos asuntos que lleven su firma.
 
+> <small>N. DE E. DE CONFORMIDAD CON LAS REFORMAS APROBADAS Y PUBLICADAS EN EL P.O. DE 23 DE MAYO DE 2006, MEDIANTE DECRETO NUMERO 44, SE MODIFICA SUSTANCIALMENTE EL CONTENIDO DEL PRESENTE CAPITULO; MOTIVO POR EL CUAL SE PRESENTA EL TEXTO DEL MISMO PUBLICADO EN EL PERIODICO QUE SE MENCIONA.</small>
+
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ### CAPITULO IV. Del Poder Judicial
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
 
 ###### Artículo 67.
 
-Se deposita el ejercicio del Poder Judicial del Estado en el Supremo Tribunal de Justicia, en los juzgados de primera instancia, en los municipales, en los de tenencia, y en los jurados.
+Se deposita el ejercicio del Poder Judicial del Estado en el Supremo Tribunal de Justicia, en el Consejo del Poder Judicial, en los juzgados de primera instancia, menores y comunales.
 
-El Supremo Tribunal de Justicia contará con una comisión, la que deberá del Pleno y estará integrada por su Presidente, quien la presidirá, por dos magistrados propietarios y por dos jueces de primera instancia, nombrados por el Pleno en votación secreta, debiendo tener estos últimos una antigüedad mínima de cinco años en el ejercicio de su cargo. Esta comisión se renovará cada tres años, y tendrá dentro de sus atribuciones principales, las administrativas, el ejercicio del Presupuesto de Egresos y del Fondo Auxiliar para la Administración de Justicia, así como la implementación integral de la Carrera Judicial, en los términos que establezca la Ley Orgánica de ese Poder.
+La administración, vigilancia y disciplina del Poder Judicial del Estado está a cargo del Consejo del Poder Judicial, que posee autonomía técnica y de gestión.
 
-La independencia económica del Poder Judicial la garantizará el Congreso, asignándole u presupuesto anual no menor a sus necesidades en el año que corresponda. La independencia de los magistrados y jueces en el ejercicio de sus funciones estará garantizada por esta Constitución, la Ley Orgánica respectiva y demás ordenamientos jurídicos aplicables, los cuales establecerán las condiciones para el ingreso, formación y permanencia de quienes sirven al Poder Judicial del Estado.
+El Consejo del Poder Judicial se integra con cinco miembros, de los cuales uno es el Presidente del Supremo Tribunal de Justicia, quien lo preside; uno electo por el Congreso del Estado; uno designado por el Gobernador del Estado, un Magistrado y un Juez de Primera Instancia, ambos electos por sus pares, en los términos que fije la Ley Orgánica.
 
-La elección de los magistrados y jueces integrantes del Poder Judicial serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+Los Consejeros no representan a quienes los eligen o designen, por lo que ejercen su función con independencia e imparcialidad. Su encargo será por cinco años, con excepción del Presidente. Los requisitos y condiciones para ser Consejero son los mismos que para ser Magistrado del Supremo Tribunal de Justicia.
 
-Los jueces de primera instancia y los que con cualquier otra denominación se creen en el Estado, serán electos por el Supremo Tribunal de Justicia.
+El Consejo del Poder Judicial funciona en Pleno o en comisiones. El Pleno resuelve sobre la designación, adscripción y remoción de jueces, emitirá su reglamento interior, los acuerdos y resoluciones para el cumplimiento de sus funciones. Cuenta con comisiones permanentes y transitorias. Las comisiones permanentes son: administración, carrera judicial y vigilancia y disciplina.
 
-Se establece la Carrera Judicial, en los términos que señale la ley.
+Se establece la Carrera Judicial, a cargo del Consejo del Poder Judicial, en los términos que señale la Ley Orgánica.
 
-Los magistrados y los jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
 
 ###### Artículo 68.
 
-La facultad de aplicar e interpretar las leyes reside exclusivamente en el Poder Judicial, y ninguna otra autoridad podrá avocarse al conocimiento de causas pendientes, ni mandar abrir los juicios fenecidos.
+La independencia económica del Poder Judicial la garantizará el Congreso del Estado, asignándole un presupuesto suficiente para el adecuado cumplimiento de sus funciones.
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1985)</small>
+La independencia de los magistrados y jueces en el ejercicio de sus funciones está garantizada por esta Constitución, la Ley Orgánica y demás ordenamientos jurídicos aplicables.
 
-La ley fijará los términos en que sea obligatoria la jurisprudencia que establezca el Supremo Tribunal de Justicia en ejercicio de la facultad a que se refiere este artículo, así como los requisitos para su interrupción y modificación.
-
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
 
 ###### Artículo 69.
 
-El Poder Judicial no podrá ejercer otras funciones que las de juzgar y hacer que se ejecute lo juzgado, conforme a las garantías establecidas.
+La elección de los magistrados y jueces integrantes del Poder Judicial, será hecha preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en el Poder Judicial del Estado o que lo merezcan por su honorabilidad, competencia y antecedentes en la profesión jurídica.
 
-Son auxiliares de los órganos encargados de administrar justicia:
+La Ley Orgánica establecerá los criterios y procedimientos mediante los cuales el Consejo del Poder Judicial realizará la evaluación de los aspirantes, bajo el criterio de igualdad de oportunidades.
 
-I. La Dirección de Prevención y Readaptación Social;
-
-II. Los consejos tutelares;
-
-III. Los médicos legistas;
-
-IV. Los intérpretes y peritos;
-
-V. Los depositarios y síndicos de concurso;
-
-VI. Los notarios, en las funciones que les encomienda el Código de Procedimientos Civiles;
-
-VII. Los cuerpos policiacos tanto en el Estado como de los municipios; y,
-
-VIII. Los demás a quienes las leyes confieran ese carácter.
-
-Los auxiliares a que se refiere este artículo estarán obligados a desempeñar las funciones que les encomienden los órganos de la administración de justicia, y sus superiores tendrán el deber de facilitarles el ejercicio de las mismas.
+Los magistrados y jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
 
 > <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
 #### SECCION I. De la Integración y Funcionamiento del Supremo Tribunal
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
 
 ### CAPÍTULO IV. DE LA PLANEACIÓN DEL DESARROLLO
 
 ###### Artículo 70.
 
-El Supremo Tribunal de Justicia estará integrado por un número no menor de siete magistrados propietarios, y funcionará en Tribunal Pleno o en Salas, en los términos que disponga la ley. Habrá, además, el mismo número de magistrados supernumerarios.
+La facultad de aplicar e interpretar las leyes reside exclusivamente en el Poder Judicial, en el Tribunal Electoral y en el Tribunal de Justicia Administrativa, en el ámbito de su competencia y ninguna otra autoridad podrá avocarse al conocimiento de causas pendientes, ni mandar abrir los juicios fenecidos.
 
-La Ley Orgánica del Poder Judicial fijará el número de magistrados y distribuirá las competencias señalando las atribuciones que correspondan al Presidente, al Pleno, y a las Salas, y determinará la regionalización de éstas en caso de ser necesaria.
-
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 1988)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
 
 ###### Artículo 71.
 
-Para ser electo magistrado, propietario o supernumerario del Supremo Tribunal de Justicia del Estado, se necesita:
+Las leyes fijarán los términos en que sea obligatoria la jurisprudencia que se establezca en ejercicio de la facultad jurisdiccional, así como los requisitos para su interrupción y modificación.
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
-
-I.- Ser ciudadano mexicano por nacimiento, y michoacano, en pleno ejercicio de sus derechos políticos o civiles;
-
-II.- No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco, el día de la elección;
-
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
-
-III.- Tener el día de la elección, con antigüedad mínima de diez años, título profesional de licenciado en derecho expedido por la Universidad Michoacana de San Nicolás de Hidalgo o por la autoridad o institución legalmente facultada para ello;
-
-IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena; y,
-
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
-
-V.- Haber residido en Michoacán durante los dos años anteriores al día de la elección; y,
-
-> <small>(ADICIONADA, P.O. 16 DE MARZO DE 1998)</small>
-
-VI. No haber ocupado el cargo de Secretario o su equivalente, Procurador de Justicia, o Diputado Local, durante el año previo al día de la elección.
-
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
 
 ###### Artículo 72.
 
-Los magistrados durarán tres años en el ejercicio de su encargo, podrán ser reelectos, y si lo fueren, sólo podrán ser privados de su puesto, al finalizar los ejercicios constitucionales, de plano y sin substanciación de trámite alguno, mediante le voto de las dos terceras partes de los miembros del congreso del Estado, en cuyo caso tendrán derecho a un haber por retiro en los términos, cuantía y condiciones que señale la ley, para compensar sus servicios al Poder Judicial. También podrán ser privados de sus cargos, en cualquier tiempo, en los términos del Título Cuarto de esta Constitución y de la Ley de Responsabilidades de los Servidores Públicos del Estado.
+Son auxiliares de los órganos encargados de administrar justicia:
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+I. La Secretaría de Seguridad Pública del Estado;
 
-Cuando el magistrado cumpla setenta años de edad, o padezca incapacidad física o mental permanente para desempeñar su cargo, el Supremo Tribunal dictaminará el retiro forzoso. El dictamen se someterá a la consideración del Gobernador del Estado, quien lo enviará, al Congreso para su discusión y aprobación, en su caso. Podrá retirarse voluntariamente si tiene más de quince años de servicios efectivos como magistrado, siempre que haya cumplido sesenta años de edad. En este caso se seguirá la misma tramitación.
+II. El Registro Civil;
 
-El magistrado que tenga más de diez años de servicios efectivos en ese cargo y cuyo retiro forzoso haya sido aprobado, disfrutará de una pensión mensual equivalente a la remuneración que perciban los magistrados. El que obtenga su retiro voluntario disfrutará de la misma pensión.
+III. El Registro Público de la Propiedad Raíz en el Estado;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MARZO DE 2003)</small>
+IV. Los consejos tutelares;
+
+V. Los médicos legistas;
+
+VI. Los intérpretes y peritos;
+
+VII. Los síndicos e interventores de concursos, quiebras y suspensión de pagos;
+
+VIIII. (sic) Los albaceas, interventores, depositarios, tutores, curadores y notarios, en las funciones que les encomienden las leyes correspondientes;
+
+IX. Los cuerpos policíacos del Estado y de los municipios; y
+
+X. Los demás a quienes las leyes les confieran este carácter.
+
+Los auxiliares estarán obligados a desempeñar las funciones que les encomienden los órganos de la administración de justicia, y sus superiores tendrán el deber de facilitarles el ejercicio de las mismas.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
 
 ###### Artículo 73.
 
-La elección o la reelección de los Magistrados del Supremo Tribunal de Justicia, se hará por el Congreso, a propuesta del Gobernador del Estado; en el primer supuesto, conforme a la lista que este envíe en los términos del artículo 60 de esta Constitución. Previa a esta elección o reelección, los propuestos deberán comparecer ante el Congreso.
+El Supremo Tribunal de Justicia estará integrado por un número no menor de diecinueve magistrados y funcionará en Pleno o en Salas, en los términos que disponga la Ley Orgánica. Los magistrados Presidente y Consejero no integrarán sala.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MARZO DE 2003)</small>
-
-Cada Magistrado del Supremo Tribunal, al entrar a ejercer su encargo, protestará ante el Congreso, en la siguiente forma:
-
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
-
-Presidente: "¿Protestáis desempeñar leal y patrióticamente el cargo de magistrado del Supremo Tribunal de Justicia del Estado de Michoacán de Ocampo, que se os ha conferido, y guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ellas emanen, mirando en todo por el bien y prosperidad de la Nación y del Estado?"
-
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
-
-Magistrado: "Sí, protesto."
-
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
-
-Presidente: "Si no lo hiciéreis así, la Nación y el Estado os lo demanden."
-
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
 
 ###### Artículo 74.
 
-La falta temporal de un magistrado que no exceda de tres meses, será suplida por uno de los supernumerarios que designe el Pleno del Supremo Tribunal. Si la falta es definitiva o por más de tres meses, se seguirá el mismo procedimiento determinado por el artículo 73.
+La Ley Orgánica fijará el número de magistrados y distribuirá las competencias señalando las atribuciones que correspondan al Pleno, al Presidente y a las Salas, y, determinará la integración y regionalización de éstas en caso de ser necesaria.
 
-Los magistrados supernumerarios conocerán de los negocios en el orden de su designación, cuando los propietarios, en su totalidad, sean recusados o se encuentren impedidos; también conocerán de los negocios cuando sea necesaria su intervención para evitar el rezago, por acuerdo del Pleno, a petición del titular de la Sala de que se trate o de la Presidencia; podrán ser llamados también para integrar el Pleno en el caso de falta o impedimento de un magistrado propietario, cuando no exista la mayoría requerida por la ley para la decisión de un asunto.
-
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
 
 ###### Artículo 75.
 
-En caso de que se declaren desaparecidos los Poderes del Estado, el funcionario que asuma el Poder Ejecutivo propondrá al Congreso del Estado, en la misma forma que determina la fracción III del artículo 60, la designación de los magistrados del Supremo Tribunal de Justicia.
+En caso de que se declaren desaparecidos los Poderes del Estado, el Consejo del Poder Judicial propondrá al Congreso del Estado, la designación de los magistrados del Supremo Tribunal de Justicia.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
 
 ###### Artículo 76.
 
-Los magistrados designados para suplir las faltas de los propietarios, durarán en su encargo el tiempo que falte para terminar el período constitucional respectivo.
+Para ser electo Magistrado del Supremo Tribunal de Justicia del Estado, se requiere:
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+I. Ser ciudadano mexicano por nacimiento, y michoacano, en pleno ejercicio de sus derechos políticos y civiles;
+
+II. No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco, al día de la elección;
+
+III. Tener al día de la elección, título profesional de licenciado en derecho con antigüedad mínima de diez años, expedido por la Universidad Michoacana de San Nicolás de Hidalgo o por autoridad o institución legalmente facultada para ello;
+
+IV. Gozar de buena reputación y no haber sido sentenciado por delito doloso;
+
+V.- Haber residido en Michoacán durante los dos años anteriores al día de la elección; y,
+
+VI. No haber ocupado el cargo de titular de las dependencias básicas de la Administración Pública Centralizada o su equivalente, Procurador General de Justicia, o Diputado Local, durante el año previo al día de la elección.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
 
 ###### Artículo 77.
 
-Corresponde al Supremo Tribunal de Justicia del Estado:
+Los Magistrados ejercerán un periodo constitucional de cinco años y podrán ser reelectos hasta en dos ocasiones. Al término del periodo cesarán en sus funciones.
 
-I.- Conocer:
+El Congreso del Estado podrá privarlos de su encargo en cualquier tiempo, cuando incurran en falta de probidad u honradez, mala conducta, negligencia en el desempeño de sus labores o cuando acepten desempeñar otro empleo o cargo de la Federación, Estados, Municipios o particulares, salvo las actividades no remuneradas de la academia, docencia, investigación o de beneficencia y en los términos del Título Cuarto de esta Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
-a).- De las cuestiones de competencia y de la acumulación entre los jueces municipales de diversos distritos judiciales, entre los jueces de primera instancia del Estado y entre éstos y los jueces municipales de otros distritos;
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
 
-b).- De los negocios civiles y penales comunes, como tribunal de apelación;
+###### Artículo 78
 
-c).- De las recusaciones y excusas de los magistrados y secretarios del Tribunal, en los negocios de la competencia del mismo;
+Es causa de retiro forzoso para el magistrado cuando:
 
-d).- Del recurso de queja, en los términos que dispongan las leyes.
+I. Cumpla setenta años de edad;
 
-II.- Expedir su reglamento interior;
+II. Padezca incapacidad física o mental permanente para el desempeño de su encargo; o,
 
-III.- Autorizar a los jueces del Estado a sostener competencias con los jueces de otros Estados, de la Federación, del Distrito Federal y Territorios y con las juntas de Conciliación y Arbitraje, federales y locales, y
+III. Cumpla quince años de servicio en el cargo de magistrado.
 
-IV.- Las demás que le asigne esta Constitución y la Ley Orgánica respectiva.
+El Magistrado cuyo retiro forzoso haya sido aprobado, tendrá derecho a un haber de retiro, en los términos que disponga la Ley Orgánica.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
 
-###### Artículo 78.
+###### Artículo 79
 
-El Supremo Tribunal de Justicia nombrará cada año su Presidente, el cual podrá ser reelecto.
+La elección, reelección o privación del encargo de Magistrado del Supremo Tribunal de Justicia, se hará por el Congreso del Estado mediante el voto de las dos terceras partes de los diputados presentes, a propuesta del Consejo del Poder Judicial.
 
-> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1995)</small>
+Para la elección de los magistrados, el Consejo del Poder Judicial, en los términos que disponga la Ley Orgánica, integrará y enviará al Congreso del Estado, la lista de los aspirantes inscritos.
 
-El Presidente del Supremo Tribunal de Justicia rendirá ante el Pleno, el 10 de febrero de cada año, informe que manifieste el estado que guarde la administración de justicia. A este acto asistirá el Gobernador del Estado, el Presidente del Congreso y los diputados.
+El Consejo del Poder Judicial, noventa días naturales anteriores a la fecha en que concluya el primero y en su caso, el segundo de los ejercicios constitucionales de los magistrados, presentará al Congreso del Estado, dictamen de evaluación del desempeño ético y profesional del Magistrado, para que determine si debe o no ser reelecto.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+Si el Consejo del Poder Judicial advierte, derivado de la evaluación permanente, que algún Magistrado ha incurrido en causales de responsabilidad, en los términos dispuestos por esta Constitución y la ley, deberá, seguido el procedimiento, aplicar la sanción correspondiente. En el caso de que ésta deba ser la privación del encargo o en su caso, la inhabilitación, deberá comunicarlo al Congreso del Estado, para que resuelva.
 
-###### Artículo 79.
-
-El Presidente del Supremo Tribunal será responsable de la buena marcha de la administración de justicia; tendrá la representación del Poder Judicial y las facultades que le fije la Ley Orgánica respectiva.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
 
 ###### Artículo 80.
 
-Los magistrados continuarán en sus funciones aunque haya fenecido su período constitucional o el plazo para el que fueron nombrados, mientras no se presenten los nuevamente designados.
+Cada Magistrado del Supremo Tribunal, al entrar a ejercer su encargo, protestará ante el Congreso del Estado, en la forma siguiente:
+
+Presidente: <<¿Protesta desempeñar leal y patrióticamente el cargo de Magistrado del Supremo Tribunal de Justicia del Estado de Michoacán de Ocampo, que se le ha conferido, y guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo y las leyes que de ellas emanen, mirando en todo por el bien y prosperidad de la Nación y del Estado?>>
+
+Magistrado: <<Sí, protesto>>
+
+Presidente: <<Si no lo hace así, la Nación y el Estado se lo demanden>>
 
 > <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
 #### SECCION II. De los Juzgados de Primera Instancia
 
-(REFORMADO, P.O. 1 DE FEBRERO DE 1960) (F. DE E., P.O. 18 DE ABRIL DE 1960)
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
 
 ###### Artículo 81.
 
-La administración de justicia en primera instancia estará a cargo de jueces letrados. La Ley determinará el número de éstos, su residencia, su competencia, sus atribuciones y la manera de llenar sus faltas absolutas o temporales.
+La falta temporal de un Magistrado que no exceda de noventa días naturales, será suplida por quien, cumpliendo los requisitos del cargo, establezca la Ley Orgánica.
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1985)</small>
-
-El Supremo Tribunal de Justicia podrá nombrar jueces de Primera Instancia supernumerarios, que auxilien las labores de los juzgados donde hubiere recargo de negocios, a fin de obtener que la administración de justicia sea pronta y expedita.
-
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
 
 ###### Artículo 82.
 
-Los Jueces de Primera Instancia, serán nombrados por el Supremo Tribunal de Justicia, en la forma que establezca la Ley Orgánica del Poder Judicial, durarán en su encargo tres años, y no podrán ser privados de sus puestos sino en los términos del título IV de esta Constitución. Al concluir su encargo, continuarán en sus funciones hasta que se presenten los nuevamente nombrados.
+Cuando la falta exceda el plazo señalado en el artículo anterior, se hará una nueva elección. Los magistrados electos ejercerán el cargo hasta concluir el período constitucional respectivo.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
 
 ###### Artículo 83.
 
-Para ser juez de Primera Instancia se requiere:
+Corresponde al Supremo Tribunal de Justicia del Estado:
 
-I.- Ser ciudadano mexicano en el ejercicio de sus derechos;
+I.- Conocer en Pleno:
 
-II.- Tener veinticinco años cumplidos;
+a).- De las cuestiones de competencia y de la acumulación entre los jueces de cuantía menor de diversos distritos judiciales, entre los jueces de primera instancia del Estado y entre éstos y los jueces de cuantía menor de otros distritos;
 
-III.- Tener el día de la elección, con antigüedad mínima de tres años, título profesional de licenciado en derecho expedido por la Universidad Michoacana de San Nicolás de Hidalgo o por la autoridad o institución legalmente facultada para ello; y,
+b).- De los negocios civiles y penales comunes, como tribunal de revisión;
 
-IV.- No haber sido condenado por delito doloso, infamante o contra la propiedad.
+c).- De las recusaciones y excusas de los magistrados y secretarios del Tribunal, en los negocios de la competencia del mismo;
 
-Deberá considerarse la trayectoria del aspirante a juez en la carrera judicial que se instituye, y se podrá convocar a concursos o a exámenes de capacidad, en los términos que marque la ley.
+d).- Del recurso de queja, en los términos que dispongan las leyes;
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+e) De la expedición y modificación de su reglamento interior;
+
+f) De la aprobación del proyecto de presupuesto que someta a su consideración el Consejo del Poder Judicial;
+
+g) De la autorización a los jueces del Estado a sostener competencias con los jueces de otros Estados, de la Federación y del Distrito Federal y con las juntas de Conciliación y Arbitraje, federal y local; y,
+
+h) Las demás que le asigne esta Constitución y la Ley Orgánica respectiva; y,
+
+II.- Conocer en Salas:
+
+a) De los negocios civiles, penales y de jurisdicción concurrente como tribunal de apelación;
+
+b) De los recursos de queja en negocios civiles y penales; y,
+
+c) Las demás que le asigne esta Constitución y la Ley Orgánica respectiva.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
 
 ###### Artículo 84.
 
-Los jueces de Primera Instancia residirán en la cabecera de distrito que señale la ley, y no podrán cambiar el despacho a otra población, sino autorizados por el Supremo Tribunal de Justicia.
+El Supremo Tribunal de Justicia nombrará cada tres años a su Presidente, dentro de los quince días siguientes a que concluya tal periodo, el que no podrá ser reelecto para el periodo inmediato posterior.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+El Presidente del Supremo Tribunal de Justicia rendirá ante y en nombre del Pleno y del Consejo del Poder Judicial, el tercer jueves del mes de febrero de cada año, informe del estado que guarde la administración de justicia. A este acto asistirán el Gobernador del Estado y los diputados al Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
 
 ### CAPÍTULO VII. DE LA PROFESIONALIZACIÓN DEL SERVICIO
 
 ###### Artículo 85.
 
-Son atribuciones de los Jueces de Primera Instancia:
+El Presidente del Supremo Tribunal será responsable de la buena marcha de la administración de justicia; tendrá la representación del Poder Judicial y las facultades que le señale la Ley Orgánica.
 
-I.- Conocer en primera instancia de los negocios civiles y penales de su territorio;
+> <small>(REFORMADO Y REUBICADO, P.O. 23 DE MAYO DE 2006)</small>
 
-> <small>(F. DE E., P.O. 18 DE ABRIL DE 1960)</small>
+###### Artículo 86
 
-II.- Conocer de las cuestiones de competencia y las de acumulación que se susciten entre los jueces municipales del mismo distrito;
+La administración de justicia en primera instancia estará a cargo de jueces. La Ley determinará el número de éstos, su residencia, su competencia, sus atribuciones y la manera de cubrir sus faltas absolutas o temporales. Los Juzgados de Primera Instancia residirán en la cabecera de distrito que señale la Ley Orgánica.
 
-III.- Nombrar a los empleados de su despacho, y
-
-IV.- Desempeñar las demás funciones que les asignen las leyes.
-
-> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
-
-###### Artículo 86.
-
-Habrá jueces municipales en las poblaciones que determine la Ley Orgánica respectiva, los que serán nombrados por el Supremo Tribunal de Justicia. La ley determinará el número de esos funcionarios que ha de haber en cada población, sus facultades, obligaciones y modo de llenar sus faltas.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 23 DE MAYO DE 2006)</small>
 
 ###### Artículo 87.
 
-Los jueces municipales durarán en su encargo el tiempo que marque la Ley Orgánica respectiva, no pudiendo renunciar sino por causa que calificará el Supremo Tribunal de Justicia.
+Los jueces de Primera Instancia, serán nombrados y adscritos por el Consejo del Poder Judicial, de conformidad con los requisitos, procedimientos y criterios, establecidos en la Ley Orgánica. Durarán en su encargo tres años, al término de los cuales podrán ser ratificados, previo dictamen de evaluación de su desempeño ético y profesional.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+Los jueces podrán ser privados de sus encargos en cualquier tiempo, por las mismas causales establecidas en el artículo 77 de esta Constitución.
+
+El Consejo del Poder Judicial conocerá, dictaminará y determinará sobre retiro forzoso de un Juez, cuando cumpla setenta años de edad o padezca incapacidad física o mental permanente para el desempeño de su encargo. De ser aprobado, el Juez tendrá derecho a un haber de retiro.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 23 DE MAYO DE 2006)</small>
 
 ###### Artículo 88.
 
-Par ser juez municipal se requiere:
+Para ser Juez de Primera Instancia se requiere:
+
+I.- Ser ciudadano mexicano en el ejercicio de sus derechos;
+
+II.- Tener veinticinco años cumplidos al día de la elección;
+
+III.- Tener el día de la elección, con antigüedad mínima de tres años, título profesional de licenciado en derecho expedido por la Universidad Michoacana de San Nicolás de Hidalgo o por la autoridad o institución legalmente facultada para ello; y,
+
+IV.- No haber sido sentenciado por delito doloso.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 23 DE MAYO DE 2006)</small>
+
+###### Artículo 89.
+
+Son atribuciones de los Jueces de Primera Instancia:
+
+I.- Conocer en primera instancia de los negocios civiles, penales y de jurisdicción concurrente de su Distrito Judicial;
+
+II.- Conocer de las cuestiones de competencia y las de acumulación que se susciten entre los jueces de cuantía menor del mismo Distrito;
+
+III.- Tener a su cargo al personal de su juzgado y poner en conocimiento del Consejo del Poder Judicial las irregularidades por estos cometidas; y,
+
+IV.- Desempeñar las demás funciones que les confieran las leyes.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MAYO DE 2006)</small>
+
+#### SECCION III. De los Jueces Menores y Comunales
+
+> <small>(REFORMADO Y REUBICADO, P.O. 23 DE MAYO DE 2006)</small>
+
+###### Artículo 90.
+
+Habrá jueces menores en los municipios que determine la Ley Orgánica, durarán en su encargo tres años cumplirán con los requisitos y tendrán la competencia y atribuciones que la misma señale.
+
+El Consejo del Poder Judicial determinará su nombramiento, adscripción, el número que habrá en cada municipio y el procedimiento para cubrir sus faltas temporales o absolutas.
+
+Los Jueces menores podrán ser ratificados previo dictamen de evaluación y privados de su encargo, conforme al artículo 77 de esta Constitución.
+
+El Consejo del Poder Judicial, establecerá juzgados comunales en las poblaciones que por sus características lo requieran. La competencia y atribuciones de estos juzgados se establecerá en la Ley Orgánica.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 23 DE MAYO DE 2006)</small>
+
+###### Artículo 91.
+
+Para ser Juez Menor o Comunal se requiere:
 
 I.- Ser ciudadano mexicano en ejercicio de sus derechos;
 
 II.- Tener veintiún años cumplidos;
 
-III.- Ser vecino de la población donde debe desempeñar el cargo, con residencia en ella de, cuando menos, un año;
+III.- Tener residencia de por lo menos un año en el Estado de Michoacán anterior a su nombramiento; y,
 
-IV.- Saber leer y escribir, y
+IV.- No haber sido sentenciado por delitos (sic) doloso.
 
-V.- Ser de notoria buena conducta, y no haber sido condenado por delitos contra la propiedad.
-
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 1984)</small>
-
-###### Artículo 89.
-
-Los Jueces Municipales no podrán ser removidos en el ejercicio de su encargo, sino conforme al título IV de esta Constitución.
-
-> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
-
-#### SECCION III. De los Jueces Municipales
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
-
-###### Artículo 90.
-
-Todo ciudadano en ejercicio de sus derechos, que sepa leer y escribir está obligado a desempeñar las funciones de jurado en la población en donde resida.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
-
-###### Artículo 91.
-
-Es obligación de los jurados conocer, en calidad de jueces, de los negocios que determinen las leyes.
-
-> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
+(REFORMADO, P.O. 16 DE MARZO DE 1998) (REUBICADO, P.O. 23 DE MAYO DE 2006)
 
 ###### Artículo 92.
 
 Ninguna persona podrá hacerse justicia por sí misma ni ejercer violencia para reclamar su derecho.
 
-Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial; cuidando que los procedimientos y los términos establecidos por la ley hagan eficaz esta garantía. Su servicio será gratuito quedando, en consecuencia, prohibidas por las costas judiciales.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
+
+Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial; cuidando que los procedimientos y los términos establecidos por la ley hagan eficaz esta garantía. Su servicio será gratuito.
 
 La ley establecerá los medios necesarios para que se garantice la independencia de los tribunales y la plena ejecución de sus resoluciones.
 
 Nadie puede ser aprisionado por deudas de carácter puramente civil.
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 1988)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 23 DE MAYO DE 2006)</small>
 
 ###### Artículo 93.
 
-los negocios judiciales serán decididos dentro del Estado en todas sus instancias, las que nunca podrán ser más de dos. Cada instancia será sentenciada por diferentes jueces.
+Los negocios judiciales serán decididos dentro del Estado en todas sus instancias, las que nunca podrán ser más de dos. Cada instancia será sentenciada por diferentes jueces.
 
-Los negocios de poca cuantía y los procesos por delitos leves se tramitarán sumaria y definitivamente por los jueces municipales, en los términos de la Ley; pero nunca se procederá sin audiencia de parte y comprobación de los hechos.
+La ley determinará la competencia de los jueces menores y comunales.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+En todos los casos se procederá con audiencia de parte y comprobación de los hechos. Toda persona está en libertad para terminar sus diferencias con otra, ya sea por convenio o por medio de árbitro o mediador, aun cuando se haya sometido a juicio y sea cual fuere el estado que éste guarde. Toda sentencia arbitral se ejecutará sin recurso, a menos que las partes se hayan reservado alguno.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 23 DE MAYO DE 2006)</small>
 
 ###### Artículo 94.
 
-Toda persona está en libertad para terminar sus diferencias con otra, ya sea por convenio o por medio de árbitro o arbitradores, aun cuando se haya sometido a juicio y sea cual fuere el estado que éste guarde. Toda sentencia arbitral se ejecutará sin recurso, a menos que las partes se hayan reservado alguno.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
-
-## TITULO CUARTO. De las Responsabilidades de los Funcionarios Públicos
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 2005)</small>
-
-### CAPÍTULO V. DE LA ADMINISTRACIÓN PARAMUNICIPAL
-
-### CAPÍTULO VII. DE LA FACULTAD REGLAMENTARIA
-
-#### SECCION IV. De los Jurados
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
-
-###### Artículo 95.
-
 En el curso de los procesos penales no se emplearán con los acusados promesas, amenazas o violencias.
-
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
 
 Las penas privativas de la libertad no podrán en ningún caso exceder de cuarenta años. Esta sanción podrá contemplarse como máxima para delitos calificados como graves por la ley y, también, en el caso de los concursos.
 
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 1998)</small>
-
 En todo proceso penal, la víctima o el ofendido por algún delito, tendrá derecho a recibir asesoría jurídica, a que se le satisfaga la reparación del daño cuando proceda, a coadyuvar con el Ministerio Público, a que se le preste atención médica de urgencia cuando lo requiera y, los demás que señalen las leyes.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2005)</small>
+> <small>(ADICIONADO CON LOS CAPITULOS Y SECCIONES QUE LO INTEGRAN, P.O. 23 DE MAYO DE 2006)</small>
 
-#### SECCION V. De la Administración de Justicia en General
+## TITULO TERCERO A
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
+> <small>(ADICIONADO CON LAS SECCIONES QUE LO INTEGRAN, P.O. 23 DE MAYO DE 2006)</small>
+
+### CAPÍTULO V. DE LA ADMINISTRACIÓN PARAMUNICIPAL
+
+### CAPITULO I. De los Organismos Autónomos
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2006)</small>
+
+#### SECCION I. Del Tribunal de Justicia Administrativa
+
+> <small>(REFORMADO Y REUBICADO, P.O. 23 DE MAYO DE 2006)</small>
+
+###### Artículo 95.
+
+El Tribunal de Justicia Administrativa, será órgano autónomo, independiente en sus resoluciones y de jurisdicción plena en materia administrativa con sujeción a los principios de igualdad, publicidad, audiencia y legalidad.
+
+Tendrá competencia para dirimir, resolviendo en forma definitiva, las controversias que se susciten por actos u omisiones de naturaleza administrativa o fiscal del Poder Ejecutivo, de la Auditoría Superior de Michoacán, de los ayuntamientos, de los organismos autónomos, de las entidades u organismos descentralizados o desconcentrados, estatales o municipales. La ley determinará las atribuciones y procedimientos al tenor de la presente Constitución.
+
+Funcionará y se organizará según lo determine su Ley Orgánica, en colegio de tres Magistrados y sus sesiones serán públicas.
+
+Para ser Magistrado del Tribunal se deberán satisfacer los requisitos que señala esta Constitución para ser designado Magistrado del Supremo Tribunal de Justicia del Estado.
+
+El Poder Legislativo elegirá a los magistrados por el voto de las dos terceras partes de los diputados presentes del Congreso del Estado, mediante convocatoria pública.
+
+Los magistrados tendrán un periodo constitucional de cinco años en el ejercicio del cargo y podrán ser reelectos hasta en dos ocasiones. Al término de su periodo cesarán en sus funciones.
+
+El Congreso del Estado conocerá de las quejas en contra de los magistrados, podrá privarlos de su encargo, por las mismas causas que señala el artículo 77 de esta Constitución y determinará su retiro forzoso de conformidad con el artículo 78 de esta Constitución.
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2006)</small>
+
+#### SECCION II. De la Comisión Estatal de los Derechos Humanos
+
+> <small>(REFORMADO REUBICADO, P.O. 23 DE MAYO DE 2006)</small>
 
 ###### Artículo 96.
 
-La administración de la justicia recaerá en el Tribunal de lo Contencioso Administrativo del Estado, que estará dotado de plena autonomía para dictar sus fallos, y tendrá a su cargo dirimir las controversias que se susciten entre la administración pública estatal o municipal y los particulares.
+El Congreso del Estado, en el ámbito de su competencia, establecerá el organismo de protección de los Derechos Humanos que ampara el orden jurídico mexicano, el que conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público, con excepción de los del Poder Judicial del Estado que violen estos derechos.
 
-El Tribunal de lo Contencioso Administrativo del Estado se organizará en los términos que señale la ley de la materia, con sujeción a los principios de igualdad, publicidad, audiencia y legalidad.
-
-Para ser electo Magistrado del Tribunal de lo Contencioso Administrativo del Estado, se deberán satisfacer los requisitos que señale la ley de la materia. Serán electos por el voto de las dos terceras partes de los diputados presentes del Congreso del Estado, a propuesta del Titular del Poder Ejecutivo, el que deberá turnar al Congreso una lista que contenga el triple de magistrados a elegir, tomada del padrón turnado por el Tribunal de lo Contencioso Administrativo del Estado. Durarán cuatro años en el ejercicio de su encargo y podrán ser reelectos por dos periodos más.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE FEBRERO DE 1993)</small>
-
-#### SECCION VI. Del Ministerio Público, de la Comisión Estatal de Derechos Humanos y de la Defensoría de Oficio
-
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
-
-###### Artículo 97.
-
-El Ministerio Público es la Institución encargada de velar por la exacta observancia de las leyes en los casos en que tenga intervención, conforme a su Ley Orgánica. Para tal fin, deberá ejercitar las acciones que correspondan contra los infractores de esas leyes; hacer efectivos los derechos concedidos al Estado y representar a éste ante los tribunales en estos casos.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
-
-#### SECCION I. De la Tesorería General
-
-> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1983)</small>
-
-###### Artículo 98.
-
-Ejercen esta Institución en el Estado el Procurador General de Justicia y los agentes del Ministerio Público que determine la ley.
-
-> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DEL 2005)</small>
-
-En los casos en que debe intervenir el Ministerio Público, el Procurador General de Justicia podrá hacerlo por sí o por medio de alguno de sus agentes.
-
-> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DEL 2005)</small>
-
-La Ley Orgánica de la institución fijará el número, adscripción, obligaciones y atribuciones de los funcionarios y empleados que la integren.
-
-> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DEL 2005)</small>
-
-El Procurador General de Justicia, deberá rendir al Congreso del Estado, un informe anual respecto de las acciones y resultados de la institución a su cargo.
-
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
-
-#### SECCION II. De la Auditoría Superior de Michoacán
-
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
-
-### CAPÍTULO I. DE LA ADMINISTRACIÓN CENTRALIZADA
-
-#### SECCIÓN NOVENA. DE LAS OBLIGACIONES DE LOS REGIDORES
-
-###### Artículo 99.
-
-Para ser Procurador General de Justicia se requiere:
-
-I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
-
-II. No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco años, el día de su designación;
-
-III. Contar el día de su designación con una antigüedad de cinco años en el ejercicio de su profesión y tener título profesional de licenciado en derecho expedido por la Universidad Michoacana de San Nicolas de Hidalgo o por universidad, autoridad o institución legalmente facultada para ello;
-
-IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena; y,
-
-V. Haber residido en el país durante los últimos cinco años, salvo el caso de ausencia en el servicio de la República por un tiempo menor de seis meses.
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DEL 2005)</small>
-
-###### Artículo 100.
-
-El Congreso del Estado ratificará el nombramiento del Procurador General de Justicia, que haga el Gobernador del Estado, mediante el voto de las dos terceras partes de los diputados presentes, en los días quince días naturales siguientes a su recepción. La falta de resolución causa la ratificación tácita del nombramiento, por lo que éste surtirá todos sus efectos constitucionales.
-
-Cuando el Congreso del Estado rechace el nombramiento, el Titular del Ejecutivo dispondrá de cinco días naturales para enviar uno nuevo. Si éste fuera rechazado, formulará un tercero. Desechado este último, dentro de las setenta y dos horas siguientes, el Congreso ratificará a quien cumpliendo con los requisitos constitucionales, obtenga el mayor número de votos mediante cédula, de entre los presentados por el Ejecutivo.
-
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
-
-###### Artículo 101.
-
-El Congreso del Estado, en el ámbito de su competencia, establecerá el organismo de protección de los Derechos Humanos que ampara el orden jurídico mexicano, el que conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público, con excepción de los del Poder Judicial del Estado que violen estos derechos. Formulará recomendaciones públicas, no vinculatorias, y denuncias y quejas ante las autoridades respectivas.
+Formulará recomendaciones públicas, no vinculatorias, y denuncias y quejas ante las autoridades respectivas.
 
 Este organismo no será competente tratándose de asuntos electorales, laborales y jurisdiccionales.
 
@@ -1533,85 +1485,97 @@ La Comisión Estatal de los Derechos Humanos tendrá un Presidente, que será el
 
 El Presidente de la Comisión Estatal de los Derechos Humanos, presentará anualmente a los Poderes del Estado un informe de actividades. Al efecto, comparecerá ante el Congreso del Estado en los términos que disponga la Ley.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2006)</small>
+
+#### SECCION III. De la Comisión Estatal para el Acceso a la Información Pública
+
+> <small>(REFORMADO Y REUBICADO, P.O. 23 DE MAYO DE 2006)</small>
+
+###### Artículo 97.
+
+La Comisión Estatal para el Acceso a la Información Pública será órgano de decisión, autoridad, promoción, difusión e investigación sobre el derecho de acceso a la información pública. Tiene autonomía patrimonial, de operación y de decisión. Está integrado por tres comisionados, de los cuales uno será su Presidente.
+
+Los comisionados serán electos por el Congreso del Estado, por el voto de las dos terceras partes de los diputados presentes, a propuesta del Gobernador del Estado, quien a partir de propuestas de instituciones y organizaciones académicas, profesionales y ciudadanas, enviará una lista de aspirantes con el triple del número de comisionados a nombrar, para que de entre ellos se elija a quien ocupará el cargo. En caso de que el Congreso rechace total o parcialmente la lista propuesta, el Gobernador del Estado someterá una nueva lista de aspirantes en los términos señalados. Si no hubiere acuerdo del Congreso, el Gobernador del Estado designará a los comisionados faltantes, de entre las propuestas.
+
+#### SECCION I. Del Ministerio Público
+
+> <small>(REFORMADO Y REUBICADO, P.O. 23 DE MAYO DE 2006)</small>
+
+###### Artículo 98.
+
+(DEROGADO Y REUBICADO, P.O. 23 DE MAYO DE 2006)
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y SECCIONES QUE LO INTEGRAN, P.O. 23 DE MAYO DE 2006)</small>
+
+#### SECCION II. De la Defensoría de Oficio
+
+> <small>(REFORMADO Y REUBICADO, P.O. 23 DE MAYO DE 2006)</small>
+
+### CAPITULO II. Del Ministerio Público y Defensoría de Oficio
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2006)</small>
+
+#### SECCION I. De la Tesorería General
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1983)</small>
+
+###### Artículo 99.
+
+El Ministerio Público es la institución encargada de velar por la exacta observancia de las leyes en los casos en que tenga intervención, conforme a su Ley Orgánica. Para tal fin, deberá ejercitar las acciones que correspondan contra los infractores de esas leyes; hacer efectivos los derechos concedidos al Estado y representar a éste ante los tribunales en estos casos.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 23 DE MAYO DE 2006)</small>
+
+###### Artículo 100.
+
+Ejercen esta institución en el Estado el Procurador General de Justicia y los agentes del Ministerio Público que determine la ley.
+
+En los casos en que debe intervenir el Ministerio Público, el Procurador General de Justicia podrá hacerlo por sí o por medio de alguno de sus agentes.
+
+La Ley Orgánica de la institución fijará el número, adscripción, obligaciones y atribuciones de los funcionarios y empleados que la integren.
+
+El Procurador General de Justicia, deberá rendir al Congreso del Estado, un informe anual respecto a las acciones y resultados de la institución a su cargo.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 23 DE MAYO DE 2006)</small>
+
+###### Artículo 101.
+
+Para ser Procurador General de Justicia se requiere:
+
+I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
+
+II. No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco años, el día de su designación;
+
+III. Contar el día de su designación con una antigüedad de cinco años en el ejercicio de su profesión y tener título profesional de licenciado en derecho expedido por la Universidad Michoacana de San Nicolas de Hidalgo o por universidad, autoridad o institución legalmente facultada para ello;
+
+IV. Gozar de buena reputación y no haber sido sentenciado por delito doloso; y,
+
+(sic). Haber residido en el país durante los últimos cinco años, salvo el caso de ausencia en el servicio de la República por un tiempo menor de seis meses.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 23 DE MAYO DE 2006)</small>
 
 ###### Artículo 102.
 
-La Defensoría de Oficio proporcionará la defensa necesaria en materia penal a los procesados que no tengan defensor particular y patrocinará en los asuntos civiles y administrativos a las personas que lo soliciten y acrediten no tener suficientes recursos económicos.
+El Congreso del Estado ratificará el nombramiento del Procurador General de Justicia, que haga el Gobernador del Estado, mediante el voto de las dos terceras partes de los diputados presentes, en los quince días naturales siguientes a su recepción. La falta de resolución causa la ratificación tácita del nombramiento, por lo que éste surtirá todos sus efectos constitucionales.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+Cuando el Congreso del Estado rechace el nombramiento, el Titular del Ejecutivo dispondrá de cinco días naturales para enviar uno nuevo. Si éste fuera rechazado, formulará un tercero. Desechado este último, dentro de las setenta y dos horas siguientes, el Congreso ratificará a quien cumpliendo con los requisitos constitucionales, obtenga el mayor número de votos mediante cédula, de entre los presentados por el Ejecutivo.
 
-#### SECCIÓN DÉCIMA. DE LAS AUSENCIAS DE LOS REGIDORES
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2006)</small>
 
-> <small>(ADICIONADO, D.O. 17 DE AGOSTO DE 2011)</small>
+#### SECCION II. De la Auditoría Superior de Michoacán
 
-Artículo 64 A.- Los regidores requieren licencia del Cabildo para separarse del ejercicio de sus funciones. Las licencias de estos podrán ser por un plazo determinado o indefinido.
-
-Las faltas temporales que no excedan de 5 días naturales ininterrumpidas se harán del conocimiento del Cabildo, sin que se requiera licencia.
-
-> <small>(ADICIONADO, D.O. 17 DE AGOSTO DE 2011)</small>
-
-Artículo 64 B.- En las licencias por más de 30 días de un Regidor, el Cabildo deberá llamar al suplente respectivo.
-
-Al término del plazo de la licencia concedida, el propietario se reincorporará de inmediato a su cargo, notificándolo al Presidente Municipal para los efectos legales correspondientes.
-
-En caso de que el Regidor con licencia no se presentare al término del plazo concedido, se considerará como licencia indefinida, continuando el suplente nombrado en funciones.
-
-El Regidor con licencia indefinida que desee reincorporarse a su cargo o el Regidor con licencia de plazo determinado que desee regresar a su cargo antes del período concedido, deberá notificarlo al Presidente Municipal, a efecto de que sea convocado a la próxima sesión del Cabildo.
-
-Si el Regidor, al momento de notificar al Presidente Municipal su intención de reincorporarse a su cargo, este ya hubiere convocado a una sesión previamente, el Regidor deberá ser convocado a la sesión subsecuente, y si se omitiere su convocatoria, el Regidor podrá incorporarse en esa sesión de Cabildo, para lo cual el suplente respectivo deberá ceder su lugar al Propietario.
-
-> <small>(ADICIONADO, D.O. 17 DE AGOSTO DE 2011)</small>
-
-Artículo 64 C.- La ausencia de un Regidor a 3 sesiones ordinarias de Cabildo consecutivas, sin causa justificada calificada por éste, se considerará como abandono definitivo del cargo y no tendrá derecho a su reincorporación al mismo.
-
-Para efectos del párrafo anterior, el Presidente Municipal notificará al Regidor ausente, para que manifieste lo que a su derecho convenga y en su caso, ofrezca las pruebas pertinentes en un plazo de quince días. Transcurrido dicho plazo, el Cabildo acordará en su caso, si procede su reincorporación o si se actualiza el abandono definitivo del cargo y si procede llamar al suplente, quien deberá rendir el compromiso constitucional en la sesión siguiente. El acuerdo del Cabildo que declare el abandono definitivo del cargo deberá notificarse al interesado dentro de los cinco días naturales siguientes, así como al Congreso del Estado para los efectos legales conducentes.
-
-> <small>(ADICIONADO, D.O. 17 DE AGOSTO DE 2011)</small>
-
-Artículo 64 D.- En la sesión de Cabildo que se autorice una licencia a un Regidor por más de 30 días, se deberá mandar llamar al suplente respectivo.
-
-En caso de que la licencia sea otorgada al Presidente Municipal o Secretario, en la misma sesión se deberá nombrar a quien lo sustituya.
-
-El Regidor con licencia autorizada no podrá votar en el nombramiento a que se refiere el párrafo anterior.
-
-> <small>(ADICIONADO, D.O. 17 DE AGOSTO DE 2011)</small>
-
-Artículo 64 E.- En las ausencias del Presidente Municipal hasta de 30 días naturales, será suplida (sic) por el Secretario Municipal como encargado del despacho.
-
-> <small>(ADICIONADO, D.O. 17 DE AGOSTO DE 2011)</small>
-
-Artículo 64 F.- En caso de licencia otorgada al Presidente Municipal por más de 30 días y hasta por 60 días, el Secretario Municipal, asumirá el cargo de Presidente Municipal Provisional.
-
-> <small>(ADICIONADO, D.O. 17 DE AGOSTO DE 2011)</small>
-
-Artículo 64 G.- La licencia otorgada al Presidente Municipal por más de 60 días y las indefinidas, serán cubiertas por un Presidente Municipal Interino, electo por mayoría simple de votos de entre los integrantes del Cabildo.
-
-> <small>(ADICIONADO, D.O. 17 DE AGOSTO DE 2011)</small>
-
-Artículo 64 H.- El Ayuntamiento procederá a nombrar por mayoría absoluta de votos un Presidente Municipal Sustituto de entre los integrantes del Cabildo, en los siguientes supuestos:
-
-I.- Por incapacidad permanente total, muerte o falta absoluta del Presidente Municipal;
-
-II.- Por estado de interdicción declarado en sentencia judicial;
-
-III.- Por revocación de mandato; y
-
-IV.- Por declaración de procedencia, en cuyo caso el Presidente Municipal sustituto, desempeñará la función durante el transcurso del juicio, hasta que se dicte sentencia firme. Si ésta fuere condenatoria, el presidente municipal sustituto, concluirá el período correspondiente.
-
-Cuando se actualice cualquiera de los supuestos anteriores, el Secretario Municipal convocará, dentro de las 48 horas siguientes, a sesión extraordinaria del Ayuntamiento, la que se ocupará única y exclusivamente del nombramiento del Presidente Municipal Sustituto a propuesta de los integrantes del Ayuntamiento, cuya planilla haya obtenido el primer lugar de la votación en la elección del Ayuntamiento en funciones.
-
-Por falta absoluta se entenderá la ausencia definitiva por más de 30 días del Presidente Municipal sin mediar licencia y sin conocerse la ubicación del mismo. En caso de que el Presidente Municipal ausente desee regresar a su cargo, lo solicitará al Cabildo aportando las pruebas que pretenda justificar su ausencia, si el Cabildo califica como justificada la misma, este deberá reintegrarse en la próxima sesión que sea convocada.
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
 
 ###### Artículo 103.
+
+La Defensoría de Oficio proporcionará la defensa necesaria en materia penal a los procesados que no tengan defensor particular y patrocinará en los asuntos civiles y administrativos a las personas que lo soliciten y acrediten no tener suficientes recursos económicos.
 
 La Ley Orgánica de la Defensoría de Oficio fijará las demás atribuciones y deberes inherentes a su organización.
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
-## TITULO QUINTO. De los Municipios del Estado
+## TITULO CUARTO. De las Responsabilidades de los Funcionarios Públicos
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
 
 ### CAPÍTULO VI. DE LA ASOCIACIÓN Y COORDINACIÓN MUNICIPAL
 
@@ -1619,25 +1583,13 @@ La Ley Orgánica de la Defensoría de Oficio fijará las demás atribuciones y d
 
 ###### Artículo 104.
 
-Para los efectos de las responsabilidades a que alude este título, se reputarán como servidores públicos a los representantes de elección popular, tanto estatales como municipales, a los miembros del Poder Judicial, a los miembros del Tribunal Electoral del Estado, a los miembros del Tribunal de lo Contencioso Administrativo del Estado, a los funcionarios y empleados, y en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública estatal o municipal, así como a los servidores del Instituto Electoral de Michoacán, de la Comisión Estatal de los Derechos Humanos, de la Comisión Estatal de Acceso a la Información Pública, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+Para los efectos de las responsabilidades a que alude este Título, se reputarán como servidores públicos a los representantes de elección popular, tanto estatales como municipales, a los miembros del Poder Judicial, del Consejo del Poder Judicial, a los miembros del Tribunal Electoral del Estado, a los miembros del Tribunal de Justicia Administrativa, a los funcionarios y empleados, y en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública estatal o municipal, así como a los servidores del Instituto Electoral de Michoacán, de la Comisión Estatal de los Derechos Humanos, de la Comisión Estatal de Acceso a la Información Pública, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 1984)</small>
-
-El Gobernador del Estado, durante el tiempo de su encargo, sólo podrá ser acusado por violaciones a esta Constitución, o a la Constitución General de la República por manejo indebido de fondos federales y estatales y por delitos graves del orden común.
-
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 1984)</small>
-
-Se concede acción popular, para denunciar ante el Congreso del Estado, los delitos comunes cometidos por los servidores públicos, sin obligación de constituirse en parte.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
 
 ###### Artículo 105.
 
-Siempre que se trate de un delito del orden común, cometido por el Gobernador, los Diputados al Congreso, Magistrados del Supremo Tribunal de Justicia, Secretario de Gobierno, Oficial Mayor, Procurador de Justicia, Tesorero del Estado, Auditor Superior, Magistrados del Tribunal de lo Contencioso Administrativo, Magistrados del Tribunal Electoral del Estado, Consejero Presidente y Consejeros Electorales del Instituto Electoral de Michoacán, el Congreso erigido en Gran Jurado, declarará por los dos tercios de los votos de sus miembros presentes cuando se trate del Gobernador, y por mayoría, cuando se trate de otros funcionarios, si procede o no la formación de causa. En caso negativo, no habrá lugar a procedimiento ulterior, salvo que aparezcan nuevos datos y elementos, pero tal declaración no será obstáculo para que la acusación continúe su curso cuando el acusado haya dejado de tener fuero, pues la resolución del Congreso no prejuzga absolutamente sobre los fundamentos de la acusación. En caso afirmativo quedará el acusado separado de su encargo y sujeto a la acción de los tribunales comunes, salvo que se trate del Gobernador del Estado, en cuyo caso sólo habrá lugar a que el Congreso lo juzgue como si se tratare de un delito oficial. La declaración de haber lugar a formación de causa contra un funcionario de elección popular, procede desde la fecha en que haya sido declarado electo.
-
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-Si los expresados funcionarios no estuvieren ejerciendo su cargo, no gozarán de fuero constitucional por los delitos oficiales, faltas u omisiones en que incurran en el ejercicio de algún empleo, encargo o comisión del servicio público que hayan aceptado antes o durante el período en que, conforme a la ley, se disfrute de aquel fuero. Para que la causa pueda iniciarse cuando el funcionario haya vuelto a ejercer sus funciones, deberá procederse con arreglo a lo dispuesto en la primera parte de este artículo.
+Siempre que se trate de un delito del orden común, cometido por el Gobernador, los Diputados al Congreso, Magistrados del Supremo Tribunal de Justicia, Consejeros del Poder Judicial, Secretario de Gobierno, Oficial Mayor, Procurador de Justicia, Tesorero del Estado, Auditor Superior, Magistrados del Tribunal de Justicia Administrativa, Magistrados del Tribunal Electoral del Estado, Consejero Presidente y Consejeros Electorales del Instituto Electoral de Michoacán, el Congreso erigido en Gran Jurado, declarará por los dos tercios de los votos de sus miembros presentes cuando se trate del Gobernador, y por mayoría, cuando se trate de otros funcionarios, si procede o no la formación de causa. En caso negativo, no habrá lugar a procedimiento ulterior, salvo que aparezcan nuevos datos y elementos, pero tal declaración no será obstáculo para que la acusación continúe su curso cuando el acusado haya dejado de tener fuero, pues la resolución del Congreso no prejuzga absolutamente sobre los fundamentos de la acusación. En caso afirmativo quedará el acusado separado de su encargo y sujeto a la acción de los tribunales comunes, salvo que se trate del Gobernador del Estado, en cuyo caso sólo habrá lugar a que el Congreso lo juzgue como si se tratare de un delito oficial. La declaración de haber lugar a formación de causa contra un funcionario de elección popular, procede desde la fecha en que haya sido declarado electo.
 
 > <small>(REFORMADO, P.O. 8 DE FEBRERO DE 1984)</small>
 
@@ -1663,39 +1615,21 @@ Los procedimientos para la aplicación de las sanciones mencionadas se desarroll
 
 Las leyes determinarán los casos y las circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo, o por motivos del mismo, por sí o por interpósita persona, aumenten substancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, cuya procedencia lícita no pudiesen justificar. La Legislación Penal sancionará con el decomiso y con la privación de dichos bienes, además de las otras penas que correspondan.
 
-Cualquier ciudadanos (sic), bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba podrá formular denuncia ante el Congreso respecto de las conductas a que se refiere el presente artículo.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 2005)</small>
+Cualquier persona bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba podrá formular denuncia ante el Congreso respecto de las conductas a que se refiere el presente artículo.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
 
 ###### Artículo 108.
 
-Podrán ser sujetos de juicio político, el Gobernador del Estado, los diputados al Congreso, los magistrados del Supremo Tribunal de Justicia, los jueces de primera instancia y jueces municipales, los titulares de las dependencias básicas que menciona la Ley Orgánica de la Administración Pública, el consejero presidente y los consejeros electorales del Instituto Electoral de Michoacán, los Magistrados del Tribunal Electoral del Estado, los Magistrados del Tribunal de lo Contencioso Administrativo, los directores generales o sus equivalentes de organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos. Asimismo los miembros de los ayuntamientos y funcionarios municipales, que señala la Ley Orgánica Municipal, sea cual fuere el origen de su encargo. Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público estatal y municipal, de acuerdo a la ley de la materia.
+Podrán ser sujetos de juicio político, el Gobernador del Estado, los diputados al Congreso, los Magistrados del Supremo Tribunal de Justicia, los Consejeros del Poder Judicial, los Jueces de Primera Instancia y Jueces de Cuantía Menor, los titulares de las dependencias básicas que menciona la Ley Orgánica de la Administración Pública, el consejero presidente y los consejeros electorales del Instituto Electoral de Michoacán, los Magistrados del Tribunal Electoral del Estado, los Magistrados del Tribunal de Justicia Administrativa, los directores generales o sus equivalentes de organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos. Asimismo los miembros de los ayuntamientos y funcionarios municipales, que señala la Ley Orgánica Municipal, sea cual fuere el origen de su encargo. Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público estatal y municipal, de acuerdo a la ley de la materia.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
-
-Para la aplicación de las sanciones a que se refiere este precepto, la denuncia presentada al Congreso, se turnará a una comisión instructora especial, formada por cinco diputados al Congreso, misma que emitirá declaración por mayoría de sus componentes, una vez practicadas las diligencias correspondientes en presencia del acusado; dicha declaración se turnará al Congreso. En caso de ser negativa, el Congreso determinará su archivo, y si es acusatoria, se constituirá en Gran Jurado, para revisar lo actuado, juzgar y aplicar las sanciones del caso, por las dos terceras partes de sus votos de sus miembros presentes, cuando se trate del Gobernador y por mayoría cuando se trate de otros servidores públicos.
-
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
-
-El procedimiento de juicio político, sólo podrá iniciarse durante el período en que el servidor público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en un período no mayor de un año, a partir de iniciado el procedimiento.
-
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
-
-Las resoluciones del Gran Jurado, son inatacables.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
 
 ###### Artículo 109.
 
-Para proceder penalmente contra el Gobernador, los Diputados al Congreso, Magistrados del Supremo Tribunal de Justicia, Secretario de Gobierno, Oficial Mayor, Procurador de Justicia, Tesorero del Estado, Auditor Superior, Magistrados del Tribunal de lo Contencioso Administrativo, Magistrados del Tribunal Electoral del Estado, Consejero Presidente y Consejeros Electorales del Instituto Electoral de Michoacán, por la comisión de delitos durante el tiempo de su encargo, el Congreso declarará por las dos terceras partes de sus miembros presentes en sesión cuando se trate del Gobernador y por mayoría absoluta cuando se trate de otros servidores públicos, si ha o no lugar a proceder contra el inculpado.
-
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 1984)</small>
-
-Si el Congreso declara que ha lugar a proceder, el sujeto quedará a disposición de las autoridades competentes para que actúen con arreglo a la ley.
-
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 1984)</small>
-
-Las declaraciones y resoluciones del Congreso son inatacables.
+Para proceder penalmente contra el Gobernador, los Diputados al Congreso, Magistrados del Supremo Tribunal de Justicia, los Consejeros del Poder Judicial, Secretario de Gobierno, Oficial Mayor, Procurador de Justicia, Tesorero del Estado, Auditor Superior, Magistrados del Tribunal de Justicia Administrativa, Magistrados del Tribunal Electoral del Estado, Consejero Presidente y Consejeros Electorales del Instituto Electoral de Michoacán, por la comisión de delitos durante el tiempo de su encargo, el Congreso declarará por las dos terceras partes de sus miembros presentes en sesión cuando se trate del Gobernador y por mayoría absoluta cuando se trate de otros servidores públicos, si ha o no lugar a proceder contra el inculpado.
 
 > <small>(REFORMADO, P.O. 8 DE FEBRERO DE 1984)</small>
 
@@ -1711,15 +1645,15 @@ La responsabilidad por los delitos cometidos durante el tiempo del encargo por c
 
 La Ley de Responsabilidades señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencia d los actos y omisiones a que hace referencia la fracción III del artículo 107. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a tres años.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
 
-El Gobernador Constitucional del Estado y los Diputados gozarán de fuero desde el día en que fuesen declarados electos; los Magistrados propietarios del Supremo Tribunal de Justicia, los Magistrados propietarios del Tribunal Electoral del Estado y los Magistrados del Tribunal Contencioso Administrativo del Estado, desde la fecha en que fuesen designados; los Gobernadores Provisionales, Interinos y Substitutos, los Diputados Suplentes, los Magistrados Supernumerarios del Supremo Tribunal de Justicia, los Magistrados Supernumerarios del Tribunal Electoral del Estado, el Consejero Presidente y los Consejeros Electorales del Instituto Electoral de Michoacán, el Secretario de Gobierno, el Oficial Mayor, el Procurador de Justicia y el Tesorero, únicamente dentro del término de su encargo.
+El Gobernador Constitucional del Estado y los Diputados gozarán de fuero desde el día en que fuesen declarados electos; los Magistrados del Supremo Tribunal de Justicia, los Consejeros del Poder Judicial, los Magistrados Propietarios del Tribunal Electoral del Estado y los Magistrados del Tribunal de Justicia Administrativa, desde la fecha en que fuesen designados; los Gobernadores Provisionales, Interinos y Substitutos, los Diputados Suplentes, los Magistrados Supernumerarios del Tribunal Electoral del Estado, el Consejero Presidente y los Consejeros Electorales del Instituto Electoral de Michoacán, el Secretario de Gobierno, el Oficial Mayor, el Procurador de Justicia y el Tesorero, únicamente dentro del término de su encargo.
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
-## TITULO SEXTO. De la Economía Pública y la Planeación Económica y Social
+## TITULO QUINTO. De los Municipios del Estado
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1983)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 111.
 
@@ -2019,9 +1953,9 @@ Los presidentes Municipales tomarán empeño para que en sus respectivas circuns
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 11 DE AGOSTO DE 1983)</small>
 
-## TITULO SEPTIMO. De la Educación Pública
+## TITULO SEXTO. De la Economía Pública y la Planeación Económica y Social
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1983)</small>
 
 ###### Artículo 129.
 
@@ -2141,7 +2075,7 @@ Los empleados que manejen fondos públicos otorgarán fianza en la forma que la 
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
-## TITULO OCTAVO. De la Propiedad, del Trabajo y de la Previsión Social
+## TITULO SEPTIMO. De la Educación Pública
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -2207,7 +2141,7 @@ La ley determinará las profesiones que requieran título, la forma de su regist
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
-## TITULO NOVENO. Disposiciones Generales
+## TITULO OCTAVO. De la Propiedad, del Trabajo y de la Previsión Social
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -2291,7 +2225,7 @@ Todas las leyes relativas a previsión social se considerarán de orden público
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
-## TITULO DECIMO. De las Reformas a la Constitución
+## TITULO NOVENO. Disposiciones Generales
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -2305,11 +2239,15 @@ Los cargos de elección popular y empleos de que habla esta Constitución, sólo
 
 Los funcionarios de elección popular que sin causa justificada y sin la correspondiente licencia faltaren al desempeño de sus funciones, perderán la dotación remuneratoria que disfruten por ellas o por cualquier otro empleo que desempeñen; quedarán suspensos en sus derechos de ciudadanos y no podrán obtener ningún empleo que toque al servicio público. Estas privaciones las sufrirán por el tiempo que dure la omisión y no más.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
 
 ###### Artículo 154.
 
-Todo cargo de elección popular es incompatible con el ejercicio de cualquier otro empleo del Estado en que se disfrute sueldo, excepción hecha de los de instrucción y beneficencia, si no es que para desempeñarlo se obtenga licencia del Congreso. Hay también incompatibilidad en los individuos del Supremo Tribunal y jueces letrados para servir durante su encargo, de hombres buenos, abogados o procuradores, si no es en negocios propios o de su familia, y la hay asímismo, en los primeros, para servir de asesores, árbitros o arbitradores en negocios en que las partes se hayan reservado algún recurso. La incompatibilidad que establece la primera parte de este artículo, se hace extensiva en los mismos términos a los magistrados supernumerarios en ejercicio; las demás, los comprenderán en los negocios particulares de que conozcan, y en los casos y por el tiempo que designe la Ley Orgánica respectiva. La infracción a lo prevenido en este artículo y en los demás que tratan de las prohibiciones impuestas a los funcionarios públicos, será causa de responsabilidad que castigarán las leyes.
+Todo cargo de elección popular es incompatible con el ejercicio de cualquier otro empleo del Estado en que se disfrute sueldo, excepción hecha de los de instrucción y beneficencia, si no es que para desempeñarlo se obtenga licencia del Congreso.
+
+Hay también incompatibilidad en los individuos del Poder Judicial para servir durante su encargo como abogados, procuradores, árbitros o asesores, si no es en negocios propios o de su familia.
+
+La infracción a lo prevenido en este artículo y en los demás que tratan de las prohibiciones impuestas a los funcionarios públicos, será causa de responsabilidad que castigarán las leyes.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -2389,7 +2327,7 @@ Los Poderes del Estado no podrán reconocer, bajo ningún concepto, a los indivi
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
-## TITULO DECIMO PRIMERO. De la Observancia e Inviolabilidad de la Constitución
+## TITULO DECIMO. De las Reformas a la Constitución
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -2420,6 +2358,10 @@ Si transcurre un mes después de recibido el decreto por los Ayuntamientos, sin 
 V.- Las adiciones o reformas que fueren aprobadas, se publicarán como leyes constitucionales y no podrá el Gobernador hacer observaciones acerca de ellas.
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+
+## TITULO DECIMO PRIMERO. De la Observancia e Inviolabilidad de la Constitución
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 165.
 
@@ -2874,6 +2816,20 @@ Artículo Segundo. Remítase a los Ayuntamientos del Estado, la Minuta Proyecto 
 Artículo Tercero. Se dejan sin efecto todas aquellas disposiciones legales y administrativas en lo que se opongan al presente Decreto.
 
 Artículo Cuarto. El Gobernador del Estado nombrará al Procurador General de Justicia y enviará el nombramiento, al Congreso del Estado para su ratificación, dentro de los seis meses siguientes a la entrada en vigor del presente Decreto.
+
+P.O. 23 DE MAYO DE 2006.
+
+Artículo Primero.- Remítase a los ayuntamientos del Estado, a efecto de que, en el término de un mes después de recibida, envíen al Congreso del Estado, el resultado de la votación correspondiente, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+Artículo Segundo.- El presente Decreto entrará en vigor a los ciento ochenta días siguientes al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Tercero.- Con la finalidad de preservar la experiencia de los integrantes del Consejo y escalonar su permanencia, para su integración y por única vez, los Consejeros del Poder Judicial durarán en su encargo: el elegido por el Congreso del Estado, cinco años; el designado por el Titular del Poder Ejecutivo, cuatro años; el elegido por los magistrados, tres años, el elegido por los jueces de primera instancia, dos años.
+
+Artículo Cuarto.- El individuo que haya sido electo magistrado antes de la entrada en vigor del presente Decreto y se encuentre en funciones al inicio de vigencia del mismo, durará en su encargo el tiempo por el que fue designado; y si, se retira voluntariamente a los quince años de servicios efectivos en ese cargo y cumpla sesenta años de edad o cuando tenga más de diez años de servicios efectivos en ese cargo y su retiro forzoso haya sido aprobado, disfrutará de una pensión mensual equivalente a la remuneración que perciban los magistrados.
+
+Artículo Quinto.- Con el fin de escalonar su permanencia y por esta sola ocasión, los Magistrados del Tribunal de Justicia Administrativa tendrán una duración, por su orden de elección, el primero, de cinco años; el segundo, de cuatro años; el tercero, de tres años.
+
+Artículo Sexto.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ###### ARTÍCULO OCTAVO.
 
