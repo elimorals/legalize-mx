@@ -4,7 +4,7 @@ identifier: "LGEEPA"
 country: "mx"
 rank: "ley_general"
 publication_date: "1988-01-28"
-last_updated: "2005-12-07"
+last_updated: "2006-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=225&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGEEPA"
 
 LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE MAYO DE 2006.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 28 de enero de 1988.
 
@@ -238,13 +238,17 @@ XX. La atención de los asuntos que afecten el equilibrio ecológico de dos o m�
 
 XXI. Las demás que esta Ley u otras disposiciones legales atribuyan a la Federación.
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE MAYO DE 2006)</small>
 
 ###### ARTICULO 6o.
 
-Las atribuciones que esta Ley otorga a la Federación, serán ejercidas por el Poder Ejecutivo Federal a través de la Secretaría, salvo las que directamente correspondan al Presidente de la República por disposición expresa de la ley.
+Las atribuciones que esta Ley otorga a la Federación, serán ejercidas por el Poder Ejecutivo Federal a través de la Secretaría y, en su caso, podrán colaborar con ésta las Secretarías de Defensa Nacional y de Marina cuando por la naturaleza y gravedad del problema así lo determine, salvo las que directamente corresponden al Presidente de la República por disposición expresa de la Ley.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 Cuando, por razón de la materia y de conformidad con la Ley Orgánica de la Administración Pública Federal u otras disposiciones legales aplicables, se requiera de la intervención de otras dependencias, la Secretaría ejercerá sus atribuciones en coordinación con las mismas.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 Las dependencias y entidades de la Administración Pública Federal que ejerzan atribuciones que les confieren otros ordenamientos cuyas disposiciones se relacionen con el objeto de la presente Ley, ajustarán su ejercicio a los criterios para preservar el equilibrio ecológico, aprovechar sustentablemente los recursos naturales y proteger el ambiente en ella incluidos, así como a las disposiciones de los reglamentos, normas oficiales mexicanas, programas de ordenamiento ecológico y demás normatividad que de la misma se derive.
 
@@ -3347,5 +3351,9 @@ Segundo: Con la entrada en vigor del presente Decreto, el Poder Ejecutivo Federa
 Tercero: Los parques nacionales y los monumentos naturales que se hayan establecido con anterioridad a la expedición del presente decreto, podrán utilizar zonas alternativas, además de las exigidas en el artículo 47 Bis 1 de la presente Ley, que permitan compatibilizar los objetivos de conservación del área natural protegida, con las actividades que se han venido desarrollando hasta ese momento.
 
 D.O.F. 7 DE DICIEMBRE DE 2005.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE MAYO DE 2006.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
