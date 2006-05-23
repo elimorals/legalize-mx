@@ -4,7 +4,7 @@ identifier: "LFCP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-29"
-last_updated: "1998-01-23"
+last_updated: "2006-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFCP"
 
 LEY FEDERAL DE CORREDURIA PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE MAYO DE 2006.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 29 de diciembre de 1992.
 
@@ -86,11 +86,21 @@ III.- Asesorar jurídicamente a los comerciantes en las actividades propias del 
 
 IV.- Actuar como árbitro, a solicitud de las partes, en la solución de controversias derivadas de actos, contratos o convenios de naturaleza mercantil, así como las que resulten entre proveedores y consumidores, de acuerdo con la ley de la materia;
 
-V.- Actuar como fedatario público para hacer constar los contratos, convenios, actos y hechos de naturaleza mercantil, excepto en tratándose de inmuebles; así como en la emisión de obligaciones y otros títulos valor; en hipotecas sobre buques, navíos y aeronaves que se celebren ante él, y en el otorgamiento de créditos refaccionarios o de habilitación o avío, de acuerdo con la ley de la materia;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2006)</small>
 
-VI.- Actuar como fedatarios en la constitución, modificación, fusión, escisión, disolución, liquidación y extinción de sociedades mercantiles y en los demás actos previstos en la Ley General de Sociedades Mercantiles; y
+V. Actuar como fedatario público para hacer constar los contratos, convenios y actos jurídicos de naturaleza mercantil, excepto en tratándose de inmuebles, así como en la emisión de obligaciones y otros títulos valor; en hipotecas sobre buques, navíos y aeronaves que se celebren ante él, así como para hacer constar los hechos de naturaleza mercantil;
 
-VII.- Las demás funciones que le señalen esta y otras leyes o reglamentos.
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2006)</small>
+
+VI. Actuar como fedatario en la constitución y en los demás actos previstos por la Ley General de Sociedades Mercantiles incluso aquellos en los que se haga constar la representación orgánica;
+
+> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2006)</small>
+
+VII. Cotejar y certificar las copias de las pólizas o actas que hayan sido otorgadas ante ellos, así como de los documentos que hayan tenido a la vista que sean de los referidos en los artículos 33 a 50 del Código de Comercio, y
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2006)</small>
+
+VIII. Las demás funciones que le señalen ésta y otras leyes o reglamentos.
 
 Las anteriores funciones se entenderán sin perjuicio de lo dispuesto en otras leyes y no se consideran exclusivas de los corredores públicos.
 
@@ -212,15 +222,17 @@ El libro de registro y el archivo deberán llevarse con estricto apego a lo disp
 
 El libro de registro y el archivo de pólizas y actas de los corredores que por cualquier motivo dejen de ejercer, serán entregados por quien los tuviere en su poder al colegio de corredores respectivo para su guarda, y si no lo hubiere, a la Secretaría.
 
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2006)</small>
+
 ###### ARTICULO 18.
 
-Póliza es el instrumento redactado por el corredor para hacer constar en él un acto, convenio o contrato mercantil en el que esté autorizado a intervenir como funcionario revestido de fe pública.
+Póliza es el instrumento redactado por el corredor para hacer constar en él un acto jurídico, convenio o contrato mercantil en el que esté autorizado a intervenir como fedatario.
 
-Acta es la relación escrita de un hecho jurídico en el que el corredor intervino con fe pública y que contendrá las circunstancias relativas al mismo.
+Acta es la relación escrita de un hecho jurídico de naturaleza mercantil.
 
-Las actas y pólizas autorizadas por los corredores son instrumentos públicos y los asientos de su libro de registro y las copias certificadas que expida de las pólizas, actas y asientos son documentos que hacen prueba plena de los contratos, actos o hechos respectivos.
+Las actas y pólizas autorizadas por los corredores son instrumentos públicos y los asientos de su libro de registro y las copias certificadas que expida de las pólizas, actas y asientos, son documentos que hacen prueba plena de los contratos, actos jurídicos y hechos de naturaleza mercantil respectivos.
 
-El corredor podrá expedir copias certificadas para hacer constar las actas o pólizas en que haya intervenido, siempre que obren en su archivo y que aparezcan debidamente registradas en el libro correspondiente.
+El corredor podrá expedir copias certificadas de las pólizas y actas en que haya intervenido, siempre que obren en su archivo y en el libro de registro correspondiente.
 
 ###### ARTICULO 19.
 
@@ -278,9 +290,17 @@ a) El dinero o cheques destinados al pago de impuestos o derechos causados por l
 
 b) En los demás casos en que las leyes así lo permitan.
 
-X.- Ejercer su actividad si el hecho o el fin del acto es legalmente imposible o contrario a la ley o a las buenas costumbres; y
+X.- Ejercer su actividad si el hecho o el fin del acto es legalmente imposible o contrario a la ley o a las buenas costumbres; y (sic)
 
-XI.- Las demás que establezcan las leyes y reglamentos.
+> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2006)</small>
+
+XI. Actuar como fedatario fuera de los casos autorizados por la ley y su reglamento; así como en actos jurídicos no mercantiles; en tratándose de inmuebles, así como dar fe de hechos que no se consideren de naturaleza mercantil;
+
+> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2006)</small>
+
+XII. Actuar como fedatarios en los casos a que se refiere la fracción anterior, aún cuando se modifique o altere su denominación, se trate de actos jurídicos, convenios o contratos innominados, intervengan sujetos que por su actividad sean calificados de comerciantes, o se refieran a cosas mercantiles o se denomine un acto como mercantil cuando el acto real tenga otra naturaleza, y
+
+XIII. Las demás que establezcan las leyes y reglamentos.
 
 ###### ARTICULO 21.
 
@@ -290,7 +310,9 @@ I.- Amonestación escrita;
 
 II.- Multa hasta por el equivalente a 500 veces el salario mínimo general vigente para el Distrito Federal;
 
-III.- Suspensión hasta por seis meses en caso de reincidencia;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2006)</small>
+
+III. Suspensión hasta por seis meses en caso de reincidencia y por violar alguna de las prohibiciones de las fracciones VII, VIII, XI, XII y XIII del artículo 20 de esta Ley;
 
 IV.- Cancelación definitiva de la habilitación en los siguientes casos:
 
@@ -340,7 +362,7 @@ CUARTO.- Los corredores públicos que hayan sido habilitados conforme a las disp
 
 QUINTO.- Mientras se expide el reglamento correspondiente, continuará siendo aplicable en toda la República el Reglamento de Corredores para la Plaza de México de 1o. de noviembre de 1891, en cuanto no se oponga a lo establecido en la presente ley.
 
-México, D.F., a 19 de diciembre de 1992.- Sen. Carlos Sales Gutiérrez, Presidente.- Dip. Elpidio Tovar de la Cruz, Presidente.- Sen. Roberto Suárez Nieto, Secretario.- Dip. Layda Elena Sansores San Román, Secretaria.- Rúbricas."
+México, D.F., a 19 de diciembre de 1992.- Sen. Carlos Sales Gutiérrez, Presidente.- Dip. Elpidio Tovar de la Cruz, Presidente.- Sen. Roberto Súarez Nieto, Secretario.- Dip. Layda Elena Sansores San Román, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de diciembre de mil novecientos noventa y dos.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica.
 
@@ -349,3 +371,7 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 23 DE ENERO DE 1998.
 
 ÚNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
+
+D.O.F. 23 DE MAYO DE 2006.
+
+Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
