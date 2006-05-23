@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "2006-02-08"
+last_updated: "2006-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1934-08-23"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE MAYO DE 2006.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -1125,11 +1125,25 @@ Si de las diligencias practicadas no resultan elementos bastantes para hacer la 
 
 En la práctica de diligencias de averiguación previa se aplicarán en lo conducente las disposiciones del Título Sexto de este código.
 
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2006)</small>
+
 ###### ARTICULO 133.
 
-Cuando en vista de la averiguación previa el Agente del Ministerio Público a quien la Ley Reglamentaria del artículo 102 de la Constitución General de la República faculte para hacerlo, determinare que no es de ejercitarse la acción penal por los hechos que se hubieren denunciado como delitos, o por los que se hubiere presentado querella, el denunciante, el querellante o el ofendido, podrán ocurrir al Procurador General de la República dentro del término de quince días contados desde que se les haya hecho saber esa determinación, para que este funcionario, oyendo el parecer de sus Agentes Auxiliares, decida en definitiva si debe o no ejercitarse la acción penal.
+Cuando en vista de la averiguación previa el Agente del Ministerio Público a quien la Ley Reglamentaria del artículo 102 de la Constitución General de la República faculte para hacerlo, determinare que no es de ejercitarse la acción penal por los hechos que se hubieren denunciado como delitos, o por los que se hubiere presentado querella, el denunciante, el querellante o el ofendido, podrán presentar su inconformidad a través de un escrito en el cual expongan los argumentos o elementos de la averiguación previa que considere que el Ministerio Público dejó de atender para ejercitar la acción penal, ante el Procurador General de la República dentro del término de quince días contados a partir de que se les haya hecho saber la determinación mediante notificación personal.
 
-Contra la resolución del Procurador no cabe recurso alguno, pero puede ser motivo de responsabilidad.
+El Procurador General de la República, oyendo el parecer de sus agentes auxiliares y analizando los argumentos del escrito de inconformidad y de las causas del no ejercicio de la acción penal propuesto por el Ministerio Público, decidirá en definitiva si debe o no ejercitarse la acción penal.
+
+La resolución del Procurador General de la República, puede ser motivo de responsabilidad para el caso de que se resuelva sin atender lo prescrito en este precepto.
+
+Las resoluciones del Procurador General de la República, deberán contener:
+
+I.- Un resumen de las actuaciones contenidas en la averiguación previa;
+
+II.- Las razones que el Ministerio Público, tomó en consideración para la determinación de no ejercicio de la acción penal;
+
+III.- Las nuevas consideraciones que se realicen del estudio de la averiguación, así como la respuesta a los planteamientos hechos en el escrito de inconformidad, debidamente fundadas y motivadas, y
+
+IV.- Los resolutivos de la nueva determinación.
 
 > <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1999)</small>
 
@@ -4954,3 +4968,7 @@ D.O.F. 8 DE FEBRERO DE 2006.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
+
+D.O.F. 23 DE MAYO DE 2006.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
