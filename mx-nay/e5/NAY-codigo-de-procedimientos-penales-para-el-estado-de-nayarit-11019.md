@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-procedimientos-penales-para-el-estado-de-nayarit-1101
 country: "mx"
 rank: "codigo"
 publication_date: "1969-11-29"
-last_updated: "2004-12-25"
+last_updated: "2006-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 2006.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1969.
 
@@ -1165,9 +1165,9 @@ C) Que por razón de la hora, lugar o cualquier otra circunstancia, no pueda ocu
 
 La violación a esta disposición hará penalmente responsable al Ministerio Público o funcionario que decrete indebidamente la detención y el sujeto será puesto en inmediata libertad.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2006)</small>
 
-Se califican como delitos graves, para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, los previstos en los siguientes artículos del Código Penal: homicidio por culpa grave previsto en el último párrafo del artículo 72; delitos contra el orden constitucional del Estado y su integridad territorial previsto en el artículo 127; rebelión, previsto en el artículo 130 y 131; sedición previsto en el artículo 140; terrorismo previsto en el artículo 145; evasión de presos previsto en los artículos 146 y 148; ataques a las vías de comunicación previsto en el artículo 166 en relación con los artículos 170 y 171; corrupción de menores previsto en el artículo 200 en relación con el artículo 202; lenocinio previsto en el artículo 203; violación en relación con el artículo 206; tortura previsto en el artículo 214; cohecho y peculado, previsto por los artículos 218, 218 (sic) y 219; violación en relación con el artículo 260; sustracción y tráfico de infantes, previsto en el artículo 265; amenazas graves, previsto en el último párrafo del artículo 276; asalto previsto en los artículos 281 y 282; secuestro previsto en el artículo 284; lesiones previsto en los artículos 309, 310, 314 y 315; homicidio previsto en el artículo 317 en relación con el 321, 323, 330, 331 y 332; robo calificado previsto en el artículo 343 en relación al 348; abigeato previsto en el artículo 357 en relación con las fracciones II y III del artículo 358; delito contra el desarrollo urbano, despojo, previsto en el artículo 373 penúltimo párrafo; daño en propiedad ajena previsto en el artículo 375; encubrimiento previsto en el artículo 381 último párrafo; fraccionamiento ilegal de inmuebles, previsto por los artículos 393, 394 y 395; atentados al pudor previsto en el artículo 356 sancionable como violación en los términos del artículo 260, la tentativa de los delitos de violación, homicidio intencional, terrorismo, tortura, asalto y secuestro.
+Se califican como delitos graves, para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, los previstos en los siguientes artículos del Código Penal: homicidio por culpa grave previsto en el último párrafo del artículo 72; delitos contra el orden constitucional del Estado y su integridad territorial previsto en el artículo 127; rebelión, previsto en el artículo 130 y 131; sedición previsto en el artículo 140; terrorismo previsto en el artículo 145; evasión de presos previsto en los artículos 146 y 148; ataques a las vías de comunicación previsto en el artículo 166 en relación con los artículos 170 y 171; corrupción de menores previsto en el artículo 200 en relación con el artículo 202; lenocinio previsto en el artículo 203; violación en relación con el artículo 206; tortura previsto en el artículo 214; cohecho y peculado, previsto por los artículos 218, 218 (sic) y 219; violación en relación con el artículo 260; sustracción y tráfico de infantes, previsto en el artículo 265; amenazas graves, previsto en el último párrafo del artículo 276; asalto previsto en los artículos 281 y 282; secuestro previsto en el artículo 284; lesiones previsto en los artículos 309, 310, 314 y 315; homicidio previsto en el artículo 317 en relación con el 321, 323, 330, 331 y 332; robo calificado previsto en el artículo 343 en relación al 348; abigeato previsto en el artículo 357 en relación con las fracciones II y III del artículo 358; fraude en relación a la fracción XVI del artículo 369; delito contra el desarrollo urbano, despojo, previsto en el artículo 373 penúltimo párrafo; daño en propiedad ajena previsto en el artículo 375; encubrimiento previsto en el artículo 381 último párrafo; fraccionamiento ilegal de inmuebles, previsto por los artículos 393, 394 y 395; atentados al pudor previsto en el artículo 356 sancionable como violación en los términos del artículo 260, la tentativa de los delitos de violación, homicidio intencional, terrorismo, tortura, asalto y secuestro.
 
 > <small>(ADICIONADO, P.O. 12 DE JULIO DE 2000)</small>
 
@@ -3335,7 +3335,7 @@ P.O. 9 DE MAYO DE 1998.
 
 El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado de Nayarit.
 
-P.O. 12 DE JULIO DE 2000
+P.O. 12 DE JULIO DE 2000.
 
 UNICO.- El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
 
@@ -3346,3 +3346,7 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 25 DE DICIEMBRE DE 2004.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado de Nayarit.
+
+P.O. 24 DE MAYO DE 2006.
+
+Único.- La presente adición al Código Penal del Estado de Nayarit y reforma al Código de Procedimientos Penales, comenzarán a regir el día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
