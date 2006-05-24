@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-las-y-los-jovenes-del-distrito-federal-36036"
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-25"
-last_updated: "2006-02-03"
+last_updated: "2006-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36036&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-05-30"
 
 LEY DE LAS Y LOS JOVENES DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE MAYO DE 2006.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 25 de julio del 2000.
 
@@ -86,17 +86,29 @@ XIII. Ley. La Ley de la Juventud del Distrito Federal.
 
 ### CAPITULO I. DEL DERECHO A UNA VIDA DIGNA
 
+> <small>(REFORMADO, G.O. 24 DE MAYO DE 2006)</small>
+
 ###### Artículo 3.
 
-Todas las y los jóvenes como miembros de la sociedad y como habitantes del Distrito Federal, tienen el derecho de acceso y disfrute de los servicios y beneficios socio-económicos, políticos, culturales, informativos, de desarrollo y de convivencia que les permitan construir una vida digna en la ciudad.
+Las normas de la presente ley, los derechos y garantías, se aplicarán a todos las y los jóvenes, de manera independiente a su condición familiar, social, cultural, religiosa, económica, racial, étnica, filiación política, opción sexual, o cualquier otra condición personal o la de sus padres, representantes legales o responsables.
+
+> <small>(REFORMADO, G.O. 24 DE MAYO DE 2006)</small>
 
 ###### Artículo 4.
 
-El Gobierno de la ciudad debe crear, promover y apoyar, por todos los medios a su alcance, iniciativas e instancias para que las y los jóvenes de esta ciudad tengan las oportunidades y posibilidades para construir una vida digna.
+El Plan debe tener una perspectiva integral que permita abordar desde todas las dimensiones sociales los entornos juveniles.
+
+> <small>(REFORMADO, G.O. 24 DE MAYO DE 2006)</small>
 
 ###### Artículo 5.
 
-El Plan debe tener una perspectiva integral que permita abordar desde todas las dimensiones sociales los entornos juveniles.
+Las y los jóvenes son titulares de todos los derechos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los instrumentos internacionales vigentes y en otras normas legales, por lo que se reafirma su derecho al pleno goce y disfrute de los derechos humanos, civiles, políticos, económicos, sociales y culturales, tanto a nivel individual como colectivo.
+
+Los límites a los derechos de las y los jóvenes deben estar expresamente establecidos en la ley y deben encaminarse a lograr la justicia social, garantizando la paz, la seguridad pública y los derechos de terceros.
+
+Todas las políticas, programas y proyectos que se desarrollen en relación a los y las jóvenes deberán promover la plena vigencia del principio de equidad de género, entendiéndolo por tal el reconocimiento de la igualdad de derechos, oportunidades y responsabilidades de hombres y mujeres.
+
+Se prohíbe toda distinción, exclusión, o restricción basada en el sexo, que tenga por objeto o resultado, menoscabar o anular el goce o el ejercicio de los derechos humanos y libertades fundamentales de la mujer.
 
 ### CAPITULO II. DEL DERECHO AL TRABAJO
 
@@ -152,6 +164,24 @@ Para cada una de las modalidades de empleo se deberá expedir dos copias de las 
 
 Artículo 9 SEXTER.- Las empresas que se integren a la primera experiencia laboral recibirán los beneficios que establezca el Código Financiero.
 
+> <small>(ADICIONADO, G.O. 24 DE MAYO DE 2006)</small>
+
+Artículo 9 SEPTER.- Las políticas de promoción del empleo juvenil se dirigen al logro de los siguientes objetivos:
+
+I.- Crear oportunidades de trabajo dirigidas a la población juvenil, considerando siempre las particularidades de los distintos grupos poblacionales;
+
+II.- Fomentar el desarrollo de la capacitación remunerada, vinculada a la formación profesional;
+
+III.- Promover el otorgamiento de créditos para que las y los jóvenes puedan desarrollar sus proyectos productivos individuales o colectivos;
+
+IV.- Procurar que el trabajo no interrumpa su educación;
+
+V.- Asegurar la no discriminación en el empleo y las mejores condiciones laborales a las jóvenes gestantes, madres lactantes y jóvenes con discapacidad; y,
+
+VI.- Respetar y cumplir con los derechos laborales y a la seguridad social e industrial.
+
+El trabajo juvenil, en ningún caso podrá ser de aquellos que impidan una educación que les permita desarrollar al máximo sus potencialidades.
+
 ### CAPITULO III. DEL DERECHO A LA EDUCACION
 
 ###### Artículo 10.
@@ -173,6 +203,22 @@ En los programas educativos se debe dar especial énfasis a la información y pr
 ###### Artículo 14.
 
 El Plan debe contemplar un sistema de guarderías para madres estudiantes con el fin de evitar la deserción educativa de este sector de jóvenes.
+
+> <small>(ADICIONADO, G.O. 24 DE MAYO DE 2006)</small>
+
+Artículo 14 BIS.- Las políticas educativas dirigidas a las y los jóvenes deben tender a los siguientes aspectos:
+
+I. Fomentar una educación en valores para el fortalecimiento del ejercicio y respeto de los derechos humanos; una educación cívica que promueva el respeto y la participación en democracia; el cumplimiento de los deberes individuales, familiares y sociales; y, el reconocimiento a la diversidad étnica y cultural;
+
+II. Fomentar la comprensión mutua y los ideales de paz, democracia, solidaridad, respeto y tolerancia entre las y los jóvenes;
+
+III. Mejorar la educación media superior y superior, así como el desarrollo de programas de capacitación técnica y formación profesional de las y los jóvenes;
+
+IV. Prevenir, erradicar y sancionar todas las formas de castigos físicos o psicológicos, o sanciones disciplinarias crueles, inhumanas o degradantes;
+
+V. Garantizar el libre funcionamiento de las organizaciones estudiantiles; y
+
+VI. Promover la investigación, formación y la creación científicas.
 
 ### CAPITULO IV. DEL DERECHO A LA SALUD
 
@@ -207,6 +253,8 @@ Artículo 46 QUATER.- El Gobierno a través del Plan dispondrá de los recursos 
 > <small>(ADICIONADO, G.O. 17 DE NOVIEMBRE DE 2004)</small>
 
 Artículo 46 QUINTUS.- Las empresas que contraten a jóvenes con discapacidad recibirán los beneficios que establezca el Código Financiero.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 24 DE MAYO DE 2006)</small>
 
 ### CAPITULO V. DE LOS DERECHOS SEXUALES Y REPRODUCTIVOS
 
@@ -359,6 +407,28 @@ e) A no ser arrestado, detenido, preso o desterrado arbitrariamente. Todo joven 
 f) En todo proceso judicial, las y los jóvenes contarán con un defensor especializado en derechos juveniles.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 17 DE NOVIEMBRE DE 2004)</small>
+
+#### SECCION SEGUNDA. DE LAS POLITICAS DE PROMOCION DE LA EQUIDAD
+
+> <small>(ADICIONADO, G.O. 24 DE MAYO DE 2006)</small>
+
+Artículo 46 SEXTER.- Las políticas de promoción de la equidad. Buscarán establecer un trato especial y preferente a favor de los y las jóvenes que se encuentran en una situación de desventaja o de vulnerabilidad, para crear condiciones de igualdad real y efectiva. En particular estas políticas se dirigirán a las siguientes finalidades y personas:
+
+I.- Asegurar la equidad de género;
+
+II.-La superación de la pobreza;
+
+III.-La superación de la exclusión cultural o étnica;
+
+IV.-Las y los jóvenes con discapacidades; y
+
+V.- Los jóvenes con VIH SIDA.
+
+> <small>(ADICIONADO, G.O. 24 DE MAYO DE 2006)</small>
+
+Artículo 46 SEPTER.- En el caso de las y los jóvenes en situación de calle, el gobierno, a través del Instituto implementará programas de superación de la pobreza, educativos, de capacitación para el trabajo, de educación sexual y de salud reproductiva que coadyuven con su superación personal.
+
+El gobierno deberá crear los albergues necesarios en donde se puedan alojar a todos aquellos que se encuentran en situación de calle y así lo requieran.
 
 ### CAPITULO XVI. DEBERES DE LAS Y LOS JOVENES
 
@@ -713,3 +783,7 @@ G.O. 3 DE FEBRERO DE 2006.
 PRIMERO. Túrnese al Jefe de Gobierno del Distrito Federal para su promulgación y publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO. El presente decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 24 DE MAYO DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de publicación en la Gaceta Oficial del Distrito Federal.
