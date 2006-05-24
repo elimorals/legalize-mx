@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-ley-de-los-organismos-auxiliares-de-la-23270"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-01-30"
-last_updated: "2002-01-30"
+last_updated: "2006-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23270&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO DE LA LEY DE LOS ORGANISMOS AUXILIARES DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL REGISTRO PUBLICO DE LOS ORGANISMOS DESCENTRALIZADOS DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 24 DE MAYO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DEROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos el miércoles 30 de enero de 2002.
 
@@ -246,3 +248,11 @@ LA SECRETARIA DE HACIENDA DEL ESTADO DE MORELOS
 LIC. CLAUDIA MARISCAL VEGA
 
 RÚBRICAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 24 DE MAYO DE 2006.
+
+PRIMERO. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano Informativo del Gobierno del Estado de Morelos.
+
+SEGUNDO. Se deroga el Reglamento de la Ley de los Organismos Auxiliares de la Administración Pública del Estado de Morelos, publicado en el Periódico Oficial "Tierra y Libertad" número 4166 de fecha 30 de enero de 2002.
