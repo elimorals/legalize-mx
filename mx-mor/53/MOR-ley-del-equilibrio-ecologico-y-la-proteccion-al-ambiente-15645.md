@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-15645"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-22"
-last_updated: "2005-08-03"
+last_updated: "2006-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE DEL ESTADO DE MORELOS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 2006.
 
 Ley publicada en el Periódico Oficial Sección Segunda, el miércoles 22 de diciembre de 1999.
 
@@ -705,9 +705,17 @@ VII. El aprovechamiento del agua para usos urbanos deberá incorporar de manera 
 
 VIII. En las construcciones habitacionales se deberá fomentar la incorporación de innovaciones tecnológicas ambientales tales como el uso de la energía solar, la utilización de letrinas o baños secos, la recuperación de agua de lluvia, así mismo, emplear para la construcción materiales apropiados a las condiciones regionales;
 
-IX. En la planeación urbana se respetará la proporción de áreas verdes y áreas de construcción, así como, el paisaje y la seguridad en el establecimiento de carteles espectaculares; y
+IX. En la planeación urbana se respetará la proporción de áreas verdes y áreas de construcción, así como, el paisaje y la seguridad en el establecimiento de carteles espectaculares; y (sic)
 
-X. La política ecológica debe buscar la corrección de aquellos desequilibrios que deterioren la calidad de vida de la población, y a la vez, prever las tendencias de crecimiento de los asentamientos humanos, para mantener una relación armónica entre la base de recursos y la población, y cuidar de los factores ecológicos y ambientales que son parte integrante de la calidad de la vida.
+X. La política ecológica debe buscar la corrección de aquellos desequilibrios que deterioren la calidad de vida de la población, y a la vez, prever las tendencias de crecimiento de los asentamientos humanos, para mantener una relación armónica entre la base de recursos y la población, y cuidar de los factores ecológicos y ambientales que son parte integrante de la calidad de la vida;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MAYO DE 2006)</small>
+
+XI.- En apoyo a la necesidad de recarga de los acuíferos del Estado y con el objeto de garantizar en el futuro la disponibilidad de agua, se establece como lineamiento que toda construcción u obra pública o privada que se desarrolle en el Estado y que requiera el revestimiento de vías de comunicación vehicular o peatonal, así como en estacionamientos, plazas, parques, andadores, ciclopistas y en general de revestimientos al aire libre, pudiéndose excluir las carreteras, deberán de respetar y cumplir los siguientes criterios y lineamientos:
+
+1.- Los revestimientos se deberán realizar preferentemente con materiales altamente permeables que permitan la filtración del agua al subsuelo para la recarga de los mantos acuíferos.
+
+2.- En las actuales y futuras estructuras viales revestidas con materiales impermeables, la autoridad, empresa, institución o persona competente y responsable de su mantenimiento, deberá incorporar las tecnologías apropiadas que permitan la filtración del agua pluvial al subsuelo y no interrumpir el paso natural de los escurrimientos; asimismo, al realizar un nuevo revestimiento, deberá utilizar materiales que permitan la filtración del agua pluvial al subsuelo para la recarga de los mantos acuíferos.
 
 #### SECCIÓN 2. Regulación ambiental de la actividad agropecuaria
 
@@ -1013,9 +1021,13 @@ II. El aprovechamiento sustentable del agua y de los recursos naturales que invo
 
 III. Para mantener la integridad y el equilibrio de los elementos naturales que se involucran en el ciclo hidrológico, se deberá considerar la protección del suelo y áreas boscosas y selváticas, así como, el mantenimiento de los caudales naturales básicos de las corrientes de agua y la capacidad de recarga de los mantos acuíferos;
 
-IV. La preservación, calidad y aprovechamiento sustentable del agua y de los ecosistemas acuáticos, es responsabilidad de las autoridades, sus usuarios y de quienes realicen obras o actividades que afecten o puedan afectar dichos recursos; y
+IV. La preservación, calidad y aprovechamiento sustentable del agua y de los ecosistemas acuáticos, es responsabilidad de las autoridades, sus usuarios y de quienes realicen obras o actividades que afecten o puedan afectar dichos recursos; y (sic)
 
-V. Las Normas Oficiales Mexicanas correspondientes.
+V. Las Normas Oficiales Mexicanas correspondientes;
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2006)</small>
+
+VI.- Para garantizar en un futuro la disponibilidad del agua, se aplicarán los lineamientos señalados en la fracción XI del artículo 36 de la presente Ley y otros ordenamientos aplicables, que conlleven a la recarga de los mantos acuíferos.
 
 ###### ARTÍCULO 64.
 
@@ -1033,9 +1045,13 @@ V. Las previsiones contenidas en los planes de desarrollo municipal y programas 
 
 VI. La regulación de las descargas de aguas residuales, de carácter municipal, industrial, agropecuario o de servicios, que se efectúen a los sistemas de drenaje y alcantarrillado;
 
-VII. Las políticas y programas para la protección de especies acuáticas endémicas, amenazadas, en peligro de extinción o sujetas a protección especial; y
+VII. Las políticas y programas para la protección de especies acuáticas endémicas, amenazadas, en peligro de extinción o sujetas a protección especial; y (sic)
 
-VIII. El riego de áreas agrícolas y áreas verdes municipales e industriales.
+VIII. El riego de áreas agrícolas y áreas verdes municipales e industriales;
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2006)</small>
+
+IX.- En proyectos y programas para el sector público, privado y social será obligatorio incorporar acciones que permitan la filtración del agua al subsuelo para la recarga de los mantos acuíferos; mediante los lineamientos y criterios que señala esta Ley y otros ordenamientos aplicables.
 
 ###### ARTÍCULO 65.
 
@@ -2532,3 +2548,17 @@ Los Gobiernos municipales tendrán un lapso de un año, contados a partir de la 
 ###### ARTÍCULO TERCERO.
 
 Remítase el presente Decreto al Titular del poder Ejecutivo del Estado, para los efectos previstos en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 24 DE MAYO DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano oficial de difusión del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se concede un término de 90 días a partir del inicio de la licencia del presente decreto, para que los Ayuntamientos realicen las adecuaciones correspondientes a los Reglamentos de Construcción.
+
+###### ARTÍCULO TERCERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos previstos en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
