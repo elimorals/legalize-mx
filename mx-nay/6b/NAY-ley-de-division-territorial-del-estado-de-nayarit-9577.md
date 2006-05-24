@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-division-territorial-del-estado-de-nayarit-9577"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-04"
-last_updated: "2004-10-30"
+last_updated: "2006-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE DIVISION TERRITORIAL DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 2006.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 4 de febrero de 1984.
 
@@ -87,9 +87,11 @@ Cuando se satisfagan los requisitos que contemplan las fracciones I al V, del ar
 
 El Gobernador del Estado podrá promover de común acuerdo con el o los Municipios respectivos, la fusión de comunidades que permitan integrar a los grupos aislados de población en los términos previstos por la Ley General de Asentamientos Humanos, las Leyes Locales de la Materia y los Planes de Desarrollo Derivados de las mismas.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2006)</small>
+
 ###### ARTICULO 7o.
 
-La división Constitucional del Estado de Nayarit , es en diecinueve Municipios, que son los que a continuación se expresan: Tepic, Capital de Estado, Acaponeta, Ahuacatlán, Amatlán de Cañas, Compostela; El Nayar; Huajicori; Ixtlán de Río; Jala; La Yesca; Rosamorada; Ruiz; Santiago Ixcuintla; San Blas; Santa María del Oro; San Pedro Lagunillas; Tecuala, Tuxpan y Xalisco.
+La división Constitucional del Estado de Nayarit es en veinte municipios, que son los que a continuación se expresan: Tepic, Capital del Estado; Acaponeta; Ahuacatlán; Amatlán de Cañas; Bahía de Banderas; Compostela; Del Nayar; Huajicori; Ixtlán del Río; Jala; La Yesca; Rosamorada; Ruiz; Santiago Ixcuintla; San Blas; Santa María del Oro; San Pedro Lagunillas; Tecuala; Tuxpan; y Xalisco.
 
 ### CAPITULO TERCERO. DE SUS LIMITES Y EXTENSIONES
 
@@ -123,11 +125,11 @@ El Municipio de Ahuacatlán se integra con las siguientes localidades: Ahuacatl�
 
 El Municipio de Amatlán de Cañas se integra con las siguientes localidades: Amatlán de Cañas, Agua Escondida, Barranca del Oro, Copalillo, Cerritos, El Farito, Estancia de los López, El Naranjo, El Rosario, El Pilón, Jesús Maria, La Haciendita, La Máquina, Las Cuevas, La Lima, Los Agrios, Las Anonas, La Labor, Los Mezquites, Portezuelo, Pie de la Cuesta, San Blasito, San Valentín, Tepuzhuacán, Yerbabuena y los demás que en lo sucesivo sean creados.
 
-> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2006)</small>
 
 ###### ARTICULO 14.
 
-El Municipio de Bahía de Banderas se integra con las siguientes localidades: Aguamilpa, Brasiles, Bucerías, Corral del Risco, Destiladeras, El Coatante, El Colomo, El Gumúchil, El Provenir(sic), El Tizate, Fortuna de Vallejo, Fraccionamiento Playas de Guanacaxtle, Higuera Blanca, La Calera, La Cruz de Guanacaxtle, La Jarretadera, Las Lomas, Las Mesas, Lo de Marcos, Los Sauces, Mezcales, Mezcalitos, Nuevo Vallarta, Palmaritos, Punta del Burro, Punta de Mita, Punta Monterrey, Punta Pontoque, San Clemente, San Francisco, San Ignacio, San José del Valle, San Juan de Abajo, San Juan Papachula, San Quintín, Santa Rosa Tapachula, San Vicente, Sayulita y Valle de Banderas.
+El Municipio de Bahía de Banderas se integra con las siguientes localidades: Valle de Banderas, Agua Milpa, Brasiles, Bucerías, Corral del Risco, Destiladeras, El Coatante, El Colomo, El Guamúchil, El Porvenir, El Tizate, Fortuna de Vallejo, Fraccionamiento Playas de Huanacaxtle, Higuera Blanca, La Calera, La Cruz de Huanacaxtle, La Jarretadera, Las Lomas, Las Mesas, Lo de Marcos, Los Sauces, Mezcales, Mezcalitos, Nuevo Vallarta, Palmaritos, Punta del Burro, Punta de Mita, Punta Monterrey, Punta Pontoque, San Clemente, San Francisco, San Ignacio, San José del Valle, San Juan de Abajo, San Juan Papachula, San Quintín, Santa Rosa Tapachula, San Vicente y Sayulita y Valle de Banderas.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 14], P.O. 13 DE DICIEMBRE DE 1989)</small>
 
@@ -135,11 +137,11 @@ El Municipio de Bahía de Banderas se integra con las siguientes localidades: Ag
 
 El Municipio de Compostela se integrará con las siguientes localidades: Compostela, Agua Azul, Agua Aceda, Agua Caliente, Agua Escondida, Agua Zarca, Altavista, Bella Unión, Boca del Naranjo, Buenavista, Campo de Abajo, Calexico, Cuatro Albillas, Carrillo Puerto, Cándido Salazar, Cerro de los Carboneros, Colimilla, Cuastecomatillo, Chacala, Charco Verde, Chula Vista, Divisadero, Estiladero, Abrevadero, El Ahijadero, El Cajón, El Almacén, El Arrendatario, El Balastre, El Camalote, El Carrizal, El Carrizo, El Capomal, El Capomo, El Cora, El Embarcadero, El Guayabal, El Guerrereño, El Naranjo, El Negro, El Ocote, El Ocotillo, El Ojo de Agua, El Pantano, El Paranal, El Progreso, El Puente, El Realito, El Refilión, El Sauza, El Soñador, El Tonino, Ixtapa de la Concepción, Galtepec, Juan Sánchez, La Bajada, La Cascada, La cebadilla, La Ceiba, La Cuata, La Cucaracha, La Fortuna, La Higuerita, La Inzula, La Jalizal, La Laguna, La Lima, La Peñita de Jaltemba, La Quemada La Sidra, La Tovara, Las Astas, Las Burras, Las Calabazas, Las Cañadas, Las Coloradas, Las Conchas, Las Jícaras, Las Juntas, Las Lagunitas, Las Hembrillas, Las Piedras, Las Piñas, Las Varas, Las Víboras, Las Vigas, Loma Alta, Lomas de Monterrey, Los Ayala, Los Bueyes, Los Cafeces, Los Chicos, Los Limones, Los Mangos, Los Salates, Lima de Abajo, Mamey Grande de Arriba, Mazatán, Mesa del Rodeo, Miravalles, Monte Abajo, Otates, Cantarranas, Palos Marías, Palo Herrado, Paso de Mesillas, Paso de las Palmas, Paso de Buey, Páscuaro, Piedra Gorda, Piedras Largas, Piedra China, Piedra Larga, Platanitos, Puerta de la Laguna, Puerta de Casillas, Punta Rosa, Rancho Verde, Rincón de Guayabitos, Rojas, San Antonio, Santiaguito, Santa María de Jaltemba, San Miguel, Santa Rosa, Tepiqueños, Ursulo Galván, Valle Juan Escutia, Valle Morelos, Vista al Mar, Vizcarra, Zacualpan y Zapotán.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 15], P.O. 13 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2006)</small>
 
 ###### ARTICULO 16.
 
-El Municipio de El Nayar, se integra con las siguientes localidades: Jesús María, Agua Caliente, Agua Milpa, Alta de Ventanas, Arroyo de Santiago, Arroyo de Camarones, Arroyo del Frayle, Arroyo del Carnaval, Arroyo de Perico, Atonalisco, Cofrandía, Cofradía de Pericos, Comal de Peñitas, Coyultita de Jazmines, Coyultita de Mala Noche, Cuahutemoc, Dolores, El Arrayán, El Capomo, El Carrizal, El Colomo, El Colorín, El Coyunque, El Jazmín, El Limón, El Maguey, El Manquita, El Pinito, El plátano, El Roble, El Sabino, El Sanite, El Salitre, El Sauza, Guinea de Guadalupe, Guapinole, Guásima del Metate, Guásima del Caimán, Higuera Gorda, Guamiloya, Ixtalpa, Jazmines del Coquito, Jazmines de Coyultita, La Concepción, La Guerra, La Guilota, La Mesa, La Palmita, Las Estrellas, Las Higueras, Las Huertitas, Las Mesitas, Las Mojarras, Las Ranas, Los Sabinos, Linda Vista, Los Gavilanes, Los Limones, Los Mangos, Los Naranjitos de Copal, Peña Blanca, Paso de Alica, Playa de Golondrina, Rancho viejo, Rancho Viejo Peyotán, San Francisco, San Juan Peyotán, San Rafael, San Pablo, San Vicente, Santa Cruz del Guayabal, Santa Bárbara, Santa Rosa, Santa Teresa, Zoquipilla, Zoquipan y los demás que en lo sucesivo sean creados.
+El Municipio Del Nayar, se integra con las siguientes localidades : Jesús María, Agua Caliente, Agua Milpa, Alta de Ventanas, Arroyo de Santiago, Arroyo de Camarones, Arroyo del Frayle, Arroyo del Carnaval, Arroyo de Perico, Atonalisco, Cofrandía, Cofradía de Pericos, Comal de Peñitas, Coyultita de Jazmines, Coyultita de Mala Noche, Cuahutemoc, Dolores, El Arrayán, El Capomo, El Carrizal, El Colomo, El Colorín, El Coyunque, El Jazmín, El Limón, El Maguey, El Manquita, El Pinito, El plátano, El Roble, El Sabino, El Sanite, El Salitre, El Sauza, Guinea de Guadalupe, Guapinole, Guásima del Metate, Guásima del Caimán, Higuera Gorda, Guamiloya, Ixtalpa, Jazmines del Coquito, Jazmines de Coyultita, La Concepción, La Guerra, La Guilota, La Mesa, La Palmita, Las Estrellas, Las Higueras, Las Huertitas, Las Mesitas, Las Mojarras, Las Ranas, Los Sabinos, Linda Vista, Los Gavilanes, Los Limones, Los Mangos, Los Naranjitos de Copal, Peña Blanca, Paso de Alica, Playa de Golondrina, Rancho viejo, Rancho Viejo Peyotán, San Francisco, San Juan Peyotán, San Rafael, San Pablo, San Vicente, Santa Cruz del Guayabal, Santa Bárbara, Santa Rosa, Santa Teresa, Zoquipilla, Zoquipan y los demás que en lo sucesivo sean creados.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 16], P.O. 13 DE DICIEMBRE DE 1989)</small>
 
@@ -378,3 +380,7 @@ P.O. 30 DE OCTUBRE DE 2004.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Segundo.- Las solicitudes para la creación de nuevos municipios que se encuentren en trámite deberán desahogarse de conformidad a los requisitos establecidos en las disposiciones contenidas en este decreto, debiéndose dar por cumplimentados aquellos que fueron plenamente satisfechos antes de la entrada en vigor de la presente resolución.
+
+P.O. 24 DE MAYO DE 2006.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
