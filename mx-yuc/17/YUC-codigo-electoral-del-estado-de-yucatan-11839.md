@@ -4,7 +4,7 @@ identifier: "YUC-codigo-electoral-del-estado-de-yucatan-11839"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-12-16"
-last_updated: "2003-06-30"
+last_updated: "2006-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11839&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "YUC"
 
 CODIGO ELECTORAL DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE JUNIO DE 2003.
+> <small>N. DE E. DE CONFORMIDAD CON LO SEÑALADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATAN, PUBLICADA EN D.O. DE 24 DE MAYO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO, CON EXCEPCION DE LOS PLAZOS Y TERMINOS RELATIVOS AL PROCESO ELECTORAL QUE SEÑALA EL ARTICULO QUINTO TRANSITORIO DE LA NUEVA LEY.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Código publicado en el Suplemento al Diario Oficial el 16 de Diciembre de 1994.
 
@@ -5194,3 +5196,69 @@ El Presidente del Tribunal Electoral del Estado, al elaborar el proyecto de Pres
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 El Tribunal Electoral del Estado, deberá expedir su reglamento interno, a más tardar el día 30 de septiembre de 2003, y deberá publicarse en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+P.O. 24 DE MAYO DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor, a los dos días de su publicación en el Diario Oficial del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Código Electoral del Estado de Yucatán contenido en el decreto 58 publicado en el Diario Oficial del Gobierno del Estado de fecha 16 de diciembre de 1994.
+
+###### ARTÍCULO TERCERO.
+
+En relación con el ejercicio de los derechos en materia de participación ciudadana y de la instrumentación de los procedimientos respectivos, se estará a lo dispuesto en la Ley de la materia, que en tiempo y forma expida este Congreso.
+
+###### ARTÍCULO CUARTO.
+
+Por única ocasión, en el Primer Período Ordinario de Sesiones del Tercer Año de Ejercicio Constitucional de la LVII Legislatura, el Congreso determinará el número de regidores por municipio para la elección de ayuntamientos del año 2007, considerando las circunstancias poblacionales y los fenómenos demográficos, registrados por el Censo General de Población y Vivienda actualizado y lo dispuesto en la Ley de Gobierno de los Municipios del Estado de Yucatán.
+
+###### ARTÍCULO QUINTO.
+
+Subsisten todo los plazos y términos relativos al proceso electoral que contempla el Código Electoral del Estado de Yucatán, abrogado; únicamente para organizar los comicios locales que se llevarán a cabo en el año 2007 y 2010.
+
+###### ARTÍCULO SEXTO.
+
+A partir de la entrada en vigor de este Decreto, quedarán insubsistentes los nombramientos efectuados por el Consejo Electoral del Instituto Electoral del Estado de Yucatán, respecto del Secretario Técnico y demás integrantes del Comité Técnico Electoral; excepto el personal auxiliar, que seguirá siendo el Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, conservando sus derechos y condiciones laborales.
+
+###### ARTÍCULO SÉPTIMO.
+
+Por esta única ocasión, los partidos políticos nacionales a quienes se les hubiere suspendido su inscripción estatal con motivo de las elecciones en el Estado del año 2004, gozarán a partir del mes de enero del año 2007, de sus prerrogativas y financiamiento público a que se refiere esta Ley.
+
+###### ARTÍCULO OCTAVO.
+
+El Congreso, a más tardar, la segunda quincena del mes de Junio de 2006, en sesión extraordinaria, iniciará el proceso de nombramiento de los consejeros electorales del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán; emitiendo la Convocatoria correspondiente, en los términos del presente Decreto; pudiendo acudir y participar a ésta, quienes fungieron como consejeros ciudadanos del Consejo Electoral del Estado, según decreto Número 555, publicado en el Diario Oficial del Gobierno del Estado el día 30 de noviembre de 2004.
+
+###### ARTÍCULO NOVENO.
+
+Los ciudadanos Gerardo Robigue Herrera Sansores, Mario Ruemer Jesús Leal Guillermo, Rossana Rivera Palmero, Pedro Regalado Uc Be, Sergio Lara Pinto, Landy Lissette Mendoza Fuentes, Carlos Eduardo Pech Escalante y Hernán Vega Burgos, quienes fungieron como consejeros ciudadanos y secretario técnico respectivamente, del Instituto Electoral del Estado, tendrán el carácter de depositarios del patrimonio del Instituto Electoral del Estado, limitando sus actos para lo estrictamente necesario para la conservación del mismo; tanto con el carácter de patrón, como su naturaleza de organismo público autónomo; desde el momento de la entrada en vigor del presente decreto y hasta que resulten legalmente designadas, las personas que fungirán como consejeros electorales del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, en los plazos y términos previstos, a quienes les entregarán tal patrimonio.
+
+Hasta ese entonces, los depositarios y responsables percibirán una remuneración equivalente, a la que anteriormente recibían en los cargos que ocupaban.
+
+###### ARTÍCULO DÉCIMO.
+
+Los Consejeros Electorales que fueren designados en cumplimiento de este decreto, para integrar el primer Consejo General del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, durarán en su cargo los tres primeros Consejeros Electorales designados, hasta el treinta de noviembre de 2012; los dos últimos Consejeros Electorales designados, hasta el treinta de noviembre de 2010, pudiendo ser ratificados hasta por un período de seis años.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+El Congreso, a más tardar, la segunda quincena de Junio de 2006, en sesión extraordinaria, iniciará el proceso de nombramiento de los consejeros electorales, emitiendo la Convocatoria correspondiente.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Los acuerdos, convenios, actos jurídicos, así como asuntos pendientes y de trámite del Instituto Electoral del Estado, se transferirán al Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Por única ocasión, el Congreso del Estado deberá designar o ratificar a los Magistrados del Tribunal Electoral del Estado, a más tardar el último día del mes de agosto de 2006, conforme a esta Ley.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Los Magistrados Electorales que fueren designados o ratificados en cumplimiento de este decreto, para integrar el Tribunal Electoral del Estado de Yucatán, durarán en su cargo los tres primero Magistrados Electorales designados o ratificados, hasta el treinta de marzo de 2012; los dos últimos Magistrados Electorales designados o ratificados hasta el treinta de marzo de 2010.
+
+Únicamente los ratificados en el año 2006, no podrán fungir para un período más.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Los partidos políticos deberán ajustar su desempeño y actividades, de conformidad en (sic) los términos y modalidades de este Decreto.
