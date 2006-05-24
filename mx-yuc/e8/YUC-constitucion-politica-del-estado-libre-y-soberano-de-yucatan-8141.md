@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2006-01-23"
+last_updated: "2006-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE ENERO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE MAYO DE 2006.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -63,7 +63,9 @@ I.- Cumplir con las Leyes vigentes y a respetar y obedecer a las autoridades leg
 
 II.- Contribuir a los gastos públicos del Estado como del Municipio en que residan, de la manera proporcional y equitativa, que dispongan las leyes que establezcan contribuciones, que para tal efecto expida el Congreso del Estado;
 
-III.- Desempeñar los cargos concejiles, y a prestar los otros servicios públicos que las Leyes prescriban, considerándose como tales los servicios que las autoridades requieran, con arreglo a las Leyes, en casos de epidemia, guerra, siniestro o cualquiera otra calamidad pública;
+> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
+
+III.- Prestar los servicios que las Leyes prescriban, considerándose como tales los servicios que las autoridades requieran, con arreglo a las Leyes, en casos de epidemia, guerra, siniestro o cualquiera otra contingencia grave;
 
 IV.- Inscribirse en el padrón de su municipalidad manifestando la propiedad que tengan, o la industria, profesión o trabajo de que subsistan; y
 
@@ -111,17 +113,25 @@ I.- Haber cumplido dieciocho años y
 
 II.- Tener un modo honesto de vivir.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 24 DE MAYO DE 2006)</small>
 
 ###### Artículo 7.
 
-Son prerrogativas del ciudadano yucateco:
+Son derechos del ciudadano yucateco:
 
-I.- votar en las elecciones populares;
+> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
+
+I.- votar en los procedimientos de elección y de consulta popular. Las leyes respectivas establecerán la forma de garantizar el acceso de las personas con capacidades diferentes y de los residentes en el extranjero, al derecho al sufragio;
+
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
 II.- poder ser votado para todos los cargos de elección popular y nombrado para cualquier otro empleo o comisión, teniendo las cualidades que establezca la Ley;
 
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+
 III.- asociarse para tratar los asuntos políticos del Estado; y
+
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
 IV.- tomar las armas para la defensa del Estado o sus Instituciones, en los términos que prescriban las leyes.
 
@@ -135,17 +145,23 @@ I.- inscribirse en los padrones electorales, en los términos que determinen las
 
 II.- desempeñar los cargos de elección popular del Estado que en ningún caso serán gratuitos;
 
-III.- desempeñar los cargos concejiles del municipio donde residan;
+> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
+
+III.- desempeñar los cargos concejales del municipio donde residan;
 
 > <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 1994)</small>
 
 IV.- desempeñar las funciones electorales y las de jurado en los términos de la (sic) leyes respectivas;
 
-V.- alistarse en la Guardia Nacional;
+(REFORMADA, D.O. 24 DE MAYO DE 2006) (F. DE E., D.O. 28 DE SEPTIEMBRE DE 2006)
 
-VI.- votar en las elecciones populares en el Distrito electoral que le corresponda; y
+V.- inscribirse en las Juntas Municipales de Reclutamiento para el servicio de las armas;
 
-VII.- tomar las armas para la defensa del Estado o de sus instituciones en los términos que prescriban las Leyes.
+> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
+
+VI.- votar en los procedimientos de elección y consulta popular, en los términos que señale la ley;
+
+VII.- (DEROGADA, D.O. 24 DE MAYO DE 2006)
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -161,13 +177,17 @@ Los derechos y prerrogativas del ciudadano yucateco, se suspenden:
 
 I.- por no tener domicilio, oficio o modo honesto de vivir;
 
-II.- por estar procesado criminalmente: desde que se provea el auto motivado de prisión hasta la sentencia, si es absolutoria; o hasta la extinción de la pena, si es condenatoria;
+(REFORMADA, D.O. 24 DE MAYO DE 2006) (F. DE E., D.O. 28 DE SEPTIEMBRE DE 2006)
+
+II.- por la comisión de delito que amerite pena privativa de la libertad, a partir del auto de formal prisión, hasta el momento en que se dicte sentencia absolutoria, en el proceso respectivo o hasta la extinción de la pena;
 
 III.- por rehusarse a desempeñar sin justa causa los cargos de elección popular;
 
 IV.- por sentencia que inhabilite para el ejercicio de esos derechos; y
 
-V.- por no cumplir con la obligación de votar en las elecciones populares.
+> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
+
+V.- no cumplir con las obligaciones de votar en los procedimientos de elección y consulta popular.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -233,29 +253,51 @@ El Poder Público del Estado de Yucatán se divide, para su ejercicio, en Legisl
 
 No podrán reunirse dos o más de estos Poderes en una sola persona o corporación, ni depositarse el Legislativo en un Congreso formado por menos diputados que los señalados en el artículo 116 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, D.O. 24 DE MAYO DE 2006)</small>
 
-APARTADO A. DE LA FUNCIÓN ESTATAL DE ORGANIZAR LAS ELECCIONES
+APARTADO A. DE LA ORGANIZACIÓN DE LAS ELECCIONES Y LOS PROCEDIMIENTOS DE PARTICIPACIÓN CIUDADANA
 
-La organización de las elecciones locales es una función estatal que se realiza a través de un organismo público autónomo dotado de personalidad jurídica y patrimonio propios, a cuya integración concurren los poderes del Estado, con la participación de los partidos políticos y los ciudadanos, de la manera que disponga la Ley.
+I.- La organización de los procedimientos locales de elección y consulta popular, es una función estatal, que se realiza a través de un organismo público autónomo denominado Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, dotado de personalidad jurídica y patrimonio propios. En el ejercicio de esa función, serán principios rectores: La legalidad, independencia, imparcialidad, objetividad, certeza y profesionalización.
 
-En la conformación de este organismo que será autoridad en la materia, se atenderá a criterios de profesionalismo en su desempeño y autonomía en sus decisiones. Contará también con la participación de consejeros ciudadanos, designados en la forma y términos que señale la Ley respectiva.
+En la integración de este organismo participan el Poder Legislativo, los partidos políticos y los ciudadanos, en términos de ley.
 
-Las mesas directivas de casilla estarán integradas por ciudadanos.
+Dicho organismo, será autoridad en la materia, con independencia y autonomía en sus decisiones y funcionamiento, profesional en su desempeño. Contará con la participación de consejeros electorales, elegidos en la forma que señale la Ley. El Consejo General será su órgano superior de dirección que se integra por cinco consejeros electorales, uno de los cuales tendrá el carácter de Presidente; además de un Secretario Ejecutivo, quien participará con voz pero sin voto. Los consejeros electorales y dicho Secretario, durarán en su encargo 6 años.
 
-La Ley reglamentaria de este precepto, atenderá las actividades relativas a la preparación de la jornada electoral, al desarrollo de ésta, a los cómputos y otorgamiento de constancia, capacitación electoral y educación cívica, al sistema de medios de impugnación y a la conformación de los organismos en la materia.
+Los consejeros electorales del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, serán electos por el voto de las dos terceras partes de los integrantes del Congreso del Estado. De la misma forma, se elegirá a cinco consejeros electorales suplentes, señalando el orden de prelación respectivo.
 
-La Ley establecerá un sistema de medios de impugnación de los que conocerá el organismo público a que se refiere este precepto y los tribunales autónomos que serán la máxima autoridad jurisdiccional en materia electoral.
+Las leyes establecerán las reglas y el procedimiento de elección o designación correspondiente, y atenderán las actividades relativas a la preparación de las jornadas electorales y de participación ciudadana, al desarrollo de éstas, a los cómputos y otorgamiento de constancia, capacitación electoral y educación cívica, al sistema de medios de impugnación y a la conformación de los organismos en la materia.
 
-APARTADO B. DE LOS PARTIDOS POLITICOS
+Se establecerá un sistema de medios de impugnación, de los que conocerán el organismo público a que se refiere este precepto y el tribunal de la materia, mismo que será autónomo y máxima autoridad jurisdiccional en el Estado.
 
-Los partidos políticos son entidades de interés público que intervendrán en los procesos electorales conforme a las disposiciones legales aplicables.
+La Ley determinará las bases del servicio profesional electoral y de las relaciones laborales de los servidores públicos en los organismos electorales.
 
-Los fines de los partidos políticos son promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación popular estatal y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo.
+Las mesas directivas de casilla estarán integradas por ciudadanos; y la votación se recepcionará en términos de ley, garantizando la efectividad y el secreto del sufragio.
 
-La ley reglamentaria en la materia podrá establecer los casos y las condiciones para otorgar financiamiento público a los partidos políticos y permitirles el acceso a los medios de comunicación social del Gobierno del Estado.
+II.- Son medios de consulta popular: el plebiscito, el referéndum y la iniciativa popular, entre otros.
 
-Para ejercer el derecho a participar en las elecciones estatales y municipales, los partidos políticos nacionales deberán cumplir con los requisitos establecidos en la ley local reglamentaria.
+El plebiscito es la consulta a través de la cual los ciudadanos yucatecos expresan su aprobación, a un acto o decisión del Poder Ejecutivo o de los Ayuntamientos, siempre que sean considerados como trascendentales para el Estado o los Municipios.
+
+> <small>(F. DE E., D.O. 28 DE SEPTIEMBRE DE 2006)</small>
+
+El referéndum es la consulta a través del cual los ciudadanos yucatecos manifiestan su aprobación a las reformas, adiciones o derogaciones a la Constitución Política del Estado, a las leyes que expida el Congreso del Estado o a los reglamentos municipales.
+
+> <small>(F. DE E., D.O. 28 DE SEPTIEMBRE DE 2006)</small>
+
+La iniciativa popular consiste en la presentación de un proyecto de expedición, reforma o adición de leyes o decretos ante el Congreso del Estado; así como de reglamentos municipales ante el Ayuntamiento, por parte de los ciudadanos yucatecos.
+
+> <small>(REFORMADO, D.O. 24 DE MAYO DE 2006)</small>
+
+APARTADO B. DE LOS PARTIDOS Y AGRUPACIONES POLÍTICAS
+
+Los partidos políticos son entidades de interés público; la Ley determinará las formas específicas de su participación en el proceso electoral.
+
+Son fines esenciales de los partidos políticos: Promover la participación del pueblo en la vida democrática, intervenir en la integración de los órganos de representación popular estatal y, como organizaciones de ciudadanos, coadyuvar en el acceso de éstos al ejercicio del poder público; de acuerdo con los programas, principios e ideas que postulan, mediante el sufragio universal, libre, secreto y directo.
+
+Tratándose de las agrupaciones políticas, la ley establecerá sus fines y sus prerrogativas.
+
+Los ciudadanos de manera libre e individualmente, podrán afiliarse a los partidos y agrupaciones políticas.
+
+Para ejercer el derecho a participar en las elecciones estatales y municipales, los partidos políticos nacionales y los ciudadanos de manera independiente, deberán cumplir con los requisitos establecidos en la ley.
 
 > <small>(ADICIONADO, D.O. 9 DE SEPTIEMBRE DE 2005)</small>
 
@@ -265,17 +307,37 @@ Conforme a esta Constitución, los organismos autónomos del Estado contarán co
 
 Son organismos autónomos del Estado:
 
-I.- El Instituto Electoral del Estado;
+> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
+
+I.- El Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán;
 
 II.- La Comisión de Derechos Humanos del Estado de Yucatán, y
 
 III.- El Tribunal Electoral del Estado.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(ADICIONADO, D.O. 24 DE MAYO DE 2006)</small>
+
+###### Artículo 16 Bis.
+
+La ley garantizará que los partidos y agrupaciones políticas dispongan de los elementos para llevar a cabo sus actividades. Tendrán derecho en la forma que se establezca, al uso permanente de los medios de comunicación social y al financiamiento, garantizando en este caso, que los recursos públicos prevalezcan sobre los de origen privado; de igual modo, la ley establecerá las restricciones en los gastos de precampañas y campañas electorales.
+
+El financiamiento público se compondrá de los montos para el sostenimiento de sus actividades ordinarias y de campaña, mismo que se otorgará conforme a lo siguiente:
+
+I.- Para actividades ordinarias los montos se fijarán cada tres años. El 40% de la cantidad total que resulte se distribuirá entre los partidos políticos en partes iguales y el 60% restante, se distribuirá de acuerdo con el porcentaje de votos, que hubieren obtenido en la elección de diputados por el principio de mayoría relativa;
+
+II.- Para gastos de campaña, se otorgará adicionalmente el equivalente al 75% del financiamiento público que le corresponda a cada partido político, para actividades ordinarias de ese año;
+
+III.- Los partidos y agrupaciones políticas, destinarán anualmente del financiamiento público que reciban, al menos un 15% para la realización de estudios e investigaciones de la realidad regional, el sostenimiento de programas de formación y capacitación política, la realización de tareas editoriales y la difusión de sus propuestas.
+
+Excepto lo destinado a la difusión de propuestas político electorales, los excedentes al porcentaje establecido en el párrafo que antecede, serán reintegrados hasta el 75% de los gastos comprobados; erogados por los partidos políticos, en el año inmediato anterior.
+
+Las leyes establecerán los límites que tendrán las aportaciones en numerario y en especie a los partidos y agrupaciones políticas; los procedimientos para determinar el origen, destino, aplicación y control sobre los recursos con que cuenten; los elementos que garanticen una adecuada fiscalización y transparencia así como las sanciones que deban imponerse, por el incumplimiento de estas disposiciones.
+
+> <small>(REFORMADO, D.O. 24 DE MAYO DE 2006)</small>
 
 ###### Artículo 17.
 
-Los Poderes Públicos del Estado residirán en la ciudad de Mérida. El Ejecutivo del Estado, en caso de guerra o de cualquiera otra calamidad pública, podrá trasladar a otro punto la residencia de los Poderes Públicos.
+Los Poderes Públicos del Estado, residirán en la ciudad de Mérida, dichos poderes, en caso de guerra o alteración grave del orden público, podrán trasladar a otra localidad la residencia de los mismos.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -285,17 +347,19 @@ Los Poderes Públicos del Estado residirán en la ciudad de Mérida. El Ejecutiv
 
 ### CAPITULO II. De la Elección e Instalación del Congreso
 
-> <small>(REFORMADO, D.O. 26 DE JUNIO DE 1978)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 24 DE MAYO DE 2006)</small>
 
 ###### Artículo 18.
 
 El Poder Legislativo del Estado se depositará en una Asamblea de Representantes que se denominará "Congreso del Estado de Yucatán".
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO, D.O. 24 DE MAYO DE 2006)</small>
 
 ###### Artículo 19.
 
-Los Diputados son inviolables por las opiniones que manifiesten en el desempeño de su encargo; y jamás podrán ser reconvenidos por ellas.
+Los Diputados son inviolables por la manifestación de ideas y expresión de opiniones, en el desempeño de su encargo; y no podrán ser reconvenidos por ellas.
+
+El Presidente del Congreso en los términos de las leyes, velará por el respeto a la inmunidad de sus integrantes y garantizará la inviolabilidad del recinto donde se reúnan a sesionar.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -305,33 +369,31 @@ Los Diputados son inviolables por las opiniones que manifiesten en el desempeño
 
 ###### Artículo 20.
 
-El Congreso del Estado de Yucatán se compondrá de representantes electos cada tres años y su elección será popular directa. Por cada Diputado Propietario se elegirá un Diputado Suplente.
+El Congreso del Estado de Yucatán se compondrá de veinticinco Diputados electos popularmente cada tres años, de los cuales, quince serán electos por el principio de mayoría relativa y los restantes, por el de representación proporcional, mediante el procedimiento que la Ley establezca. Por cada Diputado Propietario de mayoría relativa, se elegirá un Suplente.
+
+> <small>(REFORMADO (N. DE E. ADICIONADO], D.O. 24 DE MAYO DE 2006)</small>
+
+Los partidos políticos tendrán derecho a que se les reconozca hasta quince diputados, sumando los de mayoría relativa y los de representación proporcional.
+
+> <small>(REFORMADO (N. DE E. ADICIONADO], D.O. 24 DE MAYO DE 2006)</small>
+
+La ley determinará la forma de establecer la demarcación territorial de los distritos electorales uninominales.
+
+> <small>(REFORMADO, D.O. 26 DE JUNIO DE 1978)</small>
 
 Las personas que hubiesen desempeñado las funciones de Diputado no podrán ser reelectos para el período inmediato siguiente. Los Diputados Suplentes podrán ser electos para el período inmediato siguiente con el carácter de Propietario, siempre que no hubieren estado en ejercicio; pero los Propietarios no podrán ser electos para dicho período ni con el carácter de Suplentes.
 
-> <small>(REFORMADO, D.O. 12 DE MARZO DE 1993)</small>
+> <small>(REFORMADO, D.O. 24 DE MAYO DE 2006)</small>
 
 ###### Artículo 21.
 
-El Congreso del Estado, se integrará con quince diputados electos según el principio de votación mayoritaria relativa, mediante el sistema de distritos electorales uninominales y diez diputados electos por el sistema de representación proporcional, mediante listas votadas en una circunscripción plurinominal, que corresponderá a la totalidad del territorio del estado.
+Para el registro y la asignación de diputados por el principio de representación proporcional a los partidos políticos y coaliciones, se considerará lo siguiente:
 
-> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 1994)</small>
+I.- Deberá acreditar que participa con candidatos en la totalidad de los distritos electorales uninominales.
 
-El Congreso del Estado determinará al menos un año antes de la fecha de la elección, el ámbito territorial de los distritos electorales, en los términos de la ley reglamentaria.
+II.- Los principios de pluralidad, representatividad y equidad, y
 
-Para la asignación de diputados electos por el sistema de representación proporcional, la ley reglamentaria se sujetará a las bases siguientes:
-
-A) Para obtener el registro de su lista, el partido político que lo solicite deberá acreditar que participa con candidatos a diputados de mayoría relativa, en la totalidad de los distritos electorales uninominales.
-
-B) Tendrá derecho a que le sean asignados diputados, todo aquel partido político que alcance por lo menos, el 1.5% del total de la votación emitida en el estado.
-
-C) La Ley determinará la fórmula electoral y los procedimientos que se observarán en dicha asignación en la que se seguirá el orden numérico que tuviesen los candidatos y sus respectivos suplentes en la lista correspondiente.
-
-D) Los partidos políticos tendrán derecho a que se les reconozca hasta dieciocho diputados, sumando los electos por mayoría relativa y de representación proporcional.
-
-> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 1994)</small>
-
-Todos los diputados que integren el Congreso del Estado como representantes del pueblo tienen la misma categoría e iguales derechos y obligaciones. Por cada diputado de mayoría relativa habrá un suplente.
+III.- La obtención del 2% o más de la votación emitida en el Estado
 
 > <small>(REFORMADO, D.O. 2 DE FEBRERO 1984)</small>
 
@@ -343,29 +405,31 @@ I.- Ser ciudadano mexicano por nacimiento y tener además la calidad de ciudadan
 
 II.- Tener veintiun años cumplidos el día de la elección;
 
-> <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
 
-III.- No ser Gobernador del Estado, magistrado del Tribunal Superior de Justicia, ni regidor durante el año calendario de la elección, a menos que se separe de sus funciones 90 días antes de la elección;
+III.- No ser Gobernador del Estado, magistrado del Tribunal Superior de Justicia, Regidor o Síndico, durante el año calendario de la elección, a menos que se separe de sus funciones 90 días antes de la elección;
 
-IV.- No estar en servicio activo en el Ejército Nacional, ni tener el mando de la corporación policiaca o gendarmería que corresponda al Distrito en que pretenda su elección, cuando menos durante los noventa días anteriores a ella;
+> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
 
-> <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 1994)</small>
+IV.- No estar en servicio activo en el Ejército Nacional, ni tener el mando de corporación policíaca, cuando menos durante los 90 días anteriores a la fecha de la elección;
 
-V.- No haber sido procesado con sentencia condenatoria ejecutoriada, por delitos intencionales.
+> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
 
-VI.- Haber residido en el Estado los dos años inmediatos anteriores al de la elección. La residencia o vecindad no se pierde ni se interrumpe por ausencias durante el desempeño de cargos públicos federales o estatales de elección popular, ni por la ejecución o cumplimiento, fuera de la entidad, de comisiones oficiales otorgadas por el Gobierno del Estado o por alguno de los organismos e instituciones de los que forme parte el propio Gobierno.
+V.- No haber sido sentenciado con resolución firme de autoridad judicial competente, por la comisión de delito intencional, que amerite pena privativa de la libertad;
+
+> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
+
+VI.- Residir en el Estado durante los dos años inmediatos anteriores a la fecha de la elección. La vecindad no se pierde ni se interrumpe por ausencias durante el desempeño de cargos públicos federales o de elección popular, ni por la ejecución o cumplimiento, fuera de la entidad, de comisiones oficiales otorgadas por el Gobierno del Estado o por alguno de los organismos e instituciones de los que forme parte el propio Gobierno;
 
 > <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 1994)</small>
 
 VII.- No ser ministro de culto religioso alguno, salvo que se haya separado definitivamente 5 años antes del día de la elección;
 
-> <small>(ADICIONADA, D.O. 16 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
 
-VIII.- No ser magistrado o Secretario del Tribunal Electoral del Estado, a menos que se separe de sus funciones 3 años antes de la fecha de la elección;
+VIII.- No ser Magistrado, Secretario del Tribunal, Consejero, Secretario Ejecutivo o sus equivalentes, de los organismos electorales locales o federales, a menos que se separen de sus funciones 3 años antes de la fecha de la elección;
 
-> <small>(ADICIONADA, D.O. 16 DE DICIEMBRE DE 1994)</small>
-
-IX.- No ser Consejero ciudadano local o federal a menos que separe de sus funciones 3 años antes de la fecha de la elección; y
+IX.- (DEROGADA, D.O. 24 DE MAYO DE 2006)
 
 > <small>(ADICIONADA, D.O. 16 DE DICIEMBRE DE 1994)</small>
 
@@ -377,45 +441,43 @@ X.- Estar inscrito en Registro Federal de Electores y contar con Credencial para
 
 El cargo de Diputado es incompatible con cualquier cargo, comisión o empleo público.
 
-> <small>(ADICIONADO, D.O. 16 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, D.O. 24 DE MAYO DE 2006)</small>
 
 ###### Artículo 24.
 
-El organismo público a que se refiere el Apartado A del Artículo 16 de esta Constitución, declarará la validez de las elecciones de Gobernador, diputados y regidores, otorgará las constancias respectivas a los candidatos que hubiesen obtenido mayoría de votos. Asimismo, hará la declaración de validez y la asignación de diputados y regidores según el principio de representación proporcional, en los términos establecidos en el Artículo 21 de esta Constitución y en la Ley de la materia.
+El Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, declarará la validez de las elecciones de Gobernador, Diputados, Regidores y Síndicos; efectuará la asignación de diputados y regidores según el principio de representación proporcional y expedirá las constancias respectivas a los candidatos electos.
 
-La declaración de validez, el otorgamiento de las constancias y la asignación de diputados y regidores, podrán ser impugnados ante el Tribunal Electoral del Estado en los términos que señale la Ley. Esta establecerá los presupuestos, requisitos de procedencia y el trámite de esos medios de impugnación.
+La declaración de validez, la asignación de diputados y regidores de representación proporcional y la expedición de las respectivas constancias, podrán ser impugnadas ante el Tribunal Electoral del Estado en los términos que la ley señale, cuyas resoluciones serán definitivas y firmes en el ámbito estatal.
 
-> <small>(REFORMADO, D.O. 23 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, D.O. 24 DE MAYO DE 2006)</small>
 
 ###### Artículo 25.
 
-La Ley reglamentaria establecerá un sistema de medios de impugnación de los que conocerán los organismos electorales y el Tribunal Electoral del Estado, que será el órgano jurisdiccional en materia electoral. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad.
+La Ley Reglamentaria establecerá un sistema de medios de impugnación de los que conocerán los organismos electorales y el Tribunal Electoral del Estado, que será el órgano jurisdiccional en la materia. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones electorales, así como la protección de los derechos político electorales del ciudadano, se sujeten invariablemente al principio de legalidad.
 
-El Tribunal Electoral del Estado tendrán la competencia y organización que determine la Ley. Los poderes del Estado garantizarán su debida integración.
+El Tribunal Electoral del Estado tendrá la organización y competencia que determine la Ley; los poderes públicos del Estado, salvaguardarán su integración y funcionamiento.
 
-Las resoluciones del Tribunal Electoral del Estado a que se refiere el segundo párrafo del Artículo 24 de esta Constitución, serán definitivas y firmes en el ámbito estatal.
-
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+(REFORMADO, D.O. 24 DE MAYO DE 2006) (F. DE E., D.O. 28 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 26.
 
-El Congreso no puede abrir sus sesiones ni ejercer su cargo sin la concurrencia de más de la mitad del número total de sus miembros; pero los presentes deberán reunirse el día señalado por la Ley y compeler a los ausentes a que concurran bajo las penas que la misma Ley designe, y, en su caso, llamar a los respectivos suplentes a fin de que funcionen mientras se presentan los propietarios.
+El Congreso no puede iniciar sus sesiones ni ejercer sus atribuciones, sin la concurrencia de más de la mitad de la totalidad de sus integrantes; los presentes deberán reunirse el día señalado por la Ley y compeler a los ausentes, a que concurran bajo las penas que se establezcan; llamando a quien deba suplirlo, a fin de que funcionen mientras se presentan los propietarios y en los demás casos, conforme a lo que dispongan las leyes.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 31 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, D.O. 24 DE MAYO DE 2006)</small>
 
 ###### Artículo 27.
 
-El Congreso tendrá cada año tres períodos ordinarios de sesiones que durarán el tiempo que sea necesario para tratar los asuntos que se le presenten y comenzarán a partir del 1 de julio, del 16 de noviembre y del 16 de marzo y sin que los mismos puedan prolongarse más que hasta el 31 de agosto, 15 de enero y 15 de mayo. El último período podrá ampliarse hasta el 30 de junio de los años en que el Congreso concluya su ejercicio legal.
+El Congreso para tratar y resolver los asuntos programados y los demás que se le presenten, tendrá cada año tres períodos ordinarios de sesiones. El primero, del 1 de septiembre al 15 de diciembre; el segundo, del 16 de enero al 15 de abril y el tercero del 16 de mayo al 15 de julio. El tercer período podrá ampliarse hasta el 31 de agosto, del año en que el Congreso concluye su gestión.
 
-> <small>(REFORMADO, D.O. 24 DE ABRIL DE 1993)</small>
+En los períodos ordinarios, se ocupará del estudio, discusión, dictaminación y votación de todos los asuntos, conforme a esta Constitución y la ley.
 
-En sus períodos de sesiones ordinarias, el Congreso se ocupará del estudio, discusión y votación de las iniciativas de las leyes que se le presenten y de la resolución de los demás asuntos que le correspondan conforme a esta Constitución y en los términos que señala su Ley Orgánica.
-
-> <small>(REFORMADO, D.O. 24 DE ABRIL DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 24 DE MAYO DE 2006)</small>
 
 ###### Artículo 28.
 
-El Congreso celebrará el cuarto domingo de julio de cada uno de los cinco primeros años del período del Ejecutivo y el segundo domingo de junio del sexto año del mismo, una Sesión Solemne en la cual el Gobernador del Estado deberá comparecer a rendir un informe por escrito, acerca de la situación que guarden las diversas ramas de la administración. En dicho informe podrá dar respuesta además a las preguntas que le hubieren formulado los integrantes del H. Congreso, a través del Presidente en turno, con una antelación no menor de veinte días naturales al del informe correspondiente. Las preguntas comprenderán exclusivamente cualquier asunto de la Administración Pública, relativo al período a que se refiere el informe del Ejecutivo.
+El Congreso celebrará sesión solemne el tercer domingo de octubre de cada uno de los 5 primeros años de gestión del Titular del Ejecutivo del Estado y, el primer domingo de septiembre, del sexto año; en la cual deberá comparecer personalmente y rendir un informe por escrito, acerca del estado general que guarda la administración pública, en sus distintos ámbitos de competencia. En dicho informe podrá dar respuesta además a las preguntas que le hubieren formulado los integrantes del Congreso, a través del Presidente en turno, con una antelación no menor de 20 días naturales al del informe correspondiente. Las preguntas comprenderán exclusivamente cualquier asunto de la Administración Pública, relativo al período a que se refiere el informe del Ejecutivo.
+
+> <small>(REFORMADO, D.O. 24 DE ABRIL DE 1993)</small>
 
 El Presidente del Congreso contestará a dicho informe.
 
@@ -465,13 +527,19 @@ III.- revocar los acuerdos de los Ayuntamientos, a petición del Ejecutivo del E
 
 IV.- (DEROGADA, D.O. 16 DE DICIEMBRE DE 1994)
 
+> <small>(ADICIONADA, D.O. 24 DE MAYO DE 2006)</small>
+
+IV Bis.- Someter a referéndum las leyes, decretos, y las reformas a esta Constitución, cuando sea procedente, de conformidad con la ley de la materia;
+
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
 V.- dar, interpretar y derogar Leyes y Decretos;
 
-> <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 24 DE MAYO DE 2006)</small>
 
-VI.- Aprobar la Ley de Ingresos y el Presupuesto de Egresos del Gobierno del Estado y las Leyes de Ingresos municipales, a más tardar el día treinta de diciembre de cada año.
+VI.- Aprobar la Ley de Ingresos y el Presupuesto de Egresos del Gobierno del Estado y las Leyes de Ingresos de los municipios, a más tardar, el día 15 de diciembre de cada año.
+
+> <small>(REFORMADO, D.O. 26 DE MAYO DE 2005)</small>
 
 Determinar las bases, montos y plazos con que serán distribuidas las participaciones a los municipios, con arreglo a las Leyes respectivas. Atendiendo entre otros criterios, el esfuerzo recaudatorio; población y marginación;
 
@@ -535,9 +603,9 @@ e) Además de impartir la educación preescolar, primaria y secundaria, el Estad
 
 f) Las universidades y las demás instituciones de educación superior a las que la Ley otorgue autonomía, tendrán la facultad y la responsabilidad de gobernarse a sí mismas; realizarán sus fines de educar, investigar y difundir la cultura de acuerdo con los principios de este artículo, respetando la libertad de cátedra e investigación y de libre examen y discusión de las ideas; determinarán sus planes y programas; fijarán los términos de ingreso, promoción y permanencia de su personal académico; y administrarán su patrimonio. Las relaciones laborales, tanto del personal académico como del administrativo, se normarán por el apartado A del Artículo 123 de la Constitución General de la República, en los términos y con las modalidades que establezca la Ley Federal del Trabajo conforme a las características propias de un trabajo especial, de manera que concuerden con la autonomía, la libertad de cátedra e investigación y los fines de las instituciones a que esta fracción se refiere;
 
-> <small>(ADICIONADA, D.O. 12 DE MARZO DE 1993)</small>
+> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
 
-XVI.- Designar a los integrantes de los organismos electorales y a los miembros del Tribunal Electoral del Estado, en los términos de ley;
+XVI.- Designar a los consejeros electorales, del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán y a los Magistrados del Tribunal Electoral del Estado de Yucatán, de conformidad a la ley;
 
 > <small>(REFORMADA, D.O. 22 DE FEBRERO DE 1988)</small>
 
@@ -549,15 +617,23 @@ XVIII.- Nombrar y remover al Contador Mayor, al Oficial Mayor y al Tesorero del 
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1990)</small>
 
-XIX.- autorizar al Ejecutivo del Estado, para enajenar bienes de la propiedad del Estado, en los casos que señale la Ley, que para tal efecto se expida;
+XIX.- Autorizar al Ejecutivo del Estado, para enajenar bienes de la propiedad del Estado, en los casos que señale la Ley, que para tal efecto se expida;
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
 XX.- donar a las Instituciones de interés público o de beneficencia, cualquiera clase de bienes de la propiedad del Estado;
 
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
 
-XXI.- conceder licencias al Gobernador del Estado, cuando éste trate de separarse de sus funciones por un lapso mayor de sesenta días;
+XXI.- Respecto al cargo del Titular del Poder Ejecutivo:
+
+a) Expedir el bando solemne, para dar a conocer la declaración de Gobernador electo hecha por el Consejo General del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, en la forma que establezca la ley de la materia;
+
+b) Recibirle la protesta a que aluden los artículos 67 y 105 de esta constitución;
+
+c) Concederle licencia para separarse de sus funciones por más de 60 días; y
+
+d) Nombrar al interino o sustituto, en los casos de falta temporal o absoluta, erigiéndose en Colegio Electoral;
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -579,25 +655,21 @@ XXIV.- hacer uso del derecho de iniciar Leyes que le concede la Constitución Ge
 
 XXV.- aprobar o no la formación o erección de nuevos Estados o Territorios;
 
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
 
-XXVI.- recibir la protesta de Ley al Gobernador del Estado, a los Magistrados del Tribunal Superior de Justicia del mismo y al Contador Mayor;
+XXVI.- Recibir la protesta a los Magistrados del Tribunal Superior de Justicia a que alude el artículo 67 de esta constitución;
 
 > <small>(REFORMADA, D.O. 22 DE FEBRERO DE 1988)</small>
 
 XXVII.- Resolver las peticiones de licencias de sus propios miembros y del Contador Mayor, de conformidad con lo que disponga la Ley Orgánica del Poder Legislativo del Estado para separarse de sus respectivos cargos, así como sus renuncias;
 
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
-
-XXVIII.- nombrar Gobernador interino en los casos de falta temporal o absoluta del Gobernador Constitucional del Estado;
+XXVIII.- (DEROGADA, D.O. 24 DE MAYO DE 2006)
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
 XXIX.- arreglar los límites del Estado, por convenios amistosos, los cuales no se llevarán a efecto sin la aprobación del Congreso de la Unión;
 
-> <small>(ADICIONADA, D.O. 12 DE MARZO DE 1993)</small>
-
-XXIX Bis.- Determinar el ámbito territorial de los distritos electorales del estado;
+XXIX Bis.- (DEROGADA, D.O. 24 DE MAYO DE 2006)
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -675,17 +747,17 @@ XLII.- (DEROGADA, D.O. 16 DE DICIEMBRE DE 1994)
 
 XLIII.- Convocar a elecciones extraordinarias en el Distrito Electoral que fuera necesario, con objeto de cubrir las vacantes de sus miembros propietarios y suplentes electos por el principio de mayoría relativa, en los plazos y términos que disponga la ley y la convocatoria respectiva;
 
-> <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
+> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
 
-XLIII Bis.- Convocar a elecciones extraordinarias, cuando se declare nula la elección de un Ayuntamiento, en el plazo y condiciones que dispongan las leyes aplicables, y la convocatoria respectiva;
+XLIII Bis.- Convocar a elecciones extraordinarias, cuando se declare la nulidad de una elección o la desaparición de un Ayuntamiento, en el plazo y condiciones que dispongan las leyes;
 
 XLIV.- (DEROGADA, D.O. 26 DE MAYO DE 2005)
 
 XLV.- (DEROGADA, D.O. 26 DE MAYO DE 2005)
 
-> <small>(REFORMADA, D.O. 26 DE FEBRERO DE 1988)</small>
+> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
 
-XLVI.- Formular el proyecto de Presupuesto de Egresos del Poder Legislativo, atendiendo las posibilidades del ingreso y gasto Público del Estado, y remitirlo al titular del Poder Ejecutivo a más tardar el treinta de octubre de cada año, a fin de que éste considere su incorporación al proyecto de Presupuesto de Egresos del Estado; y (sic)
+XLVI.- Formular el proyecto de Presupuesto de Egresos del Poder Legislativo, atendiendo las posibilidades del ingreso y gasto público del Estado, y remitirlo al titular del Poder Ejecutivo, a más tardar el 15 de octubre de cada año; a fin de que éste, considere su incorporación al proyecto de Presupuesto de Egresos del Estado;
 
 > <small>(REFORMADA, D.O. 15 DE SEPTIEMBRE DE 1988)</small>
 
@@ -733,17 +805,21 @@ I.- a los Diputados;
 
 II.- al Gobernador del Estado;
 
-III.- al Tribunal Superior de Justicia en los asuntos de su Ramo; y
+III.- al Tribunal Superior de Justicia en los asuntos de su Ramo; y (sic)
 
 > <small>(REFORMADA, D.O. 2 DE FEBRERO 1984)</small>
 
-IV.- a los Ayuntamientos o Concejos Municipales que conforme a las Leyes en vigor hagan y realicen sus funciones, tratándose de cuestiones municipales.
+IV.- a los Ayuntamientos o Concejos Municipales que conforme a las Leyes en vigor hagan y realicen sus funciones, tratándose de cuestiones municipales;
 
-> <small>(REFORMADO, D.O. 22 DE FEBRERO DE 1988)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 24 DE MAYO DE 2006)</small>
+
+V.- a los ciudadanos, conforme a las modalidades que dispongan las leyes.
+
+(REFORMADO, D.O. 24 DE MAYO DE 2006) (F. DE E., D.O. 28 DE SEPTIEMBRE DE 2006)
 
 ###### Artículo 36.
 
-Las iniciativas presentadas por las Autoridades a que se refiere las fracciones II, III, y IV del Artículo 35, pasarán a las Comisiones que correspondan, salvo que se otorgue la respectiva dispensa en los términos de Ley. Las que presenten los Diputados se sujetarán necesariamente a los trámites que disponga la Ley Orgánica del Poder Legislativo del Estado.
+Las iniciativas presentadas por las Autoridades a que se refieren las fracciones II a IV del artículo anterior, y las que presenten los ciudadanos conforme a la ley, pasarán a las Comisiones que correspondan, salvo que se otorgue la respectiva dispensa en los términos de Ley. Las que presenten los Diputados se sujetarán necesariamente a los trámites que dispongan las leyes.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -751,11 +827,13 @@ Las iniciativas presentadas por las Autoridades a que se refiere las fracciones 
 
 Todo proyecto de Ley o Decreto que fuere desechado en el Congreso, no podrá volver a presentarse en el mismo período de sesiones en que fuere desechado.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO, D.O. 24 DE MAYO DE 2006)</small>
 
 ###### Artículo 38.
 
-Los proyectos de Leyes o Decretos votados por el Congreso, se remitirán al Ejecutivo, quien, si no tuviere observaciones qué hacer, los publicará inmediatamente. Se reputará aprobado por el Ejecutivo, todo Proyecto no devuelto con observaciones dentro de los diez días útiles siguientes. Si corriendo este término, el Congreso hubiere cerrado o suspendido sus sesiones, la devolución deberá hacerse, a más tardar, el décimo día en que de nuevo estuviere reunido.
+Los Proyectos de Ley o Decreto votados por el Congreso, se remitirán al Ejecutivo, quien, si no tuviere observaciones qué hacer, los publicará inmediatamente; excepto los que tuvieren el carácter ad referéndum.
+
+Se considerará aceptado por el Ejecutivo, todo proyecto no devuelto con observaciones dentro de los 10 días hábiles siguientes. Transcurrido este término, si el Congreso hubiere concluido o suspendido sus sesiones, lo remitirá a más tardar el décimo día en que de nuevo estuviere reunido.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -853,53 +931,57 @@ Se deposita el Poder Ejecutivo del Estado en un ciudadano que se denominará "Go
 
 La elección del Gobernador será popular directa y se hará en los términos que disponga la Ley Electoral.
 
-> <small>(REFORMADO, D.O. 4 DE OCTUBRE DE 1944)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 24 DE MAYO DE 2006)</small>
 
 ###### Artículo 46.
 
-Para ser Gobernador Constitucional del Estado se requiere:
+Para ser Gobernador Constitucional del Estado se requiere, además de lo dispuesto en la fracción I del artículo 116 de la Constitución Política de los Estados Unidos Mexicanos, lo siguiente:
 
 > <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 1994)</small>
 
-I.- ser ciudadano mexicano por nacimiento y tener además la calidad de ciudadano yucateco en el ejercicio de sus derechos.
+I.- ser ciudadano mexicano por nacimiento y tener además la calidad de ciudadano yucateco en el ejercicio de sus derechos;
 
-II.- ser nativo del Estado y con vecindad no menor de un año inmediatamente anterior al día de la elección. La vecindad no se pierde por desempeñar los cargos de Diputado al Congreso de la Unión o de Senador por el Estado de Yucatán;
+(REFORMADA, D.O. 24 DE MAYO DE 2006) (F. DE E., D.O. 28 DE SEPTIEMBRE DE 2006)
 
-III.- en caso de no ser nativo del Estado, tener residencia efectiva en él no menor de cinco años inmediatamente anteriores al día de la elección.
+II.- haber nacido en el Estado y con vecindad no menor de un año inmediatamente anterior al día de la elección. La vecindad no se pierde por desempeñar el cargo de Diputado Federal o Senador;
+
+> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
+
+III.- en caso de no haber nacido en el Estado, tener residencia efectiva en él no menor de 5 años inmediatamente anteriores al día de la elección;
 
 > <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 1974)</small>
 
-IV.- tener treinta años cumplidos el día de la elección.
+IV.- tener treinta años cumplidos el día de la elección;
 
 > <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 1994)</small>
 
-V.- no ser ministro de culto religioso alguno, salvo que se haya separado definitivamente 5 años antes del día de la elección.
+V.- no ser ministro de culto religioso alguno, salvo que se haya separado definitivamente 5 años antes del día de la elección;
 
-VI.- no estar en servicio activo, en caso de pertenecer al Ejército o Guardia Nacional, noventa días antes de la elección;
+(REFORMADA, D.O. 24 DE MAYO DE 2006) (F. DE E., D.O. 28 DE SEPTIEMBRE DE 2006)
 
-> <small>(REFORMADA, D.O. 29 DE ENERO 1982)</small>
+VI.- no estar en servicio activo, en caso de pertenecer al Ejército o corporación similar, 90 días antes de la fecha de la elección;
 
-VII.- no ser funcionario de los que menciona la Ley Orgánica del Poder Ejecutivo del Estado a menos que se separe de su puesto noventa días antes de la elección.
+> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
+
+VII.- no ser titular o encargado del despacho de alguna de las dependencias a que se refiere la Ley Orgánica de la Administración Pública del Estado, a menos que se separe de su puesto 90 días antes de la fecha de la elección;
 
 > <small>(REFORMADA, D.O. 22 DE SEPTIEMBRE DE 1987)</small>
 
-VIII.- No estar comprendido en alguna de las causas de incapacidad establecidas en el artículo 53; y
+VIII.- No estar comprendido en alguna de las causas de incapacidad establecidas en el artículo 53; y (sic)
 
-> <small>(ADICIONADA, D.O. 24 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
 
-IX.- no tener antecedentes penales.
+IX.- no haber sido sentenciado con resolución firme de autoridad judicial competente, por la comisión de delito intencional, que amerite pena privativa de la libertad;
 
-> <small>(REFORMADA, D.O. 12 DE MARZO DE 1993)</small>
+(REFORMADA, D.O. 24 DE MAYO DE 2006) (F. DE E., D.O. 28 DE SEPTIEMBRE DE 2006)
 
-X.- No ser Magistrado del Tribunal Superior de Justicia, diputado al Congreso del Estado o regidor a menos que se separe de su cargo 120 días antes de la elección.
+X.- no ser Magistrado del Tribunal Superior de Justicia, diputado local, regidor o síndico, a menos que se separe de su cargo 120 días antes de la fecha de la elección;
 
-> <small>(ADICIONADA, D.O. 16 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
 
-XI.- no ser Magistrado o Secretario del Tribunal Electoral del Estado, a menos que se separe de sus funciones 3 años antes de la fecha de la elección.
+XI.- no ser Magistrado, Secretario del Tribunal, Consejero, Secretario Ejecutivo o sus equivalentes, de los órganos Electorales locales o federales, a menos que se separen de sus funciones 3 años antes de la fecha de la elección;
 
-> <small>(ADICIONADA, D.O. 16 DE DICIEMBRE DE 1994)</small>
-
-XII.- no ser Consejero ciudadano local o federal a menos que se separe de sus funciones 3 años antes de la fecha de la elección; y
+XII.- (DEROGADA, D.O. 24 DE MAYO DE 2006)
 
 > <small>(ADICIONADA, D.O. 16 DE DICIEMBRE DE 1994)</small>
 
@@ -911,11 +993,11 @@ XIII.- estar inscrito en el Registro Federal del (sic) Electores y contar con Cr
 
 Para ser Gobernador Interino del Estado se requieren los mismos requisitos que para ser Gobernador Constitucional.
 
-> <small>(REFORMADO, D.O. 24 DE ABRIL DE 1993)</small>
+> <small>(REFORMADO, D.O. 24 DE MAYO DE 2006)</small>
 
 ###### Artículo 48.
 
-El Gobernador Constitucional del Estado entrará n (sic) funciones el día primero de agosto y durará en su encargo seis años.
+El Gobernador Constitucional del Estado entrará en funciones el día 1 de octubre y durará en su encargo seis años.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -923,31 +1005,31 @@ El Gobernador Constitucional del Estado entrará n (sic) funciones el día prime
 
 El Gobernador, al tomar posesión de su encargo, prestará ante el Congreso o ante la Diputación Permanente, en los recesos de aquél, la siguiente protesta: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado, y las Leyes que de ellas emanen, y desempeñar leal y patrióticamente el cargo de Gobernador que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Unión y del Estado, y si así no lo hiciere, que la Nación y el Estado me lo demanden".
 
-> <small>(REFORMADO, D.O. 24 DE ABRIL DE 1993)</small>
+> <small>(REFORMADO, D.O. 24 DE MAYO DE 2006)</small>
 
 ###### Artículo 50.
 
-Si al comenzar un período constitucional no se presentare el Gobernador electo o la elección no estuviere hecha y declarada el día primero de agosto, cesará el Gobernador cuyo período hubiere concluido y se encargará desde lugo (sic) del Poder Ejecutivo, con el carácter de interino, el ciudadano que designe el Congreso.
+Si al comenzar un período constitucional no se presentara el Gobernador electo o la elección no estuviere hecha y declarada el 1 de octubre, cesará el Gobernador cuyo período hubiere concluido; encargándose desde luego del Poder Ejecutivo, con el carácter de interino, quien nombre el Congreso.
 
-Si éste no estuviere reunido, se encargará del despacho, provisionalmente, el Secretario General de Gobierno, entre tanto el Congreso designa al Gobernador interino y convoca a las elecciones en los términos del artículo 52.
+Si éste no estuviere reunido, se encargará del despacho, provisionalmente, el Secretario General de Gobierno, entre tanto el Congreso se reúne y designa al Gobernador interino y convoca a las elecciones en los términos del artículo 52 de esta Constitución.
 
-Si la ausencia del Gobernador electo se debiere a fuerza, coacción o cualquier otra causa que impida materialmente llenar sus funciones, deberá comprobarse este hecho y en tal caso, el Gobernador interino deberá entregarle el Gobierno al legalmente electo.
+Si la falta del Gobernador electo fuere por motivo de fuerza mayor, amenaza grave, coacción o cualquier otra causa que impida asumir materialmente sus funciones; deberá comprobarse este hecho y en tal caso, quien hubiere desempeñado legalmente las funciones, deberá transferirlas al Gobernador electo.
 
-(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988) (F. DE E., D.O. 3 DE ENERO DE 1989)
+> <small>(REFORMADO, D.O. 24 DE MAYO DE 2006)</small>
 
 ###### Artículo 51.
 
-En las faltas absolutas y en las temporales del Gobernador, el Congreso, por mayoría absoluta del número total de Diputados, eligirá (sic) al ciudadano en quien concurran las condiciones necesarias para ser Gobernador Interino, a fin de que con ese carácter desempeñe el Poder Ejecutivo.
+En caso de falta absoluta del Gobernador, ocurrida en los 2 primeros años del período constitucional, si el Congreso estuviere en sesiones, se constituirá inmediatamente en Colegio Electoral y, concurriendo al menos las dos terceras partes del total de sus integrantes, nombrará, en escrutinio secreto y por mayoría absoluta de votos, un Gobernador interino.
 
-Si al concurrir dichas faltas del Gobernador estuviere en funciones la Diputación Permanente, ésta procederá en los términos de la fracción VIII del Artículo 43.
+Si el Congreso no estuviere en sesiones, la Diputación Permanente nombrará al Gobernador provisional y convocará al Congreso a sesiones extraordinarias en los términos de ley, para que este a su vez nombre al Gobernador interino y se expida la convocatoria a elecciones.
 
-Cuando la falta sea temporal y no exceda de sesenta días se encargarán del despacho del Poder Ejecutivo los titulares de las dependencias que establezca la Ley Orgánica de la Administración Pública del Estado y en la que se señala el orden en que asumirán el encargo.
+Dicha convocatoria deberá ser expedida por el Congreso, dentro de los 10 días hábiles posteriores al del nombramiento del Gobernador interino, debiendo mediar entre la fecha de la convocatoria y la que se señale para la realización de las elecciones, un plazo no mayor de 6 meses.
 
-> <small>(REFORMADO, D.O. 22 DE ENERO DE 1955)</small>
+> <small>(REFORMADO, D.O. 24 DE MAYO DE 2006)</small>
 
 ###### Artículo 52.
 
-Si la falta del Gobernador fuere absoluta y faltaren tres años o más para terminar el período constitucional, el Congreso convocará inmediatamente para la elección del Gobernador, la que se verificará dentro de dos meses y el nuevamente electo, ejercerá sus funciones hasta terminar el período constitucional. Si faltaren menos de tres años, el nombrado con el carácter de interino continuará hasta concluir el sexenio.
+Si la falta del Gobernador fuere absoluta dentro de los últimos 4 años, se nombrará al sustituto, quien concluirá el período constitucional; procediéndose en lo conducente, conforme a lo dispuesto en el artículo anterior.
 
 > <small>(REFORMADO, D.O. 22 DE SEPTIEMBRE DE 1987)</small>
 
@@ -983,7 +1065,7 @@ I.- publicar y hacer cumplir las Leyes federales;
 
 > <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
 
-II.- Promulgar, publicar y ejecutar las leyes que expida el Congreso, proveer en su esfera administrativa, exacta observancia. Publicar los bandos y reglamentos que acuerden los ayuntamientos, siempre y cuando, éstos no cuenten con sus propios órganos de difusión oficial.
+II.- promulgar, publicar y ejecutar las leyes que expida el Congreso, proveer en su esfera administrativa, exacta observancia. Publicar los bandos y reglamentos que acuerden los ayuntamientos, siempre y cuando, éstos no cuenten con sus propios órganos de difusión oficial;
 
 > <small>(REFORMADA, D.O. 29 DE ENERO 1982)</small>
 
@@ -991,15 +1073,15 @@ III.- nombrar y remover a los titulares de las dependencias que señala la Ley O
 
 > <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 1987)</small>
 
-III Bis.- Nombrar y aceptar las renuncias de los Magistrados del Tribunal de lo Contencioso Administrativo.
+III Bis.- nombrar y aceptar las renuncias de los Magistrados del Tribunal de lo Contencioso Administrativo;
 
 > <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
 
-IV.- Disponer de la Guardia Nacional;
+IV.- disponer de la Guardia Nacional;
 
 > <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
 
-V.- Disponer de las policías municipales, en aquellos casos que considere como causa de fuerza mayor, o alteración grave del orden público;
+V.- disponer de las policías municipales, en aquellos casos que considere como causa de fuerza mayor, o alteración grave del orden público;
 
 > <small>(REFORMADA, D.O. 29 DE ENERO 1982)</small>
 
@@ -1019,15 +1101,15 @@ XII.- cumplir con lo dispuesto en el artículo 28 de esta Constitución;
 
 > <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 1989)</small>
 
-XIII.- expedir la convocatoria para las elecciones ordinarias.
+XIII.- expedir la convocatoria para las elecciones ordinarias;
 
-> <small>(REFORMADA, D.O. 9 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
 
-XIV.- Presentar ante el Congreso del Estado, a m tardar el día treinta de noviembre de cada año, las iniciativas relativas a la Ley de Ingresos del Estado y al Presupuesto de Egresos del Gobierno Estatal, que hubieren de regir durante el año inmediato siguiente;
+XIV.- presentar ante el Congreso del Estado, a más tardar el día 25 de noviembre de cada año, las iniciativas relativas a la Ley de Ingresos y Presupuesto de Egresos del Gobierno del Estado, que hubieren de regir durante el año inmediato siguiente;
 
 > <small>(REFORMADA, D.O. 11 DE MAYO DE 1984)</small>
 
-XV.- Resolver definitivamente por sí o por conducto del funcionario que al efecto señale la Ley Orgánica del Poder Ejecutivo del Estado, sobre las sanciones que las autoridades administrativas apliquen por infracciones a los reglamentos gubernativos, de policía y de los demás recursos que conforme a las Leyes competan;
+XV.- resolver definitivamente por sí o por conducto del funcionario que al efecto señale la Ley Orgánica del Poder Ejecutivo del Estado, sobre las sanciones que las autoridades administrativas apliquen por infracciones a los reglamentos gubernativos, de policía y de los demás recursos que conforme a las Leyes competan;
 
 XVI.- suspender los acuerdos de los Ayuntamientos cuando fueren contrarios a la Constitución Federal o a la del Estado o a cualquier otra Ley, o lesionen los intereses municipales, sometiéndolos al Congreso del Estado para que éste resuelva definitivamente;
 
@@ -1039,9 +1121,9 @@ XVIII.- concurrir al Congreso, cuando lo juzgue conveniente, para presentar o so
 
 > <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 1987)</small>
 
-XIX.- Conceder licencia a los empleados de su nombramiento, así como a los Magistrados del Tribunal de lo Contencioso Administrativo.
+XIX.- conceder licencia a los empleados de su nombramiento, así como a los Magistrados del Tribunal de lo Contencioso Administrativo;
 
-XX.- pedir la protección de los Poderes de la Unión en caso de sublevación o trastorno interior; y
+XX.- pedir la protección de los Poderes de la Unión en caso de sublevación o trastorno interior; y (sic)
 
 > <small>(REFORMADA, D.O. 20 DE AGOSTO DE 1964)</small>
 
@@ -1050,6 +1132,10 @@ XXI.- conceder primas y subsidios a los que establezcan en el Estado, industrias
 > <small>(REFORMADA, D.O. 31 DE MARZO DE 1988)</small>
 
 XXII.- establecer los procedimientos de participación y consulta popular en el Sistema Estatal de Planeación Integral y los criterios para la formulación, instrumentación, control y evaluación del plan y los programas sectoriales, especiales, institucionales y operativos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 24 DE MAYO DE 2006)</small>
+
+XXII Bis.- disponer lo necesario, en los términos de la ley respectiva, para garantizar el resultado de los plebiscitos;
 
 > <small>(ADICIONADA, D.O. 31 DE MARZO DE 1988)</small>
 
@@ -1084,6 +1170,10 @@ III.- impedir ni retardar la instalación del Congreso;
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
 IV.- impedir ni retardar las elecciones populares, ni intervenir en ellas para que recaigan en determinada persona, ya sea por sí o por medio de otras autoridades o agentes, siendo esto motivo de responsabilidad y nulidad de la elección;
+
+> <small>(ADICIONADA, D.O. 24 DE MAYO DE 2006)</small>
+
+IV Bis.- impedir o intervenir en los procesos de plebiscito o referéndum, con el objeto de influir en el resultado de los mismos;
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1243,13 +1333,13 @@ III.- nombrar y remover a los Jueces de Primera Instancia, a los Jueces de Paz, 
 
 IV.- admitir las renuncias que de sus encargos hagan los funcionarios y empleados referidos en la fracción anterior, así como conceder licencias a los mismos;
 
-V.- conceder licencias a los Magistrados, llamando al suplente que corresponda; y
+V.- conceder licencias a los Magistrados, llamando al suplente que corresponda; y (sic)
 
-VI.- vigilar y promover cuanto se relacione con la buena marcha de la Administración de Justicia.
+VI.- vigilar y promover cuanto se relacione con la buena marcha de la Administración de Justicia;
 
-> <small>(ADICIONADA, D.O. 26 DE FEBRERO DE 1988)</small>
+> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
 
-VII.- formular el proyecto de Presupuesto de Egresos del Poder Judicial, atendiendo las posibilidades del Ingreso y del gasto público del Estado, y remitirlo al Titular del Poder Ejecutivo a más tardar el treinta de octubre de cada año, a fin de que éste considere su incorporación, al Proyecto de Presupuesto de Egresos del Estado.
+VII.- formular el proyecto de Presupuesto de Egresos del Poder Judicial, atendiendo las posibilidades del Ingreso y del gasto público del Estado, y remitirlo al Titular del Poder Ejecutivo a más tardar el 15 de octubre de cada año, a fin de que este considere su incorporación, al Proyecto de Presupuesto de Egresos del Estado.
 
 > <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRA, D.O. 9 DE SEPTIEMBRE DE 2005)</small>
 
@@ -1287,7 +1377,9 @@ Se adoptará el principio de representación proporcional, como mecanismo comple
 
 Los municipios se organizarán administrativa y políticamente, conforme a las bases siguientes:
 
-Primera.- Los ayuntamientos entrarán en funciones, el primer día del mes de julio inmediato a su elección, y durarán en su encargo tres años.
+> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
+
+Primera.- Los ayuntamientos entrarán en funciones, el 1 de septiembre inmediato a su elección, y durarán en su encargo tres años.
 
 Segunda.- El Presidente Municipal, los regidores y el síndico, no podrán ser reelectos para el período constitucional inmediato. La misma prohibición aplica para los integrantes de los Concejos Municipales.
 
@@ -1401,7 +1493,9 @@ a) Para la realización de cualquier acto que implique la enajenación de bienes
 
 b) La desincorporación de algún bien de dominio público y su conversión al dominio privado.
 
-II.- Para la aprobación de la Ley de Ingresos de los Ayuntamientos, éstos enviarán su proyecto a la legislatura local, a más tardar el día treinta de noviembre de cada año;
+> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
+
+II.- Para la aprobación de las Leyes de Ingresos de los Municipios, éstos enviarán su proyecto a la legislatura local, a más tardar el día 25 de noviembre de cada año;
 
 III.- Los presupuestos de egresos serán aprobados por los ayuntamientos con base a sus ingresos disponibles;
 
@@ -1567,7 +1661,7 @@ III.- reintegrar la actividad individual, cuando ésta se encuentre menoscabada 
 
 > <small>(ADICIONADA, D.O. 9 DE SEPTIEMBRE DE 2005)</small>
 
-IV.- garantizar la protección de los derechos humanos.
+IV.- garantizar la protección de los derechos humanos;
 
 (REPUBLICADA, D.O. 9 DE SEPTIEMBRE DE 2005)
 
@@ -1579,11 +1673,11 @@ VI.- organizar el sistema represivo, inspirándolo en el criterio de defensa soc
 
 (REPUBLICADA, D.O. 9 DE SEPTIEMBRE DE 2005)
 
-VII.- evitar que por el acaparamiento de las fuentes o instrumentos de producción, sea posible en la estructura social, la explotación de los frutos del esfuerzo ajeno; y
+VII.- evitar que por el acaparamiento de las fuentes o instrumentos de producción, sea posible en la estructura social, la explotación de los frutos del esfuerzo ajeno; y (sic)
 
 (REPUBLICADA, D.O. 9 DE SEPTIEMBRE DE 2005)
 
-VIII.- propugnar el mejoramiento de los trabajadores a su servicio a fin de que alcancen metas de superación intelectual y beneficios de seguridad social y pensiones en los cauces del Estatuto de los Trabajadores al Servicio del Estado, que es la norma legal que rige las relaciones laborales sobre la materia.
+VIII.- propugnar el mejoramiento de los trabajadores a su servicio a fin de que alcancen metas de superación intelectual y beneficios de seguridad social y pensiones en los cauces del Estatuto de los Trabajadores al Servicio del Estado, que es la norma legal que rige las relaciones laborales sobre la materia;
 
 (REPUBLICADA, D.O. 9 DE SEPTIEMBRE DE 2005)
 
@@ -1591,19 +1685,23 @@ IX.- participar en lo concerniente a su régimen interior al desarrollo nacional
 
 (REPUBLICADA, D.O. 9 DE SEPTIEMBRE DE 2005)
 
-X.- organizar un sistema de Planeación del Desarrollo Integral que imprima solidez, dinamismo, permanencia y equidad al crecimiento de la economía, de acuerdo con los lineamientos del Sistema Nacional de Planeación Democrática, sobre bases que aseguren la conservación y uso racional de los recursos naturales, la salud del ambiente y el desarrollo sostenido.
+X.- organizar un sistema de Planeación del Desarrollo Integral que imprima solidez, dinamismo, permanencia y equidad al crecimiento de la economía, de acuerdo con los lineamientos del Sistema Nacional de Planeación Democrática, sobre bases que aseguren la conservación y uso racional de los recursos naturales, la salud del ambiente y el desarrollo sostenido;
 
 (REPUBLICADA, D.O. 9 DE SEPTIEMBRE DE 2005)
 
 XI.- coadyuvar con la Federación promoviendo las condiciones para el desarrollo rural integral, con el propósito de generar empleos y de garantizar el acceso de la población campesina al bienestar y justa incorporación y participación en el desarrollo del Estado;
 
-(REPUBLICADA, D.O. 9 DE SEPTIEMBRE DE 2005)
+> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
 
-XII.- fomentar la actividad agropecuaria y forestal para el mejor aprovechamiento de los recursos naturales con obras de infraestructura, créditos y servicios públicos de capacitación y extensionismo; y
+XII.- fomentar la actividad agropecuaria y forestal para el mejor aprovechamiento de los recursos naturales con obras de infraestructura, créditos y servicios públicos de capacitación y extensionismo;
 
-(REPUBLICADA, D.O. 9 DE SEPTIEMBRE DE 2005)
+> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
 
-XIII.- apoyar e impulsar a las empresas del sector social y las del sector privado propiedad de nacionales, siempre y cuando contribuyan, en el marco de la planeación del desarrollo económico estatal, a los objetivos que en su caso se establezcan.
+XIII.- apoyar e impulsar a las empresas del sector social y las del sector privado propiedad de nacionales, siempre y cuando contribuyan, en el marco de la planeación del desarrollo económico estatal, a los objetivos que en su caso se establezcan, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 24 DE MAYO DE 2006)</small>
+
+XIV.- garantizar la libre opinión ciudadana, a través de los procesos de participación ciudadana que establezcan las leyes.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1693,11 +1791,11 @@ Los procedimientos para la aplicación de las sanciones mencionadas se desarroll
 
 Cualquier ciudadano, bajo su responsabilidad y mediante la presentación de pruebas, podrá formular denuncia, ante el Congreso del Estado, respecto de las conductas a que se refiere este título.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 9 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 24 DE MAYO DE 2006)</small>
 
 ###### Artículo 99.
 
-Podrán ser sujetos a Juicio Político los diputados locales en funciones, los Magistrados del Tribunal Superior de Justicia y de lo Contencioso Administrativo, el Presidente de la Comisión de los Derechos Humanos, los Titulares de las Dependencias de la Administración Pública Estatal y los Presidentes Municipales.
+Podrán ser sujetos a Juicio Político los diputados locales en funciones, los Magistrados del Tribunal Superior de Justicia y de lo Contencioso Administrativo, los Magistrados del Tribunal Electoral del Estado, el Presidente de la Comisión de los Derechos Humanos, los Titulares de las Dependencias de la Administración Pública Estatal, los Presidentes Municipales y los consejeros electorales del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán.
 
 > <small>(REFORMADO, D.O. 9 DE SEPTIEMBRE DE 2005)</small>
 
@@ -1715,11 +1813,11 @@ Cuando al Congreso del Estado le sea comunicado, con efecto de notificación, la
 
 Las declaraciones y resoluciones de la Legislatura del Estado son definitivas.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 9 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 24 DE MAYO DE 2006)</small>
 
 ###### Artículo 100.
 
-Para proceder penalmente contra los Diputados locales en funciones, los Magistrados del Tribunal Superior de Justicia y de lo Contencioso Administrativo, el Presidente de la Comisión de los Derechos Humanos, los Titulares de las Dependencias de la Administración Pública Estatal y los Presidentes Municipales, por la comisión de delitos durante su encargo. El Congreso del Estado, mediante el voto de las dos terceras partes del total de sus integrantes, resolverá lo conducente.
+El Congreso del Estado, mediante el voto de las dos terceras partes del total de sus integrantes, resolverá lo conducente, para proceder penalmente contra los Diputados locales, los Magistrados del Tribunal Superior de Justicia y de lo Contencioso Administrativo, los Magistrados del Tribunal Electoral del Estado, el Presidente de la Comisión de los Derechos Humanos, los Titulares de las Dependencias de la Administración Pública Estatal, los Presidentes Municipales y los consejeros electorales del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, por la comisión de delitos durante su encargo.
 
 > <small>(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988)</small>
 
@@ -1787,11 +1885,11 @@ Ningún pago podrá hacerse sin que esté comprendido en el Presupuesto, o deter
 
 Todo funcionario o empleado público del Estado o de los municipios, sin excepción alguna, antes de tomar posesión de su encargo, prestará ante quien corresponda protesta de cumplir las obligaciones que contrae, guardando y haciendo guardar sin reserva alguna, la Constitución General de la República, así como la del Estado y las Leyes que de ellas emanen, usándose la forma prevista en el artículo 67 de esta Constitución.
 
-> <small>(REFORMADO, D.O. 27 DE ENERO DE 1976)</small>
+> <small>(REFORMADO, D.O. 24 DE MAYO DE 2006)</small>
 
 ###### Artículo 106.
 
-La responsabilidad del Gobernador, Secretario de Gobierno y demás funcionarios superiores de la administración pública, no excusa la de los subalternos que obedezcan órdenes de aquéllos dirigidas a suspender o retardar las elecciones populares, la instalación del Congreso o el libre ejercicio de las funciones de éste.
+La responsabilidad del Gobernador, Secretario de Gobierno y demás funcionarios superiores de la administración pública, así como la de los Presidente Municipales, no excusa la de los subalternos que obedezcan órdenes de aquéllos, dirigidas a suspender o retardar las elecciones populares, la realización de los procedimientos de participación ciudadana, la instalación del Congreso, de los ayuntamientos o el libre ejercicio de las funciones de éstos.
 
 (REFORMADO, D.O. 24 DE DICIEMBRE DE 1979) (F. DE E., D.O. 4 DE ENERO DE 1980)
 
@@ -2392,3 +2490,167 @@ Artículo Único.- Este Decreto entrará en vigor al día siguiente de su public
 D.O. 23 DE ENERO DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 24 DE MAYO DE 2006.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor al día siguiente al de su publicación, en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Para conocimiento general de los habitantes de la entidad, publíquese el presente decreto, a su vez, en los diarios de mayor circulación en el Estado.
+
+###### ARTÍCULO TERCERO.
+
+Para efecto del ejercicio de la función estatal de organizar las elecciones, se crea el Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán. En relación con el ejercicio de los derechos en materia de participación ciudadana y de la instrumentación de los mecanismos de éstos, se estará a lo dispuesto en la Ley de la materia, que en tiempo y forma expida este Congreso.
+
+###### ARTÍCULO CUARTO.
+
+A partir de la entrada en vigor del decreto que reforma la ley de la materia, el patrimonio del Instituto Electoral del Estado de Yucatán, lo será en su integridad del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán.
+
+###### ARTÍCULO QUINTO.
+
+A más tardar el 31 de agosto de 2006, deberán ser designados los consejeros electorales y sus suplentes, del Consejo General del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, en los términos de la ley de la materia.
+
+###### ARTÍCULO SEXTO.
+
+A partir de la entrada en vigor de este Decreto, queda sin efecto el decreto Número 555, publicado en el Diario Oficial del Gobierno del Estado el día 30 de noviembre de 2004, por el cual se designó a los consejeros ciudadanos, del Instituto Electoral del Estado de Yucatán.
+
+> <small>(F. DE E., D.O. 28 DE SEPTIEMBRE DE 2006)</small>
+
+###### ARTÍCULO SÉPTIMO.
+
+Los ciudadanos Gerardo Robigue Herrera Sansores, Mario Ruemer Jesús Leal Guillermo, Rossana Rivera Palmero, Pedro Regalado Uc Be, Sergio Lara Pinto, Landy Lissette Mendoza Fuentes, Carlos Eduardo Pech Escalante y Hernán Vega Burgos, quienes fungieron como consejeros ciudadanos y secretario técnico respectivamente; del Instituto Electoral del Estado, tendrán el carácter de depositarios del patrimonio del Instituto Electoral del Estado, limitando sus actos para lo estrictamente necesario para la conservación del mismo; tanto con el carácter de patrón, como su naturaleza de organismo público autónomo; desde el momento de la entrada en vigor del presente decreto y hasta que resulten legalmente designadas, las personas que fungirán como consejeros electorales del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, en los plazos y términos previstos, a quienes les entregarán tal patrimonio.
+
+Hasta ese entonces, los depositarios y responsables percibirán una remuneración equivalente, a la que anteriormente recibían en los cargos que ocupaban.
+
+###### ARTÍCULO OCTAVO.
+
+Cualquier referencia que en otras disposiciones jurídicas y administrativas se haga al Instituto Electoral del Estado, se entenderá hecha al Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán.
+
+###### ARTÍCULO NOVENO.
+
+Tratándose del ajuste en el calendario constitucional ordinario y el propio en materia electoral, por la celebración concurrente de las elecciones estatales y federales en el año 2012, el ejercicio constitucional del Gobernador del Estado de Yucatán, electo en los comicios realizados el tercer domingo del mes de mayo de 2007, iniciará sus funciones, el día 1 de agosto de 2007 y concluirá su mandato por única vez, el 30 de septiembre de 2012.
+
+La LVIII Legislatura iniciará sus funciones el 1 de julio de 2007 y concluirá el 30 de junio de 2010, la LIX Legislatura iniciará el 1 de julio de 2010 y concluirá el 31 de agosto de 2012.
+
+Los ayuntamientos a elegirse en el año 2007 iniciarán sus funciones el 1 de julio de ese mismo año y concluirá el 30 de junio de 2010; los ayuntamientos a elegirse en tercer domingo de mayo del año 2010, iniciarán sus funciones el 1 de julio de 2010 y concluirá el 31 de agosto de 2012.
+
+###### ARTÍCULO DECIMO.
+
+El Titular del Poder Ejecutivo del Estado en funciones, rendirá su quinto y sexto informe de Gobierno, conforme a los plazos y términos establecidos en la Constitución Política del Estado, hasta antes de la entrada en vigor de este Decreto.
+
+El Gobernador que resultare electo en el proceso electoral del año 2007, deberá rendir sus informes de Gobierno, el tercer domingo de octubre, en los primeros 4 años de su gestión constitucional, y el primer domingo de septiembre, en el quinto año de su mandato.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Los Periodos Ordinarios de Sesiones, del Tercer Año de Ejercicio Constitucional, de la LVII Legislatura del Congreso del Estado; así como los recesos en los que entre en funciones la Diputación Permanente, serán los establecidos en la Constitución Política del Estado, hasta antes de la entrada en vigor de este Decreto.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Para los efectos del ajuste en el calendario constitucional ordinario y el propio en materia electoral, por la celebración concurrente de las elecciones estatales y federales en el año 2012; la LVIII Legislatura del Congreso del Estado tendrá los siguientes periodos:
+
+Primer Período Ordinario Del 1 de julio al 31
+
+de Sesiones del Primer año de agosto del 2007
+
+de Ejercicio Constitucional
+
+Segundo Período Ordinario Del 16 de octubre al
+
+de Sesiones del Primer año 15 de diciembre de 2007
+
+de Ejercicio Constitucional
+
+Tercer Período Ordinario Del 16 de enero al
+
+de Sesiones del Primer año 15 de abril de 2008
+
+de Ejercicio Constitucional
+
+Primer Período Ordinario Del 16 de mayo al
+
+de Sesiones del Segundo 15 de julio de 2008
+
+año de Ejercicio Constitucional
+
+Segundo Período Ordinario Del 1 de septiembre al
+
+de Sesiones del Segundo año 15 de diciembre de 2008
+
+de Ejercicio Constitucional
+
+Tercer Período Ordinario Del 16 de enero al
+
+de Sesiones del Segundo 15 de abril de 2009
+
+año de Ejercicio Constitucional
+
+Primer Período Ordinario Del 16 de mayo al
+
+de Sesiones del Tercer año 15 de julio de 2009
+
+de Ejercicio Constitucional
+
+Segundo Período Ordinario Del 1 de septiembre
+
+de Sesiones del Tercer año al 15 de diciembre de 2009
+
+de Ejercicio Constitucional
+
+Tercer Período Ordinario Del 16 de enero al
+
+de Sesiones del Tercer año 15 de abril de 2010
+
+de Ejercicio Constitucional
+
+La LIX Legislatura tendrá los siguientes periodos:
+
+Primer Período Ordinario Del 1 de julio al 31
+
+de Sesiones de agosto del 2010
+
+Segundo Período Ordinario Del 16 de octubre al
+
+de Sesiones 15 de diciembre de 2010
+
+Tercer Período Ordinario Del 16 de enero al 15
+
+de Sesiones de abril de 2011
+
+Cuarto Período Ordinario Del 16 de mayo al 15
+
+de Sesiones de julio de 2011
+
+Quinto Período Ordinario Del 1 de septiembre al
+
+de Sesiones 15 de diciembre de 2011
+
+Sexto Período Ordinario Del 16 de enero al 15
+
+de Sesiones de abril de 2012
+
+Séptimo Período Ordinario Del 16 de mayo al 15
+
+de Sesiones de julio de 2012
+
+> <small>(F. DE E., D.O. 28 DE SEPTIEMBRE DE 2006)</small>
+
+Durante los recesos de la LVIII y LIX Legislaturas, funcionará una Diputación Permanente. El último período de cada una de la Legislaturas referidas, podrá ampliarlo hasta el día de conclusión de su ejercicio constitucional.
+
+Los períodos ordinarios de sesiones a partir de la LX Legislatura, deberán ajustarse al calendario establecido en el artículo 27 de la Constitución Política del Estado de Yucatán.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Los plazos y los términos modificados en materia hacendaria y presupuestal, entrarán en vigor a partir del ejercicio constitucional 2007-2012.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Se deroga el ARTÍCULO SEXTO, del Decreto 41, publicado el 10 de agosto de 1988, en el Diario Oficial del Gobierno del Estado de Yucatán, por el que se crea la Medalla de Honor "HECTOR VICTORIA AGUILAR del H. Congreso del estado de Yucatán".
+
+Así mismo, las medallas y los diplomas respectivos, serán impuestos y otorgados en la sesión solemne que acuerde el Congreso del Estado, para conmemorar la expedición de la Constitución Política del Estado.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Tratándose de las disposiciones relativas al sufragio de los yucatecos residentes en el extranjero, se aplicarán hasta en tanto las condiciones logísticas y presupuestales lo permitan, en función de lo que acuerde y convenga el Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán con el Instituto Federal Electoral; lo cual no podrá materializarse, antes de las elecciones a celebrarse en el año de 2012.
