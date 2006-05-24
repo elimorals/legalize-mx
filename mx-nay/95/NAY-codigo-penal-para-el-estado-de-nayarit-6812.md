@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-6812"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-29"
-last_updated: "2004-12-25"
+last_updated: "2006-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 2006.
 
 Código publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1986.
 
@@ -3019,9 +3019,13 @@ XII.- Al que explote la superstición o la ignorancia de una persona por medio d
 
 XIII.- Al que habiendo recibido mercancías con subsidio o franquicia para darles un destino determinado, la distrajere de este destino o en cualquier forma desvirtúe los fines perseguidos por el subsidio o la franquicia;
 
-XIV.- Al que para eludir todo o parcialmente el pago de un impuesto, contribución, multa o cualquier otra prestación fiscal, legalmente decretada, emplee simulaciones, engaños o cualquier otro procedimiento que tienda a ocultar, variar o desnaturalizar la causa o sujeto del impuesto, multa o prestación o a inducir a error en alguna forma a las autoridades fiscales; y,
+XIV.- Al que para eludir todo o parcialmente el pago de un impuesto, contribución, multa o cualquier otra prestación fiscal, legalmente decretada, emplee simulaciones, engaños o cualquier otro procedimiento que tienda a ocultar, variar o desnaturalizar la causa o sujeto del impuesto, multa o prestación o a inducir a error en alguna forma a las autoridades fiscales; y, (sic)
 
-XV.- Al que obtenga de cualquier persona o institución una suma de dinero o cosas determinadas en concepto de refacción, habilitación o avío y no los aplique al objeto u obras convenidos. Cuando el dinero o cosas hayan sido recibidas por una persona moral, los responsables del delito serán las personas físicas que suscriban los documentos relativos, sin perjuicio de decretar la suspensión de la persona jurídica en sus actividades, hasta por un año.
+XV.- Al que obtenga de cualquier persona o institución una suma de dinero o cosas determinadas en concepto de refacción, habilitación o avío y no los aplique al objeto u obras convenidos. Cuando el dinero o cosas hayan sido recibidas por una persona moral, los responsables del delito serán las personas físicas que suscriban los documentos relativos, sin perjuicio de decretar la suspensión de la persona jurídica en sus actividades, hasta por un año;
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2006)</small>
+
+XVI.- El que habiendo celebrado de manera verbal o escrita, un convenio para la comercialización primaria de productos agropecuarios, pesqueros o forestales y utilizando engaños, artificios, maquinaciones o cualesquier otra causa injustificada, incumpla con la obligación del pago en el término pactado, siendo aplicable lo previsto por el artículo 356 de este Código.
 
 ###### ARTICULO 370.
 
@@ -3107,9 +3111,23 @@ Si además de los daños directos resulta consumado algún otro delito, se aplic
 
 Cuando por cualquier medio se cause daño, destrucción o deterioro de cosa ajena, o de cosa propia en perjuicio de tercero, se aplicarán las sanciones del robo simple.
 
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2006)</small>
+
+###### ARTICULO 378 Bis.
+
+Daño Equiparado.- Se equipara al delito de daño en propiedad ajena y se castigará imponiéndose una sanción de 3 meses a 3 años de prisión y multa de 50 a 75 días de salario mínimo general vigente, así como la reparación del daño al que:
+
+I.- Utilizando cualquier tipo de sustancia o medio realice pintas, escrituras, dibujos, signos, códigos, tallones, mensajes, figuras o gráficos de todo tipo, que alteren o modifiquen su presentación original en bienes muebles e inmuebles, sin consentimiento del dueño o quien legalmente posea la cosa;
+
+II.- Cuando el daño se cometa en bienes de dominio público, monumentos, edificios, sitios o bienes considerados parte del patrimonio cultural con valor histórico o arquitectónico, o el daño se cause sobre bienes de cantera, piedra, madera o cualquier otro material de difícil o imposible reparación, se sancionará con pena de 6 meses a 6 años de prisión y multa de 50 a 150 días de salario mínimo general vigente.
+
+Tratándose de propaganda o promoción de partidos o grupos políticos, se estará a lo dispuesto por la Ley que lo regule.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2006)</small>
+
 ###### ARTICULO 379.
 
-Es aplicable al delito de Daño en Propiedad Ajena en lo conducente lo dispuesto por el artículo 356.
+Es aplicable al delito de Daño en Propiedad Ajena y al de Daño Equiparado, lo dispuesto por el artículo 356.
 
 ###### ARTICULO 380.
 
@@ -3522,3 +3540,15 @@ La presente reforma entrará en vigor el día siguiente de su publicación en el
 P.O. 25 DE DICIEMBRE DE 2004.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 24 DE MAYO DE 2006.
+
+DECRETO POR EL QUE SE ADICIONA EL ARTICULO 378 BIS Y SE REFORMA EL 379.
+
+ÚNICO- El presente Decreto entrará en vigor al día siguiente al de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 24 DE MAYO DE 2006.
+
+DECRETO POR EL QUE SE ADICIONA LA FRACCION XVI AL ARTICULO 369.
+
+Único.- La presente adición al Código Penal del Estado de Nayarit y reforma al Código de Procedimientos Penales, comenzarán a regir el día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
