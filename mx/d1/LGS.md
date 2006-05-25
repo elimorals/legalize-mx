@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2006-04-24"
+last_updated: "2006-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE MAYO DE 2006.
 
 ULTIMA MODIFICACION AL LISTADO DE SUSTANCIAS PSICOTROPICAS: 9 DE JULIO DE 1996.
 
@@ -2844,6 +2844,12 @@ II.- Lo conviertan en nocivo para la salud, o
 
 III.- Modifiquen sus características, siempre que éstas tengan repercusión en la calidad sanitaria de los mismos.
 
+> <small>(ADICIONADO, D.O.F. 25 DE MAYO DE 2006)</small>
+
+###### ARTICULO 208 Bis.
+
+Se considera falsificado un producto cuando se fabrique, envase o se venda haciendo referencia a una autorización que no existe; o se utilice una autorización otorgada legalmente a otro; o se imite al legalmente fabricado y registrado.
+
 ###### ARTICULO 209.
 
 Para expresar las unidades de medida y peso de los productos a que se refiere este Título, se usará el Sistema Internacional de Unidades.
@@ -3706,7 +3712,7 @@ Los envases y empaques de las substancias psicotrópicas, para su expendio lleva
 
 ### CAPITULO IV. Pérdida de la vida
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 257.
 
@@ -5830,9 +5836,11 @@ Si intervinieran profesionales, técnicos o auxiliares de las disciplinas para l
 
 Al que introduzca al territorio nacional, transporte o comercie con animales vivos o sus cadáveres, que padezcan o hayan padecido una enfermedad transmisible al hombre en los términos del artículo 157 de esta Ley, teniendo conocimiento de este hecho, se le sancionará con prisión de uno a ocho años y multa equivalente de cien a mil días de salario mínimo general vigente en la zona económica de que se trate.
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2006)</small>
+
 ###### ARTICULO 464.
 
-A quien adultere, contamine, altere o permita la adulteración, contaminación o alteración de alimentos, bebidas no alcohólicas, bebidas alcohólicas, medicamentos o cualquier otra substancia o producto de uso o consumo humanos, con inminente peligro para la salud, se le aplicará de uno a nueve años de prisión y multa equivalente de cien a mil días de salario mínimo general vigente en la zona económica de que se trate.
+A quien, adultere, falsifique, contamine, altere o permita la adulteración, falsificación, contaminación o alteración de alimentos, bebidas no alcohólicas, bebidas alcohólicas o cualquier otra sustancia o producto de uso o consumo humano, con peligro para la salud, se le aplicará de uno a nueve años de prisión y multa equivalente de cien a mil días de salario mínimo general vigente en la zona económica de que se trate.
 
 > <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2001)</small>
 
@@ -5841,6 +5849,20 @@ A quien adultere, contamine, altere o permita la adulteración, contaminación o
 Al que por sí o por interpósita persona, teniendo conocimiento o a sabiendas de ello, autorice u ordene, por razón de su cargo en las instituciones alimentarias a que se refiere el artículo 199-Bis de este ordenamiento, la distribución de alimentos en descomposición o mal estado que ponga en peligro la salud de otro, se le impondrá la pena de seis meses a dos años de prisión o pena pecuniaria de 500 a 5 mil días de salario mínimo general vigente en el Distrito Federal o la zona económica de que se trate.
 
 Cuando la conducta descrita en el párrafo anterior sea producto de negligencia, se impondrá hasta la mitad de la pena señalada.
+
+> <small>(ADICIONADO, D.O.F. 25 DE MAYO DE 2006)</small>
+
+###### ARTICULO 464 Ter.
+
+En materia de medicamentos se aplicarán las penas que a continuación se mencionan, a la persona o personas que realicen las siguientes conductas delictivas:
+
+I.- A quien adultere, falsifique, contamine, altere o permita la adulteración, falsificación, contaminación o alteración de medicamentos, fármacos, materias primas o aditivos para uso o consumo humanos o los fabrique sin los registros, licencias o autorizaciones que señala esta Ley, se le aplicará una pena de uno a nueve años de prisión y multa equivalente a cien mil días de salario mínimo general vigente en la zona económica de que se trate;
+
+II.- A quien falsifique o adultere o permita la adulteración o falsificación de material para envase o empaque de medicamentos, sus leyendas, la información que contengan o sus números o claves de identificación, se le aplicará una pena de uno a cinco años de prisión y multa equivalente a cincuenta mil días de salario mínimo general vigente en la zona económica de que se trate, y
+
+III.- A quien venda u ofrezca en venta, comercie, distribuya o transporte medicamentos, fármacos, materias primas o aditivos falsificados, alterados o adulterados, ya sea en establecimientos o en cualquier otro lugar, o bien venda u ofrezca en venta, comercie, distribuya o transporte materiales para envase o empaque de medicamentos, fármacos, materias primas o aditivos, sus leyendas, información que contengan o números o claves de identificación, que se encuentran falsificados, alterados o adulterados, le será impuesta una pena de uno a cinco años de prisión y multa equivalente a cincuenta mil días de salario mínimo general vigente en la zona económica de que se trate.
+
+Para los efectos del presente artículo, se entenderá por medicamento, fármaco, materia prima, aditivo y material, lo preceptuado en las fracciones I, II, III, IV y V del artículo 221 de esta Ley; y se entenderá por adulteración, contaminación, alteración y falsificación, lo previsto en los artículos 206, 207, 208 y 208 bis de esta Ley.
 
 ###### ARTICULO 465.
 
@@ -6147,3 +6169,7 @@ D.O.F. 24 DE ABRIL DE 2006.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- El Ejecutivo Federal contará con sesenta días a partir de la entrada en vigor de este Decreto para emitir el Reglamento en Materia de Tatuajes, Micropigmentaciones y Perforaciones.
+
+D.O.F. 25 DE MAYO DE 2006.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
