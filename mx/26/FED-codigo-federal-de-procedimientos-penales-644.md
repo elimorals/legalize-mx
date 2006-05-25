@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "2006-05-23"
+last_updated: "2006-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1934-08-23"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE MAYO DE 2006.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -2107,11 +2107,15 @@ XII. De la Ley del Mercado de Valores, los previstos en los artículos 52, y 52 
 
 > <small>(ADICIONADA, D.O.F. 17 DE MAYO DE 1999)</small>
 
-XIII. De la Ley de los Sistemas de Ahorro para el Retiro, los previstos en los artículos 103, y 104 cuando el monto de la disposición de los fondos, valores o documentos que manejen de los trabajadores con motivo de su objeto, exceda de trescientos cincuenta mil días de salario mínimo general vigente en el Distrito Federal, y
+XIII. De la Ley de los Sistemas de Ahorro para el Retiro, los previstos en los artículos 103, y 104 cuando el monto de la disposición de los fondos, valores o documentos que manejen de los trabajadores con motivo de su objeto, exceda de trescientos cincuenta mil días de salario mínimo general vigente en el Distrito Federal, y (sic)
 
 > <small>(ADICIONADA, D.O.F. 17 DE MAYO DE 1999)</small>
 
-XIV. De la Ley de Quiebras y Suspensión de Pagos, los previstos en el artículo 96.
+XIV. De la Ley de Quiebras y Suspensión de Pagos, los previstos en el artículo 96;
+
+> <small>(ADICIONADA, D.O. F. 25 DE MAYO DE 2006)</small>
+
+XV. De la Ley General de Salud, los previstos en las fracciones I, II y III del artículo 464 Ter.
 
 La tentativa punible de los ilícitos penales mencionados en las fracciones anteriores, también se califica como delito grave.
 
@@ -4970,5 +4974,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
 
 D.O.F. 23 DE MAYO DE 2006.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 25 DE MAYO DE 2006.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
