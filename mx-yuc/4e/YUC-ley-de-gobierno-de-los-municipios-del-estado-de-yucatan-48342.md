@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-gobierno-de-los-municipios-del-estado-de-yucatan-48342"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-25"
-last_updated: "2006-01-25"
+last_updated: "2006-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 25 DE MAYO DE 2006.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 25 de enero de 2006.
 
@@ -1363,7 +1363,9 @@ VII.- Calles, parques y jardines y su equipamiento;
 
 VIII.- Seguridad pública, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, policía preventiva municipal y tránsito, que estarán al mando del Presidente Municipal, en los términos del Reglamento correspondiente;
 
-IX.- El servicio público y privado de transporte de personas y de carga;
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO.</small>
+
+IX.- (DEROGADA, D.O. 25 DE MAYO DE 2006)
 
 X.- El Catastro, y
 
@@ -1481,9 +1483,13 @@ La concesión de servicios públicos podrá ser prorrogada hasta por plazos equi
 
 En caso de que la vigencia de la concesión exceda al período del Ayuntamiento, se establecerán las estipulaciones conforme a las cuales los Ayuntamientos subsecuentes ratifiquen, revisen y en su caso, modifiquen las condiciones establecidas para la misma.
 
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO.</small>
+
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2006)</small>
+
 ###### Artículo 99.
 
-El concesionario, previamente a la fecha de inicio de la prestación del servicio público, tramitará y obtendrá de las autoridades correspondientes, los permisos, licencias y demás autorizaciones que se requieran. Las autoridades competentes, otorgarán a los concesionarios, las facilidades necesarias para el cumplimiento de esta disposición.
+El concesionario, previamente a la fecha de inicio de la prestación del servicio público, tramitará y obtendrá de las autoridades federales, estatales y municipales, los permisos, licencias y demás autorizaciones que se requieran, conforme a las leyes.
 
 ###### Artículo 100.
 
@@ -2896,3 +2902,11 @@ EL SECRETARIO GENERAL DE GOBIERNO
 (RÚBRICA)
 
 ABOG. PEDRO FRANCISCO RIVAS GUTIÉRREZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+
+D.O. 25 DE MAYO DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+Lo dispuesto en el presente Decreto entrará en vigor el día de la entrada en vigor de la Ley de Gobierno de los Municipios del Estado de Yucatán.
