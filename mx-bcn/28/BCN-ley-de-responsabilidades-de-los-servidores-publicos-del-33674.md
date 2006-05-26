@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-responsabilidades-de-los-servidores-publicos-del-33674"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-29"
-last_updated: "2003-08-29"
+last_updated: "2006-05-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33674&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2006.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 29 de agosto de 2003.
 
@@ -525,9 +525,13 @@ III. La destitución: Consiste en la separación definitiva del cargo, empleo o 
 
 IV. La sanción económica: Es el pago en dinero que en concepto de retribución debe hacer el servidor público responsable a favor del erario Estatal o Municipal, por la infracción cometida, la cual será exclusivamente en los casos en que se obtenga lucro o se ocasione daños o perjuicios al erario Estatal o Municipal; y (sic)
 
-V. La Inhabilitación: Consiste en la imposibilidad temporal, para obtener y ejercer cargo, empleo o comisión en el servicio público;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2006)</small>
 
-VI. La restitución de cualquier bien o producto que se hubiese percibido con motivo de la infracción.
+V. La Inhabilitación: Consiste en la imposibilidad temporal, para obtener y ejercer cargo, empleo o comisión en el servicio público y cuando se imponga como consecuencia de un acto u omisión que implique lucro o cause daños y perjuicios, ésta será de tres meses hasta cinco años si el monto de aquellos no excede de quinientas veces el salario mínimo mensual vigente en el Estado y se (sic) seis a diez años si excede de dicho límite, cuando no se causen daños y perjuicios, ni exista beneficio o lucro alguno, se impondrán de un mes y hasta dos años; y
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2006)</small>
+
+VI. La restitución de cualquier bien o producto que se hubiere percibido con motivo de la infracción.
 
 Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique lucro o cause daños y perjuicios, esta será de tres meses hasta cinco años si el monto de aquellos no excede de quinientas veces el salario mínimo mensual vigente en el Estado y de seis a diez años si excede de dicho límite.
 
@@ -916,3 +920,9 @@ SECRETARIO GENERAL DE GOBIERNO
 BERNARDO H. MARTINEZ AGUIRRE
 
 RUBRICA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE MAYO DE 2006.
+
+ÚNICO.- Las presentes reformad entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
