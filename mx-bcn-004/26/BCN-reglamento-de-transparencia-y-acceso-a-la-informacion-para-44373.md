@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transparencia-y-acceso-a-la-informacion-para-4437
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-03-11"
-last_updated: "2005-03-11"
+last_updated: "2006-05-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PARA EL GOBIERNO MUNICIPAL DE TIJUANA, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 11 de marzo de 2005.
 
@@ -163,43 +163,93 @@ VII. Los trámites, requisitos, formatos vigentes y tiempos de respuesta;
 
 VIII. La información sobre el presupuesto asignado, así como los informes sobre su ejecución, en los términos del presupuesto de Egresos del Municipio;
 
-IX. Los resultados de las auditorías al ejercicio presupuestal de cada sujeto obligado que realicen, según corresponda, la Sindicatura Municipal, las Contralorías Internas o el Órgano Superior de Fiscalización del Congreso del Estado, y en su caso, las aclaraciones relativas;
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2006)</small>
 
-X. El diseño, ejecución, montos asignados y criterios de acceso a los programas de subsidio;
+IX. La información sobre la situación financiera y respecto a la deuda pública;
 
-XI. Relación pormenorizada de concesiones, procesos de licitación y contratación para la adquisición de bienes, arrendamientos y prestación de servicios, permisos, o cualquier otro tipo de autorizaciones que hayan sido otorgadas con anterioridad a la vigencia de este ordenamiento a particulares así como los que se lleguen a otorgar, para la prestación de servicios públicos tales como; almacenaje y venta de bebidas con graduación alcohólica, transporte público, arrastre y almacenamiento de vehículos especificando la fecha de expedición o acuerdo de Cabildo respectivo, duración de los mismos, nombres de los titulares de que se trate, así como las modalidades a las que se sujetan los titulares de estos;
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2006)</small>
 
-XII. Los procesos de licitación y las contrataciones que se hayan celebrado en términos de la legislación aplicable detallando por cada contrato:
+X. Los documentos que consten en las cuentas públicas, empréstitos y deudas contraídas;
+
+XI. Los resultados de las auditorías al ejercicio presupuestal de cada sujeto obligado que realicen, según corresponda, la Sindicatura Municipal, las Contralorías Internas o el Órgano Superior de Fiscalización del Congreso del Estado, y en su caso, las aclaraciones relativas;
+
+XII. El diseño, ejecución, montos asignados y criterios de acceso a los programas de subsidio;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2006)</small>
+
+XIII. La aplicación de fondos auxiliares especiales y el origen de los ingresos;
+
+XIV. Relación pormenorizada de concesiones, procesos de licitación y contratación para la adquisición de bienes, arrendamientos y prestación de servicios, permisos, o cualquier otro tipo de autorizaciones que hayan sido otorgadas con anterioridad a la vigencia de este ordenamiento a particulares así como los que se lleguen a otorgar, para la prestación de servicios públicos tales como; almacenaje y venta de bebidas con graduación alcohólica, transporte público, arrastre y almacenamiento de vehículos especificando la fecha de expedición o acuerdo de Cabildo respectivo, duración de los mismos, nombres de los titulares de que se trate, así como las modalidades a las que se sujetan los titulares de estos;
+
+XV. Los procesos de licitación y las contrataciones que se hayan celebrado en términos de la legislación aplicable detallando por cada contrato:
 
 a) Las obras públicas, los bienes adquiridos, arrendados y los servicios contratados; en el caso de estudios o investigaciones deberá señalarse el tema específico;
 
 b) El monto;
 
-c) El nombre del proveedor, contratista o de la persona física o moral con quienes se haya celebrado el contrato, y
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2006)</small>
 
-d) Los plazos de cumplimiento de los contratos y sus garantías.
+c) El nombre del proveedor, contratista o de la persona física o moral con quienes se haya celebrado el contrato;
 
-XIII. Leyes, Reglamentos, Decretos, Convenios, Circulares, Manuales de Operación y Procedimientos que constituye el marco normativo aplicable a cada sujeto obligado;
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2006)</small>
 
-XIV. Los informes que, por disposición legal, generen los sujetos obligados;
+d) Los plazos de cumplimiento de los Contratos y sus garantías;
 
-XV. Los mecanismos y formas de participación ciudadana;
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2006)</small>
 
-XVI. Las actas de sesiones de cabildo;
+e) La justificación técnica y financiera;
 
-XVII. Los programas anuales de obras señalando comunidades beneficiadas;
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2006)</small>
 
-XVIII. Los informes acerca del estado que guarda el gobierno y la administración pública municipal, rendidos al Ayuntamiento, previstos en la Constitución Política del Estado Libre y Soberano de Baja California;
+f) Las modificaciones a las condiciones del contrato;
 
-XIX. Datos referentes al desarrollo de obras para brindar los servicios públicos a cargo del Ayuntamiento;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2006)</small>
 
-XX. Información en materia de protección civil, los planes de desarrollo urbano, ordenamientos ecológicos y uso de la vía pública;
+XVI. El padrón de proveedores;
 
-XXI. Plan de Desarrollo Municipal; reservas territoriales y ecológicas; participaciones federales y todos los recursos que integran su hacienda, cuotas y tarifas aplicables a impuestos, derechos, aportaciones de mejoras y tablas de valores unitarios de suelo y construcciones, que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2006)</small>
 
-XXII. La información relativa a las actividades culturales, deportivas y recreativas a realizar, y;
+XVII. El padrón inmobiliario
 
-XXIII. Cualquier otra información que sea de utilidad o se considere relevante, además de la que con base a la información estadística, responda a las preguntas hechas con más frecuencia por el público.
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2006)</small>
+
+XVIII. Las actas de sesiones de Cabildo;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2006)</small>
+
+XIX. La lista de asistencia de los integrantes del Ayuntamiento, al pleno y a las comisiones;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2006)</small>
+
+XX. Las iniciativas de Reglamentos o acuerdos, así como el estado que guarden;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2006)</small>
+
+XXI. El sentido de votación de los miembros del Cabildo sobre las iniciativas o acuerdos;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2006)</small>
+
+XXII. Procedimientos de responsabilidad administrativa una vez que hayan causado estado, con base a lo que establecen la Ley de Responsabilidad de los servidores Públicos, la Ley de Fiscalización Superior y demás Leyes Estatales;
+
+XXIII. Los programas anuales de obras señalando comunidades beneficiadas;
+
+XXIV. Los informes acerca del estado que guarda el gobierno y la administración pública municipal, rendidos al Ayuntamiento, previstos en la Constitución Política del Estado Libre y Soberano de Baja California;
+
+XXV. Datos referentes al desarrollo de obras para brindar los servicios públicos a cargo del Ayuntamiento;
+
+XXVI. Información en materia de protección civil, los planes de desarrollo urbano, ordenamientos ecológicos y uso de la vía pública;
+
+XXVII. Plan de Desarrollo Municipal; reservas territoriales y ecológicas; participaciones federales y todos los recursos que integran su hacienda, cuotas y tarifas aplicables a impuestos, derechos, aportaciones de mejoras y tablas de valores unitarios de suelo y construcciones, que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2006)</small>
+
+XXVIII. La información relativa a las actividades culturales, deportivas y; recreativas a realizar;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2006)</small>
+
+XXIX. El informe anual de la Comisión de Transparencia Municipal en los términos del artículo 32 del presente Reglamento;
+
+XXX. Cualquier otra información que sea de utilidad o se considere relevante, además de la que con base a la información estadística, responda a las preguntas hechas con más frecuencia por el público.
 
 La información a que se refiere este artículo deberá invariablemente estar en idioma español de tal forma que facilite su uso y comprensión por los ciudadanos y que permita asegurar su calidad, veracidad, oportunidad y confiabilidad. Las Dependencias y Entidades deberán atender las recomendaciones que al respecto expida la Comisión.
 
@@ -208,6 +258,10 @@ La información a que se refiere este artículo deberá invariablemente estar en
 La información a que se refiere el artículo 9 deberá estar a disposición de los ciudadanos, a través de medios remotos o locales de comunicación electrónica; para ello, el Gobierno Municipal deberá tener a disposición de los ciudadanos equipo de cómputo, a fin de que éstos puedan tener la información de manera directa. Asimismo, se podrá publicar información en la Gaceta Municipal y la Tabla de avisos del Ayuntamiento. La Unidad deberá proporcionar apoyo a los usuarios que lo requieran y proveer todo tipo de asistencia.
 
 Los Sujetos. Obligados deberán preparar la automatización, presentación y contenido de su información, así como su integración en línea, en los términos que dispongan las recomendaciones que al respecto expida la Comisión.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2006)</small>
+
+Es responsable de los sujetos obligados (sic) mantener actualizada la información a que se refiere el artículo 9 y deberán revisarla por lo menos cada 3 meses para verificar su actualidad.
 
 ###### Artículo 11.
 
@@ -257,13 +311,17 @@ I. Que la información encuadre en alguna de las hipótesis de excepción previs
 
 II. Que la liberación de la información de referencia pueda afectar el interés público.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2006)</small>
+
 ###### Artículo 14.
 
-La información clasificada como reservada según el artículo 12 de este Reglamento, podrá permanecer con tal carácter hasta por un período de diez años, contados a partir de su clasificación. Esta información podrá ser desclasificada cuando se extingan las causas que dieron origen a su clasificación o cuando haya transcurrido el período de reserva.
+La información clasificada como reservada según el artículo 12 de este Reglamento, podrá permanecer con tal carácter hasta por un período de cinco años, contados a partir de su clasificación. Esta información podrá ser desclasificada cuando se extingan las causas que dieron origen a su clasificación o cuando haya transcurrido el período de reserva.
 
 La disponibilidad de esa información será sin perjuicio de lo que, al respecto, establezcan otras leyes o Reglamentos. El Comité establecerá los criterios y lineamientos para la clasificación y desclasificación de la información reservada.
 
-Excepcionalmente, los Sujetos Obligados podrán solicitar al Comité, la ampliación del período de reserva por otro período máximo de 10 años, siempre y cuando justifiquen que subsisten las causas que dieron origen a su clasificación.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2006)</small>
+
+Excepcionalmente, los Sujetos Obligados podrán solicitar al Comité, la ampliación del período de reserva por otro período máximo de tres años, siempre y cuando justifiquen que subsisten las causas que dieron origen a su clasificación.
 
 ###### Artículo 15.
 
@@ -375,7 +433,9 @@ Para el desempeño de sus atribuciones, la Comisión contará con cinco Subcomit
 
 Los Subcomités a que se refiere el párrafo anterior, una vez constituidos, designarán por mayoría de votos de sus miembros una terna para presentarla al Cabildo.
 
-A los ciudadanos integrantes de la Comisión se les denominará Comisionados, su cargo será honorífico, durarán en su desempeño por el término de un año, con posibilidad de reelección por un periodo igual y serán nombrados por el Cabildo de entre las ternas que le presenten los Subcomités.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2006)</small>
+
+A los ciudadanos integrantes de la Comisión se les denominará Comisionados, su cargo será honorífico, durarán en su desempeño por el término de dos año, con posibilidad de reelección por un periodo igual y serán nombrados por el Cabildo de entre las ternas que le presenten los Subcomités.
 
 La Comisión funcionará como órgano colegiado y sus decisiones se tomarán por consenso.
 
@@ -457,6 +517,8 @@ V. Las dificultades observadas en el cumplimiento del presente Reglamento, así 
 
 ### CAPITULO SEXTO. Del Comité de Información
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2006)</small>
+
 ###### Artículo 33.
 
 Se establecerá un Comité de Información, con el objeto de coordinar y supervisar las acciones tendientes al cumplimiento de las disposiciones de este Reglamento, y estará integrado por:
@@ -467,23 +529,9 @@ II. El Sindico Procurador;
 
 III. El Regidor Presidente de la Comisión de Régimen Interno;
 
-IV. El Secretario de Gobierno Municipal;
+IV. El Secretario de Gobierno Municipal; y
 
-V. El Secretario de Administración y Finanzas;
-
-VI. El Secretario de Desarrollo Urbano;
-
-VII. El Secretario de Seguridad Pública;
-
-VIII. El Secretario de Desarrollo Social;
-
-IX. El Secretario de Desarrollo Económico;
-
-X. Consejería Jurídica;
-
-XI. Coordinación de Asesores, y;
-
-XII. El Director de Comunicación Social.
+V. El Consejero Jurídico Municipal.
 
 El titular de la Unidad Municipal de Acceso a la Información, fungirá como Secretario Técnico del mismo y sólo tendrá derecho a voz.
 
@@ -515,9 +563,11 @@ IX. Elaborar y aprobar su manual de operación.
 
 ### CAPITULO SEPTIMO. De la Unidad Municipal de Acceso a la Información
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2006)</small>
+
 ###### Artículo 35.
 
-Para la atención de las solicitudes de información el Gobierno Municipal contará con la Unidad Municipal de Acceso a la Información, que dependerá jerárquicamente de forma directa del Sindico Procurador. Esta unidad administrativa tendrá como objeto ser el vínculo entre el Gobierno Municipal y el peticionario, siendo la unidad responsable de hacer los requerimientos de la información solicitada a las dependencias y las notificaciones necesarias a la ciudadanía, verificando en cada caso que la información no sea considerada como clasificada. En caso de ser clasificada la información, la Unidad notificará al peticionario de tal situación. La Unidad no podrá proporcionar a particulares los nombres de los peticionarios y el contenido de la información que se genera como resultado del procedimiento para el acceso a la información pública y corrección de datos personales.
+Para la atención de las solicitudes de información el Gobierno Municipal contará con la Unidad Municipal de Acceso a la Información, que dependerá jerárquicamente de forma directa del Sindico Procurador. Esta unidad administrativa tendrá como objeto ser el vínculo entre el Gobierno Municipal y el peticionario, siendo la unidad responsable de hacer los requerimientos de la información solicitada a las dependencias y las notificaciones necesarias a la ciudadanía, verificando en cada caso que la información no sea considerada como clasificada. En caso de ser clasificada la información, la Unidad notificará al peticionario de tal situación. La Unidad no podrá proporcionar a particulares los nombres de los peticionarios y el contenido de la información que se genera como resultado del procedimiento para el acceso y corrección de datos personales.
 
 ###### Artículo 36.
 
@@ -577,9 +627,15 @@ Si los datos proporcionados por el peticionario no bastan para localizar los doc
 
 La Unidad auxiliará a los peticionarios en la elaboración de las solicitudes de acceso a la información en los casos en que no sepa leer ni escribir. Cuando la información solicitada no sea de su competencia, la Unidad deberá orientar debidamente al peticionario sobre la instancia de gobierno competente.
 
-Si la solicitud es presentada ante una dependencia distinta a la Unidad, aquélla tendrá la obligación de indicar al peticionario la ubicación física de esta última.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2006)</small>
+
+En caso de que la solicitud es presentada ante una dependencia, ésta deberá recibirla y turnarla a la Unidad en un término de 24 horas, indicándole al peticionario la ubicación física de esta última e informándole que será la Unidad quien atenderá la solicitud de información.
 
 En ningún caso la entrega de información estará condicionada a que se motive o justifique su utilización, ni se requerirá demostrar interés alguno.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2006)</small>
+
+A toda solicitud de acceso a la información se le asignará un número de folio para su identificación y se sellara de recibido original y copia, debiendo entregar esta última al solicitante.
 
 ###### Artículo 39.
 
@@ -593,9 +649,11 @@ El acceso se dará solamente en la forma en que lo permita el documento de que s
 
 Si lo solicitado por la persona ya está disponible al público en medios impresos, tales como libros, compendios, trípticos, archivos públicos, en formatos electrónicos disponibles en Internet o en cualquier otro medio, se le hará saber por escrito la fuente, el lugar y la forma en que puede consultar, reproducir o adquirir dicha información.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2006)</small>
+
 ###### Artículo 41.
 
-La Unidad turnará la solicitud al Sujeto Obligado que tenga o pueda tener la información, con el objeto de que éste la localice, verifique su clasificación y le comunique a la primera la procedencia del acceso y la manera en que se encuentre disponible.
+La Unidad turnará la solicitud al Sujeto Obligado que tenga o pueda tener la información, con el objeto de que éste la localice, verifique su clasificación y le comunique a la primera en un término de tres días hábiles la procedencia del acceso y la manera en que se encuentre disponible.
 
 Los sujetos obligados podrán entregar documentos a la Unidad que contengan información clasificada como reservada o confidencial, siempre y cuando, los documentos en que conste la información, permitan eliminar las partes o secciones clasificadas. En tales casos, deberán señalarse las partes o secciones que fueron eliminadas.
 
@@ -605,9 +663,15 @@ La respuesta a la solicitud deberá ser notificada al interesado en el menor tie
 
 Una vez que haya sido notificada la respuesta a la solicitud por parte de la Unidad al usuario, ésta deberá entregarse dentro de los cinco días hábiles siguientes a que el usuario compruebe haber cubierto, en su caso, el pago correspondiente.
 
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2006)</small>
+
+La falta de respuesta a una solicitud de acceso, en el plazo señalado por este artículo se entenderá resuelta en sentido positivo, por lo que el sujeto obligado quedará obligado a darle acceso a la información en un periodo de tiempo no mayor a los diez días hábiles, cubriendo todos los costos generados por la reproducción del material informativo, salvo que el comité determine que los documentos en cuestión son reservados o confidenciales.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2006)</small>
+
 ###### Artículo 43.
 
-Cuando los documentos no se encuentren en los archivos de la dependencia, ésta deberá remitir al Comité la solicitud de acceso y el oficio donde lo manifieste. El Comité analizará el caso y tomará las medidas pertinentes para localizar el documento solicitado y resolverá en consecuencia. En caso de no encontrarlo, expedirá una resolución que confirme la inexistencia del documento solicitado y notificará al usuario, marcando copia a la Unidad. Dicha notificación deberá realizarse dentro de los veinte días hábiles a que hace referencia el artículo 42 del presente Reglamento.
+Cuando los documentos no se encuentren en los archivos de la dependencia, ésta deberá remitir a la Unidad la solicitud de acceso y el oficio Declarando la inexistencia en sus archivos de la información solicitada. La Unidad analizará el caso y tomará las medidas pertinentes para localizar la Dependencia que pudiese tener el documento solicitado, notificando al solicitante la ampliación del plazo de respuesta hasta por diez días hábiles más. En caso de no encontrarlo, expedirá una resolución que confirme la inexistencia del documento solicitado y notificará al usuario, marcando copia al Comité de Información y a la Comisión de Transparencia Municipal. Dicha notificación deberá realizarse dentro de los veinte días hábiles a que hace referencia el artículo 42 del presente Reglamento.
 
 ###### Artículo 44.
 
@@ -702,3 +766,11 @@ Artículo Primero.- El presente Reglamento entrará en vigor el día siguiente d
 Artículo Segundo.- La designación de los integrantes de la Comisión de Transparencia Municipal, deberá hacerse dentro de los treinta días siguientes al inicio de la vigencia del presente ordenamiento. Al efecto el XVIII Ayuntamiento invitará a los organismos, instituciones y cámaras a que se refiere el artículo 27 del presente ordenamiento para que constituyan los correspondientes subcomités sectoriales. El Sindico Municipal en su carácter de Secretario Técnico de la Comisión Municipal de Transparencia apoyará con lo necesario para la debida constitución de los citados subcomités.
 
 Artículo Tercero.- Los particulares podrán presentar solicitudes de acceso a la información pública y corrección de datos personales en los términos del presente Reglamento, sesenta días después del inicio de funciones de la Comisión.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 26 DE MAYO DE 2006.
+
+PRIMERO.- La presente reforma entrará en vigor al momento de su aprobación, y se publicará en el Periódico Oficial, órgano del Gobierno del Estado de Baja California, y en un periódico de mayor circulación y/o en la Gaceta Municipal para el conocimiento de los vecinos.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a la presente reforma.
