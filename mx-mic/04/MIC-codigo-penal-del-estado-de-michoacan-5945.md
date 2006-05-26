@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-del-estado-de-michoacan-5945"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-07-07"
-last_updated: "2004-07-06"
+last_updated: "2006-05-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO PENAL DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2006.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el lunes 7 de julio de 1980.
 
@@ -2367,6 +2367,10 @@ Si del abandono resultare la muerte, se aplicarán de dos a ocho años de prisi�
 
 Si resultaren lesiones, se aplicarán hasta las dos terceras partes de la sanción que correspondería a éstas.
 
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2006)</small>
+
+Artículo 221 bis.- Al que se coloque en estado de insolvencia con el fin de eludir el pago de la pensión alimenticia a que estuviere obligado, ya sea renunciando al empleo, propiciando su despido, dilapidando sus bienes, simulando actos jurídicos, o incurriendo en cualquier conducta tendiente al mismo fin, se le sancionará con pena privativa de la libertad de dos a cinco años, y al pago de la reparación del daño que consistirá en pagar las pensiones alimenticias que se hubiere dejado de cubrir desde que incurrió en tal conducta.
+
 ###### Artículo 222.
 
 El delito de incumplimiento de obligaciones de asistencia familiar sólo se perseguirá a petición del ofendido o de su legítimo representante, y a falta de éste la acción se iniciará por el Ministerio Público, a reserva de que el juez del proceso designe un tutor especial para los efectos de este precepto.
@@ -3756,3 +3760,7 @@ P.O. 6 DE JULIO DE 2004.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 26 DE MAYO DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
