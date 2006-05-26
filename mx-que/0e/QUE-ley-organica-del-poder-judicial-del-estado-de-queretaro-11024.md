@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-judicial-del-estado-de-queretaro-11024"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-02-27"
-last_updated: "2004-11-12"
+last_updated: "2006-05-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE 26 DE MAYO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 27 de febrero de 1997.
 
@@ -1694,3 +1696,21 @@ UNICO.- La presente Ley entrará en vigor al día siguiente de su publicación e
 P.O. 12 DE NOVIEMBRE DE 2004.
 
 ÚNICO. La presente Ley entrara en vigor al día siguiente de se (sic) su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 26 DE MAYO DE 2006.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sobra de Arteaga".
+
+SEGUNDO.- Se abroga la Ley Orgánica del Poder Judicial del Estado de Querétaro, publicada el veintisiete de febrero de mil novecientos noventa y siete en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga", así como todas las demás disposiciones contrarias a la presente Ley.
+
+TERCERO. Para los efectos de los artículos 38 y 66 de la Constitución Política del Estado Libre y Soberano de Querétaro Arteaga y 23 de este ordenamiento legal, por única vez, se determina que la actual presidenta del Tribunal Superior de Justicia concluirá en su encargo el día 30 de septiembre del año 2008, de acuerdo a la norma constitucional vigente.
+
+CUARTO.- El Consejo de la Judicatura se conformará dentro de los quince días siguientes a la entrada en vigor de esta Ley; mientras tanto, el actual Consejo de la Judicatura continuará en funciones.
+
+QUINTO. La Secretaría General de Acuerdos continuará en funciones, hasta en tanto no se haga la reestructuración de dicha oficina en los términos de esta Ley.
+
+SEXTO. En un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigencia de la presente Ley Orgánica deberá expedirse el Reglamento Interior del Tribunal Superior de Justicia. En igual plazo, contado a partir de que entre en funciones el nuevo Consejo de la Judicatura, de conformidad con la presente Ley, deberán expedirse los Reglamentos Interiores del Consejo de la Judicatura y de los juzgados.
+
+SÉPTIMO. En tanto no se expidan los Reglamentos derivados de esta Ley Orgánica, continuarán aplicándose los vigentes en todo lo que no se opongan a la presente.
+
+OCTAVO. Se crea una nueva sala en el Tribunal Superior de Justicia, la cual estará integrada por tres magistrados propietarios, en los términos de ley.
