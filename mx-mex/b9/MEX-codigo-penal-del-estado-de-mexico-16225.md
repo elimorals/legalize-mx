@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2006-01-02"
+last_updated: "2006-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO PENAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE MAYO DE 2006.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -669,7 +669,9 @@ Cuando el delito culposo se cometa con motivo de la conducción de vehículo de 
 
 Se considerará como grave cuando en la comisión de este delito el conductor incurra en cualquiera de las siguientes circunstancias:
 
-I. Se encuentre con aliento alcohólico o estado de ebriedad;
+> <small>(REFORMADA, G.G. 26 DE MAYO DE 2006)</small>
+
+I. Se encuentre en estado de ebriedad;
 
 II. Se encuentre bajo el influjo de drogas, enervantes o psicotrópicos;
 
@@ -678,6 +680,10 @@ III. Abandone a la víctima o no le preste auxilio;
 IV. No cuente con la licencia o el permiso de conductor respectivo; y
 
 V. Cause lesiones a más de tres personas, de las que requieran hospitalización o pongan en peligro la vida o se cause la muerte de dos o más personas.
+
+> <small>(ADICIONADO, G.G. 26 DE MAYO DE 2006)</small>
+
+Cuando por manejar en estado de ebriedad o bajo el influjo de drogas enervantes y otras análogas que produzcan efectos similares se maneje un vehículo de motor, además de la pena por el delito cometido, se le impondrán de seis meses a un año de prisión, de treinta a cien días multa, y suspensión por un año o privación del derecho de manejar. Si el delito se comete por conductores de vehículos de transporte público, de personal o escolar, siempre que no se cause homicidio, además de la pena por el delito cometido, se le impondrán de dos a cuatro años de prisión y de treinta a doscientos días multa y suspensión por un año o privación definitiva del derecho de manejar en caso de reincidencia.
 
 ###### Artículo 62.
 
@@ -1899,7 +1905,7 @@ Al que, para la ejecución de los hechos a que se refieren los artículos anteri
 
 ###### Artículo 196.
 
-Al que en estado de ebriedad o bajo el influjo de drogas enervantes y otras análogas que produzcan efectos similares, maneje un vehículo de motor, se le impondrán de seis mese (sic) a un año de prisión, de treinta a cien días multa, y suspensión por un año o privación del derecho de manejar. Si este delito se comete por conductores de vehículos de transporte al público, oficial, de personal o escolar en servicio, se le impondrán de dos a cuatro años de prisión y de treinta a doscientos días multa y suspensión por un año o privación definitiva del derecho de manejar en caso de reincidencia.
+(DEROGADO, G.G. 26 DE MAYO DE 2006)
 
 ### CAPITULO UNICO
 
@@ -3550,3 +3556,9 @@ PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente decreto entrará en vigor ciento ochenta días naturales después de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Dentro del término de noventa días naturales contados a partir de la entrada en vigor del presente decreto, el Consejo de la Judicatura instalará en cada Distrito Judicial del Estado de México un Juzgado donde se ventilen juicios orales.
+
+G.G. 26 DE MAYO DE 2006.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
