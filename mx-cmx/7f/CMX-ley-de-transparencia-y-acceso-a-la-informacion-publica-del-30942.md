@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-3094
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-08"
-last_updated: "2006-01-31"
+last_updated: "2006-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30942&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-24"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE MAYO DE 2006.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 8 de mayo de 2003.
 
@@ -51,6 +51,10 @@ LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL DISTRITO FEDERAL
 ###### Artículo 1.
 
 La presente Ley es de orden público e interés general y tiene por objeto transparentar el ejercicio de la función pública y garantizar el efectivo acceso de toda persona a la información pública en posesión de los órganos locales: Ejecutivo, Legislativo, Judicial y Autónomos por ley, así como de todo Ente Público del Distrito Federal que ejerza gasto público.
+
+> <small>(ADICIONADO, G.O. 29 DE MAYO DE 2006)</small>
+
+El ejercicio del derecho a la información comprende difundir, investigar y recabar información pública.
 
 ###### Artículo 2.
 
@@ -280,13 +284,21 @@ XXI. Los informes presentados por los partidos políticos ante la autoridad esta
 
 > <small>(ADICIONADA, G.O. 28 DE OCTUBRE DE 2005)</small>
 
-XXII. Controversias entre poderes públicos u órganos de gobierno; y
+XXII. Controversias entre poderes públicos u órganos de gobierno; y (sic)
 
 > <small>(ADICIONADA, G.O. 28 DE OCTUBRE DE 2005)</small>
 
-XXIII. El nombre, domicilio oficial y en su caso dirección electrónica, de los servidores públicos encargados de la oficina de información.
+XXIII. El nombre, domicilio oficial y en su caso dirección electrónica, de los servidores públicos encargados de la oficina de información;
+
+> <small>(ADICIONADA, G.O. 29 DE MAYO DE 2006)</small>
+
+XXIV.- Los entes obligados deberán hacer pública toda aquella información relativa a los montos y las personas a quienes entreguen, por cualquier motivo, recursos públicos, así como los informes que dichas personas les entreguen sobre el uso y destino de dichos recursos.
 
 La información a que se refiere este artículo estará disponible de tal forma que facilite su uso y comprensión por las personas, y que permita asegurar su calidad, veracidad, oportunidad y confiabilidad.
+
+> <small>(ADICIONADO, G.O. 29 DE MAYO DE 2006)</small>
+
+Los informes que presenten los partidos políticos y las agrupaciones políticas locales al Instituto Electoral del Distrito Federal, así como las auditorias y verificaciones que ordene el órgano correspondiente del órgano electoral, deberán hacerse públicos al concluir el procedimiento de fiscalización respectivo.
 
 ###### Artículo 14.
 
@@ -692,11 +704,11 @@ La información que detenten los Entes Públicos deberá estar disponible en los
 
 > <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2003)</small>
 
-I. Cuando se trate de información correspondiente al año que esté en curso: impresos en papel, digitalizados o en cualquier medio de soporte electrónico; y
+I. Cuando se trate de información correspondiente al año que esté en curso: impresos en papel, digitalizados o en cualquier medio de soporte electrónico; y (sic)
 
-> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 2006)</small>
 
-II. Digitalizados en microfichas, para consulta electrónica a partir del año inmediato anterior al que se encuentre en curso y hasta por el plazo que determine el Instituto, de conformidad con la legislación en la materia; organizándolos de acuerdo con los principios archivísticos de procedencia y orden original, que establezca el Instituto;
+II.- Digitalizados en microfichas, para consulta electrónica a partir del año inmediato anterior al que se encuentre en curso y hasta por el plazo que determine el Instituto, la información contenida en el artículo 13 de la ley; de conformidad con la legislación en la materia; organizándolos de acuerdo con los principios archivísticos de procedencia y orden original, que establezca el Instituto;
 
 > <small>(ADICIONADA, G.O. 28 DE OCTUBRE DE 2005)</small>
 
@@ -890,9 +902,9 @@ El Instituto contará con un Secretario Técnico que será designado por el Pres
 
 El Pleno del Instituto podrá sesionar validamente con la presencia de la mayoría simple de sus miembros, pudiéndose tomar los acuerdos por mayoría de votos de los asistentes. En caso de empate el Presidente tendrá voto de calidad. Las sesiones del Pleno del Instituto serán públicas, salvo que medie acuerdo del mismo para declararlas privadas cuando la naturaleza de los temas lo ameriten.
 
-Los Órganos Ejecutivo, Legislativo y Judicial, y autónomos por Ley, podrán intervenir como invitados permanentes a las sesiones del Instituto, por conducto de un representante que tendrá únicamente derecho a voz y será designado conforme a las reglas que para tal efecto determine cada Órgano.
+> <small>(DEROGADO SEGUNDO PARRAFO, G.O. 29 DE MAYO DE 2006)</small>
 
-Por cada representante titular se podrán designar hasta dos suplentes.
+> <small>(DEROGADO ULTIMO PARRAFO, G.O. 29 DE MAYO DE 2006)</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE OCTUBRE DE 2005)</small>
 
@@ -1020,7 +1032,9 @@ III. El estado que guardan las denuncias presentadas ante los órganos internos 
 
 Deberá publicarse un extracto del informe al que se refiere el artículo anterior en la Gaceta Oficial del Distrito Federal, a más tardar el primero de abril de cada año.
 
-### CAPÍTULO II. DEL RECURSO DE INCONFORMIDAD
+> <small>(REFORMADA SU DENOMINACION, G.O. 29 DE MAYO DE 2006)</small>
+
+### CAPÍTULO II. DEL RECURSO DE REVISIÓN
 
 > <small>(REFORMADO, G.O. 28 DE OCTUBRE DE 2005)</small>
 
@@ -1068,9 +1082,9 @@ La autoridad que conozca del recurso de revisión se sujetará a los lineamiento
 
 I. Una vez presentado el recurso, se admitirá a más tardar dentro de las cuarenta y ocho horas siguientes y en el mismo auto se mandará solicitar a la autoridad responsable, rinda un informe respecto del acto o resolución recurrida, en el que agregue las constancias que le sirvieron de base para la emisión de dicho acto, dentro de los cinco días hábiles siguientes. Con dicho informe se le dará vista al recurrente, quien manifestará lo que a su derecho convenga dentro de los cinco días hábiles siguientes a la notificación que se le haga;
 
-> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 2006)</small>
 
-II. En un plazo de quince días hábiles, contados a partir de la admisión del recurso, si las pruebas presentadas fueron desahogadas por su propia naturaleza, deberá emitirse la resolución correspondiente;
+II.- En un plazo de cuarenta y cinco días hábiles, contados a partir de la admisión del recurso, si las pruebas presentadas fueron desahogadas por su propia naturaleza, deberá emitirse la resolución correspondiente;
 
 > <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2005)</small>
 
@@ -1335,3 +1349,9 @@ G.O. 31 DE ENERO DE 2006.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 29 DE MAYO DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
