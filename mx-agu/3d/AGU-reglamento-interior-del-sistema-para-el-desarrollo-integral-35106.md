@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-sistema-para-el-desarrollo-integral-351
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-24"
-last_updated: "2005-11-14"
+last_updated: "2006-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35106&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 2006.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 24 de noviembre de 2003.
 
@@ -1263,21 +1263,29 @@ e).- Un representante de la Secretaría de Desarrollo Social del Estado
 
 f).- Un representante de la Secretaría de Desarrollo Social Federal, en su caso;
 
-g).- Un Representante del Sistema para el Desarrollo Integral de la Familia del Municipio de Aguascalientes, en su caso; y
+g).- Un Representante del Sistema para el Desarrollo Integral de la Familia del Municipio de Aguascalientes, en su caso; y (sic)
 
-h).- Un representante de la Secretaría de Desarrollo Social del Municipio de Aguascalientes, en su caso.
+h).- Un representante de la Secretaría de Desarrollo Social del Municipio de Aguascalientes, en su caso;
 
-IV.- Cinco Vocales del Sector Privado que serán:
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2006)</small>
 
-a).- Representante de Organizaciones que ofrezcan Donativos.
+i) Un representante de la Procuraduría General de Justicia del Estado.
 
-b).- Representante de Clubes de Servicio.
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2006)</small>
 
-c).- Representante de Asilos.
+IV.- Mínimo Cinco Representantes del Sector Privado, quienes tendrán el cargo de vocales.
 
-d).- Representante de Orfanatorios (sic).
+a) (DEROGADO, P.O. 29 DE MAYO DE 2006)
 
-e).- Representante de Bancos de Alimentos.
+b) (DEROGADO, P.O. 29 DE MAYO DE 2006)
+
+c) (DEROGADO, P.O. 29 DE MAYO DE 2006)
+
+d) (DEROGADO, P.O. 29 DE MAYO DE 2006)
+
+e) (DEROGADO, P.O. 29 DE MAYO DE 2006)
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MAYO DE 2006)</small>
 
 ### CAPITULO VII. Del Consejo Técnico para la Beneficencia Privada
 
@@ -1510,3 +1518,7 @@ UNICO.- La presente reforma entrará en vigor al día siguiente de su publicaci�
 P.O. 14 DE NOVIEMBRE DE 2005.
 
 UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 29 DE MAYO DE 2006.
+
+UNICO.- Las reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
