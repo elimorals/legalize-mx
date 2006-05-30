@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2006-04-11"
+last_updated: "2006-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACION Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MAYO DE 2006.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -433,9 +433,13 @@ f) Las demás que deriven de esta ley y de los ordenamientos de la actividad par
 
 ###### ARTICULO 35.
 
-1. Las comisiones son órganos constituidos por el Pleno para instruir y substanciar las iniciativas y propuestas que se presenten al mismo, mediante la elaboración de dictámenes, informes, opiniones o proyectos de resolución, con objeto de contribuir a que el Congreso cumpla con sus atribuciones constitucionales y legales.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2006)</small>
 
-2. Las comisiones ordinarias a cargo de las tareas de dictamen legislativo y de información y control de la gestión pública, en términos de lo dispuesto por el artículo 93 de la Constitución Política del Estado, son las siguientes:
+1. Las Comisiones son órganos constituidos por el Pleno para instruir y substanciar las iniciativas y propuestas que se presenten al mismo, mediante la elaboración de dictámenes, informes, opiniones o proyectos de resolución, con objeto de contribuir a que el Congreso cumpla con sus atribuciones constitucionales y legales.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE MAYO DE 2006)</small>
+
+2. Las Comisiones Ordinarias a cargo de las tareas de dictamen legislativo y de información y control de la gestión pública, en términos de lo dispuesto por el artículo 93 de la Constitución Política del Estado, son las siguientes:
 
 a) Gobernación;
 
@@ -471,7 +475,9 @@ n) Trabajo y Seguridad Social;
 
 o) Equidad y Género, y
 
-p) Asuntos Fronterizos.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2006)</small>
+
+p) Asuntos Fronterizos y Migratorios.
 
 3. La competencia de las comisiones enunciadas en el párrafo anterior se corresponde, en lo general, con las otorgadas a las dependencias de la administración pública del Estado en esas esferas.
 
@@ -636,6 +642,10 @@ Todo diputado podrá asistir a las reuniones de las comisiones ordinarias y espe
 2. La Diputación Permanente se integra en los términos dispuestos por la Constitución Política del Estado y ejerce las atribuciones que la misma le otorga.
 
 3. Si por causa extraordinaria el Congreso suspende sus sesiones o culmina el periodo ordinario sin haber electo a la Diputación Permanente, actuará como tal la última Mesa Directiva del Congreso.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2006)</small>
+
+4. Para la elección de la Diputación Permanente se observarán las previsiones establecidas en el artículo 15 de esta Ley.
 
 ###### ARTICULO 54.
 
@@ -1021,7 +1031,9 @@ c) Los demás que la ley, la Junta de Coordinación Política o el presidente de
 
 ###### ARTICULO 82.
 
-Tendrán el carácter de sesión solemne aquellas en las cuales:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE MAYO DE 2006)</small>
+
+1. Tendrán el carácter de sesión solemne aquellas en las cuales:
 
 a) Rindan la protesta constitucional los diputados al Congreso;
 
@@ -1037,9 +1049,17 @@ f) Realicen visitas delegaciones parlamentarias del Congreso de la Unión, de la
 
 g) Se abran los períodos ordinarios de sesiones;
 
-h) Se imponga la Medalla al Mérito "Luis García de Arellano" del Congreso del Estado, e
+h) Se imponga la Medalla al Mérito "Luis García de Arellano" del Congreso del Estado, e (sic)
 
-i) Se decida por el Pleno en virtud de la naturaleza de los asuntos contemplados para su desahogo.
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2006)</small>
+
+i) El objeto de su realización sea la conmemoración especial de una fecha destacable para la nación o de un acto oficial de acuerdo al calendario cívico del Estado; y
+
+j) Se decida por el Pleno en virtud de la naturaleza de los asuntos contemplados para su desahogo.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2006)</small>
+
+2. En las sesiones solemnes concernientes a los actos previstos en los incisos que anteceden, se entonarán el Himno Nacional Mexicano y el Himno de Tamaulipas, con excepción de los incisos a), c) y j), respecto a los cuales quedará a consideración de la Mesa Directiva incluir en el orden del día correspondiente la entonación de ambos himnos.
 
 ###### ARTICULO 83.
 
@@ -1069,7 +1089,9 @@ h) Clausura de la sesión y cita para la celebración de la siguiente.
 
 5. El orden del día de la última sesión de cada mes contendrá, después del apartado correspondiente a la lectura del acta de la sesión anterior, un punto relativo a la elección de presidente y suplente para el siguiente mes de ejercicio o, en su caso, para la elección de la Diputación Permanente.
 
-6. El acta de la sesión anterior contendrá una relación sucinta de lo acontecido en ella, realizándose inserciones textuales cuando así lo solicite expresamente un diputado. Una vez aprobada el acta, se incorporará a los libros que para tal efecto se lleven.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 30 DE MAYO DE 2006)</small>
+
+6. El acta de la sesión anterior contendrá una relación sucinta de lo acontecido en ella, realizándose inserciones textuales cuando así lo solicite expresamente un diputado. Una vez aprobada el Acta, se incorporará a los libros que para tal efecto se lleven. Podrá dispensarse su lectura y votación, para efectuarse en sesión posterior cuando la sesión a la que corresponde dicho documento se haya celebrado 48 horas o menos antes de la sesión en la que hubiere de discutirse y votarse, además de que su contenido sea considerablemente extenso, circunstancias por las que haya sido materialmente imposible su elaboración y entrega en los términos que establece este ordenamiento y los acuerdos parlamentarios adoptados al efecto.
 
 7. Los documentos relacionados con el orden del día de la sesión podrán presentarse y darse a conocer por escrito o por medios magnéticos o electrónicos, a través de la red informática del Congreso.
 
@@ -2064,6 +2086,22 @@ P.O. 12 DE OCTUBRE DE 2005.
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 11 DE ABRIL DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE MAYO DE 2006.
+
+DECRETO No. LIX-548
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE MAYO DE 2006.
+
+DECRETO No. LIX-551
 
 ###### ARTICULO UNICO.
 
