@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-contaduria-mayor-de-hacienda-del-estado-7920
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-12-28"
-last_updated: "1993-12-28"
+last_updated: "2006-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7920&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY ORGANICA DE LA CONTADURIA MAYOR DE HACIENDA DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AUDITORIA SUPERIOR DEL ESTADO DE SAN LUIS POTOSI, PUBLICADA EN EL P.O. DE 30 DE MAYO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el martes 28 de diciembre de 1993.
 
@@ -378,3 +380,29 @@ LIC. HORACIO SANCHEZ UNZUETA.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 LIC. JAIME SUAREZ ALTAMIRANO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE MAYO DE 2006.
+
+PRIMERO. La presente Ley entrará en vigor el día en que entre en vigor la reforma de los artículos 54, 57, 80, 126, 127 y 135 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí, que instituye la Auditoría Superior del Estado, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley Orgánica de la Contaduría Mayor de Hacienda de San Luis Potosí, publicada en la segunda sección del Periódico Oficial del Estado, el 28 de diciembre de 1993.
+
+TERCERO. Los asuntos que se encuentren en trámite o en proceso en la Contaduría Mayor de Hacienda, al entrar en vigor esta Ley, continuarán tramitándose por la Auditoría Superior del Estado, en los términos de la ley bajo cuya vigencia se iniciaron.
+
+CUARTO. La Auditoría Superior del Estado iniciará sus funciones el día de la entrada en vigor de la presente Ley
+
+QUINTO. La Comisión de Vigilancia del Congreso del Estado, a partir de la entrada en vigor de la presente Ley, emitirá la convocatoria para la designación del Auditor Superior del Estado, en un plazo que no excederá de treinta días naturales.
+
+SEXTO. Hasta en tanto el Congreso del Estado designe al Auditor Superior del Estado, ocupará el cargo en calidad de encargado de despacho, el Contador Mayor de Hacienda o, en su defecto, la persona que designe el propio Congreso.
+
+SEPTIMO. Hasta en tanto se lleven a cabo las reformas a la legislación del Estado que correspondan, las referencias hechas a la Contaduría Mayor de Hacienda se entenderán atingentes a la Auditoría Superior del Estado.
+
+OCTAVO. La revisión de las cuentas públicas conforme a las disposiciones de esta Ley, se efectuará a partir de las cuentas públicas del año 2006.
+
+NOVENO. Todos los bienes, archivos y recursos presupuestales y bienes asignados a la Contaduría Mayor de Hacienda, pasarán a la Auditoría Superior del Estado.
+
+DECIMO. Las disposiciones reglamentarias que se deriven de esta Ley, serán elaboradas por la Auditoría Superior del Estado o el órgano equivalente, dentro de los sesenta días siguientes a la designación del Auditor Superior.
+
+DECIMO PRIMERO. El personal de base de la Contaduría Mayor de Hacienda, a la entrada en vigor de la presente Ley, será reubicado en las distintas áreas del Congreso del Estado, conservando todos sus derechos laborales.
