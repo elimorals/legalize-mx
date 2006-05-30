@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-nacional-de-cultura-fisica-342
 country: "mx"
 rank: "estatuto"
 publication_date: "2003-10-20"
-last_updated: "2004-07-15"
+last_updated: "2006-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34258&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-04-25"
 
 ESTATUTO ORGANICO DE LA COMISION NACIONAL DE CULTURA FISICA Y DEPORTE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE MAYO DE 2006.
 
 Estatuto publicado en el Diario Oficial de la Federación, el lunes 20 de octubre de 2003.
 
@@ -275,7 +275,9 @@ X. Participar en el Programa de Innovación y Calidad Institucional;
 
 XI. Autorizar y controlar las acciones de infraestructura y obras, mediante la planeación, organización, programación, presupuestación, ejecución y evaluación de las mismas, estableciendo la coordinación entre el Gobierno Federal, Estatal y Municipal, para la realización de las construcciones de la infraestructura deportiva conforme a las disposiciones legales y administrativas aplicables en la materia;
 
-XII. Participar en colaboración con las demás Subdirecciones Generales, en la elaboración de convenios de coordinación, colaboración y concertación que la CONADE realice con los órganos estatales del deporte y organizaciones de la iniciativa privada;
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 30 DE MAYO DE 2006)</small>
+
+XII. Participar en colaboración con las demás Subdirecciones Generales, en la elaboración de convenios de coordinación, colaboración y concertación que la CONADE realice con los órganos estatales del deporte y organizaciones de la iniciativa privada, procediendo a dar seguimiento a los mismos en el ámbito de su competencia;
 
 XIII. Fomentar la formación, capacitación y actualización de los recursos humanos necesarios y suficientes para llevar a cabo, con un incremento sostenido de calidad, la promoción y el fomento del deporte y la cultura física de la población nacional;
 
@@ -303,7 +305,9 @@ VI. Establecer estrategias de mercadotecnia y patrocinio deportivo que fortalezc
 
 VII. Participar en el Programa de Innovación y Calidad Institucional;
 
-VIII. Participar en colaboración con las demás Subdirecciones Generales, en la elaboración de convenios de coordinación, colaboración y concertación que la CONADE realice con los órganos estatales del deporte y organizaciones de la iniciativa privada;
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 30 DE MAYO DE 2006)</small>
+
+VIII. Participar en colaboración con las demás Subdirecciones Generales, en la elaboración de convenios de coordinación, colaboración y concertación que la CONADE realice con los órganos estatales del deporte y organizaciones de la iniciativa privada, procediendo a dar seguimiento a los mismos en el ámbito de su competencia;
 
 IX. Establecer metodologías e instrumentos que fomenten la realización de actividades físicas, deportivas y recreativas para personas con algún tipo de discapacidad, y
 
@@ -329,7 +333,9 @@ VI. Impulsar la participación de un mayor número de deportistas en procesos de
 
 VII. Participar en el Programa de Innovación y Calidad Institucional;
 
-VIII. Participar en colaboración con las demás Subdirecciones Generales, en la elaboración de convenios de coordinación, colaboración y concertación que la CONADE realice con los órganos estatales del deporte y organizaciones de la iniciativa privada;
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 30 DE MAYO DE 2006)</small>
+
+VIII. Participar en colaboración con las demás Subdirecciones Generales, en la elaboración de convenios de coordinación, colaboración y concertación que la CONADE realice con los órganos estatales del deporte y organizaciones de la iniciativa privada, procediendo a dar seguimiento a los mismos en el ámbito de su competencia;
 
 IX. Establecer estrategias de coordinación y vinculación con dependencias de la administración pública federal y estatal, con organismos públicos y privados e instituciones educativas, para la participación de un mayor número de deportistas en la Olimpiada Nacional, y
 
@@ -351,7 +357,9 @@ IV. Proponer y controlar el Programa Anual de Adquisiciones de Bienes y Servicio
 
 V. Instrumentar el sistema de control de inventarios de los bienes muebles e inmuebles y vigilar su correcta aplicación;
 
-VI. Controlar los convenios de coordinación, colaboración y concertación que las Subdirecciones Generales del Deporte, de Calidad para el Deporte, y de Cultura Física realicen con los órganos estatales del deporte y organizaciones de la iniciativa privada; y suscribir y controlar los contratos que se otorguen a los proveedores y prestadores de servicios conforme a las disposiciones legales y administrativas aplicables en la materia;
+> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2006)</small>
+
+VI. Programar la ministración de recursos, con base en los convenios de coordinación, colaboración y concertación que las Subdirecciones Generales del Deporte, de Calidad para el Deporte y de Cultura Física realicen con los órganos estatales del deporte y organizaciones de la iniciativa privada; y suscribir los contratos que se otorguen a los proveedores y prestadores de servicios conforme a las disposiciones legales y administrativas aplicables en la materia, procediendo a dar seguimiento a los mismos en el ámbito de su competencia;
 
 VII. Establecer los sistemas y procedimientos para proporcionar los servicios de mantenimiento, correspondencia, archivo, transporte, intendencia, seguridad, vigilancia y protección civil que se requieran;
 
@@ -514,3 +522,7 @@ México, D.F., a 25 de abril de 2003.- El Presidente, Reyes S. Tamez Guerra.- R�
 D.O.F. 15 DE JULIO DE 2004.
 
 UNICO.- Las presentes Modificaciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE MAYO DE 2006.
+
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
