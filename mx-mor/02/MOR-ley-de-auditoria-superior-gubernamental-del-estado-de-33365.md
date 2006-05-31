@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-auditoria-superior-gubernamental-del-estado-de-33365"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-11"
-last_updated: "2004-07-21"
+last_updated: "2006-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33365&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE AUDITORIA SUPERIOR GUBERNAMENTAL DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2006.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el lunes 11 de agosto de 2003.
 
@@ -535,9 +535,37 @@ Las multas y sanciones resarcitorias a que se refiere la presente Ley, tendrán 
 
 La Secretaría de Finanzas y Planeación y las Tesorerías Municipales en el ámbito de su competencia, deberán informar a la Auditoría Superior Gubernamental, de los trámites que se vayan realizando para la ejecución de los cobros respectivos y el monto recuperado.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2006)</small>
+
 ###### Artículo 54.
 
-El importe de las sanciones que se impongan en los términos de esta Ley, deberá ser entregado por la Secretaría de Finanzas y Planeación a las respectivas áreas administrativas de los Poderes del Estado y entes públicos estatales, municipales y autónomos, y demás entidades fiscalizables que sufrieron el daño o perjuicio respectivo. Lo propio se hará en el caso de los Municipios. Dicho importe quedará en las áreas administrativas o tesorerías y sólo podrá ser ejercido de conformidad con lo establecido en el correspondiente presupuesto.
+La recuperación que se obtenga como resultado del fincamiento de responsabilidades resarcitorias, será depositada por los responsables, en la Tesorería del Estado, dependiente de la Secretaría de Finanzas y Planeación, el importe de los depósitos, deberá ser entregada por la depositaria a las respectivas áreas administrativas de los Poderes del Estado, Tesorerías Municipales y entes públicos estatales, municipales y autónomos, y demás entidades que sufrieron el daño o perjuicio respectivo, mediante liquidaciones periódicas. Dicho importe quedará en las áreas administrativas de las Dependencias Estatales o Tesorerías y solo podrá ser ejercido de conformidad con lo establecido en el Presupuesto de Egresos autorizado.
+
+El importe líquido de las multas que en ejercicio de sus atribuciones imponga el Auditor Superior, será depositado por los responsables, en la Tesorería General del Estado, dependiente de la Secretaría de Finanzas y Planeación; su importe será entregado a la Auditoria Superior Gubernamental del Congreso del Estado por la depositaria, integrando el Fondo para el Fortalecimiento de la Fiscalización Superior, el cual se ejercerá, para el equipamiento, y a la capacitación del personal de la misma.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2006)</small>
+
+###### Artículo 54 Bis 1.
+
+Se crea el Fondo para el Fortalecimiento de la Fiscalización Superior; dicho fondo se integrará con el importe de las sanciones que imponga la Auditoria Superior Gubernamental del Congreso del Estado por multas económicas conforme a la ley, que las colectará el Estado a través de la Secretaría de Finanzas y Planeación, Subsecretaría de Ingresos, Tesorería General de Gobierno del Estado, quien las liquidará mensualmente a la Auditoria Superior Gubernamental del Congreso del Estado, para incrementar el Fondo para el Fortalecimiento de la Fiscalización superior.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2006)</small>
+
+###### Artículo 54 Bis 2.
+
+Además del importe de multas administrativas impuestas por la Auditoria Superior Gubernamental a las Dependencias y Entidades fiscalizadas en sus actos de revisión, también formará parte del Fondo para el Fortalecimiento de la Fiscalización Superior, la retención del 5 al millar por concepto de inspección y supervisión de la Obra Pública realizada con ingresos propios, que será entregado por Dependencias o Entidades ejecutoras, en la Tesorería General del Estado, de la Secretaría de Finanzas y Planeación, quien liquidará mensualmente a la Auditoria Superior Gubernamental, para incrementar el Fondo para el Fortalecimiento de la Fiscalización superior.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2006)</small>
+
+###### Artículo 54 Bis 3.
+
+El Fondo para el Fortalecimiento de la Fiscalización Superior, estará a cargo de la Auditoria Superior Gubernamental, se manejará prudencialmente bajo autorizaciones acordadas por el Titular de la Auditoria Superior Gubernamental del Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2006)</small>
+
+###### Artículo 54 Bis 4.
+
+La apertura de la Cuenta del Fondo para el Fortalecimiento de la Fiscalización Superior y sus movimientos mensuales y el anual, serán responsabilidad del Auditor Superior Gubernamental del Congreso del Estado, y dará cuenta de él, mediante informes que presentará trimestralmente el Congreso del Estado.
 
 ###### Artículo 55.
 
@@ -1242,3 +1270,9 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Para los efectos del artículo 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos, remítase el presente decreto al Gobernador del Estado.
+
+P.O. 31 DE MAYO DE 2006.
+
+PRIMERO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo, a efecto de que sea publicado en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
