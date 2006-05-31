@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-derecho-al-acceso-disposicion-y-saneamiento-del-31534"
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-27"
-last_updated: "2005-05-30"
+last_updated: "2006-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31534&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-05-09"
 
 LEY DE AGUAS DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE MAYO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE MAYO DE 2006.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 27 de mayo de 2003.
 
@@ -630,9 +630,11 @@ III. Los residuos sólidos o líquidos producto de procesos industriales u otros
 
 IV. En las barrancas y cauces naturales de aguas pluviales o de manantial cercanos a zonas habitacionales, el Sistema de Aguas deberá construir a ambos lados del cauce, un sistema de drenaje para evitar que se contaminen con aguas residuales.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE MAYO DE 2006)</small>
+
 ###### Artículo 35.
 
-Los usuarios de los servicios hidráulicos deberán sujetarse a las siguientes disposiciones:
+Los usuarios de los servicios hidráulicos, deberán sujetarse a las siguientes disposiciones:
 
 I. Mantener en buen estado sus instalaciones hidráulicas interiores a fin de evitar el desperdicio de agua, y deberán de abstenerse de realizar conductas que contaminen o propicien el mal funcionamiento de las redes y sistemas descritos en esta Ley;
 
@@ -668,9 +670,13 @@ b) Las industrias ubicadas en el Distrito Federal que en todos sus procesos prod
 
 c) Las obras en construcción mayores de 2,500 metros cuadrados, así como en terracerías y compactación de suelos; y
 
-d) Los establecimientos dedicados al lavado de autos; y
+d) Los establecimientos dedicados al lavado de autos; y (sic)
 
-XII. El uso del agua para actividades humanas deberá realizarse de forma tal que se emplee únicamente en las cantidades estrictamente indispensables para cumplir con los objetivos a que se destina.
+XII. El uso del agua para actividades humanas deberá realizarse de forma tal que se emplee únicamente en las cantidades estrictamente indispensables para cumplir con los objetivos a que se destina;
+
+> <small>(ADICIONADA, G.O. 31 DE MAYO DE 2006)</small>
+
+XIII.- Para el caso de edificios mayores de 2 niveles, es obligación de los dueños de los mismos contar con sistemas de rebombeo que garanticen el suministro a todo el edificio.
 
 ###### Artículo 36.
 
@@ -908,11 +914,13 @@ El Sistema de Aguas dictaminará la factibilidad de otorgamiento del servicio a 
 
 En el caso de otorgamiento de la factibilidad de servicios, el Sistema de Aguas determinará el cálculo hidráulico en la red disponible complementándolo con aforos, monitoreo para su aprobación o negativa.
 
+> <small>(REFORMADO, G.O. 31 DE MAYO DE 2006)</small>
+
 ###### Artículo 63.
 
-Cuando resulte necesario aumentar el caudal del suministro de agua, el usuario cubrirá los gastos en los términos del Código Financiero del Distrito Federal.
+Las personas que incrementen su consumo de agua con motivo del cambio de uso o destino del inmueble, así como los nuevos desarrollos urbanos, nuevas edificaciones, nuevas conexiones de agua y drenaje o ampliaciones, pagarán las contribuciones de mejoras en los términos del Código Financiero del Distrito Federal.
 
-Las personas que incrementen su consumo de agua con motivo del cambio de uso o destino del inmueble, así como los nuevos desarrollos urbanos, nuevas edificaciones, nuevas conexiones de agua y drenaje ó ampliaciones, pagarán contribuciones de mejoras en los términos del Código Financiero del Distrito Federal.
+Asimismo las edificaciones de dos niveles en adelante deberán contar con sistemas de almacenamiento de agua para que pueda ser rebombeada a los demás niveles, siendo obligación de la autoridad supervisar lo conducente antes de otorgar los permisos de construcción respectivos.
 
 ###### Artículo 64.
 
@@ -1491,3 +1499,11 @@ QUINTO.- Se derogan todas las disposiciones legales, administrativas y reglament
 SEXTO.- En tanto se expiden las disposiciones administrativas que se deriven de la presente Ley, seguirán en vigor las que han regido hasta ahora en lo que no la contravengan.
 
 SÉPTIMO.- Las disposiciones referidas en el Código Financiero del Distrito Federal al Sistema de Aguas de la Ciudad de México, se entenderá referidas al hoy Sistema de Aguas de la Ciudad de México, órgano público desconcentrado de la Administración Pública del Distrito Federal, en tanto no se actualicen las mismas.
+
+G.O. 31 DE MAYO DE 2006.
+
+PRIMERO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Túrnese al Jefe de Gobierno del Distrito Federal para su debida promulgación y publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+TERCERO.- El Jefe de Gobierno deberá realizar las adecuaciones necesarias a los reglamentos respectivos para la correcta aplicación de la Ley.
